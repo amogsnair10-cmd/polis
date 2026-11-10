@@ -1,0 +1,188 @@
+{
+ "id": "2-7-0",
+ "title": "Bretton Woods to the WTO",
+ "emoji": "🏦",
+ "cards": [
+  {
+   "tag": "Why this matters",
+   "h": "The rules of money and trade",
+   "b": "<p>After the Great Depression and the Second World War, the victors built a new set of rules for money and trade. That system, named after a 1944 conference at <b>Bretton Woods</b>, New Hampshire, still shapes the world: the IMF, the World Bank and, through GATT, the WTO.</p><p>UPSC asks how this system was built, why it changed in 1971, how GATT became the WTO, and why the WTO is now in crisis. India's stand on agriculture, food security, TRIPS and dispute settlement is a regular sub-question.</p><p>The topic is also live. In 2025-26 the US raised tariffs sharply, the WTO's Appellate Body stayed frozen, and the 14th ministerial conference at Yaounde (March 2026) failed on its main items.</p><p>Learn the timeline first, then the institutions, then the debates.</p>"
+  },
+  {
+   "tag": "Event",
+   "h": "Why Bretton Woods was needed",
+   "b": "<p>The interwar years were an economic disaster.</p><ul><li>The <b>gold standard</b> broke down. Countries devalued to win exports, a \"beggar-thy-neighbour\" race.</li><li>The <b>Great Depression</b> (from 1929) and protectionism, such as the US Smoot-Hawley tariff (1930), shrank world trade sharply.</li><li>Economic collapse helped fascism rise.</li></ul><p>The <b>Bretton Woods conference</b> (July 1944) brought 44 Allied nations together. India, still a British colony, sent a delegation. The two main architects were <b>John Maynard Keynes</b> (UK) and <b>Harry Dexter White</b> (US). Keynes wanted an international clearing union with its own currency (the \"bancor\"), which would put pressure on surplus countries too. White's plan, which mostly won, gave the US dollar the central role.</p><p>The aim was <b>embedded liberalism</b> (John Ruggie, 1982): open trade abroad, with room for welfare and full employment at home.</p>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "The Bretton Woods system",
+   "b": "<svg class=\"d\" viewBox=\"0 0 320 140\"><rect x=\"110\" y=\"10\" width=\"100\" height=\"36\" rx=\"8\" fill=\"#f1e4c6\" stroke=\"#a8792a\"/><rect x=\"10\" y=\"90\" width=\"90\" height=\"40\" rx=\"8\" fill=\"#dceaec\" stroke=\"#2f6f7a\"/><rect x=\"115\" y=\"90\" width=\"90\" height=\"40\" rx=\"8\" fill=\"#dceaec\" stroke=\"#2f6f7a\"/><rect x=\"220\" y=\"90\" width=\"90\" height=\"40\" rx=\"8\" fill=\"#dceaec\" stroke=\"#2f6f7a\"/><g font-size=\"10\" fill=\"#1d2433\" text-anchor=\"middle\"><text x=\"160\" y=\"26\" font-weight=\"700\">Gold: $35 per ounce</text><text x=\"160\" y=\"40\">US dollar convertible</text><text x=\"55\" y=\"108\" font-weight=\"700\">IMF</text><text x=\"55\" y=\"122\">Exchange rates</text><text x=\"160\" y=\"108\" font-weight=\"700\">World Bank</text><text x=\"160\" y=\"122\">Reconstruction</text><text x=\"265\" y=\"108\" font-weight=\"700\">GATT 1947</text><text x=\"265\" y=\"122\">Trade rules</text></g><line x1=\"160\" y1=\"46\" x2=\"55\" y2=\"90\" stroke=\"#5d6474\"/><line x1=\"160\" y1=\"46\" x2=\"160\" y2=\"90\" stroke=\"#5d6474\"/><line x1=\"160\" y1=\"46\" x2=\"265\" y2=\"90\" stroke=\"#5d6474\"/></svg><ul><li><b>Fixed but adjustable exchange rates.</b> Currencies were pegged to the dollar; the dollar was convertible to gold at $35 an ounce.</li><li>The <b>IMF</b> lent to members with short-term balance-of-payments problems. Votes depend on <b>quotas</b>, roughly economic size.</li><li>The <b>IBRD</b> (World Bank) financed reconstruction and then development. The IDA (1960) gives soft loans to the poorest.</li><li>A planned <b>International Trade Organization</b> (Havana Charter, 1948) died when the US Congress would not ratify it. <b>GATT</b>, signed in October 1947 by 23 countries, India among them, filled the gap.</li></ul><p>By convention, an American heads the World Bank and a European heads the IMF.</p>"
+  },
+  {
+   "tag": "Event",
+   "h": "The collapse of fixed rates (1971-76)",
+   "b": "<p>The system rested on confidence in the dollar. As the US spent on Vietnam and social programmes, dollars piled up abroad, and gold reserves could not cover them. Robert Triffin had warned of this in 1960: the <b>Triffin dilemma</b>, where the reserve-currency country must run deficits that undermine trust in its currency.</p><ul><li><b>15 August 1971.</b> President Nixon suspended the dollar's convertibility into gold: the \"<b>Nixon shock</b>\".</li><li><b>1971.</b> The Smithsonian Agreement tried new pegs, but they failed.</li><li><b>1973.</b> Major currencies began to float.</li><li><b>1976.</b> The Jamaica Accords amended the IMF Articles to legalise floating rates.</li></ul><p>The IMF then shifted toward lending to developing countries, especially after the oil shocks (1973, 1979) and the <b>debt crisis</b> that began with Mexico in 1982. Its loans came with <b>conditionality</b>: structural adjustment programmes based on the Washington Consensus. Critics such as Stiglitz say they caused hardship, as in the 1997 Asian crisis.</p>"
+  },
+  {
+   "tag": "Event",
+   "h": "GATT rounds to the Uruguay Round",
+   "b": "<p>GATT worked through negotiating <b>rounds</b> that cut tariffs step by step.</p><ul><li>Geneva (1947) to the Dillon Round (1960-61): tariff cuts on goods.</li><li><b>Kennedy Round</b> (1964-67): large across-the-board cuts and an anti-dumping code.</li><li><b>Tokyo Round</b> (1973-79): non-tariff barriers, and the \"enabling clause\" (1979) allowing special treatment for developing countries.</li><li><b>Uruguay Round</b> (1986-94), launched at Punta del Este: the biggest round. It brought <b>agriculture</b>, <b>textiles</b>, <b>services</b> and <b>intellectual property</b> into the rules, and created the WTO.</li></ul><div class=\"box\"><h4>GATT's core principles</h4><b>Most-favoured-nation</b> (MFN): no discrimination between trading partners. <b>National treatment</b>: imports treated like domestic goods once inside. <b>Bound tariffs</b>, <b>transparency</b> and exceptions for regional trade agreements (Article XXIV) and security (Article XXI).</div><p>Arthur Dunkel's draft text (1991) shaped the final deal, and India had a heated public debate over it.</p>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "The WTO: structure and agreements",
+   "b": "<p>The <b>Marrakesh Agreement</b> (April 1994) set up the <b>World Trade Organization</b>, which began on 1 January 1995 in Geneva. It has 166 members.</p><div class=\"box\"><h4>Main pillars</h4><ul><li><b>GATT 1994</b> for goods, with the Agreement on Agriculture (AoA).</li><li><b>GATS</b> for services.</li><li><b>TRIPS</b> for intellectual property: patents for 20 years, including on pharmaceuticals.</li><li><b>Dispute Settlement Understanding</b>: panels and a seven-member <b>Appellate Body</b>, with binding rulings and \"negative consensus\" adoption.</li><li><b>Trade Policy Review Mechanism.</b></li></ul></div><p>The highest body is the <b>Ministerial Conference</b>, held every two years or so. Decisions are by <b>consensus</b>, which gives every member a veto in practice.</p><p>The Agreement on Agriculture sorts farm support into boxes: <b>amber</b> (trade-distorting, capped), <b>blue</b> (production-limiting) and <b>green</b> (minimal distortion, allowed). The current Director-General, Ngozi Okonjo-Iweala, is the first woman and first African in the post, now in her second term.</p>"
+  },
+  {
+   "tag": "Event",
+   "h": "Doha to Yaounde: a stalled agenda",
+   "b": "<ul><li><b>Doha Development Agenda</b> (November 2001): a round meant to help developing countries. It stalled over farm subsidies and market access, with collapses at Cancun (2003) and in 2008.</li><li><b>Bali (2013):</b> the Trade Facilitation Agreement (in force 2017), and an interim \"peace clause\" on food stockholding.</li><li><b>Nairobi (2015):</b> agreement to end farm export subsidies.</li><li><b>MC12, Geneva (2022):</b> a deal on harmful fisheries subsidies and a limited TRIPS waiver for COVID-19 vaccines.</li><li><b>MC13, Abu Dhabi (2024):</b> few results.</li><li><b>MC14, Yaounde (26-29 March 2026):</b> no consensus to extend the moratorium on customs duties on electronic transmissions, which lapsed for the first time in years; no fix for the Appellate Body; fisheries talks on overcapacity were sent on to the next conference. Some members have since moved toward a temporary extension of the moratorium.</li></ul><p>Meanwhile groups of members use <b>plurilateral</b> deals (investment facilitation, e-commerce), which India often opposes as bypassing consensus.</p>"
+  },
+  {
+   "tag": "Critique",
+   "h": "The WTO in crisis",
+   "b": "<ul><li><b>Appellate Body paralysis.</b> Since December 2019 the US has blocked new appointments, so the body cannot hear appeals. Losing parties can appeal \"into the void\". About 50-odd members use a stopgap, the <b>Multi-Party Interim Appeal Arbitration Arrangement</b> (MPIA, 2020). India and the US are not in it.</li><li><b>Unilateral tariffs.</b> US tariffs in 2025-26, justified by national security (Section 232) and other laws, ignore MFN commitments. The US Supreme Court ruled in February 2026 that one law (IEEPA) did not allow tariffs, but other tariffs continue.</li><li><b>China's model.</b> State subsidies and state firms strain rules written for market economies.</li><li><b>North-South divide.</b> Disputes over special and differential treatment, farm support and TRIPS.</li><li><b>Consensus deadlock</b> among 166 members.</li><li><b>Regionalism.</b> Mega-deals such as CPTPP and RCEP (in force 2022) shift rule-making elsewhere.</li></ul><p>Defenders note that most world trade still runs on WTO tariff bindings, and that the system has prevented a 1930s-style collapse.</p>"
+  },
+  {
+   "tag": "Debate",
+   "h": "Reforming the Bretton Woods institutions",
+   "b": "<ul><li><b>Voice and votes.</b> The US holds about 16.5% of IMF votes, enough to veto decisions needing an 85% majority. China's quota (about 6.4%) is below its economic weight. The 16th quota review (December 2023) raised quotas by 50% but kept shares the same; realignment was pushed to later talks.</li><li><b>Leadership convention</b> (American at the Bank, European at the Fund) is criticised by emerging economies.</li><li><b>Conditionality</b> and austerity are criticised.</li><li><b>Climate and debt.</b> The G20's Common Framework for debt (2020) has been slow. Calls grow for more concessional finance.</li><li><b>New bodies.</b> The BRICS <b>New Development Bank</b> (began 2015, Shanghai) and the China-led <b>AIIB</b> (2016, Beijing; India is its second-largest shareholder).</li><li><b>Dollar dominance.</b> The dollar remains the main reserve currency, though its share has slowly fallen. Talk of \"de-dollarisation\" grew after sanctions on Russia in 2022.</li></ul>"
+  },
+  {
+   "tag": "Indian angle",
+   "h": "India and the global economic order",
+   "b": "<ul><li><b>Founding member</b> of the IMF, World Bank and GATT (1947), and of the WTO (1995).</li><li><b>1991.</b> India took IMF support during its balance-of-payments crisis and began reforms.</li><li><b>Agriculture and food security.</b> India defends minimum support prices and <b>public stockholding</b> for food security, protected for now by the Bali peace clause. It seeks a permanent solution. In 2018-19 India became the first country to invoke the peace clause, for rice.</li><li><b>TRIPS.</b> India's Patents Act amendment (2005) kept Section 3(d) against \"evergreening\". The Supreme Court upheld it in <i>Novartis v. Union of India</i> (2013). India and South Africa proposed the COVID-19 TRIPS waiver (October 2020).</li><li><b>Fisheries.</b> India seeks room for small and artisanal fishers in subsidy rules.</li><li><b>Disputes.</b> India has been both complainant and respondent, including with the US over steel, solar panels and tariffs.</li><li><b>IMF and World Bank.</b> India seeks quota realignment. Its IMF quota share is about 2.75%.</li><li><b>Trade policy.</b> A mix of multilateralism and new FTAs (UAE 2022, Australia 2022, UK in force July 2026, EU concluded January 2026).</li></ul>"
+  },
+  {
+   "tag": "Exam lens",
+   "h": "How UPSC asks this",
+   "b": "<div class=\"box\">\"Trace the evolution of the international economic order from Bretton Woods to the WTO.\"</div><div class=\"box\">\"Why did the Bretton Woods system collapse in the 1970s?\"</div><div class=\"box\">\"Is the WTO in crisis? Examine India's stand on WTO reform.\"</div><div class=\"box\">\"The Bretton Woods institutions need democratisation. Discuss.\"</div><p><b>Structure:</b> interwar background, Bretton Woods 1944 (Keynes versus White), three pillars, the 1971 Nixon shock and floating rates, the debt crisis and conditionality. Then GATT rounds, the Uruguay Round and the WTO (1995) with its agreements. Then Doha's stall and MC12-MC14. The crisis: Appellate Body, tariffs, China. Reform debates. End with India's positions.</p><p>A timeline (1944, 1947, 1971, 1986, 1995, 2001, 2019, 2026) gives quick marks.</p>",
+   "cls": "exam"
+  }
+ ],
+ "quiz": [
+  {
+   "q": "The Bretton Woods conference was held in:",
+   "o": [
+    "October 1947",
+    "August 1971",
+    "April 1994",
+    "July 1944"
+   ],
+   "a": 3,
+   "w": "44 Allied nations met in New Hampshire in July 1944."
+  },
+  {
+   "q": "Keynes proposed an international currency called the:",
+   "o": [
+    "Bancor",
+    "SDR",
+    "Unitas",
+    "Ecu"
+   ],
+   "a": 0,
+   "w": "White's dollar-centred plan largely prevailed."
+  },
+  {
+   "q": "Under the Bretton Woods system, the US dollar was convertible to gold at:",
+   "o": [
+    "$20 per ounce",
+    "$35 per ounce",
+    "$42 per ounce",
+    "$100 per ounce"
+   ],
+   "a": 1,
+   "w": "Until the Nixon shock of 1971."
+  },
+  {
+   "q": "The Triffin dilemma refers to:",
+   "o": [
+    "Tariff wars",
+    "Debt crises in Latin America",
+    "The reserve-currency country's deficits undermining trust in its currency",
+    "Farm subsidies"
+   ],
+   "a": 2,
+   "w": "Robert Triffin warned of it in 1960."
+  },
+  {
+   "q": "Which agreement legalised floating exchange rates in 1976?",
+   "o": [
+    "Jamaica Accords",
+    "Smithsonian Agreement",
+    "Plaza Accord",
+    "Louvre Accord"
+   ],
+   "a": 0,
+   "w": "The Jamaica Accords amended the IMF Articles."
+  },
+  {
+   "q": "Which GATT round created the WTO?",
+   "o": [
+    "Kennedy Round",
+    "Tokyo Round",
+    "Uruguay Round",
+    "Doha Round"
+   ],
+   "a": 2,
+   "w": "The Uruguay Round (1986-94) ended with the Marrakesh Agreement."
+  },
+  {
+   "q": "The WTO came into existence on:",
+   "o": [
+    "1 January 1948",
+    "11 December 2001",
+    "1 January 2005",
+    "1 January 1995"
+   ],
+   "a": 3,
+   "w": "Following the Marrakesh Agreement of April 1994."
+  },
+  {
+   "q": "Since December 2019, the WTO Appellate Body has been unable to function because:",
+   "o": [
+    "The US blocked new appointments",
+    "China withdrew",
+    "India vetoed its budget",
+    "The EU dissolved it"
+   ],
+   "a": 0,
+   "w": "Members use the MPIA as a stopgap."
+  },
+  {
+   "q": "At MC14 in Yaounde (March 2026), members:",
+   "o": [
+    "Agreed a permanent e-commerce moratorium",
+    "Restored the Appellate Body",
+    "Concluded the Doha Round",
+    "Failed to extend the e-commerce duty moratorium"
+   ],
+   "a": 3,
+   "w": "The moratorium lapsed and the Appellate Body stayed frozen."
+  },
+  {
+   "q": "In Novartis v. Union of India (2013), the Supreme Court upheld:",
+   "o": [
+    "Compulsory licensing for all drugs",
+    "Section 3(d) of the Patents Act against evergreening",
+    "The TRIPS waiver",
+    "Data exclusivity"
+   ],
+   "a": 1,
+   "w": "It refused a patent for a modified form of Glivec."
+  }
+ ],
+ "sources": [
+  "Benn Steil, The Battle of Bretton Woods (2013)",
+  "John Ruggie, 'International Regimes, Transactions, and Change: Embedded Liberalism', International Organization (1982)",
+  "Robert Triffin, Gold and the Dollar Crisis (1960)",
+  "WTO, Understanding the WTO; Marrakesh Agreement (1994)",
+  "WTO, MC14 Yaounde outcomes (March 2026); General Council minutes (May 2026)",
+  "IMF, Sixteenth General Review of Quotas (December 2023)",
+  "Joseph Stiglitz, Globalization and Its Discontents (2002)",
+  "Novartis AG v. Union of India (2013)",
+  "Ministry of Commerce, India's WTO positions; India-UK CETA (2026)",
+  "PYQ themes: Bretton Woods to WTO, WTO and India (Paper II Section A)"
+ ],
+ "verified": "2026-11-10"
+}
