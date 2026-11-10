@@ -1,0 +1,176 @@
+{
+ "id": "0-0-0",
+ "title": "Ecology, Ecosystems and Energy Flow",
+ "emoji": "🌿",
+ "cards": [
+  {
+   "tag": "Why this matters",
+   "h": "The base of every environment question",
+   "b": "<p>Ecology appears in UPSC Prelims almost every year. Questions on food chains, pyramids, keystone species and biomagnification are routine.</p><p>GS Paper III also uses these ideas. Pollution, climate and biodiversity answers all rest on how an ecosystem works. If energy flow is clear, much of the syllabus becomes easy.</p>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "What ecology studies",
+   "b": "<p><b>Ecology</b> is the study of how organisms relate to each other and to their surroundings. The word was coined by <b>Ernst Haeckel</b> in 1866. The term <b>ecosystem</b> was coined by <b>A.G. Tansley</b> in 1935.</p><p>The levels run from organism to population, community, ecosystem, biome and biosphere. An ecosystem has abiotic parts (light, soil, water) and biotic parts: <b>producers</b>, <b>consumers</b> and <b>decomposers</b>.</p>"
+  },
+  {
+   "tag": "Food chains",
+   "h": "Grazing, detritus and the web",
+   "b": "<p>A <b>grazing food chain</b> starts with green plants and moves to herbivores and carnivores. A <b>detritus food chain</b> starts with dead matter, eaten by earthworms and fungi. On land, much more energy flows through the detritus chain.</p><p>Each feeding level is a <b>trophic level</b>. Real ecosystems form a <b>food web</b> with many linked chains. A web is more stable because an animal can switch food if one source fails.</p>"
+  },
+  {
+   "tag": "Energy flow",
+   "h": "The ten percent law",
+   "b": "<p>Sunlight is the only input. Producers capture only a small part of it. <b>Raymond Lindeman</b> (1942) showed that about <b>10 percent</b> of energy passes from one trophic level to the next. The rest is lost as heat in respiration.</p><p>So energy flow is <b>one-way</b>. Nutrients cycle, but energy does not. This is also why food chains rarely have more than four or five links.</p><svg class='d' viewBox='0 0 320 190' role='img' aria-label='Energy pyramid with ten percent transfer'>\n<rect x='10' y='10' width='300' height='30' fill='#dceaec' stroke='#2f6f7a'/><text x='160' y='30' font-size='11' text-anchor='middle' fill='#1d2433'>Top carnivore: 10 J</text>\n<rect x='10' y='46' width='300' height='30' fill='#f1e4c6' stroke='#a8792a'/><text x='160' y='66' font-size='11' text-anchor='middle' fill='#1d2433'>Secondary consumer: 100 J</text>\n<rect x='10' y='82' width='300' height='30' fill='#dceaec' stroke='#2f6f7a'/><text x='160' y='102' font-size='11' text-anchor='middle' fill='#1d2433'>Primary consumer: 1,000 J</text>\n<rect x='10' y='118' width='300' height='30' fill='#f1e4c6' stroke='#a8792a'/><text x='160' y='138' font-size='11' text-anchor='middle' fill='#1d2433'>Producer: 10,000 J</text>\n<text x='160' y='170' font-size='11' text-anchor='middle' fill='#5d6474'>About 10% passes up each step. The rest is lost as heat.</text></svg>"
+  },
+  {
+   "tag": "Productivity",
+   "h": "GPP, NPP and who is most productive",
+   "b": "<p><b>Gross primary productivity (GPP)</b> is the total energy fixed by producers. <b>Net primary productivity (NPP)</b> is GPP minus the energy used by plants in respiration. NPP is the food available to consumers.</p><p>Per unit area, estuaries, coral reefs and tropical rainforests are among the most productive. Open oceans are poor per area but huge in total because they cover so much of Earth.</p>"
+  },
+  {
+   "tag": "Pyramids",
+   "h": "Numbers, biomass and energy",
+   "b": "<p>The <b>pyramid of energy</b> is always upright. Energy cannot increase going up.</p><p>The <b>pyramid of biomass</b> is inverted in the sea. Tiny phytoplankton have a small standing crop but multiply fast, and they feed a larger mass of zooplankton and fish. The <b>pyramid of numbers</b> can be inverted too: one big tree supports thousands of insects.</p>"
+  },
+  {
+   "tag": "Biomagnification",
+   "h": "Poisons climb the chain",
+   "b": "<p>Some substances are not broken down or excreted: DDT, mercury, cadmium. They build up in fat or tissue. This is <b>bioaccumulation</b>. When the concentration rises at each higher trophic level, it is <b>biomagnification</b>.</p><p>Top predators suffer most. DDT thinned the eggshells of eagles and falcons. Mercury caused Minamata disease in Japan (1956). Cadmium caused Itai-itai disease.</p>"
+  },
+  {
+   "tag": "Key terms",
+   "h": "Niche, keystone species and ecotone",
+   "b": "<p><b>Habitat</b> is where an organism lives. <b>Niche</b> is its role: what it eats, where it lives and how it behaves. A <b>keystone species</b> has an effect far larger than its numbers. <b>Robert Paine</b> (1966) showed this with the starfish <i>Pisaster</i> on rocky shores.</p><p>An <b>ecotone</b> is a transition zone between two ecosystems, such as mangroves between land and sea. It often holds more species. This is the <b>edge effect</b>.</p>"
+  },
+  {
+   "tag": "Indian angle",
+   "h": "Vultures and the ecosystem service",
+   "b": "<p>India’s vultures crashed by over 95 percent in the 1990s. The cause was <b>diclofenac</b>, a painkiller given to cattle. Vultures ate the carcasses and died of kidney failure.</p><p>Without vultures, carcasses rotted, stray dogs increased and rabies risk rose. India banned veterinary diclofenac in 2006. This is a clean example of how one lost scavenger breaks the detritus link.</p><p>The Sundarbans, Western Ghats and Chilika are all good examples of linked food webs under stress.</p>"
+  },
+  {
+   "tag": "Exam lens",
+   "h": "How to answer",
+   "b": "<p><b>Mains-style:</b> “Ecosystem services are the lifeline of human welfare. Discuss with Indian examples.” Structure: define services (provisioning, regulating, cultural, supporting); give Indian cases (mangroves as storm buffers, wetlands as flood sponges, pollinators); name the threat; end with policy (PES, Green Credit).</p><p><b>Mains-style:</b> “Why is biomagnification a concern for human health?” Define, give DDT and mercury, link to Indian pesticide use, suggest bans and organic methods.</p><p><b>Prelims tip:</b> Energy pyramids are always upright. Biomass pyramids can be inverted only in aquatic systems. Learn who coined each term.</p>",
+   "cls": "exam"
+  }
+ ],
+ "quiz": [
+  {
+   "q": "Who coined the term ecosystem?",
+   "o": [
+    "A.G. Tansley, 1935",
+    "Ernst Haeckel, 1866",
+    "Raymond Lindeman, 1942",
+    "Eugene Odum, 1953"
+   ],
+   "a": 0,
+   "w": "Tansley coined it in 1935. Haeckel coined ecology; Lindeman gave the ten percent law."
+  },
+  {
+   "q": "Roughly what share of energy passes to the next trophic level?",
+   "o": [
+    "About 1 percent",
+    "About 50 percent",
+    "About 90 percent",
+    "About 10 percent"
+   ],
+   "a": 3,
+   "w": "The ten percent law. Most energy is lost as heat in respiration."
+  },
+  {
+   "q": "Which pyramid is always upright?",
+   "o": [
+    "Pyramid of biomass in the sea",
+    "Pyramid of numbers in a tree ecosystem",
+    "Pyramid of energy",
+    "Pyramid of numbers in a pond"
+   ],
+   "a": 2,
+   "w": "Energy cannot increase going up a chain, so its pyramid is always upright."
+  },
+  {
+   "q": "NPP is equal to:",
+   "o": [
+    "GPP plus respiration",
+    "GPP minus respiration losses",
+    "Biomass of consumers",
+    "Energy of decomposers"
+   ],
+   "a": 1,
+   "w": "Net primary productivity is gross productivity minus what plants burn in respiration."
+  },
+  {
+   "q": "In terrestrial ecosystems, most energy flows through the:",
+   "o": [
+    "Detritus food chain",
+    "Grazing food chain",
+    "Parasitic food chain",
+    "Marine food chain"
+   ],
+   "a": 0,
+   "w": "Much plant matter is not grazed and is eaten by decomposers after death."
+  },
+  {
+   "q": "The starfish Pisaster was used by Paine to show the idea of:",
+   "o": [
+    "Ecotone",
+    "Biomagnification",
+    "Succession",
+    "Keystone species"
+   ],
+   "a": 3,
+   "w": "Removing the starfish caused mussels to take over and reduced diversity."
+  },
+  {
+   "q": "Itai-itai disease is linked to which metal?",
+   "o": [
+    "Mercury",
+    "Lead",
+    "Cadmium",
+    "Arsenic"
+   ],
+   "a": 2,
+   "w": "Cadmium caused Itai-itai in Japan. Mercury caused Minamata."
+  },
+  {
+   "q": "The transition zone between two ecosystems is called:",
+   "o": [
+    "Biome",
+    "Ecotone",
+    "Niche",
+    "Habitat"
+   ],
+   "a": 1,
+   "w": "An ecotone sits between ecosystems and often shows the edge effect."
+  },
+  {
+   "q": "The drug that nearly wiped out India’s vultures was:",
+   "o": [
+    "Diclofenac",
+    "Paracetamol",
+    "Ibuprofen",
+    "Penicillin"
+   ],
+   "a": 0,
+   "w": "Diclofenac in cattle carcasses caused kidney failure in vultures. It was banned for veterinary use in 2006."
+  },
+  {
+   "q": "Biomagnification means:",
+   "o": [
+    "Increase in plant biomass",
+    "Increase in energy at higher levels",
+    "Growth of algae in a lake",
+    "Concentration of a persistent substance rises at higher trophic levels"
+   ],
+   "a": 3,
+   "w": "Persistent toxins accumulate more at each higher level, so top predators carry the most."
+  }
+ ],
+ "sources": [
+  "Shankar IAS Environment, ecology chapters",
+  "NCERT Biology Class XII, Units 10 (Ecology)",
+  "MoEFCC and PIB"
+ ],
+ "verified": "2026-11-10"
+}

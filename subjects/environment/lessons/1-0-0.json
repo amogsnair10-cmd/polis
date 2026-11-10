@@ -1,0 +1,177 @@
+{
+ "id": "1-0-0",
+ "title": "Biodiversity: Levels, Hotspots and Threats",
+ "emoji": "🦋",
+ "cards": [
+  {
+   "tag": "Why this matters",
+   "h": "Biodiversity is asked every year",
+   "b": "<p>Hotspots, endemic species, invasive plants and the global biodiversity framework come up often in Prelims. Mains uses them in questions on conservation, climate and development.</p><p>India holds about 2.4 percent of Earth’s land and a much larger share (roughly 7 to 8 percent) of known species. It is one of the <b>megadiverse</b> countries.</p>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "Three levels",
+   "b": "<p><b>Genetic diversity</b>: variation within a species, such as thousands of rice varieties. <b>Species diversity</b>: the number and spread of species. <b>Ecosystem diversity</b>: variety of habitats like forests, wetlands and deserts.</p><p><b>Whittaker</b> split species diversity into <b>alpha</b> (within a habitat), <b>beta</b> (between habitats) and <b>gamma</b> (across a region).</p>"
+  },
+  {
+   "tag": "Patterns",
+   "h": "Where is diversity high?",
+   "b": "<p>Diversity rises toward the equator. This is the <b>latitudinal gradient</b>: tropical regions have more stable climate, more energy and a longer evolutionary history.</p><p>The <b>species-area relationship</b> (Humboldt) says larger areas hold more species. The equation S = CA^Z gives a slope (Z) of about 0.1 to 0.2 on regional scales. This is why habitat fragmentation matters.</p>"
+  },
+  {
+   "tag": "Hotspots",
+   "h": "The idea",
+   "b": "<p><b>Norman Myers</b> (1988) proposed biodiversity hotspots. <b>Conservation International</b> now uses two tests: at least <b>1,500 endemic vascular plant species</b> and at least <b>70 percent of original habitat lost</b>. There are about 36 hotspots worldwide.</p><p>They cover a small fraction of land but hold a very large share of endemic plants and vertebrates.</p>"
+  },
+  {
+   "tag": "India’s four hotspots",
+   "h": "Where they are",
+   "b": "<ul><li><b>Himalaya</b>: the whole range, including Bhutan, Nepal and parts of Tibet.</li><li><b>Indo-Burma</b>: North-East India south of the Brahmaputra, plus Myanmar and more.</li><li><b>Western Ghats and Sri Lanka</b>: very high endemism.</li><li><b>Sundaland</b>: in India, only the Nicobar Islands.</li></ul>"
+  },
+  {
+   "tag": "Threats",
+   "h": "Why species are lost",
+   "b": "<p>Jared Diamond called the main causes the “evil quartet”: <b>habitat loss and fragmentation</b>, <b>overexploitation</b>, <b>alien species invasion</b> and <b>co-extinction</b>. Climate change and pollution are now added.</p><p>Habitat loss is the top cause. Poaching, the wildlife trade and human-animal conflict add pressure.</p>"
+  },
+  {
+   "tag": "Invasive species",
+   "h": "Plants that take over",
+   "b": "<p>India’s major invasives include <b>Lantana camara</b>, <b>water hyacinth</b>, <b>Prosopis juliflora</b>, <b>Parthenium</b> and <b>Chromolaena</b>. They crowd out native plants and reduce grazing and water.</p><p>The Wildlife (Protection) Amendment Act 2022 gave the Centre power to regulate invasive alien species. Control costs are high, and removal programmes in tiger reserves such as Bandipur and Mudumalai are ongoing.</p>"
+  },
+  {
+   "tag": "Global framework",
+   "h": "Kunming-Montreal, 2022",
+   "b": "<p>The <b>Convention on Biological Diversity</b> (Rio, 1992) set the base. In December 2022 at <b>COP15 (Montreal)</b>, nations adopted the <b>Kunming-Montreal Global Biodiversity Framework</b> with 23 targets for 2030.</p><p>Key targets: protect <b>30 percent of land and sea by 2030</b> (“30 by 30”), restore 30 percent of degraded areas, and mobilise about <b>$200 billion a year</b> from all sources. Developed countries are to give $20 billion a year in international finance by 2025 and $30 billion by 2030.</p>"
+  },
+  {
+   "tag": "Indian angle",
+   "h": "Law and plans",
+   "b": "<p>The <b>Biological Diversity Act 2002</b> set up the <b>National Biodiversity Authority</b> (Chennai, 2003), State Biodiversity Boards and local <b>Biodiversity Management Committees</b>. It covers access and benefit sharing, based on the Nagoya Protocol.</p><p>The Biological Diversity (Amendment) Act 2023 eased rules for AYUSH users and decriminalised some offences. India released an updated <b>National Biodiversity Strategy and Action Plan</b> with national targets in line with the Kunming-Montreal framework (as of 2024).</p><p>CBD COP17 was due in Armenia in late 2026; check its outcome before the exam.</p>"
+  },
+  {
+   "tag": "Exam lens",
+   "h": "How to answer",
+   "b": "<p><b>Mains-style:</b> “What are biodiversity hotspots? Why is the Western Ghats a hotspot, and what threatens it?” Structure: definition and two criteria; Western Ghats endemism; threats (mining, plantations, tourism, landslides); Gadgil and Kasturirangan reports; remedies.</p><p><b>Mains-style:</b> “Invasive alien species are a silent threat to Indian ecosystems. Discuss.”</p><p><b>Prelims tip:</b> Remember the two hotspot criteria numbers (1,500 and 70 percent). India’s hotspot in the Nicobar Islands belongs to Sundaland.</p>",
+   "cls": "exam"
+  }
+ ],
+ "quiz": [
+  {
+   "q": "The two criteria for a hotspot include losing what share of original habitat?",
+   "o": [
+    "At least 70 percent",
+    "At least 30 percent",
+    "At least 50 percent",
+    "At least 90 percent"
+   ],
+   "a": 0,
+   "w": "Conservation International: 1,500 endemic plants and 70 percent habitat lost."
+  },
+  {
+   "q": "Which of these is not an Indian hotspot?",
+   "o": [
+    "Himalaya",
+    "Indo-Burma",
+    "Western Ghats and Sri Lanka",
+    "Sundaland as a whole"
+   ],
+   "a": 3,
+   "w": "Only the Nicobar Islands part of Sundaland is in India, so Sundaland as a whole is not."
+  },
+  {
+   "q": "Who proposed the hotspot concept in 1988?",
+   "o": [
+    "Jared Diamond",
+    "E.O. Wilson",
+    "Norman Myers",
+    "Robert Whittaker"
+   ],
+   "a": 2,
+   "w": "Myers proposed it; Conservation International later refined it."
+  },
+  {
+   "q": "Beta diversity refers to diversity:",
+   "o": [
+    "Within a habitat",
+    "Between habitats",
+    "Across a whole region",
+    "Of genes"
+   ],
+   "a": 1,
+   "w": "Alpha is within a habitat, beta is between, gamma is regional."
+  },
+  {
+   "q": "Which is an invasive plant in India?",
+   "o": [
+    "Lantana camara",
+    "Neem",
+    "Sal",
+    "Teak"
+   ],
+   "a": 0,
+   "w": "Lantana was introduced and now spreads through many forests."
+  },
+  {
+   "q": "The Kunming-Montreal framework aims to protect what share of land and sea by 2030?",
+   "o": [
+    "10 percent",
+    "17 percent",
+    "50 percent",
+    "30 percent"
+   ],
+   "a": 3,
+   "w": "This is the “30 by 30” target adopted in 2022."
+  },
+  {
+   "q": "The National Biodiversity Authority is headquartered at:",
+   "o": [
+    "Delhi",
+    "Bhopal",
+    "Chennai",
+    "Dehradun"
+   ],
+   "a": 2,
+   "w": "NBA was set up in 2003 at Chennai under the 2002 Act."
+  },
+  {
+   "q": "Biodiversity increases generally from:",
+   "o": [
+    "Equator toward the poles",
+    "Poles toward the equator",
+    "Plains to oceans",
+    "East to west"
+   ],
+   "a": 1,
+   "w": "This is the latitudinal gradient."
+  },
+  {
+   "q": "Which Act deals with access and benefit sharing in India?",
+   "o": [
+    "Biological Diversity Act 2002",
+    "Wildlife Protection Act 1972",
+    "Forest Rights Act 2006",
+    "Environment Protection Act 1986"
+   ],
+   "a": 0,
+   "w": "The BD Act implements the benefit sharing idea of CBD and the Nagoya Protocol."
+  },
+  {
+   "q": "Co-extinction means:",
+   "o": [
+    "Two species merge",
+    "Extinction of all species in a hotspot",
+    "Extinction due to hunting",
+    "A species dies because a partner species died"
+   ],
+   "a": 3,
+   "w": "Example: a parasite or pollinator lost with its host."
+  }
+ ],
+ "sources": [
+  "Shankar IAS Environment, ecology chapters",
+  "NCERT Biology Class XII, Units 10 (Ecology)",
+  "MoEFCC and PIB",
+  "Kunming-Montreal GBF text, CBD 2022"
+ ],
+ "verified": "2026-11-10"
+}

@@ -1,0 +1,177 @@
+{
+ "id": "0-0-2",
+ "title": "Terrestrial and Aquatic Ecosystems",
+ "emoji": "🏞️",
+ "cards": [
+  {
+   "tag": "Why this matters",
+   "h": "Biomes and ecosystems link to the map",
+   "b": "<p>Prelims often asks you to match a biome with a climate, a plant or an animal. Mains asks about forests, wetlands and coastal systems. This lesson gives the skeleton.</p><p>Know the main biomes, India’s forest types, forest cover numbers and the zones of lakes and oceans.</p>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "A biome is a large ecosystem type",
+   "b": "<p>A <b>biome</b> is a major community shaped by climate, mainly temperature and rainfall. The main ones are tundra, taiga (boreal forest), temperate deciduous forest, grassland, savanna, tropical rainforest, desert and Mediterranean scrub.</p><p>An <b>ecosystem</b> is smaller and can be a pond or a patch of forest. Biomes change with latitude and with altitude.</p>"
+  },
+  {
+   "tag": "Land biomes",
+   "h": "Quick guide",
+   "b": "<ul><li><b>Tundra:</b> very cold, permafrost, mosses and lichens, reindeer.</li><li><b>Taiga:</b> conifers, long winters; the largest land biome by area.</li><li><b>Temperate grassland:</b> prairies (N. America), steppes (Eurasia), pampas (Argentina), veldt (S. Africa), downs (Australia).</li><li><b>Savanna:</b> grass with scattered trees; Africa’s plains.</li><li><b>Tropical rainforest:</b> hot, wet, richest biodiversity.</li><li><b>Desert:</b> under 25 cm rain; succulents like cacti.</li></ul>"
+  },
+  {
+   "tag": "India’s forests",
+   "h": "Types and cover",
+   "b": "<p><b>Champion and Seth</b> (1968) classified India’s forests into 16 major types, with tropical moist deciduous as the largest group in area.</p><p>As of <b>ISFR 2023</b> (the latest I could confirm), India’s forest cover is about 21.76 percent of the area and tree cover about 3.41 percent. Total green cover is about 25.17 percent. The India State of Forest Report is released by the Forest Survey of India every two years.</p>"
+  },
+  {
+   "tag": "Forest cover",
+   "h": "Where the forests are",
+   "b": "<p>By area, Madhya Pradesh has the largest forest cover, then Arunachal Pradesh and Chhattisgarh. By percentage of its area, Mizoram, Lakshadweep and Andaman and Nicobar rank highest.</p><p>The National Forest Policy 1988 aims for one-third of land under forest or tree cover, and two-thirds in hills. India is still below that.</p>"
+  },
+  {
+   "tag": "Freshwater ecosystems",
+   "h": "Still and flowing water",
+   "b": "<p><b>Lentic</b> means still water: lakes, ponds. <b>Lotic</b> means flowing water: rivers, streams.</p><p>A deep lake has three zones. The <b>littoral</b> zone is the shallow edge with rooted plants. The <b>limnetic</b> zone is open water where light reaches. The <b>profundal</b> zone is deep and dark. Lakes age through eutrophication and silting.</p>"
+  },
+  {
+   "tag": "Marine and estuarine",
+   "h": "Ocean zones",
+   "b": "<p>The sea has a lighted <b>photic zone</b> and a dark <b>aphotic zone</b>. The <b>neritic</b> zone is over the continental shelf and holds most fish. <b>Pelagic</b> means open water; <b>benthic</b> means the sea floor.</p><p>An <b>estuary</b> is where a river meets the sea. Salinity varies and nutrients are rich, so it is a nursery for fish and prawns. <b>Upwelling</b> brings nutrients to the surface and creates rich fisheries, as off Peru.</p>"
+  },
+  {
+   "tag": "Debate",
+   "h": "Forest cover is not forest quality",
+   "b": "<p>India’s cover has risen on paper, but experts point out that the count includes plantations, orchards and bamboo. Natural forest and old-growth stands may be shrinking, and open forest is increasing while very dense forest changes slowly.</p><p>The question is whether we protect <b>ecosystem function</b> or just green area. This is a standard Mains argument.</p>"
+  },
+  {
+   "tag": "Indian angle",
+   "h": "Special systems",
+   "b": "<p><b>Loktak Lake</b> in Manipur has floating <b>phumdis</b>. Keibul Lamjao is the only floating national park in the world and shelters the sangai (brow-antlered deer). <b>Chilika</b> is Asia’s largest brackish water lagoon. The <b>Sundarbans</b> is the largest mangrove delta.</p><p>The Western Ghats and Eastern Himalaya are montane forest hotspots. The Thar and Ladakh cold desert are the dry biomes.</p>"
+  },
+  {
+   "tag": "Exam lens",
+   "h": "How to answer",
+   "b": "<p><b>Mains-style:</b> “What is the difference between forest cover and tree cover? Why is India’s quality of forest a concern?” Structure: definitions (ISFR terms); latest numbers (as of ISFR 2023); concerns (plantations counted, loss of natural forest, diversion for projects); remedies (CAMPA, community management).</p><p><b>Prelims tip:</b> Pampas is Argentina, veldt is South Africa, steppe is Eurasia. Loktak’s phumdis are floating biomass. Champion and Seth gave 16 types.</p>",
+   "cls": "exam"
+  }
+ ],
+ "quiz": [
+  {
+   "q": "Who classified India’s forests into 16 major types?",
+   "o": [
+    "Kasturirangan",
+    "Madhav Gadgil",
+    "Champion and Seth",
+    "Haeckel"
+   ],
+   "a": 2,
+   "w": "Champion and Seth (1968) is the standard classification."
+  },
+  {
+   "q": "Pampas grassland is found in:",
+   "o": [
+    "South Africa",
+    "Argentina",
+    "Australia",
+    "Central Asia"
+   ],
+   "a": 1,
+   "w": "Pampas is Argentina. Veldt is South Africa and steppe is Eurasia."
+  },
+  {
+   "q": "The only floating national park in the world is:",
+   "o": [
+    "Keibul Lamjao",
+    "Kaziranga",
+    "Manas",
+    "Bhitarkanika"
+   ],
+   "a": 0,
+   "w": "It is on Loktak Lake in Manipur."
+  },
+  {
+   "q": "Which is a lentic ecosystem?",
+   "o": [
+    "River",
+    "Stream",
+    "Canal",
+    "Pond"
+   ],
+   "a": 3,
+   "w": "Lentic means still water."
+  },
+  {
+   "q": "The lake zone with rooted plants is:",
+   "o": [
+    "Limnetic",
+    "Profundal",
+    "Littoral",
+    "Benthic"
+   ],
+   "a": 2,
+   "w": "The shallow edge supports rooted vegetation."
+  },
+  {
+   "q": "Which state has the largest forest cover in area?",
+   "o": [
+    "Arunachal Pradesh",
+    "Madhya Pradesh",
+    "Odisha",
+    "Maharashtra"
+   ],
+   "a": 1,
+   "w": "ISFR reports consistently place Madhya Pradesh first by area."
+  },
+  {
+   "q": "Forest cover in India is about how much of its area (ISFR 2023)?",
+   "o": [
+    "About 21.8 percent",
+    "About 33 percent",
+    "About 12 percent",
+    "About 40 percent"
+   ],
+   "a": 0,
+   "w": "About 21.76 percent forest cover; with tree cover total is about 25.17 percent."
+  },
+  {
+   "q": "National Forest Policy 1988 targets what share of land under forest and tree cover?",
+   "o": [
+    "One-fifth",
+    "Half",
+    "One-fourth",
+    "One-third"
+   ],
+   "a": 3,
+   "w": "One-third overall, two-thirds in hills."
+  },
+  {
+   "q": "Chilika is best described as:",
+   "o": [
+    "A freshwater lake",
+    "A glacial lake",
+    "A brackish water lagoon",
+    "An oxbow lake"
+   ],
+   "a": 2,
+   "w": "Chilika in Odisha is Asia’s largest brackish lagoon."
+  },
+  {
+   "q": "The largest land biome by area is:",
+   "o": [
+    "Tundra",
+    "Taiga",
+    "Savanna",
+    "Rainforest"
+   ],
+   "a": 1,
+   "w": "The boreal forest spreads across Canada, Russia and Scandinavia."
+  }
+ ],
+ "sources": [
+  "Shankar IAS Environment, ecology chapters",
+  "NCERT Biology Class XII, Units 10 (Ecology)",
+  "MoEFCC and PIB",
+  "India State of Forest Report 2023, Forest Survey of India"
+ ],
+ "verified": "2026-11-10"
+}

@@ -1,0 +1,169 @@
+{
+ "id": "0-0-2",
+ "title": "The Cognitive Revolution and Cave Art",
+ "emoji": "🎨",
+ "cards": [
+  {
+   "tag": "Why this matters",
+   "h": "Why would someone crawl into a dark cave to paint a bull?",
+   "b": "<p>About 40,000 years ago, people started leaving marks that said 'we were here, and we thought about things'. Painted animals, carved figures, flutes made of bone.</p><p>Something in the human mind lit up. Let us visit the oldest art galleries on Earth.</p>"
+  },
+  {
+   "tag": "The story",
+   "h": "The oldest paintings keep getting older",
+   "b": "<p>In Indonesia's Sulawesi island, a hand stencil and a painted pig have been dated to <b>over 45,000 years ago</b>. Some Sulawesi art has now been dated even older, by dating the thin mineral crust over it.</p><p>The oldest known art keeps moving back as dating improves. That is why you should treat 'oldest' claims as 'oldest so far'.</p>"
+  },
+  {
+   "tag": "The story",
+   "h": "The cave that was a time capsule",
+   "b": "<p>In 1994, three explorers found <b>Chauvet Cave</b> in southern France. It had been sealed by a rockfall for about 20,000 years. Inside: lions, rhinos, horses and bears painted about 30,000-36,000 years ago.</p><p>Later, <b>Lascaux</b> (France, about 17,000 years old) was found by teenagers chasing a dog, in 1940. Its bulls are huge and gorgeous.</p>"
+  },
+  {
+   "tag": "The twist",
+   "h": "Animals who are half-human",
+   "b": "<svg class=\"d\" viewBox=\"0 0 320 152\"><line x1=\"14\" y1=\"10\" x2=\"14\" y2=\"142\" stroke=\"#a8792a\" stroke-width=\"2\"/><circle cx=\"14\" cy=\"22\" r=\"5\" fill=\"#f1e4c6\" stroke=\"#a8792a\" stroke-width=\"2\"/><text x=\"28\" y=\"26\" font-size=\"11\" font-weight=\"700\" fill=\"#a8792a\">~45,000+</text><text x=\"112\" y=\"26\" font-size=\"11\" fill=\"#1d2433\">Sulawesi pig and hand stencils</text><circle cx=\"14\" cy=\"50\" r=\"5\" fill=\"#f1e4c6\" stroke=\"#a8792a\" stroke-width=\"2\"/><text x=\"28\" y=\"54\" font-size=\"11\" font-weight=\"700\" fill=\"#a8792a\">~40,000</text><text x=\"112\" y=\"54\" font-size=\"11\" fill=\"#1d2433\">Lion-headed figure, Germany</text><circle cx=\"14\" cy=\"78\" r=\"5\" fill=\"#f1e4c6\" stroke=\"#a8792a\" stroke-width=\"2\"/><text x=\"28\" y=\"82\" font-size=\"11\" font-weight=\"700\" fill=\"#a8792a\">~36,000</text><text x=\"112\" y=\"82\" font-size=\"11\" fill=\"#1d2433\">Chauvet Cave paintings</text><circle cx=\"14\" cy=\"106\" r=\"5\" fill=\"#f1e4c6\" stroke=\"#a8792a\" stroke-width=\"2\"/><text x=\"28\" y=\"110\" font-size=\"11\" font-weight=\"700\" fill=\"#a8792a\">~17,000</text><text x=\"112\" y=\"110\" font-size=\"11\" fill=\"#1d2433\">Lascaux Cave</text><circle cx=\"14\" cy=\"134\" r=\"5\" fill=\"#f1e4c6\" stroke=\"#a8792a\" stroke-width=\"2\"/><text x=\"28\" y=\"138\" font-size=\"11\" font-weight=\"700\" fill=\"#a8792a\">~14,000</text><text x=\"112\" y=\"138\" font-size=\"11\" fill=\"#1d2433\">Altamira, Spain</text></svg><p>The <b>Lion-man</b> of the Hohlenstein-Stadel cave in Germany is a carved ivory figure with a human body and a lion's head. It is about 40,000 years old. It shows people could imagine things that do not exist. Some scholars link this to early belief or stories.</p>"
+  },
+  {
+   "tag": "The story",
+   "h": "What was going on in their heads?",
+   "b": "<p>Historians call this the <b>Cognitive Revolution</b>, a term popularised by Yuval Noah Harari. The big idea: humans got better at language, planning and imagination.</p><p>But this idea is debated. Some archaeologists think there was no sudden 'revolution'. Neanderthals may have made art too: engravings and painted shells in Spain are claimed to be Neanderthal, though the dating is contested.</p>"
+  },
+  {
+   "tag": "The story",
+   "h": "Music, jewellery and trade",
+   "b": "<p>Bone flutes made from vulture bone and mammoth ivory from caves in Germany are about <b>40,000 years old</b>. Shell beads travelled hundreds of kilometres. That tells us about trade and identity.</p><p>Somebody wore beads to say who they were.</p>"
+  },
+  {
+   "tag": "Myth vs fact",
+   "h": "Were cave artists 'primitive'?",
+   "b": "<b>Myth:</b> cave people were dim.<b>Fact:</b> their brains were the same size as ours. The artists used shading, perspective and clever use of rock bumps to make animals look alive.<p>Something else: nobody knows why they painted. 'Hunting magic', shamans in trances and storytelling are all guesses. Historians argue and none of the guesses is proven.</p>"
+  },
+  {
+   "tag": "Indian angle",
+   "h": "Meanwhile in India…",
+   "b": "<p>Bhimbetka and the painted shelters</p>"
+  },
+  {
+   "tag": "Recap",
+   "h": "Five takeaways, two puzzles",
+   "b": "<p><b>Five things to remember</b></p><ol><li>Art and symbols appear at least 45,000 years ago.</li><li>Chauvet and Lascaux are famous cave galleries in France.</li><li>The Lion-man shows imagination of unreal beings.</li><li>Whether it was a sudden 'revolution' is debated.</li><li>Bhimbetka shows India's long rock art tradition.</li></ol><p><b>Think about it</b></p><ul><li>Why might people paint deep in dark caves rather than outside?</li><li>If Neanderthals made art, what changes in the story?</li></ul>",
+   "cls": "exam"
+  }
+ ],
+ "quiz": [
+  {
+   "q": "Chauvet Cave was found in...",
+   "o": [
+    "1940",
+    "1801",
+    "1994",
+    "1975"
+   ],
+   "a": 2,
+   "w": "Three explorers found it in southern France in 1994."
+  },
+  {
+   "q": "Lascaux was found by...",
+   "o": [
+    "Teenagers and a dog in 1940",
+    "Napoleon's soldiers",
+    "Archaeologists in 1994",
+    "Vikings"
+   ],
+   "a": 0,
+   "w": "Famous discovery story from 1940."
+  },
+  {
+   "q": "The Lion-man figure is made of...",
+   "o": [
+    "Gold",
+    "Clay",
+    "Bronze",
+    "Ivory"
+   ],
+   "a": 3,
+   "w": "A carved mammoth ivory figure from Germany."
+  },
+  {
+   "q": "The term 'Cognitive Revolution' was popularised by...",
+   "o": [
+    "Charles Darwin",
+    "Yuval Noah Harari",
+    "Carl Sagan",
+    "Alexander Cunningham"
+   ],
+   "a": 1,
+   "w": "In Sapiens (2011)."
+  },
+  {
+   "q": "Sulawesi's paintings are in...",
+   "o": [
+    "Indonesia",
+    "Peru",
+    "Egypt",
+    "Kenya"
+   ],
+   "a": 0,
+   "w": "Sulawesi is an Indonesian island."
+  },
+  {
+   "q": "Bone flutes about 40,000 years old were found in...",
+   "o": [
+    "India",
+    "China",
+    "Mexico",
+    "Germany"
+   ],
+   "a": 3,
+   "w": "Caves of the Swabian Jura."
+  },
+  {
+   "q": "Bhimbetka is in which state?",
+   "o": [
+    "Rajasthan",
+    "Madhya Pradesh",
+    "Odisha",
+    "Karnataka"
+   ],
+   "a": 1,
+   "w": "Near Bhopal."
+  },
+  {
+   "q": "What is a safe statement about rock art dates?",
+   "o": [
+    "They are always exact",
+    "They come from written records",
+    "They are often hard to pin down",
+    "They are all 40,000 years old"
+   ],
+   "a": 2,
+   "w": "Dating is difficult and often revised."
+  },
+  {
+   "q": "Why do cave artists not count as 'primitive'?",
+   "o": [
+    "They had printing",
+    "They had writing",
+    "They used metal tools",
+    "Brains similar to ours and skilled technique"
+   ],
+   "a": 3,
+   "w": "Modern-sized brains and sophisticated technique."
+  },
+  {
+   "q": "Was the Cognitive Revolution a settled idea?",
+   "o": [
+    "No, historians debate how sudden it was",
+    "Yes, proven by DNA",
+    "Yes, proven by Lascaux",
+    "No one has ever discussed it"
+   ],
+   "a": 0,
+   "w": "Some experts see gradual change."
+  }
+ ],
+ "sources": [
+  "Aubert et al., Nature 2014 and 2019 (Sulawesi); Conard, Nature 2003 (Hohlenstein-Stadel); UNESCO Bhimbetka listing; Harari, Sapiens"
+ ],
+ "verified": "2026-11-10"
+}

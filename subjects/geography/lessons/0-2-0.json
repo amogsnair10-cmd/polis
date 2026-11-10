@@ -1,0 +1,176 @@
+{
+ "id": "0-2-0",
+ "title": "Ocean Relief, Temperature and Salinity",
+ "emoji": "🌊",
+ "cards": [
+  {
+   "tag": "Why this matters",
+   "h": "The oceans cover 71% of Earth",
+   "b": "<p>Fisheries, oil, minerals, trade routes and climate all depend on the ocean floor, its temperature and its salt. India has a coastline of about 11,098 km including islands (as per recent figures) and an Exclusive Economic Zone of about 2 million sq km.</p>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "The shape of the ocean floor",
+   "b": "<svg class=\"d\" viewBox=\"0 0 320 190\"><path d=\"M10 40 L60 40 L90 60 L130 120 L170 150 L210 150 L250 120 L270 100 L310 70 L310 190 L10 190 Z\" fill=\"#dceaec\" stroke=\"#2f6f7a\" stroke-width=\"1.5\"/><text x=\"35\" y=\"32\" fill=\"#a3362a\" font-size=\"10\" text-anchor=\"middle\" font-weight=\"700\">Shelf</text><text x=\"102\" y=\"50\" fill=\"#a3362a\" font-size=\"10\" text-anchor=\"middle\" font-weight=\"700\">Slope</text><text x=\"145\" y=\"112\" fill=\"#a3362a\" font-size=\"10\" text-anchor=\"middle\" font-weight=\"700\">Rise</text><text x=\"190\" y=\"170\" fill=\"#7d5a1c\" font-size=\"10\" text-anchor=\"middle\" font-weight=\"700\">Abyssal plain</text><line x1=\"160\" y1=\"150\" x2=\"160\" y2=\"185\" stroke=\"#a3362a\" stroke-width=\"2\"/><text x=\"160\" y=\"182\" fill=\"#a3362a\" font-size=\"10\" text-anchor=\"middle\" font-weight=\"700\">Trench</text><text x=\"265\" y=\"92\" fill=\"#2f6f7a\" font-size=\"10\" text-anchor=\"middle\" font-weight=\"700\">Ridge</text><text x=\"160\" y=\"14\" fill=\"#5d6474\" font-size=\"10\" text-anchor=\"middle\">Shelf: gentle, rich fisheries. Slope: steep. Plain: flat, deep.</text></svg><svg class=\"d\" viewBox=\"0 0 320 182\"><rect x=\"10\" y=\"6\" width=\"95\" height=\"38\" rx=\"6\" fill=\"#f1e4c6\" stroke=\"#a8792a\" stroke-width=\"1.5\"/><text x=\"57.5\" y=\"29.0\" fill=\"#7d5a1c\" font-size=\"11\" text-anchor=\"middle\" font-weight=\"700\">Shelf</text><rect x=\"111\" y=\"6\" width=\"199\" height=\"38\" rx=\"6\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"210.5\" y=\"29.0\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\">Average 75 km wide, depth to 200 m, fisheries, oil</text><rect x=\"10\" y=\"50\" width=\"95\" height=\"38\" rx=\"6\" fill=\"#dceaec\" stroke=\"#2f6f7a\" stroke-width=\"1.5\"/><text x=\"57.5\" y=\"73.0\" fill=\"#2f6f7a\" font-size=\"11\" text-anchor=\"middle\" font-weight=\"700\">Slope</text><rect x=\"111\" y=\"50\" width=\"199\" height=\"38\" rx=\"6\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"210.5\" y=\"73.0\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\">Steep, to about 3,000 m</text><rect x=\"10\" y=\"94\" width=\"95\" height=\"38\" rx=\"6\" fill=\"#f4dcd5\" stroke=\"#a3362a\" stroke-width=\"1.5\"/><text x=\"57.5\" y=\"117.0\" fill=\"#a3362a\" font-size=\"11\" text-anchor=\"middle\" font-weight=\"700\">Abyssal plain</text><rect x=\"111\" y=\"94\" width=\"199\" height=\"38\" rx=\"6\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"210.5\" y=\"117.0\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\">3,000-6,000 m, flattest on Earth</text><rect x=\"10\" y=\"138\" width=\"95\" height=\"38\" rx=\"6\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"57.5\" y=\"161.0\" fill=\"#1d2433\" font-size=\"11\" text-anchor=\"middle\" font-weight=\"700\">Trench</text><rect x=\"111\" y=\"138\" width=\"199\" height=\"38\" rx=\"6\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"210.5\" y=\"161.0\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\">Deepest, 6,000-11,000 m, subduction zones</text></svg><p>Most ocean floor is the abyssal plain, covered with deep mud called <b>ooze</b>. Sediment thins away from the coast.</p>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "Ridges, seamounts and trenches",
+   "b": "<p><b>Mid-ocean ridges</b> are underwater mountain chains where plates diverge (Mid-Atlantic Ridge). <b>Seamounts</b> are submerged volcanoes; flat-topped ones are <b>guyots</b>. <b>Trenches</b> are mostly in the Pacific; the Mariana Trench, with Challenger Deep at about 11 km, is the deepest known point.</p><p>Mid-ocean ridges plus deep trenches make the \"Ring of Fire\" in the Pacific.</p>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "Coral reefs",
+   "b": "<p>Corals need warm clear water of 20-30 C, sunlight and salinity near 35 ppt, so they grow in shallow tropical seas, mostly between 30 N and 30 S, away from muddy river mouths. Types: <b>fringing</b> (touching land), <b>barrier</b> (lagoon between; Great Barrier Reef, the largest) and <b>atoll</b> (ring around a lagoon; Lakshadweep).</p><p><b>Coral bleaching</b> occurs when warm water makes corals expel their algae. India's reefs: Gulf of Mannar, Gulf of Kutch, Andaman and Nicobar, Lakshadweep.</p>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "Ocean temperature",
+   "b": "<p>Sea surface temperature falls from about 27 C near the equator to near freezing at the poles. It is highest slightly north of the equator because land in the north holds heat. <b>Warm currents</b> raise temperature, cold ones lower it.</p><p>In the north, enclosed seas can be warmer (Red Sea) and Arctic seas colder. Temperature falls with depth to near 0 to 4 C.</p><svg class=\"d\" viewBox=\"0 0 320 150\"><rect x=\"10\" y=\"6\" width=\"300\" height=\"34\" rx=\"6\" fill=\"#f4dcd5\" stroke=\"#a3362a\" stroke-width=\"1.5\"/><text x=\"160\" y=\"28\" fill=\"#a3362a\" font-size=\"11\" text-anchor=\"middle\" font-weight=\"700\">Warm surface layer, mixed by wind, 100-200 m</text><rect x=\"10\" y=\"46\" width=\"300\" height=\"34\" rx=\"6\" fill=\"#f1e4c6\" stroke=\"#a8792a\" stroke-width=\"1.5\"/><text x=\"160\" y=\"68\" fill=\"#7d5a1c\" font-size=\"11\" text-anchor=\"middle\" font-weight=\"700\">Thermocline: temperature falls fast with depth</text><rect x=\"10\" y=\"86\" width=\"300\" height=\"34\" rx=\"6\" fill=\"#dceaec\" stroke=\"#2f6f7a\" stroke-width=\"1.5\"/><text x=\"160\" y=\"108\" fill=\"#2f6f7a\" font-size=\"11\" text-anchor=\"middle\" font-weight=\"700\">Deep cold water, about 0-4 C, to the bottom</text><text x=\"160\" y=\"140\" fill=\"#5d6474\" font-size=\"10\" text-anchor=\"middle\">Thermocline is a stable lid at low latitudes; vanishes at poles.</text></svg>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "Salinity",
+   "b": "<svg class=\"d\" viewBox=\"0 0 320 188\"><rect x=\"10\" y=\"6\" width=\"170\" height=\"26\" rx=\"6\" fill=\"#f1e4c6\" stroke=\"#a8792a\" stroke-width=\"1.5\"/><text x=\"95.0\" y=\"23\" fill=\"#7d5a1c\" font-size=\"11\" text-anchor=\"middle\" font-weight=\"700\">Water body</text><rect x=\"180\" y=\"6\" width=\"130\" height=\"26\" rx=\"6\" fill=\"#f1e4c6\" stroke=\"#a8792a\" stroke-width=\"1.5\"/><text x=\"245.0\" y=\"23\" fill=\"#7d5a1c\" font-size=\"11\" text-anchor=\"middle\" font-weight=\"700\">Salinity (ppt)</text><rect x=\"10\" y=\"32\" width=\"170\" height=\"30\" rx=\"0\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"95.0\" y=\"51\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\" font-weight=\"700\">Open ocean average</text><rect x=\"180\" y=\"32\" width=\"130\" height=\"30\" rx=\"0\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"245.0\" y=\"51\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\">about 35</text><rect x=\"10\" y=\"62\" width=\"170\" height=\"30\" rx=\"0\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"95.0\" y=\"81\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\" font-weight=\"700\">Baltic Sea</text><rect x=\"180\" y=\"62\" width=\"130\" height=\"30\" rx=\"0\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"245.0\" y=\"81\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\">about 7</text><rect x=\"10\" y=\"92\" width=\"170\" height=\"30\" rx=\"0\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"95.0\" y=\"111\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\" font-weight=\"700\">Red Sea</text><rect x=\"180\" y=\"92\" width=\"130\" height=\"30\" rx=\"0\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"245.0\" y=\"111\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\">about 40</text><rect x=\"10\" y=\"122\" width=\"170\" height=\"30\" rx=\"0\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"95.0\" y=\"141\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\" font-weight=\"700\">Dead Sea</text><rect x=\"180\" y=\"122\" width=\"130\" height=\"30\" rx=\"0\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"245.0\" y=\"141\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\">about 340</text><rect x=\"10\" y=\"152\" width=\"170\" height=\"30\" rx=\"0\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"95.0\" y=\"171\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\" font-weight=\"700\">Great Salt Lake</text><rect x=\"180\" y=\"152\" width=\"130\" height=\"30\" rx=\"0\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"245.0\" y=\"171\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\">about 220</text></svg><p><b>Salinity</b> is grams of salt per kilogram of seawater, about 35 on average. It rises with evaporation and falls with rain, river inflow and melting ice. Highest in the tropics (20-30 degrees), lower at the equator (rain) and at the poles (melt).</p>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "Why salinity matters",
+   "b": "<p>Salinity and temperature set the <b>density</b> of water. Dense water sinks and drives the deep <b>thermohaline circulation</b>, the \"ocean conveyor belt\" that moves heat around the planet. Freshwater from melting ice can weaken this circulation: a concern for Atlantic currents.</p>"
+  },
+  {
+   "tag": "Debate",
+   "h": "Ocean warming and deep-sea mining",
+   "b": "<p>The oceans absorb over 90% of the excess heat of global warming. Marine heatwaves kill coral and fish. Meanwhile countries race for <b>polymetallic nodules</b> (nickel, cobalt, manganese) on the deep seabed.</p><p>Supporters see critical minerals for batteries. Critics fear unknown damage to deep ecosystems. The International Seabed Authority (ISA) is still writing rules.</p>"
+  },
+  {
+   "tag": "Indian angle",
+   "h": "The Indian Ocean floor and resources",
+   "b": "<svg class=\"d\" viewBox=\"0 0 320 102\"><rect x=\"10\" y=\"6\" width=\"100\" height=\"42\" rx=\"6\" fill=\"#f1e4c6\" stroke=\"#a8792a\" stroke-width=\"1.5\"/><text x=\"60.0\" y=\"31.0\" fill=\"#7d5a1c\" font-size=\"11\" text-anchor=\"middle\" font-weight=\"700\">Arabian Sea</text><rect x=\"116\" y=\"6\" width=\"194\" height=\"42\" rx=\"6\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"213.0\" y=\"31.0\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\">About 36-37 ppt: high evaporation, few rivers</text><rect x=\"10\" y=\"54\" width=\"100\" height=\"42\" rx=\"6\" fill=\"#dceaec\" stroke=\"#2f6f7a\" stroke-width=\"1.5\"/><text x=\"60.0\" y=\"79.0\" fill=\"#2f6f7a\" font-size=\"11\" text-anchor=\"middle\" font-weight=\"700\">Bay of Bengal</text><rect x=\"116\" y=\"54\" width=\"194\" height=\"42\" rx=\"6\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"213.0\" y=\"79.0\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\">About 32-34 ppt: Ganga, Brahmaputra, Irrawaddy inflow</text></svg><p>Features: the <b>Chagos-Laccadive Ridge</b> (Lakshadweep sits on it), the <b>Ninety East Ridge</b>, and the Andaman-Nicobar ridge.</p><p>India holds an ISA licence for about 75,000 sq km in the Central Indian Ocean Basin for nodules. The <b>Deep Ocean Mission</b> (2021) includes the <b>Samudrayaan</b> manned submersible project.</p>"
+  },
+  {
+   "tag": "Exam lens",
+   "cls": "exam",
+   "h": "How to write this",
+   "b": "<div class=\"box\"><h4>Likely questions</h4><p>\"Discuss the factors affecting the salinity of ocean water.\" (10 marks)</p><p>\"Why does the Bay of Bengal have lower salinity than the Arabian Sea?\" (10 marks)</p></div><p><b>Structure:</b> list the zones of relief with an unusual feature; factors of temperature and salinity; end with resources and India's programmes.</p><p><b>Prelims tip:</b> average salinity is 35 ppt; the Dead Sea is the saltiest; trenches are mostly in the Pacific.</p>"
+  }
+ ],
+ "quiz": [
+  {
+   "q": "The continental shelf is",
+   "o": [
+    "The deepest part of the ocean",
+    "A mid-ocean ridge",
+    "The shallow gently sloping margin of a continent",
+    "A volcanic seamount"
+   ],
+   "a": 2,
+   "w": "It is rich in fish and oil."
+  },
+  {
+   "q": "Challenger Deep lies in the",
+   "o": [
+    "Mariana Trench",
+    "Java Trench",
+    "Puerto Rico Trench",
+    "Tonga Trench"
+   ],
+   "a": 0,
+   "w": "It is the deepest known point, about 11 km."
+  },
+  {
+   "q": "Flat-topped seamounts are called",
+   "o": [
+    "Atolls",
+    "Fjords",
+    "Horsts",
+    "Guyots"
+   ],
+   "a": 3,
+   "w": "They were eroded by waves before sinking."
+  },
+  {
+   "q": "Average ocean salinity is about",
+   "o": [
+    "3.5 ppt",
+    "35 ppt",
+    "70 ppt",
+    "350 ppt"
+   ],
+   "a": 1,
+   "w": "About 35 grams per kilogram of seawater."
+  },
+  {
+   "q": "Salinity is highest in the tropics because of",
+   "o": [
+    "Heavy rainfall",
+    "Strong evaporation",
+    "River flow",
+    "Melting ice"
+   ],
+   "a": 1,
+   "w": "Dry subtropical air removes water but not salt."
+  },
+  {
+   "q": "Which is less saline?",
+   "o": [
+    "Arabian Sea",
+    "Red Sea",
+    "Mediterranean",
+    "Bay of Bengal"
+   ],
+   "a": 3,
+   "w": "Big rivers add fresh water."
+  },
+  {
+   "q": "The Chagos-Laccadive ridge supports",
+   "o": [
+    "Lakshadweep",
+    "Andaman Islands",
+    "Nicobar Islands",
+    "Sri Lanka"
+   ],
+   "a": 0,
+   "w": "Lakshadweep coral atolls sit on it."
+  },
+  {
+   "q": "The thermocline is a layer where",
+   "o": [
+    "Salinity peaks",
+    "Currents reverse",
+    "Temperature falls rapidly with depth",
+    "Pressure drops"
+   ],
+   "a": 2,
+   "w": "It separates warm surface water from deep cold water."
+  },
+  {
+   "q": "Polymetallic nodules contain",
+   "o": [
+    "Oil and gas",
+    "Gold and silver",
+    "Uranium only",
+    "Nickel, cobalt and manganese"
+   ],
+   "a": 3,
+   "w": "They lie on abyssal plains."
+  },
+  {
+   "q": "India's Deep Ocean Mission was launched in",
+   "o": [
+    "2021",
+    "2015",
+    "2018",
+    "2024"
+   ],
+   "a": 0,
+   "w": "It was approved in 2021 with a submersible programme."
+  }
+ ],
+ "sources": [
+  "NCERT Class 11, Fundamentals of Physical Geography, ch. 13-14",
+  "G.C. Leong, Certificate Physical and Human Geography",
+  "MoES, Deep Ocean Mission"
+ ],
+ "verified": "2026-11-10"
+}

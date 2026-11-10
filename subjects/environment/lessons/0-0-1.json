@@ -1,0 +1,177 @@
+{
+ "id": "0-0-1",
+ "title": "Biogeochemical Cycles and Ecological Succession",
+ "emoji": "♻️",
+ "cards": [
+  {
+   "tag": "Why this matters",
+   "h": "Nutrients cycle, energy does not",
+   "b": "<p>Plants and animals use the same atoms again and again. These loops are the <b>biogeochemical cycles</b>. UPSC asks about them in Prelims, and they explain pollution problems such as eutrophication, acid rain and fertiliser overuse.</p><p>Succession explains how bare land turns into forest and why a disturbed ecosystem recovers. Both topics are short, but they carry sure marks.</p>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "Gaseous and sedimentary cycles",
+   "b": "<p>In a <b>gaseous cycle</b> the main reservoir is the atmosphere or ocean. Carbon, nitrogen and oxygen cycles are gaseous. In a <b>sedimentary cycle</b> the reservoir is the Earth’s crust. Phosphorus and sulphur are sedimentary (sulphur has a small gas phase).</p><p>Cycles move through pools (reservoirs) and fluxes (flows). Humans now change the flows more than nature does.</p>"
+  },
+  {
+   "tag": "Carbon cycle",
+   "h": "Fast and slow loops",
+   "b": "<p>Plants take in CO2 by photosynthesis. Respiration, decomposition and burning return it. The biggest store is the <b>rocks (limestone and fossil fuels)</b>. Among active stores, the <b>ocean</b> is the largest.</p><p>Burning fossil fuels moves ancient carbon into the air in a few centuries. That is why CO2 has gone past 420 ppm (as of 2025) from about 280 ppm before industry.</p>"
+  },
+  {
+   "tag": "Nitrogen cycle",
+   "h": "Why free nitrogen is useless to plants",
+   "b": "<p>Air is about 78 percent nitrogen, but plants cannot use it directly. <b>Nitrogen fixation</b> converts it. Bacteria such as <i>Rhizobium</i> (in legume roots), <i>Azotobacter</i> and cyanobacteria like <i>Nostoc</i> do this. Lightning also fixes some.</p><p>Then <b>ammonification</b> makes ammonia from dead matter. <b>Nitrification</b> turns it into nitrite (<i>Nitrosomonas</i>) and nitrate (<i>Nitrobacter</i>). <b>Denitrification</b> (<i>Pseudomonas</i>) returns nitrogen gas to air.</p>"
+  },
+  {
+   "tag": "Phosphorus and sulphur",
+   "h": "Rock cycles",
+   "b": "<p><b>Phosphorus</b> comes from rock weathering. It has no gas phase. It is often the limiting nutrient in fresh water. Excess phosphate from detergents and fertiliser causes <b>eutrophication</b>: algal bloom, oxygen loss, fish kills.</p><p><b>Sulphur</b> enters the air as SO2 from volcanoes and burning coal. It becomes sulphuric acid in <b>acid rain</b>. Plankton also release dimethyl sulphide, which helps form clouds.</p>"
+  },
+  {
+   "tag": "Ecological succession",
+   "h": "From bare rock to forest",
+   "b": "<p><b>Succession</b> is the orderly change of a community over time. <b>Primary succession</b> starts on bare ground with no soil: new lava, rock or a retreating glacier. Pioneers such as lichens come first (a <b>lithosere</b>). On open water it is a <b>hydrosere</b>.</p><p><b>Secondary succession</b> starts where soil survives: after a fire, flood or abandoned farm. It is much faster.</p>"
+  },
+  {
+   "tag": "Stages and the climax",
+   "h": "Seral stages",
+   "b": "<p>The steps are called <b>seral stages</b>. The final stable community is the <b>climax community</b>. Early on, production exceeds respiration; at climax they roughly balance.</p><p><b>Autogenic</b> succession is driven by the community itself. <b>Allogenic</b> succession is driven by outside forces such as climate. Species diversity and soil depth rise with time.</p>"
+  },
+  {
+   "tag": "Debate",
+   "h": "Is there one climax?",
+   "b": "<p><b>Clements</b> (early 20th century) argued for a single climate climax in a region (monoclimax). Later ecologists such as <b>Gleason</b> and <b>Tansley</b> stressed that local soil and chance matter, so many end states are possible.</p><p>Modern thinking sees ecosystems as shifting, not fixed. This matters for restoration policy: you cannot simply plant any tree and expect the old forest.</p>"
+  },
+  {
+   "tag": "Indian angle",
+   "h": "Fertiliser, soil and recovery",
+   "b": "<p>Over-use of urea has unbalanced India’s nitrogen cycle. The government pushed <b>neem-coated urea</b> (2015), the <b>Soil Health Card</b> (2015) and <b>nano urea</b> to cut waste. Run-off nitrate and phosphate cause algal blooms in lakes.</p><p>Secondary succession is the basis of natural regeneration in jhum fallows of the North-East and in mine land reclamation. Mangrove colonisation in the Sundarbans is a classic example of succession in a delta.</p>"
+  },
+  {
+   "tag": "Exam lens",
+   "h": "How to answer",
+   "b": "<p><b>Mains-style:</b> “Discuss the impact of excessive fertiliser use on the nitrogen and phosphorus cycles in India.” Structure: explain both cycles briefly; show the imbalance (eutrophication, groundwater nitrate, N2O emissions); give policy (neem-coated urea, nano urea, soil health card, organic farming).</p><p><b>Mains-style:</b> “Distinguish primary and secondary succession with examples.”</p><p><b>Prelims tip:</b> Phosphorus has no gaseous phase. Denitrification returns N2 to air. Succession on rock is a lithosere; on water, a hydrosere.</p>",
+   "cls": "exam"
+  }
+ ],
+ "quiz": [
+  {
+   "q": "Which cycle has no significant gaseous phase?",
+   "o": [
+    "Carbon",
+    "Phosphorus",
+    "Nitrogen",
+    "Oxygen"
+   ],
+   "a": 1,
+   "w": "Phosphorus moves through rocks, soil and water only."
+  },
+  {
+   "q": "Bacteria that fix nitrogen in legume roots belong to:",
+   "o": [
+    "Rhizobium",
+    "Nitrosomonas",
+    "Pseudomonas",
+    "Nitrobacter"
+   ],
+   "a": 0,
+   "w": "Rhizobium forms root nodules. Nitrosomonas and Nitrobacter nitrify. Pseudomonas denitrifies."
+  },
+  {
+   "q": "Conversion of nitrate back to nitrogen gas is:",
+   "o": [
+    "Nitrification",
+    "Ammonification",
+    "Nitrogen fixation",
+    "Denitrification"
+   ],
+   "a": 3,
+   "w": "Denitrification, done by bacteria like Pseudomonas, returns N2 to the air."
+  },
+  {
+   "q": "The largest store of carbon on Earth is:",
+   "o": [
+    "The atmosphere",
+    "Living plants",
+    "Sedimentary rocks",
+    "The soil humus"
+   ],
+   "a": 2,
+   "w": "Carbonate rocks and fossil fuels hold far more carbon than the air or biosphere."
+  },
+  {
+   "q": "Succession on a newly formed bare rock is called:",
+   "o": [
+    "Secondary succession",
+    "Primary succession",
+    "Allogenic succession only",
+    "Retrogression"
+   ],
+   "a": 1,
+   "w": "No soil exists, so it is primary. Lichens are typical pioneers."
+  },
+  {
+   "q": "Which is usually faster?",
+   "o": [
+    "Secondary succession",
+    "Primary succession",
+    "Both are equal",
+    "Succession on lava"
+   ],
+   "a": 0,
+   "w": "Soil and seeds already exist after a fire or flood, so recovery is faster."
+  },
+  {
+   "q": "Eutrophication is mainly triggered by excess:",
+   "o": [
+    "Carbon monoxide",
+    "Sulphur dioxide",
+    "Ozone",
+    "Phosphates and nitrates"
+   ],
+   "a": 3,
+   "w": "Nutrients feed algal blooms that deplete oxygen."
+  },
+  {
+   "q": "Succession in a pond leading to land is a:",
+   "o": [
+    "Lithosere",
+    "Xerosere",
+    "Hydrosere",
+    "Psammosere"
+   ],
+   "a": 2,
+   "w": "A hydrosere starts in water. A lithosere starts on rock."
+  },
+  {
+   "q": "Nitrification converts ammonia into:",
+   "o": [
+    "Nitrogen gas",
+    "Nitrite and nitrate",
+    "Amino acids",
+    "Urea"
+   ],
+   "a": 1,
+   "w": "Nitrosomonas makes nitrite; Nitrobacter makes nitrate."
+  },
+  {
+   "q": "The final stable stage of succession is the:",
+   "o": [
+    "Climax community",
+    "Pioneer community",
+    "Seral community",
+    "Ecotone"
+   ],
+   "a": 0,
+   "w": "The climax community is relatively stable under existing conditions."
+  }
+ ],
+ "sources": [
+  "Shankar IAS Environment, ecology chapters",
+  "NCERT Biology Class XII, Units 10 (Ecology)",
+  "MoEFCC and PIB",
+  "Ecology cycles: NCERT Class XII, chapters 13 and 14"
+ ],
+ "verified": "2026-11-10"
+}

@@ -1,0 +1,177 @@
+{
+ "id": "1-0-1",
+ "title": "In-situ and Ex-situ Conservation: Protected Areas",
+ "emoji": "🐅",
+ "cards": [
+  {
+   "tag": "Why this matters",
+   "h": "Prelims favourite",
+   "b": "<p>Questions on national parks, biosphere reserves, tiger reserves and World Heritage Sites come almost every year. Mains asks about conflict between people and protected areas.</p><p>The key is to know which law creates which category.</p>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "In-situ and ex-situ",
+   "b": "<p><b>In-situ</b> conservation protects species in their natural home. Examples: national parks, sanctuaries, biosphere reserves, sacred groves. <b>Ex-situ</b> conservation protects them outside: zoos, botanical gardens, seed banks, gene banks, cryopreservation.</p><p>In-situ is better for whole ecosystems. Ex-situ is a backup for species on the edge.</p>"
+  },
+  {
+   "tag": "Legal categories",
+   "h": "Under the Wildlife Protection Act 1972",
+   "b": "<ul><li><b>National Park</b>: Section 35. Strictest. No grazing or private rights.</li><li><b>Wildlife Sanctuary</b>: Section 26A. Some human activity may be allowed.</li><li><b>Conservation Reserve</b> (Section 36A) and <b>Community Reserve</b> (Section 36C): added by the 2002 amendment on government land and community/private land.</li><li><b>Tiger Reserve</b>: Section 38V, managed by the National Tiger Conservation Authority.</li></ul>"
+  },
+  {
+   "tag": "Biosphere reserves",
+   "h": "Not under the Wildlife Act",
+   "b": "<p>The idea comes from UNESCO’s <b>Man and the Biosphere (MAB) programme</b> (1971). India has a national scheme from 1986 and has about 18 reserves.</p><p>Each reserve has a <b>core zone</b> (strictly protected), a <b>buffer zone</b> (limited use) and a <b>transition zone</b> (people live and farm). Nilgiri (1986) was first. UNESCO recognises about 12 Indian reserves in the world network, including Sundarbans, Nanda Devi, Gulf of Mannar and Khangchendzonga.</p>"
+  },
+  {
+   "tag": "Numbers",
+   "h": "How much is protected",
+   "b": "<p>As of recent MoEFCC figures, India has over 1,000 protected areas, roughly 100 national parks and over 500 sanctuaries. They cover about 5 percent of India’s land (figures change slightly each year).</p><p>The target of <b>30 by 30</b> includes <b>OECMs</b>: other effective area-based measures such as community-run sites that are not formally protected.</p>"
+  },
+  {
+   "tag": "World Heritage",
+   "h": "Natural sites in India",
+   "b": "<p>India’s natural World Heritage Sites include <b>Kaziranga</b>, <b>Manas</b>, <b>Keoladeo</b>, <b>Sundarbans</b>, <b>Nanda Devi and Valley of Flowers</b>, <b>Western Ghats</b> and <b>Great Himalayan National Park</b>. <b>Khangchendzonga</b> is a mixed site.</p><p>World Heritage status comes from the 1972 UNESCO convention and listing does not by itself change Indian law.</p>"
+  },
+  {
+   "tag": "Ex-situ in India",
+   "h": "Zoos and gene banks",
+   "b": "<p>The <b>Central Zoo Authority</b> (1992) regulates zoos. The <b>National Bureau of Plant Genetic Resources</b> in Delhi runs the national seed gene bank. The <b>National Bureau of Animal Genetic Resources</b> at Karnal holds animal genetic material.</p><p>Conservation breeding is used for the <b>Great Indian Bustard</b> (a centre at Jaisalmer), the gharial and vultures. The Svalbard Global Seed Vault in Norway is the world’s backup.</p>"
+  },
+  {
+   "tag": "Debate",
+   "h": "Fortress conservation or people’s rights?",
+   "b": "<p>Critics say removing people from parks creates displacement and hostility. Supporters say core areas need inviolate space for large predators.</p><p>The <b>Forest Rights Act 2006</b> recognises rights and allows <b>Critical Wildlife Habitats</b>. Sacred groves (Meghalaya’s Law Kyntang, Rajasthan’s Orans, Kerala’s Kavu) show that community conservation also works.</p>"
+  },
+  {
+   "tag": "Indian angle",
+   "h": "Examples to remember",
+   "b": "<p><b>Kaziranga</b> protects the one-horned rhino. <b>Gir</b> holds the Asiatic lion. <b>Keoladeo</b> is a Ramsar and World Heritage bird site. <b>Simlipal</b> and <b>Nilgiri</b> are biosphere reserves. <b>Sundarbans</b> is both a tiger reserve and biosphere reserve.</p><p>Eco-sensitive zones (ESZ) around parks regulate activity in a buffer, usually up to 10 km unless fixed otherwise.</p>"
+  },
+  {
+   "tag": "Exam lens",
+   "h": "How to answer",
+   "b": "<p><b>Mains-style:</b> “Distinguish between in-situ and ex-situ conservation. Which is better for India’s biodiversity?” Structure: definitions; examples; strengths and limits of each; they are complementary; policy (CAMPA, community reserves).</p><p><b>Mains-style:</b> “Protected areas versus people: how can both be served?”</p><p><b>Prelims tip:</b> Biosphere reserves are not under the WPA. Community reserves are on private or community land. National parks allow no grazing.</p>",
+   "cls": "exam"
+  }
+ ],
+ "quiz": [
+  {
+   "q": "Which Section creates National Parks in the Wildlife Protection Act?",
+   "o": [
+    "Section 26A",
+    "Section 35",
+    "Section 36A",
+    "Section 38V"
+   ],
+   "a": 1,
+   "w": "26A is for sanctuaries, 36A conservation reserves and 38V tiger reserves."
+  },
+  {
+   "q": "Community reserves are declared on:",
+   "o": [
+    "Private or community land",
+    "Core forest only",
+    "Marine area only",
+    "Cantonment land"
+   ],
+   "a": 0,
+   "w": "Section 36C allows them on community or private land."
+  },
+  {
+   "q": "UNESCO’s MAB programme began in:",
+   "o": [
+    "1992",
+    "1972",
+    "1986",
+    "1971"
+   ],
+   "a": 3,
+   "w": "MAB started in 1971."
+  },
+  {
+   "q": "Which zone of a biosphere reserve has the least human use?",
+   "o": [
+    "Buffer zone",
+    "Transition zone",
+    "Core zone",
+    "Manipulation zone"
+   ],
+   "a": 2,
+   "w": "The core is strictly protected."
+  },
+  {
+   "q": "Which of these is a mixed World Heritage Site in India?",
+   "o": [
+    "Kaziranga",
+    "Khangchendzonga",
+    "Manas",
+    "Sundarbans"
+   ],
+   "a": 1,
+   "w": "Khangchendzonga is listed for both natural and cultural values."
+  },
+  {
+   "q": "The national seed gene bank is run by:",
+   "o": [
+    "NBPGR, Delhi",
+    "NBAGR, Karnal",
+    "Central Zoo Authority",
+    "Botanical Survey of India"
+   ],
+   "a": 0,
+   "w": "The National Bureau of Plant Genetic Resources runs it."
+  },
+  {
+   "q": "Which is ex-situ conservation?",
+   "o": [
+    "Biosphere reserve",
+    "Sacred grove",
+    "National park",
+    "Seed bank"
+   ],
+   "a": 3,
+   "w": "Seed banks store seeds outside natural habitat."
+  },
+  {
+   "q": "Central Zoo Authority was set up in:",
+   "o": [
+    "1972",
+    "2002",
+    "1992",
+    "2006"
+   ],
+   "a": 2,
+   "w": "It was established in 1992 under the Wildlife Act."
+  },
+  {
+   "q": "Tiger reserves are notified under which Section?",
+   "o": [
+    "35",
+    "38V",
+    "26A",
+    "36C"
+   ],
+   "a": 1,
+   "w": "Section 38V, inserted in 2006."
+  },
+  {
+   "q": "Keoladeo National Park is famous for:",
+   "o": [
+    "Birds",
+    "Rhinos",
+    "Lions",
+    "Elephants"
+   ],
+   "a": 0,
+   "w": "It is a Ramsar and World Heritage wetland in Bharatpur."
+  }
+ ],
+ "sources": [
+  "Shankar IAS Environment, ecology chapters",
+  "NCERT Biology Class XII, Units 10 (Ecology)",
+  "MoEFCC and PIB",
+  "Wildlife (Protection) Act 1972, as amended"
+ ],
+ "verified": "2026-11-10"
+}

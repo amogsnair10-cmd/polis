@@ -1,0 +1,169 @@
+{
+ "id": "0-0-1",
+ "title": "Out of Africa: How Humans Spread Everywhere",
+ "emoji": "🌍",
+ "cards": [
+  {
+   "tag": "Why this matters",
+   "h": "A small band of people walked out and changed the planet",
+   "b": "<p>Our species is only about 300,000 years old. Yet today we live on every continent. How did a creature from Africa end up in the Arctic and on remote islands?</p><p>The answer is a story of grass, coasts, ice and an astonishing amount of walking.</p>"
+  },
+  {
+   "tag": "The story",
+   "h": "Who counts as human?",
+   "b": "<p>Fossils from <b>Jebel Irhoud in Morocco</b> date to about 300,000 years ago and show early Homo sapiens. Others have been found in Ethiopia (Omo Kibish, about 230,000 years ago or more).</p><p>We were not alone. <b>Neanderthals</b> lived in Europe and western Asia. <b>Denisovans</b> lived in Asia. Other human cousins lived on islands like Flores in Indonesia.</p>"
+  },
+  {
+   "tag": "The turning point",
+   "h": "The great walk",
+   "b": "<svg class=\"d\" viewBox=\"0 0 320 180\"><line x1=\"14\" y1=\"10\" x2=\"14\" y2=\"170\" stroke=\"#a8792a\" stroke-width=\"2\"/><circle cx=\"14\" cy=\"22\" r=\"5\" fill=\"#f1e4c6\" stroke=\"#a8792a\" stroke-width=\"2\"/><text x=\"28\" y=\"26\" font-size=\"11\" font-weight=\"700\" fill=\"#a8792a\">300,000 yrs</text><text x=\"112\" y=\"26\" font-size=\"11\" fill=\"#1d2433\">Homo sapiens in Africa</text><circle cx=\"14\" cy=\"50\" r=\"5\" fill=\"#f1e4c6\" stroke=\"#a8792a\" stroke-width=\"2\"/><text x=\"28\" y=\"54\" font-size=\"11\" font-weight=\"700\" fill=\"#a8792a\">~60-70,000</text><text x=\"112\" y=\"54\" font-size=\"11\" fill=\"#1d2433\">Main spread beyond Africa</text><circle cx=\"14\" cy=\"78\" r=\"5\" fill=\"#f1e4c6\" stroke=\"#a8792a\" stroke-width=\"2\"/><text x=\"28\" y=\"82\" font-size=\"11\" font-weight=\"700\" fill=\"#a8792a\">~50,000</text><text x=\"112\" y=\"82\" font-size=\"11\" fill=\"#1d2433\">Reach Australia</text><circle cx=\"14\" cy=\"106\" r=\"5\" fill=\"#f1e4c6\" stroke=\"#a8792a\" stroke-width=\"2\"/><text x=\"28\" y=\"110\" font-size=\"11\" font-weight=\"700\" fill=\"#a8792a\">~45,000</text><text x=\"112\" y=\"110\" font-size=\"11\" fill=\"#1d2433\">Reach Europe</text><circle cx=\"14\" cy=\"134\" r=\"5\" fill=\"#f1e4c6\" stroke=\"#a8792a\" stroke-width=\"2\"/><text x=\"28\" y=\"138\" font-size=\"11\" font-weight=\"700\" fill=\"#a8792a\">~15,000+</text><text x=\"112\" y=\"138\" font-size=\"11\" fill=\"#1d2433\">Reach the Americas</text><circle cx=\"14\" cy=\"162\" r=\"5\" fill=\"#f1e4c6\" stroke=\"#a8792a\" stroke-width=\"2\"/><text x=\"28\" y=\"166\" font-size=\"11\" font-weight=\"700\" fill=\"#a8792a\">~1,000 yrs</text><text x=\"112\" y=\"166\" font-size=\"11\" fill=\"#1d2433\">Polynesians reach New Zealand</text></svg><p>Most scientists think the main wave left Africa about 60,000 to 70,000 years ago. Some earlier trips happened too, and the dates are still debated. People probably followed coasts and rivers, not a single big march.</p>"
+  },
+  {
+   "tag": "The twist",
+   "h": "We met our cousins, and had children",
+   "b": "<p>DNA from old bones shows that people outside Africa carry about 1 to 2 percent Neanderthal DNA. Some Asians and Pacific Islanders carry Denisovan DNA too. Tibetans carry a Denisovan gene that helps them live at high altitude.</p><p>So we did not just replace our cousins. We mixed with them.</p>"
+  },
+  {
+   "tag": "The story",
+   "h": "Why did only we survive?",
+   "b": "<p>Nobody knows for sure. Possible reasons: bigger social networks, better tools for trade and sharing, new hunting tools, or just bad luck in small, cold populations.</p><p>The Neanderthals were clever. They made fire, tools and perhaps jewellery. Historians and archaeologists still argue about the main cause.</p>"
+  },
+  {
+   "tag": "The story",
+   "h": "Empty continents, big consequences",
+   "b": "<p>When people reached Australia and the Americas, many giant animals vanished within thousands of years. Climate change played a part. Many experts think hunting did too. The balance is still debated.</p><p>This was the first time one species reshaped whole ecosystems.</p>"
+  },
+  {
+   "tag": "Historians argue",
+   "h": "Out of Africa, or many places at once?",
+   "b": "<p>The 'multiregional' idea said humans evolved in several regions at the same time. DNA evidence has mostly settled it: all living people descend mainly from Africans. But the mixing with Neanderthals and Denisovans means the story is 'Out of Africa, plus some mixing'.</p><p>Also, one famous myth: 'Neanderthals were dim brutes'. Evidence says they were skilled and cared for their sick.</p>"
+  },
+  {
+   "tag": "Indian angle",
+   "h": "Meanwhile in India…",
+   "b": "<p>Were we the first? Maybe the early ones</p>"
+  },
+  {
+   "tag": "Recap",
+   "h": "Five takeaways, two puzzles",
+   "b": "<p><b>Five things to remember</b></p><ol><li>Homo sapiens appeared in Africa about 300,000 years ago.</li><li>The main spread beyond Africa was about 60,000-70,000 years ago.</li><li>We interbred with Neanderthals and Denisovans.</li><li>Reaching Australia and the Americas changed ecosystems.</li><li>Dates and causes are still debated.</li></ol><p><b>Think about it</b></p><ul><li>Why do you think the coasts mattered so much for early travel?</li><li>What does mixing with other humans say about the word 'species'?</li></ul>",
+   "cls": "exam"
+  }
+ ],
+ "quiz": [
+  {
+   "q": "Where were the oldest known Homo sapiens fossils found?",
+   "o": [
+    "Jwalapuram, India",
+    "Lascaux, France",
+    "Jebel Irhoud, Morocco",
+    "Stonehenge, England"
+   ],
+   "a": 2,
+   "w": "They date to about 300,000 years ago."
+  },
+  {
+   "q": "Roughly how much Neanderthal DNA do non-Africans carry?",
+   "o": [
+    "1 to 2 percent",
+    "50 percent",
+    "None",
+    "20 percent"
+   ],
+   "a": 0,
+   "w": "Studies of ancient DNA show around 1-2 percent."
+  },
+  {
+   "q": "Which group lived in Asia and also left DNA in people today?",
+   "o": [
+    "Vikings",
+    "Sumerians",
+    "Phoenicians",
+    "Denisovans"
+   ],
+   "a": 3,
+   "w": "Known first from a finger bone in Denisova Cave, Siberia."
+  },
+  {
+   "q": "Which region did humans reach about 50,000 years ago?",
+   "o": [
+    "The Americas",
+    "Australia",
+    "New Zealand",
+    "Iceland"
+   ],
+   "a": 1,
+   "w": "Australia was reached by boat across open water."
+  },
+  {
+   "q": "New Zealand was settled by...",
+   "o": [
+    "Polynesians, within the last 1,000 years",
+    "Vikings in 10,000 BCE",
+    "Romans",
+    "Neanderthals"
+   ],
+   "a": 0,
+   "w": "Polynesian navigators arrived around the 1200s CE."
+  },
+  {
+   "q": "Tibetans' high-altitude gene came from...",
+   "o": [
+    "Neanderthals",
+    "Egyptians",
+    "Mongols",
+    "Denisovans"
+   ],
+   "a": 3,
+   "w": "The EPAS1 variant has Denisovan origin."
+  },
+  {
+   "q": "The Toba volcano erupted about...",
+   "o": [
+    "7,000 years ago",
+    "74,000 years ago",
+    "740,000 years ago",
+    "2,000 years ago"
+   ],
+   "a": 1,
+   "w": "A massive eruption in Sumatra."
+  },
+  {
+   "q": "Which Indian site is linked to tools around the Toba ash?",
+   "o": [
+    "Harappa",
+    "Mehrgarh",
+    "Jwalapuram",
+    "Hampi"
+   ],
+   "a": 2,
+   "w": "Andhra Pradesh; interpretation is debated."
+  },
+  {
+   "q": "'Multiregional evolution' has mostly been...",
+   "o": [
+    "Proven right",
+    "Ignored by DNA scientists",
+    "Shown to be about Mars",
+    "Replaced by Out of Africa plus mixing"
+   ],
+   "a": 3,
+   "w": "Genetics supports African origins with some mixing."
+  },
+  {
+   "q": "Neanderthals were...",
+   "o": [
+    "Skilled toolmakers who used fire",
+    "Unable to speak at all",
+    "Taller than modern humans",
+    "Only found in India"
+   ],
+   "a": 0,
+   "w": "They made tools and used fire."
+  }
+ ],
+ "sources": [
+  "Stringer & Galway-Witham, Nature 2017; Hublin et al., Nature 2017 (Jebel Irhoud); Petraglia et al., Science 2007 (Jwalapuram); Narasimhan et al., Science 2019"
+ ],
+ "verified": "2026-11-10"
+}

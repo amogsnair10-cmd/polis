@@ -1,0 +1,169 @@
+{
+ "id": "0-1-1",
+ "title": "Göbekli Tepe and the First Monuments",
+ "emoji": "🗿",
+ "cards": [
+  {
+   "tag": "Why this matters",
+   "h": "The temple that arrived before the farm",
+   "b": "<p>Imagine finding a giant stone circle, older than Stonehenge by about 6,000 years, built by people who had not yet invented pottery or the wheel.</p><p>In 1994, a German archaeologist, Klaus Schmidt, walked up a bare hill in south-east Turkey and noticed something.</p>"
+  },
+  {
+   "tag": "The story",
+   "h": "A hill full of pillars",
+   "b": "<b>Göbekli Tepe</b> (Turkish for 'Potbelly Hill') is near Şanlıurfa. Its tall T-shaped limestone pillars, some about 5 metres high and weighing many tonnes, stand in circles. They date to about <b>9500-8000 BCE</b>.<p>Many pillars are carved with foxes, boars, snakes, vultures and scorpions. Some pillars look like stylised people, with arms and hands carved on the sides.</p>"
+  },
+  {
+   "tag": "The turning point",
+   "h": "Which came first: the temple or the farm?",
+   "b": "<p>Schmidt suggested that a gathering place for ritual might have pushed people to settle and farm, because feeding crowds needed food. 'First the temple, then the city', he said.</p><p>This flips the usual story. Some scholars agree. Others point out that people also lived and worked nearby, so it may not have been only a temple.</p>"
+  },
+  {
+   "tag": "The twist",
+   "h": "They buried it on purpose",
+   "b": "<svg class=\"d\" viewBox=\"0 0 320 172\"><defs><marker id=\"ar2\" markerWidth=\"8\" markerHeight=\"8\" refX=\"4\" refY=\"4\" orient=\"auto\"><path d=\"M0,0 L8,4 L0,8 z\" fill=\"#5d6474\"/></marker></defs><rect x=\"16\" y=\"2\" width=\"288\" height=\"28\" rx=\"6\" fill=\"#f1e4c6\" stroke=\"#a8792a\"/><text x=\"160\" y=\"20\" font-size=\"11\" text-anchor=\"middle\" fill=\"#1d2433\">Build stone circles with carved pillars</text><line x1=\"160\" y1=\"30\" x2=\"160\" y2=\"42\" stroke=\"#5d6474\" stroke-width=\"1.5\" marker-end=\"url(#ar2)\"/><rect x=\"16\" y=\"44\" width=\"288\" height=\"28\" rx=\"6\" fill=\"#dceaec\" stroke=\"#2f6f7a\"/><text x=\"160\" y=\"62\" font-size=\"11\" text-anchor=\"middle\" fill=\"#1d2433\">Use them for generations</text><line x1=\"160\" y1=\"72\" x2=\"160\" y2=\"84\" stroke=\"#5d6474\" stroke-width=\"1.5\" marker-end=\"url(#ar2)\"/><rect x=\"16\" y=\"86\" width=\"288\" height=\"28\" rx=\"6\" fill=\"#f1e4c6\" stroke=\"#a8792a\"/><text x=\"160\" y=\"104\" font-size=\"11\" text-anchor=\"middle\" fill=\"#1d2433\">Fill them with rubble and animal bones</text><line x1=\"160\" y1=\"114\" x2=\"160\" y2=\"126\" stroke=\"#5d6474\" stroke-width=\"1.5\" marker-end=\"url(#ar2)\"/><rect x=\"16\" y=\"128\" width=\"288\" height=\"28\" rx=\"6\" fill=\"#dceaec\" stroke=\"#2f6f7a\"/><text x=\"160\" y=\"146\" font-size=\"11\" text-anchor=\"middle\" fill=\"#1d2433\">Cover them, and build new ones</text></svg><p>After about 1,500 years, the site was filled in deliberately. Nobody knows why. Excavation has uncovered only a small part of the site so far, so we may still be missing the story.</p>"
+  },
+  {
+   "tag": "The story",
+   "h": "How did they do it?",
+   "b": "<p>These builders had no metal tools and no wheels or beasts of burden. They cut pillars with flint tools from a nearby quarry and moved them by rope and muscle.</p><p>That needed hundreds of people working together. Who organised them? We do not know. There are no kings or written laws from this time to tell us.</p>"
+  },
+  {
+   "tag": "The story",
+   "h": "Other early monuments",
+   "b": "<p>Later, humans built bigger things. <b>Stonehenge</b> in England's main stage was around 2500 BCE. The <b>Megalithic temples of Malta</b> are about 3600-3200 BCE. In Egypt, the first pyramid, Djoser's, was built around 2670 BCE.</p><p>Göbekli Tepe is older than all of these, by thousands of years.</p>"
+  },
+  {
+   "tag": "Myth vs fact",
+   "h": "Was it built by aliens or a lost civilisation?",
+   "b": "<b>Myth:</b> some popular shows claim Göbekli Tepe proves a 'lost advanced civilisation'.<b>Fact:</b> there is no evidence for this. The tools, bones and carvings are consistent with hunter-gatherer communities. The truly amazing thing is that ordinary people did it. Archaeologists dislike the 'lost civilisation' idea, and it can dismiss the skill of ancient people."
+  },
+  {
+   "tag": "Indian angle",
+   "h": "Meanwhile in India…",
+   "b": "<p>India's own monument builders</p>"
+  },
+  {
+   "tag": "Recap",
+   "h": "Five takeaways, two puzzles",
+   "b": "<p><b>Five things to remember</b></p><ol><li>Göbekli Tepe dates to about 9500-8000 BCE.</li><li>It was built before farming was established.</li><li>Pillars carry animal carvings.</li><li>Nobody knows why it was buried.</li><li>The 'lost civilisation' claim has no evidence.</li></ol><p><b>Think about it</b></p><ul><li>What does it say about people that they organised big projects before farms?</li><li>Why does it matter that only a small part has been dug?</li></ul>",
+   "cls": "exam"
+  }
+ ],
+ "quiz": [
+  {
+   "q": "Göbekli Tepe is in modern...",
+   "o": [
+    "Iraq",
+    "Greece",
+    "Turkey",
+    "Egypt"
+   ],
+   "a": 2,
+   "w": "Near Şanlıurfa."
+  },
+  {
+   "q": "Who began excavating it after 1994?",
+   "o": [
+    "Klaus Schmidt",
+    "Howard Carter",
+    "Heinrich Schliemann",
+    "John Marshall"
+   ],
+   "a": 0,
+   "w": "A German archaeologist."
+  },
+  {
+   "q": "Its approximate age is...",
+   "o": [
+    "4,500 years",
+    "2,000 years",
+    "500 years",
+    "11,000 years or more"
+   ],
+   "a": 3,
+   "w": "9500-8000 BCE."
+  },
+  {
+   "q": "Which of these is older?",
+   "o": [
+    "Stonehenge's main stage",
+    "Göbekli Tepe",
+    "Djoser's pyramid",
+    "The Parthenon"
+   ],
+   "a": 1,
+   "w": "By thousands of years."
+  },
+  {
+   "q": "What did the builders lack?",
+   "o": [
+    "Metal tools and the wheel",
+    "Stone",
+    "Human labour",
+    "Rope"
+   ],
+   "a": 0,
+   "w": "They used flint."
+  },
+  {
+   "q": "'Göbekli Tepe' means...",
+   "o": [
+    "Stone Gate",
+    "Hill of Gods",
+    "Sun Circle",
+    "Potbelly Hill"
+   ],
+   "a": 3,
+   "w": "Turkish name."
+  },
+  {
+   "q": "What happened to the site later?",
+   "o": [
+    "It was washed away",
+    "It was deliberately filled in",
+    "It was blown up",
+    "It became Rome"
+   ],
+   "a": 1,
+   "w": "Rubble covered the enclosures."
+  },
+  {
+   "q": "Schmidt's idea was...",
+   "o": [
+    "Farming came 10,000 years earlier",
+    "It was a battlefield",
+    "The temple may have come before settled farming",
+    "It was a port"
+   ],
+   "a": 2,
+   "w": "Flipping the usual order."
+  },
+  {
+   "q": "The 'lost civilisation' claim has...",
+   "o": [
+    "Been proven",
+    "Been carved on pillars",
+    "Been found in Egypt",
+    "No supporting evidence"
+   ],
+   "a": 3,
+   "w": "Archaeologists reject it."
+  },
+  {
+   "q": "A megalithic tradition in India is seen in...",
+   "o": [
+    "South Indian stone burials",
+    "Mughal tombs",
+    "Gupta temples",
+    "Ashokan pillars"
+   ],
+   "a": 0,
+   "w": "Stone cists and circles from around 1500 BCE."
+  }
+ ],
+ "sources": [
+  "Schmidt, Göbekli Tepe (2006); UNESCO Göbekli Tepe listing (2018); Curry, 'Göbekli Tepe', Smithsonian 2008"
+ ],
+ "verified": "2026-11-10"
+}

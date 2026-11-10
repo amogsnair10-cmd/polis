@@ -1,0 +1,169 @@
+{
+ "id": "0-1-0",
+ "title": "The Agricultural Revolution: Best or Worst Idea Ever?",
+ "emoji": "🌾",
+ "cards": [
+  {
+   "tag": "Why this matters",
+   "h": "The day people started farming, they may have signed up for a harder life",
+   "b": "<p>For about 300,000 years people hunted and gathered. Then, around 11,000 years ago, some began to plant seeds. It sounds like progress. But look closer.</p><p>Was farming a gift, a trap, or both?</p>"
+  },
+  {
+   "tag": "The story",
+   "h": "Where it began",
+   "b": "<p>Farming began independently in several places. The best-known early centre is the <b>Fertile Crescent</b> (modern Iraq, Syria, Turkey, Israel/Palestine, Iran). There, people grew wheat, barley, peas and lentils from about 11,000 years ago.</p><p>Other centres: rice in the Yangtze valley (China), millet in northern China, maize in Mexico, potatoes in the Andes, and more.</p>"
+  },
+  {
+   "tag": "The turning point",
+   "h": "Plants and animals change too",
+   "b": "<svg class=\"d\" viewBox=\"0 0 320 172\"><defs><marker id=\"ar1\" markerWidth=\"8\" markerHeight=\"8\" refX=\"4\" refY=\"4\" orient=\"auto\"><path d=\"M0,0 L8,4 L0,8 z\" fill=\"#5d6474\"/></marker></defs><rect x=\"16\" y=\"2\" width=\"288\" height=\"28\" rx=\"6\" fill=\"#f1e4c6\" stroke=\"#a8792a\"/><text x=\"160\" y=\"20\" font-size=\"11\" text-anchor=\"middle\" fill=\"#1d2433\">Wild wheat has brittle seeds that scatter</text><line x1=\"160\" y1=\"30\" x2=\"160\" y2=\"42\" stroke=\"#5d6474\" stroke-width=\"1.5\" marker-end=\"url(#ar1)\"/><rect x=\"16\" y=\"44\" width=\"288\" height=\"28\" rx=\"6\" fill=\"#dceaec\" stroke=\"#2f6f7a\"/><text x=\"160\" y=\"62\" font-size=\"11\" text-anchor=\"middle\" fill=\"#1d2433\">People prefer plants that hold their seeds</text><line x1=\"160\" y1=\"72\" x2=\"160\" y2=\"84\" stroke=\"#5d6474\" stroke-width=\"1.5\" marker-end=\"url(#ar1)\"/><rect x=\"16\" y=\"86\" width=\"288\" height=\"28\" rx=\"6\" fill=\"#f1e4c6\" stroke=\"#a8792a\"/><text x=\"160\" y=\"104\" font-size=\"11\" text-anchor=\"middle\" fill=\"#1d2433\">Over time, harvesting selects the tough ones</text><line x1=\"160\" y1=\"114\" x2=\"160\" y2=\"126\" stroke=\"#5d6474\" stroke-width=\"1.5\" marker-end=\"url(#ar1)\"/><rect x=\"16\" y=\"128\" width=\"288\" height=\"28\" rx=\"6\" fill=\"#dceaec\" stroke=\"#2f6f7a\"/><text x=\"160\" y=\"146\" font-size=\"11\" text-anchor=\"middle\" fill=\"#1d2433\">Domesticated crops depend on humans</text></svg><p>The same happened to animals. Sheep and goats were domesticated about 10,000 years ago, cattle shortly after. Dogs came much earlier, from wolves, long before farming.</p>"
+  },
+  {
+   "tag": "The twist",
+   "h": "The trap",
+   "b": "<p>Skeletons of early farmers are often shorter and show more disease than hunter-gatherers'. Diets had less variety. Living close to animals spread new diseases.</p><p>The historian Yuval Noah Harari called the shift 'history's biggest fraud'. Jared Diamond called it 'the worst mistake' in human history. Others disagree strongly. Farming fed far more people, and it made cities possible.</p>"
+  },
+  {
+   "tag": "The story",
+   "h": "Surplus, storage and rulers",
+   "b": "<p>Farming produced surplus food that could be stored. Whoever controlled the grain store gained power. Some people could stop farming and become priests, soldiers or craftspeople.</p><p>Populations grew. Settlements became towns. At <b>Çatalhöyük</b> in Turkey (about 7,500 BCE) thousands of people lived in houses packed together, entered through the roof.</p>"
+  },
+  {
+   "tag": "The story",
+   "h": "Why then?",
+   "b": "<p>The last Ice Age ended about 11,700 years ago. The climate became warmer and more stable. Some scholars say that stability made farming possible. Others point to settled hunter-gatherers who began planting by choice.</p><p>Nobody decided 'let us invent farming'. It was a slow drift over thousands of years.</p>"
+  },
+  {
+   "tag": "Historians argue",
+   "h": "Was it a revolution at all?",
+   "b": "<p>The word 'revolution' suggests a quick change. In truth, the shift took thousands of years. Some groups mixed hunting and farming for a long time. Others never became farmers.</p><p>Also: farming is not clearly 'worse'. Life expectancy and health improved in some places and fell in others. The honest answer: it depends where and when.</p>"
+  },
+  {
+   "tag": "Indian angle",
+   "h": "Meanwhile in India…",
+   "b": "<p>Mehrgarh, wheat and the first villages</p>"
+  },
+  {
+   "tag": "Recap",
+   "h": "Five takeaways, two puzzles",
+   "b": "<p><b>Five things to remember</b></p><ol><li>Farming began independently in several regions around 11,000 years ago.</li><li>People and crops changed each other.</li><li>Early farmers were often less healthy than foragers.</li><li>Surplus created cities, priests and rulers.</li><li>'Revolution' hides a very slow process.</li></ol><p><b>Think about it</b></p><ul><li>If farming made life harder, why did people keep doing it?</li><li>Who benefits from a stored grain surplus?</li></ul>",
+   "cls": "exam"
+  }
+ ],
+ "quiz": [
+  {
+   "q": "Farming began about...",
+   "o": [
+    "1,000 years ago",
+    "100,000 years ago",
+    "11,000 years ago",
+    "3,000 years ago"
+   ],
+   "a": 2,
+   "w": "After the last Ice Age ended."
+  },
+  {
+   "q": "Which region is the 'Fertile Crescent'?",
+   "o": [
+    "West Asia",
+    "South America",
+    "Central Africa",
+    "Australia"
+   ],
+   "a": 0,
+   "w": "Iraq, Syria, Turkey and neighbours."
+  },
+  {
+   "q": "Which was first tamed, long before farming?",
+   "o": [
+    "Cattle",
+    "Horses",
+    "Sheep",
+    "Dogs"
+   ],
+   "a": 3,
+   "w": "Dogs came from wolves much earlier."
+  },
+  {
+   "q": "Early farmers' skeletons often show...",
+   "o": [
+    "Greater height",
+    "More disease and shorter height",
+    "Perfect health",
+    "Writing marks"
+   ],
+   "a": 1,
+   "w": "Studies show health often fell."
+  },
+  {
+   "q": "Çatalhöyük is in...",
+   "o": [
+    "Turkey",
+    "India",
+    "Egypt",
+    "Peru"
+   ],
+   "a": 0,
+   "w": "A large early town, c. 7500 BCE."
+  },
+  {
+   "q": "Mehrgarh is in...",
+   "o": [
+    "Kerala",
+    "Bengal",
+    "Punjab, India",
+    "Balochistan"
+   ],
+   "a": 3,
+   "w": "Now in Pakistan."
+  },
+  {
+   "q": "Which crop was first grown in Mexico?",
+   "o": [
+    "Wheat",
+    "Maize",
+    "Rice",
+    "Barley"
+   ],
+   "a": 1,
+   "w": "Maize came from teosinte."
+  },
+  {
+   "q": "Surplus food led to...",
+   "o": [
+    "Immediate peace",
+    "The end of cities",
+    "Specialists such as priests and craftsmen",
+    "Printing"
+   ],
+   "a": 2,
+   "w": "Surplus supported people not farming."
+  },
+  {
+   "q": "Who called farming 'the worst mistake'?",
+   "o": [
+    "Mao Zedong",
+    "Alexander",
+    "Herodotus",
+    "Jared Diamond"
+   ],
+   "a": 3,
+   "w": "In an essay in 1987."
+  },
+  {
+   "q": "The word 'revolution' for farming is criticised because...",
+   "o": [
+    "The change was very slow",
+    "It happened overnight",
+    "It happened only in Egypt",
+    "It never happened"
+   ],
+   "a": 0,
+   "w": "It took thousands of years."
+  }
+ ],
+ "sources": [
+  "Jared Diamond, 'The Worst Mistake in the History of the Human Race' (1987); Harari, Sapiens; Fuller et al. on Neolithic domestication; Jarrige on Mehrgarh"
+ ],
+ "verified": "2026-11-10"
+}
