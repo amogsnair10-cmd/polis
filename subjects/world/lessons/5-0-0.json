@@ -1,0 +1,169 @@
+{
+ "id": "5-0-0",
+ "title": "The Enlightenment",
+ "emoji": "💡",
+ "cards": [
+  {
+   "tag": "Why this matters",
+   "h": "Dare to think for yourself",
+   "b": "<p>In 1784 the German philosopher <b>Immanuel Kant</b> answered a magazine's question, 'What is Enlightenment?' His answer: it is humans leaving behind their self-imposed laziness in thinking. His motto was <i>Sapere aude</i>, 'Dare to know'.</p><p>That daring changed kings, churches and the way we vote.</p>"
+  },
+  {
+   "tag": "The story",
+   "h": "Reason in the cafes",
+   "b": "<p>The Enlightenment (roughly the late 1600s to the late 1700s) grew out of the Scientific Revolution. If reason can explain the planets, why not government, religion and trade?</p><p>Ideas travelled in coffeehouses, salons hosted by clever women in Paris, and print. The huge <i>Encyclopedie</i> of <b>Diderot</b> (1751-72) tried to gather all knowledge.</p>"
+  },
+  {
+   "tag": "The turning point",
+   "h": "Four big voices",
+   "b": "<svg class=\"d\" viewBox=\"0 0 320 130\"><rect x=\"90\" y=\"4\" width=\"140\" height=\"30\" rx=\"6\" fill=\"#f1e4c6\" stroke=\"#a8792a\"/><text x=\"160\" y=\"23\" font-size=\"11\" font-weight=\"700\" text-anchor=\"middle\" fill=\"#1d2433\">Enlightenment</text><line x1=\"160\" y1=\"34\" x2=\"160\" y2=\"60\" stroke=\"#5d6474\"/><line x1=\"43.0\" y1=\"60\" x2=\"277.0\" y2=\"60\" stroke=\"#5d6474\"/><line x1=\"43.0\" y1=\"60\" x2=\"43.0\" y2=\"78\" stroke=\"#5d6474\"/><rect x=\"8.0\" y=\"78\" width=\"70.0\" height=\"44\" rx=\"6\" fill=\"#dceaec\" stroke=\"#2f6f7a\"/><text x=\"43.0\" y=\"96\" font-size=\"10\" text-anchor=\"middle\" fill=\"#1d2433\">Locke</text><text x=\"43.0\" y=\"110\" font-size=\"10\" text-anchor=\"middle\" fill=\"#1d2433\">natural rights</text><line x1=\"121.0\" y1=\"60\" x2=\"121.0\" y2=\"78\" stroke=\"#5d6474\"/><rect x=\"86.0\" y=\"78\" width=\"70.0\" height=\"44\" rx=\"6\" fill=\"#dceaec\" stroke=\"#2f6f7a\"/><text x=\"121.0\" y=\"96\" font-size=\"10\" text-anchor=\"middle\" fill=\"#1d2433\">Montesquieu</text><text x=\"121.0\" y=\"110\" font-size=\"10\" text-anchor=\"middle\" fill=\"#1d2433\">split powers</text><line x1=\"199.0\" y1=\"60\" x2=\"199.0\" y2=\"78\" stroke=\"#5d6474\"/><rect x=\"164.0\" y=\"78\" width=\"70.0\" height=\"44\" rx=\"6\" fill=\"#dceaec\" stroke=\"#2f6f7a\"/><text x=\"199.0\" y=\"96\" font-size=\"10\" text-anchor=\"middle\" fill=\"#1d2433\">Voltaire</text><text x=\"199.0\" y=\"110\" font-size=\"10\" text-anchor=\"middle\" fill=\"#1d2433\">free speech</text><line x1=\"277.0\" y1=\"60\" x2=\"277.0\" y2=\"78\" stroke=\"#5d6474\"/><rect x=\"242.0\" y=\"78\" width=\"70.0\" height=\"44\" rx=\"6\" fill=\"#dceaec\" stroke=\"#2f6f7a\"/><text x=\"277.0\" y=\"96\" font-size=\"10\" text-anchor=\"middle\" fill=\"#1d2433\">Rousseau</text><text x=\"277.0\" y=\"110\" font-size=\"10\" text-anchor=\"middle\" fill=\"#1d2433\">general will</text></svg><b>John Locke</b> (<i>Two Treatises</i>, 1689): people have natural rights to life, liberty and property, and can remove a ruler who breaks the trust. <b>Montesquieu</b> (<i>The Spirit of the Laws</i>, 1748): separate the powers of government."
+  },
+  {
+   "tag": "The twist",
+   "h": "The pen is mightier",
+   "b": "<b>Voltaire</b> fought for tolerance and attacked religious persecution, after the Calas affair (1762), in which an innocent Protestant was executed. <b>Rousseau</b> (<i>The Social Contract</i>, 1762) wrote that man is born free but is everywhere in chains, and argued rule should follow the 'general will'.<p>Rousseau and Voltaire disliked each other intensely.</p>"
+  },
+  {
+   "tag": "The story",
+   "h": "Money and women",
+   "b": "<b>Adam Smith</b>, in <i>The Wealth of Nations</i> (1776), argued free markets create wealth. <b>Mary Wollstonecraft</b> wrote <i>A Vindication of the Rights of Woman</i> (1792) and said women need education to be equal.<p>Most Enlightenment writers did not extend 'all men' to women.</p>"
+  },
+  {
+   "tag": "The story",
+   "h": "Kings who liked ideas",
+   "b": "<p>Some rulers, called 'enlightened despots', used reason to reform without sharing power: Frederick the Great of Prussia, Catherine the Great of Russia, Joseph II of Austria.</p><p>Ideas also lit the revolutions in America and France.</p>"
+  },
+  {
+   "tag": "Myth vs fact",
+   "h": "Did Voltaire say 'I disapprove of what you say...'?",
+   "b": "<b>Myth:</b> Voltaire said, 'I disapprove of what you say, but I will defend to the death your right to say it.'<b>Fact:</b> that line was written in 1906 by Evelyn Beatrice Hall, summing up his attitude. He never wrote it.<p>Also, many Enlightenment thinkers held racist views or profited from slavery. Historians argue whether those ideas were part of the Enlightenment or a betrayal of it.</p>"
+  },
+  {
+   "tag": "Indian angle",
+   "h": "Meanwhile in India…",
+   "b": "<p>Reason travels to Calcutta</p>"
+  },
+  {
+   "tag": "Recap",
+   "h": "Five takeaways, two puzzles",
+   "b": "<p><b>Five things to remember</b></p><ol><li>Enlightenment thinkers prized reason and evidence.</li><li>Locke: natural rights; Montesquieu: separation of powers.</li><li>Voltaire: tolerance; Rousseau: general will.</li><li>Smith and Wollstonecraft brought economics and women's rights in.</li><li>Ideas had limits: slavery and empire.</li></ol><p><b>Think about it</b></p><ul><li>Which Enlightenment idea matters most to you today?</li><li>Can ideas of freedom be applied unequally?</li></ul>",
+   "cls": "exam"
+  }
+ ],
+ "quiz": [
+  {
+   "q": "Kant's motto was...",
+   "o": [
+    "Know thyself",
+    "God is dead",
+    "Dare to know",
+    "I think, therefore I am"
+   ],
+   "a": 2,
+   "w": "Sapere aude."
+  },
+  {
+   "q": "Locke wrote...",
+   "o": [
+    "Two Treatises of Government",
+    "The Prince",
+    "The Social Contract",
+    "Leviathan"
+   ],
+   "a": 0,
+   "w": "1689."
+  },
+  {
+   "q": "Separation of powers is linked to...",
+   "o": [
+    "Rousseau",
+    "Diderot",
+    "Smith",
+    "Montesquieu"
+   ],
+   "a": 3,
+   "w": "The Spirit of the Laws."
+  },
+  {
+   "q": "The Social Contract was by...",
+   "o": [
+    "Locke",
+    "Rousseau",
+    "Voltaire",
+    "Kant"
+   ],
+   "a": 1,
+   "w": "1762."
+  },
+  {
+   "q": "The Encyclopedie was edited by...",
+   "o": [
+    "Diderot",
+    "Voltaire",
+    "Franklin",
+    "Newton"
+   ],
+   "a": 0,
+   "w": "1751-72."
+  },
+  {
+   "q": "The Wealth of Nations is from...",
+   "o": [
+    "1689",
+    "1789",
+    "1651",
+    "1776"
+   ],
+   "a": 3,
+   "w": "Adam Smith."
+  },
+  {
+   "q": "Wollstonecraft argued for...",
+   "o": [
+    "A king's rights",
+    "Women's education and rights",
+    "Free trade",
+    "Church power"
+   ],
+   "a": 1,
+   "w": "1792."
+  },
+  {
+   "q": "The line about 'defending your right to say it' was written by...",
+   "o": [
+    "Voltaire",
+    "Locke",
+    "Evelyn Beatrice Hall",
+    "Jefferson"
+   ],
+   "a": 2,
+   "w": "In 1906."
+  },
+  {
+   "q": "The Asiatic Society was founded by...",
+   "o": [
+    "Rammohan Roy",
+    "Clive",
+    "Macaulay",
+    "William Jones"
+   ],
+   "a": 3,
+   "w": "Calcutta, 1784."
+  },
+  {
+   "q": "Rammohan Roy founded...",
+   "o": [
+    "The Brahmo Sabha",
+    "Arya Samaj",
+    "Ramakrishna Mission",
+    "Servants of India"
+   ],
+   "a": 0,
+   "w": "1828."
+  }
+ ],
+ "sources": [
+  "Kant, What is Enlightenment? (1784); Israel, Radical Enlightenment; Hall, The Friends of Voltaire (1906); Bayly on Rammohan Roy"
+ ],
+ "verified": "2026-11-10"
+}

@@ -1,0 +1,169 @@
+{
+ "id": "5-0-2",
+ "title": "The French Revolution",
+ "emoji": "🥖",
+ "cards": [
+  {
+   "tag": "Why this matters",
+   "h": "A prison with seven prisoners became the symbol of a revolution",
+   "b": "<p>On 14 July 1789, a Paris crowd stormed the Bastille, a fortress prison. They wanted gunpowder. Inside, there were only seven prisoners.</p><p>But the Bastille stood for royal power, and its fall shook Europe.</p>"
+  },
+  {
+   "tag": "The story",
+   "h": "Bankrupt kingdom",
+   "b": "<p>France was broke after wars (including helping America). Society had three <b>Estates</b>: clergy, nobles, and everyone else. The Third Estate paid most taxes and had the least say. Bad harvests made bread dear.</p><p>In May 1789 <b>Louis XVI</b> called the Estates-General to raise money. The Third Estate declared itself a National Assembly and took the Tennis Court Oath (20 June).</p>"
+  },
+  {
+   "tag": "The turning point",
+   "h": "Rights and a march",
+   "b": "<svg class=\"d\" viewBox=\"0 0 320 180\"><line x1=\"14\" y1=\"10\" x2=\"14\" y2=\"170\" stroke=\"#a8792a\" stroke-width=\"2\"/><circle cx=\"14\" cy=\"22\" r=\"5\" fill=\"#f1e4c6\" stroke=\"#a8792a\" stroke-width=\"2\"/><text x=\"28\" y=\"26\" font-size=\"11\" font-weight=\"700\" fill=\"#a8792a\">14 Jul 1789</text><text x=\"112\" y=\"26\" font-size=\"11\" fill=\"#1d2433\">Bastille stormed</text><circle cx=\"14\" cy=\"50\" r=\"5\" fill=\"#f1e4c6\" stroke=\"#a8792a\" stroke-width=\"2\"/><text x=\"28\" y=\"54\" font-size=\"11\" font-weight=\"700\" fill=\"#a8792a\">26 Aug 1789</text><text x=\"112\" y=\"54\" font-size=\"11\" fill=\"#1d2433\">Declaration of the Rights of Man</text><circle cx=\"14\" cy=\"78\" r=\"5\" fill=\"#f1e4c6\" stroke=\"#a8792a\" stroke-width=\"2\"/><text x=\"28\" y=\"82\" font-size=\"11\" font-weight=\"700\" fill=\"#a8792a\">Oct 1789</text><text x=\"112\" y=\"82\" font-size=\"11\" fill=\"#1d2433\">Women march to Versailles</text><circle cx=\"14\" cy=\"106\" r=\"5\" fill=\"#f1e4c6\" stroke=\"#a8792a\" stroke-width=\"2\"/><text x=\"28\" y=\"110\" font-size=\"11\" font-weight=\"700\" fill=\"#a8792a\">1792</text><text x=\"112\" y=\"110\" font-size=\"11\" fill=\"#1d2433\">Republic declared</text><circle cx=\"14\" cy=\"134\" r=\"5\" fill=\"#f1e4c6\" stroke=\"#a8792a\" stroke-width=\"2\"/><text x=\"28\" y=\"138\" font-size=\"11\" font-weight=\"700\" fill=\"#a8792a\">21 Jan 1793</text><text x=\"112\" y=\"138\" font-size=\"11\" fill=\"#1d2433\">Louis XVI executed</text><circle cx=\"14\" cy=\"162\" r=\"5\" fill=\"#f1e4c6\" stroke=\"#a8792a\" stroke-width=\"2\"/><text x=\"28\" y=\"166\" font-size=\"11\" font-weight=\"700\" fill=\"#a8792a\">1793-94</text><text x=\"112\" y=\"166\" font-size=\"11\" fill=\"#1d2433\">The Terror</text></svg><p>The <b>Declaration of the Rights of Man and of the Citizen</b> (26 August 1789) said men are born free and equal. In October, thousands of Parisian women marched to Versailles and brought the royal family to Paris.</p>"
+  },
+  {
+   "tag": "The twist",
+   "h": "The Terror",
+   "b": "<p>In 1793 France was at war with most of Europe and torn by civil war. The Committee of Public Safety, with <b>Robespierre</b>, ruled by fear. The guillotine was used on thousands. Around 17,000 were officially executed; many more died in prisons and revolts, with some estimates of 40,000 deaths.</p><p>In July 1794 Robespierre himself was guillotined.</p>"
+  },
+  {
+   "tag": "The story",
+   "h": "Slogans and changes",
+   "b": "<p>The revolutionaries abolished feudal privileges, made a new calendar and metric measures, and confiscated Church lands. 'Liberty, equality, fraternity' became the motto.</p><p>Women did not win the vote. <b>Olympe de Gouges</b> wrote a Declaration of the Rights of Woman in 1791 and was guillotined in 1793.</p>"
+  },
+  {
+   "tag": "The story",
+   "h": "After the storm",
+   "b": "<p>The chaos ended with a young general taking power in 1799: Napoleon. Historians still argue whether the Revolution brought freedom or just a new strongman.</p><p>But after 1789, kings everywhere had to worry about what their people might do.</p>"
+  },
+  {
+   "tag": "Myth vs fact",
+   "h": "'Let them eat cake'",
+   "b": "<b>Myth:</b> Marie Antoinette said it when told that the poor had no bread.<b>Fact:</b> no evidence she said it. A similar line appears in Rousseau's <i>Confessions</i>, written when she was a child, about 'a great princess'. It is propaganda.<p>Also, the Bastille's taking was not about freeing prisoners, and the Revolution did not end the monarchy overnight; it happened over three years.</p>"
+  },
+  {
+   "tag": "Indian angle",
+   "h": "Meanwhile in India…",
+   "b": "<p>Citizen Tipu, and Ambedkar's answer</p>"
+  },
+  {
+   "tag": "Recap",
+   "h": "Five takeaways, two puzzles",
+   "b": "<p><b>Five things to remember</b></p><ol><li>The Bastille fell on 14 July 1789.</li><li>The Declaration of Rights came in August 1789.</li><li>Louis XVI was executed in January 1793.</li><li>The Terror lasted 1793-94.</li><li>Napoleon took power in 1799.</li></ol><p><b>Think about it</b></p><ul><li>Why do revolutions often turn violent?</li><li>Who was left out of 'liberty, equality, fraternity'?</li></ul>",
+   "cls": "exam"
+  }
+ ],
+ "quiz": [
+  {
+   "q": "The Bastille fell on...",
+   "o": [
+    "4 July 1776",
+    "26 Aug 1789",
+    "14 July 1789",
+    "21 Jan 1793"
+   ],
+   "a": 2,
+   "w": "Now France's national day."
+  },
+  {
+   "q": "The Third Estate was...",
+   "o": [
+    "Everyone except clergy and nobles",
+    "The nobles",
+    "The clergy",
+    "The king"
+   ],
+   "a": 0,
+   "w": "Most of the people."
+  },
+  {
+   "q": "The Tennis Court Oath was taken by...",
+   "o": [
+    "The king",
+    "The army",
+    "The clergy",
+    "The Third Estate"
+   ],
+   "a": 3,
+   "w": "June 1789."
+  },
+  {
+   "q": "The Declaration of the Rights of Man was in...",
+   "o": [
+    "July 1789",
+    "August 1789",
+    "1793",
+    "1799"
+   ],
+   "a": 1,
+   "w": "26 August."
+  },
+  {
+   "q": "Louis XVI was executed in...",
+   "o": [
+    "1793",
+    "1789",
+    "1799",
+    "1815"
+   ],
+   "a": 0,
+   "w": "21 January."
+  },
+  {
+   "q": "The Terror was led by...",
+   "o": [
+    "Napoleon",
+    "Lafayette",
+    "Danton",
+    "Robespierre"
+   ],
+   "a": 3,
+   "w": "Committee of Public Safety."
+  },
+  {
+   "q": "Olympe de Gouges wrote about...",
+   "o": [
+    "Free trade",
+    "Women's rights",
+    "The calendar",
+    "Religion"
+   ],
+   "a": 1,
+   "w": "1791."
+  },
+  {
+   "q": "The cake quote is...",
+   "o": [
+    "Said at Versailles",
+    "Written by Louis",
+    "Unproven",
+    "Proven"
+   ],
+   "a": 2,
+   "w": "Probably propaganda."
+  },
+  {
+   "q": "Tipu Sultan's link to France is...",
+   "o": [
+    "Treaty of Paris",
+    "A marriage",
+    "Ceding Mysore",
+    "Reported Jacobin club in 1797"
+   ],
+   "a": 3,
+   "w": "Debated by historians."
+  },
+  {
+   "q": "Ambedkar said he took the triad from...",
+   "o": [
+    "The Buddha's teaching",
+    "Marx",
+    "Rousseau",
+    "Locke"
+   ],
+   "a": 0,
+   "w": "In 1949."
+  }
+ ],
+ "sources": [
+  "Doyle, The Oxford History of the French Revolution; Schama, Citizens (1989); Constituent Assembly Debates, 25 Nov 1949; Rousseau, Confessions"
+ ],
+ "verified": "2026-11-10"
+}

@@ -1,0 +1,169 @@
+{
+ "id": "5-0-4",
+ "title": "The Haitian Revolution",
+ "emoji": "✊",
+ "cards": [
+  {
+   "tag": "Why this matters",
+   "h": "The only successful slave revolt that created a country",
+   "b": "<p>In the 1780s, the French colony of Saint-Domingue produced more sugar and coffee than any other place on Earth. It was also a hell for about half a million enslaved people.</p><p>In 1791, they rose. Thirteen years later, they had defeated the armies of France, Spain and Britain, and founded a nation: Haiti.</p>"
+  },
+  {
+   "tag": "The story",
+   "h": "The richest colony",
+   "b": "<p>Saint-Domingue had about 500,000 enslaved people, perhaps 30,000 free people of colour and a similar number of whites. Death rates were so high that planters constantly bought more captives.</p><p>When the French Revolution began in 1789, the colony fought over who was covered by 'Rights of Man'.</p>"
+  },
+  {
+   "tag": "The turning point",
+   "h": "August 1791",
+   "b": "<p>In August 1791 a huge uprising began in the north, said to have been launched after a ceremony at <b>Bois Caiman</b> (details are debated). Plantations burned. Leaders emerged, among them <b>Toussaint Louverture</b>, a formerly enslaved man in his late forties who had learned to read.</p>"
+  },
+  {
+   "tag": "The twist",
+   "h": "A leader and a betrayal",
+   "b": "<svg class=\"d\" viewBox=\"0 0 320 180\"><line x1=\"14\" y1=\"10\" x2=\"14\" y2=\"170\" stroke=\"#a8792a\" stroke-width=\"2\"/><circle cx=\"14\" cy=\"22\" r=\"5\" fill=\"#f1e4c6\" stroke=\"#a8792a\" stroke-width=\"2\"/><text x=\"28\" y=\"26\" font-size=\"11\" font-weight=\"700\" fill=\"#a8792a\">1791</text><text x=\"112\" y=\"26\" font-size=\"11\" fill=\"#1d2433\">Uprising in the north</text><circle cx=\"14\" cy=\"50\" r=\"5\" fill=\"#f1e4c6\" stroke=\"#a8792a\" stroke-width=\"2\"/><text x=\"28\" y=\"54\" font-size=\"11\" font-weight=\"700\" fill=\"#a8792a\">1794</text><text x=\"112\" y=\"54\" font-size=\"11\" fill=\"#1d2433\">France abolishes slavery</text><circle cx=\"14\" cy=\"78\" r=\"5\" fill=\"#f1e4c6\" stroke=\"#a8792a\" stroke-width=\"2\"/><text x=\"28\" y=\"82\" font-size=\"11\" font-weight=\"700\" fill=\"#a8792a\">1801</text><text x=\"112\" y=\"82\" font-size=\"11\" fill=\"#1d2433\">Toussaint's constitution</text><circle cx=\"14\" cy=\"106\" r=\"5\" fill=\"#f1e4c6\" stroke=\"#a8792a\" stroke-width=\"2\"/><text x=\"28\" y=\"110\" font-size=\"11\" font-weight=\"700\" fill=\"#a8792a\">1802</text><text x=\"112\" y=\"110\" font-size=\"11\" fill=\"#1d2433\">Napoleon's army lands</text><circle cx=\"14\" cy=\"134\" r=\"5\" fill=\"#f1e4c6\" stroke=\"#a8792a\" stroke-width=\"2\"/><text x=\"28\" y=\"138\" font-size=\"11\" font-weight=\"700\" fill=\"#a8792a\">1803</text><text x=\"112\" y=\"138\" font-size=\"11\" fill=\"#1d2433\">Toussaint dies; Vertieres</text><circle cx=\"14\" cy=\"162\" r=\"5\" fill=\"#f1e4c6\" stroke=\"#a8792a\" stroke-width=\"2\"/><text x=\"28\" y=\"166\" font-size=\"11\" font-weight=\"700\" fill=\"#a8792a\">1 Jan 1804</text><text x=\"112\" y=\"166\" font-size=\"11\" fill=\"#1d2433\">Haiti independent</text></svg><p>In 1794, France's revolutionary government abolished slavery, and Toussaint joined the French side. He ruled the island as governor. Napoleon wanted slavery back. In 1802 he sent a big army. Toussaint was seized by trickery and died in a French prison in April 1803.</p>"
+  },
+  {
+   "tag": "The story",
+   "h": "Victory",
+   "b": "<p>Disease, especially yellow fever, killed many French soldiers. Under <b>Jean-Jacques Dessalines</b>, the rebels won the battle of <b>Vertieres</b> (November 1803).</p><p>On 1 January 1804 Haiti declared independence, the first Black republic and the first free state in Latin America. The name Haiti was a native Taino word.</p>"
+  },
+  {
+   "tag": "The story",
+   "h": "The price of freedom",
+   "b": "<p>France, and other countries, refused to recognise Haiti. In 1825, France demanded <b>150 million francs</b> as 'compensation' for lost property, later reduced to 90 million. Haiti borrowed from French banks and paid until 1947.</p><p>Historians link this debt to Haiti's long poverty. The US only recognised Haiti in 1862.</p>"
+  },
+  {
+   "tag": "Myth vs fact",
+   "h": "Is Haiti poor because it is 'cursed'?",
+   "b": "<b>Myth:</b> Haiti's troubles come from a curse or a pact.<b>Fact:</b> historians point to concrete causes: the indemnity, trade embargoes, destroyed plantations, later foreign interference and political instability. Another effect: Napoleon lost Saint-Domingue and soon sold Louisiana to the US in 1803.<p>The revolution also terrified slave-owners across the Americas and inspired enslaved people elsewhere.</p>"
+  },
+  {
+   "tag": "Indian angle",
+   "h": "Meanwhile in India…",
+   "b": "<p>Another world, another empire</p>"
+  },
+  {
+   "tag": "Recap",
+   "h": "Five takeaways, two puzzles",
+   "b": "<p><b>Five things to remember</b></p><ol><li>Haiti's revolution began in 1791.</li><li>Toussaint Louverture led it, then was captured in 1802.</li><li>Haiti became independent on 1 January 1804.</li><li>France demanded an indemnity in 1825.</li><li>The revolution inspired many.</li></ol><p><b>Think about it</b></p><ul><li>Why did powers refuse to recognise Haiti?</li><li>Is it fair that the freed paid the former masters?</li></ul>",
+   "cls": "exam"
+  }
+ ],
+ "quiz": [
+  {
+   "q": "Saint-Domingue was a colony of...",
+   "o": [
+    "Spain",
+    "Britain",
+    "France",
+    "Portugal"
+   ],
+   "a": 2,
+   "w": "Haiti's earlier name."
+  },
+  {
+   "q": "The uprising began in...",
+   "o": [
+    "1791",
+    "1789",
+    "1804",
+    "1825"
+   ],
+   "a": 0,
+   "w": "August."
+  },
+  {
+   "q": "Toussaint Louverture was...",
+   "o": [
+    "A French general",
+    "A Spanish king",
+    "A British governor",
+    "A formerly enslaved leader"
+   ],
+   "a": 3,
+   "w": "Died in a French prison, 1803."
+  },
+  {
+   "q": "France abolished slavery in...",
+   "o": [
+    "1804",
+    "1794",
+    "1833",
+    "1848"
+   ],
+   "a": 1,
+   "w": "First time, then Napoleon tried to reverse it."
+  },
+  {
+   "q": "Haiti declared independence on...",
+   "o": [
+    "1 January 1804",
+    "14 July 1789",
+    "4 July 1776",
+    "1 Jan 1863"
+   ],
+   "a": 0,
+   "w": "First Black republic."
+  },
+  {
+   "q": "Which disease killed many French soldiers?",
+   "o": [
+    "Plague",
+    "Smallpox only",
+    "Cholera",
+    "Yellow fever"
+   ],
+   "a": 3,
+   "w": "A key factor."
+  },
+  {
+   "q": "France demanded an indemnity of...",
+   "o": [
+    "10 million",
+    "150 million francs in 1825",
+    "5 billion",
+    "Nothing"
+   ],
+   "a": 1,
+   "w": "Later reduced."
+  },
+  {
+   "q": "Dessalines won at...",
+   "o": [
+    "Waterloo",
+    "Yorktown",
+    "Vertieres",
+    "Saratoga"
+   ],
+   "a": 2,
+   "w": "November 1803."
+  },
+  {
+   "q": "The Black Jacobins was written by...",
+   "o": [
+    "Eric Williams",
+    "Gandhi",
+    "Marx",
+    "C. L. R. James"
+   ],
+   "a": 3,
+   "w": "1938."
+  },
+  {
+   "q": "Napoleon sold Louisiana in...",
+   "o": [
+    "1803",
+    "1815",
+    "1799",
+    "1825"
+   ],
+   "a": 0,
+   "w": "After losing Haiti."
+  }
+ ],
+ "sources": [
+  "Dubois, Avengers of the New World (2004); James, The Black Jacobins (1938); Fick, The Making of Haiti; Sala-Molins"
+ ],
+ "verified": "2026-11-10"
+}

@@ -1,0 +1,169 @@
+{
+ "id": "5-0-1",
+ "title": "The American Revolution",
+ "emoji": "🗽",
+ "cards": [
+  {
+   "tag": "Why this matters",
+   "h": "The Tea Party was about monopoly, not the price of tea",
+   "b": "<p>On 16 December 1773, men dressed as Mohawks boarded three ships in Boston harbour and dumped 342 chests of tea into the water. It looks like a story about a tax. It was really about a company.</p><p>The company was the East India Company, and it ties directly to us.</p>"
+  },
+  {
+   "tag": "The story",
+   "h": "Taxes and a lost war",
+   "b": "<p>Britain won the Seven Years' War (1756-63) but was deep in debt. It taxed the American colonies: the <b>Stamp Act</b> (1765), then duties on tea, glass and paper.</p><p>Colonists said they had no representatives in Parliament, so taxes were unfair: 'no taxation without representation'. The Boston Massacre (1770) left five colonists dead.</p>"
+  },
+  {
+   "tag": "The turning point",
+   "h": "Tea and trouble",
+   "b": "<p>The Tea Act (1773) actually made East India Company tea cheaper, even with the tax, but gave the Company a monopoly and accepted Parliament's right to tax. Merchants and radicals objected. Britain answered with harsh 'Coercive Acts' in 1774.</p><p>Fighting began in April 1775 at Lexington and Concord.</p>"
+  },
+  {
+   "tag": "The twist",
+   "h": "Declaring independence",
+   "b": "<svg class=\"d\" viewBox=\"0 0 320 180\"><line x1=\"14\" y1=\"10\" x2=\"14\" y2=\"170\" stroke=\"#a8792a\" stroke-width=\"2\"/><circle cx=\"14\" cy=\"22\" r=\"5\" fill=\"#f1e4c6\" stroke=\"#a8792a\" stroke-width=\"2\"/><text x=\"28\" y=\"26\" font-size=\"11\" font-weight=\"700\" fill=\"#a8792a\">1765</text><text x=\"112\" y=\"26\" font-size=\"11\" fill=\"#1d2433\">Stamp Act</text><circle cx=\"14\" cy=\"50\" r=\"5\" fill=\"#f1e4c6\" stroke=\"#a8792a\" stroke-width=\"2\"/><text x=\"28\" y=\"54\" font-size=\"11\" font-weight=\"700\" fill=\"#a8792a\">1773</text><text x=\"112\" y=\"54\" font-size=\"11\" fill=\"#1d2433\">Boston Tea Party</text><circle cx=\"14\" cy=\"78\" r=\"5\" fill=\"#f1e4c6\" stroke=\"#a8792a\" stroke-width=\"2\"/><text x=\"28\" y=\"82\" font-size=\"11\" font-weight=\"700\" fill=\"#a8792a\">1775</text><text x=\"112\" y=\"82\" font-size=\"11\" fill=\"#1d2433\">Lexington and Concord</text><circle cx=\"14\" cy=\"106\" r=\"5\" fill=\"#f1e4c6\" stroke=\"#a8792a\" stroke-width=\"2\"/><text x=\"28\" y=\"110\" font-size=\"11\" font-weight=\"700\" fill=\"#a8792a\">1776</text><text x=\"112\" y=\"110\" font-size=\"11\" fill=\"#1d2433\">Declaration of Independence</text><circle cx=\"14\" cy=\"134\" r=\"5\" fill=\"#f1e4c6\" stroke=\"#a8792a\" stroke-width=\"2\"/><text x=\"28\" y=\"138\" font-size=\"11\" font-weight=\"700\" fill=\"#a8792a\">1777</text><text x=\"112\" y=\"138\" font-size=\"11\" fill=\"#1d2433\">Saratoga: turning point</text><circle cx=\"14\" cy=\"162\" r=\"5\" fill=\"#f1e4c6\" stroke=\"#a8792a\" stroke-width=\"2\"/><text x=\"28\" y=\"166\" font-size=\"11\" font-weight=\"700\" fill=\"#a8792a\">1781</text><text x=\"112\" y=\"166\" font-size=\"11\" fill=\"#1d2433\">Yorktown; 1783 peace</text></svg><p>Thomas Jefferson drafted the <b>Declaration</b>, adopted on 4 July 1776 (the vote for independence was on 2 July). It said all men are created equal and have the right to life, liberty and the pursuit of happiness. Jefferson himself held enslaved people.</p>"
+  },
+  {
+   "tag": "The story",
+   "h": "How they won",
+   "b": "<p>George Washington's Continental Army was often short of food and money. The big turn came when the Americans won at <b>Saratoga</b> in 1777, which convinced France to join them in 1778.</p><p>In 1781 a French fleet and army helped trap General Cornwallis at <b>Yorktown</b>. Britain recognised independence in the Treaty of Paris (1783).</p>"
+  },
+  {
+   "tag": "The story",
+   "h": "Making a country",
+   "b": "<p>The first system, the Articles of Confederation, was weak. A convention at Philadelphia wrote the <b>Constitution</b> in 1787, with separation of powers, a President and a Congress. The Bill of Rights followed (1791).</p><p>The revolution was a model for others, but it left slavery alone and gave voting rights to few.</p>"
+  },
+  {
+   "tag": "Historians argue",
+   "h": "Was it a real revolution?",
+   "b": "<p>Some say it was a political break, not a social upheaval, since the same rich men kept power. Others say the radical ideas of equality and republican government changed the world.</p><p>Myth check: 'Tea tax went up.' It did not; the price of legal tea was falling. The argument was about principle and about the Company's power.</p>"
+  },
+  {
+   "tag": "Indian angle",
+   "h": "Meanwhile in India…",
+   "b": "<p>The same company, the same general</p>"
+  },
+  {
+   "tag": "Recap",
+   "h": "Five takeaways, two puzzles",
+   "b": "<p><b>Five things to remember</b></p><ol><li>Taxes without representation sparked the crisis.</li><li>The Tea Party (1773) was against a Company monopoly.</li><li>Declaration of Independence was adopted on 4 July 1776.</li><li>French help won Yorktown (1781).</li><li>Cornwallis went on to India.</li></ol><p><b>Think about it</b></p><ul><li>Why did colonists fight over a small tax?</li><li>Can a revolution claim equality and keep slavery?</li></ul>",
+   "cls": "exam"
+  }
+ ],
+ "quiz": [
+  {
+   "q": "The Stamp Act was in...",
+   "o": [
+    "1773",
+    "1776",
+    "1765",
+    "1783"
+   ],
+   "a": 2,
+   "w": "A tax on printed items."
+  },
+  {
+   "q": "The Boston Tea Party was against...",
+   "o": [
+    "The East India Company's monopoly",
+    "A tea price rise",
+    "A French tax",
+    "A ban on coffee"
+   ],
+   "a": 0,
+   "w": "And Parliament's right to tax."
+  },
+  {
+   "q": "It took place in...",
+   "o": [
+    "1776",
+    "1757",
+    "1789",
+    "1773"
+   ],
+   "a": 3,
+   "w": "16 December."
+  },
+  {
+   "q": "Independence was declared on...",
+   "o": [
+    "14 July 1789",
+    "4 July 1776",
+    "1 Jan 1804",
+    "15 Aug 1947"
+   ],
+   "a": 1,
+   "w": "Adopted that day."
+  },
+  {
+   "q": "Who drafted the Declaration?",
+   "o": [
+    "Thomas Jefferson",
+    "George Washington",
+    "Ben Franklin",
+    "John Adams"
+   ],
+   "a": 0,
+   "w": "Edited by Congress."
+  },
+  {
+   "q": "The turning point battle was...",
+   "o": [
+    "Bunker Hill",
+    "Gettysburg",
+    "Plassey",
+    "Saratoga"
+   ],
+   "a": 3,
+   "w": "1777; it brought in France."
+  },
+  {
+   "q": "Cornwallis surrendered at...",
+   "o": [
+    "Boston",
+    "Yorktown",
+    "Waterloo",
+    "Seringapatam"
+   ],
+   "a": 1,
+   "w": "1781."
+  },
+  {
+   "q": "The Treaty of Paris was in...",
+   "o": [
+    "1763",
+    "1776",
+    "1783",
+    "1815"
+   ],
+   "a": 2,
+   "w": "Recognising independence."
+  },
+  {
+   "q": "The Constitution was written in...",
+   "o": [
+    "1776",
+    "1791",
+    "1865",
+    "1787"
+   ],
+   "a": 3,
+   "w": "At Philadelphia."
+  },
+  {
+   "q": "Cornwallis later served in...",
+   "o": [
+    "India",
+    "Canada",
+    "Haiti",
+    "Egypt"
+   ],
+   "a": 0,
+   "w": "Governor-General from 1786."
+  }
+ ],
+ "sources": [
+  "Wood, The American Revolution: A History (2002); Labaree, The Boston Tea Party (1964); Bayly, Imperial Meridian"
+ ],
+ "verified": "2026-11-10"
+}

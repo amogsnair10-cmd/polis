@@ -1,0 +1,169 @@
+{
+ "id": "5-0-3",
+ "title": "Napoleon",
+ "emoji": "🎩",
+ "cards": [
+  {
+   "tag": "Why this matters",
+   "h": "The man who crowned himself",
+   "b": "<p>On 2 December 1804, in Notre-Dame cathedral, the Pope waited to crown the new emperor of the French. Napoleon took the crown from the Pope's hands and put it on his own head.</p><p>It was a message: I owe nobody.</p>"
+  },
+  {
+   "tag": "The story",
+   "h": "The islander",
+   "b": "<p>Napoleon Bonaparte was born in 1769 in Ajaccio, Corsica, just after France bought the island. He became an artillery officer. He won fame at Toulon (1793), then in Italy (1796-97).</p><p>In 1798 he invaded Egypt, partly to threaten British routes to India. He won on land but his fleet was destroyed by Nelson at the Nile. In 1799, he returned and took power in a coup.</p>"
+  },
+  {
+   "tag": "The turning point",
+   "h": "Law and glory",
+   "b": "<p>As First Consul and then Emperor, Napoleon made the <b>Napoleonic Code</b> (1804): equal rights before the law, protection of property, and religious toleration, but fewer rights for women. It shaped many countries' laws.</p><p>He won huge victories, like <b>Austerlitz</b> (2 December 1805). Yet Nelson's win at <b>Trafalgar</b> (October 1805) kept Britain safe at sea. He sold Louisiana to the US in 1803.</p>"
+  },
+  {
+   "tag": "The twist",
+   "h": "The rise and fall",
+   "b": "<svg class=\"d\" viewBox=\"0 0 320 180\"><line x1=\"14\" y1=\"10\" x2=\"14\" y2=\"170\" stroke=\"#a8792a\" stroke-width=\"2\"/><circle cx=\"14\" cy=\"22\" r=\"5\" fill=\"#f1e4c6\" stroke=\"#a8792a\" stroke-width=\"2\"/><text x=\"28\" y=\"26\" font-size=\"11\" font-weight=\"700\" fill=\"#a8792a\">1799</text><text x=\"112\" y=\"26\" font-size=\"11\" fill=\"#1d2433\">Takes power</text><circle cx=\"14\" cy=\"50\" r=\"5\" fill=\"#f1e4c6\" stroke=\"#a8792a\" stroke-width=\"2\"/><text x=\"28\" y=\"54\" font-size=\"11\" font-weight=\"700\" fill=\"#a8792a\">1804</text><text x=\"112\" y=\"54\" font-size=\"11\" fill=\"#1d2433\">Crowned emperor</text><circle cx=\"14\" cy=\"78\" r=\"5\" fill=\"#f1e4c6\" stroke=\"#a8792a\" stroke-width=\"2\"/><text x=\"28\" y=\"82\" font-size=\"11\" font-weight=\"700\" fill=\"#a8792a\">1805</text><text x=\"112\" y=\"82\" font-size=\"11\" fill=\"#1d2433\">Austerlitz; Trafalgar</text><circle cx=\"14\" cy=\"106\" r=\"5\" fill=\"#f1e4c6\" stroke=\"#a8792a\" stroke-width=\"2\"/><text x=\"28\" y=\"110\" font-size=\"11\" font-weight=\"700\" fill=\"#a8792a\">1812</text><text x=\"112\" y=\"110\" font-size=\"11\" fill=\"#1d2433\">Invades Russia</text><circle cx=\"14\" cy=\"134\" r=\"5\" fill=\"#f1e4c6\" stroke=\"#a8792a\" stroke-width=\"2\"/><text x=\"28\" y=\"138\" font-size=\"11\" font-weight=\"700\" fill=\"#a8792a\">1814</text><text x=\"112\" y=\"138\" font-size=\"11\" fill=\"#1d2433\">Exiled to Elba</text><circle cx=\"14\" cy=\"162\" r=\"5\" fill=\"#f1e4c6\" stroke=\"#a8792a\" stroke-width=\"2\"/><text x=\"28\" y=\"166\" font-size=\"11\" font-weight=\"700\" fill=\"#a8792a\">1815</text><text x=\"112\" y=\"166\" font-size=\"11\" fill=\"#1d2433\">Waterloo; St Helena</text></svg><p>In 1812 he invaded Russia with about half a million men. Disease, hunger and the Russian winter destroyed the army; only a small fraction came back. In 1814 he was forced to abdicate.</p>"
+  },
+  {
+   "tag": "The story",
+   "h": "Hundred Days",
+   "b": "<p>He escaped from Elba in 1815 and regained France. At <b>Waterloo</b> (18 June 1815), British and Prussian forces under Wellington and Blucher beat him. He was exiled to St Helena, a lonely island in the South Atlantic, where he died in 1821.</p>"
+  },
+  {
+   "tag": "The story",
+   "h": "Legacy",
+   "b": "<p>He spread ideas of the Revolution across Europe, breaking old states and awakening nationalism. His wars also killed millions.</p><p>Afterwards the Congress of Vienna (1814-15) tried to restore the old order and balance of power.</p>"
+  },
+  {
+   "tag": "Myth vs fact",
+   "h": "Was Napoleon short?",
+   "b": "<b>Myth:</b> he was tiny.<b>Fact:</b> he was about 5 feet 6 or 7 inches in modern measure, average or slightly above for his time. French inches were longer than English ones, and British cartoons drew him as small. His nickname 'le petit caporal' was affectionate.<p>Another point: 'Napoleon complex' is a myth built on that error.</p>"
+  },
+  {
+   "tag": "Indian angle",
+   "h": "Meanwhile in India…",
+   "b": "<p>Napoleon and Tipu</p>"
+  },
+  {
+   "tag": "Recap",
+   "h": "Five takeaways, two puzzles",
+   "b": "<p><b>Five things to remember</b></p><ol><li>Napoleon took power in 1799 and became emperor in 1804.</li><li>The Napoleonic Code spread legal equality, but not for women.</li><li>Austerlitz was his greatest victory; Russia (1812) the great disaster.</li><li>Waterloo ended him in 1815.</li><li>He wrote to Tipu Sultan in 1798.</li></ol><p><b>Think about it</b></p><ul><li>Was he the heir of the Revolution or its gravedigger?</li><li>Why did he fail in Russia?</li></ul>",
+   "cls": "exam"
+  }
+ ],
+ "quiz": [
+  {
+   "q": "Napoleon was born in...",
+   "o": [
+    "Paris",
+    "Egypt",
+    "Corsica",
+    "Italy"
+   ],
+   "a": 2,
+   "w": "1769."
+  },
+  {
+   "q": "He became emperor in...",
+   "o": [
+    "1804",
+    "1799",
+    "1815",
+    "1789"
+   ],
+   "a": 0,
+   "w": "Crowned himself."
+  },
+  {
+   "q": "The Napoleonic Code gave...",
+   "o": [
+    "Absolute monarchy",
+    "Free trade",
+    "The vote to all",
+    "Equality before law, but limited women's rights"
+   ],
+   "a": 3,
+   "w": "1804."
+  },
+  {
+   "q": "Austerlitz was in...",
+   "o": [
+    "1812",
+    "1805",
+    "1815",
+    "1798"
+   ],
+   "a": 1,
+   "w": "Against Austria and Russia."
+  },
+  {
+   "q": "Trafalgar was won by...",
+   "o": [
+    "Nelson",
+    "Wellington",
+    "Blucher",
+    "Cornwallis"
+   ],
+   "a": 0,
+   "w": "1805."
+  },
+  {
+   "q": "The Russian campaign was in...",
+   "o": [
+    "1805",
+    "1815",
+    "1799",
+    "1812"
+   ],
+   "a": 3,
+   "w": "A disaster."
+  },
+  {
+   "q": "Waterloo was fought on...",
+   "o": [
+    "2 Dec 1805",
+    "18 June 1815",
+    "14 July 1789",
+    "1 Jan 1804"
+   ],
+   "a": 1,
+   "w": "Wellington and Blucher."
+  },
+  {
+   "q": "Napoleon died on...",
+   "o": [
+    "Elba",
+    "Corsica",
+    "St Helena",
+    "Paris"
+   ],
+   "a": 2,
+   "w": "1821."
+  },
+  {
+   "q": "Napoleon's height was...",
+   "o": [
+    "Very short",
+    "Over 6 feet",
+    "Unknown",
+    "About average for his time"
+   ],
+   "a": 3,
+   "w": "Myth arises from unit confusion."
+  },
+  {
+   "q": "Napoleon wrote offering help to which Indian ruler in 1798?",
+   "o": [
+    "Tipu Sultan",
+    "Ranjit Singh",
+    "Shah Alam II",
+    "Peshwa Baji Rao II"
+   ],
+   "a": 0,
+   "w": "He wrote from Egypt."
+  }
+ ],
+ "sources": [
+  "Roberts, Napoleon: A Life (2014); Englund, Napoleon; Napoleonic Code (1804); Napoleon to Tipu letter, Cairo, 1798"
+ ],
+ "verified": "2026-11-10"
+}
