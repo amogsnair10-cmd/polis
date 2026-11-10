@@ -41,12 +41,12 @@
   {
    "tag": "The defence",
    "h": "Why it survived",
-   "b": "<p><b>Isaiah Berlin</b> answered back in his 1962 essay \"Does Political Theory Still Exist?\". He said that as long as people disagree about ends, such as liberty vs equality, political theory will exist. Only in a world where everyone agreed on goals would it die.</p><p><b>Leo Strauss</b> and <b>Hannah Arendt</b> also defended the classical tradition.</p><p>Then in 1971, <b>John Rawls</b> published <i>A Theory of Justice</i>. It is widely seen as the moment normative theory came roaring back.</p>"
+   "b": "<p><b>Isaiah Berlin</b> answered back in his 1962 essay \"Does Political Theory Still Exist?\". He said that as long as people disagree about ends, such as liberty vs equality, political theory will exist. Only in a world where everyone agreed on goals would it die.</p><div class=\"quote\">\"Political theory is a branch of moral philosophy.\"</div><div class=\"who\">Isaiah Berlin, Two Concepts of Liberty (1958)</div><p><b>Leo Strauss</b> and <b>Hannah Arendt</b> also defended the classical tradition.</p><p>Then in 1971, <b>John Rawls</b> published <i>A Theory of Justice</i>. It is widely seen as the moment normative theory came roaring back.</p>"
   },
   {
-   "tag": "Quote to use",
-   "h": "Berlin's line",
-   "b": "<div class=\"quote\">\"Political theory is a branch of moral philosophy.\"</div><div class=\"who\">Isaiah Berlin, Two Concepts of Liberty (1958)</div><p>Use this in any answer about the relevance of political theory. It shows that politics can never be fully reduced to facts because it is always about choices between values.</p>"
+   "tag": "Wider debate",
+   "h": "The end of ideology, history and old methods",
+   "b": "<div class=\"box\"><h4>Daniel Bell, 1960</h4>In <i>The End of Ideology</i>, Bell argued that the West had settled its big ideological fights. Welfare capitalism had won, so grand political visions were exhausted. Critics said this was itself an ideology.</div><div class=\"box\"><h4>Quentin Skinner and the Cambridge School</h4>Skinner's essay \"Meaning and Understanding in the History of Ideas\" (1969) said we must read old texts in their own context, as moves in the debates of their time. With J.G.A. Pocock and John Dunn, this gave the history of political thought new rigour.</div><div class=\"box\"><h4>Francis Fukuyama, 1989</h4>His essay \"The End of History?\" (a book in 1992) claimed liberal democracy was the final form of government. Ethnic wars, 9/11 and China's rise showed the debate was far from over.</div>"
   },
   {
    "tag": "Indian angle",
@@ -117,6 +117,12 @@
    "w": "Logical positivism held only empirically verifiable statements were meaningful."
   }
  ],
- "sources": [],
+ "sources": [
+  "Isaiah Berlin, 'Does Political Theory Still Exist?' (1962) and Two Concepts of Liberty (1958)",
+  "Peter Laslett (ed.), Philosophy, Politics and Society (1956)",
+  "Daniel Bell, The End of Ideology (1960); Quentin Skinner, History and Theory 8 (1969); Fukuyama, The National Interest (1989)",
+  "O.P. Gauba, An Introduction to Political Theory, ch. 1",
+  "PYQ themes: decline and resurgence of political theory (asked repeatedly in Paper I)"
+ ],
  "verified": "2026-11-10"
 }
