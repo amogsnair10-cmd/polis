@@ -1,0 +1,180 @@
+{
+ "id": "0-3-1",
+ "title": "Affirmative Action",
+ "emoji": "🪜",
+ "cards": [
+  {
+   "tag": "Why this matters",
+   "h": "Reservation: the most debated equality policy in India",
+   "b": "<p>Affirmative action means taking positive steps to help groups that have been held back by past or present discrimination. It may include quotas, targets, outreach, scholarships and preferences in admission or jobs.</p><p>The theory question is old: does <b>treating people differently</b> advance <b>equal treatment</b>? Opponents call it reverse discrimination. Supporters call it the only way to give formal equality real meaning.</p><p>This is a recurring Paper I theme, in the theory section (equality, justice) and in Paper I Section B (caste, reservation, constitutional provisions). Answers need both theory (Rawls, Dworkin, Nozick, Sandel) and detailed Indian law (Articles, amendments, cases). Learn the case sequence from Champakam Dorairajan to Davinder Singh.</p>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "Meaning and forms",
+   "b": "<p>The term \"affirmative action\" was first used in US Executive Order 10925 (1961, President Kennedy) and developed under President Johnson in Executive Order 11246 (1965). In India it is usually called <b>reservation</b>, and in Britain \"positive discrimination\".</p><ul><li><b>Quotas</b>: fixed seats or posts.</li><li><b>Preferences or plus points</b>: extra weight in selection.</li><li><b>Outreach and support</b>: coaching, hostels, scholarships, relaxed age limits.</li><li><b>Targets and goals</b>: soft aims without fixed numbers.</li><li><b>Political reservation</b>: seats in legislatures or local bodies.</li></ul><p>Beneficiaries may be defined by caste, race, gender, disability or economic status. How you define the group is a major source of dispute.</p>"
+  },
+  {
+   "tag": "Key idea",
+   "h": "Arguments for",
+   "b": "<ul><li><b>Compensatory justice</b>: make up for past wrongs such as slavery or untouchability.</li><li><b>Distributive justice</b>: today's inequalities in opportunity are unfair. This fits Rawls's <b>fair equality of opportunity</b>, which asks that people of similar talent have similar prospects whatever their class.</li><li><b>Representation</b>: public institutions should include all groups. Anne Phillips's \"politics of presence\" supports this.</li><li><b>Diversity and role models</b>: mixed institutions work better and break stereotypes.</li><li><b>Social harmony</b>: sharing power reduces resentment.</li></ul><p><b>Dworkin</b>, in \"Bakke's Case: Are Quotas Unfair?\" (1977), argued that race-conscious admission uses race as a means to a wider social good, not because a group is inferior. No one has a right to a place that the policy takes away.</p>"
+  },
+  {
+   "tag": "Key idea",
+   "h": "Arguments against",
+   "b": "<ul><li><b>Reverse discrimination</b>: it punishes people who did no wrong. It uses group traits, which clash with individual merit.</li><li><b>Merit and efficiency</b>: critics say standards fall. Defenders reply that exam marks measure past advantage, too.</li><li><b>Stigma</b>: beneficiaries are doubted as less deserving.</li><li><b>Creamy layer</b>: benefits are captured by the better-off members of the group.</li><li><b>Entrenching identity</b>: it fixes caste or race as the basis of politics (Nathan Glazer, <i>Affirmative Discrimination</i>, 1975).</li><li><b>Libertarian</b> (Nozick): forced preferences violate individual rights.</li></ul><p><b>Sandel</b>, <i>Justice</i> (2009), shows that the debate rests on views about desert and the purpose of institutions: is a university rewarding merit or serving a social purpose?</p>"
+  },
+  {
+   "tag": "Debate",
+   "h": "The US experience",
+   "b": "<svg class='d' viewBox='0 0 320 140'><rect x='10' y='6' width='93' height='44' rx='8' fill='#ffffff' stroke='#5d6474'/><text x='57' y='22' font-size='10.5' fill='#1d2433' text-anchor='middle' font-weight='700'>1954</text><text x='57' y='36' font-size='10.5' fill='#1d2433' text-anchor='middle'>Brown v Board</text><rect x='113' y='6' width='93' height='44' rx='8' fill='#f1e4c6' stroke='#a8792a'/><text x='160' y='22' font-size='10.5' fill='#1d2433' text-anchor='middle' font-weight='700'>1961-65</text><text x='160' y='36' font-size='10.5' fill='#1d2433' text-anchor='middle'>Executive Orders</text><rect x='217' y='6' width='93' height='44' rx='8' fill='#dceaec' stroke='#2f6f7a'/><text x='263' y='22' font-size='10.5' fill='#1d2433' text-anchor='middle' font-weight='700'>1978</text><text x='263' y='36' font-size='10.5' fill='#1d2433' text-anchor='middle'>Bakke: no quotas, diversity ok</text><rect x='10' y='72' width='93' height='44' rx='8' fill='#dceaec' stroke='#2f6f7a'/><text x='57' y='88' font-size='10.5' fill='#1d2433' text-anchor='middle' font-weight='700'>2003</text><text x='57' y='102' font-size='10.5' fill='#1d2433' text-anchor='middle'>Grutter: law school</text><rect x='113' y='72' width='93' height='44' rx='8' fill='#f4dcd5' stroke='#a3362a'/><text x='160' y='88' font-size='10.5' fill='#1d2433' text-anchor='middle' font-weight='700'>2023</text><text x='160' y='102' font-size='10.5' fill='#1d2433' text-anchor='middle'>SFFA ends race preference</text></svg><p>In <i>Regents of the University of California v Bakke</i> (1978), the US Supreme Court barred fixed racial quotas but allowed race as one factor to get a diverse class. <i>Grutter v Bollinger</i> (2003) upheld such a plus factor at a law school.</p><p>In <i>Students for Fair Admissions v Harvard</i> (June 2023), the Court held that race-conscious admissions at Harvard and the University of North Carolina violate the Equal Protection Clause. It marked a major turn.</p><p>US policy aims mainly at diversity. Indian reservation rests on representation of historically excluded groups, and is in the Constitution itself.</p>"
+  },
+  {
+   "tag": "Key idea",
+   "h": "Reservation in the Constitution",
+   "b": "<ul><li><b>Article 15(4)</b>: special provisions for socially and educationally backward classes, SCs and STs (added by the First Amendment, 1951, after <i>State of Madras v Champakam Dorairajan</i>, 1951). <b>15(5)</b>: private and public educational institutions (93rd Amendment, 2005). <b>15(6)</b>: economically weaker sections (103rd Amendment, 2019).</li><li><b>Article 16(4)</b>: reservation in public posts for backward classes not adequately represented. <b>16(4A)</b>: promotions for SC/ST (77th Amendment, 1995). <b>16(4B)</b>: carry-forward of vacancies (81st). <b>16(6)</b>: EWS.</li><li><b>Articles 330 and 332</b>: seats for SC and ST in the Lok Sabha and Assemblies. <b>243D and 243T</b>: local bodies.</li><li><b>Article 335</b>: claims of SC/ST in services, consistent with efficiency. <b>Article 340</b>: commission on backward classes. <b>46</b>: promotion of educational and economic interests.</li></ul>"
+  },
+  {
+   "tag": "Key idea",
+   "h": "The case law, in order",
+   "b": "<ol><li><b>Champakam Dorairajan</b> (1951): communal quota struck down. Led to the First Amendment.</li><li><b>M.R. Balaji</b> (1962): 50% ceiling is a rule of prudence.</li><li><b>State of Kerala v N.M. Thomas</b> (1975): Article 16(4) is an illustration of Article 16(1), not an exception.</li><li><b>Indra Sawhney</b> (1992): the Mandal case, 6:3. Upheld 27% for OBCs. Excluded the creamy layer, capped total reservations at 50% (except in extraordinary cases), said reservation applies only at initial appointment, not promotion, and required a permanent backward classes body.</li><li><b>M. Nagaraj</b> (2006): promotion quotas are valid only with data on backwardness, inadequacy and efficiency.</li><li><b>Jarnail Singh</b> (2018): creamy layer concept applied to SC/ST promotions; quantifiable data on backwardness not needed.</li></ol>"
+  },
+  {
+   "tag": "Key idea",
+   "h": "Mandal to EWS and sub-classification",
+   "b": "<ul><li><b>Mandal Commission</b> (set up 1979 under B.P. Mandal): report in 1980, recommending 27% for OBCs. V.P. Singh's government implemented it in August 1990.</li><li><b>102nd Amendment</b> (2018): constitutional status to the National Commission for Backward Classes (Article 338B).</li><li><b>103rd Amendment</b> (2019): 10% for economically weaker sections outside SC/ST/OBC groups. In <i>Janhit Abhiyan v Union of India</i> (7 November 2022), a 5-judge bench upheld it by 3:2.</li><li><b>Jaishri Laxmanrao Patil</b> (2021): Maratha quota struck down for crossing the 50% cap.</li><li><b>State of Punjab v Davinder Singh</b> (1 August 2024): a seven-judge bench held 6:1 that States can sub-classify Scheduled Castes to give more benefit to the most disadvantaged. Some judges also urged creamy-layer exclusion for SC/ST.</li><li><b>Caste census</b>: in April 2025 the Union government decided to include caste enumeration in the next national Census.</li></ul>"
+  },
+  {
+   "tag": "Indian angle",
+   "h": "Debates in India today",
+   "b": "<p>Key issues for a balanced answer:</p><ul><li><b>Sub-categorisation of OBCs</b>: the Rohini Commission (set up 2017) examined unequal sharing of the 27% quota.</li><li><b>Creamy layer</b>: income ceiling of Rs 8 lakh was set in 2017. Demands to revise it recur.</li><li><b>Private sector and jobs shrinking</b>: public sector jobs are fewer, so reservation reaches fewer people.</li><li><b>Dominant groups seek quotas</b>: Jats, Patidars, Kapus and Marathas agitated. It signals competition for scarce state jobs.</li><li><b>Ambedkar's view</b>: reservation is a temporary safeguard, tied to representation (Constituent Assembly). Reservation in legislatures was extended repeatedly; the 104th Amendment (2019) ended the Anglo-Indian seats but extended SC/ST seats to 2030.</li><li><b>Women</b>: the 106th Amendment (2023) reserves a third of Lok Sabha and Assembly seats, to take effect after delimitation.</li></ul><p>A fair verdict: reservation has widened representation, but needs better targeting plus schooling and jobs.</p>"
+  },
+  {
+   "tag": "Exam lens",
+   "h": "How to answer",
+   "b": "<div class='box'>\"Reservation is not a poverty alleviation measure but a tool of social justice.\" Discuss.</div><div class='box'>Examine the philosophical justification for affirmative action. Is it consistent with equality?</div><div class='box'>Trace the evolution of reservation policy in India through constitutional amendments and judicial rulings.</div><div class='box'>Critically evaluate the creamy layer principle and the sub-classification of Scheduled Castes.</div><p><b>Structure:</b> start with the equality paradox. Give the justifications (compensatory, distributive, representation) and the objections (merit, stigma, creamy layer). Add the US contrast in one line. Then the Indian timeline: Articles, First Amendment, Balaji, Thomas, Indra Sawhney, Nagaraj, 77th to 103rd amendments, Davinder Singh. Close with reforms: better targeting, data, and investment in education.</p>",
+   "cls": "exam"
+  }
+ ],
+ "quiz": [
+  {
+   "q": "The term 'affirmative action' was first used officially in…",
+   "o": [
+    "Civil Rights Act 1964",
+    "US Executive Order 10925 (1961)",
+    "Bakke 1978",
+    "Brown v Board 1954"
+   ],
+   "a": 1,
+   "w": "President Kennedy's order of 1961."
+  },
+  {
+   "q": "Article 15(4) was inserted by the…",
+   "o": [
+    "42nd Amendment, 1976",
+    "77th Amendment, 1995",
+    "First Amendment, 1951",
+    "93rd Amendment, 2005"
+   ],
+   "a": 2,
+   "w": "After Champakam Dorairajan."
+  },
+  {
+   "q": "The 50 per cent ceiling on reservation was set out in Indra Sawhney, but first suggested in…",
+   "o": [
+    "N.M. Thomas (1975)",
+    "M.R. Balaji (1962)",
+    "Nagaraj (2006)",
+    "Janhit Abhiyan (2022)"
+   ],
+   "a": 1,
+   "w": "Balaji (1962) said it should be below 50%."
+  },
+  {
+   "q": "Which case held that Article 16(4) is not an exception to 16(1)?",
+   "o": [
+    "Indra Sawhney (1992)",
+    "Champakam (1951)",
+    "Jarnail Singh (2018)",
+    "N.M. Thomas (1975)"
+   ],
+   "a": 3,
+   "w": "Thomas treated reservation as part of equality."
+  },
+  {
+   "q": "Indra Sawhney upheld OBC reservation of…",
+   "o": [
+    "15%",
+    "22.5%",
+    "33%",
+    "27%"
+   ],
+   "a": 3,
+   "w": "27%, with the creamy layer excluded."
+  },
+  {
+   "q": "Promotions for SC/ST were enabled by Article 16(4A), added by the…",
+   "o": [
+    "77th Amendment",
+    "81st Amendment",
+    "85th Amendment",
+    "103rd Amendment"
+   ],
+   "a": 0,
+   "w": "77th Amendment, 1995."
+  },
+  {
+   "q": "The 103rd Amendment introduced reservation for…",
+   "o": [
+    "Women",
+    "Economically weaker sections",
+    "Minorities",
+    "Persons with disability"
+   ],
+   "a": 1,
+   "w": "10% EWS under Articles 15(6) and 16(6)."
+  },
+  {
+   "q": "In State of Punjab v Davinder Singh (2024), the Supreme Court held that…",
+   "o": [
+    "States may sub-classify Scheduled Castes",
+    "SC sub-classification is invalid",
+    "The 50% ceiling is abolished",
+    "OBC quotas must be raised"
+   ],
+   "a": 0,
+   "w": "A seven-judge bench ruled 6:1 in favour of sub-classification."
+  },
+  {
+   "q": "Dworkin's 1977 essay defends affirmative action as…",
+   "o": [
+    "A debt for past sins only",
+    "A free-market tool",
+    "A policy serving a wider social good, not stating inferiority",
+    "An entitlement of birth"
+   ],
+   "a": 2,
+   "w": "'Bakke's Case: Are Quotas Unfair?'"
+  },
+  {
+   "q": "In 2023 the US Supreme Court, in SFFA v Harvard, held that…",
+   "o": [
+    "Quotas are required",
+    "Gender quotas are valid",
+    "Race-conscious admissions are unconstitutional",
+    "Legacy admissions are banned"
+   ],
+   "a": 2,
+   "w": "It ended race-based preferences in college admissions."
+  }
+ ],
+ "sources": [
+  "Constitution of India, Arts. 15, 16, 46, 330-335, 338B, 340; 1st, 77th, 81st, 93rd, 102nd, 103rd, 104th, 106th Amendments",
+  "Champakam Dorairajan (1951); M.R. Balaji (1962); N.M. Thomas (1975); Indra Sawhney (1992); M. Nagaraj (2006); Jarnail Singh (2018)",
+  "Janhit Abhiyan v Union of India (7 Nov 2022); State of Punjab v Davinder Singh (1 Aug 2024)",
+  "Dworkin, 'Bakke's Case: Are Quotas Unfair?' (1977); Rawls, A Theory of Justice (1971); Sandel, Justice (2009)",
+  "Regents v Bakke (1978); Grutter v Bollinger (2003); SFFA v Harvard (2023)",
+  "Mandal Commission Report (1980); Laxmikanth, Indian Polity",
+  "PYQ themes: reservation, creamy layer, affirmative action and equality (Paper I Sections A and B)"
+ ],
+ "verified": "2026-11-10"
+}

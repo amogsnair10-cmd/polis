@@ -70,12 +70,12 @@
   {
    "q": "Pareto's 'circulation of elites' means…",
    "o": [
-    "Elites rule for life",
     "Old elites are replaced by new ones",
+    "Elites rule for life",
     "Elites are elected",
     "The masses become elites"
    ],
-   "a": 1,
+   "a": 0,
    "w": "Elites decay and are replaced, so rule by a few continues."
   },
   {
@@ -92,78 +92,78 @@
   {
    "q": "In Schumpeter's view, the people's main role is to…",
    "o": [
-    "Make laws directly",
     "Choose and remove leaders",
+    "Make laws directly",
     "Discover the common good",
     "Run the economy"
    ],
-   "a": 1,
+   "a": 0,
    "w": "Democracy is a competitive method for choosing leaders."
   },
   {
    "q": "Schumpeter's book on democracy is…",
    "o": [
     "The Mind and Society",
-    "Capitalism, Socialism and Democracy",
     "Politics and Markets",
-    "Polyarchy"
+    "Polyarchy",
+    "Capitalism, Socialism and Democracy"
    ],
-   "a": 1,
+   "a": 3,
    "w": "Published in 1942."
   },
   {
    "q": "Dahl's study of New Haven appeared in…",
    "o": [
-    "Who Governs?",
     "The Governmental Process",
     "The Semisovereign People",
+    "Who Governs?",
     "The Power Elite"
    ],
-   "a": 0,
+   "a": 2,
    "w": "Who Governs? (1961) found dispersed power."
   },
   {
    "q": "Which is NOT one of Dahl's polyarchy institutions?",
    "o": [
     "Free and fair elections",
+    "Public ownership of industry",
     "Associational autonomy",
-    "Alternative sources of information",
-    "Public ownership of industry"
+    "Alternative sources of information"
    ],
-   "a": 3,
+   "a": 1,
    "w": "Dahl's list has no requirement for public ownership."
   },
   {
    "q": "The upper-class accent remark about the pluralist chorus is by…",
    "o": [
-    "Schattschneider",
     "Dahl",
+    "Schattschneider",
     "Lindblom",
     "Truman"
    ],
-   "a": 0,
+   "a": 1,
    "w": "The Semisovereign People (1960)."
   },
   {
    "q": "Bachrach and Baratz criticised pluralists for ignoring…",
    "o": [
     "Voting",
-    "Non-decision-making that keeps issues off the agenda",
     "Interest groups",
+    "Non-decision-making that keeps issues off the agenda",
     "The courts"
    ],
-   "a": 1,
+   "a": 2,
    "w": "Their 1962 article on the second face of power."
   },
   {
    "q": "Carole Pateman's 1970 book is…",
    "o": [
-    "Participation and Democratic Theory",
     "Models of Democracy",
     "Democratic Theory",
-    "Polyarchy"
+    "Polyarchy",
+    "Participation and Democratic Theory"
    ],
-   "a": 0,
+   "a": 3,
    "w": "She criticised the realists and defended participation."
   }
  ],

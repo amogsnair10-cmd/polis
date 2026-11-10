@@ -1,0 +1,186 @@
+{
+ "id": "0-5-2",
+ "title": "Representative and Participatory Democracy",
+ "emoji": "🤝",
+ "cards": [
+  {
+   "tag": "Why this matters",
+   "h": "Who decides: you or your representative?",
+   "b": "<p>No modern state of millions can gather everyone in one square. So most democracies choose <b>representatives</b>. But this raises hard questions. Should an MP follow voters' wishes or use their own judgment? Who gets represented? Does voting once in five years count as self-rule?</p><p>The opposite answer is <b>participatory democracy</b>: citizens should take part directly and often, in decisions that affect their lives.</p><p>This lesson sets out both models, the main thinkers and the critiques. It is a standard Paper I topic and links directly to Indian panchayati raj, so answers can be enriched with examples.</p>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "Representative democracy in brief",
+   "b": "<p>In a <b>representative democracy</b>, citizens elect people to make laws and run government for them. Sovereignty stays with the people, but its use is delegated.</p><p>Its supporters give four reasons.</p><ul><li><b>Scale</b>: it is the only workable form in a large state.</li><li><b>Expertise</b>: full-time legislators can study complex issues.</li><li><b>Filtering</b>: Madison hoped that representatives would refine passing public passions.</li><li><b>Accountability</b>: regular elections let voters remove bad rulers.</li></ul><p>Its critics say that voters are reduced to a vote every few years. Between elections the gap between rulers and ruled can become wide.</p>"
+  },
+  {
+   "tag": "Key idea",
+   "h": "Trustee, delegate, mandate",
+   "b": "<p>How should a representative behave? Three classic views:</p><div class='box'><h4>Trustee (Burke)</h4>Edmund Burke, in his Speech to the Electors of Bristol (1774), said an MP owes voters their judgment, not blind obedience. Parliament is a deliberative assembly of one nation, not a congress of ambassadors.</div><div class='box'><h4>Delegate</h4>The representative carries out the instructions of the constituents. This is close to the Rousseau-style idea that the people's will cannot be replaced.</div><div class='box'><h4>Mandate</h4>A party wins office on a manifesto, and voters expect it to be carried out. This is the main working model in party-based systems.</div><p>Real politicians mix all three. Party discipline in India pushes MPs towards the party line, especially after the Tenth Schedule.</p>"
+  },
+  {
+   "tag": "Thinker",
+   "h": "Pitkin's four meanings of representation",
+   "b": "<p><b>Hanna Pitkin</b>, <i>The Concept of Representation</i> (1967), showed that representation has several meanings.</p><ul><li><b>Formal</b>: authorisation by election, and accountability afterwards.</li><li><b>Descriptive</b>: the legislature mirrors the population, with women, minorities and classes present in proportion.</li><li><b>Symbolic</b>: the representative stands for the nation or group, as a flag does.</li><li><b>Substantive</b>: acting in the interests of the represented.</li></ul><p>Later writers like Anne Phillips (<i>The Politics of Presence</i>, 1995) argue that groups with a history of exclusion need to be present in the assembly. This is the case for quotas.</p><p>Electoral systems matter too. First-past-the-post tends towards two parties (<b>Duverger's law</b>, 1951), while proportional systems give a more mirror-like result.</p>"
+  },
+  {
+   "tag": "Critique",
+   "h": "Strains in representative democracy",
+   "b": "<ul><li><b>Distance</b>: elected politicians form a professional class, so voters feel remote from them.</li><li><b>Money and lobbies</b>: campaign finance and corporate lobbying tilt policy to the rich.</li><li><b>Low turnout and apathy</b>: many do not vote.</li><li><b>Populism</b>: leaders claim to speak for \"the real people\" against elites and institutions.</li><li><b>Minority winners</b>: first-past-the-post can give a majority of seats on a minority of votes.</li></ul><p>Remedies suggested include compulsory voting, proportional representation, campaign finance reform, and more direct instruments such as referendums, recall and citizens' assemblies.</p>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "Participatory democracy and its roots",
+   "b": "<p>Participatory democracy holds that people should share directly in making decisions that shape their lives: in neighbourhoods, workplaces, schools and the state. Voting alone is not enough.</p><p>Its roots lie in <b>Rousseau</b> (people make the laws), <b>J.S. Mill</b> (participation educates) and <b>G.D.H. Cole</b> (<i>Social Theory</i>, 1920), who wanted self-government in workplaces and guilds. It revived with the New Left and student movements in the 1960s. The Port Huron Statement (1962) of Students for a Democratic Society called for participation.</p><p>The main theoretical works are by Carole Pateman and C.B. Macpherson. Later, Benjamin Barber, <i>Strong Democracy</i> (1984), called representative democracy \"thin\". He wanted a \"strong\" democracy of talk, civic action and local assemblies.</p>"
+  },
+  {
+   "tag": "Thinker",
+   "h": "Pateman, Macpherson and the ladder of participation",
+   "b": "<div class='box'><h4>Carole Pateman, Participation and Democratic Theory (1970)</h4>Participation develops democratic skills and a sense of responsibility. Workplace democracy is the training school. Participation is also a way to make decisions more accepted.</div><div class='box'><h4>C.B. Macpherson, The Life and Times of Liberal Democracy (1977)</h4>He proposed a <b>pyramid</b> of councils: direct democracy at the base (neighbourhood and workplace), with delegates sent up to higher levels, topped by a national assembly. He admitted two hurdles: citizens' apathy under unequal society, and the belief that there is no alternative to the existing system.</div><p><b>Sherry Arnstein</b> proposed a \"ladder of citizen participation\" (1969). Its rungs range from manipulation and tokenism at the bottom to partnership and citizen control at the top. It is a useful test of whether participation is real.</p>"
+  },
+  {
+   "tag": "Key idea",
+   "h": "Tools of direct and participatory democracy",
+   "b": "<svg class='d' viewBox='0 0 320 140'><rect x='10' y='6' width='93' height='44' rx='8' fill='#f1e4c6' stroke='#a8792a'/><text x='57' y='22' font-size='10.5' fill='#1d2433' text-anchor='middle' font-weight='700'>Referendum</text><text x='57' y='36' font-size='10.5' fill='#1d2433' text-anchor='middle'>Vote on a law or issue</text><path d='M104 28 h8' stroke='#5d6474' stroke-width='1.5'/><rect x='113' y='6' width='93' height='44' rx='8' fill='#f1e4c6' stroke='#a8792a'/><text x='160' y='22' font-size='10.5' fill='#1d2433' text-anchor='middle' font-weight='700'>Initiative</text><text x='160' y='36' font-size='10.5' fill='#1d2433' text-anchor='middle'>Citizens propose a law</text><path d='M208 28 h8' stroke='#5d6474' stroke-width='1.5'/><rect x='217' y='6' width='93' height='44' rx='8' fill='#f1e4c6' stroke='#a8792a'/><text x='263' y='22' font-size='10.5' fill='#1d2433' text-anchor='middle' font-weight='700'>Recall</text><text x='263' y='36' font-size='10.5' fill='#1d2433' text-anchor='middle'>Voters remove an official</text><rect x='10' y='72' width='93' height='44' rx='8' fill='#f1e4c6' stroke='#a8792a'/><text x='57' y='88' font-size='10.5' fill='#1d2433' text-anchor='middle' font-weight='700'>Participatory budget</text><text x='57' y='102' font-size='10.5' fill='#1d2433' text-anchor='middle'>Citizens set spending</text><path d='M104 94 h8' stroke='#5d6474' stroke-width='1.5'/><rect x='113' y='72' width='93' height='44' rx='8' fill='#f1e4c6' stroke='#a8792a'/><text x='160' y='88' font-size='10.5' fill='#1d2433' text-anchor='middle' font-weight='700'>Citizens' assembly</text><text x='160' y='102' font-size='10.5' fill='#1d2433' text-anchor='middle'>Randomly chosen citizens</text><path d='M208 94 h8' stroke='#5d6474' stroke-width='1.5'/><rect x='217' y='72' width='93' height='44' rx='8' fill='#f1e4c6' stroke='#a8792a'/><text x='263' y='88' font-size='10.5' fill='#1d2433' text-anchor='middle' font-weight='700'>Social audit</text><text x='263' y='102' font-size='10.5' fill='#1d2433' text-anchor='middle'>Public checks of schemes</text></svg><p>These tools bring citizens back between elections. Switzerland uses referendums and initiatives often. The Brazilian city of <b>Porto Alegre</b> began participatory budgeting in 1989, and the idea spread to many cities. The 2016 Brexit referendum shows the risk: a close, complex question can split a country.</p><p>Critics say participation is time-heavy, favours the educated and well-off, and can be captured by organised minorities.</p>"
+  },
+  {
+   "tag": "Debate",
+   "h": "Can the two models be combined?",
+   "b": "<p>Most scholars see the two as partners, not rivals. A common view is that representative institutions give the framework, while participatory practice deepens it at local level.</p><p>Points in favour of mixing:</p><ul><li>Participation at local scale is practical, with face-to-face groups.</li><li>It trains citizens, which improves the quality of representative democracy.</li><li>Representative bodies can then take decisions across a large area with a better feel of public opinion.</li></ul><p>Points of caution: participation can be tokenistic, it can duplicate inequality, and some decisions need expertise and speed. Fung and Wright, <i>Deepening Democracy</i> (2003), study such \"empowered participatory governance\" experiments, including Porto Alegre and Kerala.</p>"
+  },
+  {
+   "tag": "Indian angle",
+   "h": "Participation in India",
+   "b": "<ul><li><b>Gandhi</b> wanted village republics (<i>gram swaraj</i>) built from below. Article 40 (a Directive Principle) asks the State to organise village panchayats.</li><li>The <b>73rd and 74th Amendments</b> (1992, in force 1993) gave constitutional status to rural and urban local bodies (Part IX and Part IXA). They provide for gram sabhas, regular elections every five years, State Election Commissions, State Finance Commissions and reservation of seats for SC, ST and at least one-third for women.</li><li>Transparency tools: the Right to Information Act, 2005, and social audits of rural works.</li><li>Kerala's People's Plan Campaign (1996) devolved a share of the State plan to local bodies.</li><li><b>NOTA</b> was introduced after <i>PUCL v Union of India</i> (2013).</li><li>The <b>106th Amendment</b> (Nari Shakti Vandan Adhiniyam, 2023) reserves one-third of Lok Sabha and Assembly seats for women, to apply after the next delimitation.</li></ul><p>Weak spots: elected women's roles are sometimes taken over by male relatives (\"sarpanch-pati\"), and local bodies lack funds.</p>"
+  },
+  {
+   "tag": "Exam lens",
+   "h": "How to answer",
+   "b": "<div class='box'>\"Participatory democracy is the answer to the crisis of representative democracy.\" Discuss.</div><div class='box'>Distinguish between representative and participatory democracy.</div><div class='box'>Examine Pateman and Macpherson on participation.</div><div class='box'>Assess the role of local self-government in deepening democracy in India.</div><p><b>Structure:</b> set out the problem of scale and the representative model, with Burke and Pitkin. Name the strains. Present the participatory school with Pateman, Macpherson and Barber, then the tools. Argue that the two are complementary. Use the 73rd and 74th Amendments with their limits as the Indian case, and end with a balanced verdict.</p>",
+   "cls": "exam"
+  }
+ ],
+ "quiz": [
+  {
+   "q": "Burke's Speech to the Electors of Bristol is about…",
+   "o": [
+    "Delegate model of representation",
+    "Direct democracy",
+    "Proportional representation",
+    "Trustee model of representation"
+   ],
+   "a": 3,
+   "w": "Burke said an MP owes voters judgment, not blind obedience."
+  },
+  {
+   "q": "Pitkin's 'descriptive representation' means…",
+   "o": [
+    "Elected by formal procedure",
+    "Acting in the people's interests",
+    "Legislature mirrors the population",
+    "Standing as a national symbol"
+   ],
+   "a": 2,
+   "w": "The assembly resembles those it represents. The Concept of Representation (1967)."
+  },
+  {
+   "q": "Which book argued for the 'politics of presence'?",
+   "o": [
+    "Anne Phillips, The Politics of Presence",
+    "Hanna Pitkin, Concept of Representation",
+    "Barber, Strong Democracy",
+    "Fung and Wright, Deepening Democracy"
+   ],
+   "a": 0,
+   "w": "Phillips (1995) defended the presence of excluded groups in assemblies."
+  },
+  {
+   "q": "Duverger's law links first-past-the-post to…",
+   "o": [
+    "Multi-party systems",
+    "Two-party tendencies",
+    "Coalition rule",
+    "Proportional results"
+   ],
+   "a": 1,
+   "w": "Plurality rule tends to produce two parties."
+  },
+  {
+   "q": "Benjamin Barber's Strong Democracy (1984) calls representative democracy…",
+   "o": [
+    "Thick",
+    "Direct",
+    "Thin",
+    "Elitist only"
+   ],
+   "a": 2,
+   "w": "He contrasted thin with strong, participatory democracy."
+  },
+  {
+   "q": "Pateman's main claim is that participation…",
+   "o": [
+    "Slows decisions",
+    "Develops democratic skills and responsibility",
+    "Helps only the elite",
+    "Is needed only in nations"
+   ],
+   "a": 1,
+   "w": "She stressed the educative effect, especially in workplaces."
+  },
+  {
+   "q": "Macpherson's participatory model is a…",
+   "o": [
+    "Market of parties",
+    "Mixed constitution",
+    "General will",
+    "Pyramid of councils"
+   ],
+   "a": 3,
+   "w": "Direct democracy at the base, delegates above."
+  },
+  {
+   "q": "Participatory budgeting began in…",
+   "o": [
+    "Zurich",
+    "Kerala",
+    "Porto Alegre",
+    "Athens"
+   ],
+   "a": 2,
+   "w": "The Brazilian city started it in 1989."
+  },
+  {
+   "q": "The 73rd Amendment added to the Constitution…",
+   "o": [
+    "Part IX on Panchayats",
+    "Part IXA on Municipalities",
+    "Part XI on Centre-State relations",
+    "Part XXI on special provisions"
+   ],
+   "a": 0,
+   "w": "Part IX (Articles 243-243O). The 74th added Part IXA."
+  },
+  {
+   "q": "NOTA was introduced in India following…",
+   "o": [
+    "Kesavananda Bharati",
+    "PUCL v Union of India (2013)",
+    "Lily Thomas (2013)",
+    "Indira Sawhney"
+   ],
+   "a": 1,
+   "w": "The Supreme Court in PUCL (2013) directed the None of the Above option."
+  }
+ ],
+ "sources": [
+  "Burke, Speech to the Electors of Bristol (1774); Hanna Pitkin, The Concept of Representation (1967)",
+  "Anne Phillips, The Politics of Presence (1995)",
+  "Pateman, Participation and Democratic Theory (1970); Macpherson, The Life and Times of Liberal Democracy (1977)",
+  "Barber, Strong Democracy (1984); Arnstein, 'A Ladder of Citizen Participation' (1969)",
+  "Fung and Wright, Deepening Democracy (2003)",
+  "Constitution of India, Part IX, IXA, Art. 40; 73rd and 74th Amendments; 106th Amendment (2023)",
+  "PUCL v Union of India (2013); Laxmikanth, Indian Polity",
+  "PYQ themes: representative vs participatory democracy; local government (Paper I)"
+ ],
+ "verified": "2026-11-10"
+}

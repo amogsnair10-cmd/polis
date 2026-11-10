@@ -1,0 +1,180 @@
+{
+ "id": "0-4-0",
+ "title": "Meaning, Theories and Kinds of Rights",
+ "emoji": "📜",
+ "cards": [
+  {
+   "tag": "Why this matters",
+   "h": "The language of claims against power",
+   "b": "<p>Rights are the central vocabulary of modern politics. When a person says \"I have a right to...\", they claim something that others, including the state, must respect or provide.</p><p>The syllabus asks three things: what a right <i>is</i>, where rights <i>come from</i> (the theories), and what <i>kinds</i> there are. Each is a regular question. The Indian link is direct: Part III of the Constitution, the Supreme Court's expansion of Article 21, and the balance between rights and duties.</p><p>Strong answers give the competing theories (natural, legal, historical, social-welfare, Marxist), cite the main thinkers with books, and use Indian cases. The next lesson covers human rights and multicultural rights.</p>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "What is a right?",
+   "b": "<p>A <b>right</b> is a justified claim or entitlement that a person or group has, which imposes duties on others. Rights are usually protected by law, but may be moral claims that exist without law.</p><p>Laski, in <i>A Grammar of Politics</i> (1925), described rights as those conditions of social life without which no one can seek their best self. He stressed that rights belong to <b>society</b> and come with duties.</p><p>Features of rights:</p><ul><li>They are claims, not favours.</li><li>They have a holder and a duty-bearer.</li><li>They are universal within a group.</li><li>They are limited by the equal rights of others and by public interest.</li></ul><p>Remember the link with duties. A right of mine is a duty of yours to respect it.</p>"
+  },
+  {
+   "tag": "Thinker",
+   "h": "Natural rights theory",
+   "b": "<p>The oldest modern theory holds that rights belong to humans by nature, before any government. Rights are discovered by reason, not made by law.</p><ul><li><b>John Locke</b>, <i>Second Treatise</i> (1689): the natural rights to life, liberty and property. Government exists to protect them.</li><li><b>Thomas Paine</b>, <i>Rights of Man</i> (1791): rights are inherent and defend the people against hereditary rule.</li><li>The US Declaration of Independence (1776) says all men are endowed with unalienable rights. The French Declaration of the Rights of Man and of the Citizen (1789) declares rights \"natural, inalienable and sacred\".</li></ul><p><b>Strength</b>: it gives a moral standard against which to judge unjust laws. <b>Weakness</b>: who decides what nature gives? Critics call the idea metaphysical.</p>"
+  },
+  {
+   "tag": "Thinker",
+   "h": "Critics of natural rights: Bentham, Burke, Marx",
+   "b": "<div class='box'><h4>Jeremy Bentham, Anarchical Fallacies (written c. 1795)</h4>Natural rights are \"nonsense upon stilts\". Only laws create rights. Law is backed by sanctions. His test of a good law is utility, the greatest happiness.</div><div class='box'><h4>Edmund Burke, Reflections on the Revolution in France (1790)</h4>He rejected abstract \"rights of man\". Real rights are the inherited, concrete liberties of a people, developed through history.</div><div class='box'><h4>Karl Marx, On the Jewish Question (1844)</h4>The \"rights of man\" are the rights of an egoistic, separate member of civil society. Political rights give formal freedom, yet leave economic power untouched. True emancipation is human, not just political.</div><p>These three gave the legal, historical and Marxist theories.</p>"
+  },
+  {
+   "tag": "Key idea",
+   "h": "Legal, historical and social-welfare theories",
+   "b": "<ul><li><b>Legal theory</b> (Bentham, Austin): rights are created and enforced by the sovereign state. No law, no right. Strength: clear and enforceable. Weakness: if the state is unjust, there is nothing to criticise it with.</li><li><b>Historical theory</b> (Burke, Savigny): rights come from custom and practice over time. Weakness: bad customs, such as untouchability, also have a long history.</li><li><b>Social-welfare theory</b> (Pound, Chafee, Laski, Ritchie): rights are the conditions that advance the welfare of society and the individual. The state recognises rights because they serve social good.</li><li><b>Marxist theory</b>: rights express the interests of the ruling class. Real rights need economic equality and class change.</li></ul><p>Modern views: <b>Hart</b>'s choice (will) theory says a right gives its holder control over a duty. <b>Raz</b>'s interest theory says rights protect important interests.</p>"
+  },
+  {
+   "tag": "Thinker",
+   "h": "Hohfeld, Dworkin and Nozick",
+   "b": "<div class='box'><h4>Wesley Hohfeld (1913)</h4>A US jurist who split \"right\" into four parts: <b>claim</b> (matched by a duty on others), <b>liberty</b> (privilege), <b>power</b> and <b>immunity</b>. It helps to see what exactly a right gives.</div><div class='box'><h4>Ronald Dworkin, Taking Rights Seriously (1977)</h4>Rights are <b>trumps</b> over collective goals. A majority or the state cannot override individual rights just because it would benefit the community.</div><div class='box'><h4>Robert Nozick, Anarchy, State, and Utopia (1974)</h4>\"Individuals have rights, and there are things no person or group may do to them.\" Rights are <b>side constraints</b> on state action.</div><p>Both writers give a strong, rights-based liberalism. Rawls places basic liberties first in his lexical order.</p>"
+  },
+  {
+   "tag": "Key idea",
+   "h": "Kinds of rights",
+   "b": "<svg class='d' viewBox='0 0 320 92'><rect x='10' y='6' width='93' height='62' rx='8' fill='#f1e4c6' stroke='#a8792a'/><text x='57' y='22' font-size='10.5' fill='#1d2433' text-anchor='middle' font-weight='700'>First generation</text><text x='57' y='36' font-size='10.5' fill='#1d2433' text-anchor='middle'>Civil and political: life, speech, vote</text><path d='M104 37 h8' stroke='#5d6474' stroke-width='1.5'/><rect x='113' y='6' width='93' height='62' rx='8' fill='#dceaec' stroke='#2f6f7a'/><text x='160' y='22' font-size='10.5' fill='#1d2433' text-anchor='middle' font-weight='700'>Second generation</text><text x='160' y='36' font-size='10.5' fill='#1d2433' text-anchor='middle'>Economic, social, cultural: work, health</text><path d='M208 37 h8' stroke='#5d6474' stroke-width='1.5'/><rect x='217' y='6' width='93' height='62' rx='8' fill='#f4dcd5' stroke='#a3362a'/><text x='263' y='22' font-size='10.5' fill='#1d2433' text-anchor='middle' font-weight='700'>Third generation</text><text x='263' y='36' font-size='10.5' fill='#1d2433' text-anchor='middle'>Solidarity: development, environment</text></svg><p>Karel Vasak proposed the three generations in 1977. They follow the French Revolution (liberty, equality, fraternity).</p><ul><li><b>Negative rights</b> need the state to refrain from interfering (e.g., speech). <b>Positive rights</b> need the state to act (e.g., education). Berlin's two liberties echo this. Critics, such as Henry Shue (<i>Basic Rights</i>, 1980), say all rights need both restraint and provision.</li><li><b>Moral versus legal rights</b>; <b>individual versus group rights</b>.</li><li>Laski's list: the right to work, to a living wage, to education, to political participation.</li></ul>"
+  },
+  {
+   "tag": "Debate",
+   "h": "Rights, duties and the limits of rights",
+   "b": "<p>Are rights absolute? No right is. Free speech does not cover incitement. Property gives way to public purpose. The test is usually <b>proportionality</b>: a limit must serve a legitimate aim and go no further than needed.</p><p>The link to duties is a theme in many traditions. Gandhi held that rights are earned by doing one's duty (his 1947 note to UNESCO). The Universal Declaration (Article 29) says everyone has duties to the community.</p><p>Other debates:</p><ul><li><b>Inflation of rights</b>: do too many claims weaken the really basic ones?</li><li><b>Group rights versus individual rights</b>: see the next lesson.</li><li><b>Feminist critique</b>: rights language ignores care and the private sphere, though feminists also use rights to challenge it.</li><li><b>Communitarians</b>: rights language stresses conflict, not community.</li></ul>"
+  },
+  {
+   "tag": "Indian angle",
+   "h": "Rights in the Indian Constitution",
+   "b": "<ul><li><b>Part III</b> (Articles 12-35): equality (14-18), freedoms (19-22), against exploitation (23-24), religion (25-28), cultural and educational rights (29-30), constitutional remedies (32). Ambedkar called Article 32 the \"heart and soul\" of the Constitution.</li><li><b>Evolution</b>: <i>Golaknath</i> (1967), <i>Kesavananda Bharati</i> (1973, basic structure), <i>Maneka Gandhi</i> (1978, Article 21 requires fair, just, reasonable procedure). Article 21 now covers privacy (<i>Puttaswamy</i>, 2017), livelihood (<i>Olga Tellis</i>, 1985), a clean environment, health and dignity.</li><li><b>Education</b>: Article 21A (86th Amendment, 2002) and the RTE Act, 2009.</li><li><b>Property</b>: ceased to be a fundamental right by the 44th Amendment (1978), and is now a constitutional right under Article 300A.</li><li><b>Duties</b>: Article 51A (42nd Amendment, 1976, on the Swaran Singh Committee's advice).</li><li><b>Directive Principles</b> give socio-economic rights that courts cannot enforce directly. Minerva Mills (1980) called the balance between Parts III and IV a basic feature.</li></ul>"
+  },
+  {
+   "tag": "Exam lens",
+   "h": "How to answer",
+   "b": "<div class='box'>\"Rights are the conditions without which no individual can be at his best.\" Discuss with reference to different theories of rights.</div><div class='box'>Distinguish between negative and positive rights.</div><div class='box'>Critically examine the Marxist critique of liberal rights.</div><div class='box'>How has the Supreme Court expanded the scope of Article 21?</div><p><b>Structure:</b> define rights and tie them to duties. Present the five theories in one table: natural, legal, historical, social-welfare, Marxist, each with a thinker, a strength and a weakness. Add the modern theorists (Hart, Dworkin, Nozick). Then kinds and generations. Finish with Part III, the basic structure and Article 21. Mention limits and proportionality.</p>",
+   "cls": "exam"
+  }
+ ],
+ "quiz": [
+  {
+   "q": "Bentham's phrase 'nonsense upon stilts' refers to…",
+   "o": [
+    "Utilitarianism",
+    "Natural rights",
+    "Legal positivism",
+    "Marxist rights"
+   ],
+   "a": 1,
+   "w": "Anarchical Fallacies: natural rights are nonsense upon stilts."
+  },
+  {
+   "q": "Who wrote On the Jewish Question (1844)?",
+   "o": [
+    "Hegel",
+    "Bauer",
+    "Marx",
+    "Proudhon"
+   ],
+   "a": 2,
+   "w": "Marx criticised bourgeois rights as the rights of egoistic man."
+  },
+  {
+   "q": "Dworkin describes rights as…",
+   "o": [
+    "Side constraints",
+    "Privileges",
+    "Sanctions",
+    "Trumps"
+   ],
+   "a": 3,
+   "w": "Taking Rights Seriously (1977)."
+  },
+  {
+   "q": "Nozick treats rights as…",
+   "o": [
+    "Trumps",
+    "Social conventions",
+    "Side constraints on state action",
+    "Means to utility"
+   ],
+   "a": 2,
+   "w": "Anarchy, State, and Utopia (1974)."
+  },
+  {
+   "q": "Hohfeld's four elements of a right are claim, liberty, power and…",
+   "o": [
+    "Duty",
+    "Immunity",
+    "Sanction",
+    "Title"
+   ],
+   "a": 1,
+   "w": "Claim, liberty (privilege), power, immunity."
+  },
+  {
+   "q": "The three generations of rights were set out by…",
+   "o": [
+    "T.H. Marshall",
+    "Henry Shue",
+    "Raz",
+    "Karel Vasak"
+   ],
+   "a": 3,
+   "w": "Vasak, in 1977."
+  },
+  {
+   "q": "The Universal Declaration of Human Rights, in Article 29, says…",
+   "o": [
+    "Everyone has duties to the community",
+    "Property is absolute",
+    "Rights are unlimited",
+    "States may deny rights in war"
+   ],
+   "a": 0,
+   "w": "Rights come with duties and limits."
+  },
+  {
+   "q": "Property stopped being a fundamental right through the…",
+   "o": [
+    "42nd Amendment",
+    "25th Amendment",
+    "44th Amendment",
+    "1st Amendment"
+   ],
+   "a": 2,
+   "w": "The 44th Amendment (1978) moved it to Article 300A."
+  },
+  {
+   "q": "Article 21A on education was added by the…",
+   "o": [
+    "73rd Amendment",
+    "86th Amendment",
+    "93rd Amendment",
+    "97th Amendment"
+   ],
+   "a": 1,
+   "w": "86th Amendment, 2002; RTE Act followed in 2009."
+  },
+  {
+   "q": "Fundamental Duties (Article 51A) were added following the recommendations of the…",
+   "o": [
+    "Swaran Singh Committee",
+    "Sarkaria Commission",
+    "Mandal Commission",
+    "Venkatachaliah Commission"
+   ],
+   "a": 0,
+   "w": "Through the 42nd Amendment, 1976."
+  }
+ ],
+ "sources": [
+  "Locke, Second Treatise (1689); Paine, Rights of Man (1791); Burke, Reflections (1790); Bentham, Anarchical Fallacies",
+  "Marx, On the Jewish Question (1844); Laski, A Grammar of Politics (1925)",
+  "Hohfeld (1913); Dworkin, Taking Rights Seriously (1977); Nozick (1974); Shue, Basic Rights (1980)",
+  "Universal Declaration of Human Rights (1948), Art. 29",
+  "Constitution of India, Part III, Arts. 21, 21A, 32, 51A, 300A; Kesavananda Bharati (1973); Maneka Gandhi (1978); Puttaswamy (2017)",
+  "Gauba, An Introduction to Political Theory; Laxmikanth, Indian Polity",
+  "PYQ themes: theories of rights; positive and negative rights (Paper I Section A)"
+ ],
+ "verified": "2026-11-10"
+}

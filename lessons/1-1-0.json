@@ -1,0 +1,180 @@
+{
+ "id": "1-1-0",
+ "title": "Legacies of British Rule",
+ "emoji": "🏛️",
+ "cards": [
+  {
+   "tag": "Why this matters",
+   "h": "The Constitution did not start from zero",
+   "b": "<p>The Constituent Assembly met in 1946. But the state it inherited had been built over 190 years of company and Crown rule. The courts, civil services, police, army, laws, railways and the Westminster-style parliament all had colonial roots. The Constitution kept some, reworked others and rejected a few.</p><p>This is a standard Paper I Section B theme. Questions ask: What did the 1935 Act contribute? Which colonial legacies helped India, and which hurt it? How far did India break with its colonial past?</p><p>Learn it in three parts: (1) the chain of Acts from 1773 to 1947; (2) the administrative, legal and political legacies; (3) the nationalist inheritance, which was equally important: the Nehru Report, the Karachi resolution and the habit of constitutional debate.</p>"
+  },
+  {
+   "tag": "Key idea",
+   "h": "From Company to Crown: the main Acts",
+   "b": "<svg class='d' viewBox='0 0 320 204'><rect x='10' y='6' width='68' height='76' rx='8' fill='#f1e4c6' stroke='#a8792a'/><text x='44' y='22' font-size='10.5' fill='#1d2433' text-anchor='middle' font-weight='700'>1773</text><text x='44' y='36' font-size='10.5' fill='#1d2433' text-anchor='middle'>Regulating Act: Governor-General, Calcutta court</text><rect x='88' y='6' width='68' height='76' rx='8' fill='#f1e4c6' stroke='#a8792a'/><text x='121' y='22' font-size='10.5' fill='#1d2433' text-anchor='middle' font-weight='700'>1784</text><text x='121' y='36' font-size='10.5' fill='#1d2433' text-anchor='middle'>Pitt's India Act: Board of Control</text><rect x='165' y='6' width='68' height='76' rx='8' fill='#f1e4c6' stroke='#a8792a'/><text x='199' y='22' font-size='10.5' fill='#1d2433' text-anchor='middle' font-weight='700'>1833</text><text x='199' y='36' font-size='10.5' fill='#1d2433' text-anchor='middle'>Charter Act: centralised, Law Member</text><rect x='242' y='6' width='68' height='76' rx='8' fill='#f1e4c6' stroke='#a8792a'/><text x='276' y='22' font-size='10.5' fill='#1d2433' text-anchor='middle' font-weight='700'>1858</text><text x='276' y='36' font-size='10.5' fill='#1d2433' text-anchor='middle'>Crown takes over; Secretary of State</text><rect x='10' y='104' width='68' height='76' rx='8' fill='#f1e4c6' stroke='#a8792a'/><text x='44' y='120' font-size='10.5' fill='#1d2433' text-anchor='middle' font-weight='700'>1861, 1892</text><text x='44' y='134' font-size='10.5' fill='#1d2433' text-anchor='middle'>Councils Acts: legislative councils</text><rect x='88' y='104' width='68' height='76' rx='8' fill='#f1e4c6' stroke='#a8792a'/><text x='121' y='120' font-size='10.5' fill='#1d2433' text-anchor='middle' font-weight='700'>1909</text><text x='121' y='134' font-size='10.5' fill='#1d2433' text-anchor='middle'>Morley-Minto: separate electorates</text><rect x='165' y='104' width='68' height='76' rx='8' fill='#f1e4c6' stroke='#a8792a'/><text x='199' y='120' font-size='10.5' fill='#1d2433' text-anchor='middle' font-weight='700'>1919</text><text x='199' y='134' font-size='10.5' fill='#1d2433' text-anchor='middle'>Montagu-Chelmsford: dyarchy</text><rect x='242' y='104' width='68' height='76' rx='8' fill='#f1e4c6' stroke='#a8792a'/><text x='276' y='120' font-size='10.5' fill='#1d2433' text-anchor='middle' font-weight='700'>1935</text><text x='276' y='134' font-size='10.5' fill='#1d2433' text-anchor='middle'>Provincial autonomy, federation plan</text></svg><p>Note the pattern: control moved from the Company to Parliament (1773-1858), then power to Indians grew in small steps (1861-1935), always with safeguards for the Crown. The Indian Independence Act (18 July 1947) ended it.</p>"
+  },
+  {
+   "tag": "Key idea",
+   "h": "Steps toward representative government",
+   "b": "<ul><li><b>Charter Act 1833</b>: India's laws made by one authority, the Governor-General in Council. Introduced a Law Member (Macaulay was the first).</li><li><b>Indian Councils Act 1861</b>: portfolio system, nominated Indians in legislative councils (a first step to cabinet government).</li><li><b>1892</b>: indirect election element and the right to discuss the budget.</li><li><b>Morley-Minto 1909</b>: elected members in councils and <b>separate electorates for Muslims</b>, which began a communal political path.</li><li><b>Montagu-Chelmsford 1919</b>: <b>dyarchy</b> in provinces (reserved and transferred subjects), a bicameral Centre, direct elections, a Public Service Commission, and a limited franchise (roughly one in ten adults).</li><li><b>Simon Commission</b> (1927-30) and the Round Table Conferences (1930-32) preceded the next step.</li></ul>"
+  },
+  {
+   "tag": "Key idea",
+   "h": "The Government of India Act, 1935",
+   "b": "<p>The 1935 Act was the longest Act passed by the British Parliament up to then (321 sections, 10 Schedules). It is the most important legacy for the Constitution, and many of its provisions were carried over, sometimes word for word.</p><ul><li><b>Provincial autonomy</b>: dyarchy ended in provinces; ministers responsible to legislatures. The Governor kept special powers.</li><li><b>Federation</b> with princely states (never started, as states did not join). Three lists: Federal, Provincial and Concurrent.</li><li><b>Federal Court</b> (1937), the forerunner of the Supreme Court. <b>Federal and Provincial Public Service Commissions</b>. The <b>Reserve Bank of India</b> (1935, by a separate Act).</li><li><b>Emergency provisions</b> (Section 93: Governor's rule when provincial government failed) which became Article 356.</li><li>Franchise extended to roughly 10-12 per cent of the population. Separate electorates kept, and extended to depressed classes after the Communal Award and Poona Pact.</li></ul>"
+  },
+  {
+   "tag": "Key idea",
+   "h": "Administrative and legal legacies",
+   "b": "<ul><li><b>Civil services</b>: the ICS \"steel frame\" became the IAS. Article 312 provides for All-India Services. Sardar Patel defended them in the Assembly.</li><li><b>Law</b>: Macaulay's Indian Penal Code (1860), the Evidence Act (1872), the Contract Act (1872), the Civil and Criminal Procedure Codes. In 2023, Parliament replaced the IPC, CrPC and Evidence Act with the Bharatiya Nyaya Sanhita, Bharatiya Nagarik Suraksha Sanhita and Bharatiya Sakshya Adhiniyam, in force from 1 July 2024.</li><li><b>Judiciary</b>: a unified court hierarchy, common law, precedent, rule of law and independent judges.</li><li><b>District administration</b>: the Collector, revenue system and police structure (Police Act 1861).</li><li><b>Army and police</b>: professional, apolitical in intention. The army stayed under civilian control.</li><li><b>English</b> as an administrative language, and English-medium higher education.</li></ul>"
+  },
+  {
+   "tag": "Critique",
+   "h": "Legacies that cause problems",
+   "b": "<ul><li><b>Preventive detention</b>: from Bengal Regulation III of 1818 and the Defence of India Rules to Article 22 and later laws.</li><li><b>Sedition</b> (Section 124A IPC, 1870): the Supreme Court put it in abeyance in May 2022 (<i>S.G. Vombatkere v Union of India</i>). The new BNS (2023) has a different offence, Section 152, on acts endangering the sovereignty, unity and integrity of India; critics say the concern remains.</li><li><b>Emergency and Centre-biased federalism</b>: Section 93 and Article 356, misused many times until <i>S.R. Bommai</i> (1994).</li><li><b>Colonial-era laws</b>: Official Secrets Act 1923; AFSPA (1958) modelled on a 1942 ordinance; the Land Acquisition Act 1894 (replaced in 2013); forest laws that took away tribal rights.</li><li><b>Bureaucratic culture</b>: secretive, hierarchical, distant from citizens.</li><li><b>Divide and rule</b>: separate electorates and census categories hardened identities. The Constituent Assembly rejected separate electorates in 1949.</li></ul>"
+  },
+  {
+   "tag": "Key idea",
+   "h": "The nationalist inheritance",
+   "b": "<p>The framers drew as much from the freedom struggle as from British law.</p><ul><li><b>Nehru Report (1928)</b>: a draft constitution with fundamental rights, joint electorates and responsible government. The Constituent Assembly demand was raised from 1934 (M.N. Roy's idea in 1934, then Congress, 1935).</li><li><b>Karachi Resolution (1931)</b>: fundamental rights and a basic economic programme (adult franchise, abolition of untouchability, secular state, labour rights).</li><li><b>Sapru Committee (1945)</b>: a non-party committee with detailed constitutional proposals.</li><li><b>Experience of provincial self-government</b> (1937-39) and of civil liberties campaigns.</li><li><b>Cabinet Mission Plan (May 1946)</b>: set the terms for the Assembly; provincial legislators elected members, with seats allotted by community.</li></ul><p>Granville Austin, <i>The Indian Constitution: Cornerstone of a Nation</i> (1966), called the Constitution a document drafted by those who had practised self-government and civil liberties, which gave it a firm base.</p>"
+  },
+  {
+   "tag": "Debate",
+   "h": "Continuity or break?",
+   "b": "<ul><li><b>Continuity view</b>: a large part of the Constitution comes from the 1935 Act. Ambedkar, answering charges of copying, said the Constitution drew on other countries but adapted them for India's needs, and defended the borrowing in the Assembly.</li><li><b>Break view</b>: radical changes. Universal adult franchise from the start (Article 326) in a poor, mostly illiterate country. Fundamental rights and judicial review. The abolition of untouchability (Article 17). The Directive Principles, an unprecedented social-justice aim.</li><li><b>Critics</b>: Gandhians and socialists said it ignored village India. K. Hanumanthaiya compared it to a brass band when people wanted the music of the veena or sitar. Others called it a \"carbon copy\" of the 1935 Act. Marxists said it protected property.</li><li><b>Post-colonial lens</b>: postcolonial writers ask if the state apparatus, built for control, can serve democracy.</li></ul>"
+  },
+  {
+   "tag": "Indian angle",
+   "h": "Colonial legacies today",
+   "b": "<ul><li><b>Criminal law overhaul</b> (2024): the IPC, CrPC and Evidence Act replaced. Debates continue about whether the new codes break far enough from colonial attitudes.</li><li><b>Police reform</b>: <i>Prakash Singh v Union of India</i> (2006) directed reforms because the Police Act 1861 still governs the ethos. Implementation is partial.</li><li><b>Civil service</b>: lateral entry, Mission Karmayogi (2020) and demands to reform generalist administration.</li><li><b>Federalism</b>: Governors and Article 356 remain in the news, as in the 2023 Supreme Court cases on Governors' delay in assenting to bills in Tamil Nadu and Punjab.</li><li><b>Place names and symbols</b>: renaming of Rajpath to Kartavya Path (2022); the Navy ensign changed in 2022; Parliament's new building (2023).</li><li><b>Economic</b>: the colonial tax and land revenue legacy shapes the debate on agrarian distress.</li></ul>"
+  },
+  {
+   "tag": "Exam lens",
+   "h": "How to answer",
+   "b": "<div class='box'>\"The Government of India Act, 1935 was the blueprint for the Constitution of India.\" Discuss.</div><div class='box'>Examine the colonial legacies in India's administrative and legal system.</div><div class='box'>How did the freedom movement shape the Constitution?</div><div class='box'>Has India decolonised its institutions? Evaluate.</div><p><b>Structure:</b> start with the timeline of Acts in a diagram. Pick the 1935 Act and list what India took from it (federal scheme, lists, Governor, emergency, PSC, Federal Court, RBI). Then separate the helpful legacies (rule of law, civil service, parliamentary experience) from the harmful ones (preventive detention, sedition, Article 356). Add the nationalist inheritance (Nehru Report, Karachi). End with the post-2023 criminal law changes as a modern link.</p>",
+   "cls": "exam"
+  }
+ ],
+ "quiz": [
+  {
+   "q": "Dyarchy at the provincial level was introduced by…",
+   "o": [
+    "Government of India Act 1909",
+    "Government of India Act 1919",
+    "Government of India Act 1935",
+    "Charter Act 1833"
+   ],
+   "a": 1,
+   "w": "Reserved and transferred subjects; the Montagu-Chelmsford reforms."
+  },
+  {
+   "q": "Separate electorates for Muslims were granted by the…",
+   "o": [
+    "Indian Councils Act 1892",
+    "Montagu-Chelmsford Reforms 1919",
+    "Morley-Minto Reforms 1909",
+    "Cabinet Mission Plan 1946"
+   ],
+   "a": 2,
+   "w": "The 1909 Act."
+  },
+  {
+   "q": "Which institution was established under the 1935 Act as a forerunner of the Supreme Court?",
+   "o": [
+    "Privy Council",
+    "Sadar Diwani Adalat",
+    "High Court of Calcutta",
+    "Federal Court of India"
+   ],
+   "a": 3,
+   "w": "Started in 1937."
+  },
+  {
+   "q": "Article 356 has its origin in Section 93 of the…",
+   "o": [
+    "1919 Act",
+    "Independence Act 1947",
+    "1909 Act",
+    "1935 Act"
+   ],
+   "a": 3,
+   "w": "Governor's rule when provincial government failed."
+  },
+  {
+   "q": "The first Law Member of the Governor-General's council under the Charter Act 1833 was…",
+   "o": [
+    "Hastings",
+    "Macaulay",
+    "Dalhousie",
+    "Curzon"
+   ],
+   "a": 1,
+   "w": "Thomas Babington Macaulay."
+  },
+  {
+   "q": "The Nehru Report was submitted in…",
+   "o": [
+    "1928",
+    "1931",
+    "1935",
+    "1945"
+   ],
+   "a": 0,
+   "w": "A draft constitution by a committee under Motilal Nehru."
+  },
+  {
+   "q": "The Karachi Resolution of 1931 is notable for…",
+   "o": [
+    "Purna Swaraj",
+    "Quit India",
+    "Fundamental rights and an economic programme",
+    "Dominion Status"
+   ],
+   "a": 2,
+   "w": "It listed rights and welfare aims later reflected in Parts III and IV."
+  },
+  {
+   "q": "Which committee of 1945 gave non-party constitutional proposals?",
+   "o": [
+    "Simon Commission",
+    "Cabinet Mission",
+    "Sapru Committee",
+    "Lothian Committee"
+   ],
+   "a": 2,
+   "w": "Headed by Tej Bahadur Sapru."
+  },
+  {
+   "q": "The Supreme Court put Section 124A (sedition) in abeyance in…",
+   "o": [
+    "2022",
+    "2015",
+    "2018",
+    "2024"
+   ],
+   "a": 0,
+   "w": "In May 2022 in S.G. Vombatkere v Union of India."
+  },
+  {
+   "q": "The new criminal codes (BNS, BNSS, BSA) came into force on…",
+   "o": [
+    "26 January 2024",
+    "1 July 2024",
+    "15 August 2023",
+    "1 January 2025"
+   ],
+   "a": 1,
+   "w": "They replaced the IPC, CrPC and Evidence Act."
+  }
+ ],
+ "sources": [
+  "Granville Austin, The Indian Constitution: Cornerstone of a Nation (1966)",
+  "Government of India Acts 1858, 1909, 1919, 1935; Indian Independence Act 1947",
+  "Laxmikanth, Indian Polity (historical background)",
+  "Bipan Chandra et al., India's Struggle for Independence",
+  "S.G. Vombatkere v Union of India (May 2022); Bharatiya Nyaya Sanhita 2023 (in force 1 July 2024)",
+  "Prakash Singh v Union of India (2006); S.R. Bommai v Union of India (1994)",
+  "PYQ themes: 1935 Act and the Constitution; colonial legacies (Paper I Section B)"
+ ],
+ "verified": "2026-11-10"
+}

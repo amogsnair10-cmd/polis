@@ -65,11 +65,11 @@
    "q": "Which Athenian body was chosen by lot and prepared business for the assembly?",
    "o": [
     "Areopagus",
-    "Boule (Council of 500)",
     "Strategoi",
+    "Boule (Council of 500)",
     "Heliaia"
    ],
-   "a": 1,
+   "a": 2,
    "w": "The Boule of 500, fifty from each tribe, was chosen by lot."
   },
   {
@@ -108,67 +108,67 @@
   {
    "q": "Which thinker said sovereignty cannot be represented?",
    "o": [
+    "Rousseau",
     "Madison",
     "J.S. Mill",
-    "Rousseau",
     "Tocqueville"
    ],
-   "a": 2,
+   "a": 0,
    "w": "Rousseau opposed representation in law-making."
   },
   {
    "q": "Federalist No. 10 recommends a large republic mainly to…",
    "o": [
     "Cut taxes",
-    "Control the effects of factions",
     "Restore direct democracy",
-    "Reduce federal power"
+    "Reduce federal power",
+    "Control the effects of factions"
    ],
-   "a": 1,
+   "a": 3,
    "w": "Madison argued a large republic with many interests checks factions."
   },
   {
    "q": "The phrase 'tyranny of the majority' is most linked with…",
    "o": [
-    "Tocqueville",
     "Hobbes",
+    "Tocqueville",
     "Bentham",
     "Macpherson"
    ],
-   "a": 0,
+   "a": 1,
    "w": "Democracy in America (1835, 1840); Mill later popularised it in On Liberty."
   },
   {
    "q": "J.S. Mill proposed proportional representation through…",
    "o": [
-    "Closed party lists",
     "Hare's single transferable vote",
+    "Closed party lists",
     "First past the post",
     "Two-round runoff"
    ],
-   "a": 1,
+   "a": 0,
    "w": "Thomas Hare's STV, in Considerations on Representative Government (1861)."
   },
   {
    "q": "Macpherson classed J.S. Mill's democracy as…",
    "o": [
     "Protective",
-    "Developmental",
     "Equilibrium",
-    "Participatory"
+    "Participatory",
+    "Developmental"
    ],
-   "a": 1,
+   "a": 3,
    "w": "Mill valued participation for its effect on character."
   },
   {
    "q": "Which Indian text is linked to Jayaswal's study of ancient republics?",
    "o": [
     "Arthashastra of Kautilya",
-    "Hindu Polity (1924)",
     "The Argumentative Indian",
+    "Hindu Polity (1924)",
     "Discovery of India"
    ],
-   "a": 1,
+   "a": 2,
    "w": "K.P. Jayaswal wrote Hindu Polity (1924) on sabhas, samitis and gana-sanghas."
   }
  ],

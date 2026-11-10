@@ -1,0 +1,185 @@
+{
+ "id": "0-3-0",
+ "title": "Social, Political and Economic Equality; Equality vs Freedom",
+ "emoji": "⚖️",
+ "cards": [
+  {
+   "tag": "Why this matters",
+   "h": "Equal in what?",
+   "b": "<p>Equality is a favourite theme: it ties together justice, rights, democracy and every ideology. The word looks simple, but it hides one hard question. <b>Equal in what respect?</b> Votes, money, opportunity, respect, or well-being?</p><p>Nobody wants identical outcomes in everything. Even Marx did not say people are identical. As Amartya Sen put it, every serious theory demands equality of <i>something</i>. The fight is over which something.</p><p>This lesson covers the kinds of equality, the debate on equality versus liberty (Berlin, Nozick, Hayek against Tawney, Rawls, Dworkin), and the Indian case. Lesson 0-3-1 covers affirmative action in detail.</p>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "Kinds of equality",
+   "b": "<svg class='d' viewBox='0 0 320 140'><rect x='10' y='6' width='93' height='44' rx='8' fill='#f1e4c6' stroke='#a8792a'/><text x='57' y='22' font-size='10.5' fill='#1d2433' text-anchor='middle' font-weight='700'>Legal</text><text x='57' y='36' font-size='10.5' fill='#1d2433' text-anchor='middle'>Equal before law</text><rect x='113' y='6' width='93' height='44' rx='8' fill='#f1e4c6' stroke='#a8792a'/><text x='160' y='22' font-size='10.5' fill='#1d2433' text-anchor='middle' font-weight='700'>Political</text><text x='160' y='36' font-size='10.5' fill='#1d2433' text-anchor='middle'>One person, one vote</text><rect x='217' y='6' width='93' height='44' rx='8' fill='#dceaec' stroke='#2f6f7a'/><text x='263' y='22' font-size='10.5' fill='#1d2433' text-anchor='middle' font-weight='700'>Social</text><text x='263' y='36' font-size='10.5' fill='#1d2433' text-anchor='middle'>No status hierarchies</text><rect x='10' y='72' width='93' height='44' rx='8' fill='#dceaec' stroke='#2f6f7a'/><text x='57' y='88' font-size='10.5' fill='#1d2433' text-anchor='middle' font-weight='700'>Economic</text><text x='57' y='102' font-size='10.5' fill='#1d2433' text-anchor='middle'>Fair share of resources</text><rect x='113' y='72' width='93' height='44' rx='8' fill='#f4dcd5' stroke='#a3362a'/><text x='160' y='88' font-size='10.5' fill='#1d2433' text-anchor='middle' font-weight='700'>Opportunity</text><text x='160' y='102' font-size='10.5' fill='#1d2433' text-anchor='middle'>Equal start</text><rect x='217' y='72' width='93' height='44' rx='8' fill='#f4dcd5' stroke='#a3362a'/><text x='263' y='88' font-size='10.5' fill='#1d2433' text-anchor='middle' font-weight='700'>Outcome</text><text x='263' y='102' font-size='10.5' fill='#1d2433' text-anchor='middle'>Equal result</text></svg><ul><li><b>Formal (legal and political)</b>: equal rights and votes. Mostly achieved in democracies.</li><li><b>Social</b>: absence of privilege by birth, caste, race or gender, and equal respect.</li><li><b>Economic</b>: reducing gaps in income and wealth.</li></ul><p>Another way to sort equality: of <b>opportunity</b> (fair competition), of <b>condition</b> (a basic minimum) and of <b>outcome</b> (results). Liberals back the first, social democrats add the second and socialists lean to the third.</p>"
+  },
+  {
+   "tag": "Key idea",
+   "h": "Formal and substantive equality; proportional and arithmetical",
+   "b": "<p><b>Formal equality</b> treats all alike in law. <b>Substantive equality</b> asks about real life results. Treating unequals equally can deepen inequality. Anatole France quipped that the law forbids rich and poor alike to sleep under bridges.</p><p>Aristotle (<i>Nicomachean Ethics</i>, Book V) separated <b>arithmetical</b> equality (same for all) from <b>proportional</b> equality (like cases alike, in proportion to relevant differences). Indian courts use a similar test: <b>reasonable classification</b> under Article 14 needs an intelligible differentia with a rational link to the aim (<i>State of West Bengal v Anwar Ali Sarkar</i>, 1952).</p><p><b>Harold Laski</b>, <i>A Grammar of Politics</i> (1925), added that liberty needs equality. Without a minimum of economic equality, liberty is empty for the poor.</p>"
+  },
+  {
+   "tag": "Key idea",
+   "h": "How far should equality of opportunity go?",
+   "b": "<p>Equality of opportunity sounds fair to nearly everyone. But it has levels.</p><ol><li><b>Formal</b>: no legal bars. Anyone may apply for any post.</li><li><b>Fair or substantive</b>: similar talent and effort should lead to similar prospects, whatever your class or caste. This is Rawls's fair equality of opportunity. It needs good schools, health and nutrition, and sometimes compensatory measures.</li><li><b>Luck-egalitarian</b>: differences caused by luck (family, talent) should be offset, but differences caused by choices need not be.</li></ol><p>The deeper you go, the more the state has to do. A family also passes on advantage through love, books and contacts. Can we, or should we, remove that? Rawls admits this limit, and Brighouse and Swift discuss it in <i>Family Values</i> (2014).</p><p>In practice, measures include public education, scholarships, nutrition schemes, and reservations.</p>"
+  },
+  {
+   "tag": "Thinker",
+   "h": "Rousseau, Marx and Tawney",
+   "b": "<div class='box'><h4>Rousseau, Discourse on Inequality (1755)</h4>Natural inequality (age, health, talent) is small. <b>Moral or political inequality</b>, created by private property and convention, is the serious one. He saw it as the root of social ills.</div><div class='box'><h4>Marx</h4>Formal rights hide class inequality. Real equality needs abolition of class. The final principle is \"from each according to his ability, to each according to his needs\" (1875).</div><div class='box'><h4>R.H. Tawney, Equality (1931)</h4>A British socialist. He argued that people differ in talents but should be equal in dignity and in access to the conditions of a decent life. Inequality of circumstance is not natural. He wanted a \"strategy of equality\" by public education and services.</div>"
+  },
+  {
+   "tag": "Thinker",
+   "h": "Rawls, Dworkin, Sen, Walzer",
+   "b": "<ul><li><b>Rawls</b> (1971): inequalities are acceptable only if they benefit the worst-off and attach to jobs open under fair equality of opportunity.</li><li><b>Ronald Dworkin</b>, \"What is Equality?\" (1981) and <i>Sovereign Virtue</i> (2000): <b>equality of resources</b>. People should be responsible for their choices, not their circumstances. This is the base of <b>luck egalitarianism</b>.</li><li><b>Amartya Sen</b>, \"Equality of What?\" (1979 Tanner Lecture): focus on <b>capabilities</b>, the real freedoms people have, not income.</li><li><b>Michael Walzer</b>, <i>Spheres of Justice</i> (1983): <b>complex equality</b>. Different goods (money, office, education) belong to different spheres. Inequality becomes tyranny when wealth buys power or honour in other spheres.</li></ul>"
+  },
+  {
+   "tag": "Debate",
+   "h": "Equality versus freedom",
+   "b": "<p>Can the two coexist? Positions:</p><div class='box'><h4>Freedom first: Hayek, Nozick, Friedman</h4>Equality of outcome needs constant interference with free choices. Nozick's <b>Wilt Chamberlain</b> example (1974): if people freely pay to watch a star, a new unequal distribution arises, and redistribution would violate their liberty. Hayek: equality before law, not material equality.</div><div class='box'><h4>Equality supports freedom: Tawney, Laski, Rawls, Sen</h4>A starving person is not free. Equal liberty needs a fair share of resources. Liberty in a divided society is the liberty of the strong.</div><p><b>Isaiah Berlin</b>, \"Equality\" (1956), thought both are real values that can clash. He accepted a trade-off, in his value-pluralist way.</p>"
+  },
+  {
+   "tag": "Critique",
+   "h": "Other challenges to equality",
+   "b": "<ul><li><b>Meritocracy</b>: Michael Young coined the word in a satire, <i>The Rise of the Meritocracy</i> (1958). Sandel's <i>The Tyranny of Merit</i> (2020) argues that the winners wrongly think they deserve everything.</li><li><b>Feminist</b>: formal equality ignores care work and the family. Okin attacks the gendered family.</li><li><b>Recognition</b>: Nancy Fraser says justice needs both redistribution and recognition of group identities.</li><li><b>Difference</b>: Iris Young says equal treatment can erase real group differences.</li><li><b>Levelling down</b>: Is equality good if it makes everyone worse off? Derek Parfit's <i>priority view</i> says we should help the worse-off because they are badly off, not because of equality itself.</li></ul>"
+  },
+  {
+   "tag": "Key idea",
+   "h": "Measuring inequality",
+   "b": "<ul><li>The <b>Gini coefficient</b> runs from 0 (perfect equality) to 1 (one person holds everything).</li><li>The <b>Lorenz curve</b> plots cumulative income against cumulative population. The more it bends away from the diagonal, the greater the inequality.</li><li>The <b>Palma ratio</b> compares the top 10% share to the bottom 40%.</li><li>Thomas Piketty, <i>Capital in the Twenty-First Century</i> (2013 in French, 2014 in English), argues that when returns on capital (r) exceed growth (g), wealth concentrates over time.</li><li>The UNDP's <b>Inequality-adjusted HDI</b> and Sen's capability lens look beyond income.</li></ul><p>Note that income inequality, wealth inequality and consumption inequality give different pictures. Always say which one you cite.</p>"
+  },
+  {
+   "tag": "Indian angle",
+   "h": "Equality in the Indian Constitution",
+   "b": "<ul><li><b>Preamble</b>: \"equality of status and of opportunity\".</li><li><b>Articles 14-18</b>: equality before law and equal protection (14), no discrimination on grounds of religion, race, caste, sex or place of birth (15), equal opportunity in public employment (16), abolition of untouchability (17) and titles (18). Article 15(3) allows special provisions for women and children; 15(4) for socially and educationally backward classes; 16(4) reservation in posts.</li><li><b>Directive Principles</b>: Article 38(2) (reduce inequalities in income, status and opportunity), Article 39(b) and (c).</li><li><b>Courts</b>: <i>E.P. Royappa</i> (1974): arbitrariness violates Article 14. <i>Maneka Gandhi</i> (1978) linked Articles 14, 19 and 21.</li><li><b>Inequality data</b>: a World Inequality Lab paper (Bharti, Chancel, Piketty and Somanchi, 2024) estimates that India's top 1% received 22.6% of national income in 2022-23, the highest in its series back to 1922. The paper stresses that Indian data are weak.</li></ul>"
+  },
+  {
+   "tag": "Exam lens",
+   "h": "How to answer",
+   "b": "<div class='box'>\"Equality and liberty are complementary, not conflicting.\" Discuss.</div><div class='box'>Examine the different dimensions of equality. Is equality of opportunity enough?</div><div class='box'>Compare the Rawlsian and libertarian views on equality.</div><div class='box'>\"Formal equality may perpetuate inequality.\" Elucidate with Indian examples.</div><p><b>Structure:</b> define equality and ask 'equality of what'. Draw the types. Then thinkers in order: Rousseau, Marx, Tawney, Rawls, Dworkin, Sen, Walzer. Put the freedom-versus-equality debate in a two-column table with Nozick and Hayek against Rawls and Laski. Finish with Articles 14-18 and 38-39, plus current inequality data, and conclude that both values need balance.</p>",
+   "cls": "exam"
+  }
+ ],
+ "quiz": [
+  {
+   "q": "Rousseau's Discourse on Inequality (1755) treats which kind of inequality as the real problem?",
+   "o": [
+    "Moral or political inequality created by convention and property",
+    "Natural differences in talent",
+    "Differences in age",
+    "Inequality among nations"
+   ],
+   "a": 0,
+   "w": "He distinguished natural from moral/political inequality."
+  },
+  {
+   "q": "The Wilt Chamberlain argument is used by…",
+   "o": [
+    "Rawls",
+    "Tawney",
+    "Sen",
+    "Nozick"
+   ],
+   "a": 3,
+   "w": "Anarchy, State, and Utopia (1974) uses it against pattern-based redistribution."
+  },
+  {
+   "q": "Tawney's Equality was published in…",
+   "o": [
+    "1951",
+    "1931",
+    "1971",
+    "1991"
+   ],
+   "a": 1,
+   "w": "R.H. Tawney, 1931."
+  },
+  {
+   "q": "Dworkin's approach to equality is called…",
+   "o": [
+    "Complex equality",
+    "Equality of resources",
+    "Equality of capabilities",
+    "Strict egalitarianism"
+   ],
+   "a": 1,
+   "w": "Sovereign Virtue (2000)."
+  },
+  {
+   "q": "Michael Walzer's complex equality holds that…",
+   "o": [
+    "All goods should be shared equally",
+    "Different goods belong to separate spheres and one should not dominate others",
+    "The state should own resources",
+    "Merit should be ignored"
+   ],
+   "a": 1,
+   "w": "Spheres of Justice (1983)."
+  },
+  {
+   "q": "The phrase 'Equality of What?' is the title of Sen's…",
+   "o": [
+    "2009 book",
+    "1999 report",
+    "1979 Tanner Lecture",
+    "1985 paper on rights"
+   ],
+   "a": 2,
+   "w": "It introduced the capability focus."
+  },
+  {
+   "q": "Who coined 'meritocracy' in a satire?",
+   "o": [
+    "Michael Young",
+    "Michael Sandel",
+    "John Rawls",
+    "Daniel Bell"
+   ],
+   "a": 0,
+   "w": "The Rise of the Meritocracy (1958)."
+  },
+  {
+   "q": "Which Indian Article abolishes untouchability?",
+   "o": [
+    "Article 15",
+    "Article 16",
+    "Article 17",
+    "Article 18"
+   ],
+   "a": 2,
+   "w": "Article 17."
+  },
+  {
+   "q": "Which case held that arbitrariness violates Article 14?",
+   "o": [
+    "A.K. Gopalan (1950)",
+    "Champakam Dorairajan (1951)",
+    "Balaji (1962)",
+    "E.P. Royappa v State of Tamil Nadu (1974)"
+   ],
+   "a": 3,
+   "w": "Royappa gave a 'new concept' of equality against arbitrariness."
+  },
+  {
+   "q": "Article 38(2) directs the State to minimise inequalities in…",
+   "o": [
+    "Only land holding",
+    "Only political power",
+    "Income, status, facilities and opportunities",
+    "Language rights"
+   ],
+   "a": 2,
+   "w": "Directive Principle in Part IV (added by the 44th Amendment)."
+  }
+ ],
+ "sources": [
+  "Rousseau, Discourse on Inequality (1755); Marx, Critique of the Gotha Programme (1875); Tawney, Equality (1931); Laski, A Grammar of Politics (1925)",
+  "Rawls, A Theory of Justice (1971); Dworkin, 'What is Equality?' (1981) and Sovereign Virtue (2000); Sen, 'Equality of What?' (1979); Walzer, Spheres of Justice (1983)",
+  "Nozick, Anarchy, State, and Utopia (1974); Berlin, 'Equality' (1956); Sandel, The Tyranny of Merit (2020)",
+  "Constitution of India, Preamble, Arts. 14-18, 38-39; E.P. Royappa (1974)",
+  "Bharti, Chancel, Piketty, Somanchi, Income and Wealth Inequality in India 1922-2023, World Inequality Lab (2024)",
+  "Gauba, An Introduction to Political Theory; Heywood, Political Ideologies",
+  "PYQ themes: equality vs liberty; types of equality (Paper I Section A)"
+ ],
+ "verified": "2026-11-10"
+}

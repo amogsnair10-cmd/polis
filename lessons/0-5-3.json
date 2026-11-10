@@ -1,0 +1,180 @@
+{
+ "id": "0-5-3",
+ "title": "Deliberative Democracy",
+ "emoji": "💬",
+ "cards": [
+  {
+   "tag": "Why this matters",
+   "h": "From counting votes to weighing reasons",
+   "b": "<p>In the older models, democracy is about <b>aggregating</b> preferences: add up votes, and the biggest group wins. But what if the preferences are poorly informed, or never tested against other views?</p><p><b>Deliberative democracy</b> says legitimate decisions come from public <b>reasoning</b>, in which free and equal citizens give reasons and listen. Voting comes after discussion, not instead of it.</p><p>The theory rose in the 1980s and 1990s, partly as a response to elitist and market-like models (Schumpeter) and as a way to handle deep disagreement. It is now one of the most active areas of democratic theory, and a frequent exam topic. Know Habermas, Rawls, Cohen, Gutmann and Thompson, Fishkin, and the critics Young and Mouffe.</p>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "The core of the theory",
+   "b": "<p>Deliberative democrats share four ideas.</p><ul><li><b>Reasons, not force</b>: laws must be justifiable by arguments all can accept, not just by power or numbers.</li><li><b>Equality</b>: everyone affected can take part, with an equal voice.</li><li><b>Openness to change</b>: people can revise their views when they hear better arguments.</li><li><b>Public-spirited outcome</b>: talk pushes people to think of common good, not only self-interest.</li></ul><p>Contrast with the older <b>aggregative</b> model. There, preferences are given and fixed, and the task is to count them fairly. In the deliberative model, preferences are formed and changed through discussion.</p><p>The term was coined by Joseph Bessette in 1980. Bernard Manin's 1987 article \"On Legitimacy and Political Deliberation\" helped launch the field.</p>"
+  },
+  {
+   "tag": "Thinker",
+   "h": "Habermas: the public sphere and the ideal speech situation",
+   "b": "<svg class='d' viewBox='0 0 320 74'><rect x='10' y='6' width='93' height='44' rx='8' fill='#f1e4c6' stroke='#a8792a'/><text x='57' y='22' font-size='10.5' fill='#1d2433' text-anchor='middle' font-weight='700'>Public sphere</text><text x='57' y='36' font-size='10.5' fill='#1d2433' text-anchor='middle'>Open space for debate</text><path d='M104 28 h8' stroke='#5d6474' stroke-width='1.5'/><rect x='113' y='6' width='93' height='44' rx='8' fill='#f1e4c6' stroke='#a8792a'/><text x='160' y='22' font-size='10.5' fill='#1d2433' text-anchor='middle' font-weight='700'>Ideal speech</text><text x='160' y='36' font-size='10.5' fill='#1d2433' text-anchor='middle'>Equal, free, no coercion</text><path d='M208 28 h8' stroke='#5d6474' stroke-width='1.5'/><rect x='217' y='6' width='93' height='44' rx='8' fill='#f1e4c6' stroke='#a8792a'/><text x='263' y='22' font-size='10.5' fill='#1d2433' text-anchor='middle' font-weight='700'>Better argument</text><text x='263' y='36' font-size='10.5' fill='#1d2433' text-anchor='middle'>Wins, not power</text></svg><p><b>Jurgen Habermas</b> is the central figure. In <i>The Structural Transformation of the Public Sphere</i> (1962), he traced how 18th-century coffee houses and newspapers created a public sphere where private citizens debated the state. He feared mass media and commerce later weakened it.</p><p>In <i>The Theory of Communicative Action</i> (1981), he separated <b>communicative action</b> (seeking understanding) from strategic action (seeking success). He described an <b>ideal speech situation</b>: everyone may speak, no one is coerced, and only \"the force of the better argument\" counts.</p><p>In <i>Between Facts and Norms</i> (1992), he applied this to law and democracy. Law is legitimate if all affected could agree to it in rational discourse. This is the <b>discourse theory</b> of democracy.</p>"
+  },
+  {
+   "tag": "Thinker",
+   "h": "Rawls and public reason; Cohen's ideal",
+   "b": "<div class='box'><h4>Rawls, Political Liberalism (1993)</h4>In a society with reasonable disagreement, citizens should justify basic political decisions with <b>public reason</b>: arguments that others, whatever their faith, could accept. A believer should not say \"my scripture says so\" and stop there.</div><div class='box'><h4>Joshua Cohen, \"Deliberation and Democratic Legitimacy\" (1989)</h4>An ideal deliberative procedure is one where free and equal participants give reasons and accept outcomes supported by the best reasons. Cohen links legitimacy to this procedure.</div><p>Both writers come from the liberal tradition. They differ from Habermas by focusing more on the content of justice, and Habermas more on procedure. Their debate (1995) is in the <i>Journal of Philosophy</i>.</p>"
+  },
+  {
+   "tag": "Thinker",
+   "h": "Gutmann and Thompson; Fishkin; Dryzek",
+   "b": "<div class='box'><h4>Amy Gutmann and Dennis Thompson, Democracy and Disagreement (1996)</h4>Citizens should deliberate under the principles of <b>reciprocity</b> (offer reasons others can accept), <b>publicity</b> and <b>accountability</b>. Moral disagreement is permanent, so mutual respect is key.</div><div class='box'><h4>James Fishkin, Democracy and Deliberation (1991)</h4>He designed <b>deliberative polling</b>. A random sample of citizens is given balanced information, discusses in small groups with experts, and is polled before and after. Views often shift. The method shows what the public would think if it were well-informed.</div><div class='box'><h4>John Dryzek, Deliberative Democracy and Beyond (2000)</h4>Dryzek stresses <b>discursive democracy</b>, including protest, civil society and social movements, not only formal assemblies.</div>"
+  },
+  {
+   "tag": "Key idea",
+   "h": "Deliberation in practice",
+   "b": "<ul><li><b>Citizens' assemblies</b>: randomly chosen citizens study an issue and make recommendations. Ireland's Citizens' Assembly (2016-18) discussed abortion and led to the 2018 referendum that repealed the Eighth Amendment.</li><li><b>Deliberative polls</b> have been held in many countries.</li><li><b>Participatory forums</b> such as Porto Alegre's budget councils.</li><li><b>Parliamentary committees</b> that hear experts and the public are a deliberative space, too.</li><li><b>Online forums</b> may widen deliberation.</li></ul><p>Because participants are chosen by lot, these bodies echo Athens. This is sometimes called <b>mini-publics</b>.</p>"
+  },
+  {
+   "tag": "Critique",
+   "h": "Is the ideal fair?",
+   "b": "<ul><li><b>Iris Marion Young</b>, <i>Inclusion and Democracy</i> (2000): the stress on cool, rational argument favours the educated and dominant. She would add greeting, rhetoric and storytelling as valid forms of speech, so that marginalised groups are heard.</li><li><b>Chantal Mouffe</b>, <i>The Democratic Paradox</i> (2000): politics is about conflict, not consensus. She proposes <b>agonistic pluralism</b>, where opponents are treated as adversaries, not enemies. A search for rational consensus hides power.</li><li><b>Cass Sunstein</b> warned that like-minded groups get more extreme (group polarisation), so online echo chambers can worsen deliberation.</li><li><b>Practical doubts</b>: it is slow, small in scale, and who sets the agenda?</li></ul><p>Defenders say the theory is a standard to judge real politics, not a claim that it already exists.</p>"
+  },
+  {
+   "tag": "Debate",
+   "h": "Deliberation versus aggregation, and decision",
+   "b": "<p>Is deliberation a replacement for voting? Most writers say no. Votes are needed to close a debate. The question is the quality of what comes before it.</p><p>Habermas separates the <b>informal public sphere</b> (opinion formation in media and civil society) from <b>formal decision bodies</b> (parliament). Opinion flows from the first to the second through elections and law. This is his \"two-track\" model.</p><p>Test questions for a real system:</p><ul><li>Are there open spaces for debate (press, universities, civil society)?</li><li>Are the legislature's debates real, or just party theatre?</li><li>Do rulers explain decisions with reasons?</li></ul><p>The theory therefore gives a good yardstick to judge Indian Parliament's functioning.</p>"
+  },
+  {
+   "tag": "Indian angle",
+   "h": "India's deliberative traditions and gaps",
+   "b": "<ul><li><b>Ancient</b>: Buddhist councils and the sangha's rules of debate. Ashoka's Rock Edict XII urges listening to each other's doctrines and restraint in speech.</li><li><b>Amartya Sen</b>, <i>The Argumentative Indian</i> (2005), argues that India has a long tradition of public debate and heterodoxy, which supports democracy.</li><li><b>Constituent Assembly</b> (1946-49): about three years of debate, 11 sessions, 2 years 11 months 18 days in all, producing the Constitution after discussion of each clause.</li><li><b>Gram sabhas</b> are meant to be forums of local deliberation. Many meet rarely or have low attendance.</li><li><b>Parliament</b>: frequent disruption has cut debate time. Standing committees and pre-legislative consultation (2014 policy) help, but many bills pass with little scrutiny.</li><li><b>Media and social media</b>: echo chambers and misinformation strain the public sphere.</li></ul>"
+  },
+  {
+   "tag": "Exam lens",
+   "h": "How to answer",
+   "b": "<div class='box'>\"Deliberative democracy shifts focus from voting to reasoning.\" Discuss.</div><div class='box'>Explain Habermas's idea of the public sphere and ideal speech situation.</div><div class='box'>Critically examine the feminist and agonistic critiques of deliberative democracy.</div><div class='box'>Is Indian democracy deliberative? Illustrate.</div><p><b>Structure:</b> start with aggregation versus deliberation. Give the core features, then Habermas, Rawls's public reason and Cohen, and practical designs (Fishkin, assemblies). Move to critiques by Young and Mouffe. For the Indian angle, use Sen, the Constituent Assembly and the decline in parliamentary debate. Finish by saying deliberation and voting complement each other.</p>",
+   "cls": "exam"
+  }
+ ],
+ "quiz": [
+  {
+   "q": "Deliberative democracy locates legitimacy mainly in…",
+   "o": [
+    "Counting preferences",
+    "Public reasoning among free and equal citizens",
+    "Elite competition",
+    "Direct ownership"
+   ],
+   "a": 1,
+   "w": "Decisions are legitimate if they come from reasoned public discussion."
+  },
+  {
+   "q": "The Structural Transformation of the Public Sphere (1962) is by…",
+   "o": [
+    "Rawls",
+    "Habermas",
+    "Fishkin",
+    "Mouffe"
+   ],
+   "a": 1,
+   "w": "Jurgen Habermas traced the rise and decline of the bourgeois public sphere."
+  },
+  {
+   "q": "Habermas's phrase for what should decide in the ideal speech situation is…",
+   "o": [
+    "The will of the majority",
+    "The wisest leader",
+    "The force of the better argument",
+    "The common law"
+   ],
+   "a": 2,
+   "w": "No coercion, equal voice, only better argument counts."
+  },
+  {
+   "q": "'Public reason' as a duty of citizens is most associated with…",
+   "o": [
+    "Schumpeter",
+    "Dahl",
+    "Rawls",
+    "Pareto"
+   ],
+   "a": 2,
+   "w": "Political Liberalism (1993)."
+  },
+  {
+   "q": "Reciprocity is a central principle in…",
+   "o": [
+    "Michels",
+    "Gutmann and Thompson",
+    "Marx",
+    "Nozick"
+   ],
+   "a": 1,
+   "w": "Democracy and Disagreement (1996)."
+  },
+  {
+   "q": "Deliberative polling was developed by…",
+   "o": [
+    "Dryzek",
+    "Barber",
+    "Fishkin",
+    "Sunstein"
+   ],
+   "a": 2,
+   "w": "James Fishkin, from Democracy and Deliberation (1991)."
+  },
+  {
+   "q": "Which thinker stressed that conflict, not consensus, is the core of politics?",
+   "o": [
+    "Joshua Cohen",
+    "Habermas",
+    "Gutmann",
+    "Chantal Mouffe"
+   ],
+   "a": 3,
+   "w": "Her agonistic pluralism, in The Democratic Paradox (2000)."
+  },
+  {
+   "q": "Iris Marion Young criticised deliberation for…",
+   "o": [
+    "Privileging cool rational speech that favours dominant groups",
+    "Ignoring elections",
+    "Encouraging violence",
+    "Rejecting law"
+   ],
+   "a": 0,
+   "w": "She added greeting, rhetoric and narrative as legitimate speech."
+  },
+  {
+   "q": "Ireland's Citizens' Assembly (2016-18) is an example of a…",
+   "o": [
+    "Recall election",
+    "Party primary",
+    "Referendum only",
+    "Mini-public"
+   ],
+   "a": 3,
+   "w": "Randomly chosen citizens deliberated on issues such as abortion."
+  },
+  {
+   "q": "Amartya Sen's The Argumentative Indian was published in…",
+   "o": [
+    "2005",
+    "1995",
+    "2009",
+    "2015"
+   ],
+   "a": 0,
+   "w": "2005; it stresses India's tradition of public debate."
+  }
+ ],
+ "sources": [
+  "Habermas, The Structural Transformation of the Public Sphere (1962); The Theory of Communicative Action (1981); Between Facts and Norms (1992)",
+  "Rawls, Political Liberalism (1993); Joshua Cohen, 'Deliberation and Democratic Legitimacy' (1989)",
+  "Gutmann and Thompson, Democracy and Disagreement (1996); Fishkin, Democracy and Deliberation (1991); Dryzek, Deliberative Democracy and Beyond (2000)",
+  "Iris Marion Young, Inclusion and Democracy (2000); Chantal Mouffe, The Democratic Paradox (2000)",
+  "Amartya Sen, The Argumentative Indian (2005); Ashoka's Rock Edict XII",
+  "Constituent Assembly Debates; Heywood, Politics",
+  "PYQ themes: deliberative democracy and Habermas (Paper I Section A)"
+ ],
+ "verified": "2026-11-10"
+}

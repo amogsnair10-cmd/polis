@@ -1,0 +1,180 @@
+{
+ "id": "0-6-2",
+ "title": "Authority and Legitimacy: Weber and After",
+ "emoji": "🏅",
+ "cards": [
+  {
+   "tag": "Why this matters",
+   "h": "Power that people accept as rightful",
+   "b": "<p>Take two cases. A robber with a gun gets your wallet. A police officer in uniform asks you to move your car, and you do. Both have power over you, but only the second has <b>authority</b>. You obey the officer because you think the request is <i>rightful</i>.</p><p><b>Authority</b> is power that is seen as legitimate. <b>Legitimacy</b> is the rightfulness of rule, the grounds on which people accept that a government has the right to command.</p><p>Why does it matter? Rule resting on legitimacy is cheaper, more stable and more durable than rule resting on force. Governments that lose legitimacy face protest, collapse or revolution.</p><p>This lesson is built around <b>Max Weber</b> and what came after: Beetham, Lipset, Easton, Habermas and Arendt. It links directly to the Indian Emergency and judicial legitimacy.</p>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "Power, authority, legitimacy, influence",
+   "b": "<ul><li><b>Power</b>: the ability to get others to do something, even against their will.</li><li><b>Force</b>: physical coercion.</li><li><b>Influence</b>: changing views by persuasion, with no threat.</li><li><b>Authority</b>: the right to command, with a matching duty to obey. Authority is <b>institutional</b> (it comes with an office, like a judge) or <b>personal</b> (it comes from character, like a respected elder).</li><li><b>Legitimacy</b>: the moral or legal basis on which authority is accepted. Authority is the exercise; legitimacy is the justification.</li></ul><p>Note the Latin root: <i>legitimus</i> means lawful. A lawful government may still be seen as illegitimate, as in colonial or one-party rule. A government may be legitimate in the people's eyes but not strictly legal, as in some revolutions.</p><p>Rousseau saw the point early. The strongest is never strong enough unless they turn force into right and obedience into duty.</p>"
+  },
+  {
+   "tag": "Thinker",
+   "h": "Weber: the state and its legitimacy",
+   "b": "<p><b>Max Weber</b> (1864-1920) was a German sociologist. In his lecture \"Politics as a Vocation\" (1919) he defined the <b>state</b> as the human community that successfully claims the <b>monopoly of the legitimate use of physical force</b> within a given territory.</p><p>The key word is <i>legitimate</i>. Many groups use force, but only the state's use is seen as rightful.</p><p>For Weber, rule that depends only on force or self-interest is unstable. Every system of domination tries to cultivate belief in its legitimacy. He studied <b>why</b> people obey, in <i>Economy and Society</i> (published 1922 after his death). He used the <b>ideal type</b> method, that is, pure models that sharpen analysis, though real regimes mix them.</p>"
+  },
+  {
+   "tag": "Key idea",
+   "h": "Weber's three types of authority",
+   "b": "<svg class='d' viewBox='0 0 320 106'><rect x='10' y='6' width='93' height='76' rx='8' fill='#f1e4c6' stroke='#a8792a'/><text x='57' y='22' font-size='10.5' fill='#1d2433' text-anchor='middle' font-weight='700'>Traditional</text><text x='57' y='36' font-size='10.5' fill='#1d2433' text-anchor='middle'>Belief in sanctity of custom: kings, chiefs, patriarchs</text><rect x='113' y='6' width='93' height='76' rx='8' fill='#f4dcd5' stroke='#a3362a'/><text x='160' y='22' font-size='10.5' fill='#1d2433' text-anchor='middle' font-weight='700'>Charismatic</text><text x='160' y='36' font-size='10.5' fill='#1d2433' text-anchor='middle'>Devotion to an extraordinary person: prophets, heroes</text><rect x='217' y='6' width='93' height='76' rx='8' fill='#dceaec' stroke='#2f6f7a'/><text x='263' y='22' font-size='10.5' fill='#1d2433' text-anchor='middle' font-weight='700'>Legal-rational</text><text x='263' y='36' font-size='10.5' fill='#1d2433' text-anchor='middle'>Belief in legal rules and office: modern state</text></svg><ul><li><b>Traditional</b>: rulers obey custom and are obeyed from habit. Example: monarchy, caste elders. Weakness: change is hard.</li><li><b>Charismatic</b>: the leader is believed to have exceptional gifts. It is unstable and faces a <b>routinisation of charisma</b> after the leader dies, turning into tradition or rules. Examples: Gandhi, Napoleon, prophets.</li><li><b>Legal-rational</b>: obedience is to impersonal rules and to offices, not persons. Its staff is the <b>bureaucracy</b>: fixed duties, hierarchy, written rules, merit-based appointment. Weber also feared its \"iron cage\" of rationality.</li></ul>"
+  },
+  {
+   "tag": "Thinker",
+   "h": "After Weber: Beetham and Lipset",
+   "b": "<div class='box'><h4>David Beetham, The Legitimation of Power (1991)</h4>Beetham says Weber reduced legitimacy to belief. Legitimacy has three levels: <b>(1) legality</b>, power acquired and exercised by the rules; <b>(2) justifiability</b>, the rules fit shared beliefs about who should rule and why; <b>(3) legitimation</b>, visible acts of consent such as elections, oaths and mass participation. A regime may be seen as lacking if any level fails.</div><div class='box'><h4>S.M. Lipset, Political Man (1960)</h4>Legitimacy is the capacity of a system to engender the belief that existing institutions are the most appropriate. Stability depends on both <b>legitimacy and effectiveness</b>. A regime that performs badly for long may lose legitimacy.</div><p>The key point: Weber sees legitimacy as a matter of what people <i>believe</i>. Beetham treats it as something a scholar can judge, by checking rules, beliefs and consent.</p>"
+  },
+  {
+   "tag": "Thinker",
+   "h": "Easton, Habermas, Arendt",
+   "b": "<div class='box'><h4>David Easton, A Systems Analysis of Political Life (1965)</h4>Two kinds of support for a political system. <b>Specific support</b> depends on outputs that satisfy people. <b>Diffuse support</b> is a deeper goodwill towards the system, a reservoir that lasts through bad times.</div><div class='box'><h4>Jurgen Habermas, Legitimation Crisis (1973)</h4>Late capitalist states must keep the economy growing and also win mass loyalty. If they cannot meet demands, a <b>legitimation crisis</b> follows. He argued that legitimacy needs a rational discourse among citizens (see deliberative democracy).</div><div class='box'><h4>Hannah Arendt, \"What is Authority?\" (1954, in Between Past and Future, 1961)</h4>Authority needs no force and no argument. It rests on acknowledged hierarchy. Force means authority has failed.</div>"
+  },
+  {
+   "tag": "Key idea",
+   "h": "Sources of legitimacy and its crises",
+   "b": "<p>Rulers have claimed legitimacy through:</p><ul><li><b>Tradition</b>: divine right, descent.</li><li><b>Consent</b>: the social contract tradition (Locke, Rousseau) and elections.</li><li><b>Law and procedure</b>: constitutions and courts.</li><li><b>Performance</b>: growth, welfare, security. This is a major source for China's one-party state.</li><li><b>Ideology</b>: nationalism, religion, revolution.</li><li><b>Charisma</b>: a popular leader.</li></ul><p>Signs of a crisis: low turnout, mass protest, civil disobedience, rising use of force, coups, secession and refusal to pay taxes. Responses include reform, elections, constitutional change, or, in bad cases, repression.</p><p>A distinction: <b>legitimacy of origin</b> (how the government came to power) and <b>legitimacy of exercise</b> (how it governs). A regime can fail on the second after passing the first.</p>"
+  },
+  {
+   "tag": "Critique",
+   "h": "Is Weber enough?",
+   "b": "<ul><li><b>Belief is not everything</b>: people may believe because they were manipulated. Marxists and Gramsci point out that belief can be the product of hegemony. Habermas asks whether the beliefs would survive free reasoning.</li><li><b>Ideal types blur</b>: real systems mix types. Modern leaders can be both charismatic and legal-rational.</li><li><b>Legitimacy versus justice</b>: a widely accepted regime, such as a colonial or caste order, can still be unjust. Normative theory (Rawls, Raz) asks whether authority is <i>justified</i>, not only believed in.</li><li><b>Anarchists</b> (Robert Paul Wolff, <i>In Defense of Anarchism</i>, 1970): no authority can override personal autonomy.</li><li><b>Global legitimacy</b>: who authorises the UN Security Council or the IMF? Their authority is contested.</li></ul>"
+  },
+  {
+   "tag": "Indian angle",
+   "h": "Authority and legitimacy in India",
+   "b": "<ul><li><b>All three types</b> exist side by side: traditional authority (caste panchayats, religious heads), charismatic (Gandhi, J.P. Narayan) and legal-rational (the Constitution, the Election Commission, the civil services).</li><li><b>Constitution</b> as source: \"We, the people\" in the Preamble. Elections since 1951-52 are the main act of legitimation (Beetham's third level).</li><li><b>Emergency</b>: on 12 June 1975 the Allahabad High Court (<i>Raj Narain v Indira Nehru Gandhi</i>) set aside Indira Gandhi's election. On 25 June 1975 the Emergency began, and lasted 21 months. In March 1977 voters rejected it. It shows a crisis of legitimacy and its repair through the ballot.</li><li><b>Judiciary</b>: in the Fourth Judges Case (2015) the Supreme Court struck down the NJAC amendment. Court authority rests on public trust.</li><li><b>Contested legitimacy</b>: insurgency areas, and anti-corruption protests such as the 2011 Lokpal agitation.</li><li><b>Constitutional morality</b>, urged by Ambedkar, is the idea that institutions must respect the spirit of the Constitution.</li></ul>"
+  },
+  {
+   "tag": "Exam lens",
+   "h": "How to answer",
+   "b": "<div class='box'>\"Legitimacy is the cement of political order.\" Discuss with reference to Weber.</div><div class='box'>Explain Weber's typology of authority. Is it relevant to modern India?</div><div class='box'>Distinguish between power, authority and legitimacy.</div><div class='box'>Examine the idea of legitimation crisis.</div><p><b>Structure:</b> define the four terms in a short table. Explain Weber's definition of the state and his three types, with an Indian example for each. Then bring in the post-Weber critics (Beetham, Lipset, Easton, Habermas) to deepen it. Add the normative question of justice. For India use the Emergency and the 1977 election, the Constitution and the NJAC ruling. Conclude that legitimacy needs both belief and performance.</p>",
+   "cls": "exam"
+  }
+ ],
+ "quiz": [
+  {
+   "q": "Weber defines the state by its claim to a monopoly of…",
+   "o": [
+    "Wealth",
+    "Law-making",
+    "Taxation",
+    "Legitimate physical force within a territory"
+   ],
+   "a": 3,
+   "w": "Politics as a Vocation (1919)."
+  },
+  {
+   "q": "Which is NOT one of Weber's three types of authority?",
+   "o": [
+    "Traditional",
+    "Hegemonic",
+    "Charismatic",
+    "Legal-rational"
+   ],
+   "a": 1,
+   "w": "The three are traditional, charismatic and legal-rational."
+  },
+  {
+   "q": "'Routinisation of charisma' refers to…",
+   "o": [
+    "Charisma turning into rules or tradition after the leader",
+    "Bureaucracy becoming charismatic",
+    "Routine elections",
+    "Charisma of institutions"
+   ],
+   "a": 0,
+   "w": "A charismatic order must become regular to survive."
+  },
+  {
+   "q": "Weber's main work on authority types is…",
+   "o": [
+    "Economy and Society",
+    "The Protestant Ethic only",
+    "Political Man",
+    "Legitimation Crisis"
+   ],
+   "a": 0,
+   "w": "Published in 1922, after his death."
+  },
+  {
+   "q": "Beetham's three levels of legitimacy are legality, justifiability and…",
+   "o": [
+    "Efficiency",
+    "Tradition",
+    "Legitimation (expressed consent)",
+    "Coercion"
+   ],
+   "a": 2,
+   "w": "The Legitimation of Power (1991)."
+  },
+  {
+   "q": "Lipset says stable democracy depends on legitimacy and…",
+   "o": [
+    "Religion",
+    "Size",
+    "Effectiveness",
+    "Federalism"
+   ],
+   "a": 2,
+   "w": "Political Man (1960)."
+  },
+  {
+   "q": "Easton's 'diffuse support' means…",
+   "o": [
+    "Support for a party",
+    "Goodwill toward the system beyond satisfaction with outputs",
+    "Money donations",
+    "Support in one election"
+   ],
+   "a": 1,
+   "w": "A reservoir of goodwill; contrasted with specific support."
+  },
+  {
+   "q": "Legitimation Crisis (1973) is by…",
+   "o": [
+    "Arendt",
+    "Habermas",
+    "Lipset",
+    "Offe"
+   ],
+   "a": 1,
+   "w": "Habermas on late capitalism."
+  },
+  {
+   "q": "The Allahabad High Court judgment against Indira Gandhi's election came in…",
+   "o": [
+    "March 1977",
+    "1971",
+    "June 1975",
+    "1980"
+   ],
+   "a": 2,
+   "w": "12 June 1975; the Emergency was declared on 25 June."
+  },
+  {
+   "q": "The NJAC was struck down by the Supreme Court in…",
+   "o": [
+    "Kesavananda (1973)",
+    "Second Judges Case (1993)",
+    "ADM Jabalpur (1976)",
+    "Fourth Judges Case (2015)"
+   ],
+   "a": 3,
+   "w": "The 99th Amendment was held to violate judicial independence."
+  }
+ ],
+ "sources": [
+  "Weber, 'Politics as a Vocation' (1919); Economy and Society (1922)",
+  "Beetham, The Legitimation of Power (1991); Lipset, Political Man (1960)",
+  "Easton, A Systems Analysis of Political Life (1965); Habermas, Legitimation Crisis (1973); Arendt, Between Past and Future (1961)",
+  "Wolff, In Defense of Anarchism (1970); Heywood, Politics",
+  "Raj Narain v Indira Nehru Gandhi (Allahabad HC, 1975); Supreme Court Advocates-on-Record Assn v Union of India (2015)",
+  "Gauba, An Introduction to Political Theory",
+  "PYQ themes: Weber's types of authority; legitimacy and legitimation crisis (Paper I Section A)"
+ ],
+ "verified": "2026-11-10"
+}
