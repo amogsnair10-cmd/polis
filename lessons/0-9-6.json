@@ -3,24 +3,123 @@
  "title": "Karl Marx",
  "emoji": "⚒️",
  "cards": [
-  {"tag": "Why this matters", "h": "The most-asked thinker in Paper I", "b": "<p>Karl Marx (1818–1883) was born in Trier, Germany. He was a journalist and a revolutionary, and spent most of his life as an exile in London, where he studied in the British Museum.</p><p>Key works: <i>Economic and Philosophic Manuscripts</i> (1844), <i>The Communist Manifesto</i> with Friedrich Engels (1848), <i>A Contribution to the Critique of Political Economy</i> (1859) and <i>Capital</i>, volume one (1867).</p><p>PYQ analysis puts Marx at the top of the most-asked thinkers. You already met his theory of the state; this lesson covers the rest of his system.</p>"},
-  {"tag": "Roots", "h": "Three sources", "b": "<p>Lenin said Marxism has three sources:</p><div class=\"box\"><h4>German philosophy</h4>From <b>Hegel</b>, Marx took the dialectic: history moves through conflict. But he turned Hegel \"right side up\": matter and economics drive history, not ideas.</div><div class=\"box\"><h4>English political economy</h4>From Adam Smith and David Ricardo, he took the <b>labour theory of value</b>.</div><div class=\"box\"><h4>French socialism</h4>From Saint-Simon, Fourier and others, the vision of a society without exploitation.</div>"},
-  {"tag": "Core idea", "h": "Historical materialism", "b": "<p>In the 1859 Preface, Marx gives his theory of history in a few lines.</p><p>To live, people must produce. In producing, they enter <b>relations of production</b> that match the level of the <b>forces of production</b> (tools, skills, technology). Together these form the economic <b>base</b>. On it rises a legal and political <b>superstructure</b>.</p><div class=\"quote\">\"It is not the consciousness of men that determines their being, but their social being that determines their consciousness.\"</div><div class=\"who\">Marx, Preface to A Contribution to the Critique of Political Economy (1859)</div>"},
-  {"tag": "Key idea", "h": "Class struggle and history", "b": "<p>\"The history of all hitherto existing society is the history of <b>class struggles</b>.\" So begins the Manifesto's first section.</p><p>Each mode of production has its own ruling and ruled class:</p><ul><li><b>Primitive communism:</b> no classes.</li><li><b>Ancient slavery:</b> masters and slaves.</li><li><b>Feudalism:</b> lords and serfs.</li><li><b>Capitalism:</b> bourgeoisie and proletariat.</li><li><b>Communism:</b> classes end.</li></ul><p>When forces of production outgrow old relations, an era of <b>social revolution</b> begins.</p>"},
-  {"tag": "Key idea", "h": "Alienation", "b": "<p>In the 1844 Manuscripts, the young Marx says workers under capitalism are <b>alienated</b>, or estranged, in four ways:</p><ul><li>From the <b>product</b> they make, which belongs to someone else.</li><li>From the <b>act of labour</b>, which feels forced, not free.</li><li>From their <b>species-being</b>, their human nature as free, creative producers.</li><li>From <b>other people</b>, who become rivals.</li></ul><p>This idea made Marx important to humanist thinkers in the 20th century.</p>"},
-  {"tag": "Key idea", "h": "Surplus value", "b": "<p>Marx asks: where does profit come from? His answer is <b>surplus value</b>.</p><p>The worker sells their <b>labour power</b> for a wage, which is the value needed to keep them alive. But in a working day they create <b>more value</b> than their wage. The extra goes to the capitalist as profit.</p><p>So exploitation is built into capitalism, even when the contract is \"fair\". This is the core argument of <i>Capital</i>.</p><p>Competition also pushes capitalists to replace workers with machines. Marx said this leads to a <b>falling rate of profit</b> and repeated crises.</p>"},
-  {"tag": "Key idea", "h": "Revolution and communism", "b": "<p>Capitalism creates its own \"gravediggers\": the <b>proletariat</b>. As workers gather in factories, they develop class consciousness. Marx calls the move from a class \"in itself\" to a class \"for itself\".</p><p>After the revolution comes a phase of the <b>dictatorship of the proletariat</b>. Then the state withers away.</p><p>In the <i>Critique of the Gotha Programme</i> (1875), Marx describes two stages. In the first, each gets according to work. In higher communism: \"From each according to his ability, to each according to his needs!\"</p>"},
-  {"tag": "Critique", "h": "Where Marx is challenged", "b": "<ul><li><b>Economic determinism:</b> Weber showed ideas, like the Protestant ethic, also shape the economy. Engels himself later said the economy is decisive only \"in the last instance\".</li><li><b>Prediction failed:</b> revolution came in peasant Russia and China, not industrial Britain. Capitalism adapted through welfare and unions.</li><li><b>Karl Popper</b> called historicism unfalsifiable.</li><li><b>Totalitarian outcomes</b> in the USSR. Defenders reply that Stalinism betrayed Marx.</li><li>Yet the 2008 crash revived interest in his account of crises and inequality.</li></ul>"},
-  {"tag": "Indian angle", "h": "Marx and India", "b": "<p>In articles for the <i>New York Daily Tribune</i> (1853), Marx said British rule in India had a \"double mission\": one destructive (breaking the old village society) and one regenerating (railways, a unified market). He wrote of an unchanging \"Asiatic mode of production\". Scholars now see this as Eurocentric.</p><p>Indian Marxists include <b>M.N. Roy</b> and <b>E.M.S. Namboodiripad</b>. Historians like <b>D.D. Kosambi</b> and <b>Irfan Habib</b> used Marxist methods.</p><p><b>Ambedkar</b> criticised Indian communists for ignoring <b>caste</b>.</p>"},
-  {"tag": "Exam lens", "cls": "exam", "h": "How UPSC asks this", "b": "<div class=\"box\">\"Explain Marx's theory of alienation.\"</div><div class=\"box\">\"Is Marxism relevant in the 21st century?\"</div><div class=\"box\">\"Discuss historical materialism and its critique.\"</div><p><b>Structure:</b> three sources, base and superstructure (draw it), class struggle and modes of production, alienation, surplus value, revolution and communism. End with critique and relevance: inequality, the gig economy, platform capitalism.</p>"}
+  {
+   "tag": "Why this matters",
+   "h": "The most-asked thinker in Paper I",
+   "b": "<p>Karl Marx (1818–1883) was born in Trier, Germany. He was a journalist and a revolutionary, and spent most of his life as an exile in London, where he studied in the British Museum.</p><p>Key works: <i>Economic and Philosophic Manuscripts</i> (1844), <i>The Communist Manifesto</i> with Friedrich Engels (1848), <i>A Contribution to the Critique of Political Economy</i> (1859) and <i>Capital</i>, volume one (1867).</p><p>PYQ analysis puts Marx at the top of the most-asked thinkers. You already met his theory of the state; this lesson covers the rest of his system.</p>"
+  },
+  {
+   "tag": "Roots",
+   "h": "Three sources",
+   "b": "<p>Lenin said Marxism has three sources:</p><div class=\"box\"><h4>German philosophy</h4>From <b>Hegel</b>, Marx took the dialectic: history moves through conflict. But he turned Hegel \"right side up\": matter and economics drive history, not ideas.</div><div class=\"box\"><h4>English political economy</h4>From Adam Smith and David Ricardo, he took the <b>labour theory of value</b>.</div><div class=\"box\"><h4>French socialism</h4>From Saint-Simon, Fourier and others, the vision of a society without exploitation.</div>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "Historical materialism",
+   "b": "<svg class=\"d\" viewBox=\"0 0 320 170\"><polygon points=\"60,20 260,20 230,80 90,80\" fill=\"#f1e4c6\" stroke=\"#a8792a\"/><text x=\"160\" y=\"46\" fill=\"#1d2433\" font-size=\"13\" text-anchor=\"middle\" font-weight=\"700\">SUPERSTRUCTURE</text><text x=\"160\" y=\"64\" fill=\"#5d6474\" font-size=\"10\" text-anchor=\"middle\">state · law · religion · ideology</text>\n<rect x=\"30\" y=\"92\" width=\"260\" height=\"66\" rx=\"8\" fill=\"#f4dcd5\" stroke=\"#a3362a\"/><text x=\"160\" y=\"118\" fill=\"#1d2433\" font-size=\"13\" text-anchor=\"middle\" font-weight=\"700\">ECONOMIC BASE</text><text x=\"160\" y=\"138\" fill=\"#5d6474\" font-size=\"10\" text-anchor=\"middle\">forces + relations of production</text>\n<line x1=\"160\" y1=\"92\" x2=\"160\" y2=\"82\" stroke=\"#a3362a\" stroke-width=\"3\"/></svg><p>In the 1859 Preface, Marx gives his theory of history in a few lines.</p><p>To live, people must produce. In producing, they enter <b>relations of production</b> that match the level of the <b>forces of production</b> (tools, skills, technology). Together these form the economic <b>base</b>. On it rises a legal and political <b>superstructure</b>.</p><div class=\"quote\">\"It is not the consciousness of men that determines their being, but their social being that determines their consciousness.\"</div><div class=\"who\">Marx, Preface to A Contribution to the Critique of Political Economy (1859)</div>"
+  },
+  {
+   "tag": "Key idea",
+   "h": "Class struggle and history",
+   "b": "<p>\"The history of all hitherto existing society is the history of <b>class struggles</b>.\" So begins the Manifesto's first section.</p><p>Each mode of production has its own ruling and ruled class:</p><ul><li><b>Primitive communism:</b> no classes.</li><li><b>Ancient slavery:</b> masters and slaves.</li><li><b>Feudalism:</b> lords and serfs.</li><li><b>Capitalism:</b> bourgeoisie and proletariat.</li><li><b>Communism:</b> classes end.</li></ul><p>When forces of production outgrow old relations, an era of <b>social revolution</b> begins.</p>"
+  },
+  {
+   "tag": "Key idea",
+   "h": "Alienation",
+   "b": "<p>In the 1844 Manuscripts, the young Marx says workers under capitalism are <b>alienated</b>, or estranged, in four ways:</p><ul><li>From the <b>product</b> they make, which belongs to someone else.</li><li>From the <b>act of labour</b>, which feels forced, not free.</li><li>From their <b>species-being</b>, their human nature as free, creative producers.</li><li>From <b>other people</b>, who become rivals.</li></ul><p>This idea made Marx important to humanist thinkers in the 20th century.</p>"
+  },
+  {
+   "tag": "Key idea",
+   "h": "Surplus value",
+   "b": "<p>Marx asks: where does profit come from? His answer is <b>surplus value</b>.</p><p>The worker sells their <b>labour power</b> for a wage, which is the value needed to keep them alive. But in a working day they create <b>more value</b> than their wage. The extra goes to the capitalist as profit.</p><p>So exploitation is built into capitalism, even when the contract is \"fair\". This is the core argument of <i>Capital</i>, volume one (1867).</p><p>Competition also pushes capitalists to replace workers with machines. In volume three, Marx said this leads to a <b>falling rate of profit</b> and repeated crises.</p>"
+  },
+  {
+   "tag": "Key idea",
+   "h": "Revolution and communism",
+   "b": "<p>Capitalism creates its own \"gravediggers\": the <b>proletariat</b>. As workers gather in factories, they develop class consciousness. In <i>The Poverty of Philosophy</i> (1847), Marx describes workers becoming a class \"for itself\". Later Marxists call this the move from a class \"in itself\" to a class \"for itself\".</p><p>After the revolution comes a phase of the <b>dictatorship of the proletariat</b>. Then the state withers away.</p><p>In the <i>Critique of the Gotha Programme</i> (1875), Marx describes two stages. In the first, each gets according to work. In higher communism: \"From each according to his ability, to each according to his needs!\"</p>"
+  },
+  {
+   "tag": "Critique",
+   "h": "Where Marx is challenged",
+   "b": "<ul><li><b>Economic determinism:</b> Weber showed ideas, like the Protestant ethic, also shape the economy. Engels himself, in an 1890 letter to Joseph Bloch, said the economy is decisive only \"in the last instance\".</li><li><b>Prediction failed:</b> revolution came in peasant Russia and China, not industrial Britain. Capitalism adapted through welfare and unions.</li><li><b>Karl Popper</b> called historicism unfalsifiable.</li><li><b>Totalitarian outcomes</b> in the USSR. Defenders reply that Stalinism betrayed Marx.</li><li>Yet the 2008 crash revived interest in his account of crises and inequality.</li></ul>"
+  },
+  {
+   "tag": "Indian angle",
+   "h": "Marx and India",
+   "b": "<p>In articles for the <i>New York Daily Tribune</i> (1853), Marx said British rule in India had a \"double mission\": one destructive (breaking the old village society) and one regenerating (railways, a unified market). He saw Indian village society as unchanging, an idea later tied to his \"Asiatic mode of production\". Scholars now see this as Eurocentric.</p><p>Indian Marxists include <b>M.N. Roy</b> and <b>E.M.S. Namboodiripad</b>. Historians like <b>D.D. Kosambi</b> and <b>Irfan Habib</b> used Marxist methods.</p><p><b>Ambedkar</b> criticised Indian communists for ignoring <b>caste</b>.</p>"
+  },
+  {
+   "tag": "Exam lens",
+   "cls": "exam",
+   "h": "How UPSC asks this",
+   "b": "<div class=\"box\">\"Explain Marx's theory of alienation.\"</div><div class=\"box\">\"Is Marxism relevant in the 21st century?\"</div><div class=\"box\">\"Discuss historical materialism and its critique.\"</div><p><b>Structure:</b> three sources, base and superstructure (draw it), class struggle and modes of production, alienation, surplus value, revolution and communism. End with critique and relevance: inequality, the gig economy, platform capitalism.</p>"
+  }
  ],
  "quiz": [
-  {"q": "Which work contains the famous base-superstructure passage?", "o": ["Communist Manifesto", "1859 Preface to A Contribution to the Critique of Political Economy", "Capital, volume three", "The German Ideology"], "a": 1, "w": "The 1859 Preface gives the classic summary of historical materialism."},
-  {"q": "For Marx, surplus value is…", "o": ["Profit from trade", "Value created by workers beyond their wage", "The rent paid to landlords", "Government revenue"], "a": 1, "w": "Workers produce more value than they are paid; the surplus becomes profit."},
-  {"q": "'From each according to his ability, to each according to his needs' appears in…", "o": ["Communist Manifesto", "Capital", "Critique of the Gotha Programme", "1844 Manuscripts"], "a": 2, "w": "Critique of the Gotha Programme (1875)."},
-  {"q": "Which is NOT one of the forms of alienation in the 1844 Manuscripts?", "o": ["From the product", "From the act of labour", "From the state", "From species-being"], "a": 2, "w": "The four are from product, labour, species-being and other people."},
-  {"q": "Marx's view that British rule in India had a destructive and a regenerating role is called…", "o": ["Double mission", "Drain theory", "Asiatic despotism", "Permanent revolution"], "a": 0, "w": "From his 1853 articles in the New York Daily Tribune."}
+  {
+   "q": "Which work contains the famous base-superstructure passage?",
+   "o": [
+    "Communist Manifesto",
+    "1859 Preface to A Contribution to the Critique of Political Economy",
+    "Capital, volume three",
+    "The German Ideology"
+   ],
+   "a": 1,
+   "w": "The 1859 Preface gives the classic summary of historical materialism."
+  },
+  {
+   "q": "For Marx, surplus value is…",
+   "o": [
+    "Profit from trade",
+    "Value created by workers beyond their wage",
+    "The rent paid to landlords",
+    "Government revenue"
+   ],
+   "a": 1,
+   "w": "Workers produce more value than they are paid; the surplus becomes profit."
+  },
+  {
+   "q": "'From each according to his ability, to each according to his needs' appears in…",
+   "o": [
+    "Communist Manifesto",
+    "Capital",
+    "Critique of the Gotha Programme",
+    "1844 Manuscripts"
+   ],
+   "a": 2,
+   "w": "Critique of the Gotha Programme (1875)."
+  },
+  {
+   "q": "Which is NOT one of the forms of alienation in the 1844 Manuscripts?",
+   "o": [
+    "From the product",
+    "From the act of labour",
+    "From the state",
+    "From species-being"
+   ],
+   "a": 2,
+   "w": "The four are from product, labour, species-being and other people."
+  },
+  {
+   "q": "Marx's view that British rule in India had a destructive and a regenerating role is called…",
+   "o": [
+    "Double mission",
+    "Drain theory",
+    "Asiatic despotism",
+    "Permanent revolution"
+   ],
+   "a": 0,
+   "w": "From his 1853 articles in the New York Daily Tribune."
+  }
  ],
- "sources": ["Marx, Economic and Philosophic Manuscripts of 1844", "Marx and Engels, The Communist Manifesto (1848)", "Marx, Preface to A Contribution to the Critique of Political Economy (1859)", "Marx, Capital vol. 1 (1867); Critique of the Gotha Programme (1875)", "Marx, 'The Future Results of British Rule in India', New York Daily Tribune (1853)", "Lenin, 'The Three Sources and Three Component Parts of Marxism' (1913)", "PYQ themes: alienation, historical materialism, relevance of Marxism (Paper I, near every year)"],
+ "sources": [
+  "Marx, Economic and Philosophic Manuscripts of 1844",
+  "Marx and Engels, The Communist Manifesto (1848)",
+  "Marx, Preface to A Contribution to the Critique of Political Economy (1859)",
+  "Marx, Capital vol. 1 (1867); Critique of the Gotha Programme (1875)",
+  "Marx, 'The Future Results of British Rule in India', New York Daily Tribune (1853)",
+  "Lenin, 'The Three Sources and Three Component Parts of Marxism' (1913)",
+  "PYQ themes: alienation, historical materialism, relevance of Marxism (Paper I, near every year)"
+ ],
  "verified": "2026-11-10"
 }
