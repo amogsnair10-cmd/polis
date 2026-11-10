@@ -1,0 +1,107 @@
+{
+ "id": "0-1-3",
+ "title": "The Post-colonial State",
+ "emoji": "🌏",
+ "cards": [
+  {
+   "tag": "Core idea",
+   "h": "A state born from empire",
+   "b": "<p>Western theories of the state were built on European history. They do not fit well in countries that were colonies, like India, Pakistan or Nigeria.</p><p>Post-colonial theory asks: what kind of state did colonialism leave behind, and whom does it serve?</p>"
+  },
+  {
+   "tag": "Key thinker",
+   "h": "Hamza Alavi",
+   "b": "<p>In his 1972 essay \"The State in Post-Colonial Societies: Pakistan and Bangladesh\", Alavi argued that the post-colonial state is <b>\"overdeveloped\"</b>.</p><p>Colonial rulers built a powerful military-bureaucratic machine to control the whole colony. After independence, this machine stayed, and it was too strong for the weak local classes to control.</p>"
+  },
+  {
+   "tag": "Alavi continued",
+   "h": "Three classes, one state",
+   "b": "<p>Alavi said three propertied classes exist in post-colonial societies: the <b>metropolitan bourgeoisie</b> (foreign capital), the <b>indigenous bourgeoisie</b> and the <b>landed classes</b>.</p><p>None dominates. So the <b>military-bureaucratic oligarchy</b> mediates between them and gains relative autonomy. This explains why the army so often rules in Pakistan.</p>"
+  },
+  {
+   "tag": "Indian thinkers",
+   "h": "Partha Chatterjee",
+   "b": "<p>Chatterjee, a key figure in <b>Subaltern Studies</b>, wrote <i>Nationalist Thought and the Colonial World</i> (1986). He argued Indian nationalism borrowed Western ideas of the modern state even while opposing colonialism.</p><p>In <i>The Politics of the Governed</i> (2004), he separated <b>civil society</b> (a small elite of rights-bearing citizens) from <b>political society</b> (the majority, who deal with the state through welfare schemes and negotiation, not rights).</p>"
+  },
+  {
+   "tag": "Other views",
+   "h": "More ways to read it",
+   "b": "<div class=\"box\"><h4>Rudolph and Rudolph</h4>India's state is both <b>strong and weak</b>: strong in its reach, weak in delivering.</div><div class=\"box\"><h4>Gunnar Myrdal: the \"soft state\"</h4>In <i>Asian Drama</i> (1968), he said South Asian states make good laws but cannot enforce them.</div><div class=\"box\"><h4>Dependency theory</h4>Andre Gunder Frank and others argued post-colonial states stay economically dependent on the West.</div>"
+  },
+  {
+   "tag": "Critique",
+   "h": "Limits of the theory",
+   "b": "<ul><li>It can over-generalise. India stayed democratic while Pakistan saw coups; one theory struggles to explain both.</li><li>It can give colonialism too much weight and ignore local agency.</li><li>Developmental states like South Korea show post-colonial states can succeed economically.</li></ul>"
+  },
+  {
+   "tag": "Indian angle",
+   "h": "Is India's state overdeveloped?",
+   "b": "<p>India inherited the colonial machine almost whole: the <b>IAS</b> replaced the ICS, and the Indian Penal Code (1860) stayed in force until the <b>Bharatiya Nyaya Sanhita</b> replaced it in 2024.</p><p>Yet India differs from Alavi's Pakistan. Regular elections, a strong Congress party in the early decades and firm civilian control kept the army out of politics.</p><p>Rudolph and Rudolph, in <i>In Pursuit of Lakshmi</i> (1987), called this a <b>weak-strong state</b>. Chatterjee's political society shows the same thing at the ground level: the poor reach the state through negotiation, not through rights.</p>"
+  },
+  {
+   "tag": "Exam lens",
+   "cls": "exam",
+   "h": "How UPSC asks this",
+   "b": "<div class=\"box\">\"Examine Hamza Alavi's concept of the overdeveloped state.\"</div><div class=\"box\">\"Is the Indian state an overdeveloped state?\"</div><p><b>Tip:</b> use Alavi for the model, then test it on India. The Indian state was strong (overdeveloped) but civilian control and elections kept the army out, unlike Pakistan. That contrast earns marks.</p>"
+  }
+ ],
+ "quiz": [
+  {
+   "q": "The 'overdeveloped state' concept was given by…",
+   "o": [
+    "Partha Chatterjee",
+    "Hamza Alavi",
+    "Gunnar Myrdal",
+    "Rajni Kothari"
+   ],
+   "a": 1,
+   "w": "Hamza Alavi, 1972."
+  },
+  {
+   "q": "'Soft state' was coined by…",
+   "o": [
+    "Myrdal",
+    "Alavi",
+    "Bardhan",
+    "Kaviraj"
+   ],
+   "a": 0,
+   "w": "Gunnar Myrdal, Asian Drama (1968)."
+  },
+  {
+   "q": "Chatterjee's 'political society' refers to…",
+   "o": [
+    "Political parties",
+    "The elite of citizens",
+    "The majority who negotiate with the state",
+    "The bureaucracy"
+   ],
+   "a": 2,
+   "w": "The governed majority who deal with the state via welfare and negotiation."
+  },
+  {
+   "q": "In Alavi's model, who mediates between propertied classes?",
+   "o": [
+    "Parliament",
+    "Military-bureaucratic oligarchy",
+    "Judiciary",
+    "Media"
+   ],
+   "a": 1,
+   "w": "The military-bureaucratic oligarchy."
+  },
+  {
+   "q": "Subaltern Studies is associated with…",
+   "o": [
+    "Partha Chatterjee",
+    "Robert Dahl",
+    "Hayek",
+    "Laski"
+   ],
+   "a": 0,
+   "w": "Chatterjee was a core member of the Subaltern Studies collective."
+  }
+ ],
+ "sources": [],
+ "verified": "2026-11-10"
+}

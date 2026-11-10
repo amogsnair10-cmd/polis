@@ -1,0 +1,107 @@
+{
+ "id": "0-1-4",
+ "title": "The Feminist State",
+ "emoji": "♀️",
+ "cards": [
+  {
+   "tag": "Core idea",
+   "h": "Whose state is it?",
+   "b": "<p>Feminists say traditional theories ignored one huge fact: the state has mostly been run by men, and it has protected <b>patriarchy</b>, the system of male dominance.</p><p>Their key slogan was <b>\"the personal is political\"</b>, popularised by Carol Hanisch's 1970 essay. Even what happens inside the home is shaped by power and law.</p>"
+  },
+  {
+   "tag": "Liberal feminism",
+   "h": "Fix the state",
+   "b": "<p>Liberal feminists see the state as basically neutral but biased in practice. The answer is reform: equal rights, equal pay, voting rights and anti-discrimination laws.</p><p>Thinkers include <b>Mary Wollstonecraft</b> (<i>A Vindication of the Rights of Woman</i>, 1792), <b>J.S. Mill</b> (<i>The Subjection of Women</i>, 1869) and <b>Betty Friedan</b> (<i>The Feminine Mystique</i>, 1963).</p>"
+  },
+  {
+   "tag": "Radical feminism",
+   "h": "The state is male",
+   "b": "<p>Radical feminists say patriarchy is built into the state itself. Reform is not enough.</p><div class=\"quote\">\"The state is male in the feminist sense: the law sees and treats women the way men see and treat women.\"</div><div class=\"who\">Catharine MacKinnon, Toward a Feminist Theory of the State (1989)</div><p><b>Kate Millett</b>'s <i>Sexual Politics</i> (1970) is another key text.</p>"
+  },
+  {
+   "tag": "Social contract",
+   "h": "Carole Pateman",
+   "b": "<p>In <i>The Sexual Contract</i> (1988), Pateman argued that the famous social contract of Hobbes and Locke hides an earlier <b>sexual contract</b>.</p><p>Men agreed among themselves on access to women's bodies and labour. Women were never parties to the contract, only its subjects. So the liberal state was patriarchal from the start.</p>"
+  },
+  {
+   "tag": "Socialist feminism",
+   "h": "Class plus gender",
+   "b": "<p>Socialist and Marxist feminists link patriarchy to capitalism. Women's unpaid domestic work reproduces the workforce for free, which benefits capital.</p><p>The state supports both systems together. Thinkers include <b>Juliet Mitchell</b> and <b>Heidi Hartmann</b>, who called the link an \"unhappy marriage\" of Marxism and feminism.</p>"
+  },
+  {
+   "tag": "Critique",
+   "h": "Debates within",
+   "b": "<ul><li><b>Intersectionality.</b> Kimberlé Crenshaw (1989) showed that race, class and gender overlap. White middle-class feminism ignored many women.</li><li><b>Post-colonial feminism.</b> Chandra Talpade Mohanty's \"Under Western Eyes\" (1984) criticised Western feminists for treating \"Third World women\" as one helpless group.</li><li><b>State as ally?</b> The state has also passed laws protecting women, so it is not only an oppressor.</li></ul>"
+  },
+  {
+   "tag": "Indian angle",
+   "h": "India's story",
+   "b": "<p>The Indian state has a mixed record. It brought the <b>73rd and 74th Amendments</b> (1992), reserving a third of local body seats for women. The <b>106th Amendment</b> (2023), known as Nari Shakti Vandan Adhiniyam, reserves a third of Lok Sabha and state assembly seats for women, effective after the next census and delimitation.</p><p>But Dalit feminists like <b>Sharmila Rege</b> show how caste and gender combine, which links to Ambedkar's view that caste is maintained by controlling women.</p>"
+  },
+  {
+   "tag": "Exam lens",
+   "cls": "exam",
+   "h": "How to write this",
+   "b": "<div class=\"box\">\"The state is male.\" Discuss with reference to feminist theory.</div><p><b>Structure:</b> quote MacKinnon, then cover the three strands (liberal, radical, socialist). Add Pateman's sexual contract and intersectionality. End with India's reservation laws as evidence that the state can be both a site of oppression and of change.</p>"
+  }
+ ],
+ "quiz": [
+  {
+   "q": "\"The state is male\" is associated with…",
+   "o": [
+    "Betty Friedan",
+    "Catharine MacKinnon",
+    "Mary Wollstonecraft",
+    "Carole Pateman"
+   ],
+   "a": 1,
+   "w": "Catharine MacKinnon, Toward a Feminist Theory of the State (1989)."
+  },
+  {
+   "q": "The Sexual Contract (1988) was written by…",
+   "o": [
+    "Kate Millett",
+    "Carole Pateman",
+    "Juliet Mitchell",
+    "Heidi Hartmann"
+   ],
+   "a": 1,
+   "w": "Carole Pateman."
+  },
+  {
+   "q": "Intersectionality was coined by…",
+   "o": [
+    "Kimberlé Crenshaw",
+    "Chandra Mohanty",
+    "Sharmila Rege",
+    "bell hooks"
+   ],
+   "a": 0,
+   "w": "Kimberlé Crenshaw, 1989."
+  },
+  {
+   "q": "Which amendment reserves one-third of Lok Sabha seats for women?",
+   "o": [
+    "73rd",
+    "74th",
+    "104th",
+    "106th"
+   ],
+   "a": 3,
+   "w": "The 106th Amendment (2023), Nari Shakti Vandan Adhiniyam."
+  },
+  {
+   "q": "A Vindication of the Rights of Woman was written by…",
+   "o": [
+    "J.S. Mill",
+    "Mary Wollstonecraft",
+    "Simone de Beauvoir",
+    "Betty Friedan"
+   ],
+   "a": 1,
+   "w": "Mary Wollstonecraft, 1792."
+  }
+ ],
+ "sources": [],
+ "verified": "2026-11-10"
+}

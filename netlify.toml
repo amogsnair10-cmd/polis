@@ -1,0 +1,13 @@
+[build]
+  publish = "."
+  command = "node scripts/build.js"
+
+[[headers]]
+  for = "/sw.js"
+  [headers.values]
+    Cache-Control = "no-cache"
+
+[[headers]]
+  for = "/lessons/*"
+  [headers.values]
+    Cache-Control = "no-cache"

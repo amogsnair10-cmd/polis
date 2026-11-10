@@ -1,0 +1,117 @@
+{
+ "id": "0-0-2",
+ "title": "Behaviouralism & After",
+ "emoji": "📊",
+ "cards": [
+  {
+   "tag": "Big picture",
+   "h": "The behavioural revolution",
+   "b": "<p>In the 1950s and 60s, mainly in the USA, political scientists wanted to make the subject a real <b>science</b>, like physics or economics.</p><p>Their focus moved from institutions to the <b>behaviour</b> of people: voters, leaders and groups. The roots go back to the <b>Chicago School</b> of the 1920s under <b>Charles Merriam</b>.</p>"
+  },
+  {
+   "tag": "The manifesto",
+   "h": "Easton's 8 pillars",
+   "b": "<p>David Easton listed eight \"intellectual foundation stones\" of behaviouralism. Remember them; UPSC loves this list.</p><ul><li><b>Regularities:</b> behaviour shows patterns.</li><li><b>Verification:</b> claims must be testable.</li><li><b>Techniques:</b> use proper research tools.</li><li><b>Quantification:</b> measure where possible.</li><li><b>Values:</b> keep facts and values separate.</li><li><b>Systematisation:</b> theory and research must link.</li><li><b>Pure science:</b> understanding before application.</li><li><b>Integration:</b> work with other social sciences.</li></ul>"
+  },
+  {
+   "tag": "Memory trick",
+   "h": "Remember the 8",
+   "b": "<div class=\"quote\">\"Real Voters Take Quick Votes, So Politics Improves\"</div><p>The first V is Verification and the second is Values. Regularities, Verification, Techniques, Quantification, Values, Systematisation, Pure science, Integration.</p>"
+  },
+  {
+   "tag": "Easton's model",
+   "h": "The political system",
+   "b": "<svg class=\"d\" viewBox=\"0 0 320 170\"><defs><marker id=\"a\" markerWidth=\"8\" markerHeight=\"8\" refX=\"7\" refY=\"4\" orient=\"auto\"><path d=\"M0,0L8,4L0,8z\" fill=\"#a8792a\"/></marker></defs>\n<rect x=\"2\" y=\"2\" width=\"316\" height=\"166\" rx=\"12\" fill=\"none\" stroke=\"#c9c2b6\" stroke-dasharray=\"4 4\"/><text x=\"12\" y=\"20\" fill=\"#5d6474\" font-size=\"11\">Environment</text>\n<text x=\"20\" y=\"66\" fill=\"#1d2433\" font-size=\"12\">Demands</text><text x=\"20\" y=\"96\" fill=\"#1d2433\" font-size=\"12\">Supports</text>\n<line x1=\"80\" y1=\"80\" x2=\"118\" y2=\"80\" stroke=\"#a8792a\" stroke-width=\"2\" marker-end=\"url(#a)\"/>\n<rect x=\"120\" y=\"52\" width=\"90\" height=\"56\" rx=\"10\" fill=\"#f1e4c6\" stroke=\"#a8792a\"/><text x=\"165\" y=\"76\" fill=\"#1d2433\" font-size=\"12\" text-anchor=\"middle\">Political</text><text x=\"165\" y=\"92\" fill=\"#1d2433\" font-size=\"12\" text-anchor=\"middle\">System</text>\n<line x1=\"210\" y1=\"80\" x2=\"246\" y2=\"80\" stroke=\"#a8792a\" stroke-width=\"2\" marker-end=\"url(#a)\"/>\n<text x=\"250\" y=\"76\" fill=\"#1d2433\" font-size=\"12\">Decisions</text><text x=\"250\" y=\"92\" fill=\"#1d2433\" font-size=\"12\">&amp; Policies</text>\n<path d=\"M290 104 Q290 150 165 150 Q45 150 45 110\" fill=\"none\" stroke=\"#2f6f7a\" stroke-width=\"2\" marker-end=\"url(#a)\"/><text x=\"165\" y=\"143\" fill=\"#2f6f7a\" font-size=\"11\" text-anchor=\"middle\">Feedback</text></svg><p>Easton saw politics as a <b>system</b>. Society sends <b>inputs</b> (demands and support). The system turns them into <b>outputs</b> (decisions and policies). Outputs create <b>feedback</b>, which shapes new inputs.</p><p>He defined politics as the <b>\"authoritative allocation of values\"</b> for a society.</p>"
+  },
+  {
+   "tag": "Other models",
+   "h": "Almond and others",
+   "b": "<div class=\"box\"><h4>Gabriel Almond: structural-functionalism</h4>Every political system performs the same functions, like interest articulation and rule-making, but through different structures.</div><div class=\"box\"><h4>Almond and Verba: The Civic Culture (1963)</h4>They studied five countries and found three types of political culture: parochial, subject and participant.</div><div class=\"box\"><h4>Karl Deutsch</h4>He studied politics as communication, with a \"cybernetic\" model.</div>"
+  },
+  {
+   "tag": "The critique",
+   "h": "What went wrong",
+   "b": "<ul><li><b>\"Science\" without relevance.</b> While scholars counted votes, the US faced the Vietnam War, civil rights protests and race riots. Political science had little to say.</li><li><b>Status quo bias.</b> By studying \"what is\", it quietly accepted the existing order.</li><li><b>Value-neutrality is a myth.</b> Choosing what to study is itself a value choice.</li><li><b>Western bias.</b> Its models fitted the USA but not new countries like India.</li></ul>"
+  },
+  {
+   "tag": "The turn",
+   "h": "Post-behaviouralism, 1969",
+   "b": "<p>Strikingly, the critique came from Easton himself. In his 1969 presidential address to the American Political Science Association, called <b>\"The New Revolution in Political Science\"</b>, he announced post-behaviouralism.</p><p>Its two watchwords were <b>relevance</b> and <b>action</b>. Research should address urgent social problems, and scholars have a duty to act on their knowledge.</p>"
+  },
+  {
+   "tag": "Credo of relevance",
+   "h": "Its main claims",
+   "b": "<ul><li><b>Substance over technique.</b> It is better to be vague about an important issue than precise about a trivial one.</li><li><b>Values matter.</b> Scholars should openly discuss values.</li><li><b>Engage with crisis.</b> Research must address social crisis.</li><li><b>Act.</b> Knowledge brings a responsibility to act.</li><li><b>Politicise the profession.</b> Academic bodies should take part in public debates.</li></ul>"
+  },
+  {
+   "tag": "Balance",
+   "h": "Was behaviouralism useless?",
+   "b": "<p>No. It gave us survey research, election studies and rigorous methods. In India, the <b>CSDS–Lokniti</b> National Election Studies use these tools to study how Indians vote.</p><p>Post-behaviouralism did not reject methods. It said methods must serve meaningful questions. Make this point and you will look balanced.</p>"
+  },
+  {
+   "tag": "Exam lens",
+   "cls": "exam",
+   "h": "How UPSC asks this",
+   "b": "<div class=\"box\">\"Post-behaviouralism is a continuation of behaviouralism, not a rejection of it.\" Comment.</div><div class=\"box\">\"Explain Easton's systems analysis and its limitations.\"</div><p><b>Tip:</b> always mention that the same scholar, Easton, led both movements. Use the systems diagram in your answer; examiners reward neat diagrams.</p>"
+  }
+ ],
+ "quiz": [
+  {
+   "q": "Easton defined politics as the…",
+   "o": [
+    "Struggle for power",
+    "Authoritative allocation of values",
+    "Art of the possible",
+    "Study of the state"
+   ],
+   "a": 1,
+   "w": "Easton's definition: the authoritative allocation of values for a society."
+  },
+  {
+   "q": "Post-behaviouralism was announced in Easton's address of…",
+   "o": [
+    "1953",
+    "1962",
+    "1969",
+    "1971"
+   ],
+   "a": 2,
+   "w": "Easton's 1969 APSA presidential address, 'The New Revolution in Political Science'."
+  },
+  {
+   "q": "The two watchwords of post-behaviouralism are…",
+   "o": [
+    "Data and method",
+    "Relevance and action",
+    "Order and stability",
+    "Power and interest"
+   ],
+   "a": 1,
+   "w": "Relevance and action."
+  },
+  {
+   "q": "The Civic Culture (1963) was written by…",
+   "o": [
+    "Easton",
+    "Dahl",
+    "Almond and Verba",
+    "Merriam"
+   ],
+   "a": 2,
+   "w": "Gabriel Almond and Sidney Verba."
+  },
+  {
+   "q": "Which is NOT one of Easton's 8 foundation stones?",
+   "o": [
+    "Quantification",
+    "Verification",
+    "Revolution",
+    "Integration"
+   ],
+   "a": 2,
+   "w": "Revolution is not on the list."
+  }
+ ],
+ "sources": [],
+ "verified": "2026-11-10"
+}

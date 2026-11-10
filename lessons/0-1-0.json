@@ -1,0 +1,117 @@
+{
+ "id": "0-1-0",
+ "title": "The Liberal & Neoliberal State",
+ "emoji": "⚖️",
+ "cards": [
+  {
+   "tag": "Unit opener",
+   "h": "Six ways to see the state",
+   "b": "<svg class=\"d\" viewBox=\"0 0 320 200\"><line x1=\"160\" y1=\"105\" x2=\"60\" y2=\"40\" stroke=\"#c9c2b6\" stroke-width=\"2\"/><text x=\"60\" y=\"36\" fill=\"#a8792a\" font-size=\"12\" text-anchor=\"middle\" font-weight=\"700\">Liberal</text><text x=\"60\" y=\"51\" fill=\"#5d6474\" font-size=\"10\" text-anchor=\"middle\">Neutral umpire</text><line x1=\"160\" y1=\"105\" x2=\"260\" y2=\"40\" stroke=\"#c9c2b6\" stroke-width=\"2\"/><text x=\"260\" y=\"36\" fill=\"#a8792a\" font-size=\"12\" text-anchor=\"middle\" font-weight=\"700\">Neoliberal</text><text x=\"260\" y=\"51\" fill=\"#5d6474\" font-size=\"10\" text-anchor=\"middle\">Night-watchman</text><line x1=\"160\" y1=\"105\" x2=\"40\" y2=\"110\" stroke=\"#c9c2b6\" stroke-width=\"2\"/><text x=\"40\" y=\"106\" fill=\"#a3362a\" font-size=\"12\" text-anchor=\"middle\" font-weight=\"700\">Marxist</text><text x=\"40\" y=\"121\" fill=\"#5d6474\" font-size=\"10\" text-anchor=\"middle\">Tool of a class</text><line x1=\"160\" y1=\"105\" x2=\"280\" y2=\"110\" stroke=\"#c9c2b6\" stroke-width=\"2\"/><text x=\"280\" y=\"106\" fill=\"#2f6f7a\" font-size=\"12\" text-anchor=\"middle\" font-weight=\"700\">Pluralist</text><text x=\"280\" y=\"121\" fill=\"#5d6474\" font-size=\"10\" text-anchor=\"middle\">Arena of groups</text><line x1=\"160\" y1=\"105\" x2=\"90\" y2=\"180\" stroke=\"#c9c2b6\" stroke-width=\"2\"/><text x=\"90\" y=\"176\" fill=\"#6b4a8a\" font-size=\"12\" text-anchor=\"middle\" font-weight=\"700\">Post-colonial</text><text x=\"90\" y=\"191\" fill=\"#5d6474\" font-size=\"10\" text-anchor=\"middle\">Over-developed</text><line x1=\"160\" y1=\"105\" x2=\"230\" y2=\"180\" stroke=\"#c9c2b6\" stroke-width=\"2\"/><text x=\"230\" y=\"176\" fill=\"#a3456b\" font-size=\"12\" text-anchor=\"middle\" font-weight=\"700\">Feminist</text><text x=\"230\" y=\"191\" fill=\"#5d6474\" font-size=\"10\" text-anchor=\"middle\">Patriarchal</text><circle cx=\"160\" cy=\"105\" r=\"28\" fill=\"#f1e4c6\" stroke=\"#a8792a\"/><text x=\"160\" y=\"110\" fill=\"#1d2433\" font-size=\"14\" text-anchor=\"middle\" font-weight=\"700\">STATE</text></svg><p>The syllabus asks for six theories of the state: liberal, neoliberal, Marxist, pluralist, post-colonial and feminist. Each one answers the same question differently: <b>whose state is it, and what does it do?</b></p>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "The liberal state",
+   "b": "<p>For liberals, the individual comes first. The state exists to protect the rights of individuals. It is a <b>necessary evil</b>: needed, but dangerous if it grows too big.</p><p>Key features are <b>consent</b>, <b>limited government</b>, <b>rule of law</b>, <b>separation of powers</b> and the state as a <b>neutral umpire</b> between competing interests.</p>"
+  },
+  {
+   "tag": "Founding thinker",
+   "h": "John Locke",
+   "b": "<p>In <i>Two Treatises of Government</i> (1689), Locke said people have natural rights to <b>life, liberty and property</b> even before the state exists.</p><p>They form the state through a <b>social contract</b> only to protect those rights better. If the government breaks this trust, people have a <b>right to resist</b>.</p><div class=\"quote\">Government by consent, limited by rights.</div>"
+  },
+  {
+   "tag": "Evolution",
+   "h": "Classical to welfare liberalism",
+   "b": "<div class=\"box\"><h4>Classical liberalism (18th–19th century)</h4>Adam Smith, Bentham, early J.S. Mill. A minimal state and a free market, known as laissez-faire.</div><div class=\"box\"><h4>Welfare or positive liberalism (late 19th–20th century)</h4>T.H. Green, L.T. Hobhouse, Keynes. Poverty limits freedom too, so the state must provide education, health and jobs. This led to the <b>welfare state</b> after 1945.</div>"
+  },
+  {
+   "tag": "The reaction",
+   "h": "Neoliberalism",
+   "b": "<p>By the 1970s, welfare states faced inflation, slow growth and debt. Neoliberals argued that the big state was the problem.</p><p>They want a <b>minimal state</b>, <b>free markets</b>, <b>privatisation</b>, <b>deregulation</b> and lower taxes. In practice this meant Thatcher in the UK, Reagan in the USA, and the <b>Washington Consensus</b> (a term coined by John Williamson in 1989).</p>"
+  },
+  {
+   "tag": "Thinker",
+   "h": "Friedrich Hayek",
+   "b": "<p>In <i>The Road to Serfdom</i> (1944), Hayek warned that state economic planning leads to tyranny.</p><p>His key argument is about <b>knowledge</b>. No central planner can know what millions of people know about their own needs. The market's price system spreads that knowledge better than any government can.</p>"
+  },
+  {
+   "tag": "Thinker",
+   "h": "Robert Nozick",
+   "b": "<p>In <i>Anarchy, State, and Utopia</i> (1974), Nozick argued for a <b>minimal state</b>, a \"night-watchman\" state that only protects against force, theft and fraud.</p><p>Anything more, like taxing the rich to help the poor, violates rights. He famously compared taxation of earnings to <b>forced labour</b>. This book was a direct reply to Rawls.</p>"
+  },
+  {
+   "tag": "Critique",
+   "h": "What critics say",
+   "b": "<ul><li><b>Marxists:</b> the \"neutral\" liberal state actually protects property owners.</li><li><b>Welfare liberals:</b> freedom means little without basic resources.</li><li><b>On neoliberalism:</b> it increased inequality, and the 2008 financial crisis showed markets need regulation.</li><li><b>Feminists:</b> the public/private split hides injustice inside the family.</li></ul>"
+  },
+  {
+   "tag": "Indian angle",
+   "h": "India's journey",
+   "b": "<p>India began with a <b>mixed economy</b> and planning under Nehru, close to welfare liberalism. The Directive Principles (Part IV) reflect this.</p><p>In <b>1991</b>, under Narasimha Rao and Manmohan Singh, India moved towards liberalisation, privatisation and globalisation (LPG). Yet India keeps welfare schemes like MGNREGA (2005) and the National Food Security Act (2013). So India is often described as a hybrid, not a pure neoliberal state.</p>"
+  },
+  {
+   "tag": "Exam lens",
+   "cls": "exam",
+   "h": "How to write this",
+   "b": "<div class=\"box\">\"Neoliberalism is a return to classical liberalism.\" Critically examine.</div><p><b>Structure:</b> show what is similar (market and limited state) and what is new (neoliberalism uses the state actively to create markets, and works globally through the IMF and World Bank). Cite Hayek and Nozick, then India after 1991.</p>"
+  }
+ ],
+ "quiz": [
+  {
+   "q": "Locke's natural rights are…",
+   "o": [
+    "Life, liberty, property",
+    "Liberty, equality, fraternity",
+    "Food, shelter, work",
+    "Speech, religion, assembly"
+   ],
+   "a": 0,
+   "w": "Locke: life, liberty and property."
+  },
+  {
+   "q": "The Road to Serfdom (1944) was written by…",
+   "o": [
+    "Nozick",
+    "Hayek",
+    "Friedman",
+    "Keynes"
+   ],
+   "a": 1,
+   "w": "Friedrich Hayek."
+  },
+  {
+   "q": "Nozick compared taxation of earnings to…",
+   "o": [
+    "Theft",
+    "Forced labour",
+    "Slavery of the state",
+    "Charity"
+   ],
+   "a": 1,
+   "w": "Nozick said taxation of earnings is on a par with forced labour."
+  },
+  {
+   "q": "Welfare liberalism is linked with…",
+   "o": [
+    "T.H. Green",
+    "Nozick",
+    "Hayek",
+    "Hobbes"
+   ],
+   "a": 0,
+   "w": "T.H. Green's positive liberty underpins welfare liberalism."
+  },
+  {
+   "q": "India's shift to LPG reforms happened in…",
+   "o": [
+    "1971",
+    "1985",
+    "1991",
+    "2004"
+   ],
+   "a": 2,
+   "w": "The 1991 economic reforms."
+  }
+ ],
+ "sources": [],
+ "verified": "2026-11-10"
+}

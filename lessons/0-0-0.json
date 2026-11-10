@@ -1,0 +1,122 @@
+{
+ "id": "0-0-0",
+ "title": "What is Political Theory?",
+ "emoji": "🏛️",
+ "cards": [
+  {
+   "tag": "Why this matters",
+   "h": "Every question in Paper I starts here",
+   "b": "<p>Before you study Plato, Rawls or Marx, you need to know what \"political theory\" even is. UPSC asks about this directly, and the ideas here come back in almost every answer you write.</p><p>Political theory is the <b>systematic thinking about political life</b>. It asks big questions: Who should rule? Why should we obey? What is a just society? What is freedom?</p>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "Two kinds of questions",
+   "b": "<svg class=\"d\" viewBox=\"0 0 320 130\"><rect x=\"4\" y=\"10\" width=\"148\" height=\"110\" rx=\"12\" fill=\"#f1e4c6\" stroke=\"#a8792a\"/><rect x=\"168\" y=\"10\" width=\"148\" height=\"110\" rx=\"12\" fill=\"#dceaec\" stroke=\"#2f6f7a\"/>\n<text x=\"78\" y=\"36\" fill=\"#a8792a\" font-size=\"14\" text-anchor=\"middle\" font-weight=\"700\">NORMATIVE</text><text x=\"78\" y=\"62\" fill=\"#1d2433\" font-size=\"12\" text-anchor=\"middle\">What OUGHT to be</text><text x=\"78\" y=\"84\" fill=\"#5d6474\" font-size=\"11\" text-anchor=\"middle\">values · justice · ideal state</text><text x=\"78\" y=\"104\" fill=\"#5d6474\" font-size=\"11\" text-anchor=\"middle\">Plato, Rawls</text>\n<text x=\"242\" y=\"36\" fill=\"#2f6f7a\" font-size=\"14\" text-anchor=\"middle\" font-weight=\"700\">EMPIRICAL</text><text x=\"242\" y=\"62\" fill=\"#1d2433\" font-size=\"12\" text-anchor=\"middle\">What IS</text><text x=\"242\" y=\"84\" fill=\"#5d6474\" font-size=\"11\" text-anchor=\"middle\">facts · data · behaviour</text><text x=\"242\" y=\"104\" fill=\"#5d6474\" font-size=\"11\" text-anchor=\"middle\">Easton, Dahl</text></svg><p><b>Normative</b> theory asks what <i>should</i> be. Plato's ideal state and Rawls's theory of justice are normative.</p><p><b>Empirical</b> theory asks what <i>is</i>. It studies how voters actually behave or how parties actually win. David Easton and Robert Dahl worked this way.</p>"
+  },
+  {
+   "tag": "Definition",
+   "h": "How scholars define it",
+   "b": "<div class=\"box\"><h4>Andrew Hacker</h4>Political theory is a mix of two things: a search for knowledge about politics (science) and a search for the best political order (philosophy).</div><div class=\"box\"><h4>George Sabine</h4>Political theory is \"disciplined investigation of political problems\". He saw it as the history of how thinkers answered the problems of their own times.</div><div class=\"box\"><h4>David Held</h4>It is a network of concepts and generalisations about political life, covering ideas about government, state and society.</div>"
+  },
+  {
+   "tag": "Three jobs",
+   "h": "What political theory does",
+   "b": "<ul><li><b>Explain.</b> It tells us why things happen, such as why revolutions break out.</li><li><b>Evaluate.</b> It judges institutions against values, such as asking whether a law is just.</li><li><b>Prescribe.</b> It suggests what we should do, such as how to make democracy deeper.</li></ul><p>Good UPSC answers show all three. Don't only describe a thinker; say what their idea explains and where it falls short.</p>"
+  },
+  {
+   "tag": "Key terms",
+   "h": "Theory, thought, philosophy, ideology",
+   "b": "<div class=\"box\"><h4>Political thought</h4>The ideas of a person or a society at a given time, such as Gandhian thought.</div><div class=\"box\"><h4>Political philosophy</h4>The most abstract level. It asks about the nature of the good life and of justice.</div><div class=\"box\"><h4>Political ideology</h4>A set of ideas meant to drive action, such as liberalism or socialism. It wants to change the world, not just explain it.</div><div class=\"box\"><h4>Political science</h4>The study of politics using scientific methods and data.</div>"
+  },
+  {
+   "tag": "Debate",
+   "h": "Is political theory dead?",
+   "b": "<svg class=\"d\" viewBox=\"0 0 320 150\"><line x1=\"20\" y1=\"70\" x2=\"300\" y2=\"70\" stroke=\"#c9c2b6\" stroke-width=\"3\"/>\n<circle cx=\"30\" cy=\"70\" r=\"7\" fill=\"#a8792a\"/><text x=\"30\" y=\"50\" fill=\"#1d2433\" font-size=\"12\" text-anchor=\"middle\" font-weight=\"700\">1953</text><text x=\"30\" y=\"34\" fill=\"#5d6474\" font-size=\"9\" text-anchor=\"middle\">Easton, Cobban</text><circle cx=\"95\" cy=\"70\" r=\"7\" fill=\"#a8792a\"/><text x=\"95\" y=\"100\" fill=\"#1d2433\" font-size=\"12\" text-anchor=\"middle\" font-weight=\"700\">1956</text><text x=\"95\" y=\"116\" fill=\"#5d6474\" font-size=\"9\" text-anchor=\"middle\">Laslett: \"dead\"</text><circle cx=\"160\" cy=\"70\" r=\"7\" fill=\"#a8792a\"/><text x=\"160\" y=\"50\" fill=\"#1d2433\" font-size=\"12\" text-anchor=\"middle\" font-weight=\"700\">1962</text><text x=\"160\" y=\"34\" fill=\"#5d6474\" font-size=\"9\" text-anchor=\"middle\">Berlin: it lives</text><circle cx=\"225\" cy=\"70\" r=\"7\" fill=\"#a8792a\"/><text x=\"225\" y=\"100\" fill=\"#1d2433\" font-size=\"12\" text-anchor=\"middle\" font-weight=\"700\">1969</text><text x=\"225\" y=\"116\" fill=\"#5d6474\" font-size=\"9\" text-anchor=\"middle\">Post-behaviouralism</text><circle cx=\"290\" cy=\"70\" r=\"7\" fill=\"#2f6f7a\"/><text x=\"290\" y=\"50\" fill=\"#1d2433\" font-size=\"12\" text-anchor=\"middle\" font-weight=\"700\">1971</text><text x=\"290\" y=\"34\" fill=\"#5d6474\" font-size=\"9\" text-anchor=\"middle\">Rawls: revival</text></svg><p>In the 1950s, many scholars said political theory was dying. Most new work was just history of old ideas, and the scientific study of politics was taking over.</p>"
+  },
+  {
+   "tag": "The obituaries",
+   "h": "Who said it was dying",
+   "b": "<div class=\"box\"><h4>David Easton, 1953</h4>In <i>The Political System</i>, he said theory had become mere history of ideas. It was not producing new theory that could guide research.</div><div class=\"box\"><h4>Alfred Cobban, 1953</h4>In his essay \"The Decline of Political Theory\", he blamed academics for turning away from real political problems.</div><div class=\"box\"><h4>Peter Laslett, 1956</h4>He famously wrote that \"for the moment, anyway, political philosophy is dead\". He blamed logical positivism, which said value statements were meaningless.</div>"
+  },
+  {
+   "tag": "The defence",
+   "h": "Why it survived",
+   "b": "<p><b>Isaiah Berlin</b> answered back in his 1962 essay \"Does Political Theory Still Exist?\". He said that as long as people disagree about ends, such as liberty vs equality, political theory will exist. Only in a world where everyone agreed on goals would it die.</p><p><b>Leo Strauss</b> and <b>Hannah Arendt</b> also defended the classical tradition.</p><p>Then in 1971, <b>John Rawls</b> published <i>A Theory of Justice</i>. It is widely seen as the moment normative theory came roaring back.</p>"
+  },
+  {
+   "tag": "Quote to use",
+   "h": "Berlin's line",
+   "b": "<div class=\"quote\">\"Political theory is a branch of moral philosophy.\"</div><div class=\"who\">Isaiah Berlin, Two Concepts of Liberty (1958)</div><p>Use this in any answer about the relevance of political theory. It shows that politics can never be fully reduced to facts because it is always about choices between values.</p>"
+  },
+  {
+   "tag": "Indian angle",
+   "h": "Bring it home",
+   "b": "<p>Indian debates show theory is alive. Think about reservation (equality vs merit), sedition law (order vs liberty), or the Uniform Civil Code (equality vs group rights).</p><p>Ambedkar's question in the Constituent Assembly, about political democracy without social democracy, is a normative question. Ending an answer with an Indian example like this lifts your marks.</p>"
+  },
+  {
+   "tag": "Exam lens",
+   "cls": "exam",
+   "h": "How UPSC asks this",
+   "b": "<div class=\"box\">\"Comment: Political theory is dead.\" (a common style)</div><div class=\"box\">\"Discuss the relevance of normative political theory today.\"</div><p><b>Structure:</b> define theory, show the 1950s decline argument with names and years, show the revival through Berlin and Rawls, then end with how new areas like feminism, multiculturalism and green theory keep it alive.</p>"
+  }
+ ],
+ "quiz": [
+  {
+   "q": "Who wrote that political philosophy was \"dead\" in 1956?",
+   "o": [
+    "David Easton",
+    "Peter Laslett",
+    "Alfred Cobban",
+    "Leo Strauss"
+   ],
+   "a": 1,
+   "w": "Peter Laslett wrote this in his introduction to Philosophy, Politics and Society (1956)."
+  },
+  {
+   "q": "Normative political theory mainly deals with…",
+   "o": [
+    "What is",
+    "What ought to be",
+    "Causal explanation of behaviour",
+    "Testable generalisations"
+   ],
+   "a": 1,
+   "w": "Normative theory is about values and ideals: what ought to be."
+  },
+  {
+   "q": "Which 1971 book is credited with reviving normative theory?",
+   "o": [
+    "The Political System",
+    "Anarchy, State, and Utopia",
+    "A Theory of Justice",
+    "Two Concepts of Liberty"
+   ],
+   "a": 2,
+   "w": "John Rawls's A Theory of Justice (1971) is the landmark revival text."
+  },
+  {
+   "q": "Isaiah Berlin argued political theory survives because…",
+   "o": [
+    "Data keeps growing",
+    "People disagree about ends",
+    "States keep expanding",
+    "Science failed"
+   ],
+   "a": 1,
+   "w": "As long as people disagree about ends like liberty and equality, political theory lives."
+  },
+  {
+   "q": "Which school said value statements were meaningless, hurting political philosophy?",
+   "o": [
+    "Logical positivism",
+    "Existentialism",
+    "Idealism",
+    "Stoicism"
+   ],
+   "a": 0,
+   "w": "Logical positivism held only empirically verifiable statements were meaningful."
+  }
+ ],
+ "sources": [],
+ "verified": "2026-11-10"
+}

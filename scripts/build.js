@@ -1,0 +1,30 @@
+// Run: node scripts/build.js
+// Checks every lesson, writes lessons/index.json and the service worker's file list.
+const fs=require('fs'),path=require('path'),crypto=require('crypto');
+const root=path.join(__dirname,'..');process.chdir(root);
+const map=JSON.parse(fs.readFileSync('syllabus.json','utf8'));
+const titles={};map.forEach((p,pi)=>p.units.forEach((u,ui)=>u[1].forEach((t,k)=>titles[`${pi}-${ui}-${k}`]=t)));
+const idx={},errs=[],warn=[];
+const words=h=>h.replace(/<svg[\s\S]*?<\/svg>/g,'').replace(/<[^>]+>/g,' ').split(/\s+/).filter(Boolean).length;
+for(const f of fs.readdirSync('lessons').filter(f=>/^\d+-\d+-\d+\.json$/.test(f)).sort()){
+  const id=f.slice(0,-5),e=m=>errs.push(`${id}: ${m}`);let l;
+  try{l=JSON.parse(fs.readFileSync('lessons/'+f,'utf8'))}catch(x){e('bad JSON '+x.message);continue}
+  if(!titles[id])e('id not in syllabus');
+  if(l.id!==id)e('id field does not match file name');
+  if(!l.title||!l.emoji)e('missing title or emoji');
+  if(!Array.isArray(l.cards)||l.cards.length<8||l.cards.length>11)e(`needs 8-11 cards, has ${l.cards&&l.cards.length}`);
+  (l.cards||[]).forEach((c,i)=>{if(!c.tag||!c.h||!c.b)e(`card ${i+1} missing tag/h/b`);const w=words(c.b);if(w>175)warn.push(`${id} card ${i+1}: ${w} words`)});
+  if(!(l.cards||[]).some(c=>c.cls==='exam'))e('no exam card');
+  if(!Array.isArray(l.quiz)||l.quiz.length!==5)e('needs 5 quiz questions');
+  (l.quiz||[]).forEach((q,i)=>{if(!q.q||!Array.isArray(q.o)||q.o.length!==4||!(q.a>=0&&q.a<4)||!q.w)e(`quiz ${i+1} malformed`)});
+  if(!l.verified)e('missing verified date');
+  idx[id]={title:l.title,n:l.cards.length};
+}
+warn.forEach(w=>console.warn('warn:',w));
+if(errs.length){errs.forEach(x=>console.error('error:',x));process.exit(1)}
+fs.writeFileSync('lessons/index.json',JSON.stringify(idx)+'\n');
+const files=['./','index.html','app.js','syllabus.json','manifest.webmanifest','icons/icon.svg','icons/icon-192.png','icons/icon-512.png','icons/icon-180.png','lessons/index.json',...Object.keys(idx).map(i=>`lessons/${i}.json`)];
+const h=crypto.createHash('sha1');files.filter(f=>f!=='./').forEach(f=>{if(fs.existsSync(f))h.update(fs.readFileSync(f))});
+const sw=fs.readFileSync('scripts/sw.template.js','utf8').replace('__VERSION__',h.digest('hex').slice(0,10)).replace('__FILES__',JSON.stringify(files));
+fs.writeFileSync('sw.js',sw);
+console.log(`ok: ${Object.keys(idx).length} lessons`);

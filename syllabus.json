@@ -1,0 +1,386 @@
+[
+ {
+  "p": "Paper I · Section A",
+  "t": "Political Theory & Thought",
+  "units": [
+   [
+    "Political Theory: meaning and approaches",
+    [
+     "What is Political Theory?",
+     "Traditional Approaches",
+     "Behaviouralism & After"
+    ],
+    0
+   ],
+   [
+    "Theories of the State",
+    [
+     "The Liberal & Neoliberal State",
+     "The Marxist State",
+     "The Pluralist State",
+     "The Post-colonial State",
+     "The Feminist State"
+    ],
+    0
+   ],
+   [
+    "Justice",
+    [
+     "Rawls's Theory of Justice",
+     "The Communitarian Critique",
+     "Nozick, Sen and the Capability Approach"
+    ],
+    1
+   ],
+   [
+    "Equality",
+    [
+     "Social, Political and Economic Equality; Equality vs Freedom",
+     "Affirmative Action"
+    ],
+    0
+   ],
+   [
+    "Rights",
+    [
+     "Meaning, Theories and Kinds of Rights",
+     "Human Rights and Multicultural Rights"
+    ],
+    0
+   ],
+   [
+    "Democracy",
+    [
+     "Classical Theories of Democracy",
+     "Contemporary Theories: Elitist, Pluralist, Schumpeter",
+     "Representative and Participatory Democracy",
+     "Deliberative Democracy"
+    ],
+    1
+   ],
+   [
+    "Power, hegemony, ideology, legitimacy",
+    [
+     "Power and its Three Faces",
+     "Hegemony and Ideology",
+     "Authority and Legitimacy: Weber and After"
+    ],
+    0
+   ],
+   [
+    "Political ideologies",
+    [
+     "Liberalism",
+     "Socialism and Marxism",
+     "Fascism, Gandhism and Feminism"
+    ],
+    1
+   ],
+   [
+    "Indian political thought",
+    [
+     "Dharmashastra and Buddhist Traditions",
+     "Kautilya's Arthashastra",
+     "Sir Syed Ahmed Khan and Sri Aurobindo",
+     "M.K. Gandhi",
+     "B.R. Ambedkar",
+     "M.N. Roy"
+    ],
+    1
+   ],
+   [
+    "Western political thought",
+    [
+     "Plato",
+     "Aristotle",
+     "Machiavelli",
+     "Hobbes",
+     "Locke",
+     "J.S. Mill",
+     "Karl Marx",
+     "Antonio Gramsci",
+     "Hannah Arendt"
+    ],
+    1
+   ]
+  ]
+ },
+ {
+  "p": "Paper I · Section B",
+  "t": "Indian Government & Politics",
+  "units": [
+   [
+    "Indian nationalism",
+    [
+     "Strategies of the Freedom Struggle",
+     "Peasant, Worker and Revolutionary Movements",
+     "Perspectives: Liberal, Socialist, Marxist, Radical Humanist, Dalit"
+    ],
+    0
+   ],
+   [
+    "Making of the Constitution",
+    [
+     "Legacies of British Rule",
+     "Social and Political Perspectives in the Constituent Assembly"
+    ],
+    0
+   ],
+   [
+    "Salient features of the Constitution",
+    [
+     "Preamble, Fundamental Rights and Duties",
+     "Directive Principles",
+     "Parliamentary System and Amendments",
+     "Judicial Review and Basic Structure"
+    ],
+    1
+   ],
+   [
+    "Organs of Union and State government",
+    [
+     "The Union Executive",
+     "Parliament",
+     "The Supreme Court and the States"
+    ],
+    0
+   ],
+   [
+    "Grassroots democracy",
+    [
+     "73rd and 74th Amendments",
+     "Grassroots Movements"
+    ],
+    0
+   ],
+   [
+    "Statutory and constitutional bodies",
+    [
+     "ECI, CAG, Finance Commission, UPSC",
+     "The Commissions: NHRC, NCW, NCSC, NCST, NCM, NCBC"
+    ],
+    0
+   ],
+   [
+    "Federalism",
+    [
+     "Constitutional Provisions and Centre–State Relations",
+     "Integration and Regional Aspirations",
+     "Inter-State Disputes"
+    ],
+    1
+   ],
+   [
+    "Planning and economic development",
+    [
+     "Nehruvian and Gandhian Perspectives",
+     "Green Revolution and Land Reforms",
+     "Liberalisation and Economic Reforms"
+    ],
+    0
+   ],
+   [
+    "Caste, religion and ethnicity",
+    [
+     "Caste in Indian Politics",
+     "Religion and Ethnicity in Politics"
+    ],
+    1
+   ],
+   [
+    "Party system",
+    [
+     "National and Regional Parties",
+     "Coalition Politics",
+     "Pressure Groups",
+     "Electoral Behaviour and Legislators' Profile"
+    ],
+    1
+   ],
+   [
+    "Social movements",
+    [
+     "Civil Liberties and Human Rights Movements",
+     "Women's and Environmental Movements"
+    ],
+    0
+   ]
+  ]
+ },
+ {
+  "p": "Paper II · Section A",
+  "t": "Comparative Politics & IR",
+  "units": [
+   [
+    "Comparative politics",
+    [
+     "Nature and Major Approaches",
+     "Political Economy, Political Sociology and the Limits of Comparison"
+    ],
+    0
+   ],
+   [
+    "State in comparative perspective",
+    [
+     "The State in Capitalist, Socialist, Developed and Developing Societies"
+    ],
+    0
+   ],
+   [
+    "Politics of representation",
+    [
+     "Parties, Pressure Groups and Movements Compared"
+    ],
+    0
+   ],
+   [
+    "Globalisation",
+    [
+     "Globalisation: Developed and Developing Responses"
+    ],
+    1
+   ],
+   [
+    "Approaches to IR",
+    [
+     "Idealism and Liberal Institutionalism",
+     "Realism and Neorealism",
+     "Marxist and Dependency Approaches",
+     "Functionalism and Neofunctionalism",
+     "Systems Theory and Constructivism"
+    ],
+    1
+   ],
+   [
+    "Key concepts in IR",
+    [
+     "National Interest and Power",
+     "Balance of Power and Deterrence",
+     "Collective Security and Transnational Actors"
+    ],
+    0
+   ],
+   [
+    "Changing international order",
+    [
+     "Superpowers, Bipolarity and the Cold War",
+     "Non-Alignment: Aims and Achievements",
+     "Unipolarity, American Hegemony and Multipolarity"
+    ],
+    1
+   ],
+   [
+    "International economic system",
+    [
+     "Bretton Woods to the WTO",
+     "CMEA and the Demand for NIEO"
+    ],
+    0
+   ],
+   [
+    "United Nations",
+    [
+     "Role and Record of the UN",
+     "Specialised Agencies and UN Reform"
+    ],
+    0
+   ],
+   [
+    "Regionalisation of world politics",
+    [
+     "EU and NAFTA/USMCA",
+     "ASEAN, APEC and SAARC"
+    ],
+    0
+   ],
+   [
+    "Contemporary global concerns",
+    [
+     "Democracy and Human Rights",
+     "Environment and Gender Justice",
+     "Terrorism and Nuclear Proliferation"
+    ],
+    1
+   ]
+  ]
+ },
+ {
+  "p": "Paper II · Section B",
+  "t": "India and the World",
+  "units": [
+   [
+    "Indian foreign policy",
+    [
+     "Determinants and Institutions",
+     "Continuity and Change"
+    ],
+    0
+   ],
+   [
+    "India and Non-Alignment",
+    [
+     "India and NAM: Phases and Current Role"
+    ],
+    0
+   ],
+   [
+    "India and South Asia",
+    [
+     "SAARC, BIMSTEC and Regional Cooperation",
+     "India–Pakistan",
+     "Bangladesh, Nepal and Bhutan",
+     "Sri Lanka, Maldives, Myanmar and Impediments to Cooperation",
+     "Look East to Act East"
+    ],
+    1
+   ],
+   [
+    "India and the Global South",
+    [
+     "Africa and Latin America",
+     "NIEO, WTO and the Voice of the South"
+    ],
+    0
+   ],
+   [
+    "India and global centres of power",
+    [
+     "India–USA",
+     "India–China: Border and Strategy",
+     "India–China: Economy and Multilateral Rivalry",
+     "India–Russia",
+     "India–EU",
+     "India–Japan"
+    ],
+    1
+   ],
+   [
+    "India and the UN system",
+    [
+     "Peacekeeping",
+     "The Permanent Seat and UN Reform"
+    ],
+    0
+   ],
+   [
+    "India and the nuclear question",
+    [
+     "Evolution of India's Nuclear Policy",
+     "NPT, CTBT, NSG and the Civil Nuclear Deal"
+    ],
+    0
+   ],
+   [
+    "Recent developments",
+    [
+     "Afghanistan",
+     "West Asia and the Gulf",
+     "India–Israel and New Minilaterals",
+     "Indo-Pacific and the Quad",
+     "India's Vision of a New World Order"
+    ],
+    1
+   ]
+  ]
+ }
+]

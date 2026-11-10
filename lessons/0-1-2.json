@@ -1,0 +1,107 @@
+{
+ "id": "0-1-2",
+ "title": "The Pluralist State",
+ "emoji": "🧩",
+ "cards": [
+  {
+   "tag": "Core idea",
+   "h": "Power is spread out",
+   "b": "<svg class=\"d\" viewBox=\"0 0 320 170\"><ellipse cx=\"160\" cy=\"88\" rx=\"58\" ry=\"34\" fill=\"#dceaec\" stroke=\"#2f6f7a\"/><text x=\"160\" y=\"92\" fill=\"#1d2433\" font-size=\"12\" text-anchor=\"middle\">Government</text>\n<line x1=\"40\" y1=\"30\" x2=\"160\" y2=\"88\" stroke=\"#c9c2b6\" stroke-width=\"2\" stroke-dasharray=\"3 3\"/><rect x=\"0\" y=\"18\" width=\"80\" height=\"22\" rx=\"11\" fill=\"#ffffff\" stroke=\"#5d6474\"/><text x=\"40\" y=\"33\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\">Unions</text><line x1=\"280\" y1=\"30\" x2=\"160\" y2=\"88\" stroke=\"#c9c2b6\" stroke-width=\"2\" stroke-dasharray=\"3 3\"/><rect x=\"240\" y=\"18\" width=\"80\" height=\"22\" rx=\"11\" fill=\"#ffffff\" stroke=\"#5d6474\"/><text x=\"280\" y=\"33\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\">Business</text><line x1=\"30\" y1=\"140\" x2=\"160\" y2=\"88\" stroke=\"#c9c2b6\" stroke-width=\"2\" stroke-dasharray=\"3 3\"/><rect x=\"-10\" y=\"128\" width=\"80\" height=\"22\" rx=\"11\" fill=\"#ffffff\" stroke=\"#5d6474\"/><text x=\"30\" y=\"143\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\">Farmers</text><line x1=\"275\" y1=\"140\" x2=\"160\" y2=\"88\" stroke=\"#c9c2b6\" stroke-width=\"2\" stroke-dasharray=\"3 3\"/><rect x=\"235\" y=\"128\" width=\"80\" height=\"22\" rx=\"11\" fill=\"#ffffff\" stroke=\"#5d6474\"/><text x=\"275\" y=\"143\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\">Caste groups</text><line x1=\"160\" y1=\"20\" x2=\"160\" y2=\"88\" stroke=\"#c9c2b6\" stroke-width=\"2\" stroke-dasharray=\"3 3\"/><rect x=\"120\" y=\"8\" width=\"80\" height=\"22\" rx=\"11\" fill=\"#ffffff\" stroke=\"#5d6474\"/><text x=\"160\" y=\"23\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\">NGOs</text><line x1=\"160\" y1=\"160\" x2=\"160\" y2=\"88\" stroke=\"#c9c2b6\" stroke-width=\"2\" stroke-dasharray=\"3 3\"/><rect x=\"120\" y=\"148\" width=\"80\" height=\"22\" rx=\"11\" fill=\"#ffffff\" stroke=\"#5d6474\"/><text x=\"160\" y=\"163\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\">Religious bodies</text></svg><p>Pluralists say power in a democracy is <b>spread among many groups</b>: unions, businesses, farmers, religious bodies and NGOs. No single group or class dominates.</p><p>The state is like an <b>arena</b> or a <b>referee</b> where these groups compete and bargain.</p>"
+  },
+  {
+   "tag": "Early pluralism",
+   "h": "Against the sovereign state",
+   "b": "<p>Early 20th-century British thinkers like <b>Harold Laski</b>, <b>F.W. Maitland</b> and <b>J.N. Figgis</b> attacked the idea of an all-powerful sovereign state.</p><p>They argued that churches, guilds and unions have their own real life and authority. The state is just one association among many. Laski even said that because sovereignty is not absolute, it would be good for political science if the concept were given up.</p>"
+  },
+  {
+   "tag": "Key thinker",
+   "h": "Robert Dahl",
+   "b": "<p>Dahl studied New Haven, Connecticut in <b><i>Who Governs?</i> (1961)</b>. He asked: who really makes decisions here?</p><p>He found that different groups won on different issues, such as education, urban renewal and party nominations. No single elite controlled everything. This is <b>polyarchy</b>, rule by many.</p>"
+  },
+  {
+   "tag": "Concept",
+   "h": "Polyarchy",
+   "b": "<p>In <i>Polyarchy</i> (1971), Dahl said no real country is a perfect democracy. So he used \"polyarchy\" for real-world democracies.</p><p>A polyarchy has two dimensions: <b>public contestation</b> (open competition) and <b>inclusiveness</b> (the right to participate).</p><p>Its institutions include elected officials, free and fair elections, universal adult franchise, freedom of expression, alternative sources of information and freedom to form associations.</p>"
+  },
+  {
+   "tag": "Critique",
+   "h": "The elite theorists strike back",
+   "b": "<div class=\"box\"><h4>C. Wright Mills: The Power Elite (1956)</h4>A small group from business, the military and politics really runs the USA.</div><div class=\"box\"><h4>Bachrach and Baratz: \"Two Faces of Power\" (1962)</h4>Dahl only saw open decisions. Real power also lies in <b>non-decision making</b>: keeping some issues off the agenda entirely.</div><div class=\"box\"><h4>Steven Lukes: Power: A Radical View (1974)</h4>A third face: shaping what people even want.</div>"
+  },
+  {
+   "tag": "Revision",
+   "h": "Neo-pluralism",
+   "b": "<p>Later pluralists admitted that groups are not equal. In <i>Politics and Markets</i> (1977), <b>Charles Lindblom</b> argued that business holds a <b>privileged position</b>.</p><p>Governments depend on business for jobs and growth, so they listen more to business than to anyone else. Dahl himself later accepted that economic inequality distorts democracy.</p>"
+  },
+  {
+   "tag": "Indian angle",
+   "h": "Pluralism in India",
+   "b": "<p>India looks pluralist in many ways: farmer lobbies, caste associations, trade unions and industry bodies like FICCI and CII all press the government.</p><p><b>Rudolph and Rudolph</b>, in <i>In Pursuit of Lakshmi</i> (1987), called Indian pluralism <b>\"involuted pluralism\"</b>. Many groups are fragmented and weak, while the state remains a strong \"third actor\". The farm laws protests of 2020–21, which led to the repeal of the laws, show group pressure working.</p>"
+  },
+  {
+   "tag": "Exam lens",
+   "cls": "exam",
+   "h": "How UPSC asks this",
+   "b": "<div class=\"box\">\"Neo-pluralism is a self-critique of pluralism.\" Comment.</div><p><b>Structure:</b> early pluralism (Laski), American pluralism (Dahl), the elite critique (Mills, Bachrach and Baratz), then neo-pluralism (Lindblom). End with India's involuted pluralism.</p>"
+  }
+ ],
+ "quiz": [
+  {
+   "q": "Who Governs? (1961) studied which city?",
+   "o": [
+    "Chicago",
+    "New Haven",
+    "Boston",
+    "Detroit"
+   ],
+   "a": 1,
+   "w": "Dahl studied New Haven, Connecticut."
+  },
+  {
+   "q": "The 'privileged position of business' idea comes from…",
+   "o": [
+    "Dahl",
+    "Lindblom",
+    "Mills",
+    "Laski"
+   ],
+   "a": 1,
+   "w": "Charles Lindblom, Politics and Markets (1977)."
+  },
+  {
+   "q": "Non-decision making was highlighted by…",
+   "o": [
+    "Bachrach and Baratz",
+    "Rudolph and Rudolph",
+    "Almond and Verba",
+    "Marx and Engels"
+   ],
+   "a": 0,
+   "w": "Bachrach and Baratz, 'Two Faces of Power' (1962)."
+  },
+  {
+   "q": "Polyarchy's two dimensions are…",
+   "o": [
+    "Liberty and equality",
+    "Contestation and inclusiveness",
+    "Order and justice",
+    "Power and authority"
+   ],
+   "a": 1,
+   "w": "Public contestation and inclusiveness (participation)."
+  },
+  {
+   "q": "'Involuted pluralism' describes…",
+   "o": [
+    "The USA",
+    "India",
+    "The UK",
+    "China"
+   ],
+   "a": 1,
+   "w": "Rudolph and Rudolph used it for India in In Pursuit of Lakshmi (1987)."
+  }
+ ],
+ "sources": [],
+ "verified": "2026-11-10"
+}

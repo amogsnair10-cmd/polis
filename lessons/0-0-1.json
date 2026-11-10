@@ -1,0 +1,112 @@
+{
+ "id": "0-0-1",
+ "title": "Traditional Approaches",
+ "emoji": "📜",
+ "cards": [
+  {
+   "tag": "Big picture",
+   "h": "How politics was studied before the 1950s",
+   "b": "<p>An <b>approach</b> is a way of looking. It decides what questions you ask and what evidence you use.</p><p>Before the Second World War, political science mostly used <b>traditional approaches</b>. These were value-based, used history and law, and focused on the state and its institutions.</p>"
+  },
+  {
+   "tag": "Approach 1",
+   "h": "Philosophical approach",
+   "b": "<p>This is the oldest approach. It starts with values and reasoning, not data. It asks: what is the ideal state, and what is justice?</p><ul><li><b>Thinkers:</b> Plato, Aristotle, Hegel, T.H. Green.</li><li><b>Strength:</b> it gives us goals and ideals to aim for.</li><li><b>Weakness:</b> it can be abstract and hard to test. Critics say it is speculative.</li></ul>"
+  },
+  {
+   "tag": "Approach 2",
+   "h": "Historical approach",
+   "b": "<p>This approach says you can only understand political ideas in their historical setting. Ideas come from real problems of their age.</p><ul><li><b>Thinkers:</b> Machiavelli used history as a tool; Sabine and Dunning wrote histories of political thought.</li><li><b>Strength:</b> it gives context. Hobbes makes more sense when you know about the English Civil War.</li><li><b>Weakness:</b> history can be read selectively, and the past does not always predict the present.</li></ul>"
+  },
+  {
+   "tag": "Approach 3",
+   "h": "Institutional approach",
+   "b": "<p>This approach studies formal structures: constitutions, legislatures, executives and courts.</p><ul><li><b>Thinkers:</b> James Bryce (<i>Modern Democracies</i>), Herman Finer, Harold Laski.</li><li><b>Strength:</b> it is concrete and descriptive. It is good for comparing governments.</li><li><b>Weakness:</b> it ignores informal politics like caste, pressure groups and personality. A constitution on paper can differ a lot from politics in practice.</li></ul>"
+  },
+  {
+   "tag": "Approach 4",
+   "h": "Legal approach",
+   "b": "<p>This approach sees the state mainly as a legal body that makes and enforces law. Politics is studied through laws, rights and courts.</p><ul><li><b>Thinkers:</b> Jean Bodin and Hobbes (sovereignty as the source of law), A.V. Dicey (rule of law), John Austin (law as the command of the sovereign).</li><li><b>Weakness:</b> it is very narrow. Law is only one part of political life.</li></ul>"
+  },
+  {
+   "tag": "Common features",
+   "h": "What they share",
+   "b": "<ul><li>They are <b>value-laden</b>: they openly judge what is good.</li><li>They are <b>state-centric</b>: the state is the main unit of study.</li><li>They are <b>descriptive</b> and <b>prescriptive</b>, rather than explanatory or predictive.</li><li>They rely on <b>reasoning, history and legal texts</b>, not surveys or statistics.</li></ul>"
+  },
+  {
+   "tag": "Criticism",
+   "h": "Why they were challenged",
+   "b": "<p>After 1945, American scholars felt traditional approaches could not explain real political behaviour. They could not explain why democracy collapsed in Weimar Germany or why people voted for fascists.</p><p>The criticism was that traditional approaches were too <b>formal, too normative and too narrow</b>. This opened the door for the behavioural revolution, which is the next lesson.</p>"
+  },
+  {
+   "tag": "Indian angle",
+   "h": "Still useful in India",
+   "b": "<p>The institutional and legal approaches still matter a lot in India. Debates on the basic structure doctrine (Kesavananda Bharati, 1973), the anti-defection law, or Governor's powers are mainly legal-institutional.</p><p>But you can only explain coalition politics or caste voting with newer approaches. A strong answer shows both.</p>"
+  },
+  {
+   "tag": "Exam lens",
+   "cls": "exam",
+   "h": "How to write this",
+   "b": "<div class=\"box\">\"Critically examine the traditional approaches to the study of politics.\"</div><p><b>Structure:</b> define approach, describe the four types with one thinker each, give common features, then the behavioural critique. End by saying modern theory has a <b>revival of new institutionalism</b> (March and Olsen, 1984), which shows that institutions still matter.</p>"
+  }
+ ],
+ "quiz": [
+  {
+   "q": "Which approach focuses on constitutions and formal structures?",
+   "o": [
+    "Behavioural",
+    "Institutional",
+    "Marxist",
+    "Systems"
+   ],
+   "a": 1,
+   "w": "The institutional approach studies formal structures of government."
+  },
+  {
+   "q": "Who wrote Modern Democracies?",
+   "o": [
+    "James Bryce",
+    "A.V. Dicey",
+    "Harold Laski",
+    "David Easton"
+   ],
+   "a": 0,
+   "w": "James Bryce wrote Modern Democracies (1921)."
+  },
+  {
+   "q": "John Austin defined law as…",
+   "o": [
+    "Customary practice",
+    "The command of the sovereign",
+    "Divine will",
+    "General will"
+   ],
+   "a": 1,
+   "w": "Austin's analytical jurisprudence defined law as the command of the sovereign."
+  },
+  {
+   "q": "A key weakness of the institutional approach is that it…",
+   "o": [
+    "Uses too much data",
+    "Ignores informal politics",
+    "Is too predictive",
+    "Rejects the state"
+   ],
+   "a": 1,
+   "w": "It ignores informal forces like caste, pressure groups and personalities."
+  },
+  {
+   "q": "New institutionalism is linked to…",
+   "o": [
+    "Marx and Engels",
+    "March and Olsen",
+    "Plato and Aristotle",
+    "Dahl and Lindblom"
+   ],
+   "a": 1,
+   "w": "James March and Johan Olsen (1984) brought institutions back in."
+  }
+ ],
+ "sources": [],
+ "verified": "2026-11-10"
+}
