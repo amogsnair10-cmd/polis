@@ -1,0 +1,176 @@
+{
+ "id": "0-1-1",
+ "title": "Pressure Belts, Winds and Jet Streams",
+ "emoji": "💨",
+ "cards": [
+  {
+   "tag": "Why this matters",
+   "h": "Why the wind blows where it does",
+   "b": "<p>Pressure differences drive winds. Winds move heat, moisture and cyclones, and shape rainfall from the Sahara to the Ganga. The Indian monsoon is simply a seasonal swing of this global system.</p>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "Pressure belts",
+   "b": "<svg class=\"d\" viewBox=\"0 0 320 158\"><rect x=\"10\" y=\"6\" width=\"80\" height=\"26\" rx=\"6\" fill=\"#f1e4c6\" stroke=\"#a8792a\" stroke-width=\"1.5\"/><text x=\"50.0\" y=\"23\" fill=\"#7d5a1c\" font-size=\"11\" text-anchor=\"middle\" font-weight=\"700\">Latitude</text><rect x=\"90\" y=\"6\" width=\"110\" height=\"26\" rx=\"6\" fill=\"#f1e4c6\" stroke=\"#a8792a\" stroke-width=\"1.5\"/><text x=\"145.0\" y=\"23\" fill=\"#7d5a1c\" font-size=\"11\" text-anchor=\"middle\" font-weight=\"700\">Pressure</text><rect x=\"200\" y=\"6\" width=\"110\" height=\"26\" rx=\"6\" fill=\"#f1e4c6\" stroke=\"#a8792a\" stroke-width=\"1.5\"/><text x=\"255.0\" y=\"23\" fill=\"#7d5a1c\" font-size=\"11\" text-anchor=\"middle\" font-weight=\"700\">Winds</text><rect x=\"10\" y=\"32\" width=\"80\" height=\"30\" rx=\"0\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"50.0\" y=\"51\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\" font-weight=\"700\">0-5 N/S</text><rect x=\"90\" y=\"32\" width=\"110\" height=\"30\" rx=\"0\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"145.0\" y=\"51\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\">Equatorial low</text><rect x=\"200\" y=\"32\" width=\"110\" height=\"30\" rx=\"0\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"255.0\" y=\"51\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\">Doldrums, calm</text><rect x=\"10\" y=\"62\" width=\"80\" height=\"30\" rx=\"0\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"50.0\" y=\"81\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\" font-weight=\"700\">30 N/S</text><rect x=\"90\" y=\"62\" width=\"110\" height=\"30\" rx=\"0\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"145.0\" y=\"81\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\">Subtropical high</text><rect x=\"200\" y=\"62\" width=\"110\" height=\"30\" rx=\"0\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"255.0\" y=\"81\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\">Horse latitudes</text><rect x=\"10\" y=\"92\" width=\"80\" height=\"30\" rx=\"0\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"50.0\" y=\"111\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\" font-weight=\"700\">60 N/S</text><rect x=\"90\" y=\"92\" width=\"110\" height=\"30\" rx=\"0\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"145.0\" y=\"111\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\">Subpolar low</text><rect x=\"200\" y=\"92\" width=\"110\" height=\"30\" rx=\"0\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"255.0\" y=\"111\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\">Westerlies meet polar</text><rect x=\"10\" y=\"122\" width=\"80\" height=\"30\" rx=\"0\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"50.0\" y=\"141\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\" font-weight=\"700\">90 N/S</text><rect x=\"90\" y=\"122\" width=\"110\" height=\"30\" rx=\"0\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"145.0\" y=\"141\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\">Polar high</text><rect x=\"200\" y=\"122\" width=\"110\" height=\"30\" rx=\"0\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"255.0\" y=\"141\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\">Polar easterlies</text></svg><p>Pressure rises where air sinks and falls where air rises. <b>Thermal</b> causes explain the equatorial low and polar highs. <b>Dynamic</b> causes (Earth's spin, sinking air) explain the subtropical highs and subpolar lows. Belts shift north and south with the Sun, about 5 to 10 degrees.</p>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "Coriolis force and wind direction",
+   "b": "<p>Earth's rotation deflects moving air to the <b>right</b> in the northern hemisphere and to the <b>left</b> in the southern (<b>Ferrel's law</b>). The force is zero at the equator and greatest at the poles.</p><p>Winds are named by where they come from. A westerly comes from the west. Winds blow from high to low pressure, and the closer the isobars, the stronger the wind.</p>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "Planetary winds",
+   "b": "<svg class=\"d\" viewBox=\"0 0 320 128\"><rect x=\"10\" y=\"6\" width=\"80\" height=\"26\" rx=\"6\" fill=\"#f1e4c6\" stroke=\"#a8792a\" stroke-width=\"1.5\"/><text x=\"50.0\" y=\"23\" fill=\"#7d5a1c\" font-size=\"11\" text-anchor=\"middle\" font-weight=\"700\">Wind</text><rect x=\"90\" y=\"6\" width=\"60\" height=\"26\" rx=\"6\" fill=\"#f1e4c6\" stroke=\"#a8792a\" stroke-width=\"1.5\"/><text x=\"120.0\" y=\"23\" fill=\"#7d5a1c\" font-size=\"11\" text-anchor=\"middle\" font-weight=\"700\">Lat.</text><rect x=\"150\" y=\"6\" width=\"160\" height=\"26\" rx=\"6\" fill=\"#f1e4c6\" stroke=\"#a8792a\" stroke-width=\"1.5\"/><text x=\"230.0\" y=\"23\" fill=\"#7d5a1c\" font-size=\"11\" text-anchor=\"middle\" font-weight=\"700\">Direction (N hemisphere)</text><rect x=\"10\" y=\"32\" width=\"80\" height=\"30\" rx=\"0\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"50.0\" y=\"51\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\" font-weight=\"700\">Trades</text><rect x=\"90\" y=\"32\" width=\"60\" height=\"30\" rx=\"0\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"120.0\" y=\"51\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\">5-30</text><rect x=\"150\" y=\"32\" width=\"160\" height=\"30\" rx=\"0\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"230.0\" y=\"51\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\">From north-east</text><rect x=\"10\" y=\"62\" width=\"80\" height=\"30\" rx=\"0\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"50.0\" y=\"81\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\" font-weight=\"700\">Westerlies</text><rect x=\"90\" y=\"62\" width=\"60\" height=\"30\" rx=\"0\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"120.0\" y=\"81\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\">30-60</text><rect x=\"150\" y=\"62\" width=\"160\" height=\"30\" rx=\"0\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"230.0\" y=\"81\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\">From south-west</text><rect x=\"10\" y=\"92\" width=\"80\" height=\"30\" rx=\"0\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"50.0\" y=\"111\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\" font-weight=\"700\">Polar east.</text><rect x=\"90\" y=\"92\" width=\"60\" height=\"30\" rx=\"0\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"120.0\" y=\"111\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\">60-90</text><rect x=\"150\" y=\"92\" width=\"160\" height=\"30\" rx=\"0\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"230.0\" y=\"111\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\">From north-east</text></svg><p><b>Trade winds</b> blow towards the equator and carry steady weather. <b>Westerlies</b> are strong and stormy in the southern oceans: Roaring Forties, Furious Fifties, Screaming Sixties. <b>Polar easterlies</b> are cold and dry.</p>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "Three-cell model",
+   "b": "<svg class=\"d\" viewBox=\"0 0 320 156\"><rect x=\"10\" y=\"6\" width=\"80\" height=\"44\" rx=\"6\" fill=\"#dceaec\" stroke=\"#2f6f7a\" stroke-width=\"1.5\"/><text x=\"50.0\" y=\"32.0\" fill=\"#2f6f7a\" font-size=\"11\" text-anchor=\"middle\" font-weight=\"700\">Polar cell</text><rect x=\"96\" y=\"6\" width=\"214\" height=\"44\" rx=\"6\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"203.0\" y=\"32.0\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\">60-90: cold air sinks at pole, flows out as easterlies</text><rect x=\"10\" y=\"56\" width=\"80\" height=\"44\" rx=\"6\" fill=\"#f1e4c6\" stroke=\"#a8792a\" stroke-width=\"1.5\"/><text x=\"50.0\" y=\"82.0\" fill=\"#7d5a1c\" font-size=\"11\" text-anchor=\"middle\" font-weight=\"700\">Ferrel cell</text><rect x=\"96\" y=\"56\" width=\"214\" height=\"44\" rx=\"6\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"203.0\" y=\"82.0\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\">30-60: indirect cell, surface westerlies</text><rect x=\"10\" y=\"106\" width=\"80\" height=\"44\" rx=\"6\" fill=\"#f4dcd5\" stroke=\"#a3362a\" stroke-width=\"1.5\"/><text x=\"50.0\" y=\"132.0\" fill=\"#a3362a\" font-size=\"11\" text-anchor=\"middle\" font-weight=\"700\">Hadley cell</text><rect x=\"96\" y=\"106\" width=\"214\" height=\"44\" rx=\"6\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"203.0\" y=\"132.0\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\">0-30: rises at ITCZ, sinks at 30, trade winds</text></svg><p>At the <b>ITCZ</b> (Inter-Tropical Convergence Zone) trades from both hemispheres meet and rise, forming huge cloud and rain bands. Its seasonal shift north over India is central to the monsoon.</p>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "Jet streams",
+   "b": "<svg class=\"d\" viewBox=\"0 0 320 150\"><rect x=\"10\" y=\"8\" width=\"300\" height=\"32\" rx=\"6\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"160\" y=\"29\" fill=\"#5d6474\" font-size=\"11\" text-anchor=\"middle\" font-weight=\"700\">Tropopause, about 9 to 14 km</text><path d=\"M30 80 Q100 55 160 80 T290 70\" fill=\"none\" stroke=\"#2f6f7a\" stroke-width=\"5\"/><path d=\"M270 62 L290 70 L270 78\" fill=\"none\" stroke=\"#2f6f7a\" stroke-width=\"3\"/><text x=\"160\" y=\"100\" fill=\"#2f6f7a\" font-size=\"10\" text-anchor=\"middle\" font-weight=\"700\">Jet stream: narrow river of fast air, 150 to 400 km/h</text><text x=\"160\" y=\"118\" fill=\"#5d6474\" font-size=\"10\" text-anchor=\"middle\">Rossby waves: its meanders, bringing cold and warm air</text><text x=\"160\" y=\"136\" fill=\"#5d6474\" font-size=\"10\" text-anchor=\"middle\">Flows west to east (except the tropical easterly jet)</text></svg><svg class=\"d\" viewBox=\"0 0 320 144\"><rect x=\"10\" y=\"6\" width=\"105\" height=\"40\" rx=\"6\" fill=\"#f1e4c6\" stroke=\"#a8792a\" stroke-width=\"1.5\"/><text x=\"62.5\" y=\"30.0\" fill=\"#7d5a1c\" font-size=\"11\" text-anchor=\"middle\" font-weight=\"700\">Polar front jet</text><rect x=\"121\" y=\"6\" width=\"189\" height=\"40\" rx=\"6\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"215.5\" y=\"30.0\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\">Temperate, 40-60 degrees, changes position</text><rect x=\"10\" y=\"52\" width=\"105\" height=\"40\" rx=\"6\" fill=\"#dceaec\" stroke=\"#2f6f7a\" stroke-width=\"1.5\"/><text x=\"62.5\" y=\"76.0\" fill=\"#2f6f7a\" font-size=\"11\" text-anchor=\"middle\" font-weight=\"700\">Subtropical westerly</text><rect x=\"121\" y=\"52\" width=\"189\" height=\"40\" rx=\"6\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"215.5\" y=\"76.0\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\">About 30 N, 12 km, winter, splits at Himalaya</text><rect x=\"10\" y=\"98\" width=\"105\" height=\"40\" rx=\"6\" fill=\"#f4dcd5\" stroke=\"#a3362a\" stroke-width=\"1.5\"/><text x=\"62.5\" y=\"122.0\" fill=\"#a3362a\" font-size=\"11\" text-anchor=\"middle\" font-weight=\"700\">Tropical easterly</text><rect x=\"121\" y=\"98\" width=\"189\" height=\"40\" rx=\"6\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"215.5\" y=\"122.0\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\">Summer, 8-18 N, east to west, aids monsoon burst</text></svg><p>Jets sit just below the tropopause, where air temperature contrasts are sharp.</p>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "Local winds",
+   "b": "<p><b>Land and sea breeze</b>: day sea breeze, night land breeze. <b>Valley and mountain winds</b>. <b>Katabatic</b>: cold air draining downslope. <b>Foehn</b> (Alps) and <b>Chinook</b> (Rockies): warm, dry downslope winds that melt snow. <b>Mistral</b>: cold, from the Alps to the Mediterranean. <b>Harmattan</b>: dry dust wind from the Sahara.</p>"
+  },
+  {
+   "tag": "Debate",
+   "h": "Is the jet stream weakening?",
+   "b": "<p>Some studies link a warming Arctic to a wavier polar jet, with longer cold spells and heat domes. Others find the evidence mixed. The safe exam position: it is a research debate, but jets clearly shape extremes such as western disturbances and heat waves.</p>"
+  },
+  {
+   "tag": "Indian angle",
+   "h": "Jets and Indian weather",
+   "b": "<p>In winter the <b>subtropical westerly jet</b> shifts south of the Himalaya and steers <b>western disturbances</b>, giving rain and snow in the north-west (good for rabi wheat). In summer it moves north of the Tibetan plateau and the <b>tropical easterly jet</b> helps the <b>burst</b> of the monsoon.</p><p>Local winds: <b>Loo</b> in north India, <b>Kalbaisakhi</b> (Nor'wester) in Bengal, <b>Mango showers</b> in Kerala and Karnataka.</p>"
+  },
+  {
+   "tag": "Exam lens",
+   "cls": "exam",
+   "h": "How to write this",
+   "b": "<div class=\"box\"><h4>Likely questions</h4><p>\"What are jet streams and how do they affect the weather and climate of India?\" (10 marks)</p><p>\"Explain the general circulation of the atmosphere.\" (15 marks)</p></div><p><b>Structure:</b> pressure belts with cause; the three cells; winds; jets; then India (western disturbances, monsoon burst).</p><p><b>Prelims tip:</b> the tropical easterly jet is a summer feature; Ferrel's law gives right deflection in the northern hemisphere; Chinook is in North America.</p>"
+  }
+ ],
+ "quiz": [
+  {
+   "q": "The ITCZ is a zone where",
+   "o": [
+    "Trade winds converge",
+    "Westerlies diverge",
+    "Polar winds meet jets",
+    "Doldrums end"
+   ],
+   "a": 0,
+   "w": "Air rises and rains heavily there."
+  },
+  {
+   "q": "Winds in the northern hemisphere deflect to the",
+   "o": [
+    "Left",
+    "North",
+    "South",
+    "Right"
+   ],
+   "a": 3,
+   "w": "Ferrel's law; opposite in the south."
+  },
+  {
+   "q": "Roaring Forties are",
+   "o": [
+    "Trade winds",
+    "Strong westerlies",
+    "Polar easterlies",
+    "Monsoon winds"
+   ],
+   "a": 1,
+   "w": "Westerlies blowing over southern oceans near 40 S."
+  },
+  {
+   "q": "Western disturbances are steered by",
+   "o": [
+    "Tropical easterly jet",
+    "Subtropical westerly jet",
+    "Polar front jet",
+    "Walker circulation"
+   ],
+   "a": 1,
+   "w": "In winter the jet carries Mediterranean systems to India."
+  },
+  {
+   "q": "Chinook is a",
+   "o": [
+    "Cold wind from the Alps",
+    "Dust wind of the Sahara",
+    "Cold wind of Siberia",
+    "Warm dry downslope wind in the Rockies"
+   ],
+   "a": 3,
+   "w": "Chinook means snow-eater."
+  },
+  {
+   "q": "Doldrums are",
+   "o": [
+    "Calm zones near the equator",
+    "Windy zones at 60 degrees",
+    "Dry belts at 30 degrees",
+    "Cold polar belts"
+   ],
+   "a": 0,
+   "w": "Light winds in the equatorial low."
+  },
+  {
+   "q": "The Hadley cell lies between",
+   "o": [
+    "30 and 60 degrees",
+    "60 and 90 degrees",
+    "0 and 30 degrees",
+    "0 and 90 degrees"
+   ],
+   "a": 2,
+   "w": "It includes the trade winds."
+  },
+  {
+   "q": "Tropical easterly jet is associated with",
+   "o": [
+    "Winter rain in Punjab",
+    "Cold waves in Delhi",
+    "Nor'westers",
+    "Burst of the monsoon"
+   ],
+   "a": 3,
+   "w": "It strengthens in summer over peninsular India."
+  },
+  {
+   "q": "Kalbaisakhi is a",
+   "o": [
+    "Pre-monsoon thunderstorm in Bengal",
+    "Winter cold wave",
+    "Hot wind of Punjab",
+    "Monsoon withdrawal rain"
+   ],
+   "a": 0,
+   "w": "It is also called Nor'wester."
+  },
+  {
+   "q": "Subtropical high pressure belts are mainly",
+   "o": [
+    "Thermal in origin",
+    "Orographic",
+    "Dynamic in origin",
+    "Cyclonic"
+   ],
+   "a": 2,
+   "w": "They arise from sinking air, not from cold surface."
+  }
+ ],
+ "sources": [
+  "NCERT Class 11, Fundamentals of Physical Geography, ch. 10",
+  "G.C. Leong, Certificate Physical and Human Geography",
+  "PYQ: jet streams and Indian weather, GS I"
+ ],
+ "verified": "2026-11-10"
+}
