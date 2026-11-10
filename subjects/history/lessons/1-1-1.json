@@ -1,0 +1,176 @@
+{
+ "id": "1-1-1",
+ "title": "Vijayanagara and the Bahmanis",
+ "emoji": "🏯",
+ "cards": [
+  {
+   "tag": "Why this matters",
+   "h": "The south rises",
+   "b": "<p>Two rival states shaped the Deccan for two centuries. UPSC asks about Krishnadevaraya, Hampi’s architecture, the Bahmani administration and the battle of Talikota.</p>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "Vijayanagara foundation",
+   "b": "<p>Founded in 1336 by <b>Harihara and Bukka</b> of the Sangama dynasty on the Tungabhadra, with the sage Vidyaranya’s support. Four dynasties: Sangama, Saluva, Tuluva, Aravidu. Capital Hampi. It was the “bulwark” of Hindu South against the north.</p>"
+  },
+  {
+   "tag": "Key idea",
+   "h": "Krishnadevaraya (1509 to 29)",
+   "b": "<p>Tuluva dynasty’s greatest king. Defeated Orissa’s Gajapati and Bijapur; built Hazara Rama and Vittala temples; the <b>Ashtadiggajas</b> (eight poets) at court; wrote <i>Amuktamalyada</i> (Telugu). Visitors: Domingo Paes and Fernao Nuniz (Portuguese) praised Hampi. Allowed Portuguese trade and horses.</p>"
+  },
+  {
+   "tag": "Key idea",
+   "h": "Administration and economy",
+   "b": "<p>Kings with the <i>mahamandaleswara</i> and <i>nayaks</i>. <b>Nayankara system</b>: military chiefs held land and supplied troops. <i>Ayagar</i> system in villages (twelve officials). Revenue from land and trade. Seaborne trade: horses from Arabia, cloth and spices exported; ports Bhatkal, Mangalore. Temple endowments and irrigation (tanks and canals). Gold coin, the <i>varaha</i> or <i>pagoda</i>.</p>"
+  },
+  {
+   "tag": "Key idea",
+   "h": "The Bahmani Sultanate",
+   "b": "<p>Founded in 1347 by <b>Alauddin Hasan Bahman Shah</b> in rebellion against Muhammad bin Tughlaq; capital Gulbarga, later Bidar. <b>Muhammad Gawan</b>, prime minister under Muhammad III, reorganised provinces (<i>tarafs</i>), the army and revenue; the Madrasa at Bidar; he was executed in 1481 (nobles’ rivalry: <i>Deccanis</i> vs <i>Afaqis</i>). Broke up into five: Bijapur (Adil Shah), Golconda (Qutb Shah), Ahmadnagar (Nizam Shah), Berar (Imad Shah), Bidar (Barid Shah) by about 1518.</p>"
+  },
+  {
+   "tag": "Key event",
+   "h": "Talikota, 1565",
+   "b": "<p>The combined armies of Bijapur, Ahmadnagar, Golconda and Bidar defeated Vijayanagara’s Rama Raya at <b>Rakshasa-Tangadi (Talikota)</b>, 1565. Hampi was sacked for months. The empire survived in a smaller form under the Aravidu dynasty at Penukonda and Chandragiri until the 17th century. Reasons: Rama Raya’s overreach in Deccan politics, betrayal by Muslim generals in his army, and the alliance.</p>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "Culture and art",
+   "b": "<p>Vijayanagara: Hampi (UNESCO, 1986), Vittala temple with the stone chariot, Virupaksha temple, Lotus Mahal (Indo-Islamic). Kannada, Telugu, Tamil and Sanskrit flourished. Bahmani-Deccani: Gol Gumbaz (Bijapur), Golconda Fort, Charminar (Hyderabad, 1591), Madrasa of Mahmud Gawan (Bidar). Dakhni Urdu literature and Deccani painting. Mixed culture both ways.</p>"
+  },
+  {
+   "tag": "Debate",
+   "h": "Hindu kingdom or composite state?",
+   "b": "<p>Nineteenth-century writers (Robert Sewell, <i>A Forgotten Empire</i>, 1900) framed it as a Hindu resistance. Later historians (Burton Stein, Phillip Wagoner) note Persianate court dress and titles (“Hindu Sultan”, <i>Hindu Suratrana</i>) and shared military practice. Richard Eaton (<i>A Social History of the Deccan</i>) stresses cultural exchange.</p>"
+  },
+  {
+   "tag": "Indian angle",
+   "h": "Why it matters today",
+   "b": "<p>Hampi is a living site with tourists and temple festivals; its stone chariot appears on the Rs 50 note. The Karnataka–Telangana–Andhra identity draws on both states. Water management at Hampi inspires modern tank restoration. The UNESCO status requires balance between tourism and conservation.</p>"
+  },
+  {
+   "tag": "Exam lens",
+   "h": "How to answer",
+   "b": "<ul><li>“Vijayanagara administration: nayankara system.”</li><li>“Why did Vijayanagara fall at Talikota?”</li><li>“Mahmud Gawan’s reforms.”</li><li>Prelims tip: Harihara-Bukka 1336; Bahmani 1347; Gawan; Krishnadevaraya 1509 to 29; Talikota 1565; Amuktamalyada; Paes and Nuniz.</li></ul>",
+   "cls": "exam"
+  }
+ ],
+ "quiz": [
+  {
+   "q": "Vijayanagara was founded in",
+   "o": [
+    "1347",
+    "1336",
+    "1206",
+    "1509"
+   ],
+   "a": 1,
+   "w": "By Harihara and Bukka."
+  },
+  {
+   "q": "Which was the greatest Vijayanagara ruler?",
+   "o": [
+    "Krishnadevaraya",
+    "Harihara I",
+    "Rama Raya",
+    "Deva Raya II"
+   ],
+   "a": 0,
+   "w": "Of the Tuluva dynasty."
+  },
+  {
+   "q": "Amuktamalyada was written by",
+   "o": [
+    "Allasani Peddana",
+    "Tenali Rama",
+    "Nuniz",
+    "Krishnadevaraya"
+   ],
+   "a": 3,
+   "w": "In Telugu."
+  },
+  {
+   "q": "The Nayankara system was",
+   "o": [
+    "A tax on trade",
+    "A court of law",
+    "A military land-grant system",
+    "A currency"
+   ],
+   "a": 2,
+   "w": "Nayakas supplied troops."
+  },
+  {
+   "q": "The Bahmani Sultanate was founded by",
+   "o": [
+    "Muhammad Gawan",
+    "Alauddin Hasan Bahman Shah",
+    "Firuz Shah",
+    "Yusuf Adil"
+   ],
+   "a": 1,
+   "w": "In 1347."
+  },
+  {
+   "q": "Mahmud Gawan was",
+   "o": [
+    "Prime minister of the Bahmanis",
+    "A Vijayanagara general",
+    "A Portuguese envoy",
+    "A Mughal governor"
+   ],
+   "a": 0,
+   "w": "Under Muhammad III."
+  },
+  {
+   "q": "The battle of Talikota was fought in",
+   "o": [
+    "1526",
+    "1347",
+    "1757",
+    "1565"
+   ],
+   "a": 3,
+   "w": "Rama Raya was defeated."
+  },
+  {
+   "q": "Which Portuguese visitor wrote on Hampi under Krishnadevaraya?",
+   "o": [
+    "Nicolo Conti",
+    "Abdur Razzaq",
+    "Domingo Paes",
+    "Barbosa"
+   ],
+   "a": 2,
+   "w": "Fernao Nuniz also wrote."
+  },
+  {
+   "q": "Hampi was designated a UNESCO site in",
+   "o": [
+    "1972",
+    "1986",
+    "2004",
+    "2014"
+   ],
+   "a": 1,
+   "w": "As Group of Monuments at Hampi."
+  },
+  {
+   "q": "Charminar was built in",
+   "o": [
+    "Hyderabad by Quli Qutb Shah",
+    "Bijapur by Adil Shah",
+    "Bidar by Barid Shah",
+    "Delhi by Alauddin"
+   ],
+   "a": 0,
+   "w": "In 1591."
+  }
+ ],
+ "sources": [
+  "Satish Chandra, Medieval India",
+  "Spectrum; Nitin Singhania",
+  "Richard Eaton, A Social History of the Deccan"
+ ],
+ "verified": "2026-11-10"
+}

@@ -1,0 +1,169 @@
+{
+ "id": "2-0-3",
+ "title": "Alexander the Great",
+ "emoji": "🐎",
+ "cards": [
+  {
+   "tag": "Why this matters",
+   "h": "He conquered the world by 32 and then his army said no more",
+   "b": "<p>Alexander of Macedon became king at 20 and died at 32. In between, he marched about 20,000 km, defeated the mighty Persian Empire and reached the edge of India.</p><p>Why did he stop? And how did he die? Read on.</p>"
+  },
+  {
+   "tag": "The story",
+   "h": "The boy from Pella",
+   "b": "<p>Alexander was born in 356 BCE in Pella, Macedon. His father, <b>Philip II</b>, had built a mighty army. His tutor was the philosopher <b>Aristotle</b>. He tamed the wild horse <b>Bucephalus</b> as a boy.</p><p>In 336 BCE Philip was assassinated and Alexander became king.</p>"
+  },
+  {
+   "tag": "The turning point",
+   "h": "Beating Persia",
+   "b": "<svg class=\"d\" viewBox=\"0 0 320 180\"><line x1=\"14\" y1=\"10\" x2=\"14\" y2=\"170\" stroke=\"#a8792a\" stroke-width=\"2\"/><circle cx=\"14\" cy=\"22\" r=\"5\" fill=\"#f1e4c6\" stroke=\"#a8792a\" stroke-width=\"2\"/><text x=\"28\" y=\"26\" font-size=\"11\" font-weight=\"700\" fill=\"#a8792a\">334 BCE</text><text x=\"112\" y=\"26\" font-size=\"11\" fill=\"#1d2433\">Granicus: first victory</text><circle cx=\"14\" cy=\"50\" r=\"5\" fill=\"#f1e4c6\" stroke=\"#a8792a\" stroke-width=\"2\"/><text x=\"28\" y=\"54\" font-size=\"11\" font-weight=\"700\" fill=\"#a8792a\">333</text><text x=\"112\" y=\"54\" font-size=\"11\" fill=\"#1d2433\">Issus: Darius III flees</text><circle cx=\"14\" cy=\"78\" r=\"5\" fill=\"#f1e4c6\" stroke=\"#a8792a\" stroke-width=\"2\"/><text x=\"28\" y=\"82\" font-size=\"11\" font-weight=\"700\" fill=\"#a8792a\">331</text><text x=\"112\" y=\"82\" font-size=\"11\" fill=\"#1d2433\">Gaugamela: Persia broken</text><circle cx=\"14\" cy=\"106\" r=\"5\" fill=\"#f1e4c6\" stroke=\"#a8792a\" stroke-width=\"2\"/><text x=\"28\" y=\"110\" font-size=\"11\" font-weight=\"700\" fill=\"#a8792a\">330</text><text x=\"112\" y=\"110\" font-size=\"11\" fill=\"#1d2433\">Persepolis burned</text><circle cx=\"14\" cy=\"134\" r=\"5\" fill=\"#f1e4c6\" stroke=\"#a8792a\" stroke-width=\"2\"/><text x=\"28\" y=\"138\" font-size=\"11\" font-weight=\"700\" fill=\"#a8792a\">326</text><text x=\"112\" y=\"138\" font-size=\"11\" fill=\"#1d2433\">Hydaspes: Porus</text><circle cx=\"14\" cy=\"162\" r=\"5\" fill=\"#f1e4c6\" stroke=\"#a8792a\" stroke-width=\"2\"/><text x=\"28\" y=\"166\" font-size=\"11\" font-weight=\"700\" fill=\"#a8792a\">323</text><text x=\"112\" y=\"166\" font-size=\"11\" fill=\"#1d2433\">Dies in Babylon</text></svg><p>Alexander's army was small but skilled and he led from the front. At Gaugamela (331 BCE) he beat a much larger Persian force. He took Babylon and Susa, and burned Persepolis in 330 BCE.</p>"
+  },
+  {
+   "tag": "The story",
+   "h": "To the end of the known world",
+   "b": "<p>He marched through Afghanistan and Central Asia, and into the Punjab. In 326 BCE, at the river Hydaspes (Jhelum), he defeated King <b>Porus</b>. Greek writers say he was so impressed that he gave Porus's land back.</p><p>Then, at the river Hyphasis (Beas), his weary soldiers refused to go on. After years of fighting, they wanted to go home.</p>"
+  },
+  {
+   "tag": "The twist",
+   "h": "Death in Babylon",
+   "b": "<p>Alexander died on about 10-11 June 323 BCE, in Babylon, aged 32, after a fever of about ten days. Causes debated: typhoid, malaria, alcohol, poison. Many theories, no proof.</p><p>Asked who should inherit, he supposedly said, 'to the strongest'. Historians doubt it. His generals, the <b>Diadochi</b>, split the empire. Ptolemy took Egypt, Seleucus most of Asia.</p>"
+  },
+  {
+   "tag": "The story",
+   "h": "What he left behind",
+   "b": "<p>Alexander founded many cities named Alexandria. The one in Egypt became a centre of learning. Greek language and culture spread across Asia, giving the 'Hellenistic' world.</p><p>He also left chaos, destruction and thousands dead. Admirers and critics have fought about him for 2,000 years.</p>"
+  },
+  {
+   "tag": "Myth vs fact",
+   "h": "Did he conquer India?",
+   "b": "<b>Myth:</b> Alexander conquered India.<b>Fact:</b> he reached the Punjab, the north-west edge, and spent about two years there. He turned back. No Indian source records him by name. Greek writers are our main evidence.<p>It is true he never lost a major battle, but Hydaspes was costly, and his men were exhausted.</p>"
+  },
+  {
+   "tag": "Indian angle",
+   "h": "Meanwhile in India…",
+   "b": "<p>The vacuum that Chandragupta filled</p>"
+  },
+  {
+   "tag": "Recap",
+   "h": "Five takeaways, two puzzles",
+   "b": "<p><b>Five things to remember</b></p><ol><li>Alexander ruled Macedon from 336 and died in 323 BCE.</li><li>He beat Persia at Issus and Gaugamela.</li><li>At the Hydaspes (326 BCE) he beat Porus.</li><li>His death is unexplained.</li><li>The Mauryas rose soon after.</li></ol><p><b>Think about it</b></p><ul><li>Is 'the Great' the right title for him?</li><li>Why might Indian sources not mention him?</li></ul>",
+   "cls": "exam"
+  }
+ ],
+ "quiz": [
+  {
+   "q": "Alexander's tutor was...",
+   "o": [
+    "Plato",
+    "Socrates",
+    "Aristotle",
+    "Herodotus"
+   ],
+   "a": 2,
+   "w": "Taught him around age 13."
+  },
+  {
+   "q": "Alexander's father was...",
+   "o": [
+    "Philip II",
+    "Darius III",
+    "Porus",
+    "Seleucus"
+   ],
+   "a": 0,
+   "w": "Murdered in 336 BCE."
+  },
+  {
+   "q": "The decisive Persian defeat was...",
+   "o": [
+    "Marathon",
+    "Plassey",
+    "Thermopylae",
+    "Gaugamela"
+   ],
+   "a": 3,
+   "w": "331 BCE."
+  },
+  {
+   "q": "Alexander's Indian opponent...",
+   "o": [
+    "Ashoka",
+    "Porus",
+    "Ambhi",
+    "Bimbisara"
+   ],
+   "a": 1,
+   "w": "At the Hydaspes."
+  },
+  {
+   "q": "Hydaspes is the modern...",
+   "o": [
+    "Jhelum",
+    "Ganga",
+    "Beas",
+    "Narmada"
+   ],
+   "a": 0,
+   "w": "A Punjab river."
+  },
+  {
+   "q": "Why did he turn back?",
+   "o": [
+    "He ran out of gold",
+    "Persia attacked",
+    "Porus beat him",
+    "His army refused to go on"
+   ],
+   "a": 3,
+   "w": "At the Beas."
+  },
+  {
+   "q": "He died in...",
+   "o": [
+    "Pella",
+    "Babylon",
+    "Athens",
+    "Taxila"
+   ],
+   "a": 1,
+   "w": "In 323 BCE."
+  },
+  {
+   "q": "His generals are called...",
+   "o": [
+    "Satraps",
+    "Helots",
+    "Diadochi",
+    "Praetors"
+   ],
+   "a": 2,
+   "w": "The Successors."
+  },
+  {
+   "q": "Who became the Seleucid founder?",
+   "o": [
+    "Ptolemy",
+    "Porus",
+    "Chandragupta",
+    "Seleucus"
+   ],
+   "a": 3,
+   "w": "Took Asia."
+  },
+  {
+   "q": "Megasthenes was...",
+   "o": [
+    "A Greek envoy at the Mauryan court",
+    "A Roman consul",
+    "An Indian poet",
+    "A Persian king"
+   ],
+   "a": 0,
+   "w": "Wrote Indika."
+  }
+ ],
+ "sources": [
+  "Bosworth, Conquest and Empire (1988); Arrian, Anabasis; Plutarch, Alexander; Thapar, Asoka and the Decline of the Mauryas"
+ ],
+ "verified": "2026-11-10"
+}

@@ -1,0 +1,176 @@
+{
+ "id": "2-1-1",
+ "title": "Painting: Ajanta to the Miniature Schools",
+ "emoji": "🎨",
+ "cards": [
+  {
+   "tag": "Why this matters",
+   "h": "Colour and story on walls and paper",
+   "b": "<p>Painting questions in Prelims ask for school, region and theme. In Mains they ask about Mughal and Rajput contrast or Company paintings.</p>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "Prehistoric and early",
+   "b": "<p>Bhimbetka (Madhya Pradesh), rock paintings of the Stone Age, a UNESCO site (2003). Ajanta (Maharashtra), 2nd century BCE to c. 480 CE: Buddhist cave murals. <i>Fresco secco</i> technique. Themes: Jataka tales, Padmapani and Vajrapani, the <i>Mother and Child</i> panel. Bagh caves (Madhya Pradesh). Sittanavasal (Jain, Tamil Nadu). Ellora has few paintings.</p>"
+  },
+  {
+   "tag": "Key idea",
+   "h": "Pala, Jain and Pre-Mughal",
+   "b": "<ul><li><b>Pala</b> (Buddhist palm-leaf manuscripts of Nalanda, Vikramashila).</li><li><b>Jain</b> western Indian manuscripts (Kalpasutra, Gujarat), with bold lines and large eyes, often silver and gold ink.</li><li><b>Sultanate</b>: Persian influence, e.g. Nimatnama.</li><li><b>Vijayanagara</b>: Lepakshi murals.</li></ul>"
+  },
+  {
+   "tag": "Key idea",
+   "h": "Mughal painting",
+   "b": "<p>Rooted in Persian miniature. <b>Humayun</b> brought Mir Sayyid Ali and Abd as-Samad. <b>Akbar</b>: <i>Hamzanama</i>; <i>Razmnama</i>; Daswanth, Basawan. <b>Jahangir</b>: naturalism, portraits, birds and flowers; Ustad Mansur (falcons, flowers); Bishandas. <b>Shah Jahan</b>: refined, formal. <b>Aurangzeb</b>: court patronage fell; artists left for provincial courts. Features: realism, perspective, portraits, durbar scenes, borders.</p>"
+  },
+  {
+   "tag": "Key idea",
+   "h": "Rajasthani and Pahari schools",
+   "b": "<p><b>Rajasthani</b> (Mewar, Bundi, Kishangarh, Jaipur, Marwar): bold colours, Ragamala, Krishna Lila, Gita Govinda. Kishangarh: Bani Thani (Nihal Chand), long eyes and slender faces.</p><p><b>Pahari</b> (Basohli, Guler, Kangra): soft colours, lyrical, Radha-Krishna; Kangra painting under Raja Sansar Chand, 18th century; Nainsukh of Guler. Basohli: bold and early (17th century).</p>"
+  },
+  {
+   "tag": "Key idea",
+   "h": "Deccan, Company and modern",
+   "b": "<ul><li><b>Deccani</b>: Bijapur, Golconda, Ahmednagar; rich colours, Ragamala.</li><li><b>Company school</b> (late 18th century): Indian artists for British patrons, with natural history subjects; Patna Kalam.</li><li><b>Raja Ravi Varma</b>: oleo-prints, Hindu gods in realistic European style.</li><li><b>Bengal School</b> (Abanindranath Tagore, <i>Bharat Mata</i>); Nandalal Bose (Constitution illustrations); Amrita Sher-Gil; Progressive Artists’ Group, 1947 (Souza, Husain, Raza).</li></ul>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "Folk paintings",
+   "b": "<p>Madhubani (Bihar, GI), Warli (Maharashtra, geometric on mud walls), Pattachitra (Odisha, West Bengal), Kalamkari (Andhra, pen work), Tanjore, Phad (Rajasthan scroll), Gond, Kalighat, Pithora, Cheriyal scrolls. Many have GI tags. Padma awards often go to these artists (e.g. Jivya Soma Mashe, Warli).</p>"
+  },
+  {
+   "tag": "Debate",
+   "h": "Who gets credit: patron or painter?",
+   "b": "<p>Court painting names painters rarely; the studio, <i>karkhana</i>, worked under a patron. Mughal paintings carried the emperor’s taste. The Bengal School turned to Asian spiritual tradition as an anti-colonial act, while Ravi Varma’s mass prints shaped popular religion. Debate: nationalism versus realism.</p>"
+  },
+  {
+   "tag": "Indian angle",
+   "h": "Why it matters today",
+   "b": "<p>Madhubani on railway stations and the Warli wall art on public buildings link craft to livelihood schemes. GI tags protect makers. The National Gallery of Modern Art (Delhi, 1954) and National Museum hold masterpieces. The “One District One Product” scheme promotes such crafts.</p>"
+  },
+  {
+   "tag": "Exam lens",
+   "h": "How to answer",
+   "b": "<ul><li>“Mughal and Rajput painting: similarities and differences.”</li><li>“Ajanta paintings in the history of Indian art.”</li><li>Prelims tip: Bani Thani = Kishangarh; Hamzanama = Akbar; Kangra = Pahari; Patna Kalam = Company school; Bhimbetka = prehistoric; Ajanta = fresco secco, Buddhist.</li></ul>",
+   "cls": "exam"
+  }
+ ],
+ "quiz": [
+  {
+   "q": "Bhimbetka rock paintings are in",
+   "o": [
+    "Maharashtra",
+    "Odisha",
+    "Madhya Pradesh",
+    "Rajasthan"
+   ],
+   "a": 2,
+   "w": "A UNESCO World Heritage Site."
+  },
+  {
+   "q": "Ajanta paintings belong to",
+   "o": [
+    "Jain legends only",
+    "Buddhist themes, including Jataka tales",
+    "Islamic themes",
+    "Colonial subjects"
+   ],
+   "a": 1,
+   "w": "They are cave murals."
+  },
+  {
+   "q": "Hamzanama was illustrated under",
+   "o": [
+    "Akbar",
+    "Jahangir",
+    "Shah Jahan",
+    "Humayun"
+   ],
+   "a": 0,
+   "w": "It is a major Mughal manuscript."
+  },
+  {
+   "q": "Ustad Mansur was famous for",
+   "o": [
+    "Durbar scenes",
+    "Ragamala",
+    "Calligraphy",
+    "Birds and flowers under Jahangir"
+   ],
+   "a": 3,
+   "w": "Jahangir’s court naturalist painter."
+  },
+  {
+   "q": "Bani Thani is associated with",
+   "o": [
+    "Kangra school",
+    "Basohli school",
+    "Kishangarh school",
+    "Mewar school"
+   ],
+   "a": 2,
+   "w": "Painted by Nihal Chand."
+  },
+  {
+   "q": "Kangra painting belongs to the",
+   "o": [
+    "Rajasthani school",
+    "Pahari school",
+    "Mughal school",
+    "Deccani school"
+   ],
+   "a": 1,
+   "w": "Lyrical Radha-Krishna themes."
+  },
+  {
+   "q": "Who painted Bharat Mata, 1905?",
+   "o": [
+    "Abanindranath Tagore",
+    "Raja Ravi Varma",
+    "Nandalal Bose",
+    "Amrita Sher-Gil"
+   ],
+   "a": 0,
+   "w": "Bengal School."
+  },
+  {
+   "q": "Warli painting is from",
+   "o": [
+    "Bihar",
+    "Odisha",
+    "Andhra Pradesh",
+    "Maharashtra"
+   ],
+   "a": 3,
+   "w": "Geometric forms on mud walls."
+  },
+  {
+   "q": "The Company School of painting was",
+   "o": [
+    "Rajput court painting",
+    "A Mughal court style",
+    "Painting by Indian artists for British patrons",
+    "Cave mural art"
+   ],
+   "a": 2,
+   "w": "Natural history and local life."
+  },
+  {
+   "q": "Who illustrated the original Constitution of India?",
+   "o": [
+    "Raja Ravi Varma",
+    "Nandalal Bose and his students",
+    "M. F. Husain",
+    "Abanindranath Tagore"
+   ],
+   "a": 1,
+   "w": "Santiniketan artists, with Beohar Rammanohar Sinha."
+  }
+ ],
+ "sources": [
+  "Nitin Singhania, Indian Art and Culture",
+  "NCERT, An Introduction to Indian Art (XI)",
+  "Mains-style: Mughal and Rajput painting"
+ ],
+ "verified": "2026-11-10"
+}

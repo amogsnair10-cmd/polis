@@ -1,0 +1,169 @@
+{
+ "id": "1-0-1",
+ "title": "Egypt: Pharaohs, Pyramids and the Afterlife",
+ "emoji": "🔺",
+ "cards": [
+  {
+   "tag": "Why this matters",
+   "h": "Cleopatra lived closer to us than to the pyramids",
+   "b": "<p>Here is a fact to win any chai-time argument. The Great Pyramid was built about 2560 BCE. Cleopatra lived about 2,500 years later. The Moon landing came about 2,000 years after her.</p><p>Egypt is old in a way that is hard to feel. Let us feel it.</p>"
+  },
+  {
+   "tag": "The story",
+   "h": "A gift of the Nile",
+   "b": "<p>Egypt is a thin green strip in a desert. Each summer the Nile flooded, leaving rich black mud. Farming there was easy and predictable, so Egypt grew rich.</p><p>Around <b>3100 BCE</b>, Upper and Lower Egypt were joined under one king. Tradition names him Menes or Narmer. Egyptians called the ruler 'pharaoh' (from <i>per-aa</i>, 'great house') in later times.</p>"
+  },
+  {
+   "tag": "The turning point",
+   "h": "Pyramids",
+   "b": "<svg class=\"d\" viewBox=\"0 0 320 180\"><line x1=\"14\" y1=\"10\" x2=\"14\" y2=\"170\" stroke=\"#a8792a\" stroke-width=\"2\"/><circle cx=\"14\" cy=\"22\" r=\"5\" fill=\"#f1e4c6\" stroke=\"#a8792a\" stroke-width=\"2\"/><text x=\"28\" y=\"26\" font-size=\"11\" font-weight=\"700\" fill=\"#a8792a\">~3100 BCE</text><text x=\"112\" y=\"26\" font-size=\"11\" fill=\"#1d2433\">Egypt unified</text><circle cx=\"14\" cy=\"50\" r=\"5\" fill=\"#f1e4c6\" stroke=\"#a8792a\" stroke-width=\"2\"/><text x=\"28\" y=\"54\" font-size=\"11\" font-weight=\"700\" fill=\"#a8792a\">~2670</text><text x=\"112\" y=\"54\" font-size=\"11\" fill=\"#1d2433\">Step Pyramid of Djoser</text><circle cx=\"14\" cy=\"78\" r=\"5\" fill=\"#f1e4c6\" stroke=\"#a8792a\" stroke-width=\"2\"/><text x=\"28\" y=\"82\" font-size=\"11\" font-weight=\"700\" fill=\"#a8792a\">~2560</text><text x=\"112\" y=\"82\" font-size=\"11\" fill=\"#1d2433\">Great Pyramid of Khufu</text><circle cx=\"14\" cy=\"106\" r=\"5\" fill=\"#f1e4c6\" stroke=\"#a8792a\" stroke-width=\"2\"/><text x=\"28\" y=\"110\" font-size=\"11\" font-weight=\"700\" fill=\"#a8792a\">~1479</text><text x=\"112\" y=\"110\" font-size=\"11\" fill=\"#1d2433\">Hatshepsut becomes king</text><circle cx=\"14\" cy=\"134\" r=\"5\" fill=\"#f1e4c6\" stroke=\"#a8792a\" stroke-width=\"2\"/><text x=\"28\" y=\"138\" font-size=\"11\" font-weight=\"700\" fill=\"#a8792a\">~1332</text><text x=\"112\" y=\"138\" font-size=\"11\" fill=\"#1d2433\">Tutankhamun reigns</text><circle cx=\"14\" cy=\"162\" r=\"5\" fill=\"#f1e4c6\" stroke=\"#a8792a\" stroke-width=\"2\"/><text x=\"28\" y=\"166\" font-size=\"11\" font-weight=\"700\" fill=\"#a8792a\">69-30 BCE</text><text x=\"112\" y=\"166\" font-size=\"11\" fill=\"#1d2433\">Cleopatra VII</text></svg><p>The first pyramid, built for <b>Djoser</b> by his architect <b>Imhotep</b>, stacked six huge steps. Khufu's Great Pyramid at Giza was once about 146 metres tall. It was the tallest human-made structure for nearly 4,000 years.</p>"
+  },
+  {
+   "tag": "The twist",
+   "h": "Who built them?",
+   "b": "<p>Not slaves. At Giza archaeologists found a workers' town with bakeries, breweries and graves. Workers were fed beef, bread and beer, and some were buried near the pyramids with honour.</p><p>Teams of farmers probably joined the work during the Nile flood, when fields were underwater. It was a national project, a bit like paying taxes in labour.</p>"
+  },
+  {
+   "tag": "The story",
+   "h": "The afterlife business",
+   "b": "<p>Egyptians believed the dead went on a journey. The heart was weighed against a feather of the goddess <b>Ma'at</b>. If it was light, you passed to a happy afterlife.</p><p>To keep the body, they made mummies. It took about 70 days and removed the organs. The brain was often pulled out through the nose and thrown away. The heart was left in.</p>"
+  },
+  {
+   "tag": "The story",
+   "h": "Rulers, a boy and a stone",
+   "b": "<b>Hatshepsut</b> ruled as king (about 1479-1458 BCE) and was shown with a beard. <b>Tutankhamun</b> was a minor king, yet his nearly untouched tomb, found by <b>Howard Carter in 1922</b>, held over 5,000 objects.<p>Hieroglyphs were a mystery until the <b>Rosetta Stone</b> (found 1799). Jean-François Champollion cracked them in 1822 by comparing the Egyptian with its Greek text.</p>"
+  },
+  {
+   "tag": "Myth vs fact",
+   "h": "Did a pharaoh's curse kill the Tut team?",
+   "b": "<b>Myth:</b> opening Tutankhamun's tomb brought a deadly curse.<b>Fact:</b> Lord Carnarvon died in 1923 of an infected mosquito bite that turned into blood poisoning. Carter lived until 1939. Studies show people involved in the opening lived about as long as anyone else. The curse was a newspaper sensation."
+  },
+  {
+   "tag": "Indian angle",
+   "h": "Meanwhile in India…",
+   "b": "<p>Egypt and India, in touch</p>"
+  },
+  {
+   "tag": "Recap",
+   "h": "Five takeaways, two puzzles",
+   "b": "<p><b>Five things to remember</b></p><ol><li>Egypt unified about 3100 BCE.</li><li>The Nile's flood made farming reliable.</li><li>Pyramids were built by paid and fed workers, not slaves.</li><li>Mummies and the heart-weighing show Egyptian afterlife beliefs.</li><li>Champollion decoded hieroglyphs in 1822 using the Rosetta Stone.</li></ol><p><b>Think about it</b></p><ul><li>Why would a state want to organise thousands for one tomb?</li><li>What does Egypt's 3,000 years of continuity tell you about change?</li></ul>",
+   "cls": "exam"
+  }
+ ],
+ "quiz": [
+  {
+   "q": "The Nile flooded each...",
+   "o": [
+    "Winter",
+    "Spring only",
+    "Summer",
+    "Never"
+   ],
+   "a": 2,
+   "w": "The annual flood fed the fields."
+  },
+  {
+   "q": "Who built the first pyramid?",
+   "o": [
+    "Imhotep for Djoser",
+    "Khufu himself",
+    "Cleopatra",
+    "Tutankhamun"
+   ],
+   "a": 0,
+   "w": "The Step Pyramid at Saqqara."
+  },
+  {
+   "q": "Giza's pyramid builders were mostly...",
+   "o": [
+    "Hebrew slaves",
+    "Greek soldiers",
+    "Mongols",
+    "Paid and fed workers"
+   ],
+   "a": 3,
+   "w": "Archaeology at the workers' town shows this."
+  },
+  {
+   "q": "Which goddess's feather weighed the heart?",
+   "o": [
+    "Isis",
+    "Ma'at",
+    "Inanna",
+    "Hera"
+   ],
+   "a": 1,
+   "w": "Truth and order."
+  },
+  {
+   "q": "Who found Tut's tomb in 1922?",
+   "o": [
+    "Howard Carter",
+    "Champollion",
+    "Napoleon",
+    "Schliemann"
+   ],
+   "a": 0,
+   "w": "With Lord Carnarvon's funding."
+  },
+  {
+   "q": "The Rosetta Stone was decoded by...",
+   "o": [
+    "Carter",
+    "Imhotep",
+    "Herodotus",
+    "Champollion"
+   ],
+   "a": 3,
+   "w": "In 1822."
+  },
+  {
+   "q": "Hatshepsut was...",
+   "o": [
+    "A Roman consul",
+    "A woman who ruled as king",
+    "A Persian queen",
+    "A priest"
+   ],
+   "a": 1,
+   "w": "Around 1479-1458 BCE."
+  },
+  {
+   "q": "Cleopatra lived...",
+   "o": [
+    "Before the pyramids",
+    "At the same time as Khufu",
+    "Closer in time to us than to the Great Pyramid",
+    "In the Stone Age"
+   ],
+   "a": 2,
+   "w": "2,500 years after Khufu, 2,000 before the Moon landing."
+  },
+  {
+   "q": "Which Indian port appears in a famous papyrus?",
+   "o": [
+    "Surat",
+    "Kolkata",
+    "Mumbai",
+    "Muziris"
+   ],
+   "a": 3,
+   "w": "The Muziris papyrus."
+  },
+  {
+   "q": "Ashoka's 'Turamaya' is usually identified as...",
+   "o": [
+    "Ptolemy II",
+    "Alexander",
+    "Cleopatra",
+    "Ramesses"
+   ],
+   "a": 0,
+   "w": "Rock Edict XIII."
+  }
+ ],
+ "sources": [
+  "Lehner, The Complete Pyramids (1997); Wilkinson, The Rise and Fall of Ancient Egypt (2010); Casson on the Muziris papyrus; Ashoka Rock Edict XIII"
+ ],
+ "verified": "2026-11-10"
+}

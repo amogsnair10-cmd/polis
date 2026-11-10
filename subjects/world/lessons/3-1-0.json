@@ -1,0 +1,169 @@
+{
+ "id": "3-1-0",
+ "title": "The Vikings",
+ "emoji": "🛶",
+ "cards": [
+  {
+   "tag": "Why this matters",
+   "h": "The monks of Lindisfarne had a very bad Monday",
+   "b": "<p>On 8 June 793, raiders in dragon-prowed ships landed at the monastery of <b>Lindisfarne</b> off England's coast. They killed monks and took treasure. The English scholar Alcuin wrote in shock that nothing like it had been seen.</p><p>This is where the Viking Age begins, a 250-year burst of raids, trade and settlement from Scandinavia.</p>"
+  },
+  {
+   "tag": "The story",
+   "h": "The ships",
+   "b": "<p>Their <b>longships</b> were light and shallow, and could cross open sea and sail up rivers. They had a sail and oars. A raiding party could appear from nowhere and leave quickly.</p><p>'Viking' meant to go raiding. Most Scandinavians were farmers, traders and craftspeople.</p>"
+  },
+  {
+   "tag": "The turning point",
+   "h": "West and east",
+   "b": "<svg class=\"d\" viewBox=\"0 0 320 154\"><rect x=\"6\" y=\"2\" width=\"150\" height=\"150\" rx=\"6\" fill=\"#f1e4c6\" stroke=\"#a8792a\"/><text x=\"81\" y=\"20\" font-size=\"11\" font-weight=\"700\" text-anchor=\"middle\" fill=\"#1d2433\">West route</text><text x=\"14\" y=\"42\" font-size=\"10.5\" fill=\"#1d2433\">Britain and Ireland</text><text x=\"14\" y=\"66\" font-size=\"10.5\" fill=\"#1d2433\">Normandy (911)</text><text x=\"14\" y=\"90\" font-size=\"10.5\" fill=\"#1d2433\">Iceland (c. 874)</text><text x=\"14\" y=\"114\" font-size=\"10.5\" fill=\"#1d2433\">Greenland (c. 985)</text><text x=\"14\" y=\"138\" font-size=\"10.5\" fill=\"#1d2433\">North America (c. 1000)</text><rect x=\"164\" y=\"2\" width=\"150\" height=\"150\" rx=\"6\" fill=\"#dceaec\" stroke=\"#2f6f7a\"/><text x=\"239\" y=\"20\" font-size=\"11\" font-weight=\"700\" text-anchor=\"middle\" fill=\"#1d2433\">East route</text><text x=\"172\" y=\"42\" font-size=\"10.5\" fill=\"#1d2433\">Baltic Sea</text><text x=\"172\" y=\"66\" font-size=\"10.5\" fill=\"#1d2433\">Russian rivers</text><text x=\"172\" y=\"90\" font-size=\"10.5\" fill=\"#1d2433\">Kyiv and Novgorod</text><text x=\"172\" y=\"114\" font-size=\"10.5\" fill=\"#1d2433\">Constantinople</text><text x=\"172\" y=\"138\" font-size=\"10.5\" fill=\"#1d2433\">Baghdad silver trade</text></svg><p>In the east, Swedish Vikings called the <b>Rus</b> travelled down rivers. Tradition says Rurik founded Novgorod around 862. They gave Russia its name. The Byzantine emperors hired them as the <b>Varangian Guard</b>.</p>"
+  },
+  {
+   "tag": "The twist",
+   "h": "Iceland's parliament",
+   "b": "<p>Settlers reached Iceland around 874. In 930 they set up the <b>Althing</b>, often called the world's oldest surviving parliament, where chiefs met to make laws.</p><p>From Iceland came the great sagas. Erik the Red was exiled and founded a colony in Greenland about 985.</p>"
+  },
+  {
+   "tag": "The story",
+   "h": "America, 500 years early",
+   "b": "<p>His son <b>Leif Erikson</b> reached North America about 1000 CE. At <b>L'Anse aux Meadows</b> in Newfoundland, archaeologists found Norse buildings. A 2021 study of tree rings dated cut wood there to <b>1021 CE</b>.</p><p>The colony did not last. They probably clashed with local peoples and were too far from home.</p>"
+  },
+  {
+   "tag": "The story",
+   "h": "1066 and the end",
+   "b": "<p>The Vikings settled in northern France, where they became the <b>Normans</b>. In 1066 two invasions hit England. King Harold beat the Norwegian king Harald Hardrada at Stamford Bridge, then lost to William of Normandy at Hastings.</p><p>By then, Scandinavian kings had become Christian. The Viking Age faded.</p>"
+  },
+  {
+   "tag": "Myth vs fact",
+   "h": "Did Vikings wear horned helmets?",
+   "b": "<b>Myth:</b> yes.<b>Fact:</b> no Viking helmet with horns has ever been found. The image comes from 19th-century costume art, especially for Wagner's operas (1876).<p>Also, Vikings were not only raiders. They traded, farmed and settled, and some women owned property. A burial at Birka in Sweden once thought a male warrior was shown by DNA to be a woman (2017), though what that means is debated.</p>"
+  },
+  {
+   "tag": "Indian angle",
+   "h": "Meanwhile in India…",
+   "b": "<p>A Buddha in Sweden</p>"
+  },
+  {
+   "tag": "Recap",
+   "h": "Five takeaways, two puzzles",
+   "b": "<p><b>Five things to remember</b></p><ol><li>The Viking Age started with Lindisfarne in 793.</li><li>Longships let them raid and trade.</li><li>Vikings reached Iceland, Greenland and North America.</li><li>The Rus helped found early Russia.</li><li>Horned helmets are a myth.</li></ol><p><b>Think about it</b></p><ul><li>Why did Scandinavians go overseas?</li><li>Who counts as a 'Viking'?</li></ul>",
+   "cls": "exam"
+  }
+ ],
+ "quiz": [
+  {
+   "q": "The Viking Age began with the attack on...",
+   "o": [
+    "Paris",
+    "Rome",
+    "Lindisfarne",
+    "Dublin"
+   ],
+   "a": 2,
+   "w": "793 CE."
+  },
+  {
+   "q": "Vikings reached North America about...",
+   "o": [
+    "1000 CE",
+    "1492 CE",
+    "700 CE",
+    "1800 CE"
+   ],
+   "a": 0,
+   "w": "Leif Erikson."
+  },
+  {
+   "q": "L'Anse aux Meadows is in...",
+   "o": [
+    "Iceland",
+    "Norway",
+    "Scotland",
+    "Newfoundland"
+   ],
+   "a": 3,
+   "w": "A Norse site, dated 1021."
+  },
+  {
+   "q": "The Althing is...",
+   "o": [
+    "A longship",
+    "Iceland's assembly",
+    "A sword",
+    "A god"
+   ],
+   "a": 1,
+   "w": "Founded 930."
+  },
+  {
+   "q": "The Rus were...",
+   "o": [
+    "Swedish Vikings in the east",
+    "Roman soldiers",
+    "Mongols",
+    "Persians"
+   ],
+   "a": 0,
+   "w": "They gave Russia its name."
+  },
+  {
+   "q": "The Varangian Guard served...",
+   "o": [
+    "The Pope",
+    "Charlemagne",
+    "Genghis Khan",
+    "The Byzantine emperor"
+   ],
+   "a": 3,
+   "w": "Elite Norse bodyguards."
+  },
+  {
+   "q": "Who founded Greenland's colony?",
+   "o": [
+    "Leif Erikson",
+    "Erik the Red",
+    "Rurik",
+    "Harald"
+   ],
+   "a": 1,
+   "w": "About 985."
+  },
+  {
+   "q": "Horned Viking helmets are...",
+   "o": [
+    "Found in Sweden",
+    "Described in sagas",
+    "A 19th-century invention",
+    "Found at Hastings"
+   ],
+   "a": 2,
+   "w": "Wagner costume design."
+  },
+  {
+   "q": "Normandy was settled by...",
+   "o": [
+    "Romans",
+    "Huns",
+    "Mongols",
+    "Vikings in 911"
+   ],
+   "a": 3,
+   "w": "Rollo."
+  },
+  {
+   "q": "The Helgö find is a...",
+   "o": [
+    "Indian-made Buddha statuette",
+    "Chinese vase",
+    "Persian sword",
+    "Egyptian coin"
+   ],
+   "a": 0,
+   "w": "From about the 6th century."
+  }
+ ],
+ "sources": [
+  "Brink & Price, The Viking World (2008); Kuitems et al., Nature 2021; Hedenstierna-Jonson et al. 2017; Alcuin, letters (793)"
+ ],
+ "verified": "2026-11-10"
+}

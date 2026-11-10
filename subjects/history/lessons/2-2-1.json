@@ -1,0 +1,176 @@
+{
+ "id": "2-2-1",
+ "title": "Music and Theatre Traditions",
+ "emoji": "🎶",
+ "cards": [
+  {
+   "tag": "Why this matters",
+   "h": "Sound and stage",
+   "b": "<p>The split between Hindustani and Carnatic music, the gharanas and the lineage of folk theatre are staples of Prelims. Mains asks for cultural synthesis.</p>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "Roots and two streams",
+   "b": "<p>The Natya Shastra and later Sangita Ratnakara (Sharngadeva, 13th century) are textual roots. Music divides into <b>Hindustani</b> (north) and <b>Carnatic</b> (south) after the 13th to 14th century, with Persian influence in the north. Key concepts: <i>raga</i> (melodic frame), <i>tala</i> (rhythm), <i>swara</i> (note), <i>shruti</i> (microtone).</p>"
+  },
+  {
+   "tag": "Key idea",
+   "h": "Hindustani music",
+   "b": "<ul><li><b>Dhrupad</b>: old, solemn; Man Singh Tomar of Gwalior; Tansen at Akbar’s court; Swami Haridas.</li><li><b>Khayal</b>: Amir Khusrau credited (disputed); Sultan Husain Sharqi; grew under Sadarang in Mohammad Shah’s time.</li><li><b>Thumri, Tappa, Dadra, Ghazal</b>: light forms.</li><li><b>Gharanas</b>: Gwalior, Agra, Kirana, Jaipur-Atrauli, Patiala, Rampur-Sahaswan.</li></ul>Instruments: sitar, sarod, santoor, tabla, shehnai. Ravi Shankar, Ali Akbar Khan, Bismillah Khan, Bhimsen Joshi."
+  },
+  {
+   "tag": "Key idea",
+   "h": "Carnatic music",
+   "b": "<p>Foundation: Purandara Dasa (father of Carnatic music). The <b>Trinity</b>: Tyagaraja, Muthuswami Dikshitar, Shyama Shastri (18th century, Thanjavur). Forms: <i>kriti</i>, <i>varnam</i>, <i>tillana</i>, <i>ragam-tanam-pallavi</i>. Instruments: veena, mridangam, violin, ghatam, nadaswaram. M. S. Subbulakshmi (Bharat Ratna 1998), M. Balamuralikrishna. Melakarta system of 72 parent ragas (Venkatamakhin, 17th century; later reworked).</p>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "Other musical streams",
+   "b": "<p>Folk: <i>Baul</i> (Bengal), <i>Bhatiyali</i>, <i>Pandavani</i> (Chhattisgarh), <i>Lavani</i>, <i>Alha</i>. Devotional: Rabindra Sangeet, Qawwali (Sufi; Amir Khusrau), <i>Abhangs</i> (Maharashtra), Sufi kalam. Modern: film music and fusion. Bands and the <i>Vande Mataram</i> and <i>Jana Gana Mana</i> traditions run through all of them.</p>"
+  },
+  {
+   "tag": "Key idea",
+   "h": "Sanskrit and classical theatre",
+   "b": "<p>Sanskrit drama: Bhasa, Kalidasa (<i>Abhijnana Shakuntalam</i>), Shudraka (<i>Mrichchhakatika</i>), Bhavabhuti, Vishakhadatta (<i>Mudrarakshasa</i>). Kutiyattam (Kerala), the only surviving Sanskrit theatre tradition, is a UNESCO Masterpiece (2001, listed ICH 2008). Performed by <i>Chakyars</i> and <i>Nambiars</i>.</p>"
+  },
+  {
+   "tag": "Key idea",
+   "h": "Folk and modern theatre",
+   "b": "<ul><li><b>Folk</b>: Ramlila, Raslila, Nautanki (UP), Jatra (Bengal), Tamasha (Maharashtra), Bhavai (Gujarat), Yakshagana, Therukoothu, Pandavani, Bhand Pather (Kashmir), Ankia Naat (Assam).</li><li><b>Modern</b>: Parsi theatre; IPTA (1943); Habib Tanvir (Naya Theatre, <i>Charandas Chor</i>); Utpal Dutt; Girish Karnad; Vijay Tendulkar (<i>Ghashiram Kotwal</i>); National School of Drama (1959, Ebrahim Alkazi).</li></ul>"
+  },
+  {
+   "tag": "Debate",
+   "h": "Folk versus classical",
+   "b": "<p>Many treat folk and classical as high-low. Others see them as a loop: classical forms draw on folk tunes, folk forms borrow classical technique. The gharana system faces a debate on whether it is a closed lineage or an open school. The impact of recording and film on oral tradition also divides historians.</p>"
+  },
+  {
+   "tag": "Indian angle",
+   "h": "Why it matters today",
+   "b": "<p>Bismillah Khan, Ravi Shankar and Zakir Hussain made Indian music global. Tansen Samaroh (Gwalior), Sawai Gandharva festival and the Thyagaraja Aradhana keep tradition alive. Copyright in folk songs, GI claims and the Gurukul vs digital learning debate continue. Sangeet Natak Akademi and the Gandharva Mahavidyalaya preserve the arts.</p>"
+  },
+  {
+   "tag": "Exam lens",
+   "h": "How to answer",
+   "b": "<ul><li>“Compare Hindustani and Carnatic music.”</li><li>“Folk theatre as a medium of social change.”</li><li>Prelims tip: Trinity = Tyagaraja, Dikshitar, Shyama Shastri; Purandara Dasa = father of Carnatic; dhrupad = Man Singh Tomar; Kutiyattam = Kerala, UNESCO.</li></ul>",
+   "cls": "exam"
+  }
+ ],
+ "quiz": [
+  {
+   "q": "The Carnatic Trinity includes",
+   "o": [
+    "Purandara Dasa, Tansen and Haridas",
+    "Tyagaraja, Tansen and Haridas",
+    "Annamacharya, Kshetrayya and Jayadeva",
+    "Tyagaraja, Muthuswami Dikshitar and Shyama Shastri"
+   ],
+   "a": 3,
+   "w": "They lived in Thanjavur region in the 18th and 19th centuries."
+  },
+  {
+   "q": "Who is called the father of Carnatic music?",
+   "o": [
+    "Tyagaraja",
+    "Tansen",
+    "Purandara Dasa",
+    "Amir Khusrau"
+   ],
+   "a": 2,
+   "w": "A Haridasa saint of Karnataka."
+  },
+  {
+   "q": "Dhrupad was patronised by",
+   "o": [
+    "Aurangzeb",
+    "Man Singh Tomar of Gwalior",
+    "Jahangir",
+    "Shah Jahan"
+   ],
+   "a": 1,
+   "w": "Dhrupad flourished in his court."
+  },
+  {
+   "q": "Tansen was a musician in the court of",
+   "o": [
+    "Akbar",
+    "Babur",
+    "Humayun",
+    "Shah Jahan"
+   ],
+   "a": 0,
+   "w": "One of the navaratnas."
+  },
+  {
+   "q": "Kutiyattam is a theatre form of",
+   "o": [
+    "Karnataka",
+    "Tamil Nadu",
+    "Odisha",
+    "Kerala"
+   ],
+   "a": 3,
+   "w": "It is Sanskrit theatre."
+  },
+  {
+   "q": "Mudrarakshasa was written by",
+   "o": [
+    "Kalidasa",
+    "Shudraka",
+    "Vishakhadatta",
+    "Bhasa"
+   ],
+   "a": 2,
+   "w": "A political drama about Chanakya."
+  },
+  {
+   "q": "Jatra is a folk theatre of",
+   "o": [
+    "Gujarat",
+    "Bengal",
+    "Rajasthan",
+    "Assam"
+   ],
+   "a": 1,
+   "w": "Often also Odisha."
+  },
+  {
+   "q": "The National School of Drama was set up in",
+   "o": [
+    "1959",
+    "1947",
+    "1953",
+    "1975"
+   ],
+   "a": 0,
+   "w": "First led by Ebrahim Alkazi."
+  },
+  {
+   "q": "Sangita Ratnakara was written by",
+   "o": [
+    "Bharata",
+    "Abhinavagupta",
+    "Venkatamakhin",
+    "Sharngadeva"
+   ],
+   "a": 3,
+   "w": "A 13th-century treatise."
+  },
+  {
+   "q": "IPTA stands for",
+   "o": [
+    "Indian Performing Theatre Academy",
+    "Indian Poets and Theatre Alliance",
+    "Indian People’s Theatre Association",
+    "International Performing Theatre Association"
+   ],
+   "a": 2,
+   "w": "It was formed in 1943."
+  }
+ ],
+ "sources": [
+  "Nitin Singhania, Indian Art and Culture",
+  "NCERT, An Introduction to Indian Art (XII)",
+  "Sangeet Natak Akademi"
+ ],
+ "verified": "2026-11-10"
+}

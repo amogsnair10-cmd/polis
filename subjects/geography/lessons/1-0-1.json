@@ -1,0 +1,176 @@
+{
+ "id": "1-0-1",
+ "title": "Coasts, Islands and Drainage Systems",
+ "emoji": "🏝️",
+ "cards": [
+  {
+   "tag": "Why this matters",
+   "h": "Rivers, ports and islands",
+   "b": "<p>Rivers carry 1.4 billion people's water. Coasts carry 95% of India's trade by volume. Islands give India a strategic reach in the Indian Ocean. Questions mix <b>physical facts</b> (west-flowing rivers) with <b>policy</b> (rivers, ports, islands).</p>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "Western and eastern coasts",
+   "b": "<svg class=\"d\" viewBox=\"0 0 320 188\"><rect x=\"10\" y=\"6\" width=\"60\" height=\"26\" rx=\"6\" fill=\"#f1e4c6\" stroke=\"#a8792a\" stroke-width=\"1.5\"/><text x=\"40.0\" y=\"23\" fill=\"#7d5a1c\" font-size=\"11\" text-anchor=\"middle\" font-weight=\"700\"></text><rect x=\"70\" y=\"6\" width=\"120\" height=\"26\" rx=\"6\" fill=\"#f1e4c6\" stroke=\"#a8792a\" stroke-width=\"1.5\"/><text x=\"130.0\" y=\"23\" fill=\"#7d5a1c\" font-size=\"11\" text-anchor=\"middle\" font-weight=\"700\">Western</text><rect x=\"190\" y=\"6\" width=\"120\" height=\"26\" rx=\"6\" fill=\"#f1e4c6\" stroke=\"#a8792a\" stroke-width=\"1.5\"/><text x=\"250.0\" y=\"23\" fill=\"#7d5a1c\" font-size=\"11\" text-anchor=\"middle\" font-weight=\"700\">Eastern</text><rect x=\"10\" y=\"32\" width=\"60\" height=\"30\" rx=\"0\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"40.0\" y=\"51\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\" font-weight=\"700\">Width</text><rect x=\"70\" y=\"32\" width=\"120\" height=\"30\" rx=\"0\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"130.0\" y=\"51\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\">Narrow, 10-25 km</text><rect x=\"190\" y=\"32\" width=\"120\" height=\"30\" rx=\"0\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"250.0\" y=\"51\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\">Broad, up to 120 km</text><rect x=\"10\" y=\"62\" width=\"60\" height=\"30\" rx=\"0\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"40.0\" y=\"81\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\" font-weight=\"700\">Sea</text><rect x=\"70\" y=\"62\" width=\"120\" height=\"30\" rx=\"0\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"130.0\" y=\"81\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\">Arabian Sea</text><rect x=\"190\" y=\"62\" width=\"120\" height=\"30\" rx=\"0\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"250.0\" y=\"81\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\">Bay of Bengal</text><rect x=\"10\" y=\"92\" width=\"60\" height=\"30\" rx=\"0\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"40.0\" y=\"111\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\" font-weight=\"700\">Rivers</text><rect x=\"70\" y=\"92\" width=\"120\" height=\"30\" rx=\"0\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"130.0\" y=\"111\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\">Estuaries</text><rect x=\"190\" y=\"92\" width=\"120\" height=\"30\" rx=\"0\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"250.0\" y=\"111\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\">Deltas</text><rect x=\"10\" y=\"122\" width=\"60\" height=\"30\" rx=\"0\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"40.0\" y=\"141\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\" font-weight=\"700\">Parts</text><rect x=\"70\" y=\"122\" width=\"120\" height=\"30\" rx=\"0\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"130.0\" y=\"141\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\">Konkan, Kannad, Malabar</text><rect x=\"190\" y=\"122\" width=\"120\" height=\"30\" rx=\"0\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"250.0\" y=\"141\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\">Utkal, Circars, Coromandel</text><rect x=\"10\" y=\"152\" width=\"60\" height=\"30\" rx=\"0\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"40.0\" y=\"171\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\" font-weight=\"700\">Feature</text><rect x=\"70\" y=\"152\" width=\"120\" height=\"30\" rx=\"0\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"130.0\" y=\"171\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\">Lagoons, kayals</text><rect x=\"190\" y=\"152\" width=\"120\" height=\"30\" rx=\"0\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"250.0\" y=\"171\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\">Lakes: Chilika, Pulicat</text></svg><p>The east coast has big <b>deltas</b> of the Mahanadi, Godavari, Krishna and Kaveri. The west coast has estuaries (Narmada, Tapi) because rivers cut straight, short courses to the sea. India's mainland coastline is about 6,100 km; with islands it is about 7,516 km (older figure). A 2021 re-measure raised it to about 11,098 km.</p>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "Lagoons, lakes and backwaters",
+   "b": "<p><b>Chilika</b> (Odisha) is the largest coastal lagoon in India and the largest brackish lagoon in Asia, a Ramsar site. <b>Pulicat</b> sits on the Andhra-Tamil Nadu border. Kerala's <b>kayals</b> (Vembanad, Ashtamudi) are tourist backwaters. Sand bars separate them from the sea.</p>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "The islands",
+   "b": "<svg class=\"d\" viewBox=\"0 0 320 150\"><rect x=\"10\" y=\"6\" width=\"95\" height=\"42\" rx=\"6\" fill=\"#dceaec\" stroke=\"#2f6f7a\" stroke-width=\"1.5\"/><text x=\"57.5\" y=\"31.0\" fill=\"#2f6f7a\" font-size=\"11\" text-anchor=\"middle\" font-weight=\"700\">Lakshadweep</text><rect x=\"111\" y=\"6\" width=\"199\" height=\"42\" rx=\"6\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"210.5\" y=\"31.0\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\">Coral atolls off Kerala, about 36 islands, Kavaratti capital</text><rect x=\"10\" y=\"54\" width=\"95\" height=\"42\" rx=\"6\" fill=\"#f1e4c6\" stroke=\"#a8792a\" stroke-width=\"1.5\"/><text x=\"57.5\" y=\"79.0\" fill=\"#7d5a1c\" font-size=\"11\" text-anchor=\"middle\" font-weight=\"700\">Andaman</text><rect x=\"111\" y=\"54\" width=\"199\" height=\"42\" rx=\"6\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"210.5\" y=\"79.0\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\">North of Ten Degree Channel, Saddle Peak, Barren Island</text><rect x=\"10\" y=\"102\" width=\"95\" height=\"42\" rx=\"6\" fill=\"#f4dcd5\" stroke=\"#a3362a\" stroke-width=\"1.5\"/><text x=\"57.5\" y=\"127.0\" fill=\"#a3362a\" font-size=\"11\" text-anchor=\"middle\" font-weight=\"700\">Nicobar</text><rect x=\"111\" y=\"102\" width=\"199\" height=\"42\" rx=\"6\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"210.5\" y=\"127.0\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\">South, Great Nicobar, Indira Point (southernmost)</text></svg><p>Lakshadweep: 32 sq km, separated from the Maldives by the <b>Eight Degree</b> channel and Minicoy by the <b>Nine Degree</b> channel. Andaman and Nicobar: about 570 islands, divided by the <b>Ten Degree Channel</b>. Narcondam is dormant; Barren Island is active. Islands matter as a strategic outpost near the Malacca Strait.</p>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "Two river systems",
+   "b": "<svg class=\"d\" viewBox=\"0 0 320 190\"><rect x=\"10\" y=\"6\" width=\"145\" height=\"170\" rx=\"6\" fill=\"#dceaec\" stroke=\"#2f6f7a\" stroke-width=\"1.5\"/><text x=\"82\" y=\"24\" fill=\"#2f6f7a\" font-size=\"11\" text-anchor=\"middle\" font-weight=\"700\">Himalayan rivers</text><text x=\"82\" y=\"48\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\">Perennial</text><text x=\"82\" y=\"64\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\">Snow and rain fed</text><text x=\"82\" y=\"80\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\">Antecedent (older</text><text x=\"82\" y=\"92\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\">than the mountain)</text><text x=\"82\" y=\"112\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\">Long courses, gorges</text><text x=\"82\" y=\"128\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\">Large basins, deltas</text><text x=\"82\" y=\"144\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\">Navigable, floods</text><rect x=\"165\" y=\"6\" width=\"145\" height=\"170\" rx=\"6\" fill=\"#f1e4c6\" stroke=\"#a8792a\" stroke-width=\"1.5\"/><text x=\"237\" y=\"24\" fill=\"#7d5a1c\" font-size=\"11\" text-anchor=\"middle\" font-weight=\"700\">Peninsular rivers</text><text x=\"237\" y=\"48\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\">Seasonal</text><text x=\"237\" y=\"64\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\">Rain fed</text><text x=\"237\" y=\"80\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\">Consequent, shorter</text><text x=\"237\" y=\"96\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\">Fixed courses, valleys</text><text x=\"237\" y=\"112\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\">Flow east to Bay</text><text x=\"237\" y=\"128\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\">Except Narmada, Tapi</text><text x=\"237\" y=\"144\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\">(west to Arabian Sea)</text></svg><p><b>Antecedent</b> means the river kept its course as the Himalaya rose. Peninsular rivers follow the slope.</p>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "The three big Himalayan rivers",
+   "b": "<p><b>Indus</b>: from near Mansarovar, enters India in Ladakh, joined by the Jhelum, Chenab, Ravi, Beas and Sutlej. <b>Ganga</b>: Bhagirathi from Gangotri meets the Alaknanda at Devprayag. Tributaries: Yamuna, Ghaghara, Gandak, Kosi, Son. <b>Brahmaputra</b>: from Tibet (Tsangpo), enters India as the Dihang, and flows through Assam.</p>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "Peninsular rivers and patterns",
+   "b": "<p><b>Godavari</b> is the longest (about 1,465 km), called Dakshin Ganga. <b>Krishna</b> and <b>Kaveri</b> are vital for farming. The <b>Narmada</b> and <b>Tapi</b> flow west in rift valleys.</p><svg class=\"d\" viewBox=\"0 0 320 166\"><rect x=\"10\" y=\"6\" width=\"85\" height=\"34\" rx=\"6\" fill=\"#dceaec\" stroke=\"#2f6f7a\" stroke-width=\"1.5\"/><text x=\"52.5\" y=\"27.0\" fill=\"#2f6f7a\" font-size=\"11\" text-anchor=\"middle\" font-weight=\"700\">Dendritic</text><rect x=\"101\" y=\"6\" width=\"209\" height=\"34\" rx=\"6\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"205.5\" y=\"27.0\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\">Tree-like, on uniform rock: Ganga plains</text><rect x=\"10\" y=\"46\" width=\"85\" height=\"34\" rx=\"6\" fill=\"#f1e4c6\" stroke=\"#a8792a\" stroke-width=\"1.5\"/><text x=\"52.5\" y=\"67.0\" fill=\"#7d5a1c\" font-size=\"11\" text-anchor=\"middle\" font-weight=\"700\">Trellis</text><rect x=\"101\" y=\"46\" width=\"209\" height=\"34\" rx=\"6\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"205.5\" y=\"67.0\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\">Parallel streams, folded hills: old Himalaya</text><rect x=\"10\" y=\"86\" width=\"85\" height=\"34\" rx=\"6\" fill=\"#f4dcd5\" stroke=\"#a3362a\" stroke-width=\"1.5\"/><text x=\"52.5\" y=\"107.0\" fill=\"#a3362a\" font-size=\"11\" text-anchor=\"middle\" font-weight=\"700\">Radial</text><rect x=\"101\" y=\"86\" width=\"209\" height=\"34\" rx=\"6\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"205.5\" y=\"107.0\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\">From a hill outward: Amarkantak</text><rect x=\"10\" y=\"126\" width=\"85\" height=\"34\" rx=\"6\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"52.5\" y=\"147.0\" fill=\"#1d2433\" font-size=\"11\" text-anchor=\"middle\" font-weight=\"700\">Rectangular</text><rect x=\"101\" y=\"126\" width=\"209\" height=\"34\" rx=\"6\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"205.5\" y=\"147.0\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\">Right-angle joints: Vindhya, Kaimur</text></svg>"
+  },
+  {
+   "tag": "Debate",
+   "h": "River management and cooperation",
+   "b": "<p>Brahmaputra dams in Tibet (China's Medog project, approved in December 2024) worry India about flows. The Indus Waters Treaty (1960) was held in abeyance by India in April 2025 after the Pahalgam attack. Within India, states fight over the Kaveri, Krishna and Godavari. Experts argue for <b>basin-level</b> planning.</p>"
+  },
+  {
+   "tag": "Indian angle",
+   "h": "Ganga and its cleaning",
+   "b": "<p>Ganga basin is about 26% of India's land and supports about 40% of its people. <b>Namami Gange</b>, started in 2014 under NMCG, built sewage plants. Ganga was declared the <b>national river</b> in 2008. The Ganga river dolphin is the national aquatic animal.</p><p>The east coast's deltas are cyclone-prone. The west coast's estuaries (Narmada, Tapi) hold major ports like Surat and Hazira.</p>"
+  },
+  {
+   "tag": "Exam lens",
+   "cls": "exam",
+   "h": "How to write this",
+   "b": "<div class=\"box\"><h4>Likely questions</h4><p>\"Compare the east-flowing and west-flowing peninsular rivers.\" (10 marks)</p><p>\"Explain the strategic importance of the Andaman and Nicobar Islands.\" (10 marks)</p></div><p><b>Structure:</b> table-style comparison; reasons for the difference (gradient, rift valley); then a current issue (water sharing, ports).</p><p><b>Prelims tip:</b> know the channels (Eight, Nine, Ten Degree), Indira Point, Chilika, the Kaveri as a perennial-ish river with two monsoons, and that Godavari is the longest peninsular river.</p>"
+  }
+ ],
+ "quiz": [
+  {
+   "q": "The Ten Degree Channel separates",
+   "o": [
+    "Andaman from Nicobar",
+    "Lakshadweep from Minicoy",
+    "India from Sri Lanka",
+    "Minicoy from Maldives"
+   ],
+   "a": 0,
+   "w": "The Eight Degree separates Minicoy from Maldives; Nine Degree separates Lakshadweep from Minicoy."
+  },
+  {
+   "q": "Chilika Lake is in",
+   "o": [
+    "Andhra Pradesh",
+    "Tamil Nadu",
+    "West Bengal",
+    "Odisha"
+   ],
+   "a": 3,
+   "w": "It is a Ramsar site."
+  },
+  {
+   "q": "Longest peninsular river is",
+   "o": [
+    "Krishna",
+    "Godavari",
+    "Mahanadi",
+    "Kaveri"
+   ],
+   "a": 1,
+   "w": "About 1,465 km."
+  },
+  {
+   "q": "Narmada forms an estuary because",
+   "o": [
+    "It is snow-fed",
+    "It flows through a rift valley to the Arabian Sea",
+    "It is a delta river",
+    "It is east-flowing"
+   ],
+   "a": 1,
+   "w": "Straight, steep courses form estuaries."
+  },
+  {
+   "q": "Antecedent drainage means",
+   "o": [
+    "River younger than hills",
+    "Rivers meeting at right angles",
+    "Rivers flowing to inland lakes",
+    "River older than the mountains it crosses"
+   ],
+   "a": 3,
+   "w": "The Indus, Sutlej and Brahmaputra cut gorges through the rising Himalaya."
+  },
+  {
+   "q": "Indira Point is in",
+   "o": [
+    "Great Nicobar",
+    "Little Andaman",
+    "Minicoy",
+    "Car Nicobar"
+   ],
+   "a": 0,
+   "w": "It is India's southernmost point."
+  },
+  {
+   "q": "Dendritic drainage looks like",
+   "o": [
+    "A trellis",
+    "A wheel",
+    "A tree",
+    "A grid"
+   ],
+   "a": 2,
+   "w": "Common on uniform rock in the plains."
+  },
+  {
+   "q": "The Ganga is formed at Devprayag by",
+   "o": [
+    "Yamuna and Ghaghara",
+    "Kosi and Gandak",
+    "Son and Chambal",
+    "Bhagirathi and Alaknanda"
+   ],
+   "a": 3,
+   "w": "Their joining is the start of the Ganga."
+  },
+  {
+   "q": "Namami Gange began in",
+   "o": [
+    "2014",
+    "1985",
+    "2008",
+    "2020"
+   ],
+   "a": 0,
+   "w": "It replaced the earlier Ganga Action Plan."
+  },
+  {
+   "q": "Western coastal plain is",
+   "o": [
+    "Broad with deltas",
+    "Absent in Goa",
+    "Narrow with estuaries",
+    "Entirely marshy"
+   ],
+   "a": 2,
+   "w": "The Western Ghats come close to the sea."
+  }
+ ],
+ "sources": [
+  "NCERT Class 11, India: Physical Environment, ch. 3, 2",
+  "Majid Husain, Geography of India",
+  "PIB, Namami Gange"
+ ],
+ "verified": "2026-11-10"
+}

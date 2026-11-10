@@ -1,0 +1,171 @@
+{
+ "id": "5-2-1",
+ "title": "Political Philosophies: Capitalism, Socialism, Communism",
+ "emoji": "⚖️",
+ "cards": [
+  {
+   "tag": "Why this matters",
+   "h": "Ideas behind the blocs",
+   "b": "<p>UPSC asks you to define each ideology, name its thinkers and compare how they work. Many Indian economic debates sit between these poles.</p>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "Capitalism",
+   "b": "<p>Private ownership, markets, profit and competition. <b>Adam Smith</b> (<i>The Wealth of Nations</i>, 1776): the “invisible hand”. Laissez-faire (Ricardo, Mill). After the Depression, <b>Keynes</b> argued for state action to keep up demand. Later <b>Hayek</b> and <b>Milton Friedman</b> returned to free markets (neoliberalism; Thatcher and Reagan in the 1980s). Forms: welfare capitalism (Scandinavia), state capitalism (China).</p>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "Socialism",
+   "b": "<p>Social ownership or control of the means of production and equality. Early or <b>utopian</b> socialists: Saint-Simon, Fourier, Robert Owen. <b>Fabians</b> (UK, 1884): gradual change. Social democracy (Bernstein, revisionism). Welfare states: Beveridge Report (1942), UK’s NHS (1948). Democratic socialism seeks socialism by the ballot.</p>"
+  },
+  {
+   "tag": "Key idea",
+   "h": "Marx and Engels",
+   "b": "<i>Communist Manifesto</i> (1848): history as class struggle. <i>Das Kapital</i> (vol. 1, 1867): surplus value and exploitation. Historical (dialectical) materialism: base and superstructure. Stages: feudalism, capitalism, socialism, then communism. The proletariat’s revolution leads to a “dictatorship of the proletariat”. Later: Lenin (vanguard party, imperialism), Stalin, Mao (peasant revolution, 1949), Gramsci (hegemony)."
+  },
+  {
+   "tag": "Key idea",
+   "h": "Communism in practice",
+   "b": "<p>USSR (1917 to 91): planned economy, collectivisation, one-party rule. China: Mao’s Great Leap Forward (1958 to 62), Cultural Revolution (1966 to 76); Deng’s reforms from 1978 (“socialism with Chinese characteristics”). Cuba, Vietnam, North Korea. Eastern Europe’s regimes fell in 1989. Gains: literacy, heavy industry; costs: lack of freedom and famines.</p>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "Mixed economy and the third way",
+   "b": "<p>Most states mix market and state. India: Nehru’s mixed economy; Industrial Policy Resolution 1956. Western Europe: social market economy. Anthony Giddens’s <i>Third Way</i> (1998) shaped Blair. China uses markets under party control. After the 2008 crisis the role of the state returned to debate.</p>"
+  },
+  {
+   "tag": "Debate",
+   "h": "Which system works?",
+   "b": "<p>Defenders of capitalism cite growth and innovation; critics cite inequality (Thomas Piketty, <i>Capital in the Twenty-First Century</i>, 2013) and climate costs. Socialists cite fairness; critics cite inefficiency and lack of freedom (Hayek, <i>The Road to Serfdom</i>, 1944). Fukuyama thought liberal democracy had won; today’s populism and state capitalism challenge that.</p>"
+  },
+  {
+   "tag": "Indian angle",
+   "h": "Why it matters today",
+   "b": "<p>The word “socialist” was added to the Preamble by the 42nd Amendment (1976). Nehru wanted a socialistic pattern (Avadi Congress, 1955); Gandhi’s trusteeship and Ambedkar’s state socialism were alternatives. 1991 liberalisation moved India towards markets, while welfare schemes (MGNREGA 2005; NFSA 2013) show the mixed path.</p>"
+  },
+  {
+   "tag": "Exam lens",
+   "h": "How to answer",
+   "b": "<ul><li>“Compare capitalism and socialism with examples.”</li><li>“Marx’s theory of historical materialism: assess.”</li><li>“India’s economic path: socialist, capitalist or mixed?”</li><li>Prelims tip: Smith 1776; Manifesto 1848; Capital 1867; Fabian 1884; Keynes 1936; Hayek 1944; Preamble “socialist” 1976.</li></ul>",
+   "cls": "exam"
+  }
+ ],
+ "quiz": [
+  {
+   "q": "The “invisible hand” is associated with",
+   "o": [
+    "Keynes",
+    "Marx",
+    "Adam Smith",
+    "Friedman"
+   ],
+   "a": 2,
+   "w": "In the Wealth of Nations."
+  },
+  {
+   "q": "The General Theory (1936) was by",
+   "o": [
+    "Hayek",
+    "John Maynard Keynes",
+    "Ricardo",
+    "Marx"
+   ],
+   "a": 1,
+   "w": "It argued for state spending in a slump."
+  },
+  {
+   "q": "The Communist Manifesto was published in",
+   "o": [
+    "1848",
+    "1776",
+    "1867",
+    "1917"
+   ],
+   "a": 0,
+   "w": "By Marx and Engels."
+  },
+  {
+   "q": "Das Kapital Volume 1 appeared in",
+   "o": [
+    "1848",
+    "1884",
+    "1917",
+    "1867"
+   ],
+   "a": 3,
+   "w": "It explains surplus value."
+  },
+  {
+   "q": "The Fabian Society stood for",
+   "o": [
+    "Revolutionary communism",
+    "Free-market liberalism",
+    "Gradual socialism",
+    "Fascism"
+   ],
+   "a": 2,
+   "w": "It was founded in 1884."
+  },
+  {
+   "q": "The Road to Serfdom was written by",
+   "o": [
+    "Milton Friedman",
+    "Friedrich Hayek",
+    "Keynes",
+    "Piketty"
+   ],
+   "a": 1,
+   "w": "Published in 1944."
+  },
+  {
+   "q": "Deng Xiaoping’s reforms began in",
+   "o": [
+    "1978",
+    "1949",
+    "1958",
+    "1966"
+   ],
+   "a": 0,
+   "w": "Opening and market reforms in China."
+  },
+  {
+   "q": "Gramsci is associated with the idea of",
+   "o": [
+    "Vanguard party",
+    "Laissez-faire",
+    "Welfare state",
+    "Cultural hegemony"
+   ],
+   "a": 3,
+   "w": "An Italian Marxist."
+  },
+  {
+   "q": "“Socialist” was added to the Indian Preamble by the",
+   "o": [
+    "44th Amendment, 1978",
+    "1st Amendment, 1951",
+    "42nd Amendment, 1976",
+    "73rd Amendment, 1992"
+   ],
+   "a": 2,
+   "w": "Along with “secular” and “integrity”."
+  },
+  {
+   "q": "The Third Way was popularised by",
+   "o": [
+    "Hayek",
+    "Anthony Giddens",
+    "Lenin",
+    "Beveridge"
+   ],
+   "a": 1,
+   "w": "It influenced Blair."
+  }
+ ],
+ "sources": [
+  "Norman Lowe, Mastering Modern World History",
+  "NCERT Class XI, Political Theory; Heywood, Politics",
+  "Piketty (2013)"
+ ],
+ "verified": "2026-11-10"
+}

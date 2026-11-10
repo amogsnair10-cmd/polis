@@ -1,0 +1,169 @@
+{
+ "id": "3-0-0",
+ "title": "Byzantium: The Empire That Lasted 1,000 Years",
+ "emoji": "⛪",
+ "cards": [
+  {
+   "tag": "Why this matters",
+   "h": "The Romans who never called themselves Byzantine",
+   "b": "<p>The empire we call Byzantine never used that name. Its people called themselves <b>Romans</b> right until the end. The word 'Byzantine' was popularised by a German scholar, Hieronymus Wolf, in 1557, more than a century after the empire fell.</p><p>So the Roman Empire did not die in 476 CE. It simply moved east and lived another thousand years.</p>"
+  },
+  {
+   "tag": "The story",
+   "h": "A capital on a strait",
+   "b": "<p>In 330 CE Constantine made the old Greek town of Byzantium into <b>Constantinople</b>, the 'city of Constantine'. It sat where Europe meets Asia, controlling sea trade between the Black Sea and the Mediterranean.</p><p>The huge <b>Theodosian Walls</b> (built in the 5th century) kept the city safe for about a thousand years.</p>"
+  },
+  {
+   "tag": "The turning point",
+   "h": "Justinian and Theodora",
+   "b": "<b>Justinian</b> ruled 527-565 CE. His wife <b>Theodora</b>, a former actress, was a real partner in power. In 532 the Nika riots nearly toppled him. Legend says Theodora stopped him fleeing by saying that royalty is a fine burial shroud. Thousands of rioters died.<p>He rebuilt <b>Hagia Sophia</b> in five years (finished 537), still dazzling today, and ordered a clear collection of Roman law, the <i>Corpus Juris Civilis</i> (529-534), which shaped European law.</p>"
+  },
+  {
+   "tag": "The twist",
+   "h": "Fire on water",
+   "b": "<svg class=\"d\" viewBox=\"0 0 320 180\"><line x1=\"14\" y1=\"10\" x2=\"14\" y2=\"170\" stroke=\"#a8792a\" stroke-width=\"2\"/><circle cx=\"14\" cy=\"22\" r=\"5\" fill=\"#f1e4c6\" stroke=\"#a8792a\" stroke-width=\"2\"/><text x=\"28\" y=\"26\" font-size=\"11\" font-weight=\"700\" fill=\"#a8792a\">330</text><text x=\"112\" y=\"26\" font-size=\"11\" fill=\"#1d2433\">Constantinople founded</text><circle cx=\"14\" cy=\"50\" r=\"5\" fill=\"#f1e4c6\" stroke=\"#a8792a\" stroke-width=\"2\"/><text x=\"28\" y=\"54\" font-size=\"11\" font-weight=\"700\" fill=\"#a8792a\">537</text><text x=\"112\" y=\"54\" font-size=\"11\" fill=\"#1d2433\">Hagia Sophia completed</text><circle cx=\"14\" cy=\"78\" r=\"5\" fill=\"#f1e4c6\" stroke=\"#a8792a\" stroke-width=\"2\"/><text x=\"28\" y=\"82\" font-size=\"11\" font-weight=\"700\" fill=\"#a8792a\">541</text><text x=\"112\" y=\"82\" font-size=\"11\" fill=\"#1d2433\">Plague of Justinian</text><circle cx=\"14\" cy=\"106\" r=\"5\" fill=\"#f1e4c6\" stroke=\"#a8792a\" stroke-width=\"2\"/><text x=\"28\" y=\"110\" font-size=\"11\" font-weight=\"700\" fill=\"#a8792a\">~670s</text><text x=\"112\" y=\"110\" font-size=\"11\" fill=\"#1d2433\">Greek fire used</text><circle cx=\"14\" cy=\"134\" r=\"5\" fill=\"#f1e4c6\" stroke=\"#a8792a\" stroke-width=\"2\"/><text x=\"28\" y=\"138\" font-size=\"11\" font-weight=\"700\" fill=\"#a8792a\">1204</text><text x=\"112\" y=\"138\" font-size=\"11\" fill=\"#1d2433\">Crusaders sack the city</text><circle cx=\"14\" cy=\"162\" r=\"5\" fill=\"#f1e4c6\" stroke=\"#a8792a\" stroke-width=\"2\"/><text x=\"28\" y=\"166\" font-size=\"11\" font-weight=\"700\" fill=\"#a8792a\">1453</text><text x=\"112\" y=\"166\" font-size=\"11\" fill=\"#1d2433\">Ottomans take it</text></svg><p>The Byzantines used <b>Greek fire</b>, a burning liquid sprayed from ships, even burning on water. The exact recipe has been lost.</p>"
+  },
+  {
+   "tag": "The story",
+   "h": "Wounds from friends",
+   "b": "<p>In 1204 the Fourth Crusade, supposedly heading to Egypt, attacked Constantinople instead and plundered it. The Byzantines retook it in 1261 but never fully recovered.</p><p>A new power, the Ottomans, closed in.</p>"
+  },
+  {
+   "tag": "The story",
+   "h": "The last day",
+   "b": "<p>On <b>29 May 1453</b>, Sultan Mehmed II took the city after a siege. His big cannons, designed by a Hungarian engineer called Orban, shattered the walls. The last emperor, <b>Constantine XI</b>, died fighting.</p><p>The Ottomans turned Hagia Sophia into a mosque. Many scholars fled to Italy with Greek books, helping to fuel the Renaissance.</p>"
+  },
+  {
+   "tag": "Myth vs fact",
+   "h": "Was 'Byzantine' just about plots and complexity?",
+   "b": "<b>Myth:</b> 'Byzantine' means a mess of intrigue.<b>Fact:</b> the word became an insult in the 18th century (Enlightenment writers like Gibbon and Montesquieu looked down on it). The empire actually ran an efficient tax system, a strong navy and excellent diplomacy.<p>Also, they spoke Greek, not Latin, from about the 7th century. Yet they never stopped calling themselves Roman.</p>"
+  },
+  {
+   "tag": "Indian angle",
+   "h": "Meanwhile in India…",
+   "b": "<p>A merchant visits Sri Lanka</p>"
+  },
+  {
+   "tag": "Recap",
+   "h": "Five takeaways, two puzzles",
+   "b": "<p><b>Five things to remember</b></p><ol><li>Byzantium was the Roman Empire in the east.</li><li>Justinian built Hagia Sophia and codified law.</li><li>The walls and Greek fire saved the city for centuries.</li><li>The Fourth Crusade struck it in 1204.</li><li>It fell to the Ottomans on 29 May 1453.</li></ol><p><b>Think about it</b></p><ul><li>Why is the name 'Byzantine' misleading?</li><li>What survives of Rome in the East?</li></ul>",
+   "cls": "exam"
+  }
+ ],
+ "quiz": [
+  {
+   "q": "Constantinople was founded in...",
+   "o": [
+    "476 CE",
+    "1453 CE",
+    "330 CE",
+    "27 BCE"
+   ],
+   "a": 2,
+   "w": "By Constantine."
+  },
+  {
+   "q": "The Byzantines called themselves...",
+   "o": [
+    "Romans",
+    "Byzantines",
+    "Greeks only",
+    "Ottomans"
+   ],
+   "a": 0,
+   "w": "The name Byzantine came later."
+  },
+  {
+   "q": "Hagia Sophia was completed in...",
+   "o": [
+    "330 CE",
+    "1453 CE",
+    "800 CE",
+    "537 CE"
+   ],
+   "a": 3,
+   "w": "Under Justinian."
+  },
+  {
+   "q": "Justinian's wife was...",
+   "o": [
+    "Cleopatra",
+    "Theodora",
+    "Hatshepsut",
+    "Livia"
+   ],
+   "a": 1,
+   "w": "Powerful empress."
+  },
+  {
+   "q": "Greek fire was...",
+   "o": [
+    "A burning liquid weapon",
+    "A signal",
+    "A fireworks show",
+    "A fever"
+   ],
+   "a": 0,
+   "w": "Its recipe is lost."
+  },
+  {
+   "q": "The 1204 attack on Constantinople was by...",
+   "o": [
+    "Mongols",
+    "Vikings",
+    "Persians",
+    "The Fourth Crusade"
+   ],
+   "a": 3,
+   "w": "Crusaders turned on a Christian city."
+  },
+  {
+   "q": "Constantinople fell on...",
+   "o": [
+    "29 May 476",
+    "29 May 1453",
+    "1 Jan 1000",
+    "14 Oct 1066"
+   ],
+   "a": 1,
+   "w": "To Mehmed II."
+  },
+  {
+   "q": "Cosmas Indicopleustes wrote about...",
+   "o": [
+    "Japan",
+    "Mexico",
+    "India and Sri Lanka",
+    "Iceland"
+   ],
+   "a": 2,
+   "w": "In the Christian Topography."
+  },
+  {
+   "q": "Corpus Juris Civilis was a...",
+   "o": [
+    "Prayer book",
+    "Poem",
+    "Map",
+    "Collection of Roman law"
+   ],
+   "a": 3,
+   "w": "Ordered by Justinian."
+  },
+  {
+   "q": "Who coined the word 'Byzantine' for the empire?",
+   "o": [
+    "Hieronymus Wolf (popularised in 1557)",
+    "Constantine",
+    "Justinian",
+    "Gibbon"
+   ],
+   "a": 0,
+   "w": "A German scholar, long after the fall."
+  }
+ ],
+ "sources": [
+  "Cameron, The Byzantines (2006); Treadgold, A History of the Byzantine State and Society (1997); Cosmas Indicopleustes, Christian Topography"
+ ],
+ "verified": "2026-11-10"
+}

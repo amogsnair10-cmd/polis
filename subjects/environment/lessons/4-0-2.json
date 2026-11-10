@@ -1,0 +1,177 @@
+{
+ "id": "4-0-2",
+ "title": "Environmental Movements and Judicial Activism",
+ "emoji": "✊",
+ "cards": [
+  {
+   "tag": "Why this matters",
+   "h": "People and courts shaped the green agenda",
+   "b": "<p>Chipko, Appiko, Narmada, Silent Valley and the cases of M.C. Mehta and Godavarman are core GS-I and GS-III material. UPSC asks who, where, when and what changed.</p><p>These stories show that Indian environmentalism often grew from livelihood, not only from nature love.</p>"
+  },
+  {
+   "tag": "Early movements",
+   "h": "Bishnoi and Chipko",
+   "b": "<p><b>Bishnoi (1730)</b>: Amrita Devi and villagers of Khejarli (Jodhpur) died hugging khejri trees. <b>Chipko (1973)</b>: began in Chamoli, Uttarakhand, led by <b>Chandi Prasad Bhatt</b> (Dasholi Gram Swarajya Sangh) and made famous by <b>Sunderlal Bahuguna</b>. Gaura Devi led women at Reni (1974).</p><p>It stopped commercial felling in Himalayan forests and led to a 1980 ban on green felling above 1,000 m in the Himalaya.</p>"
+  },
+  {
+   "tag": "Appiko and others",
+   "h": "Hug the tree, southern style",
+   "b": "<p><b>Appiko (1983)</b> in Uttara Kannada, Karnataka, led by <b>Pandurang Hegde</b>, used the same tactic in the Western Ghats. <b>Jungle Bachao Andolan</b> (Singhbhum, 1982) opposed teak replacing sal.</p><p><b>Silent Valley (1970s–80s)</b> in Kerala stopped a hydroelectric project on the Kunthipuzha. Scientists and the Kerala Sastra Sahitya Parishad led it. The area became a national park in 1984.</p>"
+  },
+  {
+   "tag": "Dams and displacement",
+   "h": "Narmada and Tehri",
+   "b": "<p><b>Narmada Bachao Andolan (1985)</b> led by <b>Medha Patkar</b> opposed the Sardar Sarovar dam over displacement. The Supreme Court in 2000 allowed construction with rehabilitation conditions.</p><p><b>Tehri Dam</b> protests (led by Bahuguna) cited seismic risk and displacement. These movements raised the issue of who bears the costs of development.</p>"
+  },
+  {
+   "tag": "Seeds and rights",
+   "h": "Navdanya, Niyamgiri, Plachimada",
+   "b": "<p><b>Navdanya</b> (Vandana Shiva, 1987) protects native seeds and opposes biopiracy. At <b>Niyamgiri</b> (Odisha) the Dongria Kondh opposed Vedanta’s bauxite mine; in 2013 the Supreme Court told gram sabhas to decide under the Forest Rights Act, and they rejected it.</p><p><b>Plachimada</b> (Kerala) saw protests against Coca-Cola’s groundwater use. More recent: <b>Save Aarey</b> (Mumbai metro car shed) and Hasdeo Arand in Chhattisgarh.</p>"
+  },
+  {
+   "tag": "Judicial activism",
+   "h": "PIL and the green court",
+   "b": "<p>Public Interest Litigation widened <b>locus standi</b>. Early case: <b>Rural Litigation and Entitlement Kendra v State of UP (1985)</b>, Dehradun quarrying, a first on ecological balance. <b>M.C. Mehta</b> led to CNG buses in Delhi, the Taj Trapezium order (1996) and Ganga tannery rulings.</p><p><b>T.N. Godavarman Thirumulpad (1995–)</b> turned a plea on a Nilgiri forest into a long-running continuing mandamus that governs forest law. <b>Lafarge Umiam Mining (2011)</b> set rules for forest clearances in mining.</p>"
+  },
+  {
+   "tag": "Wider movements",
+   "h": "Other lessons",
+   "b": "<p><b>Mitti Bachao</b> and <b>Save Western Ghats</b> campaigns raised soil and forest issues. <b>Bhopal gas tragedy (2–3 December 1984)</b> led to the Environment Protection Act 1986 and the idea of liability for hazardous industry.</p><p><b>Ganga cleaning campaigns</b>, anti-plastic drives, and <b>Save Aarey</b> show that urban movements are now active alongside rural ones.</p>"
+  },
+  {
+   "tag": "Debate",
+   "h": "Activism or overreach?",
+   "b": "<p>Supporters say courts filled gaps left by weak agencies and protected the commons. Critics say judges made policy without expertise or democratic accountability, and some orders hurt livelihoods (for example, shutting small industry or evicting forest dwellers).</p><p>Today the NGT and statutory bodies take much of this load.</p>"
+  },
+  {
+   "tag": "Indian angle",
+   "h": "Environmentalism of the poor",
+   "b": "<p>Ramachandra Guha and Madhav Gadgil describe Indian movements as an <b>“environmentalism of the poor”</b> (a phrase also used by Joan Martinez-Alier), rooted in livelihood conflict over commons. Women had a visible role in Chipko and Appiko, linking to ecofeminism.</p><p>Chipko won the Right Livelihood Award in 1987 and Bahuguna a Padma Vibhushan.</p>"
+  },
+  {
+   "tag": "Exam lens",
+   "h": "How to answer",
+   "b": "<p><b>Mains-style:</b> “Discuss the contribution of Chipko and other movements to Indian environmental consciousness.” Structure: origin; leaders; methods (non-violence); outcomes (felling bans, national parks, laws); limits; present relevance.</p><p><b>Mains-style:</b> “Judicial activism in environment: is it justified?”</p><p><b>Prelims tip:</b> Chipko 1973 (Chamoli); Appiko 1983 (Karnataka); NBA 1985; Silent Valley (Kerala); Bishnoi 1730 (Khejarli).</p>",
+   "cls": "exam"
+  }
+ ],
+ "quiz": [
+  {
+   "q": "The Chipko movement began in:",
+   "o": [
+    "1983",
+    "1985",
+    "1973",
+    "1730"
+   ],
+   "a": 2,
+   "w": "In Chamoli district of present-day Uttarakhand."
+  },
+  {
+   "q": "Appiko movement took place in:",
+   "o": [
+    "Kerala",
+    "Karnataka",
+    "Odisha",
+    "Himachal"
+   ],
+   "a": 1,
+   "w": "Uttara Kannada, led by Pandurang Hegde."
+  },
+  {
+   "q": "Medha Patkar is associated with:",
+   "o": [
+    "Narmada Bachao Andolan",
+    "Chipko",
+    "Appiko",
+    "Silent Valley"
+   ],
+   "a": 0,
+   "w": "Founded 1985."
+  },
+  {
+   "q": "Silent Valley is located in:",
+   "o": [
+    "Karnataka",
+    "Tamil Nadu",
+    "Assam",
+    "Kerala"
+   ],
+   "a": 3,
+   "w": "Kunthipuzha river."
+  },
+  {
+   "q": "The 1730 Bishnoi sacrifice was led by:",
+   "o": [
+    "Gaura Devi",
+    "Medha Patkar",
+    "Amrita Devi",
+    "Vandana Shiva"
+   ],
+   "a": 2,
+   "w": "At Khejarli village."
+  },
+  {
+   "q": "Navdanya was founded by:",
+   "o": [
+    "Sunderlal Bahuguna",
+    "Vandana Shiva",
+    "Chandi Prasad Bhatt",
+    "Pandurang Hegde"
+   ],
+   "a": 1,
+   "w": "It protects seeds."
+  },
+  {
+   "q": "Godavarman case relates mainly to:",
+   "o": [
+    "Forests",
+    "Water pollution",
+    "Noise",
+    "Plastic"
+   ],
+   "a": 0,
+   "w": "Started in 1995."
+  },
+  {
+   "q": "Niyamgiri hills are in:",
+   "o": [
+    "Jharkhand",
+    "Chhattisgarh",
+    "Maharashtra",
+    "Odisha"
+   ],
+   "a": 3,
+   "w": "Dongria Kondh tribe."
+  },
+  {
+   "q": "The case on Dehradun quarrying (1985) was:",
+   "o": [
+    "Vellore Citizens",
+    "Kamal Nath",
+    "Rural Litigation and Entitlement Kendra",
+    "Lafarge"
+   ],
+   "a": 2,
+   "w": "An early ecological balance case."
+  },
+  {
+   "q": "Chipko won which award in 1987?",
+   "o": [
+    "Nobel Peace Prize",
+    "Right Livelihood Award",
+    "Magsaysay Award",
+    "Padma Vibhushan"
+   ],
+   "a": 1,
+   "w": "Awarded as the Alternative Nobel."
+  }
+ ],
+ "sources": [
+  "Shankar IAS Environment",
+  "Laxmikanth, Indian Polity (Art. 48A, 51A(g))",
+  "MoEFCC, PRS and PIB",
+  "Guha and Gadgil, This Fissured Land (1992)"
+ ],
+ "verified": "2026-11-10"
+}

@@ -1,0 +1,178 @@
+{
+ "id": "2-0-1",
+ "title": "Water, Soil and Noise Pollution",
+ "emoji": "💧",
+ "cards": [
+  {
+   "tag": "Why this matters",
+   "h": "Everyday pollution, regular questions",
+   "b": "<p>Rivers, groundwater and noise are classic GS-III topics. Prelims tests terms like BOD and COD. Mains asks for causes, laws and schemes like Namami Gange.</p><p>One idea ties everything: pollution is not only about industry. Sewage and farming matter most in India.</p>"
+  },
+  {
+   "tag": "Water pollution",
+   "h": "Indicators",
+   "b": "<p><b>Dissolved oxygen (DO)</b> must be high for aquatic life. <b>BOD</b> (biochemical oxygen demand) shows organic pollution: high BOD means low DO. <b>COD</b> (chemical oxygen demand) includes chemically oxidisable matter and is higher than BOD.</p><p><b>Eutrophication</b> from nutrients causes algal bloom and fish kills. India’s biggest source is untreated sewage.</p>"
+  },
+  {
+   "tag": "Groundwater",
+   "h": "Natural and man-made problems",
+   "b": "<p><b>Fluoride</b> above 1.5 mg/L causes fluorosis (Rajasthan, Andhra Pradesh). <b>Arsenic</b> above 0.01 mg/L causes skin and cancer problems (Ganga plains, West Bengal, Bihar). <b>Nitrate</b> rises from fertiliser. Over-extraction also draws up salt and uranium in some areas.</p><p>The Central Ground Water Board monitors this.</p>"
+  },
+  {
+   "tag": "Laws and schemes (water)",
+   "h": "What exists",
+   "b": "<p>The <b>Water (Prevention and Control of Pollution) Act 1974</b> set up the CPCB and State Boards. The Water Cess Act 1977 taxes water use. Jan Vishwas amendments (2023–24) replaced many jail terms with penalties.</p><p>The <b>Ganga Action Plan</b> began in 1985. <b>Namami Gange</b> (2014) is run by the National Mission for Clean Ganga with sewage treatment as its core. The Ganga became a National River in 2008. <b>Jal Jeevan Mission</b> (2019) aims at tap water in every rural home.</p>"
+  },
+  {
+   "tag": "Soil pollution",
+   "h": "Quiet and slow",
+   "b": "<p>Causes: excess pesticide and fertiliser, industrial effluent, mining, solid waste, irrigation with polluted water. Result: salinity, alkalinity, loss of microbes, heavy metals entering food.</p><p>The <b>Soil Health Card</b> scheme (2015) promotes balanced use. <b>Organic farming</b> schemes such as PKVY reduce chemical load. Contaminated site rules remain weak in India.</p>"
+  },
+  {
+   "tag": "Noise pollution",
+   "h": "Rules and limits",
+   "b": "<p>Noise is measured in decibels (dB). The <b>Noise Pollution (Regulation and Control) Rules 2000</b> under the EPA give day (6 am to 10 pm) and night limits.</p><p>Day/night limits in dB(A): industrial 75/70, commercial 65/55, residential 55/45, <b>silence zone</b> 50/40. Silence zones extend to 100 m around hospitals, schools and courts. Loudspeakers are restricted between 10 pm and 6 am with limited exceptions.</p>"
+  },
+  {
+   "tag": "Other forms",
+   "h": "Thermal and marine",
+   "b": "<p><b>Thermal pollution</b> comes from power plant coolant water. It lowers oxygen in rivers. <b>Oil spills</b> harm seabirds and coasts. The <b>MARPOL</b> convention (1973/78) regulates ship pollution.</p><p>Plastic and microplastics now reach even the Himalaya and the deep sea.</p>"
+  },
+  {
+   "tag": "Debate",
+   "h": "Law is strong, enforcement is weak",
+   "b": "<p>State Pollution Control Boards are short of staff and funds, and sometimes politically pressured. Decriminalisation (Jan Vishwas) is defended as ease of doing business but criticised as weakening deterrence.</p><p>The polluter pays principle is accepted, yet recovery of environmental compensation is slow. River cleaning has focused on building plants; poor running and no ecological flow remain problems.</p>"
+  },
+  {
+   "tag": "Indian angle",
+   "h": "Rivers and cases",
+   "b": "<p>The Yamuna in Delhi, the Ganga near Kanpur and the Adyar and Cooum in Chennai are standard examples. The NGT has monitored Ganga and Yamuna cleaning.</p><p>The Supreme Court’s <b>M.C. Mehta v Union of India</b> (Ganga tanneries) and the <b>Vellore Citizens</b> case (1996) established the precautionary principle and polluter pays.</p>"
+  },
+  {
+   "tag": "Exam lens",
+   "h": "How to answer",
+   "b": "<p><b>Mains-style:</b> “Despite crores spent, Indian rivers remain polluted. Why? Suggest reforms.” Structure: causes (sewage gap, industry, agriculture); programmes (GAP, Namami Gange); failures (design, running costs, ecological flow, governance); way forward (decentralised treatment, reuse, river basin authorities).</p><p><b>Prelims tip:</b> BOD high means worse water. Fluoride limit 1.5 mg/L. Silence zone 100 m. Water Act 1974.</p>",
+   "cls": "exam"
+  }
+ ],
+ "quiz": [
+  {
+   "q": "A high BOD value indicates:",
+   "o": [
+    "Clean water",
+    "Heavy organic pollution",
+    "High oxygen",
+    "High salinity"
+   ],
+   "a": 1,
+   "w": "Bacteria consume oxygen to break organic matter, so BOD rises."
+  },
+  {
+   "q": "The Water Act in India was passed in:",
+   "o": [
+    "1974",
+    "1981",
+    "1986",
+    "1991"
+   ],
+   "a": 0,
+   "w": "It came before the Air Act of 1981."
+  },
+  {
+   "q": "Namami Gange was launched in:",
+   "o": [
+    "1985",
+    "2008",
+    "2019",
+    "2014"
+   ],
+   "a": 3,
+   "w": "The Ganga Action Plan was 1985."
+  },
+  {
+   "q": "Fluoride in drinking water above which limit causes fluorosis concern?",
+   "o": [
+    "0.01 mg/L",
+    "10 mg/L",
+    "1.5 mg/L",
+    "0.5 mg/L"
+   ],
+   "a": 2,
+   "w": "Arsenic’s limit is 0.01 mg/L."
+  },
+  {
+   "q": "The Noise Rules of 2000 are made under the:",
+   "o": [
+    "Air Act 1981",
+    "Environment Protection Act 1986",
+    "Water Act 1974",
+    "Wildlife Act 1972"
+   ],
+   "a": 1,
+   "w": "They were framed under EPA 1986."
+  },
+  {
+   "q": "Silence zone extends how far around hospitals?",
+   "o": [
+    "100 m",
+    "50 m",
+    "500 m",
+    "10 m"
+   ],
+   "a": 0,
+   "w": "Includes schools and courts."
+  },
+  {
+   "q": "Ganga was declared a National River in:",
+   "o": [
+    "2014",
+    "1985",
+    "2016",
+    "2008"
+   ],
+   "a": 3,
+   "w": "The Ganga River Basin Authority followed in 2009."
+  },
+  {
+   "q": "The convention on pollution from ships is:",
+   "o": [
+    "Basel",
+    "Ramsar",
+    "MARPOL",
+    "CITES"
+   ],
+   "a": 2,
+   "w": "MARPOL 73/78."
+  },
+  {
+   "q": "Which scheme gives balanced fertiliser advice to farmers?",
+   "o": [
+    "Jal Jeevan Mission",
+    "Soil Health Card",
+    "Ujjwala",
+    "Namami Gange"
+   ],
+   "a": 1,
+   "w": "Soil Health Card was launched in 2015."
+  },
+  {
+   "q": "The Vellore Citizens case (1996) established:",
+   "o": [
+    "Precautionary principle and polluter pays",
+    "Public trust only",
+    "Absolute liability",
+    "Right to forest"
+   ],
+   "a": 0,
+   "w": "It treated these as part of Indian environmental law."
+  }
+ ],
+ "sources": [
+  "Shankar IAS Environment",
+  "NCERT Biology Class XII",
+  "MoEFCC and PIB",
+  "Noise Pollution (Regulation and Control) Rules 2000",
+  "CPCB"
+ ],
+ "verified": "2026-11-10"
+}

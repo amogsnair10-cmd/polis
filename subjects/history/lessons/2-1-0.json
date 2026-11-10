@@ -1,0 +1,176 @@
+{
+ "id": "2-1-0",
+ "title": "Sculpture: Mauryan to Chola Bronzes",
+ "emoji": "🗿",
+ "cards": [
+  {
+   "tag": "Why this matters",
+   "h": "Stone and metal that speak",
+   "b": "<p>Each period of Indian sculpture has a signature look. Prelims asks you to match a school with its features and its material.</p>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "Indus and Mauryan",
+   "b": "<b>Harappan</b>: bearded priest (steatite), dancing girl (bronze, lost-wax), seals. <b>Mauryan</b>: polished sandstone, Chunar. Court art: Ashokan pillars and lion capital from Sarnath; Didarganj Yakshi; Dhauli elephant. Folk art: Parkham Yaksha (Mathura), Yakshis and Yakshas."
+  },
+  {
+   "tag": "Key idea",
+   "h": "Post-Mauryan schools",
+   "b": "<ul><li><b>Gandhara</b> (Kushana): Greco-Roman influence, Buddha with wavy hair, drapery, grey schist.</li><li><b>Mathura</b>: indigenous, red sandstone, first Buddha figures as well as Jain and Hindu figures; Kanishka’s headless statue.</li><li><b>Amaravati</b> (Satavahana): white marble, narrative friezes with the body shown as flowing.</li></ul>Bharhut and Sanchi reliefs show aniconic Buddha (wheel, tree, footprints)."
+  },
+  {
+   "tag": "Key idea",
+   "h": "Gupta and post-Gupta",
+   "b": "<p>Classical grace and calm. Sarnath Buddha in teaching pose (<i>dharmachakra mudra</i>); Mathura standing Buddha; Sultanganj copper Buddha. Hindu icons: Vishnu at Deogarh, Varaha at Udayagiri. After the Guptas: Pala (Bengal, black basalt, bronze at Nalanda), Pratihara and Chandela.</p>"
+  },
+  {
+   "tag": "Key idea",
+   "h": "Pallava and Chalukya sculpture",
+   "b": "<p>Mahabalipuram: <b>Descent of the Ganga (Arjuna’s Penance)</b>, a huge relief on a rock face; Mahishasuramardini cave. Elephanta (Trimurti, Shiva). Badami and Aihole (Chalukya). Ellora: Ravana shaking Kailasa. Natural movement and balance in all these.</p>"
+  },
+  {
+   "tag": "Key idea",
+   "h": "Chola bronzes",
+   "b": "<p>Cast by the <b>lost-wax (cire perdue)</b> method, an old Indian process. A clay model is covered in wax, then in clay again, wax is melted out, and metal is poured in. The Cholas (9th to 13th centuries) made the most famous bronzes: <b>Nataraja</b> (Shiva as cosmic dancer, ring of flames), Shiva as Ardhanarishvara, Sivakami, Rama, Sita, Hanuman, Parvati. The Swamimalai artisans (the <i>sthapathis</i>) still follow the old method.</p>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "Reading a Nataraja",
+   "b": "<p>The raised right hand holds the <i>damaru</i> (creation), the left holds fire (destruction). Another right hand makes <i>abhaya</i> (fear not); the left points to the raised foot (release). He dances on the dwarf <i>Apasmara</i>, the demon of ignorance. The ring of fire is the cosmos. The image became a symbol of Indian art; a Nataraja statue stands at CERN, Geneva (2004).</p>"
+  },
+  {
+   "tag": "Debate",
+   "h": "Gandhara: borrowed or reborn?",
+   "b": "<p>Western scholars once called it “Greco-Buddhist” and the high point of Indian Buddhist art. Indian nationalists such as Coomaraswamy argued the Mathura school was truly Indian and older in iconography. Today most see both as parallel responses to patronage in the Kushana world. For exams: keep the contrasts clear.</p>"
+  },
+  {
+   "tag": "Indian angle",
+   "h": "Why it matters today",
+   "b": "<p>Stolen idols are returning: Nataraja and other bronzes are repatriated by US and UK museums. The Antiquities and Art Treasures Act 1972 governs trade. Chola bronzes are among India’s GI-protected craft (Swamimalai bronze icons). Nataraja is the logo of the Indian government’s cultural bodies.</p>"
+  },
+  {
+   "tag": "Exam lens",
+   "h": "How to answer",
+   "b": "<ul><li>“Compare the Gandhara and Mathura schools.” Use a table: patron, material, influence, features.</li><li>“Chola bronzes represent the height of Indian metal sculpture.”</li><li>Prelims tip: Gandhara = grey schist, Hellenistic; Mathura = red sandstone, indigenous; Amaravati = white marble; lost-wax = Chola and Harappan.</li></ul>",
+   "cls": "exam"
+  }
+ ],
+ "quiz": [
+  {
+   "q": "The Dancing Girl of Mohenjo-daro is made of",
+   "o": [
+    "Steatite",
+    "Bronze by lost-wax method",
+    "Sandstone",
+    "Terracotta"
+   ],
+   "a": 1,
+   "w": "It is a small bronze figure."
+  },
+  {
+   "q": "The Mauryan polished stone came from",
+   "o": [
+    "Chunar",
+    "Mathura",
+    "Amaravati",
+    "Mahabalipuram"
+   ],
+   "a": 0,
+   "w": "Chunar sandstone with a high polish."
+  },
+  {
+   "q": "Gandhara sculpture mainly used",
+   "o": [
+    "Red sandstone",
+    "White marble",
+    "Granite",
+    "Grey schist"
+   ],
+   "a": 3,
+   "w": "Mathura used spotted red sandstone."
+  },
+  {
+   "q": "Which school shows Greco-Roman influence?",
+   "o": [
+    "Mathura",
+    "Amaravati",
+    "Gandhara",
+    "Sarnath"
+   ],
+   "a": 2,
+   "w": "It developed under the Kushanas."
+  },
+  {
+   "q": "Amaravati sculpture used",
+   "o": [
+    "Red sandstone",
+    "White marble",
+    "Schist",
+    "Basalt"
+   ],
+   "a": 1,
+   "w": "Under the Satavahanas."
+  },
+  {
+   "q": "Descent of the Ganga is at",
+   "o": [
+    "Mahabalipuram",
+    "Ellora",
+    "Elephanta",
+    "Khajuraho"
+   ],
+   "a": 0,
+   "w": "Pallava work."
+  },
+  {
+   "q": "Chola bronzes were made by",
+   "o": [
+    "Carving from stone",
+    "Wood casting",
+    "Terracotta firing",
+    "The lost-wax method"
+   ],
+   "a": 3,
+   "w": "Cire perdue method."
+  },
+  {
+   "q": "The dwarf under Nataraja’s foot is",
+   "o": [
+    "Kubera",
+    "Nandi",
+    "Apasmara",
+    "Garuda"
+   ],
+   "a": 2,
+   "w": "He stands for ignorance."
+  },
+  {
+   "q": "Pala sculpture used mainly",
+   "o": [
+    "Red sandstone",
+    "Black basalt and bronze",
+    "White marble",
+    "Schist"
+   ],
+   "a": 1,
+   "w": "Bengal and Bihar, 8th to 12th century."
+  },
+  {
+   "q": "The first images of the Buddha appear in the",
+   "o": [
+    "Kushana period",
+    "Mauryan period",
+    "Gupta period",
+    "Chola period"
+   ],
+   "a": 0,
+   "w": "Mathura and Gandhara."
+  }
+ ],
+ "sources": [
+  "Nitin Singhania, Indian Art and Culture",
+  "NCERT, An Introduction to Indian Art (XI)",
+  "Mains-style: sculpture"
+ ],
+ "verified": "2026-11-10"
+}

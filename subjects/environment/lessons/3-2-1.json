@@ -1,0 +1,177 @@
+{
+ "id": "3-2-1",
+ "title": "Renewable Energy and Energy Transition",
+ "emoji": "☀️",
+ "cards": [
+  {
+   "tag": "Why this matters",
+   "h": "Energy is the heart of India’s climate bargain",
+   "b": "<p>India must grow its economy, give reliable power, cut imports and shrink emissions together. UPSC asks about solar, wind, green hydrogen, nuclear and storage.</p><p>Use dated numbers.</p>"
+  },
+  {
+   "tag": "Where India stands",
+   "h": "Capacity",
+   "b": "<p>India reached <b>50 percent non-fossil installed capacity</b> in mid-2025 (about 485 GW total at the time), five years before the 2030 target. Solar crossed 100 GW in early 2025 and has kept rising (as of 2026, check MNRE).</p><p>Coal still gives roughly 70 percent of the electricity generated, because solar and wind run only part of the day.</p>"
+  },
+  {
+   "tag": "Targets",
+   "h": "500 GW by 2030",
+   "b": "<p>The Glasgow goal is <b>500 GW non-fossil capacity by 2030</b>, with solar as the largest part, then wind, hydro and nuclear. The earlier goal of 100 GW solar by 2022 was missed.</p><p>At COP28, over 100 countries backed a pledge to <b>triple renewable capacity</b> by 2030. India did not sign the pledge text, saying it prefers its own targets and wants equity in burden sharing.</p>"
+  },
+  {
+   "tag": "Solar schemes",
+   "h": "Rooftop, farms and factories",
+   "b": "<ul><li><b>PM Surya Ghar Muft Bijli Yojana</b> (2024): rooftop solar for 1 crore homes.</li><li><b>PM-KUSUM</b> (2019): solar pumps and feeders for farmers.</li><li><b>PLI scheme</b> and ALMM for domestic solar modules.</li><li>Solar parks and the <b>One Sun One World One Grid</b> idea.</li></ul>"
+  },
+  {
+   "tag": "Green hydrogen",
+   "h": "National Green Hydrogen Mission",
+   "b": "<p>Launched in January 2023 with about ₹19,744 crore. Aim: <b>5 million tonnes a year</b> of green hydrogen by 2030. Green hydrogen is made by splitting water with renewable power. It is for steel, fertiliser, refineries and shipping.</p><p>Challenges: high cost, electrolyser supply and storage. The SIGHT scheme supports electrolyser and hydrogen output.</p>"
+  },
+  {
+   "tag": "Nuclear, hydro and storage",
+   "h": "The firm power",
+   "b": "<p>Nuclear gives under 3 percent now. <b>Budget 2025–26</b> announced a Nuclear Energy Mission with ₹20,000 crore for small modular reactors and a goal of 100 GW by 2047, with a role for private firms.</p><p>Hydropower and pumped storage give balancing. Battery storage is supported by viability gap funding. The grid needs more transmission.</p>"
+  },
+  {
+   "tag": "Transition challenges",
+   "h": "Why it is hard",
+   "b": "<p><b>Intermittency</b> needs storage. <b>Land</b> is scarce. Solar equipment relies on imports, mostly from China. <b>Critical minerals</b> (lithium, cobalt, rare earths) are needed, and India launched the <b>National Critical Mineral Mission</b> in 2025.</p><p>Coal states such as Jharkhand and Odisha depend on mining jobs, so a <b>just transition</b> is vital.</p>"
+  },
+  {
+   "tag": "Debate",
+   "h": "Coal or clean first?",
+   "b": "<p>India’s power demand is growing fast, and the government continues adding coal capacity for reliability while expanding renewables. Critics worry about stranded assets and health costs. Supporters stress energy security and affordability.</p><p>Another debate: large solar parks versus rooftop and community systems.</p>"
+  },
+  {
+   "tag": "Indian angle",
+   "h": "Transport and efficiency",
+   "b": "<p><b>PM E-DRIVE</b> (2024) supports electric vehicles after FAME II. Ethanol blending reached 20 percent in 2025, ahead of schedule. Energy efficiency is guided by the <b>Energy Conservation Act 2001</b> and BEE star labels.</p><p><b>Viksit Bharat 2047</b> and Net Zero 2070 frame the long path.</p>"
+  },
+  {
+   "tag": "Exam lens",
+   "h": "How to answer",
+   "b": "<p><b>Mains-style:</b> “Discuss the challenges in India’s transition to renewable energy and suggest solutions.” Structure: progress (50 percent non-fossil capacity); barriers (intermittency, grid, import dependence, financing, land, coal jobs); solutions (storage, green hydrogen, domestic manufacturing, nuclear, just transition).</p><p><b>Prelims tip:</b> NGHM 2023, target 5 MMT. PM-KUSUM 2019. PM Surya Ghar 2024. ISA 2015.</p>",
+   "cls": "exam"
+  }
+ ],
+ "quiz": [
+  {
+   "q": "India reached 50 percent non-fossil installed capacity in:",
+   "o": [
+    "2030",
+    "2022",
+    "2019",
+    "2025"
+   ],
+   "a": 3,
+   "w": "Five years ahead of the target."
+  },
+  {
+   "q": "The National Green Hydrogen Mission targets how much by 2030?",
+   "o": [
+    "1 million tonnes",
+    "50 million tonnes",
+    "5 million tonnes a year",
+    "10 million tonnes"
+   ],
+   "a": 2,
+   "w": "It was launched in January 2023."
+  },
+  {
+   "q": "PM-KUSUM supports:",
+   "o": [
+    "Rooftop solar for homes",
+    "Solar pumps for farmers",
+    "EV charging",
+    "Biogas"
+   ],
+   "a": 1,
+   "w": "PM Surya Ghar is for homes."
+  },
+  {
+   "q": "Which scheme supports rooftop solar for 1 crore homes?",
+   "o": [
+    "PM Surya Ghar Muft Bijli Yojana",
+    "PM-KUSUM",
+    "FAME II",
+    "UJALA"
+   ],
+   "a": 0,
+   "w": "Launched in February 2024."
+  },
+  {
+   "q": "Green hydrogen is produced by:",
+   "o": [
+    "Steam reforming of natural gas",
+    "Coal gasification",
+    "Nuclear fission",
+    "Electrolysis using renewable power"
+   ],
+   "a": 3,
+   "w": "Grey hydrogen uses gas."
+  },
+  {
+   "q": "India’s long-term nuclear goal is:",
+   "o": [
+    "20 GW by 2030",
+    "500 GW by 2070",
+    "100 GW by 2047",
+    "50 GW by 2035"
+   ],
+   "a": 2,
+   "w": "Announced in Budget 2025–26."
+  },
+  {
+   "q": "PM E-DRIVE replaced which earlier scheme?",
+   "o": [
+    "UDAY",
+    "FAME II",
+    "Saubhagya",
+    "PLI auto"
+   ],
+   "a": 1,
+   "w": "E-mobility incentive scheme."
+  },
+  {
+   "q": "Which share of electricity generation does coal give (approx.)?",
+   "o": [
+    "About 70 percent",
+    "About 20 percent",
+    "About 40 percent",
+    "About 5 percent"
+   ],
+   "a": 0,
+   "w": "Even though capacity share is lower."
+  },
+  {
+   "q": "The National Critical Mineral Mission was launched in:",
+   "o": [
+    "2015",
+    "2019",
+    "2008",
+    "2025"
+   ],
+   "a": 3,
+   "w": "For lithium, cobalt and similar minerals."
+  },
+  {
+   "q": "The 500 GW goal is for:",
+   "o": [
+    "Solar alone by 2022",
+    "All power by 2070",
+    "Non-fossil capacity by 2030",
+    "Coal by 2040"
+   ],
+   "a": 2,
+   "w": "Announced at COP26."
+  }
+ ],
+ "sources": [
+  "Shankar IAS Environment",
+  "MoEFCC, MNRE and PIB",
+  "UNFCCC decisions",
+  "MNRE and PIB releases, 2024–2026"
+ ],
+ "verified": "2026-11-10"
+}

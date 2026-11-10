@@ -1,0 +1,177 @@
+{
+ "id": "3-1-0",
+ "title": "UNFCCC, Kyoto and the Paris Agreement",
+ "emoji": "🌍",
+ "cards": [
+  {
+   "tag": "Why this matters",
+   "h": "Treaty facts are Prelims and Mains staples",
+   "b": "<p>UPSC asks for the year, the principle and the difference between Kyoto and Paris. Mains asks if the system is fair and working.</p><p>Master the timeline and the three principles: CBDR-RC, precaution, sustainable development.</p><svg class='d' viewBox='0 0 320 130' role='img' aria-label='Climate treaty timeline'>\n<line x1='15' y1='60' x2='305' y2='60' stroke='#5d6474' stroke-width='2'/>\n<g font-size='10' fill='#1d2433' text-anchor='middle'>\n<circle cx='30' cy='60' r='5' fill='#a8792a'/><text x='30' y='46'>1992</text><text x='30' y='82'>UNFCCC</text>\n<circle cx='100' cy='60' r='5' fill='#2f6f7a'/><text x='100' y='46'>1997</text><text x='100' y='82'>Kyoto</text>\n<circle cx='170' cy='60' r='5' fill='#a8792a'/><text x='170' y='46'>2009</text><text x='170' y='82'>Copenhagen</text>\n<circle cx='240' cy='60' r='5' fill='#2f6f7a'/><text x='240' y='46'>2015</text><text x='240' y='82'>Paris</text>\n<circle cx='295' cy='60' r='5' fill='#a3362a'/><text x='295' y='46'>2023</text><text x='295' y='82'>Stocktake</text></g>\n<text x='160' y='115' font-size='10' text-anchor='middle' fill='#5d6474'>Top-down targets gave way to bottom-up pledges.</text></svg>"
+  },
+  {
+   "tag": "UNFCCC",
+   "h": "The framework, 1992",
+   "b": "<p>Adopted at the <b>Rio Earth Summit (1992)</b> and in force from <b>21 March 1994</b>. Nearly all countries (about 198 parties) have joined. It states the goal of stabilising greenhouse gases at a safe level. The COP is its supreme body and meets yearly.</p><p><b>Annex I</b> lists developed countries and economies in transition. <b>Annex II</b> lists rich countries that must give finance and technology. Others are <b>non-Annex I</b>, including India and China.</p>"
+  },
+  {
+   "tag": "Kyoto Protocol",
+   "h": "Top-down targets",
+   "b": "<p>Adopted in <b>1997</b>, in force <b>2005</b>. Only Annex I countries had legally binding targets: about 5 percent below 1990 levels in the first period (2008–12). The <b>Doha Amendment (2012)</b> set a second period for 2013–20.</p><p>Flexible tools: <b>emissions trading</b>, <b>Joint Implementation</b> and the <b>Clean Development Mechanism</b> (CDM). The US never ratified; Canada withdrew in 2011. Kyoto covered a shrinking share of global emissions.</p>"
+  },
+  {
+   "tag": "Road to Paris",
+   "h": "Steps in between",
+   "b": "<ul><li><b>Bali Action Plan</b> (2007).</li><li><b>Copenhagen</b> (2009): the $100 billion a year pledge and the 2 °C goal, but not binding.</li><li><b>Cancun</b> (2010): Green Climate Fund created.</li><li><b>Durban</b> (2011): talks for a new universal deal.</li><li><b>Lima</b> (2014): intended nationally determined contributions (INDCs).</li></ul>"
+  },
+  {
+   "tag": "Paris Agreement",
+   "h": "Adopted 2015",
+   "b": "<p>Adopted on 12 December 2015 at COP21 and in force on <b>4 November 2016</b>. It is universal and legally binding on process, not on targets.</p><p>Goal: keep warming <b>well below 2 °C</b>, pursue <b>1.5 °C</b>, reach peak and then balance of sources and sinks in the second half of the century, and align finance. Each country sets its own <b>Nationally Determined Contribution (NDC)</b> and renews it every five years with a <b>ratchet</b> (no backsliding).</p>"
+  },
+  {
+   "tag": "Paris machinery",
+   "h": "Key articles",
+   "b": "<ul><li><b>Article 6</b>: carbon markets and cooperative approaches. Rules were finalised at COP29 (Baku, 2024).</li><li><b>Article 7</b>: global goal on adaptation.</li><li><b>Article 8</b>: loss and damage.</li><li><b>Article 9</b>: finance from developed countries.</li><li><b>Article 13</b>: enhanced transparency framework.</li><li><b>Article 14</b>: <b>Global Stocktake</b> every five years. The first ended at COP28 (2023).</li></ul>"
+  },
+  {
+   "tag": "After Paris",
+   "h": "Rulebook and review",
+   "b": "<p>The <b>Katowice rulebook</b> (COP24, 2018) set the detailed rules. <b>COP26 Glasgow</b> (2021) asked countries to revisit targets and agreed to phase down unabated coal. The <b>Global Stocktake</b> concluded at COP28 (Dubai, 2023) and called for <b>transitioning away from fossil fuels</b> in energy systems.</p><p>By 2025 countries were due to submit new NDCs for 2035. Many were late, and India filed its updated NDC in 2026.</p>"
+  },
+  {
+   "tag": "Debate",
+   "h": "Kyoto versus Paris",
+   "b": "<p>Kyoto was top-down, binding for rich countries only, but limited in reach. Paris is bottom-up and universal, but targets are voluntary and current pledges still point beyond 2 °C without more action.</p><p>The US formally left Paris with effect from January 2026 (second time), which weakens finance. Developing countries say CBDR-RC has been diluted.</p>"
+  },
+  {
+   "tag": "Indian angle",
+   "h": "India’s stand",
+   "b": "<p>India ratified Paris in October 2016. It insists on equity, CBDR-RC, a historic responsibility link, climate finance and technology transfer. It supports market mechanisms with safeguards and opposes unilateral carbon border taxes such as the EU’s CBAM.</p><p>India’s net-zero target is 2070, announced at COP26 (2021).</p>"
+  },
+  {
+   "tag": "Exam lens",
+   "h": "How to answer",
+   "b": "<p><b>Mains-style:</b> “Compare the Kyoto Protocol and the Paris Agreement. Which is better for India?” Structure: Kyoto top-down, only Annex I; Paris bottom-up, NDCs; equity and finance; India’s gains (flexibility, space to develop) and risks (pressure to raise targets, CBAM).</p><p><b>Mains-style:</b> “CBDR-RC: is it being diluted?”</p><p><b>Prelims tip:</b> UNFCCC adopted 1992, in force 1994. Kyoto adopted 1997, in force 2005. Paris adopted 2015, in force 2016. CDM is under Kyoto’s Article 12.</p>",
+   "cls": "exam"
+  }
+ ],
+ "quiz": [
+  {
+   "q": "The UNFCCC was adopted in:",
+   "o": [
+    "1997",
+    "1992",
+    "2015",
+    "1987"
+   ],
+   "a": 1,
+   "w": "At the Rio Earth Summit."
+  },
+  {
+   "q": "Kyoto Protocol came into force in:",
+   "o": [
+    "2005",
+    "1997",
+    "2008",
+    "2016"
+   ],
+   "a": 0,
+   "w": "It was adopted in 1997."
+  },
+  {
+   "q": "Who had binding targets under Kyoto?",
+   "o": [
+    "All countries",
+    "Only the G20",
+    "Only LDCs",
+    "Annex I countries"
+   ],
+   "a": 3,
+   "w": "Developed countries and economies in transition."
+  },
+  {
+   "q": "The Paris Agreement came into force on:",
+   "o": [
+    "12 December 2015",
+    "1 January 2020",
+    "4 November 2016",
+    "22 April 2016"
+   ],
+   "a": 2,
+   "w": "Adopted in 2015; in force in 2016."
+  },
+  {
+   "q": "The Clean Development Mechanism was part of:",
+   "o": [
+    "Paris Agreement Article 14",
+    "Kyoto Protocol",
+    "Montreal Protocol",
+    "Basel Convention"
+   ],
+   "a": 1,
+   "w": "CDM is under Kyoto’s Article 12."
+  },
+  {
+   "q": "Paris Agreement’s goal is to hold warming well below:",
+   "o": [
+    "2 °C",
+    "3 °C",
+    "1 °C",
+    "2.5 °C"
+   ],
+   "a": 0,
+   "w": "And to pursue efforts for 1.5 °C."
+  },
+  {
+   "q": "The Global Stocktake occurs every:",
+   "o": [
+    "Two years",
+    "Ten years",
+    "Annually",
+    "Five years"
+   ],
+   "a": 3,
+   "w": "The first was completed at COP28."
+  },
+  {
+   "q": "The Green Climate Fund was created at:",
+   "o": [
+    "Paris (2015)",
+    "Kyoto (1997)",
+    "Cancun (2010)",
+    "Bali (2007)"
+   ],
+   "a": 2,
+   "w": "COP16 in Cancun."
+  },
+  {
+   "q": "Which Article of Paris deals with carbon markets?",
+   "o": [
+    "Article 9",
+    "Article 6",
+    "Article 13",
+    "Article 2"
+   ],
+   "a": 1,
+   "w": "Article 9 is finance; Article 13 is transparency."
+  },
+  {
+   "q": "Which mechanism does India oppose?",
+   "o": [
+    "Unilateral carbon border taxes",
+    "Green Climate Fund",
+    "Global Stocktake",
+    "Adaptation Fund"
+   ],
+   "a": 0,
+   "w": "India argues CBAM violates CBDR-RC."
+  }
+ ],
+ "sources": [
+  "Shankar IAS Environment",
+  "NCERT Geography and Biology",
+  "MoEFCC and PIB",
+  "UNFCCC texts: Convention 1992, Kyoto 1997, Paris 2015"
+ ],
+ "verified": "2026-11-10"
+}

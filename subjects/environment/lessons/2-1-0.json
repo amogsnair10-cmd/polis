@@ -1,0 +1,177 @@
+{
+ "id": "2-1-0",
+ "title": "Deforestation, Desertification and Land Degradation",
+ "emoji": "🏜️",
+ "cards": [
+  {
+   "tag": "Why this matters",
+   "h": "Land is a climate and livelihood issue",
+   "b": "<p>Nearly 30 percent of India’s land is degraded. UPSC links this to food security, floods, migration and climate. The key laws and conventions (UNCCD, Forest Conservation Act, FRA) appear in Prelims and Mains.</p><p>The core idea is <b>Land Degradation Neutrality</b>: no net loss of healthy land.</p>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "Three linked terms",
+   "b": "<p><b>Deforestation</b> is clearing forest for other uses. <b>Land degradation</b> is loss of productivity from erosion, salinity, waterlogging or loss of vegetation. <b>Desertification</b> is degradation in arid, semi-arid and dry sub-humid areas from climate and human activity. It does not mean desert spreading by sand alone.</p><p>Water erosion is the largest cause of degradation in India, followed by vegetation loss and wind erosion.</p>"
+  },
+  {
+   "tag": "Causes",
+   "h": "Why it happens",
+   "b": "<ul><li>Agriculture expansion, shifting cultivation (jhum) with short fallows.</li><li>Mining, dams and roads; urban sprawl.</li><li>Overgrazing and fuelwood collection.</li><li>Unsustainable irrigation causing salinity and waterlogging, for example in Punjab and Haryana.</li><li>Climate change: drought and extreme rain.</li></ul>"
+  },
+  {
+   "tag": "Numbers",
+   "h": "India’s land",
+   "b": "<p>The SAC-ISRO <b>Desertification and Land Degradation Atlas</b> reported that about <b>97.85 million hectares</b> (nearly 29.7 percent of India’s area) was degraded in 2018–19. The main hotspots are Rajasthan, Jharkhand, Odisha, Chhattisgarh, Gujarat and Delhi.</p><p>India has pledged to restore 26 million hectares by 2030 under the Bonn Challenge and the UNCCD, and to create an additional carbon sink of 2.5 to 3 billion tonnes of CO2 equivalent.</p>"
+  },
+  {
+   "tag": "UNCCD",
+   "h": "The global treaty",
+   "b": "<p>The <b>UN Convention to Combat Desertification</b> was adopted in 1994 (Paris) and entered into force in 1996. It is a result of the 1992 Rio Summit and is the only legally binding convention on land. It has a bottom-up approach with national action programmes.</p><p>India hosted <b>UNCCD COP14</b> in Greater Noida in 2019. The Delhi Declaration stressed land restoration and gender. Other efforts: the <b>Bonn Challenge</b> (2011), Africa’s <b>Great Green Wall</b>, and India’s plan for an Aravalli green belt.</p>"
+  },
+  {
+   "tag": "Forest law",
+   "h": "Forest Conservation Act and the 2023 change",
+   "b": "<p>The <b>Forest (Conservation) Act 1980</b> bars diversion of forest land without Central approval. In 1996 the <b>T.N. Godavarman</b> case widened the meaning of forest to its dictionary sense.</p><p>The <b>2023 amendment</b> (renamed Van (Sanrakshan Evam Samvardhan) Adhiniyam) limits the Act to land notified as forest or recorded as forest after 25 October 1980. It exempts some linear projects near borders and security infrastructure up to set sizes. The Supreme Court has directed that the wider 1996 definition be applied for now (as of 2024).</p>"
+  },
+  {
+   "tag": "Community role",
+   "h": "Rights and money",
+   "b": "<p>The <b>Forest Rights Act 2006</b> recognises individual and community forest rights for Scheduled Tribes and other traditional dwellers. <b>CAMPA</b> (Compensatory Afforestation Fund Act 2016) pays for afforestation when forest land is diverted.</p><p><b>Joint Forest Management</b> (1990) involves village committees. <b>Green India Mission</b> is under the NAPCC. The campaign “Ek Ped Maa Ke Naam” (2024) encourages tree planting.</p>"
+  },
+  {
+   "tag": "Debate",
+   "h": "Compensatory afforestation is not equal",
+   "b": "<p>Critics say planting trees elsewhere does not replace a natural forest. Plantations store less biodiversity and are often on poor land. Funds sit unspent for years.</p><p>Development needs, such as the Great Nicobar project and coal mining in Hasdeo Arand, create a standing conflict between growth and forest.</p>"
+  },
+  {
+   "tag": "Indian angle",
+   "h": "Examples",
+   "b": "<p>Ravines of the Chambal, salinity in the Indo-Gangetic canal belt, and loss of mangroves in the Sundarbans are land degradation cases. Rajasthan’s Thar is spreading at the edges.</p><p>Sikkim and Mizoram show better forest outcomes with community control. Meghalaya and Nagaland have community forests.</p>"
+  },
+  {
+   "tag": "Exam lens",
+   "h": "How to answer",
+   "b": "<p><b>Mains-style:</b> “What is land degradation? How does it affect food security, and what steps has India taken?” Structure: definition; extent (nearly 30 percent); causes; effects on yield and livelihoods; policy (soil health card, watershed development, Bonn commitment, UNCCD); way forward.</p><p><b>Mains-style:</b> “Critically evaluate the 2023 Forest Conservation amendment.”</p><p><b>Prelims tip:</b> UNCCD 1994, entered into force 1996, COP14 in India 2019. Bonn Challenge 2011.</p>",
+   "cls": "exam"
+  }
+ ],
+ "quiz": [
+  {
+   "q": "UNCCD was adopted in:",
+   "o": [
+    "1992",
+    "1994",
+    "1971",
+    "2015"
+   ],
+   "a": 1,
+   "w": "It came into force in 1996."
+  },
+  {
+   "q": "India hosted UNCCD COP14 in:",
+   "o": [
+    "2019",
+    "2010",
+    "2024",
+    "2015"
+   ],
+   "a": 0,
+   "w": "Held at Greater Noida."
+  },
+  {
+   "q": "How much of India’s land is degraded (SAC-ISRO atlas 2018–19)?",
+   "o": [
+    "About 5 percent",
+    "About 60 percent",
+    "About 15 percent",
+    "About 30 percent"
+   ],
+   "a": 3,
+   "w": "About 97.85 million hectares."
+  },
+  {
+   "q": "The Forest Conservation Act was passed in:",
+   "o": [
+    "1972",
+    "1986",
+    "1980",
+    "2006"
+   ],
+   "a": 2,
+   "w": "It was amended in 2023."
+  },
+  {
+   "q": "The Forest Rights Act was passed in:",
+   "o": [
+    "1980",
+    "2006",
+    "2002",
+    "2016"
+   ],
+   "a": 1,
+   "w": "It recognises forest rights of tribal and other dwellers."
+  },
+  {
+   "q": "India’s Bonn Challenge restoration pledge by 2030 is:",
+   "o": [
+    "26 million hectares",
+    "10 million hectares",
+    "50 million hectares",
+    "3 million hectares"
+   ],
+   "a": 0,
+   "w": "Also linked to a 2.5–3 billion tonne carbon sink."
+  },
+  {
+   "q": "CAMPA Act was enacted in:",
+   "o": [
+    "2006",
+    "1996",
+    "2023",
+    "2016"
+   ],
+   "a": 3,
+   "w": "It governs funds for compensatory afforestation."
+  },
+  {
+   "q": "Which case widened the meaning of forest?",
+   "o": [
+    "Vellore Citizens",
+    "Oleum Gas leak",
+    "T.N. Godavarman Thirumulpad",
+    "M.K. Ranjitsinh"
+   ],
+   "a": 2,
+   "w": "The 1996 order used the dictionary meaning."
+  },
+  {
+   "q": "Desertification relates to:",
+   "o": [
+    "Sand dunes only",
+    "Dry areas losing productive capacity",
+    "Glacier melt",
+    "Ocean acidification"
+   ],
+   "a": 1,
+   "w": "It is degradation in arid and semi-arid zones."
+  },
+  {
+   "q": "The Great Green Wall is an initiative in:",
+   "o": [
+    "The Sahel in Africa",
+    "Himalaya",
+    "The Amazon",
+    "Siberia"
+   ],
+   "a": 0,
+   "w": "It plants a belt across the Sahel."
+  }
+ ],
+ "sources": [
+  "Shankar IAS Environment",
+  "NCERT Geography and Biology",
+  "MoEFCC and PIB",
+  "UNCCD documents; SAC-ISRO Desertification Atlas 2021"
+ ],
+ "verified": "2026-11-10"
+}

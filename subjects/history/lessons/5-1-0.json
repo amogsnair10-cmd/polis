@@ -1,0 +1,171 @@
+{
+ "id": "5-1-0",
+ "title": "Colonialism and Imperialism in Asia and Africa",
+ "emoji": "🌍",
+ "cards": [
+  {
+   "tag": "Why this matters",
+   "h": "Why Europe ruled the world",
+   "b": "<p>From about 1870 Europe took Africa and much of Asia. The questions: why, how, and how did people respond? India sits at the centre of this story.</p>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "Old and new imperialism",
+   "b": "<p>Old: trade posts and mercantile empires (1500 to 1800). New (c. 1870 to 1914): direct rule, led by industrial powers needing raw materials, markets, investment and prestige. Hobson (<i>Imperialism</i>, 1902) and Lenin (<i>Imperialism, the Highest Stage of Capitalism</i>, 1916) offered economic explanations; Joseph Schumpeter and others added politics. Social Darwinism and the “white man’s burden” (Kipling, 1899) gave moral cover.</p>"
+  },
+  {
+   "tag": "Key idea",
+   "h": "Tools of empire",
+   "b": "<p>Quinine, steamships, the Maxim gun, telegraph and railways. The <b>Suez Canal</b> (1869) and Berlin Conference (1884 to 85) set rules for the “Scramble for Africa”. The Congo Free State (Leopold II) became a symbol of cruelty. By 1914 only Ethiopia and Liberia were free in Africa. British, French, German, Belgian, Italian and Portuguese empires divided the continent.</p>"
+  },
+  {
+   "tag": "Key idea",
+   "h": "Asia",
+   "b": "<ul><li><b>India</b>: British Raj after 1858.</li><li><b>China</b>: Opium Wars (1839 to 42; 1856 to 60), Treaty of Nanking (1842; Hong Kong ceded), treaty ports, Taiping Rebellion (1850 to 64), Boxer Rebellion (1899 to 1901), Open Door policy (US, 1899), 1911 revolution (Sun Yat-sen).</li><li><b>Japan</b>: Perry (1853), Meiji Restoration (1868), defeat of China (1894 to 95) and Russia (1904 to 05).</li><li><b>Southeast Asia</b>: Dutch East Indies, French Indochina, British Burma and Malaya, Siam as a buffer.</li></ul>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "Resistance",
+   "b": "<p>Early resistance was local and often by old elites (Abyssinia, Zulu, Ashanti, Mahdi in Sudan, Samori in West Africa, Maji Maji in German East Africa). Later movements were national: Indian National Congress (1885), Young Turks, Sun Yat-sen’s Tongmenghui, the Vietnamese nationalists. The Japanese victory in 1905 inspired many Asian leaders including Indians.</p>"
+  },
+  {
+   "tag": "Key idea",
+   "h": "Colonial economies",
+   "b": "<p>Cash crops (cotton, rubber, coffee, cocoa), mining (diamonds, gold in South Africa; copper in the Congo), indentured labour moved millions, including Indians to Mauritius, Fiji, the Caribbean, South Africa and Malaya. Borders drawn in Berlin cut across peoples, a source of later conflict. Education and bureaucracy created a small westernised elite who later led independence.</p>"
+  },
+  {
+   "tag": "Debate",
+   "h": "Did colonial rule modernise?",
+   "b": "<p>Defenders (Niall Ferguson) argue empire spread law, trade and institutions. Critics (Walter Rodney, <i>How Europe Underdeveloped Africa</i>, 1972; Edward Said, <i>Orientalism</i>, 1978) argue it caused underdevelopment and a cultural hold. Mike Davis (<i>Late Victorian Holocausts</i>, 2001) ties famines to colonial policy. The debate on reparations continues.</p>"
+  },
+  {
+   "tag": "Indian angle",
+   "h": "Why it matters today",
+   "b": "<p>Africa and India share a history of colonialism; Gandhi in South Africa, the Non-Aligned Movement and Bandung (1955) grew from it. India’s Africa policy, the African Union’s admission to the G20 (2023, under India’s presidency) and debates on restitution of artefacts and apologies (Jallianwala Bagh) make this live.</p>"
+  },
+  {
+   "tag": "Exam lens",
+   "h": "How to answer",
+   "b": "<ul><li>“The Scramble for Africa: causes and effects.”</li><li>“Economic and political imperialism: Hobson and Lenin.”</li><li>“Impact of colonialism on Asia and Africa.”</li><li>Prelims tip: Berlin Conference 1884 to 85; Suez 1869; Treaty of Nanking 1842; Meiji 1868; Open Door 1899.</li></ul>",
+   "cls": "exam"
+  }
+ ],
+ "quiz": [
+  {
+   "q": "The Berlin Conference on Africa was held in",
+   "o": [
+    "1884 to 85",
+    "1815",
+    "1919",
+    "1945"
+   ],
+   "a": 0,
+   "w": "It set the rules of partition."
+  },
+  {
+   "q": "Which African country was never colonised (apart from short Italian rule) by 1914?",
+   "o": [
+    "Nigeria",
+    "Kenya",
+    "Angola",
+    "Ethiopia"
+   ],
+   "a": 3,
+   "w": "It defeated Italy at Adwa in 1896."
+  },
+  {
+   "q": "The Treaty of Nanking (1842) ceded",
+   "o": [
+    "Macau to Portugal",
+    "Taiwan to Japan",
+    "Hong Kong to Britain",
+    "Manchuria to Russia"
+   ],
+   "a": 2,
+   "w": "It ended the First Opium War."
+  },
+  {
+   "q": "Imperialism, the Highest Stage of Capitalism was written by",
+   "o": [
+    "Hobson",
+    "Lenin",
+    "Marx",
+    "Schumpeter"
+   ],
+   "a": 1,
+   "w": "In 1916."
+  },
+  {
+   "q": "Who wrote Imperialism (1902)?",
+   "o": [
+    "J. A. Hobson",
+    "Lenin",
+    "Kipling",
+    "Rhodes"
+   ],
+   "a": 0,
+   "w": "A British liberal economist."
+  },
+  {
+   "q": "The Meiji Restoration was in",
+   "o": [
+    "1853",
+    "1894",
+    "1905",
+    "1868"
+   ],
+   "a": 3,
+   "w": "Japan modernised."
+  },
+  {
+   "q": "The Boxer Rebellion (1899 to 1901) was in",
+   "o": [
+    "Japan",
+    "Korea",
+    "China",
+    "Vietnam"
+   ],
+   "a": 2,
+   "w": "Anti-foreign uprising."
+  },
+  {
+   "q": "The Open Door policy (1899) was proposed by",
+   "o": [
+    "Britain",
+    "The USA",
+    "Germany",
+    "Russia"
+   ],
+   "a": 1,
+   "w": "For equal trade in China."
+  },
+  {
+   "q": "Walter Rodney wrote",
+   "o": [
+    "How Europe Underdeveloped Africa",
+    "Orientalism",
+    "The Wretched of the Earth",
+    "Late Victorian Holocausts"
+   ],
+   "a": 0,
+   "w": "Published in 1972."
+  },
+  {
+   "q": "Orientalism (1978) was written by",
+   "o": [
+    "Walter Rodney",
+    "Frantz Fanon",
+    "Niall Ferguson",
+    "Edward Said"
+   ],
+   "a": 3,
+   "w": "It critiques Western views of the East."
+  }
+ ],
+ "sources": [
+  "Norman Lowe, Mastering Modern World History",
+  "Bipan Chandra, Modern India (context)",
+  "Mains-style: imperialism"
+ ],
+ "verified": "2026-11-10"
+}

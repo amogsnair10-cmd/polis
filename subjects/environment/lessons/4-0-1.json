@@ -1,0 +1,177 @@
+{
+ "id": "4-0-1",
+ "title": "EIA and Environmental Clearance",
+ "emoji": "📋",
+ "cards": [
+  {
+   "tag": "Why this matters",
+   "h": "The gate every big project must pass",
+   "b": "<p>Mines, dams, highways and industries need environmental clearance. EIA stories reach the headlines often: Great Nicobar, Hasdeo, Char Dham. UPSC asks the process, the authorities and the criticism.</p><p>Remember the 2006 rules, the categories and the stages.</p>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "What EIA is",
+   "b": "<p><b>Environmental Impact Assessment</b> studies the likely effects of a project before it starts, then proposes measures to avoid or reduce harm. It is a planning tool and a legal requirement.</p><p>India’s first EIA rules came in <b>1994</b> under the Environment Protection Act 1986. They were replaced by the <b>EIA Notification 2006</b>, which is still the base.</p><svg class='d' viewBox='0 0 320 220' role='img' aria-label='EIA steps'>\n<defs><marker id='eia1' markerWidth='8' markerHeight='8' refX='6' refY='4' orient='auto'><path d='M0,0 L8,4 L0,8 z' fill='#5d6474'/></marker></defs>\n<g font-size='11' fill='#1d2433' text-anchor='middle'>\n<rect x='60' y='6' width='200' height='30' fill='#f1e4c6' stroke='#a8792a'/><text x='160' y='26'>1 Screening: is EIA needed?</text>\n<rect x='60' y='50' width='200' height='30' fill='#dceaec' stroke='#2f6f7a'/><text x='160' y='70'>2 Scoping: terms of reference</text>\n<rect x='60' y='94' width='200' height='30' fill='#f1e4c6' stroke='#a8792a'/><text x='160' y='114'>3 Public consultation</text>\n<rect x='60' y='138' width='200' height='30' fill='#dceaec' stroke='#2f6f7a'/><text x='160' y='158'>4 Appraisal by EAC or SEAC</text>\n<rect x='60' y='182' width='200' height='30' fill='#f4dcd5' stroke='#a3362a'/><text x='160' y='202'>5 Decision: grant or reject</text></g>\n<g stroke='#5d6474' stroke-width='1.5' marker-end='url(#eia1)'><line x1='160' y1='36' x2='160' y2='48'/><line x1='160' y1='80' x2='160' y2='92'/><line x1='160' y1='124' x2='160' y2='136'/><line x1='160' y1='168' x2='160' y2='180'/></g></svg>"
+  },
+  {
+   "tag": "Categories",
+   "h": "A and B",
+   "b": "<p>Projects listed in the schedule are <b>Category A</b> (large, appraised by the Centre’s <b>Expert Appraisal Committee, EAC</b>) or <b>Category B</b> (appraised by the State’s <b>SEIAA</b> with a State Expert Appraisal Committee). Category B splits into <b>B1</b> (needs an EIA report) and <b>B2</b> (no EIA report).</p><p>Examples: large mining, thermal power, river valley projects, highways above a size, and chemical plants.</p>"
+  },
+  {
+   "tag": "Stages",
+   "h": "Screening to decision",
+   "b": "<p><b>Screening</b> decides if EIA is needed (for B). <b>Scoping</b> fixes the terms of reference. <b>Public consultation</b> has a public hearing at the project site and written comments. The <b>appraisal committee</b> reviews the final report. The authority then grants or rejects, with conditions.</p><p>After clearance, <b>monitoring and compliance reports</b> follow. Clearance has a set validity.</p>"
+  },
+  {
+   "tag": "Related clearances",
+   "h": "More than one gate",
+   "b": "<p>A project may also need forest clearance (Van Adhiniyam), wildlife board clearance for protected areas, <b>CRZ clearance</b> and consent to establish and operate from the State Pollution Control Board. The <b>PARIVESH</b> portal (2018) puts these online.</p><p>Ecologically sensitive zones around protected areas add another layer. The Supreme Court in 2022 asked for a 1 km buffer around parks, then modified the order in 2023.</p>"
+  },
+  {
+   "tag": "Controversies",
+   "h": "The 2020 draft and ex post facto clearance",
+   "b": "<p>The <b>draft EIA 2020</b> proposed exemptions, shorter hearing notice and post-facto approval for violators. It drew large protests and was not finalised.</p><p>In <b>Vanashakti v Union of India (2025)</b> the Supreme Court struck down ex post facto environmental clearances; its later status has been revisited, so check the latest position.</p>"
+  },
+  {
+   "tag": "Public hearing",
+   "h": "Where citizens speak",
+   "b": "<p>The hearing is held near the site after a 30-day notice in local languages and newspapers. The State Pollution Control Board runs it with the district collector. The draft EIA report and summary must be available to the public. People can also send written comments.</p><p>Some projects are exempt from the hearing, such as certain modernisation, defence and border road projects. Critics say language barriers and intimidation weaken the process. Communities have used Gram Sabha resolutions to resist projects, as at Niyamgiri.</p>"
+  },
+  {
+   "tag": "Debate",
+   "h": "Rubber stamp or real check?",
+   "b": "<p>Critics say EIA reports are written by hired consultants, hearings are manipulated, cumulative impact is ignored, and post-clearance monitoring is weak. Rejections are rare.</p><p>Industry says delays raise costs. The balance between speed and safeguards is a standard Mains argument.</p>"
+  },
+  {
+   "tag": "Indian angle",
+   "h": "Landscape-level reports",
+   "b": "<p>The <b>Gadgil Committee (WGEEP, 2011)</b> proposed making the whole Western Ghats ecologically sensitive in three zones. The <b>Kasturirangan Committee (2013)</b> kept about 37 percent of the area (around 60,000 sq km) as an ecologically sensitive area. States opposed both in part.</p><p>Disasters like the Wayanad landslides (2024) revived the debate.</p>"
+  },
+  {
+   "tag": "Exam lens",
+   "h": "How to answer",
+   "b": "<p><b>Mains-style:</b> “What are the shortcomings of the EIA process in India? Suggest reforms.” Structure: process; flaws (consultant quality, weak hearings, no cumulative assessment, poor monitoring, post-facto approvals); reforms (independent EIA agency, public data, strict compliance).</p><p><b>Mains-style:</b> “Gadgil versus Kasturirangan: which approach suits the Western Ghats?”</p><p><b>Prelims tip:</b> EIA 1994, replaced 2006. Category A is Central EAC. Category B is State SEIAA. PARIVESH is the clearance portal.</p>",
+   "cls": "exam"
+  }
+ ],
+ "quiz": [
+  {
+   "q": "The current EIA Notification is from:",
+   "o": [
+    "1994",
+    "2006",
+    "2020",
+    "1986"
+   ],
+   "a": 1,
+   "w": "The 1994 one was replaced."
+  },
+  {
+   "q": "Category A projects are appraised by:",
+   "o": [
+    "The EAC at the Centre",
+    "SEIAA",
+    "The NGT",
+    "CPCB"
+   ],
+   "a": 0,
+   "w": "Category B goes to the State."
+  },
+  {
+   "q": "Which stage fixes the terms of reference?",
+   "o": [
+    "Screening",
+    "Appraisal",
+    "Decision",
+    "Scoping"
+   ],
+   "a": 3,
+   "w": "Scoping defines what the EIA covers."
+  },
+  {
+   "q": "Which committee proposed the whole Western Ghats as ecologically sensitive?",
+   "o": [
+    "Kasturirangan",
+    "Swaminathan",
+    "Gadgil",
+    "Rangarajan"
+   ],
+   "a": 2,
+   "w": "WGEEP 2011."
+  },
+  {
+   "q": "The clearance portal introduced in 2018 is:",
+   "o": [
+    "PRANA",
+    "PARIVESH",
+    "SAFAR",
+    "e-Shram"
+   ],
+   "a": 1,
+   "w": "A single-window system."
+  },
+  {
+   "q": "Kasturirangan report marked what share as ESA?",
+   "o": [
+    "About 37 percent",
+    "About 100 percent",
+    "About 10 percent",
+    "About 60 percent"
+   ],
+   "a": 0,
+   "w": "About 60,000 sq km."
+  },
+  {
+   "q": "The EIA rules are made under the:",
+   "o": [
+    "Wildlife Act 1972",
+    "NGT Act 2010",
+    "Air Act 1981",
+    "Environment Protection Act 1986"
+   ],
+   "a": 3,
+   "w": "Under Section 3."
+  },
+  {
+   "q": "B2 category projects require:",
+   "o": [
+    "A full EIA",
+    "Parliament’s approval",
+    "No EIA report",
+    "International review"
+   ],
+   "a": 2,
+   "w": "B1 requires an EIA report."
+  },
+  {
+   "q": "Public hearing is part of:",
+   "o": [
+    "Screening",
+    "Public consultation",
+    "Monitoring only",
+    "Decision only"
+   ],
+   "a": 1,
+   "w": "At or near the site."
+  },
+  {
+   "q": "The draft EIA 2020 drew criticism mainly for:",
+   "o": [
+    "Exemptions and post-facto approval",
+    "Raising penalties",
+    "Banning mining",
+    "Stronger hearings"
+   ],
+   "a": 0,
+   "w": "It was not finalised."
+  }
+ ],
+ "sources": [
+  "Shankar IAS Environment",
+  "Laxmikanth, Indian Polity (Art. 48A, 51A(g))",
+  "MoEFCC, PRS and PIB",
+  "EIA Notification 2006, MoEFCC"
+ ],
+ "verified": "2026-11-10"
+}

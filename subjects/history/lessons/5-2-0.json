@@ -1,0 +1,171 @@
+{
+ "id": "5-2-0",
+ "title": "Decolonisation and the Cold War",
+ "emoji": "❄️",
+ "cards": [
+  {
+   "tag": "Why this matters",
+   "h": "The two big stories of the late 20th century",
+   "b": "<p>Between 1945 and 1991 the colonies became states and the world split into two blocs. India was in the middle: it freed first, then led non-alignment.</p>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "Why empires ended",
+   "b": "<p>War exhaustion of Britain, France and the Netherlands; rise of the USA and USSR (both anti-colonial in speech); nationalist movements; the UN Charter’s self-determination; and the example of India (1947). Methods: negotiation (India, Ghana 1957), war (Algeria 1954 to 62, Vietnam), settler resistance (Kenya, Mau Mau), settler states (Rhodesia, South Africa). Portugal clung on until 1974 (Carnation Revolution).</p>"
+  },
+  {
+   "tag": "Key idea",
+   "h": "Waves of decolonisation",
+   "b": "<ul><li><b>1945 to 1950s</b>: India, Pakistan, Burma, Ceylon (1947 to 48), Indonesia (1949), Vietnam (Dien Bien Phu 1954).</li><li><b>1960</b>, the “Year of Africa”: 17 states.</li><li><b>1960s to 70s</b>: Algeria 1962, Kenya 1963, Angola and Mozambique 1975, Zimbabwe 1980, Namibia 1990.</li><li>South Africa’s end of apartheid (1994, Mandela).</li></ul>Bandung Conference (1955), Non-Aligned Movement (Belgrade, 1961; Nehru, Tito, Nasser, Nkrumah, Sukarno)."
+  },
+  {
+   "tag": "Core idea",
+   "h": "Origins of the Cold War",
+   "b": "<p>Ideological gap between capitalism and communism; the Soviet hold on Eastern Europe; mutual fear. Churchill’s “iron curtain” speech (1946). <b>Truman Doctrine</b> (1947, aid to Greece and Turkey); <b>Marshall Plan</b> (1948, about $13 billion); Cominform; <b>Berlin Blockade</b> (1948 to 49) and the airlift. NATO (1949); Warsaw Pact (1955). Containment (George Kennan’s Long Telegram, 1946).</p>"
+  },
+  {
+   "tag": "Key event",
+   "h": "Crises and phases",
+   "b": "<ul><li>1949: Soviet bomb; Chinese revolution. 1950 to 53: <b>Korean War</b>.</li><li>1956: Hungary, Suez. 1961: Berlin Wall.</li><li>1962: <b>Cuban Missile Crisis</b>; hotline in 1963; Partial Test Ban Treaty 1963.</li><li>1965 to 75: Vietnam war.</li><li><b>Détente</b> (1970s): SALT I (1972), Helsinki Accords (1975).</li><li>1979: Soviet invasion of Afghanistan; “new Cold War”.</li></ul>"
+  },
+  {
+   "tag": "Key idea",
+   "h": "End of the Cold War",
+   "b": "<p>Gorbachev (from 1985): <i>glasnost</i> and <i>perestroika</i>; INF Treaty (1987); fall of the Berlin Wall (9 November 1989); German unification (October 1990); Warsaw Pact ended (1991); failed coup (August 1991); the USSR dissolved on 26 December 1991. Reasons: economic stagnation, arms race costs, Afghanistan, nationalism, and Reagan’s pressure.</p>"
+  },
+  {
+   "tag": "Debate",
+   "h": "Who started it?",
+   "b": "<p>Orthodox (traditionalist) writers blamed Stalin; revisionists such as William Appleman Williams and Gabriel Kolko blamed US economic expansion; post-revisionists such as John Lewis Gaddis (<i>We Now Know</i>, 1997) found fault on both sides. Francis Fukuyama’s “end of history” (1989) was challenged by Huntington’s <i>Clash of Civilizations</i> (1993).</p>"
+  },
+  {
+   "tag": "Indian angle",
+   "h": "Why it matters today",
+   "b": "<p>India’s non-alignment was a form of strategic autonomy; its 1971 treaty with the USSR; its role in Korea (Custodian Force, Chair of the Neutral Nations Repatriation Commission, K. P. S. Thimayya). Today’s “multi-alignment” and the new great-power rivalry between the US and China are debated as a possible “new Cold War”.</p>"
+  },
+  {
+   "tag": "Exam lens",
+   "h": "How to answer",
+   "b": "<ul><li>“Discuss the role of NAM in the Cold War.”</li><li>“Decolonisation of Africa: patterns and problems.”</li><li>“Why did the Cold War end?”</li><li>Prelims tip: Truman 1947; Marshall 1948; NATO 1949; Warsaw 1955; Cuba 1962; Berlin Wall 1961 and 1989; USSR dissolved Dec 1991.</li></ul>",
+   "cls": "exam"
+  }
+ ],
+ "quiz": [
+  {
+   "q": "The Truman Doctrine (1947) offered aid to",
+   "o": [
+    "Poland and Hungary",
+    "Greece and Turkey",
+    "China and Korea",
+    "Cuba and Mexico"
+   ],
+   "a": 1,
+   "w": "To contain communism."
+  },
+  {
+   "q": "The Marshall Plan was for",
+   "o": [
+    "Economic recovery of Western Europe",
+    "Military alliance",
+    "Asian aid",
+    "Nuclear limits"
+   ],
+   "a": 0,
+   "w": "It began in 1948."
+  },
+  {
+   "q": "NATO was formed in",
+   "o": [
+    "1945",
+    "1955",
+    "1961",
+    "1949"
+   ],
+   "a": 3,
+   "w": "Warsaw Pact answered in 1955."
+  },
+  {
+   "q": "The Berlin Wall was built in",
+   "o": [
+    "1948",
+    "1953",
+    "1961",
+    "1989"
+   ],
+   "a": 2,
+   "w": "It fell in 1989."
+  },
+  {
+   "q": "The Cuban Missile Crisis was in",
+   "o": [
+    "1956",
+    "1962",
+    "1961",
+    "1973"
+   ],
+   "a": 1,
+   "w": "Between Kennedy and Khrushchev."
+  },
+  {
+   "q": "The Non-Aligned Movement’s first summit was held in",
+   "o": [
+    "Belgrade, 1961",
+    "Bandung, 1955",
+    "Cairo, 1964",
+    "Delhi, 1983"
+   ],
+   "a": 0,
+   "w": "Tito, Nehru, Nasser, Nkrumah, Sukarno."
+  },
+  {
+   "q": "Bandung Conference was held in",
+   "o": [
+    "1947",
+    "1961",
+    "1971",
+    "1955"
+   ],
+   "a": 3,
+   "w": "It was an Afro-Asian meet."
+  },
+  {
+   "q": "Glasnost means",
+   "o": [
+    "Restructuring",
+    "Containment",
+    "Openness",
+    "Autonomy"
+   ],
+   "a": 2,
+   "w": "Gorbachev’s policy."
+  },
+  {
+   "q": "The Soviet Union formally dissolved in",
+   "o": [
+    "November 1989",
+    "December 1991",
+    "August 1991",
+    "March 1985"
+   ],
+   "a": 1,
+   "w": "On 26 December."
+  },
+  {
+   "q": "Who wrote The Clash of Civilizations?",
+   "o": [
+    "Samuel Huntington",
+    "Francis Fukuyama",
+    "John Gaddis",
+    "George Kennan"
+   ],
+   "a": 0,
+   "w": "Published in 1993."
+  }
+ ],
+ "sources": [
+  "Norman Lowe, Mastering Modern World History",
+  "NCERT Class XII, Themes in World History / Contemporary World Politics",
+  "J. L. Gaddis, We Now Know (1997)"
+ ],
+ "verified": "2026-11-10"
+}

@@ -1,0 +1,176 @@
+{
+ "id": "1-1-0",
+ "title": "The Indian Monsoon",
+ "emoji": "🌧️",
+ "cards": [
+  {
+   "tag": "Why this matters",
+   "h": "Monsoon is India's real finance minister",
+   "b": "<p>Monsoon gives about 75% of annual rainfall, and farming employs a big share of workers. A weak monsoon raises food prices and cuts rural income. It features in GS I (climate), GS III (agriculture) and even Essay papers.</p>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "What is the monsoon?",
+   "b": "<p>The word comes from the Arabic <b>mausim</b>, meaning season. It is a seasonal reversal of winds: south-west in summer, north-east in winter. India's monsoon is the strongest because of the big landmass of Asia, the Tibetan plateau and the Indian Ocean.</p>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "Classical and modern explanations",
+   "b": "<p><b>Classical (Halley, 1686)</b>: land heats faster than sea, giving a bigger sea breeze. <b>Modern theory</b> (Flohn, 1950s) ties it to the shift of the ITCZ: when the Sun moves north, the trough moves over the Ganga plain, and the south-east trades cross the equator, turning right to become south-west monsoon.</p><svg class=\"d\" viewBox=\"0 0 320 174\"><rect x=\"10\" y=\"6\" width=\"75\" height=\"36\" rx=\"6\" fill=\"#f4dcd5\" stroke=\"#a3362a\" stroke-width=\"1.5\"/><text x=\"47.5\" y=\"28.0\" fill=\"#a3362a\" font-size=\"11\" text-anchor=\"middle\" font-weight=\"700\">Heating</text><rect x=\"91\" y=\"6\" width=\"219\" height=\"36\" rx=\"6\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"200.5\" y=\"28.0\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\">Hot land, low pressure; cooler sea, high pressure</text><rect x=\"10\" y=\"48\" width=\"75\" height=\"36\" rx=\"6\" fill=\"#f1e4c6\" stroke=\"#a8792a\" stroke-width=\"1.5\"/><text x=\"47.5\" y=\"70.0\" fill=\"#7d5a1c\" font-size=\"11\" text-anchor=\"middle\" font-weight=\"700\">ITCZ</text><rect x=\"91\" y=\"48\" width=\"219\" height=\"36\" rx=\"6\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"200.5\" y=\"70.0\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\">Moves north to the Gangetic plain, the monsoon trough</text><rect x=\"10\" y=\"90\" width=\"75\" height=\"36\" rx=\"6\" fill=\"#dceaec\" stroke=\"#2f6f7a\" stroke-width=\"1.5\"/><text x=\"47.5\" y=\"112.0\" fill=\"#2f6f7a\" font-size=\"11\" text-anchor=\"middle\" font-weight=\"700\">Jets</text><rect x=\"91\" y=\"90\" width=\"219\" height=\"36\" rx=\"6\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"200.5\" y=\"112.0\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\">Subtropical jet leaves; easterly jet arrives</text><rect x=\"10\" y=\"132\" width=\"75\" height=\"36\" rx=\"6\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"47.5\" y=\"154.0\" fill=\"#1d2433\" font-size=\"11\" text-anchor=\"middle\" font-weight=\"700\">Tibet</text><rect x=\"91\" y=\"132\" width=\"219\" height=\"36\" rx=\"6\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"200.5\" y=\"154.0\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\">Heated plateau pulls air up and in</text></svg>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "The onset and the two branches",
+   "b": "<svg class=\"d\" viewBox=\"0 0 320 220\"><defs><marker id=\"mnA\" viewBox=\"0 0 10 10\" refX=\"8\" refY=\"5\" markerWidth=\"6\" markerHeight=\"6\" orient=\"auto\"><path d=\"M0 0 L10 5 L0 10 z\" fill=\"#2f6f7a\"/></marker></defs><path d=\"M110 30 L220 30 L250 60 L210 90 L190 150 L165 200 L140 150 L100 100 L90 60 Z\" fill=\"#f1e4c6\" stroke=\"#a8792a\" stroke-width=\"1.5\"/><path d=\"M20 165 L95 135\" stroke=\"#2f6f7a\" stroke-width=\"3\" marker-end=\"url(#mnA)\"/><path d=\"M260 190 L215 150\" stroke=\"#2f6f7a\" stroke-width=\"3\" marker-end=\"url(#mnA)\"/><text x=\"55\" y=\"155\" fill=\"#2f6f7a\" font-size=\"10\" text-anchor=\"middle\" font-weight=\"700\">Arabian Sea</text><text x=\"55\" y=\"167\" fill=\"#2f6f7a\" font-size=\"10\" text-anchor=\"middle\" font-weight=\"700\">branch</text><text x=\"270\" y=\"185\" fill=\"#2f6f7a\" font-size=\"10\" text-anchor=\"middle\" font-weight=\"700\">Bay of Bengal</text><text x=\"270\" y=\"197\" fill=\"#2f6f7a\" font-size=\"10\" text-anchor=\"middle\" font-weight=\"700\">branch</text><text x=\"160\" y=\"18\" fill=\"#1d2433\" font-size=\"11\" text-anchor=\"middle\" font-weight=\"700\">South-west monsoon winds</text><text x=\"210\" y=\"50\" fill=\"#7d5a1c\" font-size=\"10\" text-anchor=\"middle\" font-weight=\"700\">Himalaya</text><text x=\"160\" y=\"100\" fill=\"#a3362a\" font-size=\"10\" text-anchor=\"middle\" font-weight=\"700\">Plains</text><text x=\"40\" y=\"100\" fill=\"#5d6474\" font-size=\"10\" text-anchor=\"middle\">Heavy rain on</text><text x=\"40\" y=\"112\" fill=\"#5d6474\" font-size=\"10\" text-anchor=\"middle\">Western Ghats</text></svg><p>The <b>Arabian Sea branch</b> is stronger and hits the Western Ghats first. The <b>Bay of Bengal branch</b> brings rain to the north-east and the Ganga plains. Onset is sudden: the <b>burst</b>.</p>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "Dates of the monsoon",
+   "b": "<svg class=\"d\" viewBox=\"0 0 320 218\"><rect x=\"10\" y=\"6\" width=\"150\" height=\"26\" rx=\"6\" fill=\"#f1e4c6\" stroke=\"#a8792a\" stroke-width=\"1.5\"/><text x=\"85.0\" y=\"23\" fill=\"#7d5a1c\" font-size=\"11\" text-anchor=\"middle\" font-weight=\"700\">Event</text><rect x=\"160\" y=\"6\" width=\"150\" height=\"26\" rx=\"6\" fill=\"#f1e4c6\" stroke=\"#a8792a\" stroke-width=\"1.5\"/><text x=\"235.0\" y=\"23\" fill=\"#7d5a1c\" font-size=\"11\" text-anchor=\"middle\" font-weight=\"700\">Date (normal)</text><rect x=\"10\" y=\"32\" width=\"150\" height=\"30\" rx=\"0\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"85.0\" y=\"51\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\" font-weight=\"700\">Onset, Kerala</text><rect x=\"160\" y=\"32\" width=\"150\" height=\"30\" rx=\"0\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"235.0\" y=\"51\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\">1 June</text><rect x=\"10\" y=\"62\" width=\"150\" height=\"30\" rx=\"0\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"85.0\" y=\"81\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\" font-weight=\"700\">Reaches Mumbai</text><rect x=\"160\" y=\"62\" width=\"150\" height=\"30\" rx=\"0\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"235.0\" y=\"81\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\">About 11 June</text><rect x=\"10\" y=\"92\" width=\"150\" height=\"30\" rx=\"0\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"85.0\" y=\"111\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\" font-weight=\"700\">Reaches Delhi</text><rect x=\"160\" y=\"92\" width=\"150\" height=\"30\" rx=\"0\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"235.0\" y=\"111\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\">About 27-30 June</text><rect x=\"10\" y=\"122\" width=\"150\" height=\"30\" rx=\"0\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"85.0\" y=\"141\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\" font-weight=\"700\">Covers India</text><rect x=\"160\" y=\"122\" width=\"150\" height=\"30\" rx=\"0\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"235.0\" y=\"141\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\">8 July</text><rect x=\"10\" y=\"152\" width=\"150\" height=\"30\" rx=\"0\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"85.0\" y=\"171\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\" font-weight=\"700\">Withdrawal starts</text><rect x=\"160\" y=\"152\" width=\"150\" height=\"30\" rx=\"0\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"235.0\" y=\"171\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\">17 September (Rajasthan)</text><rect x=\"10\" y=\"182\" width=\"150\" height=\"30\" rx=\"0\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"85.0\" y=\"201\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\" font-weight=\"700\">Withdrawal ends</text><rect x=\"160\" y=\"182\" width=\"150\" height=\"30\" rx=\"0\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"235.0\" y=\"201\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\">About 15 October</text></svg><p>Dates are normal values set by IMD; the onset over Kerala has varied from late May to early June in recent years. Withdrawal takes about a month, and October heat is the <b>retreating monsoon</b> with clear skies.</p>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "Spatial pattern",
+   "b": "<p>India's average rainfall is about 117 cm. <b>Mawsynram</b> and Cherrapunji in Meghalaya get over 1,100 cm; Jaisalmer gets under 10 cm. The <b>Rain shadow</b> east of the Western Ghats gets little. The north-east monsoon (October to December) is the main rain for Tamil Nadu.</p><p>Rain comes in <b>spells</b>. <b>Break monsoon</b> is a gap of days when the trough shifts to the Himalaya foothills.</p>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "What disturbs it",
+   "b": "<p><b>El Nino</b> (usually weakens), <b>IOD</b> (positive helps), <b>Eurasian snow</b>, <b>MJO</b> (a 30-60 day pulse) and <b>western disturbances</b> are key. IMD gives <b>Long Period Average</b> forecasts: normal is 96 to 104% of LPA (87 cm for 1971-2020 base).</p><p>2023: about 94% of LPA (El Nino); 2024: about 108%, above normal.</p>"
+  },
+  {
+   "tag": "Debate",
+   "h": "Is the monsoon changing?",
+   "b": "<p>Studies suggest fewer rainy days but more extreme downpours: floods in Kerala (2018), Chennai (2015), Himachal (2023). Some see a long-term weakening from aerosols; others see recovery with warming. For answers, say that the <b>mean</b> may be steady but <b>variability</b> is rising, which hits dryland farmers hardest.</p>"
+  },
+  {
+   "tag": "Indian angle",
+   "h": "Monsoon and the economy",
+   "b": "<p>A good monsoon lifts kharif crops (rice, pulses, cotton), reservoirs, hydropower and rural demand. A bad one raises food inflation, leading to export curbs on rice or sugar (as in 2023). IMD issues forecasts in April and updates in May and June. <b>Mission Mausam</b> aims at better models. Crop insurance (PMFBY) and contingency plans cushion shocks.</p>"
+  },
+  {
+   "tag": "Exam lens",
+   "cls": "exam",
+   "h": "How to write this",
+   "b": "<div class=\"box\"><h4>Likely questions</h4><p>\"Explain the mechanism of the south-west monsoon. Why is its onset sudden?\" (15 marks)</p><p>\"What are the causes of break in the monsoon?\" (10 marks)</p></div><p><b>Structure:</b> mechanism (ITCZ, jets, Tibet) with a diagram; onset and withdrawal dates; regional pattern; risks; economy.</p><p><b>Prelims tip:</b> know the normal onset date, the tropical easterly jet, the 87 cm LPA, and the retreating monsoon in October.</p>"
+  }
+ ],
+ "quiz": [
+  {
+   "q": "The word monsoon comes from the Arabic word for",
+   "o": [
+    "Rain",
+    "Wind",
+    "Season",
+    "Cloud"
+   ],
+   "a": 2,
+   "w": "Mausim means season."
+  },
+  {
+   "q": "Normal onset of the monsoon over Kerala is on",
+   "o": [
+    "1 June",
+    "15 May",
+    "15 June",
+    "1 July"
+   ],
+   "a": 0,
+   "w": "IMD's normal date."
+  },
+  {
+   "q": "Monsoon covers the entire country normally by",
+   "o": [
+    "15 June",
+    "1 August",
+    "1 July",
+    "8 July"
+   ],
+   "a": 3,
+   "w": "The revised normal date."
+  },
+  {
+   "q": "The retreating monsoon withdraws first from",
+   "o": [
+    "Kerala",
+    "West Rajasthan",
+    "Assam",
+    "Chennai"
+   ],
+   "a": 1,
+   "w": "Withdrawal begins around 17 September."
+  },
+  {
+   "q": "Which place receives the highest rainfall?",
+   "o": [
+    "Jaisalmer",
+    "Mawsynram",
+    "Chennai",
+    "Mumbai"
+   ],
+   "a": 1,
+   "w": "Located in Meghalaya, it is among the wettest places on Earth."
+  },
+  {
+   "q": "A positive IOD generally",
+   "o": [
+    "Cuts monsoon rainfall",
+    "Shifts it to winter",
+    "Has no effect",
+    "Helps monsoon rainfall"
+   ],
+   "a": 3,
+   "w": "It brings warmer water to the western Indian Ocean."
+  },
+  {
+   "q": "Break in monsoon happens when the monsoon trough",
+   "o": [
+    "Moves to the Himalayan foothills",
+    "Moves south over Kerala",
+    "Disappears",
+    "Reverses"
+   ],
+   "a": 0,
+   "w": "Rain falls in the Himalaya and the plains stay dry."
+  },
+  {
+   "q": "Normal monsoon is",
+   "o": [
+    "90-95% of LPA",
+    "105-110% of LPA",
+    "96-104% of LPA",
+    "Under 90% of LPA"
+   ],
+   "a": 2,
+   "w": "IMD's classification."
+  },
+  {
+   "q": "Halley's explanation relies on",
+   "o": [
+    "Jet streams",
+    "El Nino",
+    "Sunspots",
+    "Differential heating of land and sea"
+   ],
+   "a": 3,
+   "w": "This is the classical thermal theory."
+  },
+  {
+   "q": "North-east monsoon rain mainly benefits",
+   "o": [
+    "Tamil Nadu",
+    "Punjab",
+    "Rajasthan",
+    "Assam"
+   ],
+   "a": 0,
+   "w": "It gives Tamil Nadu most of its rain in October to December."
+  }
+ ],
+ "sources": [
+  "NCERT Class 11, India: Physical Environment, ch. 4",
+  "IMD monsoon reports",
+  "Majid Husain, Geography of India"
+ ],
+ "verified": "2026-11-10"
+}

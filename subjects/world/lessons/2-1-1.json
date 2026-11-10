@@ -1,0 +1,169 @@
+{
+ "id": "2-1-1",
+ "title": "Han China and the Silk Road",
+ "emoji": "🐪",
+ "cards": [
+  {
+   "tag": "Why this matters",
+   "h": "A man went to find allies and came back 13 years later",
+   "b": "<p>In about 138 BCE, the Han emperor Wu sent an officer named Zhang Qian west to find allies against the Xiongnu, the horse-riding nomads who kept raiding China.</p><p>The Xiongnu captured him. He escaped after about ten years, kept going, and came home after thirteen. He had opened up the world.</p>"
+  },
+  {
+   "tag": "The story",
+   "h": "From Qin to Han",
+   "b": "<p>In 221 BCE <b>Qin Shi Huang</b> united China and was buried with a clay army. His dynasty fell fast. In 202 BCE, <b>Liu Bang</b>, a commoner, founded the <b>Han</b> dynasty, which ruled until 220 CE.</p><p>Han rulers used Confucian ideas for their officials. Emperor Wu (141-87 BCE) expanded the empire a lot.</p>"
+  },
+  {
+   "tag": "The turning point",
+   "h": "Zhang Qian's report",
+   "b": "<p>Zhang Qian reported on cities, horses and peoples in Central Asia, such as Ferghana's famous horses and a land called Daxia (Bactria). The Han then pushed into the Tarim basin.</p><p>Trade followed. Chinese silk, so light and so valuable, travelled west. Horses, grapes and glass came east.</p>"
+  },
+  {
+   "tag": "The twist",
+   "h": "A road with no name",
+   "b": "<svg class=\"d\" viewBox=\"0 0 320 214\"><defs><marker id=\"ar2\" markerWidth=\"8\" markerHeight=\"8\" refX=\"4\" refY=\"4\" orient=\"auto\"><path d=\"M0,0 L8,4 L0,8 z\" fill=\"#5d6474\"/></marker></defs><rect x=\"16\" y=\"2\" width=\"288\" height=\"28\" rx=\"6\" fill=\"#f1e4c6\" stroke=\"#a8792a\"/><text x=\"160\" y=\"20\" font-size=\"11\" text-anchor=\"middle\" fill=\"#1d2433\">Chang'an (Han capital)</text><line x1=\"160\" y1=\"30\" x2=\"160\" y2=\"42\" stroke=\"#5d6474\" stroke-width=\"1.5\" marker-end=\"url(#ar2)\"/><rect x=\"16\" y=\"44\" width=\"288\" height=\"28\" rx=\"6\" fill=\"#dceaec\" stroke=\"#2f6f7a\"/><text x=\"160\" y=\"62\" font-size=\"11\" text-anchor=\"middle\" fill=\"#1d2433\">Dunhuang and the desert oases</text><line x1=\"160\" y1=\"72\" x2=\"160\" y2=\"84\" stroke=\"#5d6474\" stroke-width=\"1.5\" marker-end=\"url(#ar2)\"/><rect x=\"16\" y=\"86\" width=\"288\" height=\"28\" rx=\"6\" fill=\"#f1e4c6\" stroke=\"#a8792a\"/><text x=\"160\" y=\"104\" font-size=\"11\" text-anchor=\"middle\" fill=\"#1d2433\">Kashgar and the Pamir mountains</text><line x1=\"160\" y1=\"114\" x2=\"160\" y2=\"126\" stroke=\"#5d6474\" stroke-width=\"1.5\" marker-end=\"url(#ar2)\"/><rect x=\"16\" y=\"128\" width=\"288\" height=\"28\" rx=\"6\" fill=\"#dceaec\" stroke=\"#2f6f7a\"/><text x=\"160\" y=\"146\" font-size=\"11\" text-anchor=\"middle\" fill=\"#1d2433\">Samarkand, Merv and Persia</text><line x1=\"160\" y1=\"156\" x2=\"160\" y2=\"168\" stroke=\"#5d6474\" stroke-width=\"1.5\" marker-end=\"url(#ar2)\"/><rect x=\"16\" y=\"170\" width=\"288\" height=\"28\" rx=\"6\" fill=\"#f1e4c6\" stroke=\"#a8792a\"/><text x=\"160\" y=\"188\" font-size=\"11\" text-anchor=\"middle\" fill=\"#1d2433\">Antioch and the Roman world</text></svg><p>There was no single 'Silk Road'. The name was coined by the German geographer <b>Ferdinand von Richthofen</b> in 1877. Few travellers went the whole way. Goods passed through many hands and prices soared.</p>"
+  },
+  {
+   "tag": "The story",
+   "h": "Ideas, paper and plague",
+   "b": "<p>Han China made big advances: paper (a court official, Cai Lun, presented an improved paper in 105 CE), the seismoscope of Zhang Heng, and a census in 2 CE counting about 58 million people.</p><p>Along with silk, the road carried religions and diseases. Large epidemics are recorded in both empires in the 2nd century CE.</p>"
+  },
+  {
+   "tag": "The story",
+   "h": "Han meets Rome (almost)",
+   "b": "<p>In 97 CE a Han envoy, <b>Gan Ying</b>, got as far as the Persian Gulf but turned back, scared by stories of a long sea voyage. Chinese records mention a 'Daqin' (Rome) embassy in 166 CE, probably merchants.</p><p>The two empires knew about each other but never really met.</p>"
+  },
+  {
+   "tag": "Myth vs fact",
+   "h": "Was the Silk Road mainly about silk?",
+   "b": "<b>Myth:</b> it carried mostly silk from China to Rome.<b>Fact:</b> it carried everything: spices, horses, glass, gold, ideas and religions. Buddhism, Manichaeism and later Islam travelled. Also, sea routes were big too, especially to India and Rome.<p>Finally, Rome's elite loved silk so much that some senators objected. That is true.</p>"
+  },
+  {
+   "tag": "Indian angle",
+   "h": "Meanwhile in India…",
+   "b": "<p>The Kushans in the middle</p>"
+  },
+  {
+   "tag": "Recap",
+   "h": "Five takeaways, two puzzles",
+   "b": "<p><b>Five things to remember</b></p><ol><li>Han (202 BCE-220 CE) followed the short-lived Qin.</li><li>Zhang Qian's journey opened Central Asia to China.</li><li>The Silk Road was a web, not one road.</li><li>Paper, census and science marked the Han.</li><li>Kushans linked India to the Silk Road.</li></ol><p><b>Think about it</b></p><ul><li>Why would empires fight to control trade routes?</li><li>What travels faster along trade routes, goods or ideas?</li></ul>",
+   "cls": "exam"
+  }
+ ],
+ "quiz": [
+  {
+   "q": "Who founded the Han?",
+   "o": [
+    "Qin Shi Huang",
+    "Wu Zetian",
+    "Liu Bang",
+    "Kublai"
+   ],
+   "a": 2,
+   "w": "In 202 BCE."
+  },
+  {
+   "q": "Zhang Qian was sent to...",
+   "o": [
+    "Find allies against the Xiongnu",
+    "Find tea",
+    "Build the Wall",
+    "Meet Rome"
+   ],
+   "a": 0,
+   "w": "Around 138 BCE."
+  },
+  {
+   "q": "Who named the 'Silk Road'?",
+   "o": [
+    "Marco Polo",
+    "Zhang Qian",
+    "Ashoka",
+    "Ferdinand von Richthofen"
+   ],
+   "a": 3,
+   "w": "In 1877."
+  },
+  {
+   "q": "Cai Lun is linked to...",
+   "o": [
+    "Gunpowder",
+    "Paper",
+    "The compass",
+    "Silk"
+   ],
+   "a": 1,
+   "w": "Presented to the court in 105 CE."
+  },
+  {
+   "q": "The Han ruled until...",
+   "o": [
+    "220 CE",
+    "202 BCE",
+    "618 CE",
+    "1368 CE"
+   ],
+   "a": 0,
+   "w": "After four centuries."
+  },
+  {
+   "q": "The Xiongnu were...",
+   "o": [
+    "Roman soldiers",
+    "Han farmers",
+    "Persian traders",
+    "Horse-riding nomads"
+   ],
+   "a": 3,
+   "w": "Northern neighbours."
+  },
+  {
+   "q": "Gandhara art mixed...",
+   "o": [
+    "Roman and Mongol",
+    "Greek and Indian styles",
+    "Egyptian and Chinese",
+    "Persian and African"
+   ],
+   "a": 1,
+   "w": "Under the Kushans."
+  },
+  {
+   "q": "Kanishka was a...",
+   "o": [
+    "Han emperor",
+    "Mauryan king",
+    "Kushan king",
+    "Persian satrap"
+   ],
+   "a": 2,
+   "w": "1st-2nd century CE."
+  },
+  {
+   "q": "The Silk Road carried...",
+   "o": [
+    "Only silk",
+    "Only soldiers",
+    "Only tea",
+    "Goods, ideas and diseases"
+   ],
+   "a": 3,
+   "w": "A web of routes."
+  },
+  {
+   "q": "Buddhism reached China about...",
+   "o": [
+    "The 1st century CE",
+    "The 10th century BCE",
+    "The 15th century CE",
+    "The 6th century CE only"
+   ],
+   "a": 0,
+   "w": "Traditional date 67 CE is doubted, but era agreed."
+  }
+ ],
+ "sources": [
+  "Hansen, The Silk Road: A New History (2012); Loewe, The Han Dynasty; Sima Qian, Shiji; Liu, The Silk Road in World History"
+ ],
+ "verified": "2026-11-10"
+}

@@ -1,0 +1,177 @@
+{
+ "id": "2-0-2",
+ "title": "Solid, Plastic, E-waste and Hazardous Waste",
+ "emoji": "🗑️",
+ "cards": [
+  {
+   "tag": "Why this matters",
+   "h": "Waste is a governance test",
+   "b": "<p>India generates tens of millions of tonnes of solid waste a year, and city dumps like Ghazipur in Delhi are visible failures. UPSC asks about the rule sets, the EPR idea and global treaties.</p><p>Learn each rule with its year. Mains likes the idea that waste is a resource problem, not just a disposal problem.</p>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "The waste hierarchy",
+   "b": "<p>Reduce, reuse, recycle, recover, dispose. Landfill is the last option. A <b>circular economy</b> keeps materials in use.</p><p><b>Extended Producer Responsibility (EPR)</b> makes the maker of a product responsible for its waste after use. It is the main tool in Indian rules for plastics, e-waste, batteries and tyres.</p>"
+  },
+  {
+   "tag": "Municipal solid waste",
+   "h": "Solid Waste Management Rules 2016",
+   "b": "<p>The 2016 rules replaced the 2000 rules. They require <b>source segregation</b> into wet, dry and domestic hazardous waste, extend to areas beyond municipal limits, bring in <b>bulk waste generators</b>, and push composting and waste-to-energy.</p><p>Revised rules were in preparation at the time of writing; check the latest status. Related: <b>Swachh Bharat Mission (Urban) 2.0</b> aims at garbage-free cities. Indore is the model city.</p>"
+  },
+  {
+   "tag": "Plastic waste",
+   "h": "Rules and bans",
+   "b": "<p>The <b>Plastic Waste Management Rules 2016</b> were amended in 2021. Identified <b>single-use plastics</b> were banned from 1 July 2022. Carry bag thickness was raised to 75 microns (September 2021) and 120 microns (December 2022).</p><p>The 2022 <b>EPR guidelines for plastic packaging</b> set recycling targets and mandate registration on a central portal. Plastic credits can be traded.</p>"
+  },
+  {
+   "tag": "E-waste",
+   "h": "E-Waste (Management) Rules 2022",
+   "b": "<p>India is among the largest producers of e-waste. The 2022 rules (in force April 2023) replaced the 2016 rules. They set <b>EPR targets and certificates</b> for producers, and cover refurbishers and recyclers.</p><p>Informal recyclers handle most e-waste, exposing workers to lead, mercury and burning fumes. Linking them to formal channels is a major Mains point.</p>"
+  },
+  {
+   "tag": "Hazardous, medical and others",
+   "h": "The family of rules",
+   "b": "<ul><li><b>Hazardous and Other Wastes Rules 2016</b>: includes control of cross-border movement.</li><li><b>Bio-Medical Waste Rules 2016</b> with colour-coded bags.</li><li><b>Construction and Demolition Waste Rules 2016</b>.</li><li><b>Battery Waste Management Rules 2022</b> with EPR.</li><li><b>Basel Convention</b> (1989) bans dumping of hazardous waste in poorer countries; <b>Rotterdam</b> (1998) is prior informed consent; <b>Stockholm</b> (2001) targets persistent organic pollutants.</li></ul>"
+  },
+  {
+   "tag": "Global plastics",
+   "h": "The treaty talks",
+   "b": "<p>The UN agreed in 2022 to negotiate a legally binding plastics treaty. Talks in Busan (December 2024) and Geneva (August 2025) ended without agreement, split over production caps versus waste management.</p><p>India’s stance favours waste management and common but differentiated responsibilities, and resists production caps.</p>"
+  },
+  {
+   "tag": "Debate",
+   "h": "EPR and the informal sector",
+   "b": "<p>EPR can fund recycling, but credits may be traded on paper without real collection. Critics say the rules ignore the role of waste pickers, who are the real recyclers.</p><p>Waste-to-energy plants also face criticism for low-calorific mixed waste, air emissions and costs. Source segregation, not technology, is the weak link.</p>"
+  },
+  {
+   "tag": "Indian angle",
+   "h": "Cities and legacy dumps",
+   "b": "<p>Landfill fires and trash mountains at Ghazipur, Bhalswa and Deonar are recurring news. Programmes such as <b>Swachh Bharat</b> and <b>bio-mining of legacy waste</b> try to clear them.</p><p>Indore, Surat and Ambikapur show that segregation and community systems work. Kerala’s <b>Haritha Karma Sena</b> uses women’s groups.</p>"
+  },
+  {
+   "tag": "Exam lens",
+   "h": "How to answer",
+   "b": "<p><b>Mains-style:</b> “E-waste is an emerging threat. Examine India’s regulatory framework and gaps.” Structure: scale; rules (2016 then 2022 EPR); implementation gaps (informal sector, low collection); way forward (formalisation, design for repair, right to repair).</p><p><b>Mains-style:</b> “Discuss EPR as a tool for plastic waste management.”</p><p><b>Prelims tip:</b> Learn each year: SWM 2016, Plastic 2016 (amended 2021), E-waste 2022, Battery 2022. Basel = hazardous waste.</p>",
+   "cls": "exam"
+  }
+ ],
+ "quiz": [
+  {
+   "q": "Which convention deals with hazardous waste movement?",
+   "o": [
+    "Rotterdam",
+    "Stockholm",
+    "Basel",
+    "Minamata"
+   ],
+   "a": 2,
+   "w": "Basel (1989). Stockholm is POPs; Rotterdam is PIC; Minamata is mercury."
+  },
+  {
+   "q": "EPR stands for:",
+   "o": [
+    "Environmental Protection Rule",
+    "Extended Producer Responsibility",
+    "Emission Permit Rate",
+    "Eco Product Rating"
+   ],
+   "a": 1,
+   "w": "It places post-use responsibility on producers."
+  },
+  {
+   "q": "Identified single-use plastics were banned in India from:",
+   "o": [
+    "1 July 2022",
+    "2 October 2019",
+    "1 April 2023",
+    "15 August 2021"
+   ],
+   "a": 0,
+   "w": "The ban took effect on 1 July 2022."
+  },
+  {
+   "q": "The E-Waste (Management) Rules in force from April 2023 were notified in:",
+   "o": [
+    "2016",
+    "2011",
+    "2019",
+    "2022"
+   ],
+   "a": 3,
+   "w": "They replaced the 2016 rules."
+  },
+  {
+   "q": "Solid Waste Management Rules replaced the 2000 rules in:",
+   "o": [
+    "2011",
+    "2022",
+    "2016",
+    "2005"
+   ],
+   "a": 2,
+   "w": "They introduced segregation at source."
+  },
+  {
+   "q": "Which colour-coded system applies to the Bio-Medical Waste Rules?",
+   "o": [
+    "Green, blue only",
+    "Yellow, red, white, blue",
+    "Red only",
+    "Black only"
+   ],
+   "a": 1,
+   "w": "The rules mandate four colour categories."
+  },
+  {
+   "q": "Stockholm Convention targets:",
+   "o": [
+    "Persistent organic pollutants",
+    "Mercury",
+    "Wetlands",
+    "Ozone"
+   ],
+   "a": 0,
+   "w": "POPs such as DDT are covered."
+  },
+  {
+   "q": "The 2025 Geneva plastics treaty round ended:",
+   "o": [
+    "With a binding treaty",
+    "With a production cap",
+    "With India’s exit",
+    "Without agreement"
+   ],
+   "a": 3,
+   "w": "Countries remained divided."
+  },
+  {
+   "q": "Which scheme aims at garbage-free cities?",
+   "o": [
+    "PM-KUSUM",
+    "Jal Jeevan Mission",
+    "SBM-Urban 2.0",
+    "AMRUT"
+   ],
+   "a": 2,
+   "w": "SBM-U 2.0 runs 2021 to 2026."
+  },
+  {
+   "q": "Which Indian city is the model for segregation?",
+   "o": [
+    "Chennai",
+    "Indore",
+    "Jaipur",
+    "Patna"
+   ],
+   "a": 1,
+   "w": "Indore has topped the cleanliness survey for several years."
+  }
+ ],
+ "sources": [
+  "Shankar IAS Environment",
+  "NCERT Biology Class XII",
+  "MoEFCC and PIB",
+  "Solid Waste, Plastic Waste and E-Waste rules, MoEFCC"
+ ],
+ "verified": "2026-11-10"
+}

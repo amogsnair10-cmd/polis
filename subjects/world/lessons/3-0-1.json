@@ -1,0 +1,169 @@
+{
+ "id": "3-0-1",
+ "title": "The Rise of Islam and the Abbasid Golden Age",
+ "emoji": "🌙",
+ "cards": [
+  {
+   "tag": "Why this matters",
+   "h": "From a desert town to the world's best library in 200 years",
+   "b": "<p>In about 610 CE, a merchant of Mecca named Muhammad began to preach. Within a century, an Arabic-speaking empire stretched from Spain to Sindh.</p><p>How did this happen so fast? And what did it do with the world's books once it got them?</p>"
+  },
+  {
+   "tag": "The story",
+   "h": "The beginning",
+   "b": "<b>Muhammad</b> (about 570-632 CE) taught belief in one God. After conflict in Mecca, he moved to Medina in <b>622 CE</b>, the Hijra. That year begins the Islamic calendar. By his death most of Arabia was united.<p>The next leaders, the Rashidun caliphs, conquered Syria, Egypt and Persia in about 30 years. The Persian and Byzantine empires were exhausted from wars with each other.</p>"
+  },
+  {
+   "tag": "The turning point",
+   "h": "The Umayyads, then a revolution",
+   "b": "<p>The <b>Umayyad caliphate</b> (661-750) ruled from Damascus. Arabs held top posts, and non-Arab converts resented it. In 750 the <b>Abbasids</b> overthrew the Umayyads, with strong support from Persian-speaking eastern regions. One Umayyad prince escaped and founded a state in Spain.</p>"
+  },
+  {
+   "tag": "The twist",
+   "h": "A circular city",
+   "b": "<svg class=\"d\" viewBox=\"0 0 320 214\"><defs><marker id=\"ar1\" markerWidth=\"8\" markerHeight=\"8\" refX=\"4\" refY=\"4\" orient=\"auto\"><path d=\"M0,0 L8,4 L0,8 z\" fill=\"#5d6474\"/></marker></defs><rect x=\"16\" y=\"2\" width=\"288\" height=\"28\" rx=\"6\" fill=\"#f1e4c6\" stroke=\"#a8792a\"/><text x=\"160\" y=\"20\" font-size=\"11\" text-anchor=\"middle\" fill=\"#1d2433\">Abbasids found Baghdad, 762</text><line x1=\"160\" y1=\"30\" x2=\"160\" y2=\"42\" stroke=\"#5d6474\" stroke-width=\"1.5\" marker-end=\"url(#ar1)\"/><rect x=\"16\" y=\"44\" width=\"288\" height=\"28\" rx=\"6\" fill=\"#dceaec\" stroke=\"#2f6f7a\"/><text x=\"160\" y=\"62\" font-size=\"11\" text-anchor=\"middle\" fill=\"#1d2433\">Books of Greece, Persia, India collected</text><line x1=\"160\" y1=\"72\" x2=\"160\" y2=\"84\" stroke=\"#5d6474\" stroke-width=\"1.5\" marker-end=\"url(#ar1)\"/><rect x=\"16\" y=\"86\" width=\"288\" height=\"28\" rx=\"6\" fill=\"#f1e4c6\" stroke=\"#a8792a\"/><text x=\"160\" y=\"104\" font-size=\"11\" text-anchor=\"middle\" fill=\"#1d2433\">Scholars translate them into Arabic</text><line x1=\"160\" y1=\"114\" x2=\"160\" y2=\"126\" stroke=\"#5d6474\" stroke-width=\"1.5\" marker-end=\"url(#ar1)\"/><rect x=\"16\" y=\"128\" width=\"288\" height=\"28\" rx=\"6\" fill=\"#dceaec\" stroke=\"#2f6f7a\"/><text x=\"160\" y=\"146\" font-size=\"11\" text-anchor=\"middle\" fill=\"#1d2433\">Muslims add new discoveries</text><line x1=\"160\" y1=\"156\" x2=\"160\" y2=\"168\" stroke=\"#5d6474\" stroke-width=\"1.5\" marker-end=\"url(#ar1)\"/><rect x=\"16\" y=\"170\" width=\"288\" height=\"28\" rx=\"6\" fill=\"#f1e4c6\" stroke=\"#a8792a\"/><text x=\"160\" y=\"188\" font-size=\"11\" text-anchor=\"middle\" fill=\"#1d2433\">Latin translators carry them to Europe</text></svg><p>Caliph al-Mansur founded <b>Baghdad</b> in 762 as a round city on the Tigris. It became one of the largest cities in the world, with a paper industry (the craft came from China) feeding its book markets.</p>"
+  },
+  {
+   "tag": "The story",
+   "h": "Scholars of the golden age",
+   "b": "<b>Al-Khwarizmi</b> (about 780-850) wrote a book on <i>al-jabr</i>, giving us 'algebra'. His name gives us 'algorithm'. <b>Ibn al-Haytham</b> (about 965-1040) did experiments on light and sight. <b>Al-Razi</b> wrote on medicine. <b>Al-Biruni</b> studied India.<p>The <b>House of Wisdom</b> in Baghdad is famous as a great library and translation centre. Historians disagree on how formal it really was.</p>"
+  },
+  {
+   "tag": "The story",
+   "h": "The end of the golden age",
+   "b": "<p>Abbasid power weakened as regional rulers took over. In 1258, the Mongol army of Hulagu sacked <b>Baghdad</b> and killed the last Abbasid caliph. Many people died; estimates vary widely.</p><p>But Islamic science and culture lived on in Cairo, Cordoba, Samarkand and later in Istanbul and Delhi.</p>"
+  },
+  {
+   "tag": "Myth vs fact",
+   "h": "Did the Tigris run black with ink?",
+   "b": "<b>Myth:</b> in 1258 the Tigris ran black with the ink of books thrown in by the Mongols, and red with blood.<b>Fact:</b> this poetic image comes from later writers. Baghdad's libraries were badly damaged, but exact details are uncertain. Also, 'Arabic numerals' are a misnomer: Arabs got them from India."
+  },
+  {
+   "tag": "Indian angle",
+   "h": "Meanwhile in India…",
+   "b": "<p>Numbers, zero and the sword</p>"
+  },
+  {
+   "tag": "Recap",
+   "h": "Five takeaways, two puzzles",
+   "b": "<p><b>Five things to remember</b></p><ol><li>Hijra in 622 marks year one of the Islamic calendar.</li><li>The Umayyads (661-750) ruled from Damascus; the Abbasids from Baghdad.</li><li>Baghdad's scholars saved and extended world knowledge.</li><li>Al-Khwarizmi gave us algebra and algorithm.</li><li>The Mongols took Baghdad in 1258.</li></ol><p><b>Think about it</b></p><ul><li>What makes a city a centre of knowledge?</li><li>Who deserves credit for an idea that travels through many hands?</li></ul>",
+   "cls": "exam"
+  }
+ ],
+ "quiz": [
+  {
+   "q": "The Hijra was in...",
+   "o": [
+    "570 CE",
+    "750 CE",
+    "622 CE",
+    "1258 CE"
+   ],
+   "a": 2,
+   "w": "Muhammad's move to Medina."
+  },
+  {
+   "q": "Umayyad capital...",
+   "o": [
+    "Damascus",
+    "Baghdad",
+    "Cairo",
+    "Mecca"
+   ],
+   "a": 0,
+   "w": "661-750."
+  },
+  {
+   "q": "Abbasid capital founded in 762...",
+   "o": [
+    "Cairo",
+    "Cordoba",
+    "Delhi",
+    "Baghdad"
+   ],
+   "a": 3,
+   "w": "By al-Mansur."
+  },
+  {
+   "q": "Which scholar's name gives 'algorithm'?",
+   "o": [
+    "Ibn al-Haytham",
+    "Al-Khwarizmi",
+    "Al-Razi",
+    "Al-Biruni"
+   ],
+   "a": 1,
+   "w": "His name was Latinised."
+  },
+  {
+   "q": "'Algebra' comes from...",
+   "o": [
+    "al-jabr",
+    "al-ghazal",
+    "al-qanun",
+    "al-sifr"
+   ],
+   "a": 0,
+   "w": "From his book title."
+  },
+  {
+   "q": "Ibn al-Haytham worked mostly on...",
+   "o": [
+    "Poetry",
+    "Navigation",
+    "Law",
+    "Optics"
+   ],
+   "a": 3,
+   "w": "Book of Optics."
+  },
+  {
+   "q": "Baghdad fell to the Mongols in...",
+   "o": [
+    "1453",
+    "1258",
+    "1099",
+    "751"
+   ],
+   "a": 1,
+   "w": "Hulagu's army."
+  },
+  {
+   "q": "Muhammad bin Qasim took...",
+   "o": [
+    "Bengal",
+    "Gujarat",
+    "Sindh",
+    "Kashmir"
+   ],
+   "a": 2,
+   "w": "In 711."
+  },
+  {
+   "q": "'Arabic' numerals came from...",
+   "o": [
+    "Greece",
+    "China",
+    "Rome",
+    "India"
+   ],
+   "a": 3,
+   "w": "Via Arabic books."
+  },
+  {
+   "q": "A surviving Umayyad prince founded a state in...",
+   "o": [
+    "Spain",
+    "Egypt",
+    "Iran",
+    "India"
+   ],
+   "a": 0,
+   "w": "Al-Andalus."
+  }
+ ],
+ "sources": [
+  "Kennedy, The Great Arab Conquests (2007); Gutas, Greek Thought, Arabic Culture (1998); Saliba on Islamic science; al-Biruni, Kitab al-Hind"
+ ],
+ "verified": "2026-11-10"
+}

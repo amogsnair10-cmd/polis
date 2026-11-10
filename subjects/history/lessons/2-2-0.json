@@ -1,0 +1,176 @@
+{
+ "id": "2-2-0",
+ "title": "Classical and Folk Dances",
+ "emoji": "💃",
+ "cards": [
+  {
+   "tag": "Why this matters",
+   "h": "Dance is a favourite Prelims topic",
+   "b": "<p>Questions ask which dance belongs to which state, who the exponents are, and what is classical. The Natya Shastra and the Sangeet Natak Akademi are the key reference points.</p>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "What makes a dance classical",
+   "b": "<p>The <b>Natya Shastra</b> of Bharata (c. 2nd century BCE to 2nd century CE) gives the base: <i>nritta</i> (pure dance), <i>nritya</i> (expressive dance), <i>natya</i> (drama); <i>abhinaya</i> (expression) and <i>rasa</i> (mood). The <b>Sangeet Natak Akademi</b> (1953) recognises eight classical forms; the Ministry of Culture (2000) added Chhau in debate but does not list it. The commonly listed eight: Bharatanatyam, Kathak, Kuchipudi, Odissi, Kathakali, Sattriya, Manipuri, Mohiniyattam.</p>"
+  },
+  {
+   "tag": "Key idea",
+   "h": "Bharatanatyam and Kuchipudi",
+   "b": "<ul><li><b>Bharatanatyam</b> (Tamil Nadu): from <i>Sadir</i> of temple <i>devadasis</i>; Tanjore Quartet (Chinnaiah, Ponniah, Sivanandam, Vadivelu). <i>Alarippu</i>, <i>jatiswaram</i>, <i>varnam</i>, <i>tillana</i>. Revived by E. Krishna Iyer and Rukmini Devi Arundale (Kalakshetra, 1936). Cut off the “devadasi” tag.</li><li><b>Kuchipudi</b> (Andhra Pradesh): Siddhendra Yogi; originally male Brahmin troupes; <i>tarangam</i> (dance on a brass plate).</li></ul>"
+  },
+  {
+   "tag": "Key idea",
+   "h": "Kathak and Odissi",
+   "b": "<ul><li><b>Kathak</b> (north India): <i>kathakars</i> (storytellers); Persian influence under the Mughals; gharanas Jaipur, Lucknow, Banaras; <i>tatkar</i>, <i>chakkars</i>; Birju Maharaj, Sitara Devi.</li><li><b>Odissi</b> (Odisha): temple <i>maharis</i>, Khandagiri-Udayagiri carvings; <i>tribhanga</i> posture; Jayadeva’s <i>Gita Govinda</i>; Kelucharan Mohapatra.</li></ul>"
+  },
+  {
+   "tag": "Key idea",
+   "h": "Kathakali, Mohiniyattam, Sattriya, Manipuri",
+   "b": "<ul><li><b>Kathakali</b> (Kerala): elaborate make-up and costume; stories from the epics; <i>mudras</i>; Vallathol revived it (Kerala Kalamandalam, 1930).</li><li><b>Mohiniyattam</b> (Kerala): female solo; lasya style; swaying movements.</li><li><b>Sattriya</b> (Assam): Sankardeva (15th century), monasteries (<i>sattras</i>); recognised in 2000.</li><li><b>Manipuri</b>: Vaishnava Raslila; soft, lyrical; costume <i>kumil</i>; Ras Leela, Pung cholom.</li></ul>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "Folk and tribal dance",
+   "b": "<ul><li>Garba, Dandiya (Gujarat); Bhangra, Giddha (Punjab); Lavani, Koli (Maharashtra); Ghoomar, Kalbelia (Rajasthan, Kalbelia in UNESCO ICH list 2010).</li><li>Bihu (Assam); Chhau (Odisha, Jharkhand, West Bengal; UNESCO 2010); Yakshagana (Karnataka); Theyyam (Kerala); Dollu Kunitha; Karakattam; Garadi; Nati (Himachal).</li><li>Tribal: Ho, Santhal, Gond, Naga dances.</li></ul>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "Institutions and honours",
+   "b": "<p>Sangeet Natak Akademi (1952 inaugurated, 1953 constituted), National School of Drama, Kalakshetra, Kerala Kalamandalam, Sangeet Natak Akademi Awards, Padma awards. UNESCO Intangible Cultural Heritage: Kutiyattam (2008), Chhau (2010), Kalbelia (2010), Garba of Gujarat (inscribed December 2023).</p>"
+  },
+  {
+   "tag": "Debate",
+   "h": "Tradition or classicisation?",
+   "b": "<p>Historians such as Avanthi Meduri and Janet O’Shea examine how the 20th-century nationalist revival “classicised” Sadir by removing devadasis from the stage and promoting a respectable Brahmanical image. Critics say this erased hereditary women artists. Others credit Rukmini Devi with saving the art.</p>"
+  },
+  {
+   "tag": "Indian angle",
+   "h": "Why it matters today",
+   "b": "<p>Dance is soft power: ICCR and Indian missions send troupes abroad. Garba’s UNESCO listing, Yoga Day and Padma awards to folk artists show state support. Livelihood concerns of folk artists and the ban on dancing in public have been debated; Sangeet Natak Akademi offers pensions to senior artists.</p>"
+  },
+  {
+   "tag": "Exam lens",
+   "h": "How to answer",
+   "b": "<ul><li>“Classical dances of India reflect the diversity of regional culture. Discuss.”</li><li>“Differences between Bharatanatyam and Kathak.”</li><li>Prelims tip: Sattriya = Assam, Sankardeva; Kuchipudi = Andhra; Mohiniyattam = Kerala female; Odissi = Odisha, tribhanga; Chhau and Kalbelia = UNESCO lists.</li></ul>",
+   "cls": "exam"
+  }
+ ],
+ "quiz": [
+  {
+   "q": "The Natya Shastra is attributed to",
+   "o": [
+    "Kalidasa",
+    "Patanjali",
+    "Bharata",
+    "Nandikeshvara"
+   ],
+   "a": 2,
+   "w": "It is the oldest treatise on performing arts."
+  },
+  {
+   "q": "Bharatanatyam originated in",
+   "o": [
+    "Kerala",
+    "Tamil Nadu",
+    "Odisha",
+    "Andhra Pradesh"
+   ],
+   "a": 1,
+   "w": "From Sadir of temple dancers."
+  },
+  {
+   "q": "Kuchipudi is from",
+   "o": [
+    "Andhra Pradesh",
+    "Kerala",
+    "Assam",
+    "Manipur"
+   ],
+   "a": 0,
+   "w": "Associated with Siddhendra Yogi."
+  },
+  {
+   "q": "Tribhanga posture is typical of",
+   "o": [
+    "Kathak",
+    "Kathakali",
+    "Manipuri",
+    "Odissi"
+   ],
+   "a": 3,
+   "w": "The body bends in three places."
+  },
+  {
+   "q": "Sattriya dance was started by",
+   "o": [
+    "Chaitanya in Bengal",
+    "Jayadeva in Odisha",
+    "Sankardeva in Assam",
+    "Vallathol in Kerala"
+   ],
+   "a": 2,
+   "w": "It was given classical status in 2000."
+  },
+  {
+   "q": "Kalakshetra was founded by",
+   "o": [
+    "Uday Shankar",
+    "Rukmini Devi Arundale",
+    "Vallathol",
+    "Sitara Devi"
+   ],
+   "a": 1,
+   "w": "In Chennai, 1936."
+  },
+  {
+   "q": "Which Kerala dance is a female solo dance?",
+   "o": [
+    "Mohiniyattam",
+    "Kathakali",
+    "Kutiyattam",
+    "Theyyam"
+   ],
+   "a": 0,
+   "w": "Lasya-style."
+  },
+  {
+   "q": "Garba of Gujarat was inscribed on the UNESCO ICH list in",
+   "o": [
+    "2008",
+    "2010",
+    "2018",
+    "2023"
+   ],
+   "a": 3,
+   "w": "Inscribed in December 2023."
+  },
+  {
+   "q": "Kathak gharanas include",
+   "o": [
+    "Mysore, Madurai and Pune",
+    "Kangra, Basohli and Guler",
+    "Jaipur, Lucknow and Banaras",
+    "Dhrupad, Khayal and Thumri"
+   ],
+   "a": 2,
+   "w": "Distinct styles within Kathak."
+  },
+  {
+   "q": "Yakshagana is a folk theatre form of",
+   "o": [
+    "Kerala",
+    "Karnataka",
+    "Punjab",
+    "Bengal"
+   ],
+   "a": 1,
+   "w": "A coastal Karnataka form."
+  }
+ ],
+ "sources": [
+  "Nitin Singhania, Indian Art and Culture",
+  "NCERT, An Introduction to Indian Art (XII)",
+  "Sangeet Natak Akademi"
+ ],
+ "verified": "2026-11-10"
+}

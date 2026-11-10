@@ -1,0 +1,177 @@
+{
+ "id": "4-1-0",
+ "title": "Sustainable Development, SDGs and Green Economy",
+ "emoji": "🌐",
+ "cards": [
+  {
+   "tag": "Why this matters",
+   "h": "The big idea behind all environment policy",
+   "b": "<p>Sustainable development is asked in Prelims through dates and conferences and in Mains through trade-off questions: growth versus environment, equity across generations.</p><p>The Brundtland definition and the SDG basics are must-knows.</p>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "Brundtland, 1987",
+   "b": "<p>The World Commission on Environment and Development, chaired by <b>Gro Harlem Brundtland</b>, released <b>Our Common Future</b> in 1987. It defined sustainable development as development that meets present needs without compromising the ability of future generations to meet theirs.</p><p>Three pillars: <b>economic, social and environmental</b>. <b>Intergenerational equity</b> and <b>intragenerational equity</b> are the core ideas.</p>"
+  },
+  {
+   "tag": "Milestones",
+   "h": "Stockholm to Rio+20",
+   "b": "<ul><li><b>Stockholm 1972</b>: first UN conference on the human environment; UNEP created.</li><li><b>Brundtland 1987</b>.</li><li><b>Rio 1992</b> (Earth Summit): Agenda 21, Rio Declaration, UNFCCC, CBD, forest principles.</li><li><b>Johannesburg 2002</b>: World Summit on Sustainable Development.</li><li><b>Rio+20 2012</b>: “The Future We Want”; agreed to build SDGs and promote green economy.</li></ul>"
+  },
+  {
+   "tag": "SDGs",
+   "h": "Agenda 2030",
+   "b": "<p>The 17 <b>Sustainable Development Goals</b> with 169 targets were adopted by the UN General Assembly in <b>September 2015</b> and run to 2030. They replaced the <b>Millennium Development Goals</b> (2000–15, eight goals).</p><p>SDGs apply to all countries, are indivisible, and include environment goals: 6 (water), 7 (energy), 11 (cities), 12 (consumption and production), 13 (climate), 14 (life below water) and 15 (life on land).</p>"
+  },
+  {
+   "tag": "Ideas to cite",
+   "h": "Measuring and limits",
+   "b": "<p><b>Planetary boundaries</b> (Rockström and others, 2009) give safe limits for nine Earth systems. <b>Doughnut economics</b> (Kate Raworth, 2017) seeks a safe and just space between social floor and ecological ceiling. The <b>Environmental Kuznets Curve</b> claims pollution first rises with income, then falls, but evidence is mixed.</p><p><b>Weak sustainability</b> allows manmade capital to replace nature; <b>strong sustainability</b> says natural capital cannot be fully replaced. <b>Ecological footprint</b> and green GDP are measures.</p>"
+  },
+  {
+   "tag": "Green economy",
+   "h": "What it means",
+   "b": "<p>UNEP’s 2008 Green Economy Initiative defines a green economy as one that improves wellbeing and equity while reducing environmental risk. It includes renewable energy, circular economy, green jobs and nature-based solutions.</p><p>Critics say “green growth” hides continued resource use, and that poor countries need room to grow (degrowth debate).</p>"
+  },
+  {
+   "tag": "India and the principle",
+   "h": "Equity in action",
+   "b": "<p>India’s negotiating line at Rio and since is <b>common but differentiated responsibilities</b>: rich countries caused most historic emissions and must lead. Rio Principle 7 gives this its basis.</p><p>At home, <b>Article 48A</b> and <b>51A(g)</b>, along with the <b>Environment Protection Act 1986</b>, give the legal base. India’s Voluntary National Reviews report SDG progress to the UN.</p>"
+  },
+  {
+   "tag": "Debate",
+   "h": "Growth versus environment",
+   "b": "<p>Developing countries argue that development is the first need and that rich countries must lead. Others say the poor suffer most from degradation. The idea of <b>just transition</b> tries to link both.</p><p>The question also divides carbon prices, subsidies and trade rules.</p>"
+  },
+  {
+   "tag": "Indian angle",
+   "h": "India and the SDGs",
+   "b": "<p><b>NITI Aayog</b> publishes the SDG India Index. Its 2023–24 edition (released 2025) reported a national composite score of about 71, up from 66 in 2020–21 (as of 2025). Schemes such as <b>GOBARdhan</b> (2018), <b>Jal Jeevan Mission</b>, Ujjwala and Swachh Bharat map onto goals.</p><p>India’s Green Growth is one of the seven priorities of Budget 2023–24. India’s <b>Mission LiFE</b> and the 2070 net-zero target tie in.</p>"
+  },
+  {
+   "tag": "Exam lens",
+   "h": "How to answer",
+   "b": "<p><b>Mains-style:</b> “Sustainable development is a balancing act. Examine how India can balance growth and environment.” Structure: definition; three pillars; Indian pressures (poverty, energy, population); tools (EIA, renewables, SDG localisation, green finance); conclusion with equity.</p><p><b>Prelims tip:</b> Brundtland 1987. SDGs 2015: 17 goals, 169 targets. Agenda 21 from Rio 1992. UNEP created after Stockholm 1972.</p>",
+   "cls": "exam"
+  }
+ ],
+ "quiz": [
+  {
+   "q": "Our Common Future was published in:",
+   "o": [
+    "1992",
+    "1987",
+    "1972",
+    "2015"
+   ],
+   "a": 1,
+   "w": "By the Brundtland Commission."
+  },
+  {
+   "q": "How many SDGs are there?",
+   "o": [
+    "17",
+    "8",
+    "12",
+    "15"
+   ],
+   "a": 0,
+   "w": "With 169 targets."
+  },
+  {
+   "q": "The SDGs were adopted in:",
+   "o": [
+    "2012",
+    "2000",
+    "1992",
+    "2015"
+   ],
+   "a": 3,
+   "w": "They run to 2030."
+  },
+  {
+   "q": "MDGs had how many goals?",
+   "o": [
+    "17",
+    "10",
+    "8",
+    "5"
+   ],
+   "a": 2,
+   "w": "They covered 2000–2015."
+  },
+  {
+   "q": "Agenda 21 came out of:",
+   "o": [
+    "Stockholm 1972",
+    "Rio 1992",
+    "Johannesburg 2002",
+    "Paris 2015"
+   ],
+   "a": 1,
+   "w": "The Earth Summit."
+  },
+  {
+   "q": "UNEP was created after:",
+   "o": [
+    "Stockholm 1972",
+    "Rio 1992",
+    "Kyoto 1997",
+    "Montreal 1987"
+   ],
+   "a": 0,
+   "w": "The first UN environment conference."
+  },
+  {
+   "q": "Planetary boundaries were proposed by:",
+   "o": [
+    "Brundtland",
+    "Raworth",
+    "Haeckel",
+    "Rockström and colleagues"
+   ],
+   "a": 3,
+   "w": "In 2009."
+  },
+  {
+   "q": "Doughnut economics is associated with:",
+   "o": [
+    "Gro Brundtland",
+    "Herman Daly",
+    "Kate Raworth",
+    "Amartya Sen"
+   ],
+   "a": 2,
+   "w": "2017 book."
+  },
+  {
+   "q": "SDG 13 deals with:",
+   "o": [
+    "Clean water",
+    "Climate action",
+    "Life on land",
+    "Clean energy"
+   ],
+   "a": 1,
+   "w": "SDG 6 is water, 7 energy, 15 land."
+  },
+  {
+   "q": "SDG India Index is published by:",
+   "o": [
+    "NITI Aayog",
+    "MoEFCC",
+    "Finance Commission",
+    "RBI"
+   ],
+   "a": 0,
+   "w": "It was first launched in 2018."
+  }
+ ],
+ "sources": [
+  "Shankar IAS Environment",
+  "Laxmikanth, Indian Polity (Art. 48A, 51A(g))",
+  "MoEFCC, PRS and PIB",
+  "UN Agenda 2030; NITI Aayog SDG India Index"
+ ],
+ "verified": "2026-11-10"
+}

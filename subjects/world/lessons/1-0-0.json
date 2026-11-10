@@ -1,0 +1,169 @@
+{
+ "id": "1-0-0",
+ "title": "Sumer: Writing, Cities and the First Laws",
+ "emoji": "🏺",
+ "cards": [
+  {
+   "tag": "Why this matters",
+   "h": "Writing was invented to count beer and barley",
+   "b": "<p>The most important invention in history started as boring accounting. Around 3300 BCE, in a city called Uruk, someone pressed a reed into wet clay to record who owed what.</p><p>Welcome to Sumer, in southern Mesopotamia, the land between the Tigris and Euphrates rivers.</p>"
+  },
+  {
+   "tag": "The story",
+   "h": "The first cities",
+   "b": "<p>Sumer had city-states such as <b>Uruk, Ur, Lagash and Kish</b>. By about 3000 BCE, Uruk may have held tens of thousands of people. Each city had its own god, its own king and a temple tower called a <b>ziggurat</b>.</p><p>Farmers used canals to irrigate barley fields in a hot, dry land. Controlling water meant organising people. That helped create governments.</p>"
+  },
+  {
+   "tag": "The turning point",
+   "h": "From tokens to words",
+   "b": "<svg class=\"d\" viewBox=\"0 0 320 172\"><defs><marker id=\"ar1\" markerWidth=\"8\" markerHeight=\"8\" refX=\"4\" refY=\"4\" orient=\"auto\"><path d=\"M0,0 L8,4 L0,8 z\" fill=\"#5d6474\"/></marker></defs><rect x=\"16\" y=\"2\" width=\"288\" height=\"28\" rx=\"6\" fill=\"#f1e4c6\" stroke=\"#a8792a\"/><text x=\"160\" y=\"20\" font-size=\"11\" text-anchor=\"middle\" fill=\"#1d2433\">Clay tokens count sheep, grain and oil</text><line x1=\"160\" y1=\"30\" x2=\"160\" y2=\"42\" stroke=\"#5d6474\" stroke-width=\"1.5\" marker-end=\"url(#ar1)\"/><rect x=\"16\" y=\"44\" width=\"288\" height=\"28\" rx=\"6\" fill=\"#dceaec\" stroke=\"#2f6f7a\"/><text x=\"160\" y=\"62\" font-size=\"11\" text-anchor=\"middle\" fill=\"#1d2433\">Tokens sealed inside clay balls</text><line x1=\"160\" y1=\"72\" x2=\"160\" y2=\"84\" stroke=\"#5d6474\" stroke-width=\"1.5\" marker-end=\"url(#ar1)\"/><rect x=\"16\" y=\"86\" width=\"288\" height=\"28\" rx=\"6\" fill=\"#f1e4c6\" stroke=\"#a8792a\"/><text x=\"160\" y=\"104\" font-size=\"11\" text-anchor=\"middle\" fill=\"#1d2433\">Signs pressed on flat tablets</text><line x1=\"160\" y1=\"114\" x2=\"160\" y2=\"126\" stroke=\"#5d6474\" stroke-width=\"1.5\" marker-end=\"url(#ar1)\"/><rect x=\"16\" y=\"128\" width=\"288\" height=\"28\" rx=\"6\" fill=\"#dceaec\" stroke=\"#2f6f7a\"/><text x=\"160\" y=\"146\" font-size=\"11\" text-anchor=\"middle\" fill=\"#1d2433\">Wedge-shaped cuneiform, used for 3,000 years</text></svg><p>The word cuneiform means 'wedge-shaped'. At first it recorded rations and goods. Later it carried letters, poems, spells and laws. Scribes trained for years in schools called <b>edubba</b>.</p>"
+  },
+  {
+   "tag": "The twist",
+   "h": "The first named author was a woman",
+   "b": "<b>Enheduanna</b> (about 2300 BCE) was a priestess and daughter of King Sargon of Akkad. She wrote hymns to the goddess Inanna and signed them. She is the first author we know by name.<p>Sargon himself created the first big empire, the Akkadian empire, joining many city-states under one ruler. He is a legend in his own right: the story says he was found as a baby floating in a basket on a river.</p>"
+  },
+  {
+   "tag": "The story",
+   "h": "A hero and a flood",
+   "b": "<p>The <b>Epic of Gilgamesh</b> is one of the oldest stories we still have. Gilgamesh was a king of Uruk, probably a real ruler. In the poem he seeks eternal life after his friend Enkidu dies.</p><p>The epic includes a great flood, long before the Bible's Noah story was written down. The version we know best was written about 1200-1000 BCE, based on older Sumerian stories.</p>"
+  },
+  {
+   "tag": "The story",
+   "h": "Laws, written down",
+   "b": "<p>The oldest surviving law code is that of <b>Ur-Nammu</b> of Ur (about 2100 BCE). The most famous is <b>Hammurabi's</b> of Babylon (about 1754 BCE), carved on a black stone pillar now in the Louvre in Paris.</p><p>Hammurabi's laws often punished by 'eye for an eye'. But punishment depended on rank: harming a noble cost more than harming a commoner.</p>"
+  },
+  {
+   "tag": "Myth vs fact",
+   "h": "Was Hammurabi's code the first law?",
+   "b": "<b>Myth:</b> Hammurabi wrote the world's first laws.<b>Fact:</b> Ur-Nammu's and others came centuries earlier. Hammurabi's is simply the best preserved. Historians also argue about whether it was a law book used in courts or a royal showpiece that praised the king as a just ruler. Both could be true."
+  },
+  {
+   "tag": "Indian angle",
+   "h": "Meanwhile in India…",
+   "b": "<p>Trade with Meluhha</p>"
+  },
+  {
+   "tag": "Recap",
+   "h": "Five takeaways, two puzzles",
+   "b": "<p><b>Five things to remember</b></p><ol><li>Writing began in Uruk around 3300 BCE as accounting.</li><li>Cuneiform was used for about 3,000 years.</li><li>Enheduanna is the first named author.</li><li>Gilgamesh is among the oldest epics.</li><li>Ur-Nammu's laws predate Hammurabi's by centuries.</li></ol><p><b>Think about it</b></p><ul><li>Why might rulers want laws written in stone?</li><li>What does it say about power that writing started with accounts?</li></ul>",
+   "cls": "exam"
+  }
+ ],
+ "quiz": [
+  {
+   "q": "Where did writing first appear?",
+   "o": [
+    "Egypt",
+    "China",
+    "Southern Mesopotamia (Sumer)",
+    "The Indus"
+   ],
+   "a": 2,
+   "w": "Uruk, around 3300 BCE."
+  },
+  {
+   "q": "Cuneiform means...",
+   "o": [
+    "Wedge-shaped",
+    "Round",
+    "Pictorial",
+    "Holy"
+   ],
+   "a": 0,
+   "w": "It was pressed with a reed stylus."
+  },
+  {
+   "q": "The first writing mostly recorded...",
+   "o": [
+    "Poems",
+    "Laws",
+    "Prayers",
+    "Goods and rations"
+   ],
+   "a": 3,
+   "w": "It began as accounting."
+  },
+  {
+   "q": "A ziggurat was...",
+   "o": [
+    "A royal tomb",
+    "A temple tower",
+    "A school",
+    "A canal"
+   ],
+   "a": 1,
+   "w": "A stepped temple platform."
+  },
+  {
+   "q": "The first named author is...",
+   "o": [
+    "Enheduanna",
+    "Homer",
+    "Hammurabi",
+    "Gilgamesh"
+   ],
+   "a": 0,
+   "w": "A priestess of Ur, around 2300 BCE."
+  },
+  {
+   "q": "Who created the Akkadian empire?",
+   "o": [
+    "Hammurabi",
+    "Nebuchadnezzar",
+    "Cyrus",
+    "Sargon"
+   ],
+   "a": 3,
+   "w": "Around 2334 BCE (traditional date)."
+  },
+  {
+   "q": "The oldest surviving law code is...",
+   "o": [
+    "Hammurabi's",
+    "Ur-Nammu's",
+    "Manu's",
+    "Solon's"
+   ],
+   "a": 1,
+   "w": "About 2100 BCE."
+  },
+  {
+   "q": "Hammurabi's code is kept in...",
+   "o": [
+    "The British Museum",
+    "Delhi",
+    "The Louvre, Paris",
+    "Cairo"
+   ],
+   "a": 2,
+   "w": "The black basalt stele."
+  },
+  {
+   "q": "Meluhha is usually linked to...",
+   "o": [
+    "Egypt",
+    "Greece",
+    "China",
+    "The Indus Valley"
+   ],
+   "a": 3,
+   "w": "Mesopotamian texts name it as an eastern trading land."
+  },
+  {
+   "q": "Gilgamesh was probably...",
+   "o": [
+    "A real king of Uruk",
+    "A Greek god",
+    "A pharaoh",
+    "A Chinese emperor"
+   ],
+   "a": 0,
+   "w": "Historians think he was a real ruler, later legendary."
+  }
+ ],
+ "sources": [
+  "Postgate, Early Mesopotamia (1992); Kramer, The Sumerians (1963); Hammurabi code, Louvre; Possehl on Meluhha"
+ ],
+ "verified": "2026-11-10"
+}

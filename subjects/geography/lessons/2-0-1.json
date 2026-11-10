@@ -1,0 +1,176 @@
+{
+ "id": "2-0-1",
+ "title": "Factors in the Location of Industries Worldwide",
+ "emoji": "🏗️",
+ "cards": [
+  {
+   "tag": "Why this matters",
+   "h": "Industry follows cost and opportunity",
+   "b": "<p>Why did steel go to the Ruhr and phones to Shenzhen? Why is the Rust Belt rusting? Location theory explains the map of world industry. In mains, answer with factors, a theory and a <b>changing pattern</b>, with Indian links.</p>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "Classic factors",
+   "b": "<p><b>Raw material</b> (weight-losing industries stay near it), <b>power</b> (aluminium), <b>market</b> (bulky or perishable goods), <b>labour</b> (textiles), <b>capital</b>, <b>transport</b>, <b>water</b>, <b>land</b>, <b>government policy</b> (SEZs, tax breaks) and <b>agglomeration</b>, where firms cluster to share suppliers and workers.</p><p><b>Industrial inertia</b> means industries stay after the original reason has gone.</p><svg class=\"d\" viewBox=\"0 0 320 188\"><rect x=\"10\" y=\"6\" width=\"70\" height=\"26\" rx=\"6\" fill=\"#f1e4c6\" stroke=\"#a8792a\" stroke-width=\"1.5\"/><text x=\"45.0\" y=\"23\" fill=\"#7d5a1c\" font-size=\"11\" text-anchor=\"middle\" font-weight=\"700\">Industry</text><rect x=\"80\" y=\"6\" width=\"110\" height=\"26\" rx=\"6\" fill=\"#f1e4c6\" stroke=\"#a8792a\" stroke-width=\"1.5\"/><text x=\"135.0\" y=\"23\" fill=\"#7d5a1c\" font-size=\"11\" text-anchor=\"middle\" font-weight=\"700\">Key factor</text><rect x=\"190\" y=\"6\" width=\"120\" height=\"26\" rx=\"6\" fill=\"#f1e4c6\" stroke=\"#a8792a\" stroke-width=\"1.5\"/><text x=\"250.0\" y=\"23\" fill=\"#7d5a1c\" font-size=\"11\" text-anchor=\"middle\" font-weight=\"700\">Example</text><rect x=\"10\" y=\"32\" width=\"70\" height=\"30\" rx=\"0\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"45.0\" y=\"51\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\" font-weight=\"700\">Steel</text><rect x=\"80\" y=\"32\" width=\"110\" height=\"30\" rx=\"0\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"135.0\" y=\"51\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\">Ore, coal, port</text><rect x=\"190\" y=\"32\" width=\"120\" height=\"30\" rx=\"0\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"250.0\" y=\"51\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\">Ruhr, Pittsburgh, Pohang</text><rect x=\"10\" y=\"62\" width=\"70\" height=\"30\" rx=\"0\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"45.0\" y=\"81\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\" font-weight=\"700\">Textiles</text><rect x=\"80\" y=\"62\" width=\"110\" height=\"30\" rx=\"0\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"135.0\" y=\"81\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\">Labour, market</text><rect x=\"190\" y=\"62\" width=\"120\" height=\"30\" rx=\"0\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"250.0\" y=\"81\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\">Bangladesh, Tiruppur</text><rect x=\"10\" y=\"92\" width=\"70\" height=\"30\" rx=\"0\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"45.0\" y=\"111\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\" font-weight=\"700\">Autos</text><rect x=\"80\" y=\"92\" width=\"110\" height=\"30\" rx=\"0\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"135.0\" y=\"111\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\">Market, supply chain</text><rect x=\"190\" y=\"92\" width=\"120\" height=\"30\" rx=\"0\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"250.0\" y=\"111\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\">Detroit, Toyota City</text><rect x=\"10\" y=\"122\" width=\"70\" height=\"30\" rx=\"0\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"45.0\" y=\"141\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\" font-weight=\"700\">Chips</text><rect x=\"80\" y=\"122\" width=\"110\" height=\"30\" rx=\"0\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"135.0\" y=\"141\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\">Skills, capital</text><rect x=\"190\" y=\"122\" width=\"120\" height=\"30\" rx=\"0\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"250.0\" y=\"141\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\">Taiwan, Silicon Valley</text><rect x=\"10\" y=\"152\" width=\"70\" height=\"30\" rx=\"0\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"45.0\" y=\"171\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\" font-weight=\"700\">Aluminium</text><rect x=\"80\" y=\"152\" width=\"110\" height=\"30\" rx=\"0\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"135.0\" y=\"171\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\">Cheap power</text><rect x=\"190\" y=\"152\" width=\"120\" height=\"30\" rx=\"0\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"250.0\" y=\"171\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\">Iceland, Norway</text></svg>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "Weber and beyond",
+   "b": "<p><b>Weber (1909)</b> gave the least-cost model. <b>Hotelling</b> (1929) added competition: sellers cluster to share the market. <b>Losch</b> looked at market areas. <b>Vernon's product cycle</b> (1966) suggested new products start in rich countries, then move to cheaper ones as they mature. <b>Porter</b> (1990) argued clusters create competitive advantage.</p>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "Major industrial regions",
+   "b": "<p>Traditional: <b>Ruhr</b> (Germany), <b>Great Lakes</b> (USA, steel and cars), <b>Donbas</b> (Ukraine), Midlands (UK), <b>Kanto</b> and Kansai (Japan). New: <b>Pearl River Delta</b> and <b>Yangtze delta</b> (China), Seoul, Taiwan, and <b>Silicon Valley</b>. Many older regions declined; some rebuilt themselves with services and technology.</p>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "Shifting centre of gravity",
+   "b": "<svg class=\"d\" viewBox=\"0 0 320 216\"><rect x=\"10\" y=\"6\" width=\"300\" height=\"32\" rx=\"6\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"160\" y=\"23\" fill=\"#1d2433\" font-size=\"12\" text-anchor=\"middle\" font-weight=\"700\">Britain, 1800s</text><text x=\"160\" y=\"38\" fill=\"#5d6474\" font-size=\"10\" text-anchor=\"middle\">Coal and iron: Midlands, Lancashire</text><text x=\"160\" y=\"47\" fill=\"#5d6474\" font-size=\"10\" text-anchor=\"middle\">&#9660;</text><rect x=\"10\" y=\"48\" width=\"300\" height=\"32\" rx=\"6\" fill=\"#f1e4c6\" stroke=\"#a8792a\" stroke-width=\"1.5\"/><text x=\"160\" y=\"65\" fill=\"#7d5a1c\" font-size=\"12\" text-anchor=\"middle\" font-weight=\"700\">USA and Germany, 1900s</text><text x=\"160\" y=\"80\" fill=\"#5d6474\" font-size=\"10\" text-anchor=\"middle\">Great Lakes, Ruhr</text><text x=\"160\" y=\"89\" fill=\"#5d6474\" font-size=\"10\" text-anchor=\"middle\">&#9660;</text><rect x=\"10\" y=\"90\" width=\"300\" height=\"32\" rx=\"6\" fill=\"#dceaec\" stroke=\"#2f6f7a\" stroke-width=\"1.5\"/><text x=\"160\" y=\"107\" fill=\"#2f6f7a\" font-size=\"12\" text-anchor=\"middle\" font-weight=\"700\">Japan, then East Asian tigers</text><text x=\"160\" y=\"122\" fill=\"#5d6474\" font-size=\"10\" text-anchor=\"middle\">1950s to 1980s: Kanto, Korea, Taiwan</text><text x=\"160\" y=\"131\" fill=\"#5d6474\" font-size=\"10\" text-anchor=\"middle\">&#9660;</text><rect x=\"10\" y=\"132\" width=\"300\" height=\"32\" rx=\"6\" fill=\"#f4dcd5\" stroke=\"#a3362a\" stroke-width=\"1.5\"/><text x=\"160\" y=\"149\" fill=\"#a3362a\" font-size=\"12\" text-anchor=\"middle\" font-weight=\"700\">China, 1990s onward</text><text x=\"160\" y=\"164\" fill=\"#5d6474\" font-size=\"10\" text-anchor=\"middle\">Pearl River and Yangtze deltas: \"factory of the world\"</text><text x=\"160\" y=\"173\" fill=\"#5d6474\" font-size=\"10\" text-anchor=\"middle\">&#9660;</text><rect x=\"10\" y=\"174\" width=\"300\" height=\"32\" rx=\"6\" fill=\"#f1e4c6\" stroke=\"#a8792a\" stroke-width=\"1.5\"/><text x=\"160\" y=\"191\" fill=\"#7d5a1c\" font-size=\"12\" text-anchor=\"middle\" font-weight=\"700\">Vietnam, India, Mexico</text><text x=\"160\" y=\"206\" fill=\"#5d6474\" font-size=\"10\" text-anchor=\"middle\">\"China plus one\": 2010s onward</text><text x=\"160\" y=\"215\" fill=\"#5d6474\" font-size=\"10\" text-anchor=\"middle\">&#9660;</text></svg><p>Reasons: cheaper labour, big markets, trade liberalisation, containerisation and global value chains. Brands design in one place and assemble in another.</p>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "Technology and footloose industries",
+   "b": "<p>Electronics, software and pharma depend on skills, research and airports more than on coal or ore. Their location depends on <b>universities</b>, venture capital and urban quality. 3D printing and AI may make production more local. <b>Just-in-time</b> supply (Toyota) shows how coordination matters as much as cost.</p>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "Case study: policy can create a location",
+   "b": "<p>China set up <b>Special Economic Zones</b> in 1980 (Shenzhen, Zhuhai, Shantou, Xiamen) under Deng Xiaoping. A fishing town, Shenzhen became a global electronics hub within decades. Cheap labour was not enough: ports, tax breaks, foreign capital and WTO entry (2001) all helped. India's SEZ Act of 2005 copied the idea, with mixed results due to land and tax problems.</p>"
+  },
+  {
+   "tag": "Debate",
+   "h": "Reshoring, tariffs and supply chain risk",
+   "b": "<p>COVID-19 and trade wars exposed risks of concentrating in one country. The US CHIPS Act (2022), Europe's Chips Act and tariff moves aim to bring production home or to friendly states (\"friend-shoring\"). Critics fear higher prices and fragmentation. China remains central to most supply chains, so full decoupling is hard.</p>"
+  },
+  {
+   "tag": "Indian angle",
+   "h": "Where India fits",
+   "b": "<p>India aims to gain from <b>China plus one</b>. Apple's contract makers have set up in Tamil Nadu and Karnataka; autos cluster in Chennai, Pune and Gurugram; pharma in Hyderabad. India's <b>PLI schemes</b> and semiconductor mission (2021) seek fabs. Problems: logistics costs, land, power quality, and labour law. See also the lesson on Indian industrial regions.</p>"
+  },
+  {
+   "tag": "Exam lens",
+   "cls": "exam",
+   "h": "How to write this",
+   "b": "<div class=\"box\"><h4>Likely questions</h4><p>\"Discuss the factors responsible for the shifting of the industrial centre of gravity to East Asia.\" (15 marks)</p><p>\"Why have older industrial regions of the world declined? Give examples.\" (10 marks)</p></div><p><b>Structure:</b> factors; theory; shift timeline; two examples; India's opportunity and obstacles.</p><p><b>Prelims tip:</b> Ruhr = coal and steel; Silicon Valley = software and chips; Pearl River Delta = electronics.</p>"
+  }
+ ],
+ "quiz": [
+  {
+   "q": "Ruhr region is known for",
+   "o": [
+    "Coal and steel",
+    "Software",
+    "Aluminium",
+    "Cotton"
+   ],
+   "a": 0,
+   "w": "Germany's old industrial heart."
+  },
+  {
+   "q": "Agglomeration economies arise when",
+   "o": [
+    "Firms move apart",
+    "Government owns firms",
+    "Labour is cheap",
+    "Firms cluster together"
+   ],
+   "a": 3,
+   "w": "Shared suppliers and workers cut costs."
+  },
+  {
+   "q": "Industrial inertia means",
+   "o": [
+    "Industries shut at once",
+    "Industries stay despite changed conditions",
+    "Industries follow resources",
+    "Industries need no power"
+   ],
+   "a": 1,
+   "w": "Sunk costs hold them."
+  },
+  {
+   "q": "Vernon's product cycle suggests",
+   "o": [
+    "Firms follow rivers",
+    "Production shifts from rich to poor countries",
+    "Products never change",
+    "Markets shrink"
+   ],
+   "a": 1,
+   "w": "As products mature."
+  },
+  {
+   "q": "Silicon Valley is in",
+   "o": [
+    "Texas",
+    "Massachusetts",
+    "Washington",
+    "California"
+   ],
+   "a": 3,
+   "w": "Home to many technology firms."
+  },
+  {
+   "q": "Aluminium smelters locate near",
+   "o": [
+    "Cheap electricity",
+    "Ports only",
+    "Coal mines",
+    "Big cities"
+   ],
+   "a": 0,
+   "w": "Smelting uses huge power."
+  },
+  {
+   "q": "Which region is called the factory of the world?",
+   "o": [
+    "Ruhr",
+    "Great Lakes",
+    "China's coastal deltas",
+    "Donbas"
+   ],
+   "a": 2,
+   "w": "The Pearl River and Yangtze deltas."
+  },
+  {
+   "q": "The CHIPS Act (2022) is a",
+   "o": [
+    "EU trade deal",
+    "WTO ruling",
+    "Indian scheme",
+    "US law boosting chip manufacturing"
+   ],
+   "a": 3,
+   "w": "It gives subsidies for fabs."
+  },
+  {
+   "q": "Just-in-time production is associated with",
+   "o": [
+    "Toyota",
+    "Ford",
+    "Boeing",
+    "Nokia"
+   ],
+   "a": 0,
+   "w": "It reduces stock-holding costs."
+  },
+  {
+   "q": "Hotelling's model explains",
+   "o": [
+    "Raw material pull",
+    "Labour migration",
+    "Competing sellers clustering",
+    "Land rent"
+   ],
+   "a": 2,
+   "w": "Competition leads to clustering in the middle."
+  }
+ ],
+ "sources": [
+  "NCERT Class 12, Fundamentals of Human Geography, ch. 6",
+  "G.C. Leong, Certificate Physical and Human Geography",
+  "Weber 1909; Hotelling 1929; Vernon 1966"
+ ],
+ "verified": "2026-11-10"
+}

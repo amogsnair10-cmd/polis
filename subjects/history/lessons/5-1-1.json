@@ -1,0 +1,176 @@
+{
+ "id": "5-1-1",
+ "title": "First World War and the Russian Revolution",
+ "emoji": "⚔️",
+ "cards": [
+  {
+   "tag": "Why this matters",
+   "h": "Two events that remade the century",
+   "b": "<p>The Great War ended four empires. The Russian Revolution created the first communist state. India’s war role and Wilson’s ideas shaped Indian politics.</p>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "Causes of the war",
+   "b": "<p>The classic list is <b>MAIN</b>: Militarism, Alliances, Imperialism, Nationalism. The two blocs: Triple Alliance (Germany, Austria-Hungary, Italy) and Triple Entente (Britain, France, Russia). Crises: Morocco (1905, 1911), the Balkan Wars (1912 to 13), naval race. Fritz Fischer (1961) stressed German war aims; others stress a failure of diplomacy.</p>"
+  },
+  {
+   "tag": "Key event",
+   "h": "Outbreak and course",
+   "b": "<p>The assassination of Archduke Franz Ferdinand at Sarajevo (28 June 1914) by Gavrilo Princip led to Austria’s ultimatum to Serbia and a chain of declarations. Germany’s Schlieffen Plan led to the invasion of Belgium; Britain entered. Western Front trench warfare (Marne 1914, Verdun and Somme 1916). Eastern Front: Russia’s defeats (Tannenberg). Italy joined the Entente in 1915; the Ottomans joined Germany. The USA entered on 6 April 1917 after unrestricted submarine war and the Zimmermann telegram. Armistice: 11 November 1918.</p>"
+  },
+  {
+   "tag": "Key idea",
+   "h": "Peace settlement",
+   "b": "<b>Paris Peace Conference</b> (1919): Wilson, Clemenceau, Lloyd George. Wilson’s Fourteen Points (self-determination, League of Nations). <b>Treaty of Versailles</b> (28 June 1919): war guilt clause (Article 231), reparations (fixed at 132 billion gold marks in 1921), loss of territory, army cap of 100,000. Other treaties: Saint-Germain (Austria), Trianon (Hungary), Neuilly (Bulgaria), Sèvres (Turkey), later Lausanne (1923). League of Nations began 1920; the USA never joined. Keynes called the peace “Carthaginian”."
+  },
+  {
+   "tag": "Core idea",
+   "h": "Russia before 1917",
+   "b": "<p>Tsar Nicholas II ruled an autocracy with poor peasants and a small, growing working class. Defeat in Japan (1905) led to the <b>1905 revolution</b> and the Duma. Rasputin’s influence and war losses broke trust. Marxist parties: Mensheviks and Bolsheviks (split 1903, Lenin).</p>"
+  },
+  {
+   "tag": "Key event",
+   "h": "1917",
+   "b": "<ul><li><b>February (March) Revolution</b>: strikes in Petrograd; Tsar abdicated; Provisional Government (Kerensky).</li><li>Lenin’s <b>April Theses</b>: “Peace, Land and Bread”, “all power to the Soviets”.</li><li><b>October (November) Revolution</b>: Bolsheviks (Trotsky’s Military Revolutionary Committee) seized the Winter Palace, 25 October (Old Style).</li><li>Treaty of Brest-Litovsk (March 1918): Russia left the war, losing large areas.</li></ul>"
+  },
+  {
+   "tag": "Key idea",
+   "h": "Civil war and the new state",
+   "b": "<p>The Civil War (1918 to 1921): Reds versus Whites and foreign forces; Red Terror; War Communism. <b>New Economic Policy</b> (NEP, 1921) allowed small private trade. USSR founded in December 1922. After Lenin’s death (1924), Stalin won against Trotsky; Five-Year Plans (from 1928), collectivisation, the purges. Comintern (1919) spread communism.</p>"
+  },
+  {
+   "tag": "Debate",
+   "h": "Revolution or coup?",
+   "b": "<p>Soviet writers saw a working-class revolution. Western historians such as Richard Pipes called it a coup. Revisionists (Sheila Fitzpatrick) stress the mass support of workers and soldiers. E. H. Carr (<i>The Bolshevik Revolution</i>) treated it as a historic necessity. Debate on Versailles: too harsh (Keynes) or not harsh enough (Foch)?</p>"
+  },
+  {
+   "tag": "Indian angle",
+   "h": "Why it matters today",
+   "b": "<p>About 1.3 million Indians served; around 74,000 died; the Indian Army fought in France, Mesopotamia and East Africa; the India Gate (1931) commemorates them. The war brought the Home Rule League, the Lucknow Pact (1916), Montagu Declaration and Rowlatt Act. The Russian Revolution inspired Indian communists (M. N. Roy at Comintern 1920, CPI 1920 to 25) and Nehru’s socialism; the NEP and Five-Year Plans influenced Indian planning.</p>"
+  },
+  {
+   "tag": "Exam lens",
+   "h": "How to answer",
+   "b": "<ul><li>“Causes of the First World War: was Germany solely responsible?”</li><li>“Why did the Russian Revolution occur in 1917?”</li><li>“Impact of the war on India.”</li><li>Prelims tip: Sarajevo 1914; US entry 1917; Brest-Litovsk 1918; Versailles 1919; League 1920; NEP 1921; USSR 1922.</li></ul>",
+   "cls": "exam"
+  }
+ ],
+ "quiz": [
+  {
+   "q": "The First World War started after the assassination at",
+   "o": [
+    "Belgrade",
+    "Sarajevo",
+    "Vienna",
+    "Berlin"
+   ],
+   "a": 1,
+   "w": "Archduke Franz Ferdinand was killed."
+  },
+  {
+   "q": "The Schlieffen Plan was a plan of",
+   "o": [
+    "Germany",
+    "France",
+    "Russia",
+    "Austria"
+   ],
+   "a": 0,
+   "w": "To defeat France quickly through Belgium."
+  },
+  {
+   "q": "The USA entered the war in",
+   "o": [
+    "1914",
+    "1915",
+    "1918",
+    "1917"
+   ],
+   "a": 3,
+   "w": "After the Zimmermann telegram."
+  },
+  {
+   "q": "Article 231 of the Treaty of Versailles was the",
+   "o": [
+    "Disarmament clause",
+    "League clause",
+    "War guilt clause",
+    "Rhineland clause"
+   ],
+   "a": 2,
+   "w": "It blamed Germany."
+  },
+  {
+   "q": "Wilson’s Fourteen Points included",
+   "o": [
+    "Partition of Germany",
+    "Self-determination and a League of Nations",
+    "Colonial expansion",
+    "Restoration of the Tsar"
+   ],
+   "a": 1,
+   "w": "In January 1918."
+  },
+  {
+   "q": "The Russian February Revolution of 1917 led to",
+   "o": [
+    "The fall of the Tsar and a Provisional Government",
+    "Bolshevik rule",
+    "The Treaty of Brest-Litovsk",
+    "The NEP"
+   ],
+   "a": 0,
+   "w": "Kerensky became leader later."
+  },
+  {
+   "q": "Lenin’s April Theses called for",
+   "o": [
+    "Constituent Assembly only",
+    "War with Germany",
+    "A monarchy",
+    "Peace, Land and Bread"
+   ],
+   "a": 3,
+   "w": "He demanded all power to the Soviets."
+  },
+  {
+   "q": "Brest-Litovsk (1918) was between",
+   "o": [
+    "France and Germany",
+    "Britain and Germany",
+    "Russia and Germany",
+    "Russia and Japan"
+   ],
+   "a": 2,
+   "w": "Russia left the war."
+  },
+  {
+   "q": "The New Economic Policy was introduced in",
+   "o": [
+    "1917",
+    "1921",
+    "1928",
+    "1936"
+   ],
+   "a": 1,
+   "w": "Lenin allowed limited private trade."
+  },
+  {
+   "q": "The Lucknow Pact (1916) was between",
+   "o": [
+    "Congress and the Muslim League",
+    "Gandhi and Irwin",
+    "Nehru and Jinnah",
+    "Congress and the Justice Party"
+   ],
+   "a": 0,
+   "w": "Signed during the war."
+  }
+ ],
+ "sources": [
+  "Norman Lowe, Mastering Modern World History",
+  "NCERT Class IX, India and the Contemporary World I",
+  "E. H. Carr"
+ ],
+ "verified": "2026-11-10"
+}

@@ -1,0 +1,169 @@
+{
+ "id": "2-0-0",
+ "title": "Persia: The First World Empire",
+ "emoji": "🦁",
+ "cards": [
+  {
+   "tag": "Why this matters",
+   "h": "A king who was told to be kind to conquered people",
+   "b": "<p>In 539 BCE, Cyrus the Great rode into Babylon, the biggest city in the world. The people did not fight him. Some cheered. How do you take a city without a war?</p><p>The answer says a lot about how the Persians built the largest empire the world had yet seen.</p>"
+  },
+  {
+   "tag": "The story",
+   "h": "From a small kingdom to everything",
+   "b": "<p>Cyrus came from Persis (today's Fars, Iran). Around 550 BCE he beat the Medes, then Lydia's rich king Croesus, then <b>Babylon in 539 BCE</b>. His son Cambyses added Egypt in 525 BCE.</p><p>This was the <b>Achaemenid Empire</b>, named after an ancestor, Achaemenes.</p>"
+  },
+  {
+   "tag": "The turning point",
+   "h": "Darius organises it",
+   "b": "<svg class=\"d\" viewBox=\"0 0 320 180\"><line x1=\"14\" y1=\"10\" x2=\"14\" y2=\"170\" stroke=\"#a8792a\" stroke-width=\"2\"/><circle cx=\"14\" cy=\"22\" r=\"5\" fill=\"#f1e4c6\" stroke=\"#a8792a\" stroke-width=\"2\"/><text x=\"28\" y=\"26\" font-size=\"11\" font-weight=\"700\" fill=\"#a8792a\">559 BCE</text><text x=\"112\" y=\"26\" font-size=\"11\" fill=\"#1d2433\">Cyrus becomes king</text><circle cx=\"14\" cy=\"50\" r=\"5\" fill=\"#f1e4c6\" stroke=\"#a8792a\" stroke-width=\"2\"/><text x=\"28\" y=\"54\" font-size=\"11\" font-weight=\"700\" fill=\"#a8792a\">539</text><text x=\"112\" y=\"54\" font-size=\"11\" fill=\"#1d2433\">Cyrus takes Babylon</text><circle cx=\"14\" cy=\"78\" r=\"5\" fill=\"#f1e4c6\" stroke=\"#a8792a\" stroke-width=\"2\"/><text x=\"28\" y=\"82\" font-size=\"11\" font-weight=\"700\" fill=\"#a8792a\">525</text><text x=\"112\" y=\"82\" font-size=\"11\" fill=\"#1d2433\">Egypt conquered</text><circle cx=\"14\" cy=\"106\" r=\"5\" fill=\"#f1e4c6\" stroke=\"#a8792a\" stroke-width=\"2\"/><text x=\"28\" y=\"110\" font-size=\"11\" font-weight=\"700\" fill=\"#a8792a\">522</text><text x=\"112\" y=\"110\" font-size=\"11\" fill=\"#1d2433\">Darius I takes the throne</text><circle cx=\"14\" cy=\"134\" r=\"5\" fill=\"#f1e4c6\" stroke=\"#a8792a\" stroke-width=\"2\"/><text x=\"28\" y=\"138\" font-size=\"11\" font-weight=\"700\" fill=\"#a8792a\">490</text><text x=\"112\" y=\"138\" font-size=\"11\" fill=\"#1d2433\">Marathon</text><circle cx=\"14\" cy=\"162\" r=\"5\" fill=\"#f1e4c6\" stroke=\"#a8792a\" stroke-width=\"2\"/><text x=\"28\" y=\"166\" font-size=\"11\" font-weight=\"700\" fill=\"#a8792a\">330</text><text x=\"112\" y=\"166\" font-size=\"11\" fill=\"#1d2433\">Alexander burns Persepolis</text></svg><p>Darius I (ruled 522-486 BCE) split the empire into provinces run by governors called <b>satraps</b>. He built the <b>Royal Road</b>, about 2,500 km from Sardis to Susa, with relay stations for messengers. Standard coins and weights helped trade.</p>"
+  },
+  {
+   "tag": "The twist",
+   "h": "A message carved on a cliff",
+   "b": "<p>At Behistun in Iran, Darius had a giant relief carved about 520 BCE. It tells how he won the throne, in three languages: Old Persian, Elamite and Babylonian.</p><p>In the 1800s, scholars such as Henry Rawlinson used it to decipher cuneiform, much like the Rosetta Stone did for hieroglyphs.</p>"
+  },
+  {
+   "tag": "The story",
+   "h": "Kind rule, strong rule",
+   "b": "<p>Persian kings let people keep their own religions and laws as long as they paid tribute. Cyrus is credited in the Bible (Book of Ezra) with letting Jews in Babylon return to Jerusalem.</p><p>They also worshipped Ahura Mazda. Their faith is often tied to the prophet <b>Zoroaster</b>, whose dates are very uncertain.</p>"
+  },
+  {
+   "tag": "The story",
+   "h": "Greece stands in the way",
+   "b": "<p>Persia clashed with Greek cities. At <b>Marathon (490 BCE)</b> Athens beat a Persian force. In 480 BCE Xerxes invaded with a huge army and fleet. The Greeks held at Thermopylae and then won at <b>Salamis</b>.</p><p>Persia remained powerful for another 150 years until Alexander arrived.</p>"
+  },
+  {
+   "tag": "Myth vs fact",
+   "h": "Was the Cyrus Cylinder the first human rights charter?",
+   "b": "<p>The Cyrus Cylinder is a clay barrel, now in the British Museum. It says Cyrus restored gods to their temples and let displaced people go home.</p><p>Some call it the first charter of human rights. Many historians disagree. It was a standard royal boast written to win over Babylon. It shows good policy, but not modern rights. Historians argue about how to read it.</p>"
+  },
+  {
+   "tag": "Indian angle",
+   "h": "Meanwhile in India…",
+   "b": "<p>Persia reaches the Indus</p>"
+  },
+  {
+   "tag": "Recap",
+   "h": "Five takeaways, two puzzles",
+   "b": "<p><b>Five things to remember</b></p><ol><li>Cyrus took Babylon in 539 BCE.</li><li>Darius built satrapies and the Royal Road.</li><li>The Behistun inscription helped crack cuneiform.</li><li>Persia ruled many peoples with tolerance and tribute.</li><li>Gandhara and Sindh were Persian provinces.</li></ol><p><b>Think about it</b></p><ul><li>Is tolerance a smart strategy or a moral choice for an empire?</li><li>Why did a fast road matter for control?</li></ul>",
+   "cls": "exam"
+  }
+ ],
+ "quiz": [
+  {
+   "q": "Cyrus took Babylon in...",
+   "o": [
+    "330 BCE",
+    "1177 BCE",
+    "539 BCE",
+    "44 BCE"
+   ],
+   "a": 2,
+   "w": "A famous, mostly peaceful conquest."
+  },
+  {
+   "q": "Provincial governors were called...",
+   "o": [
+    "Satraps",
+    "Consuls",
+    "Tribunes",
+    "Strategoi"
+   ],
+   "a": 0,
+   "w": "Darius organised them."
+  },
+  {
+   "q": "The Royal Road ran from Sardis to...",
+   "o": [
+    "Persepolis to Delhi",
+    "Babylon to Cairo",
+    "Athens",
+    "Susa"
+   ],
+   "a": 3,
+   "w": "About 2,500 km."
+  },
+  {
+   "q": "Behistun is written in...",
+   "o": [
+    "Only Greek",
+    "Three languages",
+    "Only Latin",
+    "Only Sanskrit"
+   ],
+   "a": 1,
+   "w": "Old Persian, Elamite, Babylonian."
+  },
+  {
+   "q": "Where is the Cyrus Cylinder kept?",
+   "o": [
+    "British Museum",
+    "Louvre",
+    "Delhi Museum",
+    "Tehran Bazaar"
+   ],
+   "a": 0,
+   "w": "In London."
+  },
+  {
+   "q": "Persia was beaten at Salamis by...",
+   "o": [
+    "Indians",
+    "Romans",
+    "Egyptians",
+    "The Greek fleet"
+   ],
+   "a": 3,
+   "w": "480 BCE."
+  },
+  {
+   "q": "Hindush in Persian lists was...",
+   "o": [
+    "Egypt",
+    "Sindh in the Indus region",
+    "Armenia",
+    "Syria"
+   ],
+   "a": 1,
+   "w": "A province under Darius."
+  },
+  {
+   "q": "Kharosthi comes from...",
+   "o": [
+    "Latin",
+    "Chinese",
+    "Aramaic",
+    "Sanskrit"
+   ],
+   "a": 2,
+   "w": "The empire's administrative script."
+  },
+  {
+   "q": "The Persian empire fell to...",
+   "o": [
+    "Hannibal",
+    "Genghis",
+    "Caesar",
+    "Alexander"
+   ],
+   "a": 3,
+   "w": "330 BCE."
+  },
+  {
+   "q": "Historians treat the Cyrus Cylinder as...",
+   "o": [
+    "A royal proclamation, not a modern rights charter",
+    "A Greek law code",
+    "A Roman treaty",
+    "A forgery"
+   ],
+   "a": 0,
+   "w": "The interpretation is debated."
+  }
+ ],
+ "sources": [
+  "Briant, From Cyrus to Alexander (2002); Kuhrt, The Persian Empire (2007); Herodotus 3.94; Behistun inscription; Salomon on Kharosthi"
+ ],
+ "verified": "2026-11-10"
+}

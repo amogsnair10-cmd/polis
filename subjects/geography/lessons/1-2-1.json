@@ -1,0 +1,176 @@
+{
+ "id": "1-2-1",
+ "title": "Minerals and Energy Resources",
+ "emoji": "⛏️",
+ "cards": [
+  {
+   "tag": "Why this matters",
+   "h": "Minerals build, energy drives",
+   "b": "<p>India's rise needs steel, aluminium, power and fuel. The geography question is where the resources are and why industry sits near them. The new question is <b>critical minerals</b> and the move to clean energy.</p>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "Mineral belts of India",
+   "b": "<svg class=\"d\" viewBox=\"0 0 320 190\"><rect x=\"10\" y=\"6\" width=\"100\" height=\"40\" rx=\"6\" fill=\"#f4dcd5\" stroke=\"#a3362a\" stroke-width=\"1.5\"/><text x=\"60.0\" y=\"30.0\" fill=\"#a3362a\" font-size=\"11\" text-anchor=\"middle\" font-weight=\"700\">North-east plateau</text><rect x=\"116\" y=\"6\" width=\"194\" height=\"40\" rx=\"6\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"213.0\" y=\"30.0\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\">Chotanagpur: coal, iron, mica, bauxite, the richest belt</text><rect x=\"10\" y=\"52\" width=\"100\" height=\"40\" rx=\"6\" fill=\"#dceaec\" stroke=\"#2f6f7a\" stroke-width=\"1.5\"/><text x=\"60.0\" y=\"76.0\" fill=\"#2f6f7a\" font-size=\"11\" text-anchor=\"middle\" font-weight=\"700\">South-west</text><rect x=\"116\" y=\"52\" width=\"194\" height=\"40\" rx=\"6\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"213.0\" y=\"76.0\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\">Karnataka, Goa: iron ore, manganese, bauxite</text><rect x=\"10\" y=\"98\" width=\"100\" height=\"40\" rx=\"6\" fill=\"#f1e4c6\" stroke=\"#a8792a\" stroke-width=\"1.5\"/><text x=\"60.0\" y=\"122.0\" fill=\"#7d5a1c\" font-size=\"11\" text-anchor=\"middle\" font-weight=\"700\">North-west</text><rect x=\"116\" y=\"98\" width=\"194\" height=\"40\" rx=\"6\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"213.0\" y=\"122.0\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\">Rajasthan, Gujarat: copper, zinc, lead, salt, gypsum</text><rect x=\"10\" y=\"144\" width=\"100\" height=\"40\" rx=\"6\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"60.0\" y=\"168.0\" fill=\"#1d2433\" font-size=\"11\" text-anchor=\"middle\" font-weight=\"700\">Central</text><rect x=\"116\" y=\"144\" width=\"194\" height=\"40\" rx=\"6\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"213.0\" y=\"168.0\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\">MP, Chhattisgarh: manganese, coal, diamonds</text></svg><p>Most metallic minerals lie in the old rocks of the <b>peninsula</b>. The Himalayan region has few. The Gangetic plains have almost none, apart from building materials. Mining is regulated by the <b>MMDR Act, 1957</b>, amended in 2015, 2021 and 2023.</p>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "Key minerals at a glance",
+   "b": "<svg class=\"d\" viewBox=\"0 0 320 188\"><rect x=\"10\" y=\"6\" width=\"80\" height=\"26\" rx=\"6\" fill=\"#f1e4c6\" stroke=\"#a8792a\" stroke-width=\"1.5\"/><text x=\"50.0\" y=\"23\" fill=\"#7d5a1c\" font-size=\"11\" text-anchor=\"middle\" font-weight=\"700\">Mineral</text><rect x=\"90\" y=\"6\" width=\"125\" height=\"26\" rx=\"6\" fill=\"#f1e4c6\" stroke=\"#a8792a\" stroke-width=\"1.5\"/><text x=\"152.5\" y=\"23\" fill=\"#7d5a1c\" font-size=\"11\" text-anchor=\"middle\" font-weight=\"700\">Main source</text><rect x=\"215\" y=\"6\" width=\"95\" height=\"26\" rx=\"6\" fill=\"#f1e4c6\" stroke=\"#a8792a\" stroke-width=\"1.5\"/><text x=\"262.5\" y=\"23\" fill=\"#7d5a1c\" font-size=\"11\" text-anchor=\"middle\" font-weight=\"700\">Used for</text><rect x=\"10\" y=\"32\" width=\"80\" height=\"30\" rx=\"0\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"50.0\" y=\"51\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\" font-weight=\"700\">Iron ore</text><rect x=\"90\" y=\"32\" width=\"125\" height=\"30\" rx=\"0\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"152.5\" y=\"51\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\">Odisha, Chhattisgarh</text><rect x=\"215\" y=\"32\" width=\"95\" height=\"30\" rx=\"0\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"262.5\" y=\"51\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\">Steel</text><rect x=\"10\" y=\"62\" width=\"80\" height=\"30\" rx=\"0\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"50.0\" y=\"81\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\" font-weight=\"700\">Coal</text><rect x=\"90\" y=\"62\" width=\"125\" height=\"30\" rx=\"0\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"152.5\" y=\"81\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\">Jharkhand, Odisha</text><rect x=\"215\" y=\"62\" width=\"95\" height=\"30\" rx=\"0\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"262.5\" y=\"81\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\">Power, steel</text><rect x=\"10\" y=\"92\" width=\"80\" height=\"30\" rx=\"0\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"50.0\" y=\"111\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\" font-weight=\"700\">Bauxite</text><rect x=\"90\" y=\"92\" width=\"125\" height=\"30\" rx=\"0\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"152.5\" y=\"111\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\">Odisha, Gujarat</text><rect x=\"215\" y=\"92\" width=\"95\" height=\"30\" rx=\"0\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"262.5\" y=\"111\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\">Aluminium</text><rect x=\"10\" y=\"122\" width=\"80\" height=\"30\" rx=\"0\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"50.0\" y=\"141\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\" font-weight=\"700\">Copper</text><rect x=\"90\" y=\"122\" width=\"125\" height=\"30\" rx=\"0\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"152.5\" y=\"141\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\">Khetri, Malanjkhand</text><rect x=\"215\" y=\"122\" width=\"95\" height=\"30\" rx=\"0\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"262.5\" y=\"141\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\">Wires</text><rect x=\"10\" y=\"152\" width=\"80\" height=\"30\" rx=\"0\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"50.0\" y=\"171\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\" font-weight=\"700\">Mica</text><rect x=\"90\" y=\"152\" width=\"125\" height=\"30\" rx=\"0\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"152.5\" y=\"171\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\">Jharkhand, Bihar</text><rect x=\"215\" y=\"152\" width=\"95\" height=\"30\" rx=\"0\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"262.5\" y=\"171\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\">Electricals</text></svg><p>Iron ore types: <b>hematite</b> (best, about 60-70% iron) and <b>magnetite</b> (highest iron content). Famous mines: Bailadila (Chhattisgarh), Kudremukh (Karnataka), Noamundi (Jharkhand). India has large reserves of iron ore, mica and bauxite but is short of coking coal and copper.</p>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "Coal",
+   "b": "<svg class=\"d\" viewBox=\"0 0 320 144\"><rect x=\"10\" y=\"6\" width=\"105\" height=\"40\" rx=\"6\" fill=\"#f1e4c6\" stroke=\"#a8792a\" stroke-width=\"1.5\"/><text x=\"62.5\" y=\"30.0\" fill=\"#7d5a1c\" font-size=\"11\" text-anchor=\"middle\" font-weight=\"700\">Gondwana coal</text><rect x=\"121\" y=\"6\" width=\"189\" height=\"40\" rx=\"6\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"215.5\" y=\"30.0\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\">98% of reserves, 250 million years old, Damodar valley</text><rect x=\"10\" y=\"52\" width=\"105\" height=\"40\" rx=\"6\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"62.5\" y=\"76.0\" fill=\"#1d2433\" font-size=\"11\" text-anchor=\"middle\" font-weight=\"700\">Tertiary coal</text><rect x=\"121\" y=\"52\" width=\"189\" height=\"40\" rx=\"6\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"215.5\" y=\"76.0\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\">Assam, Meghalaya, J&K, young, high sulphur</text><rect x=\"10\" y=\"98\" width=\"105\" height=\"40\" rx=\"6\" fill=\"#dceaec\" stroke=\"#2f6f7a\" stroke-width=\"1.5\"/><text x=\"62.5\" y=\"122.0\" fill=\"#2f6f7a\" font-size=\"11\" text-anchor=\"middle\" font-weight=\"700\">Types</text><rect x=\"121\" y=\"98\" width=\"189\" height=\"40\" rx=\"6\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"215.5\" y=\"122.0\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\">Anthracite, bituminous, lignite (Neyveli), peat</text></svg><p>Chhattisgarh, Jharkhand and Odisha hold the biggest reserves. <b>Jharia</b> is the main coking coal field; <b>Raniganj</b> (West Bengal) is the oldest. India produced over one billion tonnes of coal in 2024-25 (as of 2025), yet still imports coking coal.</p>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "Petroleum and gas",
+   "b": "<p>First oil: <b>Digboi</b> in Assam (1889). Main fields: <b>Mumbai High</b> (offshore), Assam, Gujarat (Ankleshwar, Cambay) and the <b>Krishna-Godavari</b> basin. India imports about 85% of its crude oil (as of recent data). Strategic reserves are at Vishakhapatnam, Mangaluru and Padur.</p>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "Power sources",
+   "b": "<svg class=\"d\" viewBox=\"0 0 320 174\"><rect x=\"10\" y=\"6\" width=\"90\" height=\"36\" rx=\"6\" fill=\"#f4dcd5\" stroke=\"#a3362a\" stroke-width=\"1.5\"/><text x=\"55.0\" y=\"28.0\" fill=\"#a3362a\" font-size=\"11\" text-anchor=\"middle\" font-weight=\"700\">Thermal</text><rect x=\"106\" y=\"6\" width=\"204\" height=\"36\" rx=\"6\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"208.0\" y=\"28.0\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\">Coal-based, largest share of generation</text><rect x=\"10\" y=\"48\" width=\"90\" height=\"36\" rx=\"6\" fill=\"#dceaec\" stroke=\"#2f6f7a\" stroke-width=\"1.5\"/><text x=\"55.0\" y=\"70.0\" fill=\"#2f6f7a\" font-size=\"11\" text-anchor=\"middle\" font-weight=\"700\">Hydro</text><rect x=\"106\" y=\"48\" width=\"204\" height=\"36\" rx=\"6\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"208.0\" y=\"70.0\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\">Himalaya, Western Ghats, Northeast, seasonal</text><rect x=\"10\" y=\"90\" width=\"90\" height=\"36\" rx=\"6\" fill=\"#f1e4c6\" stroke=\"#a8792a\" stroke-width=\"1.5\"/><text x=\"55.0\" y=\"112.0\" fill=\"#7d5a1c\" font-size=\"11\" text-anchor=\"middle\" font-weight=\"700\">Nuclear</text><rect x=\"106\" y=\"90\" width=\"204\" height=\"36\" rx=\"6\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"208.0\" y=\"112.0\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\">Tarapur, Kudankulam, Rawatbhata, thorium plan</text><rect x=\"10\" y=\"132\" width=\"90\" height=\"36\" rx=\"6\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"55.0\" y=\"154.0\" fill=\"#1d2433\" font-size=\"11\" text-anchor=\"middle\" font-weight=\"700\">Renewables</text><rect x=\"106\" y=\"132\" width=\"204\" height=\"36\" rx=\"6\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"208.0\" y=\"154.0\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\">Solar, wind, rising fast, Rajasthan, Gujarat</text></svg><p>Hydro projects: Bhakra, Tehri, Koyna. Nuclear: India uses uranium and plans a three-stage programme to use its large thorium reserves in Kerala sands. <b>Kudankulam</b> in Tamil Nadu has Russian reactors.</p>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "Renewables and green hydrogen",
+   "b": "<p>The Bhadla Solar Park in Rajasthan is among the world's largest. Wind is big in Tamil Nadu and Gujarat. India's target: <b>500 GW</b> of non-fossil capacity by 2030 and net zero by <b>2070</b>. The <b>International Solar Alliance</b> (2015) is headquartered in Gurugram. The <b>National Green Hydrogen Mission</b> began in 2023. Non-fossil sources reached about half of installed capacity in 2025.</p>"
+  },
+  {
+   "tag": "Debate",
+   "h": "Coal now, clean later?",
+   "b": "<p>Coal supplies most of India's electricity and mines support lakhs of jobs in Jharkhand and Odisha. A fast shutdown would hurt them. But coal causes air pollution and emissions. The debate centres on a <b>just transition</b>: retrain workers, keep coal for baseload, and add storage plus renewables, while demand grows.</p>"
+  },
+  {
+   "tag": "Indian angle",
+   "h": "Critical minerals",
+   "b": "<p>Lithium, cobalt and rare earths are needed for batteries and magnets. India found lithium at Reasi in J&K (2023) and set up the <b>National Critical Mineral Mission</b> (2025). Overseas, <b>KABIL</b> buys assets in Argentina and Australia. China's control of processing worries India.</p>"
+  },
+  {
+   "tag": "Exam lens",
+   "cls": "exam",
+   "h": "How to write this",
+   "b": "<div class=\"box\"><h4>Likely questions</h4><p>\"Describe the distribution of iron ore in India and its role in steel plant location.\" (10 marks)</p><p>\"Is India's energy transition feasible without coal?\" (15 marks)</p></div><p><b>Structure:</b> distribution; link to industries; problems (imports, environment); energy mix; policy such as the 2030 and 2070 goals.</p><p><b>Prelims tip:</b> Gondwana coal is 98%; Digboi is the first oil field; Jharia is the coking coal hub.</p>"
+  }
+ ],
+ "quiz": [
+  {
+   "q": "Which state is the top producer of iron ore?",
+   "o": [
+    "Odisha",
+    "Karnataka",
+    "Chhattisgarh",
+    "Goa"
+   ],
+   "a": 0,
+   "w": "Barbil-Joda is the core region."
+  },
+  {
+   "q": "Jharia is known for",
+   "o": [
+    "Bauxite",
+    "Mica",
+    "Natural gas",
+    "Coking coal"
+   ],
+   "a": 3,
+   "w": "It is in Jharkhand."
+  },
+  {
+   "q": "First oil in India was discovered at",
+   "o": [
+    "Mumbai High",
+    "Digboi",
+    "Ankleshwar",
+    "Cambay"
+   ],
+   "a": 1,
+   "w": "In 1889, Assam."
+  },
+  {
+   "q": "Neyveli is known for",
+   "o": [
+    "Anthracite",
+    "Lignite",
+    "Peat",
+    "Coking coal"
+   ],
+   "a": 1,
+   "w": "It is in Tamil Nadu."
+  },
+  {
+   "q": "Bailadila mines are in",
+   "o": [
+    "Karnataka",
+    "Jharkhand",
+    "Goa",
+    "Chhattisgarh"
+   ],
+   "a": 3,
+   "w": "High-grade hematite."
+  },
+  {
+   "q": "India's non-fossil goal for 2030 is",
+   "o": [
+    "500 GW",
+    "100 GW",
+    "250 GW",
+    "1,000 GW"
+   ],
+   "a": 0,
+   "w": "Announced at COP26."
+  },
+  {
+   "q": "International Solar Alliance is headquartered in",
+   "o": [
+    "Paris",
+    "Geneva",
+    "Gurugram",
+    "New Delhi"
+   ],
+   "a": 2,
+   "w": "Launched in 2015 at COP21."
+  },
+  {
+   "q": "Largest solar park in Rajasthan is",
+   "o": [
+    "Pavagada",
+    "Kamuthi",
+    "Rewa",
+    "Bhadla"
+   ],
+   "a": 3,
+   "w": "Pavagada is in Karnataka."
+  },
+  {
+   "q": "Copper mines at Khetri lie in",
+   "o": [
+    "Rajasthan",
+    "Jharkhand",
+    "Madhya Pradesh",
+    "Chhattisgarh"
+   ],
+   "a": 0,
+   "w": "Malanjkhand is in MP."
+  },
+  {
+   "q": "KABIL is a joint venture to",
+   "o": [
+    "Mine coal",
+    "Build highways",
+    "Acquire critical minerals abroad",
+    "Import oil"
+   ],
+   "a": 2,
+   "w": "Khanij Bidesh India Limited."
+  }
+ ],
+ "sources": [
+  "NCERT Class 12, India: People and Economy, ch. 7",
+  "Ministry of Coal, Ministry of Mines",
+  "Majid Husain, Geography of India"
+ ],
+ "verified": "2026-11-10"
+}

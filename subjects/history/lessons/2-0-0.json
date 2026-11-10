@@ -1,0 +1,171 @@
+{
+ "id": "2-0-0",
+ "title": "Temple Architecture: Nagara, Dravida, Vesara",
+ "emoji": "🛕",
+ "cards": [
+  {
+   "tag": "Why this matters",
+   "h": "Stone as history",
+   "b": "<p>Temples are the best-preserved record of Indian kings, faith and craft. UPSC asks for style features, dynasties and examples, often with a UNESCO angle.</p>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "Parts of a temple",
+   "b": "<b>Garbhagriha</b> (sanctum), <b>mandapa</b> (hall), <b>shikhara</b> or <b>vimana</b> (tower), <b>antarala</b> (vestibule), <b>amalaka</b> (ribbed disc on Nagara tower), <b>kalasha</b> (finial). Early Gupta temples (Deogarh Dashavatara, Bhitargaon brick temple) set the pattern. The three broad styles are described in the Vastu texts: Nagara (north), Dravida (south), Vesara (Deccan mix)."
+  },
+  {
+   "tag": "Key idea",
+   "h": "Nagara style",
+   "b": "<p>Found from the Himalayas to the Vindhyas. Features: a curved <i>shikhara</i> (<i>rekha-deula</i> or <i>latina</i> type), temple on a raised platform, no boundary wall or large gateway. Sub-schools: <b>Odisha</b> (Lingaraja, Bhubaneswar; Konark Sun Temple; Jagannath, Puri; deul and jagamohana), <b>Khajuraho</b> (Chandela, Kandariya Mahadeva, c. 1000 CE; panchayatana plan), <b>Solanki</b> (Modhera Sun Temple, Gujarat, 1026), Dilwara Jain temples (Mount Abu).</p>"
+  },
+  {
+   "tag": "Key idea",
+   "h": "Dravida style",
+   "b": "<p>The tower is a stepped pyramid, <b>vimana</b>, with a rectangular compound wall and a large <b>gopuram</b> at the gateway. A water tank and pillared halls are common. Dynasties: Pallavas (Mahabalipuram Shore Temple, Kanchi Kailasanatha), Cholas (Brihadisvara, Thanjavur, built by Rajaraja I about 1010 CE; Gangaikonda Cholapuram; Airavatesvara, Darasuram), Pandyas and Nayakas (Madurai Meenakshi, large gopurams).</p>"
+  },
+  {
+   "tag": "Key idea",
+   "h": "Vesara and other styles",
+   "b": "<b>Vesara</b> is the mixed style of the Deccan. Chalukyas of Badami and Aihole (Durga temple, Virupaksha at Pattadakal), Rashtrakutas (Kailasa at Ellora, carved from one rock under Krishna I), <b>Hoysalas</b> (Belur, Halebid, Somnathpur; star-shaped plan on a platform, soapstone, called <i>jagati</i>). Others: Kashmir (Martand Sun Temple, Karkota), Himachal (wooden temples), Kerala (sloping roofs), Assam (Kamakhya)."
+  },
+  {
+   "tag": "Core idea",
+   "h": "Rock-cut and monolithic",
+   "b": "<p>Barabar caves (Mauryan, polished). Kanheri, Karle. Elephanta (Shiva, Maharashtra). The Kailasa temple at Ellora is carved top down from a single rock. Pallava monolithic rathas at Mahabalipuram (Narasimhavarman I Mamalla). Ajanta and Ellora combine Buddhist, Hindu and Jain caves.</p>"
+  },
+  {
+   "tag": "Debate",
+   "h": "How strict are the labels?",
+   "b": "<p>The Nagara-Dravida-Vesara scheme is helpful but not sharp: Odisha and Khajuraho differ from each other, and the Deccan mixed both. Scholars such as Adam Hardy speak of a “Karnata Dravida” tradition. Still, for exams, learn the three types and exceptions.</p>"
+  },
+  {
+   "tag": "Indian angle",
+   "h": "Why it matters today",
+   "b": "<p>Great Living Chola Temples (Thanjavur, Gangaikonda Cholapuram, Darasuram), Khajuraho, Konark, Mahabalipuram, Pattadakal, Hampi and the Hoysala temples are UNESCO World Heritage sites (the Hoysala group was added in 2023). The Ram temple at Ayodhya (consecrated January 2024) is built in the Nagara style. Temple economy and the HR&CE laws in states raise legal debates.</p>"
+  },
+  {
+   "tag": "Exam lens",
+   "h": "How to answer",
+   "b": "<ul><li>“Distinguish between Nagara and Dravida architecture.” Use a two-column table.</li><li>“Chola temple architecture was a mirror of imperial power.”</li><li>Prelims tip: gopuram = Dravida; shikhara with amalaka = Nagara; star plan = Hoysala; Kailasa at Ellora = Rashtrakuta.</li></ul>",
+   "cls": "exam"
+  }
+ ],
+ "quiz": [
+  {
+   "q": "The sanctum of a temple is called",
+   "o": [
+    "Garbhagriha",
+    "Mandapa",
+    "Antarala",
+    "Gopuram"
+   ],
+   "a": 0,
+   "w": "It houses the main deity."
+  },
+  {
+   "q": "A gopuram is a feature of",
+   "o": [
+    "Nagara temples",
+    "Buddhist stupas",
+    "Indo-Islamic tombs",
+    "Dravida temples"
+   ],
+   "a": 3,
+   "w": "It is the gateway tower."
+  },
+  {
+   "q": "The Brihadisvara temple at Thanjavur was built under",
+   "o": [
+    "Rajendra I",
+    "Narasimhavarman I",
+    "Rajaraja I",
+    "Krishna I"
+   ],
+   "a": 2,
+   "w": "It was completed around 1010 CE."
+  },
+  {
+   "q": "The Kailasa temple at Ellora was built by",
+   "o": [
+    "Cholas",
+    "Rashtrakutas",
+    "Pallavas",
+    "Hoysalas"
+   ],
+   "a": 1,
+   "w": "It is a monolithic temple."
+  },
+  {
+   "q": "Shore Temple at Mahabalipuram belongs to",
+   "o": [
+    "Pallavas",
+    "Cholas",
+    "Chalukyas",
+    "Pandyas"
+   ],
+   "a": 0,
+   "w": "It is of the Dravida style."
+  },
+  {
+   "q": "Konark Sun Temple belongs to the",
+   "o": [
+    "Dravida school",
+    "Vesara school",
+    "Kerala school",
+    "Odisha school of Nagara"
+   ],
+   "a": 3,
+   "w": "Built in the 13th century by Narasimhadeva I of the Eastern Ganga dynasty."
+  },
+  {
+   "q": "The Khajuraho temples were built by the",
+   "o": [
+    "Solankis",
+    "Hoysalas",
+    "Chandelas",
+    "Pallavas"
+   ],
+   "a": 2,
+   "w": "Kandariya Mahadeva is the largest."
+  },
+  {
+   "q": "A star-shaped plan on a raised platform is typical of",
+   "o": [
+    "Chola temples",
+    "Hoysala temples",
+    "Pallava temples",
+    "Gupta temples"
+   ],
+   "a": 1,
+   "w": "Seen at Belur, Halebid and Somnathpur."
+  },
+  {
+   "q": "The Modhera Sun Temple is in",
+   "o": [
+    "Gujarat",
+    "Odisha",
+    "Karnataka",
+    "Kashmir"
+   ],
+   "a": 0,
+   "w": "Built by the Solankis."
+  },
+  {
+   "q": "The Durga temple at Aihole belongs to",
+   "o": [
+    "Cholas",
+    "Pallavas",
+    "Kakatiyas",
+    "Chalukyas"
+   ],
+   "a": 3,
+   "w": "Early Chalukyan experiments."
+  }
+ ],
+ "sources": [
+  "Nitin Singhania, Indian Art and Culture",
+  "NCERT, An Introduction to Indian Art (Class XI)",
+  "Mains-style: temple architecture"
+ ],
+ "verified": "2026-11-10"
+}

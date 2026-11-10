@@ -1,0 +1,169 @@
+{
+ "id": "1-1-0",
+ "title": "The Bronze Age Collapse of 1177 BCE",
+ "emoji": "🔥",
+ "cards": [
+  {
+   "tag": "Why this matters",
+   "h": "In a few decades, half the civilised world went dark",
+   "b": "<p>Around 1200 BCE, the Mediterranean world was a rich, connected network of kingdoms: Egypt, the Hittites, Mycenaean Greece, Ugarit, Babylon. Within about 50 years, most of them were ruined.</p><p>The archaeologist Eric Cline called it the year civilisation collapsed in his 2014 book, <i>1177 B.C.</i></p>"
+  },
+  {
+   "tag": "The story",
+   "h": "The golden age before the crash",
+   "b": "<p>The Late Bronze Age was globalised. Copper came from Cyprus. Tin came from far away, perhaps from today's Afghanistan or Central Asia. Kings wrote to each other as 'brother'.</p><p>A shipwreck found off <b>Uluburun</b> (Turkey), about 1320 BCE, carried tonnes of copper and tin, ivory, glass and goods from many lands.</p>"
+  },
+  {
+   "tag": "The turning point",
+   "h": "The last letters",
+   "b": "<svg class=\"d\" viewBox=\"0 0 320 152\"><line x1=\"14\" y1=\"10\" x2=\"14\" y2=\"142\" stroke=\"#a8792a\" stroke-width=\"2\"/><circle cx=\"14\" cy=\"22\" r=\"5\" fill=\"#f1e4c6\" stroke=\"#a8792a\" stroke-width=\"2\"/><text x=\"28\" y=\"26\" font-size=\"11\" font-weight=\"700\" fill=\"#a8792a\">~1200 BCE</text><text x=\"112\" y=\"26\" font-size=\"11\" fill=\"#1d2433\">Hittite capital falls</text><circle cx=\"14\" cy=\"50\" r=\"5\" fill=\"#f1e4c6\" stroke=\"#a8792a\" stroke-width=\"2\"/><text x=\"28\" y=\"54\" font-size=\"11\" font-weight=\"700\" fill=\"#a8792a\">~1190</text><text x=\"112\" y=\"54\" font-size=\"11\" fill=\"#1d2433\">Ugarit is burned</text><circle cx=\"14\" cy=\"78\" r=\"5\" fill=\"#f1e4c6\" stroke=\"#a8792a\" stroke-width=\"2\"/><text x=\"28\" y=\"82\" font-size=\"11\" font-weight=\"700\" fill=\"#a8792a\">~1177</text><text x=\"112\" y=\"82\" font-size=\"11\" fill=\"#1d2433\">Ramesses III beats Sea Peoples</text><circle cx=\"14\" cy=\"106\" r=\"5\" fill=\"#f1e4c6\" stroke=\"#a8792a\" stroke-width=\"2\"/><text x=\"28\" y=\"110\" font-size=\"11\" font-weight=\"700\" fill=\"#a8792a\">~1150</text><text x=\"112\" y=\"110\" font-size=\"11\" fill=\"#1d2433\">Mycenaean palaces gone</text><circle cx=\"14\" cy=\"134\" r=\"5\" fill=\"#f1e4c6\" stroke=\"#a8792a\" stroke-width=\"2\"/><text x=\"28\" y=\"138\" font-size=\"11\" font-weight=\"700\" fill=\"#a8792a\">~1100</text><text x=\"112\" y=\"138\" font-size=\"11\" fill=\"#1d2433\">Dark Age begins in Greece</text></svg><p>At Ugarit, clay tablets baked by the fire that destroyed the city preserve a letter. The king said enemy ships had come, his army and fleet were elsewhere, and the land was left helpless.</p>"
+  },
+  {
+   "tag": "The twist",
+   "h": "Who were the Sea Peoples?",
+   "b": "<p>Egyptian carvings of Ramesses III (about 1177 BCE) show battles in the Nile Delta with foreign warriors in strange horned helmets and feather headdresses. Egypt called them 'Sea Peoples'.</p><p>Nobody knows exactly who they were. Names like Peleset (maybe the Philistines) appear. Some may have been refugees, not just raiders.</p>"
+  },
+  {
+   "tag": "The story",
+   "h": "A perfect storm",
+   "b": "<p>Evidence suggests <b>drought</b> and famine, earthquakes, internal revolts, and the breakdown of trade. When tin stopped, bronze was hard to make. A chain reaction followed, as the kingdoms depended on each other.</p><p>Egypt survived but was weakened. The Hittites vanished. Greece lost writing for centuries (the Linear B script disappeared).</p>"
+  },
+  {
+   "tag": "The story",
+   "h": "What came next",
+   "b": "<p>From the ruins came new things: <b>iron</b> became common, the alphabet spread, and new small states appeared, such as Israel, Phoenician cities and Aramaean kingdoms.</p><p>Greece entered what is often called a Dark Age. But from it the city-states of classical Greece would later grow.</p>"
+  },
+  {
+   "tag": "Historians argue",
+   "h": "One cause or many?",
+   "b": "<p>Older books blamed the Sea Peoples alone. Most historians now say it was a <b>system collapse</b>: many causes interacting. Some stress climate. Others stress politics. Some say 'collapse' is too strong, since many places continued.</p><p>The 'earthquake storm' idea, a run of earthquakes, is also disputed. No single explanation convinces everyone.</p>"
+  },
+  {
+   "tag": "Indian angle",
+   "h": "Meanwhile in India…",
+   "b": "<p>Quiet after the Indus</p>"
+  },
+  {
+   "tag": "Recap",
+   "h": "Five takeaways, two puzzles",
+   "b": "<p><b>Five things to remember</b></p><ol><li>Late Bronze Age kingdoms were deeply linked.</li><li>Around 1200-1150 BCE many collapsed.</li><li>The Sea Peoples are named in Egyptian records but remain mysterious.</li><li>Most historians blame several causes together.</li><li>Iron, alphabets and new states followed.</li></ol><p><b>Think about it</b></p><ul><li>What does it say about us that connection makes us stronger and weaker?</li><li>Could a modern global crash happen the same way?</li></ul>",
+   "cls": "exam"
+  }
+ ],
+ "quiz": [
+  {
+   "q": "Eric Cline's book on the collapse is called...",
+   "o": [
+    "Guns, Germs and Steel",
+    "SPQR",
+    "1177 B.C.",
+    "The Histories"
+   ],
+   "a": 2,
+   "w": "Published 2014."
+  },
+  {
+   "q": "Which Egyptian king fought the Sea Peoples?",
+   "o": [
+    "Ramesses III",
+    "Tutankhamun",
+    "Khufu",
+    "Ptolemy"
+   ],
+   "a": 0,
+   "w": "About 1177 BCE."
+  },
+  {
+   "q": "The Hittite capital was...",
+   "o": [
+    "Uruk",
+    "Thebes",
+    "Carthage",
+    "Hattusa"
+   ],
+   "a": 3,
+   "w": "In modern Turkey."
+  },
+  {
+   "q": "The Uluburun wreck shows...",
+   "o": [
+    "A Viking raid",
+    "Wide Bronze Age trade",
+    "Roman wine",
+    "Chinese silk"
+   ],
+   "a": 1,
+   "w": "It carried copper, tin and luxury goods."
+  },
+  {
+   "q": "Which writing system vanished in Greece after the collapse?",
+   "o": [
+    "Linear B",
+    "Cuneiform",
+    "Hieroglyphs",
+    "Brahmi"
+   ],
+   "a": 0,
+   "w": "It was palace administration script."
+  },
+  {
+   "q": "Tin mattered because...",
+   "o": [
+    "It fuelled ships",
+    "It was currency",
+    "It was used for writing",
+    "Bronze is copper plus tin"
+   ],
+   "a": 3,
+   "w": "Without tin, no bronze."
+  },
+  {
+   "q": "Most historians see the collapse as...",
+   "o": [
+    "Only Sea Peoples",
+    "A system of many causes",
+    "Only one flood",
+    "Fiction"
+   ],
+   "a": 1,
+   "w": "Climate, war and trade breakdown together."
+  },
+  {
+   "q": "The Indus cities had declined by...",
+   "o": [
+    "1177 BCE",
+    "300 BCE",
+    "About 1900 BCE",
+    "500 CE"
+   ],
+   "a": 2,
+   "w": "Before the Mediterranean collapse."
+  },
+  {
+   "q": "Which metal became common afterwards?",
+   "o": [
+    "Gold",
+    "Aluminium",
+    "Silver",
+    "Iron"
+   ],
+   "a": 3,
+   "w": "Iron spread widely."
+  },
+  {
+   "q": "The Sea Peoples are known from...",
+   "o": [
+    "Egyptian inscriptions",
+    "Greek epics only",
+    "Indian texts",
+    "Chinese bones"
+   ],
+   "a": 0,
+   "w": "Medinet Habu reliefs."
+  }
+ ],
+ "sources": [
+  "Cline, 1177 B.C.: The Year Civilization Collapsed (2014); Drews, The End of the Bronze Age (1993); Possehl on Indus decline"
+ ],
+ "verified": "2026-11-10"
+}

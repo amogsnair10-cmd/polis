@@ -1,0 +1,176 @@
+{
+ "id": "1-1-0",
+ "title": "The Delhi Sultanate",
+ "emoji": "🏰",
+ "cards": [
+  {
+   "tag": "Why this matters",
+   "h": "Five dynasties, one state tradition",
+   "b": "<p>The Sultanate (1206 to 1526) brought new administration, architecture and an urban economy. UPSC asks for rulers’ reforms and their effects.</p>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "Dynasties at a glance",
+   "b": "<ul><li><b>Slave (Mamluk)</b> 1206 to 90: Qutbuddin Aibak, Iltutmish, Raziya, Balban.</li><li><b>Khalji</b> 1290 to 1320: Jalaluddin, Alauddin.</li><li><b>Tughlaq</b> 1320 to 1414: Ghiyasuddin, Muhammad bin Tughlaq, Firoz Shah.</li><li><b>Sayyid</b> 1414 to 51; <b>Lodi</b> 1451 to 1526: Bahlol, Sikandar, Ibrahim Lodi.</li></ul>The Sultanate ended with the First Battle of Panipat (1526)."
+  },
+  {
+   "tag": "Key idea",
+   "h": "Early Sultans",
+   "b": "<b>Iltutmish</b> (1211 to 36): got investiture from the Caliph, introduced the silver <i>tanka</i> and copper <i>jital</i>, the <i>iqta</i> system and the “Corps of Forty” (<i>Turkan-i-Chahalgani</i>); Qutb Minar finished. <b>Raziya</b> (1236 to 40): the only woman ruler. <b>Balban</b> (1266 to 87): divine kingship, <i>sijda</i> and <i>paibos</i>, strong spy system (<i>barids</i>), crushed the Forty and the Mongols; his court culture was Persian."
+  },
+  {
+   "tag": "Key idea",
+   "h": "Alauddin Khalji (1296 to 1316)",
+   "b": "<p>Conquests: Gujarat, Ranthambhor, Chittor, Malwa, and the south under Malik Kafur (Devagiri, Warangal, Dwarasamudra, Madurai). Mongol attacks repelled. <b>Market reforms</b>: price controls on grain, cloth, horses, with <i>diwan-i-riyasat</i> and <i>shahna-i-mandi</i>; to fund a large standing army. Land revenue at half the produce, measured (<i>masahat</i>) and direct (<i>khalisa</i>) collection; <i>dagh</i> (branding horses) and <i>chehra</i> (muster roll). Chroniclers: Amir Khusrau, Ziauddin Barani.</p>"
+  },
+  {
+   "tag": "Key idea",
+   "h": "Muhammad bin Tughlaq (1325 to 51)",
+   "b": "<p>Famous “experiments”: (1) <b>capital shift</b> from Delhi to Daulatabad (1327, 1329 return); (2) <b>token currency</b> of brass and copper, which failed because of forgery; (3) taxation increase in the Doab and a famine; (4) the Khurasan and Qarachil plans; (5) agriculture department (<i>diwan-i-kohi</i>). Ibn Battuta (Moroccan, visited 1333 to 47) served as a judge. Rebellions began: Bahmani state (1347) and Vijayanagara (1336).</p>"
+  },
+  {
+   "tag": "Key idea",
+   "h": "Firoz Shah Tughlaq (1351 to 88)",
+   "b": "<p>A reformer: new canals (Yamuna to Hisar), towns (Firozabad, Jaunpur, Fatehabad), the tax on Brahmins (<i>jizya</i> on them too), end of harsh punishments, slave department (<i>diwan-i-bandagan</i>), <i>diwan-i-khairat</i> (charity for marriages), and hereditary iqtas. Weak army; fall after his death. Timur’s invasion of Delhi (1398) shattered the Sultanate under Mahmud Tughlaq.</p>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "Administration and economy",
+   "b": "<p>Sultan with the <i>naib</i> and <i>wazir</i>; departments: <i>diwan-i-wizarat</i> (finance), <i>diwan-i-arz</i> (army), <i>diwan-i-insha</i>, <i>diwan-i-risalat</i>. Provinces (<i>iqta</i>, later <i>shiq</i>), then <i>parganas</i>. Revenue: <i>kharaj</i>, <i>jizya</i>, <i>zakat</i>, <i>khams</i>. A money economy grew; Persian wheel, paper, spinning wheel and new crafts arrived. Cities such as Delhi, Multan and Lahore grew. Sultanate’s Hindu allies and Hindu elites served as revenue collectors.</p>"
+  },
+  {
+   "tag": "Debate",
+   "h": "Was the Sultanate an Islamic state?",
+   "b": "<p>Barani saw the state as divinely ordered; the Ulama pressed for sharia. Historians (Mohammad Habib, K. A. Nizami) show that rulers used both Persian kingship and local practice. Irfan Habib stressed the agrarian system and exploitation. Recent writers (Sunil Kumar) highlight a hybrid court. Alauddin’s remark that he ruled by what he thought best for the state is often quoted.</p>"
+  },
+  {
+   "tag": "Indian angle",
+   "h": "Why it matters today",
+   "b": "<p>The Qutb complex, Tughlaqabad, and the Alai Darwaza are heritage sites. The idea of a standardised currency, price control (essential commodities act echoes), and the use of Persian in administration shaped later states. Debates on how to teach this period feed the NCERT and public memory debate.</p>"
+  },
+  {
+   "tag": "Exam lens",
+   "h": "How to answer",
+   "b": "<ul><li>“Assess Alauddin Khalji’s market reforms.”</li><li>“Was Muhammad bin Tughlaq a mad king or a visionary?”</li><li>“Why did the Sultanate decline?”</li><li>Prelims tip: Iltutmish (iqta, tanka), Balban (sijda), Alauddin (market control, dagh), Tughlaq (token currency), Firoz (canals, diwan-i-khairat), Timur 1398.</li></ul>",
+   "cls": "exam"
+  }
+ ],
+ "quiz": [
+  {
+   "q": "Who introduced the silver tanka and copper jital?",
+   "o": [
+    "Iltutmish",
+    "Alauddin Khalji",
+    "Balban",
+    "Firoz Tughlaq"
+   ],
+   "a": 0,
+   "w": "Standard coinage."
+  },
+  {
+   "q": "The only woman ruler of the Delhi Sultanate was",
+   "o": [
+    "Nur Jahan",
+    "Chand Bibi",
+    "Mumtaz",
+    "Raziya"
+   ],
+   "a": 3,
+   "w": "She ruled 1236 to 40."
+  },
+  {
+   "q": "The Corps of Forty (Chahalgani) was crushed by",
+   "o": [
+    "Iltutmish",
+    "Alauddin",
+    "Balban",
+    "Firoz"
+   ],
+   "a": 2,
+   "w": "To strengthen the Sultan."
+  },
+  {
+   "q": "Market control and price regulation are linked to",
+   "o": [
+    "Balban",
+    "Alauddin Khalji",
+    "Muhammad bin Tughlaq",
+    "Sikandar Lodi"
+   ],
+   "a": 1,
+   "w": "To feed a large army cheaply."
+  },
+  {
+   "q": "Dagh and chehra were",
+   "o": [
+    "Branding of horses and muster rolls",
+    "Taxes on land",
+    "Judicial courts",
+    "Coin types"
+   ],
+   "a": 0,
+   "w": "Army reforms."
+  },
+  {
+   "q": "Muhammad bin Tughlaq shifted the capital to",
+   "o": [
+    "Agra",
+    "Lahore",
+    "Fatehpur Sikri",
+    "Daulatabad"
+   ],
+   "a": 3,
+   "w": "In 1327."
+  },
+  {
+   "q": "The Moroccan traveller Ibn Battuta visited in the reign of",
+   "o": [
+    "Alauddin Khalji",
+    "Firoz Shah",
+    "Muhammad bin Tughlaq",
+    "Iltutmish"
+   ],
+   "a": 2,
+   "w": "He served as qazi."
+  },
+  {
+   "q": "Diwan-i-khairat was set up by",
+   "o": [
+    "Balban",
+    "Firoz Shah Tughlaq",
+    "Alauddin",
+    "Iltutmish"
+   ],
+   "a": 1,
+   "w": "For marriages of poor Muslim girls."
+  },
+  {
+   "q": "Timur invaded Delhi in",
+   "o": [
+    "1398",
+    "1206",
+    "1526",
+    "1451"
+   ],
+   "a": 0,
+   "w": "In the reign of Mahmud Tughlaq."
+  },
+  {
+   "q": "The last Sultanate dynasty was the",
+   "o": [
+    "Sayyid",
+    "Tughlaq",
+    "Khalji",
+    "Lodi"
+   ],
+   "a": 3,
+   "w": "Ibrahim Lodi lost at Panipat in 1526."
+  }
+ ],
+ "sources": [
+  "Satish Chandra, Medieval India",
+  "Spectrum; Nitin Singhania",
+  "Mains-style: Alauddin, Tughlaq"
+ ],
+ "verified": "2026-11-10"
+}

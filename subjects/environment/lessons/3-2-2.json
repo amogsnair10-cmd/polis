@@ -1,0 +1,177 @@
+{
+ "id": "3-2-2",
+ "title": "Carbon Markets, Green Credit and LiFE",
+ "emoji": "🌱",
+ "cards": [
+  {
+   "tag": "Why this matters",
+   "h": "New tools, new questions",
+   "b": "<p>India has built three connected instruments: a compliance carbon market, the Green Credit Programme and Mission LiFE. They are fresh in the news and ideal for Mains.</p><p>Keep them separate in your mind: one prices carbon, one rewards land and nature actions, one changes behaviour.</p>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "How carbon markets work",
+   "b": "<p>A <b>compliance market</b> sets a legal limit or intensity target for firms. Those who beat it earn credits and sell to those who miss. A <b>voluntary market</b> lets firms buy credits to offset their emissions.</p><p>Two designs: <b>cap-and-trade</b> (absolute cap, as in the EU ETS, started 2005) and <b>baseline-and-credit</b> (intensity targets). India uses the intensity model.</p>"
+  },
+  {
+   "tag": "India’s CCTS",
+   "h": "The legal base",
+   "b": "<p>The <b>Energy Conservation (Amendment) Act 2022</b> allowed carbon markets. The <b>Carbon Credit Trading Scheme</b> was notified in 2023 and its rules sit with the Ministry of Power. The <b>Bureau of Energy Efficiency</b> is the administrator, the <b>Grid Controller of India</b> is registry, and <b>CERC</b> regulates trading.</p><p>It replaces the earlier <b>PAT</b> energy efficiency scheme (2012). One credit equals one tonne of CO2e.</p>"
+  },
+  {
+   "tag": "Sectors and timeline",
+   "h": "As of 2026",
+   "b": "<p>Intensity targets for 2025–26 and 2026–27 have been notified in stages for energy-intensive sectors including <b>aluminium, cement, chlor-alkali, pulp and paper</b>, and later <b>petroleum refining, petrochemicals, textiles</b> and others (as of 2026; reports differ on counts of units). Trading of compliance credits was expected from about October 2026, so check whether it has started.</p><p>An <b>offset mechanism</b> also allows non-obligated projects, such as renewables and afforestation, to earn credits.</p>"
+  },
+  {
+   "tag": "Green Credit Programme",
+   "h": "Nature-based rewards",
+   "b": "<p>The <b>Green Credit Rules</b> were notified under the Environment Protection Act in October 2023. It is voluntary and market-based, and the administrator is <b>ICFRE</b>, Dehradun. At COP28 India launched the Green Credit Initiative.</p><p>Eligible activities include <b>tree plantation, water conservation, sustainable agriculture, waste management, air pollution reduction, mangrove restoration, Ecomark and sustainable building</b>. People or firms can earn a credit and trade it.</p>"
+  },
+  {
+   "tag": "Mission LiFE",
+   "h": "Lifestyle for Environment",
+   "b": "<p><b>LiFE</b> was announced by the Prime Minister at COP26 (2021) and launched on 20 October 2022 at Kevadia, Gujarat with the UN Secretary-General. It promotes simple habits: saving energy and water, cutting waste and plastic, eating sustainably and adopting healthy lifestyles.</p><p>It builds <b>Pro-Planet People</b> and treats behaviour as a climate tool, backed by India’s case that overconsumption in rich countries is a cause.</p>"
+  },
+  {
+   "tag": "Link to Paris",
+   "h": "Article 6",
+   "b": "<p>The Paris Agreement’s <b>Article 6</b> allows international transfer of credits (6.2) and a UN-supervised crediting mechanism (6.4). Rules agreed at COP29 (2024) open the way for India’s credits to be sold abroad, with safeguards against double counting.</p><p>India will need to match domestic CCTS rules with Article 6 accounting.</p>"
+  },
+  {
+   "tag": "Debate",
+   "h": "Risks and criticism",
+   "b": "<p>Carbon markets can fail through weak baselines, double counting and low prices. Intensity targets may not cap total emissions. Green Credit has been criticised for treating nature like a commodity and for land tied up in plantations.</p><p>Supporters say markets mobilise private money and reward early action, and are better than rules alone.</p>"
+  },
+  {
+   "tag": "Indian angle",
+   "h": "Why it matters to India",
+   "b": "<p>India’s industry is energy-intensive and exports face the EU CBAM from 2026. A domestic carbon price could help exporters show they already pay a price for carbon.</p><p>The three tools fit the NDC goals and the 2070 net-zero target.</p>"
+  },
+  {
+   "tag": "Exam lens",
+   "h": "How to answer",
+   "b": "<p><b>Mains-style:</b> “What is the Carbon Credit Trading Scheme? How does it differ from PAT and from the Green Credit Programme?” Structure: definitions; legal base; sector coverage; differences (compliance versus voluntary, industry versus nature); risks; way forward.</p><p><b>Prelims tip:</b> CCTS: BEE as administrator. Green Credit Administrator: ICFRE. LiFE launched 2022. EU ETS began 2005.</p>",
+   "cls": "exam"
+  }
+ ],
+ "quiz": [
+  {
+   "q": "The administrator of India’s Green Credit Programme is:",
+   "o": [
+    "ICFRE",
+    "BEE",
+    "NITI Aayog",
+    "CPCB"
+   ],
+   "a": 0,
+   "w": "Indian Council of Forestry Research and Education."
+  },
+  {
+   "q": "India’s carbon market is mainly based on:",
+   "o": [
+    "An absolute cap",
+    "A carbon tax",
+    "A subsidy",
+    "Emission intensity targets"
+   ],
+   "a": 3,
+   "w": "Baseline and credit approach."
+  },
+  {
+   "q": "Which Act enabled carbon markets in India?",
+   "o": [
+    "Environment Protection Act 1986",
+    "Electricity Act 2003",
+    "Energy Conservation (Amendment) Act 2022",
+    "Biological Diversity Act 2002"
+   ],
+   "a": 2,
+   "w": "It gave power to set a carbon credit scheme."
+  },
+  {
+   "q": "PAT stands for:",
+   "o": [
+    "Pollution and Trade",
+    "Perform, Achieve and Trade",
+    "Power and Technology",
+    "Protect and Transfer"
+   ],
+   "a": 1,
+   "w": "An energy efficiency trading scheme from 2012."
+  },
+  {
+   "q": "Mission LiFE was launched at:",
+   "o": [
+    "Kevadia, Gujarat",
+    "Glasgow",
+    "Delhi",
+    "Dubai"
+   ],
+   "a": 0,
+   "w": "On 20 October 2022."
+  },
+  {
+   "q": "The EU Emissions Trading System began in:",
+   "o": [
+    "1997",
+    "2015",
+    "2023",
+    "2005"
+   ],
+   "a": 3,
+   "w": "The first major carbon market."
+  },
+  {
+   "q": "Article 6 of the Paris Agreement concerns:",
+   "o": [
+    "Finance",
+    "Adaptation",
+    "Carbon markets and cooperation",
+    "Transparency"
+   ],
+   "a": 2,
+   "w": "6.2 and 6.4 relate to transfers and a UN crediting mechanism."
+  },
+  {
+   "q": "A Green Credit can be earned by:",
+   "o": [
+    "Burning coal",
+    "Tree plantation or water conservation",
+    "Importing oil",
+    "Mining"
+   ],
+   "a": 1,
+   "w": "Among eight activity types."
+  },
+  {
+   "q": "Which regulator oversees trading of carbon credits in India?",
+   "o": [
+    "CERC",
+    "RBI",
+    "SEBI",
+    "TRAI"
+   ],
+   "a": 0,
+   "w": "The Central Electricity Regulatory Commission."
+  },
+  {
+   "q": "LiFE was first announced at:",
+   "o": [
+    "COP21 Paris",
+    "COP28 Dubai",
+    "COP30 Belém",
+    "COP26 Glasgow"
+   ],
+   "a": 3,
+   "w": "Announced in 2021, launched in 2022."
+  }
+ ],
+ "sources": [
+  "Shankar IAS Environment",
+  "MoEFCC, MNRE and PIB",
+  "UNFCCC decisions",
+  "Carbon Credit Trading Scheme notifications; Green Credit Rules 2023 (secondary 2026 reports on sector coverage)"
+ ],
+ "verified": "2026-11-10"
+}

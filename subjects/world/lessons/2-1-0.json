@@ -1,0 +1,169 @@
+{
+ "id": "2-1-0",
+ "title": "Rome: From Republic to Empire",
+ "emoji": "🏛️",
+ "cards": [
+  {
+   "tag": "Why this matters",
+   "h": "A republic that hated kings ended up with an emperor",
+   "b": "<p>Rome began as a small town on the Tiber. Legend says it was founded in 753 BCE by Romulus, who killed his twin Remus. Legend is fun, but the real story is better.</p><p>Five centuries later Romans swore they would never again live under a king. Then they did, just with a different name.</p>"
+  },
+  {
+   "tag": "The story",
+   "h": "No more kings",
+   "b": "<p>Tradition says Rome's last king, Tarquin the Proud, was thrown out in <b>509 BCE</b>. Romans set up a <b>Republic</b> (<i>res publica</i>, 'public thing'). Two <b>consuls</b>, elected for one year, led the state. A <b>Senate</b> of elders advised. Ordinary citizens (the plebs) won their own officials, the tribunes.</p>"
+  },
+  {
+   "tag": "The turning point",
+   "h": "Empire by war",
+   "b": "<p>Rome beat its Italian neighbours, then fought Carthage in the <b>Punic Wars</b> (264-146 BCE) and destroyed it. It took Greece, Spain and more.</p><p>The spoils enriched a few and ruined many farmers. Rich generals with loyal armies became dangerous. The system strained.</p>"
+  },
+  {
+   "tag": "The twist",
+   "h": "Caesar crosses a river",
+   "b": "<svg class=\"d\" viewBox=\"0 0 320 256\"><defs><marker id=\"ar1\" markerWidth=\"8\" markerHeight=\"8\" refX=\"4\" refY=\"4\" orient=\"auto\"><path d=\"M0,0 L8,4 L0,8 z\" fill=\"#5d6474\"/></marker></defs><rect x=\"16\" y=\"2\" width=\"288\" height=\"28\" rx=\"6\" fill=\"#f1e4c6\" stroke=\"#a8792a\"/><text x=\"160\" y=\"20\" font-size=\"11\" text-anchor=\"middle\" fill=\"#1d2433\">Republic: consuls and Senate</text><line x1=\"160\" y1=\"30\" x2=\"160\" y2=\"42\" stroke=\"#5d6474\" stroke-width=\"1.5\" marker-end=\"url(#ar1)\"/><rect x=\"16\" y=\"44\" width=\"288\" height=\"28\" rx=\"6\" fill=\"#dceaec\" stroke=\"#2f6f7a\"/><text x=\"160\" y=\"62\" font-size=\"11\" text-anchor=\"middle\" fill=\"#1d2433\">Civil wars as generals fight for power</text><line x1=\"160\" y1=\"72\" x2=\"160\" y2=\"84\" stroke=\"#5d6474\" stroke-width=\"1.5\" marker-end=\"url(#ar1)\"/><rect x=\"16\" y=\"86\" width=\"288\" height=\"28\" rx=\"6\" fill=\"#f1e4c6\" stroke=\"#a8792a\"/><text x=\"160\" y=\"104\" font-size=\"11\" text-anchor=\"middle\" fill=\"#1d2433\">Caesar crosses the Rubicon, 49 BCE</text><line x1=\"160\" y1=\"114\" x2=\"160\" y2=\"126\" stroke=\"#5d6474\" stroke-width=\"1.5\" marker-end=\"url(#ar1)\"/><rect x=\"16\" y=\"128\" width=\"288\" height=\"28\" rx=\"6\" fill=\"#dceaec\" stroke=\"#2f6f7a\"/><text x=\"160\" y=\"146\" font-size=\"11\" text-anchor=\"middle\" fill=\"#1d2433\">Caesar murdered, 44 BCE</text><line x1=\"160\" y1=\"156\" x2=\"160\" y2=\"168\" stroke=\"#5d6474\" stroke-width=\"1.5\" marker-end=\"url(#ar1)\"/><rect x=\"16\" y=\"170\" width=\"288\" height=\"28\" rx=\"6\" fill=\"#f1e4c6\" stroke=\"#a8792a\"/><text x=\"160\" y=\"188\" font-size=\"11\" text-anchor=\"middle\" fill=\"#1d2433\">Octavian wins at Actium, 31 BCE</text><line x1=\"160\" y1=\"198\" x2=\"160\" y2=\"210\" stroke=\"#5d6474\" stroke-width=\"1.5\" marker-end=\"url(#ar1)\"/><rect x=\"16\" y=\"212\" width=\"288\" height=\"28\" rx=\"6\" fill=\"#dceaec\" stroke=\"#2f6f7a\"/><text x=\"160\" y=\"230\" font-size=\"11\" text-anchor=\"middle\" fill=\"#1d2433\">Augustus: first emperor, 27 BCE</text></svg><b>Julius Caesar</b> conquered Gaul, then in 49 BCE crossed the Rubicon with his army, an act of war against Rome. He won the civil war and became dictator. On the Ides of March, <b>15 March 44 BCE</b>, senators stabbed him, led by Brutus and Cassius."
+  },
+  {
+   "tag": "The story",
+   "h": "The quiet takeover",
+   "b": "<p>Caesar's heir Octavian beat Mark Antony and Cleopatra at <b>Actium</b> in 31 BCE. In 27 BCE the Senate gave him the name <b>Augustus</b>. He never called himself king. He kept the Senate and the offices, but held real power.</p><p>This began the <b>Pax Romana</b>, about two centuries of relative peace and prosperity.</p>"
+  },
+  {
+   "tag": "The story",
+   "h": "Life in the empire",
+   "b": "<p>At its height under Trajan (117 CE), Rome stretched from Britain to Syria. Roads, aqueducts and one law linked millions. Latin and Greek were everywhere.</p><p>But around half the people in Italy might have been enslaved, and gladiator games were mass entertainment. Rome was impressive and brutal at once.</p>"
+  },
+  {
+   "tag": "Myth vs fact",
+   "h": "What did Caesar's death really look like?",
+   "b": "<b>Myth 1:</b> Caesar said 'Et tu, Brute?' That line is Shakespeare's (1599). Ancient writers disagree about his last words; Suetonius records one version in Greek.<b>Myth 2:</b> the Caesarean section is named after Caesar's birth. His mother lived long after, and such operations then were nearly always fatal for the mother. The name probably comes from the Latin word for cut."
+  },
+  {
+   "tag": "Indian angle",
+   "h": "Meanwhile in India…",
+   "b": "<p>Roman gold in Tamil lands</p>"
+  },
+  {
+   "tag": "Recap",
+   "h": "Five takeaways, two puzzles",
+   "b": "<p><b>Five things to remember</b></p><ol><li>The Republic began about 509 BCE.</li><li>Rome destroyed Carthage in 146 BCE.</li><li>Caesar crossed the Rubicon in 49 BCE and died in 44 BCE.</li><li>Augustus became first emperor in 27 BCE.</li><li>Rome and India traded heavily.</li></ol><p><b>Think about it</b></p><ul><li>Why do republics fall when armies are loyal to generals?</li><li>Was Augustus a saviour or a trickster?</li></ul>",
+   "cls": "exam"
+  }
+ ],
+ "quiz": [
+  {
+   "q": "Rome's Republic began about...",
+   "o": [
+    "753 BCE",
+    "44 BCE",
+    "509 BCE",
+    "27 BCE"
+   ],
+   "a": 2,
+   "w": "After the last king was expelled."
+  },
+  {
+   "q": "Consuls served for...",
+   "o": [
+    "One year",
+    "Life",
+    "Ten years",
+    "One month"
+   ],
+   "a": 0,
+   "w": "There were two at a time."
+  },
+  {
+   "q": "The Punic Wars were against...",
+   "o": [
+    "Persia",
+    "Greece",
+    "Egypt",
+    "Carthage"
+   ],
+   "a": 3,
+   "w": "264-146 BCE."
+  },
+  {
+   "q": "Caesar crossed...",
+   "o": [
+    "The Alps",
+    "The Rubicon",
+    "The Nile",
+    "The Tigris"
+   ],
+   "a": 1,
+   "w": "In 49 BCE."
+  },
+  {
+   "q": "Caesar was killed on...",
+   "o": [
+    "The Ides of March, 44 BCE",
+    "1 January 49 BCE",
+    "25 December",
+    "15 June 27 BCE"
+   ],
+   "a": 0,
+   "w": "15 March."
+  },
+  {
+   "q": "'Et tu, Brute?' comes from...",
+   "o": [
+    "Caesar's diary",
+    "Cicero",
+    "Augustus",
+    "Shakespeare"
+   ],
+   "a": 3,
+   "w": "Julius Caesar, c. 1599."
+  },
+  {
+   "q": "Octavian beat Antony at...",
+   "o": [
+    "Cannae",
+    "Actium",
+    "Zama",
+    "Marathon"
+   ],
+   "a": 1,
+   "w": "31 BCE."
+  },
+  {
+   "q": "The first emperor took the name...",
+   "o": [
+    "Caesar Rex",
+    "Alexander",
+    "Augustus",
+    "Trajan"
+   ],
+   "a": 2,
+   "w": "In 27 BCE."
+  },
+  {
+   "q": "Arikamedu is near...",
+   "o": [
+    "Mumbai",
+    "Kolkata",
+    "Delhi",
+    "Puducherry"
+   ],
+   "a": 3,
+   "w": "A Roman-era port."
+  },
+  {
+   "q": "Pliny complained about...",
+   "o": [
+    "Gold flowing to India and the east",
+    "Persian taxes",
+    "Greek poets",
+    "Viking raids"
+   ],
+   "a": 0,
+   "w": "Roman luxury imports."
+  }
+ ],
+ "sources": [
+  "Beard, SPQR (2015); Suetonius, Divus Julius; Casson, The Periplus Maris Erythraei; Wheeler et al. on Arikamedu"
+ ],
+ "verified": "2026-11-10"
+}

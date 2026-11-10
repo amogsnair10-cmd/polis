@@ -1,0 +1,176 @@
+{
+ "id": "0-3-0",
+ "title": "Soils and Natural Vegetation of the World",
+ "emoji": "🌱",
+ "cards": [
+  {
+   "tag": "Why this matters",
+   "h": "Soil and plants tie climate to people",
+   "b": "<p>Soil decides what farmers can grow. Vegetation decides what animals and people can live there. Together with climate they give every region its character. UPSC asks for <b>distribution and reasons</b>: why laterite in the tropics, why chernozem in the steppes.</p>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "Soil: how it forms",
+   "b": "<p><b>Pedogenesis</b> depends on five factors: <b>parent material</b>, <b>climate</b>, <b>relief</b>, <b>organisms</b> and <b>time</b>. Climate is the most active. Warm, wet climates cause fast chemical weathering; cold or dry ones cause slow formation. Soil is a living system, 45% mineral, 25% water, 25% air and 5% organic matter, roughly.</p>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "The soil profile",
+   "b": "<svg class=\"d\" viewBox=\"0 0 320 174\"><rect x=\"10\" y=\"6\" width=\"300\" height=\"26\" rx=\"6\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"160\" y=\"23\" fill=\"#1d2433\" font-size=\"12\" text-anchor=\"middle\" font-weight=\"700\">O horizon</text><text x=\"160\" y=\"38\" fill=\"#5d6474\" font-size=\"10\" text-anchor=\"middle\">Leaf litter and humus</text><rect x=\"10\" y=\"34\" width=\"300\" height=\"26\" rx=\"6\" fill=\"#f1e4c6\" stroke=\"#a8792a\" stroke-width=\"1.5\"/><text x=\"160\" y=\"51\" fill=\"#7d5a1c\" font-size=\"12\" text-anchor=\"middle\" font-weight=\"700\">A horizon: topsoil</text><text x=\"160\" y=\"66\" fill=\"#5d6474\" font-size=\"10\" text-anchor=\"middle\">Dark, humus and minerals, roots</text><rect x=\"10\" y=\"62\" width=\"300\" height=\"26\" rx=\"6\" fill=\"#dceaec\" stroke=\"#2f6f7a\" stroke-width=\"1.5\"/><text x=\"160\" y=\"79\" fill=\"#2f6f7a\" font-size=\"12\" text-anchor=\"middle\" font-weight=\"700\">E horizon</text><text x=\"160\" y=\"94\" fill=\"#5d6474\" font-size=\"10\" text-anchor=\"middle\">Leached zone (podzols)</text><rect x=\"10\" y=\"90\" width=\"300\" height=\"26\" rx=\"6\" fill=\"#f4dcd5\" stroke=\"#a3362a\" stroke-width=\"1.5\"/><text x=\"160\" y=\"107\" fill=\"#a3362a\" font-size=\"12\" text-anchor=\"middle\" font-weight=\"700\">B horizon: subsoil</text><text x=\"160\" y=\"122\" fill=\"#5d6474\" font-size=\"10\" text-anchor=\"middle\">Clay, iron and salts collect</text><rect x=\"10\" y=\"118\" width=\"300\" height=\"26\" rx=\"6\" fill=\"#f1e4c6\" stroke=\"#a8792a\" stroke-width=\"1.5\"/><text x=\"160\" y=\"135\" fill=\"#7d5a1c\" font-size=\"12\" text-anchor=\"middle\" font-weight=\"700\">C horizon</text><text x=\"160\" y=\"150\" fill=\"#5d6474\" font-size=\"10\" text-anchor=\"middle\">Weathered parent rock</text><rect x=\"10\" y=\"146\" width=\"300\" height=\"26\" rx=\"6\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"160\" y=\"163\" fill=\"#1d2433\" font-size=\"12\" text-anchor=\"middle\" font-weight=\"700\">R: bedrock</text><text x=\"160\" y=\"178\" fill=\"#5d6474\" font-size=\"10\" text-anchor=\"middle\">Unweathered rock</text></svg><p>A vertical cut through soil is a <b>profile</b>. The A horizon is the most fertile. <b>Leaching</b> washes nutrients down; <b>eluviation</b> and <b>illuviation</b> move clay and iron from upper layers to the B horizon.</p>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "Zonal soils of the world",
+   "b": "<svg class=\"d\" viewBox=\"0 0 320 188\"><rect x=\"10\" y=\"6\" width=\"80\" height=\"26\" rx=\"6\" fill=\"#f1e4c6\" stroke=\"#a8792a\" stroke-width=\"1.5\"/><text x=\"50.0\" y=\"23\" fill=\"#7d5a1c\" font-size=\"11\" text-anchor=\"middle\" font-weight=\"700\">Soil</text><rect x=\"90\" y=\"6\" width=\"130\" height=\"26\" rx=\"6\" fill=\"#f1e4c6\" stroke=\"#a8792a\" stroke-width=\"1.5\"/><text x=\"155.0\" y=\"23\" fill=\"#7d5a1c\" font-size=\"11\" text-anchor=\"middle\" font-weight=\"700\">Climate and place</text><rect x=\"220\" y=\"6\" width=\"90\" height=\"26\" rx=\"6\" fill=\"#f1e4c6\" stroke=\"#a8792a\" stroke-width=\"1.5\"/><text x=\"265.0\" y=\"23\" fill=\"#7d5a1c\" font-size=\"11\" text-anchor=\"middle\" font-weight=\"700\">Note</text><rect x=\"10\" y=\"32\" width=\"80\" height=\"30\" rx=\"0\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"50.0\" y=\"51\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\" font-weight=\"700\">Laterite</text><rect x=\"90\" y=\"32\" width=\"130\" height=\"30\" rx=\"0\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"155.0\" y=\"51\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\">Hot, wet tropics</text><rect x=\"220\" y=\"32\" width=\"90\" height=\"30\" rx=\"0\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"265.0\" y=\"51\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\">Leached, red, poor</text><rect x=\"10\" y=\"62\" width=\"80\" height=\"30\" rx=\"0\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"50.0\" y=\"81\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\" font-weight=\"700\">Chernozem</text><rect x=\"90\" y=\"62\" width=\"130\" height=\"30\" rx=\"0\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"155.0\" y=\"81\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\">Steppe, Ukraine, prairies</text><rect x=\"220\" y=\"62\" width=\"90\" height=\"30\" rx=\"0\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"265.0\" y=\"81\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\">Rich, black, fertile</text><rect x=\"10\" y=\"92\" width=\"80\" height=\"30\" rx=\"0\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"50.0\" y=\"111\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\" font-weight=\"700\">Podzol</text><rect x=\"90\" y=\"92\" width=\"130\" height=\"30\" rx=\"0\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"155.0\" y=\"111\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\">Taiga, cool wet</text><rect x=\"220\" y=\"92\" width=\"90\" height=\"30\" rx=\"0\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"265.0\" y=\"111\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\">Acidic, grey, poor</text><rect x=\"10\" y=\"122\" width=\"80\" height=\"30\" rx=\"0\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"50.0\" y=\"141\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\" font-weight=\"700\">Desert soil</text><rect x=\"90\" y=\"122\" width=\"130\" height=\"30\" rx=\"0\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"155.0\" y=\"141\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\">Dry, hot</text><rect x=\"220\" y=\"122\" width=\"90\" height=\"30\" rx=\"0\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"265.0\" y=\"141\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\">Salty, low humus</text><rect x=\"10\" y=\"152\" width=\"80\" height=\"30\" rx=\"0\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"50.0\" y=\"171\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\" font-weight=\"700\">Tundra soil</text><rect x=\"90\" y=\"152\" width=\"130\" height=\"30\" rx=\"0\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"155.0\" y=\"171\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\">Arctic</text><rect x=\"220\" y=\"152\" width=\"90\" height=\"30\" rx=\"0\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"265.0\" y=\"171\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\">Frozen, thin</text></svg><p><b>Laterite</b> (Latin later, brick) forms by <b>laterisation</b>: silica leaches, iron and aluminium remain. Hardens on exposure, so it is used for bricks, as in Kerala and Karnataka.</p>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "Natural vegetation: the biomes",
+   "b": "<svg class=\"d\" viewBox=\"0 0 320 218\"><rect x=\"10\" y=\"6\" width=\"90\" height=\"26\" rx=\"6\" fill=\"#f1e4c6\" stroke=\"#a8792a\" stroke-width=\"1.5\"/><text x=\"55.0\" y=\"23\" fill=\"#7d5a1c\" font-size=\"11\" text-anchor=\"middle\" font-weight=\"700\">Biome</text><rect x=\"100\" y=\"6\" width=\"100\" height=\"26\" rx=\"6\" fill=\"#f1e4c6\" stroke=\"#a8792a\" stroke-width=\"1.5\"/><text x=\"150.0\" y=\"23\" fill=\"#7d5a1c\" font-size=\"11\" text-anchor=\"middle\" font-weight=\"700\">Climate</text><rect x=\"200\" y=\"6\" width=\"110\" height=\"26\" rx=\"6\" fill=\"#f1e4c6\" stroke=\"#a8792a\" stroke-width=\"1.5\"/><text x=\"255.0\" y=\"23\" fill=\"#7d5a1c\" font-size=\"11\" text-anchor=\"middle\" font-weight=\"700\">Examples</text><rect x=\"10\" y=\"32\" width=\"90\" height=\"30\" rx=\"0\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"55.0\" y=\"51\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\" font-weight=\"700\">Rainforest</text><rect x=\"100\" y=\"32\" width=\"100\" height=\"30\" rx=\"0\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"150.0\" y=\"51\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\">Hot, wet</text><rect x=\"200\" y=\"32\" width=\"110\" height=\"30\" rx=\"0\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"255.0\" y=\"51\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\">Amazon, Congo</text><rect x=\"10\" y=\"62\" width=\"90\" height=\"30\" rx=\"0\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"55.0\" y=\"81\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\" font-weight=\"700\">Savanna</text><rect x=\"100\" y=\"62\" width=\"100\" height=\"30\" rx=\"0\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"150.0\" y=\"81\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\">Hot, wet-dry</text><rect x=\"200\" y=\"62\" width=\"110\" height=\"30\" rx=\"0\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"255.0\" y=\"81\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\">Africa, Brazil</text><rect x=\"10\" y=\"92\" width=\"90\" height=\"30\" rx=\"0\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"55.0\" y=\"111\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\" font-weight=\"700\">Mediterranean</text><rect x=\"100\" y=\"92\" width=\"100\" height=\"30\" rx=\"0\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"150.0\" y=\"111\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\">Dry summer</text><rect x=\"200\" y=\"92\" width=\"110\" height=\"30\" rx=\"0\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"255.0\" y=\"111\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\">California, Chile</text><rect x=\"10\" y=\"122\" width=\"90\" height=\"30\" rx=\"0\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"55.0\" y=\"141\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\" font-weight=\"700\">Temperate grass</text><rect x=\"100\" y=\"122\" width=\"100\" height=\"30\" rx=\"0\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"150.0\" y=\"141\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\">Semi-arid</text><rect x=\"200\" y=\"122\" width=\"110\" height=\"30\" rx=\"0\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"255.0\" y=\"141\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\">Prairie, Steppe</text><rect x=\"10\" y=\"152\" width=\"90\" height=\"30\" rx=\"0\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"55.0\" y=\"171\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\" font-weight=\"700\">Taiga</text><rect x=\"100\" y=\"152\" width=\"100\" height=\"30\" rx=\"0\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"150.0\" y=\"171\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\">Cold</text><rect x=\"200\" y=\"152\" width=\"110\" height=\"30\" rx=\"0\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"255.0\" y=\"171\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\">Siberia, Canada</text><rect x=\"10\" y=\"182\" width=\"90\" height=\"30\" rx=\"0\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"55.0\" y=\"201\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\" font-weight=\"700\">Tundra</text><rect x=\"100\" y=\"182\" width=\"100\" height=\"30\" rx=\"0\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"150.0\" y=\"201\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\">Polar</text><rect x=\"200\" y=\"182\" width=\"110\" height=\"30\" rx=\"0\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"255.0\" y=\"201\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\">Arctic fringe</text></svg><p>Natural vegetation grows without human help. Temperature, moisture, soil and relief decide its type. With height, vegetation changes like it does with latitude: <b>altitudinal zonation</b>.</p>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "Tropical and Mediterranean forests",
+   "b": "<p><b>Equatorial rainforest</b>: evergreen, layered, rich in species. Hardwoods like mahogany and ebony, hard to harvest. <b>Monsoon forests</b> shed leaves in the dry season: teak, sal. <b>Savanna</b>: tall grass and scattered trees.</p><p><b>Mediterranean</b> vegetation has small, waxy, drought-proof leaves: olives, citrus and vines. These regions are the world's citrus and wine orchards, called \"orchards of the world\".</p>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "Grasslands, taiga and tundra",
+   "b": "<svg class=\"d\" viewBox=\"0 0 320 151\"><rect x=\"10\" y=\"6\" width=\"100\" height=\"26\" rx=\"6\" fill=\"#f1e4c6\" stroke=\"#a8792a\" stroke-width=\"1.5\"/><text x=\"60.0\" y=\"23.0\" fill=\"#7d5a1c\" font-size=\"11\" text-anchor=\"middle\" font-weight=\"700\">Prairies</text><rect x=\"116\" y=\"6\" width=\"194\" height=\"26\" rx=\"6\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"213.0\" y=\"23.0\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\">North America</text><rect x=\"10\" y=\"35\" width=\"100\" height=\"26\" rx=\"6\" fill=\"#dceaec\" stroke=\"#2f6f7a\" stroke-width=\"1.5\"/><text x=\"60.0\" y=\"52.0\" fill=\"#2f6f7a\" font-size=\"11\" text-anchor=\"middle\" font-weight=\"700\">Pampas</text><rect x=\"116\" y=\"35\" width=\"194\" height=\"26\" rx=\"6\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"213.0\" y=\"52.0\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\">Argentina</text><rect x=\"10\" y=\"64\" width=\"100\" height=\"26\" rx=\"6\" fill=\"#f4dcd5\" stroke=\"#a3362a\" stroke-width=\"1.5\"/><text x=\"60.0\" y=\"81.0\" fill=\"#a3362a\" font-size=\"11\" text-anchor=\"middle\" font-weight=\"700\">Veld</text><rect x=\"116\" y=\"64\" width=\"194\" height=\"26\" rx=\"6\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"213.0\" y=\"81.0\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\">South Africa</text><rect x=\"10\" y=\"93\" width=\"100\" height=\"26\" rx=\"6\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"60.0\" y=\"110.0\" fill=\"#1d2433\" font-size=\"11\" text-anchor=\"middle\" font-weight=\"700\">Steppe</text><rect x=\"116\" y=\"93\" width=\"194\" height=\"26\" rx=\"6\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"213.0\" y=\"110.0\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\">Eurasia</text><rect x=\"10\" y=\"122\" width=\"100\" height=\"26\" rx=\"6\" fill=\"#f1e4c6\" stroke=\"#a8792a\" stroke-width=\"1.5\"/><text x=\"60.0\" y=\"139.0\" fill=\"#7d5a1c\" font-size=\"11\" text-anchor=\"middle\" font-weight=\"700\">Downs</text><rect x=\"116\" y=\"122\" width=\"194\" height=\"26\" rx=\"6\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"213.0\" y=\"139.0\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\">Australia</text></svg><p>Temperate grasslands are among the world's great wheat and cattle regions. <b>Taiga</b> is coniferous (pine, spruce, fir) with softwood for paper and matches. <b>Tundra</b> has mosses, lichens and dwarf shrubs on permafrost; reindeer are central to the ecosystem.</p>"
+  },
+  {
+   "tag": "Debate",
+   "h": "Is soil a renewable resource?",
+   "b": "<p>Soil forms at a few centimetres per thousand years but erodes in decades if bare. Deforestation, over-grazing and chemical farming cause degradation and desertification. The UN Convention to Combat Desertification (<b>UNCCD</b>, 1994) works on this.</p><p>The debate: grow more food now, or protect the slow-forming soil base for the future? India's answer includes <b>Soil Health Cards</b> (2015) and watershed programmes.</p>"
+  },
+  {
+   "tag": "Indian angle",
+   "h": "India's soils and vegetation",
+   "b": "<p>India's main soil types: alluvial, black (regur), red, laterite, arid and forest soils. Black soil comes from Deccan basalt and suits cotton. Laterite is in the Western Ghats and east coast.</p><p>Natural vegetation ranges from Western Ghats rainforest to Thar scrub and Himalayan alpine meadows (more in the Indian lessons). India lost some forest in the Himalaya and Northeast through jhum and mining, but the <b>Forest Survey of India</b> reports slow net gains in cover (as of ISFR 2023).</p>"
+  },
+  {
+   "tag": "Exam lens",
+   "cls": "exam",
+   "h": "How to write this",
+   "b": "<div class=\"box\"><h4>Likely questions</h4><p>\"Explain the process of laterisation and its effect on the soils of tropical regions.\" (10 marks)</p><p>\"Why are temperate grasslands called the granaries of the world?\" (10 marks)</p></div><p><b>Structure:</b> climate first, then soil, then vegetation, then human use.</p><p><b>Prelims tip:</b> match grasslands to their continents (pampas = Argentina, veld = South Africa, downs = Australia); chernozems are black earths of the steppe.</p>"
+  }
+ ],
+ "quiz": [
+  {
+   "q": "The most fertile soil horizon is",
+   "o": [
+    "B horizon",
+    "C horizon",
+    "A horizon",
+    "R horizon"
+   ],
+   "a": 2,
+   "w": "It has humus and minerals."
+  },
+  {
+   "q": "Laterite forms in",
+   "o": [
+    "Hot, wet tropics",
+    "Cold taiga",
+    "Dry deserts",
+    "Polar tundra"
+   ],
+   "a": 0,
+   "w": "Leaching removes silica and leaves iron and aluminium."
+  },
+  {
+   "q": "Chernozem is a",
+   "o": [
+    "Grey acidic soil of taiga",
+    "Red soil of rainforest",
+    "Salty desert soil",
+    "Black, fertile soil of steppe lands"
+   ],
+   "a": 3,
+   "w": "Rich humus makes it ideal for wheat."
+  },
+  {
+   "q": "Pampas are found in",
+   "o": [
+    "South Africa",
+    "Argentina",
+    "Australia",
+    "Canada"
+   ],
+   "a": 1,
+   "w": "Temperate grasslands of South America."
+  },
+  {
+   "q": "Veld refers to grasslands of",
+   "o": [
+    "Ukraine",
+    "South Africa",
+    "Australia",
+    "Argentina"
+   ],
+   "a": 1,
+   "w": "High veld is a major farming region."
+  },
+  {
+   "q": "Taiga is dominated by",
+   "o": [
+    "Evergreen hardwoods",
+    "Savanna grass",
+    "Cactus",
+    "Coniferous trees"
+   ],
+   "a": 3,
+   "w": "Pine, spruce, and fir."
+  },
+  {
+   "q": "Mediterranean vegetation has",
+   "o": [
+    "Drought-resistant leaves",
+    "Large thin leaves",
+    "Leaves shed in winter only",
+    "Mosses and lichens"
+   ],
+   "a": 0,
+   "w": "Hot dry summers select for waxy small leaves."
+  },
+  {
+   "q": "UNCCD was adopted in",
+   "o": [
+    "1972",
+    "1987",
+    "1994",
+    "2015"
+   ],
+   "a": 2,
+   "w": "It deals with desertification and land degradation."
+  },
+  {
+   "q": "Soil Health Card scheme started in",
+   "o": [
+    "1991",
+    "2005",
+    "2020",
+    "2015"
+   ],
+   "a": 3,
+   "w": "It gives farmers soil nutrient reports."
+  },
+  {
+   "q": "Which is NOT one of the soil-forming factors?",
+   "o": [
+    "Wind speed",
+    "Parent material",
+    "Time",
+    "Relief"
+   ],
+   "a": 0,
+   "w": "The factors are parent material, climate, relief, organisms, time."
+  }
+ ],
+ "sources": [
+  "NCERT Class 11, Fundamentals of Physical Geography, ch. 6, 15-16",
+  "G.C. Leong, Certificate Physical and Human Geography",
+  "ISFR 2023, Forest Survey of India"
+ ],
+ "verified": "2026-11-10"
+}

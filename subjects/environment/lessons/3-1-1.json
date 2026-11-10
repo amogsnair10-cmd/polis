@@ -1,0 +1,177 @@
+{
+ "id": "3-1-1",
+ "title": "COPs and Climate Finance",
+ "emoji": "💰",
+ "cards": [
+  {
+   "tag": "Why this matters",
+   "h": "COP outcomes are the most current part of the paper",
+   "b": "<p>UPSC asks about the latest COP, the finance goal and India’s position. These answers must carry names, numbers and years.</p><p>As of 2026: COP30 (Belém, Brazil) ended in November 2025. COP31 is due in Antalya, Türkiye in November 2026 as this lesson is written, so check its outcome.</p>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "What a COP is",
+   "b": "<p>The <b>Conference of the Parties</b> is the supreme body of the UNFCCC. It meets every year. A <b>Presidency</b> (host country) steers talks, and decisions are by consensus. The <b>Subsidiary Bodies</b> (SBSTA, SBI) prepare technical work.</p><p>Alongside it, the <b>CMA</b> governs the Paris Agreement.</p>"
+  },
+  {
+   "tag": "COP28 and COP29",
+   "h": "Dubai 2023 and Baku 2024",
+   "b": "<p><b>COP28 (Dubai):</b> the first Global Stocktake called for <b>transitioning away from fossil fuels</b>, tripling renewable capacity to 11,000 GW and doubling efficiency by 2030. The <b>Loss and Damage Fund</b> was launched on day one.</p><p><b>COP29 (Baku):</b> the <b>New Collective Quantified Goal (NCQG)</b> set <b>$300 billion a year by 2035</b> from developed countries, within a wider aim of <b>$1.3 trillion a year</b> from all sources. India called the offer inadequate. Article 6 carbon market rules were also settled.</p>"
+  },
+  {
+   "tag": "COP30",
+   "h": "Belém 2025",
+   "b": "<p>COP30 was held in Belém, Brazil, in the Amazon. It ended with the <b>Global Mutirão</b> decision. Main results: a call to <b>triple adaptation finance by 2035</b> (without a clear base year), voluntary <b>Belém adaptation indicators</b>, a <b>Just Transition</b> mechanism, a two-year work programme on climate finance and a push to speed up implementation.</p><p>The text did not name a roadmap to end fossil fuels, and deforestation had no roadmap in the final text. Brazil promised to prepare voluntary roadmaps. The <b>Tropical Forests Forever Facility</b> was launched with pledges from some countries.</p>"
+  },
+  {
+   "tag": "Indian angle",
+   "h": "Positions",
+   "b": "<p>India stressed equity, CBDR-RC and finance, and opposed unilateral trade measures like the EU <b>Carbon Border Adjustment Mechanism (CBAM)</b>, whose definitive phase began in January 2026. It supported adaptation finance and a just transition.</p><p>India argued that developed countries must deliver the earlier $100 billion promise and scale it up before asking developing countries to do more.</p>"
+  },
+  {
+   "tag": "COP31",
+   "h": "Antalya 2026",
+   "b": "<p>Türkiye will host COP31 in Antalya in November 2026. Under a compromise, <b>Australia</b> leads the negotiations as President of the negotiations, and a pre-COP in the Pacific is planned (as of 2026, reports; verify final arrangements).</p><p>Watch for the 2035 NDC gap, the finance work programme, adaptation indicators and the fossil fuel roadmap.</p>"
+  },
+  {
+   "tag": "Climate finance",
+   "h": "The architecture",
+   "b": "<ul><li><b>Global Environment Facility</b> (1991): finances UNFCCC, CBD and UNCCD work.</li><li><b>Green Climate Fund</b> (Cancun 2010, Songdo, South Korea): the largest dedicated fund.</li><li><b>Adaptation Fund</b> (under Kyoto).</li><li><b>Loss and Damage Fund</b> (operational from COP28; hosted by the World Bank).</li><li><b>LDCF and SCCF</b> for least developed countries.</li></ul>"
+  },
+  {
+   "tag": "The $100 billion promise",
+   "h": "Delivery",
+   "b": "<p>Copenhagen (2009) promised $100 billion a year by 2020. The OECD reported it was first met in 2022. Developing countries dispute how loans are counted and how much is grant.</p><p>The NCQG replaces it from 2025, but the $300 billion figure is far below the $1.3 trillion need, and much will be loans.</p>"
+  },
+  {
+   "tag": "Debate",
+   "h": "Mitigation versus adaptation finance",
+   "b": "<p>Most money goes to mitigation, such as solar. Adaptation gets less and loss and damage the least. Climate finance is also seen as debt creation for poor countries.</p><p>Rich countries say public money is limited and private capital must be mobilised. Developing countries want public grants.</p>"
+  },
+  {
+   "tag": "Exam lens",
+   "h": "How to answer",
+   "b": "<p><b>Mains-style:</b> “Climate finance is the real test of Paris. Examine the gaps and India’s position.” Structure: needs; promise ($100 billion, NCQG $300 billion); gaps (loans, accounting, adaptation); India’s demand (grants, CBDR, no CBAM); way forward (reform of MDBs, Article 6, carbon markets).</p><p><b>Prelims tip:</b> GCF from Cancun 2010, HQ in Songdo. NCQG is $300 billion by 2035. COP28 Dubai started the Loss and Damage Fund.</p>",
+   "cls": "exam"
+  }
+ ],
+ "quiz": [
+  {
+   "q": "Where was COP29 held?",
+   "o": [
+    "Dubai",
+    "Belém",
+    "Baku",
+    "Glasgow"
+   ],
+   "a": 2,
+   "w": "COP29 in Azerbaijan set the NCQG."
+  },
+  {
+   "q": "The NCQG goal for developed countries is:",
+   "o": [
+    "$100 billion a year by 2020",
+    "$300 billion a year by 2035",
+    "$1.3 trillion by 2030",
+    "$500 billion by 2030"
+   ],
+   "a": 1,
+   "w": "The $1.3 trillion is a wider aim."
+  },
+  {
+   "q": "Which COP launched the Loss and Damage Fund?",
+   "o": [
+    "COP28 Dubai",
+    "COP26 Glasgow",
+    "COP27 Egypt",
+    "COP24 Katowice"
+   ],
+   "a": 0,
+   "w": "It was operationalised at COP28."
+  },
+  {
+   "q": "COP30 was held in:",
+   "o": [
+    "Antalya, Türkiye",
+    "Baku, Azerbaijan",
+    "Sharm el-Sheikh",
+    "Belém, Brazil"
+   ],
+   "a": 3,
+   "w": "In the Amazon region, November 2025."
+  },
+  {
+   "q": "The Green Climate Fund is headquartered at:",
+   "o": [
+    "Geneva",
+    "Bonn",
+    "Songdo, South Korea",
+    "Nairobi"
+   ],
+   "a": 2,
+   "w": "It was created at COP16 Cancun."
+  },
+  {
+   "q": "COP31 is scheduled to be hosted by:",
+   "o": [
+    "Australia",
+    "Türkiye",
+    "India",
+    "Brazil"
+   ],
+   "a": 1,
+   "w": "Antalya; Australia leads the negotiations under the arrangement."
+  },
+  {
+   "q": "CBAM is a trade measure of the:",
+   "o": [
+    "European Union",
+    "United States",
+    "China",
+    "Japan"
+   ],
+   "a": 0,
+   "w": "A carbon border tax."
+  },
+  {
+   "q": "GEF was established in:",
+   "o": [
+    "2010",
+    "2015",
+    "1972",
+    "1991"
+   ],
+   "a": 3,
+   "w": "It serves several conventions."
+  },
+  {
+   "q": "The $100 billion a year promise was made at:",
+   "o": [
+    "Paris, 2015",
+    "Kyoto, 1997",
+    "Copenhagen, 2009",
+    "Rio, 1992"
+   ],
+   "a": 2,
+   "w": "Reaffirmed at Cancun."
+  },
+  {
+   "q": "COP30’s decision text was called the:",
+   "o": [
+    "Belém Treaty",
+    "Global Mutirão",
+    "Amazon Pact",
+    "Baku Dialogue"
+   ],
+   "a": 1,
+   "w": "Mutirão means collective effort."
+  }
+ ],
+ "sources": [
+  "Shankar IAS Environment",
+  "MoEFCC, MNRE and PIB",
+  "UNFCCC decisions",
+  "Carbon Brief and UNFCCC COP30 summaries (secondary, as of 2026)"
+ ],
+ "verified": "2026-11-10"
+}

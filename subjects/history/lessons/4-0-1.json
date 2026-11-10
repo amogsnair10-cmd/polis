@@ -1,0 +1,171 @@
+{
+ "id": "4-0-1",
+ "title": "Nehru Era: Planning, Foreign Policy and Institutions",
+ "emoji": "🏗️",
+ "cards": [
+  {
+   "tag": "Why this matters",
+   "h": "The nation-building decade",
+   "b": "<p>From 1947 to 1964 India set its institutions, economy and foreign stance. Many debates about the state and the market begin here.</p>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "Institutions",
+   "b": "<p>A Constitution (1950), universal adult franchise, first general elections 1951 to 52 (about 173 million voters; Election Commission under Sukumar Sen), Parliament, an independent judiciary, civilian control of the army, the Planning Commission (March 1950), National Development Council (1952). The Hindu Code Bills (1955 to 56) reformed personal law. The IITs (Kharagpur, 1951), AIIMS (1956), CSIR, ISRO’s ancestors (Atomic Energy Commission, 1948, Homi Bhabha).</p>"
+  },
+  {
+   "tag": "Key idea",
+   "h": "Planning and the economy",
+   "b": "<ul><li><b>First Plan</b> (1951 to 56): Harrod-Domar model, agriculture, irrigation (Bhakra, Hirakud).</li><li><b>Second Plan</b> (1956 to 61): P. C. Mahalanobis; heavy industry; steel plants (Bhilai, Rourkela, Durgapur). Industrial Policy Resolution 1956: mixed economy with a public sector.</li><li><b>Third Plan</b> (1961 to 66): self-reliance; war in 1962 and 1965 disrupted.</li></ul>Land reforms: zamindari abolition, tenancy laws, ceilings; Bhoodan (Vinoba Bhave, 1951). Community Development (1952), Panchayati Raj (Balwant Rai Mehta Committee 1957; Rajasthan 1959)."
+  },
+  {
+   "tag": "Key idea",
+   "h": "Foreign policy: non-alignment",
+   "b": "<p>Nehru’s idea of <b>Non-Alignment</b>: independence from both blocs. Panchsheel with China (1954); Bandung (1955); Suez (1956, India opposed the attack); Hungary (1956, abstained); NAM (1961, Belgrade); Korea (mediation); Congo (peacekeeping). Principles: anti-colonialism, anti-racism (South Africa), disarmament. Ties with the USSR grew; India stayed in the Commonwealth.</p>"
+  },
+  {
+   "tag": "Key event",
+   "h": "The 1962 war",
+   "b": "<p>Border problems: Aksai Chin, McMahon Line, Tibet’s revolt (1959) and the Dalai Lama’s asylum. China attacked on 20 October 1962 and declared a ceasefire on 21 November. India lost Aksai Chin territory and morale; Defence Minister Krishna Menon resigned. The war led to the Henderson Brooks inquiry (not fully public), higher defence spending and a rethink of idealism.</p>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "Kashmir and other issues",
+   "b": "<p>1947 to 48 war; UN resolution (August 1948 and January 1949); Indus Waters Treaty 1960 (World Bank); Nehru-Liaquat Pact 1950; Naga insurgency; Goa 1961; border settlement with Burma. Language and reorganisation of states. The Congress dominance: the Congress system (Rajni Kothari).</p>"
+  },
+  {
+   "tag": "Debate",
+   "h": "Was the Nehruvian model a success?",
+   "b": "<p>Admirers (Bipan Chandra, Mridula Mukherjee) point to a stable democracy, heavy industry and scientific institutions. Critics say the focus on heavy industry slowed agriculture and education, caused licence-permit raj and left a “Hindu rate of growth” (Raj Krishna). Others (Tirthankar Roy) argue the 1950s growth was decent. Foreign policy: idealism or realism?</p>"
+  },
+  {
+   "tag": "Indian angle",
+   "h": "Why it matters today",
+   "b": "<p>The Planning Commission was replaced by NITI Aayog on 1 January 2015. Non-alignment evolved into “strategic autonomy” and multi-alignment. Institutions such as the Election Commission, IITs and public sector remain. Panchsheel’s 70th anniversary (2024) was marked amid India-China talks.</p>"
+  },
+  {
+   "tag": "Exam lens",
+   "h": "How to answer",
+   "b": "<ul><li>“Evaluate Nehru’s contribution to nation building.”</li><li>“Merits and demerits of the Mahalanobis model.”</li><li>“Why did India lose the 1962 war?”</li><li>Prelims tip: Planning Commission 1950; First Plan 1951; Second Plan 1956; IPR 1956; Panchsheel 1954; Balwant Rai 1957; 1962 war; Indus Treaty 1960.</li></ul>",
+   "cls": "exam"
+  }
+ ],
+ "quiz": [
+  {
+   "q": "The first general elections were held in",
+   "o": [
+    "1947",
+    "1957",
+    "1962",
+    "1951 to 52"
+   ],
+   "a": 3,
+   "w": "Chief Election Commissioner Sukumar Sen."
+  },
+  {
+   "q": "The Planning Commission was set up in",
+   "o": [
+    "1947",
+    "1956",
+    "1950",
+    "1961"
+   ],
+   "a": 2,
+   "w": "A non-constitutional body."
+  },
+  {
+   "q": "The Second Five-Year Plan emphasised",
+   "o": [
+    "Agriculture",
+    "Heavy industry",
+    "Poverty removal",
+    "Export promotion"
+   ],
+   "a": 1,
+   "w": "Mahalanobis model."
+  },
+  {
+   "q": "The Industrial Policy Resolution that made India a mixed economy was in",
+   "o": [
+    "1956",
+    "1948",
+    "1951",
+    "1969"
+   ],
+   "a": 0,
+   "w": "Public sector got a big role."
+  },
+  {
+   "q": "Panchsheel was signed with China in",
+   "o": [
+    "1947",
+    "1962",
+    "1971",
+    "1954"
+   ],
+   "a": 3,
+   "w": "Five principles of peaceful coexistence."
+  },
+  {
+   "q": "The Balwant Rai Mehta Committee (1957) recommended",
+   "o": [
+    "Land ceilings",
+    "Linguistic states",
+    "Three-tier Panchayati Raj",
+    "Planning"
+   ],
+   "a": 2,
+   "w": "Rajasthan began it in 1959."
+  },
+  {
+   "q": "Bhoodan was started by",
+   "o": [
+    "Gandhi",
+    "Vinoba Bhave",
+    "J. P. Narayan",
+    "Nehru"
+   ],
+   "a": 1,
+   "w": "In 1951 in Telangana."
+  },
+  {
+   "q": "The Indus Waters Treaty was signed in",
+   "o": [
+    "1960",
+    "1948",
+    "1954",
+    "1965"
+   ],
+   "a": 0,
+   "w": "Between India and Pakistan with the World Bank."
+  },
+  {
+   "q": "NITI Aayog replaced the Planning Commission in",
+   "o": [
+    "2010",
+    "2004",
+    "2019",
+    "2015"
+   ],
+   "a": 3,
+   "w": "On 1 January 2015."
+  },
+  {
+   "q": "The Chinese attack on India began on",
+   "o": [
+    "1 September 1965",
+    "21 November 1962",
+    "20 October 1962",
+    "5 August 1971"
+   ],
+   "a": 2,
+   "w": "A ceasefire came on 21 November."
+  }
+ ],
+ "sources": [
+  "Bipan Chandra, India Since Independence",
+  "Ramachandra Guha, India After Gandhi",
+  "Spectrum, Post-Independence India"
+ ],
+ "verified": "2026-11-10"
+}

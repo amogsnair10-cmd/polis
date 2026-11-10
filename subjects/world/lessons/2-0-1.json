@@ -1,0 +1,169 @@
+{
+ "id": "2-0-1",
+ "title": "The Axial Age: Buddha, Confucius, Socrates",
+ "emoji": "🧘",
+ "cards": [
+  {
+   "tag": "Why this matters",
+   "h": "Why did great thinkers pop up everywhere at once?",
+   "b": "<p>Between about 800 and 200 BCE, in India, China, Greece and Iran, people began to ask: how should we live? What is a good ruler? What happens after death?</p><p>The German philosopher Karl Jaspers noticed this in 1949 and called it the <b>Axial Age</b>, a hinge of history.</p>"
+  },
+  {
+   "tag": "The story",
+   "h": "The prince who walked out",
+   "b": "<b>Siddhartha Gautama</b>, later the Buddha, was born in a Shakya clan family in Lumbini. His dates are debated: traditionally about 563-483 BCE, but many scholars now place his death between 410 and 400 BCE.<p>According to tradition, he left home to seek an end to suffering. After years of search, he awakened at Bodh Gaya and taught the Middle Way, between luxury and extreme self-denial.</p>"
+  },
+  {
+   "tag": "The story",
+   "h": "The teacher who wanted good order",
+   "b": "<b>Confucius</b> (551-479 BCE) lived in a time when China's states were fighting. He taught that peace comes from good behaviour, respect for family and rulers who set an example. His sayings were collected by students in the <i>Analects</i>.<p>He was not a success in his lifetime. He never got the high office he hoped for.</p>"
+  },
+  {
+   "tag": "The twist",
+   "h": "The man who only asked questions",
+   "b": "<svg class=\"d\" viewBox=\"0 0 320 130\"><rect x=\"90\" y=\"4\" width=\"140\" height=\"30\" rx=\"6\" fill=\"#f1e4c6\" stroke=\"#a8792a\"/><text x=\"160\" y=\"23\" font-size=\"11\" font-weight=\"700\" text-anchor=\"middle\" fill=\"#1d2433\">Axial Age 800-200 BCE</text><line x1=\"160\" y1=\"34\" x2=\"160\" y2=\"60\" stroke=\"#5d6474\"/><line x1=\"56.0\" y1=\"60\" x2=\"264.0\" y2=\"60\" stroke=\"#5d6474\"/><line x1=\"56.0\" y1=\"60\" x2=\"56.0\" y2=\"78\" stroke=\"#5d6474\"/><rect x=\"8.0\" y=\"78\" width=\"96.0\" height=\"44\" rx=\"6\" fill=\"#dceaec\" stroke=\"#2f6f7a\"/><text x=\"56.0\" y=\"96\" font-size=\"10\" text-anchor=\"middle\" fill=\"#1d2433\">Buddha</text><text x=\"56.0\" y=\"110\" font-size=\"10\" text-anchor=\"middle\" fill=\"#1d2433\">end suffering</text><line x1=\"160.0\" y1=\"60\" x2=\"160.0\" y2=\"78\" stroke=\"#5d6474\"/><rect x=\"112.0\" y=\"78\" width=\"96.0\" height=\"44\" rx=\"6\" fill=\"#dceaec\" stroke=\"#2f6f7a\"/><text x=\"160.0\" y=\"96\" font-size=\"10\" text-anchor=\"middle\" fill=\"#1d2433\">Confucius</text><text x=\"160.0\" y=\"110\" font-size=\"10\" text-anchor=\"middle\" fill=\"#1d2433\">good order</text><line x1=\"264.0\" y1=\"60\" x2=\"264.0\" y2=\"78\" stroke=\"#5d6474\"/><rect x=\"216.0\" y=\"78\" width=\"96.0\" height=\"44\" rx=\"6\" fill=\"#dceaec\" stroke=\"#2f6f7a\"/><text x=\"264.0\" y=\"96\" font-size=\"10\" text-anchor=\"middle\" fill=\"#1d2433\">Socrates</text><text x=\"264.0\" y=\"110\" font-size=\"10\" text-anchor=\"middle\" fill=\"#1d2433\">question all</text></svg><b>Socrates</b> (470-399 BCE) wrote nothing. We know him from Plato and Xenophon. He walked around Athens asking people to explain what they claimed to know, and embarrassed many. In 399 BCE an Athenian jury of 500 found him guilty of impiety and corrupting the young. He drank hemlock."
+  },
+  {
+   "tag": "The story",
+   "h": "Others of the same age",
+   "b": "<p>In India, the <b>Upanishads</b> and the Jain teacher <b>Mahavira</b> (traditionally 6th century BCE) appeared. In China, <b>Laozi</b> (a possibly legendary figure) is linked with the Daodejing. In Iran, Zoroaster taught about good and evil. In Israel, prophets such as Isaiah wrote.</p><p>None of them seems to have known the others.</p>"
+  },
+  {
+   "tag": "The story",
+   "h": "Why then?",
+   "b": "<p>Ideas proposed: iron tools, growing trade, bigger states and cities, and cruel wars made people search for meaning. Money and writing helped ideas to spread.</p><p>But nothing proves any single cause.</p>"
+  },
+  {
+   "tag": "Historians argue",
+   "h": "Was there really an 'age'?",
+   "b": "<p>Critics say the Axial Age is neat but artificial. The 'age' stretches 600 years. Egypt and Mesopotamia are left out. And many ideas had earlier roots.</p><p>Also, a famous slip: the Buddha is sometimes called 'Indian-born'. Lumbini is in present-day <b>Nepal</b>. An inscription on an Ashokan pillar there, from about 249 BCE, says Ashoka visited the Buddha's birthplace.</p>"
+  },
+  {
+   "tag": "Indian angle",
+   "h": "Meanwhile in India…",
+   "b": "<p>The age of the wanderers</p>"
+  },
+  {
+   "tag": "Recap",
+   "h": "Five takeaways, two puzzles",
+   "b": "<p><b>Five things to remember</b></p><ol><li>Jaspers coined 'Axial Age' in 1949.</li><li>Buddha, Confucius and Socrates were near-contemporaries in different places.</li><li>Socrates wrote nothing and was executed in 399 BCE.</li><li>The Axial Age idea is debated.</li><li>Lumbini, the Buddha's birthplace, is in Nepal.</li></ol><p><b>Think about it</b></p><ul><li>Would these thinkers have survived today's social media?</li><li>Why do big questions arise in unsettled times?</li></ul>",
+   "cls": "exam"
+  }
+ ],
+ "quiz": [
+  {
+   "q": "Who coined 'Axial Age'?",
+   "o": [
+    "Max Weber",
+    "Karl Marx",
+    "Karl Jaspers",
+    "Will Durant"
+   ],
+   "a": 2,
+   "w": "In 1949."
+  },
+  {
+   "q": "Confucius's sayings are in...",
+   "o": [
+    "The Analects",
+    "The Upanishads",
+    "The Republic",
+    "The Avesta"
+   ],
+   "a": 0,
+   "w": "Collected by his followers."
+  },
+  {
+   "q": "Socrates died by...",
+   "o": [
+    "Sword",
+    "Exile",
+    "Fire",
+    "Drinking hemlock"
+   ],
+   "a": 3,
+   "w": "After a trial in 399 BCE."
+  },
+  {
+   "q": "Socrates is known mainly from...",
+   "o": [
+    "His own books",
+    "Plato and Xenophon",
+    "Aristotle's diary",
+    "The Analects"
+   ],
+   "a": 1,
+   "w": "He wrote nothing."
+  },
+  {
+   "q": "The Buddha's birthplace is today in...",
+   "o": [
+    "Nepal",
+    "Bihar",
+    "Sri Lanka",
+    "Tibet"
+   ],
+   "a": 0,
+   "w": "Lumbini."
+  },
+  {
+   "q": "The Buddha awakened at...",
+   "o": [
+    "Sarnath",
+    "Kushinagar",
+    "Lumbini",
+    "Bodh Gaya"
+   ],
+   "a": 3,
+   "w": "Under the Bodhi tree."
+  },
+  {
+   "q": "The Middle Way means...",
+   "o": [
+    "Staying in the city",
+    "Avoiding both luxury and extreme self-denial",
+    "Ruling justly",
+    "Studying maths"
+   ],
+   "a": 1,
+   "w": "A core Buddhist idea."
+  },
+  {
+   "q": "Mahajanapadas were...",
+   "o": [
+    "Roman provinces",
+    "Chinese dynasties",
+    "Early large states of north India",
+    "Greek ships"
+   ],
+   "a": 2,
+   "w": "Sixteen in the Buddhist lists."
+  },
+  {
+   "q": "Criticism of the Axial Age: it...",
+   "o": [
+    "Proved by DNA",
+    "Covers only 10 years",
+    "Applies only to Greece",
+    "Is neat but artificial"
+   ],
+   "a": 3,
+   "w": "Many scholars debate it."
+  },
+  {
+   "q": "Who was a Jain Tirthankara contemporary with the Buddha?",
+   "o": [
+    "Mahavira",
+    "Ashoka",
+    "Chanakya",
+    "Panini"
+   ],
+   "a": 0,
+   "w": "Traditional dates in the 6th century BCE."
+  }
+ ],
+ "sources": [
+  "Jaspers, The Origin and Goal of History (1949); Bronkhorst, Buddhism in the Shadow of Brahmanism; Plato, Apology; Ashokan Lumbini pillar inscription"
+ ],
+ "verified": "2026-11-10"
+}

@@ -1,0 +1,181 @@
+{
+ "id": "1-1-1",
+ "title": "Soils, Forests and Natural Vegetation of India",
+ "emoji": "🌳",
+ "cards": [
+  {
+   "tag": "Why this matters",
+   "h": "Soil and forest are slow capital",
+   "b": "<p>Soil takes centuries to form; forests take decades. They support farms, water and wildlife, and are central to India's climate promise. Expect UPSC to link them to <b>land degradation</b>, mangroves and forest law.</p>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "Eight Indian soil types",
+   "b": "<svg class=\"d\" viewBox=\"0 0 320 218\"><rect x=\"10\" y=\"6\" width=\"85\" height=\"26\" rx=\"6\" fill=\"#f1e4c6\" stroke=\"#a8792a\" stroke-width=\"1.5\"/><text x=\"52.5\" y=\"23\" fill=\"#7d5a1c\" font-size=\"11\" text-anchor=\"middle\" font-weight=\"700\">Soil</text><rect x=\"95\" y=\"6\" width=\"110\" height=\"26\" rx=\"6\" fill=\"#f1e4c6\" stroke=\"#a8792a\" stroke-width=\"1.5\"/><text x=\"150.0\" y=\"23\" fill=\"#7d5a1c\" font-size=\"11\" text-anchor=\"middle\" font-weight=\"700\">Where</text><rect x=\"205\" y=\"6\" width=\"105\" height=\"26\" rx=\"6\" fill=\"#f1e4c6\" stroke=\"#a8792a\" stroke-width=\"1.5\"/><text x=\"257.5\" y=\"23\" fill=\"#7d5a1c\" font-size=\"11\" text-anchor=\"middle\" font-weight=\"700\">Best for</text><rect x=\"10\" y=\"32\" width=\"85\" height=\"30\" rx=\"0\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"52.5\" y=\"51\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\" font-weight=\"700\">Alluvial (40%)</text><rect x=\"95\" y=\"32\" width=\"110\" height=\"30\" rx=\"0\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"150.0\" y=\"51\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\">Plains, deltas</text><rect x=\"205\" y=\"32\" width=\"105\" height=\"30\" rx=\"0\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"257.5\" y=\"51\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\">Rice, wheat, sugarcane</text><rect x=\"10\" y=\"62\" width=\"85\" height=\"30\" rx=\"0\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"52.5\" y=\"81\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\" font-weight=\"700\">Black (regur)</text><rect x=\"95\" y=\"62\" width=\"110\" height=\"30\" rx=\"0\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"150.0\" y=\"81\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\">Deccan lava area</text><rect x=\"205\" y=\"62\" width=\"105\" height=\"30\" rx=\"0\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"257.5\" y=\"81\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\">Cotton, soyabean</text><rect x=\"10\" y=\"92\" width=\"85\" height=\"30\" rx=\"0\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"52.5\" y=\"111\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\" font-weight=\"700\">Red</text><rect x=\"95\" y=\"92\" width=\"110\" height=\"30\" rx=\"0\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"150.0\" y=\"111\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\">Peninsula east, south</text><rect x=\"205\" y=\"92\" width=\"105\" height=\"30\" rx=\"0\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"257.5\" y=\"111\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\">Millets, groundnut</text><rect x=\"10\" y=\"122\" width=\"85\" height=\"30\" rx=\"0\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"52.5\" y=\"141\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\" font-weight=\"700\">Laterite</text><rect x=\"95\" y=\"122\" width=\"110\" height=\"30\" rx=\"0\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"150.0\" y=\"141\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\">Ghats, hills</text><rect x=\"205\" y=\"122\" width=\"105\" height=\"30\" rx=\"0\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"257.5\" y=\"141\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\">Tea, coffee, cashew</text><rect x=\"10\" y=\"152\" width=\"85\" height=\"30\" rx=\"0\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"52.5\" y=\"171\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\" font-weight=\"700\">Arid</text><rect x=\"95\" y=\"152\" width=\"110\" height=\"30\" rx=\"0\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"150.0\" y=\"171\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\">Rajasthan</text><rect x=\"205\" y=\"152\" width=\"105\" height=\"30\" rx=\"0\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"257.5\" y=\"171\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\">Bajra, with irrigation</text><rect x=\"10\" y=\"182\" width=\"85\" height=\"30\" rx=\"0\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"52.5\" y=\"201\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\" font-weight=\"700\">Saline</text><rect x=\"95\" y=\"182\" width=\"110\" height=\"30\" rx=\"0\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"150.0\" y=\"201\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\">Dry Punjab, Gujarat</text><rect x=\"205\" y=\"182\" width=\"105\" height=\"30\" rx=\"0\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"257.5\" y=\"201\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\">Poor, needs gypsum</text></svg><p>ICAR groups India's soils into eight: alluvial, black, red, laterite, arid, saline, peaty and forest soils. Alluvial soil is the largest and most fertile, with <b>Khadar</b> new and <b>Bhangar</b> old.</p>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "Black and red soils",
+   "b": "<p><b>Black soil (regur)</b> forms from Deccan basalt. It is rich in clay, holds moisture, cracks in summer (so it \"self-ploughs\") and is high in lime, iron and magnesium, low in nitrogen and humus. It is the home of cotton.</p><p><b>Red soil</b> gets its colour from iron in crystalline rock. It is porous and poor in humus, nitrogen and lime. It turns yellow when hydrated. It occurs in Tamil Nadu, Karnataka, Odisha and Chhattisgarh.</p>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "Other soils",
+   "b": "<p><b>Laterite</b>: leached by heavy rain; needs manure; suits tree crops. <b>Arid</b>: sandy, salty, low organic matter; Rajasthan. <b>Saline and alkaline</b> (reh, kallar, usar): too much salt, from poor irrigation. <b>Peaty</b>: Kerala (kari), rich in organic matter. <b>Forest</b>: hill soils, acidic in higher areas.</p>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "Soil erosion and conservation",
+   "b": "<p>Forms: sheet, rill and gully (the Chambal ravines). Causes: deforestation, over-grazing, heavy rain and bad ploughing. Remedies: <b>contour ploughing</b>, <b>terracing</b>, strip cropping, <b>shelter belts</b>, check dams and afforestation. The Central Soil Conservation Board was set up in 1953.</p>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "Forest types",
+   "b": "<svg class=\"d\" viewBox=\"0 0 320 182\"><rect x=\"10\" y=\"6\" width=\"300\" height=\"40\" rx=\"6\" fill=\"#dceaec\" stroke=\"#2f6f7a\" stroke-width=\"1.5\"/><text x=\"160\" y=\"23\" fill=\"#2f6f7a\" font-size=\"12\" text-anchor=\"middle\" font-weight=\"700\">Tropical wet evergreen: above 200 cm</text><text x=\"160\" y=\"38\" fill=\"#5d6474\" font-size=\"10\" text-anchor=\"middle\">Western Ghats, Northeast, Andaman: ebony, mahogany</text><rect x=\"10\" y=\"50\" width=\"300\" height=\"40\" rx=\"6\" fill=\"#f1e4c6\" stroke=\"#a8792a\" stroke-width=\"1.5\"/><text x=\"160\" y=\"67\" fill=\"#7d5a1c\" font-size=\"12\" text-anchor=\"middle\" font-weight=\"700\">Moist deciduous: 100 to 200 cm</text><text x=\"160\" y=\"82\" fill=\"#5d6474\" font-size=\"10\" text-anchor=\"middle\">Teak, sal. Most widespread, peninsula and northeast</text><rect x=\"10\" y=\"94\" width=\"300\" height=\"40\" rx=\"6\" fill=\"#f4dcd5\" stroke=\"#a3362a\" stroke-width=\"1.5\"/><text x=\"160\" y=\"111\" fill=\"#a3362a\" font-size=\"12\" text-anchor=\"middle\" font-weight=\"700\">Dry deciduous and thorn: under 100 cm</text><text x=\"160\" y=\"126\" fill=\"#5d6474\" font-size=\"10\" text-anchor=\"middle\">Rajasthan, Gujarat, Deccan: acacia, babul</text><rect x=\"10\" y=\"138\" width=\"300\" height=\"40\" rx=\"6\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"160\" y=\"155\" fill=\"#1d2433\" font-size=\"12\" text-anchor=\"middle\" font-weight=\"700\">Mountain and littoral</text><text x=\"160\" y=\"170\" fill=\"#5d6474\" font-size=\"10\" text-anchor=\"middle\">Deodar, pine above 1,500 m; mangroves on coasts</text></svg><p>Classification follows <b>Champion and Seth (1968)</b>: 16 major types. Rainfall is the main control, with temperature and altitude. Himalayan forests change with height in belts.</p>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "Forest cover today",
+   "b": "<p>As of <b>ISFR 2023</b>, forest cover is about 21.7% of India's area, and with tree cover about 25.2%. The target in the National Forest Policy 1988 is <b>33%</b> of area (two thirds in hills). Madhya Pradesh has the largest forest cover in area; Mizoram the highest share.</p><p>Very dense forest is only a small slice, so quality matters more than the headline.</p>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "Mangroves and tidal forests",
+   "b": "<svg class=\"d\" viewBox=\"0 0 320 126\"><rect x=\"10\" y=\"6\" width=\"100\" height=\"34\" rx=\"6\" fill=\"#dceaec\" stroke=\"#2f6f7a\" stroke-width=\"1.5\"/><text x=\"60.0\" y=\"27.0\" fill=\"#2f6f7a\" font-size=\"11\" text-anchor=\"middle\" font-weight=\"700\">Sundarbans</text><rect x=\"116\" y=\"6\" width=\"194\" height=\"34\" rx=\"6\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"213.0\" y=\"27.0\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\">Largest mangrove, Sundari tree, Bengal tiger</text><rect x=\"10\" y=\"46\" width=\"100\" height=\"34\" rx=\"6\" fill=\"#f1e4c6\" stroke=\"#a8792a\" stroke-width=\"1.5\"/><text x=\"60.0\" y=\"67.0\" fill=\"#7d5a1c\" font-size=\"11\" text-anchor=\"middle\" font-weight=\"700\">Bhitarkanika</text><rect x=\"116\" y=\"46\" width=\"194\" height=\"34\" rx=\"6\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"213.0\" y=\"67.0\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\">Odisha, saltwater crocodile</text><rect x=\"10\" y=\"86\" width=\"100\" height=\"34\" rx=\"6\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"60.0\" y=\"107.0\" fill=\"#1d2433\" font-size=\"11\" text-anchor=\"middle\" font-weight=\"700\">Godavari-Krishna</text><rect x=\"116\" y=\"86\" width=\"194\" height=\"34\" rx=\"6\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"213.0\" y=\"107.0\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\">Andhra coast deltas</text></svg><p>Mangroves have stilt and breathing roots, protect coasts from storm surge and nurse fish. India has about 4,990 sq km (ISFR 2023); West Bengal leads.</p>"
+  },
+  {
+   "tag": "Debate",
+   "h": "Development versus forests",
+   "b": "<p>The <b>Forest (Conservation) Amendment Act, 2023</b> exempts some categories (like linear projects near borders and security land) from clearance. Supporters see faster infrastructure; critics fear loss of undocumented forests. The Great Nicobar project raises a similar clash. Tribal rights under the <b>Forest Rights Act, 2006</b> add a third view.</p>"
+  },
+  {
+   "tag": "Indian angle",
+   "h": "Policies and programmes",
+   "b": "<p><b>Green India Mission</b>, <b>CAMPA</b> (compensatory afforestation funds), the <b>Ek Ped Maa Ke Naam</b> plantation drive (2024) and a pledge at COP26 for a 2.5-3 billion tonne carbon sink by 2030. Soil: <b>Soil Health Card</b> (2015) and <b>Paramparagat Krishi Vikas Yojana</b> promote organic farming.</p>"
+  },
+  {
+   "tag": "Exam lens",
+   "cls": "exam",
+   "h": "How to write this",
+   "b": "<div class=\"box\"><h4>Likely questions</h4><p>\"Why is black soil considered the best for cotton? Where is it found?\" (10 marks)</p><p>\"Discuss the status of mangroves in India and why they matter.\" (10 marks)</p></div><p><b>Structure:</b> classify; give origin of each soil with a crop; forest types by rainfall; recent data; law and policy.</p><p><b>Prelims tip:</b> memorise ISFR headline numbers, the biggest mangrove area (Sundarbans), and who proposed forest types (Champion and Seth).</p>"
+  }
+ ],
+ "quiz": [
+  {
+   "q": "The most widespread soil in India is",
+   "o": [
+    "Alluvial",
+    "Black",
+    "Red",
+    "Laterite"
+   ],
+   "a": 0,
+   "w": "It covers about 40% of the land."
+  },
+  {
+   "q": "Regur soil is suitable for",
+   "o": [
+    "Tea",
+    "Rice in hills",
+    "Coffee",
+    "Cotton"
+   ],
+   "a": 3,
+   "w": "Black soil retains moisture and suits cotton."
+  },
+  {
+   "q": "Red soil gets its colour from",
+   "o": [
+    "Humus",
+    "Iron oxide",
+    "Lime",
+    "Calcium"
+   ],
+   "a": 1,
+   "w": "Iron in crystalline rocks gives the colour."
+  },
+  {
+   "q": "Reh and usar are",
+   "o": [
+    "Peaty soils",
+    "Saline soils",
+    "Forest soils",
+    "Laterite soils"
+   ],
+   "a": 1,
+   "w": "They are salt-affected."
+  },
+  {
+   "q": "Forest types of India were classified by",
+   "o": [
+    "Koppen",
+    "Davis",
+    "Burrard",
+    "Champion and Seth"
+   ],
+   "a": 3,
+   "w": "Their 1968 scheme has 16 types."
+  },
+  {
+   "q": "National Forest Policy 1988 target for forest area is",
+   "o": [
+    "33%",
+    "25%",
+    "40%",
+    "21%"
+   ],
+   "a": 0,
+   "w": "And two thirds of hilly areas."
+  },
+  {
+   "q": "Which state has the largest mangrove cover?",
+   "o": [
+    "Gujarat",
+    "Odisha",
+    "West Bengal",
+    "Andhra Pradesh"
+   ],
+   "a": 2,
+   "w": "The Sundarbans dominate."
+  },
+  {
+   "q": "Which tree is characteristic of moist deciduous forests?",
+   "o": [
+    "Mahogany",
+    "Deodar",
+    "Acacia",
+    "Teak"
+   ],
+   "a": 3,
+   "w": "Teak and sal are classic."
+  },
+  {
+   "q": "Forest Rights Act was passed in",
+   "o": [
+    "2006",
+    "1988",
+    "2001",
+    "2013"
+   ],
+   "a": 0,
+   "w": "It recognises rights of forest-dwelling communities."
+  },
+  {
+   "q": "Laterite soil is best for",
+   "o": [
+    "Wheat",
+    "Cotton",
+    "Cashew and coffee",
+    "Jute"
+   ],
+   "a": 2,
+   "w": "Tree crops suit acidic leached soils."
+  }
+ ],
+ "sources": [
+  "NCERT Class 11, India: Physical Environment, ch. 5-6",
+  "ISFR 2023, Forest Survey of India",
+  "Majid Husain, Geography of India"
+ ],
+ "verified": "2026-11-10"
+}

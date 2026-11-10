@@ -1,0 +1,177 @@
+{
+ "id": "3-0-1",
+ "title": "Impacts on India: Agriculture, Water, Coasts",
+ "emoji": "🌊",
+ "cards": [
+  {
+   "tag": "Why this matters",
+   "h": "India feels climate change first",
+   "b": "<p>With 1.4 billion people, a long coast, Himalayan glaciers and a monsoon economy, India is very exposed. UPSC Mains asks for impacts and adaptation in agriculture, water and cities.</p><p>Use named events and dates in answers.</p>"
+  },
+  {
+   "tag": "Heat and health",
+   "h": "Rising extremes",
+   "b": "<p>Heatwaves are longer and earlier. In March 2022 an early heatwave cut wheat yields in parts of the north. Cities add the heat-island effect. India’s heat action plans began with Ahmedabad in 2013.</p><p>Heat also hits outdoor workers and productivity, and raises power demand.</p>"
+  },
+  {
+   "tag": "Agriculture",
+   "h": "Yield and monsoon risk",
+   "b": "<p>Agriculture is mostly rain-fed, so changes in the monsoon matter. Heat at grain filling cuts wheat yield. Warmer nights hurt rice. Extreme rain damages standing crops.</p><p>Pests and diseases shift range. ICAR’s <b>NICRA</b> project studies resilient crops and the ICAR has released many climate-resilient varieties. Insurance (PMFBY) cushions losses.</p>"
+  },
+  {
+   "tag": "Water",
+   "h": "Glaciers and monsoon",
+   "b": "<p>Himalayan glaciers feed the Indus, Ganga and Brahmaputra. They are retreating, first adding flows and later reducing them. Glacial lake outburst floods are a growing hazard: Kedarnath 2013, Chamoli 2021 and South Lhonak, Sikkim in October 2023.</p><p>Rainfall is becoming more extreme: fewer rainy days but heavier spells. Groundwater is already overused in the north-west.</p>"
+  },
+  {
+   "tag": "Coasts",
+   "h": "Sea level and cyclones",
+   "b": "<p>India has about 7,500 km of coastline. Rising seas threaten the Sundarbans, Mumbai, Kolkata, Chennai and the Lakshadweep. Salt water enters river deltas and aquifers.</p><p>Cyclones in the Arabian Sea have grown more intense. Early warning and shelters have cut deaths sharply, as in Odisha after the 1999 super cyclone. Mangroves and coral reefs are natural defences.</p>"
+  },
+  {
+   "tag": "Cities and disasters",
+   "h": "Urban floods and landslides",
+   "b": "<p>Mumbai (2005), Chennai (2015), Kerala (2018) and Wayanad landslides (2024) show rising flood and slope risk, made worse by poor drainage, wetland loss and building on hills.</p><p>Himachal Pradesh and Uttarakhand have faced repeated cloudbursts. The Himalaya’s fragile slopes are an adaptation priority.</p>"
+  },
+  {
+   "tag": "Health, economy, security",
+   "h": "Wider effects",
+   "b": "<p>Climate change spreads vector-borne diseases, reduces labour hours and worsens food prices. It drives migration from the Sundarbans and drought belts, and stress on shared rivers adds to regional tension.</p><p>The poor, women and small farmers are hit hardest. This is the equity argument India makes abroad.</p>"
+  },
+  {
+   "tag": "Debate",
+   "h": "Adaptation versus mitigation",
+   "b": "<p>India’s emissions are low per person, so it argues for adaptation finance. Yet adaptation needs huge money: early warning, resilient crops, drainage and housing.</p><p>Critics say too much policy is about mitigation targets while state adaptation plans lack funds and data.</p>"
+  },
+  {
+   "tag": "Indian angle",
+   "h": "Policy tools",
+   "b": "<p>The <b>NAPCC</b> (2008) has missions on agriculture, water, Himalaya and habitat. States have <b>State Action Plans</b>. The <b>NDMA</b> handles disasters under the Disaster Management Act 2005. The <b>Coalition for Disaster Resilient Infrastructure</b> (2019) was launched by India.</p><p>The National Adaptation Fund for Climate Change gives limited money. India submitted its updated NDC in 2026 with adaptation themes (see lesson on NDCs).</p>"
+  },
+  {
+   "tag": "Exam lens",
+   "h": "How to answer",
+   "b": "<p><b>Mains-style:</b> “How is climate change affecting Indian agriculture? Suggest adaptation measures.” Structure: heat, water and monsoon; crop examples (wheat 2022); regional pattern; adaptation (resilient seeds, micro-irrigation, insurance, crop advisories); finance and extension gaps.</p><p><b>Mains-style:</b> “Glacial lake outburst floods in the Himalaya: causes and mitigation.”</p><p><b>Prelims tip:</b> GLOF events: Kedarnath 2013, Chamoli 2021, South Lhonak 2023. CDRI launched by India in 2019.</p>",
+   "cls": "exam"
+  }
+ ],
+ "quiz": [
+  {
+   "q": "The 2023 glacial lake outburst flood occurred in:",
+   "o": [
+    "Himachal",
+    "Sikkim",
+    "Arunachal",
+    "Ladakh"
+   ],
+   "a": 1,
+   "w": "South Lhonak Lake."
+  },
+  {
+   "q": "India’s first city heat action plan was in:",
+   "o": [
+    "Ahmedabad",
+    "Delhi",
+    "Nagpur",
+    "Jaipur"
+   ],
+   "a": 0,
+   "w": "It started in 2013."
+  },
+  {
+   "q": "CDRI was launched in:",
+   "o": [
+    "2015",
+    "2008",
+    "2022",
+    "2019"
+   ],
+   "a": 3,
+   "w": "It was announced at the UN Climate Action Summit 2019."
+  },
+  {
+   "q": "NICRA is an ICAR project on:",
+   "o": [
+    "Solar pumps",
+    "Forest cover",
+    "Climate resilient agriculture",
+    "River links"
+   ],
+   "a": 2,
+   "w": "National Innovations in Climate Resilient Agriculture."
+  },
+  {
+   "q": "Which weather event reduced wheat in March 2022?",
+   "o": [
+    "Floods",
+    "Early heatwave",
+    "Cyclone",
+    "Hailstorm"
+   ],
+   "a": 1,
+   "w": "Grain filling was hit."
+  },
+  {
+   "q": "The Disaster Management Act was passed in:",
+   "o": [
+    "2005",
+    "1995",
+    "2013",
+    "2019"
+   ],
+   "a": 0,
+   "w": "It created NDMA."
+  },
+  {
+   "q": "The 1999 Odisha cyclone is remembered as a:",
+   "o": [
+    "Tsunami",
+    "Flash flood",
+    "Typhoon",
+    "Super cyclone"
+   ],
+   "a": 3,
+   "w": "It killed around ten thousand people and led to better warning systems."
+  },
+  {
+   "q": "India’s coastline is about:",
+   "o": [
+    "3,000 km",
+    "15,000 km",
+    "7,500 km",
+    "5,000 km"
+   ],
+   "a": 2,
+   "w": "Including islands about 7,516 km."
+  },
+  {
+   "q": "Which is most threatened by sea level rise?",
+   "o": [
+    "Thar",
+    "Sundarbans",
+    "Deccan plateau",
+    "Aravalli"
+   ],
+   "a": 1,
+   "w": "Low delta land is very exposed."
+  },
+  {
+   "q": "The NAPCC was launched in:",
+   "o": [
+    "2008",
+    "2000",
+    "2015",
+    "2020"
+   ],
+   "a": 0,
+   "w": "June 2008, with eight missions."
+  }
+ ],
+ "sources": [
+  "Shankar IAS Environment",
+  "NCERT Geography and Biology",
+  "MoEFCC and PIB",
+  "IMD, ICAR NICRA, NDMA"
+ ],
+ "verified": "2026-11-10"
+}

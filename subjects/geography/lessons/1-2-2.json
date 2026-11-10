@@ -1,0 +1,176 @@
+{
+ "id": "1-2-2",
+ "title": "Industrial Location and Industrial Regions",
+ "emoji": "🏭",
+ "cards": [
+  {
+   "tag": "Why this matters",
+   "h": "Where factories go",
+   "b": "<p>Factories choose places to cut cost and raise sales. The answer shapes cities, rivers, ports and regional inequality. For UPSC, you must explain <b>why an industry is located where it is</b>, and link it to current manufacturing policy.</p>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "Weber's location theory",
+   "b": "<svg class=\"d\" viewBox=\"0 0 320 190\"><path d=\"M160 25 L40 150 L280 150 Z\" fill=\"#f1e4c6\" stroke=\"#a8792a\" stroke-width=\"1.5\"/><circle cx=\"160\" cy=\"25\" r=\"6\" fill=\"#a3362a\"/><circle cx=\"40\" cy=\"150\" r=\"6\" fill=\"#a3362a\"/><circle cx=\"280\" cy=\"150\" r=\"6\" fill=\"#a3362a\"/><circle cx=\"160\" cy=\"112\" r=\"6\" fill=\"#2f6f7a\"/><text x=\"160\" y=\"15\" fill=\"#a3362a\" font-size=\"10\" text-anchor=\"middle\" font-weight=\"700\">Market</text><text x=\"40\" y=\"170\" fill=\"#a3362a\" font-size=\"10\" text-anchor=\"middle\" font-weight=\"700\">Raw material 1</text><text x=\"280\" y=\"170\" fill=\"#a3362a\" font-size=\"10\" text-anchor=\"middle\" font-weight=\"700\">Raw material 2</text><text x=\"160\" y=\"132\" fill=\"#2f6f7a\" font-size=\"10\" text-anchor=\"middle\" font-weight=\"700\">Least-cost point</text><text x=\"160\" y=\"186\" fill=\"#5d6474\" font-size=\"10\" text-anchor=\"middle\">Weber, 1909: transport cost decides, then labour and agglomeration</text></svg><p><b>Alfred Weber</b> (1909) argued firms pick the point with the <b>least transport cost</b>, then adjust for labour and agglomeration. If the raw material loses weight in processing (ore to iron), the factory goes near the raw material. If it gains weight or is perishable, it goes to the market.</p>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "Factors of location in India",
+   "b": "<p>Raw material, power, water, labour, capital, market, transport, government policy and history all matter. <b>Weight-losing</b> industries such as iron and steel and sugar go near sources. <b>Footloose</b> industries such as IT and electronics can go anywhere, so skilled labour and urban facilities decide.</p>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "Iron and steel",
+   "b": "<svg class=\"d\" viewBox=\"0 0 320 218\"><rect x=\"10\" y=\"6\" width=\"90\" height=\"26\" rx=\"6\" fill=\"#f1e4c6\" stroke=\"#a8792a\" stroke-width=\"1.5\"/><text x=\"55.0\" y=\"23\" fill=\"#7d5a1c\" font-size=\"11\" text-anchor=\"middle\" font-weight=\"700\">Plant</text><rect x=\"100\" y=\"6\" width=\"120\" height=\"26\" rx=\"6\" fill=\"#f1e4c6\" stroke=\"#a8792a\" stroke-width=\"1.5\"/><text x=\"160.0\" y=\"23\" fill=\"#7d5a1c\" font-size=\"11\" text-anchor=\"middle\" font-weight=\"700\">State</text><rect x=\"220\" y=\"6\" width=\"90\" height=\"26\" rx=\"6\" fill=\"#f1e4c6\" stroke=\"#a8792a\" stroke-width=\"1.5\"/><text x=\"265.0\" y=\"23\" fill=\"#7d5a1c\" font-size=\"11\" text-anchor=\"middle\" font-weight=\"700\">Partner / note</text><rect x=\"10\" y=\"32\" width=\"90\" height=\"30\" rx=\"0\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"55.0\" y=\"51\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\" font-weight=\"700\">TISCO (Tata)</text><rect x=\"100\" y=\"32\" width=\"120\" height=\"30\" rx=\"0\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"160.0\" y=\"51\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\">Jamshedpur, Jharkhand</text><rect x=\"220\" y=\"32\" width=\"90\" height=\"30\" rx=\"0\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"265.0\" y=\"51\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\">1907, private</text><rect x=\"10\" y=\"62\" width=\"90\" height=\"30\" rx=\"0\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"55.0\" y=\"81\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\" font-weight=\"700\">Bhilai</text><rect x=\"100\" y=\"62\" width=\"120\" height=\"30\" rx=\"0\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"160.0\" y=\"81\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\">Chhattisgarh</text><rect x=\"220\" y=\"62\" width=\"90\" height=\"30\" rx=\"0\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"265.0\" y=\"81\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\">USSR</text><rect x=\"10\" y=\"92\" width=\"90\" height=\"30\" rx=\"0\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"55.0\" y=\"111\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\" font-weight=\"700\">Rourkela</text><rect x=\"100\" y=\"92\" width=\"120\" height=\"30\" rx=\"0\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"160.0\" y=\"111\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\">Odisha</text><rect x=\"220\" y=\"92\" width=\"90\" height=\"30\" rx=\"0\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"265.0\" y=\"111\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\">Germany</text><rect x=\"10\" y=\"122\" width=\"90\" height=\"30\" rx=\"0\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"55.0\" y=\"141\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\" font-weight=\"700\">Durgapur</text><rect x=\"100\" y=\"122\" width=\"120\" height=\"30\" rx=\"0\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"160.0\" y=\"141\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\">West Bengal</text><rect x=\"220\" y=\"122\" width=\"90\" height=\"30\" rx=\"0\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"265.0\" y=\"141\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\">UK</text><rect x=\"10\" y=\"152\" width=\"90\" height=\"30\" rx=\"0\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"55.0\" y=\"171\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\" font-weight=\"700\">Bokaro</text><rect x=\"100\" y=\"152\" width=\"120\" height=\"30\" rx=\"0\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"160.0\" y=\"171\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\">Jharkhand</text><rect x=\"220\" y=\"152\" width=\"90\" height=\"30\" rx=\"0\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"265.0\" y=\"171\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\">USSR</text><rect x=\"10\" y=\"182\" width=\"90\" height=\"30\" rx=\"0\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"55.0\" y=\"201\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\" font-weight=\"700\">Visakhapatnam</text><rect x=\"100\" y=\"182\" width=\"120\" height=\"30\" rx=\"0\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"160.0\" y=\"201\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\">Andhra Pradesh</text><rect x=\"220\" y=\"182\" width=\"90\" height=\"30\" rx=\"0\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"265.0\" y=\"201\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\">Coastal, imports coal</text></svg><p>Steel plants sit in the Chotanagpur belt because iron ore, coking coal, limestone and manganese are close. After 1990 the private sector and coastal sites (Visakhapatnam, Gujarat Hazira) rose. India is the second largest crude steel producer, after China (as of recent data).</p>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "Cotton, sugar and other industries",
+   "b": "<p><b>Cotton textiles</b>: early mills in Mumbai (1854) and Ahmedabad thanks to port, capital and cotton; now spread widely, with spinning in the south. <b>Sugar</b>: shifted from UP to Maharashtra because cane has higher sucrose in the tropical climate and cooperatives helped. <b>Cement</b>: near limestone. <b>Aluminium</b>: near cheap power and bauxite.</p>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "Industrial regions",
+   "b": "<svg class=\"d\" viewBox=\"0 0 320 174\"><rect x=\"10\" y=\"6\" width=\"100\" height=\"36\" rx=\"6\" fill=\"#f1e4c6\" stroke=\"#a8792a\" stroke-width=\"1.5\"/><text x=\"60.0\" y=\"28.0\" fill=\"#7d5a1c\" font-size=\"11\" text-anchor=\"middle\" font-weight=\"700\">Hugli</text><rect x=\"116\" y=\"6\" width=\"194\" height=\"36\" rx=\"6\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"213.0\" y=\"28.0\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\">Howrah and Kolkata: jute, engineering</text><rect x=\"10\" y=\"48\" width=\"100\" height=\"36\" rx=\"6\" fill=\"#dceaec\" stroke=\"#2f6f7a\" stroke-width=\"1.5\"/><text x=\"60.0\" y=\"70.0\" fill=\"#2f6f7a\" font-size=\"11\" text-anchor=\"middle\" font-weight=\"700\">Mumbai-Pune</text><rect x=\"116\" y=\"48\" width=\"194\" height=\"36\" rx=\"6\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"213.0\" y=\"70.0\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\">Textiles, chemicals, autos, finance</text><rect x=\"10\" y=\"90\" width=\"100\" height=\"36\" rx=\"6\" fill=\"#f4dcd5\" stroke=\"#a3362a\" stroke-width=\"1.5\"/><text x=\"60.0\" y=\"112.0\" fill=\"#a3362a\" font-size=\"11\" text-anchor=\"middle\" font-weight=\"700\">Bengaluru-Coimbatore</text><rect x=\"116\" y=\"90\" width=\"194\" height=\"36\" rx=\"6\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"213.0\" y=\"112.0\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\">Textiles, IT, aerospace, electronics</text><rect x=\"10\" y=\"132\" width=\"100\" height=\"36\" rx=\"6\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"60.0\" y=\"154.0\" fill=\"#1d2433\" font-size=\"11\" text-anchor=\"middle\" font-weight=\"700\">Gujarat</text><rect x=\"116\" y=\"132\" width=\"194\" height=\"36\" rx=\"6\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"213.0\" y=\"154.0\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\">Ahmedabad-Vadodara, petrochemicals, textiles</text></svg><p>Other regions: <b>Chotanagpur</b>, Delhi-Gurugram-Meerut, and Kollam-Thiruvananthapuram. Most clusters grew around ports and old mineral belts. Eastern India has resources but lags in new industry.</p>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "Policy and corridors",
+   "b": "<p>Industrial Policy Resolution 1956 gave the public sector a dominant role; 1991 liberalised licensing. <b>Make in India</b> (2014) and <b>PLI schemes</b> (2020) aim to lift manufacturing to 25% of GDP. <b>Industrial corridors</b> (Delhi-Mumbai, Chennai-Bengaluru) and <b>SEZs</b> (Act 2005) cluster factories. <b>PM GatiShakti</b> (2021) coordinates transport links.</p>"
+  },
+  {
+   "tag": "Debate",
+   "h": "Spread industry or let clusters grow?",
+   "b": "<p>Clusters bring economies of scale, but regional inequality grows: four states (Maharashtra, Tamil Nadu, Gujarat, Karnataka) host a large share of factory output. Policy tools like tax holidays and corridors in backward areas are used. Critics point to land acquisition, displacement and pollution in such sites.</p>"
+  },
+  {
+   "tag": "Indian angle",
+   "h": "Current moves",
+   "b": "<p>Semiconductor fabs in <b>Dholera</b> (Gujarat) and Assam, mobile phone assembly in Tamil Nadu and Uttar Pradesh, and defence corridors in UP and Tamil Nadu are the newest clusters. Tamil Nadu and Maharashtra lead in electronics and autos. <b>MSMEs</b> account for about a third of manufacturing output.</p>"
+  },
+  {
+   "tag": "Exam lens",
+   "cls": "exam",
+   "h": "How to write this",
+   "b": "<div class=\"box\"><h4>Likely questions</h4><p>\"Discuss the factors influencing the location of iron and steel industry in India.\" (10 marks)</p><p>\"Account for the decline of Mumbai textile mills and the rise of Surat.\" (10 marks)</p></div><p><b>Structure:</b> theory first (Weber), then Indian factors, examples, regional pattern, policy.</p><p><b>Prelims tip:</b> TISCO is the oldest steel plant; Bhilai and Bokaro came with the USSR; Rourkela with Germany; Durgapur with the UK.</p>"
+  }
+ ],
+ "quiz": [
+  {
+   "q": "Weber's theory emphasises",
+   "o": [
+    "Highest market price",
+    "Government policy",
+    "Climate",
+    "Least transport cost"
+   ],
+   "a": 3,
+   "w": "Weber, 1909."
+  },
+  {
+   "q": "Iron and steel plants are raw-material oriented because",
+   "o": [
+    "Labour is cheap",
+    "Iron ore loses weight in smelting",
+    "Markets are far",
+    "Power is free"
+   ],
+   "a": 1,
+   "w": "It is cheaper to carry the product."
+  },
+  {
+   "q": "Which steel plant was built with Soviet help?",
+   "o": [
+    "Rourkela",
+    "Bhilai",
+    "Durgapur",
+    "Jamshedpur"
+   ],
+   "a": 1,
+   "w": "Bokaro too."
+  },
+  {
+   "q": "Rourkela plant was set up with help from",
+   "o": [
+    "UK",
+    "USSR",
+    "USA",
+    "Germany"
+   ],
+   "a": 3,
+   "w": "Durgapur had British help."
+  },
+  {
+   "q": "Footloose industries",
+   "o": [
+    "Have no strong tie to raw materials",
+    "Need coal",
+    "Need ports only",
+    "Are always rural"
+   ],
+   "a": 0,
+   "w": "IT and electronics are examples."
+  },
+  {
+   "q": "PLI schemes were launched in",
+   "o": [
+    "1991",
+    "2005",
+    "2020",
+    "2014"
+   ],
+   "a": 2,
+   "w": "Production Linked Incentive."
+  },
+  {
+   "q": "SEZ Act was passed in",
+   "o": [
+    "1991",
+    "2014",
+    "2020",
+    "2005"
+   ],
+   "a": 3,
+   "w": "It created special zones for exports."
+  },
+  {
+   "q": "First cotton mill in Mumbai started in",
+   "o": [
+    "1854",
+    "1818",
+    "1907",
+    "1951"
+   ],
+   "a": 0,
+   "w": "Cowasji Davar's mill."
+  },
+  {
+   "q": "Make in India launched in",
+   "o": [
+    "2005",
+    "2010",
+    "2014",
+    "2020"
+   ],
+   "a": 2,
+   "w": "It targets 25% share of manufacturing in GDP."
+  },
+  {
+   "q": "Dholera is being developed as a",
+   "o": [
+    "Semiconductor and smart city hub",
+    "Steel city",
+    "Port city",
+    "Textile city"
+   ],
+   "a": 0,
+   "w": "In Gujarat, near Ahmedabad."
+  }
+ ],
+ "sources": [
+  "NCERT Class 12, India: People and Economy, ch. 6",
+  "Majid Husain, Geography of India",
+  "DPIIT, Make in India"
+ ],
+ "verified": "2026-11-10"
+}

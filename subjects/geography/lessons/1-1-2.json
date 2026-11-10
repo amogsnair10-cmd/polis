@@ -1,0 +1,176 @@
+{
+ "id": "1-1-2",
+ "title": "Water Resources and River Interlinking",
+ "emoji": "💧",
+ "cards": [
+  {
+   "tag": "Why this matters",
+   "h": "India has 18% of people and 4% of water",
+   "b": "<p>Water is the sharpest long-term constraint on India's growth. Rainfall is seasonal, rivers are unevenly spread, and groundwater is falling. UPSC links this to <b>agriculture</b>, <b>federalism</b> (water is a state subject) and <b>interlinking</b>.</p>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "How much water is there?",
+   "b": "<svg class=\"d\" viewBox=\"0 0 320 182\"><rect x=\"10\" y=\"6\" width=\"300\" height=\"40\" rx=\"6\" fill=\"#dceaec\" stroke=\"#2f6f7a\" stroke-width=\"1.5\"/><text x=\"160\" y=\"23\" fill=\"#2f6f7a\" font-size=\"12\" text-anchor=\"middle\" font-weight=\"700\">About 4,000 BCM</text><text x=\"160\" y=\"38\" fill=\"#5d6474\" font-size=\"10\" text-anchor=\"middle\">Annual precipitation incl. snow</text><rect x=\"10\" y=\"50\" width=\"300\" height=\"40\" rx=\"6\" fill=\"#f1e4c6\" stroke=\"#a8792a\" stroke-width=\"1.5\"/><text x=\"160\" y=\"67\" fill=\"#7d5a1c\" font-size=\"12\" text-anchor=\"middle\" font-weight=\"700\">About 1,999 BCM</text><text x=\"160\" y=\"82\" fill=\"#5d6474\" font-size=\"10\" text-anchor=\"middle\">Average annual water resources (rivers)</text><rect x=\"10\" y=\"94\" width=\"300\" height=\"40\" rx=\"6\" fill=\"#f4dcd5\" stroke=\"#a3362a\" stroke-width=\"1.5\"/><text x=\"160\" y=\"111\" fill=\"#a3362a\" font-size=\"12\" text-anchor=\"middle\" font-weight=\"700\">About 1,122 BCM</text><text x=\"160\" y=\"126\" fill=\"#5d6474\" font-size=\"10\" text-anchor=\"middle\">Utilisable: 690 surface + 432 groundwater</text><rect x=\"10\" y=\"138\" width=\"300\" height=\"40\" rx=\"6\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"160\" y=\"155\" fill=\"#1d2433\" font-size=\"12\" text-anchor=\"middle\" font-weight=\"700\">Per capita: about 1,486 cubic m (2021)</text><text x=\"160\" y=\"170\" fill=\"#5d6474\" font-size=\"10\" text-anchor=\"middle\">Below 1,700 = stress, below 1,000 = scarcity</text></svg><p>BCM means billion cubic metres. Only a fraction can be stored or used. India's per capita availability has fallen from about 5,000 cubic m in 1951 to about 1,500 in 2021, so India is officially <b>water-stressed</b>.</p>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "Where it goes",
+   "b": "<svg class=\"d\" viewBox=\"0 0 320 126\"><rect x=\"10\" y=\"6\" width=\"95\" height=\"34\" rx=\"6\" fill=\"#f1e4c6\" stroke=\"#a8792a\" stroke-width=\"1.5\"/><text x=\"57.5\" y=\"27.0\" fill=\"#7d5a1c\" font-size=\"11\" text-anchor=\"middle\" font-weight=\"700\">Irrigation</text><rect x=\"111\" y=\"6\" width=\"199\" height=\"34\" rx=\"6\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"210.5\" y=\"27.0\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\">About 80% of freshwater use</text><rect x=\"10\" y=\"46\" width=\"95\" height=\"34\" rx=\"6\" fill=\"#dceaec\" stroke=\"#2f6f7a\" stroke-width=\"1.5\"/><text x=\"57.5\" y=\"67.0\" fill=\"#2f6f7a\" font-size=\"11\" text-anchor=\"middle\" font-weight=\"700\">Domestic</text><rect x=\"111\" y=\"46\" width=\"199\" height=\"34\" rx=\"6\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"210.5\" y=\"67.0\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\">About 5-6%, rising with cities</text><rect x=\"10\" y=\"86\" width=\"95\" height=\"34\" rx=\"6\" fill=\"#f4dcd5\" stroke=\"#a3362a\" stroke-width=\"1.5\"/><text x=\"57.5\" y=\"107.0\" fill=\"#a3362a\" font-size=\"11\" text-anchor=\"middle\" font-weight=\"700\">Industry</text><rect x=\"111\" y=\"86\" width=\"199\" height=\"34\" rx=\"6\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"210.5\" y=\"107.0\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\">About 4-5%, thermal power big</text></svg><p>Irrigation dominates use. Groundwater supplies about 60% of irrigation and 85% of rural drinking water. India is the world's largest extractor of groundwater, which is why states like Punjab, Haryana and Rajasthan have many over-exploited blocks.</p>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "Dams and multipurpose projects",
+   "b": "<p>Big dams: <b>Bhakra</b> (Sutlej), <b>Hirakud</b> (Mahanadi), <b>Tehri</b> (Bhagirathi, tallest in India), <b>Sardar Sarovar</b> (Narmada). Dams give irrigation, power, flood control and water supply, but cause displacement, siltation and loss of habitat. Jawaharlal Nehru called dams the temples of modern India.</p>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "Interlinking: the idea",
+   "b": "<p>Surplus river basins (Brahmaputra, Ganga, Mahanadi) could pass water to deficit ones (Cauvery, Pennar, western Rajasthan). The <b>National Perspective Plan</b> (1980) proposed 30 links: 16 peninsular and 14 Himalayan. The <b>NWDA</b> (1982) studies them. The Supreme Court in 2012 directed the Centre to act.</p>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "The Ken-Betwa link",
+   "b": "<svg class=\"d\" viewBox=\"0 0 320 170\"><path d=\"M60 20 Q70 70 50 150\" fill=\"none\" stroke=\"#2f6f7a\" stroke-width=\"3\"/><path d=\"M230 20 Q220 80 240 150\" fill=\"none\" stroke=\"#2f6f7a\" stroke-width=\"3\"/><line x1=\"65\" y1=\"70\" x2=\"225\" y2=\"70\" stroke=\"#a3362a\" stroke-width=\"3\" stroke-dasharray=\"4 3\"/><text x=\"60\" y=\"14\" fill=\"#2f6f7a\" font-size=\"11\" text-anchor=\"middle\" font-weight=\"700\">Ken</text><text x=\"230\" y=\"14\" fill=\"#2f6f7a\" font-size=\"11\" text-anchor=\"middle\" font-weight=\"700\">Betwa</text><text x=\"150\" y=\"62\" fill=\"#a3362a\" font-size=\"10\" text-anchor=\"middle\" font-weight=\"700\">Link canal, about 221 km</text><text x=\"60\" y=\"168\" fill=\"#5d6474\" font-size=\"10\" text-anchor=\"middle\">Surplus</text><text x=\"230\" y=\"168\" fill=\"#5d6474\" font-size=\"10\" text-anchor=\"middle\">Deficit (Bundelkhand)</text><rect x=\"100\" y=\"90\" width=\"120\" height=\"40\" rx=\"6\" fill=\"#f1e4c6\" stroke=\"#a8792a\" stroke-width=\"1.5\"/><text x=\"160\" y=\"107\" fill=\"#7d5a1c\" font-size=\"10\" text-anchor=\"middle\" font-weight=\"700\">Daudhan dam</text><text x=\"160\" y=\"122\" fill=\"#5d6474\" font-size=\"10\" text-anchor=\"middle\">Ken, Panna reserve area</text></svg><p>The first project under the national plan was approved in 2021 and its foundation stone laid in December 2024. It moves water from the Ken to the Betwa for drought-hit <b>Bundelkhand</b> across Madhya Pradesh and Uttar Pradesh. It will submerge part of the Panna Tiger Reserve, a main criticism.</p>"
+  },
+  {
+   "tag": "Debate",
+   "h": "Is interlinking wise?",
+   "b": "<p><b>For:</b> drought and flood relief, irrigation, navigation. <b>Against:</b> huge cost, displacement, damaged ecosystems, effects on the Ganga delta and monsoon, and state disputes over whether any state has a \"surplus\". Critics favour cheaper local options: <b>rainwater harvesting</b>, watershed work, drip irrigation, and fixing leaky canals.</p>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "Interstate disputes and law",
+   "b": "<p><b>Water</b> is a State subject (Entry 17, State List), but <b>Article 262</b> lets Parliament settle interstate river disputes through the <b>Inter-State River Water Disputes Act, 1956</b>. Tribunals have sat for Cauvery (award 2007, modified by the Supreme Court in 2018), Krishna and Godavari. Disputes drag on for decades.</p>"
+  },
+  {
+   "tag": "Indian angle",
+   "h": "Programmes",
+   "b": "<p><b>Jal Shakti Ministry</b> (2019); <b>Jal Jeevan Mission</b> (2019): tap water to every rural home; <b>Atal Bhujal Yojana</b> (2019): community groundwater management in stressed areas; <b>PMKSY</b> (2015): \"more crop per drop\"; <b>Amrit Sarovar</b> (2022): 75 ponds per district; and the <b>Jal Shakti Abhiyan</b> catch-the-rain campaign.</p>"
+  },
+  {
+   "tag": "Exam lens",
+   "cls": "exam",
+   "h": "How to write this",
+   "b": "<div class=\"box\"><h4>Likely questions</h4><p>\"Examine the feasibility of river interlinking in India.\" (15 marks)</p><p>\"How can India address groundwater depletion?\" (10 marks)</p></div><p><b>Structure:</b> status; opportunity; concerns (ecology, federal, costs); alternatives; give Ken-Betwa as a current test.</p><p><b>Prelims tip:</b> NWDA, the 30 links, Article 262, and the Ken-Betwa states are repeat hits.</p>"
+  }
+ ],
+ "quiz": [
+  {
+   "q": "India's share of the world's freshwater is about",
+   "o": [
+    "18%",
+    "10%",
+    "1%",
+    "4%"
+   ],
+   "a": 3,
+   "w": "Though India has about 18% of world population."
+  },
+  {
+   "q": "Water-stressed means per capita availability below",
+   "o": [
+    "1,000 cubic m",
+    "1,700 cubic m",
+    "500 cubic m",
+    "2,500 cubic m"
+   ],
+   "a": 1,
+   "w": "Below 1,000 is scarcity."
+  },
+  {
+   "q": "Which Article empowers Parliament on interstate river disputes?",
+   "o": [
+    "246",
+    "262",
+    "280",
+    "356"
+   ],
+   "a": 1,
+   "w": "Article 262 and the 1956 Act."
+  },
+  {
+   "q": "The first river-link project in the national plan to be cleared was",
+   "o": [
+    "Mahanadi-Godavari",
+    "Par-Tapi-Narmada",
+    "Brahmaputra-Ganga",
+    "Ken-Betwa"
+   ],
+   "a": 3,
+   "w": "It benefits Bundelkhand."
+  },
+  {
+   "q": "Tehri dam is on the",
+   "o": [
+    "Bhagirathi",
+    "Sutlej",
+    "Mahanadi",
+    "Narmada"
+   ],
+   "a": 0,
+   "w": "It is the tallest dam in India."
+  },
+  {
+   "q": "NWDA was set up in",
+   "o": [
+    "1950",
+    "1991",
+    "1982",
+    "2002"
+   ],
+   "a": 2,
+   "w": "National Water Development Agency."
+  },
+  {
+   "q": "Atal Bhujal Yojana focuses on",
+   "o": [
+    "River linking",
+    "Canal lining",
+    "Rural roads",
+    "Groundwater management"
+   ],
+   "a": 3,
+   "w": "It covers stressed areas in seven states."
+  },
+  {
+   "q": "Largest user of freshwater in India is",
+   "o": [
+    "Agriculture",
+    "Industry",
+    "Domestic use",
+    "Power"
+   ],
+   "a": 0,
+   "w": "About 80%."
+  },
+  {
+   "q": "Jal Jeevan Mission aims to provide",
+   "o": [
+    "Free irrigation pumps",
+    "Canal dredging",
+    "Tap water to rural homes",
+    "Dams on every river"
+   ],
+   "a": 2,
+   "w": "Launched in 2019."
+  },
+  {
+   "q": "The Cauvery tribunal award came in",
+   "o": [
+    "2007",
+    "1991",
+    "2013",
+    "2021"
+   ],
+   "a": 0,
+   "w": "The Supreme Court modified shares in 2018."
+  }
+ ],
+ "sources": [
+  "NCERT Class 12, India: People and Economy, ch. 5",
+  "Ministry of Jal Shakti, PIB releases",
+  "Majid Husain, Geography of India"
+ ],
+ "verified": "2026-11-10"
+}

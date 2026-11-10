@@ -1,0 +1,177 @@
+{
+ "id": "1-0-2",
+ "title": "Species in News and the IUCN Red List",
+ "emoji": "🦏",
+ "cards": [
+  {
+   "tag": "Why this matters",
+   "h": "Species in news is a Prelims staple",
+   "b": "<p>Almost every Prelims paper has a question on a species: its status, habitat or the park where it lives. UPSC picks animals that were in the news. The method is simple: learn the IUCN status, the Schedule and the place.</p><p>This lesson gives the system and the animals that recur most.</p>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "What the IUCN is",
+   "b": "<p>The <b>International Union for Conservation of Nature</b> was founded in 1948 and is based in Gland, Switzerland. It is a union of states and NGOs. Its <b>Red List of Threatened Species</b> is the main global record of extinction risk.</p><p>The Red List is a scientific assessment, not a law. It does not protect a species by itself. Indian protection comes from the Wildlife (Protection) Act and CITES.</p>"
+  },
+  {
+   "tag": "Categories",
+   "h": "The ladder of risk",
+   "b": "<p>From worst to best: <b>Extinct (EX)</b>, <b>Extinct in the Wild (EW)</b>, <b>Critically Endangered (CR)</b>, <b>Endangered (EN)</b>, <b>Vulnerable (VU)</b>, <b>Near Threatened (NT)</b>, <b>Least Concern (LC)</b>. Two more: <b>Data Deficient (DD)</b> and <b>Not Evaluated (NE)</b>.</p><p><b>Threatened</b> means CR, EN and VU together. Criteria use population decline, range size, population size and extinction probability.</p>"
+  },
+  {
+   "tag": "Numbers",
+   "h": "The Red List in 2026",
+   "b": "<p>The Red List now covers well over 170,000 species, and roughly 28 percent of those assessed are threatened. Recent reports put the 2026 totals near 176,000 assessed and about 49,500 threatened. Exact figures change at each update, so check the IUCN site.</p><p>Positive news exists. In October 2025 the <b>green turtle</b> was moved from Endangered to Least Concern globally after conservation gains.</p>"
+  },
+  {
+   "tag": "Species to know (1)",
+   "h": "Status of Indian flagships",
+   "b": "<ul><li><b>Tiger</b>: Endangered.</li><li><b>Asiatic lion</b>: Endangered.</li><li><b>Asian elephant</b>: Endangered.</li><li><b>Indian rhino</b>: Vulnerable.</li><li><b>Snow leopard</b>: Vulnerable.</li><li><b>Cheetah</b>: Vulnerable globally.</li><li><b>Ganges river dolphin</b>: Endangered.</li></ul>"
+  },
+  {
+   "tag": "Species to know (2)",
+   "h": "The critically endangered list",
+   "b": "<ul><li><b>Great Indian Bustard</b>: Critically Endangered, mainly Rajasthan.</li><li><b>Gharial</b>: Critically Endangered, mainly in the Chambal.</li><li><b>Pygmy hog</b>: Critically Endangered, Assam.</li><li><b>White-rumped, Indian and slender-billed vultures</b>: Critically Endangered.</li><li><b>Hangul</b> (Kashmir stag): Critically Endangered, Dachigam.</li><li><b>Sangai</b> (brow-antlered deer) is Endangered.</li></ul>"
+  },
+  {
+   "tag": "CITES and CMS",
+   "h": "International trade and migration",
+   "b": "<p><b>CITES</b> (1973, in force 1975) regulates trade. <b>Appendix I</b> bans commercial trade in species threatened with extinction. <b>Appendix II</b> allows controlled trade. <b>Appendix III</b> lists species a country asks others to help protect.</p><p><b>CMS</b> (Bonn, 1979) protects migratory species. India hosted CMS COP13 at Gandhinagar in February 2020 (Great Indian Bustard was a theme). The Wildlife Act 2022 now has a schedule for CITES specimens.</p>"
+  },
+  {
+   "tag": "Debate",
+   "h": "Flagships versus the quiet species",
+   "b": "<p>Charismatic animals attract funds: tigers, lions, elephants. Plants, insects and amphibians are far more threatened but get little attention.</p><p>Critics also say the Red List status is global. A species may be Least Concern globally yet be rare in India. Local lists and the national Schedules therefore matter.</p>"
+  },
+  {
+   "tag": "Indian angle",
+   "h": "How news links to learning",
+   "b": "<p>When a species is in the news, ask five things: Red List status, Wildlife Act Schedule, habitat state, threat, and any project (Project Tiger, Project Cheetah, Project Dolphin, Great Indian Bustard recovery).</p><p>India’s Wildlife Act Schedule I gives the highest protection; the 2022 amendment kept it for the most endangered. The Great Indian Bustard also gained attention in a 2021 Supreme Court case on power lines in its habitat.</p>"
+  },
+  {
+   "tag": "Exam lens",
+   "h": "How to answer",
+   "b": "<p><b>Mains-style:</b> “What is the role of the IUCN Red List in conservation planning? Mention its limits.” Structure: purpose; categories; how India uses it; limits (global scale, data gaps, not legally binding); conclusion.</p><p><b>Mains-style:</b> “Why do species like the Great Indian Bustard survive in the face of development pressure?”</p><p><b>Prelims tip:</b> Learn the “CR list”: GIB, gharial, pygmy hog, hangul, three vultures. Remember threatened = CR + EN + VU.</p>",
+   "cls": "exam"
+  }
+ ],
+ "quiz": [
+  {
+   "q": "Which category is the highest threat level before extinction in the wild?",
+   "o": [
+    "Endangered",
+    "Vulnerable",
+    "Critically Endangered",
+    "Near Threatened"
+   ],
+   "a": 2,
+   "w": "CR is above EN and VU on the ladder."
+  },
+  {
+   "q": "‘Threatened’ on the IUCN Red List includes:",
+   "o": [
+    "EN, VU and NT",
+    "CR, EN and VU",
+    "CR and EW",
+    "VU, NT and LC"
+   ],
+   "a": 1,
+   "w": "Threatened is the combined CR, EN and VU."
+  },
+  {
+   "q": "The tiger’s IUCN status is:",
+   "o": [
+    "Endangered",
+    "Vulnerable",
+    "Critically Endangered",
+    "Near Threatened"
+   ],
+   "a": 0,
+   "w": "Tiger is Endangered globally."
+  },
+  {
+   "q": "The Great Indian Bustard is:",
+   "o": [
+    "Vulnerable",
+    "Endangered",
+    "Least Concern",
+    "Critically Endangered"
+   ],
+   "a": 3,
+   "w": "Population is very small, mainly in Rajasthan."
+  },
+  {
+   "q": "CITES Appendix I deals with:",
+   "o": [
+    "Species needing controlled trade",
+    "Migratory species",
+    "Species threatened with extinction, trade banned for commerce",
+    "Wetlands"
+   ],
+   "a": 2,
+   "w": "Appendix II allows regulated trade."
+  },
+  {
+   "q": "The IUCN is headquartered in:",
+   "o": [
+    "Geneva",
+    "Gland, Switzerland",
+    "Nairobi",
+    "Washington"
+   ],
+   "a": 1,
+   "w": "IUCN was founded in 1948 and is based at Gland."
+  },
+  {
+   "q": "Which species was moved to Least Concern globally in October 2025?",
+   "o": [
+    "Green turtle",
+    "Olive ridley",
+    "Leatherback",
+    "Hawksbill"
+   ],
+   "a": 0,
+   "w": "The green turtle was reassessed from Endangered to Least Concern."
+  },
+  {
+   "q": "The Hangul is found in:",
+   "o": [
+    "Gir",
+    "Manas",
+    "Kaziranga",
+    "Dachigam National Park"
+   ],
+   "a": 3,
+   "w": "It is the Kashmir stag, Critically Endangered."
+  },
+  {
+   "q": "Ganges river dolphin’s IUCN status:",
+   "o": [
+    "Vulnerable",
+    "Least Concern",
+    "Endangered",
+    "Extinct in the Wild"
+   ],
+   "a": 2,
+   "w": "It is the national aquatic animal and is Endangered."
+  },
+  {
+   "q": "CMS, the convention on migratory species, was adopted at:",
+   "o": [
+    "Rio, 1992",
+    "Bonn, 1979",
+    "Paris, 1971",
+    "Washington, 1973"
+   ],
+   "a": 1,
+   "w": "Washington 1973 is CITES. Bonn 1979 is CMS."
+  }
+ ],
+ "sources": [
+  "Shankar IAS Environment",
+  "NCERT Biology Class XII",
+  "MoEFCC and PIB",
+  "IUCN Red List and CITES websites"
+ ],
+ "verified": "2026-11-10"
+}

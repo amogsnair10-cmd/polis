@@ -1,0 +1,169 @@
+{
+ "id": "3-0-2",
+ "title": "Tang and Song China: The Medieval Superpower",
+ "emoji": "📜",
+ "cards": [
+  {
+   "tag": "Why this matters",
+   "h": "China had the world's best inventions 500 years before Europe caught up",
+   "b": "<p>Imagine a world city of one million people in 750 CE, with poets, parties and foreign merchants. That was <b>Chang'an</b>, capital of the Tang.</p><p>A few centuries later, China's Song era produced printing, paper money and gunpowder weapons. Let us meet them.</p>"
+  },
+  {
+   "tag": "The story",
+   "h": "The Tang (618-907)",
+   "b": "<p>After a short Sui dynasty, <b>Li Yuan</b> founded the Tang in 618. His son <b>Li Shimin</b> (Emperor Taizong) was a strong ruler. The empire's capital Chang'an drew traders from Persia, Central Asia and Japan.</p><p>Tang poets <b>Li Bai</b> and <b>Du Fu</b> are still loved. <b>Wu Zetian</b> ruled as China's only female emperor (690-705).</p>"
+  },
+  {
+   "tag": "The turning point",
+   "h": "A rebellion shakes the Tang",
+   "b": "<p>In 755 General <b>An Lushan</b> rebelled. The war lasted until 763 and killed millions or left them uncounted; Tang rule never fully recovered. Provincial governors grew stronger. The dynasty ended in 907.</p>"
+  },
+  {
+   "tag": "The twist",
+   "h": "Song inventions",
+   "b": "<svg class=\"d\" viewBox=\"0 0 320 152\"><line x1=\"14\" y1=\"10\" x2=\"14\" y2=\"142\" stroke=\"#a8792a\" stroke-width=\"2\"/><circle cx=\"14\" cy=\"22\" r=\"5\" fill=\"#f1e4c6\" stroke=\"#a8792a\" stroke-width=\"2\"/><text x=\"28\" y=\"26\" font-size=\"11\" font-weight=\"700\" fill=\"#a8792a\">868</text><text x=\"112\" y=\"26\" font-size=\"11\" fill=\"#1d2433\">Printed Diamond Sutra</text><circle cx=\"14\" cy=\"50\" r=\"5\" fill=\"#f1e4c6\" stroke=\"#a8792a\" stroke-width=\"2\"/><text x=\"28\" y=\"54\" font-size=\"11\" font-weight=\"700\" fill=\"#a8792a\">~1040</text><text x=\"112\" y=\"54\" font-size=\"11\" fill=\"#1d2433\">Bi Sheng: movable type</text><circle cx=\"14\" cy=\"78\" r=\"5\" fill=\"#f1e4c6\" stroke=\"#a8792a\" stroke-width=\"2\"/><text x=\"28\" y=\"82\" font-size=\"11\" font-weight=\"700\" fill=\"#a8792a\">~1024</text><text x=\"112\" y=\"82\" font-size=\"11\" fill=\"#1d2433\">Paper money in Sichuan</text><circle cx=\"14\" cy=\"106\" r=\"5\" fill=\"#f1e4c6\" stroke=\"#a8792a\" stroke-width=\"2\"/><text x=\"28\" y=\"110\" font-size=\"11\" font-weight=\"700\" fill=\"#a8792a\">1044</text><text x=\"112\" y=\"110\" font-size=\"11\" fill=\"#1d2433\">Gunpowder recipes written</text><circle cx=\"14\" cy=\"134\" r=\"5\" fill=\"#f1e4c6\" stroke=\"#a8792a\" stroke-width=\"2\"/><text x=\"28\" y=\"138\" font-size=\"11\" font-weight=\"700\" fill=\"#a8792a\">1088</text><text x=\"112\" y=\"138\" font-size=\"11\" fill=\"#1d2433\">Compass described by Shen Kuo</text></svg><p>The Song (960-1279) had a booming economy: iron output, cities, banknotes, and ships with compasses. The oldest dated printed book is the Diamond Sutra of <b>868</b>, found at Dunhuang.</p>"
+  },
+  {
+   "tag": "The story",
+   "h": "Scholars and civil servants",
+   "b": "<p>The Song relied heavily on <b>civil service exams</b>. Aspiring officials studied Confucian classics. It was a rare chance, though most successful candidates came from well-off families.</p><p>Capital <b>Kaifeng</b> was crowded, with night markets. The Song fell back to the south after the Jurchen took the north in 1127. The Southern Song lasted till the Mongols in 1279.</p>"
+  },
+  {
+   "tag": "The story",
+   "h": "Women and foot-binding",
+   "b": "<p>Foot-binding began in the Song era among elites, and later spread. It hurt women for centuries. The Song also saw the rise of Neo-Confucianism, which put more rules on women's lives.</p><p>Progress had a hard side.</p>"
+  },
+  {
+   "tag": "Myth vs fact",
+   "h": "Did the Chinese invent gunpowder for fireworks?",
+   "b": "<b>Myth:</b> it was a toy.<b>Fact:</b> it was found by alchemists looking for medicines, probably in the Tang era. Early Song texts such as the <i>Wujing Zongyao</i> (1044) list recipes for military use, and the Song used bombs and fire-arrows.<p>Historians also argue about a Song 'industrial revolution' (Mark Elvin's 'medieval economic revolution'). It did not lead to machines like Britain's later one.</p>"
+  },
+  {
+   "tag": "Indian angle",
+   "h": "Meanwhile in India…",
+   "b": "<p>Pilgrims and ships</p>"
+  },
+  {
+   "tag": "Recap",
+   "h": "Five takeaways, two puzzles",
+   "b": "<p><b>Five things to remember</b></p><ol><li>The Tang (618-907) had a cosmopolitan capital, Chang'an.</li><li>The An Lushan rebellion (755-763) weakened the Tang.</li><li>The Song (960-1279) saw printing, paper money, gunpowder and the compass in use.</li><li>Civil service exams selected officials.</li><li>India and China exchanged monks, envoys and trade.</li></ol><p><b>Think about it</b></p><ul><li>Why might invention not always lead to an industrial revolution?</li><li>What does Chang'an tell you about being open to the world?</li></ul>",
+   "cls": "exam"
+  }
+ ],
+ "quiz": [
+  {
+   "q": "Tang capital...",
+   "o": [
+    "Kaifeng",
+    "Nanjing",
+    "Chang'an",
+    "Beijing"
+   ],
+   "a": 2,
+   "w": "Perhaps a million people."
+  },
+  {
+   "q": "China's only woman emperor...",
+   "o": [
+    "Wu Zetian",
+    "Cixi",
+    "Empress Lu",
+    "Li Bai"
+   ],
+   "a": 0,
+   "w": "Reigned 690-705."
+  },
+  {
+   "q": "The rebellion of 755 was led by...",
+   "o": [
+    "Li Bai",
+    "Liu Bang",
+    "Zheng He",
+    "An Lushan"
+   ],
+   "a": 3,
+   "w": "It weakened the Tang."
+  },
+  {
+   "q": "The oldest dated printed book...",
+   "o": [
+    "Gutenberg Bible",
+    "Diamond Sutra (868)",
+    "The Analects",
+    "The Vedas"
+   ],
+   "a": 1,
+   "w": "Found at Dunhuang."
+  },
+  {
+   "q": "Movable type was made by...",
+   "o": [
+    "Bi Sheng",
+    "Gutenberg",
+    "Cai Lun",
+    "Zhang Heng"
+   ],
+   "a": 0,
+   "w": "About 1040."
+  },
+  {
+   "q": "Song paper money first appeared in...",
+   "o": [
+    "Beijing",
+    "Canton",
+    "Delhi",
+    "Sichuan"
+   ],
+   "a": 3,
+   "w": "Early 11th century."
+  },
+  {
+   "q": "Xuanzang studied at...",
+   "o": [
+    "Taxila",
+    "Nalanda",
+    "Varanasi",
+    "Ujjain"
+   ],
+   "a": 1,
+   "w": "7th-century India."
+  },
+  {
+   "q": "Which king met Xuanzang?",
+   "o": [
+    "Ashoka",
+    "Kanishka",
+    "Harsha",
+    "Chandragupta"
+   ],
+   "a": 2,
+   "w": "Of Kannauj."
+  },
+  {
+   "q": "Rajendra I sent a naval expedition to...",
+   "o": [
+    "Japan",
+    "Egypt",
+    "Persia",
+    "Srivijaya"
+   ],
+   "a": 3,
+   "w": "In 1025."
+  },
+  {
+   "q": "Gunpowder was found by...",
+   "o": [
+    "Alchemists",
+    "Soldiers",
+    "Poets",
+    "Printers"
+   ],
+   "a": 0,
+   "w": "They sought medicines."
+  }
+ ],
+ "sources": [
+  "Ebrey, Cambridge Illustrated History of China; Needham, Science and Civilisation in China; Elvin, The Pattern of the Chinese Past (1973); Xuanzang, Great Tang Records"
+ ],
+ "verified": "2026-11-10"
+}

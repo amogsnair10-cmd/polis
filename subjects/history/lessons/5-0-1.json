@@ -1,0 +1,176 @@
+{
+ "id": "5-0-1",
+ "title": "American and French Revolutions",
+ "emoji": "🗽",
+ "cards": [
+  {
+   "tag": "Why this matters",
+   "h": "Rights, republics and nations",
+   "b": "<p>These two revolutions gave the world the ideas of popular sovereignty, rights and the nation. Many Indian constitutional ideas trace to them.</p>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "American Revolution: causes",
+   "b": "<p>After the Seven Years’ War (1756 to 63), Britain taxed the 13 colonies: Sugar Act (1764), Stamp Act (1765), Townshend duties (1767), Tea Act (1773). Colonists said “no taxation without representation”. Boston Massacre (1770), <b>Boston Tea Party (1773)</b>. The Intolerable (Coercive) Acts (1774). The First Continental Congress (1774).</p>"
+  },
+  {
+   "tag": "Key event",
+   "h": "War and Declaration",
+   "b": "<p>Fighting began at Lexington and Concord (1775). The <b>Declaration of Independence</b> (4 July 1776, drafted by Thomas Jefferson) cited Locke’s ideas of life, liberty and the pursuit of happiness. Victory at Saratoga (1777) brought French aid. Yorktown (1781). Treaty of Paris, 1783. George Washington led the army. Thomas Paine’s <i>Common Sense</i> (1776) swayed opinion.</p>"
+  },
+  {
+   "tag": "Key idea",
+   "h": "The US Constitution",
+   "b": "<p>Philadelphia Convention (1787). Federalism, separation of powers, checks and balances, written constitution, a Bill of Rights (first ten amendments, 1791). Judicial review followed in <i>Marbury v. Madison</i> (1803). Features that influenced India: fundamental rights, judicial review, preamble, federal idea, impeachment, Vice-President as Rajya Sabha-type chair (Chairman).</p>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "French Revolution: causes",
+   "b": "<ul><li>Old Regime: three estates; clergy and nobles exempt from most taxes; Third Estate paid.</li><li>Financial crisis: wars and court costs; failed reforms (Turgot, Necker, Calonne).</li><li>Enlightenment ideas: Montesquieu, Voltaire, Rousseau (<i>Social Contract</i>, 1762).</li><li>Bad harvests and bread prices (1788 to 89).</li></ul>"
+  },
+  {
+   "tag": "Key event",
+   "h": "Course of the Revolution",
+   "b": "<ul><li>1789: Estates-General; Tennis Court Oath; <b>Fall of the Bastille, 14 July</b>; Declaration of the Rights of Man and Citizen (August).</li><li>1791: Constitutional monarchy. 1792: Republic; the king, Louis XVI, executed in January 1793.</li><li><b>Reign of Terror</b> (1793 to 94, Robespierre, Committee of Public Safety).</li><li>1795: Directory. 1799: Napoleon’s coup.</li></ul>"
+  },
+  {
+   "tag": "Key idea",
+   "h": "Napoleon and the legacy",
+   "b": "<p>Napoleon Bonaparte became First Consul (1799), Emperor (1804). The <b>Napoleonic Code</b> (1804) spread legal equality, property rights and merit. He was defeated at Waterloo (1815). Congress of Vienna (1815, Metternich) restored monarchy. Legacy: liberty, equality, fraternity; the nation-state; secularism; metric system; end of feudal dues; slogan inspired the 1848 revolutions and, through Rammohun Roy, Indian liberals.</p>"
+  },
+  {
+   "tag": "Debate",
+   "h": "Origins and meaning",
+   "b": "<p>Marxist historians (Georges Lefebvre) saw a bourgeois revolution. Revisionists (Alfred Cobban, François Furet) say the bourgeoisie was not a unified class and stressed politics and ideas. R. R. Palmer proposed an “Atlantic revolution” linking America and France. Slavery and the Haitian Revolution (1791 to 1804) show limits of the universal claim.</p>"
+  },
+  {
+   "tag": "Indian angle",
+   "h": "Why it matters today",
+   "b": "<p>The Preamble’s “liberty, equality, fraternity”, Fundamental Rights and judicial review reflect these revolutions. Tipu Sultan is said to have planted a liberty tree at Seringapatam; Indian press celebrated Bastille Day. Ambedkar cited the French trio but traced fraternity to Buddha.</p>"
+  },
+  {
+   "tag": "Exam lens",
+   "h": "How to answer",
+   "b": "<ul><li>“Compare American and French Revolutions.”</li><li>“Influence of the French Revolution on India or the world.”</li><li>Prelims tip: Declaration of Independence 1776; Constitution 1787; Bastille 1789; Rights of Man 1789; Terror 1793 to 94; Napoleon’s Code 1804.</li></ul>",
+   "cls": "exam"
+  }
+ ],
+ "quiz": [
+  {
+   "q": "The American Declaration of Independence was drafted mainly by",
+   "o": [
+    "Thomas Jefferson",
+    "George Washington",
+    "Benjamin Franklin",
+    "John Adams"
+   ],
+   "a": 0,
+   "w": "Adopted on 4 July 1776."
+  },
+  {
+   "q": "The Boston Tea Party was in",
+   "o": [
+    "1765",
+    "1776",
+    "1783",
+    "1773"
+   ],
+   "a": 3,
+   "w": "Protest against the Tea Act."
+  },
+  {
+   "q": "The war ended with the Treaty of Paris in",
+   "o": [
+    "1776",
+    "1787",
+    "1783",
+    "1791"
+   ],
+   "a": 2,
+   "w": "Britain recognised the USA."
+  },
+  {
+   "q": "The US Bill of Rights is",
+   "o": [
+    "The Declaration of Independence",
+    "The first ten amendments",
+    "The Preamble",
+    "Federalist Papers"
+   ],
+   "a": 1,
+   "w": "Ratified in 1791."
+  },
+  {
+   "q": "The French Revolution began in",
+   "o": [
+    "1789",
+    "1776",
+    "1793",
+    "1804"
+   ],
+   "a": 0,
+   "w": "With the Estates-General and the fall of the Bastille."
+  },
+  {
+   "q": "Who wrote The Social Contract (1762)?",
+   "o": [
+    "Voltaire",
+    "Montesquieu",
+    "Locke",
+    "Rousseau"
+   ],
+   "a": 3,
+   "w": "Popular sovereignty."
+  },
+  {
+   "q": "The Reign of Terror was led by",
+   "o": [
+    "Danton",
+    "Mirabeau",
+    "Robespierre",
+    "Lafayette"
+   ],
+   "a": 2,
+   "w": "Through the Committee of Public Safety."
+  },
+  {
+   "q": "Napoleon’s Civil Code was issued in",
+   "o": [
+    "1789",
+    "1804",
+    "1799",
+    "1815"
+   ],
+   "a": 1,
+   "w": "It spread legal equality."
+  },
+  {
+   "q": "The Congress of Vienna (1815) was dominated by",
+   "o": [
+    "Metternich",
+    "Bismarck",
+    "Cavour",
+    "Napoleon"
+   ],
+   "a": 0,
+   "w": "To restore the old order."
+  },
+  {
+   "q": "Judicial review in the USA was established in",
+   "o": [
+    "Dred Scott (1857)",
+    "Brown v. Board (1954)",
+    "Roe v. Wade (1973)",
+    "Marbury v. Madison (1803)"
+   ],
+   "a": 3,
+   "w": "Chief Justice Marshall."
+  }
+ ],
+ "sources": [
+  "Norman Lowe, Mastering Modern World History",
+  "NCERT Class IX, India and the Contemporary World I",
+  "R. R. Palmer, The Age of the Democratic Revolution"
+ ],
+ "verified": "2026-11-10"
+}

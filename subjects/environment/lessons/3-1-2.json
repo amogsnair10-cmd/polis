@@ -1,0 +1,177 @@
+{
+ "id": "3-1-2",
+ "title": "Ozone, Montreal Protocol and Other Conventions",
+ "emoji": "🛡️",
+ "cards": [
+  {
+   "tag": "Why this matters",
+   "h": "Convention names and years are free marks",
+   "b": "<p>Prelims often matches a convention with its subject or year. The Montreal Protocol is also the most cited success story in global environmental governance.</p><p>Learn the ozone chain, then the table of conventions.</p>"
+  },
+  {
+   "tag": "Ozone layer",
+   "h": "What and where",
+   "b": "<p>Ozone (O3) in the stratosphere (peak about 20 to 30 km up) absorbs harmful UV-B and UV-C. It is measured in <b>Dobson Units</b>. Ground-level ozone is a pollutant.</p><p><b>Rowland and Molina</b> (1974) warned about CFCs. In 1985 <b>Farman, Gardiner and Shanklin</b> reported the Antarctic ozone hole. Crutzen, Rowland and Molina won the Nobel Prize in 1995.</p>"
+  },
+  {
+   "tag": "How it breaks",
+   "h": "Chlorine chain",
+   "b": "<p>CFCs are stable, drift up, and in the stratosphere UV frees chlorine. One chlorine atom can destroy thousands of ozone molecules. The hole forms in the Antarctic spring (September to October) because polar stratospheric clouds help the reaction.</p><p>Other ozone depleting substances (ODS): halons, carbon tetrachloride, methyl chloroform, methyl bromide, HCFCs.</p>"
+  },
+  {
+   "tag": "Vienna and Montreal",
+   "h": "The treaties",
+   "b": "<p>The <b>Vienna Convention</b> (1985) set up cooperation. The <b>Montreal Protocol</b> (1987, in force 1989) phases out ODS. It is the first treaty ratified by every country in the world.</p><p>It works with a Multilateral Fund to help developing countries, and has binding timetables. Amendments: London (1990), Copenhagen (1992), Montreal (1997), Beijing (1999) and <b>Kigali (2016)</b>.</p>"
+  },
+  {
+   "tag": "Kigali Amendment",
+   "h": "HFCs",
+   "b": "<p>HFCs do not harm ozone but are strong greenhouse gases. The <b>Kigali Amendment</b> (in force 2019) phases them down. India ratified it in 2021.</p><p>India’s schedule: freeze in 2028 and cuts in steps, with an 85 percent reduction by 2047, later than developed countries. Scientists project the ozone layer recovering by about 2040 (most of the world), 2045 (Arctic) and 2066 (Antarctic), per UNEP’s 2022 assessment.</p>"
+  },
+  {
+   "tag": "Other conventions (1)",
+   "h": "Biodiversity and land",
+   "b": "<ul><li><b>Ramsar</b> 1971: wetlands.</li><li><b>World Heritage Convention</b> 1972.</li><li><b>CITES</b> 1973: trade in endangered species.</li><li><b>CMS</b> 1979 (Bonn): migratory species.</li><li><b>CBD</b> 1992 with <b>Cartagena Protocol</b> (2000, biosafety) and <b>Nagoya Protocol</b> (2010, access and benefit sharing).</li><li><b>UNCCD</b> 1994: desertification.</li></ul>"
+  },
+  {
+   "tag": "Other conventions (2)",
+   "h": "Chemicals and seas",
+   "b": "<ul><li><b>Basel</b> 1989: hazardous waste.</li><li><b>Rotterdam</b> 1998: prior informed consent for chemicals.</li><li><b>Stockholm</b> 2001: persistent organic pollutants.</li><li><b>Minamata</b> 2013: mercury (in force 2017).</li><li><b>MARPOL</b> 1973/78: ship pollution.</li><li><b>BBNJ</b> (High Seas Treaty), adopted 2023 and in force from January 2026.</li></ul>"
+  },
+  {
+   "tag": "Debate",
+   "h": "Why did Montreal work?",
+   "b": "<p>Success factors: clear science, substitutes available, binding timetables, trade restrictions on non-parties, a fund for poor countries and a review system.</p><p>Climate change is harder: no easy substitute for fossil fuels, costs are high and benefits are shared. Some argue the Kigali style phase-down model could help other gases.</p>"
+  },
+  {
+   "tag": "Indian angle",
+   "h": "India’s record",
+   "b": "<p>India phased out CFCs by 2010 and has a <b>Ozone Cell</b> in MoEFCC and an HCFC Phase-out Management Plan. India is a party to all the conventions above.</p><p>India submitted its 2022 and 2026 climate plans and hosted CMS COP13 (2020) and UNCCD COP14 (2019).</p>"
+  },
+  {
+   "tag": "Exam lens",
+   "h": "How to answer",
+   "b": "<p><b>Mains-style:</b> “Montreal Protocol is the most successful environmental treaty. What lessons does it offer for climate change?” Structure: what it did; why it worked; limits of the analogy; Kigali; India’s role.</p><p><b>Prelims tip:</b> Montreal = ozone, 1987. Kigali = HFCs. Basel = hazardous waste. Minamata = mercury. Rotterdam = PIC chemicals.</p>",
+   "cls": "exam"
+  }
+ ],
+ "quiz": [
+  {
+   "q": "The Montreal Protocol was adopted in:",
+   "o": [
+    "1985",
+    "1992",
+    "1997",
+    "1987"
+   ],
+   "a": 3,
+   "w": "Vienna Convention was 1985."
+  },
+  {
+   "q": "The Kigali Amendment targets:",
+   "o": [
+    "CFCs",
+    "Halons",
+    "HFCs",
+    "Methyl bromide"
+   ],
+   "a": 2,
+   "w": "HFCs are potent greenhouse gases."
+  },
+  {
+   "q": "Who reported the Antarctic ozone hole in 1985?",
+   "o": [
+    "Rowland and Molina",
+    "Farman, Gardiner and Shanklin",
+    "Crutzen and Fabry",
+    "Dobson and Brewer"
+   ],
+   "a": 1,
+   "w": "British Antarctic Survey scientists."
+  },
+  {
+   "q": "Ozone is measured in:",
+   "o": [
+    "Dobson Units",
+    "Decibels",
+    "Becquerels",
+    "ppb only"
+   ],
+   "a": 0,
+   "w": "Named after G.M.B. Dobson."
+  },
+  {
+   "q": "The convention on mercury is:",
+   "o": [
+    "Basel",
+    "Stockholm",
+    "Rotterdam",
+    "Minamata"
+   ],
+   "a": 3,
+   "w": "Adopted in 2013."
+  },
+  {
+   "q": "Cartagena Protocol concerns:",
+   "o": [
+    "Ozone",
+    "Wetlands",
+    "Biosafety of GMOs",
+    "Hazardous waste"
+   ],
+   "a": 2,
+   "w": "Adopted 2000 under the CBD."
+  },
+  {
+   "q": "Nagoya Protocol deals with:",
+   "o": [
+    "Trade in wildlife",
+    "Access and benefit sharing",
+    "Ship pollution",
+    "Desertification"
+   ],
+   "a": 1,
+   "w": "Adopted in 2010."
+  },
+  {
+   "q": "Which treaty has universal ratification?",
+   "o": [
+    "Montreal Protocol",
+    "Kyoto Protocol",
+    "Paris Agreement",
+    "Basel Convention"
+   ],
+   "a": 0,
+   "w": "All UN member states ratified it."
+  },
+  {
+   "q": "India ratified the Kigali Amendment in:",
+   "o": [
+    "2016",
+    "2019",
+    "2010",
+    "2021"
+   ],
+   "a": 3,
+   "w": "Kigali was adopted in 2016."
+  },
+  {
+   "q": "CMS COP13 was hosted by India at:",
+   "o": [
+    "Delhi, 2019",
+    "Chennai, 2015",
+    "Gandhinagar, 2020",
+    "Kochi, 2022"
+   ],
+   "a": 2,
+   "w": "Held in February 2020."
+  }
+ ],
+ "sources": [
+  "Shankar IAS Environment",
+  "MoEFCC, MNRE and PIB",
+  "UNFCCC decisions",
+  "UNEP Ozone Secretariat; UNEP Scientific Assessment of Ozone Depletion 2022"
+ ],
+ "verified": "2026-11-10"
+}

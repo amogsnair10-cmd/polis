@@ -1,0 +1,177 @@
+{
+ "id": "4-1-1",
+ "title": "Sustainable Agriculture and Biotechnology Concerns",
+ "emoji": "🌾",
+ "cards": [
+  {
+   "tag": "Why this matters",
+   "h": "Food security without ecological collapse",
+   "b": "<p>The Green Revolution fed India but drained groundwater, loaded soils with chemicals and cut diversity. Natural farming and GM crops are both in the news, and UPSC asks for balanced views.</p><p>This lesson covers the farm-side answer and the biotech debate.</p>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "What sustainable agriculture means",
+   "b": "<p>It aims to produce enough food while protecting soil, water and biodiversity and keeping farmers’ incomes stable. Methods: <b>organic farming</b>, <b>integrated pest management</b>, crop rotation, conservation agriculture, drip irrigation, agroforestry, <b>System of Rice Intensification</b>.</p><p>Related ideas: agroecology, climate-smart agriculture and regenerative practices.</p>"
+  },
+  {
+   "tag": "Indian angle",
+   "h": "Natural and organic farming",
+   "b": "<p><b>Paramparagat Krishi Vikas Yojana</b> (2015) promotes organic clusters. <b>Sikkim</b> became India’s first fully organic state in 2016. The <b>National Mission on Natural Farming</b> (approved November 2024) aims to bring around a crore farmers into chemical-free farming.</p><p><b>Soil Health Card</b> (2015), neem-coated urea and <b>PM-PRANAM</b> (2023, to cut chemical fertiliser) support the shift. <b>PMKSY</b> promotes “per drop more crop.”</p>"
+  },
+  {
+   "tag": "Other support",
+   "h": "Millets and water",
+   "b": "<p>The UN observed 2023 as the <b>International Year of Millets</b> at India’s initiative. Millets are hardy and need little water, so they suit dry areas. <b>Micro-irrigation</b> saves water and fertiliser.</p><p>Debate: can organic farming feed India? Sri Lanka’s abrupt 2021 chemical ban, which hurt yields, is often cited as a warning against sudden shifts.</p>"
+  },
+  {
+   "tag": "GM crops",
+   "h": "The position in India",
+   "b": "<p><b>Bt cotton</b> (approved 2002) is the only GM crop in commercial cultivation in India. The <b>Genetic Engineering Appraisal Committee (GEAC)</b> under the Environment Protection Act (Rules 1989) approves GM releases.</p><p><b>Bt brinjal</b> was put under a moratorium in 2010 by Environment Minister Jairam Ramesh. <b>GM mustard (DMH-11)</b> was cleared by GEAC in October 2022; the Supreme Court gave a split verdict in July 2024 and asked the Centre to frame a national GM policy.</p>"
+  },
+  {
+   "tag": "Gene editing",
+   "h": "A newer route",
+   "b": "<p>In 2022 the Centre exempted certain <b>genome-edited plants (SDN-1 and SDN-2)</b> without foreign DNA from GM rules. In May 2025, India released two genome-edited rice varieties developed by ICAR institutes.</p><p>Supporters say this is faster and safer than transgenics. Critics seek tight oversight and labelling.</p>"
+  },
+  {
+   "tag": "Concerns",
+   "h": "Why people worry",
+   "b": "<ul><li>Gene flow to wild relatives and loss of crop diversity.</li><li>Pest resistance (pink bollworm in Bt cotton).</li><li>Corporate control of seeds and high prices; fears over <b>terminator seeds</b> (GURTs), which are not allowed.</li><li>Health and allergen questions; labelling.</li><li>Unapproved herbicide-tolerant cotton spreading illegally.</li></ul>"
+  },
+  {
+   "tag": "Rights and law",
+   "h": "Seeds and knowledge",
+   "b": "<p>The <b>Protection of Plant Varieties and Farmers’ Rights Act 2001</b> protects breeders and farmers’ right to save and sell seeds. The <b>Biological Diversity Act 2002</b> controls access to biological resources and fights <b>biopiracy</b> (cases: neem, turmeric, basmati). The <b>Cartagena Protocol</b> (2000) governs biosafety of GMOs.</p><p><b>Geographical Indications</b> protect traditional products.</p>"
+  },
+  {
+   "tag": "Debate",
+   "h": "Balanced view",
+   "b": "<p>Biotech can raise yields, cut pesticide use and add nutrition (golden rice, biofortified crops). Risks include corporate dominance and unknown long-term effects. Many experts want case-by-case approval, independent testing and public data.</p><p>A sustainable path can use both: agroecology as the base and tested biotech as a tool.</p>"
+  },
+  {
+   "tag": "Exam lens",
+   "h": "How to answer",
+   "b": "<p><b>Mains-style:</b> “GM crops: a boon or a bane for Indian agriculture? Discuss.” Structure: status (Bt cotton only); benefits; concerns; regulation (GEAC, Cartagena); court position (GM mustard 2024); way forward (transparent science, gene-editing rules, farmer choice).</p><p><b>Mains-style:</b> “How can natural farming help achieve sustainable agriculture in India?”</p><p><b>Prelims tip:</b> Bt cotton 2002; Bt brinjal moratorium 2010; GEAC under EPA; Sikkim organic 2016; Cartagena = biosafety.</p>",
+   "cls": "exam"
+  }
+ ],
+ "quiz": [
+  {
+   "q": "India’s only commercially grown GM crop is:",
+   "o": [
+    "Bt brinjal",
+    "GM mustard",
+    "Bt cotton",
+    "Golden rice"
+   ],
+   "a": 2,
+   "w": "Approved in 2002."
+  },
+  {
+   "q": "GEAC functions under the:",
+   "o": [
+    "Seeds Act 1966",
+    "Environment Protection Act 1986",
+    "FSSAI Act",
+    "Biological Diversity Act"
+   ],
+   "a": 1,
+   "w": "MoEFCC."
+  },
+  {
+   "q": "The first fully organic Indian state is:",
+   "o": [
+    "Sikkim",
+    "Kerala",
+    "Mizoram",
+    "Uttarakhand"
+   ],
+   "a": 0,
+   "w": "Declared in 2016."
+  },
+  {
+   "q": "A moratorium on Bt brinjal was announced in:",
+   "o": [
+    "2002",
+    "2022",
+    "2024",
+    "2010"
+   ],
+   "a": 3,
+   "w": "By Jairam Ramesh."
+  },
+  {
+   "q": "The International Year of Millets was:",
+   "o": [
+    "2015",
+    "2019",
+    "2023",
+    "2021"
+   ],
+   "a": 2,
+   "w": "Proposed by India."
+  },
+  {
+   "q": "PKVY stands for:",
+   "o": [
+    "Pradhan Krishi Vikas Yojana",
+    "Paramparagat Krishi Vikas Yojana",
+    "Paramount Kisan Yojana",
+    "Prakritik Krishi Vitaran Yojana"
+   ],
+   "a": 1,
+   "w": "It supports organic clusters."
+  },
+  {
+   "q": "The Cartagena Protocol deals with:",
+   "o": [
+    "Biosafety",
+    "Ozone",
+    "Wetlands",
+    "Mercury"
+   ],
+   "a": 0,
+   "w": "It was adopted in 2000 under the CBD."
+  },
+  {
+   "q": "Which Act protects farmers’ rights over seeds?",
+   "o": [
+    "Seeds Act 1966",
+    "Wildlife Act",
+    "Forest Act",
+    "PPV&FR Act 2001"
+   ],
+   "a": 3,
+   "w": "It balances breeders’ and farmers’ rights."
+  },
+  {
+   "q": "Genome-edited rice varieties were released in India in:",
+   "o": [
+    "2010",
+    "2002",
+    "2025",
+    "2016"
+   ],
+   "a": 2,
+   "w": "Developed by ICAR."
+  },
+  {
+   "q": "The GM mustard case ended in 2024 with:",
+   "o": [
+    "A full ban",
+    "A split verdict and a call for a national policy",
+    "Full approval",
+    "Transfer to NGT"
+   ],
+   "a": 1,
+   "w": "The two-judge bench differed."
+  }
+ ],
+ "sources": [
+  "Shankar IAS Environment",
+  "Laxmikanth, Indian Polity (Art. 48A, 51A(g))",
+  "MoEFCC, PRS and PIB",
+  "GEAC, ICAR and PIB releases; Supreme Court order of July 2024"
+ ],
+ "verified": "2026-11-10"
+}

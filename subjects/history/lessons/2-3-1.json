@@ -1,0 +1,171 @@
+{
+ "id": "2-3-1",
+ "title": "Heritage, UNESCO Sites and Cultural Policy",
+ "emoji": "🏺",
+ "cards": [
+  {
+   "tag": "Why this matters",
+   "h": "Current affairs meets static GK",
+   "b": "<p>Each year India adds sites; UPSC asks about them. Know the categories, the lists and the institutions.</p>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "UNESCO lists",
+   "b": "<b>World Heritage Convention</b> (1972; India ratified 1977): cultural, natural and mixed sites. India has <b>44 World Heritage Sites</b> as of July 2025 (36 cultural, 7 natural, 1 mixed). The <b>Intangible Cultural Heritage</b> convention (2003; India ratified 2005) gives a representative list. India’s ICH elements include Kutiyattam, Vedic chanting, Ramlila, Ramman, Chhau, Kalbelia, Mudiyettu, Sankirtana of Manipur, Yoga (2016), Kumbh Mela (2017), Durga Puja in Kolkata (2021) and Garba (2023)."
+  },
+  {
+   "tag": "Key idea",
+   "h": "Recent inscriptions",
+   "b": "<ul><li>2021: Dholavira, Ramappa temple (Telangana).</li><li>2023: Santiniketan (West Bengal) and Sacred Ensembles of the Hoysalas.</li><li>2024: <b>Moidams</b> (Charaideo, Assam; Ahom burial mounds), India’s 43rd.</li><li>2025: <b>Maratha Military Landscapes</b> (12 forts, July 2025), India’s 44th.</li><li>Tentative list contains many more; India also hosted the 46th World Heritage Committee in New Delhi (July 2024).</li></ul>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "Memory of the World and other lists",
+   "b": "<p>The <b>Memory of the World Register</b> lists documentary heritage. India’s entries include the Rig Veda manuscripts (2007) and, in 2025, manuscripts of the Bhagavad Gita and the Natyashastra. Check the latest list before the exam.</p><p>UNESCO <b>Creative Cities Network</b>: Jaipur (crafts), Varanasi (music), Chennai (music), Srinagar (crafts), Kozhikode (literature, 2023) and Gwalior (music, 2023).</p>"
+  },
+  {
+   "tag": "Key idea",
+   "h": "Institutions",
+   "b": "<ul><li><b>ASI</b> (1861, Alexander Cunningham): protects monuments under the <b>Ancient Monuments and Archaeological Sites and Remains Act, 1958</b>; prohibited area 100 m, regulated area 200 m (2010 amendment).</li><li><b>Antiquities and Art Treasures Act 1972</b>.</li><li><b>INTACH</b> (1984), <b>National Mission on Monuments and Antiquities</b>, Adopt a Heritage (2017, “Apni Dharohar, Apni Pehchaan”).</li><li>Ministry of Culture: Sangeet Natak Akademi, Sahitya Akademi, Lalit Kala Akademi (all 1950s), National Museum, ICCR.</li></ul>"
+  },
+  {
+   "tag": "Key idea",
+   "h": "Constitution and policy",
+   "b": "<p>Article 29 (right to conserve culture), Article 49 (DPSP: protect monuments), Article 51A(f) (duty to value the composite culture), and Entry 67 of Union List (ancient monuments of national importance), Entry 12 of State List. The Heritage cities scheme HRIDAY (2015) and PRASAD (pilgrimage), Swadesh Darshan and the Central Vista are policy tools. Heritage by law includes folk and intangible forms through the <i>Guru-Shishya</i> scheme.</p>"
+  },
+  {
+   "tag": "Debate",
+   "h": "Conservation versus development",
+   "b": "<p>Tourism pressures at Taj Mahal, Hampi and Khajuraho; encroachments; commercial use of monuments for events; restoration versus preservation (Ayodhya and Konark restoration choices). The Supreme Court’s Taj Trapezium orders and Vishnu Bhagwan’s case show tension. Some argue for community-led conservation and local jobs.</p>"
+  },
+  {
+   "tag": "Indian angle",
+   "h": "Why it matters today",
+   "b": "<p>Repatriation of antiquities (hundreds of objects returned in the last decade), the Bodhgaya and Ajanta tourism circuits and the push for new inscriptions show heritage as soft power. Debates about renaming and the Places of Worship Act 1991 show the legal side.</p>"
+  },
+  {
+   "tag": "Exam lens",
+   "h": "How to answer",
+   "b": "<ul><li>“What steps has India taken to protect its cultural heritage?”</li><li>“Mention World Heritage Sites inscribed recently and the criteria.”</li><li>Prelims tip: Know the latest inscriptions and the difference between WHS (tangible) and ICH (intangible). Always check the current number from UNESCO or the Ministry of Culture.</li></ul>",
+   "cls": "exam"
+  }
+ ],
+ "quiz": [
+  {
+   "q": "The World Heritage Convention was adopted in",
+   "o": [
+    "1972",
+    "1948",
+    "1992",
+    "2003"
+   ],
+   "a": 0,
+   "w": "By the UNESCO General Conference."
+  },
+  {
+   "q": "The ICH convention dates from",
+   "o": [
+    "1972",
+    "1992",
+    "2010",
+    "2003"
+   ],
+   "a": 3,
+   "w": "Convention for the Safeguarding of the Intangible Cultural Heritage."
+  },
+  {
+   "q": "Which of these is an ICH element from India?",
+   "o": [
+    "Hampi",
+    "Taj Mahal",
+    "Kumbh Mela",
+    "Sanchi"
+   ],
+   "a": 2,
+   "w": "Inscribed in 2017."
+  },
+  {
+   "q": "The Moidams of Assam were inscribed in",
+   "o": [
+    "2021",
+    "2024",
+    "2023",
+    "2019"
+   ],
+   "a": 1,
+   "w": "As India’s 43rd World Heritage Site."
+  },
+  {
+   "q": "Dholavira was inscribed in",
+   "o": [
+    "2021",
+    "2019",
+    "2023",
+    "2014"
+   ],
+   "a": 0,
+   "w": "A Harappan site in Gujarat."
+  },
+  {
+   "q": "The ASI was founded in",
+   "o": [
+    "1858",
+    "1904",
+    "1947",
+    "1861"
+   ],
+   "a": 3,
+   "w": "By Alexander Cunningham."
+  },
+  {
+   "q": "The 1958 Act protects",
+   "o": [
+    "Folk arts",
+    "Languages",
+    "Ancient monuments and archaeological sites",
+    "Rivers"
+   ],
+   "a": 2,
+   "w": "It sets prohibited and regulated areas."
+  },
+  {
+   "q": "Article 49 is a",
+   "o": [
+    "Fundamental right",
+    "Directive Principle to protect monuments",
+    "Fundamental duty",
+    "Union List entry"
+   ],
+   "a": 1,
+   "w": "DPSP."
+  },
+  {
+   "q": "INTACH was set up in",
+   "o": [
+    "1984",
+    "1947",
+    "1961",
+    "2000"
+   ],
+   "a": 0,
+   "w": "Indian National Trust for Art and Cultural Heritage."
+  },
+  {
+   "q": "Kozhikode is a UNESCO Creative City for",
+   "o": [
+    "Music",
+    "Crafts",
+    "Gastronomy",
+    "Literature"
+   ],
+   "a": 3,
+   "w": "Designated in 2023."
+  }
+ ],
+ "sources": [
+  "Nitin Singhania, Indian Art and Culture",
+  "UNESCO World Heritage Centre; Ministry of Culture, PIB",
+  "Facts that change: check inscriptions list"
+ ],
+ "verified": "2026-11-10"
+}

@@ -1,0 +1,171 @@
+{
+ "id": "5-1-2",
+ "title": "Interwar Years, Fascism and the Second World War",
+ "emoji": "🌐",
+ "cards": [
+  {
+   "tag": "Why this matters",
+   "h": "The collapse of peace",
+   "b": "<p>From the Great Depression to Hiroshima, the 1930s and 1940s made the world we have now: the UN, the Cold War, decolonisation and the nuclear age.</p>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "The Depression and its effects",
+   "b": "<p>The Wall Street Crash (October 1929) began the <b>Great Depression</b>. Banks failed; trade shrank; unemployment soared. The USA’s answer was Roosevelt’s <b>New Deal</b> (1933). Britain left the gold standard. Many states turned to extremes. Economists: Keynes (<i>General Theory</i>, 1936).</p>"
+  },
+  {
+   "tag": "Key idea",
+   "h": "Fascism and Nazism",
+   "b": "<b>Italy</b>: Mussolini; March on Rome 1922; one-party state, corporatism. <b>Germany</b>: Hitler; Beer Hall Putsch 1923; <i>Mein Kampf</i>; Chancellor January 1933; Reichstag fire; Enabling Act (March 1933); Nuremberg Laws (1935); Kristallnacht (1938). Features: extreme nationalism, leader cult, anti-communism, racism, militarism. Japan: militarism after 1931 (Manchuria). Spain: Franco (1936 to 39)."
+  },
+  {
+   "tag": "Key event",
+   "h": "Road to war",
+   "b": "<ul><li>1931 Japan seizes Manchuria; League fails.</li><li>1935 Italy invades Ethiopia; Germany re-arms.</li><li>1936 Rhineland; Rome-Berlin Axis; Anti-Comintern Pact.</li><li>1938 Anschluss; <b>Munich Agreement</b> (Chamberlain’s appeasement).</li><li>1939 Hitler takes Czechoslovakia; Nazi-Soviet Pact (August); invasion of Poland (1 September).</li></ul>"
+  },
+  {
+   "tag": "Key event",
+   "h": "The war",
+   "b": "<p>1939 to 41: Blitzkrieg; fall of France (June 1940); Battle of Britain; invasion of the USSR (June 1941; Operation Barbarossa); Pearl Harbor (7 December 1941) brought the USA in. Turning points: Stalingrad (1942 to 43), Midway (1942), El Alamein. D-Day (6 June 1944). Germany surrendered 8 May 1945. The USA dropped atomic bombs on Hiroshima (6 August) and Nagasaki (9 August 1945). Japan surrendered on 15 August (signed 2 September). The Holocaust killed six million Jews.</p>"
+  },
+  {
+   "tag": "Key idea",
+   "h": "Peace conferences",
+   "b": "<p>Atlantic Charter (1941), Tehran (1943), Yalta (February 1945), Potsdam (July to August 1945). Nuremberg and Tokyo trials. <b>United Nations</b> formed 24 October 1945 (San Francisco conference); Security Council with five veto-holding permanent members. Bretton Woods (1944): IMF and World Bank. Germany divided into four zones.</p>"
+  },
+  {
+   "tag": "Debate",
+   "h": "Causes and blame",
+   "b": "<p>A. J. P. Taylor (<i>Origins of the Second World War</i>, 1961) saw Hitler as an opportunist and appeasement as understandable; others (Trevor-Roper) saw a clear plan in Mein Kampf. Versailles, the Depression, the failure of the League and appeasement all matter. E. H. Carr’s <i>Twenty Years’ Crisis</i> (1939) calls utopianism a cause.</p>"
+  },
+  {
+   "tag": "Indian angle",
+   "h": "Why it matters today",
+   "b": "<p>India was dragged into the war without consultation (1939), leading to Congress resignation and Quit India. Over 2.5 million Indians served, the largest volunteer army, and the Bengal famine (1943) killed up to three million. India’s Subhas Bose allied with the Axis; INA trials followed. India was a founding UN member (1945) and Radhabinod Pal sat at the Tokyo trial as a dissenting judge. India’s UN Security Council claim comes from this settlement.</p>"
+  },
+  {
+   "tag": "Exam lens",
+   "h": "How to answer",
+   "b": "<ul><li>“Analyse the causes of the Second World War.”</li><li>“Fascism and Nazism: similarities and differences.”</li><li>“Effects of the war on India’s freedom struggle.”</li><li>Prelims tip: Munich 1938; Nazi-Soviet pact Aug 1939; Pearl Harbor 7 Dec 1941; D-Day 1944; UN 1945; Hiroshima 6 Aug 1945.</li></ul>",
+   "cls": "exam"
+  }
+ ],
+ "quiz": [
+  {
+   "q": "The Great Depression began with",
+   "o": [
+    "The Russian Revolution",
+    "The Treaty of Versailles",
+    "The Wall Street Crash of 1929",
+    "Hitler’s rise"
+   ],
+   "a": 2,
+   "w": "In October 1929."
+  },
+  {
+   "q": "Roosevelt’s response to the Depression was",
+   "o": [
+    "The Marshall Plan",
+    "The New Deal",
+    "Lend-Lease",
+    "The Truman Doctrine"
+   ],
+   "a": 1,
+   "w": "From 1933."
+  },
+  {
+   "q": "Mussolini’s March on Rome took place in",
+   "o": [
+    "1922",
+    "1919",
+    "1929",
+    "1935"
+   ],
+   "a": 0,
+   "w": "He became prime minister."
+  },
+  {
+   "q": "The Munich Agreement (1938) involved",
+   "o": [
+    "Austria",
+    "Poland",
+    "Ethiopia",
+    "Czechoslovakia’s Sudetenland"
+   ],
+   "a": 3,
+   "w": "Chamberlain, Daladier, Hitler, Mussolini."
+  },
+  {
+   "q": "Appeasement was the policy of",
+   "o": [
+    "USSR",
+    "Japan",
+    "Britain and France",
+    "Italy"
+   ],
+   "a": 2,
+   "w": "Of giving in to Hitler."
+  },
+  {
+   "q": "The Second World War began with the invasion of",
+   "o": [
+    "Czechoslovakia",
+    "Poland",
+    "France",
+    "The USSR"
+   ],
+   "a": 1,
+   "w": "On 1 September 1939."
+  },
+  {
+   "q": "Pearl Harbor was attacked on",
+   "o": [
+    "7 December 1941",
+    "3 September 1939",
+    "22 June 1941",
+    "6 June 1944"
+   ],
+   "a": 0,
+   "w": "By Japan."
+  },
+  {
+   "q": "The Battle of Stalingrad was a turning point on the",
+   "o": [
+    "Pacific front",
+    "North African front",
+    "Western front",
+    "Eastern Front"
+   ],
+   "a": 3,
+   "w": "Soviet victory in 1943."
+  },
+  {
+   "q": "The United Nations was founded in",
+   "o": [
+    "1919",
+    "1939",
+    "1945",
+    "1950"
+   ],
+   "a": 2,
+   "w": "Charter in force from 24 October."
+  },
+  {
+   "q": "Which was a Yalta Conference leader?",
+   "o": [
+    "Hitler",
+    "Stalin",
+    "Mussolini",
+    "Hirohito"
+   ],
+   "a": 1,
+   "w": "With Roosevelt and Churchill, February 1945."
+  }
+ ],
+ "sources": [
+  "Norman Lowe, Mastering Modern World History",
+  "NCERT Class IX and XI (World History)",
+  "A. J. P. Taylor (1961)"
+ ],
+ "verified": "2026-11-10"
+}

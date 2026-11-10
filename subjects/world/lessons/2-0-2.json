@@ -1,0 +1,169 @@
+{
+ "id": "2-0-2",
+ "title": "Athens and Sparta",
+ "emoji": "⚔️",
+ "cards": [
+  {
+   "tag": "Why this matters",
+   "h": "Two cities, two crazy ways to live",
+   "b": "<p>Athens gave us democracy, theatre and philosophy. Sparta gave us a state where boys were taken from their mothers at seven to become soldiers.</p><p>They fought together against Persia. Then they fought each other for 27 years.</p>"
+  },
+  {
+   "tag": "The story",
+   "h": "Athens invents voting",
+   "b": "<p>In 508/507 BCE, a reformer called <b>Cleisthenes</b> reorganised Athens so ordinary citizens shared power. The Assembly met on a hill, the Pnyx. Any male citizen could speak and vote. Many officials were picked by <b>lottery</b>.</p><p>Citizens could also vote to exile a leader for ten years. This was <b>ostracism</b>, named after the pottery shards used as ballots.</p>"
+  },
+  {
+   "tag": "The twist",
+   "h": "But who counted?",
+   "b": "<svg class=\"d\" viewBox=\"0 0 320 130\"><rect x=\"6\" y=\"2\" width=\"150\" height=\"126\" rx=\"6\" fill=\"#f1e4c6\" stroke=\"#a8792a\"/><text x=\"81\" y=\"20\" font-size=\"11\" font-weight=\"700\" text-anchor=\"middle\" fill=\"#1d2433\">Athens</text><text x=\"14\" y=\"42\" font-size=\"10.5\" fill=\"#1d2433\">Democracy of citizens</text><text x=\"14\" y=\"66\" font-size=\"10.5\" fill=\"#1d2433\">Assembly and lottery</text><text x=\"14\" y=\"90\" font-size=\"10.5\" fill=\"#1d2433\">Trade and sea power</text><text x=\"14\" y=\"114\" font-size=\"10.5\" fill=\"#1d2433\">Theatre, philosophy</text><rect x=\"164\" y=\"2\" width=\"150\" height=\"126\" rx=\"6\" fill=\"#dceaec\" stroke=\"#2f6f7a\"/><text x=\"239\" y=\"20\" font-size=\"11\" font-weight=\"700\" text-anchor=\"middle\" fill=\"#1d2433\">Sparta</text><text x=\"172\" y=\"42\" font-size=\"10.5\" fill=\"#1d2433\">Two kings and elders</text><text x=\"172\" y=\"66\" font-size=\"10.5\" fill=\"#1d2433\">Helots farm the land</text><text x=\"172\" y=\"90\" font-size=\"10.5\" fill=\"#1d2433\">Army and land power</text><text x=\"172\" y=\"114\" font-size=\"10.5\" fill=\"#1d2433\">Strict training (agoge)</text></svg><p>Only adult male citizens voted. Women, slaves and foreigners did not. Perhaps 30,000-40,000 men could vote in a population of several hundred thousand. Athens was a democracy for a minority.</p>"
+  },
+  {
+   "tag": "The story",
+   "h": "Sparta, the barracks state",
+   "b": "<p>Spartan boys entered the <b>agoge</b> at about seven. They trained, went hungry and learned to endure. Adults were full-time soldiers.</p><p>Who grew the food? The <b>helots</b>, enslaved Greeks the Spartans ruled by terror. Spartans lived in constant fear of a helot revolt. Spartan women had more freedom than Athenian women, including owning land.</p>"
+  },
+  {
+   "tag": "The story",
+   "h": "Heroes and a golden age",
+   "b": "<p>In 480 BCE King <b>Leonidas</b> of Sparta held the narrow pass at <b>Thermopylae</b> against Xerxes's huge army and died with his men. After Persia's defeat, Athens grew rich and built the <b>Parthenon</b> (447-432 BCE) under the leader <b>Pericles</b>.</p>"
+  },
+  {
+   "tag": "The turning point",
+   "h": "27 years of war",
+   "b": "<svg class=\"d\" viewBox=\"0 0 320 180\"><line x1=\"14\" y1=\"10\" x2=\"14\" y2=\"170\" stroke=\"#a8792a\" stroke-width=\"2\"/><circle cx=\"14\" cy=\"22\" r=\"5\" fill=\"#f1e4c6\" stroke=\"#a8792a\" stroke-width=\"2\"/><text x=\"28\" y=\"26\" font-size=\"11\" font-weight=\"700\" fill=\"#a8792a\">508 BCE</text><text x=\"112\" y=\"26\" font-size=\"11\" fill=\"#1d2433\">Cleisthenes' reforms</text><circle cx=\"14\" cy=\"50\" r=\"5\" fill=\"#f1e4c6\" stroke=\"#a8792a\" stroke-width=\"2\"/><text x=\"28\" y=\"54\" font-size=\"11\" font-weight=\"700\" fill=\"#a8792a\">480</text><text x=\"112\" y=\"54\" font-size=\"11\" fill=\"#1d2433\">Thermopylae and Salamis</text><circle cx=\"14\" cy=\"78\" r=\"5\" fill=\"#f1e4c6\" stroke=\"#a8792a\" stroke-width=\"2\"/><text x=\"28\" y=\"82\" font-size=\"11\" font-weight=\"700\" fill=\"#a8792a\">447</text><text x=\"112\" y=\"82\" font-size=\"11\" fill=\"#1d2433\">Parthenon begins</text><circle cx=\"14\" cy=\"106\" r=\"5\" fill=\"#f1e4c6\" stroke=\"#a8792a\" stroke-width=\"2\"/><text x=\"28\" y=\"110\" font-size=\"11\" font-weight=\"700\" fill=\"#a8792a\">431</text><text x=\"112\" y=\"110\" font-size=\"11\" fill=\"#1d2433\">Peloponnesian War starts</text><circle cx=\"14\" cy=\"134\" r=\"5\" fill=\"#f1e4c6\" stroke=\"#a8792a\" stroke-width=\"2\"/><text x=\"28\" y=\"138\" font-size=\"11\" font-weight=\"700\" fill=\"#a8792a\">404</text><text x=\"112\" y=\"138\" font-size=\"11\" fill=\"#1d2433\">Athens surrenders</text><circle cx=\"14\" cy=\"162\" r=\"5\" fill=\"#f1e4c6\" stroke=\"#a8792a\" stroke-width=\"2\"/><text x=\"28\" y=\"166\" font-size=\"11\" font-weight=\"700\" fill=\"#a8792a\">399</text><text x=\"112\" y=\"166\" font-size=\"11\" fill=\"#1d2433\">Socrates executed</text></svg><p>The <b>Peloponnesian War</b> (431-404 BCE) ended in Athens's defeat. A plague in Athens killed Pericles. The historian <b>Thucydides</b> wrote the war's history.</p>"
+  },
+  {
+   "tag": "Myth vs fact",
+   "h": "Did 300 Spartans stand alone at Thermopylae?",
+   "b": "<b>Myth:</b> only 300 Spartans fought Persia.<b>Fact:</b> they were joined by several thousand other Greeks, including about 700 from Thespiae. Herodotus gives numbers around 7,000.<p>Also, a favourite tale says Spartans threw weak babies off a cliff. The source is Plutarch, writing centuries later. A 2007 study of the supposed site found only adult remains.</p>"
+  },
+  {
+   "tag": "Indian angle",
+   "h": "Meanwhile in India…",
+   "b": "<p>Republics of the Ganges</p>"
+  },
+  {
+   "tag": "Recap",
+   "h": "Five takeaways, two puzzles",
+   "b": "<p><b>Five things to remember</b></p><ol><li>Cleisthenes created Athenian democracy around 508 BCE.</li><li>Only male citizens voted.</li><li>Sparta used helots and trained boys in the agoge.</li><li>The Peloponnesian War (431-404 BCE) ended with Sparta's win.</li><li>India had gana-sanghas at the same time.</li></ol><p><b>Think about it</b></p><ul><li>Can a democracy rest on slavery?</li><li>Which is more admirable: Athens's openness or Sparta's discipline?</li></ul>",
+   "cls": "exam"
+  }
+ ],
+ "quiz": [
+  {
+   "q": "Who reformed Athens in 508 BCE?",
+   "o": [
+    "Pericles",
+    "Solon of Rome",
+    "Cleisthenes",
+    "Draco of Sparta"
+   ],
+   "a": 2,
+   "w": "Often called father of Athenian democracy."
+  },
+  {
+   "q": "Ostracism was...",
+   "o": [
+    "Voting to exile someone",
+    "A trial by combat",
+    "A festival",
+    "A tax"
+   ],
+   "a": 0,
+   "w": "Named after pottery shards."
+  },
+  {
+   "q": "Helots were...",
+   "o": [
+    "Spartan kings",
+    "Athenian poets",
+    "Persian generals",
+    "Enslaved people ruled by Sparta"
+   ],
+   "a": 3,
+   "w": "They farmed for the Spartans."
+  },
+  {
+   "q": "The agoge was...",
+   "o": [
+    "A theatre",
+    "Spartan training",
+    "A temple",
+    "A tax"
+   ],
+   "a": 1,
+   "w": "Started around age seven."
+  },
+  {
+   "q": "Leonidas died at...",
+   "o": [
+    "Thermopylae",
+    "Marathon",
+    "Salamis",
+    "Gaugamela"
+   ],
+   "a": 0,
+   "w": "480 BCE."
+  },
+  {
+   "q": "The Parthenon was built under...",
+   "o": [
+    "Alexander",
+    "Leonidas",
+    "Xerxes",
+    "Pericles"
+   ],
+   "a": 3,
+   "w": "Starting 447 BCE."
+  },
+  {
+   "q": "Who wrote the history of the Peloponnesian War?",
+   "o": [
+    "Herodotus",
+    "Thucydides",
+    "Plato",
+    "Homer"
+   ],
+   "a": 1,
+   "w": "A general turned historian."
+  },
+  {
+   "q": "The Peloponnesian War was won by...",
+   "o": [
+    "Athens",
+    "Persia",
+    "Sparta",
+    "Thebes"
+   ],
+   "a": 2,
+   "w": "Athens surrendered in 404 BCE."
+  },
+  {
+   "q": "Who could vote in Athens?",
+   "o": [
+    "Everyone",
+    "Only nobles",
+    "Only soldiers",
+    "Adult male citizens"
+   ],
+   "a": 3,
+   "w": "Women, slaves and foreigners could not."
+  },
+  {
+   "q": "A north Indian republic of the Buddha's time...",
+   "o": [
+    "Licchavis of Vaishali",
+    "The Mauryas",
+    "The Guptas",
+    "The Cholas"
+   ],
+   "a": 0,
+   "w": "A gana-sangha."
+  }
+ ],
+ "sources": [
+  "Hansen, The Athenian Democracy in the Age of Demosthenes; Cartledge, The Spartans; Herodotus 7; Thucydides; Plutarch, Lycurgus; Pitsios et al. 2007"
+ ],
+ "verified": "2026-11-10"
+}

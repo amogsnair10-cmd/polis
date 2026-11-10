@@ -1,0 +1,176 @@
+{
+ "id": "2-0-0",
+ "title": "Distribution of Key Natural Resources",
+ "emoji": "🗺️",
+ "cards": [
+  {
+   "tag": "Why this matters",
+   "h": "Resources shape power",
+   "b": "<p>Oil built the Gulf's wealth and the world's wars. Cobalt and lithium will shape the next era. Where resources lie, who controls them, and how they are traded is a basic GS I theme, and it links to international relations.</p>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "Kinds of resources",
+   "b": "<svg class=\"d\" viewBox=\"0 0 320 138\"><rect x=\"10\" y=\"6\" width=\"100\" height=\"38\" rx=\"6\" fill=\"#dceaec\" stroke=\"#2f6f7a\" stroke-width=\"1.5\"/><text x=\"60.0\" y=\"29.0\" fill=\"#2f6f7a\" font-size=\"11\" text-anchor=\"middle\" font-weight=\"700\">Renewable</text><rect x=\"116\" y=\"6\" width=\"194\" height=\"38\" rx=\"6\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"213.0\" y=\"29.0\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\">Solar, wind, water, forests, fish, if used within regeneration</text><rect x=\"10\" y=\"50\" width=\"100\" height=\"38\" rx=\"6\" fill=\"#f4dcd5\" stroke=\"#a3362a\" stroke-width=\"1.5\"/><text x=\"60.0\" y=\"73.0\" fill=\"#a3362a\" font-size=\"11\" text-anchor=\"middle\" font-weight=\"700\">Non-renewable</text><rect x=\"116\" y=\"50\" width=\"194\" height=\"38\" rx=\"6\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"213.0\" y=\"73.0\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\">Coal, oil, minerals: stock is finite</text><rect x=\"10\" y=\"94\" width=\"100\" height=\"38\" rx=\"6\" fill=\"#f1e4c6\" stroke=\"#a8792a\" stroke-width=\"1.5\"/><text x=\"60.0\" y=\"117.0\" fill=\"#7d5a1c\" font-size=\"11\" text-anchor=\"middle\" font-weight=\"700\">Flow vs stock</text><rect x=\"116\" y=\"94\" width=\"194\" height=\"38\" rx=\"6\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"213.0\" y=\"117.0\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\">Sunlight is a flow; ore is a stock</text></svg><p>Another split: <b>biotic</b> (forests, fish) and <b>abiotic</b> (minerals, water). Resources become <b>reserves</b> when they can be mined profitably. Technology and price change what counts as a resource.</p>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "Fossil fuels",
+   "b": "<svg class=\"d\" viewBox=\"0 0 320 158\"><rect x=\"10\" y=\"6\" width=\"85\" height=\"26\" rx=\"6\" fill=\"#f1e4c6\" stroke=\"#a8792a\" stroke-width=\"1.5\"/><text x=\"52.5\" y=\"23\" fill=\"#7d5a1c\" font-size=\"11\" text-anchor=\"middle\" font-weight=\"700\">Resource</text><rect x=\"95\" y=\"6\" width=\"215\" height=\"26\" rx=\"6\" fill=\"#f1e4c6\" stroke=\"#a8792a\" stroke-width=\"1.5\"/><text x=\"202.5\" y=\"23\" fill=\"#7d5a1c\" font-size=\"11\" text-anchor=\"middle\" font-weight=\"700\">Leading producers (approx.)</text><rect x=\"10\" y=\"32\" width=\"85\" height=\"30\" rx=\"0\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"52.5\" y=\"51\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\" font-weight=\"700\">Coal</text><rect x=\"95\" y=\"32\" width=\"215\" height=\"30\" rx=\"0\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"202.5\" y=\"51\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\">China, India, Indonesia, USA, Australia</text><rect x=\"10\" y=\"62\" width=\"85\" height=\"30\" rx=\"0\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"52.5\" y=\"81\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\" font-weight=\"700\">Crude oil</text><rect x=\"95\" y=\"62\" width=\"215\" height=\"30\" rx=\"0\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"202.5\" y=\"81\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\">USA, Saudi Arabia, Russia, Canada, Iraq</text><rect x=\"10\" y=\"92\" width=\"85\" height=\"30\" rx=\"0\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"52.5\" y=\"111\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\" font-weight=\"700\">Natural gas</text><rect x=\"95\" y=\"92\" width=\"215\" height=\"30\" rx=\"0\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"202.5\" y=\"111\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\">USA, Russia, Iran, Qatar, China</text><rect x=\"10\" y=\"122\" width=\"85\" height=\"30\" rx=\"0\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"52.5\" y=\"141\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\" font-weight=\"700\">Uranium</text><rect x=\"95\" y=\"122\" width=\"215\" height=\"30\" rx=\"0\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"202.5\" y=\"141\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\">Kazakhstan, Canada, Namibia</text></svg><p>Oil lies in a few basins: the <b>Persian Gulf</b> (about half of known reserves), the US, Russia and Canada's oil sands. Venezuela claims the largest proven reserves. <b>OPEC</b> (1960) has 12 members as of 2024 and OPEC+ includes Russia. Coal is widely spread and burned mostly for power and steel.</p>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "Metals",
+   "b": "<svg class=\"d\" viewBox=\"0 0 320 218\"><rect x=\"10\" y=\"6\" width=\"85\" height=\"26\" rx=\"6\" fill=\"#f1e4c6\" stroke=\"#a8792a\" stroke-width=\"1.5\"/><text x=\"52.5\" y=\"23\" fill=\"#7d5a1c\" font-size=\"11\" text-anchor=\"middle\" font-weight=\"700\">Mineral</text><rect x=\"95\" y=\"6\" width=\"215\" height=\"26\" rx=\"6\" fill=\"#f1e4c6\" stroke=\"#a8792a\" stroke-width=\"1.5\"/><text x=\"202.5\" y=\"23\" fill=\"#7d5a1c\" font-size=\"11\" text-anchor=\"middle\" font-weight=\"700\">Leaders (approx.)</text><rect x=\"10\" y=\"32\" width=\"85\" height=\"30\" rx=\"0\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"52.5\" y=\"51\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\" font-weight=\"700\">Iron ore</text><rect x=\"95\" y=\"32\" width=\"215\" height=\"30\" rx=\"0\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"202.5\" y=\"51\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\">Australia, Brazil, China, India</text><rect x=\"10\" y=\"62\" width=\"85\" height=\"30\" rx=\"0\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"52.5\" y=\"81\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\" font-weight=\"700\">Copper</text><rect x=\"95\" y=\"62\" width=\"215\" height=\"30\" rx=\"0\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"202.5\" y=\"81\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\">Chile, Peru, DR Congo</text><rect x=\"10\" y=\"92\" width=\"85\" height=\"30\" rx=\"0\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"52.5\" y=\"111\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\" font-weight=\"700\">Bauxite</text><rect x=\"95\" y=\"92\" width=\"215\" height=\"30\" rx=\"0\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"202.5\" y=\"111\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\">Australia, Guinea, China</text><rect x=\"10\" y=\"122\" width=\"85\" height=\"30\" rx=\"0\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"52.5\" y=\"141\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\" font-weight=\"700\">Lithium</text><rect x=\"95\" y=\"122\" width=\"215\" height=\"30\" rx=\"0\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"202.5\" y=\"141\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\">Australia, Chile, China</text><rect x=\"10\" y=\"152\" width=\"85\" height=\"30\" rx=\"0\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"52.5\" y=\"171\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\" font-weight=\"700\">Cobalt</text><rect x=\"95\" y=\"152\" width=\"215\" height=\"30\" rx=\"0\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"202.5\" y=\"171\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\">DR Congo (about 70%)</text><rect x=\"10\" y=\"182\" width=\"85\" height=\"30\" rx=\"0\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"52.5\" y=\"201\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\" font-weight=\"700\">Rare earths</text><rect x=\"95\" y=\"182\" width=\"215\" height=\"30\" rx=\"0\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"202.5\" y=\"201\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\">China (mining and refining)</text></svg><p>Iron ore lies in old shield areas, which is why Australia, Brazil, India and South Africa lead. Copper is concentrated along the Andes. Many figures change each year; check the latest USGS or industry data for exact ranks.</p>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "Critical minerals and the lithium triangle",
+   "b": "<p><b>Lithium, cobalt, nickel, graphite and rare earths</b> go into batteries, wind turbines and chips. The <b>lithium triangle</b> (Chile, Argentina, Bolivia) holds large brine reserves. The DR Congo supplies most cobalt, often with child labour. China processes most of the world's rare earths and battery materials, giving it leverage.</p>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "Water, forests and fisheries",
+   "b": "<p>Only about 2.5% of water is fresh, and most of that is in ice. Forests: <b>Amazon</b>, <b>Congo basin</b>, Siberian taiga, boreal Canada. Fisheries: Grand Banks, Peruvian anchovy, North Sea, East Asia. Overfishing is a global problem; the high seas have no single owner. UN High Seas treaty (BBNJ) was adopted in 2023.</p>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "Trade routes and chokepoints",
+   "b": "<p>Resources travel by sea through narrow straits: <b>Hormuz</b> (about a fifth of world oil), <b>Malacca</b> (between Indonesia and Malaysia, links the Indian and Pacific oceans), <b>Bab-el-Mandeb</b> and the <b>Suez Canal</b>. Attacks on shipping in the Red Sea since late 2023 pushed ships round the Cape of Good Hope. Pipelines such as Druzhba (Russia to Europe) matter for gas and oil on land.</p>"
+  },
+  {
+   "tag": "Debate",
+   "h": "Resource curse or blessing?",
+   "b": "<p>Many resource-rich states, such as Nigeria, Venezuela and DR Congo, suffer from corruption, conflict and a weak industry (the <b>resource curse</b> or \"Dutch disease\"). Others, like Norway, avoided it with a sovereign wealth fund and strong institutions. <b>Resource nationalism</b> (Indonesia banning raw nickel exports) is rising. The lesson: institutions decide outcomes.</p>"
+  },
+  {
+   "tag": "Indian angle",
+   "h": "India's resource position",
+   "b": "<p>India has coal, iron ore, bauxite and mica but imports about 85% of oil, most gas, and nearly all lithium and cobalt. It holds large thorium reserves. To fix this it uses <b>strategic reserves</b>, buys foreign assets via <b>ONGC Videsh</b> and KABIL, and joins the Minerals Security Partnership (2022). The Arctic and Antarctic (Himadri and Bharati stations) add a polar resource angle.</p>"
+  },
+  {
+   "tag": "Exam lens",
+   "cls": "exam",
+   "h": "How to write this",
+   "b": "<div class=\"box\"><h4>Likely questions</h4><p>\"Discuss the global distribution of petroleum and its geopolitical implications.\" (15 marks)</p><p>\"Why are critical minerals central to the energy transition? What are India's vulnerabilities?\" (15 marks)</p></div><p><b>Structure:</b> map the distribution; reasons (geology); trade patterns; politics; India's dependency and response.</p><p><b>Prelims tip:</b> Chile is the top copper miner; DR Congo has most cobalt; OPEC was founded in 1960 in Baghdad.</p>"
+  }
+ ],
+ "quiz": [
+  {
+   "q": "Which country is the largest producer of copper?",
+   "o": [
+    "Peru",
+    "Australia",
+    "Chile",
+    "India"
+   ],
+   "a": 2,
+   "w": "Along the Andes."
+  },
+  {
+   "q": "Most of the world's cobalt comes from",
+   "o": [
+    "DR Congo",
+    "Chile",
+    "Russia",
+    "Brazil"
+   ],
+   "a": 0,
+   "w": "About 70%."
+  },
+  {
+   "q": "The lithium triangle includes",
+   "o": [
+    "Peru, Chile, Brazil",
+    "Australia, China, India",
+    "Bolivia, Peru, Ecuador",
+    "Chile, Argentina, Bolivia"
+   ],
+   "a": 3,
+   "w": "Brines in salt flats."
+  },
+  {
+   "q": "OPEC was founded in",
+   "o": [
+    "1945",
+    "1960",
+    "1973",
+    "1991"
+   ],
+   "a": 1,
+   "w": "In Baghdad."
+  },
+  {
+   "q": "Which country has the world's largest proven oil reserves according to many estimates?",
+   "o": [
+    "Saudi Arabia",
+    "Venezuela",
+    "Iran",
+    "Russia"
+   ],
+   "a": 1,
+   "w": "Mostly heavy crude in the Orinoco belt. (Estimates vary by source.)"
+  },
+  {
+   "q": "Resource curse means",
+   "o": [
+    "Resource exhaustion",
+    "Price collapse",
+    "Trade surplus",
+    "Weak growth despite rich resources"
+   ],
+   "a": 3,
+   "w": "Linked to Dutch disease and conflict."
+  },
+  {
+   "q": "Which is a flow resource?",
+   "o": [
+    "Solar energy",
+    "Coal",
+    "Iron ore",
+    "Natural gas"
+   ],
+   "a": 0,
+   "w": "It does not run out."
+  },
+  {
+   "q": "India imports about what share of crude oil?",
+   "o": [
+    "25%",
+    "50%",
+    "85%",
+    "10%"
+   ],
+   "a": 2,
+   "w": "Recent data."
+  },
+  {
+   "q": "BBNJ treaty concerns",
+   "o": [
+    "Antarctic minerals",
+    "Nuclear fuel",
+    "Space debris",
+    "High seas biodiversity"
+   ],
+   "a": 3,
+   "w": "Adopted in 2023."
+  },
+  {
+   "q": "The largest iron ore exporter is",
+   "o": [
+    "Australia",
+    "India",
+    "South Africa",
+    "USA"
+   ],
+   "a": 0,
+   "w": "Pilbara region."
+  }
+ ],
+ "sources": [
+  "NCERT Class 12, Fundamentals of Human Geography, ch. 5-7",
+  "USGS Mineral Commodity Summaries",
+  "G.C. Leong, Certificate Physical and Human Geography"
+ ],
+ "verified": "2026-11-10"
+}

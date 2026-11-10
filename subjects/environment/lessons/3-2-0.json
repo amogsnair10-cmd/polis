@@ -1,0 +1,177 @@
+{
+ "id": "3-2-0",
+ "title": "NAPCC, Missions and India’s NDCs",
+ "emoji": "🇮🇳",
+ "cards": [
+  {
+   "tag": "Why this matters",
+   "h": "India’s own plan is the core of GS-III climate",
+   "b": "<p>Questions ask for the eight NAPCC missions, the targets of the NDC, the five-point <i>Panchamrit</i> and net-zero 2070. The newest NDC was filed in 2026, so recent facts matter.</p><p>Always say which NDC you mean: 2015, 2022 or the 2031–35 update.</p>"
+  },
+  {
+   "tag": "NAPCC",
+   "h": "June 2008",
+   "b": "<p>The <b>National Action Plan on Climate Change</b> has eight missions: <b>Solar</b>, <b>Enhanced Energy Efficiency</b>, <b>Sustainable Habitat</b>, <b>Water</b>, <b>Sustaining the Himalayan Ecosystem</b>, <b>Green India</b>, <b>Sustainable Agriculture</b>, and <b>Strategic Knowledge for Climate Change</b>.</p><p>States prepare <b>State Action Plans on Climate Change (SAPCC)</b>. Critics say the missions got uneven funding and weak monitoring.</p>"
+  },
+  {
+   "tag": "First NDC, 2015",
+   "h": "Paris pledge",
+   "b": "<ul><li>Cut emission intensity of GDP by <b>33 to 35 percent</b> by 2030 from 2005.</li><li><b>40 percent</b> of installed electric capacity from non-fossil sources by 2030.</li><li>Create an additional carbon sink of <b>2.5 to 3 billion tonnes of CO2e</b> through forests.</li></ul>"
+  },
+  {
+   "tag": "Glasgow and the 2022 update",
+   "h": "Panchamrit",
+   "b": "<p>At <b>COP26 (2021)</b>, India announced: <b>500 GW</b> non-fossil capacity by 2030; <b>50 percent</b> of energy needs from renewables by 2030; cut projected emissions by <b>1 billion tonnes</b> by 2030; cut emission intensity by <b>45 percent</b>; and <b>net-zero by 2070</b>.</p><p>The updated NDC (August 2022) raised the targets: <b>45 percent</b> intensity cut and <b>50 percent</b> non-fossil electric capacity by 2030. India reached 50 percent non-fossil installed capacity in mid-2025, about five years early.</p>"
+  },
+  {
+   "tag": "NDC 3.0",
+   "h": "The 2031–35 pledge",
+   "b": "<p>The Cabinet approved India’s new NDC in March 2026 and it was submitted to the UNFCCC in April 2026 (as of 2026; reported figures). Reports state two headline goals: <b>at least 47 percent</b> cut in the emission intensity of GDP from 2005 levels by 2035 and about <b>60 percent</b> non-fossil electric capacity by 2035.</p><p>India filed after most G20 members and long after the September 2025 expected date. The target is an <b>intensity</b> goal, not an absolute cap on emissions.</p>"
+  },
+  {
+   "tag": "Other instruments",
+   "h": "Strategy and alliances",
+   "b": "<p>India’s <b>Long-Term Low Emission Development Strategy</b> was submitted at COP27 (2022). The <b>International Solar Alliance</b> (2015, HQ Gurugram) and <b>CDRI</b> (2019) are Indian-led. <b>Mission LiFE</b> (2022) promotes sustainable lifestyles.</p><p>India’s climate finance need is estimated in trillions of dollars, and it argues most must come from developed countries.</p>"
+  },
+  {
+   "tag": "Progress",
+   "h": "Targets met and missed",
+   "b": "<p>India’s emission intensity fell by about 33 percent between 2005 and 2019, according to its reporting to the UNFCCC, and non-fossil capacity targets have been met early. The forest carbon sink target is harder: the 2.5 to 3 billion tonne goal depends on forest quality and plantation survival.</p><p>Absolute emissions are still rising with the economy, which is why the intensity form of the target draws comment.</p>"
+  },
+  {
+   "tag": "Debate",
+   "h": "Is India doing enough?",
+   "b": "<p>Supporters point to rapid solar growth, early targets met and low per capita emissions. Critics note that coal still dominates power, intensity targets allow absolute emissions to rise, and the 2070 net-zero date is later than many.</p><p>India says it is doing its fair share and that finance, not ambition, is the gap.</p>"
+  },
+  {
+   "tag": "Indian angle",
+   "h": "Institutions",
+   "b": "<p>The <b>MoEFCC</b> is the nodal ministry. The <b>Prime Minister’s Council on Climate Change</b> oversees. Missions are run by ministries: MNRE (solar), BEE (energy efficiency), Ministry of Jal Shakti (water).</p><p><b>Bureau of Energy Efficiency</b> runs the <b>PAT</b> scheme, now being replaced by carbon trading.</p>"
+  },
+  {
+   "tag": "Exam lens",
+   "h": "How to answer",
+   "b": "<p><b>Mains-style:</b> “Critically examine India’s updated NDC. Is it consistent with equity and ambition?” Structure: targets (give years); progress (50 percent non-fossil capacity); gaps (coal, finance, intensity not cap); equity argument; way forward.</p><p><b>Mains-style:</b> “What are the missions under the NAPCC? How successful have they been?”</p><p><b>Prelims tip:</b> NAPCC 2008, eight missions. Panchamrit at COP26. LTS at COP27. ISA HQ Gurugram.</p>",
+   "cls": "exam"
+  }
+ ],
+ "quiz": [
+  {
+   "q": "How many missions are in the NAPCC?",
+   "o": [
+    "Five",
+    "Ten",
+    "Eight",
+    "Twelve"
+   ],
+   "a": 2,
+   "w": "Solar, efficiency, habitat, water, Himalaya, Green India, agriculture, knowledge."
+  },
+  {
+   "q": "Net-zero target announced at COP26:",
+   "o": [
+    "2050",
+    "2070",
+    "2060",
+    "2047"
+   ],
+   "a": 1,
+   "w": "Part of the Panchamrit."
+  },
+  {
+   "q": "The 2022 NDC update set non-fossil capacity share at:",
+   "o": [
+    "50 percent by 2030",
+    "40 percent by 2030",
+    "33 percent by 2030",
+    "60 percent by 2030"
+   ],
+   "a": 0,
+   "w": "The 2015 NDC said 40 percent."
+  },
+  {
+   "q": "The 2022 update raised intensity reduction to:",
+   "o": [
+    "33 percent",
+    "35 percent",
+    "50 percent",
+    "45 percent"
+   ],
+   "a": 3,
+   "w": "Compared with 2005 levels."
+  },
+  {
+   "q": "ISA is headquartered at:",
+   "o": [
+    "Delhi",
+    "Pune",
+    "Gurugram",
+    "Chennai"
+   ],
+   "a": 2,
+   "w": "The ISA was launched in 2015 at Paris."
+  },
+  {
+   "q": "NAPCC was launched in:",
+   "o": [
+    "2015",
+    "2008",
+    "2021",
+    "1992"
+   ],
+   "a": 1,
+   "w": "Under the Prime Minister’s Council on Climate Change."
+  },
+  {
+   "q": "India’s NDC 3.0 relates to which period?",
+   "o": [
+    "2031–2035",
+    "2021–2030",
+    "2026–2030",
+    "2041–2050"
+   ],
+   "a": 0,
+   "w": "It was filed in 2026."
+  },
+  {
+   "q": "Which Mission of NAPCC is led by MNRE?",
+   "o": [
+    "Green India Mission",
+    "National Water Mission",
+    "Sustainable Habitat",
+    "National Solar Mission"
+   ],
+   "a": 3,
+   "w": "The Jawaharlal Nehru National Solar Mission."
+  },
+  {
+   "q": "India’s LTS was submitted at:",
+   "o": [
+    "COP26",
+    "COP28",
+    "COP27",
+    "COP21"
+   ],
+   "a": 2,
+   "w": "At Sharm el-Sheikh in 2022."
+  },
+  {
+   "q": "The target type in India’s NDCs is mainly:",
+   "o": [
+    "Absolute cap",
+    "Emission intensity of GDP",
+    "Per capita limit",
+    "Carbon tax"
+   ],
+   "a": 1,
+   "w": "This is a key criticism and defence."
+  }
+ ],
+ "sources": [
+  "Shankar IAS Environment",
+  "MoEFCC, MNRE and PIB",
+  "UNFCCC decisions",
+  "India NDC documents 2015, 2022; reports of NDC 2031–35 (secondary sources, 2026)"
+ ],
+ "verified": "2026-11-10"
+}

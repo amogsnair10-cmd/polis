@@ -1,0 +1,171 @@
+{
+ "id": "5-0-0",
+ "title": "Industrial Revolution",
+ "emoji": "🏭",
+ "cards": [
+  {
+   "tag": "Why this matters",
+   "h": "The break that made the modern world",
+   "b": "<p>From about 1760 Britain moved from hand work to machines. This changed cities, classes, empires and India’s economy. UPSC asks for causes, effects and the link to colonialism.</p>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "Why Britain first",
+   "b": "<ul><li>Agricultural revolution and enclosures freed labour and raised food output.</li><li>Capital from trade, slavery and colonies; Bank of England and credit.</li><li>Coal and iron near each other; rivers and canals.</li><li>Colonial markets and raw cotton.</li><li>Political stability after 1688; patents; a culture of science (Royal Society).</li><li>Population growth.</li></ul>"
+  },
+  {
+   "tag": "Key idea",
+   "h": "Inventions",
+   "b": "<ul><li><b>Textiles</b>: John Kay’s flying shuttle (1733), Hargreaves’s spinning jenny (1764), Arkwright’s water frame (1769), Crompton’s mule (1779), Cartwright’s power loom (1785), Whitney’s cotton gin (1793, USA).</li><li><b>Steam</b>: Newcomen (1712), <b>James Watt</b> (separate condenser, 1769).</li><li><b>Iron</b>: Abraham Darby coke smelting (1709); Henry Cort’s puddling (1784).</li><li><b>Transport</b>: Stephenson’s locomotive; Stockton and Darlington line (1825); Liverpool-Manchester (1830).</li></ul>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "Phases",
+   "b": "<p>First revolution (c. 1760 to 1830): textiles, steam, coal, iron. Second (c. 1870 to 1914): steel (Bessemer, 1856), electricity, chemicals, oil, the internal combustion engine, mass production. Germany and the USA led the second. Third and fourth: electronics and digital technology, in debate.</p>"
+  },
+  {
+   "tag": "Key idea",
+   "h": "Social effects",
+   "b": "<p>Factory system; urbanisation (Manchester, Birmingham); new classes: industrial bourgeoisie and working class. Child and women labour, long hours, slums, disease. Reform: Factory Acts (1833, 1847 ten-hour day), Poor Law, trade unions, Chartism (1838), Combination Acts repealed 1824. Ideas: Adam Smith (<i>Wealth of Nations</i>, 1776), Malthus, Ricardo; Marx and Engels’s <i>Communist Manifesto</i> (1848); Robert Owen’s model village.</p>"
+  },
+  {
+   "tag": "Key idea",
+   "h": "Effect on the colonies",
+   "b": "<p>India’s textile exports declined as Lancashire cloth came in; India became a market for British goods and a source of raw cotton, jute and indigo. Egypt and America supplied cotton. Africa supplied slaves and later raw materials. The need for markets and raw materials pushed the “new imperialism” after 1870. Rail and telegraph spread the system.</p>"
+  },
+  {
+   "tag": "Debate",
+   "h": "Revolution or evolution?",
+   "b": "<p>Arnold Toynbee (1884) coined the term. Later economic historians (Crafts, Harley) say growth was slow and gradual. E. P. Thompson (<i>The Making of the English Working Class</i>, 1963) stressed the human cost. Eric Williams (<i>Capitalism and Slavery</i>, 1944) linked slave profits to industrial capital; this is still debated. Kenneth Pomeranz (<i>The Great Divergence</i>, 2000) points to coal and colonies.</p>"
+  },
+  {
+   "tag": "Indian angle",
+   "h": "Why it matters today",
+   "b": "<p>India’s early industry: the first cotton mill (Bombay, 1854, Cowasji Davar), jute mills (Calcutta), TISCO (Jamshedpur, 1907). Debates on the fourth industrial revolution, AI and jobs echo the old fear of machines. The question of climate change and historic emissions links back to coal-led industrialisation.</p>"
+  },
+  {
+   "tag": "Exam lens",
+   "h": "How to answer",
+   "b": "<ul><li>“Why did the Industrial Revolution begin in England?”</li><li>“Industrial Revolution and its impact on the colonies.”</li><li>Prelims tip: Watt (steam), Hargreaves (jenny), Arkwright (water frame), Crompton (mule), Cartwright (power loom), Stephenson (rail 1825).</li></ul>",
+   "cls": "exam"
+  }
+ ],
+ "quiz": [
+  {
+   "q": "The spinning jenny was invented by",
+   "o": [
+    "Richard Arkwright",
+    "Samuel Crompton",
+    "Edmund Cartwright",
+    "James Hargreaves"
+   ],
+   "a": 3,
+   "w": "In 1764."
+  },
+  {
+   "q": "The power loom was invented by",
+   "o": [
+    "John Kay",
+    "Eli Whitney",
+    "Edmund Cartwright",
+    "James Watt"
+   ],
+   "a": 2,
+   "w": "In 1785."
+  },
+  {
+   "q": "James Watt improved the",
+   "o": [
+    "Spinning mule",
+    "Steam engine",
+    "Power loom",
+    "Locomotive"
+   ],
+   "a": 1,
+   "w": "With a separate condenser (1769)."
+  },
+  {
+   "q": "The Industrial Revolution began in",
+   "o": [
+    "Britain",
+    "France",
+    "Germany",
+    "USA"
+   ],
+   "a": 0,
+   "w": "In the later 18th century."
+  },
+  {
+   "q": "The Stockton and Darlington railway opened in",
+   "o": [
+    "1790",
+    "1830",
+    "1850",
+    "1825"
+   ],
+   "a": 3,
+   "w": "The first public steam railway."
+  },
+  {
+   "q": "Who wrote The Making of the English Working Class?",
+   "o": [
+    "Eric Williams",
+    "Arnold Toynbee",
+    "E. P. Thompson",
+    "Eric Hobsbawm"
+   ],
+   "a": 2,
+   "w": "Published in 1963."
+  },
+  {
+   "q": "Capitalism and Slavery (1944) was by",
+   "o": [
+    "E. P. Thompson",
+    "Eric Williams",
+    "Kenneth Pomeranz",
+    "Karl Polanyi"
+   ],
+   "a": 1,
+   "w": "It links slave profits to British industrial capital."
+  },
+  {
+   "q": "The Second Industrial Revolution is marked by",
+   "o": [
+    "Steel, electricity and chemicals",
+    "Spinning and weaving",
+    "Water power only",
+    "Canal building"
+   ],
+   "a": 0,
+   "w": "From about 1870."
+  },
+  {
+   "q": "Which Act in 1847 limited working hours in factories?",
+   "o": [
+    "The Poor Law Act",
+    "The Combination Act",
+    "The Corn Law",
+    "The Ten Hours Act"
+   ],
+   "a": 3,
+   "w": "For women and young persons."
+  },
+  {
+   "q": "The first cotton mill in India was set up at Bombay in",
+   "o": [
+    "1818",
+    "1907",
+    "1854",
+    "1900"
+   ],
+   "a": 2,
+   "w": "By C. N. Davar."
+  }
+ ],
+ "sources": [
+  "Norman Lowe, Mastering Modern World History",
+  "NCERT Class IX, History (Themes in World History)",
+  "Mains-style: industrialisation"
+ ],
+ "verified": "2026-11-10"
+}

@@ -1,0 +1,177 @@
+{
+ "id": "4-0-0",
+ "title": "Environmental Laws and the NGT",
+ "emoji": "⚖️",
+ "cards": [
+  {
+   "tag": "Why this matters",
+   "h": "Law is how environment policy bites",
+   "b": "<p>Prelims asks the year and subject of each Act and the NGT’s powers. Mains asks whether Indian environmental law is effective.</p><p>Learn the constitutional base, the main Acts and the principles courts use.</p>"
+  },
+  {
+   "tag": "Constitutional base",
+   "h": "Articles to remember",
+   "b": "<p><b>Article 48A</b> (DPSP, added by the 42nd Amendment 1976): the State shall protect and improve the environment and safeguard forests and wildlife. <b>Article 51A(g)</b>: a Fundamental Duty of every citizen. <b>Article 21</b>: courts read a right to a healthy environment into the right to life (Subhash Kumar v State of Bihar, 1991).</p><p>The 42nd Amendment also moved forests and wild animals to the Concurrent List (Entries 17A, 17B). <b>Article 253</b> lets Parliament legislate to implement treaties.</p>"
+  },
+  {
+   "tag": "Main Acts",
+   "h": "Year by year",
+   "b": "<ul><li><b>Wildlife (Protection) Act 1972</b></li><li><b>Water Act 1974</b>; Water Cess Act 1977</li><li><b>Forest (Conservation) Act 1980</b></li><li><b>Air Act 1981</b></li><li><b>Environment (Protection) Act 1986</b>: the umbrella law, passed after Bhopal (December 1984) and the Stockholm Conference.</li><li><b>Public Liability Insurance Act 1991</b></li><li><b>Biological Diversity Act 2002</b></li><li><b>Forest Rights Act 2006</b>; <b>NGT Act 2010</b></li></ul>"
+  },
+  {
+   "tag": "Environment Protection Act 1986",
+   "h": "The umbrella",
+   "b": "<p>It gives the Centre power to set standards, restrict industry locations, issue directions and make rules such as the EIA, CRZ, noise and waste rules. Offences carry penalties.</p><p>Under the Jan Vishwas Act 2023, many jail terms in the EPA were replaced by penalties (from ₹10,000 up to ₹15 lakh), with adjudicating officers. Supporters see ease of business; critics see weaker deterrence.</p>"
+  },
+  {
+   "tag": "Principles",
+   "h": "Used by the courts",
+   "b": "<p><b>Polluter pays</b>, <b>precautionary principle</b> and <b>public trust doctrine</b> were all accepted in Indian law. <b>Vellore Citizens Welfare Forum (1996)</b> and the <b>Indian Council for Enviro-Legal Action (1996)</b> cases built these in. <b>M.C. Mehta v Kamal Nath (1997)</b> applied the public trust doctrine.</p><p>In <b>M.C. Mehta (Oleum gas leak, 1986)</b> the Court created <b>absolute liability</b> for hazardous industries, going beyond the old strict liability of Rylands v Fletcher.</p>"
+  },
+  {
+   "tag": "The NGT",
+   "h": "Set up in 2010",
+   "b": "<p>The <b>National Green Tribunal Act 2010</b> created the NGT, replacing the National Environment Tribunal (1995) and the National Environment Appellate Authority (1997). The Principal Bench is in Delhi, with benches at Bhopal, Pune, Kolkata and Chennai.</p><p>India became one of the few countries with a specialist green tribunal. The chair is a retired Supreme Court judge or High Court Chief Justice, along with judicial and expert members.</p>"
+  },
+  {
+   "tag": "NGT powers",
+   "h": "Jurisdiction",
+   "b": "<p>The NGT hears civil cases involving a substantial environmental question under seven Acts: Water, Water Cess, Forest Conservation, Air, Environment Protection, Public Liability Insurance and Biological Diversity. It <b>does not</b> hear cases under the Wildlife Protection Act, the Indian Forest Act 1927 or local state tree laws.</p><p>It follows natural justice, not the strict Civil Procedure Code, aims to decide within <b>six months</b>, can award compensation and restoration, and its orders can be appealed to the Supreme Court within 90 days.</p>"
+  },
+  {
+   "tag": "Debate",
+   "h": "Strong tribunal or overstretched?",
+   "b": "<p>The NGT has acted on the Ganga, Yamuna, Delhi air quality and illegal mining. Critics point to its limited jurisdiction, vacancies, weak execution, and a Supreme Court ruling that it also has some suo motu power (2021).</p><p>Executive influence over appointments and the narrow list of Acts are a regular concern.</p>"
+  },
+  {
+   "tag": "Indian angle",
+   "h": "Rights and climate",
+   "b": "<p>In <b>M.K. Ranjitsinh v Union of India (2024)</b> the Supreme Court recognised a right to be free from the adverse effects of climate change as part of Articles 14 and 21.</p><p>Local bodies have a role under the 11th Schedule (Article 243G). States also have their own pollution control boards under the Water and Air Acts.</p>"
+  },
+  {
+   "tag": "Exam lens",
+   "h": "How to answer",
+   "b": "<p><b>Mains-style:</b> “Assess the role of the NGT in environmental governance. What are its limitations?” Structure: origin; jurisdiction; principles; notable orders; limits (narrow Acts, enforcement, vacancies); reforms.</p><p><b>Mains-style:</b> “Polluter pays and precautionary principles: how have Indian courts used them?”</p><p><b>Prelims tip:</b> NGT Act 2010; Article 48A (42nd Amendment); EPA 1986 after Bhopal; NGT excludes the Wildlife Act.</p>",
+   "cls": "exam"
+  }
+ ],
+ "quiz": [
+  {
+   "q": "The NGT Act was enacted in:",
+   "o": [
+    "2010",
+    "1995",
+    "1986",
+    "2002"
+   ],
+   "a": 0,
+   "w": "The NGT began work in October 2010."
+  },
+  {
+   "q": "Article 48A is a:",
+   "o": [
+    "Fundamental Right",
+    "Fundamental Duty",
+    "Constitutional amendment",
+    "Directive Principle"
+   ],
+   "a": 3,
+   "w": "51A(g) is the duty."
+  },
+  {
+   "q": "Which Act is NOT within the NGT’s jurisdiction?",
+   "o": [
+    "Air Act",
+    "Water Act",
+    "Wildlife Protection Act",
+    "Biological Diversity Act"
+   ],
+   "a": 2,
+   "w": "Wildlife and Indian Forest Act 1927 are outside."
+  },
+  {
+   "q": "The case that created absolute liability is:",
+   "o": [
+    "Vellore Citizens",
+    "M.C. Mehta (Oleum gas)",
+    "Kamal Nath",
+    "Godavarman"
+   ],
+   "a": 1,
+   "w": "It went beyond Rylands v Fletcher."
+  },
+  {
+   "q": "The EPA 1986 followed which event?",
+   "o": [
+    "Bhopal gas tragedy",
+    "Chernobyl",
+    "Minamata",
+    "Seveso"
+   ],
+   "a": 0,
+   "w": "Bhopal was in December 1984."
+  },
+  {
+   "q": "The NGT’s Principal Bench is at:",
+   "o": [
+    "Pune",
+    "Chennai",
+    "Kolkata",
+    "New Delhi"
+   ],
+   "a": 3,
+   "w": "Regional benches elsewhere."
+  },
+  {
+   "q": "The NGT aims to dispose of cases within:",
+   "o": [
+    "One year",
+    "Three months",
+    "Six months",
+    "Two years"
+   ],
+   "a": 2,
+   "w": "Of filing."
+  },
+  {
+   "q": "Public trust doctrine was applied in:",
+   "o": [
+    "Subhash Kumar",
+    "M.C. Mehta v Kamal Nath",
+    "Ranjitsinh",
+    "Lafarge"
+   ],
+   "a": 1,
+   "w": "1997 case on Beas river land."
+  },
+  {
+   "q": "The 2024 Ranjitsinh judgment linked climate to:",
+   "o": [
+    "Articles 14 and 21",
+    "Article 19",
+    "Article 32",
+    "Article 253"
+   ],
+   "a": 0,
+   "w": "A right against the adverse effects of climate change."
+  },
+  {
+   "q": "Entries 17A and 17B of the Concurrent List cover:",
+   "o": [
+    "Education",
+    "Trade unions",
+    "Marriage",
+    "Forests and wild animals"
+   ],
+   "a": 3,
+   "w": "Added by the 42nd Amendment."
+  }
+ ],
+ "sources": [
+  "Shankar IAS Environment",
+  "Laxmikanth, Indian Polity (Art. 48A, 51A(g))",
+  "MoEFCC, PRS and PIB",
+  "NGT Act 2010; Jan Vishwas Act 2023"
+ ],
+ "verified": "2026-11-10"
+}

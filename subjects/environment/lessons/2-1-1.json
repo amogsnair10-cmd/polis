@@ -1,0 +1,177 @@
+{
+ "id": "2-1-1",
+ "title": "Wetlands, Mangroves and Coral Reefs",
+ "emoji": "🪸",
+ "cards": [
+  {
+   "tag": "Why this matters",
+   "h": "Coastal and wetland ecosystems are Prelims gold",
+   "b": "<p>Ramsar sites, Montreux Record, mangroves and coral bleaching appear in nearly every Prelims. Mains asks about coastal regulation and blue carbon.</p><p>These ecosystems protect coasts, store carbon and feed millions. They are also among the most threatened.</p>"
+  },
+  {
+   "tag": "Wetlands",
+   "h": "Definition and Ramsar",
+   "b": "<p>The <b>Ramsar Convention</b> (Iran, 1971; in force 1975) is the global treaty for wetlands. It promotes <b>wise use</b>. Sites are listed under the Ramsar List. The <b>Montreux Record</b> lists sites with damaged ecology. In India it includes Keoladeo and Loktak.</p><p>World Wetlands Day is 2 February. India’s <b>Wetlands (Conservation and Management) Rules 2017</b> replaced the 2010 rules and set a State Wetland Authority.</p>"
+  },
+  {
+   "tag": "Ramsar in India",
+   "h": "As of 2026",
+   "b": "<p>India’s first Ramsar sites were <b>Chilika and Keoladeo</b> (1981). A government summary reported <b>103 Ramsar sites</b> as of October 2026, covering over 13.8 lakh hectares in 28 States and UTs (as of 2026; earlier 2026 sources show lower numbers because sites were being added).</p><p>India ranks first in Asia and third in the world by number. Tamil Nadu has the most sites. The <b>Sundarbans</b> is the largest Ramsar site in India by area.</p>"
+  },
+  {
+   "tag": "Mangroves",
+   "h": "Salt-loving forests",
+   "b": "<p>Mangroves grow in the intertidal zone. Adaptations: <b>pneumatophores</b> (breathing roots), <b>stilt roots</b>, <b>viviparity</b> (seeds germinate on the tree) and salt excretion.</p><p>They guard against cyclones and tsunamis, nurse fish and store “blue carbon.” India has roughly 5,000 sq km of mangroves (ISFR). West Bengal (Sundarbans) has the biggest share, followed by Gujarat and the Andaman and Nicobar Islands.</p>"
+  },
+  {
+   "tag": "Mangrove schemes",
+   "h": "Policy",
+   "b": "<p>Budget 2023–24 announced <b>MISHTI</b> (Mangrove Initiative for Shoreline Habitats and Tangible Incomes) and <b>Amrit Dharohar</b> for wetlands. Mangroves are protected in <b>CRZ-I</b> under the Coastal Regulation Zone rules.</p><p>The Green Credit Programme also lists mangrove restoration as an activity.</p>"
+  },
+  {
+   "tag": "Coral reefs",
+   "h": "Living limestone",
+   "b": "<p>Corals are animals (polyps) with algae called <b>zooxanthellae</b> living inside them. They give colour and food. Reefs are <b>fringing</b>, <b>barrier</b> or <b>atoll</b>.</p><p>They need warm (about 23 to 29 °C), clear, shallow, saline water. They cover under 1 percent of the ocean but support about a quarter of marine species.</p>"
+  },
+  {
+   "tag": "Coral bleaching",
+   "h": "Threat",
+   "b": "<p>When water is too warm, corals expel algae and turn white: <b>bleaching</b>. Other threats: ocean acidification, pollution, dynamite fishing and cyclones.</p><p>The world has seen a <b>fourth global bleaching event</b> since 2023, the most widespread on record. India’s reef regions are the Gulf of Mannar, Palk Bay, Gulf of Kachchh, Lakshadweep and the Andaman and Nicobar Islands.</p>"
+  },
+  {
+   "tag": "Coastal rules",
+   "h": "CRZ Notification 2019",
+   "b": "<p>The <b>Coastal Regulation Zone Notification 2019</b> replaced the 2011 rules. <b>CRZ-I</b> is ecologically sensitive (mangroves, corals; with an inter-tidal part), <b>CRZ-II</b> is built-up urban shore, <b>CRZ-III</b> is rural and undeveloped, and <b>CRZ-IV</b> covers water area up to 12 nautical miles.</p><p>Critics argue the 2019 rules allowed more building near beaches. Supporters say they help livelihoods and give clearer zones.</p>"
+  },
+  {
+   "tag": "Indian angle",
+   "h": "Examples",
+   "b": "<p><b>Chilika</b> (Odisha), <b>Loktak</b> (Manipur), <b>Sundarbans</b>, <b>Bhitarkanika</b> mangroves and <b>Gulf of Mannar</b> corals are key cases. Kolkata’s East Kolkata Wetlands treat the city’s sewage naturally.</p><p>Wetlands are lost to reclamation and encroachment in Bengaluru, Chennai and Srinagar, and floods in Chennai (2015) showed the cost.</p>"
+  },
+  {
+   "tag": "Exam lens",
+   "h": "How to answer",
+   "b": "<p><b>Mains-style:</b> “Why are wetlands called the kidneys of the landscape? What threats do Indian wetlands face?” Structure: functions; Ramsar and rules; threats (encroachment, sewage, invasives); remedies (wise use, community role, Amrit Dharohar).</p><p><b>Prelims tip:</b> Montreux Record: Keoladeo and Loktak. First Ramsar sites: Chilika and Keoladeo. Mangroves are CRZ-I. Know the five reef areas.</p>",
+   "cls": "exam"
+  }
+ ],
+ "quiz": [
+  {
+   "q": "The Ramsar Convention was adopted in:",
+   "o": [
+    "1992",
+    "1982",
+    "1971",
+    "2002"
+   ],
+   "a": 2,
+   "w": "Signed in Ramsar, Iran."
+  },
+  {
+   "q": "Which two Indian sites are on the Montreux Record?",
+   "o": [
+    "Chilika and Sundarbans",
+    "Keoladeo and Loktak",
+    "Bhitarkanika and Kolleru",
+    "Wular and Harike"
+   ],
+   "a": 1,
+   "w": "Chilika was removed from the list in 2002."
+  },
+  {
+   "q": "The largest Ramsar site in India by area is:",
+   "o": [
+    "Sundarbans",
+    "Chilika",
+    "Loktak",
+    "Vembanad"
+   ],
+   "a": 0,
+   "w": "It was listed in 2019."
+  },
+  {
+   "q": "Roots that rise above the mud in mangroves are:",
+   "o": [
+    "Stilt roots",
+    "Haustoria",
+    "Rhizoids",
+    "Pneumatophores"
+   ],
+   "a": 3,
+   "w": "They help breathing in waterlogged soil."
+  },
+  {
+   "q": "Zooxanthellae are:",
+   "o": [
+    "Fish near reefs",
+    "Mangrove seeds",
+    "Algae living in corals",
+    "Planktonic animals"
+   ],
+   "a": 2,
+   "w": "Bleaching occurs when corals expel them."
+  },
+  {
+   "q": "MISHTI is a scheme for:",
+   "o": [
+    "Solar power",
+    "Mangrove restoration",
+    "Wetland tourism",
+    "Fishing boats"
+   ],
+   "a": 1,
+   "w": "Announced in Budget 2023–24."
+  },
+  {
+   "q": "CRZ-I includes:",
+   "o": [
+    "Mangroves and corals",
+    "Built-up cities",
+    "Rural coasts",
+    "Open sea only"
+   ],
+   "a": 0,
+   "w": "It is the ecologically sensitive zone."
+  },
+  {
+   "q": "Which is not a coral reef region of India?",
+   "o": [
+    "Gulf of Mannar",
+    "Lakshadweep",
+    "Gulf of Kachchh",
+    "Chilika"
+   ],
+   "a": 3,
+   "w": "Chilika is a lagoon."
+  },
+  {
+   "q": "World Wetlands Day is on:",
+   "o": [
+    "22 March",
+    "5 June",
+    "2 February",
+    "22 April"
+   ],
+   "a": 2,
+   "w": "Marks the Ramsar signing in 1971."
+  },
+  {
+   "q": "Chilika and Keoladeo became India’s first Ramsar sites in:",
+   "o": [
+    "1971",
+    "1981",
+    "1991",
+    "2002"
+   ],
+   "a": 1,
+   "w": "India joined the convention in 1982 and listed them in 1981 in later records."
+  }
+ ],
+ "sources": [
+  "Shankar IAS Environment",
+  "NCERT Geography and Biology",
+  "MoEFCC and PIB",
+  "Ramsar Convention; PIB summary of Ramsar sites, October 2026"
+ ],
+ "verified": "2026-11-10"
+}

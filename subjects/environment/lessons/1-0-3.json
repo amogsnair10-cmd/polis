@@ -1,0 +1,178 @@
+{
+ "id": "1-0-3",
+ "title": "Wildlife Laws and Projects in India",
+ "emoji": "🐆",
+ "cards": [
+  {
+   "tag": "Why this matters",
+   "h": "Law plus projects equals half the topic",
+   "b": "<p>UPSC asks both: what the Wildlife (Protection) Act 1972 does, and what each project achieved. Cheetah, tiger, elephant and dolphin projects are in the news every year.</p><p>This lesson also uses current facts. Numbers change, so the year is marked.</p>"
+  },
+  {
+   "tag": "Wildlife (Protection) Act 1972",
+   "h": "Core features",
+   "b": "<p>The Act came after the 1972 Stockholm conference. It bans hunting (Section 9), creates protected areas, sets up Wildlife Advisory Boards, and gives schedules of protected species. Penalties are in Section 51.</p><p>India adopted a Constitutional base in 1976 (42nd Amendment): forests and wild animals moved to the Concurrent List (Entries 17A and 17B), and Article 48A and 51A(g) were added.</p>"
+  },
+  {
+   "tag": "The 2022 Amendment",
+   "h": "What changed (in force 2023)",
+   "b": "<p>The Wildlife (Protection) Amendment Act 2022 did these things: it cut the schedules from six to four; it dropped the vermin schedule; it added a schedule for <b>CITES specimens</b> and made the Centre the CITES authority; it gave power to regulate <b>invasive alien species</b>; and it allowed states to reconstitute their Wildlife Advisory Board as a Standing Committee.</p><p>It also allows <b>voluntary surrender</b> of captive wild animals and regulates elephant transfer for religious uses.</p>"
+  },
+  {
+   "tag": "Critique",
+   "h": "Gaps and concerns",
+   "b": "<p>Critics say the Amendment shifts power to the Centre and weakens oversight of captive elephants. Supporters say it brings India in line with CITES and helps curb invasives.</p><p>Enforcement is weaker than the law. The Wildlife Crime Control Bureau (2007) tackles trade, but conviction rates are low.</p>"
+  },
+  {
+   "tag": "Project Tiger",
+   "h": "The model",
+   "b": "<p><b>Project Tiger</b> began in 1973 (Corbett was first). The <b>National Tiger Conservation Authority</b> became statutory in 2006. The 2022 estimate reported at least 3,167 tigers from camera traps and a mean estimate near <b>3,682</b>, which is about 70 percent of the world’s wild tigers.</p><p>The next estimation (sixth cycle) began in 2025–26 and its report is expected in 2027. India has over 50 tiger reserves (sources differ on the exact count; check NTCA).</p>"
+  },
+  {
+   "tag": "Project Cheetah",
+   "h": "As of 2026",
+   "b": "<p>The cheetah went extinct in India in 1952. Eight Namibian cheetahs were released at <b>Kuno National Park</b> (Madhya Pradesh) on 17 September 2022. Twelve more came from South Africa in 2023. Cubs are now born in India.</p><p>As of September 2026, secondary reports count about <b>52 cheetahs</b>, including around 32 born in India, with a few at <b>Gandhi Sagar</b> sanctuary. Banni (Gujarat) and other sites are being prepared. Botswana is a new source country.</p>"
+  },
+  {
+   "tag": "Other projects",
+   "h": "Quick table",
+   "b": "<ul><li><b>Project Elephant</b> (1992): corridors and elephant reserves. The 2017 census counted 27,312 elephants. A 2025 estimate reported a lower number (about 22,000; check).</li><li><b>Project Snow Leopard</b> (2009) and the SECURE Himalaya programme.</li><li><b>Project Dolphin</b> (announced 2020) for river and ocean dolphins.</li><li><b>Crocodile Conservation Project</b> (1975) and gharial work in the Chambal.</li><li><b>Project Lion</b> for Gujarat’s Asiatic lions; a 2025 count reported about 890 lions.</li></ul>"
+  },
+  {
+   "tag": "Debate",
+   "h": "Is translocation worth it?",
+   "b": "<p>Cheetah supporters say it restores a grassland predator and funds grasslands. Critics say India lacks enough open space, deaths were high in early years, and money would be better spent on the Great Indian Bustard or caracal.</p><p>The Supreme Court monitored the project and asked for more sites. The same question applies to tiger relocation: how many animals can the land hold?</p>"
+  },
+  {
+   "tag": "Indian angle",
+   "h": "Related laws",
+   "b": "<p>Related laws: <b>Forest Conservation Act 1980</b> (now renamed Van (Sanrakshan Evam Samvardhan) Adhiniyam after the 2023 amendment), <b>Forest Rights Act 2006</b>, <b>Biological Diversity Act 2002</b> and the <b>Environment Protection Act 1986</b>.</p><p>The Supreme Court’s <b>M.K. Ranjitsinh v Union of India (2024)</b> case, on the Great Indian Bustard, recognised a right against the adverse effects of climate change under Articles 14 and 21.</p>"
+  },
+  {
+   "tag": "Exam lens",
+   "h": "How to answer",
+   "b": "<p><b>Mains-style:</b> “Evaluate the Wildlife (Protection) Amendment Act 2022. Does it strengthen conservation?” Structure: key changes; positives (CITES, invasives, rationalised schedules); negatives (centralisation, captive animals, enforcement); way forward.</p><p><b>Mains-style:</b> “Project Cheetah: success or experiment? Discuss.”</p><p><b>Prelims tip:</b> The 2022 Act cut schedules from six to four. Kuno is in Madhya Pradesh. NTCA is statutory since 2006.</p>",
+   "cls": "exam"
+  }
+ ],
+ "quiz": [
+  {
+   "q": "The Wildlife (Protection) Act was passed in:",
+   "o": [
+    "1980",
+    "1986",
+    "2002",
+    "1972"
+   ],
+   "a": 3,
+   "w": "The WPA is from 1972."
+  },
+  {
+   "q": "The 2022 Amendment reduced the number of Schedules from:",
+   "o": [
+    "Seven to five",
+    "Four to two",
+    "Six to four",
+    "Six to three"
+   ],
+   "a": 2,
+   "w": "It dropped vermin and added a CITES schedule."
+  },
+  {
+   "q": "Project Cheetah’s first release site was:",
+   "o": [
+    "Gir",
+    "Kuno National Park",
+    "Ranthambhore",
+    "Banni grassland"
+   ],
+   "a": 1,
+   "w": "Namibian cheetahs were released at Kuno in September 2022."
+  },
+  {
+   "q": "Project Tiger was launched in:",
+   "o": [
+    "1973",
+    "1972",
+    "1992",
+    "2006"
+   ],
+   "a": 0,
+   "w": "Corbett National Park was the first reserve."
+  },
+  {
+   "q": "NTCA became a statutory body in:",
+   "o": [
+    "1973",
+    "1992",
+    "2002",
+    "2006"
+   ],
+   "a": 3,
+   "w": "The 2006 amendment gave it legal status."
+  },
+  {
+   "q": "Project Elephant began in:",
+   "o": [
+    "1973",
+    "2009",
+    "1992",
+    "2020"
+   ],
+   "a": 2,
+   "w": "It was started in 1992."
+  },
+  {
+   "q": "Hunting is prohibited under which Section of the WPA?",
+   "o": [
+    "Section 35",
+    "Section 9",
+    "Section 51",
+    "Section 38V"
+   ],
+   "a": 1,
+   "w": "Section 9 bans hunting; Section 51 is penalties."
+  },
+  {
+   "q": "Entries on forests and wild animals were moved to the Concurrent List by the:",
+   "o": [
+    "42nd Amendment",
+    "44th Amendment",
+    "73rd Amendment",
+    "61st Amendment"
+   ],
+   "a": 0,
+   "w": "The 1976 amendment moved them (Entries 17A and 17B)."
+  },
+  {
+   "q": "The Wildlife Crime Control Bureau was set up in:",
+   "o": [
+    "1992",
+    "1973",
+    "2015",
+    "2007"
+   ],
+   "a": 3,
+   "w": "It combats organised wildlife crime."
+  },
+  {
+   "q": "The 2024 M.K. Ranjitsinh judgment concerned which species?",
+   "o": [
+    "Gharial",
+    "Snow leopard",
+    "Great Indian Bustard",
+    "Asiatic lion"
+   ],
+   "a": 2,
+   "w": "The Court also linked climate rights to Articles 14 and 21."
+  }
+ ],
+ "sources": [
+  "Shankar IAS Environment",
+  "NCERT Biology Class XII",
+  "MoEFCC and PIB",
+  "PRS Legislative Research: Wildlife (Protection) Amendment Bill 2021",
+  "Project Cheetah status reports, 2026 (secondary sources)"
+ ],
+ "verified": "2026-11-10"
+}

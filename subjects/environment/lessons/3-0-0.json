@@ -1,0 +1,177 @@
+{
+ "id": "3-0-0",
+ "title": "Climate Change: Science and the Greenhouse Effect",
+ "emoji": "🌡️",
+ "cards": [
+  {
+   "tag": "Why this matters",
+   "h": "The spine of the syllabus",
+   "b": "<p>Climate change links to agriculture, water, energy, security and diplomacy. UPSC asks the science in Prelims and the policy in Mains. A sound base here makes the next eight lessons easy.</p><p>Always use the latest numbers and date them.</p>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "The natural greenhouse effect",
+   "b": "<p>Sunlight warms Earth. Earth sends heat back as long-wave radiation. <b>Greenhouse gases</b> absorb some of it and re-emit it, keeping the planet about 33 °C warmer than it would be. This is natural and needed for life.</p><p>The problem is the <b>enhanced greenhouse effect</b>: humans have added gases since the industrial era.</p><svg class='d' viewBox='0 0 320 210' role='img' aria-label='Greenhouse effect'>\n<defs><marker id='gha' markerWidth='8' markerHeight='8' refX='6' refY='4' orient='auto'><path d='M0,0 L8,4 L0,8 z' fill='#a8792a'/></marker><marker id='ghb' markerWidth='8' markerHeight='8' refX='6' refY='4' orient='auto'><path d='M0,0 L8,4 L0,8 z' fill='#a3362a'/></marker></defs>\n<rect x='10' y='8' width='300' height='36' fill='#f1e4c6' stroke='#a8792a'/><text x='160' y='30' font-size='11' text-anchor='middle' fill='#1d2433'>Sun: short-wave radiation in</text>\n<rect x='10' y='76' width='300' height='28' fill='#dceaec' stroke='#2f6f7a'/><text x='160' y='94' font-size='11' text-anchor='middle' fill='#1d2433'>Greenhouse gases: CO2, CH4, N2O, water vapour</text>\n<rect x='10' y='160' width='300' height='36' fill='#f4dcd5' stroke='#a3362a'/><text x='160' y='182' font-size='11' text-anchor='middle' fill='#1d2433'>Earth warms, sends out long-wave heat</text>\n<line x1='80' y1='46' x2='80' y2='156' stroke='#a8792a' stroke-width='2' marker-end='url(#gha)'/>\n<line x1='240' y1='156' x2='240' y2='108' stroke='#a3362a' stroke-width='2' marker-end='url(#ghb)'/>\n<text x='250' y='132' font-size='10' fill='#a3362a'>trapped, re-emitted</text></svg>"
+  },
+  {
+   "tag": "The gases",
+   "h": "GWP and the Kyoto six",
+   "b": "<p>The six Kyoto gases are CO2, methane (CH4), nitrous oxide (N2O), HFCs, PFCs and SF6. <b>Global warming potential (GWP)</b> compares them with CO2 (GWP 1). Methane is about 28 times over 100 years but lasts only about a decade. N2O is about 270 times. SF6 is over 23,000 times.</p><p>Water vapour is the biggest natural greenhouse gas but responds to temperature rather than driving it. Black carbon is a short-lived warming agent, not a gas.</p>"
+  },
+  {
+   "tag": "Evidence",
+   "h": "The numbers",
+   "b": "<p>The <b>IPCC</b> (set up in 1988 by WMO and UNEP) reported in its <b>Sixth Assessment (2021–23)</b> that human activity has warmed the planet by about <b>1.1 °C</b> above 1850–1900 levels. CO2 now stands above 420 ppm versus about 280 before industry (as of 2025).</p><p>The World Meteorological Organization said 2024 was the first calendar year above 1.5 °C. A single year above 1.5 °C is not the same as the Paris long-term target, which is measured over decades. Sea level rose about 20 cm between 1901 and 2018.</p>"
+  },
+  {
+   "tag": "Feedbacks",
+   "h": "Why warming can speed up",
+   "b": "<p><b>Ice-albedo feedback</b>: melting ice exposes dark sea or land, which absorbs more heat. <b>Permafrost thaw</b> releases methane. Warmer oceans hold less CO2. These loops can push the climate past <b>tipping points</b> such as ice-sheet collapse or Amazon dieback.</p><p><b>Ocean acidification</b> is a related effect: dissolved CO2 lowers pH and harms corals and shellfish.</p>"
+  },
+  {
+   "tag": "Natural variation",
+   "h": "El Niño, La Niña, IOD",
+   "b": "<p><b>El Niño</b> warms the eastern Pacific and usually weakens the Indian monsoon. <b>La Niña</b> is the cool phase and usually helps it. The <b>Indian Ocean Dipole</b> can offset El Niño when positive. These cycles cause year-to-year swings; climate change is the long-term trend.</p><p>India’s monsoon forecasts depend on these links.</p>"
+  },
+  {
+   "tag": "Who emits",
+   "h": "Responsibility",
+   "b": "<p>China, the US and India are the top three emitters in recent years in absolute terms. India’s per capita emissions are about half the world average, and its cumulative share is small (under 5 percent).</p><p>This is the basis of <b>common but differentiated responsibilities</b> (CBDR-RC): historic emitters should lead.</p>"
+  },
+  {
+   "tag": "Debate",
+   "h": "Mitigation or adaptation, and who pays",
+   "b": "<p>Developed countries stress cutting emissions everywhere. Developing countries stress adaptation, finance and the right to develop. Some scientists urge carbon removal and geoengineering; others warn of moral hazard.</p><p>The carbon budget idea gives a fixed amount of CO2 left for a temperature target. Fair shares are the core of the dispute.</p>"
+  },
+  {
+   "tag": "Indian angle",
+   "h": "India’s position",
+   "b": "<p>India is highly exposed to heat, floods, monsoon swings and sea-level rise. It has set a <b>net-zero target for 2070</b> and stresses equity and climate justice.</p><p>India is not part of the Global Methane Pledge (2021, 30 percent cut by 2030), citing livestock and rice methane tied to livelihoods.</p>"
+  },
+  {
+   "tag": "Exam lens",
+   "h": "How to answer",
+   "b": "<p><b>Mains-style:</b> “Explain the greenhouse effect and the evidence for human-induced climate change. Why is India vulnerable?” Structure: mechanism; gases and GWP; IPCC numbers (dated); India’s exposure; two responses.</p><p><b>Prelims tip:</b> Kyoto has six gases. Methane has higher GWP but shorter life than CO2. IPCC founded 1988. El Niño usually weakens the monsoon.</p>",
+   "cls": "exam"
+  }
+ ],
+ "quiz": [
+  {
+   "q": "The IPCC was set up in:",
+   "o": [
+    "1988",
+    "1992",
+    "1972",
+    "2007"
+   ],
+   "a": 0,
+   "w": "By WMO and UNEP."
+  },
+  {
+   "q": "Which is not a Kyoto Protocol gas?",
+   "o": [
+    "Methane",
+    "SF6",
+    "Nitrous oxide",
+    "Water vapour"
+   ],
+   "a": 3,
+   "w": "Water vapour is natural and not counted under Kyoto."
+  },
+  {
+   "q": "Which gas has the highest GWP among these?",
+   "o": [
+    "CO2",
+    "CH4",
+    "SF6",
+    "N2O"
+   ],
+   "a": 2,
+   "w": "SF6 has a GWP above 23,000."
+  },
+  {
+   "q": "Global warming so far (AR6) is about:",
+   "o": [
+    "0.2 °C",
+    "1.1 °C",
+    "2.5 °C",
+    "3.0 °C"
+   ],
+   "a": 1,
+   "w": "Compared with 1850–1900."
+  },
+  {
+   "q": "El Niño generally causes the Indian monsoon to:",
+   "o": [
+    "Weaken",
+    "Strengthen",
+    "Shift to winter",
+    "Have no effect"
+   ],
+   "a": 0,
+   "w": "It often leads to deficient rain."
+  },
+  {
+   "q": "The ice-albedo feedback happens when:",
+   "o": [
+    "Clouds cool the planet",
+    "Forests grow",
+    "Oceans freeze",
+    "Melting ice exposes darker surfaces"
+   ],
+   "a": 3,
+   "w": "Dark surfaces absorb more heat."
+  },
+  {
+   "q": "India’s net-zero target year is:",
+   "o": [
+    "2050",
+    "2060",
+    "2070",
+    "2047"
+   ],
+   "a": 2,
+   "w": "Announced at COP26, Glasgow."
+  },
+  {
+   "q": "Ocean acidification is caused by:",
+   "o": [
+    "Oil spills",
+    "Dissolved CO2",
+    "Plastic",
+    "Sewage"
+   ],
+   "a": 1,
+   "w": "CO2 makes carbonic acid in seawater."
+  },
+  {
+   "q": "CBDR-RC stands for:",
+   "o": [
+    "Common but differentiated responsibilities and respective capabilities",
+    "Carbon budget and development rights",
+    "Clean energy by rich countries",
+    "Climate balance and renewable commitments"
+   ],
+   "a": 0,
+   "w": "A core principle of the UNFCCC."
+  },
+  {
+   "q": "India has not joined which 2021 initiative?",
+   "o": [
+    "Panchamrit",
+    "International Solar Alliance",
+    "CDRI",
+    "Global Methane Pledge"
+   ],
+   "a": 3,
+   "w": "India said methane from agriculture is tied to livelihoods."
+  }
+ ],
+ "sources": [
+  "Shankar IAS Environment",
+  "NCERT Geography and Biology",
+  "MoEFCC and PIB",
+  "IPCC AR6 Synthesis Report 2023; WMO State of the Climate 2024"
+ ],
+ "verified": "2026-11-10"
+}

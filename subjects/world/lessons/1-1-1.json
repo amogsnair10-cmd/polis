@@ -1,0 +1,169 @@
+{
+ "id": "1-1-1",
+ "title": "The Phoenicians and the Alphabet",
+ "emoji": "⚓",
+ "cards": [
+  {
+   "tag": "Why this matters",
+   "h": "A tiny people who sold purple, sailed everywhere and gave us ABC",
+   "b": "<p>Phoenicia was a string of port cities on the coast of today's Lebanon: Tyre, Sidon, Byblos. No big empire. Just clever merchants with fast ships.</p><p>Their greatest export was not a thing you could hold. It was a way of writing.</p>"
+  },
+  {
+   "tag": "The story",
+   "h": "The purple people",
+   "b": "<p>Phoenicians made a dye from the <b>murex sea snail</b>. It took thousands of snails to dye one garment. The colour, Tyrian purple, became the mark of kings and later of Roman emperors.</p><p>The Greek name <i>Phoinikes</i> may come from the word for 'red' or 'purple'. The Phoenicians called themselves after their cities.</p>"
+  },
+  {
+   "tag": "The turning point",
+   "h": "The alphabet",
+   "b": "<p>Before this, writing needed hundreds of signs (cuneiform, hieroglyphs). The Phoenician script had just <b>22 letters</b>, each standing for a consonant. Anyone could learn it in days.</p><p>It developed about 1050 BCE from earlier scripts used by Semitic speakers in Egypt and Canaan (the Proto-Sinaitic script, about 1800 BCE).</p>"
+  },
+  {
+   "tag": "The twist",
+   "h": "Greeks added the vowels",
+   "b": "<svg class=\"d\" viewBox=\"0 0 320 130\"><rect x=\"90\" y=\"4\" width=\"140\" height=\"30\" rx=\"6\" fill=\"#f1e4c6\" stroke=\"#a8792a\"/><text x=\"160\" y=\"23\" font-size=\"11\" font-weight=\"700\" text-anchor=\"middle\" fill=\"#1d2433\">Phoenician alphabet</text><line x1=\"160\" y1=\"34\" x2=\"160\" y2=\"60\" stroke=\"#5d6474\"/><line x1=\"82.0\" y1=\"60\" x2=\"238.0\" y2=\"60\" stroke=\"#5d6474\"/><line x1=\"82.0\" y1=\"60\" x2=\"82.0\" y2=\"78\" stroke=\"#5d6474\"/><rect x=\"8.0\" y=\"78\" width=\"148.0\" height=\"44\" rx=\"6\" fill=\"#dceaec\" stroke=\"#2f6f7a\"/><text x=\"82.0\" y=\"96\" font-size=\"10\" text-anchor=\"middle\" fill=\"#1d2433\">Greek</text><text x=\"82.0\" y=\"110\" font-size=\"10\" text-anchor=\"middle\" fill=\"#1d2433\">→ Latin, Cyrillic</text><line x1=\"238.0\" y1=\"60\" x2=\"238.0\" y2=\"78\" stroke=\"#5d6474\"/><rect x=\"164.0\" y=\"78\" width=\"148.0\" height=\"44\" rx=\"6\" fill=\"#dceaec\" stroke=\"#2f6f7a\"/><text x=\"238.0\" y=\"96\" font-size=\"10\" text-anchor=\"middle\" fill=\"#1d2433\">Aramaic</text><text x=\"238.0\" y=\"110\" font-size=\"10\" text-anchor=\"middle\" fill=\"#1d2433\">→ Hebrew, Arabic</text></svg><p>About 800 BCE the Greeks borrowed it and used some letters for vowels. The first two letters, <i>aleph</i> and <i>beth</i>, became <i>alpha</i> and <i>beta</i>, giving us the word 'alphabet'.</p>"
+  },
+  {
+   "tag": "The story",
+   "h": "Sailors and colonists",
+   "b": "<p>Phoenician ships went across the Mediterranean and out to Spain and Atlantic Africa. They founded Cadiz in Spain and <b>Carthage</b> in North Africa. Tradition says Carthage was founded about 814 BCE by Queen <b>Dido</b>, who fled from Tyre. Dido is a legend; Carthage is real.</p><p>Herodotus said a Phoenician crew sailed round Africa for the Egyptian Pharaoh Necho II (around 600 BCE). Historians still debate whether that happened.</p>"
+  },
+  {
+   "tag": "The story",
+   "h": "The Carthage chapter",
+   "b": "<p>Carthage grew into a mighty sea power. It fought three wars against Rome, the <b>Punic Wars</b> (264-146 BCE). The great general <b>Hannibal</b> crossed the Alps with elephants in 218 BCE.</p><p>In 146 BCE, Rome destroyed Carthage. 'Punic' is simply the Latin word for Phoenician.</p>"
+  },
+  {
+   "tag": "Myth vs fact",
+   "h": "Did the Romans pour salt on Carthage?",
+   "b": "<b>Myth:</b> Rome sowed Carthage's fields with salt so nothing would grow.<b>Fact:</b> there is no ancient source for it. The salt story appears in the 19th and 20th centuries. Rome did destroy the city and enslave its people, which is bad enough without the legend."
+  },
+  {
+   "tag": "Indian angle",
+   "h": "Meanwhile in India…",
+   "b": "<p>How did India get its scripts?</p>"
+  },
+  {
+   "tag": "Recap",
+   "h": "Five takeaways, two puzzles",
+   "b": "<p><b>Five things to remember</b></p><ol><li>Phoenicia was a group of port cities, mostly in today's Lebanon.</li><li>The 22-letter alphabet was easy to learn.</li><li>Greeks added vowels.</li><li>Carthage was a Phoenician colony.</li><li>Brahmi's origins are debated; Kharosthi came from Aramaic.</li></ol><p><b>Think about it</b></p><ul><li>Why would a simple alphabet change who can read?</li><li>What do Dido and Hannibal tell us about how Carthage was remembered?</li></ul>",
+   "cls": "exam"
+  }
+ ],
+ "quiz": [
+  {
+   "q": "The Phoenician alphabet had...",
+   "o": [
+    "50 vowels",
+    "600 signs",
+    "22 consonant letters",
+    "26 letters"
+   ],
+   "a": 2,
+   "w": "No vowels."
+  },
+  {
+   "q": "Tyrian purple came from...",
+   "o": [
+    "A sea snail",
+    "A flower",
+    "A mineral",
+    "A beetle"
+   ],
+   "a": 0,
+   "w": "The murex."
+  },
+  {
+   "q": "Who added vowels to the alphabet?",
+   "o": [
+    "The Romans",
+    "The Egyptians",
+    "The Indians",
+    "The Greeks"
+   ],
+   "a": 3,
+   "w": "About 800 BCE."
+  },
+  {
+   "q": "'Alphabet' comes from...",
+   "o": [
+    "Aleph and omega",
+    "Alpha and beta",
+    "A and Z",
+    "Alef and tau"
+   ],
+   "a": 1,
+   "w": "Greek names for the first letters."
+  },
+  {
+   "q": "Carthage was traditionally founded by...",
+   "o": [
+    "Dido",
+    "Hannibal",
+    "Alexander",
+    "Sargon"
+   ],
+   "a": 0,
+   "w": "A legendary queen from Tyre."
+  },
+  {
+   "q": "The Punic Wars were between Rome and...",
+   "o": [
+    "Persia",
+    "Egypt",
+    "Athens",
+    "Carthage"
+   ],
+   "a": 3,
+   "w": "264-146 BCE."
+  },
+  {
+   "q": "Hannibal crossed...",
+   "o": [
+    "The Himalayas",
+    "The Alps",
+    "The Andes",
+    "The Sahara"
+   ],
+   "a": 1,
+   "w": "In 218 BCE."
+  },
+  {
+   "q": "Did Rome salt Carthage's fields?",
+   "o": [
+    "Yes, Livy wrote it",
+    "Yes, Polybius saw it",
+    "No ancient source says so",
+    "Yes, as proven"
+   ],
+   "a": 2,
+   "w": "A later legend."
+  },
+  {
+   "q": "Kharosthi came from...",
+   "o": [
+    "Greek",
+    "Chinese",
+    "Cuneiform",
+    "Aramaic"
+   ],
+   "a": 3,
+   "w": "Used in Ashoka's north-west edicts."
+  },
+  {
+   "q": "Brahmi's origin is...",
+   "o": [
+    "Debated",
+    "Settled as Greek",
+    "Settled as Egyptian",
+    "Settled as Chinese"
+   ],
+   "a": 0,
+   "w": "Scholars disagree."
+  }
+ ],
+ "sources": [
+  "Woodard, ed., The Ancient Languages of Syria-Palestine and Arabia; Markoe, The Phoenicians (2000); Salomon, Indian Epigraphy (1998); Herodotus 4.42"
+ ],
+ "verified": "2026-11-10"
+}

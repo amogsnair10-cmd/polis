@@ -1,0 +1,171 @@
+{
+ "id": "5-0-2",
+ "title": "Nationalism: Unification of Italy and Germany",
+ "emoji": "🇮🇹",
+ "cards": [
+  {
+   "tag": "Why this matters",
+   "h": "Making nation-states",
+   "b": "<p>The nationalism that Europe’s revolutions spread made new states in 1861 and 1871. UPSC asks for the role of leaders and methods, and for comparisons.</p>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "After Vienna",
+   "b": "<p>The Congress of Vienna (1815) split Italy into states under Austria and the Bourbons; Germany became a 39-state German Confederation led by Austria. Liberal and national movements rose: revolutions of 1830 and <b>1848</b> (the “spring of nations”). They mostly failed, but the idea of a nation had taken root.</p>"
+  },
+  {
+   "tag": "Key idea",
+   "h": "Italy: the thinkers",
+   "b": "<b>Giuseppe Mazzini</b> founded the Carbonari-era Young Italy (1831) and wanted a republic. <b>Cavour</b>, prime minister of Piedmont-Sardinia under King Victor Emmanuel II, wanted a monarchy through diplomacy. <b>Garibaldi</b> led the Red Shirts. Austria was the main enemy. The Risorgimento (resurgence) was both ideas and war."
+  },
+  {
+   "tag": "Key event",
+   "h": "Italy: the steps",
+   "b": "<ul><li>1859: Cavour allied with Napoleon III against Austria (Plombières, 1858); Lombardy gained.</li><li>1860: Garibaldi’s thousand Red Shirts took Sicily and Naples.</li><li>1861: Kingdom of Italy proclaimed; Victor Emmanuel II king.</li><li>1866: Venetia (after the Austro-Prussian war).</li><li>1870: Rome taken when French troops withdrew.</li></ul>"
+  },
+  {
+   "tag": "Key idea",
+   "h": "Germany: the route",
+   "b": "<b>Zollverein</b> (1834): a customs union led by Prussia. <b>Bismarck</b> (minister-president from 1862): “blood and iron”, <i>Realpolitik</i>. Wars: against Denmark (1864; Schleswig-Holstein), Austria (1866, Sadowa/Königgrätz; the North German Confederation), France (1870 to 71, Sedan). On 18 January 1871 William I was proclaimed German emperor at Versailles."
+  },
+  {
+   "tag": "Core idea",
+   "h": "The 1871 empire",
+   "b": "<p>A federal empire with a strong Prussian king, a Reichstag elected by universal male suffrage and a chancellor who answered to the emperor. Bismarck’s later policy: Kulturkampf against Catholics, anti-socialist laws and welfare, alliance system (Three Emperors’ League, Triple Alliance 1882), Berlin Congress (1878) and conference (1884 to 85). He was dismissed by William II in 1890.</p>"
+  },
+  {
+   "tag": "Debate",
+   "h": "Idea or power?",
+   "b": "<p>Italy was made by diplomacy and foreign help more than people’s rising; Germany by Prussian power. A. J. P. Taylor (<i>The Struggle for Mastery in Europe</i>) saw Bismarck as an opportunist. Historians such as Hans-Ulrich Wehler see “top-down” unification. Liberals thought unity meant freedom; instead it meant strong states.</p>"
+  },
+  {
+   "tag": "Indian angle",
+   "h": "Why it matters today",
+   "b": "<p>Indian leaders in the 1900s drew on Mazzini; Savarkar translated Mazzini’s writings; Tilak and the Extremists admired Garibaldi. India’s integration of princely states in 1947 (Patel as the “Bismarck of India”) is often compared. Debates on nationalism, federalism and diversity in a union echo the German model.</p>"
+  },
+  {
+   "tag": "Exam lens",
+   "h": "How to answer",
+   "b": "<ul><li>“Compare the unification of Italy and Germany.” Table: leaders, methods, states, outcome.</li><li>“Role of Bismarck.”</li><li>Prelims tip: Zollverein 1834; Italy 1861; Rome 1870; Sedan 1870; German Empire proclaimed 1871 at Versailles.</li></ul>",
+   "cls": "exam"
+  }
+ ],
+ "quiz": [
+  {
+   "q": "Young Italy was founded by",
+   "o": [
+    "Cavour",
+    "Mazzini",
+    "Garibaldi",
+    "Victor Emmanuel II"
+   ],
+   "a": 1,
+   "w": "In 1831."
+  },
+  {
+   "q": "The architect of Italian unification through diplomacy was",
+   "o": [
+    "Cavour",
+    "Mazzini",
+    "Garibaldi",
+    "Metternich"
+   ],
+   "a": 0,
+   "w": "Prime minister of Piedmont-Sardinia."
+  },
+  {
+   "q": "Garibaldi’s followers were called",
+   "o": [
+    "Carbonari",
+    "Blackshirts",
+    "Jacobins",
+    "The Red Shirts"
+   ],
+   "a": 3,
+   "w": "They took Sicily and Naples in 1860."
+  },
+  {
+   "q": "The Kingdom of Italy was proclaimed in",
+   "o": [
+    "1848",
+    "1870",
+    "1861",
+    "1815"
+   ],
+   "a": 2,
+   "w": "Victor Emmanuel II became king."
+  },
+  {
+   "q": "Rome joined Italy in",
+   "o": [
+    "1861",
+    "1870",
+    "1866",
+    "1859"
+   ],
+   "a": 1,
+   "w": "After the French withdrew."
+  },
+  {
+   "q": "The Zollverein of 1834 was",
+   "o": [
+    "A Prussian-led customs union",
+    "A military pact",
+    "A constitution",
+    "A treaty with France"
+   ],
+   "a": 0,
+   "w": "It prepared economic unity."
+  },
+  {
+   "q": "Bismarck’s policy is called",
+   "o": [
+    "Laissez-faire",
+    "Non-alignment",
+    "Appeasement",
+    "Blood and iron"
+   ],
+   "a": 3,
+   "w": "Realpolitik."
+  },
+  {
+   "q": "The Franco-Prussian war ended with defeat at",
+   "o": [
+    "Waterloo",
+    "Sadowa",
+    "Sedan",
+    "Leipzig"
+   ],
+   "a": 2,
+   "w": "Napoleon III was captured."
+  },
+  {
+   "q": "The German Empire was proclaimed at",
+   "o": [
+    "Berlin in 1866",
+    "Versailles in 1871",
+    "Vienna in 1815",
+    "Frankfurt in 1848"
+   ],
+   "a": 1,
+   "w": "William I became emperor."
+  },
+  {
+   "q": "Prussia defeated Austria in 1866 at",
+   "o": [
+    "Sadowa (Königgrätz)",
+    "Sedan",
+    "Solferino",
+    "Novara"
+   ],
+   "a": 0,
+   "w": "Austria’s exclusion from Germany followed."
+  }
+ ],
+ "sources": [
+  "Norman Lowe, Mastering Modern World History",
+  "NCERT Class X, India and the Contemporary World I",
+  "A. J. P. Taylor"
+ ],
+ "verified": "2026-11-10"
+}

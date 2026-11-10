@@ -1,0 +1,176 @@
+{
+ "id": "1-2-0",
+ "title": "Agriculture: Cropping Patterns and Irrigation",
+ "emoji": "🌾",
+ "cards": [
+  {
+   "tag": "Why this matters",
+   "h": "Farming employs nearly half of India",
+   "b": "<p>Agriculture and allied sectors employ about 46% of workers but give about 18% of GVA (as of recent years). So farm policy is a big political economy issue. UPSC mixes geography (where, why) with policy (MSP, irrigation, diversification).</p>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "Farming types and seasons",
+   "b": "<svg class=\"d\" viewBox=\"0 0 320 128\"><rect x=\"10\" y=\"6\" width=\"55\" height=\"26\" rx=\"6\" fill=\"#f1e4c6\" stroke=\"#a8792a\" stroke-width=\"1.5\"/><text x=\"37.5\" y=\"23\" fill=\"#7d5a1c\" font-size=\"11\" text-anchor=\"middle\" font-weight=\"700\">Season</text><rect x=\"65\" y=\"6\" width=\"95\" height=\"26\" rx=\"6\" fill=\"#f1e4c6\" stroke=\"#a8792a\" stroke-width=\"1.5\"/><text x=\"112.5\" y=\"23\" fill=\"#7d5a1c\" font-size=\"11\" text-anchor=\"middle\" font-weight=\"700\">Sown-Harvest</text><rect x=\"160\" y=\"6\" width=\"150\" height=\"26\" rx=\"6\" fill=\"#f1e4c6\" stroke=\"#a8792a\" stroke-width=\"1.5\"/><text x=\"235.0\" y=\"23\" fill=\"#7d5a1c\" font-size=\"11\" text-anchor=\"middle\" font-weight=\"700\">Main crops</text><rect x=\"10\" y=\"32\" width=\"55\" height=\"30\" rx=\"0\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"37.5\" y=\"51\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\" font-weight=\"700\">Kharif</text><rect x=\"65\" y=\"32\" width=\"95\" height=\"30\" rx=\"0\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"112.5\" y=\"51\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\">Jun-Jul to Sep-Oct</text><rect x=\"160\" y=\"32\" width=\"150\" height=\"30\" rx=\"0\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"235.0\" y=\"51\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\">Rice, maize, cotton, jowar, bajra, soyabean</text><rect x=\"10\" y=\"62\" width=\"55\" height=\"30\" rx=\"0\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"37.5\" y=\"81\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\" font-weight=\"700\">Rabi</text><rect x=\"65\" y=\"62\" width=\"95\" height=\"30\" rx=\"0\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"112.5\" y=\"81\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\">Oct-Dec to Mar-Apr</text><rect x=\"160\" y=\"62\" width=\"150\" height=\"30\" rx=\"0\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"235.0\" y=\"81\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\">Wheat, barley, gram, mustard</text><rect x=\"10\" y=\"92\" width=\"55\" height=\"30\" rx=\"0\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"37.5\" y=\"111\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\" font-weight=\"700\">Zaid</text><rect x=\"65\" y=\"92\" width=\"95\" height=\"30\" rx=\"0\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"112.5\" y=\"111\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\">Mar to Jun</text><rect x=\"160\" y=\"92\" width=\"150\" height=\"30\" rx=\"0\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"235.0\" y=\"111\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\">Watermelon, cucumber, fodder</text></svg><p>Types: <b>subsistence</b>, <b>commercial</b>, <b>plantation</b> (tea, coffee, rubber), <b>shifting</b> (jhum in the Northeast), <b>dry farming</b> in under 75 cm rain regions, and <b>intensive</b> farming in the plains.</p>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "Main crops and where they grow",
+   "b": "<svg class=\"d\" viewBox=\"0 0 320 188\"><rect x=\"10\" y=\"6\" width=\"65\" height=\"26\" rx=\"6\" fill=\"#f1e4c6\" stroke=\"#a8792a\" stroke-width=\"1.5\"/><text x=\"42.5\" y=\"23\" fill=\"#7d5a1c\" font-size=\"11\" text-anchor=\"middle\" font-weight=\"700\">Crop</text><rect x=\"75\" y=\"6\" width=\"125\" height=\"26\" rx=\"6\" fill=\"#f1e4c6\" stroke=\"#a8792a\" stroke-width=\"1.5\"/><text x=\"137.5\" y=\"23\" fill=\"#7d5a1c\" font-size=\"11\" text-anchor=\"middle\" font-weight=\"700\">Needs</text><rect x=\"200\" y=\"6\" width=\"110\" height=\"26\" rx=\"6\" fill=\"#f1e4c6\" stroke=\"#a8792a\" stroke-width=\"1.5\"/><text x=\"255.0\" y=\"23\" fill=\"#7d5a1c\" font-size=\"11\" text-anchor=\"middle\" font-weight=\"700\">Top states</text><rect x=\"10\" y=\"32\" width=\"65\" height=\"30\" rx=\"0\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"42.5\" y=\"51\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\" font-weight=\"700\">Rice</text><rect x=\"75\" y=\"32\" width=\"125\" height=\"30\" rx=\"0\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"137.5\" y=\"51\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\">25 C, 100+ cm rain</text><rect x=\"200\" y=\"32\" width=\"110\" height=\"30\" rx=\"0\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"255.0\" y=\"51\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\">WB, UP, Punjab</text><rect x=\"10\" y=\"62\" width=\"65\" height=\"30\" rx=\"0\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"42.5\" y=\"81\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\" font-weight=\"700\">Wheat</text><rect x=\"75\" y=\"62\" width=\"125\" height=\"30\" rx=\"0\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"137.5\" y=\"81\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\">Cool, 50-75 cm rain</text><rect x=\"200\" y=\"62\" width=\"110\" height=\"30\" rx=\"0\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"255.0\" y=\"81\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\">UP, MP, Punjab</text><rect x=\"10\" y=\"92\" width=\"65\" height=\"30\" rx=\"0\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"42.5\" y=\"111\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\" font-weight=\"700\">Cotton</text><rect x=\"75\" y=\"92\" width=\"125\" height=\"30\" rx=\"0\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"137.5\" y=\"111\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\">Black soil, 21-30 C</text><rect x=\"200\" y=\"92\" width=\"110\" height=\"30\" rx=\"0\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"255.0\" y=\"111\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\">Gujarat, Maharashtra</text><rect x=\"10\" y=\"122\" width=\"65\" height=\"30\" rx=\"0\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"42.5\" y=\"141\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\" font-weight=\"700\">Sugarcane</text><rect x=\"75\" y=\"122\" width=\"125\" height=\"30\" rx=\"0\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"137.5\" y=\"141\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\">Hot, wet, 75-150 cm</text><rect x=\"200\" y=\"122\" width=\"110\" height=\"30\" rx=\"0\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"255.0\" y=\"141\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\">UP, Maharashtra</text><rect x=\"10\" y=\"152\" width=\"65\" height=\"30\" rx=\"0\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"42.5\" y=\"171\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\" font-weight=\"700\">Tea</text><rect x=\"75\" y=\"152\" width=\"125\" height=\"30\" rx=\"0\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"137.5\" y=\"171\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\">Hill slopes, 150 cm</text><rect x=\"200\" y=\"152\" width=\"110\" height=\"30\" rx=\"0\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"255.0\" y=\"171\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\">Assam, WB, Kerala</text></svg><p>Crops follow rainfall, temperature and soil. <b>Rice</b> is the staple of the east and south. <b>Wheat</b> dominates the north-west. <b>Millets</b> (shree anna) grow in dry regions; 2023 was the International Year of Millets.</p>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "Cash and plantation crops",
+   "b": "<p><b>Cotton</b> and <b>jute</b> are fibres; jute grows in the Ganga-Brahmaputra delta of West Bengal. <b>Sugarcane</b> is needed for sugar mills. <b>Tea</b> (Assam), <b>coffee</b> (Karnataka, Kodagu) and <b>rubber</b> (Kerala) are plantations. India is the second largest producer of tea and of rice, wheat and sugar too, as of recent data.</p>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "Irrigation",
+   "b": "<svg class=\"d\" viewBox=\"0 0 320 132\"><rect x=\"10\" y=\"6\" width=\"105\" height=\"36\" rx=\"6\" fill=\"#f1e4c6\" stroke=\"#a8792a\" stroke-width=\"1.5\"/><text x=\"62.5\" y=\"28.0\" fill=\"#7d5a1c\" font-size=\"11\" text-anchor=\"middle\" font-weight=\"700\">Canals</text><rect x=\"121\" y=\"6\" width=\"189\" height=\"36\" rx=\"6\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"215.5\" y=\"28.0\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\">North Indian plains, Punjab, UP, delta</text><rect x=\"10\" y=\"48\" width=\"105\" height=\"36\" rx=\"6\" fill=\"#dceaec\" stroke=\"#2f6f7a\" stroke-width=\"1.5\"/><text x=\"62.5\" y=\"70.0\" fill=\"#2f6f7a\" font-size=\"11\" text-anchor=\"middle\" font-weight=\"700\">Wells and tubewells</text><rect x=\"121\" y=\"48\" width=\"189\" height=\"36\" rx=\"6\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"215.5\" y=\"70.0\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\">Plains and Deccan, about 60% of irrigated area</text><rect x=\"10\" y=\"90\" width=\"105\" height=\"36\" rx=\"6\" fill=\"#f4dcd5\" stroke=\"#a3362a\" stroke-width=\"1.5\"/><text x=\"62.5\" y=\"112.0\" fill=\"#a3362a\" font-size=\"11\" text-anchor=\"middle\" font-weight=\"700\">Tanks</text><rect x=\"121\" y=\"90\" width=\"189\" height=\"36\" rx=\"6\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"215.5\" y=\"112.0\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\">Peninsula, rocky land, Tamil Nadu, Andhra</text></svg><p>Net irrigated area is about 55% of net sown area. Wells and tubewells lead because they are cheap and farmer-controlled, but they deplete the groundwater table. Tanks are common where rock is hard. Drip and sprinkler systems save water.</p>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "The Green Revolution",
+   "b": "<p>From the mid-1960s, <b>HYV seeds</b> (Norman Borlaug; M.S. Swaminathan in India), fertiliser, irrigation and credit raised wheat and then rice output in Punjab, Haryana and western UP. India became self-sufficient in food grains. Limits: regional and crop bias, soil degradation, falling water tables.</p>"
+  },
+  {
+   "tag": "Debate",
+   "h": "Is the Punjab model sustainable?",
+   "b": "<p>Punjab and Haryana grow rice in a dry region because MSP and procurement favour it. Groundwater falls about a metre a year in some blocks, and stubble burning pollutes Delhi. Experts urge <b>crop diversification</b> to pulses, maize and oilseeds, direct-seeded rice and price signals. Others warn farmers will not shift without assured purchase.</p>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "Policy at a glance",
+   "b": "<p><b>MSP</b> is declared by the Centre on CACP advice for 22 crops plus FRP for sugarcane. <b>PM-KISAN</b> (2019) gives cash. <b>PMFBY</b> (2016) is crop insurance. <b>e-NAM</b> links mandis. The three farm laws were repealed in 2021 after farmer protests. The government's target is to double farmer income, widely seen as missed.</p>"
+  },
+  {
+   "tag": "Indian angle",
+   "h": "New frontiers",
+   "b": "<p>Horticulture output now exceeds food grains. <b>Operation Flood</b> (1970) made India the largest milk producer. The Northeast and Odisha show <b>jhum</b> being replaced slowly. <b>Natural farming</b> mission launched in 2024 and drone use (Namo Drone Didi) are fresh themes. The <b>Kharif</b> crops depend on monsoon; Rabi on stored moisture and irrigation.</p>"
+  },
+  {
+   "tag": "Exam lens",
+   "cls": "exam",
+   "h": "How to write this",
+   "b": "<div class=\"box\"><h4>Likely questions</h4><p>\"Discuss the changing cropping pattern in India and its causes.\" (10 marks)</p><p>\"Examine the importance of irrigation in Indian agriculture.\" (10 marks)</p></div><p><b>Structure:</b> trend in numbers; physical factors; policy factors (MSP, irrigation); impact (water, soil); way forward.</p><p><b>Prelims tip:</b> match crops to seasons and states; rice is kharif; wheat is rabi; MSP is set on CACP advice.</p>"
+  }
+ ],
+ "quiz": [
+  {
+   "q": "Wheat is a",
+   "o": [
+    "Kharif crop",
+    "Zaid crop",
+    "Rabi crop",
+    "Plantation crop"
+   ],
+   "a": 2,
+   "w": "Sown in October-December, harvested in March-April."
+  },
+  {
+   "q": "Largest irrigation source in India is",
+   "o": [
+    "Wells and tubewells",
+    "Canals",
+    "Tanks",
+    "Rain only"
+   ],
+   "a": 0,
+   "w": "They irrigate about 60% of irrigated area."
+  },
+  {
+   "q": "Jhum cultivation is also known as",
+   "o": [
+    "Dry farming",
+    "Plantation farming",
+    "Terrace farming",
+    "Shifting cultivation"
+   ],
+   "a": 3,
+   "w": "Common in the Northeast."
+  },
+  {
+   "q": "Green Revolution mainly raised the output of",
+   "o": [
+    "Pulses and oilseeds",
+    "Wheat and rice",
+    "Tea and coffee",
+    "Cotton and jute"
+   ],
+   "a": 1,
+   "w": "Via HYV seeds and irrigation."
+  },
+  {
+   "q": "Who advises the Centre on MSP?",
+   "o": [
+    "NITI Aayog",
+    "CACP",
+    "RBI",
+    "Finance Commission"
+   ],
+   "a": 1,
+   "w": "Commission for Agricultural Costs and Prices."
+  },
+  {
+   "q": "Jute is mainly grown in",
+   "o": [
+    "Punjab",
+    "Maharashtra",
+    "Rajasthan",
+    "West Bengal"
+   ],
+   "a": 3,
+   "w": "Delta lands suit jute."
+  },
+  {
+   "q": "Operation Flood is linked to",
+   "o": [
+    "Milk production",
+    "Rice output",
+    "Fertiliser use",
+    "Fisheries"
+   ],
+   "a": 0,
+   "w": "Verghese Kurien led it from 1970."
+  },
+  {
+   "q": "The International Year of Millets was",
+   "o": [
+    "2015",
+    "2019",
+    "2023",
+    "2025"
+   ],
+   "a": 2,
+   "w": "Declared by the UN at India's proposal."
+  },
+  {
+   "q": "PMFBY is a scheme for",
+   "o": [
+    "Credit cards",
+    "Soil health",
+    "Mandi linking",
+    "Crop insurance"
+   ],
+   "a": 3,
+   "w": "Launched in 2016."
+  },
+  {
+   "q": "Black soil is best suited for",
+   "o": [
+    "Cotton",
+    "Tea",
+    "Rubber",
+    "Jute"
+   ],
+   "a": 0,
+   "w": "It retains moisture."
+  }
+ ],
+ "sources": [
+  "NCERT Class 12, India: People and Economy, ch. 4-5",
+  "Economic Survey, agriculture chapter",
+  "Majid Husain, Geography of India"
+ ],
+ "verified": "2026-11-10"
+}
