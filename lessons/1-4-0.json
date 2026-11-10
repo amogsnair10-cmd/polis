@@ -1,0 +1,179 @@
+{
+ "id": "1-4-0",
+ "title": "73rd and 74th Amendments",
+ "emoji": "🏘️",
+ "cards": [
+  {
+   "tag": "Why this matters",
+   "h": "Democracy at the third level",
+   "b": "<p>India's Constitution was first written with two levels of government: the Union and the states. Villages and towns were left to state law, with only a weak Directive Principle (<b>Article 40</b>) asking the State to organise village panchayats.</p><p>The <b>73rd and 74th Amendments (1992)</b> changed this by giving rural and urban local bodies a constitutional base. They came into force on 24 April 1993 (73rd, panchayats) and 1 June 1993 (74th, municipalities). About 2.5 lakh panchayats and several thousand urban bodies now work under them, with over 30 lakh elected representatives, of whom roughly 1.4 million are women.</p><p>Examiners ask: Why were these amendments needed? What are their main features? Have they made democracy real at the grassroots? The best answers compare ideals (Gandhi, Ambedkar, J.S. Mill, Tocqueville) with performance and name the weak spots: money, functions, officials, women's proxy rule.</p>"
+  },
+  {
+   "tag": "Key idea",
+   "h": "Four thinkers on local self-government",
+   "b": "<div class=\"box\"><h4>Gandhi</h4>In <i>Hind Swaraj</i> (1909) and later writings, he pictured India as a set of self-governing villages, \"oceanic circles\" in which each village is a republic and power flows from the bottom up.</div><div class=\"box\"><h4>B.R. Ambedkar</h4>In the Constituent Assembly (4 November 1948) he asked what the village is but \"a sink of localism, a den of ignorance, narrow-mindedness and communalism\". He feared local elites and caste hierarchy. This is why the Constitution did not make panchayats a core feature.</div><div class=\"box\"><h4>J.S. Mill and Tocqueville</h4>Mill (<i>Considerations on Representative Government</i>, 1861) saw local institutions as schools of citizenship. Tocqueville (<i>Democracy in America</i>, 1835) held that local liberties teach people how to use freedom.</div><div class=\"box\"><h4>Jayaprakash Narayan, Reconstruction of Indian Polity (1959)</h4>Proposed a partyless, village-based pyramid of councils. Also Robert Putnam's <i>Making Democracy Work</i> (1993) links local associations to <b>social capital</b> and good government.</div>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "The road to 1992",
+   "b": "<svg class=\"d\" viewBox=\"0 0 320 130\"><line x1=\"12\" y1=\"62\" x2=\"308\" y2=\"62\" stroke=\"#5d6474\" stroke-width=\"2\"/><g font-size=\"9.5\" fill=\"#1d2433\" text-anchor=\"middle\"><circle cx=\"24\" cy=\"62\" r=\"4\" fill=\"#a8792a\"/><text x=\"24\" y=\"46\">1952</text><text x=\"24\" y=\"80\">CDP</text><circle cx=\"72\" cy=\"62\" r=\"4\" fill=\"#a8792a\"/><text x=\"72\" y=\"46\">1957</text><text x=\"72\" y=\"80\">Balwant Rai</text><circle cx=\"120\" cy=\"62\" r=\"4\" fill=\"#a8792a\"/><text x=\"120\" y=\"46\">1977</text><text x=\"120\" y=\"80\">Ashok Mehta</text><circle cx=\"168\" cy=\"62\" r=\"4\" fill=\"#a8792a\"/><text x=\"168\" y=\"46\">1985-86</text><text x=\"168\" y=\"80\">GVK Rao, Singhvi</text><circle cx=\"216\" cy=\"62\" r=\"4\" fill=\"#a8792a\"/><text x=\"216\" y=\"46\">1989</text><text x=\"216\" y=\"80\">64th Bill falls</text><circle cx=\"264\" cy=\"62\" r=\"4\" fill=\"#2f6f7a\"/><text x=\"264\" y=\"46\">1992-93</text><text x=\"264\" y=\"80\">73rd, 74th</text><circle cx=\"300\" cy=\"62\" r=\"4\" fill=\"#2f6f7a\"/><text x=\"296\" y=\"108\">1996 PESA</text></g></svg><ul><li><b>Community Development Programme</b> (1952) and National Extension Service (1953): top-down, officials led.</li><li><b>Balwant Rai Mehta Committee</b> (1957): a three-tier system, with block as the key. Rajasthan launched it at Nagaur on 2 October 1959.</li><li><b>Ashok Mehta Committee</b> (1977): two tiers, with the district as the main unit; political parties' role; reserved seats for SC/ST; a social audit.</li><li><b>G.V.K. Rao Committee</b> (1985): bureaucratised planning (\"grass without roots\"); suggested the district as the unit.</li><li><b>L.M. Singhvi Committee</b> (1986): recommended constitutional status and financial resources.</li><li>The 64th Amendment Bill (1989) passed the Lok Sabha but failed in the Rajya Sabha. The Narasimha Rao government passed the 73rd and 74th in 1992.</li></ul>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "The 73rd Amendment: panchayats (Part IX)",
+   "b": "<svg class=\"d\" viewBox=\"0 0 320 110\"><g font-size=\"10\" text-anchor=\"middle\" fill=\"#1d2433\"><rect x=\"100\" y=\"6\" width=\"120\" height=\"26\" rx=\"6\" fill=\"#f1e4c6\" stroke=\"#a8792a\"/><text x=\"160\" y=\"23\" font-weight=\"700\">Zila Parishad (district)</text><rect x=\"100\" y=\"42\" width=\"120\" height=\"26\" rx=\"6\" fill=\"#dceaec\" stroke=\"#2f6f7a\"/><text x=\"160\" y=\"59\" font-weight=\"700\">Panchayat Samiti (block)</text><rect x=\"100\" y=\"78\" width=\"120\" height=\"26\" rx=\"6\" fill=\"#fff\" stroke=\"#a8792a\"/><text x=\"160\" y=\"95\" font-weight=\"700\">Gram Panchayat (village)</text><text x=\"272\" y=\"95\">Gram Sabha</text><text x=\"272\" y=\"108\">(Art 243A)</text></g><path d=\"M160 32 L160 42 M160 68 L160 78 M220 91 L240 91\" stroke=\"#5d6474\"/></svg><ul><li><b>Gram Sabha</b> (Article 243A): all adult voters of the village. The base of the system.</li><li><b>Three tiers</b>, except in states with a population below 20 lakh, which may skip the middle tier.</li><li><b>Direct elections</b> to all seats; five-year term; fresh elections within six months if dissolved.</li><li><b>Reservation:</b> seats for SC/ST in proportion to population; at least <b>one-third for women</b> (including within the SC/ST seats); states may reserve for OBCs. Many states raised women's reservation to 50%; Bihar did so first in 2006.</li><li><b>State Election Commission</b> (Article 243K) runs the polls; <b>State Finance Commission</b> (243I) reviews finances every five years.</li><li><b>Eleventh Schedule:</b> 29 subjects such as agriculture, health, education, drinking water, rural housing.</li><li>Exempt: Nagaland, Meghalaya, Mizoram, some hill areas of Manipur and Darjeeling (Article 243M).</li></ul>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "The 74th Amendment: municipalities (Part IXA)",
+   "b": "<ul><li><b>Three types</b> (Article 243Q): <b>Nagar Panchayat</b> for a transitional area, <b>Municipal Council</b> for a smaller urban area and <b>Municipal Corporation</b> for a larger one.</li><li><b>Wards committees</b> in cities with a population above three lakh.</li><li>Reservation for SC/ST and one-third for women; five-year term; State Election and Finance Commissions, as for panchayats.</li><li><b>Twelfth Schedule:</b> 18 functions, including urban planning, regulation of land use, roads and bridges, water supply, public health, slum improvement and urban poverty alleviation.</li><li><b>District Planning Committee</b> (Article 243ZD) to consolidate plans of panchayats and municipalities; <b>Metropolitan Planning Committee</b> (243ZE) for cities above a million.</li></ul><p>Notice a key difference: the Twelfth Schedule functions are broader and more technical, but city mayors in many states are weak, elected indirectly or for one year, and parastatal agencies (development authorities, water boards) hold real power.</p>"
+  },
+  {
+   "tag": "Key idea",
+   "h": "PESA (1996) and tribal self-rule",
+   "b": "<p>The 73rd Amendment did not apply to Fifth Schedule areas unless Parliament extended it. After the Bhuria Committee (1995), Parliament passed the <b>Provisions of the Panchayats (Extension to the Scheduled Areas) Act, 1996 (PESA)</b>.</p><ul><li>The Gram Sabha is central: it approves plans and safeguards community resources, customs and culture.</li><li>Consultation before land acquisition and mining leases; ownership of minor forest produce; control over local markets and money-lending.</li><li>The <b>Forest Rights Act, 2006</b> gave Gram Sabhas a role in recognising rights over forests. In <i>Orissa Mining Corporation v. Ministry of Environment</i> (the Niyamgiri case, 2013), the Supreme Court told Gram Sabhas of the Dongria Kondh to decide on the bauxite project, which rejected it.</li></ul><p>PESA applies in ten states (Andhra, Telangana, Chhattisgarh, Gujarat, Himachal, Jharkhand, Madhya Pradesh, Maharashtra, Odisha, Rajasthan). Critics say that many states have not made rules in full and that PESA is weakly applied.</p>"
+  },
+  {
+   "tag": "Key idea",
+   "h": "Money: the weak link in local government",
+   "b": "<ul><li><b>State Finance Commissions</b> (Articles 243I and 243Y) must recommend how state taxes are shared with local bodies, and what grants they get. Many states set them up late, and the reports are often not acted upon.</li><li><b>Central Finance Commission:</b> since the 11th FC, it has recommended grants to supplement local bodies' funds based on the State Finance Commissions' reports. The 15th FC gave over four lakh crore rupees to rural and urban local bodies for 2021-26, partly tied to conditions like property-tax reform and accounts.</li><li><b>Own revenue:</b> panchayats raise little, and urban bodies depend on property tax, which is under-collected. Octroi and entry taxes were removed with GST (2017), leaving cities with fewer independent sources.</li><li><b>Other tools:</b> municipal bonds in a few cities, user charges, and central schemes channelled through local bodies.</li></ul><p><b>Principle of subsidiarity:</b> tasks should rest with the lowest level that can do them well. The Second ARC (2005-09) also urged that local bodies be given clear functions and the funds that go with them.</p>"
+  },
+  {
+   "tag": "Critique",
+   "h": "What went right and wrong",
+   "b": "<p><b>Achievements:</b></p><ul><li>Regular elections; a large cohort of elected women (about 46% of panchayat members according to government data), SC/ST and OBC representatives.</li><li>Studies by Esther Duflo and Raghabendra Chattopadhyay (2004) found that women leaders invest more in public goods like drinking water.</li><li>Kerala's People's Plan Campaign (1996) transferred about 35-40% of the state's plan funds to local bodies.</li></ul><p><b>Weaknesses:</b></p><ul><li>The \"3 Fs\": <b>functions, funds and functionaries</b> are not devolved fully; the Eleventh Schedule is \"may\" not \"shall\". States hold the real power.</li><li>Low own revenue; dependence on grants (the 15th Finance Commission recommended over ₹4 lakh crore for local bodies in 2021-26).</li><li>Proxy rule by \"sarpanch-pati\" for women representatives.</li><li>Caste and elite capture; irregular Gram Sabhas.</li><li>Delayed urban elections; weak mayors.</li><li>Parallel bodies and schemes managed by departments.</li></ul>"
+  },
+  {
+   "tag": "Indian angle",
+   "h": "Reforms and recent cases",
+   "b": "<ul><li><b>Supreme Court on OBC reservation:</b> in <i>Vikas Kishanrao Gawali</i> (2021) the Court required a \"triple test\" (an empirical commission, proportion to data, and the 50% cap) before OBC quotas in local bodies.</li><li><b>Digital:</b> eGramSwaraj portal, SVAMITVA property cards (2020), Gram Panchayat Development Plans and the annual People's Plan Campaign.</li><li><b>Proxy rule:</b> a committee under the Ministry of Panchayati Raj studied the problem in 2023, and states are tightening rules.</li><li><b>Finance:</b> grants to local bodies recommended by the 15th and 16th Finance Commissions.</li><li><b>Urban:</b> Smart Cities Mission (2015) and AMRUT have been criticised for working through special-purpose bodies instead of municipalities.</li><li><b>J&K:</b> after 2019, the 73rd and 74th Amendments apply; District Development Council elections were held in December 2020.</li></ul>"
+  },
+  {
+   "tag": "Exam lens",
+   "h": "How UPSC asks this",
+   "b": "<div class=\"box\">\"Examine the 73rd and 74th Amendments. Have they strengthened grassroots democracy?\"</div><div class=\"box\">\"Why have panchayats failed to become institutions of self-government in practice?\"</div><div class=\"box\">\"Discuss the role of women in local government after reservation.\"</div><div class=\"box\">\"Assess the PESA Act.\"</div><p><b>Structure:</b> ideas (Gandhi, Ambedkar, Mill); committees from Balwant Rai Mehta to Singhvi; features of the 73rd and 74th Amendments with the Schedules; PESA and Forest Rights Act; achievements; the 3 Fs gap; proxy representation; reforms (devolution, own revenue, State Finance Commission follow-up, training); conclude that constitutional recognition is only the first step.</p>",
+   "cls": "exam"
+  }
+ ],
+ "quiz": [
+  {
+   "q": "The 73rd Amendment came into force on…",
+   "o": [
+    "26 January 1993",
+    "24 April 1993",
+    "1 June 1993",
+    "2 October 1992"
+   ],
+   "a": 1,
+   "w": "24 April 1993; the 74th on 1 June 1993."
+  },
+  {
+   "q": "Which committee (1957) recommended the three-tier panchayati raj?",
+   "o": [
+    "Ashok Mehta",
+    "Balwant Rai Mehta",
+    "G.V.K. Rao",
+    "L.M. Singhvi"
+   ],
+   "a": 1,
+   "w": "Balwant Rai Mehta Committee."
+  },
+  {
+   "q": "The two-tier system with the district at the centre was recommended by…",
+   "o": [
+    "Ashok Mehta Committee",
+    "Balwant Rai Mehta Committee",
+    "Sarkaria Commission",
+    "Bhuria Committee"
+   ],
+   "a": 0,
+   "w": "Ashok Mehta Committee (1977)."
+  },
+  {
+   "q": "Panchayati raj was first launched at…",
+   "o": [
+    "Nagaur, Rajasthan, 1959",
+    "Anand, Gujarat, 1952",
+    "Wardha, 1936",
+    "Hyderabad, 1948"
+   ],
+   "a": 0,
+   "w": "2 October 1959."
+  },
+  {
+   "q": "The Eleventh Schedule lists…",
+   "o": [
+    "18 functions of municipalities",
+    "29 subjects of panchayats",
+    "22 languages",
+    "7 union subjects"
+   ],
+   "a": 1,
+   "w": "29 subjects."
+  },
+  {
+   "q": "Article 243K deals with…",
+   "o": [
+    "State Election Commission for local bodies",
+    "Gram Sabha",
+    "District Planning Committee",
+    "Reservation for women"
+   ],
+   "a": 0,
+   "w": "State Election Commissions for panchayats."
+  },
+  {
+   "q": "PESA was passed in…",
+   "o": [
+    "1992",
+    "1996",
+    "2006",
+    "2013"
+   ],
+   "a": 1,
+   "w": "The Provisions of the Panchayats (Extension to the Scheduled Areas) Act, 1996."
+  },
+  {
+   "q": "Who said the village is 'a sink of localism'?",
+   "o": [
+    "Gandhi",
+    "Ambedkar",
+    "Nehru",
+    "J.P. Narayan"
+   ],
+   "a": 1,
+   "w": "Ambedkar, Constituent Assembly, 4 November 1948."
+  },
+  {
+   "q": "District Planning Committees are under which Article?",
+   "o": [
+    "243G",
+    "243I",
+    "243ZD",
+    "243ZE"
+   ],
+   "a": 2,
+   "w": "243ZD; 243ZE is for metropolitan areas."
+  },
+  {
+   "q": "Which Supreme Court judgment required a 'triple test' for OBC quotas in local bodies?",
+   "o": [
+    "Vikas Kishanrao Gawali (2021)",
+    "Indra Sawhney (1992)",
+    "K. Krishna Murthy (2010)",
+    "Janhit Abhiyan (2022)"
+   ],
+   "a": 0,
+   "w": "Vikas Kishanrao Gawali v. State of Maharashtra."
+  }
+ ],
+ "sources": [
+  "Constitution of India, Part IX (Arts 243-243O), Part IXA (Arts 243P-243ZG); Eleventh and Twelfth Schedules",
+  "Balwant Rai Mehta (1957), Ashok Mehta (1977), G.V.K. Rao (1985), L.M. Singhvi (1986) committee reports",
+  "Constituent Assembly Debates (4 Nov 1948); Gandhi, Hind Swaraj (1909); J.P. Narayan (1959); Putnam, Making Democracy Work (1993)",
+  "Duflo and Chattopadhyay, Econometrica (2004); Ministry of Panchayati Raj data",
+  "Vikas Kishanrao Gawali (2021); Orissa Mining Corporation (2013)",
+  "PYQ themes: 73rd and 74th Amendments, grassroots democracy (Paper I Section B)"
+ ],
+ "verified": "2026-11-10"
+}

@@ -1,0 +1,187 @@
+{
+ "id": "2-5-2",
+ "title": "Collective Security and Transnational Actors",
+ "emoji": "🤝",
+ "cards": [
+  {
+   "tag": "Why this matters",
+   "h": "One against all, and actors beyond the state",
+   "b": "<p>This lesson joins two ideas that answer different questions.</p><p><b>Collective security</b> asks: can states agree to stop aggression together, so that nobody has to arm in fear? It is the liberal answer to the balance of power, and it is the logic behind the League of Nations and the UN Security Council.</p><p><b>Transnational actors</b> ask: who else plays in world politics besides states? Multinational firms, NGOs, terror networks, diasporas, religious bodies, experts and now big technology platforms.</p><p>Both are classic UPSC topics. Questions usually ask you to evaluate collective security's record, to compare it with the balance of power and alliances, and to judge whether non-state actors are weakening the state.</p><p>Link them in your head: collective security tries to limit state violence, while transnational actors show that states no longer hold all the cards.</p>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "What is collective security?",
+   "b": "<p>Inis Claude, in <i>Power and International Relations</i> (1962), gave the standard account. The idea is \"<b>all against one</b>\": every member promises to oppose an aggressor, whoever it is, and even a friend.</p><div class=\"box\"><h4>Assumptions</h4><ul><li>States agree on what counts as aggression.</li><li>All members care equally about peace, and will act.</li><li>No state is so strong that it cannot be stopped.</li><li>Members can overcome their own narrow interests, including trade or friendship with the aggressor.</li></ul></div><p>If these hold, aggression will be deterred because the aggressor faces overwhelming force.</p><p>Distinguish it from related ideas:</p><ul><li><b>Balance of power:</b> flexible alliances against a particular threat.</li><li><b>Collective defence:</b> an alliance against an outside enemy, like NATO's Article 5.</li><li><b>Cooperative security:</b> dialogue and trust among adversaries, like the OSCE.</li></ul>"
+  },
+  {
+   "tag": "Event",
+   "h": "From the League to the UN",
+   "b": "<p><b>League of Nations.</b> The Covenant's Article 10 pledged members to respect and preserve territorial integrity. Article 16 allowed economic and military sanctions. But decisions needed unanimity, the US was absent, and it failed in Manchuria (1931) and Abyssinia (1935).</p><p><b>United Nations (1945).</b> The Charter tried to fix the flaws.</p><ul><li><b>Chapter VII.</b> The Security Council can find a \"threat to the peace, breach of the peace or act of aggression\" (Article 39), apply sanctions (Article 41), or authorise force (Article 42).</li><li><b>Article 43</b> was to give the Council standing forces from members. It was never implemented, and the Military Staff Committee remains idle.</li><li><b>Article 51</b> preserves the right of individual and collective self-defence until the Council acts.</li><li>The <b>veto</b> of the five permanent members is the main change from the League. It prevents action against a P5 member or its friends.</li></ul>"
+  },
+  {
+   "tag": "Event",
+   "h": "The UN's record in practice",
+   "b": "<svg class=\"d\" viewBox=\"0 0 320 130\"><rect x=\"8\" y=\"12\" width=\"144\" height=\"106\" rx=\"8\" fill=\"#dceaec\" stroke=\"#2f6f7a\"/><rect x=\"168\" y=\"12\" width=\"144\" height=\"106\" rx=\"8\" fill=\"#f4dcd5\" stroke=\"#a3362a\"/><g font-size=\"10\" fill=\"#1d2433\"><text x=\"80\" y=\"30\" text-anchor=\"middle\" font-weight=\"700\">Acted</text><text x=\"18\" y=\"50\">Korea 1950 (Soviet</text><text x=\"18\" y=\"63\">boycott allowed it)</text><text x=\"18\" y=\"80\">Kuwait 1991</text><text x=\"18\" y=\"97\">Libya 2011 (res. 1973)</text><text x=\"240\" y=\"30\" text-anchor=\"middle\" font-weight=\"700\">Stalled or failed</text><text x=\"178\" y=\"50\">Rwanda 1994</text><text x=\"178\" y=\"63\">Srebrenica 1995</text><text x=\"178\" y=\"80\">Syria (vetoes)</text><text x=\"178\" y=\"97\">Ukraine 2022, Gaza</text></g></svg><ul><li><b>Korea (1950).</b> The Council could authorise a UN force because the USSR was boycotting. Later, the General Assembly's <b>Uniting for Peace</b> resolution (1950) gave the Assembly a role when the Council is deadlocked.</li><li><b>Peacekeeping</b> (since 1948), developed by Dag Hammarskjold and Lester Pearson in the Suez crisis (1956), is a middle path: consent-based, impartial, minimal force.</li><li><b>Kuwait (1991).</b> Resolution 678 authorised \"all necessary means\". Seen as a model case.</li><li><b>Rwanda (1994)</b> and <b>Srebrenica (1995)</b> showed the UN's lack of will.</li><li>Russia is a P5 member and vetoes action over Ukraine. The US shields Israel on some Gaza drafts.</li></ul>"
+  },
+  {
+   "tag": "Critique",
+   "h": "Why collective security struggles",
+   "b": "<ul><li><b>Veto.</b> The P5 cannot be coerced, which breaks the \"all against one\" rule.</li><li><b>No agreement on aggression.</b> The General Assembly's Definition of Aggression (resolution 3314, 1974) is not binding on the Council.</li><li><b>Free riding.</b> Each state hopes others will act.</li><li><b>Interests.</b> States apply the principle selectively. Realists (Morgenthau, Carr) say collective security is a utopian dream of the satisfied powers.</li><li><b>Costs.</b> Sanctions hurt the enforcers too.</li><li><b>Civil wars.</b> Most modern conflicts are within states, where the model fits poorly.</li><li><b>Credibility.</b> No standing force. UN missions rely on contributed troops.</li></ul><p><b>Defenders</b> say it works partly: the UN legitimises force, restrains some wars, and offers peacekeepers (about a dozen missions today, with troops mostly from South Asia and Africa). Norms against conquest have grown since 1945.</p><p>Reform ideas: limit the veto (France's proposal, the ACT group's code of conduct), expand the Council, and strengthen regional bodies.</p>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "Transnational actors: who are they?",
+   "b": "<p>Realism sees only states. Keohane and Nye's edited volume <i>Transnational Relations and World Politics</i> (1972, from a 1971 journal issue) argued that cross-border actors matter. John Burton's \"cobweb\" model in <i>World Society</i> (1972) saw a web of links rather than billiard balls.</p><div class=\"box\"><h4>Main types</h4><ul><li><b>Multinational corporations (MNCs):</b> Apple, Toyota, Tata. Some have revenues above the GDP of many states.</li><li><b>NGOs and civil society:</b> Amnesty International, Greenpeace, MSF, the Red Cross.</li><li><b>Epistemic communities</b> (Peter Haas, 1992): expert networks that shape policy, such as climate scientists (IPCC).</li><li><b>Diasporas and migrants.</b></li><li><b>Religious bodies:</b> the Catholic Church, the Organisation of Islamic Cooperation.</li><li><b>Violent networks:</b> Al-Qaeda, ISIS, drug cartels, private military companies.</li><li><b>Media and tech platforms:</b> global news networks, social media.</li></ul></div>"
+  },
+  {
+   "tag": "Debate",
+   "h": "Do transnational actors weaken the state?",
+   "b": "<div class=\"box\"><h4>Yes, they do</h4>Susan Strange, <i>The Retreat of the State</i> (1996): markets and firms now hold power once held by states. Hyperglobalists see a \"borderless world\". NGOs shaped the landmine ban (1997, the Ottawa Treaty, Jody Williams and ICBL, Nobel Prize 1997), the Rome Statute (1998) and climate norms. Big Tech sets rules for speech and data. Terrorist networks strike across borders. Banks and credit rating agencies discipline governments.</div><div class=\"box\"><h4>No, states still decide</h4>Realists (Waltz, Gilpin): states set the rules for firms, give NGOs permission to operate, and fight wars. Firms need state protection. The 2025-26 tariff and sanctions wars show state power over trade. States can also use these actors: sovereign wealth funds, state firms, or private military firms such as Russia's Wagner Group.</div><p>Balanced view: the state is not dying but sharing space. Governance is now \"multi-level\", with the state still the central actor.</p>"
+  },
+  {
+   "tag": "Key idea",
+   "h": "Collective defence and regional answers",
+   "b": "<p>Where universal collective security stalls, groups of states build narrower systems.</p><ul><li><b>NATO</b> (1949). Article 5 says an armed attack on one member is an attack on all. It has been invoked only once, after 9/11. This is <b>collective defence</b>: it targets an outside threat. At the Hague summit in June 2025 members agreed to aim at defence-related spending of 5% of GDP by 2035 (3.5% core defence plus 1.5% related). NATO now has 32 members, after Finland (2023) and Sweden (2024).</li><li><b>Warsaw Pact</b> (1955-91), the Soviet counterpart.</li><li><b>Regional organisations.</b> Chapter VIII of the UN Charter recognises them. The <b>African Union</b>'s Constitutive Act (2000) Article 4(h) gives the Union a right to intervene in grave circumstances such as genocide. ECOWAS has used force in Liberia and Sierra Leone. The OSCE builds cooperative security through monitoring.</li><li><b>CSTO</b> (Russia-led) and the <b>SCO</b> (security and counter-terror cooperation).</li></ul><p>Critics note that these arrangements can raise tensions with outsiders (the security dilemma) and may weaken the universal system.</p>"
+  },
+  {
+   "tag": "Key idea",
+   "h": "Peacekeeping: a practical middle path",
+   "b": "<p>The Charter did not mention peacekeeping, but practice created it.</p><ul><li><b>First generation (1948-88).</b> Unarmed or lightly armed observers, with consent, impartiality and use of force only in self-defence. UNTSO (1948) and the first UN Emergency Force in Suez (1956) are examples.</li><li><b>Second generation (1990s).</b> Complex missions in civil wars (Cambodia, Namibia, Bosnia, Somalia), with election monitoring and state-building. Failures at Somalia, Rwanda and Srebrenica led to the <b>Brahimi Report</b> (2000) calling for clear mandates and robust rules of engagement.</li><li><b>Third generation.</b> \"Robust\" or protection-of-civilians mandates, as in the DR Congo (the Force Intervention Brigade, 2013) and Mali.</li><li><b>Today.</b> Funding stress and political pushback limit new missions. The UN80 reform drive and US cuts to contributions in 2025 put pressure on peacekeeping budgets.</li></ul><p>Peacekeepers are not a collective security army. They support peace after a ceasefire, not enforce it by war. India's troops, doctors and police are in many missions.</p>"
+  },
+  {
+   "tag": "Indian angle",
+   "h": "India and collective security, India and non-state actors",
+   "b": "<p><b>Collective security.</b></p><ul><li>India is a founding UN member and one of the oldest and largest <b>troop contributors</b> to peacekeeping, from Korea (1950) onwards, with a long record in Africa and West Asia, and the first all-women police unit in Liberia (2007).</li><li>India supports a role for the UN, but seeks <b>reform</b>: a permanent seat on the Security Council (with the G4: Brazil, Germany, Japan, India) and limits to the veto. It is also wary of intervention that bypasses the Council.</li><li>India stays out of military alliances, preferring strategic partnerships.</li></ul><p><b>Transnational actors.</b></p><ul><li><b>Diaspora.</b> India has the world's largest diaspora, and receives the largest annual remittances, well over $100 billion a year. Pravasi Bharatiya Divas is held every two years.</li><li><b>Indian MNCs:</b> Tata (Jaguar Land Rover, 2008), Infosys, Reliance.</li><li><b>NGOs:</b> The Foreign Contribution (Regulation) Act, 2010 (amended 2020) regulates foreign funding. Critics say it restricts civil society, while the government cites security.</li><li><b>Terror networks:</b> Lashkar-e-Taiba and Jaish-e-Mohammed are the main concerns (see the lesson on terrorism).</li><li><b>Tech platforms:</b> debates over data localisation and the IT Rules.</li></ul>"
+  },
+  {
+   "tag": "Exam lens",
+   "h": "How UPSC asks this",
+   "b": "<div class=\"box\">\"Collective security has failed to ensure peace. Examine.\"</div><div class=\"box\">\"Compare collective security with balance of power.\"</div><div class=\"box\">\"Role of non-state actors in international politics.\" Discuss.</div><div class=\"box\">\"Are multinational corporations a threat to state sovereignty?\"</div><p><b>Structure for collective security:</b> meaning (Claude: all against one), assumptions; League; UN Charter Chapter VII (Articles 39, 41, 42, 43, 51); record (Korea, Kuwait, Rwanda, Syria, Ukraine); problems; reforms; India's role in peacekeeping and UN reform.</p><p><b>Structure for transnational actors:</b> types; theory (Keohane and Nye 1972, Burton, Strange); the \"state retreat\" debate; examples (landmine ban, MNCs, terror networks); India (diaspora, FCRA, Tata).</p><p>Conclude: the state remains central, but it shares authority.</p>",
+   "cls": "exam"
+  }
+ ],
+ "quiz": [
+  {
+   "q": "Inis Claude's account of collective security is summed up as:",
+   "o": [
+    "One for all, none against one",
+    "All against one",
+    "Two against all",
+    "Balance against hegemony"
+   ],
+   "a": 1,
+   "w": "Every member opposes any aggressor."
+  },
+  {
+   "q": "Which UN Charter article preserves the right of individual and collective self-defence?",
+   "o": [
+    "Article 51",
+    "Article 2(4)",
+    "Article 39",
+    "Article 43"
+   ],
+   "a": 0,
+   "w": "Article 51; Article 43, on standing forces, was never implemented."
+  },
+  {
+   "q": "Article 41 of the UN Charter authorises:",
+   "o": [
+    "Use of force",
+    "Peacekeeping",
+    "Measures not involving force, such as sanctions",
+    "Self-defence"
+   ],
+   "a": 2,
+   "w": "Article 42 covers the use of force."
+  },
+  {
+   "q": "The Uniting for Peace resolution was adopted in:",
+   "o": [
+    "1950",
+    "1945",
+    "1962",
+    "1991"
+   ],
+   "a": 0,
+   "w": "It allows the General Assembly to act when the Council is deadlocked, first used in the Korean War context."
+  },
+  {
+   "q": "Why was the UN able to act in Korea in 1950?",
+   "o": [
+    "The USSR was boycotting the Security Council",
+    "China voted yes",
+    "All P5 supported it",
+    "The Assembly overruled the veto"
+   ],
+   "a": 0,
+   "w": "The Soviet Union was absent, so no veto was cast."
+  },
+  {
+   "q": "UNGA Resolution 3314 (1974) deals with:",
+   "o": [
+    "Peacekeeping",
+    "Self-determination",
+    "Sanctions",
+    "Definition of aggression"
+   ],
+   "a": 3,
+   "w": "It is not binding on the Security Council."
+  },
+  {
+   "q": "Who wrote about 'epistemic communities' (1992)?",
+   "o": [
+    "Ernst Haas",
+    "Karl Deutsch",
+    "Peter Haas",
+    "John Burton"
+   ],
+   "a": 2,
+   "w": "Peter Haas: networks of experts influencing policy."
+  },
+  {
+   "q": "The 'cobweb' model of world society was proposed by:",
+   "o": [
+    "Henry Kissinger",
+    "John Burton",
+    "Hedley Bull",
+    "Kenneth Waltz"
+   ],
+   "a": 1,
+   "w": "World Society (1972) saw a web of cross-border links."
+  },
+  {
+   "q": "Susan Strange's The Retreat of the State (1996) argues that:",
+   "o": [
+    "States are stronger than ever",
+    "NGOs control the UN",
+    "Diasporas decide foreign policy",
+    "Markets and firms have taken power from states"
+   ],
+   "a": 3,
+   "w": "A key hyperglobalist-leaning text."
+  },
+  {
+   "q": "The Ottawa Treaty (1997) banned:",
+   "o": [
+    "Nuclear tests",
+    "Chemical weapons",
+    "Anti-personnel landmines",
+    "Cluster munitions"
+   ],
+   "a": 2,
+   "w": "A campaign led by NGOs (ICBL) won the Nobel Peace Prize in 1997."
+  }
+ ],
+ "sources": [
+  "Inis Claude, Power and International Relations (1962)",
+  "Charter of the United Nations, Chapters I and VII (Articles 2, 39-43, 51)",
+  "UNGA resolution 377 (V), Uniting for Peace (1950); UNGA resolution 3314 (1974)",
+  "Robert Keohane and Joseph Nye, eds., Transnational Relations and World Politics (1972)",
+  "John Burton, World Society (1972); Peter Haas, 'Introduction: Epistemic Communities', International Organization (1992)",
+  "Susan Strange, The Retreat of the State (1996)",
+  "UN Department of Peace Operations, India as a troop contributor",
+  "Foreign Contribution (Regulation) Act, 2010",
+  "PYQ themes: collective security vs balance of power, non-state actors (Paper II Section A)"
+ ],
+ "verified": "2026-11-10"
+}

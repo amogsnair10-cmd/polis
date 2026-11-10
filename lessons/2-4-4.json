@@ -1,0 +1,198 @@
+{
+ "id": "2-4-4",
+ "title": "Systems Theory and Constructivism",
+ "emoji": "🧩",
+ "cards": [
+  {
+   "tag": "Why this matters",
+   "h": "Two ways to see the whole system",
+   "b": "<p>This lesson joins two approaches that look at the <b>system</b> as a whole.</p><p><b>Systems theory</b> borrows from science and treats international politics as a system with parts, inputs, outputs and feedback. It tries to find patterns in how states interact.</p><p><b>Constructivism</b> asks a different question: what is the system made of? Its answer: ideas, norms and identities, not just guns and money. It arrived in the early 1990s, just as the Cold War ended, and it explained what realism and liberalism could not.</p><p>The syllabus does not name constructivism explicitly in the unit title, but the exam asks about it often. Examiners look for three scholars: <b>Alexander Wendt</b>, <b>Martha Finnemore and Kathryn Sikkink</b>, and <b>Peter Katzenstein</b>. Learn each one with a book, a year and a core idea.</p>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "Systems theory in IR",
+   "b": "<p>A <b>system</b> is a set of parts that interact, with a boundary separating it from its environment. Apply that idea to world politics and you get a few shared ideas.</p><ul><li>The international system has <b>units</b> (states and others) and a <b>structure</b> (how power is spread).</li><li>The system responds to <b>inputs</b> and sends out <b>outputs</b>, with <b>feedback</b>. David Easton developed this for domestic politics in <i>The Political System</i> (1953) and <i>A Systems Analysis of Political Life</i> (1965).</li><li>The system tends toward <b>equilibrium</b>. Shocks cause adjustment.</li><li>Behaviour depends on the system's type, not only the units' wishes.</li></ul><p>Other contributors: James Rosenau on <b>linkage politics</b> (1969), which links domestic and external politics, and Karl Deutsch on communication and cybernetics (<i>The Nerves of Government</i>, 1963). Kenneth Waltz's neorealism is itself a systemic theory.</p>"
+  },
+  {
+   "tag": "Thinker",
+   "h": "Morton Kaplan's six systems",
+   "b": "<p>Morton Kaplan, <i>System and Process in International Politics</i> (1957), is the most famous systems work in IR. He described six ideal-type systems. Know the names and one line each.</p><div class=\"box\"><h4>Kaplan's six models</h4><ol><li><b>Balance of power:</b> five or more great powers, shifting alliances (Europe, 18th-19th century).</li><li><b>Loose bipolar:</b> two blocs plus non-aligned and universal actors (early Cold War).</li><li><b>Tight bipolar:</b> two rigid blocs, no neutrals.</li><li><b>Universal:</b> a strong world body, for example a universal actor holding great powers in check.</li><li><b>Hierarchical:</b> a world state or empire.</li><li><b>Unit veto:</b> every state can destroy all others, so none dares attack (a nuclear-armed world).</li></ol></div><p>For each, Kaplan set out rules of behaviour. In the balance-of-power system, for example, states try to raise their capabilities but prefer talks to war, fight if a chance to gain is otherwise lost, and avoid wiping out another essential power. The rules differ in each system.</p>"
+  },
+  {
+   "tag": "Critique",
+   "h": "Strengths and limits of systems theory",
+   "b": "<div class=\"box\"><h4>Why it helps</h4><ul><li>Gives a <b>big picture</b>: polarity, alliances, balance.</li><li>Shows how a change in one part affects the whole.</li><li>Pushes IR toward scientific method.</li></ul></div><div class=\"box\"><h4>Why it was criticised</h4><ul><li><b>Static and conservative.</b> It stresses equilibrium, so it struggles to explain deep change, like decolonisation or the Soviet collapse.</li><li><b>Too abstract.</b> Kaplan's models were not tested against history.</li><li><b>Ignores domestic politics</b> and leaders' choices, treating states as black boxes.</li><li><b>Mechanical.</b> Borrowing from biology and engineering does not fit politics, where people choose and interpret.</li></ul></div><p>Systemic thinking survives in neorealism, in world-system theory, and in Hedley Bull's <i>The Anarchical Society</i> (1977), which spoke of an \"international society\". Constructivism, next, keeps the system but puts <b>meaning</b> inside it.</p>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "Why constructivism arose",
+   "b": "<p>The Cold War ended in 1989-91 without a shot between the superpowers. Neither realism (which stressed material power) nor liberalism (which stressed institutions) had predicted it. Constructivists said: ideas changed. Gorbachev's \"new thinking\" altered how the USSR saw the world.</p><p>Roots go further back. Nicholas Onuf coined the word \"constructivism\" in <i>World of Our Making</i> (1989). Friedrich Kratochwil (<i>Rules, Norms and Decisions</i>, 1989) and John Ruggie, who wrote <i>Constructing the World Polity</i> (1998), worked on rules and meaning. Social theory (Berger and Luckmann's <i>The Social Construction of Reality</i>, 1966, Giddens's structuration) shaped them.</p><div class=\"box\"><h4>Core claims</h4><ul><li>The world is <b>socially constructed</b>. Structures are made of shared ideas, not only material things.</li><li><b>Identities</b> shape <b>interests</b>, which shape action.</li><li>Agents and structures <b>make each other</b> (mutual constitution).</li><li><b>Norms</b> matter. States ask \"what is appropriate?\" as well as \"what pays?\"</li></ul></div>"
+  },
+  {
+   "tag": "Thinker",
+   "h": "Alexander Wendt",
+   "b": "<p>Wendt, a German-American scholar, is the leading constructivist. His works:</p><ul><li>\"The Agent-Structure Problem in International Relations Theory\" (1987).</li><li>\"Anarchy Is What States Make of It: The Social Construction of Power Politics\", <i>International Organization</i> (1992).</li><li><i>Social Theory of International Politics</i> (1999).</li></ul><div class=\"quote\">\"Anarchy is what states make of it.\"</div><div class=\"who\">Wendt, International Organization, 1992</div><p>He accepts that the system is anarchic and that states are the main actors, like the neorealists. But he argues anarchy has no single logic. Its meaning depends on <b>shared ideas</b>. His example: a few British nuclear weapons worry the US far less than a few North Korean ones, because of the <b>meaning</b> each carries, which is friendship versus enmity.</p><p>Self-help is not given by anarchy. It results from <b>processes</b> of interaction. If states treat each other as enemies, they build a self-help world. If they interact differently, identities and interests can change. Wendt calls his view <b>structural</b> or \"thin\" constructivism, as it keeps a state-centred, scientific outlook.</p>"
+  },
+  {
+   "tag": "Diagram",
+   "h": "Wendt's three cultures of anarchy",
+   "b": "<svg class=\"d\" viewBox=\"0 0 320 150\"><rect x=\"8\" y=\"10\" width=\"98\" height=\"130\" rx=\"8\" fill=\"#f4dcd5\" stroke=\"#a3362a\"/><rect x=\"111\" y=\"10\" width=\"98\" height=\"130\" rx=\"8\" fill=\"#f1e4c6\" stroke=\"#a8792a\"/><rect x=\"214\" y=\"10\" width=\"98\" height=\"130\" rx=\"8\" fill=\"#dceaec\" stroke=\"#2f6f7a\"/><g font-size=\"10\" fill=\"#1d2433\" text-anchor=\"middle\"><text x=\"57\" y=\"30\" font-weight=\"700\">Hobbesian</text><text x=\"57\" y=\"50\">Role: enemy</text><text x=\"57\" y=\"70\">Kill or be killed</text><text x=\"57\" y=\"90\">War is normal</text><text x=\"57\" y=\"110\">Hobbes</text><text x=\"160\" y=\"30\" font-weight=\"700\">Lockean</text><text x=\"160\" y=\"50\">Role: rival</text><text x=\"160\" y=\"70\">Live and let live</text><text x=\"160\" y=\"90\">Sovereignty respected</text><text x=\"160\" y=\"110\">Locke, Grotius</text><text x=\"263\" y=\"30\" font-weight=\"700\">Kantian</text><text x=\"263\" y=\"50\">Role: friend</text><text x=\"263\" y=\"70\">Disputes settled</text><text x=\"263\" y=\"90\">Security community</text><text x=\"263\" y=\"110\">Kant</text></g></svg><p>In <i>Social Theory of International Politics</i> (1999), Wendt says anarchy can take three forms, depending on the <b>role</b> states assign each other: enemy, rival or friend.</p><p>States can move along the line. He names three levels of <b>internalisation</b>: through force, through self-interest, and through legitimacy, where the norm becomes part of a state's own identity. Only the last gives a stable culture.</p><p>Wendt's point: the modern state system moved from Hobbesian to Lockean (after Westphalia, 1648) and may be moving towards Kantian in some regions, such as Western Europe.</p>"
+  },
+  {
+   "tag": "Thinker",
+   "h": "Martha Finnemore",
+   "b": "<p>Martha Finnemore, in <i>National Interests in International Society</i> (1996), argued that states do not know their interests in advance. They learn them through interaction in <b>international society</b>.</p><p>She showed how international organisations act as teachers of norms. Three cases:</p><ul><li><b>UNESCO</b> pushed states to create national science bureaucracies, even in countries that had no use for them.</li><li>The <b>Red Cross</b> and the Geneva Conventions spread the idea of rules in war.</li><li>The <b>World Bank</b> changed its view of development: from big projects in the 1950s-60s to a focus on poverty alleviation under McNamara in the 1970s.</li></ul><p>The lesson: interests are not given by material power or by domestic politics alone. They are <b>shaped by global norms</b>.</p><p>Later work: Finnemore's <i>The Purpose of Intervention</i> (2003) traced how the reasons states give for humanitarian intervention changed over time.</p>"
+  },
+  {
+   "tag": "Thinker",
+   "h": "Finnemore and Sikkink: the norm life cycle",
+   "b": "<svg class=\"d\" viewBox=\"0 0 320 120\"><defs><marker id=\"ar244\" viewBox=\"0 0 10 10\" refX=\"9\" refY=\"5\" markerWidth=\"7\" markerHeight=\"7\" orient=\"auto\"><path d=\"M0 0 L10 5 L0 10 z\" fill=\"#5d6474\"/></marker></defs><rect x=\"8\" y=\"30\" width=\"88\" height=\"60\" rx=\"8\" fill=\"#f1e4c6\" stroke=\"#a8792a\"/><rect x=\"116\" y=\"30\" width=\"88\" height=\"60\" rx=\"8\" fill=\"#dceaec\" stroke=\"#2f6f7a\"/><rect x=\"224\" y=\"30\" width=\"88\" height=\"60\" rx=\"8\" fill=\"#fff\" stroke=\"#5d6474\"/><g font-size=\"10\" fill=\"#1d2433\" text-anchor=\"middle\"><text x=\"52\" y=\"55\" font-weight=\"700\">1. Emergence</text><text x=\"52\" y=\"72\">Norm entrepreneurs</text><text x=\"160\" y=\"55\" font-weight=\"700\">2. Cascade</text><text x=\"160\" y=\"72\">States imitate</text><text x=\"268\" y=\"55\" font-weight=\"700\">3. Internalisation</text><text x=\"268\" y=\"72\">Taken for granted</text><text x=\"106\" y=\"18\">Tipping point</text></g><line x1=\"96\" y1=\"60\" x2=\"114\" y2=\"60\" stroke=\"#5d6474\" marker-end=\"url(#ar244)\"/><line x1=\"204\" y1=\"60\" x2=\"222\" y2=\"60\" stroke=\"#5d6474\" marker-end=\"url(#ar244)\"/></svg><p>Finnemore and Kathryn Sikkink, \"International Norm Dynamics and Political Change\", <i>International Organization</i> (1998), is the key text on norms.</p><ol><li><b>Emergence:</b> <b>norm entrepreneurs</b> (NGOs, activists, individuals) persuade others, using an organisational platform.</li><li><b>Norm cascade:</b> after a <b>tipping point</b> (about a third of states), others join through socialisation, pressure for legitimacy, reputation and esteem.</li><li><b>Internalisation:</b> the norm is taken for granted, built into law and bureaucracy.</li></ol><p>Examples: women's suffrage, the ban on landmines, anti-slavery, the human rights norm. They also contrast the <b>logic of appropriateness</b> with the <b>logic of consequences</b>. Sikkink's <i>The Justice Cascade</i> (2011) applied it to human rights trials. With Margaret Keck she wrote <i>Activists Beyond Borders</i> (1998) on the \"boomerang effect\".</p>"
+  },
+  {
+   "tag": "Thinker",
+   "h": "Peter Katzenstein and the culture of security",
+   "b": "<p>Peter Katzenstein edited <i>The Culture of National Security: Norms and Identity in World Politics</i> (1996). It is the leading collection that applied constructivism to security.</p><p>His claim: security policy is shaped not just by threats and capabilities, but by <b>cultural-institutional context</b>: domestic and international norms, and national identity.</p><div class=\"box\"><h4>His cases</h4><ul><li><b>Japan:</b> an \"anti-militarism\" norm after 1945, written into Article 9 of its constitution. Japan's defence policy stayed restrained long after its power grew.</li><li><b>Germany:</b> a culture of restraint and multilateralism after the Nazi past.</li></ul></div><p>Realism predicted both would rearm and seek great-power status. They did so slowly, because their identities pointed another way.</p><p>Katzenstein later led work on \"analytic eclecticism\" and on world regions (<i>A World of Regions</i>, 2005). The title is worth citing along with the 1996 volume. Related studies: Nina Tannenwald on the <b>nuclear taboo</b> (2007) and Richard Price on the chemical-weapons taboo (1997).</p>"
+  },
+  {
+   "tag": "Critique",
+   "h": "Varieties and critiques of constructivism",
+   "b": "<p><b>Varieties.</b> Conventional (Wendt, Katzenstein, Finnemore) uses scientific methods. <b>Critical</b> constructivists (Kratochwil, Onuf, Hopf, Weldes) focus on language and discourse. Emanuel Adler's \"Seizing the Middle Ground\" (1997) described constructivism as a bridge between rationalism and post-modernism.</p><p><b>Critiques</b></p><ul><li><b>Realists</b> (Mearsheimer, 1994-95): ideas can matter but cannot overcome fear and power.</li><li>Wendt's version is <b>state-centric</b> and stays within positivism, so critical theorists call it too close to mainstream theory.</li><li>It is better at explaining <b>how</b> things change after the fact than at predicting.</li><li><b>Where do norms come from?</b> The theory often treats Western liberal norms as the \"good\" ones. Not all norms are good: norms of racism and colonialism also spread.</li><li>It underplays <b>power and material interests</b>, and who gets to be a norm entrepreneur.</li><li>Feminists note it is often silent on gender.</li></ul><p>Defenders: constructivism is not a theory of politics but an approach, which sits with other theories.</p>"
+  },
+  {
+   "tag": "Indian angle",
+   "h": "Identity and norms in Indian foreign policy",
+   "b": "<p>Constructivism helps read India's behaviour.</p><ul><li><b>Non-alignment</b> was an identity as much as a policy. A newly independent, post-colonial state saw itself as a leader against colonialism and bloc politics.</li><li><b>Norm entrepreneur.</b> India raised the treatment of Indians in South Africa at the first UN General Assembly in 1946 and was among the earliest to impose trade sanctions on the apartheid regime. It pushed decolonisation and disarmament norms. <b>Panchsheel</b> (1954) was an attempt to set norms for relations among states.</li><li><b>Nuclear restraint and identity.</b> India holds a <b>no-first-use</b> doctrine and rejected the NPT as discriminatory, seeing it as a \"nuclear apartheid\".</li><li><b>Enmity and rivalry.</b> India-Pakistan ties look Hobbesian at times, with a shared past turned into rival identities. India-China moved between \"Hindi-Chini bhai bhai\" and rivalry.</li><li><b>Civilisational identity.</b> \"<i>Vasudhaiva Kutumbakam</i>\" and the claim to be a <i>vishwa mitra</i> (friend of the world) are attempts to project an identity.</li></ul><p>Critics add that identity talk can hide interests, a realist reply.</p>"
+  },
+  {
+   "tag": "Exam lens",
+   "h": "How UPSC asks this",
+   "b": "<div class=\"box\">\"Constructivism has opened up new ways to understand international relations.\" Discuss with reference to Wendt, Finnemore and Sikkink, and Katzenstein.</div><div class=\"box\">\"Anarchy is what states make of it.\" Explain.</div><div class=\"box\">\"Examine the norm life cycle.\"</div><div class=\"box\">\"Is systems theory still useful for understanding the international system?\"</div><p><b>Structure:</b> (1) systems theory in short: Easton, Kaplan's six models, one critique. (2) The rise of constructivism after the Cold War. (3) Core claims. (4) Wendt (1992, 1999: three cultures). (5) Finnemore (1996) and Finnemore and Sikkink (1998: emergence, cascade, internalisation). (6) Katzenstein (1996: Japan, Germany). (7) Critiques from realists and critical theorists. (8) India: non-alignment identity, nuclear taboo, norm entrepreneurship.</p><p>Always give the author, year and title. Draw the norm life cycle and the three cultures.</p>",
+   "cls": "exam"
+  }
+ ],
+ "quiz": [
+  {
+   "q": "Kaplan's System and Process in International Politics (1957) identified how many systems?",
+   "o": [
+    "Six",
+    "Four",
+    "Five",
+    "Eight"
+   ],
+   "a": 0,
+   "w": "Six: balance of power, loose bipolar, tight bipolar, universal, hierarchical and unit veto."
+  },
+  {
+   "q": "In Kaplan's 'unit veto' system:",
+   "o": [
+    "One state dominates",
+    "Two blocs are rigid",
+    "A world state rules",
+    "Every state can destroy all others"
+   ],
+   "a": 3,
+   "w": "A nuclear-armed world where any state can inflict mutual destruction."
+  },
+  {
+   "q": "Who coined the term 'constructivism' in IR in World of Our Making (1989)?",
+   "o": [
+    "Nicholas Onuf",
+    "Alexander Wendt",
+    "Peter Katzenstein",
+    "John Ruggie"
+   ],
+   "a": 0,
+   "w": "Nicholas Onuf."
+  },
+  {
+   "q": "'Anarchy Is What States Make of It' appeared in:",
+   "o": [
+    "World Politics (1978)",
+    "International Security (1994)",
+    "International Organization (1992)",
+    "Millennium (1981)"
+   ],
+   "a": 2,
+   "w": "Wendt, International Organization, 1992."
+  },
+  {
+   "q": "Wendt's three cultures of anarchy are:",
+   "o": [
+    "Hobbesian, Lockean, Kantian",
+    "Realist, liberal, Marxist",
+    "Unipolar, bipolar, multipolar",
+    "Coercion, price, trade"
+   ],
+   "a": 0,
+   "w": "Enemy, rival and friend roles correspond to Hobbesian, Lockean and Kantian cultures."
+  },
+  {
+   "q": "Finnemore's National Interests in International Society (1996) shows that:",
+   "o": [
+    "Interests are fixed by power",
+    "Domestic lobbies decide interests",
+    "Norms never matter",
+    "International organisations teach states what to want"
+   ],
+   "a": 3,
+   "w": "UNESCO, the Red Cross and the World Bank all shaped state interests."
+  },
+  {
+   "q": "Which stage of the norm life cycle comes after the 'tipping point'?",
+   "o": [
+    "Emergence",
+    "Cascade",
+    "Internalisation",
+    "Entrepreneurship"
+   ],
+   "a": 1,
+   "w": "After the tipping point, norms spread in a cascade; internalisation is the final stage."
+  },
+  {
+   "q": "Finnemore and Sikkink call actors who first push a new norm:",
+   "o": [
+    "Spoilers",
+    "Norm entrepreneurs",
+    "Hegemons",
+    "Epistemic brokers"
+   ],
+   "a": 1,
+   "w": "Norm entrepreneurs use organisational platforms to promote norms."
+  },
+  {
+   "q": "Katzenstein's The Culture of National Security (1996) used which two main cases?",
+   "o": [
+    "India and Pakistan",
+    "US and USSR",
+    "Israel and Egypt",
+    "Japan and Germany"
+   ],
+   "a": 3,
+   "w": "He showed how anti-militarist identities restrained Japan and Germany."
+  },
+  {
+   "q": "Which is a standard critique of Wendt's constructivism?",
+   "o": [
+    "It rejects the state",
+    "It denies anarchy exists",
+    "It is state-centric and close to mainstream positivism",
+    "It ignores identity"
+   ],
+   "a": 2,
+   "w": "Critical constructivists say Wendt keeps the state-centred, scientific framework."
+  }
+ ],
+ "sources": [
+  "Morton Kaplan, System and Process in International Politics (1957)",
+  "David Easton, A Systems Analysis of Political Life (1965)",
+  "Alexander Wendt, 'Anarchy Is What States Make of It', International Organization (1992); Social Theory of International Politics (1999)",
+  "Martha Finnemore, National Interests in International Society (1996)",
+  "Martha Finnemore and Kathryn Sikkink, 'International Norm Dynamics and Political Change', International Organization (1998)",
+  "Peter Katzenstein (ed.), The Culture of National Security (1996); A World of Regions (2005)",
+  "Nicholas Onuf, World of Our Making (1989); John Ruggie, Constructing the World Polity (1998)",
+  "Margaret Keck and Kathryn Sikkink, Activists Beyond Borders (1998)",
+  "John Mearsheimer, 'The False Promise of International Institutions', International Security (1994-95)",
+  "PYQ themes: constructivism (Wendt, Finnemore and Sikkink, Katzenstein), systems theory (Paper II Section A, repeated)"
+ ],
+ "verified": "2026-11-10"
+}

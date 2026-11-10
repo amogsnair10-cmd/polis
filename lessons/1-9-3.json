@@ -1,0 +1,179 @@
+{
+ "id": "1-9-3",
+ "title": "Electoral Behaviour and Legislators' Profile",
+ "emoji": "📊",
+ "cards": [
+  {
+   "tag": "Why this matters",
+   "h": "Why does India vote the way it does?",
+   "b": "<p>Electoral behaviour asks what moves voters: caste, religion, class, leaders, performance, money or fear? It matters because India is the world's largest electorate, and because several myths about it are wrong.</p><p>One myth is that Indians vote only by caste. Another is that they vote only on development. The real picture is mixed and changes over time and place.</p><p>The second half of the topic is the <b>profile of legislators</b>: wealth, criminal cases, gender and education. Data from the Association for Democratic Reforms (ADR) is quoted in many answers.</p><p>UPSC asks about trends (turnout, identity, anti-incumbency), the criminalisation of politics, money in elections, and electoral reforms. Prepare each with scholars, data and cases.</p>"
+  },
+  {
+   "tag": "Key idea",
+   "h": "Three schools and the Indian studies",
+   "b": "<div class=\"box\"><h4>Three classical models</h4><b>Columbia school</b> (Lazarsfeld): social groups shape votes. <b>Michigan school</b> (Campbell et al., <i>The American Voter</i>, 1960): party identification. <b>Rational choice</b> (Anthony Downs, <i>An Economic Theory of Democracy</i>, 1957): voters weigh benefits and costs.</div><div class=\"box\"><h4>Eldersveld and Ahmed, Citizens and Politics (1978)</h4>An early survey study of India. It found voting often followed local networks and caste leaders, but voters also knew issues.</div><div class=\"box\"><h4>CSDS-Lokniti National Election Studies</h4>Surveys since 1996 (Yogendra Yadav, Suhas Palshikar, Sanjay Kumar) track voting by caste, class, gender and age after each general election. They are the base for most claims about Indian voters.</div><p><b>Rajni Kothari</b> argued that caste worked as a means of political mobilisation, not simply as a force of tradition.</p>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "What shapes the vote",
+   "b": "<svg class=\"d\" viewBox=\"0 0 320 140\"><g font-size=\"10\" text-anchor=\"middle\" fill=\"#1d2433\"><rect x=\"116\" y=\"52\" width=\"88\" height=\"36\" rx=\"8\" fill=\"#f1e4c6\" stroke=\"#a8792a\"/><text x=\"160\" y=\"74\" font-weight=\"700\">The vote</text><rect x=\"10\" y=\"8\" width=\"96\" height=\"34\" rx=\"6\" fill=\"#dceaec\" stroke=\"#2f6f7a\"/><text x=\"58\" y=\"29\">Identity: caste, religion</text><rect x=\"214\" y=\"8\" width=\"96\" height=\"34\" rx=\"6\" fill=\"#dceaec\" stroke=\"#2f6f7a\"/><text x=\"262\" y=\"29\">Welfare, performance</text><rect x=\"10\" y=\"98\" width=\"96\" height=\"34\" rx=\"6\" fill=\"#dceaec\" stroke=\"#2f6f7a\"/><text x=\"58\" y=\"119\">Leader and party</text><rect x=\"214\" y=\"98\" width=\"96\" height=\"34\" rx=\"6\" fill=\"#dceaec\" stroke=\"#2f6f7a\"/><text x=\"262\" y=\"119\">Money, local networks</text></g><path d=\"M106 30 L130 52 M214 30 L190 52 M106 110 L130 88 M214 110 L190 88\" stroke=\"#5d6474\"/></svg><ul><li><b>Identity.</b> Caste, community and region. <b>Kanchan Chandra</b>, in <i>Why Ethnic Parties Succeed</i> (2004), links this to the <b>patronage democracy</b>: where the state gives jobs and benefits, voters back leaders of their own group who will deliver.</li><li><b>Welfare and performance.</b> Voters judge schemes. A new voter group, the <i>labharthi</i> (beneficiary), has been noted in recent elections.</li><li><b>Leaders and party.</b> National elections have become more leader-focused.</li><li><b>Local networks, money and mobilisation.</b></li></ul>"
+  },
+  {
+   "tag": "Key idea",
+   "h": "Big shifts in Indian voting",
+   "b": "<ul><li><b>Mandalisation:</b> Christophe Jaffrelot's <i>India's Silent Revolution</i> (2003) describes how lower castes and OBCs moved from voting to ruling, rising in the Hindi belt after the 1990 Mandal reservation.</li><li><b>Rising turnout of the poor:</b> Yadav called this the \"second democratic upsurge\" in the 1990s: the poor, lower castes and Muslims vote at least as much as the rich.</li><li><b>Women:</b> turnout has risen. In 2019 women voted at a slightly higher rate than men for the first time in a general election.</li><li><b>Anti-incumbency</b> was strong in the 1990s-2000s, then weakened as governments tied elections to welfare delivery.</li><li><b>Turnout:</b> about 67.4% in 2019 and about 66% in 2024.</li><li><b>Ideology and identity:</b> Hindutva politics and welfare combine; Congress and regional parties respond with social justice and caste-census claims.</li></ul><p>Local matters too: the 2024 mandate in Uttar Pradesh (SP 37 seats) showed voters can choose differently in Lok Sabha than expected.</p>"
+  },
+  {
+   "tag": "Key idea",
+   "h": "Money in elections",
+   "b": "<ul><li>Candidate spending far exceeds legal limits; parties have no spending cap in practice.</li><li><b>Committees:</b> Dinesh Goswami (1990) on electoral reforms; Indrajit Gupta (1998) on state funding of elections; Law Commission 170th Report (1999).</li><li><b>Transparency by courts:</b> in <i>ADR v. Union of India</i> (2002) and <i>PUCL v. Union of India</i> (2003) the Supreme Court made candidates disclose criminal cases, assets and education.</li><li><b>Electoral bonds</b> (2018 scheme) allowed anonymous donations. In <i>ADR v. Union of India</i> (15 February 2024) a five-judge bench struck them down as unconstitutional, holding that anonymity violates the voter's right to information. The SBI was told to disclose the buyers.</li><li><b>Donations:</b> parties still get funds from corporate donors through electoral trusts.</li></ul><p>Scholars ask: if funding is secret, are policy favours possible? The Court's answer is that voters need to know.</p>"
+  },
+  {
+   "tag": "Key idea",
+   "h": "Criminalisation of politics",
+   "b": "<p><b>Milan Vaishnav</b>, <i>When Crime Pays: Money and Muscle in Indian Politics</i> (2017), explains why voters elect candidates with criminal cases. Parties need money, so they pick wealthy candidates. Voters in areas with weak state institutions see such a candidate as strong enough to deliver, and as a protector of their community. That is why candidates with cases often win.</p><p><b>The legal framework:</b></p><ul><li><b>Vohra Committee (1993)</b> found a nexus of crime and politics.</li><li><b>Representation of the People Act, 1951, s.8:</b> disqualification on conviction.</li><li><i>Lily Thomas</i> (2013): conviction with two years or more disqualifies immediately; the automatic protection for sitting legislators was struck down.</li><li><i>PUCL v. Union of India</i> (2013): <b>NOTA</b> option introduced.</li><li><i>Public Interest Foundation</i> (2018): Parliament should take steps; parties must publish candidates' records. In 2020-21 the Court told parties to give reasons for choosing candidates with cases.</li></ul>"
+  },
+  {
+   "tag": "Key idea",
+   "h": "The profile of the 2024 Lok Sabha",
+   "b": "<ul><li><b>Criminal cases:</b> 251 of 543 winners (46%) declared cases, up from 43% in 2019 and 34% in 2014. Serious cases: 170 (31%).</li><li><b>Wealth:</b> 504 of 543 (93%) were crorepatis, compared with 88% in 2019.</li><li><b>Women:</b> 74 MPs, about 14%, similar to 2019.</li><li><b>Chance of winning:</b> ADR found about a 15% chance for candidates with declared cases, against about 4% for those with clean records.</li></ul><p>Source: ADR's analysis of the 2024 affidavits.</p><p>The profile also includes age (most MPs are above 50) and education (a large majority are graduates), and a continuing under-representation of women and religious minorities.</p><p><b>Women's reservation:</b> the Constitution (106th Amendment) Act, 2023 (Nari Shakti Vandan Adhiniyam) reserves one-third of Lok Sabha and state assembly seats (including within SC/ST quotas) for women. It was notified into force on 16 April 2026, but the seats can be reserved only after delimitation. The next day, the Lok Sabha defeated the Constitution (131st Amendment) Bill, 2026 (298 for, 230 against, short of the two-thirds needed), which would have enlarged the House and allowed quick delimitation. So the quota did not apply in 2024 and its start date is now uncertain.</p>"
+  },
+  {
+   "tag": "Critique",
+   "h": "The reform agenda",
+   "b": "<ul><li><b>Disqualification of charged persons:</b> Law Commission 170th Report and the Election Commission proposed barring candidates charged with serious offences by a court. Parliament has not agreed.</li><li><b>Fast-track courts</b> for cases against legislators (Supreme Court orders from 2017).</li><li><b>State funding</b> (Indrajit Gupta Committee) to cut dependence on donors.</li><li><b>Simultaneous elections:</b> the Constitution (129th Amendment) Bill, 2024 is with a Joint Parliamentary Committee; its report was still awaited in the latest reports I found.</li><li><b>Roll integrity:</b> the Special Intensive Revision of electoral rolls, upheld by the Supreme Court in May 2026, raises questions of inclusion of poor and migrant voters.</li><li><b>EVM and VVPAT:</b> the Supreme Court in April 2024 declined to order 100% VVPAT matching.</li><li><b>Appointments:</b> the 2023 Act on the Chief Election Commissioner and Election Commissioners replaced the Chief Justice with a Union minister on the selection panel, after the Court's <i>Anoop Baranwal</i> (March 2023) direction.</li></ul>"
+  },
+  {
+   "tag": "Indian angle",
+   "h": "Examples to carry into the exam",
+   "b": "<ul><li><b>Bihar 2025:</b> an NDA landslide with women voters and welfare cash transfers widely discussed, plus a controversy over the SIR of electoral rolls.</li><li><b>West Bengal, Kerala and Tamil Nadu in 2026:</b> a change in each, showing the pull of anti-incumbency in southern and eastern states, and a new party (TVK) entering a Dravidian-dominated field.</li><li><b>Haryana and Maharashtra 2024:</b> surprise results against exit polls.</li><li><b>Caste census:</b> approved by the CCPA on 30 April 2025; Census 2027 includes a caste question. Expect pressure on voting patterns and quotas.</li><li><b>Digital campaigns</b> and direct benefit transfers change how parties reach voters.</li></ul>"
+  },
+  {
+   "tag": "Exam lens",
+   "h": "How UPSC asks this",
+   "b": "<div class=\"box\">\"Examine the major determinants of electoral behaviour in India.\"</div><div class=\"box\">\"Criminalisation of politics is a threat to democracy. Suggest measures.\"</div><div class=\"box\">\"How has the role of caste in elections changed since 1990?\"</div><div class=\"box\">\"Evaluate the electoral reforms of the past decades.\"</div><p><b>Structure:</b> theoretical models (Columbia, Michigan, rational choice); Indian studies (Lokniti, Eldersveld, Chandra, Jaffrelot); determinants (identity, welfare, leader, money); trends (turnout, women); legislators' profile with ADR numbers; criminalisation (Vaishnav, cases); reforms (electoral bonds judgment, state funding, disqualification); conclude with a balanced view.</p>",
+   "cls": "exam"
+  }
+ ],
+ "quiz": [
+  {
+   "q": "Who wrote When Crime Pays: Money and Muscle in Indian Politics?",
+   "o": [
+    "Milan Vaishnav",
+    "Kanchan Chandra",
+    "Christophe Jaffrelot",
+    "Paul Brass"
+   ],
+   "a": 0,
+   "w": "Vaishnav (2017)."
+  },
+  {
+   "q": "The patronage democracy idea comes from…",
+   "o": [
+    "Kanchan Chandra",
+    "Rajni Kothari",
+    "W.H. Morris-Jones",
+    "Selig Harrison"
+   ],
+   "a": 0,
+   "w": "Why Ethnic Parties Succeed (2004)."
+  },
+  {
+   "q": "The Michigan school of voting behaviour stresses…",
+   "o": [
+    "Social class",
+    "Party identification",
+    "Rational calculation of costs",
+    "Media effect"
+   ],
+   "a": 1,
+   "w": "The American Voter (1960)."
+  },
+  {
+   "q": "The NOTA option was introduced by the Supreme Court in…",
+   "o": [
+    "PUCL v. Union of India (2013)",
+    "Lily Thomas (2013)",
+    "Anoop Baranwal (2023)",
+    "ADR (2002)"
+   ],
+   "a": 0,
+   "w": "PUCL (27 September 2013)."
+  },
+  {
+   "q": "Lily Thomas (2013) held that…",
+   "o": [
+    "A convicted legislator with a sentence of two years or more is disqualified at once",
+    "Candidates need not disclose assets",
+    "NOTA is invalid",
+    "Bonds are legal"
+   ],
+   "a": 0,
+   "w": "It struck down the protection for sitting legislators."
+  },
+  {
+   "q": "The Supreme Court struck down electoral bonds on…",
+   "o": [
+    "15 February 2024",
+    "26 April 2024",
+    "11 December 2023",
+    "8 April 2025"
+   ],
+   "a": 0,
+   "w": "ADR v. Union of India."
+  },
+  {
+   "q": "According to ADR, what share of 2024 Lok Sabha winners declared criminal cases?",
+   "o": [
+    "34%",
+    "43%",
+    "46%",
+    "60%"
+   ],
+   "a": 2,
+   "w": "251 of 543."
+  },
+  {
+   "q": "Which committee on state funding of elections reported in 1998?",
+   "o": [
+    "Vohra Committee",
+    "Indrajit Gupta Committee",
+    "Dinesh Goswami Committee",
+    "Tarkunde Committee"
+   ],
+   "a": 1,
+   "w": "Indrajit Gupta Committee."
+  },
+  {
+   "q": "Jaffrelot's India's Silent Revolution deals with…",
+   "o": [
+    "OBC rise in the Hindi belt",
+    "Tribal movements",
+    "Electoral bonds",
+    "Panchayati Raj"
+   ],
+   "a": 0,
+   "w": "The rise of lower castes in north Indian politics."
+  },
+  {
+   "q": "The women's reservation law was enacted as the…",
+   "o": [
+    "106th Amendment Act, 2023",
+    "73rd Amendment Act",
+    "91st Amendment Act",
+    "42nd Amendment Act"
+   ],
+   "a": 0,
+   "w": "Constitution (106th Amendment) Act, 2023."
+  }
+ ],
+ "sources": [
+  "Downs, An Economic Theory of Democracy (1957); Campbell et al., The American Voter (1960); Eldersveld and Ahmed, Citizens and Politics (1978)",
+  "Kanchan Chandra, Why Ethnic Parties Succeed (2004); Christophe Jaffrelot, India's Silent Revolution (2003); Milan Vaishnav, When Crime Pays (2017)",
+  "CSDS-Lokniti National Election Study reports",
+  "ADR analysis of Lok Sabha 2024 winners; ECI data",
+  "ADR v. Union of India (electoral bonds, 15 Feb 2024); PUCL (2013); Lily Thomas (2013)",
+  "PYQ themes: electoral behaviour, criminalisation, electoral reforms (Paper I Section B)"
+ ],
+ "verified": "2026-11-10"
+}

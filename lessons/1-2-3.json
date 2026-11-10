@@ -1,0 +1,178 @@
+{
+ "id": "1-2-3",
+ "title": "Judicial Review and Basic Structure",
+ "emoji": "⚖️",
+ "cards": [
+  {
+   "tag": "Why this matters",
+   "h": "Who guards the Constitution?",
+   "b": "<p><b>Judicial review</b> is the power of courts to test laws and executive acts against the Constitution and strike down those that violate it. The <b>basic structure doctrine</b> goes further: even a constitutional amendment cannot destroy the Constitution's core features.</p><p>Together they decide who has the last word: Parliament or the Supreme Court. This is among the most important themes in Paper I, linked to nearly every other topic, from rights to federalism.</p><p>The idea has US roots in <i>Marbury v. Madison</i> (1803). In India, the Constitution gives textual support through <b>Article 13</b> (laws inconsistent with Fundamental Rights are void), <b>Article 32</b> and <b>226</b> (writs), <b>Articles 131-136</b> (jurisdiction) and Articles 124 onwards (the judiciary).</p><p>Examiners ask: What is the basic structure? How did the doctrine evolve? Is it undemocratic? How has the Court used it? Prepare a case timeline and a few current examples.</p>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "How the doctrine evolved",
+   "b": "<svg class=\"d\" viewBox=\"0 0 320 150\"><g font-size=\"9.5\" fill=\"#1d2433\" text-anchor=\"middle\"><rect x=\"6\" y=\"8\" width=\"96\" height=\"40\" rx=\"6\" fill=\"#f1e4c6\" stroke=\"#a8792a\"/><text x=\"54\" y=\"24\" font-weight=\"700\">1951, 1965</text><text x=\"54\" y=\"38\">Parliament can amend rights</text><rect x=\"112\" y=\"8\" width=\"96\" height=\"40\" rx=\"6\" fill=\"#f4dcd5\" stroke=\"#a3362a\"/><text x=\"160\" y=\"24\" font-weight=\"700\">1967 Golaknath</text><text x=\"160\" y=\"38\">It cannot</text><rect x=\"218\" y=\"8\" width=\"96\" height=\"40\" rx=\"6\" fill=\"#f1e4c6\" stroke=\"#a8792a\"/><text x=\"266\" y=\"24\" font-weight=\"700\">1971 24th, 25th</text><text x=\"266\" y=\"38\">Parliament hits back</text><rect x=\"6\" y=\"62\" width=\"96\" height=\"40\" rx=\"6\" fill=\"#dceaec\" stroke=\"#2f6f7a\"/><text x=\"54\" y=\"78\" font-weight=\"700\">1973 Kesavananda</text><text x=\"54\" y=\"92\">Basic structure, 7:6</text><rect x=\"112\" y=\"62\" width=\"96\" height=\"40\" rx=\"6\" fill=\"#f1e4c6\" stroke=\"#a8792a\"/><text x=\"160\" y=\"78\" font-weight=\"700\">1975-76 Emergency</text><text x=\"160\" y=\"92\">39th, 42nd, ADM Jabalpur</text><rect x=\"218\" y=\"62\" width=\"96\" height=\"40\" rx=\"6\" fill=\"#dceaec\" stroke=\"#2f6f7a\"/><text x=\"266\" y=\"78\" font-weight=\"700\">1980 Minerva Mills</text><text x=\"266\" y=\"92\">Limited power basic</text><rect x=\"6\" y=\"112\" width=\"308\" height=\"30\" rx=\"6\" fill=\"#fff\" stroke=\"#5d6474\"/><text x=\"160\" y=\"131\">2007 Coelho: Ninth Schedule laws reviewable</text></g></svg><p>The idea of implied limits came from German jurist <b>Dietrich Conrad</b>, whose 1965 lecture at Banaras Hindu University was cited by Justice <b>Mudholkar</b> in his <i>Sajjan Singh</i> dissent. <b>Nani Palkhivala</b> argued the case for the petitioners in <i>Kesavananda</i>.</p>"
+  },
+  {
+   "tag": "Key idea",
+   "h": "Kesavananda Bharati (24 April 1973)",
+   "b": "<p>Swami Kesavananda challenged Kerala's land reform laws, which were placed in the Ninth Schedule. A 13-judge bench, the largest in the Court's history, heard it for 68 days. The 7:6 verdict held:</p><ul><li>Parliament <b>can amend</b> any part of the Constitution, including Fundamental Rights, under Article 368.</li><li>But it <b>cannot change the basic structure or framework</b> of the Constitution.</li><li>Different judges listed different features: Sikri (supremacy, republican and democratic form, secular character, separation of powers, federalism); Shelat and Grover added the mandate to build a welfare state and the unity and integrity of the nation; Hegde and Mukherjea added the sovereignty of India and the essential features of individual freedoms; Khanna's concurrence was decisive.</li><li>Article 31C was upheld in part: laws for Article 39(b)-(c) are protected but still open to review.</li></ul><p>A day later, on 26 April 1973, A.N. Ray became Chief Justice, superseding three senior judges (Shelat, Hegde, Grover). It was widely seen as a response to the verdict.</p>"
+  },
+  {
+   "tag": "Key idea",
+   "h": "After Kesavananda: the Emergency and recovery",
+   "b": "<ul><li><b>Indira Gandhi v. Raj Narain</b> (1975): the Court struck down the 39th Amendment's clause removing the PM's election from judicial scrutiny, citing free and fair elections and rule of law as basic features.</li><li><b>ADM Jabalpur v. Shivkant Shukla</b> (1976): during the Emergency, a 4:1 majority said no habeas corpus remedy was available. Justice H.R. Khanna's lone dissent became famous. The ruling was overruled by <i>Puttaswamy</i> (2017).</li><li><b>42nd Amendment (1976):</b> tried to put amendments beyond review.</li><li><b>Minerva Mills</b> (1980): struck down the clauses; limited amending power and the balance between Fundamental Rights and Directive Principles are basic.</li><li><b>Waman Rao</b> (1980): Ninth Schedule laws before 24 April 1973 are protected.</li><li><b>I.R. Coelho</b> (2007): laws placed in the Ninth Schedule after that date can be reviewed on rights and basic structure.</li></ul>"
+  },
+  {
+   "tag": "Key idea",
+   "h": "The accepted list of basic features",
+   "b": "<p>The Court has never given an exhaustive list. Features recognised in cases include:</p><ul><li>Supremacy of the Constitution, and the rule of law.</li><li>Sovereign, democratic, republican structure; parliamentary democracy.</li><li>Secularism (<i>Bommai</i>, 1994) and federalism.</li><li>Separation of powers, independence of the judiciary and judicial review (<i>L. Chandra Kumar</i>, 1997).</li><li>Free and fair elections (<i>Indira Gandhi v. Raj Narain</i>, 1975).</li><li>Fundamental Rights' essence and the balance with Part IV (<i>Minerva Mills</i>).</li><li>Unity and integrity of the nation; equality and the \"golden triangle\" of Articles 14, 19 and 21.</li><li>Welfare state, social justice and the principle of reasonableness.</li></ul><p>Note: the doctrine tests <b>constitutional amendments</b>. Ordinary laws are tested against specific provisions, as the Court clarified in <i>State of A.P. v. McDowell</i> (1996).</p><p>Other countries have followed the idea, including Bangladesh (<i>Anwar Hossain Chowdhury</i>, 1989).</p>"
+  },
+  {
+   "tag": "Key idea",
+   "h": "Judicial review in action and the judges' appointments",
+   "b": "<ul><li><b>Writs</b> under Article 32/226: habeas corpus, mandamus, certiorari, prohibition, quo warranto.</li><li><b>PIL:</b> relaxed locus standi since the late 1970s. <i>Hussainara Khatoon</i> (1979) on undertrial prisoners and <i>Vishaka</i> (1997) on sexual harassment, where the Court made guidelines in the absence of a law.</li><li><b>Appointments:</b> <i>S.P. Gupta</i> (First Judges Case, 1981) gave the executive primacy; the <i>Second Judges Case</i> (1993) established the <b>collegium</b> and the CJI's primacy; the <i>Third</i> (1998, Presidential reference) set it as the CJI and four senior-most judges.</li><li><b>99th Amendment and NJAC:</b> struck down in the <i>Fourth Judges Case</i> on 16 October 2015 (4:1, Justice Chelameswar dissenting) as breaching independence of the judiciary, a basic feature.</li><li><b>Article 142</b> allows orders for \"complete justice\". It has been used for broad directions, and critics say it can be overstretched.</li></ul>"
+  },
+  {
+   "tag": "Key idea",
+   "h": "What the courts review besides statutes",
+   "b": "<ul><li><b>Administrative action:</b> tests of legality, reasonableness (the <i>Wednesbury</i> test), proportionality and fair procedure (natural justice). <i>Maneka Gandhi</i> made fairness part of Article 14 and 21.</li><li><b>Ordinances:</b> in <i>D.C. Wadhwa</i> (1987), repeated re-promulgation of ordinances was held a fraud on the Constitution. <i>Krishna Kumar Singh</i> (2017) confirmed that the satisfaction of the President or Governor is reviewable.</li><li><b>Emergency and President's Rule:</b> reviewable after <i>Bommai</i> (1994); the 38th and 44th Amendments' effect on Article 352 and 356.</li><li><b>Mercy and pardon:</b> reviewable on limited grounds (<i>Epuru Sudhakar</i>, 2006).</li><li><b>Tribunals:</b> in <i>L. Chandra Kumar</i> (1997) the Court held that High Court and Supreme Court review over tribunals cannot be excluded. The Tribunals Reforms Act, 2021 was challenged on independence grounds.</li><li><b>Parliamentary proceedings:</b> courts avoid interfering in internal matters (Article 122), but Speakers' decisions on defection are reviewable (<i>Kihoto Hollohan</i>, 1992).</li></ul><p>Rule of thumb: courts judge <i>legality</i>, not <i>wisdom</i>. Yet that line moves as new rights are recognised.</p>"
+  },
+  {
+   "tag": "Critique",
+   "h": "Guardian or usurper?",
+   "b": "<p><b>The case for:</b> the doctrine protects minorities from a transient majority and stopped the Emergency-era attempts to place the executive beyond law. <b>H.R. Khanna</b>'s dissent in ADM Jabalpur and his role in Kesavananda are held up as moral anchors.</p><p><b>The case against:</b></p><ul><li>Alexander Bickel called this the <b>counter-majoritarian difficulty</b> in <i>The Least Dangerous Branch</i> (1962): unelected judges overturning elected representatives.</li><li>The basic structure is judge-defined and vague, so the Court becomes the final author of the Constitution.</li><li>Collegium opacity: judges appoint judges, with little transparency.</li><li>Judicial overreach: the Court has set policy on pollution, vehicles and cricket administration.</li></ul><p><b>S.P. Sathe</b> (<i>Judicial Activism in India</i>, 2002) distinguished legitimate activism from overreach; <b>Upendra Baxi</b> and <b>Rajeev Dhavan</b> wrote critically on the Court's role. Balanced conclusion: the doctrine is an essential check, but the Court must use restraint and open its own appointment process.</p>"
+  },
+  {
+   "tag": "Indian angle",
+   "h": "The Court and the political branches, 2023-2026",
+   "b": "<ul><li><b>Article 370 (11 December 2023):</b> the Court upheld the revocation of J&K's special status, adopting a deferential approach.</li><li><b>Electoral bonds (15 February 2024):</b> struck down on voters' right to information.</li><li><b>Tamil Nadu v. Governor (8 April 2025):</b> used Article 142 to set time limits and \"deemed assent\"; critics, including the then Vice-President, questioned the use of Article 142. In November 2025, a five-judge bench answering the Presidential reference said courts cannot fix such deadlines.</li><li><b>Waqf Act (15 September 2025):</b> partial stay, with the Court saying it will be slow to stay statutes.</li><li><b>SIR of electoral rolls:</b> upheld in May 2026 as within the Election Commission's powers.</li><li><b>Delimitation and ONOE:</b> arguments about whether changes affect the federal structure or electoral equality, which could return to the basic-structure debate if they pass.</li><li><b>Chief Justice Surya Kant</b> (from 24 November 2025) leads the Court until February 2027.</li></ul>"
+  },
+  {
+   "tag": "Exam lens",
+   "h": "How UPSC asks this",
+   "b": "<div class=\"box\">\"Explain the doctrine of basic structure. How has it protected the Constitution?\"</div><div class=\"box\">\"Judicial review versus parliamentary sovereignty: which should prevail in India?\"</div><div class=\"box\">\"Judicial activism has become judicial overreach.\" Examine.</div><div class=\"box\">\"Evaluate the collegium system and the NJAC verdict.\"</div><p><b>Structure:</b> define judicial review and Article 13; evolution (Shankari Prasad to Kesavananda); features; post-1973 cases (Raj Narain, Minerva Mills, Coelho); appointments (three judges cases, NJAC); critique (Bickel, Sathe); current examples (electoral bonds, Governors' case, Waqf); close with a case for restraint plus transparency.</p>",
+   "cls": "exam"
+  }
+ ],
+ "quiz": [
+  {
+   "q": "Kesavananda Bharati was decided by a bench of…",
+   "o": [
+    "5 judges",
+    "9 judges",
+    "11 judges",
+    "13 judges"
+   ],
+   "a": 3,
+   "w": "The largest bench; verdict 7:6 on 24 April 1973."
+  },
+  {
+   "q": "Who argued for the petitioners in Kesavananda?",
+   "o": [
+    "Nani Palkhivala",
+    "H.M. Seervai",
+    "M.C. Setalvad",
+    "Fali Nariman"
+   ],
+   "a": 0,
+   "w": "Nani Palkhivala."
+  },
+  {
+   "q": "Which case first held that Parliament cannot amend Fundamental Rights?",
+   "o": [
+    "Shankari Prasad",
+    "Golaknath",
+    "Minerva Mills",
+    "Bommai"
+   ],
+   "a": 1,
+   "w": "Golaknath v. State of Punjab (1967)."
+  },
+  {
+   "q": "ADM Jabalpur was overruled in…",
+   "o": [
+    "Maneka Gandhi",
+    "Puttaswamy (2017)",
+    "Navtej Johar",
+    "Shreya Singhal"
+   ],
+   "a": 1,
+   "w": "Puttaswamy described it as seriously flawed."
+  },
+  {
+   "q": "Minerva Mills (1980) struck down parts of the…",
+   "o": [
+    "24th Amendment",
+    "39th Amendment",
+    "42nd Amendment",
+    "44th Amendment"
+   ],
+   "a": 2,
+   "w": "It struck down clauses barring judicial review of amendments."
+  },
+  {
+   "q": "Laws added to the Ninth Schedule after 24 April 1973 are reviewable per…",
+   "o": [
+    "Waman Rao",
+    "I.R. Coelho",
+    "Indra Sawhney",
+    "L. Chandra Kumar"
+   ],
+   "a": 1,
+   "w": "I.R. Coelho (2007)."
+  },
+  {
+   "q": "The collegium system was set up by the…",
+   "o": [
+    "First Judges Case",
+    "Second Judges Case",
+    "Third Judges Case",
+    "Fourth Judges Case"
+   ],
+   "a": 1,
+   "w": "Second Judges Case (1993)."
+  },
+  {
+   "q": "The NJAC was struck down on…",
+   "o": [
+    "16 October 2015",
+    "24 April 1973",
+    "9 November 2019",
+    "11 December 2023"
+   ],
+   "a": 0,
+   "w": "In the Fourth Judges Case, by 4:1."
+  },
+  {
+   "q": "The idea of implied limits on the amending power was inspired by…",
+   "o": [
+    "Dietrich Conrad",
+    "Hans Kelsen",
+    "A.V. Dicey",
+    "Ronald Dworkin"
+   ],
+   "a": 0,
+   "w": "Conrad's 1965 lecture at BHU."
+  },
+  {
+   "q": "Alexander Bickel's phrase for the problem of unelected judges overturning laws is…",
+   "o": [
+    "Judicial restraint",
+    "Counter-majoritarian difficulty",
+    "Basic structure",
+    "Separation of powers"
+   ],
+   "a": 1,
+   "w": "The Least Dangerous Branch (1962)."
+  }
+ ],
+ "sources": [
+  "Constitution of India, Arts 13, 32, 124-147, 226, 368",
+  "Kesavananda Bharati v. State of Kerala (1973); Indira Gandhi v. Raj Narain (1975); ADM Jabalpur (1976); Minerva Mills (1980); I.R. Coelho (2007); Fourth Judges Case (2015)",
+  "Granville Austin, Working a Democratic Constitution (1999); S.P. Sathe, Judicial Activism in India (2002); Alexander Bickel, The Least Dangerous Branch (1962)",
+  "In re Article 370 (2023); ADR v. Union (2024); Tamil Nadu v. Governor (2025); Presidential reference opinion (Nov 2025)",
+  "PYQ themes: judicial review, basic structure, activism (Paper I Section B)"
+ ],
+ "verified": "2026-11-10"
+}

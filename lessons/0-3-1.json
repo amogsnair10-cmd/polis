@@ -11,7 +11,7 @@
   {
    "tag": "Core idea",
    "h": "Meaning and forms",
-   "b": "<p>The term \"affirmative action\" was first used in US Executive Order 10925 (1961, President Kennedy) and developed under President Johnson in Executive Order 11246 (1965). In India it is usually called <b>reservation</b>, and in Britain \"positive discrimination\".</p><ul><li><b>Quotas</b>: fixed seats or posts.</li><li><b>Preferences or plus points</b>: extra weight in selection.</li><li><b>Outreach and support</b>: coaching, hostels, scholarships, relaxed age limits.</li><li><b>Targets and goals</b>: soft aims without fixed numbers.</li><li><b>Political reservation</b>: seats in legislatures or local bodies.</li></ul><p>Beneficiaries may be defined by caste, race, gender, disability or economic status. How you define the group is a major source of dispute.</p>"
+   "b": "<p>The phrase \"affirmative action\" had appeared earlier in the Wagner Act (1935) on labour relations. US Executive Order 10925 (1961, President Kennedy) was its first use in the context of racial discrimination, and it was developed under President Johnson in Executive Order 11246 (1965). In India it is usually called <b>reservation</b>, and in Britain \"positive discrimination\".</p><ul><li><b>Quotas</b>: fixed seats or posts.</li><li><b>Preferences or plus points</b>: extra weight in selection.</li><li><b>Outreach and support</b>: coaching, hostels, scholarships, relaxed age limits.</li><li><b>Targets and goals</b>: soft aims without fixed numbers.</li><li><b>Political reservation</b>: seats in legislatures or local bodies.</li></ul><p>Beneficiaries may be defined by caste, race, gender, disability or economic status. How you define the group is a major source of dispute.</p>"
   },
   {
    "tag": "Key idea",
@@ -26,17 +26,27 @@
   {
    "tag": "Debate",
    "h": "The US experience",
-   "b": "<svg class='d' viewBox='0 0 320 140'><rect x='10' y='6' width='93' height='44' rx='8' fill='#ffffff' stroke='#5d6474'/><text x='57' y='22' font-size='10.5' fill='#1d2433' text-anchor='middle' font-weight='700'>1954</text><text x='57' y='36' font-size='10.5' fill='#1d2433' text-anchor='middle'>Brown v Board</text><rect x='113' y='6' width='93' height='44' rx='8' fill='#f1e4c6' stroke='#a8792a'/><text x='160' y='22' font-size='10.5' fill='#1d2433' text-anchor='middle' font-weight='700'>1961-65</text><text x='160' y='36' font-size='10.5' fill='#1d2433' text-anchor='middle'>Executive Orders</text><rect x='217' y='6' width='93' height='44' rx='8' fill='#dceaec' stroke='#2f6f7a'/><text x='263' y='22' font-size='10.5' fill='#1d2433' text-anchor='middle' font-weight='700'>1978</text><text x='263' y='36' font-size='10.5' fill='#1d2433' text-anchor='middle'>Bakke: no quotas, diversity ok</text><rect x='10' y='72' width='93' height='44' rx='8' fill='#dceaec' stroke='#2f6f7a'/><text x='57' y='88' font-size='10.5' fill='#1d2433' text-anchor='middle' font-weight='700'>2003</text><text x='57' y='102' font-size='10.5' fill='#1d2433' text-anchor='middle'>Grutter: law school</text><rect x='113' y='72' width='93' height='44' rx='8' fill='#f4dcd5' stroke='#a3362a'/><text x='160' y='88' font-size='10.5' fill='#1d2433' text-anchor='middle' font-weight='700'>2023</text><text x='160' y='102' font-size='10.5' fill='#1d2433' text-anchor='middle'>SFFA ends race preference</text></svg><p>In <i>Regents of the University of California v Bakke</i> (1978), the US Supreme Court barred fixed racial quotas but allowed race as one factor to get a diverse class. <i>Grutter v Bollinger</i> (2003) upheld such a plus factor at a law school.</p><p>In <i>Students for Fair Admissions v Harvard</i> (June 2023), the Court held that race-conscious admissions at Harvard and the University of North Carolina violate the Equal Protection Clause. It marked a major turn.</p><p>US policy aims mainly at diversity. Indian reservation rests on representation of historically excluded groups, and is in the Constitution itself.</p>"
+   "b": "<svg class='d' viewBox='0 0 320 140'><rect x='10' y='6' width='93' height='44' rx='8' fill='#ffffff' stroke='#5d6474'/><text x='57' y='22' font-size='10.5' fill='#1d2433' text-anchor='middle' font-weight='700'>1954</text><text x='57' y='36' font-size='10.5' fill='#1d2433' text-anchor='middle'>Brown v Board</text><rect x='113' y='6' width='93' height='44' rx='8' fill='#f1e4c6' stroke='#a8792a'/><text x='160' y='22' font-size='10.5' fill='#1d2433' text-anchor='middle' font-weight='700'>1961-65</text><text x='160' y='36' font-size='10.5' fill='#1d2433' text-anchor='middle'>Executive Orders</text><rect x='217' y='6' width='93' height='44' rx='8' fill='#dceaec' stroke='#2f6f7a'/><text x='263' y='22' font-size='10.5' fill='#1d2433' text-anchor='middle' font-weight='700'>1978</text><text x='263' y='36' font-size='10.5' fill='#1d2433' text-anchor='middle'>Bakke: no quotas, diversity ok</text><rect x='10' y='72' width='93' height='44' rx='8' fill='#dceaec' stroke='#2f6f7a'/><text x='57' y='88' font-size='10.5' fill='#1d2433' text-anchor='middle' font-weight='700'>2003</text><text x='57' y='102' font-size='10.5' fill='#1d2433' text-anchor='middle'>Grutter: law school</text><rect x='113' y='72' width='93' height='44' rx='8' fill='#f4dcd5' stroke='#a3362a'/><text x='160' y='88' font-size='10.5' fill='#1d2433' text-anchor='middle' font-weight='700'>2023</text><text x='160' y='102' font-size='10.5' fill='#1d2433' text-anchor='middle'>SFFA ends race preference</text></svg><p>In <i>Regents of the University of California v Bakke</i> (1978), the US Supreme Court barred fixed racial quotas but allowed race as one factor to get a diverse class. <i>Grutter v Bollinger</i> (2003) upheld such a plus factor at a law school.</p><p>In <i>Students for Fair Admissions v Harvard</i> (June 2023), the Court held that race-conscious admissions at Harvard and the University of North Carolina violate the Equal Protection Clause (and, for private universities taking federal funds, Title VI of the Civil Rights Act 1964). It marked a major turn.</p><p>US policy aims mainly at diversity. Indian reservation rests on representation of historically excluded groups, and is in the Constitution itself.</p>"
   },
   {
    "tag": "Key idea",
-   "h": "Reservation in the Constitution",
-   "b": "<ul><li><b>Article 15(4)</b>: special provisions for socially and educationally backward classes, SCs and STs (added by the First Amendment, 1951, after <i>State of Madras v Champakam Dorairajan</i>, 1951). <b>15(5)</b>: private and public educational institutions (93rd Amendment, 2005). <b>15(6)</b>: economically weaker sections (103rd Amendment, 2019).</li><li><b>Article 16(4)</b>: reservation in public posts for backward classes not adequately represented. <b>16(4A)</b>: promotions for SC/ST (77th Amendment, 1995). <b>16(4B)</b>: carry-forward of vacancies (81st). <b>16(6)</b>: EWS.</li><li><b>Articles 330 and 332</b>: seats for SC and ST in the Lok Sabha and Assemblies. <b>243D and 243T</b>: local bodies.</li><li><b>Article 335</b>: claims of SC/ST in services, consistent with efficiency. <b>Article 340</b>: commission on backward classes. <b>46</b>: promotion of educational and economic interests.</li></ul>"
+   "h": "Reservation in the Constitution: Articles 15 and 16",
+   "b": "<ul><li><b>Article 15(4)</b>: special provisions for socially and educationally backward classes, SCs and STs (added by the First Amendment, 1951, after <i>State of Madras v Champakam Dorairajan</i>, 1951). <b>15(5)</b>: private and public educational institutions (93rd Amendment, 2005). <b>15(6)</b>: economically weaker sections (103rd Amendment, 2019).</li><li><b>Article 16(4)</b>: reservation in public posts for backward classes not adequately represented. <b>16(4A)</b>: promotions for SC/ST (77th Amendment, 1995). <b>16(4B)</b>: carry-forward of vacancies (81st). <b>16(6)</b>: EWS.</li></ul>"
   },
   {
    "tag": "Key idea",
-   "h": "The case law, in order",
-   "b": "<ol><li><b>Champakam Dorairajan</b> (1951): communal quota struck down. Led to the First Amendment.</li><li><b>M.R. Balaji</b> (1962): 50% ceiling is a rule of prudence.</li><li><b>State of Kerala v N.M. Thomas</b> (1975): Article 16(4) is an illustration of Article 16(1), not an exception.</li><li><b>Indra Sawhney</b> (1992): the Mandal case, 6:3. Upheld 27% for OBCs. Excluded the creamy layer, capped total reservations at 50% (except in extraordinary cases), said reservation applies only at initial appointment, not promotion, and required a permanent backward classes body.</li><li><b>M. Nagaraj</b> (2006): promotion quotas are valid only with data on backwardness, inadequacy and efficiency.</li><li><b>Jarnail Singh</b> (2018): creamy layer concept applied to SC/ST promotions; quantifiable data on backwardness not needed.</li></ol>"
+   "h": "Reservation in the Constitution: other provisions",
+   "b": "<ul><li><b>Articles 330 and 332</b>: seats for SC and ST in the Lok Sabha and Assemblies. <b>243D and 243T</b>: local bodies.</li><li><b>Article 335</b>: claims of SC/ST in services, consistent with efficiency. <b>Article 340</b>: commission on backward classes. <b>46</b>: promotion of educational and economic interests.</li></ul>"
+  },
+  {
+   "tag": "Key idea",
+   "h": "The case law, in order: 1951 to 1992",
+   "b": "<ol><li><b>Champakam Dorairajan</b> (1951): communal quota struck down. Led to the First Amendment.</li><li><b>M.R. Balaji</b> (1962): 50% ceiling is a rule of prudence.</li><li><b>State of Kerala v N.M. Thomas</b> (1975): Article 16(4) is an illustration of Article 16(1), not an exception.</li><li><b>Indra Sawhney</b> (1992): the Mandal case, 6:3. Upheld 27% for OBCs. Excluded the creamy layer, capped total reservations at 50% (except in extraordinary cases), said reservation applies only at initial appointment, not promotion, and required a permanent backward classes body.</li></ol>"
+  },
+  {
+   "tag": "Key idea",
+   "h": "The case law, in order: after Indra Sawhney",
+   "b": "<ol start='5'><li><b>M. Nagaraj</b> (2006): promotion quotas are valid only with data on backwardness, inadequacy and efficiency.</li><li><b>Jarnail Singh</b> (2018): creamy layer concept applied to SC/ST promotions; quantifiable data on backwardness not needed.</li></ol>"
   },
   {
    "tag": "Key idea",
@@ -57,7 +67,7 @@
  ],
  "quiz": [
   {
-   "q": "The term 'affirmative action' was first used officially in…",
+   "q": "The phrase 'affirmative action' was first used in the context of racial discrimination in…",
    "o": [
     "Civil Rights Act 1964",
     "US Executive Order 10925 (1961)",
@@ -65,7 +75,7 @@
     "Brown v Board 1954"
    ],
    "a": 1,
-   "w": "President Kennedy's order of 1961."
+   "w": "President Kennedy's order of 1961. The phrase itself appeared in the 1935 Wagner Act on labour."
   },
   {
    "q": "Article 15(4) was inserted by the…",
@@ -164,7 +174,7 @@
     "Legacy admissions are banned"
    ],
    "a": 2,
-   "w": "It ended race-based preferences in college admissions."
+   "w": "It held that race-conscious admissions violate the Equal Protection Clause and Title VI."
   }
  ],
  "sources": [

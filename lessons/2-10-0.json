@@ -1,0 +1,188 @@
+{
+ "id": "2-10-0",
+ "title": "Democracy and Human Rights",
+ "emoji": "🗳️",
+ "cards": [
+  {
+   "tag": "Why this matters",
+   "h": "Two big ideas, often in conflict",
+   "b": "<p>Democracy and human rights are two of the great \"norms\" of the modern world. States are expected to hold elections and to protect basic freedoms. Yet the world often fails these tests, and the great powers apply them unevenly.</p><p>For UPSC, the theme asks four things. What are the ideas? How did they spread? Where do they clash with sovereignty? And what is happening now: democratic backsliding, the Responsibility to Protect (R2P), and the strain on global institutions?</p><p>The topic joins easily with other parts of the syllabus: the UN (Council, ICC), Western political thought (rights, Locke), and Indian Constitution (Part III). It also runs through India's foreign policy debates on human rights and intervention.</p><p>Aim to show both sides in every answer. Universal values, and local contexts. Rights, and sovereignty. Promotion, and imposition.</p>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "What is democracy, and how do we measure it?",
+   "b": "<p>There are narrow and wide definitions.</p><ul><li><b>Minimal (procedural).</b> Joseph Schumpeter, <i>Capitalism, Socialism and Democracy</i> (1942): democracy is a method in which leaders win power through competitive elections.</li><li><b>Polyarchy.</b> Robert Dahl, <i>Polyarchy</i> (1971): free and fair elections plus inclusive suffrage, freedom of expression, alternative information and freedom of association.</li><li><b>Substantive.</b> Amartya Sen, <i>Development as Freedom</i> (1999), and \"Democracy as a Universal Value\" (1999): democracy gives voice, prevents famines and is valued everywhere. Real democracy needs social and economic equality too.</li></ul><p>Rankings help. <b>V-Dem</b> (Sweden) separates liberal democracies, electoral democracies, electoral autocracies and closed autocracies. <b>Freedom House</b> (US) scores political rights and civil liberties. The <b>EIU Democracy Index</b> uses categories from \"full democracy\" to \"authoritarian\". Their methods differ, and governments, including India's, often dispute them.</p>"
+  },
+  {
+   "tag": "Event",
+   "h": "Waves, promotion and setbacks",
+   "b": "<p>Samuel Huntington, <i>The Third Wave: Democratization in the Late Twentieth Century</i> (1991), counted three waves of democratisation, each followed by a \"reverse wave\".</p><div class=\"box\"><h4>Huntington's waves</h4>First: 1828 to 1926 (the long wave, from the US and Europe). Second: 1943 to 1962 (post-war, and decolonisation). Third: from 1974 (Portugal, Spain, Latin America, East Asia, then Eastern Europe after 1989).</div><p>Francis Fukuyama's \"The End of History?\" (1989) and book (1992) argued liberal democracy had won the argument.</p><p>Western states then promoted democracy through aid, election monitoring and conditionality (the EU's Copenhagen criteria, 1993). The results were mixed. The <b>2003 Iraq invasion</b> was partly justified as democracy-building, and it left a poor record. The <b>Arab Spring</b> (2010-11) brought hope, but only Tunisia held on for a time, and it too has seen backsliding. Critics say democracy cannot be imposed from outside.</p>"
+  },
+  {
+   "tag": "Event",
+   "h": "Democratic recession",
+   "b": "<p>Larry Diamond called it a \"democratic recession\" (2015). Many see it as a shift from open coups to <b>executive aggrandisement</b>: elected leaders slowly weaken courts, media, civil society and opposition.</p><p>The V-Dem Democracy Report 2026 counted 92 autocracies and 87 democracies at the end of 2025. It was the second year in a row in which autocracies outnumbered democracies. The report said the average world citizen enjoys democracy at a level last seen around 1978.</p><div class=\"box\"><h4>Typical signs</h4><ul><li>Pressure on the media and on NGOs.</li><li>Capture or weakening of the judiciary and election bodies.</li><li>Use of emergency or security laws against opponents.</li><li>Disinformation and polarisation online.</li></ul></div><p>Even established democracies face strain, including the US. Defenders of each government dispute such labels. V-Dem has classed India as an \"electoral autocracy\", while the Indian government rejects the ratings as biased. Quote the rating but give the government's reply too.</p>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "Human rights: the framework",
+   "b": "<svg class=\"d\" viewBox=\"0 0 320 140\"><line x1=\"14\" y1=\"70\" x2=\"306\" y2=\"70\" stroke=\"#5d6474\" stroke-width=\"2\"/><g font-size=\"10\" fill=\"#1d2433\" text-anchor=\"middle\"><circle cx=\"35\" cy=\"70\" r=\"5\" fill=\"#a8792a\"/><text x=\"35\" y=\"52\">1948</text><text x=\"35\" y=\"90\">UDHR</text><circle cx=\"100\" cy=\"70\" r=\"5\" fill=\"#a8792a\"/><text x=\"100\" y=\"52\">1966</text><text x=\"100\" y=\"90\">ICCPR,</text><text x=\"100\" y=\"102\">ICESCR</text><circle cx=\"165\" cy=\"70\" r=\"5\" fill=\"#a8792a\"/><text x=\"165\" y=\"52\">1993</text><text x=\"165\" y=\"90\">Vienna</text><text x=\"165\" y=\"102\">Declaration</text><circle cx=\"230\" cy=\"70\" r=\"5\" fill=\"#a8792a\"/><text x=\"230\" y=\"52\">1998-2002</text><text x=\"230\" y=\"90\">Rome Statute,</text><text x=\"230\" y=\"102\">ICC</text><circle cx=\"291\" cy=\"70\" r=\"5\" fill=\"#a8792a\"/><text x=\"291\" y=\"52\">2005-06</text><text x=\"291\" y=\"90\">R2P, HRC</text></g></svg><ul><li>The <b>Universal Declaration of Human Rights</b> (UDHR) was adopted by the UN General Assembly on <b>10 December 1948</b>. It is not binding, but it is the base of later law. 48 states voted yes; none opposed; 8 abstained.</li><li>The <b>ICCPR</b> and <b>ICESCR</b> (both adopted in 1966, in force 1976) made the rights binding. With the UDHR they form the International Bill of Rights.</li><li>Karel Vasak's three <b>generations</b> (1979): civil-political; economic-social-cultural; collective or solidarity rights (development, environment, peace). The <b>Declaration on the Right to Development</b> (1986) belongs to the third.</li><li>The <b>Vienna Declaration</b> (1993) said rights are universal, indivisible, interdependent and interrelated.</li></ul>"
+  },
+  {
+   "tag": "Debate",
+   "h": "Universalism or relativism?",
+   "b": "<div class=\"box\"><h4>Universalists</h4>Rights belong to humans as humans. Jack Donnelly, <i>Universal Human Rights in Theory and Practice</i> (1989). They point to the UDHR, signed by states from every region, and to Hansa Mehta of India, who is credited with changing the draft wording from \"all men\" to \"all human beings\".</div><div class=\"box\"><h4>Relativists</h4>Rights reflect cultures. Some leaders in Asia, including Lee Kuan Yew of Singapore and Mahathir Mohamad of Malaysia, argued in the 1990s for \"<b>Asian values</b>\": community and order over individual rights, and development first. The <b>Bangkok Declaration</b> (1993) put the case. Others stress that rights talk grew out of Western liberalism and was used to justify colonial rule.</div><div class=\"box\"><h4>Middle ground</h4>Amartya Sen argued Asian traditions also value tolerance and liberty, and that rights and development reinforce one another. Rawls's <i>The Law of Peoples</i> (1999) proposed a shorter list of \"urgent\" rights for all societies.</div><p>The Vienna Conference (1993) stated the common view: cultural particularities must be borne in mind, but states must protect all rights regardless of their systems.</p>"
+  },
+  {
+   "tag": "Key idea",
+   "h": "Institutions that enforce rights",
+   "b": "<ul><li><b>Human Rights Council</b> (Geneva). It replaced the Commission on Human Rights in 2006 (UNGA resolution 60/251). It has 47 members. Its main tool is the <b>Universal Periodic Review</b> (UPR), in which every UN member is reviewed by peers every few years.</li><li><b>OHCHR</b>, led by the High Commissioner, set up in 1993.</li><li><b>Treaty bodies</b> monitor conventions such as CEDAW, CAT, CERD and CRC.</li><li><b>International criminal justice.</b> The tribunals for the former Yugoslavia (ICTY, 1993) and Rwanda (ICTR, 1994) led to the <b>Rome Statute</b> (1998). The <b>International Criminal Court</b> (The Hague) began work in 2002. It tries genocide, crimes against humanity, war crimes and aggression. India, the US, China and Russia are not parties.</li><li><b>ICJ</b> hears disputes between states, for example Gambia v. Myanmar (2019) under the Genocide Convention.</li></ul><p>Recent strain: the ICC issued arrest warrants for Vladimir Putin (March 2023) and for Israel's Prime Minister Benjamin Netanyahu (November 2024). The US has sanctioned ICC officials, and it announced in 2025 that it was withdrawing from the Human Rights Council.</p>"
+  },
+  {
+   "tag": "Key idea",
+   "h": "Intervention and the Responsibility to Protect",
+   "b": "<p>Rwanda (1994) and Srebrenica (1995) showed the world's failure. NATO's bombing of Kosovo in 1999 happened without UN Security Council approval. Kofi Annan asked: if humanitarian intervention is an unacceptable assault on sovereignty, how should we respond to such crimes?</p><p>Canada set up the <b>ICISS</b>, whose 2001 report <i>The Responsibility to Protect</i> (chairs Gareth Evans and Mohamed Sahnoun) said sovereignty means responsibility.</p><div class=\"box\"><h4>R2P at the 2005 World Summit (paras 138-139)</h4>States have the responsibility to protect their populations from <b>genocide, war crimes, ethnic cleansing and crimes against humanity</b>. The international community should help, and, if a state manifestly fails, act collectively through the Security Council under the Charter. The Secretary-General's 2009 report framed three pillars: state responsibility, international assistance, and timely and decisive response.</div><p><b>Libya (2011).</b> Resolution 1973 authorised \"all necessary measures\" to protect civilians. India, Brazil, China, Russia and Germany abstained. NATO's campaign led to regime change, and critics said R2P was misused. Brazil offered \"<b>responsibility while protecting</b>\" (2011). Russia and China later vetoed action on Syria.</p>"
+  },
+  {
+   "tag": "Critique",
+   "h": "Double standards and selectivity",
+   "b": "<ul><li><b>Selectivity.</b> Powerful states shield allies and target rivals. Critics of the West point to Iraq (2003), to the treatment of Gaza and to arms sales to rights abusers.</li><li><b>Sovereignty.</b> The Westphalian norm of non-interference is still strong. China, Russia and many in the Global South see \"human rights\" as a lever of Western pressure.</li><li><b>Geopolitics.</b> Council vetoes by the P5 block action: Russia and China on Syria, the US on Israel-related drafts, Russia on Ukraine.</li><li><b>Weak enforcement.</b> The ICC depends on states to arrest suspects.</li><li><b>Rights versus order.</b> Governments cite terrorism and national security to limit liberties.</li><li><b>Retreat of the leaders.</b> The US has cut funds and left bodies like the Human Rights Council and UNESCO, and in January 2026 announced exits from dozens of international organisations.</li></ul><p>Defenders say imperfect enforcement does not make norms useless. Norms change what states feel they must justify.</p>"
+  },
+  {
+   "tag": "Indian angle",
+   "h": "India's constitutional and diplomatic record",
+   "b": "<ul><li><b>Constitution.</b> Part III (Articles 12-35) lists Fundamental Rights; the Directive Principles add social-economic rights. <b>Article 21</b> has been expanded to cover privacy (<i>K.S. Puttaswamy</i>, 2017), dignity, health and a clean environment. In <i>Vishaka v. State of Rajasthan</i> (1997), the Supreme Court used CEDAW to fill a gap and issued guidelines against sexual harassment at work.</li><li><b>Institutions.</b> The <b>Protection of Human Rights Act, 1993</b> created the <b>NHRC</b> (October 1993) and state commissions.</li><li><b>Treaties.</b> India ratified the ICCPR and ICESCR in 1979. It signed the Convention against Torture in 1997 but has not ratified it. It is not a party to the Rome Statute.</li><li><b>Foreign policy.</b> India helped draft the UDHR (Hansa Mehta was a key figure). It led the UN attack on apartheid. It generally opposes country-specific resolutions, prefers dialogue, and is wary of R2P as a cover for regime change. India abstained on Libya in 2011.</li><li><b>Democracy.</b> Largest electoral democracy, but ratings by V-Dem and Freedom House are questioned by India's government. Constitutional courts, a free press and civil society are the usual points of debate.</li></ul>"
+  },
+  {
+   "tag": "Exam lens",
+   "h": "How UPSC asks this",
+   "b": "<div class=\"box\">\"Human rights and state sovereignty are in conflict. Discuss.\"</div><div class=\"box\">\"Examine the Responsibility to Protect doctrine. Has it been a success?\"</div><div class=\"box\">\"Is democracy promotion a moral duty or a form of interventionism?\"</div><div class=\"box\">\"The universality of human rights is a Western construct.\" Comment.</div><p><b>Structure:</b> define terms (Schumpeter, Dahl, Sen). Trace human rights: UDHR 1948, covenants 1966, Vienna 1993, Rome Statute 1998, R2P 2005, HRC 2006. Put the debates in boxes: universalism or relativism, sovereignty or intervention. Give two or three current examples, such as the ICC warrants, Libya 2011 and the global democratic recession. End with India: Part III, NHRC, Hansa Mehta, the cautious stance on R2P and the ICC.</p><p>Always include a \"way forward\": strengthen the UN's legitimacy, reform the veto and avoid double standards.</p>",
+   "cls": "exam"
+  }
+ ],
+ "quiz": [
+  {
+   "q": "The Universal Declaration of Human Rights was adopted on:",
+   "o": [
+    "26 June 1945",
+    "16 December 1966",
+    "10 December 1948",
+    "25 June 1993"
+   ],
+   "a": 2,
+   "w": "UNGA resolution 217A on 10 December 1948."
+  },
+  {
+   "q": "The ICCPR and ICESCR were adopted in:",
+   "o": [
+    "1966",
+    "1948",
+    "1976",
+    "1993"
+   ],
+   "a": 0,
+   "w": "Adopted in 1966; they entered into force in 1976."
+  },
+  {
+   "q": "Samuel Huntington's The Third Wave (1991) counted the third wave as beginning in:",
+   "o": [
+    "1828",
+    "1974",
+    "1943",
+    "1989"
+   ],
+   "a": 1,
+   "w": "With Portugal's 1974 revolution."
+  },
+  {
+   "q": "The 'Asian values' debate is associated with:",
+   "o": [
+    "Nehru and Sukarno",
+    "Lee Kuan Yew and Mahathir Mohamad",
+    "Deng Xiaoping and Mao",
+    "Kofi Annan and Boutros-Ghali"
+   ],
+   "a": 1,
+   "w": "They argued for community, order and development before individual rights."
+  },
+  {
+   "q": "The Human Rights Council replaced the:",
+   "o": [
+    "Trusteeship Council",
+    "ECOSOC",
+    "Commission on Human Rights",
+    "UN Human Rights Committee"
+   ],
+   "a": 2,
+   "w": "Created in 2006 by UNGA resolution 60/251."
+  },
+  {
+   "q": "The principle of R2P was agreed by world leaders at the:",
+   "o": [
+    "1999 Kosovo summit",
+    "2011 Libya conference",
+    "1993 Vienna Conference",
+    "2005 World Summit"
+   ],
+   "a": 3,
+   "w": "Paras 138-139 of the 2005 World Summit Outcome."
+  },
+  {
+   "q": "Which countries were among those that abstained on UNSC Resolution 1973 (Libya, 2011)?",
+   "o": [
+    "India, Brazil, China, Russia, Germany",
+    "US, UK, France",
+    "Japan, Korea, Australia",
+    "Nigeria, Gabon, Lebanon"
+   ],
+   "a": 0,
+   "w": "Five members abstained; the resolution authorised 'all necessary measures'."
+  },
+  {
+   "q": "The Rome Statute establishing the ICC was adopted in:",
+   "o": [
+    "1993",
+    "2002",
+    "1998",
+    "2005"
+   ],
+   "a": 2,
+   "w": "Adopted in 1998; the Court began work in 2002."
+  },
+  {
+   "q": "Which Indian delegate is credited with changing 'all men' to 'all human beings' in the UDHR?",
+   "o": [
+    "Hansa Mehta",
+    "Vijaya Lakshmi Pandit",
+    "Sarojini Naidu",
+    "Rajkumari Amrit Kaur"
+   ],
+   "a": 0,
+   "w": "Hansa Mehta served on the UN Commission on Human Rights during the drafting."
+  },
+  {
+   "q": "In Vishaka v. State of Rajasthan (1997), the Supreme Court relied on:",
+   "o": [
+    "The Rome Statute",
+    "The ICCPR First Optional Protocol",
+    "The Convention against Torture",
+    "CEDAW"
+   ],
+   "a": 3,
+   "w": "It used CEDAW to frame guidelines against workplace sexual harassment."
+  }
+ ],
+ "sources": [
+  "UN General Assembly, Universal Declaration of Human Rights (1948); ICCPR and ICESCR (1966)",
+  "Vienna Declaration and Programme of Action (1993)",
+  "UNGA resolution 60/251 (2006); 2005 World Summit Outcome, A/RES/60/1, paras 138-139",
+  "ICISS, The Responsibility to Protect (2001); UNSC Resolution 1973 (2011)",
+  "Samuel Huntington, The Third Wave (1991); Robert Dahl, Polyarchy (1971); Amartya Sen, Development as Freedom (1999)",
+  "V-Dem Institute, Democracy Report 2026",
+  "Jack Donnelly, Universal Human Rights in Theory and Practice (1989)",
+  "Protection of Human Rights Act, 1993; Vishaka v. State of Rajasthan (1997); K.S. Puttaswamy v. Union of India (2017)",
+  "ICC statements on arrest warrants (2023, 2024); White House memorandum on withdrawing from international organisations (January 2026), as reported",
+  "PYQ themes: human rights and sovereignty, R2P, democracy promotion (Paper II Section A)"
+ ],
+ "verified": "2026-11-10"
+}

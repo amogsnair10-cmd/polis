@@ -1,0 +1,183 @@
+{
+ "id": "2-4-1",
+ "title": "Realism and Neorealism",
+ "emoji": "⚔️",
+ "cards": [
+  {
+   "tag": "Why this matters",
+   "h": "The most-asked IR theory",
+   "b": "<p>Realism is the oldest and most dominant theory of international relations. For most of the Cold War it was the default way to read world politics.</p><p>UPSC asks about it nearly every year, often in comparison with liberalism, Marxism or constructivism. The favourite topics are Morgenthau's six principles, Waltz's structural theory, the security dilemma, balance of power, and the split between <b>defensive</b> and <b>offensive</b> realism.</p><p>The core claim is short: the world is <b>anarchic</b> (no authority above states), states are the main actors, and they seek <b>power</b> and <b>security</b>. So conflict is normal and cooperation is fragile.</p><p>This lesson covers <b>classical realism</b> (Morgenthau), <b>neorealism</b> (Waltz), their variants and the critics. Learn the thinkers with book and year, and add Kautilya for the Indian link.</p>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "The five realist assumptions",
+   "b": "<p>Most realists share five ideas.</p><ol><li><b>Statism.</b> The state is the key actor. Firms, NGOs and institutions matter less.</li><li><b>Anarchy.</b> No world government exists. Each state must rely on itself. This is called <b>self-help</b>.</li><li><b>Survival.</b> The first goal of any state is to survive.</li><li><b>Rationality.</b> States weigh costs and benefits and act to protect their interests.</li><li><b>Power.</b> Power, especially military power, decides outcomes. Power is a means for some, and a goal for others.</li></ol><p>Realists also treat the <b>national interest</b> as the guide to foreign policy, and morality as a limited guide.</p><p>The roots are old: Thucydides on the Athenians and the Melians, Machiavelli's <i>The Prince</i> (written 1513), Hobbes's <i>Leviathan</i> (1651) with its state of nature, and Kautilya's <i>Arthashastra</i>.</p>"
+  },
+  {
+   "tag": "Thinker",
+   "h": "Morgenthau and classical realism",
+   "b": "<p>Hans Morgenthau, a German-born American scholar, wrote <i>Politics Among Nations: The Struggle for Power and Peace</i> (1948). It made realism the leading IR theory. An earlier book, <i>Scientific Man vs. Power Politics</i> (1946), set out his case.</p><p>For Morgenthau, politics is governed by laws rooted in <b>human nature</b>. Humans have an urge to dominate (animus dominandi). So states pursue power.</p><div class=\"box\"><h4>His six principles (in short)</h4><ol><li>Politics follows objective laws rooted in human nature.</li><li><b>Interest defined as power</b> is the key signpost.</li><li>Interest is not fixed forever. Its content changes with context.</li><li>Universal moral principles cannot be applied abstractly to states.</li><li>A nation's moral aspirations are not the moral laws of the universe.</li><li>The political sphere is autonomous, like law or economics.</li></ol></div><p>He saw balance of power, international law and diplomacy as the main limits on power. Reinhold Niebuhr (<i>Moral Man and Immoral Society</i>, 1932) and George Kennan (containment, 1947) belong to the same school.</p>"
+  },
+  {
+   "tag": "Thinker",
+   "h": "Waltz and neorealism",
+   "b": "<p>Kenneth Waltz wanted a scientific theory. In <i>Man, the State, and War</i> (1959) he asked: where are the causes of war? He listed three images: human nature, the state, and the international system. He found the third the deepest.</p><p><i>Theory of International Politics</i> (1979) built <b>neorealism</b>, also called <b>structural realism</b>. Power is not an end. States want security. Behaviour is shaped by <b>structure</b>, not by human nature.</p><div class=\"box\"><h4>Three parts of structure</h4><ol><li><b>Ordering principle:</b> anarchy.</li><li><b>Differentiation of units:</b> states are alike in function, whatever their ideology.</li><li><b>Distribution of capabilities:</b> how many great powers exist (polarity).</li></ol></div><p>Only the third changes. Waltz argued <b>bipolarity</b> was more stable than multipolarity, because fewer actors means fewer miscalculations. He also held that the system makes states <b>balance</b> against strong powers and copy each other's success (socialisation).</p>"
+  },
+  {
+   "tag": "Diagram",
+   "h": "From classical realism to neorealism",
+   "b": "<svg class=\"d\" viewBox=\"0 0 320 160\"><rect x=\"10\" y=\"12\" width=\"140\" height=\"136\" rx=\"8\" fill=\"#f1e4c6\" stroke=\"#a8792a\"/><rect x=\"170\" y=\"12\" width=\"140\" height=\"136\" rx=\"8\" fill=\"#dceaec\" stroke=\"#2f6f7a\"/><g font-size=\"10\" fill=\"#1d2433\"><text x=\"80\" y=\"32\" text-anchor=\"middle\" font-weight=\"700\">Classical (Morgenthau)</text><text x=\"20\" y=\"54\">Cause: human nature</text><text x=\"20\" y=\"74\">Goal: power</text><text x=\"20\" y=\"94\">Level: the individual</text><text x=\"20\" y=\"114\">Method: history, ethics</text><text x=\"20\" y=\"134\">Book: Politics Among</text><text x=\"20\" y=\"146\">Nations, 1948</text><text x=\"240\" y=\"32\" text-anchor=\"middle\" font-weight=\"700\">Neorealism (Waltz)</text><text x=\"180\" y=\"54\">Cause: anarchy</text><text x=\"180\" y=\"74\">Goal: security</text><text x=\"180\" y=\"94\">Level: the system</text><text x=\"180\" y=\"114\">Method: social science</text><text x=\"180\" y=\"134\">Book: Theory of Int.</text><text x=\"180\" y=\"146\">Politics, 1979</text></g></svg><p>The table shows the main shift. Classical realists look at <b>why humans seek power</b>. Neorealists look at <b>how the system forces states to behave</b>.</p><p>For neorealists, even peaceful leaders are pushed into rivalry, because anarchy makes every state's security uncertain. This links to the <b>security dilemma</b>, covered next.</p>"
+  },
+  {
+   "tag": "Key idea",
+   "h": "The security dilemma",
+   "b": "<p>John Herz coined the <b>security dilemma</b> in 1950 (\"Idealist Internationalism and the Security Dilemma\"). Robert Jervis developed it in \"Cooperation under the Security Dilemma\" (1978).</p><p>The idea: in anarchy, steps a state takes to feel safe make others feel unsafe. They respond in kind. All end up less secure.</p><p>Example: State A builds missiles for defence. State B reads them as a threat, builds its own, and so on. This is an <b>arms race</b> or <b>spiral</b>, even though neither side wants war.</p><p>Jervis said the dilemma is sharper when weapons are hard to tell apart as offensive or defensive, and when offence has the advantage. It is milder when defence is easier. Nuclear weapons, in his view, make conquest suicidal, which softens it.</p><p>The dilemma explains why good intentions are not enough: states cannot read each other's minds.</p>"
+  },
+  {
+   "tag": "Thinker",
+   "h": "Defensive and offensive realism",
+   "b": "<div class=\"box\"><h4>Defensive realism</h4>Waltz, Jervis, Stephen Walt, Jack Snyder. States want enough power for <b>security</b>. Too much power triggers balancing against them. So moderate, status-quo strategies pay. Walt's <i>The Origins of Alliances</i> (1987) says states balance against <b>threat</b>, not just power.</div><div class=\"box\"><h4>Offensive realism</h4>John Mearsheimer, <i>The Tragedy of Great Power Politics</i> (2001). Great powers can never be sure of rivals' intentions, so the safest course is to become the strongest. The ideal is to be a <b>regional hegemon</b>, with no rival nearby. Oceans limit global hegemony (the \"stopping power of water\").</div><p>Mearsheimer predicted a rising China would clash with the US, as it would seek regional hegemony in Asia.</p><p>Other variants: <b>neoclassical realism</b> (Gideon Rose, 1998) adds domestic politics and leaders' perceptions; <b>hegemonic stability and power transition</b> theories by Robert Gilpin (<i>War and Change in World Politics</i>, 1981) and A.F.K. Organski (1958) say war can come when a rising power catches up with the leader.</p>"
+  },
+  {
+   "tag": "Critique",
+   "h": "What critics say",
+   "b": "<ul><li><b>Missed the end of the Cold War.</b> Neorealism did not predict the Soviet collapse (1991) or its peaceful end.</li><li><b>Liberals</b> point to institutions, trade and the democratic peace, which realism underrates.</li><li><b>Constructivists</b> (Wendt, 1992) say anarchy has no fixed logic: \"Anarchy is what states make of it\". Identities change interests.</li><li><b>Marxists and Robert Cox</b> (1981): realism is a \"problem-solving theory\" that defends the existing order. Richard Ashley called neorealism a \"poverty\" of ideas (1984).</li><li><b>Feminists</b> (J. Ann Tickner, <i>Gender in International Relations</i>, 1992): the realist idea of power and \"human nature\" is male-coded.</li><li><b>English School</b> (Hedley Bull): states form an \"international society\" with shared rules.</li><li><b>Unfalsifiable.</b> Any outcome can be explained after the fact.</li></ul><p>Defenders say realism is a parsimonious theory that still explains great-power rivalry well, and the return of power politics in Ukraine and Asia supports it.</p>"
+  },
+  {
+   "tag": "Indian angle",
+   "h": "Kautilya and Indian realism",
+   "b": "<p><b>Kautilya's Arthashastra</b> (c. 4th century BCE to 3rd century CE in its present form) is India's classic realist text.</p><div class=\"box\"><h4>Mandala theory</h4>The <b>vijigishu</b> (would-be conqueror) is at the centre. His neighbour is the natural enemy (<b>ari</b>). The neighbour's neighbour is a natural friend. Further rings include the middle (<b>madhyama</b>) and neutral (<b>udasina</b>) powers.</div><div class=\"box\"><h4>Six-fold policy (shadgunya)</h4>Peace (<i>sandhi</i>), war (<i>vigraha</i>), neutrality (<i>asana</i>), marching (<i>yana</i>), alliance (<i>samsraya</i>), and double policy (<i>dvaidhibhava</i>).</div><p>Modern India shows realist moves too. <b>Pokhran-II (May 1998)</b> was a response to the China-Pakistan threat. India's 2003 nuclear doctrine adopted no first use and credible minimum deterrence. India balances China through the <b>Quad</b>, defence ties with the US, France and Russia, and border infrastructure. Its policy of <b>strategic autonomy</b> is a hedging strategy that realists would recognise.</p>"
+  },
+  {
+   "tag": "Exam lens",
+   "h": "How UPSC asks this",
+   "b": "<div class=\"box\">\"Neorealism has been successful in explaining the persistence of conflict but not cooperation.\" Discuss.</div><div class=\"box\">\"Compare classical realism with neorealism.\"</div><div class=\"box\">\"Explain the security dilemma and its relevance to South Asia.\"</div><div class=\"box\">\"Is Kautilya's mandala theory relevant to understanding modern Indian foreign policy?\"</div><p><b>Structure:</b> define realism with its five assumptions. Give Morgenthau (1948) and his principles. Move to Waltz (1959, 1979), with the three parts of structure. Add defensive versus offensive realism with Mearsheimer (2001). Then critiques: Cold War's end, liberal and constructivist replies. End with India: Kautilya, Pokhran-II, strategic autonomy.</p><p>A simple table comparing classical and neorealism earns marks.</p>",
+   "cls": "exam"
+  }
+ ],
+ "quiz": [
+  {
+   "q": "Who wrote Politics Among Nations (1948)?",
+   "o": [
+    "E.H. Carr",
+    "Kenneth Waltz",
+    "George Kennan",
+    "Hans Morgenthau"
+   ],
+   "a": 3,
+   "w": "Hans Morgenthau, 1948."
+  },
+  {
+   "q": "In Waltz's Man, the State, and War (1959), the 'third image' refers to:",
+   "o": [
+    "Human nature",
+    "The type of state",
+    "The international system",
+    "Public opinion"
+   ],
+   "a": 2,
+   "w": "The third image is the system, the anarchic structure of the international order."
+  },
+  {
+   "q": "Which is not one of the three parts of structure in Waltz's Theory of International Politics?",
+   "o": [
+    "Balance of norms",
+    "Ordering principle",
+    "Differentiation of units",
+    "Distribution of capabilities"
+   ],
+   "a": 0,
+   "w": "The three are ordering principle, differentiation of units and distribution of capabilities."
+  },
+  {
+   "q": "The term 'security dilemma' was coined by:",
+   "o": [
+    "Robert Jervis",
+    "John Herz",
+    "Barry Buzan",
+    "Stephen Walt"
+   ],
+   "a": 1,
+   "w": "John Herz coined it in 1950; Jervis developed it in 1978."
+  },
+  {
+   "q": "Mearsheimer's The Tragedy of Great Power Politics (2001) belongs to:",
+   "o": [
+    "Defensive realism",
+    "Neoclassical realism",
+    "Constructivism",
+    "Offensive realism"
+   ],
+   "a": 3,
+   "w": "It argues great powers seek regional hegemony: offensive realism."
+  },
+  {
+   "q": "Stephen Walt's The Origins of Alliances (1987) argues that states balance against:",
+   "o": [
+    "Power alone",
+    "Threat",
+    "Ideology",
+    "Trade partners"
+   ],
+   "a": 1,
+   "w": "Walt's balance of threat theory: perceived threat, not just power."
+  },
+  {
+   "q": "Waltz argued that which polarity is more stable?",
+   "o": [
+    "Multipolarity",
+    "Bipolarity",
+    "Unipolarity",
+    "Tripolarity"
+   ],
+   "a": 1,
+   "w": "Fewer great powers mean fewer miscalculations, so bipolarity is more stable."
+  },
+  {
+   "q": "In Kautilya's mandala theory, the 'vijigishu' is:",
+   "o": [
+    "The would-be conqueror at the centre",
+    "The neutral power",
+    "The natural friend",
+    "The middle king"
+   ],
+   "a": 0,
+   "w": "Vijigishu is the ruler who wants to conquer, at the centre of the circle."
+  },
+  {
+   "q": "Which critique says realism is a 'problem-solving theory' that serves the existing order?",
+   "o": [
+    "Robert Cox",
+    "Hedley Bull",
+    "Joseph Nye",
+    "Kenneth Waltz"
+   ],
+   "a": 0,
+   "w": "Robert Cox (1981) contrasted problem-solving theory with critical theory."
+  },
+  {
+   "q": "India's Pokhran-II tests took place in:",
+   "o": [
+    "May 1974",
+    "August 1991",
+    "April 2003",
+    "May 1998"
+   ],
+   "a": 3,
+   "w": "Pokhran-II was in May 1998; Pokhran-I was in May 1974."
+  }
+ ],
+ "sources": [
+  "Hans Morgenthau, Politics Among Nations (1948)",
+  "Kenneth Waltz, Man, the State, and War (1959); Theory of International Politics (1979)",
+  "John Mearsheimer, The Tragedy of Great Power Politics (2001)",
+  "Stephen Walt, The Origins of Alliances (1987)",
+  "Robert Jervis, 'Cooperation under the Security Dilemma', World Politics (1978); John Herz, World Politics (1950)",
+  "Robert Gilpin, War and Change in World Politics (1981)",
+  "Robert Cox, 'Social Forces, States and World Orders', Millennium (1981)",
+  "Kautilya, Arthashastra (tr. R.P. Kangle; L.N. Rangarajan)",
+  "Government of India, Draft Nuclear Doctrine (1999); CCS statement on operationalising the doctrine (January 2003)",
+  "PYQ themes: realism vs idealism, neorealism, security dilemma, Kautilya (Paper II Section A, recurring)"
+ ],
+ "verified": "2026-11-10"
+}

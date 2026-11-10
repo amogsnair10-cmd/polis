@@ -1,0 +1,179 @@
+{
+ "id": "1-3-0",
+ "title": "The Union Executive",
+ "emoji": "🏛️",
+ "cards": [
+  {
+   "tag": "Why this matters",
+   "h": "Who really rules at the top?",
+   "b": "<p>The Union Executive consists of the <b>President</b>, the <b>Vice-President</b>, the <b>Prime Minister</b> and the <b>Council of Ministers</b>. The core question in exams is: <i>Is the President only a rubber stamp, and is the Prime Minister too powerful?</i></p><p>Article 53 vests the executive power in the President. But Article 74 says it is exercised on the advice of the Council of Ministers headed by the Prime Minister. Ambedkar explained in the Constituent Assembly (4 November 1948) that the President is head of the State, not of the Executive. He compared the President's place to a \"ceremonial device on a seal\".</p><p>In practice the picture is more subtle. The President has some reserve powers, especially in a hung House. And the Prime Minister's real power depends on majority, party and personality.</p><p>This lesson covers election, powers and role of the President and Vice-President, then the Prime Minister, the Cabinet and the permanent civil service.</p>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "How the President is elected and removed",
+   "b": "<ul><li><b>Qualifications:</b> citizen, at least 35 years, eligible for the Lok Sabha, holding no office of profit (Article 58).</li><li><b>Election (Articles 54-55):</b> an electoral college of the <b>elected</b> members of both Houses of Parliament and of state legislative assemblies (including Delhi and Puducherry). Nominated members and Legislative Council members do not vote.</li><li><b>Method:</b> single transferable vote by secret ballot. The vote values are weighted so that states and the Union count equally (the 1971 population is still used, frozen by the 84th Amendment until the first census after 2026).</li><li><b>Term:</b> five years (Article 56); can be re-elected.</li><li><b>Impeachment (Article 61):</b> for \"violation of the Constitution\". Either House can start with notice signed by a quarter of its members; two-thirds of the total membership of each House must vote in favour. No President has been impeached.</li></ul><p>Droupadi Murmu was elected in July 2022 as the 15th President, the first from a tribal community.</p>"
+  },
+  {
+   "tag": "Key idea",
+   "h": "Powers of the President",
+   "b": "<svg class=\"d\" viewBox=\"0 0 320 130\"><g font-size=\"10\" text-anchor=\"middle\" fill=\"#1d2433\"><rect x=\"110\" y=\"6\" width=\"100\" height=\"28\" rx=\"6\" fill=\"#f1e4c6\" stroke=\"#a8792a\"/><text x=\"160\" y=\"24\" font-weight=\"700\">President</text><rect x=\"6\" y=\"56\" width=\"92\" height=\"30\" rx=\"6\" fill=\"#fff\" stroke=\"#a8792a\"/><text x=\"52\" y=\"75\">Legislative: Art 123</text><rect x=\"114\" y=\"56\" width=\"92\" height=\"30\" rx=\"6\" fill=\"#fff\" stroke=\"#a8792a\"/><text x=\"160\" y=\"75\">Veto: Art 111</text><rect x=\"222\" y=\"56\" width=\"92\" height=\"30\" rx=\"6\" fill=\"#fff\" stroke=\"#a8792a\"/><text x=\"268\" y=\"75\">Pardon: Art 72</text><rect x=\"6\" y=\"96\" width=\"92\" height=\"28\" rx=\"6\" fill=\"#fff\" stroke=\"#a8792a\"/><text x=\"52\" y=\"114\">Emergency</text><rect x=\"114\" y=\"96\" width=\"92\" height=\"28\" rx=\"6\" fill=\"#fff\" stroke=\"#a8792a\"/><text x=\"160\" y=\"114\">Reference: Art 143</text><rect x=\"222\" y=\"96\" width=\"92\" height=\"28\" rx=\"6\" fill=\"#fff\" stroke=\"#a8792a\"/><text x=\"268\" y=\"114\">Appointments</text></g><path d=\"M160 34 L160 56 M130 34 L52 56 M190 34 L268 56\" stroke=\"#5d6474\"/></svg><ul><li><b>Executive:</b> appoints the PM, ministers, Governors, judges, Attorney General, CAG, election commissioners.</li><li><b>Legislative:</b> summons and prorogues Parliament, dissolves the Lok Sabha, addresses it, nominates 12 members to the Rajya Sabha, and can issue <b>ordinances</b> when Parliament is not in session (Article 123).</li><li><b>Assent:</b> on a bill the President may assent, withhold assent, or return it once (not a money bill). A return of the bill, if passed again, must be signed. There is no time limit, which allows a \"pocket veto\" (Zail Singh and the Postal Bill, 1986).</li><li><b>Pardon:</b> Article 72, in cases of court-martial, death sentences and Union law offences, on ministerial advice.</li><li><b>Emergency</b> powers: Articles 352, 356, 360.</li><li><b>Advisory jurisdiction:</b> the President may ask the Supreme Court for its opinion under Article 143.</li></ul>"
+  },
+  {
+   "tag": "Key idea",
+   "h": "Discretion in practice",
+   "b": "<p>Most of these powers are used on ministerial advice. The 42nd Amendment (1976) made that advice binding; the 44th Amendment (1978) allows the President to ask the Council to reconsider once.</p><p>Areas where the President has more room:</p><ul><li><b>Choosing a Prime Minister</b> when no party has a majority. The President usually invites the leader of the largest party or alliance and asks for proof of majority. Presidents Shankar Dayal Sharma (1996) and K.R. Narayanan (1998, 1999) handled such moments.</li><li><b>Returning an Article 356 recommendation:</b> in 1997 and 1998, President K.R. Narayanan sent back the Union Cabinet's advice to impose President's Rule in Uttar Pradesh and Bihar.</li><li><b>Pocket veto</b> on a bill.</li><li><b>Returning bills</b> for reconsideration, as Presidents have done with the Office of Profit Bill (2006, A.P.J. Abdul Kalam).</li></ul><p>Cases: <i>Ram Jawaya Kapur</i> (1955) said the real executive power lies with ministers; <i>Shamsher Singh</i> (1974) said that the President acts on advice in all matters except where the Constitution provides otherwise.</p>"
+  },
+  {
+   "tag": "Key idea",
+   "h": "The Vice-President",
+   "b": "<ul><li><b>Election (Article 66):</b> by an electoral college of <b>all members</b> of both Houses (elected and nominated), using the single transferable vote. State legislatures do not vote. At least 35 years old.</li><li><b>Roles:</b> ex-officio <b>Chairman of the Rajya Sabha</b>, and he casts a vote only in a tie. He acts as President when that office is vacant, for up to six months until a new election.</li><li><b>Removal (Article 67(b)):</b> by a resolution of the Rajya Sabha passed by a majority of its members and agreed by the Lok Sabha.</li></ul><p>The 15th Vice-President is <b>C.P. Radhakrishnan</b>, elected on 9 September 2025 (452 votes to Justice B. Sudershan Reddy's 300), after Jagdeep Dhankhar resigned on 21 July 2025.</p><p>Comparison: the US Vice-President is on the ticket with the President. India's Vice-President is elected separately and is not an executive deputy.</p>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "The Prime Minister and the Council of Ministers",
+   "b": "<ul><li><b>Appointment (Article 75):</b> the President appoints the PM, usually the leader of the majority in the Lok Sabha, and then other ministers on the PM's advice. A minister who is not an MP must become one within six months.</li><li><b>Three ranks:</b> Cabinet ministers, Ministers of State (some with independent charge) and Deputy Ministers. The Cabinet is the inner group that takes decisions. The PM works with Cabinet committees, which do much of the work.</li><li><b>Collective responsibility</b> (Article 75(3)) to the Lok Sabha: all ministers sink or swim together. <b>Individual responsibility</b> to the President.</li><li><b>Size:</b> capped at 15% of the Lok Sabha by the 91st Amendment (2003).</li><li><b>Article 78:</b> the PM must tell the President about Cabinet decisions.</li></ul><p>Lord Morley called the PM <i>inter stellas luna minores</i>, the moon among lesser stars. Harold Laski called him the \"pivot\". In India, Nehru was dominant, Shastri collegial, Indira Gandhi centralised, Narasimha Rao and Vajpayee had to manage allies. After 2014 the PMO became central again.</p>"
+  },
+  {
+   "tag": "Key idea",
+   "h": "The PMO, Cabinet Secretariat and the permanent executive",
+   "b": "<ul><li><b>Cabinet Secretariat:</b> under the Cabinet Secretary, it serves the Cabinet and its committees and coordinates departments.</li><li><b>Prime Minister's Office (PMO):</b> built up under Nehru as the PM's secretariat and renamed in 1977; headed by the Principal Secretary. Critics speak of a <b>PMO-centric</b> style that reduces the Cabinet.</li><li><b>Civil services:</b> the All India Services and central services under Articles 308-314. <b>Article 311</b> protects civil servants from arbitrary dismissal. The <b>UPSC</b> (Article 315) recruits.</li><li>The \"steel frame\" phrase came from British Prime Minister Lloyd George, and was valued by Sardar Patel as a unifying force.</li><li><b>Neutrality vs commitment:</b> a debate since the 1970s on whether officers should be committed to the government's goals.</li></ul><p>Max Weber's ideal type of a rational-legal bureaucracy and Fred Riggs's idea of the \"prismatic\" society are often used: the Indian bureaucracy has a modern form but is mixed with patronage and caste networks.</p>"
+  },
+  {
+   "tag": "Critique",
+   "h": "India's President compared with the US President",
+   "b": "<div class=\"box\"><h4>India</h4>Indirectly elected by an electoral college; nominal executive; acts on advice; ministers sit in Parliament and are accountable to it; the President cannot veto an amendment bill; impeachment requires violation of the Constitution; emergency powers on Cabinet's written advice (44th Amendment).</div><div class=\"box\"><h4>United States</h4>Elected through the Electoral College; real executive; Cabinet secretaries are outside Congress; the veto can be overridden by two-thirds; fixed four-year term with a two-term limit; impeachment for \"high crimes and misdemeanors\".</div><p><b>Why it matters for debate:</b> some call for a presidential system in India for stability and strong leadership. Reasons against: India's diversity needs a shared executive, and a directly elected single leader may concentrate power. Juan Linz's work (<i>The Perils of Presidentialism</i>, 1990) argues that fixed terms can produce deadlock and zero-sum fights. India's experience shows that a parliamentary system can also produce a dominant executive, so the real safeguards are institutions, rather than only the form of government.</p>"
+  },
+  {
+   "tag": "Indian angle",
+   "h": "Today's executive",
+   "b": "<ul><li><b>President Droupadi Murmu</b> (since 25 July 2022) used Article 143 in May 2025 to ask the Supreme Court whether courts can set deadlines for Governors and the President on state bills. The Court's opinion in November 2025 said they cannot fix such timelines.</li><li><b>Prime Minister Narendra Modi</b> began a third term on 9 June 2024, leading an NDA coalition of about 70 ministers, after the BJP won 240 seats.</li><li><b>Vice-President Radhakrishnan</b> chairs the Rajya Sabha.</li><li><b>Ministers in custody:</b> the 130th Amendment Bill, 2025 would remove a PM, Chief Minister or minister held for 30 consecutive days on serious charges. A JPC has delayed its report.</li><li><b>Ordinances:</b> debate on how often they are used; many farm or tax measures first appeared as ordinances.</li><li><b>Civil services:</b> lateral entry advertisements in 2024 were cancelled after political objections about reservation.</li></ul>"
+  },
+  {
+   "tag": "Exam lens",
+   "h": "How UPSC asks this",
+   "b": "<div class=\"box\">\"The President of India is a constitutional head with real reserve powers.\" Discuss.</div><div class=\"box\">\"Examine the growing centralisation of power in the Prime Minister's Office.\"</div><div class=\"box\">\"Explain collective responsibility. Has it weakened in coalition governments?\"</div><div class=\"box\">\"Discuss the discretionary powers of the President in a hung Parliament.\"</div><p><b>Structure:</b> Articles 53, 74 and Ambedkar's description; election and impeachment; list of powers with Articles; the 42nd and 44th Amendments on advice; discretion in a hung House and Narayanan's actions; the VP; PM and Cabinet, collective responsibility; PMO; civil services; recent cases (Article 143 reference, 130th Amendment Bill); balanced conclusion.</p>",
+   "cls": "exam"
+  }
+ ],
+ "quiz": [
+  {
+   "q": "Who vote in the Presidential election?",
+   "o": [
+    "Elected MPs and elected MLAs",
+    "All MPs only",
+    "All MPs and all MLAs including nominated",
+    "Rajya Sabha members only"
+   ],
+   "a": 0,
+   "w": "Elected members of Parliament and state assemblies; nominated members and members of Legislative Councils do not vote."
+  },
+  {
+   "q": "Impeachment of the President is under…",
+   "o": [
+    "Article 61",
+    "Article 67",
+    "Article 72",
+    "Article 124"
+   ],
+   "a": 0,
+   "w": "Article 61; no President has been impeached."
+  },
+  {
+   "q": "The 42nd Amendment made the Council's advice to the President…",
+   "o": [
+    "Binding",
+    "Optional",
+    "Subject to Parliament's approval",
+    "Void"
+   ],
+   "a": 0,
+   "w": "The 44th Amendment allowed one reconsideration."
+  },
+  {
+   "q": "Which Article lets the President make ordinances?",
+   "o": [
+    "Article 111",
+    "Article 123",
+    "Article 143",
+    "Article 356"
+   ],
+   "a": 1,
+   "w": "Article 123, when Parliament is not in session."
+  },
+  {
+   "q": "A Vice-President is elected by…",
+   "o": [
+    "Elected MPs only",
+    "All members of both Houses of Parliament",
+    "MPs and MLAs",
+    "The Rajya Sabha only"
+   ],
+   "a": 1,
+   "w": "Elected and nominated members of both Houses."
+  },
+  {
+   "q": "The 15th Vice-President of India is…",
+   "o": [
+    "Venkaiah Naidu",
+    "Jagdeep Dhankhar",
+    "C.P. Radhakrishnan",
+    "B. Sudershan Reddy"
+   ],
+   "a": 2,
+   "w": "Elected 9 September 2025."
+  },
+  {
+   "q": "Zail Singh used which power on the Postal Bill (1986)?",
+   "o": [
+    "Pocket veto",
+    "Absolute veto",
+    "Pardon",
+    "Ordinance"
+   ],
+   "a": 0,
+   "w": "The bill was never acted on."
+  },
+  {
+   "q": "Collective responsibility is laid down in…",
+   "o": [
+    "Article 74(2)",
+    "Article 75(3)",
+    "Article 78",
+    "Article 88"
+   ],
+   "a": 1,
+   "w": "Article 75(3): responsible to the Lok Sabha."
+  },
+  {
+   "q": "Which President returned the Article 356 recommendations for UP (1997) and Bihar (1998)?",
+   "o": [
+    "R. Venkataraman",
+    "K.R. Narayanan",
+    "A.P.J. Abdul Kalam",
+    "Shankar Dayal Sharma"
+   ],
+   "a": 1,
+   "w": "K.R. Narayanan."
+  },
+  {
+   "q": "The cap on the Council of Ministers at 15% of the Lok Sabha came from the…",
+   "o": [
+    "52nd Amendment",
+    "73rd Amendment",
+    "91st Amendment",
+    "101st Amendment"
+   ],
+   "a": 2,
+   "w": "91st Amendment, 2003."
+  }
+ ],
+ "sources": [
+  "Constitution of India, Arts 52-78, 111, 123, 143, 311",
+  "Constituent Assembly Debates (4 Nov 1948, Ambedkar on the President)",
+  "Ram Jawaya Kapur (1955); Shamsher Singh (1974)",
+  "PIB on Vice-President election (9 Sep 2025); Presidential reference opinion (Nov 2025)",
+  "Laxmikanth, Indian Polity; PRS on 130th Amendment Bill",
+  "PYQ themes: President's powers, PM and Cabinet, PMO (Paper I Section B)"
+ ],
+ "verified": "2026-11-10"
+}

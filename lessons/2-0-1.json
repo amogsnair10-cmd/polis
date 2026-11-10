@@ -1,0 +1,184 @@
+{
+ "id": "2-0-1",
+ "title": "Political Economy, Political Sociology and the Limits of Comparison",
+ "emoji": "📊",
+ "cards": [
+  {
+   "tag": "Why this matters",
+   "h": "Money, society and the limits of comparison",
+   "b": "<p>This lesson covers three linked ideas. <b>Political economy</b> asks how politics and the economy shape each other. <b>Political sociology</b> asks how social groups, classes, cleavages and culture shape politics. And the <b>limits of comparison</b> asks the honest question: how far can we trust cross-country comparisons?</p><p>Together they move you from \"what do institutions look like?\" (the previous lesson) to \"why do they look that way, and what are the limits to what we know?\"</p><p>For the exam, learn a handful of anchor works with years: Polanyi (1944), Esping-Andersen (1990), Hall and Soskice (2001), Lipset and Rokkan (1967), Putnam (1993), Sartori (1970). Add India: Bardhan, Rudolph and Rudolph, Varshney.</p><p>A top answer ends with the limits: small number of cases, selection bias, concept stretching, and Eurocentrism.</p>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "What is political economy?",
+   "b": "<p>Political economy studies how <b>states and markets</b> interact: who gets what, when and how, and who decides.</p><p>There are several traditions.</p><ul><li><b>Classical liberal.</b> Adam Smith (<i>The Wealth of Nations</i>, 1776) and David Ricardo. Free markets create wealth. The state should be limited.</li><li><b>Marxist.</b> Karl Marx (<i>Capital</i>, 1867): the economic base shapes politics. The state serves the dominant class.</li><li><b>Statist and nationalist.</b> Friedrich List, <i>The National System of Political Economy</i> (1841): protect infant industries.</li><li><b>Keynesian.</b> John Maynard Keynes (<i>The General Theory</i>, 1936): governments should manage demand.</li><li><b>Institutionalist.</b> Institutions shape economic results (Douglass North).</li><li><b>Public choice.</b> Politicians and bureaucrats follow self-interest (James Buchanan, Gordon Tullock). Anne Krueger (1974) coined <b>rent-seeking</b>.</li></ul><p><b>Karl Polanyi</b>, <i>The Great Transformation</i> (1944): markets are not natural. They are created by states. Unregulated markets trigger a \"double movement\" as society pushes back to protect itself. Markets must stay <b>embedded</b> in society.</p>"
+  },
+  {
+   "tag": "Key idea",
+   "h": "Varieties of capitalism and welfare regimes",
+   "b": "<div class=\"box\"><h4>Varieties of Capitalism</h4>Peter Hall and David Soskice (eds.), <i>Varieties of Capitalism</i> (2001). Firms solve coordination problems differently. In <b>liberal market economies</b> (US, UK) markets and competition do the work. In <b>coordinated market economies</b> (Germany, Japan, Nordic) institutions like unions, banks and employer groups coordinate. Each has comparative advantage: radical innovation versus incremental, high-quality production.</div><div class=\"box\"><h4>Three Worlds of Welfare Capitalism</h4>Gosta Esping-Andersen (1990). <b>Decommodification</b> is the degree to which people can live without selling their labour. He found three regimes: <b>liberal</b> (US: means-tested aid), <b>conservative-corporatist</b> (Germany, France: social insurance linked to jobs) and <b>social-democratic</b> (Sweden, Denmark: universal benefits).</div><p>Critiques: they ignore the Global South, the family and gender (feminists such as Ann Orloff and Jane Lewis), and the role of finance.</p>"
+  },
+  {
+   "tag": "Key idea",
+   "h": "The state and development",
+   "b": "<ul><li><b>Gerschenkron</b>, <i>Economic Backwardness in Historical Perspective</i> (1962): late developers need the state and banks to push industry.</li><li><b>Developmental state.</b> Chalmers Johnson, <i>MITI and the Japanese Miracle</i> (1982); Alice Amsden on South Korea (<i>Asia's Next Giant</i>, 1989); Robert Wade on Taiwan (<i>Governing the Market</i>, 1990). A competent bureaucracy guides firms, protects them for a while, and demands export performance.</li><li><b>Embedded autonomy.</b> Peter Evans, <i>Embedded Autonomy</i> (1995): the state needs ties to business, but also independence from it. Compare predatory states (Zaire under Mobutu).</li><li><b>Corporatism.</b> Philippe Schmitter, \"Still the Century of Corporatism?\" (1974): peak organisations of labour and business bargain with the state, as in Austria and Sweden. This contrasts with <b>pluralism</b>.</li><li><b>Institutions and growth.</b> Daron Acemoglu and James Robinson, <i>Why Nations Fail</i> (2012): inclusive institutions create prosperity; extractive ones do not. They won the 2024 Nobel in economics, with Simon Johnson.</li></ul>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "Political sociology: cleavages and parties",
+   "b": "<svg class=\"d\" viewBox=\"0 0 320 150\"><rect x=\"10\" y=\"10\" width=\"140\" height=\"62\" rx=\"8\" fill=\"#f1e4c6\" stroke=\"#a8792a\"/><rect x=\"170\" y=\"10\" width=\"140\" height=\"62\" rx=\"8\" fill=\"#dceaec\" stroke=\"#2f6f7a\"/><rect x=\"10\" y=\"82\" width=\"140\" height=\"62\" rx=\"8\" fill=\"#dceaec\" stroke=\"#2f6f7a\"/><rect x=\"170\" y=\"82\" width=\"140\" height=\"62\" rx=\"8\" fill=\"#f1e4c6\" stroke=\"#a8792a\"/><g font-size=\"10\" fill=\"#1d2433\" text-anchor=\"middle\"><text x=\"80\" y=\"30\" font-weight=\"700\">Centre vs periphery</text><text x=\"80\" y=\"48\">Nation-building</text><text x=\"80\" y=\"62\">Regional parties</text><text x=\"240\" y=\"30\" font-weight=\"700\">State vs church</text><text x=\"240\" y=\"48\">Religion in schools</text><text x=\"240\" y=\"62\">Christian Democrats</text><text x=\"80\" y=\"102\" font-weight=\"700\">Land vs industry</text><text x=\"80\" y=\"120\">Agrarian interest</text><text x=\"80\" y=\"134\">Agrarian parties</text><text x=\"240\" y=\"102\" font-weight=\"700\">Owner vs worker</text><text x=\"240\" y=\"120\">Industrial revolution</text><text x=\"240\" y=\"134\">Socialist parties</text></g></svg><p>Seymour Martin Lipset and Stein Rokkan, in <i>Party Systems and Voter Alignments</i> (1967), argued that Western European party systems \"froze\" around four cleavages produced by two revolutions: the National Revolution (centre-periphery, state-church) and the Industrial Revolution (land-industry, owner-worker).</p><p>Lipset's earlier <i>Political Man</i> (1960) linked democracy to economic development and social conditions.</p><p>Ronald Inglehart's postmaterialism (<i>The Silent Revolution</i>, 1977) added a new value cleavage: security versus self-expression.</p>"
+  },
+  {
+   "tag": "Key idea",
+   "h": "Civil society, social capital and elites",
+   "b": "<ul><li><b>Social capital.</b> Robert Putnam, <i>Making Democracy Work</i> (1993), compared regional governments in Italy. Northern regions, with dense civic associations and trust, did better than the south. <i>Bowling Alone</i> (2000) argued that civic life in the US was declining.</li><li><b>Civil society.</b> Tocqueville praised associations. Gramsci saw civil society as the arena of hegemony. Post-1989 scholars saw it as a force against authoritarianism.</li><li><b>Elite theory.</b> Gaetano Mosca and Vilfredo Pareto: every society is ruled by an organised minority. Robert Michels's \"<b>iron law of oligarchy</b>\" (<i>Political Parties</i>, 1911) argued that even democratic parties become oligarchic. C. Wright Mills, <i>The Power Elite</i> (1956), described a military-industrial-political elite. Robert Dahl's <i>Who Governs?</i> (1961) replied with pluralism.</li><li><b>Participation and mobilisation.</b> Voting, protest and social movements (Charles Tilly; resource mobilisation theory).</li><li><b>Class and identity.</b> Ethnicity, religion, gender, caste and region as bases of politics.</li></ul>"
+  },
+  {
+   "tag": "Critique",
+   "h": "The limits of comparison",
+   "b": "<p>Comparison is powerful, but it has well-known limits.</p><ul><li><b>Many variables, few cases.</b> Lijphart's \"small N\" problem. Dozens of factors, only a handful of countries.</li><li><b>Concept stretching.</b> Giovanni Sartori, \"Concept Misformation in Comparative Politics\" (1970): a concept like \"party\" or \"democracy\" gets stretched to fit different contexts until it loses meaning. His \"ladder of abstraction\" shows that broader concepts cover more cases but say less.</li><li><b>Selection bias.</b> Choosing cases because they had a certain outcome (revolutions only) distorts causal claims.</li><li><b>Galton's problem.</b> Cases are not independent. Ideas and institutions spread by diffusion and colonialism.</li><li><b>Context and equivalence.</b> The same institution (a parliament, a vote) works differently in different settings. Data may not be comparable.</li><li><b>Ethnocentrism.</b> Concepts drawn from Western experience may not suit the Global South.</li><li><b>Values.</b> Choice of topic and standard reflects the researcher's views.</li><li><b>Prediction.</b> Social systems are open: people learn and change.</li></ul>"
+  },
+  {
+   "tag": "Debate",
+   "h": "How scholars respond",
+   "b": "<div class=\"box\"><h4>Scientific route</h4>Gary King, Robert Keohane and Sidney Verba, <i>Designing Social Inquiry</i> (1994): qualitative research should follow the logic of statistical inference. Increase the number of observations and be careful about selection.</div><div class=\"box\"><h4>Qualitative route</h4>Henry Brady and David Collier, <i>Rethinking Social Inquiry</i> (2004), and Charles Ragin's <i>The Comparative Method</i> (1987) with Qualitative Comparative Analysis: case knowledge and process tracing give causal insight even with few cases.</div><div class=\"box\"><h4>Mixed methods and area studies</h4>Combine large-N data with deep case studies. Use \"nested analysis\". Respect area expertise.</div><div class=\"box\"><h4>Post-colonial and critical</h4>Question whose categories count. Partha Chatterjee, Mahmood Mamdani and Edward Said ask us to read non-Western politics on its own terms.</div><p>The answer for the exam: comparison remains valuable, but use cautious claims, clear concepts and multiple methods.</p>"
+  },
+  {
+   "tag": "Indian angle",
+   "h": "Political economy and society in India",
+   "b": "<ul><li><b>Pranab Bardhan</b>, <i>The Political Economy of Development in India</i> (1984): the state is shaped by three <b>dominant proprietary classes</b>: industrial capitalists, rich farmers and the professionals and bureaucrats. Their rivalry slowed public investment and growth.</li><li><b>Rudolph and Rudolph</b>, <i>In Pursuit of Lakshmi</i> (1987): India's political economy has a \"command polity\" of the state and a \"demand polity\" of groups.</li><li><b>Atul Kohli</b>, <i>Democracy and Discontent</i> (1990): the crisis of governability. <i>State-Directed Development</i> (2004) compared India, South Korea, Brazil and Nigeria.</li><li><b>Reforms.</b> The 1991 liberalisation shifted India from state-led to market-led growth, while keeping a strong welfare agenda (MGNREGA, 2005; food security law, 2013).</li><li><b>Society.</b> Ashutosh Varshney, <i>Ethnic Conflict and Civic Life</i> (2002), applied Putnam's logic to Hindu-Muslim riots. Towns with inter-communal civic associations saw less violence than towns without them.</li><li><b>Cleavages.</b> Caste, religion, language and region define India's party system, unlike Europe's class cleavages (Chandra, Yadav).</li></ul><p>Comparative limits are clear in India: concepts like \"class\" or \"civil society\" need adjustment (Chatterjee's \"political society\").</p>"
+  },
+  {
+   "tag": "Exam lens",
+   "h": "How UPSC asks this",
+   "b": "<div class=\"box\">\"What are the limitations of the comparative method in political analysis?\"</div><div class=\"box\">\"Discuss the political economy approach to the study of comparative politics.\"</div><div class=\"box\">\"How do social cleavages shape party systems? Illustrate.\"</div><div class=\"box\">\"Compare the developmental state with the neoliberal state.\"</div><p><b>Structure:</b> start with a definition. For political economy: traditions (liberal, Marxist, Polanyi), then Varieties of Capitalism and Esping-Andersen in boxes, and the developmental state. For political sociology: Lipset and Rokkan's cleavages, Putnam, elite theory. For limits: small N, concept stretching (Sartori), selection bias, Galton's problem, ethnocentrism, and the responses (mixed methods). Close with India: Bardhan, Varshney, Chatterjee.</p><p>Show you can criticise the tools you learn.</p>",
+   "cls": "exam"
+  }
+ ],
+ "quiz": [
+  {
+   "q": "Karl Polanyi's The Great Transformation (1944) argues that:",
+   "o": [
+    "Markets are created by states and need to be embedded in society",
+    "Markets are natural and self-regulating",
+    "Capitalism ends in revolution",
+    "Planning always fails"
+   ],
+   "a": 0,
+   "w": "His 'double movement': society protects itself from unregulated markets."
+  },
+  {
+   "q": "Hall and Soskice's Varieties of Capitalism (2001) contrasts:",
+   "o": [
+    "Capitalist and socialist economies",
+    "Liberal and coordinated market economies",
+    "Open and closed economies",
+    "Developed and developing economies"
+   ],
+   "a": 1,
+   "w": "E.g., the US versus Germany."
+  },
+  {
+   "q": "'Decommodification' is a key concept in the work of:",
+   "o": [
+    "Peter Evans",
+    "Chalmers Johnson",
+    "Mancur Olson",
+    "Gosta Esping-Andersen"
+   ],
+   "a": 3,
+   "w": "Three Worlds of Welfare Capitalism (1990)."
+  },
+  {
+   "q": "Chalmers Johnson's MITI and the Japanese Miracle (1982) introduced the idea of the:",
+   "o": [
+    "Developmental state",
+    "Welfare state",
+    "Rentier state",
+    "Failed state"
+   ],
+   "a": 0,
+   "w": "A state that guides industrial growth through a pilot agency."
+  },
+  {
+   "q": "The four cleavages of Lipset and Rokkan (1967) include:",
+   "o": [
+    "Rich-poor",
+    "Male-female",
+    "Urban-rural caste",
+    "Owner-worker"
+   ],
+   "a": 3,
+   "w": "Plus centre-periphery, state-church and land-industry."
+  },
+  {
+   "q": "Putnam's Making Democracy Work (1993) studied:",
+   "o": [
+    "German unions",
+    "US school boards",
+    "Regional governments in Italy",
+    "Indian panchayats"
+   ],
+   "a": 2,
+   "w": "He linked civic associations and trust to government performance."
+  },
+  {
+   "q": "The 'iron law of oligarchy' was formulated by:",
+   "o": [
+    "Vilfredo Pareto",
+    "Robert Michels",
+    "Robert Dahl",
+    "C. Wright Mills"
+   ],
+   "a": 1,
+   "w": "Political Parties (1911)."
+  },
+  {
+   "q": "Sartori's 1970 article warned against:",
+   "o": [
+    "Using statistics",
+    "Studying India",
+    "Concept stretching",
+    "Case studies"
+   ],
+   "a": 2,
+   "w": "'Concept Misformation in Comparative Politics.'"
+  },
+  {
+   "q": "Galton's problem in comparison refers to:",
+   "o": [
+    "Cases not being independent because of diffusion",
+    "Having too many cases",
+    "Wrong measurement units",
+    "Lack of funding"
+   ],
+   "a": 0,
+   "w": "Ideas and institutions spread between societies."
+  },
+  {
+   "q": "Varshney's Ethnic Conflict and Civic Life (2002) found that Hindu-Muslim riots were lower where:",
+   "o": [
+    "The police were stronger",
+    "Incomes were higher",
+    "The army was deployed",
+    "Inter-communal civic associations existed"
+   ],
+   "a": 3,
+   "w": "He applied Putnam's social capital logic."
+  }
+ ],
+ "sources": [
+  "Karl Polanyi, The Great Transformation (1944)",
+  "Peter Hall and David Soskice, eds., Varieties of Capitalism (2001)",
+  "Gosta Esping-Andersen, The Three Worlds of Welfare Capitalism (1990)",
+  "Chalmers Johnson, MITI and the Japanese Miracle (1982); Peter Evans, Embedded Autonomy (1995)",
+  "Seymour Martin Lipset and Stein Rokkan, eds., Party Systems and Voter Alignments (1967)",
+  "Robert Putnam, Making Democracy Work (1993)",
+  "Giovanni Sartori, 'Concept Misformation in Comparative Politics', APSR (1970)",
+  "Gary King, Robert Keohane, Sidney Verba, Designing Social Inquiry (1994); Brady and Collier, Rethinking Social Inquiry (2004)",
+  "Pranab Bardhan, The Political Economy of Development in India (1984); Ashutosh Varshney, Ethnic Conflict and Civic Life (2002)",
+  "Daron Acemoglu and James Robinson, Why Nations Fail (2012); Nobel Prize in Economic Sciences 2024",
+  "PYQ themes: comparative method limits, political economy, social cleavages (Paper II Section A)"
+ ],
+ "verified": "2026-11-10"
+}

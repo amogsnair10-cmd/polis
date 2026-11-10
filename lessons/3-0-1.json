@@ -1,0 +1,179 @@
+{
+ "id": "3-0-1",
+ "title": "Continuity and Change",
+ "emoji": "🔄",
+ "cards": [
+  {
+   "tag": "Why this matters",
+   "h": "Is Indian foreign policy new or the same old thing?",
+   "b": "<p>The central question is easy to state: has India's foreign policy changed since 1947, or only its style? UPSC asks it almost every few years, often as \"continuity and change\" or in the form of \"Nehru to Modi\".</p>\n<p>The best answers say: <b>core goals remain</b> (sovereignty, security, development, strategic autonomy), while <b>methods and partners have changed</b> (from idealism to pragmatism, from the Soviet Union to many partners, from caution to assertive security action).</p>\n<p>Use the phases below to structure your answer, and give each phase one date and one example.</p>"
+  },
+  {
+   "tag": "Timeline",
+   "h": "Phases of Indian foreign policy",
+   "b": "<svg class=\"d\" viewBox=\"0 0 320 254\"><line x1=\"62\" y1=\"10\" x2=\"62\" y2=\"244\" stroke=\"#a8792a\" stroke-width=\"2\"/><circle cx=\"62\" cy=\"22\" r=\"4\" fill=\"#a8792a\"/><text x=\"54\" y=\"26\" fill=\"#a8792a\" font-size=\"11\" text-anchor=\"end\" font-weight=\"700\">1947-62</text><text x=\"74\" y=\"26\" fill=\"#1d2433\" font-size=\"11\">Nehru: idealism, NAM, Panchsheel</text><circle cx=\"62\" cy=\"52\" r=\"4\" fill=\"#a8792a\"/><text x=\"54\" y=\"56\" fill=\"#a8792a\" font-size=\"11\" text-anchor=\"end\" font-weight=\"700\">1962-71</text><text x=\"74\" y=\"56\" fill=\"#1d2433\" font-size=\"11\">Realism after China war; Soviet tilt</text><circle cx=\"62\" cy=\"82\" r=\"4\" fill=\"#a8792a\"/><text x=\"54\" y=\"86\" fill=\"#a8792a\" font-size=\"11\" text-anchor=\"end\" font-weight=\"700\">1971-77</text><text x=\"74\" y=\"86\" fill=\"#1d2433\" font-size=\"11\">Indira: 1971 war, 1974 test</text><circle cx=\"62\" cy=\"112\" r=\"4\" fill=\"#a8792a\"/><text x=\"54\" y=\"116\" fill=\"#a8792a\" font-size=\"11\" text-anchor=\"end\" font-weight=\"700\">1977-91</text><text x=\"74\" y=\"116\" fill=\"#1d2433\" font-size=\"11\">Janata, Rajiv: pragmatism, Delhi 1983 NAM</text><circle cx=\"62\" cy=\"142\" r=\"4\" fill=\"#a8792a\"/><text x=\"54\" y=\"146\" fill=\"#a8792a\" font-size=\"11\" text-anchor=\"end\" font-weight=\"700\">1991-98</text><text x=\"74\" y=\"146\" fill=\"#1d2433\" font-size=\"11\">Reform, Look East, Gujral Doctrine</text><circle cx=\"62\" cy=\"172\" r=\"4\" fill=\"#a8792a\"/><text x=\"54\" y=\"176\" fill=\"#a8792a\" font-size=\"11\" text-anchor=\"end\" font-weight=\"700\">1998-2004</text><text x=\"74\" y=\"176\" fill=\"#1d2433\" font-size=\"11\">Pokhran-II, strategic partnerships</text><circle cx=\"62\" cy=\"202\" r=\"4\" fill=\"#a8792a\"/><text x=\"54\" y=\"206\" fill=\"#a8792a\" font-size=\"11\" text-anchor=\"end\" font-weight=\"700\">2004-14</text><text x=\"74\" y=\"206\" fill=\"#1d2433\" font-size=\"11\">Nuclear deal, G20, BRICS</text><circle cx=\"62\" cy=\"232\" r=\"4\" fill=\"#a8792a\"/><text x=\"54\" y=\"236\" fill=\"#a8792a\" font-size=\"11\" text-anchor=\"end\" font-weight=\"700\">2014-</text><text x=\"74\" y=\"236\" fill=\"#1d2433\" font-size=\"11\">Modi: multi-alignment, Act East, Sindoor</text></svg><p>These dates are rough. Some historians argue the real breaks were 1962 (Nehru's idealism was damaged), 1991 (economy) and 1998 (nuclear status).</p>"
+  },
+  {
+   "tag": "Continuity",
+   "h": "What has stayed the same",
+   "b": "<ul><li><b>Strategic autonomy:</b> from non-alignment to 'multi-alignment', India wants freedom of decision.</li><li><b>Panchsheel and respect for sovereignty</b> (1954 agreement with China).</li><li><b>Priority to the neighbourhood:</b> from Nehru's \"special relations\" to the Gujral Doctrine and Neighbourhood First.</li><li><b>Development as a goal:</b> a stable external environment for growth.</li><li><b>Nuclear restraint:</b> no first use, credible minimum deterrence, support for disarmament in speeches.</li><li><b>Support for the UN and the Global South,</b> and a demand for UN reform.</li><li><b>No overseas bases or alliances.</b></li></ul>\n<p>A short way to say it: India has been a <b>status quo power in territory and a reformist power in institutions</b>.</p>"
+  },
+  {
+   "tag": "Change",
+   "h": "What has changed",
+   "b": "<svg class=\"d\" viewBox=\"0 0 320 224\"><line x1=\"62\" y1=\"10\" x2=\"62\" y2=\"214\" stroke=\"#a8792a\" stroke-width=\"2\"/><circle cx=\"62\" cy=\"22\" r=\"4\" fill=\"#a8792a\"/><text x=\"54\" y=\"26\" fill=\"#a8792a\" font-size=\"11\" text-anchor=\"end\" font-weight=\"700\">1991</text><text x=\"74\" y=\"26\" fill=\"#1d2433\" font-size=\"11\">Markets replace planning abroad</text><circle cx=\"62\" cy=\"52\" r=\"4\" fill=\"#a8792a\"/><text x=\"54\" y=\"56\" fill=\"#a8792a\" font-size=\"11\" text-anchor=\"end\" font-weight=\"700\">1998</text><text x=\"74\" y=\"56\" fill=\"#1d2433\" font-size=\"11\">Overt nuclear weapon state</text><circle cx=\"62\" cy=\"82\" r=\"4\" fill=\"#a8792a\"/><text x=\"54\" y=\"86\" fill=\"#a8792a\" font-size=\"11\" text-anchor=\"end\" font-weight=\"700\">2005-08</text><text x=\"74\" y=\"86\" fill=\"#1d2433\" font-size=\"11\">US, nuclear deal, strategic ties</text><circle cx=\"62\" cy=\"112\" r=\"4\" fill=\"#a8792a\"/><text x=\"54\" y=\"116\" fill=\"#a8792a\" font-size=\"11\" text-anchor=\"end\" font-weight=\"700\">2014</text><text x=\"74\" y=\"116\" fill=\"#1d2433\" font-size=\"11\">Act East, diaspora, summitry</text><circle cx=\"62\" cy=\"142\" r=\"4\" fill=\"#a8792a\"/><text x=\"54\" y=\"146\" fill=\"#a8792a\" font-size=\"11\" text-anchor=\"end\" font-weight=\"700\">2016-19</text><text x=\"74\" y=\"146\" fill=\"#1d2433\" font-size=\"11\">Surgical strike, Balakot</text><circle cx=\"62\" cy=\"172\" r=\"4\" fill=\"#a8792a\"/><text x=\"54\" y=\"176\" fill=\"#a8792a\" font-size=\"11\" text-anchor=\"end\" font-weight=\"700\">2020</text><text x=\"74\" y=\"176\" fill=\"#1d2433\" font-size=\"11\">Galwan changes China policy</text><circle cx=\"62\" cy=\"202\" r=\"4\" fill=\"#a8792a\"/><text x=\"54\" y=\"206\" fill=\"#a8792a\" font-size=\"11\" text-anchor=\"end\" font-weight=\"700\">2025</text><text x=\"74\" y=\"206\" fill=\"#1d2433\" font-size=\"11\">Sindoor: terror = act of war</text></svg><ul><li><b>From idealism to realism:</b> power and national interest are openly stated.</li><li><b>From Soviet closeness to multi-alignment:</b> the US, Japan, France, Gulf and Russia all matter.</li><li><b>From moral lecture to action:</b> India now acts (surgical strike 2016, Balakot 2019, Operation Sindoor 2025) and sets conditions.</li><li><b>From closed to open economy,</b> so trade, energy and technology shape diplomacy.</li><li><b>New tools:</b> diaspora events, digital public goods, solar alliance, vaccine diplomacy.</li></ul>"
+  },
+  {
+   "tag": "Change",
+   "h": "The Modi-era toolkit",
+   "b": "<ul><li><b>Neighbourhood First</b> (2014), <b>Act East</b> (2014), <b>Link West / Think West</b>, <b>SAGAR</b> (2015) and <b>MAHASAGAR</b> (2025).</li><li><b>Summit and diaspora diplomacy:</b> Howdy Modi (Houston 2019), Namaste Trump (Ahmedabad 2020), large community events abroad.</li><li><b>Development partnerships:</b> lines of credit, Vaccine Maitri (2021), Operation Ganga (2022) and other evacuations.</li><li><b>Climate and public goods:</b> the International Solar Alliance, CDRI, Mission LiFE.</li><li><b>Economic nationalism with openness:</b> Make in India, Atmanirbhar Bharat, PLI schemes, along with new FTAs.</li><li><b>Security doctrine:</b> surgical strikes (2016), Balakot (2019), Sindoor (2025): the claim that India will respond to terror on its own terms, with no distinction between terrorists and sponsors.</li></ul>"
+  },
+  {
+   "tag": "Doctrines",
+   "h": "The doctrines in short",
+   "b": "<div class=\"box\"><h4>Nehruvian idealism</h4>Non-alignment, anti-colonialism, Asian solidarity, peace through the UN.</div>\n<div class=\"box\"><h4>Indira Doctrine</h4>No outside power should intervene in South Asia (a Monroe-style principle), and India will act where needed (Bangladesh 1971, Sri Lanka 1987).</div>\n<div class=\"box\"><h4>Gujral Doctrine (1996–97)</h4>Generosity towards smaller neighbours without reciprocity.</div>\n<div class=\"box\"><h4>Vajpayee</h4>Nuclear status, outreach to Pakistan (Lahore 1999), strategic partnership with the US.</div>\n<div class=\"box\"><h4>Manmohan Singh</h4>Civil nuclear deal; 'strategic autonomy'; G20 and BRICS.</div>\n<div class=\"box\"><h4>Modi</h4>Neighbourhood First, Act East, multi-alignment, 'new normal' on terror.</div>"
+  },
+  {
+   "tag": "Thinkers",
+   "h": "How scholars read the shift",
+   "b": "<ul><li><b>C. Raja Mohan, <i>Modi's World</i> (2015):</b> India has moved from \"Nehruvian idealism\" to pragmatic realism.</li><li><b>Shivshankar Menon, <i>Choices</i> (2016):</b> successive governments made hard choices on China, Pakistan and the nuclear question.</li><li><b>Sunil Khilnani and others, <i>Nonalignment 2.0</i> (2012):</b> India should keep its autonomy but adapt it to a new world.</li><li><b>Kanti Bajpai:</b> identifies Nehruvian, neo-liberal and hyper-realist schools that compete in Indian strategic thinking.</li><li><b>Tanvi Madan, <i>Fateful Triangle</i> (2020):</b> India has long hedged between the US and China.</li><li><b>S. Jaishankar, <i>The India Way</i> (2020):</b> argues that India must be a more confident player in a multipolar world, guided by multi-alignment and national interest.</li></ul>"
+  },
+  {
+   "tag": "Debate",
+   "h": "Is the change fundamental?",
+   "b": "<svg class=\"d\" viewBox=\"0 0 320 98\"><rect x=\"10\" y=\"6\" width=\"142\" height=\"86\" rx=\"8\" fill=\"#dceaec\" stroke=\"#2f6f7a\"/><text x=\"81\" y=\"24\" fill=\"#1d2433\" font-size=\"11.5\" text-anchor=\"middle\" font-weight=\"700\">Continuity view</text><text x=\"81\" y=\"42\" fill=\"#1d2433\" font-size=\"10.5\" text-anchor=\"middle\">Autonomy is the thread</text><text x=\"81\" y=\"58\" fill=\"#1d2433\" font-size=\"10.5\" text-anchor=\"middle\">Same neighbourhood priority</text><text x=\"81\" y=\"74\" fill=\"#1d2433\" font-size=\"10.5\" text-anchor=\"middle\">No alliances still</text><text x=\"81\" y=\"90\" fill=\"#1d2433\" font-size=\"10.5\" text-anchor=\"middle\">Panchsheel in speech</text><rect x=\"168\" y=\"6\" width=\"142\" height=\"86\" rx=\"8\" fill=\"#f4dcd5\" stroke=\"#a3362a\"/><text x=\"239\" y=\"24\" fill=\"#1d2433\" font-size=\"11.5\" text-anchor=\"middle\" font-weight=\"700\">Change view</text><text x=\"239\" y=\"42\" fill=\"#1d2433\" font-size=\"10.5\" text-anchor=\"middle\">Open use of force</text><text x=\"239\" y=\"58\" fill=\"#1d2433\" font-size=\"10.5\" text-anchor=\"middle\">Alignments by issue</text><text x=\"239\" y=\"74\" fill=\"#1d2433\" font-size=\"10.5\" text-anchor=\"middle\">Economic diplomacy first</text><text x=\"239\" y=\"90\" fill=\"#1d2433\" font-size=\"10.5\" text-anchor=\"middle\">Hindu-civilisational tone</text></svg><p>Defenders of continuity (such as Menon) say India has always adapted its means. Those who stress change point to <b>Modi's style</b>: personal summit diplomacy, the diaspora, more willingness to use force, and a language of civilisation ('Vishwa Bandhu', 'Vasudhaiva Kutumbakam').</p>\n<p>A balanced view: <b>the objectives are continuous, the method is more assertive</b>, and the world around India has changed more than India's basic aims.</p>"
+  },
+  {
+   "tag": "Indian angle",
+   "h": "Test cases: 2020–2026",
+   "b": "<ul><li><b>China:</b> from Wuhan and Mamallapuram's summitry to Galwan's confrontation, then cautious re-engagement (Kazan 2024, Tianjin 2025).</li><li><b>US:</b> from the nuclear deal and Quad to the shock of the 50% tariff (2025) and the 2026 trade framework.</li><li><b>Russia:</b> Ukraine war neutrality; oil; Putin's visit (December 2025).</li><li><b>Pakistan:</b> Sindoor and the Indus Waters Treaty in abeyance.</li><li><b>Global South:</b> G20 2023, BRICS chair 2026.</li></ul>\n<p>Each case shows both continuity (autonomy) and change (assertiveness, hedging, trade diplomacy).</p>"
+  },
+  {
+   "tag": "Exam lens",
+   "h": "How UPSC asks this",
+   "b": "<div class=\"box\">\"Indian foreign policy has shown continuity amid change. Discuss.\" (typical)</div><div class=\"box\">\"Trace the evolution of India's foreign policy from Nehru to Modi.\" (typical)</div><div class=\"box\">\"Is 'multi-alignment' a continuation of non-alignment or a break?\" (typical)</div>\n<p><b>Structure:</b> (1) thesis in one line; (2) phases with dates; (3) continuity list; (4) change list; (5) scholars (Raja Mohan, Menon, Jaishankar); (6) test cases; (7) conclusion: same ends, new means.</p>",
+   "cls": "exam"
+  }
+ ],
+ "quiz": [
+  {
+   "q": "The Indira Doctrine is often compared to the:",
+   "o": [
+    "Monroe Doctrine",
+    "Truman Doctrine",
+    "Brezhnev Doctrine",
+    "Marshall Plan"
+   ],
+   "a": 0,
+   "w": "It asserts that outside powers should not intervene in South Asia."
+  },
+  {
+   "q": "The Gujral Doctrine is associated with:",
+   "o": [
+    "Non-reciprocity towards smaller neighbours",
+    "Nuclear first use",
+    "Look East",
+    "Bilateral military pacts"
+   ],
+   "a": 0,
+   "w": "I.K. Gujral, 1996-97."
+  },
+  {
+   "q": "Who wrote 'Modi's World'?",
+   "o": [
+    "C. Raja Mohan",
+    "Shivshankar Menon",
+    "Pratap Bhanu Mehta",
+    "Kanti Bajpai"
+   ],
+   "a": 0,
+   "w": "C. Raja Mohan (2015)."
+  },
+  {
+   "q": "'Choices: Inside the Making of India's Foreign Policy' was written by:",
+   "o": [
+    "Shivshankar Menon",
+    "S. Jaishankar",
+    "Shyam Saran",
+    "Sunil Khilnani"
+   ],
+   "a": 0,
+   "w": "Shivshankar Menon (2016)."
+  },
+  {
+   "q": "The 2012 report 'Nonalignment 2.0' was edited/authored by a group including:",
+   "o": [
+    "Sunil Khilnani",
+    "Henry Kissinger",
+    "K. Natwar Singh",
+    "Kautilya"
+   ],
+   "a": 0,
+   "w": "Sunil Khilnani, Rajiv Kumar, Srinath Raghavan, Shyam Saran and others."
+  },
+  {
+   "q": "The Panchsheel Agreement with China was signed in:",
+   "o": [
+    "1954",
+    "1947",
+    "1962",
+    "1971"
+   ],
+   "a": 0,
+   "w": "29 April 1954."
+  },
+  {
+   "q": "Which event is generally seen as a major break in India's economy-driven diplomacy?",
+   "o": [
+    "1991 reforms",
+    "1947 Independence",
+    "1975 Emergency",
+    "2004 elections"
+   ],
+   "a": 0,
+   "w": "The 1991 reforms linked foreign policy to economics."
+  },
+  {
+   "q": "India became an overt nuclear weapon state in:",
+   "o": [
+    "1998",
+    "1974",
+    "2008",
+    "1962"
+   ],
+   "a": 0,
+   "w": "Pokhran-II, May 1998."
+  },
+  {
+   "q": "Jaishankar's term for India's current approach to partnerships is:",
+   "o": [
+    "Multi-alignment",
+    "Non-alignment",
+    "Isolation",
+    "Containment"
+   ],
+   "a": 0,
+   "w": "He uses 'multi-alignment' in The India Way and speeches."
+  },
+  {
+   "q": "Operation Sindoor (2025) is cited as an example of India's:",
+   "o": [
+    "More assertive response to terrorism",
+    "Peacekeeping role",
+    "Non-alignment",
+    "Arms control"
+   ],
+   "a": 0,
+   "w": "It is seen as a shift towards punitive, declared responses."
+  }
+ ],
+ "sources": [
+  "C. Raja Mohan, Modi's World (2015)",
+  "Shivshankar Menon, Choices (2016)",
+  "Khilnani et al., Nonalignment 2.0 (2012)",
+  "S. Jaishankar, The India Way (2020)",
+  "Tanvi Madan, Fateful Triangle (2020)",
+  "PYQ themes: continuity and change in India's foreign policy (Paper II, recurring)"
+ ],
+ "verified": "2026-11-10"
+}

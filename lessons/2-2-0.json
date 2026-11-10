@@ -1,0 +1,194 @@
+{
+ "id": "2-2-0",
+ "title": "Parties, Pressure Groups and Movements Compared",
+ "emoji": "🗳️",
+ "cards": [
+  {
+   "tag": "Why this matters",
+   "h": "How citizens reach the state",
+   "b": "<p>In a large society, people cannot govern directly. They act through <b>representatives</b>, and they organise through <b>parties</b>, <b>pressure groups</b> and <b>social movements</b>. These are the main channels linking society to the state.</p><p>This lesson compares the three across countries. It also prepares you for Paper I Section B (Indian party system, pressure groups, social movements), where the same ideas get applied to India.</p><p>The comparative questions are usually of this kind: \"How do electoral systems shape party systems?\", \"Distinguish pressure groups from parties\", \"How are new social movements different from old ones?\" You need a few anchor thinkers: Pitkin, Duverger, Sartori, Lijphart, Bentley and Truman, Schmitter, Tilly, Touraine and Melucci.</p><p>As usual, close with India and with the present: declining trust in parties, populism, digital campaigns and street protest.</p>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "What is representation?",
+   "b": "<p>Hanna Pitkin, in <i>The Concept of Representation</i> (1967), separated four meanings.</p><ul><li><b>Formalistic:</b> authorisation by elections, and accountability to voters.</li><li><b>Descriptive:</b> the legislature mirrors society (women, minorities).</li><li><b>Symbolic:</b> the leader or flag stands for the people.</li><li><b>Substantive:</b> representatives act in the interests of the represented.</li></ul><p>The old question: is the representative a <b>delegate</b> (follows instructions) or a <b>trustee</b> (uses judgement)? Edmund Burke's speech to the electors of Bristol (1774) is the classic trustee argument. There is also the <b>mandate</b> view (parties win a programme) and the <b>responsible party government</b> model.</p><p>Issues: whether women and minorities need reserved seats (see Anne Phillips, <i>The Politics of Presence</i>, 1995); how direct democracy (referendums, citizens' assemblies) can complement representation.</p>"
+  },
+  {
+   "tag": "Key idea",
+   "h": "Electoral systems and party systems",
+   "b": "<svg class=\"d\" viewBox=\"0 0 320 140\"><rect x=\"8\" y=\"10\" width=\"144\" height=\"120\" rx=\"8\" fill=\"#f1e4c6\" stroke=\"#a8792a\"/><rect x=\"168\" y=\"10\" width=\"144\" height=\"120\" rx=\"8\" fill=\"#dceaec\" stroke=\"#2f6f7a\"/><g font-size=\"10\" fill=\"#1d2433\"><text x=\"80\" y=\"28\" text-anchor=\"middle\" font-weight=\"700\">Plurality / majority</text><text x=\"18\" y=\"48\">First past the post</text><text x=\"18\" y=\"64\">Single-member seats</text><text x=\"18\" y=\"80\">Tends to: two parties</text><text x=\"18\" y=\"96\">UK, US, India, Canada</text><text x=\"18\" y=\"115\">Gain: clear winner</text><text x=\"240\" y=\"28\" text-anchor=\"middle\" font-weight=\"700\">Proportional</text><text x=\"178\" y=\"48\">Party list, STV, MMP</text><text x=\"178\" y=\"64\">Seats follow votes</text><text x=\"178\" y=\"80\">Tends to: many parties</text><text x=\"178\" y=\"96\">Netherlands, Israel,</text><text x=\"178\" y=\"108\">Germany (mixed)</text><text x=\"178\" y=\"124\">Gain: fair shares</text></g></svg><p>Maurice Duverger, <i>Political Parties</i> (1951), put forward what are called <b>Duverger's law</b> and hypothesis: single-member plurality voting tends toward a two-party system; proportional representation tends toward multi-partism. It is a tendency, not a law. India has FPTP but many parties because of regional concentration of support.</p><p>Arend Lijphart, <i>Patterns of Democracy</i> (1999), contrasted <b>majoritarian</b> democracies (the UK) with <b>consensus</b> democracies (Switzerland, Belgium), using ten dimensions including the party system and electoral rules.</p><p>Germany uses a mixed system (mixed-member proportional) with a 5% threshold for list seats.</p>"
+  },
+  {
+   "tag": "Thinker",
+   "h": "Types of parties",
+   "b": "<ul><li><b>Cadre (elite) party</b> versus <b>mass party</b> (Duverger, 1951). Cadre parties are run by notables. Mass parties recruit large paying memberships (socialist parties).</li><li><b>Catch-all party</b> (Otto Kirchheimer, 1966): parties drop firm ideology to win every group.</li><li><b>Cartel party</b> (Richard Katz and Peter Mair, 1995): major parties merge with the state, share public funding and limit competition.</li><li><b>Programmatic, clientelistic, charismatic</b> parties. Herbert Kitschelt studied clientelism and programme.</li><li><b>Michels's iron law of oligarchy</b> (1911): all parties tend to be run by an inner circle.</li><li><b>Vanguard party</b> (Lenin): a disciplined party of professional revolutionaries, the model for communist states.</li></ul><div class=\"box\"><h4>Functions of parties</h4>Aggregating interests, recruiting leaders, organising government, mobilising voters, setting policy agendas, and linking people to the state.</div><p>Compare the Communist Party of China (a party-state, nearly 100 million members) with the Republican and Democratic parties of the US, which are loose, decentralised electoral machines.</p>"
+  },
+  {
+   "tag": "Thinker",
+   "h": "Party systems: Sartori's classification",
+   "b": "<p>Giovanni Sartori, <i>Parties and Party Systems</i> (1976), classified systems by the number of relevant parties and their ideological distance.</p><div class=\"box\"><h4>His main types</h4><ol><li><b>One-party</b> (China, Cuba).</li><li><b>Hegemonic party</b> (others are allowed but cannot compete, as in Mexico under the PRI until 2000).</li><li><b>Predominant party</b> (one party wins repeatedly in free elections, such as Congress in India until 1967 and the LDP in Japan for most of 1955-93).</li><li><b>Two-party</b> (the UK, US).</li><li><b>Limited (moderate) pluralism</b> (3 to 5 parties, Germany).</li><li><b>Polarised pluralism</b> (many parties and extremes: Weimar Germany, Fourth Republic France, Chile before 1973).</li><li><b>Atomised.</b></li></ol></div><p>Counting rule: only parties with coalition or blackmail potential are \"relevant\". Critique: it counts parties without regard to voter strength. Laakso and Taagepera (1979) proposed the \"effective number of parties\" index.</p>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "Pressure groups: types and theories",
+   "b": "<p>A <b>pressure (interest) group</b> tries to influence government policy without seeking to govern. Parties contest elections; groups do not.</p><ul><li><b>Sectional (interest)</b> groups: trade unions, business chambers, professional bodies. <b>Cause (promotional)</b> groups: Amnesty, Greenpeace.</li><li><b>Insider</b> groups have access to officials; <b>outsider</b> groups lobby from outside (Wyn Grant).</li><li><b>Anomic and associational</b> groups (Almond): spontaneous protest versus organised.</li></ul><div class=\"box\"><h4>Theories</h4><b>Pluralism:</b> Arthur Bentley, <i>The Process of Government</i> (1908); David Truman, <i>The Governmental Process</i> (1951); Robert Dahl: politics is bargaining between many groups, so power is dispersed. <b>Collective action:</b> Mancur Olson (1965): small, concentrated interests organise better than large, diffuse ones. <b>Neo-pluralism:</b> Charles Lindblom: business has a \"privileged position\". <b>Corporatism:</b> Philippe Schmitter (1974): the state licenses a few peak associations and bargains with them. <b>Marxist:</b> business dominates.</div>"
+  },
+  {
+   "tag": "Event",
+   "h": "Pressure groups compared",
+   "b": "<ul><li><b>United States (pluralist).</b> Many competing lobbies, strong access through Congress and committees. Political action committees and super PACs, after <i>Citizens United v. FEC</i> (2010), raise vast sums. The Lobbying Disclosure Act (1995) requires registration.</li><li><b>Austria, Sweden, Germany (corporatist).</b> Peak organisations of labour and employers help set wages and social policy with the government. The EU uses \"social partners\" too.</li><li><b>European Union.</b> Thousands of lobbyists in Brussels target the Commission and Parliament. A transparency register exists.</li><li><b>China and other one-party states (state corporatism).</b> Groups exist as state-sponsored associations (such as the All-China Federation of Trade Unions), not independent bargainers.</li><li><b>Developing countries.</b> Groups often work through <b>patron-client</b> networks, caste, ethnic or religious associations, and direct protest.</li></ul><p>Common concerns: unequal resources, money in politics, and regulatory capture, where industry shapes its regulator.</p>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "Social movements: theories",
+   "b": "<p>A <b>social movement</b> is sustained collective action by people outside formal institutions, to push for or resist change. Charles Tilly and Sidney Tarrow call it \"contentious politics\".</p><ul><li><b>Collective behaviour</b> (older view): movements arise from strain and grievance.</li><li><b>Resource mobilisation</b> (McCarthy and Zald, 1977): organisation, money and leadership matter, not just grievance.</li><li><b>Political process</b> (Doug McAdam, 1982; Tarrow): movements grow when political opportunities open.</li><li><b>Framing</b> (David Snow): how issues are given meaning.</li><li><b>New social movements</b> (Alain Touraine, Alberto Melucci, Claus Offe): since the 1960s, movements for peace, environment, gender and identity focus on quality of life and identity rather than class and wages. They are often decentralised, middle-class led and use cultural methods.</li></ul><div class=\"box\"><h4>Old versus new</h4>Old: labour, class-based, hierarchical, economic aims. New: identity or values, networked, symbolic and lifestyle aims.</div>"
+  },
+  {
+   "tag": "Event",
+   "h": "Movements around the world",
+   "b": "<ul><li><b>US civil rights movement</b> (1950s-60s): marches, boycotts, the Civil Rights Act (1964).</li><li><b>Solidarity</b> in Poland (1980): a trade union that became a mass movement and helped end communist rule in 1989.</li><li><b>Greens in Germany</b> (party formed 1980) grew from environmental and peace movements.</li><li><b>Arab Spring</b> (2010-11): social media and street protest toppled rulers in Tunisia and Egypt, but only Tunisia held a democratic course for some years.</li><li><b>Occupy</b> (2011) and <b>Black Lives Matter</b> (2013; mass protests in 2020).</li><li><b>Fridays for Future</b> (2018): school climate strikes started by Greta Thunberg.</li><li><b>#MeToo</b> (2017 viral).</li></ul><p>Digital media lowers the cost of mobilisation, but Zeynep Tufekci's <i>Twitter and Tear Gas</i> (2017) notes that fast-built movements may lack the organisation to bargain. States respond with surveillance and internet shutdowns.</p><p>Movements can <b>turn into parties</b> (Greens, Podemos in Spain, India's AAP) or <b>push existing parties</b>.</p>"
+  },
+  {
+   "tag": "Critique",
+   "h": "A crisis of representation?",
+   "b": "<ul><li><b>Falling trust and membership.</b> Party membership has fallen across Europe. Russell Dalton writes of <b>partisan dealignment</b>.</li><li><b>Populism.</b> Cas Mudde defines populism as a thin ideology pitting the \"pure people\" against a \"corrupt elite\". It has risen on both left and right in Europe, the US, Latin America and elsewhere.</li><li><b>Polarisation</b> and fragmentation of party systems, and online echo chambers.</li><li><b>Money and lobbying</b> distort representation.</li><li><b>Under-representation</b> of women and minorities. Women are about a quarter of legislators worldwide (Inter-Parliamentary Union).</li><li><b>Authoritarian use.</b> One-party regimes use \"consultative\" groups to look participatory.</li><li><b>Democratic backsliding</b> often starts by weakening opposition parties, media and courts (see the democracy lesson).</li></ul><p>Reform ideas: proportional or ranked-choice voting, party finance rules, quotas, citizen assemblies, and digital participation.</p>"
+  },
+  {
+   "tag": "Indian angle",
+   "h": "India in comparative view",
+   "b": "<ul><li><b>Electoral system.</b> FPTP in single-member constituencies, yet a multi-party system with strong regional parties. The Election Commission recognises national and state parties by vote share and seats. Under the ECI order of 2023 the national parties are the BJP, INC, AAP, BSP, CPI(M) and NPP.</li><li><b>Party system phases.</b> The Congress dominance (Kothari's \"Congress system\"), the coalition era (1989-2014), BJP dominance (282 seats in 2014, 303 in 2019), and a return to coalition politics in 2024 (BJP 240; NDA 293; Congress 99).</li><li><b>Defection law.</b> 52nd Amendment (1985), Tenth Schedule; tightened by the 91st Amendment (2003).</li><li><b>Money.</b> The Supreme Court struck down the electoral bonds scheme in February 2024.</li><li><b>Pressure groups.</b> FICCI (1927), CII, ASSOCHAM; unions (AITUC 1920, INTUC); farmer groups; caste and religious associations; NGOs under the FCRA.</li><li><b>Movements.</b> Chipko, the Narmada Bachao Andolan (1985), the India Against Corruption movement (2011) that led to AAP (2012), and the farmers' protest of 2020-21 that led to repeal of three farm laws in November 2021.</li><li><b>Representation.</b> Reserved seats for SC and ST; one-third seats for women in local bodies (73rd and 74th Amendments) and, in the 106th Amendment (2023), in Parliament once delimitation follows the next census.</li></ul>"
+  },
+  {
+   "tag": "Exam lens",
+   "h": "How UPSC asks this",
+   "b": "<div class=\"box\">\"Examine the relationship between electoral systems and party systems.\"</div><div class=\"box\">\"Distinguish between pressure groups and political parties. How do they influence policy?\"</div><div class=\"box\">\"Compare old and new social movements.\"</div><div class=\"box\">\"Parties are in decline and movements are on the rise.\" Discuss.</div><p><b>Structure:</b> define representation (Pitkin). Electoral systems and Duverger's law with a small table. Party types and Sartori's systems. Pressure groups: types, theories (pluralism versus corporatism) and country examples. Movements: theories and old versus new, with examples. Then a critique on the crisis of representation. End with India: FPTP with many parties, the 2024 coalition outcome, FICCI and the farmers' protest.</p><p>Use a three-column table (party, pressure group, movement) to compare aims, methods and accountability.</p>",
+   "cls": "exam"
+  }
+ ],
+ "quiz": [
+  {
+   "q": "Hanna Pitkin's The Concept of Representation (1967) does NOT identify which type?",
+   "o": [
+    "Procedural-legal",
+    "Formalistic",
+    "Descriptive",
+    "Substantive"
+   ],
+   "a": 0,
+   "w": "Her four types: formalistic, descriptive, symbolic and substantive."
+  },
+  {
+   "q": "Duverger's hypothesis states that plurality voting tends to produce:",
+   "o": [
+    "A multi-party system",
+    "A two-party system",
+    "A one-party state",
+    "A coalition cabinet"
+   ],
+   "a": 1,
+   "w": "PR tends toward multi-partism."
+  },
+  {
+   "q": "Lijphart's Patterns of Democracy (1999) contrasts:",
+   "o": [
+    "Presidential and parliamentary rule",
+    "Unitary and federal states",
+    "Majoritarian and consensus democracy",
+    "Open and closed lists"
+   ],
+   "a": 2,
+   "w": "Using ten dimensions."
+  },
+  {
+   "q": "The 'cartel party' idea comes from:",
+   "o": [
+    "Katz and Mair",
+    "Kirchheimer",
+    "Duverger",
+    "Michels"
+   ],
+   "a": 0,
+   "w": "Major parties share state resources and limit competition (1995)."
+  },
+  {
+   "q": "A 'predominant party system' in Sartori's scheme means:",
+   "o": [
+    "Only one party is legal",
+    "One party wins repeatedly in free and fair elections",
+    "Many parties with extremes",
+    "Two alternating parties"
+   ],
+   "a": 1,
+   "w": "E.g., Congress in India until 1967, LDP in Japan."
+  },
+  {
+   "q": "Which theory holds that small concentrated interests organise better than large diffuse ones?",
+   "o": [
+    "Corporatism",
+    "Mancur Olson's collective action theory",
+    "Bentley's pluralism",
+    "Elite theory"
+   ],
+   "a": 1,
+   "w": "The Logic of Collective Action (1965)."
+  },
+  {
+   "q": "Philippe Schmitter's 'Still the Century of Corporatism?' (1974) is about:",
+   "o": [
+    "Lobbying in the US Congress",
+    "Social movements",
+    "State-recognised peak associations bargaining with government",
+    "Electoral systems"
+   ],
+   "a": 2,
+   "w": "Corporatism contrasts with pluralism."
+  },
+  {
+   "q": "'New social movements' theorists include:",
+   "o": [
+    "Touraine, Melucci and Offe",
+    "Bentley and Truman",
+    "Lenin and Michels",
+    "Almond and Verba"
+   ],
+   "a": 0,
+   "w": "They emphasise identity, values and quality of life."
+  },
+  {
+   "q": "Resource mobilisation theory was put forward by:",
+   "o": [
+    "Tilly and Skocpol",
+    "Snow and Benford",
+    "Lipset and Rokkan",
+    "McCarthy and Zald"
+   ],
+   "a": 3,
+   "w": "Published in 1977."
+  },
+  {
+   "q": "India's Supreme Court struck down the electoral bonds scheme in:",
+   "o": [
+    "January 2019",
+    "March 2021",
+    "February 2024",
+    "December 2014"
+   ],
+   "a": 2,
+   "w": "The Association for Democratic Reforms case, 15 February 2024."
+  }
+ ],
+ "sources": [
+  "Hanna Pitkin, The Concept of Representation (1967)",
+  "Maurice Duverger, Political Parties (1951)",
+  "Arend Lijphart, Patterns of Democracy (1999; 2nd ed. 2012)",
+  "Giovanni Sartori, Parties and Party Systems (1976)",
+  "Richard Katz and Peter Mair, 'Changing Models of Party Organization and Party Democracy', Party Politics (1995)",
+  "David Truman, The Governmental Process (1951); Mancur Olson, The Logic of Collective Action (1965); Philippe Schmitter (1974)",
+  "John McCarthy and Mayer Zald, 'Resource Mobilization and Social Movements', AJS (1977); Alberto Melucci, Nomads of the Present (1989)",
+  "Election Commission of India, notification on recognised national parties (2023); results of the 2024 Lok Sabha election",
+  "Association for Democratic Reforms v. Union of India (15 February 2024)",
+  "Inter-Parliamentary Union, Women in Parliament (2025)",
+  "PYQ themes: electoral and party systems, pressure groups, social movements (Paper II Section A; Paper I Section B)"
+ ],
+ "verified": "2026-11-10"
+}

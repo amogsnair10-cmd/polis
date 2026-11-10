@@ -1,0 +1,184 @@
+{
+ "id": "1-6-0",
+ "title": "Constitutional Provisions and Centre–State Relations",
+ "emoji": "🏛️",
+ "cards": [
+  {
+   "tag": "Why this matters",
+   "h": "Federalism: the most-asked theme in Section B",
+   "b": "<p>Federalism is asked in Paper I almost every year. The usual question is a version of one puzzle: <b>is India really federal?</b></p><p>The Constitution never uses the word \"federation\". Article 1 says India, that is Bharat, is a <b>Union of States</b>. Yet it has two levels of government, a written constitution, a Supreme Court that settles disputes and a Seventh Schedule that divides powers.</p><p>It also lets Parliament redraw state boundaries, lets the Centre dismiss a state government and gives the Centre the residuary power. So scholars have called it <b>quasi-federal</b>, <b>federal with a unitary bias</b>, or a system of <b>bargaining</b> between levels.</p><p>This lesson covers the constitutional design: legislative, administrative and financial relations, and the commissions that reviewed them. The next two lessons cover regional demands and inter-state disputes.</p>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "Federal and unitary features side by side",
+   "b": "<svg class=\"d\" viewBox=\"0 0 320 150\"><rect x=\"8\" y=\"8\" width=\"144\" height=\"134\" rx=\"10\" fill=\"#dceaec\" stroke=\"#2f6f7a\"/><rect x=\"168\" y=\"8\" width=\"144\" height=\"134\" rx=\"10\" fill=\"#f4dcd5\" stroke=\"#a3362a\"/><text x=\"80\" y=\"28\" font-size=\"12\" font-weight=\"700\" text-anchor=\"middle\" fill=\"#2f6f7a\">Federal features</text><text x=\"240\" y=\"28\" font-size=\"12\" font-weight=\"700\" text-anchor=\"middle\" fill=\"#a3362a\">Unitary features</text><g font-size=\"10\" fill=\"#1d2433\"><text x=\"16\" y=\"48\">Written constitution</text><text x=\"16\" y=\"64\">Two levels of government</text><text x=\"16\" y=\"80\">Seventh Schedule lists</text><text x=\"16\" y=\"96\">Independent Supreme Court</text><text x=\"16\" y=\"112\">Rajya Sabha</text><text x=\"16\" y=\"128\">Art. 368(2) ratification</text><text x=\"176\" y=\"48\">Strong Centre, Art. 248</text><text x=\"176\" y=\"64\">Art. 3: Parliament redraws</text><text x=\"176\" y=\"80\">Governor named by Centre</text><text x=\"176\" y=\"96\">Emergency, Art. 352/356</text><text x=\"176\" y=\"112\">All India Services</text><text x=\"176\" y=\"128\">Single citizenship, courts</text></g></svg><p>The Constitution is not a copy of any one model. Ambedkar explained in the Constituent Assembly (4 November 1948) that it set up a <b>dual polity</b>, but that the Union was not the result of an agreement among states. So no state can secede.</p><p>His phrase was that the Union is <b>indestructible</b>, while the units are not: Parliament can change their borders and names under <b>Article 3</b>. The Court affirmed the same reading in <i>Berubari Union</i> (1960) and, more sharply, in <i>State of West Bengal v. Union of India</i> (1963), where it said states do not have sovereign status.</p>"
+  },
+  {
+   "tag": "Key idea",
+   "h": "Four thinkers on the nature of Indian federalism",
+   "b": "<div class=\"box\"><h4>K.C. Wheare, Federal Government (1946)</h4>A strict federation needs co-ordinate, independent governments. By that test India is <b>quasi-federal</b>: a unitary state with subsidiary federal features.</div><div class=\"box\"><h4>Granville Austin, The Indian Constitution (1966)</h4>India's founders built <b>cooperative federalism</b>. Units are not rivals. They are \"agencies\" for national goals, bound by shared administration and money.</div><div class=\"box\"><h4>W.H. Morris-Jones</h4>Described Indian federalism as a <b>bargaining</b> system. Real outcomes come from negotiation between Centre and states, not from constitutional text alone.</div><div class=\"box\"><h4>Rajni Kothari, Politics in India (1970)</h4>The dominance of the Congress \"system\" held the units together. When the party weakened after 1967, the federal side of the Constitution began to matter more.</div><p>Ambedkar's own defence was practical: the Constitution can be \"both unitary as well as federal\" according to the times. In normal times it works federally, in emergencies it turns unitary.</p>"
+  },
+  {
+   "tag": "Key idea",
+   "h": "Legislative relations: three lists and the Centre's reach",
+   "b": "<p>Articles 245-255 divide lawmaking. The <b>Seventh Schedule</b> has the Union List (98 entries), the State List (59) and the Concurrent List (52). The Centre holds <b>residuary power</b> (Article 248, Entry 97 of the Union List). That is the opposite of the United States, where residuary power lies with states.</p><p>The 42nd Amendment (1976) moved five subjects to the Concurrent List: education, forests, weights and measures, protection of wild animals and birds, and administration of justice. If a Union and a state law clash on a Concurrent subject, the Union law prevails (<b>Article 254</b>), unless the state law got Presidential assent.</p><p>Parliament can legislate on State List subjects in five cases:</p><ol><li><b>Article 249:</b> Rajya Sabha resolution by two-thirds, in the national interest (valid one year, renewable).</li><li><b>Article 250:</b> while a Proclamation of Emergency is in force.</li><li><b>Article 252:</b> two or more state legislatures request it.</li><li><b>Article 253:</b> to implement treaties.</li><li><b>Article 356:</b> during President's Rule.</li></ol>"
+  },
+  {
+   "tag": "Key idea",
+   "h": "Administrative relations",
+   "b": "<p>Articles 256-263 and 355 shape the working partnership. States must use their power so that Union laws are obeyed (<b>Article 256</b>) and must not block the Union's executive power (<b>Article 257</b>). <b>Article 355</b> makes it the Union's duty to protect states from external aggression and internal disturbance.</p><p><b>All India Services</b> (IAS, IPS, IFoS) are created under <b>Article 312</b>. Officers serve in states but are controlled by the Centre. Many see this as a bridge; others as a leash.</p><p>The <b>Governor</b> is the key link. Appointed by the President (<b>Article 155</b>), holding office during the President's pleasure (<b>Article 156</b>), he acts on ministerial advice (<b>Article 163</b>) except where the Constitution gives discretion. He can reserve bills for the President (<b>Article 200</b>), and send reports that start President's Rule.</p><p><b>Article 262</b> lets Parliament settle river water disputes. <b>Article 263</b> creates the <b>Inter-State Council</b>, set up in 1990 on the Sarkaria Commission's advice. <b>Zonal Councils</b> are statutory, set up by the States Reorganisation Act, 1956.</p>"
+  },
+  {
+   "tag": "Key idea",
+   "h": "Financial relations",
+   "b": "<p>Articles 268-293 split the money. States have most spending duties (health, police, agriculture) but the Centre has the best taxes. This gap is the <b>vertical imbalance</b>. It is closed through three channels:</p><ul><li><b>Tax devolution</b> (Article 270): after the 80th Amendment (2000), the Finance Commission recommends the share of all Union taxes given to states. The 15th Commission gave 41%. The 16th, chaired by Arvind Panagariya, kept it at 41% for 2026-31, as reported at its tabling on 1 February 2026, though many states had asked for 50%.</li><li><b>Grants-in-aid</b> (Article 275, and 282 for discretionary grants).</li><li><b>Borrowing</b> (Article 293): states need Union consent when owing it money.</li></ul><p>Cesses and surcharges are not shared, which states complain about.</p><p>The <b>101st Amendment (2016)</b> brought <b>GST</b>: Article 246A gives both levels power to tax goods and services, and Article 279A creates the <b>GST Council</b>. The Centre has one-third of the votes and states two-thirds together; decisions need three-fourths. In <i>Mohit Minerals</i> (2022) the Supreme Court held the Council's recommendations are persuasive, not binding. In September 2025 the Council moved to two main rates, 5% and 18%, with 40% on a few luxury and sin goods.</p>"
+  },
+  {
+   "tag": "Key idea",
+   "h": "The commissions that reviewed the design",
+   "b": "<svg class=\"d\" viewBox=\"0 0 320 120\"><line x1=\"20\" y1=\"60\" x2=\"300\" y2=\"60\" stroke=\"#5d6474\" stroke-width=\"2\"/><g font-size=\"10\" fill=\"#1d2433\" text-anchor=\"middle\"><circle cx=\"40\" cy=\"60\" r=\"5\" fill=\"#a8792a\"/><text x=\"40\" y=\"44\">1969</text><text x=\"40\" y=\"82\">Rajamannar</text><circle cx=\"100\" cy=\"60\" r=\"5\" fill=\"#a8792a\"/><text x=\"100\" y=\"44\">1973</text><text x=\"100\" y=\"82\">Anandpur</text><circle cx=\"160\" cy=\"60\" r=\"5\" fill=\"#a8792a\"/><text x=\"160\" y=\"44\">1983-88</text><text x=\"160\" y=\"82\">Sarkaria</text><circle cx=\"220\" cy=\"60\" r=\"5\" fill=\"#a8792a\"/><text x=\"220\" y=\"44\">2000-02</text><text x=\"220\" y=\"82\">NCRWC</text><circle cx=\"280\" cy=\"60\" r=\"5\" fill=\"#a8792a\"/><text x=\"280\" y=\"44\">2007-10</text><text x=\"280\" y=\"82\">Punchhi</text></g><text x=\"160\" y=\"108\" font-size=\"10\" fill=\"#5d6474\" text-anchor=\"middle\">Anandpur Sahib: resolution of the Akali Dal</text></svg><ul><li><b>Rajamannar Committee</b> (appointed by Tamil Nadu in 1969): wanted Article 356 and the All India Services trimmed and a permanent Inter-State Council.</li><li><b>Sarkaria Commission</b> (1983, report 1988): did not seek big changes. It backed cooperative federalism, a strong Centre and a standing Inter-State Council. Use of Article 356 should be a \"last resort\".</li><li><b>NCRWC</b> (Venkatachaliah, 2002): suggested a stronger Inter-State Council and limits on Article 356.</li><li><b>Punchhi Commission</b> (2007, report 2010): Governors should have a fixed five-year tenure, with removal only through a resolution of the state legislature; consult the Chief Minister on appointment; allow <b>localised use</b> of emergency powers rather than dismissing a whole government.</li></ul>"
+  },
+  {
+   "tag": "Key idea",
+   "h": "Article 356, the Governor and the courts",
+   "b": "<p><b>Article 356</b> lets the President impose rule when a state's government cannot work according to the Constitution. It was used for political ends often, from Kerala in 1959 to the dismissals of 1977 and 1980.</p><p>Landmark cases:</p><ul><li><i>State of Rajasthan v. Union of India</i> (1977): courts can review only for mala fide or absent grounds.</li><li><i>S.R. Bommai v. Union of India</i> (1994, nine judges): the proclamation is <b>judicially reviewable</b>. Majority must be tested on the floor of the House, not by the Governor's opinion. Federalism and secularism are part of the <b>basic structure</b>. After Bommai, use of Article 356 fell sharply.</li><li><i>Rameshwar Prasad</i> (2006): dissolving the Bihar assembly in 2005 was unconstitutional.</li><li><i>Nabam Rebia</i> (2016): Governor cannot call the assembly on his own against the Speaker and the cabinet; Arunachal's earlier government was restored.</li></ul><p>In 2025, the Supreme Court in <i>State of Tamil Nadu v. Governor</i> (8 April) fixed time limits on Governors for bills. In November 2025, a five-judge bench answering a Presidential reference under <b>Article 143</b> said courts cannot fix such deadlines or recognise \"deemed assent\", though prolonged inaction can still be questioned in limited ways.</p>"
+  },
+  {
+   "tag": "Critique",
+   "h": "Is India federal? Arguments on both sides",
+   "b": "<p><b>It is federal because:</b></p><ul><li>The Court polices the division of powers, and states have won cases, as in <i>Bommai</i>.</li><li>Amendments touching federal provisions need ratification by half the states (Article 368(2)).</li><li>Regional parties now shape national coalitions. Since 1989, the Centre has needed state-level partners.</li><li>The Constitution has special arrangements for Northeast and Fifth/Sixth Schedule areas (asymmetric federalism).</li></ul><p><b>It is not fully federal because:</b></p><ul><li>States cannot protect their territory: Parliament can redraw them (Article 3). Telangana was carved out in 2014; Jammu and Kashmir was reduced to a Union Territory in 2019 and Ladakh separated.</li><li>The Governor, Article 356, All India Services and Planning/Finance control keep states dependent.</li><li>Delhi's elected government has been limited by the Centre's laws on services (2023).</li><li>The Rajya Sabha represents states by population, not equally, unlike the US Senate.</li></ul><p>Fair conclusion: India is a <b>flexible, union-centred federation</b>. The text leans unitary; practice swings with party politics.</p>"
+  },
+  {
+   "tag": "Indian angle",
+   "h": "Federal flashpoints in 2023-2026",
+   "b": "<ul><li><b>Governors and bills:</b> Kerala, Tamil Nadu, Punjab and West Bengal complained of Governors holding bills. See <i>Tamil Nadu v. Governor</i> (April 2025) and the 2025 Presidential reference opinion.</li><li><b>Delhi:</b> <i>Government of NCT of Delhi v. Union of India</i> (2018, and 11 May 2023) gave the elected government control of services. Parliament then passed the GNCTD (Amendment) Act, 2023, which created a National Capital Civil Service Authority and reversed this.</li><li><b>GST and money:</b> the 56th GST Council (3 September 2025) moved to two main slabs. States worry about revenue loss now that compensation has ended and about the 16th Finance Commission's 41%.</li><li><b>One Nation, One Election:</b> the Constitution (129th Amendment) Bill, 2024 sits with a Joint Parliamentary Committee. Critics say it cuts into state assemblies' fixed terms.</li><li><b>Delimitation:</b> The seat freeze lasts until the first census after 2026 (Article 82 proviso). Southern states fear losing weight. The Lok Sabha defeated the Constitution (131st Amendment) Bill, 2026 on 17 April 2026, which would have expanded the House to 850 seats and used the 2011 Census for delimitation. Census 2027 is under way.</li><li><b>Waqf (Amendment) Act, 2025:</b> a Concurrent List subject (Entry 10); the Supreme Court stayed some provisions in September 2025.</li></ul>"
+  },
+  {
+   "tag": "Exam lens",
+   "h": "How UPSC asks this",
+   "b": "<div class=\"box\">\"Is the Indian Constitution federal or unitary? Examine in the light of recent trends.\" (a staple in various forms)</div><div class=\"box\">\"Discuss the changing nature of Centre-State relations. Do Governors and Article 356 weaken federalism?\"</div><div class=\"box\">\"Cooperative federalism is more a slogan than a reality in India.\" Comment.</div><div class=\"box\">\"Examine the role of GST Council and Finance Commission in fiscal federalism.\"</div><p><b>Structure:</b> Article 1 and Ambedkar's \"Union of States\"; federal vs unitary features; Wheare, Austin, Morris-Jones; legislative, administrative and financial relations; commissions (Sarkaria, Punchhi); <i>Bommai</i>; recent cases and GST. Conclude with a balanced verdict: flexible, bargaining federation, tilting with party politics.</p>",
+   "cls": "exam"
+  }
+ ],
+ "quiz": [
+  {
+   "q": "Which Article says India is a 'Union of States'?",
+   "o": [
+    "Article 1",
+    "Article 3",
+    "Article 245",
+    "Article 356"
+   ],
+   "a": 0,
+   "w": "Article 1(1)."
+  },
+  {
+   "q": "Who called India 'quasi-federal'?",
+   "o": [
+    "Granville Austin",
+    "K.C. Wheare",
+    "Rajni Kothari",
+    "W.H. Morris-Jones"
+   ],
+   "a": 1,
+   "w": "Wheare, Federal Government (1946)."
+  },
+  {
+   "q": "Under which Article can the Rajya Sabha empower Parliament to legislate on a State List subject?",
+   "o": [
+    "Article 248",
+    "Article 249",
+    "Article 252",
+    "Article 253"
+   ],
+   "a": 1,
+   "w": "Article 249 needs a two-thirds resolution in the national interest."
+  },
+  {
+   "q": "Which amendment moved education to the Concurrent List?",
+   "o": [
+    "24th",
+    "42nd",
+    "44th",
+    "73rd"
+   ],
+   "a": 1,
+   "w": "42nd Amendment, 1976."
+  },
+  {
+   "q": "The GST Council is created by which Article?",
+   "o": [
+    "Article 246A",
+    "Article 270",
+    "Article 279A",
+    "Article 280"
+   ],
+   "a": 2,
+   "w": "Article 279A, inserted by the 101st Amendment (2016); 246A gives taxing power."
+  },
+  {
+   "q": "Which case held federalism a part of the basic structure and made Article 356 reviewable?",
+   "o": [
+    "Kesavananda Bharati",
+    "S.R. Bommai",
+    "Nabam Rebia",
+    "Rameshwar Prasad"
+   ],
+   "a": 1,
+   "w": "S.R. Bommai v. Union of India (1994)."
+  },
+  {
+   "q": "Which body led to the Inter-State Council being created in 1990?",
+   "o": [
+    "Rajamannar Committee",
+    "Sarkaria Commission",
+    "Punchhi Commission",
+    "First ARC"
+   ],
+   "a": 1,
+   "w": "Sarkaria recommended a standing Inter-State Council under Article 263."
+  },
+  {
+   "q": "Zonal Councils were set up by which law?",
+   "o": [
+    "Constitution, Art. 263",
+    "States Reorganisation Act, 1956",
+    "Inter-State Council Order, 1990",
+    "NITI Aayog resolution, 2015"
+   ],
+   "a": 1,
+   "w": "They are statutory, not constitutional."
+  },
+  {
+   "q": "In its November 2025 opinion on a Presidential reference, the Supreme Court said…",
+   "o": [
+    "Governors must act within three months",
+    "Courts cannot impose fixed deadlines or deemed assent on Governors and the President",
+    "Governors can veto bills absolutely",
+    "Article 200 was struck down"
+   ],
+   "a": 1,
+   "w": "The five-judge bench declined to read in fixed timelines."
+  },
+  {
+   "q": "The Seventh Schedule's Union List has how many entries?",
+   "o": [
+    "47",
+    "66",
+    "98",
+    "100"
+   ],
+   "a": 2,
+   "w": "98 entries today. State List has 59 and Concurrent List 52."
+  }
+ ],
+ "sources": [
+  "Constitution of India, Arts 1, 3, 245-263, 268-293, 246A, 279A, 355-356",
+  "K.C. Wheare, Federal Government (1946); Granville Austin, The Indian Constitution: Cornerstone of a Nation (1966); Morris-Jones, The Government and Politics of India",
+  "Sarkaria Commission Report (1988); Punchhi Commission Report (2010); NCRWC (2002)",
+  "S.R. Bommai v. Union of India (1994); State of Tamil Nadu v. Governor (8 April 2025); Presidential Reference opinion (Nov 2025)",
+  "PRS Legislative Research; Report of the 16th Finance Commission (tabled 1 Feb 2026); PIB on 56th GST Council (3 Sep 2025)",
+  "PYQ themes: federal or unitary (Paper I Section B, near every year); Governor and Art 356; fiscal federalism; GST"
+ ],
+ "verified": "2026-11-10"
+}

@@ -1,0 +1,179 @@
+{
+ "id": "1-3-1",
+ "title": "Parliament",
+ "emoji": "🏛️",
+ "cards": [
+  {
+   "tag": "Why this matters",
+   "h": "The people's forum, under pressure",
+   "b": "<p>Parliament is the centre of the parliamentary system. It makes laws, controls money and holds the executive to account. Yet scholars and presiding officers have warned for years that its working is declining: fewer sittings, frequent disruptions, less committee scrutiny.</p><p>UPSC asks about <b>structure and powers</b>, the <b>role of the Rajya Sabha</b>, the <b>committee system</b>, the <b>Speaker</b> and the <b>decline</b> of Parliament. You need articles, numbers, examples and a view.</p><p>Walter Bagehot, in <i>The English Constitution</i> (1867), listed five functions of the House of Commons: the <b>elective</b> function (choosing the government), the <b>expressive</b> (voicing the people's mind), the <b>teaching</b>, the <b>informing</b> and the <b>legislative</b>. Many add scrutiny of the executive as the most important today.</p>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "Structure: President, Lok Sabha, Rajya Sabha",
+   "b": "<div class=\"box\"><h4>Lok Sabha (Articles 81-83)</h4>Maximum 550 members (530 from states, 20 from Union Territories). Present strength is 543; the 104th Amendment (2019) ended the two nominated Anglo-Indian seats. Five-year term, which can be extended one year at a time during a national Emergency. Minimum age 25. Led by the <b>Speaker</b> (Article 93).</div><div class=\"box\"><h4>Rajya Sabha (Articles 80, 83)</h4>Maximum 250: 238 from states and Union Territories, and 12 nominated for expertise in literature, science, art or social service. Present strength is 245. A permanent House: one-third retire every two years; six-year term. Minimum age 30. Chaired by the Vice-President.</div><p>Rajya Sabha members are elected indirectly by state assemblies using the single transferable vote. Seats are allotted by population, not equally as in the US Senate. The domicile requirement was removed in 2003, and open ballot was introduced for the Rajya Sabha elections.</p><p>The Lok Sabha has the last word on money bills, the control over the Council of Ministers, and in joint sittings (the Lok Sabha has more members).</p>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "How a bill becomes a law",
+   "b": "<svg class=\"d\" viewBox=\"0 0 320 120\"><g font-size=\"9.5\" text-anchor=\"middle\" fill=\"#1d2433\"><rect x=\"4\" y=\"10\" width=\"56\" height=\"34\" rx=\"5\" fill=\"#f1e4c6\" stroke=\"#a8792a\"/><text x=\"32\" y=\"25\">Introduced</text><text x=\"32\" y=\"37\">1st reading</text><rect x=\"68\" y=\"10\" width=\"56\" height=\"34\" rx=\"5\" fill=\"#fff\" stroke=\"#a8792a\"/><text x=\"96\" y=\"25\">Committee</text><text x=\"96\" y=\"37\">or debate</text><rect x=\"132\" y=\"10\" width=\"56\" height=\"34\" rx=\"5\" fill=\"#fff\" stroke=\"#a8792a\"/><text x=\"160\" y=\"25\">2nd and</text><text x=\"160\" y=\"37\">3rd reading</text><rect x=\"196\" y=\"10\" width=\"56\" height=\"34\" rx=\"5\" fill=\"#fff\" stroke=\"#a8792a\"/><text x=\"224\" y=\"25\">Other</text><text x=\"224\" y=\"37\">House</text><rect x=\"260\" y=\"10\" width=\"56\" height=\"34\" rx=\"5\" fill=\"#dceaec\" stroke=\"#2f6f7a\"/><text x=\"288\" y=\"25\">President</text><text x=\"288\" y=\"37\">assent</text><rect x=\"68\" y=\"70\" width=\"184\" height=\"34\" rx=\"5\" fill=\"#f4dcd5\" stroke=\"#a3362a\"/><text x=\"160\" y=\"85\">If the Houses disagree on an ordinary bill:</text><text x=\"160\" y=\"98\">Joint sitting, Article 108</text></g><path d=\"M60 27 L68 27 M124 27 L132 27 M188 27 L196 27 M252 27 L260 27 M224 44 L224 70\" stroke=\"#5d6474\"/></svg><ul><li><b>Ordinary bill:</b> either House, equal powers. The Rajya Sabha may delay but not block a money bill.</li><li><b>Money bill (Article 110):</b> only in the Lok Sabha, on the President's recommendation. The Rajya Sabha can only recommend changes within 14 days; the Lok Sabha may reject them. The Speaker certifies a bill as a money bill.</li><li><b>Constitutional amendment:</b> both Houses by special majority; no joint sitting.</li><li><b>Joint sitting</b> has been used three times: Dowry Prohibition Bill (1961), Banking Service Commission Repeal Bill (1978), Prevention of Terrorism Bill (2002).</li></ul>"
+  },
+  {
+   "tag": "Key idea",
+   "h": "Controlling the purse: the budget",
+   "b": "<ul><li>Article 112: the annual financial statement. Presented on <b>1 February</b> since 2017, when the Railway Budget was merged with the Union Budget.</li><li>The government cannot spend from the <b>Consolidated Fund</b> (Article 266) without Parliament's authorisation through an <b>Appropriation Act</b>. A <b>Contingency Fund</b> (Article 267) is for unforeseen needs.</li><li>Stages: general discussion; demands for grants (<b>cut motions</b> are used to signal protest); the Appropriation Bill; the Finance Bill. A <b>guillotine</b> ends debate on remaining demands.</li><li>Control after spending: the <b>CAG</b> audits; the <b>Public Accounts Committee</b> examines the reports.</li></ul><p>Controversy: the Aadhaar Act, 2016 was passed as a money bill, which kept the Rajya Sabha out. In <i>K.S. Puttaswamy (Aadhaar)</i> (2018), a 4:1 majority upheld this. In <i>Rojer Mathew</i> (2019), the Court referred the wider question of misuse of the money bill route to a larger bench. The issue is still pending.</p>"
+  },
+  {
+   "tag": "Key idea",
+   "h": "Controlling the executive",
+   "b": "<ul><li><b>Question Hour</b> (starred, unstarred, short notice), <b>Zero Hour</b> (an Indian invention, since 1962), and calling-attention notices.</li><li><b>Motions:</b> adjournment motion, no-confidence motion (under Rule 198, needs 50 members to support), censure, cut motions and motion of thanks to the President's address.</li><li><b>Debates:</b> short-duration discussions, half-hour discussions.</li><li><b>Committees:</b> the main arm of scrutiny.</li></ul><div class=\"box\"><h4>Main committees</h4><b>Public Accounts Committee</b> (since 1921; the Chair is traditionally from the Opposition), <b>Estimates Committee</b> (1950), <b>Committee on Public Undertakings</b> (1964), and <b>Department-Related Standing Committees</b> (set up in 1993, now 24). <b>Joint Parliamentary Committees</b> are ad hoc: examples are the Bofors (1987), the stock market scam (1992), the 2G (2011) and the 2025 Waqf bill committee.</div>"
+  },
+  {
+   "tag": "Key idea",
+   "h": "The Speaker and the Chairman",
+   "b": "<ul><li>The <b>Speaker</b> is elected by the Lok Sabha (Article 93) and presides, decides on points of order, certifies money bills, decides on defections under the Tenth Schedule and disqualification, and has a casting vote only in a tie.</li><li><b>G.V. Mavalankar</b>, the first Speaker (1952-56), set conventions of impartiality. Neelam Sanjiva Reddy resigned from his party on becoming Speaker (1967).</li><li>The Speaker does not vacate the seat on dissolution but remains till the new House meets.</li><li><b>Deputy Speaker:</b> traditionally from the Opposition; the post stayed vacant throughout the 17th Lok Sabha (2019-24).</li><li><b>Speaker Om Birla</b> was re-elected in the 18th Lok Sabha on 26 June 2024. The Leader of the Opposition, Rahul Gandhi, was recognised after a gap of ten years.</li></ul><p>Criticism: Speakers belong to parties, so their decisions on defection and suspension often seem partisan. The Supreme Court (<i>Kihoto Hollohan</i>, 1992; <i>Keisham Meghachandra Singh</i>, 2020) has asked for timely and reviewable decisions.</p>"
+  },
+  {
+   "tag": "Key idea",
+   "h": "Role of the Rajya Sabha",
+   "b": "<p><b>Strengths:</b> it represents states and, in theory, offers a second look at bills; it protects continuity (it cannot be dissolved); it brings in experts through nominated members; it has special federal powers: <b>Article 249</b> (Parliament can legislate on State List subjects if two-thirds of the Rajya Sabha agrees in the national interest), <b>Article 312</b> (creating All India Services).</p><p><b>Weaknesses:</b></p><ul><li>Seats go by population, so it is not an equal federal chamber like the US Senate.</li><li>It has been used by parties to place leaders who cannot win elections. The residence rule was removed in 2003.</li><li>It has less power than the Lok Sabha on money and in confidence votes.</li></ul><p>The Sarkaria Commission and the NCRWC (2002) saw it as useful but wanted it more representative of states. Still, it has delayed or amended important bills, such as the Lokpal Bill (2011-13).</p>"
+  },
+  {
+   "tag": "Critique",
+   "h": "Is Parliament declining?",
+   "b": "<ul><li><b>Sittings:</b> the first Lok Sabha sat for about 135 days a year (an average above 120 in the 1950s). Recent Houses sit for roughly 55-70 days a year (PRS Legislative Research).</li><li><b>Disruptions:</b> repeated walkouts and adjournments waste time. In December 2023, 146 MPs were suspended in the winter session. Bills passed in disrupted sessions get less debate.</li><li><b>Committee scrutiny:</b> the share of bills sent to committees fell from 71% in the 15th Lok Sabha to about 16% in the 17th (PRS).</li><li><b>Ordinances</b> and <b>money bills</b> are used to bypass the Rajya Sabha.</li><li><b>Anti-defection law</b> reduces MPs' independence, since party whips rule.</li></ul><p><b>Reforms suggested:</b> a minimum number of sitting days (the National Commission to Review the Working of the Constitution suggested 120 for the Lok Sabha and 100 for the Rajya Sabha), automatic referral of bills to committees, a Parliamentary Budget Office, Opposition-chaired committees and a less partisan Speaker.</p>"
+  },
+  {
+   "tag": "Indian angle",
+   "h": "The 18th Lok Sabha so far",
+   "b": "<ul><li>After the 2024 election, the BJP-led NDA has 293 members, and the INDIA bloc 234, giving a stronger Opposition than the 17th Lok Sabha.</li><li><b>Waqf (Amendment) Bill, 2024-25:</b> sent to a Joint Parliamentary Committee of 31 members before passage in April 2025.</li><li><b>Three new criminal laws</b> (Bharatiya Nyaya Sanhita and others) took effect on 1 July 2024.</li><li><b>Constitutional bills:</b> the 129th Amendment (simultaneous elections) and 130th (removal of ministers in custody) are with JPCs. The 131st Amendment Bill failed on 17 April 2026 for want of a two-thirds majority.</li><li><b>New Parliament building</b> (inaugurated 28 May 2023) and the women's reservation law (106th Amendment, notified 16 April 2026) are changes in form and composition.</li><li>Debates on the SIR of electoral rolls and on foreign policy episodes tested whether the Opposition can force discussion.</li></ul>"
+  },
+  {
+   "tag": "Exam lens",
+   "h": "How UPSC asks this",
+   "b": "<div class=\"box\">\"Parliament's role as a legislature has diminished. Discuss the reasons and remedies.\"</div><div class=\"box\">\"Examine the role of parliamentary committees in strengthening accountability.\"</div><div class=\"box\">\"Does the Rajya Sabha serve any useful purpose?\"</div><div class=\"box\">\"The Speaker's role has become controversial. Examine.\"</div><p><b>Structure:</b> Bagehot's functions; composition and powers; law-making and money bills; budget control; committees; Speaker and Rajya Sabha; indicators of decline (sittings, committees, disruptions); reforms (NCRWC 120 days, committees); recent cases (Waqf JPC, 2023 suspensions); end with a hopeful view.</p>",
+   "cls": "exam"
+  }
+ ],
+ "quiz": [
+  {
+   "q": "The maximum strength of the Lok Sabha under the Constitution is…",
+   "o": [
+    "543",
+    "545",
+    "550",
+    "552"
+   ],
+   "a": 2,
+   "w": "530 states + 20 UTs = 550; actual strength 543."
+  },
+  {
+   "q": "The Rajya Sabha has how many nominated members at most?",
+   "o": [
+    "2",
+    "12",
+    "14",
+    "20"
+   ],
+   "a": 1,
+   "w": "12, for literature, science, art and social service."
+  },
+  {
+   "q": "A money bill can be introduced only in…",
+   "o": [
+    "Either House",
+    "Lok Sabha",
+    "Rajya Sabha",
+    "A joint sitting"
+   ],
+   "a": 1,
+   "w": "Article 110: Lok Sabha on the President's recommendation."
+  },
+  {
+   "q": "The Rajya Sabha must return a money bill within…",
+   "o": [
+    "7 days",
+    "14 days",
+    "30 days",
+    "60 days"
+   ],
+   "a": 1,
+   "w": "14 days; the Lok Sabha may ignore its recommendations."
+  },
+  {
+   "q": "A joint sitting under Article 108 has been held how many times?",
+   "o": [
+    "Once",
+    "Three times",
+    "Five times",
+    "Never"
+   ],
+   "a": 1,
+   "w": "1961, 1978 and 2002."
+  },
+  {
+   "q": "Which committee has been traditionally chaired by the Opposition?",
+   "o": [
+    "Estimates Committee",
+    "Public Accounts Committee",
+    "Committee on Privileges",
+    "Business Advisory Committee"
+   ],
+   "a": 1,
+   "w": "The PAC, since 1921."
+  },
+  {
+   "q": "Department-Related Standing Committees were set up in…",
+   "o": [
+    "1950",
+    "1964",
+    "1993",
+    "2004"
+   ],
+   "a": 2,
+   "w": "In 1993; now 24."
+  },
+  {
+   "q": "The Aadhaar Act, 2016 was passed as…",
+   "o": [
+    "A constitutional amendment",
+    "A money bill",
+    "An ordinance",
+    "A private member's bill"
+   ],
+   "a": 1,
+   "w": "Upheld 4:1 in Puttaswamy (Aadhaar) 2018."
+  },
+  {
+   "q": "Article 249 allows Parliament to legislate on State List subjects with a resolution of…",
+   "o": [
+    "The Lok Sabha",
+    "The Rajya Sabha by two-thirds",
+    "Half the states",
+    "The Governors"
+   ],
+   "a": 1,
+   "w": "In the national interest."
+  },
+  {
+   "q": "Who was the first Speaker of the Lok Sabha?",
+   "o": [
+    "G.V. Mavalankar",
+    "Hukam Singh",
+    "N. Sanjiva Reddy",
+    "M. Ananthasayanam Ayyangar"
+   ],
+   "a": 0,
+   "w": "Mavalankar (1952-56)."
+  }
+ ],
+ "sources": [
+  "Constitution of India, Arts 79-122, 108, 110, 112, 249",
+  "Walter Bagehot, The English Constitution (1867); W.H. Morris-Jones, Parliament in India (1957)",
+  "PRS Legislative Research: Vital Stats of Lok Sabha sessions; Parliament committees",
+  "Puttaswamy (Aadhaar) (2018); Rojer Mathew (2019); Kihoto Hollohan (1992)",
+  "NCRWC Report (2002); Lok Sabha and Rajya Sabha secretariats",
+  "PYQ themes: Parliament's role and decline, committees, Rajya Sabha (Paper I Section B)"
+ ],
+ "verified": "2026-11-10"
+}

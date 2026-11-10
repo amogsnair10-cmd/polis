@@ -1,0 +1,184 @@
+{
+ "id": "2-0-0",
+ "title": "Comparative Politics: Nature and Major Approaches",
+ "emoji": "🔍",
+ "cards": [
+  {
+   "tag": "Why this matters",
+   "h": "Why compare?",
+   "b": "<p>Comparative politics studies how political systems work by setting them side by side: states, regimes, parties, elections, institutions. It is the base of Paper II Section A, and it gives you tools you can use all over the optional.</p><p>The central question is simple: <b>why do similar-looking countries end up different, and different ones alike?</b> Why did India stay democratic after 1947 while most new states did not? Why do some economies become rich through state-led plans?</p><p>The syllabus asks for two things in this lesson: the <b>nature</b> of the field, and its <b>major approaches</b>. You need to know the comparative method, and a clear timeline of approaches: traditional, behavioural, structural-functional, political culture, political development, institutionalism and rational choice.</p><p>Examiners like thinkers with titles and years: Aristotle, Montesquieu, Almond, Easton, Lijphart, Sartori, Huntington, Skocpol. Add India as a case.</p>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "What is comparative politics?",
+   "b": "<p>Comparative politics is the study of domestic politics across countries, using systematic comparison. International relations deals with relations between states; comparative politics asks about politics <i>inside</i> them.</p><p>Roy Macridis described the traditional field as \"comparative government\", which listed the formal institutions of countries one by one. The modern field asks causal questions, using concepts and evidence.</p><div class=\"box\"><h4>Aims</h4><ul><li><b>Describe</b> political systems accurately.</li><li><b>Classify</b> them: democracies, autocracies, presidential or parliamentary systems.</li><li><b>Explain</b> outcomes: regime change, revolutions, party systems, welfare states.</li><li><b>Predict</b> and test theories across cases.</li><li>Learn from others' experience (policy lessons).</li></ul></div><p>Its roots are old. Aristotle's team studied the constitutions of 158 city-states (the <i>Constitution of Athens</i> survives). Montesquieu, <i>The Spirit of the Laws</i> (1748), linked laws to climate and society. Alexis de Tocqueville wrote <i>Democracy in America</i> (1835, 1840). James Bryce wrote <i>Modern Democracies</i> (1921).</p>"
+  },
+  {
+   "tag": "Key idea",
+   "h": "The comparative method",
+   "b": "<svg class=\"d\" viewBox=\"0 0 320 130\"><rect x=\"8\" y=\"12\" width=\"144\" height=\"106\" rx=\"8\" fill=\"#dceaec\" stroke=\"#2f6f7a\"/><rect x=\"168\" y=\"12\" width=\"144\" height=\"106\" rx=\"8\" fill=\"#f1e4c6\" stroke=\"#a8792a\"/><g font-size=\"10\" fill=\"#1d2433\"><text x=\"80\" y=\"30\" text-anchor=\"middle\" font-weight=\"700\">Most similar systems</text><text x=\"18\" y=\"52\">Pick cases alike in most</text><text x=\"18\" y=\"66\">ways, but with a different</text><text x=\"18\" y=\"80\">outcome. The difference</text><text x=\"18\" y=\"94\">explains it.</text><text x=\"18\" y=\"110\">Mill: method of difference</text><text x=\"240\" y=\"30\" text-anchor=\"middle\" font-weight=\"700\">Most different systems</text><text x=\"178\" y=\"52\">Pick cases unlike in most</text><text x=\"178\" y=\"66\">ways, but with the same</text><text x=\"178\" y=\"80\">outcome. The shared factor</text><text x=\"178\" y=\"94\">explains it.</text><text x=\"178\" y=\"110\">Mill: method of agreement</text></g></svg><p>Arend Lijphart, \"Comparative Politics and the Comparative Method\" (<i>American Political Science Review</i>, 1971), named four ways to test ideas: <b>experimental</b>, <b>statistical</b>, <b>comparative</b> and <b>case study</b>. The comparative method suits few cases but many variables. This is the \"small N\" problem.</p><p>J.S. Mill's <i>System of Logic</i> (1843) gave the logic. Adam Przeworski and Henry Teune, <i>The Logic of Comparative Social Inquiry</i> (1970), turned it into <b>most similar</b> and <b>most different systems</b> designs.</p>"
+  },
+  {
+   "tag": "Event",
+   "h": "Traditional approach and the behavioural revolution",
+   "b": "<p><b>Traditional (institutional-legal) approach.</b> Before the 1940s, scholars described constitutions, legislatures and courts, mostly in Europe and the US. Herman Finer, <i>Theory and Practice of Modern Government</i> (1932), is an example. Criticisms: formal, descriptive, Eurocentric, silent on behaviour and society, and unscientific.</p><p><b>Behavioural revolution (1950s-60s).</b> After the war, American political scientists turned to people's actual behaviour, with surveys and statistics. Their claims (David Easton): politics has regularities, theory should be tested, values and facts should be kept apart, and research should be systematic and use quantitative methods.</p><ul><li>New states in Asia and Africa needed analysis. Old institutional tools did not fit them.</li><li>Gabriel Almond led a committee on comparative politics in the Social Science Research Council (1954).</li></ul><p><b>Post-behaviouralism.</b> Easton's 1969 American Political Science Association address, \"The New Revolution in Political Science\", argued for <b>relevance</b> and <b>action</b>: the field must tackle real problems, not just method.</p>"
+  },
+  {
+   "tag": "Thinker",
+   "h": "Systems and structural-functionalism",
+   "b": "<p>David Easton, <i>The Political System</i> (1953) and <i>A Systems Analysis of Political Life</i> (1965), saw politics as a system. <b>Demands</b> and <b>support</b> enter as inputs. The system converts them into <b>decisions and policies</b> (outputs). <b>Feedback</b> returns to the system.</p><p>Gabriel Almond, in \"A Functional Approach to Comparative Politics\" (in <i>The Politics of Developing Areas</i>, 1960), asked what functions every system must perform. G. Bingham Powell joined him in <i>Comparative Politics: A Developmental Approach</i> (1966).</p><div class=\"box\"><h4>Almond's functions</h4><b>Input:</b> political socialisation and recruitment, interest articulation, interest aggregation, political communication.<br><b>Output:</b> rule-making, rule application, rule adjudication.</div><p>A system is judged by its <b>capabilities</b>: extractive, regulative, distributive, symbolic and responsive. Strength: a common frame to compare all countries, including new ones. Weaknesses: conservative (bias toward stability), vague, and it takes a Western system as the model.</p>"
+  },
+  {
+   "tag": "Thinker",
+   "h": "Political culture and political development",
+   "b": "<p><b>Political culture.</b> Almond and Sidney Verba, <i>The Civic Culture</i> (1963), surveyed five countries (US, UK, West Germany, Italy, Mexico). They identified three types of orientation:</p><ul><li><b>Parochial:</b> little awareness of the national system.</li><li><b>Subject:</b> aware, but passive.</li><li><b>Participant:</b> active citizens.</li></ul><p>A stable democracy needs a mix, the <b>civic culture</b>, with participation balanced by deference. Critics: circular logic, and it ignores power and inequality. Ronald Inglehart revived culture studies with <i>The Silent Revolution</i> (1977) on postmaterial values.</p><p><b>Political development and modernisation.</b></p><ul><li>S.M. Lipset, \"Some Social Requisites of Democracy\" (1959): wealthier countries are more likely to be democratic.</li><li>Daniel Lerner, <i>The Passing of Traditional Society</i> (1958); W.W. Rostow, <i>The Stages of Economic Growth</i> (1960).</li><li>Samuel Huntington, <i>Political Order in Changing Societies</i> (1968): rapid change without strong institutions creates instability. Order matters more than regime type.</li></ul>"
+  },
+  {
+   "tag": "Thinker",
+   "h": "Bringing history and the state back in",
+   "b": "<p>From the 1960s, historical and Marxist-influenced comparativists challenged modernisation theory.</p><ul><li><b>Barrington Moore Jr.</b>, <i>Social Origins of Dictatorship and Democracy</i> (1966): the routes to the modern world depend on how landlords, peasants and the bourgeoisie interact. \"No bourgeois, no democracy.\"</li><li><b>Theda Skocpol</b>, <i>States and Social Revolutions</i> (1979): revolutions in France, Russia and China arose from state breakdown under international pressure plus peasant revolt.</li><li><b>Bringing the State Back In</b> (Evans, Rueschemeyer and Skocpol, eds., 1985): the state is an actor with its own interests, not just a reflection of society.</li><li><b>Dependency and world-system writers</b> (Frank, Wallerstein, Cardoso) argued the national case cannot be understood without the international economy.</li></ul><p>This is the <b>historical-structural</b> tradition. It focuses on a few big cases, long time spans, and \"critical junctures\" (also path dependence). Its weakness: few cases, so the findings are hard to generalise.</p>"
+  },
+  {
+   "tag": "Thinker",
+   "h": "Institutionalism and rational choice",
+   "b": "<div class=\"box\"><h4>New institutionalism</h4>James March and Johan Olsen, \"The New Institutionalism\" (1984), revived attention to institutions. Peter Hall and Rosemary Taylor (1996) separated three schools: <b>historical</b> (path dependence), <b>rational choice</b> (institutions as rules for strategic actors) and <b>sociological</b> (norms and cultural frames). Douglass North, <i>Institutions, Institutional Change and Economic Performance</i> (1990), defined institutions as \"the rules of the game\".</div><div class=\"box\"><h4>Rational choice</h4>Individuals pursue their interests. Anthony Downs, <i>An Economic Theory of Democracy</i> (1957): parties and voters act like firms and consumers. Mancur Olson, <i>The Logic of Collective Action</i> (1965): large groups struggle to organise. George Tsebelis, <i>Veto Players</i> (2002): policy change depends on how many actors can block it.</div><p>Critiques of rational choice: unrealistic assumptions; neglect of culture and history; \"Green and Shapiro\" (<i>Pathologies of Rational Choice Theory</i>, 1994) said it explains little.</p><p>Today scholars mix methods: comparative-historical analysis, statistics, case studies and experiments.</p>"
+  },
+  {
+   "tag": "Indian angle",
+   "h": "India as a case in comparative politics",
+   "b": "<ul><li><b>The puzzle of Indian democracy.</b> India became a democracy as a poor, diverse, mostly illiterate country, against Lipset's expectations. Lijphart, \"The Puzzle of Indian Democracy: A Consociational Interpretation\" (<i>APSR</i>, 1996), argued that power-sharing among groups (coalitions, federalism, minority rights) explains it.</li><li><b>Congress system.</b> Rajni Kothari (1964) described a dominant-party system with competition inside the party. W.H. Morris-Jones saw \"three idioms\" of politics: modern, traditional and saintly.</li><li><b>State and society.</b> Lloyd and Susanne Rudolph, <i>The Modernity of Tradition</i> (1967), argued that caste adapted to democracy. Atul Kohli and Pranab Bardhan studied the Indian state and its limits.</li><li><b>Federal comparison.</b> India is compared with the US, Canada and Nigeria on federalism and with Brazil on development.</li><li><b>Post-colonial lens.</b> Partha Chatterjee's \"political society\" and Mahmood Mamdani on the colonial state challenge Western categories.</li></ul><p>India fits few single theories, which makes it a favourite \"hard case\".</p>"
+  },
+  {
+   "tag": "Exam lens",
+   "h": "How UPSC asks this",
+   "b": "<div class=\"box\">\"Discuss the nature and scope of comparative politics.\"</div><div class=\"box\">\"Examine the contribution of the behavioural revolution to comparative politics.\"</div><div class=\"box\">\"Critically evaluate the structural-functional approach of Almond.\"</div><div class=\"box\">\"Compare the traditional and modern approaches to the study of comparative politics.\"</div><p><b>Structure:</b> define the field, with the aims and roots (Aristotle, Montesquieu). Explain the comparative method (Mill, Lijphart, most similar/most different). Present approaches in order, each with a thinker, a book and one critique: traditional, behavioural, systems, structural-functional, political culture, political development, historical-structural, institutionalism and rational choice. Add India as a case (Lijphart 1996).</p><p>A timeline table gives a neat, high-scoring finish.</p>",
+   "cls": "exam"
+  }
+ ],
+ "quiz": [
+  {
+   "q": "Arend Lijphart's 1971 article named four methods. Which is NOT among them?",
+   "o": [
+    "Experimental",
+    "Statistical",
+    "Comparative",
+    "Ethnographic"
+   ],
+   "a": 3,
+   "w": "The four are experimental, statistical, comparative and case study."
+  },
+  {
+   "q": "The 'most similar systems' design is associated with:",
+   "o": [
+    "Almond and Verba",
+    "Easton and Powell",
+    "Huntington and Lipset",
+    "Przeworski and Teune"
+   ],
+   "a": 3,
+   "w": "The Logic of Comparative Social Inquiry (1970)."
+  },
+  {
+   "q": "David Easton's 1969 address was titled:",
+   "o": [
+    "The Political System",
+    "The New Revolution in Political Science",
+    "The Civic Culture",
+    "Systems Analysis"
+   ],
+   "a": 1,
+   "w": "It launched the post-behavioural movement."
+  },
+  {
+   "q": "Which concept is NOT part of Almond's input functions?",
+   "o": [
+    "Rule adjudication",
+    "Interest articulation",
+    "Interest aggregation",
+    "Political communication"
+   ],
+   "a": 0,
+   "w": "Rule adjudication is an output function."
+  },
+  {
+   "q": "The Civic Culture (1963) identified which three political cultures?",
+   "o": [
+    "Traditional, modern, mixed",
+    "Liberal, social, authoritarian",
+    "Elite, mass, civil",
+    "Parochial, subject, participant"
+   ],
+   "a": 3,
+   "w": "Almond and Verba combined them into the 'civic culture'."
+  },
+  {
+   "q": "Samuel Huntington's Political Order in Changing Societies (1968) argues that:",
+   "o": [
+    "Rapid modernisation without institutions causes instability",
+    "Wealth guarantees democracy",
+    "Culture decides everything",
+    "Revolutions are rare"
+   ],
+   "a": 0,
+   "w": "Political institutionalisation must keep pace with participation."
+  },
+  {
+   "q": "Who wrote Social Origins of Dictatorship and Democracy (1966)?",
+   "o": [
+    "Theda Skocpol",
+    "Gabriel Almond",
+    "Barrington Moore Jr.",
+    "Mancur Olson"
+   ],
+   "a": 2,
+   "w": "Moore compared routes to the modern world."
+  },
+  {
+   "q": "The three new institutionalisms (Hall and Taylor, 1996) are:",
+   "o": [
+    "Historical, rational choice, sociological",
+    "Legal, formal, informal",
+    "Marxist, liberal, realist",
+    "Behavioural, systemic, functional"
+   ],
+   "a": 0,
+   "w": "A standard classification."
+  },
+  {
+   "q": "Lijphart's 'The Puzzle of Indian Democracy' (1996) offers which explanation?",
+   "o": [
+    "Strong economic growth",
+    "British legacy only",
+    "Consociational power-sharing",
+    "Single-party dominance"
+   ],
+   "a": 2,
+   "w": "Power-sharing among groups helps explain democratic survival."
+  },
+  {
+   "q": "Anthony Downs's An Economic Theory of Democracy (1957) is a work of:",
+   "o": [
+    "Structural-functionalism",
+    "Rational choice",
+    "Marxism",
+    "Political culture"
+   ],
+   "a": 1,
+   "w": "Parties and voters are modelled as rational maximisers."
+  }
+ ],
+ "sources": [
+  "Arend Lijphart, 'Comparative Politics and the Comparative Method', APSR (1971)",
+  "Adam Przeworski and Henry Teune, The Logic of Comparative Social Inquiry (1970)",
+  "Gabriel Almond and G. Bingham Powell, Comparative Politics: A Developmental Approach (1966)",
+  "Gabriel Almond and Sidney Verba, The Civic Culture (1963)",
+  "David Easton, A Systems Analysis of Political Life (1965); 'The New Revolution in Political Science', APSR (1969)",
+  "Samuel Huntington, Political Order in Changing Societies (1968)",
+  "Barrington Moore, Social Origins of Dictatorship and Democracy (1966); Theda Skocpol, States and Social Revolutions (1979)",
+  "Peter Hall and Rosemary Taylor, 'Political Science and the Three New Institutionalisms', Political Studies (1996)",
+  "Arend Lijphart, 'The Puzzle of Indian Democracy', APSR (1996)",
+  "Shubhra Ranjan class notes; O.P. Gauba, An Introduction to Political Theory (for approaches)",
+  "PYQ themes: comparative method, behavioural approach, structural-functionalism (Paper II Section A)"
+ ],
+ "verified": "2026-11-10"
+}

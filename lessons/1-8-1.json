@@ -1,0 +1,185 @@
+{
+ "id": "1-8-1",
+ "title": "Religion and Ethnicity in Politics",
+ "emoji": "🕊️",
+ "cards": [
+  {
+   "tag": "Why this matters",
+   "h": "Faith and identity in a plural democracy",
+   "b": "<p>India has every major religion and hundreds of ethnic and tribal groups. Its founders chose a <b>secular</b> state, yet religion has shaped politics since Partition. Questions come on <b>secularism</b>, <b>communalism</b>, minority rights and ethnic conflict.</p><p>Keep three ideas apart:</p><ul><li><b>Secularism:</b> the state's stance towards religion.</li><li><b>Communalism:</b> the belief that people of one religion share political interests opposed to those of others, and the politics based on it.</li><li><b>Ethnicity:</b> identity based on language, descent, tribe or region.</li></ul><p>Good answers combine theory (Bhargava, Bipan Chandra, Varshney), constitutional law (Articles 25-30, <i>Bommai</i>, <i>Shah Bano</i>, Ayodhya) and current cases (Waqf Act 2025, Places of Worship Act, UCC, Manipur).</p>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "Indian secularism: not a Western copy",
+   "b": "<p>The Constitution's Preamble has the word \"secular\" from the <b>42nd Amendment (1976)</b>, but the idea is there from 1950.</p><ul><li><b>Articles 25-28:</b> freedom of conscience and the right to profess, practise and propagate religion, subject to public order, morality and health; no tax for a religion; no religious instruction in state-funded schools.</li><li><b>Articles 29-30:</b> cultural and educational rights of minorities.</li><li><b>Articles 15 and 16:</b> no discrimination on religion.</li><li><b>Article 44 (Directive Principle):</b> a Uniform Civil Code.</li></ul><p><b>Rajeev Bhargava</b>, in <i>Secularism and its Critics</i> (1998) and <i>The Promise of India's Secular Democracy</i> (2010), calls the Indian model <b>principled distance</b>: the state is neither hostile nor identical with religion. It may engage with religion to protect equality, as with temple entry for Dalits (Article 25(2)(b)) or reforms in personal law.</p><p>In <i>S.R. Bommai</i> (1994) the Supreme Court held that secularism is part of the <b>basic structure</b>.</p>"
+  },
+  {
+   "tag": "Key idea",
+   "h": "Debates about secularism",
+   "b": "<div class=\"box\"><h4>T.N. Madan, \"Secularism in its Place\" (1987)</h4>Secularism is a Western idea ill-suited to a deeply religious society, and it fails to bring peace.</div><div class=\"box\"><h4>Ashis Nandy, \"An Anti-secularist Manifesto\" (1985)</h4>State secularism has worsened conflict. Better to draw on India's traditions of religious tolerance.</div><div class=\"box\"><h4>Rajeev Bhargava</h4>Replies that Indian secularism is distinct, with its own values of equal respect, and allows state intervention in religion for reform.</div><div class=\"box\"><h4>The Hindu-nationalist critique</h4>Calls Congress-style secularism \"pseudo-secularism\", saying it appeases minorities. The counter-charge is that this view treats the majority culture as the nation's culture.</div>"
+  },
+  {
+   "tag": "Key idea",
+   "h": "Understanding communalism",
+   "b": "<p><b>Bipan Chandra</b>, in <i>Communalism in Modern India</i> (1984), argued that communalism is a modern ideology, not an ancient hatred. It arose under colonialism through economic competition for jobs and power, and through the colonial state's policies of counting and separate electorates. He gave three stages:</p><ol><li><b>Liberal communalism:</b> the belief in a distinct religious interest in cultural and social affairs.</li><li><b>Moderate communalism:</b> religious interests are political and separate from the nation's.</li><li><b>Extreme communalism:</b> other communities are enemies. Violence follows.</li></ol><p><b>Gyanendra Pandey</b>, in <i>The Construction of Communalism in Colonial North India</i> (1990), argued that colonial writing helped to build the idea of fixed communal identities.</p><p>The historical sequence: separate electorates (1909), the Lucknow Pact (1916), Hindu Mahasabha, Muslim League and RSS, Partition (1947).</p>"
+  },
+  {
+   "tag": "Key idea",
+   "h": "Why riots happen, and why they do not",
+   "b": "<svg class=\"d\" viewBox=\"0 0 320 130\"><g font-size=\"10\" text-anchor=\"middle\" fill=\"#1d2433\"><rect x=\"8\" y=\"10\" width=\"124\" height=\"46\" rx=\"8\" fill=\"#dceaec\" stroke=\"#2f6f7a\"/><text x=\"70\" y=\"30\" font-weight=\"700\">Strong inter-communal</text><text x=\"70\" y=\"44\">civic networks</text><rect x=\"188\" y=\"10\" width=\"124\" height=\"46\" rx=\"8\" fill=\"#dceaec\" stroke=\"#2f6f7a\"/><text x=\"250\" y=\"30\" font-weight=\"700\">Peace holds</text><text x=\"250\" y=\"44\">even under pressure</text><rect x=\"8\" y=\"74\" width=\"124\" height=\"46\" rx=\"8\" fill=\"#f4dcd5\" stroke=\"#a3362a\"/><text x=\"70\" y=\"94\" font-weight=\"700\">Weak or no such</text><text x=\"70\" y=\"108\">networks</text><rect x=\"188\" y=\"74\" width=\"124\" height=\"46\" rx=\"8\" fill=\"#f4dcd5\" stroke=\"#a3362a\"/><text x=\"250\" y=\"94\" font-weight=\"700\">Riots when elites</text><text x=\"250\" y=\"108\">provoke</text></g><path d=\"M132 33 L188 33 M132 97 L188 97\" stroke=\"#5d6474\" stroke-width=\"2\"/></svg><div class=\"box\"><h4>Ashutosh Varshney, Ethnic Conflict and Civic Life (2002)</h4>Compared Hindu-Muslim relations in six cities. Cities with <b>associational ties</b> across communities (business groups, unions, professional bodies) stayed peaceful; cities without them saw riots. Everyday contact helps, but organised bridges matter more.</div><div class=\"box\"><h4>Paul Brass, Theft of an Idol (1997); The Production of Hindu-Muslim Violence (2003)</h4>Riots are produced by \"institutionalised riot systems\" of local politicians, police and activists.</div><div class=\"box\"><h4>Steven Wilkinson, Votes and Violence (2004)</h4>Violence is less likely where state governments depend on minority votes and so must protect them.</div>"
+  },
+  {
+   "tag": "Key idea",
+   "h": "Law, courts and the minority question",
+   "b": "<ul><li><b>Shah Bano</b> (1985): Muslim woman's right to maintenance under s.125 CrPC. The Muslim Women (Protection of Rights on Divorce) Act, 1986 limited it. Seen as a case of political concession.</li><li><b>Shayara Bano v. Union of India</b> (22 August 2017): instant triple talaq held unconstitutional (3:2). Parliament criminalised it in the Muslim Women (Protection of Rights on Marriage) Act, 2019.</li><li><b>Ayodhya</b> (<i>M. Siddiq v. Mahant Suresh Das</i>, 9 November 2019): unanimously, a Constitution Bench gave the disputed site to the deity (Ram Lalla) for a temple and directed five acres elsewhere for a mosque.</li><li><b>Places of Worship (Special Provisions) Act, 1991:</b> freezes the character of places of worship as on 15 August 1947 (except Ayodhya). Challenges are pending; in December 2024, the Supreme Court restrained courts from registering fresh suits or passing effective orders on surveys while it hears them.</li><li><b>Citizenship (Amendment) Act, 2019:</b> fast track for non-Muslim minorities from Afghanistan, Bangladesh, Pakistan. Rules were notified in March 2024.</li></ul>"
+  },
+  {
+   "tag": "Key idea",
+   "h": "Ethnicity, tribe and region",
+   "b": "<ul><li><b>Tribal peoples</b> (about 8.6% of the population in 2011) are protected by the Fifth and Sixth Schedules, the PESA Act (1996), and the Forest Rights Act (2006). Disputes arise over mines, dams and forest land, as in Niyamgiri (Odisha).</li><li><b>Northeast:</b> ethnicity underlies Naga, Mizo, Bodo, Karbi and Meitei-Kuki politics. See the lesson on regional aspirations. The May 2023 violence in Manipur displaced tens of thousands.</li><li><b>Language groups:</b> anti-Hindi movements, Eighth Schedule status, three-language debates.</li><li><b>Sons of the soil:</b> Myron Weiner's term for nativist movements (Assam, Mumbai).</li></ul><p>Donald Horowitz's <i>Ethnic Groups in Conflict</i> (1985) explains ethnic parties through group rivalry and competitive fear. Kanchan Chandra's view is that ethnic categories are chosen by parties and voters. Both help in analysing Indian cases.</p>"
+  },
+  {
+   "tag": "Key idea",
+   "h": "Religion in electoral politics",
+   "b": "<ul><li><b>Early phase:</b> the Congress presented itself as secular, with Muslim, Dalit and upper-caste support.</li><li><b>1980s-90s:</b> the Shah Bano case, the opening of the Babri lock (1986), the Ram Janmabhoomi movement, the demolition of the Babri Masjid on 6 December 1992 and riots. The Liberhan Commission (report 2009) investigated.</li><li><b>Hindutva rise:</b> V.D. Savarkar's <i>Essentials of Hindutva</i> (1923) is its text. <b>Christophe Jaffrelot</b> traces it in <i>The Hindu Nationalist Movement in India</i> (1996). In <i>Modi's India</i> (2021) he describes a drift to an \"ethnic democracy\" in which minorities have a lesser place.</li><li><b>Minority representation:</b> reports note that Muslims are about 14% of the population but only about two dozen of 543 Lok Sabha members after 2024.</li><li><b>Sachar Committee</b> (2006) found Muslims behind in education, jobs and credit; the <b>Ranganath Misra Commission</b> (2007) suggested quotas for minorities.</li></ul>"
+  },
+  {
+   "tag": "Critique",
+   "h": "Majoritarianism, appeasement and the middle path",
+   "b": "<p><b>Critics of current practice say:</b></p><ul><li>State and party closeness to one religion, as in temple events, violates principled distance.</li><li>Laws such as the CAA, anti-conversion laws and the cow-protection laws target minorities.</li><li>A Uniform Civil Code may impose majority norms. Uttarakhand's 2025 law, the first by a state since Independence (Goa has a Portuguese-era civil code), was criticised and defended on these lines.</li></ul><p><b>Defenders say:</b></p><ul><li>The State must treat all alike, and personal laws that discriminate against women require reform (Shayara Bano).</li><li>Past politics gave symbolic concessions to conservative leaders (Shah Bano) over real development for minorities (Sachar).</li></ul><p>Bhargava's answer: neither aggressive secularism nor majoritarian nationalism. The best test is <b>equal citizenship</b> and protection of the weak inside every community.</p>"
+  },
+  {
+   "tag": "Indian angle",
+   "h": "Latest developments for your answer",
+   "b": "<ul><li><b>Waqf (Amendment) Act, 2025:</b> passed in April 2025. The Supreme Court on 15 September 2025 refused to stay the whole Act but put on hold some provisions, including the rule that only a person practising Islam for five years can create a waqf (until rules are framed) and the Collector's power to decide on government land claims. The case is still pending.</li><li><b>Places of Worship Act:</b> pending petitions on mosque surveys (Gyanvapi, Sambhal).</li><li><b>Uttarakhand UCC (2025):</b> the first such law since Independence; debate on a national UCC and the Law Commission's 2018 view that a UCC was neither necessary nor desirable at that stage.</li><li><b>Manipur:</b> Meitei-Kuki violence since May 2023; President's Rule from 13 February 2025 to 4 February 2026.</li><li><b>SIR of electoral rolls</b> and citizenship scrutiny in 2025-26, upheld by the Supreme Court in May 2026, raised fears for minority and migrant voters.</li><li><b>Caste and religion in the 2027 Census.</b></li></ul>"
+  },
+  {
+   "tag": "Exam lens",
+   "h": "How UPSC asks this",
+   "b": "<div class=\"box\">\"Is Indian secularism a Western import? Discuss with reference to the Indian model.\"</div><div class=\"box\">\"Communalism is a modern phenomenon rooted in colonial policy.\" Examine.</div><div class=\"box\">\"Examine the role of religion in Indian politics since the 1980s.\"</div><div class=\"box\">\"Ethnic conflicts threaten national integration. Suggest remedies.\"</div><p><b>Structure:</b> define secularism, communalism, ethnicity; constitutional provisions; Bhargava's principled distance vs Madan and Nandy; Bipan Chandra's stages; Varshney, Brass and Wilkinson on riots; key cases (Bommai, Shah Bano, Shayara Bano, Ayodhya); ethnic flashpoints; recent issues (Waqf Act, UCC, Manipur); conclude with equal citizenship and civic engagement.</p>",
+   "cls": "exam"
+  }
+ ],
+ "quiz": [
+  {
+   "q": "The word 'secular' entered the Preamble through the…",
+   "o": [
+    "42nd Amendment",
+    "44th Amendment",
+    "52nd Amendment",
+    "73rd Amendment"
+   ],
+   "a": 0,
+   "w": "42nd Amendment, 1976."
+  },
+  {
+   "q": "'Principled distance' is the phrase of…",
+   "o": [
+    "Rajeev Bhargava",
+    "T.N. Madan",
+    "Ashis Nandy",
+    "Bipan Chandra"
+   ],
+   "a": 0,
+   "w": "Bhargava's account of Indian secularism."
+  },
+  {
+   "q": "Which case held secularism to be part of the basic structure?",
+   "o": [
+    "S.R. Bommai",
+    "Shah Bano",
+    "Kihoto Hollohan",
+    "Minerva Mills"
+   ],
+   "a": 0,
+   "w": "S.R. Bommai v. Union of India (1994)."
+  },
+  {
+   "q": "Varshney's study of riots stresses…",
+   "o": [
+    "Police strength",
+    "Inter-communal associational networks",
+    "Economic growth",
+    "Language"
+   ],
+   "a": 1,
+   "w": "Ethnic Conflict and Civic Life (2002)."
+  },
+  {
+   "q": "Who wrote Communalism in Modern India (1984)?",
+   "o": [
+    "Bipan Chandra",
+    "Romila Thapar",
+    "Gyanendra Pandey",
+    "Paul Brass"
+   ],
+   "a": 0,
+   "w": "Bipan Chandra."
+  },
+  {
+   "q": "Instant triple talaq was held unconstitutional in…",
+   "o": [
+    "Shah Bano (1985)",
+    "Shayara Bano (2017)",
+    "Danial Latifi (2001)",
+    "Ayodhya (2019)"
+   ],
+   "a": 1,
+   "w": "Shayara Bano v. Union of India (22 August 2017)."
+  },
+  {
+   "q": "The Places of Worship Act, 1991 fixes the status of shrines as of…",
+   "o": [
+    "26 January 1950",
+    "15 August 1947",
+    "6 December 1992",
+    "1 January 1991"
+   ],
+   "a": 1,
+   "w": "15 August 1947, with Ayodhya excluded."
+  },
+  {
+   "q": "The Sachar Committee (2006) reported on…",
+   "o": [
+    "Socio-economic condition of Muslims",
+    "Tribal rights",
+    "OBC sub-categorisation",
+    "Linguistic states"
+   ],
+   "a": 0,
+   "w": "It found Muslims lagging in education and jobs."
+  },
+  {
+   "q": "Jaffrelot's Modi's India (2021) describes…",
+   "o": [
+    "Ethnic democracy",
+    "Consociational democracy",
+    "Social democracy",
+    "Direct democracy"
+   ],
+   "a": 0,
+   "w": "A drift to an ethnic democracy."
+  },
+  {
+   "q": "The Supreme Court's 15 September 2025 order on the Waqf Act…",
+   "o": [
+    "Struck down the entire Act",
+    "Stayed some provisions but not the whole Act",
+    "Upheld everything",
+    "Referred it to Parliament"
+   ],
+   "a": 1,
+   "w": "It held the case for staying the whole Act was not made out."
+  }
+ ],
+ "sources": [
+  "Rajeev Bhargava, Secularism and its Critics (1998); The Promise of India's Secular Democracy (2010)",
+  "Bipan Chandra, Communalism in Modern India (1984); Gyanendra Pandey (1990); T.N. Madan (1987); Ashis Nandy (1985)",
+  "Ashutosh Varshney, Ethnic Conflict and Civic Life (2002); Paul Brass (1997, 2003); Steven Wilkinson, Votes and Violence (2004)",
+  "Jaffrelot, The Hindu Nationalist Movement in India (1996); Modi's India (2021)",
+  "S.R. Bommai (1994); Shayara Bano (2017); M. Siddiq (2019); Waqf Amendment Act 2025 and SC interim order (15 Sep 2025)",
+  "Sachar Committee (2006); Constitution Arts 25-30, 44",
+  "PYQ themes: secularism, communalism, ethnic politics (Paper I Section B)"
+ ],
+ "verified": "2026-11-10"
+}

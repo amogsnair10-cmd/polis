@@ -1,0 +1,178 @@
+{
+ "id": "1-9-1",
+ "title": "Coalition Politics",
+ "emoji": "🤝",
+ "cards": [
+  {
+   "tag": "Why this matters",
+   "h": "Coalitions: from crisis to a normal way to govern",
+   "b": "<p>No party won a Lok Sabha majority between 1989 and 2009. Governments were formed by <b>coalitions</b>, and states had them even earlier. The 2024 election returned the country to a coalition government at the Centre: the BJP won 240 seats, short of the 272 needed, and the NDA formed the government with allies such as the TDP and JD(U).</p><p>A <b>coalition</b> is a government made of two or more parties that agree to share office and a programme. In parliamentary systems, it is born when no party has a majority.</p><p>Examiners ask: are coalitions good or bad for India? Do they cause instability? How did the constitution and courts adapt? Your answer should combine theory, a timeline and constitutional rules.</p>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "A timeline of Union coalitions",
+   "b": "<svg class=\"d\" viewBox=\"0 0 320 150\"><g font-size=\"9.5\" fill=\"#1d2433\" text-anchor=\"middle\"><rect x=\"6\" y=\"10\" width=\"62\" height=\"56\" rx=\"5\" fill=\"#f1e4c6\" stroke=\"#a8792a\"/><text x=\"37\" y=\"26\" font-weight=\"700\">1977-79</text><text x=\"37\" y=\"42\">Janata</text><text x=\"37\" y=\"56\">Desai</text><rect x=\"72\" y=\"10\" width=\"70\" height=\"56\" rx=\"5\" fill=\"#fff\" stroke=\"#a8792a\"/><text x=\"107\" y=\"26\" font-weight=\"700\">1989-91</text><text x=\"107\" y=\"42\">V.P. Singh,</text><text x=\"107\" y=\"56\">Chandra Sh.</text><rect x=\"146\" y=\"10\" width=\"70\" height=\"56\" rx=\"5\" fill=\"#fff\" stroke=\"#a8792a\"/><text x=\"181\" y=\"26\" font-weight=\"700\">1991-96</text><text x=\"181\" y=\"42\">Rao: minority</text><text x=\"181\" y=\"56\">govt, 5 years</text><rect x=\"220\" y=\"10\" width=\"94\" height=\"56\" rx=\"5\" fill=\"#f4dcd5\" stroke=\"#a3362a\"/><text x=\"267\" y=\"26\" font-weight=\"700\">1996-98</text><text x=\"267\" y=\"42\">13 days; United</text><text x=\"267\" y=\"56\">Front (2 PMs)</text><rect x=\"6\" y=\"80\" width=\"94\" height=\"56\" rx=\"5\" fill=\"#dceaec\" stroke=\"#2f6f7a\"/><text x=\"53\" y=\"96\" font-weight=\"700\">1998-2004</text><text x=\"53\" y=\"112\">NDA: Vajpayee</text><text x=\"53\" y=\"126\">13 months, then full term</text><rect x=\"106\" y=\"80\" width=\"100\" height=\"56\" rx=\"5\" fill=\"#dceaec\" stroke=\"#2f6f7a\"/><text x=\"156\" y=\"96\" font-weight=\"700\">2004-14</text><text x=\"156\" y=\"112\">UPA I and II</text><text x=\"156\" y=\"126\">Manmohan Singh</text><rect x=\"212\" y=\"80\" width=\"102\" height=\"56\" rx=\"5\" fill=\"#f1e4c6\" stroke=\"#a8792a\"/><text x=\"263\" y=\"96\" font-weight=\"700\">2014-24, 2024-</text><text x=\"263\" y=\"112\">BJP majority;</text><text x=\"263\" y=\"126\">NDA coalition 2024</text></g></svg><p>Key points: the Janata Party was a merger, not a coalition. In 1989, V.P. Singh's National Front governed with the BJP and Left giving outside support. The 1996 Vajpayee government lasted 13 days. The 1998 NDA government lost a vote of confidence by one vote in April 1999 after the AIADMK withdrew support, but the 1999 NDA, with over twenty parties, completed a full term. UPA I (2004) lost Left support in 2008 over the Indo-US nuclear deal.</p>"
+  },
+  {
+   "tag": "Key idea",
+   "h": "Theories of coalition formation",
+   "b": "<div class=\"box\"><h4>William Riker, The Theory of Political Coalitions (1962)</h4>The <b>size principle</b>: parties form coalitions just large enough to win, since extra partners only dilute rewards. Minimum winning coalitions are most likely.</div><div class=\"box\"><h4>Robert Axelrod, Conflict of Interest (1970)</h4>Parties prefer partners close in ideology, forming <b>minimal connected winning</b> coalitions.</div><div class=\"box\"><h4>Why India often breaks these rules</h4>Indian coalitions are often <b>oversized</b> (NDA 1999 with 24 parties) or minority governments (Rao 1991). Reasons: pre-poll alliances at constituency level, state-level interests, and the benefit of the winning alliance in first-past-the-post. E. Sridharan has argued that coalition politics is a product of India's parliamentary federalism, with state parties as key players.</div><p>Another key notion: coalitions can be <b>pre-poll</b> (seat-sharing before the election, favoured under FPTP) or <b>post-poll</b> (formed after results). Outside support is when a party backs a government without joining it.</p>"
+  },
+  {
+   "tag": "Key idea",
+   "h": "How coalitions run: programmes and managing partners",
+   "b": "<ul><li><b>Common Minimum Programme:</b> UPA's 2004 CMP; the NDA's National Agenda for Governance (1999). These set out what partners agree on and leave out contentious items such as Ayodhya (for the NDA).</li><li><b>Coordination bodies:</b> NDA's convener, UPA's chairperson and the National Advisory Council (2004-14) chaired by Sonia Gandhi.</li><li><b>\"Coalition dharma\":</b> Vajpayee's phrase for respecting allies' interests.</li><li><b>Cabinet size:</b> the <b>91st Amendment (2003)</b> capped the Council of Ministers at 15% of the House (Article 75(1A)). It stopped jumbo cabinets built to please allies.</li><li><b>Collective responsibility</b> (Article 75(3)) is tested when ministers belong to different parties. Parties have sometimes treated it flexibly.</li></ul><p>Managing allies shaped policy: regional parties gained railway, agriculture or telecom ministries, and states won funds.</p>"
+  },
+  {
+   "tag": "Key idea",
+   "h": "The law of defection and the Governor's role",
+   "b": "<p>Instability came from defection (\"Aya Ram, Gaya Ram\" in Haryana, 1967). The <b>52nd Amendment (1985)</b> added the <b>Tenth Schedule</b>: a legislator is disqualified if he voluntarily gives up party membership or defies a whip on a vote. The <b>91st Amendment (2003)</b> removed the exemption for splits, leaving only a <b>two-thirds merger</b> exemption. The Speaker decides. In <i>Kihoto Hollohan</i> (1992), the Supreme Court upheld the law and said the Speaker's decision is open to judicial review. In <i>Keisham Meghachandra Singh</i> (2020), it asked Speakers to decide petitions within three months.</p><p>In a hung House, who is invited? The Sarkaria Commission advised: first, the pre-poll alliance with a majority; then the largest party or group. <i>S.R. Bommai</i> (1994) says the floor of the House, not the Governor's view, tests the majority. In <i>Subhash Desai</i> (May 2023), on Maharashtra's 2022 crisis, the Court held that the Governor had no basis to call a floor test and that the Speaker's whip appointment was illegal, but did not restore the previous government since the Chief Minister had resigned.</p>"
+  },
+  {
+   "tag": "Critique",
+   "h": "Do coalitions help or harm?",
+   "b": "<p><b>Arguments for:</b></p><ul><li>They include many regions and social groups; policy needs wider consent.</li><li>They force consultation and restrain dominance.</li><li>Rao (1991-96) delivered the economic reforms from a minority; Vajpayee pursued disinvestment and the Golden Quadrilateral; UPA I introduced <b>MGNREGA</b> (2005), <b>RTI</b> (2005) and <b>RTE</b> (2009).</li></ul><p><b>Arguments against:</b></p><ul><li>Bargaining by small allies for portfolios, and the difficulty of acting against a partner's ministers. Critics linked UPA II's corruption scandals to this.</li><li>Delay in decisions; 'policy paralysis' charges for the second UPA.</li><li>Instability in 1989-99 (six Prime Ministers in ten years).</li><li>Opportunism, horse-trading and defections at state level (resort politics).</li></ul><p>Verdict: the issue is less coalition itself than a weak party culture and the lack of binding programmes. India's stability from 1999 to 2014 shows coalitions can last.</p>"
+  },
+  {
+   "tag": "Key idea",
+   "h": "Coalitions and federalism",
+   "b": "<p>Coalition politics changed Centre-state relations. Regional parties in the ruling alliance could bargain for their states, so the Centre could no longer ignore them.</p><ul><li>Use of <b>Article 356</b> fell sharply after <i>Bommai</i> (1994) and the coalition era began.</li><li>The United Front's Common Minimum Programme (1996) promised greater devolution of funds to states.</li><li>States won more say in finance: the Finance Commission share of central taxes rose from 32% (13th FC) to 42% (14th FC) and settled at 41% (15th and 16th FC).</li><li>The <b>Inter-State Council</b> was revived (1990) and later the GST Council (2016) made states partners in tax decisions.</li></ul><p>Scholars therefore link the coalition era to the rise of <b>cooperative and bargaining federalism</b>. With a single-party majority from 2014 to 2024, many saw a return to a stronger Centre, while in 2024 the dependence on allies returned.</p>"
+  },
+  {
+   "tag": "Key idea",
+   "h": "Reform proposals: stability without losing representation",
+   "b": "<ul><li><b>Constructive vote of no-confidence</b> (as in Germany): a government can be removed only if the House simultaneously elects a new leader. The Law Commission's 170th Report (1999) and the NCRWC (2002) both recommended it.</li><li><b>Fixed terms:</b> proposals for fixed Lok Sabha terms, linked to the debate on simultaneous elections.</li><li><b>Stricter defection law:</b> taking decisions out of the Speaker's hands. The NCRWC and Election Commission suggested the President or Governor, on the Election Commission's advice, should decide disqualification.</li><li><b>Pre-poll alliance rules:</b> give the pre-poll alliance priority when forming a government.</li><li><b>Party law:</b> regulate internal democracy and funding.</li></ul><p>Opponents of reform argue that stability must not be bought by silencing smaller voices. Most commentators accept that coalitions are a feature of a plural society.</p>"
+  },
+  {
+   "tag": "Indian angle",
+   "h": "State coalitions and the 2024 case",
+   "b": "<ul><li><b>Kerala:</b> the LDF and UDF alternate; in 2026 the UDF returned.</li><li><b>West Bengal:</b> the Left Front ruled for 34 years (1977-2011) with the CPI(M) dominating partners.</li><li><b>Bihar:</b> the NDA's 2025 landslide shows the power of a well-managed pre-poll alliance.</li><li><b>Maharashtra:</b> the 2019 post-poll crisis, the Maha Vikas Aghadi, the 2022 Shiv Sena split and the 2024 Mahayuti win.</li><li><b>Union, 2024:</b> BJP 240 and NDA 293. The TDP (16) and JD(U) (12) hold key positions. The INDIA bloc, formed in 2023, won 234 but has found state-level seat-sharing difficult.</li></ul><p>Remember the lesson: when alliances are pre-poll and ideological, the government is stable; when they are post-poll and opportunistic, it is fragile.</p>"
+  },
+  {
+   "tag": "Exam lens",
+   "h": "How UPSC asks this",
+   "b": "<div class=\"box\">\"Coalition governments have become a necessity in India. Discuss the merits and demerits.\"</div><div class=\"box\">\"Examine the impact of coalition politics on Indian federalism.\"</div><div class=\"box\">\"Assess the working of the anti-defection law.\"</div><div class=\"box\">\"What role does the Governor play when no party has a majority?\"</div><p><b>Structure:</b> define; timeline 1977-2024; Riker's size principle and why India differs; working arrangements (CMP, 91st Amendment, collective responsibility); defection law and cases; Governor and floor test; pros and cons; 2024 case and balanced conclusion.</p>",
+   "cls": "exam"
+  }
+ ],
+ "quiz": [
+  {
+   "q": "Riker's 'size principle' says parties form…",
+   "o": [
+    "Oversized coalitions",
+    "Coalitions just large enough to win",
+    "Only ideological coalitions",
+    "One-party governments"
+   ],
+   "a": 1,
+   "w": "Minimum winning coalitions."
+  },
+  {
+   "q": "The Tenth Schedule was added by the…",
+   "o": [
+    "42nd Amendment",
+    "52nd Amendment",
+    "73rd Amendment",
+    "91st Amendment"
+   ],
+   "a": 1,
+   "w": "52nd Amendment, 1985."
+  },
+  {
+   "q": "The 91st Amendment (2003)…",
+   "o": [
+    "Created the Finance Commission",
+    "Capped ministers at 15% of the House and removed the split exemption",
+    "Set up Panchayati Raj",
+    "Lowered voting age"
+   ],
+   "a": 1,
+   "w": "It also introduced Article 75(1A)."
+  },
+  {
+   "q": "Which case upheld the anti-defection law but allowed judicial review of the Speaker's decision?",
+   "o": [
+    "Kesavananda Bharati",
+    "Kihoto Hollohan",
+    "Minerva Mills",
+    "Indira Gandhi v. Raj Narain"
+   ],
+   "a": 1,
+   "w": "Kihoto Hollohan v. Zachillhu (1992)."
+  },
+  {
+   "q": "Which Union government fell by one vote in 1999?",
+   "o": [
+    "Deve Gowda",
+    "Gujral",
+    "Vajpayee's 1998-99 government",
+    "Chandra Shekhar"
+   ],
+   "a": 2,
+   "w": "AIADMK withdrew support; vote lost on 17 April 1999."
+  },
+  {
+   "q": "The 1999 NDA government…",
+   "o": [
+    "Lasted 13 days",
+    "Completed a full five-year term",
+    "Fell in 2001",
+    "Had outside support from the Left"
+   ],
+   "a": 1,
+   "w": "The NDA governed till 2004."
+  },
+  {
+   "q": "The Common Minimum Programme was a feature of…",
+   "o": [
+    "UPA I (2004)",
+    "The Rao government",
+    "Janata Party",
+    "Congress (I) 1980"
+   ],
+   "a": 0,
+   "w": "UPA's CMP in 2004."
+  },
+  {
+   "q": "Which 2023 judgment held that the Governor should not have called the 2022 Maharashtra floor test?",
+   "o": [
+    "Subhash Desai",
+    "Nabam Rebia",
+    "Rameshwar Prasad",
+    "Shamsher Singh"
+   ],
+   "a": 0,
+   "w": "Subhash Desai v. Principal Secretary, Governor of Maharashtra."
+  },
+  {
+   "q": "Sarkaria's guidelines for a hung Assembly put first…",
+   "o": [
+    "The largest single party",
+    "The pre-poll alliance with a majority",
+    "The Governor's choice",
+    "The previous Chief Minister"
+   ],
+   "a": 1,
+   "w": "The pre-poll alliance with a majority is first."
+  },
+  {
+   "q": "In 2024 the BJP won…",
+   "o": [
+    "272 seats",
+    "303 seats",
+    "240 seats",
+    "282 seats"
+   ],
+   "a": 2,
+   "w": "240; the NDA total was 293."
+  }
+ ],
+ "sources": [
+  "William Riker, The Theory of Political Coalitions (1962); Robert Axelrod, Conflict of Interest (1970)",
+  "E. Sridharan, ed., Coalition Politics and Democratic Consolidation in Asia (2012)",
+  "Constitution of India, Arts 75, 164, Tenth Schedule; 52nd and 91st Amendments; Kihoto Hollohan (1992); S.R. Bommai (1994); Subhash Desai (2023)",
+  "PRS Legislative Research on the Tenth Schedule; ECI results 2024",
+  "PYQ themes: coalition politics, anti-defection law, Governor and hung Assembly (Paper I Section B)"
+ ],
+ "verified": "2026-11-10"
+}

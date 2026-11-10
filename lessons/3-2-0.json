@@ -1,0 +1,178 @@
+{
+ "id": "3-2-0",
+ "title": "SAARC, BIMSTEC and Regional Cooperation",
+ "emoji": "🌏",
+ "cards": [
+  {
+   "tag": "Why this matters",
+   "h": "A region that trades with everyone but itself",
+   "b": "<p>South Asia holds about a quarter of humanity. Yet only around <b>5% of its trade is within the region</b>, compared with over 20% in ASEAN. Border crossings are closed, flights are few and power grids barely connect.</p>\n<p>This lesson asks why <b>SAARC</b> (1985) stalled, why India now prefers <b>BIMSTEC</b> and sub-regional deals, and what policy tools India uses: the Gujral Doctrine, Neighbourhood First, SAGAR and connectivity projects.</p>\n<p>UPSC likes the comparison: SAARC versus BIMSTEC, and bilateralism versus regionalism. The theme links to functionalism and regional integration theory from Paper II Section A.</p>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "SAARC: the story",
+   "b": "<svg class=\"d\" viewBox=\"0 0 320 224\"><line x1=\"62\" y1=\"10\" x2=\"62\" y2=\"214\" stroke=\"#a8792a\" stroke-width=\"2\"/><circle cx=\"62\" cy=\"22\" r=\"4\" fill=\"#a8792a\"/><text x=\"54\" y=\"26\" fill=\"#a8792a\" font-size=\"11\" text-anchor=\"end\" font-weight=\"700\">1980</text><text x=\"74\" y=\"26\" fill=\"#1d2433\" font-size=\"11\">Ziaur Rahman proposes regional body</text><circle cx=\"62\" cy=\"52\" r=\"4\" fill=\"#a8792a\"/><text x=\"54\" y=\"56\" fill=\"#a8792a\" font-size=\"11\" text-anchor=\"end\" font-weight=\"700\">1985</text><text x=\"74\" y=\"56\" fill=\"#1d2433\" font-size=\"11\">Dhaka Charter, 8 Dec: 7 members</text><circle cx=\"62\" cy=\"82\" r=\"4\" fill=\"#a8792a\"/><text x=\"54\" y=\"86\" fill=\"#a8792a\" font-size=\"11\" text-anchor=\"end\" font-weight=\"700\">1987</text><text x=\"74\" y=\"86\" fill=\"#1d2433\" font-size=\"11\">Secretariat in Kathmandu</text><circle cx=\"62\" cy=\"112\" r=\"4\" fill=\"#a8792a\"/><text x=\"54\" y=\"116\" fill=\"#a8792a\" font-size=\"11\" text-anchor=\"end\" font-weight=\"700\">2004</text><text x=\"74\" y=\"116\" fill=\"#1d2433\" font-size=\"11\">SAFTA signed; in force 2006</text><circle cx=\"62\" cy=\"142\" r=\"4\" fill=\"#a8792a\"/><text x=\"54\" y=\"146\" fill=\"#a8792a\" font-size=\"11\" text-anchor=\"end\" font-weight=\"700\">2007</text><text x=\"74\" y=\"146\" fill=\"#1d2433\" font-size=\"11\">Afghanistan joins (14th summit, Delhi)</text><circle cx=\"62\" cy=\"172\" r=\"4\" fill=\"#a8792a\"/><text x=\"54\" y=\"176\" fill=\"#a8792a\" font-size=\"11\" text-anchor=\"end\" font-weight=\"700\">2014</text><text x=\"74\" y=\"176\" fill=\"#1d2433\" font-size=\"11\">18th summit, Kathmandu: last held</text><circle cx=\"62\" cy=\"202\" r=\"4\" fill=\"#a8792a\"/><text x=\"54\" y=\"206\" fill=\"#a8792a\" font-size=\"11\" text-anchor=\"end\" font-weight=\"700\">2016</text><text x=\"74\" y=\"206\" fill=\"#1d2433\" font-size=\"11\">19th, Islamabad, called off after Uri</text></svg><p>The founding members were Bangladesh, Bhutan, India, Maldives, Nepal, Pakistan and Sri Lanka. Afghanistan became the eighth member in 2007. China, Japan, the US, the EU and others are observers.</p>\n<p>The <b>Charter (Article X)</b> says decisions need unanimity and that <b>bilateral and contentious issues are excluded</b>. That rule was meant to protect smaller states from India, but it also stops the group from handling its main problem: India–Pakistan rivalry.</p>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "Why SAARC stalled",
+   "b": "<ul><li><b>India–Pakistan rivalry:</b> after the Uri attack (September 2016), India and others pulled out of the Islamabad summit. No summit has happened since 2014.</li><li><b>Asymmetry:</b> India is about 70% of the region's GDP and land. Neighbours fear dominance.</li><li><b>Pakistan's veto:</b> the SAARC Motor Vehicles Agreement failed at Kathmandu in 2014 because Pakistan did not clear it. India then moved to <b>BBIN</b> (Bangladesh, Bhutan, India, Nepal), and the BBIN Motor Vehicles Agreement was signed in June 2015.</li><li><b>Low trade:</b> SAFTA has many items on sensitive lists, and non-tariff barriers are high.</li><li><b>Trust:</b> Pakistan denies India transit to Afghanistan. India denies Pakistan MFN trade status (withdrawn in 2019).</li></ul>\n<p>The South Asia Satellite (GSAT-9, 2017) was India's gift to the region, but Pakistan opted out.</p>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "BIMSTEC: the alternative",
+   "b": "<svg class=\"d\" viewBox=\"0 0 320 72\"><defs><marker id=\"arb\" viewBox=\"0 0 8 8\" refX=\"7\" refY=\"4\" markerWidth=\"7\" markerHeight=\"7\" orient=\"auto\"><path d=\"M0 0L8 4L0 8z\" fill=\"#5d6474\"/></marker></defs><rect x=\"10\" y=\"10\" width=\"89\" height=\"52\" rx=\"8\" fill=\"#f1e4c6\" stroke=\"#a8792a\"/><text x=\"55\" y=\"28\" fill=\"#1d2433\" font-size=\"10.5\" text-anchor=\"middle\" font-weight=\"700\">BIMSTEC</text><text x=\"55\" y=\"42\" fill=\"#1d2433\" font-size=\"10.5\" text-anchor=\"middle\">7 members</text><line x1=\"101\" y1=\"36\" x2=\"113\" y2=\"36\" stroke=\"#5d6474\" stroke-width=\"1.5\" marker-end=\"url(#arb)\"/><rect x=\"115\" y=\"10\" width=\"89\" height=\"52\" rx=\"8\" fill=\"#fff\" stroke=\"#5d6474\"/><text x=\"160\" y=\"28\" fill=\"#1d2433\" font-size=\"10.5\" text-anchor=\"middle\" font-weight=\"700\">India, Bangladesh</text><text x=\"160\" y=\"42\" fill=\"#1d2433\" font-size=\"10.5\" text-anchor=\"middle\">Nepal, Bhutan</text><line x1=\"207\" y1=\"36\" x2=\"219\" y2=\"36\" stroke=\"#5d6474\" stroke-width=\"1.5\" marker-end=\"url(#arb)\"/><rect x=\"221\" y=\"10\" width=\"89\" height=\"52\" rx=\"8\" fill=\"#fff\" stroke=\"#5d6474\"/><text x=\"265\" y=\"28\" fill=\"#1d2433\" font-size=\"10.5\" text-anchor=\"middle\" font-weight=\"700\">Sri Lanka, Myanmar</text><text x=\"265\" y=\"42\" fill=\"#1d2433\" font-size=\"10.5\" text-anchor=\"middle\">Thailand</text></svg><p>The <b>Bay of Bengal Initiative for Multi-Sectoral Technical and Economic Cooperation</b> began in Bangkok on 6 June 1997. Myanmar joined in December 1997, and Nepal and Bhutan in 2004. The Secretariat is in <b>Dhaka</b>.</p>\n<p>It links South Asia and Southeast Asia and <b>leaves Pakistan out</b>. It was boosted by the BRICS–BIMSTEC outreach in Goa (October 2016) and Modi's invitation to leaders to his 2019 swearing-in.</p>\n<ul><li><b>Charter:</b> adopted at the 5th summit in Colombo (30 March 2022).</li><li><b>6th summit, Bangkok (April 2025):</b> Modi attended. Bangladesh took the chair. A maritime transport cooperation agreement was signed.</li><li><b>Unfinished:</b> the BIMSTEC FTA, begun in 2004, is still not concluded.</li></ul>"
+  },
+  {
+   "tag": "Policy",
+   "h": "India's tools in the neighbourhood",
+   "b": "<div class=\"box\"><h4>Gujral Doctrine (1996–97)</h4>Five principles by I.K. Gujral: no reciprocity demanded from smaller neighbours; no territory used against another; no interference in internal affairs; respect for sovereignty; peaceful settlement of disputes.</div>\n<div class=\"box\"><h4>Neighbourhood First (2014)</h4>Modi invited all SAARC leaders to his 2014 swearing-in. Focus on connectivity, trade, lines of credit and quick delivery.</div>\n<div class=\"box\"><h4>SAGAR (2015) and MAHASAGAR (2025)</h4>Security and Growth for All in the Region, extended in 2025 to a wider 'mutual and holistic advancement' framework.</div>\n<p>Other tools: the <b>Colombo Security Conclave</b> (India, Sri Lanka, Maldives, later Mauritius and Bangladesh), the <b>Indian Ocean Rim Association (IORA)</b> and the <b>Mekong–Ganga Cooperation</b>.</p>"
+  },
+  {
+   "tag": "Theory lens",
+   "h": "Integration theories applied to South Asia",
+   "b": "<div class=\"box\"><h4>Functionalism (David Mitrany, <i>A Working Peace System</i>, 1943)</h4>Cooperate on technical tasks first. Habits of cooperation grow and make war less likely.</div>\n<div class=\"box\"><h4>Neo-functionalism (Ernst Haas, <i>The Uniting of Europe</i>, 1958)</h4>Cooperation in one sector 'spills over' into others.</div>\n<div class=\"box\"><h4>Intergovernmentalism (Stanley Hoffmann)</h4>States stay in charge and integrate only where their interests match.</div>\n<p>South Asia fits intergovernmentalism best. Spillover has not happened because the core security rivalry blocks it. <b>Karl Deutsch</b> (<i>Political Community and the North Atlantic Area</i>, 1957) said integration needs a 'security community' where war is unthinkable. India and Pakistan are far from it.</p>"
+  },
+  {
+   "tag": "Debate",
+   "h": "Can South Asia integrate?",
+   "b": "<svg class=\"d\" viewBox=\"0 0 320 98\"><rect x=\"10\" y=\"6\" width=\"142\" height=\"86\" rx=\"8\" fill=\"#f4dcd5\" stroke=\"#a3362a\"/><text x=\"81\" y=\"24\" fill=\"#1d2433\" font-size=\"11.5\" text-anchor=\"middle\" font-weight=\"700\">Pessimists</text><text x=\"81\" y=\"42\" fill=\"#1d2433\" font-size=\"10.5\" text-anchor=\"middle\">India–Pakistan blocks all</text><text x=\"81\" y=\"58\" fill=\"#1d2433\" font-size=\"10.5\" text-anchor=\"middle\">Neighbours hedge with China</text><text x=\"81\" y=\"74\" fill=\"#1d2433\" font-size=\"10.5\" text-anchor=\"middle\">Hub-and-spoke economics</text><text x=\"81\" y=\"90\" fill=\"#1d2433\" font-size=\"10.5\" text-anchor=\"middle\">Weak infrastructure</text><rect x=\"168\" y=\"6\" width=\"142\" height=\"86\" rx=\"8\" fill=\"#dceaec\" stroke=\"#2f6f7a\"/><text x=\"239\" y=\"24\" fill=\"#1d2433\" font-size=\"11.5\" text-anchor=\"middle\" font-weight=\"700\">Optimists</text><text x=\"239\" y=\"42\" fill=\"#1d2433\" font-size=\"10.5\" text-anchor=\"middle\">Sub-regional deals work</text><text x=\"239\" y=\"58\" fill=\"#1d2433\" font-size=\"10.5\" text-anchor=\"middle\">Power trade: Nepal, Bhutan</text><text x=\"239\" y=\"74\" fill=\"#1d2433\" font-size=\"10.5\" text-anchor=\"middle\">BBIN and BIMSTEC grids</text><text x=\"239\" y=\"90\" fill=\"#1d2433\" font-size=\"10.5\" text-anchor=\"middle\">Digital: UPI links</text></svg><p>Realists say regional integration cannot succeed while the two largest states are rivals. <b>Functionalists</b> reply that cooperation in low-politics areas such as power, transport and health can build habits of trust.</p>\n<p><b>Sub-regionalism</b> gives a middle path: BBIN, the Bhutan–India–Nepal power trade and the India–Bangladesh–Nepal energy deals (Nepal exports hydropower to Bangladesh via India, 2024). In 2025 reports described Chinese-backed talks among China, Pakistan and Bangladesh in Kunming on a possible alternative grouping, showing China's interest in the space.</p>"
+  },
+  {
+   "tag": "Indian angle",
+   "h": "What India does now",
+   "b": "<ul><li>Treats SAARC as dormant and puts <b>BIMSTEC</b> at the centre of its Bay of Bengal policy.</li><li>Funds roads and rail: Kaladan, the Trilateral Highway, and India–Bangladesh rail links.</li><li>Offers <b>Vaccine Maitri</b> (2021) and disaster relief across the region, as in the 2015 Nepal earthquake and 2025 Myanmar earthquake relief (Operation Brahma).</li><li>Links payment systems: UPI in Nepal, Bhutan and Sri Lanka.</li></ul>\n<p>The tension: India is accused of acting alone while preaching consultation. Big projects still need local politics to line up.</p>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "Key facts to memorise",
+   "b": "<div class=\"box\"><h4>SAARC</h4>Founded 8 December 1985, Dhaka. 8 members. Secretariat: Kathmandu. Last summit: 2014.</div>\n<div class=\"box\"><h4>BIMSTEC</h4>Bangkok Declaration 1997. 7 members. Secretariat: Dhaka. Charter 2022. Latest summit: Bangkok, April 2025.</div>\n<div class=\"box\"><h4>SAFTA</h4>Signed 2004, in force 2006. Tariff phase-down for SAARC goods.</div>\n<div class=\"box\"><h4>BBIN MVA</h4>Signed 2015. Bhutan did not ratify, and the others proceeded on their own.</div>"
+  },
+  {
+   "tag": "Exam lens",
+   "h": "How UPSC asks this",
+   "b": "<div class=\"box\">\"SAARC has failed to achieve its objectives. Is BIMSTEC a better platform for India?\" (typical)</div><div class=\"box\">\"Examine India's Neighbourhood First policy.\" (typical)</div><div class=\"box\">\"Discuss the challenges to regional cooperation in South Asia.\" (typical)</div>\n<p><b>Structure:</b> (1) SAARC's aims and record; (2) causes of failure: rivalry, asymmetry, unanimity; (3) BIMSTEC's strengths and gaps; (4) India's policy tools (Gujral, Neighbourhood First, SAGAR); (5) sub-regional initiatives (BBIN); (6) way forward: connectivity, trust, trade, working through functional areas.</p>",
+   "cls": "exam"
+  }
+ ],
+ "quiz": [
+  {
+   "q": "The SAARC Charter was adopted at:",
+   "o": [
+    "Kathmandu, 1987",
+    "Dhaka, 1985",
+    "Islamabad, 1988",
+    "Colombo, 1991"
+   ],
+   "a": 1,
+   "w": "At Dhaka on 8 December 1985."
+  },
+  {
+   "q": "Which was the last SAARC summit actually held?",
+   "o": [
+    "Islamabad 2016",
+    "Kathmandu 2014",
+    "New Delhi 2007",
+    "Colombo 2008"
+   ],
+   "a": 1,
+   "w": "The 18th summit at Kathmandu, November 2014."
+  },
+  {
+   "q": "Afghanistan became a SAARC member in:",
+   "o": [
+    "1985",
+    "1997",
+    "2007",
+    "2014"
+   ],
+   "a": 2,
+   "w": "At the 14th SAARC summit in Delhi."
+  },
+  {
+   "q": "BIMSTEC's Secretariat is located in:",
+   "o": [
+    "Bangkok",
+    "Dhaka",
+    "Colombo",
+    "Kathmandu"
+   ],
+   "a": 1,
+   "w": "Dhaka."
+  },
+  {
+   "q": "Which of these is NOT a BIMSTEC member?",
+   "o": [
+    "Myanmar",
+    "Thailand",
+    "Maldives",
+    "Bhutan"
+   ],
+   "a": 2,
+   "w": "The Maldives is a SAARC member, not a BIMSTEC member."
+  },
+  {
+   "q": "The BIMSTEC Charter was adopted at the summit in:",
+   "o": [
+    "Kathmandu 2018",
+    "Colombo 2022",
+    "Bangkok 2025",
+    "Dhaka 2014"
+   ],
+   "a": 1,
+   "w": "The 5th summit, 30 March 2022."
+  },
+  {
+   "q": "Gujral Doctrine's key feature was:",
+   "o": [
+    "Reciprocity demanded from neighbours",
+    "Non-reciprocity for smaller neighbours",
+    "Military alliances",
+    "Joining ASEAN"
+   ],
+   "a": 1,
+   "w": "India should give more than it asks of smaller neighbours."
+  },
+  {
+   "q": "SAFTA came into force in:",
+   "o": [
+    "1993",
+    "2004",
+    "2006",
+    "2016"
+   ],
+   "a": 2,
+   "w": "Signed 2004, effective 1 January 2006."
+  },
+  {
+   "q": "The South Asia Satellite (GSAT-9) was launched in:",
+   "o": [
+    "2014",
+    "2017",
+    "2019",
+    "2021"
+   ],
+   "a": 1,
+   "w": "May 2017; Pakistan did not take part."
+  },
+  {
+   "q": "The BBIN Motor Vehicles Agreement was signed in:",
+   "o": [
+    "2005",
+    "2010",
+    "2015",
+    "2022"
+   ],
+   "a": 2,
+   "w": "June 2015 in Thimphu, after Pakistan blocked the SAARC version."
+  }
+ ],
+ "sources": [
+  "SAARC Charter (1985); BIMSTEC Charter (2022); MEA briefs",
+  "Rajiv Sikri, Challenge and Strategy (2009)",
+  "I.K. Gujral, A Foreign Policy for India (1998)",
+  "MEA on 6th BIMSTEC Summit, Bangkok, April 2025",
+  "PYQ themes: SAARC vs BIMSTEC, regionalism, Neighbourhood First (Paper II, recurring)"
+ ],
+ "verified": "2026-11-10"
+}

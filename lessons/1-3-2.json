@@ -1,0 +1,179 @@
+{
+ "id": "1-3-2",
+ "title": "The Supreme Court and the States",
+ "emoji": "⚖️",
+ "cards": [
+  {
+   "tag": "Why this matters",
+   "h": "The apex court as federal umpire, and the state's own organs",
+   "b": "<p>This lesson joins two things: the <b>Supreme Court</b>, which sits at the top of a single integrated judiciary and settles disputes between the Union and states, and the <b>state governments</b>: the Governor, Chief Minister, legislature and High Court.</p><p>Why together? Because federalism is tested in both places. The Supreme Court decides who has what power. The Governor and the Chief Minister show how the Union and states actually work together.</p><p>Likely questions: powers and jurisdiction of the Supreme Court; judicial independence and the collegium; the role and misuse of the Governor; the working of High Courts and subordinate courts; recent Supreme Court judgments on federal questions.</p><p>Keep links: Article 131 and 143 (jurisdiction), Article 124 (judges), Articles 153-167 (Governor), Articles 168-212 (legislature), 214-231 (High Courts).</p>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "One integrated judiciary",
+   "b": "<svg class=\"d\" viewBox=\"0 0 320 150\"><g font-size=\"10\" text-anchor=\"middle\" fill=\"#1d2433\"><rect x=\"100\" y=\"8\" width=\"120\" height=\"34\" rx=\"6\" fill=\"#f1e4c6\" stroke=\"#a8792a\"/><text x=\"160\" y=\"23\" font-weight=\"700\">Supreme Court</text><text x=\"160\" y=\"36\">CJI + 33 judges</text><rect x=\"70\" y=\"58\" width=\"180\" height=\"34\" rx=\"6\" fill=\"#dceaec\" stroke=\"#2f6f7a\"/><text x=\"160\" y=\"73\" font-weight=\"700\">25 High Courts</text><text x=\"160\" y=\"86\">Arts 214-231</text><rect x=\"40\" y=\"108\" width=\"240\" height=\"34\" rx=\"6\" fill=\"#fff\" stroke=\"#5d6474\"/><text x=\"160\" y=\"123\" font-weight=\"700\">District and subordinate courts</text><text x=\"160\" y=\"136\">Arts 233-237; Gram Nyayalayas; Lok Adalats</text></g><path d=\"M160 42 L160 58 M160 92 L160 108\" stroke=\"#5d6474\" stroke-width=\"2\"/></svg><p>Unlike the US, India has no separate state court system. This is one of the unitary features of the Constitution. Appeals go up from the district court to the High Court to the Supreme Court.</p><p>The Supreme Court (Articles 124-147) sits in Delhi. The strength was raised to the Chief Justice and 33 other judges in 2019. A judge retires at 65 and a High Court judge at 62.</p><p>Judges of the Supreme Court are removed only by Parliament on proof of \"misbehaviour or incapacity\" (Article 124(4)): an address by each House with a majority of total membership and two-thirds of those present and voting. The Judges (Inquiry) Act, 1968 provides the process. No judge has been removed so far.</p>"
+  },
+  {
+   "tag": "Key idea",
+   "h": "Jurisdiction of the Supreme Court",
+   "b": "<ul><li><b>Original (Article 131):</b> disputes between the Union and states, or between states. Examples: suits by Kerala (2024) over borrowing limits and by West Bengal over central agencies.</li><li><b>Writ (Article 32):</b> enforcement of Fundamental Rights.</li><li><b>Appellate (Articles 132-134):</b> constitutional, civil and criminal appeals from High Courts; <b>special leave (Article 136)</b>.</li><li><b>Advisory (Article 143):</b> opinions on questions of law or fact referred by the President. Not binding in the way a judgment is. Used for the Ram Janmabhoomi reference (1993), the 2G reference (2012), and the 2025 reference on Governors' timelines.</li><li><b>Review (Article 137)</b> and <b>curative petitions</b> (<i>Rupa Ashok Hurra</i>, 2002).</li><li><b>Article 141:</b> its law binds all courts. <b>Article 142:</b> orders for \"complete justice\". <b>Article 129:</b> court of record with power to punish contempt.</li></ul>"
+  },
+  {
+   "tag": "Key idea",
+   "h": "Independence, appointment and accountability",
+   "b": "<p>Independence is supported by security of tenure, fixed salaries charged to the Consolidated Fund, bar on practice after retirement in the same courts, and a ban on discussing a judge's conduct in Parliament (except in removal).</p><p>The appointment story: the <i>First Judges Case</i> (1981) gave the executive primacy; the <i>Second</i> (1993) and <i>Third</i> (1998) set up the <b>collegium</b> (CJI and four senior-most judges). The NJAC under the 99th Amendment was struck down on 16 October 2015.</p><p><b>Critiques of the collegium:</b> opaque, no written criteria, little diversity (few women, few judges from marginalised groups), lack of a secretariat, \"judges appointing judges\". <b>Critiques of the executive role:</b> risk of pressure.</p><p><b>Pendency:</b> across Indian courts, more than five crore cases were pending in 2025 (National Judicial Data Grid), and many High Court posts are vacant. Fast-track and commercial courts, e-courts and mediation (Mediation Act, 2023) aim to reduce delay.</p>"
+  },
+  {
+   "tag": "Key idea",
+   "h": "The Governor and the State Executive",
+   "b": "<ul><li><b>Governor (Articles 153-162):</b> appointed by the President, five-year term at the President's pleasure. Must be at least 35. He appoints the Chief Minister (Article 164), usually the leader of the majority, and summons and prorogues the legislature.</li><li><b>Chief Minister and Council (Articles 163-164):</b> collectively responsible to the Legislative Assembly. The Governor acts on their advice except where the Constitution gives discretion.</li><li><b>Governor's discretion:</b> choosing a CM in a hung House, reserving bills for the President (Article 200), sending reports for President's Rule (Article 356), and in the Sixth Schedule areas.</li><li><b>Ordinances (Article 213)</b> when the legislature is not in session.</li></ul><p>The Sarkaria Commission advised that Governors be eminent persons from outside the state, not recently active in politics, and consulted with the Chief Minister. The Punchhi Commission (2010) suggested a fixed five-year term, removal only by a resolution of the state legislature.</p>"
+  },
+  {
+   "tag": "Key idea",
+   "h": "State legislature and High Courts",
+   "b": "<ul><li><b>Legislative Assembly:</b> 60 to 500 members (smaller in a few small states), directly elected, five-year term. A <b>Legislative Council</b> (Article 169) exists in only six states: Andhra Pradesh, Telangana, Karnataka, Maharashtra, Bihar and Uttar Pradesh. Parliament can create or abolish a Council if the Assembly passes a special majority resolution. The Council has limited powers; the Assembly has the final say on ordinary bills.</li><li><b>High Courts</b> (Article 214): 25 now. Judges are appointed on the collegium's advice. Powers: writs under <b>Article 226</b> (wider than Article 32 since they can issue them for any legal right) and superintendence over subordinate courts (Article 227).</li><li><b>Subordinate courts</b> are overseen by the High Court (Articles 233-237). The District Judge is appointed by the Governor in consultation with the High Court.</li></ul><p>The Law Commission and the Supreme Court have supported a proposed All India Judicial Service (Article 312), which has not materialised.</p>"
+  },
+  {
+   "tag": "Key idea",
+   "h": "Courts on federal questions: landmark cases",
+   "b": "<ul><li><b>S.R. Bommai</b> (1994): reviewable President's Rule; federalism as basic structure.</li><li><b>Nabam Rebia</b> (2016): Governor cannot call or advance a Session of the Assembly on his own; Speaker's powers.</li><li><b>Subhash Desai</b> (11 May 2023): Governor's floor test in Maharashtra in 2022 had no valid basis; the Speaker's appointment of a whip was illegal; the previous government was not restored because Uddhav Thackeray resigned without facing the test.</li><li><b>Government of NCT of Delhi v. Union of India</b> (2018, 2023): the elected government controls services except for police, public order and land; Parliament later passed the GNCTD Amendment Act, 2023.</li><li><b>Mineral Area Development Authority v. SAIL</b> (25 July 2024): a nine-judge bench held by 8:1 that states can tax mineral rights; royalty is not a tax. A boost to states' fiscal power.</li><li><b>State of Punjab v. Principal Secretary to the Governor of Punjab</b> (10 November 2023): Governors cannot sit on bills indefinitely.</li><li><b>State of Tamil Nadu v. Governor</b> (8 April 2025) and the Presidential reference opinion (November 2025).</li></ul>"
+  },
+  {
+   "tag": "Critique",
+   "h": "Strengthening or stretching the Court's role",
+   "b": "<p><b>The Court as guardian of federalism:</b> its judgments on Delhi, minerals, and the Governors' conduct are cited as protection for states against central overreach.</p><p><b>The counter-view:</b></p><ul><li>The Court has itself favoured the Centre in many cases, including Article 370 in 2023, where federal arguments about J&K's statehood were set aside.</li><li>Directions such as \"deemed assent\" may stretch Article 142 and conflict with the separation of powers, as the 2025 reference debate showed.</li><li>Delay: a constitution bench decision can take years.</li><li>Governors' appointments continue to be political. Reports of tension in Kerala, Tamil Nadu, West Bengal, Punjab and Delhi's Lieutenant Governor persist.</li></ul><p>Scholars: Upendra Baxi on the Court's \"social action litigation\"; S.P. Sathe on activism; Granville Austin's <i>Working a Democratic Constitution</i> (1999) on the Court's shifting role.</p>"
+  },
+  {
+   "tag": "Indian angle",
+   "h": "What to cite from 2024-2026",
+   "b": "<ul><li><b>CJI B.R. Gavai</b> (May-Nov 2025) led the Presidential reference bench; <b>CJI Surya Kant</b> took over on 24 November 2025 and retires on 9 February 2027.</li><li><b>Waqf (Amendment) Act, 2025:</b> interim order on 15 September 2025 partially stayed.</li><li><b>SIR of electoral rolls:</b> upheld in May 2026.</li><li><b>Governors:</b> disputes in several opposition-ruled states over bills and university chancellorships.</li><li><b>Kerala v. Union (2024):</b> original suit on net borrowing limits.</li><li><b>Statehood:</b> J&K Chief Minister Omar Abdullah (from October 2024) heads a government that works with a Lieutenant Governor with wide powers; statehood is pending.</li><li><b>Delhi:</b> the Delhi Assembly election of February 2025 brought a BJP government, so the long conflict between an AAP government and the Centre ended.</li></ul>"
+  },
+  {
+   "tag": "Exam lens",
+   "h": "How UPSC asks this",
+   "b": "<div class=\"box\">\"Discuss the jurisdiction of the Supreme Court. Has the apex court expanded its role?\"</div><div class=\"box\">\"Evaluate the collegium system and the case for judicial appointments reform.\"</div><div class=\"box\">\"The office of the Governor has become a source of Centre-state friction. Discuss.\"</div><div class=\"box\">\"Judicial delays threaten access to justice. Suggest measures.\"</div><p><b>Structure:</b> integrated judiciary; Supreme Court jurisdictions with Articles; independence, collegium, NJAC; pendency and reforms; Governor's role and Sarkaria-Punchhi advice; legislature and High Courts; landmark federal cases; critique; recent examples; end with trust and transparency as the solution.</p>",
+   "cls": "exam"
+  }
+ ],
+ "quiz": [
+  {
+   "q": "Judges of the Supreme Court are removed under…",
+   "o": [
+    "Article 124(4)",
+    "Article 129",
+    "Article 142",
+    "Article 217"
+   ],
+   "a": 0,
+   "w": "Impeachment-style removal by Parliament."
+  },
+  {
+   "q": "The Supreme Court's present sanctioned strength is…",
+   "o": [
+    "25",
+    "31",
+    "34",
+    "40"
+   ],
+   "a": 2,
+   "w": "The Chief Justice and 33 other judges."
+  },
+  {
+   "q": "Disputes between states fall under which jurisdiction?",
+   "o": [
+    "Article 32",
+    "Article 131",
+    "Article 136",
+    "Article 143"
+   ],
+   "a": 1,
+   "w": "Original jurisdiction."
+  },
+  {
+   "q": "A curative petition was recognised in…",
+   "o": [
+    "Rupa Ashok Hurra (2002)",
+    "S.P. Gupta (1981)",
+    "Vishaka (1997)",
+    "Bommai (1994)"
+   ],
+   "a": 0,
+   "w": "Rupa Ashok Hurra v. Ashok Hurra."
+  },
+  {
+   "q": "Which case set up the collegium system?",
+   "o": [
+    "First Judges Case",
+    "Second Judges Case",
+    "Third Judges Case",
+    "Fourth Judges Case"
+   ],
+   "a": 1,
+   "w": "Second Judges Case (1993)."
+  },
+  {
+   "q": "The Legislative Council exists in how many states?",
+   "o": [
+    "4",
+    "6",
+    "8",
+    "10"
+   ],
+   "a": 1,
+   "w": "Andhra Pradesh, Telangana, Karnataka, Maharashtra, Bihar, Uttar Pradesh."
+  },
+  {
+   "q": "The High Court's writ power is under…",
+   "o": [
+    "Article 32",
+    "Article 226",
+    "Article 227",
+    "Article 215"
+   ],
+   "a": 1,
+   "w": "Article 226."
+  },
+  {
+   "q": "In Subhash Desai (2023), the Court…",
+   "o": [
+    "Restored the Uddhav Thackeray government",
+    "Found the Governor's floor test call unjustified but did not restore the government",
+    "Approved the Governor's action",
+    "Dismissed the petition"
+   ],
+   "a": 1,
+   "w": "The Chief Minister had resigned before a floor test."
+  },
+  {
+   "q": "Mineral Area Development Authority v. SAIL (2024) held that…",
+   "o": [
+    "Royalty is a tax",
+    "States can tax mineral rights",
+    "Only the Centre can tax minerals",
+    "Mining is a Concurrent subject"
+   ],
+   "a": 1,
+   "w": "By an 8:1 majority."
+  },
+  {
+   "q": "The Punchhi Commission advised that a Governor be removed by…",
+   "o": [
+    "The President on advice of the Centre",
+    "A resolution of the state legislature",
+    "The Chief Justice",
+    "The Prime Minister"
+   ],
+   "a": 1,
+   "w": "It also suggested a fixed five-year term."
+  }
+ ],
+ "sources": [
+  "Constitution of India, Arts 124-147, 153-167, 168-212, 214-237",
+  "Second and Third Judges Cases (1993, 1998); Fourth Judges Case (2015); Subhash Desai (2023); Mineral Area Development Authority v. SAIL (2024); State of Punjab v. Governor of Punjab (2023)",
+  "Sarkaria Commission (1988); Punchhi Commission (2010)",
+  "National Judicial Data Grid; Supreme Court of India website",
+  "Granville Austin, Working a Democratic Constitution (1999); Upendra Baxi; S.P. Sathe",
+  "PYQ themes: Supreme Court's jurisdiction, Governor, judicial reform (Paper I Section B)"
+ ],
+ "verified": "2026-11-10"
+}

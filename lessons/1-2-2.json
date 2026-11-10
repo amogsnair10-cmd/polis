@@ -1,0 +1,178 @@
+{
+ "id": "1-2-2",
+ "title": "Parliamentary System and Amendments",
+ "emoji": "🏛️",
+ "cards": [
+  {
+   "tag": "Why this matters",
+   "h": "One system, one procedure for change",
+   "b": "<p>This lesson joins two topics that UPSC often asks together: the <b>parliamentary system</b> and the <b>amending power</b>. Both show how the Constitution balances stability with change.</p><p>The framers chose the parliamentary system after a debate. Some wanted a presidential system, with a fixed term and a separate executive. They picked the British model because India already knew it from the Government of India Acts, and because they wanted a government that is <b>answerable every day</b> to the legislature.</p><p>On amendments, Nehru and Ambedkar wanted the Constitution to be neither too rigid nor too flexible. The result is an amending process in Article 368 with three levels of difficulty.</p><p>Typical questions: Is India's parliamentary system a copy of Westminster? Has the Prime Minister become too powerful? What are the limits on amendment? Which amendments changed India most?</p>"
+  },
+  {
+   "tag": "Key idea",
+   "h": "Why parliamentary: Ambedkar's reasoning",
+   "b": "<p>In the Constituent Assembly (4 November 1948) Ambedkar compared the two forms. The American executive is more <b>stable</b>, since it cannot be removed by the legislature. The parliamentary executive is more <b>responsible</b>, since it can be dismissed by a vote. The draft Constitution chose <b>responsibility</b>, because India's needs required daily accountability more than fixed terms.</p><div class=\"box\"><h4>Walter Bagehot, The English Constitution (1867)</h4>Distinguished the \"dignified\" part (the Crown) from the \"efficient\" part (the Cabinet). In India, the President is dignified, and the Cabinet efficient.</div><div class=\"box\"><h4>A.V. Dicey, Introduction to the Study of the Law of the Constitution (1885)</h4>Parliamentary sovereignty is the central principle in Britain. In India, Parliament is <b>not sovereign</b>: the Constitution is supreme, and courts can review laws.</div><div class=\"box\"><h4>Juan Linz, \"The Perils of Presidentialism\" (1990)</h4>Argued parliamentary systems survive better, as presidents face fixed terms and deadlock. Often cited in defence of India's choice.</div>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "The parliamentary executive in the Indian Constitution",
+   "b": "<svg class=\"d\" viewBox=\"0 0 320 150\"><g font-size=\"10\" text-anchor=\"middle\" fill=\"#1d2433\"><rect x=\"100\" y=\"6\" width=\"120\" height=\"30\" rx=\"6\" fill=\"#f1e4c6\" stroke=\"#a8792a\"/><text x=\"160\" y=\"25\">President (Art 53, 74)</text><rect x=\"100\" y=\"52\" width=\"120\" height=\"30\" rx=\"6\" fill=\"#f1e4c6\" stroke=\"#a8792a\"/><text x=\"160\" y=\"71\">Prime Minister (Art 75)</text><rect x=\"100\" y=\"98\" width=\"120\" height=\"30\" rx=\"6\" fill=\"#dceaec\" stroke=\"#2f6f7a\"/><text x=\"160\" y=\"117\">Council of Ministers</text><rect x=\"6\" y=\"52\" width=\"80\" height=\"30\" rx=\"6\" fill=\"#fff\" stroke=\"#5d6474\"/><text x=\"46\" y=\"71\">Lok Sabha</text><rect x=\"234\" y=\"52\" width=\"80\" height=\"30\" rx=\"6\" fill=\"#fff\" stroke=\"#5d6474\"/><text x=\"274\" y=\"71\">Rajya Sabha</text></g><path d=\"M160 36 L160 52 M160 82 L160 98 M86 67 L100 67 M234 67 L220 67\" stroke=\"#5d6474\" stroke-width=\"1.5\"/><text x=\"160\" y=\"144\" font-size=\"10\" fill=\"#a3362a\" text-anchor=\"middle\">Collective responsibility to Lok Sabha: Art 75(3)</text></svg><ul><li><b>Article 74:</b> there shall be a Council of Ministers to aid and advise the President. The 42nd Amendment (1976) made the advice binding. The 44th (1978) allows the President to send it back once for reconsideration.</li><li><b>Article 75(3):</b> the Council is collectively responsible to the Lok Sabha.</li><li><b>Article 75(1A):</b> ministers capped at 15% of the Lok Sabha (91st Amendment).</li><li>The PM can be from either House, e.g. Manmohan Singh from the Rajya Sabha.</li></ul><p>In <i>Shamsher Singh</i> (1974) the Court held that the President and Governors act on the advice of ministers, except in situations where the Constitution gives discretion.</p>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "Indian, not British: the differences",
+   "b": "<ul><li><b>Written Constitution</b> and judicial review, against Britain's flexible, unwritten arrangement.</li><li><b>Republic</b>: an elected head of State for a five-year term, not a hereditary monarch.</li><li><b>Federal structure</b>: Union and states, and a Rajya Sabha.</li><li><b>Fundamental Rights</b> that bind Parliament.</li><li><b>No strict separation</b> of powers, but the Court has said that essentials of each organ cannot be taken over (<i>Ram Jawaya Kapur</i>, 1955; <i>Kesavananda</i>, 1973).</li><li><b>Parliamentary supremacy is limited</b> by the Constitution; the Indian Parliament is a creature of the Constitution.</li></ul><p><b>The prime-ministerial debate:</b> Richard Crossman said the British Cabinet had turned into \"prime-ministerial government\". Many scholars apply this to India, especially in periods of a strong leader and a single-party majority. Others stress that coalition years (1989-2014) diluted this tendency. The test is how much Cabinet and Parliament really decide.</p>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "Amending the Constitution: Article 368",
+   "b": "<p>Parliament's power to amend comes from <b>Article 368</b>. An amendment bill can start only in Parliament (not in a state legislature), needs the President's assent (compulsory since the 24th Amendment, 1971) and has three routes:</p><ol><li><b>Simple majority</b>, outside Article 368: creating or altering states (Articles 2-4), Parliament's quorum, citizenship, the Fifth and Sixth Schedules, Rajya Sabha seats in the Fourth Schedule, and so on.</li><li><b>Special majority</b>: a majority of the total membership of each House and two-thirds of members present and voting. Most amendments, including Fundamental Rights and Directive Principles.</li><li><b>Special majority plus ratification by half of the state legislatures</b>: election of the President, the Union and state executive powers, the Supreme Court and High Courts, the distribution of legislative powers, the Seventh Schedule, representation of states in Parliament and Article 368 itself. The 101st Amendment (GST) was ratified in this way.</li></ol><p>There is no provision for a referendum or a constitutional convention, and no joint sitting for amendments.</p>"
+  },
+  {
+   "tag": "Key idea",
+   "h": "The limits: from Shankari Prasad to Kesavananda",
+   "b": "<ul><li><i>Shankari Prasad</i> (1951) and <i>Sajjan Singh</i> (1965): Parliament can amend Fundamental Rights.</li><li><i>Golaknath</i> (1967): Parliament cannot, since an amendment is a \"law\" under Article 13.</li><li>24th Amendment (1971): Article 13 does not apply to amendments under Article 368.</li><li><i>Kesavananda Bharati</i> (24 April 1973, 7:6): Parliament can amend any provision but cannot destroy the <b>basic structure</b>.</li><li>42nd Amendment (1976) tried to bar all judicial review of amendments. <i>Minerva Mills</i> (1980) struck those clauses: limited power is itself a basic feature.</li></ul><p>The next lesson develops basic structure. Remember the doctrine here as the key limit on Article 368: <b>amendment is not revolution</b>.</p>"
+  },
+  {
+   "tag": "Key idea",
+   "h": "Amendments that changed India",
+   "b": "<ul><li><b>1st (1951):</b> Article 15(4), Ninth Schedule, reasonable restrictions on speech.</li><li><b>7th (1956):</b> reorganised states and abolished Part A, B, C classes.</li><li><b>24th, 25th (1971):</b> parliamentary power over rights; Article 31C.</li><li><b>42nd (1976):</b> the \"mini-Constitution\": Preamble words, Fundamental Duties, wider DPSP priority.</li><li><b>44th (1978):</b> reversed the Emergency changes; removed property as a Fundamental Right.</li><li><b>52nd (1985), 91st (2003):</b> defection law.</li><li><b>61st (1989):</b> voting age from 21 to 18.</li><li><b>73rd and 74th (1992):</b> local government.</li><li><b>101st (2016):</b> GST.</li><li><b>103rd (2019):</b> EWS quota.</li><li><b>104th (2019):</b> ended nominated Anglo-Indian seats and extended SC/ST seat reservation to 2030.</li><li><b>106th (2023):</b> one-third seats for women.</li><li><b>99th (2014):</b> NJAC; struck down in the <i>Fourth Judges Case</i> (16 October 2015).</li></ul>"
+  },
+  {
+   "tag": "Critique",
+   "h": "Is the Constitution too easy or too hard to amend?",
+   "b": "<p><b>Too easy?</b> Over 100 amendments in about 75 years, against 27 in the US. With a strong majority the executive can amend quickly, and bills have passed with little debate. Many amendments were made by ruling parties to overcome court rulings (such as the 39th and 42nd).</p><p><b>Not too easy:</b> most amendments are technical; the basic structure doctrine and the need for two-thirds in each House and half the states for federal features prevent abuse. Several bills have failed or been struck down: the NJAC (2015), and the Constitution (131st Amendment) Bill, 2026, which fell in the Lok Sabha on 17 April 2026 for want of a two-thirds majority.</p><p><b>Flexibility is a strength.</b> K.C. Wheare's view was that a constitution needs a path for change but also safeguards. Ambedkar, in the Constituent Assembly, defended the procedure as less rigid than the US one: most parts need only a special parliamentary majority.</p>"
+  },
+  {
+   "tag": "Indian angle",
+   "h": "Parliament and amendments in the news",
+   "b": "<ul><li><b>One Nation, One Election:</b> the Constitution (129th Amendment) Bill, 2024 (with a companion bill) is before a Joint Parliamentary Committee, whose tenure has been extended more than once. It needs a special majority; ratification by states is debated.</li><li><b>130th Amendment Bill, 2025:</b> introduced on 20 August 2025, it would remove a Prime Minister, Chief Minister or minister who is in custody for 30 consecutive days on a serious charge. It was sent to a JPC, which deferred its report in July 2026.</li><li><b>131st Amendment Bill, 2026:</b> defeated on 17 April 2026 (298 for, 230 against), after the 106th Amendment was put into force on 16 April 2026.</li><li><b>Functioning of Parliament:</b> PRS data show Parliament now sits for roughly 55 to 70 days a year, against over 120 in the 1950s, and that fewer bills go to committees.</li><li><b>Disruptions</b> and the long gap without a Deputy Speaker in the 17th Lok Sabha.</li></ul>"
+  },
+  {
+   "tag": "Exam lens",
+   "h": "How UPSC asks this",
+   "b": "<div class=\"box\">\"Critically examine the working of the parliamentary system in India. Has it become prime-ministerial?\"</div><div class=\"box\">\"Discuss the procedure for amending the Constitution. Does Article 368 give Parliament unlimited power?\"</div><div class=\"box\">\"Assess the impact of the 42nd Amendment.\"</div><div class=\"box\">\"Would a presidential system suit India better?\"</div><p><b>Structure:</b> Ambedkar's responsibility argument; features and Articles; differences from Britain; prime-ministerial tendency; Article 368 routes; the cases from Shankari Prasad to Minerva Mills; key amendments; critique; current examples (129th, 130th, 131st, 106th). Conclude that India's model is a <b>constrained parliamentary system with a flexible-yet-protected constitution</b>.</p>",
+   "cls": "exam"
+  }
+ ],
+ "quiz": [
+  {
+   "q": "In the Constituent Assembly, Ambedkar justified the parliamentary system mainly on grounds of…",
+   "o": [
+    "Stability",
+    "Responsibility",
+    "Federalism",
+    "Cost"
+   ],
+   "a": 1,
+   "w": "He said responsibility mattered more than stability."
+  },
+  {
+   "q": "Article 74 deals with…",
+   "o": [
+    "The Council of Ministers to aid and advise the President",
+    "Election of the President",
+    "Impeachment",
+    "Ordinance power"
+   ],
+   "a": 0,
+   "w": "The 42nd and 44th Amendments changed it."
+  },
+  {
+   "q": "Collective responsibility to the Lok Sabha is in…",
+   "o": [
+    "Article 74",
+    "Article 75(3)",
+    "Article 78",
+    "Article 85"
+   ],
+   "a": 1,
+   "w": "Article 75(3)."
+  },
+  {
+   "q": "Which amendment limited the Council of Ministers to 15% of the House?",
+   "o": [
+    "52nd",
+    "61st",
+    "91st",
+    "101st"
+   ],
+   "a": 2,
+   "w": "The 91st Amendment, 2003."
+  },
+  {
+   "q": "The basic structure doctrine arose in…",
+   "o": [
+    "Golaknath",
+    "Kesavananda Bharati",
+    "Shankari Prasad",
+    "Minerva Mills"
+   ],
+   "a": 1,
+   "w": "Kesavananda Bharati (1973), by 7:6."
+  },
+  {
+   "q": "Which amendment requires ratification by half the states?",
+   "o": [
+    "One changing the Seventh Schedule",
+    "One changing Article 21",
+    "One adding a Fundamental Duty",
+    "One lowering the voting age"
+   ],
+   "a": 0,
+   "w": "Federal matters need ratification under Article 368(2)."
+  },
+  {
+   "q": "The National Judicial Appointments Commission was created by the…",
+   "o": [
+    "97th Amendment",
+    "99th Amendment",
+    "101st Amendment",
+    "102nd Amendment"
+   ],
+   "a": 1,
+   "w": "99th Amendment (2014); struck down in 2015."
+  },
+  {
+   "q": "The voting age was lowered to 18 by the…",
+   "o": [
+    "42nd Amendment",
+    "61st Amendment",
+    "73rd Amendment",
+    "86th Amendment"
+   ],
+   "a": 1,
+   "w": "61st Amendment, 1989."
+  },
+  {
+   "q": "Presidential assent to an amendment bill became compulsory by the…",
+   "o": [
+    "24th Amendment",
+    "25th Amendment",
+    "39th Amendment",
+    "44th Amendment"
+   ],
+   "a": 0,
+   "w": "24th Amendment (1971)."
+  },
+  {
+   "q": "The Constitution (131st Amendment) Bill, 2026 was…",
+   "o": [
+    "Passed with a two-thirds majority",
+    "Defeated in the Lok Sabha on 17 April 2026",
+    "Ratified by half the states",
+    "Sent to the President"
+   ],
+   "a": 1,
+   "w": "It got 298 votes against 230 and fell short."
+  }
+ ],
+ "sources": [
+  "Constitution of India, Arts 52-78, 368; Constituent Assembly Debates (4 Nov 1948)",
+  "Bagehot, The English Constitution (1867); Dicey (1885); Linz, 'The Perils of Presidentialism', Journal of Democracy (1990)",
+  "Shankari Prasad (1951); Golaknath (1967); Kesavananda Bharati (1973); Minerva Mills (1980); Shamsher Singh (1974); Fourth Judges Case (2015)",
+  "PRS Legislative Research on Constitution (129th, 130th, 131st) Amendment Bills; Parliament functioning data",
+  "PYQ themes: parliamentary system, amendment procedure and limits (Paper I Section B)"
+ ],
+ "verified": "2026-11-10"
+}
