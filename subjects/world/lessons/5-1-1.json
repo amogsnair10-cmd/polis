@@ -1,0 +1,164 @@
+{
+ "id": "5-1-1",
+ "title": "Japan's Meiji Leap",
+ "emoji": "🏯",
+ "cards": [
+  {
+   "tag": "Why this matters",
+   "h": "Four black ships, and a country changed in 15 years",
+   "b": "<p>In July 1853, American warships under Commodore <b>Matthew Perry</b> sailed into Edo Bay. They were steam-powered and painted black. Japan, closed to most outsiders for over 200 years, now had to decide.</p><p>It chose to change faster than any big country had.</p>"
+  },
+  {
+   "tag": "The story",
+   "h": "The shock",
+   "b": "<svg class=\"d\" viewBox=\"0 0 320 214\"><defs><marker id=\"ar2\" markerWidth=\"8\" markerHeight=\"8\" refX=\"4\" refY=\"4\" orient=\"auto\"><path d=\"M0,0 L8,4 L0,8 z\" fill=\"#5d6474\"/></marker></defs><rect x=\"16\" y=\"2\" width=\"288\" height=\"28\" rx=\"6\" fill=\"#f1e4c6\" stroke=\"#a8792a\"/><text x=\"160\" y=\"20\" font-size=\"11\" text-anchor=\"middle\" fill=\"#1d2433\">1853: Perry arrives with a demand to open ports</text><line x1=\"160\" y1=\"30\" x2=\"160\" y2=\"42\" stroke=\"#5d6474\" stroke-width=\"1.5\" marker-end=\"url(#ar2)\"/><rect x=\"16\" y=\"44\" width=\"288\" height=\"28\" rx=\"6\" fill=\"#dceaec\" stroke=\"#2f6f7a\"/><text x=\"160\" y=\"62\" font-size=\"11\" text-anchor=\"middle\" fill=\"#1d2433\">1854: Treaty of Kanagawa</text><line x1=\"160\" y1=\"72\" x2=\"160\" y2=\"84\" stroke=\"#5d6474\" stroke-width=\"1.5\" marker-end=\"url(#ar2)\"/><rect x=\"16\" y=\"86\" width=\"288\" height=\"28\" rx=\"6\" fill=\"#f1e4c6\" stroke=\"#a8792a\"/><text x=\"160\" y=\"104\" font-size=\"11\" text-anchor=\"middle\" fill=\"#1d2433\">Unequal treaties give foreigners special rights</text><line x1=\"160\" y1=\"114\" x2=\"160\" y2=\"126\" stroke=\"#5d6474\" stroke-width=\"1.5\" marker-end=\"url(#ar2)\"/><rect x=\"16\" y=\"128\" width=\"288\" height=\"28\" rx=\"6\" fill=\"#dceaec\" stroke=\"#2f6f7a\"/><text x=\"160\" y=\"146\" font-size=\"11\" text-anchor=\"middle\" fill=\"#1d2433\">Samurai rebels overthrow the shogun</text><line x1=\"160\" y1=\"156\" x2=\"160\" y2=\"168\" stroke=\"#5d6474\" stroke-width=\"1.5\" marker-end=\"url(#ar2)\"/><rect x=\"16\" y=\"170\" width=\"288\" height=\"28\" rx=\"6\" fill=\"#f1e4c6\" stroke=\"#a8792a\"/><text x=\"160\" y=\"188\" font-size=\"11\" text-anchor=\"middle\" fill=\"#1d2433\">1868: Meiji Restoration</text></svg><p>The Tokugawa shogunate looked weak. Young samurai from Satsuma and Choshu rebelled. In 1868 they 'restored' the young Emperor Meiji (aged 15) to power.</p>"
+  },
+  {
+   "tag": "The turning point",
+   "h": "Remaking a state",
+   "b": "<p>The new government abolished the old feudal domains (1871), ended samurai privileges, created a conscript army (1873), built railways (first line 1872), set up schools and factories. The <b>Iwakura Mission</b> (1871-73) toured the US and Europe to learn.</p><p>A Constitution came in 1889, with an elected Diet but strong powers for the emperor.</p>"
+  },
+  {
+   "tag": "The twist",
+   "h": "The last samurai",
+   "b": "<p>Many samurai lost their income. In 1877 <b>Saigo Takamori</b>, once a hero of the Restoration, led the Satsuma Rebellion. Modern conscript soldiers crushed it.</p><p>It made clear that the old order was gone.</p>"
+  },
+  {
+   "tag": "The story",
+   "h": "Joining the imperial club",
+   "b": "<p>Japan beat China in the First Sino-Japanese War (1894-95) and took Taiwan. In 1902 it allied with Britain. In 1904-05 it defeated Russia, the first time an Asian power beat a European great power in a modern war.</p><p>Japan then annexed Korea (1910), becoming an imperial power itself.</p>"
+  },
+  {
+   "tag": "Myth vs fact",
+   "h": "Did Japan modernise from nothing?",
+   "b": "<b>Myth:</b> a backward country suddenly woke up.<b>Fact:</b> Edo Japan already had big cities (Edo was among the largest in the world), high literacy for the time, banking and trade. Meiji leaders built on that.<p>Also, 'Restoration' was partly a slogan; the real power was held by a small group of ex-samurai officials.</p>"
+  },
+  {
+   "tag": "Indian angle",
+   "h": "Meanwhile in India…",
+   "b": "<p>1905 and Asian pride</p>"
+  },
+  {
+   "tag": "Recap",
+   "h": "Five takeaways, two puzzles",
+   "b": "<p><b>Five things to remember</b></p><ol><li>Perry arrived in 1853; the Meiji Restoration came in 1868.</li><li>Reforms: army, schools, railways, constitution (1889).</li><li>The Satsuma Rebellion (1877) ended samurai power.</li><li>Japan beat China (1895) and Russia (1905).</li><li>1905 inspired Indian nationalists.</li></ol><p><b>Think about it</b></p><ul><li>Why did Japan change when China resisted?</li><li>Can rapid modernisation have a dark side?</li></ul>",
+   "cls": "exam"
+  }
+ ],
+ "quiz": [
+  {
+   "q": "Perry arrived in...",
+   "o": [
+    "1868",
+    "1905",
+    "1853",
+    "1889"
+   ],
+   "a": 2,
+   "w": "With the 'black ships'."
+  },
+  {
+   "q": "Meiji Restoration was in...",
+   "o": [
+    "1868",
+    "1853",
+    "1894",
+    "1905"
+   ],
+   "a": 0,
+   "w": "Emperor Meiji."
+  },
+  {
+   "q": "The Iwakura Mission...",
+   "o": [
+    "Conquered Korea",
+    "Signed the treaty",
+    "Fought Russia",
+    "Toured the West to learn"
+   ],
+   "a": 3,
+   "w": "1871-73."
+  },
+  {
+   "q": "Japan's Constitution was in...",
+   "o": [
+    "1868",
+    "1889",
+    "1905",
+    "1947"
+   ],
+   "a": 1,
+   "w": "Meiji Constitution."
+  },
+  {
+   "q": "Saigo Takamori led...",
+   "o": [
+    "The Satsuma Rebellion",
+    "The Opium War",
+    "Perry's mission",
+    "The Taiping"
+   ],
+   "a": 0,
+   "w": "1877."
+  },
+  {
+   "q": "Japan beat China in...",
+   "o": [
+    "1904-05",
+    "1853",
+    "1868",
+    "1894-95"
+   ],
+   "a": 3,
+   "w": "And took Taiwan."
+  },
+  {
+   "q": "Japan beat Russia in...",
+   "o": [
+    "1894-95",
+    "1904-05",
+    "1914",
+    "1868"
+   ],
+   "a": 1,
+   "w": "A shock to Europe."
+  },
+  {
+   "q": "Which Indian writer's autobiography recalled 1905?",
+   "o": [
+    "Tagore",
+    "Gandhi's Hind Swaraj only",
+    "Nehru",
+    "Naoroji"
+   ],
+   "a": 2,
+   "w": "Inspired by Japan."
+  },
+  {
+   "q": "Okakura Tenshin befriended...",
+   "o": [
+    "Gandhi",
+    "Tilak",
+    "Nehru",
+    "Tagore"
+   ],
+   "a": 3,
+   "w": "Visited India in 1901-02."
+  },
+  {
+   "q": "Edo Japan was...",
+   "o": [
+    "Already urban and literate",
+    "Illiterate",
+    "Without cities",
+    "Without trade"
+   ],
+   "a": 0,
+   "w": "Meiji built on this."
+  }
+ ],
+ "sources": [
+  "Jansen, The Making of Modern Japan (2000); Beasley, The Meiji Restoration; Nehru, An Autobiography (1936)"
+ ],
+ "verified": "2026-11-10"
+}

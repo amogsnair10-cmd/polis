@@ -69,5 +69,20 @@ const THEMES = {
       "--card-img": "none", "--key-img": "radial-gradient(circle at 4px 8px,#e8a65a 1.5px,transparent 2.5px)"
     },
     hero: "emblem", glyph: "🪐"
+  },
+  manifesto: {
+    name: "Manifesto", note: "Poster red, black and newsprint",
+    fonts: "Oswald:wght@500;700&family=Merriweather:ital,wght@0,400;0,700;1,400",
+    vars: {
+      "--lapis": "#5a0f12", "--night": "#1a0607", "--glow": "#8c1a1f",
+      "--gold": "#f2c14e", "--accent-rgb": "242,193,78", "--goldd": "#8a2a12",
+      "--card": "#f3efe6", "--marble": "#f3efe6", "--ink": "#1c1a18", "--vein": "#5e5952",
+      "--sub": "#e2b3a6", "--motto": "#f3d9cf", "--foot": "#c6958a", "--faint": "#9a6c63", "--faint2": "#6a2a26",
+      "--btn1": "#f5cd62", "--btn2": "#d29a28", "--btn-ink": "#1f1203", "--btn-shadow": "rgba(210,154,40,.45)",
+      "--strong": "#3a0c0c", "--quote-ink": "#3a0c0c", "--exam-bg": "#efe4dc", "--opt-line": "#d6ccc0",
+      "--font-display": "Oswald,sans-serif", "--font-body": "Merriweather,Georgia,serif",
+      "--card-img": "none", "--key-img": "linear-gradient(90deg,#f2c14e 0 14px,transparent 14px 20px)"
+    },
+    hero: "emblem", glyph: "★"
   }
 };

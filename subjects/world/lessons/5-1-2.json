@@ -1,0 +1,164 @@
+{
+ "id": "5-1-2",
+ "title": "The Scramble for Africa",
+ "emoji": "🌍",
+ "cards": [
+  {
+   "tag": "Why this matters",
+   "h": "In 1870 about a tenth of Africa was ruled by Europeans. By 1914, almost all of it",
+   "b": "<p>Imagine losing control of your continent in about 40 years. That is what happened in Africa. Only Ethiopia and Liberia stayed independent.</p><p>How? Guns, medicine, railways and a very unusual conference where no African was invited.</p>"
+  },
+  {
+   "tag": "The story",
+   "h": "The tools",
+   "b": "<svg class=\"d\" viewBox=\"0 0 320 130\"><rect x=\"6\" y=\"2\" width=\"150\" height=\"126\" rx=\"6\" fill=\"#f1e4c6\" stroke=\"#a8792a\"/><text x=\"81\" y=\"20\" font-size=\"11\" font-weight=\"700\" text-anchor=\"middle\" fill=\"#1d2433\">Around 1870</text><text x=\"14\" y=\"42\" font-size=\"10.5\" fill=\"#1d2433\">About 10% under Europe</text><text x=\"14\" y=\"66\" font-size=\"10.5\" fill=\"#1d2433\">Coastal forts mostly</text><text x=\"14\" y=\"90\" font-size=\"10.5\" fill=\"#1d2433\">Many African states</text><text x=\"14\" y=\"114\" font-size=\"10.5\" fill=\"#1d2433\">Malaria blocks inland</text><rect x=\"164\" y=\"2\" width=\"150\" height=\"126\" rx=\"6\" fill=\"#dceaec\" stroke=\"#2f6f7a\"/><text x=\"239\" y=\"20\" font-size=\"11\" font-weight=\"700\" text-anchor=\"middle\" fill=\"#1d2433\">By 1914</text><text x=\"172\" y=\"42\" font-size=\"10.5\" fill=\"#1d2433\">About 90% under Europe</text><text x=\"172\" y=\"66\" font-size=\"10.5\" fill=\"#1d2433\">Inland colonies</text><text x=\"172\" y=\"90\" font-size=\"10.5\" fill=\"#1d2433\">Only Ethiopia, Liberia free</text><text x=\"172\" y=\"114\" font-size=\"10.5\" fill=\"#1d2433\">Quinine, steamships, Maxim guns</text></svg><p>Quinine fought malaria. Steamships went up rivers. The rapid-fire <b>Maxim gun</b> (1884) gave Europeans a huge advantage in battle.</p>"
+  },
+  {
+   "tag": "The turning point",
+   "h": "Berlin 1884-85",
+   "b": "<p>German chancellor Bismarck hosted a conference in Berlin (November 1884-February 1885). Fourteen states attended, none African. They agreed that to claim land, a power needed 'effective occupation'. It did not draw Africa's map by itself; the carve-up was already under way. But it sparked a rush.</p>"
+  },
+  {
+   "tag": "The twist",
+   "h": "A king's private colony",
+   "b": "<p>King <b>Leopold II</b> of Belgium got recognition of the 'Congo Free State' in 1885 as nearly his personal property. Forced rubber collection brought mutilation and killing. Millions died; estimates vary and are debated, with figures like 10 million often cited. After campaigns by E. D. Morel and others, Belgium took it over in 1908.</p>"
+  },
+  {
+   "tag": "The story",
+   "h": "Resistance",
+   "b": "<p>Africans resisted all over. At <b>Adwa</b> on 1 March 1896, Emperor <b>Menelik II</b> of Ethiopia crushed an Italian army. The Boer War (1899-1902) pitted Britain against Dutch settlers. In German South West Africa, the <b>Herero and Nama genocide</b> (1904-08) killed tens of thousands.</p><p>Borders were often straight lines that split peoples and joined rivals. Many modern African conflicts have roots there.</p>"
+  },
+  {
+   "tag": "Myth vs fact",
+   "h": "Did Berlin 'divide Africa' in one meeting?",
+   "b": "<b>Myth:</b> European leaders sat in Berlin and cut up a map.<b>Fact:</b> the conference dealt with the Congo and the rules for claiming land. Most borders were set later through treaties between powers, and many by field agents. Still, no African ruler had a say, and that is the heart of the injustice."
+  },
+  {
+   "tag": "Indian angle",
+   "h": "Meanwhile in India…",
+   "b": "<p>Indians in Africa</p>"
+  },
+  {
+   "tag": "Recap",
+   "h": "Five takeaways, two puzzles",
+   "b": "<p><b>Five things to remember</b></p><ol><li>By 1914 Europe controlled almost all Africa.</li><li>The Berlin Conference (1884-85) set the rules, with no Africans present.</li><li>Leopold's Congo was among the worst.</li><li>Ethiopia won at Adwa (1896).</li><li>Indians built the Uganda Railway.</li></ol><p><b>Think about it</b></p><ul><li>Why did Europe rush in at that moment?</li><li>What does Adwa teach?</li></ul>",
+   "cls": "exam"
+  }
+ ],
+ "quiz": [
+  {
+   "q": "Which two African states stayed independent?",
+   "o": [
+    "Egypt and Kenya",
+    "Nigeria and Ghana",
+    "Ethiopia and Liberia",
+    "Sudan and Libya"
+   ],
+   "a": 2,
+   "w": "By 1914."
+  },
+  {
+   "q": "The Berlin Conference was in...",
+   "o": [
+    "1884-85",
+    "1870",
+    "1914",
+    "1900"
+   ],
+   "a": 0,
+   "w": "Hosted by Bismarck."
+  },
+  {
+   "q": "It set the rule of...",
+   "o": [
+    "Free trade only",
+    "Self-rule",
+    "Slave trade",
+    "Effective occupation"
+   ],
+   "a": 3,
+   "w": "For claiming land."
+  },
+  {
+   "q": "Congo Free State belonged to...",
+   "o": [
+    "Bismarck",
+    "Leopold II",
+    "Victoria",
+    "Menelik"
+   ],
+   "a": 1,
+   "w": "1885."
+  },
+  {
+   "q": "Belgium took over the Congo in...",
+   "o": [
+    "1908",
+    "1885",
+    "1960",
+    "1914"
+   ],
+   "a": 0,
+   "w": "After outcry."
+  },
+  {
+   "q": "Adwa was won by...",
+   "o": [
+    "Haile Selassie",
+    "Cecil Rhodes",
+    "Lord Kitchener",
+    "Menelik II"
+   ],
+   "a": 3,
+   "w": "1 March 1896."
+  },
+  {
+   "q": "Which weapon helped Europeans?",
+   "o": [
+    "Atom bomb",
+    "Maxim gun",
+    "Catapult",
+    "Longbow"
+   ],
+   "a": 1,
+   "w": "Rapid-fire."
+  },
+  {
+   "q": "Herero and Nama genocide was by...",
+   "o": [
+    "Britain",
+    "France",
+    "Germany",
+    "Italy"
+   ],
+   "a": 2,
+   "w": "1904-08."
+  },
+  {
+   "q": "The Uganda Railway workforce came from...",
+   "o": [
+    "China",
+    "Japan",
+    "Brazil",
+    "India"
+   ],
+   "a": 3,
+   "w": "Indentured labourers."
+  },
+  {
+   "q": "Gandhi's satyagraha began in...",
+   "o": [
+    "South Africa",
+    "India",
+    "England",
+    "Burma"
+   ],
+   "a": 0,
+   "w": "1906."
+  }
+ ],
+ "sources": [
+  "Pakenham, The Scramble for Africa (1991); Hochschild, King Leopold's Ghost (1998); Förster et al., On the Bismarck Conference; Gandhi, Satyagraha in South Africa"
+ ],
+ "verified": "2026-11-10"
+}

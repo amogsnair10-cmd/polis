@@ -1,0 +1,164 @@
+{
+ "id": "5-1-0",
+ "title": "The Industrial Revolution",
+ "emoji": "🏭",
+ "cards": [
+  {
+   "tag": "Why this matters",
+   "h": "Why did a rainy island change how the whole world works?",
+   "b": "<p>Around 1760, one small country began making things with machines and coal instead of hands and muscle. Within a century, the world had factories, railways and slums.</p><p>That island was Britain. The question is why.</p>"
+  },
+  {
+   "tag": "The story",
+   "h": "Coal, cotton and steam",
+   "b": "<svg class=\"d\" viewBox=\"0 0 320 214\"><defs><marker id=\"ar1\" markerWidth=\"8\" markerHeight=\"8\" refX=\"4\" refY=\"4\" orient=\"auto\"><path d=\"M0,0 L8,4 L0,8 z\" fill=\"#5d6474\"/></marker></defs><rect x=\"16\" y=\"2\" width=\"288\" height=\"28\" rx=\"6\" fill=\"#f1e4c6\" stroke=\"#a8792a\"/><text x=\"160\" y=\"20\" font-size=\"11\" text-anchor=\"middle\" fill=\"#1d2433\">Cheap coal and iron near each other</text><line x1=\"160\" y1=\"30\" x2=\"160\" y2=\"42\" stroke=\"#5d6474\" stroke-width=\"1.5\" marker-end=\"url(#ar1)\"/><rect x=\"16\" y=\"44\" width=\"288\" height=\"28\" rx=\"6\" fill=\"#dceaec\" stroke=\"#2f6f7a\"/><text x=\"160\" y=\"62\" font-size=\"11\" text-anchor=\"middle\" fill=\"#1d2433\">Steam engines pump mines and drive machines</text><line x1=\"160\" y1=\"72\" x2=\"160\" y2=\"84\" stroke=\"#5d6474\" stroke-width=\"1.5\" marker-end=\"url(#ar1)\"/><rect x=\"16\" y=\"86\" width=\"288\" height=\"28\" rx=\"6\" fill=\"#f1e4c6\" stroke=\"#a8792a\"/><text x=\"160\" y=\"104\" font-size=\"11\" text-anchor=\"middle\" fill=\"#1d2433\">Cotton spinning and weaving move into factories</text><line x1=\"160\" y1=\"114\" x2=\"160\" y2=\"126\" stroke=\"#5d6474\" stroke-width=\"1.5\" marker-end=\"url(#ar1)\"/><rect x=\"16\" y=\"128\" width=\"288\" height=\"28\" rx=\"6\" fill=\"#dceaec\" stroke=\"#2f6f7a\"/><text x=\"160\" y=\"146\" font-size=\"11\" text-anchor=\"middle\" fill=\"#1d2433\">Railways carry goods and raw material</text><line x1=\"160\" y1=\"156\" x2=\"160\" y2=\"168\" stroke=\"#5d6474\" stroke-width=\"1.5\" marker-end=\"url(#ar1)\"/><rect x=\"16\" y=\"170\" width=\"288\" height=\"28\" rx=\"6\" fill=\"#f1e4c6\" stroke=\"#a8792a\"/><text x=\"160\" y=\"188\" font-size=\"11\" text-anchor=\"middle\" fill=\"#1d2433\">Cities swell with workers</text></svg><p>Thomas Newcomen built an early steam engine in 1712. <b>James Watt</b> greatly improved it from the 1760s-70s. Spinning machines such as Hargreaves's jenny and Arkwright's water frame (1760s) multiplied output.</p>"
+  },
+  {
+   "tag": "The turning point",
+   "h": "Rail and the city",
+   "b": "<p>The Liverpool and Manchester Railway opened in 1830, with Stephenson's engines. Manchester grew from a town into a vast 'cotton city'. Factories ran on fixed hours. Time itself got stricter.</p><p>Trade in raw cotton relied on slave plantations in the American South.</p>"
+  },
+  {
+   "tag": "The twist",
+   "h": "The human price",
+   "b": "<p>Workers, including young children, laboured 12-14 hours in noisy mills. Cities lacked clean water and drains, and cholera and typhus spread. Slow reforms followed, such as the Factory Act of 1833, which limited children's hours.</p><p>In the long run, living standards rose, but for several decades many people were worse off.</p>"
+  },
+  {
+   "tag": "The story",
+   "h": "Why Britain?",
+   "b": "<p>Historians argue. Ideas: coal near the surface, high wages that made machines worth building, an overseas empire for markets and raw materials, secure property rights and a culture of tinkering. Kenneth Pomeranz (<i>The Great Divergence</i>, 2000) stressed coal and colonies. No single cause is accepted by all.</p>"
+  },
+  {
+   "tag": "Myth vs fact",
+   "h": "Were the Luddites against technology?",
+   "b": "<b>Myth:</b> Luddites (1811-16) smashed machines because they hated progress.<b>Fact:</b> they were skilled textile workers protesting low pay and loss of their trade. Machine-breaking was a way to bargain. The government sent more troops against them than it had sent to fight Napoleon in some years; the law made machine-breaking punishable by death in 1812."
+  },
+  {
+   "tag": "Indian angle",
+   "h": "Meanwhile in India…",
+   "b": "<p>The weaver and the mill</p>"
+  },
+  {
+   "tag": "Recap",
+   "h": "Five takeaways, two puzzles",
+   "b": "<p><b>Five things to remember</b></p><ol><li>Britain began industrialising around 1760.</li><li>Coal, steam and cotton were central.</li><li>Factories brought both wealth and hardship.</li><li>Why Britain is debated.</li><li>India's textile industry suffered; railways came in 1853.</li></ol><p><b>Think about it</b></p><ul><li>Who gained and who lost in the early factory age?</li><li>What makes people smash machines?</li></ul>",
+   "cls": "exam"
+  }
+ ],
+ "quiz": [
+  {
+   "q": "Who greatly improved the steam engine?",
+   "o": [
+    "Stephenson",
+    "Arkwright",
+    "James Watt",
+    "Newcomen"
+   ],
+   "a": 2,
+   "w": "From the 1760s-70s."
+  },
+  {
+   "q": "The Liverpool-Manchester line opened in...",
+   "o": [
+    "1830",
+    "1760",
+    "1853",
+    "1900"
+   ],
+   "a": 0,
+   "w": "First inter-city railway."
+  },
+  {
+   "q": "The Factory Act of 1833 limited...",
+   "o": [
+    "Coal prices",
+    "Cotton exports",
+    "Trade with India",
+    "Children's working hours"
+   ],
+   "a": 3,
+   "w": "A first step."
+  },
+  {
+   "q": "The Luddites were...",
+   "o": [
+    "Inventors",
+    "Textile workers protesting for their jobs",
+    "Soldiers",
+    "Politicians"
+   ],
+   "a": 1,
+   "w": "1811-16."
+  },
+  {
+   "q": "'The Great Divergence' author...",
+   "o": [
+    "Kenneth Pomeranz",
+    "Eric Williams",
+    "Adam Smith",
+    "Karl Marx"
+   ],
+   "a": 0,
+   "w": "2000."
+  },
+  {
+   "q": "A main raw material for cotton mills came from...",
+   "o": [
+    "India only",
+    "Japan",
+    "Canada",
+    "Slave plantations"
+   ],
+   "a": 3,
+   "w": "Especially the American South."
+  },
+  {
+   "q": "India's first railway ran from...",
+   "o": [
+    "Delhi to Agra",
+    "Bombay to Thane",
+    "Calcutta to Patna",
+    "Madras to Pune"
+   ],
+   "a": 1,
+   "w": "1853."
+  },
+  {
+   "q": "Naoroji's theory was...",
+   "o": [
+    "Free trade",
+    "Swadeshi",
+    "The drain of wealth",
+    "Satyagraha"
+   ],
+   "a": 2,
+   "w": "Poverty and British Rule in India."
+  },
+  {
+   "q": "Jamsetji Tata started a mill in...",
+   "o": [
+    "Ahmedabad",
+    "Surat",
+    "Kanpur",
+    "Nagpur"
+   ],
+   "a": 3,
+   "w": "Empress Mills, 1874."
+  },
+  {
+   "q": "Which is a debated cause for Britain's lead?",
+   "o": [
+    "Coal and empire",
+    "The telescope",
+    "The printing press",
+    "Gunpowder"
+   ],
+   "a": 0,
+   "w": "Historians weigh many factors."
+  }
+ ],
+ "sources": [
+  "Allen, The British Industrial Revolution in Global Perspective (2009); Pomeranz (2000); Bairoch (1982); Naoroji, Poverty and Un-British Rule in India (1901)"
+ ],
+ "verified": "2026-11-10"
+}

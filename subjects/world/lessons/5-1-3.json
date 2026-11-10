@@ -1,0 +1,164 @@
+{
+ "id": "5-1-3",
+ "title": "The Opium Wars and China's Century of Humiliation",
+ "emoji": "💣",
+ "cards": [
+  {
+   "tag": "Why this matters",
+   "h": "A war fought over a drug the British grew in India",
+   "b": "<p>In 1839, a Chinese official named <b>Lin Zexu</b> seized over 1,000 tonnes of opium from foreign merchants in Canton and destroyed it in trenches with lime and salt water.</p><p>That act launched a war, and a century of pain China still remembers.</p>"
+  },
+  {
+   "tag": "The story",
+   "h": "Tea, silver and opium",
+   "b": "<svg class=\"d\" viewBox=\"0 0 320 214\"><defs><marker id=\"ar3\" markerWidth=\"8\" markerHeight=\"8\" refX=\"4\" refY=\"4\" orient=\"auto\"><path d=\"M0,0 L8,4 L0,8 z\" fill=\"#5d6474\"/></marker></defs><rect x=\"16\" y=\"2\" width=\"288\" height=\"28\" rx=\"6\" fill=\"#f1e4c6\" stroke=\"#a8792a\"/><text x=\"160\" y=\"20\" font-size=\"11\" text-anchor=\"middle\" fill=\"#1d2433\">Britain buys tea and silk from China</text><line x1=\"160\" y1=\"30\" x2=\"160\" y2=\"42\" stroke=\"#5d6474\" stroke-width=\"1.5\" marker-end=\"url(#ar3)\"/><rect x=\"16\" y=\"44\" width=\"288\" height=\"28\" rx=\"6\" fill=\"#dceaec\" stroke=\"#2f6f7a\"/><text x=\"160\" y=\"62\" font-size=\"11\" text-anchor=\"middle\" fill=\"#1d2433\">China wants silver, not British goods</text><line x1=\"160\" y1=\"72\" x2=\"160\" y2=\"84\" stroke=\"#5d6474\" stroke-width=\"1.5\" marker-end=\"url(#ar3)\"/><rect x=\"16\" y=\"86\" width=\"288\" height=\"28\" rx=\"6\" fill=\"#f1e4c6\" stroke=\"#a8792a\"/><text x=\"160\" y=\"104\" font-size=\"11\" text-anchor=\"middle\" fill=\"#1d2433\">Britain grows opium in Bengal and Bihar</text><line x1=\"160\" y1=\"114\" x2=\"160\" y2=\"126\" stroke=\"#5d6474\" stroke-width=\"1.5\" marker-end=\"url(#ar3)\"/><rect x=\"16\" y=\"128\" width=\"288\" height=\"28\" rx=\"6\" fill=\"#dceaec\" stroke=\"#2f6f7a\"/><text x=\"160\" y=\"146\" font-size=\"11\" text-anchor=\"middle\" fill=\"#1d2433\">Merchants smuggle opium into China</text><line x1=\"160\" y1=\"156\" x2=\"160\" y2=\"168\" stroke=\"#5d6474\" stroke-width=\"1.5\" marker-end=\"url(#ar3)\"/><rect x=\"16\" y=\"170\" width=\"288\" height=\"28\" rx=\"6\" fill=\"#f1e4c6\" stroke=\"#a8792a\"/><text x=\"160\" y=\"188\" font-size=\"11\" text-anchor=\"middle\" fill=\"#1d2433\">Silver drains out of China; addiction spreads</text></svg><p>The East India Company ran an opium monopoly in India and sold the drug at auction in Calcutta to private traders, who shipped it to China.</p>"
+  },
+  {
+   "tag": "The turning point",
+   "h": "First Opium War, 1839-42",
+   "b": "<p>Britain sent steam-powered warships and sepoys. China's old forts and ships were no match. The <b>Treaty of Nanjing</b> (1842) gave Britain Hong Kong, five treaty ports and a large payment, and a later treaty gave extra rights to foreigners. It was the first of the 'unequal treaties'.</p>"
+  },
+  {
+   "tag": "The twist",
+   "h": "Second war and a burned palace",
+   "b": "<p>In the Second Opium War (1856-60) Britain and France attacked again. In 1860 they looted and burned the <b>Summer Palace</b> in Beijing. Opium trade was legalised.</p><p>Meanwhile, the Taiping Rebellion (1850-64) tore China apart from inside. Estimates say over 20 million died.</p>"
+  },
+  {
+   "tag": "The story",
+   "h": "A 'century of humiliation'",
+   "b": "<p>Chinese tradition counts about 1839-1949: lost wars, foreign concessions, and the loss of Taiwan to Japan (1895). Many Chinese leaders today use this story to explain their desire for a strong state.</p><p>Hong Kong stayed British until 1 July 1997.</p>"
+  },
+  {
+   "tag": "Myth vs fact",
+   "h": "Was China just backward and closed?",
+   "b": "<b>Myth:</b> China refused to trade, so Britain had to force it open.<b>Fact:</b> China traded widely, through Canton under rules the Qing set. The dispute was over a drug that the government had banned, which merchants smuggled. Historians still argue how much opium harmed China's economy, but the war itself began over this trade."
+  },
+  {
+   "tag": "Indian angle",
+   "h": "Meanwhile in India…",
+   "b": "<p>Poppy fields and Bombay fortunes</p>"
+  },
+  {
+   "tag": "Recap",
+   "h": "Five takeaways, two puzzles",
+   "b": "<p><b>Five things to remember</b></p><ol><li>Opium paid for British tea.</li><li>Lin Zexu destroyed opium in 1839.</li><li>The Treaty of Nanjing (1842) gave Hong Kong.</li><li>The Summer Palace was burned in 1860.</li><li>India's opium revenue fed the empire.</li></ol><p><b>Think about it</b></p><ul><li>Is a trade that harms a country ever 'free'?</li><li>How does a past humiliation shape policy today?</li></ul>",
+   "cls": "exam"
+  }
+ ],
+ "quiz": [
+  {
+   "q": "Lin Zexu was...",
+   "o": [
+    "A British admiral",
+    "A Mongol khan",
+    "A Chinese commissioner",
+    "A Japanese shogun"
+   ],
+   "a": 2,
+   "w": "He seized opium in 1839."
+  },
+  {
+   "q": "The Treaty of Nanjing was in...",
+   "o": [
+    "1842",
+    "1839",
+    "1860",
+    "1895"
+   ],
+   "a": 0,
+   "w": "After the First Opium War."
+  },
+  {
+   "q": "Britain gained...",
+   "o": [
+    "Beijing",
+    "Taiwan",
+    "Macao",
+    "Hong Kong"
+   ],
+   "a": 3,
+   "w": "Until 1997."
+  },
+  {
+   "q": "Opium for China was grown mostly in...",
+   "o": [
+    "Japan",
+    "British India",
+    "Egypt",
+    "Persia"
+   ],
+   "a": 1,
+   "w": "Bengal, Bihar, Malwa."
+  },
+  {
+   "q": "The Summer Palace was burned in...",
+   "o": [
+    "1860",
+    "1842",
+    "1895",
+    "1911"
+   ],
+   "a": 0,
+   "w": "By Anglo-French forces."
+  },
+  {
+   "q": "The Taiping Rebellion lasted...",
+   "o": [
+    "1839-42",
+    "1900",
+    "1911",
+    "1850-64"
+   ],
+   "a": 3,
+   "w": "Over 20 million died."
+  },
+  {
+   "q": "The treaties were called...",
+   "o": [
+    "Free trade pacts",
+    "Unequal treaties",
+    "Peace of Westphalia",
+    "Pax Britannica"
+   ],
+   "a": 1,
+   "w": "They favoured foreigners."
+  },
+  {
+   "q": "Jamsetjee Jejeebhoy was a...",
+   "o": [
+    "Mughal prince",
+    "Chinese official",
+    "Parsi merchant of Bombay",
+    "Dutch admiral"
+   ],
+   "a": 2,
+   "w": "Involved in the China trade."
+  },
+  {
+   "q": "The 'century of humiliation' roughly means...",
+   "o": [
+    "1368-1644",
+    "1800-1900",
+    "1945-2045",
+    "1839-1949"
+   ],
+   "a": 3,
+   "w": "A Chinese phrase."
+  },
+  {
+   "q": "Hong Kong returned to China in...",
+   "o": [
+    "1997",
+    "1842",
+    "1949",
+    "1911"
+   ],
+   "a": 0,
+   "w": "1 July."
+  }
+ ],
+ "sources": [
+  "Hanes & Sanello, The Opium Wars; Platt, Imperial Twilight (2018); Richards on Indian opium; Wong on Chinese views"
+ ],
+ "verified": "2026-11-10"
+}

@@ -53,5 +53,16 @@
   "theme": "odyssey",
   "soon": true,
   "foot": "Not for any exam. Just the best stories humans have to tell. Your progress stays on this phone."
+ },
+ {
+  "id": "communism",
+  "name": "Communist Theory",
+  "full": "Marx to Mao and beyond, with the critiques",
+  "title": "Manifesto",
+  "motto": "One lesson a day.<br>The whole red thread, from Marx to now.",
+  "dir": "subjects/communism",
+  "theme": "manifesto",
+  "soon": true,
+  "foot": "A study course, not an endorsement: every lesson includes the strongest criticisms. Your progress stays on this phone."
  }
 ]

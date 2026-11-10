@@ -1,0 +1,167 @@
+[
+ {
+  "p": "Part I",
+  "t": "Before and Around Marx",
+  "units": [
+   [
+    "Roots",
+    [
+     "Utopian Socialists: Owen, Fourier, Saint-Simon",
+     "Hegel, the Young Hegelians and Feuerbach",
+     "Proudhon, Blanqui and the Early Workers' Movements"
+    ],
+    1
+   ]
+  ]
+ },
+ {
+  "p": "Part II",
+  "t": "Marx and Engels",
+  "units": [
+   [
+    "The system",
+    [
+     "Historical Materialism",
+     "Alienation and Human Nature",
+     "Capital: Value, Surplus Value and Crisis",
+     "Class, State and Revolution",
+     "The Paris Commune and the Dictatorship of the Proletariat",
+     "Engels: Dialectics, the Family and the State"
+    ],
+    1
+   ],
+   [
+    "The great split",
+    [
+     "The Second International: Kautsky, Bernstein and Revisionism",
+     "Rosa Luxemburg: Reform or Revolution",
+     "Anarchism vs Marxism: Bakunin and Kropotkin"
+    ],
+    1
+   ]
+  ]
+ },
+ {
+  "p": "Part III",
+  "t": "Lenin and the Soviet Experiment",
+  "units": [
+   [
+    "Leninism",
+    [
+     "Lenin: The Vanguard Party",
+     "Imperialism, the Highest Stage of Capitalism",
+     "State and Revolution and 1917",
+     "War Communism, NEP and the Soviet State"
+    ],
+    1
+   ],
+   [
+    "After Lenin",
+    [
+     "Trotsky and Permanent Revolution",
+     "Stalin: Socialism in One Country",
+     "Collectivisation, Industrialisation and the Gulag",
+     "Khrushchev, De-Stalinisation and the Thaw",
+     "Brezhnev, Stagnation and Gorbachev's Reforms",
+     "Why the Soviet Union Collapsed"
+    ],
+    1
+   ]
+  ]
+ },
+ {
+  "p": "Part IV",
+  "t": "Western Marxism",
+  "units": [
+   [
+    "Culture and consciousness",
+    [
+     "Lukács: Class Consciousness and Reification",
+     "Gramsci: Hegemony and the War of Position",
+     "The Frankfurt School: Adorno, Horkheimer, Marcuse",
+     "Althusser and Structural Marxism",
+     "Sartre, Existentialism and Marxism"
+    ],
+    1
+   ]
+  ]
+ },
+ {
+  "p": "Part V",
+  "t": "Revolutions of the Global South",
+  "units": [
+   [
+    "China",
+    [
+     "Mao: Peasant Revolution and the Long March",
+     "Mao's Theory: Contradiction, Mass Line, New Democracy",
+     "Great Leap Forward and the Cultural Revolution",
+     "Deng Xiaoping and Socialism with Chinese Characteristics"
+    ],
+    1
+   ],
+   [
+    "Asia, Latin America and Africa",
+    [
+     "Ho Chi Minh and Vietnam",
+     "Castro and the Cuban Revolution",
+     "Che Guevara and the Foco Theory",
+     "Cambodia and the Khmer Rouge",
+     "African Socialism: Nyerere, Nkrumah, Sankara",
+     "Liberation Theology and Allende's Chile"
+    ],
+    1
+   ],
+   [
+    "India",
+    [
+     "Communism in India: M.N. Roy to the CPI(M)",
+     "Naxalbari, Charu Majumdar and Maoism in India"
+    ],
+    1
+   ]
+  ]
+ },
+ {
+  "p": "Part VI",
+  "t": "After 1968",
+  "units": [
+   [
+    "New directions",
+    [
+     "Eurocommunism and the New Left",
+     "Dependency and World-Systems: Frank, Amin, Wallerstein",
+     "Analytical Marxism and G.A. Cohen",
+     "Post-Marxism: Laclau, Mouffe and Žižek",
+     "Marxist Feminism and Social Reproduction",
+     "Eco-Socialism and Degrowth"
+    ],
+    1
+   ]
+  ]
+ },
+ {
+  "p": "Part VII",
+  "t": "The Reckoning",
+  "units": [
+   [
+    "Criticisms",
+    [
+     "The Economic Critique: Mises, Hayek and the Calculation Problem",
+     "The Liberal Critique: Popper, Berlin, Arendt",
+     "Totalitarianism, Famines and the Human Cost",
+     "The Dissidents: Djilas, Solzhenitsyn, Havel"
+    ],
+    1
+   ],
+   [
+    "Today",
+    [
+     "Communist States Today: China, Vietnam, Cuba, Laos, North Korea",
+     "Is Marx Still Relevant? Inequality, Platforms and Crisis"
+    ],
+    1
+   ]
+  ]
+ }
+]
