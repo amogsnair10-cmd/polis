@@ -1,0 +1,176 @@
+{
+ "id": "0-0-2",
+ "title": "Landforms and Geomorphic Processes",
+ "emoji": "⛰️",
+ "cards": [
+  {
+   "tag": "Why this matters",
+   "h": "Landforms are the Earth's fingerprints",
+   "b": "<p>Every hill, delta and dune is the result of a tug of war between forces that build land and forces that wear it down. GS I asks for this reasoning, often through Indian examples such as ravines, karst or the Sundarbans.</p>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "Endogenic and exogenic forces",
+   "b": "<svg class=\"d\" viewBox=\"0 0 320 150\"><rect x=\"10\" y=\"8\" width=\"145\" height=\"60\" rx=\"6\" fill=\"#f4dcd5\" stroke=\"#a3362a\" stroke-width=\"1.5\"/><text x=\"82\" y=\"30\" fill=\"#a3362a\" font-size=\"12\" text-anchor=\"middle\" font-weight=\"700\">Endogenic</text><text x=\"82\" y=\"46\" fill=\"#5d6474\" font-size=\"10\" text-anchor=\"middle\">From inside the Earth</text><text x=\"82\" y=\"60\" fill=\"#5d6474\" font-size=\"10\" text-anchor=\"middle\">Build relief</text><rect x=\"165\" y=\"8\" width=\"145\" height=\"60\" rx=\"6\" fill=\"#dceaec\" stroke=\"#2f6f7a\" stroke-width=\"1.5\"/><text x=\"237\" y=\"30\" fill=\"#2f6f7a\" font-size=\"12\" text-anchor=\"middle\" font-weight=\"700\">Exogenic</text><text x=\"237\" y=\"46\" fill=\"#5d6474\" font-size=\"10\" text-anchor=\"middle\">Sun, water, wind, ice</text><text x=\"237\" y=\"60\" fill=\"#5d6474\" font-size=\"10\" text-anchor=\"middle\">Wear down relief</text><rect x=\"10\" y=\"78\" width=\"300\" height=\"64\" rx=\"6\" fill=\"#f1e4c6\" stroke=\"#a8792a\" stroke-width=\"1.5\"/><text x=\"160\" y=\"98\" fill=\"#7d5a1c\" font-size=\"12\" text-anchor=\"middle\" font-weight=\"700\">Gradation</text><text x=\"160\" y=\"114\" fill=\"#5d6474\" font-size=\"10\" text-anchor=\"middle\">Exogenic work levels land: degradation (erosion)</text><text x=\"160\" y=\"130\" fill=\"#5d6474\" font-size=\"10\" text-anchor=\"middle\">and aggradation (deposition)</text></svg><p><b>Endogenic</b> forces (volcanism, folding, faulting) create relief. <b>Exogenic</b> forces (weathering, erosion, transport, deposition) reduce it. Landforms are the net result. Sudden endogenic events are earthquakes and volcanoes; slow ones are mountain building and warping.</p>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "Weathering and mass movement",
+   "b": "<p><b>Weathering</b> breaks rock in place, with no transport. Physical (frost, exfoliation from day-night heating), chemical (oxidation, carbonation, solution) and biological types act together. Warm, wet climates favour chemical action, giving thick soils and <b>laterite</b>.</p><p><b>Mass movement</b> is the downslope shift of material under gravity: creep, flow, slide, fall. Heavy rain, steep slopes and cut roads trigger Himalayan landslides.</p>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "Running water: the strongest agent",
+   "b": "<svg class=\"d\" viewBox=\"0 0 320 144\"><rect x=\"10\" y=\"6\" width=\"95\" height=\"40\" rx=\"6\" fill=\"#dceaec\" stroke=\"#2f6f7a\" stroke-width=\"1.5\"/><text x=\"57.5\" y=\"30.0\" fill=\"#2f6f7a\" font-size=\"11\" text-anchor=\"middle\" font-weight=\"700\">Upper course</text><rect x=\"111\" y=\"6\" width=\"199\" height=\"40\" rx=\"6\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"210.5\" y=\"30.0\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\">V-valley, rapids, waterfalls, gorges</text><rect x=\"10\" y=\"52\" width=\"95\" height=\"40\" rx=\"6\" fill=\"#f1e4c6\" stroke=\"#a8792a\" stroke-width=\"1.5\"/><text x=\"57.5\" y=\"76.0\" fill=\"#7d5a1c\" font-size=\"11\" text-anchor=\"middle\" font-weight=\"700\">Middle course</text><rect x=\"111\" y=\"52\" width=\"199\" height=\"40\" rx=\"6\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"210.5\" y=\"76.0\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\">Meanders, wide valley, flood plain</text><rect x=\"10\" y=\"98\" width=\"95\" height=\"40\" rx=\"6\" fill=\"#f4dcd5\" stroke=\"#a3362a\" stroke-width=\"1.5\"/><text x=\"57.5\" y=\"122.0\" fill=\"#a3362a\" font-size=\"11\" text-anchor=\"middle\" font-weight=\"700\">Lower course</text><rect x=\"111\" y=\"98\" width=\"199\" height=\"40\" rx=\"6\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"210.5\" y=\"122.0\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\">Oxbow lakes, levees, delta, distributaries</text></svg><p>Rivers cut valleys upstream and deposit downstream. Key forms: waterfalls (Jog on the Sharavati, Hogenakkal), meanders, oxbow lakes, <b>alluvial fans</b> where a river leaves hills, and <b>deltas</b> where it meets the sea. Rivers hit by a base-level fall or uplift cut deep gorges.</p>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "Glaciers",
+   "b": "<svg class=\"d\" viewBox=\"0 0 320 128\"><rect x=\"10\" y=\"6\" width=\"60\" height=\"26\" rx=\"6\" fill=\"#f1e4c6\" stroke=\"#a8792a\" stroke-width=\"1.5\"/><text x=\"40.0\" y=\"23\" fill=\"#7d5a1c\" font-size=\"11\" text-anchor=\"middle\" font-weight=\"700\"></text><rect x=\"70\" y=\"6\" width=\"120\" height=\"26\" rx=\"6\" fill=\"#f1e4c6\" stroke=\"#a8792a\" stroke-width=\"1.5\"/><text x=\"130.0\" y=\"23\" fill=\"#7d5a1c\" font-size=\"11\" text-anchor=\"middle\" font-weight=\"700\">Erosional</text><rect x=\"190\" y=\"6\" width=\"120\" height=\"26\" rx=\"6\" fill=\"#f1e4c6\" stroke=\"#a8792a\" stroke-width=\"1.5\"/><text x=\"250.0\" y=\"23\" fill=\"#7d5a1c\" font-size=\"11\" text-anchor=\"middle\" font-weight=\"700\">Depositional</text><rect x=\"10\" y=\"32\" width=\"60\" height=\"30\" rx=\"0\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"40.0\" y=\"51\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\" font-weight=\"700\">Valley</text><rect x=\"70\" y=\"32\" width=\"120\" height=\"30\" rx=\"0\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"130.0\" y=\"51\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\">Cirque, arete, horn</text><rect x=\"190\" y=\"32\" width=\"120\" height=\"30\" rx=\"0\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"250.0\" y=\"51\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\">Moraine</text><rect x=\"10\" y=\"62\" width=\"60\" height=\"30\" rx=\"0\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"40.0\" y=\"81\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\" font-weight=\"700\">Plain</text><rect x=\"70\" y=\"62\" width=\"120\" height=\"30\" rx=\"0\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"130.0\" y=\"81\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\">U-valley, fjord</text><rect x=\"190\" y=\"62\" width=\"120\" height=\"30\" rx=\"0\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"250.0\" y=\"81\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\">Drumlin, esker</text><rect x=\"10\" y=\"92\" width=\"60\" height=\"30\" rx=\"0\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"40.0\" y=\"111\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\" font-weight=\"700\">Name</text><rect x=\"70\" y=\"92\" width=\"120\" height=\"30\" rx=\"0\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"130.0\" y=\"111\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\">Plucking, abrasion</text><rect x=\"190\" y=\"92\" width=\"120\" height=\"30\" rx=\"0\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"250.0\" y=\"111\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\">Till, outwash</text></svg><p>Ice cuts <b>U-shaped valleys</b>, scoops <b>cirques</b>, and leaves sharp <b>arete</b> ridges and pyramid <b>horns</b> (Matterhorn). It dumps <b>moraines</b>, and shapes <b>drumlins</b> and <b>eskers</b>. Siachen, Gangotri and Zemu are Indian glaciers. Kumaon-Garhwal glacial lakes and \"hanging valleys\" are common.</p>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "Wind, groundwater and sea",
+   "b": "<p><b>Wind</b> works in dry lands: deflation hollows, mushroom rocks, yardangs, crescent <b>barchans</b> and fine <b>loess</b> deposits (China).</p><p><b>Groundwater</b> in limestone makes <b>karst</b>: sinkholes, caves, stalactites. <b>Waves</b> build cliffs, stacks, spits and bars, and form beaches.</p><svg class=\"d\" viewBox=\"0 0 320 150\"><path d=\"M10 40 L310 40 L310 140 L10 140 Z\" fill=\"#f1e4c6\" stroke=\"#a8792a\" stroke-width=\"1.5\"/><path d=\"M110 40 Q160 70 210 40\" fill=\"#fff\" stroke=\"#a8792a\"/><path d=\"M80 100 L240 100 L240 130 L80 130 Z\" fill=\"#fff\" stroke=\"#2f6f7a\"/><line x1=\"130\" y1=\"100\" x2=\"130\" y2=\"114\" stroke=\"#7d5a1c\" stroke-width=\"3\"/><line x1=\"180\" y1=\"100\" x2=\"180\" y2=\"116\" stroke=\"#7d5a1c\" stroke-width=\"3\"/><line x1=\"130\" y1=\"130\" x2=\"130\" y2=\"118\" stroke=\"#7d5a1c\" stroke-width=\"3\"/><line x1=\"180\" y1=\"130\" x2=\"180\" y2=\"120\" stroke=\"#7d5a1c\" stroke-width=\"3\"/><text x=\"160\" y=\"32\" fill=\"#a3362a\" font-size=\"10\" text-anchor=\"middle\" font-weight=\"700\">Sinkhole at the surface</text><text x=\"160\" y=\"90\" fill=\"#5d6474\" font-size=\"10\" text-anchor=\"middle\">Limestone dissolved by acid water</text><text x=\"160\" y=\"148\" fill=\"#2f6f7a\" font-size=\"10\" text-anchor=\"middle\" font-weight=\"700\">Cave: stalactites hang, stalagmites rise</text></svg>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "Major relief types",
+   "b": "<p><b>Mountains:</b> fold (Himalaya, Alps), block or horst (Vosges, Black Forest), volcanic (Fuji), and residual or relict (Aravalli, Nilgiri). <b>Plateaus:</b> intermontane (Tibet), piedmont and continental (Deccan). <b>Plains:</b> erosional (peneplain) and depositional (Indo-Gangetic, alluvial).</p><p>The <b>Aravalli</b> are among the oldest fold ranges, now worn down. The <b>Rift valley</b> of the Narmada and Tapi is a down-faulted block, a graben.</p>"
+  },
+  {
+   "tag": "Debate",
+   "h": "Davis, Penck and the cycle of erosion",
+   "b": "<p><b>W.M. Davis (1899)</b> proposed a \"cycle\": uplift, then youth, maturity and old age ending in a flat peneplain. <b>Walther Penck (1924)</b> argued uplift and erosion work together, so slopes retreat in parallel.</p><p>Critics say Davis assumed a quick uplift followed by a calm period. Modern geomorphology favours dynamic equilibrium and human activity as a driver: mining, dams and farming now move more earth than many rivers.</p>"
+  },
+  {
+   "tag": "Indian angle",
+   "h": "Indian landforms at a glance",
+   "b": "<p><b>Ravines and badlands:</b> Chambal and Yamuna, formed by gully erosion in soft alluvium. <b>Barchans:</b> Thar. <b>Karst:</b> Meghalaya (Mawsmai and Krem Liat Prah caves), Chhattisgarh (Kutumsar) and Borra caves in Andhra Pradesh.</p><p><b>Delta:</b> Ganga-Brahmaputra, the world's largest, with the Sundarbans mangroves. Coastal erosion eats Kerala's shores. Himalayan landslides, as at Joshimath (2023, subsidence), show human pressure on fragile slopes.</p>"
+  },
+  {
+   "tag": "Exam lens",
+   "cls": "exam",
+   "h": "How to write this",
+   "b": "<div class=\"box\"><h4>Likely questions</h4><p>\"Explain the role of running water in shaping the Indian landscape.\" (10 marks)</p><p>\"Differentiate between weathering, erosion and mass wasting.\" (10 marks)</p></div><p><b>Structure:</b> split into endogenic and exogenic; then agent by agent, with a landform and an Indian example each.</p><p><b>Prelims tip:</b> know the agent behind each landform (U-valley = glacier, barchan = wind, stalactite = groundwater, oxbow = river).</p>"
+  }
+ ],
+ "quiz": [
+  {
+   "q": "Which is a depositional glacial landform?",
+   "o": [
+    "Cirque",
+    "Arete",
+    "Horn",
+    "Esker"
+   ],
+   "a": 3,
+   "w": "Eskers are ridges of sand and gravel left by meltwater streams. The others are erosional."
+  },
+  {
+   "q": "Barchans are formed by",
+   "o": [
+    "Running water",
+    "Wind",
+    "Glaciers",
+    "Sea waves"
+   ],
+   "a": 1,
+   "w": "They are crescent sand dunes in deserts like the Thar."
+  },
+  {
+   "q": "Stalactites are found in",
+   "o": [
+    "Glacial valleys",
+    "Limestone caves",
+    "River deltas",
+    "Volcanic craters"
+   ],
+   "a": 1,
+   "w": "Dripping water leaves calcium carbonate hanging from cave roofs."
+  },
+  {
+   "q": "Exogenic forces mainly",
+   "o": [
+    "Build mountains",
+    "Cause earthquakes",
+    "Create plates",
+    "Wear down relief"
+   ],
+   "a": 3,
+   "w": "Weathering, erosion and deposition are exogenic."
+  },
+  {
+   "q": "Who proposed the cycle of erosion in 1899?",
+   "o": [
+    "W.M. Davis",
+    "Walther Penck",
+    "Alfred Wegener",
+    "Harry Hess"
+   ],
+   "a": 0,
+   "w": "Davis: youth, maturity, old age; Penck later challenged the idea."
+  },
+  {
+   "q": "Oxbow lakes form in the",
+   "o": [
+    "Glacial valley",
+    "Cave system",
+    "Lower course of a river",
+    "Upper course of a river"
+   ],
+   "a": 2,
+   "w": "Meander loops are cut off after deposition seals the neck."
+  },
+  {
+   "q": "Ravines in the Chambal are an example of",
+   "o": [
+    "Glacial plucking",
+    "Wind deflation",
+    "Karst solution",
+    "Gully erosion"
+   ],
+   "a": 3,
+   "w": "Water cuts deep gullies in soft alluvium."
+  },
+  {
+   "q": "Mawsmai cave is in",
+   "o": [
+    "Meghalaya",
+    "Chhattisgarh",
+    "Andhra Pradesh",
+    "Uttarakhand"
+   ],
+   "a": 0,
+   "w": "It is a limestone karst cave near Cherrapunji. Borra is in Andhra; Kutumsar in Chhattisgarh."
+  },
+  {
+   "q": "Loess is a deposit made by",
+   "o": [
+    "River floods",
+    "Ice sheets",
+    "Wind",
+    "Waves"
+   ],
+   "a": 2,
+   "w": "Fine silt carried by wind, famous in China."
+  },
+  {
+   "q": "Weathering differs from erosion because",
+   "o": [
+    "It breaks rock without moving it",
+    "It needs a glacier",
+    "It acts only underwater",
+    "It builds relief"
+   ],
+   "a": 0,
+   "w": "Erosion includes transport; weathering is in place."
+  }
+ ],
+ "sources": [
+  "NCERT Class 11, Fundamentals of Physical Geography, ch. 5-7",
+  "G.C. Leong, Certificate Physical and Human Geography",
+  "PYQ: landforms and Indian ravines, GS I"
+ ],
+ "verified": "2026-11-10"
+}

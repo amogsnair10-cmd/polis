@@ -1,0 +1,171 @@
+{
+ "id": "3-2-0",
+ "title": "The Revolt of 1857: Causes, Course, Consequences",
+ "emoji": "🔥",
+ "cards": [
+  {
+   "tag": "Why this matters",
+   "h": "The first big challenge to Company rule",
+   "b": "<p>1857 is the single most examined event in modern India. Know its causes in layers, who led where, and what changed afterwards. The name itself is a debate.</p>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "Causes in layers",
+   "b": "<ul><li><b>Political</b>: Doctrine of Lapse, annexation of Awadh, pension stops for Nana Sahib, insult to the Mughal emperor.</li><li><b>Economic</b>: land revenue, loss of jobs for artisans, taluqdars dispossessed in Awadh.</li><li><b>Social and religious</b>: fear of conversion; laws on widow remarriage and the Religious Disabilities Act 1850.</li><li><b>Military</b>: low pay, the General Service Enlistment Act 1856 (overseas service), caste insults, discrimination.</li><li><b>Immediate</b>: the Enfield rifle cartridge, said to be greased with cow and pig fat.</li></ul>"
+  },
+  {
+   "tag": "Key event",
+   "h": "The outbreak",
+   "b": "<p>Mangal Pandey of the 34th Native Infantry was hanged at Barrackpore in March 1857. On <b>10 May 1857</b> sepoys at Meerut rose, freed their comrades and marched to Delhi. They proclaimed <b>Bahadur Shah Zafar</b> as emperor. Soon Kanpur, Lucknow, Jhansi, Bihar (Arrah) and parts of central India joined. The Bengal army was the core. The Madras and Bombay armies and the Sikhs and Gurkhas largely stayed loyal.</p>"
+  },
+  {
+   "tag": "Key event",
+   "h": "Leaders and centres",
+   "b": "<ul><li><b>Delhi</b>: Bahadur Shah, Bakht Khan.</li><li><b>Kanpur</b>: Nana Sahib, with Tantia Tope.</li><li><b>Lucknow</b>: Begum Hazrat Mahal.</li><li><b>Jhansi</b>: Rani Lakshmibai.</li><li><b>Arrah (Bihar)</b>: Kunwar Singh.</li><li><b>Faizabad</b>: Maulvi Ahmadullah Shah.</li><li><b>Bareilly</b>: Khan Bahadur Khan.</li></ul>British commanders included John Nicholson, Henry Havelock, Colin Campbell, Hugh Rose."
+  },
+  {
+   "tag": "Key event",
+   "h": "Suppression",
+   "b": "<p>Delhi fell on 20 September 1857. Havelock and Campbell relieved Lucknow in November. Jhansi fell in April 1858 and Rani Lakshmibai died at Gwalior in June 1858. Tantia Tope was captured and executed in 1859. Bahadur Shah was exiled to Rangoon. Failures: no unified plan, no central leader, limited area (not the south or most of the east, nor Punjab), and unequal weapons. Many rulers and big landlords sided with the British.</p>"
+  },
+  {
+   "tag": "Debate",
+   "h": "Mutiny, war of independence, or revolt?",
+   "b": "<p>British writers (Lawrence, Kaye) called it a <b>sepoy mutiny</b>. V. D. Savarkar called it the <b>First War of Independence</b>. R. C. Majumdar said it was neither first, nor national, nor a war of independence. S. B. Chaudhuri saw a civil rebellion. Marxists such as Rajni Palme Dutt saw a peasants’ rising. Eric Stokes and Ranajit Guha studied the peasant side. Bipan Chandra calls it a “massive revolt” but without a modern national idea.</p>"
+  },
+  {
+   "tag": "Key idea",
+   "h": "Consequences",
+   "b": "<ul><li><b>Government of India Act 1858</b>: the Crown took over; Secretary of State and a Council in London; Viceroy; Queen’s Proclamation, 1 November 1858.</li><li>The Company’s Army reorganised: more British soldiers, artillery with Europeans.</li><li>“Divide and rule” sharpened.</li><li>Policy of friendship with princes: no more annexations.</li><li>Interest in social reform dropped.</li></ul>"
+  },
+  {
+   "tag": "Indian angle",
+   "h": "Why it matters today",
+   "b": "<p>Memorials in Delhi, Jhansi, Lucknow and Kanpur and stamps show the revolt’s place in the national story. 2007–08 saw a 150th anniversary debate on the name. The Queen’s Proclamation promised equal treatment, a promise often used by early nationalists.</p>"
+  },
+  {
+   "tag": "Exam lens",
+   "h": "How to answer",
+   "b": "<ul><li>“The Revolt of 1857 was not a sepoy mutiny but a popular rising. Comment.”</li><li>“Why did it fail?”</li><li>“Assess its consequences.”</li><li>Prelims tip: match the leader with the centre; remember the Act of 1858 and the Proclamation; Meerut 10 May 1857.</li></ul>",
+   "cls": "exam"
+  }
+ ],
+ "quiz": [
+  {
+   "q": "The Revolt of 1857 began at",
+   "o": [
+    "Barrackpore",
+    "Delhi",
+    "Kanpur",
+    "Meerut"
+   ],
+   "a": 3,
+   "w": "Sepoys rose at Meerut on 10 May 1857."
+  },
+  {
+   "q": "Mangal Pandey belonged to",
+   "o": [
+    "3rd Cavalry at Meerut",
+    "Bengal Artillery",
+    "34th Native Infantry at Barrackpore",
+    "Madras Rifles"
+   ],
+   "a": 2,
+   "w": "He attacked officers in March 1857."
+  },
+  {
+   "q": "Who led the revolt at Lucknow?",
+   "o": [
+    "Rani Lakshmibai",
+    "Begum Hazrat Mahal",
+    "Kunwar Singh",
+    "Nana Sahib"
+   ],
+   "a": 1,
+   "w": "She acted for her son Birjis Qadr."
+  },
+  {
+   "q": "Kunwar Singh led the revolt in",
+   "o": [
+    "Bihar (Arrah)",
+    "Kanpur",
+    "Jhansi",
+    "Bareilly"
+   ],
+   "a": 0,
+   "w": "He was a zamindar of Jagdishpur."
+  },
+  {
+   "q": "Who proclaimed the revolt as the First War of Independence?",
+   "o": [
+    "R. C. Majumdar",
+    "S. N. Sen",
+    "John Lawrence",
+    "V. D. Savarkar"
+   ],
+   "a": 3,
+   "w": "Savarkar’s 1909 book used this title."
+  },
+  {
+   "q": "The Queen’s Proclamation was issued on",
+   "o": [
+    "10 May 1857",
+    "1 August 1858",
+    "1 November 1858",
+    "15 August 1858"
+   ],
+   "a": 2,
+   "w": "Read out by Lord Canning at Allahabad."
+  },
+  {
+   "q": "The Government of India Act 1858",
+   "o": [
+    "Created the Viceroy’s Council of 1861",
+    "Ended Company rule and created the post of Secretary of State",
+    "Introduced provincial autonomy",
+    "Set up the Imperial Legislative Council"
+   ],
+   "a": 1,
+   "w": "The Crown took over the Company’s powers."
+  },
+  {
+   "q": "Which was not an area of major revolt?",
+   "o": [
+    "Punjab",
+    "Awadh",
+    "Central India",
+    "Bihar"
+   ],
+   "a": 0,
+   "w": "The Sikhs and the Punjab remained loyal to the Company."
+  },
+  {
+   "q": "The Tantia Tope was",
+   "o": [
+    "Commander of Delhi forces",
+    "Raja of Jhansi",
+    "Governor-General",
+    "Associate of Nana Sahib who was executed in 1859"
+   ],
+   "a": 3,
+   "w": "He was betrayed and hanged in April 1859."
+  },
+  {
+   "q": "Who wrote that the revolt was “neither first, nor national, nor a war of independence”?",
+   "o": [
+    "V. D. Savarkar",
+    "Ranajit Guha",
+    "R. C. Majumdar",
+    "Bipan Chandra"
+   ],
+   "a": 2,
+   "w": "This is Majumdar’s view."
+  }
+ ],
+ "sources": [
+  "Bipan Chandra, History of Modern India",
+  "Spectrum, Modern India",
+  "Mains-style: nature and causes of 1857"
+ ],
+ "verified": "2026-11-10"
+}

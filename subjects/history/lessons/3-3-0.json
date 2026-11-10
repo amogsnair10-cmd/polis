@@ -1,0 +1,176 @@
+{
+ "id": "3-3-0",
+ "title": "Reform Movements of the 19th Century",
+ "emoji": "🕯️",
+ "cards": [
+  {
+   "tag": "Why this matters",
+   "h": "Reform before freedom",
+   "b": "<p>Before political nationalism there was a social awakening. UPSC loves matching reformers, organisations, books and years, and asking about their method and limits.</p>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "Two currents",
+   "b": "<b>Reformist</b> movements used reason and law to fight sati, child marriage and caste. <b>Revivalist</b> ones went back to the past (the Arya Samaj’s “Back to the Vedas”). Both worked in the shadow of colonial rule, missionaries and English education. Hindu, Muslim, Parsi, Sikh and Christian reformers all took part."
+  },
+  {
+   "tag": "Key idea",
+   "h": "Raja Ram Mohan Roy and the Brahmo Samaj",
+   "b": "<p>Founded the Atmiya Sabha (1815) and the <b>Brahmo Samaj</b> (1828). Opposed sati, idolatry and polytheism. Lord Bentinck outlawed sati in <b>1829</b> (Regulation XVII). Roy wrote <i>Tuhfat-ul-Muwahhidin</i> and published <i>Sambad Kaumudi</i> and <i>Mirat-ul-Akhbar</i>. Debendranath Tagore revived the Samaj (Tattvabodhini Sabha, 1839). Keshub Chandra Sen split it in 1866. The Native Marriage Act 1872 followed.</p>"
+  },
+  {
+   "tag": "Key idea",
+   "h": "Bengal and Western India",
+   "b": "<ul><li><b>Ishwar Chandra Vidyasagar</b>: Widow Remarriage Act 1856; girls’ schools.</li><li><b>Derozio</b> and Young Bengal: free thought.</li><li><b>Ramakrishna and Vivekananda</b>: Ramakrishna Mission (1897). Vivekananda spoke at Chicago in 1893.</li><li><b>Prarthana Samaj</b> (1867, Atmaram Pandurang; Ranade, Bhandarkar).</li><li><b>Gopal Hari Deshmukh “Lokahitawadi”</b> and <b>Jotirao Phule</b> (Satyashodhak Samaj, 1873).</li></ul>"
+  },
+  {
+   "tag": "Key idea",
+   "h": "Arya Samaj and revivalism",
+   "b": "<p><b>Dayanand Saraswati</b> founded the <b>Arya Samaj</b> (Bombay, 1875), with <i>Satyarth Prakash</i> as its book. His slogan: “go back to the Vedas”. He opposed idol worship, caste by birth and child marriage, and ran the <i>shuddhi</i> movement. Lala Hansraj started the DAV schools (1886 at Lahore).</p><p>Theosophical Society: Madame Blavatsky and Colonel Olcott (New York 1875; Adyar 1882); Annie Besant led it and founded the Central Hindu College (1898) and the Home Rule League.</p>"
+  },
+  {
+   "tag": "Key idea",
+   "h": "Muslim, Parsi, Sikh reform",
+   "b": "<ul><li><b>Aligarh</b>: Sir Syed Ahmad Khan, Mohammedan Anglo-Oriental College (1875).</li><li><b>Deoband</b>: Muhammad Qasim Nanotvi (1866) — religious purity, later aligned with Congress.</li><li><b>Ahmadiyya</b> (1889), Mirza Ghulam Ahmad; <b>Wahabi</b>, Syed Ahmad Barelvi.</li><li><b>Parsi</b>: Rahnumae Mazdayasnan Sabha (1851), Naoroji and Behramji Malabari.</li><li><b>Sikh</b>: Singh Sabha (1873); Akali movement, 1920s.</li></ul>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "Methods and results",
+   "b": "<p>Reformers used journals, schools, petitions and legislation. Achievements: sati ban 1829, widow remarriage 1856, Age of Consent Act 1891 (raised to 12 after Malabari’s campaign), Special Marriage Act 1872, Sarda Act 1929. Limits: mostly urban and upper caste; ignored the lowest castes and peasants; rarely questioned colonial rule. Some reformers’ religious revivalism fed communal identities.</p>"
+  },
+  {
+   "tag": "Debate",
+   "h": "Renaissance or limited awakening?",
+   "b": "<p>Historians such as Sumit Sarkar question the word “renaissance”. Others see in these movements a rational base for nationalism, as Bipan Chandra argues. Dalit and feminist scholars say the reformers’ concerns were partial: they looked at women through upper-caste reform, and Phule and Ambedkar had to push further.</p>"
+  },
+  {
+   "tag": "Indian angle",
+   "h": "Why it matters today",
+   "b": "<p>The reform legacy underlies the Constitution’s Articles 14 to 17 and 25 to 28, the Hindu Code Bills (1955 to 56), and the Supreme Court’s 2018 Sabarimala and 2017 triple talaq (Shayara Bano) judgments. Debates on a Uniform Civil Code (Article 44) echo reformers’ questions.</p>"
+  },
+  {
+   "tag": "Exam lens",
+   "h": "How to answer",
+   "b": "<ul><li>“The 19th century reform movements were both reformist and revivalist. Discuss.”</li><li>“Role of Raja Ram Mohan Roy in modernising India.”</li><li>Prelims tip: match organisation to founder and year; Brahmo 1828, Prarthana 1867, Arya Samaj 1875, Satyashodhak 1873, Theosophical 1875.</li></ul>",
+   "cls": "exam"
+  }
+ ],
+ "quiz": [
+  {
+   "q": "The Brahmo Samaj was founded in",
+   "o": [
+    "1828",
+    "1815",
+    "1857",
+    "1875"
+   ],
+   "a": 0,
+   "w": "Raja Ram Mohan Roy founded it in Calcutta."
+  },
+  {
+   "q": "Sati was banned in",
+   "o": [
+    "1856 by Dalhousie",
+    "1891 by Lansdowne",
+    "1872 by Mayo",
+    "1829 by Bentinck"
+   ],
+   "a": 3,
+   "w": "Regulation XVII of 1829."
+  },
+  {
+   "q": "The Widow Remarriage Act was passed in",
+   "o": [
+    "1829",
+    "1872",
+    "1856",
+    "1891"
+   ],
+   "a": 2,
+   "w": "Vidyasagar’s campaign led to it."
+  },
+  {
+   "q": "The Arya Samaj was founded by",
+   "o": [
+    "Swami Vivekananda",
+    "Dayanand Saraswati",
+    "Ramakrishna",
+    "Annie Besant"
+   ],
+   "a": 1,
+   "w": "He founded it at Bombay in 1875."
+  },
+  {
+   "q": "Satyarth Prakash was written by",
+   "o": [
+    "Dayanand Saraswati",
+    "Vivekananda",
+    "Sir Syed",
+    "Phule"
+   ],
+   "a": 0,
+   "w": "It is the Arya Samaj’s main text."
+  },
+  {
+   "q": "The Satyashodhak Samaj was founded by",
+   "o": [
+    "Ranade",
+    "Gokhale",
+    "Ambedkar",
+    "Jotirao Phule"
+   ],
+   "a": 3,
+   "w": "Founded in 1873."
+  },
+  {
+   "q": "Who founded the Mohammedan Anglo-Oriental College?",
+   "o": [
+    "Nanotvi",
+    "Mirza Ghulam Ahmad",
+    "Sir Syed Ahmad Khan",
+    "Jinnah"
+   ],
+   "a": 2,
+   "w": "It became Aligarh Muslim University later."
+  },
+  {
+   "q": "Prarthana Samaj was founded in",
+   "o": [
+    "1828 in Calcutta",
+    "1867 in Bombay",
+    "1875 in Lahore",
+    "1882 in Adyar"
+   ],
+   "a": 1,
+   "w": "Atmaram Pandurang was its founder."
+  },
+  {
+   "q": "The Ramakrishna Mission was founded by",
+   "o": [
+    "Vivekananda in 1897",
+    "Dayanand in 1875",
+    "Keshub Sen in 1866",
+    "Annie Besant in 1893"
+   ],
+   "a": 0,
+   "w": "To spread service and Vedanta."
+  },
+  {
+   "q": "The Age of Consent Act (1891) is linked to",
+   "o": [
+    "Widow remarriage",
+    "Sati",
+    "Female education",
+    "Child marriage reform, with Malabari’s campaign"
+   ],
+   "a": 3,
+   "w": "It raised the age of consent to 12."
+  }
+ ],
+ "sources": [
+  "Bipan Chandra, History of Modern India",
+  "Spectrum, Modern India",
+  "Mains-style: reform movements"
+ ],
+ "verified": "2026-11-10"
+}

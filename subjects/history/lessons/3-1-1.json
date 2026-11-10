@@ -1,0 +1,176 @@
+{
+ "id": "3-1-1",
+ "title": "Education, Press and Administrative Changes",
+ "emoji": "📜",
+ "cards": [
+  {
+   "tag": "Why this matters",
+   "h": "The colonial state-building story",
+   "b": "<p>British rule built institutions that still run India: civil services, courts, police, schools, a free-ish press. It did so to serve empire. UPSC asks you to weigh both sides.</p>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "Administrative pillars",
+   "b": "<p>Lord Cornwallis, “father of the civil services”, separated revenue and justice, raised pay and created a covenanted service. The <b>steel frame</b> was the ICS. Police: district superintendent system (Cornwallis), Police Act 1861. Army: mostly Indian sepoys with British officers; recruitment later shifted to the “martial races” after 1857. Judiciary: Cornwallis Code (1793), the codification of laws by Macaulay (Law Commission 1833), High Courts Act 1861.</p>"
+  },
+  {
+   "tag": "Key idea",
+   "h": "Civil services",
+   "b": "<p>Entry by exam in London from 1855 (Indian Civil Service). Satyendranath Tagore was the first Indian in 1863. Age limit was cut to 19 in 1878 to keep Indians out. Indianisation was demanded by the Congress from 1885; simultaneous exams in India began only in 1922. The Lee Commission (1923 to 24) recommended direct recruitment, with 40% Europeans, 40% Indians direct and 20% promoted.</p>"
+  },
+  {
+   "tag": "Key idea",
+   "h": "Education policy",
+   "b": "<ul><li><b>Charter Act 1813</b>: Rs 1 lakh yearly for education.</li><li><b>Orientalist–Anglicist debate</b>: Macaulay’s Minute (1835) backed English; Bentinck accepted it.</li><li><b>Wood’s Despatch (1854)</b>: “Magna Carta of English education”; universities at Calcutta, Bombay, Madras (1857); departments of education; grants-in-aid; vernacular primary schools.</li><li><b>Hunter Commission (1882)</b>: primary and secondary education.</li><li><b>Sadler Commission (1917 to 19)</b>: universities.</li><li><b>Hartog Committee (1929)</b>: primary education.</li></ul>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "The “downward filtration” idea",
+   "b": "<p>Macaulay wanted an English-educated class to “filter” knowledge down to the masses. It never worked. Literacy was about 12% in 1947. Female and rural education lagged. Yet the English-educated class gave rise to the nationalist leadership and to reformers. Colleges also taught ideas of liberty and nation that were turned against the Raj.</p>"
+  },
+  {
+   "tag": "Key idea",
+   "h": "The Press",
+   "b": "<p>1780: <i>Hickey’s Bengal Gazette</i>, India’s first newspaper.</p><ul><li>Censorship Act 1799 (Wellesley).</li><li>Metcalfe freed the press in 1835 (the “liberator of the press”).</li><li>Licensing Act 1857.</li><li><b>Vernacular Press Act 1878</b> (Lytton) — repealed 1882 by Ripon.</li><li>Newspaper (Incitement to Offences) Act 1908; Indian Press Act 1910.</li></ul>Tilak’s <i>Kesari</i> and <i>Mahratta</i>, <i>Amrita Bazar Patrika</i>, <i>The Hindu</i> and <i>Bombay Chronicle</i> were nationalist voices."
+  },
+  {
+   "tag": "Key idea",
+   "h": "Law and policing",
+   "b": "<p>Regulating Act of 1773 set up the Supreme Court at Calcutta. Equal law was claimed, but there were separate courts for Europeans (the Ilbert Bill row of 1883, which gave Indian judges power over Europeans, was withdrawn in a diluted form). Sedition (S.124A) was added in 1870. The Arms Act 1878 disarmed Indians. Laws were written to protect the empire.</p>"
+  },
+  {
+   "tag": "Debate",
+   "h": "Gift or tool?",
+   "b": "<p>Colonial writers say that Britain gave India modern institutions. Nationalists such as Bipan Chandra reply that institutions were built to maintain the empire, and education was a means to produce clerks. Sumit Sarkar and others stress that Indians used these tools in their own ways. A balanced answer says: unintended gains, intended control.</p>"
+  },
+  {
+   "tag": "Indian angle",
+   "h": "Why it matters today",
+   "b": "<p>The All India Services, the IPC (now replaced by the Bharatiya Nyaya Sanhita, 2023, in force 1 July 2024), the district collector and the police structure all trace back here. The sedition law is in debate; the Supreme Court in 2022 put S.124A on hold. The three-language question and English medium still run on the Macaulay legacy.</p>"
+  },
+  {
+   "tag": "Exam lens",
+   "h": "How to answer",
+   "b": "<ul><li>“Macaulay’s Minute of 1835 and its impact.”</li><li>“The Indian Civil Service was the steel frame of the empire. Discuss.”</li><li>“Trace the growth of the press under the British.”</li><li>Prelims tip: Wood’s Despatch 1854, Hunter 1882, Sadler 1917, Hartog 1929; Vernacular Press Act 1878 by Lytton, repealed by Ripon.</li></ul>",
+   "cls": "exam"
+  }
+ ],
+ "quiz": [
+  {
+   "q": "Wood’s Despatch of 1854 is called",
+   "o": [
+    "Macaulay’s Minute",
+    "The Hunter Report",
+    "The Sadler Report",
+    "The Magna Carta of English education in India"
+   ],
+   "a": 3,
+   "w": "It laid the plan for universities and primary education."
+  },
+  {
+   "q": "Universities at Calcutta, Bombay and Madras were set up in",
+   "o": [
+    "1835",
+    "1882",
+    "1857",
+    "1904"
+   ],
+   "a": 2,
+   "w": "On the model of London University."
+  },
+  {
+   "q": "Who is known as the father of the civil services in India?",
+   "o": [
+    "Lord Ripon",
+    "Lord Cornwallis",
+    "Lord Curzon",
+    "Lord Dalhousie"
+   ],
+   "a": 1,
+   "w": "He created a well-paid covenanted service."
+  },
+  {
+   "q": "The first Indian to enter the ICS was",
+   "o": [
+    "Satyendranath Tagore",
+    "Surendranath Banerjea",
+    "R. C. Dutt",
+    "Aurobindo Ghose"
+   ],
+   "a": 0,
+   "w": "He joined in 1863."
+  },
+  {
+   "q": "Vernacular Press Act 1878 was passed under",
+   "o": [
+    "Ripon",
+    "Curzon",
+    "Canning",
+    "Lytton"
+   ],
+   "a": 3,
+   "w": "It was repealed by Ripon in 1882."
+  },
+  {
+   "q": "Who is called the liberator of the Indian press?",
+   "o": [
+    "Lord Wellesley",
+    "Lord Lytton",
+    "Charles Metcalfe",
+    "Lord Minto"
+   ],
+   "a": 2,
+   "w": "His 1835 Act repealed earlier curbs."
+  },
+  {
+   "q": "The first Indian newspaper was",
+   "o": [
+    "The Hindu",
+    "Hickey’s Bengal Gazette",
+    "Kesari",
+    "Amrita Bazar Patrika"
+   ],
+   "a": 1,
+   "w": "It began in 1780 under James Hickey."
+  },
+  {
+   "q": "The Hunter Commission (1882) dealt with",
+   "o": [
+    "Primary and secondary education",
+    "University education",
+    "Technical education",
+    "Female education only"
+   ],
+   "a": 0,
+   "w": "It stressed primary education and private effort."
+  },
+  {
+   "q": "The Lee Commission (1923 to 24) dealt with",
+   "o": [
+    "Police reforms",
+    "Press laws",
+    "Railways",
+    "Indianisation of the services"
+   ],
+   "a": 3,
+   "w": "It proposed a 40:40:20 formula."
+  },
+  {
+   "q": "Macaulay’s Minute (1835) favoured",
+   "o": [
+    "Sanskrit and Arabic learning",
+    "Vernacular only",
+    "English as medium for higher education",
+    "Ban on Western science"
+   ],
+   "a": 2,
+   "w": "Bentinck accepted it."
+  }
+ ],
+ "sources": [
+  "Bipan Chandra, History of Modern India",
+  "Spectrum, Modern India",
+  "Mains-style: Macaulay, ICS and press"
+ ],
+ "verified": "2026-11-10"
+}
