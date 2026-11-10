@@ -112,3 +112,10 @@ Motion: one page-load rise on the hero and nothing else, and respect `prefers-re
 ## Known gaps to fix
 - **Missing content:** Lesson 1 should add Skinner and the Cambridge School, plus Bell's *The End of Ideology* (1960) and Fukuyama, in the decline-and-revival section.
 - **Diagrams:** add more SVG diagrams. Ideas: a Rawls original-position diagram, a Kautilya mandala diagram, an India–China border map schematic, and timelines for the freedom struggle.
+
+## Subjects and themes (added 2026-11-10)
+- `subjects.json` lists subjects. Each has a folder (`dir`) with its own `syllabus.json` and `lessons/`. PSIR lives at the root (`dir: "."`); History, Geography and Environment (GS) will live in `subjects/<id>/`. Set `"soon": true` until a subject has lessons.
+- Lesson ids and the lesson schema are the same for every subject.
+- `themes.js` holds themes: CSS colour tokens, Google fonts and hero art. Each subject has a default theme; the reader can switch theme from the pill at the top right of the home screen.
+- Hero art: `"hero": "polis"` (built-in bust), `"emblem"` (simple emblem with a glyph), or `"heroImage": "art/<file>.png"` for custom art. Files in `art/` are cached offline by the build.
+- Keep the card colour light in every theme: lesson diagrams are drawn for a light card.

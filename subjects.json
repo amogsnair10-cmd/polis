@@ -1,0 +1,10 @@
+[
+ {"id": "psir", "name": "PSIR", "full": "Political Science & International Relations (optional)", "title": "Polis", "motto": "One lesson a day.<br>The whole PSIR optional in 120.", "dir": ".", "theme": "polis", "store": "polis",
+  "foot": "Mapped to the official UPSC syllabus and weighted by past papers from 2013 to 2026. Grey lessons are on their way. Your progress stays on this phone."},
+ {"id": "history", "name": "History", "full": "GS Paper I: History", "title": "Chronicle", "motto": "One lesson a day.<br>All of GS history, step by step.", "dir": "subjects/history", "theme": "chronicle", "soon": true,
+  "foot": "Mapped to the UPSC GS Paper I syllabus. Your progress stays on this phone."},
+ {"id": "geography", "name": "Geography", "full": "GS Paper I: Geography", "title": "Terra", "motto": "One lesson a day.<br>All of GS geography, step by step.", "dir": "subjects/geography", "theme": "terra", "soon": true,
+  "foot": "Mapped to the UPSC GS Paper I syllabus. Your progress stays on this phone."},
+ {"id": "environment", "name": "Environment", "full": "GS Paper III: Environment & Ecology", "title": "Verdant", "motto": "One lesson a day.<br>All of GS environment, step by step.", "dir": "subjects/environment", "theme": "verdant", "soon": true,
+  "foot": "Mapped to the UPSC GS Paper III syllabus. Your progress stays on this phone."}
+]

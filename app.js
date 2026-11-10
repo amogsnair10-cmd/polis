@@ -1,18 +1,22 @@
-/* Polis app shell. Lessons live in lessons/<id>.json and load when opened.
-   lessons/index.json lists the lessons that exist (built by scripts/build.js). */
-let MAP=[],IDX={};const L={};
+/* App shell for every subject. subjects.json lists subjects; each has a folder (dir) holding
+   syllabus.json and lessons/<id>.json (lessons/index.json is built by scripts/build.js).
+   Themes live in themes.js. */
+let MAP=[],IDX={},L={},SUBJ=[],SUB=null;
 let S={done:{},scores:{},days:[]};
-try{const s=localStorage.getItem('polis');if(s)S=JSON.parse(s)}catch(e){}
-// Scores are stored as a fraction (0-1). Old saves stored a count out of 5.
-for(const k in S.scores)if(S.scores[k]>1)S.scores[k]/=5;
-const save=()=>{try{localStorage.setItem('polis',JSON.stringify(S))}catch(e){}};
+const ls={get:k=>{try{return localStorage.getItem(k)}catch(e){return null}},set:(k,v)=>{try{localStorage.setItem(k,v)}catch(e){}}};
+const key=()=>SUB.store||('polis:'+SUB.id);
+function loadProgress(){S={done:{},scores:{},days:[]};const s=ls.get(key());if(s)try{S=JSON.parse(s)}catch(e){}
+  // Scores are stored as a fraction (0-1). Old saves stored a count out of 5.
+  for(const k in S.scores)if(S.scores[k]>1)S.scores[k]/=5}
+const save=()=>ls.set(key(),JSON.stringify(S));
+const path=f=>(SUB.dir==='.'?'':SUB.dir+'/')+f;
 let ids=[];
 // Dates are the phone's local calendar day (IST for Indian users), never UTC.
 const ds=d=>`${d.getFullYear()}-${String(d.getMonth()+1).padStart(2,'0')}-${String(d.getDate()).padStart(2,'0')}`;const today=()=>ds(new Date());
 function streak(){let n=0,d=new Date();const set=new Set(S.days);if(!set.has(ds(d)))d.setDate(d.getDate()-1);while(set.has(ds(d))){n++;d.setDate(d.getDate()-1)}return n}
 const unitOf=id=>{const [p,u]=id.split('-');return MAP[p].units[u][0]};
 const esc=s=>String(s).replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
-const wreath=`<svg class="wreath" viewBox="0 0 200 110"><g fill="#a8792a">${[...Array(9)].map((_,i)=>{const a=(200-i*16)*Math.PI/180,x=100+70*Math.cos(a),y=100-70*Math.sin(a)*0.9;return `<ellipse cx="${x}" cy="${y}" rx="5" ry="12" transform="rotate(${-(200-i*16)+90} ${x} ${y})"/>`}).join('')}${[...Array(9)].map((_,i)=>{const a=(-20+i*16)*Math.PI/180,x=100+70*Math.cos(a),y=100-70*Math.sin(a)*0.9;return `<ellipse cx="${x}" cy="${y}" rx="5" ry="12" transform="rotate(${-(-20+i*16)+90} ${x} ${y})"/>`}).join('')}</g></svg>`;
+const wreath=`<svg class="wreath" viewBox="0 0 200 110"><g style="fill:var(--goldd)">${[...Array(9)].map((_,i)=>{const a=(200-i*16)*Math.PI/180,x=100+70*Math.cos(a),y=100-70*Math.sin(a)*0.9;return `<ellipse cx="${x}" cy="${y}" rx="5" ry="12" transform="rotate(${-(200-i*16)+90} ${x} ${y})"/>`}).join('')}${[...Array(9)].map((_,i)=>{const a=(-20+i*16)*Math.PI/180,x=100+70*Math.cos(a),y=100-70*Math.sin(a)*0.9;return `<ellipse cx="${x}" cy="${y}" rx="5" ry="12" transform="rotate(${-(-20+i*16)+90} ${x} ${y})"/>`}).join('')}</g></svg>`;
 
 function renderHome(){
   const done=Object.keys(S.done).length;
@@ -34,7 +38,7 @@ function renderHome(){
 const deck=document.getElementById('deck');let cur;
 async function getLesson(id){
   if(L[id])return L[id];
-  const r=await fetch(`lessons/${id}.json`);if(!r.ok)throw new Error(r.status);
+  const r=await fetch(path(`lessons/${id}.json`));if(!r.ok)throw new Error(r.status);
   return L[id]=await r.json();
 }
 async function openL(id){
@@ -58,9 +62,47 @@ function show(v){document.querySelectorAll('.view').forEach(x=>x.classList.toggl
 function back(){show('home');renderHome()}
 document.getElementById('close').onclick=back;
 
-(async()=>{
-  const [m,x]=await Promise.all([fetch('syllabus.json').then(r=>r.json()),fetch('lessons/index.json').then(r=>r.json())]);
+/* ---------- themes ---------- */
+const POLIS_HERO=document.getElementById('heroArt').innerHTML;
+const loadedFonts=new Set();
+function applyTheme(id){
+  const t=THEMES[id]||THEMES.polis,root=document.documentElement;
+  Object.keys(THEMES).forEach(k=>Object.keys(THEMES[k].vars).forEach(v=>root.style.removeProperty(v)));
+  Object.entries(t.vars).forEach(([k,v])=>root.style.setProperty(k,v));
+  if(t.fonts&&!loadedFonts.has(t.fonts)){loadedFonts.add(t.fonts);const l=document.createElement('link');l.rel='stylesheet';l.href='https://fonts.googleapis.com/css2?family='+t.fonts+'&display=swap';document.head.appendChild(l)}
+  const art=document.getElementById('heroArt');
+  if(t.heroImage)art.innerHTML=`<img src="${t.heroImage}" alt="">`;
+  else if(t.hero==='polis')art.innerHTML=POLIS_HERO;
+  else art.innerHTML=`<svg viewBox="0 0 360 260" aria-hidden="true"><defs><radialGradient id="eg"><stop offset="0" stop-color="var(--gold)" stop-opacity=".4"/><stop offset="1" stop-color="var(--gold)" stop-opacity="0"/></radialGradient></defs><circle cx="180" cy="130" r="120" fill="url(#eg)"/><circle cx="180" cy="130" r="78" fill="none" stroke="var(--gold)" stroke-width="2"/><circle cx="180" cy="130" r="64" fill="none" stroke="var(--gold)" stroke-width="1" stroke-dasharray="3 5"/><text x="180" y="152" font-size="62" text-anchor="middle">${t.glyph||'✦'}</text></svg>`;
+  document.querySelector('meta[name=theme-color]').setAttribute('content',getComputedStyle(root).getPropertyValue('--night').trim());
+}
+const themeFor=s=>ls.get('theme:'+s.id)||s.theme;
+
+/* ---------- subjects ---------- */
+async function loadSubject(id){
+  SUB=SUBJ.find(s=>s.id===id&&!s.soon)||SUBJ[0];ls.set('subject',SUB.id);
+  applyTheme(themeFor(SUB));
+  document.getElementById('appName').textContent=SUB.title.toUpperCase();
+  document.getElementById('motto').innerHTML=SUB.motto;
+  document.getElementById('foot').textContent=SUB.foot;
+  document.getElementById('pickName').textContent=SUB.name;
+  document.title=SUB.title+' — '+SUB.name+' Daily';
+  L={};loadProgress();
+  const [m,x]=await Promise.all([fetch(path('syllabus.json')).then(r=>r.json()),fetch(path('lessons/index.json')).then(r=>r.json())]);
   MAP=m;IDX=x;ids=[];MAP.forEach((p,pi)=>p.units.forEach((u,ui)=>{for(let k=0;k<u[1].length;k++)ids.push(`${pi}-${ui}-${k}`)}));
   renderHome();
-})();
+}
+const sheet=document.getElementById('sheet');
+function openSheet(){
+  document.getElementById('subjList').innerHTML=SUBJ.map(s=>`<button class="choice${s.id===SUB.id?' on':''}" ${s.soon?'disabled':''} onclick="pickSubject('${s.id}')"><span class="sw" style="background:${(THEMES[s.theme].vars['--lapis'])||'#13294b'}"></span><span>${s.name}<small>${s.full}${s.soon?' · coming soon':''}</small></span></button>`).join('');
+  const cur=themeFor(SUB);
+  document.getElementById('themeList').innerHTML=Object.entries(THEMES).map(([k,t])=>`<button class="choice${k===cur?' on':''}" onclick="pickTheme('${k}')"><span class="sw" style="background:linear-gradient(135deg,${t.vars['--lapis']||'#13294b'} 50%,${t.vars['--gold']||'#c9a45c'} 50%)"></span><span>${t.name}<small>${t.note}</small></span></button>`).join('');
+  sheet.hidden=false}
+function pickSubject(id){sheet.hidden=true;loadSubject(id)}
+function pickTheme(k){ls.set('theme:'+SUB.id,k);applyTheme(k);openSheet()}
+document.getElementById('pick').onclick=openSheet;
+document.getElementById('sheetClose').onclick=()=>sheet.hidden=true;
+sheet.addEventListener('click',e=>{if(e.target===sheet)sheet.hidden=true});
+
+(async()=>{SUBJ=await fetch('subjects.json').then(r=>r.json());loadSubject(ls.get('subject')||SUBJ[0].id)})();
 if('serviceWorker' in navigator)addEventListener('load',()=>navigator.serviceWorker.register('sw.js'));
