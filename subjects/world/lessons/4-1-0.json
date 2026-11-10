@@ -1,0 +1,169 @@
+{
+ "id": "4-1-0",
+ "title": "Zheng He's Treasure Fleets",
+ "emoji": "🚢",
+ "cards": [
+  {
+   "tag": "Why this matters",
+   "h": "China sent the biggest fleet in the world, then stopped",
+   "b": "<p>In 1405, a fleet of hundreds of ships, carrying nearly 28,000 men, left Nanjing for the Indian Ocean. It was commanded by a eunuch admiral from a Muslim family in Yunnan.</p><p>Sixty years before Columbus and Vasco da Gama, China ruled the waves. Then it went home.</p>"
+  },
+  {
+   "tag": "The story",
+   "h": "The admiral",
+   "b": "<b>Zheng He</b> was born Ma He in 1371 in Yunnan. As a boy he was captured by Ming forces, made a eunuch and served the prince who became the <b>Yongle Emperor</b> (reigned 1402-1424).<p>Yongle wanted to show China's glory, win tribute from foreign rulers, and perhaps look for his rival, the vanished previous emperor.</p>"
+  },
+  {
+   "tag": "The turning point",
+   "h": "Seven voyages",
+   "b": "<svg class=\"d\" viewBox=\"0 0 320 180\"><line x1=\"14\" y1=\"10\" x2=\"14\" y2=\"170\" stroke=\"#a8792a\" stroke-width=\"2\"/><circle cx=\"14\" cy=\"22\" r=\"5\" fill=\"#f1e4c6\" stroke=\"#a8792a\" stroke-width=\"2\"/><text x=\"28\" y=\"26\" font-size=\"11\" font-weight=\"700\" fill=\"#a8792a\">1405-07</text><text x=\"112\" y=\"26\" font-size=\"11\" fill=\"#1d2433\">First voyage: to Calicut</text><circle cx=\"14\" cy=\"50\" r=\"5\" fill=\"#f1e4c6\" stroke=\"#a8792a\" stroke-width=\"2\"/><text x=\"28\" y=\"54\" font-size=\"11\" font-weight=\"700\" fill=\"#a8792a\">1409</text><text x=\"112\" y=\"54\" font-size=\"11\" fill=\"#1d2433\">Galle stone, Sri Lanka</text><circle cx=\"14\" cy=\"78\" r=\"5\" fill=\"#f1e4c6\" stroke=\"#a8792a\" stroke-width=\"2\"/><text x=\"28\" y=\"82\" font-size=\"11\" font-weight=\"700\" fill=\"#a8792a\">1414</text><text x=\"112\" y=\"82\" font-size=\"11\" fill=\"#1d2433\">African giraffe brought</text><circle cx=\"14\" cy=\"106\" r=\"5\" fill=\"#f1e4c6\" stroke=\"#a8792a\" stroke-width=\"2\"/><text x=\"28\" y=\"110\" font-size=\"11\" font-weight=\"700\" fill=\"#a8792a\">1421-22</text><text x=\"112\" y=\"110\" font-size=\"11\" fill=\"#1d2433\">Sixth voyage</text><circle cx=\"14\" cy=\"134\" r=\"5\" fill=\"#f1e4c6\" stroke=\"#a8792a\" stroke-width=\"2\"/><text x=\"28\" y=\"138\" font-size=\"11\" font-weight=\"700\" fill=\"#a8792a\">1431-33</text><text x=\"112\" y=\"138\" font-size=\"11\" fill=\"#1d2433\">Seventh voyage</text><circle cx=\"14\" cy=\"162\" r=\"5\" fill=\"#f1e4c6\" stroke=\"#a8792a\" stroke-width=\"2\"/><text x=\"28\" y=\"166\" font-size=\"11\" font-weight=\"700\" fill=\"#a8792a\">1433</text><text x=\"112\" y=\"166\" font-size=\"11\" fill=\"#1d2433\">Zheng He dies; voyages end</text></svg><p>The fleets visited Vietnam, Java, Sumatra, Sri Lanka, India, Hormuz, Aden and the East African coast, perhaps reaching Mecca by some members. The treasure ships were huge, though old claims of about 120 metres long are debated; many scholars think they were smaller.</p>"
+  },
+  {
+   "tag": "The twist",
+   "h": "A giraffe for the emperor",
+   "b": "<p>In 1414 a ruler from Bengal sent a giraffe to China (some say it was brought later from Africa). Courtiers called it a <i>qilin</i>, a lucky mythical beast, and celebrated.</p><p>The fleet also took silk and porcelain, and returned with spices, gems and ambassadors.</p>"
+  },
+  {
+   "tag": "The story",
+   "h": "Why did it stop?",
+   "b": "<p>After Yongle died, Confucian officials thought the voyages too costly. Money was needed to fight the Mongols and to rebuild the capital at Beijing. The new emperor Xuande ended the voyages after 1433.</p><p>A story says officials burned the records. Historians now doubt it; the documents may simply have been lost or ignored.</p>"
+  },
+  {
+   "tag": "The story",
+   "h": "Compare with Europe",
+   "b": "<svg class=\"d\" viewBox=\"0 0 320 130\"><rect x=\"6\" y=\"2\" width=\"150\" height=\"126\" rx=\"6\" fill=\"#f1e4c6\" stroke=\"#a8792a\"/><text x=\"81\" y=\"20\" font-size=\"11\" font-weight=\"700\" text-anchor=\"middle\" fill=\"#1d2433\">Zheng He, 1405</text><text x=\"14\" y=\"42\" font-size=\"10.5\" fill=\"#1d2433\">About 300 ships</text><text x=\"14\" y=\"66\" font-size=\"10.5\" fill=\"#1d2433\">About 28,000 men</text><text x=\"14\" y=\"90\" font-size=\"10.5\" fill=\"#1d2433\">Aim: show power, trade</text><text x=\"14\" y=\"114\" font-size=\"10.5\" fill=\"#1d2433\">Ended in 1433</text><rect x=\"164\" y=\"2\" width=\"150\" height=\"126\" rx=\"6\" fill=\"#dceaec\" stroke=\"#2f6f7a\"/><text x=\"239\" y=\"20\" font-size=\"11\" font-weight=\"700\" text-anchor=\"middle\" fill=\"#1d2433\">Da Gama, 1497</text><text x=\"172\" y=\"42\" font-size=\"10.5\" fill=\"#1d2433\">4 ships</text><text x=\"172\" y=\"66\" font-size=\"10.5\" fill=\"#1d2433\">About 170 men</text><text x=\"172\" y=\"90\" font-size=\"10.5\" fill=\"#1d2433\">Aim: spices, a sea route</text><text x=\"172\" y=\"114\" font-size=\"10.5\" fill=\"#1d2433\">Sailed 92 years later</text></svg><p>China sailed for prestige, with a vast navy. Europeans sailed for profit and kept coming.</p>"
+  },
+  {
+   "tag": "Myth vs fact",
+   "h": "Did Zheng He discover America?",
+   "b": "<b>Myth:</b> the 2002 book <i>1421: The Year China Discovered the World</i> by Gavin Menzies claimed the Chinese reached America, and more.<b>Fact:</b> historians reject it. No Chinese records, no archaeology and no maps support it. It sold well but is considered fantasy.<p>What is true: his fleet really was spectacular, and it was real naval power.</p>"
+  },
+  {
+   "tag": "Indian angle",
+   "h": "Meanwhile in India…",
+   "b": "<p>Calicut, the gateway</p>"
+  },
+  {
+   "tag": "Recap",
+   "h": "Five takeaways, two puzzles",
+   "b": "<p><b>Five things to remember</b></p><ol><li>Zheng He led seven voyages (1405-1433).</li><li>He served the Yongle emperor.</li><li>The fleets were huge for their time.</li><li>Costs and politics ended the voyages.</li><li>Calicut was a key stop; da Gama came 65 years later.</li></ol><p><b>Think about it</b></p><ul><li>Is power measured by what you can do, or what you choose to do?</li><li>Why did Europeans keep going where China stopped?</li></ul>",
+   "cls": "exam"
+  }
+ ],
+ "quiz": [
+  {
+   "q": "Zheng He served...",
+   "o": [
+    "Kublai Khan",
+    "Qin Shi Huang",
+    "The Yongle Emperor",
+    "Emperor Wu"
+   ],
+   "a": 2,
+   "w": "Ming dynasty."
+  },
+  {
+   "q": "His first fleet sailed in...",
+   "o": [
+    "1405",
+    "1492",
+    "1433",
+    "1368"
+   ],
+   "a": 0,
+   "w": "From Nanjing."
+  },
+  {
+   "q": "Zheng He was born in...",
+   "o": [
+    "Beijing",
+    "Nanjing",
+    "Canton",
+    "Yunnan"
+   ],
+   "a": 3,
+   "w": "A Muslim family."
+  },
+  {
+   "q": "An African animal brought to China was the...",
+   "o": [
+    "Elephant",
+    "Giraffe",
+    "Lion",
+    "Zebra"
+   ],
+   "a": 1,
+   "w": "Called a qilin."
+  },
+  {
+   "q": "The voyages ended after...",
+   "o": [
+    "1433",
+    "1405",
+    "1498",
+    "1521"
+   ],
+   "a": 0,
+   "w": "Under Xuande."
+  },
+  {
+   "q": "Why did they stop?",
+   "o": [
+    "Defeat by Portugal",
+    "A plague",
+    "Zheng He's rebellion",
+    "Cost and court politics"
+   ],
+   "a": 3,
+   "w": "Confucian officials disapproved."
+  },
+  {
+   "q": "1421 by Gavin Menzies is...",
+   "o": [
+    "A Ming record",
+    "Rejected by historians",
+    "A translation",
+    "Proof of America"
+   ],
+   "a": 1,
+   "w": "No evidence."
+  },
+  {
+   "q": "Which Indian port did Zheng He visit?",
+   "o": [
+    "Surat",
+    "Bombay",
+    "Calicut",
+    "Calcutta"
+   ],
+   "a": 2,
+   "w": "On the Malabar coast."
+  },
+  {
+   "q": "Da Gama arrived in Calicut in...",
+   "o": [
+    "1405",
+    "1521",
+    "1600",
+    "1498"
+   ],
+   "a": 3,
+   "w": "On 20 May."
+  },
+  {
+   "q": "A qilin was...",
+   "o": [
+    "A mythical lucky beast",
+    "A ship",
+    "A tax",
+    "A river"
+   ],
+   "a": 0,
+   "w": "The giraffe was taken for one."
+  }
+ ],
+ "sources": [
+  "Dreyer, Zheng He (2007); Levathes, When China Ruled the Seas (1994); Ming Shi; Fenby on Ming; Sen, Tansen on Zheng He and India"
+ ],
+ "verified": "2026-11-10"
+}

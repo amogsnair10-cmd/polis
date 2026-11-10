@@ -1,0 +1,176 @@
+{
+ "id": "3-1-0",
+ "title": "Map Work: India and the World",
+ "emoji": "📍",
+ "cards": [
+  {
+   "tag": "Why this matters",
+   "h": "Maps earn quick marks",
+   "b": "<p>Prelims often gives a place name and asks you to place it. Mains rewards a sketch map or a \"where is it and why does it matter\" line. The cheapest marks in geography go to students who know the atlas well. Practise <b>drawing</b>, not just reading.</p>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "India and its neighbours",
+   "b": "<svg class=\"d\" viewBox=\"0 0 320 250\"><path d=\"M135 60 L185 50 L230 75 L215 100 L195 105 L180 150 L160 205 L140 150 L115 110 L100 90 L115 70 Z\" fill=\"#f1e4c6\" stroke=\"#a8792a\" stroke-width=\"2\"/><text x=\"160\" y=\"98\" fill=\"#7d5a1c\" font-size=\"12\" text-anchor=\"middle\" font-weight=\"700\">INDIA</text><text x=\"40\" y=\"60\" fill=\"#5d6474\" font-size=\"10\" text-anchor=\"middle\">Afghanistan</text><text x=\"45\" y=\"88\" fill=\"#5d6474\" font-size=\"10\" text-anchor=\"middle\">Pakistan</text><text x=\"160\" y=\"16\" fill=\"#5d6474\" font-size=\"10\" text-anchor=\"middle\">China (Tibet, Xinjiang)</text><text x=\"175\" y=\"38\" fill=\"#5d6474\" font-size=\"10\" text-anchor=\"middle\">Nepal</text><text x=\"232\" y=\"48\" fill=\"#5d6474\" font-size=\"10\" text-anchor=\"middle\">Bhutan</text><text x=\"272\" y=\"100\" fill=\"#5d6474\" font-size=\"10\" text-anchor=\"middle\">Myanmar</text><text x=\"262\" y=\"76\" fill=\"#5d6474\" font-size=\"10\" text-anchor=\"middle\">Bangladesh</text><text x=\"230\" y=\"200\" fill=\"#5d6474\" font-size=\"10\" text-anchor=\"middle\">Sri Lanka</text><text x=\"45\" y=\"175\" fill=\"#5d6474\" font-size=\"10\" text-anchor=\"middle\">Maldives</text><text x=\"45\" y=\"125\" fill=\"#2f6f7a\" font-size=\"10\" text-anchor=\"middle\">Arabian Sea</text><text x=\"250\" y=\"150\" fill=\"#2f6f7a\" font-size=\"10\" text-anchor=\"middle\">Bay of Bengal</text><text x=\"160\" y=\"230\" fill=\"#2f6f7a\" font-size=\"10\" text-anchor=\"middle\">Indian Ocean</text><text x=\"160\" y=\"245\" fill=\"#5d6474\" font-size=\"10\" text-anchor=\"middle\">Schematic only, not to scale</text></svg><p>India has <b>7 land neighbours</b> counting Afghanistan through PoK, and sea neighbours Sri Lanka and the Maldives. Indonesia (Great Nicobar to Aceh) and Thailand and Myanmar are close in the Andaman Sea.</p>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "Border lengths",
+   "b": "<svg class=\"d\" viewBox=\"0 0 320 248\"><rect x=\"10\" y=\"6\" width=\"130\" height=\"26\" rx=\"6\" fill=\"#f1e4c6\" stroke=\"#a8792a\" stroke-width=\"1.5\"/><text x=\"75.0\" y=\"23\" fill=\"#7d5a1c\" font-size=\"11\" text-anchor=\"middle\" font-weight=\"700\">Neighbour</text><rect x=\"140\" y=\"6\" width=\"170\" height=\"26\" rx=\"6\" fill=\"#f1e4c6\" stroke=\"#a8792a\" stroke-width=\"1.5\"/><text x=\"225.0\" y=\"23\" fill=\"#7d5a1c\" font-size=\"11\" text-anchor=\"middle\" font-weight=\"700\">Border (km)</text><rect x=\"10\" y=\"32\" width=\"130\" height=\"30\" rx=\"0\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"75.0\" y=\"51\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\" font-weight=\"700\">Bangladesh</text><rect x=\"140\" y=\"32\" width=\"170\" height=\"30\" rx=\"0\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"225.0\" y=\"51\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\">4,096.7</text><rect x=\"10\" y=\"62\" width=\"130\" height=\"30\" rx=\"0\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"75.0\" y=\"81\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\" font-weight=\"700\">China</text><rect x=\"140\" y=\"62\" width=\"170\" height=\"30\" rx=\"0\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"225.0\" y=\"81\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\">3,488</text><rect x=\"10\" y=\"92\" width=\"130\" height=\"30\" rx=\"0\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"75.0\" y=\"111\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\" font-weight=\"700\">Pakistan</text><rect x=\"140\" y=\"92\" width=\"170\" height=\"30\" rx=\"0\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"225.0\" y=\"111\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\">3,323</text><rect x=\"10\" y=\"122\" width=\"130\" height=\"30\" rx=\"0\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"75.0\" y=\"141\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\" font-weight=\"700\">Nepal</text><rect x=\"140\" y=\"122\" width=\"170\" height=\"30\" rx=\"0\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"225.0\" y=\"141\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\">1,751</text><rect x=\"10\" y=\"152\" width=\"130\" height=\"30\" rx=\"0\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"75.0\" y=\"171\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\" font-weight=\"700\">Myanmar</text><rect x=\"140\" y=\"152\" width=\"170\" height=\"30\" rx=\"0\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"225.0\" y=\"171\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\">1,643</text><rect x=\"10\" y=\"182\" width=\"130\" height=\"30\" rx=\"0\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"75.0\" y=\"201\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\" font-weight=\"700\">Bhutan</text><rect x=\"140\" y=\"182\" width=\"170\" height=\"30\" rx=\"0\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"225.0\" y=\"201\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\">699</text><rect x=\"10\" y=\"212\" width=\"130\" height=\"30\" rx=\"0\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"75.0\" y=\"231\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\" font-weight=\"700\">Afghanistan</text><rect x=\"140\" y=\"212\" width=\"170\" height=\"30\" rx=\"0\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"225.0\" y=\"231\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\">106 (via PoK, claimed)</text></svg><p>The total land border is about <b>15,107 km</b>. India's coastline is about 7,516 km (older figure). Five states touch Bangladesh: West Bengal, Assam, Meghalaya, Tripura and Mizoram. West Bengal has the longest stretch.</p>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "Extremes and lines",
+   "b": "<svg class=\"d\" viewBox=\"0 0 320 174\"><rect x=\"10\" y=\"6\" width=\"75\" height=\"36\" rx=\"6\" fill=\"#f4dcd5\" stroke=\"#a3362a\" stroke-width=\"1.5\"/><text x=\"47.5\" y=\"28.0\" fill=\"#a3362a\" font-size=\"11\" text-anchor=\"middle\" font-weight=\"700\">North</text><rect x=\"91\" y=\"6\" width=\"219\" height=\"36\" rx=\"6\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"200.5\" y=\"28.0\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\">Indira Col (mainland); Siachen region</text><rect x=\"10\" y=\"48\" width=\"75\" height=\"36\" rx=\"6\" fill=\"#dceaec\" stroke=\"#2f6f7a\" stroke-width=\"1.5\"/><text x=\"47.5\" y=\"70.0\" fill=\"#2f6f7a\" font-size=\"11\" text-anchor=\"middle\" font-weight=\"700\">South</text><rect x=\"91\" y=\"48\" width=\"219\" height=\"36\" rx=\"6\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"200.5\" y=\"70.0\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\">Kanyakumari (mainland), Indira Point (Great Nicobar)</text><rect x=\"10\" y=\"90\" width=\"75\" height=\"36\" rx=\"6\" fill=\"#f1e4c6\" stroke=\"#a8792a\" stroke-width=\"1.5\"/><text x=\"47.5\" y=\"112.0\" fill=\"#7d5a1c\" font-size=\"11\" text-anchor=\"middle\" font-weight=\"700\">East</text><rect x=\"91\" y=\"90\" width=\"219\" height=\"36\" rx=\"6\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"200.5\" y=\"112.0\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\">Kibithu, Arunachal Pradesh</text><rect x=\"10\" y=\"132\" width=\"75\" height=\"36\" rx=\"6\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"47.5\" y=\"154.0\" fill=\"#1d2433\" font-size=\"11\" text-anchor=\"middle\" font-weight=\"700\">West</text><rect x=\"91\" y=\"132\" width=\"219\" height=\"36\" rx=\"6\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"200.5\" y=\"154.0\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\">Guhar Moti, Kutch, Gujarat</text></svg><p>Mainland <b>north-south extent</b> is about 3,214 km and <b>east-west</b> about 2,933 km. The <b>Standard Meridian</b> of 82 degrees 30 minutes E passes near Mirzapur and crosses Uttar Pradesh, Madhya Pradesh, Chhattisgarh, Odisha and Andhra Pradesh. This gives a two-hour sun time gap between Arunachal and Gujarat.</p>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "States and union territories",
+   "b": "<p>India has <b>28 states and 8 union territories</b> (as of 2025). Telangana was formed in 2014 as the 29th state of that time; J&K was split in 2019 into two UTs (J&K and Ladakh), which cut the state count to 28. The UTs are Delhi, Puducherry, J&K, Ladakh, Chandigarh, Andaman and Nicobar, Lakshadweep, and Dadra and Nagar Haveli and Daman and Diu (merged in 2020).</p>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "Map-reading tips for India",
+   "b": "<p>Learn rivers by <b>source and mouth</b>; mountains by <b>state</b>; passes by <b>border</b>; ports by <b>coast</b> (east or west); national parks by <b>state</b>; and cities along the <b>Golden Quadrilateral</b>. Make a list of \"places in news\" each month and mark them on a blank map.</p>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "World maps: seas and straits",
+   "b": "<svg class=\"d\" viewBox=\"0 0 320 188\"><rect x=\"10\" y=\"6\" width=\"85\" height=\"26\" rx=\"6\" fill=\"#f1e4c6\" stroke=\"#a8792a\" stroke-width=\"1.5\"/><text x=\"52.5\" y=\"23\" fill=\"#7d5a1c\" font-size=\"11\" text-anchor=\"middle\" font-weight=\"700\">Feature</text><rect x=\"95\" y=\"6\" width=\"115\" height=\"26\" rx=\"6\" fill=\"#f1e4c6\" stroke=\"#a8792a\" stroke-width=\"1.5\"/><text x=\"152.5\" y=\"23\" fill=\"#7d5a1c\" font-size=\"11\" text-anchor=\"middle\" font-weight=\"700\">Where</text><rect x=\"210\" y=\"6\" width=\"100\" height=\"26\" rx=\"6\" fill=\"#f1e4c6\" stroke=\"#a8792a\" stroke-width=\"1.5\"/><text x=\"260.0\" y=\"23\" fill=\"#7d5a1c\" font-size=\"11\" text-anchor=\"middle\" font-weight=\"700\">Hint</text><rect x=\"10\" y=\"32\" width=\"85\" height=\"30\" rx=\"0\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"52.5\" y=\"51\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\" font-weight=\"700\">Black Sea</text><rect x=\"95\" y=\"32\" width=\"115\" height=\"30\" rx=\"0\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"152.5\" y=\"51\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\">Between Europe and Asia</text><rect x=\"210\" y=\"32\" width=\"100\" height=\"30\" rx=\"0\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"260.0\" y=\"51\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\">Via Bosphorus</text><rect x=\"10\" y=\"62\" width=\"85\" height=\"30\" rx=\"0\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"52.5\" y=\"81\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\" font-weight=\"700\">Caspian</text><rect x=\"95\" y=\"62\" width=\"115\" height=\"30\" rx=\"0\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"152.5\" y=\"81\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\">Largest lake</text><rect x=\"210\" y=\"62\" width=\"100\" height=\"30\" rx=\"0\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"260.0\" y=\"81\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\">Five shores</text><rect x=\"10\" y=\"92\" width=\"85\" height=\"30\" rx=\"0\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"52.5\" y=\"111\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\" font-weight=\"700\">Red Sea</text><rect x=\"95\" y=\"92\" width=\"115\" height=\"30\" rx=\"0\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"152.5\" y=\"111\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\">Africa-Arabia</text><rect x=\"210\" y=\"92\" width=\"100\" height=\"30\" rx=\"0\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"260.0\" y=\"111\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\">Via Suez, Bab-el-Mandeb</text><rect x=\"10\" y=\"122\" width=\"85\" height=\"30\" rx=\"0\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"52.5\" y=\"141\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\" font-weight=\"700\">Persian Gulf</text><rect x=\"95\" y=\"122\" width=\"115\" height=\"30\" rx=\"0\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"152.5\" y=\"141\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\">Iran, Gulf Arabs</text><rect x=\"210\" y=\"122\" width=\"100\" height=\"30\" rx=\"0\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"260.0\" y=\"141\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\">Via Hormuz</text><rect x=\"10\" y=\"152\" width=\"85\" height=\"30\" rx=\"0\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"52.5\" y=\"171\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\" font-weight=\"700\">S. China Sea</text><rect x=\"95\" y=\"152\" width=\"115\" height=\"30\" rx=\"0\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"152.5\" y=\"171\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\">SE Asia</text><rect x=\"210\" y=\"152\" width=\"100\" height=\"30\" rx=\"0\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"260.0\" y=\"171\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\">Disputed islands</text></svg><p>Link maps to events: Ukraine war (Black Sea, Crimea, Donbas), Gaza and Red Sea (Houthi attacks on shipping from late 2023), Taiwan Strait, South China Sea (<b>nine-dash line</b>, rejected by the 2016 arbitral tribunal), Sudan, and the Arctic (opening shipping routes).</p>"
+  },
+  {
+   "tag": "Debate",
+   "h": "Maps are political",
+   "b": "<p>Borders are claims. Nepal issued a new map in 2020 including Lipulekh, Kalapani and Limpiyadhura; India rejected it. China publishes \"standard maps\" with Arunachal and Aksai Chin. The Line of Actual Control is not marked on a common map. In answers, state India's official position and the <b>legal basis</b>, such as treaties, the 1914 McMahon Line or historical records.</p>"
+  },
+  {
+   "tag": "Indian angle",
+   "h": "Places in the news for India",
+   "b": "<p><b>Chabahar</b> (Iran), <b>Gwadar</b> (Pakistan), <b>Hambantota</b> (Sri Lanka), <b>Kyaukphyu</b> (Myanmar), <b>Malacca Strait</b>, the <b>Siliguri Corridor</b> (Chicken's Neck), <b>Doklam</b>, <b>Galwan</b>, <b>Great Nicobar Island</b> and <b>Agalega</b> in Mauritius. Practise locating each on a sketch.</p>"
+  },
+  {
+   "tag": "Exam lens",
+   "cls": "exam",
+   "h": "How to write this",
+   "b": "<div class=\"box\"><h4>Likely questions</h4><p>\"Mark and label on a map of India the major ports, mountain passes and river basins.\" (Prelims-style or mains sketch)</p><p>\"Why does the Siliguri Corridor matter to India's security?\" (10 marks)</p></div><p><b>Structure:</b> where it is (a line), why it matters (economic or strategic), a current link. Draw a simple sketch if the question says \"map\".</p><p><b>Prelims tip:</b> know the neighbouring country of each state; practise with an atlas every week.</p>"
+  }
+ ],
+ "quiz": [
+  {
+   "q": "India's longest international border is with",
+   "o": [
+    "China",
+    "Pakistan",
+    "Bangladesh",
+    "Nepal"
+   ],
+   "a": 2,
+   "w": "About 4,097 km."
+  },
+  {
+   "q": "Standard Meridian of India is",
+   "o": [
+    "82 degrees 30 minutes E",
+    "75 degrees E",
+    "90 degrees E",
+    "68 degrees E"
+   ],
+   "a": 0,
+   "w": "It passes near Mirzapur."
+  },
+  {
+   "q": "Which state is the easternmost in India?",
+   "o": [
+    "Assam",
+    "Nagaland",
+    "Manipur",
+    "Arunachal Pradesh"
+   ],
+   "a": 3,
+   "w": "Kibithu is the easternmost village."
+  },
+  {
+   "q": "Guhar Moti is in",
+   "o": [
+    "Rajasthan",
+    "Gujarat",
+    "Maharashtra",
+    "Odisha"
+   ],
+   "a": 1,
+   "w": "Western-most point of India."
+  },
+  {
+   "q": "The Siliguri Corridor is",
+   "o": [
+    "A canal in Punjab",
+    "A narrow link connecting the Northeast to the rest of India",
+    "A pass in Ladakh",
+    "A delta in Odisha"
+   ],
+   "a": 1,
+   "w": "Also called the Chicken's Neck."
+  },
+  {
+   "q": "Which Indian state does NOT border Bangladesh?",
+   "o": [
+    "Mizoram",
+    "Tripura",
+    "Meghalaya",
+    "Manipur"
+   ],
+   "a": 3,
+   "w": "Manipur borders Myanmar."
+  },
+  {
+   "q": "The South China Sea tribunal ruling came in",
+   "o": [
+    "2016",
+    "2008",
+    "2013",
+    "2020"
+   ],
+   "a": 0,
+   "w": "It rejected the nine-dash line."
+  },
+  {
+   "q": "Hormuz connects the Persian Gulf to the",
+   "o": [
+    "Red Sea",
+    "Black Sea",
+    "Gulf of Oman and Arabian Sea",
+    "Mediterranean"
+   ],
+   "a": 2,
+   "w": "A key oil route."
+  },
+  {
+   "q": "The Bosphorus links the",
+   "o": [
+    "Red and Mediterranean",
+    "Caspian and Black",
+    "Baltic and North",
+    "Black Sea and Sea of Marmara"
+   ],
+   "a": 3,
+   "w": "Controlled by Turkey."
+  },
+  {
+   "q": "India's total land border is about",
+   "o": [
+    "15,107 km",
+    "7,516 km",
+    "22,000 km",
+    "9,000 km"
+   ],
+   "a": 0,
+   "w": "The 7,516 km figure is the older coastline."
+  }
+ ],
+ "sources": [
+  "NCERT atlas and Class 6-12 maps",
+  "Survey of India; MHA border management",
+  "G.C. Leong, Certificate Physical and Human Geography"
+ ],
+ "verified": "2026-11-10"
+}

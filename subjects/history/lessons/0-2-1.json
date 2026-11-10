@@ -1,0 +1,176 @@
+{
+ "id": "0-2-1",
+ "title": "Post-Mauryan Kingdoms and the Sangam Age",
+ "emoji": "🏺",
+ "cards": [
+  {
+   "tag": "Why this matters",
+   "h": "Foreign contact and southern flowering",
+   "b": "<p>After 185 BCE there was no single empire for 500 years. Instead Shungas, Satavahanas, Indo-Greeks, Shakas, Kushanas and the Sangam kingdoms shaped trade, art and language.</p>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "North India",
+   "b": "<b>Shungas</b> (Pushyamitra, c. 185 BCE): Bharhut stupa, Patanjali’s Mahabhashya; <b>Kanvas</b>. <b>Indo-Greeks</b> (Demetrius, Menander or Milinda; the first to issue gold coins, with legends; Milinda-panha with Nagasena). <b>Shakas</b> (Rudradaman, Junagadh inscription, c. 150 CE; first major Sanskrit inscription). <b>Parthians</b> (Gondophernes; St Thomas tradition)."
+  },
+  {
+   "tag": "Key idea",
+   "h": "Kushanas",
+   "b": "<b>Kujula Kadphises</b> founded the empire; <b>Kanishka</b> (c. 78 CE; the Shaka era began, traditionally dated to 78 CE) had capitals at Peshawar (Purushapura) and Mathura. Fourth Buddhist Council in Kashmir; patrons of Ashvaghosha, Charaka, Nagarjuna. Gold coins; Gandhara and Mathura art; Silk Route trade. Mahayana Buddhism grew. Decline in the 3rd century."
+  },
+  {
+   "tag": "Key idea",
+   "h": "Satavahanas",
+   "b": "<p>Deccan power (c. 1st century BCE to 3rd century CE; capital Pratishthana (Paithan); Simuka founded). <b>Gautamiputra Satakarni</b> (defeated the Shakas; Nasik inscription by his mother Gautami Balashri) and <b>Vasishthiputra Pulumavi</b>. Features: matronymics; Prakrit; land grants to Brahmins and monks; lead coins; ports (Broach, Sopara); Buddhist art (Karle, Nasik, Amaravati). <i>Gathasaptashati</i> (Hala).</p>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "The Sangam age",
+   "b": "<p>The Tamil <b>Sangam</b> literature (c. 300 BCE to 300 CE) came from assemblies at Madurai. The three kingdoms: <b>Cholas</b> (Uraiyur, Puhar; Karikala, who built the Kallanai dam on the Kaveri), <b>Cheras</b> (Vanji; Senguttuvan), <b>Pandyas</b> (Madurai; port of Korkai). Chiefs (<i>velir</i>), eight lands (<i>tinai</i>). Texts: <i>Tolkappiyam</i> (grammar), <i>Ettuthokai</i>, <i>Pattuppattu</i>, the twin epics <i>Silappadikaram</i> and <i>Manimekalai</i>, and the <i>Tirukkural</i>.</p>"
+  },
+  {
+   "tag": "Key idea",
+   "h": "Trade with Rome",
+   "b": "<p>The <i>Periplus of the Erythraean Sea</i> (c. 1st century CE) and Pliny’s <i>Natural History</i> describe Indian ports. Pepper, pearls, ivory, muslin and gems went west; gold and wine came. Roman coins found in Arikamedu (Pondicherry; Wheeler excavated), Muziris (Kerala; Pattanam), Kodumanal. Monsoon winds (Hippalus, c. 50 CE tradition). Trade guilds. Satavahana and Sangam ports flourished; decline when Rome weakened (3rd century).</p>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "Society and religion",
+   "b": "<p>Brahmanism, Buddhism, Jainism; rise of Bhagavatism (Besnagar pillar of Heliodorus, 2nd century BCE) and devotion to Vishnu and Shiva. Foreigners were absorbed as <i>vratya</i> Kshatriyas. Varna ideas in the Manusmriti. Sangam society: no strict varna; <i>mother-goddess</i> and Murugan; <i>tinai</i> by region; women poets (Avvaiyar). Sati and widowhood are mentioned in Sangam poems.</p>"
+  },
+  {
+   "tag": "Debate",
+   "h": "Sangam dating and state",
+   "b": "<p>Dating of the Sangam texts runs from 300 BCE to 300 CE, with some scholars placing them later. K. A. Nilakanta Sastri accepted the traditional view; later historians (Kesavan Veluthat, Y. Subbarayalu) see a lineage-based chiefly society moving towards state formation. Another debate: were the Kushanas and Satavahanas “feudal”? R. S. Sharma argues the land grants prepared the ground for feudalism.</p>"
+  },
+  {
+   "tag": "Indian angle",
+   "h": "Why it matters today",
+   "b": "<p>Tamil was given classical status in 2004; the Sangam texts anchor its claim. Keezhadi (Tamil Nadu) excavations show an urban Sangam-age culture; the debate over Keezhadi dating (6th century BCE) is current. Muziris Heritage Project (Kerala) and Roman coin finds feed India’s maritime heritage. The Kushana art of Gandhara links India with Afghanistan.</p>"
+  },
+  {
+   "tag": "Exam lens",
+   "h": "How to answer",
+   "b": "<ul><li>“Sangam society and economy.”</li><li>“Indo-Roman trade: evidence and impact.”</li><li>“Contribution of the Kushanas to Indian culture.”</li><li>Prelims tip: Gondophernes; Kanishka (78 CE Shaka era); Gautamiputra Satakarni; Karikala; Arikamedu; Silappadikaram (Ilango Adigal); Tolkappiyam; classical Tamil 2004.</li></ul>",
+   "cls": "exam"
+  }
+ ],
+ "quiz": [
+  {
+   "q": "Pushyamitra Shunga founded the",
+   "o": [
+    "Kanva dynasty",
+    "Shunga dynasty",
+    "Satavahana dynasty",
+    "Kushana dynasty"
+   ],
+   "a": 1,
+   "w": "About 185 BCE."
+  },
+  {
+   "q": "Menander, the Indo-Greek king, is also known as",
+   "o": [
+    "Milinda",
+    "Demetrius",
+    "Gondophernes",
+    "Rudradaman"
+   ],
+   "a": 0,
+   "w": "Milinda-panha records his talks with Nagasena."
+  },
+  {
+   "q": "The Junagadh inscription belongs to",
+   "o": [
+    "Kanishka",
+    "Gautamiputra",
+    "Ashoka",
+    "Rudradaman"
+   ],
+   "a": 3,
+   "w": "It is in Sanskrit."
+  },
+  {
+   "q": "Kanishka’s capitals were",
+   "o": [
+    "Pataliputra and Ujjain",
+    "Pratishthana and Amaravati",
+    "Purushapura and Mathura",
+    "Madurai and Uraiyur"
+   ],
+   "a": 2,
+   "w": "Peshawar and Mathura."
+  },
+  {
+   "q": "The Satavahana capital was",
+   "o": [
+    "Madurai",
+    "Pratishthana",
+    "Mathura",
+    "Taxila"
+   ],
+   "a": 1,
+   "w": "Modern Paithan."
+  },
+  {
+   "q": "Gautamiputra Satakarni defeated the",
+   "o": [
+    "Shakas",
+    "Cholas",
+    "Kushanas",
+    "Indo-Greeks"
+   ],
+   "a": 0,
+   "w": "He was praised in the Nasik inscription."
+  },
+  {
+   "q": "The Kallanai dam was built by",
+   "o": [
+    "Rajaraja",
+    "Senguttuvan",
+    "Nedunjeliyan",
+    "Karikala"
+   ],
+   "a": 3,
+   "w": "Sangam Chola king."
+  },
+  {
+   "q": "Silappadikaram was composed by",
+   "o": [
+    "Sattanar",
+    "Tolkappiyar",
+    "Ilango Adigal",
+    "Avvaiyar"
+   ],
+   "a": 2,
+   "w": "A Tamil epic."
+  },
+  {
+   "q": "Roman coins and trade remains were found at",
+   "o": [
+    "Taxila",
+    "Arikamedu",
+    "Sanchi",
+    "Nalanda"
+   ],
+   "a": 1,
+   "w": "Near Pondicherry."
+  },
+  {
+   "q": "Tamil was given classical status in",
+   "o": [
+    "2004",
+    "1950",
+    "1991",
+    "2013"
+   ],
+   "a": 0,
+   "w": "The first classical language."
+  }
+ ],
+ "sources": [
+  "Romila Thapar, Early India",
+  "NCERT Class XI and Class VI to XII; Spectrum",
+  "Periplus (c. 1st century CE)"
+ ],
+ "verified": "2026-11-10"
+}

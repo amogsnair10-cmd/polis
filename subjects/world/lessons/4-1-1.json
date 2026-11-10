@@ -1,0 +1,169 @@
+{
+ "id": "4-1-1",
+ "title": "Columbus, Conquest and the Columbian Exchange",
+ "emoji": "⛵",
+ "cards": [
+  {
+   "tag": "Why this matters",
+   "h": "The man who sailed to 'India' and never realised where he was",
+   "b": "<p>On 12 October 1492, after about ten weeks at sea, a lookout on the Pinta shouted 'Land!' Christopher Columbus stepped ashore on an island in the Bahamas.</p><p>He was sure he had reached the edge of Asia. He died in 1506, still believing it.</p>"
+  },
+  {
+   "tag": "The story",
+   "h": "Why sail west?",
+   "b": "<p>Since the Ottomans controlled eastern routes, Europeans wanted a sea route to Asia's spices and silk. Portugal was sailing around Africa. Columbus, from Genoa, proposed going west instead.</p><p>He got ships from Spain's queen Isabella and king Ferdinand: the <b>Santa Maria, Pinta and Nina</b>. He had guessed Earth was smaller than it is. Educated people knew it was round, but his critics rightly said the distance was far bigger.</p>"
+  },
+  {
+   "tag": "The turning point",
+   "h": "The map is redrawn",
+   "b": "<p>Spain and Portugal agreed in the <b>Treaty of Tordesillas</b> (1494) to split the new lands between them. A German map of 1507 first used the name <b>America</b>, after Amerigo Vespucci, who argued it was a new continent.</p><p>In 1498 <b>Vasco da Gama</b> reached India round Africa. Two routes, one world.</p>"
+  },
+  {
+   "tag": "The twist",
+   "h": "The Columbian Exchange",
+   "b": "<svg class=\"d\" viewBox=\"0 0 320 130\"><rect x=\"6\" y=\"2\" width=\"150\" height=\"126\" rx=\"6\" fill=\"#f1e4c6\" stroke=\"#a8792a\"/><text x=\"81\" y=\"20\" font-size=\"11\" font-weight=\"700\" text-anchor=\"middle\" fill=\"#1d2433\">To the Old World</text><text x=\"14\" y=\"42\" font-size=\"10.5\" fill=\"#1d2433\">Potatoes and maize</text><text x=\"14\" y=\"66\" font-size=\"10.5\" fill=\"#1d2433\">Tomatoes, chilli</text><text x=\"14\" y=\"90\" font-size=\"10.5\" fill=\"#1d2433\">Cocoa, tobacco</text><text x=\"14\" y=\"114\" font-size=\"10.5\" fill=\"#1d2433\">Cassava, groundnut</text><rect x=\"164\" y=\"2\" width=\"150\" height=\"126\" rx=\"6\" fill=\"#dceaec\" stroke=\"#2f6f7a\"/><text x=\"239\" y=\"20\" font-size=\"11\" font-weight=\"700\" text-anchor=\"middle\" fill=\"#1d2433\">To the Americas</text><text x=\"172\" y=\"42\" font-size=\"10.5\" fill=\"#1d2433\">Horses and cattle</text><text x=\"172\" y=\"66\" font-size=\"10.5\" fill=\"#1d2433\">Wheat, rice, sugar</text><text x=\"172\" y=\"90\" font-size=\"10.5\" fill=\"#1d2433\">Pigs, sheep</text><text x=\"172\" y=\"114\" font-size=\"10.5\" fill=\"#1d2433\">Smallpox, measles</text></svg><p>The historian Alfred Crosby named this the <b>Columbian Exchange</b> in 1972. Potatoes helped Europe's population grow. Horses changed Plains life. But germs were deadly.</p>"
+  },
+  {
+   "tag": "The story",
+   "h": "Disease, gold and silver",
+   "b": "<p>The Taino people of the Caribbean were nearly wiped out within decades by disease, forced labour and violence. In the mainland, smallpox killed vast numbers. Estimates of the pre-1492 population and the fall vary widely; many scholars say the Americas lost the majority of their people in the first century or so.</p><p>Spanish mines like Potosi (Bolivia) poured silver into the world economy.</p>"
+  },
+  {
+   "tag": "The story",
+   "h": "Columbus himself",
+   "b": "<p>Columbus was a brave sailor and a harsh governor. Spanish officials arrested him in 1500 over his rule in Hispaniola. Today many places debate statues and holidays named for him. The debate is about the person, but also about what 1492 started.</p><p>Both points are true: the voyage changed history, and it began a catastrophe for many.</p>"
+  },
+  {
+   "tag": "Myth vs fact",
+   "h": "Did Columbus prove the Earth was round?",
+   "b": "<b>Myth:</b> everyone thought it was flat until Columbus.<b>Fact:</b> educated Europeans had known it was round since Greek times. Eratosthenes (about 240 BCE) even estimated its size. Columbus was wrong about the size, and if the Americas had not been there, his ships would likely have run out of food.<p>Another correction: Norse sailors reached North America around 500 years earlier.</p>"
+  },
+  {
+   "tag": "Indian angle",
+   "h": "Meanwhile in India…",
+   "b": "<p>The name that stuck</p>"
+  },
+  {
+   "tag": "Recap",
+   "h": "Five takeaways, two puzzles",
+   "b": "<p><b>Five things to remember</b></p><ol><li>Columbus landed in the Bahamas on 12 October 1492.</li><li>He thought he had reached Asia.</li><li>Tordesillas (1494) divided the world between Spain and Portugal.</li><li>The Columbian Exchange moved crops, animals and diseases.</li><li>Da Gama reached Calicut in 1498.</li></ol><p><b>Think about it</b></p><ul><li>Can a voyage be both great and terrible?</li><li>What would Europe eat without the Americas?</li></ul>",
+   "cls": "exam"
+  }
+ ],
+ "quiz": [
+  {
+   "q": "Columbus landed in...",
+   "o": [
+    "Mexico in 1519",
+    "Peru in 1532",
+    "The Bahamas in 1492",
+    "India in 1498"
+   ],
+   "a": 2,
+   "w": "12 October."
+  },
+  {
+   "q": "He sailed for...",
+   "o": [
+    "Spain",
+    "Portugal",
+    "England",
+    "France"
+   ],
+   "a": 0,
+   "w": "Ferdinand and Isabella."
+  },
+  {
+   "q": "The Treaty of Tordesillas was in...",
+   "o": [
+    "1492",
+    "1519",
+    "1600",
+    "1494"
+   ],
+   "a": 3,
+   "w": "Spain and Portugal."
+  },
+  {
+   "q": "'America' appeared on a map in...",
+   "o": [
+    "1492",
+    "1507",
+    "1450",
+    "1600"
+   ],
+   "a": 1,
+   "w": "After Amerigo Vespucci."
+  },
+  {
+   "q": "The 'Columbian Exchange' was named by...",
+   "o": [
+    "Alfred Crosby",
+    "Columbus",
+    "Vespucci",
+    "Marx"
+   ],
+   "a": 0,
+   "w": "In 1972."
+  },
+  {
+   "q": "Which came from the Americas?",
+   "o": [
+    "Wheat",
+    "Horses",
+    "Rice",
+    "Potatoes"
+   ],
+   "a": 3,
+   "w": "Also maize, tomatoes."
+  },
+  {
+   "q": "Which crossed to the Americas?",
+   "o": [
+    "Chilli",
+    "Horses",
+    "Cocoa",
+    "Tobacco"
+   ],
+   "a": 1,
+   "w": "With the Spanish."
+  },
+  {
+   "q": "What killed the most Native Americans?",
+   "o": [
+    "Cold weather",
+    "Famine alone",
+    "Disease, including smallpox",
+    "Earthquakes"
+   ],
+   "a": 2,
+   "w": "Germs plus violence and forced labour."
+  },
+  {
+   "q": "Da Gama reached India in...",
+   "o": [
+    "1492",
+    "1510",
+    "1526",
+    "1498"
+   ],
+   "a": 3,
+   "w": "At Calicut."
+  },
+  {
+   "q": "Why did Columbus say 'Indians'?",
+   "o": [
+    "He thought he reached the Indies",
+    "A local word",
+    "A Hindu legend",
+    "A Greek name"
+   ],
+   "a": 0,
+   "w": "He thought it was Asia."
+  }
+ ],
+ "sources": [
+  "Crosby, The Columbian Exchange (1972); Phillips & Phillips, Worlds of Christopher Columbus; Subrahmanyam, The Career and Legend of Vasco da Gama (1997); Waldseemuller map 1507"
+ ],
+ "verified": "2026-11-10"
+}

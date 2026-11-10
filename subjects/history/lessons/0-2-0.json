@@ -1,0 +1,176 @@
+{
+ "id": "0-2-0",
+ "title": "The Mauryan Empire",
+ "emoji": "🦁",
+ "cards": [
+  {
+   "tag": "Why this matters",
+   "h": "India’s first big empire",
+   "b": "<p>The Mauryas (c. 321 to 185 BCE) united most of the subcontinent. We have rich sources: Kautilya, Megasthenes, Ashoka’s edicts. Ashoka’s Dhamma is a regular Mains theme.</p>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "Sources",
+   "b": "<ul><li><b>Arthashastra</b> (Kautilya or Chanakya; dating disputed, between c. 300 BCE and 300 CE, with the core from Mauryan times).</li><li><b>Indica</b> (Megasthenes, Greek ambassador at Chandragupta’s court; survives in fragments).</li><li><b>Mudrarakshasa</b> (Vishakhadatta, Gupta period).</li><li>Buddhist texts (<i>Dipavamsa</i>, <i>Mahavamsa</i>), Jain texts, Ashokan inscriptions, <i>Rudradaman’s Junagadh inscription</i> (Sudarshana lake).</li></ul>"
+  },
+  {
+   "tag": "Key idea",
+   "h": "Chandragupta and Bindusara",
+   "b": "<b>Chandragupta Maurya</b> (c. 321 to 297 BCE), with Chanakya, overthrew the Nandas, defeated Seleucus Nicator (c. 305 BCE; treaty gave Kabul, Kandahar, Herat and Baluchistan for 500 elephants; Megasthenes sent). Later, tradition says he became a Jain monk (Shravanabelagola). <b>Bindusara</b> (c. 297 to 273 BCE): “Amitraghata” (slayer of foes); extended to the Deccan; ties with Syria (Antiochus I) and Egypt."
+  },
+  {
+   "tag": "Key idea",
+   "h": "Ashoka and Kalinga",
+   "b": "<b>Ashoka</b> (c. 268 to 232 BCE). <b>Kalinga war</b> (c. 261 BCE; Rock Edict XIII: 100,000 killed, 150,000 deported): he turned to Buddhism and <b>Dhamma</b>. Edicts in Brahmi (and Kharosthi, Greek, Aramaic in the west) on rocks and pillars; discovered by James Prinsep (1837 deciphered Brahmi). Rock Edicts, Minor Rock Edicts, Pillar Edicts (Delhi-Topra, Sarnath), Lauriya Nandangarh. He is called “Devanampiya Piyadasi”."
+  },
+  {
+   "tag": "Key idea",
+   "h": "Ashoka’s Dhamma",
+   "b": "<p>Not a new religion but a moral code: tolerance, non-violence to animals, respect to elders, kindness to slaves, truth, generosity. <b>Dhamma-mahamattas</b> (appointed in the 13th year) took the message; tours (<i>dhamma-yatras</i>), welfare (wells, trees, hospitals, rest houses), peace with neighbours, envoys to Sri Lanka (Mahinda and Sanghamitra), Syria, Egypt, Macedonia. Ashokan lion capital at Sarnath is India’s emblem; the wheel is on the flag. Third Buddhist Council at Pataliputra.</p>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "Mauryan administration",
+   "b": "<p>Highly centralised. <b>Saptanga</b> (seven limbs of the state). King; <i>mantri-parishad</i>; <b>Amatyas</b>; 18 <i>tirthas</i> (officials) in the Arthashastra. Provinces: Taxila, Ujjain, Tosali, Suvarnagiri, Pataliputra (<i>Kumaras</i> as governors). Local: <i>Gopa</i>, <i>Sthanika</i>; <i>Pradeshika</i>, <i>Rajuka</i>, <i>Yukta</i>. Megasthenes: six committees of five members each in Pataliputra. A vast spy network (<i>gudhapurushas</i>). A standing army (600,000 infantry per Pliny). Revenue: <i>bhaga</i> (one-sixth), <i>bali</i>, <i>sita</i> (crown lands), taxes on trade; state control of mines and the economy.</p>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "Economy and society",
+   "b": "<p>Agriculture, state farms (<i>sita</i>), irrigation (Sudarshana lake), trade by Uttarapatha and Dakshinapatha, punch-marked coins, guilds. Material: NBPW. Slaves (<i>dasa</i>), foreigners (<i>Yavanas</i>). Pataliputra was among the largest cities. Decline: weak successors, an expensive army and bureaucracy, tax pressure, Ashoka’s policies, provincial revolts, the rise of regions; Pushyamitra Shunga killed Brihadratha, the last Maurya (c. 185 BCE).</p>"
+  },
+  {
+   "tag": "Debate",
+   "h": "Ashoka: saint or statesman?",
+   "b": "<p>Romila Thapar (<i>Asoka and the Decline of the Mauryas</i>, 1961) shows Dhamma as a policy of social cohesion in a diverse empire. D. D. Kosambi and R. S. Sharma see Mauryan state as exploitative. Ashoka’s non-violence is also debated: he did not disband the army or end the death penalty. The Arthashastra’s realism (Kautilya) vs Ashoka’s idealism is a classic comparison.</p>"
+  },
+  {
+   "tag": "Indian angle",
+   "h": "Why it matters today",
+   "b": "<p>The Ashoka Chakra is on the flag and the Lion Capital is the State Emblem; “Satyameva Jayate” is added beneath. Ideas of welfare state, ethical governance and tolerance (Article 25) are often linked to Dhamma. The Arthashastra shapes India’s strategic thought; Pataliputra’s remains lie under Patna. Ashokan edicts are Brahmi examples in UNESCO’s tentative list.</p>"
+  },
+  {
+   "tag": "Exam lens",
+   "h": "How to answer",
+   "b": "<ul><li>“Ashoka’s Dhamma: was it a religion or a policy?”</li><li>“Mauryan administration: its main features.”</li><li>“Why did the Mauryan Empire decline?”</li><li>Prelims tip: Rock Edict XIII = Kalinga; Brahmi deciphered by Prinsep (1837); Megasthenes = Indica; Sarnath capital; Saptanga; Junagadh = Rudradaman.</li></ul>",
+   "cls": "exam"
+  }
+ ],
+ "quiz": [
+  {
+   "q": "The Arthashastra is attributed to",
+   "o": [
+    "Kautilya",
+    "Megasthenes",
+    "Kalhana",
+    "Vishakhadatta"
+   ],
+   "a": 0,
+   "w": "Also called Chanakya."
+  },
+  {
+   "q": "Megasthenes was an ambassador of",
+   "o": [
+    "Alexander",
+    "Antiochus",
+    "Ptolemy",
+    "Seleucus Nicator"
+   ],
+   "a": 3,
+   "w": "To Chandragupta’s court."
+  },
+  {
+   "q": "Chandragupta Maurya defeated",
+   "o": [
+    "The Shungas",
+    "The Guptas",
+    "The Nandas",
+    "The Kushanas"
+   ],
+   "a": 2,
+   "w": "With Chanakya’s help."
+  },
+  {
+   "q": "Bindusara was known as",
+   "o": [
+    "Priyadarshi",
+    "Amitraghata",
+    "Devanampiya",
+    "Chakravartin"
+   ],
+   "a": 1,
+   "w": "Slayer of foes."
+  },
+  {
+   "q": "Rock Edict XIII refers to",
+   "o": [
+    "The Kalinga war",
+    "Welfare measures",
+    "The Third Council",
+    "Slavery"
+   ],
+   "a": 0,
+   "w": "Ashoka expressed remorse."
+  },
+  {
+   "q": "The script of most Ashokan edicts is",
+   "o": [
+    "Kharosthi only",
+    "Devanagari",
+    "Sharada",
+    "Brahmi"
+   ],
+   "a": 3,
+   "w": "Prinsep deciphered it in 1837."
+  },
+  {
+   "q": "The Dhamma-mahamattas were",
+   "o": [
+    "Tax collectors",
+    "Army commanders",
+    "Officers to spread Dhamma",
+    "Spies"
+   ],
+   "a": 2,
+   "w": "Appointed in Ashoka’s 13th regnal year."
+  },
+  {
+   "q": "Who sent Mahinda and Sanghamitra to Sri Lanka?",
+   "o": [
+    "Kanishka",
+    "Ashoka",
+    "Harsha",
+    "Chandragupta"
+   ],
+   "a": 1,
+   "w": "To spread Buddhism."
+  },
+  {
+   "q": "The last Mauryan king, Brihadratha, was killed by",
+   "o": [
+    "Pushyamitra Shunga",
+    "Kharavela",
+    "Agnimitra",
+    "Bindusara"
+   ],
+   "a": 0,
+   "w": "About 185 BCE."
+  },
+  {
+   "q": "Sita lands in the Mauryan economy were",
+   "o": [
+    "Temple lands",
+    "Village commons",
+    "Forest reserves",
+    "Crown lands"
+   ],
+   "a": 3,
+   "w": "Directly run by the state."
+  }
+ ],
+ "sources": [
+  "Romila Thapar, Asoka and the Decline of the Mauryas (1961)",
+  "NCERT Class XI, Ancient India; Spectrum",
+  "Kangle edition of Arthashastra"
+ ],
+ "verified": "2026-11-10"
+}

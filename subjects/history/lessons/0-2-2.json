@@ -1,0 +1,176 @@
+{
+ "id": "0-2-2",
+ "title": "The Gupta Age",
+ "emoji": "🌟",
+ "cards": [
+  {
+   "tag": "Why this matters",
+   "h": "The “classical age”",
+   "b": "<p>The Guptas (c. 320 to 550 CE) are remembered for art, science and Sanskrit. Historians debate whether it was a golden age. Questions test rulers, sources and cultural achievements.</p>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "Rise of the Guptas",
+   "b": "<p>Founder: <b>Sri Gupta</b>; <b>Chandragupta I</b> (c. 319 to 335 CE) married the Lichchhavi princess Kumaradevi (Gupta era from 319 or 320 CE). Capital Pataliputra, later Ayodhya and Ujjain. Sources: coins, the Allahabad Pillar (Prayaga Prashasti), Fa-Hien’s travel account, Kalidasa, Vishakhadatta’s <i>Devichandraguptam</i>, Mehrauli iron pillar.</p>"
+  },
+  {
+   "tag": "Key idea",
+   "h": "Samudragupta (c. 335 to 375)",
+   "b": "<p>Called the “Napoleon of India” (V. A. Smith). The <b>Prayaga Prashasti</b> by Harishena records his conquests: Aryavarta (violent conquest), Dakshinapatha (captured and then freed: <i>grahana-moksha-anugraha</i>), forest tribes, frontier kings; foreign kings offered gifts. Performed Ashvamedha. Coins show him playing the veena. Patron of Vasubandhu; Sri Lankan king Meghavarna sent a mission.</p>"
+  },
+  {
+   "tag": "Key idea",
+   "h": "Chandragupta II and later rulers",
+   "b": "<b>Chandragupta II (Vikramaditya)</b>, c. 375 to 415 CE: defeated the Shakas of Western India (Rudrasimha III), gaining ports (Bharuch) and Ujjain; Navaratnas (Kalidasa, Amarasimha, Varahamihira); Fa-Hien visited. <b>Kumaragupta I</b> (c. 415 to 455): Nalanda founded. <b>Skandagupta</b>: repelled the Hunas; Sudarshana lake repaired. Later Guptas fell to the Huns (Toramana, Mihirakula) and regional rulers by about 550 CE."
+  },
+  {
+   "tag": "Core idea",
+   "h": "Administration",
+   "b": "<p>Titles: <i>Maharajadhiraja</i>, <i>Parameshvara</i>. Provinces (<i>bhuktis</i>, under <i>uparikas</i>), districts (<i>vishayas</i>, under <i>vishayapatis</i>), villages (<i>gramikas</i>). Officers: <i>Mahasandhivigrahika</i>, <i>Kumaramatya</i>, <i>Dandanayaka</i>. A more decentralised pattern than the Mauryas: feudatories (<i>samantas</i>), land grants (<i>agrahara</i>), religious grants with administrative rights. Brahmin and temple lands grew. Fewer salaried officials, more land payment.</p>"
+  },
+  {
+   "tag": "Key idea",
+   "h": "Economy",
+   "b": "<p>Fa-Hien noted safe roads and mild taxes. Gold coins (<i>dinaras</i>) in large numbers, but fewer silver and copper coins and a decline in long-distance trade in the later period (R. S. Sharma). Crafts: textiles, ivory, metallurgy (the Delhi Iron Pillar of Chandragupta II). Land grants and forced labour (<i>vishti</i>) increased. Towns declined according to some historians.</p>"
+  },
+  {
+   "tag": "Key idea",
+   "h": "Culture and science",
+   "b": "<b>Literature</b>: Kalidasa (<i>Shakuntala</i>, <i>Meghaduta</i>, <i>Raghuvamsha</i>), Shudraka, Vishakhadatta, Bharavi; <i>Panchatantra</i>; Puranas and Smritis (Narada, Brihaspati) compiled; <b>Science</b>: <b>Aryabhata</b> (<i>Aryabhatiya</i>, 499 CE; zero, decimal, the earth’s rotation, pi), Varahamihira (<i>Brihat Samhita</i>), Brahmagupta (later), Sushruta and Charaka (earlier works). <b>Art</b>: Deogarh Dashavatara temple, Sarnath Buddha, Ajanta, Udayagiri. Nalanda grew into a great university."
+  },
+  {
+   "tag": "Debate",
+   "h": "Golden age or not?",
+   "b": "<p>Nationalist historians (R. C. Majumdar, Altekar) called it a golden age. Marxist historians (R. S. Sharma, D. N. Jha) said it was the start of feudalism with landlordism, decline of trade and rise of untouchability (Fa-Hien’s mention of <i>chandalas</i>). Romila Thapar urges care with the term. Recent work stresses regional variety. The age had great art, science and literature but also growing social rigidity and worsening position of women (child marriage, restrictions in Smritis).</p>"
+  },
+  {
+   "tag": "Indian angle",
+   "h": "Why it matters today",
+   "b": "<p>The Delhi Iron Pillar shows India’s early metallurgy; Aryabhata gave his name to India’s first satellite (1975). “Nalanda” inspired the new Nalanda University. Aryabhata’s zero and the decimal system are India’s contribution to global mathematics. Yet the golden age claim features in culture and history textbook debates.</p>"
+  },
+  {
+   "tag": "Exam lens",
+   "h": "How to answer",
+   "b": "<ul><li>“Was the Gupta age a golden age?”</li><li>“Gupta administration compared with the Mauryan.”</li><li>“Contribution of the Guptas to science and art.”</li><li>Prelims tip: Prayaga Prashasti = Harishena; Fa-Hien = Chandragupta II; Aryabhatiya 499; Navaratnas; Mehrauli pillar; Nalanda = Kumaragupta I; Huns = Skandagupta.</li></ul>",
+   "cls": "exam"
+  }
+ ],
+ "quiz": [
+  {
+   "q": "The Prayaga Prashasti was composed by",
+   "o": [
+    "Kalidasa",
+    "Ravikirti",
+    "Harishena",
+    "Banabhatta"
+   ],
+   "a": 2,
+   "w": "On the Allahabad Pillar."
+  },
+  {
+   "q": "Samudragupta is called the Napoleon of India by",
+   "o": [
+    "R. C. Majumdar",
+    "V. A. Smith",
+    "R. S. Sharma",
+    "Romila Thapar"
+   ],
+   "a": 1,
+   "w": "A British historian."
+  },
+  {
+   "q": "The Chinese pilgrim Fa-Hien visited during the reign of",
+   "o": [
+    "Chandragupta II",
+    "Samudragupta",
+    "Skandagupta",
+    "Harsha"
+   ],
+   "a": 0,
+   "w": "About 399 to 414 CE."
+  },
+  {
+   "q": "The Gupta king who defeated the Shakas was",
+   "o": [
+    "Chandragupta I",
+    "Kumaragupta I",
+    "Skandagupta",
+    "Chandragupta II"
+   ],
+   "a": 3,
+   "w": "He took Western India."
+  },
+  {
+   "q": "Nalanda was founded under",
+   "o": [
+    "Chandragupta II",
+    "Harsha",
+    "Kumaragupta I",
+    "Dharmapala"
+   ],
+   "a": 2,
+   "w": "It became a major centre of learning."
+  },
+  {
+   "q": "The Aryabhatiya was composed in",
+   "o": [
+    "320 CE",
+    "499 CE",
+    "78 CE",
+    "606 CE"
+   ],
+   "a": 1,
+   "w": "By Aryabhata."
+  },
+  {
+   "q": "The Hunas were repelled by",
+   "o": [
+    "Skandagupta",
+    "Samudragupta",
+    "Kumaragupta",
+    "Chandragupta I"
+   ],
+   "a": 0,
+   "w": "He also repaired the Sudarshana lake."
+  },
+  {
+   "q": "The Gupta provincial unit was",
+   "o": [
+    "Rashtra",
+    "Ahara",
+    "Mandalam",
+    "Bhukti"
+   ],
+   "a": 3,
+   "w": "Headed by an uparika."
+  },
+  {
+   "q": "The Deogarh temple represents",
+   "o": [
+    "Chola temple",
+    "Mughal tomb",
+    "Gupta temple architecture",
+    "Buddhist stupa"
+   ],
+   "a": 2,
+   "w": "It is a Dashavatara temple."
+  },
+  {
+   "q": "R. S. Sharma argued that Gupta times saw",
+   "o": [
+    "A rise in urban trade",
+    "The start of feudal features",
+    "A fall in land grants",
+    "The spread of money economy"
+   ],
+   "a": 1,
+   "w": "Land grants and decline of trade."
+  }
+ ],
+ "sources": [
+  "Romila Thapar, Early India; R. S. Sharma, India’s Ancient Past",
+  "NCERT Class XI, Ancient India; Spectrum",
+  "Allahabad Pillar inscription"
+ ],
+ "verified": "2026-11-10"
+}
