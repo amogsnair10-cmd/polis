@@ -1,0 +1,178 @@
+{
+ "id": "1-5-1",
+ "title": "The Commissions: NHRC, NCW, NCSC, NCST, NCM, NCBC",
+ "emoji": "🛡️",
+ "cards": [
+  {
+   "tag": "Why this matters",
+   "h": "Watchdogs for rights and for vulnerable groups",
+   "b": "<p>Besides courts, India has a set of <b>commissions</b> to protect rights and particular groups: the <b>NHRC</b> (human rights), <b>NCW</b> (women), <b>NCSC</b> (Scheduled Castes), <b>NCST</b> (Scheduled Tribes), <b>NCM</b> (minorities) and <b>NCBC</b> (backward classes).</p><p>Some are <b>constitutional</b> (NCSC, NCST, NCBC); others are <b>statutory</b> (NHRC, NCW, NCM). This difference matters for status and permanence but less for power: all mainly investigate and recommend.</p><p>The exam question is usually: are they \"toothless tigers\"? You need their legal basis, composition, powers and examples of success or failure.</p>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "Constitutional or statutory: a quick map",
+   "b": "<svg class=\"d\" viewBox=\"0 0 320 140\"><g font-size=\"10\" text-anchor=\"middle\" fill=\"#1d2433\"><rect x=\"6\" y=\"8\" width=\"150\" height=\"124\" rx=\"8\" fill=\"#dceaec\" stroke=\"#2f6f7a\"/><text x=\"81\" y=\"26\" font-weight=\"700\">Constitutional</text><text x=\"81\" y=\"50\">NCSC: Art 338</text><text x=\"81\" y=\"70\">NCST: Art 338A (2004)</text><text x=\"81\" y=\"90\">NCBC: Art 338B (2018)</text><rect x=\"164\" y=\"8\" width=\"150\" height=\"124\" rx=\"8\" fill=\"#f1e4c6\" stroke=\"#a8792a\"/><text x=\"239\" y=\"26\" font-weight=\"700\">Statutory</text><text x=\"239\" y=\"50\">NHRC: PHRA, 1993</text><text x=\"239\" y=\"70\">NCW: NCW Act, 1990</text><text x=\"239\" y=\"90\">NCM: NCM Act, 1992</text><text x=\"239\" y=\"110\">NCPCR: 2005 Act</text></g></svg><ul><li>Article 338 began as a Special Officer for SC and ST. The <b>65th Amendment (1990)</b> made a multi-member commission. The <b>89th Amendment (2003)</b> split it into NCSC (338) and NCST (338A, from 2004).</li><li>The NCBC was set up in 1993 by law after <i>Indra Sawhney</i>, and given constitutional status by the <b>102nd Amendment (2018)</b>.</li></ul>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "NHRC: structure and powers",
+   "b": "<ul><li>Created by the <b>Protection of Human Rights Act, 1993</b>, in line with the UN <b>Paris Principles</b> (1993) for national human rights institutions.</li><li><b>Chair:</b> a former Chief Justice of India, or (since the 2019 amendment) a former Supreme Court judge. Members include judges and experts; ex-officio members are chairs of other national commissions.</li><li><b>Appointment:</b> by the President on the advice of a committee of the PM, Speaker, Home Minister, Leaders of the Opposition in both Houses and the Rajya Sabha Deputy Chairman.</li><li><b>Powers:</b> inquire into violations (on complaint or on its own), powers of a civil court for summons, visit jails, intervene in court cases, recommend compensation or prosecution.</li><li><b>Limits:</b> its recommendations are not binding; it cannot look at complaints older than one year; on the armed forces it can only seek a report from the government (Section 19).</li></ul><p>Justice V. Ramasubramanian became chairperson in December 2024. State Human Rights Commissions follow the same Act.</p>"
+  },
+  {
+   "tag": "Key idea",
+   "h": "NHRC: record and criticism",
+   "b": "<p><b>Positive record:</b> guidelines on custodial deaths (to be reported within 24 hours), encounter killings (inquiry procedure), bonded labour, and the Gujarat riots of 2002, where it moved the Supreme Court for transfers of cases.</p><p><b>Criticisms:</b></p><ul><li>Critics often call it a \"toothless tiger\", since it can only recommend.</li><li>Mostly retired judges and officers; few civil society members.</li><li>Staff and investigators come from the police.</li><li>The Global Alliance of National Human Rights Institutions (GANHRI) deferred its \"A\" status review in 2023 and 2024, citing issues of pluralism, independence and the role of police in investigations.</li></ul><p>Thinkers to cite: <b>Upendra Baxi</b> (<i>The Future of Human Rights</i>, 2002) on the gap between the rhetoric and the \"politics of suffering\".</p>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "NCSC and NCST",
+   "b": "<ul><li><b>Composition:</b> chairperson, vice-chairperson and three members, appointed by the President.</li><li><b>Duties (Articles 338, 338A):</b> investigate safeguards, inquire into complaints, advise on development, and report to the President, who lays reports before Parliament with an action-taken memorandum.</li><li><b>Powers:</b> of a civil court in inquiries.</li><li>The NCST also has duties on forest rights, displacement and the protection of tribal lands.</li></ul><p><b>Context:</b> they monitor the SC/ST (Prevention of Atrocities) Act, 1989 and reservation. Problems: reports are often tabled years late, and many posts have stayed vacant for long periods. The commissions lack their own investigators.</p><p><b>Debates:</b> creamy layer and sub-classification after <i>Davinder Singh</i> (2024); Dalit Christians and Muslims' demand for SC status (examined by the K.G. Balakrishnan commission set up in 2022).</p>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "NCBC and the OBC question",
+   "b": "<ul><li>The <b>NCBC Act, 1993</b> created it after <i>Indra Sawhney</i> to advise on inclusion and exclusion in OBC lists.</li><li>The <b>102nd Amendment (2018)</b> repealed the Act and made it constitutional under Article 338B, with powers like the NCSC's to look into OBC grievances. Article 342A gave the President power to notify OBC lists.</li><li>In <i>Jaishri Patil</i> (Maratha case, May 2021), the Court read this as taking away states' power to identify OBCs. The <b>105th Amendment (2021)</b> restored the states' power to keep their own lists.</li><li>The <b>Rohini Commission</b> (2017-2023) studied sub-categorisation of central OBC lists.</li></ul><p>Debates: which castes to include (Jats, Marathas, Patidars), creamy layer income limit (₹8 lakh since 2017), and the coming caste data from Census 2027.</p>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "NCW and NCM",
+   "b": "<div class=\"box\"><h4>National Commission for Women</h4>Set up in January 1992 under the <b>NCW Act, 1990</b>. A chairperson and five members (at least one from SC/ST). Reviews safeguards for women, inquires into complaints, recommends changes in law. It has influenced laws on dowry, domestic violence (2005) and sexual harassment at work (POSH Act, 2013). Critics say it reacts selectively and is close to the ruling party.</div><div class=\"box\"><h4>National Commission for Minorities</h4>Statutory under the <b>NCM Act, 1992</b>. Six notified minorities: Muslims, Christians, Sikhs, Buddhists, Parsis and Jains (Jains added in 2014). Monitors safeguards and inquires into complaints. Grew out of the Minorities Commission of 1978. Critics point to vacancies and weak follow-up. The <b>National Commission for Minority Educational Institutions</b> (2004) deals with Article 30 rights.</div><p>Related: the <b>National Commission for Protection of Child Rights</b> (2005 Act, set up 2007).</p>"
+  },
+  {
+   "tag": "Critique",
+   "h": "Toothless or useful?",
+   "b": "<p><b>Why \"toothless\":</b></p><ul><li>Recommendations are advisory; government can ignore them.</li><li>Appointments are made by the executive, often from ruling party circles.</li><li>Delays, vacancies, and dependence on ministries for staff and money.</li><li>Overlap: several commissions may handle the same complaint.</li></ul><p><b>Why still useful:</b></p><ul><li>They create public records, guidelines and pressure.</li><li>They give victims a cheaper, quicker forum than courts.</li><li>Parliamentary reporting forces some response.</li></ul><p><b>Reforms:</b> binding powers on compensation, independent investigation teams, pluralist membership, fixed budgets, time limits on action-taken reports, and merging overlapping bodies. The <b>Second ARC</b> (2005-09) made similar points.</p>"
+  },
+  {
+   "tag": "Indian angle",
+   "h": "Recent context",
+   "b": "<ul><li><b>Manipur (2023-26):</b> commissions were criticised for slow responses to ethnic violence and sexual assault cases; the Supreme Court set up its own committee of former judges (August 2023).</li><li><b>NHRC accreditation:</b> GANHRI's deferrals (2023-24) became a reputational issue.</li><li><b>Caste census:</b> Census 2027 data will matter for NCBC and NCSC work.</li><li><b>Waqf Act 2025</b> and minority rights claims before the NCM and courts.</li><li><b>Custodial deaths</b> and encounter cases continue to reach the NHRC.</li></ul>"
+  },
+  {
+   "tag": "Exam lens",
+   "h": "How UPSC asks this",
+   "b": "<div class=\"box\">\"National commissions are toothless tigers. Critically examine with reference to the NHRC.\"</div><div class=\"box\">\"Compare the constitutional and statutory status of the commissions for SCs, STs and backward classes.\"</div><div class=\"box\">\"Evaluate the role of the National Commission for Women.\"</div><p><b>Structure:</b> map of bodies and their legal basis; NHRC composition and powers with Paris Principles; record and limits; NCSC, NCST, NCBC with amendments (65th, 89th, 102nd, 105th); NCW, NCM; critique and reforms; recent cases; balanced conclusion.</p>",
+   "cls": "exam"
+  }
+ ],
+ "quiz": [
+  {
+   "q": "The NHRC was created under…",
+   "o": [
+    "The Constitution",
+    "The Protection of Human Rights Act, 1993",
+    "The NCW Act, 1990",
+    "The Paris Agreement"
+   ],
+   "a": 1,
+   "w": "PHRA, 1993."
+  },
+  {
+   "q": "Which amendment split the SC/ST commission into two?",
+   "o": [
+    "65th",
+    "89th",
+    "102nd",
+    "105th"
+   ],
+   "a": 1,
+   "w": "89th Amendment, 2003."
+  },
+  {
+   "q": "The NCBC became constitutional under the…",
+   "o": [
+    "93rd Amendment",
+    "102nd Amendment",
+    "103rd Amendment",
+    "105th Amendment"
+   ],
+   "a": 1,
+   "w": "Article 338B, 2018."
+  },
+  {
+   "q": "The 105th Amendment (2021)…",
+   "o": [
+    "Created the NCW",
+    "Restored states' power to identify OBCs",
+    "Created the NHRC",
+    "Abolished the NCM"
+   ],
+   "a": 1,
+   "w": "After the Maratha judgment."
+  },
+  {
+   "q": "The UN standards for national human rights institutions are the…",
+   "o": [
+    "Geneva Conventions",
+    "Paris Principles",
+    "Vienna Declaration",
+    "Rome Statute"
+   ],
+   "a": 1,
+   "w": "Paris Principles, 1993."
+  },
+  {
+   "q": "Which community was added to the notified minorities in 2014?",
+   "o": [
+    "Parsis",
+    "Jains",
+    "Buddhists",
+    "Sikhs"
+   ],
+   "a": 1,
+   "w": "Jains."
+  },
+  {
+   "q": "The NCW was set up in…",
+   "o": [
+    "1990",
+    "1992",
+    "1993",
+    "2005"
+   ],
+   "a": 1,
+   "w": "January 1992, under the 1990 Act."
+  },
+  {
+   "q": "The NHRC cannot take up complaints older than…",
+   "o": [
+    "Six months",
+    "One year",
+    "Two years",
+    "Five years"
+   ],
+   "a": 1,
+   "w": "One year."
+  },
+  {
+   "q": "NCST is under Article…",
+   "o": [
+    "338",
+    "338A",
+    "338B",
+    "340"
+   ],
+   "a": 1,
+   "w": "338A."
+  },
+  {
+   "q": "Which commission studied sub-categorisation of central OBC lists?",
+   "o": [
+    "Mandal",
+    "Rohini",
+    "Sachar",
+    "Kalelkar"
+   ],
+   "a": 1,
+   "w": "Rohini Commission (2017-2023)."
+  }
+ ],
+ "sources": [
+  "Constitution of India, Arts 338, 338A, 338B, 342A; 65th, 89th, 102nd, 105th Amendments",
+  "Protection of Human Rights Act, 1993 (amended 2006, 2019); NCW Act, 1990; NCM Act, 1992",
+  "UN Paris Principles (1993); GANHRI accreditation reports",
+  "Upendra Baxi, The Future of Human Rights (2002); Second ARC reports",
+  "PYQ themes: NHRC effectiveness, national commissions (Paper I Section B)"
+ ],
+ "verified": "2026-11-10"
+}

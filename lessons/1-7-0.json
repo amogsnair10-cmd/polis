@@ -1,0 +1,173 @@
+{
+ "id": "1-7-0",
+ "title": "Nehruvian and Gandhian Perspectives",
+ "emoji": "🏭",
+ "cards": [
+  {
+   "tag": "Why this matters",
+   "h": "Two visions of how India should develop",
+   "b": "<p>At independence India was poor, mostly rural and dependent on imports of machinery. Leaders agreed on ending poverty but disagreed on how. Two broad answers competed.</p><p><b>Nehru's</b> answer: planned, state-led industrialisation, with heavy industry and science, inside a democratic framework. <b>Gandhi's</b> answer: village self-reliance, small-scale production, limited wants and moral economy.</p><p>The Nehruvian model won in policy, but Gandhian ideas survived in the Directive Principles (Articles 40, 43, 47, 48), in khadi and village industries, and in later debates on sustainability.</p><p>UPSC asks you to compare the two, to judge the planning era, and to explain why planning gave way to the market after 1991.</p>"
+  },
+  {
+   "tag": "Key idea",
+   "h": "Gandhi's economic thought",
+   "b": "<ul><li><b>Hind Swaraj (1909):</b> modern industrial civilisation multiplies wants and destroys moral life. Machinery should serve people, not replace them.</li><li><b>Swadeshi</b> and <b>khadi:</b> local production and self-reliance; the charkha as a symbol of dignity and employment.</li><li><b>Trusteeship:</b> the rich should hold wealth as trustees for society, a non-violent alternative to both capitalism and class war.</li><li><b>Sarvodaya</b> (welfare of all), from his reading of Ruskin's <i>Unto This Last</i>.</li><li><b>Village republics</b> and decentralisation.</li></ul><div class=\"box\"><h4>J.C. Kumarappa, Economy of Permanence (1945)</h4>Gandhi's economist argued for an economy that lives within nature's limits. Shriman Narayan Agarwal's <b>Gandhian Plan</b> (1944) put these ideas into a plan: cottage industry, agriculture first and village self-sufficiency.</div><p>Later echoes: E.F. Schumacher's <i>Small is Beautiful</i> (1973) and today's environmental critiques of growth.</p>"
+  },
+  {
+   "tag": "Key idea",
+   "h": "Nehru's vision",
+   "b": "<ul><li>Influenced by Fabian socialism and Soviet planning, but committed to parliamentary democracy and civil liberties.</li><li><b>Mixed economy:</b> a public sector in the \"commanding heights\" (steel, power, heavy machinery) alongside private enterprise.</li><li><b>Socialistic pattern of society:</b> adopted at the Avadi session of the Congress (1955).</li><li><b>Science and technology:</b> IITs, atomic energy, and dams which Nehru called the \"temples of modern India\" (Bhakra Nangal, 1954).</li><li><b>Self-reliance:</b> import substitution and building domestic capacity.</li></ul><p>Nehru disagreed openly with Gandhi in their 1945 letters: he thought village India could not escape poverty without industry and modern science, while Gandhi held to <i>Hind Swaraj</i>.</p>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "The planning machinery",
+   "b": "<svg class=\"d\" viewBox=\"0 0 320 120\"><line x1=\"12\" y1=\"60\" x2=\"308\" y2=\"60\" stroke=\"#5d6474\" stroke-width=\"2\"/><g font-size=\"9.5\" fill=\"#1d2433\" text-anchor=\"middle\"><circle cx=\"24\" cy=\"60\" r=\"4\" fill=\"#a8792a\"/><text x=\"24\" y=\"44\">1944</text><text x=\"24\" y=\"78\">Bombay Plan</text><circle cx=\"84\" cy=\"60\" r=\"4\" fill=\"#a8792a\"/><text x=\"84\" y=\"44\">1950</text><text x=\"84\" y=\"78\">Planning Comm.</text><circle cx=\"144\" cy=\"60\" r=\"4\" fill=\"#a8792a\"/><text x=\"144\" y=\"44\">1956</text><text x=\"144\" y=\"78\">2nd Plan, IPR</text><circle cx=\"204\" cy=\"60\" r=\"4\" fill=\"#a8792a\"/><text x=\"204\" y=\"44\">1966-69</text><text x=\"204\" y=\"78\">Plan holiday</text><circle cx=\"264\" cy=\"60\" r=\"4\" fill=\"#a8792a\"/><text x=\"264\" y=\"44\">1991</text><text x=\"264\" y=\"78\">Reforms</text><circle cx=\"300\" cy=\"60\" r=\"4\" fill=\"#2f6f7a\"/><text x=\"292\" y=\"100\">2015 NITI Aayog</text></g></svg><ul><li><b>Pre-1947 plans:</b> the Bombay Plan (1944, industrialists), the Gandhian Plan (1944), the People's Plan (M.N. Roy, 1944) and the Sarvodaya Plan (J.P. Narayan, 1950).</li><li><b>Planning Commission</b> set up on 15 March 1950 by a Cabinet resolution, with the PM as chair. It was extra-constitutional. The <b>National Development Council</b> (1952) brought in Chief Ministers.</li><li><b>Industrial Policy Resolutions</b> of 1948 and 1956: reserved key sectors for the State.</li><li><b>First Plan</b> (1951-56): agriculture. <b>Second Plan</b> (1956-61): the <b>Mahalanobis model</b>, with priority to heavy industry.</li><li>Twelve Five-Year Plans in all (1951-2017). The Planning Commission was replaced by <b>NITI Aayog</b> on 1 January 2015.</li></ul>"
+  },
+  {
+   "tag": "Key idea",
+   "h": "Assessing the Nehruvian model",
+   "b": "<p><b>Achievements:</b> an industrial base, public institutions (IITs, ISRO's forerunners), dams and power, a democratic framework and modest but steady growth after colonial stagnation.</p><p><b>Failures:</b></p><ul><li>Growth of about 3.5% a year from 1950 to 1980, which Raj Krishna called the \"<b>Hindu rate of growth</b>\".</li><li>Neglect of agriculture and primary education; mass poverty persisted.</li><li>A \"licence-permit raj\" (a phrase linked to C. Rajagopalachari, who founded the pro-market Swatantra Party in 1959).</li><li>Inefficient public enterprises and rent-seeking.</li></ul><div class=\"box\"><h4>Key critics and analysts</h4><b>Jagdish Bhagwati and Padma Desai</b>, <i>India: Planning for Industrialization</i> (1970): controls choked efficiency. <b>Sukhamoy Chakravarty</b>, <i>Development Planning: The Indian Experience</i> (1987): a balanced insider view. <b>Francine Frankel</b>, <i>India's Political Economy, 1947-1977</i> (1978): planners wanted radical aims but avoided conflict with landed elites.</div>"
+  },
+  {
+   "tag": "Key idea",
+   "h": "Political economy explanations",
+   "b": "<div class=\"box\"><h4>Pranab Bardhan, The Political Economy of Development in India (1984)</h4>Three <b>dominant proprietary classes</b> (industrial capitalists, rich farmers and professionals including bureaucrats) competed for subsidies. The State became a broker of their claims, leaving little for investment.</div><div class=\"box\"><h4>Lloyd and Susanne Rudolph, In Pursuit of Lakshmi (1987)</h4>India had a \"weak-strong state\". They distinguished <b>command polity</b> (state-led, as in the Nehru and Indira years) from <b>demand polity</b> (where voters and groups press the State). They also spoke of \"<b>bullock capitalists</b>\": middle farmers who became a political force.</div><div class=\"box\"><h4>Atul Kohli, State-Directed Development (2004)</h4>Compared India with Korea and Brazil; India's state was \"fragmented-multiclass\", not focused enough to drive fast growth.</div>"
+  },
+  {
+   "tag": "Critique",
+   "h": "Was Gandhi's path ever practical?",
+   "b": "<p><b>For the Gandhian view:</b> it protected employment and the environment; it fits ideas of sustainable development and decentralisation; it valued dignity and limited wants. Kumarappa's \"economy of permanence\" anticipated ecological economics.</p><p><b>Against:</b> with a large and growing population, village industry alone could not create enough jobs or defence capacity. Ambedkar rejected village romanticism, and Nehru thought it would lock India in poverty.</p><p><b>Middle ground:</b> Gandhian influence lasted in the <b>Khadi and Village Industries Commission</b> (1957), small-scale reservation (until it was phased out in the 2000s), the panchayats (73rd Amendment), MGNREGA's local works, and today's support for MSMEs and the \"vocal for local\" call.</p>"
+  },
+  {
+   "tag": "Indian angle",
+   "h": "Planning today",
+   "b": "<ul><li><b>NITI Aayog</b> (2015): a think tank, not an allocator of funds. Its Governing Council includes all Chief Ministers; it prepares indices (SDG India Index, Export Preparedness) and the \"Viksit Bharat 2047\" vision.</li><li>The end of Five-Year Plans in 2017; the Finance Commission and ministries now handle transfers.</li><li><b>Atmanirbhar Bharat</b> (2020) and production-linked incentives revive the language of self-reliance, but through private industry rather than the public sector.</li><li><b>Gandhian echoes</b>: natural farming, millets, khadi sales and climate-sensitive growth.</li><li>Debate: some states and economists argue for a body like the old NDC to make planning more federal.</li></ul>"
+  },
+  {
+   "tag": "Exam lens",
+   "h": "How UPSC asks this",
+   "b": "<div class=\"box\">\"Compare the Gandhian and Nehruvian models of development.\"</div><div class=\"box\">\"Critically evaluate the planning era in India.\"</div><div class=\"box\">\"Explain Bardhan's thesis of dominant proprietary classes.\"</div><div class=\"box\">\"Is NITI Aayog a better institution than the Planning Commission?\"</div><p><b>Structure:</b> context of 1947; Gandhi (Hind Swaraj, trusteeship, Kumarappa); Nehru (mixed economy, Mahalanobis, Avadi); planning machinery; achievements and failures; political-economy explanations (Bardhan, Rudolphs, Frankel); legacy today (NITI Aayog, Atmanirbhar).</p>",
+   "cls": "exam"
+  }
+ ],
+ "quiz": [
+  {
+   "q": "The Planning Commission was set up on…",
+   "o": [
+    "15 August 1947",
+    "15 March 1950",
+    "26 January 1950",
+    "1 April 1951"
+   ],
+   "a": 1,
+   "w": "By a Cabinet resolution."
+  },
+  {
+   "q": "The Second Plan was based on the model of…",
+   "o": [
+    "Harrod-Domar",
+    "Mahalanobis",
+    "Lewis",
+    "Rostow"
+   ],
+   "a": 1,
+   "w": "Mahalanobis, with heavy industry first."
+  },
+  {
+   "q": "The 'socialistic pattern of society' was adopted at…",
+   "o": [
+    "Karachi 1931",
+    "Avadi 1955",
+    "Lahore 1929",
+    "Bhubaneswar 1964"
+   ],
+   "a": 1,
+   "w": "Avadi session of Congress, 1955."
+  },
+  {
+   "q": "Who wrote Economy of Permanence?",
+   "o": [
+    "J.C. Kumarappa",
+    "S.N. Agarwal",
+    "M.N. Roy",
+    "J.P. Narayan"
+   ],
+   "a": 0,
+   "w": "1945."
+  },
+  {
+   "q": "The 'Hindu rate of growth' phrase is associated with…",
+   "o": [
+    "Raj Krishna",
+    "Amartya Sen",
+    "Jagdish Bhagwati",
+    "K.N. Raj"
+   ],
+   "a": 0,
+   "w": "About 3.5% a year."
+  },
+  {
+   "q": "Bardhan's 'dominant proprietary classes' include…",
+   "o": [
+    "Workers, peasants and soldiers",
+    "Industrialists, rich farmers and professionals",
+    "Landlords, priests and kings",
+    "Traders, artisans and labourers"
+   ],
+   "a": 1,
+   "w": "The Political Economy of Development in India (1984)."
+  },
+  {
+   "q": "'Command polity' and 'demand polity' are terms of…",
+   "o": [
+    "Rudolph and Rudolph",
+    "Bardhan",
+    "Kohli",
+    "Frankel"
+   ],
+   "a": 0,
+   "w": "In Pursuit of Lakshmi (1987)."
+  },
+  {
+   "q": "NITI Aayog replaced the Planning Commission on…",
+   "o": [
+    "1 January 2015",
+    "15 August 2014",
+    "1 April 2017",
+    "26 January 2015"
+   ],
+   "a": 0,
+   "w": "1 January 2015."
+  },
+  {
+   "q": "The Bombay Plan (1944) was prepared by…",
+   "o": [
+    "Socialists",
+    "Industrialists",
+    "Gandhians",
+    "The British government"
+   ],
+   "a": 1,
+   "w": "Leading industrialists."
+  },
+  {
+   "q": "Who founded the Swatantra Party, a critic of the licence raj?",
+   "o": [
+    "C. Rajagopalachari",
+    "Ram Manohar Lohia",
+    "Minoo Masani alone",
+    "Charan Singh"
+   ],
+   "a": 0,
+   "w": "1959."
+  }
+ ],
+ "sources": [
+  "M.K. Gandhi, Hind Swaraj (1909); J.C. Kumarappa, Economy of Permanence (1945)",
+  "Nehru-Gandhi letters (1945); Planning Commission plan documents",
+  "Bhagwati and Desai (1970); Chakravarty (1987); Frankel (1978); Bardhan (1984); Rudolph and Rudolph (1987); Kohli (2004)",
+  "NITI Aayog Cabinet resolution (2015)",
+  "PYQ themes: Nehruvian vs Gandhian development, planning (Paper I Section B)"
+ ],
+ "verified": "2026-11-10"
+}
