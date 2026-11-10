@@ -1,0 +1,178 @@
+{
+ "id": "3-6-0",
+ "title": "Evolution of India's Nuclear Policy",
+ "emoji": "☢️",
+ "cards": [
+  {
+   "tag": "Why this matters",
+   "h": "From Bhabha's labs to a nuclear triad",
+   "b": "<p>India's nuclear story runs from a peaceful energy programme in 1948 to declared weapons in 1998 and a sea-based deterrent today. It shows the pull between <b>idealism</b> (Nehru's call for disarmament) and <b>security</b> (China's 1964 test, Pakistan).</p>\n<p>UPSC asks about the phases, the 1974 and 1998 tests, the nuclear doctrine (no first use, credible minimum deterrence) and whether the doctrine still fits after Operation Sindoor (2025).</p>"
+  },
+  {
+   "tag": "History",
+   "h": "The phases at a glance",
+   "b": "<svg class=\"d\" viewBox=\"0 0 320 224\"><line x1=\"62\" y1=\"10\" x2=\"62\" y2=\"214\" stroke=\"#a8792a\" stroke-width=\"2\"/><circle cx=\"62\" cy=\"22\" r=\"4\" fill=\"#a8792a\"/><text x=\"54\" y=\"26\" fill=\"#a8792a\" font-size=\"11\" text-anchor=\"end\" font-weight=\"700\">1948</text><text x=\"74\" y=\"26\" fill=\"#1d2433\" font-size=\"11\">Atomic Energy Act; AEC under Bhabha</text><circle cx=\"62\" cy=\"52\" r=\"4\" fill=\"#a8792a\"/><text x=\"54\" y=\"56\" fill=\"#a8792a\" font-size=\"11\" text-anchor=\"end\" font-weight=\"700\">1954</text><text x=\"74\" y=\"56\" fill=\"#1d2433\" font-size=\"11\">DAE formed</text><circle cx=\"62\" cy=\"82\" r=\"4\" fill=\"#a8792a\"/><text x=\"54\" y=\"86\" fill=\"#a8792a\" font-size=\"11\" text-anchor=\"end\" font-weight=\"700\">1962-64</text><text x=\"74\" y=\"86\" fill=\"#1d2433\" font-size=\"11\">China war; China tests, Oct 1964</text><circle cx=\"62\" cy=\"112\" r=\"4\" fill=\"#a8792a\"/><text x=\"54\" y=\"116\" fill=\"#a8792a\" font-size=\"11\" text-anchor=\"end\" font-weight=\"700\">1974</text><text x=\"74\" y=\"116\" fill=\"#1d2433\" font-size=\"11\">Pokhran-I, 18 May</text><circle cx=\"62\" cy=\"142\" r=\"4\" fill=\"#a8792a\"/><text x=\"54\" y=\"146\" fill=\"#a8792a\" font-size=\"11\" text-anchor=\"end\" font-weight=\"700\">1988</text><text x=\"74\" y=\"146\" fill=\"#1d2433\" font-size=\"11\">Rajiv Gandhi Action Plan at UN</text><circle cx=\"62\" cy=\"172\" r=\"4\" fill=\"#a8792a\"/><text x=\"54\" y=\"176\" fill=\"#a8792a\" font-size=\"11\" text-anchor=\"end\" font-weight=\"700\">1998</text><text x=\"74\" y=\"176\" fill=\"#1d2433\" font-size=\"11\">Pokhran-II, 11 and 13 May</text><circle cx=\"62\" cy=\"202\" r=\"4\" fill=\"#a8792a\"/><text x=\"54\" y=\"206\" fill=\"#a8792a\" font-size=\"11\" text-anchor=\"end\" font-weight=\"700\">2003</text><text x=\"74\" y=\"206\" fill=\"#1d2433\" font-size=\"11\">Doctrine adopted by CCS</text></svg><p>Scholars call the period from 1974 to 1998 one of <b>'recessed deterrence'</b> or keeping the option open: India had the capability but did not weaponise openly.</p>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "Nehru and Bhabha: peaceful atom, open option",
+   "b": "<p><b>Homi J. Bhabha</b> built the programme: the Atomic Energy Commission (1948), the Apsara reactor (1956, Asia's first research reactor) and CIRUS (1960, with Canadian help and US heavy water). He designed the <b>three-stage programme</b>: natural uranium reactors, then fast breeders using plutonium, then thorium, which India has in plenty.</p>\n<p><b>Nehru</b> pressed for a ban on nuclear tests (1954 'standstill' proposal) and for disarmament. But he kept the scientific capacity that could later be used for weapons. After China's test in 1964, Bhabha said India could build a bomb in about 18 months. Shastri approved work on a 'peaceful nuclear explosion' study.</p>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "Pokhran-I (1974): the 'peaceful nuclear explosion'",
+   "b": "<p>On <b>18 May 1974</b>, under Indira Gandhi, India tested a device at Pokhran, code-named 'Smiling Buddha'. It called it a <b>peaceful nuclear explosion (PNE)</b>.</p>\n<ul><li>Canada cut nuclear aid, since CIRUS plutonium was used.</li><li>The <b>Nuclear Suppliers Group (NSG)</b> was set up in 1974–75 to control exports.</li><li>The US passed the <b>Nuclear Non-Proliferation Act (1978)</b>, which ended fuel supply to Tarapur.</li></ul>\n<p>India then waited for 24 years. Reasons: sanctions, cost, and a hope that global disarmament would come. Pakistan's covert programme under A.Q. Khan and Chinese help to it changed the calculation.</p>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "Pokhran-II (1998): becoming a nuclear weapon state",
+   "b": "<p>On <b>11 and 13 May 1998</b>, under Vajpayee, India tested five devices (Operation Shakti), including a thermonuclear device. Vajpayee wrote to President Clinton citing China as the main threat. Pakistan tested at Chagai on 28 and 30 May.</p>\n<p>The UNSC passed <b>Resolution 1172</b> (June 1998) condemning the tests. The US and Japan imposed sanctions. India announced a voluntary <b>moratorium on testing</b> and began the Jaswant Singh–Strobe Talbott dialogue, which led over time to the 2005–08 nuclear deal.</p>\n<p>K. Subrahmanyam, the father of Indian strategic thinking, had long argued for an open deterrent.</p>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "The nuclear doctrine (2003)",
+   "b": "<p>The National Security Advisory Board released a <b>Draft Nuclear Doctrine</b> in August 1999. The Cabinet Committee on Security adopted the official version on <b>4 January 2003</b>.</p>\n<ul><li><b>Credible minimum deterrence.</b></li><li><b>No first use (NFU):</b> nuclear weapons only in retaliation against a nuclear attack on Indian territory or forces anywhere.</li><li><b>Massive retaliation</b> to inflict unacceptable damage.</li><li><b>Exception:</b> India keeps the option of a nuclear response to a major attack with biological or chemical weapons.</li><li><b>No use against non-nuclear states.</b></li><li><b>Civilian control:</b> the <b>Nuclear Command Authority</b>, with a Political Council chaired by the PM and an Executive Council chaired by the NSA. The Strategic Forces Command manages the arsenal.</li><li>Continued moratorium on tests, strict export controls, and support for a global, verifiable disarmament.</li></ul>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "Delivery systems and the triad",
+   "b": "<ul><li><b>Land:</b> the Prithvi and Agni series. Agni-V (over 5,000 km). In March 2024 <b>Mission Divyastra</b> tested Agni-V with MIRV (multiple warheads).</li><li><b>Air:</b> nuclear-capable fighter aircraft.</li><li><b>Sea:</b> <b>INS Arihant</b>, a nuclear-powered ballistic missile submarine, was commissioned in 2016 and completed its first deterrence patrol in November 2018, completing the <b>triad</b>. INS Arighaat followed in 2024.</li></ul>\n<p>A sea-based force gives a secure second strike, which is essential for a no-first-use doctrine.</p>"
+  },
+  {
+   "tag": "Debate",
+   "h": "Should India drop no first use?",
+   "b": "<svg class=\"d\" viewBox=\"0 0 320 98\"><rect x=\"10\" y=\"6\" width=\"142\" height=\"86\" rx=\"8\" fill=\"#dceaec\" stroke=\"#2f6f7a\"/><text x=\"81\" y=\"24\" fill=\"#1d2433\" font-size=\"11.5\" text-anchor=\"middle\" font-weight=\"700\">Keep NFU</text><text x=\"81\" y=\"42\" fill=\"#1d2433\" font-size=\"10.5\" text-anchor=\"middle\">Lowers crisis risk</text><text x=\"81\" y=\"58\" fill=\"#1d2433\" font-size=\"10.5\" text-anchor=\"middle\">Moral, diplomatic gains</text><text x=\"81\" y=\"74\" fill=\"#1d2433\" font-size=\"10.5\" text-anchor=\"middle\">Cheaper arsenal</text><text x=\"81\" y=\"90\" fill=\"#1d2433\" font-size=\"10.5\" text-anchor=\"middle\">Helped 2008 deal</text><rect x=\"168\" y=\"6\" width=\"142\" height=\"86\" rx=\"8\" fill=\"#f4dcd5\" stroke=\"#a3362a\"/><text x=\"239\" y=\"24\" fill=\"#1d2433\" font-size=\"11.5\" text-anchor=\"middle\" font-weight=\"700\">Review NFU</text><text x=\"239\" y=\"42\" fill=\"#1d2433\" font-size=\"10.5\" text-anchor=\"middle\">Pakistan's TNWs (Nasr)</text><text x=\"239\" y=\"58\" fill=\"#1d2433\" font-size=\"10.5\" text-anchor=\"middle\">China's build-up</text><text x=\"239\" y=\"74\" fill=\"#1d2433\" font-size=\"10.5\" text-anchor=\"middle\">Limits deterrence</text><text x=\"239\" y=\"90\" fill=\"#1d2433\" font-size=\"10.5\" text-anchor=\"middle\">Ambiguity deters more</text></svg><p>In 2019 Defence Minister Rajnath Singh said that NFU stands, but what happens in future depends on circumstances. Critics such as Bharat Karnad (<i>Nuclear Weapons and Indian Security</i>, 2002) want a bigger arsenal. Supporters of NFU say it has served India well.</p>"
+  },
+  {
+   "tag": "Indian angle",
+   "h": "After Operation Sindoor",
+   "b": "<p>In May 2025 India struck targets in Pakistan below the nuclear threshold. In his address on 12 May 2025 Modi said India would not tolerate <b>nuclear blackmail</b>. This shows the logic of the <b>stability-instability paradox</b>: limited conventional war under a nuclear umbrella.</p>\n<p>Civil side: the <b>SHANTI Act (December 2025)</b> replaced the Atomic Energy Act, 1962 and the Civil Liability for Nuclear Damage Act, 2010, opening nuclear power to private companies under licence. The target is 100 GW of nuclear power by 2047. See the next lesson for the treaties.</p>"
+  },
+  {
+   "tag": "Exam lens",
+   "h": "How UPSC asks this",
+   "b": "<div class=\"box\">\"Trace the evolution of India's nuclear policy from Nehru to the present.\" (typical)</div><div class=\"box\">\"Is India's no-first-use doctrine still relevant?\" (typical)</div><div class=\"box\">\"Explain the key features of India's nuclear doctrine.\" (typical)</div>\n<p><b>Structure:</b> (1) Bhabha and Nehru; (2) 1964 trigger; (3) Pokhran-I and the response; (4) the option period; (5) Pokhran-II; (6) the 2003 doctrine; (7) triad; (8) NFU debate and 2025 events; (9) conclusion.</p>",
+   "cls": "exam"
+  }
+ ],
+ "quiz": [
+  {
+   "q": "Pokhran-I took place on:",
+   "o": [
+    "18 May 1974",
+    "11 May 1998",
+    "1 January 1970",
+    "28 May 1998"
+   ],
+   "a": 0,
+   "w": "Under Indira Gandhi, code-named Smiling Buddha."
+  },
+  {
+   "q": "India's nuclear doctrine was formally adopted by the CCS in:",
+   "o": [
+    "January 2003",
+    "August 1999",
+    "May 1998",
+    "2008"
+   ],
+   "a": 0,
+   "w": "4 January 2003."
+  },
+  {
+   "q": "India's three-stage nuclear power programme was designed by:",
+   "o": [
+    "Homi Bhabha",
+    "Vikram Sarabhai",
+    "A.P.J. Abdul Kalam",
+    "Raja Ramanna"
+   ],
+   "a": 0,
+   "w": "Homi J. Bhabha."
+  },
+  {
+   "q": "Which body was set up in response to Pokhran-I?",
+   "o": [
+    "Nuclear Suppliers Group",
+    "IAEA",
+    "CTBTO",
+    "MTCR"
+   ],
+   "a": 0,
+   "w": "The NSG, 1974-75."
+  },
+  {
+   "q": "The UNSC resolution condemning the 1998 tests was:",
+   "o": [
+    "1172",
+    "1540",
+    "242",
+    "678"
+   ],
+   "a": 0,
+   "w": "Resolution 1172 (June 1998)."
+  },
+  {
+   "q": "India's first SSBN, completing the triad, is:",
+   "o": [
+    "INS Arihant",
+    "INS Vikrant",
+    "INS Chakra",
+    "INS Kalvari"
+   ],
+   "a": 0,
+   "w": "Commissioned 2016; deterrence patrol 2018."
+  },
+  {
+   "q": "Mission Divyastra (2024) tested:",
+   "o": [
+    "Agni-V with MIRV",
+    "BrahMos-II",
+    "Prithvi with ASAT",
+    "K-4 from a submarine"
+   ],
+   "a": 0,
+   "w": "Multiple independently targetable re-entry vehicles on Agni-V."
+  },
+  {
+   "q": "Who chairs the Political Council of the Nuclear Command Authority?",
+   "o": [
+    "Prime Minister",
+    "President",
+    "NSA",
+    "Defence Minister"
+   ],
+   "a": 0,
+   "w": "The PM; the NSA chairs the Executive Council."
+  },
+  {
+   "q": "India keeps the option of a nuclear response to a major attack using:",
+   "o": [
+    "Biological or chemical weapons",
+    "Cyber weapons only",
+    "Conventional artillery",
+    "Economic sanctions"
+   ],
+   "a": 0,
+   "w": "This is the stated exception in the 2003 doctrine."
+  },
+  {
+   "q": "The SHANTI Act (2025) replaced the Atomic Energy Act, 1962 and the:",
+   "o": [
+    "Civil Liability for Nuclear Damage Act, 2010",
+    "Arms Act, 1959",
+    "Explosives Act, 1884",
+    "WMD Act, 2005"
+   ],
+   "a": 0,
+   "w": "It merged both laws and allowed private participation."
+  }
+ ],
+ "sources": [
+  "CCS press release on nuclear doctrine, 4 Jan 2003; NSAB Draft Nuclear Doctrine (1999)",
+  "George Perkovich, India's Nuclear Bomb (1999)",
+  "Bharat Karnad, Nuclear Weapons and Indian Security (2002)",
+  "PIB on SHANTI Act, Dec 2025",
+  "PYQ themes: India's nuclear doctrine, NFU (Paper II, recurring)"
+ ],
+ "verified": "2026-11-10"
+}
