@@ -1,0 +1,111 @@
+[
+ {
+  "p": "GS III",
+  "t": "Ecology Basics",
+  "units": [
+   [
+    "Ecosystems",
+    [
+     "Ecology, Ecosystems and Energy Flow",
+     "Biogeochemical Cycles and Ecological Succession",
+     "Terrestrial and Aquatic Ecosystems"
+    ],
+    1
+   ]
+  ]
+ },
+ {
+  "p": "GS III",
+  "t": "Biodiversity",
+  "units": [
+   [
+    "Biodiversity and conservation",
+    [
+     "Biodiversity: Levels, Hotspots and Threats",
+     "In-situ and Ex-situ Conservation: Protected Areas",
+     "Species in News and the IUCN Red List",
+     "Wildlife Laws and Projects in India"
+    ],
+    1
+   ]
+  ]
+ },
+ {
+  "p": "GS III",
+  "t": "Pollution and Degradation",
+  "units": [
+   [
+    "Pollution",
+    [
+     "Air Pollution and Air Quality",
+     "Water, Soil and Noise Pollution",
+     "Solid, Plastic, E-waste and Hazardous Waste"
+    ],
+    1
+   ],
+   [
+    "Land and forests",
+    [
+     "Deforestation, Desertification and Land Degradation",
+     "Wetlands, Mangroves and Coral Reefs"
+    ],
+    1
+   ]
+  ]
+ },
+ {
+  "p": "GS III",
+  "t": "Climate Change",
+  "units": [
+   [
+    "Science and impacts",
+    [
+     "Climate Change: Science and the Greenhouse Effect",
+     "Impacts on India: Agriculture, Water, Coasts"
+    ],
+    1
+   ],
+   [
+    "Global response",
+    [
+     "UNFCCC, Kyoto and the Paris Agreement",
+     "COPs and Climate Finance",
+     "Ozone, Montreal Protocol and Other Conventions"
+    ],
+    1
+   ],
+   [
+    "India's response",
+    [
+     "NAPCC, Missions and India's NDCs",
+     "Renewable Energy and Energy Transition",
+     "Carbon Markets, Green Credit and LiFE"
+    ],
+    1
+   ]
+  ]
+ },
+ {
+  "p": "GS III",
+  "t": "Environmental Governance",
+  "units": [
+   [
+    "Laws and institutions",
+    [
+     "Environmental Laws and the NGT",
+     "EIA and Environmental Clearance",
+     "Environmental Movements and Judicial Activism"
+    ],
+    1
+   ],
+   [
+    "Sustainable development",
+    [
+     "Sustainable Development, SDGs and Green Economy",
+     "Sustainable Agriculture and Biotechnology Concerns"
+    ],
+    0
+   ]
+  ]
+ }
+]

@@ -1,6 +1,6 @@
-# Polis — PSIR Daily
+# Light Bulb
 
-The whole UPSC PSIR optional in 120 daily lessons. An offline web app (PWA) you can install on your phone.
+UPSC in one lesson a day. Each subject keeps its own name and look: Polis (PSIR), Chronicle (History), Terra (Geography), Verdant (Environment). An offline web app (PWA) you can install on your phone.
 
 ## Run it on your PC (Windows)
 1. Install Node.js (nodejs.org) and Python.

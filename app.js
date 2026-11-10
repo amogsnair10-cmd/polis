@@ -86,7 +86,7 @@ async function loadSubject(id){
   document.getElementById('motto').innerHTML=SUB.motto;
   document.getElementById('foot').textContent=SUB.foot;
   document.getElementById('pickName').textContent=SUB.name;
-  document.title=SUB.title+' — '+SUB.name+' Daily';
+  document.title='Light Bulb · '+SUB.title+' ('+SUB.name+')';
   L={};loadProgress();
   const [m,x]=await Promise.all([fetch(path('syllabus.json')).then(r=>r.json()),fetch(path('lessons/index.json')).then(r=>r.json())]);
   MAP=m;IDX=x;ids=[];MAP.forEach((p,pi)=>p.units.forEach((u,ui)=>{for(let k=0;k<u[1].length;k++)ids.push(`${pi}-${ui}-${k}`)}));

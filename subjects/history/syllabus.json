@@ -1,0 +1,209 @@
+[
+ {
+  "p": "Prelims core · GS I",
+  "t": "Ancient India",
+  "units": [
+   [
+    "Prehistory and the Harappan civilisation",
+    [
+     "Stone Age to Chalcolithic India",
+     "The Harappan Civilisation"
+    ],
+    1
+   ],
+   [
+    "Vedic age and new religions",
+    [
+     "Vedic Society, Polity and Economy",
+     "Buddhism, Jainism and the Mahajanapadas"
+    ],
+    1
+   ],
+   [
+    "Empires and the classical age",
+    [
+     "The Mauryan Empire",
+     "Post-Mauryan Kingdoms and the Sangam Age",
+     "The Gupta Age"
+    ],
+    1
+   ]
+  ]
+ },
+ {
+  "p": "Prelims core · GS I",
+  "t": "Medieval India",
+  "units": [
+   [
+    "Early medieval India",
+    [
+     "Rajputs, Cholas and Regional Kingdoms"
+    ],
+    0
+   ],
+   [
+    "Sultanate and Vijayanagara",
+    [
+     "The Delhi Sultanate",
+     "Vijayanagara and the Bahmanis"
+    ],
+    1
+   ],
+   [
+    "The Mughals and their rivals",
+    [
+     "The Mughal Empire: Polity and Administration",
+     "Marathas and the Decline of the Mughals"
+    ],
+    1
+   ],
+   [
+    "Bhakti and Sufi movements",
+    [
+     "Bhakti and Sufi Traditions"
+    ],
+    1
+   ]
+  ]
+ },
+ {
+  "p": "GS I",
+  "t": "Indian Art and Culture",
+  "units": [
+   [
+    "Architecture",
+    [
+     "Temple Architecture: Nagara, Dravida, Vesara",
+     "Buddhist, Indo-Islamic and Colonial Architecture"
+    ],
+    1
+   ],
+   [
+    "Sculpture and painting",
+    [
+     "Sculpture: Mauryan to Chola Bronzes",
+     "Painting: Ajanta to the Miniature Schools"
+    ],
+    1
+   ],
+   [
+    "Performing arts",
+    [
+     "Classical and Folk Dances",
+     "Music and Theatre Traditions"
+    ],
+    1
+   ],
+   [
+    "Literature, philosophy and heritage",
+    [
+     "Indian Literature and Schools of Philosophy",
+     "Heritage, UNESCO Sites and Cultural Policy"
+    ],
+    0
+   ]
+  ]
+ },
+ {
+  "p": "GS I",
+  "t": "Modern Indian History",
+  "units": [
+   [
+    "Coming of the Europeans",
+    [
+     "European Companies and the Battle of Plassey",
+     "Expansion of British Power to 1857"
+    ],
+    1
+   ],
+   [
+    "Colonial economy and administration",
+    [
+     "Land Revenue Systems and the Drain of Wealth",
+     "Education, Press and Administrative Changes"
+    ],
+    1
+   ],
+   [
+    "Revolt of 1857",
+    [
+     "The Revolt of 1857: Causes, Course, Consequences"
+    ],
+    1
+   ],
+   [
+    "Social and religious reform",
+    [
+     "Reform Movements of the 19th Century",
+     "Caste, Tribal and Peasant Movements"
+    ],
+    1
+   ],
+   [
+    "Freedom struggle",
+    [
+     "Rise of Nationalism and the Moderates",
+     "Extremists, Swadeshi and Revolutionaries",
+     "The Gandhian Phase: 1917–1934",
+     "Towards Freedom: 1935–1947",
+     "Women, Dalits and Regions in the Freedom Struggle"
+    ],
+    1
+   ],
+   [
+    "Constitutional development",
+    [
+     "Acts from 1773 to 1935"
+    ],
+    0
+   ]
+  ]
+ },
+ {
+  "p": "GS I",
+  "t": "Post-Independence India",
+  "units": [
+   [
+    "Consolidation of the nation",
+    [
+     "Partition, Integration of States and Linguistic Reorganisation",
+     "Nehru Era: Planning, Foreign Policy and Institutions",
+     "1965–1991: Wars, Emergency and Coalitions"
+    ],
+    1
+   ]
+  ]
+ },
+ {
+  "p": "GS I",
+  "t": "World History",
+  "units": [
+   [
+    "Revolutions and the modern world",
+    [
+     "Industrial Revolution",
+     "American and French Revolutions",
+     "Nationalism: Unification of Italy and Germany"
+    ],
+    1
+   ],
+   [
+    "Colonialism and the world wars",
+    [
+     "Colonialism and Imperialism in Asia and Africa",
+     "First World War and the Russian Revolution",
+     "Interwar Years, Fascism and the Second World War"
+    ],
+    1
+   ],
+   [
+    "After 1945",
+    [
+     "Decolonisation and the Cold War",
+     "Political Philosophies: Capitalism, Socialism, Communism"
+    ],
+    1
+   ]
+  ]
+ }
+]
