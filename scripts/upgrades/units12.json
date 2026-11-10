@@ -1,0 +1,89 @@
+{
+ "0-0-0": {
+  "quiz": [
+   {"q": "Who wrote 'The Decline of Political Theory' (1953)?", "o": ["Alfred Cobban", "David Easton", "Isaiah Berlin", "Leo Strauss"], "a": 0, "w": "Alfred Cobban's 1953 essay."},
+   {"q": "The Cambridge School's key method is to read texts…", "o": ["As timeless truths", "In their historical and linguistic context", "Through statistics", "As class ideology only"], "a": 1, "w": "Skinner, Pocock and Dunn read texts as moves in the debates of their time."},
+   {"q": "The End of Ideology (1960) was written by…", "o": ["Francis Fukuyama", "Daniel Bell", "Herbert Marcuse", "Seymour Lipset"], "a": 1, "w": "Daniel Bell."},
+   {"q": "Prescribing what we should do is which job of political theory?", "o": ["Explanation", "Evaluation", "Prescription", "Description"], "a": 2, "w": "Theory explains, evaluates and prescribes."},
+   {"q": "A set of ideas meant to drive political action is best called…", "o": ["Political philosophy", "Political ideology", "Political science", "Political thought"], "a": 1, "w": "Ideology aims to change the world, not just explain it."}
+  ]
+ },
+ "0-0-1": {
+  "cards": [
+   {"tag": "Approach 5", "h": "Comparative and other traditional methods", "b": "<p>Some books add more traditional approaches.</p><div class=\"box\"><h4>Comparative approach</h4>Aristotle compared 158 constitutions. Montesquieu, in <i>The Spirit of the Laws</i> (1748), compared laws across countries and linked them to climate, religion and customs. Bryce compared modern democracies.</div><div class=\"box\"><h4>Sociological approach</h4>Studies how society shapes politics, as Montesquieu and later Tocqueville did in <i>Democracy in America</i> (1835–40).</div><div class=\"box\"><h4>Psychological approach</h4>Graham Wallas, in <i>Human Nature in Politics</i> (1908), argued people act on instinct and emotion more than reason. This prepared the ground for behaviouralism.</div><p>These bridge the old and the new: they stay value-based, but begin to look at how politics actually works.</p>"}
+  ],
+  "quiz": [
+   {"q": "Human Nature in Politics (1908) was written by…", "o": ["Graham Wallas", "James Bryce", "Harold Laski", "Charles Merriam"], "a": 0, "w": "Wallas stressed instinct and emotion in politics."},
+   {"q": "The Spirit of the Laws (1748) is by…", "o": ["Rousseau", "Montesquieu", "Bodin", "Tocqueville"], "a": 1, "w": "Montesquieu."},
+   {"q": "A.V. Dicey is known for his work on…", "o": ["Sovereignty of the people", "Rule of law", "Pluralism", "Natural rights"], "a": 1, "w": "Dicey's classic account of the rule of law."},
+   {"q": "Traditional approaches are mainly…", "o": ["Value-free and quantitative", "Value-laden and state-centric", "Behavioural", "Post-modern"], "a": 1, "w": "They openly judge and focus on the state."},
+   {"q": "The basic structure doctrine came from…", "o": ["Golaknath (1967)", "Kesavananda Bharati (1973)", "Minerva Mills (1980)", "Maneka Gandhi (1978)"], "a": 1, "w": "Kesavananda Bharati, 1973."}
+  ]
+ },
+ "0-0-2": {
+  "cards": [
+   {"tag": "Indian angle", "h": "Behaviouralism in India", "b": "<p>Indian political science took up behavioural methods from the 1960s.</p><ul><li>The <b>Centre for the Study of Developing Societies (CSDS)</b> was founded in Delhi in 1963 by <b>Rajni Kothari</b>.</li><li>Its <b>Lokniti</b> programme runs the National Election Studies, large surveys of how Indians vote.</li><li>Kothari's <i>Politics in India</i> (1970) used systems ideas to describe the \"<b>Congress system</b>\".</li></ul><p>But Indian scholars also showed the limits of imported models. Western theories predicted that modernisation would weaken caste. Instead, <b>Rudolph and Rudolph</b> in <i>The Modernity of Tradition</i> (1967) showed caste associations adapting to democracy.</p><p>This is a classic post-behavioural point: methods must be fitted to local reality.</p>"}
+  ],
+  "quiz": [
+   {"q": "Behaviouralism's roots lie in the Chicago School under…", "o": ["David Easton", "Charles Merriam", "Robert Dahl", "Harold Lasswell"], "a": 1, "w": "Charles Merriam in the 1920s."},
+   {"q": "Almond and Verba's three types of political culture are parochial, subject and…", "o": ["Civic", "Participant", "Democratic", "Mass"], "a": 1, "w": "Parochial, subject and participant."},
+   {"q": "Karl Deutsch is linked with which model of politics?", "o": ["Structural-functional", "Communication or cybernetic", "Elite", "Rational choice"], "a": 1, "w": "He treated politics as communication."},
+   {"q": "CSDS was founded in 1963 by…", "o": ["Rajni Kothari", "Yogendra Yadav", "Ashis Nandy", "Bhikhu Parekh"], "a": 0, "w": "Rajni Kothari."},
+   {"q": "The Modernity of Tradition (1967) showed that caste…", "o": ["Disappeared with modernisation", "Adapted to democracy through caste associations", "Was purely economic", "Blocked all participation"], "a": 1, "w": "Rudolph and Rudolph."}
+  ]
+ },
+ "0-1-0": {
+  "quiz": [
+   {"q": "The term 'Washington Consensus' was coined by…", "o": ["Milton Friedman", "John Williamson", "Joseph Stiglitz", "Friedrich Hayek"], "a": 1, "w": "John Williamson, 1989."},
+   {"q": "Hayek's key argument against central planning is about…", "o": ["Morality of profit", "Dispersed knowledge", "Military power", "Religious freedom"], "a": 1, "w": "No planner can know what millions of people know."},
+   {"q": "Anarchy, State, and Utopia (1974) argues for a…", "o": ["Welfare state", "Minimal night-watchman state", "Socialist state", "World state"], "a": 1, "w": "Nozick's minimal state."},
+   {"q": "Which welfare scheme came in 2005?", "o": ["MGNREGA", "NFSA", "PM-KISAN", "Ayushman Bharat"], "a": 0, "w": "The Mahatma Gandhi National Rural Employment Guarantee Act, 2005."},
+   {"q": "For liberals, the state is best described as a…", "o": ["Committee of the ruling class", "Neutral umpire", "Patriarchal institution", "Overdeveloped machine"], "a": 1, "w": "It referees between competing interests."}
+  ]
+ },
+ "0-1-1": {
+  "quiz": [
+   {"q": "The Origin of the Family, Private Property and the State was written by…", "o": ["Marx", "Engels", "Lenin", "Kautsky"], "a": 1, "w": "Friedrich Engels, 1884."},
+   {"q": "Who wrote The State and Revolution (1917)?", "o": ["Lenin", "Trotsky", "Stalin", "Gramsci"], "a": 0, "w": "Lenin."},
+   {"q": "Poulantzas held which view of the state?", "o": ["Instrumentalist", "Structuralist", "Pluralist", "Liberal"], "a": 1, "w": "The state has relative autonomy because of its structural role."},
+   {"q": "For Engels, after classes disappear the state…", "o": ["Is abolished by decree", "Withers away", "Becomes a world state", "Becomes stronger"], "a": 1, "w": "From Anti-Dühring."},
+   {"q": "Marx's analysis of Louis Bonaparte's state is found in…", "o": ["Capital", "The Eighteenth Brumaire", "The German Ideology", "The Manifesto"], "a": 1, "w": "The Eighteenth Brumaire of Louis Bonaparte (1852)."}
+  ]
+ },
+ "0-1-2": {
+  "cards": [
+   {"tag": "Key idea", "h": "Groups, cross-cutting ties and polyarchy in practice", "b": "<p>Pluralists built their theory on studies of <b>interest groups</b>.</p><ul><li><b>Arthur Bentley</b>, in <i>The Process of Government</i> (1908), said politics is nothing but the pressure of groups on one another.</li><li><b>David Truman</b>, in <i>The Governmental Process</i> (1951), added the idea of <b>overlapping membership</b>. A person can be a worker, a Catholic and a parent at once, so groups cannot become too extreme.</li><li>Truman also spoke of <b>potential groups</b>: when an interest is threatened, people organise. This keeps the system balanced.</li></ul><p>The upshot is a state that acts like a <b>weather vane</b> or broker, responding to whichever group pressures are strongest.</p><p>Critics say this is too rosy. <b>E.E. Schattschneider</b> famously wrote that the flaw in the pluralist heaven is that the heavenly chorus sings with a strong upper-class accent.</p>"}
+  ],
+  "quiz": [
+   {"q": "The Process of Government (1908) was written by…", "o": ["David Truman", "Arthur Bentley", "Robert Dahl", "Harold Laski"], "a": 1, "w": "Arthur Bentley."},
+   {"q": "Truman's idea that people belong to many groups is called…", "o": ["Polyarchy", "Overlapping membership", "Iron law", "Corporatism"], "a": 1, "w": "Overlapping or cross-cutting membership."},
+   {"q": "'The heavenly chorus sings with a strong upper-class accent' is by…", "o": ["C. Wright Mills", "E.E. Schattschneider", "Charles Lindblom", "Ralph Miliband"], "a": 1, "w": "The Semisovereign People (1960)."},
+   {"q": "Early British pluralists like Laski opposed…", "o": ["Group autonomy", "The monistic sovereign state", "Trade unions", "Federalism"], "a": 1, "w": "They attacked the idea of one absolute sovereign."},
+   {"q": "Neo-pluralism admits that…", "o": ["All groups are equal", "Business holds a privileged position", "The state is a class tool", "Groups do not matter"], "a": 1, "w": "Lindblom's revision."}
+  ]
+ },
+ "0-1-3": {
+  "cards": [
+   {"tag": "Key idea", "h": "Other Indian readings of the state", "b": "<div class=\"box\"><h4>Pranab Bardhan</h4>In <i>The Political Economy of Development in India</i> (1984), he named three <b>dominant proprietary classes</b>: industrial capitalists, rich farmers and professionals including bureaucrats. They compete for state subsidies, which slows growth.</div><div class=\"box\"><h4>Rajni Kothari</h4>Described the decline of the Congress system and the rise of a more centralised, personalised state from the 1970s.</div><div class=\"box\"><h4>Atul Kohli</h4>In <i>State-Directed Development</i> (2004), he called India a <b>fragmented-multiclass state</b>, less effective than South Korea's cohesive-capitalist state.</div><div class=\"box\"><h4>Sudipta Kaviraj</h4>Read Indian state-building as a passive revolution led by bourgeois and bureaucratic elites.</div>"}
+  ],
+  "quiz": [
+   {"q": "Hamza Alavi studied the post-colonial state mainly in…", "o": ["India and Sri Lanka", "Pakistan and Bangladesh", "Nigeria and Ghana", "Indonesia"], "a": 1, "w": "His 1972 New Left Review essay."},
+   {"q": "Atul Kohli called India a…", "o": ["Cohesive-capitalist state", "Fragmented-multiclass state", "Neo-patrimonial state", "Soft state"], "a": 1, "w": "State-Directed Development (2004)."},
+   {"q": "Asian Drama (1968), which describes the 'soft state', was written by…", "o": ["Gunnar Myrdal", "Andre Gunder Frank", "Hamza Alavi", "Rudolph and Rudolph"], "a": 0, "w": "Gunnar Myrdal."},
+   {"q": "Rudolph and Rudolph called the Indian state a…", "o": ["Weak-strong state", "Night-watchman state", "Hegemonic state", "Garrison state"], "a": 0, "w": "In Pursuit of Lakshmi (1987)."},
+   {"q": "Which law replaced the Indian Penal Code in 2024?", "o": ["Bharatiya Nagarik Suraksha Sanhita", "Bharatiya Nyaya Sanhita", "Bharatiya Sakshya Adhiniyam", "Criminal Procedure Code"], "a": 1, "w": "The Bharatiya Nyaya Sanhita, in force from 1 July 2024."}
+  ]
+ },
+ "0-1-4": {
+  "cards": [
+   {"tag": "Key idea", "h": "Postcolonial and Black feminism", "b": "<p>Later feminists asked: which women does feminism speak for?</p><div class=\"box\"><h4>Chandra Talpade Mohanty</h4>In \"Under Western Eyes\" (1984/1986), she criticised Western feminists for treating \"Third World women\" as one passive, oppressed victim group.</div><div class=\"box\"><h4>Gayatri Chakravorty Spivak</h4>In \"Can the Subaltern Speak?\" (1988), she used the British ban on sati to show how both colonisers and local elites spoke <b>for</b> subaltern women, never letting them speak.</div><div class=\"box\"><h4>bell hooks</h4>In <i>Ain't I a Woman</i> (1981), she showed how racism and sexism combine for Black women.</div><p>These ideas feed into <b>intersectionality</b>: the state treats a poor Dalit woman differently from a rich upper-caste woman, so gender alone cannot explain her position.</p>"}
+  ],
+  "quiz": [
+   {"q": "'Can the Subaltern Speak?' (1988) was written by…", "o": ["Chandra Mohanty", "Gayatri Spivak", "Uma Chakravarti", "bell hooks"], "a": 1, "w": "Gayatri Chakravorty Spivak."},
+   {"q": "Mohanty's 'Under Western Eyes' criticised…", "o": ["Indian patriarchy only", "Western feminists' view of Third World women", "Marxist feminism", "Liberal states"], "a": 1, "w": "She attacked the image of Third World women as one victim group."},
+   {"q": "Radical feminism's slogan is…", "o": ["Equal pay for equal work", "The personal is political", "Workers of the world unite", "Rights of man"], "a": 1, "w": "Popularised by Carol Hanisch's 1969 essay."},
+   {"q": "Liberal feminists mainly seek to…", "o": ["Abolish the state", "Reform law and institutions for equal rights", "End capitalism", "Create women-only states"], "a": 1, "w": "Fix the state through equal rights."},
+   {"q": "Ain't I a Woman (1981) was written by…", "o": ["Kimberlé Crenshaw", "bell hooks", "Angela Davis", "Audre Lorde"], "a": 1, "w": "bell hooks."}
+  ]
+ }
+}

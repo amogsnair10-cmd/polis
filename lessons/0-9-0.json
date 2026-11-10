@@ -3,25 +3,188 @@
  "title": "Plato",
  "emoji": "🏺",
  "cards": [
-  {"tag": "Why this matters", "h": "Where Western political thought begins", "b": "<p>Plato (c. 427–347 BCE) was a student of Socrates and the teacher of Aristotle. Whitehead once said that the European philosophical tradition is \"a series of footnotes to Plato\".</p><p>UPSC asks about Plato's <b>justice</b>, his <b>philosopher-king</b>, his <b>communism</b> and his view of <b>women</b>. All four come from one book, the <i>Republic</i>.</p><p>He wrote after Athens lost the Peloponnesian War and after democratic Athens executed Socrates in 399 BCE. That shock shaped everything he wrote: he wanted a state run by knowledge, not by the crowd.</p>"},
-  {"tag": "Core idea", "h": "Justice as doing your own job", "b": "<p>For Plato, justice is not a law or a contract. It is <b>harmony</b>. Each part does the work it is best suited for and does not meddle in the work of others.</p><p>This works at two levels. In the <b>soul</b>, reason should rule, spirit should support it, and appetite should obey. In the <b>state</b>, the same order should hold between three classes.</p><p>So the just state is the soul \"writ large\". Plato studies the state because justice is easier to see on a big canvas.</p>"},
-  {"tag": "Diagram", "h": "Three parts of the soul, three classes", "b": "<svg class=\"d\" viewBox=\"0 0 320 170\"><polygon points=\"160,10 230,60 90,60\" fill=\"#f1e4c6\" stroke=\"#a8792a\"/><text x=\"160\" y=\"50\" fill=\"#1d2433\" font-size=\"12\" text-anchor=\"middle\" font-weight=\"700\">Rulers</text><rect x=\"80\" y=\"66\" width=\"160\" height=\"40\" fill=\"#dceaec\" stroke=\"#2f6f7a\"/><text x=\"160\" y=\"91\" fill=\"#1d2433\" font-size=\"12\" text-anchor=\"middle\" font-weight=\"700\">Auxiliaries</text><rect x=\"50\" y=\"112\" width=\"220\" height=\"44\" fill=\"#f4dcd5\" stroke=\"#a3362a\"/><text x=\"160\" y=\"139\" fill=\"#1d2433\" font-size=\"12\" text-anchor=\"middle\" font-weight=\"700\">Producers</text><text x=\"250\" y=\"42\" fill=\"#5d6474\" font-size=\"10\">reason · wisdom</text><text x=\"250\" y=\"90\" fill=\"#5d6474\" font-size=\"10\">spirit · courage</text><text x=\"276\" y=\"132\" fill=\"#5d6474\" font-size=\"10\">appetite</text><text x=\"276\" y=\"146\" fill=\"#5d6474\" font-size=\"10\">· moderation</text></svg><p>Each class has its own virtue. Rulers need <b>wisdom</b>, auxiliaries (soldiers) need <b>courage</b>, and producers need <b>moderation</b>. In fact, all three classes need moderation. <b>Justice</b> is the fourth virtue: the harmony of the whole.</p>"},
-  {"tag": "Key idea", "h": "The philosopher-king", "b": "<p>Plato says the state's troubles will not end until philosophers become kings, or kings become philosophers.</p><p>Why philosophers? Because only they know the <b>Form of the Good</b>, the true standard behind all good things. Everyone else lives in the cave of opinion.</p><div class=\"box\"><h4>The allegory of the cave</h4>Prisoners chained in a cave see only shadows on a wall and think they are real. The philosopher escapes, sees the sun, and must return to rule, even though the others may mock him.</div><p>Rule, then, is a matter of <b>knowledge</b>, like steering a ship. You would not choose a ship's pilot by vote.</p>"},
-  {"tag": "Key idea", "h": "Education and the noble lie", "b": "<p>Plato's state depends on a long, state-run <b>education</b>: music and gymnastics for the young, then mathematics. The few who pass study dialectic from about thirty and begin to rule from about fifty.</p><p>To keep people content with their class, he proposes the <b>myth of the metals</b>, often called the \"noble lie\". Citizens are told that the god mixed gold into rulers, silver into auxiliaries, and iron and bronze into producers.</p><p>Movement is possible: a gifted child of producers can rise, and a weak child of rulers can fall. So it is a class system based on merit, not birth.</p>"},
-  {"tag": "Key idea", "h": "Communism of property and wives", "b": "<p>For the two guardian classes only, Plato abolishes <b>private property</b> and the <b>private family</b>. Guardians live in common barracks, eat together and own nothing.</p><p>Mates are arranged by the state, and children are raised in common, so no one knows their own parents.</p><p>His aim is not equality or economics. It is to remove the two great sources of corruption, <b>greed and family loyalty</b>, so that rulers care only about the common good.</p><p>Producers keep their property and families. So this is very different from Marx's communism, which is about the whole of society and about ending class rule.</p>"},
-  {"tag": "Key idea", "h": "Women as guardians", "b": "<p>In Book V, Plato argues that women can be guardians and even philosopher-rulers. The difference between the sexes, he says, is like the difference between bald and long-haired men: it does not matter for the job.</p><p>Some call this the first feminist argument. Others disagree. <b>Julia Annas</b> argued that Plato's aim was the state's efficiency, not women's rights. He also still says women are on average weaker.</p><p>Either way, it was radical for a city where women could not vote or own much property.</p>"},
-  {"tag": "Later works", "h": "From the Republic to the Laws", "b": "<div class=\"box\"><h4>The Statesman</h4>Plato ranks constitutions by whether they follow law. When there is no philosopher-king, rule under law is the second best.</div><div class=\"box\"><h4>The Laws</h4>His last work. He drops the philosopher-king and proposes a <b>mixed constitution</b> that blends monarchy and democracy, with the <b>rule of law</b> at its heart. Private property returns, with limits.</div><p>So Plato moves from the ideal state to the <b>second-best state</b>. This shift is a favourite exam point.</p>"},
-  {"tag": "Critique", "h": "Enemy of the open society?", "b": "<ul><li><b>Karl Popper</b>, in <i>The Open Society and Its Enemies</i> (1945), called Plato's state <b>totalitarian</b>: rule by an elite, censorship of poets, and lies told to the people.</li><li><b>Aristotle</b> said Plato's state seeks too much unity. Common property will be neglected, because what belongs to all is cared for by none.</li><li>Defenders such as <b>Ernest Barker</b> say Plato wanted rule for the people's good, not tyranny.</li><li>Democrats object that knowledge experts can be wrong too, and no one checks them.</li></ul>"},
-  {"tag": "Indian angle", "h": "Plato in Indian debates", "b": "<p>Scholars often compare Plato's three classes to the <b>varna</b> order: Brahmin, Kshatriya and the producing classes. But Plato's classes are based on talent, while varna became fixed by birth.</p><p>His idea of rule by experts echoes in debates on the <b>civil services</b> and technocracy, and in the case for an independent judiciary and Election Commission.</p><p>Gandhi admired Socrates and translated Plato's <i>Apology</i> into Gujarati in 1908.</p>"},
-  {"tag": "Exam lens", "cls": "exam", "h": "How UPSC asks this", "b": "<div class=\"box\">\"Plato's theory of justice is a theory of functional specialisation.\" Comment.</div><div class=\"box\">\"Examine Plato's communism. How is it different from Marx's?\"</div><div class=\"box\">\"Is Plato an enemy of the open society?\"</div><p><b>Structure:</b> define justice at both levels, draw the three-class diagram, explain the philosopher-king and communism as tools of justice, give Aristotle's and Popper's critiques, then note the move to the rule of law in the <i>Laws</i>.</p>"}
+  {
+   "tag": "Why this matters",
+   "h": "Where Western political thought begins",
+   "b": "<p>Plato (c. 427–347 BCE) was a student of Socrates and the teacher of Aristotle. Whitehead once said that the European philosophical tradition is \"a series of footnotes to Plato\".</p><p>UPSC asks about Plato's <b>justice</b>, his <b>philosopher-king</b>, his <b>communism</b> and his view of <b>women</b>. All four come from one book, the <i>Republic</i>.</p><p>He wrote after Athens lost the Peloponnesian War and after democratic Athens executed Socrates in 399 BCE. That shock shaped everything he wrote: he wanted a state run by knowledge, not by the crowd.</p>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "Justice as doing your own job",
+   "b": "<p>For Plato, justice is not a law or a contract. It is <b>harmony</b>. Each part does the work it is best suited for and does not meddle in the work of others.</p><p>This works at two levels. In the <b>soul</b>, reason should rule, spirit should support it, and appetite should obey. In the <b>state</b>, the same order should hold between three classes.</p><p>So the just state is the soul \"writ large\". Plato studies the state because justice is easier to see on a big canvas.</p>"
+  },
+  {
+   "tag": "Diagram",
+   "h": "Three parts of the soul, three classes",
+   "b": "<svg class=\"d\" viewBox=\"0 0 320 170\"><polygon points=\"160,10 230,60 90,60\" fill=\"#f1e4c6\" stroke=\"#a8792a\"/><text x=\"160\" y=\"50\" fill=\"#1d2433\" font-size=\"12\" text-anchor=\"middle\" font-weight=\"700\">Rulers</text><rect x=\"80\" y=\"66\" width=\"160\" height=\"40\" fill=\"#dceaec\" stroke=\"#2f6f7a\"/><text x=\"160\" y=\"91\" fill=\"#1d2433\" font-size=\"12\" text-anchor=\"middle\" font-weight=\"700\">Auxiliaries</text><rect x=\"50\" y=\"112\" width=\"220\" height=\"44\" fill=\"#f4dcd5\" stroke=\"#a3362a\"/><text x=\"160\" y=\"139\" fill=\"#1d2433\" font-size=\"12\" text-anchor=\"middle\" font-weight=\"700\">Producers</text><text x=\"250\" y=\"42\" fill=\"#5d6474\" font-size=\"10\">reason · wisdom</text><text x=\"250\" y=\"90\" fill=\"#5d6474\" font-size=\"10\">spirit · courage</text><text x=\"276\" y=\"132\" fill=\"#5d6474\" font-size=\"10\">appetite</text><text x=\"276\" y=\"146\" fill=\"#5d6474\" font-size=\"10\">· moderation</text></svg><p>Each class has its own virtue. Rulers need <b>wisdom</b>, auxiliaries (soldiers) need <b>courage</b>, and producers need <b>moderation</b>. In fact, all three classes need moderation. <b>Justice</b> is the fourth virtue: the harmony of the whole.</p>"
+  },
+  {
+   "tag": "Key idea",
+   "h": "The philosopher-king",
+   "b": "<p>Plato says the state's troubles will not end until philosophers become kings, or kings become philosophers.</p><p>Why philosophers? Because only they know the <b>Form of the Good</b>, the true standard behind all good things. Everyone else lives in the cave of opinion.</p><div class=\"box\"><h4>The allegory of the cave</h4>Prisoners chained in a cave see only shadows on a wall and think they are real. The philosopher escapes, sees the sun, and must return to rule, even though the others may mock him.</div><p>Rule, then, is a matter of <b>knowledge</b>, like steering a ship. You would not choose a ship's pilot by vote.</p>"
+  },
+  {
+   "tag": "Key idea",
+   "h": "Education and the noble lie",
+   "b": "<p>Plato's state depends on a long, state-run <b>education</b>: music and gymnastics for the young, then mathematics. The few who pass study dialectic from about thirty and begin to rule from about fifty.</p><p>To keep people content with their class, he proposes the <b>myth of the metals</b>, often called the \"noble lie\". Citizens are told that the god mixed gold into rulers, silver into auxiliaries, and iron and bronze into producers.</p><p>Movement is possible: a gifted child of producers can rise, and a weak child of rulers can fall. So it is a class system based on merit, not birth.</p>"
+  },
+  {
+   "tag": "Key idea",
+   "h": "Communism of property and wives",
+   "b": "<p>For the two guardian classes only, Plato abolishes <b>private property</b> and the <b>private family</b>. Guardians live in common barracks, eat together and own nothing.</p><p>Mates are arranged by the state, and children are raised in common, so no one knows their own parents.</p><p>His aim is not equality or economics. It is to remove the two great sources of corruption, <b>greed and family loyalty</b>, so that rulers care only about the common good.</p><p>Producers keep their property and families. So this is very different from Marx's communism, which is about the whole of society and about ending class rule.</p>"
+  },
+  {
+   "tag": "Key idea",
+   "h": "Women as guardians",
+   "b": "<p>In Book V, Plato argues that women can be guardians and even philosopher-rulers. The difference between the sexes, he says, is like the difference between bald and long-haired men: it does not matter for the job.</p><p>Some call this the first feminist argument. Others disagree. <b>Julia Annas</b> argued that Plato's aim was the state's efficiency, not women's rights. He also still says women are on average weaker.</p><p>Either way, it was radical for a city where women could not vote or own much property.</p>"
+  },
+  {
+   "tag": "Later works",
+   "h": "From the Republic to the Laws",
+   "b": "<div class=\"box\"><h4>The Statesman</h4>Plato ranks constitutions by whether they follow law. When there is no philosopher-king, rule under law is the second best.</div><div class=\"box\"><h4>The Laws</h4>His last work. He drops the philosopher-king and proposes a <b>mixed constitution</b> that blends monarchy and democracy, with the <b>rule of law</b> at its heart. Private property returns, with limits.</div><p>So Plato moves from the ideal state to the <b>second-best state</b>. This shift is a favourite exam point.</p>"
+  },
+  {
+   "tag": "Critique",
+   "h": "Enemy of the open society?",
+   "b": "<ul><li><b>Karl Popper</b>, in <i>The Open Society and Its Enemies</i> (1945), called Plato's state <b>totalitarian</b>: rule by an elite, censorship of poets, and lies told to the people.</li><li><b>Aristotle</b> said Plato's state seeks too much unity. Common property will be neglected, because what belongs to all is cared for by none.</li><li>Defenders such as <b>Ernest Barker</b> say Plato wanted rule for the people's good, not tyranny.</li><li>Democrats object that knowledge experts can be wrong too, and no one checks them.</li></ul>"
+  },
+  {
+   "tag": "Key idea",
+   "h": "Why Plato distrusted democracy",
+   "b": "<p>In Book VIII of the <i>Republic</i>, Plato ranks five constitutions from best to worst. Each one decays into the next:</p><ul><li><b>Aristocracy</b>, the rule of the wise. This is his ideal.</li><li><b>Timocracy</b>, the rule of the honour-loving, like Sparta.</li><li><b>Oligarchy</b>, the rule of the rich.</li><li><b>Democracy</b>, the rule of the many.</li><li><b>Tyranny</b>, the rule of one man for himself.</li></ul><p>Democracy, he says, is charming and full of variety. But it treats equals and unequals alike. Each person does as they please, and there is no order.</p><p>Too much freedom leads to its opposite. The people pick a champion to protect them from the rich, and that champion becomes a <b>tyrant</b>.</p><p>Plato's image is the <b>ship of state</b>. The sailors fight over the wheel and flatter the owner, who is strong but half-deaf. They ignore the true navigator, who studies the stars.</p>"
+  },
+  {
+   "tag": "Indian angle",
+   "h": "Plato in Indian debates",
+   "b": "<p>Scholars often compare Plato's three classes to the <b>varna</b> order: Brahmin, Kshatriya and the producing classes. But Plato's classes are based on talent, while varna became fixed by birth.</p><p>His idea of rule by experts echoes in debates on the <b>civil services</b> and technocracy, and in the case for an independent judiciary and Election Commission.</p><p>Gandhi admired Socrates and translated Plato's <i>Apology</i> into Gujarati in 1908.</p>"
+  },
+  {
+   "tag": "Exam lens",
+   "cls": "exam",
+   "h": "How UPSC asks this",
+   "b": "<div class=\"box\">\"Plato's theory of justice is a theory of functional specialisation.\" Comment.</div><div class=\"box\">\"Examine Plato's communism. How is it different from Marx's?\"</div><div class=\"box\">\"Is Plato an enemy of the open society?\"</div><p><b>Structure:</b> define justice at both levels, draw the three-class diagram, explain the philosopher-king and communism as tools of justice, give Aristotle's and Popper's critiques, then note the move to the rule of law in the <i>Laws</i>.</p>"
+  }
  ],
  "quiz": [
-  {"q": "For Plato, justice in the state means…", "o": ["Equal shares of property for all", "Each class doing its own work without meddling", "Obedience to the law made by the majority", "Rule by those who own the most land"], "a": 1, "w": "Plato's justice is harmony: each class does the job it is best suited for."},
-  {"q": "Plato's communism of property applied to…", "o": ["All citizens", "Only the producers", "Only the guardian classes", "Only slaves and foreigners"], "a": 2, "w": "Only rulers and auxiliaries gave up property and family. Producers kept both."},
-  {"q": "Which work has Plato propose a mixed constitution under the rule of law?", "o": ["The Republic", "The Laws", "The Apology", "The Symposium"], "a": 1, "w": "In the Laws, his last work, Plato settles for a second-best state under law."},
-  {"q": "Who called Plato an enemy of the open society?", "o": ["Ernest Barker", "Karl Popper", "Leo Strauss", "Julia Annas"], "a": 1, "w": "Karl Popper, The Open Society and Its Enemies (1945)."},
-  {"q": "The virtue Plato assigns to the auxiliaries is…", "o": ["Wisdom", "Courage", "Moderation", "Piety"], "a": 1, "w": "Rulers have wisdom, auxiliaries courage, and moderation is shared by all."}
+  {
+   "q": "For Plato, justice in the state means…",
+   "o": [
+    "Equal shares of property for all",
+    "Each class doing its own work without meddling",
+    "Obedience to the law made by the majority",
+    "Rule by those who own the most land"
+   ],
+   "a": 1,
+   "w": "Plato's justice is harmony: each class does the job it is best suited for."
+  },
+  {
+   "q": "Plato's communism of property applied to…",
+   "o": [
+    "All citizens",
+    "Only the producers",
+    "Only the guardian classes",
+    "Only slaves and foreigners"
+   ],
+   "a": 2,
+   "w": "Only rulers and auxiliaries gave up property and family. Producers kept both."
+  },
+  {
+   "q": "Which work has Plato propose a mixed constitution under the rule of law?",
+   "o": [
+    "The Republic",
+    "The Laws",
+    "The Apology",
+    "The Symposium"
+   ],
+   "a": 1,
+   "w": "In the Laws, his last work, Plato settles for a second-best state under law."
+  },
+  {
+   "q": "Who called Plato an enemy of the open society?",
+   "o": [
+    "Ernest Barker",
+    "Karl Popper",
+    "Leo Strauss",
+    "Julia Annas"
+   ],
+   "a": 1,
+   "w": "Karl Popper, The Open Society and Its Enemies (1945)."
+  },
+  {
+   "q": "The virtue Plato assigns to the auxiliaries is…",
+   "o": [
+    "Wisdom",
+    "Courage",
+    "Moderation",
+    "Piety"
+   ],
+   "a": 1,
+   "w": "Rulers have wisdom, auxiliaries courage, and moderation is shared by all."
+  },
+  {
+   "q": "In Republic Book VIII, the constitution that decays directly into tyranny is…",
+   "o": [
+    "Oligarchy",
+    "Timocracy",
+    "Democracy",
+    "Aristocracy"
+   ],
+   "a": 2,
+   "w": "Plato says excessive freedom in democracy leads to tyranny."
+  },
+  {
+   "q": "Plato's 'myth of the metals' says rulers have which metal in their souls?",
+   "o": [
+    "Silver",
+    "Gold",
+    "Bronze",
+    "Iron"
+   ],
+   "a": 1,
+   "w": "Gold for rulers, silver for auxiliaries, iron and bronze for producers."
+  },
+  {
+   "q": "The allegory of the cave mainly illustrates…",
+   "o": [
+    "The origin of the state",
+    "The difference between opinion and true knowledge",
+    "Why property corrupts",
+    "The duties of soldiers"
+   ],
+   "a": 1,
+   "w": "Prisoners mistake shadows for reality; the philosopher sees the truth."
+  },
+  {
+   "q": "Who argued that Plato wanted women as guardians for the state's efficiency, not for women's rights?",
+   "o": [
+    "Susan Moller Okin",
+    "Julia Annas",
+    "Carole Pateman",
+    "Martha Nussbaum"
+   ],
+   "a": 1,
+   "w": "Julia Annas, 'Plato's Republic and Feminism' (1976)."
+  },
+  {
+   "q": "Timocracy, in Plato's scheme, is rule by…",
+   "o": [
+    "The wise",
+    "The honour-loving",
+    "The rich",
+    "The poor"
+   ],
+   "a": 1,
+   "w": "Timocracy is driven by honour, like Sparta."
+  }
  ],
- "sources": ["Plato, Republic, Books II–VII (trans. G.M.A. Grube, rev. C.D.C. Reeve)", "Plato, Statesman and Laws", "Karl Popper, The Open Society and Its Enemies, vol. 1 (1945)", "Julia Annas, 'Plato's Republic and Feminism', Philosophy 51 (1976)", "Ernest Barker, Greek Political Theory: Plato and His Predecessors (1918)", "Stanford Encyclopedia of Philosophy, 'Plato's Ethics and Politics in The Republic'", "PYQ themes: Plato's justice, philosopher-king, communism (Paper I, repeated)"],
+ "sources": [
+  "Plato, Republic, Books II–VII (trans. G.M.A. Grube, rev. C.D.C. Reeve)",
+  "Plato, Statesman and Laws",
+  "Karl Popper, The Open Society and Its Enemies, vol. 1 (1945)",
+  "Julia Annas, 'Plato's Republic and Feminism', Philosophy 51 (1976)",
+  "Ernest Barker, Greek Political Theory: Plato and His Predecessors (1918)",
+  "Stanford Encyclopedia of Philosophy, 'Plato's Ethics and Politics in The Republic'",
+  "PYQ themes: Plato's justice, philosopher-king, communism (Paper I, repeated)"
+ ],
  "verified": "2026-11-10"
 }

@@ -115,6 +115,61 @@
    ],
    "a": 0,
    "w": "Logical positivism held only empirically verifiable statements were meaningful."
+  },
+  {
+   "q": "Who wrote 'The Decline of Political Theory' (1953)?",
+   "o": [
+    "Alfred Cobban",
+    "David Easton",
+    "Isaiah Berlin",
+    "Leo Strauss"
+   ],
+   "a": 0,
+   "w": "Alfred Cobban's 1953 essay."
+  },
+  {
+   "q": "The Cambridge School's key method is to read texts…",
+   "o": [
+    "As timeless truths",
+    "In their historical and linguistic context",
+    "Through statistics",
+    "As class ideology only"
+   ],
+   "a": 1,
+   "w": "Skinner, Pocock and Dunn read texts as moves in the debates of their time."
+  },
+  {
+   "q": "The End of Ideology (1960) was written by…",
+   "o": [
+    "Francis Fukuyama",
+    "Daniel Bell",
+    "Herbert Marcuse",
+    "Seymour Lipset"
+   ],
+   "a": 1,
+   "w": "Daniel Bell."
+  },
+  {
+   "q": "Prescribing what we should do is which job of political theory?",
+   "o": [
+    "Explanation",
+    "Evaluation",
+    "Prescription",
+    "Description"
+   ],
+   "a": 2,
+   "w": "Theory explains, evaluates and prescribes."
+  },
+  {
+   "q": "A set of ideas meant to drive political action is best called…",
+   "o": [
+    "Political philosophy",
+    "Political ideology",
+    "Political science",
+    "Political thought"
+   ],
+   "a": 1,
+   "w": "Ideology aims to change the world, not just explain it."
   }
  ],
  "sources": [

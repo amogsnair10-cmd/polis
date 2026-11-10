@@ -1,0 +1,74 @@
+{
+ "0-8-0": {
+  "cards": [
+   {"tag": "Key idea", "h": "Ancient republics: the gana-sanghas", "b": "<p>Not all ancient Indian states were monarchies. Buddhist and Jain texts describe <b>gana-sanghas</b>: states ruled by a council of heads of clans.</p><ul><li>Examples include the <b>Vajji (Vrijji) confederacy</b>, led by the Licchavis of Vaishali, and the <b>Shakyas</b> of Kapilavastu, the Buddha's own clan.</li><li>Decisions were made in an assembly hall (santhagara) after debate. Sometimes a vote was taken with wooden tokens called <b>shalakas</b>.</li><li>In the Mahaparinibbana Sutta, the Buddha lists seven conditions for the Vajjis' welfare. The first is to meet often and in full assembly, and to meet and act in harmony.</li></ul><p>Scholars like <b>Romila Thapar</b> warn against calling them democracies in the modern sense. Power lay with an elite of kshatriya clans, not all people. Still, they show that government by discussion has deep roots in India.</p>"}
+  ],
+  "quiz": [
+   {"q": "Gana-sanghas were…", "o": ["Temple councils", "States ruled by clan assemblies", "Trade guilds", "Village courts"], "a": 1, "w": "Like the Vajji confederacy of the Licchavis."},
+   {"q": "Dharma comes from a root meaning…", "o": ["To fight", "To hold or sustain", "To rule", "To sacrifice"], "a": 1, "w": "The root dhr: to hold up or sustain."},
+   {"q": "The Mitakshara is a commentary on…", "o": ["Manusmriti", "Yajnavalkya Smriti", "Arthashastra", "Rig Veda"], "a": 1, "w": "Vijnaneshwara's 12th-century commentary on the Yajnavalkya Smriti."},
+   {"q": "Ashoka's policy after Kalinga is called…", "o": ["Digvijaya", "Dhamma-vijaya", "Ashvamedha", "Rajasuya"], "a": 1, "w": "Conquest by righteousness rather than arms."},
+   {"q": "Ambedkar publicly burned the Manusmriti at…", "o": ["Nagpur, 1956", "Mahad, 1927", "Yeola, 1935", "Poona, 1932"], "a": 1, "w": "Mahad, 25 December 1927."}
+  ]
+ },
+ "0-8-1": {
+  "cards": [
+   {"tag": "Key idea", "h": "Economy and welfare in the Arthashastra", "b": "<p>The Arthashastra imagines an active, almost <b>interventionist</b> state.</p><ul><li>The state runs <b>mines, forests, weaving, liquor</b> and salt, and sets up state farms (sita land).</li><li>Superintendents fix <b>weights and measures</b>, control prices and check traders' profits.</li><li>The king must support orphans, the old, the sick and helpless women.</li><li>Labour contracts and wages are regulated. Masters who mistreat workers are fined.</li><li>Settling new land (janapada nivesha) and building irrigation are royal duties.</li></ul><p>This is why some scholars call Kautilya's state a kind of early <b>welfare state</b>. Others warn that its aim was revenue and power, with welfare as a means to keep people productive and loyal.</p>"}
+  ],
+  "quiz": [
+   {"q": "Yogakshema means…", "o": ["Military victory", "Welfare and security of the people", "Royal ritual", "Foreign trade"], "a": 1, "w": "The state's goal is the welfare and security of its subjects."},
+   {"q": "The four means (upayas) are sama, dana, bheda and…", "o": ["Sandhi", "Danda", "Yana", "Kosha"], "a": 1, "w": "Persuasion, gifts, division and force."},
+   {"q": "Testing ministers through temptations is called…", "o": ["Upadha", "Mandala", "Asana", "Dharma"], "a": 0, "w": "Upadha: tests of dharma, wealth, desire and fear."},
+   {"q": "In mandala theory, the 'udasina' is…", "o": ["The friend's friend", "A neutral king stronger than the others", "The conqueror", "The enemy's ally"], "a": 1, "w": "A powerful neutral state outside the rivalry."},
+   {"q": "India's diplomatic enclave in New Delhi is named after…", "o": ["Ashoka", "Chanakya", "Chandragupta", "Harsha"], "a": 1, "w": "Chanakyapuri."}
+  ]
+ },
+ "0-8-2": {
+  "cards": [
+   {"tag": "Key idea", "h": "The Aligarh movement", "b": "<p>Sir Syed's work grew into the <b>Aligarh movement</b>, a broad effort to modernise Muslim society.</p><ul><li>The <b>Muhammadan Educational Conference</b> (1886) spread modern schools across India.</li><li>He wrote a commentary on the Quran using reason, and urged Muslims to read it afresh rather than rely only on traditional scholars.</li><li>He supported the <b>English language</b> as the key to jobs and knowledge.</li><li>He opposed purdah and polygamy in principle, though he moved slowly on women's education.</li></ul><p>Aligarh trained a new Muslim middle class. Many of its graduates later led the <b>Muslim League</b> (1906). Others, like the Ali brothers, joined the Khilafat and national movements.</p><p>His critics among the ulema of <b>Deoband</b> (founded 1866) rejected his Western leanings.</p>"}
+  ],
+  "quiz": [
+   {"q": "Sir Syed's opponents mocked his rationalism with the label…", "o": ["Kafir", "Nechari", "Wahhabi", "Sufi"], "a": 1, "w": "From 'nature': they called him a naturalist."},
+   {"q": "Aurobindo's paper during the Swadeshi movement was…", "o": ["Kesari", "Bande Mataram", "Young India", "Amrita Bazar Patrika"], "a": 1, "w": "He wrote for Bande Mataram."},
+   {"q": "Aurobindo went to Pondicherry in…", "o": ["1905", "1908", "1910", "1926"], "a": 2, "w": "1910; the Ashram was formally founded in 1926."},
+   {"q": "Sir Syed's Scientific Society was founded in…", "o": ["1859", "1864", "1875", "1886"], "a": 1, "w": "1864, to translate Western works into Urdu."},
+   {"q": "Aurobindo's later works on human unity include…", "o": ["Hind Swaraj", "The Ideal of Human Unity", "Discovery of India", "Gitanjali"], "a": 1, "w": "Along with The Human Cycle."}
+  ]
+ },
+ "0-8-3": {
+  "cards": [
+   {"tag": "Key idea", "h": "Gandhi's movements in practice", "b": "<p>Gandhi tested his ideas in real campaigns:</p><ul><li><b>Champaran</b> (1917): indigo farmers in Bihar against forced cultivation. His first satyagraha in India.</li><li><b>Kheda</b> and <b>Ahmedabad</b> (1918): peasants' revenue relief and a mill workers' strike.</li><li><b>Non-Cooperation</b> (1920–22): boycott of courts, schools and foreign cloth. He called it off after the violence at <b>Chauri Chaura</b> in February 1922.</li><li><b>Civil Disobedience</b> (1930–34): began with the <b>Dandi March</b> against the salt law.</li><li><b>Quit India</b> (1942): \"Do or die.\"</li></ul><p>Note the pattern. Gandhi chose <b>symbolic</b> issues, like salt, that every Indian could join. He also kept tight control, and withdrew when violence broke out. Critics saw this as caution; he saw it as fidelity to ahimsa.</p>"}
+  ],
+  "quiz": [
+   {"q": "Gandhi's first satyagraha in India was at…", "o": ["Kheda", "Champaran", "Bardoli", "Dandi"], "a": 1, "w": "Champaran, 1917, for indigo farmers."},
+   {"q": "Gandhi withdrew Non-Cooperation after…", "o": ["Jallianwala Bagh", "Chauri Chaura", "The Simon Commission", "Moplah rebellion"], "a": 1, "w": "Violence at Chauri Chaura in February 1922."},
+   {"q": "Trusteeship asks the rich to…", "o": ["Surrender all property to the state", "Hold wealth for the good of society", "Pay higher taxes only", "Leave the country"], "a": 1, "w": "Keep what they need and hold the rest in trust."},
+   {"q": "Bread labour was drawn from…", "o": ["Marx and Engels", "Tolstoy and Ruskin", "Thoreau and Emerson", "Tilak"], "a": 1, "w": "Everyone should do some physical work."},
+   {"q": "'Truth is God' was Gandhi's later reversal of…", "o": ["God is Love", "God is Truth", "Truth is Power", "Ahimsa is God"], "a": 1, "w": "It let even atheists join the search for truth."}
+  ]
+ },
+ "0-8-4": {
+  "cards": [
+   {"tag": "Key idea", "h": "Ambedkar's struggles and federal ideas", "b": "<ul><li><b>Mahad Satyagraha</b> (1927): Dalits drew water from the Chavdar tank, which a public resolution had opened to all.</li><li><b>Kalaram Temple entry</b> movement at Nashik (1930–35).</li><li><b>Bahishkrit Hitakarini Sabha</b> (1924), with the motto \"educate, agitate, organise\".</li><li>Papers: <b>Mooknayak</b> (1920) and <b>Bahishkrit Bharat</b> (1927).</li><li>He resigned as Law Minister in 1951, partly over the stalling of the <b>Hindu Code Bill</b>.</li></ul><p>On the Constitution, he said India is a \"<b>Union of States</b>\": the federation is not the result of an agreement, so no state can secede.</p><p>He also warned that a constitution is only as good as those who work it. A good one, badly run, will fail.</p>"}
+  ],
+  "quiz": [
+   {"q": "Ambedkar's motto was…", "o": ["Do or die", "Educate, agitate, organise", "Truth alone triumphs", "Workers of the world, unite"], "a": 1, "w": "Of the Bahishkrit Hitakarini Sabha."},
+   {"q": "The Mahad Satyagraha (1927) was about…", "o": ["Temple entry", "Access to a public water tank", "Separate electorates", "Land rights"], "a": 1, "w": "The Chavdar tank at Mahad."},
+   {"q": "Ambedkar's 1949 warning was that India would enter a life of…", "o": ["Poverty", "Contradictions", "Violence", "Dependence"], "a": 1, "w": "Political equality with social and economic inequality."},
+   {"q": "Ambedkar resigned as Law Minister in 1951 partly over…", "o": ["Kashmir", "The Hindu Code Bill", "Reservation", "Language"], "a": 1, "w": "The Hindu Code Bill was stalled."},
+   {"q": "Ambedkar converted to Buddhism in…", "o": ["Mahad, 1927", "Yeola, 1935", "Nagpur, 1956", "Delhi, 1950"], "a": 2, "w": "14 October 1956 at Nagpur."}
+  ]
+ },
+ "0-8-5": {
+  "cards": [
+   {"tag": "Key idea", "h": "Roy on Gandhi and nationalism", "b": "<p>Roy was a sharp critic of <b>Gandhi</b>. He said Gandhism was a revivalist, backward-looking ideology. It used religion to mobilise peasants while protecting landlords and the Indian bourgeoisie.</p><p>He was also critical of <b>nationalism</b> itself. Nationalism, he said, puts the nation above the individual and can easily slide into fascism. This was why he backed the Allies against fascism in the war.</p><p>In <i>India in Transition</i> (1922), one of the first Marxist analyses of Indian society, he argued that Indian capitalists would ally with the British, so freedom would need workers and peasants.</p><p>These views explain his isolation, but also his distinct place in the syllabus as the <b>radical humanist</b> perspective on Indian nationalism.</p>"}
+  ],
+  "quiz": [
+   {"q": "Roy founded the Radical Democratic Party in…", "o": ["1930", "1936", "1940", "1946"], "a": 2, "w": "1940."},
+   {"q": "Roy's early Marxist analysis of India was…", "o": ["India Today", "India in Transition", "Discovery of India", "Poverty and Un-British Rule"], "a": 1, "w": "India in Transition (1922)."},
+   {"q": "Roy was expelled from the Comintern in…", "o": ["1924", "1929", "1934", "1940"], "a": 1, "w": "1929."},
+   {"q": "Roy's idea of partyless democracy was shared with…", "o": ["Nehru", "Jayaprakash Narayan", "Patel", "Bose"], "a": 1, "w": "JP also argued for partyless democracy."},
+   {"q": "Roy saw nationalism as dangerous because it…", "o": ["Weakens the state", "Places the nation above the individual", "Ignores religion", "Supports the Comintern"], "a": 1, "w": "It can slide into fascism."}
+  ]
+ }
+}

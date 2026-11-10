@@ -34,6 +34,11 @@
    "b": "<p>Later pluralists admitted that groups are not equal. In <i>Politics and Markets</i> (1977), <b>Charles Lindblom</b> argued that business holds a <b>privileged position</b>.</p><p>Governments depend on business for jobs and growth, so they listen more to business than to anyone else. Dahl himself later accepted that economic inequality distorts democracy.</p>"
   },
   {
+   "tag": "Key idea",
+   "h": "Groups, cross-cutting ties and polyarchy in practice",
+   "b": "<p>Pluralists built their theory on studies of <b>interest groups</b>.</p><ul><li><b>Arthur Bentley</b>, in <i>The Process of Government</i> (1908), said politics is nothing but the pressure of groups on one another.</li><li><b>David Truman</b>, in <i>The Governmental Process</i> (1951), added the idea of <b>overlapping membership</b>. A person can be a worker, a Catholic and a parent at once, so groups cannot become too extreme.</li><li>Truman also spoke of <b>potential groups</b>: when an interest is threatened, people organise. This keeps the system balanced.</li></ul><p>The upshot is a state that acts like a <b>weather vane</b> or broker, responding to whichever group pressures are strongest.</p><p>Critics say this is too rosy. <b>E.E. Schattschneider</b> famously wrote that the flaw in the pluralist heaven is that the heavenly chorus sings with a strong upper-class accent.</p>"
+  },
+  {
    "tag": "Indian angle",
    "h": "Pluralism in India",
    "b": "<p>India looks pluralist in many ways: farmer lobbies, caste associations, trade unions and industry bodies like FICCI and CII all press the government.</p><p><b>Rudolph and Rudolph</b>, in <i>In Pursuit of Lakshmi</i> (1987), called Indian pluralism <b>\"involuted pluralism\"</b>. Many groups are fragmented and weak, while the state remains a strong \"third actor\". The farm laws protests of 2020–21, which led to the repeal of the laws, show group pressure working.</p>"
@@ -100,6 +105,61 @@
    ],
    "a": 1,
    "w": "Rudolph and Rudolph used it for India in In Pursuit of Lakshmi (1987)."
+  },
+  {
+   "q": "The Process of Government (1908) was written by…",
+   "o": [
+    "David Truman",
+    "Arthur Bentley",
+    "Robert Dahl",
+    "Harold Laski"
+   ],
+   "a": 1,
+   "w": "Arthur Bentley."
+  },
+  {
+   "q": "Truman's idea that people belong to many groups is called…",
+   "o": [
+    "Polyarchy",
+    "Overlapping membership",
+    "Iron law",
+    "Corporatism"
+   ],
+   "a": 1,
+   "w": "Overlapping or cross-cutting membership."
+  },
+  {
+   "q": "'The heavenly chorus sings with a strong upper-class accent' is by…",
+   "o": [
+    "C. Wright Mills",
+    "E.E. Schattschneider",
+    "Charles Lindblom",
+    "Ralph Miliband"
+   ],
+   "a": 1,
+   "w": "The Semisovereign People (1960)."
+  },
+  {
+   "q": "Early British pluralists like Laski opposed…",
+   "o": [
+    "Group autonomy",
+    "The monistic sovereign state",
+    "Trade unions",
+    "Federalism"
+   ],
+   "a": 1,
+   "w": "They attacked the idea of one absolute sovereign."
+  },
+  {
+   "q": "Neo-pluralism admits that…",
+   "o": [
+    "All groups are equal",
+    "Business holds a privileged position",
+    "The state is a class tool",
+    "Groups do not matter"
+   ],
+   "a": 1,
+   "w": "Lindblom's revision."
   }
  ],
  "sources": [],

@@ -110,6 +110,61 @@
    ],
    "a": 1,
    "w": "Three: industrial capitalists, rich farmers, and professionals."
+  },
+  {
+   "q": "The Origin of the Family, Private Property and the State was written by…",
+   "o": [
+    "Marx",
+    "Engels",
+    "Lenin",
+    "Kautsky"
+   ],
+   "a": 1,
+   "w": "Friedrich Engels, 1884."
+  },
+  {
+   "q": "Who wrote The State and Revolution (1917)?",
+   "o": [
+    "Lenin",
+    "Trotsky",
+    "Stalin",
+    "Gramsci"
+   ],
+   "a": 0,
+   "w": "Lenin."
+  },
+  {
+   "q": "Poulantzas held which view of the state?",
+   "o": [
+    "Instrumentalist",
+    "Structuralist",
+    "Pluralist",
+    "Liberal"
+   ],
+   "a": 1,
+   "w": "The state has relative autonomy because of its structural role."
+  },
+  {
+   "q": "For Engels, after classes disappear the state…",
+   "o": [
+    "Is abolished by decree",
+    "Withers away",
+    "Becomes a world state",
+    "Becomes stronger"
+   ],
+   "a": 1,
+   "w": "From Anti-Dühring."
+  },
+  {
+   "q": "Marx's analysis of Louis Bonaparte's state is found in…",
+   "o": [
+    "Capital",
+    "The Eighteenth Brumaire",
+    "The German Ideology",
+    "The Manifesto"
+   ],
+   "a": 1,
+   "w": "The Eighteenth Brumaire of Louis Bonaparte (1852)."
   }
  ],
  "sources": [],

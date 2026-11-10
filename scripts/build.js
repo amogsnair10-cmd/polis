@@ -12,13 +12,13 @@ for(const f of fs.readdirSync('lessons').filter(f=>/^\d+-\d+-\d+\.json$/.test(f)
   if(!titles[id])e('id not in syllabus');
   if(l.id!==id)e('id field does not match file name');
   if(!l.title||!l.emoji)e('missing title or emoji');
-  if(!Array.isArray(l.cards)||l.cards.length<8||l.cards.length>11)e(`needs 8-11 cards, has ${l.cards&&l.cards.length}`);
-  (l.cards||[]).forEach((c,i)=>{if(!c.tag||!c.h||!c.b)e(`card ${i+1} missing tag/h/b`);const w=words(c.b);if(w>175)warn.push(`${id} card ${i+1}: ${w} words`)});
+  if(!Array.isArray(l.cards)||l.cards.length<8||l.cards.length>16)e(`needs 8-16 cards, has ${l.cards&&l.cards.length}`);
+  (l.cards||[]).forEach((c,i)=>{if(!c.tag||!c.h||!c.b)e(`card ${i+1} missing tag/h/b`);const w=words(c.b);if(w>200)warn.push(`${id} card ${i+1}: ${w} words`)});
   if(!(l.cards||[]).some(c=>c.cls==='exam'))e('no exam card');
-  if(!Array.isArray(l.quiz)||l.quiz.length!==5)e('needs 5 quiz questions');
+  if(!Array.isArray(l.quiz)||l.quiz.length!==10)e('needs 10 quiz questions');
   (l.quiz||[]).forEach((q,i)=>{if(!q.q||!Array.isArray(q.o)||q.o.length!==4||!(q.a>=0&&q.a<4)||!q.w)e(`quiz ${i+1} malformed`)});
   if(!l.verified)e('missing verified date');
-  idx[id]={title:l.title,n:l.cards.length};
+  idx[id]={title:l.title,n:l.cards.length,q:l.quiz.length};
 }
 warn.forEach(w=>console.warn('warn:',w));
 if(errs.length){errs.forEach(x=>console.error('error:',x));process.exit(1)}

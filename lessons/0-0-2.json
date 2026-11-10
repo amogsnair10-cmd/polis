@@ -49,6 +49,11 @@
    "b": "<p>No. It gave us survey research, election studies and rigorous methods. In India, the <b>CSDS–Lokniti</b> National Election Studies use these tools to study how Indians vote.</p><p>Post-behaviouralism did not reject methods. It said methods must serve meaningful questions. Make this point and you will look balanced.</p>"
   },
   {
+   "tag": "Indian angle",
+   "h": "Behaviouralism in India",
+   "b": "<p>Indian political science took up behavioural methods from the 1960s.</p><ul><li>The <b>Centre for the Study of Developing Societies (CSDS)</b> was founded in Delhi in 1963 by <b>Rajni Kothari</b>.</li><li>Its <b>Lokniti</b> programme runs the National Election Studies, large surveys of how Indians vote.</li><li>Kothari's <i>Politics in India</i> (1970) used systems ideas to describe the \"<b>Congress system</b>\".</li></ul><p>But Indian scholars also showed the limits of imported models. Western theories predicted that modernisation would weaken caste. Instead, <b>Rudolph and Rudolph</b> in <i>The Modernity of Tradition</i> (1967) showed caste associations adapting to democracy.</p><p>This is a classic post-behavioural point: methods must be fitted to local reality.</p>"
+  },
+  {
    "tag": "Exam lens",
    "cls": "exam",
    "h": "How UPSC asks this",
@@ -110,6 +115,61 @@
    ],
    "a": 2,
    "w": "Revolution is not on the list."
+  },
+  {
+   "q": "Behaviouralism's roots lie in the Chicago School under…",
+   "o": [
+    "David Easton",
+    "Charles Merriam",
+    "Robert Dahl",
+    "Harold Lasswell"
+   ],
+   "a": 1,
+   "w": "Charles Merriam in the 1920s."
+  },
+  {
+   "q": "Almond and Verba's three types of political culture are parochial, subject and…",
+   "o": [
+    "Civic",
+    "Participant",
+    "Democratic",
+    "Mass"
+   ],
+   "a": 1,
+   "w": "Parochial, subject and participant."
+  },
+  {
+   "q": "Karl Deutsch is linked with which model of politics?",
+   "o": [
+    "Structural-functional",
+    "Communication or cybernetic",
+    "Elite",
+    "Rational choice"
+   ],
+   "a": 1,
+   "w": "He treated politics as communication."
+  },
+  {
+   "q": "CSDS was founded in 1963 by…",
+   "o": [
+    "Rajni Kothari",
+    "Yogendra Yadav",
+    "Ashis Nandy",
+    "Bhikhu Parekh"
+   ],
+   "a": 0,
+   "w": "Rajni Kothari."
+  },
+  {
+   "q": "The Modernity of Tradition (1967) showed that caste…",
+   "o": [
+    "Disappeared with modernisation",
+    "Adapted to democracy through caste associations",
+    "Was purely economic",
+    "Blocked all participation"
+   ],
+   "a": 1,
+   "w": "Rudolph and Rudolph."
   }
  ],
  "sources": [],

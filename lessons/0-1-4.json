@@ -34,6 +34,11 @@
    "b": "<ul><li><b>Intersectionality.</b> Kimberlé Crenshaw (1989) showed that race, class and gender overlap. White middle-class feminism ignored many women.</li><li><b>Post-colonial feminism.</b> Chandra Talpade Mohanty's \"Under Western Eyes\" (1984) criticised Western feminists for treating \"Third World women\" as one helpless group.</li><li><b>State as ally?</b> The state has also passed laws protecting women, so it is not only an oppressor.</li></ul>"
   },
   {
+   "tag": "Key idea",
+   "h": "Postcolonial and Black feminism",
+   "b": "<p>Later feminists asked: which women does feminism speak for?</p><div class=\"box\"><h4>Chandra Talpade Mohanty</h4>In \"Under Western Eyes\" (1984/1986), she criticised Western feminists for treating \"Third World women\" as one passive, oppressed victim group.</div><div class=\"box\"><h4>Gayatri Chakravorty Spivak</h4>In \"Can the Subaltern Speak?\" (1988), she used the British ban on sati to show how both colonisers and local elites spoke <b>for</b> subaltern women, never letting them speak.</div><div class=\"box\"><h4>bell hooks</h4>In <i>Ain't I a Woman</i> (1981), she showed how racism and sexism combine for Black women.</div><p>These ideas feed into <b>intersectionality</b>: the state treats a poor Dalit woman differently from a rich upper-caste woman, so gender alone cannot explain her position.</p>"
+  },
+  {
    "tag": "Indian angle",
    "h": "India's story",
    "b": "<p>The Indian state has a mixed record. It brought the <b>73rd and 74th Amendments</b> (1992), reserving a third of local body seats for women. The <b>106th Amendment</b> (2023), known as Nari Shakti Vandan Adhiniyam, reserves a third of Lok Sabha and state assembly seats for women, effective after the next census and delimitation.</p><p>But Dalit feminists like <b>Sharmila Rege</b> show how caste and gender combine, which links to Ambedkar's view that caste is maintained by controlling women.</p>"
@@ -100,6 +105,61 @@
    ],
    "a": 1,
    "w": "Mary Wollstonecraft, 1792."
+  },
+  {
+   "q": "'Can the Subaltern Speak?' (1988) was written by…",
+   "o": [
+    "Chandra Mohanty",
+    "Gayatri Spivak",
+    "Uma Chakravarti",
+    "bell hooks"
+   ],
+   "a": 1,
+   "w": "Gayatri Chakravorty Spivak."
+  },
+  {
+   "q": "Mohanty's 'Under Western Eyes' criticised…",
+   "o": [
+    "Indian patriarchy only",
+    "Western feminists' view of Third World women",
+    "Marxist feminism",
+    "Liberal states"
+   ],
+   "a": 1,
+   "w": "She attacked the image of Third World women as one victim group."
+  },
+  {
+   "q": "Radical feminism's slogan is…",
+   "o": [
+    "Equal pay for equal work",
+    "The personal is political",
+    "Workers of the world unite",
+    "Rights of man"
+   ],
+   "a": 1,
+   "w": "Popularised by Carol Hanisch's 1969 essay."
+  },
+  {
+   "q": "Liberal feminists mainly seek to…",
+   "o": [
+    "Abolish the state",
+    "Reform law and institutions for equal rights",
+    "End capitalism",
+    "Create women-only states"
+   ],
+   "a": 1,
+   "w": "Fix the state through equal rights."
+  },
+  {
+   "q": "Ain't I a Woman (1981) was written by…",
+   "o": [
+    "Kimberlé Crenshaw",
+    "bell hooks",
+    "Angela Davis",
+    "Audre Lorde"
+   ],
+   "a": 1,
+   "w": "bell hooks."
   }
  ],
  "sources": [],

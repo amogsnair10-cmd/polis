@@ -110,6 +110,61 @@
    ],
    "a": 2,
    "w": "The 1991 economic reforms."
+  },
+  {
+   "q": "The term 'Washington Consensus' was coined by…",
+   "o": [
+    "Milton Friedman",
+    "John Williamson",
+    "Joseph Stiglitz",
+    "Friedrich Hayek"
+   ],
+   "a": 1,
+   "w": "John Williamson, 1989."
+  },
+  {
+   "q": "Hayek's key argument against central planning is about…",
+   "o": [
+    "Morality of profit",
+    "Dispersed knowledge",
+    "Military power",
+    "Religious freedom"
+   ],
+   "a": 1,
+   "w": "No planner can know what millions of people know."
+  },
+  {
+   "q": "Anarchy, State, and Utopia (1974) argues for a…",
+   "o": [
+    "Welfare state",
+    "Minimal night-watchman state",
+    "Socialist state",
+    "World state"
+   ],
+   "a": 1,
+   "w": "Nozick's minimal state."
+  },
+  {
+   "q": "Which welfare scheme came in 2005?",
+   "o": [
+    "MGNREGA",
+    "NFSA",
+    "PM-KISAN",
+    "Ayushman Bharat"
+   ],
+   "a": 0,
+   "w": "The Mahatma Gandhi National Rural Employment Guarantee Act, 2005."
+  },
+  {
+   "q": "For liberals, the state is best described as a…",
+   "o": [
+    "Committee of the ruling class",
+    "Neutral umpire",
+    "Patriarchal institution",
+    "Overdeveloped machine"
+   ],
+   "a": 1,
+   "w": "It referees between competing interests."
   }
  ],
  "sources": [],

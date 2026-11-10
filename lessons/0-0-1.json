@@ -39,6 +39,11 @@
    "b": "<p>After 1945, American scholars felt traditional approaches could not explain real political behaviour. They could not explain why democracy collapsed in Weimar Germany or why people voted for fascists.</p><p>The criticism was that traditional approaches were too <b>formal, too normative and too narrow</b>. This opened the door for the behavioural revolution, which is the next lesson.</p>"
   },
   {
+   "tag": "Approach 5",
+   "h": "Comparative and other traditional methods",
+   "b": "<p>Some books add more traditional approaches.</p><div class=\"box\"><h4>Comparative approach</h4>Aristotle compared 158 constitutions. Montesquieu, in <i>The Spirit of the Laws</i> (1748), compared laws across countries and linked them to climate, religion and customs. Bryce compared modern democracies.</div><div class=\"box\"><h4>Sociological approach</h4>Studies how society shapes politics, as Montesquieu and later Tocqueville did in <i>Democracy in America</i> (1835–40).</div><div class=\"box\"><h4>Psychological approach</h4>Graham Wallas, in <i>Human Nature in Politics</i> (1908), argued people act on instinct and emotion more than reason. This prepared the ground for behaviouralism.</div><p>These bridge the old and the new: they stay value-based, but begin to look at how politics actually works.</p>"
+  },
+  {
    "tag": "Indian angle",
    "h": "Still useful in India",
    "b": "<p>The institutional and legal approaches still matter a lot in India. Debates on the basic structure doctrine (Kesavananda Bharati, 1973), the anti-defection law, or Governor's powers are mainly legal-institutional.</p><p>But you can only explain coalition politics or caste voting with newer approaches. A strong answer shows both.</p>"
@@ -105,6 +110,61 @@
    ],
    "a": 1,
    "w": "James March and Johan Olsen (1984) brought institutions back in."
+  },
+  {
+   "q": "Human Nature in Politics (1908) was written by…",
+   "o": [
+    "Graham Wallas",
+    "James Bryce",
+    "Harold Laski",
+    "Charles Merriam"
+   ],
+   "a": 0,
+   "w": "Wallas stressed instinct and emotion in politics."
+  },
+  {
+   "q": "The Spirit of the Laws (1748) is by…",
+   "o": [
+    "Rousseau",
+    "Montesquieu",
+    "Bodin",
+    "Tocqueville"
+   ],
+   "a": 1,
+   "w": "Montesquieu."
+  },
+  {
+   "q": "A.V. Dicey is known for his work on…",
+   "o": [
+    "Sovereignty of the people",
+    "Rule of law",
+    "Pluralism",
+    "Natural rights"
+   ],
+   "a": 1,
+   "w": "Dicey's classic account of the rule of law."
+  },
+  {
+   "q": "Traditional approaches are mainly…",
+   "o": [
+    "Value-free and quantitative",
+    "Value-laden and state-centric",
+    "Behavioural",
+    "Post-modern"
+   ],
+   "a": 1,
+   "w": "They openly judge and focus on the state."
+  },
+  {
+   "q": "The basic structure doctrine came from…",
+   "o": [
+    "Golaknath (1967)",
+    "Kesavananda Bharati (1973)",
+    "Minerva Mills (1980)",
+    "Maneka Gandhi (1978)"
+   ],
+   "a": 1,
+   "w": "Kesavananda Bharati, 1973."
   }
  ],
  "sources": [],

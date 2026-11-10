@@ -34,6 +34,11 @@
    "b": "<ul><li>It can over-generalise. India stayed democratic while Pakistan saw coups; one theory struggles to explain both.</li><li>It can give colonialism too much weight and ignore local agency.</li><li>Developmental states like South Korea show post-colonial states can succeed economically.</li></ul>"
   },
   {
+   "tag": "Key idea",
+   "h": "Other Indian readings of the state",
+   "b": "<div class=\"box\"><h4>Pranab Bardhan</h4>In <i>The Political Economy of Development in India</i> (1984), he named three <b>dominant proprietary classes</b>: industrial capitalists, rich farmers and professionals including bureaucrats. They compete for state subsidies, which slows growth.</div><div class=\"box\"><h4>Rajni Kothari</h4>Described the decline of the Congress system and the rise of a more centralised, personalised state from the 1970s.</div><div class=\"box\"><h4>Atul Kohli</h4>In <i>State-Directed Development</i> (2004), he called India a <b>fragmented-multiclass state</b>, less effective than South Korea's cohesive-capitalist state.</div><div class=\"box\"><h4>Sudipta Kaviraj</h4>Read Indian state-building as a passive revolution led by bourgeois and bureaucratic elites.</div>"
+  },
+  {
    "tag": "Indian angle",
    "h": "Is India's state overdeveloped?",
    "b": "<p>India inherited the colonial machine almost whole: the <b>IAS</b> replaced the ICS, and the Indian Penal Code (1860) stayed in force until the <b>Bharatiya Nyaya Sanhita</b> replaced it in 2024.</p><p>Yet India differs from Alavi's Pakistan. Regular elections, a strong Congress party in the early decades and firm civilian control kept the army out of politics.</p><p>Rudolph and Rudolph, in <i>In Pursuit of Lakshmi</i> (1987), called this a <b>weak-strong state</b>. Chatterjee's political society shows the same thing at the ground level: the poor reach the state through negotiation, not through rights.</p>"
@@ -100,6 +105,61 @@
    ],
    "a": 0,
    "w": "Chatterjee was a core member of the Subaltern Studies collective."
+  },
+  {
+   "q": "Hamza Alavi studied the post-colonial state mainly in…",
+   "o": [
+    "India and Sri Lanka",
+    "Pakistan and Bangladesh",
+    "Nigeria and Ghana",
+    "Indonesia"
+   ],
+   "a": 1,
+   "w": "His 1972 New Left Review essay."
+  },
+  {
+   "q": "Atul Kohli called India a…",
+   "o": [
+    "Cohesive-capitalist state",
+    "Fragmented-multiclass state",
+    "Neo-patrimonial state",
+    "Soft state"
+   ],
+   "a": 1,
+   "w": "State-Directed Development (2004)."
+  },
+  {
+   "q": "Asian Drama (1968), which describes the 'soft state', was written by…",
+   "o": [
+    "Gunnar Myrdal",
+    "Andre Gunder Frank",
+    "Hamza Alavi",
+    "Rudolph and Rudolph"
+   ],
+   "a": 0,
+   "w": "Gunnar Myrdal."
+  },
+  {
+   "q": "Rudolph and Rudolph called the Indian state a…",
+   "o": [
+    "Weak-strong state",
+    "Night-watchman state",
+    "Hegemonic state",
+    "Garrison state"
+   ],
+   "a": 0,
+   "w": "In Pursuit of Lakshmi (1987)."
+  },
+  {
+   "q": "Which law replaced the Indian Penal Code in 2024?",
+   "o": [
+    "Bharatiya Nagarik Suraksha Sanhita",
+    "Bharatiya Nyaya Sanhita",
+    "Bharatiya Sakshya Adhiniyam",
+    "Criminal Procedure Code"
+   ],
+   "a": 1,
+   "w": "The Bharatiya Nyaya Sanhita, in force from 1 July 2024."
   }
  ],
  "sources": [],

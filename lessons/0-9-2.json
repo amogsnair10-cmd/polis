@@ -3,24 +3,183 @@
  "title": "Machiavelli",
  "emoji": "🦊",
  "cards": [
-  {"tag": "Why this matters", "h": "The first modern political thinker", "b": "<p>Niccolò Machiavelli (1469–1527) was a diplomat and official of the Florentine republic. When the Medici returned to power in 1512, he lost his job and was briefly jailed and tortured.</p><p>In exile on his farm he wrote <i>The Prince</i> (written 1513, published 1532) and the <i>Discourses on Livy</i>.</p><p>He is called the first modern thinker because he studied politics <b>as it is</b>, not as it ought to be, and separated politics from Christian morality. UPSC asks about this split often.</p>"},
-  {"tag": "Context", "h": "A broken Italy", "b": "<p>Italy in 1500 was split into rival city-states: Florence, Venice, Milan, Naples and the Papal States. France and Spain invaded again and again.</p><p>Machiavelli wanted a strong ruler who could unite Italy and drive out the \"barbarians\". The last chapter of <i>The Prince</i> is an appeal to the Medici to do exactly that.</p><p>Read him as a <b>patriot</b> in a crisis, not just a teacher of tricks.</p>"},
-  {"tag": "Core idea", "h": "Politics has its own rules", "b": "<p>Machiavelli says a prince who always tries to be good will be ruined among so many who are not good. So he must learn <b>how not to be good</b>, and use that knowledge as necessity demands.</p><p>This is the core of his realism. Political action is judged by its <b>results</b>: keeping the state safe and strong.</p><p>Later writers called this <b>raison d'état</b>, reason of state. Machiavelli himself never used the term, but the idea starts with him.</p>"},
-  {"tag": "Key ideas", "h": "Virtù and fortuna", "b": "<div class=\"box\"><h4>Fortuna</h4>Luck, or chance. Machiavelli compares it to a violent river that floods the plain. It controls about half of what happens to us.</div><div class=\"box\"><h4>Virtù</h4>Not Christian virtue. It means skill, energy, boldness and the ability to adapt. A ruler with virtù builds dykes before the flood comes.</div><p>The successful prince matches his actions to the times. Since fortune favours the bold, he should act with daring.</p>"},
-  {"tag": "Key ideas", "h": "Lion and fox; love and fear", "b": "<p>A prince must be both a <b>lion</b>, to frighten wolves, and a <b>fox</b>, to recognise traps. Force alone is not enough; cunning is needed too.</p><p>Is it better to be loved or feared? Ideally both. But if one must choose, it is <b>safer to be feared</b> than loved. Love is broken when convenient; fear is held by the dread of punishment.</p><p>Yet the prince must never be <b>hated</b>. He should leave his subjects' property and women alone.</p>"},
-  {"tag": "Key ideas", "h": "Religion and arms", "b": "<p>Machiavelli treats religion as a <b>tool of state</b>. It binds citizens and makes armies obedient. He admired how Rome used religion to support its laws.</p><p>He blamed the Church for keeping Italy divided, and said Christianity made men meek.</p><p>On the military, he says good laws need <b>good arms</b>. He distrusted mercenaries as disloyal and cowardly, and argued for a <b>citizen militia</b>. In 1506 he organised one for Florence.</p>"},
-  {"tag": "The other Machiavelli", "h": "The republican of the Discourses", "b": "<p>In the <i>Discourses on Livy</i>, Machiavelli praises the Roman <b>republic</b>. He says a republic is more stable than a principality because it can draw on many talents.</p><p>He even praises the conflict between nobles and common people in Rome: it produced laws that protected liberty.</p><p>So which is the real Machiavelli? Many scholars, such as <b>Quentin Skinner</b>, see him as a <b>republican</b>. The Prince is advice for founding or saving a state in crisis; the Discourses describe how to keep it free.</p>"},
-  {"tag": "Debate", "h": "Teacher of evil or realist patriot?", "b": "<ul><li><b>Leo Strauss</b> called him a \"teacher of evil\".</li><li><b>Rousseau</b> read <i>The Prince</i> as satire: by teaching kings, he was warning the people.</li><li><b>Isaiah Berlin</b>, in \"The Originality of Machiavelli\" (1971–72), said his real point was that there are two moralities: Christian and civic. They cannot both be fully followed, and that is unsettling.</li><li><b>Gramsci</b> called the communist party the \"Modern Prince\": the collective force that could unite and lead.</li></ul>"},
-  {"tag": "Indian angle", "h": "Kautilya and Machiavelli", "b": "<p>Students often compare Machiavelli with <b>Kautilya</b>. Both are realists, both put the state's safety first, and both accept deceit and force when needed.</p><p>But Kautilya wrote a full manual of government, economy and diplomacy. He also ties the king to <b>dharma</b> and to the welfare of subjects: the king's happiness lies in his subjects' happiness.</p><p>Max Weber said that compared with Kautilya's <i>Arthashastra</i>, Machiavelli's <i>Prince</i> is \"harmless\".</p>"},
-  {"tag": "Exam lens", "cls": "exam", "h": "How UPSC asks this", "b": "<div class=\"box\">\"Machiavelli separated politics from ethics.\" Comment.</div><div class=\"box\">\"Discuss Machiavelli as the first modern political thinker.\"</div><div class=\"box\">\"Compare Kautilya and Machiavelli.\"</div><p><b>Structure:</b> give context (divided Italy), explain the shift from \"ought\" to \"is\", then virtù and fortuna, lion and fox, and religion as a tool. Bring in the republican Discourses and Berlin's reading for a balanced finish.</p>"}
+  {
+   "tag": "Why this matters",
+   "h": "The first modern political thinker",
+   "b": "<p>Niccolò Machiavelli (1469–1527) was a diplomat and official of the Florentine republic. When the Medici returned to power in 1512, he lost his job and was briefly jailed and tortured.</p><p>In exile on his farm he wrote <i>The Prince</i> (written 1513, published 1532) and the <i>Discourses on Livy</i>.</p><p>He is called the first modern thinker because he studied politics <b>as it is</b>, not as it ought to be, and separated politics from Christian morality. UPSC asks about this split often.</p>"
+  },
+  {
+   "tag": "Context",
+   "h": "A broken Italy",
+   "b": "<p>Italy in 1500 was split into rival city-states: Florence, Venice, Milan, Naples and the Papal States. France and Spain invaded again and again.</p><p>Machiavelli wanted a strong ruler who could unite Italy and drive out the \"barbarians\". The last chapter of <i>The Prince</i> is an appeal to the Medici to do exactly that.</p><p>Read him as a <b>patriot</b> in a crisis, not just a teacher of tricks.</p>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "Politics has its own rules",
+   "b": "<p>Machiavelli says a prince who always tries to be good will be ruined among so many who are not good. So he must learn <b>how not to be good</b>, and use that knowledge as necessity demands.</p><p>This is the core of his realism. Political action is judged by its <b>results</b>: keeping the state safe and strong.</p><p>Later writers called this <b>raison d'état</b>, reason of state. Machiavelli himself never used the term, but the idea starts with him.</p>"
+  },
+  {
+   "tag": "Key ideas",
+   "h": "Virtù and fortuna",
+   "b": "<div class=\"box\"><h4>Fortuna</h4>Luck, or chance. Machiavelli compares it to a violent river that floods the plain. It controls about half of what happens to us.</div><div class=\"box\"><h4>Virtù</h4>Not Christian virtue. It means skill, energy, boldness and the ability to adapt. A ruler with virtù builds dykes before the flood comes.</div><p>The successful prince matches his actions to the times. Since fortune favours the bold, he should act with daring.</p>"
+  },
+  {
+   "tag": "Key ideas",
+   "h": "Lion and fox; love and fear",
+   "b": "<p>A prince must be both a <b>lion</b>, to frighten wolves, and a <b>fox</b>, to recognise traps. Force alone is not enough; cunning is needed too.</p><p>Is it better to be loved or feared? Ideally both. But if one must choose, it is <b>safer to be feared</b> than loved. Love is broken when convenient; fear is held by the dread of punishment.</p><p>Yet the prince must never be <b>hated</b>. He should leave his subjects' property and women alone.</p>"
+  },
+  {
+   "tag": "Key ideas",
+   "h": "Religion and arms",
+   "b": "<p>Machiavelli treats religion as a <b>tool of state</b>. It binds citizens and makes armies obedient. He admired how Rome used religion to support its laws.</p><p>He blamed the Church for keeping Italy divided, and said Christianity made men meek.</p><p>On the military, he says good laws need <b>good arms</b>. He distrusted mercenaries as disloyal and cowardly, and argued for a <b>citizen militia</b>. In 1506 he organised one for Florence.</p>"
+  },
+  {
+   "tag": "The other Machiavelli",
+   "h": "The republican of the Discourses",
+   "b": "<p>In the <i>Discourses on Livy</i>, Machiavelli praises the Roman <b>republic</b>. He says a republic is more stable than a principality because it can draw on many talents.</p><p>He even praises the conflict between nobles and common people in Rome: it produced laws that protected liberty.</p><p>So which is the real Machiavelli? Many scholars, such as <b>Quentin Skinner</b>, see him as a <b>republican</b>. The Prince is advice for founding or saving a state in crisis; the Discourses describe how to keep it free.</p>"
+  },
+  {
+   "tag": "Debate",
+   "h": "Teacher of evil or realist patriot?",
+   "b": "<ul><li><b>Leo Strauss</b> called him a \"teacher of evil\".</li><li><b>Rousseau</b> read <i>The Prince</i> as satire: by teaching kings, he was warning the people.</li><li><b>Isaiah Berlin</b>, in \"The Originality of Machiavelli\" (1971–72), said his real point was that there are two moralities: Christian and civic. They cannot both be fully followed, and that is unsettling.</li><li><b>Gramsci</b> called the communist party the \"Modern Prince\": the collective force that could unite and lead.</li></ul>"
+  },
+  {
+   "tag": "Key idea",
+   "h": "Kinds of principality",
+   "b": "<p><i>The Prince</i> sorts states by how they are gained.</p><ul><li><b>Hereditary</b> principalities are easy to hold. Just don't upset ancestral customs.</li><li><b>New</b> principalities are hard. The innovator has enemies in all who did well under the old order, and only lukewarm friends in those who might do well under the new.</li><li>Those won by <b>one's own arms and virtù</b>, like Moses, Cyrus, Romulus and Theseus, are hard to win but easy to hold.</li><li>Those won by <b>fortune and others' arms</b>, like Cesare Borgia's, are easy to win but hard to hold.</li></ul><p>Cesare Borgia is Machiavelli's model. He used his cruel minister Remirro de Orco to pacify the Romagna. Then he had Remirro cut in two and left in the town square, to show the cruelty was not his own.</p><p>The lesson: cruelty <b>well used</b> is done all at once and then stops. Benefits should be given little by little, so they are enjoyed more.</p>"
+  },
+  {
+   "tag": "Indian angle",
+   "h": "Kautilya and Machiavelli",
+   "b": "<p>Students often compare Machiavelli with <b>Kautilya</b>. Both are realists, both put the state's safety first, and both accept deceit and force when needed.</p><p>But Kautilya wrote a full manual of government, economy and diplomacy. He also ties the king to <b>dharma</b> and to the welfare of subjects: the king's happiness lies in his subjects' happiness.</p><p>Max Weber said that compared with Kautilya's <i>Arthashastra</i>, Machiavelli's <i>Prince</i> is \"harmless\".</p>"
+  },
+  {
+   "tag": "Exam lens",
+   "cls": "exam",
+   "h": "How UPSC asks this",
+   "b": "<div class=\"box\">\"Machiavelli separated politics from ethics.\" Comment.</div><div class=\"box\">\"Discuss Machiavelli as the first modern political thinker.\"</div><div class=\"box\">\"Compare Kautilya and Machiavelli.\"</div><p><b>Structure:</b> give context (divided Italy), explain the shift from \"ought\" to \"is\", then virtù and fortuna, lion and fox, and religion as a tool. Bring in the republican Discourses and Berlin's reading for a balanced finish.</p>"
+  }
  ],
  "quiz": [
-  {"q": "For Machiavelli, virtù means…", "o": ["Christian goodness", "Skill, boldness and adaptability", "Obedience to the Church", "Inherited nobility"], "a": 1, "w": "Virtù is political skill and energy, not moral virtue."},
-  {"q": "Machiavelli says it is safer for a prince to be…", "o": ["Loved rather than feared", "Feared rather than loved", "Neither loved nor feared", "Hated but respected"], "a": 1, "w": "Fear is safer, but the prince must avoid being hated."},
-  {"q": "In which work does Machiavelli praise the Roman republic?", "o": ["The Prince", "The Art of War", "Discourses on Livy", "Florentine Histories"], "a": 2, "w": "The Discourses on Livy show the republican Machiavelli."},
-  {"q": "Who called the communist party the 'Modern Prince'?", "o": ["Lenin", "Gramsci", "Rousseau", "Strauss"], "a": 1, "w": "Antonio Gramsci, in his Prison Notebooks."},
-  {"q": "Isaiah Berlin's view was that Machiavelli…", "o": ["Was a simple teacher of evil", "Showed two incompatible moralities", "Wrote satire against kings", "Was a Christian moralist"], "a": 1, "w": "Berlin argued he exposed a clash between Christian and civic morality."}
+  {
+   "q": "For Machiavelli, virtù means…",
+   "o": [
+    "Christian goodness",
+    "Skill, boldness and adaptability",
+    "Obedience to the Church",
+    "Inherited nobility"
+   ],
+   "a": 1,
+   "w": "Virtù is political skill and energy, not moral virtue."
+  },
+  {
+   "q": "Machiavelli says it is safer for a prince to be…",
+   "o": [
+    "Loved rather than feared",
+    "Feared rather than loved",
+    "Neither loved nor feared",
+    "Hated but respected"
+   ],
+   "a": 1,
+   "w": "Fear is safer, but the prince must avoid being hated."
+  },
+  {
+   "q": "In which work does Machiavelli praise the Roman republic?",
+   "o": [
+    "The Prince",
+    "The Art of War",
+    "Discourses on Livy",
+    "Florentine Histories"
+   ],
+   "a": 2,
+   "w": "The Discourses on Livy show the republican Machiavelli."
+  },
+  {
+   "q": "Who called the communist party the 'Modern Prince'?",
+   "o": [
+    "Lenin",
+    "Gramsci",
+    "Rousseau",
+    "Strauss"
+   ],
+   "a": 1,
+   "w": "Antonio Gramsci, in his Prison Notebooks."
+  },
+  {
+   "q": "Isaiah Berlin's view was that Machiavelli…",
+   "o": [
+    "Was a simple teacher of evil",
+    "Showed two incompatible moralities",
+    "Wrote satire against kings",
+    "Was a Christian moralist"
+   ],
+   "a": 1,
+   "w": "Berlin argued he exposed a clash between Christian and civic morality."
+  },
+  {
+   "q": "Machiavelli's model of a new prince using cruelty well was…",
+   "o": [
+    "Lorenzo de' Medici",
+    "Cesare Borgia",
+    "Pope Julius II",
+    "Savonarola"
+   ],
+   "a": 1,
+   "w": "Cesare Borgia's pacification of the Romagna."
+  },
+  {
+   "q": "Machiavelli compared fortuna to…",
+   "o": [
+    "A wheel",
+    "A violent river",
+    "A storm at sea",
+    "A lion"
+   ],
+   "a": 1,
+   "w": "A river that floods; virtù builds dykes beforehand."
+  },
+  {
+   "q": "Machiavelli preferred which kind of army?",
+   "o": [
+    "Mercenaries",
+    "Auxiliaries from allies",
+    "A citizen militia",
+    "Papal troops"
+   ],
+   "a": 2,
+   "w": "He distrusted mercenaries and organised a Florentine militia in 1506."
+  },
+  {
+   "q": "The Prince was published in…",
+   "o": [
+    "1513",
+    "1527",
+    "1532",
+    "1559"
+   ],
+   "a": 2,
+   "w": "Written in 1513, published in 1532, after his death."
+  },
+  {
+   "q": "According to Machiavelli, cruelty 'well used' is…",
+   "o": [
+    "Spread out over time",
+    "Done all at once, then stopped",
+    "Never needed",
+    "Left to the Church"
+   ],
+   "a": 1,
+   "w": "Injuries should be done all together; benefits given little by little."
+  }
  ],
- "sources": ["Machiavelli, The Prince (trans. Harvey Mansfield), chs. 15, 17, 18, 25, 26", "Machiavelli, Discourses on Livy, Book I", "Isaiah Berlin, 'The Originality of Machiavelli' (1972)", "Quentin Skinner, Machiavelli: A Very Short Introduction (1981)", "Leo Strauss, Thoughts on Machiavelli (1958)", "Max Weber, 'Politics as a Vocation' (1919)", "PYQ themes: separation of politics and ethics, modernity of Machiavelli (Paper I, repeated)"],
+ "sources": [
+  "Machiavelli, The Prince (trans. Harvey Mansfield), chs. 15, 17, 18, 25, 26",
+  "Machiavelli, Discourses on Livy, Book I",
+  "Isaiah Berlin, 'The Originality of Machiavelli' (1972)",
+  "Quentin Skinner, Machiavelli: A Very Short Introduction (1981)",
+  "Leo Strauss, Thoughts on Machiavelli (1958)",
+  "Max Weber, 'Politics as a Vocation' (1919)",
+  "PYQ themes: separation of politics and ethics, modernity of Machiavelli (Paper I, repeated)"
+ ],
  "verified": "2026-11-10"
 }

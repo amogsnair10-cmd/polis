@@ -44,6 +44,16 @@
    "b": "<ul><li><b>Economic determinism:</b> Weber showed ideas, like the Protestant ethic, also shape the economy. Engels himself, in an 1890 letter to Joseph Bloch, said the economy is decisive only \"in the last instance\".</li><li><b>Prediction failed:</b> revolution came in peasant Russia and China, not industrial Britain. Capitalism adapted through welfare and unions.</li><li><b>Karl Popper</b> called historicism unfalsifiable.</li><li><b>Totalitarian outcomes</b> in the USSR. Defenders reply that Stalinism betrayed Marx.</li><li>Yet the 2008 crash revived interest in his account of crises and inequality.</li></ul>"
   },
   {
+   "tag": "Key idea",
+   "h": "Ideology and commodity fetishism",
+   "b": "<p>In <i>The German Ideology</i> (written 1845–46 with Engels), Marx says:</p><div class=\"quote\">\"The ideas of the ruling class are in every epoch the ruling ideas.\"</div><div class=\"who\">Marx and Engels, The German Ideology</div><p>The class that owns the means of material production also controls the means of mental production. So ideas that serve the rich come to look like everyone's common sense.</p><p>In <i>Capital</i>, Marx adds <b>commodity fetishism</b>. Under capitalism, relations between people appear as relations between things. We see prices and goods, not the human labour behind them.</p><p>Both ideas show why exploitation can feel natural to those exploited. Later Marxists, like <b>Gramsci</b> with hegemony and <b>Lukács</b> with reification, built on them.</p>"
+  },
+  {
+   "tag": "Key idea",
+   "h": "Young Marx and mature Marx",
+   "b": "<p>Scholars debate whether there are two Marxes.</p><div class=\"box\"><h4>The young Marx</h4>The humanist of the 1844 Manuscripts, focused on alienation and human freedom.</div><div class=\"box\"><h4>The mature Marx</h4>The economist of <i>Capital</i>, focused on laws of capitalist development.</div><p><b>Louis Althusser</b>, in <i>For Marx</i> (1965), argued there was an \"epistemological break\" around 1845. After it, Marx dropped humanism for science.</p><p>Others, such as <b>Erich Fromm</b> and the Frankfurt School, said alienation stays at the heart of Marx's whole work.</p><p>For exams, show both readings. It proves you know Marx is not a single fixed system.</p>"
+  },
+  {
    "tag": "Indian angle",
    "h": "Marx and India",
    "b": "<p>In articles for the <i>New York Daily Tribune</i> (1853), Marx said British rule in India had a \"double mission\": one destructive (breaking the old village society) and one regenerating (railways, a unified market). He saw Indian village society as unchanging, an idea later tied to his \"Asiatic mode of production\". Scholars now see this as Eurocentric.</p><p>Indian Marxists include <b>M.N. Roy</b> and <b>E.M.S. Namboodiripad</b>. Historians like <b>D.D. Kosambi</b> and <b>Irfan Habib</b> used Marxist methods.</p><p><b>Ambedkar</b> criticised Indian communists for ignoring <b>caste</b>.</p>"
@@ -110,6 +120,61 @@
    ],
    "a": 0,
    "w": "From his 1853 articles in the New York Daily Tribune."
+  },
+  {
+   "q": "'The ideas of the ruling class are in every epoch the ruling ideas' is from…",
+   "o": [
+    "The Communist Manifesto",
+    "The German Ideology",
+    "Capital",
+    "The Eighteenth Brumaire"
+   ],
+   "a": 1,
+   "w": "The German Ideology, written 1845–46."
+  },
+  {
+   "q": "Commodity fetishism means…",
+   "o": [
+    "Love of luxury goods",
+    "Relations between people appearing as relations between things",
+    "State control of trade",
+    "Barter economies"
+   ],
+   "a": 1,
+   "w": "We see prices and goods, not the labour behind them."
+  },
+  {
+   "q": "Who argued for an 'epistemological break' between young and mature Marx?",
+   "o": [
+    "Erich Fromm",
+    "Louis Althusser",
+    "Georg Lukács",
+    "Herbert Marcuse"
+   ],
+   "a": 1,
+   "w": "Althusser, For Marx (1965)."
+  },
+  {
+   "q": "Lenin named Marxism's three sources as German philosophy, French socialism and…",
+   "o": [
+    "Russian populism",
+    "English political economy",
+    "Italian humanism",
+    "Greek democracy"
+   ],
+   "a": 1,
+   "w": "Smith and Ricardo's political economy."
+  },
+  {
+   "q": "Capital, volume one, was published in…",
+   "o": [
+    "1848",
+    "1859",
+    "1867",
+    "1883"
+   ],
+   "a": 2,
+   "w": "1867. Volumes two and three were edited by Engels after Marx's death."
   }
  ],
  "sources": [

@@ -3,24 +3,182 @@
  "title": "M.N. Roy",
  "emoji": "🧭",
  "cards": [
-  {"tag": "Why this matters", "h": "From communist to radical humanist", "b": "<p>Manabendra Nath Roy (1887–1954), born Narendra Nath Bhattacharya, started as a Bengal revolutionary. He travelled the world looking for arms for India's freedom.</p><p>In Mexico in 1917 he helped found the <b>Communist Party of Mexico</b>, the first outside Russia. He then worked closely with Lenin in the Communist International.</p><p>Later he broke with Marxism and built his own philosophy, <b>radical humanism</b>. His journey from Marx to humanism is what UPSC asks about.</p>"},
-  {"tag": "Phase 1", "h": "Debating Lenin", "b": "<p>At the <b>Second Congress of the Comintern</b> (1920), Roy debated Lenin on the colonies.</p><div class=\"box\"><h4>Lenin</h4>Communists should support the national bourgeoisie, such as Congress, against imperialism.</div><div class=\"box\"><h4>Roy</h4>The colonial bourgeoisie would compromise with imperialism. Communists should build mass movements of workers and peasants instead.</div><p>Both sets of theses were adopted in amended form. In 1920 at Tashkent, Roy helped set up the émigré <b>Communist Party of India</b>.</p>"},
-  {"tag": "Phase 2", "h": "Break with communism", "b": "<p>Roy was expelled from the Comintern in 1929, after disagreeing with Stalin's line.</p><p>He returned to India in 1930, was arrested and jailed for about six years in the Kanpur Conspiracy case.</p><p>He joined Congress for a time, then broke with it. During the <b>Second World War</b> he backed the Allies against fascism, which isolated him from the national movement. He founded the <b>Radical Democratic Party</b> in 1940.</p>"},
-  {"tag": "Critique of Marx", "h": "Where Marx went wrong", "b": "<ul><li><b>Economic determinism</b> ignores the role of ideas and of human will.</li><li>Making class the only unit erases the <b>individual</b>.</li><li>The <b>dictatorship of the proletariat</b> became the dictatorship of a party, then of one man.</li><li>Marx underrated the <b>middle class</b>, which was growing, not disappearing.</li><li>Ends cannot justify means. A free society cannot be built with unfree methods.</li></ul><p>He set out these views in <i>Beyond Communism</i> (1947) and <i>Reason, Romanticism and Revolution</i> (1952–55).</p>"},
-  {"tag": "Core idea", "h": "Radical humanism", "b": "<p>In 1948, Roy dissolved his party and launched the <b>Radical Humanist Movement</b>, based on <b>22 theses</b>.</p><p>Its starting point is that <b>man is the measure of all things</b>. The individual, not class, nation or party, is the centre of value.</p><p>Human beings are by nature <b>rational</b> and seek <b>freedom</b>. Freedom is the progressive removal of all barriers to the full growth of each person's potential.</p><p>Roy called his view <b>new humanism</b>, to separate it from older humanist traditions.</p>"},
-  {"tag": "Key idea", "h": "Organised democracy", "b": "<p>Roy distrusted <b>political parties</b>. He said they concentrate power and turn citizens into voters only.</p><p>He proposed <b>organised democracy</b>: a network of local <b>people's committees</b>. These would educate citizens, nominate candidates and keep representatives accountable, with rights of recall.</p><p>Power would flow from the bottom up. The state would be decentralised, and citizens politically awake. This is sometimes called <b>partyless democracy</b>, an idea shared with Jayaprakash Narayan.</p>"},
-  {"tag": "Key idea", "h": "Cultural renaissance first", "b": "<p>Roy argued that political freedom needs a prior <b>cultural and philosophical revolution</b>, as the European Renaissance came before democracy.</p><p>Indians, he said, needed to drop fatalism and blind faith and embrace science and reason.</p><p>So a band of <b>radical humanists</b> should spread rational thinking through education, not seize power. This made his movement small and intellectual.</p>"},
-  {"tag": "Critique", "h": "Limits of Roy's thought", "b": "<ul><li>His trust in human <b>rationality</b> seems too optimistic.</li><li>Partyless democracy was never shown to work at scale.</li><li>His support for the British war effort made him <b>unpopular</b> and cut him off from the masses.</li><li>His movement stayed among a small elite of thinkers.</li></ul><p>Yet his early, sharp critique of Stalinism and his defence of individual freedom against all forms of totalitarianism look far-sighted today.</p>"},
-  {"tag": "Indian angle", "h": "Roy's place in India", "b": "<p>Roy is a bridge between Indian <b>Marxism</b> and Indian <b>liberalism</b>.</p><p>His idea of decentralised, participatory democracy echoes in <b>Jayaprakash Narayan</b>'s partyless democracy and his 1974 call for <b>Total Revolution</b>.</p><p>He also drafted a <b>Constitution of Free India</b> (1944), proposing a federal state with people's committees.</p><p>In the freedom movement, he stands for the Radical Humanist perspective, which the syllabus lists in the nationalism unit too.</p>"},
-  {"tag": "Exam lens", "cls": "exam", "h": "How UPSC asks this", "b": "<div class=\"box\">\"Discuss M.N. Roy's critique of Marxism.\"</div><div class=\"box\">\"Explain the main features of Roy's radical humanism.\"</div><p><b>Structure:</b> life in three phases (revolutionary, communist, humanist), the 1920 Lenin debate, his critique of Marx, the 22 theses, organised democracy. End with critique and link to JP Narayan.</p>"}
+  {
+   "tag": "Why this matters",
+   "h": "From communist to radical humanist",
+   "b": "<p>Manabendra Nath Roy (1887–1954), born Narendra Nath Bhattacharya, started as a Bengal revolutionary. He travelled the world looking for arms for India's freedom.</p><p>In Mexico in 1919 he helped turn the Socialist Workers' Party into the <b>Communist Party of Mexico</b>, one of the first communist parties outside Russia. He then worked closely with Lenin in the Communist International.</p><p>Later he broke with Marxism and built his own philosophy, <b>radical humanism</b>. His journey from Marx to humanism is what UPSC asks about.</p>"
+  },
+  {
+   "tag": "Phase 1",
+   "h": "Debating Lenin",
+   "b": "<p>At the <b>Second Congress of the Comintern</b> (1920), Roy debated Lenin on the colonies.</p><div class=\"box\"><h4>Lenin</h4>Communists should support the national bourgeoisie, such as Congress, against imperialism.</div><div class=\"box\"><h4>Roy</h4>The colonial bourgeoisie would compromise with imperialism. Communists should build mass movements of workers and peasants instead.</div><p>Both sets of theses were adopted in amended form. In 1920 at Tashkent, Roy helped set up the émigré <b>Communist Party of India</b>.</p>"
+  },
+  {
+   "tag": "Phase 2",
+   "h": "Break with communism",
+   "b": "<p>Roy was expelled from the Comintern in 1929, after disagreeing with Stalin's line.</p><p>He came back to India secretly in 1930. He was arrested in July 1931 on old charges from the Cawnpore (Kanpur) Conspiracy case, sentenced to six years, and released in November 1936.</p><p>He joined Congress for a time, then broke with it. During the <b>Second World War</b> he backed the Allies against fascism, which isolated him from the national movement. He founded the <b>Radical Democratic Party</b> in 1940.</p>"
+  },
+  {
+   "tag": "Critique of Marx",
+   "h": "Where Marx went wrong",
+   "b": "<ul><li><b>Economic determinism</b> ignores the role of ideas and of human will.</li><li>Making class the only unit erases the <b>individual</b>.</li><li>The <b>dictatorship of the proletariat</b> became the dictatorship of a party, then of one man.</li><li>Marx underrated the <b>middle class</b>, which was growing, not disappearing.</li><li>Ends cannot justify means. A free society cannot be built with unfree methods.</li></ul><p>He set out these views in <i>Beyond Communism</i> (1947) and <i>Reason, Romanticism and Revolution</i> (1952–55).</p>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "Radical humanism",
+   "b": "<p>His <b>22 theses</b>, the \"Principles of Radical Democracy\", were adopted at Dehradun in December 1946. In December 1948 he dissolved his party and launched the <b>Radical Humanist Movement</b>.</p><p>Its starting point, in a phrase borrowed from the Greek thinker Protagoras, is that <b>man is the measure of all things</b>. The individual, not class, nation or party, is the centre of value.</p><p>Human beings are by nature <b>rational</b> and seek <b>freedom</b>. Freedom is the progressive removal of all barriers to the full growth of each person's potential.</p><p>Roy called his view <b>new humanism</b>, to separate it from older humanist traditions.</p>"
+  },
+  {
+   "tag": "Key idea",
+   "h": "Organised democracy",
+   "b": "<p>Roy distrusted <b>political parties</b>. He said they concentrate power and turn citizens into voters only.</p><p>He proposed <b>organised democracy</b>: a network of local <b>people's committees</b>. These would educate citizens, nominate candidates and keep representatives accountable, with rights of recall.</p><p>Power would flow from the bottom up. The state would be decentralised, and citizens politically awake. This is sometimes called <b>partyless democracy</b>, an idea shared with Jayaprakash Narayan.</p>"
+  },
+  {
+   "tag": "Key idea",
+   "h": "Cultural renaissance first",
+   "b": "<p>Roy argued that political freedom needs a prior <b>cultural and philosophical revolution</b>, as the European Renaissance came before democracy.</p><p>Indians, he said, needed to drop fatalism and blind faith and embrace science and reason.</p><p>So a band of <b>radical humanists</b> should spread rational thinking through education, not seize power. This made his movement small and intellectual.</p>"
+  },
+  {
+   "tag": "Critique",
+   "h": "Limits of Roy's thought",
+   "b": "<ul><li>His trust in human <b>rationality</b> seems too optimistic.</li><li>Partyless democracy was never shown to work at scale.</li><li>His support for the British war effort made him <b>unpopular</b> and cut him off from the masses.</li><li>His movement stayed among a small elite of thinkers.</li></ul><p>Yet his early, sharp critique of Stalinism and his defence of individual freedom against all forms of totalitarianism look far-sighted today.</p>"
+  },
+  {
+   "tag": "Key idea",
+   "h": "Roy on Gandhi and nationalism",
+   "b": "<p>Roy was a sharp critic of <b>Gandhi</b>. He said Gandhism was a revivalist, backward-looking ideology. It used religion to mobilise peasants while protecting landlords and the Indian bourgeoisie.</p><p>He was also critical of <b>nationalism</b> itself. Nationalism, he said, puts the nation above the individual and can easily slide into fascism. This was why he backed the Allies against fascism in the war.</p><p>In <i>India in Transition</i> (1922), one of the first Marxist analyses of Indian society, he argued that Indian capitalists would ally with the British, so freedom would need workers and peasants.</p><p>These views explain his isolation, but also his distinct place in the syllabus as the <b>radical humanist</b> perspective on Indian nationalism.</p>"
+  },
+  {
+   "tag": "Indian angle",
+   "h": "Roy's place in India",
+   "b": "<p>Roy is a bridge between Indian <b>Marxism</b> and Indian <b>liberalism</b>.</p><p>His idea of decentralised, participatory democracy echoes in <b>Jayaprakash Narayan</b>'s partyless democracy and his 1974 call for <b>Total Revolution</b>.</p><p>He also drafted a <b>Constitution of Free India</b> (1944), proposing a federal state with people's committees.</p><p>In the freedom movement, he stands for the Radical Humanist perspective, which the syllabus lists in the nationalism unit too.</p>"
+  },
+  {
+   "tag": "Exam lens",
+   "cls": "exam",
+   "h": "How UPSC asks this",
+   "b": "<div class=\"box\">\"Discuss M.N. Roy's critique of Marxism.\"</div><div class=\"box\">\"Explain the main features of Roy's radical humanism.\"</div><p><b>Structure:</b> life in three phases (revolutionary, communist, humanist), the 1920 Lenin debate, his critique of Marx, the 22 theses, organised democracy. End with critique and link to JP Narayan.</p>"
+  }
  ],
  "quiz": [
-  {"q": "Roy debated Lenin on the colonial question at the Comintern's…", "o": ["First Congress, 1919", "Second Congress, 1920", "Sixth Congress, 1928", "Tashkent meeting, 1920"], "a": 1, "w": "At the Second Congress in 1920."},
-  {"q": "Roy's radical humanism was set out in…", "o": ["12 theses", "22 theses", "The Manifesto of 1948", "The Constitution of Free India"], "a": 1, "w": "The 22 theses of 1946–48."},
-  {"q": "Roy argued that the colonial bourgeoisie would…", "o": ["Lead the revolution", "Compromise with imperialism", "Join the workers", "Disappear"], "a": 1, "w": "So communists should organise workers and peasants directly."},
-  {"q": "Roy's alternative to party democracy was…", "o": ["Presidential rule", "Organised democracy through people's committees", "Proportional representation", "One-party rule"], "a": 1, "w": "Local people's committees to make democracy work from the bottom up."},
-  {"q": "Roy helped found the first communist party outside Russia in…", "o": ["India", "Germany", "Mexico", "China"], "a": 2, "w": "The Communist Party of Mexico, 1917–19."}
+  {
+   "q": "Roy debated Lenin on the colonial question at the Comintern's…",
+   "o": [
+    "First Congress, 1919",
+    "Second Congress, 1920",
+    "Sixth Congress, 1928",
+    "Tashkent meeting, 1920"
+   ],
+   "a": 1,
+   "w": "At the Second Congress in 1920."
+  },
+  {
+   "q": "Roy's radical humanism was set out in…",
+   "o": [
+    "12 theses",
+    "22 theses",
+    "The Meerut Theses",
+    "The Constitution of Free India"
+   ],
+   "a": 1,
+   "w": "The 22 theses, adopted at Dehradun in 1946."
+  },
+  {
+   "q": "Roy argued that the colonial bourgeoisie would…",
+   "o": [
+    "Lead the revolution",
+    "Compromise with imperialism",
+    "Join the workers",
+    "Disappear"
+   ],
+   "a": 1,
+   "w": "So communists should organise workers and peasants directly."
+  },
+  {
+   "q": "Roy's alternative to party democracy was…",
+   "o": [
+    "Presidential rule",
+    "Organised democracy through people's committees",
+    "Proportional representation",
+    "One-party rule"
+   ],
+   "a": 1,
+   "w": "Local people's committees to make democracy work from the bottom up."
+  },
+  {
+   "q": "Before joining the Comintern, Roy helped found the communist party of…",
+   "o": [
+    "India",
+    "Germany",
+    "Mexico",
+    "China"
+   ],
+   "a": 2,
+   "w": "The Communist Party of Mexico, formed from the Socialist Workers' Party in 1919."
+  },
+  {
+   "q": "Roy founded the Radical Democratic Party in…",
+   "o": [
+    "1930",
+    "1936",
+    "1940",
+    "1946"
+   ],
+   "a": 2,
+   "w": "1940."
+  },
+  {
+   "q": "Roy's early Marxist analysis of India was…",
+   "o": [
+    "India Today",
+    "India in Transition",
+    "Discovery of India",
+    "Poverty and Un-British Rule"
+   ],
+   "a": 1,
+   "w": "India in Transition (1922)."
+  },
+  {
+   "q": "Roy was expelled from the Comintern in…",
+   "o": [
+    "1924",
+    "1929",
+    "1934",
+    "1940"
+   ],
+   "a": 1,
+   "w": "1929."
+  },
+  {
+   "q": "Roy's idea of partyless democracy was shared with…",
+   "o": [
+    "Nehru",
+    "Jayaprakash Narayan",
+    "Patel",
+    "Bose"
+   ],
+   "a": 1,
+   "w": "JP also argued for partyless democracy."
+  },
+  {
+   "q": "Roy saw nationalism as dangerous because it…",
+   "o": [
+    "Weakens the state",
+    "Places the nation above the individual",
+    "Ignores religion",
+    "Supports the Comintern"
+   ],
+   "a": 1,
+   "w": "It can slide into fascism."
+  }
  ],
- "sources": ["M.N. Roy, Beyond Communism (1947); New Humanism: A Manifesto (1947)", "M.N. Roy, Reason, Romanticism and Revolution (1952–55)", "M.N. Roy, Constitution of Free India: A Draft (1944)", "Kris Manjapra, M.N. Roy: Marxism and Colonial Cosmopolitanism (2010)", "Comintern, Second Congress (1920), Theses on the National and Colonial Questions", "PYQ themes: radical humanism, Roy's critique of Marxism (Paper I)"],
+ "sources": [
+  "M.N. Roy, Beyond Communism (1947); New Humanism: A Manifesto (1947)",
+  "M.N. Roy, Reason, Romanticism and Revolution (1952–55)",
+  "M.N. Roy, Constitution of Free India: A Draft (1944)",
+  "Kris Manjapra, M.N. Roy: Marxism and Colonial Cosmopolitanism (2010)",
+  "Comintern, Second Congress (1920), Theses on the National and Colonial Questions",
+  "PYQ themes: radical humanism, Roy's critique of Marxism (Paper I)"
+ ],
  "verified": "2026-11-10"
 }

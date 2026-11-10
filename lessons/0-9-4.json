@@ -3,24 +3,183 @@
  "title": "Locke",
  "emoji": "📜",
  "cards": [
-  {"tag": "Why this matters", "h": "The father of liberalism", "b": "<p>John Locke (1632–1704) is seen as the founder of <b>liberalism</b>. His ideas on consent, natural rights and the right to resist shaped the American Declaration of Independence (1776).</p><p>His main political work is the <i>Two Treatises of Government</i>, published in 1689 (dated 1690), soon after the <b>Glorious Revolution</b> of 1688 removed King James II.</p><p>The <b>First Treatise</b> attacks Robert Filmer's <i>Patriarcha</i>, which said kings inherit their power from Adam. The <b>Second Treatise</b> gives Locke's own theory. UPSC asks most about it.</p>"},
-  {"tag": "Core idea", "h": "A peaceful state of nature", "b": "<p>Unlike Hobbes, Locke's state of nature is not a war of all against all. It is a state of <b>liberty</b>, not licence.</p><p>It is governed by the <b>law of nature</b>, which is reason. It teaches that since all are equal and independent, no one ought to harm another in their <b>life, health, liberty or possessions</b>.</p><p>So people have rights before any government exists. The state does not create these rights. It is set up only to <b>protect</b> them.</p>"},
-  {"tag": "Key idea", "h": "The inconveniences", "b": "<p>If the state of nature is peaceful, why leave it? Because it has three \"<b>inconveniences</b>\":</p><ul><li>No <b>settled, known law</b> that all accept.</li><li>No <b>impartial judge</b>. Everyone judges their own case, and people are biased.</li><li>No <b>power to enforce</b> a just decision.</li></ul><p>These can turn the state of nature into a state of war. So people form a civil society to fix them.</p>"},
-  {"tag": "Key idea", "h": "Property and labour", "b": "<p>Chapter 5 of the Second Treatise gives the <b>labour theory of property</b>. God gave the earth to all in common. But each person owns their own body, and so their own labour.</p><p>When you mix your labour with something, such as picking acorns or ploughing land, it becomes yours.</p><p>Locke adds limits, called <b>provisos</b>: leave \"enough and as good\" for others, and do not take so much that it spoils. The invention of <b>money</b>, which does not spoil, lets people gather wealth without breaking the spoilage limit.</p>"},
-  {"tag": "Core idea", "h": "Two steps: contract and trust", "b": "<svg class=\"d\" viewBox=\"0 0 320 120\"><defs><marker id=\"la\" markerWidth=\"8\" markerHeight=\"8\" refX=\"7\" refY=\"4\" orient=\"auto\"><path d=\"M0,0L8,4L0,8z\" fill=\"#a8792a\"/></marker></defs><rect x=\"4\" y=\"36\" width=\"86\" height=\"48\" rx=\"10\" fill=\"#f1e4c6\" stroke=\"#a8792a\"/><text x=\"47\" y=\"58\" fill=\"#1d2433\" font-size=\"11\" text-anchor=\"middle\">Individuals</text><text x=\"47\" y=\"74\" fill=\"#5d6474\" font-size=\"9\" text-anchor=\"middle\">with rights</text><line x1=\"92\" y1=\"60\" x2=\"122\" y2=\"60\" stroke=\"#a8792a\" stroke-width=\"2\" marker-end=\"url(#la)\"/><rect x=\"124\" y=\"36\" width=\"86\" height=\"48\" rx=\"10\" fill=\"#dceaec\" stroke=\"#2f6f7a\"/><text x=\"167\" y=\"58\" fill=\"#1d2433\" font-size=\"11\" text-anchor=\"middle\">Civil society</text><text x=\"167\" y=\"74\" fill=\"#5d6474\" font-size=\"9\" text-anchor=\"middle\">by contract</text><line x1=\"212\" y1=\"60\" x2=\"230\" y2=\"60\" stroke=\"#a8792a\" stroke-width=\"2\" marker-end=\"url(#la)\"/><rect x=\"232\" y=\"36\" width=\"84\" height=\"48\" rx=\"10\" fill=\"#ffffff\" stroke=\"#5d6474\"/><text x=\"274\" y=\"58\" fill=\"#1d2433\" font-size=\"11\" text-anchor=\"middle\">Government</text><text x=\"274\" y=\"74\" fill=\"#5d6474\" font-size=\"9\" text-anchor=\"middle\">as a trust</text><text x=\"160\" y=\"112\" fill=\"#5d6474\" font-size=\"10\" text-anchor=\"middle\">Breach of trust → power returns to the people</text></svg><p>First, people agree to form a community and accept <b>majority rule</b>. Then the community sets up a government as a <b>trustee</b>. Unlike Hobbes's sovereign, Locke's government is bound by the terms of that trust.</p>"},
-  {"tag": "Key idea", "h": "Limited government", "b": "<ul><li><b>Consent:</b> no one can be put under another's power without their consent. Locke allows <b>tacit consent</b>, such as using the roads or owning land.</li><li><b>Legislative supremacy:</b> the legislature is the supreme power, but it is held in trust and cannot act arbitrarily.</li><li><b>Separation of powers:</b> Locke separates legislative, executive and <b>federative</b> (foreign affairs) powers. Montesquieu later developed this further.</li><li><b>No taxation without consent</b> of the people or their representatives.</li></ul>"},
-  {"tag": "Key idea", "h": "Right to resist and toleration", "b": "<p>If the government breaks its trust, for example by taking property without consent or ruling by force, it puts itself in a state of war with the people. The people may then <b>resist</b> and set up a new government. Locke says the people shall be judge.</p><p>In <i>A Letter Concerning Toleration</i> (1689), Locke argued the state should not force belief, because faith cannot be compelled. But his toleration had limits: he excluded <b>atheists</b>, and Catholics whom he saw as loyal to a foreign power.</p>"},
-  {"tag": "Critique", "h": "Whose liberty?", "b": "<ul><li><b>C.B. Macpherson</b> argued Locke justified <b>unlimited capitalist accumulation</b>. Money removes the spoilage limit, and the propertyless are only partly members of society.</li><li><b>Carole Pateman</b>, in <i>The Sexual Contract</i> (1988), said social contract theory hides a prior contract that subordinates women.</li><li>Post-colonial scholars note Locke helped run English colonies in Carolina and invested in the slave-trading Royal African Company. His idea of \"waste\" land was used to take Native American land.</li><li>Tacit consent is so wide that it means almost nothing.</li></ul>"},
-  {"tag": "Indian angle", "h": "Locke in the Indian Constitution", "b": "<p>The idea that government rests on consent appears in the Preamble: <b>\"We, the people of India\"</b> give ourselves the Constitution.</p><p>Natural rights thinking shapes <b>Part III</b>. In <b>Puttaswamy</b> (2017), the Supreme Court held privacy to be a fundamental right and said such rights are inherent, not gifts of the state.</p><p>Property is the twist. India removed the fundamental right to property by the <b>44th Amendment</b> (1978). It is now only a constitutional right under <b>Article 300A</b>.</p>"},
-  {"tag": "Exam lens", "cls": "exam", "h": "How UPSC asks this", "b": "<div class=\"box\">\"Locke is the father of liberalism.\" Comment.</div><div class=\"box\">\"Discuss Locke's theory of property and Macpherson's critique.\"</div><div class=\"box\">\"Compare Hobbes's and Locke's social contracts.\"</div><p><b>Structure:</b> peaceful state of nature, three inconveniences, property through labour, two-step contract and trust, limited government, the right to resist. End with critiques and India's Article 300A twist.</p>"}
+  {
+   "tag": "Why this matters",
+   "h": "The father of liberalism",
+   "b": "<p>John Locke (1632–1704) is seen as the founder of <b>liberalism</b>. His ideas on consent, natural rights and the right to resist shaped the American Declaration of Independence (1776).</p><p>His main political work is the <i>Two Treatises of Government</i>, published in 1689 (dated 1690), soon after the <b>Glorious Revolution</b> of 1688 removed King James II.</p><p>The <b>First Treatise</b> attacks Robert Filmer's <i>Patriarcha</i>, which said kings inherit their power from Adam. The <b>Second Treatise</b> gives Locke's own theory. UPSC asks most about it.</p>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "A peaceful state of nature",
+   "b": "<p>Unlike Hobbes, Locke's state of nature is not a war of all against all. It is a state of <b>liberty</b>, not licence.</p><p>It is governed by the <b>law of nature</b>, which is reason. It teaches that since all are equal and independent, no one ought to harm another in their <b>life, health, liberty or possessions</b>.</p><p>So people have rights before any government exists. The state does not create these rights. It is set up only to <b>protect</b> them.</p>"
+  },
+  {
+   "tag": "Key idea",
+   "h": "The inconveniences",
+   "b": "<p>If the state of nature is peaceful, why leave it? Because it has three \"<b>inconveniences</b>\":</p><ul><li>No <b>settled, known law</b> that all accept.</li><li>No <b>impartial judge</b>. Everyone judges their own case, and people are biased.</li><li>No <b>power to enforce</b> a just decision.</li></ul><p>These can turn the state of nature into a state of war. So people form a civil society to fix them.</p>"
+  },
+  {
+   "tag": "Key idea",
+   "h": "Property and labour",
+   "b": "<p>Chapter 5 of the Second Treatise gives the <b>labour theory of property</b>. God gave the earth to all in common. But each person owns their own body, and so their own labour.</p><p>When you mix your labour with something, such as picking acorns or ploughing land, it becomes yours.</p><p>Locke adds limits, called <b>provisos</b>: leave \"enough and as good\" for others, and do not take so much that it spoils. The invention of <b>money</b>, which does not spoil, lets people gather wealth without breaking the spoilage limit.</p>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "Two steps: contract and trust",
+   "b": "<svg class=\"d\" viewBox=\"0 0 320 120\"><defs><marker id=\"la\" markerWidth=\"8\" markerHeight=\"8\" refX=\"7\" refY=\"4\" orient=\"auto\"><path d=\"M0,0L8,4L0,8z\" fill=\"#a8792a\"/></marker></defs><rect x=\"4\" y=\"36\" width=\"86\" height=\"48\" rx=\"10\" fill=\"#f1e4c6\" stroke=\"#a8792a\"/><text x=\"47\" y=\"58\" fill=\"#1d2433\" font-size=\"11\" text-anchor=\"middle\">Individuals</text><text x=\"47\" y=\"74\" fill=\"#5d6474\" font-size=\"9\" text-anchor=\"middle\">with rights</text><line x1=\"92\" y1=\"60\" x2=\"122\" y2=\"60\" stroke=\"#a8792a\" stroke-width=\"2\" marker-end=\"url(#la)\"/><rect x=\"124\" y=\"36\" width=\"86\" height=\"48\" rx=\"10\" fill=\"#dceaec\" stroke=\"#2f6f7a\"/><text x=\"167\" y=\"58\" fill=\"#1d2433\" font-size=\"11\" text-anchor=\"middle\">Civil society</text><text x=\"167\" y=\"74\" fill=\"#5d6474\" font-size=\"9\" text-anchor=\"middle\">by contract</text><line x1=\"212\" y1=\"60\" x2=\"230\" y2=\"60\" stroke=\"#a8792a\" stroke-width=\"2\" marker-end=\"url(#la)\"/><rect x=\"232\" y=\"36\" width=\"84\" height=\"48\" rx=\"10\" fill=\"#ffffff\" stroke=\"#5d6474\"/><text x=\"274\" y=\"58\" fill=\"#1d2433\" font-size=\"11\" text-anchor=\"middle\">Government</text><text x=\"274\" y=\"74\" fill=\"#5d6474\" font-size=\"9\" text-anchor=\"middle\">as a trust</text><text x=\"160\" y=\"112\" fill=\"#5d6474\" font-size=\"10\" text-anchor=\"middle\">Breach of trust → power returns to the people</text></svg><p>First, people agree to form a community and accept <b>majority rule</b>. Then the community sets up a government as a <b>trustee</b>. Unlike Hobbes's sovereign, Locke's government is bound by the terms of that trust.</p>"
+  },
+  {
+   "tag": "Key idea",
+   "h": "Limited government",
+   "b": "<ul><li><b>Consent:</b> no one can be put under another's power without their consent. Locke allows <b>tacit consent</b>, such as using the roads or owning land.</li><li><b>Legislative supremacy:</b> the legislature is the supreme power, but it is held in trust and cannot act arbitrarily.</li><li><b>Separation of powers:</b> Locke separates legislative, executive and <b>federative</b> (foreign affairs) powers. Montesquieu later developed this further.</li><li><b>No taxation without consent</b> of the people or their representatives.</li></ul>"
+  },
+  {
+   "tag": "Key idea",
+   "h": "Right to resist and toleration",
+   "b": "<p>If the government breaks its trust, for example by taking property without consent or ruling by force, it puts itself in a state of war with the people. The people may then <b>resist</b> and set up a new government. Locke says the people shall be judge.</p><p>In <i>A Letter Concerning Toleration</i> (1689), Locke argued the state should not force belief, because faith cannot be compelled. But his toleration had limits: he excluded <b>atheists</b>, and Catholics whom he saw as loyal to a foreign power.</p>"
+  },
+  {
+   "tag": "Critique",
+   "h": "Whose liberty?",
+   "b": "<ul><li><b>C.B. Macpherson</b> argued Locke justified <b>unlimited capitalist accumulation</b>. Money removes the spoilage limit, and the propertyless are only partly members of society.</li><li><b>Carole Pateman</b>, in <i>The Sexual Contract</i> (1988), said social contract theory hides a prior contract that subordinates women.</li><li>Post-colonial scholars note Locke helped run English colonies in Carolina and invested in the slave-trading Royal African Company. His idea of \"waste\" land was used to take Native American land.</li><li>Tacit consent is so wide that it means almost nothing.</li></ul>"
+  },
+  {
+   "tag": "Key idea",
+   "h": "Prerogative and the state of war",
+   "b": "<p>Locke admits that laws cannot foresee everything. So the executive has <b>prerogative</b>: the power to act for the public good without a law, and sometimes even against it, as in an emergency.</p><p>But prerogative must serve the people. If it is used against them, it becomes tyranny.</p><p>Locke separates the <b>state of nature</b> from the <b>state of war</b>, which Hobbes had merged. A state of war is any situation where one person uses force without right against another, even inside civil society.</p><p>A ruler who uses force without right, he says, puts <b>himself</b> into a state of war with the people. Resisting him is not rebellion. The ruler is the real rebel.</p><p>Who decides? Locke's answer is \"the people shall be judge\", with an appeal to heaven as the last resort.</p>"
+  },
+  {
+   "tag": "Indian angle",
+   "h": "Locke in the Indian Constitution",
+   "b": "<p>The idea that government rests on consent appears in the Preamble: <b>\"We, the people of India\"</b> give ourselves the Constitution.</p><p>Natural rights thinking shapes <b>Part III</b>. In <b>Puttaswamy</b> (2017), the Supreme Court held privacy to be a fundamental right and said such rights are inherent, not gifts of the state.</p><p>Property is the twist. India removed the fundamental right to property by the <b>44th Amendment</b> (1978). It is now only a constitutional right under <b>Article 300A</b>.</p>"
+  },
+  {
+   "tag": "Exam lens",
+   "cls": "exam",
+   "h": "How UPSC asks this",
+   "b": "<div class=\"box\">\"Locke is the father of liberalism.\" Comment.</div><div class=\"box\">\"Discuss Locke's theory of property and Macpherson's critique.\"</div><div class=\"box\">\"Compare Hobbes's and Locke's social contracts.\"</div><p><b>Structure:</b> peaceful state of nature, three inconveniences, property through labour, two-step contract and trust, limited government, the right to resist. End with critiques and India's Article 300A twist.</p>"
+  }
  ],
  "quiz": [
-  {"q": "Locke's First Treatise attacked the ideas of…", "o": ["Thomas Hobbes", "Robert Filmer", "James II", "Jean Bodin"], "a": 1, "w": "It attacked Filmer's Patriarcha and the divine right of kings."},
-  {"q": "Which is NOT one of the inconveniences of Locke's state of nature?", "o": ["No settled law", "No impartial judge", "No power to enforce", "No natural rights"], "a": 3, "w": "Natural rights exist in Locke's state of nature. What is missing is law, judge and enforcement."},
-  {"q": "The power Locke calls 'federative' deals with…", "o": ["Making laws", "Federal relations between provinces", "War, peace and foreign affairs", "Punishing crime"], "a": 2, "w": "The federative power manages relations with other communities."},
-  {"q": "Locke's limits on property include…", "o": ["No use of money", "Leave enough and as good for others", "Equal shares for all", "State ownership of land"], "a": 1, "w": "Enough and as good for others, and no spoilage."},
-  {"q": "In India, the right to property is now in…", "o": ["Article 19(1)(f)", "Article 31", "Article 300A", "Article 21"], "a": 2, "w": "The 44th Amendment (1978) moved it to Article 300A as a constitutional right."}
+  {
+   "q": "Locke's First Treatise attacked the ideas of…",
+   "o": [
+    "Thomas Hobbes",
+    "Robert Filmer",
+    "James II",
+    "Jean Bodin"
+   ],
+   "a": 1,
+   "w": "It attacked Filmer's Patriarcha and the divine right of kings."
+  },
+  {
+   "q": "Which is NOT one of the inconveniences of Locke's state of nature?",
+   "o": [
+    "No settled law",
+    "No impartial judge",
+    "No power to enforce",
+    "No natural rights"
+   ],
+   "a": 3,
+   "w": "Natural rights exist in Locke's state of nature. What is missing is law, judge and enforcement."
+  },
+  {
+   "q": "The power Locke calls 'federative' deals with…",
+   "o": [
+    "Making laws",
+    "Federal relations between provinces",
+    "War, peace and foreign affairs",
+    "Punishing crime"
+   ],
+   "a": 2,
+   "w": "The federative power manages relations with other communities."
+  },
+  {
+   "q": "Locke's limits on property include…",
+   "o": [
+    "No use of money",
+    "Leave enough and as good for others",
+    "Equal shares for all",
+    "State ownership of land"
+   ],
+   "a": 1,
+   "w": "Enough and as good for others, and no spoilage."
+  },
+  {
+   "q": "In India, the right to property is now in…",
+   "o": [
+    "Article 19(1)(f)",
+    "Article 31",
+    "Article 300A",
+    "Article 21"
+   ],
+   "a": 2,
+   "w": "The 44th Amendment (1978) moved it to Article 300A as a constitutional right."
+  },
+  {
+   "q": "For Locke, the government holds power as a…",
+   "o": [
+    "Sovereign owner",
+    "Trust",
+    "Divine gift",
+    "Conquest"
+   ],
+   "a": 1,
+   "w": "Government is a trustee; breach of trust returns power to the people."
+  },
+  {
+   "q": "Locke's 'prerogative' is the executive's power to…",
+   "o": [
+    "Make all laws",
+    "Act for the public good without law",
+    "Declare war only",
+    "Tax without consent"
+   ],
+   "a": 1,
+   "w": "It covers cases laws cannot foresee."
+  },
+  {
+   "q": "Which groups did Locke exclude from toleration?",
+   "o": [
+    "Jews and Muslims",
+    "Atheists and Catholics",
+    "Quakers and Baptists",
+    "Anglicans"
+   ],
+   "a": 1,
+   "w": "Atheists, and Catholics seen as loyal to a foreign power."
+  },
+  {
+   "q": "Locke's 'tacit consent' can be given by…",
+   "o": [
+    "Voting in an election",
+    "Using the roads or owning land",
+    "Signing a written oath",
+    "Joining the army"
+   ],
+   "a": 1,
+   "w": "Enjoying the benefits of a government implies consent."
+  },
+  {
+   "q": "Who wrote The Sexual Contract (1988), criticising contract theory?",
+   "o": [
+    "Susan Okin",
+    "Carole Pateman",
+    "Kate Millett",
+    "bell hooks"
+   ],
+   "a": 1,
+   "w": "Carole Pateman."
+  }
  ],
- "sources": ["John Locke, Two Treatises of Government (1689), Second Treatise chs. 2, 5, 7–9, 19", "John Locke, A Letter Concerning Toleration (1689)", "C.B. Macpherson, The Political Theory of Possessive Individualism (1962)", "Carole Pateman, The Sexual Contract (1988)", "Constitution of India, Art. 300A; Constitution (44th Amendment) Act, 1978", "K.S. Puttaswamy v. Union of India (2017)", "PYQ themes: Locke as liberal, property, consent and resistance (Paper I, repeated)"],
+ "sources": [
+  "John Locke, Two Treatises of Government (1689), Second Treatise chs. 2, 5, 7–9, 19",
+  "John Locke, A Letter Concerning Toleration (1689)",
+  "C.B. Macpherson, The Political Theory of Possessive Individualism (1962)",
+  "Carole Pateman, The Sexual Contract (1988)",
+  "Constitution of India, Art. 300A; Constitution (44th Amendment) Act, 1978",
+  "K.S. Puttaswamy v. Union of India (2017)",
+  "PYQ themes: Locke as liberal, property, consent and resistance (Paper I, repeated)"
+ ],
  "verified": "2026-11-10"
 }

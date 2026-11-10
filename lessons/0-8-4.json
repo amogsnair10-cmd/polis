@@ -3,24 +3,183 @@
  "title": "B.R. Ambedkar",
  "emoji": "⚖️",
  "cards": [
-  {"tag": "Why this matters", "h": "Thinker of social democracy", "b": "<p>Bhimrao Ramji Ambedkar (1891–1956) was born into the Mahar caste, treated as untouchable. He earned doctorates from <b>Columbia University</b> and the <b>London School of Economics</b>, and became a barrister.</p><p>He chaired the Constituent Assembly's <b>Drafting Committee</b> and was independent India's first Law Minister.</p><p>He is one of the most-asked thinkers in Paper I. Key works: <i>Annihilation of Caste</i> (1936), <i>Who Were the Shudras?</i> (1946), <i>The Untouchables</i> (1948) and <i>The Buddha and His Dhamma</i> (1957).</p>"},
-  {"tag": "Core idea", "h": "Caste as graded inequality", "b": "<p>In his 1916 Columbia paper, \"Castes in India\", Ambedkar said caste is kept alive by <b>endogamy</b>: marrying only within the group.</p><p>Caste is not a division of labour, he said, but a <b>division of labourers</b>. It ranks people by birth and blocks free choice of work.</p><p>He called it <b>graded inequality</b>: each caste looks down on those below, so the oppressed never unite against the system. This is why caste lasts.</p>"},
-  {"tag": "Key text", "h": "Annihilation of Caste (1936)", "b": "<p>This was a speech written for the <b>Jat-Pat Todak Mandal</b> of Lahore. The organisers cancelled it when they saw the text, so Ambedkar published it himself.</p><ul><li>Caste cannot be reformed; it must be <b>annihilated</b>.</li><li>Caste rests on the authority of the <b>shastras</b>. So the shastras themselves must lose their authority.</li><li>The real remedy is <b>inter-caste marriage</b>.</li><li>A political revolution must be preceded by a <b>social revolution</b>.</li></ul><p>Gandhi replied in <i>Harijan</i>, defending varna. Ambedkar answered him in turn.</p>"},
-  {"tag": "Key idea", "h": "Liberty, equality, fraternity", "b": "<p>Ambedkar said he took these ideals not from the French Revolution but from his master, the <b>Buddha</b>.</p><p>He insisted they form a <b>trinity</b>. Liberty without equality produces the rule of the few. Equality without liberty kills initiative. Without <b>fraternity</b>, neither can become natural.</p><p>For Ambedkar, <b>democracy</b> is not just a form of government. It is \"a mode of associated living\", a phrase he took from his Columbia teacher <b>John Dewey</b>.</p>"},
-  {"tag": "Key idea", "h": "Political versus social democracy", "b": "<p>In his last speech to the Constituent Assembly on <b>25 November 1949</b>, Ambedkar warned:</p><div class=\"quote\">\"On the 26th of January 1950, we are going to enter into a life of contradictions. In politics we will have equality and in social and economic life we will have inequality.\"</div><div class=\"who\">B.R. Ambedkar, Constituent Assembly, 25 November 1949</div><p>He urged constitutional methods, warned against <b>hero-worship</b> (bhakti) in politics, and said political democracy cannot last without social democracy.</p>"},
-  {"tag": "Key idea", "h": "Representation and the Poona Pact", "b": "<p>At the Round Table Conferences, Ambedkar demanded <b>separate electorates</b> for the Depressed Classes. The British Communal Award of 1932 granted them.</p><p>Gandhi began a fast unto death in Yerwada jail, saying separate electorates would divide Hindus. To save his life, Ambedkar signed the <b>Poona Pact</b> (September 1932): joint electorates with <b>reserved seats</b> instead.</p><p>Ambedkar later said the pact left Dalit representatives dependent on caste-Hindu votes. This history shaped reservation in the Constitution.</p>"},
-  {"tag": "Key idea", "h": "State socialism and conversion", "b": "<p>In <i>States and Minorities</i> (1947), he proposed <b>state socialism</b>: key industries and agriculture owned by the state, written into the Constitution itself.</p><p>He founded the <b>Independent Labour Party</b> (1936) and later planned the Republican Party of India.</p><p>In 1935 at Yeola he said: \"I was born a Hindu, but I will not die a Hindu.\" On <b>14 October 1956</b> at Nagpur, he converted to Buddhism with lakhs of followers. His <b>Navayana</b> Buddhism stressed social equality over ritual.</p>"},
-  {"tag": "Critique", "h": "Debates on Ambedkar", "b": "<ul><li><b>Gandhi vs Ambedkar:</b> reform of Hinduism versus exit from it. Gandhi saw caste as a distortion of varna; Ambedkar saw varna as the root.</li><li><b>Marxists</b> said class, not caste, is primary. Ambedkar replied that caste is a real structure of power in India.</li><li>Some argue his trust in <b>state and law</b> was too great.</li><li><b>Christophe Jaffrelot</b> and <b>Gail Omvedt</b> show how his ideas grew into a wide Dalit movement, from the Dalit Panthers (1972) to the BSP.</li></ul>"},
-  {"tag": "Indian angle", "h": "Ambedkar in the Constitution", "b": "<ul><li><b>Article 17</b> abolishes untouchability.</li><li><b>Articles 15(4) and 16(4)</b> enable reservation; <b>Articles 330 and 332</b> reserve seats for SCs and STs.</li><li>He called <b>Article 32</b>, the right to constitutional remedies, the \"heart and soul\" of the Constitution.</li><li>The <b>SC/ST (Prevention of Atrocities) Act, 1989</b> carries his legacy forward.</li></ul><p>Since 2015, <b>26 November</b> is observed as Constitution Day (Samvidhan Divas).</p>"},
-  {"tag": "Exam lens", "cls": "exam", "h": "How UPSC asks this", "b": "<div class=\"box\">\"Ambedkar's idea of social democracy.\" Discuss.</div><div class=\"box\">\"Compare Gandhi's and Ambedkar's views on caste.\"</div><div class=\"box\">\"Why did Ambedkar choose Buddhism?\"</div><p><b>Structure:</b> life and context, caste as graded inequality, Annihilation of Caste, the liberty-equality-fraternity trinity, the 1949 warning, Poona Pact. Then the Gandhi debate, and his place in the Constitution.</p>"}
+  {
+   "tag": "Why this matters",
+   "h": "Thinker of social democracy",
+   "b": "<p>Bhimrao Ramji Ambedkar (1891–1956) was born into the Mahar caste, treated as untouchable. He earned doctorates from <b>Columbia University</b> and the <b>London School of Economics</b>, and became a barrister.</p><p>He chaired the Constituent Assembly's <b>Drafting Committee</b> and was independent India's first Law Minister.</p><p>He is one of the most-asked thinkers in Paper I. Key works: <i>Annihilation of Caste</i> (1936), <i>Who Were the Shudras?</i> (1946), <i>The Untouchables</i> (1948) and <i>The Buddha and His Dhamma</i> (1957).</p>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "Caste as graded inequality",
+   "b": "<p>In his 1916 Columbia paper, \"Castes in India\", Ambedkar said caste is kept alive by <b>endogamy</b>: marrying only within the group.</p><p>Later, in <i>Annihilation of Caste</i>, he said caste is not a division of labour but a <b>division of labourers</b>. It ranks people by birth and blocks free choice of work.</p><p>He called it <b>graded inequality</b>: each caste looks down on those below, so the oppressed never unite against the system. This is why caste lasts.</p>"
+  },
+  {
+   "tag": "Key text",
+   "h": "Annihilation of Caste (1936)",
+   "b": "<p>This was a speech written for the <b>Jat-Pat Todak Mandal</b> of Lahore. The organisers cancelled it when they saw the text, so Ambedkar published it himself.</p><ul><li>Caste cannot be reformed; it must be <b>annihilated</b>.</li><li>Caste rests on the authority of the <b>shastras</b>. So the shastras themselves must lose their authority.</li><li>The real remedy is <b>inter-caste marriage</b>.</li><li>A political revolution must be preceded by a <b>social revolution</b>.</li></ul><p>Gandhi replied in <i>Harijan</i>, defending varna. Ambedkar answered him in turn.</p>"
+  },
+  {
+   "tag": "Key idea",
+   "h": "Liberty, equality, fraternity",
+   "b": "<p>Ambedkar said he took these ideals not from the French Revolution but from his master, the <b>Buddha</b>.</p><p>He insisted they form a <b>trinity</b>. Liberty without equality produces the rule of the few. Equality without liberty kills initiative. Without <b>fraternity</b>, neither can become natural.</p><p>For Ambedkar, <b>democracy</b> is not just a form of government. It is \"a mode of associated living\", a phrase he took from his Columbia teacher <b>John Dewey</b>.</p>"
+  },
+  {
+   "tag": "Key idea",
+   "h": "Political versus social democracy",
+   "b": "<p>In his last speech to the Constituent Assembly on <b>25 November 1949</b>, Ambedkar warned:</p><div class=\"quote\">\"On the 26th of January 1950, we are going to enter into a life of contradictions. In politics we will have equality and in social and economic life we will have inequality.\"</div><div class=\"who\">B.R. Ambedkar, Constituent Assembly, 25 November 1949</div><p>He urged constitutional methods, warned against <b>hero-worship</b> (bhakti) in politics, and said political democracy cannot last without social democracy.</p>"
+  },
+  {
+   "tag": "Key idea",
+   "h": "Representation and the Poona Pact",
+   "b": "<p>At the Round Table Conferences, Ambedkar demanded <b>separate electorates</b> for the Depressed Classes. The British Communal Award of 1932 granted them.</p><p>Gandhi began a fast unto death in Yerwada jail, saying separate electorates would divide Hindus. To save his life, Ambedkar signed the <b>Poona Pact</b> (September 1932): joint electorates with <b>reserved seats</b> instead.</p><p>Ambedkar later said the pact left Dalit representatives dependent on caste-Hindu votes. This history shaped reservation in the Constitution.</p>"
+  },
+  {
+   "tag": "Key idea",
+   "h": "State socialism and conversion",
+   "b": "<p>In <i>States and Minorities</i> (1947), he proposed <b>state socialism</b>: key industries and agriculture owned by the state, written into the Constitution itself.</p><p>He founded the <b>Independent Labour Party</b> (1936) and later planned the Republican Party of India.</p><p>On 13 October 1935 at Yeola he said that though he was born a Hindu, he would not die a Hindu. On <b>14 October 1956</b> at Nagpur, he converted to Buddhism with lakhs of followers. His <b>Navayana</b> Buddhism stressed social equality over ritual.</p>"
+  },
+  {
+   "tag": "Critique",
+   "h": "Debates on Ambedkar",
+   "b": "<ul><li><b>Gandhi vs Ambedkar:</b> reform of Hinduism versus exit from it. Gandhi saw caste as a distortion of varna; Ambedkar saw varna as the root.</li><li><b>Marxists</b> said class, not caste, is primary. Ambedkar replied that caste is a real structure of power in India.</li><li>Some argue his trust in <b>state and law</b> was too great.</li><li><b>Christophe Jaffrelot</b> and <b>Gail Omvedt</b> show how his ideas grew into a wide Dalit movement, from the Dalit Panthers (1972) to the BSP.</li></ul>"
+  },
+  {
+   "tag": "Key idea",
+   "h": "Ambedkar's struggles and federal ideas",
+   "b": "<ul><li><b>Mahad Satyagraha</b> (1927): Dalits drew water from the Chavdar tank, which a public resolution had opened to all.</li><li><b>Kalaram Temple entry</b> movement at Nashik (1930–35).</li><li><b>Bahishkrit Hitakarini Sabha</b> (1924), with the motto \"educate, agitate, organise\".</li><li>Papers: <b>Mooknayak</b> (1920) and <b>Bahishkrit Bharat</b> (1927).</li><li>He resigned as Law Minister in 1951, partly over the stalling of the <b>Hindu Code Bill</b>.</li></ul><p>On the Constitution, he said India is a \"<b>Union of States</b>\": the federation is not the result of an agreement, so no state can secede.</p><p>He also warned that a constitution is only as good as those who work it. A good one, badly run, will fail.</p>"
+  },
+  {
+   "tag": "Indian angle",
+   "h": "Ambedkar in the Constitution",
+   "b": "<ul><li><b>Article 17</b> abolishes untouchability.</li><li><b>Articles 15(4) and 16(4)</b> enable reservation; <b>Articles 330 and 332</b> reserve seats for SCs and STs.</li><li>He called <b>Article 32</b>, the right to constitutional remedies, the \"heart and soul\" of the Constitution.</li><li>The <b>SC/ST (Prevention of Atrocities) Act, 1989</b> carries his legacy forward.</li></ul><p>Since 2015, <b>26 November</b> is observed as Constitution Day (Samvidhan Divas).</p>"
+  },
+  {
+   "tag": "Exam lens",
+   "cls": "exam",
+   "h": "How UPSC asks this",
+   "b": "<div class=\"box\">\"Ambedkar's idea of social democracy.\" Discuss.</div><div class=\"box\">\"Compare Gandhi's and Ambedkar's views on caste.\"</div><div class=\"box\">\"Why did Ambedkar choose Buddhism?\"</div><p><b>Structure:</b> life and context, caste as graded inequality, Annihilation of Caste, the liberty-equality-fraternity trinity, the 1949 warning, Poona Pact. Then the Gandhi debate, and his place in the Constitution.</p>"
+  }
  ],
  "quiz": [
-  {"q": "Ambedkar said caste is not a division of labour but…", "o": ["A division of property", "A division of labourers", "A form of class", "A religious duty"], "a": 1, "w": "He called it a division of labourers, ranked by birth."},
-  {"q": "The Poona Pact (1932) replaced separate electorates with…", "o": ["Nominated members", "Joint electorates with reserved seats", "Proportional representation", "Universal adult franchise"], "a": 1, "w": "Joint electorates with reserved seats for the Depressed Classes."},
-  {"q": "Ambedkar's phrase 'a mode of associated living' was borrowed from…", "o": ["John Dewey", "J.S. Mill", "Harold Laski", "Edmund Burke"], "a": 0, "w": "From John Dewey, his teacher at Columbia."},
-  {"q": "Which Article did Ambedkar call the 'heart and soul' of the Constitution?", "o": ["Article 14", "Article 17", "Article 21", "Article 32"], "a": 3, "w": "Article 32, the right to constitutional remedies."},
-  {"q": "Annihilation of Caste was written for…", "o": ["The Indian National Congress", "The Jat-Pat Todak Mandal", "The Round Table Conference", "The Mahar Conference at Yeola"], "a": 1, "w": "A Lahore reform body that cancelled the speech."}
+  {
+   "q": "Ambedkar said caste is not a division of labour but…",
+   "o": [
+    "A division of property",
+    "A division of labourers",
+    "A form of class",
+    "A religious duty"
+   ],
+   "a": 1,
+   "w": "He called it a division of labourers, ranked by birth."
+  },
+  {
+   "q": "The Poona Pact (1932) replaced separate electorates with…",
+   "o": [
+    "Nominated members",
+    "Joint electorates with reserved seats",
+    "Proportional representation",
+    "Universal adult franchise"
+   ],
+   "a": 1,
+   "w": "Joint electorates with reserved seats for the Depressed Classes."
+  },
+  {
+   "q": "Ambedkar's phrase 'a mode of associated living' was borrowed from…",
+   "o": [
+    "John Dewey",
+    "J.S. Mill",
+    "Harold Laski",
+    "Edmund Burke"
+   ],
+   "a": 0,
+   "w": "From John Dewey, his teacher at Columbia."
+  },
+  {
+   "q": "Which Article did Ambedkar call the 'heart and soul' of the Constitution?",
+   "o": [
+    "Article 14",
+    "Article 17",
+    "Article 21",
+    "Article 32"
+   ],
+   "a": 3,
+   "w": "Article 32, the right to constitutional remedies."
+  },
+  {
+   "q": "Annihilation of Caste was written for…",
+   "o": [
+    "The Indian National Congress",
+    "The Jat-Pat Todak Mandal",
+    "The Round Table Conference",
+    "The Mahar Conference at Yeola"
+   ],
+   "a": 1,
+   "w": "A Lahore reform body that cancelled the speech."
+  },
+  {
+   "q": "Ambedkar's motto was…",
+   "o": [
+    "Do or die",
+    "Educate, agitate, organise",
+    "Truth alone triumphs",
+    "Workers of the world, unite"
+   ],
+   "a": 1,
+   "w": "Of the Bahishkrit Hitakarini Sabha."
+  },
+  {
+   "q": "The Mahad Satyagraha (1927) was about…",
+   "o": [
+    "Temple entry",
+    "Access to a public water tank",
+    "Separate electorates",
+    "Land rights"
+   ],
+   "a": 1,
+   "w": "The Chavdar tank at Mahad."
+  },
+  {
+   "q": "Ambedkar's 1949 warning was that India would enter a life of…",
+   "o": [
+    "Poverty",
+    "Contradictions",
+    "Violence",
+    "Dependence"
+   ],
+   "a": 1,
+   "w": "Political equality with social and economic inequality."
+  },
+  {
+   "q": "Ambedkar resigned as Law Minister in 1951 partly over…",
+   "o": [
+    "Kashmir",
+    "The Hindu Code Bill",
+    "Reservation",
+    "Language"
+   ],
+   "a": 1,
+   "w": "The Hindu Code Bill was stalled."
+  },
+  {
+   "q": "Ambedkar converted to Buddhism in…",
+   "o": [
+    "Mahad, 1927",
+    "Yeola, 1935",
+    "Nagpur, 1956",
+    "Delhi, 1950"
+   ],
+   "a": 2,
+   "w": "14 October 1956 at Nagpur."
+  }
  ],
- "sources": ["B.R. Ambedkar, 'Castes in India' (1916); Annihilation of Caste (1936)", "B.R. Ambedkar, States and Minorities (1947)", "Constituent Assembly Debates, 25 November 1949 and 9 December 1948 (Art. 32)", "Poona Pact (24 September 1932)", "Christophe Jaffrelot, Dr Ambedkar and Untouchability (2005)", "Constitution of India, Arts. 15(4), 16(4), 17, 32, 330, 332", "PYQ themes: social democracy, Gandhi-Ambedkar debate, caste (Paper I, near every year)"],
+ "sources": [
+  "B.R. Ambedkar, 'Castes in India' (1916); Annihilation of Caste (1936)",
+  "B.R. Ambedkar, States and Minorities (1947)",
+  "Constituent Assembly Debates, 25 November 1949 and 9 December 1948 (Art. 32)",
+  "Poona Pact (24 September 1932)",
+  "Christophe Jaffrelot, Dr Ambedkar and Untouchability (2005)",
+  "Constitution of India, Arts. 15(4), 16(4), 17, 32, 330, 332",
+  "PYQ themes: social democracy, Gandhi-Ambedkar debate, caste (Paper I, near every year)"
+ ],
  "verified": "2026-11-10"
 }

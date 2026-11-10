@@ -47,7 +47,7 @@ Card body HTML may use these pieces:
 - An inline `<svg class="d">` diagram, using the palette below.
 
 ## Every lesson must follow this pattern
-Each lesson has 8–11 cards:
+Each lesson has 8–16 cards. Go deep: use as many words as the topic needs, but keep it digestible. Split a long idea across cards rather than writing a wall of text:
 1. Hook: why this topic matters.
 2. Core idea in plain words.
 3. 2–4 thinker cards, each giving the book, the year and the key claim.
@@ -55,12 +55,12 @@ Each lesson has 8–11 cards:
 5. An "Indian angle" card with real Indian examples.
 6. An "Exam lens" card (`cls: "exam"`) with real PYQ-style questions and an answer structure.
 
-Then five quiz questions with plausible distractors. Don't add throwaway options.
+Then ten quiz questions with plausible distractors. Don't add throwaway options.
 
 ### Writing style (non-negotiable)
 - Plain, easy English. Write complete sentences and keep them short. Nothing should need reading twice.
 - Keep UPSC optional depth: name thinkers, books, years and key terms that examiners look for.
-- Each card should fit one phone screen (about 120–160 words). If a card runs longer, split it.
+- Aim for about 120–180 words per card. Detail is welcome; if a card runs longer, split it into two cards.
 - Don't use all-caps labels.
 
 ### Verification (non-negotiable)

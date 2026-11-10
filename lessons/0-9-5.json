@@ -3,24 +3,183 @@
  "title": "J.S. Mill",
  "emoji": "🗽",
  "cards": [
-  {"tag": "Why this matters", "h": "The great defender of liberty", "b": "<p>John Stuart Mill (1806–1873) was educated by his father James Mill, a close ally of Jeremy Bentham, to be the next leader of <b>utilitarianism</b>. He learned Greek at three.</p><p>At twenty he had a breakdown and came to feel that pure calculation left out feeling and character. He then reshaped the utilitarian tradition.</p><p>His key works are <i>On Liberty</i> (1859), <i>Considerations on Representative Government</i> (1861), <i>Utilitarianism</i> (1861/1863) and <i>The Subjection of Women</i> (1869). UPSC asks most about liberty and representation.</p>"},
-  {"tag": "Core idea", "h": "Revising Bentham", "b": "<p>Bentham said the right action brings the <b>greatest happiness of the greatest number</b>. All pleasures are equal in kind; only quantity matters.</p><p>Mill added <b>quality</b>. Higher pleasures of the mind are better than lower pleasures of the body.</p><div class=\"quote\">\"It is better to be a human being dissatisfied than a pig satisfied.\"</div><div class=\"who\">J.S. Mill, Utilitarianism, ch. 2</div><p>This made his utilitarianism about developing human beings, not just counting pleasures.</p>"},
-  {"tag": "Core idea", "h": "The harm principle", "b": "<p>The heart of <i>On Liberty</i> is one simple principle. The only purpose for which power can rightly be used over anyone against their will is <b>to prevent harm to others</b>.</p><p>A person's own good, physical or moral, is not enough reason. Over himself, over his own body and mind, \"the individual is sovereign\".</p><p>Mill divides actions into <b>self-regarding</b> (affecting mainly oneself) and <b>other-regarding</b> (affecting others). Only the second may be controlled.</p>"},
-  {"tag": "Key idea", "h": "Freedom of thought and speech", "b": "<p>Mill gives strong reasons why no opinion should be silenced:</p><ul><li>The silenced opinion may be <b>true</b>. To silence it assumes we cannot be wrong.</li><li>Even if false, it may hold <b>part of the truth</b>.</li><li>Even a wholly true belief, if never challenged, becomes a <b>dead dogma</b>, held without understanding.</li></ul><p>But speech that is a direct incitement can be stopped. His example: saying corn dealers starve the poor is allowed in print, but not when shouted to an angry mob outside a corn dealer's house.</p>"},
-  {"tag": "Key idea", "h": "Tyranny of the majority", "b": "<p>Mill, influenced by <b>Alexis de Tocqueville</b>, feared a new danger in democracy. Not just the government, but <b>society itself</b>, could crush individuals through public opinion and custom.</p><p>He valued <b>individuality</b> and \"experiments of living\". Progress comes from people who think differently. Conformity makes society stagnate, as he believed had happened in China.</p><p>So liberty is not only about protecting rights. It is about letting human beings grow.</p>"},
-  {"tag": "Key idea", "h": "Representative government", "b": "<ul><li>The ideally best form of government is <b>representative democracy</b>. It protects people's interests and also educates and improves them.</li><li>He backed <b>Thomas Hare's</b> system of proportional representation, so that minorities are heard.</li><li>He proposed <b>plural voting</b>: more votes for the educated, to balance the uneducated majority.</li><li>Voters should be literate and pay tax. He opposed the secret ballot, saying voting is a public duty.</li><li>Parliament should debate and check; laws should be drafted by an expert commission.</li></ul>"},
-  {"tag": "Key idea", "h": "The Subjection of Women", "b": "<p>Mill wrote this book in 1869, drawing on his partnership with <b>Harriet Taylor Mill</b>. He argued that the legal subordination of women was wrong in itself and a major barrier to human progress.</p><p>He said we cannot know women's \"nature\" while they are kept in subjection.</p><p>As an MP in 1867, he proposed an amendment to give women the vote, replacing \"man\" with \"person\" in the Reform Bill. It failed, but it was the first such motion in Parliament.</p>"},
-  {"tag": "Critique", "h": "Limits of Mill's liberalism", "b": "<ul><li>The line between self- and other-regarding actions is <b>blurry</b>. Almost every act affects someone.</li><li>Plural voting and the call for education tests are <b>elitist</b>.</li><li>He said liberty applies only to people in the \"maturity of their faculties\". Despotism is fine for \"barbarians\", he said, if it improves them. He worked for the <b>East India Company</b> for 35 years and defended its rule over India.</li><li>Yet he moved toward a qualified <b>socialism</b> in later life, so many see him as a bridge from classical to welfare liberalism. Ernest Barker was harsher: he called Mill the prophet of an empty liberty and an abstract individual.</li></ul>"},
-  {"tag": "Indian angle", "h": "Mill and Indian free speech", "b": "<p><b>Article 19(1)(a)</b> protects free speech, but <b>Article 19(2)</b> lists reasonable restrictions such as public order and decency. This is close to Mill's harm-based approach.</p><p>In <b>Shreya Singhal</b> (2015), the Supreme Court struck down Section 66A of the IT Act. It separated <b>discussion and advocacy</b>, which are protected, from <b>incitement</b>, which can be restricted. This echoes Mill's corn-dealer example.</p><p>In <b>Navtej Johar</b> (2018), decriminalising consensual same-sex relations reflected the idea that private self-regarding conduct is not the state's business.</p>"},
-  {"tag": "Exam lens", "cls": "exam", "h": "How UPSC asks this", "b": "<div class=\"box\">\"Mill was a reluctant democrat.\" Comment.</div><div class=\"box\">\"Explain Mill's harm principle and its relevance today.\"</div><div class=\"box\">\"Mill's liberalism is a bridge between classical and welfare liberalism.\" Discuss.</div><p><b>Structure:</b> revised utilitarianism, the harm principle, three arguments for free speech, tyranny of the majority, representative government. Then critique (elitism, colonial blind spot) and Indian cases.</p>"}
+  {
+   "tag": "Why this matters",
+   "h": "The great defender of liberty",
+   "b": "<p>John Stuart Mill (1806–1873) was educated by his father James Mill, a close ally of Jeremy Bentham, to be the next leader of <b>utilitarianism</b>. He learned Greek at three.</p><p>At twenty he had a breakdown and came to feel that pure calculation left out feeling and character. He then reshaped the utilitarian tradition.</p><p>His key works are <i>On Liberty</i> (1859), <i>Considerations on Representative Government</i> (1861), <i>Utilitarianism</i> (1861/1863) and <i>The Subjection of Women</i> (1869). UPSC asks most about liberty and representation.</p>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "Revising Bentham",
+   "b": "<p>Bentham said the right action brings the <b>greatest happiness of the greatest number</b>. All pleasures are equal in kind; only quantity matters.</p><p>Mill added <b>quality</b>. Higher pleasures of the mind are better than lower pleasures of the body.</p><div class=\"quote\">\"It is better to be a human being dissatisfied than a pig satisfied.\"</div><div class=\"who\">J.S. Mill, Utilitarianism, ch. 2</div><p>This made his utilitarianism about developing human beings, not just counting pleasures.</p>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "The harm principle",
+   "b": "<p>The heart of <i>On Liberty</i> is one simple principle. The only purpose for which power can rightly be used over anyone against their will is <b>to prevent harm to others</b>.</p><p>A person's own good, physical or moral, is not enough reason. Over himself, over his own body and mind, \"the individual is sovereign\".</p><p>Mill divides actions into <b>self-regarding</b> (affecting mainly oneself) and <b>other-regarding</b> (affecting others). Only the second may be controlled.</p>"
+  },
+  {
+   "tag": "Key idea",
+   "h": "Freedom of thought and speech",
+   "b": "<p>Mill gives strong reasons why no opinion should be silenced:</p><ul><li>The silenced opinion may be <b>true</b>. To silence it assumes we cannot be wrong.</li><li>Even if false, it may hold <b>part of the truth</b>.</li><li>Even a wholly true belief, if never challenged, becomes a <b>dead dogma</b>, held without understanding.</li></ul><p>But speech that is a direct incitement can be stopped. His example: saying corn dealers starve the poor is allowed in print, but not when shouted to an angry mob outside a corn dealer's house.</p>"
+  },
+  {
+   "tag": "Key idea",
+   "h": "Tyranny of the majority",
+   "b": "<p>Mill, influenced by <b>Alexis de Tocqueville</b>, feared a new danger in democracy. Not just the government, but <b>society itself</b>, could crush individuals through public opinion and custom.</p><p>He valued <b>individuality</b> and \"experiments of living\". Progress comes from people who think differently. Conformity makes society stagnate, as he believed had happened in China.</p><p>So liberty is not only about protecting rights. It is about letting human beings grow.</p>"
+  },
+  {
+   "tag": "Key idea",
+   "h": "Representative government",
+   "b": "<ul><li>The ideally best form of government is <b>representative democracy</b>. It protects people's interests and also educates and improves them.</li><li>He backed <b>Thomas Hare's</b> system of proportional representation, so that minorities are heard.</li><li>He proposed <b>plural voting</b>: more votes for the educated, to balance the uneducated majority.</li><li>Voters should be literate and pay tax. He opposed the secret ballot, saying voting is a public duty.</li><li>Parliament should debate and check; laws should be drafted by an expert commission.</li></ul>"
+  },
+  {
+   "tag": "Key idea",
+   "h": "The Subjection of Women",
+   "b": "<p>Mill wrote this book in 1869, drawing on his partnership with <b>Harriet Taylor Mill</b>. He argued that the legal subordination of women was wrong in itself and a major barrier to human progress.</p><p>He said we cannot know women's \"nature\" while they are kept in subjection.</p><p>As an MP in 1867, he proposed an amendment to give women the vote, replacing \"man\" with \"person\" in the Reform Bill. It failed, but it was the first such motion in Parliament.</p>"
+  },
+  {
+   "tag": "Critique",
+   "h": "Limits of Mill's liberalism",
+   "b": "<ul><li>The line between self- and other-regarding actions is <b>blurry</b>. Almost every act affects someone.</li><li>Plural voting and the call for education tests are <b>elitist</b>.</li><li>He said liberty applies only to people in the \"maturity of their faculties\". Despotism is fine for \"barbarians\", he said, if it improves them. He worked for the <b>East India Company</b> for 35 years and defended its rule over India.</li><li>Yet he moved toward a qualified <b>socialism</b> in later life, so many see him as a bridge from classical to welfare liberalism. Ernest Barker was harsher: he called Mill the prophet of an empty liberty and an abstract individual.</li></ul>"
+  },
+  {
+   "tag": "Key idea",
+   "h": "Positive views of liberty in Mill",
+   "b": "<p>Mill is often called the great defender of <b>negative liberty</b>: freedom from interference. But he goes further.</p><p>Chapter 3 of <i>On Liberty</i> is about <b>individuality</b> as part of well-being. Human nature, he says, is not a machine built to a model. It is a <b>tree</b> that needs to grow on all sides.</p><p>He quotes the German thinker <b>Wilhelm von Humboldt</b>, who said the end of man is the fullest and most harmonious development of his powers.</p><p>So Mill's liberty is not just about being left alone. It is about <b>self-development</b>. This is why he is seen as a bridge to <b>T.H. Green</b> and positive liberty.</p><p>He also allowed state action where it helps people develop, such as compulsory education. The state can require children to be educated, though it need not run all the schools.</p>"
+  },
+  {
+   "tag": "Indian angle",
+   "h": "Mill and Indian free speech",
+   "b": "<p><b>Article 19(1)(a)</b> protects free speech, but <b>Article 19(2)</b> lists reasonable restrictions such as public order and decency. This is close to Mill's harm-based approach.</p><p>In <b>Shreya Singhal</b> (2015), the Supreme Court struck down Section 66A of the IT Act. It separated <b>discussion and advocacy</b>, which are protected, from <b>incitement</b>, which can be restricted. This echoes Mill's corn-dealer example.</p><p>In <b>Navtej Johar</b> (2018), decriminalising consensual same-sex relations reflected the idea that private self-regarding conduct is not the state's business.</p>"
+  },
+  {
+   "tag": "Exam lens",
+   "cls": "exam",
+   "h": "How UPSC asks this",
+   "b": "<div class=\"box\">\"Mill was a reluctant democrat.\" Comment.</div><div class=\"box\">\"Explain Mill's harm principle and its relevance today.\"</div><div class=\"box\">\"Mill's liberalism is a bridge between classical and welfare liberalism.\" Discuss.</div><p><b>Structure:</b> revised utilitarianism, the harm principle, three arguments for free speech, tyranny of the majority, representative government. Then critique (elitism, colonial blind spot) and Indian cases.</p>"
+  }
  ],
  "quiz": [
-  {"q": "Mill's harm principle says power over an individual is justified only to…", "o": ["Make them happier", "Improve their morals", "Prevent harm to others", "Increase total utility"], "a": 2, "w": "The only purpose is to prevent harm to others."},
-  {"q": "Mill's change to Bentham's utilitarianism was to add…", "o": ["The quantity of pleasure", "The quality of pleasure", "Natural rights", "Divine command"], "a": 1, "w": "Higher pleasures are better than lower ones, not just more pleasure."},
-  {"q": "Whose system of proportional representation did Mill support?", "o": ["Thomas Hare", "d'Hondt", "Bentham", "Tocqueville"], "a": 0, "w": "Mill backed Thomas Hare's single transferable vote system."},
-  {"q": "Mill's corn dealer example shows the line between…", "o": ["Rich and poor", "Opinion and incitement", "Self- and other-regarding acts", "Majority and minority"], "a": 1, "w": "The same words are allowed in print but not as incitement to an angry mob."},
-  {"q": "Which Indian case echoes Mill's line between advocacy and incitement?", "o": ["Kesavananda Bharati", "Shreya Singhal", "Maneka Gandhi", "Indra Sawhney"], "a": 1, "w": "Shreya Singhal (2015) struck down Section 66A using this distinction."}
+  {
+   "q": "Mill's harm principle says power over an individual is justified only to…",
+   "o": [
+    "Make them happier",
+    "Improve their morals",
+    "Prevent harm to others",
+    "Increase total utility"
+   ],
+   "a": 2,
+   "w": "The only purpose is to prevent harm to others."
+  },
+  {
+   "q": "Mill's change to Bentham's utilitarianism was to add…",
+   "o": [
+    "The quantity of pleasure",
+    "The quality of pleasure",
+    "Natural rights",
+    "Divine command"
+   ],
+   "a": 1,
+   "w": "Higher pleasures are better than lower ones, not just more pleasure."
+  },
+  {
+   "q": "Whose system of proportional representation did Mill support?",
+   "o": [
+    "Thomas Hare",
+    "d'Hondt",
+    "Bentham",
+    "Tocqueville"
+   ],
+   "a": 0,
+   "w": "Mill backed Thomas Hare's single transferable vote system."
+  },
+  {
+   "q": "Mill's corn dealer example shows the line between…",
+   "o": [
+    "Rich and poor",
+    "Opinion and incitement",
+    "Self- and other-regarding acts",
+    "Majority and minority"
+   ],
+   "a": 1,
+   "w": "The same words are allowed in print but not as incitement to an angry mob."
+  },
+  {
+   "q": "Which Indian case echoes Mill's line between advocacy and incitement?",
+   "o": [
+    "Kesavananda Bharati",
+    "Shreya Singhal",
+    "Maneka Gandhi",
+    "Indra Sawhney"
+   ],
+   "a": 1,
+   "w": "Shreya Singhal (2015) struck down Section 66A using this distinction."
+  },
+  {
+   "q": "Mill compares human nature to…",
+   "o": [
+    "A machine",
+    "A tree",
+    "A river",
+    "A ship"
+   ],
+   "a": 1,
+   "w": "A tree that must grow and develop on all sides."
+  },
+  {
+   "q": "Mill's idea of individuality was influenced by…",
+   "o": [
+    "Hegel",
+    "Wilhelm von Humboldt",
+    "Rousseau",
+    "Kant"
+   ],
+   "a": 1,
+   "w": "He quotes Humboldt on the harmonious development of human powers."
+  },
+  {
+   "q": "On voting, Mill proposed…",
+   "o": [
+    "A secret ballot for all",
+    "Plural votes for the educated",
+    "Voting only for property owners",
+    "Compulsory voting"
+   ],
+   "a": 1,
+   "w": "Plural voting, and he opposed the secret ballot."
+  },
+  {
+   "q": "The Subjection of Women was published in…",
+   "o": [
+    "1859",
+    "1861",
+    "1867",
+    "1869"
+   ],
+   "a": 3,
+   "w": "1869."
+  },
+  {
+   "q": "Mill feared democracy could produce…",
+   "o": [
+    "A tyranny of the majority",
+    "A dictatorship of the proletariat",
+    "A Leviathan",
+    "Anarchy only"
+   ],
+   "a": 0,
+   "w": "Following Tocqueville, he feared majority opinion would crush individuality."
+  }
  ],
- "sources": ["J.S. Mill, On Liberty (1859), chs. 1–3", "J.S. Mill, Considerations on Representative Government (1861)", "J.S. Mill, Utilitarianism (1861/1863), ch. 2", "J.S. Mill, The Subjection of Women (1869)", "Shreya Singhal v. Union of India (2015); Navtej Singh Johar v. Union of India (2018)", "Stanford Encyclopedia of Philosophy, 'John Stuart Mill'", "PYQ themes: harm principle, reluctant democrat, liberty of thought (Paper I, repeated)"],
+ "sources": [
+  "J.S. Mill, On Liberty (1859), chs. 1–3",
+  "J.S. Mill, Considerations on Representative Government (1861)",
+  "J.S. Mill, Utilitarianism (1861/1863), ch. 2",
+  "J.S. Mill, The Subjection of Women (1869)",
+  "Shreya Singhal v. Union of India (2015); Navtej Singh Johar v. Union of India (2018)",
+  "Stanford Encyclopedia of Philosophy, 'John Stuart Mill'",
+  "PYQ themes: harm principle, reluctant democrat, liberty of thought (Paper I, repeated)"
+ ],
  "verified": "2026-11-10"
 }

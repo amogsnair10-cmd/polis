@@ -3,24 +3,182 @@
  "title": "Sir Syed Ahmed Khan and Sri Aurobindo",
  "emoji": "📖",
  "cards": [
-  {"tag": "Why this matters", "h": "Two answers to colonial modernity", "b": "<p>In the 19th century, Indians faced a hard question: how should we respond to British power and Western ideas?</p><p><b>Sir Syed Ahmed Khan</b> said Muslims must embrace modern education and cooperate with the British to rise again.</p><p><b>Sri Aurobindo</b> said India must reject foreign rule outright and draw strength from its own spiritual tradition.</p><p>The syllabus pairs them, so expect questions on each and on how they differ.</p>"},
-  {"tag": "Thinker", "h": "Sir Syed Ahmed Khan (1817–1898)", "b": "<p>Sir Syed came from a Mughal noble family in Delhi and worked as a judicial officer for the East India Company. During the revolt of 1857 he stayed loyal to the British and saved British lives at Bijnor.</p><p>After 1857, the British blamed Muslims for the revolt. Muslims were falling behind in education and government jobs.</p><p>Sir Syed set out to rebuild trust with the British and to modernise Muslim society. His essay <i>Asbab-e-Baghawat-e-Hind</i> (The Causes of the Indian Revolt, 1859) blamed British policy, especially the lack of Indians in the legislature.</p>"},
-  {"tag": "Key idea", "h": "Education and reason", "b": "<ul><li>He founded the <b>Scientific Society</b> (1864) to translate Western works into Urdu.</li><li>He started the journal <b>Tahzib-ul-Akhlaq</b> (1870) to spread social reform.</li><li>He founded the <b>Muhammadan Anglo-Oriental College</b> at Aligarh in 1875. It became Aligarh Muslim University in 1920.</li></ul><p>He argued that Islam and science do not conflict. The Quran, the word of God, cannot contradict nature, the work of God. This rational approach was called <b>naturalism</b>; his opponents mocked him as a \"nechari\".</p>"},
-  {"tag": "Key idea", "h": "Two nations?", "b": "<p>Early on, Sir Syed called Hindus and Muslims \"two eyes of the beautiful bride that is India\".</p><p>Later, he opposed the <b>Indian National Congress</b> (founded 1885). In speeches at Lucknow and Meerut in 1887–88, he argued that in elections the Hindu majority would dominate, and that Muslims should keep away from Congress agitation.</p><p>Many historians see this as an early form of the <b>two-nation</b> idea. Others say he spoke of separate communities with distinct interests, not separate nation-states. Pakistan's founders later claimed him as a forerunner.</p>"},
-  {"tag": "Thinker", "h": "Sri Aurobindo (1872–1950)", "b": "<p>Aurobindo Ghose was educated in England, at St Paul's School and King's College, Cambridge. He returned to India in 1893 and served the Maharaja of Baroda.</p><p>He became a leader of the <b>Extremists</b> in Congress, during the protests against the <b>Partition of Bengal</b> (1905). He wrote for the paper <b>Bande Mataram</b>.</p><p>He was tried in the <b>Alipore Bomb Case</b> (1908–09) and acquitted. After a spiritual experience in jail, he left politics in 1910 and moved to <b>Pondicherry</b>, where he founded an ashram.</p>"},
-  {"tag": "Key idea", "h": "New Lamps for Old and boycott", "b": "<p>In his articles <b>\"New Lamps for Old\"</b> (1893–94), Aurobindo attacked the Moderates' petitions and loyalty to Britain as politics of begging.</p><p>His essays on <b>passive resistance</b> (1907) set out a plan: boycott of British goods, schools, courts and administration, and building national alternatives in their place.</p><p>He also said that if the British met passive resistance with violence, the people had a right to defend themselves.</p><p>His goal was <b>complete independence</b>, purna swaraj, long before Congress adopted it in 1929.</p>"},
-  {"tag": "Key idea", "h": "Spiritual nationalism", "b": "<p>For Aurobindo, the nation was not just land and people. It was a living <b>mother</b>, a form of divine power, or <b>shakti</b>.</p><div class=\"quote\">Nationalism is a religion that has come from God.</div><div class=\"who\">Paraphrase of his Bombay speech, 1908</div><p>Later, in <i>The Ideal of Human Unity</i> and <i>The Human Cycle</i>, he looked beyond the nation toward a spiritual unity of humanity, through free nations working together.</p>"},
-  {"tag": "Debate", "h": "Comparing the two", "b": "<ul><li><b>Aim:</b> Sir Syed wanted Muslim uplift within British rule. Aurobindo wanted complete freedom from it.</li><li><b>Method:</b> Sir Syed chose education and loyalty. Aurobindo chose boycott and mass resistance.</li><li><b>Source:</b> Sir Syed used Western reason. Aurobindo used Indian spirituality.</li><li><b>Critique:</b> Sir Syed's later views fed communal separation. Aurobindo's Hindu imagery could exclude Muslims, though he himself opposed communal politics.</li></ul>"},
-  {"tag": "Indian angle", "h": "Legacies today", "b": "<p><b>Aligarh Muslim University</b> remains a major institution. In 2024, a seven-judge bench of the Supreme Court overruled the 1967 <b>Azeez Basha</b> judgment, which had denied AMU minority status. The Court left the final decision on AMU's status to a regular bench.</p><p>Aurobindo's birthday, <b>15 August</b>, is also India's Independence Day. He gave a message to the nation that day in 1947.</p><p><b>Auroville</b> near Pondicherry, founded in 1968, carries his vision of human unity.</p>"},
-  {"tag": "Exam lens", "cls": "exam", "h": "How UPSC asks this", "b": "<div class=\"box\">\"Discuss Sir Syed Ahmed Khan's views on education and politics.\"</div><div class=\"box\">\"Examine Sri Aurobindo's idea of spiritual nationalism.\"</div><div class=\"box\">\"Was Sir Syed a communalist or a modernist?\"</div><p><b>Structure:</b> context of 1857 and Bengal partition, then each thinker's life, method and key ideas. Give a balanced reading of Sir Syed's \"two nations\" remarks. Compare them in a short table or list.</p>"}
+  {
+   "tag": "Why this matters",
+   "h": "Two answers to colonial modernity",
+   "b": "<p>In the 19th century, Indians faced a hard question: how should we respond to British power and Western ideas?</p><p><b>Sir Syed Ahmed Khan</b> said Muslims must embrace modern education and cooperate with the British to rise again.</p><p><b>Sri Aurobindo</b> said India must reject foreign rule outright and draw strength from its own spiritual tradition.</p><p>The syllabus pairs them, so expect questions on each and on how they differ.</p>"
+  },
+  {
+   "tag": "Thinker",
+   "h": "Sir Syed Ahmed Khan (1817–1898)",
+   "b": "<p>Sir Syed came from a Mughal noble family in Delhi and worked as a judicial officer for the East India Company. During the revolt of 1857 he stayed loyal to the British and saved British lives at Bijnor.</p><p>After 1857, the British blamed Muslims for the revolt. Muslims were falling behind in education and government jobs.</p><p>Sir Syed set out to rebuild trust with the British and to modernise Muslim society. His essay <i>Asbab-e-Baghawat-e-Hind</i> (The Causes of the Indian Revolt, 1859) blamed British policy, especially the lack of Indians in the legislature.</p>"
+  },
+  {
+   "tag": "Key idea",
+   "h": "Education and reason",
+   "b": "<ul><li>He founded the <b>Scientific Society</b> (1864) to translate Western works into Urdu.</li><li>He started the journal <b>Tahzib-ul-Akhlaq</b> (1870) to spread social reform.</li><li>He founded the <b>Muhammadan Anglo-Oriental College</b> at Aligarh in 1875. It became Aligarh Muslim University in 1920.</li></ul><p>He argued that Islam and science do not conflict. The Quran, the word of God, cannot contradict nature, the work of God. This rational approach was called <b>naturalism</b>; his opponents mocked him as a \"nechari\".</p>"
+  },
+  {
+   "tag": "Key idea",
+   "h": "Two nations?",
+   "b": "<p>Early on, Sir Syed called Hindus and Muslims \"two eyes of the beautiful bride that is India\".</p><p>Later, he opposed the <b>Indian National Congress</b> (founded 1885). In speeches at Lucknow and Meerut in 1887–88, he argued that in elections the Hindu majority would dominate, and that Muslims should keep away from Congress agitation.</p><p>Many historians see this as an early form of the <b>two-nation</b> idea. Others say he spoke of separate communities with distinct interests, not separate nation-states. Pakistan's founders later claimed him as a forerunner.</p>"
+  },
+  {
+   "tag": "Thinker",
+   "h": "Sri Aurobindo (1872–1950)",
+   "b": "<p>Aurobindo Ghose was educated in England, at St Paul's School and King's College, Cambridge. He returned to India in 1893 and served the Maharaja of Baroda.</p><p>He became a leader of the <b>Extremists</b> in Congress, during the protests against the <b>Partition of Bengal</b> (1905). He wrote for the paper <b>Bande Mataram</b>.</p><p>He was tried in the <b>Alipore Bomb Case</b> (1908–09) and acquitted. After a spiritual experience in jail, he left politics in 1910 and moved to <b>Pondicherry</b>. The Sri Aurobindo Ashram there was formally founded in 1926, with the Mother.</p>"
+  },
+  {
+   "tag": "Key idea",
+   "h": "New Lamps for Old and boycott",
+   "b": "<p>In his articles <b>\"New Lamps for Old\"</b> (1893–94), Aurobindo attacked the Moderates' petitions and loyalty to Britain as politics of begging.</p><p>His essays on <b>passive resistance</b> (1907) set out a plan: boycott of British goods, schools, courts and administration, and building national alternatives in their place.</p><p>He also said that if the British met passive resistance with violence, the people had a right to defend themselves.</p><p>His goal was <b>complete independence</b>, purna swaraj, long before Congress adopted it in 1929.</p>"
+  },
+  {
+   "tag": "Key idea",
+   "h": "Spiritual nationalism",
+   "b": "<p>For Aurobindo, the nation was not just land and people. It was a living <b>mother</b>, a form of divine power, or <b>shakti</b>.</p><div class=\"quote\">Nationalism is a religion that has come from God.</div><div class=\"who\">Paraphrase of his Bombay speech, 1908</div><p>Later, in <i>The Ideal of Human Unity</i> and <i>The Human Cycle</i>, he looked beyond the nation toward a spiritual unity of humanity, through free nations working together.</p>"
+  },
+  {
+   "tag": "Debate",
+   "h": "Comparing the two",
+   "b": "<ul><li><b>Aim:</b> Sir Syed wanted Muslim uplift within British rule. Aurobindo wanted complete freedom from it.</li><li><b>Method:</b> Sir Syed chose education and loyalty. Aurobindo chose boycott and mass resistance.</li><li><b>Source:</b> Sir Syed used Western reason. Aurobindo used Indian spirituality.</li><li><b>Critique:</b> Sir Syed's later views fed communal separation. Aurobindo's Hindu imagery could exclude Muslims, though he himself opposed communal politics.</li></ul>"
+  },
+  {
+   "tag": "Key idea",
+   "h": "The Aligarh movement",
+   "b": "<p>Sir Syed's work grew into the <b>Aligarh movement</b>, a broad effort to modernise Muslim society.</p><ul><li>The <b>Muhammadan Educational Conference</b> (1886) spread modern schools across India.</li><li>He wrote a commentary on the Quran using reason, and urged Muslims to read it afresh rather than rely only on traditional scholars.</li><li>He supported the <b>English language</b> as the key to jobs and knowledge.</li><li>He opposed purdah and polygamy in principle, though he moved slowly on women's education.</li></ul><p>Aligarh trained a new Muslim middle class. Many of its graduates later led the <b>Muslim League</b> (1906). Others, like the Ali brothers, joined the Khilafat and national movements.</p><p>His critics among the ulema of <b>Deoband</b> (founded 1866) rejected his Western leanings.</p>"
+  },
+  {
+   "tag": "Indian angle",
+   "h": "Legacies today",
+   "b": "<p><b>Aligarh Muslim University</b> remains a major institution. In 2024, a seven-judge bench of the Supreme Court overruled the 1967 <b>Azeez Basha</b> judgment, which had denied AMU minority status. The Court left the final decision on AMU's status to a regular bench.</p><p>Aurobindo's birthday, <b>15 August</b>, is also India's Independence Day. He gave a message to the nation that day in 1947.</p><p><b>Auroville</b> near Pondicherry, founded in 1968, carries his vision of human unity.</p>"
+  },
+  {
+   "tag": "Exam lens",
+   "cls": "exam",
+   "h": "How UPSC asks this",
+   "b": "<div class=\"box\">\"Discuss Sir Syed Ahmed Khan's views on education and politics.\"</div><div class=\"box\">\"Examine Sri Aurobindo's idea of spiritual nationalism.\"</div><div class=\"box\">\"Was Sir Syed a communalist or a modernist?\"</div><p><b>Structure:</b> context of 1857 and Bengal partition, then each thinker's life, method and key ideas. Give a balanced reading of Sir Syed's \"two nations\" remarks. Compare them in a short table or list.</p>"
+  }
  ],
  "quiz": [
-  {"q": "Sir Syed founded the Muhammadan Anglo-Oriental College in…", "o": ["1857", "1875", "1885", "1920"], "a": 1, "w": "Founded 1875; it became AMU in 1920."},
-  {"q": "Sir Syed's book on the causes of the 1857 revolt blamed mainly…", "o": ["Muslim leaders", "Lack of Indians in the legislature", "Hindu reformers", "The Mughal court"], "a": 1, "w": "Asbab-e-Baghawat-e-Hind blamed British policy, including no Indian voice in the legislature."},
-  {"q": "Aurobindo's 'New Lamps for Old' attacked…", "o": ["British education", "The Moderates' politics", "Caste practices", "Muslim League"], "a": 1, "w": "It criticised the Moderates' petition-based politics."},
-  {"q": "Aurobindo was tried and acquitted in the…", "o": ["Meerut Conspiracy Case", "Alipore Bomb Case", "Kakori Case", "Lahore Conspiracy Case"], "a": 1, "w": "The Alipore Bomb Case, 1908–09."},
-  {"q": "Sir Syed's journal for social reform was…", "o": ["Al-Hilal", "Tahzib-ul-Akhlaq", "Comrade", "Kesari"], "a": 1, "w": "Tahzib-ul-Akhlaq, started in 1870. Al-Hilal was Maulana Azad's paper."}
+  {
+   "q": "Sir Syed founded the Muhammadan Anglo-Oriental College in…",
+   "o": [
+    "1857",
+    "1875",
+    "1885",
+    "1920"
+   ],
+   "a": 1,
+   "w": "Founded 1875; it became AMU in 1920."
+  },
+  {
+   "q": "Sir Syed's book on the causes of the 1857 revolt blamed mainly…",
+   "o": [
+    "Muslim leaders",
+    "Lack of Indians in the legislature",
+    "Hindu reformers",
+    "The Mughal court"
+   ],
+   "a": 1,
+   "w": "Asbab-e-Baghawat-e-Hind blamed British policy, including no Indian voice in the legislature."
+  },
+  {
+   "q": "Aurobindo's 'New Lamps for Old' attacked…",
+   "o": [
+    "British education",
+    "The Moderates' politics",
+    "Caste practices",
+    "Muslim League"
+   ],
+   "a": 1,
+   "w": "It criticised the Moderates' petition-based politics."
+  },
+  {
+   "q": "Aurobindo was tried and acquitted in the…",
+   "o": [
+    "Meerut Conspiracy Case",
+    "Alipore Bomb Case",
+    "Kakori Case",
+    "Lahore Conspiracy Case"
+   ],
+   "a": 1,
+   "w": "The Alipore Bomb Case, 1908–09."
+  },
+  {
+   "q": "Sir Syed's journal for social reform was…",
+   "o": [
+    "Al-Hilal",
+    "Tahzib-ul-Akhlaq",
+    "Comrade",
+    "Kesari"
+   ],
+   "a": 1,
+   "w": "Tahzib-ul-Akhlaq, started in 1870. Al-Hilal was Maulana Azad's paper."
+  },
+  {
+   "q": "Sir Syed's opponents mocked his rationalism with the label…",
+   "o": [
+    "Kafir",
+    "Nechari",
+    "Wahhabi",
+    "Sufi"
+   ],
+   "a": 1,
+   "w": "From 'nature': they called him a naturalist."
+  },
+  {
+   "q": "Aurobindo's paper during the Swadeshi movement was…",
+   "o": [
+    "Kesari",
+    "Bande Mataram",
+    "Young India",
+    "Amrita Bazar Patrika"
+   ],
+   "a": 1,
+   "w": "He wrote for Bande Mataram."
+  },
+  {
+   "q": "Aurobindo went to Pondicherry in…",
+   "o": [
+    "1905",
+    "1908",
+    "1910",
+    "1926"
+   ],
+   "a": 2,
+   "w": "1910; the Ashram was formally founded in 1926."
+  },
+  {
+   "q": "Sir Syed's Scientific Society was founded in…",
+   "o": [
+    "1859",
+    "1864",
+    "1875",
+    "1886"
+   ],
+   "a": 1,
+   "w": "1864, to translate Western works into Urdu."
+  },
+  {
+   "q": "Aurobindo's later works on human unity include…",
+   "o": [
+    "Hind Swaraj",
+    "The Ideal of Human Unity",
+    "Discovery of India",
+    "Gitanjali"
+   ],
+   "a": 1,
+   "w": "Along with The Human Cycle."
+  }
  ],
- "sources": ["Sir Syed Ahmed Khan, Asbab-e-Baghawat-e-Hind (1859)", "David Lelyveld, Aligarh's First Generation (1978)", "Sri Aurobindo, New Lamps for Old (1893–94); The Doctrine of Passive Resistance (1907)", "Sri Aurobindo, The Ideal of Human Unity; The Human Cycle", "Supreme Court, AMU v. Naresh Agarwal, seven-judge bench (8 Nov 2024)", "PYQ themes: Aurobindo's nationalism; Sir Syed on education and politics (Paper I)"],
+ "sources": [
+  "Sir Syed Ahmed Khan, Asbab-e-Baghawat-e-Hind (1859)",
+  "David Lelyveld, Aligarh's First Generation (1978)",
+  "Sri Aurobindo, New Lamps for Old (1893–94); The Doctrine of Passive Resistance (1907)",
+  "Sri Aurobindo, The Ideal of Human Unity; The Human Cycle",
+  "Supreme Court, AMU v. Naresh Agarwal, seven-judge bench (8 Nov 2024)",
+  "PYQ themes: Aurobindo's nationalism; Sir Syed on education and politics (Paper I)"
+ ],
  "verified": "2026-11-10"
 }

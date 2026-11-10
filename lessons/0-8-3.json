@@ -3,24 +3,183 @@
  "title": "M.K. Gandhi",
  "emoji": "🪔",
  "cards": [
-  {"tag": "Why this matters", "h": "India's most-asked thinker", "b": "<p>Mohandas Karamchand Gandhi (1869–1948) is among the top thinkers in Paper I questions, alongside Marx, Rawls and Ambedkar.</p><p>He was a lawyer trained in London who found his politics in <b>South Africa</b> (1893–1914), fighting racial laws. He led India's mass movements from 1919 to 1947.</p><p>His key text is <b>Hind Swaraj</b> (1909), written on board a ship from London to South Africa. Gandhi said he never changed its basic message.</p>"},
-  {"tag": "Core idea", "h": "Truth and non-violence", "b": "<p>Gandhi's whole thought rests on two ideas.</p><div class=\"box\"><h4>Satya (truth)</h4>At first he said \"God is Truth\". Later he reversed it: \"Truth is God\". This let atheists share the search too.</div><div class=\"box\"><h4>Ahimsa (non-violence)</h4>Not just not killing, but no ill will toward anyone. It is the means to truth.</div><p>For Gandhi, means and ends are linked like seed and tree. Impure means cannot give a pure end.</p>"},
-  {"tag": "Key idea", "h": "Satyagraha", "b": "<p><b>Satyagraha</b> means \"holding on to truth\", or soul-force. Gandhi first used it in South Africa in 1906, against a law forcing Indians to register.</p><p>It is not \"passive resistance\", which he called the weapon of the weak. Satyagraha is active, and is for the brave.</p><p>The satyagrahi does not hate the opponent. They accept suffering on themselves to <b>convert</b> the opponent's heart, not coerce them. Methods include non-cooperation, civil disobedience, fasting and hartal.</p>"},
-  {"tag": "Key idea", "h": "Hind Swaraj: a critique of modern civilisation", "b": "<p>In <i>Hind Swaraj</i>, Gandhi said India was enslaved not by the British but by <b>modern civilisation</b> itself.</p><ul><li>Railways spread plague and famine.</li><li>Lawyers and doctors profit from conflict and illness.</li><li>Machinery makes people slaves of wants.</li></ul><p>Swaraj does not mean \"English rule without the Englishman\". It means <b>self-rule</b>: rule over oneself.</p><p><b>Anthony Parel</b>, editor of the standard edition, calls it Gandhi's \"seminal work\".</p>"},
-  {"tag": "Key idea", "h": "The Gandhian state", "b": "<p>Gandhi called himself a \"philosophical anarchist\". The state, he said, represents <b>violence</b> in a concentrated form.</p><p>His ideal was <b>Ram Rajya</b>: rule of moral law, where people govern themselves.</p><p>He imagined \"<b>oceanic circles</b>\" of self-reliant villages. Instead of a pyramid with the apex on top, power would spread out from the individual to the village and outward, with the outer circle serving the inner.</p><p>He accepted that a minimal state would be needed in practice, with as few functions as possible.</p>"},
-  {"tag": "Key idea", "h": "Trusteeship and economy", "b": "<ul><li><b>Trusteeship:</b> the rich should hold wealth as trustees for society, keeping only what they need. Gandhi hoped to change hearts, not seize property.</li><li><b>Swadeshi:</b> use local goods and serve your neighbours first. The <b>charkha</b> (spinning wheel) was its symbol.</li><li><b>Bread labour:</b> everyone should do some physical work. He took this from Tolstoy and Ruskin.</li><li><b>Sarvodaya:</b> welfare of all. The word comes from his 1908 Gujarati paraphrase of Ruskin's <i>Unto This Last</i>.</li></ul>"},
-  {"tag": "Key idea", "h": "Gandhi on caste and religion", "b": "<p>Gandhi fought <b>untouchability</b>, calling untouchables <b>Harijans</b> (people of God), and founded the Harijan Sevak Sangh (1932). Dalit leaders found the name patronising.</p><p>Early on, he defended <b>varna</b> as a division of labour, while rejecting the idea of high and low. This set him against Ambedkar.</p><p>On religion, he believed in <b>sarva dharma samabhava</b>, equal respect for all religions. He was killed in 1948 by Nathuram Godse, a Hindu nationalist.</p>"},
-  {"tag": "Critique", "h": "Saint, strategist or reactionary?", "b": "<ul><li><b>Ambedkar</b>, in <i>What Congress and Gandhi Have Done to the Untouchables</i> (1945), attacked Gandhi's defence of varna and the Poona Pact.</li><li><b>Marxists</b> like R. Palme Dutt said he protected Indian capitalists through trusteeship.</li><li><b>Nehru</b> found Hind Swaraj's rejection of industry unworkable.</li><li><b>Bhikhu Parekh</b> praises his moral politics but questions his views on sexuality and celibacy.</li><li><b>Partha Chatterjee</b> called Gandhian thought a \"moment of manoeuvre\" that mobilised peasants while keeping elite control.</li></ul>"},
-  {"tag": "Indian angle", "h": "Gandhi in the Constitution and beyond", "b": "<p>Gandhian ideas sit mainly in the <b>Directive Principles</b>: Article 40 (village panchayats), Article 43 (cottage industries), Article 47 (prohibition) and Article 48 (protecting cows).</p><p>The <b>73rd Amendment</b> (1992) gave panchayats constitutional status, partly fulfilling his vision.</p><p>Worldwide, Martin Luther King Jr., Nelson Mandela and Aung San Suu Kyi drew on satyagraha. Since 2007, the UN marks <b>2 October</b> as the International Day of Non-Violence.</p>"},
-  {"tag": "Exam lens", "cls": "exam", "h": "How UPSC asks this", "b": "<div class=\"box\">\"Gandhi's satyagraha is a moral and political weapon.\" Discuss.</div><div class=\"box\">\"Discuss Gandhi's critique of modern civilisation in Hind Swaraj.\"</div><div class=\"box\">\"Is Gandhi a philosophical anarchist?\"</div><p><b>Structure:</b> truth and ahimsa, means and ends, satyagraha, Hind Swaraj, the oceanic-circle state, trusteeship. Then the Ambedkar and Marxist critiques. End with Gandhi in the DPSPs and global movements.</p>"}
+  {
+   "tag": "Why this matters",
+   "h": "India's most-asked thinker",
+   "b": "<p>Mohandas Karamchand Gandhi (1869–1948) is among the top thinkers in Paper I questions, alongside Marx, Rawls and Ambedkar.</p><p>He was a lawyer trained in London who found his politics in <b>South Africa</b> (1893–1914), fighting racial laws. He led India's mass movements from 1919 to 1947.</p><p>His key text is <b>Hind Swaraj</b> (1909), written on board a ship from London to South Africa. Gandhi said he never changed its basic message.</p>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "Truth and non-violence",
+   "b": "<p>Gandhi's whole thought rests on two ideas.</p><div class=\"box\"><h4>Satya (truth)</h4>At first he said \"God is Truth\". Later he reversed it: \"Truth is God\". This let atheists share the search too.</div><div class=\"box\"><h4>Ahimsa (non-violence)</h4>Not just not killing, but no ill will toward anyone. It is the means to truth.</div><p>For Gandhi, means and ends are linked like seed and tree. Impure means cannot give a pure end.</p>"
+  },
+  {
+   "tag": "Key idea",
+   "h": "Satyagraha",
+   "b": "<p><b>Satyagraha</b> means \"holding on to truth\", or soul-force. Gandhi first used it in South Africa in 1906, against a law forcing Indians to register.</p><p>It is not \"passive resistance\", which he called the weapon of the weak. Satyagraha is active, and is for the brave.</p><p>The satyagrahi does not hate the opponent. They accept suffering on themselves to <b>convert</b> the opponent's heart, not coerce them. Methods include non-cooperation, civil disobedience, fasting and hartal.</p>"
+  },
+  {
+   "tag": "Key idea",
+   "h": "Hind Swaraj: a critique of modern civilisation",
+   "b": "<p>In <i>Hind Swaraj</i>, Gandhi said India was enslaved not by the British but by <b>modern civilisation</b> itself.</p><ul><li>Railways spread plague and famine.</li><li>Lawyers and doctors profit from conflict and illness.</li><li>Machinery makes people slaves of wants.</li></ul><p>Swaraj does not mean \"English rule without the Englishman\". It means <b>self-rule</b>: rule over oneself.</p><p><b>Anthony Parel</b>, editor of the standard edition (1997), treats it as the key to all of Gandhi's later thought.</p>"
+  },
+  {
+   "tag": "Key idea",
+   "h": "The Gandhian state",
+   "b": "<p>Gandhi is often called a \"philosophical anarchist\". The state, he said, represents <b>violence</b> in a concentrated form.</p><p>His ideal was <b>Ram Rajya</b>: rule of moral law, where people govern themselves.</p><p>He imagined \"<b>oceanic circles</b>\" of self-reliant villages. It would not be a pyramid with power at the top. Power would spread outward from the individual to the village and beyond. The outer circles would serve the inner ones, not rule them.</p><p>He accepted that a minimal state would be needed in practice, with as few functions as possible.</p>"
+  },
+  {
+   "tag": "Key idea",
+   "h": "Trusteeship and economy",
+   "b": "<ul><li><b>Trusteeship:</b> the rich should hold wealth as trustees for society, keeping only what they need. Gandhi hoped to change hearts, not seize property.</li><li><b>Swadeshi:</b> use local goods and serve your neighbours first. The <b>charkha</b> (spinning wheel) was its symbol.</li><li><b>Bread labour:</b> everyone should do some physical work. He took this from Tolstoy and Ruskin.</li><li><b>Sarvodaya:</b> welfare of all. The word comes from his 1908 Gujarati paraphrase of Ruskin's <i>Unto This Last</i>.</li></ul>"
+  },
+  {
+   "tag": "Key idea",
+   "h": "Gandhi on caste and religion",
+   "b": "<p>Gandhi fought <b>untouchability</b>, calling untouchables <b>Harijans</b> (people of God), and founded the Harijan Sevak Sangh (1932). Dalit leaders found the name patronising.</p><p>Early on, he defended <b>varna</b> as a division of labour, while rejecting the idea of high and low. This set him against Ambedkar.</p><p>On religion, he believed in <b>sarva dharma samabhava</b>, equal respect for all religions. He was killed in 1948 by Nathuram Godse, a Hindu nationalist.</p>"
+  },
+  {
+   "tag": "Critique",
+   "h": "Saint, strategist or reactionary?",
+   "b": "<ul><li><b>Ambedkar</b>, in <i>What Congress and Gandhi Have Done to the Untouchables</i> (1945), attacked Gandhi's defence of varna and the Poona Pact.</li><li><b>Marxists</b> like R. Palme Dutt said he protected Indian capitalists through trusteeship.</li><li><b>Nehru</b> found Hind Swaraj's rejection of industry unworkable.</li><li><b>Bhikhu Parekh</b> praises his moral politics but questions his views on sexuality and celibacy.</li><li><b>Partha Chatterjee</b> called Gandhian thought a \"moment of manoeuvre\" that mobilised peasants while keeping elite control.</li></ul>"
+  },
+  {
+   "tag": "Key idea",
+   "h": "Gandhi's movements in practice",
+   "b": "<p>Gandhi tested his ideas in real campaigns:</p><ul><li><b>Champaran</b> (1917): indigo farmers in Bihar against forced cultivation. His first satyagraha in India.</li><li><b>Kheda</b> and <b>Ahmedabad</b> (1918): peasants' revenue relief and a mill workers' strike.</li><li><b>Non-Cooperation</b> (1920–22): boycott of courts, schools and foreign cloth. He called it off after the violence at <b>Chauri Chaura</b> in February 1922.</li><li><b>Civil Disobedience</b> (1930–34): began with the <b>Dandi March</b> against the salt law.</li><li><b>Quit India</b> (1942): \"Do or die.\"</li></ul><p>Note the pattern. Gandhi chose <b>symbolic</b> issues, like salt, that every Indian could join. He also kept tight control, and withdrew when violence broke out. Critics saw this as caution; he saw it as fidelity to ahimsa.</p>"
+  },
+  {
+   "tag": "Indian angle",
+   "h": "Gandhi in the Constitution and beyond",
+   "b": "<p>Gandhian ideas sit mainly in the <b>Directive Principles</b>: Article 40 (village panchayats), Article 43 (cottage industries), Article 47 (prohibition) and Article 48 (protecting cows).</p><p>The <b>73rd Amendment</b> (1992) gave panchayats constitutional status, partly fulfilling his vision.</p><p>Worldwide, Martin Luther King Jr., Nelson Mandela and Aung San Suu Kyi drew on satyagraha. Since 2007, the UN marks <b>2 October</b> as the International Day of Non-Violence.</p>"
+  },
+  {
+   "tag": "Exam lens",
+   "cls": "exam",
+   "h": "How UPSC asks this",
+   "b": "<div class=\"box\">\"Gandhi's satyagraha is a moral and political weapon.\" Discuss.</div><div class=\"box\">\"Discuss Gandhi's critique of modern civilisation in Hind Swaraj.\"</div><div class=\"box\">\"Is Gandhi a philosophical anarchist?\"</div><p><b>Structure:</b> truth and ahimsa, means and ends, satyagraha, Hind Swaraj, the oceanic-circle state, trusteeship. Then the Ambedkar and Marxist critiques. End with Gandhi in the DPSPs and global movements.</p>"
+  }
  ],
  "quiz": [
-  {"q": "Hind Swaraj was written in…", "o": ["1906", "1909", "1919", "1931"], "a": 1, "w": "1909, on board a ship from London to South Africa."},
-  {"q": "Gandhi described his ideal political order as…", "o": ["A pyramid of power", "Oceanic circles", "A federal union", "A dictatorship of virtue"], "a": 1, "w": "Power spreads out in oceanic circles from the individual and village."},
-  {"q": "The word 'sarvodaya' came from Gandhi's paraphrase of…", "o": ["Tolstoy's The Kingdom of God Is Within You", "Ruskin's Unto This Last", "Thoreau's Civil Disobedience", "The Bhagavad Gita"], "a": 1, "w": "He paraphrased Ruskin's Unto This Last as Sarvodaya in 1908."},
-  {"q": "Which Article reflects Gandhi's idea of village panchayats?", "o": ["Article 38", "Article 40", "Article 44", "Article 51"], "a": 1, "w": "Article 40 directs the state to organise village panchayats."},
-  {"q": "Gandhi called passive resistance…", "o": ["The highest form of satyagraha", "A weapon of the weak", "Identical to ahimsa", "The method of trusteeship"], "a": 1, "w": "He distinguished satyagraha, a weapon of the strong, from passive resistance."}
+  {
+   "q": "Hind Swaraj was written in…",
+   "o": [
+    "1906",
+    "1909",
+    "1919",
+    "1931"
+   ],
+   "a": 1,
+   "w": "1909, on board a ship from London to South Africa."
+  },
+  {
+   "q": "Gandhi described his ideal political order as…",
+   "o": [
+    "A pyramid of power",
+    "Oceanic circles",
+    "A federal union",
+    "A dictatorship of virtue"
+   ],
+   "a": 1,
+   "w": "Power spreads out in oceanic circles from the individual and village."
+  },
+  {
+   "q": "The word 'sarvodaya' came from Gandhi's paraphrase of…",
+   "o": [
+    "Tolstoy's The Kingdom of God Is Within You",
+    "Ruskin's Unto This Last",
+    "Thoreau's Civil Disobedience",
+    "The Bhagavad Gita"
+   ],
+   "a": 1,
+   "w": "He paraphrased Ruskin's Unto This Last as Sarvodaya in 1908."
+  },
+  {
+   "q": "Which Article reflects Gandhi's idea of village panchayats?",
+   "o": [
+    "Article 38",
+    "Article 40",
+    "Article 44",
+    "Article 51"
+   ],
+   "a": 1,
+   "w": "Article 40 directs the state to organise village panchayats."
+  },
+  {
+   "q": "Gandhi called passive resistance…",
+   "o": [
+    "The highest form of satyagraha",
+    "A weapon of the weak",
+    "Identical to ahimsa",
+    "The method of trusteeship"
+   ],
+   "a": 1,
+   "w": "He distinguished satyagraha, a weapon of the strong, from passive resistance."
+  },
+  {
+   "q": "Gandhi's first satyagraha in India was at…",
+   "o": [
+    "Kheda",
+    "Champaran",
+    "Bardoli",
+    "Dandi"
+   ],
+   "a": 1,
+   "w": "Champaran, 1917, for indigo farmers."
+  },
+  {
+   "q": "Gandhi withdrew Non-Cooperation after…",
+   "o": [
+    "Jallianwala Bagh",
+    "Chauri Chaura",
+    "The Simon Commission",
+    "Moplah rebellion"
+   ],
+   "a": 1,
+   "w": "Violence at Chauri Chaura in February 1922."
+  },
+  {
+   "q": "Trusteeship asks the rich to…",
+   "o": [
+    "Surrender all property to the state",
+    "Hold wealth for the good of society",
+    "Pay higher taxes only",
+    "Leave the country"
+   ],
+   "a": 1,
+   "w": "Keep what they need and hold the rest in trust."
+  },
+  {
+   "q": "Bread labour was drawn from…",
+   "o": [
+    "Marx and Engels",
+    "Tolstoy and Ruskin",
+    "Thoreau and Emerson",
+    "Tilak"
+   ],
+   "a": 1,
+   "w": "Everyone should do some physical work."
+  },
+  {
+   "q": "'Truth is God' was Gandhi's later reversal of…",
+   "o": [
+    "God is Love",
+    "God is Truth",
+    "Truth is Power",
+    "Ahimsa is God"
+   ],
+   "a": 1,
+   "w": "It let even atheists join the search for truth."
+  }
  ],
- "sources": ["M.K. Gandhi, Hind Swaraj (1909), ed. Anthony Parel (Cambridge, 1997)", "M.K. Gandhi, Satyagraha in South Africa (1928); An Autobiography (1927–29)", "Gandhi, 'Independence', Harijan, 28 July 1946 (oceanic circles)", "B.R. Ambedkar, What Congress and Gandhi Have Done to the Untouchables (1945)", "Bhikhu Parekh, Gandhi's Political Philosophy (1989)", "Constitution of India, Arts. 40, 43, 47, 48; UNGA Res. 61/271 (2007)", "PYQ themes: satyagraha, Hind Swaraj, Gandhian state (Paper I, near every year)"],
+ "sources": [
+  "M.K. Gandhi, Hind Swaraj (1909), ed. Anthony Parel (Cambridge, 1997)",
+  "M.K. Gandhi, Satyagraha in South Africa (1928); An Autobiography (1927–29)",
+  "Gandhi, 'Independence', Harijan, 28 July 1946 (oceanic circles)",
+  "B.R. Ambedkar, What Congress and Gandhi Have Done to the Untouchables (1945)",
+  "Bhikhu Parekh, Gandhi's Political Philosophy (1989)",
+  "Constitution of India, Arts. 40, 43, 47, 48; UNGA Res. 61/271 (2007)",
+  "PYQ themes: satyagraha, Hind Swaraj, Gandhian state (Paper I, near every year)"
+ ],
  "verified": "2026-11-10"
 }

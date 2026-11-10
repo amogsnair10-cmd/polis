@@ -3,24 +3,182 @@
  "title": "Kautilya's Arthashastra",
  "emoji": "🐘",
  "cards": [
-  {"tag": "Why this matters", "h": "India's great book of statecraft", "b": "<p>The <b>Arthashastra</b> is a detailed manual on how to run a state: its economy, army, spies, laws and foreign policy. Tradition credits it to <b>Kautilya</b>, also called Chanakya or Vishnugupta, the minister of <b>Chandragupta Maurya</b> (c. 4th century BCE).</p><p>The text was lost for centuries. <b>R. Shamasastry</b> found a manuscript and published it in 1909, with an English translation in 1915.</p><p>Scholars such as <b>Thomas Trautmann</b> and <b>Patrick Olivelle</b> think the text we have was compiled and revised over time, reaching its final form around the early centuries CE.</p>"},
-  {"tag": "Core idea", "h": "Artha: the science of wealth and power", "b": "<p><b>Artha</b> means material well-being. Kautilya says artha is the most important of the three goals of life (dharma, artha and kama), because the other two depend on it.</p><p>The state's job is to gain and protect territory and to bring <b>yogakshema</b>, the welfare and security of its people.</p><div class=\"quote\">\"In the happiness of his subjects lies the happiness of the king.\"</div><div class=\"who\">Arthashastra 1.19</div><p>So Kautilya's realism serves welfare, not just the ruler's ego.</p>"},
-  {"tag": "Key idea", "h": "Saptanga: the seven limbs", "b": "<svg class=\"d\" viewBox=\"0 0 320 170\"><circle cx=\"160\" cy=\"85\" r=\"30\" fill=\"#f1e4c6\" stroke=\"#a8792a\"/><text x=\"160\" y=\"82\" fill=\"#1d2433\" font-size=\"11\" text-anchor=\"middle\" font-weight=\"700\">Swami</text><text x=\"160\" y=\"96\" fill=\"#5d6474\" font-size=\"9\" text-anchor=\"middle\">king</text><g font-size=\"11\" fill=\"#1d2433\" text-anchor=\"middle\"><text x=\"160\" y=\"24\">Amatya · ministers</text><text x=\"272\" y=\"56\">Janapada</text><text x=\"272\" y=\"68\" fill=\"#5d6474\" font-size=\"9\">land + people</text><text x=\"276\" y=\"124\">Durga · fort</text><text x=\"160\" y=\"156\">Kosha · treasury</text><text x=\"46\" y=\"124\">Danda · army</text><text x=\"46\" y=\"62\">Mitra · ally</text></g></svg><p>A state has seven limbs, in order of importance: <b>swami</b> (king), <b>amatya</b> (ministers), <b>janapada</b> (territory and people), <b>durga</b> (fortified city), <b>kosha</b> (treasury), <b>danda</b> (army) and <b>mitra</b> (ally). It is an organic view: if one limb fails, the whole body suffers.</p>"},
-  {"tag": "Key idea", "h": "Mandala: the circle of states", "b": "<svg class=\"d\" viewBox=\"0 0 320 120\"><g text-anchor=\"middle\" font-size=\"10\"><circle cx=\"40\" cy=\"60\" r=\"24\" fill=\"#f1e4c6\" stroke=\"#a8792a\"/><text x=\"40\" y=\"58\" fill=\"#1d2433\" font-weight=\"700\">Vijigishu</text><text x=\"40\" y=\"70\" fill=\"#5d6474\" font-size=\"8\">conqueror</text><circle cx=\"110\" cy=\"60\" r=\"24\" fill=\"#f4dcd5\" stroke=\"#a3362a\"/><text x=\"110\" y=\"58\" fill=\"#1d2433\" font-weight=\"700\">Ari</text><text x=\"110\" y=\"70\" fill=\"#5d6474\" font-size=\"8\">enemy</text><circle cx=\"180\" cy=\"60\" r=\"24\" fill=\"#dceaec\" stroke=\"#2f6f7a\"/><text x=\"180\" y=\"58\" fill=\"#1d2433\" font-weight=\"700\">Mitra</text><text x=\"180\" y=\"70\" fill=\"#5d6474\" font-size=\"8\">friend</text><circle cx=\"250\" cy=\"60\" r=\"24\" fill=\"#f4dcd5\" stroke=\"#a3362a\"/><text x=\"250\" y=\"58\" fill=\"#1d2433\" font-weight=\"700\">Ari-mitra</text><text x=\"250\" y=\"70\" fill=\"#5d6474\" font-size=\"8\">enemy's friend</text><text x=\"300\" y=\"64\" fill=\"#5d6474\" font-size=\"14\">…</text><text x=\"160\" y=\"112\" fill=\"#5d6474\">Neighbour = enemy · neighbour's neighbour = friend</text></g></svg><p>The <b>mandala</b> theory places the would-be conqueror (<b>vijigishu</b>) at the centre of a circle of states. The immediate neighbour is a natural <b>enemy</b>, and the state beyond is a natural <b>friend</b>. Two more states matter: the <b>madhyama</b> (middle king) and the <b>udasina</b> (neutral, more powerful king).</p>"},
-  {"tag": "Key idea", "h": "Shadgunya: six policies", "b": "<p>Kautilya lists six measures of foreign policy:</p><ul><li><b>Sandhi:</b> peace or treaty.</li><li><b>Vigraha:</b> hostility or war.</li><li><b>Asana:</b> staying quiet, watching.</li><li><b>Yana:</b> marching, preparing to attack.</li><li><b>Samshraya:</b> seeking shelter with a stronger power.</li><li><b>Dvaidhibhava:</b> the double policy: peace with one, war with another.</li></ul><p>The choice depends on whether you are weaker, equal or stronger. He also lists four means: <b>sama</b> (persuasion), <b>dana</b> (gifts), <b>bheda</b> (division) and <b>danda</b> (force).</p>"},
-  {"tag": "Key idea", "h": "Administration and spies", "b": "<ul><li>A large salaried <b>bureaucracy</b> with superintendents (adhyakshas) for mines, trade, forests and more.</li><li>A strong <b>treasury</b>: \"all undertakings depend on the treasury.\"</li><li>A detailed network of <b>spies</b> (gudhapurushas) to test ministers and watch the public.</li><li><b>Testing ministers</b> (upadha) through temptations of dharma, wealth, desire and fear.</li><li>The king's day is divided into sixteen parts, each with set duties.</li></ul><p>Max Weber said that compared with this book, Machiavelli's <i>Prince</i> is harmless.</p>"},
-  {"tag": "Key idea", "h": "Law and justice", "b": "<p>Kautilya names four sources of law: <b>dharma</b> (sacred law), <b>vyavahara</b> (evidence and transactions), <b>charitra</b> (custom) and <b>rajashasana</b> (the king's edict).</p><p>Strikingly, he says that when they conflict, the king's edict, if based on justice, prevails. This raises the state's authority above tradition.</p><p>Punishment should be neither too harsh nor too mild. Too harsh, and people fear the king. Too mild, and people despise him. Just punishment brings dharma, artha and kama.</p>"},
-  {"tag": "Debate", "h": "Kautilya and Machiavelli", "b": "<ul><li>Both are <b>realists</b>. Both put the state's survival first and accept deceit and force.</li><li>Kautilya is far more <b>comprehensive</b>: economy, law, welfare and war. Machiavelli wrote a short book of advice.</li><li>Kautilya ties the king to <b>dharma</b> and welfare. Machiavelli separates politics from Christian ethics.</li><li>Kautilya wanted <b>stability and expansion</b>; Machiavelli wanted Italian unity in a crisis.</li></ul><p>Some scholars call Kautilya India's first theorist of a <b>welfare state</b>.</p>"},
-  {"tag": "Indian angle", "h": "Kautilya in modern India", "b": "<p>India's diplomatic enclave in New Delhi is called <b>Chanakyapuri</b>.</p><p>Strategic thinkers use the mandala idea to read India's neighbourhood: hostile neighbours (Pakistan, at times China) and the value of friends beyond them, such as Afghanistan, Iran, the Central Asian states and the Indo-Pacific partners.</p><p><b>Shivshankar Menon</b>, a former National Security Adviser, and analysts at the Institute for Defence Studies and Analyses (IDSA) have written on Kautilya's relevance to Indian strategy.</p>"},
-  {"tag": "Exam lens", "cls": "exam", "h": "How UPSC asks this", "b": "<div class=\"box\">\"Discuss Kautilya's saptanga theory of the state.\"</div><div class=\"box\">\"Examine the relevance of Kautilya's mandala theory to India's foreign policy.\"</div><div class=\"box\">\"Compare Kautilya and Machiavelli.\"</div><p><b>Structure:</b> text and dating, artha and yogakshema, saptanga (draw it), mandala (draw it), shadgunya, administration. End with modern relevance through Chanakyapuri and the neighbourhood policy.</p>"}
+  {
+   "tag": "Why this matters",
+   "h": "India's great book of statecraft",
+   "b": "<p>The <b>Arthashastra</b> is a detailed manual on how to run a state: its economy, army, spies, laws and foreign policy. Tradition credits it to <b>Kautilya</b>, also called Chanakya or Vishnugupta, the minister of <b>Chandragupta Maurya</b> (c. 4th century BCE).</p><p>The text was lost for centuries. <b>R. Shamasastry</b> found a manuscript and published it in 1909, with an English translation in 1915.</p><p>Scholars such as <b>Thomas Trautmann</b> and <b>Patrick Olivelle</b> think the text we have was compiled and revised over time, reaching its final form around the early centuries CE.</p>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "Artha: the science of wealth and power",
+   "b": "<p><b>Artha</b> means material well-being. Kautilya says artha is the most important of the three goals of life (dharma, artha and kama), because the other two depend on it.</p><p>The state's job is to gain and protect territory and to bring <b>yogakshema</b>, the welfare and security of its people.</p><div class=\"quote\">\"In the happiness of his subjects lies the happiness of the king.\"</div><div class=\"who\">Arthashastra 1.19</div><p>So Kautilya's realism serves welfare, not just the ruler's ego.</p>"
+  },
+  {
+   "tag": "Key idea",
+   "h": "Saptanga: the seven limbs",
+   "b": "<svg class=\"d\" viewBox=\"0 0 320 170\"><circle cx=\"160\" cy=\"85\" r=\"30\" fill=\"#f1e4c6\" stroke=\"#a8792a\"/><text x=\"160\" y=\"82\" fill=\"#1d2433\" font-size=\"11\" text-anchor=\"middle\" font-weight=\"700\">Swami</text><text x=\"160\" y=\"96\" fill=\"#5d6474\" font-size=\"9\" text-anchor=\"middle\">king</text><g font-size=\"11\" fill=\"#1d2433\" text-anchor=\"middle\"><text x=\"160\" y=\"24\">Amatya · ministers</text><text x=\"272\" y=\"56\">Janapada</text><text x=\"272\" y=\"68\" fill=\"#5d6474\" font-size=\"9\">land + people</text><text x=\"276\" y=\"124\">Durga · fort</text><text x=\"160\" y=\"156\">Kosha · treasury</text><text x=\"46\" y=\"124\">Danda · army</text><text x=\"46\" y=\"62\">Mitra · ally</text></g></svg><p>A state has seven limbs, in order of importance: <b>swami</b> (king), <b>amatya</b> (ministers), <b>janapada</b> (territory and people), <b>durga</b> (fortified city), <b>kosha</b> (treasury), <b>danda</b> (army) and <b>mitra</b> (ally). It is an organic view: if one limb fails, the whole body suffers.</p>"
+  },
+  {
+   "tag": "Key idea",
+   "h": "Mandala: the circle of states",
+   "b": "<svg class=\"d\" viewBox=\"0 0 320 120\"><g text-anchor=\"middle\" font-size=\"10\"><circle cx=\"40\" cy=\"60\" r=\"24\" fill=\"#f1e4c6\" stroke=\"#a8792a\"/><text x=\"40\" y=\"58\" fill=\"#1d2433\" font-weight=\"700\">Vijigishu</text><text x=\"40\" y=\"70\" fill=\"#5d6474\" font-size=\"8\">conqueror</text><circle cx=\"110\" cy=\"60\" r=\"24\" fill=\"#f4dcd5\" stroke=\"#a3362a\"/><text x=\"110\" y=\"58\" fill=\"#1d2433\" font-weight=\"700\">Ari</text><text x=\"110\" y=\"70\" fill=\"#5d6474\" font-size=\"8\">enemy</text><circle cx=\"180\" cy=\"60\" r=\"24\" fill=\"#dceaec\" stroke=\"#2f6f7a\"/><text x=\"180\" y=\"58\" fill=\"#1d2433\" font-weight=\"700\">Mitra</text><text x=\"180\" y=\"70\" fill=\"#5d6474\" font-size=\"8\">friend</text><circle cx=\"250\" cy=\"60\" r=\"24\" fill=\"#f4dcd5\" stroke=\"#a3362a\"/><text x=\"250\" y=\"58\" fill=\"#1d2433\" font-weight=\"700\">Ari-mitra</text><text x=\"250\" y=\"70\" fill=\"#5d6474\" font-size=\"8\">enemy's friend</text><text x=\"300\" y=\"64\" fill=\"#5d6474\" font-size=\"14\">…</text><text x=\"160\" y=\"112\" fill=\"#5d6474\">Neighbour = enemy · neighbour's neighbour = friend</text></g></svg><p>The diagram shows one line of the circle. The <b>mandala</b> theory places the would-be conqueror (<b>vijigishu</b>) at the centre of a circle of states. The immediate neighbour is a natural <b>enemy</b>, and the state beyond is a natural <b>friend</b>. Two more states matter: the <b>madhyama</b> (middle king) and the <b>udasina</b> (a neutral king stronger than both).</p>"
+  },
+  {
+   "tag": "Key idea",
+   "h": "Shadgunya: six policies",
+   "b": "<p>Kautilya lists six measures of foreign policy:</p><ul><li><b>Sandhi:</b> peace or treaty.</li><li><b>Vigraha:</b> hostility or war.</li><li><b>Asana:</b> staying quiet, watching.</li><li><b>Yana:</b> marching, preparing to attack.</li><li><b>Samshraya:</b> seeking shelter with a stronger power.</li><li><b>Dvaidhibhava:</b> the double policy: peace with one, war with another.</li></ul><p>The choice depends on whether you are weaker, equal or stronger. He also lists four means: <b>sama</b> (persuasion), <b>dana</b> (gifts), <b>bheda</b> (division) and <b>danda</b> (force).</p>"
+  },
+  {
+   "tag": "Key idea",
+   "h": "Administration and spies",
+   "b": "<ul><li>A large salaried <b>bureaucracy</b> with superintendents (adhyakshas) for mines, trade, forests and more.</li><li>A strong <b>treasury</b>: \"all undertakings depend on the treasury.\"</li><li>A detailed network of <b>spies</b> (gudhapurushas) to test ministers and watch the public.</li><li><b>Testing ministers</b> (upadha) through temptations of dharma, wealth, desire and fear.</li><li>The king's day is divided into sixteen parts, each with set duties.</li></ul><p>Max Weber said that compared with this book, Machiavelli's <i>Prince</i> is harmless.</p>"
+  },
+  {
+   "tag": "Key idea",
+   "h": "Law and justice",
+   "b": "<p>Kautilya names four sources of law: <b>dharma</b> (sacred law), <b>vyavahara</b> (evidence and transactions), <b>charitra</b> (custom) and <b>rajashasana</b> (the king's edict).</p><p>Strikingly, he says that when they conflict, the king's edict, if based on justice, prevails. This raises the state's authority above tradition.</p><p>Punishment should be neither too harsh nor too mild. Too harsh, and people fear the king. Too mild, and people despise him. Just punishment brings dharma, artha and kama.</p>"
+  },
+  {
+   "tag": "Debate",
+   "h": "Kautilya and Machiavelli",
+   "b": "<ul><li>Both are <b>realists</b>. Both put the state's survival first and accept deceit and force.</li><li>Kautilya is far more <b>comprehensive</b>: economy, law, welfare and war. Machiavelli wrote a short book of advice.</li><li>Kautilya ties the king to <b>dharma</b> and welfare. Machiavelli separates politics from Christian ethics.</li><li>Kautilya wanted <b>stability and expansion</b>; Machiavelli wanted Italian unity in a crisis.</li></ul><p>Some scholars call Kautilya India's first theorist of a <b>welfare state</b>.</p>"
+  },
+  {
+   "tag": "Key idea",
+   "h": "Economy and welfare in the Arthashastra",
+   "b": "<p>The Arthashastra imagines an active, almost <b>interventionist</b> state.</p><ul><li>The state runs <b>mines, forests, weaving, liquor</b> and salt, and sets up state farms (sita land).</li><li>Superintendents fix <b>weights and measures</b>, control prices and check traders' profits.</li><li>The king must support orphans, the old, the sick and helpless women.</li><li>Labour contracts and wages are regulated. Masters who mistreat workers are fined.</li><li>Settling new land (janapada nivesha) and building irrigation are royal duties.</li></ul><p>This is why some scholars call Kautilya's state a kind of early <b>welfare state</b>. Others warn that its aim was revenue and power, with welfare as a means to keep people productive and loyal.</p>"
+  },
+  {
+   "tag": "Indian angle",
+   "h": "Kautilya in modern India",
+   "b": "<p>India's diplomatic enclave in New Delhi is called <b>Chanakyapuri</b>.</p><p>Strategic thinkers use the mandala idea to read India's neighbourhood: hostile neighbours (Pakistan, at times China) and the value of friends beyond them, such as Afghanistan, Iran, the Central Asian states and the Indo-Pacific partners.</p><p><b>Shivshankar Menon</b>, a former National Security Adviser, and analysts at the Institute for Defence Studies and Analyses (IDSA) have written on Kautilya's relevance to Indian strategy.</p>"
+  },
+  {
+   "tag": "Exam lens",
+   "cls": "exam",
+   "h": "How UPSC asks this",
+   "b": "<div class=\"box\">\"Discuss Kautilya's saptanga theory of the state.\"</div><div class=\"box\">\"Examine the relevance of Kautilya's mandala theory to India's foreign policy.\"</div><div class=\"box\">\"Compare Kautilya and Machiavelli.\"</div><p><b>Structure:</b> text and dating, artha and yogakshema, saptanga (draw it), mandala (draw it), shadgunya, administration. End with modern relevance through Chanakyapuri and the neighbourhood policy.</p>"
+  }
  ],
  "quiz": [
-  {"q": "Who rediscovered and published the Arthashastra in 1909?", "o": ["K.P. Jayaswal", "R. Shamasastry", "Max Müller", "R.P. Kangle"], "a": 1, "w": "R. Shamasastry published it in 1909, with a translation in 1915."},
-  {"q": "In the saptanga theory, 'kosha' means…", "o": ["Army", "Fort", "Treasury", "Ally"], "a": 2, "w": "Kosha is the treasury."},
-  {"q": "In mandala theory, the immediate neighbour is a natural…", "o": ["Friend", "Enemy", "Neutral", "Vassal"], "a": 1, "w": "The neighbour is the natural enemy; the neighbour's neighbour is a friend."},
-  {"q": "Dvaidhibhava means…", "o": ["Peace with all", "Seeking shelter", "Peace with one, war with another", "Marching to war"], "a": 2, "w": "The double policy."},
-  {"q": "When sources of law conflict, Kautilya says the deciding source is…", "o": ["Dharma", "Custom", "The king's just edict", "Evidence"], "a": 2, "w": "Rajashasana, the king's edict based on justice, prevails."}
+  {
+   "q": "Who rediscovered and published the Arthashastra in 1909?",
+   "o": [
+    "K.P. Jayaswal",
+    "R. Shamasastry",
+    "Max Müller",
+    "R.P. Kangle"
+   ],
+   "a": 1,
+   "w": "R. Shamasastry published it in 1909, with a translation in 1915."
+  },
+  {
+   "q": "In the saptanga theory, 'kosha' means…",
+   "o": [
+    "Army",
+    "Fort",
+    "Treasury",
+    "Ally"
+   ],
+   "a": 2,
+   "w": "Kosha is the treasury."
+  },
+  {
+   "q": "In mandala theory, the immediate neighbour is a natural…",
+   "o": [
+    "Friend",
+    "Enemy",
+    "Neutral",
+    "Vassal"
+   ],
+   "a": 1,
+   "w": "The neighbour is the natural enemy; the neighbour's neighbour is a friend."
+  },
+  {
+   "q": "Dvaidhibhava means…",
+   "o": [
+    "Peace with all",
+    "Seeking shelter",
+    "Peace with one, war with another",
+    "Marching to war"
+   ],
+   "a": 2,
+   "w": "The double policy."
+  },
+  {
+   "q": "When sources of law conflict, Kautilya says the deciding source is…",
+   "o": [
+    "Dharma",
+    "Custom",
+    "The king's just edict",
+    "Evidence"
+   ],
+   "a": 2,
+   "w": "Rajashasana, the king's edict based on justice, prevails."
+  },
+  {
+   "q": "Yogakshema means…",
+   "o": [
+    "Military victory",
+    "Welfare and security of the people",
+    "Royal ritual",
+    "Foreign trade"
+   ],
+   "a": 1,
+   "w": "The state's goal is the welfare and security of its subjects."
+  },
+  {
+   "q": "The four means (upayas) are sama, dana, bheda and…",
+   "o": [
+    "Sandhi",
+    "Danda",
+    "Yana",
+    "Kosha"
+   ],
+   "a": 1,
+   "w": "Persuasion, gifts, division and force."
+  },
+  {
+   "q": "Testing ministers through temptations is called…",
+   "o": [
+    "Upadha",
+    "Mandala",
+    "Asana",
+    "Dharma"
+   ],
+   "a": 0,
+   "w": "Upadha: tests of dharma, wealth, desire and fear."
+  },
+  {
+   "q": "In mandala theory, the 'udasina' is…",
+   "o": [
+    "The friend's friend",
+    "A neutral king stronger than the others",
+    "The conqueror",
+    "The enemy's ally"
+   ],
+   "a": 1,
+   "w": "A powerful neutral state outside the rivalry."
+  },
+  {
+   "q": "India's diplomatic enclave in New Delhi is named after…",
+   "o": [
+    "Ashoka",
+    "Chanakya",
+    "Chandragupta",
+    "Harsha"
+   ],
+   "a": 1,
+   "w": "Chanakyapuri."
+  }
  ],
- "sources": ["R.P. Kangle, The Kautiliya Arthasastra, Parts I–III (1960–65)", "Patrick Olivelle, King, Governance, and Law in Ancient India (2013)", "Thomas Trautmann, Kautilya and the Arthasastra (1971)", "Max Weber, 'Politics as a Vocation' (1919)", "Shivshankar Menon, 'Kautilya Today', speech at IDSA (2013)", "PYQ themes: saptanga, mandala, Kautilya vs Machiavelli (Paper I, repeated)"],
+ "sources": [
+  "R.P. Kangle, The Kautiliya Arthasastra, Parts I–III (1960–65)",
+  "Patrick Olivelle, King, Governance, and Law in Ancient India (2013)",
+  "Thomas Trautmann, Kautilya and the Arthasastra (1971)",
+  "Max Weber, 'Politics as a Vocation' (1919)",
+  "Shivshankar Menon, 'Kautilya Today', speech at IDSA (2013)",
+  "PYQ themes: saptanga, mandala, Kautilya vs Machiavelli (Paper I, repeated)"
+ ],
  "verified": "2026-11-10"
 }

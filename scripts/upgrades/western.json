@@ -1,0 +1,111 @@
+{
+ "0-9-0": {
+  "cards": [
+   {"tag": "Key idea", "h": "Why Plato distrusted democracy", "b": "<p>In Book VIII of the <i>Republic</i>, Plato ranks five constitutions from best to worst. Each one decays into the next:</p><ul><li><b>Aristocracy</b>, the rule of the wise. This is his ideal.</li><li><b>Timocracy</b>, the rule of the honour-loving, like Sparta.</li><li><b>Oligarchy</b>, the rule of the rich.</li><li><b>Democracy</b>, the rule of the many.</li><li><b>Tyranny</b>, the rule of one man for himself.</li></ul><p>Democracy, he says, is charming and full of variety. But it treats equals and unequals alike. Each person does as they please, and there is no order.</p><p>Too much freedom leads to its opposite. The people pick a champion to protect them from the rich, and that champion becomes a <b>tyrant</b>.</p><p>Plato's image is the <b>ship of state</b>. The sailors fight over the wheel and flatter the owner, who is strong but half-deaf. They ignore the true navigator, who studies the stars.</p>"}
+  ],
+  "quiz": [
+   {"q": "In Republic Book VIII, the constitution that decays directly into tyranny is…", "o": ["Oligarchy", "Timocracy", "Democracy", "Aristocracy"], "a": 2, "w": "Plato says excessive freedom in democracy leads to tyranny."},
+   {"q": "Plato's 'myth of the metals' says rulers have which metal in their souls?", "o": ["Silver", "Gold", "Bronze", "Iron"], "a": 1, "w": "Gold for rulers, silver for auxiliaries, iron and bronze for producers."},
+   {"q": "The allegory of the cave mainly illustrates…", "o": ["The origin of the state", "The difference between opinion and true knowledge", "Why property corrupts", "The duties of soldiers"], "a": 1, "w": "Prisoners mistake shadows for reality; the philosopher sees the truth."},
+   {"q": "Who argued that Plato wanted women as guardians for the state's efficiency, not for women's rights?", "o": ["Susan Moller Okin", "Julia Annas", "Carole Pateman", "Martha Nussbaum"], "a": 1, "w": "Julia Annas, 'Plato's Republic and Feminism' (1976)."},
+   {"q": "Timocracy, in Plato's scheme, is rule by…", "o": ["The wise", "The honour-loving", "The rich", "The poor"], "a": 1, "w": "Timocracy is driven by honour, like Sparta."}
+  ]
+ },
+ "0-9-1": {
+  "cards": [
+   {"tag": "Key idea", "h": "Revolutions and how to stop them", "b": "<p>Book V of the <i>Politics</i> is a practical guide to <b>revolution</b>, or stasis. It reads almost like modern political science.</p><p><b>The general cause</b> is a feeling of injustice about <b>equality</b>. Democrats think that because people are equal in one way (free birth), they should be equal in all. Oligarchs think that because people are unequal in one way (wealth), they should be unequal in all.</p><p><b>Particular causes</b> include insolence and greed in office, fear, contempt for rulers, a class growing out of proportion, and election intrigues.</p><p><b>Remedies:</b></p><ul><li>Obey the law, even in small matters.</li><li>Keep terms of office short.</li><li>Never let officials profit from office.</li><li>Educate citizens in the spirit of the constitution.</li><li>Keep a strong middle class.</li></ul><p>He even advises tyrants how to survive, much as Machiavelli later did.</p>"}
+  ],
+  "quiz": [
+   {"q": "For Aristotle, the general cause of revolution is…", "o": ["Foreign invasion", "Disagreement about equality and justice", "Religious conflict", "Natural disasters"], "a": 1, "w": "People revolt when they feel unjustly treated in matters of equality."},
+   {"q": "Aristotle's term for unnatural wealth-making for its own sake is…", "o": ["Oikonomia", "Chrematistics", "Eudaimonia", "Telos"], "a": 1, "w": "Chrematistics, as opposed to natural household management."},
+   {"q": "'Man is by nature a political animal' appears in…", "o": ["Nicomachean Ethics", "Politics", "Republic", "Laws"], "a": 1, "w": "Aristotle's Politics, Book I."},
+   {"q": "Aristotle's ethics places virtue at…", "o": ["The extreme of courage", "The golden mean between extremes", "Obedience to the gods", "Maximum pleasure"], "a": 1, "w": "Courage lies between cowardice and rashness."},
+   {"q": "The only one of the 158 constitutions that survives is that of…", "o": ["Sparta", "Athens", "Corinth", "Thebes"], "a": 1, "w": "The Constitution of the Athenians."}
+  ]
+ },
+ "0-9-2": {
+  "cards": [
+   {"tag": "Key idea", "h": "Kinds of principality", "b": "<p><i>The Prince</i> sorts states by how they are gained.</p><ul><li><b>Hereditary</b> principalities are easy to hold. Just don't upset ancestral customs.</li><li><b>New</b> principalities are hard. The innovator has enemies in all who did well under the old order, and only lukewarm friends in those who might do well under the new.</li><li>Those won by <b>one's own arms and virtù</b>, like Moses, Cyrus, Romulus and Theseus, are hard to win but easy to hold.</li><li>Those won by <b>fortune and others' arms</b>, like Cesare Borgia's, are easy to win but hard to hold.</li></ul><p>Cesare Borgia is Machiavelli's model. He used his cruel minister Remirro de Orco to pacify the Romagna. Then he had Remirro cut in two and left in the town square, to show the cruelty was not his own.</p><p>The lesson: cruelty <b>well used</b> is done all at once and then stops. Benefits should be given little by little, so they are enjoyed more.</p>"}
+  ],
+  "quiz": [
+   {"q": "Machiavelli's model of a new prince using cruelty well was…", "o": ["Lorenzo de' Medici", "Cesare Borgia", "Pope Julius II", "Savonarola"], "a": 1, "w": "Cesare Borgia's pacification of the Romagna."},
+   {"q": "Machiavelli compared fortuna to…", "o": ["A wheel", "A violent river", "A storm at sea", "A lion"], "a": 1, "w": "A river that floods; virtù builds dykes beforehand."},
+   {"q": "Machiavelli preferred which kind of army?", "o": ["Mercenaries", "Auxiliaries from allies", "A citizen militia", "Papal troops"], "a": 2, "w": "He distrusted mercenaries and organised a Florentine militia in 1506."},
+   {"q": "The Prince was published in…", "o": ["1513", "1527", "1532", "1559"], "a": 2, "w": "Written in 1513, published in 1532, after his death."},
+   {"q": "According to Machiavelli, cruelty 'well used' is…", "o": ["Spread out over time", "Done all at once, then stopped", "Never needed", "Left to the Church"], "a": 1, "w": "Injuries should be done all together; benefits given little by little."}
+  ]
+ },
+ "0-9-3": {
+  "cards": [
+   {"tag": "Key idea", "h": "Liberty, Church and the kingdom of darkness", "b": "<p>Hobbes defines <b>liberty</b> simply as the absence of external obstacles to motion. Water flowing downhill is free. This is a purely <b>negative</b> idea of freedom.</p><p>So fear and liberty can go together. A man who throws his goods overboard in a storm, from fear, still acts freely.</p><p>Hobbes also argues that <b>fear and liberty are consistent</b> with obeying the sovereign. Covenants made from fear are still valid.</p><p>On <b>religion</b>, he says the sovereign must control the Church. Parts III and IV of <i>Leviathan</i> attack the Pope's claim to authority. He calls the Catholic Church a \"kingdom of darkness\", a power that divides loyalty and leads to civil war.</p><p>This makes Hobbes an early theorist of the <b>secular state</b>: one sovereign, no rival authority, and religion under civil control.</p>"}
+  ],
+  "quiz": [
+   {"q": "Hobbes defines liberty as…", "o": ["Self-mastery by reason", "The absence of external obstacles", "Participation in government", "Obedience to natural law"], "a": 1, "w": "A purely negative idea: no external impediments to motion."},
+   {"q": "Hobbes's first law of nature tells us to…", "o": ["Keep covenants", "Seek peace", "Respect property", "Obey God"], "a": 1, "w": "Seek peace, and when you cannot, defend yourself."},
+   {"q": "'Covenants, without the sword, are but words' means…", "o": ["Contracts are always invalid", "Agreements need enforcement power", "Only kings can sign treaties", "War makes peace"], "a": 1, "w": "Without a common power, people will not keep their promises."},
+   {"q": "Hobbes's preferred form of sovereign was…", "o": ["Democracy", "Aristocracy", "Monarchy", "A mixed constitution"], "a": 2, "w": "Any form can be sovereign, but he thought monarchy most stable."},
+   {"q": "Hobbes called the Catholic Church's claim to authority…", "o": ["The city of God", "The kingdom of darkness", "The commonwealth", "The mortal god"], "a": 1, "w": "In Leviathan, Part IV."}
+  ]
+ },
+ "0-9-4": {
+  "cards": [
+   {"tag": "Key idea", "h": "Prerogative and the state of war", "b": "<p>Locke admits that laws cannot foresee everything. So the executive has <b>prerogative</b>: the power to act for the public good without a law, and sometimes even against it, as in an emergency.</p><p>But prerogative must serve the people. If it is used against them, it becomes tyranny.</p><p>Locke separates the <b>state of nature</b> from the <b>state of war</b>, which Hobbes had merged. A state of war is any situation where one person uses force without right against another, even inside civil society.</p><p>A ruler who uses force without right, he says, puts <b>himself</b> into a state of war with the people. Resisting him is not rebellion. The ruler is the real rebel.</p><p>Who decides? Locke's answer is \"the people shall be judge\", with an appeal to heaven as the last resort.</p>"}
+  ],
+  "quiz": [
+   {"q": "For Locke, the government holds power as a…", "o": ["Sovereign owner", "Trust", "Divine gift", "Conquest"], "a": 1, "w": "Government is a trustee; breach of trust returns power to the people."},
+   {"q": "Locke's 'prerogative' is the executive's power to…", "o": ["Make all laws", "Act for the public good without law", "Declare war only", "Tax without consent"], "a": 1, "w": "It covers cases laws cannot foresee."},
+   {"q": "Which groups did Locke exclude from toleration?", "o": ["Jews and Muslims", "Atheists and Catholics", "Quakers and Baptists", "Anglicans"], "a": 1, "w": "Atheists, and Catholics seen as loyal to a foreign power."},
+   {"q": "Locke's 'tacit consent' can be given by…", "o": ["Voting in an election", "Using the roads or owning land", "Signing a written oath", "Joining the army"], "a": 1, "w": "Enjoying the benefits of a government implies consent."},
+   {"q": "Who wrote The Sexual Contract (1988), criticising contract theory?", "o": ["Susan Okin", "Carole Pateman", "Kate Millett", "bell hooks"], "a": 1, "w": "Carole Pateman."}
+  ]
+ },
+ "0-9-5": {
+  "cards": [
+   {"tag": "Key idea", "h": "Positive views of liberty in Mill", "b": "<p>Mill is often called the great defender of <b>negative liberty</b>: freedom from interference. But he goes further.</p><p>Chapter 3 of <i>On Liberty</i> is about <b>individuality</b> as part of well-being. Human nature, he says, is not a machine built to a model. It is a <b>tree</b> that needs to grow on all sides.</p><p>He quotes the German thinker <b>Wilhelm von Humboldt</b>, who said the end of man is the fullest and most harmonious development of his powers.</p><p>So Mill's liberty is not just about being left alone. It is about <b>self-development</b>. This is why he is seen as a bridge to <b>T.H. Green</b> and positive liberty.</p><p>He also allowed state action where it helps people develop, such as compulsory education. The state can require children to be educated, though it need not run all the schools.</p>"}
+  ],
+  "quiz": [
+   {"q": "Mill compares human nature to…", "o": ["A machine", "A tree", "A river", "A ship"], "a": 1, "w": "A tree that must grow and develop on all sides."},
+   {"q": "Mill's idea of individuality was influenced by…", "o": ["Hegel", "Wilhelm von Humboldt", "Rousseau", "Kant"], "a": 1, "w": "He quotes Humboldt on the harmonious development of human powers."},
+   {"q": "On voting, Mill proposed…", "o": ["A secret ballot for all", "Plural votes for the educated", "Voting only for property owners", "Compulsory voting"], "a": 1, "w": "Plural voting, and he opposed the secret ballot."},
+   {"q": "The Subjection of Women was published in…", "o": ["1859", "1861", "1867", "1869"], "a": 3, "w": "1869."},
+   {"q": "Mill feared democracy could produce…", "o": ["A tyranny of the majority", "A dictatorship of the proletariat", "A Leviathan", "Anarchy only"], "a": 0, "w": "Following Tocqueville, he feared majority opinion would crush individuality."}
+  ]
+ },
+ "0-9-6": {
+  "cards": [
+   {"tag": "Key idea", "h": "Ideology and commodity fetishism", "b": "<p>In <i>The German Ideology</i> (written 1845–46 with Engels), Marx says:</p><div class=\"quote\">\"The ideas of the ruling class are in every epoch the ruling ideas.\"</div><div class=\"who\">Marx and Engels, The German Ideology</div><p>The class that owns the means of material production also controls the means of mental production. So ideas that serve the rich come to look like everyone's common sense.</p><p>In <i>Capital</i>, Marx adds <b>commodity fetishism</b>. Under capitalism, relations between people appear as relations between things. We see prices and goods, not the human labour behind them.</p><p>Both ideas show why exploitation can feel natural to those exploited. Later Marxists, like <b>Gramsci</b> with hegemony and <b>Lukács</b> with reification, built on them.</p>"},
+   {"tag": "Key idea", "h": "Young Marx and mature Marx", "b": "<p>Scholars debate whether there are two Marxes.</p><div class=\"box\"><h4>The young Marx</h4>The humanist of the 1844 Manuscripts, focused on alienation and human freedom.</div><div class=\"box\"><h4>The mature Marx</h4>The economist of <i>Capital</i>, focused on laws of capitalist development.</div><p><b>Louis Althusser</b>, in <i>For Marx</i> (1965), argued there was an \"epistemological break\" around 1845. After it, Marx dropped humanism for science.</p><p>Others, such as <b>Erich Fromm</b> and the Frankfurt School, said alienation stays at the heart of Marx's whole work.</p><p>For exams, show both readings. It proves you know Marx is not a single fixed system.</p>"}
+  ],
+  "quiz": [
+   {"q": "'The ideas of the ruling class are in every epoch the ruling ideas' is from…", "o": ["The Communist Manifesto", "The German Ideology", "Capital", "The Eighteenth Brumaire"], "a": 1, "w": "The German Ideology, written 1845–46."},
+   {"q": "Commodity fetishism means…", "o": ["Love of luxury goods", "Relations between people appearing as relations between things", "State control of trade", "Barter economies"], "a": 1, "w": "We see prices and goods, not the labour behind them."},
+   {"q": "Who argued for an 'epistemological break' between young and mature Marx?", "o": ["Erich Fromm", "Louis Althusser", "Georg Lukács", "Herbert Marcuse"], "a": 1, "w": "Althusser, For Marx (1965)."},
+   {"q": "Lenin named Marxism's three sources as German philosophy, French socialism and…", "o": ["Russian populism", "English political economy", "Italian humanism", "Greek democracy"], "a": 1, "w": "Smith and Ricardo's political economy."},
+   {"q": "Capital, volume one, was published in…", "o": ["1848", "1859", "1867", "1883"], "a": 2, "w": "1867. Volumes two and three were edited by Engels after Marx's death."}
+  ]
+ },
+ "0-9-7": {
+  "cards": [
+   {"tag": "Key idea", "h": "Common sense and good sense", "b": "<p>Gramsci separates two kinds of popular thinking.</p><div class=\"box\"><h4>Common sense</h4>The everyday, uncritical beliefs of ordinary people. It is a mix of old religion, folklore, ideas from the ruling class and bits of practical wisdom. It is often contradictory.</div><div class=\"box\"><h4>Good sense</h4>The healthy core inside common sense: practical, critical thinking that comes from real experience.</div><p>The task of the organic intellectual is to build on good sense. They help people think critically about their own lives, rather than pour in a ready-made doctrine.</p><p>This is why Gramsci said \"all men are philosophers\". Everyone has a worldview. The question is whether it is coherent and critical, or borrowed and passive.</p>"}
+  ],
+  "quiz": [
+   {"q": "Gramsci's 'passive revolution' means…", "o": ["A peaceful general strike", "Change from above that absorbs pressure from below", "A revolution by peasants", "Non-violent resistance"], "a": 1, "w": "Elites reform to prevent real transfer of power."},
+   {"q": "Gramsci called the communist party the…", "o": ["Vanguard", "Modern Prince", "Historic bloc", "Organic state"], "a": 1, "w": "The Modern Prince, after Machiavelli."},
+   {"q": "A 'historic bloc' is…", "o": ["A military alliance", "An alliance of classes held together by a shared worldview", "A group of states", "A voting bloc in parliament"], "a": 1, "w": "Such as northern workers and southern peasants in Italy."},
+   {"q": "Gramsci was jailed by the fascist regime in…", "o": ["1919", "1922", "1926", "1937"], "a": 2, "w": "Arrested in 1926; he died in 1937."},
+   {"q": "Ranajit Guha's Dominance without Hegemony argued that colonial rule in India…", "o": ["Won full consent", "Ruled by coercion without real consent", "Was purely economic", "Created a strong civil society"], "a": 1, "w": "Guha (1997) argued the colonial state lacked hegemony."}
+  ]
+ },
+ "0-9-8": {
+  "cards": [
+   {"tag": "Key idea", "h": "The rise of the social", "b": "<p>Arendt worried that modern society had blurred the line between the <b>private</b> and the <b>public</b>.</p><p>In ancient Greece, the household dealt with needs: food, work, family. The polis was the space of freedom, where citizens acted as equals.</p><p>Modern times brought the <b>social</b>: economic concerns took over public life. Politics became mainly about managing the economy and administering welfare.</p><p>Her worry was that this turns citizens into <b>jobholders and consumers</b>. Government becomes housekeeping on a national scale. The space for real action and debate shrinks.</p><p>She also warned against <b>bureaucracy</b>, which she called \"rule by Nobody\". In it, no one can be held responsible, which can be the most tyrannical form of all.</p>"}
+  ],
+  "quiz": [
+   {"q": "Arendt's 'right to have rights' means…", "o": ["A right to welfare", "The right to belong to a political community", "A right to revolution", "A right to property"], "a": 1, "w": "Without membership in a political community, human rights protect no one."},
+   {"q": "Arendt called bureaucracy…", "o": ["Rule by the wise", "Rule by Nobody", "Rule by consent", "Rule of law"], "a": 1, "w": "No one can be held responsible."},
+   {"q": "For Arendt, totalitarianism ruled through…", "o": ["Law and custom", "Ideology and terror", "Religion and monarchy", "Trade and markets"], "a": 1, "w": "The Origins of Totalitarianism (1951)."},
+   {"q": "Which activity in The Human Condition creates durable things?", "o": ["Labour", "Work", "Action", "Thought"], "a": 1, "w": "Work fabricates a lasting human world."},
+   {"q": "Arendt's report on Eichmann first appeared in…", "o": ["The Atlantic", "The New Yorker", "Partisan Review", "Commentary"], "a": 1, "w": "The New Yorker, 1963, then as a book."}
+  ]
+ }
+}
