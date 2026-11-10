@@ -1,0 +1,176 @@
+{
+ "id": "0-1-2",
+ "title": "Clouds, Precipitation and Cyclones",
+ "emoji": "🌀",
+ "cards": [
+  {
+   "tag": "Why this matters",
+   "h": "Cyclones kill and clouds feed",
+   "b": "<p>Rain feeds farms; cyclones destroy them. The same physics of rising moist air gives both. UPSC asks about types of rainfall, cyclone formation and India's cyclone record, often as short 10-mark questions.</p>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "Humidity, dew point and condensation",
+   "b": "<p><b>Absolute humidity</b> is vapour weight per volume. <b>Relative humidity</b> is the percentage of what the air could hold at that temperature. When air cools to its <b>dew point</b> it is saturated and condenses on nuclei. Clouds are tiny water drops or ice crystals.</p><p>Warm air holds more vapour. Cooling happens by rising, by contact with cold surfaces, or by mixing.</p>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "Clouds",
+   "b": "<svg class=\"d\" viewBox=\"0 0 320 174\"><rect x=\"10\" y=\"6\" width=\"115\" height=\"36\" rx=\"6\" fill=\"#f1e4c6\" stroke=\"#a8792a\" stroke-width=\"1.5\"/><text x=\"67.5\" y=\"28.0\" fill=\"#7d5a1c\" font-size=\"11\" text-anchor=\"middle\" font-weight=\"700\">High, above 6 km</text><rect x=\"131\" y=\"6\" width=\"179\" height=\"36\" rx=\"6\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"220.5\" y=\"28.0\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\">Cirrus, cirrostratus: thin, icy, wispy</text><rect x=\"10\" y=\"48\" width=\"115\" height=\"36\" rx=\"6\" fill=\"#dceaec\" stroke=\"#2f6f7a\" stroke-width=\"1.5\"/><text x=\"67.5\" y=\"70.0\" fill=\"#2f6f7a\" font-size=\"11\" text-anchor=\"middle\" font-weight=\"700\">Middle, 2-6 km</text><rect x=\"131\" y=\"48\" width=\"179\" height=\"36\" rx=\"6\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"220.5\" y=\"70.0\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\">Altostratus, altocumulus</text><rect x=\"10\" y=\"90\" width=\"115\" height=\"36\" rx=\"6\" fill=\"#f4dcd5\" stroke=\"#a3362a\" stroke-width=\"1.5\"/><text x=\"67.5\" y=\"112.0\" fill=\"#a3362a\" font-size=\"11\" text-anchor=\"middle\" font-weight=\"700\">Low, below 2 km</text><rect x=\"131\" y=\"90\" width=\"179\" height=\"36\" rx=\"6\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"220.5\" y=\"112.0\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\">Stratus, stratocumulus, nimbostratus: rain</text><rect x=\"10\" y=\"132\" width=\"115\" height=\"36\" rx=\"6\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"67.5\" y=\"154.0\" fill=\"#1d2433\" font-size=\"11\" text-anchor=\"middle\" font-weight=\"700\">Tall towers</text><rect x=\"131\" y=\"132\" width=\"179\" height=\"36\" rx=\"6\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"220.5\" y=\"154.0\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\">Cumulus to cumulonimbus: thunder, hail</text></svg><p>Remember: <b>cirro</b> = high, <b>alto</b> = middle, <b>strato</b> = layered, <b>cumulo</b> = heaped, <b>nimbo</b> = rain-bearing.</p>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "Three kinds of rainfall",
+   "b": "<svg class=\"d\" viewBox=\"0 0 320 160\"><path d=\"M10 140 L110 140 L200 40 L310 140 Z\" fill=\"#f1e4c6\" stroke=\"#a8792a\" stroke-width=\"1.5\"/><ellipse cx=\"90\" cy=\"70\" rx=\"40\" ry=\"14\" fill=\"#dceaec\" stroke=\"#2f6f7a\"/><line x1=\"20\" y1=\"110\" x2=\"100\" y2=\"85\" stroke=\"#2f6f7a\" stroke-width=\"2\"/><text x=\"70\" y=\"40\" fill=\"#2f6f7a\" font-size=\"10\" text-anchor=\"middle\" font-weight=\"700\">Moist air rises</text><text x=\"75\" y=\"100\" fill=\"#2f6f7a\" font-size=\"10\" text-anchor=\"middle\">Windward: heavy rain</text><text x=\"255\" y=\"100\" fill=\"#a3362a\" font-size=\"10\" text-anchor=\"middle\" font-weight=\"700\">Leeward:</text><text x=\"255\" y=\"114\" fill=\"#a3362a\" font-size=\"10\" text-anchor=\"middle\" font-weight=\"700\">rain shadow</text><text x=\"160\" y=\"156\" fill=\"#5d6474\" font-size=\"10\" text-anchor=\"middle\">Cherrapunji and Mawsynram versus the dry Deccan interior</text></svg><p><b>Convectional</b>: heated ground, rising moist air, afternoon showers in the tropics. <b>Orographic</b>: air forced up a mountain. <b>Cyclonic or frontal</b>: air lifted along a front or a low-pressure centre. Hail forms in strong updraughts in cumulonimbus.</p>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "How a tropical cyclone forms",
+   "b": "<svg class=\"d\" viewBox=\"0 0 320 190\"><circle cx=\"160\" cy=\"90\" r=\"82\" fill=\"#dceaec\" stroke=\"#2f6f7a\" stroke-width=\"1.5\"/><circle cx=\"160\" cy=\"90\" r=\"52\" fill=\"#f1e4c6\" stroke=\"#a8792a\" stroke-width=\"1.5\"/><circle cx=\"160\" cy=\"90\" r=\"18\" fill=\"#fff\" stroke=\"#a3362a\" stroke-width=\"1.5\"/><text x=\"160\" y=\"94\" fill=\"#a3362a\" font-size=\"11\" text-anchor=\"middle\" font-weight=\"700\">Eye</text><text x=\"160\" y=\"60\" fill=\"#7d5a1c\" font-size=\"10\" text-anchor=\"middle\" font-weight=\"700\">Eyewall</text><text x=\"160\" y=\"30\" fill=\"#2f6f7a\" font-size=\"10\" text-anchor=\"middle\" font-weight=\"700\">Spiral rain bands</text><text x=\"160\" y=\"176\" fill=\"#5d6474\" font-size=\"10\" text-anchor=\"middle\">Calm, clear eye. Strongest winds and rain in the eyewall.</text><text x=\"160\" y=\"187\" fill=\"#5d6474\" font-size=\"10\" text-anchor=\"middle\">Warm sea is the fuel; land cuts it off.</text></svg><p>Conditions: sea surface above about <b>26.5 C</b>, high humidity, a small-scale disturbance, low vertical wind shear and a Coriolis force strong enough (more than about 5 degrees from the equator). Heat from condensing vapour feeds the storm.</p>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "Naming and classification",
+   "b": "<svg class=\"d\" viewBox=\"0 0 320 218\"><rect x=\"10\" y=\"6\" width=\"170\" height=\"26\" rx=\"6\" fill=\"#f1e4c6\" stroke=\"#a8792a\" stroke-width=\"1.5\"/><text x=\"95.0\" y=\"23\" fill=\"#7d5a1c\" font-size=\"11\" text-anchor=\"middle\" font-weight=\"700\">IMD class</text><rect x=\"180\" y=\"6\" width=\"130\" height=\"26\" rx=\"6\" fill=\"#f1e4c6\" stroke=\"#a8792a\" stroke-width=\"1.5\"/><text x=\"245.0\" y=\"23\" fill=\"#7d5a1c\" font-size=\"11\" text-anchor=\"middle\" font-weight=\"700\">Wind (km/h)</text><rect x=\"10\" y=\"32\" width=\"170\" height=\"30\" rx=\"0\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"95.0\" y=\"51\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\" font-weight=\"700\">Depression</text><rect x=\"180\" y=\"32\" width=\"130\" height=\"30\" rx=\"0\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"245.0\" y=\"51\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\">31-49</text><rect x=\"10\" y=\"62\" width=\"170\" height=\"30\" rx=\"0\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"95.0\" y=\"81\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\" font-weight=\"700\">Cyclonic storm</text><rect x=\"180\" y=\"62\" width=\"130\" height=\"30\" rx=\"0\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"245.0\" y=\"81\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\">62-88</text><rect x=\"10\" y=\"92\" width=\"170\" height=\"30\" rx=\"0\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"95.0\" y=\"111\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\" font-weight=\"700\">Severe cyclonic storm</text><rect x=\"180\" y=\"92\" width=\"130\" height=\"30\" rx=\"0\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"245.0\" y=\"111\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\">89-117</text><rect x=\"10\" y=\"122\" width=\"170\" height=\"30\" rx=\"0\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"95.0\" y=\"141\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\" font-weight=\"700\">Very severe</text><rect x=\"180\" y=\"122\" width=\"130\" height=\"30\" rx=\"0\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"245.0\" y=\"141\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\">118-166</text><rect x=\"10\" y=\"152\" width=\"170\" height=\"30\" rx=\"0\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"95.0\" y=\"171\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\" font-weight=\"700\">Extremely severe</text><rect x=\"180\" y=\"152\" width=\"130\" height=\"30\" rx=\"0\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"245.0\" y=\"171\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\">167-221</text><rect x=\"10\" y=\"182\" width=\"170\" height=\"30\" rx=\"0\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"95.0\" y=\"201\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\" font-weight=\"700\">Super cyclonic</text><rect x=\"180\" y=\"182\" width=\"130\" height=\"30\" rx=\"0\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"245.0\" y=\"201\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\">222 and above</text></svg><p>Names are given by regional bodies. For the north Indian Ocean the <b>RSMC at IMD, New Delhi</b> assigns names from lists supplied by member countries (since 2004). Storm surge, not wind, causes most deaths.</p>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "Tropical and temperate cyclones",
+   "b": "<svg class=\"d\" viewBox=\"0 0 320 158\"><rect x=\"10\" y=\"6\" width=\"70\" height=\"26\" rx=\"6\" fill=\"#f1e4c6\" stroke=\"#a8792a\" stroke-width=\"1.5\"/><text x=\"45.0\" y=\"23\" fill=\"#7d5a1c\" font-size=\"11\" text-anchor=\"middle\" font-weight=\"700\"></text><rect x=\"80\" y=\"6\" width=\"115\" height=\"26\" rx=\"6\" fill=\"#f1e4c6\" stroke=\"#a8792a\" stroke-width=\"1.5\"/><text x=\"137.5\" y=\"23\" fill=\"#7d5a1c\" font-size=\"11\" text-anchor=\"middle\" font-weight=\"700\">Tropical</text><rect x=\"195\" y=\"6\" width=\"115\" height=\"26\" rx=\"6\" fill=\"#f1e4c6\" stroke=\"#a8792a\" stroke-width=\"1.5\"/><text x=\"252.5\" y=\"23\" fill=\"#7d5a1c\" font-size=\"11\" text-anchor=\"middle\" font-weight=\"700\">Temperate</text><rect x=\"10\" y=\"32\" width=\"70\" height=\"30\" rx=\"0\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"45.0\" y=\"51\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\" font-weight=\"700\">Origin</text><rect x=\"80\" y=\"32\" width=\"115\" height=\"30\" rx=\"0\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"137.5\" y=\"51\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\">Warm oceans</text><rect x=\"195\" y=\"32\" width=\"115\" height=\"30\" rx=\"0\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"252.5\" y=\"51\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\">Mid-latitudes</text><rect x=\"10\" y=\"62\" width=\"70\" height=\"30\" rx=\"0\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"45.0\" y=\"81\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\" font-weight=\"700\">Fronts</text><rect x=\"80\" y=\"62\" width=\"115\" height=\"30\" rx=\"0\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"137.5\" y=\"81\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\">None</text><rect x=\"195\" y=\"62\" width=\"115\" height=\"30\" rx=\"0\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"252.5\" y=\"81\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\">Warm and cold</text><rect x=\"10\" y=\"92\" width=\"70\" height=\"30\" rx=\"0\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"45.0\" y=\"111\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\" font-weight=\"700\">Season</text><rect x=\"80\" y=\"92\" width=\"115\" height=\"30\" rx=\"0\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"137.5\" y=\"111\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\">Late summer</text><rect x=\"195\" y=\"92\" width=\"115\" height=\"30\" rx=\"0\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"252.5\" y=\"111\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\">Winter, all year</text><rect x=\"10\" y=\"122\" width=\"70\" height=\"30\" rx=\"0\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"45.0\" y=\"141\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\" font-weight=\"700\">Size</text><rect x=\"80\" y=\"122\" width=\"115\" height=\"30\" rx=\"0\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"137.5\" y=\"141\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\">Smaller, intense</text><rect x=\"195\" y=\"122\" width=\"115\" height=\"30\" rx=\"0\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"252.5\" y=\"141\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\">Large, weaker</text></svg><p>Temperate cyclones form where warm and cold air meet along a <b>front</b>. The cold front overtakes the warm front and the system <b>occludes</b>. Western disturbances are the Indian version.</p>"
+  },
+  {
+   "tag": "Indian angle",
+   "h": "India's cyclone record",
+   "b": "<p>Eastern coast (Bay of Bengal) gets more and stronger cyclones, mostly in October to November and April to May. Landfalls: Odisha super cyclone (1999), Phailin (2013), Fani (2019), Amphan (2020).</p><p>The <b>Arabian Sea</b> has become more active: Tauktae (2021), Biparjoy (2023). Odisha's early warning and mass evacuation cut deaths from tens of thousands in 1999 to under 50 in Phailin, a model for the world.</p>"
+  },
+  {
+   "tag": "Debate",
+   "h": "Is climate change making cyclones worse?",
+   "b": "<p>Warmer seas add fuel. Studies suggest more <b>intense</b> storms and <b>rapid intensification</b>, especially in the Arabian Sea, though total numbers may not rise. Rising sea levels worsen surge flooding. The sound answer: intensity and rainfall likely increase; frequency is uncertain.</p>"
+  },
+  {
+   "tag": "Exam lens",
+   "cls": "exam",
+   "h": "How to write this",
+   "b": "<div class=\"box\"><h4>Likely questions</h4><p>\"Why are tropical cyclones more frequent in the Bay of Bengal than in the Arabian Sea?\" (10 marks)</p><p>\"Differentiate between tropical and temperate cyclones.\" (10 marks)</p></div><p><b>Structure:</b> conditions; mechanism; classification; Indian cases; then mitigation (early warning, shelters, mangroves).</p><p><b>Prelims tip:</b> a cyclone does not form on the equator; RSMC New Delhi names north Indian Ocean storms; the eye is calm.</p>"
+  }
+ ],
+ "quiz": [
+  {
+   "q": "Dew point is the temperature at which air",
+   "o": [
+    "Starts to freeze",
+    "Stops rising",
+    "Loses all humidity",
+    "Becomes saturated"
+   ],
+   "a": 3,
+   "w": "Further cooling forces condensation."
+  },
+  {
+   "q": "Rain-shadow regions lie on the",
+   "o": [
+    "Windward side",
+    "Leeward side of mountains",
+    "Coast",
+    "Equator"
+   ],
+   "a": 1,
+   "w": "Air descends dry after losing moisture on the windward side."
+  },
+  {
+   "q": "Cirrus clouds are",
+   "o": [
+    "Low and rain-bearing",
+    "High and wispy",
+    "Heaped and tall",
+    "Layered and grey"
+   ],
+   "a": 1,
+   "w": "They are made of ice crystals."
+  },
+  {
+   "q": "Tropical cyclones do NOT form at the equator because",
+   "o": [
+    "The sea is cold",
+    "Winds are too strong",
+    "Air pressure is high",
+    "Coriolis force is near zero there"
+   ],
+   "a": 3,
+   "w": "Coriolis force is needed for spin."
+  },
+  {
+   "q": "Who names cyclones in the north Indian Ocean?",
+   "o": [
+    "RSMC New Delhi",
+    "NDMA",
+    "WMO Geneva only",
+    "ISRO"
+   ],
+   "a": 0,
+   "w": "IMD's Regional Specialised Meteorological Centre does."
+  },
+  {
+   "q": "Fani (2019) made landfall in",
+   "o": [
+    "Gujarat",
+    "Tamil Nadu",
+    "Odisha",
+    "West Bengal"
+   ],
+   "a": 2,
+   "w": "It hit near Puri."
+  },
+  {
+   "q": "Biparjoy (2023) formed in the",
+   "o": [
+    "Bay of Bengal",
+    "Pacific",
+    "South Atlantic",
+    "Arabian Sea"
+   ],
+   "a": 3,
+   "w": "It hit Gujarat's Kutch coast."
+  },
+  {
+   "q": "Most deaths in cyclones are caused by",
+   "o": [
+    "Storm surge",
+    "Lightning",
+    "Hail",
+    "Dust"
+   ],
+   "a": 0,
+   "w": "Seawater floods low coasts."
+  },
+  {
+   "q": "A front forms where",
+   "o": [
+    "Two warm masses merge",
+    "Jet streams end",
+    "Warm and cold air masses meet",
+    "Sea breezes rise"
+   ],
+   "a": 2,
+   "w": "This is the basis of temperate cyclones."
+  },
+  {
+   "q": "Super cyclonic storm in IMD scale has wind of",
+   "o": [
+    "222 km/h and above",
+    "118-166 km/h",
+    "62-88 km/h",
+    "89-117 km/h"
+   ],
+   "a": 0,
+   "w": "It is the top category."
+  }
+ ],
+ "sources": [
+  "NCERT Class 11, Fundamentals of Physical Geography, ch. 9-10",
+  "IMD cyclone classification",
+  "NDMA, Cyclone guidelines"
+ ],
+ "verified": "2026-11-10"
+}

@@ -1,0 +1,171 @@
+{
+ "id": "3-4-3",
+ "title": "Towards Freedom: 1935–1947",
+ "emoji": "🇮🇳",
+ "cards": [
+  {
+   "tag": "Why this matters",
+   "h": "The endgame",
+   "b": "<p>From provincial rule in 1937 to Partition in 1947: this part carries the most dates and the most debate about who is to blame for the split.</p>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "1935 and the 1937 elections",
+   "b": "<p>The Government of India Act 1935 gave provincial autonomy. In the 1937 elections the Congress won a clear majority in 5 of 11 provinces and formed governments in 7 (later 8). The Muslim League did poorly. The refusal to form a coalition in UP deepened distance. Congress ministries resigned in October 1939 over India being dragged into the war.</p>"
+  },
+  {
+   "tag": "Key event",
+   "h": "The war years",
+   "b": "<ul><li>1940 <b>Lahore Resolution</b> of the Muslim League (Pakistan). Jinnah’s Two-Nation theory. <b>August Offer</b> 1940 (dominion status after the war, and no veto to minorities); <b>Individual Satyagraha</b> (Vinoba Bhave first).</li><li>1942 <b>Cripps Mission</b>: dominion status after the war with the right of provinces to opt out; Gandhi called it a “post-dated cheque”.</li><li>8 August 1942: <b>Quit India</b>, “Do or Die”; leaders arrested; underground by Aruna Asaf Ali, Jayaprakash Narayan, Usha Mehta (Congress Radio).</li></ul>"
+  },
+  {
+   "tag": "Key event",
+   "h": "INA and Subhas Bose",
+   "b": "<p>Subhas Chandra Bose left India in 1941, reached Germany and in 1943 took over the Indian National Army in Singapore from Rash Behari Bose and Mohan Singh. Provisional Government of Free India (October 1943). Slogans: “Delhi Chalo” and “Jai Hind”. The INA fought in Imphal and Kohima, 1944. After the war the INA trials at the Red Fort (Shah Nawaz, Sehgal, Dhillon) provoked a national outcry (1945 to 46). The <b>Royal Indian Navy Mutiny</b> (February 1946, Bombay) showed that the armed forces were no longer safe.</p>"
+  },
+  {
+   "tag": "Key event",
+   "h": "1945 to 1946: plans and elections",
+   "b": "<ul><li><b>C. R. formula</b> (1944) and <b>Gandhi-Jinnah talks</b>.</li><li><b>Wavell Plan</b> and the <b>Simla Conference</b> (June 1945): Jinnah insisted on all Muslim seats.</li><li>1946 elections: Congress won most general seats; League won almost all Muslim seats.</li><li><b>Cabinet Mission</b> (March to June 1946; Pethick-Lawrence, Cripps, A. V. Alexander): rejected Pakistan, proposed a three-tier federation with groups A, B, C and a Constituent Assembly.</li></ul>"
+  },
+  {
+   "tag": "Key event",
+   "h": "Direct Action to Mountbatten",
+   "b": "<p>Jinnah called <b>Direct Action Day</b> on 16 August 1946; riots in Calcutta spread. An <b>Interim Government</b> under Nehru was formed in September 1946; the League joined in October. The Constituent Assembly met on 9 December 1946. On 20 February 1947 Attlee announced that power would be transferred by June 1948. Mountbatten arrived in March 1947, and on <b>3 June 1947</b> the Plan for partition was announced. The Indian Independence Act (18 July 1947) created two dominions on 15 August 1947. Radcliffe drew the boundaries.</p>"
+  },
+  {
+   "tag": "Debate",
+   "h": "Who divided India?",
+   "b": "<p>Nationalist writers blame the League and the British “divide and rule”. Ayesha Jalal (<i>The Sole Spokesman</i>, 1985) argues Jinnah used Pakistan as a bargaining chip for equal share at the Centre. Others (Tara Chand, Bipan Chandra) stress communal ideologies since the 1920s. Some stress Congress’s failure to accommodate the League after 1937. Mountbatten’s hurry has been criticised too.</p>"
+  },
+  {
+   "tag": "Indian angle",
+   "h": "Why it matters today",
+   "b": "<p>Radcliffe’s line still decides border disputes and people’s identity. 14 August is observed as Partition Horrors Remembrance Day since 2021. INA ideas shape India’s military memory; 23 January (Bose’s birthday) is Parakram Diwas. The Cripps and Cabinet Mission formulas appear in debates about federalism.</p>"
+  },
+  {
+   "tag": "Exam lens",
+   "h": "How to answer",
+   "b": "<ul><li>“Analyse the Quit India Movement and its significance.”</li><li>“Why did the Cabinet Mission fail?”</li><li>“What led to the Partition?” Give long-term (communalism), medium-term (1937, 1940) and short-term causes (1946).</li><li>Prelims tip: the order of 1940 August Offer, 1942 Cripps, 1945 Wavell, 1946 Cabinet Mission, 1947 Mountbatten.</li></ul>",
+   "cls": "exam"
+  }
+ ],
+ "quiz": [
+  {
+   "q": "Quit India was launched on",
+   "o": [
+    "8 August 1942",
+    "9 August 1942",
+    "15 August 1942",
+    "8 August 1940"
+   ],
+   "a": 0,
+   "w": "At Gowalia Tank, Bombay."
+  },
+  {
+   "q": "The Lahore Resolution of the Muslim League was in",
+   "o": [
+    "1930",
+    "1937",
+    "1946",
+    "1940"
+   ],
+   "a": 3,
+   "w": "Demanded independent states in Muslim-majority zones."
+  },
+  {
+   "q": "The Cripps Mission came in",
+   "o": [
+    "1940",
+    "1944",
+    "1942",
+    "1946"
+   ],
+   "a": 2,
+   "w": "It was sent after the Japanese advance."
+  },
+  {
+   "q": "Gandhi called the Cripps offer a",
+   "o": [
+    "Final offer",
+    "Post-dated cheque on a failing bank",
+    "Great gift",
+    "Fair compromise"
+   ],
+   "a": 1,
+   "w": "He rejected its terms."
+  },
+  {
+   "q": "The Cabinet Mission rejected",
+   "o": [
+    "The demand for a separate Pakistan",
+    "A Constituent Assembly",
+    "A federation",
+    "Provincial groups"
+   ],
+   "a": 0,
+   "w": "It proposed a loose union."
+  },
+  {
+   "q": "Direct Action Day was observed on",
+   "o": [
+    "15 August 1947",
+    "9 August 1942",
+    "3 June 1947",
+    "16 August 1946"
+   ],
+   "a": 3,
+   "w": "Calcutta riots followed."
+  },
+  {
+   "q": "The Constituent Assembly met first on",
+   "o": [
+    "15 August 1947",
+    "26 January 1950",
+    "9 December 1946",
+    "26 November 1949"
+   ],
+   "a": 2,
+   "w": "Sachchidananda Sinha was interim president."
+  },
+  {
+   "q": "The Mountbatten Plan was announced on",
+   "o": [
+    "20 February 1947",
+    "3 June 1947",
+    "15 August 1947",
+    "14 July 1947"
+   ],
+   "a": 1,
+   "w": "It accepted partition."
+  },
+  {
+   "q": "The Provisional Government of Free India was set up by",
+   "o": [
+    "Subhas Chandra Bose",
+    "Rash Behari Bose",
+    "Mohan Singh",
+    "Lakshmi Sahgal"
+   ],
+   "a": 0,
+   "w": "It was announced in Singapore in October 1943."
+  },
+  {
+   "q": "Radcliffe was chairman of the",
+   "o": [
+    "Cabinet Mission",
+    "Simon Commission",
+    "Hunter Committee",
+    "Boundary Commissions for Punjab and Bengal"
+   ],
+   "a": 3,
+   "w": "Award published on 17 August 1947."
+  }
+ ],
+ "sources": [
+  "Bipan Chandra, India’s Struggle for Independence",
+  "Spectrum, Modern India",
+  "Ayesha Jalal, The Sole Spokesman (1985)"
+ ],
+ "verified": "2026-11-10"
+}

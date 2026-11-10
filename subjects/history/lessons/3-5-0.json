@@ -1,0 +1,176 @@
+{
+ "id": "3-5-0",
+ "title": "Acts from 1773 to 1935",
+ "emoji": "⚖️",
+ "cards": [
+  {
+   "tag": "Why this matters",
+   "h": "The constitutional road to 1950",
+   "b": "<p>Every Act from 1773 to 1935 made some part of today’s Constitution. The Government of India Act 1935 is the parent of our Constitution. Prelims loves this chain.</p>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "Phase 1: Company regulation",
+   "b": "<ul><li><b>Regulating Act 1773</b>: Governor of Bengal became Governor-General of Bengal (Warren Hastings); Supreme Court at Calcutta; Executive Council of four.</li><li><b>Pitt’s India Act 1784</b>: Board of Control, dual control of Company and Crown.</li><li><b>Charter Act 1813</b>: ended Company’s trade monopoly except tea and China; Rs 1 lakh for education.</li><li><b>Charter Act 1833</b>: Governor-General of India (Bentinck); Law Member added; ended trade completely.</li><li><b>Charter Act 1853</b>: open competition for ICS; legislative members added.</li></ul>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "Phase 2: Crown rule",
+   "b": "<ul><li><b>Government of India Act 1858</b>: Crown took over; Secretary of State and 15-member Council; Viceroy.</li><li><b>Indian Councils Act 1861</b>: Indians nominated to the Viceroy’s council; portfolio system (Canning); legislative devolution to Bombay and Madras.</li><li><b>Indian Councils Act 1892</b>: indirect election and budget discussion.</li></ul>"
+  },
+  {
+   "tag": "Key idea",
+   "h": "Morley-Minto Reforms, 1909",
+   "b": "<p>Called the Indian Councils Act 1909. More elected members in the Imperial and provincial councils. Indians could ask supplementary questions and move resolutions. <b>Separate electorates for Muslims</b>; Satyendra Sinha became the first Indian on the Viceroy’s Executive Council. Lord Minto is called the “father of communal electorate”. Morley said he was not aiming at parliamentary government.</p>"
+  },
+  {
+   "tag": "Key idea",
+   "h": "Montagu-Chelmsford Reforms, 1919",
+   "b": "<ul><li>Goal: “progressive realisation of responsible government” (Montagu, 1917).</li><li><b>Dyarchy</b> in provinces: transferred subjects (education, health, local government) under Indian ministers; reserved subjects (law and order, finance) under the Governor.</li><li>Bicameral Centre: Council of State and Legislative Assembly; direct elections but narrow franchise (about 3%).</li><li>Separate electorates extended to Sikhs, Indian Christians, Anglo-Indians.</li><li>Public Service Commission and a Statutory Commission after 10 years.</li></ul>"
+  },
+  {
+   "tag": "Key idea",
+   "h": "Government of India Act 1935",
+   "b": "<ul><li>All India Federation of provinces and princely states (never came into force).</li><li><b>Provincial autonomy</b>; dyarchy shifted to the Centre.</li><li>Three lists: Federal, Provincial, Concurrent.</li><li>Federal Court (1937), Reserve Bank (1935), Federal and Provincial Public Service Commissions.</li><li>Burma separated, Sind and Orissa created. Franchise to about 10% of the population.</li><li>The Governor’s special powers and the Governor-General’s discretion remained.</li></ul>"
+  },
+  {
+   "tag": "Key idea",
+   "h": "Independence Act 1947",
+   "b": "<p>The <b>Indian Independence Act 1947</b> ended British suzerainty over princely states, created two dominions from 15 August 1947, allowed each Constituent Assembly to make laws and to repeal British acts, and ended the office of Secretary of State. Governors-General became constitutional heads. India’s Constituent Assembly became its dominion legislature.</p>"
+  },
+  {
+   "tag": "Debate",
+   "h": "Real reform or divide and rule?",
+   "b": "<p>Nationalists saw the Acts as steps taken only under pressure. They used separate electorates and the franchise limits to divide. Yet Bipan Chandra and legal historians note the Acts taught provincial administration and gave the Congress the 1937 experience. The 1935 Act is also called a “charter of slavery” by Nehru and “machine with strong brakes and no engine”.</p>"
+  },
+  {
+   "tag": "Indian angle",
+   "h": "Why it matters today",
+   "b": "<p>About 250 provisions of the Constitution come from the 1935 Act: federal scheme, Governor’s office, emergency powers, Public Service Commissions, Federal Court (now Supreme Court) and the three lists. The Reserve Bank still functions under 1934 and 1935 laws. The Governor’s discretion remains a federalism issue today.</p>"
+  },
+  {
+   "tag": "Exam lens",
+   "h": "How to answer",
+   "b": "<ul><li>“The Government of India Act 1935 laid the foundation of the Indian Constitution.”</li><li>“Trace the constitutional development from 1773 to 1947.” Use a timeline table.</li><li>Prelims tip: 1773 SC, 1784 Board of Control, 1833 Governor-General of India, 1858 Crown, 1909 separate electorates, 1919 dyarchy, 1935 provincial autonomy.</li></ul>",
+   "cls": "exam"
+  }
+ ],
+ "quiz": [
+  {
+   "q": "The Regulating Act 1773 created",
+   "o": [
+    "The Federal Court",
+    "The Reserve Bank",
+    "The Supreme Court at Calcutta",
+    "The Public Service Commission"
+   ],
+   "a": 2,
+   "w": "It also made Hastings Governor-General of Bengal."
+  },
+  {
+   "q": "Pitt’s India Act 1784 created",
+   "o": [
+    "The Viceroy",
+    "The Board of Control",
+    "Dyarchy",
+    "The Federal Court"
+   ],
+   "a": 1,
+   "w": "It set up dual control."
+  },
+  {
+   "q": "The title Governor-General of India came with the",
+   "o": [
+    "Charter Act 1833",
+    "Regulating Act 1773",
+    "Act of 1858",
+    "Act of 1909"
+   ],
+   "a": 0,
+   "w": "Bentinck became the first."
+  },
+  {
+   "q": "Which Act ended Company rule?",
+   "o": [
+    "Charter Act 1853",
+    "Regulating Act 1773",
+    "Indian Councils Act 1861",
+    "Government of India Act 1858"
+   ],
+   "a": 3,
+   "w": "The Crown took over."
+  },
+  {
+   "q": "Separate electorates were first given to Muslims by",
+   "o": [
+    "Act of 1892",
+    "Act of 1919",
+    "Indian Councils Act 1909",
+    "Act of 1935"
+   ],
+   "a": 2,
+   "w": "Morley-Minto Reforms."
+  },
+  {
+   "q": "Dyarchy was introduced in the provinces by",
+   "o": [
+    "Act 1909",
+    "Government of India Act 1919",
+    "Act 1935",
+    "Act 1861"
+   ],
+   "a": 1,
+   "w": "Reserved and transferred subjects."
+  },
+  {
+   "q": "Which Act introduced provincial autonomy?",
+   "o": [
+    "Government of India Act 1935",
+    "Act 1919",
+    "Act 1909",
+    "Independence Act 1947"
+   ],
+   "a": 0,
+   "w": "It abolished dyarchy in provinces."
+  },
+  {
+   "q": "The Federal Court was set up under",
+   "o": [
+    "Charter Act 1833",
+    "Act 1919",
+    "Regulating Act 1773",
+    "Government of India Act 1935"
+   ],
+   "a": 3,
+   "w": "It began in 1937."
+  },
+  {
+   "q": "The Indian Independence Act 1947 created",
+   "o": [
+    "A federation",
+    "A single dominion",
+    "Two dominions, India and Pakistan",
+    "Three dominions"
+   ],
+   "a": 2,
+   "w": "From 15 August 1947."
+  },
+  {
+   "q": "The portfolio system was introduced by",
+   "o": [
+    "Act of 1892",
+    "Indian Councils Act 1861",
+    "Act of 1909",
+    "Act of 1919"
+   ],
+   "a": 1,
+   "w": "Under Canning."
+  }
+ ],
+ "sources": [
+  "Bipan Chandra, History of Modern India",
+  "Laxmikanth, Indian Polity (historical background)",
+  "Spectrum, Modern India"
+ ],
+ "verified": "2026-11-10"
+}
