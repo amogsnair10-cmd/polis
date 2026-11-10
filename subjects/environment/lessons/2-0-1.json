@@ -11,7 +11,7 @@
   {
    "tag": "Water pollution",
    "h": "Indicators",
-   "b": "<p><b>Dissolved oxygen (DO)</b> must be high for aquatic life. <b>BOD</b> (biochemical oxygen demand) shows organic pollution: high BOD means low DO. <b>COD</b> (chemical oxygen demand) includes chemically oxidisable matter and is higher than BOD.</p><p><b>Eutrophication</b> from nutrients causes algal bloom and fish kills. India’s biggest source is untreated sewage.</p>"
+   "b": "<p><b>Dissolved oxygen (DO)</b> must be high for aquatic life. <b>BOD</b> (biochemical oxygen demand) shows organic pollution: high BOD means low DO. <b>COD</b> (chemical oxygen demand) includes chemically oxidisable matter and is higher than BOD.</p><p><b>Eutrophication</b> from nutrients causes algal bloom and fish kills. India’s biggest source is untreated sewage.</p><p>CPCB's criteria for bathing water ask for DO of 5 mg/l or more and BOD of 3 mg/l or less. Other indicators are the faecal coliform count, which shows sewage contamination, plus pH, turbidity and total dissolved solids. Bioindicators help too: some insect larvae such as stoneflies live only in clean water, while sludge worms survive in polluted water.</p><svg class='d' viewBox='0 0 320 182' role='img' aria-label='e21 diagram'><defs><marker id='e21m' markerWidth='8' markerHeight='8' refX='6' refY='4' orient='auto'><path d='M0,0 L8,4 L0,8 z' fill='#5d6474'/></marker></defs><g font-size='11' fill='#1d2433' text-anchor='middle'><rect x='20' y='6' width='280' height='26' fill='#f1e4c6' stroke='#a8792a'/><text x='160' y='23'>Fertiliser and sewage add nutrients</text><rect x='20' y='42' width='280' height='26' fill='#dceaec' stroke='#2f6f7a'/><text x='160' y='59'>Algal bloom covers the water</text><rect x='20' y='78' width='280' height='26' fill='#f4dcd5' stroke='#a3362a'/><text x='160' y='95'>Algae die; bacteria decompose them</text><rect x='20' y='114' width='280' height='26' fill='#f1e4c6' stroke='#a8792a'/><text x='160' y='131'>Dissolved oxygen (DO) falls sharply</text><rect x='20' y='150' width='280' height='26' fill='#dceaec' stroke='#2f6f7a'/><text x='160' y='167'>Fish and other life die</text></g><g stroke='#5d6474' stroke-width='1.5' marker-end='url(#e21m)'><line x1='160' y1='32' x2='160' y2='40'/><line x1='160' y1='68' x2='160' y2='76'/><line x1='160' y1='104' x2='160' y2='112'/><line x1='160' y1='140' x2='160' y2='148'/></g></svg>"
   },
   {
    "tag": "Groundwater",
@@ -21,7 +21,7 @@
   {
    "tag": "Laws and schemes (water)",
    "h": "What exists",
-   "b": "<p>The <b>Water (Prevention and Control of Pollution) Act 1974</b> set up the CPCB and State Boards. The Water Cess Act 1977 taxes water use. Jan Vishwas amendments (2023–24) replaced many jail terms with penalties.</p><p>The <b>Ganga Action Plan</b> began in 1985. <b>Namami Gange</b> (2014) is run by the National Mission for Clean Ganga with sewage treatment as its core. The Ganga became a National River in 2008. <b>Jal Jeevan Mission</b> (2019) aims at tap water in every rural home.</p>"
+   "b": "<p>The <b>Water (Prevention and Control of Pollution) Act 1974</b> set up the CPCB and State Boards. The Water Cess Act 1977 taxes water use. Jan Vishwas amendments (2023–24) replaced many jail terms with penalties.</p><p>The <b>Ganga Action Plan</b> began in 1985. <b>Namami Gange</b> (2014) is run by the National Mission for Clean Ganga with sewage treatment as its core. The Ganga became a National River in 2008. <b>Jal Jeevan Mission</b> (2019) aims at tap water in every rural home.</p><p>Under the 1974 Act, no one may discharge sewage or trade effluent into a stream without the State Board's consent. It was India's first modern pollution law. Under the Environment Protection Act 1986 the Centre sets effluent standards. Practical tools are sewage treatment plants (STPs), common effluent treatment plants (CETPs) and zero liquid discharge norms. Namami Gange also covers industrial effluent monitoring and riverfront development.</p>"
   },
   {
    "tag": "Soil pollution",
@@ -41,7 +41,7 @@
   {
    "tag": "Debate",
    "h": "Law is strong, enforcement is weak",
-   "b": "<p>State Pollution Control Boards are short of staff and funds, and sometimes politically pressured. Decriminalisation (Jan Vishwas) is defended as ease of doing business but criticised as weakening deterrence.</p><p>The polluter pays principle is accepted, yet recovery of environmental compensation is slow. River cleaning has focused on building plants; poor running and no ecological flow remain problems.</p>"
+   "b": "<p>State Pollution Control Boards are short of staff and funds, and sometimes politically pressured. Decriminalisation (Jan Vishwas) is defended as ease of doing business but criticised as weakening deterrence.</p><p>The polluter pays principle is accepted, yet recovery of environmental compensation is slow. River cleaning has focused on building plants; poor running and no ecological flow remain problems.</p><p>NGT orders and court-imposed environmental compensation have forced some cleanups, yet many orders go unmet. Audits have pointed to unspent funds and delays in river projects. Experts propose independent monitoring, real-time online emission monitoring, a larger role for communities, and treating wastewater as a resource for reuse in industry and farming.</p>"
   },
   {
    "tag": "Indian angle",

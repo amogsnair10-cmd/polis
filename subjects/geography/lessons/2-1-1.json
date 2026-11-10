@@ -1,0 +1,176 @@
+{
+ "id": "2-1-1",
+ "title": "Salient Features of World Physical Geography",
+ "emoji": "🌐",
+ "cards": [
+  {
+   "tag": "Why this matters",
+   "h": "A mental map saves marks",
+   "b": "<p>Prelims and mains both reward a clear mental map of the world: where mountains, rivers, seas and straits lie. This lesson is a revision capsule. Learn it with an atlas open and quiz yourself on locations.</p>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "Continents and oceans",
+   "b": "<svg class=\"d\" viewBox=\"0 0 320 248\"><rect x=\"10\" y=\"6\" width=\"90\" height=\"26\" rx=\"6\" fill=\"#f1e4c6\" stroke=\"#a8792a\" stroke-width=\"1.5\"/><text x=\"55.0\" y=\"23\" fill=\"#7d5a1c\" font-size=\"11\" text-anchor=\"middle\" font-weight=\"700\">Continent</text><rect x=\"100\" y=\"6\" width=\"110\" height=\"26\" rx=\"6\" fill=\"#f1e4c6\" stroke=\"#a8792a\" stroke-width=\"1.5\"/><text x=\"155.0\" y=\"23\" fill=\"#7d5a1c\" font-size=\"11\" text-anchor=\"middle\" font-weight=\"700\">Area (m sq km)</text><rect x=\"210\" y=\"6\" width=\"100\" height=\"26\" rx=\"6\" fill=\"#f1e4c6\" stroke=\"#a8792a\" stroke-width=\"1.5\"/><text x=\"260.0\" y=\"23\" fill=\"#7d5a1c\" font-size=\"11\" text-anchor=\"middle\" font-weight=\"700\">Note</text><rect x=\"10\" y=\"32\" width=\"90\" height=\"30\" rx=\"0\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"55.0\" y=\"51\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\" font-weight=\"700\">Asia</text><rect x=\"100\" y=\"32\" width=\"110\" height=\"30\" rx=\"0\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"155.0\" y=\"51\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\">44.6</text><rect x=\"210\" y=\"32\" width=\"100\" height=\"30\" rx=\"0\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"260.0\" y=\"51\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\">Largest, highest</text><rect x=\"10\" y=\"62\" width=\"90\" height=\"30\" rx=\"0\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"55.0\" y=\"81\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\" font-weight=\"700\">Africa</text><rect x=\"100\" y=\"62\" width=\"110\" height=\"30\" rx=\"0\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"155.0\" y=\"81\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\">30.4</text><rect x=\"210\" y=\"62\" width=\"100\" height=\"30\" rx=\"0\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"260.0\" y=\"81\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\">Equator crosses</text><rect x=\"10\" y=\"92\" width=\"90\" height=\"30\" rx=\"0\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"55.0\" y=\"111\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\" font-weight=\"700\">N. America</text><rect x=\"100\" y=\"92\" width=\"110\" height=\"30\" rx=\"0\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"155.0\" y=\"111\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\">24.2</text><rect x=\"210\" y=\"92\" width=\"100\" height=\"30\" rx=\"0\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"260.0\" y=\"111\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\">Rockies</text><rect x=\"10\" y=\"122\" width=\"90\" height=\"30\" rx=\"0\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"55.0\" y=\"141\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\" font-weight=\"700\">S. America</text><rect x=\"100\" y=\"122\" width=\"110\" height=\"30\" rx=\"0\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"155.0\" y=\"141\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\">17.8</text><rect x=\"210\" y=\"122\" width=\"100\" height=\"30\" rx=\"0\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"260.0\" y=\"141\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\">Andes, Amazon</text><rect x=\"10\" y=\"152\" width=\"90\" height=\"30\" rx=\"0\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"55.0\" y=\"171\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\" font-weight=\"700\">Antarctica</text><rect x=\"100\" y=\"152\" width=\"110\" height=\"30\" rx=\"0\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"155.0\" y=\"171\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\">14.2</text><rect x=\"210\" y=\"152\" width=\"100\" height=\"30\" rx=\"0\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"260.0\" y=\"171\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\">Ice desert</text><rect x=\"10\" y=\"182\" width=\"90\" height=\"30\" rx=\"0\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"55.0\" y=\"201\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\" font-weight=\"700\">Europe</text><rect x=\"100\" y=\"182\" width=\"110\" height=\"30\" rx=\"0\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"155.0\" y=\"201\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\">10.2</text><rect x=\"210\" y=\"182\" width=\"100\" height=\"30\" rx=\"0\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"260.0\" y=\"201\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\">Alps, Urals</text><rect x=\"10\" y=\"212\" width=\"90\" height=\"30\" rx=\"0\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"55.0\" y=\"231\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\" font-weight=\"700\">Australia</text><rect x=\"100\" y=\"212\" width=\"110\" height=\"30\" rx=\"0\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"155.0\" y=\"231\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\">8.5</text><rect x=\"210\" y=\"212\" width=\"100\" height=\"30\" rx=\"0\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"260.0\" y=\"231\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\">Smallest</text></svg><svg class=\"d\" viewBox=\"0 0 320 166\"><rect x=\"10\" y=\"6\" width=\"95\" height=\"34\" rx=\"6\" fill=\"#dceaec\" stroke=\"#2f6f7a\" stroke-width=\"1.5\"/><text x=\"57.5\" y=\"27.0\" fill=\"#2f6f7a\" font-size=\"11\" text-anchor=\"middle\" font-weight=\"700\">Pacific</text><rect x=\"111\" y=\"6\" width=\"199\" height=\"34\" rx=\"6\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"210.5\" y=\"27.0\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\">About 165 m sq km, largest, deepest, Mariana</text><rect x=\"10\" y=\"46\" width=\"95\" height=\"34\" rx=\"6\" fill=\"#f1e4c6\" stroke=\"#a8792a\" stroke-width=\"1.5\"/><text x=\"57.5\" y=\"67.0\" fill=\"#7d5a1c\" font-size=\"11\" text-anchor=\"middle\" font-weight=\"700\">Atlantic</text><rect x=\"111\" y=\"46\" width=\"199\" height=\"34\" rx=\"6\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"210.5\" y=\"67.0\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\">About 82, S-shaped, Mid-Atlantic Ridge</text><rect x=\"10\" y=\"86\" width=\"95\" height=\"34\" rx=\"6\" fill=\"#f4dcd5\" stroke=\"#a3362a\" stroke-width=\"1.5\"/><text x=\"57.5\" y=\"107.0\" fill=\"#a3362a\" font-size=\"11\" text-anchor=\"middle\" font-weight=\"700\">Indian</text><rect x=\"111\" y=\"86\" width=\"199\" height=\"34\" rx=\"6\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"210.5\" y=\"107.0\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\">About 73, monsoon, trade routes</text><rect x=\"10\" y=\"126\" width=\"95\" height=\"34\" rx=\"6\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"57.5\" y=\"147.0\" fill=\"#1d2433\" font-size=\"11\" text-anchor=\"middle\" font-weight=\"700\">Southern, Arctic</text><rect x=\"111\" y=\"126\" width=\"199\" height=\"34\" rx=\"6\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"210.5\" y=\"147.0\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\">Southern ringed by Antarctica; Arctic smallest</text></svg>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "Mountain systems",
+   "b": "<svg class=\"d\" viewBox=\"0 0 320 176\"><rect x=\"10\" y=\"6\" width=\"85\" height=\"30\" rx=\"6\" fill=\"#f4dcd5\" stroke=\"#a3362a\" stroke-width=\"1.5\"/><text x=\"52.5\" y=\"25.0\" fill=\"#a3362a\" font-size=\"11\" text-anchor=\"middle\" font-weight=\"700\">Andes</text><rect x=\"101\" y=\"6\" width=\"209\" height=\"30\" rx=\"6\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"205.5\" y=\"25.0\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\">Longest range, over 7,000 km, S. America</text><rect x=\"10\" y=\"40\" width=\"85\" height=\"30\" rx=\"6\" fill=\"#f1e4c6\" stroke=\"#a8792a\" stroke-width=\"1.5\"/><text x=\"52.5\" y=\"59.0\" fill=\"#7d5a1c\" font-size=\"11\" text-anchor=\"middle\" font-weight=\"700\">Himalaya</text><rect x=\"101\" y=\"40\" width=\"209\" height=\"30\" rx=\"6\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"205.5\" y=\"59.0\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\">Highest, Everest 8,849 m</text><rect x=\"10\" y=\"74\" width=\"85\" height=\"30\" rx=\"6\" fill=\"#dceaec\" stroke=\"#2f6f7a\" stroke-width=\"1.5\"/><text x=\"52.5\" y=\"93.0\" fill=\"#2f6f7a\" font-size=\"11\" text-anchor=\"middle\" font-weight=\"700\">Rockies</text><rect x=\"101\" y=\"74\" width=\"209\" height=\"30\" rx=\"6\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"205.5\" y=\"93.0\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\">North America, Mt Elbert in Colorado</text><rect x=\"10\" y=\"108\" width=\"85\" height=\"30\" rx=\"6\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"52.5\" y=\"127.0\" fill=\"#1d2433\" font-size=\"11\" text-anchor=\"middle\" font-weight=\"700\">Alps</text><rect x=\"101\" y=\"108\" width=\"209\" height=\"30\" rx=\"6\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"205.5\" y=\"127.0\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\">Europe, Mont Blanc 4,808 m</text><rect x=\"10\" y=\"142\" width=\"85\" height=\"30\" rx=\"6\" fill=\"#f1e4c6\" stroke=\"#a8792a\" stroke-width=\"1.5\"/><text x=\"52.5\" y=\"161.0\" fill=\"#7d5a1c\" font-size=\"11\" text-anchor=\"middle\" font-weight=\"700\">Urals</text><rect x=\"101\" y=\"142\" width=\"209\" height=\"30\" rx=\"6\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"205.5\" y=\"161.0\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\">Boundary of Europe and Asia</text></svg><p>Most great ranges follow plate boundaries. The Pacific \"Ring of Fire\" circles the Pacific with young fold mountains and volcanoes (Andes, Rockies, Japan).</p>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "Rivers",
+   "b": "<svg class=\"d\" viewBox=\"0 0 320 188\"><rect x=\"10\" y=\"6\" width=\"75\" height=\"26\" rx=\"6\" fill=\"#f1e4c6\" stroke=\"#a8792a\" stroke-width=\"1.5\"/><text x=\"47.5\" y=\"23\" fill=\"#7d5a1c\" font-size=\"11\" text-anchor=\"middle\" font-weight=\"700\">River</text><rect x=\"85\" y=\"6\" width=\"90\" height=\"26\" rx=\"6\" fill=\"#f1e4c6\" stroke=\"#a8792a\" stroke-width=\"1.5\"/><text x=\"130.0\" y=\"23\" fill=\"#7d5a1c\" font-size=\"11\" text-anchor=\"middle\" font-weight=\"700\">Continent</text><rect x=\"175\" y=\"6\" width=\"135\" height=\"26\" rx=\"6\" fill=\"#f1e4c6\" stroke=\"#a8792a\" stroke-width=\"1.5\"/><text x=\"242.5\" y=\"23\" fill=\"#7d5a1c\" font-size=\"11\" text-anchor=\"middle\" font-weight=\"700\">Note</text><rect x=\"10\" y=\"32\" width=\"75\" height=\"30\" rx=\"0\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"47.5\" y=\"51\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\" font-weight=\"700\">Nile</text><rect x=\"85\" y=\"32\" width=\"90\" height=\"30\" rx=\"0\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"130.0\" y=\"51\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\">Africa</text><rect x=\"175\" y=\"32\" width=\"135\" height=\"30\" rx=\"0\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"242.5\" y=\"51\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\">Longest, to Mediterranean</text><rect x=\"10\" y=\"62\" width=\"75\" height=\"30\" rx=\"0\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"47.5\" y=\"81\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\" font-weight=\"700\">Amazon</text><rect x=\"85\" y=\"62\" width=\"90\" height=\"30\" rx=\"0\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"130.0\" y=\"81\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\">S. America</text><rect x=\"175\" y=\"62\" width=\"135\" height=\"30\" rx=\"0\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"242.5\" y=\"81\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\">Largest discharge</text><rect x=\"10\" y=\"92\" width=\"75\" height=\"30\" rx=\"0\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"47.5\" y=\"111\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\" font-weight=\"700\">Yangtze</text><rect x=\"85\" y=\"92\" width=\"90\" height=\"30\" rx=\"0\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"130.0\" y=\"111\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\">Asia</text><rect x=\"175\" y=\"92\" width=\"135\" height=\"30\" rx=\"0\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"242.5\" y=\"111\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\">Longest in Asia</text><rect x=\"10\" y=\"122\" width=\"75\" height=\"30\" rx=\"0\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"47.5\" y=\"141\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\" font-weight=\"700\">Mississippi</text><rect x=\"85\" y=\"122\" width=\"90\" height=\"30\" rx=\"0\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"130.0\" y=\"141\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\">N. America</text><rect x=\"175\" y=\"122\" width=\"135\" height=\"30\" rx=\"0\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"242.5\" y=\"141\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\">With Missouri, long</text><rect x=\"10\" y=\"152\" width=\"75\" height=\"30\" rx=\"0\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"47.5\" y=\"171\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\" font-weight=\"700\">Volga</text><rect x=\"85\" y=\"152\" width=\"90\" height=\"30\" rx=\"0\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"130.0\" y=\"171\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\">Europe</text><rect x=\"175\" y=\"152\" width=\"135\" height=\"30\" rx=\"0\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"242.5\" y=\"171\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\">Longest in Europe, Caspian</text></svg><p>The Nile and the Amazon are often argued as the longest; recent studies suggest the Amazon could be as long as or longer. For exams, the safe answer is the <b>Nile</b>. Rivers draining to enclosed seas include the Volga (Caspian) and the Amu and Syr Darya (Aral).</p>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "Lakes and deserts",
+   "b": "<p>The Great Lakes of North America hold a large share of surface fresh water; <b>Lake Superior</b> is the largest freshwater lake by area. <b>Lake Baikal</b> is the deepest and holds about 20% of the world's liquid fresh water. Deserts: Sahara, Arabian, Gobi, Atacama (driest), Kalahari, Thar. Antarctica is the largest by area.</p><svg class=\"d\" viewBox=\"0 0 320 218\"><rect x=\"10\" y=\"6\" width=\"150\" height=\"26\" rx=\"6\" fill=\"#f1e4c6\" stroke=\"#a8792a\" stroke-width=\"1.5\"/><text x=\"85.0\" y=\"23\" fill=\"#7d5a1c\" font-size=\"11\" text-anchor=\"middle\" font-weight=\"700\">Record</text><rect x=\"160\" y=\"6\" width=\"150\" height=\"26\" rx=\"6\" fill=\"#f1e4c6\" stroke=\"#a8792a\" stroke-width=\"1.5\"/><text x=\"235.0\" y=\"23\" fill=\"#7d5a1c\" font-size=\"11\" text-anchor=\"middle\" font-weight=\"700\">Answer</text><rect x=\"10\" y=\"32\" width=\"150\" height=\"30\" rx=\"0\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"85.0\" y=\"51\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\" font-weight=\"700\">Largest hot desert</text><rect x=\"160\" y=\"32\" width=\"150\" height=\"30\" rx=\"0\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"235.0\" y=\"51\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\">Sahara</text><rect x=\"10\" y=\"62\" width=\"150\" height=\"30\" rx=\"0\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"85.0\" y=\"81\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\" font-weight=\"700\">Largest lake</text><rect x=\"160\" y=\"62\" width=\"150\" height=\"30\" rx=\"0\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"235.0\" y=\"81\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\">Caspian Sea</text><rect x=\"10\" y=\"92\" width=\"150\" height=\"30\" rx=\"0\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"85.0\" y=\"111\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\" font-weight=\"700\">Deepest lake</text><rect x=\"160\" y=\"92\" width=\"150\" height=\"30\" rx=\"0\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"235.0\" y=\"111\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\">Baikal, 1,642 m</text><rect x=\"10\" y=\"122\" width=\"150\" height=\"30\" rx=\"0\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"85.0\" y=\"141\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\" font-weight=\"700\">Highest waterfall</text><rect x=\"160\" y=\"122\" width=\"150\" height=\"30\" rx=\"0\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"235.0\" y=\"141\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\">Angel Falls, Venezuela</text><rect x=\"10\" y=\"152\" width=\"150\" height=\"30\" rx=\"0\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"85.0\" y=\"171\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\" font-weight=\"700\">Largest island</text><rect x=\"160\" y=\"152\" width=\"150\" height=\"30\" rx=\"0\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"235.0\" y=\"171\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\">Greenland</text><rect x=\"10\" y=\"182\" width=\"150\" height=\"30\" rx=\"0\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"85.0\" y=\"201\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\" font-weight=\"700\">Lowest land point</text><rect x=\"160\" y=\"182\" width=\"150\" height=\"30\" rx=\"0\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"235.0\" y=\"201\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\">Dead Sea shore</text></svg>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "Straits, canals and chokepoints",
+   "b": "<p><b>Suez Canal</b> (opened 1869) links the Mediterranean to the Red Sea. <b>Panama Canal</b> (1914) links the Atlantic and Pacific. Straits: Gibraltar, Bosphorus, Hormuz, Malacca, Bab-el-Mandeb, Bering. These control the flow of oil, grain and goods, and are central to international relations.</p>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "Lines on the globe",
+   "b": "<svg class=\"d\" viewBox=\"0 0 320 170\"><circle cx=\"160\" cy=\"85\" r=\"70\" fill=\"#dceaec\" stroke=\"#2f6f7a\" stroke-width=\"1.5\"/><line x1=\"90\" y1=\"85\" x2=\"230\" y2=\"85\" stroke=\"#a3362a\" stroke-width=\"2\"/><line x1=\"98\" y1=\"58\" x2=\"222\" y2=\"58\" stroke=\"#a8792a\" stroke-width=\"1.5\" stroke-dasharray=\"4 3\"/><line x1=\"98\" y1=\"112\" x2=\"222\" y2=\"112\" stroke=\"#a8792a\" stroke-width=\"1.5\" stroke-dasharray=\"4 3\"/><line x1=\"120\" y1=\"36\" x2=\"200\" y2=\"36\" stroke=\"#2f6f7a\" stroke-width=\"1.5\" stroke-dasharray=\"4 3\"/><line x1=\"120\" y1=\"134\" x2=\"200\" y2=\"134\" stroke=\"#2f6f7a\" stroke-width=\"1.5\" stroke-dasharray=\"4 3\"/><text x=\"30\" y=\"89\" fill=\"#a3362a\" font-size=\"10\" text-anchor=\"start\" font-weight=\"700\">Equator 0</text><text x=\"26\" y=\"62\" fill=\"#7d5a1c\" font-size=\"10\" text-anchor=\"start\" font-weight=\"700\">Cancer 23.5 N</text><text x=\"26\" y=\"116\" fill=\"#7d5a1c\" font-size=\"10\" text-anchor=\"start\" font-weight=\"700\">Capricorn 23.5 S</text><text x=\"236\" y=\"40\" fill=\"#2f6f7a\" font-size=\"10\" text-anchor=\"start\" font-weight=\"700\">Arctic 66.5 N</text><text x=\"236\" y=\"138\" fill=\"#2f6f7a\" font-size=\"10\" text-anchor=\"start\" font-weight=\"700\">Antarctic 66.5 S</text><text x=\"160\" y=\"165\" fill=\"#5d6474\" font-size=\"10\" text-anchor=\"middle\">India: IST is 82.5 E, 5 h 30 min ahead of GMT</text></svg><p>Latitude lines are parallel; longitudes meet at the poles. The <b>Prime Meridian</b> runs through Greenwich; the <b>International Date Line</b> follows 180 degrees. The Sun is overhead between the Tropics. Days become polar near the circles.</p>"
+  },
+  {
+   "tag": "Debate",
+   "h": "Facts that change",
+   "b": "<p>Everest was officially re-measured at <b>8,848.86 m</b> by China and Nepal in 2020. The Aral Sea has shrunk drastically since 1960 because of cotton irrigation. Arctic sea ice and glaciers are in retreat. Treat many \"record\" numbers as approximate and say \"about\" or \"as of\" in answers.</p>"
+  },
+  {
+   "tag": "Indian angle",
+   "h": "India's place on the world map",
+   "b": "<p>The mainland lies between 8 and 37 degrees N, so the <b>Tropic of Cancer</b> splits it nearly in half. India is the seventh largest country by area and has land borders with six countries (seven if Afghanistan is counted through PoK). Himalaya and the Indian Ocean frame it. The Indian Ocean linking Africa, the Gulf and East Asia explains India's sea power role.</p>"
+  },
+  {
+   "tag": "Exam lens",
+   "cls": "exam",
+   "h": "How to write this",
+   "b": "<div class=\"box\"><h4>Likely questions</h4><p>\"Mention the major straits and canals of the world and explain their strategic importance.\" (10 marks)</p><p>\"Locate on a map and explain the importance of the Malacca Strait.\" (10 marks)</p></div><p><b>Structure:</b> locate; give a number; add one strategic or economic point; link to India.</p><p><b>Prelims tip:</b> sketch a rough world map and drill locations of seas, straits, deserts and mountain ranges.</p>"
+  }
+ ],
+ "quiz": [
+  {
+   "q": "Largest continent by area is",
+   "o": [
+    "Asia",
+    "Africa",
+    "North America",
+    "Europe"
+   ],
+   "a": 0,
+   "w": "About 44.6 million sq km."
+  },
+  {
+   "q": "Longest mountain range on land is the",
+   "o": [
+    "Himalaya",
+    "Rockies",
+    "Alps",
+    "Andes"
+   ],
+   "a": 3,
+   "w": "Over 7,000 km."
+  },
+  {
+   "q": "Deepest lake in the world is",
+   "o": [
+    "Superior",
+    "Baikal",
+    "Caspian",
+    "Victoria"
+   ],
+   "a": 1,
+   "w": "1,642 m."
+  },
+  {
+   "q": "Largest hot desert is the",
+   "o": [
+    "Gobi",
+    "Sahara",
+    "Kalahari",
+    "Arabian"
+   ],
+   "a": 1,
+   "w": "Antarctica is largest overall."
+  },
+  {
+   "q": "Angel Falls is in",
+   "o": [
+    "Brazil",
+    "Zambia",
+    "Canada",
+    "Venezuela"
+   ],
+   "a": 3,
+   "w": "Highest uninterrupted waterfall."
+  },
+  {
+   "q": "Suez Canal opened in",
+   "o": [
+    "1869",
+    "1914",
+    "1900",
+    "1956"
+   ],
+   "a": 0,
+   "w": "Panama opened in 1914."
+  },
+  {
+   "q": "Which strait lies between Indonesia and Malaysia?",
+   "o": [
+    "Hormuz",
+    "Bosphorus",
+    "Malacca",
+    "Gibraltar"
+   ],
+   "a": 2,
+   "w": "It is a key sea lane to East Asia."
+  },
+  {
+   "q": "Longest river in Europe is the",
+   "o": [
+    "Danube",
+    "Rhine",
+    "Dnieper",
+    "Volga"
+   ],
+   "a": 3,
+   "w": "It flows into the Caspian."
+  },
+  {
+   "q": "Tropic of Cancer is at",
+   "o": [
+    "23.5 degrees N",
+    "66.5 degrees N",
+    "0 degrees",
+    "30 degrees N"
+   ],
+   "a": 0,
+   "w": "It splits India."
+  },
+  {
+   "q": "The International Date Line follows roughly",
+   "o": [
+    "0 degrees",
+    "90 degrees E",
+    "180 degrees",
+    "82.5 degrees E"
+   ],
+   "a": 2,
+   "w": "Opposite the Prime Meridian."
+  }
+ ],
+ "sources": [
+  "NCERT Class 6-12 atlas-based content, esp. Class 11 ch. 1",
+  "G.C. Leong, Certificate Physical and Human Geography",
+  "National Geographic and USGS fact sheets"
+ ],
+ "verified": "2026-11-10"
+}

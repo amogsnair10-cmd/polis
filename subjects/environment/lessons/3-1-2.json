@@ -11,7 +11,7 @@
   {
    "tag": "Ozone layer",
    "h": "What and where",
-   "b": "<p>Ozone (O3) in the stratosphere (peak about 20 to 30 km up) absorbs harmful UV-B and UV-C. It is measured in <b>Dobson Units</b>. Ground-level ozone is a pollutant.</p><p><b>Rowland and Molina</b> (1974) warned about CFCs. In 1985 <b>Farman, Gardiner and Shanklin</b> reported the Antarctic ozone hole. Crutzen, Rowland and Molina won the Nobel Prize in 1995.</p>"
+   "b": "<p>Ozone (O3) in the stratosphere (peak about 20 to 30 km up) absorbs harmful UV-B and UV-C. It is measured in <b>Dobson Units</b>. Ground-level ozone is a pollutant.</p><p><b>Rowland and Molina</b> (1974) warned about CFCs. In 1985 <b>Farman, Gardiner and Shanklin</b> reported the Antarctic ozone hole. Crutzen, Rowland and Molina won the Nobel Prize in 1995.</p><p>UV-B can cause skin cancer, cataracts and damage to crops and plankton. The ozone hole forms over Antarctica each spring (September to October) because polar stratospheric clouds help chlorine destroy ozone. Remember the contrast: stratospheric ozone is protective, while tropospheric (ground-level) ozone is a pollutant.</p>"
   },
   {
    "tag": "How it breaks",
@@ -21,7 +21,7 @@
   {
    "tag": "Vienna and Montreal",
    "h": "The treaties",
-   "b": "<p>The <b>Vienna Convention</b> (1985) set up cooperation. The <b>Montreal Protocol</b> (1987, in force 1989) phases out ODS. It is the first treaty ratified by every country in the world.</p><p>It works with a Multilateral Fund to help developing countries, and has binding timetables. Amendments: London (1990), Copenhagen (1992), Montreal (1997), Beijing (1999) and <b>Kigali (2016)</b>.</p>"
+   "b": "<p>The <b>Vienna Convention</b> (1985) set up cooperation. The <b>Montreal Protocol</b> (1987, in force 1989) phases out ODS. It is the first treaty ratified by every country in the world.</p><p>It works with a Multilateral Fund to help developing countries, and has binding timetables. Amendments: London (1990), Copenhagen (1992), Montreal (1997), Beijing (1999) and <b>Kigali (2016)</b>.</p><svg class='d' viewBox='0 0 320 174' role='img' aria-label='o32 diagram'><defs><marker id='o32m' markerWidth='8' markerHeight='8' refX='6' refY='4' orient='auto'><path d='M0,0 L8,4 L0,8 z' fill='#5d6474'/></marker></defs><g font-size='11' fill='#1d2433' text-anchor='middle'><rect x='20' y='6' width='280' height='30' fill='#f1e4c6' stroke='#a8792a'/><text x='160' y='25'>1985: Vienna Convention (framework)</text><rect x='20' y='50' width='280' height='30' fill='#dceaec' stroke='#2f6f7a'/><text x='160' y='69'>1987: Montreal Protocol (in force 1989)</text><rect x='20' y='94' width='280' height='30' fill='#f4dcd5' stroke='#a3362a'/><text x='160' y='113'>1990: London, Multilateral Fund agreed</text><rect x='20' y='138' width='280' height='30' fill='#f1e4c6' stroke='#a8792a'/><text x='160' y='157'>2016: Kigali Amendment (HFC phase-down)</text></g><g stroke='#5d6474' stroke-width='1.5' marker-end='url(#o32m)'><line x1='160' y1='36' x2='160' y2='48'/><line x1='160' y1='80' x2='160' y2='92'/><line x1='160' y1='124' x2='160' y2='136'/></g></svg>"
   },
   {
    "tag": "Kigali Amendment",
@@ -36,12 +36,12 @@
   {
    "tag": "Other conventions (2)",
    "h": "Chemicals and seas",
-   "b": "<ul><li><b>Basel</b> 1989: hazardous waste.</li><li><b>Rotterdam</b> 1998: prior informed consent for chemicals.</li><li><b>Stockholm</b> 2001: persistent organic pollutants.</li><li><b>Minamata</b> 2013: mercury (in force 2017).</li><li><b>MARPOL</b> 1973/78: ship pollution.</li><li><b>BBNJ</b> (High Seas Treaty), adopted 2023 and in force from January 2026.</li></ul>"
+   "b": "<ul><li><b>Basel</b> 1989: hazardous waste.</li><li><b>Rotterdam</b> 1998: prior informed consent for chemicals.</li><li><b>Stockholm</b> 2001: persistent organic pollutants.</li><li><b>Minamata</b> 2013: mercury (in force 2017).</li><li><b>MARPOL</b> 1973/78: ship pollution.</li><li><b>BBNJ</b> (High Seas Treaty), adopted 2023 and in force from January 2026.</li></ul><p>The Basel Convention covers cross-border movement of hazardous waste. Rotterdam and Stockholm deal with hazardous pesticides and persistent organic pollutants such as DDT. Minamata is named after the Japanese city where mercury poisoning was seen in the 1950s. MARPOL has six annexes covering oil, chemicals, sewage, garbage and air pollution from ships. BBNJ concerns biodiversity in areas beyond national jurisdiction.</p>"
   },
   {
    "tag": "Debate",
    "h": "Why did Montreal work?",
-   "b": "<p>Success factors: clear science, substitutes available, binding timetables, trade restrictions on non-parties, a fund for poor countries and a review system.</p><p>Climate change is harder: no easy substitute for fossil fuels, costs are high and benefits are shared. Some argue the Kigali style phase-down model could help other gases.</p>"
+   "b": "<p>Success factors: clear science, substitutes available, binding timetables, trade restrictions on non-parties, a fund for poor countries and a review system.</p><p>Climate change is harder: no easy substitute for fossil fuels, costs are high and benefits are shared. Some argue the Kigali style phase-down model could help other gases.</p><p>Montreal's Multilateral Fund helped developing countries pay for the switch, and longer timetables gave India and China more time, reflecting common but differentiated responsibilities. The treaty has been amended several times (London, Copenhagen, Montreal, Beijing and Kigali) so it adjusts to new science. It was the first treaty ratified by every country.</p>"
   },
   {
    "tag": "Indian angle",

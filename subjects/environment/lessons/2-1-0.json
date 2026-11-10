@@ -16,12 +16,12 @@
   {
    "tag": "Causes",
    "h": "Why it happens",
-   "b": "<ul><li>Agriculture expansion, shifting cultivation (jhum) with short fallows.</li><li>Mining, dams and roads; urban sprawl.</li><li>Overgrazing and fuelwood collection.</li><li>Unsustainable irrigation causing salinity and waterlogging, for example in Punjab and Haryana.</li><li>Climate change: drought and extreme rain.</li></ul>"
+   "b": "<ul><li>Agriculture expansion, shifting cultivation (jhum) with short fallows.</li><li>Mining, dams and roads; urban sprawl.</li><li>Overgrazing and fuelwood collection.</li><li>Unsustainable irrigation causing salinity and waterlogging, for example in Punjab and Haryana.</li><li>Climate change: drought and extreme rain.</li></ul><svg class='d' viewBox='0 0 320 182' role='img' aria-label='d23 diagram'><defs><marker id='d23m' markerWidth='8' markerHeight='8' refX='6' refY='4' orient='auto'><path d='M0,0 L8,4 L0,8 z' fill='#5d6474'/></marker></defs><g font-size='11' fill='#1d2433' text-anchor='middle'><rect x='20' y='6' width='280' height='32' fill='#f1e4c6' stroke='#a8792a'/><text x='160' y='26'>Deforestation and overgrazing</text><rect x='20' y='52' width='280' height='32' fill='#dceaec' stroke='#2f6f7a'/><text x='160' y='72'>Bare soil: erosion by wind and water</text><rect x='20' y='98' width='280' height='32' fill='#f4dcd5' stroke='#a3362a'/><text x='160' y='118'>Loss of topsoil and fertility</text><rect x='20' y='144' width='280' height='32' fill='#f1e4c6' stroke='#a8792a'/><text x='160' y='164'>Lower yields, poverty, migration</text></g><g stroke='#5d6474' stroke-width='1.5' marker-end='url(#d23m)'><line x1='160' y1='38' x2='160' y2='50'/><line x1='160' y1='84' x2='160' y2='96'/><line x1='160' y1='130' x2='160' y2='142'/></g></svg>"
   },
   {
    "tag": "Numbers",
    "h": "India’s land",
-   "b": "<p>The SAC-ISRO <b>Desertification and Land Degradation Atlas</b> reported that about <b>97.85 million hectares</b> (nearly 29.7 percent of India’s area) was degraded in 2018–19. The main hotspots are Rajasthan, Jharkhand, Odisha, Chhattisgarh, Gujarat and Delhi.</p><p>India has pledged to restore 26 million hectares by 2030 under the Bonn Challenge and the UNCCD, and to create an additional carbon sink of 2.5 to 3 billion tonnes of CO2 equivalent.</p>"
+   "b": "<p>The SAC-ISRO <b>Desertification and Land Degradation Atlas</b> reported that about <b>97.85 million hectares</b> (nearly 29.7 percent of India’s area) was degraded in 2018–19. The main hotspots are Rajasthan, Jharkhand, Odisha, Chhattisgarh, Gujarat and Delhi.</p><p>India has pledged to restore 26 million hectares by 2030 under the Bonn Challenge and the UNCCD, and to create an additional carbon sink of 2.5 to 3 billion tonnes of CO2 equivalent.</p><p>The atlas shows water erosion as the largest single process of degradation, followed by vegetation degradation and wind erosion. Desertification is land degradation in arid, semi-arid and dry sub-humid areas; the Thar is the main arid region, and the Aravalli range has also lost cover. Degradation lowers soil carbon, water-holding capacity and crop yield.</p>"
   },
   {
    "tag": "UNCCD",
@@ -51,7 +51,7 @@
   {
    "tag": "Exam lens",
    "h": "How to answer",
-   "b": "<p><b>Mains-style:</b> “What is land degradation? How does it affect food security, and what steps has India taken?” Structure: definition; extent (nearly 30 percent); causes; effects on yield and livelihoods; policy (soil health card, watershed development, Bonn commitment, UNCCD); way forward.</p><p><b>Mains-style:</b> “Critically evaluate the 2023 Forest Conservation amendment.”</p><p><b>Prelims tip:</b> UNCCD 1994, entered into force 1996, COP14 in India 2019. Bonn Challenge 2011.</p>",
+   "b": "<p><b>Mains-style:</b> “What is land degradation? How does it affect food security, and what steps has India taken?” Structure: definition; extent (nearly 30 percent); causes; effects on yield and livelihoods; policy (soil health card, watershed development, Bonn commitment, UNCCD); way forward.</p><p><b>Mains-style:</b> “Critically evaluate the 2023 Forest Conservation amendment.”</p><p><b>Prelims tip:</b> UNCCD 1994, entered into force 1996, COP14 in India 2019. Bonn Challenge 2011.</p><p>Prelims tip: the World Day to Combat Desertification is 17 June. The Forest Survey of India publishes the India State of Forest Report every two years. In answers use data from the atlas and name schemes: Soil Health Card (2015), watershed development under PMKSY, the Green India Mission and CAMPA funds. End with land degradation neutrality, which is SDG target 15.3.</p>",
    "cls": "exam"
   }
  ],

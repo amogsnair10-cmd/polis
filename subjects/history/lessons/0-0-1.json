@@ -1,0 +1,176 @@
+{
+ "id": "0-0-1",
+ "title": "The Harappan Civilisation",
+ "emoji": "🏛️",
+ "cards": [
+  {
+   "tag": "Why this matters",
+   "h": "India’s first cities",
+   "b": "<p>The Indus or Harappan civilisation is the oldest urban culture of the subcontinent. It is asked every year: sites, planning, trade, decline and the script.</p>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "Discovery and extent",
+   "b": "<p>Dayaram Sahni found Harappa (1921); R. D. Banerji, Mohenjo-daro (1922); John Marshall was director general of the ASI. Mature phase: 2600 to 1900 BCE. Spread: Punjab, Sindh, Gujarat, Rajasthan, Haryana, western UP, Afghanistan (Shortugai). Sites: Harappa, Mohenjo-daro, <b>Dholavira</b>, <b>Lothal</b>, <b>Kalibangan</b>, <b>Banawali</b>, <b>Rakhigarhi</b> (largest in India), <b>Chanhudaro</b>, Surkotada, Ropar. Named “Indus Valley”, but many sites lay on the Ghaggar-Hakra.</p>"
+  },
+  {
+   "tag": "Key idea",
+   "h": "Town planning",
+   "b": "<p>Grid pattern; streets crossing at right angles; two parts: <b>citadel</b> (west) and lower town (east); baked brick in the ratio 1:2:4; covered drains with soak pits; the <b>Great Bath</b> (Mohenjo-daro); granaries (Harappa, Mohenjo-daro); Dholavira’s three parts and water reservoirs (UNESCO 2021); Lothal’s dockyard. Houses with courtyards, bathrooms and wells.</p>"
+  },
+  {
+   "tag": "Key idea",
+   "h": "Economy and trade",
+   "b": "<p>Wheat, barley, cotton, dates, peas; cattle (humped bull), sheep, goat. No clear evidence of the plough in most sites (a furrowed field at Kalibangan). Crafts: beads (Chanhudaro), pottery, bronze and copper work, seals of steatite. <b>Trade</b>: Mesopotamia (Meluhha in Sumerian texts); Persian Gulf, Dilmun (Bahrain), Magan; weights in multiples of 16; a lack of coins (barter). Raw materials: lapis lazuli (Shortugai), copper (Khetri), tin, shell.</p>"
+  },
+  {
+   "tag": "Key idea",
+   "h": "Society, religion, art",
+   "b": "<p>Seals show the <b>Pashupati</b> figure, unicorn bull, and trees. Mother goddess terracotta; <i>Lingam</i> and <i>yoni</i> stones; tree and animal worship; fire altars at Kalibangan and Lothal. Bronze <b>Dancing Girl</b>, steatite Priest-King. Burial: extended burials, pot burials. Society: no clear palaces or temples, suggesting a different form of authority.</p>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "The script",
+   "b": "<p>About 400 signs on seals, mostly short; written right to left (boustrophedon in some). Not yet deciphered despite many attempts (Asko Parpola: Dravidian; S. R. Rao and others: Sanskrit-like; Iravatham Mahadevan: Dravidian). Without a bilingual text, decipherment is stalled. The Dholavira signboard of ten large signs is a famous find.</p>"
+  },
+  {
+   "tag": "Key idea",
+   "h": "Decline",
+   "b": "<p>Theories: shift of the Saraswati-Ghaggar river and drought (4.2 ka event); flooding (Mohenjo-daro); Aryan invasion (Wheeler, now widely rejected); trade collapse; ecological stress. The mature phase ended about 1900 BCE; urban features faded, with late Harappan villages in the east. Most scholars favour gradual climate-linked decline and migration over invasion.</p>"
+  },
+  {
+   "tag": "Debate",
+   "h": "Aryans and Harappans",
+   "b": "<p>Wheeler (1947) read Rig Veda’s <i>purandara</i> as conquest of Harappan cities. Later, no evidence of mass violence was found at Mohenjo-daro. Ancient DNA work (Rakhigarhi, 2019 Shinde et al.; Narasimhan et al., 2019) points to mixed ancestry and steppe pastoralist inflow around 2000 to 1500 BCE. The debate on origins is both scientific and political. Make a balanced answer.</p>"
+  },
+  {
+   "tag": "Indian angle",
+   "h": "Why it matters today",
+   "b": "<p>Dholavira (Gujarat) became a World Heritage Site in 2021; Lothal’s National Maritime Heritage Complex is under construction. Rakhigarhi is being developed as a museum. The Harappan drains and water management are cited in modern town planning; Kutch and Rajasthan water storage echo it. Pakistan holds Harappa and Mohenjo-daro (UNESCO since 1980).</p>"
+  },
+  {
+   "tag": "Exam lens",
+   "h": "How to answer",
+   "b": "<ul><li>“Describe the town planning of the Harappan civilisation.”</li><li>“Why did the Harappan civilisation decline?”</li><li>“Harappan trade with other regions.”</li><li>Prelims tip: Lothal (dockyard), Kalibangan (fire altars, furrows), Dholavira (water, signboard), Rakhigarhi (largest in India), Mohenjo-daro (Great Bath), Chanhudaro (beads).</li></ul>",
+   "cls": "exam"
+  }
+ ],
+ "quiz": [
+  {
+   "q": "Harappa was discovered in 1921 by",
+   "o": [
+    "R. D. Banerji",
+    "John Marshall",
+    "Mortimer Wheeler",
+    "Dayaram Sahni"
+   ],
+   "a": 3,
+   "w": "Banerji found Mohenjo-daro in 1922."
+  },
+  {
+   "q": "The largest Harappan site in India is",
+   "o": [
+    "Dholavira",
+    "Lothal",
+    "Rakhigarhi",
+    "Kalibangan"
+   ],
+   "a": 2,
+   "w": "In Haryana."
+  },
+  {
+   "q": "Lothal is famous for",
+   "o": [
+    "The Great Bath",
+    "A dockyard",
+    "A signboard",
+    "Fire altars"
+   ],
+   "a": 1,
+   "w": "In Gujarat."
+  },
+  {
+   "q": "The Great Bath was found at",
+   "o": [
+    "Mohenjo-daro",
+    "Harappa",
+    "Lothal",
+    "Dholavira"
+   ],
+   "a": 0,
+   "w": "In Sindh."
+  },
+  {
+   "q": "Furrowed field evidence comes from",
+   "o": [
+    "Banawali",
+    "Chanhudaro",
+    "Surkotada",
+    "Kalibangan"
+   ],
+   "a": 3,
+   "w": "In Rajasthan."
+  },
+  {
+   "q": "Dholavira was inscribed as a World Heritage Site in",
+   "o": [
+    "2014",
+    "2004",
+    "2021",
+    "1980"
+   ],
+   "a": 2,
+   "w": "In Gujarat."
+  },
+  {
+   "q": "The Harappan script is",
+   "o": [
+    "Deciphered by Marshall",
+    "Still undeciphered",
+    "Identical to Brahmi",
+    "Proved to be Sanskrit"
+   ],
+   "a": 1,
+   "w": "No bilingual text exists."
+  },
+  {
+   "q": "Meluhha in Mesopotamian texts refers to",
+   "o": [
+    "The Indus region",
+    "Egypt",
+    "Persia",
+    "Arabia"
+   ],
+   "a": 0,
+   "w": "Trade partners."
+  },
+  {
+   "q": "Bead-making was a craft at",
+   "o": [
+    "Harappa",
+    "Rakhigarhi",
+    "Ropar",
+    "Chanhudaro"
+   ],
+   "a": 3,
+   "w": "Also at Lothal."
+  },
+  {
+   "q": "Mortimer Wheeler’s invasion theory of decline is",
+   "o": [
+    "Fully proven",
+    "Based on texts alone",
+    "Now widely rejected",
+    "Proven by DNA"
+   ],
+   "a": 2,
+   "w": "No evidence of mass destruction at Mohenjo-daro."
+  }
+ ],
+ "sources": [
+  "NCERT Class XII, Themes in Indian History I",
+  "Spectrum; Nitin Singhania",
+  "Shinde et al. 2019 (Cell); ASI"
+ ],
+ "verified": "2026-11-10"
+}

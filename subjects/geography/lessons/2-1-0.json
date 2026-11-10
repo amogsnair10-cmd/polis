@@ -1,0 +1,181 @@
+{
+ "id": "2-1-0",
+ "title": "Population Theories and Settlements",
+ "emoji": "🏘️",
+ "cards": [
+  {
+   "tag": "Why this matters",
+   "h": "Numbers, food and the places we live",
+   "b": "<p>Will the world run out of food? Why do cities have the shape they do? These two questions give us population theories and settlement geography. For mains, know who said what and when, and link to India's ageing, migration and cities.</p>"
+  },
+  {
+   "tag": "Key idea",
+   "h": "Malthus, 1798",
+   "b": "<svg class=\"d\" viewBox=\"0 0 320 160\"><path d=\"M30 130 Q120 110 290 20\" fill=\"none\" stroke=\"#a3362a\" stroke-width=\"3\"/><path d=\"M30 130 L290 70\" fill=\"none\" stroke=\"#2f6f7a\" stroke-width=\"3\"/><text x=\"240\" y=\"18\" fill=\"#a3362a\" font-size=\"10\" text-anchor=\"middle\" font-weight=\"700\">Population: 1, 2, 4, 8, 16 ...</text><text x=\"215\" y=\"92\" fill=\"#2f6f7a\" font-size=\"10\" text-anchor=\"middle\" font-weight=\"700\">Food: 1, 2, 3, 4, 5 ...</text><text x=\"160\" y=\"152\" fill=\"#5d6474\" font-size=\"10\" text-anchor=\"middle\">Time</text><line x1=\"30\" y1=\"130\" x2=\"290\" y2=\"130\" stroke=\"#5d6474\" stroke-width=\"1\"/><line x1=\"30\" y1=\"130\" x2=\"30\" y2=\"10\" stroke=\"#5d6474\" stroke-width=\"1\"/><text x=\"160\" y=\"60\" fill=\"#5d6474\" font-size=\"10\" text-anchor=\"middle\">Gap = checks: famine, war, disease</text></svg><p><b>Thomas Malthus</b>, <i>An Essay on the Principle of Population</i> (1798): population grows geometrically, food arithmetically. <b>Positive checks</b> (famine, disease, war) and <b>preventive checks</b> (late marriage, restraint) keep numbers in line. Neo-Malthusians (Paul Ehrlich, <i>The Population Bomb</i>, 1968; the Club of Rome's <i>Limits to Growth</i>, 1972) added resource limits.</p>"
+  },
+  {
+   "tag": "Key idea",
+   "h": "Critics: Boserup and Marx",
+   "b": "<p><b>Ester Boserup</b>, <i>The Conditions of Agricultural Growth</i> (1965), reversed the logic: population pressure forces <b>innovation</b> and intensive farming. \"Necessity is the mother of invention.\" <b>Marx</b> said poverty arises from capitalist social structure, not from numbers. Green Revolution and technology so far have supported Boserup more than Malthus.</p>"
+  },
+  {
+   "tag": "Key idea",
+   "h": "Transition and optimum population",
+   "b": "<p><b>Demographic transition</b> (Thompson 1929, Notestein 1945) links fertility fall to development. <b>Optimum population</b> (Edwin Cannan; Alfred Sauvy) is the number that gives the best living standard with available resources. Above it is overpopulation, below it underpopulation. It is hard to measure because technology and trade shift the optimum.</p>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "Rural settlements",
+   "b": "<svg class=\"d\" viewBox=\"0 0 320 158\"><rect x=\"10\" y=\"6\" width=\"85\" height=\"32\" rx=\"6\" fill=\"#dceaec\" stroke=\"#2f6f7a\" stroke-width=\"1.5\"/><text x=\"52.5\" y=\"26.0\" fill=\"#2f6f7a\" font-size=\"11\" text-anchor=\"middle\" font-weight=\"700\">Compact</text><rect x=\"101\" y=\"6\" width=\"209\" height=\"32\" rx=\"6\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"205.5\" y=\"26.0\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\">Houses clustered: plains, river valleys</text><rect x=\"10\" y=\"44\" width=\"85\" height=\"32\" rx=\"6\" fill=\"#f1e4c6\" stroke=\"#a8792a\" stroke-width=\"1.5\"/><text x=\"52.5\" y=\"64.0\" fill=\"#7d5a1c\" font-size=\"11\" text-anchor=\"middle\" font-weight=\"700\">Linear</text><rect x=\"101\" y=\"44\" width=\"209\" height=\"32\" rx=\"6\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"205.5\" y=\"64.0\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\">Along road, river or canal</text><rect x=\"10\" y=\"82\" width=\"85\" height=\"32\" rx=\"6\" fill=\"#f4dcd5\" stroke=\"#a3362a\" stroke-width=\"1.5\"/><text x=\"52.5\" y=\"102.0\" fill=\"#a3362a\" font-size=\"11\" text-anchor=\"middle\" font-weight=\"700\">Dispersed</text><rect x=\"101\" y=\"82\" width=\"209\" height=\"32\" rx=\"6\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"205.5\" y=\"102.0\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\">Isolated farms, hills, forests, tribal land</text><rect x=\"10\" y=\"120\" width=\"85\" height=\"32\" rx=\"6\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"52.5\" y=\"140.0\" fill=\"#1d2433\" font-size=\"11\" text-anchor=\"middle\" font-weight=\"700\">Circular</text><rect x=\"101\" y=\"120\" width=\"209\" height=\"32\" rx=\"6\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"205.5\" y=\"140.0\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\">Around a lake or tank, planned</text></svg><p>Pattern depends on terrain, water, defence and culture. In India, <b>compact</b> villages dominate the plains; <b>dispersed</b> hamlets in the hills, Northeast and tribal areas; <b>linear</b> villages along roads and rivers in Kerala and the Ganga valley.</p>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "Urban structure models",
+   "b": "<svg class=\"d\" viewBox=\"0 0 320 130\"><circle cx=\"55\" cy=\"60\" r=\"45\" fill=\"#f4dcd5\" stroke=\"#a3362a\"/><circle cx=\"55\" cy=\"60\" r=\"30\" fill=\"#f1e4c6\" stroke=\"#a8792a\"/><circle cx=\"55\" cy=\"60\" r=\"14\" fill=\"#dceaec\" stroke=\"#2f6f7a\"/><text x=\"55\" y=\"122\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\" font-weight=\"700\">Concentric</text><text x=\"55\" y=\"64\" fill=\"#2f6f7a\" font-size=\"10\" text-anchor=\"middle\" font-weight=\"700\">CBD</text><path d=\"M160 60 L200 25 L215 55 Z\" fill=\"#dceaec\" stroke=\"#2f6f7a\"/><path d=\"M160 60 L215 55 L205 100 Z\" fill=\"#f1e4c6\" stroke=\"#a8792a\"/><path d=\"M160 60 L205 100 L130 105 Z\" fill=\"#f4dcd5\" stroke=\"#a3362a\"/><path d=\"M160 60 L130 105 L115 35 Z\" fill=\"#f3f1ec\" stroke=\"#5d6474\"/><text x=\"165\" y=\"122\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\" font-weight=\"700\">Sector</text><circle cx=\"250\" cy=\"45\" r=\"18\" fill=\"#dceaec\" stroke=\"#2f6f7a\"/><circle cx=\"295\" cy=\"75\" r=\"14\" fill=\"#f1e4c6\" stroke=\"#a8792a\"/><circle cx=\"260\" cy=\"95\" r=\"12\" fill=\"#f4dcd5\" stroke=\"#a3362a\"/><text x=\"270\" y=\"122\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\" font-weight=\"700\">Multiple nuclei</text></svg><p><b>Burgess (1925)</b>: concentric zones around the CBD (Chicago). <b>Hoyt (1939)</b>: wedges along transport lines. <b>Harris and Ullman (1945)</b>: several nuclei. Indian cities show mixtures with colonial cores and slum pockets.</p>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "Central place theory",
+   "b": "<svg class=\"d\" viewBox=\"0 0 320 150\"><polygon points=\"160,20 190,38 190,72 160,90 130,72 130,38\" fill=\"#dceaec\" stroke=\"#2f6f7a\" stroke-width=\"1.5\"/><polygon points=\"160,90 190,72 220,90 220,124 190,142 160,124\" fill=\"#f1e4c6\" stroke=\"#a8792a\"/><polygon points=\"160,90 130,72 100,90 100,124 130,142 160,124\" fill=\"#f1e4c6\" stroke=\"#a8792a\"/><text x=\"160\" y=\"58\" fill=\"#2f6f7a\" font-size=\"11\" text-anchor=\"middle\" font-weight=\"700\">City</text><text x=\"190\" y=\"112\" fill=\"#7d5a1c\" font-size=\"10\" text-anchor=\"middle\" font-weight=\"700\">Town</text><text x=\"130\" y=\"112\" fill=\"#7d5a1c\" font-size=\"10\" text-anchor=\"middle\" font-weight=\"700\">Town</text><text x=\"280\" y=\"60\" fill=\"#5d6474\" font-size=\"10\" text-anchor=\"middle\">Hexagons:</text><text x=\"280\" y=\"74\" fill=\"#5d6474\" font-size=\"10\" text-anchor=\"middle\">no overlap, no gaps</text><text x=\"40\" y=\"60\" fill=\"#a3362a\" font-size=\"10\" text-anchor=\"middle\" font-weight=\"700\">Christaller</text><text x=\"40\" y=\"74\" fill=\"#5d6474\" font-size=\"10\" text-anchor=\"middle\">1933</text></svg><p><b>Walter Christaller (1933)</b> said settlements form a hierarchy: many villages, fewer towns, one city. Each serves a market area. Higher-order goods need a larger threshold and range. Hexagons are the most efficient shape.</p>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "City size and hierarchy",
+   "b": "<p><b>Primate city</b> (Mark Jefferson, 1939): a city far bigger than the next, such as Bangkok or Paris. <b>Rank-size rule</b> (Zipf): the nth city is 1/n of the biggest. <b>Conurbation</b> (Patrick Geddes, 1915): merged towns, like Greater Manchester. <b>Megacity</b>: above 10 million people.</p>"
+  },
+  {
+   "tag": "Debate",
+   "h": "Is overpopulation the problem?",
+   "b": "<p>Neo-Malthusians point to climate and water limits. Others say <b>consumption</b>, not numbers, drives the pressure, since the richest countries use far more resources per head. Many countries now face <b>falling</b> fertility and ageing (Japan, China, South Korea). A balanced view: both numbers and consumption matter, and outcomes depend on policy.</p>"
+  },
+  {
+   "tag": "Indian angle",
+   "h": "India: settlements and slums",
+   "b": "<p>Indian cities are marked by <b>primate-like growth</b> (Mumbai, Delhi) and by slums; <b>Dharavi</b> in Mumbai is a well-known case. Smart Cities and AMRUT target infrastructure, and the Census defines towns. Many Indian villages are clustered along caste lines; rural-urban fringes see \"peri-urban\" sprawl.</p>"
+  },
+  {
+   "tag": "Exam lens",
+   "cls": "exam",
+   "h": "How to write this",
+   "b": "<div class=\"box\"><h4>Likely questions</h4><p>\"Critically examine Malthusian theory in the Indian context.\" (10 marks)</p><p>\"Discuss the urban land-use models and their relevance to Indian cities.\" (15 marks)</p></div><p><b>Structure:</b> theory, year, author; strengths; criticism; Indian evidence (Green Revolution, ageing, migration).</p><p><b>Prelims tip:</b> Malthus 1798; Boserup 1965; Burgess 1925 concentric; Christaller 1933 central place.</p>"
+  }
+ ],
+ "quiz": [
+  {
+   "q": "Malthus's essay was published in",
+   "o": [
+    "1859",
+    "1900",
+    "1798",
+    "1965"
+   ],
+   "a": 2,
+   "w": "An Essay on the Principle of Population."
+  },
+  {
+   "q": "Boserup argued that population growth",
+   "o": [
+    "Stimulates agricultural innovation",
+    "Always causes famine",
+    "Reduces output",
+    "Stops technology"
+   ],
+   "a": 0,
+   "w": "1965."
+  },
+  {
+   "q": "Concentric zone model was proposed by",
+   "o": [
+    "Hoyt",
+    "Christaller",
+    "Harris",
+    "Burgess"
+   ],
+   "a": 3,
+   "w": "Chicago, 1925."
+  },
+  {
+   "q": "Central place theory is by",
+   "o": [
+    "Burgess",
+    "Christaller",
+    "Weber",
+    "Malthus"
+   ],
+   "a": 1,
+   "w": "1933."
+  },
+  {
+   "q": "Primate city was described by",
+   "o": [
+    "Zipf",
+    "Mark Jefferson",
+    "Geddes",
+    "Hoyt"
+   ],
+   "a": 1,
+   "w": "1939."
+  },
+  {
+   "q": "Conurbation was coined by",
+   "o": [
+    "Hoyt",
+    "Ehrlich",
+    "Cannan",
+    "Patrick Geddes"
+   ],
+   "a": 3,
+   "w": "1915."
+  },
+  {
+   "q": "Dharavi is in",
+   "o": [
+    "Mumbai",
+    "Delhi",
+    "Kolkata",
+    "Chennai"
+   ],
+   "a": 0,
+   "w": "One of Asia's largest informal settlements."
+  },
+  {
+   "q": "The Limits to Growth report came from",
+   "o": [
+    "UN",
+    "World Bank",
+    "Club of Rome",
+    "IMF"
+   ],
+   "a": 2,
+   "w": "1972."
+  },
+  {
+   "q": "Positive checks in Malthus include",
+   "o": [
+    "Late marriage",
+    "Contraception",
+    "Education",
+    "Famine and disease"
+   ],
+   "a": 3,
+   "w": "Preventive checks are restraint."
+  },
+  {
+   "q": "Hoyt's sector model emphasises",
+   "o": [
+    "Transport corridors",
+    "Rings",
+    "Hexagons",
+    "Many nuclei"
+   ],
+   "a": 0,
+   "w": "Wedge-shaped zones."
+  }
+ ],
+ "sources": [
+  "NCERT Class 12, Fundamentals of Human Geography, ch. 2, 9, 10",
+  "G.C. Leong, Certificate Physical and Human Geography",
+  "Malthus 1798; Boserup 1965; Christaller 1933"
+ ],
+ "verified": "2026-11-10"
+}

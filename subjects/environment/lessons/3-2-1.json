@@ -11,7 +11,7 @@
   {
    "tag": "Where India stands",
    "h": "Capacity",
-   "b": "<p>India reached <b>50 percent non-fossil installed capacity</b> in mid-2025 (about 485 GW total at the time), five years before the 2030 target. Solar crossed 100 GW in early 2025 and has kept rising (as of 2026, check MNRE).</p><p>Coal still gives roughly 70 percent of the electricity generated, because solar and wind run only part of the day.</p>"
+   "b": "<p>India reached <b>50 percent non-fossil installed capacity</b> in mid-2025 (about 485 GW total at the time), five years before the 2030 target. Solar crossed 100 GW in early 2025 and has kept rising (as of 2026, check MNRE).</p><p>Coal still gives roughly 70 percent of the electricity generated, because solar and wind run only part of the day.</p><p>Capacity is not the same as generation. Solar plants run at a capacity utilisation of roughly 20 to 25 percent, while coal plants run far higher, so a large renewable capacity gives a smaller share of electricity. Rajasthan and Gujarat lead in solar, and Tamil Nadu and Gujarat in wind. Grid integration and storage are the bottleneck.</p>"
   },
   {
    "tag": "Targets",
@@ -26,7 +26,7 @@
   {
    "tag": "Green hydrogen",
    "h": "National Green Hydrogen Mission",
-   "b": "<p>Launched in January 2023 with about ₹19,744 crore. Aim: <b>5 million tonnes a year</b> of green hydrogen by 2030. Green hydrogen is made by splitting water with renewable power. It is for steel, fertiliser, refineries and shipping.</p><p>Challenges: high cost, electrolyser supply and storage. The SIGHT scheme supports electrolyser and hydrogen output.</p>"
+   "b": "<p>Launched in January 2023 with about ₹19,744 crore. Aim: <b>5 million tonnes a year</b> of green hydrogen by 2030. Green hydrogen is made by splitting water with renewable power. It is for steel, fertiliser, refineries and shipping.</p><p>Challenges: high cost, electrolyser supply and storage. The SIGHT scheme supports electrolyser and hydrogen output.</p><p>Grey hydrogen comes from natural gas, and blue is grey with carbon capture. Green is the cleanest. Fertiliser and refining already use hydrogen, so the first demand exists. Pilots include hydrogen buses and trains, and hubs have been planned at ports such as Kandla, Paradip and Tuticorin.</p><svg class='d' viewBox='0 0 320 174' role='img' aria-label='h34 diagram'><defs><marker id='h34m' markerWidth='8' markerHeight='8' refX='6' refY='4' orient='auto'><path d='M0,0 L8,4 L0,8 z' fill='#5d6474'/></marker></defs><g font-size='11' fill='#1d2433' text-anchor='middle'><rect x='20' y='6' width='280' height='30' fill='#f1e4c6' stroke='#a8792a'/><text x='160' y='25'>Solar and wind power</text><rect x='20' y='50' width='280' height='30' fill='#dceaec' stroke='#2f6f7a'/><text x='160' y='69'>Electrolyser splits water</text><rect x='20' y='94' width='280' height='30' fill='#f4dcd5' stroke='#a3362a'/><text x='160' y='113'>Green hydrogen (and oxygen)</text><rect x='20' y='138' width='280' height='30' fill='#f1e4c6' stroke='#a8792a'/><text x='160' y='157'>Steel, fertiliser, refineries, shipping</text></g><g stroke='#5d6474' stroke-width='1.5' marker-end='url(#h34m)'><line x1='160' y1='36' x2='160' y2='48'/><line x1='160' y1='80' x2='160' y2='92'/><line x1='160' y1='124' x2='160' y2='136'/></g></svg>"
   },
   {
    "tag": "Nuclear, hydro and storage",
@@ -46,12 +46,12 @@
   {
    "tag": "Indian angle",
    "h": "Transport and efficiency",
-   "b": "<p><b>PM E-DRIVE</b> (2024) supports electric vehicles after FAME II. Ethanol blending reached 20 percent in 2025, ahead of schedule. Energy efficiency is guided by the <b>Energy Conservation Act 2001</b> and BEE star labels.</p><p><b>Viksit Bharat 2047</b> and Net Zero 2070 frame the long path.</p>"
+   "b": "<p><b>PM E-DRIVE</b> (2024) supports electric vehicles after FAME II. Ethanol blending reached 20 percent in 2025, ahead of schedule. Energy efficiency is guided by the <b>Energy Conservation Act 2001</b> and BEE star labels.</p><p><b>Viksit Bharat 2047</b> and Net Zero 2070 frame the long path.</p><p>E20 blending draws on sugarcane and grain, so critics link it to water use and food prices. Electric two-wheelers, three-wheelers and buses are the main focus of PM E-DRIVE. The BEE star label rates appliances such as air conditioners. The Energy Conservation Act 2001 created the Bureau of Energy Efficiency, and a 2022 amendment added a basis for carbon markets.</p>"
   },
   {
    "tag": "Exam lens",
    "h": "How to answer",
-   "b": "<p><b>Mains-style:</b> “Discuss the challenges in India’s transition to renewable energy and suggest solutions.” Structure: progress (50 percent non-fossil capacity); barriers (intermittency, grid, import dependence, financing, land, coal jobs); solutions (storage, green hydrogen, domestic manufacturing, nuclear, just transition).</p><p><b>Prelims tip:</b> NGHM 2023, target 5 MMT. PM-KUSUM 2019. PM Surya Ghar 2024. ISA 2015.</p>",
+   "b": "<p><b>Mains-style:</b> “Discuss the challenges in India’s transition to renewable energy and suggest solutions.” Structure: progress (50 percent non-fossil capacity); barriers (intermittency, grid, import dependence, financing, land, coal jobs); solutions (storage, green hydrogen, domestic manufacturing, nuclear, just transition).</p><p><b>Prelims tip:</b> NGHM 2023, target 5 MMT. PM-KUSUM 2019. PM Surya Ghar 2024. ISA 2015.</p><p>Extra points: the transition is a just transition issue for coal states such as Jharkhand, Odisha and Chhattisgarh. Dependence on imported solar cells and critical minerals is a risk, and a PLI scheme for solar modules supports local manufacturing. Use examples: Bhadla Solar Park in Rajasthan, Pavagada in Karnataka, and Cochin airport as a solar-powered airport.</p>",
    "cls": "exam"
   }
  ],

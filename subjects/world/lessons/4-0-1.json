@@ -1,0 +1,169 @@
+{
+ "id": "4-0-1",
+ "title": "The Printing Press and the Reformation",
+ "emoji": "📖",
+ "cards": [
+  {
+   "tag": "Why this matters",
+   "h": "One man's list of complaints went viral in 1517",
+   "b": "<p>On 31 October 1517, a German monk named <b>Martin Luther</b> sent 95 arguments against the sale of indulgences to church leaders. Tradition says he nailed them to a church door in Wittenberg. Historians are unsure.</p><p>Within weeks, printers had copied it across Germany. Without the press, it might have been forgotten.</p>"
+  },
+  {
+   "tag": "The story",
+   "h": "Gutenberg's machine",
+   "b": "<b>Johannes Gutenberg</b>, a goldsmith in Mainz, built a printing press with movable metal type around 1450. The <b>Gutenberg Bible</b> appeared around 1455. About 180 copies were printed, and 49 survive in whole or part.<p>By 1500, Europe had printed perhaps 20 million volumes in presses in over 200 towns. Books became cheaper than manuscripts.</p>"
+  },
+  {
+   "tag": "The turning point",
+   "h": "Why indulgences?",
+   "b": "<svg class=\"d\" viewBox=\"0 0 320 214\"><defs><marker id=\"ar1\" markerWidth=\"8\" markerHeight=\"8\" refX=\"4\" refY=\"4\" orient=\"auto\"><path d=\"M0,0 L8,4 L0,8 z\" fill=\"#5d6474\"/></marker></defs><rect x=\"16\" y=\"2\" width=\"288\" height=\"28\" rx=\"6\" fill=\"#f1e4c6\" stroke=\"#a8792a\"/><text x=\"160\" y=\"20\" font-size=\"11\" text-anchor=\"middle\" fill=\"#1d2433\">Church sells indulgences to raise money</text><line x1=\"160\" y1=\"30\" x2=\"160\" y2=\"42\" stroke=\"#5d6474\" stroke-width=\"1.5\" marker-end=\"url(#ar1)\"/><rect x=\"16\" y=\"44\" width=\"288\" height=\"28\" rx=\"6\" fill=\"#dceaec\" stroke=\"#2f6f7a\"/><text x=\"160\" y=\"62\" font-size=\"11\" text-anchor=\"middle\" fill=\"#1d2433\">Luther objects: forgiveness cannot be bought</text><line x1=\"160\" y1=\"72\" x2=\"160\" y2=\"84\" stroke=\"#5d6474\" stroke-width=\"1.5\" marker-end=\"url(#ar1)\"/><rect x=\"16\" y=\"86\" width=\"288\" height=\"28\" rx=\"6\" fill=\"#f1e4c6\" stroke=\"#a8792a\"/><text x=\"160\" y=\"104\" font-size=\"11\" text-anchor=\"middle\" fill=\"#1d2433\">Printers spread his writing</text><line x1=\"160\" y1=\"114\" x2=\"160\" y2=\"126\" stroke=\"#5d6474\" stroke-width=\"1.5\" marker-end=\"url(#ar1)\"/><rect x=\"16\" y=\"128\" width=\"288\" height=\"28\" rx=\"6\" fill=\"#dceaec\" stroke=\"#2f6f7a\"/><text x=\"160\" y=\"146\" font-size=\"11\" text-anchor=\"middle\" fill=\"#1d2433\">Church condemns him; Diet of Worms, 1521</text><line x1=\"160\" y1=\"156\" x2=\"160\" y2=\"168\" stroke=\"#5d6474\" stroke-width=\"1.5\" marker-end=\"url(#ar1)\"/><rect x=\"16\" y=\"170\" width=\"288\" height=\"28\" rx=\"6\" fill=\"#f1e4c6\" stroke=\"#a8792a\"/><text x=\"160\" y=\"188\" font-size=\"11\" text-anchor=\"middle\" fill=\"#1d2433\">Reform movements spread across Europe</text></svg><p>An <b>indulgence</b> was a church document that reduced punishment for sins. Luther's attack on its sale was the spark.</p>"
+  },
+  {
+   "tag": "The twist",
+   "h": "Here I stand",
+   "b": "<p>At the Diet of Worms (1521), Emperor Charles V ordered Luther to take back his writings. Luther refused. The line 'Here I stand, I can do no other' is attached to him, but many historians think it was added later.</p><p>A friendly prince, Frederick of Saxony, hid him in Wartburg Castle. There Luther translated the New Testament into German (1522).</p>"
+  },
+  {
+   "tag": "The story",
+   "h": "Many Reformations",
+   "b": "<p>Other reformers emerged. <b>Zwingli</b> in Zurich, and <b>John Calvin</b> in Geneva, whose ideas shaped Presbyterian and Reformed churches. In England, <b>Henry VIII</b> broke from Rome in 1534 (the Act of Supremacy) mostly because he wanted an heir and a new marriage.</p><p>The Catholic Church answered with the Counter-Reformation and the Jesuits (founded 1540).</p>"
+  },
+  {
+   "tag": "The story",
+   "h": "Wars of religion",
+   "b": "<p>Fighting broke out. The Peace of Augsburg (1555) let each German prince choose Catholic or Lutheran for his lands. Later came the <b>Thirty Years' War</b> (1618-1648), which killed millions, especially in Germany.</p><p>It ended with the Peace of Westphalia, often linked to the idea of sovereign states.</p>"
+  },
+  {
+   "tag": "Myth vs fact",
+   "h": "Did Gutenberg invent printing?",
+   "b": "<b>Myth:</b> yes.<b>Fact:</b> China had woodblock printing by the 8th century and movable type by about 1040. Korea printed a Buddhist book with metal type, the <i>Jikji</i>, in 1377. Gutenberg's real contribution was a practical system for Europe: an adjustable mould, a press, and oil-based ink.<p>Also, Luther did not intend to split the Church at first.</p>"
+  },
+  {
+   "tag": "Indian angle",
+   "h": "Meanwhile in India…",
+   "b": "<p>The first printing press in Asia</p>"
+  },
+  {
+   "tag": "Recap",
+   "h": "Five takeaways, two puzzles",
+   "b": "<p><b>Five things to remember</b></p><ol><li>Gutenberg's press (c. 1450) cut the cost of books.</li><li>Luther's 95 Theses (1517) spread by print.</li><li>Protestant movements and the Counter-Reformation split Europe.</li><li>The Thirty Years' War ended in 1648.</li><li>India's first printing came in Goa, 1556.</li></ol><p><b>Think about it</b></p><ul><li>What would Luther have achieved without print?</li><li>What is today's printing press?</li></ul>",
+   "cls": "exam"
+  }
+ ],
+ "quiz": [
+  {
+   "q": "Gutenberg worked in...",
+   "o": [
+    "Rome",
+    "London",
+    "Mainz",
+    "Venice"
+   ],
+   "a": 2,
+   "w": "Around 1450."
+  },
+  {
+   "q": "Luther's theses were in...",
+   "o": [
+    "1517",
+    "1450",
+    "1555",
+    "1618"
+   ],
+   "a": 0,
+   "w": "31 October."
+  },
+  {
+   "q": "Indulgences were...",
+   "o": [
+    "Taxes on bread",
+    "Printing licences",
+    "Royal pardons",
+    "Church documents reducing punishment for sin"
+   ],
+   "a": 3,
+   "w": "The sale sparked the dispute."
+  },
+  {
+   "q": "The Diet of Worms was in...",
+   "o": [
+    "1517",
+    "1521",
+    "1534",
+    "1648"
+   ],
+   "a": 1,
+   "w": "Charles V presided."
+  },
+  {
+   "q": "Luther translated the New Testament into...",
+   "o": [
+    "German",
+    "Latin",
+    "English",
+    "Dutch"
+   ],
+   "a": 0,
+   "w": "In 1522."
+  },
+  {
+   "q": "Henry VIII broke from Rome in...",
+   "o": [
+    "1517",
+    "1555",
+    "1618",
+    "1534"
+   ],
+   "a": 3,
+   "w": "Act of Supremacy."
+  },
+  {
+   "q": "The Thirty Years' War ended in...",
+   "o": [
+    "1555",
+    "1648",
+    "1517",
+    "1715"
+   ],
+   "a": 1,
+   "w": "Peace of Westphalia."
+  },
+  {
+   "q": "The Jesuits were founded in...",
+   "o": [
+    "1517",
+    "1450",
+    "1540",
+    "1648"
+   ],
+   "a": 2,
+   "w": "By Ignatius of Loyola."
+  },
+  {
+   "q": "Korea's metal-type book of 1377...",
+   "o": [
+    "Analects",
+    "Gutenberg Bible",
+    "Tripitaka",
+    "Jikji"
+   ],
+   "a": 3,
+   "w": "Earlier than Gutenberg."
+  },
+  {
+   "q": "Printing came to Goa in...",
+   "o": [
+    "1556",
+    "1450",
+    "1800",
+    "1947"
+   ],
+   "a": 0,
+   "w": "By Portuguese Jesuits."
+  }
+ ],
+ "sources": [
+  "Eisenstein, The Printing Revolution in Early Modern Europe (1983); MacCulloch, The Reformation (2003); Man, The Gutenberg Revolution; Priolkar, The Printing Press in India"
+ ],
+ "verified": "2026-11-10"
+}

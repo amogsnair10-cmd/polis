@@ -1,0 +1,176 @@
+{
+ "id": "3-0-1",
+ "title": "Disaster Management Framework in India",
+ "emoji": "🛟",
+ "cards": [
+  {
+   "tag": "Why this matters",
+   "h": "Moving from relief to resilience",
+   "b": "<p>Until 1999 India saw disasters as the job of the relief commissioner and Agriculture Ministry. The Odisha super cyclone (1999) and Bhuj quake (2001) changed that. Today law, funds and forces exist; the debate is about preparedness, federalism and local capacity.</p>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "The disaster management cycle",
+   "b": "<svg class=\"d\" viewBox=\"0 0 320 190\"><defs><marker id=\"dmA\" viewBox=\"0 0 10 10\" refX=\"8\" refY=\"5\" markerWidth=\"6\" markerHeight=\"6\" orient=\"auto\"><path d=\"M0 0 L10 5 L0 10 z\" fill=\"#5d6474\"/></marker></defs><rect x=\"110\" y=\"8\" width=\"100\" height=\"40\" rx=\"6\" fill=\"#dceaec\" stroke=\"#2f6f7a\" stroke-width=\"1.5\"/><text x=\"160\" y=\"32\" fill=\"#2f6f7a\" font-size=\"12\" text-anchor=\"middle\" font-weight=\"700\">Mitigation</text><rect x=\"215\" y=\"75\" width=\"95\" height=\"40\" rx=\"6\" fill=\"#f1e4c6\" stroke=\"#a8792a\" stroke-width=\"1.5\"/><text x=\"262\" y=\"99\" fill=\"#7d5a1c\" font-size=\"11\" text-anchor=\"middle\" font-weight=\"700\">Preparedness</text><rect x=\"110\" y=\"140\" width=\"100\" height=\"40\" rx=\"6\" fill=\"#f4dcd5\" stroke=\"#a3362a\" stroke-width=\"1.5\"/><text x=\"160\" y=\"164\" fill=\"#a3362a\" font-size=\"12\" text-anchor=\"middle\" font-weight=\"700\">Response</text><rect x=\"10\" y=\"75\" width=\"95\" height=\"40\" rx=\"6\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"57\" y=\"99\" fill=\"#1d2433\" font-size=\"12\" text-anchor=\"middle\" font-weight=\"700\">Recovery</text><path d=\"M212 40 L262 72\" stroke=\"#5d6474\" stroke-width=\"2\" marker-end=\"url(#dmA)\"/><path d=\"M262 118 L212 150\" stroke=\"#5d6474\" stroke-width=\"2\" marker-end=\"url(#dmA)\"/><path d=\"M108 160 L57 118\" stroke=\"#5d6474\" stroke-width=\"2\" marker-end=\"url(#dmA)\"/><path d=\"M57 72 L108 40\" stroke=\"#5d6474\" stroke-width=\"2\" marker-end=\"url(#dmA)\"/><text x=\"160\" y=\"100\" fill=\"#5d6474\" font-size=\"11\" text-anchor=\"middle\">Cycle</text><text x=\"160\" y=\"114\" fill=\"#5d6474\" font-size=\"10\" text-anchor=\"middle\">(disaster in the middle)</text></svg><p><b>Mitigation</b> (structural: embankments, codes; non-structural: zoning, laws), <b>preparedness</b> (warning, drills), <b>response</b> (search and rescue, relief), and <b>recovery</b> (rehabilitation, \"build back better\").</p>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "How the system evolved",
+   "b": "<p><b>1999</b>: High Powered Committee under J.C. Pant. <b>2001</b>: Gujarat quake, a national committee, and 10th Finance Commission. <b>2005</b>: the <b>Disaster Management Act</b>. <b>2006</b>: the NDRF. <b>2009</b>: National Policy on Disaster Management. <b>2016</b>: first National Disaster Management Plan, <b>updated 2019</b>, aligned with the Sendai Framework.</p>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "Institutions under the 2005 Act",
+   "b": "<svg class=\"d\" viewBox=\"0 0 320 182\"><rect x=\"10\" y=\"6\" width=\"300\" height=\"40\" rx=\"6\" fill=\"#dceaec\" stroke=\"#2f6f7a\" stroke-width=\"1.5\"/><text x=\"160\" y=\"23\" fill=\"#2f6f7a\" font-size=\"12\" text-anchor=\"middle\" font-weight=\"700\">NDMA (national)</text><text x=\"160\" y=\"38\" fill=\"#5d6474\" font-size=\"10\" text-anchor=\"middle\">Chair: Prime Minister. Policy, guidelines, plan</text><rect x=\"10\" y=\"50\" width=\"300\" height=\"40\" rx=\"6\" fill=\"#f1e4c6\" stroke=\"#a8792a\" stroke-width=\"1.5\"/><text x=\"160\" y=\"67\" fill=\"#7d5a1c\" font-size=\"12\" text-anchor=\"middle\" font-weight=\"700\">SDMA (state)</text><text x=\"160\" y=\"82\" fill=\"#5d6474\" font-size=\"10\" text-anchor=\"middle\">Chair: Chief Minister. State plan, funds</text><rect x=\"10\" y=\"94\" width=\"300\" height=\"40\" rx=\"6\" fill=\"#f4dcd5\" stroke=\"#a3362a\" stroke-width=\"1.5\"/><text x=\"160\" y=\"111\" fill=\"#a3362a\" font-size=\"12\" text-anchor=\"middle\" font-weight=\"700\">DDMA (district)</text><text x=\"160\" y=\"126\" fill=\"#5d6474\" font-size=\"10\" text-anchor=\"middle\">Chair: Collector. Chief co-chair: Zilla Parishad head</text><rect x=\"10\" y=\"138\" width=\"300\" height=\"40\" rx=\"6\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"160\" y=\"155\" fill=\"#1d2433\" font-size=\"12\" text-anchor=\"middle\" font-weight=\"700\">Local authorities</text><text x=\"160\" y=\"170\" fill=\"#5d6474\" font-size=\"10\" text-anchor=\"middle\">Panchayats, municipalities, community</text></svg><p>The <b>National Executive Committee</b> (headed by the Home Secretary) assists NDMA. The <b>National Institute of Disaster Management</b> (NIDM) trains. The <b>Ministry of Home Affairs</b> is the nodal ministry.</p>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "Money and forces",
+   "b": "<svg class=\"d\" viewBox=\"0 0 320 162\"><rect x=\"10\" y=\"6\" width=\"95\" height=\"46\" rx=\"6\" fill=\"#f1e4c6\" stroke=\"#a8792a\" stroke-width=\"1.5\"/><text x=\"57.5\" y=\"33.0\" fill=\"#7d5a1c\" font-size=\"11\" text-anchor=\"middle\" font-weight=\"700\">NDRF / SDRF</text><rect x=\"111\" y=\"6\" width=\"199\" height=\"46\" rx=\"6\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"210.5\" y=\"33.0\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\">Response funds. SDRF mostly Centre-State, 75:25 (90:10 for hill and NE states)</text><rect x=\"10\" y=\"58\" width=\"95\" height=\"46\" rx=\"6\" fill=\"#dceaec\" stroke=\"#2f6f7a\" stroke-width=\"1.5\"/><text x=\"57.5\" y=\"85.0\" fill=\"#2f6f7a\" font-size=\"11\" text-anchor=\"middle\" font-weight=\"700\">NDMF / SDMF</text><rect x=\"111\" y=\"58\" width=\"199\" height=\"46\" rx=\"6\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"210.5\" y=\"85.0\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\">Mitigation and capacity, set under the Act</text><rect x=\"10\" y=\"110\" width=\"95\" height=\"46\" rx=\"6\" fill=\"#f4dcd5\" stroke=\"#a3362a\" stroke-width=\"1.5\"/><text x=\"57.5\" y=\"137.0\" fill=\"#a3362a\" font-size=\"11\" text-anchor=\"middle\" font-weight=\"700\">NDRF force</text><rect x=\"111\" y=\"110\" width=\"199\" height=\"46\" rx=\"6\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"210.5\" y=\"137.0\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\">NDRF has 16 battalions (as of recent data), set up in 2006</text></svg><p>Allocation follows the <b>Finance Commission</b>. The 15th FC (2021-26) set a framework for mitigation and capacity-building funds. States also have <b>SDRF</b> forces. Warning agencies: IMD (cyclone, rain), CWC (flood), INCOIS (tsunami), GSI (landslide).</p>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "The Sendai Framework, 2015-2030",
+   "b": "<p>Adopted in Sendai, Japan. It has <b>four priorities</b>: understanding risk, strengthening governance, investing in resilience, and better preparedness plus \"build back better\". It sets seven global targets: cut deaths, affected people, losses and raise early-warning cover. India launched the <b>Coalition for Disaster Resilient Infrastructure (CDRI)</b> in 2019.</p>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "Hazard-wise mitigation",
+   "b": "<p><b>Earthquake</b>: seismic building codes (IS 1893), retrofitting, land-use zoning. <b>Flood</b>: embankments, reservoirs, floodplain zoning, forecasts and ending encroachment. <b>Cyclone</b>: shelters, mangroves and shelter belts, early warning and evacuation. <b>Drought</b>: watershed work, crop planning, insurance. <b>Landslide</b>: slope stabilisation, hazard maps, regulating roads. <b>Heat wave</b>: Heat Action Plans, as in Ahmedabad (2013), now in many cities.</p><p><b>Structural</b> measures need money and time; <b>non-structural</b> ones (laws, awareness, drills) are cheaper and often more effective.</p>"
+  },
+  {
+   "tag": "Debate",
+   "h": "Centralised or local? \"National disaster\"?",
+   "b": "<p>The Act has no category called \"national disaster\"; it speaks of <b>disasters of severe nature</b> (L3). Kerala (2018) and Wayanad (2024) raised demands for a formal tag and more central money. Critics also say NDMA is weak in implementation and states under-use mitigation funds. Experts call for stronger local bodies and urban disaster authorities. The Disaster Management (Amendment) Act, 2025 moved in this direction (details to be verified).</p>"
+  },
+  {
+   "tag": "Indian angle",
+   "h": "Success stories",
+   "b": "<p><b>Odisha</b> cut cyclone deaths through the Odisha State Disaster Management Authority (the first in India), shelters and 10 lakh evacuations for Fani (2019). <b>Aapda Mitra</b> volunteers and <b>Cyclone Mitigation Project</b> shelters, <b>Mission Mausam</b> and mobile alerts (SACHET) improve warning. The failure points: urban flooding, Himalayan roads, and relief delays.</p>"
+  },
+  {
+   "tag": "Exam lens",
+   "cls": "exam",
+   "h": "How to write this",
+   "b": "<div class=\"box\"><h4>Likely questions</h4><p>\"Discuss the institutional framework for disaster management in India. How far has it shifted from relief to preparedness?\" (15 marks)</p><p>\"The Sendai Framework and India's disaster policy.\" (10 marks)</p></div><p><b>Structure:</b> evolution; Act and bodies; funds; Sendai; successes and gaps; suggestions (urban authorities, community role, insurance).</p><p><b>Prelims tip:</b> NDMA chair = Prime Minister; SDMA = CM; DDMA = Collector; the Act is 2005; NDRF came in 2006.</p>"
+  }
+ ],
+ "quiz": [
+  {
+   "q": "NDMA is chaired by",
+   "o": [
+    "The Prime Minister",
+    "Home Minister",
+    "President",
+    "Cabinet Secretary"
+   ],
+   "a": 0,
+   "w": "Under the 2005 Act."
+  },
+  {
+   "q": "DDMA is chaired by",
+   "o": [
+    "Superintendent of Police",
+    "Sarpanch",
+    "Governor",
+    "District Collector"
+   ],
+   "a": 3,
+   "w": "Zilla Parishad head is co-chair in many districts."
+  },
+  {
+   "q": "NDRF was set up in",
+   "o": [
+    "2001",
+    "2006",
+    "2005",
+    "2019"
+   ],
+   "a": 1,
+   "w": "Under the DM Act."
+  },
+  {
+   "q": "Sendai Framework has how many priorities?",
+   "o": [
+    "Three",
+    "Four",
+    "Five",
+    "Seven"
+   ],
+   "a": 1,
+   "w": "And seven global targets."
+  },
+  {
+   "q": "Which agency issues tsunami warnings in India?",
+   "o": [
+    "IMD",
+    "CWC",
+    "GSI",
+    "INCOIS"
+   ],
+   "a": 3,
+   "w": "Indian National Centre for Ocean Information Services."
+  },
+  {
+   "q": "The J.C. Pant committee was set up in",
+   "o": [
+    "1999",
+    "1985",
+    "2005",
+    "2013"
+   ],
+   "a": 0,
+   "w": "After the Odisha super cyclone."
+  },
+  {
+   "q": "CDRI is an initiative of",
+   "o": [
+    "China",
+    "Japan",
+    "India",
+    "Russia"
+   ],
+   "a": 2,
+   "w": "Launched at the UN in 2019."
+  },
+  {
+   "q": "Nodal ministry for disaster management is",
+   "o": [
+    "Environment",
+    "Jal Shakti",
+    "Defence",
+    "Home Affairs"
+   ],
+   "a": 3,
+   "w": "MHA."
+  },
+  {
+   "q": "Which phase includes \"build back better\"?",
+   "o": [
+    "Recovery",
+    "Mitigation",
+    "Preparedness",
+    "Response"
+   ],
+   "a": 0,
+   "w": "Reconstruction after disaster."
+  },
+  {
+   "q": "First state authority created by a state in India was in",
+   "o": [
+    "Gujarat",
+    "Kerala",
+    "Odisha",
+    "Bihar"
+   ],
+   "a": 2,
+   "w": "OSDMA was formed in 1999."
+  }
+ ],
+ "sources": [
+  "DM Act 2005; NDMP 2019",
+  "NDMA and MHA annual reports",
+  "Sendai Framework 2015-2030"
+ ],
+ "verified": "2026-11-10"
+}

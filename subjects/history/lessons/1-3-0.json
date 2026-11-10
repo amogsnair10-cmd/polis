@@ -1,0 +1,176 @@
+{
+ "id": "1-3-0",
+ "title": "Bhakti and Sufi Traditions",
+ "emoji": "🕊️",
+ "cards": [
+  {
+   "tag": "Why this matters",
+   "h": "Faith that crossed boundaries",
+   "b": "<p>Bhakti and Sufism are the main strands of medieval religious life. They shaped language, music and social ideas. UPSC asks for saints, teachings and effects.</p>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "Origins of Bhakti",
+   "b": "<p>Bhakti (devotion) began in the south with the <b>Alvars</b> (Vishnu) and <b>Nayanars</b> (Shiva), between the 6th and 9th centuries, who sang in Tamil and welcomed women and low castes (Andal, Karaikkal Ammaiyar). Texts: <i>Nalayira Divya Prabandham</i>, <i>Tevaram</i>. Later: Shankara’s Advaita (8th c.), <b>Ramanuja</b> (Vishishtadvaita, 11th to 12th c.), <b>Madhva</b> (Dvaita), Basavanna’s <b>Lingayat</b> movement (Karnataka, 12th c.; Anubhava Mandapa).</p>"
+  },
+  {
+   "tag": "Key idea",
+   "h": "Bhakti in the north",
+   "b": "<ul><li><b>Ramananda</b> (14th to 15th c.): Rama bhakti; disciples include Kabir and Ravidas.</li><li><b>Kabir</b>: <i>nirguna</i> God, attacked idol worship and caste; Bijak.</li><li><b>Guru Nanak</b>: one God, equality, <i>langar</i>, <i>sangat</i>.</li><li><b>Chaitanya</b> (Bengal): Krishna bhakti, <i>kirtan</i>.</li><li><b>Tulsidas</b> (<i>Ramcharitmanas</i>), <b>Surdas</b>, <b>Mirabai</b>, <b>Raskhan</b>.</li><li><b>Vallabhacharya</b> (Pushtimarga).</li></ul>"
+  },
+  {
+   "tag": "Key idea",
+   "h": "Maharashtra and the east",
+   "b": "<b>Varkari tradition</b>: Dnyaneshwar, Namdev, Eknath, Tukaram, Janabai; Pandharpur and Vitthal. <b>Sankaradeva</b> (Assam, <i>Ekasarana dharma</i>), <b>Shrimanta Sankardeva</b>’s <i>Namghar</i> and <i>Borgeet</i>. Others: Narsi Mehta (Gujarat), Chandidas (Bengal), Annamacharya (Andhra). Many saints came from low castes and used the vernacular."
+  },
+  {
+   "tag": "Core idea",
+   "h": "Sufism",
+   "b": "<p>Sufism is the mystical stream of Islam, stressing love and union with God. Orders (<i>silsilas</i>): <b>Chishti</b> (Khwaja Muinuddin Chishti at Ajmer; Nizamuddin Auliya in Delhi; Baba Farid), <b>Suhrawardi</b> (Multan, Bahauddin Zakariya), <b>Qadiri</b>, <b>Naqshbandi</b> (Sirhindi, who opposed Akbar’s liberalism). Practices: <i>khanqah</i>, <i>sama</i> (music), <i>langar</i>. Chishtis kept away from the state; Suhrawardis accepted it.</p>"
+  },
+  {
+   "tag": "Key idea",
+   "h": "Common ground and expression",
+   "b": "<p>Both movements used local languages: Kabir and Tulsi in Hindi, Dnyaneshwar in Marathi, Sufis in Dakhni and Hindavi (Amir Khusrau, Baba Farid in Punjabi). The Chishtis of Ajmer and Delhi attracted Hindu and Muslim devotees. Sufi poets such as Jayasi (<i>Padmavat</i>) and Rahim. Qawwali and bhajan, <i>Kabir panth</i> and <i>Sikhism</i> came from them. Both rejected rigid orthodoxy.</p>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "Social impact",
+   "b": "<p>They challenged caste, ritual and priestly control; spread vernacular literature; gave women a voice (Mirabai, Lalla Ded). They brought communities closer and helped shape the <i>ganga-jamuni tehzeeb</i>. Yet they did not abolish caste; many movements later formed new sects or castes. Akbar’s <i>sulh-i-kul</i> was nurtured in this air.</p>"
+  },
+  {
+   "tag": "Debate",
+   "h": "Social revolt or spiritual reform?",
+   "b": "<p>Historians (Satish Chandra, Irfan Habib) see Bhakti as a response to a changing society and urban craft groups; Marxists tied it to peasants and artisans. Others (Romila Thapar) view it as a religious expression within a plural society. Scholars debate the term “movement”, as the saints were not organised. On Sufis, Richard Eaton (<i>Sufis of Bijapur</i>) studies state ties.</p>"
+  },
+  {
+   "tag": "Indian angle",
+   "h": "Why it matters today",
+   "b": "<p>Kabir’s and Mirabai’s verses are in school books and music. The dargah of Ajmer, with a huge urs, draws all faiths. Pandharpur’s wari draws lakhs. Discussion on communal harmony cites these traditions; recent controversies over dargahs and temples revisit it. The Sikh langar became a symbol of free community kitchens worldwide.</p>"
+  },
+  {
+   "tag": "Exam lens",
+   "h": "How to answer",
+   "b": "<ul><li>“Bhakti and Sufi movements promoted social harmony. Discuss.”</li><li>“Compare the teachings of Kabir and Guru Nanak.”</li><li>Prelims tip: Alvars = Vishnu; Nayanars = Shiva; Ramanuja = Vishishtadvaita; Basavanna = Lingayat; Chishti = Ajmer, Nizamuddin; Suhrawardi = Multan.</li></ul>",
+   "cls": "exam"
+  }
+ ],
+ "quiz": [
+  {
+   "q": "The Alvars were devotees of",
+   "o": [
+    "Shiva",
+    "Durga",
+    "Vishnu",
+    "Surya"
+   ],
+   "a": 2,
+   "w": "Tamil saints."
+  },
+  {
+   "q": "The Nayanars were devotees of",
+   "o": [
+    "Vishnu",
+    "Shiva",
+    "Rama",
+    "Krishna"
+   ],
+   "a": 1,
+   "w": "63 of them."
+  },
+  {
+   "q": "Vishishtadvaita was taught by",
+   "o": [
+    "Ramanuja",
+    "Shankara",
+    "Madhva",
+    "Nimbarka"
+   ],
+   "a": 0,
+   "w": "Qualified non-dualism."
+  },
+  {
+   "q": "The Lingayat movement was founded by",
+   "o": [
+    "Ramananda",
+    "Chaitanya",
+    "Tukaram",
+    "Basavanna"
+   ],
+   "a": 3,
+   "w": "In Karnataka."
+  },
+  {
+   "q": "Kabir was a disciple of",
+   "o": [
+    "Nanak",
+    "Chaitanya",
+    "Ramananda",
+    "Ramanuja"
+   ],
+   "a": 2,
+   "w": "He worshipped a formless God."
+  },
+  {
+   "q": "The Chishti saint buried at Ajmer is",
+   "o": [
+    "Nizamuddin Auliya",
+    "Khwaja Muinuddin Chishti",
+    "Baba Farid",
+    "Bahauddin Zakariya"
+   ],
+   "a": 1,
+   "w": "His dargah is a major pilgrimage place."
+  },
+  {
+   "q": "Which Sufi order was based at Multan?",
+   "o": [
+    "Suhrawardi",
+    "Chishti",
+    "Qadiri",
+    "Naqshbandi"
+   ],
+   "a": 0,
+   "w": "Bahauddin Zakariya."
+  },
+  {
+   "q": "The Varkari tradition is associated with",
+   "o": [
+    "Puri in Odisha",
+    "Madurai in Tamil Nadu",
+    "Nabadwip in Bengal",
+    "Pandharpur in Maharashtra"
+   ],
+   "a": 3,
+   "w": "Vitthal worship."
+  },
+  {
+   "q": "Sankardeva was a saint of",
+   "o": [
+    "Bengal",
+    "Gujarat",
+    "Assam",
+    "Kerala"
+   ],
+   "a": 2,
+   "w": "Ekasarana dharma."
+  },
+  {
+   "q": "Ramcharitmanas was composed by",
+   "o": [
+    "Kabir",
+    "Tulsidas",
+    "Surdas",
+    "Mirabai"
+   ],
+   "a": 1,
+   "w": "In Awadhi."
+  }
+ ],
+ "sources": [
+  "Satish Chandra, Medieval India",
+  "Nitin Singhania, Art and Culture",
+  "Spectrum"
+ ],
+ "verified": "2026-11-10"
+}

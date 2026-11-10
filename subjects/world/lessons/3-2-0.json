@@ -1,0 +1,169 @@
+{
+ "id": "3-2-0",
+ "title": "Mansa Musa and the Empires of West Africa",
+ "emoji": "👑",
+ "cards": [
+  {
+   "tag": "Why this matters",
+   "h": "The pilgrim who crashed Cairo's gold market",
+   "b": "<p>In 1324, a king from West Africa arrived in Cairo on the way to Mecca. He came with a huge caravan and so much gold that he gave and spent it freely.</p><p>An Arab writer, al-Umari, said the price of gold in Cairo stayed low for about twelve years. His name was <b>Mansa Musa</b>.</p>"
+  },
+  {
+   "tag": "The story",
+   "h": "The Mali Empire",
+   "b": "<p>Mali was founded around 1235 by <b>Sundiata Keita</b>, who defeated a rival king at the battle of <b>Kirina</b>. His story is told in the oral epic of the griots.</p><p>Mali sat on the Niger river, between the forest where gold was mined and the Sahara desert where salt came from.</p>"
+  },
+  {
+   "tag": "The turning point",
+   "h": "Gold for salt",
+   "b": "<svg class=\"d\" viewBox=\"0 0 320 130\"><rect x=\"6\" y=\"2\" width=\"150\" height=\"126\" rx=\"6\" fill=\"#f1e4c6\" stroke=\"#a8792a\"/><text x=\"81\" y=\"20\" font-size=\"11\" font-weight=\"700\" text-anchor=\"middle\" fill=\"#1d2433\">West Africa gives</text><text x=\"14\" y=\"42\" font-size=\"10.5\" fill=\"#1d2433\">Gold from the south</text><text x=\"14\" y=\"66\" font-size=\"10.5\" fill=\"#1d2433\">Ivory</text><text x=\"14\" y=\"90\" font-size=\"10.5\" fill=\"#1d2433\">Kola nuts</text><text x=\"14\" y=\"114\" font-size=\"10.5\" fill=\"#1d2433\">Enslaved people</text><rect x=\"164\" y=\"2\" width=\"150\" height=\"126\" rx=\"6\" fill=\"#dceaec\" stroke=\"#2f6f7a\"/><text x=\"239\" y=\"20\" font-size=\"11\" font-weight=\"700\" text-anchor=\"middle\" fill=\"#1d2433\">The north gives</text><text x=\"172\" y=\"42\" font-size=\"10.5\" fill=\"#1d2433\">Salt from Taghaza</text><text x=\"172\" y=\"66\" font-size=\"10.5\" fill=\"#1d2433\">Cloth and copper</text><text x=\"172\" y=\"90\" font-size=\"10.5\" fill=\"#1d2433\">Horses</text><text x=\"172\" y=\"114\" font-size=\"10.5\" fill=\"#1d2433\">Books and paper</text></svg><p>Caravans of camels crossed the Sahara. The Mali rulers taxed the trade. Timbuktu and Gao became rich towns.</p>"
+  },
+  {
+   "tag": "The twist",
+   "h": "The Hajj of 1324",
+   "b": "<p>Musa ruled from about 1312 to 1337. His pilgrimage to Mecca in 1324 is the stuff of legend. Accounts speak of tens of thousands of people and many camels carrying gold. Numbers are probably exaggerated, but the display clearly shocked Cairo.</p><p>On the way home he brought back scholars and an architect. In Timbuktu a great mosque, <b>Djinguereber</b>, and later Sankore became centres of learning.</p>"
+  },
+  {
+   "tag": "The story",
+   "h": "On the map",
+   "b": "<p>A Spanish map of 1375, the <b>Catalan Atlas</b>, shows a king on a throne holding a golden nugget, labelled as the ruler of Mali. It put West Africa on Europe's mind.</p><p>Ibn Battuta, the great traveller, visited Mali in 1352-53, in the reign of Musa's brother Sulayman.</p>"
+  },
+  {
+   "tag": "The story",
+   "h": "After Mali",
+   "b": "<p>Mali weakened in the 1400s. The <b>Songhai Empire</b> under Sunni Ali and then <b>Askia Muhammad</b> took over, with Gao as capital. Timbuktu's libraries kept thousands of manuscripts.</p><p>Songhai fell to a Moroccan invasion in 1591.</p>"
+  },
+  {
+   "tag": "Myth vs fact",
+   "h": "Was Musa the richest man ever?",
+   "b": "<b>Myth:</b> he was worth hundreds of billions of dollars.<b>Fact:</b> there are no records to calculate this. Medieval wealth cannot be compared with today's. What we can say: he was famously generous and Mali was extremely rich in gold.<p>Also, Musa did not 'found' Timbuktu; it was already a town. Another caution: our main sources are Arabic writers, who may exaggerate.</p>"
+  },
+  {
+   "tag": "Indian angle",
+   "h": "Meanwhile in India…",
+   "b": "<p>Two travellers' worlds</p>"
+  },
+  {
+   "tag": "Recap",
+   "h": "Five takeaways, two puzzles",
+   "b": "<p><b>Five things to remember</b></p><ol><li>Mali was founded by Sundiata around 1235.</li><li>Gold and salt drove the trade.</li><li>Musa's Hajj in 1324 became famous.</li><li>Timbuktu became a scholarly city.</li><li>Songhai followed Mali.</li></ol><p><b>Think about it</b></p><ul><li>Why did gold in Cairo 'lose value'?</li><li>What makes a source reliable when it comes from outsiders?</li></ul>",
+   "cls": "exam"
+  }
+ ],
+ "quiz": [
+  {
+   "q": "Mali was founded by...",
+   "o": [
+    "Mansa Musa",
+    "Askia Muhammad",
+    "Sundiata Keita",
+    "Ibn Battuta"
+   ],
+   "a": 2,
+   "w": "After Kirina."
+  },
+  {
+   "q": "Musa's Hajj was in...",
+   "o": [
+    "1324",
+    "1235",
+    "1591",
+    "1492"
+   ],
+   "a": 0,
+   "w": "Passing through Cairo."
+  },
+  {
+   "q": "Which famous mosque is in Timbuktu?",
+   "o": [
+    "Hagia Sophia",
+    "Jama Masjid",
+    "Al-Azhar",
+    "Djinguereber"
+   ],
+   "a": 3,
+   "w": "Linked to Musa's time."
+  },
+  {
+   "q": "The Catalan Atlas is from...",
+   "o": [
+    "1324",
+    "1375",
+    "1591",
+    "1235"
+   ],
+   "a": 1,
+   "w": "It shows Mali's ruler."
+  },
+  {
+   "q": "Who traded gold for salt?",
+   "o": [
+    "West Africa and the Sahara",
+    "India and China",
+    "Rome and Greece",
+    "Mexico and Peru"
+   ],
+   "a": 0,
+   "w": "Trans-Saharan trade."
+  },
+  {
+   "q": "Which writer said gold stayed cheap in Cairo?",
+   "o": [
+    "Ibn Battuta",
+    "Herodotus",
+    "Marco Polo",
+    "Al-Umari"
+   ],
+   "a": 3,
+   "w": "Writing soon after the visit."
+  },
+  {
+   "q": "Songhai was ruled by...",
+   "o": [
+    "Sundiata",
+    "Askia Muhammad",
+    "Musa",
+    "Rollo"
+   ],
+   "a": 1,
+   "w": "Capital at Gao."
+  },
+  {
+   "q": "Ibn Battuta served in...",
+   "o": [
+    "Cairo",
+    "Baghdad",
+    "Delhi",
+    "Kyiv"
+   ],
+   "a": 2,
+   "w": "Under Muhammad bin Tughluq."
+  },
+  {
+   "q": "Musa's wealth in modern dollars...",
+   "o": [
+    "Is exactly known",
+    "Was $100",
+    "Is in the Quran",
+    "Cannot be reliably calculated"
+   ],
+   "a": 3,
+   "w": "Sources are limited."
+  },
+  {
+   "q": "Songhai fell to...",
+   "o": [
+    "Morocco in 1591",
+    "Portugal in 1500",
+    "Mongols",
+    "Rome"
+   ],
+   "a": 0,
+   "w": "With guns."
+  }
+ ],
+ "sources": [
+  "Levtzion, Ancient Ghana and Mali (1973); Hunwick, Timbuktu and the Songhay Empire; Ibn Battuta, Rihla; Niane, Sundiata (1960)"
+ ],
+ "verified": "2026-11-10"
+}

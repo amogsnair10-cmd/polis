@@ -1,0 +1,176 @@
+{
+ "id": "0-1-0",
+ "title": "Vedic Society, Polity and Economy",
+ "emoji": "📿",
+ "cards": [
+  {
+   "tag": "Why this matters",
+   "h": "From pastoral tribes to kingdoms",
+   "b": "<p>The Vedic age sits between the Harappans and the Mahajanapadas. You need to tell Early and Later Vedic apart. Questions mix texts, society, polity and the economy.</p>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "Sources and dating",
+   "b": "<p>The <b>Rig Veda</b> (earliest, c. 1500 to 1000 BCE) and later Vedas (Sama, Yajur, Atharva), Brahmanas, Aranyakas and Upanishads (c. 1000 to 600 BCE). Archaeology: Painted Grey Ware (PGW) culture in the Ganga-Yamuna doab links to Later Vedic. The Aryans’ origin is a debate (see below). <i>Vedanga</i> and <i>Sutra</i> texts followed.</p>"
+  },
+  {
+   "tag": "Key idea",
+   "h": "Early Vedic (Rig Vedic) period",
+   "b": "<p>Saptasindhu region. Society: tribal (<i>jana</i>); family (<i>kula</i>); the <b>rajan</b> was a tribal chief, assisted by the <i>purohita</i> (Vashishtha, Vishvamitra) and <i>senani</i>. Assemblies: <b>Sabha, Samiti, Vidatha, Gana</b>. Economy: cattle (<i>gau</i>, <i>gavishthi</i> for war), pastoralism, limited agriculture; <i>nishka</i> as ornament, barter. Gods: Indra (war), Agni, Varuna, Soma. Women: Ghosha, Lopamudra, Apala; the <i>Dasarajna</i> battle (ten kings) on the Parushni (Ravi). Varna mentioned only in the <i>Purusha Sukta</i>, a late hymn.</p>"
+  },
+  {
+   "tag": "Key idea",
+   "h": "Later Vedic period",
+   "b": "<p>Shift east to the Ganga-Yamuna doab and Kosala-Kashi (c. 1000 to 600 BCE). Larger kingdoms (<i>janapadas</i>): Kuru, Panchala. Rulers performed <i>Rajasuya</i>, <i>Ashvamedha</i>, <i>Vajapeya</i>. The <b>Sabha and Samiti</b> declined; the <b>kingdom</b> grew with <i>bali</i> (tax) and <i>sangrihitri</i> (treasurer). Society: four <b>varnas</b> firmly formed; <i>ashrama</i> system (<i>Brahmacharya, Grihastha, Vanaprastha, Sanyasa</i>); <i>gotra</i>. Women lost status somewhat.</p>"
+  },
+  {
+   "tag": "Key idea",
+   "h": "Later Vedic economy",
+   "b": "<p>Agriculture became main: iron (<i>shyama ayas</i>, <i>krishna ayas</i>; iron from about 1000 to 800 BCE at sites such as Atranjikhera), plough, rice (<i>vrihi</i>), wheat, barley; <i>sali</i>. Crafts: carpenters, smiths, potters, weavers; trade; <i>nishka</i> and <i>satamana</i> as proto-currency; PGW and NBPW pottery. Cities emerged only later, around 600 BCE.</p>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "Religion and philosophy",
+   "b": "<p>Early: nature gods and sacrifices (<i>yajna</i>), no temples. Later: ritual complexity, priestly power (<i>Brahmanas</i>); Prajapati, Vishnu and Rudra rose; Indra declined. Upanishads: <i>Brahman</i> and <i>Atman</i>, <i>karma</i>, <i>moksha</i>; “Satyameva Jayate” from the Mundaka Upanishad. Ritual debates gave rise to Buddhism and Jainism.</p>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "Epics and Smritis",
+   "b": "<p>The Ramayana and the Mahabharata took their form between about 400 BCE and 400 CE. Dharmasutras (Gautama, Apastamba) and later Manusmriti (c. 200 BCE to 200 CE) set social and legal norms. These are used with caution, as they are composite texts.</p>"
+  },
+  {
+   "tag": "Debate",
+   "h": "Who were the Aryans?",
+   "b": "<p>Max Müller (1850s) proposed Aryan migration from Central Asia. Indian writers (B. G. Tilak: Arctic home; others: Indian origin) argued differently. Linguists point to Indo-European roots. Genetics (Narasimhan et al. 2019; Shinde et al. 2019) show steppe ancestry in many South Asians after 2000 BCE. Historians such as Romila Thapar stress that “Aryan” is a linguistic term, not a race. The debate remains charged.</p>"
+  },
+  {
+   "tag": "Indian angle",
+   "h": "Why it matters today",
+   "b": "<p>The Mundaka line “Satyameva Jayate” is India’s national motto. Sabha and Samiti are cited in discussions of Indian democratic roots; the Lok Sabha and Parliament use these words. The ashrama and varna ideas remain in social debates. Yajna and Vedic chanting are on UNESCO’s ICH list (Vedic chanting, 2008).</p>"
+  },
+  {
+   "tag": "Exam lens",
+   "h": "How to answer",
+   "b": "<ul><li>“Differentiate between Early and Later Vedic society and polity.”</li><li>“Why did the Sabha and Samiti decline?”</li><li>Prelims tip: Sabha, Samiti, Vidatha; Purusha Sukta; Dasarajna; PGW = Later Vedic; Sangrihitri; iron around 1000 BCE; Satyameva Jayate = Mundaka Upanishad.</li></ul>",
+   "cls": "exam"
+  }
+ ],
+ "quiz": [
+  {
+   "q": "The earliest Veda is",
+   "o": [
+    "Sama Veda",
+    "Yajur Veda",
+    "Atharva Veda",
+    "Rig Veda"
+   ],
+   "a": 3,
+   "w": "Mostly hymns."
+  },
+  {
+   "q": "The Dasarajna war was fought on the river",
+   "o": [
+    "Ganga",
+    "Yamuna",
+    "Parushni (Ravi)",
+    "Narmada"
+   ],
+   "a": 2,
+   "w": "A Rig Vedic battle."
+  },
+  {
+   "q": "Which was an Early Vedic assembly?",
+   "o": [
+    "Parishad",
+    "Sabha",
+    "Gana-sangha",
+    "Mahasabha"
+   ],
+   "a": 1,
+   "w": "Also Samiti and Vidatha."
+  },
+  {
+   "q": "The Purusha Sukta speaks of",
+   "o": [
+    "The origin of the four varnas",
+    "Warfare",
+    "Cattle raids",
+    "The Dasarajna"
+   ],
+   "a": 0,
+   "w": "In the Rig Veda’s tenth book."
+  },
+  {
+   "q": "The Painted Grey Ware culture is linked to",
+   "o": [
+    "Harappan",
+    "Maurya",
+    "Gupta",
+    "Later Vedic period"
+   ],
+   "a": 3,
+   "w": "In the Ganga-Yamuna region."
+  },
+  {
+   "q": "In later Vedic times the main occupation was",
+   "o": [
+    "Pastoralism",
+    "Trade",
+    "Agriculture",
+    "Hunting"
+   ],
+   "a": 2,
+   "w": "With iron tools."
+  },
+  {
+   "q": "The four ashramas were",
+   "o": [
+    "Dharma, Artha, Kama, Moksha",
+    "Brahmacharya, Grihastha, Vanaprastha, Sanyasa",
+    "Rig, Sama, Yajur, Atharva",
+    "Sabha, Samiti, Vidatha, Gana"
+   ],
+   "a": 1,
+   "w": "Stages of life."
+  },
+  {
+   "q": "Satyameva Jayate is from the",
+   "o": [
+    "Mundaka Upanishad",
+    "Rig Veda",
+    "Manusmriti",
+    "Arthashastra"
+   ],
+   "a": 0,
+   "w": "India’s motto."
+  },
+  {
+   "q": "The sangrihitri was",
+   "o": [
+    "A priest",
+    "A general",
+    "A village head",
+    "Treasurer in the Later Vedic period"
+   ],
+   "a": 3,
+   "w": "One of the ratnins."
+  },
+  {
+   "q": "Max Müller is associated with the theory of",
+   "o": [
+    "Indigenous origin",
+    "Arctic home",
+    "Aryan migration",
+    "Sea trade"
+   ],
+   "a": 2,
+   "w": "He studied Sanskrit and wrote on the Aryans."
+  }
+ ],
+ "sources": [
+  "Romila Thapar, Early India; R. S. Sharma, India’s Ancient Past",
+  "NCERT Class XI, Ancient India",
+  "Narasimhan et al. 2019"
+ ],
+ "verified": "2026-11-10"
+}

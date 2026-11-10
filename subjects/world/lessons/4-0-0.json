@@ -1,0 +1,169 @@
+{
+ "id": "4-0-0",
+ "title": "The Renaissance",
+ "emoji": "🎭",
+ "cards": [
+  {
+   "tag": "Why this matters",
+   "h": "A bank, a family and a dome that should not have stood",
+   "b": "<p>In 1418, Florence announced a contest. The great cathedral had a huge gap in its roof, wider than anyone knew how to cover without wooden scaffolding. A goldsmith named <b>Filippo Brunelleschi</b> said he could do it.</p><p>He did. The dome was finished in 1436, and Europe's imagination went off like a firework.</p>"
+  },
+  {
+   "tag": "The story",
+   "h": "Why Florence?",
+   "b": "<p>Italian cities like Florence, Venice and Milan had grown rich on trade and banking, even after the Black Death. The <b>Medici</b> family ran Europe's top bank and ruled Florence from 1434 under Cosimo de' Medici.</p><p>Rich families paid for art to show off. Competition between cities pushed artists to outdo each other.</p>"
+  },
+  {
+   "tag": "The turning point",
+   "h": "Looking back to look forward",
+   "b": "<p>Scholars like <b>Petrarch</b> (1304-1374) hunted for lost Latin texts and admired ancient Rome. This 'humanism' put human achievement at the centre. After 1453, Greek scholars from Constantinople brought more old books to Italy.</p><p>The word <i>rinascita</i> (rebirth) was used by the artist-writer <b>Vasari</b> in the 1500s. The word 'Renaissance' was popularised by historian Jacob Burckhardt in 1860.</p>"
+  },
+  {
+   "tag": "The twist",
+   "h": "Three geniuses",
+   "b": "<svg class=\"d\" viewBox=\"0 0 320 130\"><rect x=\"90\" y=\"4\" width=\"140\" height=\"30\" rx=\"6\" fill=\"#f1e4c6\" stroke=\"#a8792a\"/><text x=\"160\" y=\"23\" font-size=\"11\" font-weight=\"700\" text-anchor=\"middle\" fill=\"#1d2433\">Medici Florence</text><line x1=\"160\" y1=\"34\" x2=\"160\" y2=\"60\" stroke=\"#5d6474\"/><line x1=\"56.0\" y1=\"60\" x2=\"264.0\" y2=\"60\" stroke=\"#5d6474\"/><line x1=\"56.0\" y1=\"60\" x2=\"56.0\" y2=\"78\" stroke=\"#5d6474\"/><rect x=\"8.0\" y=\"78\" width=\"96.0\" height=\"44\" rx=\"6\" fill=\"#dceaec\" stroke=\"#2f6f7a\"/><text x=\"56.0\" y=\"96\" font-size=\"10\" text-anchor=\"middle\" fill=\"#1d2433\">Brunelleschi</text><text x=\"56.0\" y=\"110\" font-size=\"10\" text-anchor=\"middle\" fill=\"#1d2433\">dome, 1436</text><line x1=\"160.0\" y1=\"60\" x2=\"160.0\" y2=\"78\" stroke=\"#5d6474\"/><rect x=\"112.0\" y=\"78\" width=\"96.0\" height=\"44\" rx=\"6\" fill=\"#dceaec\" stroke=\"#2f6f7a\"/><text x=\"160.0\" y=\"96\" font-size=\"10\" text-anchor=\"middle\" fill=\"#1d2433\">Botticelli</text><text x=\"160.0\" y=\"110\" font-size=\"10\" text-anchor=\"middle\" fill=\"#1d2433\">Birth of Venus</text><line x1=\"264.0\" y1=\"60\" x2=\"264.0\" y2=\"78\" stroke=\"#5d6474\"/><rect x=\"216.0\" y=\"78\" width=\"96.0\" height=\"44\" rx=\"6\" fill=\"#dceaec\" stroke=\"#2f6f7a\"/><text x=\"264.0\" y=\"96\" font-size=\"10\" text-anchor=\"middle\" fill=\"#1d2433\">Michelangelo</text><text x=\"264.0\" y=\"110\" font-size=\"10\" text-anchor=\"middle\" fill=\"#1d2433\">David, 1501-04</text></svg><b>Leonardo da Vinci</b> (1452-1519) painted the <i>Mona Lisa</i> and filled notebooks with machines and anatomy. <b>Michelangelo</b> carved <i>David</i> and painted the Sistine Chapel ceiling (1508-12), lying on scaffolding, according to traditional accounts, and standing is closer to the truth. <b>Raphael</b> painted <i>The School of Athens</i> around 1509-11."
+  },
+  {
+   "tag": "The story",
+   "h": "A cold look at power",
+   "b": "<b>Niccolo Machiavelli</b> wrote <i>The Prince</i> in 1513, published after his death in 1532. He said a ruler must deal with the world as it is, not as it should be. People called its advice ruthless. Others read it as an honest study of power.<p>He has given us the word 'Machiavellian'.</p>"
+  },
+  {
+   "tag": "The story",
+   "h": "The Renaissance spreads",
+   "b": "<p>Ideas moved north with the printing press. Erasmus of Rotterdam, Thomas More and later Shakespeare drew on Renaissance humanism. Perspective, anatomy and realism changed painting everywhere.</p><p>Other people were left out: women artists were few, though some, like Sofonisba Anguissola, did get fame.</p>"
+  },
+  {
+   "tag": "Historians argue",
+   "h": "Was it really a break with the Middle Ages?",
+   "b": "<p>Burckhardt saw it as the birth of the modern individual. Many historians now say medieval Europe was not 'dark': universities, cathedrals and science thrived. Renaissance ideas had medieval roots.</p><p>Also, a common myth says medieval people thought the Earth was flat. Educated people knew it was round, and that includes Columbus's critics.</p>"
+  },
+  {
+   "tag": "Indian angle",
+   "h": "Meanwhile in India…",
+   "b": "<p>Hampi, Fatehpur Sikri and a Jesuit gift</p>"
+  },
+  {
+   "tag": "Recap",
+   "h": "Five takeaways, two puzzles",
+   "b": "<p><b>Five things to remember</b></p><ol><li>Florence's wealth and the Medici paid for art.</li><li>Humanism revived classical learning.</li><li>Brunelleschi's dome was finished in 1436.</li><li>Machiavelli wrote The Prince in 1513.</li><li>Historians question the neat 'break' with the Middle Ages.</li></ol><p><b>Think about it</b></p><ul><li>Does art flourish with rich patrons or despite them?</li><li>Is Machiavelli a cynic or a realist?</li></ul>",
+   "cls": "exam"
+  }
+ ],
+ "quiz": [
+  {
+   "q": "The Florentine dome was by...",
+   "o": [
+    "Michelangelo",
+    "Leonardo",
+    "Brunelleschi",
+    "Raphael"
+   ],
+   "a": 2,
+   "w": "Finished in 1436."
+  },
+  {
+   "q": "The ruling banking family of Florence...",
+   "o": [
+    "Medici",
+    "Borgia",
+    "Habsburg",
+    "Sforza"
+   ],
+   "a": 0,
+   "w": "From 1434."
+  },
+  {
+   "q": "The Renaissance means...",
+   "o": [
+    "Revolt",
+    "Reform",
+    "Rest",
+    "Rebirth"
+   ],
+   "a": 3,
+   "w": "From Italian rinascita."
+  },
+  {
+   "q": "Who popularised the term in 1860?",
+   "o": [
+    "Vasari",
+    "Jacob Burckhardt",
+    "Petrarch",
+    "Erasmus"
+   ],
+   "a": 1,
+   "w": "Swiss historian."
+  },
+  {
+   "q": "David was carved by...",
+   "o": [
+    "Michelangelo",
+    "Leonardo",
+    "Donatello",
+    "Botticelli"
+   ],
+   "a": 0,
+   "w": "1501-04."
+  },
+  {
+   "q": "The Prince was written in...",
+   "o": [
+    "1453",
+    "1517",
+    "1600",
+    "1513"
+   ],
+   "a": 3,
+   "w": "By Machiavelli."
+  },
+  {
+   "q": "Petrarch is linked to...",
+   "o": [
+    "Gunpowder",
+    "Humanism",
+    "Printing",
+    "Calvinism"
+   ],
+   "a": 1,
+   "w": "Hunted lost Latin texts."
+  },
+  {
+   "q": "Medieval educated people believed the earth was...",
+   "o": [
+    "Flat",
+    "A cube",
+    "Round",
+    "A disc on a turtle"
+   ],
+   "a": 2,
+   "w": "The flat-earth belief is a myth."
+  },
+  {
+   "q": "Krishnadevaraya ruled...",
+   "o": [
+    "Delhi",
+    "Bengal",
+    "Mysore",
+    "Vijayanagara"
+   ],
+   "a": 3,
+   "w": "1509-1529."
+  },
+  {
+   "q": "Akbar invited Jesuits to...",
+   "o": [
+    "Fatehpur Sikri in 1580",
+    "Hampi in 1450",
+    "Goa in 1510",
+    "Plassey"
+   ],
+   "a": 0,
+   "w": "Mughal court."
+  }
+ ],
+ "sources": [
+  "Burckhardt, The Civilization of the Renaissance in Italy (1860); Brotton, The Renaissance; Vasari, Lives; Sewell, A Forgotten Empire"
+ ],
+ "verified": "2026-11-10"
+}

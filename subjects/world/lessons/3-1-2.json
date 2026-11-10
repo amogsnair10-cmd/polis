@@ -1,0 +1,169 @@
+{
+ "id": "3-1-2",
+ "title": "The Black Death",
+ "emoji": "🐀",
+ "cards": [
+  {
+   "tag": "Why this matters",
+   "h": "The worst disaster in European history began with a sick ship",
+   "b": "<p>In October 1347, a few Genoese ships docked at Messina in Sicily. Many sailors were dead. Those alive were covered with black swellings that oozed.</p><p>The port authorities ordered them out. Too late. The Black Death had arrived.</p>"
+  },
+  {
+   "tag": "The story",
+   "h": "The road from Asia",
+   "b": "<svg class=\"d\" viewBox=\"0 0 320 214\"><defs><marker id=\"ar1\" markerWidth=\"8\" markerHeight=\"8\" refX=\"4\" refY=\"4\" orient=\"auto\"><path d=\"M0,0 L8,4 L0,8 z\" fill=\"#5d6474\"/></marker></defs><rect x=\"16\" y=\"2\" width=\"288\" height=\"28\" rx=\"6\" fill=\"#f1e4c6\" stroke=\"#a8792a\"/><text x=\"160\" y=\"20\" font-size=\"11\" text-anchor=\"middle\" fill=\"#1d2433\">Plague spreads among rodents in Central Asia</text><line x1=\"160\" y1=\"30\" x2=\"160\" y2=\"42\" stroke=\"#5d6474\" stroke-width=\"1.5\" marker-end=\"url(#ar1)\"/><rect x=\"16\" y=\"44\" width=\"288\" height=\"28\" rx=\"6\" fill=\"#dceaec\" stroke=\"#2f6f7a\"/><text x=\"160\" y=\"62\" font-size=\"11\" text-anchor=\"middle\" fill=\"#1d2433\">Mongol-era trade routes carry it west</text><line x1=\"160\" y1=\"72\" x2=\"160\" y2=\"84\" stroke=\"#5d6474\" stroke-width=\"1.5\" marker-end=\"url(#ar1)\"/><rect x=\"16\" y=\"86\" width=\"288\" height=\"28\" rx=\"6\" fill=\"#f1e4c6\" stroke=\"#a8792a\"/><text x=\"160\" y=\"104\" font-size=\"11\" text-anchor=\"middle\" fill=\"#1d2433\">Caffa on the Black Sea, 1346</text><line x1=\"160\" y1=\"114\" x2=\"160\" y2=\"126\" stroke=\"#5d6474\" stroke-width=\"1.5\" marker-end=\"url(#ar1)\"/><rect x=\"16\" y=\"128\" width=\"288\" height=\"28\" rx=\"6\" fill=\"#dceaec\" stroke=\"#2f6f7a\"/><text x=\"160\" y=\"146\" font-size=\"11\" text-anchor=\"middle\" fill=\"#1d2433\">Ships bring it to Sicily, 1347</text><line x1=\"160\" y1=\"156\" x2=\"160\" y2=\"168\" stroke=\"#5d6474\" stroke-width=\"1.5\" marker-end=\"url(#ar1)\"/><rect x=\"16\" y=\"170\" width=\"288\" height=\"28\" rx=\"6\" fill=\"#f1e4c6\" stroke=\"#a8792a\"/><text x=\"160\" y=\"188\" font-size=\"11\" text-anchor=\"middle\" fill=\"#1d2433\">All of Europe by about 1350</text></svg><p>The disease is caused by the bacterium <b>Yersinia pestis</b>, confirmed by DNA from plague-pit skeletons. It was usually spread by fleas on rats, though it could also spread from person to person in its lung form.</p>"
+  },
+  {
+   "tag": "The turning point",
+   "h": "How bad?",
+   "b": "<p>Historians estimate that about a third to a half of Europeans died in 1347-1351. Estimates differ, and some areas were barely touched. Cities with crowded streets suffered most. In the Middle East and North Africa, too, millions died.</p><p>Victims got fever, black swellings called buboes, and many died within days. Doctors had no cure. Many blamed bad air or the stars.</p>"
+  },
+  {
+   "tag": "The twist",
+   "h": "Panic and scapegoats",
+   "b": "<p>Some people whipped themselves in public, the <b>Flagellants</b>, hoping to please God. Others blamed Jews and attacked communities, for example in Strasbourg in 1349. The Pope condemned the violence, but it went on.</p><p>By 1377 the port of Ragusa (Dubrovnik) required ships to wait for 30 days; Venice later made it 40 (<i>quaranta giorni</i>), which gives us 'quarantine'.</p>"
+  },
+  {
+   "tag": "The story",
+   "h": "A world turned upside down",
+   "b": "<p>So many workers died that survivors could demand higher wages. In England, laws tried to freeze wages, which angered people. The <b>Peasants' Revolt</b> of 1381 followed, partly from this anger.</p><p>Some historians say that, in the long run, the Black Death weakened serfdom in Western Europe.</p>"
+  },
+  {
+   "tag": "The story",
+   "h": "It kept returning",
+   "b": "<p>Plague came back in waves for 400 years: London's Great Plague in 1665 and Marseille in 1720. Europe slowly learned about quarantine and isolation.</p><p>The plague was not a one-time event but a recurring shadow.</p>"
+  },
+  {
+   "tag": "Myth vs fact",
+   "h": "Is 'Ring a Ring o' Roses' about the plague?",
+   "b": "<b>Myth:</b> the nursery rhyme describes plague symptoms.<b>Fact:</b> there is no evidence for that. The rhyme was first written down in the late 1800s. Folklorists say the plague link was added in the 20th century.<p>Another point: rats were not alone. Some researchers argue that human fleas and lice also helped spread it. That is still being tested.</p>"
+  },
+  {
+   "tag": "Indian angle",
+   "h": "Meanwhile in India…",
+   "b": "<p>Bombay 1896</p>"
+  },
+  {
+   "tag": "Recap",
+   "h": "Five takeaways, two puzzles",
+   "b": "<p><b>Five things to remember</b></p><ol><li>The Black Death hit Europe in 1347-1351.</li><li>Yersinia pestis is the confirmed cause.</li><li>Perhaps a third to a half of Europeans died.</li><li>Quarantine began in Ragusa and Venice.</li><li>India's plague came in 1896.</li></ol><p><b>Think about it</b></p><ul><li>How do societies change after a huge loss of workers?</li><li>Why do people look for scapegoats in a panic?</li></ul>",
+   "cls": "exam"
+  }
+ ],
+ "quiz": [
+  {
+   "q": "The plague bacterium is...",
+   "o": [
+    "Vibrio cholerae",
+    "A virus",
+    "Yersinia pestis",
+    "A fungus"
+   ],
+   "a": 2,
+   "w": "Confirmed by ancient DNA."
+  },
+  {
+   "q": "It reached Sicily in...",
+   "o": [
+    "1347",
+    "1066",
+    "1492",
+    "1665"
+   ],
+   "a": 0,
+   "w": "By Genoese ships."
+  },
+  {
+   "q": "Roughly what share of Europeans died?",
+   "o": [
+    "1 percent",
+    "About 5 percent",
+    "Almost all",
+    "A third to a half"
+   ],
+   "a": 3,
+   "w": "Estimates vary."
+  },
+  {
+   "q": "'Quarantine' comes from...",
+   "o": [
+    "Latin for sickness",
+    "The Italian for forty days",
+    "French for rats",
+    "Greek for fear"
+   ],
+   "a": 1,
+   "w": "Venice's 40 days."
+  },
+  {
+   "q": "Flagellants...",
+   "o": [
+    "Whipped themselves in public",
+    "Sold medicine",
+    "Cooked",
+    "Guarded ports"
+   ],
+   "a": 0,
+   "w": "A response to the plague."
+  },
+  {
+   "q": "The Peasants' Revolt was in...",
+   "o": [
+    "1347",
+    "1485",
+    "1666",
+    "1381"
+   ],
+   "a": 3,
+   "w": "England."
+  },
+  {
+   "q": "London's Great Plague was in...",
+   "o": [
+    "1347",
+    "1665",
+    "1348",
+    "1720"
+   ],
+   "a": 1,
+   "w": "A late outbreak."
+  },
+  {
+   "q": "Haffkine's plague vaccine was developed in...",
+   "o": [
+    "London, 1665",
+    "Delhi, 1857",
+    "Bombay, 1897",
+    "Paris, 1920"
+   ],
+   "a": 2,
+   "w": "During the third pandemic."
+  },
+  {
+   "q": "The Epidemic Diseases Act was passed in...",
+   "o": [
+    "1347",
+    "1947",
+    "2020",
+    "1897"
+   ],
+   "a": 3,
+   "w": "By colonial India's government."
+  },
+  {
+   "q": "The 'Ring a Ring o' Roses' link to plague is...",
+   "o": [
+    "Unsupported by evidence",
+    "Proven",
+    "Medieval",
+    "Written by Haffkine"
+   ],
+   "a": 0,
+   "w": "Folklorists reject it."
+  }
+ ],
+ "sources": [
+  "Benedictow, The Black Death 1346-1353 (2004); Bos et al., Nature 2011; Arnold, Colonizing the Body (1993); Haffkine 1897"
+ ],
+ "verified": "2026-11-10"
+}

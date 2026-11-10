@@ -1,0 +1,169 @@
+{
+ "id": "3-2-1",
+ "title": "The Maya, Aztecs and Inca",
+ "emoji": "🗿",
+ "cards": [
+  {
+   "tag": "Why this matters",
+   "h": "Three huge civilisations that never knew Rome or China existed",
+   "b": "<p>While Europe, Asia and Africa traded, the Americas grew their own cities, calendars and empires. Pyramids in jungles, floating gardens, and a knotted-string accounting system.</p><p>Let us meet them.</p>"
+  },
+  {
+   "tag": "The story",
+   "h": "The Maya: maths and glyphs",
+   "b": "<p>The classic Maya (about 250-900 CE) built city-states like Tikal and Palenque in today's Mexico, Guatemala and Belize. They tracked stars, used zero in their number system, and had a full writing system of glyphs. It was largely deciphered in the late 20th century, building on work by Yuri Knorozov in the 1950s.</p><p>Their kings fought wars between cities, and played a ritual ball game.</p>"
+  },
+  {
+   "tag": "The turning point",
+   "h": "The Aztecs: city on a lake",
+   "b": "<svg class=\"d\" viewBox=\"0 0 320 180\"><line x1=\"14\" y1=\"10\" x2=\"14\" y2=\"170\" stroke=\"#a8792a\" stroke-width=\"2\"/><circle cx=\"14\" cy=\"22\" r=\"5\" fill=\"#f1e4c6\" stroke=\"#a8792a\" stroke-width=\"2\"/><text x=\"28\" y=\"26\" font-size=\"11\" font-weight=\"700\" fill=\"#a8792a\">250-900</text><text x=\"112\" y=\"26\" font-size=\"11\" fill=\"#1d2433\">Classic Maya cities</text><circle cx=\"14\" cy=\"50\" r=\"5\" fill=\"#f1e4c6\" stroke=\"#a8792a\" stroke-width=\"2\"/><text x=\"28\" y=\"54\" font-size=\"11\" font-weight=\"700\" fill=\"#a8792a\">1325</text><text x=\"112\" y=\"54\" font-size=\"11\" fill=\"#1d2433\">Tenochtitlan founded</text><circle cx=\"14\" cy=\"78\" r=\"5\" fill=\"#f1e4c6\" stroke=\"#a8792a\" stroke-width=\"2\"/><text x=\"28\" y=\"82\" font-size=\"11\" font-weight=\"700\" fill=\"#a8792a\">1428</text><text x=\"112\" y=\"82\" font-size=\"11\" fill=\"#1d2433\">Aztec Triple Alliance</text><circle cx=\"14\" cy=\"106\" r=\"5\" fill=\"#f1e4c6\" stroke=\"#a8792a\" stroke-width=\"2\"/><text x=\"28\" y=\"110\" font-size=\"11\" font-weight=\"700\" fill=\"#a8792a\">~1438</text><text x=\"112\" y=\"110\" font-size=\"11\" fill=\"#1d2433\">Inca expansion begins</text><circle cx=\"14\" cy=\"134\" r=\"5\" fill=\"#f1e4c6\" stroke=\"#a8792a\" stroke-width=\"2\"/><text x=\"28\" y=\"138\" font-size=\"11\" font-weight=\"700\" fill=\"#a8792a\">1519-21</text><text x=\"112\" y=\"138\" font-size=\"11\" fill=\"#1d2433\">Cortes topples the Aztecs</text><circle cx=\"14\" cy=\"162\" r=\"5\" fill=\"#f1e4c6\" stroke=\"#a8792a\" stroke-width=\"2\"/><text x=\"28\" y=\"166\" font-size=\"11\" font-weight=\"700\" fill=\"#a8792a\">1532</text><text x=\"112\" y=\"166\" font-size=\"11\" fill=\"#1d2433\">Pizarro captures Atahualpa</text></svg><p>The Mexica (Aztecs) founded <b>Tenochtitlan</b> on an island in Lake Texcoco in 1325. With causeways and farming plots called <i>chinampas</i>, it may have held about 200,000 people. Spaniards said it was bigger than any city they knew.</p>"
+  },
+  {
+   "tag": "The twist",
+   "h": "The Inca: no writing, no problem",
+   "b": "<p>The Inca empire, <b>Tawantinsuyu</b> ('four parts together'), ruled from Cusco and stretched about 4,000 km along the Andes. Under <b>Pachacuti</b>, from about 1438, it grew quickly.</p><p>They had no writing as we know it. They kept records with <b>quipu</b>, knotted strings. They built a huge road network, with relay runners, and terrace farms on steep mountainsides. <b>Machu Picchu</b> was built around 1450.</p>"
+  },
+  {
+   "tag": "The story",
+   "h": "Why did the Aztecs and Inca fall?",
+   "b": "<p>In 1519, <b>Hernan Cortes</b> landed in Mexico with a small force and many native allies who resented Aztec rule. Tenochtitlan fell in 1521. Smallpox, new to the Americas, killed huge numbers.</p><p>In 1532, <b>Francisco Pizarro</b> trapped the Inca ruler <b>Atahualpa</b> at Cajamarca. The Inca were already weakened by a civil war and by disease.</p>"
+  },
+  {
+   "tag": "The story",
+   "h": "The Maya never vanished",
+   "b": "<p>In the 800s-900s, many southern Maya cities were abandoned. Possible reasons include drought, war and over-farming. Historians still argue about the weight of each.</p><p>But the Maya themselves did not disappear. Millions of Maya people live in Mexico and Guatemala today and speak Mayan languages.</p>"
+  },
+  {
+   "tag": "Myth vs fact",
+   "h": "Did the Maya predict the end of the world in 2012?",
+   "b": "<b>Myth:</b> yes.<b>Fact:</b> the Maya Long Count calendar completed a major cycle, a <i>b'ak'tun</i>, on 21 December 2012. That was like a car odometer turning over. Maya texts mention dates thousands of years in the future. There was no doomsday prophecy.<p>Another myth: 'the Aztecs mistook Cortes for a god'. This idea is now seen as post-conquest legend by many historians.</p>"
+  },
+  {
+   "tag": "Indian angle",
+   "h": "Meanwhile in India…",
+   "b": "<p>Zero, chillies and a lost link</p>"
+  },
+  {
+   "tag": "Recap",
+   "h": "Five takeaways, two puzzles",
+   "b": "<p><b>Five things to remember</b></p><ol><li>The Maya had zero, a calendar and a glyph script.</li><li>Tenochtitlan was a lake city of about 200,000.</li><li>The Inca used quipu and roads without writing.</li><li>Cortes fell on Tenochtitlan in 1521; Pizarro took Atahualpa in 1532.</li><li>Maya people are still here.</li></ol><p><b>Think about it</b></p><ul><li>Why do big empires fall quickly when disease strikes?</li><li>What does zero in both India and Maya say about independent invention?</li></ul>",
+   "cls": "exam"
+  }
+ ],
+ "quiz": [
+  {
+   "q": "The Maya used...",
+   "o": [
+    "Iron plows",
+    "Wheeled carts",
+    "Zero and a glyph script",
+    "Paper money"
+   ],
+   "a": 2,
+   "w": "A sophisticated number system."
+  },
+  {
+   "q": "Tenochtitlan was founded in...",
+   "o": [
+    "1325",
+    "1519",
+    "1532",
+    "250 CE"
+   ],
+   "a": 0,
+   "w": "On Lake Texcoco."
+  },
+  {
+   "q": "Chinampas were...",
+   "o": [
+    "Pyramids",
+    "Weapons",
+    "Roads",
+    "Raised farming plots in the lake"
+   ],
+   "a": 3,
+   "w": "Floating-garden style."
+  },
+  {
+   "q": "The Inca empire's name Tawantinsuyu means...",
+   "o": [
+    "Land of Gold",
+    "Four parts together",
+    "Children of the Sun",
+    "Mountain Road"
+   ],
+   "a": 1,
+   "w": "Four regions."
+  },
+  {
+   "q": "Quipu were...",
+   "o": [
+    "Knotted-string records",
+    "Paper books",
+    "Coins",
+    "Ships"
+   ],
+   "a": 0,
+   "w": "Used by the Inca."
+  },
+  {
+   "q": "Machu Picchu was built around...",
+   "o": [
+    "250 CE",
+    "1325",
+    "1532",
+    "1450"
+   ],
+   "a": 3,
+   "w": "Under Pachacuti."
+  },
+  {
+   "q": "Cortes took Tenochtitlan in...",
+   "o": [
+    "1325",
+    "1521",
+    "1492",
+    "1532"
+   ],
+   "a": 1,
+   "w": "With indigenous allies."
+  },
+  {
+   "q": "Pizarro captured...",
+   "o": [
+    "Montezuma",
+    "Pachacuti",
+    "Atahualpa",
+    "Cortes"
+   ],
+   "a": 2,
+   "w": "At Cajamarca in 1532."
+  },
+  {
+   "q": "The 2012 Maya date was...",
+   "o": [
+    "A doomsday",
+    "A war",
+    "A coronation",
+    "The end of a calendar cycle"
+   ],
+   "a": 3,
+   "w": "Not a prophecy."
+  },
+  {
+   "q": "Which came to India after 1492?",
+   "o": [
+    "Chilli",
+    "Black pepper",
+    "Rice",
+    "Cardamom"
+   ],
+   "a": 0,
+   "w": "From the Americas via Portuguese traders."
+  }
+ ],
+ "sources": [
+  "Coe, The Maya; Smith, The Aztecs; D'Altroy, The Incas; Restall, Seven Myths of the Spanish Conquest (2003)"
+ ],
+ "verified": "2026-11-10"
+}

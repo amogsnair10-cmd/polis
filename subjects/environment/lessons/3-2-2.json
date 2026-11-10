@@ -11,7 +11,7 @@
   {
    "tag": "Core idea",
    "h": "How carbon markets work",
-   "b": "<p>A <b>compliance market</b> sets a legal limit or intensity target for firms. Those who beat it earn credits and sell to those who miss. A <b>voluntary market</b> lets firms buy credits to offset their emissions.</p><p>Two designs: <b>cap-and-trade</b> (absolute cap, as in the EU ETS, started 2005) and <b>baseline-and-credit</b> (intensity targets). India uses the intensity model.</p>"
+   "b": "<p>A <b>compliance market</b> sets a legal limit or intensity target for firms. Those who beat it earn credits and sell to those who miss. A <b>voluntary market</b> lets firms buy credits to offset their emissions.</p><p>Two designs: <b>cap-and-trade</b> (absolute cap, as in the EU ETS, started 2005) and <b>baseline-and-credit</b> (intensity targets). India uses the intensity model.</p><svg class='d' viewBox='0 0 320 174' role='img' aria-label='x35 diagram'><defs><marker id='x35m' markerWidth='8' markerHeight='8' refX='6' refY='4' orient='auto'><path d='M0,0 L8,4 L0,8 z' fill='#5d6474'/></marker></defs><g font-size='11' fill='#1d2433' text-anchor='middle'><rect x='20' y='6' width='280' height='30' fill='#f1e4c6' stroke='#a8792a'/><text x='160' y='25'>Government sets target or cap</text><rect x='20' y='50' width='280' height='30' fill='#dceaec' stroke='#2f6f7a'/><text x='160' y='69'>Firm below target earns credits</text><rect x='20' y='94' width='280' height='30' fill='#f4dcd5' stroke='#a3362a'/><text x='160' y='113'>Firm above target buys credits</text><rect x='20' y='138' width='280' height='30' fill='#f1e4c6' stroke='#a8792a'/><text x='160' y='157'>Price rewards cutting emissions</text></g><g stroke='#5d6474' stroke-width='1.5' marker-end='url(#x35m)'><line x1='160' y1='36' x2='160' y2='48'/><line x1='160' y1='80' x2='160' y2='92'/><line x1='160' y1='124' x2='160' y2='136'/></g></svg>"
   },
   {
    "tag": "India’s CCTS",
@@ -51,7 +51,7 @@
   {
    "tag": "Exam lens",
    "h": "How to answer",
-   "b": "<p><b>Mains-style:</b> “What is the Carbon Credit Trading Scheme? How does it differ from PAT and from the Green Credit Programme?” Structure: definitions; legal base; sector coverage; differences (compliance versus voluntary, industry versus nature); risks; way forward.</p><p><b>Prelims tip:</b> CCTS: BEE as administrator. Green Credit Administrator: ICFRE. LiFE launched 2022. EU ETS began 2005.</p>",
+   "b": "<p><b>Mains-style:</b> “What is the Carbon Credit Trading Scheme? How does it differ from PAT and from the Green Credit Programme?” Structure: definitions; legal base; sector coverage; differences (compliance versus voluntary, industry versus nature); risks; way forward.</p><p><b>Prelims tip:</b> CCTS: BEE as administrator. Green Credit Administrator: ICFRE. LiFE launched 2022. EU ETS began 2005.</p><p>Answer pointers: the Energy Conservation (Amendment) Act 2022 gave the legal basis for a carbon market. CCTS uses emission intensity targets for covered entities, unlike absolute caps in the EU ETS. The Green Credit Programme rewards voluntary actions such as tree planting and water conservation, so it is not a compliance market. Do not mix PAT energy savings certificates with carbon credits. Mention double counting and price discovery as risks.</p>",
    "cls": "exam"
   }
  ],

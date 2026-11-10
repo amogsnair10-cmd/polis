@@ -1,0 +1,176 @@
+{
+ "id": "0-0-0",
+ "title": "Stone Age to Chalcolithic India",
+ "emoji": "🪨",
+ "cards": [
+  {
+   "tag": "Why this matters",
+   "h": "Reading India before writing",
+   "b": "<p>Most of India’s past has no texts. Tools, pots and bones tell the story. UPSC asks for the phases, sites and the key change from hunting to farming.</p>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "Periods and sources",
+   "b": "<p>Archaeology divides prehistory by tools: <b>Palaeolithic</b> (Old Stone Age, to about 10,000 BCE), <b>Mesolithic</b> (about 10,000 to 6,000 BCE), <b>Neolithic</b> (from about 6,000 BCE in the north-west), <b>Chalcolithic</b> (copper and stone, from about 3,000 BCE), then the Iron Age. Dates vary by region. Robert Bruce Foote found the first Palaeolithic tool at Pallavaram (1863).</p>"
+  },
+  {
+   "tag": "Key idea",
+   "h": "Palaeolithic sites and ways of life",
+   "b": "<p>Hunting and gathering; Quartzite tools: hand-axes and cleavers (Acheulian), choppers (Soan). Sites: <b>Bhimbetka</b> (Madhya Pradesh; rock shelters, paintings), Attirampakkam (Tamil Nadu; early tools), Hunsgi (Karnataka), Belan valley (UP), Soan valley (Punjab, Pakistan). People lived in caves and rock shelters and used fire. The climate was cold and dry in the late phase.</p>"
+  },
+  {
+   "tag": "Key idea",
+   "h": "Mesolithic",
+   "b": "<b>Microliths</b> (tiny stone tools) set in wood or bone; bow and arrow; fishing; first domestication of the dog; beginnings of animal herding. Sites: <b>Bagor</b> (Rajasthan), Adamgarh (MP; early animals), <b>Sarai Nahar Rai</b> and <b>Mahadaha</b> (UP; burials, bone tools), Langhnaj (Gujarat). Rock paintings show hunt, dance and group life."
+  },
+  {
+   "tag": "Key idea",
+   "h": "Neolithic revolution",
+   "b": "<p>V. Gordon Childe coined the term: food production, pottery, polished stone axes, settled life. <b>Mehrgarh</b> (Baluchistan, c. 7000 BCE; wheat, barley, cattle; precursor of the Harappan culture). <b>Burzahom</b> (Kashmir; pit dwellings, dogs buried with masters), <b>Chirand</b> (Bihar; bone tools), <b>Koldihwa</b> (UP; earliest rice, c. 6000 BCE), <b>Maski, Brahmagiri, Piklihal</b> (Karnataka), Daojali Hading (Assam). Granaries, pottery, ash mounds in the south.</p>"
+  },
+  {
+   "tag": "Key idea",
+   "h": "Chalcolithic cultures",
+   "b": "<p>Use of copper with stone. Villages with mud houses; painted pottery; farming of wheat, barley and millet; cattle; burial of children in house floors. Sites: <b>Ahar-Banas</b> (Rajasthan), <b>Kayatha</b> (MP), <b>Malwa</b> (Navdatoli), <b>Jorwe</b> (Maharashtra; Inamgaon, a big site with burials and a granary), Prabhas and Rangpur (Gujarat). Also <b>Ochre Coloured Pottery</b> and the Copper Hoards (Gangetic basin). Reasons for decline: drought and lack of metal tools.</p>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "Why this change matters",
+   "b": "<p>Moving to farming made villages, property and craft. Population rose. Leaders and exchange grew. It prepared the soil for the Harappan towns. The shift was slow and had many regions: in some places hunters and herders carried on beside farmers. Rock art kept the memory.</p>"
+  },
+  {
+   "tag": "Debate",
+   "h": "Revolution or slow change?",
+   "b": "<p>Childe’s “revolution” is now thought to be gradual. Scholars (Dorian Fuller, Jean-François Jarrige) debate whether Mehrgarh’s farming was local or brought from West Asia. Rice farming might have local roots. Evidence from Attirampakkam (2018 study dating tools to 385,000 years ago) has pushed the date for Middle Palaeolithic technology much earlier in India.</p>"
+  },
+  {
+   "tag": "Indian angle",
+   "h": "Why it matters today",
+   "b": "<p>Bhimbetka (UNESCO 2003) and many rock-art sites need protection; the ASI and state bodies manage them. Archaeological methods (carbon dating, ancient DNA) help to resolve the debates. Tribal communities still use some of these skills, and traditional crops have been revived: millets (International Year of Millets, 2023).</p>"
+  },
+  {
+   "tag": "Exam lens",
+   "h": "How to answer",
+   "b": "<ul><li>“Describe the Neolithic revolution in India.”</li><li>“Chalcolithic cultures: features and sites.”</li><li>Prelims tip: Mehrgarh (earliest farming), Burzahom (pit dwellings), Koldihwa (rice), Jorwe (Inamgaon), Bagor (Mesolithic, animals), Bhimbetka (UNESCO).</li></ul>",
+   "cls": "exam"
+  }
+ ],
+ "quiz": [
+  {
+   "q": "Which is the oldest period?",
+   "o": [
+    "Mesolithic",
+    "Neolithic",
+    "Palaeolithic",
+    "Chalcolithic"
+   ],
+   "a": 2,
+   "w": "The Old Stone Age."
+  },
+  {
+   "q": "Microliths are characteristic of the",
+   "o": [
+    "Palaeolithic",
+    "Mesolithic",
+    "Neolithic",
+    "Iron Age"
+   ],
+   "a": 1,
+   "w": "Tiny stone tools."
+  },
+  {
+   "q": "The earliest known farming village in the Indian subcontinent is",
+   "o": [
+    "Mehrgarh",
+    "Burzahom",
+    "Koldihwa",
+    "Inamgaon"
+   ],
+   "a": 0,
+   "w": "In Baluchistan."
+  },
+  {
+   "q": "Pit dwellings are found at",
+   "o": [
+    "Maski",
+    "Chirand",
+    "Bagor",
+    "Burzahom"
+   ],
+   "a": 3,
+   "w": "In Kashmir."
+  },
+  {
+   "q": "Early evidence of rice cultivation comes from",
+   "o": [
+    "Mehrgarh",
+    "Burzahom",
+    "Koldihwa",
+    "Bagor"
+   ],
+   "a": 2,
+   "w": "In Uttar Pradesh."
+  },
+  {
+   "q": "Chalcolithic means",
+   "o": [
+    "Iron and stone",
+    "Copper and stone together",
+    "Bronze only",
+    "Only stone"
+   ],
+   "a": 1,
+   "w": "From chalkos, copper."
+  },
+  {
+   "q": "The Jorwe culture was in",
+   "o": [
+    "Maharashtra",
+    "Rajasthan",
+    "Bihar",
+    "Kashmir"
+   ],
+   "a": 0,
+   "w": "Inamgaon is a key site."
+  },
+  {
+   "q": "The Ahar-Banas culture was in",
+   "o": [
+    "Gujarat",
+    "Assam",
+    "Odisha",
+    "Rajasthan"
+   ],
+   "a": 3,
+   "w": "Chalcolithic."
+  },
+  {
+   "q": "Who coined the term Neolithic Revolution?",
+   "o": [
+    "R. B. Foote",
+    "John Marshall",
+    "V. Gordon Childe",
+    "R. E. M. Wheeler"
+   ],
+   "a": 2,
+   "w": "In the 1930s."
+  },
+  {
+   "q": "Bhimbetka is famous for",
+   "o": [
+    "Iron smelting",
+    "Rock shelters and paintings",
+    "Harappan seals",
+    "Buddhist stupas"
+   ],
+   "a": 1,
+   "w": "A UNESCO site (2003)."
+  }
+ ],
+ "sources": [
+  "NCERT Class XI, Themes in World History; Old NCERT Ancient India (R. S. Sharma)",
+  "Spectrum; Nitin Singhania",
+  "Prehistory of India"
+ ],
+ "verified": "2026-11-10"
+}

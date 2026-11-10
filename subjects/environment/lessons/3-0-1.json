@@ -11,17 +11,17 @@
   {
    "tag": "Heat and health",
    "h": "Rising extremes",
-   "b": "<p>Heatwaves are longer and earlier. In March 2022 an early heatwave cut wheat yields in parts of the north. Cities add the heat-island effect. India’s heat action plans began with Ahmedabad in 2013.</p><p>Heat also hits outdoor workers and productivity, and raises power demand.</p>"
+   "b": "<p>Heatwaves are longer and earlier. In March 2022 an early heatwave cut wheat yields in parts of the north. Cities add the heat-island effect. India’s heat action plans began with Ahmedabad in 2013.</p><p>Heat also hits outdoor workers and productivity, and raises power demand.</p><p>Wet-bulb temperature, which combines heat and humidity, is the real danger for people, because the body cannot cool itself by sweating when it is high. The Ahmedabad plan added early warning, cool roofs and public awareness, and the NDMA now guides state and city heat action plans. Outdoor workers, the elderly and the urban poor are most exposed.</p>"
   },
   {
    "tag": "Agriculture",
    "h": "Yield and monsoon risk",
-   "b": "<p>Agriculture is mostly rain-fed, so changes in the monsoon matter. Heat at grain filling cuts wheat yield. Warmer nights hurt rice. Extreme rain damages standing crops.</p><p>Pests and diseases shift range. ICAR’s <b>NICRA</b> project studies resilient crops and the ICAR has released many climate-resilient varieties. Insurance (PMFBY) cushions losses.</p>"
+   "b": "<p>Agriculture is mostly rain-fed, so changes in the monsoon matter. Heat at grain filling cuts wheat yield. Warmer nights hurt rice. Extreme rain damages standing crops.</p><p>Pests and diseases shift range. ICAR’s <b>NICRA</b> project studies resilient crops and the ICAR has released many climate-resilient varieties. Insurance (PMFBY) cushions losses.</p><p>Rain-fed farming covers roughly half of India's net sown area, and its yields swing with the monsoon. Rising sea level and salinity threaten delta rice areas. Shifting sowing dates, drought-tolerant seeds, micro-irrigation and crop diversification are the main adaptations. Warmer winters also shorten the wheat season in the Indo-Gangetic plain.</p>"
   },
   {
    "tag": "Water",
    "h": "Glaciers and monsoon",
-   "b": "<p>Himalayan glaciers feed the Indus, Ganga and Brahmaputra. They are retreating, first adding flows and later reducing them. Glacial lake outburst floods are a growing hazard: Kedarnath 2013, Chamoli 2021 and South Lhonak, Sikkim in October 2023.</p><p>Rainfall is becoming more extreme: fewer rainy days but heavier spells. Groundwater is already overused in the north-west.</p>"
+   "b": "<p>Himalayan glaciers feed the Indus, Ganga and Brahmaputra. They are retreating, first adding flows and later reducing them. Glacial lake outburst floods are a growing hazard: Kedarnath 2013, Chamoli 2021 and South Lhonak, Sikkim in October 2023.</p><p>Rainfall is becoming more extreme: fewer rainy days but heavier spells. Groundwater is already overused in the north-west.</p><svg class='d' viewBox='0 0 320 182' role='img' aria-label='i31 diagram'><defs><marker id='i31m' markerWidth='8' markerHeight='8' refX='6' refY='4' orient='auto'><path d='M0,0 L8,4 L0,8 z' fill='#5d6474'/></marker></defs><g font-size='11' fill='#1d2433' text-anchor='middle'><rect x='20' y='6' width='280' height='32' fill='#f1e4c6' stroke='#a8792a'/><text x='160' y='26'>Higher temperature</text><rect x='20' y='52' width='280' height='32' fill='#dceaec' stroke='#2f6f7a'/><text x='160' y='72'>Glaciers melt; monsoon turns erratic</text><rect x='20' y='98' width='280' height='32' fill='#f4dcd5' stroke='#a3362a'/><text x='160' y='118'>Floods in wet spells, drought in dry ones</text><rect x='20' y='144' width='280' height='32' fill='#f1e4c6' stroke='#a8792a'/><text x='160' y='164'>Crop loss and water stress</text></g><g stroke='#5d6474' stroke-width='1.5' marker-end='url(#i31m)'><line x1='160' y1='38' x2='160' y2='50'/><line x1='160' y1='84' x2='160' y2='96'/><line x1='160' y1='130' x2='160' y2='142'/></g></svg>"
   },
   {
    "tag": "Coasts",
@@ -36,7 +36,7 @@
   {
    "tag": "Health, economy, security",
    "h": "Wider effects",
-   "b": "<p>Climate change spreads vector-borne diseases, reduces labour hours and worsens food prices. It drives migration from the Sundarbans and drought belts, and stress on shared rivers adds to regional tension.</p><p>The poor, women and small farmers are hit hardest. This is the equity argument India makes abroad.</p>"
+   "b": "<p>Climate change spreads vector-borne diseases, reduces labour hours and worsens food prices. It drives migration from the Sundarbans and drought belts, and stress on shared rivers adds to regional tension.</p><p>The poor, women and small farmers are hit hardest. This is the equity argument India makes abroad.</p><p>The IPCC's sixth assessment (2021 to 2023) flagged South Asia as highly vulnerable. Sea-level rise and cyclones put Mumbai, Kolkata and Chennai at risk, and climate migration adds pressure on cities. Adaptation, insurance and social protection are needed along with emission cuts.</p>"
   },
   {
    "tag": "Debate",
@@ -46,7 +46,7 @@
   {
    "tag": "Indian angle",
    "h": "Policy tools",
-   "b": "<p>The <b>NAPCC</b> (2008) has missions on agriculture, water, Himalaya and habitat. States have <b>State Action Plans</b>. The <b>NDMA</b> handles disasters under the Disaster Management Act 2005. The <b>Coalition for Disaster Resilient Infrastructure</b> (2019) was launched by India.</p><p>The National Adaptation Fund for Climate Change gives limited money. India submitted its updated NDC in 2026 with adaptation themes (see lesson on NDCs).</p>"
+   "b": "<p>The <b>NAPCC</b> (2008) has missions on agriculture, water, Himalaya and habitat. States have <b>State Action Plans</b>. The <b>NDMA</b> handles disasters under the Disaster Management Act 2005. The <b>Coalition for Disaster Resilient Infrastructure</b> (2019) was launched by India.</p><p>The National Adaptation Fund for Climate Change gives limited money. India submitted its updated NDC in 2026 with adaptation themes (see lesson on NDCs).</p><p>Adaptation is funded mostly by state and national budgets. The Disaster Management Act 2005 sets up the NDMA nationally and State Disaster Management Authorities in states, and the National Disaster Response Force handles response. Early cyclone warnings from the IMD have cut deaths sharply, as in Cyclone Phailin in Odisha in 2013.</p>"
   },
   {
    "tag": "Exam lens",
