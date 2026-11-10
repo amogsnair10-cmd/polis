@@ -11,7 +11,7 @@
   {
    "tag": "Core idea",
    "h": "Three pictures of power",
-   "b": "<svg class='d' viewBox='0 0 320 150'>\n<rect x='6' y='6' width='100' height='138' rx='8' fill='#f4dcd5' stroke='#a3362a'/>\n<path d='M56 20 L36 80 L76 80 Z' fill='#a3362a' opacity='.85'/>\n<rect x='22' y='86' width='68' height='24' rx='3' fill='#fff' stroke='#5d6474'/>\n<text x='56' y='123' font-size='10.5' text-anchor='middle' fill='#1d2433' font-weight='700'>Elitist</text>\n<text x='56' y='137' font-size='10' text-anchor='middle' fill='#1d2433'>few rule, many follow</text>\n<rect x='110' y='6' width='100' height='138' rx='8' fill='#dceaec' stroke='#2f6f7a'/>\n<circle cx='135' cy='40' r='13' fill='#fff' stroke='#2f6f7a'/><circle cx='180' cy='40' r='13' fill='#fff' stroke='#2f6f7a'/><circle cx='135' cy='80' r='13' fill='#fff' stroke='#2f6f7a'/><circle cx='180' cy='80' r='13' fill='#fff' stroke='#2f6f7a'/>\n<path d='M148 40 H167 M135 53 V67 M180 53 V67 M148 80 H167' stroke='#2f6f7a' stroke-width='1.5'/>\n<text x='160' y='123' font-size='10.5' text-anchor='middle' fill='#1d2433' font-weight='700'>Pluralist</text>\n<text x='160' y='137' font-size='10' text-anchor='middle' fill='#1d2433'>many groups compete</text>\n<rect x='214' y='6' width='100' height='138' rx='8' fill='#f1e4c6' stroke='#a8792a'/>\n<rect x='226' y='28' width='30' height='24' rx='4' fill='#fff' stroke='#a8792a'/><rect x='272' y='28' width='30' height='24' rx='4' fill='#fff' stroke='#a8792a'/>\n<text x='241' y='44' font-size='10' text-anchor='middle' fill='#1d2433'>Party A</text><text x='287' y='44' font-size='10' text-anchor='middle' fill='#1d2433'>Party B</text>\n<path d='M241 56 L264 78 M287 56 L264 78' stroke='#a8792a' stroke-width='1.5'/>\n<rect x='238' y='78' width='52' height='20' rx='4' fill='#a8792a'/><text x='264' y='92' font-size='10' text-anchor='middle' fill='#fff'>Voters</text>\n<text x='264' y='123' font-size='10.5' text-anchor='middle' fill='#1d2433' font-weight='700'>Schumpeter</text>\n<text x='264' y='137' font-size='10' text-anchor='middle' fill='#1d2433'>elites win votes</text>\n</svg><p>The three schools disagree on how power is spread.</p><ul><li><b>Elitists</b>: in every society, a small minority rules. Democracy changes who is in the elite, not the fact of elite rule.</li><li><b>Pluralists</b>: power is dispersed among many groups. No one group always wins.</li><li><b>Schumpeter</b>: leaders compete for the people's vote, much as firms compete for customers.</li></ul><p>Schumpeter sits between the two. He accepts elite rule but sees voting competition as the democratic part.</p>"
+   "b": "<svg class='d' viewBox='0 0 320 120'><rect x='6' y='6' width='100' height='108' rx='8' fill='#f4dcd5' stroke='#a3362a'/><text x='56' y='44' font-size='14' text-anchor='middle' fill='#1d2433' font-weight='700'>Elitist</text><text x='56' y='72' font-size='12' text-anchor='middle' fill='#1d2433'>Few rule,</text><text x='56' y='90' font-size='12' text-anchor='middle' fill='#1d2433'>many follow</text><rect x='110' y='6' width='100' height='108' rx='8' fill='#dceaec' stroke='#2f6f7a'/><text x='160' y='44' font-size='14' text-anchor='middle' fill='#1d2433' font-weight='700'>Pluralist</text><text x='160' y='72' font-size='12' text-anchor='middle' fill='#1d2433'>Many groups</text><text x='160' y='90' font-size='12' text-anchor='middle' fill='#1d2433'>compete</text><rect x='214' y='6' width='100' height='108' rx='8' fill='#f1e4c6' stroke='#a8792a'/><text x='264' y='44' font-size='14' text-anchor='middle' fill='#1d2433' font-weight='700'>Schumpeter</text><text x='264' y='72' font-size='12' text-anchor='middle' fill='#1d2433'>Leaders compete</text><text x='264' y='90' font-size='12' text-anchor='middle' fill='#1d2433'>for votes</text></svg><p>The three schools disagree on how power is spread.</p><ul><li><b>Elitists</b>: in every society, a small minority rules. Democracy changes who is in the elite, not the fact of elite rule.</li><li><b>Pluralists</b>: power is dispersed among many groups. No one group always wins.</li><li><b>Schumpeter</b>: leaders compete for the people's vote, much as firms compete for customers.</li></ul><p>Schumpeter sits between the two. He accepts elite rule but sees voting competition as the democratic part.</p>"
   },
   {
    "tag": "Thinker",
@@ -21,7 +21,7 @@
   {
    "tag": "Thinker",
    "h": "C. Wright Mills and the power elite",
-   "b": "<p>Elite theory also has a left-wing version. <b>C. Wright Mills</b>, <i>The Power Elite</i> (1956), argued that America was run by a small circle that overlapped across three institutions: big corporations, the military and the executive branch of government. They shared backgrounds and met in the same circles.</p><p>Unlike Pareto, Mills used elite theory to <b>criticise</b> democracy. The public, he said, had become a passive \"mass\", while real decisions were made at the top.</p><p>Note the difference from Marx: for Mills, the elite is based on holding institutional posts, not only on owning capital. It is also a response to Dahl's pluralism.</p>"
+   "b": "<p>Elite theory also has a left-wing version. <b>C. Wright Mills</b>, <i>The Power Elite</i> (1956), argued that America was run by a small circle that overlapped across three institutions: big corporations, the military and the executive branch of government. They shared backgrounds and met in the same circles.</p><p>Unlike Pareto, Mills used elite theory to <b>criticise</b> democracy. The public, he said, had become a passive \"mass\", while real decisions were made at the top.</p><p>Note the difference from Marx: for Mills, the elite is based on holding institutional posts, not only on owning capital. Mills came first: Dahl's pluralism (his critique \"A Critique of the Ruling Elite Model\", 1958, and <i>Who Governs?</i>, 1961) was partly a reply to Mills.</p>"
   },
   {
    "tag": "Thinker",
@@ -112,15 +112,15 @@
    "w": "Published in 1942."
   },
   {
-   "q": "Dahl's study of New Haven appeared in…",
+   "q": "Gaetano Mosca said a ruling minority wins mainly because it is…",
    "o": [
-    "The Governmental Process",
-    "The Semisovereign People",
-    "Who Governs?",
-    "The Power Elite"
+    "Richer than the majority",
+    "Organised, while the many are not",
+    "Chosen by lot",
+    "Backed by foreign powers"
    ],
-   "a": 2,
-   "w": "Who Governs? (1961) found dispersed power."
+   "a": 1,
+   "w": "The Ruling Class (1896): the organised minority beats the unorganised majority."
   },
   {
    "q": "Which is NOT one of Dahl's polyarchy institutions?",
@@ -134,37 +134,37 @@
    "w": "Dahl's list has no requirement for public ownership."
   },
   {
-   "q": "The upper-class accent remark about the pluralist chorus is by…",
+   "q": "Charles Lindblom's Politics and Markets (1977) argued that business holds…",
    "o": [
-    "Dahl",
-    "Schattschneider",
-    "Lindblom",
-    "Truman"
+    "No special influence",
+    "A privileged position, because governments depend on its investment",
+    "Power only through elections",
+    "Power only in socialist states"
    ],
    "a": 1,
-   "w": "The Semisovereign People (1960)."
+   "w": "Lindblom moved away from simple pluralism."
   },
   {
-   "q": "Bachrach and Baratz criticised pluralists for ignoring…",
+   "q": "Rajni Kothari's 'Congress system' (1964) described…",
    "o": [
-    "Voting",
-    "Interest groups",
-    "Non-decision-making that keeps issues off the agenda",
-    "The courts"
+    "A two-party system",
+    "One dominant party working as a bargaining arena of factions",
+    "Military rule",
+    "A coalition of regional parties"
    ],
-   "a": 2,
-   "w": "Their 1962 article on the second face of power."
+   "a": 1,
+   "w": "A pluralist arena inside one party."
   },
   {
-   "q": "Carole Pateman's 1970 book is…",
+   "q": "Which Indian law is often cited as strengthening party leaders' control over legislators?",
    "o": [
-    "Models of Democracy",
-    "Democratic Theory",
-    "Polyarchy",
-    "Participation and Democratic Theory"
+    "The Tenth Schedule (anti-defection law, 1985)",
+    "The RTI Act, 2005",
+    "The 73rd Amendment",
+    "The Representation of the People Act, 1951"
    ],
-   "a": 3,
-   "w": "She criticised the realists and defended participation."
+   "a": 0,
+   "w": "The 52nd Amendment (1985) added the Tenth Schedule."
   }
  ],
  "sources": [
