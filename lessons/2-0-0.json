@@ -59,20 +59,20 @@
   {
    "q": "Arend Lijphart's 1971 article named four methods. Which is NOT among them?",
    "o": [
-    "Experimental",
-    "Statistical",
     "Comparative",
-    "Ethnographic"
+    "Ethnographic",
+    "Experimental",
+    "Statistical"
    ],
-   "a": 3,
+   "a": 1,
    "w": "The four are experimental, statistical, comparative and case study."
   },
   {
    "q": "The 'most similar systems' design is associated with:",
    "o": [
     "Almond and Verba",
-    "Easton and Powell",
     "Huntington and Lipset",
+    "Easton and Powell",
     "Przeworski and Teune"
    ],
    "a": 3,
@@ -81,21 +81,21 @@
   {
    "q": "David Easton's 1969 address was titled:",
    "o": [
+    "Systems Analysis",
     "The Political System",
-    "The New Revolution in Political Science",
     "The Civic Culture",
-    "Systems Analysis"
+    "The New Revolution in Political Science"
    ],
-   "a": 1,
+   "a": 3,
    "w": "It launched the post-behavioural movement."
   },
   {
    "q": "Which concept is NOT part of Almond's input functions?",
    "o": [
     "Rule adjudication",
-    "Interest articulation",
     "Interest aggregation",
-    "Political communication"
+    "Political communication",
+    "Interest articulation"
    ],
    "a": 0,
    "w": "Rule adjudication is an output function."
@@ -103,54 +103,54 @@
   {
    "q": "The Civic Culture (1963) identified which three political cultures?",
    "o": [
-    "Traditional, modern, mixed",
-    "Liberal, social, authoritarian",
     "Elite, mass, civil",
-    "Parochial, subject, participant"
+    "Liberal, social, authoritarian",
+    "Parochial, subject, participant",
+    "Traditional, modern, mixed"
    ],
-   "a": 3,
+   "a": 2,
    "w": "Almond and Verba combined them into the 'civic culture'."
   },
   {
    "q": "Samuel Huntington's Political Order in Changing Societies (1968) argues that:",
    "o": [
+    "Revolutions are rare",
     "Rapid modernisation without institutions causes instability",
-    "Wealth guarantees democracy",
     "Culture decides everything",
-    "Revolutions are rare"
+    "Wealth guarantees democracy"
    ],
-   "a": 0,
+   "a": 1,
    "w": "Political institutionalisation must keep pace with participation."
   },
   {
    "q": "Who wrote Social Origins of Dictatorship and Democracy (1966)?",
    "o": [
-    "Theda Skocpol",
-    "Gabriel Almond",
     "Barrington Moore Jr.",
-    "Mancur Olson"
+    "Mancur Olson",
+    "Theda Skocpol",
+    "Gabriel Almond"
    ],
-   "a": 2,
+   "a": 0,
    "w": "Moore compared routes to the modern world."
   },
   {
    "q": "The three new institutionalisms (Hall and Taylor, 1996) are:",
    "o": [
-    "Historical, rational choice, sociological",
-    "Legal, formal, informal",
     "Marxist, liberal, realist",
-    "Behavioural, systemic, functional"
+    "Behavioural, systemic, functional",
+    "Historical, rational choice, sociological",
+    "Legal, formal, informal"
    ],
-   "a": 0,
+   "a": 2,
    "w": "A standard classification."
   },
   {
    "q": "Lijphart's 'The Puzzle of Indian Democracy' (1996) offers which explanation?",
    "o": [
-    "Strong economic growth",
+    "Single-party dominance",
     "British legacy only",
     "Consociational power-sharing",
-    "Single-party dominance"
+    "Strong economic growth"
    ],
    "a": 2,
    "w": "Power-sharing among groups helps explain democratic survival."
@@ -159,11 +159,11 @@
    "q": "Anthony Downs's An Economic Theory of Democracy (1957) is a work of:",
    "o": [
     "Structural-functionalism",
-    "Rational choice",
     "Marxism",
+    "Rational choice",
     "Political culture"
    ],
-   "a": 1,
+   "a": 2,
    "w": "Parties and voters are modelled as rational maximisers."
   }
  ],

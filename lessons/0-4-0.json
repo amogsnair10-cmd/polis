@@ -60,97 +60,97 @@
    "q": "Bentham's phrase 'nonsense upon stilts' refers to…",
    "o": [
     "Utilitarianism",
-    "Natural rights",
+    "Marxist rights",
     "Legal positivism",
-    "Marxist rights"
+    "Natural rights"
    ],
-   "a": 1,
+   "a": 3,
    "w": "Anarchical Fallacies: natural rights are nonsense upon stilts."
   },
   {
    "q": "Who wrote On the Jewish Question (1844)?",
    "o": [
-    "Hegel",
-    "Bauer",
     "Marx",
+    "Bauer",
+    "Hegel",
     "Proudhon"
    ],
-   "a": 2,
+   "a": 0,
    "w": "Marx criticised bourgeois rights as the rights of egoistic man."
   },
   {
    "q": "Dworkin describes rights as…",
    "o": [
     "Side constraints",
-    "Privileges",
+    "Trumps",
     "Sanctions",
-    "Trumps"
+    "Privileges"
    ],
-   "a": 3,
+   "a": 1,
    "w": "Taking Rights Seriously (1977)."
   },
   {
    "q": "Nozick treats rights as…",
    "o": [
-    "Trumps",
-    "Social conventions",
     "Side constraints on state action",
-    "Means to utility"
+    "Social conventions",
+    "Means to utility",
+    "Trumps"
    ],
-   "a": 2,
+   "a": 0,
    "w": "Anarchy, State, and Utopia (1974)."
   },
   {
    "q": "Hohfeld's four elements of a right are claim, liberty, power and…",
    "o": [
-    "Duty",
-    "Immunity",
+    "Title",
     "Sanction",
-    "Title"
+    "Immunity",
+    "Duty"
    ],
-   "a": 1,
+   "a": 2,
    "w": "Claim, liberty (privilege), power, immunity."
   },
   {
    "q": "The three generations of rights were set out by…",
    "o": [
     "T.H. Marshall",
-    "Henry Shue",
     "Raz",
-    "Karel Vasak"
+    "Karel Vasak",
+    "Henry Shue"
    ],
-   "a": 3,
+   "a": 2,
    "w": "Vasak, in 1977."
   },
   {
    "q": "The Universal Declaration of Human Rights, in Article 29, says…",
    "o": [
-    "Everyone has duties to the community",
     "Property is absolute",
     "Rights are unlimited",
-    "States may deny rights in war"
+    "States may deny rights in war",
+    "Everyone has duties to the community"
    ],
-   "a": 0,
+   "a": 3,
    "w": "Rights come with duties and limits."
   },
   {
    "q": "Property stopped being a fundamental right through the…",
    "o": [
-    "42nd Amendment",
     "25th Amendment",
-    "44th Amendment",
-    "1st Amendment"
+    "1st Amendment",
+    "42nd Amendment",
+    "44th Amendment"
    ],
-   "a": 2,
+   "a": 3,
    "w": "The 44th Amendment (1978) moved it to Article 300A."
   },
   {
    "q": "Article 21A on education was added by the…",
    "o": [
-    "73rd Amendment",
+    "97th Amendment",
     "86th Amendment",
     "93rd Amendment",
-    "97th Amendment"
+    "73rd Amendment"
    ],
    "a": 1,
    "w": "86th Amendment, 2002; RTE Act followed in 2009."
@@ -158,12 +158,12 @@
   {
    "q": "Fundamental Duties (Article 51A) were added following the recommendations of the…",
    "o": [
-    "Swaran Singh Committee",
-    "Sarkaria Commission",
     "Mandal Commission",
-    "Venkatachaliah Commission"
+    "Venkatachaliah Commission",
+    "Swaran Singh Committee",
+    "Sarkaria Commission"
    ],
-   "a": 0,
+   "a": 2,
    "w": "Through the 42nd Amendment, 1976."
   }
  ],

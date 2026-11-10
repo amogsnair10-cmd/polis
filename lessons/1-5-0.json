@@ -59,21 +59,21 @@
   {
    "q": "The Election Commission is created by…",
    "o": [
+    "Article 148",
     "Article 280",
     "Article 324",
-    "Article 148",
     "Article 315"
    ],
-   "a": 1,
+   "a": 2,
    "w": "Article 324."
   },
   {
    "q": "The Election Commission became permanently multi-member in…",
    "o": [
-    "1950",
+    "2023",
     "1989",
     "1993",
-    "2023"
+    "1950"
    ],
    "a": 2,
    "w": "1993."
@@ -81,67 +81,67 @@
   {
    "q": "Anoop Baranwal (2023) proposed an interim panel including…",
    "o": [
-    "The Chief Justice",
-    "The Vice-President",
     "The Speaker",
-    "The CAG"
+    "The CAG",
+    "The Chief Justice",
+    "The Vice-President"
    ],
-   "a": 0,
+   "a": 2,
    "w": "PM, LoP and CJI until Parliament legislated."
   },
   {
    "q": "Under the 2023 Act, the third member of the selection committee is…",
    "o": [
-    "The CJI",
-    "A Union Cabinet minister named by the PM",
     "The Speaker",
-    "The Attorney General"
+    "The Attorney General",
+    "The CJI",
+    "A Union Cabinet minister named by the PM"
    ],
-   "a": 1,
+   "a": 3,
    "w": "A minister, giving the government two of three votes."
   },
   {
    "q": "The CAG's reports go first to…",
    "o": [
-    "Parliament directly",
-    "The President or Governor",
+    "The Supreme Court",
     "The Finance Ministry",
-    "The Supreme Court"
+    "The President or Governor",
+    "Parliament directly"
    ],
-   "a": 1,
+   "a": 2,
    "w": "Article 151."
   },
   {
    "q": "Which CAG report estimated a presumptive loss of ₹1.76 lakh crore?",
    "o": [
+    "Rafale",
     "Coal blocks",
     "2G spectrum",
-    "Commonwealth Games",
-    "Rafale"
+    "Commonwealth Games"
    ],
-   "a": 1,
+   "a": 2,
    "w": "2010."
   },
   {
    "q": "The 16th Finance Commission was chaired by…",
    "o": [
-    "N.K. Singh",
-    "Y.V. Reddy",
     "Arvind Panagariya",
+    "Y.V. Reddy",
+    "N.K. Singh",
     "Vijay Kelkar"
    ],
-   "a": 2,
+   "a": 0,
    "w": "It kept 41%."
   },
   {
    "q": "The 14th Finance Commission raised states' share to…",
    "o": [
-    "32%",
     "41%",
-    "42%",
-    "50%"
+    "32%",
+    "50%",
+    "42%"
    ],
-   "a": 2,
+   "a": 3,
    "w": "42% for 2015-20."
   },
   {
@@ -158,12 +158,12 @@
   {
    "q": "O'Donnell's term for state bodies checking each other is…",
    "o": [
-    "Vertical accountability",
-    "Horizontal accountability",
     "Social accountability",
-    "Judicial review"
+    "Judicial review",
+    "Horizontal accountability",
+    "Vertical accountability"
    ],
-   "a": 1,
+   "a": 2,
    "w": "Horizontal accountability (1998)."
   }
  ],

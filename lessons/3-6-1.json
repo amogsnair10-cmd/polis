@@ -59,32 +59,32 @@
   {
    "q": "The NPT defines nuclear weapon states as those that tested before:",
    "o": [
-    "1 January 1967",
     "1 January 1970",
     "1945",
-    "1974"
+    "1974",
+    "1 January 1967"
    ],
-   "a": 0,
+   "a": 3,
    "w": "Article IX(3)."
   },
   {
    "q": "The CTBT needs ratification by states listed in:",
    "o": [
-    "Annex 2 (44 states)",
     "Article VI",
+    "Article X",
     "Annex 1 (5 states)",
-    "Article X"
+    "Annex 2 (44 states)"
    ],
-   "a": 0,
+   "a": 3,
    "w": "All 44 Annex 2 states must ratify."
   },
   {
    "q": "India joined the MTCR in:",
    "o": [
     "2016",
-    "2008",
+    "2018",
     "2017",
-    "2018"
+    "2008"
    ],
    "a": 0,
    "w": "June 2016."
@@ -92,76 +92,76 @@
   {
    "q": "India joined the Australia Group in:",
    "o": [
+    "2021",
     "January 2018",
-    "June 2016",
     "2005",
-    "2021"
+    "June 2016"
    ],
-   "a": 0,
+   "a": 1,
    "w": "January 2018."
   },
   {
    "q": "The NSG granted India a waiver on:",
    "o": [
-    "6 September 2008",
+    "1 August 2008",
     "10 October 2008",
     "18 July 2005",
-    "1 August 2008"
+    "6 September 2008"
    ],
-   "a": 0,
+   "a": 3,
    "w": "6 September 2008."
   },
   {
    "q": "Which law's supplier-liability clause held back foreign reactor deals?",
    "o": [
-    "Civil Liability for Nuclear Damage Act, 2010",
-    "Atomic Energy Act, 1948",
     "WMD Act, 2005",
+    "Atomic Energy Act, 1948",
+    "Civil Liability for Nuclear Damage Act, 2010",
     "Arms Act, 1959"
    ],
-   "a": 0,
+   "a": 2,
    "w": "Section 17(b) of the 2010 Act."
   },
   {
    "q": "At which NSG plenary did China block India's membership bid?",
    "o": [
-    "Seoul, 2016",
     "Bern, 2017",
+    "Tokyo, 2019",
     "Vienna, 2008",
-    "Tokyo, 2019"
+    "Seoul, 2016"
    ],
-   "a": 0,
+   "a": 3,
    "w": "Seoul, June 2016."
   },
   {
    "q": "India's WMD Act was passed in:",
    "o": [
+    "2010",
     "2005",
     "1998",
-    "2010",
     "2016"
    ],
-   "a": 0,
+   "a": 1,
    "w": "Weapons of Mass Destruction and their Delivery Systems Act, 2005."
   },
   {
    "q": "The Rajiv Gandhi Action Plan (1988) proposed:",
    "o": [
+    "An NSG waiver",
     "Elimination of nuclear weapons in a time-bound manner",
     "India joining the NPT",
-    "Nuclear tests",
-    "An NSG waiver"
+    "Nuclear tests"
    ],
-   "a": 0,
+   "a": 1,
    "w": "Presented at UNSSOD-III."
   },
   {
    "q": "Which treaty of 2017 did India not sign?",
    "o": [
     "TPNW",
-    "MTCR",
+    "Wassenaar",
     "CSC",
-    "Wassenaar"
+    "MTCR"
    ],
    "a": 0,
    "w": "The Treaty on the Prohibition of Nuclear Weapons."

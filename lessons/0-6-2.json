@@ -59,34 +59,34 @@
   {
    "q": "Weber defines the state by its claim to a monopoly of…",
    "o": [
+    "Legitimate physical force within a territory",
     "Wealth",
-    "Law-making",
     "Taxation",
-    "Legitimate physical force within a territory"
+    "Law-making"
    ],
-   "a": 3,
+   "a": 0,
    "w": "Politics as a Vocation (1919)."
   },
   {
    "q": "Which is NOT one of Weber's three types of authority?",
    "o": [
+    "Charismatic",
     "Traditional",
     "Hegemonic",
-    "Charismatic",
     "Legal-rational"
    ],
-   "a": 1,
+   "a": 2,
    "w": "The three are traditional, charismatic and legal-rational."
   },
   {
    "q": "'Routinisation of charisma' refers to…",
    "o": [
-    "Charisma turning into rules or tradition after the leader",
+    "Charisma of institutions",
     "Bureaucracy becoming charismatic",
-    "Routine elections",
-    "Charisma of institutions"
+    "Charisma turning into rules or tradition after the leader",
+    "Routine elections"
    ],
-   "a": 0,
+   "a": 2,
    "w": "A charismatic order must become regular to survive."
   },
   {
@@ -103,19 +103,19 @@
   {
    "q": "Beetham's three levels of legitimacy are legality, justifiability and…",
    "o": [
-    "Efficiency",
     "Tradition",
     "Legitimation (expressed consent)",
-    "Coercion"
+    "Coercion",
+    "Efficiency"
    ],
-   "a": 2,
+   "a": 1,
    "w": "The Legitimation of Power (1991)."
   },
   {
    "q": "Lipset says stable democracy depends on legitimacy and…",
    "o": [
-    "Religion",
     "Size",
+    "Religion",
     "Effectiveness",
     "Federalism"
    ],
@@ -125,10 +125,10 @@
   {
    "q": "Easton's 'diffuse support' means…",
    "o": [
-    "Support for a party",
+    "Support in one election",
     "Goodwill toward the system beyond satisfaction with outputs",
-    "Money donations",
-    "Support in one election"
+    "Support for a party",
+    "Money donations"
    ],
    "a": 1,
    "w": "A reservoir of goodwill; contrasted with specific support."
@@ -136,34 +136,34 @@
   {
    "q": "Legitimation Crisis (1973) is by…",
    "o": [
-    "Arendt",
-    "Habermas",
+    "Offe",
     "Lipset",
-    "Offe"
+    "Arendt",
+    "Habermas"
    ],
-   "a": 1,
+   "a": 3,
    "w": "Habermas on late capitalism."
   },
   {
    "q": "The Allahabad High Court judgment against Indira Gandhi's election came in…",
    "o": [
+    "1980",
     "March 1977",
     "1971",
-    "June 1975",
-    "1980"
+    "June 1975"
    ],
-   "a": 2,
+   "a": 3,
    "w": "12 June 1975; the Emergency was declared on 25 June."
   },
   {
    "q": "The NJAC was struck down by the Supreme Court in…",
    "o": [
     "Kesavananda (1973)",
+    "Fourth Judges Case (2015)",
     "Second Judges Case (1993)",
-    "ADM Jabalpur (1976)",
-    "Fourth Judges Case (2015)"
+    "ADM Jabalpur (1976)"
    ],
-   "a": 3,
+   "a": 1,
    "w": "The 99th Amendment was held to violate judicial independence."
   }
  ],

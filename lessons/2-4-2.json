@@ -59,20 +59,20 @@
   {
    "q": "Lenin's Imperialism, the Highest Stage of Capitalism was written in:",
    "o": [
-    "1902",
     "1916",
     "1929",
-    "1945"
+    "1945",
+    "1902"
    ],
-   "a": 1,
+   "a": 0,
    "w": "Written in 1916 (published 1917). Hobson's Imperialism was 1902."
   },
   {
    "q": "Which thinker wrote Imperialism: A Study (1902) on underconsumption?",
    "o": [
-    "Rosa Luxemburg",
-    "J.A. Hobson",
     "Nikolai Bukharin",
+    "J.A. Hobson",
+    "Rosa Luxemburg",
     "Karl Kautsky"
    ],
    "a": 1,
@@ -81,8 +81,8 @@
   {
    "q": "Karl Kautsky's idea of 'ultra-imperialism' predicted:",
    "o": [
-    "Permanent war among great powers",
     "A socialist world revolution in 1917",
+    "Permanent war among great powers",
     "A peaceful joint rule by great powers",
     "Decolonisation"
    ],
@@ -92,64 +92,64 @@
   {
    "q": "Raul Prebisch and Hans Singer argued that:",
    "o": [
-    "Free trade benefits primary exporters most",
-    "Terms of trade deteriorate for primary exporters",
     "Colonies should export more raw materials",
-    "Import substitution always fails"
+    "Free trade benefits primary exporters most",
+    "Import substitution always fails",
+    "Terms of trade deteriorate for primary exporters"
    ],
-   "a": 1,
+   "a": 3,
    "w": "The Prebisch-Singer thesis says primary prices fall relative to manufactures."
   },
   {
    "q": "'The Development of Underdevelopment' (1966) is by:",
    "o": [
-    "Andre Gunder Frank",
-    "Samir Amin",
     "Immanuel Wallerstein",
-    "Johan Galtung"
+    "Samir Amin",
+    "Johan Galtung",
+    "Andre Gunder Frank"
    ],
-   "a": 0,
+   "a": 3,
    "w": "Frank developed the metropolis-satellite idea."
   },
   {
    "q": "Cardoso and Faletto's 'associated-dependent development' says:",
    "o": [
-    "Growth can occur within dependency",
     "Dependency prevents all growth",
     "The periphery should delink",
+    "Growth can occur within dependency",
     "The semi-periphery does not exist"
    ],
-   "a": 0,
+   "a": 2,
    "w": "Dependent countries can grow, but on terms set by the core."
   },
   {
    "q": "In Wallerstein's model, the semi-periphery:",
    "o": [
-    "Is a colony of the periphery",
-    "Has no industry",
     "Is exploited by the core and exploits the periphery",
-    "Is outside the world-economy"
+    "Is a colony of the periphery",
+    "Is outside the world-economy",
+    "Has no industry"
    ],
-   "a": 2,
+   "a": 0,
    "w": "It acts as a buffer and stabilises the system."
   },
   {
    "q": "Robert Cox's 1981 article contrasts:",
    "o": [
-    "Realism and liberalism",
-    "Hegemony and anarchy",
     "Core and periphery",
-    "Problem-solving and critical theory"
+    "Realism and liberalism",
+    "Problem-solving and critical theory",
+    "Hegemony and anarchy"
    ],
-   "a": 3,
+   "a": 2,
    "w": "Cox said theory is always for someone and for some purpose."
   },
   {
    "q": "Which fact is the strongest empirical challenge to dependency theory?",
    "o": [
-    "The terms-of-trade decline",
     "Colonial drain",
     "Debt crisis in the 1980s",
+    "The terms-of-trade decline",
     "Rise of South Korea and Taiwan"
    ],
    "a": 3,
@@ -158,12 +158,12 @@
   {
    "q": "Dadabhai Naoroji's Poverty and Un-British Rule in India (1901) is associated with:",
    "o": [
-    "Drain of wealth theory",
-    "Doctrine of lapse",
     "Swadeshi movement",
-    "Five-Year Plans"
+    "Five-Year Plans",
+    "Doctrine of lapse",
+    "Drain of wealth theory"
    ],
-   "a": 0,
+   "a": 3,
    "w": "Naoroji's drain theory argued Britain extracted resources from India."
   }
  ],

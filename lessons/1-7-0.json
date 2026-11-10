@@ -21,7 +21,7 @@
   {
    "tag": "Core idea",
    "h": "The planning machinery",
-   "b": "<svg class=\"d\" viewBox=\"0 0 320 120\"><line x1=\"12\" y1=\"60\" x2=\"308\" y2=\"60\" stroke=\"#5d6474\" stroke-width=\"2\"/><g font-size=\"9.5\" fill=\"#1d2433\" text-anchor=\"middle\"><circle cx=\"24\" cy=\"60\" r=\"4\" fill=\"#a8792a\"/><text x=\"24\" y=\"44\">1944</text><text x=\"24\" y=\"78\">Bombay Plan</text><circle cx=\"84\" cy=\"60\" r=\"4\" fill=\"#a8792a\"/><text x=\"84\" y=\"44\">1950</text><text x=\"84\" y=\"78\">Planning Comm.</text><circle cx=\"144\" cy=\"60\" r=\"4\" fill=\"#a8792a\"/><text x=\"144\" y=\"44\">1956</text><text x=\"144\" y=\"78\">2nd Plan, IPR</text><circle cx=\"204\" cy=\"60\" r=\"4\" fill=\"#a8792a\"/><text x=\"204\" y=\"44\">1966-69</text><text x=\"204\" y=\"78\">Plan holiday</text><circle cx=\"264\" cy=\"60\" r=\"4\" fill=\"#a8792a\"/><text x=\"264\" y=\"44\">1991</text><text x=\"264\" y=\"78\">Reforms</text><circle cx=\"300\" cy=\"60\" r=\"4\" fill=\"#2f6f7a\"/><text x=\"292\" y=\"100\">2015 NITI Aayog</text></g></svg><ul><li><b>Pre-1947 plans:</b> the Bombay Plan (1944, industrialists), the Gandhian Plan (1944), the People's Plan (M.N. Roy, 1944) and the Sarvodaya Plan (J.P. Narayan, 1950).</li><li><b>Planning Commission</b> set up on 15 March 1950 by a Cabinet resolution, with the PM as chair. It was extra-constitutional. The <b>National Development Council</b> (1952) brought in Chief Ministers.</li><li><b>Industrial Policy Resolutions</b> of 1948 and 1956: reserved key sectors for the State.</li><li><b>First Plan</b> (1951-56): agriculture. <b>Second Plan</b> (1956-61): the <b>Mahalanobis model</b>, with priority to heavy industry.</li><li>Twelve Five-Year Plans in all (1951-2017). The Planning Commission was replaced by <b>NITI Aayog</b> on 1 January 2015.</li></ul>"
+   "b": "<svg class=\"d\" viewBox=\"0 0 320 120\"><line x1=\"12\" y1=\"60\" x2=\"308\" y2=\"60\" stroke=\"#5d6474\" stroke-width=\"2\"/><g font-size=\"10\" fill=\"#1d2433\" text-anchor=\"middle\"><circle cx=\"24\" cy=\"60\" r=\"4\" fill=\"#a8792a\"/><text x=\"24\" y=\"44\">1944</text><text x=\"24\" y=\"78\">Bombay Plan</text><circle cx=\"84\" cy=\"60\" r=\"4\" fill=\"#a8792a\"/><text x=\"84\" y=\"44\">1950</text><text x=\"84\" y=\"78\">Planning Comm.</text><circle cx=\"144\" cy=\"60\" r=\"4\" fill=\"#a8792a\"/><text x=\"144\" y=\"44\">1956</text><text x=\"144\" y=\"78\">2nd Plan, IPR</text><circle cx=\"204\" cy=\"60\" r=\"4\" fill=\"#a8792a\"/><text x=\"204\" y=\"44\">1966-69</text><text x=\"204\" y=\"78\">Plan holiday</text><circle cx=\"264\" cy=\"60\" r=\"4\" fill=\"#a8792a\"/><text x=\"264\" y=\"44\">1991</text><text x=\"264\" y=\"78\">Reforms</text><circle cx=\"300\" cy=\"60\" r=\"4\" fill=\"#2f6f7a\"/><text x=\"292\" y=\"100\">2015 NITI Aayog</text></g></svg><ul><li><b>Pre-1947 plans:</b> the Bombay Plan (1944, industrialists), the Gandhian Plan (1944), the People's Plan (M.N. Roy, 1944) and the Sarvodaya Plan (J.P. Narayan, 1950).</li><li><b>Planning Commission</b> set up on 15 March 1950 by a Cabinet resolution, with the PM as chair. It was extra-constitutional. The <b>National Development Council</b> (1952) brought in Chief Ministers.</li><li><b>Industrial Policy Resolutions</b> of 1948 and 1956: reserved key sectors for the State.</li><li><b>First Plan</b> (1951-56): agriculture. <b>Second Plan</b> (1956-61): the <b>Mahalanobis model</b>, with priority to heavy industry.</li><li>Twelve Five-Year Plans in all (1951-2017). The Planning Commission was replaced by <b>NITI Aayog</b> on 1 January 2015.</li></ul>"
   },
   {
    "tag": "Key idea",
@@ -54,45 +54,45 @@
   {
    "q": "The Planning Commission was set up on…",
    "o": [
-    "15 August 1947",
-    "15 March 1950",
+    "1 April 1951",
     "26 January 1950",
-    "1 April 1951"
+    "15 August 1947",
+    "15 March 1950"
    ],
-   "a": 1,
+   "a": 3,
    "w": "By a Cabinet resolution."
   },
   {
    "q": "The Second Plan was based on the model of…",
    "o": [
     "Harrod-Domar",
+    "Rostow",
     "Mahalanobis",
-    "Lewis",
-    "Rostow"
+    "Lewis"
    ],
-   "a": 1,
+   "a": 2,
    "w": "Mahalanobis, with heavy industry first."
   },
   {
    "q": "The 'socialistic pattern of society' was adopted at…",
    "o": [
-    "Karachi 1931",
-    "Avadi 1955",
     "Lahore 1929",
-    "Bhubaneswar 1964"
+    "Bhubaneswar 1964",
+    "Karachi 1931",
+    "Avadi 1955"
    ],
-   "a": 1,
+   "a": 3,
    "w": "Avadi session of Congress, 1955."
   },
   {
    "q": "Who wrote Economy of Permanence?",
    "o": [
-    "J.C. Kumarappa",
     "S.N. Agarwal",
-    "M.N. Roy",
-    "J.P. Narayan"
+    "J.P. Narayan",
+    "J.C. Kumarappa",
+    "M.N. Roy"
    ],
-   "a": 0,
+   "a": 2,
    "w": "1945."
   },
   {
@@ -100,8 +100,8 @@
    "o": [
     "Raj Krishna",
     "Amartya Sen",
-    "Jagdish Bhagwati",
-    "K.N. Raj"
+    "K.N. Raj",
+    "Jagdish Bhagwati"
    ],
    "a": 0,
    "w": "About 3.5% a year."
@@ -109,56 +109,56 @@
   {
    "q": "Bardhan's 'dominant proprietary classes' include…",
    "o": [
-    "Workers, peasants and soldiers",
     "Industrialists, rich farmers and professionals",
+    "Traders, artisans and labourers",
     "Landlords, priests and kings",
-    "Traders, artisans and labourers"
+    "Workers, peasants and soldiers"
    ],
-   "a": 1,
+   "a": 0,
    "w": "The Political Economy of Development in India (1984)."
   },
   {
    "q": "'Command polity' and 'demand polity' are terms of…",
    "o": [
-    "Rudolph and Rudolph",
     "Bardhan",
     "Kohli",
+    "Rudolph and Rudolph",
     "Frankel"
    ],
-   "a": 0,
+   "a": 2,
    "w": "In Pursuit of Lakshmi (1987)."
   },
   {
    "q": "NITI Aayog replaced the Planning Commission on…",
    "o": [
-    "1 January 2015",
-    "15 August 2014",
     "1 April 2017",
-    "26 January 2015"
+    "26 January 2015",
+    "15 August 2014",
+    "1 January 2015"
    ],
-   "a": 0,
+   "a": 3,
    "w": "1 January 2015."
   },
   {
    "q": "The Bombay Plan (1944) was prepared by…",
    "o": [
-    "Socialists",
-    "Industrialists",
+    "The British government",
     "Gandhians",
-    "The British government"
+    "Socialists",
+    "Industrialists"
    ],
-   "a": 1,
+   "a": 3,
    "w": "Leading industrialists."
   },
   {
    "q": "Who founded the Swatantra Party, a critic of the licence raj?",
    "o": [
-    "C. Rajagopalachari",
     "Ram Manohar Lohia",
+    "Charan Singh",
     "Minoo Masani alone",
-    "Charan Singh"
+    "C. Rajagopalachari"
    ],
-   "a": 0,
+   "a": 3,
    "w": "1959."
   }
  ],

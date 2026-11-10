@@ -69,21 +69,21 @@
   {
    "q": "For Plato, justice in the state means…",
    "o": [
+    "Rule by those who own the most land",
     "Equal shares of property for all",
-    "Each class doing its own work without meddling",
     "Obedience to the law made by the majority",
-    "Rule by those who own the most land"
+    "Each class doing its own work without meddling"
    ],
-   "a": 1,
+   "a": 3,
    "w": "Plato's justice is harmony: each class does the job it is best suited for."
   },
   {
    "q": "Plato's communism of property applied to…",
    "o": [
     "All citizens",
-    "Only the producers",
+    "Only slaves and foreigners",
     "Only the guardian classes",
-    "Only slaves and foreigners"
+    "Only the producers"
    ],
    "a": 2,
    "w": "Only rulers and auxiliaries gave up property and family. Producers kept both."
@@ -91,41 +91,41 @@
   {
    "q": "Which work has Plato propose a mixed constitution under the rule of law?",
    "o": [
-    "The Republic",
     "The Laws",
+    "The Symposium",
     "The Apology",
-    "The Symposium"
+    "The Republic"
    ],
-   "a": 1,
+   "a": 0,
    "w": "In the Laws, his last work, Plato settles for a second-best state under law."
   },
   {
    "q": "Who called Plato an enemy of the open society?",
    "o": [
-    "Ernest Barker",
     "Karl Popper",
+    "Julia Annas",
     "Leo Strauss",
-    "Julia Annas"
+    "Ernest Barker"
    ],
-   "a": 1,
+   "a": 0,
    "w": "Karl Popper, The Open Society and Its Enemies (1945)."
   },
   {
    "q": "The virtue Plato assigns to the auxiliaries is…",
    "o": [
+    "Piety",
     "Wisdom",
-    "Courage",
     "Moderation",
-    "Piety"
+    "Courage"
    ],
-   "a": 1,
+   "a": 3,
    "w": "Rulers have wisdom, auxiliaries courage, and moderation is shared by all."
   },
   {
    "q": "In Republic Book VIII, the constitution that decays directly into tyranny is…",
    "o": [
-    "Oligarchy",
     "Timocracy",
+    "Oligarchy",
     "Democracy",
     "Aristocracy"
    ],
@@ -146,34 +146,34 @@
   {
    "q": "The allegory of the cave mainly illustrates…",
    "o": [
+    "The duties of soldiers",
     "The origin of the state",
-    "The difference between opinion and true knowledge",
     "Why property corrupts",
-    "The duties of soldiers"
+    "The difference between opinion and true knowledge"
    ],
-   "a": 1,
+   "a": 3,
    "w": "Prisoners mistake shadows for reality; the philosopher sees the truth."
   },
   {
    "q": "Who argued that Plato wanted women as guardians for the state's efficiency, not for women's rights?",
    "o": [
     "Susan Moller Okin",
-    "Julia Annas",
     "Carole Pateman",
-    "Martha Nussbaum"
+    "Martha Nussbaum",
+    "Julia Annas"
    ],
-   "a": 1,
+   "a": 3,
    "w": "Julia Annas, 'Plato's Republic and Feminism' (1976)."
   },
   {
    "q": "Timocracy, in Plato's scheme, is rule by…",
    "o": [
-    "The wise",
-    "The honour-loving",
     "The rich",
-    "The poor"
+    "The poor",
+    "The honour-loving",
+    "The wise"
    ],
-   "a": 1,
+   "a": 2,
    "w": "Timocracy is driven by honour, like Sparta."
   }
  ],

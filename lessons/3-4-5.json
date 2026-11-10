@@ -59,23 +59,23 @@
   {
    "q": "Abe's August 2007 speech to the Indian Parliament was titled:",
    "o": [
+    "Asia's Century",
     "Free and Open Indo-Pacific",
-    "Confluence of the Two Seas",
     "Arc of Freedom and Prosperity",
-    "Asia's Century"
+    "Confluence of the Two Seas"
    ],
-   "a": 1,
+   "a": 3,
    "w": "He borrowed 'Confluence of the Two Seas' from Dara Shikoh's work."
   },
   {
    "q": "The Free and Open Indo-Pacific (FOIP) strategy was announced by Japan in:",
    "o": [
-    "2007",
-    "2012",
     "2016",
+    "2012",
+    "2007",
     "2020"
    ],
-   "a": 2,
+   "a": 0,
    "w": "At TICAD VI in Nairobi, 2016."
   },
   {
@@ -92,43 +92,43 @@
   {
    "q": "India–Japan 'Special Strategic and Global Partnership' was declared in:",
    "o": [
+    "2019",
     "2000",
     "2006",
-    "2014",
-    "2019"
+    "2014"
    ],
-   "a": 2,
+   "a": 3,
    "w": "During Modi's visit to Tokyo and Abe's visit to Delhi around 2014."
   },
   {
    "q": "Which Indian judge dissented at the Tokyo war crimes tribunal?",
    "o": [
-    "Radhabinod Pal",
-    "B.R. Ambedkar",
     "Rajendra Prasad",
-    "K.M. Panikkar"
+    "K.M. Panikkar",
+    "Radhabinod Pal",
+    "B.R. Ambedkar"
    ],
-   "a": 0,
+   "a": 2,
    "w": "Justice Radhabinod Pal."
   },
   {
    "q": "The Mumbai–Ahmedabad high speed rail is mainly funded by a loan from:",
    "o": [
-    "World Bank",
     "ADB",
-    "JICA",
-    "AIIB"
+    "AIIB",
+    "World Bank",
+    "JICA"
    ],
-   "a": 2,
+   "a": 3,
    "w": "The Japan International Cooperation Agency (JICA) provides most of the funding."
   },
   {
    "q": "The G4 grouping consists of India, Japan, Brazil and:",
    "o": [
     "Germany",
+    "South Africa",
     "France",
-    "Nigeria",
-    "South Africa"
+    "Nigeria"
    ],
    "a": 0,
    "w": "Germany, Brazil, India and Japan seek permanent UNSC seats."
@@ -136,23 +136,23 @@
   {
    "q": "The India-Japan CEPA came into force in:",
    "o": [
-    "2006",
     "2011",
-    "2016",
-    "2021"
+    "2006",
+    "2021",
+    "2016"
    ],
-   "a": 1,
+   "a": 0,
    "w": "CEPA took effect in August 2011."
   },
   {
    "q": "Which exercise features the Indian and Japanese navies bilaterally?",
    "o": [
-    "JIMEX",
-    "Yudh Abhyas",
+    "Cope India",
     "Garuda",
-    "Cope India"
+    "Yudh Abhyas",
+    "JIMEX"
    ],
-   "a": 0,
+   "a": 3,
    "w": "JIMEX is the India-Japan Maritime Exercise."
   },
   {
@@ -160,8 +160,8 @@
    "o": [
     "$5 billion",
     "$23 billion",
-    "$80 billion",
-    "$150 billion"
+    "$150 billion",
+    "$80 billion"
    ],
    "a": 1,
    "w": "Around $23 billion in recent years, small relative to potential."

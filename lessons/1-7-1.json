@@ -60,9 +60,9 @@
    "q": "The Ninth Schedule was added by the…",
    "o": [
     "First Amendment",
-    "Fourth Amendment",
+    "42nd Amendment",
     "24th Amendment",
-    "42nd Amendment"
+    "Fourth Amendment"
    ],
    "a": 0,
    "w": "1951, to protect land reform laws."
@@ -81,21 +81,21 @@
   {
    "q": "Who was Agriculture Minister when the Green Revolution began?",
    "o": [
-    "C. Subramaniam",
     "Jagjivan Ram",
     "Charan Singh",
+    "C. Subramaniam",
     "Morarji Desai"
    ],
-   "a": 0,
+   "a": 2,
    "w": "Mid-1960s."
   },
   {
    "q": "The HYV wheat varieties came from the work of…",
    "o": [
     "Norman Borlaug",
-    "Raj Krishna",
     "Verghese Kurien",
-    "Amartya Sen"
+    "Amartya Sen",
+    "Raj Krishna"
    ],
    "a": 0,
    "w": "Developed in Mexico."
@@ -105,8 +105,8 @@
    "o": [
     "The Rudolphs",
     "Frankel",
-    "Bardhan",
-    "Kohli"
+    "Kohli",
+    "Bardhan"
    ],
    "a": 0,
    "w": "In Pursuit of Lakshmi (1987)."
@@ -115,9 +115,9 @@
    "q": "Who wrote The Violence of the Green Revolution?",
    "o": [
     "Vandana Shiva",
+    "Bina Agarwal",
     "Medha Patkar",
-    "Ramachandra Guha",
-    "Bina Agarwal"
+    "Ramachandra Guha"
    ],
    "a": 0,
    "w": "1991."
@@ -125,42 +125,42 @@
   {
    "q": "Frankel's 1971 book predicted…",
    "o": [
+    "End of MSP",
     "Social tensions from uneven gains",
     "Collapse of grain output",
-    "End of MSP",
     "Mass migration abroad"
    ],
-   "a": 0,
+   "a": 1,
    "w": "India's Green Revolution: Economic Gains and Political Costs."
   },
   {
    "q": "The National Commission on Farmers was chaired by…",
    "o": [
-    "M.S. Swaminathan",
-    "Ashok Gulati",
     "Y.K. Alagh",
-    "Raj Krishna"
+    "Ashok Gulati",
+    "Raj Krishna",
+    "M.S. Swaminathan"
    ],
-   "a": 0,
+   "a": 3,
    "w": "2004-06."
   },
   {
    "q": "Land reform falls under…",
    "o": [
     "Union List",
-    "State List",
     "Concurrent List",
-    "Residuary powers"
+    "Residuary powers",
+    "State List"
    ],
-   "a": 1,
+   "a": 3,
    "w": "Hence variation by state."
   },
   {
    "q": "Kerala's land reform that ended tenancy was the…",
    "o": [
-    "1950 Act",
-    "1969 Amendment Act",
     "1978 Act",
+    "1969 Amendment Act",
+    "1950 Act",
     "1985 Act"
    ],
    "a": 1,

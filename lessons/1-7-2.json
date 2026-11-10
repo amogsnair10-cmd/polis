@@ -54,65 +54,65 @@
   {
    "q": "Who was Finance Minister in 1991?",
    "o": [
-    "P. Chidambaram",
     "Manmohan Singh",
     "Yashwant Sinha",
+    "P. Chidambaram",
     "Pranab Mukherjee"
    ],
-   "a": 1,
+   "a": 0,
    "w": "Under PM P.V. Narasimha Rao."
   },
   {
    "q": "The New Industrial Policy was announced on…",
    "o": [
-    "24 July 1991",
+    "1 January 1995",
     "1 April 1991",
-    "15 August 1991",
-    "1 January 1995"
+    "24 July 1991",
+    "15 August 1991"
    ],
-   "a": 0,
+   "a": 2,
    "w": "With the budget."
   },
   {
    "q": "'Reform by stealth' is associated with…",
    "o": [
-    "Rob Jenkins",
-    "Atul Kohli",
     "Pranab Bardhan",
-    "Jagdish Bhagwati"
+    "Jagdish Bhagwati",
+    "Atul Kohli",
+    "Rob Jenkins"
    ],
-   "a": 0,
+   "a": 3,
    "w": "Democratic Politics and Economic Reform in India (1999)."
   },
   {
    "q": "Varshney distinguished reforms in…",
    "o": [
-    "Elite politics and mass politics",
     "Centre and states",
-    "Industry and services",
-    "Public and private sectors"
+    "Public and private sectors",
+    "Elite politics and mass politics",
+    "Industry and services"
    ],
-   "a": 0,
+   "a": 2,
    "w": "Mass politics reforms are harder."
   },
   {
    "q": "Kohli calls the post-1980 Indian state…",
    "o": [
     "Pro-poor",
+    "Laissez-faire",
     "Pro-business",
-    "Socialist",
-    "Laissez-faire"
+    "Socialist"
    ],
-   "a": 1,
+   "a": 2,
    "w": "Poverty Amid Plenty (2012)."
   },
   {
    "q": "Who wrote An Uncertain Glory (2013)?",
    "o": [
     "Drèze and Sen",
+    "Rudolphs",
     "Bhagwati and Panagariya",
-    "Jenkins",
-    "Rudolphs"
+    "Jenkins"
    ],
    "a": 0,
    "w": "Stresses health and education."
@@ -120,12 +120,12 @@
   {
    "q": "India joined the WTO in…",
    "o": [
-    "1991",
-    "1995",
     "2001",
-    "1948"
+    "1948",
+    "1991",
+    "1995"
    ],
-   "a": 1,
+   "a": 3,
    "w": "1995 as a founder member; earlier GATT."
   },
   {
@@ -142,23 +142,23 @@
   {
    "q": "The IBC was enacted in…",
    "o": [
+    "2020",
     "2014",
     "2016",
-    "2017",
-    "2020"
+    "2017"
    ],
-   "a": 1,
+   "a": 2,
    "w": "Insolvency and Bankruptcy Code, 2016."
   },
   {
    "q": "GST 2.0 rates took effect from…",
    "o": [
-    "1 July 2017",
-    "22 September 2025",
     "1 April 2026",
-    "1 January 2025"
+    "1 January 2025",
+    "1 July 2017",
+    "22 September 2025"
    ],
-   "a": 1,
+   "a": 3,
    "w": "Two main slabs, 5% and 18%."
   }
  ],

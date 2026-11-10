@@ -60,9 +60,9 @@
    "q": "Judges of the Supreme Court are removed under…",
    "o": [
     "Article 124(4)",
-    "Article 129",
     "Article 142",
-    "Article 217"
+    "Article 217",
+    "Article 129"
    ],
    "a": 0,
    "w": "Impeachment-style removal by Parliament."
@@ -70,43 +70,43 @@
   {
    "q": "The Supreme Court's present sanctioned strength is…",
    "o": [
-    "25",
-    "31",
     "34",
-    "40"
+    "40",
+    "31",
+    "25"
    ],
-   "a": 2,
+   "a": 0,
    "w": "The Chief Justice and 33 other judges."
   },
   {
    "q": "Disputes between states fall under which jurisdiction?",
    "o": [
     "Article 32",
-    "Article 131",
     "Article 136",
-    "Article 143"
+    "Article 143",
+    "Article 131"
    ],
-   "a": 1,
+   "a": 3,
    "w": "Original jurisdiction."
   },
   {
    "q": "A curative petition was recognised in…",
    "o": [
-    "Rupa Ashok Hurra (2002)",
-    "S.P. Gupta (1981)",
     "Vishaka (1997)",
-    "Bommai (1994)"
+    "Rupa Ashok Hurra (2002)",
+    "Bommai (1994)",
+    "S.P. Gupta (1981)"
    ],
-   "a": 0,
+   "a": 1,
    "w": "Rupa Ashok Hurra v. Ashok Hurra."
   },
   {
    "q": "Which case set up the collegium system?",
    "o": [
-    "First Judges Case",
-    "Second Judges Case",
     "Third Judges Case",
-    "Fourth Judges Case"
+    "Second Judges Case",
+    "Fourth Judges Case",
+    "First Judges Case"
    ],
    "a": 1,
    "w": "Second Judges Case (1993)."
@@ -114,56 +114,56 @@
   {
    "q": "The Legislative Council exists in how many states?",
    "o": [
-    "4",
     "6",
-    "8",
-    "10"
+    "10",
+    "4",
+    "8"
    ],
-   "a": 1,
+   "a": 0,
    "w": "Andhra Pradesh, Telangana, Karnataka, Maharashtra, Bihar, Uttar Pradesh."
   },
   {
    "q": "The High Court's writ power is under…",
    "o": [
-    "Article 32",
-    "Article 226",
     "Article 227",
-    "Article 215"
+    "Article 215",
+    "Article 226",
+    "Article 32"
    ],
-   "a": 1,
+   "a": 2,
    "w": "Article 226."
   },
   {
    "q": "In Subhash Desai (2023), the Court…",
    "o": [
-    "Restored the Uddhav Thackeray government",
     "Found the Governor's floor test call unjustified but did not restore the government",
+    "Dismissed the petition",
     "Approved the Governor's action",
-    "Dismissed the petition"
+    "Restored the Uddhav Thackeray government"
    ],
-   "a": 1,
+   "a": 0,
    "w": "The Chief Minister had resigned before a floor test."
   },
   {
    "q": "Mineral Area Development Authority v. SAIL (2024) held that…",
    "o": [
-    "Royalty is a tax",
-    "States can tax mineral rights",
+    "Mining is a Concurrent subject",
     "Only the Centre can tax minerals",
-    "Mining is a Concurrent subject"
+    "Royalty is a tax",
+    "States can tax mineral rights"
    ],
-   "a": 1,
+   "a": 3,
    "w": "By an 8:1 majority."
   },
   {
    "q": "The Punchhi Commission advised that a Governor be removed by…",
    "o": [
     "The President on advice of the Centre",
-    "A resolution of the state legislature",
+    "The Prime Minister",
     "The Chief Justice",
-    "The Prime Minister"
+    "A resolution of the state legislature"
    ],
-   "a": 1,
+   "a": 3,
    "w": "It also suggested a fixed five-year term."
   }
  ],

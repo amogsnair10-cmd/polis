@@ -64,32 +64,32 @@
   {
    "q": "The UN Charter came into force on:",
    "o": [
-    "26 June 1945",
-    "1 January 1942",
+    "24 October 1945",
     "10 December 1948",
-    "24 October 1945"
+    "26 June 1945",
+    "1 January 1942"
    ],
-   "a": 3,
+   "a": 0,
    "w": "Now celebrated as UN Day."
   },
   {
    "q": "Article 2(4) of the Charter prohibits:",
    "o": [
-    "Interference in domestic matters",
+    "Economic sanctions",
     "Collective self-defence",
-    "The threat or use of force against states",
-    "Economic sanctions"
+    "Interference in domestic matters",
+    "The threat or use of force against states"
    ],
-   "a": 2,
+   "a": 3,
    "w": "Article 2(7) covers domestic jurisdiction."
   },
   {
    "q": "The Security Council was enlarged from 11 to 15 members in:",
    "o": [
     "1965",
+    "1993",
     "1950",
-    "1971",
-    "1993"
+    "1971"
    ],
    "a": 0,
    "w": "By an amendment that came into force in 1965."
@@ -97,43 +97,43 @@
   {
    "q": "Which Charter article allows the Secretary-General to bring a threat to the Council's attention?",
    "o": [
-    "Article 99",
-    "Article 51",
     "Article 97",
+    "Article 51",
+    "Article 99",
     "Article 108"
    ],
-   "a": 0,
+   "a": 2,
    "w": "Guterres invoked it on Gaza in December 2023."
   },
   {
    "q": "Since 2022, a General Assembly debate must be held whenever:",
    "o": [
+    "The budget is passed",
     "A new member joins",
-    "A veto is cast in the Security Council",
     "Peacekeeping is authorised",
-    "The budget is passed"
+    "A veto is cast in the Security Council"
    ],
-   "a": 1,
+   "a": 3,
    "w": "UNGA resolution 76/262."
   },
   {
    "q": "The Trusteeship Council suspended operations after the independence of:",
    "o": [
-    "Namibia",
-    "Palau",
     "Timor-Leste",
-    "Papua New Guinea"
+    "Namibia",
+    "Papua New Guinea",
+    "Palau"
    ],
-   "a": 1,
+   "a": 3,
    "w": "Palau, the last trust territory, became independent in 1994."
   },
   {
    "q": "UN peacekeepers won the Nobel Peace Prize in:",
    "o": [
-    "1961",
+    "2020",
     "1988",
-    "2001",
-    "2020"
+    "1961",
+    "2001"
    ],
    "a": 1,
    "w": "The 2020 prize went to the WFP; Kofi Annan and the UN won in 2001."
@@ -141,32 +141,32 @@
   {
    "q": "Who was the first woman President of the UN General Assembly?",
    "o": [
-    "Hansa Mehta",
-    "Indira Gandhi",
     "Sarojini Naidu",
-    "Vijaya Lakshmi Pandit"
+    "Vijaya Lakshmi Pandit",
+    "Hansa Mehta",
+    "Indira Gandhi"
    ],
-   "a": 3,
+   "a": 1,
    "w": "In 1953."
   },
   {
    "q": "Boutros Boutros-Ghali's 1992 report was titled:",
    "o": [
-    "An Agenda for Peace",
-    "In Larger Freedom",
+    "The Brahimi Report",
     "Our Common Agenda",
-    "The Brahimi Report"
+    "In Larger Freedom",
+    "An Agenda for Peace"
    ],
-   "a": 0,
+   "a": 3,
    "w": "It set out preventive diplomacy, peacemaking, peacekeeping and peacebuilding."
   },
   {
    "q": "The UN80 Initiative was launched in:",
    "o": [
-    "October 2020",
     "September 2024",
+    "January 2026",
     "March 2025",
-    "January 2026"
+    "October 2020"
    ],
    "a": 2,
    "w": "To cut costs, review mandates and restructure."

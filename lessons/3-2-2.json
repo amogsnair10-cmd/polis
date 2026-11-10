@@ -59,20 +59,20 @@
   {
    "q": "The Ganga Water Treaty between India and Bangladesh was signed in:",
    "o": [
+    "1996",
     "1974",
     "1985",
-    "1996",
     "2015"
    ],
-   "a": 2,
+   "a": 0,
    "w": "12 December 1996; valid for 30 years."
   },
   {
    "q": "The 2015 Land Boundary Agreement was given effect by which Constitution Amendment?",
    "o": [
-    "95th",
-    "100th",
     "101st",
+    "100th",
+    "95th",
     "105th"
    ],
    "a": 1,
@@ -83,73 +83,73 @@
    "o": [
     "August 2024",
     "December 2025",
-    "February 2026",
-    "June 2026"
+    "June 2026",
+    "February 2026"
    ],
-   "a": 2,
+   "a": 3,
    "w": "Sworn in on 17 February 2026 after the BNP won the 12 February election."
   },
   {
    "q": "The India–Nepal Treaty of Peace and Friendship was signed in:",
    "o": [
-    "1947",
-    "1950",
+    "1972",
     "1965",
-    "1972"
+    "1947",
+    "1950"
    ],
-   "a": 1,
+   "a": 3,
    "w": "31 July 1950."
   },
   {
    "q": "Which three places are at the heart of the India–Nepal boundary dispute?",
    "o": [
-    "Kalapani, Lipulekh, Limpiyadhura",
     "Doklam, Siliguri, Gelephu",
-    "Sir Creek, Tulbul, Siachen",
-    "Tawang, Bum La, Nathu La"
+    "Kalapani, Lipulekh, Limpiyadhura",
+    "Tawang, Bum La, Nathu La",
+    "Sir Creek, Tulbul, Siachen"
    ],
-   "a": 0,
+   "a": 1,
    "w": "Nepal claims Kalapani, Lipulekh and Limpiyadhura; its 2020 map included them."
   },
   {
    "q": "Nepal's youngest Prime Minister, elected in 2026, is:",
    "o": [
-    "Balendra Shah",
+    "Pushpa Kamal Dahal",
     "Sushila Karki",
-    "K.P. Oli",
-    "Pushpa Kamal Dahal"
+    "Balendra Shah",
+    "K.P. Oli"
    ],
-   "a": 0,
+   "a": 2,
    "w": "Balendra Shah of the RSP, aged 35, took office on 27 March 2026."
   },
   {
    "q": "The revised India–Bhutan Friendship Treaty dates from:",
    "o": [
-    "1949",
+    "2017",
     "1971",
-    "2007",
-    "2017"
+    "1949",
+    "2007"
    ],
-   "a": 2,
+   "a": 3,
    "w": "The 2007 version dropped the clause on being 'guided' by India."
   },
   {
    "q": "Doklam, the site of the 2017 standoff, lies near:",
    "o": [
-    "The Siliguri Corridor and the Bhutan-China-India tri-junction",
     "Kargil",
+    "The Siliguri Corridor and the Bhutan-China-India tri-junction",
     "Tawang",
     "Kanyakumari"
    ],
-   "a": 0,
+   "a": 1,
    "w": "It lies at the tri-junction, close to the Siliguri Corridor."
   },
   {
    "q": "Which river-sharing issue is a major irritant with Bangladesh and stalled over West Bengal's objection?",
    "o": [
     "Teesta",
-    "Kosi",
     "Brahmaputra",
+    "Kosi",
     "Sutlej"
    ],
    "a": 0,
@@ -159,11 +159,11 @@
    "q": "The Motihari–Amlekhgunj pipeline was notable as:",
    "o": [
     "Asia's longest oil pipeline",
-    "South Asia's first cross-border petroleum pipeline",
     "India's first gas pipeline to Pakistan",
+    "South Asia's first cross-border petroleum pipeline",
     "A Bhutan hydropower line"
    ],
-   "a": 1,
+   "a": 2,
    "w": "It was commissioned in 2019 between India and Nepal."
   }
  ],

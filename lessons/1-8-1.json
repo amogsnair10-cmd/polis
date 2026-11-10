@@ -65,9 +65,9 @@
    "q": "The word 'secular' entered the Preamble through the…",
    "o": [
     "42nd Amendment",
+    "73rd Amendment",
     "44th Amendment",
-    "52nd Amendment",
-    "73rd Amendment"
+    "52nd Amendment"
    ],
    "a": 0,
    "w": "42nd Amendment, 1976."
@@ -76,9 +76,9 @@
    "q": "'Principled distance' is the phrase of…",
    "o": [
     "Rajeev Bhargava",
-    "T.N. Madan",
+    "Bipan Chandra",
     "Ashis Nandy",
-    "Bipan Chandra"
+    "T.N. Madan"
    ],
    "a": 0,
    "w": "Bhargava's account of Indian secularism."
@@ -86,43 +86,43 @@
   {
    "q": "Which case held secularism to be part of the basic structure?",
    "o": [
-    "S.R. Bommai",
     "Shah Bano",
-    "Kihoto Hollohan",
-    "Minerva Mills"
+    "S.R. Bommai",
+    "Minerva Mills",
+    "Kihoto Hollohan"
    ],
-   "a": 0,
+   "a": 1,
    "w": "S.R. Bommai v. Union of India (1994)."
   },
   {
    "q": "Varshney's study of riots stresses…",
    "o": [
     "Police strength",
-    "Inter-communal associational networks",
     "Economic growth",
+    "Inter-communal associational networks",
     "Language"
    ],
-   "a": 1,
+   "a": 2,
    "w": "Ethnic Conflict and Civic Life (2002)."
   },
   {
    "q": "Who wrote Communalism in Modern India (1984)?",
    "o": [
-    "Bipan Chandra",
     "Romila Thapar",
     "Gyanendra Pandey",
-    "Paul Brass"
+    "Paul Brass",
+    "Bipan Chandra"
    ],
-   "a": 0,
+   "a": 3,
    "w": "Bipan Chandra."
   },
   {
    "q": "Instant triple talaq was held unconstitutional in…",
    "o": [
-    "Shah Bano (1985)",
+    "Ayodhya (2019)",
     "Shayara Bano (2017)",
     "Danial Latifi (2001)",
-    "Ayodhya (2019)"
+    "Shah Bano (1985)"
    ],
    "a": 1,
    "w": "Shayara Bano v. Union of India (22 August 2017)."
@@ -131,44 +131,44 @@
    "q": "The Places of Worship Act, 1991 fixes the status of shrines as of…",
    "o": [
     "26 January 1950",
+    "1 January 1991",
     "15 August 1947",
-    "6 December 1992",
-    "1 January 1991"
+    "6 December 1992"
    ],
-   "a": 1,
+   "a": 2,
    "w": "15 August 1947, with Ayodhya excluded."
   },
   {
    "q": "The Sachar Committee (2006) reported on…",
    "o": [
-    "Socio-economic condition of Muslims",
     "Tribal rights",
-    "OBC sub-categorisation",
-    "Linguistic states"
+    "Linguistic states",
+    "Socio-economic condition of Muslims",
+    "OBC sub-categorisation"
    ],
-   "a": 0,
+   "a": 2,
    "w": "It found Muslims lagging in education and jobs."
   },
   {
    "q": "Jaffrelot's Modi's India (2021) describes…",
    "o": [
-    "Ethnic democracy",
     "Consociational democracy",
     "Social democracy",
+    "Ethnic democracy",
     "Direct democracy"
    ],
-   "a": 0,
+   "a": 2,
    "w": "A drift to an ethnic democracy."
   },
   {
    "q": "The Supreme Court's 15 September 2025 order on the Waqf Act…",
    "o": [
-    "Struck down the entire Act",
-    "Stayed some provisions but not the whole Act",
     "Upheld everything",
-    "Referred it to Parliament"
+    "Referred it to Parliament",
+    "Stayed some provisions but not the whole Act",
+    "Struck down the entire Act"
    ],
-   "a": 1,
+   "a": 2,
    "w": "It held the case for staying the whole Act was not made out."
   }
  ],

@@ -60,8 +60,8 @@
    "q": "The first NAM summit was held in:",
    "o": [
     "Belgrade, 1961",
-    "Bandung, 1955",
     "Cairo, 1964",
+    "Bandung, 1955",
     "Delhi, 1983"
    ],
    "a": 0,
@@ -70,20 +70,20 @@
   {
    "q": "Which of these was NOT among the five founders of NAM?",
    "o": [
+    "Mao Zedong",
     "Nehru",
     "Tito",
-    "Nasser",
-    "Mao Zedong"
+    "Nasser"
    ],
-   "a": 3,
+   "a": 0,
    "w": "The five were Nehru, Tito, Nasser, Sukarno and Nkrumah."
   },
   {
    "q": "The Bandung Conference was held in:",
    "o": [
     "1955",
-    "1947",
     "1961",
+    "1947",
     "1973"
    ],
    "a": 0,
@@ -92,65 +92,65 @@
   {
    "q": "India hosted the NAM summit in New Delhi in:",
    "o": [
-    "1983",
+    "2012",
     "1961",
-    "1992",
-    "2012"
+    "1983",
+    "1992"
    ],
-   "a": 0,
+   "a": 2,
    "w": "The 7th summit, March 1983, chaired by Indira Gandhi."
   },
   {
    "q": "Which NAM summit was attended by Manmohan Singh in 2012?",
    "o": [
-    "Tehran",
     "Havana",
+    "Tehran",
     "Kampala",
     "Baku"
    ],
-   "a": 0,
+   "a": 1,
    "w": "Tehran, August 2012."
   },
   {
    "q": "The Indo-Soviet Treaty was signed in:",
    "o": [
-    "1971",
-    "1962",
     "1965",
-    "1979"
+    "1971",
+    "1979",
+    "1962"
    ],
-   "a": 0,
+   "a": 1,
    "w": "August 1971."
   },
   {
    "q": "Non-alignment differs from neutrality because it:",
    "o": [
-    "Forms judgments on issues",
-    "Avoids all participation",
     "Joins military pacts",
-    "Rejects the UN"
+    "Avoids all participation",
+    "Rejects the UN",
+    "Forms judgments on issues"
    ],
-   "a": 0,
+   "a": 3,
    "w": "Non-aligned states take active positions on issues."
   },
   {
    "q": "At the Havana summit of 1979, India resisted the claim that:",
    "o": [
+    "The UN was irrelevant",
     "The Soviet bloc was the natural ally of NAM",
     "NAM should have a secretariat",
-    "The UN was irrelevant",
     "Apartheid should end"
    ],
-   "a": 0,
+   "a": 1,
    "w": "Castro's 'natural ally' thesis was resisted by India and Yugoslavia."
   },
   {
    "q": "Panchsheel was first agreed in the context of the:",
    "o": [
     "India–China Tibet Agreement, 1954",
+    "Tashkent Declaration",
     "Indo-Soviet Treaty",
-    "Simla Agreement",
-    "Tashkent Declaration"
+    "Simla Agreement"
    ],
    "a": 0,
    "w": "29 April 1954 agreement on Tibet trade and intercourse."
@@ -158,12 +158,12 @@
   {
    "q": "The term India now prefers for its current approach to partnerships is:",
    "o": [
+    "Bandwagoning",
     "Multi-alignment",
     "Neutrality",
-    "Isolationism",
-    "Bandwagoning"
+    "Isolationism"
    ],
-   "a": 0,
+   "a": 1,
    "w": "Jaishankar and others call it multi-alignment."
   }
  ],

@@ -59,65 +59,65 @@
   {
    "q": "The Indo-Lanka Accord was signed in:",
    "o": [
-    "1974",
-    "1987",
+    "2009",
     "1991",
-    "2009"
+    "1987",
+    "1974"
    ],
-   "a": 1,
+   "a": 2,
    "w": "29 July 1987 by Rajiv Gandhi and J.R. Jayewardene."
   },
   {
    "q": "The 13th Amendment of Sri Lanka's Constitution relates to:",
    "o": [
-    "Provincial Councils",
     "Presidential powers",
+    "Provincial Councils",
     "Buddhism",
     "Citizenship"
    ],
-   "a": 0,
+   "a": 1,
    "w": "It created Provincial Councils, flowing from the 1987 Accord."
   },
   {
    "q": "Operation Cactus (1988) took place in the:",
    "o": [
-    "Maldives",
     "Sri Lanka",
+    "Maldives",
     "Seychelles",
     "Mauritius"
    ],
-   "a": 0,
+   "a": 1,
    "w": "India helped foil a coup against President Gayoom."
   },
   {
    "q": "Katchatheevu island was ceded to Sri Lanka by agreements of:",
    "o": [
-    "1947-48",
-    "1974 and 1976",
+    "2009",
     "1987",
-    "2009"
+    "1947-48",
+    "1974 and 1976"
    ],
-   "a": 1,
+   "a": 3,
    "w": "The Indira Gandhi–Bandaranaike agreements of 1974 and 1976."
   },
   {
    "q": "Kaladan Multi-Modal Transit Transport Project links Kolkata to:",
    "o": [
-    "Sittwe and Mizoram",
-    "Colombo and Chennai",
     "Chattogram and Agartala",
-    "Yangon and Moreh"
+    "Yangon and Moreh",
+    "Colombo and Chennai",
+    "Sittwe and Mizoram"
    ],
-   "a": 0,
+   "a": 3,
    "w": "Kolkata–Sittwe by sea, then Kaladan river and road to Mizoram."
   },
   {
    "q": "Who won Sri Lanka's presidency in September 2024?",
    "o": [
-    "Ranil Wickremesinghe",
+    "Gotabaya Rajapaksa",
     "Anura Kumara Dissanayake",
     "Sajith Premadasa",
-    "Gotabaya Rajapaksa"
+    "Ranil Wickremesinghe"
    ],
    "a": 1,
    "w": "Dissanayake of the NPP."
@@ -126,31 +126,31 @@
    "q": "The Maldives president elected in 2023 on an 'India Out' platform was:",
    "o": [
     "Ibrahim Solih",
+    "Abdulla Yameen",
     "Mohamed Muizzu",
-    "Mohamed Nasheed",
-    "Abdulla Yameen"
+    "Mohamed Nasheed"
    ],
-   "a": 1,
+   "a": 2,
    "w": "Mohamed Muizzu."
   },
   {
    "q": "Buzan and Wæver's 'regional security complex' theory appears in:",
    "o": [
-    "Regions and Powers",
-    "The Clash of Civilizations",
+    "After Hegemony",
     "Theory of International Politics",
-    "After Hegemony"
+    "Regions and Powers",
+    "The Clash of Civilizations"
    ],
-   "a": 0,
+   "a": 2,
    "w": "Regions and Powers: The Structure of International Security (2003)."
   },
   {
    "q": "Which agreement does India's Free Movement Regime refer to?",
    "o": [
     "Visa-free 16 km zone on the Myanmar border",
-    "Free trade with Bhutan",
     "Open border with Nepal",
-    "Maritime access to Sri Lanka"
+    "Maritime access to Sri Lanka",
+    "Free trade with Bhutan"
    ],
    "a": 0,
    "w": "The FMR allowed visa-free movement within 16 km; India moved to end it in 2024."
@@ -158,12 +158,12 @@
   {
    "q": "The Greater Malé Connectivity Project is funded mainly by:",
    "o": [
-    "China",
     "India",
     "Japan",
-    "World Bank"
+    "World Bank",
+    "China"
    ],
-   "a": 1,
+   "a": 0,
    "w": "It is India-funded, with grants and lines of credit."
   }
  ],

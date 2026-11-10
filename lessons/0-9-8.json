@@ -65,9 +65,9 @@
    "q": "For Arendt, the truly political activity is…",
    "o": [
     "Labour",
-    "Work",
+    "Contemplation",
     "Action",
-    "Contemplation"
+    "Work"
    ],
    "a": 2,
    "w": "Action, speaking and acting together in public."
@@ -75,54 +75,54 @@
   {
    "q": "Arendt defines power as…",
    "o": [
-    "Control of the means of violence",
     "The ability to act in concert",
     "Command of the sovereign",
+    "Control of the means of violence",
     "Economic ownership"
    ],
-   "a": 1,
+   "a": 0,
    "w": "Power belongs to a group acting together; violence can destroy it but not create it."
   },
   {
    "q": "'The banality of evil' comes from her report on the trial of…",
    "o": [
-    "Hermann Göring",
     "Adolf Eichmann",
+    "Hermann Göring",
     "Rudolf Hess",
     "Klaus Barbie"
    ],
-   "a": 1,
+   "a": 0,
    "w": "Eichmann in Jerusalem (1963)."
   },
   {
    "q": "Arendt's idea of natality refers to…",
    "o": [
     "Birth rates and welfare",
-    "The human capacity to begin something new",
+    "Citizenship by birth",
     "National identity",
-    "Citizenship by birth"
+    "The human capacity to begin something new"
    ],
-   "a": 1,
+   "a": 3,
    "w": "Each birth brings a new beginning: the root of freedom."
   },
   {
    "q": "Arendt praised which revolution for founding lasting freedom?",
    "o": [
     "French",
-    "Russian",
     "American",
-    "Chinese"
+    "Chinese",
+    "Russian"
    ],
-   "a": 2,
+   "a": 1,
    "w": "She said the American Revolution succeeded where the French was swamped by the social question."
   },
   {
    "q": "Arendt's 'right to have rights' means…",
    "o": [
-    "A right to welfare",
-    "The right to belong to a political community",
     "A right to revolution",
-    "A right to property"
+    "The right to belong to a political community",
+    "A right to property",
+    "A right to welfare"
    ],
    "a": 1,
    "w": "Without membership in a political community, human rights protect no one."
@@ -132,8 +132,8 @@
    "o": [
     "Rule by the wise",
     "Rule by Nobody",
-    "Rule by consent",
-    "Rule of law"
+    "Rule of law",
+    "Rule by consent"
    ],
    "a": 1,
    "w": "No one can be held responsible."
@@ -141,9 +141,9 @@
   {
    "q": "For Arendt, totalitarianism ruled through…",
    "o": [
-    "Law and custom",
-    "Ideology and terror",
     "Religion and monarchy",
+    "Ideology and terror",
+    "Law and custom",
     "Trade and markets"
    ],
    "a": 1,
@@ -153,20 +153,20 @@
    "q": "Which activity in The Human Condition creates durable things?",
    "o": [
     "Labour",
+    "Thought",
     "Work",
-    "Action",
-    "Thought"
+    "Action"
    ],
-   "a": 1,
+   "a": 2,
    "w": "Work fabricates a lasting human world."
   },
   {
    "q": "Arendt's report on Eichmann first appeared in…",
    "o": [
-    "The Atlantic",
-    "The New Yorker",
     "Partisan Review",
-    "Commentary"
+    "The New Yorker",
+    "Commentary",
+    "The Atlantic"
    ],
    "a": 1,
    "w": "The New Yorker, 1963, then as a book."

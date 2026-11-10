@@ -16,12 +16,12 @@
   {
    "tag": "Key idea",
    "h": "Saptanga: the seven limbs",
-   "b": "<svg class=\"d\" viewBox=\"0 0 320 170\"><circle cx=\"160\" cy=\"85\" r=\"30\" fill=\"#f1e4c6\" stroke=\"#a8792a\"/><text x=\"160\" y=\"82\" fill=\"#1d2433\" font-size=\"11\" text-anchor=\"middle\" font-weight=\"700\">Swami</text><text x=\"160\" y=\"96\" fill=\"#5d6474\" font-size=\"9\" text-anchor=\"middle\">king</text><g font-size=\"11\" fill=\"#1d2433\" text-anchor=\"middle\"><text x=\"160\" y=\"24\">Amatya · ministers</text><text x=\"272\" y=\"56\">Janapada</text><text x=\"272\" y=\"68\" fill=\"#5d6474\" font-size=\"9\">land + people</text><text x=\"276\" y=\"124\">Durga · fort</text><text x=\"160\" y=\"156\">Kosha · treasury</text><text x=\"46\" y=\"124\">Danda · army</text><text x=\"46\" y=\"62\">Mitra · ally</text></g></svg><p>A state has seven limbs, in order of importance: <b>swami</b> (king), <b>amatya</b> (ministers), <b>janapada</b> (territory and people), <b>durga</b> (fortified city), <b>kosha</b> (treasury), <b>danda</b> (army) and <b>mitra</b> (ally). It is an organic view: if one limb fails, the whole body suffers.</p>"
+   "b": "<svg class=\"d\" viewBox=\"0 0 320 170\"><circle cx=\"160\" cy=\"85\" r=\"30\" fill=\"#f1e4c6\" stroke=\"#a8792a\"/><text x=\"160\" y=\"82\" fill=\"#1d2433\" font-size=\"11\" text-anchor=\"middle\" font-weight=\"700\">Swami</text><text x=\"160\" y=\"96\" fill=\"#5d6474\" font-size=\"10\" text-anchor=\"middle\">king</text><g font-size=\"11\" fill=\"#1d2433\" text-anchor=\"middle\"><text x=\"160\" y=\"24\">Amatya · ministers</text><text x=\"272\" y=\"56\">Janapada</text><text x=\"272\" y=\"68\" fill=\"#5d6474\" font-size=\"10\">land + people</text><text x=\"276\" y=\"124\">Durga · fort</text><text x=\"160\" y=\"156\">Kosha · treasury</text><text x=\"46\" y=\"124\">Danda · army</text><text x=\"46\" y=\"62\">Mitra · ally</text></g></svg><p>A state has seven limbs, in order of importance: <b>swami</b> (king), <b>amatya</b> (ministers), <b>janapada</b> (territory and people), <b>durga</b> (fortified city), <b>kosha</b> (treasury), <b>danda</b> (army) and <b>mitra</b> (ally). It is an organic view: if one limb fails, the whole body suffers.</p>"
   },
   {
    "tag": "Key idea",
    "h": "Mandala: the circle of states",
-   "b": "<svg class=\"d\" viewBox=\"0 0 320 120\"><g text-anchor=\"middle\" font-size=\"10\"><circle cx=\"40\" cy=\"60\" r=\"24\" fill=\"#f1e4c6\" stroke=\"#a8792a\"/><text x=\"40\" y=\"58\" fill=\"#1d2433\" font-weight=\"700\">Vijigishu</text><text x=\"40\" y=\"70\" fill=\"#5d6474\" font-size=\"8\">conqueror</text><circle cx=\"110\" cy=\"60\" r=\"24\" fill=\"#f4dcd5\" stroke=\"#a3362a\"/><text x=\"110\" y=\"58\" fill=\"#1d2433\" font-weight=\"700\">Ari</text><text x=\"110\" y=\"70\" fill=\"#5d6474\" font-size=\"8\">enemy</text><circle cx=\"180\" cy=\"60\" r=\"24\" fill=\"#dceaec\" stroke=\"#2f6f7a\"/><text x=\"180\" y=\"58\" fill=\"#1d2433\" font-weight=\"700\">Mitra</text><text x=\"180\" y=\"70\" fill=\"#5d6474\" font-size=\"8\">friend</text><circle cx=\"250\" cy=\"60\" r=\"24\" fill=\"#f4dcd5\" stroke=\"#a3362a\"/><text x=\"250\" y=\"58\" fill=\"#1d2433\" font-weight=\"700\">Ari-mitra</text><text x=\"250\" y=\"70\" fill=\"#5d6474\" font-size=\"8\">enemy's friend</text><text x=\"300\" y=\"64\" fill=\"#5d6474\" font-size=\"14\">…</text><text x=\"160\" y=\"112\" fill=\"#5d6474\">Neighbour = enemy · neighbour's neighbour = friend</text></g></svg><p>The diagram shows one line of the circle. The <b>mandala</b> theory places the would-be conqueror (<b>vijigishu</b>) at the centre of a circle of states. The immediate neighbour is a natural <b>enemy</b>, and the state beyond is a natural <b>friend</b>. Two more states matter: the <b>madhyama</b> (middle king) and the <b>udasina</b> (a neutral king stronger than both).</p>"
+   "b": "<svg class=\"d\" viewBox=\"0 0 320 120\"><g text-anchor=\"middle\" font-size=\"10\"><circle cx=\"40\" cy=\"60\" r=\"24\" fill=\"#f1e4c6\" stroke=\"#a8792a\"/><text x=\"40\" y=\"58\" fill=\"#1d2433\" font-weight=\"700\">Vijigishu</text><text x=\"40\" y=\"70\" fill=\"#5d6474\" font-size=\"10\">conqueror</text><circle cx=\"110\" cy=\"60\" r=\"24\" fill=\"#f4dcd5\" stroke=\"#a3362a\"/><text x=\"110\" y=\"58\" fill=\"#1d2433\" font-weight=\"700\">Ari</text><text x=\"110\" y=\"70\" fill=\"#5d6474\" font-size=\"10\">enemy</text><circle cx=\"180\" cy=\"60\" r=\"24\" fill=\"#dceaec\" stroke=\"#2f6f7a\"/><text x=\"180\" y=\"58\" fill=\"#1d2433\" font-weight=\"700\">Mitra</text><text x=\"180\" y=\"70\" fill=\"#5d6474\" font-size=\"10\">friend</text><circle cx=\"250\" cy=\"60\" r=\"24\" fill=\"#f4dcd5\" stroke=\"#a3362a\"/><text x=\"250\" y=\"58\" fill=\"#1d2433\" font-weight=\"700\">Ari-mitra</text><text x=\"250\" y=\"70\" fill=\"#5d6474\" font-size=\"10\">enemy's friend</text><text x=\"300\" y=\"64\" fill=\"#5d6474\" font-size=\"14\">…</text><text x=\"160\" y=\"112\" fill=\"#5d6474\">Neighbour = enemy · neighbour's neighbour = friend</text></g></svg><p>The diagram shows one line of the circle. The <b>mandala</b> theory places the would-be conqueror (<b>vijigishu</b>) at the centre of a circle of states. The immediate neighbour is a natural <b>enemy</b>, and the state beyond is a natural <b>friend</b>. Two more states matter: the <b>madhyama</b> (middle king) and the <b>udasina</b> (a neutral king stronger than both).</p>"
   },
   {
    "tag": "Key idea",
@@ -64,9 +64,9 @@
   {
    "q": "Who rediscovered and published the Arthashastra in 1909?",
    "o": [
-    "K.P. Jayaswal",
-    "R. Shamasastry",
     "Max Müller",
+    "R. Shamasastry",
+    "K.P. Jayaswal",
     "R.P. Kangle"
    ],
    "a": 1,
@@ -75,30 +75,30 @@
   {
    "q": "In the saptanga theory, 'kosha' means…",
    "o": [
-    "Army",
-    "Fort",
+    "Ally",
     "Treasury",
-    "Ally"
+    "Army",
+    "Fort"
    ],
-   "a": 2,
+   "a": 1,
    "w": "Kosha is the treasury."
   },
   {
    "q": "In mandala theory, the immediate neighbour is a natural…",
    "o": [
-    "Friend",
-    "Enemy",
     "Neutral",
-    "Vassal"
+    "Vassal",
+    "Friend",
+    "Enemy"
    ],
-   "a": 1,
+   "a": 3,
    "w": "The neighbour is the natural enemy; the neighbour's neighbour is a friend."
   },
   {
    "q": "Dvaidhibhava means…",
    "o": [
-    "Peace with all",
     "Seeking shelter",
+    "Peace with all",
     "Peace with one, war with another",
     "Marching to war"
    ],
@@ -108,34 +108,34 @@
   {
    "q": "When sources of law conflict, Kautilya says the deciding source is…",
    "o": [
-    "Dharma",
+    "Evidence",
     "Custom",
-    "The king's just edict",
-    "Evidence"
+    "Dharma",
+    "The king's just edict"
    ],
-   "a": 2,
+   "a": 3,
    "w": "Rajashasana, the king's edict based on justice, prevails."
   },
   {
    "q": "Yogakshema means…",
    "o": [
+    "Foreign trade",
     "Military victory",
     "Welfare and security of the people",
-    "Royal ritual",
-    "Foreign trade"
+    "Royal ritual"
    ],
-   "a": 1,
+   "a": 2,
    "w": "The state's goal is the welfare and security of its subjects."
   },
   {
    "q": "The four means (upayas) are sama, dana, bheda and…",
    "o": [
-    "Sandhi",
-    "Danda",
     "Yana",
-    "Kosha"
+    "Kosha",
+    "Sandhi",
+    "Danda"
    ],
-   "a": 1,
+   "a": 3,
    "w": "Persuasion, gifts, division and force."
   },
   {
@@ -153,11 +153,11 @@
    "q": "In mandala theory, the 'udasina' is…",
    "o": [
     "The friend's friend",
-    "A neutral king stronger than the others",
+    "The enemy's ally",
     "The conqueror",
-    "The enemy's ally"
+    "A neutral king stronger than the others"
    ],
-   "a": 1,
+   "a": 3,
    "w": "A powerful neutral state outside the rivalry."
   },
   {
@@ -165,8 +165,8 @@
    "o": [
     "Ashoka",
     "Chanakya",
-    "Chandragupta",
-    "Harsha"
+    "Harsha",
+    "Chandragupta"
    ],
    "a": 1,
    "w": "Chanakyapuri."

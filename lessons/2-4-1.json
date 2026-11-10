@@ -60,8 +60,8 @@
    "q": "Who wrote Politics Among Nations (1948)?",
    "o": [
     "E.H. Carr",
-    "Kenneth Waltz",
     "George Kennan",
+    "Kenneth Waltz",
     "Hans Morgenthau"
    ],
    "a": 3,
@@ -70,78 +70,78 @@
   {
    "q": "In Waltz's Man, the State, and War (1959), the 'third image' refers to:",
    "o": [
-    "Human nature",
-    "The type of state",
+    "Public opinion",
     "The international system",
-    "Public opinion"
+    "Human nature",
+    "The type of state"
    ],
-   "a": 2,
+   "a": 1,
    "w": "The third image is the system, the anarchic structure of the international order."
   },
   {
    "q": "Which is not one of the three parts of structure in Waltz's Theory of International Politics?",
    "o": [
-    "Balance of norms",
-    "Ordering principle",
+    "Distribution of capabilities",
     "Differentiation of units",
-    "Distribution of capabilities"
+    "Balance of norms",
+    "Ordering principle"
    ],
-   "a": 0,
+   "a": 2,
    "w": "The three are ordering principle, differentiation of units and distribution of capabilities."
   },
   {
    "q": "The term 'security dilemma' was coined by:",
    "o": [
-    "Robert Jervis",
     "John Herz",
+    "Robert Jervis",
     "Barry Buzan",
     "Stephen Walt"
    ],
-   "a": 1,
+   "a": 0,
    "w": "John Herz coined it in 1950; Jervis developed it in 1978."
   },
   {
    "q": "Mearsheimer's The Tragedy of Great Power Politics (2001) belongs to:",
    "o": [
-    "Defensive realism",
-    "Neoclassical realism",
     "Constructivism",
-    "Offensive realism"
+    "Neoclassical realism",
+    "Offensive realism",
+    "Defensive realism"
    ],
-   "a": 3,
+   "a": 2,
    "w": "It argues great powers seek regional hegemony: offensive realism."
   },
   {
    "q": "Stephen Walt's The Origins of Alliances (1987) argues that states balance against:",
    "o": [
-    "Power alone",
     "Threat",
     "Ideology",
-    "Trade partners"
+    "Trade partners",
+    "Power alone"
    ],
-   "a": 1,
+   "a": 0,
    "w": "Walt's balance of threat theory: perceived threat, not just power."
   },
   {
    "q": "Waltz argued that which polarity is more stable?",
    "o": [
-    "Multipolarity",
-    "Bipolarity",
     "Unipolarity",
-    "Tripolarity"
+    "Tripolarity",
+    "Bipolarity",
+    "Multipolarity"
    ],
-   "a": 1,
+   "a": 2,
    "w": "Fewer great powers mean fewer miscalculations, so bipolarity is more stable."
   },
   {
    "q": "In Kautilya's mandala theory, the 'vijigishu' is:",
    "o": [
-    "The would-be conqueror at the centre",
     "The neutral power",
     "The natural friend",
-    "The middle king"
+    "The middle king",
+    "The would-be conqueror at the centre"
    ],
-   "a": 0,
+   "a": 3,
    "w": "Vijigishu is the ruler who wants to conquer, at the centre of the circle."
   },
   {

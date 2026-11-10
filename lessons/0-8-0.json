@@ -69,34 +69,34 @@
   {
    "q": "In the Aggañña Sutta, the first king is called…",
    "o": [
-    "Chakravartin",
-    "Mahasammata",
+    "Manu",
     "Prithu",
-    "Manu"
+    "Chakravartin",
+    "Mahasammata"
    ],
-   "a": 1,
+   "a": 3,
    "w": "Mahasammata means the great elect, chosen by the people."
   },
   {
    "q": "'Matsya nyaya' refers to…",
    "o": [
-    "Fair trade between kingdoms",
-    "The law of the fish: the strong eating the weak",
     "A fishing tax",
-    "Justice by ordeal"
+    "Justice by ordeal",
+    "Fair trade between kingdoms",
+    "The law of the fish: the strong eating the weak"
    ],
-   "a": 1,
+   "a": 3,
    "w": "Without a king, the big fish eats the small fish."
   },
   {
    "q": "Rajadharma is taught to Yudhishthira by…",
    "o": [
-    "Krishna",
-    "Bhishma",
+    "Drona",
     "Vidura",
-    "Drona"
+    "Bhishma",
+    "Krishna"
    ],
-   "a": 1,
+   "a": 2,
    "w": "Bhishma teaches it in the Shanti Parva."
   },
   {
@@ -124,21 +124,21 @@
   {
    "q": "Gana-sanghas were…",
    "o": [
-    "Temple councils",
     "States ruled by clan assemblies",
-    "Trade guilds",
-    "Village courts"
+    "Village courts",
+    "Temple councils",
+    "Trade guilds"
    ],
-   "a": 1,
+   "a": 0,
    "w": "Like the Vajji confederacy of the Licchavis."
   },
   {
    "q": "Dharma comes from a root meaning…",
    "o": [
-    "To fight",
+    "To sacrifice",
     "To hold or sustain",
-    "To rule",
-    "To sacrifice"
+    "To fight",
+    "To rule"
    ],
    "a": 1,
    "w": "The root dhr: to hold up or sustain."
@@ -147,22 +147,22 @@
    "q": "The Mitakshara is a commentary on…",
    "o": [
     "Manusmriti",
-    "Yajnavalkya Smriti",
     "Arthashastra",
+    "Yajnavalkya Smriti",
     "Rig Veda"
    ],
-   "a": 1,
+   "a": 2,
    "w": "Vijnaneshwara's 12th-century commentary on the Yajnavalkya Smriti."
   },
   {
    "q": "Ashoka's policy after Kalinga is called…",
    "o": [
-    "Digvijaya",
     "Dhamma-vijaya",
+    "Rajasuya",
     "Ashvamedha",
-    "Rajasuya"
+    "Digvijaya"
    ],
-   "a": 1,
+   "a": 0,
    "w": "Conquest by righteousness rather than arms."
   },
   {

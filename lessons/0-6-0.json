@@ -59,31 +59,31 @@
   {
    "q": "The 'Two Faces of Power' article was published in…",
    "o": [
-    "1962",
-    "1957",
     "1974",
+    "1957",
+    "1962",
     "1984"
    ],
-   "a": 0,
+   "a": 2,
    "w": "Bachrach and Baratz, American Political Science Review, 1962."
   },
   {
    "q": "Dahl's study of New Haven is…",
    "o": [
-    "Power: A Radical View",
-    "Discipline and Punish",
     "Who Governs?",
-    "The Power Elite"
+    "Discipline and Punish",
+    "The Power Elite",
+    "Power: A Radical View"
    ],
-   "a": 2,
+   "a": 0,
    "w": "Published 1961."
   },
   {
    "q": "Non-decision-making refers to…",
    "o": [
-    "Refusing to vote",
-    "Keeping issues off the agenda",
     "Judicial restraint",
+    "Keeping issues off the agenda",
+    "Refusing to vote",
     "Policy delay by courts"
    ],
    "a": 1,
@@ -92,42 +92,42 @@
   {
    "q": "The 'mobilisation of bias' phrase was taken from…",
    "o": [
-    "Lukes",
-    "Schattschneider",
     "Foucault",
-    "Weber"
+    "Lukes",
+    "Weber",
+    "Schattschneider"
    ],
-   "a": 1,
+   "a": 3,
    "w": "E.E. Schattschneider, The Semisovereign People (1960)."
   },
   {
    "q": "Lukes's third dimension concerns power over…",
    "o": [
-    "Wants and beliefs",
-    "Votes",
     "Agenda",
+    "Votes",
+    "Wants and beliefs",
     "Armies"
    ],
-   "a": 0,
+   "a": 2,
    "w": "Shaping preferences so conflict never arises."
   },
   {
    "q": "Gaventa's Power and Powerlessness studied…",
    "o": [
-    "New Haven councils",
-    "Indian villages",
+    "Italian cities",
     "Appalachian coal miners",
-    "Italian cities"
+    "Indian villages",
+    "New Haven councils"
    ],
-   "a": 2,
+   "a": 1,
    "w": "A test of Lukes's third face."
   },
   {
    "q": "Foucault's Discipline and Punish (1975) uses which model of surveillance?",
    "o": [
-    "Leviathan",
-    "Polis",
     "Gulag",
+    "Polis",
+    "Leviathan",
     "Panopticon"
    ],
    "a": 3,
@@ -136,8 +136,8 @@
   {
    "q": "For Arendt, power is…",
    "o": [
-    "Domination by the strong",
     "Violence applied to opponents",
+    "Domination by the strong",
     "The human ability to act in concert",
     "A form of authority only"
    ],
@@ -147,9 +147,9 @@
   {
    "q": "Who proposed the concept of soft power?",
    "o": [
+    "Hedley Bull",
     "Henry Kissinger",
     "Kenneth Waltz",
-    "Hedley Bull",
     "Joseph Nye"
    ],
    "a": 3,
@@ -158,9 +158,9 @@
   {
    "q": "The 'dominant caste' idea comes from…",
    "o": [
-    "Louis Dumont",
-    "M.N. Srinivas",
     "G.S. Ghurye",
+    "M.N. Srinivas",
+    "Louis Dumont",
     "Andre Beteille"
    ],
    "a": 1,

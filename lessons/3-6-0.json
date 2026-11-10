@@ -59,21 +59,21 @@
   {
    "q": "Pokhran-I took place on:",
    "o": [
-    "18 May 1974",
     "11 May 1998",
     "1 January 1970",
-    "28 May 1998"
+    "28 May 1998",
+    "18 May 1974"
    ],
-   "a": 0,
+   "a": 3,
    "w": "Under Indira Gandhi, code-named Smiling Buddha."
   },
   {
    "q": "India's nuclear doctrine was formally adopted by the CCS in:",
    "o": [
     "January 2003",
-    "August 1999",
     "May 1998",
-    "2008"
+    "2008",
+    "August 1999"
    ],
    "a": 0,
    "w": "4 January 2003."
@@ -81,23 +81,23 @@
   {
    "q": "India's three-stage nuclear power programme was designed by:",
    "o": [
-    "Homi Bhabha",
+    "Raja Ramanna",
     "Vikram Sarabhai",
-    "A.P.J. Abdul Kalam",
-    "Raja Ramanna"
+    "Homi Bhabha",
+    "A.P.J. Abdul Kalam"
    ],
-   "a": 0,
+   "a": 2,
    "w": "Homi J. Bhabha."
   },
   {
    "q": "Which body was set up in response to Pokhran-I?",
    "o": [
+    "MTCR",
     "Nuclear Suppliers Group",
     "IAEA",
-    "CTBTO",
-    "MTCR"
+    "CTBTO"
    ],
-   "a": 0,
+   "a": 1,
    "w": "The NSG, 1974-75."
   },
   {
@@ -114,12 +114,12 @@
   {
    "q": "India's first SSBN, completing the triad, is:",
    "o": [
-    "INS Arihant",
-    "INS Vikrant",
     "INS Chakra",
-    "INS Kalvari"
+    "INS Vikrant",
+    "INS Kalvari",
+    "INS Arihant"
    ],
-   "a": 0,
+   "a": 3,
    "w": "Commissioned 2016; deterrence patrol 2018."
   },
   {
@@ -136,34 +136,34 @@
   {
    "q": "Who chairs the Political Council of the Nuclear Command Authority?",
    "o": [
-    "Prime Minister",
+    "Defence Minister",
     "President",
     "NSA",
-    "Defence Minister"
+    "Prime Minister"
    ],
-   "a": 0,
+   "a": 3,
    "w": "The PM; the NSA chairs the Executive Council."
   },
   {
    "q": "India keeps the option of a nuclear response to a major attack using:",
    "o": [
-    "Biological or chemical weapons",
-    "Cyber weapons only",
+    "Economic sanctions",
     "Conventional artillery",
-    "Economic sanctions"
+    "Cyber weapons only",
+    "Biological or chemical weapons"
    ],
-   "a": 0,
+   "a": 3,
    "w": "This is the stated exception in the 2003 doctrine."
   },
   {
    "q": "The SHANTI Act (2025) replaced the Atomic Energy Act, 1962 and the:",
    "o": [
-    "Civil Liability for Nuclear Damage Act, 2010",
-    "Arms Act, 1959",
     "Explosives Act, 1884",
-    "WMD Act, 2005"
+    "Arms Act, 1959",
+    "WMD Act, 2005",
+    "Civil Liability for Nuclear Damage Act, 2010"
    ],
-   "a": 0,
+   "a": 3,
    "w": "It merged both laws and allowed private participation."
   }
  ],

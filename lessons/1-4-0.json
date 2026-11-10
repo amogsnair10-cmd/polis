@@ -16,7 +16,7 @@
   {
    "tag": "Core idea",
    "h": "The road to 1992",
-   "b": "<svg class=\"d\" viewBox=\"0 0 320 130\"><line x1=\"12\" y1=\"62\" x2=\"308\" y2=\"62\" stroke=\"#5d6474\" stroke-width=\"2\"/><g font-size=\"9.5\" fill=\"#1d2433\" text-anchor=\"middle\"><circle cx=\"24\" cy=\"62\" r=\"4\" fill=\"#a8792a\"/><text x=\"24\" y=\"46\">1952</text><text x=\"24\" y=\"80\">CDP</text><circle cx=\"72\" cy=\"62\" r=\"4\" fill=\"#a8792a\"/><text x=\"72\" y=\"46\">1957</text><text x=\"72\" y=\"80\">Balwant Rai</text><circle cx=\"120\" cy=\"62\" r=\"4\" fill=\"#a8792a\"/><text x=\"120\" y=\"46\">1977</text><text x=\"120\" y=\"80\">Ashok Mehta</text><circle cx=\"168\" cy=\"62\" r=\"4\" fill=\"#a8792a\"/><text x=\"168\" y=\"46\">1985-86</text><text x=\"168\" y=\"80\">GVK Rao, Singhvi</text><circle cx=\"216\" cy=\"62\" r=\"4\" fill=\"#a8792a\"/><text x=\"216\" y=\"46\">1989</text><text x=\"216\" y=\"80\">64th Bill falls</text><circle cx=\"264\" cy=\"62\" r=\"4\" fill=\"#2f6f7a\"/><text x=\"264\" y=\"46\">1992-93</text><text x=\"264\" y=\"80\">73rd, 74th</text><circle cx=\"300\" cy=\"62\" r=\"4\" fill=\"#2f6f7a\"/><text x=\"296\" y=\"108\">1996 PESA</text></g></svg><ul><li><b>Community Development Programme</b> (1952) and National Extension Service (1953): top-down, officials led.</li><li><b>Balwant Rai Mehta Committee</b> (1957): a three-tier system, with block as the key. Rajasthan launched it at Nagaur on 2 October 1959.</li><li><b>Ashok Mehta Committee</b> (1977): two tiers, with the district as the main unit; political parties' role; reserved seats for SC/ST; a social audit.</li><li><b>G.V.K. Rao Committee</b> (1985): bureaucratised planning (\"grass without roots\"); suggested the district as the unit.</li><li><b>L.M. Singhvi Committee</b> (1986): recommended constitutional status and financial resources.</li><li>The 64th Amendment Bill (1989) passed the Lok Sabha but failed in the Rajya Sabha. The Narasimha Rao government passed the 73rd and 74th in 1992.</li></ul>"
+   "b": "<svg class=\"d\" viewBox=\"0 0 320 130\"><line x1=\"12\" y1=\"62\" x2=\"308\" y2=\"62\" stroke=\"#5d6474\" stroke-width=\"2\"/><g font-size=\"10\" fill=\"#1d2433\" text-anchor=\"middle\"><circle cx=\"24\" cy=\"62\" r=\"4\" fill=\"#a8792a\"/><text x=\"24\" y=\"46\">1952</text><text x=\"24\" y=\"80\">CDP</text><circle cx=\"72\" cy=\"62\" r=\"4\" fill=\"#a8792a\"/><text x=\"72\" y=\"46\">1957</text><text x=\"72\" y=\"80\">Balwant Rai</text><circle cx=\"120\" cy=\"62\" r=\"4\" fill=\"#a8792a\"/><text x=\"120\" y=\"46\">1977</text><text x=\"120\" y=\"80\">Ashok Mehta</text><circle cx=\"168\" cy=\"62\" r=\"4\" fill=\"#a8792a\"/><text x=\"168\" y=\"46\">1985-86</text><text x=\"168\" y=\"80\">GVK Rao, Singhvi</text><circle cx=\"216\" cy=\"62\" r=\"4\" fill=\"#a8792a\"/><text x=\"216\" y=\"46\">1989</text><text x=\"216\" y=\"80\">64th Bill falls</text><circle cx=\"264\" cy=\"62\" r=\"4\" fill=\"#2f6f7a\"/><text x=\"264\" y=\"46\">1992-93</text><text x=\"264\" y=\"80\">73rd, 74th</text><circle cx=\"300\" cy=\"62\" r=\"4\" fill=\"#2f6f7a\"/><text x=\"296\" y=\"108\">1996 PESA</text></g></svg><ul><li><b>Community Development Programme</b> (1952) and National Extension Service (1953): top-down, officials led.</li><li><b>Balwant Rai Mehta Committee</b> (1957): a three-tier system, with block as the key. Rajasthan launched it at Nagaur on 2 October 1959.</li><li><b>Ashok Mehta Committee</b> (1977): two tiers, with the district as the main unit; political parties' role; reserved seats for SC/ST; a social audit.</li><li><b>G.V.K. Rao Committee</b> (1985): bureaucratised planning (\"grass without roots\"); suggested the district as the unit.</li><li><b>L.M. Singhvi Committee</b> (1986): recommended constitutional status and financial resources.</li><li>The 64th Amendment Bill (1989) passed the Lok Sabha but failed in the Rajya Sabha. The Narasimha Rao government passed the 73rd and 74th in 1992.</li></ul>"
   },
   {
    "tag": "Core idea",
@@ -59,9 +59,9 @@
   {
    "q": "The 73rd Amendment came into force on…",
    "o": [
-    "26 January 1993",
-    "24 April 1993",
     "1 June 1993",
+    "24 April 1993",
+    "26 January 1993",
     "2 October 1992"
    ],
    "a": 1,
@@ -70,10 +70,10 @@
   {
    "q": "Which committee (1957) recommended the three-tier panchayati raj?",
    "o": [
-    "Ashok Mehta",
+    "L.M. Singhvi",
     "Balwant Rai Mehta",
-    "G.V.K. Rao",
-    "L.M. Singhvi"
+    "Ashok Mehta",
+    "G.V.K. Rao"
    ],
    "a": 1,
    "w": "Balwant Rai Mehta Committee."
@@ -81,89 +81,89 @@
   {
    "q": "The two-tier system with the district at the centre was recommended by…",
    "o": [
-    "Ashok Mehta Committee",
     "Balwant Rai Mehta Committee",
-    "Sarkaria Commission",
-    "Bhuria Committee"
+    "Bhuria Committee",
+    "Ashok Mehta Committee",
+    "Sarkaria Commission"
    ],
-   "a": 0,
+   "a": 2,
    "w": "Ashok Mehta Committee (1977)."
   },
   {
    "q": "Panchayati raj was first launched at…",
    "o": [
-    "Nagaur, Rajasthan, 1959",
-    "Anand, Gujarat, 1952",
+    "Hyderabad, 1948",
     "Wardha, 1936",
-    "Hyderabad, 1948"
+    "Anand, Gujarat, 1952",
+    "Nagaur, Rajasthan, 1959"
    ],
-   "a": 0,
+   "a": 3,
    "w": "2 October 1959."
   },
   {
    "q": "The Eleventh Schedule lists…",
    "o": [
-    "18 functions of municipalities",
     "29 subjects of panchayats",
     "22 languages",
+    "18 functions of municipalities",
     "7 union subjects"
    ],
-   "a": 1,
+   "a": 0,
    "w": "29 subjects."
   },
   {
    "q": "Article 243K deals with…",
    "o": [
-    "State Election Commission for local bodies",
-    "Gram Sabha",
+    "Reservation for women",
     "District Planning Committee",
-    "Reservation for women"
+    "Gram Sabha",
+    "State Election Commission for local bodies"
    ],
-   "a": 0,
+   "a": 3,
    "w": "State Election Commissions for panchayats."
   },
   {
    "q": "PESA was passed in…",
    "o": [
-    "1992",
     "1996",
+    "2013",
     "2006",
-    "2013"
+    "1992"
    ],
-   "a": 1,
+   "a": 0,
    "w": "The Provisions of the Panchayats (Extension to the Scheduled Areas) Act, 1996."
   },
   {
    "q": "Who said the village is 'a sink of localism'?",
    "o": [
-    "Gandhi",
     "Ambedkar",
-    "Nehru",
-    "J.P. Narayan"
+    "Gandhi",
+    "J.P. Narayan",
+    "Nehru"
    ],
-   "a": 1,
+   "a": 0,
    "w": "Ambedkar, Constituent Assembly, 4 November 1948."
   },
   {
    "q": "District Planning Committees are under which Article?",
    "o": [
-    "243G",
-    "243I",
     "243ZD",
-    "243ZE"
+    "243ZE",
+    "243I",
+    "243G"
    ],
-   "a": 2,
+   "a": 0,
    "w": "243ZD; 243ZE is for metropolitan areas."
   },
   {
    "q": "Which Supreme Court judgment required a 'triple test' for OBC quotas in local bodies?",
    "o": [
-    "Vikas Kishanrao Gawali (2021)",
     "Indra Sawhney (1992)",
     "K. Krishna Murthy (2010)",
-    "Janhit Abhiyan (2022)"
+    "Janhit Abhiyan (2022)",
+    "Vikas Kishanrao Gawali (2021)"
    ],
-   "a": 0,
+   "a": 3,
    "w": "Vikas Kishanrao Gawali v. State of Maharashtra."
   }
  ],

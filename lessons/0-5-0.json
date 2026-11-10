@@ -64,45 +64,45 @@
   {
    "q": "Which Athenian body was chosen by lot and prepared business for the assembly?",
    "o": [
-    "Areopagus",
-    "Strategoi",
     "Boule (Council of 500)",
-    "Heliaia"
+    "Areopagus",
+    "Heliaia",
+    "Strategoi"
    ],
-   "a": 2,
+   "a": 0,
    "w": "The Boule of 500, fifty from each tribe, was chosen by lot."
   },
   {
    "q": "In Aristotle's scheme, rule of the many for the common good is called…",
    "o": [
-    "Democracy",
-    "Oligarchy",
+    "Tyranny",
     "Polity",
-    "Tyranny"
+    "Oligarchy",
+    "Democracy"
    ],
-   "a": 2,
+   "a": 1,
    "w": "Polity is the good form. Democracy is the deviant form of rule by the many."
   },
   {
    "q": "Plato's criticism of democracy is built on the idea that…",
    "o": [
-    "Citizens are too rich",
-    "Ruling is a skill that needs trained experts",
     "Majorities are always cruel",
-    "Elections cost too much"
+    "Citizens are too rich",
+    "Elections cost too much",
+    "Ruling is a skill that needs trained experts"
    ],
-   "a": 1,
+   "a": 3,
    "w": "The ship-of-state analogy in the Republic."
   },
   {
    "q": "Rousseau's general will differs from the will of all because it…",
    "o": [
-    "Needs unanimity",
-    "Aims at the common good, not private wants",
     "Is chosen by representatives",
-    "Is the majority's opinion"
+    "Is the majority's opinion",
+    "Aims at the common good, not private wants",
+    "Needs unanimity"
    ],
-   "a": 1,
+   "a": 2,
    "w": "The Social Contract (1762) separates common good from the sum of private wishes."
   },
   {
@@ -110,8 +110,8 @@
    "o": [
     "Rousseau",
     "Madison",
-    "J.S. Mill",
-    "Tocqueville"
+    "Tocqueville",
+    "J.S. Mill"
    ],
    "a": 0,
    "w": "Rousseau opposed representation in law-making."
@@ -120,8 +120,8 @@
    "q": "Federalist No. 10 recommends a large republic mainly to…",
    "o": [
     "Cut taxes",
-    "Restore direct democracy",
     "Reduce federal power",
+    "Restore direct democracy",
     "Control the effects of factions"
    ],
    "a": 3,
@@ -130,10 +130,10 @@
   {
    "q": "The phrase 'tyranny of the majority' is most linked with…",
    "o": [
-    "Hobbes",
+    "Macpherson",
     "Tocqueville",
     "Bentham",
-    "Macpherson"
+    "Hobbes"
    ],
    "a": 1,
    "w": "Democracy in America (1835, 1840); Mill later popularised it in On Liberty."
@@ -141,30 +141,30 @@
   {
    "q": "J.S. Mill proposed proportional representation through…",
    "o": [
-    "Hare's single transferable vote",
-    "Closed party lists",
+    "Two-round runoff",
     "First past the post",
-    "Two-round runoff"
+    "Hare's single transferable vote",
+    "Closed party lists"
    ],
-   "a": 0,
+   "a": 2,
    "w": "Thomas Hare's STV, in Considerations on Representative Government (1861)."
   },
   {
    "q": "Macpherson classed J.S. Mill's democracy as…",
    "o": [
+    "Developmental",
     "Protective",
-    "Equilibrium",
     "Participatory",
-    "Developmental"
+    "Equilibrium"
    ],
-   "a": 3,
+   "a": 0,
    "w": "Mill valued participation for its effect on character."
   },
   {
    "q": "Which Indian text is linked to Jayaswal's study of ancient republics?",
    "o": [
-    "Arthashastra of Kautilya",
     "The Argumentative Indian",
+    "Arthashastra of Kautilya",
     "Hindu Polity (1924)",
     "Discovery of India"
    ],

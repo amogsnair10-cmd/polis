@@ -59,32 +59,32 @@
   {
    "q": "The three-way division into hyperglobalists, sceptics and transformationalists comes from:",
    "o": [
-    "Waltz and Morgenthau",
     "Held, McGrew and colleagues",
     "Wendt and Katzenstein",
-    "Keohane and Nye"
+    "Keohane and Nye",
+    "Waltz and Morgenthau"
    ],
-   "a": 1,
+   "a": 0,
    "w": "Held et al.'s Global Transformations (1999)."
   },
   {
    "q": "Who wrote The Borderless World (1990)?",
    "o": [
-    "Thomas Friedman",
     "Joseph Stiglitz",
-    "Kenichi Ohmae",
-    "Dani Rodrik"
+    "Thomas Friedman",
+    "Dani Rodrik",
+    "Kenichi Ohmae"
    ],
-   "a": 2,
+   "a": 3,
    "w": "Kenichi Ohmae, a hyperglobalist."
   },
   {
    "q": "Globalization in Question (1996) by Hirst and Thompson belongs to which school?",
    "o": [
     "Sceptics",
-    "Hyperglobalists",
+    "Dependency theorists",
     "Transformationalists",
-    "Dependency theorists"
+    "Hyperglobalists"
    ],
    "a": 0,
    "w": "They argued that integration was not unprecedented and states remained central."
@@ -92,65 +92,65 @@
   {
    "q": "Dani Rodrik's trilemma says you cannot have all three of:",
    "o": [
-    "Growth, equality and democracy",
-    "Trade, aid and debt",
+    "Hyperglobalisation, national sovereignty and democratic politics",
     "Free speech, free press and free markets",
-    "Hyperglobalisation, national sovereignty and democratic politics"
+    "Growth, equality and democracy",
+    "Trade, aid and debt"
    ],
-   "a": 3,
+   "a": 0,
    "w": "You can pick only two of the three."
   },
   {
    "q": "The term 'Washington Consensus' was coined by:",
    "o": [
+    "Paul Volcker",
     "John Williamson",
     "Joseph Stiglitz",
-    "Milton Friedman",
-    "Paul Volcker"
+    "Milton Friedman"
    ],
-   "a": 0,
+   "a": 1,
    "w": "John Williamson, 1989."
   },
   {
    "q": "Joseph Stiglitz's Globalization and Its Discontents (2002) mainly criticises:",
    "o": [
-    "Multinational firms",
+    "IMF policies and the manner of liberalisation",
     "Trade unions",
     "The UN Security Council",
-    "IMF policies and the manner of liberalisation"
+    "Multinational firms"
    ],
-   "a": 3,
+   "a": 0,
    "w": "He argued IMF policies hurt developing countries, citing the 1997 Asian crisis."
   },
   {
    "q": "China became a WTO member in:",
    "o": [
-    "1995",
-    "1999",
     "2001",
+    "1999",
+    "1995",
     "2008"
    ],
-   "a": 2,
+   "a": 0,
    "w": "China joined on 11 December 2001."
   },
   {
    "q": "In February 2026, the US Supreme Court in Learning Resources v. Trump held that:",
    "o": [
-    "Tariffs can be imposed freely by the president",
     "The WTO has jurisdiction over US tariffs",
-    "Section 232 tariffs are invalid",
-    "IEEPA does not authorise the president to impose tariffs"
+    "Tariffs can be imposed freely by the president",
+    "IEEPA does not authorise the president to impose tariffs",
+    "Section 232 tariffs are invalid"
    ],
-   "a": 3,
+   "a": 2,
    "w": "The Court ruled 6-3 on 20 February 2026 that IEEPA does not authorise tariffs."
   },
   {
    "q": "India's major economic liberalisation began under:",
    "o": [
-    "Indira Gandhi in 1975",
-    "P.V. Narasimha Rao in 1991",
     "Rajiv Gandhi in 1985",
-    "Atal Bihari Vajpayee in 1998"
+    "P.V. Narasimha Rao in 1991",
+    "Atal Bihari Vajpayee in 1998",
+    "Indira Gandhi in 1975"
    ],
    "a": 1,
    "w": "The 1991 balance-of-payments crisis led to LPG reforms under Rao and Manmohan Singh."
@@ -158,8 +158,8 @@
   {
    "q": "Glocalisation, the idea that global products adapt to local contexts, is associated with:",
    "o": [
-    "Susan Strange",
     "Benjamin Barber",
+    "Susan Strange",
     "Roland Robertson",
     "Branko Milanovic"
    ],

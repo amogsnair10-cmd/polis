@@ -59,12 +59,12 @@
   {
    "q": "Karl Polanyi's The Great Transformation (1944) argues that:",
    "o": [
-    "Markets are created by states and need to be embedded in society",
-    "Markets are natural and self-regulating",
     "Capitalism ends in revolution",
-    "Planning always fails"
+    "Planning always fails",
+    "Markets are natural and self-regulating",
+    "Markets are created by states and need to be embedded in society"
    ],
-   "a": 0,
+   "a": 3,
    "w": "His 'double movement': society protects itself from unregulated markets."
   },
   {
@@ -72,8 +72,8 @@
    "o": [
     "Capitalist and socialist economies",
     "Liberal and coordinated market economies",
-    "Open and closed economies",
-    "Developed and developing economies"
+    "Developed and developing economies",
+    "Open and closed economies"
    ],
    "a": 1,
    "w": "E.g., the US versus Germany."
@@ -82,8 +82,8 @@
    "q": "'Decommodification' is a key concept in the work of:",
    "o": [
     "Peter Evans",
-    "Chalmers Johnson",
     "Mancur Olson",
+    "Chalmers Johnson",
     "Gosta Esping-Andersen"
    ],
    "a": 3,
@@ -92,65 +92,65 @@
   {
    "q": "Chalmers Johnson's MITI and the Japanese Miracle (1982) introduced the idea of the:",
    "o": [
-    "Developmental state",
-    "Welfare state",
     "Rentier state",
+    "Welfare state",
+    "Developmental state",
     "Failed state"
    ],
-   "a": 0,
+   "a": 2,
    "w": "A state that guides industrial growth through a pilot agency."
   },
   {
    "q": "The four cleavages of Lipset and Rokkan (1967) include:",
    "o": [
-    "Rich-poor",
     "Male-female",
     "Urban-rural caste",
-    "Owner-worker"
+    "Owner-worker",
+    "Rich-poor"
    ],
-   "a": 3,
+   "a": 2,
    "w": "Plus centre-periphery, state-church and land-industry."
   },
   {
    "q": "Putnam's Making Democracy Work (1993) studied:",
    "o": [
-    "German unions",
     "US school boards",
     "Regional governments in Italy",
-    "Indian panchayats"
+    "Indian panchayats",
+    "German unions"
    ],
-   "a": 2,
+   "a": 1,
    "w": "He linked civic associations and trust to government performance."
   },
   {
    "q": "The 'iron law of oligarchy' was formulated by:",
    "o": [
-    "Vilfredo Pareto",
     "Robert Michels",
-    "Robert Dahl",
-    "C. Wright Mills"
+    "C. Wright Mills",
+    "Vilfredo Pareto",
+    "Robert Dahl"
    ],
-   "a": 1,
+   "a": 0,
    "w": "Political Parties (1911)."
   },
   {
    "q": "Sartori's 1970 article warned against:",
    "o": [
-    "Using statistics",
-    "Studying India",
     "Concept stretching",
+    "Studying India",
+    "Using statistics",
     "Case studies"
    ],
-   "a": 2,
+   "a": 0,
    "w": "'Concept Misformation in Comparative Politics.'"
   },
   {
    "q": "Galton's problem in comparison refers to:",
    "o": [
     "Cases not being independent because of diffusion",
+    "Lack of funding",
     "Having too many cases",
-    "Wrong measurement units",
-    "Lack of funding"
+    "Wrong measurement units"
    ],
    "a": 0,
    "w": "Ideas and institutions spread between societies."
@@ -159,11 +159,11 @@
    "q": "Varshney's Ethnic Conflict and Civic Life (2002) found that Hindu-Muslim riots were lower where:",
    "o": [
     "The police were stronger",
+    "Inter-communal civic associations existed",
     "Incomes were higher",
-    "The army was deployed",
-    "Inter-communal civic associations existed"
+    "The army was deployed"
    ],
-   "a": 3,
+   "a": 1,
    "w": "He applied Putnam's social capital logic."
   }
  ],

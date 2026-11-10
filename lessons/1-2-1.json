@@ -59,85 +59,85 @@
   {
    "q": "The Directive Principles were borrowed from the constitution of…",
    "o": [
-    "Ireland",
     "Canada",
-    "USA",
-    "Germany"
+    "Ireland",
+    "Germany",
+    "USA"
    ],
-   "a": 0,
+   "a": 1,
    "w": "Ireland (1937)."
   },
   {
    "q": "Article 37 says the Directive Principles are…",
    "o": [
-    "Enforceable in court",
     "Not enforceable but fundamental in governance",
-    "Optional for States",
-    "Part of the Preamble"
+    "Enforceable in court",
+    "Part of the Preamble",
+    "Optional for States"
    ],
-   "a": 1,
+   "a": 0,
    "w": "They are non-justiciable but fundamental in governance."
   },
   {
    "q": "Article 31C was inserted by the…",
    "o": [
-    "1st Amendment",
-    "25th Amendment",
     "42nd Amendment",
-    "44th Amendment"
+    "44th Amendment",
+    "25th Amendment",
+    "1st Amendment"
    ],
-   "a": 1,
+   "a": 2,
    "w": "25th Amendment (1971)."
   },
   {
    "q": "Which case struck down the extension of Article 31C to all Directive Principles?",
    "o": [
+    "Champakam Dorairajan",
     "Golaknath",
     "Minerva Mills",
-    "Champakam Dorairajan",
     "Kesavananda"
    ],
-   "a": 1,
+   "a": 2,
    "w": "Minerva Mills (1980) stressed balance between Parts III and IV."
   },
   {
    "q": "Article 40 relates to…",
    "o": [
-    "Uniform Civil Code",
-    "Village panchayats",
     "Equal pay",
-    "Environment"
+    "Environment",
+    "Village panchayats",
+    "Uniform Civil Code"
    ],
-   "a": 1,
+   "a": 2,
    "w": "Organisation of village panchayats."
   },
   {
    "q": "Which Article contains the Uniform Civil Code directive?",
    "o": [
     "Article 41",
-    "Article 44",
     "Article 48",
-    "Article 51"
+    "Article 51",
+    "Article 44"
    ],
-   "a": 1,
+   "a": 3,
    "w": "Article 44."
   },
   {
    "q": "Which amendment added Article 48A (protection of environment)?",
    "o": [
-    "42nd",
+    "86th",
     "44th",
     "73rd",
-    "86th"
+    "42nd"
    ],
-   "a": 0,
+   "a": 3,
    "w": "42nd Amendment, 1976."
   },
   {
    "q": "Article 43B on cooperative societies was added by the…",
    "o": [
-    "73rd Amendment",
     "86th Amendment",
+    "73rd Amendment",
     "97th Amendment",
     "101st Amendment"
    ],
@@ -158,12 +158,12 @@
   {
    "q": "In November 2024 a nine-judge bench held that Article 39(b)…",
    "o": [
-    "Covers all private property",
-    "Does not automatically cover every private resource",
+    "Applies only to land",
     "Has been repealed",
-    "Applies only to land"
+    "Does not automatically cover every private resource",
+    "Covers all private property"
    ],
-   "a": 1,
+   "a": 2,
    "w": "Property Owners Association v. State of Maharashtra."
   }
  ],

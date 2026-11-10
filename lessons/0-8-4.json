@@ -64,23 +64,23 @@
   {
    "q": "Ambedkar said caste is not a division of labour but…",
    "o": [
-    "A division of property",
     "A division of labourers",
-    "A form of class",
-    "A religious duty"
+    "A religious duty",
+    "A division of property",
+    "A form of class"
    ],
-   "a": 1,
+   "a": 0,
    "w": "He called it a division of labourers, ranked by birth."
   },
   {
    "q": "The Poona Pact (1932) replaced separate electorates with…",
    "o": [
+    "Proportional representation",
     "Nominated members",
     "Joint electorates with reserved seats",
-    "Proportional representation",
     "Universal adult franchise"
    ],
-   "a": 1,
+   "a": 2,
    "w": "Joint electorates with reserved seats for the Depressed Classes."
   },
   {
@@ -88,8 +88,8 @@
    "o": [
     "John Dewey",
     "J.S. Mill",
-    "Harold Laski",
-    "Edmund Burke"
+    "Edmund Burke",
+    "Harold Laski"
    ],
    "a": 0,
    "w": "From John Dewey, his teacher at Columbia."
@@ -97,12 +97,12 @@
   {
    "q": "Which Article did Ambedkar call the 'heart and soul' of the Constitution?",
    "o": [
-    "Article 14",
     "Article 17",
+    "Article 32",
     "Article 21",
-    "Article 32"
+    "Article 14"
    ],
-   "a": 3,
+   "a": 1,
    "w": "Article 32, the right to constitutional remedies."
   },
   {
@@ -119,23 +119,23 @@
   {
    "q": "Ambedkar's motto was…",
    "o": [
-    "Do or die",
     "Educate, agitate, organise",
     "Truth alone triumphs",
+    "Do or die",
     "Workers of the world, unite"
    ],
-   "a": 1,
+   "a": 0,
    "w": "Of the Bahishkrit Hitakarini Sabha."
   },
   {
    "q": "The Mahad Satyagraha (1927) was about…",
    "o": [
-    "Temple entry",
-    "Access to a public water tank",
+    "Land rights",
     "Separate electorates",
-    "Land rights"
+    "Temple entry",
+    "Access to a public water tank"
    ],
-   "a": 1,
+   "a": 3,
    "w": "The Chavdar tank at Mahad."
   },
   {
@@ -153,22 +153,22 @@
    "q": "Ambedkar resigned as Law Minister in 1951 partly over…",
    "o": [
     "Kashmir",
-    "The Hindu Code Bill",
     "Reservation",
-    "Language"
+    "Language",
+    "The Hindu Code Bill"
    ],
-   "a": 1,
+   "a": 3,
    "w": "The Hindu Code Bill was stalled."
   },
   {
    "q": "Ambedkar converted to Buddhism in…",
    "o": [
-    "Mahad, 1927",
-    "Yeola, 1935",
     "Nagpur, 1956",
-    "Delhi, 1950"
+    "Delhi, 1950",
+    "Yeola, 1935",
+    "Mahad, 1927"
    ],
-   "a": 2,
+   "a": 0,
    "w": "14 October 1956 at Nagpur."
   }
  ],

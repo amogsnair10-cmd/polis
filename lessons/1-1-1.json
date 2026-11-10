@@ -69,31 +69,31 @@
   {
    "q": "The Constituent Assembly held its first meeting on…",
    "o": [
-    "9 December 1946",
-    "15 August 1947",
     "26 November 1949",
-    "22 January 1947"
+    "9 December 1946",
+    "22 January 1947",
+    "15 August 1947"
    ],
-   "a": 0,
+   "a": 1,
    "w": "Sachchidananda Sinha was the temporary chair; Rajendra Prasad was elected President two days later."
   },
   {
    "q": "The Objectives Resolution was moved by…",
    "o": [
     "Ambedkar",
+    "Rajendra Prasad",
     "Nehru",
-    "Patel",
-    "Rajendra Prasad"
+    "Patel"
    ],
-   "a": 1,
+   "a": 2,
    "w": "On 13 December 1946; adopted on 22 January 1947."
   },
   {
    "q": "The Drafting Committee was chaired by…",
    "o": [
-    "B.N. Rau",
-    "B.R. Ambedkar",
     "K.M. Munshi",
+    "B.R. Ambedkar",
+    "B.N. Rau",
     "Alladi Krishnaswami Ayyar"
    ],
    "a": 1,
@@ -102,31 +102,31 @@
   {
    "q": "Granville Austin's book on the Constitution is titled…",
    "o": [
-    "Seamless Web",
-    "The Making of India",
     "Cornerstone of a Nation",
-    "Framing India"
+    "The Making of India",
+    "Framing India",
+    "Seamless Web"
    ],
-   "a": 2,
+   "a": 0,
    "w": "The Indian Constitution: Cornerstone of a Nation (1966)."
   },
   {
    "q": "Which three strands does Austin identify?",
    "o": [
+    "Rights, duties, directives",
     "Liberty, equality, property",
     "National unity, democracy, social revolution",
-    "Federalism, secularism, socialism",
-    "Rights, duties, directives"
+    "Federalism, secularism, socialism"
    ],
-   "a": 1,
+   "a": 2,
    "w": "He sees them as a seamless web."
   },
   {
    "q": "Under the Munshi-Ayyangar formula, English was to continue for…",
    "o": [
     "15 years",
-    "10 years",
     "25 years",
+    "10 years",
     "Indefinitely"
    ],
    "a": 0,
@@ -135,12 +135,12 @@
   {
    "q": "Article 343 makes which language the official language of the Union?",
    "o": [
-    "Hindustani",
-    "Sanskrit",
+    "Hindi in Devanagari script",
     "English only",
-    "Hindi in Devanagari script"
+    "Hindustani",
+    "Sanskrit"
    ],
-   "a": 3,
+   "a": 0,
    "w": "Hindi is the official, not the national, language."
   },
   {
@@ -157,23 +157,23 @@
   {
    "q": "In his 25 November 1949 speech, 'grammar of anarchy' refers to…",
    "o": [
-    "Coalition governments",
     "Judicial overreach",
-    "Unconstitutional methods like civil disobedience",
-    "Presidential rule"
+    "Coalition governments",
+    "Presidential rule",
+    "Unconstitutional methods like civil disobedience"
    ],
-   "a": 2,
+   "a": 3,
    "w": "Ambedkar urged citizens to give them up under the new constitutional order."
   },
   {
    "q": "Constitution Day (26 November) has been observed since…",
    "o": [
-    "1950",
     "1975",
-    "2000",
-    "2015"
+    "1950",
+    "2015",
+    "2000"
    ],
-   "a": 3,
+   "a": 2,
    "w": "Declared in 2015, around Ambedkar's 125th birth anniversary."
   }
  ],

@@ -69,30 +69,30 @@
   {
    "q": "Max Weber defined the state through its monopoly of:",
    "o": [
-    "Legitimate use of physical force",
-    "Economic production",
     "Religious authority",
-    "Legislative power"
+    "Economic production",
+    "Legislative power",
+    "Legitimate use of physical force"
    ],
-   "a": 0,
+   "a": 3,
    "w": "'Politics as a Vocation' (1919)."
   },
   {
    "q": "'War made the state, and the state made war' is a line associated with:",
    "o": [
-    "Charles Tilly",
     "Michael Mann",
     "Joel Migdal",
-    "Theda Skocpol"
+    "Theda Skocpol",
+    "Charles Tilly"
    ],
-   "a": 0,
+   "a": 3,
    "w": "Tilly's study of European state formation."
   },
   {
    "q": "Michael Mann's 'infrastructural power' refers to:",
    "o": [
-    "The power of rulers to act without consent",
     "Control of roads and railways",
+    "The power of rulers to act without consent",
     "The state's ability to implement decisions throughout society",
     "Military spending"
    ],
@@ -102,9 +102,9 @@
   {
    "q": "Ralph Miliband's The State in Capitalist Society (1969) is an example of which Marxist view?",
    "o": [
+    "Pluralist",
     "Structuralist",
     "Anarchist",
-    "Pluralist",
     "Instrumentalist"
    ],
    "a": 3,
@@ -113,53 +113,53 @@
   {
    "q": "Hamza Alavi's 1972 article argued that post-colonial states are:",
    "o": [
-    "Weaker than their societies",
+    "Overdeveloped and dominated by a bureaucratic-military oligarchy",
     "Controlled by landlords only",
-    "Always democratic",
-    "Overdeveloped and dominated by a bureaucratic-military oligarchy"
+    "Weaker than their societies",
+    "Always democratic"
    ],
-   "a": 3,
+   "a": 0,
    "w": "The colonial apparatus preceded local class formation."
   },
   {
    "q": "Robert Jackson's Quasi-States (1990) argues that many African states:",
    "o": [
     "Have strong internal capacity",
+    "Are rentier",
     "Survive on external recognition of sovereignty",
-    "Are developmental",
-    "Are rentier"
+    "Are developmental"
    ],
-   "a": 1,
+   "a": 2,
    "w": "Juridical statehood without empirical statehood."
   },
   {
    "q": "Joel Migdal's Strong Societies and Weak States (1988) suggests:",
    "o": [
-    "States are always strong",
     "Elites are weak",
     "Societies resist and bypass state rules",
-    "Globalisation ends sovereignty"
+    "Globalisation ends sovereignty",
+    "States are always strong"
    ],
-   "a": 2,
+   "a": 1,
    "w": "Local strongmen and social organisations compete with the state."
   },
   {
    "q": "Who coined the 'new class' critique of Communist rule in 1957?",
    "o": [
-    "Leon Trotsky",
-    "Nikita Khrushchev",
+    "Ralph Miliband",
     "Milovan Djilas",
-    "Ralph Miliband"
+    "Leon Trotsky",
+    "Nikita Khrushchev"
    ],
-   "a": 2,
+   "a": 1,
    "w": "The party bureaucracy became a ruling class."
   },
   {
    "q": "'Embedded autonomy' is a concept of:",
    "o": [
     "Gunnar Myrdal",
-    "Alice Amsden",
     "Charles Tilly",
+    "Alice Amsden",
     "Peter Evans"
    ],
    "a": 3,
@@ -168,12 +168,12 @@
   {
    "q": "Partha Chatterjee's 'political society' describes:",
    "o": [
-    "Elite clubs",
     "How the poor negotiate with the state outside formal civil society",
+    "Corporate lobbying",
     "Trade unions",
-    "Corporate lobbying"
+    "Elite clubs"
    ],
-   "a": 1,
+   "a": 0,
    "w": "The Politics of the Governed (2004)."
   }
  ],

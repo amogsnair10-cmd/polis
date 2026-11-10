@@ -59,10 +59,10 @@
   {
    "q": "Which law passed by the US Congress in 2006 enabled the civil nuclear cooperation with India?",
    "o": [
-    "Glenn Amendment",
+    "CAATSA",
     "Hyde Act",
     "Pressler Amendment",
-    "CAATSA"
+    "Glenn Amendment"
    ],
    "a": 1,
    "w": "The Henry J. Hyde United States-India Peaceful Atomic Energy Cooperation Act (2006) enabled the deal."
@@ -70,12 +70,12 @@
   {
    "q": "The NSG granted India a clean waiver on:",
    "o": [
-    "18 July 2005",
     "6 September 2008",
     "10 October 2008",
+    "18 July 2005",
     "11 May 1998"
    ],
-   "a": 1,
+   "a": 0,
    "w": "The NSG waiver was granted on 6 September 2008. The 123 Agreement was signed on 10 October 2008."
   },
   {
@@ -92,21 +92,21 @@
   {
    "q": "The US gave India the label 'Major Defense Partner' in:",
    "o": [
-    "2005",
-    "2008",
+    "2020",
     "2016",
-    "2020"
+    "2005",
+    "2008"
    ],
-   "a": 2,
+   "a": 1,
    "w": "The designation came in June 2016, during Obama's presidency."
   },
   {
    "q": "The Next Steps in Strategic Partnership (NSSP) was launched in:",
    "o": [
     "January 2004",
-    "July 2005",
+    "September 2008",
     "March 2000",
-    "September 2008"
+    "July 2005"
    ],
    "a": 0,
    "w": "NSSP was announced in January 2004 under Vajpayee and Bush."
@@ -115,42 +115,42 @@
    "q": "The combined US tariff on most Indian goods from 27 August 2025 was:",
    "o": [
     "10%",
-    "25%",
     "50%",
-    "100%"
+    "100%",
+    "25%"
    ],
-   "a": 2,
+   "a": 1,
    "w": "25% reciprocal plus 25% penalty linked to Russian oil gave 50%."
   },
   {
    "q": "India's stated position on Trump's claim of mediating the May 2025 ceasefire was that:",
    "o": [
+    "China mediated it",
     "It welcomed US mediation",
-    "The understanding was reached directly between DGMOs",
     "The UN brokered it",
-    "China mediated it"
+    "The understanding was reached directly between DGMOs"
    ],
-   "a": 1,
+   "a": 3,
    "w": "India said it was a bilateral understanding via DGMO hotline and rejected mediation."
   },
   {
    "q": "In February 2026 the US Supreme Court held that:",
    "o": [
+    "Section 301 is invalid",
     "The tariff on India was legal",
-    "IEEPA does not authorise tariffs",
     "India must sign the deal",
-    "Section 301 is invalid"
+    "IEEPA does not authorise tariffs"
    ],
-   "a": 1,
+   "a": 3,
    "w": "The Court ruled the IEEPA law did not authorise the tariffs."
   },
   {
    "q": "The Pokhran-II tests that triggered US sanctions took place in:",
    "o": [
-    "1974",
     "1991",
+    "2008",
     "1998",
-    "2008"
+    "1974"
    ],
    "a": 2,
    "w": "11 and 13 May 1998."
@@ -158,12 +158,12 @@
   {
    "q": "'Multi-alignment' as a description of Indian policy is associated with:",
    "o": [
-    "Jawaharlal Nehru",
-    "I.K. Gujral",
     "S. Jaishankar",
-    "Rajiv Gandhi"
+    "I.K. Gujral",
+    "Rajiv Gandhi",
+    "Jawaharlal Nehru"
    ],
-   "a": 2,
+   "a": 0,
    "w": "Jaishankar popularised it in <i>The India Way</i> (2020) and speeches."
   }
  ],

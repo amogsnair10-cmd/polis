@@ -59,111 +59,111 @@
   {
    "q": "The Security Council was enlarged from 11 to 15 members in:",
    "o": [
-    "1963 (effective 1965)",
     "1945",
+    "1992",
     "1971",
-    "1992"
+    "1963 (effective 1965)"
    ],
-   "a": 0,
+   "a": 3,
    "w": "By GA Resolution 1991 (XVIII) of 1963, effective 1965."
   },
   {
    "q": "Which Article lets the P5 block Charter amendments through ratification?",
    "o": [
+    "Article 99",
     "Article 108",
     "Article 51",
-    "Article 42",
-    "Article 99"
+    "Article 42"
    ],
-   "a": 0,
+   "a": 1,
    "w": "Articles 108 and 109 require ratification by two-thirds including all P5."
   },
   {
    "q": "The G4 comprises India, Brazil, Japan and:",
    "o": [
-    "Germany",
-    "Italy",
     "South Africa",
-    "Nigeria"
+    "Nigeria",
+    "Italy",
+    "Germany"
    ],
-   "a": 0,
+   "a": 3,
    "w": "Germany."
   },
   {
    "q": "The Uniting for Consensus group is led mainly by Italy and:",
    "o": [
-    "Pakistan",
     "Brazil",
     "Egypt",
+    "Pakistan",
     "Japan"
    ],
-   "a": 0,
+   "a": 2,
    "w": "Pakistan, also Canada, Spain, Argentina and others."
   },
   {
    "q": "The African Union's common position on UNSC reform is called the:",
    "o": [
-    "Ezulwini Consensus",
     "Delhi Consensus",
+    "Ezulwini Consensus",
     "Brasilia Declaration",
     "Havana Charter"
    ],
-   "a": 0,
+   "a": 1,
    "w": "Ezulwini Consensus (2005)."
   },
   {
    "q": "How many times has India been an elected UNSC member through 2022?",
    "o": [
-    "Eight",
     "Five",
-    "Three",
-    "Eleven"
+    "Eleven",
+    "Eight",
+    "Three"
    ],
-   "a": 0,
+   "a": 2,
    "w": "Eight terms, most recently 2021-22."
   },
   {
    "q": "The IGN on Security Council reform has been running since:",
    "o": [
-    "2009",
-    "1993",
     "2015",
-    "2022"
+    "1993",
+    "2022",
+    "2009"
    ],
-   "a": 0,
+   "a": 3,
    "w": "Intergovernmental negotiations began in 2009."
   },
   {
    "q": "UNGA Resolution 76/262 (2022) concerns:",
    "o": [
-    "A debate in the Assembly after any veto",
-    "Admitting new members",
     "Peacekeeping budgets",
-    "Nuclear disarmament"
+    "Nuclear disarmament",
+    "Admitting new members",
+    "A debate in the Assembly after any veto"
    ],
-   "a": 0,
+   "a": 3,
    "w": "The 'veto initiative' mandates a GA debate within 10 working days of a veto."
   },
   {
    "q": "Which 2024 document first committed UN members to reform the Security Council in a major outcome text?",
    "o": [
-    "Pact for the Future",
-    "Agenda 2030",
     "Millennium Declaration",
-    "Rio Declaration"
+    "Agenda 2030",
+    "Rio Declaration",
+    "Pact for the Future"
    ],
-   "a": 0,
+   "a": 3,
    "w": "The Pact for the Future, September 2024."
   },
   {
    "q": "Which leader declared in the Indian Parliament in 2010 that he looked forward to India as a permanent member?",
    "o": [
-    "Barack Obama",
-    "George W. Bush",
+    "Vladimir Putin",
     "Bill Clinton",
-    "Vladimir Putin"
+    "George W. Bush",
+    "Barack Obama"
    ],
-   "a": 0,
+   "a": 3,
    "w": "Barack Obama, November 2010."
   }
  ],

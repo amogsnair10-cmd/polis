@@ -65,53 +65,53 @@
    "q": "Dyarchy at the provincial level was introduced by…",
    "o": [
     "Government of India Act 1909",
-    "Government of India Act 1919",
+    "Charter Act 1833",
     "Government of India Act 1935",
-    "Charter Act 1833"
+    "Government of India Act 1919"
    ],
-   "a": 1,
+   "a": 3,
    "w": "Reserved and transferred subjects; the Montagu-Chelmsford reforms."
   },
   {
    "q": "Separate electorates for Muslims were granted by the…",
    "o": [
-    "Indian Councils Act 1892",
-    "Montagu-Chelmsford Reforms 1919",
+    "Cabinet Mission Plan 1946",
     "Morley-Minto Reforms 1909",
-    "Cabinet Mission Plan 1946"
+    "Indian Councils Act 1892",
+    "Montagu-Chelmsford Reforms 1919"
    ],
-   "a": 2,
+   "a": 1,
    "w": "The 1909 Act."
   },
   {
    "q": "Which institution was established under the 1935 Act as a forerunner of the Supreme Court?",
    "o": [
-    "Privy Council",
     "Sadar Diwani Adalat",
-    "High Court of Calcutta",
-    "Federal Court of India"
+    "Federal Court of India",
+    "Privy Council",
+    "High Court of Calcutta"
    ],
-   "a": 3,
+   "a": 1,
    "w": "Started in 1937."
   },
   {
    "q": "Article 356 has its origin in Section 93 of the…",
    "o": [
-    "1919 Act",
     "Independence Act 1947",
+    "1935 Act",
     "1909 Act",
-    "1935 Act"
+    "1919 Act"
    ],
-   "a": 3,
+   "a": 1,
    "w": "Governor's rule when provincial government failed."
   },
   {
    "q": "The first Law Member of the Governor-General's council under the Charter Act 1833 was…",
    "o": [
-    "Hastings",
+    "Curzon",
     "Macaulay",
-    "Dalhousie",
-    "Curzon"
+    "Hastings",
+    "Dalhousie"
    ],
    "a": 1,
    "w": "Thomas Babington Macaulay."
@@ -119,23 +119,23 @@
   {
    "q": "The Nehru Report was submitted in…",
    "o": [
-    "1928",
-    "1931",
+    "1945",
     "1935",
-    "1945"
+    "1931",
+    "1928"
    ],
-   "a": 0,
+   "a": 3,
    "w": "A draft constitution by a committee under Motilal Nehru."
   },
   {
    "q": "The Karachi Resolution of 1931 is notable for…",
    "o": [
-    "Purna Swaraj",
     "Quit India",
-    "Fundamental rights and an economic programme",
-    "Dominion Status"
+    "Dominion Status",
+    "Purna Swaraj",
+    "Fundamental rights and an economic programme"
    ],
-   "a": 2,
+   "a": 3,
    "w": "It listed rights and welfare aims later reflected in Parts III and IV."
   },
   {
@@ -143,32 +143,32 @@
    "o": [
     "Simon Commission",
     "Cabinet Mission",
-    "Sapru Committee",
-    "Lothian Committee"
+    "Lothian Committee",
+    "Sapru Committee"
    ],
-   "a": 2,
+   "a": 3,
    "w": "Headed by Tej Bahadur Sapru."
   },
   {
    "q": "The Supreme Court put Section 124A (sedition) in abeyance in…",
    "o": [
-    "2022",
-    "2015",
     "2018",
-    "2024"
+    "2015",
+    "2024",
+    "2022"
    ],
-   "a": 0,
+   "a": 3,
    "w": "In May 2022 in S.G. Vombatkere v Union of India."
   },
   {
    "q": "The new criminal codes (BNS, BNSS, BSA) came into force on…",
    "o": [
+    "1 January 2025",
     "26 January 2024",
     "1 July 2024",
-    "15 August 2023",
-    "1 January 2025"
+    "15 August 2023"
    ],
-   "a": 1,
+   "a": 2,
    "w": "They replaced the IPC, CrPC and Evidence Act."
   }
  ],

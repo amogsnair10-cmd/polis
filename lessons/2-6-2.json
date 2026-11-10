@@ -59,86 +59,86 @@
   {
    "q": "'The Unipolar Moment' (1990-91) was written by:",
    "o": [
+    "Fareed Zakaria",
     "Francis Fukuyama",
     "Charles Krauthammer",
-    "Fareed Zakaria",
     "John Mearsheimer"
    ],
-   "a": 1,
+   "a": 2,
    "w": "Krauthammer's essay appeared in Foreign Affairs."
   },
   {
    "q": "William Wohlforth's 1999 article argued that unipolarity is:",
    "o": [
-    "Peaceful and durable",
     "Unstable and short-lived",
+    "Peaceful and durable",
     "Impossible",
     "The same as bipolarity"
    ],
-   "a": 0,
+   "a": 1,
    "w": "'The Stability of a Unipolar World' (International Security)."
   },
   {
    "q": "Hegemonic stability theory is associated with:",
    "o": [
-    "Waltz and Keohane",
     "Wendt and Katzenstein",
+    "Kindleberger and Gilpin",
     "Lenin and Hobson",
-    "Kindleberger and Gilpin"
+    "Waltz and Keohane"
    ],
-   "a": 3,
+   "a": 1,
    "w": "A hegemon supplies public goods for an open world economy."
   },
   {
    "q": "G. John Ikenberry's Liberal Leviathan (2011) is about:",
    "o": [
-    "Soviet decline",
-    "The US-led liberal international order",
     "Chinese expansion",
-    "Terrorism"
+    "Terrorism",
+    "Soviet decline",
+    "The US-led liberal international order"
    ],
-   "a": 1,
+   "a": 3,
    "w": "He argued that the US built a rules-based order that others joined."
   },
   {
    "q": "The Post-American World (2008) is by:",
    "o": [
-    "Richard Haass",
-    "Joseph Nye",
+    "Paul Kennedy",
     "Fareed Zakaria",
-    "Paul Kennedy"
+    "Richard Haass",
+    "Joseph Nye"
    ],
-   "a": 2,
+   "a": 1,
    "w": "Zakaria's 'rise of the rest'."
   },
   {
    "q": "Paul Kennedy's The Rise and Fall of the Great Powers (1987) warned about:",
    "o": [
-    "Soft power",
-    "Nuclear proliferation",
+    "Democratic peace",
     "Imperial overstretch",
-    "Democratic peace"
+    "Soft power",
+    "Nuclear proliferation"
    ],
-   "a": 2,
+   "a": 1,
    "w": "Great powers decline when commitments outrun economic strength."
   },
   {
    "q": "BRICS expanded in January 2024 to include:",
    "o": [
+    "Argentina, Saudi Arabia, Bangladesh and Kenya",
     "Egypt, Ethiopia, Iran and the UAE",
-    "Turkey, Mexico, Pakistan and Nigeria",
     "Vietnam, Thailand, Algeria and Cuba",
-    "Argentina, Saudi Arabia, Bangladesh and Kenya"
+    "Turkey, Mexico, Pakistan and Nigeria"
    ],
-   "a": 0,
+   "a": 1,
    "w": "Indonesia joined in January 2025."
   },
   {
    "q": "In February 2026, the US Supreme Court held in Learning Resources v. Trump that:",
    "o": [
+    "The WTO may review US tariffs",
     "Congress cannot regulate trade",
     "Section 232 tariffs are void",
-    "The WTO may review US tariffs",
     "IEEPA does not authorise presidential tariffs"
    ],
    "a": 3,
@@ -147,23 +147,23 @@
   {
    "q": "India's 2023 G20 presidency ended with the African Union becoming:",
    "o": [
-    "An observer",
+    "A permanent member",
     "A guest",
     "A suspended member",
-    "A permanent member"
+    "An observer"
    ],
-   "a": 3,
+   "a": 0,
    "w": "The AU became a permanent G20 member at the New Delhi summit."
   },
   {
    "q": "Which book by Amitav Acharya describes a 'multiplex world'?",
    "o": [
-    "After Victory (2001)",
     "The End of American World Order (2014)",
+    "World Out of Balance (2008)",
     "The Clash of Civilizations (1996)",
-    "World Out of Balance (2008)"
+    "After Victory (2001)"
    ],
-   "a": 1,
+   "a": 0,
    "w": "Acharya argued that the future order has many actors and no single leader."
   }
  ],

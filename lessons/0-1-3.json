@@ -54,10 +54,10 @@
   {
    "q": "The 'overdeveloped state' concept was given by…",
    "o": [
-    "Partha Chatterjee",
+    "Rajni Kothari",
     "Hamza Alavi",
-    "Gunnar Myrdal",
-    "Rajni Kothari"
+    "Partha Chatterjee",
+    "Gunnar Myrdal"
    ],
    "a": 1,
    "w": "Hamza Alavi, 1972."
@@ -65,75 +65,75 @@
   {
    "q": "'Soft state' was coined by…",
    "o": [
-    "Myrdal",
+    "Kaviraj",
     "Alavi",
-    "Bardhan",
-    "Kaviraj"
+    "Myrdal",
+    "Bardhan"
    ],
-   "a": 0,
+   "a": 2,
    "w": "Gunnar Myrdal, Asian Drama (1968)."
   },
   {
    "q": "Chatterjee's 'political society' refers to…",
    "o": [
-    "Political parties",
-    "The elite of citizens",
     "The majority who negotiate with the state",
-    "The bureaucracy"
+    "The elite of citizens",
+    "The bureaucracy",
+    "Political parties"
    ],
-   "a": 2,
+   "a": 0,
    "w": "The governed majority who deal with the state via welfare and negotiation."
   },
   {
    "q": "In Alavi's model, who mediates between propertied classes?",
    "o": [
     "Parliament",
+    "Media",
     "Military-bureaucratic oligarchy",
-    "Judiciary",
-    "Media"
+    "Judiciary"
    ],
-   "a": 1,
+   "a": 2,
    "w": "The military-bureaucratic oligarchy."
   },
   {
    "q": "Subaltern Studies is associated with…",
    "o": [
-    "Partha Chatterjee",
-    "Robert Dahl",
     "Hayek",
-    "Laski"
+    "Laski",
+    "Robert Dahl",
+    "Partha Chatterjee"
    ],
-   "a": 0,
+   "a": 3,
    "w": "Chatterjee was a core member of the Subaltern Studies collective."
   },
   {
    "q": "Hamza Alavi studied the post-colonial state mainly in…",
    "o": [
-    "India and Sri Lanka",
-    "Pakistan and Bangladesh",
     "Nigeria and Ghana",
-    "Indonesia"
+    "India and Sri Lanka",
+    "Indonesia",
+    "Pakistan and Bangladesh"
    ],
-   "a": 1,
+   "a": 3,
    "w": "His 1972 New Left Review essay."
   },
   {
    "q": "Atul Kohli called India a…",
    "o": [
-    "Cohesive-capitalist state",
     "Fragmented-multiclass state",
     "Neo-patrimonial state",
-    "Soft state"
+    "Soft state",
+    "Cohesive-capitalist state"
    ],
-   "a": 1,
+   "a": 0,
    "w": "State-Directed Development (2004)."
   },
   {
    "q": "Pranab Bardhan's three dominant proprietary classes do NOT include…",
    "o": [
     "Industrial capitalists",
-    "Rich farmers",
     "Professionals and bureaucrats",
+    "Rich farmers",
     "Landless labourers"
    ],
    "a": 3,
@@ -142,21 +142,21 @@
   {
    "q": "Rudolph and Rudolph called the Indian state a…",
    "o": [
+    "Garrison state",
     "Weak-strong state",
-    "Night-watchman state",
     "Hegemonic state",
-    "Garrison state"
+    "Night-watchman state"
    ],
-   "a": 0,
+   "a": 1,
    "w": "In Pursuit of Lakshmi (1987)."
   },
   {
    "q": "Which law replaced the Indian Penal Code in 2024?",
    "o": [
-    "Bharatiya Nagarik Suraksha Sanhita",
+    "Criminal Procedure Code",
     "Bharatiya Nyaya Sanhita",
-    "Bharatiya Sakshya Adhiniyam",
-    "Criminal Procedure Code"
+    "Bharatiya Nagarik Suraksha Sanhita",
+    "Bharatiya Sakshya Adhiniyam"
    ],
    "a": 1,
    "w": "The Bharatiya Nyaya Sanhita, in force from 1 July 2024."

@@ -69,12 +69,12 @@
   {
    "q": "The Congress Socialist Party was founded in…",
    "o": [
-    "1920",
     "1942",
-    "1934",
-    "1947"
+    "1920",
+    "1947",
+    "1934"
    ],
-   "a": 2,
+   "a": 3,
    "w": "Inside the Congress, by JP, Narendra Dev, Lohia and others."
   },
   {
@@ -91,78 +91,78 @@
   {
    "q": "Lohia's Wheel of History was published in…",
    "o": [
+    "1955",
     "1936",
     "1947",
-    "1974",
-    "1955"
+    "1974"
    ],
-   "a": 3,
+   "a": 0,
    "w": "Ram Manohar Lohia."
   },
   {
    "q": "Partyless democracy and Sarvodaya are linked with…",
    "o": [
+    "Jayaprakash Narayan",
     "R.P. Dutt",
     "S.A. Dange",
-    "Jayaprakash Narayan",
     "Ranade"
    ],
-   "a": 2,
+   "a": 0,
    "w": "JP's A Plea for Reconstruction of Indian Polity (1959)."
   },
   {
    "q": "The Radical Democratic Party (1940) was founded by…",
    "o": [
-    "Ambedkar",
-    "Lohia",
     "M.N. Roy",
-    "Bose"
+    "Bose",
+    "Ambedkar",
+    "Lohia"
    ],
-   "a": 2,
+   "a": 0,
    "w": "Roy later developed New Humanism."
   },
   {
    "q": "M.N. Roy disagreed with Lenin at the Second Comintern Congress on…",
    "o": [
-    "Land reform",
     "The role of colonial nationalists",
-    "Trade unions",
-    "The peasants' tax"
+    "Land reform",
+    "The peasants' tax",
+    "Trade unions"
    ],
-   "a": 1,
+   "a": 0,
    "w": "Roy doubted that bourgeois nationalists were reliable allies."
   },
   {
    "q": "Gulamgiri (1873) was written by…",
    "o": [
-    "Ambedkar",
     "Jotirao Phule",
+    "Ambedkar",
     "Periyar",
     "Iyothee Thass"
    ],
-   "a": 1,
+   "a": 0,
    "w": "Jotirao Phule, founder of the Satyashodhak Samaj."
   },
   {
    "q": "The Mahad satyagraha (1927) concerned…",
    "o": [
-    "Access to a public water tank",
     "Temple entry",
     "Salt law",
-    "Separate electorates"
+    "Separate electorates",
+    "Access to a public water tank"
    ],
-   "a": 0,
+   "a": 3,
    "w": "Chavdar Tank; Manusmriti was burnt."
   },
   {
    "q": "Under the Poona Pact, Ambedkar agreed to…",
    "o": [
-    "Support Quit India",
-    "Give up separate electorates for reserved seats",
     "Join the Congress",
-    "Start the Scheduled Castes Federation"
+    "Start the Scheduled Castes Federation",
+    "Support Quit India",
+    "Give up separate electorates for reserved seats"
    ],
-   "a": 1,
+   "a": 3,
    "w": "Reserved seats rose from 71 to 148."
   },
   {

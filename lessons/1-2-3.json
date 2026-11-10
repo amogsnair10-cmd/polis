@@ -11,7 +11,7 @@
   {
    "tag": "Core idea",
    "h": "How the doctrine evolved",
-   "b": "<svg class=\"d\" viewBox=\"0 0 320 150\"><g font-size=\"9.5\" fill=\"#1d2433\" text-anchor=\"middle\"><rect x=\"6\" y=\"8\" width=\"96\" height=\"40\" rx=\"6\" fill=\"#f1e4c6\" stroke=\"#a8792a\"/><text x=\"54\" y=\"24\" font-weight=\"700\">1951, 1965</text><text x=\"54\" y=\"38\">Parliament can amend rights</text><rect x=\"112\" y=\"8\" width=\"96\" height=\"40\" rx=\"6\" fill=\"#f4dcd5\" stroke=\"#a3362a\"/><text x=\"160\" y=\"24\" font-weight=\"700\">1967 Golaknath</text><text x=\"160\" y=\"38\">It cannot</text><rect x=\"218\" y=\"8\" width=\"96\" height=\"40\" rx=\"6\" fill=\"#f1e4c6\" stroke=\"#a8792a\"/><text x=\"266\" y=\"24\" font-weight=\"700\">1971 24th, 25th</text><text x=\"266\" y=\"38\">Parliament hits back</text><rect x=\"6\" y=\"62\" width=\"96\" height=\"40\" rx=\"6\" fill=\"#dceaec\" stroke=\"#2f6f7a\"/><text x=\"54\" y=\"78\" font-weight=\"700\">1973 Kesavananda</text><text x=\"54\" y=\"92\">Basic structure, 7:6</text><rect x=\"112\" y=\"62\" width=\"96\" height=\"40\" rx=\"6\" fill=\"#f1e4c6\" stroke=\"#a8792a\"/><text x=\"160\" y=\"78\" font-weight=\"700\">1975-76 Emergency</text><text x=\"160\" y=\"92\">39th, 42nd, ADM Jabalpur</text><rect x=\"218\" y=\"62\" width=\"96\" height=\"40\" rx=\"6\" fill=\"#dceaec\" stroke=\"#2f6f7a\"/><text x=\"266\" y=\"78\" font-weight=\"700\">1980 Minerva Mills</text><text x=\"266\" y=\"92\">Limited power basic</text><rect x=\"6\" y=\"112\" width=\"308\" height=\"30\" rx=\"6\" fill=\"#fff\" stroke=\"#5d6474\"/><text x=\"160\" y=\"131\">2007 Coelho: Ninth Schedule laws reviewable</text></g></svg><p>The idea of implied limits came from German jurist <b>Dietrich Conrad</b>, whose 1965 lecture at Banaras Hindu University was cited by Justice <b>Mudholkar</b> in his <i>Sajjan Singh</i> dissent. <b>Nani Palkhivala</b> argued the case for the petitioners in <i>Kesavananda</i>.</p>"
+   "b": "<svg class=\"d\" viewBox=\"0 0 320 150\"><g font-size=\"10\" fill=\"#1d2433\" text-anchor=\"middle\"><rect x=\"6\" y=\"8\" width=\"96\" height=\"40\" rx=\"6\" fill=\"#f1e4c6\" stroke=\"#a8792a\"/><text x=\"54\" y=\"24\" font-weight=\"700\">1951, 1965</text><text x=\"54\" y=\"38\">Parliament can amend rights</text><rect x=\"112\" y=\"8\" width=\"96\" height=\"40\" rx=\"6\" fill=\"#f4dcd5\" stroke=\"#a3362a\"/><text x=\"160\" y=\"24\" font-weight=\"700\">1967 Golaknath</text><text x=\"160\" y=\"38\">It cannot</text><rect x=\"218\" y=\"8\" width=\"96\" height=\"40\" rx=\"6\" fill=\"#f1e4c6\" stroke=\"#a8792a\"/><text x=\"266\" y=\"24\" font-weight=\"700\">1971 24th, 25th</text><text x=\"266\" y=\"38\">Parliament hits back</text><rect x=\"6\" y=\"62\" width=\"96\" height=\"40\" rx=\"6\" fill=\"#dceaec\" stroke=\"#2f6f7a\"/><text x=\"54\" y=\"78\" font-weight=\"700\">1973 Kesavananda</text><text x=\"54\" y=\"92\">Basic structure, 7:6</text><rect x=\"112\" y=\"62\" width=\"96\" height=\"40\" rx=\"6\" fill=\"#f1e4c6\" stroke=\"#a8792a\"/><text x=\"160\" y=\"78\" font-weight=\"700\">1975-76 Emergency</text><text x=\"160\" y=\"92\">39th, 42nd, ADM Jabalpur</text><rect x=\"218\" y=\"62\" width=\"96\" height=\"40\" rx=\"6\" fill=\"#dceaec\" stroke=\"#2f6f7a\"/><text x=\"266\" y=\"78\" font-weight=\"700\">1980 Minerva Mills</text><text x=\"266\" y=\"92\">Limited power basic</text><rect x=\"6\" y=\"112\" width=\"308\" height=\"30\" rx=\"6\" fill=\"#fff\" stroke=\"#5d6474\"/><text x=\"160\" y=\"131\">2007 Coelho: Ninth Schedule laws reviewable</text></g></svg><p>The idea of implied limits came from German jurist <b>Dietrich Conrad</b>, whose 1965 lecture at Banaras Hindu University was cited by Justice <b>Mudholkar</b> in his <i>Sajjan Singh</i> dissent. <b>Nani Palkhivala</b> argued the case for the petitioners in <i>Kesavananda</i>.</p>"
   },
   {
    "tag": "Key idea",
@@ -61,52 +61,52 @@
    "o": [
     "5 judges",
     "9 judges",
-    "11 judges",
-    "13 judges"
+    "13 judges",
+    "11 judges"
    ],
-   "a": 3,
+   "a": 2,
    "w": "The largest bench; verdict 7:6 on 24 April 1973."
   },
   {
    "q": "Who argued for the petitioners in Kesavananda?",
    "o": [
-    "Nani Palkhivala",
-    "H.M. Seervai",
     "M.C. Setalvad",
+    "H.M. Seervai",
+    "Nani Palkhivala",
     "Fali Nariman"
    ],
-   "a": 0,
+   "a": 2,
    "w": "Nani Palkhivala."
   },
   {
    "q": "Which case first held that Parliament cannot amend Fundamental Rights?",
    "o": [
     "Shankari Prasad",
+    "Bommai",
     "Golaknath",
-    "Minerva Mills",
-    "Bommai"
+    "Minerva Mills"
    ],
-   "a": 1,
+   "a": 2,
    "w": "Golaknath v. State of Punjab (1967)."
   },
   {
    "q": "ADM Jabalpur was overruled in…",
    "o": [
+    "Shreya Singhal",
     "Maneka Gandhi",
-    "Puttaswamy (2017)",
     "Navtej Johar",
-    "Shreya Singhal"
+    "Puttaswamy (2017)"
    ],
-   "a": 1,
+   "a": 3,
    "w": "Puttaswamy described it as seriously flawed."
   },
   {
    "q": "Minerva Mills (1980) struck down parts of the…",
    "o": [
-    "24th Amendment",
+    "44th Amendment",
     "39th Amendment",
     "42nd Amendment",
-    "44th Amendment"
+    "24th Amendment"
    ],
    "a": 2,
    "w": "It struck down clauses barring judicial review of amendments."
@@ -114,56 +114,56 @@
   {
    "q": "Laws added to the Ninth Schedule after 24 April 1973 are reviewable per…",
    "o": [
+    "Indra Sawhney",
     "Waman Rao",
     "I.R. Coelho",
-    "Indra Sawhney",
     "L. Chandra Kumar"
    ],
-   "a": 1,
+   "a": 2,
    "w": "I.R. Coelho (2007)."
   },
   {
    "q": "The collegium system was set up by the…",
    "o": [
-    "First Judges Case",
     "Second Judges Case",
-    "Third Judges Case",
-    "Fourth Judges Case"
+    "Fourth Judges Case",
+    "First Judges Case",
+    "Third Judges Case"
    ],
-   "a": 1,
+   "a": 0,
    "w": "Second Judges Case (1993)."
   },
   {
    "q": "The NJAC was struck down on…",
    "o": [
-    "16 October 2015",
-    "24 April 1973",
+    "11 December 2023",
     "9 November 2019",
-    "11 December 2023"
+    "24 April 1973",
+    "16 October 2015"
    ],
-   "a": 0,
+   "a": 3,
    "w": "In the Fourth Judges Case, by 4:1."
   },
   {
    "q": "The idea of implied limits on the amending power was inspired by…",
    "o": [
-    "Dietrich Conrad",
-    "Hans Kelsen",
+    "Ronald Dworkin",
     "A.V. Dicey",
-    "Ronald Dworkin"
+    "Hans Kelsen",
+    "Dietrich Conrad"
    ],
-   "a": 0,
+   "a": 3,
    "w": "Conrad's 1965 lecture at BHU."
   },
   {
    "q": "Alexander Bickel's phrase for the problem of unelected judges overturning laws is…",
    "o": [
-    "Judicial restraint",
-    "Counter-majoritarian difficulty",
+    "Separation of powers",
     "Basic structure",
-    "Separation of powers"
+    "Judicial restraint",
+    "Counter-majoritarian difficulty"
    ],
-   "a": 1,
+   "a": 3,
    "w": "The Least Dangerous Branch (1962)."
   }
  ],

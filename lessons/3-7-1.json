@@ -59,31 +59,31 @@
   {
    "q": "The India–UAE CEPA came into force in:",
    "o": [
-    "2017",
     "2020",
     "2022",
-    "2024"
+    "2024",
+    "2017"
    ],
-   "a": 2,
+   "a": 1,
    "w": "1 May 2022."
   },
   {
    "q": "India established full diplomatic relations with Israel in:",
    "o": [
-    "1950",
-    "1971",
     "1992",
+    "1971",
+    "1950",
     "2003"
    ],
-   "a": 2,
+   "a": 0,
    "w": "January 1992 under Narasimha Rao."
   },
   {
    "q": "The first Indian PM to visit Israel was:",
    "o": [
     "Narendra Modi",
-    "Atal Bihari Vajpayee",
     "Manmohan Singh",
+    "Atal Bihari Vajpayee",
     "Indira Gandhi"
    ],
    "a": 0,
@@ -92,34 +92,34 @@
   {
    "q": "The 2016 Chabahar agreement was among India, Iran and:",
    "o": [
+    "Turkmenistan",
     "Afghanistan",
-    "Pakistan",
     "Russia",
-    "Turkmenistan"
+    "Pakistan"
    ],
-   "a": 0,
+   "a": 1,
    "w": "A trilateral transit agreement with Afghanistan."
   },
   {
    "q": "Operation Sindhu (2025) was India's evacuation operation from:",
    "o": [
-    "Yemen",
-    "Iran",
+    "Sudan",
     "Ukraine",
-    "Sudan"
+    "Iran",
+    "Yemen"
    ],
-   "a": 1,
+   "a": 2,
    "w": "It evacuated Indians from Iran during the June 2025 war."
   },
   {
    "q": "Approximately how many Indians live in the Gulf region?",
    "o": [
-    "About 1 million",
-    "About 9 million",
+    "About 500,000",
     "About 25 million",
-    "About 500,000"
+    "About 1 million",
+    "About 9 million"
    ],
-   "a": 1,
+   "a": 3,
    "w": "Around 9 million."
   },
   {
@@ -136,34 +136,34 @@
   {
    "q": "Which strait carries about a quarter of the world's seaborne oil?",
    "o": [
-    "Hormuz",
     "Malacca",
     "Bab-el-Mandeb",
-    "Suez"
+    "Suez",
+    "Hormuz"
    ],
-   "a": 0,
+   "a": 3,
    "w": "The Strait of Hormuz."
   },
   {
    "q": "The Indian Navy's escort operation for merchant ships in the Gulf (2019) was:",
    "o": [
-    "Operation Sankalp",
-    "Operation Raahat",
+    "Operation Cactus",
     "Operation Ganga",
-    "Operation Cactus"
+    "Operation Raahat",
+    "Operation Sankalp"
    ],
-   "a": 0,
+   "a": 3,
    "w": "Operation Sankalp."
   },
   {
    "q": "UNSC Resolution 2803, welcomed by India, relates to:",
    "o": [
-    "Gaza peace arrangements and a Board of Peace",
-    "Iran sanctions",
+    "Red Sea shipping",
     "Afghanistan",
-    "Red Sea shipping"
+    "Iran sanctions",
+    "Gaza peace arrangements and a Board of Peace"
    ],
-   "a": 0,
+   "a": 3,
    "w": "It endorsed the Gaza peace plan and welcomed a transitional Board of Peace."
   }
  ],

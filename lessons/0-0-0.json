@@ -31,7 +31,7 @@
   {
    "tag": "Debate",
    "h": "Is political theory dead?",
-   "b": "<svg class=\"d\" viewBox=\"0 0 320 150\"><line x1=\"20\" y1=\"70\" x2=\"300\" y2=\"70\" stroke=\"#c9c2b6\" stroke-width=\"3\"/>\n<circle cx=\"30\" cy=\"70\" r=\"7\" fill=\"#a8792a\"/><text x=\"30\" y=\"50\" fill=\"#1d2433\" font-size=\"12\" text-anchor=\"middle\" font-weight=\"700\">1953</text><text x=\"30\" y=\"34\" fill=\"#5d6474\" font-size=\"9\" text-anchor=\"middle\">Easton, Cobban</text><circle cx=\"95\" cy=\"70\" r=\"7\" fill=\"#a8792a\"/><text x=\"95\" y=\"100\" fill=\"#1d2433\" font-size=\"12\" text-anchor=\"middle\" font-weight=\"700\">1956</text><text x=\"95\" y=\"116\" fill=\"#5d6474\" font-size=\"9\" text-anchor=\"middle\">Laslett: \"dead\"</text><circle cx=\"160\" cy=\"70\" r=\"7\" fill=\"#a8792a\"/><text x=\"160\" y=\"50\" fill=\"#1d2433\" font-size=\"12\" text-anchor=\"middle\" font-weight=\"700\">1962</text><text x=\"160\" y=\"34\" fill=\"#5d6474\" font-size=\"9\" text-anchor=\"middle\">Berlin: it lives</text><circle cx=\"225\" cy=\"70\" r=\"7\" fill=\"#a8792a\"/><text x=\"225\" y=\"100\" fill=\"#1d2433\" font-size=\"12\" text-anchor=\"middle\" font-weight=\"700\">1969</text><text x=\"225\" y=\"116\" fill=\"#5d6474\" font-size=\"9\" text-anchor=\"middle\">Post-behaviouralism</text><circle cx=\"290\" cy=\"70\" r=\"7\" fill=\"#2f6f7a\"/><text x=\"290\" y=\"50\" fill=\"#1d2433\" font-size=\"12\" text-anchor=\"middle\" font-weight=\"700\">1971</text><text x=\"290\" y=\"34\" fill=\"#5d6474\" font-size=\"9\" text-anchor=\"middle\">Rawls: revival</text></svg><p>In the 1950s, many scholars said political theory was dying. Most new work was just history of old ideas, and the scientific study of politics was taking over.</p>"
+   "b": "<svg class=\"d\" viewBox=\"0 0 320 150\"><line x1=\"20\" y1=\"70\" x2=\"300\" y2=\"70\" stroke=\"#c9c2b6\" stroke-width=\"3\"/>\n<circle cx=\"30\" cy=\"70\" r=\"7\" fill=\"#a8792a\"/><text x=\"30\" y=\"50\" fill=\"#1d2433\" font-size=\"12\" text-anchor=\"middle\" font-weight=\"700\">1953</text><text x=\"30\" y=\"34\" fill=\"#5d6474\" font-size=\"10\" text-anchor=\"middle\">Easton, Cobban</text><circle cx=\"95\" cy=\"70\" r=\"7\" fill=\"#a8792a\"/><text x=\"95\" y=\"100\" fill=\"#1d2433\" font-size=\"12\" text-anchor=\"middle\" font-weight=\"700\">1956</text><text x=\"95\" y=\"116\" fill=\"#5d6474\" font-size=\"10\" text-anchor=\"middle\">Laslett: \"dead\"</text><circle cx=\"160\" cy=\"70\" r=\"7\" fill=\"#a8792a\"/><text x=\"160\" y=\"50\" fill=\"#1d2433\" font-size=\"12\" text-anchor=\"middle\" font-weight=\"700\">1962</text><text x=\"160\" y=\"34\" fill=\"#5d6474\" font-size=\"10\" text-anchor=\"middle\">Berlin: it lives</text><circle cx=\"225\" cy=\"70\" r=\"7\" fill=\"#a8792a\"/><text x=\"225\" y=\"100\" fill=\"#1d2433\" font-size=\"12\" text-anchor=\"middle\" font-weight=\"700\">1969</text><text x=\"225\" y=\"116\" fill=\"#5d6474\" font-size=\"10\" text-anchor=\"middle\">Post-behaviouralism</text><circle cx=\"290\" cy=\"70\" r=\"7\" fill=\"#2f6f7a\"/><text x=\"290\" y=\"50\" fill=\"#1d2433\" font-size=\"12\" text-anchor=\"middle\" font-weight=\"700\">1971</text><text x=\"290\" y=\"34\" fill=\"#5d6474\" font-size=\"10\" text-anchor=\"middle\">Rawls: revival</text></svg><p>In the 1950s, many scholars said political theory was dying. Most new work was just history of old ideas, and the scientific study of politics was taking over.</p>"
   },
   {
    "tag": "The obituaries",
@@ -64,23 +64,23 @@
   {
    "q": "Who wrote that political philosophy was \"dead\" in 1956?",
    "o": [
+    "Alfred Cobban",
     "David Easton",
     "Peter Laslett",
-    "Alfred Cobban",
     "Leo Strauss"
    ],
-   "a": 1,
+   "a": 2,
    "w": "Peter Laslett wrote this in his introduction to Philosophy, Politics and Society (1956)."
   },
   {
    "q": "Normative political theory mainly deals with…",
    "o": [
-    "What is",
-    "What ought to be",
+    "Testable generalisations",
     "Causal explanation of behaviour",
-    "Testable generalisations"
+    "What is",
+    "What ought to be"
    ],
-   "a": 1,
+   "a": 3,
    "w": "Normative theory is about values and ideals: what ought to be."
   },
   {
@@ -88,30 +88,30 @@
    "o": [
     "The Political System",
     "Anarchy, State, and Utopia",
-    "A Theory of Justice",
-    "Two Concepts of Liberty"
+    "Two Concepts of Liberty",
+    "A Theory of Justice"
    ],
-   "a": 2,
+   "a": 3,
    "w": "John Rawls's A Theory of Justice (1971) is the landmark revival text."
   },
   {
    "q": "Isaiah Berlin argued political theory survives because…",
    "o": [
     "Data keeps growing",
-    "People disagree about ends",
     "States keep expanding",
+    "People disagree about ends",
     "Science failed"
    ],
-   "a": 1,
+   "a": 2,
    "w": "As long as people disagree about ends like liberty and equality, political theory lives."
   },
   {
    "q": "Which school said value statements were meaningless, hurting political philosophy?",
    "o": [
     "Logical positivism",
-    "Existentialism",
     "Idealism",
-    "Stoicism"
+    "Stoicism",
+    "Existentialism"
    ],
    "a": 0,
    "w": "Logical positivism held only empirically verifiable statements were meaningful."
@@ -119,56 +119,56 @@
   {
    "q": "Who wrote 'The Decline of Political Theory' (1953)?",
    "o": [
-    "Alfred Cobban",
     "David Easton",
+    "Alfred Cobban",
     "Isaiah Berlin",
     "Leo Strauss"
    ],
-   "a": 0,
+   "a": 1,
    "w": "Alfred Cobban's 1953 essay."
   },
   {
    "q": "The Cambridge School's key method is to read texts…",
    "o": [
-    "As timeless truths",
-    "In their historical and linguistic context",
+    "As class ideology only",
     "Through statistics",
-    "As class ideology only"
+    "As timeless truths",
+    "In their historical and linguistic context"
    ],
-   "a": 1,
+   "a": 3,
    "w": "Skinner, Pocock and Dunn read texts as moves in the debates of their time."
   },
   {
    "q": "The End of Ideology (1960) was written by…",
    "o": [
-    "Francis Fukuyama",
-    "Daniel Bell",
+    "Raymond Aron",
     "Herbert Marcuse",
-    "Raymond Aron"
+    "Daniel Bell",
+    "Francis Fukuyama"
    ],
-   "a": 1,
+   "a": 2,
    "w": "Daniel Bell."
   },
   {
    "q": "Proposing how to make democracy deeper is an example of which job?",
    "o": [
+    "Prescription",
     "Explanation",
     "Evaluation",
-    "Prescription",
     "Description"
    ],
-   "a": 2,
+   "a": 0,
    "w": "Theory explains, evaluates and prescribes."
   },
   {
    "q": "A set of ideas meant to drive political action is best called…",
    "o": [
-    "Political philosophy",
     "Political ideology",
     "Political science",
+    "Political philosophy",
     "Political thought"
    ],
-   "a": 1,
+   "a": 0,
    "w": "Ideology aims to change the world, not just explain it."
   }
  ],

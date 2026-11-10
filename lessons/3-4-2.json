@@ -61,30 +61,30 @@
    "o": [
     "$20 billion",
     "$50 billion",
-    "$99 billion",
-    "$200 billion"
+    "$200 billion",
+    "$99 billion"
    ],
-   "a": 2,
+   "a": 3,
    "w": "The deficit was about $99 billion, India's largest with any country."
   },
   {
    "q": "Press Note 3 (April 2020) required government approval for FDI from:",
    "o": [
-    "All foreign countries",
-    "Countries sharing a land border with India",
+    "Only Pakistan",
     "Only China",
-    "Only Pakistan"
+    "Countries sharing a land border with India",
+    "All foreign countries"
    ],
-   "a": 1,
+   "a": 2,
    "w": "It covers all land-border countries, in practice mainly China."
   },
   {
    "q": "India withdrew from RCEP negotiations in:",
    "o": [
-    "2017",
     "2018",
+    "2021",
     "2019",
-    "2021"
+    "2017"
    ],
    "a": 2,
    "w": "India decided not to join at Bangkok in November 2019."
@@ -92,20 +92,20 @@
   {
    "q": "India's stated objection to the Belt and Road Initiative centres on:",
    "o": [
-    "Debt terms only",
-    "CPEC passing through Indian territory in PoK",
     "Its name",
-    "Chinese labour laws"
+    "Chinese labour laws",
+    "CPEC passing through Indian territory in PoK",
+    "Debt terms only"
    ],
-   "a": 1,
+   "a": 2,
    "w": "CPEC runs through Pakistan-occupied Kashmir, which India claims."
   },
   {
    "q": "The term 'string of pearls' refers to:",
    "o": [
-    "A trade treaty",
-    "Chinese-linked ports ringing the Indian Ocean",
     "A nuclear doctrine",
+    "Chinese-linked ports ringing the Indian Ocean",
+    "A trade treaty",
     "A river dispute"
    ],
    "a": 1,
@@ -114,34 +114,34 @@
   {
    "q": "India's MAHASAGAR vision, announced in 2025, builds on which earlier doctrine?",
    "o": [
+    "Panchsheel",
     "Gujral Doctrine",
     "SAGAR",
-    "Panchsheel",
     "Look East"
    ],
-   "a": 1,
+   "a": 2,
    "w": "SAGAR (Security and Growth for All in the Region) was announced in 2015."
   },
   {
    "q": "In which year did China place technical holds on listing Masood Azhar at UN 1267, until he was finally listed?",
    "o": [
-    "Until 2019",
-    "Until 2008",
+    "Never listed",
     "Until 2022",
-    "Never listed"
+    "Until 2008",
+    "Until 2019"
    ],
-   "a": 0,
+   "a": 3,
    "w": "He was listed in May 2019 after repeated holds."
   },
   {
    "q": "India joined the SCO as a full member in:",
    "o": [
-    "2001",
     "2009",
     "2017",
-    "2020"
+    "2020",
+    "2001"
    ],
-   "a": 2,
+   "a": 1,
    "w": "India and Pakistan were admitted at Astana in June 2017."
   },
   {
@@ -158,12 +158,12 @@
   {
    "q": "What did the Cabinet's 2026 change to Press Note 3 mainly allow?",
    "o": [
-    "Unlimited Chinese FDI",
     "Land-border investors up to 10% non-controlling stakes via the automatic route",
     "A ban on all Chinese firms",
+    "Unlimited Chinese FDI",
     "Joint ventures only in defence"
    ],
-   "a": 1,
+   "a": 0,
    "w": "It allows limited, non-controlling investor stakes automatically, with faster approvals in some manufacturing sectors."
   }
  ],

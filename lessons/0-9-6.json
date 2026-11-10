@@ -71,8 +71,8 @@
    "o": [
     "Communist Manifesto",
     "1859 Preface to A Contribution to the Critique of Political Economy",
-    "Capital, volume three",
-    "The German Ideology"
+    "The German Ideology",
+    "Capital, volume three"
    ],
    "a": 1,
    "w": "The 1859 Preface gives the classic summary of historical materialism."
@@ -80,100 +80,100 @@
   {
    "q": "For Marx, surplus value is…",
    "o": [
-    "Profit from trade",
     "Value created by workers beyond their wage",
-    "The rent paid to landlords",
-    "Government revenue"
+    "Government revenue",
+    "Profit from trade",
+    "The rent paid to landlords"
    ],
-   "a": 1,
+   "a": 0,
    "w": "Workers produce more value than they are paid; the surplus becomes profit."
   },
   {
    "q": "'From each according to his ability, to each according to his needs' appears in…",
    "o": [
-    "Communist Manifesto",
-    "Capital",
     "Critique of the Gotha Programme",
-    "1844 Manuscripts"
+    "1844 Manuscripts",
+    "Capital",
+    "Communist Manifesto"
    ],
-   "a": 2,
+   "a": 0,
    "w": "Critique of the Gotha Programme (1875)."
   },
   {
    "q": "Which is NOT one of the forms of alienation in the 1844 Manuscripts?",
    "o": [
-    "From the product",
     "From the act of labour",
-    "From the state",
-    "From species-being"
+    "From the product",
+    "From species-being",
+    "From the state"
    ],
-   "a": 2,
+   "a": 3,
    "w": "The four are from product, labour, species-being and other people."
   },
   {
    "q": "Marx's view that British rule in India had a destructive and a regenerating role is called…",
    "o": [
-    "Double mission",
-    "Drain theory",
     "Asiatic despotism",
-    "Permanent revolution"
+    "Permanent revolution",
+    "Drain theory",
+    "Double mission"
    ],
-   "a": 0,
+   "a": 3,
    "w": "From his 1853 articles in the New York Daily Tribune."
   },
   {
    "q": "'The ideas of the ruling class are in every epoch the ruling ideas' is from…",
    "o": [
+    "Capital",
     "The Communist Manifesto",
     "The German Ideology",
-    "Capital",
     "The Eighteenth Brumaire"
    ],
-   "a": 1,
+   "a": 2,
    "w": "The German Ideology, written 1845–46."
   },
   {
    "q": "Commodity fetishism means…",
    "o": [
-    "Love of luxury goods",
     "Relations between people appearing as relations between things",
-    "State control of trade",
-    "Barter economies"
+    "Love of luxury goods",
+    "Barter economies",
+    "State control of trade"
    ],
-   "a": 1,
+   "a": 0,
    "w": "We see prices and goods, not the labour behind them."
   },
   {
    "q": "Who argued for an 'epistemological break' between young and mature Marx?",
    "o": [
     "Erich Fromm",
+    "Herbert Marcuse",
     "Louis Althusser",
-    "Georg Lukács",
-    "Herbert Marcuse"
+    "Georg Lukács"
    ],
-   "a": 1,
+   "a": 2,
    "w": "Althusser, For Marx (1965)."
   },
   {
    "q": "Lenin named Marxism's three sources as German philosophy, French socialism and…",
    "o": [
     "Russian populism",
-    "English political economy",
     "Italian humanism",
-    "Greek democracy"
+    "Greek democracy",
+    "English political economy"
    ],
-   "a": 1,
+   "a": 3,
    "w": "Smith and Ricardo's political economy."
   },
   {
    "q": "Capital, volume one, was published in…",
    "o": [
-    "1848",
+    "1883",
     "1859",
-    "1867",
-    "1883"
+    "1848",
+    "1867"
    ],
-   "a": 2,
+   "a": 3,
    "w": "1867. Volumes two and three were edited by Engels after Marx's death."
   }
  ],

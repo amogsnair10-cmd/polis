@@ -64,32 +64,32 @@
   {
    "q": "Rousseau's Discourse on Inequality (1755) treats which kind of inequality as the real problem?",
    "o": [
+    "Inequality among nations",
     "Moral or political inequality created by convention and property",
     "Natural differences in talent",
-    "Differences in age",
-    "Inequality among nations"
+    "Differences in age"
    ],
-   "a": 0,
+   "a": 1,
    "w": "He distinguished natural from moral/political inequality."
   },
   {
    "q": "The Wilt Chamberlain argument is used by…",
    "o": [
-    "Rawls",
-    "Tawney",
     "Sen",
-    "Nozick"
+    "Tawney",
+    "Nozick",
+    "Rawls"
    ],
-   "a": 3,
+   "a": 2,
    "w": "Anarchy, State, and Utopia (1974) uses it against pattern-based redistribution."
   },
   {
    "q": "Tawney's Equality was published in…",
    "o": [
-    "1951",
+    "1991",
     "1931",
     "1971",
-    "1991"
+    "1951"
    ],
    "a": 1,
    "w": "R.H. Tawney, 1931."
@@ -97,23 +97,23 @@
   {
    "q": "Dworkin's approach to equality is called…",
    "o": [
-    "Complex equality",
     "Equality of resources",
     "Equality of capabilities",
-    "Strict egalitarianism"
+    "Strict egalitarianism",
+    "Complex equality"
    ],
-   "a": 1,
+   "a": 0,
    "w": "Sovereign Virtue (2000)."
   },
   {
    "q": "Michael Walzer's complex equality holds that…",
    "o": [
-    "All goods should be shared equally",
     "Different goods belong to separate spheres and one should not dominate others",
     "The state should own resources",
-    "Merit should be ignored"
+    "Merit should be ignored",
+    "All goods should be shared equally"
    ],
-   "a": 1,
+   "a": 0,
    "w": "Spheres of Justice (1983)."
   },
   {
@@ -130,23 +130,23 @@
   {
    "q": "Who coined 'meritocracy' in a satire?",
    "o": [
-    "Michael Young",
     "Michael Sandel",
     "John Rawls",
+    "Michael Young",
     "Daniel Bell"
    ],
-   "a": 0,
+   "a": 2,
    "w": "The Rise of the Meritocracy (1958)."
   },
   {
    "q": "Which Indian Article abolishes untouchability?",
    "o": [
+    "Article 18",
     "Article 15",
     "Article 16",
-    "Article 17",
-    "Article 18"
+    "Article 17"
    ],
-   "a": 2,
+   "a": 3,
    "w": "Article 17."
   },
   {
@@ -154,21 +154,21 @@
    "o": [
     "A.K. Gopalan (1950)",
     "Champakam Dorairajan (1951)",
-    "Balaji (1962)",
-    "E.P. Royappa v State of Tamil Nadu (1974)"
+    "E.P. Royappa v State of Tamil Nadu (1974)",
+    "Balaji (1962)"
    ],
-   "a": 3,
+   "a": 2,
    "w": "Royappa gave a 'new concept' of equality against arbitrariness."
   },
   {
    "q": "Article 38(2) directs the State to minimise inequalities in…",
    "o": [
-    "Only land holding",
     "Only political power",
     "Income, status, facilities and opportunities",
+    "Only land holding",
     "Language rights"
    ],
-   "a": 2,
+   "a": 1,
    "w": "Article 38(2): minimise inequalities in income, and eliminate inequalities in status, facilities and opportunities (added by the 44th Amendment)."
   }
  ],

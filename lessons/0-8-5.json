@@ -64,34 +64,34 @@
   {
    "q": "Roy debated Lenin on the colonial question at the Comintern's…",
    "o": [
-    "First Congress, 1919",
-    "Second Congress, 1920",
     "Sixth Congress, 1928",
-    "Tashkent meeting, 1920"
+    "Tashkent meeting, 1920",
+    "First Congress, 1919",
+    "Second Congress, 1920"
    ],
-   "a": 1,
+   "a": 3,
    "w": "At the Second Congress in 1920."
   },
   {
    "q": "Roy's radical humanism was set out in…",
    "o": [
-    "12 theses",
     "22 theses",
-    "The Meerut Theses",
-    "The Constitution of Free India"
+    "The Constitution of Free India",
+    "12 theses",
+    "The Meerut Theses"
    ],
-   "a": 1,
+   "a": 0,
    "w": "The 22 theses, adopted at Dehradun in 1946."
   },
   {
    "q": "Roy argued that the colonial bourgeoisie would…",
    "o": [
     "Lead the revolution",
-    "Compromise with imperialism",
     "Join the workers",
+    "Compromise with imperialism",
     "Disappear"
    ],
-   "a": 1,
+   "a": 2,
    "w": "So communists should organise workers and peasants directly."
   },
   {
@@ -108,56 +108,56 @@
   {
    "q": "Before joining the Comintern, Roy helped found the communist party of…",
    "o": [
-    "India",
-    "Germany",
+    "China",
     "Mexico",
-    "China"
+    "India",
+    "Germany"
    ],
-   "a": 2,
+   "a": 1,
    "w": "The Communist Party of Mexico, formed from the Socialist Workers' Party in 1919."
   },
   {
    "q": "Roy founded the Radical Democratic Party in…",
    "o": [
     "1930",
-    "1936",
     "1940",
-    "1946"
+    "1946",
+    "1936"
    ],
-   "a": 2,
+   "a": 1,
    "w": "1940."
   },
   {
    "q": "Roy's early Marxist analysis of India was…",
    "o": [
     "India Today",
-    "India in Transition",
     "Discovery of India",
-    "Poverty and Un-British Rule"
+    "Poverty and Un-British Rule",
+    "India in Transition"
    ],
-   "a": 1,
+   "a": 3,
    "w": "India in Transition (1922)."
   },
   {
    "q": "Roy was expelled from the Comintern in…",
    "o": [
-    "1924",
-    "1929",
     "1934",
-    "1940"
+    "1940",
+    "1929",
+    "1924"
    ],
-   "a": 1,
+   "a": 2,
    "w": "1929."
   },
   {
    "q": "Roy's idea of partyless democracy was shared with…",
    "o": [
-    "Nehru",
     "Jayaprakash Narayan",
+    "Nehru",
     "Patel",
     "Bose"
    ],
-   "a": 1,
+   "a": 0,
    "w": "JP also argued for partyless democracy."
   },
   {

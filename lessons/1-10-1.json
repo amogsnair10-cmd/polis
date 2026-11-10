@@ -11,7 +11,7 @@
   {
    "tag": "Core idea",
    "h": "Phases of the women's movement",
-   "b": "<svg class=\"d\" viewBox=\"0 0 320 110\"><line x1=\"12\" y1=\"55\" x2=\"308\" y2=\"55\" stroke=\"#5d6474\" stroke-width=\"2\"/><g font-size=\"9.5\" fill=\"#1d2433\" text-anchor=\"middle\"><circle cx=\"30\" cy=\"55\" r=\"4\" fill=\"#a8792a\"/><text x=\"30\" y=\"40\">1974</text><text x=\"30\" y=\"74\">Towards Equality</text><circle cx=\"100\" cy=\"55\" r=\"4\" fill=\"#a8792a\"/><text x=\"100\" y=\"40\">1979-83</text><text x=\"100\" y=\"74\">Mathura case</text><circle cx=\"170\" cy=\"55\" r=\"4\" fill=\"#a8792a\"/><text x=\"170\" y=\"40\">1997</text><text x=\"170\" y=\"74\">Vishaka</text><circle cx=\"240\" cy=\"55\" r=\"4\" fill=\"#a8792a\"/><text x=\"240\" y=\"40\">2012-13</text><text x=\"240\" y=\"74\">Nirbhaya, Verma</text><circle cx=\"300\" cy=\"55\" r=\"4\" fill=\"#2f6f7a\"/><text x=\"292\" y=\"96\">2023 106th Amend.</text></g></svg><ul><li><b>Reform era:</b> social reformers on sati, widow remarriage and education; women in the freedom struggle.</li><li><b>Towards Equality</b> (1974): report of the Committee on the Status of Women in India, with Vina Mazumdar as member-secretary, showed women's position had worsened in many respects. It sparked women's studies.</li><li><b>Autonomous women's groups</b> from the late 1970s: campaigns on dowry deaths, rape, sati and domestic violence.</li><li><b>Mathura case</b> (<i>Tukaram v. State of Maharashtra</i>, 1979): an open letter by four law professors led to the Criminal Law (Amendment) Act, 1983.</li></ul>"
+   "b": "<svg class=\"d\" viewBox=\"0 0 320 110\"><line x1=\"12\" y1=\"55\" x2=\"308\" y2=\"55\" stroke=\"#5d6474\" stroke-width=\"2\"/><g font-size=\"10\" fill=\"#1d2433\" text-anchor=\"middle\"><circle cx=\"30\" cy=\"55\" r=\"4\" fill=\"#a8792a\"/><text x=\"30\" y=\"40\">1974</text><text x=\"30\" y=\"74\">Towards Equality</text><circle cx=\"100\" cy=\"55\" r=\"4\" fill=\"#a8792a\"/><text x=\"100\" y=\"40\">1979-83</text><text x=\"100\" y=\"74\">Mathura case</text><circle cx=\"170\" cy=\"55\" r=\"4\" fill=\"#a8792a\"/><text x=\"170\" y=\"40\">1997</text><text x=\"170\" y=\"74\">Vishaka</text><circle cx=\"240\" cy=\"55\" r=\"4\" fill=\"#a8792a\"/><text x=\"240\" y=\"40\">2012-13</text><text x=\"240\" y=\"74\">Nirbhaya, Verma</text><circle cx=\"300\" cy=\"55\" r=\"4\" fill=\"#2f6f7a\"/><text x=\"292\" y=\"96\">2023 106th Amend.</text></g></svg><ul><li><b>Reform era:</b> social reformers on sati, widow remarriage and education; women in the freedom struggle.</li><li><b>Towards Equality</b> (1974): report of the Committee on the Status of Women in India, with Vina Mazumdar as member-secretary, showed women's position had worsened in many respects. It sparked women's studies.</li><li><b>Autonomous women's groups</b> from the late 1970s: campaigns on dowry deaths, rape, sati and domestic violence.</li><li><b>Mathura case</b> (<i>Tukaram v. State of Maharashtra</i>, 1979): an open letter by four law professors led to the Criminal Law (Amendment) Act, 1983.</li></ul>"
   },
   {
    "tag": "Key idea",
@@ -54,23 +54,23 @@
   {
    "q": "Towards Equality (1974) was the report of…",
    "o": [
-    "Committee on the Status of Women in India",
-    "Verma Committee",
     "NCW",
+    "Verma Committee",
+    "Committee on the Status of Women in India",
     "Planning Commission"
    ],
-   "a": 0,
+   "a": 2,
    "w": "Vina Mazumdar was member-secretary."
   },
   {
    "q": "The Mathura case led to the…",
    "o": [
-    "Criminal Law (Amendment) Act, 1983",
-    "POSH Act, 2013",
     "Dowry Prohibition Act, 1961",
-    "Domestic Violence Act, 2005"
+    "POSH Act, 2013",
+    "Domestic Violence Act, 2005",
+    "Criminal Law (Amendment) Act, 1983"
    ],
-   "a": 0,
+   "a": 3,
    "w": "After an open letter by law professors."
   },
   {
@@ -78,8 +78,8 @@
    "o": [
     "Bhanwari Devi",
     "Roop Kanwar",
-    "Shah Bano",
-    "Mathura"
+    "Mathura",
+    "Shah Bano"
    ],
    "a": 0,
    "w": "Rajasthan, 1992."
@@ -87,21 +87,21 @@
   {
    "q": "Who led the Reni women in Chipko (1974)?",
    "o": [
-    "Gaura Devi",
     "Medha Patkar",
+    "Ela Bhatt",
     "Amrita Devi",
-    "Ela Bhatt"
+    "Gaura Devi"
    ],
-   "a": 0,
+   "a": 3,
    "w": "Gaura Devi."
   },
   {
    "q": "Silent Valley was declared a national park in…",
    "o": [
-    "1973",
+    "1990",
     "1980",
     "1984",
-    "1990"
+    "1973"
    ],
    "a": 2,
    "w": "1984."
@@ -109,32 +109,32 @@
   {
    "q": "'Environmentalism of the poor' is from…",
    "o": [
-    "Guha and Martinez-Alier",
     "Vandana Shiva",
+    "Gadgil alone",
     "Bina Agarwal",
-    "Gadgil alone"
+    "Guha and Martinez-Alier"
    ],
-   "a": 0,
+   "a": 3,
    "w": "Varieties of Environmentalism (1997)."
   },
   {
    "q": "Staying Alive (1988) is a text of…",
    "o": [
-    "Ecofeminism",
-    "Liberal feminism",
+    "Deep ecology",
     "Marxism",
-    "Deep ecology"
+    "Ecofeminism",
+    "Liberal feminism"
    ],
-   "a": 0,
+   "a": 2,
    "w": "Vandana Shiva."
   },
   {
    "q": "Bina Agarwal's position is called…",
    "o": [
     "Feminist environmentalism",
+    "Social ecology",
     "Ecofeminism",
-    "Deep ecology",
-    "Social ecology"
+    "Deep ecology"
    ],
    "a": 0,
    "w": "Material, not essentialist."
@@ -143,9 +143,9 @@
    "q": "'Dalit Women Talk Differently' (1995) is by…",
    "o": [
     "Gopal Guru",
+    "Sharmila Rege",
     "Uma Chakravarti",
-    "Nivedita Menon",
-    "Sharmila Rege"
+    "Nivedita Menon"
    ],
    "a": 0,
    "w": "Gopal Guru, EPW."
@@ -153,12 +153,12 @@
   {
    "q": "The Criminal Law (Amendment) Act, 2013 followed the report of…",
    "o": [
-    "Justice J.S. Verma Committee",
-    "Justice Usha Mehra",
     "Malimath Committee",
+    "Justice Usha Mehra",
+    "Justice J.S. Verma Committee",
     "Sarkaria"
    ],
-   "a": 0,
+   "a": 2,
    "w": "After the December 2012 Delhi case."
   }
  ],

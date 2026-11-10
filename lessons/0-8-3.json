@@ -64,21 +64,21 @@
   {
    "q": "Hind Swaraj was written in…",
    "o": [
-    "1906",
-    "1909",
     "1919",
-    "1931"
+    "1931",
+    "1909",
+    "1906"
    ],
-   "a": 1,
+   "a": 2,
    "w": "1909, on board a ship from London to South Africa."
   },
   {
    "q": "Gandhi described his ideal political order as…",
    "o": [
-    "A pyramid of power",
-    "Oceanic circles",
     "A federal union",
-    "A dictatorship of virtue"
+    "Oceanic circles",
+    "A dictatorship of virtue",
+    "A pyramid of power"
    ],
    "a": 1,
    "w": "Power spreads out in oceanic circles from the individual and village."
@@ -86,34 +86,34 @@
   {
    "q": "The word 'sarvodaya' came from Gandhi's paraphrase of…",
    "o": [
-    "Tolstoy's The Kingdom of God Is Within You",
-    "Ruskin's Unto This Last",
     "Thoreau's Civil Disobedience",
-    "The Bhagavad Gita"
+    "Tolstoy's The Kingdom of God Is Within You",
+    "The Bhagavad Gita",
+    "Ruskin's Unto This Last"
    ],
-   "a": 1,
+   "a": 3,
    "w": "He paraphrased Ruskin's Unto This Last as Sarvodaya in 1908."
   },
   {
    "q": "Which Article reflects Gandhi's idea of village panchayats?",
    "o": [
     "Article 38",
-    "Article 40",
+    "Article 51",
     "Article 44",
-    "Article 51"
+    "Article 40"
    ],
-   "a": 1,
+   "a": 3,
    "w": "Article 40 directs the state to organise village panchayats."
   },
   {
    "q": "Gandhi called passive resistance…",
    "o": [
-    "The highest form of satyagraha",
-    "A weapon of the weak",
     "Identical to ahimsa",
-    "The method of trusteeship"
+    "The method of trusteeship",
+    "A weapon of the weak",
+    "The highest form of satyagraha"
    ],
-   "a": 1,
+   "a": 2,
    "w": "He distinguished satyagraha, a weapon of the strong, from passive resistance."
   },
   {
@@ -121,8 +121,8 @@
    "o": [
     "Kheda",
     "Champaran",
-    "Bardoli",
-    "Dandi"
+    "Dandi",
+    "Bardoli"
    ],
    "a": 1,
    "w": "Champaran, 1917, for indigo farmers."
@@ -130,23 +130,23 @@
   {
    "q": "Gandhi withdrew Non-Cooperation after…",
    "o": [
-    "Jallianwala Bagh",
-    "Chauri Chaura",
     "The Simon Commission",
-    "Moplah rebellion"
+    "Jallianwala Bagh",
+    "Moplah rebellion",
+    "Chauri Chaura"
    ],
-   "a": 1,
+   "a": 3,
    "w": "Violence at Chauri Chaura in February 1922."
   },
   {
    "q": "Trusteeship asks the rich to…",
    "o": [
-    "Surrender all property to the state",
     "Hold wealth for the good of society",
     "Pay higher taxes only",
-    "Leave the country"
+    "Leave the country",
+    "Surrender all property to the state"
    ],
-   "a": 1,
+   "a": 0,
    "w": "Keep what they need and hold the rest in trust."
   },
   {
@@ -163,12 +163,12 @@
   {
    "q": "'Truth is God' was Gandhi's later reversal of…",
    "o": [
-    "God is Love",
-    "God is Truth",
     "Truth is Power",
-    "Ahimsa is God"
+    "Ahimsa is God",
+    "God is Love",
+    "God is Truth"
    ],
-   "a": 1,
+   "a": 3,
    "w": "It let even atheists join the search for truth."
   }
  ],

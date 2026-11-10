@@ -59,100 +59,100 @@
   {
    "q": "Who wrote 'The End of the American World Order' (2014)?",
    "o": [
-    "Amitav Acharya",
-    "Fareed Zakaria",
     "Kishore Mahbubani",
-    "John Ikenberry"
+    "John Ikenberry",
+    "Fareed Zakaria",
+    "Amitav Acharya"
    ],
-   "a": 0,
+   "a": 3,
    "w": "Amitav Acharya, who describes a 'multiplex world'."
   },
   {
    "q": "Zakaria's 'rise of the rest' appears in:",
    "o": [
+    "The Tragedy of Great Power Politics",
     "The Post-American World",
-    "The Clash of Civilizations",
     "The End of History",
-    "The Tragedy of Great Power Politics"
+    "The Clash of Civilizations"
    ],
-   "a": 0,
+   "a": 1,
    "w": "The Post-American World (2008)."
   },
   {
    "q": "India's G20 presidency culminated in a summit in New Delhi on:",
    "o": [
-    "9-10 September 2023",
-    "12-13 January 2023",
     "1 December 2022",
-    "17 November 2023"
+    "17 November 2023",
+    "12-13 January 2023",
+    "9-10 September 2023"
    ],
-   "a": 0,
+   "a": 3,
    "w": "9-10 September 2023."
   },
   {
    "q": "Which body became a permanent G20 member at the New Delhi summit?",
    "o": [
-    "African Union",
-    "ASEAN",
     "BRICS",
-    "SCO"
+    "ASEAN",
+    "SCO",
+    "African Union"
    ],
-   "a": 0,
+   "a": 3,
    "w": "The African Union joined as a permanent member."
   },
   {
    "q": "The International Solar Alliance was launched in:",
    "o": [
-    "Paris, 2015",
     "Glasgow, 2021",
+    "Kyoto, 1997",
     "New Delhi, 2023",
-    "Kyoto, 1997"
+    "Paris, 2015"
    ],
-   "a": 0,
+   "a": 3,
    "w": "At COP21, Paris, November 2015, by India and France."
   },
   {
    "q": "India's net-zero target announced at COP26 is for the year:",
    "o": [
-    "2050",
     "2060",
-    "2070",
-    "2047"
+    "2047",
+    "2050",
+    "2070"
    ],
-   "a": 2,
+   "a": 3,
    "w": "Net-zero by 2070."
   },
   {
    "q": "The term 'swing state' in this context comes from:",
    "o": [
-    "Kliman and Fontaine",
+    "Nye",
     "Mearsheimer",
-    "Waltz",
-    "Nye"
+    "Kliman and Fontaine",
+    "Waltz"
    ],
-   "a": 0,
+   "a": 2,
    "w": "Daniel Kliman and Richard Fontaine, Global Swing States (2012)."
   },
   {
    "q": "Mission LiFE stands for:",
    "o": [
+    "Life in Fusion Energy",
     "Lifestyle for Environment",
     "Leadership for Equity",
-    "Linking India for Exports",
-    "Life in Fusion Energy"
+    "Linking India for Exports"
    ],
-   "a": 0,
+   "a": 1,
    "w": "Launched in 2022."
   },
   {
    "q": "India has pushed since 1996 for adoption of the:",
    "o": [
-    "Comprehensive Convention on International Terrorism",
+    "Biological Weapons Convention",
     "Arms Trade Treaty",
-    "Treaty on Prohibition of Nuclear Weapons",
-    "Biological Weapons Convention"
+    "Comprehensive Convention on International Terrorism",
+    "Treaty on Prohibition of Nuclear Weapons"
    ],
-   "a": 0,
+   "a": 2,
    "w": "The CCIT, proposed by India in 1996, remains stuck at the UN."
   },
   {

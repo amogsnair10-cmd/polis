@@ -69,53 +69,53 @@
   {
    "q": "Hobbes's Leviathan was published in…",
    "o": [
-    "1588",
-    "1651",
     "1689",
-    "1762"
+    "1588",
+    "1762",
+    "1651"
    ],
-   "a": 1,
+   "a": 3,
    "w": "Leviathan came out in 1651, at the end of the English Civil War."
   },
   {
    "q": "Which is NOT one of Hobbes's three causes of conflict?",
    "o": [
-    "Competition",
     "Diffidence",
+    "Property",
     "Glory",
-    "Property"
+    "Competition"
    ],
-   "a": 3,
+   "a": 1,
    "w": "The three are competition, diffidence and glory."
   },
   {
    "q": "In Hobbes's contract, the sovereign…",
    "o": [
     "Is a party bound by its terms",
-    "Is not a party to the contract",
     "Is elected each year",
+    "Is not a party to the contract",
     "Shares power with the Church"
    ],
-   "a": 1,
+   "a": 2,
    "w": "The people contract with each other; the sovereign is created by the contract and stands outside it."
   },
   {
    "q": "Hobbes says a subject may still resist the sovereign when…",
    "o": [
-    "Taxes rise",
     "Their life is threatened",
-    "They disagree with a law",
-    "The sovereign is a monarch"
+    "The sovereign is a monarch",
+    "Taxes rise",
+    "They disagree with a law"
    ],
-   "a": 1,
+   "a": 0,
    "w": "No one can give up the right to preserve their own life."
   },
   {
    "q": "'Possessive individualism' is a reading of Hobbes by…",
    "o": [
-    "Michael Oakeshott",
-    "C.B. Macpherson",
     "Leo Strauss",
+    "C.B. Macpherson",
+    "Michael Oakeshott",
     "Quentin Skinner"
    ],
    "a": 1,
@@ -124,9 +124,9 @@
   {
    "q": "Hobbes defines liberty as…",
    "o": [
-    "Self-mastery by reason",
-    "The absence of external obstacles",
     "Participation in government",
+    "The absence of external obstacles",
+    "Self-mastery by reason",
     "Obedience to natural law"
    ],
    "a": 1,
@@ -135,32 +135,32 @@
   {
    "q": "Hobbes's first law of nature tells us to…",
    "o": [
-    "Keep covenants",
-    "Seek peace",
+    "Obey God",
     "Respect property",
-    "Obey God"
+    "Keep covenants",
+    "Seek peace"
    ],
-   "a": 1,
+   "a": 3,
    "w": "Seek peace, and when you cannot, defend yourself."
   },
   {
    "q": "'Covenants, without the sword, are but words' means…",
    "o": [
-    "Contracts are always invalid",
     "Agreements need enforcement power",
     "Only kings can sign treaties",
-    "War makes peace"
+    "War makes peace",
+    "Contracts are always invalid"
    ],
-   "a": 1,
+   "a": 0,
    "w": "Without a common power, people will not keep their promises."
   },
   {
    "q": "Hobbes's preferred form of sovereign was…",
    "o": [
     "Democracy",
-    "Aristocracy",
+    "A mixed constitution",
     "Monarchy",
-    "A mixed constitution"
+    "Aristocracy"
    ],
    "a": 2,
    "w": "Any form can be sovereign, but he thought monarchy most stable."
@@ -168,12 +168,12 @@
   {
    "q": "Hobbes called the Catholic Church's claim to authority…",
    "o": [
-    "The city of God",
     "The kingdom of darkness",
+    "The mortal god",
     "The commonwealth",
-    "The mortal god"
+    "The city of God"
    ],
-   "a": 1,
+   "a": 0,
    "w": "In Leviathan, Part IV."
   }
  ],

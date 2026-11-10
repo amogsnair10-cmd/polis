@@ -59,75 +59,75 @@
   {
    "q": "Deliberative democracy locates legitimacy mainly in…",
    "o": [
-    "Counting preferences",
-    "Public reasoning among free and equal citizens",
     "Elite competition",
-    "Direct ownership"
+    "Direct ownership",
+    "Public reasoning among free and equal citizens",
+    "Counting preferences"
    ],
-   "a": 1,
+   "a": 2,
    "w": "Decisions are legitimate if they come from reasoned public discussion."
   },
   {
    "q": "The Structural Transformation of the Public Sphere (1962) is by…",
    "o": [
-    "Rawls",
     "Habermas",
+    "Mouffe",
     "Fishkin",
-    "Mouffe"
+    "Rawls"
    ],
-   "a": 1,
+   "a": 0,
    "w": "Jurgen Habermas traced the rise and decline of the bourgeois public sphere."
   },
   {
    "q": "Habermas's phrase for what should decide in the ideal speech situation is…",
    "o": [
     "The will of the majority",
-    "The wisest leader",
     "The force of the better argument",
+    "The wisest leader",
     "The common law"
    ],
-   "a": 2,
+   "a": 1,
    "w": "No coercion, equal voice, only better argument counts."
   },
   {
    "q": "'Public reason' as a duty of citizens is most associated with…",
    "o": [
-    "Schumpeter",
-    "Dahl",
     "Rawls",
-    "Pareto"
+    "Dahl",
+    "Pareto",
+    "Schumpeter"
    ],
-   "a": 2,
+   "a": 0,
    "w": "Political Liberalism (1993)."
   },
   {
    "q": "Reciprocity is a central principle in…",
    "o": [
-    "Michels",
-    "Gutmann and Thompson",
     "Marx",
-    "Nozick"
+    "Nozick",
+    "Gutmann and Thompson",
+    "Michels"
    ],
-   "a": 1,
+   "a": 2,
    "w": "Democracy and Disagreement (1996)."
   },
   {
    "q": "Deliberative polling was developed by…",
    "o": [
-    "Dryzek",
+    "Sunstein",
     "Barber",
-    "Fishkin",
-    "Sunstein"
+    "Dryzek",
+    "Fishkin"
    ],
-   "a": 2,
+   "a": 3,
    "w": "James Fishkin, from Democracy and Deliberation (1991)."
   },
   {
    "q": "Which thinker stressed that conflict, not consensus, is the core of politics?",
    "o": [
-    "Joshua Cohen",
     "Habermas",
     "Gutmann",
+    "Joshua Cohen",
     "Chantal Mouffe"
    ],
    "a": 3,
@@ -136,20 +136,20 @@
   {
    "q": "Iris Marion Young criticised deliberation for…",
    "o": [
-    "Privileging cool rational speech that favours dominant groups",
-    "Ignoring elections",
     "Encouraging violence",
-    "Rejecting law"
+    "Rejecting law",
+    "Ignoring elections",
+    "Privileging cool rational speech that favours dominant groups"
    ],
-   "a": 0,
+   "a": 3,
    "w": "She added greeting, rhetoric and narrative as legitimate speech."
   },
   {
    "q": "Ireland's Citizens' Assembly (2016-18) is an example of a…",
    "o": [
     "Recall election",
-    "Party primary",
     "Referendum only",
+    "Party primary",
     "Mini-public"
    ],
    "a": 3,
@@ -159,9 +159,9 @@
    "q": "Amartya Sen's The Argumentative Indian was published in…",
    "o": [
     "2005",
-    "1995",
+    "2015",
     "2009",
-    "2015"
+    "1995"
    ],
    "a": 0,
    "w": "2005; it stresses India's tradition of public debate."

@@ -54,21 +54,21 @@
   {
    "q": "Who Governs? (1961) studied which city?",
    "o": [
+    "Boston",
     "Chicago",
     "New Haven",
-    "Boston",
     "Detroit"
    ],
-   "a": 1,
+   "a": 2,
    "w": "Dahl studied New Haven, Connecticut."
   },
   {
    "q": "The 'privileged position of business' idea comes from…",
    "o": [
-    "Dahl",
+    "Laski",
     "Lindblom",
-    "Mills",
-    "Laski"
+    "Dahl",
+    "Mills"
    ],
    "a": 1,
    "w": "Charles Lindblom, Politics and Markets (1977)."
@@ -76,42 +76,42 @@
   {
    "q": "Non-decision making was highlighted by…",
    "o": [
-    "Bachrach and Baratz",
-    "Rudolph and Rudolph",
+    "Marx and Engels",
     "Almond and Verba",
-    "Marx and Engels"
+    "Bachrach and Baratz",
+    "Rudolph and Rudolph"
    ],
-   "a": 0,
+   "a": 2,
    "w": "Bachrach and Baratz, 'Two Faces of Power' (1962)."
   },
   {
    "q": "Polyarchy's two dimensions are…",
    "o": [
-    "Liberty and equality",
     "Contestation and inclusiveness",
     "Order and justice",
+    "Liberty and equality",
     "Power and authority"
    ],
-   "a": 1,
+   "a": 0,
    "w": "Public contestation and inclusiveness (participation)."
   },
   {
    "q": "'Involuted pluralism' describes…",
    "o": [
     "The USA",
-    "India",
     "The UK",
-    "China"
+    "China",
+    "India"
    ],
-   "a": 1,
+   "a": 3,
    "w": "Rudolph and Rudolph used it for India in In Pursuit of Lakshmi (1987)."
   },
   {
    "q": "The Process of Government (1908) was written by…",
    "o": [
-    "David Truman",
-    "Arthur Bentley",
     "Robert Dahl",
+    "Arthur Bentley",
+    "David Truman",
     "Harold Laski"
    ],
    "a": 1,
@@ -121,41 +121,41 @@
    "q": "Truman's idea that people belong to many groups is called…",
    "o": [
     "Polyarchy",
-    "Overlapping membership",
+    "Corporatism",
     "Iron law",
-    "Corporatism"
+    "Overlapping membership"
    ],
-   "a": 1,
+   "a": 3,
    "w": "Overlapping or cross-cutting membership."
   },
   {
    "q": "'The heavenly chorus sings with a strong upper-class accent' is by…",
    "o": [
-    "C. Wright Mills",
-    "E.E. Schattschneider",
     "Charles Lindblom",
-    "Ralph Miliband"
+    "Ralph Miliband",
+    "C. Wright Mills",
+    "E.E. Schattschneider"
    ],
-   "a": 1,
+   "a": 3,
    "w": "The Semisovereign People (1960)."
   },
   {
    "q": "Early British pluralists like Laski opposed…",
    "o": [
-    "Group autonomy",
     "The monistic sovereign state",
     "Trade unions",
+    "Group autonomy",
     "Federalism"
    ],
-   "a": 1,
+   "a": 0,
    "w": "They attacked the idea of one absolute sovereign."
   },
   {
    "q": "Truman's 'potential groups' are…",
    "o": [
-    "Groups banned by the state",
-    "Interests that organise when threatened",
     "Parties waiting for power",
+    "Interests that organise when threatened",
+    "Groups banned by the state",
     "Foreign lobbies"
    ],
    "a": 1,

@@ -21,7 +21,7 @@
   {
    "tag": "Core idea",
    "h": "Linguistic reorganisation: from fear to acceptance",
-   "b": "<svg class=\"d\" viewBox=\"0 0 320 130\"><line x1=\"14\" y1=\"70\" x2=\"306\" y2=\"70\" stroke=\"#5d6474\" stroke-width=\"2\"/><g font-size=\"9.5\" fill=\"#1d2433\" text-anchor=\"middle\"><circle cx=\"24\" cy=\"70\" r=\"4\" fill=\"#a8792a\"/><text x=\"24\" y=\"52\">1948-49</text><text x=\"24\" y=\"90\">Dar, JVP</text><circle cx=\"78\" cy=\"70\" r=\"4\" fill=\"#a8792a\"/><text x=\"78\" y=\"52\">1953</text><text x=\"78\" y=\"90\">Andhra</text><circle cx=\"132\" cy=\"70\" r=\"4\" fill=\"#a8792a\"/><text x=\"132\" y=\"52\">1956</text><text x=\"132\" y=\"90\">SRA 1956</text><circle cx=\"186\" cy=\"70\" r=\"4\" fill=\"#a8792a\"/><text x=\"186\" y=\"52\">1960-66</text><text x=\"186\" y=\"90\">Maha., Punjab</text><circle cx=\"240\" cy=\"70\" r=\"4\" fill=\"#a8792a\"/><text x=\"240\" y=\"52\">1972-87</text><text x=\"240\" y=\"90\">North-East, Goa</text><circle cx=\"294\" cy=\"70\" r=\"4\" fill=\"#a8792a\"/><text x=\"294\" y=\"52\">2000-19</text><text x=\"294\" y=\"90\">New states</text></g></svg><p>The Congress had promised linguistic provinces since the 1920s. After Partition, leaders feared a second break-up. The <b>Dar Commission</b> (1948) and the <b>JVP Committee</b> (Nehru, Patel, Pattabhi Sitaramayya, 1949) advised against language as the basis.</p><p>The mood changed after <b>Potti Sriramulu</b> died on 15 December 1952 after a fast for a Telugu state. <b>Andhra</b> was formed on 1 October 1953.</p><p>The <b>States Reorganisation Commission</b> (Fazl Ali, K.M. Panikkar and H.N. Kunzru, report 1955) accepted language as a main basis, but stressed unity and the needs of finance and defence. The <b>States Reorganisation Act, 1956</b> made 14 states and 6 Union Territories.</p>"
+   "b": "<svg class=\"d\" viewBox=\"0 0 320 130\"><line x1=\"14\" y1=\"70\" x2=\"306\" y2=\"70\" stroke=\"#5d6474\" stroke-width=\"2\"/><g font-size=\"10\" fill=\"#1d2433\" text-anchor=\"middle\"><circle cx=\"24\" cy=\"70\" r=\"4\" fill=\"#a8792a\"/><text x=\"24\" y=\"52\">1948-49</text><text x=\"24\" y=\"90\">Dar, JVP</text><circle cx=\"78\" cy=\"70\" r=\"4\" fill=\"#a8792a\"/><text x=\"78\" y=\"52\">1953</text><text x=\"78\" y=\"90\">Andhra</text><circle cx=\"132\" cy=\"70\" r=\"4\" fill=\"#a8792a\"/><text x=\"132\" y=\"52\">1956</text><text x=\"132\" y=\"90\">SRA 1956</text><circle cx=\"186\" cy=\"70\" r=\"4\" fill=\"#a8792a\"/><text x=\"186\" y=\"52\">1960-66</text><text x=\"186\" y=\"90\">Maha., Punjab</text><circle cx=\"240\" cy=\"70\" r=\"4\" fill=\"#a8792a\"/><text x=\"240\" y=\"52\">1972-87</text><text x=\"240\" y=\"90\">North-East, Goa</text><circle cx=\"294\" cy=\"70\" r=\"4\" fill=\"#a8792a\"/><text x=\"294\" y=\"52\">2000-19</text><text x=\"294\" y=\"90\">New states</text></g></svg><p>The Congress had promised linguistic provinces since the 1920s. After Partition, leaders feared a second break-up. The <b>Dar Commission</b> (1948) and the <b>JVP Committee</b> (Nehru, Patel, Pattabhi Sitaramayya, 1949) advised against language as the basis.</p><p>The mood changed after <b>Potti Sriramulu</b> died on 15 December 1952 after a fast for a Telugu state. <b>Andhra</b> was formed on 1 October 1953.</p><p>The <b>States Reorganisation Commission</b> (Fazl Ali, K.M. Panikkar and H.N. Kunzru, report 1955) accepted language as a main basis, but stressed unity and the needs of finance and defence. The <b>States Reorganisation Act, 1956</b> made 14 states and 6 Union Territories.</p>"
   },
   {
    "tag": "Core idea",
@@ -64,56 +64,56 @@
   {
    "q": "Who headed the States Department that integrated princely states?",
    "o": [
-    "C. Rajagopalachari",
-    "Sardar Patel",
     "B.R. Ambedkar",
-    "Maulana Azad"
+    "Maulana Azad",
+    "C. Rajagopalachari",
+    "Sardar Patel"
    ],
-   "a": 1,
+   "a": 3,
    "w": "Patel, with V.P. Menon as secretary."
   },
   {
    "q": "Which commission (1955) recommended language as the main basis of reorganisation?",
    "o": [
-    "Dar Commission",
     "JVP Committee",
     "Fazl Ali Commission",
+    "Dar Commission",
     "Shah Commission"
    ],
-   "a": 2,
+   "a": 1,
    "w": "The States Reorganisation Commission under Fazl Ali."
   },
   {
    "q": "Whose death after a fast in 1952 hastened the formation of Andhra?",
    "o": [
-    "A.Z. Phizo",
     "Potti Sriramulu",
+    "A.Z. Phizo",
     "Master Tara Singh",
     "Laldenga"
    ],
-   "a": 1,
+   "a": 0,
    "w": "Potti Sriramulu, 15 December 1952; Andhra formed on 1 October 1953."
   },
   {
    "q": "Which amendment ended the privy purses?",
    "o": [
-    "26th",
+    "42nd",
     "16th",
-    "36th",
-    "42nd"
+    "26th",
+    "36th"
    ],
-   "a": 0,
+   "a": 2,
    "w": "The 26th Amendment, 1971."
   },
   {
    "q": "Sikkim became a full state through which amendment?",
    "o": [
-    "14th",
-    "36th",
     "56th",
-    "98th"
+    "98th",
+    "14th",
+    "36th"
    ],
-   "a": 1,
+   "a": 3,
    "w": "36th Amendment, 1975."
   },
   {
@@ -121,8 +121,8 @@
    "o": [
     "Mizoram",
     "Nagaland",
-    "Sikkim",
-    "Goa"
+    "Goa",
+    "Sikkim"
    ],
    "a": 1,
    "w": "Nagaland's customary law and land (13th Amendment, 1962)."
@@ -130,23 +130,23 @@
   {
    "q": "The idea of India as a 'state-nation' comes from…",
    "o": [
+    "Selig Harrison",
     "Paul Brass",
     "Stepan, Linz and Yadav",
-    "Selig Harrison",
     "Myron Weiner"
    ],
-   "a": 1,
+   "a": 2,
    "w": "Crafting State-Nations (2011)."
   },
   {
    "q": "The Assam Accord was signed in…",
    "o": [
-    "1971",
-    "1979",
     "1985",
-    "1996"
+    "1996",
+    "1971",
+    "1979"
    ],
-   "a": 2,
+   "a": 0,
    "w": "15 August 1985, ending the Assam Movement."
   },
   {
@@ -154,8 +154,8 @@
    "o": [
     "71st",
     "92nd",
-    "98th",
-    "101st"
+    "101st",
+    "98th"
    ],
    "a": 1,
    "w": "92nd Amendment, 2003."
@@ -163,12 +163,12 @@
   {
    "q": "President's Rule in Manipur began and ended in…",
    "o": [
-    "2023 to 2024",
-    "February 2025 to February 2026",
+    "2024 to 2026",
     "May 2023 to 2025",
-    "2024 to 2026"
+    "2023 to 2024",
+    "February 2025 to February 2026"
    ],
-   "a": 1,
+   "a": 3,
    "w": "Imposed 13 February 2025, revoked 4 February 2026."
   }
  ],

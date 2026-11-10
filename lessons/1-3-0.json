@@ -59,45 +59,45 @@
   {
    "q": "Who vote in the Presidential election?",
    "o": [
-    "Elected MPs and elected MLAs",
     "All MPs only",
     "All MPs and all MLAs including nominated",
+    "Elected MPs and elected MLAs",
     "Rajya Sabha members only"
    ],
-   "a": 0,
+   "a": 2,
    "w": "Elected members of Parliament and state assemblies; nominated members and members of Legislative Councils do not vote."
   },
   {
    "q": "Impeachment of the President is under…",
    "o": [
-    "Article 61",
-    "Article 67",
     "Article 72",
+    "Article 67",
+    "Article 61",
     "Article 124"
    ],
-   "a": 0,
+   "a": 2,
    "w": "Article 61; no President has been impeached."
   },
   {
    "q": "The 42nd Amendment made the Council's advice to the President…",
    "o": [
-    "Binding",
+    "Void",
     "Optional",
-    "Subject to Parliament's approval",
-    "Void"
+    "Binding",
+    "Subject to Parliament's approval"
    ],
-   "a": 0,
+   "a": 2,
    "w": "The 44th Amendment allowed one reconsideration."
   },
   {
    "q": "Which Article lets the President make ordinances?",
    "o": [
-    "Article 111",
-    "Article 123",
     "Article 143",
-    "Article 356"
+    "Article 356",
+    "Article 123",
+    "Article 111"
    ],
-   "a": 1,
+   "a": 2,
    "w": "Article 123, when Parliament is not in session."
   },
   {
@@ -114,10 +114,10 @@
   {
    "q": "The 15th Vice-President of India is…",
    "o": [
+    "B. Sudershan Reddy",
     "Venkaiah Naidu",
-    "Jagdeep Dhankhar",
     "C.P. Radhakrishnan",
-    "B. Sudershan Reddy"
+    "Jagdeep Dhankhar"
    ],
    "a": 2,
    "w": "Elected 9 September 2025."
@@ -125,21 +125,21 @@
   {
    "q": "Zail Singh used which power on the Postal Bill (1986)?",
    "o": [
-    "Pocket veto",
-    "Absolute veto",
     "Pardon",
-    "Ordinance"
+    "Ordinance",
+    "Pocket veto",
+    "Absolute veto"
    ],
-   "a": 0,
+   "a": 2,
    "w": "The bill was never acted on."
   },
   {
    "q": "Collective responsibility is laid down in…",
    "o": [
-    "Article 74(2)",
+    "Article 88",
     "Article 75(3)",
-    "Article 78",
-    "Article 88"
+    "Article 74(2)",
+    "Article 78"
    ],
    "a": 1,
    "w": "Article 75(3): responsible to the Lok Sabha."
@@ -147,21 +147,21 @@
   {
    "q": "Which President returned the Article 356 recommendations for UP (1997) and Bihar (1998)?",
    "o": [
-    "R. Venkataraman",
-    "K.R. Narayanan",
     "A.P.J. Abdul Kalam",
-    "Shankar Dayal Sharma"
+    "Shankar Dayal Sharma",
+    "K.R. Narayanan",
+    "R. Venkataraman"
    ],
-   "a": 1,
+   "a": 2,
    "w": "K.R. Narayanan."
   },
   {
    "q": "The cap on the Council of Ministers at 15% of the Lok Sabha came from the…",
    "o": [
     "52nd Amendment",
-    "73rd Amendment",
+    "101st Amendment",
     "91st Amendment",
-    "101st Amendment"
+    "73rd Amendment"
    ],
    "a": 2,
    "w": "91st Amendment, 2003."

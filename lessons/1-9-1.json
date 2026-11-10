@@ -11,7 +11,7 @@
   {
    "tag": "Core idea",
    "h": "A timeline of Union coalitions",
-   "b": "<svg class=\"d\" viewBox=\"0 0 320 150\"><g font-size=\"9.5\" fill=\"#1d2433\" text-anchor=\"middle\"><rect x=\"6\" y=\"10\" width=\"62\" height=\"56\" rx=\"5\" fill=\"#f1e4c6\" stroke=\"#a8792a\"/><text x=\"37\" y=\"26\" font-weight=\"700\">1977-79</text><text x=\"37\" y=\"42\">Janata</text><text x=\"37\" y=\"56\">Desai</text><rect x=\"72\" y=\"10\" width=\"70\" height=\"56\" rx=\"5\" fill=\"#fff\" stroke=\"#a8792a\"/><text x=\"107\" y=\"26\" font-weight=\"700\">1989-91</text><text x=\"107\" y=\"42\">V.P. Singh,</text><text x=\"107\" y=\"56\">Chandra Sh.</text><rect x=\"146\" y=\"10\" width=\"70\" height=\"56\" rx=\"5\" fill=\"#fff\" stroke=\"#a8792a\"/><text x=\"181\" y=\"26\" font-weight=\"700\">1991-96</text><text x=\"181\" y=\"42\">Rao: minority</text><text x=\"181\" y=\"56\">govt, 5 years</text><rect x=\"220\" y=\"10\" width=\"94\" height=\"56\" rx=\"5\" fill=\"#f4dcd5\" stroke=\"#a3362a\"/><text x=\"267\" y=\"26\" font-weight=\"700\">1996-98</text><text x=\"267\" y=\"42\">13 days; United</text><text x=\"267\" y=\"56\">Front (2 PMs)</text><rect x=\"6\" y=\"80\" width=\"94\" height=\"56\" rx=\"5\" fill=\"#dceaec\" stroke=\"#2f6f7a\"/><text x=\"53\" y=\"96\" font-weight=\"700\">1998-2004</text><text x=\"53\" y=\"112\">NDA: Vajpayee</text><text x=\"53\" y=\"126\">13 months, then full term</text><rect x=\"106\" y=\"80\" width=\"100\" height=\"56\" rx=\"5\" fill=\"#dceaec\" stroke=\"#2f6f7a\"/><text x=\"156\" y=\"96\" font-weight=\"700\">2004-14</text><text x=\"156\" y=\"112\">UPA I and II</text><text x=\"156\" y=\"126\">Manmohan Singh</text><rect x=\"212\" y=\"80\" width=\"102\" height=\"56\" rx=\"5\" fill=\"#f1e4c6\" stroke=\"#a8792a\"/><text x=\"263\" y=\"96\" font-weight=\"700\">2014-24, 2024-</text><text x=\"263\" y=\"112\">BJP majority;</text><text x=\"263\" y=\"126\">NDA coalition 2024</text></g></svg><p>Key points: the Janata Party was a merger, not a coalition. In 1989, V.P. Singh's National Front governed with the BJP and Left giving outside support. The 1996 Vajpayee government lasted 13 days. The 1998 NDA government lost a vote of confidence by one vote in April 1999 after the AIADMK withdrew support, but the 1999 NDA, with over twenty parties, completed a full term. UPA I (2004) lost Left support in 2008 over the Indo-US nuclear deal.</p>"
+   "b": "<svg class=\"d\" viewBox=\"0 0 320 150\"><g font-size=\"10\" fill=\"#1d2433\" text-anchor=\"middle\"><rect x=\"6\" y=\"10\" width=\"62\" height=\"56\" rx=\"5\" fill=\"#f1e4c6\" stroke=\"#a8792a\"/><text x=\"37\" y=\"26\" font-weight=\"700\">1977-79</text><text x=\"37\" y=\"42\">Janata</text><text x=\"37\" y=\"56\">Desai</text><rect x=\"72\" y=\"10\" width=\"70\" height=\"56\" rx=\"5\" fill=\"#fff\" stroke=\"#a8792a\"/><text x=\"107\" y=\"26\" font-weight=\"700\">1989-91</text><text x=\"107\" y=\"42\">V.P. Singh,</text><text x=\"107\" y=\"56\">Chandra Sh.</text><rect x=\"146\" y=\"10\" width=\"70\" height=\"56\" rx=\"5\" fill=\"#fff\" stroke=\"#a8792a\"/><text x=\"181\" y=\"26\" font-weight=\"700\">1991-96</text><text x=\"181\" y=\"42\">Rao: minority</text><text x=\"181\" y=\"56\">govt, 5 years</text><rect x=\"220\" y=\"10\" width=\"94\" height=\"56\" rx=\"5\" fill=\"#f4dcd5\" stroke=\"#a3362a\"/><text x=\"267\" y=\"26\" font-weight=\"700\">1996-98</text><text x=\"267\" y=\"42\">13 days; United</text><text x=\"267\" y=\"56\">Front (2 PMs)</text><rect x=\"6\" y=\"80\" width=\"94\" height=\"56\" rx=\"5\" fill=\"#dceaec\" stroke=\"#2f6f7a\"/><text x=\"53\" y=\"96\" font-weight=\"700\">1998-2004</text><text x=\"53\" y=\"112\">NDA: Vajpayee</text><text x=\"53\" y=\"126\">13 months, then full term</text><rect x=\"106\" y=\"80\" width=\"100\" height=\"56\" rx=\"5\" fill=\"#dceaec\" stroke=\"#2f6f7a\"/><text x=\"156\" y=\"96\" font-weight=\"700\">2004-14</text><text x=\"156\" y=\"112\">UPA I and II</text><text x=\"156\" y=\"126\">Manmohan Singh</text><rect x=\"212\" y=\"80\" width=\"102\" height=\"56\" rx=\"5\" fill=\"#f1e4c6\" stroke=\"#a8792a\"/><text x=\"263\" y=\"96\" font-weight=\"700\">2014-24, 2024-</text><text x=\"263\" y=\"112\">BJP majority;</text><text x=\"263\" y=\"126\">NDA coalition 2024</text></g></svg><p>Key points: the Janata Party was a merger, not a coalition. In 1989, V.P. Singh's National Front governed with the BJP and Left giving outside support. The 1996 Vajpayee government lasted 13 days. The 1998 NDA government lost a vote of confidence by one vote in April 1999 after the AIADMK withdrew support, but the 1999 NDA, with over twenty parties, completed a full term. UPA I (2004) lost Left support in 2008 over the Indo-US nuclear deal.</p>"
   },
   {
    "tag": "Key idea",
@@ -59,45 +59,45 @@
   {
    "q": "Riker's 'size principle' says parties form…",
    "o": [
-    "Oversized coalitions",
-    "Coalitions just large enough to win",
     "Only ideological coalitions",
-    "One-party governments"
+    "Oversized coalitions",
+    "One-party governments",
+    "Coalitions just large enough to win"
    ],
-   "a": 1,
+   "a": 3,
    "w": "Minimum winning coalitions."
   },
   {
    "q": "The Tenth Schedule was added by the…",
    "o": [
+    "91st Amendment",
     "42nd Amendment",
     "52nd Amendment",
-    "73rd Amendment",
-    "91st Amendment"
+    "73rd Amendment"
    ],
-   "a": 1,
+   "a": 2,
    "w": "52nd Amendment, 1985."
   },
   {
    "q": "The 91st Amendment (2003)…",
    "o": [
     "Created the Finance Commission",
-    "Capped ministers at 15% of the House and removed the split exemption",
     "Set up Panchayati Raj",
+    "Capped ministers at 15% of the House and removed the split exemption",
     "Lowered voting age"
    ],
-   "a": 1,
+   "a": 2,
    "w": "It also introduced Article 75(1A)."
   },
   {
    "q": "Which case upheld the anti-defection law but allowed judicial review of the Speaker's decision?",
    "o": [
-    "Kesavananda Bharati",
     "Kihoto Hollohan",
     "Minerva Mills",
+    "Kesavananda Bharati",
     "Indira Gandhi v. Raj Narain"
    ],
-   "a": 1,
+   "a": 0,
    "w": "Kihoto Hollohan v. Zachillhu (1992)."
   },
   {
@@ -105,10 +105,10 @@
    "o": [
     "Deve Gowda",
     "Gujral",
-    "Vajpayee's 1998-99 government",
-    "Chandra Shekhar"
+    "Chandra Shekhar",
+    "Vajpayee's 1998-99 government"
    ],
-   "a": 2,
+   "a": 3,
    "w": "AIADMK withdrew support; vote lost on 17 April 1999."
   },
   {
@@ -125,45 +125,45 @@
   {
    "q": "The Common Minimum Programme was a feature of…",
    "o": [
-    "UPA I (2004)",
     "The Rao government",
     "Janata Party",
+    "UPA I (2004)",
     "Congress (I) 1980"
    ],
-   "a": 0,
+   "a": 2,
    "w": "UPA's CMP in 2004."
   },
   {
    "q": "Which 2023 judgment held that the Governor should not have called the 2022 Maharashtra floor test?",
    "o": [
-    "Subhash Desai",
-    "Nabam Rebia",
     "Rameshwar Prasad",
-    "Shamsher Singh"
+    "Shamsher Singh",
+    "Subhash Desai",
+    "Nabam Rebia"
    ],
-   "a": 0,
+   "a": 2,
    "w": "Subhash Desai v. Principal Secretary, Governor of Maharashtra."
   },
   {
    "q": "Sarkaria's guidelines for a hung Assembly put first…",
    "o": [
-    "The largest single party",
     "The pre-poll alliance with a majority",
     "The Governor's choice",
+    "The largest single party",
     "The previous Chief Minister"
    ],
-   "a": 1,
+   "a": 0,
    "w": "The pre-poll alliance with a majority is first."
   },
   {
    "q": "In 2024 the BJP won…",
    "o": [
-    "272 seats",
-    "303 seats",
     "240 seats",
-    "282 seats"
+    "303 seats",
+    "282 seats",
+    "272 seats"
    ],
-   "a": 2,
+   "a": 0,
    "w": "240; the NDA total was 293."
   }
  ],

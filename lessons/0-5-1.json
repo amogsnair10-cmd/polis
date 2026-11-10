@@ -59,78 +59,78 @@
   {
    "q": "The iron law of oligarchy was formulated by…",
    "o": [
-    "Mosca",
     "Pareto",
     "Michels",
+    "Mosca",
     "Mills"
    ],
-   "a": 2,
+   "a": 1,
    "w": "Michels, Political Parties (1911): organisation leads to oligarchy."
   },
   {
    "q": "Pareto's 'circulation of elites' means…",
    "o": [
+    "The masses become elites",
     "Old elites are replaced by new ones",
-    "Elites rule for life",
     "Elites are elected",
-    "The masses become elites"
+    "Elites rule for life"
    ],
-   "a": 0,
+   "a": 1,
    "w": "Elites decay and are replaced, so rule by a few continues."
   },
   {
    "q": "The Power Elite (1956) argues America was run by…",
    "o": [
-    "Parties and unions",
     "Corporate, military and political leaders",
+    "The middle class",
     "Judges and journalists",
-    "The middle class"
+    "Parties and unions"
    ],
-   "a": 1,
+   "a": 0,
    "w": "C. Wright Mills named corporate, military and executive leaders."
   },
   {
    "q": "In Schumpeter's view, the people's main role is to…",
    "o": [
-    "Choose and remove leaders",
     "Make laws directly",
-    "Discover the common good",
-    "Run the economy"
+    "Run the economy",
+    "Choose and remove leaders",
+    "Discover the common good"
    ],
-   "a": 0,
+   "a": 2,
    "w": "Democracy is a competitive method for choosing leaders."
   },
   {
    "q": "Schumpeter's book on democracy is…",
    "o": [
-    "The Mind and Society",
+    "Capitalism, Socialism and Democracy",
     "Politics and Markets",
     "Polyarchy",
-    "Capitalism, Socialism and Democracy"
+    "The Mind and Society"
    ],
-   "a": 3,
+   "a": 0,
    "w": "Published in 1942."
   },
   {
    "q": "Gaetano Mosca said a ruling minority wins mainly because it is…",
    "o": [
-    "Richer than the majority",
-    "Organised, while the many are not",
+    "Backed by foreign powers",
     "Chosen by lot",
-    "Backed by foreign powers"
+    "Organised, while the many are not",
+    "Richer than the majority"
    ],
-   "a": 1,
+   "a": 2,
    "w": "The Ruling Class (1896): the organised minority beats the unorganised majority."
   },
   {
    "q": "Which is NOT one of Dahl's polyarchy institutions?",
    "o": [
-    "Free and fair elections",
-    "Public ownership of industry",
+    "Alternative sources of information",
     "Associational autonomy",
-    "Alternative sources of information"
+    "Public ownership of industry",
+    "Free and fair elections"
    ],
-   "a": 1,
+   "a": 2,
    "w": "Dahl's list has no requirement for public ownership."
   },
   {
@@ -148,11 +148,11 @@
    "q": "Rajni Kothari's 'Congress system' (1964) described…",
    "o": [
     "A two-party system",
-    "One dominant party working as a bargaining arena of factions",
     "Military rule",
-    "A coalition of regional parties"
+    "A coalition of regional parties",
+    "One dominant party working as a bargaining arena of factions"
    ],
-   "a": 1,
+   "a": 3,
    "w": "A pluralist arena inside one party."
   },
   {
@@ -160,8 +160,8 @@
    "o": [
     "The Tenth Schedule (anti-defection law, 1985)",
     "The RTI Act, 2005",
-    "The 73rd Amendment",
-    "The Representation of the People Act, 1951"
+    "The Representation of the People Act, 1951",
+    "The 73rd Amendment"
    ],
    "a": 0,
    "w": "The 52nd Amendment (1985) added the Tenth Schedule."

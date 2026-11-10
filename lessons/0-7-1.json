@@ -64,67 +64,67 @@
   {
    "q": "Which thinker is regarded as the founder of revisionism?",
    "o": [
-    "Kautsky",
     "Lenin",
-    "Luxemburg",
-    "Bernstein"
+    "Bernstein",
+    "Kautsky",
+    "Luxemburg"
    ],
-   "a": 3,
+   "a": 1,
    "w": "Eduard Bernstein, Evolutionary Socialism (1899)."
   },
   {
    "q": "Marx and Engels described earlier socialists like Owen and Fourier as…",
    "o": [
     "Scientific",
-    "Anarchist",
     "Utopian",
+    "Anarchist",
     "Fabian"
    ],
-   "a": 2,
+   "a": 1,
    "w": "They lacked a theory of class struggle and of change."
   },
   {
    "q": "The Communist Manifesto was published in…",
    "o": [
-    "1848",
-    "1789",
+    "1917",
     "1867",
-    "1917"
+    "1848",
+    "1789"
    ],
-   "a": 0,
+   "a": 2,
    "w": "1848."
   },
   {
    "q": "Lenin's vanguard party idea is set out in…",
    "o": [
-    "What Is To Be Done? (1902)",
     "The State and Revolution (1917)",
-    "Imperialism (1916)",
-    "Capital (1867)"
+    "What Is To Be Done? (1902)",
+    "Capital (1867)",
+    "Imperialism (1916)"
    ],
-   "a": 0,
+   "a": 1,
    "w": "He argued workers on their own reach only trade-union consciousness."
   },
   {
    "q": "'Socialism in one country' is associated with…",
    "o": [
     "Trotsky",
-    "Mao",
     "Lenin",
-    "Stalin"
+    "Stalin",
+    "Mao"
    ],
-   "a": 3,
+   "a": 2,
    "w": "Stalin, against Trotsky's permanent revolution."
   },
   {
    "q": "The Fabian Society was founded in…",
    "o": [
     "1848",
-    "1884",
     "1917",
+    "1884",
     "1945"
    ],
-   "a": 1,
+   "a": 2,
    "w": "1884, in London."
   },
   {
@@ -132,8 +132,8 @@
    "o": [
     "Giddens",
     "Crosland",
-    "Bernstein",
-    "Webb"
+    "Webb",
+    "Bernstein"
    ],
    "a": 1,
    "w": "Anthony Crosland, the classic social-democratic text."
@@ -142,31 +142,31 @@
    "q": "The Avadi session of the Congress (1955) declared the goal of…",
    "o": [
     "Laissez-faire",
+    "Gandhian trusteeship only",
     "Communism",
-    "A socialistic pattern of society",
-    "Gandhian trusteeship only"
+    "A socialistic pattern of society"
    ],
-   "a": 2,
+   "a": 3,
    "w": "It set the direction of Nehruvian planning."
   },
   {
    "q": "The word 'socialist' was added to the Preamble by the…",
    "o": [
-    "24th Amendment",
-    "44th Amendment",
     "42nd Amendment",
-    "52nd Amendment"
+    "52nd Amendment",
+    "24th Amendment",
+    "44th Amendment"
    ],
-   "a": 2,
+   "a": 0,
    "w": "The 42nd Amendment, 1976. The Supreme Court declined to strike it down in November 2024."
   },
   {
    "q": "The first elected communist government in an Indian state was formed in…",
    "o": [
-    "West Bengal in 1977",
-    "Kerala in 1957",
     "Tripura in 1978",
-    "Andhra in 1952"
+    "Kerala in 1957",
+    "Andhra in 1952",
+    "West Bengal in 1977"
    ],
    "a": 1,
    "w": "E.M.S. Namboodiripad, Kerala, 1957."

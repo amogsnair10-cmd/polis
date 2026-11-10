@@ -54,111 +54,111 @@
   {
    "q": "\"The state is male\" is associated with…",
    "o": [
-    "Betty Friedan",
     "Catharine MacKinnon",
+    "Carole Pateman",
     "Mary Wollstonecraft",
-    "Carole Pateman"
+    "Betty Friedan"
    ],
-   "a": 1,
+   "a": 0,
    "w": "Catharine MacKinnon, Toward a Feminist Theory of the State (1989)."
   },
   {
    "q": "The Sexual Contract (1988) was written by…",
    "o": [
     "Kate Millett",
-    "Carole Pateman",
     "Juliet Mitchell",
-    "Heidi Hartmann"
+    "Heidi Hartmann",
+    "Carole Pateman"
    ],
-   "a": 1,
+   "a": 3,
    "w": "Carole Pateman."
   },
   {
    "q": "Intersectionality was coined by…",
    "o": [
-    "Kimberlé Crenshaw",
-    "Chandra Mohanty",
     "Sharmila Rege",
-    "bell hooks"
+    "Kimberlé Crenshaw",
+    "bell hooks",
+    "Chandra Mohanty"
    ],
-   "a": 0,
+   "a": 1,
    "w": "Kimberlé Crenshaw, 1989."
   },
   {
    "q": "Which amendment reserves one-third of Lok Sabha seats for women?",
    "o": [
     "73rd",
-    "74th",
     "104th",
-    "106th"
+    "106th",
+    "74th"
    ],
-   "a": 3,
+   "a": 2,
    "w": "The 106th Amendment (2023), Nari Shakti Vandan Adhiniyam."
   },
   {
    "q": "A Vindication of the Rights of Woman was written by…",
    "o": [
     "J.S. Mill",
-    "Mary Wollstonecraft",
+    "Betty Friedan",
     "Simone de Beauvoir",
-    "Betty Friedan"
+    "Mary Wollstonecraft"
    ],
-   "a": 1,
+   "a": 3,
    "w": "Mary Wollstonecraft, 1792."
   },
   {
    "q": "'Can the Subaltern Speak?' (1988) was written by…",
    "o": [
-    "Chandra Mohanty",
-    "Gayatri Spivak",
     "Uma Chakravarti",
-    "bell hooks"
+    "Chandra Mohanty",
+    "bell hooks",
+    "Gayatri Spivak"
    ],
-   "a": 1,
+   "a": 3,
    "w": "Gayatri Chakravorty Spivak."
   },
   {
    "q": "Mohanty's 'Under Western Eyes' criticised…",
    "o": [
-    "Indian patriarchy only",
-    "Western feminists' view of Third World women",
     "Marxist feminism",
-    "Liberal states"
+    "Liberal states",
+    "Western feminists' view of Third World women",
+    "Indian patriarchy only"
    ],
-   "a": 1,
+   "a": 2,
    "w": "She attacked the image of Third World women as one victim group."
   },
   {
    "q": "Radical feminism's slogan is…",
    "o": [
-    "Equal pay for equal work",
-    "The personal is political",
     "Workers of the world unite",
-    "Rights of man"
+    "Rights of man",
+    "The personal is political",
+    "Equal pay for equal work"
    ],
-   "a": 1,
+   "a": 2,
    "w": "Popularised by Carol Hanisch's 1969 essay."
   },
   {
    "q": "Liberal feminists mainly seek to…",
    "o": [
+    "Create women-only states",
     "Abolish the state",
-    "Reform law and institutions for equal rights",
     "End capitalism",
-    "Create women-only states"
+    "Reform law and institutions for equal rights"
    ],
-   "a": 1,
+   "a": 3,
    "w": "Fix the state through equal rights."
   },
   {
    "q": "Ain't I a Woman (1981) was written by…",
    "o": [
-    "Kimberlé Crenshaw",
     "bell hooks",
     "Angela Davis",
-    "Audre Lorde"
+    "Audre Lorde",
+    "Kimberlé Crenshaw"
    ],
-   "a": 1,
+   "a": 0,
    "w": "bell hooks."
   }
  ],

@@ -59,10 +59,10 @@
   {
    "q": "The term 'ideology' was coined by…",
    "o": [
-    "Marx",
+    "Mannheim",
     "Napoleon",
     "Destutt de Tracy",
-    "Mannheim"
+    "Marx"
    ],
    "a": 2,
    "w": "Destutt de Tracy, in 1796."
@@ -70,20 +70,20 @@
   {
    "q": "The German Ideology was published…",
    "o": [
-    "1848",
     "1867",
     "1917",
-    "1845-46 (written), 1932 (published)"
+    "1845-46 (written), 1932 (published)",
+    "1848"
    ],
-   "a": 3,
+   "a": 2,
    "w": "It was written in 1845-46 and only published in 1932."
   },
   {
    "q": "Gramsci's Prison Notebooks were written in…",
    "o": [
+    "Exile in Paris",
     "Soviet camps",
     "A Nazi camp",
-    "Exile in Paris",
     "Mussolini's prison"
    ],
    "a": 3,
@@ -92,78 +92,78 @@
   {
    "q": "In Gramsci, a 'war of position' means…",
    "o": [
-    "A direct assault on the state",
-    "A long struggle for culture and institutions",
     "A military alliance",
-    "An election campaign only"
+    "An election campaign only",
+    "A long struggle for culture and institutions",
+    "A direct assault on the state"
    ],
-   "a": 1,
+   "a": 2,
    "w": "It contrasts with the war of manoeuvre."
   },
   {
    "q": "Ideological State Apparatuses were theorised by…",
    "o": [
-    "Adorno",
-    "Althusser",
     "Foucault",
-    "Mannheim"
+    "Adorno",
+    "Mannheim",
+    "Althusser"
    ],
-   "a": 1,
+   "a": 3,
    "w": "Louis Althusser, 1970."
   },
   {
    "q": "The culture industry is a concept from…",
    "o": [
-    "Marcuse alone",
     "Horkheimer and Adorno",
     "Gramsci",
-    "Bell"
+    "Bell",
+    "Marcuse alone"
    ],
-   "a": 1,
+   "a": 0,
    "w": "Dialectic of Enlightenment (1944)."
   },
   {
    "q": "One-Dimensional Man (1964) is by…",
    "o": [
-    "Fromm",
-    "Lukacs",
+    "Habermas",
     "Marcuse",
-    "Habermas"
+    "Lukacs",
+    "Fromm"
    ],
-   "a": 2,
+   "a": 1,
    "w": "Herbert Marcuse."
   },
   {
    "q": "The End of Ideology (1960) was written by…",
    "o": [
-    "Daniel Bell",
-    "Fukuyama",
     "Huntington",
+    "Fukuyama",
+    "Daniel Bell",
     "Aron"
    ],
-   "a": 0,
+   "a": 2,
    "w": "Bell argued the great ideological battles had faded in the West."
   },
   {
    "q": "Ranajit Guha's Dominance without Hegemony (1997) argues that the Raj…",
    "o": [
-    "Won Indian consent",
     "Ruled with Gramscian methods",
-    "Ruled mainly by coercion without winning hegemony",
-    "Was never colonial"
+    "Won Indian consent",
+    "Was never colonial",
+    "Ruled mainly by coercion without winning hegemony"
    ],
-   "a": 2,
+   "a": 3,
    "w": "Colonial rule relied on dominance; persuasion was weak."
   },
   {
    "q": "Hegemonic stability theory is linked with…",
    "o": [
-    "Kindleberger and Gilpin",
-    "Waltz and Morgenthau",
     "Wendt and Cox",
-    "Said and Fanon"
+    "Waltz and Morgenthau",
+    "Said and Fanon",
+    "Kindleberger and Gilpin"
    ],
-   "a": 0,
+   "a": 3,
    "w": "A leading power provides public goods for an open order."
   }
  ],

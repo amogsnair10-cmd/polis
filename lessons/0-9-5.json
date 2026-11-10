@@ -65,9 +65,9 @@
    "q": "Mill's harm principle says power over an individual is justified only to…",
    "o": [
     "Make them happier",
-    "Improve their morals",
+    "Increase total utility",
     "Prevent harm to others",
-    "Increase total utility"
+    "Improve their morals"
    ],
    "a": 2,
    "w": "The only purpose is to prevent harm to others."
@@ -75,20 +75,20 @@
   {
    "q": "Mill's change to Bentham's utilitarianism was to add…",
    "o": [
-    "The quantity of pleasure",
-    "The quality of pleasure",
+    "Divine command",
     "Natural rights",
-    "Divine command"
+    "The quantity of pleasure",
+    "The quality of pleasure"
    ],
-   "a": 1,
+   "a": 3,
    "w": "Higher pleasures are better than lower ones, not just more pleasure."
   },
   {
    "q": "Whose system of proportional representation did Mill support?",
    "o": [
     "Thomas Hare",
-    "d'Hondt",
     "Bentham",
+    "d'Hondt",
     "Tocqueville"
    ],
    "a": 0,
@@ -99,8 +99,8 @@
    "o": [
     "Rich and poor",
     "Opinion and incitement",
-    "Self- and other-regarding acts",
-    "Majority and minority"
+    "Majority and minority",
+    "Self- and other-regarding acts"
    ],
    "a": 1,
    "w": "The same words are allowed in print but not as incitement to an angry mob."
@@ -108,10 +108,10 @@
   {
    "q": "Which Indian case echoes Mill's line between advocacy and incitement?",
    "o": [
-    "Kesavananda Bharati",
-    "Shreya Singhal",
     "Maneka Gandhi",
-    "Indra Sawhney"
+    "Shreya Singhal",
+    "Indra Sawhney",
+    "Kesavananda Bharati"
    ],
    "a": 1,
    "w": "Shreya Singhal (2015) struck down Section 66A using this distinction."
@@ -120,55 +120,55 @@
    "q": "Mill compares human nature to…",
    "o": [
     "A machine",
+    "A ship",
     "A tree",
-    "A river",
-    "A ship"
+    "A river"
    ],
-   "a": 1,
+   "a": 2,
    "w": "A tree that must grow and develop on all sides."
   },
   {
    "q": "Mill's idea of individuality was influenced by…",
    "o": [
+    "Rousseau",
     "Hegel",
     "Wilhelm von Humboldt",
-    "Rousseau",
     "Kant"
    ],
-   "a": 1,
+   "a": 2,
    "w": "He quotes Humboldt on the harmonious development of human powers."
   },
   {
    "q": "On voting, Mill proposed…",
    "o": [
-    "A secret ballot for all",
     "Plural votes for the educated",
     "Voting only for property owners",
+    "A secret ballot for all",
     "Compulsory voting"
    ],
-   "a": 1,
+   "a": 0,
    "w": "Plural voting, and he opposed the secret ballot."
   },
   {
    "q": "The Subjection of Women was published in…",
    "o": [
-    "1859",
+    "1869",
     "1861",
     "1867",
-    "1869"
+    "1859"
    ],
-   "a": 3,
+   "a": 0,
    "w": "1869."
   },
   {
    "q": "Mill feared democracy could produce…",
    "o": [
-    "A tyranny of the majority",
-    "A dictatorship of the proletariat",
     "A Leviathan",
-    "Anarchy only"
+    "A tyranny of the majority",
+    "Anarchy only",
+    "A dictatorship of the proletariat"
    ],
-   "a": 0,
+   "a": 1,
    "w": "Following Tocqueville, he feared majority opinion would crush individuality."
   }
  ],

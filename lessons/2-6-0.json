@@ -59,43 +59,43 @@
   {
    "q": "The Truman Doctrine was announced on:",
    "o": [
-    "5 June 1947",
     "4 April 1949",
     "12 March 1947",
-    "14 May 1955"
+    "14 May 1955",
+    "5 June 1947"
    ],
-   "a": 2,
+   "a": 1,
    "w": "12 March 1947, with aid to Greece and Turkey."
   },
   {
    "q": "Containment as a strategy was articulated by:",
    "o": [
     "Henry Kissinger",
-    "Dean Acheson",
     "George Kennan",
-    "Paul Nitze"
+    "Paul Nitze",
+    "Dean Acheson"
    ],
-   "a": 2,
+   "a": 1,
    "w": "Kennan's Long Telegram (1946) and X article (1947)."
   },
   {
    "q": "NATO was founded in:",
    "o": [
-    "1949",
-    "1947",
     "1955",
-    "1961"
+    "1949",
+    "1961",
+    "1947"
    ],
-   "a": 0,
+   "a": 1,
    "w": "The North Atlantic Treaty was signed on 4 April 1949 by 12 states."
   },
   {
    "q": "The Warsaw Pact was formed in response to:",
    "o": [
-    "Berlin's division",
+    "The Suez crisis",
     "West Germany's entry into NATO",
-    "The Marshall Plan",
-    "The Suez crisis"
+    "Berlin's division",
+    "The Marshall Plan"
    ],
    "a": 1,
    "w": "West Germany joined NATO in May 1955; the Warsaw Pact followed."
@@ -104,29 +104,29 @@
    "q": "The Cuban Missile Crisis ended with:",
    "o": [
     "A US invasion of Cuba",
-    "Soviet withdrawal of missiles and a US pledge not to invade Cuba",
+    "A Soviet blockade of Berlin",
     "A UN trusteeship for Cuba",
-    "A Soviet blockade of Berlin"
+    "Soviet withdrawal of missiles and a US pledge not to invade Cuba"
    ],
-   "a": 1,
+   "a": 3,
    "w": "Also, US missiles in Turkey were quietly removed later."
   },
   {
    "q": "The Helsinki Final Act was signed in:",
    "o": [
-    "1975",
-    "1962",
     "1969",
-    "1987"
+    "1987",
+    "1962",
+    "1975"
    ],
-   "a": 0,
+   "a": 3,
    "w": "The CSCE Final Act of 1975."
   },
   {
    "q": "Which treaty eliminated a class of US and Soviet missiles in 1987?",
    "o": [
-    "SALT I",
     "ABM Treaty",
+    "SALT I",
     "INF Treaty",
     "START II"
    ],
@@ -136,34 +136,34 @@
   {
    "q": "Historian John Lewis Gaddis's We Now Know (1997) is classed as:",
    "o": [
-    "Orthodox",
-    "Revisionist",
     "Marxist",
-    "Post-revisionist"
+    "Post-revisionist",
+    "Revisionist",
+    "Orthodox"
    ],
-   "a": 3,
+   "a": 1,
    "w": "He used new Soviet archives and gave weight to Stalin's role."
   },
   {
    "q": "The Indo-Soviet Treaty of Peace, Friendship and Cooperation was signed in:",
    "o": [
-    "1971",
+    "1979",
     "1955",
     "1962",
-    "1979"
+    "1971"
    ],
-   "a": 0,
+   "a": 3,
    "w": "August 1971, before the Bangladesh war."
   },
   {
    "q": "The Soviet Union was formally dissolved in:",
    "o": [
     "November 1989",
+    "December 1991",
     "October 1990",
-    "July 1991",
-    "December 1991"
+    "July 1991"
    ],
-   "a": 3,
+   "a": 1,
    "w": "Gorbachev resigned on 25 December 1991."
   }
  ],

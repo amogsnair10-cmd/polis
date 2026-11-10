@@ -59,64 +59,64 @@
   {
    "q": "The Indira Doctrine is often compared to the:",
    "o": [
-    "Monroe Doctrine",
-    "Truman Doctrine",
     "Brezhnev Doctrine",
-    "Marshall Plan"
+    "Marshall Plan",
+    "Monroe Doctrine",
+    "Truman Doctrine"
    ],
-   "a": 0,
+   "a": 2,
    "w": "It asserts that outside powers should not intervene in South Asia."
   },
   {
    "q": "The Gujral Doctrine is associated with:",
    "o": [
-    "Non-reciprocity towards smaller neighbours",
     "Nuclear first use",
+    "Bilateral military pacts",
     "Look East",
-    "Bilateral military pacts"
+    "Non-reciprocity towards smaller neighbours"
    ],
-   "a": 0,
+   "a": 3,
    "w": "I.K. Gujral, 1996-97."
   },
   {
    "q": "Who wrote 'Modi's World'?",
    "o": [
-    "C. Raja Mohan",
     "Shivshankar Menon",
     "Pratap Bhanu Mehta",
-    "Kanti Bajpai"
+    "Kanti Bajpai",
+    "C. Raja Mohan"
    ],
-   "a": 0,
+   "a": 3,
    "w": "C. Raja Mohan (2015)."
   },
   {
    "q": "'Choices: Inside the Making of India's Foreign Policy' was written by:",
    "o": [
-    "Shivshankar Menon",
+    "Sunil Khilnani",
     "S. Jaishankar",
     "Shyam Saran",
-    "Sunil Khilnani"
+    "Shivshankar Menon"
    ],
-   "a": 0,
+   "a": 3,
    "w": "Shivshankar Menon (2016)."
   },
   {
    "q": "The 2012 report 'Nonalignment 2.0' was edited/authored by a group including:",
    "o": [
+    "Kautilya",
     "Sunil Khilnani",
     "Henry Kissinger",
-    "K. Natwar Singh",
-    "Kautilya"
+    "K. Natwar Singh"
    ],
-   "a": 0,
+   "a": 1,
    "w": "Sunil Khilnani, Rajiv Kumar, Srinath Raghavan, Shyam Saran and others."
   },
   {
    "q": "The Panchsheel Agreement with China was signed in:",
    "o": [
     "1954",
-    "1947",
     "1962",
+    "1947",
     "1971"
    ],
    "a": 0,
@@ -125,23 +125,23 @@
   {
    "q": "Which event is generally seen as a major break in India's economy-driven diplomacy?",
    "o": [
-    "1991 reforms",
     "1947 Independence",
-    "1975 Emergency",
-    "2004 elections"
+    "2004 elections",
+    "1991 reforms",
+    "1975 Emergency"
    ],
-   "a": 0,
+   "a": 2,
    "w": "The 1991 reforms linked foreign policy to economics."
   },
   {
    "q": "India became an overt nuclear weapon state in:",
    "o": [
-    "1998",
-    "1974",
+    "1962",
     "2008",
-    "1962"
+    "1974",
+    "1998"
    ],
-   "a": 0,
+   "a": 3,
    "w": "Pokhran-II, May 1998."
   },
   {
@@ -158,12 +158,12 @@
   {
    "q": "Operation Sindoor (2025) is cited as an example of India's:",
    "o": [
-    "More assertive response to terrorism",
-    "Peacekeeping role",
     "Non-alignment",
-    "Arms control"
+    "Arms control",
+    "Peacekeeping role",
+    "More assertive response to terrorism"
    ],
-   "a": 0,
+   "a": 3,
    "w": "It is seen as a shift towards punitive, declared responses."
   }
  ],

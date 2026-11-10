@@ -59,109 +59,109 @@
   {
    "q": "Locke's natural rights are…",
    "o": [
-    "Life, liberty, property",
-    "Liberty, equality, fraternity",
     "Food, shelter, work",
-    "Speech, religion, assembly"
+    "Life, liberty, property",
+    "Speech, religion, assembly",
+    "Liberty, equality, fraternity"
    ],
-   "a": 0,
+   "a": 1,
    "w": "Locke: life, liberty and property."
   },
   {
    "q": "The Road to Serfdom (1944) was written by…",
    "o": [
+    "Friedman",
     "Nozick",
     "Hayek",
-    "Friedman",
     "Keynes"
    ],
-   "a": 1,
+   "a": 2,
    "w": "Friedrich Hayek."
   },
   {
    "q": "Nozick compared taxation of earnings to…",
    "o": [
+    "Charity",
     "Theft",
     "Forced labour",
-    "Slavery of the state",
-    "Charity"
+    "Slavery of the state"
    ],
-   "a": 1,
+   "a": 2,
    "w": "Nozick said taxation of earnings is on a par with forced labour."
   },
   {
    "q": "Welfare liberalism is linked with…",
    "o": [
-    "T.H. Green",
+    "Hobbes",
     "Nozick",
     "Hayek",
-    "Hobbes"
+    "T.H. Green"
    ],
-   "a": 0,
+   "a": 3,
    "w": "T.H. Green's positive liberty underpins welfare liberalism."
   },
   {
    "q": "India's shift to LPG reforms happened in…",
    "o": [
-    "1971",
-    "1985",
     "1991",
+    "1985",
+    "1971",
     "2004"
    ],
-   "a": 2,
+   "a": 0,
    "w": "The 1991 economic reforms."
   },
   {
    "q": "The term 'Washington Consensus' was coined by…",
    "o": [
-    "Milton Friedman",
     "John Williamson",
+    "Friedrich Hayek",
     "Joseph Stiglitz",
-    "Friedrich Hayek"
+    "Milton Friedman"
    ],
-   "a": 1,
+   "a": 0,
    "w": "John Williamson, 1989."
   },
   {
    "q": "Hayek's key argument against central planning is about…",
    "o": [
+    "Military power",
     "Morality of profit",
     "Dispersed knowledge",
-    "Military power",
     "Religious freedom"
    ],
-   "a": 1,
+   "a": 2,
    "w": "No planner can know what millions of people know."
   },
   {
    "q": "Anarchy, State, and Utopia (1974) argues for a…",
    "o": [
+    "World state",
     "Welfare state",
-    "Minimal night-watchman state",
     "Socialist state",
-    "World state"
+    "Minimal night-watchman state"
    ],
-   "a": 1,
+   "a": 3,
    "w": "Nozick's minimal state."
   },
   {
    "q": "Which welfare scheme came in 2005?",
    "o": [
-    "MGNREGA",
     "NFSA",
+    "MGNREGA",
     "PM-KISAN",
     "Ayushman Bharat"
    ],
-   "a": 0,
+   "a": 1,
    "w": "The Mahatma Gandhi National Rural Employment Guarantee Act, 2005."
   },
   {
    "q": "For liberals, the state is best described as a…",
    "o": [
-    "Committee of the ruling class",
+    "Overdeveloped machine",
     "Neutral umpire",
     "Patriarchal institution",
-    "Overdeveloped machine"
+    "Committee of the ruling class"
    ],
    "a": 1,
    "w": "It referees between competing interests."

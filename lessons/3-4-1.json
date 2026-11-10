@@ -64,32 +64,32 @@
   {
    "q": "The McMahon Line is the boundary drawn in:",
    "o": [
-    "1914 Simla Convention",
-    "1954 Panchsheel Agreement",
     "1890 Anglo-Chinese Convention",
-    "1962 ceasefire"
+    "1954 Panchsheel Agreement",
+    "1962 ceasefire",
+    "1914 Simla Convention"
    ],
-   "a": 0,
+   "a": 3,
    "w": "Sir Henry McMahon drew it at the 1914 Simla Convention; China rejects it."
   },
   {
    "q": "The 1996 CBM agreement prohibits firearms and explosives within what distance of the LAC?",
    "o": [
+    "10 km",
     "1 km",
-    "2 km",
     "5 km",
-    "10 km"
+    "2 km"
    ],
-   "a": 1,
+   "a": 3,
    "w": "Within 2 km of the LAC. This explains the stones-and-rods clash at Galwan."
   },
   {
    "q": "The Galwan clash took place on:",
    "o": [
     "15 June 2020",
+    "1 September 2022",
     "5 May 2020",
-    "28 August 2017",
-    "1 September 2022"
+    "28 August 2017"
    ],
    "a": 0,
    "w": "15 June 2020; 20 Indian soldiers died."
@@ -97,76 +97,76 @@
   {
    "q": "The Doklam standoff of 2017 lasted about:",
    "o": [
-    "15 days",
     "45 days",
     "73 days",
-    "6 months"
+    "6 months",
+    "15 days"
    ],
-   "a": 2,
+   "a": 1,
    "w": "16 June to 28 August 2017, about 73 days."
   },
   {
    "q": "The October 2024 India-China arrangement mainly covered patrolling at:",
    "o": [
-    "Galwan and Gogra",
     "Depsang and Demchok",
     "Pangong and Hot Springs",
-    "Tawang and Yangtse"
+    "Tawang and Yangtse",
+    "Galwan and Gogra"
    ],
-   "a": 1,
+   "a": 0,
    "w": "It restored patrolling at Depsang Plains and Demchok, the last two friction points."
   },
   {
    "q": "The Special Representatives mechanism on the boundary began in:",
    "o": [
     "1988",
-    "1993",
     "2003",
+    "1993",
     "2013"
    ],
-   "a": 2,
+   "a": 1,
    "w": "Established in 2003 during Vajpayee's visit to China."
   },
   {
    "q": "The 2005 agreement on boundary settlement is called:",
    "o": [
-    "Political Parameters and Guiding Principles",
     "Border Defence Cooperation Agreement",
-    "Maintenance of Peace and Tranquillity",
-    "Wuhan Consensus"
+    "Wuhan Consensus",
+    "Political Parameters and Guiding Principles",
+    "Maintenance of Peace and Tranquillity"
    ],
-   "a": 0,
+   "a": 2,
    "w": "The 2005 Political Parameters and Guiding Principles. BDCA is 2013; the 1993 agreement is on peace and tranquillity."
   },
   {
    "q": "Which stretch did Pakistan cede to China in 1963?",
    "o": [
-    "Siachen",
     "Shaksgam Valley",
+    "Siachen",
     "Aksai Chin",
     "Trans-Karakoram Doklam"
    ],
-   "a": 1,
+   "a": 0,
    "w": "Pakistan ceded the Shaksgam Valley under the 1963 boundary agreement with China."
   },
   {
    "q": "Which of these is NOT part of the 'three mutuals' in Jaishankar's formula?",
    "o": [
+    "Mutual dependence",
     "Mutual respect",
-    "Mutual sensitivity",
     "Mutual interest",
-    "Mutual dependence"
+    "Mutual sensitivity"
    ],
-   "a": 3,
+   "a": 0,
    "w": "The three mutuals are respect, sensitivity and interest."
   },
   {
    "q": "Where did Modi and Xi meet in October 2024, soon after the patrolling agreement?",
    "o": [
-    "Wuhan",
+    "Mamallapuram",
     "Kazan",
     "Tianjin",
-    "Mamallapuram"
+    "Wuhan"
    ],
    "a": 1,
    "w": "At the BRICS summit in Kazan on 23 October 2024. Wuhan was 2018, Mamallapuram 2019, Tianjin 2025."

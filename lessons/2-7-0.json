@@ -64,8 +64,8 @@
   {
    "q": "The Bretton Woods conference was held in:",
    "o": [
-    "October 1947",
     "August 1971",
+    "October 1947",
     "April 1994",
     "July 1944"
    ],
@@ -75,34 +75,34 @@
   {
    "q": "Keynes proposed an international currency called the:",
    "o": [
-    "Bancor",
-    "SDR",
     "Unitas",
-    "Ecu"
+    "Bancor",
+    "Ecu",
+    "SDR"
    ],
-   "a": 0,
+   "a": 1,
    "w": "White's dollar-centred plan largely prevailed."
   },
   {
    "q": "Under the Bretton Woods system, the US dollar was convertible to gold at:",
    "o": [
-    "$20 per ounce",
     "$35 per ounce",
     "$42 per ounce",
-    "$100 per ounce"
+    "$100 per ounce",
+    "$20 per ounce"
    ],
-   "a": 1,
+   "a": 0,
    "w": "Until the Nixon shock of 1971."
   },
   {
    "q": "The Triffin dilemma refers to:",
    "o": [
-    "Tariff wars",
-    "Debt crises in Latin America",
+    "Farm subsidies",
     "The reserve-currency country's deficits undermining trust in its currency",
-    "Farm subsidies"
+    "Debt crises in Latin America",
+    "Tariff wars"
    ],
-   "a": 2,
+   "a": 1,
    "w": "Robert Triffin warned of it in 1960."
   },
   {
@@ -110,8 +110,8 @@
    "o": [
     "Jamaica Accords",
     "Smithsonian Agreement",
-    "Plaza Accord",
-    "Louvre Accord"
+    "Louvre Accord",
+    "Plaza Accord"
    ],
    "a": 0,
    "w": "The Jamaica Accords amended the IMF Articles."
@@ -119,54 +119,54 @@
   {
    "q": "Which GATT round created the WTO?",
    "o": [
-    "Kennedy Round",
     "Tokyo Round",
-    "Uruguay Round",
-    "Doha Round"
+    "Doha Round",
+    "Kennedy Round",
+    "Uruguay Round"
    ],
-   "a": 2,
+   "a": 3,
    "w": "The Uruguay Round (1986-94) ended with the Marrakesh Agreement."
   },
   {
    "q": "The WTO came into existence on:",
    "o": [
-    "1 January 1948",
-    "11 December 2001",
     "1 January 2005",
-    "1 January 1995"
+    "1 January 1995",
+    "11 December 2001",
+    "1 January 1948"
    ],
-   "a": 3,
+   "a": 1,
    "w": "Following the Marrakesh Agreement of April 1994."
   },
   {
    "q": "Since December 2019, the WTO Appellate Body has been unable to function because:",
    "o": [
-    "The US blocked new appointments",
     "China withdrew",
-    "India vetoed its budget",
-    "The EU dissolved it"
+    "The US blocked new appointments",
+    "The EU dissolved it",
+    "India vetoed its budget"
    ],
-   "a": 0,
+   "a": 1,
    "w": "Members use the MPIA as a stopgap."
   },
   {
    "q": "At MC14 in Yaounde (March 2026), members:",
    "o": [
-    "Agreed a permanent e-commerce moratorium",
     "Restored the Appellate Body",
     "Concluded the Doha Round",
-    "Failed to extend the e-commerce duty moratorium"
+    "Failed to extend the e-commerce duty moratorium",
+    "Agreed a permanent e-commerce moratorium"
    ],
-   "a": 3,
+   "a": 2,
    "w": "The moratorium lapsed and the Appellate Body stayed frozen."
   },
   {
    "q": "In Novartis v. Union of India (2013), the Supreme Court upheld:",
    "o": [
-    "Compulsory licensing for all drugs",
-    "Section 3(d) of the Patents Act against evergreening",
     "The TRIPS waiver",
-    "Data exclusivity"
+    "Section 3(d) of the Patents Act against evergreening",
+    "Data exclusivity",
+    "Compulsory licensing for all drugs"
    ],
    "a": 1,
    "w": "It refused a patent for a modified form of Glivec."

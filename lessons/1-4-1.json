@@ -59,32 +59,32 @@
   {
    "q": "'Non-party political formations' is a phrase of…",
    "o": [
+    "M.N. Srinivas",
     "Rajni Kothari",
     "Partha Chatterjee",
-    "M.N. Srinivas",
     "Gail Omvedt"
    ],
-   "a": 0,
+   "a": 1,
    "w": "Kothari (1984)."
   },
   {
    "q": "The MKSS was formed in…",
    "o": [
-    "1972",
     "1990",
+    "1972",
     "2005",
     "2011"
    ],
-   "a": 1,
+   "a": 0,
    "w": "1990, in Rajasthan."
   },
   {
    "q": "Who started the Bhoodan movement?",
    "o": [
     "Vinoba Bhave",
+    "Medha Patkar",
     "J.P. Narayan",
-    "Gandhi",
-    "Medha Patkar"
+    "Gandhi"
    ],
    "a": 0,
    "w": "Vinoba Bhave, at Pochampalli in 1951."
@@ -92,78 +92,78 @@
   {
    "q": "Partha Chatterjee distinguishes civil society from…",
    "o": [
-    "Political society",
-    "State society",
     "Market society",
+    "State society",
+    "Political society",
     "Mass society"
    ],
-   "a": 0,
+   "a": 2,
    "w": "The Politics of the Governed (2004)."
   },
   {
    "q": "SEWA was founded in Ahmedabad by…",
    "o": [
-    "Ela Bhatt",
-    "Aruna Roy",
     "Medha Patkar",
+    "Aruna Roy",
+    "Ela Bhatt",
     "Vandana Shiva"
    ],
-   "a": 0,
+   "a": 2,
    "w": "Ela Bhatt, 1972."
   },
   {
    "q": "The RTI Act was passed in…",
    "o": [
-    "2002",
     "2005",
-    "2009",
-    "2013"
+    "2002",
+    "2013",
+    "2009"
    ],
-   "a": 1,
+   "a": 0,
    "w": "2005."
   },
   {
    "q": "The Kerala People's Plan Campaign began in…",
    "o": [
-    "1987",
     "1996",
-    "2005",
-    "2012"
+    "2012",
+    "1987",
+    "2005"
    ],
-   "a": 1,
+   "a": 0,
    "w": "1996."
   },
   {
    "q": "The jan sunwai technique is associated with…",
    "o": [
+    "Dalit Panthers",
     "MKSS",
     "Chipko",
-    "Dalit Panthers",
     "SEWA"
    ],
-   "a": 0,
+   "a": 1,
    "w": "Public hearings of muster rolls and bills."
   },
   {
    "q": "PUCL v. Union of India (2001) was linked to the campaign on…",
    "o": [
-    "Right to food",
     "Right to education",
-    "Right to information",
-    "Land acquisition"
+    "Right to food",
+    "Land acquisition",
+    "Right to information"
    ],
-   "a": 0,
+   "a": 1,
    "w": "It led to midday meal and PDS orders."
   },
   {
    "q": "Which law regulates foreign funds to NGOs?",
    "o": [
-    "FCRA, 2010",
+    "UAPA, 1967",
     "RTI Act, 2005",
     "Companies Act, 2013",
-    "UAPA, 1967"
+    "FCRA, 2010"
    ],
-   "a": 0,
+   "a": 3,
    "w": "The Foreign Contribution (Regulation) Act; amended 2020."
   }
  ],

@@ -64,111 +64,111 @@
   {
    "q": "Sir Syed founded the Muhammadan Anglo-Oriental College in…",
    "o": [
-    "1857",
     "1875",
+    "1920",
     "1885",
-    "1920"
+    "1857"
    ],
-   "a": 1,
+   "a": 0,
    "w": "Founded 1875; it became AMU in 1920."
   },
   {
    "q": "Sir Syed's book on the causes of the 1857 revolt blamed mainly…",
    "o": [
     "Muslim leaders",
-    "Lack of Indians in the legislature",
+    "The Mughal court",
     "Hindu reformers",
-    "The Mughal court"
+    "Lack of Indians in the legislature"
    ],
-   "a": 1,
+   "a": 3,
    "w": "Asbab-e-Baghawat-e-Hind blamed British policy, including no Indian voice in the legislature."
   },
   {
    "q": "Aurobindo's 'New Lamps for Old' attacked…",
    "o": [
     "British education",
-    "The Moderates' politics",
     "Caste practices",
+    "The Moderates' politics",
     "Muslim League"
    ],
-   "a": 1,
+   "a": 2,
    "w": "It criticised the Moderates' petition-based politics."
   },
   {
    "q": "Aurobindo was tried and acquitted in the…",
    "o": [
-    "Meerut Conspiracy Case",
     "Alipore Bomb Case",
     "Kakori Case",
-    "Lahore Conspiracy Case"
+    "Lahore Conspiracy Case",
+    "Meerut Conspiracy Case"
    ],
-   "a": 1,
+   "a": 0,
    "w": "The Alipore Bomb Case, 1908–09."
   },
   {
    "q": "Sir Syed's journal for social reform was…",
    "o": [
-    "Al-Hilal",
     "Tahzib-ul-Akhlaq",
     "Comrade",
-    "Kesari"
+    "Kesari",
+    "Al-Hilal"
    ],
-   "a": 1,
+   "a": 0,
    "w": "Tahzib-ul-Akhlaq, started in 1870. Al-Hilal was Maulana Azad's paper."
   },
   {
    "q": "Sir Syed's opponents mocked his rationalism with the label…",
    "o": [
-    "Kafir",
     "Nechari",
     "Wahhabi",
+    "Kafir",
     "Sufi"
    ],
-   "a": 1,
+   "a": 0,
    "w": "From 'nature': they called him a naturalist."
   },
   {
    "q": "Aurobindo's paper during the Swadeshi movement was…",
    "o": [
     "Kesari",
-    "Bande Mataram",
     "Young India",
+    "Bande Mataram",
     "Amrita Bazar Patrika"
    ],
-   "a": 1,
+   "a": 2,
    "w": "He wrote for Bande Mataram."
   },
   {
    "q": "Aurobindo went to Pondicherry in…",
    "o": [
     "1905",
-    "1908",
     "1910",
-    "1926"
+    "1926",
+    "1908"
    ],
-   "a": 2,
+   "a": 1,
    "w": "1910; the Ashram was formally founded in 1926."
   },
   {
    "q": "Sir Syed's Scientific Society was founded in…",
    "o": [
-    "1859",
     "1864",
     "1875",
-    "1886"
+    "1886",
+    "1859"
    ],
-   "a": 1,
+   "a": 0,
    "w": "1864, to translate Western works into Urdu."
   },
   {
    "q": "Aurobindo's later works on human unity include…",
    "o": [
-    "Hind Swaraj",
-    "The Ideal of Human Unity",
     "Discovery of India",
-    "Gitanjali"
+    "Gitanjali",
+    "Hind Swaraj",
+    "The Ideal of Human Unity"
    ],
-   "a": 1,
+   "a": 3,
    "w": "Along with The Human Cycle."
   }
  ],

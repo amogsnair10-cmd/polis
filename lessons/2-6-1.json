@@ -59,43 +59,43 @@
   {
    "q": "The Bandung Conference was held in:",
    "o": [
-    "1947",
-    "1955",
     "1961",
-    "1973"
+    "1973",
+    "1947",
+    "1955"
    ],
-   "a": 1,
+   "a": 3,
    "w": "Bandung, Indonesia, 18-24 April 1955; 29 Asian and African states."
   },
   {
    "q": "The first NAM summit took place in:",
    "o": [
-    "Belgrade",
     "Cairo",
     "Algiers",
-    "New Delhi"
+    "New Delhi",
+    "Belgrade"
    ],
-   "a": 0,
+   "a": 3,
    "w": "Belgrade, 1-6 September 1961, with 25 members."
   },
   {
    "q": "Which leader was NOT one of the five founders of NAM usually named?",
    "o": [
-    "Nehru",
     "Mao Zedong",
     "Tito",
-    "Nasser"
+    "Nasser",
+    "Nehru"
    ],
-   "a": 1,
+   "a": 0,
    "w": "The founders: Nehru, Tito, Nasser, Sukarno, Nkrumah."
   },
   {
    "q": "The Panchsheel principles were first formally stated in the India-China agreement on:",
    "o": [
-    "Kashmir, 1948",
     "Trade, 1962",
+    "Sikkim, 1975",
     "Tibet, 1954",
-    "Sikkim, 1975"
+    "Kashmir, 1948"
    ],
    "a": 2,
    "w": "The Agreement on Trade and Intercourse between the Tibet Region of China and India, April 1954."
@@ -103,8 +103,8 @@
   {
    "q": "India hosted the 7th NAM summit in:",
    "o": [
-    "1961",
     "1971",
+    "1961",
     "1995",
     "1983"
    ],
@@ -114,12 +114,12 @@
   {
    "q": "The Algiers NAM summit (1973) is linked to the call for:",
    "o": [
-    "A New International Economic Order",
     "The NPT",
+    "A New International Economic Order",
     "A Common Market",
     "Nuclear-weapon-free zones"
    ],
-   "a": 0,
+   "a": 1,
    "w": "The NIEO Declaration followed in 1974 at the UN."
   },
   {
@@ -148,22 +148,22 @@
    "q": "The report Nonalignment 2.0 (2012) was published by:",
    "o": [
     "The Planning Commission",
+    "NITI Aayog",
     "The MEA",
-    "The Centre for Policy Research",
-    "NITI Aayog"
+    "The Centre for Policy Research"
    ],
-   "a": 2,
+   "a": 3,
    "w": "A group of Indian strategists associated with CPR."
   },
   {
    "q": "Non-alignment differs from neutrality because it:",
    "o": [
-    "Allows independent judgement on each issue",
+    "Requires UN membership",
     "Means staying out of all wars",
-    "Bans trade with blocs",
-    "Requires UN membership"
+    "Allows independent judgement on each issue",
+    "Bans trade with blocs"
    ],
-   "a": 0,
+   "a": 2,
    "w": "Neutrality is a legal status in war; non-alignment is a policy of independence from blocs."
   }
  ],

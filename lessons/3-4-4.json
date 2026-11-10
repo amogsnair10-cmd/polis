@@ -60,22 +60,22 @@
    "q": "The India–EU Strategic Partnership was announced in:",
    "o": [
     "1994",
-    "2000",
     "2004",
-    "2010"
+    "2010",
+    "2000"
    ],
-   "a": 2,
+   "a": 1,
    "w": "At The Hague summit in 2004."
   },
   {
    "q": "India–EU FTA negotiations (BTIA) first started in:",
    "o": [
-    "1994",
-    "2000",
     "2007",
-    "2013"
+    "1994",
+    "2013",
+    "2000"
    ],
-   "a": 2,
+   "a": 0,
    "w": "Talks began in 2007 and stalled in 2013."
   },
   {
@@ -92,34 +92,34 @@
   {
    "q": "India is only the second partner, after the US, with which the EU set up a:",
    "o": [
-    "Trade and Technology Council",
     "Defence Council",
     "Climate Club",
-    "Strategic Compass"
+    "Strategic Compass",
+    "Trade and Technology Council"
    ],
-   "a": 0,
+   "a": 3,
    "w": "The EU-India TTC was set up in 2022."
   },
   {
    "q": "CBAM stands for:",
    "o": [
+    "Corporate Bilateral Alliance Mechanism",
     "Carbon Border Adjustment Mechanism",
     "Common Border Access Measure",
-    "Climate Bank Assistance Model",
-    "Corporate Bilateral Alliance Mechanism"
+    "Climate Bank Assistance Model"
    ],
-   "a": 0,
+   "a": 1,
    "w": "It taxes the carbon content of selected imports into the EU."
   },
   {
    "q": "The EFTA–India TEPA entered into force in:",
    "o": [
-    "March 2024",
-    "October 2025",
+    "July 2023",
     "January 2026",
-    "July 2023"
+    "October 2025",
+    "March 2024"
    ],
-   "a": 1,
+   "a": 2,
    "w": "Signed 10 March 2024 and in force from 1 October 2025."
   },
   {
@@ -127,8 +127,8 @@
    "o": [
     "Lisbon 2000",
     "Porto 2021",
-    "Delhi 2020",
-    "Brussels 2017"
+    "Brussels 2017",
+    "Delhi 2020"
    ],
    "a": 1,
    "w": "Porto, May 2021."
@@ -136,34 +136,34 @@
   {
    "q": "India's main objection to the EU's CBAM is that it:",
    "o": [
+    "Breaks the WTO TRIPS rules",
     "Bans Indian steel",
     "Imposes costs on developing countries, against common but differentiated responsibilities",
-    "Applies only to India",
-    "Breaks the WTO TRIPS rules"
+    "Applies only to India"
    ],
-   "a": 1,
+   "a": 2,
    "w": "India argues it ignores the CBDR principle and burdens developing economies."
   },
   {
    "q": "Which sector is largely kept out of the FTA because of sensitivity?",
    "o": [
     "Software",
+    "Textiles",
     "Dairy",
-    "Pharmaceuticals",
-    "Textiles"
+    "Pharmaceuticals"
    ],
-   "a": 1,
+   "a": 2,
    "w": "India protected dairy and some farm sectors."
   },
   {
    "q": "The India–UK CETA was signed in:",
    "o": [
-    "July 2025",
-    "March 2024",
     "November 2022",
-    "January 2026"
+    "January 2026",
+    "March 2024",
+    "July 2025"
    ],
-   "a": 0,
+   "a": 3,
    "w": "Signed 24 July 2025."
   }
  ],

@@ -64,12 +64,12 @@
   {
    "q": "For Aristotle, the polis continues to exist for the sake of…",
    "o": [
+    "Defence against enemies",
     "Mere life",
-    "The good life",
     "Protecting property",
-    "Defence against enemies"
+    "The good life"
    ],
-   "a": 1,
+   "a": 3,
    "w": "The state arises for life but continues for the good life."
   },
   {
@@ -77,19 +77,19 @@
    "o": [
     "Polity",
     "Oligarchy",
-    "Democracy",
-    "Tyranny"
+    "Tyranny",
+    "Democracy"
    ],
-   "a": 2,
+   "a": 3,
    "w": "Polity is the true form; democracy is rule by the poor in their own interest."
   },
   {
    "q": "Aristotle's best practical state relies on…",
    "o": [
-    "A philosopher-king",
-    "A large middle class",
     "Common ownership of property",
-    "Rule by the wealthy"
+    "A large middle class",
+    "Rule by the wealthy",
+    "A philosopher-king"
    ],
    "a": 1,
    "w": "Polity is stable when a large middle class holds the balance."
@@ -98,22 +98,22 @@
    "q": "A citizen for Aristotle is one who…",
    "o": [
     "Owns land in the city",
-    "Is born to citizen parents",
     "Shares in ruling and being ruled in turn",
+    "Is born to citizen parents",
     "Pays taxes"
    ],
-   "a": 2,
+   "a": 1,
    "w": "Citizenship means taking part in judging and holding office."
   },
   {
    "q": "Aristotle's main objection to Plato's ideal state was that it…",
    "o": [
-    "Gave too much power to the poor",
     "Sought too much unity",
+    "Gave too much power to the poor",
     "Had no place for philosophers",
     "Ignored education"
    ],
-   "a": 1,
+   "a": 0,
    "w": "He argued a state is a plurality, and too much unity destroys it."
   },
   {
@@ -121,8 +121,8 @@
    "o": [
     "Foreign invasion",
     "Disagreement about equality and justice",
-    "Religious conflict",
-    "Natural disasters"
+    "Natural disasters",
+    "Religious conflict"
    ],
    "a": 1,
    "w": "People revolt when they feel unjustly treated in matters of equality."
@@ -130,43 +130,43 @@
   {
    "q": "Aristotle's term for unnatural wealth-making for its own sake is…",
    "o": [
-    "Oikonomia",
     "Chrematistics",
     "Eudaimonia",
+    "Oikonomia",
     "Telos"
    ],
-   "a": 1,
+   "a": 0,
    "w": "Chrematistics, as opposed to natural household management."
   },
   {
    "q": "'Man is by nature a political animal' appears in…",
    "o": [
+    "Laws",
     "Nicomachean Ethics",
     "Politics",
-    "Republic",
-    "Laws"
+    "Republic"
    ],
-   "a": 1,
+   "a": 2,
    "w": "Aristotle's Politics, Book I."
   },
   {
    "q": "Aristotle's ethics places virtue at…",
    "o": [
-    "The extreme of courage",
-    "The golden mean between extremes",
     "Obedience to the gods",
-    "Maximum pleasure"
+    "The extreme of courage",
+    "Maximum pleasure",
+    "The golden mean between extremes"
    ],
-   "a": 1,
+   "a": 3,
    "w": "Courage lies between cowardice and rashness."
   },
   {
    "q": "The only one of the 158 constitutions that survives is that of…",
    "o": [
-    "Sparta",
-    "Athens",
     "Corinth",
-    "Thebes"
+    "Athens",
+    "Thebes",
+    "Sparta"
    ],
    "a": 1,
    "w": "The Constitution of the Athenians."

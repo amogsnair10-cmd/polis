@@ -59,21 +59,21 @@
   {
    "q": "The Preamble was held to be part of the Constitution in…",
    "o": [
-    "Berubari Union",
-    "Kesavananda Bharati",
     "A.K. Gopalan",
-    "Golaknath"
+    "Berubari Union",
+    "Golaknath",
+    "Kesavananda Bharati"
    ],
-   "a": 1,
+   "a": 3,
    "w": "Kesavananda (1973) overturned the Berubari view."
   },
   {
    "q": "Which amendment added 'socialist', 'secular' and 'integrity' to the Preamble?",
    "o": [
-    "24th",
+    "52nd",
     "42nd",
-    "44th",
-    "52nd"
+    "24th",
+    "44th"
    ],
    "a": 1,
    "w": "42nd Amendment, 1976."
@@ -81,21 +81,21 @@
   {
    "q": "The right to property was removed from Part III by the…",
    "o": [
-    "25th Amendment",
-    "42nd Amendment",
     "44th Amendment",
-    "86th Amendment"
+    "86th Amendment",
+    "25th Amendment",
+    "42nd Amendment"
    ],
-   "a": 2,
+   "a": 0,
    "w": "44th Amendment (1978); now Article 300A."
   },
   {
    "q": "Which case brought 'due process' into Article 21?",
    "o": [
-    "A.K. Gopalan",
+    "Shreya Singhal",
     "Maneka Gandhi",
     "Romesh Thappar",
-    "Shreya Singhal"
+    "A.K. Gopalan"
    ],
    "a": 1,
    "w": "Maneka Gandhi v. Union of India (1978)."
@@ -103,67 +103,67 @@
   {
    "q": "Privacy was held a fundamental right in…",
    "o": [
-    "K.S. Puttaswamy (2017)",
-    "ADM Jabalpur (1976)",
+    "Navtej Johar (2018)",
     "Kharak Singh (1962)",
-    "Navtej Johar (2018)"
+    "K.S. Puttaswamy (2017)",
+    "ADM Jabalpur (1976)"
    ],
-   "a": 0,
+   "a": 2,
    "w": "Nine judges, 24 August 2017."
   },
   {
    "q": "Article 21A on the right to education was added by the…",
    "o": [
     "73rd",
-    "86th",
     "93rd",
+    "86th",
     "101st"
    ],
-   "a": 1,
+   "a": 2,
    "w": "86th Amendment, 2002."
   },
   {
    "q": "The number of Fundamental Duties now in Article 51A is…",
    "o": [
-    "10",
     "11",
     "12",
-    "8"
+    "8",
+    "10"
    ],
-   "a": 1,
+   "a": 0,
    "w": "The 86th Amendment added the eleventh."
   },
   {
    "q": "Who said Article 32 is the 'heart and soul' of the Constitution?",
    "o": [
-    "Nehru",
     "Ambedkar",
-    "K.M. Munshi",
-    "Patel"
+    "Patel",
+    "Nehru",
+    "K.M. Munshi"
    ],
-   "a": 1,
+   "a": 0,
    "w": "Ambedkar, in the Constituent Assembly."
   },
   {
    "q": "E.P. Royappa (1974) held that equality is opposed to…",
    "o": [
-    "Classification",
     "Arbitrariness",
+    "Discrimination in jobs",
     "Reservation",
-    "Discrimination in jobs"
+    "Classification"
    ],
-   "a": 1,
+   "a": 0,
    "w": "Arbitrary action violates Article 14."
   },
   {
    "q": "Shreya Singhal (2015) struck down…",
    "o": [
     "Section 124A IPC",
-    "Section 66A IT Act",
+    "Section 497 IPC",
     "Section 377 IPC",
-    "Section 497 IPC"
+    "Section 66A IT Act"
    ],
-   "a": 1,
+   "a": 3,
    "w": "Section 66A of the IT Act."
   }
  ],

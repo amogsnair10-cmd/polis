@@ -64,10 +64,10 @@
   {
    "q": "Easton defined politics as the…",
    "o": [
-    "Struggle for power",
+    "Study of the state",
     "Authoritative allocation of values",
     "Art of the possible",
-    "Study of the state"
+    "Struggle for power"
    ],
    "a": 1,
    "w": "Easton's definition: the authoritative allocation of values for a society."
@@ -75,34 +75,34 @@
   {
    "q": "Post-behaviouralism was announced in Easton's address of…",
    "o": [
-    "1953",
-    "1962",
     "1969",
-    "1971"
+    "1962",
+    "1971",
+    "1953"
    ],
-   "a": 2,
+   "a": 0,
    "w": "Easton's 1969 APSA presidential address, 'The New Revolution in Political Science'."
   },
   {
    "q": "The two watchwords of post-behaviouralism are…",
    "o": [
+    "Power and interest",
     "Data and method",
-    "Relevance and action",
     "Order and stability",
-    "Power and interest"
+    "Relevance and action"
    ],
-   "a": 1,
+   "a": 3,
    "w": "Relevance and action."
   },
   {
    "q": "The Civic Culture (1963) was written by…",
    "o": [
-    "Easton",
-    "Dahl",
     "Almond and Verba",
-    "Merriam"
+    "Easton",
+    "Merriam",
+    "Dahl"
    ],
-   "a": 2,
+   "a": 0,
    "w": "Gabriel Almond and Sidney Verba."
   },
   {
@@ -110,41 +110,41 @@
    "o": [
     "Quantification",
     "Verification",
-    "Revolution",
-    "Integration"
+    "Integration",
+    "Revolution"
    ],
-   "a": 2,
+   "a": 3,
    "w": "Revolution is not on the list."
   },
   {
    "q": "Behaviouralism's roots lie in the Chicago School under…",
    "o": [
-    "David Easton",
-    "Charles Merriam",
+    "Harold Lasswell",
     "Robert Dahl",
-    "Harold Lasswell"
+    "David Easton",
+    "Charles Merriam"
    ],
-   "a": 1,
+   "a": 3,
    "w": "Charles Merriam in the 1920s."
   },
   {
    "q": "Almond and Verba's three types of political culture are parochial, subject and…",
    "o": [
     "Civic",
-    "Participant",
+    "Mass",
     "Democratic",
-    "Mass"
+    "Participant"
    ],
-   "a": 1,
+   "a": 3,
    "w": "Parochial, subject and participant."
   },
   {
    "q": "Karl Deutsch is linked with which model of politics?",
    "o": [
-    "Structural-functional",
+    "Rational choice",
     "Communication or cybernetic",
-    "Elite",
-    "Rational choice"
+    "Structural-functional",
+    "Elite"
    ],
    "a": 1,
    "w": "He treated politics as communication."
@@ -153,9 +153,9 @@
    "q": "CSDS was founded in 1963 by…",
    "o": [
     "Rajni Kothari",
+    "Bhikhu Parekh",
     "Yogendra Yadav",
-    "Ashis Nandy",
-    "Bhikhu Parekh"
+    "Ashis Nandy"
    ],
    "a": 0,
    "w": "Rajni Kothari."
@@ -163,12 +163,12 @@
   {
    "q": "The Modernity of Tradition (1967) showed that caste…",
    "o": [
-    "Disappeared with modernisation",
     "Adapted to democracy through caste associations",
     "Was purely economic",
-    "Blocked all participation"
+    "Blocked all participation",
+    "Disappeared with modernisation"
    ],
-   "a": 1,
+   "a": 0,
    "w": "Rudolph and Rudolph."
   }
  ],

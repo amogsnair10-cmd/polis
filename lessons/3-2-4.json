@@ -59,21 +59,21 @@
   {
    "q": "India's Look East Policy was launched in:",
    "o": [
-    "1985",
-    "1991",
     "2002",
-    "2014"
+    "1985",
+    "2014",
+    "1991"
    ],
-   "a": 1,
+   "a": 3,
    "w": "Under P.V. Narasimha Rao, after the 1991 reforms."
   },
   {
    "q": "The Act East Policy was announced by Modi at:",
    "o": [
     "Nay Pyi Taw, 2014",
+    "Singapore, 2015",
     "Bangkok, 2019",
-    "Delhi, 2018",
-    "Singapore, 2015"
+    "Delhi, 2018"
    ],
    "a": 0,
    "w": "At the 12th ASEAN-India Summit in Nay Pyi Taw, November 2014."
@@ -81,12 +81,12 @@
   {
    "q": "India's full ASEAN dialogue partnership began in:",
    "o": [
-    "1992",
     "1996",
-    "2002",
-    "2012"
+    "1992",
+    "2012",
+    "2002"
    ],
-   "a": 1,
+   "a": 0,
    "w": "Sectoral partner 1992, full dialogue partner 1996, summit-level 2002."
   },
   {
@@ -103,12 +103,12 @@
   {
    "q": "India's first export of the BrahMos missile was to:",
    "o": [
-    "Vietnam",
-    "Philippines",
+    "UAE",
     "Indonesia",
-    "UAE"
+    "Philippines",
+    "Vietnam"
    ],
-   "a": 1,
+   "a": 2,
    "w": "A deal of about $375 million, signed in January 2022."
   },
   {
@@ -116,8 +116,8 @@
    "o": [
     "ASEAN Outlook on the Indo-Pacific",
     "Asia-Oceania Investment Pact",
-    "ASEAN-India Open Partnership",
-    "Association of Indo-Pacific Oceans"
+    "Association of Indo-Pacific Oceans",
+    "ASEAN-India Open Partnership"
    ],
    "a": 0,
    "w": "AOIP was adopted in June 2019."
@@ -147,10 +147,10 @@
   {
    "q": "Which state became ASEAN's 11th member in October 2025?",
    "o": [
-    "Papua New Guinea",
-    "Timor-Leste",
     "Sri Lanka",
-    "Bangladesh"
+    "Timor-Leste",
+    "Bangladesh",
+    "Papua New Guinea"
    ],
    "a": 1,
    "w": "Timor-Leste."

@@ -59,32 +59,32 @@
   {
    "q": "Gramsci's hegemony means rule mainly through…",
    "o": [
+    "Elections",
     "Force alone",
     "Consent and common sense",
-    "Elections",
     "Foreign aid"
    ],
-   "a": 1,
+   "a": 2,
    "w": "Hegemony is rule by consent, backed by coercion."
   },
   {
    "q": "For Gramsci, civil society is part of…",
    "o": [
+    "Political society",
     "The economic base",
     "The superstructure",
-    "Political society",
     "The proletariat"
    ],
-   "a": 1,
+   "a": 2,
    "w": "Unlike Marx, Gramsci places civil society in the superstructure."
   },
   {
    "q": "A 'war of position' is…",
    "o": [
-    "A sudden armed uprising",
+    "A general strike",
     "A long cultural struggle to win consent",
     "A border war",
-    "A general strike"
+    "A sudden armed uprising"
    ],
    "a": 1,
    "w": "It suits the West, where civil society is strong."
@@ -94,8 +94,8 @@
    "o": [
     "Traditional",
     "Organic",
-    "Vanguard",
-    "Subaltern"
+    "Subaltern",
+    "Vanguard"
    ],
    "a": 1,
    "w": "Organic intellectuals."
@@ -103,12 +103,12 @@
   {
    "q": "Who founded Subaltern Studies?",
    "o": [
-    "Partha Chatterjee",
-    "Ranajit Guha",
     "Romila Thapar",
-    "D.D. Kosambi"
+    "D.D. Kosambi",
+    "Partha Chatterjee",
+    "Ranajit Guha"
    ],
-   "a": 1,
+   "a": 3,
    "w": "Ranajit Guha, from 1982."
   },
   {
@@ -126,44 +126,44 @@
    "q": "Gramsci called the communist party the…",
    "o": [
     "Vanguard",
-    "Modern Prince",
     "Historic bloc",
+    "Modern Prince",
     "Organic state"
    ],
-   "a": 1,
+   "a": 2,
    "w": "The Modern Prince, after Machiavelli."
   },
   {
    "q": "A 'historic bloc' is…",
    "o": [
-    "A military alliance",
-    "An alliance of classes held together by a shared worldview",
     "A group of states",
-    "A voting bloc in parliament"
+    "A voting bloc in parliament",
+    "A military alliance",
+    "An alliance of classes held together by a shared worldview"
    ],
-   "a": 1,
+   "a": 3,
    "w": "Such as northern workers and southern peasants in Italy."
   },
   {
    "q": "Gramsci was jailed by the fascist regime in…",
    "o": [
-    "1919",
     "1922",
-    "1926",
-    "1937"
+    "1937",
+    "1919",
+    "1926"
    ],
-   "a": 2,
+   "a": 3,
    "w": "Arrested in 1926; he died in 1937."
   },
   {
    "q": "Ranajit Guha's Dominance without Hegemony argued that colonial rule in India…",
    "o": [
     "Won full consent",
+    "Created a strong civil society",
     "Ruled by coercion without real consent",
-    "Was purely economic",
-    "Created a strong civil society"
+    "Was purely economic"
    ],
-   "a": 1,
+   "a": 2,
    "w": "Guha (1997) argued the colonial state lacked hegemony."
   }
  ],

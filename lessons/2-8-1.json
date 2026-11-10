@@ -60,40 +60,40 @@
    "q": "Specialised agencies are linked to the UN through agreements under Articles:",
    "o": [
     "51 and 52",
-    "57 and 63",
     "97 and 99",
-    "108 and 109"
+    "108 and 109",
+    "57 and 63"
    ],
-   "a": 1,
+   "a": 3,
    "w": "Article 57 on agencies and Article 63 on ECOSOC agreements."
   },
   {
    "q": "Which agency is the oldest?",
    "o": [
+    "WHO",
     "ITU",
     "ILO",
-    "UPU",
-    "WHO"
+    "UPU"
    ],
-   "a": 0,
+   "a": 1,
    "w": "The ITU dates from 1865; the UPU from 1874; the ILO from 1919."
   },
   {
    "q": "The ILO's structure is distinctive because it is:",
    "o": [
-    "Run by the Security Council",
+    "Tripartite: governments, employers and workers",
     "Funded only by the US",
     "Based in New York",
-    "Tripartite: governments, employers and workers"
+    "Run by the Security Council"
    ],
-   "a": 3,
+   "a": 0,
    "w": "Governments, employers and workers all vote."
   },
   {
    "q": "Where is ICAO headquartered?",
    "o": [
-    "Geneva",
     "London",
+    "Geneva",
     "Montreal",
     "Rome"
    ],
@@ -103,54 +103,54 @@
   {
    "q": "Security Council reform requires amendment under Article:",
    "o": [
-    "51",
     "108",
+    "51",
     "99",
     "110"
    ],
-   "a": 1,
+   "a": 0,
    "w": "Two-thirds of the Assembly and two-thirds ratification including all P5."
   },
   {
    "q": "Which group opposes new permanent seats?",
    "o": [
-    "Uniting for Consensus",
     "G4",
-    "L.69",
-    "African Union"
+    "African Union",
+    "Uniting for Consensus",
+    "L.69"
    ],
-   "a": 0,
+   "a": 2,
    "w": "Led by Italy, Pakistan and others."
   },
   {
    "q": "The Ezulwini Consensus (2005) is the position of:",
    "o": [
-    "The African Union",
     "The G4",
-    "The EU",
-    "ASEAN"
+    "ASEAN",
+    "The African Union",
+    "The EU"
    ],
-   "a": 0,
+   "a": 2,
    "w": "Two permanent seats with veto and five non-permanent seats for Africa."
   },
   {
    "q": "Kofi Annan's 2005 reform report was titled:",
    "o": [
-    "An Agenda for Peace",
-    "Our Common Agenda",
     "In Larger Freedom",
-    "Pact for the Future"
+    "An Agenda for Peace",
+    "Pact for the Future",
+    "Our Common Agenda"
    ],
-   "a": 2,
+   "a": 0,
    "w": "It led to the Human Rights Council and Peacebuilding Commission."
   },
   {
    "q": "Among UN80 proposals is a merger of:",
    "o": [
-    "WHO and ILO",
+    "IMF and World Bank",
     "UNFPA and UN Women",
     "UNESCO and UNICEF",
-    "IMF and World Bank"
+    "WHO and ILO"
    ],
    "a": 1,
    "w": "Along with UNDP-UNOPS and phasing out UNAIDS."
@@ -158,12 +158,12 @@
   {
    "q": "India's most recent term as a non-permanent Council member was:",
    "o": [
-    "2011-12",
     "2023-24",
-    "1991-92",
-    "2021-22"
+    "2021-22",
+    "2011-12",
+    "1991-92"
    ],
-   "a": 3,
+   "a": 1,
    "w": "It was its eighth term."
   }
  ],

@@ -70,12 +70,12 @@
   {
    "q": "India elevated ties with Russia to a 'Special and Privileged Strategic Partnership' in:",
    "o": [
-    "2000",
-    "2005",
+    "2014",
     "2010",
-    "2014"
+    "2000",
+    "2005"
    ],
-   "a": 2,
+   "a": 1,
    "w": "The 2000 label was 'Strategic Partnership'. The upgrade came in 2010."
   },
   {
@@ -83,8 +83,8 @@
    "o": [
     "$1 billion",
     "$5.4 billion",
-    "$12 billion",
-    "$20 billion"
+    "$20 billion",
+    "$12 billion"
    ],
    "a": 1,
    "w": "About $5.43 billion for five squadrons."
@@ -92,10 +92,10 @@
   {
    "q": "Which US law threatened sanctions over India's S-400 purchase?",
    "o": [
+    "Pressler Amendment",
     "Glenn Amendment",
-    "Hyde Act",
     "CAATSA",
-    "Pressler Amendment"
+    "Hyde Act"
    ],
    "a": 2,
    "w": "Countering America's Adversaries Through Sanctions Act (2017)."
@@ -114,45 +114,45 @@
   {
    "q": "The first Indian PM to visit Kyiv was:",
    "o": [
-    "Modi in 2024",
     "Vajpayee in 2000",
     "Manmohan Singh in 2008",
-    "Rajiv Gandhi in 1986"
+    "Rajiv Gandhi in 1986",
+    "Modi in 2024"
    ],
-   "a": 0,
+   "a": 3,
    "w": "Modi visited Ukraine in August 2024."
   },
   {
    "q": "Which joint venture produces the BrahMos missile?",
    "o": [
-    "HAL and Rosoboron",
-    "DRDO and NPO Mashinostroyeniya",
     "BEL and Almaz",
-    "L&T and Tupolev"
+    "HAL and Rosoboron",
+    "L&T and Tupolev",
+    "DRDO and NPO Mashinostroyeniya"
    ],
-   "a": 1,
+   "a": 3,
    "w": "BrahMos Aerospace is a joint venture of DRDO and Russia's NPO Mashinostroyeniya (1998)."
   },
   {
    "q": "The nuclear power plant built with Russian help in Tamil Nadu is:",
    "o": [
-    "Tarapur",
-    "Kakrapar",
     "Kudankulam",
+    "Kakrapar",
+    "Tarapur",
     "Kalpakkam"
    ],
-   "a": 2,
+   "a": 0,
    "w": "Kudankulam, built by Rosatom."
   },
   {
    "q": "The US sanctioned which two Russian oil majors in October 2025?",
    "o": [
-    "Gazprom and Novatek",
-    "Rosneft and Lukoil",
     "Surgutneftegas and Tatneft",
-    "Sibur and Sovcomflot"
+    "Sibur and Sovcomflot",
+    "Rosneft and Lukoil",
+    "Gazprom and Novatek"
    ],
-   "a": 1,
+   "a": 2,
    "w": "The US Treasury sanctioned Rosneft and Lukoil on 22 October 2025."
   },
   {

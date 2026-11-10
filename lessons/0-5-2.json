@@ -66,21 +66,21 @@
    "o": [
     "Delegate model of representation",
     "Direct democracy",
-    "Proportional representation",
-    "Trustee model of representation"
+    "Trustee model of representation",
+    "Proportional representation"
    ],
-   "a": 3,
+   "a": 2,
    "w": "Burke said an MP owes voters judgment, not blind obedience."
   },
   {
    "q": "Pitkin's 'descriptive representation' means…",
    "o": [
     "Elected by formal procedure",
-    "Acting in the people's interests",
     "Legislature mirrors the population",
-    "Standing as a national symbol"
+    "Standing as a national symbol",
+    "Acting in the people's interests"
    ],
-   "a": 2,
+   "a": 1,
    "w": "The assembly resembles those it represents. The Concept of Representation (1967)."
   },
   {
@@ -99,8 +99,8 @@
    "o": [
     "Multi-party systems",
     "Two-party tendencies",
-    "Coalition rule",
-    "Proportional results"
+    "Proportional results",
+    "Coalition rule"
    ],
    "a": 1,
    "w": "Plurality rule tends to produce two parties."
@@ -108,10 +108,10 @@
   {
    "q": "Benjamin Barber's Strong Democracy (1984) calls representative democracy…",
    "o": [
-    "Thick",
+    "Elitist only",
     "Direct",
     "Thin",
-    "Elitist only"
+    "Thick"
    ],
    "a": 2,
    "w": "He contrasted thin with strong, participatory democracy."
@@ -120,52 +120,52 @@
    "q": "Pateman's main claim is that participation…",
    "o": [
     "Slows decisions",
+    "Should be left to elected experts",
     "Develops democratic skills and responsibility",
-    "Helps only the elite",
-    "Should be left to elected experts"
+    "Helps only the elite"
    ],
-   "a": 1,
+   "a": 2,
    "w": "She stressed the educative effect, especially in workplaces."
   },
   {
    "q": "Macpherson's participatory model is a…",
    "o": [
+    "Pyramid of councils",
     "Market of parties",
     "Mixed constitution",
-    "General will",
-    "Pyramid of councils"
+    "General will"
    ],
-   "a": 3,
+   "a": 0,
    "w": "Direct democracy at the base, delegates above."
   },
   {
    "q": "Participatory budgeting began in…",
    "o": [
+    "Porto Alegre",
     "Zurich",
     "Kerala",
-    "Porto Alegre",
     "Athens"
    ],
-   "a": 2,
+   "a": 0,
    "w": "The Brazilian city started it in 1989."
   },
   {
    "q": "The 73rd Amendment added to the Constitution…",
    "o": [
-    "Part IX on Panchayats",
     "Part IXA on Municipalities",
     "Part XI on Centre-State relations",
-    "Part XXI on special provisions"
+    "Part XXI on special provisions",
+    "Part IX on Panchayats"
    ],
-   "a": 0,
+   "a": 3,
    "w": "Part IX (Articles 243-243O). The 74th added Part IXA."
   },
   {
    "q": "NOTA was introduced in India following…",
    "o": [
-    "Kesavananda Bharati",
-    "PUCL v Union of India (2013)",
     "Lily Thomas (2013)",
+    "PUCL v Union of India (2013)",
+    "Kesavananda Bharati",
     "Indira Sawhney"
    ],
    "a": 1,

@@ -64,12 +64,12 @@
   {
    "q": "For Machiavelli, virtù means…",
    "o": [
-    "Christian goodness",
     "Skill, boldness and adaptability",
     "Obedience to the Church",
+    "Christian goodness",
     "Inherited nobility"
    ],
-   "a": 1,
+   "a": 0,
    "w": "Virtù is political skill and energy, not moral virtue."
   },
   {
@@ -86,43 +86,43 @@
   {
    "q": "In which work does Machiavelli praise the Roman republic?",
    "o": [
+    "Discourses on Livy",
     "The Prince",
     "The Art of War",
-    "Discourses on Livy",
     "Florentine Histories"
    ],
-   "a": 2,
+   "a": 0,
    "w": "The Discourses on Livy show the republican Machiavelli."
   },
   {
    "q": "Who called the communist party the 'Modern Prince'?",
    "o": [
     "Lenin",
-    "Gramsci",
     "Rousseau",
-    "Strauss"
+    "Strauss",
+    "Gramsci"
    ],
-   "a": 1,
+   "a": 3,
    "w": "Antonio Gramsci, in his Prison Notebooks."
   },
   {
    "q": "Isaiah Berlin's view was that Machiavelli…",
    "o": [
-    "Was a simple teacher of evil",
-    "Showed two incompatible moralities",
+    "Was a Christian moralist",
     "Wrote satire against kings",
-    "Was a Christian moralist"
+    "Was a simple teacher of evil",
+    "Showed two incompatible moralities"
    ],
-   "a": 1,
+   "a": 3,
    "w": "Berlin argued he exposed a clash between Christian and civic morality."
   },
   {
    "q": "Machiavelli's model of a new prince using cruelty well was…",
    "o": [
-    "Lorenzo de' Medici",
+    "Savonarola",
     "Cesare Borgia",
     "Pope Julius II",
-    "Savonarola"
+    "Lorenzo de' Medici"
    ],
    "a": 1,
    "w": "Cesare Borgia's pacification of the Romagna."
@@ -130,45 +130,45 @@
   {
    "q": "Machiavelli compared fortuna to…",
    "o": [
+    "A lion",
     "A wheel",
-    "A violent river",
     "A storm at sea",
-    "A lion"
+    "A violent river"
    ],
-   "a": 1,
+   "a": 3,
    "w": "A river that floods; virtù builds dykes beforehand."
   },
   {
    "q": "Machiavelli preferred which kind of army?",
    "o": [
     "Mercenaries",
-    "Auxiliaries from allies",
     "A citizen militia",
+    "Auxiliaries from allies",
     "Papal troops"
    ],
-   "a": 2,
+   "a": 1,
    "w": "He distrusted mercenaries and organised a Florentine militia in 1506."
   },
   {
    "q": "The Prince was published in…",
    "o": [
+    "1559",
     "1513",
     "1527",
-    "1532",
-    "1559"
+    "1532"
    ],
-   "a": 2,
+   "a": 3,
    "w": "Written in 1513, published in 1532, after his death."
   },
   {
    "q": "According to Machiavelli, cruelty 'well used' is…",
    "o": [
-    "Spread out over time",
     "Done all at once, then stopped",
+    "Left to the Church",
     "Never needed",
-    "Left to the Church"
+    "Spread out over time"
    ],
-   "a": 1,
+   "a": 0,
    "w": "Injuries should be done all together; benefits given little by little."
   }
  ],

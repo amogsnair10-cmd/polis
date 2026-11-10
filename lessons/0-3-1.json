@@ -70,41 +70,41 @@
    "q": "The phrase 'affirmative action' was first used in the context of racial discrimination in…",
    "o": [
     "Civil Rights Act 1964",
-    "US Executive Order 10925 (1961)",
+    "Brown v Board 1954",
     "Bakke 1978",
-    "Brown v Board 1954"
+    "US Executive Order 10925 (1961)"
    ],
-   "a": 1,
+   "a": 3,
    "w": "President Kennedy's order of 1961. The phrase itself appeared in the 1935 Wagner Act on labour."
   },
   {
    "q": "Article 15(4) was inserted by the…",
    "o": [
-    "42nd Amendment, 1976",
     "77th Amendment, 1995",
-    "First Amendment, 1951",
-    "93rd Amendment, 2005"
+    "42nd Amendment, 1976",
+    "93rd Amendment, 2005",
+    "First Amendment, 1951"
    ],
-   "a": 2,
+   "a": 3,
    "w": "After Champakam Dorairajan."
   },
   {
    "q": "The 50 per cent ceiling on reservation was set out in Indra Sawhney, but first suggested in…",
    "o": [
     "N.M. Thomas (1975)",
-    "M.R. Balaji (1962)",
+    "Janhit Abhiyan (2022)",
     "Nagaraj (2006)",
-    "Janhit Abhiyan (2022)"
+    "M.R. Balaji (1962)"
    ],
-   "a": 1,
+   "a": 3,
    "w": "Balaji (1962) said it should be below 50%."
   },
   {
    "q": "Which case held that Article 16(4) is not an exception to 16(1)?",
    "o": [
-    "Indra Sawhney (1992)",
-    "Champakam (1951)",
     "Jarnail Singh (2018)",
+    "Champakam (1951)",
+    "Indra Sawhney (1992)",
     "N.M. Thomas (1975)"
    ],
    "a": 3,
@@ -124,32 +124,32 @@
   {
    "q": "Promotions for SC/ST were enabled by Article 16(4A), added by the…",
    "o": [
-    "77th Amendment",
     "81st Amendment",
+    "77th Amendment",
     "85th Amendment",
     "103rd Amendment"
    ],
-   "a": 0,
+   "a": 1,
    "w": "77th Amendment, 1995."
   },
   {
    "q": "The 103rd Amendment introduced reservation for…",
    "o": [
-    "Women",
     "Economically weaker sections",
-    "Minorities",
-    "Persons with disability"
+    "Persons with disability",
+    "Women",
+    "Minorities"
    ],
-   "a": 1,
+   "a": 0,
    "w": "10% EWS under Articles 15(6) and 16(6)."
   },
   {
    "q": "In State of Punjab v Davinder Singh (2024), the Supreme Court held that…",
    "o": [
     "States may sub-classify Scheduled Castes",
+    "OBC quotas must be raised",
     "SC sub-classification is invalid",
-    "The 50% ceiling is abolished",
-    "OBC quotas must be raised"
+    "The 50% ceiling is abolished"
    ],
    "a": 0,
    "w": "A seven-judge bench ruled 6:1 in favour of sub-classification."
@@ -157,8 +157,8 @@
   {
    "q": "Dworkin's 1977 essay defends affirmative action as…",
    "o": [
-    "A debt for past sins only",
     "A free-market tool",
+    "A debt for past sins only",
     "A policy serving a wider social good, not stating inferiority",
     "An entitlement of birth"
    ],
@@ -170,10 +170,10 @@
    "o": [
     "Quotas are required",
     "Gender quotas are valid",
-    "Race-conscious admissions are unconstitutional",
-    "Legacy admissions are banned"
+    "Legacy admissions are banned",
+    "Race-conscious admissions are unconstitutional"
    ],
-   "a": 2,
+   "a": 3,
    "w": "It held that race-conscious admissions violate the Equal Protection Clause and Title VI."
   }
  ],

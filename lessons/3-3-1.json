@@ -59,32 +59,32 @@
   {
    "q": "The Group of 77 was formed in:",
    "o": [
+    "1991",
     "1964",
-    "1955",
     "1974",
-    "1991"
+    "1955"
    ],
-   "a": 0,
+   "a": 1,
    "w": "At the first UNCTAD, 1964."
   },
   {
    "q": "The NIEO Declaration was adopted by the UNGA in:",
    "o": [
-    "1974",
     "1961",
-    "1982",
-    "1995"
+    "1995",
+    "1974",
+    "1982"
    ],
-   "a": 0,
+   "a": 2,
    "w": "At the sixth special session, 1974."
   },
   {
    "q": "The Prebisch-Singer thesis concerns:",
    "o": [
     "Declining terms of trade for primary goods",
-    "Free trade benefits",
+    "Import tariffs in India",
     "Currency unions",
-    "Import tariffs in India"
+    "Free trade benefits"
    ],
    "a": 0,
    "w": "Prices of primary commodities fall relative to manufactures."
@@ -93,9 +93,9 @@
    "q": "Who wrote 'The Modern World-System' (1974)?",
    "o": [
     "Immanuel Wallerstein",
+    "Stephen Krasner",
     "Samir Amin",
-    "Andre Gunder Frank",
-    "Stephen Krasner"
+    "Andre Gunder Frank"
    ],
    "a": 0,
    "w": "Immanuel Wallerstein."
@@ -103,32 +103,32 @@
   {
    "q": "The Brandt Report of 1980 is titled:",
    "o": [
-    "North-South: A Programme for Survival",
     "The Challenge to the South",
-    "Our Common Future",
-    "The Limits to Growth"
+    "North-South: A Programme for Survival",
+    "The Limits to Growth",
+    "Our Common Future"
    ],
-   "a": 0,
+   "a": 1,
    "w": "It was published by the Independent Commission on International Development Issues."
   },
   {
    "q": "At Cancun in 2003, India and Brazil led which coalition on agriculture?",
    "o": [
-    "G20 (developing-country coalition)",
     "G7",
     "G33 only",
+    "G20 (developing-country coalition)",
     "Cairns Group"
    ],
-   "a": 0,
+   "a": 2,
    "w": "The G20 coalition of developing countries (distinct from the leaders' G20)."
   },
   {
    "q": "The 'peace clause' protecting India's public stockholding was agreed at:",
    "o": [
     "Bali, 2013",
+    "Seattle, 1999",
     "Doha, 2001",
-    "Geneva, 2022",
-    "Seattle, 1999"
+    "Geneva, 2022"
    ],
    "a": 0,
    "w": "The WTO Bali Ministerial, December 2013."
@@ -137,9 +137,9 @@
    "q": "The WTO Appellate Body has been non-functional since:",
    "o": [
     "December 2019",
-    "January 1995",
+    "June 2022",
     "March 2008",
-    "June 2022"
+    "January 1995"
    ],
    "a": 0,
    "w": "The US has blocked appointments of new members."
@@ -147,23 +147,23 @@
   {
    "q": "The first 'Voice of the Global South Summit' was hosted by India in:",
    "o": [
-    "January 2023",
-    "September 2023",
+    "March 2021",
     "August 2024",
-    "March 2021"
+    "September 2023",
+    "January 2023"
    ],
-   "a": 0,
+   "a": 3,
    "w": "12-13 January 2023, virtually."
   },
   {
    "q": "Stephen Krasner's book on the South's demands for a new order is:",
    "o": [
-    "Structural Conflict",
-    "After Hegemony",
+    "The Wealth of Nations",
     "Theory of International Politics",
-    "The Wealth of Nations"
+    "After Hegemony",
+    "Structural Conflict"
    ],
-   "a": 0,
+   "a": 3,
    "w": "Structural Conflict: The Third World Against Global Liberalism (1985)."
   }
  ],

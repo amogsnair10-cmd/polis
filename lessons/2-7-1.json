@@ -64,21 +64,21 @@
   {
    "q": "The CMEA was founded in:",
    "o": [
-    "1947",
-    "1955",
+    "1949",
     "1962",
-    "1949"
+    "1955",
+    "1947"
    ],
-   "a": 3,
+   "a": 0,
    "w": "January 1949, in response to the Marshall Plan."
   },
   {
    "q": "Which country opposed Khrushchev's 1962 plan for supranational planning in the CMEA?",
    "o": [
-    "Poland",
-    "Romania",
     "Hungary",
-    "East Germany"
+    "Romania",
+    "East Germany",
+    "Poland"
    ],
    "a": 1,
    "w": "Romania feared being kept as an agricultural supplier."
@@ -86,89 +86,89 @@
   {
    "q": "Which non-European state joined the CMEA in 1972?",
    "o": [
-    "Vietnam",
     "Cuba",
     "Mongolia",
-    "Laos"
+    "Laos",
+    "Vietnam"
    ],
-   "a": 1,
+   "a": 0,
    "w": "Mongolia joined in 1962 and Vietnam in 1978."
   },
   {
    "q": "The CMEA was dissolved in:",
    "o": [
-    "December 1989",
-    "December 1991",
+    "1993",
     "June 1991",
-    "1993"
+    "December 1991",
+    "December 1989"
    ],
-   "a": 2,
+   "a": 1,
    "w": "Months before the USSR itself dissolved."
   },
   {
    "q": "The NIEO Declaration was adopted at the UNGA's:",
    "o": [
-    "First UNCTAD, 1964",
     "Belgrade NAM summit, 1961",
-    "Cancun summit, 1981",
-    "Sixth Special Session, 1974"
+    "Sixth Special Session, 1974",
+    "First UNCTAD, 1964",
+    "Cancun summit, 1981"
    ],
-   "a": 3,
+   "a": 1,
    "w": "Resolution 3201 of 1 May 1974."
   },
   {
    "q": "The Charter of Economic Rights and Duties of States is UNGA resolution:",
    "o": [
-    "1514",
-    "3281",
+    "3314",
     "1803",
-    "3314"
+    "3281",
+    "1514"
    ],
-   "a": 1,
+   "a": 2,
    "w": "Adopted in December 1974."
   },
   {
    "q": "The Group of 77 was formed in:",
    "o": [
-    "1955",
-    "1961",
+    "1964",
     "1973",
-    "1964"
+    "1955",
+    "1961"
    ],
-   "a": 3,
+   "a": 0,
    "w": "At the end of the first UNCTAD, June 1964."
   },
   {
    "q": "Where was UNCTAD II held in 1968?",
    "o": [
-    "Geneva",
-    "Nairobi",
     "New Delhi",
-    "Santiago"
+    "Santiago",
+    "Geneva",
+    "Nairobi"
    ],
-   "a": 2,
+   "a": 0,
    "w": "It pushed the Generalised System of Preferences."
   },
   {
    "q": "The Brandt Report (1980) was titled:",
    "o": [
-    "North-South: A Programme for Survival",
+    "Partners in Development",
     "Our Common Future",
-    "The Limits to Growth",
-    "Partners in Development"
+    "North-South: A Programme for Survival",
+    "The Limits to Growth"
    ],
-   "a": 0,
+   "a": 2,
    "w": "Chaired by Willy Brandt."
   },
   {
    "q": "A key reason for the NIEO's failure was:",
    "o": [
-    "The 1980s debt crisis and Northern resistance",
     "Too much OPEC aid",
     "The success of the CMEA",
-    "Agreement by the US"
+    "Agreement by the US",
+    "The 1980s debt crisis and Northern resistance"
    ],
-   "a": 0,
+   "a": 3,
    "w": "Creditors and structural adjustment took over the agenda."
   }
  ],

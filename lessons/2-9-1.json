@@ -59,10 +59,10 @@
   {
    "q": "ASEAN was founded by the Bangkok Declaration of:",
    "o": [
-    "8 December 1985",
-    "8 August 1967",
     "1 January 1995",
-    "26 October 2025"
+    "8 August 1967",
+    "26 October 2025",
+    "8 December 1985"
    ],
    "a": 1,
    "w": "With five founding members."
@@ -70,32 +70,32 @@
   {
    "q": "Which country became ASEAN's 11th member in October 2025?",
    "o": [
-    "Timor-Leste",
     "Papua New Guinea",
-    "Bangladesh",
-    "Sri Lanka"
+    "Sri Lanka",
+    "Timor-Leste",
+    "Bangladesh"
    ],
-   "a": 0,
+   "a": 2,
    "w": "At the 47th summit in Kuala Lumpur."
   },
   {
    "q": "The ASEAN Charter entered into force in:",
    "o": [
     "1976",
-    "1992",
     "2015",
-    "2008"
+    "2008",
+    "1992"
    ],
-   "a": 3,
+   "a": 2,
    "w": "Signed in 2007."
   },
   {
    "q": "India withdrew from RCEP negotiations in:",
    "o": [
-    "2012",
+    "2022",
     "2017",
     "November 2019",
-    "2022"
+    "2012"
    ],
    "a": 2,
    "w": "Citing trade deficits and safeguards."
@@ -103,67 +103,67 @@
   {
    "q": "APEC was launched in 1989 in:",
    "o": [
+    "Singapore",
     "Canberra",
     "Bogor",
-    "Seattle",
-    "Singapore"
+    "Seattle"
    ],
-   "a": 0,
+   "a": 1,
    "w": "On the initiative of Bob Hawke."
   },
   {
    "q": "APEC's Bogor Goals (1994) aimed at:",
    "o": [
     "A customs union",
-    "A common currency",
     "A security alliance",
-    "Free and open trade by 2010/2020"
+    "Free and open trade by 2010/2020",
+    "A common currency"
    ],
-   "a": 3,
+   "a": 2,
    "w": "Replaced by the Putrajaya Vision 2040."
   },
   {
    "q": "SAARC was founded in:",
    "o": [
     "Kathmandu, 1987",
-    "Dhaka, 1985",
+    "Colombo, 1991",
     "New Delhi, 1983",
-    "Colombo, 1991"
+    "Dhaka, 1985"
    ],
-   "a": 1,
+   "a": 3,
    "w": "Its secretariat is in Kathmandu."
   },
   {
    "q": "The last SAARC summit held was in:",
    "o": [
+    "Kathmandu, 2014",
     "Islamabad, 2016",
     "Male, 2011",
-    "Kathmandu, 2014",
     "Thimphu, 2010"
    ],
-   "a": 2,
+   "a": 0,
    "w": "The 2016 Islamabad summit was cancelled."
   },
   {
    "q": "Which member joined SAARC in 2007?",
    "o": [
-    "Myanmar",
-    "Iran",
     "China",
-    "Afghanistan"
+    "Myanmar",
+    "Afghanistan",
+    "Iran"
    ],
-   "a": 3,
+   "a": 2,
    "w": "China is an observer."
   },
   {
    "q": "BIMSTEC's Charter was adopted at the summit in:",
    "o": [
+    "Bangkok, 2025",
     "Colombo, 2022",
     "Kathmandu, 2018",
-    "Bangkok, 2025",
     "Dhaka, 1997"
    ],
-   "a": 0,
+   "a": 1,
    "w": "The 5th summit, held virtually from Colombo."
   }
  ],

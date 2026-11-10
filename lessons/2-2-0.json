@@ -69,32 +69,32 @@
   {
    "q": "Hanna Pitkin's The Concept of Representation (1967) does NOT identify which type?",
    "o": [
-    "Procedural-legal",
-    "Formalistic",
     "Descriptive",
-    "Substantive"
+    "Substantive",
+    "Procedural-legal",
+    "Formalistic"
    ],
-   "a": 0,
+   "a": 2,
    "w": "Her four types: formalistic, descriptive, symbolic and substantive."
   },
   {
    "q": "Duverger's hypothesis states that plurality voting tends to produce:",
    "o": [
     "A multi-party system",
-    "A two-party system",
     "A one-party state",
-    "A coalition cabinet"
+    "A coalition cabinet",
+    "A two-party system"
    ],
-   "a": 1,
+   "a": 3,
    "w": "PR tends toward multi-partism."
   },
   {
    "q": "Lijphart's Patterns of Democracy (1999) contrasts:",
    "o": [
-    "Presidential and parliamentary rule",
+    "Open and closed lists",
     "Unitary and federal states",
     "Majoritarian and consensus democracy",
-    "Open and closed lists"
+    "Presidential and parliamentary rule"
    ],
    "a": 2,
    "w": "Using ten dimensions."
@@ -102,45 +102,45 @@
   {
    "q": "The 'cartel party' idea comes from:",
    "o": [
-    "Katz and Mair",
     "Kirchheimer",
     "Duverger",
+    "Katz and Mair",
     "Michels"
    ],
-   "a": 0,
+   "a": 2,
    "w": "Major parties share state resources and limit competition (1995)."
   },
   {
    "q": "A 'predominant party system' in Sartori's scheme means:",
    "o": [
+    "Many parties with extremes",
     "Only one party is legal",
     "One party wins repeatedly in free and fair elections",
-    "Many parties with extremes",
     "Two alternating parties"
    ],
-   "a": 1,
+   "a": 2,
    "w": "E.g., Congress in India until 1967, LDP in Japan."
   },
   {
    "q": "Which theory holds that small concentrated interests organise better than large diffuse ones?",
    "o": [
+    "Elite theory",
     "Corporatism",
-    "Mancur Olson's collective action theory",
     "Bentley's pluralism",
-    "Elite theory"
+    "Mancur Olson's collective action theory"
    ],
-   "a": 1,
+   "a": 3,
    "w": "The Logic of Collective Action (1965)."
   },
   {
    "q": "Philippe Schmitter's 'Still the Century of Corporatism?' (1974) is about:",
    "o": [
-    "Lobbying in the US Congress",
-    "Social movements",
     "State-recognised peak associations bargaining with government",
+    "Social movements",
+    "Lobbying in the US Congress",
     "Electoral systems"
    ],
-   "a": 2,
+   "a": 0,
    "w": "Corporatism contrasts with pluralism."
   },
   {
@@ -157,23 +157,23 @@
   {
    "q": "Resource mobilisation theory was put forward by:",
    "o": [
-    "Tilly and Skocpol",
     "Snow and Benford",
-    "Lipset and Rokkan",
-    "McCarthy and Zald"
+    "McCarthy and Zald",
+    "Tilly and Skocpol",
+    "Lipset and Rokkan"
    ],
-   "a": 3,
+   "a": 1,
    "w": "Published in 1977."
   },
   {
    "q": "India's Supreme Court struck down the electoral bonds scheme in:",
    "o": [
-    "January 2019",
     "March 2021",
     "February 2024",
-    "December 2014"
+    "December 2014",
+    "January 2019"
    ],
-   "a": 2,
+   "a": 1,
    "w": "The Association for Democratic Reforms case, 15 February 2024."
   }
  ],

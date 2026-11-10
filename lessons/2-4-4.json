@@ -85,100 +85,100 @@
   {
    "q": "In Kaplan's 'unit veto' system:",
    "o": [
-    "One state dominates",
-    "Two blocs are rigid",
+    "Every state can destroy all others",
     "A world state rules",
-    "Every state can destroy all others"
+    "Two blocs are rigid",
+    "One state dominates"
    ],
-   "a": 3,
+   "a": 0,
    "w": "A nuclear-armed world where any state can inflict mutual destruction."
   },
   {
    "q": "Who coined the term 'constructivism' in IR in World of Our Making (1989)?",
    "o": [
-    "Nicholas Onuf",
     "Alexander Wendt",
     "Peter Katzenstein",
-    "John Ruggie"
+    "John Ruggie",
+    "Nicholas Onuf"
    ],
-   "a": 0,
+   "a": 3,
    "w": "Nicholas Onuf."
   },
   {
    "q": "'Anarchy Is What States Make of It' appeared in:",
    "o": [
     "World Politics (1978)",
-    "International Security (1994)",
     "International Organization (1992)",
+    "International Security (1994)",
     "Millennium (1981)"
    ],
-   "a": 2,
+   "a": 1,
    "w": "Wendt, International Organization, 1992."
   },
   {
    "q": "Wendt's three cultures of anarchy are:",
    "o": [
-    "Hobbesian, Lockean, Kantian",
     "Realist, liberal, Marxist",
     "Unipolar, bipolar, multipolar",
-    "Coercion, price, trade"
+    "Coercion, price, trade",
+    "Hobbesian, Lockean, Kantian"
    ],
-   "a": 0,
+   "a": 3,
    "w": "Enemy, rival and friend roles correspond to Hobbesian, Lockean and Kantian cultures."
   },
   {
    "q": "Finnemore's National Interests in International Society (1996) shows that:",
    "o": [
-    "Interests are fixed by power",
-    "Domestic lobbies decide interests",
+    "International organisations teach states what to want",
     "Norms never matter",
-    "International organisations teach states what to want"
+    "Interests are fixed by power",
+    "Domestic lobbies decide interests"
    ],
-   "a": 3,
+   "a": 0,
    "w": "UNESCO, the Red Cross and the World Bank all shaped state interests."
   },
   {
    "q": "Which stage of the norm life cycle comes after the 'tipping point'?",
    "o": [
-    "Emergence",
     "Cascade",
-    "Internalisation",
-    "Entrepreneurship"
+    "Emergence",
+    "Entrepreneurship",
+    "Internalisation"
    ],
-   "a": 1,
+   "a": 0,
    "w": "After the tipping point, norms spread in a cascade; internalisation is the final stage."
   },
   {
    "q": "Finnemore and Sikkink call actors who first push a new norm:",
    "o": [
     "Spoilers",
-    "Norm entrepreneurs",
     "Hegemons",
-    "Epistemic brokers"
+    "Epistemic brokers",
+    "Norm entrepreneurs"
    ],
-   "a": 1,
+   "a": 3,
    "w": "Norm entrepreneurs use organisational platforms to promote norms."
   },
   {
    "q": "Katzenstein's The Culture of National Security (1996) used which two main cases?",
    "o": [
-    "India and Pakistan",
-    "US and USSR",
+    "Japan and Germany",
     "Israel and Egypt",
-    "Japan and Germany"
+    "US and USSR",
+    "India and Pakistan"
    ],
-   "a": 3,
+   "a": 0,
    "w": "He showed how anti-militarist identities restrained Japan and Germany."
   },
   {
    "q": "Which is a standard critique of Wendt's constructivism?",
    "o": [
-    "It rejects the state",
+    "It ignores identity",
     "It denies anarchy exists",
-    "It is state-centric and close to mainstream positivism",
-    "It ignores identity"
+    "It rejects the state",
+    "It is state-centric and close to mainstream positivism"
    ],
-   "a": 2,
+   "a": 3,
    "w": "Critical constructivists say Wendt keeps the state-centred, scientific framework."
   }
  ],

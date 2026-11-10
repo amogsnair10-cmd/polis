@@ -59,34 +59,34 @@
   {
    "q": "Peacekeeping is sometimes described as 'Chapter six and a half' because it:",
    "o": [
-    "Lies between peaceful settlement and enforcement",
+    "Is outside the UN",
     "Is in Chapter IX",
     "Needs a General Assembly vote",
-    "Is outside the UN"
+    "Lies between peaceful settlement and enforcement"
    ],
-   "a": 0,
+   "a": 3,
    "w": "It is not mentioned in the Charter and sits between Chapters VI and VII."
   },
   {
    "q": "The first UN mission to India–Pakistan was:",
    "o": [
-    "UNMOGIP",
     "UNEF",
-    "UNTAC",
-    "UNIFIL"
+    "UNMOGIP",
+    "UNIFIL",
+    "UNTAC"
    ],
-   "a": 0,
+   "a": 1,
    "w": "UNMOGIP (1949) monitors the ceasefire line in Kashmir."
   },
   {
    "q": "India's only peacekeeper to receive the Param Vir Chakra was:",
    "o": [
-    "Captain Gurbachan Singh Salaria",
-    "Major Somnath Sharma",
     "Lt Gen K.S. Thimayya",
-    "Capt Vikram Batra"
+    "Captain Gurbachan Singh Salaria",
+    "Capt Vikram Batra",
+    "Major Somnath Sharma"
    ],
-   "a": 0,
+   "a": 1,
    "w": "Captain Salaria, Congo, 1961."
   },
   {
@@ -94,8 +94,8 @@
    "o": [
     "Liberia",
     "Sudan",
-    "Haiti",
-    "Cyprus"
+    "Cyprus",
+    "Haiti"
    ],
    "a": 0,
    "w": "In 2007, to the UN Mission in Liberia."
@@ -104,9 +104,9 @@
    "q": "The Brahimi Report on UN peace operations was published in:",
    "o": [
     "2000",
-    "1992",
     "2008",
-    "2015"
+    "2015",
+    "1992"
    ],
    "a": 0,
    "w": "The Report of the Panel on UN Peace Operations (2000)."
@@ -114,56 +114,56 @@
   {
    "q": "Who was the first Force Commander of UNPROFOR in the former Yugoslavia?",
    "o": [
-    "Lt Gen Satish Nambiar",
-    "Lt Gen Prem Chand",
     "Gen K.S. Thimayya",
-    "Maj Gen S. Thorat"
+    "Maj Gen S. Thorat",
+    "Lt Gen Satish Nambiar",
+    "Lt Gen Prem Chand"
    ],
-   "a": 0,
+   "a": 2,
    "w": "Lt Gen Satish Nambiar of India (1992)."
   },
   {
    "q": "UNSC Resolution 2589 (2021), adopted during India's presidency, concerns:",
    "o": [
-    "Accountability for crimes against peacekeepers",
     "Women in the military",
     "Cyber warfare",
+    "Accountability for crimes against peacekeepers",
     "Iran sanctions"
    ],
-   "a": 0,
+   "a": 2,
    "w": "It was adopted unanimously on 18 August 2021."
   },
   {
    "q": "Which report of 2015 reviewed UN peace operations?",
    "o": [
-    "HIPPO",
-    "Capstone",
     "Agenda for Peace",
-    "Brahimi"
+    "Capstone",
+    "Brahimi",
+    "HIPPO"
    ],
-   "a": 0,
+   "a": 3,
    "w": "The High-level Independent Panel on Peace Operations."
   },
   {
    "q": "The Centre for UN Peacekeeping (CUNPK) is located in:",
    "o": [
-    "New Delhi",
-    "Mumbai",
     "Pune",
-    "Chennai"
+    "Chennai",
+    "New Delhi",
+    "Mumbai"
    ],
-   "a": 0,
+   "a": 2,
    "w": "New Delhi, set up in 2000 by the United Service Institution of India."
   },
   {
    "q": "India's insistence for sending troops abroad is that deployment must have:",
    "o": [
-    "A UN mandate and host consent",
-    "A US request",
+    "A parliamentary vote",
     "SAARC approval",
-    "A parliamentary vote"
+    "A UN mandate and host consent",
+    "A US request"
    ],
-   "a": 0,
+   "a": 2,
    "w": "India generally deploys only under a UN mandate with host-state consent."
   }
  ],

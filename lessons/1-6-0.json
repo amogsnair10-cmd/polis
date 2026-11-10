@@ -65,9 +65,9 @@
    "q": "Which Article says India is a 'Union of States'?",
    "o": [
     "Article 1",
+    "Article 356",
     "Article 3",
-    "Article 245",
-    "Article 356"
+    "Article 245"
    ],
    "a": 0,
    "w": "Article 1(1)."
@@ -75,75 +75,75 @@
   {
    "q": "Who called India 'quasi-federal'?",
    "o": [
-    "Granville Austin",
     "K.C. Wheare",
+    "Granville Austin",
     "Rajni Kothari",
     "W.H. Morris-Jones"
    ],
-   "a": 1,
+   "a": 0,
    "w": "Wheare, Federal Government (1946)."
   },
   {
    "q": "Under which Article can the Rajya Sabha empower Parliament to legislate on a State List subject?",
    "o": [
-    "Article 248",
-    "Article 249",
+    "Article 253",
     "Article 252",
-    "Article 253"
+    "Article 249",
+    "Article 248"
    ],
-   "a": 1,
+   "a": 2,
    "w": "Article 249 needs a two-thirds resolution in the national interest."
   },
   {
    "q": "Which amendment moved education to the Concurrent List?",
    "o": [
-    "24th",
-    "42nd",
     "44th",
-    "73rd"
+    "73rd",
+    "42nd",
+    "24th"
    ],
-   "a": 1,
+   "a": 2,
    "w": "42nd Amendment, 1976."
   },
   {
    "q": "The GST Council is created by which Article?",
    "o": [
     "Article 246A",
-    "Article 270",
     "Article 279A",
-    "Article 280"
+    "Article 280",
+    "Article 270"
    ],
-   "a": 2,
+   "a": 1,
    "w": "Article 279A, inserted by the 101st Amendment (2016); 246A gives taxing power."
   },
   {
    "q": "Which case held federalism a part of the basic structure and made Article 356 reviewable?",
    "o": [
-    "Kesavananda Bharati",
     "S.R. Bommai",
+    "Kesavananda Bharati",
     "Nabam Rebia",
     "Rameshwar Prasad"
    ],
-   "a": 1,
+   "a": 0,
    "w": "S.R. Bommai v. Union of India (1994)."
   },
   {
    "q": "Which body led to the Inter-State Council being created in 1990?",
    "o": [
     "Rajamannar Committee",
-    "Sarkaria Commission",
     "Punchhi Commission",
-    "First ARC"
+    "First ARC",
+    "Sarkaria Commission"
    ],
-   "a": 1,
+   "a": 3,
    "w": "Sarkaria recommended a standing Inter-State Council under Article 263."
   },
   {
    "q": "Zonal Councils were set up by which law?",
    "o": [
-    "Constitution, Art. 263",
-    "States Reorganisation Act, 1956",
     "Inter-State Council Order, 1990",
+    "States Reorganisation Act, 1956",
+    "Constitution, Art. 263",
     "NITI Aayog resolution, 2015"
    ],
    "a": 1,
@@ -152,23 +152,23 @@
   {
    "q": "In its November 2025 opinion on a Presidential reference, the Supreme Court said…",
    "o": [
-    "Governors must act within three months",
-    "Courts cannot impose fixed deadlines or deemed assent on Governors and the President",
     "Governors can veto bills absolutely",
-    "Article 200 was struck down"
+    "Article 200 was struck down",
+    "Courts cannot impose fixed deadlines or deemed assent on Governors and the President",
+    "Governors must act within three months"
    ],
-   "a": 1,
+   "a": 2,
    "w": "The five-judge bench declined to read in fixed timelines."
   },
   {
    "q": "The Seventh Schedule's Union List has how many entries?",
    "o": [
-    "47",
-    "66",
+    "100",
     "98",
-    "100"
+    "66",
+    "47"
    ],
-   "a": 2,
+   "a": 1,
    "w": "98 entries today. State List has 59 and Concurrent List 52."
   }
  ],

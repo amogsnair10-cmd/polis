@@ -65,20 +65,20 @@
    "q": "The Universal Declaration of Human Rights was adopted on:",
    "o": [
     "26 June 1945",
-    "16 December 1966",
     "10 December 1948",
-    "25 June 1993"
+    "25 June 1993",
+    "16 December 1966"
    ],
-   "a": 2,
+   "a": 1,
    "w": "UNGA resolution 217A on 10 December 1948."
   },
   {
    "q": "The ICCPR and ICESCR were adopted in:",
    "o": [
     "1966",
-    "1948",
+    "1993",
     "1976",
-    "1993"
+    "1948"
    ],
    "a": 0,
    "w": "Adopted in 1966; they entered into force in 1976."
@@ -86,42 +86,42 @@
   {
    "q": "Samuel Huntington's The Third Wave (1991) counted the third wave as beginning in:",
    "o": [
-    "1828",
-    "1974",
+    "1989",
     "1943",
-    "1989"
+    "1828",
+    "1974"
    ],
-   "a": 1,
+   "a": 3,
    "w": "With Portugal's 1974 revolution."
   },
   {
    "q": "The 'Asian values' debate is associated with:",
    "o": [
-    "Nehru and Sukarno",
-    "Lee Kuan Yew and Mahathir Mohamad",
     "Deng Xiaoping and Mao",
-    "Kofi Annan and Boutros-Ghali"
+    "Kofi Annan and Boutros-Ghali",
+    "Nehru and Sukarno",
+    "Lee Kuan Yew and Mahathir Mohamad"
    ],
-   "a": 1,
+   "a": 3,
    "w": "They argued for community, order and development before individual rights."
   },
   {
    "q": "The Human Rights Council replaced the:",
    "o": [
-    "Trusteeship Council",
-    "ECOSOC",
+    "UN Human Rights Committee",
     "Commission on Human Rights",
-    "UN Human Rights Committee"
+    "Trusteeship Council",
+    "ECOSOC"
    ],
-   "a": 2,
+   "a": 1,
    "w": "Created in 2006 by UNGA resolution 60/251."
   },
   {
    "q": "The principle of R2P was agreed by world leaders at the:",
    "o": [
+    "1993 Vienna Conference",
     "1999 Kosovo summit",
     "2011 Libya conference",
-    "1993 Vienna Conference",
     "2005 World Summit"
    ],
    "a": 3,
@@ -131,9 +131,9 @@
    "q": "Which countries were among those that abstained on UNSC Resolution 1973 (Libya, 2011)?",
    "o": [
     "India, Brazil, China, Russia, Germany",
+    "Nigeria, Gabon, Lebanon",
     "US, UK, France",
-    "Japan, Korea, Australia",
-    "Nigeria, Gabon, Lebanon"
+    "Japan, Korea, Australia"
    ],
    "a": 0,
    "w": "Five members abstained; the resolution authorised 'all necessary measures'."
@@ -141,8 +141,8 @@
   {
    "q": "The Rome Statute establishing the ICC was adopted in:",
    "o": [
-    "1993",
     "2002",
+    "1993",
     "1998",
     "2005"
    ],
@@ -152,23 +152,23 @@
   {
    "q": "Which Indian delegate is credited with changing 'all men' to 'all human beings' in the UDHR?",
    "o": [
-    "Hansa Mehta",
     "Vijaya Lakshmi Pandit",
     "Sarojini Naidu",
-    "Rajkumari Amrit Kaur"
+    "Rajkumari Amrit Kaur",
+    "Hansa Mehta"
    ],
-   "a": 0,
+   "a": 3,
    "w": "Hansa Mehta served on the UN Commission on Human Rights during the drafting."
   },
   {
    "q": "In Vishaka v. State of Rajasthan (1997), the Supreme Court relied on:",
    "o": [
-    "The Rome Statute",
-    "The ICCPR First Optional Protocol",
     "The Convention against Torture",
-    "CEDAW"
+    "The ICCPR First Optional Protocol",
+    "CEDAW",
+    "The Rome Statute"
    ],
-   "a": 3,
+   "a": 2,
    "w": "It used CEDAW to frame guidelines against workplace sexual harassment."
   }
  ],

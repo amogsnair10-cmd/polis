@@ -64,67 +64,67 @@
   {
    "q": "Bela Balassa's The Theory of Economic Integration (1961) is known for:",
    "o": [
-    "Spillover",
     "Trade creation and diversion",
     "Stages of integration",
-    "Optimum currency area"
+    "Optimum currency area",
+    "Spillover"
    ],
-   "a": 2,
+   "a": 1,
    "w": "FTA, customs union, common market, economic union, political union."
   },
   {
    "q": "Trade creation and trade diversion were analysed by:",
    "o": [
-    "Ernst Haas",
-    "Robert Mundell",
     "David Ricardo",
-    "Jacob Viner"
+    "Jacob Viner",
+    "Ernst Haas",
+    "Robert Mundell"
    ],
-   "a": 3,
+   "a": 1,
    "w": "The Customs Union Issue (1950)."
   },
   {
    "q": "Which treaty introduced Article 50, the EU exit clause?",
    "o": [
-    "Lisbon",
-    "Maastricht",
+    "Nice",
     "Amsterdam",
-    "Nice"
+    "Maastricht",
+    "Lisbon"
    ],
-   "a": 0,
+   "a": 3,
    "w": "Lisbon (2007, in force 2009); the UK used it."
   },
   {
    "q": "Qualified majority voting in the Council of the EU requires:",
    "o": [
-    "55% of states with 65% of population",
-    "Two-thirds of states",
     "Unanimity",
-    "A simple majority of states"
+    "A simple majority of states",
+    "Two-thirds of states",
+    "55% of states with 65% of population"
    ],
-   "a": 0,
+   "a": 3,
    "w": "The double majority rule since 2014."
   },
   {
    "q": "The CJEU case establishing the direct effect of EU law is:",
    "o": [
-    "Costa v ENEL",
     "Factortame",
-    "Van Gend en Loos",
-    "Cassis de Dijon"
+    "Costa v ENEL",
+    "Cassis de Dijon",
+    "Van Gend en Loos"
    ],
-   "a": 2,
+   "a": 3,
    "w": "1963; Costa v ENEL (1964) established supremacy."
   },
   {
    "q": "NAFTA came into force on:",
    "o": [
-    "1 January 1994",
-    "1 January 1989",
+    "1 January 2000",
     "1 July 2020",
-    "1 January 2000"
+    "1 January 1989",
+    "1 January 1994"
    ],
-   "a": 0,
+   "a": 3,
    "w": "It built on the 1988 Canada-US FTA."
   },
   {
@@ -132,43 +132,43 @@
    "o": [
     "30 November 2018",
     "1 January 2021",
-    "1 July 2026",
-    "1 July 2020"
+    "1 July 2020",
+    "1 July 2026"
    ],
-   "a": 3,
+   "a": 2,
    "w": "It was signed in November 2018."
   },
   {
    "q": "USMCA's rules for cars require regional value content of:",
    "o": [
+    "62.5%",
     "50%",
     "75%",
-    "62.5%",
     "90%"
    ],
-   "a": 1,
+   "a": 2,
    "w": "Up from 62.5% under NAFTA."
   },
   {
    "q": "After the July 2026 joint review in which the US declined to extend it, USMCA:",
    "o": [
-    "Ended immediately",
-    "Became a customs union",
     "Was replaced by NAFTA",
-    "Moves to annual reviews and stays in force until 2036 unless extended"
+    "Ended immediately",
+    "Moves to annual reviews and stays in force until 2036 unless extended",
+    "Became a customs union"
    ],
-   "a": 3,
+   "a": 2,
    "w": "Any party can still withdraw on six months' notice."
   },
   {
    "q": "The India-EU FTA was concluded in:",
    "o": [
-    "2007",
     "2022",
     "January 2026",
-    "July 2025"
+    "July 2025",
+    "2007"
    ],
-   "a": 2,
+   "a": 1,
    "w": "On 27 January 2026."
   }
  ],

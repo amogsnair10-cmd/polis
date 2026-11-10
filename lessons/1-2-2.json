@@ -59,23 +59,23 @@
   {
    "q": "In the Constituent Assembly, Ambedkar justified the parliamentary system mainly on grounds of…",
    "o": [
-    "Stability",
     "Responsibility",
+    "Stability",
     "Federalism",
     "Cost"
    ],
-   "a": 1,
+   "a": 0,
    "w": "He said responsibility mattered more than stability."
   },
   {
    "q": "Article 74 deals with…",
    "o": [
+    "Ordinance power",
     "The Council of Ministers to aid and advise the President",
-    "Election of the President",
     "Impeachment",
-    "Ordinance power"
+    "Election of the President"
    ],
-   "a": 0,
+   "a": 1,
    "w": "The 42nd and 44th Amendments changed it."
   },
   {
@@ -92,21 +92,21 @@
   {
    "q": "Which amendment limited the Council of Ministers to 15% of the House?",
    "o": [
-    "52nd",
-    "61st",
     "91st",
-    "101st"
+    "52nd",
+    "101st",
+    "61st"
    ],
-   "a": 2,
+   "a": 0,
    "w": "The 91st Amendment, 2003."
   },
   {
    "q": "The basic structure doctrine arose in…",
    "o": [
-    "Golaknath",
+    "Minerva Mills",
     "Kesavananda Bharati",
     "Shankari Prasad",
-    "Minerva Mills"
+    "Golaknath"
    ],
    "a": 1,
    "w": "Kesavananda Bharati (1973), by 7:6."
@@ -114,56 +114,56 @@
   {
    "q": "Which amendment requires ratification by half the states?",
    "o": [
-    "One changing the Seventh Schedule",
     "One changing Article 21",
-    "One adding a Fundamental Duty",
-    "One lowering the voting age"
+    "One lowering the voting age",
+    "One changing the Seventh Schedule",
+    "One adding a Fundamental Duty"
    ],
-   "a": 0,
+   "a": 2,
    "w": "Federal matters need ratification under Article 368(2)."
   },
   {
    "q": "The National Judicial Appointments Commission was created by the…",
    "o": [
-    "97th Amendment",
     "99th Amendment",
     "101st Amendment",
+    "97th Amendment",
     "102nd Amendment"
    ],
-   "a": 1,
+   "a": 0,
    "w": "99th Amendment (2014); struck down in 2015."
   },
   {
    "q": "The voting age was lowered to 18 by the…",
    "o": [
-    "42nd Amendment",
     "61st Amendment",
+    "42nd Amendment",
     "73rd Amendment",
     "86th Amendment"
    ],
-   "a": 1,
+   "a": 0,
    "w": "61st Amendment, 1989."
   },
   {
    "q": "Presidential assent to an amendment bill became compulsory by the…",
    "o": [
+    "44th Amendment",
     "24th Amendment",
     "25th Amendment",
-    "39th Amendment",
-    "44th Amendment"
+    "39th Amendment"
    ],
-   "a": 0,
+   "a": 1,
    "w": "24th Amendment (1971)."
   },
   {
    "q": "The Constitution (131st Amendment) Bill, 2026 was…",
    "o": [
+    "Sent to the President",
     "Passed with a two-thirds majority",
-    "Defeated in the Lok Sabha on 17 April 2026",
     "Ratified by half the states",
-    "Sent to the President"
+    "Defeated in the Lok Sabha on 17 April 2026"
    ],
-   "a": 1,
+   "a": 3,
    "w": "It got 298 votes against 230 and fell short."
   }
  ],

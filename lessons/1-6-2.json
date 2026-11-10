@@ -59,43 +59,43 @@
   {
    "q": "Which Article lets Parliament provide for settling inter-state river disputes?",
    "o": [
-    "Article 131",
     "Article 262",
-    "Article 263",
-    "Article 307"
+    "Article 307",
+    "Article 131",
+    "Article 263"
    ],
-   "a": 1,
+   "a": 0,
    "w": "Article 262; the 1956 Act uses it."
   },
   {
    "q": "The Inter-State Council is created by…",
    "o": [
-    "Article 263",
     "Article 262",
-    "Article 280",
-    "Article 356"
+    "Article 263",
+    "Article 356",
+    "Article 280"
    ],
-   "a": 0,
+   "a": 1,
    "w": "Article 263; first set up in 1990."
   },
   {
    "q": "Water as a subject falls in…",
    "o": [
-    "Union List only",
     "State List Entry 17, with inter-state rivers regulated under Union List Entry 56",
     "Concurrent List",
-    "Residuary list"
+    "Residuary list",
+    "Union List only"
    ],
-   "a": 1,
+   "a": 0,
    "w": "Water is in the State List, subject to Union control of inter-state rivers."
   },
   {
    "q": "The Supreme Court's 2018 Cauvery verdict gave Karnataka…",
    "o": [
-    "270 TMC",
-    "284.75 TMC",
     "192 TMC",
-    "419 TMC"
+    "284.75 TMC",
+    "419 TMC",
+    "270 TMC"
    ],
    "a": 1,
    "w": "It raised Karnataka's share by 14.75 TMC to 284.75 TMC."
@@ -103,21 +103,21 @@
   {
    "q": "The Cauvery Water Management Authority was set up in…",
    "o": [
+    "2023",
     "1990",
     "2007",
-    "2018",
-    "2023"
+    "2018"
    ],
-   "a": 2,
+   "a": 3,
    "w": "Created in June 2018 after the Supreme Court ordered a scheme."
   },
   {
    "q": "The Punjab Termination of Agreements Act, 2004 related to…",
    "o": [
-    "Cauvery",
-    "Ravi-Beas waters",
     "Krishna",
-    "Narmada"
+    "Ravi-Beas waters",
+    "Narmada",
+    "Cauvery"
    ],
    "a": 1,
    "w": "It was held invalid on a Presidential reference in 2016."
@@ -125,31 +125,31 @@
   {
    "q": "Which commission examined the Belagavi border in 1966?",
    "o": [
-    "Mahajan Commission",
-    "Sarkaria Commission",
     "Fazl Ali Commission",
-    "Shah Commission"
+    "Shah Commission",
+    "Sarkaria Commission",
+    "Mahajan Commission"
    ],
-   "a": 0,
+   "a": 3,
    "w": "The Mahajan Commission."
   },
   {
    "q": "Zonal Councils were created by…",
    "o": [
     "The Constitution",
+    "NITI Aayog Act",
     "States Reorganisation Act, 1956",
-    "Inter-State Council Order, 1990",
-    "NITI Aayog Act"
+    "Inter-State Council Order, 1990"
    ],
-   "a": 1,
+   "a": 2,
    "w": "They are statutory bodies."
   },
   {
    "q": "The Assam-Meghalaya agreement to settle six of twelve disputed areas was signed in…",
    "o": [
     "March 2022",
-    "July 2021",
     "January 2020",
+    "July 2021",
     "August 2023"
    ],
    "a": 0,
@@ -158,12 +158,12 @@
   {
    "q": "Original jurisdiction of the Supreme Court in Centre-state disputes is under…",
    "o": [
+    "Article 226",
     "Article 32",
     "Article 131",
-    "Article 136",
-    "Article 226"
+    "Article 136"
    ],
-   "a": 1,
+   "a": 2,
    "w": "Article 131."
   }
  ],

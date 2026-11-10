@@ -59,111 +59,111 @@
   {
    "q": "Who wrote When Crime Pays: Money and Muscle in Indian Politics?",
    "o": [
-    "Milan Vaishnav",
-    "Kanchan Chandra",
     "Christophe Jaffrelot",
-    "Paul Brass"
+    "Paul Brass",
+    "Milan Vaishnav",
+    "Kanchan Chandra"
    ],
-   "a": 0,
+   "a": 2,
    "w": "Vaishnav (2017)."
   },
   {
    "q": "The patronage democracy idea comes from…",
    "o": [
+    "W.H. Morris-Jones",
     "Kanchan Chandra",
     "Rajni Kothari",
-    "W.H. Morris-Jones",
     "Selig Harrison"
    ],
-   "a": 0,
+   "a": 1,
    "w": "Why Ethnic Parties Succeed (2004)."
   },
   {
    "q": "The Michigan school of voting behaviour stresses…",
    "o": [
     "Social class",
+    "Media effect",
     "Party identification",
-    "Rational calculation of costs",
-    "Media effect"
+    "Rational calculation of costs"
    ],
-   "a": 1,
+   "a": 2,
    "w": "The American Voter (1960)."
   },
   {
    "q": "The NOTA option was introduced by the Supreme Court in…",
    "o": [
+    "ADR (2002)",
     "PUCL v. Union of India (2013)",
-    "Lily Thomas (2013)",
     "Anoop Baranwal (2023)",
-    "ADR (2002)"
+    "Lily Thomas (2013)"
    ],
-   "a": 0,
+   "a": 1,
    "w": "PUCL (27 September 2013)."
   },
   {
    "q": "Lily Thomas (2013) held that…",
    "o": [
-    "A convicted legislator with a sentence of two years or more is disqualified at once",
     "Candidates need not disclose assets",
     "NOTA is invalid",
+    "A convicted legislator with a sentence of two years or more is disqualified at once",
     "Bonds are legal"
    ],
-   "a": 0,
+   "a": 2,
    "w": "It struck down the protection for sitting legislators."
   },
   {
    "q": "The Supreme Court struck down electoral bonds on…",
    "o": [
-    "15 February 2024",
     "26 April 2024",
-    "11 December 2023",
-    "8 April 2025"
+    "15 February 2024",
+    "8 April 2025",
+    "11 December 2023"
    ],
-   "a": 0,
+   "a": 1,
    "w": "ADR v. Union of India."
   },
   {
    "q": "According to ADR, what share of 2024 Lok Sabha winners declared criminal cases?",
    "o": [
-    "34%",
-    "43%",
     "46%",
+    "43%",
+    "34%",
     "60%"
    ],
-   "a": 2,
+   "a": 0,
    "w": "251 of 543."
   },
   {
    "q": "Which committee on state funding of elections reported in 1998?",
    "o": [
     "Vohra Committee",
-    "Indrajit Gupta Committee",
     "Dinesh Goswami Committee",
-    "Tarkunde Committee"
+    "Tarkunde Committee",
+    "Indrajit Gupta Committee"
    ],
-   "a": 1,
+   "a": 3,
    "w": "Indrajit Gupta Committee."
   },
   {
    "q": "Jaffrelot's India's Silent Revolution deals with…",
    "o": [
-    "OBC rise in the Hindi belt",
-    "Tribal movements",
     "Electoral bonds",
-    "Panchayati Raj"
+    "Tribal movements",
+    "Panchayati Raj",
+    "OBC rise in the Hindi belt"
    ],
-   "a": 0,
+   "a": 3,
    "w": "The rise of lower castes in north Indian politics."
   },
   {
    "q": "The women's reservation law was enacted as the…",
    "o": [
+    "91st Amendment Act",
     "106th Amendment Act, 2023",
     "73rd Amendment Act",
-    "91st Amendment Act",
     "42nd Amendment Act"
    ],
-   "a": 0,
+   "a": 1,
    "w": "Constitution (106th Amendment) Act, 2023."
   }
  ],

@@ -64,8 +64,8 @@
   {
    "q": "Dinabandhu Mitra's play Nil Darpan (1860) was linked to…",
    "o": [
-    "The Deccan riots",
     "The Santhal hul",
+    "The Deccan riots",
     "The indigo revolt",
     "The Bardoli satyagraha"
    ],
@@ -75,32 +75,32 @@
   {
    "q": "Birsa Munda led the…",
    "o": [
-    "Santhal hul",
     "Ulgulan (1899-1900)",
     "Pabna leagues",
+    "Santhal hul",
     "Moplah revolt"
    ],
-   "a": 1,
+   "a": 0,
    "w": "The Munda rebellion in Chhotanagpur."
   },
   {
    "q": "The All India Kisan Sabha was formed in…",
    "o": [
-    "1936 at Lucknow",
     "1920 at Awadh",
-    "1946 at Telangana",
-    "1929 at Bihar"
+    "1936 at Lucknow",
+    "1929 at Bihar",
+    "1946 at Telangana"
    ],
-   "a": 0,
+   "a": 1,
    "w": "April 1936; Sahajanand Saraswati was first president."
   },
   {
    "q": "Bardoli satyagraha (1928) was led by…",
    "o": [
-    "Gandhi",
     "Nehru",
+    "Rajendra Prasad",
     "Vallabhbhai Patel",
-    "Rajendra Prasad"
+    "Gandhi"
    ],
    "a": 2,
    "w": "He gained the title 'Sardar'."
@@ -108,53 +108,53 @@
   {
    "q": "The AITUC was founded in 1920 with which first president?",
    "o": [
+    "S.A. Dange",
     "N.M. Joshi",
     "Lala Lajpat Rai",
-    "V.V. Giri",
-    "S.A. Dange"
+    "V.V. Giri"
    ],
-   "a": 1,
+   "a": 2,
    "w": "Founded in Bombay in October 1920."
   },
   {
    "q": "The Meerut Conspiracy Case (1929) targeted…",
    "o": [
-    "Communist and labour leaders",
-    "HSRA revolutionaries",
+    "Swaraj Party leaders",
     "Ghadar leaders",
-    "Swaraj Party leaders"
+    "Communist and labour leaders",
+    "HSRA revolutionaries"
    ],
-   "a": 0,
+   "a": 2,
    "w": "Thirty-one trade union leaders were tried."
   },
   {
    "q": "The Kakori train robbery occurred in…",
    "o": [
-    "1928",
     "1925",
     "1930",
-    "1931"
+    "1931",
+    "1928"
    ],
-   "a": 1,
+   "a": 0,
    "w": "9 August 1925, by the HRA."
   },
   {
    "q": "Bhagat Singh's essay of 1930 is…",
    "o": [
     "The Philosophy of the Bomb",
-    "Hind Swaraj",
     "Why I Am an Atheist",
+    "Hind Swaraj",
     "Inquilab Zindabad"
    ],
-   "a": 2,
+   "a": 1,
    "w": "Written in Lahore jail."
   },
   {
    "q": "The Chittagong armoury raid was led by…",
    "o": [
     "Chandrashekhar Azad",
-    "Rash Behari Bose",
     "Jatin Das",
+    "Rash Behari Bose",
     "Surya Sen"
    ],
    "a": 3,
@@ -164,11 +164,11 @@
    "q": "Tebhaga (1946-47) was a movement for…",
    "o": [
     "Abolition of salt tax",
+    "Two-thirds of the crop for sharecroppers",
     "Higher mill wages",
-    "Tribal self-rule",
-    "Two-thirds of the crop for sharecroppers"
+    "Tribal self-rule"
    ],
-   "a": 3,
+   "a": 1,
    "w": "Bengal sharecroppers demanded two-thirds, not half."
   }
  ],

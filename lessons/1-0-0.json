@@ -70,9 +70,9 @@
    "q": "The Indian National Congress was founded in…",
    "o": [
     "1885",
-    "1857",
     "1905",
-    "1919"
+    "1919",
+    "1857"
    ],
    "a": 0,
    "w": "December 1885 in Bombay; W.C. Bonnerjee was first president."
@@ -81,9 +81,9 @@
    "q": "Naoroji's 'drain of wealth' argument appears in…",
    "o": [
     "India Today (1940)",
-    "Hind Swaraj (1909)",
+    "Economic History of India (1902)",
     "Poverty and Un-British Rule in India (1901)",
-    "Economic History of India (1902)"
+    "Hind Swaraj (1909)"
    ],
    "a": 2,
    "w": "Dadabhai Naoroji's book."
@@ -113,21 +113,21 @@
   {
    "q": "Non-Cooperation was suspended after…",
    "o": [
-    "Jallianwala Bagh",
-    "The Rowlatt Act",
+    "Chauri Chaura",
     "The Simon Commission",
-    "Chauri Chaura"
+    "The Rowlatt Act",
+    "Jallianwala Bagh"
    ],
-   "a": 3,
+   "a": 0,
    "w": "Gandhi suspended it in February 1922 after violence in Chauri Chaura."
   },
   {
    "q": "Purna Swaraj was declared at the Congress session held at…",
    "o": [
+    "Nagpur, 1920",
     "Karachi, 1931",
-    "Tripuri, 1939",
     "Lahore, 1929",
-    "Nagpur, 1920"
+    "Tripuri, 1939"
    ],
    "a": 2,
    "w": "Presided over by Jawaharlal Nehru."
@@ -135,21 +135,21 @@
   {
    "q": "The Swaraj Party was formed by…",
    "o": [
-    "Gokhale and Ranade",
-    "Tilak and Besant",
     "Bose and Nehru",
-    "C.R. Das and Motilal Nehru"
+    "Gokhale and Ranade",
+    "C.R. Das and Motilal Nehru",
+    "Tilak and Besant"
    ],
-   "a": 3,
+   "a": 2,
    "w": "In January 1923, to contest the councils."
   },
   {
    "q": "Bipan Chandra described the Gandhian pattern of struggle as…",
    "o": [
-    "Petition-Prayer-Protest",
-    "Struggle-Truce-Struggle",
     "Boycott-Swadeshi-Boycott",
-    "Council entry alone"
+    "Struggle-Truce-Struggle",
+    "Council entry alone",
+    "Petition-Prayer-Protest"
    ],
    "a": 1,
    "w": "India's Struggle for Independence (1988): S-T-S."
@@ -158,19 +158,19 @@
    "q": "Quit India was launched at…",
    "o": [
     "Calcutta on 9 August 1942",
-    "Bombay on 8 August 1942",
+    "Allahabad on 8 August 1942",
     "Wardha on 14 July 1942",
-    "Allahabad on 8 August 1942"
+    "Bombay on 8 August 1942"
    ],
-   "a": 1,
+   "a": 3,
    "w": "Gowalia Tank, Bombay; 'Do or Die'."
   },
   {
    "q": "Bipan Chandra describes the Gandhian pattern as…",
    "o": [
-    "Petition-Protest-Prayer",
-    "Struggle-Truce-Struggle",
     "Boycott-Swadeshi-Arms",
+    "Struggle-Truce-Struggle",
+    "Petition-Protest-Prayer",
     "Council-Mass-Council"
    ],
    "a": 1,

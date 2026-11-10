@@ -59,98 +59,98 @@
   {
    "q": "Who first used the term 'Indo-Pacific' in an Indian academic article in 2007?",
    "o": [
-    "Gurpreet Khurana",
-    "C. Raja Mohan",
     "K. Subrahmanyam",
+    "C. Raja Mohan",
+    "Gurpreet Khurana",
     "Brahma Chellaney"
    ],
-   "a": 0,
+   "a": 2,
    "w": "Captain Gurpreet Khurana, in a 2007 article in Strategic Analysis."
   },
   {
    "q": "The Quad was revived in 2017 at a meeting held in:",
    "o": [
+    "Delhi",
     "Manila",
-    "Tokyo",
     "Washington",
-    "Delhi"
+    "Tokyo"
    ],
-   "a": 0,
+   "a": 1,
    "w": "On the sidelines of the ASEAN meetings in Manila, November 2017."
   },
   {
    "q": "The Quad's last in-person leaders' summit (as of November 2026) took place in:",
    "o": [
-    "Wilmington, 2024",
     "Tokyo, 2022",
     "Hiroshima, 2023",
+    "Wilmington, 2024",
     "Delhi, 2025"
    ],
-   "a": 0,
+   "a": 2,
    "w": "Wilmington, Delaware, September 2024."
   },
   {
    "q": "Modi set out India's Indo-Pacific vision at the:",
    "o": [
-    "Shangri-La Dialogue, 2018",
-    "UNGA 2014",
+    "G20 2023",
     "Raisina Dialogue 2010",
-    "G20 2023"
+    "Shangri-La Dialogue, 2018",
+    "UNGA 2014"
    ],
-   "a": 0,
+   "a": 2,
    "w": "At the Shangri-La Dialogue in Singapore, June 2018."
   },
   {
    "q": "IPOI (Indo-Pacific Oceans Initiative) was launched in:",
    "o": [
+    "2019",
     "2015",
     "2017",
-    "2019",
     "2022"
    ],
-   "a": 2,
+   "a": 0,
    "w": "At the East Asia Summit, Bangkok, November 2019."
   },
   {
    "q": "India is NOT a member of:",
    "o": [
-    "AUKUS",
     "Quad",
+    "AUKUS",
     "Malabar",
     "East Asia Summit"
    ],
-   "a": 0,
+   "a": 1,
    "w": "AUKUS includes only the US, UK and Australia."
   },
   {
    "q": "Which IPEF pillar did India decline to join?",
    "o": [
-    "Trade",
     "Supply chain",
     "Clean economy",
-    "Fair economy"
+    "Fair economy",
+    "Trade"
    ],
-   "a": 0,
+   "a": 3,
    "w": "India stayed out of the trade pillar."
   },
   {
    "q": "The IPMDA initiative of the Quad concerns:",
    "o": [
-    "Maritime domain awareness",
     "Vaccine supply",
-    "Space launch",
-    "Rare earth mining"
+    "Rare earth mining",
+    "Maritime domain awareness",
+    "Space launch"
    ],
-   "a": 0,
+   "a": 2,
    "w": "The Indo-Pacific Partnership for Maritime Domain Awareness."
   },
   {
    "q": "China's common description of the Quad is:",
    "o": [
     "An Asian NATO",
-    "A trade bloc",
+    "A joint venture",
     "A UN agency",
-    "A joint venture"
+    "A trade bloc"
    ],
    "a": 0,
    "w": "Chinese officials call it an 'Asian NATO'."
@@ -158,12 +158,12 @@
   {
    "q": "Which country withdrew from the first Quad in 2008?",
    "o": [
-    "Australia",
-    "Japan",
     "India",
-    "United States"
+    "Japan",
+    "United States",
+    "Australia"
    ],
-   "a": 0,
+   "a": 3,
    "w": "Australia under Kevin Rudd."
   }
  ],

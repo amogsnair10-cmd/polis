@@ -59,10 +59,10 @@
   {
    "q": "\"A committee for managing the common affairs of the whole bourgeoisie\" comes from…",
    "o": [
-    "Das Kapital",
+    "Prison Notebooks",
     "The Communist Manifesto",
     "The State and Revolution",
-    "Prison Notebooks"
+    "Das Kapital"
    ],
    "a": 1,
    "w": "The Communist Manifesto (1848)."
@@ -70,10 +70,10 @@
   {
    "q": "Who argued the instrumentalist view of the state?",
    "o": [
-    "Poulantzas",
+    "Althusser",
     "Miliband",
     "Gramsci",
-    "Althusser"
+    "Poulantzas"
    ],
    "a": 1,
    "w": "Ralph Miliband, The State in Capitalist Society (1969)."
@@ -81,21 +81,21 @@
   {
    "q": "Bonapartism refers to…",
    "o": [
-    "Military rule",
     "State autonomy when classes are balanced",
-    "French nationalism",
-    "Direct democracy"
+    "Direct democracy",
+    "Military rule",
+    "French nationalism"
    ],
-   "a": 1,
+   "a": 0,
    "w": "From Marx's Eighteenth Brumaire: the state gains autonomy when classes balance."
   },
   {
    "q": "Gramsci's key concept is…",
    "o": [
-    "Surplus value",
+    "Polyarchy",
     "Hegemony",
-    "Alienation",
-    "Polyarchy"
+    "Surplus value",
+    "Alienation"
    ],
    "a": 1,
    "w": "Hegemony: rule through consent, backed by coercion."
@@ -103,21 +103,21 @@
   {
    "q": "Bardhan identified how many dominant proprietary classes in India?",
    "o": [
-    "Two",
     "Three",
+    "Five",
     "Four",
-    "Five"
+    "Two"
    ],
-   "a": 1,
+   "a": 0,
    "w": "Three: industrial capitalists, rich farmers, and professionals."
   },
   {
    "q": "The Origin of the Family, Private Property and the State was written by…",
    "o": [
-    "Marx",
+    "Kautsky",
     "Engels",
     "Lenin",
-    "Kautsky"
+    "Marx"
    ],
    "a": 1,
    "w": "Friedrich Engels, 1884."
@@ -125,21 +125,21 @@
   {
    "q": "Who wrote The State and Revolution (1917)?",
    "o": [
-    "Lenin",
-    "Trotsky",
+    "Gramsci",
     "Stalin",
-    "Gramsci"
+    "Trotsky",
+    "Lenin"
    ],
-   "a": 0,
+   "a": 3,
    "w": "Lenin."
   },
   {
    "q": "Poulantzas held which view of the state?",
    "o": [
-    "Instrumentalist",
+    "Liberal",
     "Structuralist",
-    "Pluralist",
-    "Liberal"
+    "Instrumentalist",
+    "Pluralist"
    ],
    "a": 1,
    "w": "The state has relative autonomy because of its structural role."
@@ -148,22 +148,22 @@
    "q": "For Engels, after classes disappear the state…",
    "o": [
     "Is abolished by decree",
-    "Withers away",
     "Becomes a world state",
-    "Becomes stronger"
+    "Becomes stronger",
+    "Withers away"
    ],
-   "a": 1,
+   "a": 3,
    "w": "From Anti-Dühring."
   },
   {
    "q": "Marx's analysis of Louis Bonaparte's state is found in…",
    "o": [
-    "Capital",
-    "The Eighteenth Brumaire",
+    "The Manifesto",
     "The German Ideology",
-    "The Manifesto"
+    "The Eighteenth Brumaire",
+    "Capital"
    ],
-   "a": 1,
+   "a": 2,
    "w": "The Eighteenth Brumaire of Louis Bonaparte (1852)."
   }
  ],

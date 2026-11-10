@@ -59,23 +59,23 @@
   {
    "q": "A Working Peace System (1943) was written by:",
    "o": [
-    "Ernst Haas",
     "Karl Deutsch",
-    "David Mitrany",
-    "Jean Monnet"
+    "Ernst Haas",
+    "Jean Monnet",
+    "David Mitrany"
    ],
-   "a": 2,
+   "a": 3,
    "w": "Mitrany, the founder of functionalism."
   },
   {
    "q": "Mitrany's key phrase for functional agencies is:",
    "o": [
+    "Interest follows power",
     "Function follows form",
-    "Form follows function",
     "Power follows trade",
-    "Interest follows power"
+    "Form follows function"
    ],
-   "a": 1,
+   "a": 3,
    "w": "Agencies should be shaped by the task, not by borders."
   },
   {
@@ -92,30 +92,30 @@
   {
    "q": "'Cultivated spillover' refers to:",
    "o": [
-    "Supranational institutions pushing integration forward",
     "Automatic economic linkage",
     "Pressure from interest groups",
-    "States blocking integration"
+    "States blocking integration",
+    "Supranational institutions pushing integration forward"
    ],
-   "a": 0,
+   "a": 3,
    "w": "The Commission and similar bodies actively promote further integration."
   },
   {
    "q": "The Schuman Declaration was made on:",
    "o": [
-    "25 March 1957",
-    "9 May 1950",
     "7 February 1992",
-    "13 December 2007"
+    "25 March 1957",
+    "13 December 2007",
+    "9 May 1950"
    ],
-   "a": 1,
+   "a": 3,
    "w": "9 May 1950, now celebrated as Europe Day."
   },
   {
    "q": "The Luxembourg Compromise (1966) ended the crisis caused by:",
    "o": [
-    "British accession",
     "The euro crisis",
+    "British accession",
     "The Single European Act",
     "De Gaulle's empty chair policy"
    ],
@@ -125,42 +125,42 @@
   {
    "q": "Stanley Hoffmann's 1966 article argued that:",
    "o": [
-    "Spillover is automatic",
     "Federation is inevitable",
     "Functionalism is obsolete in Asia",
-    "States resist integration on 'high politics'"
+    "States resist integration on 'high politics'",
+    "Spillover is automatic"
    ],
-   "a": 3,
+   "a": 2,
    "w": "High politics (defence, identity) is where states hold the line."
   },
   {
    "q": "Liberal intergovernmentalism is associated with:",
    "o": [
-    "Ernst Haas",
+    "David Mitrany",
     "Karl Deutsch",
-    "Andrew Moravcsik",
-    "David Mitrany"
+    "Ernst Haas",
+    "Andrew Moravcsik"
    ],
-   "a": 2,
+   "a": 3,
    "w": "Moravcsik's The Choice for Europe (1998)."
   },
   {
    "q": "Karl Deutsch's Political Community and the North Atlantic Area (1957) introduced the idea of:",
    "o": [
+    "Dependency",
     "Spillover",
     "Balance of power",
-    "Security community",
-    "Dependency"
+    "Security community"
    ],
-   "a": 2,
+   "a": 3,
    "w": "A security community is a group where war has become unthinkable."
   },
   {
    "q": "Which treaty created the European Coal and Steel Community?",
    "o": [
+    "Lisbon 2007",
     "Treaty of Rome 1957",
     "Maastricht 1992",
-    "Lisbon 2007",
     "Treaty of Paris 1951"
    ],
    "a": 3,

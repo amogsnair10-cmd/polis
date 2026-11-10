@@ -59,32 +59,32 @@
   {
    "q": "The Simla Agreement was signed in:",
    "o": [
-    "1966",
-    "1972",
     "1988",
-    "1999"
+    "1999",
+    "1966",
+    "1972"
    ],
-   "a": 1,
+   "a": 3,
    "w": "Indira Gandhi and Bhutto signed it on 2 July 1972."
   },
   {
    "q": "Who signed the Indus Waters Treaty in 1960?",
    "o": [
-    "Nehru and Ayub Khan",
-    "Shastri and Ayub Khan",
     "Indira Gandhi and Bhutto",
+    "Shastri and Ayub Khan",
+    "Nehru and Ayub Khan",
     "Vajpayee and Sharif"
    ],
-   "a": 0,
+   "a": 2,
    "w": "Nehru and Ayub Khan signed it in Karachi, with the World Bank also a signatory."
   },
   {
    "q": "Under the IWT, which rivers are allotted mainly to India?",
    "o": [
-    "Indus, Jhelum, Chenab",
+    "Kabul, Swat, Indus",
     "Ravi, Beas, Sutlej",
     "Ganga, Yamuna, Ghaghra",
-    "Kabul, Swat, Indus"
+    "Indus, Jhelum, Chenab"
    ],
    "a": 1,
    "w": "The three Eastern rivers: Ravi, Beas, Sutlej."
@@ -92,34 +92,34 @@
   {
    "q": "Operation Sindoor was launched on:",
    "o": [
-    "26 February 2019",
     "29 September 2016",
-    "7 May 2025",
-    "22 April 2025"
+    "26 February 2019",
+    "22 April 2025",
+    "7 May 2025"
    ],
-   "a": 2,
+   "a": 3,
    "w": "7 May 2025, after the Pahalgam attack of 22 April."
   },
   {
    "q": "The Lahore Declaration was signed in:",
    "o": [
-    "1972",
     "1999",
+    "2015",
     "2004",
-    "2015"
+    "1972"
    ],
-   "a": 1,
+   "a": 0,
    "w": "February 1999 by Vajpayee and Nawaz Sharif."
   },
   {
    "q": "The 'stability-instability paradox' is associated with:",
    "o": [
+    "Hedley Bull",
     "Kenneth Waltz",
     "Glenn Snyder",
-    "Thomas Schelling",
-    "Hedley Bull"
+    "Thomas Schelling"
    ],
-   "a": 1,
+   "a": 2,
    "w": "Glenn Snyder (1965)."
   },
   {
@@ -127,40 +127,40 @@
    "o": [
     "August 2019",
     "March 2021",
-    "December 2023",
-    "May 2025"
+    "May 2025",
+    "December 2023"
    ],
-   "a": 2,
+   "a": 3,
    "w": "In re: Article 370 of the Constitution, December 2023."
   },
   {
    "q": "How was the May 2025 ceasefire reached, according to India?",
    "o": [
-    "US mediation",
     "DGMO-level communication",
-    "UN Secretary-General",
-    "Chinese mediation"
+    "US mediation",
+    "Chinese mediation",
+    "UN Secretary-General"
    ],
-   "a": 1,
+   "a": 0,
    "w": "India says the DGMOs agreed on 10 May 2025 over the hotline."
   },
   {
    "q": "Pakistan's stated nuclear policy differs from India's in that Pakistan has:",
    "o": [
     "No nuclear weapons",
-    "No pledge of no first use",
+    "A civilian doctrine",
     "A no first use doctrine",
-    "A civilian doctrine"
+    "No pledge of no first use"
    ],
-   "a": 1,
+   "a": 3,
    "w": "Pakistan keeps the option of first use under 'full spectrum deterrence'."
   },
   {
    "q": "The 1988 India-Pakistan agreement on nuclear facilities provides for:",
    "o": [
     "No attack on each other's nuclear installations",
-    "Joint tests",
     "Missile sharing",
+    "Joint tests",
     "Water sharing"
    ],
    "a": 0,

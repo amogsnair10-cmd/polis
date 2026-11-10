@@ -59,12 +59,12 @@
   {
    "q": "The Taliban returned to Kabul on:",
    "o": [
-    "15 August 2021",
-    "29 February 2020",
     "11 September 2001",
+    "29 February 2020",
+    "15 August 2021",
     "1 May 2021"
    ],
-   "a": 0,
+   "a": 2,
    "w": "15 August 2021."
   },
   {
@@ -82,9 +82,9 @@
    "q": "India–Afghanistan Strategic Partnership Agreement dates from:",
    "o": [
     "2001",
-    "2005",
+    "2015",
     "2011",
-    "2015"
+    "2005"
    ],
    "a": 2,
    "w": "October 2011."
@@ -92,21 +92,21 @@
   {
    "q": "The Zaranj–Delaram highway (2009) was important because it:",
    "o": [
-    "Connects Kabul to Pakistan",
     "Links to Iran's Chabahar port",
     "Links Kabul to Tashkent",
+    "Connects Kabul to Pakistan",
     "Is a rail line"
    ],
-   "a": 1,
+   "a": 0,
    "w": "It gives Afghanistan a route to Chabahar bypassing Pakistan."
   },
   {
    "q": "Who wrote 'My Enemy's Enemy: India in Afghanistan from the Soviet Invasion to the US Withdrawal'?",
    "o": [
     "Avinash Paliwal",
+    "Ashley Tellis",
     "Rajiv Sikri",
-    "C. Raja Mohan",
-    "Ashley Tellis"
+    "C. Raja Mohan"
    ],
    "a": 0,
    "w": "Avinash Paliwal (2017)."
@@ -115,18 +115,18 @@
    "q": "In October 2025 India announced it would upgrade its Kabul mission to:",
    "o": [
     "A consulate",
+    "A liaison office",
     "An embassy",
-    "A trade office",
-    "A liaison office"
+    "A trade office"
    ],
-   "a": 1,
+   "a": 2,
    "w": "The technical mission was upgraded to an embassy."
   },
   {
    "q": "Which country was the first to formally recognise the Taliban government, in July 2025?",
    "o": [
-    "China",
     "Iran",
+    "China",
     "Russia",
     "Pakistan"
    ],
@@ -137,33 +137,33 @@
    "q": "India's Air Freight Corridor with Afghanistan began in:",
    "o": [
     "2009",
-    "2013",
     "2017",
-    "2022"
+    "2022",
+    "2013"
    ],
-   "a": 2,
+   "a": 1,
    "w": "2017, bypassing Pakistan."
   },
   {
    "q": "The Doha agreement between the US and the Taliban was signed in:",
    "o": [
+    "2014",
     "2018",
-    "February 2020",
     "2021",
-    "2014"
+    "February 2020"
    ],
-   "a": 1,
+   "a": 3,
    "w": "29 February 2020."
   },
   {
    "q": "Which airline hijack ended at Kandahar in December 1999?",
    "o": [
-    "IC-814",
+    "AI-101",
     "AI-182",
     "IC-421",
-    "AI-101"
+    "IC-814"
    ],
-   "a": 0,
+   "a": 3,
    "w": "Indian Airlines IC-814; the release of Masood Azhar followed."
   }
  ],

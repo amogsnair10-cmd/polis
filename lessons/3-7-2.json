@@ -60,9 +60,9 @@
    "q": "I2U2 stands for India, Israel, UAE and:",
    "o": [
     "USA",
-    "Uzbekistan",
     "Ukraine",
-    "Uganda"
+    "Uganda",
+    "Uzbekistan"
    ],
    "a": 0,
    "w": "India, Israel, the United Arab Emirates and the United States."
@@ -81,21 +81,21 @@
   {
    "q": "Who popularised 'minilateralism' in a 2009 Foreign Policy article?",
    "o": [
-    "Moisés Naím",
-    "Joseph Nye",
     "Fareed Zakaria",
+    "Joseph Nye",
+    "Moisés Naím",
     "Kenneth Waltz"
    ],
-   "a": 0,
+   "a": 2,
    "w": "Moisés Naím."
   },
   {
    "q": "Which Israeli help came during the 1999 Kargil war?",
    "o": [
     "Ammunition, drones and laser-guided bomb kits",
-    "Troops",
     "A naval blockade",
-    "A nuclear guarantee"
+    "A nuclear guarantee",
+    "Troops"
    ],
    "a": 0,
    "w": "Israel supplied ammunition, UAVs and laser-guided kits."
@@ -103,67 +103,67 @@
   {
    "q": "India-Israel diplomatic relations were established in:",
    "o": [
-    "1950",
+    "2000",
     "1971",
-    "1992",
-    "2000"
+    "1950",
+    "1992"
    ],
-   "a": 2,
+   "a": 3,
    "w": "January 1992."
   },
   {
    "q": "India upgraded ties with Israel in February 2026 to a:",
    "o": [
-    "Special Strategic Partnership",
     "Military alliance",
+    "Special Strategic Partnership",
     "Comprehensive Economic Union",
     "Defence pact"
    ],
-   "a": 0,
+   "a": 1,
    "w": "A Special Strategic Partnership for Peace, Innovation and Prosperity."
   },
   {
    "q": "Which is the northern leg destination of IMEC in the Mediterranean?",
    "o": [
+    "Aqaba",
     "Haifa port",
     "Port Said",
-    "Piraeus",
-    "Aqaba"
+    "Piraeus"
    ],
-   "a": 0,
+   "a": 1,
    "w": "By rail to Haifa, then by sea to Europe."
   },
   {
    "q": "The Barak-8 (MRSAM) missile system was developed by DRDO and:",
    "o": [
-    "Rafael / Israel Aerospace Industries",
-    "Raytheon",
+    "MBDA",
     "Almaz-Antey",
-    "MBDA"
+    "Raytheon",
+    "Rafael / Israel Aerospace Industries"
    ],
-   "a": 0,
+   "a": 3,
    "w": "Co-developed with Israeli firms (IAI, Rafael)."
   },
   {
    "q": "A key criticism of minilaterals is that they:",
    "o": [
-    "Cannot be flexible",
-    "May sideline universal rules and excluded states",
     "Need a big treaty",
-    "Have a permanent secretariat"
+    "Have a permanent secretariat",
+    "May sideline universal rules and excluded states",
+    "Cannot be flexible"
    ],
-   "a": 1,
+   "a": 2,
    "w": "They can undercut inclusive multilateral institutions."
   },
   {
    "q": "The I2U2 leaders' summit was held virtually in:",
    "o": [
-    "July 2022",
-    "March 2020",
     "September 2023",
-    "January 2021"
+    "January 2021",
+    "March 2020",
+    "July 2022"
    ],
-   "a": 0,
+   "a": 3,
    "w": "14 July 2022."
   }
  ],

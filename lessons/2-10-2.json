@@ -64,78 +64,78 @@
   {
    "q": "UNSC Resolution 1373 (2001) requires states to:",
    "o": [
-    "Impose sanctions on Iraq",
     "Criminalise terror financing and deny safe haven",
+    "Impose sanctions on Iraq",
     "Join the ICC",
     "Ban all nuclear tests"
    ],
-   "a": 1,
+   "a": 0,
    "w": "Binding under Chapter VII; it set up the Counter-Terrorism Committee."
   },
   {
    "q": "India's draft Comprehensive Convention on International Terrorism was proposed in:",
    "o": [
-    "1971",
-    "2001",
+    "1996",
     "2008",
-    "1996"
+    "2001",
+    "1971"
    ],
-   "a": 3,
+   "a": 0,
    "w": "India proposed the CCIT in 1996; it remains stalled."
   },
   {
    "q": "Masood Azhar was listed under the UNSC 1267 regime on:",
    "o": [
+    "10 May 2025",
     "14 February 2019",
     "26 November 2008",
-    "1 May 2019",
-    "10 May 2025"
+    "1 May 2019"
    ],
-   "a": 2,
+   "a": 3,
    "w": "China lifted its technical hold in 2019."
   },
   {
    "q": "The Pakistan-focused FATF grey list period ran:",
    "o": [
+    "2023 to 2025",
     "2018 to October 2022",
     "1999 to 2005",
-    "2010 to 2013",
-    "2023 to 2025"
+    "2010 to 2013"
    ],
-   "a": 0,
+   "a": 1,
    "w": "Pakistan was grey-listed in 2018 and removed in October 2022."
   },
   {
    "q": "Operation Sindoor was launched on:",
    "o": [
     "26 February 2019",
-    "29 September 2016",
     "7 May 2025",
+    "29 September 2016",
     "22 April 2025"
    ],
-   "a": 2,
+   "a": 1,
    "w": "After the Pahalgam attack on 22 April 2025."
   },
   {
    "q": "The five NPT nuclear-weapon states are those that tested before:",
    "o": [
-    "1 July 1968",
     "1 January 1967",
     "1 January 1974",
+    "1 July 1968",
     "11 May 1998"
    ],
-   "a": 1,
+   "a": 0,
    "w": "The cut-off date is 1 January 1967."
   },
   {
    "q": "Which state announced withdrawal from the NPT in 2003?",
    "o": [
-    "North Korea",
-    "Iran",
     "Libya",
-    "South Africa"
+    "Iran",
+    "South Africa",
+    "North Korea"
    ],
-   "a": 0,
+   "a": 3,
    "w": "North Korea announced withdrawal in January 2003."
   },
   {
@@ -152,10 +152,10 @@
   {
    "q": "New START, the last US-Russia limit on strategic nuclear forces, expired on:",
    "o": [
-    "5 February 2021",
     "1 July 2019",
+    "24 February 2022",
     "5 February 2026",
-    "24 February 2022"
+    "5 February 2021"
    ],
    "a": 2,
    "w": "It expired on 5 February 2026, after Russia ended compliance and no extension was agreed."
@@ -163,12 +163,12 @@
   {
    "q": "India's 2003 nuclear doctrine includes:",
    "o": [
-    "Credible minimum deterrence and no first use",
     "First use in conflict",
+    "Abolition of civilian control",
     "Joining the CTBT",
-    "Abolition of civilian control"
+    "Credible minimum deterrence and no first use"
    ],
-   "a": 0,
+   "a": 3,
    "w": "Along with massive retaliation and civilian control through the Nuclear Command Authority."
   }
  ],

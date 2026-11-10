@@ -70,76 +70,76 @@
   {
    "q": "The four-fold typology of interest groups is from…",
    "o": [
+    "Bentley",
     "Almond and Powell",
-    "Dahl",
     "Truman",
-    "Bentley"
+    "Dahl"
    ],
-   "a": 0,
+   "a": 1,
    "w": "Comparative Politics: A Developmental Approach (1966)."
   },
   {
    "q": "Olson's 'free rider' problem is in…",
    "o": [
+    "The Power Elite",
     "The Logic of Collective Action",
     "The Process of Government",
-    "Who Governs?",
-    "The Power Elite"
+    "Who Governs?"
    ],
-   "a": 0,
+   "a": 1,
    "w": "The Logic of Collective Action (1965)."
   },
   {
    "q": "Which trade union is linked to the CPI(M)?",
    "o": [
-    "INTUC",
+    "BMS",
     "AITUC",
-    "CITU",
-    "BMS"
+    "INTUC",
+    "CITU"
    ],
-   "a": 2,
+   "a": 3,
    "w": "CITU (1970)."
   },
   {
    "q": "The Rudolphs' book on caste associations is…",
    "o": [
-    "The Modernity of Tradition",
-    "Democratic Dynasties",
     "Politics in India",
+    "Democratic Dynasties",
+    "The Modernity of Tradition",
     "The Politics of Scarcity"
    ],
-   "a": 0,
+   "a": 2,
    "w": "The Modernity of Tradition (1967)."
   },
   {
    "q": "The Supreme Court declared forced bandhs unprotected in…",
    "o": [
-    "Communist Party of India v. Bharat Kumar (1998)",
-    "Amit Sahni (2020)",
     "Kesavananda (1973)",
+    "Amit Sahni (2020)",
+    "Communist Party of India v. Bharat Kumar (1998)",
     "MKSS (2018)"
    ],
-   "a": 0,
+   "a": 2,
    "w": "1998 judgment."
   },
   {
    "q": "The Lokpal Act, 2013 followed which campaign?",
    "o": [
-    "Chipko",
-    "India Against Corruption",
     "Narmada Bachao",
-    "Mandal"
+    "Mandal",
+    "Chipko",
+    "India Against Corruption"
    ],
-   "a": 1,
+   "a": 3,
    "w": "Anna Hazare's 2011 campaign."
   },
   {
    "q": "The four labour codes took effect on…",
    "o": [
     "1 July 2017",
-    "26 January 2020",
+    "1 April 2023",
     "21 November 2025",
-    "1 April 2023"
+    "26 January 2020"
    ],
    "a": 2,
    "w": "They merged 29 laws; unions protested."
@@ -147,23 +147,23 @@
   {
    "q": "Which Article protects the freedom of association?",
    "o": [
-    "19(1)(c)",
-    "21",
+    "32",
     "25",
-    "32"
+    "19(1)(c)",
+    "21"
    ],
-   "a": 0,
+   "a": 2,
    "w": "Article 19(1)(c)."
   },
   {
    "q": "The repeal of the three farm laws took place in…",
    "o": [
-    "2019",
+    "2023",
     "2020",
-    "2021",
-    "2023"
+    "2019",
+    "2021"
    ],
-   "a": 2,
+   "a": 3,
    "w": "Passed September 2020; repealed November 2021."
   }
  ],

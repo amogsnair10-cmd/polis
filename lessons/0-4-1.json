@@ -64,56 +64,56 @@
   {
    "q": "The UDHR was adopted on…",
    "o": [
+    "16 December 1966",
     "26 June 1945",
-    "10 December 1948",
     "24 October 1945",
-    "16 December 1966"
+    "10 December 1948"
    ],
-   "a": 1,
+   "a": 3,
    "w": "By the UN General Assembly; observed as Human Rights Day."
   },
   {
    "q": "Which covenants form the International Bill of Human Rights along with the UDHR?",
    "o": [
     "CEDAW and CRC",
-    "ICCPR and CERD",
     "ICCPR and ICESCR",
-    "ICESCR and CAT"
+    "ICESCR and CAT",
+    "ICCPR and CERD"
    ],
-   "a": 2,
+   "a": 1,
    "w": "Both adopted in 1966, in force 1976."
   },
   {
    "q": "The Vienna Declaration (1993) declared that human rights are…",
    "o": [
-    "Western in origin",
-    "Limited by sovereignty",
+    "Universal, indivisible and interdependent",
     "Only civil and political",
-    "Universal, indivisible and interdependent"
+    "Limited by sovereignty",
+    "Western in origin"
    ],
-   "a": 3,
+   "a": 0,
    "w": "It reaffirmed the unity of all rights."
   },
   {
    "q": "Amartya Sen's 1997 essay deals with…",
    "o": [
-    "Capabilities and Rights",
-    "Equality of What?",
     "Human Rights and Asian Values",
-    "Rights and Agency"
+    "Rights and Agency",
+    "Equality of What?",
+    "Capabilities and Rights"
    ],
-   "a": 2,
+   "a": 0,
    "w": "He argued Asia is diverse and has liberal traditions."
   },
   {
    "q": "Taylor's 'Politics of Recognition' (1992) argues that…",
    "o": [
     "Equal rights alone suffice",
-    "Misrecognition of identity can harm",
     "Culture is irrelevant",
-    "Group rights are unjust"
+    "Group rights are unjust",
+    "Misrecognition of identity can harm"
    ],
-   "a": 1,
+   "a": 3,
    "w": "Recognition of identity is a vital human need."
   },
   {
@@ -130,45 +130,45 @@
   {
    "q": "The distinction between external protections and internal restrictions is by…",
    "o": [
+    "Rawls",
     "Kymlicka",
-    "Barry",
     "Okin",
-    "Rawls"
+    "Barry"
    ],
-   "a": 0,
+   "a": 1,
    "w": "He accepts the first, not the second."
   },
   {
    "q": "Which author asked whether multiculturalism is bad for women?",
    "o": [
     "Iris Young",
+    "Susan Okin",
     "Nancy Fraser",
-    "Martha Nussbaum",
-    "Susan Okin"
+    "Martha Nussbaum"
    ],
-   "a": 3,
+   "a": 1,
    "w": "Susan Okin, 1999."
   },
   {
    "q": "The NHRC was set up under the…",
    "o": [
-    "Constitution Article 32",
     "Protection of Human Rights Act, 1993",
-    "73rd Amendment",
-    "RTI Act, 2005"
+    "Constitution Article 32",
+    "RTI Act, 2005",
+    "73rd Amendment"
    ],
-   "a": 1,
+   "a": 0,
    "w": "Created in October 1993."
   },
   {
    "q": "Article 30 of the Indian Constitution protects…",
    "o": [
-    "Minorities' right to establish and run educational institutions",
     "Right to property",
     "Freedom of speech",
-    "Right to constitutional remedies"
+    "Right to constitutional remedies",
+    "Minorities' right to establish and run educational institutions"
    ],
-   "a": 0,
+   "a": 3,
    "w": "Minorities based on religion or language."
   }
  ],

@@ -64,111 +64,111 @@
   {
    "q": "Inis Claude's account of collective security is summed up as:",
    "o": [
-    "One for all, none against one",
-    "All against one",
+    "Balance against hegemony",
     "Two against all",
-    "Balance against hegemony"
+    "One for all, none against one",
+    "All against one"
    ],
-   "a": 1,
+   "a": 3,
    "w": "Every member opposes any aggressor."
   },
   {
    "q": "Which UN Charter article preserves the right of individual and collective self-defence?",
    "o": [
-    "Article 51",
     "Article 2(4)",
     "Article 39",
+    "Article 51",
     "Article 43"
    ],
-   "a": 0,
+   "a": 2,
    "w": "Article 51; Article 43, on standing forces, was never implemented."
   },
   {
    "q": "Article 41 of the UN Charter authorises:",
    "o": [
     "Use of force",
-    "Peacekeeping",
     "Measures not involving force, such as sanctions",
+    "Peacekeeping",
     "Self-defence"
    ],
-   "a": 2,
+   "a": 1,
    "w": "Article 42 covers the use of force."
   },
   {
    "q": "The Uniting for Peace resolution was adopted in:",
    "o": [
+    "1962",
     "1950",
     "1945",
-    "1962",
     "1991"
    ],
-   "a": 0,
+   "a": 1,
    "w": "It allows the General Assembly to act when the Council is deadlocked, first used in the Korean War context."
   },
   {
    "q": "Why was the UN able to act in Korea in 1950?",
    "o": [
-    "The USSR was boycotting the Security Council",
-    "China voted yes",
+    "The Assembly overruled the veto",
     "All P5 supported it",
-    "The Assembly overruled the veto"
+    "The USSR was boycotting the Security Council",
+    "China voted yes"
    ],
-   "a": 0,
+   "a": 2,
    "w": "The Soviet Union was absent, so no veto was cast."
   },
   {
    "q": "UNGA Resolution 3314 (1974) deals with:",
    "o": [
-    "Peacekeeping",
     "Self-determination",
-    "Sanctions",
-    "Definition of aggression"
+    "Definition of aggression",
+    "Peacekeeping",
+    "Sanctions"
    ],
-   "a": 3,
+   "a": 1,
    "w": "It is not binding on the Security Council."
   },
   {
    "q": "Who wrote about 'epistemic communities' (1992)?",
    "o": [
-    "Ernst Haas",
-    "Karl Deutsch",
     "Peter Haas",
-    "John Burton"
+    "Karl Deutsch",
+    "John Burton",
+    "Ernst Haas"
    ],
-   "a": 2,
+   "a": 0,
    "w": "Peter Haas: networks of experts influencing policy."
   },
   {
    "q": "The 'cobweb' model of world society was proposed by:",
    "o": [
-    "Henry Kissinger",
     "John Burton",
+    "Kenneth Waltz",
     "Hedley Bull",
-    "Kenneth Waltz"
+    "Henry Kissinger"
    ],
-   "a": 1,
+   "a": 0,
    "w": "World Society (1972) saw a web of cross-border links."
   },
   {
    "q": "Susan Strange's The Retreat of the State (1996) argues that:",
    "o": [
-    "States are stronger than ever",
-    "NGOs control the UN",
     "Diasporas decide foreign policy",
-    "Markets and firms have taken power from states"
+    "States are stronger than ever",
+    "Markets and firms have taken power from states",
+    "NGOs control the UN"
    ],
-   "a": 3,
+   "a": 2,
    "w": "A key hyperglobalist-leaning text."
   },
   {
    "q": "The Ottawa Treaty (1997) banned:",
    "o": [
     "Nuclear tests",
+    "Cluster munitions",
     "Chemical weapons",
-    "Anti-personnel landmines",
-    "Cluster munitions"
+    "Anti-personnel landmines"
    ],
-   "a": 2,
+   "a": 3,
    "w": "A campaign led by NGOs (ICBL) won the Nobel Peace Prize in 1997."
   }
  ],

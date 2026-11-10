@@ -69,98 +69,98 @@
   {
    "q": "The Doctrine of Fascism (1932) was signed by Mussolini; the philosopher who wrote its first part was…",
    "o": [
-    "Pareto",
-    "Mosca",
+    "Gentile",
     "Nietzsche",
-    "Gentile"
+    "Pareto",
+    "Mosca"
    ],
-   "a": 3,
+   "a": 0,
    "w": "Giovanni Gentile."
   },
   {
    "q": "The Origins of Totalitarianism (1951) is by…",
    "o": [
     "Umberto Eco",
-    "Hannah Arendt",
     "Robert Paxton",
+    "Hannah Arendt",
     "Karl Popper"
    ],
-   "a": 1,
+   "a": 2,
    "w": "Arendt analysed Nazi and Stalinist totalitarianism."
   },
   {
    "q": "Fascist corporatism aimed to…",
    "o": [
     "Abolish the state",
+    "Nationalise all land",
     "Promote free trade unions",
-    "Merge classes into state-run bodies and end class struggle",
-    "Nationalise all land"
+    "Merge classes into state-run bodies and end class struggle"
    ],
-   "a": 2,
+   "a": 3,
    "w": "It replaced class conflict with state-controlled corporations."
   },
   {
    "q": "Hind Swaraj was published in…",
    "o": [
-    "1909",
-    "1920",
     "1930",
+    "1920",
+    "1909",
     "1946"
    ],
-   "a": 0,
+   "a": 2,
    "w": "Gandhi wrote it in 1909 on a ship from England to South Africa."
   },
   {
    "q": "Gandhi's Sarvodaya was inspired by Ruskin's…",
    "o": [
     "Small Is Beautiful",
+    "The Kingdom of God Is Within You",
     "Walden",
-    "Unto This Last",
-    "The Kingdom of God Is Within You"
+    "Unto This Last"
    ],
-   "a": 2,
+   "a": 3,
    "w": "Gandhi rendered it as Sarvodaya in Gujarati."
   },
   {
    "q": "Trusteeship means that…",
    "o": [
     "The state owns all wealth",
-    "Owners of wealth hold it as trustees for society",
     "Land is divided equally",
+    "Owners of wealth hold it as trustees for society",
     "Workers run factories"
    ],
-   "a": 1,
+   "a": 2,
    "w": "Wealth is held in trust for the community."
   },
   {
    "q": "'One is not born, but rather becomes, a woman' appears in…",
    "o": [
-    "The Second Sex",
     "The Feminine Mystique",
+    "Gender Trouble",
     "Sexual Politics",
-    "Gender Trouble"
+    "The Second Sex"
    ],
-   "a": 0,
+   "a": 3,
    "w": "Simone de Beauvoir, 1949."
   },
   {
    "q": "Intersectionality was coined by…",
    "o": [
-    "Judith Butler",
-    "Betty Friedan",
     "Kate Millett",
-    "Kimberle Crenshaw"
+    "Kimberle Crenshaw",
+    "Betty Friedan",
+    "Judith Butler"
    ],
-   "a": 3,
+   "a": 1,
    "w": "Crenshaw, 1989."
   },
   {
    "q": "Radical feminists such as Millett locate the root of oppression in…",
    "o": [
-    "Capitalism",
-    "Patriarchy",
     "Colonialism",
-    "Religion alone"
+    "Patriarchy",
+    "Religion alone",
+    "Capitalism"
    ],
    "a": 1,
    "w": "Sexual Politics (1970) treats patriarchy as the base system of power."
@@ -169,11 +169,11 @@
    "q": "Which Supreme Court ruling led to the guidelines against sexual harassment at the workplace in 1997?",
    "o": [
     "Shah Bano",
-    "Shayara Bano",
     "Vishaka v State of Rajasthan",
+    "Shayara Bano",
     "Joseph Shine"
    ],
-   "a": 2,
+   "a": 1,
    "w": "Vishaka (1997); the POSH Act followed in 2013."
   }
  ],

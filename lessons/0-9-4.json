@@ -26,7 +26,7 @@
   {
    "tag": "Core idea",
    "h": "Two steps: contract and trust",
-   "b": "<svg class=\"d\" viewBox=\"0 0 320 120\"><defs><marker id=\"la\" markerWidth=\"8\" markerHeight=\"8\" refX=\"7\" refY=\"4\" orient=\"auto\"><path d=\"M0,0L8,4L0,8z\" fill=\"#a8792a\"/></marker></defs><rect x=\"4\" y=\"36\" width=\"86\" height=\"48\" rx=\"10\" fill=\"#f1e4c6\" stroke=\"#a8792a\"/><text x=\"47\" y=\"58\" fill=\"#1d2433\" font-size=\"11\" text-anchor=\"middle\">Individuals</text><text x=\"47\" y=\"74\" fill=\"#5d6474\" font-size=\"9\" text-anchor=\"middle\">with rights</text><line x1=\"92\" y1=\"60\" x2=\"122\" y2=\"60\" stroke=\"#a8792a\" stroke-width=\"2\" marker-end=\"url(#la)\"/><rect x=\"124\" y=\"36\" width=\"86\" height=\"48\" rx=\"10\" fill=\"#dceaec\" stroke=\"#2f6f7a\"/><text x=\"167\" y=\"58\" fill=\"#1d2433\" font-size=\"11\" text-anchor=\"middle\">Civil society</text><text x=\"167\" y=\"74\" fill=\"#5d6474\" font-size=\"9\" text-anchor=\"middle\">by contract</text><line x1=\"212\" y1=\"60\" x2=\"230\" y2=\"60\" stroke=\"#a8792a\" stroke-width=\"2\" marker-end=\"url(#la)\"/><rect x=\"232\" y=\"36\" width=\"84\" height=\"48\" rx=\"10\" fill=\"#ffffff\" stroke=\"#5d6474\"/><text x=\"274\" y=\"58\" fill=\"#1d2433\" font-size=\"11\" text-anchor=\"middle\">Government</text><text x=\"274\" y=\"74\" fill=\"#5d6474\" font-size=\"9\" text-anchor=\"middle\">as a trust</text><text x=\"160\" y=\"112\" fill=\"#5d6474\" font-size=\"10\" text-anchor=\"middle\">Breach of trust → power returns to the people</text></svg><p>First, people agree to form a community and accept <b>majority rule</b>. Then the community sets up a government as a <b>trustee</b>. Unlike Hobbes's sovereign, Locke's government is bound by the terms of that trust.</p>"
+   "b": "<svg class=\"d\" viewBox=\"0 0 320 120\"><defs><marker id=\"la\" markerWidth=\"8\" markerHeight=\"8\" refX=\"7\" refY=\"4\" orient=\"auto\"><path d=\"M0,0L8,4L0,8z\" fill=\"#a8792a\"/></marker></defs><rect x=\"4\" y=\"36\" width=\"86\" height=\"48\" rx=\"10\" fill=\"#f1e4c6\" stroke=\"#a8792a\"/><text x=\"47\" y=\"58\" fill=\"#1d2433\" font-size=\"11\" text-anchor=\"middle\">Individuals</text><text x=\"47\" y=\"74\" fill=\"#5d6474\" font-size=\"10\" text-anchor=\"middle\">with rights</text><line x1=\"92\" y1=\"60\" x2=\"122\" y2=\"60\" stroke=\"#a8792a\" stroke-width=\"2\" marker-end=\"url(#la)\"/><rect x=\"124\" y=\"36\" width=\"86\" height=\"48\" rx=\"10\" fill=\"#dceaec\" stroke=\"#2f6f7a\"/><text x=\"167\" y=\"58\" fill=\"#1d2433\" font-size=\"11\" text-anchor=\"middle\">Civil society</text><text x=\"167\" y=\"74\" fill=\"#5d6474\" font-size=\"10\" text-anchor=\"middle\">by contract</text><line x1=\"212\" y1=\"60\" x2=\"230\" y2=\"60\" stroke=\"#a8792a\" stroke-width=\"2\" marker-end=\"url(#la)\"/><rect x=\"232\" y=\"36\" width=\"84\" height=\"48\" rx=\"10\" fill=\"#ffffff\" stroke=\"#5d6474\"/><text x=\"274\" y=\"58\" fill=\"#1d2433\" font-size=\"11\" text-anchor=\"middle\">Government</text><text x=\"274\" y=\"74\" fill=\"#5d6474\" font-size=\"10\" text-anchor=\"middle\">as a trust</text><text x=\"160\" y=\"112\" fill=\"#5d6474\" font-size=\"10\" text-anchor=\"middle\">Breach of trust → power returns to the people</text></svg><p>First, people agree to form a community and accept <b>majority rule</b>. Then the community sets up a government as a <b>trustee</b>. Unlike Hobbes's sovereign, Locke's government is bound by the terms of that trust.</p>"
   },
   {
    "tag": "Key idea",
@@ -64,10 +64,10 @@
   {
    "q": "Locke's First Treatise attacked the ideas of…",
    "o": [
-    "Thomas Hobbes",
+    "Jean Bodin",
     "Robert Filmer",
-    "James II",
-    "Jean Bodin"
+    "Thomas Hobbes",
+    "James II"
    ],
    "a": 1,
    "w": "It attacked Filmer's Patriarcha and the divine right of kings."
@@ -75,100 +75,100 @@
   {
    "q": "Which is NOT one of the inconveniences of Locke's state of nature?",
    "o": [
-    "No settled law",
     "No impartial judge",
-    "No power to enforce",
-    "No natural rights"
+    "No natural rights",
+    "No settled law",
+    "No power to enforce"
    ],
-   "a": 3,
+   "a": 1,
    "w": "Natural rights exist in Locke's state of nature. What is missing is law, judge and enforcement."
   },
   {
    "q": "The power Locke calls 'federative' deals with…",
    "o": [
     "Making laws",
+    "Punishing crime",
     "Federal relations between provinces",
-    "War, peace and foreign affairs",
-    "Punishing crime"
+    "War, peace and foreign affairs"
    ],
-   "a": 2,
+   "a": 3,
    "w": "The federative power manages relations with other communities."
   },
   {
    "q": "Locke's limits on property include…",
    "o": [
+    "State ownership of land",
     "No use of money",
-    "Leave enough and as good for others",
     "Equal shares for all",
-    "State ownership of land"
+    "Leave enough and as good for others"
    ],
-   "a": 1,
+   "a": 3,
    "w": "Enough and as good for others, and no spoilage."
   },
   {
    "q": "In India, the right to property is now in…",
    "o": [
     "Article 19(1)(f)",
+    "Article 21",
     "Article 31",
-    "Article 300A",
-    "Article 21"
+    "Article 300A"
    ],
-   "a": 2,
+   "a": 3,
    "w": "The 44th Amendment (1978) moved it to Article 300A as a constitutional right."
   },
   {
    "q": "For Locke, the government holds power as a…",
    "o": [
-    "Sovereign owner",
-    "Trust",
+    "Conquest",
     "Divine gift",
-    "Conquest"
+    "Sovereign owner",
+    "Trust"
    ],
-   "a": 1,
+   "a": 3,
    "w": "Government is a trustee; breach of trust returns power to the people."
   },
   {
    "q": "Locke's 'prerogative' is the executive's power to…",
    "o": [
-    "Make all laws",
     "Act for the public good without law",
-    "Declare war only",
-    "Tax without consent"
+    "Tax without consent",
+    "Make all laws",
+    "Declare war only"
    ],
-   "a": 1,
+   "a": 0,
    "w": "It covers cases laws cannot foresee."
   },
   {
    "q": "Which groups did Locke exclude from toleration?",
    "o": [
-    "Jews and Muslims",
-    "Atheists and Catholics",
+    "Anglicans",
     "Quakers and Baptists",
-    "Anglicans"
+    "Atheists and Catholics",
+    "Jews and Muslims"
    ],
-   "a": 1,
+   "a": 2,
    "w": "Atheists, and Catholics seen as loyal to a foreign power."
   },
   {
    "q": "Locke's 'tacit consent' can be given by…",
    "o": [
     "Voting in an election",
-    "Using the roads or owning land",
     "Signing a written oath",
+    "Using the roads or owning land",
     "Joining the army"
    ],
-   "a": 1,
+   "a": 2,
    "w": "Enjoying the benefits of a government implies consent."
   },
   {
    "q": "Who wrote The Sexual Contract (1988), criticising contract theory?",
    "o": [
-    "Susan Okin",
-    "Carole Pateman",
+    "bell hooks",
     "Kate Millett",
-    "bell hooks"
+    "Susan Okin",
+    "Carole Pateman"
    ],
-   "a": 1,
+   "a": 3,
    "w": "Carole Pateman."
   }
  ],

@@ -77,8 +77,8 @@
    "o": [
     "Kant",
     "Aristotle's virtues",
-    "Utilitarianism",
-    "Social contract"
+    "Social contract",
+    "Utilitarianism"
    ],
    "a": 1,
    "w": "MacIntyre revives Aristotelian virtue ethics."
@@ -87,88 +87,88 @@
    "q": "Walzer's 'complex equality' means…",
    "o": [
     "Equal income for all",
-    "No single good should dominate other spheres",
     "Equality before the law only",
+    "No single good should dominate other spheres",
     "Equal votes"
    ],
-   "a": 1,
+   "a": 2,
    "w": "Spheres of Justice (1983)."
   },
   {
    "q": "Charles Taylor's essay attacking liberal individualism is called…",
    "o": [
-    "Atomism",
-    "Two Concepts of Liberty",
+    "Spheres of Justice",
     "The Politics of Difference",
-    "Spheres of Justice"
+    "Atomism",
+    "Two Concepts of Liberty"
    ],
-   "a": 0,
+   "a": 2,
    "w": "'Atomism' (1979)."
   },
   {
    "q": "For liberals like Rawls, which is prior?",
    "o": [
     "The good over the right",
-    "The right over the good",
+    "Tradition over reason",
     "Community over individual",
-    "Tradition over reason"
+    "The right over the good"
    ],
-   "a": 1,
+   "a": 3,
    "w": "The right is prior to the good."
   },
   {
    "q": "Kymlicka defends minority rights by saying culture provides…",
    "o": [
-    "A source of identity only",
     "A context of choice",
+    "A religious duty",
     "A rival to the state",
-    "A religious duty"
+    "A source of identity only"
    ],
-   "a": 1,
+   "a": 0,
    "w": "Culture is a context for meaningful choice."
   },
   {
    "q": "'Is Multiculturalism Bad for Women?' was written by…",
    "o": [
-    "Carole Pateman",
     "Susan Moller Okin",
-    "Iris Marion Young",
-    "Martha Nussbaum"
+    "Carole Pateman",
+    "Martha Nussbaum",
+    "Iris Marion Young"
    ],
-   "a": 1,
+   "a": 0,
    "w": "Okin, 1997/1999."
   },
   {
    "q": "Amitai Etzioni is linked with…",
    "o": [
-    "Libertarianism",
     "Responsive communitarianism",
     "Deliberative democracy",
+    "Libertarianism",
     "Neorealism"
    ],
-   "a": 1,
+   "a": 0,
    "w": "The Spirit of Community (1993)."
   },
   {
    "q": "Which Articles give communities rights over culture and educational institutions?",
    "o": [
     "14–16",
+    "29–30",
     "19–22",
-    "25–28",
-    "29–30"
+    "25–28"
    ],
-   "a": 3,
+   "a": 1,
    "w": "Articles 29 and 30."
   },
   {
    "q": "'Principled distance' describes Indian secularism according to…",
    "o": [
-    "Rajeev Bhargava",
-    "Ashis Nandy",
+    "Partha Chatterjee",
     "T.N. Madan",
-    "Partha Chatterjee"
+    "Rajeev Bhargava",
+    "Ashis Nandy"
    ],
-   "a": 0,
+   "a": 2,
    "w": "Rajeev Bhargava."
   }
  ],

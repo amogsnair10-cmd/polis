@@ -69,43 +69,43 @@
   {
    "q": "A Theory of Justice was published in…",
    "o": [
+    "1974",
     "1958",
     "1971",
-    "1974",
     "1993"
    ],
-   "a": 1,
+   "a": 2,
    "w": "1971."
   },
   {
    "q": "Rawls's main target was…",
    "o": [
+    "Libertarianism",
     "Marxism",
     "Utilitarianism",
-    "Libertarianism",
     "Communitarianism"
    ],
-   "a": 1,
+   "a": 2,
    "w": "Utilitarianism ignores the distinction between persons."
   },
   {
    "q": "Behind the veil of ignorance, people do NOT know…",
    "o": [
-    "General facts of economics",
     "Their own class, talents or values",
-    "That society needs rules",
-    "Basic psychology"
+    "Basic psychology",
+    "General facts of economics",
+    "That society needs rules"
    ],
-   "a": 1,
+   "a": 0,
    "w": "They know general facts but not their own position."
   },
   {
    "q": "The maximin rule says choose the option whose…",
    "o": [
-    "Best outcome is best",
+    "Risk is highest",
     "Average outcome is highest",
     "Worst outcome is best",
-    "Risk is highest"
+    "Best outcome is best"
    ],
    "a": 2,
    "w": "Maximise the minimum."
@@ -113,21 +113,21 @@
   {
    "q": "The difference principle allows inequalities only if they…",
    "o": [
-    "Reward hard work",
-    "Benefit the least advantaged",
+    "Increase total GDP",
     "Are approved by the majority",
-    "Increase total GDP"
+    "Reward hard work",
+    "Benefit the least advantaged"
    ],
-   "a": 1,
+   "a": 3,
    "w": "Inequality must help the worst-off."
   },
   {
    "q": "In Rawls's lexical order, what comes first?",
    "o": [
-    "Difference principle",
+    "Total welfare",
     "Fair equality of opportunity",
     "Equal basic liberties",
-    "Total welfare"
+    "Difference principle"
    ],
    "a": 2,
    "w": "The first principle of equal liberty has priority."
@@ -135,43 +135,43 @@
   {
    "q": "Rawls calls which primary good perhaps the most important?",
    "o": [
-    "Income",
-    "Wealth",
     "The social bases of self-respect",
-    "Freedom of movement"
+    "Wealth",
+    "Freedom of movement",
+    "Income"
    ],
-   "a": 2,
+   "a": 0,
    "w": "Self-respect, in A Theory of Justice §67."
   },
   {
    "q": "The 'overlapping consensus' appears in…",
    "o": [
-    "A Theory of Justice",
     "Political Liberalism",
-    "The Law of Peoples",
-    "Anarchy, State, and Utopia"
+    "Anarchy, State, and Utopia",
+    "A Theory of Justice",
+    "The Law of Peoples"
    ],
-   "a": 1,
+   "a": 0,
    "w": "Political Liberalism (1993)."
   },
   {
    "q": "Who called Rawls's approach 'transcendental institutionalism'?",
    "o": [
     "Sandel",
-    "Nozick",
     "Amartya Sen",
-    "Okin"
+    "Okin",
+    "Nozick"
    ],
-   "a": 2,
+   "a": 1,
    "w": "Sen, The Idea of Justice (2009)."
   },
   {
    "q": "Which case read reservation as part of equality, not an exception?",
    "o": [
-    "Champakam Dorairajan",
+    "Golaknath",
     "N.M. Thomas",
-    "Balaji",
-    "Golaknath"
+    "Champakam Dorairajan",
+    "Balaji"
    ],
    "a": 1,
    "w": "State of Kerala v. N.M. Thomas (1975)."

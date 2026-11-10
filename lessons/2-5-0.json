@@ -65,9 +65,9 @@
    "q": "The Idea of National Interest (1934) was written by:",
    "o": [
     "Charles Beard",
-    "Hans Morgenthau",
+    "Joseph Frankel",
     "Arnold Wolfers",
-    "Joseph Frankel"
+    "Hans Morgenthau"
    ],
    "a": 0,
    "w": "Charles Beard studied the use of the idea in US history."
@@ -75,64 +75,64 @@
   {
    "q": "Arnold Wolfers described 'national security' as:",
    "o": [
-    "A scientific term",
-    "An ambiguous symbol",
     "A legal right",
-    "A fixed law"
+    "A fixed law",
+    "A scientific term",
+    "An ambiguous symbol"
    ],
-   "a": 1,
+   "a": 3,
    "w": "His 1952 essay argued that the phrase means different things to different people."
   },
   {
    "q": "Nuechterlein's four basic national interests include all EXCEPT:",
    "o": [
-    "Cultural uniformity",
     "Defence",
+    "Cultural uniformity",
     "Economic well-being",
     "Favourable world order"
    ],
-   "a": 0,
+   "a": 1,
    "w": "The four are defence, economic well-being, world order and promotion of values."
   },
   {
    "q": "Steven Lukes's Power: A Radical View (1974) described power's:",
    "o": [
     "One face",
-    "Three faces",
+    "Four faces",
     "Two faces",
-    "Four faces"
+    "Three faces"
    ],
-   "a": 1,
+   "a": 3,
    "w": "Decision-making, agenda-setting and preference-shaping."
   },
   {
    "q": "Susan Strange's structural power rests on:",
    "o": [
-    "Land, labour, capital, enterprise",
-    "Army, navy, air force, nuclear",
+    "Culture, values, policies, diplomacy",
     "Security, production, finance, knowledge",
-    "Culture, values, policies, diplomacy"
+    "Land, labour, capital, enterprise",
+    "Army, navy, air force, nuclear"
    ],
-   "a": 2,
+   "a": 1,
    "w": "States and Markets (1988)."
   },
   {
    "q": "Soft power was coined by:",
    "o": [
     "Henry Kissinger",
-    "Joseph Nye",
     "Robert Keohane",
+    "Joseph Nye",
     "Zbigniew Brzezinski"
    ],
-   "a": 1,
+   "a": 2,
    "w": "Nye introduced it in Bound to Lead (1990)."
   },
   {
    "q": "Sharp power refers to:",
    "o": [
     "Authoritarian influence using manipulation and censorship",
-    "Soft power used by democracies",
     "Military power with nuclear weapons",
+    "Soft power used by democracies",
     "Economic aid"
    ],
    "a": 0,
@@ -141,9 +141,9 @@
   {
    "q": "In Kautilya's saptanga theory, 'kosha' is the:",
    "o": [
-    "Fort",
-    "Army",
     "Ally",
+    "Army",
+    "Fort",
     "Treasury"
    ],
    "a": 3,
@@ -152,8 +152,8 @@
   {
    "q": "Morgenthau considered which element the most important?",
    "o": [
-    "Geography",
     "Population",
+    "Geography",
     "Quality of diplomacy",
     "Industrial capacity"
    ],
@@ -163,8 +163,8 @@
   {
    "q": "Which book argues that agencies see different interests, challenging the 'rational state' view?",
    "o": [
-    "The Twenty Years' Crisis (1939)",
     "Bound to Lead (1990)",
+    "The Twenty Years' Crisis (1939)",
     "After Hegemony (1984)",
     "Essence of Decision (1971)"
    ],

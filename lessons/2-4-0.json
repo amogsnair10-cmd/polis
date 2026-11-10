@@ -69,111 +69,111 @@
   {
    "q": "Who gave the Fourteen Points speech in January 1918?",
    "o": [
-    "Woodrow Wilson",
-    "Georges Clemenceau",
     "David Lloyd George",
-    "Franklin Roosevelt"
+    "Franklin Roosevelt",
+    "Georges Clemenceau",
+    "Woodrow Wilson"
    ],
-   "a": 0,
+   "a": 3,
    "w": "Wilson announced them on 8 January 1918."
   },
   {
    "q": "Which work by Immanuel Kant is the foundation of the democratic peace idea?",
    "o": [
-    "Critique of Pure Reason",
-    "The Metaphysics of Morals",
     "Groundwork of the Metaphysics of Morals",
-    "Perpetual Peace (1795)"
+    "Perpetual Peace (1795)",
+    "Critique of Pure Reason",
+    "The Metaphysics of Morals"
    ],
-   "a": 3,
+   "a": 1,
    "w": "Perpetual Peace (1795) set out the republican constitution and federation of free states."
   },
   {
    "q": "The League of Nations' sanctions against an aggressor were provided in:",
    "o": [
-    "Article 10",
     "Article 16",
     "Article 22",
-    "Article 51"
+    "Article 51",
+    "Article 10"
    ],
-   "a": 1,
+   "a": 0,
    "w": "Article 16 of the Covenant provided sanctions; Article 10 guarded territorial integrity."
   },
   {
    "q": "Which event was the League's test in 1935?",
    "o": [
-    "Japan's seizure of Manchuria",
-    "German remilitarisation of the Rhineland",
     "Italy's invasion of Abyssinia",
-    "The Munich Agreement"
+    "The Munich Agreement",
+    "German remilitarisation of the Rhineland",
+    "Japan's seizure of Manchuria"
    ],
-   "a": 2,
+   "a": 0,
    "w": "Italy invaded Abyssinia (Ethiopia) in 1935. Manchuria was 1931."
   },
   {
    "q": "E.H. Carr's The Twenty Years' Crisis (1939) argued that the idealists:",
    "o": [
-    "Mistook wishes for facts and hid power interests behind a 'harmony of interests'",
-    "Ignored the role of morality entirely",
     "Wanted a world government",
-    "Rejected the nation-state"
+    "Mistook wishes for facts and hid power interests behind a 'harmony of interests'",
+    "Rejected the nation-state",
+    "Ignored the role of morality entirely"
    ],
-   "a": 0,
+   "a": 1,
    "w": "Carr called them utopians and said the harmony of interests served satisfied powers."
   },
   {
    "q": "Complex interdependence (1977) was developed by:",
    "o": [
-    "Waltz and Morgenthau",
     "Wendt and Katzenstein",
-    "Keohane and Nye",
-    "Haas and Mitrany"
+    "Haas and Mitrany",
+    "Waltz and Morgenthau",
+    "Keohane and Nye"
    ],
-   "a": 2,
+   "a": 3,
    "w": "Robert Keohane and Joseph Nye wrote Power and Interdependence (1977)."
   },
   {
    "q": "Keohane's After Hegemony (1984) argues that:",
    "o": [
     "Cooperation ends when a hegemon declines",
-    "Regimes sustain cooperation even after hegemony declines",
     "Anarchy does not exist",
-    "States should merge"
+    "States should merge",
+    "Regimes sustain cooperation even after hegemony declines"
    ],
-   "a": 1,
+   "a": 3,
    "w": "Regimes cut costs and share information, so cooperation can outlive hegemony."
   },
   {
    "q": "In the 'neo-neo' debate, Joseph Grieco stressed:",
    "o": [
+    "Relative gains",
     "Absolute gains",
     "Norm entrepreneurs",
-    "Spillover",
-    "Relative gains"
+    "Spillover"
    ],
-   "a": 3,
+   "a": 0,
    "w": "Grieco (1988): states worry about who gains more, which limits cooperation."
   },
   {
    "q": "Which statement about the democratic peace is a critique?",
    "o": [
-    "Democratic states rarely fight each other",
     "Democratising states can be war-prone (Mansfield and Snyder)",
+    "Democratic states rarely fight each other",
     "Trade creates peace",
     "Institutions reduce transaction costs"
    ],
-   "a": 1,
+   "a": 0,
    "w": "Mansfield and Snyder (1995) found transitional democracies prone to war."
   },
   {
    "q": "India's G20 presidency in 2023 ended with:",
    "o": [
-    "No joint declaration",
-    "A walk-out by the US",
+    "Admission of Russia as host",
     "The New Delhi Declaration adopted by consensus and the AU made a permanent member",
-    "Admission of Russia as host"
+    "No joint declaration",
+    "A walk-out by the US"
    ],
-   "a": 2,
+   "a": 1,
    "w": "The Delhi summit of 9-10 September 2023 adopted a consensus declaration and admitted the African Union."
   }
  ],

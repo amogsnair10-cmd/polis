@@ -59,32 +59,32 @@
   {
    "q": "Which Article directs the State to promote international peace and security?",
    "o": [
-    "Article 51",
     "Article 253",
     "Article 73",
-    "Article 246"
+    "Article 246",
+    "Article 51"
    ],
-   "a": 0,
+   "a": 3,
    "w": "Article 51 in the Directive Principles."
   },
   {
    "q": "Parliament's power to make laws to implement international treaties comes from:",
    "o": [
-    "Article 253",
-    "Article 51",
     "Article 356",
-    "Article 368"
+    "Article 51",
+    "Article 368",
+    "Article 253"
    ],
-   "a": 0,
+   "a": 3,
    "w": "Article 253 allows legislation even on State subjects."
   },
   {
    "q": "In re Berubari Union (1960) held that:",
    "o": [
-    "Territory can be ceded under Article 3",
+    "The President cannot sign treaties",
     "Cession of territory needs a constitutional amendment",
-    "Treaties need parliamentary approval",
-    "The President cannot sign treaties"
+    "Territory can be ceded under Article 3",
+    "Treaties need parliamentary approval"
    ],
    "a": 1,
    "w": "Article 3 cannot be used to cede territory; Article 368 is needed."
@@ -92,10 +92,10 @@
   {
    "q": "Which amendment gave effect to the Land Boundary Agreement with Bangladesh in 2015?",
    "o": [
-    "99th",
-    "100th",
     "101st",
-    "102nd"
+    "100th",
+    "102nd",
+    "99th"
    ],
    "a": 1,
    "w": "The Constitution (100th Amendment) Act, 2015."
@@ -103,21 +103,21 @@
   {
    "q": "The National Security Council Secretariat was set up in:",
    "o": [
+    "2008",
     "1968",
     "1985",
-    "1998",
-    "2008"
+    "1998"
    ],
-   "a": 2,
+   "a": 3,
    "w": "In 1998 after Pokhran-II, under Vajpayee."
   },
   {
    "q": "Who wrote 'India and the Indian Ocean' (1945)?",
    "o": [
     "K.M. Panikkar",
+    "K. Subrahmanyam",
     "Jawaharlal Nehru",
-    "A. Appadorai",
-    "K. Subrahmanyam"
+    "A. Appadorai"
    ],
    "a": 0,
    "w": "K.M. Panikkar."
@@ -125,20 +125,20 @@
   {
    "q": "The Indian Foreign Service was created in:",
    "o": [
-    "1946",
-    "1950",
     "1962",
-    "1971"
+    "1971",
+    "1946",
+    "1950"
    ],
-   "a": 0,
+   "a": 2,
    "w": "1946, before independence."
   },
   {
    "q": "Kautilya's mandala theory holds that a neighbouring state is likely to be:",
    "o": [
     "An enemy",
-    "An ally",
     "Neutral",
+    "An ally",
     "A vassal"
    ],
    "a": 0,
@@ -147,23 +147,23 @@
   {
    "q": "Which of these is NOT a school identified by Kanti Bajpai?",
    "o": [
-    "Nehruvian",
-    "Neo-liberal",
     "Hyper-realist",
-    "Marxist-Leninist"
+    "Marxist-Leninist",
+    "Neo-liberal",
+    "Nehruvian"
    ],
-   "a": 3,
+   "a": 1,
    "w": "The three are Nehruvian, neo-liberal and hyper-realist."
   },
   {
    "q": "Who wrote 'The Domestic Roots of India's Foreign Policy' (1981)?",
    "o": [
-    "A. Appadorai",
     "Sumit Ganguly",
-    "Rajiv Sikri",
-    "C. Raja Mohan"
+    "A. Appadorai",
+    "C. Raja Mohan",
+    "Rajiv Sikri"
    ],
-   "a": 0,
+   "a": 1,
    "w": "A. Appadorai."
   }
  ],

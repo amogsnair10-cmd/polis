@@ -59,10 +59,10 @@
   {
    "q": "The NHRC was created under…",
    "o": [
-    "The Constitution",
+    "The Paris Agreement",
     "The Protection of Human Rights Act, 1993",
     "The NCW Act, 1990",
-    "The Paris Agreement"
+    "The Constitution"
    ],
    "a": 1,
    "w": "PHRA, 1993."
@@ -70,20 +70,20 @@
   {
    "q": "Which amendment split the SC/ST commission into two?",
    "o": [
-    "65th",
     "89th",
-    "102nd",
-    "105th"
+    "105th",
+    "65th",
+    "102nd"
    ],
-   "a": 1,
+   "a": 0,
    "w": "89th Amendment, 2003."
   },
   {
    "q": "The NCBC became constitutional under the…",
    "o": [
-    "93rd Amendment",
-    "102nd Amendment",
     "103rd Amendment",
+    "102nd Amendment",
+    "93rd Amendment",
     "105th Amendment"
    ],
    "a": 1,
@@ -92,10 +92,10 @@
   {
    "q": "The 105th Amendment (2021)…",
    "o": [
-    "Created the NCW",
+    "Abolished the NCM",
     "Restored states' power to identify OBCs",
-    "Created the NHRC",
-    "Abolished the NCM"
+    "Created the NCW",
+    "Created the NHRC"
    ],
    "a": 1,
    "w": "After the Maratha judgment."
@@ -103,23 +103,23 @@
   {
    "q": "The UN standards for national human rights institutions are the…",
    "o": [
-    "Geneva Conventions",
     "Paris Principles",
     "Vienna Declaration",
-    "Rome Statute"
+    "Rome Statute",
+    "Geneva Conventions"
    ],
-   "a": 1,
+   "a": 0,
    "w": "Paris Principles, 1993."
   },
   {
    "q": "Which community was added to the notified minorities in 2014?",
    "o": [
+    "Sikhs",
     "Parsis",
     "Jains",
-    "Buddhists",
-    "Sikhs"
+    "Buddhists"
    ],
-   "a": 1,
+   "a": 2,
    "w": "Jains."
   },
   {
@@ -136,10 +136,10 @@
   {
    "q": "The NHRC cannot take up complaints older than…",
    "o": [
-    "Six months",
+    "Five years",
     "One year",
-    "Two years",
-    "Five years"
+    "Six months",
+    "Two years"
    ],
    "a": 1,
    "w": "One year."
@@ -147,23 +147,23 @@
   {
    "q": "NCST is under Article…",
    "o": [
-    "338",
     "338A",
-    "338B",
-    "340"
+    "338",
+    "340",
+    "338B"
    ],
-   "a": 1,
+   "a": 0,
    "w": "338A."
   },
   {
    "q": "Which commission studied sub-categorisation of central OBC lists?",
    "o": [
+    "Kalelkar",
     "Mandal",
     "Rohini",
-    "Sachar",
-    "Kalelkar"
+    "Sachar"
    ],
-   "a": 1,
+   "a": 2,
    "w": "Rohini Commission (2017-2023)."
   }
  ],

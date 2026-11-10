@@ -60,97 +60,97 @@
    "q": "Which approach focuses on constitutions and formal structures?",
    "o": [
     "Behavioural",
-    "Institutional",
+    "Systems",
     "Marxist",
-    "Systems"
+    "Institutional"
    ],
-   "a": 1,
+   "a": 3,
    "w": "The institutional approach studies formal structures of government."
   },
   {
    "q": "Who wrote Modern Democracies?",
    "o": [
-    "James Bryce",
-    "A.V. Dicey",
+    "David Easton",
     "Harold Laski",
-    "David Easton"
+    "James Bryce",
+    "A.V. Dicey"
    ],
-   "a": 0,
+   "a": 2,
    "w": "James Bryce wrote Modern Democracies (1921)."
   },
   {
    "q": "John Austin defined law as…",
    "o": [
-    "Customary practice",
     "The command of the sovereign",
     "Divine will",
-    "General will"
+    "General will",
+    "Customary practice"
    ],
-   "a": 1,
+   "a": 0,
    "w": "Austin's analytical jurisprudence defined law as the command of the sovereign."
   },
   {
    "q": "A key weakness of the institutional approach is that it…",
    "o": [
     "Uses too much data",
-    "Ignores informal politics",
     "Is too predictive",
-    "Rejects the state"
+    "Rejects the state",
+    "Ignores informal politics"
    ],
-   "a": 1,
+   "a": 3,
    "w": "It ignores informal forces like caste, pressure groups and personalities."
   },
   {
    "q": "New institutionalism is linked to…",
    "o": [
-    "Marx and Engels",
     "March and Olsen",
+    "Dahl and Lindblom",
     "Plato and Aristotle",
-    "Dahl and Lindblom"
+    "Marx and Engels"
    ],
-   "a": 1,
+   "a": 0,
    "w": "James March and Johan Olsen (1984) brought institutions back in."
   },
   {
    "q": "Human Nature in Politics (1908) was written by…",
    "o": [
-    "Graham Wallas",
-    "James Bryce",
+    "Charles Merriam",
     "Harold Laski",
-    "Charles Merriam"
+    "James Bryce",
+    "Graham Wallas"
    ],
-   "a": 0,
+   "a": 3,
    "w": "Wallas stressed instinct and emotion in politics."
   },
   {
    "q": "The Spirit of the Laws (1748) is by…",
    "o": [
-    "Rousseau",
     "Montesquieu",
     "Bodin",
-    "Tocqueville"
+    "Tocqueville",
+    "Rousseau"
    ],
-   "a": 1,
+   "a": 0,
    "w": "Montesquieu."
   },
   {
    "q": "A.V. Dicey is known for his work on…",
    "o": [
-    "Sovereignty of the people",
     "Rule of law",
     "Pluralism",
-    "Natural rights"
+    "Natural rights",
+    "Sovereignty of the people"
    ],
-   "a": 1,
+   "a": 0,
    "w": "Dicey's classic account of the rule of law."
   },
   {
    "q": "Traditional approaches are mainly…",
    "o": [
-    "Value-free and quantitative",
+    "Post-modern",
     "Value-laden and state-centric",
-    "Behavioural",
-    "Post-modern"
+    "Value-free and quantitative",
+    "Behavioural"
    ],
    "a": 1,
    "w": "They openly judge and focus on the state."

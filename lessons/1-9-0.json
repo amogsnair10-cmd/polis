@@ -59,98 +59,98 @@
   {
    "q": "The 'Congress system' phrase is associated with…",
    "o": [
-    "Rajni Kothari",
-    "Paul Brass",
+    "Granville Austin",
     "Yogendra Yadav",
-    "Granville Austin"
+    "Paul Brass",
+    "Rajni Kothari"
    ],
-   "a": 0,
+   "a": 3,
    "w": "Kothari, 1964 article in Asian Survey."
   },
   {
    "q": "Duverger's law links first-past-the-post to…",
    "o": [
     "Multi-party systems",
-    "Two-party systems",
     "One-party states",
+    "Two-party systems",
     "Proportional lists"
    ],
-   "a": 1,
+   "a": 2,
    "w": "Plurality rule tends to produce two parties."
   },
   {
    "q": "Who argued Duverger's effect works at the constituency level in India?",
    "o": [
-    "Chhibber and Kollman",
-    "Michels",
     "Kothari",
-    "Weiner"
+    "Weiner",
+    "Chhibber and Kollman",
+    "Michels"
    ],
-   "a": 0,
+   "a": 2,
    "w": "The Formation of National Party Systems (2004)."
   },
   {
    "q": "The Election Commission recognises parties under which order?",
    "o": [
-    "Representation of the People Order, 1951",
     "Election Symbols (Reservation and Allotment) Order, 1968",
     "Tenth Schedule order",
-    "Conduct of Elections Rules, 1961"
+    "Conduct of Elections Rules, 1961",
+    "Representation of the People Order, 1951"
    ],
-   "a": 1,
+   "a": 0,
    "w": "The 1968 Symbols Order."
   },
   {
    "q": "In April 2023 the ECI gave national status to…",
    "o": [
-    "TMC",
-    "NCP",
     "AAP",
-    "CPI"
+    "CPI",
+    "TMC",
+    "NCP"
    ],
-   "a": 2,
+   "a": 0,
    "w": "AAP gained national status; TMC, NCP and CPI lost it."
   },
   {
    "q": "Which party was founded in 1982 by N.T. Rama Rao?",
    "o": [
-    "DMK",
-    "TDP",
     "AGP",
-    "BJD"
+    "BJD",
+    "TDP",
+    "DMK"
    ],
-   "a": 1,
+   "a": 2,
    "w": "Telugu Desam."
   },
   {
    "q": "The BJP won how many Lok Sabha seats in 2024?",
    "o": [
-    "272",
-    "282",
     "303",
-    "240"
+    "272",
+    "240",
+    "282"
    ],
-   "a": 3,
+   "a": 2,
    "w": "240; the NDA total was 293."
   },
   {
    "q": "Palshikar described the post-2014 order as…",
    "o": [
-    "Second dominant party system",
     "Pure two-party system",
     "Coalition permanence",
+    "Second dominant party system",
     "Presidential system"
    ],
-   "a": 0,
+   "a": 2,
    "w": "A new, different form of dominance."
   },
   {
    "q": "Kanchan Chandra's Democratic Dynasties (2016) is about…",
    "o": [
     "Dynastic parties",
-    "Caste census",
+    "Pressure groups",
     "Election funding",
-    "Pressure groups"
+    "Caste census"
    ],
    "a": 0,
    "w": "Family succession in parties."
@@ -160,8 +160,8 @@
    "o": [
     "Two states",
     "Three states",
-    "Four states",
-    "Five states"
+    "Five states",
+    "Four states"
    ],
    "a": 1,
    "w": "11 seats from three states."

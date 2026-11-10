@@ -64,43 +64,43 @@
   {
    "q": "The harm principle appears in…",
    "o": [
-    "Two Treatises of Government",
     "On Liberty",
-    "The Wealth of Nations",
-    "Leviathan"
+    "Leviathan",
+    "Two Treatises of Government",
+    "The Wealth of Nations"
    ],
-   "a": 1,
+   "a": 0,
    "w": "J.S. Mill, On Liberty (1859)."
   },
   {
    "q": "Who gave the terms negative and positive liberty their standard form?",
    "o": [
-    "T.H. Green",
     "Hayek",
-    "Isaiah Berlin",
-    "Rawls"
+    "T.H. Green",
+    "Rawls",
+    "Isaiah Berlin"
    ],
-   "a": 2,
+   "a": 3,
    "w": "Berlin, 'Two Concepts of Liberty' (1958)."
   },
   {
    "q": "The shift to modern liberalism is associated with…",
    "o": [
-    "Friedman",
-    "Nozick",
     "Thatcher",
-    "T.H. Green"
+    "Nozick",
+    "T.H. Green",
+    "Friedman"
    ],
-   "a": 3,
+   "a": 2,
    "w": "Green argued the state should remove obstacles to real freedom."
   },
   {
    "q": "The Road to Serfdom (1944) argues that…",
    "o": [
-    "Welfare ends poverty",
-    "Planning leads toward tyranny",
     "Capitalism will collapse",
-    "Liberty needs a strong party"
+    "Planning leads toward tyranny",
+    "Liberty needs a strong party",
+    "Welfare ends poverty"
    ],
    "a": 1,
    "w": "Hayek's warning against central planning."
@@ -108,67 +108,67 @@
   {
    "q": "Capitalism and Freedom (1962) was written by…",
    "o": [
-    "Friedman",
-    "Keynes",
     "Hayek",
-    "Beveridge"
+    "Beveridge",
+    "Keynes",
+    "Friedman"
    ],
-   "a": 0,
+   "a": 3,
    "w": "Milton Friedman."
   },
   {
    "q": "Which book is Keynes's key work?",
    "o": [
-    "Liberalism (1911)",
-    "The General Theory (1936)",
     "The Constitution of Liberty",
-    "Capitalism and Freedom (1962)"
+    "Capitalism and Freedom (1962)",
+    "Liberalism (1911)",
+    "The General Theory (1936)"
    ],
-   "a": 1,
+   "a": 3,
    "w": "The General Theory of Employment, Interest and Money, 1936."
   },
   {
    "q": "The Sexual Contract (1988), a feminist critique of liberal contract theory, is by…",
    "o": [
-    "Susan Okin",
-    "Betty Friedan",
+    "Carole Pateman",
     "Kate Millett",
-    "Carole Pateman"
+    "Susan Okin",
+    "Betty Friedan"
    ],
-   "a": 3,
+   "a": 0,
    "w": "Pateman argued that the social contract rests on a hidden sexual contract."
   },
   {
    "q": "Which ruling made privacy a fundamental right in India?",
    "o": [
-    "Maneka Gandhi (1978)",
     "Shreya Singhal (2015)",
     "K.S. Puttaswamy (2017)",
-    "Kesavananda Bharati (1973)"
+    "Kesavananda Bharati (1973)",
+    "Maneka Gandhi (1978)"
    ],
-   "a": 2,
+   "a": 1,
    "w": "A nine-judge bench in 2017."
   },
   {
    "q": "Section 66A of the IT Act was struck down in…",
    "o": [
-    "Shreya Singhal v Union of India",
-    "Romesh Thappar v Madras",
+    "Bijoe Emmanuel",
     "Navtej Singh Johar",
-    "Bijoe Emmanuel"
+    "Shreya Singhal v Union of India",
+    "Romesh Thappar v Madras"
    ],
-   "a": 0,
+   "a": 2,
    "w": "Shreya Singhal (2015) held it violated Article 19(1)(a)."
   },
   {
    "q": "India's major economic liberalisation began in…",
    "o": [
-    "1966",
-    "1980",
+    "2001",
     "1991",
-    "2001"
+    "1980",
+    "1966"
    ],
-   "a": 2,
+   "a": 1,
    "w": "July 1991 under P.V. Narasimha Rao and Manmohan Singh."
   }
  ],

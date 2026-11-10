@@ -59,43 +59,43 @@
   {
    "q": "Ernst Haas's 1953 article found how many meanings of 'balance of power'?",
    "o": [
-    "Eight",
     "Two",
-    "Four",
-    "Twelve"
+    "Eight",
+    "Twelve",
+    "Four"
    ],
-   "a": 0,
+   "a": 1,
    "w": "Haas identified eight meanings."
   },
   {
    "q": "Which is NOT among Morgenthau's methods of balance of power?",
    "o": [
-    "Divide and rule",
-    "Compensations",
+    "Collective security",
     "Alliances",
-    "Collective security"
+    "Divide and rule",
+    "Compensations"
    ],
-   "a": 3,
+   "a": 0,
    "w": "Collective security is an alternative to balance of power."
   },
   {
    "q": "Stephen Walt argued that states balance against:",
    "o": [
-    "Power alone",
     "Wealth",
-    "Ideology",
-    "Threat"
+    "Power alone",
+    "Threat",
+    "Ideology"
    ],
-   "a": 3,
+   "a": 2,
    "w": "The Origins of Alliances (1987): balance of threat."
   },
   {
    "q": "Bandwagoning means:",
    "o": [
-    "Forming a defensive pact",
+    "Staying neutral",
     "Joining the stronger or threatening side",
     "Arming without alliances",
-    "Staying neutral"
+    "Forming a defensive pact"
    ],
    "a": 1,
    "w": "Weak states may join the dominant power."
@@ -103,34 +103,34 @@
   {
    "q": "The 'offshore balancer' idea is associated with:",
    "o": [
-    "Hans Morgenthau",
     "Kautilya",
-    "John Mearsheimer",
-    "Alexander Wendt"
+    "Alexander Wendt",
+    "Hans Morgenthau",
+    "John Mearsheimer"
    ],
-   "a": 2,
+   "a": 3,
    "w": "A distant great power intervenes only to stop a regional hegemon."
   },
   {
    "q": "The Concert of Europe followed:",
    "o": [
-    "The Thirty Years' War",
+    "The Crimean War",
     "World War I",
-    "The Napoleonic wars (1815)",
-    "The Crimean War"
+    "The Thirty Years' War",
+    "The Napoleonic wars (1815)"
    ],
-   "a": 2,
+   "a": 3,
    "w": "It was set up at the Congress of Vienna."
   },
   {
    "q": "The 'second-strike capability' concept was stressed by:",
    "o": [
-    "Albert Wohlstetter",
-    "Samuel Huntington",
     "Kenneth Waltz",
-    "Henry Kissinger"
+    "Albert Wohlstetter",
+    "Henry Kissinger",
+    "Samuel Huntington"
    ],
-   "a": 0,
+   "a": 1,
    "w": "'The Delicate Balance of Terror' (1959)."
   },
   {
@@ -138,17 +138,17 @@
    "o": [
     "Threatening retaliation",
     "Banning weapons",
-    "Making the attack unlikely to succeed",
-    "Disarming the adversary"
+    "Disarming the adversary",
+    "Making the attack unlikely to succeed"
    ],
-   "a": 2,
+   "a": 3,
    "w": "Snyder (1961) distinguished it from deterrence by punishment."
   },
   {
    "q": "The stability-instability paradox was proposed by:",
    "o": [
-    "Thomas Schelling",
     "Bernard Brodie",
+    "Thomas Schelling",
     "Scott Sagan",
     "Glenn Snyder"
    ],
@@ -159,11 +159,11 @@
    "q": "India's nuclear doctrine (2003) states:",
    "o": [
     "First use against conventional attack",
-    "Credible minimum deterrence and no first use",
     "Joining the NPT",
+    "Credible minimum deterrence and no first use",
     "Nuclear sharing with allies"
    ],
-   "a": 1,
+   "a": 2,
    "w": "With massive retaliation if attacked."
   }
  ],

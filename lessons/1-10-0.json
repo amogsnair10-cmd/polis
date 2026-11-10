@@ -11,7 +11,7 @@
   {
    "tag": "Core idea",
    "h": "Origins and main organisations",
-   "b": "<svg class=\"d\" viewBox=\"0 0 320 110\"><line x1=\"12\" y1=\"55\" x2=\"308\" y2=\"55\" stroke=\"#5d6474\" stroke-width=\"2\"/><g font-size=\"9.5\" fill=\"#1d2433\" text-anchor=\"middle\"><circle cx=\"30\" cy=\"55\" r=\"4\" fill=\"#a8792a\"/><text x=\"30\" y=\"40\">1972</text><text x=\"30\" y=\"74\">APDR</text><circle cx=\"100\" cy=\"55\" r=\"4\" fill=\"#a3362a\"/><text x=\"100\" y=\"40\">1975-77</text><text x=\"100\" y=\"74\">Emergency</text><circle cx=\"170\" cy=\"55\" r=\"4\" fill=\"#a8792a\"/><text x=\"170\" y=\"40\">1976-80</text><text x=\"170\" y=\"74\">PUCL</text><circle cx=\"240\" cy=\"55\" r=\"4\" fill=\"#a8792a\"/><text x=\"240\" y=\"40\">1981</text><text x=\"240\" y=\"74\">PUDR</text><circle cx=\"300\" cy=\"55\" r=\"4\" fill=\"#2f6f7a\"/><text x=\"292\" y=\"96\">1993 NHRC</text></g></svg><ul><li><b>APDR</b> (Association for Protection of Democratic Rights, West Bengal, 1972), formed in the wake of the Naxalite crackdown.</li><li><b>PUCL</b> (People's Union for Civil Liberties): founded as the People's Union for Civil Liberties and Democratic Rights under J.P. Narayan's inspiration in 1976; reorganised as PUCL in 1980. Rajni Kothari was among its leaders.</li><li><b>PUDR</b> (People's Union for Democratic Rights, Delhi): its 1984 report <i>Who Are the Guilty?</i> (with PUCL) documented the anti-Sikh violence.</li><li>Others: Naga People's Movement for Human Rights, Manipur's families' associations, Human Rights Law Network, and Amnesty International India (which halted operations in 2020 after its accounts were frozen).</li></ul>"
+   "b": "<svg class=\"d\" viewBox=\"0 0 320 110\"><line x1=\"12\" y1=\"55\" x2=\"308\" y2=\"55\" stroke=\"#5d6474\" stroke-width=\"2\"/><g font-size=\"10\" fill=\"#1d2433\" text-anchor=\"middle\"><circle cx=\"30\" cy=\"55\" r=\"4\" fill=\"#a8792a\"/><text x=\"30\" y=\"40\">1972</text><text x=\"30\" y=\"74\">APDR</text><circle cx=\"100\" cy=\"55\" r=\"4\" fill=\"#a3362a\"/><text x=\"100\" y=\"40\">1975-77</text><text x=\"100\" y=\"74\">Emergency</text><circle cx=\"170\" cy=\"55\" r=\"4\" fill=\"#a8792a\"/><text x=\"170\" y=\"40\">1976-80</text><text x=\"170\" y=\"74\">PUCL</text><circle cx=\"240\" cy=\"55\" r=\"4\" fill=\"#a8792a\"/><text x=\"240\" y=\"40\">1981</text><text x=\"240\" y=\"74\">PUDR</text><circle cx=\"300\" cy=\"55\" r=\"4\" fill=\"#2f6f7a\"/><text x=\"292\" y=\"96\">1993 NHRC</text></g></svg><ul><li><b>APDR</b> (Association for Protection of Democratic Rights, West Bengal, 1972), formed in the wake of the Naxalite crackdown.</li><li><b>PUCL</b> (People's Union for Civil Liberties): founded as the People's Union for Civil Liberties and Democratic Rights under J.P. Narayan's inspiration in 1976; reorganised as PUCL in 1980. Rajni Kothari was among its leaders.</li><li><b>PUDR</b> (People's Union for Democratic Rights, Delhi): its 1984 report <i>Who Are the Guilty?</i> (with PUCL) documented the anti-Sikh violence.</li><li>Others: Naga People's Movement for Human Rights, Manipur's families' associations, Human Rights Law Network, and Amnesty International India (which halted operations in 2020 after its accounts were frozen).</li></ul>"
   },
   {
    "tag": "Key idea",
@@ -54,98 +54,98 @@
   {
    "q": "PUCL's origins lie in the inspiration of…",
    "o": [
-    "J.P. Narayan",
     "Indira Gandhi",
+    "J.P. Narayan",
     "B.R. Ambedkar",
     "E.M.S. Namboodiripad"
    ],
-   "a": 0,
+   "a": 1,
    "w": "Founded 1976; reorganised 1980."
   },
   {
    "q": "Who Are the Guilty? (1984) documented…",
    "o": [
+    "Gujarat riots",
     "Anti-Sikh violence",
-    "Bhopal gas tragedy",
     "Emergency detentions",
-    "Gujarat riots"
+    "Bhopal gas tragedy"
    ],
-   "a": 0,
+   "a": 1,
    "w": "PUDR and PUCL report."
   },
   {
    "q": "Arrest guidelines were laid down in…",
    "o": [
-    "D.K. Basu (1997)",
-    "Hussainara Khatoon (1979)",
+    "Maneka Gandhi (1978)",
     "Sunil Batra (1978)",
-    "Maneka Gandhi (1978)"
+    "Hussainara Khatoon (1979)",
+    "D.K. Basu (1997)"
    ],
-   "a": 0,
+   "a": 3,
    "w": "D.K. Basu v. State of West Bengal."
   },
   {
    "q": "The Jeevan Reddy Committee (2005) recommended…",
    "o": [
-    "Repeal of AFSPA",
-    "Stronger UAPA",
     "Sedition law",
-    "Death penalty abolition"
+    "Repeal of AFSPA",
+    "Death penalty abolition",
+    "Stronger UAPA"
    ],
-   "a": 0,
+   "a": 1,
    "w": "Repeal of AFSPA."
   },
   {
    "q": "Irom Sharmila's fast was against…",
    "o": [
-    "UAPA",
-    "AFSPA",
     "POTA",
-    "Sedition"
+    "UAPA",
+    "Sedition",
+    "AFSPA"
    ],
-   "a": 1,
+   "a": 3,
    "w": "From 2000 to 2016."
   },
   {
    "q": "The 2019 UAPA amendment allowed…",
    "o": [
-    "Designating individuals as terrorists",
-    "Abolishing bail",
     "Military courts",
+    "Abolishing bail",
+    "Designating individuals as terrorists",
     "Ending AFSPA"
    ],
-   "a": 0,
+   "a": 2,
    "w": "Previously only organisations."
   },
   {
    "q": "Sedition was kept in abeyance in…",
    "o": [
-    "S.G. Vombatkere (2022)",
-    "Kedar Nath (1962)",
     "Shreya Singhal (2015)",
-    "Anuradha Bhasin (2020)"
+    "Kedar Nath (1962)",
+    "Anuradha Bhasin (2020)",
+    "S.G. Vombatkere (2022)"
    ],
-   "a": 0,
+   "a": 3,
    "w": "May 2022 interim order."
   },
   {
    "q": "Anuradha Bhasin (2020) dealt with…",
    "o": [
+    "Phone tapping",
     "Internet shutdowns",
     "Custodial death",
-    "Phone tapping",
     "Encounter killings"
    ],
-   "a": 0,
+   "a": 1,
    "w": "Proportionality and publication of orders."
   },
   {
    "q": "Stan Swamy died in custody in…",
    "o": [
+    "2023",
     "2018",
-    "2020",
     "2021",
-    "2023"
+    "2020"
    ],
    "a": 2,
    "w": "5 July 2021."
@@ -155,8 +155,8 @@
    "o": [
     "1966",
     "1979",
-    "1993",
-    "2005"
+    "2005",
+    "1993"
    ],
    "a": 1,
    "w": "1979."

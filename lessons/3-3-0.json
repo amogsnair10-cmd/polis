@@ -59,76 +59,76 @@
   {
    "q": "The Kampala Principles were announced by Modi in:",
    "o": [
+    "2023",
     "2018",
-    "2008",
     "2011",
-    "2023"
+    "2008"
    ],
-   "a": 0,
+   "a": 1,
    "w": "July 2018, in the Ugandan Parliament."
   },
   {
    "q": "How many African leaders/countries took part in IAFS-III (2015)?",
    "o": [
-    "All 54 African countries were invited",
     "Only 10",
     "Only North Africa",
+    "All 54 African countries were invited",
     "Only SADC members"
    ],
-   "a": 0,
+   "a": 2,
    "w": "IAFS-III invited all 54 AU member states, with 41 heads of state or government attending."
   },
   {
    "q": "India cut diplomatic ties with South Africa in:",
    "o": [
-    "1954",
-    "1971",
+    "2008",
     "1994",
-    "2008"
+    "1954",
+    "1971"
    ],
-   "a": 0,
+   "a": 2,
    "w": "1954, in protest at apartheid."
   },
   {
    "q": "The African Union became a permanent G20 member at the summit in:",
    "o": [
+    "Rome, 2021",
     "New Delhi, 2023",
-    "Bali, 2022",
     "Osaka, 2019",
-    "Rome, 2021"
+    "Bali, 2022"
    ],
-   "a": 0,
+   "a": 1,
    "w": "At the New Delhi G20 Summit, September 2023."
   },
   {
    "q": "The IBSA grouping was set up through the:",
    "o": [
-    "Brasilia Declaration, 2003",
-    "Delhi Declaration, 2008",
     "Pretoria Pact, 1994",
+    "Delhi Declaration, 2008",
+    "Brasilia Declaration, 2003",
     "Cancun Declaration, 2003"
    ],
-   "a": 0,
+   "a": 2,
    "w": "Brasilia Declaration, June 2003."
   },
   {
    "q": "India's KABIL signed lithium-block deals in 2024 with:",
    "o": [
+    "Venezuela",
     "Argentina",
-    "Mexico",
     "Peru",
-    "Venezuela"
+    "Mexico"
    ],
-   "a": 0,
+   "a": 1,
    "w": "KABIL (Khanij Bidesh India Ltd) signed for lithium exploration blocks in Catamarca, Argentina."
   },
   {
    "q": "IAFS-IV, planned for May 2026 in New Delhi, was postponed because of:",
    "o": [
     "An Ebola outbreak",
+    "A cyclone",
     "A coup",
-    "US tariffs",
-    "A cyclone"
+    "US tariffs"
    ],
    "a": 0,
    "w": "The AU and India announced the postponement on 21 May 2026."
@@ -136,34 +136,34 @@
   {
    "q": "The Asia-Africa Growth Corridor was conceived by India and:",
    "o": [
-    "Japan",
     "China",
+    "Japan",
     "Russia",
     "Brazil"
    ],
-   "a": 0,
+   "a": 1,
    "w": "It was announced in 2017 at the AfDB meeting in Gandhinagar."
   },
   {
    "q": "India's 'Pan-African e-Network' was launched in:",
    "o": [
-    "2009",
-    "1998",
     "2015",
-    "2020"
+    "2020",
+    "2009",
+    "1998"
    ],
-   "a": 0,
+   "a": 2,
    "w": "The Pan-African e-Network project began in 2009."
   },
   {
    "q": "The Mercosur–India PTA entered into force in:",
    "o": [
-    "2009",
-    "1991",
     "2015",
-    "2022"
+    "2022",
+    "1991",
+    "2009"
    ],
-   "a": 0,
+   "a": 3,
    "w": "It came into force in June 2009."
   }
  ],
