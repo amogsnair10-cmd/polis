@@ -1,0 +1,171 @@
+{
+ "id": "3-0-0",
+ "title": "European Companies and the Battle of Plassey",
+ "emoji": "⚓",
+ "cards": [
+  {
+   "tag": "Why this matters",
+   "h": "A trading company became a state",
+   "b": "<p>Trade, not conquest, brought Europeans to India. Within about 150 years of Vasco da Gama landing at Calicut (1498), one company held the richest province of India. Plassey (1757) and Buxar (1764) are the hinge of modern Indian history.</p><p>UPSC asks two things again and again: why the English won over other Europeans, and how a trading firm became a ruler.</p>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "The order of arrival",
+   "b": "<ul><li><b>Portuguese</b>: Vasco da Gama, 1498. Albuquerque took Goa in 1510. Their <i>cartaz</i> (naval pass) system controlled sea trade.</li><li><b>Dutch</b>: United East India Company, 1602. Centred on the spice islands of Indonesia, with posts such as Pulicat.</li><li><b>English</b>: East India Company chartered 31 December 1600. First factory at Surat, 1613.</li><li><b>Danes</b>: 1616; Serampore and Tranquebar.</li><li><b>French</b>: Compagnie des Indes, 1664 under Colbert. Pondicherry, founded 1674.</li></ul>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "Why the English won",
+   "b": "<p>Historians offer several reasons.</p><p><b>Sea power</b>: the Royal Navy was stronger than the French fleet. <b>Finance</b>: a stable parliamentary government, a strong bank system and company shareholders who wanted dividends. <b>Base</b>: Bengal, Bombay and Madras were rich and could fund wars, while Pondicherry could not. <b>Leaders</b>: Clive and Eyre Coote against a faction-ridden French command. <b>Industrial change</b> and a trained army also helped later.</p><p>The French were also distracted by wars in Europe and had less state backing than expected.</p>"
+  },
+  {
+   "tag": "Key event",
+   "h": "The Carnatic Wars",
+   "b": "<p>Three wars were fought on the Coromandel coast between the English and French (1746 to 1763), tied to the Austrian Succession and Seven Years’ wars in Europe.</p><p>The first showed that a small, disciplined European-drilled force could beat large Indian armies (the battle of St Thome, 1746). Dupleix backed rival claimants in Hyderabad and the Carnatic. Clive’s seizure of Arcot (1751) turned the tide. The third war ended with the French defeat at Wandiwash (1760, Eyre Coote). The Treaty of Paris (1763) left Pondicherry to the French as a trading post only.</p>"
+  },
+  {
+   "tag": "Key event",
+   "h": "Plassey, 23 June 1757",
+   "b": "<p>Siraj-ud-daulah became Nawab of Bengal in 1756. He seized Calcutta (the “Black Hole” story is doubted by many historians). Clive retook it and then plotted with the nawab’s own commanders.</p><p>At Plassey, <b>Mir Jafar</b>, the commander, held back his troops. Others in the plot included Rai Durlabh, Yar Lutuf Khan, the banker Jagat Seth and Omichand. The battle was little more than a skirmish, yet it gave the Company the throne of Bengal in all but name. Mir Jafar became nawab and paid huge sums.</p>"
+  },
+  {
+   "tag": "Key event",
+   "h": "Buxar and the Diwani",
+   "b": "<p>Mir Qasim, Mir Jafar’s son-in-law, tried to rule independently and abolished internal duties. He joined Shuja-ud-daula of Awadh and Shah Alam II, the Mughal emperor. They were beaten at <b>Buxar, 1764</b> (Hector Munro).</p><p>By the <b>Treaty of Allahabad (1765)</b> Clive got the <b>Diwani</b> (revenue rights) of Bengal, Bihar and Orissa from Shah Alam II. The Nawab kept the <i>nizamat</i> (policing and justice). This was the <b>dual government</b> (1765 to 1772), power without responsibility, which Warren Hastings ended.</p>"
+  },
+  {
+   "tag": "Debate",
+   "h": "Was Plassey a battle or a conspiracy?",
+   "b": "<p>Nationalist historians such as Bipan Chandra stress that Plassey was won by treachery and by Bengal’s own elite, not by arms. Buxar was the real military test.</p><p>Yet Plassey mattered because it handed the Company Bengal’s wealth. This funded armies and bought Indian-made goods with Indian revenue, a point Dadabhai Naoroji later used in his drain theory. Some historians, such as C. A. Bayly, say the Company’s rise also depended on Indian bankers and local elites who chose to back it.</p>"
+  },
+  {
+   "tag": "Indian angle",
+   "h": "Why it matters today",
+   "b": "<p>Bengal’s early colonisation shaped Calcutta’s rise as capital (till 1911) and the Permanent Settlement later. The memory of dependence on foreign trading power is behind India’s caution about economic dependence and strategic autonomy. Goa remained Portuguese until 1961, and Pondicherry stayed French until its de facto transfer in 1954. These are the last pieces of European empire in India.</p>"
+  },
+  {
+   "tag": "Exam lens",
+   "h": "How to answer",
+   "b": "<ul><li>Mains: “Why did the English East India Company succeed against other European powers in India?” Structure: sea power, finance, base in Bengal, leadership, disunity of Indian rulers.</li><li>Mains: “Assess the importance of Plassey and Buxar.” Plassey gave political control; Buxar gave legal and military legitimacy via the Diwani.</li><li>Prelims tip: remember the order of company founding (Portuguese 1498, English 1600, Dutch 1602, Danes 1616, French 1664) and who held the Diwani (Clive, 1765).</li></ul>",
+   "cls": "exam"
+  }
+ ],
+ "quiz": [
+  {
+   "q": "Who captured Goa in 1510?",
+   "o": [
+    "Francisco de Almeida",
+    "Alfonso de Albuquerque",
+    "Vasco da Gama",
+    "Pedro Cabral"
+   ],
+   "a": 1,
+   "w": "Albuquerque took Goa from the Bijapur sultanate in 1510."
+  },
+  {
+   "q": "The English East India Company was chartered in",
+   "o": [
+    "1600",
+    "1498",
+    "1602",
+    "1664"
+   ],
+   "a": 0,
+   "w": "Queen Elizabeth I granted the charter on 31 December 1600."
+  },
+  {
+   "q": "Which European company was founded last among these?",
+   "o": [
+    "Dutch East India Company (1602)",
+    "English East India Company (1600)",
+    "Danish East India Company (1616)",
+    "French Compagnie des Indes (1664)"
+   ],
+   "a": 3,
+   "w": "The French company came in 1664 under Colbert."
+  },
+  {
+   "q": "The decisive French defeat in the Carnatic Wars was at",
+   "o": [
+    "Plassey, 1757",
+    "Buxar, 1764",
+    "Wandiwash, 1760",
+    "Arcot, 1751"
+   ],
+   "a": 2,
+   "w": "Eyre Coote defeated Lally at Wandiwash."
+  },
+  {
+   "q": "Who headed the plot with the English against Siraj-ud-daulah at Plassey?",
+   "o": [
+    "Mir Qasim",
+    "Mir Jafar",
+    "Shuja-ud-daula",
+    "Raja Ram Mohan Roy"
+   ],
+   "a": 1,
+   "w": "Mir Jafar was the commander who stayed out of the battle and was made nawab."
+  },
+  {
+   "q": "The Battle of Buxar (1764) was fought by the English against",
+   "o": [
+    "Mir Qasim, Shuja-ud-daula and Shah Alam II",
+    "Siraj-ud-daulah and the French",
+    "Haidar Ali and the Marathas",
+    "Mir Jafar and Tipu Sultan"
+   ],
+   "a": 0,
+   "w": "The three-way alliance of Mir Qasim, the Nawab of Awadh and the Mughal emperor lost at Buxar."
+  },
+  {
+   "q": "The Diwani of Bengal, Bihar and Orissa was granted in",
+   "o": [
+    "1757 by Siraj-ud-daulah",
+    "1764 by Mir Qasim",
+    "1772 by Warren Hastings",
+    "1765 by Shah Alam II"
+   ],
+   "a": 3,
+   "w": "The Treaty of Allahabad gave the Company revenue rights."
+  },
+  {
+   "q": "Dual government in Bengal (1765 to 1772) was ended by",
+   "o": [
+    "Robert Clive",
+    "Lord Cornwallis",
+    "Warren Hastings",
+    "Lord Wellesley"
+   ],
+   "a": 2,
+   "w": "Hastings took over revenue collection directly in 1772."
+  },
+  {
+   "q": "The Treaty of Paris (1763) left the French in India with",
+   "o": [
+    "The whole Carnatic",
+    "Pondicherry and some posts as trading bases only",
+    "Bengal and Chandernagore as political states",
+    "Nothing at all"
+   ],
+   "a": 1,
+   "w": "French factories were restored but fortifying them was barred."
+  },
+  {
+   "q": "Which was the Danish settlement in Bengal?",
+   "o": [
+    "Serampore",
+    "Chinsurah",
+    "Pulicat",
+    "Mahe"
+   ],
+   "a": 0,
+   "w": "Serampore (Fredericknagore) was Danish; Chinsurah was Dutch."
+  }
+ ],
+ "sources": [
+  "Bipan Chandra, History of Modern India",
+  "Spectrum, A Brief History of Modern India",
+  "PYQ-style: Mains on European rivalry and Plassey"
+ ],
+ "verified": "2026-11-10"
+}

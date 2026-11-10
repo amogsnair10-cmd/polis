@@ -1,0 +1,171 @@
+{
+ "id": "3-0-1",
+ "title": "Expansion of British Power to 1857",
+ "emoji": "🗺️",
+ "cards": [
+  {
+   "tag": "Why this matters",
+   "h": "From Bengal to the whole subcontinent",
+   "b": "<p>Between 1757 and 1856 the Company grew from a Bengal ruler to the paramount power. UPSC likes the <i>methods</i> of expansion and the policy of each Governor-General. A clean timeline wins marks.</p>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "Three ways of expansion",
+   "b": "<ul><li><b>War and conquest</b>: Mysore, the Marathas, Sindh, the Punjab.</li><li><b>Diplomacy and the Subsidiary Alliance</b>: Wellesley.</li><li><b>Annexation by policy</b>: the Doctrine of Lapse and “misgovernment” (Awadh).</li></ul>The Company also used the policy of the <b>ring fence</b> (Warren Hastings) and <b>subordinate isolation</b> (Lord Hastings, 1813 to 1823), and later <b>subordinate union</b> (Dalhousie)."
+  },
+  {
+   "tag": "Key event",
+   "h": "Mysore Wars",
+   "b": "<p><b>Haidar Ali</b> and then <b>Tipu Sultan</b> modernised the army and used rockets. Four wars were fought.</p><ul><li>First (1767 to 69): Treaty of Madras.</li><li>Second (1780 to 84): Treaty of Mangalore.</li><li>Third (1790 to 92): Cornwallis; Treaty of Seringapatam; Tipu lost half his territory.</li><li>Fourth (1799): Wellesley; Tipu died defending Seringapatam.</li></ul>The Wodeyars were restored in Mysore under a subsidiary alliance."
+  },
+  {
+   "tag": "Key event",
+   "h": "Subsidiary Alliance (Wellesley, 1798 to 1805)",
+   "b": "<p>The ruler accepted a British force, paid for it, expelled other Europeans and agreed not to deal with other states without the Company’s consent. A British Resident lived in his court.</p><p>First to sign: Hyderabad (1798). Then Mysore, Tanjore, Awadh, the Peshwa (Treaty of Bassein, 1802), Bhonsle and Scindia. Rulers lost sovereignty. The Company gained a large army paid by others.</p>"
+  },
+  {
+   "tag": "Key event",
+   "h": "Marathas and the Punjab",
+   "b": "<p>Third Anglo-Maratha War (1817 to 1818) under Lord Hastings ended the Peshwa’s rule; Bajirao II was pensioned at Bithur. The Marathas had been weakened by internal quarrels.</p><p><b>Sindh</b> was taken in 1843 (Charles Napier). In the <b>Punjab</b>, Ranjit Singh signed the Treaty of Amritsar (1809) with the English. After his death (1839) came two Sikh wars (1845 to 46; 1848 to 49). Dalhousie annexed the Punjab in 1849.</p>"
+  },
+  {
+   "tag": "Key idea",
+   "h": "Doctrine of Lapse",
+   "b": "<p>Lord Dalhousie (1848 to 1856) held that when a dependent ruler died without a natural heir, the state passed to the Company. Adopted sons were not recognised.</p><p>States annexed: Satara (1848), Jaitpur and Sambalpur, Baghat, Udaipur, Jhansi (1853), Nagpur (1854). Awadh was annexed in 1856 on grounds of misrule. Dalhousie also built railways and the telegraph. The Nana Sahib and the Rani of Jhansi lost pensions and claims, which fed the Revolt of 1857.</p>"
+  },
+  {
+   "tag": "Debate",
+   "h": "Conquest by accident or design?",
+   "b": "<p>The older English view, from John Seeley, says the empire was acquired “in a fit of absence of mind”. Nationalist and Marxist historians stress deliberate aggression driven by revenue needs and the army’s costs. Many modern historians point to a “fiscal-military” state that needed ever more revenue to pay its own army.</p>"
+  },
+  {
+   "tag": "Indian angle",
+   "h": "Why it matters today",
+   "b": "<p>The legacy of princely states and the Residents’ system shaped the 1947 integration problem. Border questions with Burma, Nepal and Afghanistan began in the same period (Treaty of Sugauli 1816 with Nepal). Tipu and the Rani of Jhansi remain symbols in public memory and in school texts.</p>"
+  },
+  {
+   "tag": "Exam lens",
+   "h": "How to answer",
+   "b": "<ul><li>“Discuss the policy of Subsidiary Alliance and its effects.” Give terms, signatories, effect on rulers and the Company.</li><li>“The Doctrine of Lapse was a cause of 1857.” Give the states annexed and who lost.</li><li>Prelims tip: match the policy to the person, and the treaty to the war (Bassein 1802, Seringapatam 1792, Mangalore 1784).</li></ul>",
+   "cls": "exam"
+  }
+ ],
+ "quiz": [
+  {
+   "q": "The Subsidiary Alliance system is associated with",
+   "o": [
+    "Lord Cornwallis",
+    "Lord Dalhousie",
+    "Lord Wellesley",
+    "Lord Hastings"
+   ],
+   "a": 2,
+   "w": "Wellesley made it his main tool of expansion."
+  },
+  {
+   "q": "The first Indian state to accept the Subsidiary Alliance was",
+   "o": [
+    "Mysore",
+    "Hyderabad",
+    "Awadh",
+    "Tanjore"
+   ],
+   "a": 1,
+   "w": "The Nizam signed in 1798."
+  },
+  {
+   "q": "Tipu Sultan died in the fourth Mysore War in",
+   "o": [
+    "1799",
+    "1792",
+    "1784",
+    "1767"
+   ],
+   "a": 0,
+   "w": "He fell at Seringapatam in 1799."
+  },
+  {
+   "q": "The Treaty of Bassein (1802) was signed by",
+   "o": [
+    "Daulat Rao Scindia",
+    "Holkar",
+    "Raghuji Bhonsle",
+    "Peshwa Baji Rao II"
+   ],
+   "a": 3,
+   "w": "This accepted the Subsidiary Alliance and led to the Second Anglo-Maratha War."
+  },
+  {
+   "q": "The Doctrine of Lapse was applied by",
+   "o": [
+    "Wellesley",
+    "Canning",
+    "Dalhousie",
+    "Bentinck"
+   ],
+   "a": 2,
+   "w": "Dalhousie used it between 1848 and 1856."
+  },
+  {
+   "q": "Which state was annexed in 1856 on grounds of misgovernment?",
+   "o": [
+    "Satara",
+    "Awadh",
+    "Jhansi",
+    "Nagpur"
+   ],
+   "a": 1,
+   "w": "Awadh was annexed by Dalhousie on the Nawab’s alleged misrule."
+  },
+  {
+   "q": "The Punjab was annexed in",
+   "o": [
+    "1849",
+    "1843",
+    "1856",
+    "1839"
+   ],
+   "a": 0,
+   "w": "After the Second Anglo-Sikh War."
+  },
+  {
+   "q": "The Treaty of Amritsar (1809) was between",
+   "o": [
+    "Tipu and the English",
+    "Peshwa and the English",
+    "Mir Qasim and the English",
+    "Ranjit Singh and the English"
+   ],
+   "a": 3,
+   "w": "It fixed the Sutlej as the limit of Ranjit Singh’s expansion."
+  },
+  {
+   "q": "Sindh was conquered in 1843 by",
+   "o": [
+    "Eyre Coote",
+    "Hector Munro",
+    "Charles Napier",
+    "Robert Clive"
+   ],
+   "a": 2,
+   "w": "Napier’s Sindh campaign was under Ellenborough."
+  },
+  {
+   "q": "The Third Anglo-Maratha War ended the rule of",
+   "o": [
+    "Ranjit Singh",
+    "Peshwa Baji Rao II",
+    "Tipu Sultan",
+    "Shah Alam II"
+   ],
+   "a": 1,
+   "w": "He surrendered in 1818 and was pensioned at Bithur."
+  }
+ ],
+ "sources": [
+  "Bipan Chandra, History of Modern India",
+  "Spectrum, A Brief History of Modern India",
+  "Mains-style: Subsidiary Alliance, Doctrine of Lapse"
+ ],
+ "verified": "2026-11-10"
+}

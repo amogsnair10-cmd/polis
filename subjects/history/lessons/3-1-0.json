@@ -1,0 +1,171 @@
+{
+ "id": "3-1-0",
+ "title": "Land Revenue Systems and the Drain of Wealth",
+ "emoji": "🌾",
+ "cards": [
+  {
+   "tag": "Why this matters",
+   "h": "The economic engine of empire",
+   "b": "<p>Land revenue was the largest source of Company income. How it was fixed changed rural India and caused famines and debt. Naoroji and R. C. Dutt then showed how wealth left India. Few topics are asked as often.</p>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "Three land revenue systems",
+   "b": "<ul><li><b>Permanent Settlement (Zamindari)</b>, 1793, Bengal, Bihar, Orissa, Varanasi: Cornwallis.</li><li><b>Ryotwari</b>, 1820 (Thomas Munro, Madras), also Bombay: the cultivator is the owner.</li><li><b>Mahalwari</b>, 1822 (Holt Mackenzie), 1833 (Bird): the village community pays together. North-West Provinces, Punjab.</li></ul>About 19% of area was zamindari, 51% ryotwari and 30% mahalwari under British India."
+  },
+  {
+   "tag": "Key idea",
+   "h": "Permanent Settlement, 1793",
+   "b": "<p>The Company fixed the revenue permanently. Zamindars became owners and paid a fixed sum, about 10/11 of the rent collected. Failure meant the land was auctioned (the Sunset Law).</p><p>Effects: Company revenue became certain. Zamindars gained but many fell out and absentee landlords grew. Peasants had no protection of tenure until the Bengal Tenancy Act (1885). The land became a commodity and moneylending rose. Cornwallis hoped for improvement; little came.</p>"
+  },
+  {
+   "tag": "Key idea",
+   "h": "Ryotwari and Mahalwari",
+   "b": "<p><b>Ryotwari</b>: settlement directly with each cultivator, revised every 20 to 30 years. Rates were often high, around half the produce, which forced peasants into debt. Seen as “fairer” but in practice heavy.</p><p><b>Mahalwari</b>: the village (<i>mahal</i>) headmen collected revenue. Revision every 30 years.</p><p>In all systems revenue was fixed in cash and in advance, whatever the harvest.</p>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "Commercialisation and de-industrialisation",
+   "b": "<p>Cash demand pushed farmers to grow cotton, indigo, jute, opium and sugarcane. This is <b>commercialisation of agriculture</b>, driven by the market and often by the colonial state, not farmer prosperity. The Deccan Riots (1875) and the Indigo Revolt (1859 to 60) followed.</p><p>De-industrialisation: cheap Lancashire cloth and heavy duties on Indian goods (and free trade after 1813 and 1833) ruined handicrafts. Weavers moved to farming, raising pressure on land.</p>"
+  },
+  {
+   "tag": "Key idea",
+   "h": "The drain of wealth",
+   "b": "<ul><li><b>Dadabhai Naoroji</b>, <i>Poverty and Un-British Rule in India</i> (1901): drain was a “material and moral” loss.</li><li><b>R. C. Dutt</b>, <i>Economic History of India</i> (1901 to 03).</li><li><b>Home Charges</b>: pensions, interest, salaries and army costs paid in London.</li></ul>The drain meant exports for which India got no imports in return. Naoroji put it at about £30 million a year (an estimate, disputed)."
+  },
+  {
+   "tag": "Debate",
+   "h": "How much did the drain cost?",
+   "b": "<p>Nationalists such as Naoroji, Dutt, M. G. Ranade and R. P. Dutt saw impoverishment. Some economists, such as Morris D. Morris, argued that India was not that damaged and that railways and irrigation helped. Utsa Patnaik has recently estimated very large figures, which others dispute. The debate is about method, not that Home Charges existed.</p>"
+  },
+  {
+   "tag": "Indian angle",
+   "h": "Why it matters today",
+   "b": "<p>Zamindari abolition was the first big land reform after 1947 (First Amendment and Ninth Schedule, 1951). Tenancy and land ceilings, and rural debt, still trace back to these systems. The drain argument shaped India’s early planning and its self-reliance stance. Famine memory shaped food security laws.</p>"
+  },
+  {
+   "tag": "Exam lens",
+   "h": "How to answer",
+   "b": "<ul><li>“Examine the impact of British land revenue policy on Indian agriculture.” Structure: three systems, features, effects on peasants, commercialisation, famines.</li><li>“Explain the drain of wealth theory.” Define, give Naoroji and Dutt, Home Charges, evidence, criticism.</li><li>Prelims tip: Permanent Settlement areas, Munro and Ryotwari, and the year of each.</li></ul>",
+   "cls": "exam"
+  }
+ ],
+ "quiz": [
+  {
+   "q": "The Permanent Settlement was introduced in Bengal in",
+   "o": [
+    "1765",
+    "1820",
+    "1793",
+    "1833"
+   ],
+   "a": 2,
+   "w": "Cornwallis introduced it."
+  },
+  {
+   "q": "Ryotwari was first introduced by",
+   "o": [
+    "Cornwallis in Bengal",
+    "Thomas Munro in Madras",
+    "Holt Mackenzie in Awadh",
+    "Dalhousie in the Punjab"
+   ],
+   "a": 1,
+   "w": "It was extended by Munro and Reed."
+  },
+  {
+   "q": "In the Mahalwari system the revenue unit was",
+   "o": [
+    "The village or estate (mahal)",
+    "The individual cultivator",
+    "The zamindar",
+    "The district"
+   ],
+   "a": 0,
+   "w": "The village headmen paid collectively."
+  },
+  {
+   "q": "Who wrote Poverty and Un-British Rule in India?",
+   "o": [
+    "R. C. Dutt",
+    "M. G. Ranade",
+    "G. K. Gokhale",
+    "Dadabhai Naoroji"
+   ],
+   "a": 3,
+   "w": "It is Naoroji’s famous work (1901)."
+  },
+  {
+   "q": "The Economic History of India (1901 to 03) was written by",
+   "o": [
+    "Dadabhai Naoroji",
+    "Bipan Chandra",
+    "R. C. Dutt",
+    "Romesh Chunder Mitra"
+   ],
+   "a": 2,
+   "w": "Dutt, an ICS officer, wrote it."
+  },
+  {
+   "q": "The Sunset Law under the Permanent Settlement meant",
+   "o": [
+    "Revenue paid only after sunset",
+    "Land auctioned if revenue was not paid by sunset on the due date",
+    "Peasants evicted at night",
+    "Fixed rent on cultivators"
+   ],
+   "a": 1,
+   "w": "Zamindars lost land on default."
+  },
+  {
+   "q": "Home Charges included",
+   "o": [
+    "Interest on debt, pensions and salaries paid in London",
+    "Railway fares in India",
+    "Only land revenue",
+    "Famine relief"
+   ],
+   "a": 0,
+   "w": "These were remitted from India to Britain."
+  },
+  {
+   "q": "Indigo Revolt (1859 to 60) was in",
+   "o": [
+    "Gujarat",
+    "Maharashtra",
+    "Punjab",
+    "Bengal"
+   ],
+   "a": 3,
+   "w": "Peasants refused to grow indigo for planters."
+  },
+  {
+   "q": "Which was the major effect of commercialisation of agriculture?",
+   "o": [
+    "Rise of rural industry",
+    "Fall in moneylending",
+    "Peasant indebtedness and food-crop decline",
+    "Higher self-sufficiency"
+   ],
+   "a": 2,
+   "w": "Farmers shifted to cash crops and borrowed from moneylenders."
+  },
+  {
+   "q": "Which land system covered roughly half of British India?",
+   "o": [
+    "Permanent Settlement",
+    "Ryotwari",
+    "Mahalwari",
+    "Jagirdari"
+   ],
+   "a": 1,
+   "w": "Ryotwari covered about 51% of the area."
+  }
+ ],
+ "sources": [
+  "Bipan Chandra, India’s Struggle for Independence and History of Modern India",
+  "Spectrum, Modern India",
+  "Naoroji (1901); R. C. Dutt (1901 to 03)"
+ ],
+ "verified": "2026-11-10"
+}

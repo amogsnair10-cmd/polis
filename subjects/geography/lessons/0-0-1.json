@@ -1,0 +1,176 @@
+{
+ "id": "0-0-1",
+ "title": "Earthquakes, Volcanoes and Tsunamis",
+ "emoji": "🌋",
+ "cards": [
+  {
+   "tag": "Why this matters",
+   "h": "The Earth moves, and people die",
+   "b": "<p>Quakes, volcanoes and tsunamis appear both in Physical Geography and in disaster management. India has had Latur (1993), Bhuj (2001), the 2004 tsunami and Nepal (2015). UPSC asks about causes, distribution and India's exposure.</p>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "How an earthquake works",
+   "b": "<svg class=\"d\" viewBox=\"0 0 320 170\"><path d=\"M10 70 L310 70 L310 160 L10 160 Z\" fill=\"#f1e4c6\" stroke=\"#a8792a\" stroke-width=\"1.5\"/><line x1=\"10\" y1=\"70\" x2=\"310\" y2=\"70\" stroke=\"#5d6474\" stroke-width=\"2\"/><circle cx=\"150\" cy=\"130\" r=\"6\" fill=\"#a3362a\"/><circle cx=\"150\" cy=\"70\" r=\"6\" fill=\"#2f6f7a\"/><line x1=\"150\" y1=\"130\" x2=\"150\" y2=\"70\" stroke=\"#a3362a\" stroke-width=\"1.5\" stroke-dasharray=\"4 3\"/><text x=\"150\" y=\"22\" fill=\"#2f6f7a\" font-size=\"11\" text-anchor=\"middle\" font-weight=\"700\">Epicentre: point on the surface above</text><line x1=\"150\" y1=\"28\" x2=\"150\" y2=\"60\" stroke=\"#2f6f7a\" stroke-width=\"1\" stroke-dasharray=\"4 3\"/><text x=\"175\" y=\"138\" fill=\"#a3362a\" font-size=\"10\" text-anchor=\"start\" font-weight=\"700\">Focus (hypocentre): where rock breaks</text><text x=\"160\" y=\"100\" fill=\"#5d6474\" font-size=\"10\" text-anchor=\"middle\">Shallow focus is under 70 km: most damage</text><text x=\"160\" y=\"158\" fill=\"#5d6474\" font-size=\"10\" text-anchor=\"middle\">Deep focus: 300 to 700 km, in subduction zones</text></svg><p>Stress builds on a fault. Rock slips, and energy spreads as waves. <b>Magnitude</b> (Richter, now usually the moment scale) is logarithmic: each step is about 10 times the wave amplitude and about 32 times the energy. <b>Intensity</b> (Mercalli, I to XII) measures effects felt.</p>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "Where quakes strike",
+   "b": "<svg class=\"d\" viewBox=\"0 0 320 144\"><rect x=\"10\" y=\"6\" width=\"105\" height=\"40\" rx=\"6\" fill=\"#f4dcd5\" stroke=\"#a3362a\" stroke-width=\"1.5\"/><text x=\"62.5\" y=\"30.0\" fill=\"#a3362a\" font-size=\"11\" text-anchor=\"middle\" font-weight=\"700\">Circum-Pacific</text><rect x=\"121\" y=\"6\" width=\"189\" height=\"40\" rx=\"6\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"215.5\" y=\"30.0\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\">Ring of Fire: about 80% of quakes, 75% of volcanoes</text><rect x=\"10\" y=\"52\" width=\"105\" height=\"40\" rx=\"6\" fill=\"#f1e4c6\" stroke=\"#a8792a\" stroke-width=\"1.5\"/><text x=\"62.5\" y=\"76.0\" fill=\"#7d5a1c\" font-size=\"11\" text-anchor=\"middle\" font-weight=\"700\">Alpine-Himalayan</text><rect x=\"121\" y=\"52\" width=\"189\" height=\"40\" rx=\"6\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"215.5\" y=\"76.0\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\">Mediterranean to Indonesia: about 15-17%</text><rect x=\"10\" y=\"98\" width=\"105\" height=\"40\" rx=\"6\" fill=\"#dceaec\" stroke=\"#2f6f7a\" stroke-width=\"1.5\"/><text x=\"62.5\" y=\"122.0\" fill=\"#2f6f7a\" font-size=\"11\" text-anchor=\"middle\" font-weight=\"700\">Mid-Atlantic ridge</text><rect x=\"121\" y=\"98\" width=\"189\" height=\"40\" rx=\"6\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"215.5\" y=\"122.0\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\">Divergent boundary, mostly under water</text></svg><p>Quakes mostly follow plate boundaries. Shallow quakes happen at all boundaries. Deep ones only occur in subduction zones. Intraplate quakes (Latur, Bhuj) are rarer, along old buried faults.</p>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "Causes beyond plates",
+   "b": "<p><b>Volcanic</b> quakes, <b>collapse</b> quakes (mines, caves) and <b>reservoir-induced</b> quakes also occur. The Koyna quake of 1967 (about M6.3) is the classic Indian case of reservoir-induced seismicity.</p><p>Effects: ground shaking, liquefaction, landslides, fires, tsunamis. The shaking and poor building, not the quake itself, kills most people.</p>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "Volcanoes and their forms",
+   "b": "<svg class=\"d\" viewBox=\"0 0 320 190\"><path d=\"M20 170 L120 60 L135 40 L185 40 L200 60 L300 170 Z\" fill=\"#f1e4c6\" stroke=\"#a8792a\" stroke-width=\"1.5\"/><path d=\"M155 170 L155 44\" stroke=\"#a3362a\" stroke-width=\"6\"/><rect x=\"115\" y=\"152\" width=\"80\" height=\"18\" fill=\"#f4dcd5\" stroke=\"#a3362a\"/><line x1=\"155\" y1=\"100\" x2=\"215\" y2=\"100\" stroke=\"#a3362a\" stroke-width=\"3\"/><text x=\"160\" y=\"166\" fill=\"#a3362a\" font-size=\"10\" text-anchor=\"middle\" font-weight=\"700\">Magma chamber</text><text x=\"160\" y=\"32\" fill=\"#a3362a\" font-size=\"10\" text-anchor=\"middle\" font-weight=\"700\">Crater and ash cloud</text><text x=\"250\" y=\"92\" fill=\"#a3362a\" font-size=\"10\" text-anchor=\"middle\">Sill</text><text x=\"60\" y=\"150\" fill=\"#7d5a1c\" font-size=\"10\" text-anchor=\"middle\">Layers of lava</text><text x=\"60\" y=\"162\" fill=\"#7d5a1c\" font-size=\"10\" text-anchor=\"middle\">and ash</text><text x=\"220\" y=\"125\" fill=\"#5d6474\" font-size=\"10\" text-anchor=\"start\">Vent / pipe</text></svg><p>A <b>volcano</b> is a vent where magma reaches the surface. <b>Shield</b> volcanoes (Mauna Loa) are broad with runny basalt. <b>Composite</b> cones (Fuji, Vesuvius) alternate lava and ash and are explosive. <b>Caldera</b> (Krakatoa, Toba) forms when a cone collapses. <b>Flood basalts</b> built the Deccan Traps.</p>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "Intrusive and extrusive forms",
+   "b": "<p>Magma cooling underground makes <b>batholiths</b> (big domes), <b>laccoliths</b> (lens with a flat base), <b>sills</b> (horizontal sheets) and <b>dykes</b> (vertical walls). Dykes are common in the Deccan. Surface forms include cones, lava plateaus and <b>geysers and hot springs</b> from heated ground water.</p><p>Volcano status: active, dormant or extinct.</p>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "Tsunami",
+   "b": "<svg class=\"d\" viewBox=\"0 0 320 120\"><path d=\"M10 70 Q80 70 160 70 L250 70 L310 40 L310 110 L10 110 Z\" fill=\"#dceaec\" stroke=\"#2f6f7a\" stroke-width=\"1.5\"/><text x=\"70\" y=\"60\" fill=\"#a3362a\" font-size=\"10\" text-anchor=\"middle\" font-weight=\"700\">Seabed jolt lifts water</text><text x=\"70\" y=\"92\" fill=\"#5d6474\" font-size=\"10\" text-anchor=\"middle\">Deep sea: fast (700+ km/h), low wave</text><text x=\"240\" y=\"32\" fill=\"#2f6f7a\" font-size=\"10\" text-anchor=\"middle\" font-weight=\"700\">Shore: slows, grows tall</text><line x1=\"70\" y1=\"66\" x2=\"70\" y2=\"76\" stroke=\"#a3362a\" stroke-width=\"2\"/><line x1=\"150\" y1=\"60\" x2=\"200\" y2=\"60\" stroke=\"#2f6f7a\" stroke-width=\"2\"/><text x=\"160\" y=\"104\" fill=\"#5d6474\" font-size=\"10\" text-anchor=\"middle\">Speed falls as depth falls</text></svg><p>A <b>tsunami</b> (Japanese for harbour wave) is a series of waves from a sudden seabed shift, usually from a subduction quake, landslide or eruption. It is hardly seen in deep water. On reaching shallows it slows and rises.</p><p>Hunga Tonga (2022) showed that eruptions can cause them too.</p>"
+  },
+  {
+   "tag": "Indian angle",
+   "h": "India's seismic map and the 2004 tsunami",
+   "b": "<svg class=\"d\" viewBox=\"0 0 320 158\"><rect x=\"10\" y=\"6\" width=\"50\" height=\"26\" rx=\"6\" fill=\"#f1e4c6\" stroke=\"#a8792a\" stroke-width=\"1.5\"/><text x=\"35.0\" y=\"23\" fill=\"#7d5a1c\" font-size=\"11\" text-anchor=\"middle\" font-weight=\"700\">Zone</text><rect x=\"60\" y=\"6\" width=\"80\" height=\"26\" rx=\"6\" fill=\"#f1e4c6\" stroke=\"#a8792a\" stroke-width=\"1.5\"/><text x=\"100.0\" y=\"23\" fill=\"#7d5a1c\" font-size=\"11\" text-anchor=\"middle\" font-weight=\"700\">Risk</text><rect x=\"140\" y=\"6\" width=\"170\" height=\"26\" rx=\"6\" fill=\"#f1e4c6\" stroke=\"#a8792a\" stroke-width=\"1.5\"/><text x=\"225.0\" y=\"23\" fill=\"#7d5a1c\" font-size=\"11\" text-anchor=\"middle\" font-weight=\"700\">Examples</text><rect x=\"10\" y=\"32\" width=\"50\" height=\"30\" rx=\"0\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"35.0\" y=\"51\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\" font-weight=\"700\">V</text><rect x=\"60\" y=\"32\" width=\"80\" height=\"30\" rx=\"0\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"100.0\" y=\"51\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\">Very high</text><rect x=\"140\" y=\"32\" width=\"170\" height=\"30\" rx=\"0\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"225.0\" y=\"51\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\">Kashmir, NE, Kutch</text><rect x=\"10\" y=\"62\" width=\"50\" height=\"30\" rx=\"0\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"35.0\" y=\"81\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\" font-weight=\"700\">IV</text><rect x=\"60\" y=\"62\" width=\"80\" height=\"30\" rx=\"0\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"100.0\" y=\"81\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\">High</text><rect x=\"140\" y=\"62\" width=\"170\" height=\"30\" rx=\"0\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"225.0\" y=\"81\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\">Delhi, Sikkim, Bihar plains</text><rect x=\"10\" y=\"92\" width=\"50\" height=\"30\" rx=\"0\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"35.0\" y=\"111\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\" font-weight=\"700\">III</text><rect x=\"60\" y=\"92\" width=\"80\" height=\"30\" rx=\"0\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"100.0\" y=\"111\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\">Moderate</text><rect x=\"140\" y=\"92\" width=\"170\" height=\"30\" rx=\"0\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"225.0\" y=\"111\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\">Kerala, Mumbai, Chennai</text><rect x=\"10\" y=\"122\" width=\"50\" height=\"30\" rx=\"0\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"35.0\" y=\"141\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\" font-weight=\"700\">II</text><rect x=\"60\" y=\"122\" width=\"80\" height=\"30\" rx=\"0\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"100.0\" y=\"141\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\">Low</text><rect x=\"140\" y=\"122\" width=\"170\" height=\"30\" rx=\"0\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"225.0\" y=\"141\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\">Most of the Deccan</text></svg><p>The BIS map (IS 1893, 2002) has four zones, II to V. About 59% of India's land is quake-prone. Zone V is highest.</p><p>On <b>26 December 2004</b> a magnitude 9.1-9.3 quake off Sumatra sent waves to Tamil Nadu, Andhra, Kerala and the Andaman and Nicobar Islands. India then set up the <b>Indian Tsunami Early Warning Centre</b> at INCOIS, Hyderabad (2007).</p>"
+  },
+  {
+   "tag": "Debate",
+   "h": "Can we predict earthquakes?",
+   "b": "<p>No. Science can give <b>probabilities</b> and hazard maps, not exact times. Early-warning systems exploit the gap between fast P waves and damaging S waves, giving seconds of notice.</p><p>Real risk reduction comes from <b>building codes</b>, retrofitting, land-use rules and drills. After Bhuj (26 January 2001, M7.7) and Nepal (25 April 2015, M7.8) the debate shifted from nature to unsafe construction.</p>"
+  },
+  {
+   "tag": "Exam lens",
+   "cls": "exam",
+   "h": "How to write this",
+   "b": "<div class=\"box\"><h4>Likely questions</h4><p>\"Describe the distribution of volcanoes and earthquakes in the world.\" (10 marks)</p><p>\"Why is the Himalayan region prone to earthquakes? How do they differ from the Peninsular ones?\" (15 marks)</p></div><p><b>Structure:</b> define; give causes; map the Pacific and Alpine belts; add Indian zones; end with mitigation (codes, early warning, drills).</p><p><b>Prelims tip:</b> Richter is logarithmic; Mercalli measures intensity; Barren Island is India's only active volcano; Koyna is the reservoir-induced example.</p>"
+  }
+ ],
+ "quiz": [
+  {
+   "q": "Epicentre is",
+   "o": [
+    "The surface point above the focus",
+    "The point where rock first breaks",
+    "The deepest part of a fault",
+    "The edge of the shadow zone"
+   ],
+   "a": 0,
+   "w": "The focus is the point of rupture underground; the epicentre is directly above it."
+  },
+  {
+   "q": "The Mercalli scale measures",
+   "o": [
+    "Magnitude",
+    "Depth",
+    "Frequency",
+    "Intensity"
+   ],
+   "a": 3,
+   "w": "It rates effects on people and buildings from I to XII."
+  },
+  {
+   "q": "Which belt has most earthquakes?",
+   "o": [
+    "Alpine-Himalayan belt",
+    "Circum-Pacific belt",
+    "Mid-Atlantic ridge",
+    "East African rift"
+   ],
+   "a": 1,
+   "w": "The Pacific Ring of Fire has about 80% of quakes."
+  },
+  {
+   "q": "Koyna 1967 is an example of",
+   "o": [
+    "Volcanic quake",
+    "Reservoir-induced seismicity",
+    "Deep-focus quake",
+    "Tsunami quake"
+   ],
+   "a": 1,
+   "w": "It followed filling of the Koyna dam in Maharashtra."
+  },
+  {
+   "q": "A vertical wall of cooled magma is a",
+   "o": [
+    "Sill",
+    "Laccolith",
+    "Batholith",
+    "Dyke"
+   ],
+   "a": 3,
+   "w": "Sills are horizontal; dykes cut across layers."
+  },
+  {
+   "q": "Which is a composite volcano?",
+   "o": [
+    "Mount Fuji",
+    "Mauna Loa",
+    "Deccan Traps",
+    "Yellowstone caldera"
+   ],
+   "a": 0,
+   "w": "Fuji alternates lava and ash. Mauna Loa is a shield."
+  },
+  {
+   "q": "On the BIS map, the highest seismic zone is",
+   "o": [
+    "III",
+    "IV",
+    "V",
+    "VI"
+   ],
+   "a": 2,
+   "w": "Zone V is the most severe, covering Kashmir, the northeast and Kutch."
+  },
+  {
+   "q": "Indian Tsunami Early Warning Centre is at",
+   "o": [
+    "IMD, Delhi",
+    "NDMA, Delhi",
+    "ISRO, Bengaluru",
+    "INCOIS, Hyderabad"
+   ],
+   "a": 3,
+   "w": "It began in 2007 after the 2004 disaster."
+  },
+  {
+   "q": "Why does a tsunami grow tall near the coast?",
+   "o": [
+    "It slows down in shallow water",
+    "It gains energy from the wind",
+    "Tides push it up",
+    "Salinity increases"
+   ],
+   "a": 0,
+   "w": "Wave energy is squeezed into a smaller depth, so height rises."
+  },
+  {
+   "q": "Bhuj earthquake occurred in",
+   "o": [
+    "1993",
+    "2004",
+    "2001",
+    "2015"
+   ],
+   "a": 2,
+   "w": "26 January 2001. Latur was 1993, Nepal 2015."
+  }
+ ],
+ "sources": [
+  "NCERT Class 11, Fundamentals of Physical Geography, ch. 3",
+  "NDMA, Earthquake guidelines",
+  "PYQ: Himalayan earthquake vulnerability, GS I"
+ ],
+ "verified": "2026-11-10"
+}

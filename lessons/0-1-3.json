@@ -6,7 +6,7 @@
   {
    "tag": "Core idea",
    "h": "A state born from empire",
-   "b": "<p>Western theories of the state were built on European history. They do not fit well in countries that were colonies, like India, Pakistan or Nigeria.</p><p>Post-colonial theory asks: what kind of state did colonialism leave behind, and whom does it serve?</p>"
+   "b": "<p>Western theories of the state were built on European history. They do not fit well in countries that were colonies, like India, Pakistan or Nigeria.</p><p>Post-colonial theory asks: what kind of state did colonialism leave behind, and whom does it serve?</p><p>Many new states were drawn on a colonial map, with borders that cut across older communities. They inherited the colonial army, police and civil service, and often the colonial laws too.</p><p><b>Frantz Fanon</b>, in <i>The Wretched of the Earth</i> (1961), warned that a weak national middle class might simply step into the place of the colonial rulers.</p>"
   },
   {
    "tag": "Key thinker",
@@ -31,12 +31,17 @@
   {
    "tag": "Critique",
    "h": "Limits of the theory",
-   "b": "<ul><li>It can over-generalise. India stayed democratic while Pakistan saw coups; one theory struggles to explain both.</li><li>It can give colonialism too much weight and ignore local agency.</li><li>Developmental states like South Korea show post-colonial states can succeed economically.</li></ul>"
+   "b": "<ul><li>It can over-generalise. India stayed democratic while Pakistan saw coups; one theory struggles to explain both.</li><li>It can give colonialism too much weight and ignore local agency.</li><li>Developmental states like South Korea show post-colonial states can succeed economically.</li></ul><p>Others say the label \"post-colonial\" hides big differences: direct or indirect rule, settler or non-settler colonies, and different nationalist movements. India's Congress was a mass party with deep roots, while in Pakistan the early Muslim League had a weaker organisation, which left more room for the army and civil service (Ayesha Jalal, <i>The State of Martial Rule</i>, 1990).</p>"
   },
   {
    "tag": "Key idea",
    "h": "Other Indian readings of the state",
    "b": "<div class=\"box\"><h4>Pranab Bardhan</h4>In <i>The Political Economy of Development in India</i> (1984), he named three <b>dominant proprietary classes</b>: industrial capitalists, rich farmers and professionals including bureaucrats. They compete for state subsidies, which slows growth.</div><div class=\"box\"><h4>Rajni Kothari</h4>Described the decline of the Congress system and the rise of a more centralised, personalised state from the 1970s.</div><div class=\"box\"><h4>Atul Kohli</h4>In <i>State-Directed Development</i> (2004), he called India a <b>fragmented-multiclass state</b>, less effective than South Korea's cohesive-capitalist state.</div><div class=\"box\"><h4>Sudipta Kaviraj</h4>Read Indian state-building as a passive revolution led by bourgeois and bureaucratic elites.</div>"
+  },
+  {
+   "tag": "At a glance",
+   "h": "Alavi's model in one picture",
+   "b": "<svg class=\"d\" viewBox=\"0 0 320 246\"><defs><marker id=\"p013a\" viewBox=\"0 0 10 10\" refX=\"8\" refY=\"5\" markerWidth=\"7\" markerHeight=\"7\" orient=\"auto\"><path d=\"M0,0 L10,5 L0,10 z\" fill=\"#5d6474\"/></marker></defs><rect x=\"30\" y=\"8\" width=\"260\" height=\"44\" rx=\"8\" fill=\"#f1e4c6\" stroke=\"#a8792a\"/><text x=\"160\" y=\"26\" fill=\"#1d2433\" font-size=\"11\" text-anchor=\"middle\">Colonial rulers build a strong</text><text x=\"160\" y=\"42\" fill=\"#1d2433\" font-size=\"11\" text-anchor=\"middle\">military-bureaucratic machine</text><line x1=\"160\" y1=\"53\" x2=\"160\" y2=\"67\" stroke=\"#5d6474\" stroke-width=\"2\" marker-end=\"url(#p013a)\"/><rect x=\"30\" y=\"70\" width=\"260\" height=\"44\" rx=\"8\" fill=\"#dceaec\" stroke=\"#2f6f7a\"/><text x=\"160\" y=\"88\" fill=\"#1d2433\" font-size=\"11\" text-anchor=\"middle\">Independence: the machine stays,</text><text x=\"160\" y=\"104\" fill=\"#1d2433\" font-size=\"11\" text-anchor=\"middle\">local classes are weak</text><line x1=\"160\" y1=\"115\" x2=\"160\" y2=\"129\" stroke=\"#5d6474\" stroke-width=\"2\" marker-end=\"url(#p013a)\"/><rect x=\"30\" y=\"132\" width=\"260\" height=\"44\" rx=\"8\" fill=\"#dceaec\" stroke=\"#2f6f7a\"/><text x=\"160\" y=\"150\" fill=\"#1d2433\" font-size=\"11\" text-anchor=\"middle\">Three classes compete: foreign capital,</text><text x=\"160\" y=\"166\" fill=\"#1d2433\" font-size=\"11\" text-anchor=\"middle\">local capital and landlords</text><line x1=\"160\" y1=\"177\" x2=\"160\" y2=\"191\" stroke=\"#5d6474\" stroke-width=\"2\" marker-end=\"url(#p013a)\"/><rect x=\"30\" y=\"194\" width=\"260\" height=\"44\" rx=\"8\" fill=\"#f4dcd5\" stroke=\"#a3362a\"/><text x=\"160\" y=\"212\" fill=\"#1d2433\" font-size=\"11\" text-anchor=\"middle\">The military-bureaucratic oligarchy</text><text x=\"160\" y=\"228\" fill=\"#1d2433\" font-size=\"11\" text-anchor=\"middle\">mediates and gains autonomy</text></svg><p>Read the arrows as a chain. The state is \"overdeveloped\" because its machinery is larger than the weak social classes that are supposed to control it.</p>"
   },
   {
    "tag": "Indian angle",

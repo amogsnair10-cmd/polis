@@ -1,0 +1,181 @@
+{
+ "id": "0-0-0",
+ "title": "Earth's Interior, Rocks and Plate Tectonics",
+ "emoji": "🌍",
+ "cards": [
+  {
+   "tag": "Why this matters",
+   "h": "One theory explains quakes, mountains and oceans",
+   "b": "<p>Almost every physical-geography question in GS I leads back to <b>plate tectonics</b>. Earthquakes, volcanoes, fold mountains, ocean trenches and even the shape of India all follow from it.</p><p>To answer well you need three things: what is inside the Earth, how we know, and how plates move. We take them in that order.</p>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "The layered Earth",
+   "b": "<svg class=\"d\" viewBox=\"0 0 320 250\"><circle cx=\"160\" cy=\"125\" r=\"115\" fill=\"#f4dcd5\" stroke=\"#a3362a\" stroke-width=\"1.5\"/><circle cx=\"160\" cy=\"125\" r=\"100\" fill=\"#f1e4c6\" stroke=\"#a8792a\" stroke-width=\"1.5\"/><circle cx=\"160\" cy=\"125\" r=\"62\" fill=\"#fff3d6\" stroke=\"#a8792a\" stroke-width=\"1.5\"/><circle cx=\"160\" cy=\"125\" r=\"28\" fill=\"#f4dcd5\" stroke=\"#a3362a\" stroke-width=\"1.5\"/><text x=\"160\" y=\"20\" fill=\"#a3362a\" font-size=\"10\" text-anchor=\"middle\" font-weight=\"700\">Crust 5-70 km</text><text x=\"160\" y=\"48\" fill=\"#7d5a1c\" font-size=\"11\" text-anchor=\"middle\" font-weight=\"700\">Mantle to 2,900 km</text><text x=\"160\" y=\"95\" fill=\"#7d5a1c\" font-size=\"10\" text-anchor=\"middle\" font-weight=\"700\">Outer core (liquid)</text><text x=\"160\" y=\"115\" fill=\"#5d6474\" font-size=\"10\" text-anchor=\"middle\">to 5,150 km</text><text x=\"160\" y=\"129\" fill=\"#a3362a\" font-size=\"10\" text-anchor=\"middle\" font-weight=\"700\">Inner</text><text x=\"160\" y=\"141\" fill=\"#a3362a\" font-size=\"10\" text-anchor=\"middle\" font-weight=\"700\">core</text><text x=\"160\" y=\"245\" fill=\"#5d6474\" font-size=\"10\" text-anchor=\"middle\">Centre is at 6,371 km. Crust is under 1% of volume.</text></svg><p>We cannot drill beyond about 12 km. So scientists use indirect evidence: <b>seismic waves</b>, meteorites, gravity, magnetism and density. Crust is thin under oceans (about 5 km, basalt, called sima) and thick under continents (about 30 km, granite, called sial).</p>"
+  },
+  {
+   "tag": "Evidence",
+   "h": "Discontinuities: where the layers change",
+   "b": "<svg class=\"d\" viewBox=\"0 0 320 174\"><rect x=\"10\" y=\"6\" width=\"90\" height=\"36\" rx=\"6\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"55.0\" y=\"28.0\" fill=\"#1d2433\" font-size=\"11\" text-anchor=\"middle\" font-weight=\"700\">Conrad</text><rect x=\"106\" y=\"6\" width=\"204\" height=\"36\" rx=\"6\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"208.0\" y=\"28.0\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\">Upper and lower continental crust</text><rect x=\"10\" y=\"48\" width=\"90\" height=\"36\" rx=\"6\" fill=\"#f1e4c6\" stroke=\"#a8792a\" stroke-width=\"1.5\"/><text x=\"55.0\" y=\"70.0\" fill=\"#7d5a1c\" font-size=\"11\" text-anchor=\"middle\" font-weight=\"700\">Moho</text><rect x=\"106\" y=\"48\" width=\"204\" height=\"36\" rx=\"6\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"208.0\" y=\"70.0\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\">Crust and mantle (Mohorovicic, 1909)</text><rect x=\"10\" y=\"90\" width=\"90\" height=\"36\" rx=\"6\" fill=\"#dceaec\" stroke=\"#2f6f7a\" stroke-width=\"1.5\"/><text x=\"55.0\" y=\"112.0\" fill=\"#2f6f7a\" font-size=\"11\" text-anchor=\"middle\" font-weight=\"700\">Gutenberg</text><rect x=\"106\" y=\"90\" width=\"204\" height=\"36\" rx=\"6\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"208.0\" y=\"112.0\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\">Mantle and outer core, 2,900 km</text><rect x=\"10\" y=\"132\" width=\"90\" height=\"36\" rx=\"6\" fill=\"#f4dcd5\" stroke=\"#a3362a\" stroke-width=\"1.5\"/><text x=\"55.0\" y=\"154.0\" fill=\"#a3362a\" font-size=\"11\" text-anchor=\"middle\" font-weight=\"700\">Lehmann</text><rect x=\"106\" y=\"132\" width=\"204\" height=\"36\" rx=\"6\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"208.0\" y=\"154.0\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\">Outer and inner core, 5,150 km</text></svg><p>A <b>discontinuity</b> is a boundary where seismic waves change speed or direction. The Moho was found in 1909 by the Croatian seismologist Andrija Mohorovicic. Know the pairs above: Moho, Gutenberg, Lehmann.</p>"
+  },
+  {
+   "tag": "Evidence",
+   "h": "Seismic waves and the liquid core",
+   "b": "<svg class=\"d\" viewBox=\"0 0 320 150\"><rect x=\"10\" y=\"10\" width=\"145\" height=\"56\" rx=\"6\" fill=\"#f1e4c6\" stroke=\"#a8792a\" stroke-width=\"1.5\"/><text x=\"82\" y=\"34\" fill=\"#7d5a1c\" font-size=\"12\" text-anchor=\"middle\" font-weight=\"700\">P waves</text><text x=\"82\" y=\"52\" fill=\"#5d6474\" font-size=\"10\" text-anchor=\"middle\">Pass through all media</text><rect x=\"165\" y=\"10\" width=\"145\" height=\"56\" rx=\"6\" fill=\"#f4dcd5\" stroke=\"#a3362a\" stroke-width=\"1.5\"/><text x=\"237\" y=\"34\" fill=\"#a3362a\" font-size=\"12\" text-anchor=\"middle\" font-weight=\"700\">S waves</text><text x=\"237\" y=\"52\" fill=\"#5d6474\" font-size=\"10\" text-anchor=\"middle\">Solids only, stop at core</text><rect x=\"10\" y=\"76\" width=\"300\" height=\"64\" rx=\"6\" fill=\"#dceaec\" stroke=\"#2f6f7a\" stroke-width=\"1.5\"/><text x=\"160\" y=\"98\" fill=\"#2f6f7a\" font-size=\"12\" text-anchor=\"middle\" font-weight=\"700\">Shadow zones</text><text x=\"160\" y=\"114\" fill=\"#5d6474\" font-size=\"10\" text-anchor=\"middle\">P: absent between 105 and 145 degrees from the quake</text><text x=\"160\" y=\"129\" fill=\"#5d6474\" font-size=\"10\" text-anchor=\"middle\">S: absent beyond 105 degrees (the whole far side)</text></svg><p><b>P waves</b> are primary, fast and longitudinal. <b>S waves</b> are secondary and transverse, and cannot pass through liquid. <b>L waves</b> travel on the surface and do the most damage.</p><p>S waves vanish at the core. This proved the outer core is liquid.</p>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "Three rock families",
+   "b": "<p><b>Igneous</b> rocks form from cooled magma. Intrusive ones such as granite cool slowly; extrusive ones such as basalt cool fast.</p><p><b>Sedimentary</b> rocks form from compacted sediments, often with fossils and layers, e.g. sandstone and limestone. <b>Metamorphic</b> rocks are changed by heat or pressure, e.g. marble from limestone and slate from shale.</p><svg class=\"d\" viewBox=\"0 0 320 198\"><rect x=\"10\" y=\"6\" width=\"300\" height=\"38\" rx=\"6\" fill=\"#f4dcd5\" stroke=\"#a3362a\" stroke-width=\"1.5\"/><text x=\"160\" y=\"23\" fill=\"#a3362a\" font-size=\"12\" text-anchor=\"middle\" font-weight=\"700\">Magma / lava</text><text x=\"160\" y=\"38\" fill=\"#5d6474\" font-size=\"10\" text-anchor=\"middle\">Cools and hardens</text><text x=\"160\" y=\"53\" fill=\"#5d6474\" font-size=\"10\" text-anchor=\"middle\">&#9660;</text><rect x=\"10\" y=\"54\" width=\"300\" height=\"38\" rx=\"6\" fill=\"#f1e4c6\" stroke=\"#a8792a\" stroke-width=\"1.5\"/><text x=\"160\" y=\"71\" fill=\"#7d5a1c\" font-size=\"12\" text-anchor=\"middle\" font-weight=\"700\">Igneous rock</text><text x=\"160\" y=\"86\" fill=\"#5d6474\" font-size=\"10\" text-anchor=\"middle\">Weathering and erosion</text><text x=\"160\" y=\"101\" fill=\"#5d6474\" font-size=\"10\" text-anchor=\"middle\">&#9660;</text><rect x=\"10\" y=\"102\" width=\"300\" height=\"38\" rx=\"6\" fill=\"#dceaec\" stroke=\"#2f6f7a\" stroke-width=\"1.5\"/><text x=\"160\" y=\"119\" fill=\"#2f6f7a\" font-size=\"12\" text-anchor=\"middle\" font-weight=\"700\">Sediment, then sedimentary rock</text><text x=\"160\" y=\"134\" fill=\"#5d6474\" font-size=\"10\" text-anchor=\"middle\">Heat and pressure</text><text x=\"160\" y=\"149\" fill=\"#5d6474\" font-size=\"10\" text-anchor=\"middle\">&#9660;</text><rect x=\"10\" y=\"150\" width=\"300\" height=\"38\" rx=\"6\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"160\" y=\"167\" fill=\"#1d2433\" font-size=\"12\" text-anchor=\"middle\" font-weight=\"700\">Metamorphic rock</text><text x=\"160\" y=\"182\" fill=\"#5d6474\" font-size=\"10\" text-anchor=\"middle\">Melting returns it to magma</text><text x=\"160\" y=\"197\" fill=\"#5d6474\" font-size=\"10\" text-anchor=\"middle\">&#9660;</text></svg>"
+  },
+  {
+   "tag": "Key idea",
+   "h": "Wegener and continental drift, 1912",
+   "b": "<p><b>Alfred Wegener</b> proposed in 1912, and published in 1915, that all land once formed one supercontinent, <b>Pangaea</b>, in the ocean Panthalassa. It broke up about 200 million years ago.</p><p>His evidence: the jigsaw fit of Africa and South America, matching rocks and fossils (Mesosaurus, Glossopteris), and glacial deposits across southern continents.</p><p>His weakness: he could not explain the force that moved continents. Geologists rejected him.</p>"
+  },
+  {
+   "tag": "Key idea",
+   "h": "Sea-floor spreading",
+   "b": "<p>In the early 1960s <b>Harry Hess</b> argued that new crust forms at mid-ocean ridges and spreads outward. Old crust sinks at trenches.</p><p><b>Vine and Matthews (1963)</b> found symmetrical magnetic stripes on either side of a ridge, recording reversals of Earth's field. Ocean floor is young: nowhere older than about 180 million years. Continents hold rocks over 4 billion years old.</p>"
+  },
+  {
+   "tag": "Key idea",
+   "h": "Plate tectonics, late 1960s",
+   "b": "<p>The theory was assembled by McKenzie, Parker and Morgan (1967-68). The lithosphere (crust plus top mantle) is broken into <b>7 major plates</b> (Pacific, North American, South American, Eurasian, African, Indo-Australian, Antarctic) and many minor ones.</p><p>Plates float on the soft <b>asthenosphere</b>.</p><svg class=\"d\" viewBox=\"0 0 320 144\"><rect x=\"10\" y=\"6\" width=\"85\" height=\"40\" rx=\"6\" fill=\"#dceaec\" stroke=\"#2f6f7a\" stroke-width=\"1.5\"/><text x=\"52.5\" y=\"30.0\" fill=\"#2f6f7a\" font-size=\"11\" text-anchor=\"middle\" font-weight=\"700\">Divergent</text><rect x=\"101\" y=\"6\" width=\"209\" height=\"40\" rx=\"6\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"205.5\" y=\"30.0\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\">Plates move apart. Ridges, rift valleys, new crust.</text><rect x=\"10\" y=\"52\" width=\"85\" height=\"40\" rx=\"6\" fill=\"#f4dcd5\" stroke=\"#a3362a\" stroke-width=\"1.5\"/><text x=\"52.5\" y=\"76.0\" fill=\"#a3362a\" font-size=\"11\" text-anchor=\"middle\" font-weight=\"700\">Convergent</text><rect x=\"101\" y=\"52\" width=\"209\" height=\"40\" rx=\"6\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"205.5\" y=\"76.0\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\">Plates collide. Trenches, fold mountains, volcanoes.</text><rect x=\"10\" y=\"98\" width=\"85\" height=\"40\" rx=\"6\" fill=\"#f1e4c6\" stroke=\"#a8792a\" stroke-width=\"1.5\"/><text x=\"52.5\" y=\"122.0\" fill=\"#7d5a1c\" font-size=\"11\" text-anchor=\"middle\" font-weight=\"700\">Transform</text><rect x=\"101\" y=\"98\" width=\"209\" height=\"40\" rx=\"6\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"205.5\" y=\"122.0\" fill=\"#1d2433\" font-size=\"10\" text-anchor=\"middle\">Plates slide past. No crust made or lost. San Andreas.</text></svg>"
+  },
+  {
+   "tag": "Debate",
+   "h": "What drives the plates?",
+   "b": "<p>Three ideas compete and probably work together: <b>mantle convection</b> (hot rock rising, cold sinking), <b>slab pull</b> (a heavy sinking plate drags the rest, thought to be strongest) and <b>ridge push</b>.</p><p><b>Hotspots</b> are fixed plumes in the mantle. Plates drift over them and leave volcanic chains, e.g. Hawaii. Critics note that the plume idea is still debated, and that the exact driving force is not fully settled.</p>"
+  },
+  {
+   "tag": "Indian angle",
+   "h": "India as a travelling plate",
+   "b": "<p>The Indian plate split from Gondwana and moved north at up to 15-20 cm a year before colliding with Eurasia about 50 million years ago. It still pushes at about 5 cm a year. This built the <b>Himalaya</b>, which is why they still rise and shake.</p><p>Passing over the <b>Reunion hotspot</b>, India erupted the <b>Deccan Traps</b> about 66 million years ago. Subduction under Myanmar causes the Andaman volcanoes, including Barren Island, India's only active volcano.</p>"
+  },
+  {
+   "tag": "Exam lens",
+   "cls": "exam",
+   "h": "How to write this",
+   "b": "<div class=\"box\"><h4>Likely questions</h4><p>\"Discuss the theory of plate tectonics and its role in explaining earthquakes and volcanoes.\" (15 marks)</p><p>\"How did the Himalaya form?\" (10 marks)</p></div><p><b>Structure:</b> start with Wegener and Hess as the roots; give the plate idea; draw the three boundaries; link each to landforms; end with India's collision zone.</p><p><b>Prelims tip:</b> know which waves cannot pass through liquid (S), the depth of the Gutenberg discontinuity, and that the Indo-Australian plate is a single major plate in the usual list.</p>"
+  }
+ ],
+ "quiz": [
+  {
+   "q": "Which seismic waves cannot travel through liquids?",
+   "o": [
+    "P waves",
+    "L waves",
+    "S waves",
+    "Both P and S waves"
+   ],
+   "a": 2,
+   "w": "S waves are transverse and need a solid, so they stop at the liquid outer core."
+  },
+  {
+   "q": "The Gutenberg discontinuity separates the",
+   "o": [
+    "Mantle and outer core",
+    "Crust and mantle",
+    "Outer core and inner core",
+    "Upper and lower crust"
+   ],
+   "a": 0,
+   "w": "It lies at about 2,900 km. The Moho is crust-mantle; Lehmann is outer-inner core."
+  },
+  {
+   "q": "Who proposed continental drift?",
+   "o": [
+    "Harry Hess",
+    "Arthur Holmes",
+    "Fred Vine",
+    "Alfred Wegener"
+   ],
+   "a": 3,
+   "w": "Wegener, 1912; Hess later gave sea-floor spreading."
+  },
+  {
+   "q": "Magnetic stripes on the ocean floor support",
+   "o": [
+    "Continental drift by tides",
+    "Sea-floor spreading",
+    "Isostasy",
+    "Glacial erosion"
+   ],
+   "a": 1,
+   "w": "Vine and Matthews (1963) read the stripes as a record of spreading and field reversals."
+  },
+  {
+   "q": "Which is a metamorphic rock?",
+   "o": [
+    "Granite",
+    "Marble",
+    "Sandstone",
+    "Basalt"
+   ],
+   "a": 1,
+   "w": "Marble is changed limestone. Granite and basalt are igneous; sandstone is sedimentary."
+  },
+  {
+   "q": "The oldest ocean floor is about",
+   "o": [
+    "4 billion years old",
+    "1 billion years old",
+    "500 million years old",
+    "180 million years old"
+   ],
+   "a": 3,
+   "w": "Old oceanic crust is destroyed at trenches, so it is young."
+  },
+  {
+   "q": "Which is the only active volcano in India?",
+   "o": [
+    "Barren Island",
+    "Narcondam",
+    "Mount Abu",
+    "Dhinodhar"
+   ],
+   "a": 0,
+   "w": "Barren Island in the Andamans is active. Narcondam is dormant."
+  },
+  {
+   "q": "The Deccan Traps are linked to the",
+   "o": [
+    "Hawaiian hotspot",
+    "Yellowstone hotspot",
+    "Reunion hotspot",
+    "Iceland hotspot"
+   ],
+   "a": 2,
+   "w": "India passed over the Reunion plume about 66 million years ago."
+  },
+  {
+   "q": "A transform boundary",
+   "o": [
+    "Creates new crust",
+    "Destroys old crust",
+    "Forms fold mountains",
+    "Has plates sliding past each other"
+   ],
+   "a": 3,
+   "w": "Crust is neither made nor lost. The San Andreas fault is the classic case."
+  },
+  {
+   "q": "Shadow zone of P waves lies between",
+   "o": [
+    "105 and 145 degrees",
+    "0 and 105 degrees",
+    "145 and 180 degrees",
+    "90 and 120 degrees"
+   ],
+   "a": 0,
+   "w": "P waves bend at the core and leave this zone without direct arrivals."
+  }
+ ],
+ "sources": [
+  "NCERT Class 11, Fundamentals of Physical Geography, ch. 2-4",
+  "G.C. Leong, Certificate Physical and Human Geography",
+  "PYQ: plate tectonics and Himalaya formation, GS I"
+ ],
+ "verified": "2026-11-10"
+}
