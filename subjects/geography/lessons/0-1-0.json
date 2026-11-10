@@ -1,0 +1,176 @@
+{
+ "id": "0-1-0",
+ "title": "Atmosphere, Insolation and Heat Budget",
+ "emoji": "☀️",
+ "cards": [
+  {
+   "tag": "Why this matters",
+   "h": "Climate begins with the sun",
+   "b": "<p>Monsoon, deserts, cyclones and global warming all start with one question: how much solar energy reaches a place, and where does it go? The <b>heat budget</b> is the answer and a UPSC favourite.</p>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "What air is made of",
+   "b": "<p>Dry air by volume: <b>nitrogen 78%</b>, <b>oxygen 21%</b>, argon 0.93%, carbon dioxide about 0.04% (over 420 ppm as of the mid-2020s, rising). Water vapour varies from 0 to 4%. Dust, salt and pollen act as <b>hygroscopic nuclei</b> for cloud formation.</p><p>Gases are held by gravity. About 99% of air lies within 32 km of the ground.</p>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "Layers of the atmosphere",
+   "b": "<svg class=\"d\" viewBox=\"0 0 320 216\"><rect x=\"10\" y=\"6\" width=\"300\" height=\"38\" rx=\"6\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"160\" y=\"23\" fill=\"#1d2433\" font-size=\"12\" text-anchor=\"middle\" font-weight=\"700\">Exosphere</text><text x=\"160\" y=\"38\" fill=\"#5d6474\" font-size=\"10\" text-anchor=\"middle\">Above about 600 km, merges into space</text><rect x=\"10\" y=\"48\" width=\"300\" height=\"38\" rx=\"6\" fill=\"#f1e4c6\" stroke=\"#a8792a\" stroke-width=\"1.5\"/><text x=\"160\" y=\"65\" fill=\"#7d5a1c\" font-size=\"12\" text-anchor=\"middle\" font-weight=\"700\">Thermosphere</text><text x=\"160\" y=\"80\" fill=\"#5d6474\" font-size=\"10\" text-anchor=\"middle\">80 to 600 km, ionosphere, aurora, radio waves</text><rect x=\"10\" y=\"90\" width=\"300\" height=\"38\" rx=\"6\" fill=\"#dceaec\" stroke=\"#2f6f7a\" stroke-width=\"1.5\"/><text x=\"160\" y=\"107\" fill=\"#2f6f7a\" font-size=\"12\" text-anchor=\"middle\" font-weight=\"700\">Mesosphere</text><text x=\"160\" y=\"122\" fill=\"#5d6474\" font-size=\"10\" text-anchor=\"middle\">50 to 80 km, coldest (about -90 C), meteors burn</text><rect x=\"10\" y=\"132\" width=\"300\" height=\"38\" rx=\"6\" fill=\"#f1e4c6\" stroke=\"#a8792a\" stroke-width=\"1.5\"/><text x=\"160\" y=\"149\" fill=\"#7d5a1c\" font-size=\"12\" text-anchor=\"middle\" font-weight=\"700\">Stratosphere</text><text x=\"160\" y=\"164\" fill=\"#5d6474\" font-size=\"10\" text-anchor=\"middle\">Up to 50 km, ozone layer, jets fly here</text><rect x=\"10\" y=\"174\" width=\"300\" height=\"38\" rx=\"6\" fill=\"#f4dcd5\" stroke=\"#a3362a\" stroke-width=\"1.5\"/><text x=\"160\" y=\"191\" fill=\"#a3362a\" font-size=\"12\" text-anchor=\"middle\" font-weight=\"700\">Troposphere</text><text x=\"160\" y=\"206\" fill=\"#5d6474\" font-size=\"10\" text-anchor=\"middle\">0 to about 12 km, weather, 75% of air mass</text></svg><p>Boundaries are called <b>pauses</b>: tropopause, stratopause and so on. The tropopause is higher at the equator (about 18 km) than at the poles (about 8 km). Weather happens only in the troposphere. The ozone layer sits at 15 to 35 km.</p>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "Insolation: what controls it",
+   "b": "<p><b>Insolation</b> is incoming solar radiation, mostly short-wave. It depends on: the <b>angle of rays</b> (equator gets near-vertical rays), <b>length of day</b>, the <b>transparency</b> of air (clouds, dust), and the Sun-Earth distance.</p><p>Earth is nearest the Sun (<b>perihelion</b>) in early January and farthest (<b>aphelion</b>) in early July. Season, not distance, makes summer and winter, because Earth's axis is tilted by 23.5 degrees.</p>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "The heat budget",
+   "b": "<svg class=\"d\" viewBox=\"0 0 320 235\"><rect x=\"10\" y=\"6\" width=\"300\" height=\"34\" rx=\"6\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"160\" y=\"28\" fill=\"#1d2433\" font-size=\"12\" text-anchor=\"middle\" font-weight=\"700\">Incoming sunlight = 100 units</text><rect x=\"10\" y=\"48\" width=\"95\" height=\"50\" rx=\"6\" fill=\"#f1e4c6\" stroke=\"#a8792a\" stroke-width=\"1.5\"/><text x=\"57\" y=\"68\" fill=\"#7d5a1c\" font-size=\"11\" text-anchor=\"middle\" font-weight=\"700\">35 reflected</text><text x=\"57\" y=\"84\" fill=\"#5d6474\" font-size=\"10\" text-anchor=\"middle\">albedo about 0.3</text><rect x=\"112\" y=\"48\" width=\"95\" height=\"50\" rx=\"6\" fill=\"#dceaec\" stroke=\"#2f6f7a\" stroke-width=\"1.5\"/><text x=\"160\" y=\"68\" fill=\"#2f6f7a\" font-size=\"11\" text-anchor=\"middle\" font-weight=\"700\">14 absorbed</text><text x=\"160\" y=\"84\" fill=\"#5d6474\" font-size=\"10\" text-anchor=\"middle\">by atmosphere</text><rect x=\"214\" y=\"48\" width=\"96\" height=\"50\" rx=\"6\" fill=\"#f4dcd5\" stroke=\"#a3362a\" stroke-width=\"1.5\"/><text x=\"262\" y=\"68\" fill=\"#a3362a\" font-size=\"11\" text-anchor=\"middle\" font-weight=\"700\">51 absorbed</text><text x=\"262\" y=\"84\" fill=\"#5d6474\" font-size=\"10\" text-anchor=\"middle\">by the surface</text><rect x=\"10\" y=\"108\" width=\"300\" height=\"34\" rx=\"6\" fill=\"#f3f1ec\" stroke=\"#c9c2b6\" stroke-width=\"1.5\"/><text x=\"160\" y=\"130\" fill=\"#1d2433\" font-size=\"11\" text-anchor=\"middle\" font-weight=\"700\">Earth returns 51 as long-wave heat radiation</text><rect x=\"10\" y=\"150\" width=\"95\" height=\"50\" rx=\"6\" fill=\"#f1e4c6\" stroke=\"#a8792a\" stroke-width=\"1.5\"/><text x=\"57\" y=\"170\" fill=\"#7d5a1c\" font-size=\"11\" text-anchor=\"middle\" font-weight=\"700\">17 to space</text><text x=\"57\" y=\"186\" fill=\"#5d6474\" font-size=\"10\" text-anchor=\"middle\">directly</text><rect x=\"112\" y=\"150\" width=\"198\" height=\"50\" rx=\"6\" fill=\"#dceaec\" stroke=\"#2f6f7a\" stroke-width=\"1.5\"/><text x=\"211\" y=\"170\" fill=\"#2f6f7a\" font-size=\"11\" text-anchor=\"middle\" font-weight=\"700\">34 absorbed by the atmosphere</text><text x=\"211\" y=\"186\" fill=\"#5d6474\" font-size=\"10\" text-anchor=\"middle\">greenhouse gases, latent heat, convection</text><text x=\"160\" y=\"222\" fill=\"#5d6474\" font-size=\"10\" text-anchor=\"middle\">Atmosphere radiates 48 (14 + 34). 35 + 17 + 48 = 100. Balanced.</text></svg><p>Earth neither heats up nor cools down overall, so incoming and outgoing energy balance. Greenhouse gases keep the average surface near 15 C instead of about -18 C.</p>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "How heat moves",
+   "b": "<p><b>Conduction</b>: contact, mostly at the ground. <b>Convection</b>: vertical air currents. <b>Advection</b>: horizontal movement, which is more important in weather, e.g. the hot dry <b>Loo</b> of north India. <b>Latent heat</b>: heat released when vapour condenses, which fuels cyclones.</p>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "Lapse rate and inversion",
+   "b": "<svg class=\"d\" viewBox=\"0 0 320 130\"><path d=\"M10 20 L310 20\" stroke=\"#5d6474\" stroke-dasharray=\"4 3\"/><rect x=\"10\" y=\"22\" width=\"300\" height=\"30\" rx=\"6\" fill=\"#f4dcd5\" stroke=\"#a3362a\" stroke-width=\"1.5\"/><text x=\"160\" y=\"42\" fill=\"#a3362a\" font-size=\"11\" text-anchor=\"middle\" font-weight=\"700\">Warm air above (inversion lid)</text><rect x=\"10\" y=\"56\" width=\"300\" height=\"30\" rx=\"6\" fill=\"#dceaec\" stroke=\"#2f6f7a\" stroke-width=\"1.5\"/><text x=\"160\" y=\"76\" fill=\"#2f6f7a\" font-size=\"11\" text-anchor=\"middle\" font-weight=\"700\">Cold, dense air trapped near ground</text><text x=\"160\" y=\"106\" fill=\"#5d6474\" font-size=\"10\" text-anchor=\"middle\">Fog and smog stay low. Normal pattern: air cools 6.5 C per km.</text><text x=\"160\" y=\"120\" fill=\"#5d6474\" font-size=\"10\" text-anchor=\"middle\">Inversion: temperature rises with height.</text></svg><p>Inversions form on long, clear, calm winter nights with snow cover. They trap smoke in valleys. Mountain-side inversions favour <b>orchards</b> mid-slope because cold air drains downhill.</p>"
+  },
+  {
+   "tag": "Debate",
+   "h": "Greenhouse effect: natural versus enhanced",
+   "b": "<p>The natural effect is useful. Human burning of fossil fuels adds CO2 and methane, thickening the blanket. The Paris Agreement (2015) aims to hold warming well below 2 C and pursue 1.5 C. Critics note that India, with low per capita emissions, argues for <b>common but differentiated responsibilities</b>.</p><p>Ozone depletion is a separate problem: the <b>Montreal Protocol (1987)</b> phases out CFCs; the Kigali Amendment (2016) phases down HFCs.</p>"
+  },
+  {
+   "tag": "Indian angle",
+   "h": "Indian examples",
+   "b": "<p>The <b>Tropic of Cancer</b> passes through eight states (Gujarat, Rajasthan, Madhya Pradesh, Chhattisgarh, Jharkhand, West Bengal, Tripura, Mizoram). The Loo, pre-monsoon heat waves (IMD flags them above 40 C in plains) and <b>Delhi winter smog</b> from inversions and stubble burning all follow from this lesson.</p><p>The Indo-Gangetic Plain is one of the world's most polluted air basins.</p>"
+  },
+  {
+   "tag": "Exam lens",
+   "cls": "exam",
+   "h": "How to write this",
+   "b": "<div class=\"box\"><h4>Likely questions</h4><p>\"Explain the heat budget of the Earth.\" (10 marks)</p><p>\"What is temperature inversion? Discuss its effects.\" (10 marks)</p></div><p><b>Structure:</b> define; draw the 100-unit diagram; explain the balance; link to greenhouse warming; give an Indian example.</p><p><b>Prelims tip:</b> ozone is in the stratosphere; the ionosphere reflects radio waves; the tropopause is highest at the equator; albedo is 35%.</p>"
+  }
+ ],
+ "quiz": [
+  {
+   "q": "Most weather occurs in the",
+   "o": [
+    "Stratosphere",
+    "Mesosphere",
+    "Troposphere",
+    "Thermosphere"
+   ],
+   "a": 2,
+   "w": "It holds nearly all water vapour and clouds."
+  },
+  {
+   "q": "The ozone layer lies in the",
+   "o": [
+    "Stratosphere",
+    "Troposphere",
+    "Mesosphere",
+    "Exosphere"
+   ],
+   "a": 0,
+   "w": "Roughly 15 to 35 km up."
+  },
+  {
+   "q": "Earth's albedo in the heat budget is about",
+   "o": [
+    "14 per cent",
+    "51 per cent",
+    "17 per cent",
+    "35 per cent"
+   ],
+   "a": 3,
+   "w": "35 of 100 units are reflected by clouds, scattering and ice."
+  },
+  {
+   "q": "Earth is at aphelion in",
+   "o": [
+    "Early January",
+    "Early July",
+    "Late March",
+    "Late September"
+   ],
+   "a": 1,
+   "w": "The Sun is farthest in July, yet it is northern summer. Tilt matters more than distance."
+  },
+  {
+   "q": "Horizontal movement of heat in the air is",
+   "o": [
+    "Conduction",
+    "Advection",
+    "Convection",
+    "Radiation"
+   ],
+   "a": 1,
+   "w": "Loo and sea breeze are advection."
+  },
+  {
+   "q": "Temperature inversion means",
+   "o": [
+    "Temperature falls 6.5 C per km",
+    "Air pressure rises with height",
+    "Winds blow upward",
+    "Temperature rises with height"
+   ],
+   "a": 3,
+   "w": "A warm layer sits over cold air near the ground."
+  },
+  {
+   "q": "The Montreal Protocol (1987) targets",
+   "o": [
+    "CFCs",
+    "Methane",
+    "Carbon dioxide",
+    "Nitrogen oxides"
+   ],
+   "a": 0,
+   "w": "It controls ozone-depleting substances."
+  },
+  {
+   "q": "Which state is NOT crossed by the Tropic of Cancer?",
+   "o": [
+    "Gujarat",
+    "Tripura",
+    "Odisha",
+    "Jharkhand"
+   ],
+   "a": 2,
+   "w": "The line crosses eight states, not Odisha."
+  },
+  {
+   "q": "Which gas forms the largest share of dry air?",
+   "o": [
+    "Oxygen",
+    "Argon",
+    "Carbon dioxide",
+    "Nitrogen"
+   ],
+   "a": 3,
+   "w": "About 78%."
+  },
+  {
+   "q": "Coldest layer of the atmosphere is the",
+   "o": [
+    "Mesosphere",
+    "Troposphere",
+    "Thermosphere",
+    "Stratosphere"
+   ],
+   "a": 0,
+   "w": "It reaches about -90 C near its top."
+  }
+ ],
+ "sources": [
+  "NCERT Class 11, Fundamentals of Physical Geography, ch. 8-9",
+  "G.C. Leong, Certificate Physical and Human Geography",
+  "PYQ: heat budget and inversion, GS I"
+ ],
+ "verified": "2026-11-10"
+}

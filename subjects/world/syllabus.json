@@ -1,0 +1,203 @@
+[
+ {
+  "p": "Act I",
+  "t": "Before History",
+  "units": [
+   [
+    "Deep time",
+    [
+     "The Big Bang to a Living Planet",
+     "Out of Africa: How Humans Spread Everywhere",
+     "The Cognitive Revolution and Cave Art"
+    ],
+    1
+   ],
+   [
+    "The great turn",
+    [
+     "The Agricultural Revolution: Best or Worst Idea Ever?",
+     "Göbekli Tepe and the First Monuments"
+    ],
+    1
+   ]
+  ]
+ },
+ {
+  "p": "Act II",
+  "t": "The First Civilisations",
+  "units": [
+   [
+    "River kingdoms",
+    [
+     "Sumer: Writing, Cities and the First Laws",
+     "Egypt: Pharaohs, Pyramids and the Afterlife",
+     "Shang and Zhou China: Oracle Bones and the Mandate of Heaven"
+    ],
+    1
+   ],
+   [
+    "Bronze Age world",
+    [
+     "The Bronze Age Collapse of 1177 BCE",
+     "The Phoenicians and the Alphabet"
+    ],
+    0
+   ]
+  ]
+ },
+ {
+  "p": "Act III",
+  "t": "The Classical World",
+  "units": [
+   [
+    "Empires of the Axial Age",
+    [
+     "Persia: The First World Empire",
+     "The Axial Age: Buddha, Confucius, Socrates",
+     "Athens and Sparta",
+     "Alexander the Great"
+    ],
+    1
+   ],
+   [
+    "Rome and Han",
+    [
+     "Rome: From Republic to Empire",
+     "Han China and the Silk Road",
+     "The Fall of Rome (and Why It Didn't Really Fall)"
+    ],
+    1
+   ]
+  ]
+ },
+ {
+  "p": "Act IV",
+  "t": "Faith, Steppe and Sea",
+  "units": [
+   [
+    "New faiths, new powers",
+    [
+     "Byzantium: The Empire That Lasted 1,000 Years",
+     "The Rise of Islam and the Abbasid Golden Age",
+     "Tang and Song China: The Medieval Superpower"
+    ],
+    1
+   ],
+   [
+    "Riders and raiders",
+    [
+     "The Vikings",
+     "Genghis Khan and the Mongol World",
+     "The Black Death"
+    ],
+    1
+   ],
+   [
+    "Other worlds",
+    [
+     "Mansa Musa and the Empires of West Africa",
+     "The Maya, Aztecs and Inca",
+     "Polynesian Navigators"
+    ],
+    1
+   ]
+  ]
+ },
+ {
+  "p": "Act V",
+  "t": "The World Connects",
+  "units": [
+   [
+    "Rebirth and rupture",
+    [
+     "The Renaissance",
+     "The Printing Press and the Reformation",
+     "The Ottomans: Masters of Three Continents"
+    ],
+    1
+   ],
+   [
+    "Ships, guns and silver",
+    [
+     "Zheng He's Treasure Fleets",
+     "Columbus, Conquest and the Columbian Exchange",
+     "The Atlantic Slave Trade",
+     "The Scientific Revolution"
+    ],
+    1
+   ]
+  ]
+ },
+ {
+  "p": "Act VI",
+  "t": "Revolutions",
+  "units": [
+   [
+    "Ideas on fire",
+    [
+     "The Enlightenment",
+     "The American Revolution",
+     "The French Revolution",
+     "Napoleon",
+     "The Haitian Revolution"
+    ],
+    1
+   ],
+   [
+    "Machines and empires",
+    [
+     "The Industrial Revolution",
+     "Japan's Meiji Leap",
+     "The Scramble for Africa",
+     "The Opium Wars and China's Century of Humiliation"
+    ],
+    1
+   ]
+  ]
+ },
+ {
+  "p": "Act VII",
+  "t": "The Violent Century",
+  "units": [
+   [
+    "World on fire",
+    [
+     "The First World War",
+     "The Russian Revolution",
+     "The Great Depression",
+     "Fascism and Nazism",
+     "The Second World War",
+     "The Holocaust"
+    ],
+    1
+   ],
+   [
+    "Cold War",
+    [
+     "The Cold War and the Bomb",
+     "Decolonisation: Empires End",
+     "Mao's China",
+     "The Space Race",
+     "1989: The Wall Falls"
+    ],
+    1
+   ]
+  ]
+ },
+ {
+  "p": "Act VIII",
+  "t": "Our World",
+  "units": [
+   [
+    "Since 1991",
+    [
+     "Globalisation and the Internet Age",
+     "9/11 and the War on Terror",
+     "The Rise of China",
+     "Climate, Pandemics and the Shape of the Future"
+    ],
+    1
+   ]
+  ]
+ }
+]

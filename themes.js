@@ -54,5 +54,20 @@ const THEMES = {
       "--card-img": "none", "--key-img": "linear-gradient(135deg,transparent 0 5px,#e0c35a 5px 7px,transparent 7px 12px)"
     },
     hero: "emblem", glyph: "🌿"
+  },
+  odyssey: {
+    name: "Odyssey", note: "Deep space, bronze and starlight",
+    fonts: "Cormorant+Garamond:wght@600;700&family=Crimson+Pro:ital,wght@0,400;0,600;1,400",
+    vars: {
+      "--lapis": "#1b1440", "--night": "#0b0820", "--glow": "#3d2b7a",
+      "--gold": "#e8a65a", "--accent-rgb": "232,166,90", "--goldd": "#8c4f16",
+      "--card": "#f5f1ea", "--marble": "#f5f1ea", "--ink": "#1e1a2e", "--vein": "#5e5870",
+      "--sub": "#b3a8d6", "--motto": "#ddd6f3", "--foot": "#958bb8", "--faint": "#7a7199", "--faint2": "#3f3466",
+      "--btn1": "#f0b871", "--btn2": "#c97a33", "--btn-ink": "#1d1105", "--btn-shadow": "rgba(201,122,51,.45)",
+      "--strong": "#22163f", "--quote-ink": "#22163f", "--exam-bg": "#ece7f6", "--opt-line": "#d6cfe0",
+      "--font-display": "'Cormorant Garamond',serif", "--font-body": "'Crimson Pro',Georgia,serif",
+      "--card-img": "none", "--key-img": "radial-gradient(circle at 4px 8px,#e8a65a 1.5px,transparent 2.5px)"
+    },
+    hero: "emblem", glyph: "🪐"
   }
 };
