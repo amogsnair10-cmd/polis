@@ -1,0 +1,185 @@
+{
+ "id": "0-5-0",
+ "title": "Classical Theories of Democracy",
+ "emoji": "🏛️",
+ "cards": [
+  {
+   "tag": "Why this matters",
+   "h": "Democracy is the most-asked idea in political theory",
+   "b": "<p>Democracy sounds simple: rule by the people. But thinkers have fought over it for 2,500 years. Who counts as \"the people\"? Should they rule directly or through representatives? Is majority rule safe?</p><p>This lesson covers the <b>classical</b> and early-modern answers: Athens, Plato and Aristotle, Rousseau, Madison, Tocqueville and J.S. Mill. The next lessons cover the modern (elitist, pluralist, participatory, deliberative) theories.</p><p>For the exam, you need two skills. First, know who said what, in which book. Second, be able to sort theories into types. <b>C.B. Macpherson</b> and <b>David Held</b> give the best sorting schemes, and examiners like them.</p><p>Questions often ask you to compare direct and representative democracy, or to judge whether Athens was really a democracy.</p>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "What \"democracy\" means",
+   "b": "<p>The word comes from Greek: <b>demos</b> (the people) and <b>kratos</b> (rule). Abraham Lincoln's phrase, \"government of the people, by the people, for the people\" (Gettysburg Address, 1863), is the popular summary.</p><p>Thinkers separate three things:</p><ul><li><b>Who rules</b>: all citizens, or elected representatives.</li><li><b>How they rule</b>: by direct vote, by lot, or by election.</li><li><b>Why it is good</b>: it protects people from abuse, it develops their character, or it gives results people accept.</li></ul><p>Heywood adds a useful point. Democracy today is mostly <b>liberal democracy</b>: free elections plus limited government and individual rights. Classical democracy had no such limits. The majority could do almost anything.</p>"
+  },
+  {
+   "tag": "Key idea",
+   "h": "Athenian democracy: rule by the citizens",
+   "b": "<svg class='d' viewBox='0 0 320 140'><rect x='10' y='6' width='93' height='44' rx='8' fill='#f1e4c6' stroke='#a8792a'/><text x='57' y='22' font-size='10.5' fill='#1d2433' text-anchor='middle' font-weight='700'>508 BCE</text><text x='57' y='36' font-size='10.5' fill='#1d2433' text-anchor='middle'>Cleisthenes' reforms</text><path d='M104 28 h8' stroke='#5d6474' stroke-width='1.5'/><rect x='113' y='6' width='93' height='44' rx='8' fill='#f1e4c6' stroke='#a8792a'/><text x='160' y='22' font-size='10.5' fill='#1d2433' text-anchor='middle' font-weight='700'>Ecclesia</text><text x='160' y='36' font-size='10.5' fill='#1d2433' text-anchor='middle'>Assembly of all citizens</text><path d='M208 28 h8' stroke='#5d6474' stroke-width='1.5'/><rect x='217' y='6' width='93' height='44' rx='8' fill='#f1e4c6' stroke='#a8792a'/><text x='263' y='22' font-size='10.5' fill='#1d2433' text-anchor='middle' font-weight='700'>Boule</text><text x='263' y='36' font-size='10.5' fill='#1d2433' text-anchor='middle'>500, chosen by lot</text><rect x='10' y='72' width='93' height='44' rx='8' fill='#f1e4c6' stroke='#a8792a'/><text x='57' y='88' font-size='10.5' fill='#1d2433' text-anchor='middle' font-weight='700'>Courts</text><text x='57' y='102' font-size='10.5' fill='#1d2433' text-anchor='middle'>Large citizen juries</text><path d='M104 94 h8' stroke='#5d6474' stroke-width='1.5'/><rect x='113' y='72' width='93' height='44' rx='8' fill='#f1e4c6' stroke='#a8792a'/><text x='160' y='88' font-size='10.5' fill='#1d2433' text-anchor='middle' font-weight='700'>Ostracism</text><text x='160' y='102' font-size='10.5' fill='#1d2433' text-anchor='middle'>Exile for ten years</text><path d='M208 94 h8' stroke='#5d6474' stroke-width='1.5'/><rect x='217' y='72' width='93' height='44' rx='8' fill='#f1e4c6' stroke='#a8792a'/><text x='263' y='88' font-size='10.5' fill='#1d2433' text-anchor='middle' font-weight='700'>Strategoi</text><text x='263' y='102' font-size='10.5' fill='#1d2433' text-anchor='middle'>Ten elected generals</text></svg><p>Athens in the 5th century BCE is the model of <b>direct democracy</b>. Citizens did not elect rulers to decide for them. They decided themselves in the <b>Ecclesia</b>, which met on the Pnyx hill about forty times a year.</p><p>Most offices, including the Council of 500, were filled by <b>lot</b>, not election. Lot treats every citizen as equally fit to rule. Only the generals were elected, since war needed skill. Pericles was re-elected general many times.</p><p>Pericles' Funeral Oration, reported by Thucydides, praises Athens as a system where power lies with the many, not the few.</p>"
+  },
+  {
+   "tag": "Critique",
+   "h": "The limits of Athenian democracy",
+   "b": "<p>Athens was democratic only for a small group. <b>Citizens</b> were adult men born to Athenian parents. Women, slaves and resident foreigners (<b>metics</b>) were excluded. Most people living in Athens had no vote.</p><p>Critics also point out that:</p><ul><li>Direct democracy only works in a small city-state, where all can meet in one place.</li><li>Citizens had the free time because slaves and women did the work.</li><li>The assembly could be swayed by clever speakers (<b>demagogues</b>). It condemned Socrates to death in 399 BCE.</li></ul><p>Yet defenders say Athens offered something modern states lack: real, equal participation. This idea returns in the <b>participatory</b> theories of the 1960s.</p>"
+  },
+  {
+   "tag": "Thinker",
+   "h": "Plato and Aristotle: the first critics",
+   "b": "<div class='box'><h4>Plato, The Republic (c. 375 BCE)</h4>Democracy puts power in the hands of the ignorant. Ruling is a skill, like steering a ship, so it needs trained experts. The famous \"ship of state\" image makes this point. Plato ranks democracy below aristocracy, timocracy and oligarchy, and above only tyranny. He thinks freedom run wild turns into tyranny.</div><div class='box'><h4>Aristotle, Politics (c. 350 BCE)</h4>Aristotle sorts governments by the number who rule and by whether they rule for the common good. Rule of the many for the common good is <b>polity</b>. Rule of the many for their own (poor) class interest is <b>democracy</b>, which he calls a deviant form. His best practical answer is a <b>mixed constitution</b> that blends oligarchy and democracy, led by a strong middle class.</div><p>Note the oddity: for the Greeks, \"democracy\" was often an insult. It meant mob rule.</p>"
+  },
+  {
+   "tag": "Thinker",
+   "h": "Rousseau: the general will",
+   "b": "<p><b>Jean-Jacques Rousseau</b>, <i>The Social Contract</i> (1762), wants true popular sovereignty. Law must express the <b>general will</b>: what citizens want as members of a community aiming at the common good. It is not the same as the <b>will of all</b>, which is just the sum of private wants.</p><p>His key claims:</p><ul><li>Sovereignty cannot be <b>represented</b> or handed over. The people must make the laws themselves in assembly.</li><li>He mocked the English. They think they are free, he said, but they are free only when electing members of parliament. Once elected, they are slaves again.</li><li>Obeying the general will is real freedom. Those who refuse may be \"forced to be free\".</li></ul><p>Rousseau inspired the French Revolution, and also worries critics: he can be read as a route to majority tyranny or even totalitarian democracy (J.L. Talmon).</p>"
+  },
+  {
+   "tag": "Thinker",
+   "h": "Madison and Tocqueville: tame the majority",
+   "b": "<p><b>James Madison</b>, <i>Federalist No. 10</i> (1787), feared <b>factions</b>: groups moved by passion or self-interest, against others' rights. Pure democracy cannot stop them in a majority. His cure is a <b>republic</b>: representatives who \"refine\" public views, in a large country with many interests so no single faction dominates.</p><p><b>Alexis de Tocqueville</b>, <i>Democracy in America</i> (1835 and 1840), admired equality and local self-government in America. But he warned of the <b>tyranny of the majority</b>: public opinion that crushes dissent. He also feared a soft despotism where citizens give up public life for private comfort.</p><p>His remedies: independent courts, a free press, voluntary associations and local government. Together these give today's liberal-democratic idea of checks on majority power.</p>"
+  },
+  {
+   "tag": "Thinker",
+   "h": "Bentham, James Mill and J.S. Mill",
+   "b": "<p>In the 19th century, utilitarians argued for democracy. <b>Jeremy Bentham</b> and <b>James Mill</b> (<i>Essay on Government</i>, 1820) said that rulers pursue their own interest. Only regular elections and the vote can force them to serve the greatest happiness. This is <b>protective democracy</b>.</p><p><b>J.S. Mill</b>, <i>Considerations on Representative Government</i> (1861), adds a second reason. Taking part in politics improves people. It teaches them to think about public good. This is <b>developmental democracy</b>.</p><div class='box'><h4>Mill's safeguards</h4>He feared that the uneducated majority would pass \"class legislation\". So he proposed plural votes for the educated, and <b>proportional representation</b> by Thomas Hare's single transferable vote, so minorities get a voice. He also backed votes for women, in <i>The Subjection of Women</i> (1869). Plural voting is rejected today.</div>"
+  },
+  {
+   "tag": "Debate",
+   "h": "Macpherson's four models",
+   "b": "<p><b>C.B. Macpherson</b>, <i>The Life and Times of Liberal Democracy</i> (1977), sorts democratic theory into four models.</p><ol><li><b>Protective</b> (Bentham, James Mill): voting protects citizens from rulers.</li><li><b>Developmental</b> (J.S. Mill): participation builds moral character.</li><li><b>Equilibrium</b> (Schumpeter and pluralists): politics is a market, and parties compete for votes.</li><li><b>Participatory</b>: citizens share in decisions in workplaces and communities.</li></ol><p>Macpherson, a Marxist-liberal, argued that liberal democracy in a market society tends to treat people as consumers of politics. He wanted to bring back the developmental idea.</p><p><b>David Held</b>, <i>Models of Democracy</i> (1987), offers a longer list, starting with classical Athens and republicanism. Cite both for a good structure.</p>"
+  },
+  {
+   "tag": "Indian angle",
+   "h": "Indian roots and the constitutional choice",
+   "b": "<p>Democracy has Indian precedents. The <b>sabhas and samitis</b> of the Vedic age, and the <b>gana-sanghas</b> (republics) such as the Licchavis of Vaishali, had assemblies and elected heads. The Buddhist sangha used votes and rules of debate. The historian K.P. Jayaswal studied these in <i>Hindu Polity</i> (1924). Amartya Sen also stresses India's tradition of public reasoning in <i>The Argumentative Indian</i> (2005).</p><p>The Constitution chose <b>representative democracy</b> with universal adult franchise (Article 326), from the very first election of 1951-52. It adds direct elements as well: <b>gram sabhas</b> (Article 243A) and Article 40 on village panchayats.</p><p>B.R. Ambedkar warned the Constituent Assembly on 25 November 1949 that political democracy cannot last without <b>social democracy</b>. He wished for \"one man, one vote, one value\".</p>"
+  },
+  {
+   "tag": "Exam lens",
+   "h": "How to answer",
+   "b": "<div class='box'>\"Is Athenian democracy a model for modern democracy?\" Discuss.</div><div class='box'>\"Plato's critique of democracy is still relevant.\" Examine.</div><div class='box'>Distinguish between direct and representative democracy. Which suits a large state?</div><div class='box'>\"Tyranny of the majority\" - Tocqueville and Mill on the problem.</div><p><b>Structure:</b> open with the meaning of demos and kratos, then Athens with its limits. Move to Plato and Aristotle's critique, then Rousseau versus Madison on representation. Add Tocqueville and Mill on safeguards, and use Macpherson to classify. Close with India: Article 326, panchayats and Ambedkar's social democracy.</p><p>A good one-line verdict: classical democracy gave the ideal of equal participation, while liberal thinkers added limits and representation to make it workable at scale.</p>",
+   "cls": "exam"
+  }
+ ],
+ "quiz": [
+  {
+   "q": "Which Athenian body was chosen by lot and prepared business for the assembly?",
+   "o": [
+    "Areopagus",
+    "Boule (Council of 500)",
+    "Strategoi",
+    "Heliaia"
+   ],
+   "a": 1,
+   "w": "The Boule of 500, fifty from each tribe, was chosen by lot."
+  },
+  {
+   "q": "In Aristotle's scheme, rule of the many for the common good is called…",
+   "o": [
+    "Democracy",
+    "Oligarchy",
+    "Polity",
+    "Tyranny"
+   ],
+   "a": 2,
+   "w": "Polity is the good form. Democracy is the deviant form of rule by the many."
+  },
+  {
+   "q": "Plato's criticism of democracy is built on the idea that…",
+   "o": [
+    "Citizens are too rich",
+    "Ruling is a skill that needs trained experts",
+    "Majorities are always cruel",
+    "Elections cost too much"
+   ],
+   "a": 1,
+   "w": "The ship-of-state analogy in the Republic."
+  },
+  {
+   "q": "Rousseau's general will differs from the will of all because it…",
+   "o": [
+    "Needs unanimity",
+    "Aims at the common good, not private wants",
+    "Is chosen by representatives",
+    "Is the majority's opinion"
+   ],
+   "a": 1,
+   "w": "The Social Contract (1762) separates common good from the sum of private wishes."
+  },
+  {
+   "q": "Which thinker said sovereignty cannot be represented?",
+   "o": [
+    "Madison",
+    "J.S. Mill",
+    "Rousseau",
+    "Tocqueville"
+   ],
+   "a": 2,
+   "w": "Rousseau opposed representation in law-making."
+  },
+  {
+   "q": "Federalist No. 10 recommends a large republic mainly to…",
+   "o": [
+    "Cut taxes",
+    "Control the effects of factions",
+    "Restore direct democracy",
+    "Reduce federal power"
+   ],
+   "a": 1,
+   "w": "Madison argued a large republic with many interests checks factions."
+  },
+  {
+   "q": "The phrase 'tyranny of the majority' is most linked with…",
+   "o": [
+    "Tocqueville",
+    "Hobbes",
+    "Bentham",
+    "Macpherson"
+   ],
+   "a": 0,
+   "w": "Democracy in America (1835, 1840); Mill later popularised it in On Liberty."
+  },
+  {
+   "q": "J.S. Mill proposed proportional representation through…",
+   "o": [
+    "Closed party lists",
+    "Hare's single transferable vote",
+    "First past the post",
+    "Two-round runoff"
+   ],
+   "a": 1,
+   "w": "Thomas Hare's STV, in Considerations on Representative Government (1861)."
+  },
+  {
+   "q": "Macpherson classed J.S. Mill's democracy as…",
+   "o": [
+    "Protective",
+    "Developmental",
+    "Equilibrium",
+    "Participatory"
+   ],
+   "a": 1,
+   "w": "Mill valued participation for its effect on character."
+  },
+  {
+   "q": "Which Indian text is linked to Jayaswal's study of ancient republics?",
+   "o": [
+    "Arthashastra of Kautilya",
+    "Hindu Polity (1924)",
+    "The Argumentative Indian",
+    "Discovery of India"
+   ],
+   "a": 1,
+   "w": "K.P. Jayaswal wrote Hindu Polity (1924) on sabhas, samitis and gana-sanghas."
+  }
+ ],
+ "sources": [
+  "Plato, The Republic, Book VIII; Aristotle, Politics, Books III-IV",
+  "Rousseau, The Social Contract (1762); Madison, Federalist No. 10 (1787)",
+  "Tocqueville, Democracy in America (1835, 1840); J.S. Mill, Considerations on Representative Government (1861)",
+  "C.B. Macpherson, The Life and Times of Liberal Democracy (1977); David Held, Models of Democracy (1987)",
+  "Andrew Heywood, Politics; O.P. Gauba, An Introduction to Political Theory",
+  "K.P. Jayaswal, Hindu Polity (1924); Constituent Assembly Debates, 25 Nov 1949",
+  "PYQ themes: direct vs representative democracy; classical vs modern theories (Paper I Section A)"
+ ],
+ "verified": "2026-11-10"
+}

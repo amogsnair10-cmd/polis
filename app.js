@@ -16,7 +16,7 @@ const wreath=`<svg class="wreath" viewBox="0 0 200 110"><g fill="#a8792a">${[...
 
 function renderHome(){
   const done=Object.keys(S.done).length;
-  document.getElementById('sDone').firstChild.textContent=done;
+  document.getElementById('sDone').firstChild.textContent=done;document.querySelector('#sDone small').textContent=done==1?'lesson':'lessons';
   document.getElementById('sStreak').firstChild.textContent=streak();
   const sc=Object.values(S.scores);document.getElementById('sAvg').firstChild.textContent=sc.length?Math.round(sc.reduce((a,b)=>a+b,0)/sc.length*100)+'%':'–';
   const next=ids.find(i=>IDX[i]&&!S.done[i]),t=document.getElementById('today');

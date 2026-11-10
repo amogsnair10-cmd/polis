@@ -3,31 +3,189 @@
  "title": "Rawls's Theory of Justice",
  "emoji": "⚖️",
  "cards": [
-  {"tag": "Why this matters", "h": "The book that revived political theory", "b": "<p>John Rawls (1921–2002) taught at Harvard. His <i>A Theory of Justice</i> (1971) is widely seen as the most important work of political philosophy in the 20th century. It ended the talk of political theory being \"dead\".</p><p>Rawls is one of the most-asked thinkers in Paper I. Questions come on the <b>original position</b>, the <b>veil of ignorance</b>, the <b>two principles</b> and the <b>difference principle</b>, and on his critics: Nozick, Sandel and Sen.</p><p>His later books matter too: <i>Political Liberalism</i> (1993), <i>The Law of Peoples</i> (1999) and <i>Justice as Fairness: A Restatement</i> (2001).</p><p>He called his theory <b>justice as fairness</b>. The idea is simple: rules are just if they are the ones we would agree to in a fair starting position.</p>"},
-  {"tag": "Context", "h": "Against utilitarianism", "b": "<p>Rawls wrote against <b>utilitarianism</b>, the leading theory of his day. Utilitarians say the right policy is the one that brings the greatest total happiness.</p><p>Rawls's objection: utilitarianism \"does not take seriously the <b>distinction between persons</b>\". It adds up everyone's happiness as if society were one big person. So it could allow sacrificing a minority, even enslaving them, if the majority gained enough.</p><p>For Rawls, each person has an inviolability that even the welfare of society as a whole cannot override.</p><div class=\"quote\">\"Justice is the first virtue of social institutions, as truth is of systems of thought.\"</div><div class=\"who\">Rawls, A Theory of Justice, §1</div><p>He returns to the <b>social contract</b> tradition of Locke, Rousseau and Kant to build an alternative.</p>"},
-  {"tag": "Core idea", "h": "The basic structure", "b": "<p>Justice, for Rawls, applies first to the <b>basic structure</b> of society. That means the major institutions: the constitution, the legal system, the economy, property rules and the family.</p><p>Why? Because these institutions shape our life chances from birth. A child born into a poor family or a low caste starts with less, through no choice of their own.</p><p>Rawls calls these advantages <b>morally arbitrary</b>. You did not earn your parents' wealth, your talents or even your hard-working character, which depends on upbringing.</p><p>So a just society cannot just reward whatever the \"natural lottery\" hands out. It must arrange institutions so that these accidents do not decide everything.</p>"},
-  {"tag": "Core idea", "h": "The original position and the veil of ignorance", "b": "<svg class=\"d\" viewBox=\"0 0 320 150\"><rect x=\"10\" y=\"10\" width=\"300\" height=\"130\" rx=\"14\" fill=\"#f1e4c6\" stroke=\"#a8792a\"/><path d=\"M40 40 Q160 10 280 40 L280 70 Q160 50 40 70 Z\" fill=\"#13294b\" opacity=\".85\"/><text x=\"160\" y=\"50\" fill=\"#f3f1ec\" font-size=\"12\" text-anchor=\"middle\" font-weight=\"700\">Veil of ignorance</text><text x=\"160\" y=\"92\" fill=\"#1d2433\" font-size=\"11\" text-anchor=\"middle\">You don't know your class, caste, gender,</text><text x=\"160\" y=\"108\" fill=\"#1d2433\" font-size=\"11\" text-anchor=\"middle\">talents, religion or idea of the good life</text><text x=\"160\" y=\"128\" fill=\"#2f6f7a\" font-size=\"11\" text-anchor=\"middle\" font-weight=\"700\">→ choose principles of justice</text></svg><p>Imagine people choosing the rules of their society in an <b>original position</b>. It is a thought experiment, not a real historical event.</p><p>They sit behind a <b>veil of ignorance</b>. They know general facts about society, but not their own place in it.</p><p>Because no one can tailor rules to suit themselves, the rules they pick will be <b>fair</b>. That is why Rawls calls it justice as fairness.</p>"},
-  {"tag": "Key idea", "h": "Primary goods and the maximin rule", "b": "<p>What do people want in the original position? Rawls says they want <b>primary goods</b>: things any rational person wants, whatever else they want.</p><ul><li>Basic rights and liberties.</li><li>Freedom of movement and choice of occupation.</li><li>Powers and opportunities of office.</li><li>Income and wealth.</li><li>The <b>social bases of self-respect</b>, which Rawls calls perhaps the most important primary good.</li></ul><p>Since the stakes are huge and they cannot know the odds, Rawls argues they will follow the <b>maximin</b> rule: choose the option whose <b>worst outcome is best</b>.</p><p>In plain words: you choose the society where, if you turn out to be at the bottom, you are as well off as possible. You would not gamble your whole life on landing at the top.</p>"},
-  {"tag": "Core idea", "h": "The two principles of justice", "b": "<div class=\"box\"><h4>First principle: equal liberty</h4>Each person has an equal right to the most extensive scheme of equal basic liberties compatible with a similar scheme for all. These include political liberty, free speech and assembly, liberty of conscience, freedom of the person and the right to hold personal property.</div><div class=\"box\"><h4>Second principle</h4>Social and economic inequalities are allowed only if they are:<br>(a) to the greatest benefit of the <b>least advantaged</b> (the <b>difference principle</b>), and<br>(b) attached to offices and positions open to all under <b>fair equality of opportunity</b>.</div><p>The wording shifts slightly between the 1971 book and the 2001 <i>Restatement</i>, but these are the core ideas.</p>"},
-  {"tag": "Key idea", "h": "Lexical priority", "b": "<p>The principles come in a strict order, which Rawls calls <b>lexical</b> (like words in a dictionary).</p><ol><li>The <b>first principle</b>, equal liberty, comes first. Basic liberties cannot be traded away for economic gains. You cannot sell your vote, or accept censorship, for more income.</li><li>Within the second principle, <b>fair equality of opportunity</b> comes before the <b>difference principle</b>.</li></ol><p>Fair equality of opportunity is more than formal non-discrimination. It means people with similar talent and drive should have similar chances, whatever class they are born into. That needs good public schools and limits on inherited advantage.</p><p>Only then does the difference principle shape how income and wealth are shared.</p>"},
-  {"tag": "Key idea", "h": "The difference principle explained", "b": "<p>The difference principle does not demand <b>equality</b>. It allows inequality, but only the kind that <b>helps the worst-off</b>.</p><p>Example: doctors may earn more than others, if that pay draws talented people into medicine and the poor get better healthcare as a result. If the extra pay only helps doctors, it is unjust.</p><p>Rawls says the difference principle expresses an agreement to treat the distribution of natural talents as a <b>common asset</b>. The gifted may gain from their luck, but only on terms that also improve the situation of those who lost out.</p><p>He calls this an idea of <b>fraternity</b>: not wanting greater advantages unless they are to the benefit of others who are less well off.</p><p>The result is a theory of <b>welfare liberalism</b>, or egalitarian liberalism.</p>"},
-  {"tag": "Key idea", "h": "Reflective equilibrium and the later Rawls", "b": "<p>How do we test a theory of justice? Rawls uses <b>reflective equilibrium</b>. We move back and forth between our firm judgements (slavery is wrong) and general principles, adjusting each until they fit together.</p><p>In <i>Political Liberalism</i> (1993), Rawls faced a problem. Modern societies have <b>reasonable pluralism</b>: people hold different religions and philosophies. A theory of justice cannot rest on any one of them.</p><p>So he recast justice as a <b>political</b> conception, not a full philosophy of life. Citizens with different worldviews can agree on it through an <b>overlapping consensus</b>.</p><p>Public debate should use <b>public reason</b>: arguments others could accept, not just one's own religious beliefs.</p><p>In <i>The Law of Peoples</i> (1999), he extended his ideas to international relations but did not apply the difference principle globally.</p>"},
-  {"tag": "Critique", "h": "The big critiques", "b": "<ul><li><b>Robert Nozick</b>, <i>Anarchy, State, and Utopia</i> (1974): justice is about how holdings came about, not patterns of distribution. Taxation for redistribution violates self-ownership.</li><li><b>Communitarians</b> (Sandel, MacIntyre, Taylor, Walzer): the person behind the veil is an \"<b>unencumbered self</b>\" with no community or values. Real people are shaped by their communities.</li><li><b>Amartya Sen</b>, <i>The Idea of Justice</i> (2009): Rawls seeks a perfectly just society (transcendental institutionalism). We should instead compare real options and remove clear injustices. Primary goods also ignore that people convert resources into freedoms differently.</li><li><b>Feminists</b>, such as <b>Susan Moller Okin</b>, <i>Justice, Gender, and the Family</i> (1989): Rawls's heads of households hide injustice within the family.</li><li><b>Marxists</b>: Rawls leaves capitalist property relations untouched.</li><li><b>G.A. Cohen</b>: if the talented demand incentives, they are not acting from justice themselves.</li></ul>"},
-  {"tag": "Indian angle", "h": "Rawls and the Indian Constitution", "b": "<p>Rawls's ideas fit well with India's constitutional vision.</p><ul><li>The Preamble promises <b>justice, social, economic and political</b>, before liberty and equality.</li><li>Fair equality of opportunity mirrors <b>Article 16</b>. The difference principle echoes the reasoning behind <b>Articles 15(4), 16(4)</b> and the <b>Directive Principles</b>, especially <b>Articles 38 and 39</b>.</li><li>In <b>N.M. Thomas</b> (1975), the Supreme Court read reservation as part of equality, not an exception to it. This is a Rawlsian move.</li><li>The <b>Right to Education Act</b> (2009) reserves 25% of seats in private schools for disadvantaged children. That is fair equality of opportunity in action.</li></ul><p>Some judges have cited Rawls directly in judgments on equality and reservation.</p>"},
-  {"tag": "Exam lens", "cls": "exam", "h": "How UPSC asks this", "b": "<div class=\"box\">\"Explain Rawls's concept of the original position and the veil of ignorance.\"</div><div class=\"box\">\"The difference principle is the heart of Rawls's egalitarian liberalism.\" Discuss.</div><div class=\"box\">\"Critically examine the communitarian critique of Rawls.\"</div><div class=\"box\">\"Compare Rawls and Sen on justice.\"</div><p><b>Structure:</b> context (against utilitarianism), basic structure, original position with a diagram, primary goods and maximin, two principles and lexical order, difference principle with an example. Then the four big critiques. End with India: the Preamble, Articles 15–16 and 38–39, and N.M. Thomas.</p><p>Quote \"Justice is the first virtue of social institutions\" in your introduction.</p>"}
+  {
+   "tag": "Why this matters",
+   "h": "The book that revived political theory",
+   "b": "<p>John Rawls (1921–2002) taught at Harvard. His <i>A Theory of Justice</i> (1971) is widely seen as the most important work of political philosophy in the 20th century. It ended the talk of political theory being \"dead\".</p><p>Rawls is one of the most-asked thinkers in Paper I. Questions come on the <b>original position</b>, the <b>veil of ignorance</b>, the <b>two principles</b> and the <b>difference principle</b>, and on his critics: Nozick, Sandel and Sen.</p><p>His later books matter too: <i>Political Liberalism</i> (1993), <i>The Law of Peoples</i> (1999) and <i>Justice as Fairness: A Restatement</i> (2001).</p><p>He called his theory <b>justice as fairness</b>. The idea is simple: rules are just if they are the ones we would agree to in a fair starting position.</p>"
+  },
+  {
+   "tag": "Context",
+   "h": "Against utilitarianism",
+   "b": "<p>Rawls wrote against <b>utilitarianism</b>, the leading theory of his day. Utilitarians say the right policy is the one that brings the greatest total happiness.</p><p>Rawls's objection: utilitarianism \"does not take seriously the <b>distinction between persons</b>\". It adds up everyone's happiness as if society were one big person. So it could allow sacrificing a minority, even enslaving them, if the majority gained enough.</p><p>For Rawls, each person has an inviolability that even the welfare of society as a whole cannot override.</p><div class=\"quote\">\"Justice is the first virtue of social institutions, as truth is of systems of thought.\"</div><div class=\"who\">Rawls, A Theory of Justice, §1</div><p>He returns to the <b>social contract</b> tradition of Locke, Rousseau and Kant to build an alternative.</p>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "The basic structure",
+   "b": "<p>Justice, for Rawls, applies first to the <b>basic structure</b> of society. That means the major institutions: the constitution, the legal system, the economy, property rules and the family.</p><p>Why? Because these institutions shape our life chances from birth. A child born into a poor family or a low caste starts with less, through no choice of their own.</p><p>Rawls calls these advantages <b>morally arbitrary</b>. You did not earn your parents' wealth, your talents or even your hard-working character, which depends on upbringing.</p><p>So a just society cannot just reward whatever the \"natural lottery\" hands out. It must arrange institutions so that these accidents do not decide everything.</p>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "The original position and the veil of ignorance",
+   "b": "<svg class=\"d\" viewBox=\"0 0 320 150\"><rect x=\"10\" y=\"10\" width=\"300\" height=\"130\" rx=\"14\" fill=\"#f1e4c6\" stroke=\"#a8792a\"/><path d=\"M40 40 Q160 10 280 40 L280 70 Q160 50 40 70 Z\" fill=\"#13294b\" opacity=\".85\"/><text x=\"160\" y=\"50\" fill=\"#f3f1ec\" font-size=\"12\" text-anchor=\"middle\" font-weight=\"700\">Veil of ignorance</text><text x=\"160\" y=\"92\" fill=\"#1d2433\" font-size=\"11\" text-anchor=\"middle\">You don't know your class, caste, gender,</text><text x=\"160\" y=\"108\" fill=\"#1d2433\" font-size=\"11\" text-anchor=\"middle\">talents, religion or idea of the good life</text><text x=\"160\" y=\"128\" fill=\"#2f6f7a\" font-size=\"11\" text-anchor=\"middle\" font-weight=\"700\">→ choose principles of justice</text></svg><p>Imagine people choosing the rules of their society in an <b>original position</b>. It is a thought experiment, not a real historical event.</p><p>They sit behind a <b>veil of ignorance</b>. They know general facts about society, but not their own place in it.</p><p>Because no one can tailor rules to suit themselves, the rules they pick will be <b>fair</b>. That is why Rawls calls it justice as fairness.</p>"
+  },
+  {
+   "tag": "Key idea",
+   "h": "Primary goods and the maximin rule",
+   "b": "<p>What do people want in the original position? Rawls says they want <b>primary goods</b>: things any rational person wants, whatever else they want.</p><ul><li>Basic rights and liberties.</li><li>Freedom of movement and choice of occupation.</li><li>Powers and opportunities of office.</li><li>Income and wealth.</li><li>The <b>social bases of self-respect</b>, which Rawls calls perhaps the most important primary good.</li></ul><p>Since the stakes are huge and they cannot know the odds, Rawls argues they will follow the <b>maximin</b> rule: choose the option whose <b>worst outcome is best</b>.</p><p>In plain words: you choose the society where, if you turn out to be at the bottom, you are as well off as possible. You would not gamble your whole life on landing at the top.</p>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "The two principles of justice",
+   "b": "<div class=\"box\"><h4>First principle: equal liberty</h4>Each person has an equal right to the most extensive scheme of equal basic liberties compatible with a similar scheme for all. These include political liberty, free speech and assembly, liberty of conscience, freedom of the person and the right to hold personal property.</div><div class=\"box\"><h4>Second principle</h4>Social and economic inequalities are allowed only if they are:<br>(a) to the greatest benefit of the <b>least advantaged</b> (the <b>difference principle</b>), and<br>(b) attached to offices and positions open to all under <b>fair equality of opportunity</b>.</div><p>The wording shifts slightly between the 1971 book and the 2001 <i>Restatement</i>, but these are the core ideas.</p>"
+  },
+  {
+   "tag": "Key idea",
+   "h": "Lexical priority",
+   "b": "<p>The principles come in a strict order, which Rawls calls <b>lexical</b> (like words in a dictionary).</p><ol><li>The <b>first principle</b>, equal liberty, comes first. Basic liberties cannot be traded away for economic gains. You cannot sell your vote, or accept censorship, for more income.</li><li>Within the second principle, <b>fair equality of opportunity</b> comes before the <b>difference principle</b>.</li></ol><p>Fair equality of opportunity is more than formal non-discrimination. It means people with similar talent and drive should have similar chances, whatever class they are born into. That needs good public schools and limits on inherited advantage.</p><p>Only then does the difference principle shape how income and wealth are shared.</p>"
+  },
+  {
+   "tag": "Key idea",
+   "h": "The difference principle explained",
+   "b": "<p>The difference principle does not demand <b>equality</b>. It allows inequality, but only the kind that <b>helps the worst-off</b>.</p><p>Example: doctors may earn more than others, if that pay draws talented people into medicine and the poor get better healthcare as a result. If the extra pay only helps doctors, it is unjust.</p><p>Rawls says the difference principle expresses an agreement to treat the distribution of natural talents as a <b>common asset</b>. The gifted may gain from their luck, but only on terms that also improve the situation of those who lost out.</p><p>He links this to <b>fraternity</b>. In a fraternal society, people do not want to gain more unless those who are worse off gain too.</p><p>The result is a theory of <b>welfare liberalism</b>, or egalitarian liberalism.</p>"
+  },
+  {
+   "tag": "Key idea",
+   "h": "Reflective equilibrium and the later Rawls",
+   "b": "<p>How do we test a theory of justice? Rawls uses <b>reflective equilibrium</b>. We move back and forth between our firm judgements (slavery is wrong) and general principles, adjusting each until they fit together.</p><p>In <i>Political Liberalism</i> (1993), Rawls faced a problem. Modern societies have <b>reasonable pluralism</b>: people hold different religions and philosophies. A theory of justice cannot rest on any one of them.</p><p>So he recast justice as a <b>political</b> conception, not a full philosophy of life. Citizens with different worldviews can agree on it through an <b>overlapping consensus</b>.</p><p>Public debate should use <b>public reason</b>: arguments others could accept, not just one's own religious beliefs.</p><p>In <i>The Law of Peoples</i> (1999), he extended his ideas to international relations but did not apply the difference principle globally.</p>"
+  },
+  {
+   "tag": "Critique",
+   "h": "The big critiques",
+   "b": "<ul><li><b>Robert Nozick</b>, <i>Anarchy, State, and Utopia</i> (1974): justice is about how holdings came about, not patterns of distribution. Taxation for redistribution violates self-ownership.</li><li><b>Communitarians</b> (Sandel, MacIntyre, Taylor, Walzer): the person behind the veil is an \"<b>unencumbered self</b>\" with no community or values. Real people are shaped by their communities.</li><li><b>Amartya Sen</b>, <i>The Idea of Justice</i> (2009): Rawls seeks a perfectly just society (transcendental institutionalism). We should instead compare real options and remove clear injustices. Primary goods also ignore that people convert resources into freedoms differently.</li><li><b>Feminists</b>, such as <b>Susan Moller Okin</b>, <i>Justice, Gender, and the Family</i> (1989): Rawls's heads of households hide injustice within the family.</li><li><b>Marxists</b>: Rawls leaves capitalist property relations untouched.</li><li><b>G.A. Cohen</b>: if the talented demand incentives, they are not acting from justice themselves.</li></ul>"
+  },
+  {
+   "tag": "Indian angle",
+   "h": "Rawls and the Indian Constitution",
+   "b": "<p>Rawls's ideas fit well with India's constitutional vision.</p><ul><li>The Preamble promises <b>justice, social, economic and political</b>, before liberty and equality.</li><li>Fair equality of opportunity mirrors <b>Article 16</b>. The difference principle echoes the reasoning behind <b>Articles 15(4), 16(4)</b> and the <b>Directive Principles</b>, especially <b>Articles 38 and 39</b>.</li><li>In <b>N.M. Thomas</b> (1975), the Supreme Court read reservation as part of equality, not an exception to it. This is a Rawlsian move.</li><li>The <b>Right to Education Act</b> (2009) reserves 25% of seats in private schools for disadvantaged children. That is fair equality of opportunity in action.</li></ul><p>Some judges have cited Rawls directly in judgments on equality and reservation.</p>"
+  },
+  {
+   "tag": "Exam lens",
+   "cls": "exam",
+   "h": "How UPSC asks this",
+   "b": "<div class=\"box\">\"Explain Rawls's concept of the original position and the veil of ignorance.\"</div><div class=\"box\">\"The difference principle is the heart of Rawls's egalitarian liberalism.\" Discuss.</div><div class=\"box\">\"Critically examine the communitarian critique of Rawls.\"</div><div class=\"box\">\"Compare Rawls and Sen on justice.\"</div><p><b>Structure:</b> context (against utilitarianism), basic structure, original position with a diagram, primary goods and maximin, two principles and lexical order, difference principle with an example. Then the main critiques: Nozick, the communitarians, Sen and the feminists. End with India: the Preamble, Articles 15–16 and 38–39, and N.M. Thomas.</p><p>Quote \"Justice is the first virtue of social institutions\" in your introduction.</p>"
+  }
  ],
  "quiz": [
-  {"q": "A Theory of Justice was published in…", "o": ["1958", "1971", "1974", "1993"], "a": 1, "w": "1971."},
-  {"q": "Rawls's main target was…", "o": ["Marxism", "Utilitarianism", "Libertarianism", "Communitarianism"], "a": 1, "w": "Utilitarianism ignores the distinction between persons."},
-  {"q": "Behind the veil of ignorance, people do NOT know…", "o": ["General facts of economics", "Their own class, talents or values", "That society needs rules", "Basic psychology"], "a": 1, "w": "They know general facts but not their own position."},
-  {"q": "The maximin rule says choose the option whose…", "o": ["Best outcome is best", "Average outcome is highest", "Worst outcome is best", "Risk is highest"], "a": 2, "w": "Maximise the minimum."},
-  {"q": "The difference principle allows inequalities only if they…", "o": ["Reward hard work", "Benefit the least advantaged", "Are approved by the majority", "Increase total GDP"], "a": 1, "w": "Inequality must help the worst-off."},
-  {"q": "In Rawls's lexical order, what comes first?", "o": ["Difference principle", "Fair equality of opportunity", "Equal basic liberties", "Total welfare"], "a": 2, "w": "The first principle of equal liberty has priority."},
-  {"q": "Rawls calls which primary good perhaps the most important?", "o": ["Income", "Wealth", "The social bases of self-respect", "Freedom of movement"], "a": 2, "w": "Self-respect, in A Theory of Justice §67."},
-  {"q": "The 'overlapping consensus' appears in…", "o": ["A Theory of Justice", "Political Liberalism", "The Law of Peoples", "Anarchy, State, and Utopia"], "a": 1, "w": "Political Liberalism (1993)."},
-  {"q": "Who called Rawls's approach 'transcendental institutionalism'?", "o": ["Sandel", "Nozick", "Amartya Sen", "Okin"], "a": 2, "w": "Sen, The Idea of Justice (2009)."},
-  {"q": "Which case read reservation as part of equality, not an exception?", "o": ["Champakam Dorairajan", "N.M. Thomas", "Balaji", "Golaknath"], "a": 1, "w": "State of Kerala v. N.M. Thomas (1975)."}
+  {
+   "q": "A Theory of Justice was published in…",
+   "o": [
+    "1958",
+    "1971",
+    "1974",
+    "1993"
+   ],
+   "a": 1,
+   "w": "1971."
+  },
+  {
+   "q": "Rawls's main target was…",
+   "o": [
+    "Marxism",
+    "Utilitarianism",
+    "Libertarianism",
+    "Communitarianism"
+   ],
+   "a": 1,
+   "w": "Utilitarianism ignores the distinction between persons."
+  },
+  {
+   "q": "Behind the veil of ignorance, people do NOT know…",
+   "o": [
+    "General facts of economics",
+    "Their own class, talents or values",
+    "That society needs rules",
+    "Basic psychology"
+   ],
+   "a": 1,
+   "w": "They know general facts but not their own position."
+  },
+  {
+   "q": "The maximin rule says choose the option whose…",
+   "o": [
+    "Best outcome is best",
+    "Average outcome is highest",
+    "Worst outcome is best",
+    "Risk is highest"
+   ],
+   "a": 2,
+   "w": "Maximise the minimum."
+  },
+  {
+   "q": "The difference principle allows inequalities only if they…",
+   "o": [
+    "Reward hard work",
+    "Benefit the least advantaged",
+    "Are approved by the majority",
+    "Increase total GDP"
+   ],
+   "a": 1,
+   "w": "Inequality must help the worst-off."
+  },
+  {
+   "q": "In Rawls's lexical order, what comes first?",
+   "o": [
+    "Difference principle",
+    "Fair equality of opportunity",
+    "Equal basic liberties",
+    "Total welfare"
+   ],
+   "a": 2,
+   "w": "The first principle of equal liberty has priority."
+  },
+  {
+   "q": "Rawls calls which primary good perhaps the most important?",
+   "o": [
+    "Income",
+    "Wealth",
+    "The social bases of self-respect",
+    "Freedom of movement"
+   ],
+   "a": 2,
+   "w": "Self-respect, in A Theory of Justice §67."
+  },
+  {
+   "q": "The 'overlapping consensus' appears in…",
+   "o": [
+    "A Theory of Justice",
+    "Political Liberalism",
+    "The Law of Peoples",
+    "Anarchy, State, and Utopia"
+   ],
+   "a": 1,
+   "w": "Political Liberalism (1993)."
+  },
+  {
+   "q": "Who called Rawls's approach 'transcendental institutionalism'?",
+   "o": [
+    "Sandel",
+    "Nozick",
+    "Amartya Sen",
+    "Okin"
+   ],
+   "a": 2,
+   "w": "Sen, The Idea of Justice (2009)."
+  },
+  {
+   "q": "Which case read reservation as part of equality, not an exception?",
+   "o": [
+    "Champakam Dorairajan",
+    "N.M. Thomas",
+    "Balaji",
+    "Golaknath"
+   ],
+   "a": 1,
+   "w": "State of Kerala v. N.M. Thomas (1975)."
+  }
  ],
- "sources": ["John Rawls, A Theory of Justice (1971; rev. 1999), §§1–5, 11–13, 24–26, 67", "John Rawls, Political Liberalism (1993); The Law of Peoples (1999); Justice as Fairness: A Restatement (2001)", "Robert Nozick, Anarchy, State, and Utopia (1974)", "Michael Sandel, Liberalism and the Limits of Justice (1982)", "Amartya Sen, The Idea of Justice (2009); Susan Moller Okin, Justice, Gender, and the Family (1989)", "Stanford Encyclopedia of Philosophy, 'John Rawls' and 'Original Position'", "State of Kerala v. N.M. Thomas (1975); RTE Act 2009, s.12(1)(c)", "PYQ themes: original position, difference principle, critiques of Rawls (Paper I, near every year)"],
+ "sources": [
+  "John Rawls, A Theory of Justice (1971; rev. 1999), §§1–5, 11–13, 24–26, 67",
+  "John Rawls, Political Liberalism (1993); The Law of Peoples (1999); Justice as Fairness: A Restatement (2001)",
+  "Robert Nozick, Anarchy, State, and Utopia (1974)",
+  "Michael Sandel, Liberalism and the Limits of Justice (1982)",
+  "Amartya Sen, The Idea of Justice (2009); Susan Moller Okin, Justice, Gender, and the Family (1989)",
+  "Stanford Encyclopedia of Philosophy, 'John Rawls' and 'Original Position'",
+  "State of Kerala v. N.M. Thomas (1975); RTE Act 2009, s.12(1)(c)",
+  "PYQ themes: original position, difference principle, critiques of Rawls (Paper I, near every year)"
+ ],
  "verified": "2026-11-10"
 }

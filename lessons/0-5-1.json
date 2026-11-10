@@ -1,0 +1,182 @@
+{
+ "id": "0-5-1",
+ "title": "Contemporary Theories: Elitist, Pluralist, Schumpeter",
+ "emoji": "🗳️",
+ "cards": [
+  {
+   "tag": "Why this matters",
+   "h": "When democracy meets reality",
+   "b": "<p>Classical theory asked citizens to rule. Twentieth-century scholars looked at real democracies and found something else. Most people did not take part. Parties, bosses and experts took the decisions.</p><p>So a new group of theorists lowered the target. They defined democracy by what actually happens: <b>competition for power</b>, not rule by all. This is the <b>realist</b> or <b>empirical</b> turn. It fits the behavioural revolution in political science after 1945.</p><p>This topic is in the syllabus under \"contemporary theories\". You must know three strands: <b>elite theory</b>, <b>Schumpeter's competitive democracy</b> and <b>pluralism</b> (Dahl). Examiners also expect the critics: Bachrach and Baratz, Pateman, Macpherson, and the radical participatory school.</p>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "Three pictures of power",
+   "b": "<svg class='d' viewBox='0 0 320 150'>\n<rect x='6' y='6' width='100' height='138' rx='8' fill='#f4dcd5' stroke='#a3362a'/>\n<path d='M56 20 L36 80 L76 80 Z' fill='#a3362a' opacity='.85'/>\n<rect x='22' y='86' width='68' height='24' rx='3' fill='#fff' stroke='#5d6474'/>\n<text x='56' y='123' font-size='10.5' text-anchor='middle' fill='#1d2433' font-weight='700'>Elitist</text>\n<text x='56' y='137' font-size='10' text-anchor='middle' fill='#1d2433'>few rule, many follow</text>\n<rect x='110' y='6' width='100' height='138' rx='8' fill='#dceaec' stroke='#2f6f7a'/>\n<circle cx='135' cy='40' r='13' fill='#fff' stroke='#2f6f7a'/><circle cx='180' cy='40' r='13' fill='#fff' stroke='#2f6f7a'/><circle cx='135' cy='80' r='13' fill='#fff' stroke='#2f6f7a'/><circle cx='180' cy='80' r='13' fill='#fff' stroke='#2f6f7a'/>\n<path d='M148 40 H167 M135 53 V67 M180 53 V67 M148 80 H167' stroke='#2f6f7a' stroke-width='1.5'/>\n<text x='160' y='123' font-size='10.5' text-anchor='middle' fill='#1d2433' font-weight='700'>Pluralist</text>\n<text x='160' y='137' font-size='10' text-anchor='middle' fill='#1d2433'>many groups compete</text>\n<rect x='214' y='6' width='100' height='138' rx='8' fill='#f1e4c6' stroke='#a8792a'/>\n<rect x='226' y='28' width='30' height='24' rx='4' fill='#fff' stroke='#a8792a'/><rect x='272' y='28' width='30' height='24' rx='4' fill='#fff' stroke='#a8792a'/>\n<text x='241' y='44' font-size='10' text-anchor='middle' fill='#1d2433'>Party A</text><text x='287' y='44' font-size='10' text-anchor='middle' fill='#1d2433'>Party B</text>\n<path d='M241 56 L264 78 M287 56 L264 78' stroke='#a8792a' stroke-width='1.5'/>\n<rect x='238' y='78' width='52' height='20' rx='4' fill='#a8792a'/><text x='264' y='92' font-size='10' text-anchor='middle' fill='#fff'>Voters</text>\n<text x='264' y='123' font-size='10.5' text-anchor='middle' fill='#1d2433' font-weight='700'>Schumpeter</text>\n<text x='264' y='137' font-size='10' text-anchor='middle' fill='#1d2433'>elites win votes</text>\n</svg><p>The three schools disagree on how power is spread.</p><ul><li><b>Elitists</b>: in every society, a small minority rules. Democracy changes who is in the elite, not the fact of elite rule.</li><li><b>Pluralists</b>: power is dispersed among many groups. No one group always wins.</li><li><b>Schumpeter</b>: leaders compete for the people's vote, much as firms compete for customers.</li></ul><p>Schumpeter sits between the two. He accepts elite rule but sees voting competition as the democratic part.</p>"
+  },
+  {
+   "tag": "Thinker",
+   "h": "The classical elite theorists",
+   "b": "<div class='box'><h4>Gaetano Mosca, The Ruling Class (1896)</h4>In every society, two classes appear: a ruling minority and a ruled majority. The minority wins because it is organised. The many cannot organise as easily.</div><div class='box'><h4>Vilfredo Pareto, The Mind and Society (1916)</h4>Elites rule, but they <b>circulate</b>. Old elites decay and new ones replace them. He described two elite types, <b>lions</b> (who rule by force) and <b>foxes</b> (who rule by cunning). Revolutions merely swap elites.</div><div class='box'><h4>Robert Michels, Political Parties (1911)</h4>Even democratic parties and trade unions become oligarchies. Large organisations need leaders, experts and officials. This is the <b>iron law of oligarchy</b>: organisation means oligarchy.</div><p>All three were wary of democracy and Marxism. They held that equal rule by all is a myth.</p>"
+  },
+  {
+   "tag": "Thinker",
+   "h": "C. Wright Mills and the power elite",
+   "b": "<p>Elite theory also has a left-wing version. <b>C. Wright Mills</b>, <i>The Power Elite</i> (1956), argued that America was run by a small circle that overlapped across three institutions: big corporations, the military and the executive branch of government. They shared backgrounds and met in the same circles.</p><p>Unlike Pareto, Mills used elite theory to <b>criticise</b> democracy. The public, he said, had become a passive \"mass\", while real decisions were made at the top.</p><p>Note the difference from Marx: for Mills, the elite is based on holding institutional posts, not only on owning capital. It is also a response to Dahl's pluralism.</p>"
+  },
+  {
+   "tag": "Thinker",
+   "h": "Schumpeter: democracy as a competitive method",
+   "b": "<p><b>Joseph Schumpeter</b>, <i>Capitalism, Socialism and Democracy</i> (1942), rejected the \"classical doctrine\" that there is a common good the people want. In his view, voters are ill-informed and easily swayed. They have no clear will.</p><div class='quote'>\"The democratic method is that institutional arrangement for arriving at political decisions in which individuals acquire the power to decide by means of a competitive struggle for the people's vote.\"</div><div class='who'>Schumpeter, 1942</div><p>The role of the people is not to decide issues but to <b>choose and remove leaders</b>. Democracy is a way of picking rulers, a bit like a market. Political parties are firms and votes are the currency.</p><p>This is the <b>minimalist</b> or <b>procedural</b> view. It is also called the <b>equilibrium model</b> by Macpherson.</p>"
+  },
+  {
+   "tag": "Thinker",
+   "h": "Dahl and pluralism",
+   "b": "<p><b>Robert Dahl</b>, in <i>A Preface to Democratic Theory</i> (1956) and <i>Who Governs?</i> (1961), studied New Haven, Connecticut. He found that different groups led on different issues. Power was <b>dispersed</b>, not held by one elite. Leaders needed to bargain with many groups.</p><p>Earlier, <b>David Truman</b>, <i>The Governmental Process</i> (1951), saw politics as interest-group competition.</p><p>Dahl then coined <b>polyarchy</b> (<i>Polyarchy</i>, 1971): rule by the many, the best real-world approximation of democracy. Its institutions, in his later list, are:</p><ul><li>Elected officials.</li><li>Free, fair and frequent elections.</li><li>Freedom of expression.</li><li>Alternative sources of information.</li><li>Associational autonomy.</li><li>Inclusive citizenship.</li></ul><p>This list is a handy test of whether a country is a democracy.</p>"
+  },
+  {
+   "tag": "Critique",
+   "h": "Is pluralism too rosy?",
+   "b": "<ul><li><b>Bias in the system</b>: E.E. Schattschneider, <i>The Semisovereign People</i> (1960), said the pluralist chorus sings with an upper-class accent. Business and the wealthy organise more easily than the poor.</li><li><b>Hidden power</b>: Bachrach and Baratz (1962) showed that elites can keep issues <i>off</i> the agenda, so no visible contest occurs. This is the second face of power (see lesson 0-6-0).</li><li><b>Business privilege</b>: Charles Lindblom, <i>Politics and Markets</i> (1977), moved from pluralism. Governments depend on business investment, so business has a privileged position. Dahl too later accepted that corporations distort equality (<i>Dilemmas of Pluralist Democracy</i>, 1982).</li><li><b>Neo-pluralism</b> accepts these points but still defends group competition.</li></ul>"
+  },
+  {
+   "tag": "Critique",
+   "h": "The participatory reply to the realists",
+   "b": "<p>The realists seemed to say apathy is healthy. <b>Carole Pateman</b>, <i>Participation and Democratic Theory</i> (1970), pushed back. The realists had misread the old theory. Writers like Rousseau and J.S. Mill valued participation for its effect on citizens.</p><p>She argued that people learn democracy by practising it, especially in workplaces. Low participation is a problem to fix, not a fact to accept.</p><p><b>C.B. Macpherson</b> likewise said that elitist models fit a market society and shrink democracy.</p><p>Others, such as <b>Peter Bachrach</b> (<i>The Theory of Democratic Elitism</i>, 1967), argued that elite theory protects the status quo.</p><p>These critiques lead to the participatory and deliberative models of the next lessons.</p>"
+  },
+  {
+   "tag": "Indian angle",
+   "h": "Elites, parties and groups in India",
+   "b": "<ul><li><b>Michels in India</b>: critics point to dynastic politics and top-down control in many parties. Intra-party democracy is weak. The Tenth Schedule (anti-defection law, 52nd Amendment, 1985) gives party leaders strong control over legislators.</li><li><b>Congress system</b>: Rajni Kothari argued that after independence one dominant party worked as a system of bargaining among factions (\"The Congress System in India\", 1964). It resembled a pluralist arena inside one party.</li><li><b>Interest groups</b>: business bodies (FICCI, CII), unions and farmers' groups lobby. The farmers' agitation of 2020-21 ended with the repeal of the three farm laws in November 2021, which shows how organised groups can force change.</li><li><b>Money and elite capture</b>: in February 2024 the Supreme Court struck down the electoral bonds scheme (<i>ADR v Union of India</i>) as violating the voter's right to information.</li></ul>"
+  },
+  {
+   "tag": "Exam lens",
+   "h": "How to answer",
+   "b": "<div class='box'>\"Elite theory of democracy is the denial of democracy.\" Discuss.</div><div class='box'>Examine Schumpeter's view of democracy as a method.</div><div class='box'>Critically evaluate the pluralist theory of democracy.</div><div class='box'>\"Iron law of oligarchy\": does it apply to Indian parties?</div><p><b>Structure:</b> define the shift from classical to realist theory. Give the three schools with one thinker and one book each. Use Dahl's polyarchy as the pluralist core. Then the critics: Schattschneider, Bachrach and Baratz, Lindblom, Pateman. Finish with Indian cases such as dynastic parties, farm laws repeal and electoral bonds. A table comparing the three schools earns marks.</p>",
+   "cls": "exam"
+  }
+ ],
+ "quiz": [
+  {
+   "q": "The iron law of oligarchy was formulated by…",
+   "o": [
+    "Mosca",
+    "Pareto",
+    "Michels",
+    "Mills"
+   ],
+   "a": 2,
+   "w": "Michels, Political Parties (1911): organisation leads to oligarchy."
+  },
+  {
+   "q": "Pareto's 'circulation of elites' means…",
+   "o": [
+    "Elites rule for life",
+    "Old elites are replaced by new ones",
+    "Elites are elected",
+    "The masses become elites"
+   ],
+   "a": 1,
+   "w": "Elites decay and are replaced, so rule by a few continues."
+  },
+  {
+   "q": "The Power Elite (1956) argues America was run by…",
+   "o": [
+    "Parties and unions",
+    "Corporate, military and political leaders",
+    "Judges and journalists",
+    "The middle class"
+   ],
+   "a": 1,
+   "w": "C. Wright Mills named corporate, military and executive leaders."
+  },
+  {
+   "q": "In Schumpeter's view, the people's main role is to…",
+   "o": [
+    "Make laws directly",
+    "Choose and remove leaders",
+    "Discover the common good",
+    "Run the economy"
+   ],
+   "a": 1,
+   "w": "Democracy is a competitive method for choosing leaders."
+  },
+  {
+   "q": "Schumpeter's book on democracy is…",
+   "o": [
+    "The Mind and Society",
+    "Capitalism, Socialism and Democracy",
+    "Politics and Markets",
+    "Polyarchy"
+   ],
+   "a": 1,
+   "w": "Published in 1942."
+  },
+  {
+   "q": "Dahl's study of New Haven appeared in…",
+   "o": [
+    "Who Governs?",
+    "The Governmental Process",
+    "The Semisovereign People",
+    "The Power Elite"
+   ],
+   "a": 0,
+   "w": "Who Governs? (1961) found dispersed power."
+  },
+  {
+   "q": "Which is NOT one of Dahl's polyarchy institutions?",
+   "o": [
+    "Free and fair elections",
+    "Associational autonomy",
+    "Alternative sources of information",
+    "Public ownership of industry"
+   ],
+   "a": 3,
+   "w": "Dahl's list has no requirement for public ownership."
+  },
+  {
+   "q": "The upper-class accent remark about the pluralist chorus is by…",
+   "o": [
+    "Schattschneider",
+    "Dahl",
+    "Lindblom",
+    "Truman"
+   ],
+   "a": 0,
+   "w": "The Semisovereign People (1960)."
+  },
+  {
+   "q": "Bachrach and Baratz criticised pluralists for ignoring…",
+   "o": [
+    "Voting",
+    "Non-decision-making that keeps issues off the agenda",
+    "Interest groups",
+    "The courts"
+   ],
+   "a": 1,
+   "w": "Their 1962 article on the second face of power."
+  },
+  {
+   "q": "Carole Pateman's 1970 book is…",
+   "o": [
+    "Participation and Democratic Theory",
+    "Models of Democracy",
+    "Democratic Theory",
+    "Polyarchy"
+   ],
+   "a": 0,
+   "w": "She criticised the realists and defended participation."
+  }
+ ],
+ "sources": [
+  "Mosca, The Ruling Class (1896); Pareto, The Mind and Society (1916); Michels, Political Parties (1911)",
+  "C. Wright Mills, The Power Elite (1956)",
+  "Schumpeter, Capitalism, Socialism and Democracy (1942)",
+  "Dahl, A Preface to Democratic Theory (1956), Who Governs? (1961), Polyarchy (1971), On Democracy (1998)",
+  "Schattschneider, The Semisovereign People (1960); Lindblom, Politics and Markets (1977)",
+  "Pateman, Participation and Democratic Theory (1970); Macpherson (1977); Heywood, Politics",
+  "Rajni Kothari, 'The Congress System in India', Asian Survey (1964)",
+  "ADR v Union of India (Supreme Court, 15 Feb 2024); PIB on repeal of farm laws, Nov 2021",
+  "PYQ themes: elite theory, Schumpeter, pluralism (Paper I Section A)"
+ ],
+ "verified": "2026-11-10"
+}
