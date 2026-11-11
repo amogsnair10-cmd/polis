@@ -1,0 +1,164 @@
+{
+ "id": "6-0-3",
+ "title": "Fascism and Nazism",
+ "emoji": "⚠️",
+ "cards": [
+  {
+   "tag": "Why this matters",
+   "h": "How a dictator was handed power by people who thought they could control him",
+   "b": "<p>On 30 January 1933, the German president Hindenburg appointed Adolf Hitler as chancellor. Conservative politicians thought they could use him and keep him in check.</p><p>Within 18 months he had no checks left.</p>"
+  },
+  {
+   "tag": "The story",
+   "h": "Mussolini goes first",
+   "b": "<p>Fascism began in Italy. <b>Mussolini</b>, once a socialist, led his Blackshirts in the 'March on Rome' (October 1922). The king asked him to form a government. By 1925 he had made himself dictator.</p><p>Fascists glorified the nation, the leader and violence, and hated democracy, liberals and socialists.</p>"
+  },
+  {
+   "tag": "The turning point",
+   "h": "Hitler's rise",
+   "b": "<svg class=\"d\" viewBox=\"0 0 320 180\"><line x1=\"14\" y1=\"10\" x2=\"14\" y2=\"170\" stroke=\"#a8792a\" stroke-width=\"2\"/><circle cx=\"14\" cy=\"22\" r=\"5\" fill=\"#f1e4c6\" stroke=\"#a8792a\" stroke-width=\"2\"/><text x=\"28\" y=\"26\" font-size=\"11\" font-weight=\"700\" fill=\"#a8792a\">1923</text><text x=\"112\" y=\"26\" font-size=\"11\" fill=\"#1d2433\">Beer Hall Putsch fails</text><circle cx=\"14\" cy=\"50\" r=\"5\" fill=\"#f1e4c6\" stroke=\"#a8792a\" stroke-width=\"2\"/><text x=\"28\" y=\"54\" font-size=\"11\" font-weight=\"700\" fill=\"#a8792a\">1925</text><text x=\"112\" y=\"54\" font-size=\"11\" fill=\"#1d2433\">Mein Kampf published</text><circle cx=\"14\" cy=\"78\" r=\"5\" fill=\"#f1e4c6\" stroke=\"#a8792a\" stroke-width=\"2\"/><text x=\"28\" y=\"82\" font-size=\"11\" font-weight=\"700\" fill=\"#a8792a\">1930-32</text><text x=\"112\" y=\"82\" font-size=\"11\" fill=\"#1d2433\">Depression boosts Nazis</text><circle cx=\"14\" cy=\"106\" r=\"5\" fill=\"#f1e4c6\" stroke=\"#a8792a\" stroke-width=\"2\"/><text x=\"28\" y=\"110\" font-size=\"11\" font-weight=\"700\" fill=\"#a8792a\">Jan 1933</text><text x=\"112\" y=\"110\" font-size=\"11\" fill=\"#1d2433\">Hitler chancellor</text><circle cx=\"14\" cy=\"134\" r=\"5\" fill=\"#f1e4c6\" stroke=\"#a8792a\" stroke-width=\"2\"/><text x=\"28\" y=\"138\" font-size=\"11\" font-weight=\"700\" fill=\"#a8792a\">Mar 1933</text><text x=\"112\" y=\"138\" font-size=\"11\" fill=\"#1d2433\">Enabling Act</text><circle cx=\"14\" cy=\"162\" r=\"5\" fill=\"#f1e4c6\" stroke=\"#a8792a\" stroke-width=\"2\"/><text x=\"28\" y=\"166\" font-size=\"11\" font-weight=\"700\" fill=\"#a8792a\">1935</text><text x=\"112\" y=\"166\" font-size=\"11\" fill=\"#1d2433\">Nuremberg Laws</text></svg><p>After a failed coup in 1923, Hitler turned to elections. The Nazis won 37 percent in July 1932, their best free result. After the Reichstag fire (February 1933) and the Enabling Act (March 1933), Germany became a one-party dictatorship.</p>"
+  },
+  {
+   "tag": "The twist",
+   "h": "Racism as state policy",
+   "b": "<p>The Nazis claimed 'Aryans' were a master race. They stripped Jews of citizenship and rights with the <b>Nuremberg Laws</b> (1935). On 9-10 November 1938 came <b>Kristallnacht</b>, when synagogues and Jewish shops were smashed and about 30,000 Jewish men arrested.</p><p>Hitler's regime also persecuted Roma, disabled people, homosexuals and political opponents.</p>"
+  },
+  {
+   "tag": "The story",
+   "h": "Why did it work?",
+   "b": "<p>Reasons historians give: economic misery, anger over Versailles, fear of communism, weak democratic habits, clever propaganda by Joseph Goebbels, and violence by the SA. The Nazi state also gave many Germans jobs and national pride.</p><p>But the same state was a machine of terror, with the Gestapo, camps and no free press.</p>"
+  },
+  {
+   "tag": "Myth vs fact",
+   "h": "Was Hitler elected dictator?",
+   "b": "<b>Myth:</b> Germans voted him in as dictator.<b>Fact:</b> the Nazis never won a majority in a free election. In November 1932 their share fell to about 33 percent. Hindenburg and conservative politicians <b>appointed</b> Hitler chancellor. He then used emergency powers to destroy democracy.<p>It shows how fragile democracy can be when elites bargain with extremists.</p>"
+  },
+  {
+   "tag": "Indian angle",
+   "h": "Meanwhile in India…",
+   "b": "<p>Bose, Gandhi and Nehru</p>"
+  },
+  {
+   "tag": "Recap",
+   "h": "Five takeaways, two puzzles",
+   "b": "<p><b>Five things to remember</b></p><ol><li>Mussolini took power in 1922.</li><li>Hitler was appointed in January 1933.</li><li>The Enabling Act ended democracy.</li><li>Nuremberg Laws and Kristallnacht targeted Jews.</li><li>Bose, Gandhi and Nehru reacted differently.</li></ol><p><b>Think about it</b></p><ul><li>How can democracies protect themselves?</li><li>Why did people support or tolerate the regime?</li></ul>",
+   "cls": "exam"
+  }
+ ],
+ "quiz": [
+  {
+   "q": "Italian fascism's leader...",
+   "o": [
+    "Franco",
+    "Salazar",
+    "Mussolini",
+    "Hitler"
+   ],
+   "a": 2,
+   "w": "March on Rome, 1922."
+  },
+  {
+   "q": "Hitler became chancellor in...",
+   "o": [
+    "1933",
+    "1923",
+    "1939",
+    "1945"
+   ],
+   "a": 0,
+   "w": "30 January."
+  },
+  {
+   "q": "The Enabling Act was passed in...",
+   "o": [
+    "1923",
+    "1935",
+    "1938",
+    "March 1933"
+   ],
+   "a": 3,
+   "w": "It gave Hitler decree powers."
+  },
+  {
+   "q": "Mein Kampf was published in...",
+   "o": [
+    "1933",
+    "1925",
+    "1939",
+    "1914"
+   ],
+   "a": 1,
+   "w": "Written in prison."
+  },
+  {
+   "q": "The Nuremberg Laws were in...",
+   "o": [
+    "1935",
+    "1923",
+    "1933",
+    "1941"
+   ],
+   "a": 0,
+   "w": "Stripped Jews of rights."
+  },
+  {
+   "q": "Kristallnacht happened in...",
+   "o": [
+    "January 1933",
+    "1945",
+    "1923",
+    "November 1938"
+   ],
+   "a": 3,
+   "w": "9-10 November."
+  },
+  {
+   "q": "The Nazis' best free result was about...",
+   "o": [
+    "51 percent",
+    "37 percent",
+    "90 percent",
+    "10 percent"
+   ],
+   "a": 1,
+   "w": "July 1932."
+  },
+  {
+   "q": "Hitler came to power by...",
+   "o": [
+    "A coup",
+    "A free landslide",
+    "Appointment by Hindenburg",
+    "A war"
+   ],
+   "a": 2,
+   "w": "Then he destroyed democracy."
+  },
+  {
+   "q": "Bose met Hitler in...",
+   "o": [
+    "1933",
+    "1947",
+    "1923",
+    "1942"
+   ],
+   "a": 3,
+   "w": "Berlin."
+  },
+  {
+   "q": "Nehru in 1936...",
+   "o": [
+    "Declined to meet Mussolini",
+    "Visited Hitler",
+    "Visited Franco",
+    "Met Goebbels"
+   ],
+   "a": 0,
+   "w": "An anti-fascist stand."
+  }
+ ],
+ "sources": [
+  "Evans, The Coming of the Third Reich (2003); Paxton, The Anatomy of Fascism (2004); Hayes, Bose in Nazi Germany (2011); Nehru, Autobiography"
+ ],
+ "verified": "2026-11-10"
+}

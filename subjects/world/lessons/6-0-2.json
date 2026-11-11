@@ -1,0 +1,164 @@
+{
+ "id": "6-0-2",
+ "title": "The Great Depression",
+ "emoji": "📉",
+ "cards": [
+  {
+   "tag": "Why this matters",
+   "h": "The crash did not cause it alone, but it lit the match",
+   "b": "<p>On Tuesday 29 October 1929, panicked investors dumped 16 million shares on the New York Stock Exchange. Prices crashed.</p><p>Within four years, a quarter of American workers had no job, and the whole world was in trouble.</p>"
+  },
+  {
+   "tag": "The story",
+   "h": "Boom to bust",
+   "b": "<svg class=\"d\" viewBox=\"0 0 320 214\"><defs><marker id=\"ar1\" markerWidth=\"8\" markerHeight=\"8\" refX=\"4\" refY=\"4\" orient=\"auto\"><path d=\"M0,0 L8,4 L0,8 z\" fill=\"#5d6474\"/></marker></defs><rect x=\"16\" y=\"2\" width=\"288\" height=\"28\" rx=\"6\" fill=\"#f1e4c6\" stroke=\"#a8792a\"/><text x=\"160\" y=\"20\" font-size=\"11\" text-anchor=\"middle\" fill=\"#1d2433\">1920s boom: easy credit, share speculation</text><line x1=\"160\" y1=\"30\" x2=\"160\" y2=\"42\" stroke=\"#5d6474\" stroke-width=\"1.5\" marker-end=\"url(#ar1)\"/><rect x=\"16\" y=\"44\" width=\"288\" height=\"28\" rx=\"6\" fill=\"#dceaec\" stroke=\"#2f6f7a\"/><text x=\"160\" y=\"62\" font-size=\"11\" text-anchor=\"middle\" fill=\"#1d2433\">October 1929: crash on Wall Street</text><line x1=\"160\" y1=\"72\" x2=\"160\" y2=\"84\" stroke=\"#5d6474\" stroke-width=\"1.5\" marker-end=\"url(#ar1)\"/><rect x=\"16\" y=\"86\" width=\"288\" height=\"28\" rx=\"6\" fill=\"#f1e4c6\" stroke=\"#a8792a\"/><text x=\"160\" y=\"104\" font-size=\"11\" text-anchor=\"middle\" fill=\"#1d2433\">Banks fail; people lose savings</text><line x1=\"160\" y1=\"114\" x2=\"160\" y2=\"126\" stroke=\"#5d6474\" stroke-width=\"1.5\" marker-end=\"url(#ar1)\"/><rect x=\"16\" y=\"128\" width=\"288\" height=\"28\" rx=\"6\" fill=\"#dceaec\" stroke=\"#2f6f7a\"/><text x=\"160\" y=\"146\" font-size=\"11\" text-anchor=\"middle\" fill=\"#1d2433\">Spending and trade collapse</text><line x1=\"160\" y1=\"156\" x2=\"160\" y2=\"168\" stroke=\"#5d6474\" stroke-width=\"1.5\" marker-end=\"url(#ar1)\"/><rect x=\"16\" y=\"170\" width=\"288\" height=\"28\" rx=\"6\" fill=\"#f1e4c6\" stroke=\"#a8792a\"/><text x=\"160\" y=\"188\" font-size=\"11\" text-anchor=\"middle\" fill=\"#1d2433\">Mass unemployment worldwide</text></svg><p>Thousands of US banks failed in the early 1930s, and there was no deposit insurance. World trade shrank by about two thirds.</p>"
+  },
+  {
+   "tag": "The turning point",
+   "h": "Wrong medicine",
+   "b": "<p>Governments cut spending and raised tariffs. The US Smoot-Hawley Tariff (1930) set high import taxes, and other countries retaliated. Staying on the gold standard forced many countries into deflation.</p><p>By 1933 US unemployment was about 25 percent, and in Germany about 6 million were jobless.</p>"
+  },
+  {
+   "tag": "The twist",
+   "h": "The New Deal and Keynes",
+   "b": "<p>In 1933 <b>Franklin D. Roosevelt</b> took office and began the <b>New Deal</b>: bank rescue, public works, Social Security (1935). John Maynard Keynes's <i>General Theory</i> (1936) argued that governments should spend to revive demand in a slump.</p><p>Historians still argue how much the New Deal did; the real recovery came with war spending.</p>"
+  },
+  {
+   "tag": "The story",
+   "h": "Politics turns ugly",
+   "b": "<p>Hardship fed anger. In Germany the Nazis rose from a small party to the largest in 1932. In Japan, the military gained power. The Depression did not make World War II certain, but it made it much likelier.</p>"
+  },
+  {
+   "tag": "Myth vs fact",
+   "h": "Did stockbrokers jump from windows?",
+   "b": "<b>Myth:</b> after the crash, ruined brokers leapt from skyscrapers by the dozen.<b>Fact:</b> it makes a dramatic story, but records show very few suicides in those weeks. Also, the crash itself did not cause the Depression: weak banks, debt and bad policy turned a crash into a catastrophe."
+  },
+  {
+   "tag": "Indian angle",
+   "h": "Meanwhile in India…",
+   "b": "<p>Farmers and gold</p>"
+  },
+  {
+   "tag": "Recap",
+   "h": "Five takeaways, two puzzles",
+   "b": "<p><b>Five things to remember</b></p><ol><li>The 1929 crash began the slump.</li><li>Bank failures and falling trade made it a global depression.</li><li>Wrong policies worsened it.</li><li>The New Deal and Keynes changed economic thinking.</li><li>Hardship helped extremists rise.</li></ol><p><b>Think about it</b></p><ul><li>Should governments spend more in a slump?</li><li>Why did the Depression hit farmers in India?</li></ul>",
+   "cls": "exam"
+  }
+ ],
+ "quiz": [
+  {
+   "q": "The Wall Street crash was in...",
+   "o": [
+    "1914",
+    "1933",
+    "October 1929",
+    "1945"
+   ],
+   "a": 2,
+   "w": "Black Tuesday was 29 October."
+  },
+  {
+   "q": "The Smoot-Hawley Act was a...",
+   "o": [
+    "High tariff",
+    "Bank rescue",
+    "Treaty",
+    "Social programme"
+   ],
+   "a": 0,
+   "w": "1930."
+  },
+  {
+   "q": "US unemployment peaked near...",
+   "o": [
+    "2 percent",
+    "50 percent",
+    "10 percent only",
+    "25 percent"
+   ],
+   "a": 3,
+   "w": "In 1933."
+  },
+  {
+   "q": "The New Deal was led by...",
+   "o": [
+    "Hoover",
+    "Franklin Roosevelt",
+    "Truman",
+    "Wilson"
+   ],
+   "a": 1,
+   "w": "From 1933."
+  },
+  {
+   "q": "Keynes wrote...",
+   "o": [
+    "The General Theory",
+    "Das Kapital",
+    "The Wealth of Nations",
+    "Mein Kampf"
+   ],
+   "a": 0,
+   "w": "1936."
+  },
+  {
+   "q": "Social Security began in...",
+   "o": [
+    "1929",
+    "1945",
+    "1913",
+    "1935"
+   ],
+   "a": 3,
+   "w": "US New Deal."
+  },
+  {
+   "q": "The Depression helped which German party?",
+   "o": [
+    "Greens",
+    "Nazis",
+    "Liberals",
+    "Monarchists"
+   ],
+   "a": 1,
+   "w": "They became largest in 1932."
+  },
+  {
+   "q": "The 'brokers leaping' story is...",
+   "o": [
+    "Proven",
+    "From a court",
+    "Mostly exaggerated",
+    "From Keynes"
+   ],
+   "a": 2,
+   "w": "Few suicides."
+  },
+  {
+   "q": "India's farm prices in the 1930s...",
+   "o": [
+    "Rose",
+    "Stayed the same",
+    "Doubled",
+    "Fell sharply"
+   ],
+   "a": 3,
+   "w": "Peasants fell into debt."
+  },
+  {
+   "q": "Salt March began in...",
+   "o": [
+    "1930",
+    "1919",
+    "1942",
+    "1947"
+   ],
+   "a": 0,
+   "w": "Gandhi's Dandi march."
+  }
+ ],
+ "sources": [
+  "Kindleberger, The World in Depression (1973); Galbraith, The Great Crash (1955); Tomlinson, The Economy of Modern India; Keynes (1936)"
+ ],
+ "verified": "2026-11-10"
+}

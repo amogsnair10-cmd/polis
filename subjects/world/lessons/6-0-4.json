@@ -1,0 +1,164 @@
+{
+ "id": "6-0-4",
+ "title": "The Second World War",
+ "emoji": "💥",
+ "cards": [
+  {
+   "tag": "Why this matters",
+   "h": "The deadliest war in history, in five dates",
+   "b": "<p>On 1 September 1939, Germany invaded Poland. Britain and France declared war two days later. Over six years, the war killed an estimated 70-85 million people, most of them civilians.</p><p>Here is the story in the fewest possible steps.</p>"
+  },
+  {
+   "tag": "The story",
+   "h": "Blitzkrieg and Britain alone",
+   "b": "<svg class=\"d\" viewBox=\"0 0 320 180\"><line x1=\"14\" y1=\"10\" x2=\"14\" y2=\"170\" stroke=\"#a8792a\" stroke-width=\"2\"/><circle cx=\"14\" cy=\"22\" r=\"5\" fill=\"#f1e4c6\" stroke=\"#a8792a\" stroke-width=\"2\"/><text x=\"28\" y=\"26\" font-size=\"11\" font-weight=\"700\" fill=\"#a8792a\">Sep 1939</text><text x=\"112\" y=\"26\" font-size=\"11\" fill=\"#1d2433\">Poland invaded</text><circle cx=\"14\" cy=\"50\" r=\"5\" fill=\"#f1e4c6\" stroke=\"#a8792a\" stroke-width=\"2\"/><text x=\"28\" y=\"54\" font-size=\"11\" font-weight=\"700\" fill=\"#a8792a\">Jun 1940</text><text x=\"112\" y=\"54\" font-size=\"11\" fill=\"#1d2433\">France falls</text><circle cx=\"14\" cy=\"78\" r=\"5\" fill=\"#f1e4c6\" stroke=\"#a8792a\" stroke-width=\"2\"/><text x=\"28\" y=\"82\" font-size=\"11\" font-weight=\"700\" fill=\"#a8792a\">Jun 1941</text><text x=\"112\" y=\"82\" font-size=\"11\" fill=\"#1d2433\">Germany invades USSR</text><circle cx=\"14\" cy=\"106\" r=\"5\" fill=\"#f1e4c6\" stroke=\"#a8792a\" stroke-width=\"2\"/><text x=\"28\" y=\"110\" font-size=\"11\" font-weight=\"700\" fill=\"#a8792a\">Dec 1941</text><text x=\"112\" y=\"110\" font-size=\"11\" fill=\"#1d2433\">Pearl Harbor</text><circle cx=\"14\" cy=\"134\" r=\"5\" fill=\"#f1e4c6\" stroke=\"#a8792a\" stroke-width=\"2\"/><text x=\"28\" y=\"138\" font-size=\"11\" font-weight=\"700\" fill=\"#a8792a\">Jun 1944</text><text x=\"112\" y=\"138\" font-size=\"11\" fill=\"#1d2433\">D-Day</text><circle cx=\"14\" cy=\"162\" r=\"5\" fill=\"#f1e4c6\" stroke=\"#a8792a\" stroke-width=\"2\"/><text x=\"28\" y=\"166\" font-size=\"11\" font-weight=\"700\" fill=\"#a8792a\">Aug 1945</text><text x=\"112\" y=\"166\" font-size=\"11\" fill=\"#1d2433\">Atom bombs; Japan surrenders</text></svg><p>Germany's fast attack, <i>Blitzkrieg</i>, conquered Poland and then France in six weeks (1940). Britain held out in the Battle of Britain, with Churchill's leadership.</p>"
+  },
+  {
+   "tag": "The turning point",
+   "h": "The East and the Pacific",
+   "b": "<p>In June 1941 Hitler invaded the Soviet Union. On 7 December 1941 Japan attacked Pearl Harbor, and the US entered the war. The Soviets beat Germany at <b>Stalingrad</b> (1942-43). The Soviet Union lost about 27 million people.</p><p>In June 1944 Allied forces landed in Normandy (<b>D-Day</b>, 6 June). Germany surrendered on 8 May 1945.</p>"
+  },
+  {
+   "tag": "The twist",
+   "h": "The bomb",
+   "b": "<p>The US dropped atomic bombs on <b>Hiroshima</b> (6 August 1945) and <b>Nagasaki</b> (9 August). Japan announced surrender on 15 August; the formal signing was on 2 September. Historians still argue about whether the bombs were needed, or whether the Soviet entry into the war was decisive.</p>"
+  },
+  {
+   "tag": "The story",
+   "h": "The cost and the aftermath",
+   "b": "<p>Cities lay in ruins, and tens of millions were displaced. The war gave birth to the United Nations (1945), the Nuremberg trials, and a world with two superpowers, the US and USSR. It also made colonial empires harder to hold.</p>"
+  },
+  {
+   "tag": "Myth vs fact",
+   "h": "Did the war start only in Europe in 1939?",
+   "b": "<b>Myth:</b> WWII started with Poland.<b>Fact:</b> in Asia, Japan invaded China in 1937 (or Manchuria in 1931), so for China the war began earlier. Also, Allied victory was not only the work of the US and Britain: the Soviet Union and China bore enormous losses."
+  },
+  {
+   "tag": "Indian angle",
+   "h": "Meanwhile in India…",
+   "b": "<p>An army, a famine and a movement</p>"
+  },
+  {
+   "tag": "Recap",
+   "h": "Five takeaways, two puzzles",
+   "b": "<p><b>Five things to remember</b></p><ol><li>WWII began in 1939 (earlier in Asia).</li><li>Germany attacked the USSR in 1941; Pearl Harbor drew in the US.</li><li>D-Day 1944; Germany surrendered May 1945.</li><li>Atomic bombs preceded Japan's surrender in August 1945.</li><li>India contributed troops and suffered a famine.</li></ol><p><b>Think about it</b></p><ul><li>Was the bombing of cities justified?</li><li>How did the war speed up decolonisation?</li></ul>",
+   "cls": "exam"
+  }
+ ],
+ "quiz": [
+  {
+   "q": "The war began in Europe with the invasion of...",
+   "o": [
+    "France",
+    "Russia",
+    "Poland",
+    "Austria"
+   ],
+   "a": 2,
+   "w": "1 September 1939."
+  },
+  {
+   "q": "France fell in...",
+   "o": [
+    "1940",
+    "1939",
+    "1944",
+    "1942"
+   ],
+   "a": 0,
+   "w": "In six weeks."
+  },
+  {
+   "q": "Germany invaded the USSR in...",
+   "o": [
+    "1939",
+    "1943",
+    "1945",
+    "1941"
+   ],
+   "a": 3,
+   "w": "Operation Barbarossa."
+  },
+  {
+   "q": "Pearl Harbor was attacked on...",
+   "o": [
+    "1 Sept 1939",
+    "7 December 1941",
+    "6 June 1944",
+    "6 Aug 1945"
+   ],
+   "a": 1,
+   "w": "By Japan."
+  },
+  {
+   "q": "Which battle turned the Eastern Front?",
+   "o": [
+    "Stalingrad",
+    "Dunkirk",
+    "Midway",
+    "Waterloo"
+   ],
+   "a": 0,
+   "w": "1942-43."
+  },
+  {
+   "q": "D-Day was...",
+   "o": [
+    "8 May 1945",
+    "7 Dec 1941",
+    "1 Sept 1939",
+    "6 June 1944"
+   ],
+   "a": 3,
+   "w": "In Normandy."
+  },
+  {
+   "q": "Hiroshima was bombed on...",
+   "o": [
+    "9 August",
+    "6 August 1945",
+    "15 August",
+    "2 September"
+   ],
+   "a": 1,
+   "w": "The first atomic bomb."
+  },
+  {
+   "q": "The Soviet Union lost about...",
+   "o": [
+    "27,000",
+    "2.7 million",
+    "27 million",
+    "270 million"
+   ],
+   "a": 2,
+   "w": "The heaviest toll."
+  },
+  {
+   "q": "The Bengal Famine was in...",
+   "o": [
+    "1857",
+    "1947",
+    "1905",
+    "1943"
+   ],
+   "a": 3,
+   "w": "About 3 million died."
+  },
+  {
+   "q": "Imphal and Kohima stopped...",
+   "o": [
+    "Japan",
+    "Germany",
+    "Russia",
+    "Italy"
+   ],
+   "a": 0,
+   "w": "In 1944."
+  }
+ ],
+ "sources": [
+  "Evans, The Third Reich at War; Overy, Why the Allies Won; Raghavan, India's War (2016); Mukerjee, Churchill's Secret War (2010)"
+ ],
+ "verified": "2026-11-10"
+}

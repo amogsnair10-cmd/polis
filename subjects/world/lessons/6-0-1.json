@@ -1,0 +1,164 @@
+{
+ "id": "6-0-1",
+ "title": "The Russian Revolution",
+ "emoji": "🚩",
+ "cards": [
+  {
+   "tag": "Why this matters",
+   "h": "A sealed train, a tsar's abdication and a revolution in a week",
+   "b": "<p>In April 1917, a train carrying <b>Lenin</b> from exile in Switzerland rolled across Germany toward Russia. Germany let it pass, hoping he would weaken Russia's war effort.</p><p>It worked, beyond what anyone expected.</p>"
+  },
+  {
+   "tag": "The story",
+   "h": "The tsar falls",
+   "b": "<p>Russia in 1917 was exhausted by war, with food shortages. In Petrograd, strikes and women's marches on 8 March (23 February in the old calendar) grew into revolt. Soldiers joined the crowds.</p><b>Nicholas II</b> abdicated. The Romanov dynasty, 300 years old, was over. A Provisional Government took charge, but kept fighting the war."
+  },
+  {
+   "tag": "The turning point",
+   "h": "Peace, land, bread",
+   "b": "<svg class=\"d\" viewBox=\"0 0 320 180\"><line x1=\"14\" y1=\"10\" x2=\"14\" y2=\"170\" stroke=\"#a8792a\" stroke-width=\"2\"/><circle cx=\"14\" cy=\"22\" r=\"5\" fill=\"#f1e4c6\" stroke=\"#a8792a\" stroke-width=\"2\"/><text x=\"28\" y=\"26\" font-size=\"11\" font-weight=\"700\" fill=\"#a8792a\">Feb 1917</text><text x=\"112\" y=\"26\" font-size=\"11\" fill=\"#1d2433\">Tsar abdicates</text><circle cx=\"14\" cy=\"50\" r=\"5\" fill=\"#f1e4c6\" stroke=\"#a8792a\" stroke-width=\"2\"/><text x=\"28\" y=\"54\" font-size=\"11\" font-weight=\"700\" fill=\"#a8792a\">Apr 1917</text><text x=\"112\" y=\"54\" font-size=\"11\" fill=\"#1d2433\">Lenin returns</text><circle cx=\"14\" cy=\"78\" r=\"5\" fill=\"#f1e4c6\" stroke=\"#a8792a\" stroke-width=\"2\"/><text x=\"28\" y=\"82\" font-size=\"11\" font-weight=\"700\" fill=\"#a8792a\">Oct 1917</text><text x=\"112\" y=\"82\" font-size=\"11\" fill=\"#1d2433\">Bolsheviks seize power</text><circle cx=\"14\" cy=\"106\" r=\"5\" fill=\"#f1e4c6\" stroke=\"#a8792a\" stroke-width=\"2\"/><text x=\"28\" y=\"110\" font-size=\"11\" font-weight=\"700\" fill=\"#a8792a\">1918-22</text><text x=\"112\" y=\"110\" font-size=\"11\" fill=\"#1d2433\">Civil War</text><circle cx=\"14\" cy=\"134\" r=\"5\" fill=\"#f1e4c6\" stroke=\"#a8792a\" stroke-width=\"2\"/><text x=\"28\" y=\"138\" font-size=\"11\" font-weight=\"700\" fill=\"#a8792a\">1922</text><text x=\"112\" y=\"138\" font-size=\"11\" fill=\"#1d2433\">USSR formed</text><circle cx=\"14\" cy=\"162\" r=\"5\" fill=\"#f1e4c6\" stroke=\"#a8792a\" stroke-width=\"2\"/><text x=\"28\" y=\"166\" font-size=\"11\" font-weight=\"700\" fill=\"#a8792a\">1924</text><text x=\"112\" y=\"166\" font-size=\"11\" fill=\"#1d2433\">Lenin dies</text></svg><p>Lenin's Bolsheviks promised 'Peace, land and bread'. On 25 October (7 November, new calendar), they took over the capital and government buildings with little fighting.</p>"
+  },
+  {
+   "tag": "The twist",
+   "h": "Civil war",
+   "b": "<p>Reds (Bolsheviks) fought Whites (various opponents), with foreign intervention. The war lasted to 1922. Millions died from fighting, famine and disease. The Bolsheviks created the secret police, the Cheka.</p><p>The tsar and his family were shot in July 1918 at Yekaterinburg.</p>"
+  },
+  {
+   "tag": "The story",
+   "h": "A new state",
+   "b": "<p>In 1922 the Union of Soviet Socialist Republics was founded. After Lenin died in 1924, <b>Stalin</b> beat Trotsky in the struggle for power. The state took over industry and farms and ruled by terror in the 1930s.</p><p>The Revolution inspired communists and anticolonial movements across the world.</p>"
+  },
+  {
+   "tag": "Myth vs fact",
+   "h": "Did the Bolsheviks storm the Winter Palace in a huge battle?",
+   "b": "<b>Myth:</b> thousands charged the Palace in a bloody fight.<b>Fact:</b> the real seizure was fairly quiet, with few casualties. The famous images come from Eisenstein's 1928 film <i>October</i> and later propaganda.<p>Also: the date. Russia used the Julian calendar until 1918, so the 'October' revolution is on 7 November in our calendar.</p>"
+  },
+  {
+   "tag": "Indian angle",
+   "h": "Meanwhile in India…",
+   "b": "<p>Red ideas travel</p>"
+  },
+  {
+   "tag": "Recap",
+   "h": "Five takeaways, two puzzles",
+   "b": "<p><b>Five things to remember</b></p><ol><li>The tsar fell in February 1917.</li><li>The Bolsheviks took power in October 1917.</li><li>A civil war lasted to 1922.</li><li>The USSR was created in 1922.</li><li>India's thinkers were inspired.</li></ol><p><b>Think about it</b></p><ul><li>Why did the Provisional Government fail?</li><li>Is a revolution made by leaders, or by crowds?</li></ul>",
+   "cls": "exam"
+  }
+ ],
+ "quiz": [
+  {
+   "q": "The tsar who abdicated was...",
+   "o": [
+    "Alexander II",
+    "Peter",
+    "Nicholas II",
+    "Ivan"
+   ],
+   "a": 2,
+   "w": "March 1917."
+  },
+  {
+   "q": "Lenin returned to Russia in...",
+   "o": [
+    "April 1917",
+    "Oct 1917",
+    "1905",
+    "1922"
+   ],
+   "a": 0,
+   "w": "By a sealed train."
+  },
+  {
+   "q": "The Bolsheviks' slogan was...",
+   "o": [
+    "Liberty, equality, fraternity",
+    "Workers unite",
+    "Long live the tsar",
+    "Peace, land and bread"
+   ],
+   "a": 3,
+   "w": "1917."
+  },
+  {
+   "q": "The October Revolution is dated...",
+   "o": [
+    "1 January",
+    "7 November in our calendar",
+    "25 December",
+    "4 July"
+   ],
+   "a": 1,
+   "w": "Old-style 25 October."
+  },
+  {
+   "q": "The Civil War was between...",
+   "o": [
+    "Reds and Whites",
+    "Greens and blues",
+    "Tsar and Pope",
+    "Germans and French"
+   ],
+   "a": 0,
+   "w": "1918-22."
+  },
+  {
+   "q": "USSR was formed in...",
+   "o": [
+    "1917",
+    "1945",
+    "1924",
+    "1922"
+   ],
+   "a": 3,
+   "w": "Union of Soviet Socialist Republics."
+  },
+  {
+   "q": "Lenin died in...",
+   "o": [
+    "1917",
+    "1924",
+    "1922",
+    "1953"
+   ],
+   "a": 1,
+   "w": "Stalin followed."
+  },
+  {
+   "q": "The famous 'storming' image comes from...",
+   "o": [
+    "A photograph",
+    "Lenin's diary",
+    "Eisenstein's film",
+    "A tsar's order"
+   ],
+   "a": 2,
+   "w": "October, 1928."
+  },
+  {
+   "q": "M. N. Roy argued with Lenin at...",
+   "o": [
+    "Yalta",
+    "Versailles",
+    "Bandung",
+    "The Second Comintern Congress"
+   ],
+   "a": 3,
+   "w": "1920."
+  },
+  {
+   "q": "Nehru visited the USSR in...",
+   "o": [
+    "1927",
+    "1917",
+    "1947",
+    "1962"
+   ],
+   "a": 0,
+   "w": "Impressed by planning."
+  }
+ ],
+ "sources": [
+  "Fitzpatrick, The Russian Revolution (1982); Figes, A People's Tragedy (1996); Roy, Memoirs; Nehru, Autobiography"
+ ],
+ "verified": "2026-11-10"
+}

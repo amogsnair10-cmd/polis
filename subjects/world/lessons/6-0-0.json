@@ -1,0 +1,164 @@
+{
+ "id": "6-0-0",
+ "title": "The First World War",
+ "emoji": "🪖",
+ "cards": [
+  {
+   "tag": "Why this matters",
+   "h": "A wrong turn in Sarajevo lit a fuse across the world",
+   "b": "<p>On 28 June 1914, the Austrian heir, Archduke Franz Ferdinand, was driving through Sarajevo. His car stalled after an earlier bomb attempt failed. A 19-year-old named <b>Gavrilo Princip</b> was standing nearby. He shot the Archduke and his wife.</p><p>Within six weeks, Europe was at war.</p>"
+  },
+  {
+   "tag": "The story",
+   "h": "The fuse",
+   "b": "<svg class=\"d\" viewBox=\"0 0 320 180\"><line x1=\"14\" y1=\"10\" x2=\"14\" y2=\"170\" stroke=\"#a8792a\" stroke-width=\"2\"/><circle cx=\"14\" cy=\"22\" r=\"5\" fill=\"#f1e4c6\" stroke=\"#a8792a\" stroke-width=\"2\"/><text x=\"28\" y=\"26\" font-size=\"11\" font-weight=\"700\" fill=\"#a8792a\">28 Jun 1914</text><text x=\"112\" y=\"26\" font-size=\"11\" fill=\"#1d2433\">Assassination in Sarajevo</text><circle cx=\"14\" cy=\"50\" r=\"5\" fill=\"#f1e4c6\" stroke=\"#a8792a\" stroke-width=\"2\"/><text x=\"28\" y=\"54\" font-size=\"11\" font-weight=\"700\" fill=\"#a8792a\">Jul-Aug 1914</text><text x=\"112\" y=\"54\" font-size=\"11\" fill=\"#1d2433\">Ultimatums, mobilisation, war</text><circle cx=\"14\" cy=\"78\" r=\"5\" fill=\"#f1e4c6\" stroke=\"#a8792a\" stroke-width=\"2\"/><text x=\"28\" y=\"82\" font-size=\"11\" font-weight=\"700\" fill=\"#a8792a\">1915</text><text x=\"112\" y=\"82\" font-size=\"11\" fill=\"#1d2433\">Gas at Ypres; Gallipoli</text><circle cx=\"14\" cy=\"106\" r=\"5\" fill=\"#f1e4c6\" stroke=\"#a8792a\" stroke-width=\"2\"/><text x=\"28\" y=\"110\" font-size=\"11\" font-weight=\"700\" fill=\"#a8792a\">1916</text><text x=\"112\" y=\"110\" font-size=\"11\" fill=\"#1d2433\">Verdun and the Somme</text><circle cx=\"14\" cy=\"134\" r=\"5\" fill=\"#f1e4c6\" stroke=\"#a8792a\" stroke-width=\"2\"/><text x=\"28\" y=\"138\" font-size=\"11\" font-weight=\"700\" fill=\"#a8792a\">1917</text><text x=\"112\" y=\"138\" font-size=\"11\" fill=\"#1d2433\">US joins; Russia exits</text><circle cx=\"14\" cy=\"162\" r=\"5\" fill=\"#f1e4c6\" stroke=\"#a8792a\" stroke-width=\"2\"/><text x=\"28\" y=\"166\" font-size=\"11\" font-weight=\"700\" fill=\"#a8792a\">11 Nov 1918</text><text x=\"112\" y=\"166\" font-size=\"11\" fill=\"#1d2433\">Armistice</text></svg><p>Austria-Hungary blamed Serbia. Alliances pulled in Russia, Germany, France and Britain. Germany's plan was to knock out France fast. It failed, and the armies dug in.</p>"
+  },
+  {
+   "tag": "The turning point",
+   "h": "The trenches",
+   "b": "<p>From late 1914 the Western Front was a line of trenches from the sea to Switzerland. Machine guns made charging deadly. On 1 July 1916, the first day of the Somme, Britain suffered about 57,000 casualties, with about 19,000 killed.</p><p>New horrors: poison gas (used at Ypres in 1915), tanks (1916), aircraft and submarines.</p>"
+  },
+  {
+   "tag": "The twist",
+   "h": "A truce and a long war",
+   "b": "<p>At Christmas 1914, soldiers on parts of the front stopped firing and swapped gifts. It was short-lived and not general.</p><p>In 1917 the US joined after German submarine attacks, while Russia, torn by revolution, left the war. Germany asked for an armistice, which began on <b>11 November 1918</b>.</p>"
+  },
+  {
+   "tag": "The story",
+   "h": "The cost",
+   "b": "<p>Roughly 9-10 million soldiers died, plus millions of civilians. Four empires fell: German, Austro-Hungarian, Russian and Ottoman. The <b>Treaty of Versailles</b> (1919) blamed Germany and imposed reparations.</p><p>The 1918-19 influenza pandemic, helped by troop movements, killed many more.</p>"
+  },
+  {
+   "tag": "Historians argue",
+   "h": "Whose fault was it?",
+   "b": "<p>After the war, Germany was blamed. In 1961 Fritz Fischer argued Germany pushed for war. In 2012 Christopher Clark's <i>The Sleepwalkers</i> argued all powers stumbled into it.</p><p>A famous myth: soldiers were 'lions led by donkeys'. Historians now say that image is too simple, since commanders learned and tactics improved.</p>"
+  },
+  {
+   "tag": "Indian angle",
+   "h": "Meanwhile in India…",
+   "b": "<p>The forgotten army</p>"
+  },
+  {
+   "tag": "Recap",
+   "h": "Five takeaways, two puzzles",
+   "b": "<p><b>Five things to remember</b></p><ol><li>The war began after Sarajevo in 1914.</li><li>Trench warfare killed millions.</li><li>Ended on 11 November 1918.</li><li>Four empires collapsed.</li><li>Indians served in large numbers.</li></ol><p><b>Think about it</b></p><ul><li>Why did alliances make a local crisis global?</li><li>What did India get for its sacrifice?</li></ul>",
+   "cls": "exam"
+  }
+ ],
+ "quiz": [
+  {
+   "q": "The assassin was...",
+   "o": [
+    "Lenin",
+    "Bismarck",
+    "Gavrilo Princip",
+    "Kaiser Wilhelm"
+   ],
+   "a": 2,
+   "w": "A Bosnian Serb."
+  },
+  {
+   "q": "The Archduke was shot in...",
+   "o": [
+    "Sarajevo",
+    "Vienna",
+    "Berlin",
+    "Belgrade"
+   ],
+   "a": 0,
+   "w": "28 June 1914."
+  },
+  {
+   "q": "The Somme began in...",
+   "o": [
+    "1914",
+    "1918",
+    "1915",
+    "1916"
+   ],
+   "a": 3,
+   "w": "1 July."
+  },
+  {
+   "q": "The war ended on...",
+   "o": [
+    "28 June 1919",
+    "11 November 1918",
+    "1 Sept 1939",
+    "14 Aug 1945"
+   ],
+   "a": 1,
+   "w": "The Armistice."
+  },
+  {
+   "q": "The Treaty of Versailles was in...",
+   "o": [
+    "1919",
+    "1918",
+    "1923",
+    "1945"
+   ],
+   "a": 0,
+   "w": "Blamed Germany."
+  },
+  {
+   "q": "Which empire did not collapse after WWI?",
+   "o": [
+    "Ottoman",
+    "German",
+    "Russian",
+    "British"
+   ],
+   "a": 3,
+   "w": "It lasted but was weakened."
+  },
+  {
+   "q": "The Sleepwalkers is by...",
+   "o": [
+    "Fritz Fischer",
+    "Christopher Clark",
+    "A. J. P. Taylor",
+    "Barbara Tuchman"
+   ],
+   "a": 1,
+   "w": "2012."
+  },
+  {
+   "q": "About how many Indians served overseas?",
+   "o": [
+    "About 13,000",
+    "About 130 million",
+    "About 1.3 million",
+    "None"
+   ],
+   "a": 2,
+   "w": "About 74,000 died."
+  },
+  {
+   "q": "The first Indian VC winner was...",
+   "o": [
+    "Sam Manekshaw",
+    "Subhas Bose",
+    "Bhagat Singh",
+    "Khudadad Khan"
+   ],
+   "a": 3,
+   "w": "1914."
+  },
+  {
+   "q": "Gas was first used widely at...",
+   "o": [
+    "Ypres in 1915",
+    "Verdun in 1916",
+    "The Marne",
+    "Gallipoli"
+   ],
+   "a": 0,
+   "w": "By Germany."
+  }
+ ],
+ "sources": [
+  "Clark, The Sleepwalkers (2012); Fischer, Griff nach der Weltmacht (1961); Hastings; Das, India, Empire and First World War Culture (2018); Imperial War Museum"
+ ],
+ "verified": "2026-11-10"
+}

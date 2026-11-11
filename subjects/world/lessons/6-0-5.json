@@ -1,0 +1,164 @@
+{
+ "id": "6-0-5",
+ "title": "The Holocaust",
+ "emoji": "🕯️",
+ "cards": [
+  {
+   "tag": "Why this matters",
+   "h": "The murder of six million, planned like paperwork",
+   "b": "<p>This lesson is heavy. We tell it plainly because it must be remembered precisely.</p><p>Between 1933 and 1945, Nazi Germany and its collaborators persecuted Jews and then murdered about six million of them, two thirds of Europe's Jewish population.</p>"
+  },
+  {
+   "tag": "The story",
+   "h": "Step by step",
+   "b": "<svg class=\"d\" viewBox=\"0 0 320 208\"><line x1=\"14\" y1=\"10\" x2=\"14\" y2=\"198\" stroke=\"#a8792a\" stroke-width=\"2\"/><circle cx=\"14\" cy=\"22\" r=\"5\" fill=\"#f1e4c6\" stroke=\"#a8792a\" stroke-width=\"2\"/><text x=\"28\" y=\"26\" font-size=\"11\" font-weight=\"700\" fill=\"#a8792a\">1933</text><text x=\"112\" y=\"26\" font-size=\"11\" fill=\"#1d2433\">Boycotts, laws</text><circle cx=\"14\" cy=\"50\" r=\"5\" fill=\"#f1e4c6\" stroke=\"#a8792a\" stroke-width=\"2\"/><text x=\"28\" y=\"54\" font-size=\"11\" font-weight=\"700\" fill=\"#a8792a\">1935</text><text x=\"112\" y=\"54\" font-size=\"11\" fill=\"#1d2433\">Nuremberg Laws</text><circle cx=\"14\" cy=\"78\" r=\"5\" fill=\"#f1e4c6\" stroke=\"#a8792a\" stroke-width=\"2\"/><text x=\"28\" y=\"82\" font-size=\"11\" font-weight=\"700\" fill=\"#a8792a\">1938</text><text x=\"112\" y=\"82\" font-size=\"11\" fill=\"#1d2433\">Kristallnacht</text><circle cx=\"14\" cy=\"106\" r=\"5\" fill=\"#f1e4c6\" stroke=\"#a8792a\" stroke-width=\"2\"/><text x=\"28\" y=\"110\" font-size=\"11\" font-weight=\"700\" fill=\"#a8792a\">1939</text><text x=\"112\" y=\"110\" font-size=\"11\" fill=\"#1d2433\">Ghettos in Poland</text><circle cx=\"14\" cy=\"134\" r=\"5\" fill=\"#f1e4c6\" stroke=\"#a8792a\" stroke-width=\"2\"/><text x=\"28\" y=\"138\" font-size=\"11\" font-weight=\"700\" fill=\"#a8792a\">1941</text><text x=\"112\" y=\"138\" font-size=\"11\" fill=\"#1d2433\">Mass shootings begin</text><circle cx=\"14\" cy=\"162\" r=\"5\" fill=\"#f1e4c6\" stroke=\"#a8792a\" stroke-width=\"2\"/><text x=\"28\" y=\"166\" font-size=\"11\" font-weight=\"700\" fill=\"#a8792a\">1942</text><text x=\"112\" y=\"166\" font-size=\"11\" fill=\"#1d2433\">Wannsee; death camps</text><circle cx=\"14\" cy=\"190\" r=\"5\" fill=\"#f1e4c6\" stroke=\"#a8792a\" stroke-width=\"2\"/><text x=\"28\" y=\"194\" font-size=\"11\" font-weight=\"700\" fill=\"#a8792a\">27 Jan 1945</text><text x=\"112\" y=\"194\" font-size=\"11\" fill=\"#1d2433\">Auschwitz liberated</text></svg><p>The process began with exclusion, then ghettos, then killing. After the invasion of the USSR in 1941, mobile units called <i>Einsatzgruppen</i> shot over a million Jews, mostly in pits.</p>"
+  },
+  {
+   "tag": "The turning point",
+   "h": "The 'Final Solution'",
+   "b": "<p>At the <b>Wannsee Conference</b> (20 January 1942), officials coordinated the plan to murder all European Jews. Death camps such as Treblinka, Sobibor, Belzec and Auschwitz-Birkenau used gas chambers. About 1.1 million people were murdered at Auschwitz, around 1 million of them Jews.</p><p>It needed trains, clerks, police and the silence of many.</p>"
+  },
+  {
+   "tag": "The twist",
+   "h": "Others, and resistance",
+   "b": "<p>The Nazis also murdered Roma and Sinti, disabled people, Soviet prisoners of war, Poles and political prisoners. Jews resisted too, in ghetto uprisings: the <b>Warsaw Ghetto Uprising</b> (April-May 1943) was the largest.</p><p>Some non-Jews risked their lives to hide Jews. Israel's Yad Vashem honours them as 'Righteous Among the Nations'.</p>"
+  },
+  {
+   "tag": "The story",
+   "h": "Justice and memory",
+   "b": "<p>After the war, the Nuremberg trials (1945-46) tried leading Nazis. Raphael Lemkin, a Polish-Jewish lawyer, coined the word <b>genocide</b> in 1944. The UN adopted the Genocide Convention in 1948.</p><p>Holocaust Remembrance Day is observed on 27 January, the day Auschwitz was liberated in 1945.</p>"
+  },
+  {
+   "tag": "Myth vs fact",
+   "h": "'The Germans didn't know' and 'Jews didn't fight back'",
+   "b": "<b>Myth 1:</b> ordinary Germans did not know.<b>Fact:</b> many people saw deportations and knew of killings; how much they knew of the camps is debated, but the persecution was public.<b>Myth 2:</b> Jews went passively. <b>Fact:</b> there was armed resistance in many ghettos and camps, as well as vast spiritual and hidden resistance."
+  },
+  {
+   "tag": "Indian angle",
+   "h": "Meanwhile in India…",
+   "b": "<p>The Good Maharaja</p>"
+  },
+  {
+   "tag": "Recap",
+   "h": "Five takeaways, two puzzles",
+   "b": "<p><b>Five things to remember</b></p><ol><li>About six million Jews were murdered.</li><li>The process moved from exclusion to killing.</li><li>Wannsee coordinated it in January 1942.</li><li>Others were murdered too; resistance existed.</li><li>Genocide became a legal term.</li></ol><p><b>Think about it</b></p><ul><li>Why must we remember specifics?</li><li>What allows ordinary people to take part in atrocities?</li></ul>",
+   "cls": "exam"
+  }
+ ],
+ "quiz": [
+  {
+   "q": "About how many Jews were murdered?",
+   "o": [
+    "About 600,000",
+    "About 60 million",
+    "About six million",
+    "About 60,000"
+   ],
+   "a": 2,
+   "w": "Two thirds of Europe's Jews."
+  },
+  {
+   "q": "The Wannsee Conference was in...",
+   "o": [
+    "January 1942",
+    "1933",
+    "1938",
+    "1945"
+   ],
+   "a": 0,
+   "w": "20 January."
+  },
+  {
+   "q": "Auschwitz was liberated on...",
+   "o": [
+    "8 May 1945",
+    "6 June 1944",
+    "1 Sept 1939",
+    "27 January 1945"
+   ],
+   "a": 3,
+   "w": "By Soviet troops."
+  },
+  {
+   "q": "Einsatzgruppen were...",
+   "o": [
+    "Hospitals",
+    "Mobile killing units",
+    "Food trains",
+    "Courts"
+   ],
+   "a": 1,
+   "w": "Operating from 1941."
+  },
+  {
+   "q": "The largest ghetto uprising was in...",
+   "o": [
+    "Warsaw",
+    "Berlin",
+    "Paris",
+    "Vienna"
+   ],
+   "a": 0,
+   "w": "1943."
+  },
+  {
+   "q": "'Genocide' was coined by...",
+   "o": [
+    "Hitler",
+    "Churchill",
+    "Gandhi",
+    "Raphael Lemkin"
+   ],
+   "a": 3,
+   "w": "1944."
+  },
+  {
+   "q": "Yad Vashem honours...",
+   "o": [
+    "Nazi leaders",
+    "Righteous Among the Nations",
+    "Judges",
+    "Kings"
+   ],
+   "a": 1,
+   "w": "Rescuers of Jews."
+  },
+  {
+   "q": "Valivade camp was for...",
+   "o": [
+    "Soldiers",
+    "Germans",
+    "Polish refugees",
+    "French"
+   ],
+   "a": 2,
+   "w": "Near Kolhapur."
+  },
+  {
+   "q": "Who hosted Polish children in Jamnagar?",
+   "o": [
+    "Nehru",
+    "Gandhi",
+    "Churchill",
+    "Digvijaysinhji"
+   ],
+   "a": 3,
+   "w": "The 'Good Maharaja'."
+  },
+  {
+   "q": "The Nuremberg trials were in...",
+   "o": [
+    "1945-46",
+    "1933-34",
+    "1939",
+    "1950"
+   ],
+   "a": 0,
+   "w": "Of Nazi leaders."
+  }
+ ],
+ "sources": [
+  "Bauer, A History of the Holocaust; Longerich, Holocaust (2010); USHMM; Lemkin, Axis Rule (1944); Valivade Polish camp records"
+ ],
+ "verified": "2026-11-10"
+}
