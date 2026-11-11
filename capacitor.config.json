@@ -1,0 +1,6 @@
+{
+ "appId": "com.lightbulb.study",
+ "appName": "Light Bulb",
+ "webDir": "www",
+ "android": { "backgroundColor": "#0c1c36" }
+}

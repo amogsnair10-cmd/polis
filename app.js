@@ -134,7 +134,7 @@ document.getElementById('results').addEventListener('click',async e=>{const b=e.
 /* ---------- ask a doubt ---------- */
 const askSheet=document.getElementById('askSheet'),chat=document.getElementById('chat');
 function askView(){const has=!!ls.get('askKey');document.getElementById('keyBox').hidden=has;document.getElementById('chatBox').hidden=!has;
-  document.getElementById('model').value=ls.get('askModel')||'claude-opus-5-5'}
+  document.getElementById('model').value=ls.get('askModel')||'claude-haiku-5-5'}
 document.getElementById('askBtn').onclick=()=>{if(askSheet._lesson!==cur){chat.innerHTML='';askSheet._lesson=cur}askView();askSheet.hidden=false};
 document.getElementById('askClose').onclick=()=>askSheet.hidden=true;
 document.getElementById('saveKey').onclick=()=>{const k=document.getElementById('apiKey').value.trim();if(!k)return;ls.set('askKey',k);ls.set('askModel',document.getElementById('model').value);document.getElementById('apiKey').value='';askView()};
@@ -145,7 +145,7 @@ document.getElementById('sendDoubt').onclick=async()=>{
   const ai=document.createElement('div');ai.className='qa ai';ai.textContent='Thinking…';chat.appendChild(ai);chat.scrollTop=chat.scrollHeight;
   if(!navigator.onLine){ai.textContent='You are offline. Asking a doubt needs the internet.';return}
   try{const {ask}=await import('./ask.js');
-    await ask({apiKey:ls.get('askKey'),model:ls.get('askModel')||'claude-opus-5-5',subject:SUB.full,lessonId:SUB.id+'/'+cur,lesson:L[cur],cardIndex:Math.max(0,Math.min(curCard,L[cur].cards.length-1)),question:q,onText:t=>{ai.textContent=t;chat.scrollTop=chat.scrollHeight}})}
+    await ask({apiKey:ls.get('askKey'),model:ls.get('askModel')||'claude-haiku-5-5',subject:SUB.full,lessonId:SUB.id+'/'+cur,lesson:L[cur],cardIndex:Math.max(0,Math.min(curCard,L[cur].cards.length-1)),question:q,onText:t=>{ai.textContent=t;chat.scrollTop=chat.scrollHeight}})}
   catch(err){ai.textContent=(err&&err.status===401)?'That API key was rejected. Tap "Change key or model".':'Could not get an answer: '+(err&&err.message||err)}};
 
 if('serviceWorker' in navigator)addEventListener('load',()=>navigator.serviceWorker.register('sw.js'));
