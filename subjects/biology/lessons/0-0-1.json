@@ -1,0 +1,180 @@
+{
+ "id": "0-0-1",
+ "title": "The Cell: Prokaryotes and Eukaryotes",
+ "emoji": "🔬",
+ "cards": [
+  {
+   "tag": "Why this matters",
+   "h": "A city smaller than a dust grain",
+   "b": "<p>Every cell is like a tiny city. It has a wall or border, power plants, factories, a library, a post office and a waste team. Once you know the parts, diseases, antibiotics and even cancer start to make sense.</p><p>There are two big city plans: the simple one (prokaryote) and the planned, walled-room one (eukaryote).</p>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "Two cell types",
+   "b": "<p><b>Prokaryotes</b> (bacteria and archaea) have no nucleus. DNA floats in a region called the nucleoid. <b>Eukaryotes</b> (animals, plants, fungi, protists) keep DNA in a membrane-bound nucleus and have many membrane-bound organelles.</p><svg class=\"d\" viewBox=\"0 0 320 168\"><rect x=\"10\" y=\"4\" width=\"145\" height=\"26\" rx=\"6\" fill=\"#2f6f7a\"/><text x=\"82\" y=\"21\" text-anchor=\"middle\" font-size=\"11\" fill=\"#fff\">Prokaryote</text><rect x=\"10\" y=\"36\" width=\"145\" height=\"26\" rx=\"5\" fill=\"#dceaec\" stroke=\"#2f6f7a\"/><text x=\"82\" y=\"53\" text-anchor=\"middle\" font-size=\"10\" fill=\"#1d2433\">No nucleus</text><rect x=\"10\" y=\"68\" width=\"145\" height=\"26\" rx=\"5\" fill=\"#dceaec\" stroke=\"#2f6f7a\"/><text x=\"82\" y=\"85\" text-anchor=\"middle\" font-size=\"10\" fill=\"#1d2433\">Small: 1-10 µm</text><rect x=\"10\" y=\"100\" width=\"145\" height=\"26\" rx=\"5\" fill=\"#dceaec\" stroke=\"#2f6f7a\"/><text x=\"82\" y=\"117\" text-anchor=\"middle\" font-size=\"10\" fill=\"#1d2433\">Circular DNA</text><rect x=\"10\" y=\"132\" width=\"145\" height=\"26\" rx=\"5\" fill=\"#dceaec\" stroke=\"#2f6f7a\"/><text x=\"82\" y=\"149\" text-anchor=\"middle\" font-size=\"10\" fill=\"#1d2433\">Ribosomes 70S</text><rect x=\"165\" y=\"4\" width=\"145\" height=\"26\" rx=\"6\" fill=\"#a8792a\"/><text x=\"237\" y=\"21\" text-anchor=\"middle\" font-size=\"11\" fill=\"#fff\">Eukaryote</text><rect x=\"165\" y=\"36\" width=\"145\" height=\"26\" rx=\"5\" fill=\"#f1e4c6\" stroke=\"#a8792a\"/><text x=\"237\" y=\"53\" text-anchor=\"middle\" font-size=\"10\" fill=\"#1d2433\">True nucleus</text><rect x=\"165\" y=\"68\" width=\"145\" height=\"26\" rx=\"5\" fill=\"#f1e4c6\" stroke=\"#a8792a\"/><text x=\"237\" y=\"85\" text-anchor=\"middle\" font-size=\"10\" fill=\"#1d2433\">Larger: 10-100 µm</text><rect x=\"165\" y=\"100\" width=\"145\" height=\"26\" rx=\"5\" fill=\"#f1e4c6\" stroke=\"#a8792a\"/><text x=\"237\" y=\"117\" text-anchor=\"middle\" font-size=\"10\" fill=\"#1d2433\">Linear chromosomes</text><rect x=\"165\" y=\"132\" width=\"145\" height=\"26\" rx=\"5\" fill=\"#f1e4c6\" stroke=\"#a8792a\"/><text x=\"237\" y=\"149\" text-anchor=\"middle\" font-size=\"10\" fill=\"#1d2433\">Ribosomes 80S</text></svg>"
+  },
+  {
+   "tag": "Step by step",
+   "h": "The nucleus: the library",
+   "b": "<p>The nucleus holds DNA and is wrapped by a double membrane with pores. Inside, the nucleolus builds ribosome parts. Robert Brown named the nucleus in 1831. Instructions are copied here as messenger RNA and sent out through the pores.</p>"
+  },
+  {
+   "tag": "Step by step",
+   "h": "Ribosomes, ER and Golgi: factory and post office",
+   "b": "<p>Ribosomes are the protein makers. The rough ER (studded with ribosomes) makes proteins for export; the smooth ER makes lipids and detoxifies. The Golgi (found by Camillo Golgi, 1898) sorts and packs them.</p><svg class=\"d\" viewBox=\"0 0 320 172\"><defs><marker id=\"c1\" viewBox=\"0 0 10 10\" refX=\"8\" refY=\"5\" markerWidth=\"6\" markerHeight=\"6\" orient=\"auto\"><path d=\"M0 0L10 5L0 10z\" fill=\"#5d6474\"/></marker></defs><rect x=\"20\" y=\"6\" width=\"280\" height=\"28\" rx=\"6\" fill=\"#f1e4c6\" stroke=\"#a8792a\"/><text x=\"160\" y=\"24\" text-anchor=\"middle\" font-size=\"11\" fill=\"#1d2433\">Ribosome on rough ER builds protein</text><line x1=\"160\" y1=\"34\" x2=\"160\" y2=\"50\" stroke=\"#5d6474\" stroke-width=\"1.5\" marker-end=\"url(#c1)\"/><rect x=\"20\" y=\"50\" width=\"280\" height=\"28\" rx=\"6\" fill=\"#dceaec\" stroke=\"#2f6f7a\"/><text x=\"160\" y=\"68\" text-anchor=\"middle\" font-size=\"11\" fill=\"#1d2433\">Vesicle carries it to Golgi</text><line x1=\"160\" y1=\"78\" x2=\"160\" y2=\"94\" stroke=\"#5d6474\" stroke-width=\"1.5\" marker-end=\"url(#c1)\"/><rect x=\"20\" y=\"94\" width=\"280\" height=\"28\" rx=\"6\" fill=\"#f1e4c6\" stroke=\"#a8792a\"/><text x=\"160\" y=\"112\" text-anchor=\"middle\" font-size=\"11\" fill=\"#1d2433\">Golgi modifies, sorts, tags</text><line x1=\"160\" y1=\"122\" x2=\"160\" y2=\"138\" stroke=\"#5d6474\" stroke-width=\"1.5\" marker-end=\"url(#c1)\"/><rect x=\"20\" y=\"138\" width=\"280\" height=\"28\" rx=\"6\" fill=\"#dceaec\" stroke=\"#2f6f7a\"/><text x=\"160\" y=\"156\" text-anchor=\"middle\" font-size=\"11\" fill=\"#1d2433\">Vesicle ships it out or to lysosome</text></svg>"
+  },
+  {
+   "tag": "Step by step",
+   "h": "Mitochondria and lysosomes",
+   "b": "<p>Mitochondria make most of the cell's ATP, the energy currency. They have their own DNA and double membrane. Lynn Margulis (1967) argued they were once free bacteria swallowed by a bigger cell: the <b>endosymbiotic theory</b>. Chloroplasts have a similar story.</p><p>Lysosomes hold enzymes that digest worn-out parts, like the recycling unit.</p>"
+  },
+  {
+   "tag": "Step by step",
+   "h": "Plant cell extras",
+   "b": "<p>Plant cells also have a cellulose <b>cell wall</b>, a large central <b>vacuole</b> for water and storage, and <b>chloroplasts</b> for photosynthesis. Animal cells have <b>centrioles</b> for division and no wall.</p>"
+  },
+  {
+   "tag": "Step by step",
+   "h": "The cytoskeleton",
+   "b": "<p>A web of protein fibres gives shape and lets the cell move. Microfilaments, intermediate filaments and microtubules act as scaffolding and rails for transport. Cilia and flagella are built from microtubules.</p>"
+  },
+  {
+   "tag": "How we know",
+   "h": "From lenses to electron beams",
+   "b": "<p>Hooke used a microscope in 1665. Anton van Leeuwenhoek saw living bacteria in the 1670s. The electron microscope, built by Ernst Ruska in 1931, revealed organelles far too small for light. Albert Claude and later George Palade used spinning (centrifugation) to separate parts and study them.</p>"
+  },
+  {
+   "tag": "Misconceptions",
+   "h": "Watch out",
+   "b": "<div class=\"box\"><h4>Common errors</h4><ul><li>Bacteria are not 'primitive and simple' in chemistry; they are very successful.</li><li>Mitochondria are not 'powerhouses making energy from nothing'; they convert food energy into ATP.</li><li>Red blood cells in humans lose the nucleus, so not every eukaryotic cell has one.</li></ul></div>"
+  },
+  {
+   "tag": "Indian angle",
+   "h": "Cells, microscopes and Indian science",
+   "b": "<p>The Indian Institute of Science, Bengaluru, and the National Centre for Cell Science, Pune, study cell biology. G.N. Ramachandran at Madras, in 1954, worked out the triple-helix structure of collagen, a key protein outside cells. Ramachandran plots are still used to check protein shapes.</p>"
+  },
+  {
+   "tag": "Recap",
+   "h": "Key takeaways and questions",
+   "b": "<ul><li>Prokaryotes lack a nucleus; eukaryotes have one plus organelles.</li><li>Protein path: ribosome, ER, Golgi, vesicle.</li><li>Mitochondria and chloroplasts likely came from engulfed bacteria.</li><li>Plant cells add wall, vacuole, chloroplast.</li></ul><p><b>Think about it:</b></p><ol><li>Why might cells with high energy needs, like muscle, have more mitochondria?</li><li>What clue suggests mitochondria were once bacteria?</li></ol>",
+   "cls": "exam"
+  }
+ ],
+ "quiz": [
+  {
+   "q": "Which feature defines a eukaryote?",
+   "o": [
+    "Cell wall",
+    "Membrane-bound nucleus",
+    "Ribosomes",
+    "DNA"
+   ],
+   "a": 1,
+   "w": "True nucleus."
+  },
+  {
+   "q": "Who proposed the endosymbiotic theory in 1967?",
+   "o": [
+    "Brown",
+    "Golgi",
+    "Margulis",
+    "Palade"
+   ],
+   "a": 2,
+   "w": "Lynn Margulis."
+  },
+  {
+   "q": "Where is most ATP made?",
+   "o": [
+    "Golgi",
+    "Lysosome",
+    "Mitochondria",
+    "Nucleolus"
+   ],
+   "a": 2,
+   "w": "Mitochondria."
+  },
+  {
+   "q": "Which organelle sorts and packs proteins?",
+   "o": [
+    "Golgi apparatus",
+    "Vacuole",
+    "Nucleus",
+    "Ribosome"
+   ],
+   "a": 0,
+   "w": "Golgi."
+  },
+  {
+   "q": "Prokaryotic ribosomes are:",
+   "o": [
+    "80S",
+    "70S",
+    "90S",
+    "60S"
+   ],
+   "a": 1,
+   "w": "70S vs 80S."
+  },
+  {
+   "q": "Lysosomes mainly:",
+   "o": [
+    "Make ATP",
+    "Store DNA",
+    "Digest waste and old parts",
+    "Make lipids"
+   ],
+   "a": 2,
+   "w": "Digestive enzymes."
+  },
+  {
+   "q": "Which is found only in plant cells (not animal)?",
+   "o": [
+    "Mitochondria",
+    "Cell wall",
+    "Ribosome",
+    "Nucleus"
+   ],
+   "a": 1,
+   "w": "Plants have a cellulose wall."
+  },
+  {
+   "q": "The electron microscope was built by:",
+   "o": [
+    "Hooke",
+    "Ruska",
+    "Leeuwenhoek",
+    "Virchow"
+   ],
+   "a": 1,
+   "w": "Ernst Ruska, 1931."
+  },
+  {
+   "q": "Rough ER looks rough because of:",
+   "o": [
+    "Lipids",
+    "Ribosomes",
+    "Vesicles",
+    "Mitochondria"
+   ],
+   "a": 1,
+   "w": "Attached ribosomes."
+  },
+  {
+   "q": "Why is the mitochondria-bacteria link believed?",
+   "o": [
+    "They are green",
+    "They have own circular DNA and double membrane",
+    "They are large",
+    "They lack proteins"
+   ],
+   "a": 1,
+   "w": "Own DNA and bacteria-like features."
+  }
+ ],
+ "sources": [
+  "NCERT Class 11 Biology",
+  "Campbell Biology"
+ ],
+ "verified": "2026-11-11"
+}

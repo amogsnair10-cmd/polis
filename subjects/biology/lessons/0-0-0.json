@@ -1,0 +1,180 @@
+{
+ "id": "0-0-0",
+ "title": "What Is Life?",
+ "emoji": "🌱",
+ "cards": [
+  {
+   "tag": "Why this matters",
+   "h": "A question with no easy answer",
+   "b": "<p>A rock, a flame and a seed all look quiet from far away. Yet only one of them is alive. Biology starts with a simple question: what makes the seed different?</p><p>There is no single test. Scientists instead list a set of traits that living things share. Knowing the list helps you read every later lesson, from cells to ecosystems.</p>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "Seven traits of living things",
+   "b": "<p>Most textbooks use a checklist. A living thing:</p><ul><li><b>Is made of cells</b> (one or many).</li><li><b>Uses energy</b> to run its chemistry.</li><li><b>Grows and develops</b>.</li><li><b>Reproduces</b>.</li><li><b>Responds</b> to its surroundings.</li><li><b>Keeps a stable inside</b> (homeostasis).</li><li><b>Evolves</b> over generations.</li></ul><p>Think of it like a shop: it needs stock (matter), power (energy), a counter that reacts to customers, and branches that open over time.</p>"
+  },
+  {
+   "tag": "Step by step",
+   "h": "Homeostasis: staying steady",
+   "b": "<p>Your body stays near 37 °C whether it is Delhi in June or Shimla in January. This is homeostasis, coined by Walter Cannon in 1926 building on Claude Bernard's idea of a steady inner environment.</p><ol><li>A sensor notices a change (you get hot).</li><li>A control centre compares it with a set point.</li><li>An effector acts (you sweat).</li><li>The change shrinks and the loop stops.</li></ol><p>It works like a room thermostat.</p><svg class=\"d\" viewBox=\"0 0 320 172\"><defs><marker id=\"m1\" viewBox=\"0 0 10 10\" refX=\"8\" refY=\"5\" markerWidth=\"6\" markerHeight=\"6\" orient=\"auto\"><path d=\"M0 0L10 5L0 10z\" fill=\"#5d6474\"/></marker></defs><rect x=\"20\" y=\"6\" width=\"280\" height=\"28\" rx=\"6\" fill=\"#f1e4c6\" stroke=\"#a8792a\"/><text x=\"160\" y=\"24\" text-anchor=\"middle\" font-size=\"11\" fill=\"#1d2433\">Change: body too hot</text><line x1=\"160\" y1=\"34\" x2=\"160\" y2=\"50\" stroke=\"#5d6474\" stroke-width=\"1.5\" marker-end=\"url(#m1)\"/><rect x=\"20\" y=\"50\" width=\"280\" height=\"28\" rx=\"6\" fill=\"#dceaec\" stroke=\"#2f6f7a\"/><text x=\"160\" y=\"68\" text-anchor=\"middle\" font-size=\"11\" fill=\"#1d2433\">Sensor: skin and brain notice</text><line x1=\"160\" y1=\"78\" x2=\"160\" y2=\"94\" stroke=\"#5d6474\" stroke-width=\"1.5\" marker-end=\"url(#m1)\"/><rect x=\"20\" y=\"94\" width=\"280\" height=\"28\" rx=\"6\" fill=\"#f1e4c6\" stroke=\"#a8792a\"/><text x=\"160\" y=\"112\" text-anchor=\"middle\" font-size=\"11\" fill=\"#1d2433\">Effector: sweating, wider vessels</text><line x1=\"160\" y1=\"122\" x2=\"160\" y2=\"138\" stroke=\"#5d6474\" stroke-width=\"1.5\" marker-end=\"url(#m1)\"/><rect x=\"20\" y=\"138\" width=\"280\" height=\"28\" rx=\"6\" fill=\"#dceaec\" stroke=\"#2f6f7a\"/><text x=\"160\" y=\"156\" text-anchor=\"middle\" font-size=\"11\" fill=\"#1d2433\">Back to about 37 °C</text></svg>"
+  },
+  {
+   "tag": "Step by step",
+   "h": "Metabolism: life's chemistry",
+   "b": "<p>Metabolism is all the chemical reactions in a cell. Some build things (anabolic), like making protein. Some break things down (catabolic), like burning glucose for energy.</p><p>A fire also uses fuel and gives off heat, but a fire does not regulate itself, grow by its own plan or pass on instructions. Life does all three.</p>"
+  },
+  {
+   "tag": "Step by step",
+   "h": "Levels of organisation",
+   "b": "<p>Life is built in layers, each with new abilities.</p><svg class=\"d\" viewBox=\"0 0 320 172\"><defs><marker id=\"m2\" viewBox=\"0 0 10 10\" refX=\"8\" refY=\"5\" markerWidth=\"6\" markerHeight=\"6\" orient=\"auto\"><path d=\"M0 0L10 5L0 10z\" fill=\"#5d6474\"/></marker></defs><rect x=\"20\" y=\"6\" width=\"280\" height=\"28\" rx=\"6\" fill=\"#f1e4c6\" stroke=\"#a8792a\"/><text x=\"160\" y=\"24\" text-anchor=\"middle\" font-size=\"11\" fill=\"#1d2433\">Molecule (DNA, protein)</text><line x1=\"160\" y1=\"34\" x2=\"160\" y2=\"50\" stroke=\"#5d6474\" stroke-width=\"1.5\" marker-end=\"url(#m2)\"/><rect x=\"20\" y=\"50\" width=\"280\" height=\"28\" rx=\"6\" fill=\"#dceaec\" stroke=\"#2f6f7a\"/><text x=\"160\" y=\"68\" text-anchor=\"middle\" font-size=\"11\" fill=\"#1d2433\">Cell: smallest unit of life</text><line x1=\"160\" y1=\"78\" x2=\"160\" y2=\"94\" stroke=\"#5d6474\" stroke-width=\"1.5\" marker-end=\"url(#m2)\"/><rect x=\"20\" y=\"94\" width=\"280\" height=\"28\" rx=\"6\" fill=\"#f1e4c6\" stroke=\"#a8792a\"/><text x=\"160\" y=\"112\" text-anchor=\"middle\" font-size=\"11\" fill=\"#1d2433\">Tissue, then organ, then organ system</text><line x1=\"160\" y1=\"122\" x2=\"160\" y2=\"138\" stroke=\"#5d6474\" stroke-width=\"1.5\" marker-end=\"url(#m2)\"/><rect x=\"20\" y=\"138\" width=\"280\" height=\"28\" rx=\"6\" fill=\"#dceaec\" stroke=\"#2f6f7a\"/><text x=\"160\" y=\"156\" text-anchor=\"middle\" font-size=\"11\" fill=\"#1d2433\">Organism, population, ecosystem</text></svg><p>A single bacterium is one cell and one organism. You are about 30 trillion cells working together.</p>"
+  },
+  {
+   "tag": "Step by step",
+   "h": "Where do cells come from?",
+   "b": "<p>In 1665 Robert Hooke saw tiny boxes in cork and called them cells. Schleiden (plants, 1838) and Schwann (animals, 1839) said all living things are made of cells. In 1855 Rudolf Virchow added that every cell comes from a pre-existing cell.</p><p>Together these form the <b>cell theory</b>.</p>"
+  },
+  {
+   "tag": "Step by step",
+   "h": "Borderline cases: viruses",
+   "b": "<p>A virus has genes and evolves, but it has no cell and cannot make energy. It reproduces only inside a host cell. Many biologists call it non-living outside a host; others call it a 'life-like' agent. It shows that the line is fuzzy.</p>"
+  },
+  {
+   "tag": "How we know",
+   "h": "Can life come from non-life?",
+   "b": "<p>People once believed maggots arose from rotting meat. In 1668 Francesco Redi covered some jars with gauze and found no maggots on the meat. In 1859 Louis Pasteur used swan-neck flasks: broth stayed clear because germs could not reach it. This ended the idea of spontaneous generation.</p><p>In 1953 Stanley Miller sparked gases like early Earth's and made amino acids, showing how life's building blocks may have formed.</p>"
+  },
+  {
+   "tag": "Misconceptions",
+   "h": "Common mix-ups",
+   "b": "<div class=\"box\"><h4>Check yourself</h4><ul><li><b>Moving does not equal alive.</b> Clouds and rivers move; plants barely do.</li><li><b>Growth is not just getting bigger.</b> Crystals grow, but from outside, not by metabolism.</li><li><b>A mule is alive</b> even though it cannot reproduce. Traits are judged for the whole group of life, not each individual.</li></ul></div>"
+  },
+  {
+   "tag": "Indian angle",
+   "h": "J.C. Bose and the response of plants",
+   "b": "<p>Jagadish Chandra Bose (1858-1937) built the crescograph, which magnified plant growth by about ten thousand times or more. He showed that plants respond to touch, heat and chemicals in measurable ways, blurring the line between 'living' responses in plants and animals. He founded the Bose Institute in Kolkata in 1917.</p>"
+  },
+  {
+   "tag": "Recap",
+   "h": "Key takeaways and questions",
+   "b": "<ul><li>Life is defined by a checklist: cells, energy, growth, reproduction, response, homeostasis, evolution.</li><li>Cell theory: all life is cellular and cells come from cells.</li><li>Redi and Pasteur disproved spontaneous generation.</li><li>Viruses sit on the edge of the definition.</li></ul><p><b>Think about it:</b></p><ol><li>Why is fire not alive though it uses fuel and grows?</li><li>Would you call a virus alive? Defend your view.</li></ol>",
+   "cls": "exam"
+  }
+ ],
+ "quiz": [
+  {
+   "q": "Who proposed that every cell comes from a pre-existing cell?",
+   "o": [
+    "Hooke",
+    "Schwann",
+    "Virchow",
+    "Pasteur"
+   ],
+   "a": 2,
+   "w": "Virchow, 1855."
+  },
+  {
+   "q": "Homeostasis is best described as:",
+   "o": [
+    "Growth of the body",
+    "Keeping a stable internal state",
+    "Making offspring",
+    "Taking in food"
+   ],
+   "a": 1,
+   "w": "It is internal balance."
+  },
+  {
+   "q": "Which experiment used swan-neck flasks?",
+   "o": [
+    "Redi",
+    "Pasteur",
+    "Miller",
+    "Hooke"
+   ],
+   "a": 1,
+   "w": "Pasteur, 1859."
+  },
+  {
+   "q": "Why is a virus a borderline case?",
+   "o": [
+    "It has no genes",
+    "It is too large",
+    "It cannot make energy or reproduce alone",
+    "It has no proteins"
+   ],
+   "a": 2,
+   "w": "It depends on a host cell."
+  },
+  {
+   "q": "Redi's gauze-covered jars showed that:",
+   "o": [
+    "Meat cannot rot",
+    "Maggots come from flies' eggs",
+    "Air is harmful",
+    "Heat kills maggots"
+   ],
+   "a": 1,
+   "w": "No flies, no maggots."
+  },
+  {
+   "q": "Which is an example of catabolism?",
+   "o": [
+    "Making protein",
+    "Building DNA",
+    "Breaking glucose for energy",
+    "Forming cell wall"
+   ],
+   "a": 2,
+   "w": "Breaking down releases energy."
+  },
+  {
+   "q": "A thermostat is a good analogy for:",
+   "o": [
+    "Evolution",
+    "Feedback control in homeostasis",
+    "Cell division",
+    "Digestion"
+   ],
+   "a": 1,
+   "w": "Sense, compare, act."
+  },
+  {
+   "q": "Miller's 1953 experiment made:",
+   "o": [
+    "Living cells",
+    "Amino acids",
+    "Viruses",
+    "Bacteria"
+   ],
+   "a": 1,
+   "w": "Building blocks formed from simple gases."
+  },
+  {
+   "q": "Which scientist built the crescograph?",
+   "o": [
+    "Birbal Sahni",
+    "J.C. Bose",
+    "Khorana",
+    "C.V. Raman"
+   ],
+   "a": 1,
+   "w": "J.C. Bose."
+  },
+  {
+   "q": "Why is a growing crystal not alive?",
+   "o": [
+    "It is too small",
+    "It grows by adding material outside, without metabolism",
+    "It is not solid",
+    "It does not move"
+   ],
+   "a": 1,
+   "w": "No metabolism or cells."
+  }
+ ],
+ "sources": [
+  "Campbell Biology",
+  "NCERT Class 11 Biology"
+ ],
+ "verified": "2026-11-11"
+}

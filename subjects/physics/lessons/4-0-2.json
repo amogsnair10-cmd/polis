@@ -1,0 +1,176 @@
+{
+ "id": "4-0-2",
+ "title": "The Photon and the Atom",
+ "emoji": "⚛️",
+ "cards": [
+  {
+   "tag": "Why this matters",
+   "h": "The theory that broke Newton's world",
+   "b": "<p>Around 1900, classical physics could not explain why a hot poker glows the colours it does, why atoms do not collapse, or why shining light on metal knocks out electrons. The fix needed a radical idea: energy comes in tiny packets, called <b>quanta</b>.</p><p>This idea started quantum mechanics, the theory behind chemistry, lasers, computers and the chips in your phone.</p>"
+  },
+  {
+   "tag": "Concept",
+   "h": "Planck's quantum (1900)",
+   "b": "<p>Hot objects glow with a spectrum that classical physics could not explain. Max Planck found in 1900 that the curve fits if light is emitted in lumps of energy:</p><div class=\"box\"><h4>Planck's relation</h4>E = h x f</div><p>f is the frequency and h is <b>Planck's constant</b>, 6.63 x 10 to the power -34 joule second. Higher frequency, bigger lump. Planck thought it a mathematical trick; it was the first hint of a new physics."
+  },
+  {
+   "tag": "Concept",
+   "h": "Einstein and the photoelectric effect",
+   "b": "<p>Shine light on a metal and electrons can be knocked out. Surprises: below a certain frequency no electrons come out, however bright the light. Above it, they come at once, and brighter light gives more electrons, not faster ones.</p><p>Einstein explained in 1905: light itself is made of particles, <b>photons</b>, each with energy hf. One photon knocks out one electron:</p><div class=\"box\"><h4>Photoelectric equation</h4>kinetic energy of electron = h f - (work function)</div><p>He won the 1921 Nobel Prize for this, not for relativity."
+  },
+  {
+   "tag": "Concept",
+   "h": "The Bohr atom",
+   "b": "<p>Rutherford's atom (1911) has electrons orbiting a tiny nucleus, but classical physics said they should spiral in and crash. In 1913 Niels Bohr proposed that electrons can occupy only certain energy levels and radiate only when jumping between them.</p><p>For hydrogen: E(n) = -13.6 eV divided by n squared. A jump emits a photon with energy equal to the gap, giving the sharp coloured lines of atomic spectra. Every element has its own fingerprint, so we can read the chemistry of distant stars.</p><svg class=\"d\" viewBox=\"0 0 320 150\"><line x1=\"60\" y1=\"130\" x2=\"200\" y2=\"130\" stroke=\"#1d2433\" stroke-width=\"2\"/><text x=\"205\" y=\"134\" font-size=\"11\" fill=\"#1d2433\">n = 1 (-13.6 eV)</text><line x1=\"60\" y1=\"75\" x2=\"200\" y2=\"75\" stroke=\"#1d2433\" stroke-width=\"2\"/><text x=\"205\" y=\"79\" font-size=\"11\" fill=\"#1d2433\">n = 2 (-3.4 eV)</text><line x1=\"60\" y1=\"50\" x2=\"200\" y2=\"50\" stroke=\"#1d2433\" stroke-width=\"2\"/><text x=\"205\" y=\"54\" font-size=\"11\" fill=\"#1d2433\">n = 3 (-1.5 eV)</text><line x1=\"60\" y1=\"30\" x2=\"200\" y2=\"30\" stroke=\"#5d6474\" stroke-width=\"2\"/><text x=\"205\" y=\"34\" font-size=\"11\" fill=\"#5d6474\">n = 4 ... 0 eV (free)</text><line x1=\"100\" y1=\"50\" x2=\"100\" y2=\"75\" stroke=\"#a3362a\" stroke-width=\"2.5\"/><text x=\"20\" y=\"66\" font-size=\"10\" fill=\"#a3362a\">red line</text><line x1=\"140\" y1=\"130\" x2=\"140\" y2=\"75\" stroke=\"#2f6f7a\" stroke-width=\"2.5\"/><text x=\"95\" y=\"108\" font-size=\"10\" fill=\"#2f6f7a\">UV photon 10.2 eV</text><text x=\"20\" y=\"18\" font-size=\"11\" fill=\"#1d2433\">Atoms give out photons only for jumps between levels</text></svg>"
+  },
+  {
+   "tag": "Concept",
+   "h": "Matter waves",
+   "b": "<p>If light waves can act like particles, perhaps particles act like waves. Louis de Broglie suggested in 1924:</p><div class=\"box\"><h4>de Broglie wavelength</h4>wavelength = h / (m v)</div><p>For an electron the wavelength is tiny but real, and electrons were seen to diffract in 1927. This is <b>wave-particle duality</b>. Electron microscopes use electron waves to see far smaller details than light can."
+  },
+  {
+   "tag": "Concept",
+   "h": "Uncertainty and the quantum rules",
+   "b": "<p>Werner Heisenberg (1927) showed we cannot know both position and momentum precisely at the same time: the product of their uncertainties is at least about h divided by 4 pi. It is not about clumsy instruments; it is built into nature.</p><p>Erwin Schrodinger's equation (1926) describes electrons by a wave function whose square gives the <i>probability</i> of finding the particle somewhere. Quantum physics predicts chances, not certainties."
+  },
+  {
+   "tag": "Worked example",
+   "h": "Energy of a photon and photoelectric emission",
+   "b": "<p>A handy rule: E (in eV) = 1240 / wavelength (in nm). For green light of 550 nm, E = 1240 / 550 = <b>2.25 eV</b>.</p><p>Sodium has a work function of about 2.3 eV. Red light at 700 nm has 1.77 eV: <b>no electrons</b>, however bright. Blue light at 400 nm has 3.1 eV, so electrons emerge with energy 3.1 - 2.3 = <b>0.8 eV</b>.</p><p>Hydrogen jump n = 3 to 2: 3.4 - 1.5 = 1.9 eV, wavelength 1240 / 1.9 = 650 nm, the red line."
+  },
+  {
+   "tag": "Misconceptions",
+   "h": "Quantum myths",
+   "b": "<ul><li><b>'Electrons orbit like tiny planets.'</b> Bohr's picture is a useful stepping stone; real electrons are spread-out clouds of probability.</li><li><b>'Brighter light always gives faster photoelectrons.'</b> Brightness gives more electrons; only higher frequency gives faster ones.</li><li><b>'Uncertainty is about measuring badly.'</b> It is a basic property of nature.</li></ul>"
+  },
+  {
+   "tag": "Indian angle",
+   "h": "Bose, Raman and Saha",
+   "b": "<p>S. N. Bose's 1924 work, treating photons as indistinguishable particles, gave the correct counting for light quanta and launched Bose-Einstein statistics. Particles that follow it, such as photons and the Higgs, are called <b>bosons</b> in his honour.</p><p>C. V. Raman's 1928 effect is a direct sign of the photon: a photon loses or gains a bit of energy when it hits a molecule, appearing at a shifted colour. Meghnad Saha's 1920 equation links atomic energy levels to the temperature of stars.</p>"
+  },
+  {
+   "tag": "Recap",
+   "h": "Key takeaways",
+   "b": "<ul><li>Energy comes in quanta: E = hf (Planck 1900).</li><li>Photons explain the photoelectric effect (Einstein 1905).</li><li>Atoms have discrete levels; jumps produce spectral lines (Bohr 1913).</li><li>Matter has a wavelength h/mv; the uncertainty principle limits what we can know.</li></ul><div class=\"box\"><h4>Think about it</h4>1. Why can a dim blue light eject electrons while a bright red light cannot?<br>2. Why does each element have its own line spectrum?</div>",
+   "cls": "exam"
+  }
+ ],
+ "quiz": [
+  {
+   "q": "Planck's relation for the energy of a quantum is",
+   "o": [
+    "E = m c squared",
+    "E = h f",
+    "E = F d",
+    "E = (1/2) m v squared"
+   ],
+   "a": 1,
+   "w": "E = hf."
+  },
+  {
+   "q": "Einstein won his Nobel Prize for",
+   "o": [
+    "Special relativity",
+    "The photoelectric effect",
+    "General relativity",
+    "Brownian motion"
+   ],
+   "a": 1,
+   "w": "Awarded in 1921."
+  },
+  {
+   "q": "In the photoelectric effect, brighter light of the same colour gives",
+   "o": [
+    "Faster electrons",
+    "More electrons",
+    "No electrons",
+    "Heavier electrons"
+   ],
+   "a": 1,
+   "w": "More photons, more electrons."
+  },
+  {
+   "q": "Photon energy for light of wavelength 620 nm (use 1240/lambda) is",
+   "o": [
+    "1 eV",
+    "2 eV",
+    "3 eV",
+    "0.5 eV"
+   ],
+   "a": 1,
+   "w": "1240/620 = 2."
+  },
+  {
+   "q": "A metal has work function 2 eV. A 3 eV photon ejects an electron with kinetic energy",
+   "o": [
+    "5 eV",
+    "1 eV",
+    "6 eV",
+    "0 eV"
+   ],
+   "a": 1,
+   "w": "3 - 2."
+  },
+  {
+   "q": "Bohr's 1913 atom said electrons",
+   "o": [
+    "Can have any energy",
+    "Have only certain energy levels",
+    "Are at rest",
+    "Are not charged"
+   ],
+   "a": 1,
+   "w": "Quantised levels."
+  },
+  {
+   "q": "Atomic spectra consist of",
+   "o": [
+    "Continuous bands",
+    "Sharp lines at specific colours",
+    "Only white light",
+    "Only X-rays"
+   ],
+   "a": 1,
+   "w": "Jumps between levels."
+  },
+  {
+   "q": "De Broglie's wavelength is given by",
+   "o": [
+    "h / (m v)",
+    "m v / h",
+    "h f",
+    "c / f"
+   ],
+   "a": 0,
+   "w": "Matter has a wavelength."
+  },
+  {
+   "q": "The Heisenberg uncertainty principle limits knowledge of",
+   "o": [
+    "Position and momentum together",
+    "Only time",
+    "Mass",
+    "Charge"
+   ],
+   "a": 0,
+   "w": "Conjugate pairs."
+  },
+  {
+   "q": "The word boson honours",
+   "o": [
+    "Bohr",
+    "Born",
+    "Bose",
+    "Boltzmann"
+   ],
+   "a": 2,
+   "w": "S. N. Bose."
+  }
+ ],
+ "sources": [
+  "NCERT Physics Class 11-12",
+  "Halliday, Resnick and Walker, Fundamentals of Physics",
+  "Planck (1900); Einstein (1905); Bohr (1913); de Broglie (1924)"
+ ],
+ "verified": "2026-11-11"
+}

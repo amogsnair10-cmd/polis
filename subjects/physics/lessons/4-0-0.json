@@ -1,0 +1,176 @@
+{
+ "id": "4-0-0",
+ "title": "Special Relativity",
+ "emoji": "🚀",
+ "cards": [
+  {
+   "tag": "Why this matters",
+   "h": "Time is not what it seems",
+   "b": "<p>In 1905, a 26-year-old patent clerk in Bern published a paper that changed how we think about space and time. Albert Einstein showed that time can run at different rates for different observers, and that mass and energy are two faces of the same thing.</p><p>This is not just theory: it is built into your phone's GPS, into particle accelerators and into nuclear power.</p>"
+  },
+  {
+   "tag": "Concept",
+   "h": "The puzzle of light",
+   "b": "<p>Maxwell's equations gave the speed of light as a fixed number. But relative to what? People imagined an invisible medium, the 'ether'. In 1887 Michelson and Morley tried to detect Earth's motion through it and found nothing.</p><p>Einstein took the result at face value. His two postulates (1905): <b>1.</b> The laws of physics are the same for all observers moving at steady speed. <b>2.</b> The speed of light in vacuum, c = 300,000 km/s, is the same for all such observers, whatever the motion of the source or the observer."
+  },
+  {
+   "tag": "Concept",
+   "h": "Time dilation",
+   "b": "<p>If light's speed is the same for everyone, then something else must give: time. Moving clocks run slow.</p><div class=\"box\"><h4>Time dilation</h4>t(moving observer sees) = gamma x t0<br>gamma = 1 / square root of (1 - v squared / c squared)</div><p>At everyday speeds gamma is 1 to a hundred decimal places, so we never notice. Near light speed it grows without limit.</p><svg class=\"d\" viewBox=\"0 0 320 150\"><defs><marker id=\"q1\" markerWidth=\"8\" markerHeight=\"8\" refX=\"7\" refY=\"4\" orient=\"auto\"><path d=\"M0,0 L8,4 L0,8z\" fill=\"#5d6474\"/></marker></defs><line x1=\"30\" y1=\"125\" x2=\"300\" y2=\"125\" stroke=\"#5d6474\" stroke-width=\"1.5\" marker-end=\"url(#q1)\"/><line x1=\"30\" y1=\"125\" x2=\"30\" y2=\"10\" stroke=\"#5d6474\" stroke-width=\"1.5\" marker-end=\"url(#q1)\"/><path d=\"M30,120 L120,115 Q200,100 240,70 Q270,40 280,12\" fill=\"none\" stroke=\"#a3362a\" stroke-width=\"3\"/><text x=\"38\" y=\"20\" font-size=\"11\" fill=\"#1d2433\">gamma (time stretch)</text><text x=\"180\" y=\"140\" font-size=\"11\" fill=\"#1d2433\">speed as fraction of light (v/c)</text><circle cx=\"152\" cy=\"108\" r=\"4\" fill=\"#a8792a\"/><text x=\"100\" y=\"96\" font-size=\"10\" fill=\"#a8792a\">0.6c: 1.25</text><circle cx=\"259\" cy=\"52\" r=\"4\" fill=\"#a8792a\"/><text x=\"195\" y=\"48\" font-size=\"10\" fill=\"#a8792a\">0.9c: 2.3</text><text x=\"215\" y=\"118\" font-size=\"10\" fill=\"#5d6474\">c: infinite</text></svg>"
+  },
+  {
+   "tag": "Concept",
+   "h": "Length contraction and simultaneity",
+   "b": "<p>Along the direction of motion, moving objects measure shorter: L = L0 / gamma. A rocket at 0.6c is seen only 80 percent as long.</p><p>Even 'at the same time' is relative. Two events simultaneous for one observer may not be for another moving past. Nothing is wrong: we simply must give up a single universal clock. Space and time merge into one four-dimensional <b>spacetime</b>, as Hermann Minkowski showed in 1908."
+  },
+  {
+   "tag": "Concept",
+   "h": "E = mc squared",
+   "b": "<p>Einstein's best-known result:</p><div class=\"box\"><h4>Mass-energy</h4>E = m c squared</div><p>Mass is concentrated energy. Since c squared is huge (9 x 10 to the power 16), a tiny mass holds a vast energy. One gram of matter equals 9 x 10 to the power 13 joules, about the energy of a 20-kiloton bomb. In nuclear reactions and in the Sun, a little mass is turned into energy.</p><p>Nothing with mass can reach light speed, since its energy would become infinite."
+  },
+  {
+   "tag": "Concept",
+   "h": "Proof in the real world",
+   "b": "<p><b>Muons:</b> these particles made in the upper atmosphere live only 2.2 microseconds, enough to travel 660 m, yet they reach the ground, thanks to time dilation.</p><p><b>GPS:</b> satellite clocks run fast by about 45 microseconds a day because of weaker gravity and slow by 7 because of their speed. Without correction for both effects, positions would drift by kilometres each day.</p><p><b>Accelerators:</b> particles reach 99.9999 percent of light speed and gain mass-energy, as predicted.</p>"
+  },
+  {
+   "tag": "Worked example",
+   "h": "A fast space traveller",
+   "b": "<p>A spacecraft moves at v = 0.6c. gamma = 1 / square root of (1 - 0.36) = 1 / 0.8 = <b>1.25</b>.</p><p>A journey that takes 4 years on the ship's clock takes 4 x 1.25 = <b>5 years</b> by Earth clocks.</p><p>At 0.9c, gamma = 2.29: the traveller ages only 4 years while Earth ages 9.2. At 0.99c, gamma is about 7."
+  },
+  {
+   "tag": "Misconceptions",
+   "h": "Relativity myths",
+   "b": "<ul><li><b>'Relativity says everything is relative.'</b> It says the speed of light and the laws of physics are the same for all; what changes are time and length.</li><li><b>'Moving objects really get heavier.'</b> Better to say their energy and momentum grow; modern texts keep mass fixed.</li><li><b>'You can outrun light with enough fuel.'</b> It would need infinite energy.</li></ul>"
+  },
+  {
+   "tag": "Indian angle",
+   "h": "Bose, Einstein and NavIC",
+   "b": "<p>In 1924 Satyendra Nath Bose sent Einstein a paper on light quanta; Einstein translated it into German and got it published. Their joint work gave us Bose-Einstein statistics.</p><p>India's own satellite navigation system, <b>NavIC</b> (Navigation with Indian Constellation), must correct its clocks for relativistic effects, just like GPS, to give position accurate to a few metres."
+  },
+  {
+   "tag": "Recap",
+   "h": "Key takeaways",
+   "b": "<ul><li>Postulates: same physics for all steady observers; c is the same for all.</li><li>Moving clocks run slow by gamma = 1 / root(1 - v squared / c squared).</li><li>Moving lengths contract along the motion; nothing with mass reaches c.</li><li>E = mc squared: mass is stored energy.</li></ul><div class=\"box\"><h4>Think about it</h4>1. Why do we never notice time dilation in daily life?<br>2. How does time dilation let muons reach Earth's surface?</div>",
+   "cls": "exam"
+  }
+ ],
+ "quiz": [
+  {
+   "q": "Einstein published special relativity in",
+   "o": [
+    "1687",
+    "1905",
+    "1915",
+    "1927"
+   ],
+   "a": 1,
+   "w": "1905."
+  },
+  {
+   "q": "The speed of light in vacuum is",
+   "o": [
+    "The same for all steady observers",
+    "Larger for approaching sources",
+    "Smaller for fast observers",
+    "Dependent on colour"
+   ],
+   "a": 0,
+   "w": "Second postulate."
+  },
+  {
+   "q": "Moving clocks, as seen by a stationary observer, run",
+   "o": [
+    "Faster",
+    "Slower",
+    "The same",
+    "Backward"
+   ],
+   "a": 1,
+   "w": "Time dilation."
+  },
+  {
+   "q": "At v = 0.6c, gamma is",
+   "o": [
+    "1.0",
+    "1.25",
+    "1.67",
+    "0.8"
+   ],
+   "a": 1,
+   "w": "1/sqrt(1-0.36)."
+  },
+  {
+   "q": "A 3 year trip on a ship at gamma = 2 takes how long on Earth?",
+   "o": [
+    "1.5 years",
+    "3 years",
+    "6 years",
+    "9 years"
+   ],
+   "a": 2,
+   "w": "3 x 2."
+  },
+  {
+   "q": "E = mc squared means",
+   "o": [
+    "Light is heavy",
+    "Mass and energy are equivalent",
+    "Mass cannot change",
+    "Energy is a force"
+   ],
+   "a": 1,
+   "w": "They are interconvertible."
+  },
+  {
+   "q": "1 kg of matter converted fully to energy gives about (c = 3 x 10^8)",
+   "o": [
+    "9 x 10^8 J",
+    "9 x 10^16 J",
+    "3 x 10^8 J",
+    "10^3 J"
+   ],
+   "a": 1,
+   "w": "mc squared."
+  },
+  {
+   "q": "Muons reach the ground because of",
+   "o": [
+    "Time dilation",
+    "Gravity",
+    "Magnetism",
+    "Radioactivity only"
+   ],
+   "a": 0,
+   "w": "Their clocks run slowly."
+  },
+  {
+   "q": "Michelson and Morley's 1887 experiment found",
+   "o": [
+    "The ether wind",
+    "No sign of the ether",
+    "Gravitational waves",
+    "Atoms"
+   ],
+   "a": 1,
+   "w": "A null result."
+  },
+  {
+   "q": "India's navigation satellite system is",
+   "o": [
+    "NavIC",
+    "INSAT",
+    "Aryabhata",
+    "Astrosat"
+   ],
+   "a": 0,
+   "w": "Navigation with Indian Constellation."
+  }
+ ],
+ "sources": [
+  "NCERT Physics Class 11-12",
+  "Halliday, Resnick and Walker, Fundamentals of Physics",
+  "Einstein, Annalen der Physik (1905)"
+ ],
+ "verified": "2026-11-11"
+}

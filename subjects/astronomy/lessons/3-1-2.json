@@ -1,0 +1,177 @@
+{
+ "id": "3-1-2",
+ "title": "Dark Energy and the Fate of the Universe",
+ "emoji": "🌌",
+ "cards": [
+  {
+   "tag": "Why this matters",
+   "h": "The surprise of 1998",
+   "b": "<p>Everyone expected gravity to slow the expansion, like a ball thrown upward. In 1998 two teams discovered the opposite: the expansion is <b>speeding up</b>. Something is pushing space apart. We call it <b>dark energy</b>, and it appears to make up about 68 percent of the universe, yet we do not know what it is.</p><svg class=\"d\" viewBox=\"0 0 320 130\"><defs><marker id=\"ar1\" viewBox=\"0 0 10 10\" refX=\"9\" refY=\"5\" markerWidth=\"6\" markerHeight=\"6\" orient=\"auto\"><path d=\"M0 0L10 5L0 10z\" fill=\"#5d6474\"/></marker></defs><line x1=\"20\" y1=\"110\" x2=\"300\" y2=\"110\" stroke=\"#5d6474\" stroke-width=\"1.5\" marker-end=\"url(#ar1)\"/><text x=\"160\" y=\"126\" text-anchor=\"middle\" font-size=\"10\" fill=\"#1d2433\">Time -></text><path d=\"M20 100 Q150 90 190 70 Q240 40 300 10\" fill=\"none\" stroke=\"#a3362a\" stroke-width=\"2\"/><path d=\"M20 100 Q150 90 190 80 Q240 72 300 65\" fill=\"none\" stroke=\"#2f6f7a\" stroke-width=\"2\" stroke-dasharray=\"4 3\"/><text x=\"240\" y=\"30\" text-anchor=\"end\" font-size=\"10\" fill=\"#a3362a\">Accelerating</text><text x=\"300\" y=\"60\" text-anchor=\"end\" font-size=\"10\" fill=\"#2f6f7a\">Slowing (expected)</text><text x=\"10\" y=\"60\" text-anchor=\"start\" font-size=\"10\" fill=\"#1d2433\">Size</text></svg>"
+  },
+  {
+   "tag": "Concept",
+   "h": "How the discovery was made",
+   "b": "<p>The High-z Supernova Search Team (Brian Schmidt, Adam Riess) and the Supernova Cosmology Project (Saul Perlmutter) used distant <b>Type Ia supernovae</b> as standard candles. The distant ones were about 25 percent fainter than expected for a slowing universe: farther away because expansion had sped up. They shared the 2011 Nobel Prize in Physics.</p>"
+  },
+  {
+   "tag": "Concept",
+   "h": "The cosmological constant",
+   "b": "<p>Einstein added a term, Lambda, to his equations in 1917 to make a static universe, and dropped it after Hubble's discovery, reportedly calling it his biggest blunder. It returned as the simplest candidate for dark energy: a constant energy density of empty space, which does not dilute as space expands. The standard model of cosmology, <b>Lambda-CDM</b>, uses it with cold dark matter.</p>"
+  },
+  {
+   "tag": "Concept",
+   "h": "Why acceleration now?",
+   "b": "<p>Matter thins out as space grows (density falls as volume increases), but a cosmological constant stays the same. For billions of years matter dominated and the expansion slowed; around 5 to 6 billion years ago dark energy overtook matter and the expansion began to accelerate. We live at an interesting time.</p>"
+  },
+  {
+   "tag": "Concept",
+   "h": "The theory problem",
+   "b": "<p>Quantum theory suggests empty space has energy, but the predicted value is about <b>10^120</b> times too big, called the worst prediction in physics. Alternatives include <b>quintessence</b> (a changing field) and modified gravity. Results from the <b>DESI</b> survey (2024 and 2025) hinted that dark energy may weaken with time, which is intriguing but not settled.</p>"
+  },
+  {
+   "tag": "Concept",
+   "h": "Possible fates",
+   "b": "<ul><li><b>Big Freeze (heat death):</b> expansion goes on forever; galaxies fade, stars burn out in trillions of years. Favoured if dark energy is constant.</li><li><b>Big Rip:</b> if dark energy strengthens, it tears apart galaxies, stars, atoms.</li><li><b>Big Crunch:</b> if dark energy fades or reverses, the universe recollapses. Now disfavoured.</li></ul>"
+  },
+  {
+   "tag": "How we know",
+   "h": "Cross-checks",
+   "b": "<p>The CMB shows the universe is flat, which needs more energy than matter provides. Galaxy surveys and the growth of clusters point to the same 68 percent. ESA's <b>Euclid</b> telescope (launched 1 July 2023) and the Vera Rubin Observatory are now measuring it better.</p>"
+  },
+  {
+   "tag": "Misconceptions",
+   "h": "Mixed up ideas",
+   "b": "<ul><li><b>'Dark energy is dark matter.'</b> Opposite effects.</li><li><b>'The universe expands into a bigger space.'</b> Nothing outside.</li><li><b>'We know the universe will end in a Big Freeze.'</b> It is the best current guess.</li></ul>"
+  },
+  {
+   "tag": "Indian angle",
+   "h": "Padmanabhan and Indian cosmologists",
+   "b": "<p><b>Thanu Padmanabhan</b> of IUCAA (1957 to 2021) wrote widely on the cosmological constant and gravity as an emergent phenomenon. <b>Tarun Deep Saini</b> and others in India studied how to detect dark energy's evolution. India also contributes to Euclid and Rubin analyses, and <b>Chandrasekhar's limit</b> underlies why Type Ia supernovae are standard candles.</p>"
+  },
+  {
+   "tag": "Recap",
+   "h": "Key takeaways",
+   "b": "<ul><li>Distant supernovae revealed in 1998 that expansion is accelerating.</li><li>Dark energy, about 68 percent of the universe, may be Einstein's cosmological constant.</li><li>The most likely fate is an eternal, cold, empty Big Freeze.</li><li>Newer data, such as DESI, may test whether dark energy changes.</li></ul><p><b>Think about it:</b> (1) Why did a fainter supernova mean faster expansion? (2) How would you tell a constant from a changing dark energy?</p>",
+   "cls": "exam"
+  }
+ ],
+ "quiz": [
+  {
+   "q": "In 1998 distant supernovae showed the expansion is:",
+   "o": [
+    "Slowing",
+    "Accelerating",
+    "Stopped",
+    "Reversing"
+   ],
+   "a": 1,
+   "w": "Acceleration."
+  },
+  {
+   "q": "Which objects were used as standard candles?",
+   "o": [
+    "Type Ia supernovae",
+    "Pulsars",
+    "Comets",
+    "Quasars only"
+   ],
+   "a": 0,
+   "w": "White dwarf explosions."
+  },
+  {
+   "q": "Dark energy makes up about:",
+   "o": [
+    "5 percent",
+    "27 percent",
+    "68 percent",
+    "95 percent"
+   ],
+   "a": 2,
+   "w": "About 68 percent."
+  },
+  {
+   "q": "The cosmological constant was first introduced by:",
+   "o": [
+    "Einstein",
+    "Hubble",
+    "Hawking",
+    "Penrose"
+   ],
+   "a": 0,
+   "w": "1917."
+  },
+  {
+   "q": "The 'Big Rip' occurs if:",
+   "o": [
+    "Dark energy strengthens over time",
+    "Dark energy vanishes",
+    "Gravity is stronger",
+    "Matter dominates"
+   ],
+   "a": 0,
+   "w": "Phantom energy."
+  },
+  {
+   "q": "Quantum theory's estimate of vacuum energy is off by about:",
+   "o": [
+    "A factor of 10^120",
+    "2 times",
+    "10 times",
+    "None"
+   ],
+   "a": 0,
+   "w": "A big mismatch."
+  },
+  {
+   "q": "Acceleration started about:",
+   "o": [
+    "5 to 6 billion years ago",
+    "13 billion years ago",
+    "1 million years ago",
+    "380,000 years ago"
+   ],
+   "a": 0,
+   "w": "When dark energy overtook matter."
+  },
+  {
+   "q": "Which satellite launched in 2023 studies dark energy?",
+   "o": [
+    "Euclid",
+    "Kepler",
+    "Spitzer",
+    "Gaia"
+   ],
+   "a": 0,
+   "w": "ESA's Euclid."
+  },
+  {
+   "q": "The Nobel Prize for the discovery was awarded in:",
+   "o": [
+    "1998",
+    "2011",
+    "2019",
+    "2006"
+   ],
+   "a": 1,
+   "w": "Perlmutter, Schmidt, Riess."
+  },
+  {
+   "q": "If dark energy is a constant, the likely fate is:",
+   "o": [
+    "Big Freeze",
+    "Big Crunch",
+    "Big Bounce",
+    "Static universe"
+   ],
+   "a": 0,
+   "w": "Eternal expansion."
+  }
+ ],
+ "sources": [
+  "Riess 1998",
+  "Perlmutter 1999",
+  "DESI 2024",
+  "Euclid 2023"
+ ],
+ "verified": "2026-11-11"
+}

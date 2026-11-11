@@ -1,0 +1,177 @@
+{
+ "id": "3-0-1",
+ "title": "Interference, Diffraction and Polarisation",
+ "emoji": "🌈",
+ "cards": [
+  {
+   "tag": "Why this matters",
+   "h": "The evidence that light is a wave",
+   "b": "<p>Is light a stream of tiny particles, as Newton believed, or a wave? Newton's followers dominated for a century. In 1801 Thomas Young settled the matter with a simple experiment: he made light interfere.</p><p>Interference, diffraction and polarisation are behaviours that only waves show. They explain soap-bubble colours, the rainbow sheen of a CD, and how sunglasses cut glare.</p>"
+  },
+  {
+   "tag": "Concept",
+   "h": "Waves of light add up",
+   "b": "<p>Recall that when two waves meet, they add. If the crest of one meets the crest of another (<b>in phase</b>) they reinforce: <b>constructive interference</b>, bright. If crest meets trough (<b>out of phase</b>) they cancel: <b>destructive interference</b>, dark.</p><p>Whether waves meet in phase depends on the difference in the path each travelled. A path difference of a whole number of wavelengths gives brightness; a half-wavelength extra gives darkness."
+  },
+  {
+   "tag": "Concept",
+   "h": "Young's double-slit experiment",
+   "b": "<p>Shine light through two very narrow slits close together. On a screen beyond, you see alternating bright and dark stripes, called <b>fringes</b>. Particles would give two plain bands; only waves can make stripes.</p><div class=\"box\"><h4>Fringe spacing</h4>spacing = (wavelength x D) / d</div><p>D is the slit-to-screen distance and d the slit separation. Red light (longer wavelength) gives wider fringes than blue. Young used this in 1801 to measure wavelengths of light, which are a few hundred nanometres.</p><svg class=\"d\" viewBox=\"0 0 320 150\"><rect x=\"60\" y=\"10\" width=\"6\" height=\"40\" fill=\"#1d2433\"/><rect x=\"60\" y=\"62\" width=\"6\" height=\"26\" fill=\"none\"/><rect x=\"60\" y=\"100\" width=\"6\" height=\"40\" fill=\"#1d2433\"/><rect x=\"60\" y=\"50\" width=\"6\" height=\"12\" fill=\"#1d2433\"/><rect x=\"60\" y=\"88\" width=\"6\" height=\"12\" fill=\"#1d2433\"/><line x1=\"10\" y1=\"75\" x2=\"60\" y2=\"75\" stroke=\"#a8792a\" stroke-width=\"2\"/><text x=\"12\" y=\"65\" font-size=\"10\" fill=\"#a8792a\">light</text><line x1=\"66\" y1=\"56\" x2=\"270\" y2=\"75\" stroke=\"#2f6f7a\" stroke-width=\"1\" stroke-dasharray=\"3 3\"/><line x1=\"66\" y1=\"94\" x2=\"270\" y2=\"75\" stroke=\"#2f6f7a\" stroke-width=\"1\" stroke-dasharray=\"3 3\"/><rect x=\"270\" y=\"10\" width=\"10\" height=\"130\" fill=\"#f1e4c6\" stroke=\"#a8792a\"/><g fill=\"#a8792a\"><rect x=\"270\" y=\"72\" width=\"10\" height=\"6\"/><rect x=\"270\" y=\"52\" width=\"10\" height=\"5\"/><rect x=\"270\" y=\"93\" width=\"10\" height=\"5\"/><rect x=\"270\" y=\"32\" width=\"10\" height=\"4\"/><rect x=\"270\" y=\"113\" width=\"10\" height=\"4\"/></g><text x=\"100\" y=\"125\" font-size=\"11\" fill=\"#1d2433\">two slits, bright and dark fringes on the screen</text><text x=\"85\" y=\"40\" font-size=\"10\" fill=\"#2f6f7a\">paths differ by a whole wavelength: bright</text></svg>"
+  },
+  {
+   "tag": "Concept",
+   "h": "Diffraction: waves bend round corners",
+   "b": "<p>Waves spread when they pass an opening or edge. Sound turns a corner so you hear someone round a wall; light also spreads, but its wavelength is so tiny that the effect is visible only for very small openings.</p><p>Light through a single narrow slit makes a wide central bright band with fainter bands on either side. A <b>diffraction grating</b>, thousands of slits per centimetre, splits light into sharp colours and is the heart of spectrometers. The rainbow sheen of a CD is a grating effect.</p>"
+  },
+  {
+   "tag": "Concept",
+   "h": "Thin films and soap bubbles",
+   "b": "<p>Light reflecting from the front and back of a very thin film (soap, oil on water) interferes. Where the film's thickness makes certain colours reinforce, you see bright colour. As the film thins and the thickness changes, the colours swirl.</p><p>Anti-reflection coatings on camera lenses and spectacles use this deliberately: a layer of the right thickness cancels reflected light, letting more through."
+  },
+  {
+   "tag": "Concept",
+   "h": "Polarisation",
+   "b": "<p>Light is a transverse wave, so its electric field vibrates at right angles to its direction. Ordinary light vibrates in all such directions. A <b>polarising filter</b> lets through only one direction.</p><p>Light reflected off water or a road is partly polarised horizontally. <b>Polaroid sunglasses</b> block that direction, cutting glare. Polarisation cannot happen with sound in air, because sound is longitudinal. Etienne Malus found polarisation by reflection in 1808. LCD screens use polarisers too."
+  },
+  {
+   "tag": "Worked example",
+   "h": "Fringe spacing",
+   "b": "<p>Light of wavelength 600 nm (6 x 10 to the power -7 m) passes through slits 0.5 mm apart onto a screen 1 m away.</p><p>Spacing = 6 x 10 to the power -7 x 1 / (5 x 10 to the power -4) = 1.2 x 10 to the power -3 m = <b>1.2 mm</b>.</p><p>Use blue light of 450 nm instead and the spacing falls to 0.9 mm. Fringes are tiny, which is why we do not see interference in everyday light."
+  },
+  {
+   "tag": "Misconceptions",
+   "h": "Misreadings",
+   "b": "<ul><li><b>'Interference destroys energy.'</b> The energy missing in dark fringes appears in the bright ones; the total is conserved.</li><li><b>'Light never bends round corners.'</b> It does, but only a little because its wavelength is tiny.</li><li><b>'Polarised light is a different kind of light.'</b> It is the same light with the vibration restricted to one direction.</li></ul>"
+  },
+  {
+   "tag": "Indian angle",
+   "h": "Raman, Bose and polarised waves",
+   "b": "<p>On 28 February 1928 C. V. Raman and K. S. Krishnan observed that when light scatters from molecules, a small part comes out with shifted colour, because the light has swapped energy with the molecules. The Raman effect won the Nobel Prize in 1930, the first for an Asian in science. India celebrates 28 February as National Science Day.</p><p>J. C. Bose in the 1890s used polarisers and prisms with microwaves, showing that radio waves polarise just like light."
+  },
+  {
+   "tag": "Recap",
+   "h": "Key takeaways",
+   "b": "<ul><li>Interference: waves add, giving bright and dark fringes (Young, 1801).</li><li>Fringe spacing = wavelength x D / d.</li><li>Diffraction: waves spread around small obstacles and slits.</li><li>Polarisation shows light is a transverse wave; Polaroid filters cut glare.</li></ul><div class=\"box\"><h4>Think about it</h4>1. Why do soap bubbles show changing colours?<br>2. Why can you hear around a corner but not see around it?</div>",
+   "cls": "exam"
+  }
+ ],
+ "quiz": [
+  {
+   "q": "Young's double-slit experiment (1801) showed that light",
+   "o": [
+    "Is a particle",
+    "Behaves like a wave",
+    "Is a sound",
+    "Has mass"
+   ],
+   "a": 1,
+   "w": "Interference needs waves."
+  },
+  {
+   "q": "Constructive interference occurs when path difference is",
+   "o": [
+    "Half a wavelength",
+    "A whole number of wavelengths",
+    "Zero only",
+    "Random"
+   ],
+   "a": 1,
+   "w": "Waves are in phase."
+  },
+  {
+   "q": "Fringe spacing is proportional to",
+   "o": [
+    "Slit separation",
+    "Wavelength",
+    "Slit width squared",
+    "Light intensity"
+   ],
+   "a": 1,
+   "w": "spacing = lambda D / d."
+  },
+  {
+   "q": "Compared with blue light, red light in the same set-up gives fringes that are",
+   "o": [
+    "Closer",
+    "Wider",
+    "Identical",
+    "Absent"
+   ],
+   "a": 1,
+   "w": "Longer wavelength."
+  },
+  {
+   "q": "Wavelength 500 nm, d = 1 mm, D = 2 m. Spacing?",
+   "o": [
+    "1 mm",
+    "0.5 mm",
+    "2 mm",
+    "0.25 mm"
+   ],
+   "a": 0,
+   "w": "500e-9 x 2 / 1e-3 = 1 mm."
+  },
+  {
+   "q": "Polarisation proves that light is",
+   "o": [
+    "Longitudinal",
+    "Transverse",
+    "A particle",
+    "Sound"
+   ],
+   "a": 1,
+   "w": "Only transverse waves polarise."
+  },
+  {
+   "q": "Polaroid sunglasses reduce",
+   "o": [
+    "Heat",
+    "Glare",
+    "Ultraviolet only",
+    "Brightness evenly"
+   ],
+   "a": 1,
+   "w": "They block horizontally polarised reflected light."
+  },
+  {
+   "q": "A diffraction grating",
+   "o": [
+    "Absorbs all light",
+    "Splits light into colours",
+    "Polarises sound",
+    "Focuses light"
+   ],
+   "a": 1,
+   "w": "Many slits diffract colours differently."
+  },
+  {
+   "q": "The Raman effect was discovered in",
+   "o": [
+    "1895",
+    "1928",
+    "1947",
+    "1969"
+   ],
+   "a": 1,
+   "w": "28 February 1928."
+  },
+  {
+   "q": "Anti-reflection coatings work by",
+   "o": [
+    "Absorbing light",
+    "Destructive interference of reflected light",
+    "Polarising light",
+    "Bending light"
+   ],
+   "a": 1,
+   "w": "Thin-film cancellation."
+  }
+ ],
+ "sources": [
+  "NCERT Physics Class 11-12",
+  "Halliday, Resnick and Walker, Fundamentals of Physics",
+  "Young (1801)",
+  "Raman and Krishnan, Nature (1928)"
+ ],
+ "verified": "2026-11-11"
+}

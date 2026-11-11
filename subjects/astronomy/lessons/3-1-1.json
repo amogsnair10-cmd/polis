@@ -1,0 +1,177 @@
+{
+ "id": "3-1-1",
+ "title": "The Big Bang and the Cosmic Microwave Background",
+ "emoji": "💫",
+ "cards": [
+  {
+   "tag": "Why this matters",
+   "h": "The origin story with receipts",
+   "b": "<p>The Big Bang is not a guess or a myth: it is the best-tested account of our beginning. It predicts how much helium exists, the temperature of the sky and the pattern of the ripples on it, and all three match. Here is the story and the evidence.</p>"
+  },
+  {
+   "tag": "Concept",
+   "h": "What the Big Bang is, and is not",
+   "b": "<p>It was <b>not an explosion in space</b>. It was the rapid expansion of space itself from an extremely hot, dense state about <b>13.8 billion years ago</b>. There is no centre to point to; it happened everywhere. The theory describes what happened after the first fraction of a second; the very first instant is unknown.</p>"
+  },
+  {
+   "tag": "Concept",
+   "h": "Timeline of a cooling universe",
+   "b": "<p>Inflation (Alan Guth, 1981) may have stretched the universe enormously in the first 10^-32 seconds. After about a microsecond, quarks bind into protons and neutrons. Between about 3 and 20 minutes, <b>Big Bang nucleosynthesis</b> fuses hydrogen into helium and a little lithium: the universe ends up with about <b>75 percent hydrogen and 25 percent helium by mass</b>. At about <b>380,000 years</b>, it cools to about 3,000 K and electrons join nuclei into atoms.</p><svg class=\"d\" viewBox=\"0 0 320 160\"><defs><marker id=\"ar1\" viewBox=\"0 0 10 10\" refX=\"9\" refY=\"5\" markerWidth=\"6\" markerHeight=\"6\" orient=\"auto\"><path d=\"M0 0L10 5L0 10z\" fill=\"#5d6474\"/></marker></defs><rect x=\"5\" y=\"10\" width=\"100\" height=\"22\" rx=\"5\" fill=\"#f4dcd5\" stroke=\"#a3362a\"/><text x=\"55.0\" y=\"25.0\" text-anchor=\"middle\" font-size=\"11\" fill=\"#1d2433\">Planck era to inflation</text><rect x=\"5\" y=\"38\" width=\"100\" height=\"22\" rx=\"5\" fill=\"#f4dcd5\" stroke=\"#a3362a\"/><text x=\"55.0\" y=\"53.0\" text-anchor=\"middle\" font-size=\"11\" fill=\"#1d2433\">Quark soup, 1 microsecond</text><rect x=\"5\" y=\"66\" width=\"100\" height=\"22\" rx=\"5\" fill=\"#f1e4c6\" stroke=\"#a8792a\"/><text x=\"55.0\" y=\"81.0\" text-anchor=\"middle\" font-size=\"11\" fill=\"#1d2433\">Nuclei: 3 minutes</text><rect x=\"5\" y=\"94\" width=\"100\" height=\"22\" rx=\"5\" fill=\"#dceaec\" stroke=\"#2f6f7a\"/><text x=\"55.0\" y=\"109.0\" text-anchor=\"middle\" font-size=\"11\" fill=\"#1d2433\">Atoms: 380,000 years</text><rect x=\"5\" y=\"122\" width=\"100\" height=\"22\" rx=\"5\" fill=\"#dceaec\" stroke=\"#2f6f7a\"/><text x=\"55.0\" y=\"137.0\" text-anchor=\"middle\" font-size=\"11\" fill=\"#1d2433\">Stars: ~100 million yrs</text><text x=\"215\" y=\"60\" text-anchor=\"middle\" font-size=\"10\" fill=\"#1d2433\">Hotter and denser</text><text x=\"215\" y=\"76\" text-anchor=\"middle\" font-size=\"10\" fill=\"#1d2433\">going back in time</text><line x1=\"215\" y1=\"90\" x2=\"215\" y2=\"125\" stroke=\"#5d6474\" stroke-width=\"1.5\" marker-end=\"url(#ar1)\"/></svg>"
+  },
+  {
+   "tag": "Concept",
+   "h": "The first light",
+   "b": "<p>Before that, the universe was an opaque glowing fog of charged particles that scattered light. When atoms formed, light was free to travel, the <b>cosmic microwave background (CMB)</b>. Since then, expansion has stretched its wavelength 1,100 times, from visible light to microwaves, with a temperature of <b>2.725 K</b>. Every cubic centimetre of space holds about 411 of these photons.</p>"
+  },
+  {
+   "tag": "Concept",
+   "h": "Discovery of the CMB",
+   "b": "<p>George Gamow, Ralph Alpher and Robert Herman predicted it around 1948. In 1964 to 1965 <b>Arno Penzias and Robert Wilson</b> at Bell Labs found an unexplained hiss in their antenna that came from all directions, even after cleaning out pigeon droppings. They had found the afterglow (Nobel 1978). In 1992 <b>COBE</b> showed it matches a perfect blackbody (Mather and Smoot, Nobel 2006).</p>"
+  },
+  {
+   "tag": "Concept",
+   "h": "Ripples: seeds of galaxies",
+   "b": "<p>The CMB is smooth to about 1 part in 100,000, but the tiny temperature differences are the seeds: denser patches that gravity grew into galaxies and clusters. <b>WMAP</b> (2001) and <b>Planck</b> (2009 to 2013) mapped them in detail. The ripple pattern gives the universe's age, shape (flat) and composition: about 5 percent ordinary matter, 27 percent dark matter, 68 percent dark energy.</p>"
+  },
+  {
+   "tag": "How we know",
+   "h": "Three pillars",
+   "b": "<ul><li><b>Expansion</b> of galaxies (Hubble).</li><li><b>CMB</b>: its temperature and blackbody spectrum.</li><li><b>Light element abundances</b>: helium about 25 percent matches nucleosynthesis theory.</li></ul><p>JWST has found surprisingly bright, early galaxies, which refines, but does not overturn, the picture.</p>"
+  },
+  {
+   "tag": "Misconceptions",
+   "h": "Clearing the air",
+   "b": "<ul><li><b>'The Big Bang happened at one point in space.'</b> It happened everywhere.</li><li><b>'The universe expands into something.'</b> The model does not need an outside.</li><li><b>'The CMB is a leftover from an explosion.'</b> It is light released when atoms formed.</li></ul>"
+  },
+  {
+   "tag": "Indian angle",
+   "h": "Narlikar, IUCAA and SARAS",
+   "b": "<p>Indian scientists contributed to the debate and the data. <b>Jayant Narlikar</b> promoted alternatives, keeping the field honest. IUCAA scientists analyse CMB data from Planck. In 2022 the <b>SARAS 3</b> radio experiment of the <b>Raman Research Institute</b>, floated on lakes in Karnataka, tested a claimed signal of the first stars seen by the EDGES experiment in 2018 and found no evidence for it, a significant Indian result in early-universe cosmology.</p>"
+  },
+  {
+   "tag": "Recap",
+   "h": "Key takeaways",
+   "b": "<ul><li>The universe began hot and dense 13.8 billion years ago and has been expanding and cooling.</li><li>Nucleosynthesis made 75 percent hydrogen and 25 percent helium.</li><li>The CMB is light freed at 380,000 years, now at 2.725 K.</li><li>CMB ripples seeded galaxies and measure the universe's makeup.</li></ul><p><b>Think about it:</b> (1) Why is the CMB so uniform yet not perfectly so? (2) What would change if the universe had formed far more helium?</p>",
+   "cls": "exam"
+  }
+ ],
+ "quiz": [
+  {
+   "q": "The universe's age is about:",
+   "o": [
+    "1.38 billion years",
+    "13.8 billion years",
+    "138 billion years",
+    "4.6 billion years"
+   ],
+   "a": 1,
+   "w": "13.8 billion years."
+  },
+  {
+   "q": "The CMB temperature today is:",
+   "o": [
+    "2.725 K",
+    "273 K",
+    "27 K",
+    "2,725 K"
+   ],
+   "a": 0,
+   "w": "About 2.7 K."
+  },
+  {
+   "q": "The CMB was released when:",
+   "o": [
+    "Atoms formed, about 380,000 years",
+    "Stars formed",
+    "Galaxies formed",
+    "The Sun formed"
+   ],
+   "a": 0,
+   "w": "Light became free to travel."
+  },
+  {
+   "q": "Who discovered the CMB by accident?",
+   "o": [
+    "Penzias and Wilson",
+    "Hubble",
+    "Gamow",
+    "Hoyle"
+   ],
+   "a": 0,
+   "w": "1964-65 at Bell Labs."
+  },
+  {
+   "q": "The Big Bang predicts the universe's helium share is about:",
+   "o": [
+    "25 percent",
+    "2 percent",
+    "75 percent",
+    "50 percent"
+   ],
+   "a": 0,
+   "w": "By mass."
+  },
+  {
+   "q": "What did COBE show in 1992?",
+   "o": [
+    "The CMB is a near-perfect blackbody",
+    "Dark matter exists",
+    "Black holes merge",
+    "Planets form"
+   ],
+   "a": 0,
+   "w": "Spectrum matches theory."
+  },
+  {
+   "q": "CMB ripples are important because they:",
+   "o": [
+    "Seeded the structure",
+    "Are noise",
+    "Show planets",
+    "Show comets"
+   ],
+   "a": 0,
+   "w": "Denser patches grew into galaxies."
+  },
+  {
+   "q": "The Big Bang was:",
+   "o": [
+    "An explosion at a point in space",
+    "Expansion of space everywhere",
+    "A black hole",
+    "A star"
+   ],
+   "a": 1,
+   "w": "There is no central point."
+  },
+  {
+   "q": "SARAS 3 tested a signal related to:",
+   "o": [
+    "The first stars",
+    "Dark matter in the Sun",
+    "Pulsars",
+    "Comets"
+   ],
+   "a": 0,
+   "w": "Cosmic dawn."
+  },
+  {
+   "q": "Inflation was proposed by:",
+   "o": [
+    "Alan Guth",
+    "Hubble",
+    "Chandrasekhar",
+    "Hawking"
+   ],
+   "a": 0,
+   "w": "1981."
+  }
+ ],
+ "sources": [
+  "Penzias Wilson 1965",
+  "COBE 1992",
+  "Planck 2018",
+  "SARAS 3 Nature Astronomy 2022"
+ ],
+ "verified": "2026-11-11"
+}

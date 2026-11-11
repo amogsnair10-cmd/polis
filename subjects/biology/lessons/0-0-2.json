@@ -1,0 +1,175 @@
+{
+ "id": "0-0-2",
+ "title": "Membranes and Transport",
+ "emoji": "🧫",
+ "cards": [
+  {
+   "tag": "Why this matters",
+   "h": "The smart border",
+   "b": "<p>Every cell is wrapped in a membrane that decides what enters and leaves, like a gate with a guard. If it fails, the cell dies. Salt balance, nerve signals, drug action and even why a pickled mango stays dry all depend on membranes.</p>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "The fluid mosaic model",
+   "b": "<p>In 1972 S.J. Singer and Garth Nicolson proposed the fluid mosaic model. The membrane is a double layer of <b>phospholipids</b>. Each has a water-loving head and two water-fearing tails. Tails hide inside, heads face water on both sides. Proteins float in it like boats on a sea, and cholesterol adjusts fluidity.</p><svg class=\"d\" viewBox=\"0 0 320 216\"><defs><marker id=\"t1\" viewBox=\"0 0 10 10\" refX=\"8\" refY=\"5\" markerWidth=\"6\" markerHeight=\"6\" orient=\"auto\"><path d=\"M0 0L10 5L0 10z\" fill=\"#5d6474\"/></marker></defs><rect x=\"20\" y=\"6\" width=\"280\" height=\"28\" rx=\"6\" fill=\"#dceaec\" stroke=\"#2f6f7a\"/><text x=\"160\" y=\"24\" text-anchor=\"middle\" font-size=\"11\" fill=\"#1d2433\">Water outside the cell</text><line x1=\"160\" y1=\"34\" x2=\"160\" y2=\"50\" stroke=\"#5d6474\" stroke-width=\"1.5\" marker-end=\"url(#t1)\"/><rect x=\"20\" y=\"50\" width=\"280\" height=\"28\" rx=\"6\" fill=\"#f1e4c6\" stroke=\"#a8792a\"/><text x=\"160\" y=\"68\" text-anchor=\"middle\" font-size=\"11\" fill=\"#1d2433\">Heads (water-loving) layer</text><line x1=\"160\" y1=\"78\" x2=\"160\" y2=\"94\" stroke=\"#5d6474\" stroke-width=\"1.5\" marker-end=\"url(#t1)\"/><rect x=\"20\" y=\"94\" width=\"280\" height=\"28\" rx=\"6\" fill=\"#f4dcd5\" stroke=\"#a3362a\"/><text x=\"160\" y=\"112\" text-anchor=\"middle\" font-size=\"11\" fill=\"#1d2433\">Tails (water-fearing) inside</text><line x1=\"160\" y1=\"122\" x2=\"160\" y2=\"138\" stroke=\"#5d6474\" stroke-width=\"1.5\" marker-end=\"url(#t1)\"/><rect x=\"20\" y=\"138\" width=\"280\" height=\"28\" rx=\"6\" fill=\"#f1e4c6\" stroke=\"#a8792a\"/><text x=\"160\" y=\"156\" text-anchor=\"middle\" font-size=\"11\" fill=\"#1d2433\">Heads layer</text><line x1=\"160\" y1=\"166\" x2=\"160\" y2=\"182\" stroke=\"#5d6474\" stroke-width=\"1.5\" marker-end=\"url(#t1)\"/><rect x=\"20\" y=\"182\" width=\"280\" height=\"28\" rx=\"6\" fill=\"#dceaec\" stroke=\"#2f6f7a\"/><text x=\"160\" y=\"200\" text-anchor=\"middle\" font-size=\"11\" fill=\"#1d2433\">Water or cytoplasm inside</text></svg>"
+  },
+  {
+   "tag": "Step by step",
+   "h": "Passive transport: no energy",
+   "b": "<p>Molecules move from high to low concentration. This is <b>diffusion</b>. Small non-polar molecules like oxygen slip straight through. Water moves by <b>osmosis</b>, often through channels called aquaporins (Peter Agre, Nobel 2003). Large or charged molecules use <b>facilitated diffusion</b> through channel or carrier proteins.</p>"
+  },
+  {
+   "tag": "Step by step",
+   "h": "Active transport: with energy",
+   "b": "<p>Moving things uphill, from low to high, needs ATP. The <b>sodium-potassium pump</b> pushes 3 Na+ out and 2 K+ in per ATP. Jens Skou discovered it (Nobel 1997). It keeps nerve cells ready to fire and drives much of your energy use.</p>"
+  },
+  {
+   "tag": "Step by step",
+   "h": "Osmosis in daily life",
+   "b": "<p>Water moves toward the saltier side. Put a raisin in water: it swells. Salt on a slug or on pickles pulls water out. Plant cells in fresh water become firm (turgid); in strong salt they shrink (plasmolysis).</p><svg class=\"d\" viewBox=\"0 0 320 136\"><rect x=\"10\" y=\"4\" width=\"145\" height=\"26\" rx=\"6\" fill=\"#2f6f7a\"/><text x=\"82\" y=\"21\" text-anchor=\"middle\" font-size=\"11\" fill=\"#fff\">Hypotonic</text><rect x=\"10\" y=\"36\" width=\"145\" height=\"26\" rx=\"5\" fill=\"#dceaec\" stroke=\"#2f6f7a\"/><text x=\"82\" y=\"53\" text-anchor=\"middle\" font-size=\"10\" fill=\"#1d2433\">Less salt outside</text><rect x=\"10\" y=\"68\" width=\"145\" height=\"26\" rx=\"5\" fill=\"#dceaec\" stroke=\"#2f6f7a\"/><text x=\"82\" y=\"85\" text-anchor=\"middle\" font-size=\"10\" fill=\"#1d2433\">Water enters</text><rect x=\"10\" y=\"100\" width=\"145\" height=\"26\" rx=\"5\" fill=\"#dceaec\" stroke=\"#2f6f7a\"/><text x=\"82\" y=\"117\" text-anchor=\"middle\" font-size=\"10\" fill=\"#1d2433\">Animal cell may burst</text><rect x=\"165\" y=\"4\" width=\"145\" height=\"26\" rx=\"6\" fill=\"#a8792a\"/><text x=\"237\" y=\"21\" text-anchor=\"middle\" font-size=\"11\" fill=\"#fff\">Hypertonic</text><rect x=\"165\" y=\"36\" width=\"145\" height=\"26\" rx=\"5\" fill=\"#f1e4c6\" stroke=\"#a8792a\"/><text x=\"237\" y=\"53\" text-anchor=\"middle\" font-size=\"10\" fill=\"#1d2433\">More salt outside</text><rect x=\"165\" y=\"68\" width=\"145\" height=\"26\" rx=\"5\" fill=\"#f1e4c6\" stroke=\"#a8792a\"/><text x=\"237\" y=\"85\" text-anchor=\"middle\" font-size=\"10\" fill=\"#1d2433\">Water leaves</text><rect x=\"165\" y=\"100\" width=\"145\" height=\"26\" rx=\"5\" fill=\"#f1e4c6\" stroke=\"#a8792a\"/><text x=\"237\" y=\"117\" text-anchor=\"middle\" font-size=\"10\" fill=\"#1d2433\">Cell shrinks</text></svg>"
+  },
+  {
+   "tag": "Step by step",
+   "h": "Bulk transport",
+   "b": "<p>Large particles cross inside bubbles. <b>Endocytosis</b> brings material in (phagocytosis means 'cell eating', pinocytosis 'cell drinking'). <b>Exocytosis</b> sends material out, as when nerve cells release signals.</p>"
+  },
+  {
+   "tag": "How we know",
+   "h": "Early clues",
+   "b": "<p>Ernest Overton (1890s) noticed that fat-soluble substances enter cells easily, hinting at a fatty membrane. In 1925 Gorter and Grendel extracted lipids from red blood cells and found enough to cover the cells twice, suggesting a double layer.</p>"
+  },
+  {
+   "tag": "Misconceptions",
+   "h": "Not what it seems",
+   "b": "<div class=\"box\"><h4>Correct this</h4><ul><li>Osmosis is movement of <i>water</i>, not salt.</li><li>The membrane is not a rigid wall; it flows.</li><li>Active transport is not always faster; it is about direction against the gradient.</li></ul></div>"
+  },
+  {
+   "tag": "Indian angle",
+   "h": "Oral rehydration therapy",
+   "b": "<p>During cholera epidemics, Indian-origin doctors like Dilip Mahalanabis used oral rehydration solution during the 1971 refugee crisis. It works because glucose helps sodium enter gut cells through a carrier, and water follows by osmosis. It has saved millions of children.</p>"
+  },
+  {
+   "tag": "Recap",
+   "h": "Key takeaways and questions",
+   "b": "<ul><li>Membrane: phospholipid bilayer with proteins (fluid mosaic, 1972).</li><li>Passive: diffusion, osmosis, facilitated.</li><li>Active: needs ATP, goes against gradient.</li><li>Bulk: endocytosis and exocytosis.</li></ul><p><b>Think about it:</b></p><ol><li>Why does adding salt to a wound sting or dry a leech?</li><li>Why does ORS need both sugar and salt?</li></ol>",
+   "cls": "exam"
+  }
+ ],
+ "quiz": [
+  {
+   "q": "The fluid mosaic model was proposed in:",
+   "o": [
+    "1925",
+    "1972",
+    "1953",
+    "1890"
+   ],
+   "a": 1,
+   "w": "Singer and Nicolson, 1972."
+  },
+  {
+   "q": "Phospholipid tails are:",
+   "o": [
+    "Water-loving",
+    "Water-fearing",
+    "Charged",
+    "Protein"
+   ],
+   "a": 1,
+   "w": "Hydrophobic."
+  },
+  {
+   "q": "Osmosis is the movement of:",
+   "o": [
+    "Salt",
+    "Glucose",
+    "Water",
+    "Protein"
+   ],
+   "a": 2,
+   "w": "Water across a membrane."
+  },
+  {
+   "q": "The Na+/K+ pump moves ions:",
+   "o": [
+    "Down gradient",
+    "Against gradient using ATP",
+    "Without protein",
+    "Only into cell"
+   ],
+   "a": 1,
+   "w": "Active transport."
+  },
+  {
+   "q": "A cell in hypertonic solution will:",
+   "o": [
+    "Burst",
+    "Shrink",
+    "Stay same",
+    "Divide"
+   ],
+   "a": 1,
+   "w": "Water leaves."
+  },
+  {
+   "q": "Aquaporins were linked to which Nobel winner?",
+   "o": [
+    "Skou",
+    "Agre",
+    "Singer",
+    "Overton"
+   ],
+   "a": 1,
+   "w": "Peter Agre, 2003."
+  },
+  {
+   "q": "Phagocytosis is:",
+   "o": [
+    "Drinking",
+    "Cell eating by endocytosis",
+    "Exocytosis",
+    "Diffusion"
+   ],
+   "a": 1,
+   "w": "Engulfing large particles."
+  },
+  {
+   "q": "Gorter and Grendel's 1925 result suggested:",
+   "o": [
+    "A single layer",
+    "A bilayer",
+    "No lipid",
+    "Protein wall"
+   ],
+   "a": 1,
+   "w": "Lipids covered cells twice."
+  },
+  {
+   "q": "ORS works because glucose helps:",
+   "o": [
+    "Kill bacteria",
+    "Sodium absorption, then water follows",
+    "Make fat",
+    "Raise pH"
+   ],
+   "a": 1,
+   "w": "Co-transport."
+  },
+  {
+   "q": "Facilitated diffusion needs:",
+   "o": [
+    "ATP",
+    "Carrier or channel proteins, no ATP",
+    "A nucleus",
+    "Heat"
+   ],
+   "a": 1,
+   "w": "Passive via proteins."
+  }
+ ],
+ "sources": [
+  "NCERT Class 11 Biology",
+  "Campbell Biology"
+ ],
+ "verified": "2026-11-11"
+}

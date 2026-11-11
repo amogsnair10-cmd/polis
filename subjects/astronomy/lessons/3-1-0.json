@@ -1,0 +1,178 @@
+{
+ "id": "3-1-0",
+ "title": "The Expanding Universe: Hubble and Redshift",
+ "emoji": "📈",
+ "cards": [
+  {
+   "tag": "Why this matters",
+   "h": "The universe has a history",
+   "b": "<p>For most of history people assumed the universe was eternal and unchanging. In the 1920s the evidence showed otherwise: galaxies are flying apart. If they move apart now, they were closer before. Winding the film back leads to a beginning, the Big Bang.</p>"
+  },
+  {
+   "tag": "Concept",
+   "h": "Slipher and the redshifts",
+   "b": "<p>Between 1912 and 1920s, <b>Vesto Slipher</b> measured spectra of spiral 'nebulae' and found most were redshifted: moving away fast. Their speeds were far greater than the stars in our galaxy. The nature of the nebulae was still debated.</p>"
+  },
+  {
+   "tag": "Concept",
+   "h": "Hubble settles the scale (1924 to 1929)",
+   "b": "<p>In 1924 <b>Edwin Hubble</b> found Cepheid variables in Andromeda and showed it lay about a million light-years away (the modern value is about 2.5 million), well outside the Milky Way: these were separate galaxies. In 1929 he combined distances with redshifts and found that <b>the farther a galaxy, the faster it recedes</b>.</p>"
+  },
+  {
+   "tag": "Concept",
+   "h": "Hubble-Lemaitre law",
+   "b": "<p>The relation is <b>v = H0 x d</b>: recession speed v equals distance d times the <b>Hubble constant</b> H0, now about 70 km/s per megaparsec. A galaxy 100 Mpc away recedes at about 7,000 km/s. Georges Lemaitre, a Belgian priest and physicist, predicted and estimated this in 1927 from Einstein's equations, two years before Hubble. In 2018 the IAU voted to call it the <b>Hubble-Lemaitre law</b>.</p>"
+  },
+  {
+   "tag": "Concept",
+   "h": "Space itself expands",
+   "b": "<p>Galaxies are not flying through space from a centre. <b>Space itself is stretching</b>, like dots on an inflating balloon or raisins in rising dough: from any raisin, all others recede, and the farther ones faster. So there is no centre and no edge. Light waves are stretched along the way, producing <b>cosmological redshift</b>, which differs from the ordinary Doppler shift.</p><svg class=\"d\" viewBox=\"0 0 320 120\"><defs><marker id=\"ar1\" viewBox=\"0 0 10 10\" refX=\"9\" refY=\"5\" markerWidth=\"6\" markerHeight=\"6\" orient=\"auto\"><path d=\"M0 0L10 5L0 10z\" fill=\"#5d6474\"/></marker></defs><text x=\"20\" y=\"30\" text-anchor=\"start\" font-size=\"10\" fill=\"#1d2433\">Static</text><circle cx=\"40\" cy=\"60\" r=\"4\" fill=\"#dceaec\" stroke=\"#2f6f7a\"/><circle cx=\"80\" cy=\"60\" r=\"4\" fill=\"#dceaec\" stroke=\"#2f6f7a\"/><circle cx=\"120\" cy=\"60\" r=\"4\" fill=\"#dceaec\" stroke=\"#2f6f7a\"/><text x=\"160\" y=\"64\" text-anchor=\"middle\" font-size=\"10\" fill=\"#1d2433\">then</text><circle cx=\"200\" cy=\"60\" r=\"4\" fill=\"#dceaec\" stroke=\"#2f6f7a\"/><circle cx=\"250\" cy=\"60\" r=\"4\" fill=\"#dceaec\" stroke=\"#2f6f7a\"/><circle cx=\"300\" cy=\"60\" r=\"4\" fill=\"#dceaec\" stroke=\"#2f6f7a\"/><line x1=\"200\" y1=\"80\" x2=\"300\" y2=\"80\" stroke=\"#5d6474\" stroke-width=\"1.5\" marker-end=\"url(#ar1)\"/><text x=\"250\" y=\"98\" text-anchor=\"middle\" font-size=\"10\" fill=\"#1d2433\">Space stretches: all spread out</text><text x=\"160\" y=\"115\" text-anchor=\"middle\" font-size=\"10\" fill=\"#5d6474\">Farther galaxies recede faster</text></svg>"
+  },
+  {
+   "tag": "Concept",
+   "h": "Redshift z and the age",
+   "b": "<p>Redshift <b>z</b> measures the stretch: 1 + z is the factor by which the universe has expanded since the light left. A galaxy at z = 1 is seen when the universe was half its present size. Running the expansion backward, 1/H0 gives roughly <b>14 billion years</b>, close to the real age, 13.8 billion years.</p>"
+  },
+  {
+   "tag": "How we know",
+   "h": "Two numbers that disagree",
+   "b": "<p>Measuring H0 is hard. Cepheids and supernovae in nearby galaxies (the SH0ES team, Adam Riess) give about 73 km/s/Mpc. The CMB analysed with the standard model (Planck) gives about 67 to 68. This <b>Hubble tension</b> is over 5 sigma, and may be a hint of new physics or hidden errors. It remains unresolved as of 2025.</p>"
+  },
+  {
+   "tag": "Misconceptions",
+   "h": "Careful here",
+   "b": "<ul><li><b>'Galaxies fly away from a centre.'</b> There is no centre.</li><li><b>'Everything expands, including us.'</b> Gravity or electromagnetic forces hold galaxies, atoms and you together; only the space between clusters grows.</li><li><b>'Redshift always means motion through space.'</b> At great distances it is stretching of space.</li></ul>"
+  },
+  {
+   "tag": "Indian angle",
+   "h": "Narlikar and rival ideas",
+   "b": "<p><b>Jayant Narlikar</b> worked with Fred Hoyle on the steady-state and the Hoyle-Narlikar gravity theories, rivals to the Big Bang. The CMB evidence settled the debate in favour of the Big Bang, but the rival ideas pushed the field to test hard. <b>IUCAA</b> and <b>TIFR</b> astronomers analyse supernova and galaxy-survey data to measure expansion. The <b>uGMRT</b> maps redshifted hydrogen emission from distant galaxies.</p>"
+  },
+  {
+   "tag": "Recap",
+   "h": "Key takeaways",
+   "b": "<ul><li>Galaxies recede with speeds proportional to distance: v = H0 x d.</li><li>Space itself stretches; there is no centre of expansion.</li><li>Redshift measures how much the universe has grown since the light left.</li><li>The Hubble tension shows two methods disagree on H0.</li></ul><p><b>Think about it:</b> (1) Why does the law imply a beginning? (2) Why do galaxies not expand with space?</p>",
+   "cls": "exam"
+  }
+ ],
+ "quiz": [
+  {
+   "q": "Who first showed that spiral nebulae are redshifted?",
+   "o": [
+    "Slipher",
+    "Hubble",
+    "Lemaitre",
+    "Hoyle"
+   ],
+   "a": 0,
+   "w": "Vesto Slipher."
+  },
+  {
+   "q": "The Hubble-Lemaitre law states that recession speed is proportional to:",
+   "o": [
+    "Mass",
+    "Distance",
+    "Brightness",
+    "Colour"
+   ],
+   "a": 1,
+   "w": "v = H0 d."
+  },
+  {
+   "q": "The Hubble constant is about:",
+   "o": [
+    "7 km/s/Mpc",
+    "70 km/s/Mpc",
+    "700 km/s/Mpc",
+    "7,000 km/s/Mpc"
+   ],
+   "a": 1,
+   "w": "About 67 to 73."
+  },
+  {
+   "q": "Cosmological redshift is caused by:",
+   "o": [
+    "Space expanding",
+    "Gas moving through space",
+    "Magnetism",
+    "Star spin"
+   ],
+   "a": 0,
+   "w": "The stretching of light waves."
+  },
+  {
+   "q": "The Hubble tension is a disagreement between:",
+   "o": [
+    "Local and CMB-based values of H0",
+    "Two telescopes",
+    "Two planets",
+    "Two galaxies"
+   ],
+   "a": 0,
+   "w": "About 73 vs about 67."
+  },
+  {
+   "q": "In the balloon analogy, the galaxies are:",
+   "o": [
+    "Dots on the surface",
+    "The air inside",
+    "The balloon's centre",
+    "Rubber"
+   ],
+   "a": 0,
+   "w": "The surface is space."
+  },
+  {
+   "q": "Why is there no centre of the expansion?",
+   "o": [
+    "Every point sees others recede",
+    "Space has an edge",
+    "It is invisible",
+    "The Sun is the centre"
+   ],
+   "a": 0,
+   "w": "Any observer sees the same."
+  },
+  {
+   "q": "Why do galaxies like the Milky Way not expand?",
+   "o": [
+    "Gravity binds them",
+    "They are small",
+    "They avoid space",
+    "They are dark"
+   ],
+   "a": 0,
+   "w": "Local forces dominate."
+  },
+  {
+   "q": "1/H0 gives the age of the universe as roughly:",
+   "o": [
+    "14 billion years",
+    "1.4 billion years",
+    "140 billion years",
+    "14 million years"
+   ],
+   "a": 0,
+   "w": "A rough estimate."
+  },
+  {
+   "q": "The Hubble-Lemaitre renaming happened in:",
+   "o": [
+    "1929",
+    "1950",
+    "2018",
+    "1987"
+   ],
+   "a": 2,
+   "w": "IAU vote."
+  }
+ ],
+ "sources": [
+  "Hubble 1929",
+  "Lemaitre 1927",
+  "IAU 2018",
+  "SH0ES 2022",
+  "Planck 2018"
+ ],
+ "verified": "2026-11-11"
+}

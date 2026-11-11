@@ -1,0 +1,176 @@
+{
+ "id": "3-0-0",
+ "title": "Reflection, Refraction and Lenses",
+ "emoji": "🔍",
+ "cards": [
+  {
+   "tag": "Why this matters",
+   "h": "From spectacles to the internet",
+   "b": "<p>Light bends, bounces and focuses, and these simple facts built spectacles, microscopes, telescopes, cameras and the glass-fibre cables that carry the internet under the sea.</p><p>All you need to describe most of it is the idea of a <b>ray</b>, a straight line along which light travels. This is <b>geometric optics</b>.</p>"
+  },
+  {
+   "tag": "Concept",
+   "h": "Reflection",
+   "b": "<p>When light hits a smooth surface, it bounces. The <b>law of reflection</b>: the angle of incidence equals the angle of reflection, both measured from the normal (the line at right angles to the surface).</p><p>A plane mirror gives a virtual image as far behind the mirror as the object is in front, the same size, left and right swapped. A rough surface scatters light in all directions, which is why we can see paper from every angle but not ourselves in it."
+  },
+  {
+   "tag": "Concept",
+   "h": "Refraction and Snell's law",
+   "b": "<p>When light passes from one material into another, it changes speed and bends. In glass it travels about 1.5 times slower than in vacuum.</p><div class=\"box\"><h4>Snell's law</h4>n1 sin(theta1) = n2 sin(theta2)</div><p>The <b>refractive index</b> n is c divided by the speed in the material: water 1.33, glass about 1.5, diamond 2.42. Light bends toward the normal on entering a denser material. This is why a straw looks bent in water and a swimming pool looks shallower than it is. Willebrord Snell found the law in 1621."
+  },
+  {
+   "tag": "Concept",
+   "h": "Total internal reflection",
+   "b": "<p>Going from dense to less dense material (glass to air), light bends away from the normal. Increase the angle and it eventually skims along the surface. Beyond this <b>critical angle</b>, all light reflects back inside:</p><div class=\"box\"><h4>Critical angle</h4>sin(theta c) = n2 / n1</div><p>For glass (1.5) to air (1), sin(theta c) = 0.667, so theta c is about 42 degrees. This makes diamonds sparkle and powers <b>optical fibres</b>: light zigzags down a glass thread, trapped, carrying data across oceans. Charles Kao's 1966 work on low-loss fibre won the Nobel Prize in 2009."
+  },
+  {
+   "tag": "Concept",
+   "h": "Lenses",
+   "b": "<p>A <b>convex</b> (converging) lens is thicker in the middle and brings parallel rays to a focus at distance f, the focal length. A <b>concave</b> lens spreads them out. Lenses work by refraction at curved surfaces.</p><div class=\"box\"><h4>Lens formula</h4>1/v - 1/u = 1/f (with u negative for an object on the left)<br>magnification m = v / u<br>power P = 1/f in dioptres (f in metres)</div><svg class=\"d\" viewBox=\"0 0 320 150\"><defs><marker id=\"p1\" markerWidth=\"8\" markerHeight=\"8\" refX=\"7\" refY=\"4\" orient=\"auto\"><path d=\"M0,0 L8,4 L0,8z\" fill=\"#a3362a\"/></marker></defs><line x1=\"10\" y1=\"75\" x2=\"310\" y2=\"75\" stroke=\"#5d6474\" stroke-width=\"1\" stroke-dasharray=\"4 3\"/><ellipse cx=\"170\" cy=\"75\" rx=\"7\" ry=\"55\" fill=\"#dceaec\" stroke=\"#2f6f7a\" stroke-width=\"2\"/><line x1=\"40\" y1=\"75\" x2=\"40\" y2=\"35\" stroke=\"#1d2433\" stroke-width=\"3\" marker-end=\"url(#p1)\"/><text x=\"22\" y=\"95\" font-size=\"10\" fill=\"#1d2433\">object</text><line x1=\"40\" y1=\"35\" x2=\"170\" y2=\"35\" stroke=\"#a3362a\" stroke-width=\"1.5\"/><line x1=\"170\" y1=\"35\" x2=\"258\" y2=\"112\" stroke=\"#a3362a\" stroke-width=\"1.5\"/><line x1=\"40\" y1=\"35\" x2=\"258\" y2=\"112\" stroke=\"#a8792a\" stroke-width=\"1.5\"/><line x1=\"258\" y1=\"75\" x2=\"258\" y2=\"112\" stroke=\"#1d2433\" stroke-width=\"3\" marker-end=\"url(#p1)\"/><text x=\"232\" y=\"68\" font-size=\"10\" fill=\"#1d2433\">image</text><text x=\"150\" y=\"140\" font-size=\"10\" fill=\"#2f6f7a\">convex lens</text><text x=\"12\" y=\"140\" font-size=\"10\" fill=\"#5d6474\">u = 30 cm, f = 10 cm, v = 15 cm</text></svg>"
+  },
+  {
+   "tag": "Concept",
+   "h": "The eye and optical instruments",
+   "b": "<p>Your eye is a lens system: the cornea and lens focus an upside-down image on the retina. Short-sighted people focus in front of the retina; a concave lens fixes it. Long-sighted people focus behind it; a convex lens helps. Doctors prescribe lens power in dioptres.</p><p>A <b>microscope</b> uses two convex lenses to magnify tiny things. A <b>telescope</b> gathers faint light with a big lens or mirror. Galileo pointed one at the sky in 1609 and saw Jupiter's moons."
+  },
+  {
+   "tag": "Worked example",
+   "h": "Where does the image form?",
+   "b": "<p>An object is 30 cm from a convex lens of f = 10 cm. Using u = -30 and f = +10: 1/v = 1/f + 1/u = 1/10 - 1/30 = 2/30, so <b>v = +15 cm</b>.</p><p>Magnification m = v/u = 15 / (-30) = <b>-0.5</b>. The image is real, inverted and half the size (see diagram).</p><p>Spectacle power: a lens of f = 50 cm = 0.5 m has power 1/0.5 = +2 dioptres."
+  },
+  {
+   "tag": "Misconceptions",
+   "h": "Light misreadings",
+   "b": "<ul><li><b>'The straw really bends in water.'</b> The light bends; the straw is straight.</li><li><b>'Covering half a lens shows half the image.'</b> You still see the whole image, only dimmer.</li><li><b>'Light speeds up in glass.'</b> It slows down in any material compared with vacuum.</li></ul>"
+  },
+  {
+   "tag": "Indian angle",
+   "h": "Raman's blue sea and BharatNet",
+   "b": "<p>In 1921, sailing home from England, C. V. Raman looked at the deep blue of the Mediterranean and doubted the textbook answer that it just reflects the sky. Back in Calcutta he worked out that water molecules themselves scatter blue light more than red. That curiosity led to the Raman effect, on which he won the Nobel Prize in 1930.</p><p>India's BharatNet project lays optical fibre to connect gram panchayats across the country, using total internal reflection to carry broadband to villages."
+  },
+  {
+   "tag": "Recap",
+   "h": "Key takeaways",
+   "b": "<ul><li>Reflection: angle in equals angle out.</li><li>Refraction: n1 sin(theta1) = n2 sin(theta2); n = c / speed in medium.</li><li>Total internal reflection beyond the critical angle powers optical fibre.</li><li>Lens formula: 1/v - 1/u = 1/f; power = 1/f in dioptres.</li></ul><div class=\"box\"><h4>Think about it</h4>1. Why does a pool look shallower than it really is?<br>2. Why do diamonds sparkle more than glass?</div>",
+   "cls": "exam"
+  }
+ ],
+ "quiz": [
+  {
+   "q": "In reflection, the angle of incidence",
+   "o": [
+    "Equals the angle of reflection",
+    "Is double the angle of reflection",
+    "Is zero",
+    "Is 90 degrees"
+   ],
+   "a": 0,
+   "w": "The law of reflection."
+  },
+  {
+   "q": "The refractive index of a material is",
+   "o": [
+    "Speed in material / c",
+    "c / speed in material",
+    "Always 1",
+    "Density"
+   ],
+   "a": 1,
+   "w": "n = c/v."
+  },
+  {
+   "q": "Light going from air into glass bends",
+   "o": [
+    "Away from the normal",
+    "Toward the normal",
+    "Not at all",
+    "Backward"
+   ],
+   "a": 1,
+   "w": "It slows and bends toward the normal."
+  },
+  {
+   "q": "Total internal reflection can happen when light goes",
+   "o": [
+    "Air to glass",
+    "Glass to air above the critical angle",
+    "Water to water",
+    "Vacuum to air"
+   ],
+   "a": 1,
+   "w": "Dense to rare, beyond critical angle."
+  },
+  {
+   "q": "Optical fibres work by",
+   "o": [
+    "Diffraction",
+    "Total internal reflection",
+    "Polarisation",
+    "Dispersion"
+   ],
+   "a": 1,
+   "w": "Light stays trapped inside."
+  },
+  {
+   "q": "A lens has f = 25 cm. Its power is",
+   "o": [
+    "+4 dioptres",
+    "+0.25 dioptres",
+    "+25 dioptres",
+    "+0.04 dioptres"
+   ],
+   "a": 0,
+   "w": "1/0.25."
+  },
+  {
+   "q": "An object is 20 cm from a convex lens of f = 10 cm. The image is at",
+   "o": [
+    "10 cm",
+    "20 cm",
+    "30 cm",
+    "5 cm"
+   ],
+   "a": 1,
+   "w": "1/v = 1/10 - 1/20 = 1/20."
+  },
+  {
+   "q": "Short-sightedness is corrected with a",
+   "o": [
+    "Convex lens",
+    "Concave lens",
+    "Plane mirror",
+    "Prism"
+   ],
+   "a": 1,
+   "w": "Diverging lens."
+  },
+  {
+   "q": "Light's speed in glass (n = 1.5) is about",
+   "o": [
+    "2 x 10^8 m/s",
+    "3 x 10^8 m/s",
+    "4.5 x 10^8 m/s",
+    "1.5 x 10^8 m/s"
+   ],
+   "a": 0,
+   "w": "3 x 10^8 / 1.5."
+  },
+  {
+   "q": "Raman was moved to study light scattering by",
+   "o": [
+    "A solar eclipse",
+    "The blue colour of the sea",
+    "A rainbow",
+    "A telescope"
+   ],
+   "a": 1,
+   "w": "His 1921 sea voyage."
+  }
+ ],
+ "sources": [
+  "NCERT Physics Class 11-12",
+  "Halliday, Resnick and Walker, Fundamentals of Physics",
+  "Snell (1621); Kao (1966)"
+ ],
+ "verified": "2026-11-11"
+}

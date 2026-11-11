@@ -1,0 +1,175 @@
+{
+ "id": "0-0-3",
+ "title": "Enzymes and Metabolism",
+ "emoji": "⚗️",
+ "cards": [
+  {
+   "tag": "Why this matters",
+   "h": "Why you can digest a roti",
+   "b": "<p>Without help, digesting starch would take years. Your body does it in hours because of enzymes, biological catalysts that speed reactions up millions of times. Lactose intolerance, fever, food spoilage and many medicines all come down to enzymes.</p>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "What an enzyme is",
+   "b": "<p>Nearly all enzymes are proteins (some RNA). An enzyme lowers the <b>activation energy</b>, the push needed to start a reaction, and is not used up. It acts on a <b>substrate</b> at a pocket called the <b>active site</b>.</p><p>Analogy: a key and lock. Better: a glove that tightens around the hand (induced fit, Daniel Koshland, 1958).</p><svg class=\"d\" viewBox=\"0 0 320 172\"><defs><marker id=\"e1\" viewBox=\"0 0 10 10\" refX=\"8\" refY=\"5\" markerWidth=\"6\" markerHeight=\"6\" orient=\"auto\"><path d=\"M0 0L10 5L0 10z\" fill=\"#5d6474\"/></marker></defs><rect x=\"20\" y=\"6\" width=\"280\" height=\"28\" rx=\"6\" fill=\"#f1e4c6\" stroke=\"#a8792a\"/><text x=\"160\" y=\"24\" text-anchor=\"middle\" font-size=\"11\" fill=\"#1d2433\">Enzyme + substrate meet at active site</text><line x1=\"160\" y1=\"34\" x2=\"160\" y2=\"50\" stroke=\"#5d6474\" stroke-width=\"1.5\" marker-end=\"url(#e1)\"/><rect x=\"20\" y=\"50\" width=\"280\" height=\"28\" rx=\"6\" fill=\"#dceaec\" stroke=\"#2f6f7a\"/><text x=\"160\" y=\"68\" text-anchor=\"middle\" font-size=\"11\" fill=\"#1d2433\">Enzyme-substrate complex forms</text><line x1=\"160\" y1=\"78\" x2=\"160\" y2=\"94\" stroke=\"#5d6474\" stroke-width=\"1.5\" marker-end=\"url(#e1)\"/><rect x=\"20\" y=\"94\" width=\"280\" height=\"28\" rx=\"6\" fill=\"#f1e4c6\" stroke=\"#a8792a\"/><text x=\"160\" y=\"112\" text-anchor=\"middle\" font-size=\"11\" fill=\"#1d2433\">Substrate changes into product</text><line x1=\"160\" y1=\"122\" x2=\"160\" y2=\"138\" stroke=\"#5d6474\" stroke-width=\"1.5\" marker-end=\"url(#e1)\"/><rect x=\"20\" y=\"138\" width=\"280\" height=\"28\" rx=\"6\" fill=\"#dceaec\" stroke=\"#2f6f7a\"/><text x=\"160\" y=\"156\" text-anchor=\"middle\" font-size=\"11\" fill=\"#1d2433\">Product released, enzyme free again</text></svg>"
+  },
+  {
+   "tag": "Step by step",
+   "h": "What changes enzyme speed",
+   "b": "<ol><li><b>Temperature:</b> rises with heat until the enzyme folds out of shape (denatures).</li><li><b>pH:</b> pepsin works at pH 2, trypsin near 8.</li><li><b>Substrate amount:</b> speed rises then levels off when all enzymes are busy (Michaelis and Menten, 1913).</li><li><b>Inhibitors:</b> block the active site or bend the enzyme.</li></ol>"
+  },
+  {
+   "tag": "Step by step",
+   "h": "Cofactors and vitamins",
+   "b": "<p>Many enzymes need helpers. Metal ions like zinc or magnesium are cofactors. Small organic helpers are coenzymes; many are made from vitamins, such as NAD from niacin (B3). That is why vitamin lack causes disease.</p>"
+  },
+  {
+   "tag": "Step by step",
+   "h": "Metabolic pathways",
+   "b": "<p>Cells link reactions into chains. The product of one enzyme is the substrate of the next. Often the final product switches off the first enzyme, called <b>feedback inhibition</b>, like a tap that closes when the tank is full.</p>"
+  },
+  {
+   "tag": "Step by step",
+   "h": "ATP: the energy coin",
+   "b": "<p>Cells pay for work using ATP (adenosine triphosphate). Breaking its last phosphate releases usable energy. A person turns over about their body weight of ATP each day, recycling it from ADP.</p>"
+  },
+  {
+   "tag": "How we know",
+   "h": "Enzymes are proteins",
+   "b": "<p>Eduard Buchner showed in 1897 that yeast juice without living cells could ferment sugar (Nobel 1907). James Sumner crystallised urease in 1926 and showed it was a protein. Many doubted him until others confirmed it.</p>"
+  },
+  {
+   "tag": "Misconceptions",
+   "h": "Not quite",
+   "b": "<div class=\"box\"><h4>Fix these</h4><ul><li>Cold does not kill enzymes; it slows them. Heat can destroy them.</li><li>Enzymes do not supply energy; they lower the hill to climb.</li><li>Enzymes are not changed permanently by reactions.</li></ul></div>"
+  },
+  {
+   "tag": "Indian angle",
+   "h": "Enzymes in Indian life",
+   "b": "<p>Curd, idli and dosa batter, and toddy rely on microbial enzymes. Lactase persistence varies across Indian populations, so lactose intolerance is common in many regions. Statin drugs and many cancer drugs work by inhibiting key enzymes.</p>"
+  },
+  {
+   "tag": "Recap",
+   "h": "Key takeaways and questions",
+   "b": "<ul><li>Enzymes lower activation energy and are reusable.</li><li>Speed depends on temperature, pH, substrate, inhibitors.</li><li>Pathways are tuned by feedback inhibition.</li><li>ATP is the cell's energy coin.</li></ul><p><b>Think about it:</b></p><ol><li>Why does fever above about 41 C become dangerous?</li><li>Why might a drug that mimics a substrate block an enzyme?</li></ol>",
+   "cls": "exam"
+  }
+ ],
+ "quiz": [
+  {
+   "q": "Enzymes speed reactions by:",
+   "o": [
+    "Adding heat",
+    "Lowering activation energy",
+    "Using up substrate",
+    "Changing products"
+   ],
+   "a": 1,
+   "w": "Lower the energy barrier."
+  },
+  {
+   "q": "The induced-fit idea came from:",
+   "o": [
+    "Koshland",
+    "Sumner",
+    "Buchner",
+    "Agre"
+   ],
+   "a": 0,
+   "w": "Koshland, 1958."
+  },
+  {
+   "q": "Who crystallised urease in 1926?",
+   "o": [
+    "Buchner",
+    "Sumner",
+    "Menten",
+    "Skou"
+   ],
+   "a": 1,
+   "w": "James Sumner."
+  },
+  {
+   "q": "High heat usually makes an enzyme:",
+   "o": [
+    "Faster forever",
+    "Denature",
+    "Stronger",
+    "Inactive only when cold"
+   ],
+   "a": 1,
+   "w": "Shape lost."
+  },
+  {
+   "q": "Pepsin works best at:",
+   "o": [
+    "pH 2",
+    "pH 7",
+    "pH 8",
+    "pH 12"
+   ],
+   "a": 0,
+   "w": "Stomach acid."
+  },
+  {
+   "q": "Feedback inhibition means:",
+   "o": [
+    "Product turns off early enzyme",
+    "More substrate",
+    "No products",
+    "Cofactor use"
+   ],
+   "a": 0,
+   "w": "End product shuts the tap."
+  },
+  {
+   "q": "NAD is made from which vitamin?",
+   "o": [
+    "C",
+    "Niacin (B3)",
+    "A",
+    "D"
+   ],
+   "a": 1,
+   "w": "Niacin."
+  },
+  {
+   "q": "Buchner's 1897 result showed:",
+   "o": [
+    "Cells needed for fermentation",
+    "Cell-free extract can ferment",
+    "Enzymes are lipids",
+    "Yeast is non-living"
+   ],
+   "a": 1,
+   "w": "Enzymes work outside cells."
+  },
+  {
+   "q": "ATP is best described as:",
+   "o": [
+    "Genetic code",
+    "Energy currency",
+    "Enzyme",
+    "Pigment"
+   ],
+   "a": 1,
+   "w": "Energy currency."
+  },
+  {
+   "q": "A competitive inhibitor:",
+   "o": [
+    "Bends enzyme far from active site",
+    "Competes for the active site",
+    "Adds energy",
+    "Digests enzyme"
+   ],
+   "a": 1,
+   "w": "Blocks the active site."
+  }
+ ],
+ "sources": [
+  "NCERT Class 11 Biology",
+  "Campbell Biology"
+ ],
+ "verified": "2026-11-11"
+}

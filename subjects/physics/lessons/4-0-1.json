@@ -1,0 +1,178 @@
+{
+ "id": "4-0-1",
+ "title": "General Relativity",
+ "emoji": "🕳️",
+ "cards": [
+  {
+   "tag": "Why this matters",
+   "h": "Gravity is not a force at all",
+   "b": "<p>Newton described how gravity acts but not what it is. Einstein asked why gravity seems to pull all things equally, and found an answer so strange that it took four years of hard work: gravity is the <b>curvature of spacetime</b>.</p><p>His general theory of relativity (1915) predicts black holes, gravitational waves and the expanding universe. It has passed every test for over a century."
+  },
+  {
+   "tag": "Concept",
+   "h": "The equivalence principle",
+   "b": "<p>Einstein's 'happiest thought' (1907): a person in free fall feels no weight. Inside a closed lift, you cannot tell whether you are at rest on Earth's surface or being accelerated upward in empty space; both feel the same.</p><p>This <b>equivalence principle</b> says gravity and acceleration are indistinguishable. It explains why all objects fall at the same rate: they are simply following the same natural path."
+  },
+  {
+   "tag": "Concept",
+   "h": "Curved spacetime",
+   "b": "<p>In general relativity, mass and energy bend the fabric of spacetime. Free objects follow the straightest possible paths in that curved geometry. To us, the paths look curved, and we call it gravity. John Wheeler's summary: spacetime tells matter how to move; matter tells spacetime how to curve.</p><p>The rubber-sheet picture is an analogy: a heavy ball dents the sheet and a small ball rolls toward it.</p><svg class=\"d\" viewBox=\"0 0 320 150\"><path d=\"M10,40 Q160,40 310,40\" fill=\"none\" stroke=\"#5d6474\" stroke-width=\"1.5\"/><path d=\"M10,70 Q160,120 310,70\" fill=\"none\" stroke=\"#5d6474\" stroke-width=\"1.5\"/><path d=\"M10,100 Q160,160 310,100\" fill=\"none\" stroke=\"#5d6474\" stroke-width=\"1.5\"/><path d=\"M10,40 Q160,100 310,40\" fill=\"none\" stroke=\"#5d6474\" stroke-width=\"1.5\"/><circle cx=\"160\" cy=\"82\" r=\"14\" fill=\"#f1e4c6\" stroke=\"#a8792a\" stroke-width=\"2\"/><text x=\"150\" y=\"86\" font-size=\"10\" fill=\"#1d2433\">Mass</text><circle cx=\"60\" cy=\"52\" r=\"5\" fill=\"#a3362a\"/><text x=\"70\" y=\"46\" font-size=\"10\" fill=\"#a3362a\">small ball rolls toward it</text><text x=\"60\" y=\"142\" font-size=\"11\" fill=\"#2f6f7a\">Mass bends spacetime; bent spacetime guides mass</text></svg>"
+  },
+  {
+   "tag": "Concept",
+   "h": "Tests that came true",
+   "b": "<ul><li><b>Mercury's orbit (1915):</b> Newton could not explain a slow turning of Mercury's orbit by 43 arc-seconds per century. Einstein's theory gave exactly 43.</li><li><b>Bending of starlight (1919):</b> Arthur Eddington's solar eclipse expeditions saw stars near the Sun shifted, as predicted, making Einstein world famous.</li><li><b>Gravitational redshift and time:</b> clocks run slower deeper in gravity; GPS must correct for it.</li></ul>"
+  },
+  {
+   "tag": "Concept",
+   "h": "Black holes",
+   "b": "<p>If enough mass is squeezed into a small region, spacetime curves so steeply that nothing, not even light, escapes. The boundary is the <b>event horizon</b>. Its size for mass M is the Schwarzschild radius, found by Karl Schwarzschild in 1916:</p><div class=\"box\"><h4>Schwarzschild radius</h4>r = 2 G M / c squared</div><p>For the Sun it is about 3 km; for Earth, about 9 mm. In 2019 the Event Horizon Telescope released the first image of a black hole's shadow, in galaxy M87; in 2022 came the one at our Milky Way's centre."
+  },
+  {
+   "tag": "Concept",
+   "h": "Gravitational waves",
+   "b": "<p>Accelerating masses send ripples through spacetime at the speed of light. Einstein predicted them in 1916 but doubted they could be detected. On 14 September 2015 the LIGO detectors in the USA caught the ripples from two black holes merging over a billion years ago. The announcement came in February 2016 and the Nobel Prize followed in 2017.</p><p>The distance change measured was smaller than one-thousandth the width of a proton."
+  },
+  {
+   "tag": "Worked example",
+   "h": "How small is the Earth as a black hole?",
+   "b": "<p>r = 2 G M / c squared with G = 6.67 x 10 to the power -11, M = 6 x 10 to the power 24 kg, c = 3 x 10 to the power 8.</p><p>r = 2 x 6.67e-11 x 6e24 / 9e16 = 8.0e14 / 9e16 = <b>about 0.009 m</b>, nine millimetres.</p><p>To become a black hole, Earth would have to be crushed to the size of a marble. The Sun's radius (700,000 km) is far larger than its 3 km Schwarzschild radius, so it is no black hole."
+  },
+  {
+   "tag": "Misconceptions",
+   "h": "Misreadings of gravity",
+   "b": "<ul><li><b>'Black holes suck everything in.'</b> At a distance, a black hole's gravity is the same as any star of the same mass. Our Sun swapped for a black hole of equal mass would leave Earth's orbit unchanged.</li><li><b>'Relativity replaced Newton.'</b> It extends it. Newton's law is an excellent approximation for weak gravity and slow speeds.</li><li><b>'The rubber sheet is the real thing.'</b> It is only a 2D picture of 4D spacetime.</li></ul>"
+  },
+  {
+   "tag": "Indian angle",
+   "h": "Chandrasekhar and LIGO-India",
+   "b": "<p>In 1930, aged 19, Subrahmanyan Chandrasekhar sailed from India to England and worked out that a dying star heavier than about 1.4 Suns cannot settle into a white dwarf and must collapse further. This <b>Chandrasekhar limit</b> points to neutron stars and black holes. He won the 1983 Nobel Prize in Physics.</p><p>India is building <b>LIGO-India</b>, a gravitational-wave detector in Hingoli, Maharashtra, approved in 2016. Jayant Narlikar and the institute IUCAA in Pune have long led Indian research on gravity and cosmology."
+  },
+  {
+   "tag": "Recap",
+   "h": "Key takeaways",
+   "b": "<ul><li>Equivalence principle: gravity and acceleration are locally indistinguishable.</li><li>Mass-energy curves spacetime; objects follow straight paths in it.</li><li>Tests: Mercury (43 arc-seconds per century), 1919 eclipse, GPS, black-hole images, gravitational waves.</li><li>Schwarzschild radius r = 2GM / c squared.</li></ul><div class=\"box\"><h4>Think about it</h4>1. Why do a hammer and a feather fall together in a vacuum, in terms of spacetime?<br>2. Why do GPS satellite clocks need relativity corrections?</div>",
+   "cls": "exam"
+  }
+ ],
+ "quiz": [
+  {
+   "q": "General relativity was published in",
+   "o": [
+    "1905",
+    "1915",
+    "1925",
+    "1935"
+   ],
+   "a": 1,
+   "w": "Einstein, 1915."
+  },
+  {
+   "q": "According to general relativity, gravity is",
+   "o": [
+    "A force carried by particles",
+    "The curvature of spacetime",
+    "Electromagnetism",
+    "An illusion with no effect"
+   ],
+   "a": 1,
+   "w": "Mass-energy curves spacetime."
+  },
+  {
+   "q": "The 1919 eclipse expedition measured",
+   "o": [
+    "The bending of starlight",
+    "Mercury's orbit",
+    "The speed of sound",
+    "Black holes"
+   ],
+   "a": 0,
+   "w": "Eddington, Principe and Sobral."
+  },
+  {
+   "q": "Mercury's orbit anomaly is",
+   "o": [
+    "43 arc-seconds per century",
+    "1 degree per day",
+    "0.1 degrees",
+    "None"
+   ],
+   "a": 0,
+   "w": "General relativity accounted for it."
+  },
+  {
+   "q": "The event horizon is",
+   "o": [
+    "The Sun's surface",
+    "The boundary beyond which nothing escapes a black hole",
+    "A star's core",
+    "The edge of space"
+   ],
+   "a": 1,
+   "w": "Beyond it light cannot escape."
+  },
+  {
+   "q": "Schwarzschild radius of the Sun is about",
+   "o": [
+    "3 km",
+    "3 m",
+    "700,000 km",
+    "30 km"
+   ],
+   "a": 0,
+   "w": "2GM/c squared."
+  },
+  {
+   "q": "Gravitational waves were first detected in",
+   "o": [
+    "1919",
+    "1965",
+    "2015",
+    "2022"
+   ],
+   "a": 2,
+   "w": "LIGO, 14 September 2015."
+  },
+  {
+   "q": "The Chandrasekhar limit is about",
+   "o": [
+    "0.5 solar mass",
+    "1.4 solar masses",
+    "10 solar masses",
+    "100 solar masses"
+   ],
+   "a": 1,
+   "w": "Maximum for a white dwarf."
+  },
+  {
+   "q": "Clocks deeper in a gravitational field run",
+   "o": [
+    "Faster",
+    "Slower",
+    "The same",
+    "Backward"
+   ],
+   "a": 1,
+   "w": "Gravitational time dilation."
+  },
+  {
+   "q": "LIGO-India is planned in",
+   "o": [
+    "Hingoli, Maharashtra",
+    "Chennai",
+    "Shimla",
+    "Thumba"
+   ],
+   "a": 0,
+   "w": "Approved 2016."
+  }
+ ],
+ "sources": [
+  "NCERT Physics Class 11-12",
+  "Halliday, Resnick and Walker, Fundamentals of Physics",
+  "Einstein (1915)",
+  "LIGO announcement Feb 2016",
+  "Chandrasekhar (1931)"
+ ],
+ "verified": "2026-11-11"
+}
