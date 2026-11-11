@@ -1,0 +1,176 @@
+{
+ "id": "1-0-1",
+ "title": "The Wavefunction and Probability",
+ "emoji": "ψ",
+ "cards": [
+  {
+   "tag": "Why this matters",
+   "h": "Nature rolls dice, but the dice are loaded",
+   "b": "<p>Quantum theory describes a particle by a <b>wavefunction</b>, written ψ (the Greek letter psi). It does not tell you where the particle is. It tells you the <b>odds</b> of finding it in each place.</p><p>This was the moment physics gave up a perfectly predictable universe. Many people, including Einstein, never fully accepted it.</p>"
+  },
+  {
+   "tag": "The wave that is not a wave",
+   "h": "What the wavefunction is",
+   "b": "<p>De Broglie's matter wave and Schrödinger's equation (next lesson) describe a wave spread over space. But what is waving? Schrödinger first hoped it was a smeared-out electron. It could not be: electrons always show up as whole points.</p><p>In 1926 Max Born made the key proposal. The wave is a wave of <b>probability amplitude</b>. At each place it has a size, and the size squared is the chance of finding the particle there.</p><div class=\"box\"><h4>Born rule</h4>Probability density = |ψ|². Read as \"the size of psi, squared\". Born received a share of the 1954 Nobel Prize for it.</div>"
+  },
+  {
+   "tag": "Picture",
+   "h": "Odds, not positions",
+   "b": "<svg class=\"d\" viewBox=\"0 0 320 150\"><defs><marker id=\"m101\" viewBox=\"0 0 10 10\" refX=\"9\" refY=\"5\" markerWidth=\"6\" markerHeight=\"6\" orient=\"auto\"><path d=\"M0,0L10,5L0,10z\" fill=\"#5d6474\"/></marker></defs><line x1=\"30\" y1=\"120\" x2=\"300\" y2=\"120\" stroke=\"#5d6474\" stroke-width=\"1.5\"/><path d=\"M30,120 C70,120 90,115 110,60 C130,10 150,10 170,60 C190,115 230,120 300,120\" fill=\"#dceaec\" stroke=\"#2f6f7a\" stroke-width=\"2.5\"/><text x=\"140\" y=\"140\" font-size=\"10\" fill=\"#5d6474\" text-anchor=\"middle\">position</text><text x=\"140\" y=\"8\" font-size=\"10\" fill=\"#2f6f7a\" text-anchor=\"middle\">height = |ψ|² = odds</text><text x=\"145\" y=\"30\" font-size=\"10\" fill=\"#a8792a\" text-anchor=\"middle\">most likely here</text><text x=\"260\" y=\"110\" font-size=\"10\" fill=\"#a3362a\" text-anchor=\"middle\">unlikely</text></svg><p>The tall part of the curve means the particle will probably be found there, but a single measurement gives one spot. Repeat many times with identical set-ups and the dots fill out the curve. The probabilities come out exactly right, always.</p>"
+  },
+  {
+   "tag": "Amplitudes",
+   "h": "Why you add amplitudes, not odds",
+   "b": "<p>This is the core of quantum weirdness. Amplitudes can be positive or negative (really, they have a \"phase\"). When two possible paths lead to the same place, you add their amplitudes first, then square. Two equal amplitudes pointing the same way give four times the odds of one path. Pointing opposite ways, they cancel to zero odds.</p><p>That is exactly the double-slit stripe pattern: dark stripes are where the two path amplitudes cancel. If paths are recorded, you add odds instead, and the stripes vanish.</p>"
+  },
+  {
+   "tag": "Analogy",
+   "h": "The weather forecast",
+   "b": "<p>A forecast of \"70% rain\" gives odds. But in a weather forecast the odds reflect ignorance; the actual weather was decided. In quantum theory, standard thinking says there is no hidden decision to be ignorant of, at least not one that works locally (see Bell's theorem).</p><p><b>Analogy breaks:</b> weather odds never cancel each other out. Quantum amplitudes do.</p>"
+  },
+  {
+   "tag": "How we know",
+   "h": "Testing the Born rule",
+   "b": "<p>Every quantum experiment is a test: electron diffraction, spectra, transistors. A sharp special test: in 2010 Urbasi Sinha and colleagues at Waterloo used triple slits to check that no \"third-order\" interference exists. If Born's rule were wrong, a certain combination of patterns would not be zero. They found it to be zero within about 1%. Later experiments tightened this.</p><p>What the wavefunction <i>is</i> (a real thing or a bookkeeping device) remains debated. The 2012 PBR theorem (Pusey, Barrett, Rudolph) constrains certain views, but not all.</p>"
+  },
+  {
+   "tag": "Collapse",
+   "h": "After the click",
+   "b": "<p>When a detector finds the particle at a spot, the wavefunction is updated: now the particle is there, and a second measurement right after finds it at the same place. Textbooks call this \"collapse\". Whether collapse is physical or just updated knowledge is the measurement problem (later lessons).</p>"
+  },
+  {
+   "tag": "Misconceptions",
+   "h": "Myths to drop",
+   "b": "<ul><li><b>\"The wavefunction is the electron smeared out.\"</b> The electron always arrives whole.</li><li><b>\"Probability means quantum theory is vague.\"</b> The odds are predicted to ten or more decimal places in some cases.</li><li><b>\"Einstein was wrong to say God does not play dice, so hidden variables are disproved.\"</b> Bell showed that <i>local</i> hidden variables fail; others remain possible.</li></ul>"
+  },
+  {
+   "tag": "Indian angle",
+   "h": "Probability and Indian physics",
+   "b": "<p>Indian physicists contributed to the statistical side of quantum theory. S.N. Bose's 1924 counting rule decides the odds for identical particles. E.C.G. Sudarshan's 1963 representation (with Roy Glauber, who won the 2005 Nobel for his part) describes light quantum states using probability-like functions, a tool in quantum optics today.</p>"
+  },
+  {
+   "tag": "Recap",
+   "h": "Key takeaways and think-about-it",
+   "b": "<ul><li>ψ gives amplitudes; |ψ|² gives odds (Born, 1926).</li><li>Add amplitudes first, then square: this makes interference.</li><li>The mathematics is accepted; the meaning of ψ is debated.</li></ul><div class=\"box\"><h4>Think about it</h4><ol><li>Why can two ways of reaching a spot give <i>less</i> chance than one way?</li><li>How does a single click differ from the pattern after a thousand clicks?</li></ol></div>",
+   "cls": "exam"
+  }
+ ],
+ "quiz": [
+  {
+   "q": "The Born rule says the chance of finding a particle at a place is:",
+   "o": [
+    "Its speed",
+    "Its energy",
+    "The wavefunction size squared",
+    "The wavefunction itself"
+   ],
+   "a": 2,
+   "w": "|ψ|²."
+  },
+  {
+   "q": "Who proposed the probability meaning of ψ in 1926?",
+   "o": [
+    "Max Born",
+    "Louis de Broglie",
+    "Isaac Newton",
+    "Erwin Schrödinger"
+   ],
+   "a": 0,
+   "w": "Schrödinger hoped it was a smeared electron."
+  },
+  {
+   "q": "Two path amplitudes of equal size and opposite sign give:",
+   "o": [
+    "Four times the chance",
+    "Same as one path",
+    "Zero chance",
+    "Double chance"
+   ],
+   "a": 2,
+   "w": "Cancellation makes dark stripes."
+  },
+  {
+   "q": "Why is ψ not a smeared electron?",
+   "o": [
+    "ψ is always zero",
+    "Electrons have no charge",
+    "Electrons are infinite",
+    "Detectors always find whole electrons"
+   ],
+   "a": 3,
+   "w": "The electron arrives as a single dot."
+  },
+  {
+   "q": "If paths are recorded, you should:",
+   "o": [
+    "Ignore the paths",
+    "Add the amplitudes",
+    "Add the odds, not the amplitudes",
+    "Multiply the odds"
+   ],
+   "a": 2,
+   "w": "This removes interference."
+  },
+  {
+   "q": "What does \"collapse\" refer to?",
+   "o": [
+    "The atom exploding",
+    "The screen breaking",
+    "The slit closing",
+    "Updating ψ after a measurement result"
+   ],
+   "a": 3,
+   "w": "Whether it is physical is debated."
+  },
+  {
+   "q": "How do dots on the screen show the wavefunction?",
+   "o": [
+    "One dot shows it",
+    "It cannot be seen",
+    "Dots are random with no pattern",
+    "Many dots build up the |ψ|² pattern"
+   ],
+   "a": 3,
+   "w": "Statistics reveal the odds."
+  },
+  {
+   "q": "Weather odds differ from quantum odds because:",
+   "o": [
+    "Weather ignores probability",
+    "Weather is exact",
+    "Quantum amplitudes can cancel",
+    "Quantum odds are guesses"
+   ],
+   "a": 2,
+   "w": "Odds never cancel, amplitudes do."
+  },
+  {
+   "q": "The 2010 triple-slit test checked:",
+   "o": [
+    "The speed of light",
+    "That there is no extra third-order interference",
+    "Planck's constant",
+    "The mass of an electron"
+   ],
+   "a": 1,
+   "w": "It supported the Born rule."
+  },
+  {
+   "q": "Which statement is correct about hidden variables?",
+   "o": [
+    "All are disproved",
+    "None have been considered",
+    "Local ones are ruled out by Bell tests; others are not",
+    "Born proved them true"
+   ],
+   "a": 2,
+   "w": "See the Bell lesson."
+  }
+ ],
+ "sources": [
+  "Born 1926",
+  "Sinha et al. Science 2010",
+  "Pusey, Barrett and Rudolph 2012"
+ ],
+ "verified": "2026-11-11"
+}

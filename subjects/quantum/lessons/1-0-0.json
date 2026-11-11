@@ -1,0 +1,179 @@
+{
+ "id": "1-0-0",
+ "title": "The Double-Slit Experiment",
+ "emoji": "〰️",
+ "cards": [
+  {
+   "tag": "Why this matters",
+   "h": "Feynman called it the one mystery",
+   "b": "<p>Richard Feynman said the double-slit experiment contains \"the only mystery\" of quantum mechanics. If you understand one experiment, make it this one. It needs no equations, only a screen with two slits.</p><p>It shows in one go why quantum objects cannot be thought of as ordinary balls or ordinary waves.</p>"
+  },
+  {
+   "tag": "Step 1",
+   "h": "With waves: stripes",
+   "b": "<p>In 1801 Thomas Young shone light through two narrow slits and saw bright and dark stripes on a screen. Where wave crests from both slits meet, they add (bright). Where a crest meets a trough, they cancel (dark). This is <b>interference</b>, the fingerprint of waves. It convinced physicists that light is a wave.</p>"
+  },
+  {
+   "tag": "Step 2",
+   "h": "With bullets: two heaps",
+   "b": "<p>Fire bullets through two slits and you get two heaps behind the slits. Each bullet takes one path, and the heaps simply add. No stripes.</p><p>So the test is simple: stripes mean wave, two heaps mean particles.</p>"
+  },
+  {
+   "tag": "Step 3",
+   "h": "Electrons, one at a time",
+   "b": "<p>Now fire electrons, so rarely that only one is in the machine at a time. Each makes a single dot on the screen, like a particle. But after thousands of dots the stripes appear!</p><svg class=\"d\" viewBox=\"0 0 320 160\"><defs><marker id=\"m100\" viewBox=\"0 0 10 10\" refX=\"9\" refY=\"5\" markerWidth=\"6\" markerHeight=\"6\" orient=\"auto\"><path d=\"M0,0L10,5L0,10z\" fill=\"#5d6474\"/></marker></defs><rect x=\"5\" y=\"60\" width=\"40\" height=\"40\" rx=\"6\" fill=\"#f1e4c6\" stroke=\"#a8792a\"/><text x=\"25.0\" y=\"83.3\" font-size=\"10\" fill=\"#1d2433\" text-anchor=\"middle\">source</text><line x1=\"47\" y1=\"80\" x2=\"92\" y2=\"80\" stroke=\"#5d6474\" stroke-width=\"1.5\" marker-end=\"url(#m100)\"/><line x1=\"100\" y1=\"20\" x2=\"100\" y2=\"65\" stroke=\"#1d2433\" stroke-width=\"4\"/><line x1=\"100\" y1=\"95\" x2=\"100\" y2=\"140\" stroke=\"#1d2433\" stroke-width=\"4\"/><text x=\"100\" y=\"12\" font-size=\"10\" fill=\"#1d2433\" text-anchor=\"middle\">two slits</text><line x1=\"104\" y1=\"70\" x2=\"205\" y2=\"45\" stroke=\"#a8792a\" stroke-width=\"1.5\" marker-end=\"url(#m100)\"/><line x1=\"104\" y1=\"90\" x2=\"205\" y2=\"115\" stroke=\"#a8792a\" stroke-width=\"1.5\" marker-end=\"url(#m100)\"/><line x1=\"245\" y1=\"30\" x2=\"245\" y2=\"130\" stroke=\"#2f6f7a\" stroke-width=\"6\"/><line x1=\"258\" y1=\"30\" x2=\"258\" y2=\"130\" stroke=\"#2f6f7a\" stroke-width=\"1\"/><line x1=\"271\" y1=\"30\" x2=\"271\" y2=\"130\" stroke=\"#2f6f7a\" stroke-width=\"4\"/><line x1=\"284\" y1=\"30\" x2=\"284\" y2=\"130\" stroke=\"#2f6f7a\" stroke-width=\"1\"/><line x1=\"297\" y1=\"30\" x2=\"297\" y2=\"130\" stroke=\"#2f6f7a\" stroke-width=\"6\"/><line x1=\"310\" y1=\"30\" x2=\"310\" y2=\"130\" stroke=\"#2f6f7a\" stroke-width=\"1\"/><line x1=\"232\" y1=\"30\" x2=\"232\" y2=\"130\" stroke=\"#2f6f7a\" stroke-width=\"1\"/><line x1=\"219\" y1=\"30\" x2=\"219\" y2=\"130\" stroke=\"#2f6f7a\" stroke-width=\"4\"/><text x=\"265\" y=\"150\" font-size=\"10\" fill=\"#2f6f7a\" text-anchor=\"middle\">stripes build up</text></svg><p>One electron cannot have been interfering with a neighbour. Each one seems to have gone through <b>both slits</b> as a wave and landed as a single dot.</p>"
+  },
+  {
+   "tag": "Step 4",
+   "h": "Watch which slit, and the stripes vanish",
+   "b": "<p>Place a detector at the slits to see which one each electron uses. You find each goes through exactly one slit. But now the stripes disappear and you get two heaps.</p><p>Finding the path destroys the interference. This is not clumsiness of the detector alone; any way of learning the path, even in principle, kills the stripes. Information is what matters.</p>"
+  },
+  {
+   "tag": "What it means",
+   "h": "What is known and what is interpretation",
+   "b": "<div class=\"box\"><h4>Known (every interpretation agrees)</h4>The probability of landing at a spot comes from adding two amplitudes (the wavefunction contributions of each path). Stripes arise when the paths are not recorded.</div><div class=\"box\"><h4>Interpretation</h4>What the electron \"really did\": went through both (Copenhagen-style wave talk), split into many worlds, or followed a guided path (Bohm). Same predictions, different stories.</div><p><b>Analogy breaks:</b> the electron is not a splitting blob. You never see half an electron.</p>"
+  },
+  {
+   "tag": "How we know",
+   "h": "Key experiments",
+   "b": "<ul><li>Young, 1801: light stripes.</li><li>Davisson-Germer, Thomson, 1927: electron diffraction.</li><li>Claus Joensson, 1961: electrons through real slits.</li><li>Merli, Missiroli and Pozzi (Bologna, 1974) and Akira Tonomura's team at Hitachi (1989): single electrons building stripes dot by dot.</li><li>Arndt, Zeilinger and colleagues, 1999: stripes with C60 molecules; 2019: molecules of over 25,000 atomic mass units (Fein et al., Vienna and Basel).</li></ul>"
+  },
+  {
+   "tag": "Misconceptions",
+   "h": "Myths to drop",
+   "b": "<ul><li><b>\"The electron is aware of being watched by a conscious mind.\"</b> No. Any physical record, even by a mindless atom, destroys the stripes.</li><li><b>\"The electron splits in two.\"</b> It always lands whole.</li><li><b>\"Quantum eraser sends messages to the past.\"</b> Erasing path information restores stripes only when the data is sorted afterwards. No signal goes backwards.</li></ul>"
+  },
+  {
+   "tag": "Indian angle",
+   "h": "Quantum optics in India",
+   "b": "<p>Urbasi Sinha's group at the Raman Research Institute, Bengaluru, runs single-photon interference experiments. In 2010, with colleagues at Waterloo, she reported a triple-slit test of the rule that probabilities come from adding two-path contributions only (published in Science), finding no sign of extra terms. Such tests also support India's National Quantum Mission aims in photonics.</p><p>S.N. Bose's photon counting (1924) is part of the same story: photons that are indistinguishable behave in ways ordinary balls cannot.</p>"
+  },
+  {
+   "tag": "Recap",
+   "h": "Key takeaways and think-about-it",
+   "b": "<ul><li>Single electrons land as dots but make stripes in the long run.</li><li>Learning the path destroys the stripes.</li><li>The maths is agreed; the story of what happened in between is debated.</li></ul><div class=\"box\"><h4>Think about it</h4><ol><li>Why does the stripe pattern build up from single dots prove the stripes are not caused by electrons bumping each other?</li><li>What would you expect if a slit were blocked after the electron passed it?</li></ol></div>",
+   "cls": "exam"
+  }
+ ],
+ "quiz": [
+  {
+   "q": "Young's 1801 experiment showed that light:",
+   "o": [
+    "Needs no source",
+    "Has no colour",
+    "Is a stream of bullets",
+    "Behaves as a wave"
+   ],
+   "a": 3,
+   "w": "Stripes are an interference pattern."
+  },
+  {
+   "q": "Bullets through two slits give:",
+   "o": [
+    "Interference stripes",
+    "Two heaps",
+    "A single dot",
+    "No hits"
+   ],
+   "a": 1,
+   "w": "Particles take one path each."
+  },
+  {
+   "q": "Electrons fired one at a time eventually make:",
+   "o": [
+    "An interference pattern",
+    "Nothing",
+    "A uniform blur from the start",
+    "Two heaps"
+   ],
+   "a": 0,
+   "w": "Dots accumulate into stripes."
+  },
+  {
+   "q": "What happens when you detect which slit each electron used?",
+   "o": [
+    "The stripes disappear",
+    "The electrons stop",
+    "Nothing changes",
+    "The stripes grow sharper"
+   ],
+   "a": 0,
+   "w": "Path information destroys interference."
+  },
+  {
+   "q": "Why is the single-electron stripe result surprising?",
+   "o": [
+    "Each electron seems to interfere with itself",
+    "Electrons repel each other",
+    "The screen is faulty",
+    "Electrons are invisible"
+   ],
+   "a": 0,
+   "w": "It cannot be due to electron-electron collisions."
+  },
+  {
+   "q": "Who showed buckyball (C60) interference in 1999?",
+   "o": [
+    "Planck",
+    "Heisenberg",
+    "Young",
+    "Arndt, Zeilinger and colleagues"
+   ],
+   "a": 3,
+   "w": "Showing quantum behaviour in big molecules."
+  },
+  {
+   "q": "Does consciousness cause the stripes to vanish?",
+   "o": [
+    "Yes, only human minds do",
+    "Only animals do",
+    "Only at night",
+    "No, any physical record does"
+   ],
+   "a": 3,
+   "w": "Information in the environment is enough."
+  },
+  {
+   "q": "Which view says the electron is guided by a pilot wave?",
+   "o": [
+    "Bohmian mechanics",
+    "Many-worlds",
+    "Wien's law",
+    "The photoelectric effect"
+   ],
+   "a": 0,
+   "w": "It reproduces the same stripes."
+  },
+  {
+   "q": "What do all interpretations agree on?",
+   "o": [
+    "That the observer is conscious",
+    "The predicted pattern of landing spots",
+    "That the electron splits",
+    "That reality is an illusion"
+   ],
+   "a": 1,
+   "w": "They differ only on the story."
+  },
+  {
+   "q": "Urbasi Sinha's group at RRI is known for:",
+   "o": [
+    "Inventing the laser",
+    "Building the LHC",
+    "Discovering the electron",
+    "Single-photon interference tests"
+   ],
+   "a": 3,
+   "w": "Including a 2010 triple-slit test."
+  }
+ ],
+ "sources": [
+  "Young 1801",
+  "Joensson 1961",
+  "Tonomura et al. 1989",
+  "Arndt et al. 1999",
+  "Fein et al. 2019",
+  "Sinha et al. Science 2010"
+ ],
+ "verified": "2026-11-11"
+}

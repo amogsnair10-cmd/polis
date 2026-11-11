@@ -1,0 +1,175 @@
+{
+ "id": "4-0-0",
+ "title": "Microbes: Bacteria, Viruses and Fungi",
+ "emoji": "🦠",
+ "cards": [
+  {
+   "tag": "Why this matters",
+   "h": "The invisible majority",
+   "b": "<p>Microbes outnumber all other life. They cause diseases, but they also make curd, medicines, oxygen and soil fertility. You carry about as many bacterial cells as human ones. This lesson shows who they are.</p>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "Three main groups",
+   "b": "<p><b>Bacteria:</b> single prokaryotic cells with a cell wall. <b>Viruses:</b> genetic material in a protein coat, not cells. <b>Fungi:</b> eukaryotes with chitin walls, such as yeast, moulds and mushrooms. Archaea and protists add to the mix.</p><svg class=\"d\" viewBox=\"0 0 320 136\"><rect x=\"10\" y=\"4\" width=\"145\" height=\"26\" rx=\"6\" fill=\"#2f6f7a\"/><text x=\"82\" y=\"21\" text-anchor=\"middle\" font-size=\"11\" fill=\"#fff\">Bacteria</text><rect x=\"10\" y=\"36\" width=\"145\" height=\"26\" rx=\"5\" fill=\"#dceaec\" stroke=\"#2f6f7a\"/><text x=\"82\" y=\"53\" text-anchor=\"middle\" font-size=\"10\" fill=\"#1d2433\">Prokaryote cell</text><rect x=\"10\" y=\"68\" width=\"145\" height=\"26\" rx=\"5\" fill=\"#dceaec\" stroke=\"#2f6f7a\"/><text x=\"82\" y=\"85\" text-anchor=\"middle\" font-size=\"10\" fill=\"#1d2433\">Divide by binary fission</text><rect x=\"10\" y=\"100\" width=\"145\" height=\"26\" rx=\"5\" fill=\"#dceaec\" stroke=\"#2f6f7a\"/><text x=\"82\" y=\"117\" text-anchor=\"middle\" font-size=\"10\" fill=\"#1d2433\">Antibiotics work</text><rect x=\"165\" y=\"4\" width=\"145\" height=\"26\" rx=\"6\" fill=\"#a8792a\"/><text x=\"237\" y=\"21\" text-anchor=\"middle\" font-size=\"11\" fill=\"#fff\">Virus</text><rect x=\"165\" y=\"36\" width=\"145\" height=\"26\" rx=\"5\" fill=\"#f1e4c6\" stroke=\"#a8792a\"/><text x=\"237\" y=\"53\" text-anchor=\"middle\" font-size=\"10\" fill=\"#1d2433\">Not a cell</text><rect x=\"165\" y=\"68\" width=\"145\" height=\"26\" rx=\"5\" fill=\"#f1e4c6\" stroke=\"#a8792a\"/><text x=\"237\" y=\"85\" text-anchor=\"middle\" font-size=\"10\" fill=\"#1d2433\">Needs host to copy</text><rect x=\"165\" y=\"100\" width=\"145\" height=\"26\" rx=\"5\" fill=\"#f1e4c6\" stroke=\"#a8792a\"/><text x=\"237\" y=\"117\" text-anchor=\"middle\" font-size=\"10\" fill=\"#1d2433\">Antivirals, vaccines</text></svg>"
+  },
+  {
+   "tag": "Step by step",
+   "h": "Bacteria",
+   "b": "<p>Shapes: rods (bacilli), spheres (cocci), spirals. They reproduce by dividing every 20 minutes in good conditions, swap genes through plasmids (conjugation) and may form tough spores. Gram staining (Hans Christian Gram, 1884) separates two wall types. Helpful: Lactobacillus (curd), Rhizobium (fixes nitrogen), gut flora. Harmful: cholera, TB, typhoid.</p>"
+  },
+  {
+   "tag": "Step by step",
+   "h": "Viruses",
+   "b": "<p>A virus lands on a host cell, injects its genes, makes the cell build more viruses, and bursts out or buds off. Bacteriophages attack bacteria. Examples: influenza, HIV, SARS-CoV-2, rabies, dengue. Dmitri Ivanovsky (1892) and Beijerinck (1898) first showed tobacco mosaic disease is caused by something smaller than bacteria.</p><svg class=\"d\" viewBox=\"0 0 320 172\"><defs><marker id=\"v1\" viewBox=\"0 0 10 10\" refX=\"8\" refY=\"5\" markerWidth=\"6\" markerHeight=\"6\" orient=\"auto\"><path d=\"M0 0L10 5L0 10z\" fill=\"#5d6474\"/></marker></defs><rect x=\"20\" y=\"6\" width=\"280\" height=\"28\" rx=\"6\" fill=\"#f1e4c6\" stroke=\"#a8792a\"/><text x=\"160\" y=\"24\" text-anchor=\"middle\" font-size=\"11\" fill=\"#1d2433\">Attach to host cell</text><line x1=\"160\" y1=\"34\" x2=\"160\" y2=\"50\" stroke=\"#5d6474\" stroke-width=\"1.5\" marker-end=\"url(#v1)\"/><rect x=\"20\" y=\"50\" width=\"280\" height=\"28\" rx=\"6\" fill=\"#dceaec\" stroke=\"#2f6f7a\"/><text x=\"160\" y=\"68\" text-anchor=\"middle\" font-size=\"11\" fill=\"#1d2433\">Inject genes</text><line x1=\"160\" y1=\"78\" x2=\"160\" y2=\"94\" stroke=\"#5d6474\" stroke-width=\"1.5\" marker-end=\"url(#v1)\"/><rect x=\"20\" y=\"94\" width=\"280\" height=\"28\" rx=\"6\" fill=\"#f1e4c6\" stroke=\"#a8792a\"/><text x=\"160\" y=\"112\" text-anchor=\"middle\" font-size=\"11\" fill=\"#1d2433\">Host makes viral parts</text><line x1=\"160\" y1=\"122\" x2=\"160\" y2=\"138\" stroke=\"#5d6474\" stroke-width=\"1.5\" marker-end=\"url(#v1)\"/><rect x=\"20\" y=\"138\" width=\"280\" height=\"28\" rx=\"6\" fill=\"#dceaec\" stroke=\"#2f6f7a\"/><text x=\"160\" y=\"156\" text-anchor=\"middle\" font-size=\"11\" fill=\"#1d2433\">Assemble and release new viruses</text></svg>"
+  },
+  {
+   "tag": "Step by step",
+   "h": "Fungi",
+   "b": "<p>Yeast (single cell) makes bread rise and brews alcohol. Moulds make penicillin: Alexander Fleming noticed Penicillium killing bacteria in 1928; Florey and Chain made it a drug in the 1940s (Nobel 1945). Fungi also cause athlete's foot, ringworm and, in weak patients, serious infections. Many form partnerships with roots (mycorrhiza) or algae (lichens).</p>"
+  },
+  {
+   "tag": "Step by step",
+   "h": "Antibiotics and resistance",
+   "b": "<p>Antibiotics kill or stop bacteria, not viruses. If a few bacteria survive, they multiply and pass on resistance. Misuse speeds this. 'Superbugs' resist many drugs.</p>"
+  },
+  {
+   "tag": "How we know",
+   "h": "Germ theory",
+   "b": "<p>Pasteur and Robert Koch proved germs cause disease in the 1860s-80s. Koch found the TB bacillus in 1882 and the cholera bacillus in 1883. Koch's postulates set the test. Joseph Lister (1867) used antiseptics. Electron microscopy first pictured viruses in the 1930s.</p>"
+  },
+  {
+   "tag": "Misconceptions",
+   "h": "Watch out",
+   "b": "<div class=\"box\"><h4>Fix these</h4><ul><li>Most bacteria are harmless or helpful.</li><li>Antibiotics do not treat colds or flu.</li><li>Viruses are not killed by antibiotics because they have no cell machinery to target.</li></ul></div>"
+  },
+  {
+   "tag": "Indian angle",
+   "h": "Microbes and India",
+   "b": "<p>Waldemar Haffkine, working in Mumbai in 1897, developed an early plague vaccine and a cholera vaccine. S.N. De at Kolkata (1959) showed that cholera toxin causes the disease. Indian curd, idli and dosa depend on microbes. Biogas and biofertilisers (Rhizobium, Azotobacter, blue-green algae) support farmers. India's national action plan on antimicrobial resistance began in 2017.</p>"
+  },
+  {
+   "tag": "Recap",
+   "h": "Key takeaways and questions",
+   "b": "<ul><li>Bacteria are cells; viruses are not; fungi have chitin walls.</li><li>Viruses hijack host cells.</li><li>Antibiotics fight bacteria; misuse causes resistance.</li><li>Fleming found penicillin in 1928.</li></ul><p><b>Think about it:</b></p><ol><li>Why is a course of antibiotics usually completed?</li><li>Why is a virus harder to treat than bacteria?</li></ol>",
+   "cls": "exam"
+  }
+ ],
+ "quiz": [
+  {
+   "q": "Penicillin was noticed by:",
+   "o": [
+    "Fleming",
+    "Koch",
+    "Pasteur",
+    "Jenner"
+   ],
+   "a": 0,
+   "w": "1928."
+  },
+  {
+   "q": "Viruses are:",
+   "o": [
+    "Cells",
+    "Not cells",
+    "Fungi",
+    "Plants"
+   ],
+   "a": 1,
+   "w": "Need hosts."
+  },
+  {
+   "q": "Fungal cell walls are made of:",
+   "o": [
+    "Cellulose",
+    "Chitin",
+    "Peptidoglycan",
+    "Silica"
+   ],
+   "a": 1,
+   "w": "Chitin."
+  },
+  {
+   "q": "Koch discovered the TB bacillus in:",
+   "o": [
+    "1822",
+    "1882",
+    "1928",
+    "1975"
+   ],
+   "a": 1,
+   "w": "1882."
+  },
+  {
+   "q": "Rhizobium helps by:",
+   "o": [
+    "Fixing nitrogen",
+    "Making curd",
+    "Fermenting",
+    "Causing rot"
+   ],
+   "a": 0,
+   "w": "Legume roots."
+  },
+  {
+   "q": "Antibiotics work on:",
+   "o": [
+    "Viruses",
+    "Bacteria",
+    "Both",
+    "Prions"
+   ],
+   "a": 1,
+   "w": "Only bacteria."
+  },
+  {
+   "q": "Bacteria multiply by:",
+   "o": [
+    "Mitosis",
+    "Binary fission",
+    "Meiosis",
+    "Spores only"
+   ],
+   "a": 1,
+   "w": "Splitting."
+  },
+  {
+   "q": "Haffkine developed vaccines in:",
+   "o": [
+    "Mumbai",
+    "Delhi",
+    "Chennai",
+    "Kolkata"
+   ],
+   "a": 0,
+   "w": "1897."
+  },
+  {
+   "q": "Who showed that TMV is smaller than bacteria?",
+   "o": [
+    "Ivanovsky",
+    "Fleming",
+    "Gram",
+    "Lister"
+   ],
+   "a": 0,
+   "w": "1892."
+  },
+  {
+   "q": "Bacteriophage attacks:",
+   "o": [
+    "Plants",
+    "Bacteria",
+    "Fungi",
+    "Animals"
+   ],
+   "a": 1,
+   "w": "Bacteria."
+  }
+ ],
+ "sources": [
+  "NCERT Class 11 Biology",
+  "Campbell Biology"
+ ],
+ "verified": "2026-11-11"
+}

@@ -1,0 +1,180 @@
+{
+ "id": "4-0-1",
+ "title": "Plants: Structure and Life",
+ "emoji": "🌳",
+ "cards": [
+  {
+   "tag": "Why this matters",
+   "h": "Quiet engineers",
+   "b": "<p>Plants feed us, clean our air, give timber, medicines and fibres, and hold soil. Knowing how they are built and how water moves in them explains farming, irrigation and why forests matter for climate.</p>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "Plant groups",
+   "b": "<p>From simple to complex: <b>bryophytes</b> (mosses, no true vessels), <b>pteridophytes</b> (ferns, vessels but spores), <b>gymnosperms</b> (naked seeds: pine, cycas) and <b>angiosperms</b> (flowering plants, seeds in fruits). Angiosperms are the biggest group and split into monocots (one seed leaf, parallel veins) and dicots (two seed leaves, net veins).</p>"
+  },
+  {
+   "tag": "Step by step",
+   "h": "Roots, stems, leaves",
+   "b": "<ul><li><b>Roots:</b> anchor, absorb water and minerals through root hairs.</li><li><b>Stem:</b> holds leaves up, carries fluids.</li><li><b>Leaves:</b> make food. Pores called <b>stomata</b>, opened by guard cells, let in CO2 and release water vapour and O2.</li></ul>"
+  },
+  {
+   "tag": "Step by step",
+   "h": "Two transport tubes",
+   "b": "<p><b>Xylem</b> carries water and minerals up from roots (dead tubes). <b>Phloem</b> carries sugar from leaves to where it is used (living tubes).</p><svg class=\"d\" viewBox=\"0 0 320 172\"><defs><marker id=\"pl1\" viewBox=\"0 0 10 10\" refX=\"8\" refY=\"5\" markerWidth=\"6\" markerHeight=\"6\" orient=\"auto\"><path d=\"M0 0L10 5L0 10z\" fill=\"#5d6474\"/></marker></defs><rect x=\"20\" y=\"6\" width=\"280\" height=\"28\" rx=\"6\" fill=\"#dceaec\" stroke=\"#2f6f7a\"/><text x=\"160\" y=\"24\" text-anchor=\"middle\" font-size=\"11\" fill=\"#1d2433\">Water enters root hairs</text><line x1=\"160\" y1=\"34\" x2=\"160\" y2=\"50\" stroke=\"#5d6474\" stroke-width=\"1.5\" marker-end=\"url(#pl1)\"/><rect x=\"20\" y=\"50\" width=\"280\" height=\"28\" rx=\"6\" fill=\"#dceaec\" stroke=\"#2f6f7a\"/><text x=\"160\" y=\"68\" text-anchor=\"middle\" font-size=\"11\" fill=\"#1d2433\">Rises in xylem to leaves</text><line x1=\"160\" y1=\"78\" x2=\"160\" y2=\"94\" stroke=\"#5d6474\" stroke-width=\"1.5\" marker-end=\"url(#pl1)\"/><rect x=\"20\" y=\"94\" width=\"280\" height=\"28\" rx=\"6\" fill=\"#f1e4c6\" stroke=\"#a8792a\"/><text x=\"160\" y=\"112\" text-anchor=\"middle\" font-size=\"11\" fill=\"#1d2433\">Leaves lose water by transpiration</text><line x1=\"160\" y1=\"122\" x2=\"160\" y2=\"138\" stroke=\"#5d6474\" stroke-width=\"1.5\" marker-end=\"url(#pl1)\"/><rect x=\"20\" y=\"138\" width=\"280\" height=\"28\" rx=\"6\" fill=\"#f4dcd5\" stroke=\"#a3362a\"/><text x=\"160\" y=\"156\" text-anchor=\"middle\" font-size=\"11\" fill=\"#1d2433\">Sugar goes down and out in phloem</text></svg>"
+  },
+  {
+   "tag": "Step by step",
+   "h": "How water goes up a tall tree",
+   "b": "<p>No pump pushes it. Water evaporating from leaves (<b>transpiration</b>) pulls a continuous column, held together by cohesion between water molecules, like a drinking straw. This is the cohesion-tension idea (Dixon and Joly, 1894). Root pressure helps a little. Phloem uses pressure-flow (Ernst Munch, 1930).</p>"
+  },
+  {
+   "tag": "Step by step",
+   "h": "Flowers and seeds",
+   "b": "<p>A flower is the reproductive organ. Pollen from the stamen lands on the stigma of the carpel and grows a tube to the ovule. <b>Double fertilisation</b> (found by Nawaschin and Guignard, 1898): one sperm makes the embryo, another forms the food tissue (endosperm). The ovule becomes a seed and the ovary becomes a fruit. Pollinators are bees, birds, bats and wind.</p>"
+  },
+  {
+   "tag": "Step by step",
+   "h": "Plant hormones and responses",
+   "b": "<p>Auxin makes shoots bend to light (Darwin's 1880 coleoptile experiments; Went isolated auxin, 1928). Gibberellins make stems grow; cytokinins promote division; ethylene ripens fruit; abscisic acid closes stomata in drought. Day length controls flowering (photoperiodism).</p>"
+  },
+  {
+   "tag": "How we know",
+   "h": "Key experiments",
+   "b": "<p>Stephen Hales (1727) measured transpiration. Van Helmont's willow (1640s) hinted that plants gain mass from water. Barbara McClintock found jumping genes in maize (1940s, Nobel 1983).</p>"
+  },
+  {
+   "tag": "Misconceptions",
+   "h": "Watch out",
+   "b": "<div class=\"box\"><h4>Fix these</h4><ul><li>Roots do not 'suck' water; it is pulled up from above.</li><li>Not all plants have flowers.</li><li>Plants do not take food from soil, only water and minerals.</li></ul></div>"
+  },
+  {
+   "tag": "Indian angle",
+   "h": "Plants and India",
+   "b": "<p>Birbal Sahni studied the fossil plant Pentoxylon and gymnosperms of Gondwana. J.C. Bose recorded plant movement. Ethnobotany, such as turmeric, neem, tulsi and the Ayurvedic plant stock, is part of daily life. Edavaluthu Kakkat Janaki Ammal (1897-1984), a plant cytogeneticist, worked on sugarcane and magnolias, and later led the Botanical Survey of India. India's Botanical Survey of India (1890) records about 55,000 plant species.</p>"
+  },
+  {
+   "tag": "Recap",
+   "h": "Key takeaways and questions",
+   "b": "<ul><li>Plant groups: bryophytes, pteridophytes, gymnosperms, angiosperms.</li><li>Xylem up (water), phloem down (sugar).</li><li>Transpiration pull draws water up.</li><li>Double fertilisation in angiosperms.</li></ul><p><b>Think about it:</b></p><ol><li>Why do plants wilt on hot afternoons?</li><li>Why do farmers care about day length?</li></ol>",
+   "cls": "exam"
+  }
+ ],
+ "quiz": [
+  {
+   "q": "Xylem carries:",
+   "o": [
+    "Sugar",
+    "Water and minerals",
+    "Hormones only",
+    "Air"
+   ],
+   "a": 1,
+   "w": "Water up."
+  },
+  {
+   "q": "Phloem carries:",
+   "o": [
+    "Water",
+    "Sugar",
+    "Minerals only",
+    "Gas"
+   ],
+   "a": 1,
+   "w": "Food."
+  },
+  {
+   "q": "Stomata are controlled by:",
+   "o": [
+    "Guard cells",
+    "Root hairs",
+    "Xylem",
+    "Phloem"
+   ],
+   "a": 0,
+   "w": "Guard cells."
+  },
+  {
+   "q": "Double fertilisation is in:",
+   "o": [
+    "Mosses",
+    "Angiosperms",
+    "Ferns",
+    "Algae"
+   ],
+   "a": 1,
+   "w": "Flowering plants."
+  },
+  {
+   "q": "Ethylene causes:",
+   "o": [
+    "Fruit ripening",
+    "Root growth",
+    "Cell division",
+    "Seed storage"
+   ],
+   "a": 0,
+   "w": "Ripening."
+  },
+  {
+   "q": "Water rises mainly because of:",
+   "o": [
+    "Root pump",
+    "Transpiration pull",
+    "Heart",
+    "Gravity"
+   ],
+   "a": 1,
+   "w": "Pull from leaves."
+  },
+  {
+   "q": "Monocots have:",
+   "o": [
+    "Net veins",
+    "Parallel veins",
+    "No veins",
+    "Woody stems"
+   ],
+   "a": 1,
+   "w": "Parallel."
+  },
+  {
+   "q": "Auxin makes shoots bend toward:",
+   "o": [
+    "Dark",
+    "Light",
+    "Water",
+    "Soil"
+   ],
+   "a": 1,
+   "w": "Phototropism."
+  },
+  {
+   "q": "Janaki Ammal worked on:",
+   "o": [
+    "Sugarcane",
+    "Tea",
+    "Jute",
+    "Cotton"
+   ],
+   "a": 0,
+   "w": "Cytogenetics."
+  },
+  {
+   "q": "Gymnosperms have:",
+   "o": [
+    "Seeds in fruits",
+    "Naked seeds",
+    "No seeds",
+    "Flowers"
+   ],
+   "a": 1,
+   "w": "Pine, cycas."
+  }
+ ],
+ "sources": [
+  "NCERT Class 11 Biology",
+  "Campbell Biology"
+ ],
+ "verified": "2026-11-11"
+}

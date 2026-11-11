@@ -1,0 +1,175 @@
+{
+ "id": "4-0-4",
+ "title": "Disease, Pandemics and Public Health",
+ "emoji": "🏥",
+ "cards": [
+  {
+   "tag": "Why this matters",
+   "h": "From plague to COVID",
+   "b": "<p>Infectious disease has shaped history: the Black Death, smallpox, the 1918 flu and COVID-19. Public health, meaning clean water, vaccines and surveillance, has saved more lives than most drugs. This lesson ties microbes, immunity and society together.</p>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "Types of disease",
+   "b": "<p><b>Infectious:</b> caused by germs and can spread (cholera, TB, malaria). <b>Non-communicable:</b> not spread, such as diabetes, heart disease and cancer. <b>Deficiency</b> and <b>genetic</b> diseases form other groups. Disease spreads through air, water, food, vectors (mosquitoes), blood or contact.</p>"
+  },
+  {
+   "tag": "Step by step",
+   "h": "Epidemic, endemic, pandemic",
+   "b": "<ul><li><b>Endemic:</b> steady in a region (malaria in some districts).</li><li><b>Epidemic:</b> sudden rise in a place.</li><li><b>Pandemic:</b> spread across the world (1918 flu, COVID-19, declared March 2020).</li></ul><svg class=\"d\" viewBox=\"0 0 320 172\"><defs><marker id=\"pd1\" viewBox=\"0 0 10 10\" refX=\"8\" refY=\"5\" markerWidth=\"6\" markerHeight=\"6\" orient=\"auto\"><path d=\"M0 0L10 5L0 10z\" fill=\"#5d6474\"/></marker></defs><rect x=\"20\" y=\"6\" width=\"280\" height=\"28\" rx=\"6\" fill=\"#f4dcd5\" stroke=\"#a3362a\"/><text x=\"160\" y=\"24\" text-anchor=\"middle\" font-size=\"11\" fill=\"#1d2433\">Pathogen in reservoir (animal or human)</text><line x1=\"160\" y1=\"34\" x2=\"160\" y2=\"50\" stroke=\"#5d6474\" stroke-width=\"1.5\" marker-end=\"url(#pd1)\"/><rect x=\"20\" y=\"50\" width=\"280\" height=\"28\" rx=\"6\" fill=\"#f1e4c6\" stroke=\"#a8792a\"/><text x=\"160\" y=\"68\" text-anchor=\"middle\" font-size=\"11\" fill=\"#1d2433\">Spreads by air, water or vector</text><line x1=\"160\" y1=\"78\" x2=\"160\" y2=\"94\" stroke=\"#5d6474\" stroke-width=\"1.5\" marker-end=\"url(#pd1)\"/><rect x=\"20\" y=\"94\" width=\"280\" height=\"28\" rx=\"6\" fill=\"#dceaec\" stroke=\"#2f6f7a\"/><text x=\"160\" y=\"112\" text-anchor=\"middle\" font-size=\"11\" fill=\"#1d2433\">Infects susceptible people</text><line x1=\"160\" y1=\"122\" x2=\"160\" y2=\"138\" stroke=\"#5d6474\" stroke-width=\"1.5\" marker-end=\"url(#pd1)\"/><rect x=\"20\" y=\"138\" width=\"280\" height=\"28\" rx=\"6\" fill=\"#dceaec\" stroke=\"#2f6f7a\"/><text x=\"160\" y=\"156\" text-anchor=\"middle\" font-size=\"11\" fill=\"#1d2433\">Control: vaccines, hygiene, tracing</text></svg>"
+  },
+  {
+   "tag": "Step by step",
+   "h": "The R number and control",
+   "b": "<p>R0 is how many people one case infects on average. Above 1, the outbreak grows; below 1, it fades. Control tools: vaccination, isolation, masks, clean water, vector control, contact tracing. John Snow (1854) traced cholera in London to the Broad Street pump, the start of epidemiology.</p>"
+  },
+  {
+   "tag": "Step by step",
+   "h": "Major infections",
+   "b": "<ul><li><b>Malaria:</b> Plasmodium, spread by female Anopheles. Ronald Ross showed this in 1897 in India (Secunderabad).</li><li><b>TB:</b> Mycobacterium tuberculosis, airborne.</li><li><b>HIV/AIDS:</b> virus attacks helper T cells.</li><li><b>Dengue, chikungunya:</b> Aedes mosquitoes.</li><li><b>Cholera, typhoid:</b> contaminated water.</li></ul>"
+  },
+  {
+   "tag": "Step by step",
+   "h": "Zoonoses and new outbreaks",
+   "b": "<p>Many new diseases jump from animals: Ebola, SARS, MERS, COVID-19, Nipah, avian flu. Habitat loss and wildlife trade raise the chance. The 'One Health' idea links human, animal and environmental health.</p>"
+  },
+  {
+   "tag": "How we know",
+   "h": "Eradication stories",
+   "b": "<p>Smallpox was declared eradicated in 1980, the first human disease wiped out. Polio is nearly gone. Rinderpest in cattle was eradicated in 2011. Wuchereria and Guinea worm are close to elimination. mRNA vaccines against COVID-19 were developed within a year (Karikó and Weissman, Nobel 2023).</p>"
+  },
+  {
+   "tag": "Misconceptions",
+   "h": "Watch out",
+   "b": "<div class=\"box\"><h4>Fix these</h4><ul><li>Pandemic means wide spread, not severity.</li><li>Not all disease is caused by germs.</li><li>Vaccines and hygiene, not just drugs, are the main tools.</li></ul></div>"
+  },
+  {
+   "tag": "Indian angle",
+   "h": "India's health programmes",
+   "b": "<p>The National Vector Borne Disease Control Programme tackles malaria and dengue. The TB programme (now NTEP) offers free DOTS treatment. India eliminated Guinea worm (2000) and trachoma as a public health problem (2024), and was declared maternal and neonatal tetanus free in 2015. Ayushman Bharat (2018) provides health insurance, and the Integrated Disease Surveillance Programme (2004) tracks outbreaks. ICMR's National Institute of Virology in Pune isolated the first SARS-CoV-2 strain in India in 2020. Malaria deaths fell sharply since 2000.</p>"
+  },
+  {
+   "tag": "Recap",
+   "h": "Key takeaways and questions",
+   "b": "<ul><li>Infectious versus non-communicable diseases.</li><li>Endemic, epidemic, pandemic.</li><li>R below 1 ends an outbreak.</li><li>Zoonoses are a rising threat; One Health is the answer.</li></ul><p><b>Think about it:</b></p><ol><li>Why did smallpox eradication succeed but measles has not yet?</li><li>How would you decide when to close schools in an outbreak?</li></ol>",
+   "cls": "exam"
+  }
+ ],
+ "quiz": [
+  {
+   "q": "Malaria vector is:",
+   "o": [
+    "Aedes",
+    "Anopheles",
+    "Culex",
+    "Housefly"
+   ],
+   "a": 1,
+   "w": "Female Anopheles."
+  },
+  {
+   "q": "Who traced cholera to a pump in 1854?",
+   "o": [
+    "John Snow",
+    "Ross",
+    "Koch",
+    "Jenner"
+   ],
+   "a": 0,
+   "w": "Founder of epidemiology."
+  },
+  {
+   "q": "Pandemic means:",
+   "o": [
+    "Local outbreak",
+    "Spread across the world",
+    "Mild",
+    "Deadly only"
+   ],
+   "a": 1,
+   "w": "Global spread."
+  },
+  {
+   "q": "R0 below 1 means:",
+   "o": [
+    "Outbreak grows",
+    "Outbreak fades",
+    "No cases",
+    "Mutates"
+   ],
+   "a": 1,
+   "w": "Declining."
+  },
+  {
+   "q": "Smallpox was eradicated in:",
+   "o": [
+    "1980",
+    "2000",
+    "1950",
+    "2011"
+   ],
+   "a": 0,
+   "w": "WHO 1980."
+  },
+  {
+   "q": "Zoonosis means disease from:",
+   "o": [
+    "Water",
+    "Animals to humans",
+    "Soil",
+    "Air only"
+   ],
+   "a": 1,
+   "w": "Animal origin."
+  },
+  {
+   "q": "Ronald Ross showed mosquitoes carry malaria in:",
+   "o": [
+    "1897",
+    "1957",
+    "1757",
+    "1997"
+   ],
+   "a": 0,
+   "w": "1897."
+  },
+  {
+   "q": "Which is non-communicable?",
+   "o": [
+    "TB",
+    "Diabetes",
+    "Cholera",
+    "Malaria"
+   ],
+   "a": 1,
+   "w": "Not spread."
+  },
+  {
+   "q": "The One Health approach links:",
+   "o": [
+    "Humans, animals, environment",
+    "Only humans",
+    "Plants",
+    "Drugs"
+   ],
+   "a": 0,
+   "w": "Integrated."
+  },
+  {
+   "q": "mRNA vaccine pioneers won Nobel in:",
+   "o": [
+    "2003",
+    "2023",
+    "1993",
+    "2013"
+   ],
+   "a": 1,
+   "w": "Karikó and Weissman."
+  }
+ ],
+ "sources": [
+  "NCERT Class 12 Biology",
+  "WHO"
+ ],
+ "verified": "2026-11-11"
+}
