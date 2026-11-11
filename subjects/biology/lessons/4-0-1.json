@@ -6,7 +6,7 @@
   {
    "tag": "Why this matters",
    "h": "Quiet engineers",
-   "b": "<p>Plants feed us, clean our air, give timber, medicines and fibres, and hold soil. Knowing how they are built and how water moves in them explains farming, irrigation and why forests matter for climate.</p>"
+   "b": "<p>Plants feed us, clean our air, give timber, medicines and fibres, and hold soil. Knowing how they are built and how water moves in them explains farming, irrigation and why forests matter for climate.</p><p>Plants have three main organs, roots, stems and leaves, and each is built from tissues for a particular job. Nearly all land plants rely on a vascular system, like a pipe network, for lifting water many metres. The tallest tree, a coast redwood, is about 115 metres, and water gets to its top without a pump. Plants also give us wood, cotton, rubber, and many medicines such as aspirin, whose origin is in willow bark, and quinine, from cinchona.</p>"
   },
   {
    "tag": "Core idea",
@@ -16,7 +16,7 @@
   {
    "tag": "Step by step",
    "h": "Roots, stems, leaves",
-   "b": "<ul><li><b>Roots:</b> anchor, absorb water and minerals through root hairs.</li><li><b>Stem:</b> holds leaves up, carries fluids.</li><li><b>Leaves:</b> make food. Pores called <b>stomata</b>, opened by guard cells, let in CO2 and release water vapour and O2.</li></ul>"
+   "b": "<ul><li><b>Roots:</b> anchor, absorb water and minerals through root hairs.</li><li><b>Stem:</b> holds leaves up, carries fluids.</li><li><b>Leaves:</b> make food. Pores called <b>stomata</b>, opened by guard cells, let in CO2 and release water vapour and O2.</li></ul><p>Think of the plant as a factory with a supply pipe, a store and workshops. Root hairs are thin outgrowths that multiply the surface for absorption, and most land plants also work with fungi in <b>mycorrhizae</b> that help gather minerals. Leaves are broad and thin to catch light, with a waxy cuticle that limits water loss. A single large tree can lose hundreds of litres of water a day through its stomata, which is why they open and close in response to light and water.</p>"
   },
   {
    "tag": "Step by step",
@@ -36,17 +36,17 @@
   {
    "tag": "Step by step",
    "h": "Plant hormones and responses",
-   "b": "<p>Auxin makes shoots bend to light (Darwin's 1880 coleoptile experiments; Went isolated auxin, 1928). Gibberellins make stems grow; cytokinins promote division; ethylene ripens fruit; abscisic acid closes stomata in drought. Day length controls flowering (photoperiodism).</p>"
+   "b": "<p>Auxin makes shoots bend to light (Darwin's 1880 coleoptile experiments; Went isolated auxin, 1928). Gibberellins make stems grow; cytokinins promote division; ethylene ripens fruit; abscisic acid closes stomata in drought. Day length controls flowering (photoperiodism).</p><p>Darwin and his son Francis found in 1880 that a canary-grass shoot tip senses light and sends a signal that bends the stem below. Went proved the signal was a chemical, auxin. Auxin collects on the shaded side and makes cells there longer, so the shoot leans toward the light. Auxin-like chemicals are used as rooting powder and weed killers. Gibberellins were first found by Japanese scientists studying 'foolish seedling' disease in rice, which grew too tall.</p>"
   },
   {
    "tag": "How we know",
    "h": "Key experiments",
-   "b": "<p>Stephen Hales (1727) measured transpiration. Van Helmont's willow (1640s) hinted that plants gain mass from water. Barbara McClintock found jumping genes in maize (1940s, Nobel 1983).</p>"
+   "b": "<p>Stephen Hales (1727) measured transpiration. Van Helmont's willow (1640s) hinted that plants gain mass from water. Barbara McClintock found jumping genes in maize (1940s, Nobel 1983).</p><p>Hales measured how much water a sunflower lost through its leaves and showed that water moves up the plant. Van Helmont grew a willow tree for five years in a pot of weighed soil, and found that the soil lost only about 57 grams while the tree gained about 74 kg, so the tree did not get its mass from soil. McClintock's jumping genes, or transposons, were at first ignored but later found in nearly all life. Jagadish Chandra Bose, working in Kolkata around 1900, measured plant growth and responses with sensitive instruments.</p>"
   },
   {
    "tag": "Misconceptions",
    "h": "Watch out",
-   "b": "<div class=\"box\"><h4>Fix these</h4><ul><li>Roots do not 'suck' water; it is pulled up from above.</li><li>Not all plants have flowers.</li><li>Plants do not take food from soil, only water and minerals.</li></ul></div>"
+   "b": "<div class=\"box\"><h4>Fix these</h4><ul><li>Roots do not 'suck' water; it is pulled up from above.</li><li>Not all plants have flowers.</li><li>Plants do not take food from soil, only water and minerals.</li></ul></div><p>Water rises in the xylem because water molecules stick to each other (cohesion) and to the walls of the narrow tubes, and evaporation from the leaves pulls the column up, a process known as the cohesion-tension theory, like drinking through a very long straw. Plants make their own food; from the soil they get water and minerals such as nitrate, phosphate and potassium, which are like vitamins and not food.</p>"
   },
   {
    "tag": "Indian angle",
@@ -56,7 +56,7 @@
   {
    "tag": "Recap",
    "h": "Key takeaways and questions",
-   "b": "<ul><li>Plant groups: bryophytes, pteridophytes, gymnosperms, angiosperms.</li><li>Xylem up (water), phloem down (sugar).</li><li>Transpiration pull draws water up.</li><li>Double fertilisation in angiosperms.</li></ul><p><b>Think about it:</b></p><ol><li>Why do plants wilt on hot afternoons?</li><li>Why do farmers care about day length?</li></ol>",
+   "b": "<ul><li>Plant groups: bryophytes, pteridophytes, gymnosperms, angiosperms.</li><li>Xylem up (water), phloem down (sugar).</li><li>Transpiration pull draws water up.</li><li>Double fertilisation in angiosperms.</li></ul><p><b>Think about it:</b></p><ol><li>Why do plants wilt on hot afternoons?</li><li>Why do farmers care about day length?</li></ol><p><b>Key terms:</b> <b>transpiration</b> is the loss of water vapour from leaves, and it cools the plant and pulls water up. Phloem moves sugars from leaves to growing parts or stores by pressure flow. In a flower, pollen lands on the stigma and grows a tube to the ovule; one sperm fuses with the egg and another with two nuclei to form the food store (<b>endosperm</b>), a process found by Nawaschin in 1898, called double fertilisation.</p>",
    "cls": "exam"
   }
  ],

@@ -1,0 +1,176 @@
+{
+ "id": "1-0-2",
+ "title": "Schrödinger's Equation (No Heavy Maths)",
+ "emoji": "🎸",
+ "cards": [
+  {
+   "tag": "Why this matters",
+   "h": "The rulebook of the small",
+   "b": "<p>Newton's laws tell a cricket ball where to go. Erwin Schrödinger's equation (Zurich, early 1926) does the same job for the wavefunction of an electron or atom: it tells you how ψ changes in time. From it we can compute the colours of atoms, the shapes of molecules and the behaviour of every chip in your phone.</p><p>Schrödinger shared the 1933 Nobel Prize with Paul Dirac.</p>"
+  },
+  {
+   "tag": "The equation in words",
+   "h": "What it says",
+   "b": "<div class=\"box\"><h4>Schrödinger's equation</h4>The rate at which ψ changes in time depends on the energy of the system (its \"Hamiltonian\"): iħ ∂ψ/∂t = Hψ. In words: energy decides how the wave evolves.</div><p>Like Newton's laws, it is <b>deterministic</b>: given ψ now, it fixes ψ later exactly. The randomness comes only at measurement, when Born's rule gives the odds. Two different rules: smooth evolution between, random jump at a click.</p>"
+  },
+  {
+   "tag": "Standing waves",
+   "h": "Why energy comes in steps",
+   "b": "<svg class=\"d\" viewBox=\"0 0 320 190\"><defs><marker id=\"m102\" viewBox=\"0 0 10 10\" refX=\"9\" refY=\"5\" markerWidth=\"6\" markerHeight=\"6\" orient=\"auto\"><path d=\"M0,0L10,5L0,10z\" fill=\"#5d6474\"/></marker></defs><line x1=\"40\" y1=\"10\" x2=\"40\" y2=\"80\" stroke=\"#1d2433\" stroke-width=\"3\"/><line x1=\"140\" y1=\"10\" x2=\"140\" y2=\"80\" stroke=\"#1d2433\" stroke-width=\"3\"/><polyline points=\"40.0,40.0 42.0,41.9 44.0,43.8 46.0,45.6 48.0,47.5 50.0,49.3 52.0,51.0 54.0,52.8 56.0,54.5 58.0,56.1 60.0,57.6 62.0,59.1 64.0,60.5 66.0,61.9 68.0,63.1 70.0,64.3 72.0,65.3 74.0,66.3 76.0,67.1 78.0,67.9 80.0,68.5 82.0,69.1 84.0,69.5 86.0,69.8 88.0,69.9 90.0,70.0 92.0,69.9 94.0,69.8 96.0,69.5 98.0,69.1 100.0,68.5 102.0,67.9 104.0,67.1 106.0,66.3 108.0,65.3 110.0,64.3 112.0,63.1 114.0,61.9 116.0,60.5 118.0,59.1 120.0,57.6 122.0,56.1 124.0,54.5 126.0,52.8 128.0,51.0 130.0,49.3 132.0,47.5 134.0,45.6 136.0,43.8 138.0,41.9 140.0,40.0\" fill=\"none\" stroke=\"#2f6f7a\" stroke-width=\"2\"/><text x=\"90\" y=\"100\" font-size=\"10\" fill=\"#2f6f7a\" text-anchor=\"middle\">level 1</text><line x1=\"180\" y1=\"10\" x2=\"180\" y2=\"80\" stroke=\"#1d2433\" stroke-width=\"3\"/><line x1=\"280\" y1=\"10\" x2=\"280\" y2=\"80\" stroke=\"#1d2433\" stroke-width=\"3\"/><polyline points=\"180.0,40.0 182.0,43.8 184.0,47.5 186.0,51.0 188.0,54.5 190.0,57.6 192.0,60.5 194.0,63.1 196.0,65.3 198.0,67.1 200.0,68.5 202.0,69.5 204.0,69.9 206.0,69.9 208.0,69.5 210.0,68.5 212.0,67.1 214.0,65.3 216.0,63.1 218.0,60.5 220.0,57.6 222.0,54.5 224.0,51.0 226.0,47.5 228.0,43.8 230.0,40.0 232.0,36.2 234.0,32.5 236.0,29.0 238.0,25.5 240.0,22.4 242.0,19.5 244.0,16.9 246.0,14.7 248.0,12.9 250.0,11.5 252.0,10.5 254.0,10.1 256.0,10.1 258.0,10.5 260.0,11.5 262.0,12.9 264.0,14.7 266.0,16.9 268.0,19.5 270.0,22.4 272.0,25.5 274.0,29.0 276.0,32.5 278.0,36.2 280.0,40.0\" fill=\"none\" stroke=\"#a8792a\" stroke-width=\"2\"/><text x=\"230\" y=\"100\" font-size=\"10\" fill=\"#a8792a\" text-anchor=\"middle\">level 2</text><text x=\"160\" y=\"135\" font-size=\"10\" fill=\"#5d6474\" text-anchor=\"middle\">Squeeze a wave into a box and only</text><text x=\"160\" y=\"150\" font-size=\"10\" fill=\"#5d6474\" text-anchor=\"middle\">whole numbers of half-waves fit.</text><text x=\"160\" y=\"175\" font-size=\"10\" fill=\"#a3362a\" text-anchor=\"middle\">Narrower box means higher energy levels</text></svg><p>Confine a particle (like an electron in an atom) and the equation allows only waves that fit, like a guitar string with fixed ends. Each allowed wave has a definite energy: those are the energy levels. This is the maths behind de Broglie's idea.</p>"
+  },
+  {
+   "tag": "Zero point",
+   "h": "It never stops moving",
+   "b": "<p>The lowest wave in a box still has some bend in it, so it has energy. A confined particle can never be perfectly at rest. The tighter the box, the higher this minimum energy. That is why atoms do not collapse: squeezing an electron closer to the nucleus raises its energy more than the electric attraction pays back.</p><p>This \"zero-point energy\" is why liquid helium stays liquid even near absolute zero at normal pressure.</p>"
+  },
+  {
+   "tag": "Hydrogen",
+   "h": "The first big win",
+   "b": "<p>Schrödinger solved the hydrogen atom in 1926. His levels matched Bohr's (-13.6 eV divided by n²) but also gave the shapes of the electron clouds (orbitals) and explained why some spectral lines are brighter. Hydrogen has an exact solution; for heavier atoms and molecules, computers give approximate answers. Quantum chemistry and drug design now rely on such computations.</p>"
+  },
+  {
+   "tag": "Rival form",
+   "h": "Heisenberg got there first, differently",
+   "b": "<p>Werner Heisenberg, Max Born and Pascual Jordan had built a different looking theory in 1925, \"matrix mechanics\", using tables of numbers and no pictures. Schrödinger's waves looked friendlier. In 1926 Schrödinger showed they are mathematically equivalent. Dirac and John von Neumann later put both into one framework.</p><p><b>Honest note:</b> the equation is tested to extraordinary precision, but what ψ represents is the interpretation question.</p>"
+  },
+  {
+   "tag": "How we know",
+   "h": "Tests of the equation",
+   "b": "<ul><li>Hydrogen spectrum to many decimal places.</li><li>Molecular spectra, chemistry and bonding.</li><li>Semiconductors: band structure comes straight from the equation and tells us which materials are chips or insulators.</li><li>Atomic clocks, which depend on the exact energy levels.</li></ul><p>No experiment has contradicted it in its domain (slow, non-relativistic particles). Dirac extended it for speed close to light in 1928.</p>"
+  },
+  {
+   "tag": "Misconceptions",
+   "h": "Myths to drop",
+   "b": "<ul><li><b>\"Schrödinger's equation says everything is random.\"</b> It is perfectly predictable; the dice appear when measuring.</li><li><b>\"You need heavy maths to grasp it.\"</b> The idea (waves, fit, energy) is simple; solving it is hard.</li><li><b>\"It was derived.\"</b> It cannot be strictly derived from older physics; it was a guess that worked.</li></ul>"
+  },
+  {
+   "tag": "Indian angle",
+   "h": "Raman spectra and Indian quantum chemistry",
+   "b": "<p>The levels of molecular vibration and rotation come from Schrödinger's equation, and the Raman effect (1928) reads them directly. Raman spectroscopy is used today in Indian labs from IISc and IACS Kolkata (Raman's own institute) to forensic and pharma testing. Quantum chemistry methods, built on this equation, drive materials research under India's National Quantum Mission.</p>"
+  },
+  {
+   "tag": "Recap",
+   "h": "Key takeaways and think-about-it",
+   "b": "<ul><li>Schrödinger's equation tells how ψ evolves in time, smoothly and exactly.</li><li>Confinement gives standing waves, so energy levels and zero-point energy.</li><li>Randomness enters only with measurement.</li></ul><div class=\"box\"><h4>Think about it</h4><ol><li>Why does squeezing an electron into a smaller space raise its energy?</li><li>How can a deterministic equation sit with random measurement results?</li></ol></div>",
+   "cls": "exam"
+  }
+ ],
+ "quiz": [
+  {
+   "q": "Schrödinger's equation tells us how:",
+   "o": [
+    "The nucleus decays",
+    "The wavefunction changes with time",
+    "Light bends",
+    "Gravity acts"
+   ],
+   "a": 1,
+   "w": "Energy controls the evolution."
+  },
+  {
+   "q": "Is the equation itself random?",
+   "o": [
+    "Yes, fully random",
+    "Only for light",
+    "Only for electrons",
+    "No, it is deterministic"
+   ],
+   "a": 3,
+   "w": "Randomness comes with measurement."
+  },
+  {
+   "q": "Why does confinement create energy levels?",
+   "o": [
+    "Electrons stop moving",
+    "Light is trapped",
+    "Gravity pulls them",
+    "Only waves that fit the space are allowed"
+   ],
+   "a": 3,
+   "w": "Like a string fixed at both ends."
+  },
+  {
+   "q": "Zero-point energy means:",
+   "o": [
+    "Space is empty",
+    "Particles have no mass",
+    "Energy is always zero",
+    "A confined particle can never be at rest"
+   ],
+   "a": 3,
+   "w": "Even the lowest wave has energy."
+  },
+  {
+   "q": "Why do atoms not collapse?",
+   "o": [
+    "Squeezing the electron raises its energy more than attraction gains",
+    "Electrons repel the nucleus",
+    "Gravity balances",
+    "Nuclei are rigid"
+   ],
+   "a": 0,
+   "w": "This ties to the uncertainty principle too."
+  },
+  {
+   "q": "Who developed matrix mechanics in 1925?",
+   "o": [
+    "Planck",
+    "Heisenberg, Born and Jordan",
+    "Schrödinger",
+    "Bohr alone"
+   ],
+   "a": 1,
+   "w": "Schrödinger later showed equivalence with waves."
+  },
+  {
+   "q": "Schrödinger shared the 1933 Nobel with:",
+   "o": [
+    "Albert Einstein",
+    "Niels Bohr",
+    "Paul Dirac",
+    "Max Born"
+   ],
+   "a": 2,
+   "w": "Dirac extended the theory to relativistic speeds."
+  },
+  {
+   "q": "Energy levels of hydrogen follow:",
+   "o": [
+    "Random values",
+    "n times 13.6 eV",
+    "-13.6 eV divided by n squared",
+    "A constant"
+   ],
+   "a": 2,
+   "w": "Matching Bohr's results."
+  },
+  {
+   "q": "Which technology rests on the equation's solutions?",
+   "o": [
+    "Candles only",
+    "Steam engines",
+    "Semiconductor chips",
+    "Water wheels"
+   ],
+   "a": 2,
+   "w": "Band structure comes from it."
+  },
+  {
+   "q": "The Raman effect reads:",
+   "o": [
+    "Nuclear spin only",
+    "Gravity waves",
+    "Molecular vibration and rotation levels",
+    "The age of stars"
+   ],
+   "a": 2,
+   "w": "It shows energy levels from the equation."
+  }
+ ],
+ "sources": [
+  "Schrödinger 1926",
+  "Heisenberg 1925",
+  "Dirac 1928"
+ ],
+ "verified": "2026-11-11"
+}

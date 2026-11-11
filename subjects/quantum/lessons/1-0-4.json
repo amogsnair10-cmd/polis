@@ -1,0 +1,178 @@
+{
+ "id": "1-0-4",
+ "title": "Superposition and Measurement",
+ "emoji": "🔀",
+ "cards": [
+  {
+   "tag": "Why this matters",
+   "h": "Both, until you look",
+   "b": "<p>A quantum object can be in a <b>superposition</b>: a blend of two or more possibilities at once. Not \"one of them, we do not know which\", but a real combination that gives different results from either alone. Then a measurement gives one answer, and we are left with a puzzle that has no agreed solution.</p>"
+  },
+  {
+   "tag": "Superposition",
+   "h": "What it is",
+   "b": "<p>If a system can be in state A or state B, it can also be in a combination of both, with an amplitude for each (see the wavefunction lesson). A photon at a half-mirror is in \"both paths\" until recorded. An electron around an atom can be in two energy levels at once.</p><p><b>What is not true:</b> it is not \"spinning fast between A and B\", and not \"we just do not know which\".</p>"
+  },
+  {
+   "tag": "Proof",
+   "h": "Why it is more than ignorance",
+   "b": "<p>Send a photon through a half-mirror, let both paths recombine at a second mirror, and it always exits the same port, thanks to interference. That cannot happen if the photon took one hidden path (50-50 would result). The paths must interfere, so both are in play. This is the Mach-Zehnder interferometer, a tabletop double slit.</p><svg class=\"d\" viewBox=\"0 0 320 160\"><defs><marker id=\"m104\" viewBox=\"0 0 10 10\" refX=\"9\" refY=\"5\" markerWidth=\"6\" markerHeight=\"6\" orient=\"auto\"><path d=\"M0,0L10,5L0,10z\" fill=\"#5d6474\"/></marker></defs><rect x=\"5\" y=\"55\" width=\"60\" height=\"50\" rx=\"6\" fill=\"#f1e4c6\" stroke=\"#a8792a\"/><text x=\"35.0\" y=\"83.7\" font-size=\"11\" fill=\"#1d2433\" text-anchor=\"middle\">photon in</text><line x1=\"67\" y1=\"80\" x2=\"98\" y2=\"80\" stroke=\"#5d6474\" stroke-width=\"1.5\" marker-end=\"url(#m104)\"/><rect x=\"100\" y=\"55\" width=\"50\" height=\"50\" rx=\"6\" fill=\"#ffffff\" stroke=\"#5d6474\"/><text x=\"125.0\" y=\"76.7\" font-size=\"11\" fill=\"#1d2433\" text-anchor=\"middle\">half-</text><text x=\"125.0\" y=\"90.7\" font-size=\"11\" fill=\"#1d2433\" text-anchor=\"middle\">mirror</text><line x1=\"152\" y1=\"70\" x2=\"195\" y2=\"30\" stroke=\"#5d6474\" stroke-width=\"1.5\" marker-end=\"url(#m104)\"/><line x1=\"152\" y1=\"90\" x2=\"195\" y2=\"130\" stroke=\"#5d6474\" stroke-width=\"1.5\" marker-end=\"url(#m104)\"/><rect x=\"198\" y=\"10\" width=\"55\" height=\"40\" rx=\"6\" fill=\"#dceaec\" stroke=\"#2f6f7a\"/><text x=\"225.5\" y=\"33.7\" font-size=\"11\" fill=\"#1d2433\" text-anchor=\"middle\">path A</text><rect x=\"198\" y=\"110\" width=\"55\" height=\"40\" rx=\"6\" fill=\"#f4dcd5\" stroke=\"#a3362a\"/><text x=\"225.5\" y=\"133.7\" font-size=\"11\" fill=\"#1d2433\" text-anchor=\"middle\">path B</text><text x=\"285\" y=\"75\" font-size=\"10\" fill=\"#1d2433\" text-anchor=\"middle\">recombine:</text><text x=\"285\" y=\"88\" font-size=\"10\" fill=\"#1d2433\" text-anchor=\"middle\">stripes</text><text x=\"285\" y=\"101\" font-size=\"10\" fill=\"#a3362a\" text-anchor=\"middle\">if no peeking</text></svg>"
+  },
+  {
+   "tag": "Measurement",
+   "h": "The click",
+   "b": "<p>When we measure, we always see one definite result, with odds from Born's rule. The superposition seems to turn into a single outcome, called \"collapse\". Between measurements Schrödinger's smooth equation applies; at measurements, something else happens. Why the two rules differ is the <b>measurement problem</b>.</p><div class=\"box\"><h4>Known vs not</h4><b>Known:</b> the odds, to great accuracy. <b>Not agreed:</b> whether collapse is real, or an appearance (many-worlds), or tied to knowledge.</div>"
+  },
+  {
+   "tag": "Thought experiment",
+   "h": "The bomb tester",
+   "b": "<p>Elitzur and Vaidman (1993) proposed testing whether a bomb works without setting it off. A live bomb at one path of the interferometer destroys the stripes, which can reveal its presence, in some trials, without the photon ever touching it. Experiments (Kwiat et al., 1995) confirmed it. It shows that paths <i>not taken</i> have physical effects.</p>"
+  },
+  {
+   "tag": "Big objects",
+   "h": "How big can it go?",
+   "b": "<p>Superpositions have been seen in larger and larger things: C60 molecules (1999), molecules above 25,000 atomic mass units (2019), and superconducting rings carrying current in two directions at once (Delft and Stony Brook, 2000). Superconducting circuits are the basis of today's quantum computers. No limit has been found, only a practical difficulty: the environment disturbs big things (see decoherence).</p>"
+  },
+  {
+   "tag": "Zeno",
+   "h": "A watched pot",
+   "b": "<p>Frequent measurement can freeze a system. If you keep checking, each look resets the clock. The Quantum Zeno effect, named by Misra and Sudarshan in 1977, has been seen in cold atoms (Itano and colleagues, 1990). It is used in some quantum devices.</p>"
+  },
+  {
+   "tag": "Misconceptions",
+   "h": "Myths to drop",
+   "b": "<ul><li><b>\"The cat is both alive and dead because it is unsure.\"</b> That misreads it; see the cat lesson.</li><li><b>\"Measurement needs a human.\"</b> Any interaction that records the information acts as a measurement.</li><li><b>\"Superposition means a particle is in two places, so I could be too.\"</b> For large warm things the blending is wiped out in a flash.</li></ul>"
+  },
+  {
+   "tag": "Indian angle",
+   "h": "Sudarshan and TIFR",
+   "b": "<p>E.C.G. Sudarshan (with B. Misra) named the quantum Zeno effect in 1977. At the Tata Institute of Fundamental Research, Mumbai, R. Vijay's group builds superconducting circuits where qubits are held in superposition, one of the leading hardware efforts that feeds India's National Quantum Mission.</p>"
+  },
+  {
+   "tag": "Recap",
+   "h": "Key takeaways and think-about-it",
+   "b": "<ul><li>Superposition is a genuine blend, shown by interference.</li><li>Measurement gives one result with Born-rule odds.</li><li>What collapse really is stays unsettled.</li></ul><div class=\"box\"><h4>Think about it</h4><ol><li>Why does stripes-at-the-output prove a photon took both paths?</li><li>If you look every instant, why might the system stay frozen?</li></ol></div>",
+   "cls": "exam"
+  }
+ ],
+ "quiz": [
+  {
+   "q": "A superposition is:",
+   "o": [
+    "A real combination of possibilities",
+    "A very fast flicker",
+    "A broken measurement",
+    "Ignorance of which one is true"
+   ],
+   "a": 0,
+   "w": "Interference shows both are in play."
+  },
+  {
+   "q": "Why does a photon in a Mach-Zehnder always exit one port?",
+   "o": [
+    "It chooses randomly",
+    "The mirror is broken",
+    "It has a hidden path",
+    "Interference between both paths"
+   ],
+   "a": 3,
+   "w": "A single path would give 50-50."
+  },
+  {
+   "q": "What is the \"measurement problem\"?",
+   "o": [
+    "Atoms are too small to find",
+    "Instruments are unreliable",
+    "Light is too fast",
+    "Two different rules for evolution and for measurement"
+   ],
+   "a": 3,
+   "w": "No agreed explanation for collapse."
+  },
+  {
+   "q": "The Elitzur-Vaidman bomb tester shows:",
+   "o": [
+    "Photons are heavy",
+    "Bombs are quantum",
+    "Light cannot be blocked",
+    "Paths not taken can have effects"
+   ],
+   "a": 3,
+   "w": "Confirmed by Kwiat et al. in 1995."
+  },
+  {
+   "q": "Quantum Zeno effect:",
+   "o": [
+    "Needs a human",
+    "Frequent measurement can freeze change",
+    "Breaks the speed of light",
+    "Speeds up change"
+   ],
+   "a": 1,
+   "w": "Named by Misra and Sudarshan, 1977."
+  },
+  {
+   "q": "Who needs to be \"watching\" for collapse to occur?",
+   "o": [
+    "Only a scientist",
+    "Any interaction that records the information",
+    "Only a computer",
+    "Only a human mind"
+   ],
+   "a": 1,
+   "w": "This is not about consciousness."
+  },
+  {
+   "q": "The 2000 Delft and Stony Brook experiments showed superposition in:",
+   "o": [
+    "Cricket balls",
+    "Dust",
+    "Superconducting rings",
+    "Whales"
+   ],
+   "a": 2,
+   "w": "Currents flowing in two directions at once."
+  },
+  {
+   "q": "Which is not an agreed fact?",
+   "o": [
+    "That C60 interferes",
+    "That Born odds are correct",
+    "That interference occurs",
+    "That collapse is a physical process"
+   ],
+   "a": 3,
+   "w": "It is interpretation-dependent."
+  },
+  {
+   "q": "Why do we not see everyday objects in superposition?",
+   "o": [
+    "They have no mass",
+    "Physics forbids it",
+    "The environment wipes it out almost instantly",
+    "They are too cold"
+   ],
+   "a": 2,
+   "w": "This is decoherence."
+  },
+  {
+   "q": "Who builds superconducting qubits at TIFR?",
+   "o": [
+    "R. Vijay's group",
+    "ISRO",
+    "Urbasi Sinha's group",
+    "C.V. Raman"
+   ],
+   "a": 0,
+   "w": "It is part of India's growing hardware effort."
+  }
+ ],
+ "sources": [
+  "Elitzur and Vaidman 1993",
+  "Kwiat et al. 1995",
+  "Misra and Sudarshan 1977",
+  "Friedman et al. and van der Wal et al. 2000",
+  "Fein et al. 2019"
+ ],
+ "verified": "2026-11-11"
+}

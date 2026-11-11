@@ -1,0 +1,179 @@
+{
+ "id": "2-0-2",
+ "title": "Interpretations: Copenhagen, Many-Worlds, Pilot Wave and More",
+ "emoji": "🌀",
+ "cards": [
+  {
+   "tag": "Why this matters",
+   "h": "One maths, many stories",
+   "b": "<p>Everyone agrees how to calculate with quantum theory. Almost nobody agrees what it says about reality. The disagreements are called <b>interpretations</b>. Be careful: most make the same predictions, so experiments cannot yet choose between them. Treat each as a story told about the same equations.</p>"
+  },
+  {
+   "tag": "The problem",
+   "h": "What needs explaining",
+   "b": "<p>Quantum theory has two rules: smooth evolution of ψ (Schrödinger) and a random jump at measurement (Born). What counts as a \"measurement\"? Why do we see only one result? Where does the quantum world end and the everyday world begin? Each interpretation answers differently.</p>"
+  },
+  {
+   "tag": "Copenhagen",
+   "h": "Bohr, Heisenberg, and \"shut up and calculate\"",
+   "b": "<p>Developed around Niels Bohr and Werner Heisenberg, and aired at the 1927 Solvay conference. Core idea: ψ is a tool for predicting results; measurement results are what is real; do not ask what happens in between. Several versions exist, so \"the Copenhagen interpretation\" is loose. It treats collapse as basic and leaves the measuring apparatus unexplained. \"Shut up and calculate\" is a joking summary of the practical attitude.</p>"
+  },
+  {
+   "tag": "Many-worlds",
+   "h": "Everett (1957)",
+   "b": "<p>Hugh Everett III proposed there is no collapse. ψ always evolves smoothly; when a measurement happens, the observer becomes entangled and all outcomes occur, each in its own branch. We only experience one branch at a time. <b>Strength:</b> simplest equations. <b>Cost:</b> a vast number of unseen branches, and a puzzle over what \"odds\" mean when everything happens.</p>"
+  },
+  {
+   "tag": "Pilot wave",
+   "h": "De Broglie and Bohm",
+   "b": "<p>Louis de Broglie suggested it in 1927; David Bohm revived it in 1952. A particle has a definite position at all times and is steered by the wavefunction. It reproduces all standard predictions, and the \"randomness\" comes from not knowing the starting position. <b>Cost:</b> it is explicitly non-local (distant parts instantly guide each other), which Bell's theorem allows but which clashes with relativity's spirit.</p><svg class=\"d\" viewBox=\"0 0 320 190\"><defs><marker id=\"m202\" viewBox=\"0 0 10 10\" refX=\"9\" refY=\"5\" markerWidth=\"6\" markerHeight=\"6\" orient=\"auto\"><path d=\"M0,0L10,5L0,10z\" fill=\"#5d6474\"/></marker></defs><rect x=\"100\" y=\"5\" width=\"120\" height=\"36\" rx=\"6\" fill=\"#f1e4c6\" stroke=\"#a8792a\"/><text x=\"160.0\" y=\"19.7\" font-size=\"11\" fill=\"#1d2433\" text-anchor=\"middle\">Same maths,</text><text x=\"160.0\" y=\"33.7\" font-size=\"11\" fill=\"#1d2433\" text-anchor=\"middle\">same predictions</text><rect x=\"5\" y=\"70\" width=\"100\" height=\"50\" rx=\"6\" fill=\"#dceaec\" stroke=\"#2f6f7a\"/><text x=\"55.0\" y=\"85.3\" font-size=\"10\" fill=\"#1d2433\" text-anchor=\"middle\">Copenhagen</text><text x=\"55.0\" y=\"98.3\" font-size=\"10\" fill=\"#1d2433\" text-anchor=\"middle\">collapse on</text><text x=\"55.0\" y=\"111.3\" font-size=\"10\" fill=\"#1d2433\" text-anchor=\"middle\">measurement</text><rect x=\"110\" y=\"70\" width=\"100\" height=\"50\" rx=\"6\" fill=\"#f4dcd5\" stroke=\"#a3362a\"/><text x=\"160.0\" y=\"85.3\" font-size=\"10\" fill=\"#1d2433\" text-anchor=\"middle\">Many-worlds</text><text x=\"160.0\" y=\"98.3\" font-size=\"10\" fill=\"#1d2433\" text-anchor=\"middle\">no collapse,</text><text x=\"160.0\" y=\"111.3\" font-size=\"10\" fill=\"#1d2433\" text-anchor=\"middle\">branching</text><rect x=\"215\" y=\"70\" width=\"100\" height=\"50\" rx=\"6\" fill=\"#f1e4c6\" stroke=\"#a8792a\"/><text x=\"265.0\" y=\"85.3\" font-size=\"10\" fill=\"#1d2433\" text-anchor=\"middle\">Pilot wave</text><text x=\"265.0\" y=\"98.3\" font-size=\"10\" fill=\"#1d2433\" text-anchor=\"middle\">real particle</text><text x=\"265.0\" y=\"111.3\" font-size=\"10\" fill=\"#1d2433\" text-anchor=\"middle\">plus guiding wave</text><line x1=\"130\" y1=\"43\" x2=\"55\" y2=\"68\" stroke=\"#5d6474\" stroke-width=\"1.5\" marker-end=\"url(#m202)\"/><line x1=\"160\" y1=\"43\" x2=\"160\" y2=\"68\" stroke=\"#5d6474\" stroke-width=\"1.5\" marker-end=\"url(#m202)\"/><line x1=\"190\" y1=\"43\" x2=\"265\" y2=\"68\" stroke=\"#5d6474\" stroke-width=\"1.5\" marker-end=\"url(#m202)\"/><rect x=\"5\" y=\"140\" width=\"150\" height=\"40\" rx=\"6\" fill=\"#ffffff\" stroke=\"#5d6474\"/><text x=\"80.0\" y=\"156.8\" font-size=\"10\" fill=\"#1d2433\" text-anchor=\"middle\">Collapse models</text><text x=\"80.0\" y=\"169.8\" font-size=\"10\" fill=\"#1d2433\" text-anchor=\"middle\">real collapse: testable</text><rect x=\"165\" y=\"140\" width=\"150\" height=\"40\" rx=\"6\" fill=\"#ffffff\" stroke=\"#5d6474\"/><text x=\"240.0\" y=\"156.8\" font-size=\"10\" fill=\"#1d2433\" text-anchor=\"middle\">QBism, relational</text><text x=\"240.0\" y=\"169.8\" font-size=\"10\" fill=\"#1d2433\" text-anchor=\"middle\">ψ is about knowledge</text></svg>"
+  },
+  {
+   "tag": "Others",
+   "h": "More options",
+   "b": "<ul><li><b>Collapse models (GRW, 1986; Penrose):</b> collapse is a real physical process, rare for single particles and quick for big objects. These predict small differences and are <i>testable</i>; so far experiments have ruled out some versions.</li><li><b>QBism (Fuchs):</b> ψ is an agent's personal degree of belief.</li><li><b>Relational QM (Rovelli, 1996):</b> properties exist only relative to other systems.</li><li><b>Consistent histories</b> and <b>superdeterminism</b>.</li></ul>"
+  },
+  {
+   "tag": "Do experiments decide?",
+   "h": "What is known",
+   "b": "<p>Bell tests rule out <i>local</i> hidden-variable theories, so every interpretation must be non-local, deny single outcomes, or deny free choice. Beyond that, the mainstream ones agree. In informal polls, no view has a majority. In a 2013 poll of about 30 specialists, Copenhagen led with about 40% (Schlosshauer, Kofler and Zeilinger). Collapse models are the first group to predict something different, and labs are testing them.</p>"
+  },
+  {
+   "tag": "Misconceptions",
+   "h": "Myths to drop",
+   "b": "<ul><li><b>\"Many-worlds lets you travel between universes.\"</b> Branches never communicate.</li><li><b>\"Consciousness causes collapse is mainstream.\"</b> It is a rare minority view (von Neumann and Wigner raised it).</li><li><b>\"Experiments have proved Copenhagen.\"</b> They have not chosen any.</li></ul>"
+  },
+  {
+   "tag": "Indian angle",
+   "h": "Sudarshan and open questions",
+   "b": "<p>E.C.G. Sudarshan, one of India's most famous theorists, helped build the language used to describe measurement and decoherence in open quantum systems (GKSL equation, 1976, with Gorini, Kossakowski and Lindblad). The ancient \"many ways of seeing\" tradition in Indian philosophy is sometimes compared with interpretations, but those are analogies, not physics.</p>"
+  },
+  {
+   "tag": "Recap",
+   "h": "Key takeaways and think-about-it",
+   "b": "<ul><li>All interpretations agree on predictions but tell different stories.</li><li>Copenhagen (collapse), many-worlds (branches), pilot wave (particles plus guide), collapse models (testable).</li><li>Bell tests narrow the choices but do not pick one.</li></ul><div class=\"box\"><h4>Think about it</h4><ol><li>Which interpretations keep a single definite world, and what do they give up?</li><li>Why are collapse models more scientific in the sense of testing than others?</li></ol></div>",
+   "cls": "exam"
+  }
+ ],
+ "quiz": [
+  {
+   "q": "Do most interpretations differ in their predictions?",
+   "o": [
+    "No, they mostly make the same predictions",
+    "Yes, entirely",
+    "Only for light",
+    "Only for atoms"
+   ],
+   "a": 0,
+   "w": "They differ in the story."
+  },
+  {
+   "q": "Many-worlds was proposed by:",
+   "o": [
+    "Bohr",
+    "Heisenberg",
+    "Hugh Everett III, 1957",
+    "Bohm"
+   ],
+   "a": 2,
+   "w": "No collapse; branching."
+  },
+  {
+   "q": "Pilot-wave theory says particles:",
+   "o": [
+    "Are only knowledge",
+    "Always have definite positions guided by ψ",
+    "Split into worlds",
+    "Never exist"
+   ],
+   "a": 1,
+   "w": "De Broglie 1927; Bohm 1952."
+  },
+  {
+   "q": "Which view is explicitly non-local?",
+   "o": [
+    "Classical physics",
+    "Pilot wave",
+    "Many-worlds",
+    "None"
+   ],
+   "a": 1,
+   "w": "Parts instantly guide each other."
+  },
+  {
+   "q": "Which interpretation group predicts testable differences?",
+   "o": [
+    "Collapse models",
+    "Pilot wave",
+    "Many-worlds",
+    "Copenhagen"
+   ],
+   "a": 0,
+   "w": "GRW, Penrose type models."
+  },
+  {
+   "q": "QBism treats ψ as:",
+   "o": [
+    "A physical wave",
+    "A force",
+    "A particle",
+    "An agent's personal belief"
+   ],
+   "a": 3,
+   "w": "Fuchs and colleagues."
+  },
+  {
+   "q": "Bell tests rule out:",
+   "o": [
+    "Spin",
+    "Many-worlds only",
+    "All interpretations",
+    "Local hidden-variable theories"
+   ],
+   "a": 3,
+   "w": "Others remain."
+  },
+  {
+   "q": "Is \"consciousness causes collapse\" mainstream?",
+   "o": [
+    "Yes, standard",
+    "Taught as fact",
+    "Proven",
+    "No, it is a minority view"
+   ],
+   "a": 3,
+   "w": "Raised by von Neumann and Wigner."
+  },
+  {
+   "q": "Who wrote about relational quantum mechanics in 1996?",
+   "o": [
+    "Carlo Rovelli",
+    "Dirac",
+    "Everett",
+    "Planck"
+   ],
+   "a": 0,
+   "w": "Properties are relative to other systems."
+  },
+  {
+   "q": "E.C.G. Sudarshan co-developed the equation (1976) describing:",
+   "o": [
+    "Photons only",
+    "Radioactivity",
+    "Open quantum systems",
+    "Black holes"
+   ],
+   "a": 2,
+   "w": "GKSL equation, key to decoherence."
+  }
+ ],
+ "sources": [
+  "Solvay 1927",
+  "Everett 1957",
+  "Bohm 1952",
+  "GRW 1986",
+  "Schlosshauer, Kofler and Zeilinger 2013",
+  "GKSL 1976"
+ ],
+ "verified": "2026-11-11"
+}

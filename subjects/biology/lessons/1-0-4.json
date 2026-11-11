@@ -6,22 +6,22 @@
   {
    "tag": "Why this matters",
    "h": "Typos in the recipe",
-   "b": "<p>Every time DNA is copied, a few errors slip through. Most do nothing. Some cause disease. A few help survival and drive evolution. Mutations explain cancer, inherited disorders and how bacteria beat antibiotics.</p>"
+   "b": "<p>Every time DNA is copied, a few errors slip through. Most do nothing. Some cause disease. A few help survival and drive evolution. Mutations explain cancer, inherited disorders and how bacteria beat antibiotics.</p><p>The human genome has about 3 billion letters, and a new baby carries around 50 to 100 new changes that neither parent had. Copying enzymes check their work, so only about one error in a billion letters survives. Think of a book copied by hand over centuries: most slips are harmless, a few spoil a sentence, and a very rare one improves it. Without variation, evolution would have nothing to choose from.</p>"
   },
   {
    "tag": "Core idea",
    "h": "What a mutation is",
-   "b": "<p>A mutation is a lasting change in the DNA sequence. <b>Germline</b> mutations (in eggs or sperm) can be inherited. <b>Somatic</b> mutations (in body cells) affect only that person and cannot be passed on. Causes: copying errors, UV light, X-rays, tobacco chemicals, some viruses.</p>"
+   "b": "<p>A mutation is a lasting change in the DNA sequence. <b>Germline</b> mutations (in eggs or sperm) can be inherited. <b>Somatic</b> mutations (in body cells) affect only that person and cannot be passed on. Causes: copying errors, UV light, X-rays, tobacco chemicals, some viruses.</p><p>A mutation in a gene's coding region may alter a protein, while one in a switch region may change how much protein is made. Hugo de Vries introduced the word 'mutation' around 1901. <b>Mutagens</b> are agents that raise mutation rates. UV light makes neighbouring T bases stick together; this is why sun exposure raises skin cancer risk and why the ozone layer matters. Most mutations that occur in body cells are fixed by repair or lost when the cell dies.</p>"
   },
   {
    "tag": "Step by step",
    "h": "Small mutations (point)",
-   "b": "<ul><li><b>Silent:</b> new codon codes the same amino acid.</li><li><b>Missense:</b> a different amino acid. Sickle cell: GAG to GTG, glutamic acid to valine.</li><li><b>Nonsense:</b> creates a stop codon, so a short protein.</li><li><b>Frameshift:</b> an inserted or deleted base shifts every codon after it.</li></ul>"
+   "b": "<ul><li><b>Silent:</b> new codon codes the same amino acid.</li><li><b>Missense:</b> a different amino acid. Sickle cell: GAG to GTG, glutamic acid to valine.</li><li><b>Nonsense:</b> creates a stop codon, so a short protein.</li><li><b>Frameshift:</b> an inserted or deleted base shifts every codon after it.</li></ul><p>Use a sentence of three-letter words as an analogy: THE CAT SAW THE DOG. A silent change swaps a word for a synonym. A missense swaps one word for another (THE <i>HAT</i> SAW). A nonsense puts in a full stop early. A frameshift deletes one letter, so every word after it becomes gibberish (THE ATS AWT HED OG). That is why adding or removing one or two bases is more damaging than adding three, which keeps the frame and only adds one amino acid.</p>"
   },
   {
    "tag": "Step by step",
    "h": "Large mutations",
-   "b": "<p>Whole chromosome pieces can be deleted, duplicated, inverted or swapped. Whole chromosomes can be gained or lost (nondisjunction): Down syndrome (trisomy 21), Turner syndrome (XO), Klinefelter syndrome (XXY).</p>"
+   "b": "<p>Whole chromosome pieces can be deleted, duplicated, inverted or swapped. Whole chromosomes can be gained or lost (nondisjunction): Down syndrome (trisomy 21), Turner syndrome (XO), Klinefelter syndrome (XXY).</p><p>Think of large mutations as editing a whole page: tearing out a paragraph (deletion), pasting it twice (duplication), turning it round (inversion) or pasting it into another chapter (translocation). The Philadelphia chromosome, a swap between chromosomes 9 and 22 found in 1960, fuses two genes and drives chronic myeloid leukaemia; the drug imatinib targets that fused protein. Extra copies of whole chromosome sets, called polyploidy, are common in plants such as wheat.</p>"
   },
   {
    "tag": "Step by step",
@@ -31,17 +31,17 @@
   {
    "tag": "Step by step",
    "h": "Repair and cancer",
-   "b": "<p>Cells repair DNA with proofreading and repair enzymes. Cancer develops when mutations hit genes that drive growth (<b>oncogenes</b>) or brake it (<b>tumour suppressors</b> such as p53). Usually several mutations are needed. BRCA1 and BRCA2 mutations raise breast and ovarian cancer risk.</p>"
+   "b": "<p>Cells repair DNA with proofreading and repair enzymes. Cancer develops when mutations hit genes that drive growth (<b>oncogenes</b>) or brake it (<b>tumour suppressors</b> such as p53). Usually several mutations are needed. BRCA1 and BRCA2 mutations raise breast and ovarian cancer risk.</p><p>Repair teams are like proofreaders and a repair crew. DNA polymerase checks each new base and removes mismatches; other enzymes cut out damaged bits and fill the gap. People with xeroderma pigmentosum, who lack UV repair, develop skin cancers very early. A single mutation rarely causes cancer. Instead, a cell usually needs several hits, often over decades, which is why cancer risk rises with age. Tumour suppressors work like brakes, and oncogenes like a stuck accelerator.</p>"
   },
   {
    "tag": "How we know",
    "h": "From flies to bombs",
-   "b": "<p>Hermann Muller (1927) showed X-rays cause mutations in fruit flies (Nobel 1946). Linus Pauling (1949) called sickle cell a 'molecular disease'. Vernon Ingram (1956) traced it to one amino acid. Bruce Ames developed a test for chemicals that cause mutations in 1970s.</p>"
+   "b": "<p>Hermann Muller (1927) showed X-rays cause mutations in fruit flies (Nobel 1946). Linus Pauling (1949) called sickle cell a 'molecular disease'. Vernon Ingram (1956) traced it to one amino acid. Bruce Ames developed a test for chemicals that cause mutations in 1970s.</p><p>Pauling used electrophoresis to show that sickle haemoglobin moves differently from normal haemoglobin because its charge differs, and Ingram's 'fingerprinting' found the exact amino acid. Together these linked a gene to one protein change. The Ames test, which uses bacteria that cannot make histidine, checks if a chemical makes them mutate back, and is used to screen for possible carcinogens. Muller's work is why X-ray shielding is used in clinics.</p>"
   },
   {
    "tag": "Misconceptions",
    "h": "Watch out",
-   "b": "<div class=\"box\"><h4>Fix these</h4><ul><li>Mutations are not always harmful; many are neutral and some are useful.</li><li>Mutations do not occur 'because the organism needs them'.</li><li>Carrying one copy of a recessive gene does not mean having the disease.</li></ul></div>"
+   "b": "<div class=\"box\"><h4>Fix these</h4><ul><li>Mutations are not always harmful; many are neutral and some are useful.</li><li>Mutations do not occur 'because the organism needs them'.</li><li>Carrying one copy of a recessive gene does not mean having the disease.</li></ul></div><p>Also, a mutation does not push a species in a planned direction. It is random with respect to need, and natural selection then sorts what survives. For example, antibiotic-resistant bacteria did not 'learn' resistance; a few already carried a helpful change, and the drug removed the rest.</p><p>Also, a mutation does not push a species in a planned direction. It is random with respect to need, and natural selection then sorts what survives. Antibiotic-resistant bacteria did not 'learn' resistance; a few already carried a helpful change, and the drug removed the rest, so the resistant ones multiplied.</p>"
   },
   {
    "tag": "Indian angle",
@@ -51,7 +51,7 @@
   {
    "tag": "Recap",
    "h": "Key takeaways and questions",
-   "b": "<ul><li>Point mutations: silent, missense, nonsense, frameshift.</li><li>Germline mutations are inherited; somatic are not.</li><li>Cancer follows from damaged growth control genes.</li></ul><p><b>Think about it:</b></p><ol><li>Why is a frameshift usually worse than a point change?</li><li>Why might carrying the sickle gene help in malarial areas?</li></ol>",
+   "b": "<ul><li>Point mutations: silent, missense, nonsense, frameshift.</li><li>Germline mutations are inherited; somatic are not.</li><li>Cancer follows from damaged growth control genes.</li></ul><p><b>Think about it:</b></p><ol><li>Why is a frameshift usually worse than a point change?</li><li>Why might carrying the sickle gene help in malarial areas?</li></ol><p><b>Key terms:</b> a mutation is any lasting change in DNA; a mutagen raises the rate; a carrier has one copy of a recessive allele. Mutations are the raw material of evolution, but most are neutral. The sickle allele example is well known: carriers are partly protected from severe malaria, which keeps the allele common in malaria-prone regions, a case of balanced selection.</p>",
    "cls": "exam"
   }
  ],

@@ -6,7 +6,7 @@
   {
    "tag": "Why this matters",
    "h": "Your body's wiring",
-   "b": "<p>Reading this sentence uses about 86 billion neurons. The nervous system senses the world, decides and acts in milliseconds. Epilepsy, Parkinson's, depression and stroke are all problems of this network.</p>"
+   "b": "<p>Reading this sentence uses about 86 billion neurons. The nervous system senses the world, decides and acts in milliseconds. Epilepsy, Parkinson's, depression and stroke are all problems of this network.</p><p>A neuron is a cell built to carry signals. A dendrite receives them, the cell body adds them up, and a long axon sends them on, like a wire with branches. The brain weighs about 1.4 kg yet uses around 20 percent of the body's energy. Santiago Ramon y Cajal showed in the 1880s and 1890s that the nervous system is made of separate cells, and shared the 1906 Nobel Prize with Camillo Golgi.</p>"
   },
   {
    "tag": "Core idea",
@@ -21,22 +21,22 @@
   {
    "tag": "Step by step",
    "h": "The synapse",
-   "b": "<p>Neurons do not touch. At a synapse, the signal triggers release of a chemical <b>neurotransmitter</b> (acetylcholine, dopamine, serotonin, GABA) that crosses a gap about 20 nm wide and excites or inhibits the next cell. Otto Loewi's frog heart experiment (1921) showed chemical transmission.</p>"
+   "b": "<p>Neurons do not touch. At a synapse, the signal triggers release of a chemical <b>neurotransmitter</b> (acetylcholine, dopamine, serotonin, GABA) that crosses a gap about 20 nm wide and excites or inhibits the next cell. Otto Loewi's frog heart experiment (1921) showed chemical transmission.</p><p>Imagine passing a note across a small stream: the signal arrives at the end of the axon, opens calcium gates, and vesicles of neurotransmitter fuse with the membrane and spill into the gap. The molecules attach to receptors on the next cell, and are then removed or broken down by enzymes so the message stops. Many drugs act here: antidepressants such as SSRIs raise serotonin, and nerve gases block acetylcholine breakdown. Parkinson's disease follows loss of dopamine-making cells.</p>"
   },
   {
    "tag": "Step by step",
    "h": "Organisation",
-   "b": "<p><b>Central nervous system:</b> brain and spinal cord. <b>Peripheral:</b> nerves to the body, split into somatic (voluntary) and autonomic (involuntary; sympathetic 'fight or flight' and parasympathetic 'rest and digest').</p>"
+   "b": "<p><b>Central nervous system:</b> brain and spinal cord. <b>Peripheral:</b> nerves to the body, split into somatic (voluntary) and autonomic (involuntary; sympathetic 'fight or flight' and parasympathetic 'rest and digest').</p><p>The sympathetic system is like pressing the accelerator: the heart speeds up, pupils widen and digestion slows. The parasympathetic system is the brake, slowing the heart and encouraging digestion. The spinal cord, protected inside the vertebrae, carries messages up and down, and about 31 pairs of spinal nerves branch from it. Sensory neurons carry information toward the CNS, and motor neurons carry commands away from it.</p>"
   },
   {
    "tag": "Step by step",
    "h": "The brain's parts",
-   "b": "<ul><li><b>Cerebrum:</b> thought, senses, voluntary action, memory.</li><li><b>Cerebellum:</b> balance and coordination.</li><li><b>Brainstem (medulla):</b> breathing, heart rate.</li><li><b>Hypothalamus:</b> body temperature, hunger, hormones.</li></ul>"
+   "b": "<ul><li><b>Cerebrum:</b> thought, senses, voluntary action, memory.</li><li><b>Cerebellum:</b> balance and coordination.</li><li><b>Brainstem (medulla):</b> breathing, heart rate.</li><li><b>Hypothalamus:</b> body temperature, hunger, hormones.</li></ul><p>The cerebrum has two halves joined by the corpus callosum, and its folded outer layer, the <b>cortex</b>, is about 2 to 4 mm thick and has lobes for vision (occipital), hearing and memory (temporal), movement and touch (frontal and parietal). Phineas Gage, a railway worker injured in 1848, changed in personality after an iron rod passed through his frontal lobe, hinting at its role. The hippocampus helps form new memories, as seen in the patient known as H.M. in the 1950s.</p>"
   },
   {
    "tag": "Step by step",
    "h": "Reflex arc",
-   "b": "<p>A reflex is a fast automatic response: touch a hot pan and the signal goes sensory neuron, spinal cord, motor neuron, muscle. The brain only hears about it later.</p>"
+   "b": "<p>A reflex is a fast automatic response: touch a hot pan and the signal goes sensory neuron, spinal cord, motor neuron, muscle. The brain only hears about it later.</p><p>The reflex arc is a shortcut that skips the brain and is therefore fast, as little as 30 milliseconds, protecting you from injury. The knee-jerk is a simple one that doctors test with a small hammer, using only two neurons. The spinal cord acts as the control centre, and at the same time it passes a message up so you feel the pain a moment later. Not all reflexes are inborn: Pavlov showed that animals can learn <b>conditioned</b> reflexes.</p>"
   },
   {
    "tag": "How we know",
@@ -46,7 +46,7 @@
   {
    "tag": "Misconceptions",
    "h": "Watch out",
-   "b": "<div class=\"box\"><h4>Fix these</h4><ul><li>We use all of the brain, not 10 percent.</li><li>Neurons can be formed in some brain areas in adults (neurogenesis in the hippocampus), though limited.</li><li>Left-brain and right-brain personality types are mostly a myth.</li></ul></div>"
+   "b": "<div class=\"box\"><h4>Fix these</h4><ul><li>We use all of the brain, not 10 percent.</li><li>Neurons can be formed in some brain areas in adults (neurogenesis in the hippocampus), though limited.</li><li>Left-brain and right-brain personality types are mostly a myth.</li></ul></div><p>Brain scans show that activity occurs throughout the brain across a day, even in sleep. The idea of 'left-brained' and 'right-brained' people comes from real findings that language is mostly processed on the left in most people, but the two halves work together constantly. Roger Sperry's work on 'split-brain' patients earned a Nobel Prize in 1981, and showed that each half has special skills.</p>"
   },
   {
    "tag": "Indian angle",
@@ -56,7 +56,7 @@
   {
    "tag": "Recap",
    "h": "Key takeaways and questions",
-   "b": "<ul><li>Neuron: dendrite, body, axon.</li><li>Impulse: Na+ in, K+ out, all-or-none.</li><li>Synapse: chemical messengers.</li><li>Cerebrum thinks, cerebellum balances, medulla keeps vital functions.</li></ul><p><b>Think about it:</b></p><ol><li>Why does myelin make signals faster?</li><li>How could a drug that blocks neurotransmitter breakdown change mood?</li></ol>",
+   "b": "<ul><li>Neuron: dendrite, body, axon.</li><li>Impulse: Na+ in, K+ out, all-or-none.</li><li>Synapse: chemical messengers.</li><li>Cerebrum thinks, cerebellum balances, medulla keeps vital functions.</li></ul><p><b>Think about it:</b></p><ol><li>Why does myelin make signals faster?</li><li>How could a drug that blocks neurotransmitter breakdown change mood?</li></ol><p><b>Key terms:</b> an <b>impulse</b> (action potential) is a wave of sodium ions rushing in and then potassium ions out, travelling at up to about 120 metres per second in myelinated nerves. <b>Myelin</b>, a fatty sheath, lets the signal jump between gaps called nodes of Ranvier, so it is faster. Multiple sclerosis damages myelin. Hodgkin and Huxley worked this out in giant squid axons in 1952.</p>",
    "cls": "exam"
   }
  ],

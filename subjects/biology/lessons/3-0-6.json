@@ -6,7 +6,7 @@
   {
    "tag": "Why this matters",
    "h": "How a single cell becomes a person",
-   "b": "<p>Nine months turn one fertilised cell into a baby with trillions of cells. Understanding reproduction supports health education, family planning and the treatment of infertility, a matter that affects millions of couples in India.</p>"
+   "b": "<p>Nine months turn one fertilised cell into a baby with trillions of cells. Understanding reproduction supports health education, family planning and the treatment of infertility, a matter that affects millions of couples in India.</p><p>Human development takes about 38 weeks from fertilisation. In the first 8 weeks the organism is called an embryo and most organs form; after that it is a foetus and the organs grow and mature. Because organs form early, harmful drugs or infections such as rubella, and also alcohol, are most dangerous in the first trimester. Folic acid before and in early pregnancy lowers the risk of neural tube defects such as spina bifida.</p>"
   },
   {
    "tag": "Core idea",
@@ -31,22 +31,22 @@
   {
    "tag": "Step by step",
    "h": "Birth and lactation",
-   "b": "<p>Oxytocin triggers contractions. After birth, prolactin makes milk and oxytocin lets it flow. Early breast milk (colostrum) is rich in antibodies.</p>"
+   "b": "<p>Oxytocin triggers contractions. After birth, prolactin makes milk and oxytocin lets it flow. Early breast milk (colostrum) is rich in antibodies.</p><p>Late in pregnancy the baby's head presses on the cervix, which sends a signal to the brain to release oxytocin, which strengthens contractions, which push the baby harder: a <b>positive feedback</b> loop that ends at birth. Colostrum is thick and yellowish and gives the newborn protective antibodies (IgA) and is easy to digest. The WHO advises feeding only breast milk for the first six months, and suckling itself keeps prolactin and oxytocin flowing.</p>"
   },
   {
    "tag": "Step by step",
    "h": "Contraception and infertility",
-   "b": "<p>Methods include barriers (condoms), hormonal pills, copper-T, and sterilisation. In vitro fertilisation (IVF) makes an embryo outside the body; the first IVF baby, Louise Brown, was born in 1978 (Robert Edwards, Nobel 2010).</p>"
+   "b": "<p>Methods include barriers (condoms), hormonal pills, copper-T, and sterilisation. In vitro fertilisation (IVF) makes an embryo outside the body; the first IVF baby, Louise Brown, was born in 1978 (Robert Edwards, Nobel 2010).</p><p>Barrier methods like condoms also help prevent sexually transmitted infections, which pills and the copper-T do not. Pills use oestrogen and progesterone to prevent ovulation, and the copper-T prevents implantation and harms sperm. In IVF, eggs are collected after hormone stimulation, mixed with sperm in a dish, and a healthy embryo is placed in the uterus a few days later. In India, Subhash Mukhopadhyay reported the world's second IVF baby in Kolkata in 1978, a story long overlooked.</p>"
   },
   {
    "tag": "How we know",
    "h": "Development discoveries",
-   "b": "<p>Karl Ernst von Baer found the mammalian egg (1827). Hans Spemann and Hilde Mangold (1924) showed an 'organiser' region guides the embryo. Hox genes explain body layout. Sex is set by the Y chromosome gene SRY (1990).</p>"
+   "b": "<p>Karl Ernst von Baer found the mammalian egg (1827). Hans Spemann and Hilde Mangold (1924) showed an 'organiser' region guides the embryo. Hox genes explain body layout. Sex is set by the Y chromosome gene SRY (1990).</p><p>The 'organiser' experiment was done with newt embryos: a small piece of tissue grafted to another embryo made it grow a second body axis, which shows that cells instruct their neighbours. Von Baer's discovery of the egg in 1827 came when he found it in a dog's ovary. SRY, found by Peter Goodfellow and colleagues in 1990, switches on male development in the embryo; without it, the default is female development.</p>"
   },
   {
    "tag": "Misconceptions",
    "h": "Watch out",
-   "b": "<div class=\"box\"><h4>Fix these</h4><ul><li>The father's sperm decides the baby's sex (X or Y), not the mother.</li><li>Ovulation does not always occur on day 14.</li><li>The placenta is a filter, not a wall: some viruses and drugs cross.</li></ul></div>"
+   "b": "<div class=\"box\"><h4>Fix these</h4><ul><li>The father's sperm decides the baby's sex (X or Y), not the mother.</li><li>Ovulation does not always occur on day 14.</li><li>The placenta is a filter, not a wall: some viruses and drugs cross.</li></ul></div><p>The mother always gives an X, so the sex of the baby depends on whether the sperm carries X or Y. The placenta carries oxygen, nutrients and some antibodies from mother to foetus, and wastes away from the foetus, via a thin membrane between two blood supplies that do not mix. Because of this, medicines and alcohol need care in pregnancy, and the Zika and rubella viruses can cross.</p>"
   },
   {
    "tag": "Indian angle",
@@ -56,7 +56,7 @@
   {
    "tag": "Recap",
    "h": "Key takeaways and questions",
-   "b": "<ul><li>Gametes are haploid and made by meiosis.</li><li>Cycle: FSH, oestrogen, LH surge, progesterone.</li><li>Fertilisation, implantation, placenta, birth.</li><li>IVF began in 1978.</li></ul><p><b>Think about it:</b></p><ol><li>Why does the placenta need to keep maternal and foetal blood apart?</li><li>Why do pregnancy tests look for hCG?</li></ol>",
+   "b": "<ul><li>Gametes are haploid and made by meiosis.</li><li>Cycle: FSH, oestrogen, LH surge, progesterone.</li><li>Fertilisation, implantation, placenta, birth.</li><li>IVF began in 1978.</li></ul><p><b>Think about it:</b></p><ol><li>Why does the placenta need to keep maternal and foetal blood apart?</li><li>Why do pregnancy tests look for hCG?</li></ol><p><b>Key terms:</b> the menstrual cycle lasts about 28 days: FSH grows a follicle, oestrogen thickens the uterine lining and triggers an LH surge, ovulation follows around mid-cycle, and progesterone from the corpus luteum keeps the lining until, if there is no pregnancy, it is shed. After implantation the embryo makes hCG, which keeps progesterone high, and this is what pregnancy tests detect in urine.</p>",
    "cls": "exam"
   }
  ],

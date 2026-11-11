@@ -6,7 +6,7 @@
   {
    "tag": "Why this matters",
    "h": "Recipe to dish",
-   "b": "<p>DNA is a recipe book kept safely in the nucleus. Proteins are the dishes: enzymes, muscle, antibodies, haemoglobin. How a recipe becomes a dish is the central dogma of biology, stated by Francis Crick in 1958: DNA to RNA to protein.</p>"
+   "b": "<p>DNA is a recipe book kept safely in the nucleus. Proteins are the dishes: enzymes, muscle, antibodies, haemoglobin. How a recipe becomes a dish is the central dogma of biology, stated by Francis Crick in 1958: DNA to RNA to protein.</p><p>The recipe analogy goes further. DNA never leaves the nucleus, just as a rare cookbook stays in the library, so the cell copies one recipe (a gene) as mRNA. The ribosome in the kitchen reads it and assembles the dish from amino acids. There are 20 amino acids, and their order decides how a protein folds and what it does. Haemoglobin has 574 of them in four chains.</p>"
   },
   {
    "tag": "Core idea",
@@ -16,12 +16,12 @@
   {
    "tag": "Step by step",
    "h": "RNA vs DNA",
-   "b": "<p>RNA has ribose sugar, uses uracil (U) instead of T, and is usually single-stranded. Types: <b>mRNA</b> (message), <b>tRNA</b> (carries amino acids), <b>rRNA</b> (part of ribosomes).</p>"
+   "b": "<p>RNA has ribose sugar, uses uracil (U) instead of T, and is usually single-stranded. Types: <b>mRNA</b> (message), <b>tRNA</b> (carries amino acids), <b>rRNA</b> (part of ribosomes).</p><p>Why RNA instead of DNA? Ribose makes RNA less stable and easier to dispose of, which suits a short-lived message, like a sticky note, while DNA is the archive. Uracil replaces thymine, so a DNA stretch TAC is copied as AUG. Some RNAs even act as enzymes, called <b>ribozymes</b>, found by Cech and Altman (Nobel 1989), which supports the idea that RNA came before DNA in early life.</p>"
   },
   {
    "tag": "Step by step",
    "h": "Transcription",
-   "b": "<ol><li>RNA polymerase binds a <b>promoter</b>.</li><li>It reads one DNA strand and builds mRNA.</li><li>In eukaryotes, the raw copy is edited: a cap and tail are added and <b>introns</b> are cut out, leaving <b>exons</b> (splicing).</li></ol>"
+   "b": "<ol><li>RNA polymerase binds a <b>promoter</b>.</li><li>It reads one DNA strand and builds mRNA.</li><li>In eukaryotes, the raw copy is edited: a cap and tail are added and <b>introns</b> are cut out, leaving <b>exons</b> (splicing).</li></ol><p>Think of it as copying a page for the kitchen. RNA polymerase unwinds a short stretch of DNA and slides along the <b>template strand</b>, pairing each base with a matching RNA base (A with U, G with C). It stops at a terminator signal. In humans, the average gene has several introns, and <b>alternative splicing</b> lets one gene produce different proteins by choosing which exons to keep. In bacteria there is no nucleus, so translation can begin while the mRNA is still being made.</p>"
   },
   {
    "tag": "Step by step",
@@ -31,7 +31,7 @@
   {
    "tag": "Step by step",
    "h": "Translation",
-   "b": "<ol><li>Ribosome attaches to mRNA and finds AUG.</li><li>tRNA with a matching <b>anticodon</b> brings its amino acid.</li><li>The ribosome links amino acids with peptide bonds and moves on.</li><li>At a stop codon, the chain is released and folds into a protein.</li></ol>"
+   "b": "<ol><li>Ribosome attaches to mRNA and finds AUG.</li><li>tRNA with a matching <b>anticodon</b> brings its amino acid.</li><li>The ribosome links amino acids with peptide bonds and moves on.</li><li>At a stop codon, the chain is released and folds into a protein.</li></ol><p>The ribosome is like a reader that moves along a ticker tape three letters at a time. It has two subunits that clamp the mRNA, and sites that hold the tRNA carrying the growing chain. Each tRNA has an anticodon on one end and the matching amino acid on the other, like a taxi labelled with its passenger. Many ribosomes can read one mRNA together, forming a <b>polysome</b>, so many copies are made quickly. Newly made chains then fold, helped by chaperone proteins.</p>"
   },
   {
    "tag": "How we know",
@@ -41,17 +41,17 @@
   {
    "tag": "Misconceptions",
    "h": "Watch out",
-   "b": "<div class=\"box\"><h4>Fix these</h4><ul><li>Codon (on mRNA) and anticodon (on tRNA) are different things.</li><li>Not all DNA codes for proteins; much is regulatory or non-coding.</li><li>The code is redundant, not ambiguous: one codon never gives two amino acids.</li></ul></div>"
+   "b": "<div class=\"box\"><h4>Fix these</h4><ul><li>Codon (on mRNA) and anticodon (on tRNA) are different things.</li><li>Not all DNA codes for proteins; much is regulatory or non-coding.</li><li>The code is redundant, not ambiguous: one codon never gives two amino acids.</li></ul></div><p>The genetic code was cracked by Marshall Nirenberg and Heinrich Matthaei in 1961, who found UUU codes for phenylalanine. There are 64 codons for 20 amino acids, so several codons give the same amino acid (<b>degenerate</b> code). Mutations in a third letter often do nothing for that reason.</p><p>Another point: the code is read in strict groups of three from the start codon, so shifting the starting point changes the entire message. Mutations in the third letter often do nothing. Marshall Nirenberg and Heinrich Matthaei began cracking the code in 1961 by finding that UUU codes for phenylalanine, and 64 codons share 20 amino acids.</p>"
   },
   {
    "tag": "Indian angle",
    "h": "Khorana and sickle cell",
-   "b": "<p>Khorana's synthetic RNA experiments in the 1960s completed the decoding. In sickle cell disease, one base change (A to T) swaps one amino acid in haemoglobin (glutamic acid to valine), a disease that affects many tribal communities in India.</p>"
+   "b": "<p>Khorana's synthetic RNA experiments in the 1960s completed the decoding. In sickle cell disease, one base change (A to T) swaps one amino acid in haemoglobin (glutamic acid to valine), a disease that affects many tribal communities in India.</p><p>Har Gobind Khorana, born in Raipur (now in Pakistan), built RNA chains with set patterns of bases at the University of Wisconsin, and shared the 1968 Nobel Prize with Nirenberg and Robert Holley. His synthetic repeating sequences confirmed which codons matched which amino acids. The sickle cell change shows how one letter in 3 billion can alter one protein, so haemoglobin clumps when oxygen is low and bends red cells into a sickle shape.</p>"
   },
   {
    "tag": "Recap",
    "h": "Key takeaways and questions",
-   "b": "<ul><li>DNA to mRNA (transcription) to protein (translation).</li><li>Codons of three bases; AUG starts, three stop codons end.</li><li>Eukaryotic mRNA is spliced before use.</li></ul><p><b>Think about it:</b></p><ol><li>Translate DNA TAC into the mRNA codon and anticodon.</li><li>Why is a near-universal code evidence of common ancestry?</li></ol>",
+   "b": "<ul><li>DNA to mRNA (transcription) to protein (translation).</li><li>Codons of three bases; AUG starts, three stop codons end.</li><li>Eukaryotic mRNA is spliced before use.</li></ul><p><b>Think about it:</b></p><ol><li>Translate DNA TAC into the mRNA codon and anticodon.</li><li>Why is a near-universal code evidence of common ancestry?</li></ol><p><b>Key terms:</b> a <b>gene</b> is a stretch of DNA with the recipe; <b>transcription</b> happens in the nucleus; <b>translation</b> happens on the ribosome in the cytoplasm. A codon has three bases, and the order of codons sets the order of amino acids. Remember that exons are expressed, introns are removed, and a stop codon (UAA, UAG, UGA) codes for no amino acid at all.</p>",
    "cls": "exam"
   }
  ],

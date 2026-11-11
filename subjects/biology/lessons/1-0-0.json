@@ -6,7 +6,7 @@
   {
    "tag": "Why this matters",
    "h": "Why you look like your parents, but not exactly",
-   "b": "<p>Children resemble parents yet differ from them. For centuries, people thought traits blended like paint. A monk with a garden proved otherwise, and founded genetics.</p>"
+   "b": "<p>Children resemble parents yet differ from them. For centuries, people thought traits blended like paint. A monk with a garden proved otherwise, and founded genetics.</p><p>Gregor Mendel, an Augustinian monk in Brno, grew about 28,000 pea plants between 1856 and 1863 and counted the offspring. He reported in 1866 that traits are carried by separate units (now called <b>genes</b>) that pass on whole, like beads on a string and not like mixed paint. His work was ignored until 1900, when de Vries, Correns and Tschermak rediscovered it independently.</p><p>Mendel's pea garden gave the first clear rules, and they still guide breeding of crops and animals today.</p>"
   },
   {
    "tag": "Core idea",
@@ -21,12 +21,12 @@
   {
    "tag": "Step by step",
    "h": "Using a Punnett square",
-   "b": "<p>For Tt x Tt: gametes T or t from each parent. The four boxes give TT, Tt, Tt, tt. Genotype ratio 1:2:1; phenotype ratio 3:1. A <b>test cross</b> with a tt plant reveals whether a tall plant is TT or Tt.</p>"
+   "b": "<p>For Tt x Tt: gametes T or t from each parent. The four boxes give TT, Tt, Tt, tt. Genotype ratio 1:2:1; phenotype ratio 3:1. A <b>test cross</b> with a tt plant reveals whether a tall plant is TT or Tt.</p><p>Think of a Punnett square as a chance table, like tossing two coins. Reginald Punnett drew it around 1905. Write one parent's gametes along the top and the other's down the side; each box is one equally likely meeting of an egg and a pollen grain. A test cross is useful because tt can only give t, so any short offspring proves the tall parent carried t. If all offspring are tall, the parent was most likely TT.</p>"
   },
   {
    "tag": "Step by step",
    "h": "Independent assortment",
-   "b": "<p>For two traits together (round/wrinkled and yellow/green), the dihybrid cross gives 9:3:3:1 in F2. Genes for different traits sort independently, true when they lie on different chromosomes.</p>"
+   "b": "<p>For two traits together (round/wrinkled and yellow/green), the dihybrid cross gives 9:3:3:1 in F2. Genes for different traits sort independently, true when they lie on different chromosomes.</p><p>Mendel's second law says that the allele a gamete gets for one trait does not affect which it gets for another, like shuffling two separate decks. A plant RrYy can make four gamete types (RY, Ry, rY, ry) in equal numbers, and 16 boxes then give 9 round yellow, 3 round green, 3 wrinkled yellow and 1 wrinkled green. Genes lying close together on the same chromosome break this rule because they travel together (linkage), as Morgan found in 1910s.</p>"
   },
   {
    "tag": "Step by step",
@@ -36,17 +36,17 @@
   {
    "tag": "How we know",
    "h": "Mendel's luck and care",
-   "b": "<p>Mendel chose pea because it has many clear traits, short generation time and controllable crosses. Statistician R.A. Fisher later noted his counts were suspiciously close to expected ratios; the debate continues, but the laws hold. Boveri, Sutton and Morgan tied genes to chromosomes.</p>"
+   "b": "<p>Mendel chose pea because it has many clear traits, short generation time and controllable crosses. Statistician R.A. Fisher later noted his counts were suspiciously close to expected ratios; the debate continues, but the laws hold. Boveri, Sutton and Morgan tied genes to chromosomes.</p><p>Peas were a smart choice: they self-pollinate, but Mendel could open a flower and dust it with chosen pollen. He used seven traits, such as seed shape and flower colour, and started with pure-breeding lines. He also counted large numbers, which makes ratios stand out from chance. Fisher's 1936 criticism concerned how neat the numbers were, not the laws themselves, which hold across all sexually reproducing species.</p>"
   },
   {
    "tag": "Misconceptions",
    "h": "Watch out",
-   "b": "<div class=\"box\"><h4>Fix these</h4><ul><li>Dominant does not mean common or better; polydactyly is dominant yet rare.</li><li>A 3:1 ratio is a probability, not a guarantee for four children.</li><li>Traits do not blend; genes stay intact.</li></ul></div>"
+   "b": "<div class=\"box\"><h4>Fix these</h4><ul><li>Dominant does not mean common or better; polydactyly is dominant yet rare.</li><li>A 3:1 ratio is a probability, not a guarantee for four children.</li><li>Traits do not blend; genes stay intact.</li></ul></div><p>Also, a recessive trait does not vanish; it is hidden when a dominant allele is present, and it can reappear in a later generation, just as Mendel saw. Many human traits, such as height and skin colour, depend on many genes and the environment, so simple ratios do not apply.</p><p>Also, 'recessive' does not mean rare or weak. In many human traits the common version is recessive, and a recessive allele can be carried quietly by millions of people who show no sign of it at all.</p>"
   },
   {
    "tag": "Indian angle",
    "h": "Blood groups and inherited disease in India",
-   "b": "<p>The ABO and Rh systems matter in transfusion. India has high carrier rates of sickle cell and thalassaemia in some regions, and the National Sickle Cell Anaemia Elimination Mission (launched 2023) screens carriers. Recessive disorders are more frequent where cousin marriage is common.</p>"
+   "b": "<p>The ABO and Rh systems matter in transfusion. India has high carrier rates of sickle cell and thalassaemia in some regions, and the National Sickle Cell Anaemia Elimination Mission (launched 2023) screens carriers. Recessive disorders are more frequent where cousin marriage is common.</p><p>Karl Landsteiner discovered the ABO groups in 1900 (Nobel 1930), and A and B are codominant over O. Sickle cell and thalassaemia are inherited when both parents pass on a faulty recessive allele, so each child of two carriers has a one in four chance of the disease. Carrier screening and counselling help families plan.</p>"
   },
   {
    "tag": "Recap",

@@ -6,12 +6,12 @@
   {
    "tag": "Why this matters",
    "h": "The idea that explains biology",
-   "b": "<p>Biologist Theodosius Dobzhansky said nothing in biology makes sense except in the light of evolution. Why antibiotics stop working, why we have an appendix and why a crow looks like a crow all follow from one simple idea.</p>"
+   "b": "<p>Biologist Theodosius Dobzhansky said nothing in biology makes sense except in the light of evolution. Why antibiotics stop working, why we have an appendix and why a crow looks like a crow all follow from one simple idea.</p><p>Darwin's idea is simple and testable. Individuals in a group differ; some differences are inherited; more young are born than can survive; those whose traits suit their surroundings leave more offspring. Repeat for many generations and the group changes. Think of a long sieve working slowly on a crowd, keeping what fits. Antibiotic resistance is this process happening in hospitals within years.</p>"
   },
   {
    "tag": "Core idea",
    "h": "Descent with modification",
-   "b": "<p>Evolution is change in the inherited traits of populations over generations. Charles Darwin spent five years (1831-36) on HMS Beagle. Alfred Russel Wallace reached the same idea independently; both presented it in 1858. Darwin's book On the Origin of Species came out in 1859.</p>"
+   "b": "<p>Evolution is change in the inherited traits of populations over generations. Charles Darwin spent five years (1831-36) on HMS Beagle. Alfred Russel Wallace reached the same idea independently; both presented it in 1858. Darwin's book On the Origin of Species came out in 1859.</p><p>Darwin's key observations came from finches and tortoises in the Galapagos Islands, where each island had its own forms, and from Thomas Malthus's essay on population, which pointed out that growth outruns food. The idea of <b>natural selection</b> is a mechanism, and descent with modification means all life shares ancestors, like a family tree. The theory has been refined, but not replaced, by genetics, which supplied the missing source of variation: mutation.</p>"
   },
   {
    "tag": "Step by step",
@@ -21,17 +21,17 @@
   {
    "tag": "Step by step",
    "h": "A worked example",
-   "b": "<p>The peppered moth in industrial England: before 1850 most were pale and hid on lichen. Soot darkened trees, and dark moths survived better. By 1895 dark ones dominated in Manchester. After clean air laws, pale ones returned. Bernard Kettlewell's 1950s experiments tested this.</p>"
+   "b": "<p>The peppered moth in industrial England: before 1850 most were pale and hid on lichen. Soot darkened trees, and dark moths survived better. By 1895 dark ones dominated in Manchester. After clean air laws, pale ones returned. Bernard Kettlewell's 1950s experiments tested this.</p><p>Read the peppered moth story as a chain: variation (pale and dark forms, caused by one gene), inheritance, differing survival (birds spot the moth that clashes with the tree) and a change in proportions. Kettlewell released marked moths and recaptured more of the camouflaged ones. His methods were criticised, but later studies by Majerus and others in the 2000s confirmed the main result. The gene responsible, a change near <i>cortex</i>, was identified in 2016.</p>"
   },
   {
    "tag": "Step by step",
    "h": "Fitness and adaptation",
-   "b": "<p>'Fitness' means reproductive success, not strength. An adaptation is a trait shaped by selection. Selection acts on individuals, but populations evolve.</p>"
+   "b": "<p>'Fitness' means reproductive success, not strength. An adaptation is a trait shaped by selection. Selection acts on individuals, but populations evolve.</p><p>Think of fitness as the number of surviving grandchildren, not muscle. A frail but fertile person can be 'fitter' in this sense than a strong one with no children. An adaptation is shaped for its current job: the thick fur of a polar bear, the long beak of a sunbird, the sharp thorn of a cactus. Not every feature is an adaptation, since some arise by chance or as by-products. Selection can only work on variation that already exists.</p>"
   },
   {
    "tag": "Step by step",
    "h": "Other forces",
-   "b": "<p>Besides selection: <b>mutation</b> (new variants), <b>genetic drift</b> (chance changes, strong in small groups), <b>gene flow</b> (migration) and <b>sexual selection</b> (mate choice, like peacock tails). Hardy-Weinberg (1908) is the baseline for no change.</p>"
+   "b": "<p>Besides selection: <b>mutation</b> (new variants), <b>genetic drift</b> (chance changes, strong in small groups), <b>gene flow</b> (migration) and <b>sexual selection</b> (mate choice, like peacock tails). Hardy-Weinberg (1908) is the baseline for no change.</p><p>Genetic drift is like drawing marbles from a jar by luck alone: a small sample can differ from the jar. A <b>bottleneck</b> or a few founders can change an entire population's genes, as seen in cheetahs, which have very low variation. Gene flow, such as migrants carrying genes between villages, tends to make populations alike. The Hardy-Weinberg principle tells us what to expect when none of these forces act, so any departure shows evolution at work.</p>"
   },
   {
    "tag": "How we know",
@@ -41,7 +41,7 @@
   {
    "tag": "Misconceptions",
    "h": "Watch out",
-   "b": "<div class=\"box\"><h4>Fix these</h4><ul><li>Evolution is not 'survival of the strongest'; it is survival and reproduction of the fit for a place.</li><li>Individuals do not evolve; populations do.</li><li>Evolution has no goal or progress ladder.</li><li>'Theory' in science means a well-tested explanation.</li></ul></div>"
+   "b": "<div class=\"box\"><h4>Fix these</h4><ul><li>Evolution is not 'survival of the strongest'; it is survival and reproduction of the fit for a place.</li><li>Individuals do not evolve; populations do.</li><li>Evolution has no goal or progress ladder.</li><li>'Theory' in science means a well-tested explanation.</li></ul></div><p>Also, selection acts only on what already exists. It cannot design a perfect organism, and it works with whatever variants appear, which is why the human back and the vertebrate eye have odd compromises. A scientific theory, such as the theory of gravity or of cells, is a tested framework that explains many facts.</p>"
   },
   {
    "tag": "Indian angle",
@@ -51,7 +51,7 @@
   {
    "tag": "Recap",
    "h": "Key takeaways and questions",
-   "b": "<ul><li>Variation + inheritance + overproduction + differential success.</li><li>Darwin and Wallace, 1858; Origin, 1859.</li><li>Drift, mutation, gene flow also drive change.</li></ul><p><b>Think about it:</b></p><ol><li>How would Lamarck and Darwin each explain the giraffe's neck?</li><li>Why does overusing antibiotics speed up resistance?</li></ol>",
+   "b": "<ul><li>Variation + inheritance + overproduction + differential success.</li><li>Darwin and Wallace, 1858; Origin, 1859.</li><li>Drift, mutation, gene flow also drive change.</li></ul><p><b>Think about it:</b></p><ol><li>How would Lamarck and Darwin each explain the giraffe's neck?</li><li>Why does overusing antibiotics speed up resistance?</li></ol><p><b>Key terms:</b> <b>variation</b> is differences between individuals, <b>adaptation</b> is a trait that helps survival and reproduction, and <b>fitness</b> is reproductive success. Lamarck proposed in 1809 that traits acquired in life are inherited, such as a giraffe stretching its neck, but experiments show that acquired body changes are not passed on through the genes.</p>",
    "cls": "exam"
   }
  ],

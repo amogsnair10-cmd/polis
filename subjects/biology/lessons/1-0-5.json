@@ -6,7 +6,7 @@
   {
    "tag": "Why this matters",
    "h": "Editing life",
-   "b": "<p>Insulin for diabetics, vaccines, cotton that resists bollworm and a tool that can edit a single letter of DNA all come from biotechnology. These tools are powerful and spark debates on safety, ethics and who owns seeds.</p>"
+   "b": "<p>Insulin for diabetics, vaccines, cotton that resists bollworm and a tool that can edit a single letter of DNA all come from biotechnology. These tools are powerful and spark debates on safety, ethics and who owns seeds.</p><p>Biotechnology is old and new at once: people have used yeast for bread and bacteria for curd for thousands of years. Modern biotechnology began in 1973, when Herbert Boyer and Stanley Cohen moved a gene from one bacterium to another using <b>restriction enzymes</b> (cutting like scissors) and ligase (like glue). This is <b>recombinant DNA</b>. It lets bacteria and yeast act as small factories for medicines and enzymes.</p>"
   },
   {
    "tag": "Core idea",
@@ -16,7 +16,7 @@
   {
    "tag": "Step by step",
    "h": "Useful tools",
-   "b": "<ul><li><b>PCR</b> (Kary Mullis, 1983): copies a tiny DNA sample millions of times by heating and cooling cycles. Used in COVID-19 RT-PCR tests.</li><li><b>Gel electrophoresis:</b> sorts DNA by size.</li><li><b>DNA sequencing:</b> Sanger (1977); the Human Genome Project finished in 2003.</li></ul>"
+   "b": "<ul><li><b>PCR</b> (Kary Mullis, 1983): copies a tiny DNA sample millions of times by heating and cooling cycles. Used in COVID-19 RT-PCR tests.</li><li><b>Gel electrophoresis:</b> sorts DNA by size.</li><li><b>DNA sequencing:</b> Sanger (1977); the Human Genome Project finished in 2003.</li></ul><p>PCR works in three repeating steps: heat splits the DNA strands, cooling lets short <b>primers</b> attach, and a heat-stable polymerase from a hot-spring bacterium builds new strands. After 30 cycles one copy becomes about a billion. Gel electrophoresis then pushes DNA through a jelly using an electric field, and small fragments move faster, like small children weaving through a crowd. Together they underlie DNA fingerprinting, invented by Alec Jeffreys in 1984, used in forensics and paternity tests.</p>"
   },
   {
    "tag": "Step by step",
@@ -31,17 +31,17 @@
   {
    "tag": "Step by step",
    "h": "Medicine and cloning",
-   "b": "<p>Human insulin by bacteria was marketed in 1982. Dolly the sheep (1996, Ian Wilmut) was cloned from an adult cell. Gene therapy replaces faulty genes. mRNA vaccines use the same idea of instructing cells to make a protein.</p>"
+   "b": "<p>Human insulin by bacteria was marketed in 1982. Dolly the sheep (1996, Ian Wilmut) was cloned from an adult cell. Gene therapy replaces faulty genes. mRNA vaccines use the same idea of instructing cells to make a protein.</p><p>Before 1982, insulin came from pig and cow pancreases. Now the human insulin gene is placed in bacteria or yeast, which make pure insulin in large tanks. For Dolly, scientists took the nucleus from a udder cell, placed it into an egg with its own nucleus removed, and used a small electric pulse to start development. It needed 277 attempts. Gene therapy first treated a child with an immune disorder in 1990, and viruses with the edited gene inside are used as delivery vans.</p>"
   },
   {
    "tag": "How we know",
    "h": "Safety and debate",
-   "b": "<p>The 1975 Asilomar conference set early safety rules. In 2018 He Jiankui announced gene-edited babies in China, widely condemned. Germline editing remains banned or tightly restricted in most countries.</p>"
+   "b": "<p>The 1975 Asilomar conference set early safety rules. In 2018 He Jiankui announced gene-edited babies in China, widely condemned. Germline editing remains banned or tightly restricted in most countries.</p><p>At Asilomar in California, scientists themselves paused some experiments until safety rules existed, an early example of responsible science. Regulators in India review GM products through the Genetic Engineering Appraisal Committee. Today the debates cover health, effects on other species, seed ownership, labelling, and whether gene editing of embryos should ever be allowed. The He Jiankui case led to a prison sentence in China in 2019.</p>"
   },
   {
    "tag": "Misconceptions",
    "h": "Watch out",
-   "b": "<div class=\"box\"><h4>Fix these</h4><ul><li>GM food is not 'DNA that infects you'; DNA is digested like any other.</li><li>Gene editing is not magic; off-target edits can happen.</li><li>Cloning does not copy memories or personality.</li></ul></div>"
+   "b": "<div class=\"box\"><h4>Fix these</h4><ul><li>GM food is not 'DNA that infects you'; DNA is digested like any other.</li><li>Gene editing is not magic; off-target edits can happen.</li><li>Cloning does not copy memories or personality.</li></ul></div><p>Also, 'GM' is not a single thing: Bt cotton carries a bacterial gene for a protein that harms bollworm caterpillars but is harmless to people, while golden rice adds beta-carotene. Breeding has changed crops for centuries, and CRISPR can make a precise change in one letter without adding foreign DNA.</p><p>Also, 'GM' is not a single thing: Bt cotton carries a bacterial gene for a protein that harms bollworm caterpillars but not people, while golden rice adds beta-carotene. Breeding has changed crops for centuries, and CRISPR can change one letter without adding foreign DNA.</p>"
   },
   {
    "tag": "Indian angle",

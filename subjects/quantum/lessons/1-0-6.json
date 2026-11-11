@@ -1,0 +1,176 @@
+{
+ "id": "1-0-6",
+ "title": "Quantum Tunnelling",
+ "emoji": "🚪",
+ "cards": [
+  {
+   "tag": "Why this matters",
+   "h": "Walking through a wall",
+   "b": "<p>Roll a ball at a hill without enough speed and it rolls back. A quantum particle, with a small chance, turns up on the far side. This <b>tunnelling</b> is why the Sun shines, how a smartphone stores your photos, and how we see single atoms.</p>"
+  },
+  {
+   "tag": "The idea",
+   "h": "A wave does not stop dead",
+   "b": "<p>A particle is described by a wavefunction. Meeting a barrier it cannot climb over (not enough energy), the wave does not drop to zero inside; it fades out gradually, like sound leaking through a thin wall. If the barrier is thin enough, some wave is still there on the other side. By Born's rule that means a real chance to find the particle there.</p><svg class=\"d\" viewBox=\"0 0 320 150\"><defs><marker id=\"m106\" viewBox=\"0 0 10 10\" refX=\"9\" refY=\"5\" markerWidth=\"6\" markerHeight=\"6\" orient=\"auto\"><path d=\"M0,0L10,5L0,10z\" fill=\"#5d6474\"/></marker></defs><line x1=\"10\" y1=\"110\" x2=\"120\" y2=\"110\" stroke=\"#5d6474\" stroke-width=\"1.5\"/><rect x=\"120\" y=\"40\" width=\"60\" height=\"70\" fill=\"#f4dcd5\" stroke=\"#a3362a\"/><line x1=\"180\" y1=\"110\" x2=\"310\" y2=\"110\" stroke=\"#5d6474\" stroke-width=\"1.5\"/><text x=\"150\" y=\"80\" font-size=\"10\" fill=\"#a3362a\" text-anchor=\"middle\">barrier</text><path d=\"M10,75 C30,60 40,90 60,75 C80,60 100,90 120,75 C140,70 150,80 150,90 C150,100 160,100 165,100\" fill=\"none\" stroke=\"#2f6f7a\" stroke-width=\"2\"/><path d=\"M180,100 C200,95 210,105 230,100 C250,95 270,105 310,100\" fill=\"none\" stroke=\"#2f6f7a\" stroke-width=\"1.5\" stroke-dasharray=\"4 3\"/><text x=\"65\" y=\"140\" font-size=\"10\" fill=\"#2f6f7a\" text-anchor=\"middle\">big wave in</text><text x=\"245\" y=\"140\" font-size=\"10\" fill=\"#2f6f7a\" text-anchor=\"middle\">small wave out</text><text x=\"160\" y=\"20\" font-size=\"10\" fill=\"#1d2433\" text-anchor=\"middle\">the wave leaks through</text></svg>"
+  },
+  {
+   "tag": "The odds",
+   "h": "What controls it",
+   "b": "<p>The chance falls steeply (exponentially) with the barrier's thickness and height, and with the particle's mass. Light particles like electrons tunnel easily; protons much less; a cricket ball essentially never (its chance is many, many times smaller than one in any number you could write down).</p><p><b>No energy is stolen.</b> The particle does not climb the barrier; it appears beyond it with its original energy, but a smaller amplitude.</p>"
+  },
+  {
+   "tag": "Radioactivity",
+   "h": "First great use: alpha decay",
+   "b": "<p>In 1928 George Gamow (and independently Ronald Gurney and Edward Condon) explained alpha decay. An alpha particle is trapped inside a nucleus by a barrier, yet occasionally escapes by tunnelling. Wildly different half-lives (from microseconds to billions of years) follow from small differences in barrier thickness. This was an early, striking triumph of quantum theory.</p>"
+  },
+  {
+   "tag": "The Sun",
+   "h": "Why stars burn",
+   "b": "<p>Two protons must get very close to fuse, but they repel. At the Sun's core (about 15 million K) classical physics says they would almost never touch. Tunnelling lets them fuse far more often. Without it the Sun would not shine at its current temperature and life would not exist. Gamow and others applied it to stars in the 1920s-30s.</p>"
+  },
+  {
+   "tag": "Technology",
+   "h": "Machines that tunnel",
+   "b": "<ul><li><b>Scanning tunnelling microscope.</b> Gerd Binnig and Heinrich Rohrer (IBM Zurich, 1981; Nobel 1986) measure the faint current that tunnels between a sharp tip and a surface. It maps single atoms.</li><li><b>Flash memory</b> traps electrons by tunnelling through thin insulators.</li><li><b>Tunnel diode</b> (Leo Esaki, 1957; Nobel 1973).</li><li><b>Superconducting qubits</b> use the Josephson junction, a tunnelling barrier.</li></ul>"
+  },
+  {
+   "tag": "How we know",
+   "h": "Nobel 2025",
+   "b": "<p>In 2025 the Nobel Prize in Physics went to John Clarke, Michel Devoret and John Martinis for showing quantum tunnelling in an electrical circuit large enough to hold in the hand (experiments in the mid-1980s). It proved tunnelling is not just for atoms but works for a whole circuit, and paved the way for superconducting quantum computers.</p>"
+  },
+  {
+   "tag": "Misconceptions",
+   "h": "Myths to drop",
+   "b": "<ul><li><b>\"The particle digs through.\"</b> There is no path inside the barrier. The wave simply has some size beyond it.</li><li><b>\"Tunnelling is faster than light.\"</b> Debated measurements of tunnelling time have not allowed signals faster than light.</li><li><b>\"I could tunnel through a wall.\"</b> The odds are absurdly tiny.</li></ul>"
+  },
+  {
+   "tag": "Indian angle",
+   "h": "Tunnelling in Indian labs",
+   "b": "<p>Scanning tunnelling microscopes are used in research at TIFR, IISc and the IITs to study new materials, including graphene and superconductors. Tunnelling junctions are the heart of the superconducting circuits being built in India under the National Quantum Mission.</p>"
+  },
+  {
+   "tag": "Recap",
+   "h": "Key takeaways and think-about-it",
+   "b": "<ul><li>Waves leak into barriers, so particles may appear beyond them.</li><li>It explains alpha decay (Gamow, 1928) and fusion in the Sun.</li><li>It powers STM, flash memory and superconducting qubits; 2025 Nobel Prize recognised it in circuits.</li></ul><div class=\"box\"><h4>Think about it</h4><ol><li>Why do electrons tunnel more easily than protons?</li><li>What would happen to the Sun's output without tunnelling?</li></ol></div>",
+   "cls": "exam"
+  }
+ ],
+ "quiz": [
+  {
+   "q": "Tunnelling occurs because:",
+   "o": [
+    "Particles dig tunnels",
+    "Particles gain energy from nowhere",
+    "Barriers are porous",
+    "The wavefunction leaks into and through barriers"
+   ],
+   "a": 3,
+   "w": "Born's rule gives a nonzero chance beyond."
+  },
+  {
+   "q": "The chance of tunnelling falls fastest when:",
+   "o": [
+    "The barrier is cold",
+    "The particle is lighter",
+    "The barrier is thinner",
+    "The barrier is thicker or the particle is heavier"
+   ],
+   "a": 3,
+   "w": "It falls exponentially."
+  },
+  {
+   "q": "Who explained alpha decay by tunnelling in 1928?",
+   "o": [
+    "Heisenberg",
+    "Pauli",
+    "George Gamow (with Gurney and Condon)",
+    "Rutherford"
+   ],
+   "a": 2,
+   "w": "A triumph for early quantum theory."
+  },
+  {
+   "q": "Why does fusion work in the Sun?",
+   "o": [
+    "Protons tunnel through their repulsion",
+    "Gravity pulls them in",
+    "Light pushes them",
+    "The Sun is hot enough classically"
+   ],
+   "a": 0,
+   "w": "Classical heat alone would be too little."
+  },
+  {
+   "q": "The scanning tunnelling microscope won the Nobel in:",
+   "o": [
+    "1986",
+    "2005",
+    "1921",
+    "1953"
+   ],
+   "a": 0,
+   "w": "Binnig and Rohrer invented it in 1981."
+  },
+  {
+   "q": "Flash memory relies on:",
+   "o": [
+    "Heat expanding",
+    "Magnets spinning",
+    "Light bouncing",
+    "Electrons tunnelling through thin insulators"
+   ],
+   "a": 3,
+   "w": "It traps charge."
+  },
+  {
+   "q": "Does a tunnelling particle gain energy to cross?",
+   "o": [
+    "Yes, from light",
+    "Yes, it borrows heavily",
+    "It loses all energy",
+    "No, it keeps its energy; its amplitude shrinks"
+   ],
+   "a": 3,
+   "w": "It never climbs the barrier."
+  },
+  {
+   "q": "The 2025 Physics Nobel recognised:",
+   "o": [
+    "Gravitational waves",
+    "Tunnelling in an electric circuit",
+    "Dark matter",
+    "The Higgs boson"
+   ],
+   "a": 1,
+   "w": "Clarke, Devoret and Martinis."
+  },
+  {
+   "q": "Why do heavy objects never tunnel visibly?",
+   "o": [
+    "They have no wave",
+    "Gravity forbids it",
+    "Barriers are hard",
+    "The chance becomes absurdly small"
+   ],
+   "a": 3,
+   "w": "Mass reduces the odds enormously."
+  },
+  {
+   "q": "Which quantum computer part uses a tunnelling barrier?",
+   "o": [
+    "Magnet",
+    "Josephson junction",
+    "Fan",
+    "Laser mirror"
+   ],
+   "a": 1,
+   "w": "The heart of superconducting qubits."
+  }
+ ],
+ "sources": [
+  "Gamow 1928",
+  "Binnig and Rohrer 1981",
+  "Nobel Prize in Physics 2025"
+ ],
+ "verified": "2026-11-11"
+}

@@ -6,7 +6,7 @@
   {
    "tag": "Why this matters",
    "h": "The instruction book of life",
-   "b": "<p>Every cell in your body holds about two metres of DNA, packed into a nucleus a few micrometres wide. It carries the recipe for you. Forensics, ancestry tests, vaccines and cancer drugs all begin here.</p>"
+   "b": "<p>Every cell in your body holds about two metres of DNA, packed into a nucleus a few micrometres wide. It carries the recipe for you. Forensics, ancestry tests, vaccines and cancer drugs all begin here.</p><p>Imagine a thread of DNA as long as a thin string: stretched out, the DNA from all your cells would reach to the Sun and back many times. A cell copes by winding DNA around proteins and coiling it tight, like a rope wound into a ball. The four letters A, T, G and C, written in a different order, hold the instructions for every protein. Friedrich Miescher first isolated DNA from pus cells in 1869, and Avery, MacLeod and McCarty showed in 1944 that it is the genetic material.</p>"
   },
   {
    "tag": "Core idea",
@@ -16,12 +16,12 @@
   {
    "tag": "Step by step",
    "h": "Chargaff's rules",
-   "b": "<p>Erwin Chargaff (1950) found that in any DNA, A equals T and G equals C in amount. This hinted at pairing: A-T by 2 hydrogen bonds, G-C by 3.</p>"
+   "b": "<p>Erwin Chargaff (1950) found that in any DNA, A equals T and G equals C in amount. This hinted at pairing: A-T by 2 hydrogen bonds, G-C by 3.</p><p>Chargaff's numbers made no sense until the structure was solved. Purines (A, G) are double-ringed and pyrimidines (T, C) single-ringed, so a pairing of one big and one small base keeps the width of the ladder constant, like rungs of equal length. This <b>complementary base pairing</b> is why one strand predicts the other: if one reads ATGC, the partner reads TACG. James Watson and Francis Crick used this rule, along with X-ray images from Rosalind Franklin and Maurice Wilkins, to propose the double helix in 1953.</p>"
   },
   {
    "tag": "Step by step",
    "h": "Strands run opposite",
-   "b": "<p>The two strands are <b>antiparallel</b>. One runs 5' to 3', the partner 3' to 5'. This matters for how DNA is copied.</p>"
+   "b": "<p>The two strands are <b>antiparallel</b>. One runs 5' to 3', the partner 3' to 5'. This matters for how DNA is copied.</p><p>Picture two lanes of a motorway running in opposite directions. The numbers 5' and 3' refer to carbon atoms on the sugar at each end of a strand. Enzymes can add new bases only to a 3' end, so one new strand (the <b>leading strand</b>) is made smoothly, while the other (the <b>lagging strand</b>) is made in short pieces called Okazaki fragments, named for Reiji Okazaki (1968). An enzyme called ligase then joins the pieces.</p>"
   },
   {
    "tag": "Step by step",
@@ -41,7 +41,7 @@
   {
    "tag": "Misconceptions",
    "h": "Watch out",
-   "b": "<div class=\"box\"><h4>Fix these</h4><ul><li>A gene is not the whole DNA; it is a stretch of it.</li><li>DNA is not the same as a chromosome; chromosomes are DNA wrapped on proteins.</li><li>Franklin's contribution is often understated.</li></ul></div>"
+   "b": "<div class=\"box\"><h4>Fix these</h4><ul><li>A gene is not the whole DNA; it is a stretch of it.</li><li>DNA is not the same as a chromosome; chromosomes are DNA wrapped on proteins.</li><li>Franklin's contribution is often understated.</li></ul></div><p>Also, DNA copying is <b>semi-conservative</b>: each new double helix keeps one old strand and one new, as proved by Meselson and Stahl in 1958 using heavy nitrogen. Franklin's Photo 51 gave the key clue of the helix, yet the Nobel Prize of 1962 went to Watson, Crick and Wilkins, and she had died in 1958.</p>"
   },
   {
    "tag": "Indian angle",

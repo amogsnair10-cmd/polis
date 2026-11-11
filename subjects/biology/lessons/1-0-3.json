@@ -6,7 +6,7 @@
   {
    "tag": "Why this matters",
    "h": "Same DNA, different cells",
-   "b": "<p>A nerve cell and a liver cell have the same DNA, yet look and work completely differently. The reason is that each cell switches on only the genes it needs. Regulation explains development, cancer and why identical twins drift apart.</p>"
+   "b": "<p>A nerve cell and a liver cell have the same DNA, yet look and work completely differently. The reason is that each cell switches on only the genes it needs. Regulation explains development, cancer and why identical twins drift apart.</p><p>Your body has around 200 cell types, all with the same roughly 20,000 genes. Think of the genome as a huge library of which each cell borrows only the books it needs: a liver cell reads the books on detoxifying, a nerve cell reads those on signalling. Regulation also acts like a dimmer, not just an on-off switch, setting how much of each protein is made and when. François Jacob and Jacques Monod worked out the first such system in bacteria in 1961.</p>"
   },
   {
    "tag": "Core idea",
@@ -21,7 +21,7 @@
   {
    "tag": "Step by step",
    "h": "Switches in complex cells",
-   "b": "<p>Eukaryotes use <b>transcription factors</b>, proteins that bind promoters and distant <b>enhancers</b>. Hormones like oestrogen act this way. A master gene, like Hox genes, can set the body plan: wrong switch, extra legs on a fly.</p>"
+   "b": "<p>Eukaryotes use <b>transcription factors</b>, proteins that bind promoters and distant <b>enhancers</b>. Hormones like oestrogen act this way. A master gene, like Hox genes, can set the body plan: wrong switch, extra legs on a fly.</p><p>Think of an enhancer as a volume knob far from the speaker but linked by a wire: DNA can loop so that a distant enhancer meets the promoter. Transcription factors work in teams, so a few dozen can create thousands of different patterns, like chords on a piano. Hox genes, found by Edward Lewis and others in fruit flies, are arranged along the chromosome in the same order as the body regions they control, and similar genes shape the human body plan too.</p>"
   },
   {
    "tag": "Step by step",
@@ -31,22 +31,22 @@
   {
    "tag": "Step by step",
    "h": "Small RNAs",
-   "b": "<p>Tiny RNA molecules (microRNA, siRNA) can block mRNA and silence genes. Andrew Fire and Craig Mello discovered RNA interference in 1998 (Nobel 2006). Ambros and Ruvkun found microRNA (Nobel 2024).</p>"
+   "b": "<p>Tiny RNA molecules (microRNA, siRNA) can block mRNA and silence genes. Andrew Fire and Craig Mello discovered RNA interference in 1998 (Nobel 2006). Ambros and Ruvkun found microRNA (Nobel 2024).</p><p>Small RNAs work like a molecular 'delete' key. A short RNA pairs with a matching mRNA, and an enzyme complex then cuts it or blocks it from being read. Humans have over 2,000 microRNAs, which together help control most of our genes. RNA interference was first seen in worms, and it is now a tool in the lab and the basis of some approved drugs for rare diseases.</p>"
   },
   {
    "tag": "How we know",
    "h": "Famine and identical twins",
-   "b": "<p>People born after the Dutch Hunger Winter of 1944-45 showed different methylation decades later and higher risk of some diseases. Identical twins gain different marks with age, diet and smoking. Dolly the sheep (1996) showed an adult cell's genes can be reset.</p>"
+   "b": "<p>People born after the Dutch Hunger Winter of 1944-45 showed different methylation decades later and higher risk of some diseases. Identical twins gain different marks with age, diet and smoking. Dolly the sheep (1996) showed an adult cell's genes can be reset.</p><p>Methylation means attaching a small methyl group to DNA, usually where a C is followed by a G. When a promoter is methylated, the gene tends to be silenced, like a lock on a door. Histone tags can open or close chromatin similarly. Studies of the Hunger Winter found those exposed in early pregnancy had less methylation near a growth gene (IGF2), decades later. The sequence stays the same, but the setting changes.</p>"
   },
   {
    "tag": "Misconceptions",
    "h": "Watch out",
-   "b": "<div class=\"box\"><h4>Fix these</h4><ul><li>Epigenetic marks are not mutations; the sequence is unchanged.</li><li>Not all marks pass to children; most are erased in eggs and sperm.</li><li>Epigenetics does not mean you can will your genes to change.</li></ul></div>"
+   "b": "<div class=\"box\"><h4>Fix these</h4><ul><li>Epigenetic marks are not mutations; the sequence is unchanged.</li><li>Not all marks pass to children; most are erased in eggs and sperm.</li><li>Epigenetics does not mean you can will your genes to change.</li></ul></div><p>Also, epigenetic marks are reversible, which makes them a target for some cancer drugs. X-chromosome inactivation is a clear example: in each female cell, one X is silenced by methylation and coiled up, so tortoiseshell cats show patchy colour, as Mary Lyon proposed in 1961.</p><p>Also, epigenetic marks are reversible, which makes them a target for some cancer drugs. X-chromosome inactivation is a clear example: in each female cell one X is silenced by methylation and coiled up, so tortoiseshell cats show patchy colour (Mary Lyon, 1961). Lifestyle can shift marks, but not by wishing.</p>"
   },
   {
    "tag": "Indian angle",
    "h": "Cancer, diet and Indian research",
-   "b": "<p>Abnormal methylation can silence tumour-suppressor genes in cancers. Indian labs, including the Institute of Genomics and Integrative Biology in Delhi, study gene regulation in disease. Indian population studies on diabetes link early-life nutrition to later risk, an idea called developmental programming.</p>"
+   "b": "<p>Abnormal methylation can silence tumour-suppressor genes in cancers. Indian labs, including the Institute of Genomics and Integrative Biology in Delhi, study gene regulation in disease. Indian population studies on diabetes link early-life nutrition to later risk, an idea called developmental programming.</p><p>Hypermethylation of tumour-suppressor genes such as <i>MLH1</i> is seen in some bowel cancers, and tests look for these marks in blood and stool. Epidemiology also suggests that babies born small and then well fed may be more prone to type 2 diabetes later (the 'thrifty phenotype' idea of Hales and Barker), a concern in India.</p>"
   },
   {
    "tag": "Recap",

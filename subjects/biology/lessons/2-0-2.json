@@ -6,12 +6,12 @@
   {
    "tag": "Why this matters",
    "h": "How one becomes many",
-   "b": "<p>Life on Earth has millions of species, yet all come from one common ancestor. Understanding how species split and how we group them gives a map of life, and helps in conservation and medicine.</p>"
+   "b": "<p>Life on Earth has millions of species, yet all come from one common ancestor. Understanding how species split and how we group them gives a map of life, and helps in conservation and medicine.</p><p>Count it: scientists have named about 2 million species, and the true total may be many millions more. Each new species begins when one population splits into two that no longer exchange genes. The 'map' is a tree, with branches for each split and the common ancestor at the base. Reading it lets doctors pick model animals, farmers find wild crop relatives, and conservationists decide which lineages are most distinct and need protecting.</p>"
   },
   {
    "tag": "Core idea",
    "h": "What is a species?",
-   "b": "<p>Ernst Mayr's biological species concept (1942): a group of populations that interbreed in nature and are reproductively isolated from others. It is not perfect: it fails for asexual organisms and fossils, where shape or genes are used.</p>"
+   "b": "<p>Ernst Mayr's biological species concept (1942): a group of populations that interbreed in nature and are reproductively isolated from others. It is not perfect: it fails for asexual organisms and fossils, where shape or genes are used.</p><p>Think of Mayr's definition as a test of whether two groups would act as one family. Lions and tigers can produce hybrids in captivity, yet they stay separate in the wild, so they count as distinct species. The idea fails for bacteria, which copy themselves, and for fossils, since we cannot test their mating. Carl Linnaeus, in the 1750s, started the naming system of two Latin words, such as <i>Homo sapiens</i>, based on shared features.</p>"
   },
   {
    "tag": "Step by step",
@@ -21,12 +21,12 @@
   {
    "tag": "Step by step",
    "h": "Reproductive barriers",
-   "b": "<ul><li><b>Before mating:</b> different habitat, timing, courtship or body shape.</li><li><b>After mating:</b> hybrids are weak or sterile. The mule (horse x donkey) is sterile.</li></ul><p>Sympatric speciation, with no barrier, happens in plants through chromosome doubling (polyploidy), and in some fish by habitat choice.</p>"
+   "b": "<ul><li><b>Before mating:</b> different habitat, timing, courtship or body shape.</li><li><b>After mating:</b> hybrids are weak or sterile. The mule (horse x donkey) is sterile.</li></ul><p>Sympatric speciation, with no barrier, happens in plants through chromosome doubling (polyploidy), and in some fish by habitat choice.</p><p>Barriers act like locks on different doors. Two frog species may breed at different seasons, or sing different calls that females ignore. Even if they mate, the embryo may fail. The mule is sterile because horse and donkey differ in chromosome number (64 and 62), so the chromosomes cannot pair in meiosis. Wheat is a natural polyploid, formed by hybridisation and doubling, and is one reason a new plant species can appear in a single generation.</p>"
   },
   {
    "tag": "Step by step",
    "h": "Adaptive radiation",
-   "b": "<p>When a lineage enters many open habitats it splits quickly into many forms. Darwin's finches in the Galapagos and the cichlid fishes of African lakes are classic cases. After the dinosaur extinction about 66 million years ago, mammals radiated.</p>"
+   "b": "<p>When a lineage enters many open habitats it splits quickly into many forms. Darwin's finches in the Galapagos and the cichlid fishes of African lakes are classic cases. After the dinosaur extinction about 66 million years ago, mammals radiated.</p><p>Think of a newly cleared field: an arriving lineage can try many ways of life without competition. Darwin's finches descend from one arrival about 2 million years ago and now include seed-crackers, insect-eaters and a blood-feeder. Cichlids in Lake Victoria produced hundreds of species in under 15,000 years. Likewise, after the asteroid impact that ended the non-bird dinosaurs, mammals expanded into new forms, from bats to whales.</p>"
   },
   {
    "tag": "Step by step",
@@ -36,17 +36,17 @@
   {
    "tag": "Step by step",
    "h": "Extinction",
-   "b": "<p>More than 99 percent of species that ever lived are extinct. Five mass extinctions are known; the end-Permian (about 252 million years ago) killed up to 90 percent of marine species. Many scientists say we are in a sixth, driven by humans.</p>"
+   "b": "<p>More than 99 percent of species that ever lived are extinct. Five mass extinctions are known; the end-Permian (about 252 million years ago) killed up to 90 percent of marine species. Many scientists say we are in a sixth, driven by humans.</p><p>Extinction is the normal end of species; the average lifespan of a species is roughly 1 to 10 million years. Mass extinctions are bursts where huge numbers disappear in a short geological time. The end-Cretaceous event (about 66 million years ago) followed an asteroid that struck Chicxulub, as proposed by Luis and Walter Alvarez in 1980 from iridium in rock, and the Deccan volcanoes of India may also have played a role. Current extinction rates are far above the background, due to habitat loss, hunting, invasive species and climate change.</p>"
   },
   {
    "tag": "How we know",
    "h": "Evidence for splits",
-   "b": "<p>Hawaiian fruit flies and island lizards show species forming. Ring species such as the Ensatina salamanders in California show neighbours can breed while the ends cannot. DNA clocks estimate when lineages split.</p>"
+   "b": "<p>Hawaiian fruit flies and island lizards show species forming. Ring species such as the Ensatina salamanders in California show neighbours can breed while the ends cannot. DNA clocks estimate when lineages split.</p><p>Hawaii holds hundreds of fruit-fly species descended from a few colonists. Ring species show speciation in action: the Ensatina salamanders circle California's Central Valley, with neighbours interbreeding but the two ends of the ring, where they meet in the south, not mating. The <b>molecular clock</b> counts accumulated DNA changes, which build up at a roughly steady rate, to date splits, calibrated by fossils.</p>"
   },
   {
    "tag": "Misconceptions",
    "h": "Watch out",
-   "b": "<div class=\"box\"><h4>Fix these</h4><ul><li>A tree of life is not a ladder; humans are not the 'top'.</li><li>Species do not 'try' to split.</li><li>Modern animals are not ancestors of each other; they are cousins.</li></ul></div>"
+   "b": "<div class=\"box\"><h4>Fix these</h4><ul><li>A tree of life is not a ladder; humans are not the 'top'.</li><li>Species do not 'try' to split.</li><li>Modern animals are not ancestors of each other; they are cousins.</li></ul></div><p>Also, 'primitive' and 'advanced' are poor words: bacteria alive today have evolved for the same length of time as we have. Carl Woese, in 1977, used rRNA to show that life has three domains and that archaea are as distinct from bacteria as from us.</p><p>Also, 'primitive' and 'advanced' are poor words: bacteria alive today have evolved for as long as we have. Carl Woese, in 1977, used rRNA to show that life has three domains, and that archaea are as distinct from bacteria as from us.</p>"
   },
   {
    "tag": "Indian angle",
@@ -56,7 +56,7 @@
   {
    "tag": "Recap",
    "h": "Key takeaways and questions",
-   "b": "<ul><li>Species: reproductively isolated groups.</li><li>Isolation plus divergence leads to speciation.</li><li>Three domains: Bacteria, Archaea, Eukarya.</li><li>Extinction is normal but is now accelerating.</li></ul><p><b>Think about it:</b></p><ol><li>Why do islands have so many unique species?</li><li>Why is a mule sterile although it is healthy?</li></ol>",
+   "b": "<ul><li>Species: reproductively isolated groups.</li><li>Isolation plus divergence leads to speciation.</li><li>Three domains: Bacteria, Archaea, Eukarya.</li><li>Extinction is normal but is now accelerating.</li></ul><p><b>Think about it:</b></p><ol><li>Why do islands have so many unique species?</li><li>Why is a mule sterile although it is healthy?</li></ol><p><b>Key terms:</b> <b>allopatric</b> speciation follows geographic separation; <b>sympatric</b> occurs in the same area. <b>Reproductive isolation</b> keeps gene pools apart, and <b>adaptive radiation</b> is a burst of new forms. In the tree, <b>clades</b> are a common ancestor with all its descendants. Islands hold many unique species because small, isolated populations diverge by selection and drift.</p>",
    "cls": "exam"
   }
  ],

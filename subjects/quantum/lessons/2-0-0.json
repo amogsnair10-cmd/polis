@@ -1,0 +1,177 @@
+{
+ "id": "2-0-0",
+ "title": "Entanglement and the EPR Paradox",
+ "emoji": "🔗",
+ "cards": [
+  {
+   "tag": "Why this matters",
+   "h": "\"Spooky action at a distance\"",
+   "b": "<p>Two particles can be prepared so that their properties are linked, however far apart they go. Measure one and you instantly know the other. This <b>entanglement</b> puzzled Einstein for life, and is now the engine of quantum computing and secure communication.</p>"
+  },
+  {
+   "tag": "Entanglement",
+   "h": "What it is",
+   "b": "<p>Take two electrons made together with opposite spins. Their combined state is definite (total spin zero), but neither has its own spin before measuring. Measure one along any axis and you get \"up\" or \"down\" at random, and the other always gives the opposite along that same axis.</p><svg class=\"d\" viewBox=\"0 0 320 150\"><defs><marker id=\"m200\" viewBox=\"0 0 10 10\" refX=\"9\" refY=\"5\" markerWidth=\"6\" markerHeight=\"6\" orient=\"auto\"><path d=\"M0,0L10,5L0,10z\" fill=\"#5d6474\"/></marker></defs><rect x=\"115\" y=\"5\" width=\"90\" height=\"36\" rx=\"6\" fill=\"#f1e4c6\" stroke=\"#a8792a\"/><text x=\"160.0\" y=\"19.8\" font-size=\"10\" fill=\"#1d2433\" text-anchor=\"middle\">source makes</text><text x=\"160.0\" y=\"32.8\" font-size=\"10\" fill=\"#1d2433\" text-anchor=\"middle\">a linked pair</text><line x1=\"130\" y1=\"43\" x2=\"50\" y2=\"80\" stroke=\"#5d6474\" stroke-width=\"1.5\" marker-end=\"url(#m200)\"/><line x1=\"190\" y1=\"43\" x2=\"270\" y2=\"80\" stroke=\"#5d6474\" stroke-width=\"1.5\" marker-end=\"url(#m200)\"/><rect x=\"5\" y=\"82\" width=\"100\" height=\"36\" rx=\"6\" fill=\"#dceaec\" stroke=\"#2f6f7a\"/><text x=\"55.0\" y=\"96.8\" font-size=\"10\" fill=\"#1d2433\" text-anchor=\"middle\">Alice measures</text><text x=\"55.0\" y=\"109.8\" font-size=\"10\" fill=\"#1d2433\" text-anchor=\"middle\">result: UP</text><rect x=\"215\" y=\"82\" width=\"100\" height=\"36\" rx=\"6\" fill=\"#f4dcd5\" stroke=\"#a3362a\"/><text x=\"265.0\" y=\"96.8\" font-size=\"10\" fill=\"#1d2433\" text-anchor=\"middle\">Bob measures</text><text x=\"265.0\" y=\"109.8\" font-size=\"10\" fill=\"#1d2433\" text-anchor=\"middle\">result: DOWN</text><text x=\"160\" y=\"105\" font-size=\"10\" fill=\"#5d6474\" text-anchor=\"middle\">far apart</text><text x=\"160\" y=\"140\" font-size=\"10\" fill=\"#5d6474\" text-anchor=\"middle\">Each result alone is random; they always match</text></svg><p>Erwin Schrödinger named it \"entanglement\" (Verschraenkung) in 1935, calling it the characteristic feature of quantum theory.</p>"
+  },
+  {
+   "tag": "EPR",
+   "h": "The 1935 challenge",
+   "b": "<p>Albert Einstein, Boris Podolsky and Nathan Rosen published \"Can quantum-mechanical description of physical reality be considered complete?\" in 1935. Their argument, in plain steps:</p><ol><li>Distant measurements cannot disturb each other (locality).</li><li>If you can predict a result with certainty without disturbing the system, then it has an \"element of reality\" (realism).</li><li>By measuring Alice's particle you can predict Bob's without touching it.</li><li>So Bob's particle had a definite value all along, and quantum theory, which lacks it, is incomplete.</li></ol>"
+  },
+  {
+   "tag": "Analogy",
+   "h": "The two gloves",
+   "b": "<p>Put a left and a right glove in two sealed boxes and mail them far apart. Opening one and seeing \"left\" tells you the other is \"right\". Nothing spooky: the glove was always left.</p><p>EPR's hope was that entangled particles were like gloves: hidden values fixed from the start. <b>Where the analogy breaks:</b> Bell's theorem (next lesson) shows real particles cannot be that simple, once you test different measurement directions.</p>"
+  },
+  {
+   "tag": "The reply",
+   "h": "Bohr and the debate",
+   "b": "<p>Niels Bohr replied in 1935 that the very idea of \"elements of reality\" independent of the measurement set-up was too naive. For decades this seemed a matter of taste. Einstein, writing to Max Born in 1947, called it \"spooky action at a distance\" (spukhafte Fernwirkung). In 1951 David Bohm gave a simpler spin version, which is the one used in experiments.</p>"
+  },
+  {
+   "tag": "No signals",
+   "h": "Why relativity survives",
+   "b": "<p>Alice cannot use entanglement to send a message. Her own results are random; only when she later compares notes with Bob (by ordinary means, no faster than light) does she see the match. So no faster-than-light signalling occurs, and relativity is safe. Whether there is \"something\" travelling is the point of debate.</p>"
+  },
+  {
+   "tag": "How we know",
+   "h": "Experiments",
+   "b": "<p>Entangled photon pairs are made routinely (for example by shining a laser on a special crystal). John Clauser and Stuart Freedman (1972) and Alain Aspect (1982) tested them, and in 2015 several labs closed the gaps (see the Bell lesson). Entanglement has been spread over 1,200 km by China's Micius satellite (Yin et al., Science, 2017).</p>"
+  },
+  {
+   "tag": "Misconceptions",
+   "h": "Myths to drop",
+   "b": "<ul><li><b>\"Entanglement sends information faster than light.\"</b> It cannot.</li><li><b>\"Entangled particles are connected by a tiny wire.\"</b> No signal-carrying link is found; the link is in the shared state.</li><li><b>\"Only exotic particles can be entangled.\"</b> Photons, electrons, atoms, even diamonds and tiny drums have been.</li></ul>"
+  },
+  {
+   "tag": "Indian angle",
+   "h": "Indian entanglement research",
+   "b": "<p>Indian groups at the Raman Research Institute (Bengaluru), the Harish-Chandra Research Institute (Prayagraj), the Indian Statistical Institute (Kolkata), IMSc Chennai and PRL Ahmedabad study entanglement in theory and experiment. The National Quantum Mission includes entanglement-based quantum communication, including satellite links, as a target.</p>"
+  },
+  {
+   "tag": "Recap",
+   "h": "Key takeaways and think-about-it",
+   "b": "<ul><li>Entangled particles share a state that is definite as a pair but not for each one.</li><li>EPR (1935) argued quantum theory is incomplete; Schrödinger coined \"entanglement\".</li><li>No usable signal is sent faster than light.</li></ul><div class=\"box\"><h4>Think about it</h4><ol><li>How do the glove-in-a-box and entangled spins differ in what a test of other directions would show?</li><li>Why can Alice not use her measurement to send Bob a message?</li></ol></div>",
+   "cls": "exam"
+  }
+ ],
+ "quiz": [
+  {
+   "q": "Who coined the word \"entanglement\" in 1935?",
+   "o": [
+    "Bell",
+    "Bohr",
+    "Einstein",
+    "Erwin Schrödinger"
+   ],
+   "a": 3,
+   "w": "Verschraenkung."
+  },
+  {
+   "q": "The EPR paper (1935) argued that quantum theory is:",
+   "o": [
+    "Incomplete",
+    "Proven complete",
+    "Unrelated to reality",
+    "Wrong in all cases"
+   ],
+   "a": 0,
+   "w": "It was meant to show missing elements."
+  },
+  {
+   "q": "Measuring one of an entangled pair gives:",
+   "o": [
+    "A result that changes the partner's mass",
+    "A random result that matches the partner's",
+    "No result",
+    "A predictable result"
+   ],
+   "a": 1,
+   "w": "Each alone is random."
+  },
+  {
+   "q": "Why can entanglement not carry a message?",
+   "o": [
+    "It needs a wire",
+    "Particles are too slow",
+    "Each side's results alone look random",
+    "Light blocks it"
+   ],
+   "a": 2,
+   "w": "Comparison requires ordinary communication."
+  },
+  {
+   "q": "Einstein's phrase \"spooky action at a distance\" appears in a letter to:",
+   "o": [
+    "Heisenberg",
+    "Bohr",
+    "Max Born (1947)",
+    "Planck"
+   ],
+   "a": 2,
+   "w": "He used it for entanglement."
+  },
+  {
+   "q": "The glove analogy represents:",
+   "o": [
+    "Spin",
+    "Hidden values fixed from the start",
+    "Superposition",
+    "Tunnelling"
+   ],
+   "a": 1,
+   "w": "This is the local hidden variable idea."
+  },
+  {
+   "q": "Which satellite spread entanglement over 1,200 km in 2017?",
+   "o": [
+    "Sputnik",
+    "Micius",
+    "Chandrayaan",
+    "Hubble"
+   ],
+   "a": 1,
+   "w": "Yin et al., Science."
+  },
+  {
+   "q": "What does \"locality\" mean in the EPR argument?",
+   "o": [
+    "Atoms are local",
+    "Distant measurements cannot disturb each other",
+    "Light is slow",
+    "All things are nearby"
+   ],
+   "a": 1,
+   "w": "No instant influence."
+  },
+  {
+   "q": "Who gave the simpler spin version of EPR in 1951?",
+   "o": [
+    "David Bohm",
+    "Dirac",
+    "Born",
+    "Raman"
+   ],
+   "a": 0,
+   "w": "It is the form used in tests."
+  },
+  {
+   "q": "Can only photons be entangled?",
+   "o": [
+    "No, atoms, electrons and even larger objects can",
+    "Only electrons",
+    "Only neutrinos",
+    "Yes"
+   ],
+   "a": 0,
+   "w": "Entanglement is general."
+  }
+ ],
+ "sources": [
+  "Einstein, Podolsky and Rosen 1935",
+  "Schrödinger 1935",
+  "Bohm 1951",
+  "Yin et al. Science 2017"
+ ],
+ "verified": "2026-11-11"
+}

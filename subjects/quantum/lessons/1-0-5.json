@@ -1,0 +1,176 @@
+{
+ "id": "1-0-5",
+ "title": "Spin and the Stern-Gerlach Experiment",
+ "emoji": "🧲",
+ "cards": [
+  {
+   "tag": "Why this matters",
+   "h": "A property with no everyday twin",
+   "b": "<p>Electrons have a built-in property called <b>spin</b>. It makes them tiny magnets, and it decides how atoms stack into the periodic table, how magnets work and how MRI scanners see inside the body.</p><p>The experiment that revealed its strangeness, in 1922, was done before anyone knew what spin was.</p>"
+  },
+  {
+   "tag": "The experiment",
+   "h": "Stern and Gerlach (1922)",
+   "b": "<p>Otto Stern and Walther Gerlach in Frankfurt sent a beam of silver atoms through a magnetic field that is stronger on one side. A little compass-like atom is pushed up or down according to which way its magnet points.</p><svg class=\"d\" viewBox=\"0 0 320 170\"><defs><marker id=\"m105\" viewBox=\"0 0 10 10\" refX=\"9\" refY=\"5\" markerWidth=\"6\" markerHeight=\"6\" orient=\"auto\"><path d=\"M0,0L10,5L0,10z\" fill=\"#5d6474\"/></marker></defs><rect x=\"5\" y=\"65\" width=\"55\" height=\"40\" rx=\"6\" fill=\"#f1e4c6\" stroke=\"#a8792a\"/><text x=\"32.5\" y=\"81.8\" font-size=\"10\" fill=\"#1d2433\" text-anchor=\"middle\">silver</text><text x=\"32.5\" y=\"94.8\" font-size=\"10\" fill=\"#1d2433\" text-anchor=\"middle\">atoms</text><line x1=\"62\" y1=\"85\" x2=\"100\" y2=\"85\" stroke=\"#5d6474\" stroke-width=\"1.5\" marker-end=\"url(#m105)\"/><rect x=\"102\" y=\"50\" width=\"60\" height=\"70\" rx=\"6\" fill=\"#ffffff\" stroke=\"#5d6474\"/><text x=\"132.0\" y=\"81.8\" font-size=\"10\" fill=\"#1d2433\" text-anchor=\"middle\">uneven</text><text x=\"132.0\" y=\"94.8\" font-size=\"10\" fill=\"#1d2433\" text-anchor=\"middle\">magnet</text><line x1=\"165\" y1=\"75\" x2=\"230\" y2=\"35\" stroke=\"#5d6474\" stroke-width=\"1.5\" marker-end=\"url(#m105)\"/><line x1=\"165\" y1=\"95\" x2=\"230\" y2=\"135\" stroke=\"#5d6474\" stroke-width=\"1.5\" marker-end=\"url(#m105)\"/><text x=\"268\" y=\"38\" font-size=\"10\" fill=\"#2f6f7a\" text-anchor=\"middle\">spot \"up\"</text><text x=\"268\" y=\"140\" font-size=\"10\" fill=\"#a3362a\" text-anchor=\"middle\">spot \"down\"</text><text x=\"262\" y=\"88\" font-size=\"10\" fill=\"#5d6474\" text-anchor=\"middle\">nothing between</text><text x=\"160\" y=\"165\" font-size=\"10\" fill=\"#5d6474\" text-anchor=\"middle\">Classical spinning magnets would smear into a band</text></svg><p>If the atoms' tiny magnets pointed in random directions, you would expect a smear. Instead there were <b>two</b> clean spots. The magnetic direction is quantised: only two options.</p>"
+  },
+  {
+   "tag": "What spin is",
+   "h": "Two answers only",
+   "b": "<p>Spin was named in 1925 by George Uhlenbeck and Samuel Goudsmit, building on Wolfgang Pauli's \"two-valuedness\" of electrons (1924). Paul Dirac in 1928 showed it falls out of relativity. The electron has spin one-half: measured along any chosen direction, you find \"up\" or \"down\", never in-between.</p><p><b>Analogy breaks:</b> it is not a ball spinning. An electron as a tiny ball would need to spin faster than light to produce this magnetism. Spin is an intrinsic quantum property.</p>"
+  },
+  {
+   "tag": "The surprise",
+   "h": "Sequential tests",
+   "b": "<p>Chain several Stern-Gerlach magnets. Pass only \"up along z\" atoms, then test sideways (x): 50-50 up or down. Now take the \"x up\" atoms and test z again: you again get 50-50 up/down, even though we had selected only \"z up\" before!</p><p>The sideways test erased the earlier information. Spin along z and along x cannot both be sharp, like position and momentum (see the uncertainty lesson). This is a clean example of superposition: \"up along x\" is an equal mix of \"z up\" and \"z down\".</p>"
+  },
+  {
+   "tag": "Families",
+   "h": "Bosons and fermions",
+   "b": "<p>Every particle has a fixed spin. Spin-half particles (electrons, protons, neutrons, quarks) are <b>fermions</b>. Particles with whole-number spin (photon: 1; Higgs: 0) are <b>bosons</b>. This difference rules whether particles can share a state (next lessons). A spin-half particle must be turned by two full circles (720°) to return to its starting state: an odd fact confirmed with neutrons in the 1970s.</p>"
+  },
+  {
+   "tag": "Uses",
+   "h": "Spin at work",
+   "b": "<ul><li><b>MRI.</b> Hydrogen nuclei (protons) have spin. In a strong magnetic field they line up; radio pulses flip them and the signals map tissue (Lauterbur and Mansfield, Nobel 2003).</li><li><b>Hard drives and memory</b> read magnetic spin (spintronics; Fert and Gruenberg, Nobel 2007).</li><li><b>Qubits.</b> Spin up/down can be a quantum bit.</li></ul>"
+  },
+  {
+   "tag": "How we know",
+   "h": "Evidence",
+   "b": "<p>Stern-Gerlach with many atoms; fine splitting of spectral lines (Zeeman and fine-structure effects); electron-spin resonance; the structure of the periodic table. Stern received the 1943 Nobel for this work, and Rabi the 1944 Nobel for magnetic resonance of spins.</p>"
+  },
+  {
+   "tag": "Misconceptions",
+   "h": "Myths to drop",
+   "b": "<ul><li><b>\"Spin means rotating.\"</b> It behaves like angular momentum, but nothing spins.</li><li><b>\"The up/down direction is built in before measuring.\"</b> The sequential test shows it is not.</li><li><b>\"Particles with spin-zero have no properties.\"</b> They simply lack that magnetism.</li></ul>"
+  },
+  {
+   "tag": "Indian angle",
+   "h": "Bose and bosons",
+   "b": "<p>Particles with whole-number spin are named <b>bosons</b> after S.N. Bose, the name coined by Paul Dirac. Bose's counting for photons (spin 1) applies to all of them. Nuclear magnetic resonance and MRI are widely used in India, and spin-based quantum devices are a research thrust in NQM hubs at IIT Bombay (sensing) and TIFR.</p>"
+  },
+  {
+   "tag": "Recap",
+   "h": "Key takeaways and think-about-it",
+   "b": "<ul><li>Stern-Gerlach (1922): silver atoms split into two spots, so magnetic direction is quantised.</li><li>Spin is intrinsic, not a spinning ball.</li><li>Spin along different axes cannot both be sharp.</li></ul><div class=\"box\"><h4>Think about it</h4><ol><li>Why does a second test along z give 50-50 again after an x test?</li><li>Why can an electron's spin not be due to a literally spinning ball?</li></ol></div>",
+   "cls": "exam"
+  }
+ ],
+ "quiz": [
+  {
+   "q": "Stern and Gerlach found that silver atoms split into:",
+   "o": [
+    "Three spots",
+    "Two spots",
+    "One spot",
+    "A smear"
+   ],
+   "a": 1,
+   "w": "Direction is quantised."
+  },
+  {
+   "q": "Spin was named in 1925 by:",
+   "o": [
+    "Uhlenbeck and Goudsmit",
+    "Bohr and Planck",
+    "Stern and Gerlach",
+    "Raman and Krishnan"
+   ],
+   "a": 0,
+   "w": "Building on Pauli's two-valuedness."
+  },
+  {
+   "q": "An electron has spin:",
+   "o": [
+    "Zero",
+    "One",
+    "Two",
+    "One-half"
+   ],
+   "a": 3,
+   "w": "Making it a fermion."
+  },
+  {
+   "q": "After selecting \"z up\", then testing x, then testing z again, you get:",
+   "o": [
+    "Always z down",
+    "50-50 up and down",
+    "Always z up",
+    "No atoms"
+   ],
+   "a": 1,
+   "w": "The x test erases the earlier z information."
+  },
+  {
+   "q": "Is spin a ball spinning?",
+   "o": [
+    "Yes, exactly",
+    "Only for photons",
+    "No, it is an intrinsic quantum property",
+    "Only in magnets"
+   ],
+   "a": 2,
+   "w": "A ball model would need superluminal speeds."
+  },
+  {
+   "q": "Particles of whole-number spin are called:",
+   "o": [
+    "Quarks",
+    "Bosons",
+    "Leptons",
+    "Fermions"
+   ],
+   "a": 1,
+   "w": "After S.N. Bose."
+  },
+  {
+   "q": "Which technology uses nuclear spin?",
+   "o": [
+    "MRI",
+    "Steam engine",
+    "Radio only",
+    "Bicycle"
+   ],
+   "a": 0,
+   "w": "Protons align and flip in a magnet."
+  },
+  {
+   "q": "Dirac in 1928 showed spin arises from:",
+   "o": [
+    "Combining quantum theory with relativity",
+    "Thermodynamics",
+    "Gravity",
+    "Chemistry"
+   ],
+   "a": 0,
+   "w": "Spin emerged naturally from his equation."
+  },
+  {
+   "q": "How far must a spin-half particle be rotated to return to its starting state?",
+   "o": [
+    "180 degrees",
+    "720 degrees",
+    "90 degrees",
+    "360 degrees"
+   ],
+   "a": 1,
+   "w": "A strange but tested fact."
+  },
+  {
+   "q": "The photon has spin:",
+   "o": [
+    "1/2",
+    "3/2",
+    "0",
+    "1"
+   ],
+   "a": 3,
+   "w": "Photons are bosons."
+  }
+ ],
+ "sources": [
+  "Stern and Gerlach 1922",
+  "Uhlenbeck and Goudsmit 1925",
+  "Dirac 1928"
+ ],
+ "verified": "2026-11-11"
+}

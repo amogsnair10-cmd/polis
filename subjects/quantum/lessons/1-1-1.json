@@ -1,0 +1,177 @@
+{
+ "id": "1-1-1",
+ "title": "Bosons, Fermions and Bose-Einstein Condensates",
+ "emoji": "🧊",
+ "cards": [
+  {
+   "tag": "Why this matters",
+   "h": "Two kinds of particle",
+   "b": "<p>All identical particles in nature fall into two families that behave in opposite ways: <b>fermions</b> refuse to share a state, <b>bosons</b> love to. That single difference explains why matter is solid, why lasers exist, why stars do not collapse and why liquid helium creeps up walls.</p>"
+  },
+  {
+   "tag": "Identical",
+   "h": "No name tags",
+   "b": "<p>Two electrons are exactly identical, not just similar. Swap them and nothing changes. Quantum theory says the wavefunction of two identical particles either keeps its sign (bosons) or flips it (fermions) when they are swapped. If it flips, putting both in the same state would give zero: so fermions are barred from sharing. That is the Pauli principle.</p><svg class=\"d\" viewBox=\"0 0 320 150\"><defs><marker id=\"m111\" viewBox=\"0 0 10 10\" refX=\"9\" refY=\"5\" markerWidth=\"6\" markerHeight=\"6\" orient=\"auto\"><path d=\"M0,0L10,5L0,10z\" fill=\"#5d6474\"/></marker></defs><rect x=\"5\" y=\"10\" width=\"150\" height=\"40\" rx=\"6\" fill=\"#f4dcd5\" stroke=\"#a3362a\"/><text x=\"80.0\" y=\"26.8\" font-size=\"10\" fill=\"#1d2433\" text-anchor=\"middle\">FERMIONS: one per state</text><text x=\"80.0\" y=\"39.8\" font-size=\"10\" fill=\"#1d2433\" text-anchor=\"middle\">electron, proton, neutron</text><rect x=\"165\" y=\"10\" width=\"150\" height=\"40\" rx=\"6\" fill=\"#dceaec\" stroke=\"#2f6f7a\"/><text x=\"240.0\" y=\"26.8\" font-size=\"10\" fill=\"#1d2433\" text-anchor=\"middle\">BOSONS: share a state</text><text x=\"240.0\" y=\"39.8\" font-size=\"10\" fill=\"#1d2433\" text-anchor=\"middle\">photon, Higgs, helium-4</text><line x1=\"30\" y1=\"120\" x2=\"140\" y2=\"120\" stroke=\"#5d6474\" stroke-width=\"1.5\"/><line x1=\"30\" y1=\"100\" x2=\"140\" y2=\"100\" stroke=\"#5d6474\" stroke-width=\"1.5\"/><line x1=\"30\" y1=\"80\" x2=\"140\" y2=\"80\" stroke=\"#5d6474\" stroke-width=\"1.5\"/><circle cx=\"85\" cy=\"117\" r=\"5\" fill=\"#a3362a\"/><circle cx=\"85\" cy=\"97\" r=\"5\" fill=\"#a3362a\"/><circle cx=\"85\" cy=\"77\" r=\"5\" fill=\"#a3362a\"/><line x1=\"190\" y1=\"120\" x2=\"300\" y2=\"120\" stroke=\"#5d6474\" stroke-width=\"1.5\"/><line x1=\"190\" y1=\"100\" x2=\"300\" y2=\"100\" stroke=\"#5d6474\" stroke-width=\"1.5\"/><line x1=\"190\" y1=\"80\" x2=\"300\" y2=\"80\" stroke=\"#5d6474\" stroke-width=\"1.5\"/><circle cx=\"230\" cy=\"116\" r=\"4\" fill=\"#2f6f7a\"/><circle cx=\"245\" cy=\"116\" r=\"4\" fill=\"#2f6f7a\"/><circle cx=\"260\" cy=\"116\" r=\"4\" fill=\"#2f6f7a\"/><circle cx=\"237\" cy=\"108\" r=\"4\" fill=\"#2f6f7a\"/><circle cx=\"252\" cy=\"108\" r=\"4\" fill=\"#2f6f7a\"/><text x=\"160\" y=\"145\" font-size=\"10\" fill=\"#5d6474\" text-anchor=\"middle\">levels = states</text></svg>"
+  },
+  {
+   "tag": "Which is which",
+   "h": "Spin decides",
+   "b": "<p>Spin-half particles (electrons, protons, neutrons, quarks) are fermions. Whole-number-spin particles (photons, gluons, W and Z bosons, the Higgs) are bosons. Composite particles count: helium-4 (two protons, two neutrons, two electrons: six fermions) is a boson, helium-3 (five fermions) is a fermion. Paul Dirac named the two families after Bose and Enrico Fermi.</p>"
+  },
+  {
+   "tag": "History",
+   "h": "Bose, Einstein, Fermi, Dirac",
+   "b": "<p>In 1924 S.N. Bose derived Planck's law by counting identical light quanta. Einstein extended it to atoms (1924-25) and saw a strange consequence: cool enough, a gas of bosons would all fall into the lowest state. In 1926 Enrico Fermi and Paul Dirac separately gave the rules for particles that obey exclusion.</p>"
+  },
+  {
+   "tag": "Bose-Einstein condensate",
+   "h": "A matter wave of its own",
+   "b": "<p>At extremely low temperatures, boson atoms pile into one quantum state and act as one giant matter wave. It was first made in 1995 by Eric Cornell and Carl Wieman (JILA, rubidium atoms, about 170 billionths of a kelvin above absolute zero) and by Wolfgang Ketterle (MIT, sodium). All three shared the 2001 Nobel Prize. This was 70 years after the prediction.</p>"
+  },
+  {
+   "tag": "In nature",
+   "h": "Same rule, many places",
+   "b": "<ul><li><b>Superfluid helium-4</b> flows without friction below 2.17 K (Kapitza; Allen and Misener, 1937-38).</li><li><b>Superconductors:</b> electrons pair up into boson-like pairs (Bardeen, Cooper and Schrieffer, 1957).</li><li><b>Lasers:</b> photons crowd into one mode.</li><li><b>White dwarfs and neutron stars:</b> fermion crowding resists gravity.</li></ul>"
+  },
+  {
+   "tag": "Stars",
+   "h": "Fermions hold up the stars",
+   "b": "<p>When a star burns out, electrons squeezed together must occupy higher and higher states, which creates \"degeneracy pressure\", not from heat. This holds up white dwarfs. In 1930 the young Indian physicist S. Chandrasekhar, on a ship to England, calculated that above about 1.4 solar masses this pressure fails and a white dwarf must collapse. The Chandrasekhar limit explains supernovae of Type Ia. He shared the 1983 Nobel Prize in Physics.</p>"
+  },
+  {
+   "tag": "Misconceptions",
+   "h": "Myths to drop",
+   "b": "<ul><li><b>\"Bosons are force particles and fermions are matter.\"</b> A useful first rule, but composite bosons (helium-4) are matter too.</li><li><b>\"A condensate is a solid.\"</b> It is an ultracold gas, not frozen.</li><li><b>\"Fermions repel each other by a force.\"</b> It is a counting rule, not a push.</li></ul>"
+  },
+  {
+   "tag": "Indian angle",
+   "h": "Bose, Chandrasekhar, and cold atoms",
+   "b": "<p>S.N. Bose gave his name to bosons and to Bose-Einstein statistics; he was awarded the Padma Vibhushan in 1954. S. Chandrasekhar (born in Lahore, 1910) made the fermion argument for stars. India's labs also work with ultracold atoms, for example at the Raman Research Institute, Bengaluru, and these skills feed quantum sensing and computing under the National Quantum Mission.</p>"
+  },
+  {
+   "tag": "Recap",
+   "h": "Key takeaways and think-about-it",
+   "b": "<ul><li>Fermions (half-integer spin) cannot share a state; bosons can.</li><li>BEC: bosons pile into one state; made in 1995, Nobel 2001.</li><li>Fermion crowding supports white dwarfs up to 1.4 solar masses (Chandrasekhar).</li></ul><div class=\"box\"><h4>Think about it</h4><ol><li>Why is helium-4 a boson but helium-3 a fermion?</li><li>How does the Pauli principle stop a white dwarf from collapsing?</li></ol></div>",
+   "cls": "exam"
+  }
+ ],
+ "quiz": [
+  {
+   "q": "Fermions:",
+   "o": [
+    "Carry no mass",
+    "Cannot share the same quantum state",
+    "Have whole-number spin",
+    "Always share a state"
+   ],
+   "a": 1,
+   "w": "Pauli exclusion."
+  },
+  {
+   "q": "Which of these is a boson?",
+   "o": [
+    "Neutron",
+    "Electron",
+    "Photon",
+    "Proton"
+   ],
+   "a": 2,
+   "w": "Spin 1."
+  },
+  {
+   "q": "Helium-4 is a boson because it has:",
+   "o": [
+    "An even number of fermions",
+    "An odd number of fermions",
+    "No nucleus",
+    "No electrons"
+   ],
+   "a": 0,
+   "w": "Six fermions makes a whole-number spin."
+  },
+  {
+   "q": "A Bose-Einstein condensate was first made in:",
+   "o": [
+    "1995",
+    "2012",
+    "1957",
+    "1924"
+   ],
+   "a": 0,
+   "w": "Cornell, Wieman and Ketterle."
+  },
+  {
+   "q": "Who first made a rubidium BEC?",
+   "o": [
+    "Planck and Bohr",
+    "Cornell and Wieman",
+    "Dirac and Fermi",
+    "Raman and Bose"
+   ],
+   "a": 1,
+   "w": "At JILA, Boulder."
+  },
+  {
+   "q": "Who named the two particle families after Bose and Fermi?",
+   "o": [
+    "Heisenberg",
+    "Paul Dirac",
+    "Chandrasekhar",
+    "Einstein"
+   ],
+   "a": 1,
+   "w": "Boson and fermion."
+  },
+  {
+   "q": "What holds up a white dwarf?",
+   "o": [
+    "Electron degeneracy pressure",
+    "Nuclear fusion",
+    "Heat alone",
+    "Magnetism"
+   ],
+   "a": 0,
+   "w": "From the exclusion principle."
+  },
+  {
+   "q": "The Chandrasekhar limit is about:",
+   "o": [
+    "100 solar masses",
+    "1.4 solar masses",
+    "0.1 solar masses",
+    "10 solar masses"
+   ],
+   "a": 1,
+   "w": "Above this a white dwarf collapses."
+  },
+  {
+   "q": "Superfluid helium-4 appears below about:",
+   "o": [
+    "2.17 K",
+    "100 K",
+    "1000 K",
+    "273 K"
+   ],
+   "a": 0,
+   "w": "Seen in 1937-38."
+  },
+  {
+   "q": "Who derived Planck's law by counting identical light quanta?",
+   "o": [
+    "Max Born",
+    "Raman",
+    "S.N. Bose, 1924",
+    "Fermi"
+   ],
+   "a": 2,
+   "w": "Einstein promoted it."
+  }
+ ],
+ "sources": [
+  "Bose 1924",
+  "Einstein 1924-25",
+  "Anderson et al. and Davis et al. 1995",
+  "Chandrasekhar 1931"
+ ],
+ "verified": "2026-11-11"
+}

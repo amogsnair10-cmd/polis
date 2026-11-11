@@ -41,12 +41,12 @@
   {
    "tag": "Misconceptions",
    "h": "Watch out",
-   "b": "<div class=\"box\"><h4>Fix these</h4><ul><li>Meiosis does not make identical cells.</li><li>Cells are not dividing all the time; most nerve cells stop.</li><li>Mitosis is not the same as cell growth; growth happens in interphase.</li></ul></div><p>Also, a cell does not 'split in half' without preparation: it must copy its DNA first during S phase, or each daughter would get only half the genes.</p>"
+   "b": "<div class=\"box\"><h4>Fix these</h4><ul><li>Meiosis does not make identical cells.</li><li>Cells are not dividing all the time; most nerve cells stop.</li><li>Mitosis is not the same as cell growth; growth happens in interphase.</li></ul></div><p>Also, a cell does not 'split in half' without preparation: it must copy its DNA first during S phase, or each daughter would get only half the genes.</p><p>Also, a cell does not 'split in half' without preparation: it copies its DNA first during S phase, or each daughter would get only half the genes. Cytokinesis, the pinching of the cytoplasm, is a separate step from mitosis itself.</p>"
   },
   {
    "tag": "Indian angle",
    "h": "Cancer care in India",
-   "b": "<p>India runs population screening for oral, breast and cervical cancer under its national non-communicable disease programme, and Tata Memorial Centre in Mumbai is a leading cancer research and treatment centre.</p><p>Cancer begins when one cell collects several mutations that break its cell-cycle controls, and tobacco, betel quid with tobacco, and infections such as HPV are known causes. Finding cancer early, through a simple mouth check or a Pap test, greatly improves survival. HPV vaccines now help prevent cervical cancer. Tata Memorial was founded in 1941.</p>"
+   "b": "<p>India runs population screening for oral, breast and cervical cancer under its national non-communicable disease programme, and Tata Memorial Centre in Mumbai is a leading cancer research and treatment centre.</p><p>Cancer begins when one cell collects several mutations that break its cell-cycle controls, and tobacco, betel quid with tobacco, and infections such as HPV are known causes. Finding cancer early, through a simple mouth check or a Pap test, greatly improves survival. HPV vaccines now help prevent cervical cancer. Tata Memorial was founded in 1941.</p><p>Cancer begins when one cell collects several mutations that break its cell-cycle controls. Tobacco, betel quid with tobacco, and infections such as HPV are known causes. Finding cancer early, through a simple mouth check or a Pap test, greatly improves survival. HPV vaccines now help prevent cervical cancer. Tata Memorial was founded in 1941.</p>"
   },
   {
    "tag": "Recap",

@@ -1,0 +1,182 @@
+{
+ "id": "1-1-0",
+ "title": "The Quantum Atom: Orbitals and the Pauli Principle",
+ "emoji": "🧪",
+ "cards": [
+  {
+   "tag": "Why this matters",
+   "h": "Why the periodic table has its shape",
+   "b": "<p>Chemistry is the study of how atoms hold together, and it is all about electrons. Why do sodium and potassium behave alike, and neon and argon never react? Quantum theory answers: electrons live in orbitals, and a rule from Wolfgang Pauli (1925) forbids two of them from sharing the same state.</p>"
+  },
+  {
+   "tag": "Orbitals",
+   "h": "From orbits to clouds",
+   "b": "<p>Schrödinger's equation gives the electron in hydrogen a set of allowed standing waves. Each is an <b>orbital</b>: a cloud-shaped region showing where the electron is likely to be found (the size squared of its wavefunction). The ground state, \"1s\", is a sphere. Next come a sphere (2s) and three dumbbell shapes (2p), then five clover shapes (3d), and so on.</p><p>The cloud is an odds map, not a path. Many electron \"orbits\" are replaced by \"regions of likely find\".</p>"
+  },
+  {
+   "tag": "Four labels",
+   "h": "Quantum numbers",
+   "b": "<p>An electron state needs four labels: <b>n</b> (shell, sets size and energy), <b>l</b> (shape: s, p, d, f), <b>m</b> (orientation) and <b>spin</b> (up or down). Their allowed values follow from fitting waves, as in the guitar string picture. In an atom, each shell n has n² orbitals, so 2n² places for electrons: 2, 8, 18, 32.</p>"
+  },
+  {
+   "tag": "The Pauli principle",
+   "h": "No two in the same state",
+   "b": "<p>Electrons are fermions: no two can share all four labels. So each orbital holds at most two electrons, one spin up and one spin down. Pauli proposed this in 1925 to explain the structure of the table and anomalous spectra; he won the 1945 Nobel Prize.</p><svg class=\"d\" viewBox=\"0 0 320 170\"><defs><marker id=\"m110\" viewBox=\"0 0 10 10\" refX=\"9\" refY=\"5\" markerWidth=\"6\" markerHeight=\"6\" orient=\"auto\"><path d=\"M0,0L10,5L0,10z\" fill=\"#5d6474\"/></marker></defs><rect x=\"10\" y=\"10\" width=\"140\" height=\"28\" rx=\"6\" fill=\"#f1e4c6\" stroke=\"#a8792a\"/><text x=\"80.0\" y=\"27.3\" font-size=\"10\" fill=\"#1d2433\" text-anchor=\"middle\">shell 1: 2 electrons (H, He)</text><rect x=\"10\" y=\"46\" width=\"140\" height=\"28\" rx=\"6\" fill=\"#dceaec\" stroke=\"#2f6f7a\"/><text x=\"80.0\" y=\"63.3\" font-size=\"10\" fill=\"#1d2433\" text-anchor=\"middle\">shell 2: 8 electrons (Li to Ne)</text><rect x=\"10\" y=\"82\" width=\"140\" height=\"28\" rx=\"6\" fill=\"#f1e4c6\" stroke=\"#a8792a\"/><text x=\"80.0\" y=\"99.3\" font-size=\"10\" fill=\"#1d2433\" text-anchor=\"middle\">shell 3: 8 here (Na to Ar)</text><rect x=\"165\" y=\"10\" width=\"145\" height=\"100\" rx=\"6\" fill=\"#ffffff\" stroke=\"#5d6474\"/><text x=\"237.5\" y=\"43.8\" font-size=\"10\" fill=\"#1d2433\" text-anchor=\"middle\">Each box holds</text><text x=\"237.5\" y=\"56.8\" font-size=\"10\" fill=\"#1d2433\" text-anchor=\"middle\">at most two</text><text x=\"237.5\" y=\"69.8\" font-size=\"10\" fill=\"#1d2433\" text-anchor=\"middle\">electrons: one spin</text><text x=\"237.5\" y=\"82.8\" font-size=\"10\" fill=\"#1d2433\" text-anchor=\"middle\">up, one spin down</text><text x=\"160\" y=\"135\" font-size=\"10\" fill=\"#5d6474\" text-anchor=\"middle\">Rows of the periodic table come from</text><text x=\"160\" y=\"150\" font-size=\"10\" fill=\"#5d6474\" text-anchor=\"middle\">filling these boxes in order</text></svg>"
+  },
+  {
+   "tag": "Chemistry",
+   "h": "Reading the table",
+   "b": "<p>Fill orbitals from lowest energy upward and you get the periodic table: row lengths 2, 8, 8, 18... Elements in one column share the number of electrons in their outer shell, so behave alike: lithium, sodium and potassium each have a single outer electron to give away. Noble gases have full outer shells and do not react. Bonds form when atoms share or swap electrons to fill shells.</p>"
+  },
+  {
+   "tag": "Analogy",
+   "h": "A hotel with strict rooms",
+   "b": "<p>Imagine a hotel in which rooms come in set sizes and each room holds at most two guests of opposite habit. New guests take the cheapest free room. The outermost floor is what guests see, and it decides how they mix with other hotels.</p><p><b>Where it breaks:</b> electrons are identical and have no names. You cannot say which electron is in which room.</p>"
+  },
+  {
+   "tag": "Stability",
+   "h": "Why matter does not collapse",
+   "b": "<p>Pauli exclusion keeps atoms from squashing together and gives matter its volume. In 1967 Freeman Dyson and Andrew Lenard proved that without it, ordinary matter would collapse to a tiny fraction of its size, and its size would not even scale with the amount of stuff. Your solidity is quantum.</p>"
+  },
+  {
+   "tag": "How we know",
+   "h": "Evidence",
+   "b": "<p>Atomic spectra show lines matching the predicted levels, with extra splitting from spin. Ionisation energies jump after a shell is emptied: a clear fingerprint of shells. In 2000s experiments, electron clouds of single atoms have been imaged directly, for example hydrogen orbitals using photoionisation microscopy (Stodolna et al., 2013).</p>"
+  },
+  {
+   "tag": "Misconceptions",
+   "h": "Myths to drop",
+   "b": "<ul><li><b>\"Electrons orbit like planets.\"</b> They form probability clouds.</li><li><b>\"Pauli is a force.\"</b> It is a rule from the symmetry of identical fermions, not a push.</li><li><b>\"Orbitals are fixed solid shapes.\"</b> They are odds maps that change when atoms bond.</li></ul>"
+  },
+  {
+   "tag": "Indian angle",
+   "h": "Saha and Indian chemists",
+   "b": "<p>Meghnad Saha's 1920 ionisation equation used atomic energy levels to read stellar spectra. C.V. Raman and K.S. Krishnan's spectroscopy (1928) probes molecular energy levels. Indian quantum chemists such as Charusita Chakravarty and others work on computing orbitals for materials; the National Quantum Mission funds quantum materials work at IIT Delhi.</p>"
+  },
+  {
+   "tag": "Recap",
+   "h": "Key takeaways and think-about-it",
+   "b": "<ul><li>Orbitals are odds clouds with four labels (n, l, m, spin).</li><li>Pauli (1925): no two electrons share the same state; each orbital holds two.</li><li>Shell filling explains the periodic table and keeps matter from collapsing.</li></ul><div class=\"box\"><h4>Think about it</h4><ol><li>Why are sodium and potassium chemically alike?</li><li>What would the periodic table look like without the Pauli principle?</li></ol></div>",
+   "cls": "exam"
+  }
+ ],
+ "quiz": [
+  {
+   "q": "An orbital is:",
+   "o": [
+    "A nucleus part",
+    "A region showing where an electron is likely to be found",
+    "A circular path",
+    "A solid shell"
+   ],
+   "a": 1,
+   "w": "It is a probability map."
+  },
+  {
+   "q": "How many electrons can one orbital hold?",
+   "o": [
+    "One",
+    "Eight",
+    "Four",
+    "Two, with opposite spins"
+   ],
+   "a": 3,
+   "w": "Pauli exclusion."
+  },
+  {
+   "q": "The Pauli principle was proposed in:",
+   "o": [
+    "1913",
+    "1900",
+    "1947",
+    "1925"
+   ],
+   "a": 3,
+   "w": "Pauli won the Nobel in 1945."
+  },
+  {
+   "q": "How many electrons fit in the second shell?",
+   "o": [
+    "4",
+    "2",
+    "8",
+    "18"
+   ],
+   "a": 2,
+   "w": "2n² gives 8 for n = 2."
+  },
+  {
+   "q": "Why do sodium and potassium behave alike?",
+   "o": [
+    "Same mass",
+    "Each has one outer electron",
+    "Same colour",
+    "Same nucleus size"
+   ],
+   "a": 1,
+   "w": "Outer electrons decide chemistry."
+  },
+  {
+   "q": "Why are noble gases unreactive?",
+   "o": [
+    "They are gases",
+    "They are too heavy",
+    "They have no electrons",
+    "Their outer shells are full"
+   ],
+   "a": 3,
+   "w": "No need to share or give."
+  },
+  {
+   "q": "Which labels does an electron state need?",
+   "o": [
+    "Colour",
+    "n, l, m and spin",
+    "Charge only",
+    "Mass and speed only"
+   ],
+   "a": 1,
+   "w": "Four quantum numbers."
+  },
+  {
+   "q": "Dyson and Lenard (1967) proved that:",
+   "o": [
+    "Light has mass",
+    "Atoms are empty",
+    "Matter needs the Pauli principle to be stable",
+    "Gravity makes atoms"
+   ],
+   "a": 2,
+   "w": "Without it matter would collapse."
+  },
+  {
+   "q": "Is the Pauli principle a force?",
+   "o": [
+    "Yes, nuclear",
+    "Yes, gravitational",
+    "No, it follows from the nature of identical fermions",
+    "Yes, electrical"
+   ],
+   "a": 2,
+   "w": "It is a rule about states."
+  },
+  {
+   "q": "Meghnad Saha's 1920 equation links:",
+   "o": [
+    "Electrons to gravity",
+    "Temperature to ionisation in stars",
+    "Spin to magnetism",
+    "Photons to heat only"
+   ],
+   "a": 1,
+   "w": "It underlies stellar classification."
+  }
+ ],
+ "sources": [
+  "Pauli 1925",
+  "Dyson and Lenard 1967",
+  "Stodolna et al. 2013",
+  "Saha 1920"
+ ],
+ "verified": "2026-11-11"
+}

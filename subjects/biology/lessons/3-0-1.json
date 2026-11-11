@@ -6,12 +6,12 @@
   {
    "tag": "Why this matters",
    "h": "A pump that never rests",
-   "b": "<p>Your heart beats about 100,000 times a day, moving roughly 5 litres of blood per minute at rest. Every cell needs oxygen and food delivered and waste removed. Heart disease is India's leading cause of death, so this one is useful to know.</p>"
+   "b": "<p>Your heart beats about 100,000 times a day, moving roughly 5 litres of blood per minute at rest. Every cell needs oxygen and food delivered and waste removed. Heart disease is India's leading cause of death, so this one is useful to know.</p><p>The heart is a muscle about the size of your fist, and it beats without tiring, because cardiac muscle cells are packed with mitochondria. Over an average lifetime it beats about 2.5 billion times. It works as two pumps side by side: the right side sends blood to the lungs, the left sends blood to the rest of the body. A person's blood vessels, laid end to end, would stretch about 100,000 km.</p>"
   },
   {
    "tag": "Core idea",
    "h": "Blood and vessels",
-   "b": "<p>Blood has red cells (carry oxygen using haemoglobin), white cells (defence), platelets (clotting) and plasma (liquid). <b>Arteries</b> carry blood away from the heart under high pressure; <b>veins</b> bring it back, with valves; <b>capillaries</b> are thin walls where exchange happens.</p>"
+   "b": "<p>Blood has red cells (carry oxygen using haemoglobin), white cells (defence), platelets (clotting) and plasma (liquid). <b>Arteries</b> carry blood away from the heart under high pressure; <b>veins</b> bring it back, with valves; <b>capillaries</b> are thin walls where exchange happens.</p><p>Blood makes up around 7 to 8 percent of body weight, about 5 litres in an adult. Red cells have no nucleus, which leaves room for haemoglobin, and each lives about 120 days. Arteries have thick, elastic walls to take each pulse, like a garden hose that can stretch. Veins have thinner walls and one-way valves, so blood does not slip back under gravity, which matters most in the legs. Capillaries are one cell thick, so oxygen and nutrients can pass through easily.</p>"
   },
   {
    "tag": "Step by step",
@@ -31,17 +31,17 @@
   {
    "tag": "Step by step",
    "h": "Disease and clotting",
-   "b": "<p>Fat (cholesterol) deposits narrow arteries (atherosclerosis). A blocked coronary artery causes a heart attack. Blood clots are formed when platelets and fibrin seal a wound; vitamin K helps. High BP, smoking, diabetes and inactivity raise risk.</p>"
+   "b": "<p>Fat (cholesterol) deposits narrow arteries (atherosclerosis). A blocked coronary artery causes a heart attack. Blood clots are formed when platelets and fibrin seal a wound; vitamin K helps. High BP, smoking, diabetes and inactivity raise risk.</p><p>Atherosclerosis starts when damaged artery walls collect cholesterol and immune cells, forming a plaque, like limescale narrowing a pipe. If a plaque cracks, a clot can form and block the artery. Clotting is a chain of steps in which platelets stick together and the protein fibrinogen becomes sticky fibrin threads, like a mesh. Eating less salt and saturated fat, not smoking, staying active and checking blood pressure reduce risk, and South Asians develop heart disease at younger ages on average.</p>"
   },
   {
    "tag": "How we know",
    "h": "From Harvey to open-heart",
-   "b": "<p>William Harvey (1628) showed that blood circulates, rather than being used up. Marcello Malpighi (1661) saw capillaries. Karl Landsteiner (1901) discovered ABO blood groups. Christiaan Barnard performed the first human heart transplant in 1967.</p>"
+   "b": "<p>William Harvey (1628) showed that blood circulates, rather than being used up. Marcello Malpighi (1661) saw capillaries. Karl Landsteiner (1901) discovered ABO blood groups. Christiaan Barnard performed the first human heart transplant in 1967.</p><p>Before Harvey, people followed Galen's idea from the second century that the liver made blood and the body used it up. Harvey counted that the heart pumps far more blood in an hour than the body could ever make, so it must go round in a circle. He could not see capillaries, which Malpighi later saw with a microscope. Landsteiner's blood groups made safe transfusion possible, and the first heart transplant patient, Louis Washkansky, lived 18 days.</p>"
   },
   {
    "tag": "Misconceptions",
    "h": "Watch out",
-   "b": "<div class=\"box\"><h4>Fix these</h4><ul><li>Arteries do not always carry oxygen-rich blood; the pulmonary artery does not.</li><li>The heart is on the left only in feel; it sits mostly mid-chest.</li><li>Heart attack differs from cardiac arrest (electrical failure).</li></ul></div>"
+   "b": "<div class=\"box\"><h4>Fix these</h4><ul><li>Arteries do not always carry oxygen-rich blood; the pulmonary artery does not.</li><li>The heart is on the left only in feel; it sits mostly mid-chest.</li><li>Heart attack differs from cardiac arrest (electrical failure).</li></ul></div><p>Also, blood is not blue inside the body: veins look blue through the skin, but blood is always red, darker when it has less oxygen. A heart attack is a plumbing problem (a blocked artery), while cardiac arrest is an electrical problem, when the heart stops pumping effectively. CPR can help in both.</p><p>Also, blood is not blue inside the body: veins look blue through the skin, but blood is always red, darker when it carries less oxygen. A heart attack is a plumbing problem (a blocked artery), while cardiac arrest is an electrical problem, when the heart stops pumping effectively. CPR can help in both.</p>"
   },
   {
    "tag": "Indian angle",
@@ -51,7 +51,7 @@
   {
    "tag": "Recap",
    "h": "Key takeaways and questions",
-   "b": "<ul><li>Heart: 4 chambers, double circulation.</li><li>Arteries away, veins back, capillaries exchange.</li><li>SA node is the pacemaker.</li><li>Atherosclerosis causes heart attacks.</li></ul><p><b>Think about it:</b></p><ol><li>Why is the left ventricle wall thicker?</li><li>Why are valves needed in veins but not in arteries?</li></ol>",
+   "b": "<ul><li>Heart: 4 chambers, double circulation.</li><li>Arteries away, veins back, capillaries exchange.</li><li>SA node is the pacemaker.</li><li>Atherosclerosis causes heart attacks.</li></ul><p><b>Think about it:</b></p><ol><li>Why is the left ventricle wall thicker?</li><li>Why are valves needed in veins but not in arteries?</li></ol><p><b>Key terms:</b> <b>systole</b> is contraction and <b>diastole</b> is relaxation, so a reading of 120/80 mmHg gives the pressure at each. The heart's own blood supply comes through the coronary arteries. The <b>double circulation</b> means blood passes through the heart twice per round trip, which keeps oxygen-rich and oxygen-poor blood apart and lets the body get high pressure.</p>",
    "cls": "exam"
   }
  ],

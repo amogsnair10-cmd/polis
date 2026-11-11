@@ -6,7 +6,7 @@
   {
    "tag": "Why this matters",
    "h": "Your inner army",
-   "b": "<p>Germs surround us, yet most of the time we stay healthy. Vaccines have wiped out smallpox and nearly polio. Understanding immunity explains allergies, transplants rejection, HIV and how vaccines are built.</p>"
+   "b": "<p>Germs surround us, yet most of the time we stay healthy. Vaccines have wiped out smallpox and nearly polio. Understanding immunity explains allergies, transplants rejection, HIV and how vaccines are built.</p><p>The immune system has two tiers. <b>Innate</b> immunity is quick and general: skin, stomach acid, mucus, and white cells such as neutrophils and macrophages that swallow invaders. <b>Adaptive</b> immunity is slower but learns and remembers, like a guard dog that is first trained on a scent. Edward Jenner in 1796 used cowpox to protect against smallpox, and the word 'vaccine' comes from <i>vacca</i>, Latin for cow.</p>"
   },
   {
    "tag": "Core idea",
@@ -16,12 +16,12 @@
   {
    "tag": "Step by step",
    "h": "The adaptive response",
-   "b": "<ol><li>Antigen-presenting cells show pieces of the germ.</li><li><b>Helper T cells</b> sound the alarm.</li><li><b>B cells</b> make <b>antibodies</b> that stick to the germ (humoral immunity).</li><li><b>Killer T cells</b> destroy infected cells (cell-mediated).</li><li>Memory cells remain for years.</li></ol>"
+   "b": "<ol><li>Antigen-presenting cells show pieces of the germ.</li><li><b>Helper T cells</b> sound the alarm.</li><li><b>B cells</b> make <b>antibodies</b> that stick to the germ (humoral immunity).</li><li><b>Killer T cells</b> destroy infected cells (cell-mediated).</li><li>Memory cells remain for years.</li></ol><p>Think of it as a well-run army. Antibodies are Y-shaped proteins that lock on to a particular antigen like a key in a lock, marking the germ for destruction or blocking it from entering cells. Each B cell makes one type of antibody, and the right one multiplies in a process called <b>clonal selection</b>, proposed by Macfarlane Burnet in the 1950s. Killer T cells find infected cells by the bits of germ displayed on their surface and trigger them to die.</p>"
   },
   {
    "tag": "Step by step",
    "h": "Primary and secondary response",
-   "b": "<p>The first meeting with a germ is slow (about a week). The second is faster and stronger, since memory cells are ready. This is what a vaccine exploits.</p>"
+   "b": "<p>The first meeting with a germ is slow (about a week). The second is faster and stronger, since memory cells are ready. This is what a vaccine exploits.</p><p>This is why you rarely get chickenpox or measles twice. After the first infection, memory B and T cells wait, sometimes for decades. On the second meeting, antibody levels rise within days and reach a far higher peak, usually before symptoms appear. A booster dose works like a second meeting, so protection from some vaccines (like tetanus) needs repeating every ten years or so.</p>"
   },
   {
    "tag": "Step by step",
@@ -31,17 +31,17 @@
   {
    "tag": "Step by step",
    "h": "When immunity misfires",
-   "b": "<p><b>Allergy:</b> over-reaction to harmless things. <b>Autoimmune disease:</b> attacks self (type 1 diabetes, rheumatoid arthritis). <b>HIV</b> destroys helper T cells, causing AIDS. Transplants need matching since the body attacks foreign tissue.</p>"
+   "b": "<p><b>Allergy:</b> over-reaction to harmless things. <b>Autoimmune disease:</b> attacks self (type 1 diabetes, rheumatoid arthritis). <b>HIV</b> destroys helper T cells, causing AIDS. Transplants need matching since the body attacks foreign tissue.</p><p>In an allergy, the body makes IgE antibodies against pollen or peanuts, and mast cells then release histamine, causing sneezing, itching or, rarely, a dangerous shock (anaphylaxis). In an autoimmune disease, the system loses its ability to tell self from non-self, and attacks joints, the thyroid or insulin-making cells. HIV, identified in 1983 by Luc Montagnier and Francoise Barre-Sinoussi, targets helper T cells, so ordinary infections turn severe. Antiretroviral drugs now keep the virus under control.</p>"
   },
   {
    "tag": "How we know",
    "h": "Antibodies and Nobel work",
-   "b": "<p>Emil von Behring and Kitasato (1890) found antitoxin serum. Paul Ehrlich and Elie Metchnikoff shared the 1908 Nobel. Medawar showed tolerance. Kohler and Milstein created monoclonal antibodies in 1975. Smallpox was declared eradicated in 1980.</p>"
+   "b": "<p>Emil von Behring and Kitasato (1890) found antitoxin serum. Paul Ehrlich and Elie Metchnikoff shared the 1908 Nobel. Medawar showed tolerance. Kohler and Milstein created monoclonal antibodies in 1975. Smallpox was declared eradicated in 1980.</p><p>Behring and Kitasato showed that blood serum from an animal given small doses of diphtheria toxin could protect another animal, the first 'passive' immunity, and Behring won the first Nobel Prize in Medicine in 1901. Metchnikoff discovered phagocytes, and Ehrlich explained antibodies. Monoclonal antibodies, from one B-cell line, are now used against cancers and autoimmune diseases. Smallpox, a disease with high death rates, was eradicated after a global campaign led by the WHO, and India's last case was in 1975.</p>"
   },
   {
    "tag": "Misconceptions",
    "h": "Watch out",
-   "b": "<div class=\"box\"><h4>Fix these</h4><ul><li>Vaccines do not cause the disease they protect against (killed or part vaccines cannot).</li><li>Antibiotics do not work against viruses.</li><li>A runny nose does not prove a weak immune system.</li></ul></div>"
+   "b": "<div class=\"box\"><h4>Fix these</h4><ul><li>Vaccines do not cause the disease they protect against (killed or part vaccines cannot).</li><li>Antibiotics do not work against viruses.</li><li>A runny nose does not prove a weak immune system.</li></ul></div><p>Also, vaccines teach the body without causing the disease: some contain killed germs, some a weakened live form, some only a protein piece, and some mRNA instructions. Rare side effects occur, but are far smaller than the risks of the diseases. 'Herd immunity' protects people who cannot be vaccinated when most others are immune.</p><p>Also, vaccines teach the body without causing the disease: some contain killed germs, some a weakened live form, some only a protein piece, and some mRNA instructions. Rare side effects occur, but are far smaller than the risks of the diseases. 'Herd immunity' protects people who cannot be vaccinated when most others are immune. Antibiotics also do not 'boost' immunity.</p>"
   },
   {
    "tag": "Indian angle",

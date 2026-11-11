@@ -6,7 +6,7 @@
   {
    "tag": "Why this matters",
    "h": "Slow messages, big effects",
-   "b": "<p>Nerves are fast text messages; hormones are letters sent by blood. They control growth, mood, sugar levels, puberty and stress. Diabetes, thyroid disease and growth disorders are hormone problems, and all are common in India.</p>"
+   "b": "<p>Nerves are fast text messages; hormones are letters sent by blood. They control growth, mood, sugar levels, puberty and stress. Diabetes, thyroid disease and growth disorders are hormone problems, and all are common in India.</p><p>A hormone is a chemical made by a gland and released into the blood, where it reaches every cell but acts only on cells with the matching receptor, like a radio signal that only the right set picks up. Ernest Starling coined the word 'hormone' in 1905 after finding secretin in the gut. Because blood is slow, hormones suit long jobs such as growth and metabolism. Feedback loops, like a thermostat, keep levels steady.</p>"
   },
   {
    "tag": "Core idea",
@@ -16,12 +16,12 @@
   {
    "tag": "Step by step",
    "h": "Pituitary: the master gland",
-   "b": "<p>A pea-sized gland under the brain. It makes growth hormone (too little: dwarfism; too much: gigantism), TSH, ACTH, FSH, LH, prolactin, and stores ADH and oxytocin from the hypothalamus. ADH helps the kidney save water.</p>"
+   "b": "<p>A pea-sized gland under the brain. It makes growth hormone (too little: dwarfism; too much: gigantism), TSH, ACTH, FSH, LH, prolactin, and stores ADH and oxytocin from the hypothalamus. ADH helps the kidney save water.</p><p>The pituitary hangs from the hypothalamus, which links the nervous and hormone systems. The hypothalamus sends releasing hormones to the front of the pituitary, which then signals the thyroid, adrenals and gonads, a chain of command. The back of the pituitary stores oxytocin, which helps in birth and milk release. Too little ADH causes diabetes insipidus, with large volumes of dilute urine, which is different from diabetes mellitus.</p>"
   },
   {
    "tag": "Step by step",
    "h": "Thyroid and calcium",
-   "b": "<p>The thyroid makes thyroxine, which sets metabolism and needs iodine. Lack of iodine causes goitre. Parathyroid hormone raises blood calcium; calcitonin lowers it.</p>"
+   "b": "<p>The thyroid makes thyroxine, which sets metabolism and needs iodine. Lack of iodine causes goitre. Parathyroid hormone raises blood calcium; calcitonin lowers it.</p><p>Thyroxine acts like a throttle on the body's engine. Too little makes a person slow, cold and tired (hypothyroidism); too much speeds everything up (hyperthyroidism). Without iodine, the thyroid enlarges into a goitre. India's iodised salt programme, begun in the 1960s, greatly reduced goitre. Parathyroid and calcitonin together keep blood calcium within a narrow range, which nerves, muscles and clotting need.</p><p>The body keeps blood calcium steady within a narrow band. In India, vitamin D deficiency is common despite sunshine, so many people are checked for it. Thyroid disorders are also frequent, and a simple blood test for TSH helps diagnose them.</p>"
   },
   {
    "tag": "Step by step",
@@ -31,22 +31,22 @@
   {
    "tag": "Step by step",
    "h": "Adrenal glands and stress",
-   "b": "<p>The adrenal medulla releases adrenaline in seconds: heart races, glucose rises. The cortex releases cortisol (long stress) and aldosterone (salt balance). Chronic stress keeps cortisol high and harms health.</p>"
+   "b": "<p>The adrenal medulla releases adrenaline in seconds: heart races, glucose rises. The cortex releases cortisol (long stress) and aldosterone (salt balance). Chronic stress keeps cortisol high and harms health.</p><p>Walter Cannon called adrenaline's effect 'fight or flight': heart rate and breathing rise, blood moves to muscles, and the liver releases glucose. Cortisol takes hours to act and also suppresses inflammation, so related drugs (steroids) are used for allergies and swelling. Hans Selye described the body's general stress response in the 1930s. Aldosterone tells the kidney to hold sodium, which pulls water and raises blood pressure.</p>"
   },
   {
    "tag": "Step by step",
    "h": "Sex hormones and others",
-   "b": "<p>Testes make testosterone; ovaries make oestrogen and progesterone. Melatonin from the pineal gland sets sleep rhythm. Plants also use hormones: auxin, gibberellin, cytokinin, ethylene and abscisic acid.</p>"
+   "b": "<p>Testes make testosterone; ovaries make oestrogen and progesterone. Melatonin from the pineal gland sets sleep rhythm. Plants also use hormones: auxin, gibberellin, cytokinin, ethylene and abscisic acid.</p><p>At puberty, signals from the brain tell the gonads to make sex hormones, which cause the growth of body hair, a deeper voice or the start of the menstrual cycle. Melatonin rises in darkness, and bright light at night, such as from phone screens, can delay it. Plant hormones work much the same way: auxin moves down a shoot's shaded side and makes it bend toward light, and ethylene from one ripe banana can hasten ripening of its neighbours.</p>"
   },
   {
    "tag": "How we know",
    "h": "Early experiments",
-   "b": "<p>Arnold Berthold (1849) moved a rooster's testes and found comb and behaviour preserved, hinting at chemical signals. Banting's dog experiments led to insulin. Radioimmunoassay (Yalow, 1977 Nobel) allowed hormone measurement.</p>"
+   "b": "<p>Arnold Berthold (1849) moved a rooster's testes and found comb and behaviour preserved, hinting at chemical signals. Banting's dog experiments led to insulin. Radioimmunoassay (Yalow, 1977 Nobel) allowed hormone measurement.</p><p>Berthold's rooster is often cited as the first endocrine experiment: transplanted testes in a new place still worked, so something carried in the blood, not nerves, must be responsible. In 1921, Frederick Banting and Charles Best, in John Macleod's lab at Toronto, extracted insulin from dog pancreas, and in 1922 the first patient, a boy of 14, was treated. Yalow and Berson's radioimmunoassay measured tiny amounts of hormones in blood.</p>"
   },
   {
    "tag": "Misconceptions",
    "h": "Watch out",
-   "b": "<div class=\"box\"><h4>Fix these</h4><ul><li>Hormones are not only sex hormones.</li><li>Type 2 diabetes is not just 'eating sugar'; genes, weight and activity matter.</li><li>Insulin is not a cure but a replacement.</li></ul></div>"
+   "b": "<div class=\"box\"><h4>Fix these</h4><ul><li>Hormones are not only sex hormones.</li><li>Type 2 diabetes is not just 'eating sugar'; genes, weight and activity matter.</li><li>Insulin is not a cure but a replacement.</li></ul></div><p>Insulin lowers blood sugar by helping cells take up glucose; glucagon, from the same pancreas, raises it. In type 1 diabetes the body's own immune cells destroy the insulin-making cells; in type 2, cells respond poorly to insulin. India has among the world's largest numbers of people with diabetes. Also, 'hormone imbalance' is not an explanation for every symptom; doctors test levels before concluding.</p>"
   },
   {
    "tag": "Indian angle",

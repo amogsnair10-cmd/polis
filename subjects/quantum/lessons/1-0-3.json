@@ -1,0 +1,173 @@
+{
+ "id": "1-0-3",
+ "title": "Heisenberg's Uncertainty Principle",
+ "emoji": "🎯",
+ "cards": [
+  {
+   "tag": "Why this matters",
+   "h": "The most quoted idea in physics",
+   "b": "<p>Werner Heisenberg's 1927 uncertainty principle is often misused to mean \"you cannot look without disturbing\". The real idea is deeper: some pairs of properties cannot both be sharp at once, even in principle.</p><p>It explains why atoms are stable, why stars shine and why LIGO needs special light.</p>"
+  },
+  {
+   "tag": "The statement",
+   "h": "Position and momentum",
+   "b": "<div class=\"box\"><h4>The rule</h4>Δx × Δp ≥ ħ/2. Δx is the spread in position, Δp the spread in momentum (mass times velocity), and ħ is Planck's constant divided by 2π. Their product has a floor.</div><p>In words: the more tightly you pin down where a particle is, the more spread out its momentum must be, and the reverse. Earl Kennard proved this exact form in 1927.</p>"
+  },
+  {
+   "tag": "Where it comes from",
+   "h": "It is a property of waves",
+   "b": "<p>A short, narrow wave pulse is built by adding many different wavelengths together. Since wavelength means momentum (de Broglie), a narrow position needs a wide mix of momenta. A pure single-wavelength wave is spread forever, so its position is unknown. This trade-off is true of all waves: a short musical note has a blurry pitch.</p><svg class=\"d\" viewBox=\"0 0 320 150\"><defs><marker id=\"m103\" viewBox=\"0 0 10 10\" refX=\"9\" refY=\"5\" markerWidth=\"6\" markerHeight=\"6\" orient=\"auto\"><path d=\"M0,0L10,5L0,10z\" fill=\"#5d6474\"/></marker></defs><rect x=\"10\" y=\"15\" width=\"140\" height=\"50\" rx=\"6\" fill=\"#dceaec\" stroke=\"#2f6f7a\"/><text x=\"80.0\" y=\"36.7\" font-size=\"11\" fill=\"#1d2433\" text-anchor=\"middle\">sharp position</text><text x=\"80.0\" y=\"50.7\" font-size=\"11\" fill=\"#1d2433\" text-anchor=\"middle\">(narrow wave)</text><rect x=\"170\" y=\"15\" width=\"140\" height=\"50\" rx=\"6\" fill=\"#f4dcd5\" stroke=\"#a3362a\"/><text x=\"240.0\" y=\"36.7\" font-size=\"11\" fill=\"#1d2433\" text-anchor=\"middle\">momentum is</text><text x=\"240.0\" y=\"50.7\" font-size=\"11\" fill=\"#1d2433\" text-anchor=\"middle\">very spread out</text><line x1=\"152\" y1=\"40\" x2=\"168\" y2=\"40\" stroke=\"#5d6474\" stroke-width=\"1.5\" marker-end=\"url(#m103)\"/><rect x=\"10\" y=\"85\" width=\"140\" height=\"50\" rx=\"6\" fill=\"#f1e4c6\" stroke=\"#a8792a\"/><text x=\"80.0\" y=\"106.7\" font-size=\"11\" fill=\"#1d2433\" text-anchor=\"middle\">sharp momentum</text><text x=\"80.0\" y=\"120.7\" font-size=\"11\" fill=\"#1d2433\" text-anchor=\"middle\">(long smooth wave)</text><rect x=\"170\" y=\"85\" width=\"140\" height=\"50\" rx=\"6\" fill=\"#f4dcd5\" stroke=\"#a3362a\"/><text x=\"240.0\" y=\"106.7\" font-size=\"11\" fill=\"#1d2433\" text-anchor=\"middle\">position is</text><text x=\"240.0\" y=\"120.7\" font-size=\"11\" fill=\"#1d2433\" text-anchor=\"middle\">very spread out</text><line x1=\"152\" y1=\"110\" x2=\"168\" y2=\"110\" stroke=\"#5d6474\" stroke-width=\"1.5\" marker-end=\"url(#m103)\"/></svg>"
+  },
+  {
+   "tag": "Analogy",
+   "h": "A musical note",
+   "b": "<p>A very short click has no clear pitch; a long steady note has a clear pitch. Short in time means blurry in frequency. Quantum particles do the same with position and momentum.</p><p><b>Where it breaks:</b> a click has a definite time and a spread of frequencies we can analyse. Quantum uncertainty is not just our blurry measuring: a particle in such a state has no sharp value to find.</p>"
+  },
+  {
+   "tag": "Uses",
+   "h": "What it explains",
+   "b": "<ul><li><b>Stable atoms.</b> Squeeze an electron near the nucleus and Δp (so energy) grows. A balance gives the atom's size.</li><li><b>Zero-point energy.</b> Nothing can be perfectly still.</li><li><b>Energy-time version.</b> A short-lived state has a fuzzy energy, so excited states have a natural linewidth.</li><li><b>Quantum fluctuations</b> that seeded cosmic structure (in inflation theory).</li></ul>"
+  },
+  {
+   "tag": "How we know",
+   "h": "Tests",
+   "b": "<p>Single-slit diffraction: narrower slit, wider spread of landing spots. This is the principle shown daily in labs. Heisenberg's original gamma-ray microscope thought experiment suggested measuring disturbs, but the modern view is that the spread belongs to the state itself.</p><p>In 2012 teams in Vienna (Erhart et al., neutrons) and Toronto (Rozema et al., photons) tested a more careful version about measurement disturbance and found Heisenberg's original bound can be beaten for disturbance, while the proven spread relation always holds.</p>"
+  },
+  {
+   "tag": "Misconceptions",
+   "h": "Myths to drop",
+   "b": "<ul><li><b>\"It is the observer effect.\"</b> That is a separate idea. Uncertainty exists even with no measuring.</li><li><b>\"It is about clumsy instruments.\"</b> Perfect instruments cannot beat it.</li><li><b>\"It allows free energy or breaking physics.\"</b> Borrowed energy exists only within strict, tiny limits and cannot be used to run a machine.</li><li><b>\"It works on cricket balls too.\"</b> Yes, but ħ is so small the blur is unmeasurable.</li></ul>"
+  },
+  {
+   "tag": "Indian angle",
+   "h": "LIGO-India and squeezed light",
+   "b": "<p>Gravitational wave detectors like LIGO fight quantum limits. They use \"squeezed light\", which trades uncertainty in one property for the other, to see tinier ripples. India has approved <b>LIGO-India</b> (Union Cabinet, April 2023, about ₹2,600 crore) at Aundha in Hingoli district, Maharashtra, expected to operate in the early 2030s. Indian scientists at IUCAA Pune, RRCAT Indore and IPR Gandhinagar are partners.</p>"
+  },
+  {
+   "tag": "Recap",
+   "h": "Key takeaways and think-about-it",
+   "b": "<ul><li>Δx × Δp ≥ ħ/2: narrow position means wide momentum.</li><li>It comes from wave nature, not from clumsy measuring.</li><li>It keeps atoms stable and limits sensors such as LIGO.</li></ul><div class=\"box\"><h4>Think about it</h4><ol><li>Why does a very short musical click have an unclear pitch?</li><li>How does uncertainty stop an electron falling into the nucleus?</li></ol></div>",
+   "cls": "exam"
+  }
+ ],
+ "quiz": [
+  {
+   "q": "Heisenberg's principle is mainly about:",
+   "o": [
+    "Clumsy instruments",
+    "Gravity",
+    "Light speed limits",
+    "Pairs of properties that cannot both be sharp"
+   ],
+   "a": 3,
+   "w": "It is a property of the state."
+  },
+  {
+   "q": "Narrowing a particle's position makes its momentum:",
+   "o": [
+    "More spread out",
+    "More sharp",
+    "Zero",
+    "Unchanged"
+   ],
+   "a": 0,
+   "w": "Narrow waves need many wavelengths."
+  },
+  {
+   "q": "Who proved the exact form Δx Δp ≥ ħ/2?",
+   "o": [
+    "Faraday",
+    "Earl Kennard",
+    "Planck",
+    "Dirac"
+   ],
+   "a": 1,
+   "w": "In 1927, after Heisenberg's idea."
+  },
+  {
+   "q": "Which is true about the observer effect?",
+   "o": [
+    "It is different from uncertainty",
+    "Observers cause uncertainty",
+    "They are identical",
+    "Uncertainty needs a human"
+   ],
+   "a": 0,
+   "w": "Uncertainty exists without measuring."
+  },
+  {
+   "q": "Why do atoms not collapse?",
+   "o": [
+    "Electrons are heavier",
+    "Nuclei repel them",
+    "Atoms are made of light",
+    "Pinning the electron near the nucleus raises its momentum and energy"
+   ],
+   "a": 3,
+   "w": "Uncertainty gives a size to the atom."
+  },
+  {
+   "q": "Why is the effect unnoticeable for a cricket ball?",
+   "o": [
+    "They have no position",
+    "Cricket balls are exempt",
+    "ħ is tiny compared with everyday quantities",
+    "Gravity cancels it"
+   ],
+   "a": 2,
+   "w": "The blur is far too small."
+  },
+  {
+   "q": "LIGO uses squeezed light to:",
+   "o": [
+    "Break uncertainty",
+    "Reduce noise in one property at the cost of the other",
+    "Remove gravity",
+    "Make light faster"
+   ],
+   "a": 1,
+   "w": "It exploits the trade-off."
+  },
+  {
+   "q": "Single-slit diffraction shows:",
+   "o": [
+    "A narrower slit spreads the beam more",
+    "A wider slit spreads it more",
+    "Perfect focus",
+    "No spreading"
+   ],
+   "a": 0,
+   "w": "Narrow position means wide momentum."
+  },
+  {
+   "q": "LIGO-India is planned at:",
+   "o": [
+    "Jaipur",
+    "Shillong",
+    "Aundha, Hingoli, Maharashtra",
+    "Chennai"
+   ],
+   "a": 2,
+   "w": "Cabinet approval in April 2023."
+  },
+  {
+   "q": "The energy-time form says short-lived states have:",
+   "o": [
+    "Infinite energy",
+    "Zero energy",
+    "Fuzzy energy",
+    "Exact energy"
+   ],
+   "a": 2,
+   "w": "This sets natural linewidths."
+  }
+ ],
+ "sources": [
+  "Heisenberg 1927",
+  "Kennard 1927",
+  "Erhart et al. 2012",
+  "Rozema et al. 2012",
+  "LIGO-India Cabinet approval April 2023"
+ ],
+ "verified": "2026-11-11"
+}
