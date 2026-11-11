@@ -1,0 +1,173 @@
+{
+ "id": "6-1-1",
+ "title": "Is Marx Still Relevant? Inequality, Platforms and Crisis",
+ "emoji": "🔮",
+ "cards": [
+  {
+   "tag": "Why this matters",
+   "h": "The last question",
+   "b": "<p>Marx died in 1883 and the states claiming his name have mostly failed or changed. Yet each crisis, from 2008 to the pandemic to AI, brings him back. The question is not whether Marx was right about communism but which of his diagnoses still work.</p>"
+  },
+  {
+   "tag": "Context",
+   "h": "The return of Marx",
+   "b": "<p>After 1989 many pronounced Marxism dead. The 2008 financial crisis revived interest: sales of <i>Capital</i> rose, and Thomas Piketty's <i>Capital in the Twenty-First Century</i> (2013) became a bestseller. In 2018, Marx's 200th birthday drew new attention; Time and The Economist ran cover pieces. Surveys show young people in rich countries are warmer to \"socialism\" than older generations.</p><svg class=\"d\" viewBox=\"0 0 320 190\" xmlns=\"http://www.w3.org/2000/svg\" font-family=\"sans-serif\"><line x1=\"64\" y1=\"8\" x2=\"64\" y2=\"182\" stroke=\"#5d6474\" stroke-width=\"1.5\"/><rect x=\"4\" y=\"8\" width=\"56\" height=\"30\" rx=\"6\" fill=\"#f1e4c6\" stroke=\"#a8792a\"/><text x=\"32\" y=\"27\" font-size=\"10.5\" fill=\"#1d2433\" text-anchor=\"middle\" font-weight=\"bold\">1989-91</text><rect x=\"70\" y=\"8\" width=\"246\" height=\"30\" rx=\"6\" fill=\"#dceaec\" stroke=\"#2f6f7a\"/><text x=\"76\" y=\"27\" font-size=\"11\" fill=\"#1d2433\" text-anchor=\"start\">\"End of history\"</text><rect x=\"4\" y=\"44\" width=\"56\" height=\"30\" rx=\"6\" fill=\"#f1e4c6\" stroke=\"#a8792a\"/><text x=\"32\" y=\"63\" font-size=\"10.5\" fill=\"#1d2433\" text-anchor=\"middle\" font-weight=\"bold\">2008</text><rect x=\"70\" y=\"44\" width=\"246\" height=\"30\" rx=\"6\" fill=\"#dceaec\" stroke=\"#2f6f7a\"/><text x=\"76\" y=\"63\" font-size=\"11\" fill=\"#1d2433\" text-anchor=\"start\">Financial crisis; Marx returns</text><rect x=\"4\" y=\"80\" width=\"56\" height=\"30\" rx=\"6\" fill=\"#f1e4c6\" stroke=\"#a8792a\"/><text x=\"32\" y=\"99\" font-size=\"10.5\" fill=\"#1d2433\" text-anchor=\"middle\" font-weight=\"bold\">2013</text><rect x=\"70\" y=\"80\" width=\"246\" height=\"30\" rx=\"6\" fill=\"#dceaec\" stroke=\"#2f6f7a\"/><text x=\"76\" y=\"99\" font-size=\"11\" fill=\"#1d2433\" text-anchor=\"start\">Piketty: r > g</text><rect x=\"4\" y=\"116\" width=\"56\" height=\"30\" rx=\"6\" fill=\"#f1e4c6\" stroke=\"#a8792a\"/><text x=\"32\" y=\"135\" font-size=\"10.5\" fill=\"#1d2433\" text-anchor=\"middle\" font-weight=\"bold\">2020</text><rect x=\"70\" y=\"116\" width=\"246\" height=\"30\" rx=\"6\" fill=\"#dceaec\" stroke=\"#2f6f7a\"/><text x=\"76\" y=\"135\" font-size=\"11\" fill=\"#1d2433\" text-anchor=\"start\">Pandemic: care and essential workers</text><rect x=\"4\" y=\"152\" width=\"56\" height=\"30\" rx=\"6\" fill=\"#f1e4c6\" stroke=\"#a8792a\"/><text x=\"32\" y=\"171\" font-size=\"10.5\" fill=\"#1d2433\" text-anchor=\"middle\" font-weight=\"bold\">2022-25</text><rect x=\"70\" y=\"152\" width=\"246\" height=\"30\" rx=\"6\" fill=\"#dceaec\" stroke=\"#2f6f7a\"/><text x=\"76\" y=\"171\" font-size=\"11\" fill=\"#1d2433\" text-anchor=\"start\">AI and platform power</text></svg>"
+  },
+  {
+   "tag": "Key idea",
+   "h": "Inequality and concentration",
+   "b": "<p>Marx expected capital to concentrate. Today, the top 1% own about 20-30% of income in many countries and a higher share of wealth; the top 1% held about 45% of global wealth by some estimates (UBS, Oxfam). Piketty's law, r > g (capital returns exceed growth), shows wealth accumulating faster than output. The Oxfam 2024 report says the five richest men doubled wealth since 2020. India's top 1% income share is about 22% (World Inequality Lab, 2022-23), among the highest in the world.</p>"
+  },
+  {
+   "tag": "Key idea",
+   "h": "Platforms, data and \"technofeudalism\"",
+   "b": "<p>Digital platforms (Amazon, Google, Meta, Uber) concentrate control of markets and data. Some see a new stage: Nick Srnicek (<i>Platform Capitalism</i>, 2016); Shoshana Zuboff (<i>Surveillance Capitalism</i>, 2019); Yanis Varoufakis (<i>Technofeudalism</i>, 2023) arguing capital has become rent. Gig work revives piece-rate and weak job security: delivery workers lack protections, and AI raises the question of automation and unemployment, which Marx touched in the \"Fragment on Machines\" (<i>Grundrisse</i>).</p>"
+  },
+  {
+   "tag": "Key idea",
+   "h": "Crisis, climate and global value chains",
+   "b": "<p>Capitalism has repeated booms and busts (1929, 1973, 2008), and uses debt and finance. Marxist ideas inform analyses of global value chains, offshoring, and imperialism (Patnaik; Smith, <i>Imperialism in the Twenty-First Century</i>, 2016). The ecological crisis (see 5-0-5) and social reproduction (5-0-4) extend the frame. Political movements range from Bernie Sanders's \"democratic socialism\" to Mamdani's 2025 win in New York (Zohran Mamdani, self-described democratic socialist, elected mayor in November 2025; verify details).</p>"
+  },
+  {
+   "tag": "In practice",
+   "h": "What Marx got wrong",
+   "b": "<p>Capitalism did not collapse; real wages rose in rich countries; the middle class grew rather than shrank; the working class split and shrank in industrial countries; revolutions occurred in peasant countries and produced authoritarian states; and the labour theory of value has been abandoned by most economists. Workers' politics shifted toward identity and nationalism. Welfare states, unions and regulation tamed capitalism in the 20th century.</p>"
+  },
+  {
+   "tag": "Critiques",
+   "h": "Verdicts",
+   "b": "<p><b>Liberals</b> (Fukuyama, Deirdre McCloskey): capitalism has raised living standards enormously (global extreme poverty fell from about 36% in 1990 to about 9% in 2019, World Bank), and Marx underestimated innovation and adaptation. <b>Economists</b>: Piketty's data is disputed (Auten and Splinter, 2024, find smaller US top-income shares), and inequality between countries fell while within-country inequality rose. <b>Marxists</b> reply that rising rents, monopolies and care crises vindicate him. <b>Anarchists and greens</b>: Marx too statist and productivist. <b>Pragmatists</b>: use Marx as a method, not a doctrine.</p>"
+  },
+  {
+   "tag": "Indian angle",
+   "h": "Marx and contemporary India",
+   "b": "<p>India combines high growth with high inequality, a large informal sector (about 80-90% of workers), contractualisation, farmer protests (2020-21) and the new labour codes (passed 2019-20, with implementation news in 2025). Marxists study agrarian distress (Patnaik), the \"jobless growth\" debate, and caste-class intersections (Ambedkar, Anand Teltumbde). Kerala's remittance economy and Left Front history provide cases. The BJP and Congress both use the language of welfare; the Left's electoral decline sits alongside intellectual presence in universities and unions.</p>"
+  },
+  {
+   "tag": "Recap",
+   "h": "Five takeaways and two debates",
+   "b": "<h4>Key takeaways</h4><ol><li>Marx's core diagnoses of concentration, crisis and alienation still frame debates.</li><li>Piketty and data on inequality revived his themes.</li><li>Platforms, gig work and AI raise new questions about labour and rent.</li><li>Failures: no collapse, rising wages, authoritarian revolutions, labour theory abandoned.</li><li>Marx is useful as a method of critique, less as a blueprint.</li></ol><h4>Debate questions</h4><ol><li>Which Marxian idea survives best: class, crisis, alienation or exploitation?</li><li>Would a society built on his ideas need more or less state?</li></ol>",
+   "cls": "exam"
+  }
+ ],
+ "quiz": [
+  {
+   "q": "Piketty's Capital in the Twenty-First Century appeared in",
+   "o": [
+    "2013",
+    "2008",
+    "2018",
+    "1999"
+   ],
+   "a": 0,
+   "w": "French original."
+  },
+  {
+   "q": "Piketty's key inequality is",
+   "o": [
+    "r > g",
+    "c > v",
+    "s > w",
+    "p > m"
+   ],
+   "a": 0,
+   "w": "Return on capital above growth."
+  },
+  {
+   "q": "Varoufakis's 2023 book is",
+   "o": [
+    "Platform Capitalism",
+    "Surveillance Capitalism",
+    "Technofeudalism",
+    "The Shock Doctrine"
+   ],
+   "a": 2,
+   "w": "Capital as rent."
+  },
+  {
+   "q": "Surveillance Capitalism (2019) is by",
+   "o": [
+    "Nick Srnicek",
+    "Piketty",
+    "Harvey",
+    "Shoshana Zuboff"
+   ],
+   "a": 3,
+   "w": "On data extraction."
+  },
+  {
+   "q": "Marx on automation appears in",
+   "o": [
+    "Manifesto",
+    "Grundrisse \"Fragment on Machines\"",
+    "Gotha Programme",
+    "Theses on Feuerbach"
+   ],
+   "a": 1,
+   "w": "1857-58."
+  },
+  {
+   "q": "Global extreme poverty fell from about 36% in 1990 to about",
+   "o": [
+    "9% in 2019",
+    "30% in 2019",
+    "20% in 2019",
+    "1% in 2019"
+   ],
+   "a": 0,
+   "w": "World Bank figures."
+  },
+  {
+   "q": "Which of Marx's predictions did NOT materialise?",
+   "o": [
+    "Concentration of capital",
+    "Recurrent crises",
+    "Steady fall in workers' living standards",
+    "Globalisation of markets"
+   ],
+   "a": 2,
+   "w": "Real wages rose in rich countries."
+  },
+  {
+   "q": "Which Indian economists wrote on agrarian distress and imperialism?",
+   "o": [
+    "Utsa and Prabhat Patnaik",
+    "Bhagwati and Srinivasan",
+    "Panagariya",
+    "Ahluwalia"
+   ],
+   "a": 0,
+   "w": "Marxist economists."
+  },
+  {
+   "q": "The Indian farmer protests against farm laws were in",
+   "o": [
+    "2014",
+    "1991",
+    "2016",
+    "2020-21"
+   ],
+   "a": 3,
+   "w": "Laws repealed in 2021."
+  },
+  {
+   "q": "Auten and Splinter (2024) found US top-income shares",
+   "o": [
+    "Larger",
+    "Smaller than Piketty-Saez estimates",
+    "Identical",
+    "Not measurable"
+   ],
+   "a": 1,
+   "w": "Journal of Political Economy."
+  }
+ ],
+ "sources": [
+  "Piketty 2013",
+  "Zuboff 2019",
+  "Varoufakis 2023",
+  "World Bank 2022",
+  "WIL 2024"
+ ],
+ "verified": "2026-11-11"
+}

@@ -1,0 +1,175 @@
+{
+ "id": "2-0-3",
+ "title": "Human Evolution",
+ "emoji": "🧍",
+ "cards": [
+  {
+   "tag": "Why this matters",
+   "h": "Our own family tree",
+   "b": "<p>Where did we come from? The answer is not a single line from ape to human but a bushy tree of many human-like species, most now extinct. Fossils and DNA tell a story that is still being written.</p>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "Humans are apes",
+   "b": "<p>Humans belong to the primates and the great apes. Our closest living relatives are chimpanzees and bonobos. Humans and chimps share a common ancestor that lived roughly 6 to 7 million years ago. This is a cousin relationship, not descent.</p>"
+  },
+  {
+   "tag": "Step by step",
+   "h": "Walking upright first",
+   "b": "<p>Bipedalism came before big brains. <b>Sahelanthropus</b> (about 7 million years ago) may be early. <b>Australopithecus afarensis</b>, the famed 'Lucy' (found by Donald Johanson in Ethiopia, 1974, about 3.2 million years old), walked upright but had a small brain.</p><svg class=\"d\" viewBox=\"0 0 320 172\"><defs><marker id=\"h1\" viewBox=\"0 0 10 10\" refX=\"8\" refY=\"5\" markerWidth=\"6\" markerHeight=\"6\" orient=\"auto\"><path d=\"M0 0L10 5L0 10z\" fill=\"#5d6474\"/></marker></defs><rect x=\"20\" y=\"6\" width=\"280\" height=\"28\" rx=\"6\" fill=\"#f1e4c6\" stroke=\"#a8792a\"/><text x=\"160\" y=\"24\" text-anchor=\"middle\" font-size=\"11\" fill=\"#1d2433\">Australopithecus: walked, small brain</text><line x1=\"160\" y1=\"34\" x2=\"160\" y2=\"50\" stroke=\"#5d6474\" stroke-width=\"1.5\" marker-end=\"url(#h1)\"/><rect x=\"20\" y=\"50\" width=\"280\" height=\"28\" rx=\"6\" fill=\"#dceaec\" stroke=\"#2f6f7a\"/><text x=\"160\" y=\"68\" text-anchor=\"middle\" font-size=\"11\" fill=\"#1d2433\">Homo habilis: simple stone tools</text><line x1=\"160\" y1=\"78\" x2=\"160\" y2=\"94\" stroke=\"#5d6474\" stroke-width=\"1.5\" marker-end=\"url(#h1)\"/><rect x=\"20\" y=\"94\" width=\"280\" height=\"28\" rx=\"6\" fill=\"#f1e4c6\" stroke=\"#a8792a\"/><text x=\"160\" y=\"112\" text-anchor=\"middle\" font-size=\"11\" fill=\"#1d2433\">Homo erectus: fire, long legs, left Africa</text><line x1=\"160\" y1=\"122\" x2=\"160\" y2=\"138\" stroke=\"#5d6474\" stroke-width=\"1.5\" marker-end=\"url(#h1)\"/><rect x=\"20\" y=\"138\" width=\"280\" height=\"28\" rx=\"6\" fill=\"#dceaec\" stroke=\"#2f6f7a\"/><text x=\"160\" y=\"156\" text-anchor=\"middle\" font-size=\"11\" fill=\"#1d2433\">Homo sapiens: large brain, language</text></svg>"
+  },
+  {
+   "tag": "Step by step",
+   "h": "The genus Homo",
+   "b": "<ul><li><b>Homo habilis</b> (about 2.4 mya): early tools.</li><li><b>Homo erectus</b> (from about 1.9 mya): used fire, travelled to Asia.</li><li><b>Neanderthals</b> (Homo neanderthalensis): in Europe and Asia; large brain, buried dead.</li><li><b>Homo sapiens</b>: appeared in Africa about 300,000 years ago (Jebel Irhoud, Morocco).</li></ul>"
+  },
+  {
+   "tag": "Step by step",
+   "h": "Out of Africa",
+   "b": "<p>Genetic data show modern humans left Africa in waves, at least by about 70,000 to 50,000 years ago, and replaced or mixed with other humans. Non-African people carry 1-2 percent Neanderthal DNA; some Asians carry Denisovan DNA. Svante Paabo won the 2022 Nobel for sequencing ancient DNA.</p>"
+  },
+  {
+   "tag": "Step by step",
+   "h": "Brain, tools and culture",
+   "b": "<p>Brain size grew from about 450 cc (Australopithecus) to about 1350 cc (us). Tools, cooking, speech and social learning pushed this. Cultural evolution (agriculture about 10,000 years ago) now moves faster than genetic change.</p>"
+  },
+  {
+   "tag": "How we know",
+   "h": "Fossils and DNA",
+   "b": "<p>Raymond Dart found the Taung child in 1924. Louis and Mary Leakey worked in Olduvai Gorge. Mitochondrial DNA studies (Cann, Stoneking and Wilson, 1987) pointed to an African origin. Homo naledi (2015, South Africa) and Homo floresiensis (2003, Indonesia) show we shared the world with other humans.</p>"
+  },
+  {
+   "tag": "Misconceptions",
+   "h": "Watch out",
+   "b": "<div class=\"box\"><h4>Fix these</h4><ul><li>Humans did not descend from chimpanzees.</li><li>Evolution is not a straight march from ape to modern man.</li><li>Neanderthals were not stupid brutes.</li></ul></div>"
+  },
+  {
+   "tag": "Indian angle",
+   "h": "Early humans in India",
+   "b": "<p>Narmada Man, a skull found at Hathnora (1982, Arun Sonakia) has been linked to early Homo. Stone tools at Attirampakkam in Tamil Nadu date to about 385,000 years ago. The Toba volcano eruption about 74,000 years ago affected populations. Bhimbetka rock shelters in Madhya Pradesh hold paintings up to roughly 10,000 years old and tools much older. The Andaman Jarawa and Onge carry some of the oldest lineages outside Africa.</p>"
+  },
+  {
+   "tag": "Recap",
+   "h": "Key takeaways and questions",
+   "b": "<ul><li>Humans and chimps share a common ancestor 6-7 mya.</li><li>Upright walking came before big brains.</li><li>Homo sapiens arose in Africa about 300,000 years ago.</li><li>Our DNA records mixing with Neanderthals and Denisovans.</li></ul><p><b>Think about it:</b></p><ol><li>Why does a bushy tree fit the evidence better than a ladder?</li><li>What does Neanderthal DNA in modern people tell us?</li></ol>",
+   "cls": "exam"
+  }
+ ],
+ "quiz": [
+  {
+   "q": "Lucy belongs to:",
+   "o": [
+    "Homo erectus",
+    "Australopithecus afarensis",
+    "Neanderthal",
+    "Homo sapiens"
+   ],
+   "a": 1,
+   "w": "Found 1974 in Ethiopia."
+  },
+  {
+   "q": "Humans and chimps share an ancestor about:",
+   "o": [
+    "60 mya",
+    "6-7 mya",
+    "600,000 yrs",
+    "60,000 yrs"
+   ],
+   "a": 1,
+   "w": "6-7 million years."
+  },
+  {
+   "q": "Which species first used fire widely?",
+   "o": [
+    "Homo erectus",
+    "Australopithecus",
+    "Homo habilis",
+    "Sahelanthropus"
+   ],
+   "a": 0,
+   "w": "Erectus."
+  },
+  {
+   "q": "Modern humans first appeared in:",
+   "o": [
+    "Europe",
+    "Asia",
+    "Africa",
+    "India"
+   ],
+   "a": 2,
+   "w": "Africa."
+  },
+  {
+   "q": "Paabo won the 2022 Nobel for:",
+   "o": [
+    "Fossil dating",
+    "Ancient DNA",
+    "Tool design",
+    "Brain imaging"
+   ],
+   "a": 1,
+   "w": "Paleogenomics."
+  },
+  {
+   "q": "Bipedalism came:",
+   "o": [
+    "After big brains",
+    "Before big brains",
+    "With fire",
+    "With farming"
+   ],
+   "a": 1,
+   "w": "Walking came first."
+  },
+  {
+   "q": "Neanderthal DNA is found in:",
+   "o": [
+    "Non-Africans",
+    "Only Africans",
+    "Nobody",
+    "Chimps"
+   ],
+   "a": 0,
+   "w": "1-2 percent."
+  },
+  {
+   "q": "Attirampakkam is in:",
+   "o": [
+    "Gujarat",
+    "Tamil Nadu",
+    "Assam",
+    "Punjab"
+   ],
+   "a": 1,
+   "w": "Stone tools."
+  },
+  {
+   "q": "Taung child discovered by:",
+   "o": [
+    "Dart",
+    "Leakey",
+    "Johanson",
+    "Paabo"
+   ],
+   "a": 0,
+   "w": "1924."
+  },
+  {
+   "q": "Homo floresiensis found in:",
+   "o": [
+    "Indonesia",
+    "India",
+    "Kenya",
+    "Spain"
+   ],
+   "a": 0,
+   "w": "2003, Flores."
+  }
+ ],
+ "sources": [
+  "Campbell Biology",
+  "NCERT Class 12 Biology"
+ ],
+ "verified": "2026-11-11"
+}

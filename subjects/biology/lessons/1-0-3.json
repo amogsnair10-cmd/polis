@@ -1,0 +1,175 @@
+{
+ "id": "1-0-3",
+ "title": "Gene Regulation and Epigenetics",
+ "emoji": "🎛️",
+ "cards": [
+  {
+   "tag": "Why this matters",
+   "h": "Same DNA, different cells",
+   "b": "<p>A nerve cell and a liver cell have the same DNA, yet look and work completely differently. The reason is that each cell switches on only the genes it needs. Regulation explains development, cancer and why identical twins drift apart.</p>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "Genes have switches",
+   "b": "<p>Think of a recipe book where each cook opens only some pages. Regulation can act at many points: whether a gene is copied, how the mRNA is edited, how long it lasts and how the protein is used. The most common control is at transcription.</p>"
+  },
+  {
+   "tag": "Step by step",
+   "h": "The lac operon",
+   "b": "<p>Francois Jacob and Jacques Monod (1961, Nobel 1965) studied how the gut bacterium E. coli handles lactose. An <b>operon</b> is a group of genes under one switch.</p><ul><li>No lactose: a <b>repressor</b> sits on the operator and blocks the genes.</li><li>Lactose present: it binds the repressor, which lets go, and enzymes to digest lactose are made.</li></ul><svg class=\"d\" viewBox=\"0 0 320 172\"><defs><marker id=\"o1\" viewBox=\"0 0 10 10\" refX=\"8\" refY=\"5\" markerWidth=\"6\" markerHeight=\"6\" orient=\"auto\"><path d=\"M0 0L10 5L0 10z\" fill=\"#5d6474\"/></marker></defs><rect x=\"20\" y=\"6\" width=\"280\" height=\"28\" rx=\"6\" fill=\"#f4dcd5\" stroke=\"#a3362a\"/><text x=\"160\" y=\"24\" text-anchor=\"middle\" font-size=\"11\" fill=\"#1d2433\">No lactose: repressor blocks genes</text><line x1=\"160\" y1=\"34\" x2=\"160\" y2=\"50\" stroke=\"#5d6474\" stroke-width=\"1.5\" marker-end=\"url(#o1)\"/><rect x=\"20\" y=\"50\" width=\"280\" height=\"28\" rx=\"6\" fill=\"#f1e4c6\" stroke=\"#a8792a\"/><text x=\"160\" y=\"68\" text-anchor=\"middle\" font-size=\"11\" fill=\"#1d2433\">Lactose arrives, binds repressor</text><line x1=\"160\" y1=\"78\" x2=\"160\" y2=\"94\" stroke=\"#5d6474\" stroke-width=\"1.5\" marker-end=\"url(#o1)\"/><rect x=\"20\" y=\"94\" width=\"280\" height=\"28\" rx=\"6\" fill=\"#dceaec\" stroke=\"#2f6f7a\"/><text x=\"160\" y=\"112\" text-anchor=\"middle\" font-size=\"11\" fill=\"#1d2433\">Repressor released from operator</text><line x1=\"160\" y1=\"122\" x2=\"160\" y2=\"138\" stroke=\"#5d6474\" stroke-width=\"1.5\" marker-end=\"url(#o1)\"/><rect x=\"20\" y=\"138\" width=\"280\" height=\"28\" rx=\"6\" fill=\"#dceaec\" stroke=\"#2f6f7a\"/><text x=\"160\" y=\"156\" text-anchor=\"middle\" font-size=\"11\" fill=\"#1d2433\">Genes switched on, lactose digested</text></svg>"
+  },
+  {
+   "tag": "Step by step",
+   "h": "Switches in complex cells",
+   "b": "<p>Eukaryotes use <b>transcription factors</b>, proteins that bind promoters and distant <b>enhancers</b>. Hormones like oestrogen act this way. A master gene, like Hox genes, can set the body plan: wrong switch, extra legs on a fly.</p>"
+  },
+  {
+   "tag": "Step by step",
+   "h": "Epigenetics: marks on DNA",
+   "b": "<p>Epigenetics means changes in gene activity without changing the DNA letters. Two main marks:</p><ul><li><b>DNA methylation:</b> methyl groups on cytosine usually silence a gene.</li><li><b>Histone modification:</b> tight or loose packing hides or exposes genes.</li></ul><p>Some marks are copied when cells divide, which keeps a liver cell a liver cell.</p>"
+  },
+  {
+   "tag": "Step by step",
+   "h": "Small RNAs",
+   "b": "<p>Tiny RNA molecules (microRNA, siRNA) can block mRNA and silence genes. Andrew Fire and Craig Mello discovered RNA interference in 1998 (Nobel 2006). Ambros and Ruvkun found microRNA (Nobel 2024).</p>"
+  },
+  {
+   "tag": "How we know",
+   "h": "Famine and identical twins",
+   "b": "<p>People born after the Dutch Hunger Winter of 1944-45 showed different methylation decades later and higher risk of some diseases. Identical twins gain different marks with age, diet and smoking. Dolly the sheep (1996) showed an adult cell's genes can be reset.</p>"
+  },
+  {
+   "tag": "Misconceptions",
+   "h": "Watch out",
+   "b": "<div class=\"box\"><h4>Fix these</h4><ul><li>Epigenetic marks are not mutations; the sequence is unchanged.</li><li>Not all marks pass to children; most are erased in eggs and sperm.</li><li>Epigenetics does not mean you can will your genes to change.</li></ul></div>"
+  },
+  {
+   "tag": "Indian angle",
+   "h": "Cancer, diet and Indian research",
+   "b": "<p>Abnormal methylation can silence tumour-suppressor genes in cancers. Indian labs, including the Institute of Genomics and Integrative Biology in Delhi, study gene regulation in disease. Indian population studies on diabetes link early-life nutrition to later risk, an idea called developmental programming.</p>"
+  },
+  {
+   "tag": "Recap",
+   "h": "Key takeaways and questions",
+   "b": "<ul><li>Cells use different genes from the same DNA.</li><li>Operons (lac) are bacterial switches.</li><li>Methylation and histone changes silence genes; RNAi blocks mRNA.</li></ul><p><b>Think about it:</b></p><ol><li>Why can a skin cell not simply become a neuron on its own?</li><li>Why is a repressor useful for saving energy?</li></ol>",
+   "cls": "exam"
+  }
+ ],
+ "quiz": [
+  {
+   "q": "The lac operon was described by:",
+   "o": [
+    "Jacob and Monod",
+    "Watson and Crick",
+    "Mendel",
+    "Krebs"
+   ],
+   "a": 0,
+   "w": "1961."
+  },
+  {
+   "q": "When lactose is absent, the repressor:",
+   "o": [
+    "Releases",
+    "Blocks the genes",
+    "Is destroyed",
+    "Copies DNA"
+   ],
+   "a": 1,
+   "w": "Genes stay off."
+  },
+  {
+   "q": "DNA methylation usually:",
+   "o": [
+    "Activates a gene",
+    "Silences a gene",
+    "Mutates DNA",
+    "Copies DNA"
+   ],
+   "a": 1,
+   "w": "Silences."
+  },
+  {
+   "q": "RNA interference was discovered by:",
+   "o": [
+    "Fire and Mello",
+    "Khorana",
+    "Crick",
+    "Franklin"
+   ],
+   "a": 0,
+   "w": "1998."
+  },
+  {
+   "q": "An operon is:",
+   "o": [
+    "A protein",
+    "A group of genes under one switch",
+    "A virus",
+    "A chromosome"
+   ],
+   "a": 1,
+   "w": "Bacterial gene cluster."
+  },
+  {
+   "q": "Epigenetic marks change:",
+   "o": [
+    "The DNA sequence",
+    "Gene activity",
+    "Protein code",
+    "Chromosome number"
+   ],
+   "a": 1,
+   "w": "Activity not sequence."
+  },
+  {
+   "q": "Transcription factors:",
+   "o": [
+    "Digest proteins",
+    "Bind DNA to control genes",
+    "Carry amino acids",
+    "Copy DNA"
+   ],
+   "a": 1,
+   "w": "They control transcription."
+  },
+  {
+   "q": "Hox genes control:",
+   "o": [
+    "Blood type",
+    "Body plan",
+    "Digestion",
+    "Vision only"
+   ],
+   "a": 1,
+   "w": "Body layout."
+  },
+  {
+   "q": "The Dutch Hunger Winter study suggested:",
+   "o": [
+    "Mutation",
+    "Early nutrition leaves lasting marks",
+    "No effect",
+    "Faster ageing only"
+   ],
+   "a": 1,
+   "w": "Epigenetic effect."
+  },
+  {
+   "q": "Histones are:",
+   "o": [
+    "DNA bases",
+    "Proteins DNA wraps around",
+    "Enzymes",
+    "Lipids"
+   ],
+   "a": 1,
+   "w": "Packaging proteins."
+  }
+ ],
+ "sources": [
+  "NCERT Class 12 Biology",
+  "Campbell Biology"
+ ],
+ "verified": "2026-11-11"
+}

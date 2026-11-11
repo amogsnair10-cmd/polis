@@ -1,0 +1,175 @@
+{
+ "id": "1-0-4",
+ "title": "Mutations and Genetic Disease",
+ "emoji": "⚠️",
+ "cards": [
+  {
+   "tag": "Why this matters",
+   "h": "Typos in the recipe",
+   "b": "<p>Every time DNA is copied, a few errors slip through. Most do nothing. Some cause disease. A few help survival and drive evolution. Mutations explain cancer, inherited disorders and how bacteria beat antibiotics.</p>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "What a mutation is",
+   "b": "<p>A mutation is a lasting change in the DNA sequence. <b>Germline</b> mutations (in eggs or sperm) can be inherited. <b>Somatic</b> mutations (in body cells) affect only that person and cannot be passed on. Causes: copying errors, UV light, X-rays, tobacco chemicals, some viruses.</p>"
+  },
+  {
+   "tag": "Step by step",
+   "h": "Small mutations (point)",
+   "b": "<ul><li><b>Silent:</b> new codon codes the same amino acid.</li><li><b>Missense:</b> a different amino acid. Sickle cell: GAG to GTG, glutamic acid to valine.</li><li><b>Nonsense:</b> creates a stop codon, so a short protein.</li><li><b>Frameshift:</b> an inserted or deleted base shifts every codon after it.</li></ul>"
+  },
+  {
+   "tag": "Step by step",
+   "h": "Large mutations",
+   "b": "<p>Whole chromosome pieces can be deleted, duplicated, inverted or swapped. Whole chromosomes can be gained or lost (nondisjunction): Down syndrome (trisomy 21), Turner syndrome (XO), Klinefelter syndrome (XXY).</p>"
+  },
+  {
+   "tag": "Step by step",
+   "h": "Inherited disease patterns",
+   "b": "<ul><li><b>Autosomal recessive:</b> need two copies, parents are carriers. Cystic fibrosis, thalassaemia, sickle cell.</li><li><b>Autosomal dominant:</b> one copy is enough. Huntington's disease.</li><li><b>X-linked recessive:</b> mostly boys. Haemophilia, colour blindness.</li></ul><svg class=\"d\" viewBox=\"0 0 320 172\"><defs><marker id=\"m1\" viewBox=\"0 0 10 10\" refX=\"8\" refY=\"5\" markerWidth=\"6\" markerHeight=\"6\" orient=\"auto\"><path d=\"M0 0L10 5L0 10z\" fill=\"#5d6474\"/></marker></defs><rect x=\"20\" y=\"6\" width=\"280\" height=\"28\" rx=\"6\" fill=\"#dceaec\" stroke=\"#2f6f7a\"/><text x=\"160\" y=\"24\" text-anchor=\"middle\" font-size=\"11\" fill=\"#1d2433\">Normal gene (DNA)</text><line x1=\"160\" y1=\"34\" x2=\"160\" y2=\"50\" stroke=\"#5d6474\" stroke-width=\"1.5\" marker-end=\"url(#m1)\"/><rect x=\"20\" y=\"50\" width=\"280\" height=\"28\" rx=\"6\" fill=\"#f4dcd5\" stroke=\"#a3362a\"/><text x=\"160\" y=\"68\" text-anchor=\"middle\" font-size=\"11\" fill=\"#1d2433\">Mutation changes a base</text><line x1=\"160\" y1=\"78\" x2=\"160\" y2=\"94\" stroke=\"#5d6474\" stroke-width=\"1.5\" marker-end=\"url(#m1)\"/><rect x=\"20\" y=\"94\" width=\"280\" height=\"28\" rx=\"6\" fill=\"#f4dcd5\" stroke=\"#a3362a\"/><text x=\"160\" y=\"112\" text-anchor=\"middle\" font-size=\"11\" fill=\"#1d2433\">Altered protein made</text><line x1=\"160\" y1=\"122\" x2=\"160\" y2=\"138\" stroke=\"#5d6474\" stroke-width=\"1.5\" marker-end=\"url(#m1)\"/><rect x=\"20\" y=\"138\" width=\"280\" height=\"28\" rx=\"6\" fill=\"#f4dcd5\" stroke=\"#a3362a\"/><text x=\"160\" y=\"156\" text-anchor=\"middle\" font-size=\"11\" fill=\"#1d2433\">Disease if function is lost</text></svg>"
+  },
+  {
+   "tag": "Step by step",
+   "h": "Repair and cancer",
+   "b": "<p>Cells repair DNA with proofreading and repair enzymes. Cancer develops when mutations hit genes that drive growth (<b>oncogenes</b>) or brake it (<b>tumour suppressors</b> such as p53). Usually several mutations are needed. BRCA1 and BRCA2 mutations raise breast and ovarian cancer risk.</p>"
+  },
+  {
+   "tag": "How we know",
+   "h": "From flies to bombs",
+   "b": "<p>Hermann Muller (1927) showed X-rays cause mutations in fruit flies (Nobel 1946). Linus Pauling (1949) called sickle cell a 'molecular disease'. Vernon Ingram (1956) traced it to one amino acid. Bruce Ames developed a test for chemicals that cause mutations in 1970s.</p>"
+  },
+  {
+   "tag": "Misconceptions",
+   "h": "Watch out",
+   "b": "<div class=\"box\"><h4>Fix these</h4><ul><li>Mutations are not always harmful; many are neutral and some are useful.</li><li>Mutations do not occur 'because the organism needs them'.</li><li>Carrying one copy of a recessive gene does not mean having the disease.</li></ul></div>"
+  },
+  {
+   "tag": "Indian angle",
+   "h": "Sickle cell and thalassaemia",
+   "b": "<p>Sickle cell disease is common among tribal communities in central and western India. Carriers resist malaria, which keeps the gene frequent (balanced polymorphism). The National Sickle Cell Anaemia Elimination Mission (2023) aims at screening and counselling to end it as a public health problem by 2047. Thalassaemia screening is promoted before marriage in many states.</p>"
+  },
+  {
+   "tag": "Recap",
+   "h": "Key takeaways and questions",
+   "b": "<ul><li>Point mutations: silent, missense, nonsense, frameshift.</li><li>Germline mutations are inherited; somatic are not.</li><li>Cancer follows from damaged growth control genes.</li></ul><p><b>Think about it:</b></p><ol><li>Why is a frameshift usually worse than a point change?</li><li>Why might carrying the sickle gene help in malarial areas?</li></ol>",
+   "cls": "exam"
+  }
+ ],
+ "quiz": [
+  {
+   "q": "A frameshift is caused by:",
+   "o": [
+    "Base swap",
+    "Insertion or deletion",
+    "Silent change",
+    "Radiation only"
+   ],
+   "a": 1,
+   "w": "Shifts the reading frame."
+  },
+  {
+   "q": "Sickle cell is caused by:",
+   "o": [
+    "Extra chromosome",
+    "Missense mutation",
+    "Frameshift",
+    "Deletion of gene"
+   ],
+   "a": 1,
+   "w": "Glu to Val."
+  },
+  {
+   "q": "Which mutations can be inherited?",
+   "o": [
+    "Somatic",
+    "Germline",
+    "Neither",
+    "Skin only"
+   ],
+   "a": 1,
+   "w": "Germline."
+  },
+  {
+   "q": "Down syndrome is:",
+   "o": [
+    "XO",
+    "Trisomy 21",
+    "XXY",
+    "Monosomy 21"
+   ],
+   "a": 1,
+   "w": "Extra chromosome 21."
+  },
+  {
+   "q": "Muller showed X-rays cause mutation in:",
+   "o": [
+    "Peas",
+    "Fruit flies",
+    "Mice",
+    "Bacteria"
+   ],
+   "a": 1,
+   "w": "1927."
+  },
+  {
+   "q": "p53 is a:",
+   "o": [
+    "Oncogene",
+    "Tumour suppressor",
+    "Enzyme for digestion",
+    "Hormone"
+   ],
+   "a": 1,
+   "w": "Guardian of genome."
+  },
+  {
+   "q": "Haemophilia is:",
+   "o": [
+    "Autosomal dominant",
+    "X-linked recessive",
+    "Mitochondrial",
+    "Y-linked"
+   ],
+   "a": 1,
+   "w": "Mostly boys."
+  },
+  {
+   "q": "A silent mutation:",
+   "o": [
+    "Changes protein",
+    "Does not change amino acid",
+    "Stops protein",
+    "Adds a base"
+   ],
+   "a": 1,
+   "w": "Redundant code."
+  },
+  {
+   "q": "Turner syndrome karyotype:",
+   "o": [
+    "XXY",
+    "XO",
+    "XYY",
+    "XXX"
+   ],
+   "a": 1,
+   "w": "One X."
+  },
+  {
+   "q": "Why does the sickle gene persist?",
+   "o": [
+    "No reason",
+    "Carriers resist malaria",
+    "It is dominant",
+    "Virus spread"
+   ],
+   "a": 1,
+   "w": "Heterozygote advantage."
+  }
+ ],
+ "sources": [
+  "NCERT Class 12 Biology",
+  "Campbell Biology"
+ ],
+ "verified": "2026-11-11"
+}

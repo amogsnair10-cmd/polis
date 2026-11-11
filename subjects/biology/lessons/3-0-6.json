@@ -1,0 +1,180 @@
+{
+ "id": "3-0-6",
+ "title": "Reproduction and Development",
+ "emoji": "👶",
+ "cards": [
+  {
+   "tag": "Why this matters",
+   "h": "How a single cell becomes a person",
+   "b": "<p>Nine months turn one fertilised cell into a baby with trillions of cells. Understanding reproduction supports health education, family planning and the treatment of infertility, a matter that affects millions of couples in India.</p>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "Gametes",
+   "b": "<p>Sperm (male) and eggs (female) are haploid cells made by meiosis. Sperm are made in the <b>testes</b> and travel through the epididymis and vas deferens. Eggs mature in the <b>ovaries</b>; a girl is born with about a million immature eggs and typically about 400 are released in life.</p>"
+  },
+  {
+   "tag": "Step by step",
+   "h": "The menstrual cycle",
+   "b": "<p>About 28 days, controlled by hormones.</p><ol><li>Days 1-5: menstruation (the lining sheds).</li><li>FSH grows a follicle; oestrogen rebuilds the lining.</li><li>Day 14: an LH surge causes <b>ovulation</b>.</li><li>Progesterone from the corpus luteum prepares the uterus.</li><li>If no pregnancy, hormone levels fall and the cycle restarts.</li></ol>"
+  },
+  {
+   "tag": "Step by step",
+   "h": "Fertilisation to implantation",
+   "b": "<p>The sperm meets the egg in the fallopian tube. Fusion makes a <b>zygote</b> (2n). It divides (cleavage) into a ball of cells, the blastocyst, which implants in the uterine wall at about day 6-7.</p><svg class=\"d\" viewBox=\"0 0 320 172\"><defs><marker id=\"rp1\" viewBox=\"0 0 10 10\" refX=\"8\" refY=\"5\" markerWidth=\"6\" markerHeight=\"6\" orient=\"auto\"><path d=\"M0 0L10 5L0 10z\" fill=\"#5d6474\"/></marker></defs><rect x=\"20\" y=\"6\" width=\"280\" height=\"28\" rx=\"6\" fill=\"#f1e4c6\" stroke=\"#a8792a\"/><text x=\"160\" y=\"24\" text-anchor=\"middle\" font-size=\"11\" fill=\"#1d2433\">Fertilisation in fallopian tube</text><line x1=\"160\" y1=\"34\" x2=\"160\" y2=\"50\" stroke=\"#5d6474\" stroke-width=\"1.5\" marker-end=\"url(#rp1)\"/><rect x=\"20\" y=\"50\" width=\"280\" height=\"28\" rx=\"6\" fill=\"#dceaec\" stroke=\"#2f6f7a\"/><text x=\"160\" y=\"68\" text-anchor=\"middle\" font-size=\"11\" fill=\"#1d2433\">Zygote divides into blastocyst</text><line x1=\"160\" y1=\"78\" x2=\"160\" y2=\"94\" stroke=\"#5d6474\" stroke-width=\"1.5\" marker-end=\"url(#rp1)\"/><rect x=\"20\" y=\"94\" width=\"280\" height=\"28\" rx=\"6\" fill=\"#f1e4c6\" stroke=\"#a8792a\"/><text x=\"160\" y=\"112\" text-anchor=\"middle\" font-size=\"11\" fill=\"#1d2433\">Implantation in the uterus</text><line x1=\"160\" y1=\"122\" x2=\"160\" y2=\"138\" stroke=\"#5d6474\" stroke-width=\"1.5\" marker-end=\"url(#rp1)\"/><rect x=\"20\" y=\"138\" width=\"280\" height=\"28\" rx=\"6\" fill=\"#dceaec\" stroke=\"#2f6f7a\"/><text x=\"160\" y=\"156\" text-anchor=\"middle\" font-size=\"11\" fill=\"#1d2433\">Embryo then foetus grows</text></svg>"
+  },
+  {
+   "tag": "Step by step",
+   "h": "Pregnancy and the placenta",
+   "b": "<p>The placenta passes oxygen and nutrients from mother to foetus and waste back, without mixing the bloods. It also makes hormones (hCG, which pregnancy tests detect). Pregnancy lasts about 38 weeks from fertilisation. Organs form in the first 8 weeks, the most sensitive period for drugs and viruses.</p>"
+  },
+  {
+   "tag": "Step by step",
+   "h": "Birth and lactation",
+   "b": "<p>Oxytocin triggers contractions. After birth, prolactin makes milk and oxytocin lets it flow. Early breast milk (colostrum) is rich in antibodies.</p>"
+  },
+  {
+   "tag": "Step by step",
+   "h": "Contraception and infertility",
+   "b": "<p>Methods include barriers (condoms), hormonal pills, copper-T, and sterilisation. In vitro fertilisation (IVF) makes an embryo outside the body; the first IVF baby, Louise Brown, was born in 1978 (Robert Edwards, Nobel 2010).</p>"
+  },
+  {
+   "tag": "How we know",
+   "h": "Development discoveries",
+   "b": "<p>Karl Ernst von Baer found the mammalian egg (1827). Hans Spemann and Hilde Mangold (1924) showed an 'organiser' region guides the embryo. Hox genes explain body layout. Sex is set by the Y chromosome gene SRY (1990).</p>"
+  },
+  {
+   "tag": "Misconceptions",
+   "h": "Watch out",
+   "b": "<div class=\"box\"><h4>Fix these</h4><ul><li>The father's sperm decides the baby's sex (X or Y), not the mother.</li><li>Ovulation does not always occur on day 14.</li><li>The placenta is a filter, not a wall: some viruses and drugs cross.</li></ul></div>"
+  },
+  {
+   "tag": "Indian angle",
+   "h": "Birth and population in India",
+   "b": "<p>Dr Subhash Mukhopadhyay performed India's first IVF birth (Durga, Kolkata, 1978), only months after Louise Brown, but his work was not recognised during his lifetime. Dr T.C. Anand Kumar delivered India's first officially recorded IVF baby in 1986. India's total fertility rate dropped to about 2.0, under replacement level, per NFHS-5 (2019-21). Janani Suraksha Yojana (2005) promotes safe institutional births.</p>"
+  },
+  {
+   "tag": "Recap",
+   "h": "Key takeaways and questions",
+   "b": "<ul><li>Gametes are haploid and made by meiosis.</li><li>Cycle: FSH, oestrogen, LH surge, progesterone.</li><li>Fertilisation, implantation, placenta, birth.</li><li>IVF began in 1978.</li></ul><p><b>Think about it:</b></p><ol><li>Why does the placenta need to keep maternal and foetal blood apart?</li><li>Why do pregnancy tests look for hCG?</li></ol>",
+   "cls": "exam"
+  }
+ ],
+ "quiz": [
+  {
+   "q": "Ovulation is triggered by:",
+   "o": [
+    "FSH",
+    "LH surge",
+    "Insulin",
+    "ADH"
+   ],
+   "a": 1,
+   "w": "LH."
+  },
+  {
+   "q": "Fertilisation usually occurs in the:",
+   "o": [
+    "Uterus",
+    "Fallopian tube",
+    "Ovary",
+    "Vagina"
+   ],
+   "a": 1,
+   "w": "Fallopian tube."
+  },
+  {
+   "q": "The sex of the baby is set by:",
+   "o": [
+    "Egg",
+    "Sperm",
+    "Placenta",
+    "Hormones"
+   ],
+   "a": 1,
+   "w": "X or Y sperm."
+  },
+  {
+   "q": "hCG is made by:",
+   "o": [
+    "Ovary",
+    "Placenta",
+    "Pituitary",
+    "Thyroid"
+   ],
+   "a": 1,
+   "w": "Used in tests."
+  },
+  {
+   "q": "First IVF baby was born in:",
+   "o": [
+    "1968",
+    "1978",
+    "1988",
+    "1998"
+   ],
+   "a": 1,
+   "w": "Louise Brown."
+  },
+  {
+   "q": "Zygote number of chromosomes:",
+   "o": [
+    "23",
+    "46",
+    "92",
+    "12"
+   ],
+   "a": 1,
+   "w": "Diploid."
+  },
+  {
+   "q": "Implantation occurs in the:",
+   "o": [
+    "Fallopian tube",
+    "Uterus wall",
+    "Ovary",
+    "Cervix"
+   ],
+   "a": 1,
+   "w": "Endometrium."
+  },
+  {
+   "q": "Oxytocin helps in:",
+   "o": [
+    "Digestion",
+    "Contractions and milk release",
+    "Growth",
+    "Sleep"
+   ],
+   "a": 1,
+   "w": "Birth and lactation."
+  },
+  {
+   "q": "Spemann and Mangold found the:",
+   "o": [
+    "Organiser",
+    "Mitochondria",
+    "Hox genes",
+    "SRY"
+   ],
+   "a": 0,
+   "w": "1924."
+  },
+  {
+   "q": "Janani Suraksha Yojana started in:",
+   "o": [
+    "1985",
+    "2005",
+    "2015",
+    "1995"
+   ],
+   "a": 1,
+   "w": "2005."
+  }
+ ],
+ "sources": [
+  "NCERT Class 12 Biology",
+  "Campbell Biology"
+ ],
+ "verified": "2026-11-11"
+}

@@ -1,0 +1,176 @@
+{
+ "id": "0-0-0",
+ "title": "Black-Body Radiation and Planck's Quantum",
+ "emoji": "🔥",
+ "cards": [
+  {
+   "tag": "Why this matters",
+   "h": "A glowing poker started a revolution",
+   "b": "<p>Heat an iron poker. First it glows dull red, then orange, then white-hot. Every hot object does this, and the colour depends only on temperature, not on what it is made of.</p><p>In 1900 nobody could explain that glow with the best physics of the day. The fix needed one strange idea: <b>energy comes in lumps</b>. That idea is the seed of all quantum theory, and of lasers, chips and MRI scanners.</p>"
+  },
+  {
+   "tag": "The puzzle",
+   "h": "What is a black body?",
+   "b": "<p>Physicists wanted a clean test case: a \"black body\" that absorbs all light that falls on it and gives off only its own heat glow. A small hole in a closed oven is a good model. Light enters, bounces around and rarely escapes, so the hole looks black when cold. When the oven is hot, the hole glows with a universal colour pattern.</p><p>Gustav Kirchhoff named the idea in 1860. By the 1890s careful measurements in Berlin gave the exact curve: brightness against wavelength. It rises, peaks, then falls. Hotter bodies peak at shorter wavelengths (Wien's law). The Sun, near 5,800 K, peaks in the visible range.</p>"
+  },
+  {
+   "tag": "The classical failure",
+   "h": "The \"ultraviolet catastrophe\"",
+   "b": "<p>Classical physics treated the oven's light as waves. Short waves are easier to fit inside the box in huge numbers, and each wave mode was given an equal share of heat energy. Rayleigh and Jeans worked this out (1900-1905).</p><p>The result: infinite energy at short wavelengths. A hot oven would pour out unlimited ultraviolet and X-rays. Paul Ehrenfest later called this the \"ultraviolet catastrophe\". Reality does the opposite: the glow fades at short wavelengths.</p><svg class=\"d\" viewBox=\"0 0 320 150\"><defs><marker id=\"m000\" viewBox=\"0 0 10 10\" refX=\"9\" refY=\"5\" markerWidth=\"6\" markerHeight=\"6\" orient=\"auto\"><path d=\"M0,0L10,5L0,10z\" fill=\"#5d6474\"/></marker></defs><line x1=\"40\" y1=\"120\" x2=\"300\" y2=\"120\" stroke=\"#5d6474\" stroke-width=\"1.5\"/><line x1=\"40\" y1=\"120\" x2=\"40\" y2=\"15\" stroke=\"#5d6474\" stroke-width=\"1.5\"/><path d=\"M40,118 C70,110 80,30 120,30 C170,30 200,95 300,112\" fill=\"none\" stroke=\"#2f6f7a\" stroke-width=\"2.5\"/><path d=\"M40,118 C90,100 140,60 190,35 C240,15 280,8 300,5\" fill=\"none\" stroke=\"#a3362a\" stroke-width=\"2\" stroke-dasharray=\"5 3\"/><text x=\"170\" y=\"140\" font-size=\"10\" fill=\"#5d6474\" text-anchor=\"middle\">wavelength (long to the right)</text><text x=\"165\" y=\"28\" font-size=\"10\" fill=\"#2f6f7a\" text-anchor=\"start\">real glow: peaks, then falls</text><text x=\"48\" y=\"12\" font-size=\"10\" fill=\"#5d6474\" text-anchor=\"start\">brightness</text><text x=\"200\" y=\"75\" font-size=\"10\" fill=\"#a3362a\" text-anchor=\"start\">classical prediction:</text><text x=\"200\" y=\"88\" font-size=\"10\" fill=\"#a3362a\" text-anchor=\"start\">shoots up forever</text></svg><p><i>Teal is what we measure. Red dashed is what old physics predicted.</i></p>"
+  },
+  {
+   "tag": "Planck's fix",
+   "h": "Energy in lumps",
+   "b": "<p>Max Planck, in December 1900, found a formula that matched the data perfectly. To justify it he made an assumption he called an \"act of desperation\": the tiny oscillators in the oven wall can only swap energy in whole packets.</p><div class=\"box\"><h4>The rule</h4>E = h × f. A packet of energy (a \"quantum\") equals frequency f times a tiny constant h, now called Planck's constant (about 6.6 × 10⁻³⁴ joule-seconds).</div><p>High-frequency (short-wave) packets are big. At a given temperature there is rarely enough energy to make one, so they are rare. That kills the ultraviolet catastrophe.</p>"
+  },
+  {
+   "tag": "Analogy",
+   "h": "Paying only in coins",
+   "b": "<p>Imagine a shop where you can pay only in coins of fixed size, and the coin for blue light is worth much more than for red light. A customer with a small budget can easily pay many red coins, but hardly ever one expensive blue coin. So red glow is common, blue glow is scarce, and ultraviolet is rarer still.</p><p><b>Where the analogy breaks:</b> coins exist whether or not you spend them. Planck did not claim light itself was lumpy; he only claimed the exchange of energy was. Einstein took the bolder step in 1905 (next lesson).</p>"
+  },
+  {
+   "tag": "Scale",
+   "h": "Why we never notice",
+   "b": "<p>h is so small that a swinging playground child receives energy in packets far too fine to notice. The steps are there, but invisible, like the individual grains in a smooth-looking sand dune.</p><p>This is a pattern in quantum physics: the strangeness is real but hides in the tiny. Ordinary life is the blurred average of enormous numbers of quanta.</p>"
+  },
+  {
+   "tag": "How we know",
+   "h": "The sky confirms Planck",
+   "b": "<p>Planck's law has been tested to extreme accuracy. The best black body ever measured is not in a lab but the whole universe. The NASA COBE satellite (FIRAS instrument, 1990) measured the leftover glow of the Big Bang, the cosmic microwave background. It matched a Planck curve at 2.725 K so precisely that the error bars were thinner than the line on the graph. John Mather shared the 2006 Nobel Prize for this.</p><p>Astronomers also read star temperatures from their colour, using the same curve. Planck got the 1918 Nobel Prize in Physics.</p>"
+  },
+  {
+   "tag": "Misconceptions",
+   "h": "Myths to drop",
+   "b": "<ul><li><b>\"Planck knew he had discovered quantum theory.\"</b> No. He saw it as a trick for the maths and spent years trying to avoid it.</li><li><b>\"Quantum means very small.\"</b> Not exactly. It means energy (and other things) come in steps. The whole Sun glows by this law.</li><li><b>\"The theory was proved wrong because old physics failed.\"</b> Old physics still works for big, warm things. It fails when steps matter.</li></ul>"
+  },
+  {
+   "tag": "Indian angle",
+   "h": "S.N. Bose and the photon gas",
+   "b": "<p>In 1924 Satyendra Nath Bose, a lecturer at Dhaka University, derived Planck's law in a new way. He counted light quanta as identical and used pure counting, with no help from the old wave theory. Many referees would not take it. Bose sent the paper to Einstein, who translated it into German and had it published in the Zeitschrift fuer Physik.</p><p>Bose's counting method became <b>Bose-Einstein statistics</b>, and particles that follow it are called <b>bosons</b>. It was the first time the quantum rule was derived from first principles.</p>"
+  },
+  {
+   "tag": "Recap",
+   "h": "Key takeaways and think-about-it",
+   "b": "<ul><li>Classical physics predicted infinite ultraviolet glow; reality does not.</li><li>Planck (1900): energy swaps in packets E = hf.</li><li>Bose (1924) gave a cleaner derivation; the CMB (COBE, 1990) is the best black body measured.</li></ul><div class=\"box\"><h4>Think about it</h4><ol><li>Why does the packet idea reduce blue light more than red light?</li><li>Why do we not see steps in the glow of a cooking stove?</li></ol></div>",
+   "cls": "exam"
+  }
+ ],
+ "quiz": [
+  {
+   "q": "What is a \"black body\"?",
+   "o": [
+    "An ideal object that absorbs all light and glows with a pattern set only by temperature",
+    "An object that is always cold and dark",
+    "Any black-coloured object",
+    "A material that reflects all light"
+   ],
+   "a": 0,
+   "w": "It absorbs everything, so its glow is purely thermal."
+  },
+  {
+   "q": "What did classical physics wrongly predict for short wavelengths?",
+   "o": [
+    "Zero light",
+    "Constant brightness",
+    "Unlimited energy output",
+    "Only red light"
+   ],
+   "a": 2,
+   "w": "That is the ultraviolet catastrophe."
+  },
+  {
+   "q": "Planck's 1900 rule says energy exchanges happen as:",
+   "o": [
+    "Continuous flow",
+    "Whole packets of size hf",
+    "Random sizes",
+    "Packets of equal size for all colours"
+   ],
+   "a": 1,
+   "w": "The packet size grows with frequency f."
+  },
+  {
+   "q": "Why do high-frequency packets get rarely produced at ordinary temperature?",
+   "o": [
+    "Light cannot have high frequency",
+    "They are absorbed by air",
+    "They travel faster",
+    "Each packet costs a lot of energy that is seldom available"
+   ],
+   "a": 3,
+   "w": "Big packets are expensive."
+  },
+  {
+   "q": "What does the number h set?",
+   "o": [
+    "The size of the smallest energy step for a given frequency",
+    "The speed of light",
+    "The temperature of the Sun",
+    "The mass of an electron"
+   ],
+   "a": 0,
+   "w": "E = hf links the step to frequency."
+  },
+  {
+   "q": "Planck himself first saw his idea as:",
+   "o": [
+    "A proven law of nature",
+    "A mathematical trick",
+    "A proof of the atom",
+    "A theory of gravity"
+   ],
+   "a": 1,
+   "w": "He called it an act of desperation."
+  },
+  {
+   "q": "Hotter bodies glow with a peak at:",
+   "o": [
+    "Longer wavelengths",
+    "The same wavelength",
+    "Shorter wavelengths",
+    "No peak"
+   ],
+   "a": 2,
+   "w": "This is Wien's displacement law."
+  },
+  {
+   "q": "Which measurement is the closest-known real black body?",
+   "o": [
+    "The cosmic microwave background (COBE)",
+    "A kitchen oven",
+    "Sunlight on Earth",
+    "A candle flame"
+   ],
+   "a": 0,
+   "w": "COBE found a near-perfect 2.725 K Planck curve."
+  },
+  {
+   "q": "What did S.N. Bose do in 1924?",
+   "o": [
+    "Discovered the electron",
+    "Measured the CMB",
+    "Invented the laser",
+    "Derived Planck's law by counting identical light quanta"
+   ],
+   "a": 3,
+   "w": "Einstein championed and published it."
+  },
+  {
+   "q": "Why do we not notice energy steps in daily life?",
+   "o": [
+    "Steps only exist in space",
+    "h is extremely small compared to everyday energies",
+    "Energy is continuous at all scales",
+    "Our eyes are too slow"
+   ],
+   "a": 1,
+   "w": "The steps are far too fine to notice."
+  }
+ ],
+ "sources": [
+  "Planck 1900 papers",
+  "Bose 1924",
+  "COBE/FIRAS, Mather et al. 1990"
+ ],
+ "verified": "2026-11-11"
+}

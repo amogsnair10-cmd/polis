@@ -1,0 +1,175 @@
+{
+ "id": "3-0-5",
+ "title": "Immunity and Vaccines",
+ "emoji": "💉",
+ "cards": [
+  {
+   "tag": "Why this matters",
+   "h": "Your inner army",
+   "b": "<p>Germs surround us, yet most of the time we stay healthy. Vaccines have wiped out smallpox and nearly polio. Understanding immunity explains allergies, transplants rejection, HIV and how vaccines are built.</p>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "Two layers of defence",
+   "b": "<p><b>Innate immunity</b> is fast and general: skin, mucus, stomach acid, fever, inflammation and cells that eat germs (macrophages, neutrophils). <b>Adaptive immunity</b> is slower but specific and has memory.</p><svg class=\"d\" viewBox=\"0 0 320 136\"><rect x=\"10\" y=\"4\" width=\"145\" height=\"26\" rx=\"6\" fill=\"#2f6f7a\"/><text x=\"82\" y=\"21\" text-anchor=\"middle\" font-size=\"11\" fill=\"#fff\">Innate</text><rect x=\"10\" y=\"36\" width=\"145\" height=\"26\" rx=\"5\" fill=\"#dceaec\" stroke=\"#2f6f7a\"/><text x=\"82\" y=\"53\" text-anchor=\"middle\" font-size=\"10\" fill=\"#1d2433\">Fast, minutes</text><rect x=\"10\" y=\"68\" width=\"145\" height=\"26\" rx=\"5\" fill=\"#dceaec\" stroke=\"#2f6f7a\"/><text x=\"82\" y=\"85\" text-anchor=\"middle\" font-size=\"10\" fill=\"#1d2433\">General</text><rect x=\"10\" y=\"100\" width=\"145\" height=\"26\" rx=\"5\" fill=\"#dceaec\" stroke=\"#2f6f7a\"/><text x=\"82\" y=\"117\" text-anchor=\"middle\" font-size=\"10\" fill=\"#1d2433\">No memory</text><rect x=\"165\" y=\"4\" width=\"145\" height=\"26\" rx=\"6\" fill=\"#a8792a\"/><text x=\"237\" y=\"21\" text-anchor=\"middle\" font-size=\"11\" fill=\"#fff\">Adaptive</text><rect x=\"165\" y=\"36\" width=\"145\" height=\"26\" rx=\"5\" fill=\"#f1e4c6\" stroke=\"#a8792a\"/><text x=\"237\" y=\"53\" text-anchor=\"middle\" font-size=\"10\" fill=\"#1d2433\">Slower, days</text><rect x=\"165\" y=\"68\" width=\"145\" height=\"26\" rx=\"5\" fill=\"#f1e4c6\" stroke=\"#a8792a\"/><text x=\"237\" y=\"85\" text-anchor=\"middle\" font-size=\"10\" fill=\"#1d2433\">Specific</text><rect x=\"165\" y=\"100\" width=\"145\" height=\"26\" rx=\"5\" fill=\"#f1e4c6\" stroke=\"#a8792a\"/><text x=\"237\" y=\"117\" text-anchor=\"middle\" font-size=\"10\" fill=\"#1d2433\">Memory</text></svg>"
+  },
+  {
+   "tag": "Step by step",
+   "h": "The adaptive response",
+   "b": "<ol><li>Antigen-presenting cells show pieces of the germ.</li><li><b>Helper T cells</b> sound the alarm.</li><li><b>B cells</b> make <b>antibodies</b> that stick to the germ (humoral immunity).</li><li><b>Killer T cells</b> destroy infected cells (cell-mediated).</li><li>Memory cells remain for years.</li></ol>"
+  },
+  {
+   "tag": "Step by step",
+   "h": "Primary and secondary response",
+   "b": "<p>The first meeting with a germ is slow (about a week). The second is faster and stronger, since memory cells are ready. This is what a vaccine exploits.</p>"
+  },
+  {
+   "tag": "Step by step",
+   "h": "How vaccines work",
+   "b": "<p>A vaccine shows the immune system a harmless version of a germ. Types: weakened live (measles, OPV), killed (IPV), parts or proteins (hepatitis B), toxoid (tetanus) and mRNA (some COVID-19 vaccines). When most people are immune, <b>herd immunity</b> protects the rest. Edward Jenner (1796) used cowpox to protect against smallpox; Pasteur extended it to rabies (1885).</p>"
+  },
+  {
+   "tag": "Step by step",
+   "h": "When immunity misfires",
+   "b": "<p><b>Allergy:</b> over-reaction to harmless things. <b>Autoimmune disease:</b> attacks self (type 1 diabetes, rheumatoid arthritis). <b>HIV</b> destroys helper T cells, causing AIDS. Transplants need matching since the body attacks foreign tissue.</p>"
+  },
+  {
+   "tag": "How we know",
+   "h": "Antibodies and Nobel work",
+   "b": "<p>Emil von Behring and Kitasato (1890) found antitoxin serum. Paul Ehrlich and Elie Metchnikoff shared the 1908 Nobel. Medawar showed tolerance. Kohler and Milstein created monoclonal antibodies in 1975. Smallpox was declared eradicated in 1980.</p>"
+  },
+  {
+   "tag": "Misconceptions",
+   "h": "Watch out",
+   "b": "<div class=\"box\"><h4>Fix these</h4><ul><li>Vaccines do not cause the disease they protect against (killed or part vaccines cannot).</li><li>Antibiotics do not work against viruses.</li><li>A runny nose does not prove a weak immune system.</li></ul></div>"
+  },
+  {
+   "tag": "Indian angle",
+   "h": "From smallpox to polio and COVID",
+   "b": "<p>India's last smallpox case was in 1975, and the country was certified polio-free by WHO in 2014 after the Pulse Polio drive (1995). The Universal Immunisation Programme (1985) covers children and mothers; Mission Indradhanush (2014) reaches missed children. During COVID-19, Covaxin (Bharat Biotech with ICMR) and Covishield (Serum Institute) were used, and over two billion doses were given in India.</p>"
+  },
+  {
+   "tag": "Recap",
+   "h": "Key takeaways and questions",
+   "b": "<ul><li>Innate: fast, general. Adaptive: specific, memory.</li><li>B cells make antibodies; T cells coordinate and kill.</li><li>Vaccines train memory without disease.</li><li>HIV targets helper T cells.</li></ul><p><b>Think about it:</b></p><ol><li>Why do booster doses help?</li><li>Why does herd immunity protect a baby too young to be vaccinated?</li></ol>",
+   "cls": "exam"
+  }
+ ],
+ "quiz": [
+  {
+   "q": "Antibodies are made by:",
+   "o": [
+    "T cells",
+    "B cells",
+    "Platelets",
+    "Red cells"
+   ],
+   "a": 1,
+   "w": "B cells."
+  },
+  {
+   "q": "Jenner used which germ for smallpox vaccine?",
+   "o": [
+    "Cowpox",
+    "Rabies",
+    "Polio",
+    "TB"
+   ],
+   "a": 0,
+   "w": "1796."
+  },
+  {
+   "q": "Innate immunity:",
+   "o": [
+    "Is specific",
+    "Has memory",
+    "Is fast and general",
+    "Needs vaccines"
+   ],
+   "a": 2,
+   "w": "First line."
+  },
+  {
+   "q": "HIV attacks:",
+   "o": [
+    "B cells",
+    "Helper T cells",
+    "Platelets",
+    "Red cells"
+   ],
+   "a": 1,
+   "w": "CD4 cells."
+  },
+  {
+   "q": "Memory cells make the second response:",
+   "o": [
+    "Slower",
+    "Faster",
+    "Equal",
+    "Absent"
+   ],
+   "a": 1,
+   "w": "Faster, stronger."
+  },
+  {
+   "q": "India was certified polio-free in:",
+   "o": [
+    "2004",
+    "2014",
+    "1995",
+    "2020"
+   ],
+   "a": 1,
+   "w": "WHO 2014."
+  },
+  {
+   "q": "Herd immunity means:",
+   "o": [
+    "All infected",
+    "Enough immune to block spread",
+    "All vaccinated",
+    "No germs"
+   ],
+   "a": 1,
+   "w": "Community protection."
+  },
+  {
+   "q": "Monoclonal antibodies were made by:",
+   "o": [
+    "Kohler and Milstein",
+    "Jenner",
+    "Behring",
+    "Pasteur"
+   ],
+   "a": 0,
+   "w": "1975."
+  },
+  {
+   "q": "An autoimmune disease:",
+   "o": [
+    "Attacks the body's own cells",
+    "Is caused by virus",
+    "Is allergy",
+    "Is an infection"
+   ],
+   "a": 0,
+   "w": "Self-attack."
+  },
+  {
+   "q": "Tetanus vaccine uses a:",
+   "o": [
+    "Toxoid",
+    "Live virus",
+    "mRNA",
+    "Whole cell"
+   ],
+   "a": 0,
+   "w": "Inactivated toxin."
+  }
+ ],
+ "sources": [
+  "NCERT Class 12 Biology",
+  "Campbell Biology"
+ ],
+ "verified": "2026-11-11"
+}

@@ -1,0 +1,172 @@
+{
+ "id": "6-0-0",
+ "title": "The Economic Critique: Mises, Hayek and the Calculation Problem",
+ "emoji": "⚙️",
+ "cards": [
+  {
+   "tag": "Why this matters",
+   "h": "The strongest argument against planning",
+   "b": "<p>The most powerful academic case against socialism is not moral but practical: without market prices, no planner can know what to produce. Whether it is decisive remains a central debate between economists, and a test for every Marxist claim about planning.</p>"
+  },
+  {
+   "tag": "Context",
+   "h": "Vienna, 1920",
+   "b": "<p>After the Bolshevik Revolution and War Communism, Ludwig von Mises, an Austrian economist, wrote \"Economic Calculation in the Socialist Commonwealth\" (1920) and the book <i>Socialism</i> (1922). He argued that socialism, by abolishing private ownership of the means of production, abolishes the market prices which allow rational allocation. In 1936 Oskar Lange answered; Friedrich Hayek and others pressed the debate through the 1930s-40s.</p><svg class=\"d\" viewBox=\"0 0 320 196\" xmlns=\"http://www.w3.org/2000/svg\" font-family=\"sans-serif\"><line x1=\"64\" y1=\"8\" x2=\"64\" y2=\"188\" stroke=\"#5d6474\" stroke-width=\"1.5\"/><rect x=\"4\" y=\"8\" width=\"56\" height=\"30\" rx=\"6\" fill=\"#f1e4c6\" stroke=\"#a8792a\"/><text x=\"32\" y=\"27\" font-size=\"10.5\" fill=\"#1d2433\" text-anchor=\"middle\" font-weight=\"bold\">1920</text><rect x=\"70\" y=\"8\" width=\"246\" height=\"30\" rx=\"6\" fill=\"#dceaec\" stroke=\"#2f6f7a\"/><text x=\"76\" y=\"27\" font-size=\"11\" fill=\"#1d2433\" text-anchor=\"start\">Mises: calculation problem</text><rect x=\"4\" y=\"44\" width=\"56\" height=\"30\" rx=\"6\" fill=\"#f1e4c6\" stroke=\"#a8792a\"/><text x=\"32\" y=\"63\" font-size=\"10.5\" fill=\"#1d2433\" text-anchor=\"middle\" font-weight=\"bold\">1936-37</text><rect x=\"70\" y=\"44\" width=\"246\" height=\"30\" rx=\"6\" fill=\"#dceaec\" stroke=\"#2f6f7a\"/><text x=\"76\" y=\"63\" font-size=\"11\" fill=\"#1d2433\" text-anchor=\"start\">Lange: market socialism reply</text><rect x=\"4\" y=\"80\" width=\"56\" height=\"36\" rx=\"6\" fill=\"#f1e4c6\" stroke=\"#a8792a\"/><text x=\"32\" y=\"102\" font-size=\"10.5\" fill=\"#1d2433\" text-anchor=\"middle\" font-weight=\"bold\">1945</text><rect x=\"70\" y=\"80\" width=\"246\" height=\"36\" rx=\"6\" fill=\"#dceaec\" stroke=\"#2f6f7a\"/><text x=\"76\" y=\"96\" font-size=\"11\" fill=\"#1d2433\" text-anchor=\"start\">Hayek: The Use of Knowledge in</text><text x=\"76\" y=\"109\" font-size=\"11\" fill=\"#1d2433\" text-anchor=\"start\">Society</text><rect x=\"4\" y=\"122\" width=\"56\" height=\"30\" rx=\"6\" fill=\"#f1e4c6\" stroke=\"#a8792a\"/><text x=\"32\" y=\"141\" font-size=\"10.5\" fill=\"#1d2433\" text-anchor=\"middle\" font-weight=\"bold\">1980</text><rect x=\"70\" y=\"122\" width=\"246\" height=\"30\" rx=\"6\" fill=\"#dceaec\" stroke=\"#2f6f7a\"/><text x=\"76\" y=\"141\" font-size=\"11\" fill=\"#1d2433\" text-anchor=\"start\">Kornai: Economics of Shortage</text><rect x=\"4\" y=\"158\" width=\"56\" height=\"30\" rx=\"6\" fill=\"#f1e4c6\" stroke=\"#a8792a\"/><text x=\"32\" y=\"177\" font-size=\"10.5\" fill=\"#1d2433\" text-anchor=\"middle\" font-weight=\"bold\">1991</text><rect x=\"70\" y=\"158\" width=\"246\" height=\"30\" rx=\"6\" fill=\"#dceaec\" stroke=\"#2f6f7a\"/><text x=\"76\" y=\"177\" font-size=\"11\" fill=\"#1d2433\" text-anchor=\"start\">Soviet collapse</text></svg>"
+  },
+  {
+   "tag": "Key idea",
+   "h": "Mises: prices and calculation",
+   "b": "<p>Complex economies require choices among millions of possible uses of resources. Prices that arise in free exchange of private property show relative scarcity and allow profit-and-loss accounting. Without markets for capital goods, planners cannot compare costs. Mises: \"Where there is no free market, there is no pricing mechanism; without a pricing mechanism, there is no economic calculation.\" (paraphrase). The result is chaos, not planning.</p>"
+  },
+  {
+   "tag": "Key idea",
+   "h": "Hayek: knowledge",
+   "b": "<p>In \"The Use of Knowledge in Society\" (1945) Hayek reframed the problem: relevant knowledge is dispersed, local and often tacit. Prices are a signal system that coordinates millions of people without anybody needing to know the whole. <i>The Road to Serfdom</i> (1944) added the political claim that central planning leads to coercion. Hayek also criticised \"constructivist rationalism\".</p>"
+  },
+  {
+   "tag": "Key idea",
+   "h": "The reply: Lange, Lerner, Taylor",
+   "b": "<p>Oskar Lange (1936-37) proposed <b>market socialism</b>: a Central Planning Board sets prices by trial and error (like Walras's auctioneer), managers follow rules, and firms are state-owned. Abba Lerner added marginal-cost rules. Lange said socialism could calculate, and in fact could do better than capitalism on externalities and income distribution. Hayek replied that it ignored knowledge and incentives. Kornai (<i>The Socialist System</i>, 1992) described the \"soft budget constraint\".</p>"
+  },
+  {
+   "tag": "In practice",
+   "h": "The record and the computer age",
+   "b": "<p>Soviet planning built industry, but failed to match capitalist consumer goods and innovation. Planners used \"material balances\" and bargaining; shadow prices emerged in black markets. Yugoslavia's self-management and Hungary's \"goulash\" reform tried markets. Today, supporters of planning (Cockshott and Cottrell, <i>Towards a New Socialism</i>, 1993; Leigh Phillips and Michal Rozworski, <i>The People's Republic of Walmart</i>, 2019) argue that computers and big data make planning feasible; Amazon and Walmart plan internally at scale.</p>"
+  },
+  {
+   "tag": "Critiques",
+   "h": "Of the critique",
+   "b": "<p><b>Market socialists</b> (Lange, Roemer): you can have prices without private capital. <b>Marxists</b> (Nove, <i>The Economics of Feasible Socialism</i>, 1983) accept the calculation problem partly but stress negotiated coordination. <b>Keynesians</b>: markets are also unstable and produce unemployment and inequality, not true efficiency. <b>Behavioural economists</b>: even market prices ignore externalities such as carbon. <b>Austrian critics</b>: computing power doesn't solve tacit knowledge or incentives. <b>Historians</b>: Mises's 1920 argument arrived before the Soviet experience, and was later vindicated in part.</p>"
+  },
+  {
+   "tag": "Indian angle",
+   "h": "Planning in India",
+   "b": "<p>India's planning from 1951 (the Planning Commission, abolished 2014 and replaced by NITI Aayog) was an experiment in democratic planning with a mixed economy. Critics of the licence-permit raj (B.R. Shenoy's dissent note, 1955; Jagdish Bhagwati and T.N. Srinivasan; Bhagwati-Desai, 1970) used arguments close to Hayek's about information and incentives. P.C. Mahalanobis's model assumed planners could pick priorities; Sukhamoy Chakravarty defended planning. The 1991 reforms abandoned most licensing. Debate persists around price controls, MSP and public sector firms.</p>"
+  },
+  {
+   "tag": "Recap",
+   "h": "Five takeaways and two debates",
+   "b": "<h4>Key takeaways</h4><ol><li>Mises (1920): no private property in capital means no market prices and no rational calculation.</li><li>Hayek (1945): prices aggregate dispersed knowledge.</li><li>Lange: market socialism with a planning board; Kornai: soft budget constraint.</li><li>Soviet record supports part of the critique; big-data planning is a contested rebuttal.</li><li>India's licence-permit raj illustrates the planning debate.</li></ol><h4>Debate questions</h4><ol><li>Can computers solve the knowledge problem?</li><li>Does the calculation argument also apply to large corporations?</li></ol>",
+   "cls": "exam"
+  }
+ ],
+ "quiz": [
+  {
+   "q": "Mises's calculation article was published in",
+   "o": [
+    "1944",
+    "1936",
+    "1920",
+    "1991"
+   ],
+   "a": 2,
+   "w": "Vienna."
+  },
+  {
+   "q": "Hayek's The Use of Knowledge in Society appeared in",
+   "o": [
+    "1920",
+    "1974",
+    "1936",
+    "1945"
+   ],
+   "a": 3,
+   "w": "American Economic Review."
+  },
+  {
+   "q": "The Road to Serfdom was published in",
+   "o": [
+    "1920",
+    "1991",
+    "1944",
+    "1936"
+   ],
+   "a": 2,
+   "w": "Hayek."
+  },
+  {
+   "q": "Lange proposed",
+   "o": [
+    "Market socialism with a Central Planning Board",
+    "Abolition of money",
+    "Private monopolies",
+    "A Soviet-style plan"
+   ],
+   "a": 0,
+   "w": "Trial-and-error pricing."
+  },
+  {
+   "q": "Hayek's main point on knowledge is that it is",
+   "o": [
+    "Held by the state",
+    "Irrelevant",
+    "Dispersed and tacit",
+    "Perfect"
+   ],
+   "a": 2,
+   "w": "Prices coordinate it."
+  },
+  {
+   "q": "Kornai's key concept is",
+   "o": [
+    "Hegemony",
+    "Permanent revolution",
+    "Dual power",
+    "The soft budget constraint"
+   ],
+   "a": 3,
+   "w": "Economics of Shortage."
+  },
+  {
+   "q": "The People's Republic of Walmart (2019) argues that",
+   "o": [
+    "Planning always fails",
+    "Markets are perfect",
+    "Prices are unnecessary",
+    "Large firms show planning can work at scale"
+   ],
+   "a": 3,
+   "w": "Phillips and Rozworski."
+  },
+  {
+   "q": "Alec Nove advocated",
+   "o": [
+    "Feasible socialism with markets and planning",
+    "Pure capitalism",
+    "War communism",
+    "Anarchism"
+   ],
+   "a": 0,
+   "w": "1983."
+  },
+  {
+   "q": "India's Planning Commission was replaced in",
+   "o": [
+    "1991",
+    "1951",
+    "1969",
+    "2014"
+   ],
+   "a": 3,
+   "w": "By NITI Aayog."
+  },
+  {
+   "q": "Who dissented against the Second Plan's strategy in 1955?",
+   "o": [
+    "B.R. Shenoy",
+    "Mahalanobis",
+    "Nehru",
+    "Chakravarty"
+   ],
+   "a": 0,
+   "w": "Dissent note."
+  }
+ ],
+ "sources": [
+  "Mises 1920",
+  "Hayek 1945",
+  "Lange 1936",
+  "Kornai 1992"
+ ],
+ "verified": "2026-11-11"
+}

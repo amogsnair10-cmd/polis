@@ -1,0 +1,171 @@
+{
+ "id": "5-0-2",
+ "title": "Analytical Marxism and G.A. Cohen",
+ "emoji": "🧮",
+ "cards": [
+  {
+   "tag": "Why this matters",
+   "h": "Marxism with analytic rigour",
+   "b": "<p>In the late 1970s a group of philosophers and economists decided to state Marx's claims in clear language, test them with tools from economics and logic, and keep only what survived. The result, \"Analytical Marxism\", is the most academic, and one of the most honest, forms of the tradition.</p>"
+  },
+  {
+   "tag": "Context",
+   "h": "The September Group",
+   "b": "<p>Starting in 1979, a group (the \"No-Bullshit Marxism group\") met in London: G.A. Cohen, Jon Elster, John Roemer, Erik Olin Wright, Adam Przeworski, Philippe Van Parijs, Robert Brenner and others. Cohen's <i>Karl Marx's Theory of History: A Defence</i> (1978) is their founding text. They used rational choice, game theory and neoclassical economics.</p><svg class=\"d\" viewBox=\"0 0 320 158\" xmlns=\"http://www.w3.org/2000/svg\" font-family=\"sans-serif\"><rect x=\"60\" y=\"4\" width=\"200\" height=\"34\" rx=\"8\" fill=\"#f1e4c6\" stroke=\"#a8792a\"/><text x=\"160\" y=\"25\" font-size=\"11.5\" fill=\"#1d2433\" text-anchor=\"middle\" font-weight=\"bold\">Analytical Marxism</text><line x1=\"160\" y1=\"38\" x2=\"79\" y2=\"62\" stroke=\"#5d6474\"/><rect x=\"4\" y=\"62\" width=\"150\" height=\"38\" rx=\"6\" fill=\"#dceaec\" stroke=\"#2f6f7a\"/><text x=\"79\" y=\"77\" font-size=\"10.5\" fill=\"#1d2433\" text-anchor=\"middle\">Cohen: functional</text><text x=\"79\" y=\"89\" font-size=\"10.5\" fill=\"#1d2433\" text-anchor=\"middle\">explanation of history</text><line x1=\"160\" y1=\"38\" x2=\"241\" y2=\"62\" stroke=\"#5d6474\"/><rect x=\"166\" y=\"62\" width=\"150\" height=\"38\" rx=\"6\" fill=\"#dceaec\" stroke=\"#2f6f7a\"/><text x=\"241\" y=\"77\" font-size=\"10.5\" fill=\"#1d2433\" text-anchor=\"middle\">Elster: methodological</text><text x=\"241\" y=\"89\" font-size=\"10.5\" fill=\"#1d2433\" text-anchor=\"middle\">individualism</text><line x1=\"160\" y1=\"38\" x2=\"79\" y2=\"108\" stroke=\"#5d6474\"/><rect x=\"4\" y=\"108\" width=\"150\" height=\"38\" rx=\"6\" fill=\"#dceaec\" stroke=\"#2f6f7a\"/><text x=\"79\" y=\"123\" font-size=\"10.5\" fill=\"#1d2433\" text-anchor=\"middle\">Roemer: exploitation</text><text x=\"79\" y=\"135\" font-size=\"10.5\" fill=\"#1d2433\" text-anchor=\"middle\">without labour theory</text><line x1=\"160\" y1=\"38\" x2=\"241\" y2=\"108\" stroke=\"#5d6474\"/><rect x=\"166\" y=\"108\" width=\"150\" height=\"38\" rx=\"6\" fill=\"#dceaec\" stroke=\"#2f6f7a\"/><text x=\"241\" y=\"123\" font-size=\"10.5\" fill=\"#1d2433\" text-anchor=\"middle\">Wright: class structure,</text><text x=\"241\" y=\"135\" font-size=\"10.5\" fill=\"#1d2433\" text-anchor=\"middle\">real utopias</text></svg>"
+  },
+  {
+   "tag": "Key idea",
+   "h": "Cohen on history",
+   "b": "<p>Cohen reconstructed historical materialism: the productive forces tend to develop, and relations of production exist because they promote that development (the <b>development thesis</b> and a <b>functional explanation</b>). Relations become fetters, and are replaced. He relied on a technological reading. Critics asked how functional explanation works without a mechanism.</p>"
+  },
+  {
+   "tag": "Key idea",
+   "h": "Roemer on exploitation",
+   "b": "<p>John Roemer (<i>A General Theory of Exploitation and Class</i>, 1982) showed that exploitation can be defined using unequal ownership of assets, without the labour theory of value; in game-theoretic models, classes emerge from market exchange. His later work proposed \"market socialism\" with coupons. Wright's <i>Classes</i> (1985) and <i>Envisioning Real Utopias</i> (2010) mapped class structure and ways to expand democratic economic power.</p>"
+  },
+  {
+   "tag": "Key idea",
+   "h": "Cohen on justice and equality",
+   "b": "<p>Later Cohen turned to political philosophy: <i>Self-Ownership, Freedom, and Equality</i> (1995) attacked Nozick's libertarianism; <i>If You're an Egalitarian, How Come You're So Rich?</i> (2000) and <i>Why Not Socialism?</i> (2009) argued that socialist ideals of community and equality have moral force and a camping-trip example shows people cooperating without markets. He admitted that problems of incentive and information remain, and doubted that large-scale socialism is feasible.</p>"
+  },
+  {
+   "tag": "In practice",
+   "h": "Influence and decline of the group",
+   "b": "<p>The group's members spread across universities; by 1990s most dropped the label. Elster abandoned Marxism; Przeworski studied democracy and found democratic social democracy superior to revolution; Wright built a major empirical class project. Practical influence: basic income debates (Van Parijs, <i>Real Freedom for All</i>, 1995), stakeholder-society ideas and the Rawlsian-Marxist dialogue.</p>"
+  },
+  {
+   "tag": "Critiques",
+   "h": "Is it Marxism?",
+   "b": "<p><b>Orthodox and dialectical Marxists</b> (Ellen Meiksins Wood, Harry Cleaver) say it strips the dialectic, class struggle and revolutionary praxis, leaving \"Marxism without Marx\". <b>Economists</b> find the models too simple. <b>Philosophers</b>: functional explanation needs a causal mechanism (Elster). <b>Political critics</b>: no strategy for change. <b>Defenders</b>: clarity exposes weak arguments; it saved the best parts of Marx for academic debate. <b>Liberals</b> welcome that it takes justice seriously.</p>"
+  },
+  {
+   "tag": "Indian angle",
+   "h": "Analytic ideas in India",
+   "b": "<p>Analytical Marxism's tools influenced Indian economists studying agrarian class: Pranab Bardhan's work on land, labour and rural poverty (<i>Land, Labor and Rural Poverty</i>, 1984) used rational-choice models and bargaining. Roemer's market socialism connects with debates on state and market in India after 1991. Amartya Sen's work on capabilities (not a Marxist school, but dialogues with it) shares the concern for equality. Indian debates on reservations and basic income (Economic Survey 2016-17) show applied justice debates.</p>"
+  },
+  {
+   "tag": "Recap",
+   "h": "Five takeaways and two debates",
+   "b": "<h4>Key takeaways</h4><ol><li>Analytical Marxists restated Marx in analytic style.</li><li>Cohen defended a technological, functional theory of history.</li><li>Roemer defined exploitation without the labour theory of value.</li><li>Cohen later defended socialist equality, admitting limits.</li><li>Critics: lacks the dialectic and strategy.</li></ol><h4>Debate questions</h4><ol><li>Is Marxism without the labour theory still Marxism?</li><li>Can justice arguments substitute for revolutionary politics?</li></ol>",
+   "cls": "exam"
+  }
+ ],
+ "quiz": [
+  {
+   "q": "Cohen's Karl Marx's Theory of History was published in",
+   "o": [
+    "1995",
+    "2009",
+    "1867",
+    "1978"
+   ],
+   "a": 3,
+   "w": "Founding text."
+  },
+  {
+   "q": "Roemer showed exploitation can arise from",
+   "o": [
+    "Labour value only",
+    "Unequal ownership of assets",
+    "Culture",
+    "Conquest only"
+   ],
+   "a": 1,
+   "w": "Without the labour theory."
+  },
+  {
+   "q": "Which analytical Marxist wrote Real Freedom for All (1995)?",
+   "o": [
+    "Philippe Van Parijs",
+    "Jon Elster",
+    "Adam Przeworski",
+    "Wright"
+   ],
+   "a": 0,
+   "w": "On basic income."
+  },
+  {
+   "q": "Cohen's Self-Ownership, Freedom, and Equality targets",
+   "o": [
+    "Rawls",
+    "Marx",
+    "Hayek",
+    "Nozick"
+   ],
+   "a": 3,
+   "w": "Libertarianism."
+  },
+  {
+   "q": "Cohen's Why Not Socialism? uses the example of",
+   "o": [
+    "A factory",
+    "A kibbutz",
+    "A camping trip",
+    "A war"
+   ],
+   "a": 2,
+   "w": "2009."
+  },
+  {
+   "q": "The functional explanation in Cohen says relations of production exist because they",
+   "o": [
+    "Serve capitalists",
+    "Develop the productive forces",
+    "Create class struggle",
+    "Hide exploitation"
+   ],
+   "a": 1,
+   "w": "Development thesis."
+  },
+  {
+   "q": "Wright's Envisioning Real Utopias was published in",
+   "o": [
+    "1985",
+    "1978",
+    "1995",
+    "2010"
+   ],
+   "a": 3,
+   "w": "Erik Olin Wright."
+  },
+  {
+   "q": "Which tool was NOT typical of the group?",
+   "o": [
+    "Game theory",
+    "Rational choice",
+    "Neoclassical economics",
+    "Hegelian dialectic"
+   ],
+   "a": 3,
+   "w": "They avoided it."
+  },
+  {
+   "q": "Przeworski's later work argued democratic social democracy",
+   "o": [
+    "Is impossible",
+    "Needs a vanguard",
+    "Is utopian",
+    "Is preferable to revolution"
+   ],
+   "a": 3,
+   "w": "Paper Stones, 1986."
+  },
+  {
+   "q": "Pranab Bardhan applied rational-choice tools to",
+   "o": [
+    "Indian caste only",
+    "Russian history",
+    "Indian agrarian economy",
+    "Chinese politics"
+   ],
+   "a": 2,
+   "w": "Land, Labor and Rural Poverty."
+  }
+ ],
+ "sources": [
+  "Cohen 1978, 1995, 2009",
+  "Roemer 1982",
+  "Wright 2010"
+ ],
+ "verified": "2026-11-11"
+}

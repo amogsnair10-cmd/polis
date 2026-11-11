@@ -1,0 +1,180 @@
+{
+ "id": "2-0-1",
+ "title": "Evidence for Evolution",
+ "emoji": "🦴",
+ "cards": [
+  {
+   "tag": "Why this matters",
+   "h": "Many roads, one answer",
+   "b": "<p>Evolution is supported by independent lines of evidence from rocks, bones, genes and living animals. When different methods point to the same story, confidence is very high. This lesson shows the main lines.</p>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "Fossils and the rock record",
+   "b": "<p>Fossils are preserved remains or traces. Deeper rock is older. Radiometric dating, using the steady decay of atoms like uranium and carbon-14, gives ages in years. Earth is about 4.54 billion years old; the earliest life dates to roughly 3.5 billion years ago.</p>"
+  },
+  {
+   "tag": "Step by step",
+   "h": "Transitional fossils",
+   "b": "<ul><li><b>Archaeopteryx</b> (1861): feathers plus reptile teeth and tail.</li><li><b>Tiktaalik</b> (2006): fish with a neck and wrist-like fins, about 375 million years old.</li><li><b>Whale ancestors</b>: Pakicetus, found in Pakistan, and Rodhocetus show legs shrinking.</li></ul>"
+  },
+  {
+   "tag": "Step by step",
+   "h": "Homologous and analogous structures",
+   "b": "<p><b>Homologous:</b> same plan, different use. The human arm, whale flipper, bat wing and horse leg share the same bones, showing common ancestry. <b>Analogous:</b> same use, different origin: bird and insect wings. This is convergent evolution.</p><svg class=\"d\" viewBox=\"0 0 320 136\"><rect x=\"10\" y=\"4\" width=\"145\" height=\"26\" rx=\"6\" fill=\"#2f6f7a\"/><text x=\"82\" y=\"21\" text-anchor=\"middle\" font-size=\"11\" fill=\"#fff\">Homologous</text><rect x=\"10\" y=\"36\" width=\"145\" height=\"26\" rx=\"5\" fill=\"#dceaec\" stroke=\"#2f6f7a\"/><text x=\"82\" y=\"53\" text-anchor=\"middle\" font-size=\"10\" fill=\"#1d2433\">Same origin</text><rect x=\"10\" y=\"68\" width=\"145\" height=\"26\" rx=\"5\" fill=\"#dceaec\" stroke=\"#2f6f7a\"/><text x=\"82\" y=\"85\" text-anchor=\"middle\" font-size=\"10\" fill=\"#1d2433\">Different use</text><rect x=\"10\" y=\"100\" width=\"145\" height=\"26\" rx=\"5\" fill=\"#dceaec\" stroke=\"#2f6f7a\"/><text x=\"82\" y=\"117\" text-anchor=\"middle\" font-size=\"10\" fill=\"#1d2433\">Divergent</text><rect x=\"165\" y=\"4\" width=\"145\" height=\"26\" rx=\"6\" fill=\"#a8792a\"/><text x=\"237\" y=\"21\" text-anchor=\"middle\" font-size=\"11\" fill=\"#fff\">Analogous</text><rect x=\"165\" y=\"36\" width=\"145\" height=\"26\" rx=\"5\" fill=\"#f1e4c6\" stroke=\"#a8792a\"/><text x=\"237\" y=\"53\" text-anchor=\"middle\" font-size=\"10\" fill=\"#1d2433\">Different origin</text><rect x=\"165\" y=\"68\" width=\"145\" height=\"26\" rx=\"5\" fill=\"#f1e4c6\" stroke=\"#a8792a\"/><text x=\"237\" y=\"85\" text-anchor=\"middle\" font-size=\"10\" fill=\"#1d2433\">Same use</text><rect x=\"165\" y=\"100\" width=\"145\" height=\"26\" rx=\"5\" fill=\"#f1e4c6\" stroke=\"#a8792a\"/><text x=\"237\" y=\"117\" text-anchor=\"middle\" font-size=\"10\" fill=\"#1d2433\">Convergent</text></svg>"
+  },
+  {
+   "tag": "Step by step",
+   "h": "Vestigial structures and embryos",
+   "b": "<p>Human tailbone, appendix and ear muscles are leftovers. Whales have tiny hip bones. Embryos of fish, bird and human all show gill-like pouches early on, reflecting shared ancestry (Haeckel's old 'recapitulation' idea was overstated).</p>"
+  },
+  {
+   "tag": "Step by step",
+   "h": "Molecular evidence",
+   "b": "<p>All life uses DNA and nearly the same genetic code. The more recently two species split, the more alike their DNA and proteins. Humans and chimpanzees share about 98-99 percent of DNA sequence in aligned regions. Cytochrome c, a protein, is similar across species.</p>"
+  },
+  {
+   "tag": "Step by step",
+   "h": "Evolution you can watch",
+   "b": "<p>Bacteria become antibiotic resistant. Richard Lenski's E. coli experiment, running since 1988, has seen new traits arise over tens of thousands of generations. Insects evolve pesticide resistance.</p>"
+  },
+  {
+   "tag": "How we know",
+   "h": "Biogeography",
+   "b": "<p>Wallace and Darwin noted that island species resemble nearby mainland ones, and that marsupials cluster in Australia. Plate tectonics (Wegener 1912; accepted 1960s) explains why related fossils like Glossopteris appear across southern continents.</p>"
+  },
+  {
+   "tag": "Misconceptions",
+   "h": "Watch out",
+   "b": "<div class=\"box\"><h4>Fix these</h4><ul><li>Humans did not evolve from chimpanzees; we share a common ancestor.</li><li>'Missing link' is not needed; many transitional fossils exist.</li><li>Evolution is observed, not only a past event.</li></ul></div>"
+  },
+  {
+   "tag": "Indian angle",
+   "h": "Birbal Sahni and fossils",
+   "b": "<p>Birbal Sahni (1891-1949) was India's pioneer of palaeobotany. He studied Gondwana fossil plants, and founded the Birbal Sahni Institute of Palaeosciences in Lucknow (1946, formally 1949). Shivalik hills in the north gave Ramapithecus and Sivapithecus ape fossils. Fossil whales like Indohyus from Kashmir, about 48 million years old, link whales to even-toed ungulates. Balasinor in Gujarat is a well-known dinosaur egg and fossil site.</p>"
+  },
+  {
+   "tag": "Recap",
+   "h": "Key takeaways and questions",
+   "b": "<ul><li>Fossils, comparative anatomy, embryos, molecules and observation agree.</li><li>Homologous means common ancestry; analogous means convergence.</li><li>Dating shows Earth is about 4.5 billion years old.</li></ul><p><b>Think about it:</b></p><ol><li>Why are bird and bat wings analogous in some ways but homologous in others?</li><li>What would disprove common ancestry?</li></ol>",
+   "cls": "exam"
+  }
+ ],
+ "quiz": [
+  {
+   "q": "Homologous structures indicate:",
+   "o": [
+    "Convergence",
+    "Common ancestry",
+    "Mutation",
+    "Drift"
+   ],
+   "a": 1,
+   "w": "Same plan."
+  },
+  {
+   "q": "Which are analogous?",
+   "o": [
+    "Human arm and bat wing",
+    "Bird and insect wing",
+    "Whale flipper and arm",
+    "Horse leg and arm"
+   ],
+   "a": 1,
+   "w": "Different origins."
+  },
+  {
+   "q": "Archaeopteryx links:",
+   "o": [
+    "Fish and amphibians",
+    "Reptiles and birds",
+    "Apes and humans",
+    "Mammals and fish"
+   ],
+   "a": 1,
+   "w": "Feathers plus teeth."
+  },
+  {
+   "q": "Tiktaalik shows:",
+   "o": [
+    "Fish to land animals",
+    "Birds to bats",
+    "Ape to human",
+    "Reptile to mammal"
+   ],
+   "a": 0,
+   "w": "Fin to limb."
+  },
+  {
+   "q": "Earth's age is about:",
+   "o": [
+    "4.5 million years",
+    "4.5 billion years",
+    "450 million years",
+    "45 billion years"
+   ],
+   "a": 1,
+   "w": "4.54 billion."
+  },
+  {
+   "q": "The Lenski experiment uses:",
+   "o": [
+    "Fruit flies",
+    "E. coli",
+    "Finches",
+    "Peas"
+   ],
+   "a": 1,
+   "w": "Since 1988."
+  },
+  {
+   "q": "A vestigial organ is:",
+   "o": [
+    "New",
+    "Reduced, of little use",
+    "Growing",
+    "Pathogenic"
+   ],
+   "a": 1,
+   "w": "Leftover."
+  },
+  {
+   "q": "Birbal Sahni worked on:",
+   "o": [
+    "Fossil plants",
+    "Dinosaurs",
+    "Birds",
+    "Insects"
+   ],
+   "a": 0,
+   "w": "Palaeobotany."
+  },
+  {
+   "q": "Convergent evolution leads to:",
+   "o": [
+    "Identical genes",
+    "Similar form from different ancestry",
+    "Extinction",
+    "Cloning"
+   ],
+   "a": 1,
+   "w": "Same pressures."
+  },
+  {
+   "q": "Glossopteris fossils on separate continents support:",
+   "o": [
+    "Drift of genes",
+    "Continental drift",
+    "Vestigial organs",
+    "Cloning"
+   ],
+   "a": 1,
+   "w": "Gondwana."
+  }
+ ],
+ "sources": [
+  "Campbell Biology",
+  "NCERT Class 12 Biology"
+ ],
+ "verified": "2026-11-11"
+}

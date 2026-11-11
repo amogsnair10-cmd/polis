@@ -1,0 +1,175 @@
+{
+ "id": "3-0-1",
+ "title": "Circulation and the Heart",
+ "emoji": "❤️",
+ "cards": [
+  {
+   "tag": "Why this matters",
+   "h": "A pump that never rests",
+   "b": "<p>Your heart beats about 100,000 times a day, moving roughly 5 litres of blood per minute at rest. Every cell needs oxygen and food delivered and waste removed. Heart disease is India's leading cause of death, so this one is useful to know.</p>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "Blood and vessels",
+   "b": "<p>Blood has red cells (carry oxygen using haemoglobin), white cells (defence), platelets (clotting) and plasma (liquid). <b>Arteries</b> carry blood away from the heart under high pressure; <b>veins</b> bring it back, with valves; <b>capillaries</b> are thin walls where exchange happens.</p>"
+  },
+  {
+   "tag": "Step by step",
+   "h": "The four chambers",
+   "b": "<p>The human heart has two atria (receive) and two ventricles (pump). The right side handles blood without oxygen; the left side handles blood with oxygen. Valves keep flow one-way, making the 'lub-dub' sound.</p><svg class=\"d\" viewBox=\"0 0 320 216\"><defs><marker id=\"ht1\" viewBox=\"0 0 10 10\" refX=\"8\" refY=\"5\" markerWidth=\"6\" markerHeight=\"6\" orient=\"auto\"><path d=\"M0 0L10 5L0 10z\" fill=\"#5d6474\"/></marker></defs><rect x=\"20\" y=\"6\" width=\"280\" height=\"28\" rx=\"6\" fill=\"#f4dcd5\" stroke=\"#a3362a\"/><text x=\"160\" y=\"24\" text-anchor=\"middle\" font-size=\"11\" fill=\"#1d2433\">Body: low oxygen blood</text><line x1=\"160\" y1=\"34\" x2=\"160\" y2=\"50\" stroke=\"#5d6474\" stroke-width=\"1.5\" marker-end=\"url(#ht1)\"/><rect x=\"20\" y=\"50\" width=\"280\" height=\"28\" rx=\"6\" fill=\"#dceaec\" stroke=\"#2f6f7a\"/><text x=\"160\" y=\"68\" text-anchor=\"middle\" font-size=\"11\" fill=\"#1d2433\">Right atrium, then right ventricle</text><line x1=\"160\" y1=\"78\" x2=\"160\" y2=\"94\" stroke=\"#5d6474\" stroke-width=\"1.5\" marker-end=\"url(#ht1)\"/><rect x=\"20\" y=\"94\" width=\"280\" height=\"28\" rx=\"6\" fill=\"#f1e4c6\" stroke=\"#a8792a\"/><text x=\"160\" y=\"112\" text-anchor=\"middle\" font-size=\"11\" fill=\"#1d2433\">Lungs: pick up oxygen</text><line x1=\"160\" y1=\"122\" x2=\"160\" y2=\"138\" stroke=\"#5d6474\" stroke-width=\"1.5\" marker-end=\"url(#ht1)\"/><rect x=\"20\" y=\"138\" width=\"280\" height=\"28\" rx=\"6\" fill=\"#dceaec\" stroke=\"#2f6f7a\"/><text x=\"160\" y=\"156\" text-anchor=\"middle\" font-size=\"11\" fill=\"#1d2433\">Left atrium, then left ventricle</text><line x1=\"160\" y1=\"166\" x2=\"160\" y2=\"182\" stroke=\"#5d6474\" stroke-width=\"1.5\" marker-end=\"url(#ht1)\"/><rect x=\"20\" y=\"182\" width=\"280\" height=\"28\" rx=\"6\" fill=\"#f1e4c6\" stroke=\"#a8792a\"/><text x=\"160\" y=\"200\" text-anchor=\"middle\" font-size=\"11\" fill=\"#1d2433\">Body: oxygen delivered</text></svg>"
+  },
+  {
+   "tag": "Step by step",
+   "h": "Double circulation",
+   "b": "<p>Blood passes through the heart twice per full round. The <b>pulmonary circuit</b> goes heart to lungs and back. The <b>systemic circuit</b> goes heart to body and back. This keeps oxygen-rich and poor blood apart and lets the body get high pressure. The left ventricle has the thickest wall because it pumps to the whole body.</p>"
+  },
+  {
+   "tag": "Step by step",
+   "h": "The heartbeat",
+   "b": "<p>The heart has its own pacemaker, the <b>sino-atrial (SA) node</b>, which sends electrical signals across the atria, then through the AV node to the ventricles. An ECG records this. Blood pressure is written like 120/80 mmHg (systolic over diastolic). Nerves and hormones such as adrenaline change the rate.</p>"
+  },
+  {
+   "tag": "Step by step",
+   "h": "Disease and clotting",
+   "b": "<p>Fat (cholesterol) deposits narrow arteries (atherosclerosis). A blocked coronary artery causes a heart attack. Blood clots are formed when platelets and fibrin seal a wound; vitamin K helps. High BP, smoking, diabetes and inactivity raise risk.</p>"
+  },
+  {
+   "tag": "How we know",
+   "h": "From Harvey to open-heart",
+   "b": "<p>William Harvey (1628) showed that blood circulates, rather than being used up. Marcello Malpighi (1661) saw capillaries. Karl Landsteiner (1901) discovered ABO blood groups. Christiaan Barnard performed the first human heart transplant in 1967.</p>"
+  },
+  {
+   "tag": "Misconceptions",
+   "h": "Watch out",
+   "b": "<div class=\"box\"><h4>Fix these</h4><ul><li>Arteries do not always carry oxygen-rich blood; the pulmonary artery does not.</li><li>The heart is on the left only in feel; it sits mostly mid-chest.</li><li>Heart attack differs from cardiac arrest (electrical failure).</li></ul></div>"
+  },
+  {
+   "tag": "Indian angle",
+   "h": "India's heart story",
+   "b": "<p>The first successful heart transplant in India was done by Dr P. Venugopal at AIIMS, Delhi, in 1994. Dr Devi Shetty pioneered low-cost cardiac surgery. The National Programme for Prevention and Control of Non-Communicable Diseases covers hypertension screening, and Indians show earlier heart disease than many populations.</p>"
+  },
+  {
+   "tag": "Recap",
+   "h": "Key takeaways and questions",
+   "b": "<ul><li>Heart: 4 chambers, double circulation.</li><li>Arteries away, veins back, capillaries exchange.</li><li>SA node is the pacemaker.</li><li>Atherosclerosis causes heart attacks.</li></ul><p><b>Think about it:</b></p><ol><li>Why is the left ventricle wall thicker?</li><li>Why are valves needed in veins but not in arteries?</li></ol>",
+   "cls": "exam"
+  }
+ ],
+ "quiz": [
+  {
+   "q": "Which chamber pumps blood to the body?",
+   "o": [
+    "Right atrium",
+    "Left ventricle",
+    "Right ventricle",
+    "Left atrium"
+   ],
+   "a": 1,
+   "w": "Left ventricle."
+  },
+  {
+   "q": "The pacemaker of the heart is:",
+   "o": [
+    "AV node",
+    "SA node",
+    "Aorta",
+    "Valve"
+   ],
+   "a": 1,
+   "w": "Sino-atrial node."
+  },
+  {
+   "q": "Who showed blood circulates?",
+   "o": [
+    "Harvey",
+    "Malpighi",
+    "Landsteiner",
+    "Barnard"
+   ],
+   "a": 0,
+   "w": "1628."
+  },
+  {
+   "q": "Capillaries are for:",
+   "o": [
+    "Pressure",
+    "Exchange",
+    "Storage",
+    "Clotting"
+   ],
+   "a": 1,
+   "w": "Thin walls."
+  },
+  {
+   "q": "Pulmonary artery carries:",
+   "o": [
+    "Oxygen-rich blood",
+    "Low-oxygen blood",
+    "Lymph",
+    "Bile"
+   ],
+   "a": 1,
+   "w": "To lungs."
+  },
+  {
+   "q": "ABO blood groups found by:",
+   "o": [
+    "Landsteiner",
+    "Harvey",
+    "Krebs",
+    "Pasteur"
+   ],
+   "a": 0,
+   "w": "1901."
+  },
+  {
+   "q": "Platelets help in:",
+   "o": [
+    "Oxygen",
+    "Clotting",
+    "Defence",
+    "Digestion"
+   ],
+   "a": 1,
+   "w": "Clotting."
+  },
+  {
+   "q": "Blood pressure 120/80: 120 is:",
+   "o": [
+    "Diastolic",
+    "Systolic",
+    "Pulse",
+    "Average"
+   ],
+   "a": 1,
+   "w": "Heart contraction."
+  },
+  {
+   "q": "Atherosclerosis is:",
+   "o": [
+    "Valve failure",
+    "Artery narrowing by fat",
+    "Low BP",
+    "Anaemia"
+   ],
+   "a": 1,
+   "w": "Plaque."
+  },
+  {
+   "q": "Haemoglobin carries:",
+   "o": [
+    "Oxygen",
+    "Hormones",
+    "Antibodies",
+    "Glucose"
+   ],
+   "a": 0,
+   "w": "Oxygen."
+  }
+ ],
+ "sources": [
+  "NCERT Class 11 Biology",
+  "Campbell Biology"
+ ],
+ "verified": "2026-11-11"
+}

@@ -1,0 +1,180 @@
+{
+ "id": "3-0-0",
+ "title": "Digestion and Nutrition",
+ "emoji": "🍽️",
+ "cards": [
+  {
+   "tag": "Why this matters",
+   "h": "From plate to cells",
+   "b": "<p>Food is too big to enter your blood. Digestion breaks it into tiny molecules that can. Knowing the steps explains acidity, lactose intolerance, why fibre matters and why malnutrition remains a big issue.</p>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "The journey",
+   "b": "<p>The digestive tract is a long tube, about 9 metres, with helpers (liver, pancreas, gall bladder). Digestion is both mechanical (chewing, churning) and chemical (enzymes).</p><svg class=\"d\" viewBox=\"0 0 320 172\"><defs><marker id=\"dg1\" viewBox=\"0 0 10 10\" refX=\"8\" refY=\"5\" markerWidth=\"6\" markerHeight=\"6\" orient=\"auto\"><path d=\"M0 0L10 5L0 10z\" fill=\"#5d6474\"/></marker></defs><rect x=\"20\" y=\"6\" width=\"280\" height=\"28\" rx=\"6\" fill=\"#f1e4c6\" stroke=\"#a8792a\"/><text x=\"160\" y=\"24\" text-anchor=\"middle\" font-size=\"11\" fill=\"#1d2433\">Mouth: chewing, amylase starts starch</text><line x1=\"160\" y1=\"34\" x2=\"160\" y2=\"50\" stroke=\"#5d6474\" stroke-width=\"1.5\" marker-end=\"url(#dg1)\"/><rect x=\"20\" y=\"50\" width=\"280\" height=\"28\" rx=\"6\" fill=\"#dceaec\" stroke=\"#2f6f7a\"/><text x=\"160\" y=\"68\" text-anchor=\"middle\" font-size=\"11\" fill=\"#1d2433\">Stomach: acid and pepsin, proteins</text><line x1=\"160\" y1=\"78\" x2=\"160\" y2=\"94\" stroke=\"#5d6474\" stroke-width=\"1.5\" marker-end=\"url(#dg1)\"/><rect x=\"20\" y=\"94\" width=\"280\" height=\"28\" rx=\"6\" fill=\"#f1e4c6\" stroke=\"#a8792a\"/><text x=\"160\" y=\"112\" text-anchor=\"middle\" font-size=\"11\" fill=\"#1d2433\">Small intestine: most digestion, absorption</text><line x1=\"160\" y1=\"122\" x2=\"160\" y2=\"138\" stroke=\"#5d6474\" stroke-width=\"1.5\" marker-end=\"url(#dg1)\"/><rect x=\"20\" y=\"138\" width=\"280\" height=\"28\" rx=\"6\" fill=\"#dceaec\" stroke=\"#2f6f7a\"/><text x=\"160\" y=\"156\" text-anchor=\"middle\" font-size=\"11\" fill=\"#1d2433\">Large intestine: water, then waste out</text></svg>"
+  },
+  {
+   "tag": "Step by step",
+   "h": "Mouth and stomach",
+   "b": "<p>Salivary amylase breaks starch into sugars (chew roti long enough and it tastes sweet). The stomach makes hydrochloric acid (pH about 2) that kills germs, and pepsin that cuts proteins. A mucus layer protects the wall. William Beaumont studied digestion through a gunshot wound in Alexis St Martin's stomach in the 1820s.</p>"
+  },
+  {
+   "tag": "Step by step",
+   "h": "Small intestine",
+   "b": "<p>Bile from the liver (stored in the gall bladder) breaks fat into droplets. The pancreas sends enzymes: amylase, trypsin and lipase. The wall makes more enzymes. The lining has finger-like <b>villi</b> that give a surface of roughly a tennis court for absorption of sugars, amino acids and fatty acids into blood and lymph.</p>"
+  },
+  {
+   "tag": "Step by step",
+   "h": "Large intestine and gut microbes",
+   "b": "<p>It absorbs water and salts and forms faeces. Trillions of bacteria help make vitamin K and some B vitamins and break fibre. Gut microbes now link to immunity and mood.</p>"
+  },
+  {
+   "tag": "Step by step",
+   "h": "Nutrients you need",
+   "b": "<ul><li><b>Carbohydrates:</b> main fuel.</li><li><b>Proteins:</b> building and repair.</li><li><b>Fats:</b> energy, cell membranes, vitamins A, D, E, K.</li><li><b>Vitamins and minerals:</b> small amounts, big roles. Iron for blood; iodine for thyroid; vitamin D for bones.</li><li><b>Fibre and water.</b></li></ul>"
+  },
+  {
+   "tag": "Step by step",
+   "h": "Deficiency diseases",
+   "b": "<p>Lack of vitamin C causes scurvy (James Lind showed lime helped sailors, 1747). Vitamin D lack gives rickets. Vitamin A lack leads to night blindness. Iron lack leads to anaemia. Protein-energy lack gives kwashiorkor and marasmus.</p>"
+  },
+  {
+   "tag": "How we know",
+   "h": "Discovering vitamins",
+   "b": "<p>Christiaan Eijkman (1890s) found that unpolished rice prevented beriberi in fowl; Frederick Hopkins and Casimir Funk worked on 'vital amines' in the 1910s. Ivan Pavlov (1890s) studied digestive reflexes. H. pylori, found by Marshall and Warren (1982), causes most stomach ulcers, not stress.</p>"
+  },
+  {
+   "tag": "Misconceptions",
+   "h": "Watch out",
+   "b": "<div class=\"box\"><h4>Fix these</h4><ul><li>Ulcers are mainly from H. pylori and painkillers, not spicy food alone.</li><li>Most absorption is in the small intestine, not the stomach.</li><li>Fat is not 'bad'; the type and amount matter.</li></ul></div>"
+  },
+  {
+   "tag": "Indian angle",
+   "h": "Nutrition programmes",
+   "b": "<p>India runs the Integrated Child Development Services (1975), Mid-Day Meal (now PM POSHAN) and the National Food Security Act (2013). Anaemia remains widespread among women and children. Iodised salt (National Goitre Control Programme, 1962) cut iodine deficiency. Millets are promoted as 'Shree Anna' after 2023, the International Year of Millets.</p>"
+  },
+  {
+   "tag": "Recap",
+   "h": "Key takeaways and questions",
+   "b": "<ul><li>Mouth, stomach, small and large intestine do different jobs.</li><li>Villi increase absorption area.</li><li>Enzymes: amylase (starch), pepsin and trypsin (protein), lipase (fat).</li><li>Deficiencies cause specific diseases.</li></ul><p><b>Think about it:</b></p><ol><li>Why does bile not digest fat chemically but still help?</li><li>Why do we need pH 2 in the stomach but not in the intestine?</li></ol>",
+   "cls": "exam"
+  }
+ ],
+ "quiz": [
+  {
+   "q": "Most nutrient absorption occurs in the:",
+   "o": [
+    "Stomach",
+    "Small intestine",
+    "Large intestine",
+    "Mouth"
+   ],
+   "a": 1,
+   "w": "Villi."
+  },
+  {
+   "q": "Pepsin digests:",
+   "o": [
+    "Starch",
+    "Protein",
+    "Fat",
+    "Fibre"
+   ],
+   "a": 1,
+   "w": "Proteins."
+  },
+  {
+   "q": "Bile is made by the:",
+   "o": [
+    "Gall bladder",
+    "Liver",
+    "Pancreas",
+    "Stomach"
+   ],
+   "a": 1,
+   "w": "Stored in gall bladder."
+  },
+  {
+   "q": "Scurvy is caused by lack of:",
+   "o": [
+    "A",
+    "C",
+    "D",
+    "K"
+   ],
+   "a": 1,
+   "w": "Vitamin C."
+  },
+  {
+   "q": "H. pylori was found by:",
+   "o": [
+    "Marshall and Warren",
+    "Lind",
+    "Eijkman",
+    "Pavlov"
+   ],
+   "a": 0,
+   "w": "1982."
+  },
+  {
+   "q": "Salivary amylase acts on:",
+   "o": [
+    "Starch",
+    "Fat",
+    "Protein",
+    "Vitamin"
+   ],
+   "a": 0,
+   "w": "Starch to sugar."
+  },
+  {
+   "q": "Rickets is due to lack of:",
+   "o": [
+    "Vitamin D",
+    "Vitamin A",
+    "Iron",
+    "Iodine"
+   ],
+   "a": 0,
+   "w": "Bones."
+  },
+  {
+   "q": "Villi:",
+   "o": [
+    "Make acid",
+    "Increase absorption area",
+    "Make bile",
+    "Store food"
+   ],
+   "a": 1,
+   "w": "Surface area."
+  },
+  {
+   "q": "Large intestine mainly absorbs:",
+   "o": [
+    "Protein",
+    "Water",
+    "Fat",
+    "Starch"
+   ],
+   "a": 1,
+   "w": "Water and salts."
+  },
+  {
+   "q": "Iodine deficiency leads to:",
+   "o": [
+    "Goitre",
+    "Scurvy",
+    "Rickets",
+    "Anaemia"
+   ],
+   "a": 0,
+   "w": "Thyroid enlargement."
+  }
+ ],
+ "sources": [
+  "NCERT Class 11 Biology",
+  "Campbell Biology"
+ ],
+ "verified": "2026-11-11"
+}

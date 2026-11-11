@@ -1,0 +1,171 @@
+{
+ "id": "0-0-2",
+ "title": "Bohr's Atom and Spectral Lines",
+ "emoji": "⚛️",
+ "cards": [
+  {
+   "tag": "Why this matters",
+   "h": "Atoms have fingerprints",
+   "b": "<p>Pass sunlight through a prism and you see a rainbow crossed with dark lines. Heat a gas and it gives bright lines of particular colours only. Each element has its own set, like a barcode.</p><p>Why only certain colours? That puzzle led Niels Bohr in 1913 to the first quantum model of the atom, and it is how we know what distant stars are made of.</p>"
+  },
+  {
+   "tag": "The puzzles",
+   "h": "Two problems at once",
+   "b": "<p><b>Problem 1: the atom.</b> Ernest Rutherford (1911, from Geiger and Marsden's gold-foil scattering) showed an atom has a tiny heavy nucleus with electrons far outside. But an electron circling a nucleus should radiate light, lose energy, and spiral in within a tiny fraction of a second. Atoms should collapse. They do not.</p><p><b>Problem 2: the lines.</b> Johann Balmer (1885) and Johannes Rydberg (1888) found simple number patterns in hydrogen's lines, but nobody knew why.</p>"
+  },
+  {
+   "tag": "Bohr's rules",
+   "h": "Allowed orbits only",
+   "b": "<p>Bohr (Denmark, 1913) made bold rules:</p><ol><li>An electron can orbit only in certain \"allowed\" levels.</li><li>While in a level it does not radiate, ignoring classical physics.</li><li>It can jump between levels, giving off or absorbing one photon whose energy equals the difference.</li></ol><p>A big drop means a high-energy photon (blue or ultraviolet); a small drop means red. Only certain drops exist, so only certain colours appear.</p><svg class=\"d\" viewBox=\"0 0 320 150\"><defs><marker id=\"m002\" viewBox=\"0 0 10 10\" refX=\"9\" refY=\"5\" markerWidth=\"6\" markerHeight=\"6\" orient=\"auto\"><path d=\"M0,0L10,5L0,10z\" fill=\"#5d6474\"/></marker></defs><circle cx=\"60\" cy=\"75\" r=\"6\" fill=\"#a8792a\"/><circle cx=\"60\" cy=\"75\" r=\"22\" fill=\"none\" stroke=\"#5d6474\"/><circle cx=\"60\" cy=\"75\" r=\"40\" fill=\"none\" stroke=\"#5d6474\"/><circle cx=\"60\" cy=\"75\" r=\"62\" fill=\"none\" stroke=\"#5d6474\"/><text x=\"60\" y=\"43\" font-size=\"10\" fill=\"#1d2433\" text-anchor=\"middle\">n=3</text><text x=\"60\" y=\"30\" font-size=\"10\" fill=\"#1d2433\" text-anchor=\"middle\">n=2</text><line x1=\"80\" y1=\"64\" x2=\"138\" y2=\"30\" stroke=\"#5d6474\" stroke-width=\"1.5\" marker-end=\"url(#m002)\"/><text x=\"215\" y=\"25\" font-size=\"10\" fill=\"#2f6f7a\" text-anchor=\"middle\">big drop: UV light</text><line x1=\"100\" y1=\"75\" x2=\"138\" y2=\"75\" stroke=\"#5d6474\" stroke-width=\"1.5\" marker-end=\"url(#m002)\"/><text x=\"215\" y=\"78\" font-size=\"10\" fill=\"#a3362a\" text-anchor=\"middle\">medium drop: red light</text><text x=\"215\" y=\"120\" font-size=\"10\" fill=\"#5d6474\" text-anchor=\"middle\">Only certain drops allowed,</text><text x=\"215\" y=\"133\" font-size=\"10\" fill=\"#5d6474\" text-anchor=\"middle\">so only certain colours</text></svg>"
+  },
+  {
+   "tag": "Success",
+   "h": "Hydrogen solved",
+   "b": "<p>Bohr's model produced the Balmer-Rydberg numbers for hydrogen exactly, including the value of the Rydberg constant from fundamental constants. The energy of level n in hydrogen is about -13.6 eV divided by n²: ground state -13.6 eV, then -3.4, -1.5, and so on.</p><p>Light from the drop to level 2 is the visible Balmer series; the drop to level 1 is ultraviolet. This was a spectacular result for a model built in a few months.</p>"
+  },
+  {
+   "tag": "Limits",
+   "h": "Where the model broke",
+   "b": "<p>Bohr's picture treats the electron as a little planet. It fails for helium and heavier atoms, cannot explain why some lines are brighter, and cannot predict how atoms bond. It also never says <i>why</i> orbits are allowed.</p><p>The answer came in 1924-26 (de Broglie, then Schrödinger): the electron is a wave, and only waves that fit around the nucleus survive. Bohr's orbits became fuzzy clouds called orbitals. Think of Bohr's model as a useful map that is not the territory.</p>"
+  },
+  {
+   "tag": "How we know",
+   "h": "Experiments that confirmed levels",
+   "b": "<p><b>Franck-Hertz experiment (1914).</b> James Franck and Gustav Hertz fired electrons through mercury vapour. The electrons lost energy only in fixed chunks (4.9 eV), and the vapour glowed in ultraviolet, direct evidence of energy levels. They received the 1925 Nobel Prize.</p><p><b>Stars.</b> Dark lines in sunlight match elements on Earth. Helium was first spotted in the Sun's spectrum in 1868, long before it was found on Earth (1895).</p><p>Bohr won the 1922 Nobel Prize.</p>"
+  },
+  {
+   "tag": "Misconceptions",
+   "h": "Myths to drop",
+   "b": "<ul><li><b>\"Electrons orbit like planets.\"</b> No. That is Bohr's picture, now replaced by probability clouds.</li><li><b>\"The electron slides smoothly between levels.\"</b> The jump is not a path you can follow; it is a change of state.</li><li><b>\"Bohr's model is simply wrong.\"</b> It is wrong in detail but right about the key idea: energy levels.</li></ul>"
+  },
+  {
+   "tag": "Indian angle",
+   "h": "Helium in Guntur, Raman and Saha",
+   "b": "<p>The Sun's yellow line that revealed helium was observed during the total solar eclipse of 18 August 1868 by the French astronomer Pierre Janssen from Guntur, India. Norman Lockyer in England concluded it was a new element.</p><p>Meghnad Saha (1920) used atomic levels to explain star spectra: hotter stars strip atoms of electrons, so the lines change. The Saha equation is the basis of stellar classification. C.V. Raman's effect (1928) also reads the vibration levels of molecules.</p>"
+  },
+  {
+   "tag": "Recap",
+   "h": "Key takeaways and think-about-it",
+   "b": "<ul><li>Atoms give light of only certain colours because electrons have only certain energy levels.</li><li>Bohr (1913): photon energy equals the gap between levels.</li><li>Franck-Hertz (1914) proved levels; Bohr's orbits were later replaced by orbitals, but the levels stayed.</li></ul><div class=\"box\"><h4>Think about it</h4><ol><li>Why does a neon sign glow a different colour from a hydrogen lamp?</li><li>Why was the \"falling electron\" problem such a worry for Rutherford's atom?</li></ol></div>",
+   "cls": "exam"
+  }
+ ],
+ "quiz": [
+  {
+   "q": "Why was Rutherford's atom a problem for classical physics?",
+   "o": [
+    "An orbiting electron should radiate and spiral into the nucleus",
+    "Electrons have no charge",
+    "The nucleus is too large",
+    "It cannot explain gravity"
+   ],
+   "a": 0,
+   "w": "Accelerating charges radiate energy."
+  },
+  {
+   "q": "In Bohr's model, light is emitted when:",
+   "o": [
+    "It stays in one level",
+    "An electron jumps to a lower level",
+    "The nucleus splits",
+    "The atom collides with nothing"
+   ],
+   "a": 1,
+   "w": "Photon energy equals the gap."
+  },
+  {
+   "q": "Which atom did Bohr's model explain well?",
+   "o": [
+    "Helium",
+    "Iron",
+    "Hydrogen",
+    "Uranium"
+   ],
+   "a": 2,
+   "w": "It reproduced Balmer-Rydberg results exactly."
+  },
+  {
+   "q": "A bigger energy drop produces a photon of:",
+   "o": [
+    "Higher frequency (bluer)",
+    "Lower frequency",
+    "No change",
+    "Zero energy"
+   ],
+   "a": 0,
+   "w": "E = hf."
+  },
+  {
+   "q": "What did the Franck-Hertz experiment (1914) show?",
+   "o": [
+    "Electrons are waves",
+    "Atoms absorb energy only in fixed amounts",
+    "Light is a particle",
+    "Atoms are mostly empty"
+   ],
+   "a": 1,
+   "w": "It gave direct evidence of energy levels."
+  },
+  {
+   "q": "Who found simple number patterns in hydrogen lines before Bohr?",
+   "o": [
+    "Balmer and Rydberg",
+    "Planck and Einstein",
+    "Heisenberg and Born",
+    "Dirac and Pauli"
+   ],
+   "a": 0,
+   "w": "Balmer in 1885, Rydberg in 1888."
+  },
+  {
+   "q": "Why is Bohr's model no longer taken literally?",
+   "o": [
+    "Nuclei do not exist",
+    "Levels were disproved",
+    "Light has no energy",
+    "Electrons are better described by probability waves"
+   ],
+   "a": 3,
+   "w": "The wave picture of 1925-26 replaced orbits."
+  },
+  {
+   "q": "Helium was first detected in:",
+   "o": [
+    "The Sun's spectrum in 1868",
+    "A mine in 1760",
+    "A lab in 1913",
+    "Cosmic rays"
+   ],
+   "a": 0,
+   "w": "Observed during the 1868 eclipse; found on Earth in 1895."
+  },
+  {
+   "q": "Meghnad Saha's 1920 work explained:",
+   "o": [
+    "The photoelectric effect",
+    "Radioactivity",
+    "How star temperature changes spectral lines",
+    "The Raman effect"
+   ],
+   "a": 2,
+   "w": "Ionisation levels depend on temperature."
+  },
+  {
+   "q": "The hydrogen ground state energy is about:",
+   "o": [
+    "+13.6 eV",
+    "-13.6 eV",
+    "0 eV",
+    "-136 eV"
+   ],
+   "a": 1,
+   "w": "Negative means bound to the nucleus."
+  }
+ ],
+ "sources": [
+  "Bohr 1913",
+  "Franck and Hertz 1914",
+  "Saha 1920"
+ ],
+ "verified": "2026-11-11"
+}

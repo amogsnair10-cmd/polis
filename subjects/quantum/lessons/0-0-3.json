@@ -1,0 +1,172 @@
+{
+ "id": "0-0-3",
+ "title": "De Broglie and Matter Waves",
+ "emoji": "🌊",
+ "cards": [
+  {
+   "tag": "Why this matters",
+   "h": "If light can be a particle, can a particle be a wave?",
+   "b": "<p>By 1923 light had been shown to act like both wave and particle. A young French aristocrat-turned-physicist, Louis de Broglie, asked: if so, why should matter be different?</p><p>His answer, in his 1924 PhD thesis, was that every moving particle has a wave. This is why electron microscopes work, and why atoms have fixed energy levels.</p>"
+  },
+  {
+   "tag": "The idea",
+   "h": "The de Broglie wavelength",
+   "b": "<div class=\"box\"><h4>The rule</h4>wavelength = h / momentum. Momentum is mass times speed.</div><p>h is Planck's tiny constant, so for anything heavy the wavelength is absurdly small. A cricket ball at 40 m/s has a wavelength of about 10⁻³⁴ m, a billion billion billion times smaller than an atomic nucleus. So the ball never shows wave effects.</p><p>An electron is about 10³⁰ times lighter, so its wavelength can be comparable to the spacing of atoms in crystals (a fraction of a nanometre). That is where waves become visible.</p>"
+  },
+  {
+   "tag": "Atoms explained",
+   "h": "Why only certain orbits",
+   "b": "<p>De Broglie noticed that Bohr's allowed orbits are exactly those where a whole number of electron waves fit around the circle. If the wave does not fit, it cancels itself after a lap, like a badly timed push on a swing.</p><svg class=\"d\" viewBox=\"0 0 320 170\"><defs><marker id=\"m003\" viewBox=\"0 0 10 10\" refX=\"9\" refY=\"5\" markerWidth=\"6\" markerHeight=\"6\" orient=\"auto\"><path d=\"M0,0L10,5L0,10z\" fill=\"#5d6474\"/></marker></defs><circle cx=\"85\" cy=\"55\" r=\"38\" fill=\"none\" stroke=\"#2f6f7a\" stroke-width=\"2.5\"/><text x=\"85\" y=\"110\" font-size=\"10\" fill=\"#2f6f7a\" text-anchor=\"middle\">3 waves fit: allowed</text><path d=\"M190,55 C190,20 215,20 230,35 C245,50 255,30 270,45 C285,60 270,95 235,92 C205,90 190,80 190,55Z\" fill=\"none\" stroke=\"#a3362a\" stroke-width=\"2.5\" stroke-dasharray=\"4 3\"/><text x=\"240\" y=\"110\" font-size=\"10\" fill=\"#a3362a\" text-anchor=\"middle\">does not close: ruled out</text><text x=\"160\" y=\"140\" font-size=\"10\" fill=\"#5d6474\" text-anchor=\"middle\">An electron wave must fit around the nucleus</text><text x=\"160\" y=\"155\" font-size=\"10\" fill=\"#5d6474\" text-anchor=\"middle\">like a full number of ripples on a ring</text></svg><p>This is the first explanation of <i>why</i> atoms have steady levels: it is the same maths as a guitar string, which can only vibrate in whole numbers of half-waves.</p>"
+  },
+  {
+   "tag": "Analogy",
+   "h": "Ripples on a ring",
+   "b": "<p>Flick a ring of water and only some ripple patterns survive. Others fade. Quantum levels are the survivors.</p><p><b>Where it breaks:</b> the electron wave is not a ripple in some material. It is a wave of probability (see the wavefunction lesson), and it lives in an abstract space, not a ring you could photograph.</p>"
+  },
+  {
+   "tag": "How we know",
+   "h": "Electrons diffract",
+   "b": "<p>In 1927 at Bell Labs, Clinton Davisson and Lester Germer bounced electrons off a nickel crystal. They found an intensity pattern peaking at certain angles, the same signature as X-ray diffraction, matching de Broglie's wavelength. Independently, G.P. Thomson in Aberdeen sent electrons through thin metal foil and saw rings.</p><p>De Broglie got the 1929 Nobel; Davisson and Thomson shared the 1937 Nobel. Interference has since been seen with neutrons, atoms and even large molecules: in 1999 Anton Zeilinger's group (Vienna) saw it with C60 \"buckyballs\" of 60 carbon atoms.</p>"
+  },
+  {
+   "tag": "Use",
+   "h": "Seeing with matter waves",
+   "b": "<p>Microscopes are limited by wavelength: you cannot see detail smaller than the wave you use. Visible light is about 500 nm; fast electrons can have wavelengths thousands of times shorter. The electron microscope (Ruska and Knoll, 1931) shows viruses and atoms. Neutron beams likewise map magnetic and crystal structure.</p>"
+  },
+  {
+   "tag": "Misconceptions",
+   "h": "Myths to drop",
+   "b": "<ul><li><b>\"Everything is a wave, so I could diffract through a door.\"</b> Your wavelength is about 10⁻³⁶ m. Not possible.</li><li><b>\"The electron is smeared into a cloud of matter.\"</b> Detectors find it at one spot; the wave tells the odds of where.</li><li><b>\"De Broglie proved it was a real wave in space.\"</b> Experiments show wave-like patterns; what the wave <i>is</i> is an interpretation question.</li></ul>"
+  },
+  {
+   "tag": "Indian angle",
+   "h": "Bose and de Broglie, Raman and Krishnan",
+   "b": "<p>Einstein championed S.N. Bose's 1924 photon counting; he then used the same counting for atoms and, reading de Broglie's thesis (shown to him by Paul Langevin), backed matter waves too. Schrödinger said he was led to his wave equation by Einstein's remarks on de Broglie.</p><p>In India, electron microscopes now operate in IISc Bengaluru, TIFR and IITs, and the Raman group's early work on X-ray and light scattering tied waves and quanta together in the same decade.</p>"
+  },
+  {
+   "tag": "Recap",
+   "h": "Key takeaways and think-about-it",
+   "b": "<ul><li>De Broglie (1924): wavelength = h / momentum.</li><li>Davisson-Germer and G.P. Thomson (1927) showed electrons diffract.</li><li>Standing waves explain Bohr's levels; big objects have unnoticeably short wavelengths.</li></ul><div class=\"box\"><h4>Think about it</h4><ol><li>If you doubled an electron's speed, would its wavelength grow or shrink? Why?</li><li>Why can an electron microscope see smaller things than a light microscope?</li></ol></div>",
+   "cls": "exam"
+  }
+ ],
+ "quiz": [
+  {
+   "q": "De Broglie proposed that:",
+   "o": [
+    "Every moving particle has a wave",
+    "Only light has a wave",
+    "Atoms are indivisible",
+    "Waves need a medium"
+   ],
+   "a": 0,
+   "w": "This is matter-wave duality."
+  },
+  {
+   "q": "The de Broglie wavelength is:",
+   "o": [
+    "h times momentum",
+    "h divided by momentum",
+    "mass divided by speed",
+    "speed of light divided by h"
+   ],
+   "a": 1,
+   "w": "Larger momentum means shorter wavelength."
+  },
+  {
+   "q": "Why does a cricket ball show no wave behaviour?",
+   "o": [
+    "It is not made of atoms",
+    "It moves too slowly",
+    "Its wavelength is unimaginably small",
+    "Gravity blocks waves"
+   ],
+   "a": 2,
+   "w": "About 10⁻³⁴ m."
+  },
+  {
+   "q": "Allowed Bohr orbits are those where:",
+   "o": [
+    "A whole number of waves fit round",
+    "The electron is stationary",
+    "The orbit is circular only",
+    "Waves cancel completely"
+   ],
+   "a": 0,
+   "w": "Otherwise the wave destroys itself."
+  },
+  {
+   "q": "The 1927 Davisson-Germer experiment used:",
+   "o": [
+    "X-rays on gold foil",
+    "Electrons on a nickel crystal",
+    "Alpha particles on mica",
+    "Light on a prism"
+   ],
+   "a": 1,
+   "w": "The pattern matched diffraction of waves."
+  },
+  {
+   "q": "Who independently saw electron rings through thin foil?",
+   "o": [
+    "Rutherford",
+    "Pauli",
+    "Compton",
+    "G.P. Thomson"
+   ],
+   "a": 3,
+   "w": "He shared the 1937 Nobel with Davisson."
+  },
+  {
+   "q": "Why can electron microscopes show finer detail than light microscopes?",
+   "o": [
+    "Fast electrons have shorter wavelengths",
+    "Electrons are brighter",
+    "They are heavier than light",
+    "They glow"
+   ],
+   "a": 0,
+   "w": "Resolution is limited by wavelength."
+  },
+  {
+   "q": "Interference with C60 molecules (1999) showed:",
+   "o": [
+    "Molecules cannot be waves",
+    "C60 is a photon",
+    "Large molecules also behave like waves",
+    "Waves need vacuum only"
+   ],
+   "a": 2,
+   "w": "Zeilinger's group in Vienna."
+  },
+  {
+   "q": "When you double a particle's momentum, its wavelength:",
+   "o": [
+    "Halves",
+    "Doubles",
+    "Stays the same",
+    "Becomes zero"
+   ],
+   "a": 0,
+   "w": "Wavelength = h / p."
+  },
+  {
+   "q": "What does the electron wave describe?",
+   "o": [
+    "A real ripple in matter",
+    "The odds of finding the electron somewhere",
+    "The speed of light",
+    "Its colour"
+   ],
+   "a": 1,
+   "w": "Born's rule gives the odds (1926)."
+  }
+ ],
+ "sources": [
+  "de Broglie 1924",
+  "Davisson and Germer 1927",
+  "Thomson 1927",
+  "Arndt et al. 1999"
+ ],
+ "verified": "2026-11-11"
+}

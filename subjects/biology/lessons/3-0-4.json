@@ -1,0 +1,180 @@
+{
+ "id": "3-0-4",
+ "title": "Hormones and the Endocrine System",
+ "emoji": "🧪",
+ "cards": [
+  {
+   "tag": "Why this matters",
+   "h": "Slow messages, big effects",
+   "b": "<p>Nerves are fast text messages; hormones are letters sent by blood. They control growth, mood, sugar levels, puberty and stress. Diabetes, thyroid disease and growth disorders are hormone problems, and all are common in India.</p>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "What a hormone is",
+   "b": "<p>Hormones are chemical messengers made by glands and carried in blood to target cells that have matching receptors. William Bayliss and Ernest Starling coined the word in 1905 after discovering secretin. Control is usually by <b>negative feedback</b>.</p><svg class=\"d\" viewBox=\"0 0 320 172\"><defs><marker id=\"en1\" viewBox=\"0 0 10 10\" refX=\"8\" refY=\"5\" markerWidth=\"6\" markerHeight=\"6\" orient=\"auto\"><path d=\"M0 0L10 5L0 10z\" fill=\"#5d6474\"/></marker></defs><rect x=\"20\" y=\"6\" width=\"280\" height=\"28\" rx=\"6\" fill=\"#dceaec\" stroke=\"#2f6f7a\"/><text x=\"160\" y=\"24\" text-anchor=\"middle\" font-size=\"11\" fill=\"#1d2433\">Hypothalamus releases releasing hormone</text><line x1=\"160\" y1=\"34\" x2=\"160\" y2=\"50\" stroke=\"#5d6474\" stroke-width=\"1.5\" marker-end=\"url(#en1)\"/><rect x=\"20\" y=\"50\" width=\"280\" height=\"28\" rx=\"6\" fill=\"#f1e4c6\" stroke=\"#a8792a\"/><text x=\"160\" y=\"68\" text-anchor=\"middle\" font-size=\"11\" fill=\"#1d2433\">Pituitary releases tropic hormone</text><line x1=\"160\" y1=\"78\" x2=\"160\" y2=\"94\" stroke=\"#5d6474\" stroke-width=\"1.5\" marker-end=\"url(#en1)\"/><rect x=\"20\" y=\"94\" width=\"280\" height=\"28\" rx=\"6\" fill=\"#f4dcd5\" stroke=\"#a3362a\"/><text x=\"160\" y=\"112\" text-anchor=\"middle\" font-size=\"11\" fill=\"#1d2433\">Target gland releases hormone</text><line x1=\"160\" y1=\"122\" x2=\"160\" y2=\"138\" stroke=\"#5d6474\" stroke-width=\"1.5\" marker-end=\"url(#en1)\"/><rect x=\"20\" y=\"138\" width=\"280\" height=\"28\" rx=\"6\" fill=\"#dceaec\" stroke=\"#2f6f7a\"/><text x=\"160\" y=\"156\" text-anchor=\"middle\" font-size=\"11\" fill=\"#1d2433\">Rising level shuts off upstream</text></svg>"
+  },
+  {
+   "tag": "Step by step",
+   "h": "Pituitary: the master gland",
+   "b": "<p>A pea-sized gland under the brain. It makes growth hormone (too little: dwarfism; too much: gigantism), TSH, ACTH, FSH, LH, prolactin, and stores ADH and oxytocin from the hypothalamus. ADH helps the kidney save water.</p>"
+  },
+  {
+   "tag": "Step by step",
+   "h": "Thyroid and calcium",
+   "b": "<p>The thyroid makes thyroxine, which sets metabolism and needs iodine. Lack of iodine causes goitre. Parathyroid hormone raises blood calcium; calcitonin lowers it.</p>"
+  },
+  {
+   "tag": "Step by step",
+   "h": "Blood sugar: insulin and glucagon",
+   "b": "<p>After a meal, the pancreas releases <b>insulin</b>, which makes cells absorb glucose and liver store glycogen. Between meals, <b>glucagon</b> releases glucose. In type 1 diabetes the body makes no insulin; in type 2 cells respond poorly. Banting and Best (1921, Toronto) isolated insulin; Banting and Macleod got the 1923 Nobel.</p>"
+  },
+  {
+   "tag": "Step by step",
+   "h": "Adrenal glands and stress",
+   "b": "<p>The adrenal medulla releases adrenaline in seconds: heart races, glucose rises. The cortex releases cortisol (long stress) and aldosterone (salt balance). Chronic stress keeps cortisol high and harms health.</p>"
+  },
+  {
+   "tag": "Step by step",
+   "h": "Sex hormones and others",
+   "b": "<p>Testes make testosterone; ovaries make oestrogen and progesterone. Melatonin from the pineal gland sets sleep rhythm. Plants also use hormones: auxin, gibberellin, cytokinin, ethylene and abscisic acid.</p>"
+  },
+  {
+   "tag": "How we know",
+   "h": "Early experiments",
+   "b": "<p>Arnold Berthold (1849) moved a rooster's testes and found comb and behaviour preserved, hinting at chemical signals. Banting's dog experiments led to insulin. Radioimmunoassay (Yalow, 1977 Nobel) allowed hormone measurement.</p>"
+  },
+  {
+   "tag": "Misconceptions",
+   "h": "Watch out",
+   "b": "<div class=\"box\"><h4>Fix these</h4><ul><li>Hormones are not only sex hormones.</li><li>Type 2 diabetes is not just 'eating sugar'; genes, weight and activity matter.</li><li>Insulin is not a cure but a replacement.</li></ul></div>"
+  },
+  {
+   "tag": "Indian angle",
+   "h": "The diabetes capital",
+   "b": "<p>India has more than 100 million people with diabetes, among the highest in the world. Indians develop it at lower body weight, linked to belly fat and genes. The National Programme for Prevention and Control of Non-Communicable Diseases covers diabetes screening. Iodised salt helps fight goitre. India makes much of the world's low-cost insulin.</p>"
+  },
+  {
+   "tag": "Recap",
+   "h": "Key takeaways and questions",
+   "b": "<ul><li>Hormones travel in blood to targets; slower but longer lasting.</li><li>Negative feedback keeps levels steady.</li><li>Insulin lowers, glucagon raises blood sugar.</li><li>Pituitary directs many glands.</li></ul><p><b>Think about it:</b></p><ol><li>Why does a high thyroxine level reduce TSH?</li><li>How do nerve and hormone signals differ in speed and duration?</li></ol>",
+   "cls": "exam"
+  }
+ ],
+ "quiz": [
+  {
+   "q": "Hormones travel by:",
+   "o": [
+    "Nerves",
+    "Blood",
+    "Bone",
+    "Air"
+   ],
+   "a": 1,
+   "w": "Blood."
+  },
+  {
+   "q": "Insulin is made in the:",
+   "o": [
+    "Liver",
+    "Pancreas",
+    "Thyroid",
+    "Pituitary"
+   ],
+   "a": 1,
+   "w": "Beta cells."
+  },
+  {
+   "q": "Iodine is needed for:",
+   "o": [
+    "Insulin",
+    "Thyroxine",
+    "Cortisol",
+    "ADH"
+   ],
+   "a": 1,
+   "w": "Thyroxine."
+  },
+  {
+   "q": "Insulin was isolated by:",
+   "o": [
+    "Banting and Best",
+    "Bayliss",
+    "Berthold",
+    "Yalow"
+   ],
+   "a": 0,
+   "w": "1921."
+  },
+  {
+   "q": "The 'master gland' is the:",
+   "o": [
+    "Thyroid",
+    "Pituitary",
+    "Adrenal",
+    "Pancreas"
+   ],
+   "a": 1,
+   "w": "Pituitary."
+  },
+  {
+   "q": "Adrenaline acts in:",
+   "o": [
+    "Years",
+    "Seconds",
+    "Months",
+    "Never"
+   ],
+   "a": 1,
+   "w": "Quick stress response."
+  },
+  {
+   "q": "Glucagon:",
+   "o": [
+    "Lowers sugar",
+    "Raises sugar",
+    "Stores fat",
+    "Digests protein"
+   ],
+   "a": 1,
+   "w": "Raises blood glucose."
+  },
+  {
+   "q": "ADH acts on:",
+   "o": [
+    "Heart",
+    "Kidney",
+    "Lung",
+    "Skin"
+   ],
+   "a": 1,
+   "w": "Water conservation."
+  },
+  {
+   "q": "The word 'hormone' was coined in:",
+   "o": [
+    "1905",
+    "1921",
+    "1953",
+    "1982"
+   ],
+   "a": 0,
+   "w": "Bayliss and Starling."
+  },
+  {
+   "q": "Negative feedback means:",
+   "o": [
+    "Output boosts itself",
+    "Output turns off the cause",
+    "No control",
+    "Slow growth"
+   ],
+   "a": 1,
+   "w": "Self-limiting."
+  }
+ ],
+ "sources": [
+  "NCERT Class 11 Biology",
+  "Campbell Biology"
+ ],
+ "verified": "2026-11-11"
+}

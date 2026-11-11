@@ -1,0 +1,177 @@
+{
+ "id": "0-0-1",
+ "title": "The Photoelectric Effect and Einstein",
+ "emoji": "💡",
+ "cards": [
+  {
+   "tag": "Why this matters",
+   "h": "Why your phone camera works",
+   "b": "<p>Shine light on some metals and electrons fly out. This is the photoelectric effect. It powers light sensors, solar cells and digital camera chips.</p><p>It was also the effect that forced Einstein, in 1905, to say something shocking: light itself arrives in packets. That earned him the 1921 Nobel Prize, not relativity.</p>"
+  },
+  {
+   "tag": "The observation",
+   "h": "What was seen",
+   "b": "<p>Heinrich Hertz noticed in 1887 that ultraviolet light helps sparks jump. Philipp Lenard (1902) measured it carefully. Light knocks electrons out of a metal surface. Then came three odd facts.</p><ol><li>Below a certain <b>colour</b> (frequency), no electrons come out, however bright the light.</li><li>Above it, electrons come out <b>instantly</b>, even with dim light.</li><li>Brighter light gives <b>more</b> electrons, but not <b>faster</b> ones. Only a bluer colour gives faster electrons.</li></ol>"
+  },
+  {
+   "tag": "Why waves fail",
+   "h": "What the wave picture expected",
+   "b": "<p>If light is a smooth wave, a brighter wave carries more energy and should shake electrons out harder. Dim light should work eventually, just slowly, as the electron soaks up energy like a bucket under a drip. Colour should not matter much.</p><p>The data said the opposite: colour decided everything, brightness only the count. The wave picture had no answer.</p>"
+  },
+  {
+   "tag": "Einstein's idea",
+   "h": "Light as packets",
+   "b": "<p>In 1905 Einstein took Planck's idea seriously: light itself is made of packets, each with energy hf. One packet hits one electron, all or nothing.</p><div class=\"box\"><h4>The equation in words</h4>Kinetic energy of the electron = packet energy (hf) minus the \"work function\" W, the fee the metal charges to let an electron go.</div><p>Red packets are too small to pay the fee, so no electron escapes, however many red packets arrive. Blue packets can pay, and any extra becomes speed. Brightness only means more packets, so more electrons.</p><svg class=\"d\" viewBox=\"0 0 320 130\"><defs><marker id=\"m001\" viewBox=\"0 0 10 10\" refX=\"9\" refY=\"5\" markerWidth=\"6\" markerHeight=\"6\" orient=\"auto\"><path d=\"M0,0L10,5L0,10z\" fill=\"#5d6474\"/></marker></defs><rect x=\"10\" y=\"20\" width=\"80\" height=\"90\" rx=\"6\" fill=\"#ffffff\" stroke=\"#5d6474\"/><text x=\"50.0\" y=\"61.7\" font-size=\"11\" fill=\"#1d2433\" text-anchor=\"middle\">metal</text><text x=\"50.0\" y=\"75.7\" font-size=\"11\" fill=\"#1d2433\" text-anchor=\"middle\">plate</text><line x1=\"150\" y1=\"30\" x2=\"100\" y2=\"50\" stroke=\"#5d6474\" stroke-width=\"1.5\" marker-end=\"url(#m001)\"/><line x1=\"150\" y1=\"85\" x2=\"100\" y2=\"75\" stroke=\"#5d6474\" stroke-width=\"1.5\" marker-end=\"url(#m001)\"/><rect x=\"155\" y=\"15\" width=\"70\" height=\"36\" rx=\"6\" fill=\"#dceaec\" stroke=\"#2f6f7a\"/><text x=\"190.0\" y=\"29.8\" font-size=\"10\" fill=\"#1d2433\" text-anchor=\"middle\">blue photon</text><text x=\"190.0\" y=\"42.8\" font-size=\"10\" fill=\"#1d2433\" text-anchor=\"middle\">big packet</text><rect x=\"155\" y=\"70\" width=\"70\" height=\"36\" rx=\"6\" fill=\"#f4dcd5\" stroke=\"#a3362a\"/><text x=\"190.0\" y=\"84.8\" font-size=\"10\" fill=\"#1d2433\" text-anchor=\"middle\">red photon</text><text x=\"190.0\" y=\"97.8\" font-size=\"10\" fill=\"#1d2433\" text-anchor=\"middle\">small packet</text><text x=\"268\" y=\"40\" font-size=\"10\" fill=\"#2f6f7a\" text-anchor=\"middle\">electron</text><text x=\"268\" y=\"53\" font-size=\"10\" fill=\"#2f6f7a\" text-anchor=\"middle\">escapes</text><text x=\"268\" y=\"95\" font-size=\"10\" fill=\"#a3362a\" text-anchor=\"middle\">nothing</text><text x=\"268\" y=\"108\" font-size=\"10\" fill=\"#a3362a\" text-anchor=\"middle\">happens</text></svg>"
+  },
+  {
+   "tag": "Analogy",
+   "h": "Vending machine",
+   "b": "<p>A vending machine wants a 10-rupee coin. Pouring in a thousand 1-rupee coins will not work, but one 10-rupee coin works at once. Colour is the coin size; brightness is how many coins you have.</p><p><b>Where it breaks:</b> a machine can accept several small coins added up. An electron almost never accepts two small photons at once (only in very intense laser light).</p>"
+  },
+  {
+   "tag": "How we know",
+   "h": "Millikan tries to disprove it",
+   "b": "<p>Einstein's claim was so strange that Robert Millikan spent about ten years (1914-1916) building careful vacuum experiments to refute it. He measured the electron energy against light frequency and found a straight line exactly as Einstein predicted, and used its slope to get Planck's constant. He admitted the result, and won the 1923 Nobel Prize partly for this.</p><p>Then in 1923 Arthur Compton showed X-rays bounce off electrons like billiard balls with definite momentum, so the packets (later named <b>photons</b>) really behave like particles.</p>"
+  },
+  {
+   "tag": "The deeper point",
+   "h": "Wave and particle together",
+   "b": "<p>Light still shows waves: it makes interference patterns (Young, 1801). So light behaves as a wave when travelling and as lumps when exchanging energy with matter. Modern theory (quantum field theory) says it is neither a classical wave nor a classical ball but something new that shows each face in different experiments.</p><p>The honest summary: the mathematics is clear and tested; the plain-language picture is always a compromise.</p>"
+  },
+  {
+   "tag": "Misconceptions",
+   "h": "Myths to drop",
+   "b": "<ul><li><b>\"Einstein won the Nobel for relativity.\"</b> The 1921 prize cited his law of the photoelectric effect.</li><li><b>\"Brighter light means more energetic photons.\"</b> No. Brighter means more photons. Energy per photon depends on colour.</li><li><b>\"Photons are tiny marbles.\"</b> They have no sharp position when travelling; the particle side shows up only on detection.</li></ul>"
+  },
+  {
+   "tag": "Indian angle",
+   "h": "Raman and the photon",
+   "b": "<p>C.V. Raman discovered in 1928 that when light scatters from molecules, a little of it comes back with a changed colour. In photon terms, a photon gave some energy to the molecule (or took some) and left with less (or more). That is the <b>Raman effect</b>, announced on 28 February 1928 with K.S. Krishnan; Raman won the 1930 Nobel Prize in Physics, the first for an Indian in science. India celebrates 28 February as National Science Day.</p><p>Raman spectroscopy is now a standard way to identify materials, and it works because light comes in photons.</p>"
+  },
+  {
+   "tag": "Recap",
+   "h": "Key takeaways and think-about-it",
+   "b": "<ul><li>Photoelectric facts: threshold colour, instant action, speed set by colour not brightness.</li><li>Einstein 1905: light comes in quanta of energy hf. Millikan confirmed it in 1914-16; Compton added momentum in 1923.</li><li>Raman effect (1928) is photons trading energy with molecules.</li></ul><div class=\"box\"><h4>Think about it</h4><ol><li>A very bright red lamp ejects no electrons from a metal, but a faint blue lamp does. Explain with photons.</li><li>Why does a solar panel need light above a certain frequency?</li></ol></div>",
+   "cls": "exam"
+  }
+ ],
+ "quiz": [
+  {
+   "q": "What happens if light is below the threshold frequency but very bright?",
+   "o": [
+    "No electrons come out",
+    "Many fast electrons",
+    "Slow electrons after a delay",
+    "Only some come out"
+   ],
+   "a": 0,
+   "w": "Each red photon is too weak to pay the work function."
+  },
+  {
+   "q": "Einstein won the 1921 Nobel Prize for:",
+   "o": [
+    "General relativity",
+    "The law of the photoelectric effect",
+    "Brownian motion",
+    "E = mc²"
+   ],
+   "a": 1,
+   "w": "The citation named the photoelectric law."
+  },
+  {
+   "q": "Brighter light of the same colour gives:",
+   "o": [
+    "Faster electrons",
+    "Fewer electrons",
+    "More electrons, same maximum speed",
+    "No change"
+   ],
+   "a": 2,
+   "w": "More photons give more electrons."
+  },
+  {
+   "q": "What is the work function?",
+   "o": [
+    "The energy needed to free an electron from the metal",
+    "The brightness of light",
+    "The frequency of light",
+    "The metal's temperature"
+   ],
+   "a": 0,
+   "w": "It is the fee the metal charges."
+  },
+  {
+   "q": "Why did the wave picture fail here?",
+   "o": [
+    "It predicted no light at all",
+    "It said electrons are waves",
+    "It predicted electrons are heavy",
+    "It predicted that brightness controls electron speed and colour is unimportant"
+   ],
+   "a": 3,
+   "w": "The data showed colour mattered most."
+  },
+  {
+   "q": "Who experimentally tested Einstein's equation in 1914-16?",
+   "o": [
+    "Max Planck",
+    "Robert Millikan",
+    "Niels Bohr",
+    "Louis de Broglie"
+   ],
+   "a": 1,
+   "w": "Millikan wanted to refute it but confirmed it."
+  },
+  {
+   "q": "What did Compton (1923) show?",
+   "o": [
+    "Electrons are waves",
+    "Light needs a medium",
+    "X-ray photons carry momentum like particles",
+    "Atoms are mostly empty"
+   ],
+   "a": 2,
+   "w": "Scattering matched particle-like collisions."
+  },
+  {
+   "q": "Photon energy depends on:",
+   "o": [
+    "The frequency (colour)",
+    "Brightness only",
+    "The distance travelled",
+    "The metal hit"
+   ],
+   "a": 0,
+   "w": "E = hf."
+  },
+  {
+   "q": "When did Raman announce his effect?",
+   "o": [
+    "1905",
+    "1928",
+    "1913",
+    "1947"
+   ],
+   "a": 1,
+   "w": "Raman and Krishnan observed it in 1928; Nobel in 1930."
+  },
+  {
+   "q": "Why can light still show interference if it is made of photons?",
+   "o": [
+    "Interference is an illusion",
+    "Photons are always large",
+    "Interference needs electrons",
+    "Photons show wave behaviour while travelling"
+   ],
+   "a": 3,
+   "w": "Light has both faces depending on the experiment."
+  }
+ ],
+ "sources": [
+  "Einstein 1905",
+  "Millikan 1916",
+  "Compton 1923",
+  "Raman and Krishnan 1928"
+ ],
+ "verified": "2026-11-11"
+}

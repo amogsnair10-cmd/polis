@@ -29,6 +29,11 @@
    "b": "<ol><li><b>Helicase</b> unzips the helix at an origin, forming a fork.</li><li><b>Primase</b> lays a short RNA primer.</li><li><b>DNA polymerase</b> adds matching bases, only in the 5' to 3' direction.</li><li>The leading strand is made smoothly; the lagging strand in pieces (Okazaki fragments, 1968).</li><li><b>Ligase</b> joins the pieces.</li></ol><p>It is <b>semi-conservative</b>: each new helix has one old and one new strand. Polymerase also proofreads, with about one error in a billion bases.</p>"
   },
   {
+   "tag": "Step by step",
+   "h": "Packing two metres into a cell",
+   "b": "<p>DNA wraps around proteins called <b>histones</b>, forming beads called nucleosomes. These coil into chromatin and then into chromosomes, visible during division. Humans have 3 billion base pairs per set of chromosomes. Prokaryotes keep a circular chromosome, plus small rings called plasmids that scientists later used as gene carriers.</p>"
+  },
+  {
    "tag": "How we know",
    "h": "Discovering the helix",
    "b": "<p>Frederick Griffith (1928) saw bacteria transform. Avery, MacLeod and McCarty (1944) showed the transforming substance was DNA. Hershey and Chase (1952) confirmed it with viruses. Rosalind Franklin's X-ray image (Photo 51, 1952) and Maurice Wilkins's data helped Watson and Crick propose the double helix in 1953 (Nobel 1962 to Watson, Crick, Wilkins). Meselson and Stahl (1958) proved semi-conservative copying.</p>"

@@ -1,0 +1,180 @@
+{
+ "id": "2-0-2",
+ "title": "Speciation and the Tree of Life",
+ "emoji": "🌳",
+ "cards": [
+  {
+   "tag": "Why this matters",
+   "h": "How one becomes many",
+   "b": "<p>Life on Earth has millions of species, yet all come from one common ancestor. Understanding how species split and how we group them gives a map of life, and helps in conservation and medicine.</p>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "What is a species?",
+   "b": "<p>Ernst Mayr's biological species concept (1942): a group of populations that interbreed in nature and are reproductively isolated from others. It is not perfect: it fails for asexual organisms and fossils, where shape or genes are used.</p>"
+  },
+  {
+   "tag": "Step by step",
+   "h": "How new species form",
+   "b": "<ol><li>A population is split (a river, mountain or sea).</li><li>Each side faces different conditions and drifts apart genetically.</li><li>Eventually they can no longer interbreed.</li></ol><svg class=\"d\" viewBox=\"0 0 320 172\"><defs><marker id=\"sp1\" viewBox=\"0 0 10 10\" refX=\"8\" refY=\"5\" markerWidth=\"6\" markerHeight=\"6\" orient=\"auto\"><path d=\"M0 0L10 5L0 10z\" fill=\"#5d6474\"/></marker></defs><rect x=\"20\" y=\"6\" width=\"280\" height=\"28\" rx=\"6\" fill=\"#f1e4c6\" stroke=\"#a8792a\"/><text x=\"160\" y=\"24\" text-anchor=\"middle\" font-size=\"11\" fill=\"#1d2433\">One population</text><line x1=\"160\" y1=\"34\" x2=\"160\" y2=\"50\" stroke=\"#5d6474\" stroke-width=\"1.5\" marker-end=\"url(#sp1)\"/><rect x=\"20\" y=\"50\" width=\"280\" height=\"28\" rx=\"6\" fill=\"#dceaec\" stroke=\"#2f6f7a\"/><text x=\"160\" y=\"68\" text-anchor=\"middle\" font-size=\"11\" fill=\"#1d2433\">Barrier splits it (allopatric)</text><line x1=\"160\" y1=\"78\" x2=\"160\" y2=\"94\" stroke=\"#5d6474\" stroke-width=\"1.5\" marker-end=\"url(#sp1)\"/><rect x=\"20\" y=\"94\" width=\"280\" height=\"28\" rx=\"6\" fill=\"#f1e4c6\" stroke=\"#a8792a\"/><text x=\"160\" y=\"112\" text-anchor=\"middle\" font-size=\"11\" fill=\"#1d2433\">Separate evolution, drift, selection</text><line x1=\"160\" y1=\"122\" x2=\"160\" y2=\"138\" stroke=\"#5d6474\" stroke-width=\"1.5\" marker-end=\"url(#sp1)\"/><rect x=\"20\" y=\"138\" width=\"280\" height=\"28\" rx=\"6\" fill=\"#dceaec\" stroke=\"#2f6f7a\"/><text x=\"160\" y=\"156\" text-anchor=\"middle\" font-size=\"11\" fill=\"#1d2433\">Reproductive isolation: two species</text></svg>"
+  },
+  {
+   "tag": "Step by step",
+   "h": "Reproductive barriers",
+   "b": "<ul><li><b>Before mating:</b> different habitat, timing, courtship or body shape.</li><li><b>After mating:</b> hybrids are weak or sterile. The mule (horse x donkey) is sterile.</li></ul><p>Sympatric speciation, with no barrier, happens in plants through chromosome doubling (polyploidy), and in some fish by habitat choice.</p>"
+  },
+  {
+   "tag": "Step by step",
+   "h": "Adaptive radiation",
+   "b": "<p>When a lineage enters many open habitats it splits quickly into many forms. Darwin's finches in the Galapagos and the cichlid fishes of African lakes are classic cases. After the dinosaur extinction about 66 million years ago, mammals radiated.</p>"
+  },
+  {
+   "tag": "Step by step",
+   "h": "The tree of life",
+   "b": "<p>Carolus Linnaeus (1735) gave binomial names such as Homo sapiens. Today, we use <b>phylogenetic trees</b> that show descent, built from DNA. Carl Woese (1977) found three domains: Bacteria, Archaea and Eukarya. Classic ranks: kingdom, phylum, class, order, family, genus, species.</p><svg class=\"d\" viewBox=\"0 0 320 172\"><defs><marker id=\"tr1\" viewBox=\"0 0 10 10\" refX=\"8\" refY=\"5\" markerWidth=\"6\" markerHeight=\"6\" orient=\"auto\"><path d=\"M0 0L10 5L0 10z\" fill=\"#5d6474\"/></marker></defs><rect x=\"20\" y=\"6\" width=\"280\" height=\"28\" rx=\"6\" fill=\"#f1e4c6\" stroke=\"#a8792a\"/><text x=\"160\" y=\"24\" text-anchor=\"middle\" font-size=\"11\" fill=\"#1d2433\">Common ancestor</text><line x1=\"160\" y1=\"34\" x2=\"160\" y2=\"50\" stroke=\"#5d6474\" stroke-width=\"1.5\" marker-end=\"url(#tr1)\"/><rect x=\"20\" y=\"50\" width=\"280\" height=\"28\" rx=\"6\" fill=\"#dceaec\" stroke=\"#2f6f7a\"/><text x=\"160\" y=\"68\" text-anchor=\"middle\" font-size=\"11\" fill=\"#1d2433\">Bacteria | Archaea | Eukarya</text><line x1=\"160\" y1=\"78\" x2=\"160\" y2=\"94\" stroke=\"#5d6474\" stroke-width=\"1.5\" marker-end=\"url(#tr1)\"/><rect x=\"20\" y=\"94\" width=\"280\" height=\"28\" rx=\"6\" fill=\"#dceaec\" stroke=\"#2f6f7a\"/><text x=\"160\" y=\"112\" text-anchor=\"middle\" font-size=\"11\" fill=\"#1d2433\">Eukarya: protists, plants, fungi, animals</text><line x1=\"160\" y1=\"122\" x2=\"160\" y2=\"138\" stroke=\"#5d6474\" stroke-width=\"1.5\" marker-end=\"url(#tr1)\"/><rect x=\"20\" y=\"138\" width=\"280\" height=\"28\" rx=\"6\" fill=\"#f4dcd5\" stroke=\"#a3362a\"/><text x=\"160\" y=\"156\" text-anchor=\"middle\" font-size=\"11\" fill=\"#1d2433\">Animals: vertebrates include humans</text></svg>"
+  },
+  {
+   "tag": "Step by step",
+   "h": "Extinction",
+   "b": "<p>More than 99 percent of species that ever lived are extinct. Five mass extinctions are known; the end-Permian (about 252 million years ago) killed up to 90 percent of marine species. Many scientists say we are in a sixth, driven by humans.</p>"
+  },
+  {
+   "tag": "How we know",
+   "h": "Evidence for splits",
+   "b": "<p>Hawaiian fruit flies and island lizards show species forming. Ring species such as the Ensatina salamanders in California show neighbours can breed while the ends cannot. DNA clocks estimate when lineages split.</p>"
+  },
+  {
+   "tag": "Misconceptions",
+   "h": "Watch out",
+   "b": "<div class=\"box\"><h4>Fix these</h4><ul><li>A tree of life is not a ladder; humans are not the 'top'.</li><li>Species do not 'try' to split.</li><li>Modern animals are not ancestors of each other; they are cousins.</li></ul></div>"
+  },
+  {
+   "tag": "Indian angle",
+   "h": "India's species wealth",
+   "b": "<p>India holds about 8 percent of the world's recorded species on 2.4 percent of land. It has four biodiversity hotspots: the Himalaya, Indo-Burma, Western Ghats and Sri Lanka, and Sundaland (Nicobar). Island species, such as those on the Andaman and Nicobar islands, show allopatric speciation. The Zoological Survey of India (1916) and Botanical Survey of India (1890) document them.</p>"
+  },
+  {
+   "tag": "Recap",
+   "h": "Key takeaways and questions",
+   "b": "<ul><li>Species: reproductively isolated groups.</li><li>Isolation plus divergence leads to speciation.</li><li>Three domains: Bacteria, Archaea, Eukarya.</li><li>Extinction is normal but is now accelerating.</li></ul><p><b>Think about it:</b></p><ol><li>Why do islands have so many unique species?</li><li>Why is a mule sterile although it is healthy?</li></ol>",
+   "cls": "exam"
+  }
+ ],
+ "quiz": [
+  {
+   "q": "Biological species concept was proposed by:",
+   "o": [
+    "Linnaeus",
+    "Mayr",
+    "Woese",
+    "Darwin"
+   ],
+   "a": 1,
+   "w": "Ernst Mayr."
+  },
+  {
+   "q": "Allopatric speciation needs:",
+   "o": [
+    "No barrier",
+    "Geographic barrier",
+    "Polyploidy",
+    "Chemicals"
+   ],
+   "a": 1,
+   "w": "Physical separation."
+  },
+  {
+   "q": "Three-domain system was by:",
+   "o": [
+    "Woese",
+    "Linnaeus",
+    "Haeckel",
+    "Mayr"
+   ],
+   "a": 0,
+   "w": "1977."
+  },
+  {
+   "q": "Mule sterility is a:",
+   "o": [
+    "Pre-mating barrier",
+    "Post-mating barrier",
+    "Habitat barrier",
+    "Time barrier"
+   ],
+   "a": 1,
+   "w": "Hybrid sterility."
+  },
+  {
+   "q": "Adaptive radiation example:",
+   "o": [
+    "Peppered moth",
+    "Darwin's finches",
+    "Mule",
+    "Pea"
+   ],
+   "a": 1,
+   "w": "Galapagos."
+  },
+  {
+   "q": "Binomial nomenclature was by:",
+   "o": [
+    "Linnaeus",
+    "Mayr",
+    "Wallace",
+    "Mendel"
+   ],
+   "a": 0,
+   "w": "1735 onwards."
+  },
+  {
+   "q": "Sympatric speciation in plants often via:",
+   "o": [
+    "Polyploidy",
+    "Mountains",
+    "Rivers",
+    "Fire"
+   ],
+   "a": 0,
+   "w": "Chromosome doubling."
+  },
+  {
+   "q": "Largest mass extinction:",
+   "o": [
+    "K-Pg",
+    "End-Permian",
+    "Triassic",
+    "Ordovician"
+   ],
+   "a": 1,
+   "w": "About 252 mya."
+  },
+  {
+   "q": "Which is not a domain?",
+   "o": [
+    "Archaea",
+    "Bacteria",
+    "Eukarya",
+    "Fungi"
+   ],
+   "a": 3,
+   "w": "Fungi is a kingdom."
+  },
+  {
+   "q": "India's biodiversity hotspots include:",
+   "o": [
+    "Western Ghats",
+    "Amazon",
+    "Sahara",
+    "Congo"
+   ],
+   "a": 0,
+   "w": "Western Ghats and Sri Lanka."
+  }
+ ],
+ "sources": [
+  "Campbell Biology",
+  "NCERT Class 12 Biology"
+ ],
+ "verified": "2026-11-11"
+}

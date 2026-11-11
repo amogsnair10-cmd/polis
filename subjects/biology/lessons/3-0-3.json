@@ -1,0 +1,180 @@
+{
+ "id": "3-0-3",
+ "title": "The Nervous System and the Brain",
+ "emoji": "🧠",
+ "cards": [
+  {
+   "tag": "Why this matters",
+   "h": "Your body's wiring",
+   "b": "<p>Reading this sentence uses about 86 billion neurons. The nervous system senses the world, decides and acts in milliseconds. Epilepsy, Parkinson's, depression and stroke are all problems of this network.</p>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "The neuron",
+   "b": "<p>A neuron has <b>dendrites</b> (receive signals), a <b>cell body</b> and an <b>axon</b> (sends signals). Many axons are wrapped in myelin, a fatty sheath that speeds signals up to about 100 m/s. Santiago Ramon y Cajal (1890s) showed the brain is made of separate cells, not a continuous net.</p>"
+  },
+  {
+   "tag": "Step by step",
+   "h": "The nerve impulse",
+   "b": "<ol><li><b>Resting:</b> the inside is negative, about -70 mV, kept by the Na+/K+ pump.</li><li><b>Stimulus:</b> sodium channels open, Na+ rushes in, inside turns positive (depolarisation).</li><li><b>Recovery:</b> potassium channels open, K+ leaves, resting state returns.</li><li>The wave moves down the axon. It is all-or-none.</li></ol><p>Hodgkin and Huxley described this in the squid giant axon (1952, Nobel 1963).</p><svg class=\"d\" viewBox=\"0 0 320 172\"><defs><marker id=\"nv1\" viewBox=\"0 0 10 10\" refX=\"8\" refY=\"5\" markerWidth=\"6\" markerHeight=\"6\" orient=\"auto\"><path d=\"M0 0L10 5L0 10z\" fill=\"#5d6474\"/></marker></defs><rect x=\"20\" y=\"6\" width=\"280\" height=\"28\" rx=\"6\" fill=\"#dceaec\" stroke=\"#2f6f7a\"/><text x=\"160\" y=\"24\" text-anchor=\"middle\" font-size=\"11\" fill=\"#1d2433\">Resting: inside negative</text><line x1=\"160\" y1=\"34\" x2=\"160\" y2=\"50\" stroke=\"#5d6474\" stroke-width=\"1.5\" marker-end=\"url(#nv1)\"/><rect x=\"20\" y=\"50\" width=\"280\" height=\"28\" rx=\"6\" fill=\"#f4dcd5\" stroke=\"#a3362a\"/><text x=\"160\" y=\"68\" text-anchor=\"middle\" font-size=\"11\" fill=\"#1d2433\">Na+ enters: inside positive</text><line x1=\"160\" y1=\"78\" x2=\"160\" y2=\"94\" stroke=\"#5d6474\" stroke-width=\"1.5\" marker-end=\"url(#nv1)\"/><rect x=\"20\" y=\"94\" width=\"280\" height=\"28\" rx=\"6\" fill=\"#f1e4c6\" stroke=\"#a8792a\"/><text x=\"160\" y=\"112\" text-anchor=\"middle\" font-size=\"11\" fill=\"#1d2433\">K+ leaves: back to negative</text><line x1=\"160\" y1=\"122\" x2=\"160\" y2=\"138\" stroke=\"#5d6474\" stroke-width=\"1.5\" marker-end=\"url(#nv1)\"/><rect x=\"20\" y=\"138\" width=\"280\" height=\"28\" rx=\"6\" fill=\"#dceaec\" stroke=\"#2f6f7a\"/><text x=\"160\" y=\"156\" text-anchor=\"middle\" font-size=\"11\" fill=\"#1d2433\">Signal passes to next stretch</text></svg>"
+  },
+  {
+   "tag": "Step by step",
+   "h": "The synapse",
+   "b": "<p>Neurons do not touch. At a synapse, the signal triggers release of a chemical <b>neurotransmitter</b> (acetylcholine, dopamine, serotonin, GABA) that crosses a gap about 20 nm wide and excites or inhibits the next cell. Otto Loewi's frog heart experiment (1921) showed chemical transmission.</p>"
+  },
+  {
+   "tag": "Step by step",
+   "h": "Organisation",
+   "b": "<p><b>Central nervous system:</b> brain and spinal cord. <b>Peripheral:</b> nerves to the body, split into somatic (voluntary) and autonomic (involuntary; sympathetic 'fight or flight' and parasympathetic 'rest and digest').</p>"
+  },
+  {
+   "tag": "Step by step",
+   "h": "The brain's parts",
+   "b": "<ul><li><b>Cerebrum:</b> thought, senses, voluntary action, memory.</li><li><b>Cerebellum:</b> balance and coordination.</li><li><b>Brainstem (medulla):</b> breathing, heart rate.</li><li><b>Hypothalamus:</b> body temperature, hunger, hormones.</li></ul>"
+  },
+  {
+   "tag": "Step by step",
+   "h": "Reflex arc",
+   "b": "<p>A reflex is a fast automatic response: touch a hot pan and the signal goes sensory neuron, spinal cord, motor neuron, muscle. The brain only hears about it later.</p>"
+  },
+  {
+   "tag": "How we know",
+   "h": "Brain mapping",
+   "b": "<p>Paul Broca (1861) linked speech to the left frontal area after studying a patient called Tan. Phineas Gage's 1848 injury hinted at the frontal lobe's role in personality. Wilder Penfield mapped the cortex in the 1930s-50s. Today fMRI shows active regions. Patient H.M. (1953) revealed the hippocampus's role in forming memories.</p>"
+  },
+  {
+   "tag": "Misconceptions",
+   "h": "Watch out",
+   "b": "<div class=\"box\"><h4>Fix these</h4><ul><li>We use all of the brain, not 10 percent.</li><li>Neurons can be formed in some brain areas in adults (neurogenesis in the hippocampus), though limited.</li><li>Left-brain and right-brain personality types are mostly a myth.</li></ul></div>"
+  },
+  {
+   "tag": "Indian angle",
+   "h": "India's brain health work",
+   "b": "<p>NIMHANS in Bengaluru is a premier institute for mental health and neurosciences. The National Mental Health Programme began in 1982 and the Mental Healthcare Act came in 2017. J.C. Bose's plant studies on electrical signals were a pioneering idea in his time. Indian neuroscientists such as Vilayanur Ramachandran (born in Tamil Nadu) became known worldwide for work on phantom limbs.</p>"
+  },
+  {
+   "tag": "Recap",
+   "h": "Key takeaways and questions",
+   "b": "<ul><li>Neuron: dendrite, body, axon.</li><li>Impulse: Na+ in, K+ out, all-or-none.</li><li>Synapse: chemical messengers.</li><li>Cerebrum thinks, cerebellum balances, medulla keeps vital functions.</li></ul><p><b>Think about it:</b></p><ol><li>Why does myelin make signals faster?</li><li>How could a drug that blocks neurotransmitter breakdown change mood?</li></ol>",
+   "cls": "exam"
+  }
+ ],
+ "quiz": [
+  {
+   "q": "The axon:",
+   "o": [
+    "Receives signals",
+    "Sends signals away",
+    "Makes ATP",
+    "Stores memory"
+   ],
+   "a": 1,
+   "w": "Output wire."
+  },
+  {
+   "q": "Resting potential is about:",
+   "o": [
+    "+70 mV",
+    "-70 mV",
+    "0 mV",
+    "-700 mV"
+   ],
+   "a": 1,
+   "w": "Inside negative."
+  },
+  {
+   "q": "The first phase of an impulse involves influx of:",
+   "o": [
+    "K+",
+    "Na+",
+    "Cl-",
+    "Ca2+ only"
+   ],
+   "a": 1,
+   "w": "Sodium."
+  },
+  {
+   "q": "Loewi showed:",
+   "o": [
+    "Electrical synapses",
+    "Chemical transmission",
+    "Myelin",
+    "Reflex"
+   ],
+   "a": 1,
+   "w": "1921."
+  },
+  {
+   "q": "Balance and coordination: the:",
+   "o": [
+    "Cerebellum",
+    "Medulla",
+    "Cerebrum",
+    "Thalamus"
+   ],
+   "a": 0,
+   "w": "Cerebellum."
+  },
+  {
+   "q": "Breathing is controlled by:",
+   "o": [
+    "Medulla",
+    "Cerebrum",
+    "Cerebellum",
+    "Spinal nerve"
+   ],
+   "a": 0,
+   "w": "Brainstem."
+  },
+  {
+   "q": "Hodgkin and Huxley studied:",
+   "o": [
+    "Frog",
+    "Squid axon",
+    "Rat",
+    "Human"
+   ],
+   "a": 1,
+   "w": "Giant axon."
+  },
+  {
+   "q": "Myelin does what?",
+   "o": [
+    "Slows signals",
+    "Speeds signals",
+    "Makes transmitters",
+    "Stores ions"
+   ],
+   "a": 1,
+   "w": "Insulates axon."
+  },
+  {
+   "q": "Parasympathetic system promotes:",
+   "o": [
+    "Fight or flight",
+    "Rest and digest",
+    "Reflex",
+    "Sensation"
+   ],
+   "a": 1,
+   "w": "Calming."
+  },
+  {
+   "q": "Broca's area relates to:",
+   "o": [
+    "Vision",
+    "Speech",
+    "Hearing",
+    "Balance"
+   ],
+   "a": 1,
+   "w": "Speech production."
+  }
+ ],
+ "sources": [
+  "NCERT Class 11 Biology",
+  "Campbell Biology"
+ ],
+ "verified": "2026-11-11"
+}

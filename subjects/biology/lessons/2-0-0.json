@@ -1,0 +1,175 @@
+{
+ "id": "2-0-0",
+ "title": "Darwin and Natural Selection",
+ "emoji": "🐢",
+ "cards": [
+  {
+   "tag": "Why this matters",
+   "h": "The idea that explains biology",
+   "b": "<p>Biologist Theodosius Dobzhansky said nothing in biology makes sense except in the light of evolution. Why antibiotics stop working, why we have an appendix and why a crow looks like a crow all follow from one simple idea.</p>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "Descent with modification",
+   "b": "<p>Evolution is change in the inherited traits of populations over generations. Charles Darwin spent five years (1831-36) on HMS Beagle. Alfred Russel Wallace reached the same idea independently; both presented it in 1858. Darwin's book On the Origin of Species came out in 1859.</p>"
+  },
+  {
+   "tag": "Step by step",
+   "h": "Natural selection in four steps",
+   "b": "<ol><li><b>Variation:</b> individuals differ.</li><li><b>Inheritance:</b> traits pass to offspring.</li><li><b>Overproduction:</b> more are born than survive.</li><li><b>Differential success:</b> those with helpful traits leave more offspring.</li></ol><svg class=\"d\" viewBox=\"0 0 320 172\"><defs><marker id=\"s1\" viewBox=\"0 0 10 10\" refX=\"8\" refY=\"5\" markerWidth=\"6\" markerHeight=\"6\" orient=\"auto\"><path d=\"M0 0L10 5L0 10z\" fill=\"#5d6474\"/></marker></defs><rect x=\"20\" y=\"6\" width=\"280\" height=\"28\" rx=\"6\" fill=\"#f1e4c6\" stroke=\"#a8792a\"/><text x=\"160\" y=\"24\" text-anchor=\"middle\" font-size=\"11\" fill=\"#1d2433\">Variation in a population</text><line x1=\"160\" y1=\"34\" x2=\"160\" y2=\"50\" stroke=\"#5d6474\" stroke-width=\"1.5\" marker-end=\"url(#s1)\"/><rect x=\"20\" y=\"50\" width=\"280\" height=\"28\" rx=\"6\" fill=\"#dceaec\" stroke=\"#2f6f7a\"/><text x=\"160\" y=\"68\" text-anchor=\"middle\" font-size=\"11\" fill=\"#1d2433\">More offspring than resources</text><line x1=\"160\" y1=\"78\" x2=\"160\" y2=\"94\" stroke=\"#5d6474\" stroke-width=\"1.5\" marker-end=\"url(#s1)\"/><rect x=\"20\" y=\"94\" width=\"280\" height=\"28\" rx=\"6\" fill=\"#f1e4c6\" stroke=\"#a8792a\"/><text x=\"160\" y=\"112\" text-anchor=\"middle\" font-size=\"11\" fill=\"#1d2433\">Fitter ones survive and breed more</text><line x1=\"160\" y1=\"122\" x2=\"160\" y2=\"138\" stroke=\"#5d6474\" stroke-width=\"1.5\" marker-end=\"url(#s1)\"/><rect x=\"20\" y=\"138\" width=\"280\" height=\"28\" rx=\"6\" fill=\"#dceaec\" stroke=\"#2f6f7a\"/><text x=\"160\" y=\"156\" text-anchor=\"middle\" font-size=\"11\" fill=\"#1d2433\">Helpful trait spreads over generations</text></svg>"
+  },
+  {
+   "tag": "Step by step",
+   "h": "A worked example",
+   "b": "<p>The peppered moth in industrial England: before 1850 most were pale and hid on lichen. Soot darkened trees, and dark moths survived better. By 1895 dark ones dominated in Manchester. After clean air laws, pale ones returned. Bernard Kettlewell's 1950s experiments tested this.</p>"
+  },
+  {
+   "tag": "Step by step",
+   "h": "Fitness and adaptation",
+   "b": "<p>'Fitness' means reproductive success, not strength. An adaptation is a trait shaped by selection. Selection acts on individuals, but populations evolve.</p>"
+  },
+  {
+   "tag": "Step by step",
+   "h": "Other forces",
+   "b": "<p>Besides selection: <b>mutation</b> (new variants), <b>genetic drift</b> (chance changes, strong in small groups), <b>gene flow</b> (migration) and <b>sexual selection</b> (mate choice, like peacock tails). Hardy-Weinberg (1908) is the baseline for no change.</p>"
+  },
+  {
+   "tag": "How we know",
+   "h": "Before Darwin",
+   "b": "<p>Lamarck (1809) proposed that traits acquired in life are inherited, such as a giraffe stretching its neck. This is wrong. Malthus (1798) on population pressure inspired Darwin. Mendel's genetics, joined with Darwin in the 1930s-40s, formed the modern synthesis. Darwin's finches in the Galapagos show beak shape tracking food: Peter and Rosemary Grant measured it over decades.</p>"
+  },
+  {
+   "tag": "Misconceptions",
+   "h": "Watch out",
+   "b": "<div class=\"box\"><h4>Fix these</h4><ul><li>Evolution is not 'survival of the strongest'; it is survival and reproduction of the fit for a place.</li><li>Individuals do not evolve; populations do.</li><li>Evolution has no goal or progress ladder.</li><li>'Theory' in science means a well-tested explanation.</li></ul></div>"
+  },
+  {
+   "tag": "Indian angle",
+   "h": "Evolution in India",
+   "b": "<p>Antibiotic resistance in Indian hospitals, including NDM-1 (named for New Delhi), is selection in action. Biodiversity hotspots like the Western Ghats hold many unique species formed by long isolation. J.B.S. Haldane, who moved to India in 1957, helped found modern population genetics and worked at the Indian Statistical Institute.</p>"
+  },
+  {
+   "tag": "Recap",
+   "h": "Key takeaways and questions",
+   "b": "<ul><li>Variation + inheritance + overproduction + differential success.</li><li>Darwin and Wallace, 1858; Origin, 1859.</li><li>Drift, mutation, gene flow also drive change.</li></ul><p><b>Think about it:</b></p><ol><li>How would Lamarck and Darwin each explain the giraffe's neck?</li><li>Why does overusing antibiotics speed up resistance?</li></ol>",
+   "cls": "exam"
+  }
+ ],
+ "quiz": [
+  {
+   "q": "Darwin's book appeared in:",
+   "o": [
+    "1809",
+    "1831",
+    "1859",
+    "1900"
+   ],
+   "a": 2,
+   "w": "1859."
+  },
+  {
+   "q": "Who co-discovered natural selection?",
+   "o": [
+    "Lamarck",
+    "Wallace",
+    "Malthus",
+    "Haldane"
+   ],
+   "a": 1,
+   "w": "Alfred Russel Wallace."
+  },
+  {
+   "q": "Fitness means:",
+   "o": [
+    "Strength",
+    "Reproductive success",
+    "Size",
+    "Speed"
+   ],
+   "a": 1,
+   "w": "Offspring left."
+  },
+  {
+   "q": "The peppered moth shows:",
+   "o": [
+    "Genetic drift",
+    "Natural selection",
+    "Mutation only",
+    "Cloning"
+   ],
+   "a": 1,
+   "w": "Industrial melanism."
+  },
+  {
+   "q": "Lamarck proposed:",
+   "o": [
+    "Natural selection",
+    "Inheritance of acquired traits",
+    "Genetic drift",
+    "Speciation"
+   ],
+   "a": 1,
+   "w": "Incorrect idea."
+  },
+  {
+   "q": "Genetic drift is strongest in:",
+   "o": [
+    "Large populations",
+    "Small populations",
+    "Bacteria only",
+    "Plants only"
+   ],
+   "a": 1,
+   "w": "Chance matters more."
+  },
+  {
+   "q": "Darwin sailed on:",
+   "o": [
+    "Endeavour",
+    "Beagle",
+    "Challenger",
+    "Mayflower"
+   ],
+   "a": 1,
+   "w": "HMS Beagle."
+  },
+  {
+   "q": "Who studied finches' beaks over decades?",
+   "o": [
+    "Grants",
+    "Kettlewell",
+    "Hardy",
+    "Wallace"
+   ],
+   "a": 0,
+   "w": "Peter and Rosemary Grant."
+  },
+  {
+   "q": "Evolution acts on:",
+   "o": [
+    "Individuals evolving",
+    "Populations over time",
+    "Species wishes",
+    "Single genes only"
+   ],
+   "a": 1,
+   "w": "Populations."
+  },
+  {
+   "q": "NDM-1 illustrates:",
+   "o": [
+    "Drift",
+    "Evolution of resistance",
+    "Speciation of humans",
+    "Cloning"
+   ],
+   "a": 1,
+   "w": "Selection by antibiotics."
+  }
+ ],
+ "sources": [
+  "Campbell Biology",
+  "NCERT Class 12 Biology"
+ ],
+ "verified": "2026-11-11"
+}
