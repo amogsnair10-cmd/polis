@@ -65,20 +65,20 @@
    "q": "Which feature defines a eukaryote?",
    "o": [
     "Cell wall",
-    "Membrane-bound nucleus",
+    "DNA",
     "Ribosomes",
-    "DNA"
+    "Membrane-bound nucleus"
    ],
-   "a": 1,
+   "a": 3,
    "w": "True nucleus."
   },
   {
    "q": "Who proposed the endosymbiotic theory in 1967?",
    "o": [
-    "Brown",
+    "Palade",
     "Golgi",
     "Margulis",
-    "Palade"
+    "Brown"
    ],
    "a": 2,
    "w": "Lynn Margulis."
@@ -86,76 +86,76 @@
   {
    "q": "Where is most ATP made?",
    "o": [
-    "Golgi",
-    "Lysosome",
     "Mitochondria",
-    "Nucleolus"
+    "Lysosome",
+    "Nucleolus",
+    "Golgi"
    ],
-   "a": 2,
+   "a": 0,
    "w": "Mitochondria."
   },
   {
    "q": "Which organelle sorts and packs proteins?",
    "o": [
-    "Golgi apparatus",
     "Vacuole",
     "Nucleus",
-    "Ribosome"
+    "Ribosome",
+    "Golgi apparatus"
    ],
-   "a": 0,
+   "a": 3,
    "w": "Golgi."
   },
   {
    "q": "Prokaryotic ribosomes are:",
    "o": [
-    "80S",
     "70S",
+    "60S",
     "90S",
-    "60S"
+    "80S"
    ],
-   "a": 1,
+   "a": 0,
    "w": "70S vs 80S."
   },
   {
    "q": "Lysosomes mainly:",
    "o": [
-    "Make ATP",
+    "Make lipids",
     "Store DNA",
-    "Digest waste and old parts",
-    "Make lipids"
+    "Make ATP",
+    "Digest waste and old parts"
    ],
-   "a": 2,
+   "a": 3,
    "w": "Digestive enzymes."
   },
   {
    "q": "Which is found only in plant cells (not animal)?",
    "o": [
-    "Mitochondria",
     "Cell wall",
     "Ribosome",
-    "Nucleus"
+    "Nucleus",
+    "Mitochondria"
    ],
-   "a": 1,
+   "a": 0,
    "w": "Plants have a cellulose wall."
   },
   {
    "q": "The electron microscope was built by:",
    "o": [
-    "Hooke",
     "Ruska",
     "Leeuwenhoek",
-    "Virchow"
+    "Virchow",
+    "Hooke"
    ],
-   "a": 1,
+   "a": 0,
    "w": "Ernst Ruska, 1931."
   },
   {
    "q": "Rough ER looks rough because of:",
    "o": [
-    "Lipids",
+    "Mitochondria",
     "Ribosomes",
-    "Vesicles",
-    "Mitochondria"
+    "Lipids",
+    "Vesicles"
    ],
    "a": 1,
    "w": "Attached ribosomes."

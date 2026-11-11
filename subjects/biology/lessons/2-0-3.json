@@ -59,32 +59,32 @@
   {
    "q": "Lucy belongs to:",
    "o": [
-    "Homo erectus",
     "Australopithecus afarensis",
+    "Homo sapiens",
     "Neanderthal",
-    "Homo sapiens"
+    "Homo erectus"
    ],
-   "a": 1,
+   "a": 0,
    "w": "Found 1974 in Ethiopia."
   },
   {
    "q": "Humans and chimps share an ancestor about:",
    "o": [
     "60 mya",
-    "6-7 mya",
     "600,000 yrs",
-    "60,000 yrs"
+    "60,000 yrs",
+    "6-7 mya"
    ],
-   "a": 1,
+   "a": 3,
    "w": "6-7 million years."
   },
   {
    "q": "Which species first used fire widely?",
    "o": [
     "Homo erectus",
-    "Australopithecus",
     "Homo habilis",
-    "Sahelanthropus"
+    "Sahelanthropus",
+    "Australopithecus"
    ],
    "a": 0,
    "w": "Erectus."
@@ -103,23 +103,23 @@
   {
    "q": "Paabo won the 2022 Nobel for:",
    "o": [
-    "Fossil dating",
     "Ancient DNA",
-    "Tool design",
-    "Brain imaging"
+    "Brain imaging",
+    "Fossil dating",
+    "Tool design"
    ],
-   "a": 1,
+   "a": 0,
    "w": "Paleogenomics."
   },
   {
    "q": "Bipedalism came:",
    "o": [
+    "With fire",
     "After big brains",
     "Before big brains",
-    "With fire",
     "With farming"
    ],
-   "a": 1,
+   "a": 2,
    "w": "Walking came first."
   },
   {
@@ -127,8 +127,8 @@
    "o": [
     "Non-Africans",
     "Only Africans",
-    "Nobody",
-    "Chimps"
+    "Chimps",
+    "Nobody"
    ],
    "a": 0,
    "w": "1-2 percent."
@@ -136,34 +136,34 @@
   {
    "q": "Attirampakkam is in:",
    "o": [
-    "Gujarat",
     "Tamil Nadu",
-    "Assam",
-    "Punjab"
+    "Punjab",
+    "Gujarat",
+    "Assam"
    ],
-   "a": 1,
+   "a": 0,
    "w": "Stone tools."
   },
   {
    "q": "Taung child discovered by:",
    "o": [
-    "Dart",
+    "Paabo",
     "Leakey",
-    "Johanson",
-    "Paabo"
+    "Dart",
+    "Johanson"
    ],
-   "a": 0,
+   "a": 2,
    "w": "1924."
   },
   {
    "q": "Homo floresiensis found in:",
    "o": [
-    "Indonesia",
-    "India",
     "Kenya",
-    "Spain"
+    "Indonesia",
+    "Spain",
+    "India"
    ],
-   "a": 0,
+   "a": 1,
    "w": "2003, Flores."
   }
  ],

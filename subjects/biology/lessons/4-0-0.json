@@ -59,56 +59,56 @@
   {
    "q": "Penicillin was noticed by:",
    "o": [
-    "Fleming",
-    "Koch",
     "Pasteur",
-    "Jenner"
+    "Koch",
+    "Jenner",
+    "Fleming"
    ],
-   "a": 0,
+   "a": 3,
    "w": "1928."
   },
   {
    "q": "Viruses are:",
    "o": [
+    "Plants",
     "Cells",
-    "Not cells",
     "Fungi",
-    "Plants"
+    "Not cells"
    ],
-   "a": 1,
+   "a": 3,
    "w": "Need hosts."
   },
   {
    "q": "Fungal cell walls are made of:",
    "o": [
-    "Cellulose",
     "Chitin",
     "Peptidoglycan",
+    "Cellulose",
     "Silica"
    ],
-   "a": 1,
+   "a": 0,
    "w": "Chitin."
   },
   {
    "q": "Koch discovered the TB bacillus in:",
    "o": [
-    "1822",
-    "1882",
     "1928",
-    "1975"
+    "1822",
+    "1975",
+    "1882"
    ],
-   "a": 1,
+   "a": 3,
    "w": "1882."
   },
   {
    "q": "Rhizobium helps by:",
    "o": [
-    "Fixing nitrogen",
     "Making curd",
     "Fermenting",
+    "Fixing nitrogen",
     "Causing rot"
    ],
-   "a": 0,
+   "a": 2,
    "w": "Legume roots."
   },
   {
@@ -125,45 +125,45 @@
   {
    "q": "Bacteria multiply by:",
    "o": [
+    "Spores only",
     "Mitosis",
     "Binary fission",
-    "Meiosis",
-    "Spores only"
+    "Meiosis"
    ],
-   "a": 1,
+   "a": 2,
    "w": "Splitting."
   },
   {
    "q": "Haffkine developed vaccines in:",
    "o": [
-    "Mumbai",
-    "Delhi",
     "Chennai",
-    "Kolkata"
+    "Mumbai",
+    "Kolkata",
+    "Delhi"
    ],
-   "a": 0,
+   "a": 1,
    "w": "1897."
   },
   {
    "q": "Who showed that TMV is smaller than bacteria?",
    "o": [
+    "Gram",
     "Ivanovsky",
     "Fleming",
-    "Gram",
     "Lister"
    ],
-   "a": 0,
+   "a": 1,
    "w": "1892."
   },
   {
    "q": "Bacteriophage attacks:",
    "o": [
-    "Plants",
     "Bacteria",
+    "Plants",
     "Fungi",
     "Animals"
    ],
-   "a": 1,
+   "a": 0,
    "w": "Bacteria."
   }
  ],

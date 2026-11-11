@@ -59,56 +59,56 @@
   {
    "q": "Transcription makes:",
    "o": [
-    "Protein",
-    "mRNA",
     "DNA",
-    "Lipid"
+    "Protein",
+    "Lipid",
+    "mRNA"
    ],
-   "a": 1,
+   "a": 3,
    "w": "mRNA."
   },
   {
    "q": "Start codon is:",
    "o": [
     "UAA",
-    "AUG",
     "UUU",
-    "GGG"
+    "GGG",
+    "AUG"
    ],
-   "a": 1,
+   "a": 3,
    "w": "AUG."
   },
   {
    "q": "Which brings amino acids to the ribosome?",
    "o": [
-    "mRNA",
     "tRNA",
+    "mRNA",
     "rRNA",
     "DNA"
    ],
-   "a": 1,
+   "a": 0,
    "w": "tRNA."
   },
   {
    "q": "Introns are:",
    "o": [
-    "Kept in mRNA",
     "Removed by splicing",
+    "Kept in mRNA",
     "Stop codons",
     "Promoters"
    ],
-   "a": 1,
+   "a": 0,
    "w": "Non-coding parts."
   },
   {
    "q": "Codon length:",
    "o": [
-    "2 bases",
     "3 bases",
-    "4 bases",
-    "20 bases"
+    "20 bases",
+    "2 bases",
+    "4 bases"
    ],
-   "a": 1,
+   "a": 0,
    "w": "Triplet."
   },
   {
@@ -125,12 +125,12 @@
   {
    "q": "Central dogma was named by:",
    "o": [
-    "Crick",
     "Mendel",
-    "Watson",
-    "Calvin"
+    "Crick",
+    "Calvin",
+    "Watson"
    ],
-   "a": 0,
+   "a": 1,
    "w": "1958."
   },
   {
@@ -147,23 +147,23 @@
   {
    "q": "UUU codes for:",
    "o": [
-    "Methionine",
     "Phenylalanine",
+    "Methionine",
     "Stop",
     "Valine"
    ],
-   "a": 1,
+   "a": 0,
    "w": "First codon cracked."
   },
   {
    "q": "Sickle cell arises from:",
    "o": [
-    "Extra chromosome",
     "One base change",
     "Deletion of gene",
-    "Virus"
+    "Virus",
+    "Extra chromosome"
    ],
-   "a": 1,
+   "a": 0,
    "w": "Single base substitution."
   }
  ],

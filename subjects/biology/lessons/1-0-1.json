@@ -59,23 +59,23 @@
   {
    "q": "The DNA double helix model was proposed in:",
    "o": [
+    "1968",
     "1944",
     "1953",
-    "1968",
     "1970"
    ],
-   "a": 1,
+   "a": 2,
    "w": "Watson and Crick."
   },
   {
    "q": "In DNA, adenine pairs with:",
    "o": [
-    "Guanine",
-    "Cytosine",
     "Thymine",
+    "Cytosine",
+    "Guanine",
     "Uracil"
    ],
-   "a": 2,
+   "a": 0,
    "w": "A-T."
   },
   {
@@ -83,8 +83,8 @@
    "o": [
     "Ligase",
     "Helicase",
-    "Polymerase",
-    "Primase"
+    "Primase",
+    "Polymerase"
    ],
    "a": 1,
    "w": "Helicase."
@@ -92,23 +92,23 @@
   {
    "q": "Semi-conservative replication was proved by:",
    "o": [
-    "Meselson and Stahl",
-    "Griffith",
     "Chargaff",
-    "Franklin"
+    "Franklin",
+    "Meselson and Stahl",
+    "Griffith"
    ],
-   "a": 0,
+   "a": 2,
    "w": "1958."
   },
   {
    "q": "Hershey and Chase used:",
    "o": [
+    "Flies",
     "Peas",
     "Viruses",
-    "Yeast",
-    "Flies"
+    "Yeast"
    ],
-   "a": 1,
+   "a": 2,
    "w": "Bacteriophage."
   },
   {
@@ -125,21 +125,21 @@
   {
    "q": "G-C pairs have how many hydrogen bonds?",
    "o": [
-    "1",
+    "4",
     "2",
-    "3",
-    "4"
+    "1",
+    "3"
    ],
-   "a": 2,
+   "a": 3,
    "w": "Three."
   },
   {
    "q": "Photo 51 was taken by:",
    "o": [
-    "Wilkins",
-    "Franklin",
     "Crick",
-    "Chargaff"
+    "Franklin",
+    "Chargaff",
+    "Wilkins"
    ],
    "a": 1,
    "w": "Rosalind Franklin."
@@ -148,22 +148,22 @@
    "q": "Khorana received the Nobel for:",
    "o": [
     "DNA fingerprinting",
-    "Genetic code",
     "CRISPR",
+    "Genetic code",
     "Insulin"
    ],
-   "a": 1,
+   "a": 2,
    "w": "1968."
   },
   {
    "q": "Ligase does what?",
    "o": [
-    "Unzips",
     "Joins DNA fragments",
-    "Adds primer",
-    "Makes RNA"
+    "Unzips",
+    "Makes RNA",
+    "Adds primer"
    ],
-   "a": 1,
+   "a": 0,
    "w": "Seals gaps."
   }
  ],

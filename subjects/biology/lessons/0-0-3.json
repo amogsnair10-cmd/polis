@@ -59,32 +59,32 @@
   {
    "q": "Enzymes speed reactions by:",
    "o": [
-    "Adding heat",
-    "Lowering activation energy",
     "Using up substrate",
-    "Changing products"
+    "Adding heat",
+    "Changing products",
+    "Lowering activation energy"
    ],
-   "a": 1,
+   "a": 3,
    "w": "Lower the energy barrier."
   },
   {
    "q": "The induced-fit idea came from:",
    "o": [
-    "Koshland",
     "Sumner",
-    "Buchner",
-    "Agre"
+    "Agre",
+    "Koshland",
+    "Buchner"
    ],
-   "a": 0,
+   "a": 2,
    "w": "Koshland, 1958."
   },
   {
    "q": "Who crystallised urease in 1926?",
    "o": [
-    "Buchner",
+    "Skou",
     "Sumner",
     "Menten",
-    "Skou"
+    "Buchner"
    ],
    "a": 1,
    "w": "James Sumner."
@@ -92,54 +92,54 @@
   {
    "q": "High heat usually makes an enzyme:",
    "o": [
-    "Faster forever",
-    "Denature",
     "Stronger",
-    "Inactive only when cold"
+    "Inactive only when cold",
+    "Faster forever",
+    "Denature"
    ],
-   "a": 1,
+   "a": 3,
    "w": "Shape lost."
   },
   {
    "q": "Pepsin works best at:",
    "o": [
-    "pH 2",
-    "pH 7",
+    "pH 12",
     "pH 8",
-    "pH 12"
+    "pH 2",
+    "pH 7"
    ],
-   "a": 0,
+   "a": 2,
    "w": "Stomach acid."
   },
   {
    "q": "Feedback inhibition means:",
    "o": [
-    "Product turns off early enzyme",
     "More substrate",
+    "Product turns off early enzyme",
     "No products",
     "Cofactor use"
    ],
-   "a": 0,
+   "a": 1,
    "w": "End product shuts the tap."
   },
   {
    "q": "NAD is made from which vitamin?",
    "o": [
-    "C",
     "Niacin (B3)",
     "A",
+    "C",
     "D"
    ],
-   "a": 1,
+   "a": 0,
    "w": "Niacin."
   },
   {
    "q": "Buchner's 1897 result showed:",
    "o": [
-    "Cells needed for fermentation",
-    "Cell-free extract can ferment",
     "Enzymes are lipids",
-    "Yeast is non-living"
+    "Cell-free extract can ferment",
+    "Yeast is non-living",
+    "Cells needed for fermentation"
    ],
    "a": 1,
    "w": "Enzymes work outside cells."
@@ -148,22 +148,22 @@
    "q": "ATP is best described as:",
    "o": [
     "Genetic code",
-    "Energy currency",
     "Enzyme",
+    "Energy currency",
     "Pigment"
    ],
-   "a": 1,
+   "a": 2,
    "w": "Energy currency."
   },
   {
    "q": "A competitive inhibitor:",
    "o": [
     "Bends enzyme far from active site",
+    "Digests enzyme",
     "Competes for the active site",
-    "Adds energy",
-    "Digests enzyme"
+    "Adds energy"
    ],
-   "a": 1,
+   "a": 2,
    "w": "Blocks the active site."
   }
  ],

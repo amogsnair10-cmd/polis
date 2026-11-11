@@ -60,74 +60,74 @@
    "q": "Malaria vector is:",
    "o": [
     "Aedes",
-    "Anopheles",
     "Culex",
-    "Housefly"
+    "Housefly",
+    "Anopheles"
    ],
-   "a": 1,
+   "a": 3,
    "w": "Female Anopheles."
   },
   {
    "q": "Who traced cholera to a pump in 1854?",
    "o": [
-    "John Snow",
     "Ross",
+    "John Snow",
     "Koch",
     "Jenner"
    ],
-   "a": 0,
+   "a": 1,
    "w": "Founder of epidemiology."
   },
   {
    "q": "Pandemic means:",
    "o": [
-    "Local outbreak",
     "Spread across the world",
     "Mild",
+    "Local outbreak",
     "Deadly only"
    ],
-   "a": 1,
+   "a": 0,
    "w": "Global spread."
   },
   {
    "q": "R0 below 1 means:",
    "o": [
     "Outbreak grows",
-    "Outbreak fades",
     "No cases",
+    "Outbreak fades",
     "Mutates"
    ],
-   "a": 1,
+   "a": 2,
    "w": "Declining."
   },
   {
    "q": "Smallpox was eradicated in:",
    "o": [
-    "1980",
     "2000",
+    "2011",
     "1950",
-    "2011"
+    "1980"
    ],
-   "a": 0,
+   "a": 3,
    "w": "WHO 1980."
   },
   {
    "q": "Zoonosis means disease from:",
    "o": [
-    "Water",
     "Animals to humans",
-    "Soil",
-    "Air only"
+    "Air only",
+    "Water",
+    "Soil"
    ],
-   "a": 1,
+   "a": 0,
    "w": "Animal origin."
   },
   {
    "q": "Ronald Ross showed mosquitoes carry malaria in:",
    "o": [
     "1897",
-    "1957",
     "1757",
+    "1957",
     "1997"
    ],
    "a": 0,
@@ -136,34 +136,34 @@
   {
    "q": "Which is non-communicable?",
    "o": [
-    "TB",
     "Diabetes",
-    "Cholera",
-    "Malaria"
+    "TB",
+    "Malaria",
+    "Cholera"
    ],
-   "a": 1,
+   "a": 0,
    "w": "Not spread."
   },
   {
    "q": "The One Health approach links:",
    "o": [
-    "Humans, animals, environment",
-    "Only humans",
     "Plants",
-    "Drugs"
+    "Only humans",
+    "Drugs",
+    "Humans, animals, environment"
    ],
-   "a": 0,
+   "a": 3,
    "w": "Integrated."
   },
   {
    "q": "mRNA vaccine pioneers won Nobel in:",
    "o": [
+    "2013",
     "2003",
-    "2023",
     "1993",
-    "2013"
+    "2023"
    ],
-   "a": 1,
+   "a": 3,
    "w": "Karikó and Weissman."
   }
  ],

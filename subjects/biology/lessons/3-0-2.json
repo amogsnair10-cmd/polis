@@ -59,12 +59,12 @@
   {
    "q": "Gas exchange occurs in the:",
    "o": [
-    "Trachea",
     "Alveoli",
-    "Bronchi",
-    "Larynx"
+    "Trachea",
+    "Larynx",
+    "Bronchi"
    ],
-   "a": 1,
+   "a": 0,
    "w": "Alveoli."
   },
   {
@@ -81,20 +81,20 @@
   {
    "q": "CO2 mostly travels as:",
    "o": [
-    "Bicarbonate",
     "Carbonic gas only",
     "Haemoglobin only",
-    "Carbon"
+    "Carbon",
+    "Bicarbonate"
    ],
-   "a": 0,
+   "a": 3,
    "w": "In plasma."
   },
   {
    "q": "Carbon monoxide is dangerous because it:",
    "o": [
-    "Burns lungs",
-    "Binds haemoglobin strongly",
     "Raises pH",
+    "Binds haemoglobin strongly",
+    "Burns lungs",
     "Dissolves"
    ],
    "a": 1,
@@ -103,67 +103,67 @@
   {
    "q": "Breathing rate is controlled by:",
    "o": [
-    "Medulla",
     "Cerebrum",
-    "Heart",
-    "Liver"
+    "Medulla",
+    "Liver",
+    "Heart"
    ],
-   "a": 0,
+   "a": 1,
    "w": "Brainstem."
   },
   {
    "q": "Tidal volume is about:",
    "o": [
-    "50 ml",
-    "500 ml",
+    "50 litres",
     "5 litres",
-    "50 litres"
+    "50 ml",
+    "500 ml"
    ],
-   "a": 1,
+   "a": 3,
    "w": "500 ml."
   },
   {
    "q": "Bohr effect shows CO2:",
    "o": [
-    "Blocks oxygen use",
-    "Helps haemoglobin release oxygen",
     "Makes ATP",
-    "Causes clotting"
+    "Causes clotting",
+    "Blocks oxygen use",
+    "Helps haemoglobin release oxygen"
    ],
-   "a": 1,
+   "a": 3,
    "w": "1904."
   },
   {
    "q": "Doll and Hill linked smoking to:",
    "o": [
-    "TB",
-    "Lung cancer",
     "Asthma",
-    "Flu"
+    "TB",
+    "Flu",
+    "Lung cancer"
    ],
-   "a": 1,
+   "a": 3,
    "w": "1950."
   },
   {
    "q": "Trachea is kept open by:",
    "o": [
+    "Bone",
     "Muscle",
     "Cartilage rings",
-    "Bone",
     "Mucus"
    ],
-   "a": 1,
+   "a": 2,
    "w": "C-shaped rings."
   },
   {
    "q": "India's National Clean Air Programme began in:",
    "o": [
-    "2009",
-    "2019",
     "1999",
-    "2025"
+    "2025",
+    "2019",
+    "2009"
    ],
-   "a": 1,
+   "a": 2,
    "w": "2019."
   }
  ],

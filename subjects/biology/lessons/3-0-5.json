@@ -60,41 +60,41 @@
    "q": "Antibodies are made by:",
    "o": [
     "T cells",
-    "B cells",
     "Platelets",
+    "B cells",
     "Red cells"
    ],
-   "a": 1,
+   "a": 2,
    "w": "B cells."
   },
   {
    "q": "Jenner used which germ for smallpox vaccine?",
    "o": [
+    "TB",
     "Cowpox",
     "Rabies",
-    "Polio",
-    "TB"
+    "Polio"
    ],
-   "a": 0,
+   "a": 1,
    "w": "1796."
   },
   {
    "q": "Innate immunity:",
    "o": [
-    "Is specific",
     "Has memory",
-    "Is fast and general",
-    "Needs vaccines"
+    "Needs vaccines",
+    "Is specific",
+    "Is fast and general"
    ],
-   "a": 2,
+   "a": 3,
    "w": "First line."
   },
   {
    "q": "HIV attacks:",
    "o": [
-    "B cells",
-    "Helper T cells",
     "Platelets",
+    "Helper T cells",
+    "B cells",
     "Red cells"
    ],
    "a": 1,
@@ -103,67 +103,67 @@
   {
    "q": "Memory cells make the second response:",
    "o": [
+    "Equal",
     "Slower",
     "Faster",
-    "Equal",
     "Absent"
    ],
-   "a": 1,
+   "a": 2,
    "w": "Faster, stronger."
   },
   {
    "q": "India was certified polio-free in:",
    "o": [
-    "2004",
     "2014",
     "1995",
+    "2004",
     "2020"
    ],
-   "a": 1,
+   "a": 0,
    "w": "WHO 2014."
   },
   {
    "q": "Herd immunity means:",
    "o": [
     "All infected",
-    "Enough immune to block spread",
     "All vaccinated",
+    "Enough immune to block spread",
     "No germs"
    ],
-   "a": 1,
+   "a": 2,
    "w": "Community protection."
   },
   {
    "q": "Monoclonal antibodies were made by:",
    "o": [
+    "Pasteur",
     "Kohler and Milstein",
-    "Jenner",
     "Behring",
-    "Pasteur"
+    "Jenner"
    ],
-   "a": 0,
+   "a": 1,
    "w": "1975."
   },
   {
    "q": "An autoimmune disease:",
    "o": [
-    "Attacks the body's own cells",
     "Is caused by virus",
-    "Is allergy",
-    "Is an infection"
+    "Is an infection",
+    "Attacks the body's own cells",
+    "Is allergy"
    ],
-   "a": 0,
+   "a": 2,
    "w": "Self-attack."
   },
   {
    "q": "Tetanus vaccine uses a:",
    "o": [
-    "Toxoid",
     "Live virus",
     "mRNA",
-    "Whole cell"
+    "Whole cell",
+    "Toxoid"
    ],
-   "a": 0,
+   "a": 3,
    "w": "Inactivated toxin."
   }
  ],

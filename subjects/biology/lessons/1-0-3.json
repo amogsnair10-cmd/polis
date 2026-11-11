@@ -70,34 +70,34 @@
   {
    "q": "When lactose is absent, the repressor:",
    "o": [
-    "Releases",
     "Blocks the genes",
-    "Is destroyed",
-    "Copies DNA"
+    "Copies DNA",
+    "Releases",
+    "Is destroyed"
    ],
-   "a": 1,
+   "a": 0,
    "w": "Genes stay off."
   },
   {
    "q": "DNA methylation usually:",
    "o": [
-    "Activates a gene",
-    "Silences a gene",
+    "Copies DNA",
     "Mutates DNA",
-    "Copies DNA"
+    "Activates a gene",
+    "Silences a gene"
    ],
-   "a": 1,
+   "a": 3,
    "w": "Silences."
   },
   {
    "q": "RNA interference was discovered by:",
    "o": [
-    "Fire and Mello",
     "Khorana",
     "Crick",
-    "Franklin"
+    "Franklin",
+    "Fire and Mello"
    ],
-   "a": 0,
+   "a": 3,
    "w": "1998."
   },
   {
@@ -114,43 +114,43 @@
   {
    "q": "Epigenetic marks change:",
    "o": [
-    "The DNA sequence",
-    "Gene activity",
+    "Chromosome number",
     "Protein code",
-    "Chromosome number"
+    "Gene activity",
+    "The DNA sequence"
    ],
-   "a": 1,
+   "a": 2,
    "w": "Activity not sequence."
   },
   {
    "q": "Transcription factors:",
    "o": [
     "Digest proteins",
-    "Bind DNA to control genes",
+    "Copy DNA",
     "Carry amino acids",
-    "Copy DNA"
+    "Bind DNA to control genes"
    ],
-   "a": 1,
+   "a": 3,
    "w": "They control transcription."
   },
   {
    "q": "Hox genes control:",
    "o": [
     "Blood type",
-    "Body plan",
     "Digestion",
-    "Vision only"
+    "Vision only",
+    "Body plan"
    ],
-   "a": 1,
+   "a": 3,
    "w": "Body layout."
   },
   {
    "q": "The Dutch Hunger Winter study suggested:",
    "o": [
-    "Mutation",
-    "Early nutrition leaves lasting marks",
     "No effect",
-    "Faster ageing only"
+    "Early nutrition leaves lasting marks",
+    "Faster ageing only",
+    "Mutation"
    ],
    "a": 1,
    "w": "Epigenetic effect."
@@ -160,8 +160,8 @@
    "o": [
     "DNA bases",
     "Proteins DNA wraps around",
-    "Enzymes",
-    "Lipids"
+    "Lipids",
+    "Enzymes"
    ],
    "a": 1,
    "w": "Packaging proteins."

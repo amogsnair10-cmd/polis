@@ -64,54 +64,54 @@
   {
    "q": "Xylem carries:",
    "o": [
-    "Sugar",
-    "Water and minerals",
+    "Air",
     "Hormones only",
-    "Air"
+    "Water and minerals",
+    "Sugar"
    ],
-   "a": 1,
+   "a": 2,
    "w": "Water up."
   },
   {
    "q": "Phloem carries:",
    "o": [
-    "Water",
     "Sugar",
     "Minerals only",
+    "Water",
     "Gas"
    ],
-   "a": 1,
+   "a": 0,
    "w": "Food."
   },
   {
    "q": "Stomata are controlled by:",
    "o": [
-    "Guard cells",
+    "Phloem",
     "Root hairs",
-    "Xylem",
-    "Phloem"
+    "Guard cells",
+    "Xylem"
    ],
-   "a": 0,
+   "a": 2,
    "w": "Guard cells."
   },
   {
    "q": "Double fertilisation is in:",
    "o": [
-    "Mosses",
-    "Angiosperms",
     "Ferns",
-    "Algae"
+    "Mosses",
+    "Algae",
+    "Angiosperms"
    ],
-   "a": 1,
+   "a": 3,
    "w": "Flowering plants."
   },
   {
    "q": "Ethylene causes:",
    "o": [
     "Fruit ripening",
-    "Root growth",
+    "Seed storage",
     "Cell division",
-    "Seed storage"
+    "Root growth"
    ],
    "a": 0,
    "w": "Ripening."
@@ -120,55 +120,55 @@
    "q": "Water rises mainly because of:",
    "o": [
     "Root pump",
-    "Transpiration pull",
     "Heart",
+    "Transpiration pull",
     "Gravity"
    ],
-   "a": 1,
+   "a": 2,
    "w": "Pull from leaves."
   },
   {
    "q": "Monocots have:",
    "o": [
+    "No veins",
     "Net veins",
     "Parallel veins",
-    "No veins",
     "Woody stems"
    ],
-   "a": 1,
+   "a": 2,
    "w": "Parallel."
   },
   {
    "q": "Auxin makes shoots bend toward:",
    "o": [
     "Dark",
+    "Soil",
     "Light",
-    "Water",
-    "Soil"
+    "Water"
    ],
-   "a": 1,
+   "a": 2,
    "w": "Phototropism."
   },
   {
    "q": "Janaki Ammal worked on:",
    "o": [
+    "Cotton",
     "Sugarcane",
     "Tea",
-    "Jute",
-    "Cotton"
+    "Jute"
    ],
-   "a": 0,
+   "a": 1,
    "w": "Cytogenetics."
   },
   {
    "q": "Gymnosperms have:",
    "o": [
     "Seeds in fruits",
-    "Naked seeds",
     "No seeds",
+    "Naked seeds",
     "Flowers"
    ],
-   "a": 1,
+   "a": 2,
    "w": "Pine, cycas."
   }
  ],

@@ -59,54 +59,54 @@
   {
    "q": "Which chamber pumps blood to the body?",
    "o": [
-    "Right atrium",
-    "Left ventricle",
     "Right ventricle",
-    "Left atrium"
+    "Left atrium",
+    "Left ventricle",
+    "Right atrium"
    ],
-   "a": 1,
+   "a": 2,
    "w": "Left ventricle."
   },
   {
    "q": "The pacemaker of the heart is:",
    "o": [
     "AV node",
-    "SA node",
+    "Valve",
     "Aorta",
-    "Valve"
+    "SA node"
    ],
-   "a": 1,
+   "a": 3,
    "w": "Sino-atrial node."
   },
   {
    "q": "Who showed blood circulates?",
    "o": [
-    "Harvey",
     "Malpighi",
     "Landsteiner",
-    "Barnard"
+    "Barnard",
+    "Harvey"
    ],
-   "a": 0,
+   "a": 3,
    "w": "1628."
   },
   {
    "q": "Capillaries are for:",
    "o": [
+    "Clotting",
     "Pressure",
-    "Exchange",
     "Storage",
-    "Clotting"
+    "Exchange"
    ],
-   "a": 1,
+   "a": 3,
    "w": "Thin walls."
   },
   {
    "q": "Pulmonary artery carries:",
    "o": [
-    "Oxygen-rich blood",
+    "Bile",
     "Low-oxygen blood",
-    "Lymph",
-    "Bile"
+    "Oxygen-rich blood",
+    "Lymph"
    ],
    "a": 1,
    "w": "To lungs."
@@ -115,8 +115,8 @@
    "q": "ABO blood groups found by:",
    "o": [
     "Landsteiner",
-    "Harvey",
     "Krebs",
+    "Harvey",
     "Pasteur"
    ],
    "a": 0,
@@ -126,44 +126,44 @@
    "q": "Platelets help in:",
    "o": [
     "Oxygen",
+    "Digestion",
     "Clotting",
-    "Defence",
-    "Digestion"
+    "Defence"
    ],
-   "a": 1,
+   "a": 2,
    "w": "Clotting."
   },
   {
    "q": "Blood pressure 120/80: 120 is:",
    "o": [
-    "Diastolic",
-    "Systolic",
+    "Average",
     "Pulse",
-    "Average"
+    "Diastolic",
+    "Systolic"
    ],
-   "a": 1,
+   "a": 3,
    "w": "Heart contraction."
   },
   {
    "q": "Atherosclerosis is:",
    "o": [
-    "Valve failure",
     "Artery narrowing by fat",
+    "Valve failure",
     "Low BP",
     "Anaemia"
    ],
-   "a": 1,
+   "a": 0,
    "w": "Plaque."
   },
   {
    "q": "Haemoglobin carries:",
    "o": [
-    "Oxygen",
-    "Hormones",
     "Antibodies",
-    "Glucose"
+    "Glucose",
+    "Hormones",
+    "Oxygen"
    ],
-   "a": 0,
+   "a": 3,
    "w": "Oxygen."
   }
  ],

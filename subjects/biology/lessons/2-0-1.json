@@ -64,12 +64,12 @@
   {
    "q": "Homologous structures indicate:",
    "o": [
-    "Convergence",
-    "Common ancestry",
     "Mutation",
-    "Drift"
+    "Drift",
+    "Convergence",
+    "Common ancestry"
    ],
-   "a": 1,
+   "a": 3,
    "w": "Same plan."
   },
   {
@@ -77,8 +77,8 @@
    "o": [
     "Human arm and bat wing",
     "Bird and insect wing",
-    "Whale flipper and arm",
-    "Horse leg and arm"
+    "Horse leg and arm",
+    "Whale flipper and arm"
    ],
    "a": 1,
    "w": "Different origins."
@@ -87,42 +87,42 @@
    "q": "Archaeopteryx links:",
    "o": [
     "Fish and amphibians",
-    "Reptiles and birds",
+    "Mammals and fish",
     "Apes and humans",
-    "Mammals and fish"
+    "Reptiles and birds"
    ],
-   "a": 1,
+   "a": 3,
    "w": "Feathers plus teeth."
   },
   {
    "q": "Tiktaalik shows:",
    "o": [
-    "Fish to land animals",
-    "Birds to bats",
     "Ape to human",
+    "Birds to bats",
+    "Fish to land animals",
     "Reptile to mammal"
    ],
-   "a": 0,
+   "a": 2,
    "w": "Fin to limb."
   },
   {
    "q": "Earth's age is about:",
    "o": [
-    "4.5 million years",
-    "4.5 billion years",
     "450 million years",
-    "45 billion years"
+    "45 billion years",
+    "4.5 billion years",
+    "4.5 million years"
    ],
-   "a": 1,
+   "a": 2,
    "w": "4.54 billion."
   },
   {
    "q": "The Lenski experiment uses:",
    "o": [
-    "Fruit flies",
-    "E. coli",
     "Finches",
-    "Peas"
+    "E. coli",
+    "Peas",
+    "Fruit flies"
    ],
    "a": 1,
    "w": "Since 1988."
@@ -130,20 +130,20 @@
   {
    "q": "A vestigial organ is:",
    "o": [
-    "New",
     "Reduced, of little use",
-    "Growing",
-    "Pathogenic"
+    "Pathogenic",
+    "New",
+    "Growing"
    ],
-   "a": 1,
+   "a": 0,
    "w": "Leftover."
   },
   {
    "q": "Birbal Sahni worked on:",
    "o": [
     "Fossil plants",
-    "Dinosaurs",
     "Birds",
+    "Dinosaurs",
     "Insects"
    ],
    "a": 0,
@@ -152,12 +152,12 @@
   {
    "q": "Convergent evolution leads to:",
    "o": [
-    "Identical genes",
     "Similar form from different ancestry",
-    "Extinction",
-    "Cloning"
+    "Cloning",
+    "Identical genes",
+    "Extinction"
    ],
-   "a": 1,
+   "a": 0,
    "w": "Same pressures."
   },
   {

@@ -64,12 +64,12 @@
   {
    "q": "The axon:",
    "o": [
+    "Stores memory",
     "Receives signals",
     "Sends signals away",
-    "Makes ATP",
-    "Stores memory"
+    "Makes ATP"
    ],
-   "a": 1,
+   "a": 2,
    "w": "Output wire."
   },
   {
@@ -86,32 +86,32 @@
   {
    "q": "The first phase of an impulse involves influx of:",
    "o": [
-    "K+",
     "Na+",
     "Cl-",
-    "Ca2+ only"
+    "Ca2+ only",
+    "K+"
    ],
-   "a": 1,
+   "a": 0,
    "w": "Sodium."
   },
   {
    "q": "Loewi showed:",
    "o": [
     "Electrical synapses",
-    "Chemical transmission",
+    "Reflex",
     "Myelin",
-    "Reflex"
+    "Chemical transmission"
    ],
-   "a": 1,
+   "a": 3,
    "w": "1921."
   },
   {
    "q": "Balance and coordination: the:",
    "o": [
     "Cerebellum",
+    "Thalamus",
     "Medulla",
-    "Cerebrum",
-    "Thalamus"
+    "Cerebrum"
    ],
    "a": 0,
    "w": "Cerebellum."
@@ -119,43 +119,43 @@
   {
    "q": "Breathing is controlled by:",
    "o": [
+    "Spinal nerve",
     "Medulla",
     "Cerebrum",
-    "Cerebellum",
-    "Spinal nerve"
+    "Cerebellum"
    ],
-   "a": 0,
+   "a": 1,
    "w": "Brainstem."
   },
   {
    "q": "Hodgkin and Huxley studied:",
    "o": [
+    "Rat",
     "Frog",
     "Squid axon",
-    "Rat",
     "Human"
    ],
-   "a": 1,
+   "a": 2,
    "w": "Giant axon."
   },
   {
    "q": "Myelin does what?",
    "o": [
-    "Slows signals",
-    "Speeds signals",
     "Makes transmitters",
-    "Stores ions"
+    "Stores ions",
+    "Speeds signals",
+    "Slows signals"
    ],
-   "a": 1,
+   "a": 2,
    "w": "Insulates axon."
   },
   {
    "q": "Parasympathetic system promotes:",
    "o": [
-    "Fight or flight",
+    "Sensation",
     "Rest and digest",
-    "Reflex",
-    "Sensation"
+    "Fight or flight",
+    "Reflex"
    ],
    "a": 1,
    "w": "Calming."
@@ -163,12 +163,12 @@
   {
    "q": "Broca's area relates to:",
    "o": [
+    "Balance",
     "Vision",
-    "Speech",
     "Hearing",
-    "Balance"
+    "Speech"
    ],
-   "a": 1,
+   "a": 3,
    "w": "Speech production."
   }
  ],

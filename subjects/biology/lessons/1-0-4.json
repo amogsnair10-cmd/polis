@@ -59,23 +59,23 @@
   {
    "q": "A frameshift is caused by:",
    "o": [
-    "Base swap",
     "Insertion or deletion",
+    "Base swap",
     "Silent change",
     "Radiation only"
    ],
-   "a": 1,
+   "a": 0,
    "w": "Shifts the reading frame."
   },
   {
    "q": "Sickle cell is caused by:",
    "o": [
-    "Extra chromosome",
-    "Missense mutation",
     "Frameshift",
-    "Deletion of gene"
+    "Extra chromosome",
+    "Deletion of gene",
+    "Missense mutation"
    ],
-   "a": 1,
+   "a": 3,
    "w": "Glu to Val."
   },
   {
@@ -92,43 +92,43 @@
   {
    "q": "Down syndrome is:",
    "o": [
-    "XO",
-    "Trisomy 21",
     "XXY",
-    "Monosomy 21"
+    "XO",
+    "Monosomy 21",
+    "Trisomy 21"
    ],
-   "a": 1,
+   "a": 3,
    "w": "Extra chromosome 21."
   },
   {
    "q": "Muller showed X-rays cause mutation in:",
    "o": [
-    "Peas",
     "Fruit flies",
     "Mice",
-    "Bacteria"
+    "Bacteria",
+    "Peas"
    ],
-   "a": 1,
+   "a": 0,
    "w": "1927."
   },
   {
    "q": "p53 is a:",
    "o": [
-    "Oncogene",
     "Tumour suppressor",
-    "Enzyme for digestion",
-    "Hormone"
+    "Hormone",
+    "Oncogene",
+    "Enzyme for digestion"
    ],
-   "a": 1,
+   "a": 0,
    "w": "Guardian of genome."
   },
   {
    "q": "Haemophilia is:",
    "o": [
-    "Autosomal dominant",
-    "X-linked recessive",
     "Mitochondrial",
-    "Y-linked"
+    "X-linked recessive",
+    "Y-linked",
+    "Autosomal dominant"
    ],
    "a": 1,
    "w": "Mostly boys."
@@ -136,9 +136,9 @@
   {
    "q": "A silent mutation:",
    "o": [
-    "Changes protein",
-    "Does not change amino acid",
     "Stops protein",
+    "Does not change amino acid",
+    "Changes protein",
     "Adds a base"
    ],
    "a": 1,
@@ -147,21 +147,21 @@
   {
    "q": "Turner syndrome karyotype:",
    "o": [
-    "XXY",
     "XO",
-    "XYY",
-    "XXX"
+    "XXY",
+    "XXX",
+    "XYY"
    ],
-   "a": 1,
+   "a": 0,
    "w": "One X."
   },
   {
    "q": "Why does the sickle gene persist?",
    "o": [
-    "No reason",
+    "Virus spread",
     "Carriers resist malaria",
-    "It is dominant",
-    "Virus spread"
+    "No reason",
+    "It is dominant"
    ],
    "a": 1,
    "w": "Heterozygote advantage."

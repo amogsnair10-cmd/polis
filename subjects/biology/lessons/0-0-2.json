@@ -59,10 +59,10 @@
   {
    "q": "The fluid mosaic model was proposed in:",
    "o": [
-    "1925",
+    "1890",
     "1972",
     "1953",
-    "1890"
+    "1925"
    ],
    "a": 1,
    "w": "Singer and Nicolson, 1972."
@@ -70,76 +70,76 @@
   {
    "q": "Phospholipid tails are:",
    "o": [
-    "Water-loving",
     "Water-fearing",
     "Charged",
-    "Protein"
+    "Protein",
+    "Water-loving"
    ],
-   "a": 1,
+   "a": 0,
    "w": "Hydrophobic."
   },
   {
    "q": "Osmosis is the movement of:",
    "o": [
+    "Protein",
     "Salt",
     "Glucose",
-    "Water",
-    "Protein"
+    "Water"
    ],
-   "a": 2,
+   "a": 3,
    "w": "Water across a membrane."
   },
   {
    "q": "The Na+/K+ pump moves ions:",
    "o": [
-    "Down gradient",
     "Against gradient using ATP",
-    "Without protein",
-    "Only into cell"
+    "Down gradient",
+    "Only into cell",
+    "Without protein"
    ],
-   "a": 1,
+   "a": 0,
    "w": "Active transport."
   },
   {
    "q": "A cell in hypertonic solution will:",
    "o": [
     "Burst",
-    "Shrink",
     "Stay same",
-    "Divide"
+    "Divide",
+    "Shrink"
    ],
-   "a": 1,
+   "a": 3,
    "w": "Water leaves."
   },
   {
    "q": "Aquaporins were linked to which Nobel winner?",
    "o": [
-    "Skou",
-    "Agre",
+    "Overton",
     "Singer",
-    "Overton"
+    "Skou",
+    "Agre"
    ],
-   "a": 1,
+   "a": 3,
    "w": "Peter Agre, 2003."
   },
   {
    "q": "Phagocytosis is:",
    "o": [
     "Drinking",
-    "Cell eating by endocytosis",
+    "Diffusion",
     "Exocytosis",
-    "Diffusion"
+    "Cell eating by endocytosis"
    ],
-   "a": 1,
+   "a": 3,
    "w": "Engulfing large particles."
   },
   {
    "q": "Gorter and Grendel's 1925 result suggested:",
    "o": [
-    "A single layer",
+    "Protein wall",
     "A bilayer",
-    "No lipid",
-    "Protein wall"
+    "A single layer",
+    "No lipid"
    ],
    "a": 1,
    "w": "Lipids covered cells twice."
@@ -147,23 +147,23 @@
   {
    "q": "ORS works because glucose helps:",
    "o": [
-    "Kill bacteria",
     "Sodium absorption, then water follows",
-    "Make fat",
-    "Raise pH"
+    "Raise pH",
+    "Kill bacteria",
+    "Make fat"
    ],
-   "a": 1,
+   "a": 0,
    "w": "Co-transport."
   },
   {
    "q": "Facilitated diffusion needs:",
    "o": [
-    "ATP",
     "Carrier or channel proteins, no ATP",
     "A nucleus",
-    "Heat"
+    "Heat",
+    "ATP"
    ],
-   "a": 1,
+   "a": 0,
    "w": "Passive via proteins."
   }
  ],

@@ -64,32 +64,32 @@
   {
    "q": "About how much energy passes up a level?",
    "o": [
+    "50 percent",
     "1 percent",
     "10 percent",
-    "50 percent",
     "90 percent"
    ],
-   "a": 1,
+   "a": 2,
    "w": "The ten percent rule."
   },
   {
    "q": "'Ecosystem' was coined by:",
    "o": [
-    "Tansley",
     "Haeckel",
+    "Carson",
     "Lindeman",
-    "Carson"
+    "Tansley"
    ],
-   "a": 0,
+   "a": 3,
    "w": "1935."
   },
   {
    "q": "Decomposers:",
    "o": [
-    "Make food",
+    "Absorb light",
     "Recycle nutrients",
     "Eat plants",
-    "Absorb light"
+    "Make food"
    ],
    "a": 1,
    "w": "Return nutrients."
@@ -108,12 +108,12 @@
   {
    "q": "In situ conservation example:",
    "o": [
+    "Zoo",
     "Seed bank",
     "National park",
-    "Zoo",
     "Cryobank"
    ],
-   "a": 1,
+   "a": 2,
    "w": "On-site."
   },
   {
@@ -130,23 +130,23 @@
   {
    "q": "Carrying capacity is the:",
    "o": [
-    "Max population environment supports",
+    "Food",
     "Birth rate",
-    "Death rate",
-    "Food"
+    "Max population environment supports",
+    "Death rate"
    ],
-   "a": 0,
+   "a": 2,
    "w": "Sustainable limit."
   },
   {
    "q": "Mutualism example:",
    "o": [
-    "Tiger and deer",
-    "Bees and flowers",
+    "Lion and hyena",
     "Tick and dog",
-    "Lion and hyena"
+    "Bees and flowers",
+    "Tiger and deer"
    ],
-   "a": 1,
+   "a": 2,
    "w": "Both gain."
   },
   {
@@ -154,8 +154,8 @@
    "o": [
     "Coral reef",
     "Mangrove delta",
-    "Desert",
-    "Tundra"
+    "Tundra",
+    "Desert"
    ],
    "a": 1,
    "w": "Mangrove."
@@ -163,12 +163,12 @@
   {
    "q": "Biological Diversity Act year:",
    "o": [
-    "1972",
     "2002",
-    "1986",
-    "2019"
+    "1972",
+    "2019",
+    "1986"
    ],
-   "a": 1,
+   "a": 0,
    "w": "2002."
   }
  ],

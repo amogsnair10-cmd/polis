@@ -59,9 +59,9 @@
   {
    "q": "Glycolysis occurs in the:",
    "o": [
-    "Mitochondria",
-    "Cytoplasm",
     "Nucleus",
+    "Cytoplasm",
+    "Mitochondria",
     "Golgi"
    ],
    "a": 1,
@@ -71,9 +71,9 @@
    "q": "Net ATP from glycolysis:",
    "o": [
     "2",
+    "0",
     "30",
-    "36",
-    "0"
+    "36"
    ],
    "a": 0,
    "w": "Net 2."
@@ -82,53 +82,53 @@
    "q": "The Krebs cycle was described by:",
    "o": [
     "Calvin",
-    "Krebs",
     "Mitchell",
+    "Krebs",
     "Lavoisier"
    ],
-   "a": 1,
+   "a": 2,
    "w": "Hans Krebs, 1937."
   },
   {
    "q": "The final electron acceptor is:",
    "o": [
-    "CO2",
-    "Glucose",
+    "NAD",
     "Oxygen",
-    "NAD"
+    "Glucose",
+    "CO2"
    ],
-   "a": 2,
+   "a": 1,
    "w": "O2 becomes water."
   },
   {
    "q": "Most ATP is made by:",
    "o": [
-    "Glycolysis",
     "Krebs cycle",
-    "ATP synthase in the electron transport chain",
-    "Fermentation"
+    "Fermentation",
+    "Glycolysis",
+    "ATP synthase in the electron transport chain"
    ],
-   "a": 2,
+   "a": 3,
    "w": "Chemiosmosis."
   },
   {
    "q": "Yeast fermentation yields:",
    "o": [
-    "Lactic acid",
-    "Ethanol and CO2",
     "Water only",
-    "Oxygen"
+    "Oxygen",
+    "Ethanol and CO2",
+    "Lactic acid"
    ],
-   "a": 1,
+   "a": 2,
    "w": "Ethanol and CO2."
   },
   {
    "q": "Where does the CO2 we exhale mostly arise?",
    "o": [
-    "Glycolysis",
+    "Lungs",
     "Pyruvate oxidation and Krebs cycle",
-    "ETC",
-    "Lungs"
+    "Glycolysis",
+    "ETC"
    ],
    "a": 1,
    "w": "Decarboxylation steps."
@@ -137,9 +137,9 @@
    "q": "Chemiosmosis was proposed by:",
    "o": [
     "Mitchell",
-    "Skou",
     "Margulis",
-    "Sumner"
+    "Sumner",
+    "Skou"
    ],
    "a": 0,
    "w": "Peter Mitchell, 1961."
@@ -147,23 +147,23 @@
   {
    "q": "Anaerobic respiration gives per glucose:",
    "o": [
-    "2 ATP",
+    "0 ATP",
     "36 ATP",
-    "10 ATP",
-    "0 ATP"
+    "2 ATP",
+    "10 ATP"
    ],
-   "a": 0,
+   "a": 2,
    "w": "Just glycolysis."
   },
   {
    "q": "Cyanide is deadly because it blocks:",
    "o": [
-    "Glycolysis",
-    "Electron transport chain",
     "DNA copying",
-    "Digestion"
+    "Digestion",
+    "Electron transport chain",
+    "Glycolysis"
    ],
-   "a": 1,
+   "a": 2,
    "w": "Stops ATP production."
   }
  ],

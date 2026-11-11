@@ -64,8 +64,8 @@
   {
    "q": "Who proposed that every cell comes from a pre-existing cell?",
    "o": [
-    "Hooke",
     "Schwann",
+    "Hooke",
     "Virchow",
     "Pasteur"
    ],
@@ -75,23 +75,23 @@
   {
    "q": "Homeostasis is best described as:",
    "o": [
-    "Growth of the body",
-    "Keeping a stable internal state",
+    "Taking in food",
     "Making offspring",
-    "Taking in food"
+    "Growth of the body",
+    "Keeping a stable internal state"
    ],
-   "a": 1,
+   "a": 3,
    "w": "It is internal balance."
   },
   {
    "q": "Which experiment used swan-neck flasks?",
    "o": [
     "Redi",
-    "Pasteur",
     "Miller",
-    "Hooke"
+    "Hooke",
+    "Pasteur"
    ],
-   "a": 1,
+   "a": 3,
    "w": "Pasteur, 1859."
   },
   {
@@ -108,67 +108,67 @@
   {
    "q": "Redi's gauze-covered jars showed that:",
    "o": [
-    "Meat cannot rot",
     "Maggots come from flies' eggs",
     "Air is harmful",
-    "Heat kills maggots"
+    "Heat kills maggots",
+    "Meat cannot rot"
    ],
-   "a": 1,
+   "a": 0,
    "w": "No flies, no maggots."
   },
   {
    "q": "Which is an example of catabolism?",
    "o": [
     "Making protein",
-    "Building DNA",
     "Breaking glucose for energy",
+    "Building DNA",
     "Forming cell wall"
    ],
-   "a": 2,
+   "a": 1,
    "w": "Breaking down releases energy."
   },
   {
    "q": "A thermostat is a good analogy for:",
    "o": [
-    "Evolution",
-    "Feedback control in homeostasis",
+    "Digestion",
     "Cell division",
-    "Digestion"
+    "Evolution",
+    "Feedback control in homeostasis"
    ],
-   "a": 1,
+   "a": 3,
    "w": "Sense, compare, act."
   },
   {
    "q": "Miller's 1953 experiment made:",
    "o": [
-    "Living cells",
-    "Amino acids",
+    "Bacteria",
     "Viruses",
-    "Bacteria"
+    "Amino acids",
+    "Living cells"
    ],
-   "a": 1,
+   "a": 2,
    "w": "Building blocks formed from simple gases."
   },
   {
    "q": "Which scientist built the crescograph?",
    "o": [
-    "Birbal Sahni",
     "J.C. Bose",
+    "Birbal Sahni",
     "Khorana",
     "C.V. Raman"
    ],
-   "a": 1,
+   "a": 0,
    "w": "J.C. Bose."
   },
   {
    "q": "Why is a growing crystal not alive?",
    "o": [
-    "It is too small",
     "It grows by adding material outside, without metabolism",
     "It is not solid",
+    "It is too small",
     "It does not move"
    ],
-   "a": 1,
+   "a": 0,
    "w": "No metabolism or cells."
   }
  ],

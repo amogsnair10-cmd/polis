@@ -59,87 +59,87 @@
   {
    "q": "Mendel's work was rediscovered in:",
    "o": [
-    "1866",
     "1900",
     "1953",
-    "1910"
+    "1910",
+    "1866"
    ],
-   "a": 1,
+   "a": 0,
    "w": "De Vries, Correns, Tschermak."
   },
   {
    "q": "Tt x Tt gives phenotype ratio:",
    "o": [
     "1:1",
+    "1:2:1",
     "3:1",
-    "9:3:3:1",
-    "1:2:1"
+    "9:3:3:1"
    ],
-   "a": 1,
+   "a": 2,
    "w": "3 tall : 1 short."
   },
   {
    "q": "The dihybrid ratio is:",
    "o": [
     "3:1",
-    "9:3:3:1",
     "1:1:1:1",
+    "9:3:3:1",
     "2:1"
    ],
-   "a": 1,
+   "a": 2,
    "w": "9:3:3:1."
   },
   {
    "q": "Red x white snapdragon gives pink. This is:",
    "o": [
-    "Codominance",
     "Incomplete dominance",
+    "Codominance",
     "Epistasis",
     "Mutation"
    ],
-   "a": 1,
+   "a": 0,
    "w": "Blending-like intermediate."
   },
   {
    "q": "Blood group AB shows:",
    "o": [
-    "Dominance",
     "Codominance",
+    "Mutation",
     "Recessiveness",
-    "Mutation"
+    "Dominance"
    ],
-   "a": 1,
+   "a": 0,
    "w": "Both alleles expressed."
   },
   {
    "q": "A test cross uses:",
    "o": [
+    "Any",
     "Homozygous dominant",
     "Homozygous recessive",
-    "Heterozygote",
-    "Any"
+    "Heterozygote"
    ],
-   "a": 1,
+   "a": 2,
    "w": "tt reveals genotype."
   },
   {
    "q": "Sex-linked genes were shown by:",
    "o": [
+    "Fisher",
     "Mendel",
     "Morgan",
-    "Krebs",
-    "Fisher"
+    "Krebs"
    ],
-   "a": 1,
+   "a": 2,
    "w": "Morgan, flies."
   },
   {
    "q": "Segregation means:",
    "o": [
-    "Alleles mix permanently",
-    "Allele pairs separate into gametes",
     "Genes blend",
-    "Only dominant passes"
+    "Allele pairs separate into gametes",
+    "Only dominant passes",
+    "Alleles mix permanently"
    ],
    "a": 1,
    "w": "Pairs separate."
@@ -148,11 +148,11 @@
    "q": "Mendel studied:",
    "o": [
     "Fruit flies",
-    "Pea plants",
+    "Mice",
     "Maize",
-    "Mice"
+    "Pea plants"
    ],
-   "a": 1,
+   "a": 3,
    "w": "Pisum sativum."
   },
   {

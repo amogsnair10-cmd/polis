@@ -64,10 +64,10 @@
   {
    "q": "Ovulation is triggered by:",
    "o": [
-    "FSH",
+    "ADH",
     "LH surge",
     "Insulin",
-    "ADH"
+    "FSH"
    ],
    "a": 1,
    "w": "LH."
@@ -75,9 +75,9 @@
   {
    "q": "Fertilisation usually occurs in the:",
    "o": [
-    "Uterus",
-    "Fallopian tube",
     "Ovary",
+    "Fallopian tube",
+    "Uterus",
     "Vagina"
    ],
    "a": 1,
@@ -86,65 +86,65 @@
   {
    "q": "The sex of the baby is set by:",
    "o": [
-    "Egg",
     "Sperm",
-    "Placenta",
-    "Hormones"
+    "Hormones",
+    "Egg",
+    "Placenta"
    ],
-   "a": 1,
+   "a": 0,
    "w": "X or Y sperm."
   },
   {
    "q": "hCG is made by:",
    "o": [
-    "Ovary",
     "Placenta",
     "Pituitary",
+    "Ovary",
     "Thyroid"
    ],
-   "a": 1,
+   "a": 0,
    "w": "Used in tests."
   },
   {
    "q": "First IVF baby was born in:",
    "o": [
-    "1968",
     "1978",
     "1988",
+    "1968",
     "1998"
    ],
-   "a": 1,
+   "a": 0,
    "w": "Louise Brown."
   },
   {
    "q": "Zygote number of chromosomes:",
    "o": [
     "23",
-    "46",
     "92",
-    "12"
+    "12",
+    "46"
    ],
-   "a": 1,
+   "a": 3,
    "w": "Diploid."
   },
   {
    "q": "Implantation occurs in the:",
    "o": [
+    "Cervix",
     "Fallopian tube",
     "Uterus wall",
-    "Ovary",
-    "Cervix"
+    "Ovary"
    ],
-   "a": 1,
+   "a": 2,
    "w": "Endometrium."
   },
   {
    "q": "Oxytocin helps in:",
    "o": [
-    "Digestion",
-    "Contractions and milk release",
     "Growth",
-    "Sleep"
+    "Contractions and milk release",
+    "Sleep",
+    "Digestion"
    ],
    "a": 1,
    "w": "Birth and lactation."
@@ -152,23 +152,23 @@
   {
    "q": "Spemann and Mangold found the:",
    "o": [
-    "Organiser",
     "Mitochondria",
+    "SRY",
     "Hox genes",
-    "SRY"
+    "Organiser"
    ],
-   "a": 0,
+   "a": 3,
    "w": "1924."
   },
   {
    "q": "Janani Suraksha Yojana started in:",
    "o": [
-    "1985",
-    "2005",
+    "1995",
     "2015",
-    "1995"
+    "2005",
+    "1985"
    ],
-   "a": 1,
+   "a": 2,
    "w": "2005."
   }
  ],

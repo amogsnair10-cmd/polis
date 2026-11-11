@@ -59,9 +59,9 @@
   {
    "q": "Mitosis produces:",
    "o": [
-    "4 haploid cells",
-    "2 identical diploid cells",
     "2 haploid cells",
+    "2 identical diploid cells",
+    "4 haploid cells",
     "1 cell"
    ],
    "a": 1,
@@ -70,12 +70,12 @@
   {
    "q": "Crossing over happens in:",
    "o": [
-    "Metaphase of mitosis",
     "Prophase I",
-    "Anaphase II",
-    "Telophase"
+    "Telophase",
+    "Metaphase of mitosis",
+    "Anaphase II"
    ],
-   "a": 1,
+   "a": 0,
    "w": "Prophase I."
   },
   {
@@ -92,9 +92,9 @@
   {
    "q": "Meiosis makes how many cells?",
    "o": [
-    "2",
-    "4",
     "8",
+    "4",
+    "2",
     "1"
    ],
    "a": 1,
@@ -103,67 +103,67 @@
   {
    "q": "Human chromosome number is:",
    "o": [
-    "23",
     "44",
-    "46",
-    "48"
+    "23",
+    "48",
+    "46"
    ],
-   "a": 2,
+   "a": 3,
    "w": "Tjio and Levan, 1956."
   },
   {
    "q": "Down syndrome is:",
    "o": [
     "Monosomy",
-    "Trisomy 21",
+    "Triploidy",
     "Deletion",
-    "Triploidy"
+    "Trisomy 21"
    ],
-   "a": 1,
+   "a": 3,
    "w": "Extra 21."
   },
   {
    "q": "In anaphase of mitosis:",
    "o": [
-    "Chromosomes condense",
     "Sister chromatids separate",
-    "Nuclear envelope forms",
-    "DNA copies"
+    "Chromosomes condense",
+    "DNA copies",
+    "Nuclear envelope forms"
    ],
-   "a": 1,
+   "a": 0,
    "w": "They are pulled apart."
   },
   {
    "q": "Checkpoints mainly:",
    "o": [
-    "Speed up division",
-    "Check readiness and damage",
     "Make ATP",
-    "Make gametes"
+    "Speed up division",
+    "Make gametes",
+    "Check readiness and damage"
    ],
-   "a": 1,
+   "a": 3,
    "w": "Quality control."
   },
   {
    "q": "Independent assortment refers to:",
    "o": [
-    "Swapping segments",
-    "Random sorting of chromosome pairs",
+    "Cell fusion",
     "Copying DNA",
-    "Cell fusion"
+    "Random sorting of chromosome pairs",
+    "Swapping segments"
    ],
-   "a": 1,
+   "a": 2,
    "w": "Random alignment."
   },
   {
    "q": "Who linked chromosomes to heredity around 1902?",
    "o": [
-    "Boveri and Sutton",
+    "Pasteur",
     "Krebs",
     "Calvin",
-    "Pasteur"
+    "Boveri and Sutton"
    ],
-   "a": 0,
+   "a": 3,
    "w": "Chromosome theory."
   }
  ],

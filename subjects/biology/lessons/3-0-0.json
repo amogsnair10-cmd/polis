@@ -65,31 +65,31 @@
    "q": "Most nutrient absorption occurs in the:",
    "o": [
     "Stomach",
-    "Small intestine",
     "Large intestine",
-    "Mouth"
+    "Mouth",
+    "Small intestine"
    ],
-   "a": 1,
+   "a": 3,
    "w": "Villi."
   },
   {
    "q": "Pepsin digests:",
    "o": [
-    "Starch",
-    "Protein",
     "Fat",
-    "Fibre"
+    "Starch",
+    "Fibre",
+    "Protein"
    ],
-   "a": 1,
+   "a": 3,
    "w": "Proteins."
   },
   {
    "q": "Bile is made by the:",
    "o": [
-    "Gall bladder",
+    "Stomach",
     "Liver",
-    "Pancreas",
-    "Stomach"
+    "Gall bladder",
+    "Pancreas"
    ],
    "a": 1,
    "w": "Stored in gall bladder."
@@ -97,10 +97,10 @@
   {
    "q": "Scurvy is caused by lack of:",
    "o": [
-    "A",
-    "C",
     "D",
-    "K"
+    "C",
+    "K",
+    "A"
    ],
    "a": 1,
    "w": "Vitamin C."
@@ -108,21 +108,21 @@
   {
    "q": "H. pylori was found by:",
    "o": [
-    "Marshall and Warren",
+    "Pavlov",
     "Lind",
     "Eijkman",
-    "Pavlov"
+    "Marshall and Warren"
    ],
-   "a": 0,
+   "a": 3,
    "w": "1982."
   },
   {
    "q": "Salivary amylase acts on:",
    "o": [
     "Starch",
+    "Vitamin",
     "Fat",
-    "Protein",
-    "Vitamin"
+    "Protein"
    ],
    "a": 0,
    "w": "Starch to sugar."
@@ -130,32 +130,32 @@
   {
    "q": "Rickets is due to lack of:",
    "o": [
-    "Vitamin D",
-    "Vitamin A",
     "Iron",
-    "Iodine"
+    "Iodine",
+    "Vitamin D",
+    "Vitamin A"
    ],
-   "a": 0,
+   "a": 2,
    "w": "Bones."
   },
   {
    "q": "Villi:",
    "o": [
-    "Make acid",
     "Increase absorption area",
     "Make bile",
+    "Make acid",
     "Store food"
    ],
-   "a": 1,
+   "a": 0,
    "w": "Surface area."
   },
   {
    "q": "Large intestine mainly absorbs:",
    "o": [
-    "Protein",
+    "Starch",
     "Water",
     "Fat",
-    "Starch"
+    "Protein"
    ],
    "a": 1,
    "w": "Water and salts."
@@ -163,12 +163,12 @@
   {
    "q": "Iodine deficiency leads to:",
    "o": [
-    "Goitre",
     "Scurvy",
-    "Rickets",
-    "Anaemia"
+    "Goitre",
+    "Anaemia",
+    "Rickets"
    ],
-   "a": 0,
+   "a": 1,
    "w": "Thyroid enlargement."
   }
  ],

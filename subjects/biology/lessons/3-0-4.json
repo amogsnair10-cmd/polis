@@ -65,22 +65,22 @@
    "q": "Hormones travel by:",
    "o": [
     "Nerves",
-    "Blood",
+    "Air",
     "Bone",
-    "Air"
+    "Blood"
    ],
-   "a": 1,
+   "a": 3,
    "w": "Blood."
   },
   {
    "q": "Insulin is made in the:",
    "o": [
+    "Thyroid",
     "Liver",
     "Pancreas",
-    "Thyroid",
     "Pituitary"
    ],
-   "a": 1,
+   "a": 2,
    "w": "Beta cells."
   },
   {
@@ -97,31 +97,31 @@
   {
    "q": "Insulin was isolated by:",
    "o": [
-    "Banting and Best",
+    "Yalow",
     "Bayliss",
-    "Berthold",
-    "Yalow"
+    "Banting and Best",
+    "Berthold"
    ],
-   "a": 0,
+   "a": 2,
    "w": "1921."
   },
   {
    "q": "The 'master gland' is the:",
    "o": [
-    "Thyroid",
-    "Pituitary",
     "Adrenal",
-    "Pancreas"
+    "Pancreas",
+    "Pituitary",
+    "Thyroid"
    ],
-   "a": 1,
+   "a": 2,
    "w": "Pituitary."
   },
   {
    "q": "Adrenaline acts in:",
    "o": [
-    "Years",
-    "Seconds",
     "Months",
+    "Seconds",
+    "Years",
     "Never"
    ],
    "a": 1,
@@ -130,45 +130,45 @@
   {
    "q": "Glucagon:",
    "o": [
-    "Lowers sugar",
     "Raises sugar",
-    "Stores fat",
-    "Digests protein"
+    "Digests protein",
+    "Lowers sugar",
+    "Stores fat"
    ],
-   "a": 1,
+   "a": 0,
    "w": "Raises blood glucose."
   },
   {
    "q": "ADH acts on:",
    "o": [
+    "Skin",
     "Heart",
     "Kidney",
-    "Lung",
-    "Skin"
+    "Lung"
    ],
-   "a": 1,
+   "a": 2,
    "w": "Water conservation."
   },
   {
    "q": "The word 'hormone' was coined in:",
    "o": [
-    "1905",
-    "1921",
+    "1982",
     "1953",
-    "1982"
+    "1921",
+    "1905"
    ],
-   "a": 0,
+   "a": 3,
    "w": "Bayliss and Starling."
   },
   {
    "q": "Negative feedback means:",
    "o": [
-    "Output boosts itself",
     "Output turns off the cause",
     "No control",
-    "Slow growth"
+    "Slow growth",
+    "Output boosts itself"
    ],
-   "a": 1,
+   "a": 0,
    "w": "Self-limiting."
   }
  ],

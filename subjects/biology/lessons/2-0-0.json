@@ -59,65 +59,65 @@
   {
    "q": "Darwin's book appeared in:",
    "o": [
-    "1809",
-    "1831",
+    "1900",
     "1859",
-    "1900"
+    "1809",
+    "1831"
    ],
-   "a": 2,
+   "a": 1,
    "w": "1859."
   },
   {
    "q": "Who co-discovered natural selection?",
    "o": [
     "Lamarck",
-    "Wallace",
+    "Haldane",
     "Malthus",
-    "Haldane"
+    "Wallace"
    ],
-   "a": 1,
+   "a": 3,
    "w": "Alfred Russel Wallace."
   },
   {
    "q": "Fitness means:",
    "o": [
+    "Speed",
     "Strength",
-    "Reproductive success",
     "Size",
-    "Speed"
+    "Reproductive success"
    ],
-   "a": 1,
+   "a": 3,
    "w": "Offspring left."
   },
   {
    "q": "The peppered moth shows:",
    "o": [
-    "Genetic drift",
     "Natural selection",
     "Mutation only",
-    "Cloning"
+    "Cloning",
+    "Genetic drift"
    ],
-   "a": 1,
+   "a": 0,
    "w": "Industrial melanism."
   },
   {
    "q": "Lamarck proposed:",
    "o": [
-    "Natural selection",
-    "Inheritance of acquired traits",
+    "Speciation",
     "Genetic drift",
-    "Speciation"
+    "Inheritance of acquired traits",
+    "Natural selection"
    ],
-   "a": 1,
+   "a": 2,
    "w": "Incorrect idea."
   },
   {
    "q": "Genetic drift is strongest in:",
    "o": [
-    "Large populations",
+    "Plants only",
     "Small populations",
     "Bacteria only",
-    "Plants only"
+    "Large populations"
    ],
    "a": 1,
    "w": "Chance matters more."
@@ -125,45 +125,45 @@
   {
    "q": "Darwin sailed on:",
    "o": [
-    "Endeavour",
     "Beagle",
-    "Challenger",
-    "Mayflower"
+    "Mayflower",
+    "Endeavour",
+    "Challenger"
    ],
-   "a": 1,
+   "a": 0,
    "w": "HMS Beagle."
   },
   {
    "q": "Who studied finches' beaks over decades?",
    "o": [
-    "Grants",
-    "Kettlewell",
     "Hardy",
-    "Wallace"
+    "Wallace",
+    "Grants",
+    "Kettlewell"
    ],
-   "a": 0,
+   "a": 2,
    "w": "Peter and Rosemary Grant."
   },
   {
    "q": "Evolution acts on:",
    "o": [
-    "Individuals evolving",
-    "Populations over time",
+    "Single genes only",
     "Species wishes",
-    "Single genes only"
+    "Populations over time",
+    "Individuals evolving"
    ],
-   "a": 1,
+   "a": 2,
    "w": "Populations."
   },
   {
    "q": "NDM-1 illustrates:",
    "o": [
     "Drift",
-    "Evolution of resistance",
     "Speciation of humans",
+    "Evolution of resistance",
     "Cloning"
    ],
-   "a": 1,
+   "a": 2,
    "w": "Selection by antibiotics."
   }
  ],

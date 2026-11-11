@@ -59,23 +59,23 @@
   {
    "q": "Restriction enzymes act as:",
    "o": [
-    "Glue",
     "Molecular scissors",
-    "Copiers",
-    "Carriers"
+    "Carriers",
+    "Glue",
+    "Copiers"
    ],
-   "a": 1,
+   "a": 0,
    "w": "They cut DNA."
   },
   {
    "q": "PCR was invented by:",
    "o": [
-    "Mullis",
-    "Sanger",
     "Doudna",
-    "Boyer"
+    "Mullis",
+    "Boyer",
+    "Sanger"
    ],
-   "a": 0,
+   "a": 1,
    "w": "Kary Mullis, 1983."
   },
   {
@@ -92,21 +92,21 @@
   {
    "q": "Cas9 does what?",
    "o": [
-    "Copies DNA",
     "Cuts DNA at a target",
-    "Makes RNA",
-    "Digests protein"
+    "Digests protein",
+    "Copies DNA",
+    "Makes RNA"
    ],
-   "a": 1,
+   "a": 0,
    "w": "Guided cut."
   },
   {
    "q": "Bt cotton makes toxin against:",
    "o": [
-    "Aphids",
+    "Fungus",
     "Bollworm",
-    "Birds",
-    "Fungus"
+    "Aphids",
+    "Birds"
    ],
    "a": 1,
    "w": "Bollworm."
@@ -114,43 +114,43 @@
   {
    "q": "A plasmid is used as:",
    "o": [
-    "Enzyme",
-    "Vehicle for genes",
+    "Primer",
     "Ribosome",
-    "Primer"
+    "Enzyme",
+    "Vehicle for genes"
    ],
-   "a": 1,
+   "a": 3,
    "w": "Vector."
   },
   {
    "q": "Dolly the sheep was born in:",
    "o": [
+    "1986",
     "1976",
     "1996",
-    "2006",
-    "1986"
+    "2006"
    ],
-   "a": 1,
+   "a": 2,
    "w": "1996."
   },
   {
    "q": "The only GM crop commercially grown in India is:",
    "o": [
+    "Maize",
     "Brinjal",
     "Mustard",
-    "Cotton",
-    "Maize"
+    "Cotton"
    ],
-   "a": 2,
+   "a": 3,
    "w": "Bt cotton."
   },
   {
    "q": "Human insulin was first made by:",
    "o": [
-    "Sheep",
+    "Plants",
     "Bacteria",
     "Yeast only",
-    "Plants"
+    "Sheep"
    ],
    "a": 1,
    "w": "Recombinant bacteria."
@@ -159,11 +159,11 @@
    "q": "Casgevy treats:",
    "o": [
     "Cancer",
-    "Sickle cell disease",
     "HIV",
-    "Malaria"
+    "Malaria",
+    "Sickle cell disease"
    ],
-   "a": 1,
+   "a": 3,
    "w": "Approved 2023."
   }
  ],

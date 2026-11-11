@@ -59,10 +59,10 @@
   {
    "q": "The O2 released in photosynthesis comes from:",
    "o": [
-    "CO2",
+    "Chlorophyll",
     "Water",
-    "Glucose",
-    "Chlorophyll"
+    "CO2",
+    "Glucose"
    ],
    "a": 1,
    "w": "Ruben and Kamen, 1941."
@@ -70,20 +70,20 @@
   {
    "q": "Light reactions occur in:",
    "o": [
-    "Stroma",
     "Thylakoid membranes",
     "Nucleus",
-    "Cytoplasm"
+    "Cytoplasm",
+    "Stroma"
    ],
-   "a": 1,
+   "a": 0,
    "w": "Thylakoids."
   },
   {
    "q": "RuBisCO's job is to:",
    "o": [
-    "Split water",
-    "Fix CO2",
     "Make ATP",
+    "Fix CO2",
+    "Split water",
     "Absorb light"
    ],
    "a": 1,
@@ -92,10 +92,10 @@
   {
    "q": "Which crop is a C4 plant?",
    "o": [
-    "Wheat",
     "Rice",
+    "Potato",
     "Sugarcane",
-    "Potato"
+    "Wheat"
    ],
    "a": 2,
    "w": "Sugarcane."
@@ -103,32 +103,32 @@
   {
    "q": "CAM plants open pores:",
    "o": [
-    "At noon",
     "At night",
+    "At noon",
     "Never",
     "Only in rain"
    ],
-   "a": 1,
+   "a": 0,
    "w": "To save water."
   },
   {
    "q": "Calvin won his Nobel in:",
    "o": [
+    "1997",
     "1931",
     "1961",
-    "1997",
     "1907"
    ],
-   "a": 1,
+   "a": 2,
    "w": "1961."
   },
   {
    "q": "Chlorophyll mainly absorbs:",
    "o": [
-    "Green",
+    "Infrared only",
     "Red and blue",
-    "Yellow",
-    "Infrared only"
+    "Green",
+    "Yellow"
    ],
    "a": 1,
    "w": "Reflects green."
@@ -136,10 +136,10 @@
   {
    "q": "Who showed that plants need light to purify air?",
    "o": [
-    "Priestley",
+    "Blackman",
     "Ingenhousz",
-    "Calvin",
-    "Blackman"
+    "Priestley",
+    "Calvin"
    ],
    "a": 1,
    "w": "Ingenhousz, 1779."
@@ -147,23 +147,23 @@
   {
    "q": "ATP synthase is driven by:",
    "o": [
+    "DNA",
     "Heat",
     "A proton gradient",
-    "DNA",
     "Sugar"
    ],
-   "a": 1,
+   "a": 2,
    "w": "Proton flow."
   },
   {
    "q": "Blackman's principle says rate is set by:",
    "o": [
-    "Average of factors",
-    "The scarcest factor",
     "Light only",
-    "CO2 only"
+    "Average of factors",
+    "CO2 only",
+    "The scarcest factor"
    ],
-   "a": 1,
+   "a": 3,
    "w": "Limiting factors."
   }
  ],

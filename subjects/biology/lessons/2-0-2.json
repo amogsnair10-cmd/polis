@@ -64,65 +64,65 @@
   {
    "q": "Biological species concept was proposed by:",
    "o": [
+    "Darwin",
     "Linnaeus",
     "Mayr",
-    "Woese",
-    "Darwin"
+    "Woese"
    ],
-   "a": 1,
+   "a": 2,
    "w": "Ernst Mayr."
   },
   {
    "q": "Allopatric speciation needs:",
    "o": [
+    "Chemicals",
     "No barrier",
-    "Geographic barrier",
     "Polyploidy",
-    "Chemicals"
+    "Geographic barrier"
    ],
-   "a": 1,
+   "a": 3,
    "w": "Physical separation."
   },
   {
    "q": "Three-domain system was by:",
    "o": [
-    "Woese",
     "Linnaeus",
     "Haeckel",
+    "Woese",
     "Mayr"
    ],
-   "a": 0,
+   "a": 2,
    "w": "1977."
   },
   {
    "q": "Mule sterility is a:",
    "o": [
-    "Pre-mating barrier",
     "Post-mating barrier",
-    "Habitat barrier",
-    "Time barrier"
+    "Pre-mating barrier",
+    "Time barrier",
+    "Habitat barrier"
    ],
-   "a": 1,
+   "a": 0,
    "w": "Hybrid sterility."
   },
   {
    "q": "Adaptive radiation example:",
    "o": [
-    "Peppered moth",
-    "Darwin's finches",
     "Mule",
-    "Pea"
+    "Peppered moth",
+    "Pea",
+    "Darwin's finches"
    ],
-   "a": 1,
+   "a": 3,
    "w": "Galapagos."
   },
   {
    "q": "Binomial nomenclature was by:",
    "o": [
     "Linnaeus",
-    "Mayr",
+    "Mendel",
     "Wallace",
-    "Mendel"
+    "Mayr"
    ],
    "a": 0,
    "w": "1735 onwards."
@@ -131,9 +131,9 @@
    "q": "Sympatric speciation in plants often via:",
    "o": [
     "Polyploidy",
-    "Mountains",
     "Rivers",
-    "Fire"
+    "Fire",
+    "Mountains"
    ],
    "a": 0,
    "w": "Chromosome doubling."
@@ -141,34 +141,34 @@
   {
    "q": "Largest mass extinction:",
    "o": [
-    "K-Pg",
-    "End-Permian",
     "Triassic",
-    "Ordovician"
+    "Ordovician",
+    "End-Permian",
+    "K-Pg"
    ],
-   "a": 1,
+   "a": 2,
    "w": "About 252 mya."
   },
   {
    "q": "Which is not a domain?",
    "o": [
-    "Archaea",
+    "Fungi",
     "Bacteria",
-    "Eukarya",
-    "Fungi"
+    "Archaea",
+    "Eukarya"
    ],
-   "a": 3,
+   "a": 0,
    "w": "Fungi is a kingdom."
   },
   {
    "q": "India's biodiversity hotspots include:",
    "o": [
-    "Western Ghats",
     "Amazon",
     "Sahara",
+    "Western Ghats",
     "Congo"
    ],
-   "a": 0,
+   "a": 2,
    "w": "Western Ghats and Sri Lanka."
   }
  ],
