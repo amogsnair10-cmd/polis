@@ -6,7 +6,7 @@
   {
    "tag": "Why this matters",
    "h": "Why you can digest a roti",
-   "b": "<p>Without help, digesting starch would take years. Your body does it in hours because of enzymes, biological catalysts that speed reactions up millions of times. Lactose intolerance, fever, food spoilage and many medicines all come down to enzymes.</p>"
+   "b": "<p>Without help, digesting starch would take years. Your body does it in hours because of enzymes, biological catalysts that speed reactions up millions of times. Lactose intolerance, fever, food spoilage and many medicines all come down to enzymes.</p><p>An enzyme works like a key made for one lock: it grabs a particular molecule, helps it change, and lets it go unchanged. Salivary <b>amylase</b> begins breaking starch in a roti while you chew, which is why bread tastes slightly sweet if you hold it in your mouth. Enzyme names usually end in -ase, such as lipase for fats and protease for proteins.</p>"
   },
   {
    "tag": "Core idea",
@@ -21,32 +21,32 @@
   {
    "tag": "Step by step",
    "h": "Cofactors and vitamins",
-   "b": "<p>Many enzymes need helpers. Metal ions like zinc or magnesium are cofactors. Small organic helpers are coenzymes; many are made from vitamins, such as NAD from niacin (B3). That is why vitamin lack causes disease.</p>"
+   "b": "<p>Many enzymes need helpers. Metal ions like zinc or magnesium are cofactors. Small organic helpers are coenzymes; many are made from vitamins, such as NAD from niacin (B3). That is why vitamin lack causes disease.</p><p>A coenzyme works like a rechargeable carrier that ferries electrons or small groups between reactions. Humans cannot make many of these helpers and must eat the vitamins. Lack of niacin causes pellagra, and lack of thiamine (B1), a part of a coenzyme for breaking down glucose, causes beriberi, a disease linked in the 1890s to polished rice by Christiaan Eijkman.</p>"
   },
   {
    "tag": "Step by step",
    "h": "Metabolic pathways",
-   "b": "<p>Cells link reactions into chains. The product of one enzyme is the substrate of the next. Often the final product switches off the first enzyme, called <b>feedback inhibition</b>, like a tap that closes when the tank is full.</p>"
+   "b": "<p>Cells link reactions into chains. The product of one enzyme is the substrate of the next. Often the final product switches off the first enzyme, called <b>feedback inhibition</b>, like a tap that closes when the tank is full.</p><p>A pathway is like an assembly line in a factory, where each worker does one step. Glycolysis is a ten-step pathway that breaks glucose in your cells. Feedback inhibition stops waste: when enough product accumulates, it binds the first enzyme at a site away from the active site (an <b>allosteric site</b>) and slows it. The cell thus makes only what it needs.</p>"
   },
   {
    "tag": "Step by step",
    "h": "ATP: the energy coin",
-   "b": "<p>Cells pay for work using ATP (adenosine triphosphate). Breaking its last phosphate releases usable energy. A person turns over about their body weight of ATP each day, recycling it from ADP.</p>"
+   "b": "<p>Cells pay for work using ATP (adenosine triphosphate). Breaking its last phosphate releases usable energy. A person turns over about their body weight of ATP each day, recycling it from ADP.</p><p>ATP works like a small coin that is spent often and refilled constantly. A cell holds only a few seconds' supply, so it is remade from ADP and phosphate in mitochondria using energy from food. Karl Lohmann discovered ATP in 1929, and Fritz Lipmann showed in 1941 that it is the cell's energy currency. Muscle contraction, nerve pumps and building proteins all spend ATP.</p>"
   },
   {
    "tag": "How we know",
    "h": "Enzymes are proteins",
-   "b": "<p>Eduard Buchner showed in 1897 that yeast juice without living cells could ferment sugar (Nobel 1907). James Sumner crystallised urease in 1926 and showed it was a protein. Many doubted him until others confirmed it.</p>"
+   "b": "<p>Eduard Buchner showed in 1897 that yeast juice without living cells could ferment sugar (Nobel 1907). James Sumner crystallised urease in 1926 and showed it was a protein. Many doubted him until others confirmed it.</p><p>Buchner's discovery ended the idea that fermentation needs a 'vital force' inside living cells: the chemistry could happen in a flask. Sumner's urease crystals then proved enzymes are real molecules. John Northrop later crystallised pepsin and trypsin, and the three shared the 1946 Nobel Prize. Today X-ray images show enzyme shapes in detail.</p><p>Today X-ray crystallography, developed by the Braggs, shows an enzyme's shape atom by atom.</p>"
   },
   {
    "tag": "Misconceptions",
    "h": "Not quite",
-   "b": "<div class=\"box\"><h4>Fix these</h4><ul><li>Cold does not kill enzymes; it slows them. Heat can destroy them.</li><li>Enzymes do not supply energy; they lower the hill to climb.</li><li>Enzymes are not changed permanently by reactions.</li></ul></div>"
+   "b": "<div class=\"box\"><h4>Fix these</h4><ul><li>Cold does not kill enzymes; it slows them. Heat can destroy them.</li><li>Enzymes do not supply energy; they lower the hill to climb.</li><li>Enzymes are not changed permanently by reactions.</li></ul></div><p>Also, a fever is not about killing your own enzymes: a few degrees of rise speeds immune reactions, though very high fever can damage proteins. An enzyme also works on a particular substrate, not on anything it meets.</p><p>An enzyme also works on a particular substrate, not on anything it meets, and each enzyme has an <b>optimum</b> temperature and pH. Pepsin in the stomach likes acid, while trypsin in the gut prefers mild alkali. A fever is also not about killing your own enzymes: a small rise speeds immune reactions, though a very high fever can damage proteins.</p>"
   },
   {
    "tag": "Indian angle",
    "h": "Enzymes in Indian life",
-   "b": "<p>Curd, idli and dosa batter, and toddy rely on microbial enzymes. Lactase persistence varies across Indian populations, so lactose intolerance is common in many regions. Statin drugs and many cancer drugs work by inhibiting key enzymes.</p>"
+   "b": "<p>Curd, idli and dosa batter, and toddy rely on microbial enzymes. Lactase persistence varies across Indian populations, so lactose intolerance is common in many regions. Statin drugs and many cancer drugs work by inhibiting key enzymes.</p><p>Souring of milk into curd is done by <i>Lactobacillus</i> bacteria using enzymes that turn lactose into lactic acid, which is also easier on lactose-intolerant people. Idli batter rises because microbes make carbon dioxide. Statins block HMG-CoA reductase, an enzyme in cholesterol making.</p><p>Souring of milk into curd is done by <i>Lactobacillus</i> bacteria, which turn lactose into lactic acid, and that also makes curd easier on lactose-intolerant people than milk. Idli and dosa batter rise because microbes make carbon dioxide. Statins block HMG-CoA reductase, an enzyme in cholesterol making.</p>"
   },
   {
    "tag": "Recap",

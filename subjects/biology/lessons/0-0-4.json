@@ -6,7 +6,7 @@
   {
    "tag": "Why this matters",
    "h": "The sun, bottled",
-   "b": "<p>Almost every meal you eat, and almost all the oxygen you breathe, traces back to photosynthesis. Plants, algae and some bacteria capture sunlight and store it as sugar. It is the entry point of energy into nearly every food chain.</p>"
+   "b": "<p>Almost every meal you eat, and almost all the oxygen you breathe, traces back to photosynthesis. Plants, algae and some bacteria capture sunlight and store it as sugar. It is the entry point of energy into nearly every food chain.</p><p>The overall change is easy to remember: carbon dioxide and water, with light, become glucose and oxygen. A leaf works like a solar kitchen, and the sugar can be burned right away, turned into starch for storage in a potato, or built into cellulose for new wood. Fossil fuels such as coal are ancient sunlight stored by this process. Joseph Priestley (1771) and Jan Ingenhousz (1779) showed that plants restore air and need light.</p>"
   },
   {
    "tag": "Core idea",
@@ -26,12 +26,12 @@
   {
    "tag": "Step by step",
    "h": "C3, C4 and CAM plants",
-   "b": "<p>RuBisCO sometimes grabs oxygen instead of CO2, wasting energy (photorespiration), worse in heat. <b>C4 plants</b> like maize and sugarcane first fix CO2 in a separate cell type, concentrating it. <b>CAM plants</b> like cactus and pineapple open pores at night to save water.</p>"
+   "b": "<p>RuBisCO sometimes grabs oxygen instead of CO2, wasting energy (photorespiration), worse in heat. <b>C4 plants</b> like maize and sugarcane first fix CO2 in a separate cell type, concentrating it. <b>CAM plants</b> like cactus and pineapple open pores at night to save water.</p><p>Think of C3 as the basic design, used by rice, wheat and most trees. Hot, dry days push the pores (<b>stomata</b>) shut to save water, which lets CO2 run low, so RuBisCO wastes more effort on oxygen. C4 plants add a pump that raises CO2 near RuBisCO, like a turbocharger, so maize and sugarcane do well in tropical heat. CAM plants store CO2 overnight as an acid and use it by day behind closed pores.</p>"
   },
   {
    "tag": "Step by step",
    "h": "What limits the rate",
-   "b": "<p>Light intensity, CO2 level, temperature and water. F.F. Blackman (1905) proposed the law of limiting factors: the scarcest factor sets the speed.</p>"
+   "b": "<p>Light intensity, CO2 level, temperature and water. F.F. Blackman (1905) proposed the law of limiting factors: the scarcest factor sets the speed.</p><p>Think of a queue at a railway counter: the slowest step decides how fast people get through. On a dim morning, light is the limit and more CO2 changes nothing. At noon, CO2 or heat may be the limit instead. Above about 40 °C, enzymes begin to lose shape and the rate falls. Farmers use this idea: greenhouses add light and CO2, and irrigation prevents water from becoming the limit.</p>"
   },
   {
    "tag": "How we know",
@@ -41,7 +41,7 @@
   {
    "tag": "Misconceptions",
    "h": "Common errors",
-   "b": "<div class=\"box\"><h4>Fix these</h4><ul><li>Plants do not 'eat soil'; mass comes mostly from CO2 and water.</li><li>Plants also respire, day and night.</li><li>Leaves look green because green light is reflected.</li></ul></div>"
+   "b": "<div class=\"box\"><h4>Fix these</h4><ul><li>Plants do not 'eat soil'; mass comes mostly from CO2 and water.</li><li>Plants also respire, day and night.</li><li>Leaves look green because green light is reflected.</li></ul></div><p>Another fix: oxygen released by plants comes from splitting <i>water</i>, not from CO2, shown with heavy oxygen by Ruben and Kamen in 1941. Also, plants are not 'breathing in' CO2 at night in the way animals breathe; they release it.</p>"
   },
   {
    "tag": "Indian angle",

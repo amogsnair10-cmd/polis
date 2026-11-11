@@ -21,12 +21,12 @@
   {
    "tag": "Step by step",
    "h": "Krebs cycle",
-   "b": "<p>Hans Krebs described it in 1937 (Nobel 1953). Acetyl-CoA joins a four-carbon molecule to form citrate, which is stripped of carbons step by step, releasing CO2. Each turn yields NADH, FADH2 and a little ATP. The carbons you breathe out come from here.</p>"
+   "b": "<p>Hans Krebs described it in 1937 (Nobel 1953). Acetyl-CoA joins a four-carbon molecule to form citrate, which is stripped of carbons step by step, releasing CO2. Each turn yields NADH, FADH2 and a little ATP. The carbons you breathe out come from here.</p><p>Think of the cycle as a wheel that turns, takes in two carbons from acetyl-CoA each round, and gives off two carbons as CO2. It runs in the mitochondrial <b>matrix</b>. The wheel's real prize is the carriers NADH and FADH2, like loaded delivery vans that head for the electron chain.</p>"
   },
   {
    "tag": "Step by step",
    "h": "Electron transport chain",
-   "b": "<p>NADH and FADH2 hand electrons to protein complexes in the inner mitochondrial membrane. This pumps protons across, building a gradient. Protons flow back through ATP synthase, making most of the ATP (chemiosmosis, Peter Mitchell, 1961). Oxygen is the final electron acceptor and becomes water.</p>"
+   "b": "<p>NADH and FADH2 hand electrons to protein complexes in the inner mitochondrial membrane. This pumps protons across, building a gradient. Protons flow back through ATP synthase, making most of the ATP (chemiosmosis, Peter Mitchell, 1961). Oxygen is the final electron acceptor and becomes water.</p><p>Imagine water pumped uphill into a dam, then let down through a turbine. The protons are the water and <b>ATP synthase</b> is the turbine; it even spins as protons pass, as shown by Paul Boyer and John Walker (Nobel 1997). One glucose gives roughly 30 ATP in total. Without oxygen to clear electrons away, the chain jams and ATP production collapses.</p>"
   },
   {
    "tag": "Step by step",
@@ -36,17 +36,17 @@
   {
    "tag": "How we know",
    "h": "Tracking energy",
-   "b": "<p>Antoine Lavoisier (1780s) showed respiration is slow combustion by measuring heat and CO2. Louis Pasteur showed yeast ferments without air. Mitchell's chemiosmotic idea was doubted at first but proved right.</p>"
+   "b": "<p>Antoine Lavoisier (1780s) showed respiration is slow combustion by measuring heat and CO2. Louis Pasteur showed yeast ferments without air. Mitchell's chemiosmotic idea was doubted at first but proved right.</p><p>Lavoisier used a guinea pig in an ice calorimeter and compared the melted ice with that from burning carbon. Later, Eduard Buchner showed fermentation could occur in cell-free extract, and Otto Warburg studied oxygen use in cells. Mitchell was awarded the Nobel Prize in 1978 after experiments confirmed proton gradients drive ATP making.</p>"
   },
   {
    "tag": "Misconceptions",
    "h": "Watch out",
-   "b": "<div class=\"box\"><h4>Fix these</h4><ul><li>Breathing is not the same as cellular respiration; breathing supplies the O2.</li><li>Plants respire too.</li><li>Cramps are not caused only by lactic acid; the story is more complex.</li></ul></div>"
+   "b": "<div class=\"box\"><h4>Fix these</h4><ul><li>Breathing is not the same as cellular respiration; breathing supplies the O2.</li><li>Plants respire too.</li><li>Cramps are not caused only by lactic acid; the story is more complex.</li></ul></div><p>Also, glucose is not 'burned' at once like paper; it is broken in many small steps so that energy is captured in ATP instead of lost as a burst of heat.</p>"
   },
   {
    "tag": "Indian angle",
    "h": "Fermentation in Indian food",
-   "b": "<p>Idli, dosa, dhokla, jalebi batter and toddy use microbial fermentation. Cyanide and carbon monoxide block the electron chain, which is why they are deadly. Yoga and high-altitude adaptation among Himalayan communities are studied for efficient oxygen use.</p>"
+   "b": "<p>Idli, dosa, dhokla, jalebi batter and toddy use microbial fermentation. Cyanide and carbon monoxide block the electron chain, which is why they are deadly. Yoga and high-altitude adaptation among Himalayan communities are studied for efficient oxygen use.</p><p>In batter, yeast and bacteria use sugars without much oxygen, so glycolysis continues and pyruvate becomes alcohol or lactic acid plus carbon dioxide, which makes the batter rise. Your own muscles do the same during hard sprints, making lactate. Cyanide sticks to the last enzyme of the chain, so cells cannot use oxygen even though it is present.</p>"
   },
   {
    "tag": "Recap",

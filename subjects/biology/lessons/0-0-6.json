@@ -6,12 +6,12 @@
   {
    "tag": "Why this matters",
    "h": "From one cell to you",
-   "b": "<p>You began as a single cell. Cell division built you, heals your cuts, and makes eggs and sperm. When its control fails, the result is cancer. Two kinds exist: mitosis (copying) and meiosis (shuffling for reproduction).</p>"
+   "b": "<p>You began as a single cell. Cell division built you, heals your cuts, and makes eggs and sperm. When its control fails, the result is cancer. Two kinds exist: mitosis (copying) and meiosis (shuffling for reproduction).</p><p>Count the scale: an adult has about 30 trillion cells, all descended from one fertilised egg by repeated mitosis. Each day you lose and replace billions, such as skin and gut lining cells. Think of mitosis as a photocopier making identical pages, and meiosis as shuffling a deck of cards before dealing a hand. Walther Flemming first described the thread-like chromosomes in dividing cells in 1882.</p>"
   },
   {
    "tag": "Core idea",
    "h": "The cell cycle",
-   "b": "<p>A cell spends most time in <b>interphase</b> (G1 growth, S DNA copying, G2 preparation), then divides in M phase. Checkpoints, run by proteins like cyclins, ask: is DNA intact, is the cell ready? Failure of checkpoints (for example p53 mutation) can lead to cancer.</p>"
+   "b": "<p>A cell spends most time in <b>interphase</b> (G1 growth, S DNA copying, G2 preparation), then divides in M phase. Checkpoints, run by proteins like cyclins, ask: is DNA intact, is the cell ready? Failure of checkpoints (for example p53 mutation) can lead to cancer.</p><p>Imagine a factory that checks quality at three gates. The G1 checkpoint asks if conditions are good, the G2 checkpoint asks if DNA copying is complete and error-free, and the spindle checkpoint asks if every chromosome is attached before they are pulled apart. The p53 protein, called the 'guardian of the genome', can pause the cycle or trigger cell suicide (<b>apoptosis</b>) when damage is too great. Lee Hartwell, Tim Hunt and Paul Nurse found the cycle controls (Nobel 2001).</p>"
   },
   {
    "tag": "Step by step",
@@ -21,7 +21,7 @@
   {
    "tag": "Step by step",
    "h": "Meiosis: halving the number",
-   "b": "<p>Meiosis has two rounds of division and makes four cells with half the chromosomes (n). It happens in the ovary and testis. Eggs and sperm are n, so fertilisation restores 2n.</p><ul><li><b>Meiosis I:</b> homologous pairs separate.</li><li><b>Meiosis II:</b> chromatids separate, like mitosis.</li></ul>"
+   "b": "<p>Meiosis has two rounds of division and makes four cells with half the chromosomes (n). It happens in the ovary and testis. Eggs and sperm are n, so fertilisation restores 2n.</p><ul><li><b>Meiosis I:</b> homologous pairs separate.</li><li><b>Meiosis II:</b> chromatids separate, like mitosis.</li></ul><p>Before meiosis I, DNA is copied once, so each chromosome has two sister chromatids. Early in meiosis I, matching chromosomes pair up and swap segments in <b>crossing over</b>, which creates new combinations. Pairs then line up at random, a process called <b>independent assortment</b>. A human has 23 pairs, so there are over 8 million possible combinations of chromosomes in one egg or sperm even before crossing over.</p>"
   },
   {
    "tag": "Step by step",
@@ -31,27 +31,27 @@
   {
    "tag": "Step by step",
    "h": "When it goes wrong",
-   "b": "<p>Failure of chromosomes to separate (nondisjunction) gives extra or missing chromosomes. Down syndrome is trisomy 21 (Jerome Lejeune, 1959). Cancer arises when a cell ignores stop signals and divides without end.</p>"
+   "b": "<p>Failure of chromosomes to separate (nondisjunction) gives extra or missing chromosomes. Down syndrome is trisomy 21 (Jerome Lejeune, 1959). Cancer arises when a cell ignores stop signals and divides without end.</p><p>The risk of nondisjunction rises with maternal age because egg cells wait in the ovary for decades paused in meiosis. Extra chromosome 21 causes Down syndrome, first described by John Langdon Down in 1866, with the cause found by Lejeune. Missing or extra sex chromosomes cause conditions such as Turner syndrome (X0). In cancer, mutations in genes for growth signals (oncogenes) or brakes (tumour suppressors) accumulate.</p>"
   },
   {
    "tag": "How we know",
    "h": "Seeing chromosomes",
-   "b": "<p>Flemming stained and watched chromosomes in the 1880s. Theodor Boveri and Walter Sutton (c.1902) linked chromosomes to Mendel's factors. Joe Hin Tjio and Albert Levan (1956) fixed the human number at 46.</p>"
+   "b": "<p>Flemming stained and watched chromosomes in the 1880s. Theodor Boveri and Walter Sutton (c.1902) linked chromosomes to Mendel's factors. Joe Hin Tjio and Albert Levan (1956) fixed the human number at 46.</p><p>Think of Sutton and Boveri as detectives: chromosomes come in pairs and are shared out during meiosis, just as Mendel's factors are, so the two must be linked. Thomas Hunt Morgan proved it with fruit flies around 1910. Before 1956 scientists believed humans had 48 chromosomes; better preparation, using a salt solution that swelled cells so chromosomes spread out, showed 46.</p>"
   },
   {
    "tag": "Misconceptions",
    "h": "Watch out",
-   "b": "<div class=\"box\"><h4>Fix these</h4><ul><li>Meiosis does not make identical cells.</li><li>Cells are not dividing all the time; most nerve cells stop.</li><li>Mitosis is not the same as cell growth; growth happens in interphase.</li></ul></div>"
+   "b": "<div class=\"box\"><h4>Fix these</h4><ul><li>Meiosis does not make identical cells.</li><li>Cells are not dividing all the time; most nerve cells stop.</li><li>Mitosis is not the same as cell growth; growth happens in interphase.</li></ul></div><p>Also, a cell does not 'split in half' without preparation: it must copy its DNA first during S phase, or each daughter would get only half the genes.</p>"
   },
   {
    "tag": "Indian angle",
    "h": "Cancer care in India",
-   "b": "<p>India runs population screening for oral, breast and cervical cancer under its national non-communicable disease programme, and Tata Memorial Centre in Mumbai is a leading cancer research and treatment centre.</p>"
+   "b": "<p>India runs population screening for oral, breast and cervical cancer under its national non-communicable disease programme, and Tata Memorial Centre in Mumbai is a leading cancer research and treatment centre.</p><p>Cancer begins when one cell collects several mutations that break its cell-cycle controls, and tobacco, betel quid with tobacco, and infections such as HPV are known causes. Finding cancer early, through a simple mouth check or a Pap test, greatly improves survival. HPV vaccines now help prevent cervical cancer. Tata Memorial was founded in 1941.</p>"
   },
   {
    "tag": "Recap",
    "h": "Key takeaways and questions",
-   "b": "<ul><li>Mitosis: 2n to two identical 2n cells.</li><li>Meiosis: 2n to four varied n cells.</li><li>Crossing over and independent assortment create variety.</li><li>Cancer is broken cell-cycle control.</li></ul><p><b>Think about it:</b></p><ol><li>Why would sexual reproduction be impossible without meiosis?</li><li>Why do identical twins still differ slightly?</li></ol>",
+   "b": "<ul><li>Mitosis: 2n to two identical 2n cells.</li><li>Meiosis: 2n to four varied n cells.</li><li>Crossing over and independent assortment create variety.</li><li>Cancer is broken cell-cycle control.</li></ul><p><b>Think about it:</b></p><ol><li>Why would sexual reproduction be impossible without meiosis?</li><li>Why do identical twins still differ slightly?</li></ol><p><b>Key terms:</b> diploid (2n) has two sets of chromosomes, haploid (n) has one. Mitosis gives growth and repair; meiosis gives gametes and variety. Remember that mitosis keeps the chromosome number the same, while meiosis halves it, and that fertilisation restores it. Chromosomes are copied once but divided twice in meiosis.</p>",
    "cls": "exam"
   }
  ],

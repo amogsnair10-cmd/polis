@@ -16,7 +16,7 @@
   {
    "tag": "Step by step",
    "h": "The nucleus: the library",
-   "b": "<p>The nucleus holds DNA and is wrapped by a double membrane with pores. Inside, the nucleolus builds ribosome parts. Robert Brown named the nucleus in 1831. Instructions are copied here as messenger RNA and sent out through the pores.</p>"
+   "b": "<p>The nucleus holds DNA and is wrapped by a double membrane with pores. Inside, the nucleolus builds ribosome parts. Robert Brown named the nucleus in 1831. Instructions are copied here as messenger RNA and sent out through the pores.</p><p>Think of the nucleus as a library that never lends out its only copies. Instead, a cell makes a working photocopy, the mRNA, and sends it to the workshop. The nuclear envelope has thousands of <b>nuclear pores</b> that act as guarded doors, letting small molecules pass and checking larger cargo. Inside, DNA is wound around proteins called histones into <b>chromatin</b>, which packs about two metres of DNA into a space a few micrometres wide.</p>"
   },
   {
    "tag": "Step by step",
@@ -31,12 +31,12 @@
   {
    "tag": "Step by step",
    "h": "Plant cell extras",
-   "b": "<p>Plant cells also have a cellulose <b>cell wall</b>, a large central <b>vacuole</b> for water and storage, and <b>chloroplasts</b> for photosynthesis. Animal cells have <b>centrioles</b> for division and no wall.</p>"
+   "b": "<p>Plant cells also have a cellulose <b>cell wall</b>, a large central <b>vacuole</b> for water and storage, and <b>chloroplasts</b> for photosynthesis. Animal cells have <b>centrioles</b> for division and no wall.</p><p>Each extra has a job. The wall, made of cellulose, works like a brick box that stops the cell bursting when it fills with water, so plants stay upright without a skeleton. The central vacuole can fill up to 90 percent of the cell and presses the contents against the wall, giving firmness (a wilted plant has lost this pressure). Chloroplasts hold <b>chlorophyll</b> and turn sunlight into sugar. Like mitochondria, they carry their own small DNA.</p>"
   },
   {
    "tag": "Step by step",
    "h": "The cytoskeleton",
-   "b": "<p>A web of protein fibres gives shape and lets the cell move. Microfilaments, intermediate filaments and microtubules act as scaffolding and rails for transport. Cilia and flagella are built from microtubules.</p>"
+   "b": "<p>A web of protein fibres gives shape and lets the cell move. Microfilaments, intermediate filaments and microtubules act as scaffolding and rails for transport. Cilia and flagella are built from microtubules.</p><p>Picture the cytoskeleton as the beams of a building plus its railway. <b>Microtubules</b> are hollow tubes of tubulin and serve as tracks; motor proteins such as kinesin walk along them carrying cargo, like a porter on a rail. <b>Microfilaments</b> of actin are thin and help cells crawl and pinch in two. During division, microtubules form the spindle that pulls chromosomes apart. Unlike a fixed frame, the cytoskeleton is constantly built and rebuilt.</p>"
   },
   {
    "tag": "How we know",
@@ -46,12 +46,12 @@
   {
    "tag": "Misconceptions",
    "h": "Watch out",
-   "b": "<div class=\"box\"><h4>Common errors</h4><ul><li>Bacteria are not 'primitive and simple' in chemistry; they are very successful.</li><li>Mitochondria are not 'powerhouses making energy from nothing'; they convert food energy into ATP.</li><li>Red blood cells in humans lose the nucleus, so not every eukaryotic cell has one.</li></ul></div>"
+   "b": "<div class=\"box\"><h4>Common errors</h4><ul><li>Bacteria are not 'primitive and simple' in chemistry; they are very successful.</li><li>Mitochondria are not 'powerhouses making energy from nothing'; they convert food energy into ATP.</li><li>Red blood cells in humans lose the nucleus, so not every eukaryotic cell has one.</li></ul></div><p>Another frequent slip: 'all cells are tiny'. A hen's egg yolk is a single cell, and some nerve cells in a giraffe stretch over a metre. Also, the cell wall belongs to plants, fungi and bacteria, not only plants.</p><p>Another frequent slip: 'all cells are tiny'. A hen's egg yolk is a single cell, and some nerve cells in a giraffe stretch over a metre. Also, the cell wall is found in plants, fungi and bacteria, not only plants.</p>"
   },
   {
    "tag": "Indian angle",
    "h": "Cells, microscopes and Indian science",
-   "b": "<p>The Indian Institute of Science, Bengaluru, and the National Centre for Cell Science, Pune, study cell biology. G.N. Ramachandran at Madras, in 1954, worked out the triple-helix structure of collagen, a key protein outside cells. Ramachandran plots are still used to check protein shapes.</p>"
+   "b": "<p>The Indian Institute of Science, Bengaluru, and the National Centre for Cell Science, Pune, study cell biology. G.N. Ramachandran at Madras, in 1954, worked out the triple-helix structure of collagen, a key protein outside cells. Ramachandran plots are still used to check protein shapes.</p><p>Cell biology began with Robert Hooke, who named 'cells' in 1665 while looking at cork, and with Schleiden and Schwann (1838-39), who proposed that all plants and animals are made of cells. Rudolf Virchow added in 1855 that every cell comes from another cell. Today Indian labs use fluorescence microscopy and gene tools to study how cells divide, move and die.</p>"
   },
   {
    "tag": "Recap",

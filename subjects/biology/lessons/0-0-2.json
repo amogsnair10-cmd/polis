@@ -6,7 +6,7 @@
   {
    "tag": "Why this matters",
    "h": "The smart border",
-   "b": "<p>Every cell is wrapped in a membrane that decides what enters and leaves, like a gate with a guard. If it fails, the cell dies. Salt balance, nerve signals, drug action and even why a pickled mango stays dry all depend on membranes.</p>"
+   "b": "<p>Every cell is wrapped in a membrane that decides what enters and leaves, like a gate with a guard. If it fails, the cell dies. Salt balance, nerve signals, drug action and even why a pickled mango stays dry all depend on membranes.</p><p>The membrane is selective: oxygen and small fatty molecules slip through, while ions and large molecules need special doors. Think of a railway station with ticket gates, where only passengers with the right ticket enter. Salting raw mango works because water leaves the fruit cells by osmosis. A membrane is about 7 nanometres thick, thousands of times thinner than a hair.</p>"
   },
   {
    "tag": "Core idea",
@@ -21,7 +21,7 @@
   {
    "tag": "Step by step",
    "h": "Active transport: with energy",
-   "b": "<p>Moving things uphill, from low to high, needs ATP. The <b>sodium-potassium pump</b> pushes 3 Na+ out and 2 K+ in per ATP. Jens Skou discovered it (Nobel 1997). It keeps nerve cells ready to fire and drives much of your energy use.</p>"
+   "b": "<p>Moving things uphill, from low to high, needs ATP. The <b>sodium-potassium pump</b> pushes 3 Na+ out and 2 K+ in per ATP. Jens Skou discovered it (Nobel 1997). It keeps nerve cells ready to fire and drives much of your energy use.</p><p>Think of it as a pump hauling water uphill: it needs fuel. The pump changes shape after taking a phosphate from <b>ATP</b>, releasing sodium outside, then grabbing potassium and flipping back. Because it keeps more Na+ outside and more K+ inside, the cell stores an electrical charge, like a charged battery. Nerves and muscles use that stored charge to fire signals.</p>"
   },
   {
    "tag": "Step by step",
@@ -31,22 +31,22 @@
   {
    "tag": "Step by step",
    "h": "Bulk transport",
-   "b": "<p>Large particles cross inside bubbles. <b>Endocytosis</b> brings material in (phagocytosis means 'cell eating', pinocytosis 'cell drinking'). <b>Exocytosis</b> sends material out, as when nerve cells release signals.</p>"
+   "b": "<p>Large particles cross inside bubbles. <b>Endocytosis</b> brings material in (phagocytosis means 'cell eating', pinocytosis 'cell drinking'). <b>Exocytosis</b> sends material out, as when nerve cells release signals.</p><p>Steps of endocytosis: the membrane dents inward around the particle, pinches off as a bubble called a <b>vesicle</b>, and carries it inside. In exocytosis the reverse happens, and a vesicle fuses with the outer membrane and empties outside, like posting a parcel. White blood cells use phagocytosis to swallow bacteria. Insulin is released from pancreas cells by exocytosis. Both processes need ATP.</p><p>Remember it as a delivery van: cargo goes in the van, not through the wall.</p>"
   },
   {
    "tag": "How we know",
    "h": "Early clues",
-   "b": "<p>Ernest Overton (1890s) noticed that fat-soluble substances enter cells easily, hinting at a fatty membrane. In 1925 Gorter and Grendel extracted lipids from red blood cells and found enough to cover the cells twice, suggesting a double layer.</p>"
+   "b": "<p>Ernest Overton (1890s) noticed that fat-soluble substances enter cells easily, hinting at a fatty membrane. In 1925 Gorter and Grendel extracted lipids from red blood cells and found enough to cover the cells twice, suggesting a double layer.</p><p>The Gorter and Grendel result is an old but neat piece of reasoning: if the lipids covered twice the cell surface, the membrane must be two layers thick. Their numbers were a little off, though the conclusion held. In 1935 Danielli and Davson added proteins to the picture, and in 1972 Singer and Nicolson proposed the <b>fluid mosaic model</b>, where proteins float in a sea of lipids.</p>"
   },
   {
    "tag": "Misconceptions",
    "h": "Not what it seems",
-   "b": "<div class=\"box\"><h4>Correct this</h4><ul><li>Osmosis is movement of <i>water</i>, not salt.</li><li>The membrane is not a rigid wall; it flows.</li><li>Active transport is not always faster; it is about direction against the gradient.</li></ul></div>"
+   "b": "<div class=\"box\"><h4>Correct this</h4><ul><li>Osmosis is movement of <i>water</i>, not salt.</li><li>The membrane is not a rigid wall; it flows.</li><li>Active transport is not always faster; it is about direction against the gradient.</li></ul></div><p>One more: diffusion is not a pull by the cell. Molecules simply spread from crowded to empty regions through random motion, like the smell of cooking drifting across a house, and this needs no energy.</p><p>Also remember that diffusion is not a pull by the cell. Molecules simply spread from crowded to empty regions through random motion, like the smell of cooking drifting across a house. Cells keep their shape because water balance is controlled: a cell in very salty water shrinks, and one in pure water swells and can burst if it has no wall.</p>"
   },
   {
    "tag": "Indian angle",
    "h": "Oral rehydration therapy",
-   "b": "<p>During cholera epidemics, Indian-origin doctors like Dilip Mahalanabis used oral rehydration solution during the 1971 refugee crisis. It works because glucose helps sodium enter gut cells through a carrier, and water follows by osmosis. It has saved millions of children.</p>"
+   "b": "<p>During cholera epidemics, Indian-origin doctors like Dilip Mahalanabis used oral rehydration solution during the 1971 refugee crisis. It works because glucose helps sodium enter gut cells through a carrier, and water follows by osmosis. It has saved millions of children.</p><p>Mahalanabis worked with refugees near the Bangladesh border, where IV fluid ran short, and he used a salt and glucose drink instead; deaths from cholera fell sharply. The Lancet later called ORS potentially the most important medical advance of the 20th century. A simple home version uses clean water, a pinch of salt and sugar.</p>"
   },
   {
    "tag": "Recap",
