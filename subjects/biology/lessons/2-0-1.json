@@ -64,9 +64,9 @@
   {
    "q": "Homologous structures indicate:",
    "o": [
-    "Mutation",
     "Drift",
     "Convergence",
+    "Mutation",
     "Common ancestry"
    ],
    "a": 3,
@@ -77,8 +77,8 @@
    "o": [
     "Human arm and bat wing",
     "Bird and insect wing",
-    "Horse leg and arm",
-    "Whale flipper and arm"
+    "Whale flipper and arm",
+    "Horse leg and arm"
    ],
    "a": 1,
    "w": "Different origins."
@@ -87,8 +87,8 @@
    "q": "Archaeopteryx links:",
    "o": [
     "Fish and amphibians",
-    "Mammals and fish",
     "Apes and humans",
+    "Mammals and fish",
     "Reptiles and birds"
    ],
    "a": 3,
@@ -97,8 +97,8 @@
   {
    "q": "Tiktaalik shows:",
    "o": [
-    "Ape to human",
     "Birds to bats",
+    "Ape to human",
     "Fish to land animals",
     "Reptile to mammal"
    ],
@@ -108,10 +108,10 @@
   {
    "q": "Earth's age is about:",
    "o": [
-    "450 million years",
     "45 billion years",
+    "4.5 million years",
     "4.5 billion years",
-    "4.5 million years"
+    "450 million years"
    ],
    "a": 2,
    "w": "4.54 billion."
@@ -119,10 +119,10 @@
   {
    "q": "The Lenski experiment uses:",
    "o": [
-    "Finches",
-    "E. coli",
     "Peas",
-    "Fruit flies"
+    "E. coli",
+    "Fruit flies",
+    "Finches"
    ],
    "a": 1,
    "w": "Since 1988."
@@ -131,9 +131,9 @@
    "q": "A vestigial organ is:",
    "o": [
     "Reduced, of little use",
+    "Growing",
     "Pathogenic",
-    "New",
-    "Growing"
+    "New"
    ],
    "a": 0,
    "w": "Leftover."
@@ -142,8 +142,8 @@
    "q": "Birbal Sahni worked on:",
    "o": [
     "Fossil plants",
-    "Birds",
     "Dinosaurs",
+    "Birds",
     "Insects"
    ],
    "a": 0,
@@ -153,9 +153,9 @@
    "q": "Convergent evolution leads to:",
    "o": [
     "Similar form from different ancestry",
+    "Extinction",
     "Cloning",
-    "Identical genes",
-    "Extinction"
+    "Identical genes"
    ],
    "a": 0,
    "w": "Same pressures."

@@ -54,78 +54,78 @@
   {
    "q": "Copernicus published in...",
    "o": [
-    "1609",
-    "1687",
+    "1492",
     "1543",
-    "1492"
+    "1609",
+    "1687"
    ],
-   "a": 2,
+   "a": 1,
    "w": "Also the year of Vesalius's book."
   },
   {
    "q": "Kepler showed orbits are...",
    "o": [
-    "Ellipses",
     "Circles",
-    "Squares",
-    "Straight lines"
+    "Straight lines",
+    "Ellipses",
+    "Squares"
    ],
-   "a": 0,
+   "a": 2,
    "w": "1609."
   },
   {
    "q": "Galileo saw...",
    "o": [
+    "Jupiter's moons",
     "Pluto",
-    "Comets only",
     "Alien cities",
-    "Jupiter's moons"
+    "Comets only"
    ],
-   "a": 3,
+   "a": 0,
    "w": "1610."
   },
   {
    "q": "Galileo's 1633 punishment was...",
    "o": [
+    "Exile to India",
     "Execution",
     "House arrest",
-    "A dungeon for life",
-    "Exile to India"
+    "A dungeon for life"
    ],
-   "a": 1,
+   "a": 2,
    "w": "After the Inquisition's trial."
   },
   {
    "q": "Principia was published in...",
    "o": [
-    "1687",
     "1543",
     "1609",
-    "1776"
+    "1776",
+    "1687"
    ],
-   "a": 0,
+   "a": 3,
    "w": "By Newton."
   },
   {
    "q": "Vesalius is known for...",
    "o": [
+    "Human anatomy",
     "Astronomy",
     "Optics",
-    "Chemistry",
-    "Human anatomy"
+    "Chemistry"
    ],
-   "a": 3,
+   "a": 0,
    "w": "De humani corporis fabrica."
   },
   {
    "q": "Bacon urged...",
    "o": [
-    "Pure faith",
-    "Experiment and observation",
+    "Alchemy",
     "Ignoring data",
-    "Alchemy"
+    "Experiment and observation",
+    "Pure faith"
    ],
-   "a": 1,
+   "a": 2,
    "w": "An empirical approach."
   },
   {
@@ -133,32 +133,32 @@
    "o": [
     "1543",
     "1700",
-    "1660",
-    "1800"
+    "1800",
+    "1660"
    ],
-   "a": 2,
+   "a": 3,
    "w": "London."
   },
   {
    "q": "Madhava is from...",
    "o": [
-    "Bengal",
     "Punjab",
-    "Gujarat",
-    "Kerala"
+    "Bengal",
+    "Kerala",
+    "Gujarat"
    ],
-   "a": 3,
+   "a": 2,
    "w": "Sangamagrama."
   },
   {
    "q": "Jantar Mantar was built by...",
    "o": [
-    "Sawai Jai Singh II",
-    "Akbar",
+    "Tipu Sultan",
     "Shah Jahan",
-    "Tipu Sultan"
+    "Akbar",
+    "Sawai Jai Singh II"
    ],
-   "a": 0,
+   "a": 3,
    "w": "In the 1720s-30s."
   }
  ],

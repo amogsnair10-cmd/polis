@@ -6,7 +6,7 @@
   {
    "tag": "Why this matters",
    "h": "The planets that rule the Solar System",
-   "b": "<p>Jupiter alone has more than twice the mass of all other planets combined. The giants shaped the whole system: they steered comets, sculpted the asteroid belt and probably protected the inner planets. And since giants are the easiest planets to find around other stars, they are the usual face of exoplanets.</p><svg class=\"d\" viewBox=\"0 0 320 110\"><defs><marker id=\"ar1\" viewBox=\"0 0 10 10\" refX=\"9\" refY=\"5\" markerWidth=\"6\" markerHeight=\"6\" orient=\"auto\"><path d=\"M0 0L10 5L0 10z\" fill=\"#5d6474\"/></marker></defs><circle cx=\"40\" cy=\"50\" r=\"28\" fill=\"#f1e4c6\" stroke=\"#a8792a\"/><text x=\"40\" y=\"54\" text-anchor=\"middle\" font-size=\"10\" fill=\"#1d2433\">Jupiter</text><circle cx=\"120\" cy=\"50\" r=\"24\" fill=\"#f1e4c6\" stroke=\"#a8792a\"/><text x=\"120\" y=\"54\" text-anchor=\"middle\" font-size=\"10\" fill=\"#1d2433\">Saturn</text><circle cx=\"190\" cy=\"50\" r=\"14\" fill=\"#dceaec\" stroke=\"#2f6f7a\"/><text x=\"190\" y=\"54\" text-anchor=\"middle\" font-size=\"10\" fill=\"#1d2433\">Uranus</text><circle cx=\"240\" cy=\"50\" r=\"14\" fill=\"#dceaec\" stroke=\"#2f6f7a\"/><text x=\"240\" y=\"54\" text-anchor=\"middle\" font-size=\"10\" fill=\"#1d2433\">Neptune</text><circle cx=\"290\" cy=\"50\" r=\"6\" fill=\"#f4dcd5\" stroke=\"#a3362a\"/><text x=\"290\" y=\"72\" text-anchor=\"middle\" font-size=\"9\" fill=\"#1d2433\">Earth</text><text x=\"160\" y=\"100\" text-anchor=\"middle\" font-size=\"10\" fill=\"#5d6474\">Giants dwarf Earth (to scale)</text></svg>"
+   "b": "<p>Jupiter alone has more than twice the mass of all other planets combined. The giants shaped the whole system: they steered comets, sculpted the asteroid belt and probably protected the inner planets. And since giants are the easiest planets to find around other stars, they are the usual face of exoplanets.</p><svg class=\"d\" viewBox=\"0 0 320 110\"><defs><marker id=\"ar1\" viewBox=\"0 0 10 10\" refX=\"9\" refY=\"5\" markerWidth=\"6\" markerHeight=\"6\" orient=\"auto\"><path d=\"M0 0L10 5L0 10z\" fill=\"#5d6474\"/></marker></defs><circle cx=\"40\" cy=\"50\" r=\"28\" fill=\"#f1e4c6\" stroke=\"#a8792a\"/><text x=\"40\" y=\"54\" text-anchor=\"middle\" font-size=\"10\" fill=\"#1d2433\">Jupiter</text><circle cx=\"120\" cy=\"50\" r=\"24\" fill=\"#f1e4c6\" stroke=\"#a8792a\"/><text x=\"120\" y=\"54\" text-anchor=\"middle\" font-size=\"10\" fill=\"#1d2433\">Saturn</text><circle cx=\"190\" cy=\"50\" r=\"14\" fill=\"#dceaec\" stroke=\"#2f6f7a\"/><text x=\"190\" y=\"54\" text-anchor=\"middle\" font-size=\"10\" fill=\"#1d2433\">Uranus</text><circle cx=\"240\" cy=\"50\" r=\"14\" fill=\"#dceaec\" stroke=\"#2f6f7a\"/><text x=\"240\" y=\"54\" text-anchor=\"middle\" font-size=\"10\" fill=\"#1d2433\">Neptune</text><circle cx=\"290\" cy=\"50\" r=\"6\" fill=\"#f4dcd5\" stroke=\"#a3362a\"/><text x=\"290\" y=\"72\" text-anchor=\"middle\" font-size=\"10\" fill=\"#1d2433\">Earth</text><text x=\"160\" y=\"100\" text-anchor=\"middle\" font-size=\"10\" fill=\"#5d6474\">Giants dwarf Earth (to scale)</text></svg>"
   },
   {
    "tag": "Concept",
@@ -59,56 +59,56 @@
   {
    "q": "Which planet could in principle float on water?",
    "o": [
-    "Jupiter",
-    "Saturn",
     "Neptune",
-    "Earth"
+    "Jupiter",
+    "Earth",
+    "Saturn"
    ],
-   "a": 1,
+   "a": 3,
    "w": "Average density about 0.7 g/cm3."
   },
   {
    "q": "Gas giants are mostly made of:",
    "o": [
     "Rock",
-    "Hydrogen and helium",
     "Methane only",
-    "Iron"
+    "Iron",
+    "Hydrogen and helium"
    ],
-   "a": 1,
+   "a": 3,
    "w": "Like the Sun."
   },
   {
    "q": "Uranus is unusual because it:",
    "o": [
-    "Has no moons",
     "Spins tilted on its side",
+    "Has no moons",
     "Is the largest",
     "Has no atmosphere"
    ],
-   "a": 1,
+   "a": 0,
    "w": "Axis tilt of 98 degrees."
   },
   {
    "q": "Neptune was discovered in 1846 through:",
    "o": [
-    "A lucky photo",
     "Mathematical prediction from Uranus's orbit",
+    "A lucky photo",
     "Radar",
     "A comet"
    ],
-   "a": 1,
+   "a": 0,
    "w": "Le Verrier and Adams."
   },
   {
    "q": "The Great Red Spot is:",
    "o": [
-    "A volcano",
     "A giant storm",
-    "A moon",
-    "A crater"
+    "A crater",
+    "A volcano",
+    "A moon"
    ],
-   "a": 1,
+   "a": 0,
    "w": "An anticyclone."
   },
   {
@@ -116,8 +116,8 @@
    "o": [
     "Water ice can form in the disc",
     "Planets cannot form",
-    "Gas freezes only",
-    "Rocks melt"
+    "Rocks melt",
+    "Gas freezes only"
    ],
    "a": 0,
    "w": "More solid material, so giant cores."
@@ -125,45 +125,45 @@
   {
    "q": "Which probe orbited Saturn from 2004 to 2017?",
    "o": [
-    "Juno",
     "Cassini",
+    "Juno",
     "Voyager 2",
     "Galileo"
    ],
-   "a": 1,
+   "a": 0,
    "w": "Cassini."
   },
   {
    "q": "Why is Jupiter not a star?",
    "o": [
-    "It is too light to ignite hydrogen fusion",
     "It is too cold on the outside",
     "It lacks hydrogen",
-    "It spins too fast"
+    "It spins too fast",
+    "It is too light to ignite hydrogen fusion"
    ],
-   "a": 0,
+   "a": 3,
    "w": "Needs about 80 Jupiter masses."
   },
   {
    "q": "Saturn's rings are mostly:",
    "o": [
-    "Gas",
-    "Ice chunks",
     "Rock slabs",
-    "Plasma"
+    "Plasma",
+    "Gas",
+    "Ice chunks"
    ],
-   "a": 1,
+   "a": 3,
    "w": "Water ice particles."
   },
   {
    "q": "Jupiter's orbital period is closest to:",
    "o": [
-    "1 year",
     "12 years",
+    "1 year",
     "30 years",
     "84 years"
    ],
-   "a": 1,
+   "a": 0,
    "w": "11.86 years."
   }
  ],

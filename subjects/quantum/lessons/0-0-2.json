@@ -54,34 +54,34 @@
   {
    "q": "Why was Rutherford's atom a problem for classical physics?",
    "o": [
+    "It cannot explain gravity",
     "An orbiting electron should radiate and spiral into the nucleus",
-    "Electrons have no charge",
     "The nucleus is too large",
-    "It cannot explain gravity"
+    "Electrons have no charge"
    ],
-   "a": 0,
+   "a": 1,
    "w": "Accelerating charges radiate energy."
   },
   {
    "q": "In Bohr's model, light is emitted when:",
    "o": [
-    "It stays in one level",
     "An electron jumps to a lower level",
     "The nucleus splits",
-    "The atom collides with nothing"
+    "The atom collides with nothing",
+    "It stays in one level"
    ],
-   "a": 1,
+   "a": 0,
    "w": "Photon energy equals the gap."
   },
   {
    "q": "Which atom did Bohr's model explain well?",
    "o": [
+    "Uranium",
     "Helium",
     "Iron",
-    "Hydrogen",
-    "Uranium"
+    "Hydrogen"
    ],
-   "a": 2,
+   "a": 3,
    "w": "It reproduced Balmer-Rydberg results exactly."
   },
   {
@@ -89,8 +89,8 @@
    "o": [
     "Higher frequency (bluer)",
     "Lower frequency",
-    "No change",
-    "Zero energy"
+    "Zero energy",
+    "No change"
    ],
    "a": 0,
    "w": "E = hf."
@@ -99,30 +99,30 @@
    "q": "What did the Franck-Hertz experiment (1914) show?",
    "o": [
     "Electrons are waves",
-    "Atoms absorb energy only in fixed amounts",
     "Light is a particle",
-    "Atoms are mostly empty"
+    "Atoms are mostly empty",
+    "Atoms absorb energy only in fixed amounts"
    ],
-   "a": 1,
+   "a": 3,
    "w": "It gave direct evidence of energy levels."
   },
   {
    "q": "Who found simple number patterns in hydrogen lines before Bohr?",
    "o": [
-    "Balmer and Rydberg",
-    "Planck and Einstein",
+    "Dirac and Pauli",
     "Heisenberg and Born",
-    "Dirac and Pauli"
+    "Planck and Einstein",
+    "Balmer and Rydberg"
    ],
-   "a": 0,
+   "a": 3,
    "w": "Balmer in 1885, Rydberg in 1888."
   },
   {
    "q": "Why is Bohr's model no longer taken literally?",
    "o": [
     "Nuclei do not exist",
-    "Levels were disproved",
     "Light has no energy",
+    "Levels were disproved",
     "Electrons are better described by probability waves"
    ],
    "a": 3,
@@ -131,34 +131,34 @@
   {
    "q": "Helium was first detected in:",
    "o": [
+    "Cosmic rays",
     "The Sun's spectrum in 1868",
     "A mine in 1760",
-    "A lab in 1913",
-    "Cosmic rays"
+    "A lab in 1913"
    ],
-   "a": 0,
+   "a": 1,
    "w": "Observed during the 1868 eclipse; found on Earth in 1895."
   },
   {
    "q": "Meghnad Saha's 1920 work explained:",
    "o": [
-    "The photoelectric effect",
-    "Radioactivity",
     "How star temperature changes spectral lines",
-    "The Raman effect"
+    "The Raman effect",
+    "The photoelectric effect",
+    "Radioactivity"
    ],
-   "a": 2,
+   "a": 0,
    "w": "Ionisation levels depend on temperature."
   },
   {
    "q": "The hydrogen ground state energy is about:",
    "o": [
-    "+13.6 eV",
     "-13.6 eV",
     "0 eV",
-    "-136 eV"
+    "-136 eV",
+    "+13.6 eV"
    ],
-   "a": 1,
+   "a": 0,
    "w": "Negative means bound to the nucleus."
   }
  ],

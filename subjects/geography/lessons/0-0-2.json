@@ -59,75 +59,75 @@
   {
    "q": "Which is a depositional glacial landform?",
    "o": [
-    "Cirque",
-    "Arete",
     "Horn",
-    "Esker"
+    "Esker",
+    "Arete",
+    "Cirque"
    ],
-   "a": 3,
+   "a": 1,
    "w": "Eskers are ridges of sand and gravel left by meltwater streams. The others are erosional."
   },
   {
    "q": "Barchans are formed by",
    "o": [
-    "Running water",
     "Wind",
     "Glaciers",
-    "Sea waves"
+    "Sea waves",
+    "Running water"
    ],
-   "a": 1,
+   "a": 0,
    "w": "They are crescent sand dunes in deserts like the Thar."
   },
   {
    "q": "Stalactites are found in",
    "o": [
+    "Volcanic craters",
     "Glacial valleys",
-    "Limestone caves",
     "River deltas",
-    "Volcanic craters"
+    "Limestone caves"
    ],
-   "a": 1,
+   "a": 3,
    "w": "Dripping water leaves calcium carbonate hanging from cave roofs."
   },
   {
    "q": "Exogenic forces mainly",
    "o": [
+    "Wear down relief",
     "Build mountains",
-    "Cause earthquakes",
     "Create plates",
-    "Wear down relief"
+    "Cause earthquakes"
    ],
-   "a": 3,
+   "a": 0,
    "w": "Weathering, erosion and deposition are exogenic."
   },
   {
    "q": "Who proposed the cycle of erosion in 1899?",
    "o": [
-    "W.M. Davis",
     "Walther Penck",
     "Alfred Wegener",
-    "Harry Hess"
+    "Harry Hess",
+    "W.M. Davis"
    ],
-   "a": 0,
+   "a": 3,
    "w": "Davis: youth, maturity, old age; Penck later challenged the idea."
   },
   {
    "q": "Oxbow lakes form in the",
    "o": [
-    "Glacial valley",
+    "Upper course of a river",
     "Cave system",
-    "Lower course of a river",
-    "Upper course of a river"
+    "Glacial valley",
+    "Lower course of a river"
    ],
-   "a": 2,
+   "a": 3,
    "w": "Meander loops are cut off after deposition seals the neck."
   },
   {
    "q": "Ravines in the Chambal are an example of",
    "o": [
     "Glacial plucking",
-    "Wind deflation",
     "Karst solution",
+    "Wind deflation",
     "Gully erosion"
    ],
    "a": 3,
@@ -136,32 +136,32 @@
   {
    "q": "Mawsmai cave is in",
    "o": [
+    "Uttarakhand",
     "Meghalaya",
     "Chhattisgarh",
-    "Andhra Pradesh",
-    "Uttarakhand"
+    "Andhra Pradesh"
    ],
-   "a": 0,
+   "a": 1,
    "w": "It is a limestone karst cave near Cherrapunji. Borra is in Andhra; Kutumsar in Chhattisgarh."
   },
   {
    "q": "Loess is a deposit made by",
    "o": [
-    "River floods",
-    "Ice sheets",
     "Wind",
-    "Waves"
+    "Waves",
+    "River floods",
+    "Ice sheets"
    ],
-   "a": 2,
+   "a": 0,
    "w": "Fine silt carried by wind, famous in China."
   },
   {
    "q": "Weathering differs from erosion because",
    "o": [
     "It breaks rock without moving it",
-    "It needs a glacier",
     "It acts only underwater",
-    "It builds relief"
+    "It builds relief",
+    "It needs a glacier"
    ],
    "a": 0,
    "w": "Erosion includes transport; weathering is in place."

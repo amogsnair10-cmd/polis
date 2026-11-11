@@ -59,43 +59,43 @@
   {
    "q": "The Buddha gave his first sermon at",
    "o": [
+    "Kushinagar",
     "Sarnath",
-    "Bodh Gaya",
     "Lumbini",
-    "Kushinagar"
+    "Bodh Gaya"
    ],
-   "a": 0,
+   "a": 1,
    "w": "Dharmachakra Pravartana."
   },
   {
    "q": "The Buddha attained enlightenment at",
    "o": [
-    "Sarnath",
-    "Rajagriha",
     "Vaishali",
-    "Bodh Gaya"
+    "Bodh Gaya",
+    "Rajagriha",
+    "Sarnath"
    ],
-   "a": 3,
+   "a": 1,
    "w": "Under the Bodhi tree."
   },
   {
    "q": "The Third Buddhist Council was held at",
    "o": [
-    "Rajagriha",
-    "Vaishali",
     "Pataliputra under Ashoka",
-    "Kashmir"
+    "Kashmir",
+    "Rajagriha",
+    "Vaishali"
    ],
-   "a": 2,
+   "a": 0,
    "w": "Around 250 BCE."
   },
   {
    "q": "Mahavira was the",
    "o": [
-    "1st Tirthankara",
+    "12th Tirthankara",
     "24th Tirthankara",
-    "23rd Tirthankara",
-    "12th Tirthankara"
+    "1st Tirthankara",
+    "23rd Tirthankara"
    ],
    "a": 1,
    "w": "Parshvanatha was the 23rd."
@@ -104,9 +104,9 @@
    "q": "Anekantavada belongs to",
    "o": [
     "Jainism",
-    "Buddhism",
+    "Vaisheshika",
     "Mimamsa",
-    "Vaisheshika"
+    "Buddhism"
    ],
    "a": 0,
    "w": "The many-sided nature of truth."
@@ -114,32 +114,32 @@
   {
    "q": "Which Mahajanapada was a republic?",
    "o": [
-    "Magadha",
-    "Kosala",
     "Avanti",
-    "Vajji"
+    "Vajji",
+    "Kosala",
+    "Magadha"
    ],
-   "a": 3,
+   "a": 1,
    "w": "Its capital was Vaishali."
   },
   {
    "q": "The first capital of Magadha was",
    "o": [
-    "Pataliputra",
+    "Ujjain",
     "Vaishali",
-    "Rajagriha",
-    "Ujjain"
+    "Pataliputra",
+    "Rajagriha"
    ],
-   "a": 2,
+   "a": 3,
    "w": "Pataliputra came later."
   },
   {
    "q": "Which dynasty came first in Magadha?",
    "o": [
-    "Nanda",
+    "Maurya",
     "Haryanka",
-    "Shishunaga",
-    "Maurya"
+    "Nanda",
+    "Shishunaga"
    ],
    "a": 1,
    "w": "Bimbisara and Ajatashatru."
@@ -147,23 +147,23 @@
   {
    "q": "The first Indian ruler to be called a “sole sovereign” (ekarat) was",
    "o": [
-    "Mahapadma Nanda",
     "Bimbisara",
     "Ajatashatru",
-    "Chandragupta"
+    "Chandragupta",
+    "Mahapadma Nanda"
    ],
-   "a": 0,
+   "a": 3,
    "w": "Nanda dynasty."
   },
   {
    "q": "Alexander fought Porus at the",
    "o": [
-    "Ganga, 326 BCE",
-    "Indus, 400 BCE",
     "Panipat, 1526",
-    "Hydaspes (Jhelum), 326 BCE"
+    "Indus, 400 BCE",
+    "Hydaspes (Jhelum), 326 BCE",
+    "Ganga, 326 BCE"
    ],
-   "a": 3,
+   "a": 2,
    "w": "His army then refused to advance."
   }
  ],

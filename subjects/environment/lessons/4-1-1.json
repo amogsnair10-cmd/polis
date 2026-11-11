@@ -59,10 +59,10 @@
   {
    "q": "India’s only commercially grown GM crop is:",
    "o": [
-    "Bt brinjal",
+    "Golden rice",
     "GM mustard",
     "Bt cotton",
-    "Golden rice"
+    "Bt brinjal"
    ],
    "a": 2,
    "w": "Approved in 2002."
@@ -70,10 +70,10 @@
   {
    "q": "GEAC functions under the:",
    "o": [
-    "Seeds Act 1966",
+    "Biological Diversity Act",
     "Environment Protection Act 1986",
     "FSSAI Act",
-    "Biological Diversity Act"
+    "Seeds Act 1966"
    ],
    "a": 1,
    "w": "MoEFCC."
@@ -82,9 +82,9 @@
    "q": "The first fully organic Indian state is:",
    "o": [
     "Sikkim",
-    "Kerala",
     "Mizoram",
-    "Uttarakhand"
+    "Uttarakhand",
+    "Kerala"
    ],
    "a": 0,
    "w": "Declared in 2016."
@@ -92,32 +92,32 @@
   {
    "q": "A moratorium on Bt brinjal was announced in:",
    "o": [
-    "2002",
-    "2022",
     "2024",
-    "2010"
+    "2022",
+    "2010",
+    "2002"
    ],
-   "a": 3,
+   "a": 2,
    "w": "By Jairam Ramesh."
   },
   {
    "q": "The International Year of Millets was:",
    "o": [
-    "2015",
     "2019",
-    "2023",
-    "2021"
+    "2021",
+    "2015",
+    "2023"
    ],
-   "a": 2,
+   "a": 3,
    "w": "Proposed by India."
   },
   {
    "q": "PKVY stands for:",
    "o": [
-    "Pradhan Krishi Vikas Yojana",
+    "Prakritik Krishi Vitaran Yojana",
     "Paramparagat Krishi Vikas Yojana",
     "Paramount Kisan Yojana",
-    "Prakritik Krishi Vitaran Yojana"
+    "Pradhan Krishi Vikas Yojana"
    ],
    "a": 1,
    "w": "It supports organic clusters."
@@ -125,12 +125,12 @@
   {
    "q": "The Cartagena Protocol deals with:",
    "o": [
-    "Biosafety",
-    "Ozone",
     "Wetlands",
-    "Mercury"
+    "Mercury",
+    "Biosafety",
+    "Ozone"
    ],
-   "a": 0,
+   "a": 2,
    "w": "It was adopted in 2000 under the CBD."
   },
   {
@@ -147,10 +147,10 @@
   {
    "q": "Genome-edited rice varieties were released in India in:",
    "o": [
+    "2016",
     "2010",
-    "2002",
     "2025",
-    "2016"
+    "2002"
    ],
    "a": 2,
    "w": "Developed by ICAR."
@@ -159,11 +159,11 @@
    "q": "The GM mustard case ended in 2024 with:",
    "o": [
     "A full ban",
+    "Transfer to NGT",
     "A split verdict and a call for a national policy",
-    "Full approval",
-    "Transfer to NGT"
+    "Full approval"
    ],
-   "a": 1,
+   "a": 2,
    "w": "The two-judge bench differed."
   }
  ],

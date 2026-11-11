@@ -26,7 +26,7 @@
   {
    "tag": "Concept",
    "h": "Hertz and the spectrum",
-   "b": "<p>In 1887 Heinrich Hertz generated and detected radio waves in his laboratory, confirming Maxwell. The unit of frequency, the hertz, honours him.</p><p>Light is only a thin slice of a huge family, the <b>electromagnetic spectrum</b>. From long to short wavelength: radio, microwaves, infrared, visible light, ultraviolet, X-rays, gamma rays. All obey c = f x wavelength; only the frequency differs.</p><svg class=\"d\" viewBox=\"0 0 320 130\"><defs><linearGradient id=\"sp\" x1=\"0\" x2=\"1\"><stop offset=\"0\" stop-color=\"#a3362a\"/><stop offset=\"0.3\" stop-color=\"#a8792a\"/><stop offset=\"0.5\" stop-color=\"#2f6f7a\"/><stop offset=\"0.8\" stop-color=\"#5d6474\"/><stop offset=\"1\" stop-color=\"#1d2433\"/></linearGradient></defs><rect x=\"10\" y=\"40\" width=\"300\" height=\"30\" fill=\"url(#sp)\"/><g font-size=\"9\" fill=\"#1d2433\"><text x=\"8\" y=\"30\">Radio</text><text x=\"55\" y=\"30\">Micro</text><text x=\"100\" y=\"30\">Infrared</text><text x=\"150\" y=\"30\">Visible</text><text x=\"195\" y=\"30\">UV</text><text x=\"233\" y=\"30\">X-ray</text><text x=\"272\" y=\"30\">Gamma</text></g><text x=\"10\" y=\"95\" font-size=\"10\" fill=\"#1d2433\">long wavelength, low energy</text><text x=\"185\" y=\"95\" font-size=\"10\" fill=\"#1d2433\">short wavelength, high energy</text><text x=\"30\" y=\"118\" font-size=\"11\" fill=\"#a3362a\">All travel at c = 300,000 km/s in vacuum</text></svg>"
+   "b": "<p>In 1887 Heinrich Hertz generated and detected radio waves in his laboratory, confirming Maxwell. The unit of frequency, the hertz, honours him.</p><p>Light is only a thin slice of a huge family, the <b>electromagnetic spectrum</b>. From long to short wavelength: radio, microwaves, infrared, visible light, ultraviolet, X-rays, gamma rays. All obey c = f x wavelength; only the frequency differs.</p><svg class=\"d\" viewBox=\"0 0 320 130\"><defs><linearGradient id=\"sp\" x1=\"0\" x2=\"1\"><stop offset=\"0\" stop-color=\"#a3362a\"/><stop offset=\"0.3\" stop-color=\"#a8792a\"/><stop offset=\"0.5\" stop-color=\"#2f6f7a\"/><stop offset=\"0.8\" stop-color=\"#5d6474\"/><stop offset=\"1\" stop-color=\"#1d2433\"/></linearGradient></defs><rect x=\"10\" y=\"40\" width=\"300\" height=\"30\" fill=\"url(#sp)\"/><g font-size=\"10\" fill=\"#1d2433\"><text x=\"8\" y=\"30\">Radio</text><text x=\"55\" y=\"30\">Micro</text><text x=\"100\" y=\"30\">Infrared</text><text x=\"150\" y=\"30\">Visible</text><text x=\"195\" y=\"30\">UV</text><text x=\"233\" y=\"30\">X-ray</text><text x=\"272\" y=\"30\">Gamma</text></g><text x=\"10\" y=\"95\" font-size=\"10\" fill=\"#1d2433\">long wavelength, low energy</text><text x=\"185\" y=\"95\" font-size=\"10\" fill=\"#1d2433\">short wavelength, high energy</text><text x=\"30\" y=\"118\" font-size=\"11\" fill=\"#a3362a\">All travel at c = 300,000 km/s in vacuum</text></svg>"
   },
   {
    "tag": "Concept",
@@ -59,21 +59,21 @@
   {
    "q": "Who unified electricity, magnetism and light in equations?",
    "o": [
-    "Faraday",
-    "Maxwell",
     "Hertz",
-    "Ohm"
+    "Ohm",
+    "Faraday",
+    "Maxwell"
    ],
-   "a": 1,
+   "a": 3,
    "w": "James Clerk Maxwell."
   },
   {
    "q": "Who first demonstrated radio waves in the lab in 1887?",
    "o": [
     "Marconi",
-    "Bose",
+    "Edison",
     "Hertz",
-    "Edison"
+    "Bose"
    ],
    "a": 2,
    "w": "Heinrich Hertz."
@@ -81,56 +81,56 @@
   {
    "q": "In vacuum, electromagnetic waves travel at about",
    "o": [
-    "3 x 10^8 m/s",
-    "340 m/s",
+    "3 x 10^10 m/s",
     "3 x 10^5 m/s",
-    "3 x 10^10 m/s"
+    "3 x 10^8 m/s",
+    "340 m/s"
    ],
-   "a": 0,
+   "a": 2,
    "w": "c."
   },
   {
    "q": "Which has the shortest wavelength?",
    "o": [
     "Radio",
-    "Gamma rays",
+    "Microwaves",
     "Visible light",
-    "Microwaves"
+    "Gamma rays"
    ],
-   "a": 1,
+   "a": 3,
    "w": "Gamma rays."
   },
   {
    "q": "A wave of frequency 3 x 10^9 Hz has wavelength (c = 3 x 10^8)",
    "o": [
     "10 m",
-    "0.1 m",
+    "0.01 m",
     "1 m",
-    "0.01 m"
+    "0.1 m"
    ],
-   "a": 1,
+   "a": 3,
    "w": "c/f = 0.1."
   },
   {
    "q": "Maxwell's key addition to Ampere's law was",
    "o": [
-    "Moving charge",
     "Changing electric field makes magnetic field",
-    "Gravity",
-    "Magnetic poles"
+    "Magnetic poles",
+    "Moving charge",
+    "Gravity"
    ],
-   "a": 1,
+   "a": 0,
    "w": "Displacement current."
   },
   {
    "q": "Electromagnetic waves",
    "o": [
-    "Need air",
     "Need water",
     "Need no medium",
+    "Need air",
     "Are longitudinal"
    ],
-   "a": 2,
+   "a": 1,
    "w": "They travel in vacuum."
   },
   {
@@ -147,20 +147,20 @@
   {
    "q": "Which Indian scientist demonstrated millimetre waves in Calcutta in 1895?",
    "o": [
-    "Raman",
     "Bose",
     "Saha",
+    "Raman",
     "Bhabha"
    ],
-   "a": 1,
+   "a": 0,
    "w": "Jagadish Chandra Bose."
   },
   {
    "q": "Microwave ovens heat food mainly by",
    "o": [
-    "Making it radioactive",
-    "Shaking water molecules",
     "Burning it",
+    "Shaking water molecules",
+    "Making it radioactive",
     "Freezing it"
    ],
    "a": 1,

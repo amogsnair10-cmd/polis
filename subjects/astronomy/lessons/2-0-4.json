@@ -26,7 +26,7 @@
   {
    "tag": "Concept",
    "h": "Pulsars: cosmic lighthouses",
-   "b": "<p>A neutron star's powerful magnetic field funnels radio beams from its magnetic poles. If the magnetic axis is tilted from the spin axis, the beam sweeps around, and if it crosses Earth we see regular <b>pulses</b>, each time the beam passes.</p><svg class=\"d\" viewBox=\"0 0 320 120\"><defs><marker id=\"ar1\" viewBox=\"0 0 10 10\" refX=\"9\" refY=\"5\" markerWidth=\"6\" markerHeight=\"6\" orient=\"auto\"><path d=\"M0 0L10 5L0 10z\" fill=\"#5d6474\"/></marker></defs><circle cx=\"160\" cy=\"60\" r=\"14\" fill=\"#f4dcd5\" stroke=\"#a3362a\"/><text x=\"160\" y=\"64\" text-anchor=\"middle\" font-size=\"9\" fill=\"#1d2433\"></text><line x1=\"160\" y1=\"10\" x2=\"160\" y2=\"45\" stroke=\"#2f6f7a\" stroke-width=\"1.5\"/><line x1=\"160\" y1=\"110\" x2=\"160\" y2=\"75\" stroke=\"#2f6f7a\" stroke-width=\"1.5\"/><text x=\"160\" y=\"8\" text-anchor=\"middle\" font-size=\"9\" fill=\"#1d2433\"></text><text x=\"230\" y=\"30\" text-anchor=\"start\" font-size=\"10\" fill=\"#1d2433\">Radio beam sweeps</text><text x=\"230\" y=\"45\" text-anchor=\"start\" font-size=\"10\" fill=\"#1d2433\">past Earth like a</text><text x=\"230\" y=\"60\" text-anchor=\"start\" font-size=\"10\" fill=\"#1d2433\">lighthouse</text><text x=\"40\" y=\"60\" text-anchor=\"middle\" font-size=\"10\" fill=\"#1d2433\">Neutron star</text><text x=\"160\" y=\"116\" text-anchor=\"middle\" font-size=\"10\" fill=\"#5d6474\">Spin axis and magnetic axis differ</text></svg>"
+   "b": "<p>A neutron star's powerful magnetic field funnels radio beams from its magnetic poles. If the magnetic axis is tilted from the spin axis, the beam sweeps around, and if it crosses Earth we see regular <b>pulses</b>, each time the beam passes.</p><svg class=\"d\" viewBox=\"0 0 320 120\"><defs><marker id=\"ar1\" viewBox=\"0 0 10 10\" refX=\"9\" refY=\"5\" markerWidth=\"6\" markerHeight=\"6\" orient=\"auto\"><path d=\"M0 0L10 5L0 10z\" fill=\"#5d6474\"/></marker></defs><circle cx=\"160\" cy=\"60\" r=\"14\" fill=\"#f4dcd5\" stroke=\"#a3362a\"/><text x=\"160\" y=\"64\" text-anchor=\"middle\" font-size=\"10\" fill=\"#1d2433\"></text><line x1=\"160\" y1=\"10\" x2=\"160\" y2=\"45\" stroke=\"#2f6f7a\" stroke-width=\"1.5\"/><line x1=\"160\" y1=\"110\" x2=\"160\" y2=\"75\" stroke=\"#2f6f7a\" stroke-width=\"1.5\"/><text x=\"160\" y=\"8\" text-anchor=\"middle\" font-size=\"10\" fill=\"#1d2433\"></text><text x=\"230\" y=\"30\" text-anchor=\"start\" font-size=\"10\" fill=\"#1d2433\">Radio beam sweeps</text><text x=\"230\" y=\"45\" text-anchor=\"start\" font-size=\"10\" fill=\"#1d2433\">past Earth like a</text><text x=\"230\" y=\"60\" text-anchor=\"start\" font-size=\"10\" fill=\"#1d2433\">lighthouse</text><text x=\"40\" y=\"60\" text-anchor=\"middle\" font-size=\"10\" fill=\"#1d2433\">Neutron star</text><text x=\"160\" y=\"116\" text-anchor=\"middle\" font-size=\"10\" fill=\"#5d6474\">Spin axis and magnetic axis differ</text></svg>"
   },
   {
    "tag": "Concept",
@@ -59,65 +59,65 @@
   {
    "q": "A neutron star is typically about:",
    "o": [
-    "20 km across",
-    "1,000 km across",
     "Earth-sized",
-    "Sun-sized"
+    "Sun-sized",
+    "1,000 km across",
+    "20 km across"
    ],
-   "a": 0,
+   "a": 3,
    "w": "About 10 km radius."
   },
   {
    "q": "Neutron stars are held up by:",
    "o": [
-    "Neutron degeneracy pressure",
     "Fusion",
-    "Magnetic fields",
-    "Radiation"
+    "Radiation",
+    "Neutron degeneracy pressure",
+    "Magnetic fields"
    ],
-   "a": 0,
+   "a": 2,
    "w": "Quantum pressure."
   },
   {
    "q": "Who discovered the first pulsar in 1967?",
    "o": [
-    "Jocelyn Bell",
-    "Hewish alone",
+    "Chandrasekhar",
     "Hubble",
-    "Chandrasekhar"
+    "Jocelyn Bell",
+    "Hewish alone"
    ],
-   "a": 0,
+   "a": 2,
    "w": "Jocelyn Bell, then a student."
   },
   {
    "q": "Pulsar pulses arise because:",
    "o": [
     "The star blinks",
-    "A beam sweeps across Earth as it spins",
+    "It explodes",
     "It is eclipsed",
-    "It explodes"
+    "A beam sweeps across Earth as it spins"
    ],
-   "a": 1,
+   "a": 3,
    "w": "Lighthouse effect."
   },
   {
    "q": "A neutron star spins fast after collapse because of:",
    "o": [
     "Magnetism",
-    "Conservation of angular momentum",
+    "Radio waves",
     "Heat",
-    "Radio waves"
+    "Conservation of angular momentum"
    ],
-   "a": 1,
+   "a": 3,
    "w": "Skater effect."
   },
   {
    "q": "Hulse and Taylor's binary pulsar gave evidence for:",
    "o": [
     "Gravitational waves",
+    "Planets",
     "Dark matter",
-    "Black holes",
-    "Planets"
+    "Black holes"
    ],
    "a": 0,
    "w": "Orbit shrank as predicted."
@@ -125,31 +125,31 @@
   {
    "q": "A magnetar is a neutron star with:",
    "o": [
+    "Large size",
     "Extreme magnetic field",
     "No rotation",
-    "Large size",
     "Planets"
    ],
-   "a": 0,
+   "a": 1,
    "w": "10^14 to 10^15 gauss."
   },
   {
    "q": "Which Indian facility discovered/timed many pulsars and joined InPTA?",
    "o": [
-    "GMRT",
     "Hanle",
+    "GMRT",
     "Kavalur",
     "Nainital"
    ],
-   "a": 0,
+   "a": 1,
    "w": "Giant Metrewave Radio Telescope."
   },
   {
    "q": "Millisecond pulsars are valuable because they:",
    "o": [
     "Are extremely regular clocks",
-    "Are bright optically",
     "Are close",
+    "Are bright optically",
     "Are huge"
    ],
    "a": 0,
@@ -158,12 +158,12 @@
   {
    "q": "A teaspoon of neutron star matter would weigh about:",
    "o": [
+    "A gram",
     "A billion tonnes",
     "A kilogram",
-    "A gram",
     "A tonne"
    ],
-   "a": 0,
+   "a": 1,
    "w": "Density of 10^17 kg per cubic metre."
   }
  ],

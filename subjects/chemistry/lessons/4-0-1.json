@@ -59,20 +59,20 @@
   {
    "q": "Montreal Protocol (1987) targeted:",
    "o": [
-    "CFCs",
-    "CO2",
+    "Lead",
     "Methane",
-    "Lead"
+    "CFCs",
+    "CO2"
    ],
-   "a": 0,
+   "a": 2,
    "w": "Ozone-depleting substances."
   },
   {
    "q": "Ozone layer absorbs:",
    "o": [
     "UV light",
-    "Visible light",
     "Infrared",
+    "Visible light",
     "Radio waves"
    ],
    "a": 0,
@@ -81,89 +81,89 @@
   {
    "q": "Which is NOT a greenhouse gas?",
    "o": [
-    "Argon",
+    "N2O",
     "CO2",
-    "CH4",
-    "N2O"
+    "Argon",
+    "CH4"
    ],
-   "a": 0,
+   "a": 2,
    "w": "Argon is inert, a monatomic gas."
   },
   {
    "q": "Mass of CO2 from 6 g carbon?",
    "o": [
-    "22 g",
-    "44 g",
     "12 g",
-    "6 g"
+    "44 g",
+    "6 g",
+    "22 g"
    ],
-   "a": 0,
+   "a": 3,
    "w": "6/12 x 44."
   },
   {
    "q": "Normal unpolluted rain has pH about:",
    "o": [
-    "7",
-    "3",
     "5.6",
-    "9"
+    "9",
+    "3",
+    "7"
    ],
-   "a": 2,
+   "a": 0,
    "w": "Dissolved CO2."
   },
   {
    "q": "High BOD indicates:",
    "o": [
-    "Polluted water",
     "Pure water",
     "Hard water",
+    "Polluted water",
     "Salty water"
    ],
-   "a": 0,
+   "a": 2,
    "w": "Much oxygen needed."
   },
   {
    "q": "Eutrophication is caused by excess:",
    "o": [
+    "Chlorine",
     "Oxygen",
     "Nitrates and phosphates",
-    "Chlorine",
     "Arsenic"
    ],
-   "a": 1,
+   "a": 2,
    "w": "Algal bloom."
   },
   {
    "q": "SO2 in air eventually forms:",
    "o": [
-    "Sulphuric acid",
     "Ozone",
-    "Methane",
-    "Ammonia"
+    "Ammonia",
+    "Sulphuric acid",
+    "Methane"
    ],
-   "a": 0,
+   "a": 2,
    "w": "Acid rain."
   },
   {
    "q": "India's National Clean Air Programme began in:",
    "o": [
-    "1986",
-    "2005",
     "2023",
-    "2019"
+    "2019",
+    "1986",
+    "2005"
    ],
-   "a": 3,
+   "a": 1,
    "w": "Targets PM2.5 and PM10."
   },
   {
    "q": "Ocean acidification occurs as:",
    "o": [
-    "CO2 forms carbonic acid in seawater",
     "Oil spills",
     "Sulphur burns",
+    "CO2 forms carbonic acid in seawater",
     "Salt dissolves"
    ],
-   "a": 0,
+   "a": 2,
    "w": "CO2 + H2O ⇌ H2CO3."
   }
  ],

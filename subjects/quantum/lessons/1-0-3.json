@@ -65,21 +65,21 @@
   {
    "q": "Narrowing a particle's position makes its momentum:",
    "o": [
-    "More spread out",
     "More sharp",
+    "More spread out",
     "Zero",
     "Unchanged"
    ],
-   "a": 0,
+   "a": 1,
    "w": "Narrow waves need many wavelengths."
   },
   {
    "q": "Who proved the exact form Δx Δp ≥ ħ/2?",
    "o": [
-    "Faraday",
+    "Dirac",
     "Earl Kennard",
-    "Planck",
-    "Dirac"
+    "Faraday",
+    "Planck"
    ],
    "a": 1,
    "w": "In 1927, after Heisenberg's idea."
@@ -88,9 +88,9 @@
    "q": "Which is true about the observer effect?",
    "o": [
     "It is different from uncertainty",
-    "Observers cause uncertainty",
+    "Uncertainty needs a human",
     "They are identical",
-    "Uncertainty needs a human"
+    "Observers cause uncertainty"
    ],
    "a": 0,
    "w": "Uncertainty exists without measuring."
@@ -98,12 +98,12 @@
   {
    "q": "Why do atoms not collapse?",
    "o": [
+    "Pinning the electron near the nucleus raises its momentum and energy",
     "Electrons are heavier",
     "Nuclei repel them",
-    "Atoms are made of light",
-    "Pinning the electron near the nucleus raises its momentum and energy"
+    "Atoms are made of light"
    ],
-   "a": 3,
+   "a": 0,
    "w": "Uncertainty gives a size to the atom."
   },
   {
@@ -120,12 +120,12 @@
   {
    "q": "LIGO uses squeezed light to:",
    "o": [
-    "Break uncertainty",
-    "Reduce noise in one property at the cost of the other",
+    "Make light faster",
     "Remove gravity",
-    "Make light faster"
+    "Break uncertainty",
+    "Reduce noise in one property at the cost of the other"
    ],
-   "a": 1,
+   "a": 3,
    "w": "It exploits the trade-off."
   },
   {
@@ -133,8 +133,8 @@
    "o": [
     "A narrower slit spreads the beam more",
     "A wider slit spreads it more",
-    "Perfect focus",
-    "No spreading"
+    "No spreading",
+    "Perfect focus"
    ],
    "a": 0,
    "w": "Narrow position means wide momentum."
@@ -142,21 +142,21 @@
   {
    "q": "LIGO-India is planned at:",
    "o": [
+    "Aundha, Hingoli, Maharashtra",
     "Jaipur",
     "Shillong",
-    "Aundha, Hingoli, Maharashtra",
     "Chennai"
    ],
-   "a": 2,
+   "a": 0,
    "w": "Cabinet approval in April 2023."
   },
   {
    "q": "The energy-time form says short-lived states have:",
    "o": [
-    "Infinite energy",
     "Zero energy",
+    "Exact energy",
     "Fuzzy energy",
-    "Exact energy"
+    "Infinite energy"
    ],
    "a": 2,
    "w": "This sets natural linewidths."

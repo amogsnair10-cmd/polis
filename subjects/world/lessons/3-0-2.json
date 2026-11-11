@@ -54,23 +54,23 @@
   {
    "q": "Tang capital...",
    "o": [
-    "Kaifeng",
-    "Nanjing",
     "Chang'an",
-    "Beijing"
+    "Kaifeng",
+    "Beijing",
+    "Nanjing"
    ],
-   "a": 2,
+   "a": 0,
    "w": "Perhaps a million people."
   },
   {
    "q": "China's only woman emperor...",
    "o": [
-    "Wu Zetian",
     "Cixi",
+    "Wu Zetian",
     "Empress Lu",
     "Li Bai"
    ],
-   "a": 0,
+   "a": 1,
    "w": "Reigned 690-705."
   },
   {
@@ -87,9 +87,9 @@
   {
    "q": "The oldest dated printed book...",
    "o": [
-    "Gutenberg Bible",
-    "Diamond Sutra (868)",
     "The Analects",
+    "Diamond Sutra (868)",
+    "Gutenberg Bible",
     "The Vedas"
    ],
    "a": 1,
@@ -98,20 +98,20 @@
   {
    "q": "Movable type was made by...",
    "o": [
-    "Bi Sheng",
     "Gutenberg",
-    "Cai Lun",
-    "Zhang Heng"
+    "Bi Sheng",
+    "Zhang Heng",
+    "Cai Lun"
    ],
-   "a": 0,
+   "a": 1,
    "w": "About 1040."
   },
   {
    "q": "Song paper money first appeared in...",
    "o": [
-    "Beijing",
-    "Canton",
     "Delhi",
+    "Canton",
+    "Beijing",
     "Sichuan"
    ],
    "a": 3,
@@ -120,45 +120,45 @@
   {
    "q": "Xuanzang studied at...",
    "o": [
-    "Taxila",
-    "Nalanda",
     "Varanasi",
-    "Ujjain"
+    "Ujjain",
+    "Taxila",
+    "Nalanda"
    ],
-   "a": 1,
+   "a": 3,
    "w": "7th-century India."
   },
   {
    "q": "Which king met Xuanzang?",
    "o": [
-    "Ashoka",
     "Kanishka",
-    "Harsha",
-    "Chandragupta"
+    "Ashoka",
+    "Chandragupta",
+    "Harsha"
    ],
-   "a": 2,
+   "a": 3,
    "w": "Of Kannauj."
   },
   {
    "q": "Rajendra I sent a naval expedition to...",
    "o": [
-    "Japan",
     "Egypt",
-    "Persia",
-    "Srivijaya"
+    "Japan",
+    "Srivijaya",
+    "Persia"
    ],
-   "a": 3,
+   "a": 2,
    "w": "In 1025."
   },
   {
    "q": "Gunpowder was found by...",
    "o": [
-    "Alchemists",
-    "Soldiers",
     "Poets",
-    "Printers"
+    "Printers",
+    "Alchemists",
+    "Soldiers"
    ],
-   "a": 0,
+   "a": 2,
    "w": "They sought medicines."
   }
  ],

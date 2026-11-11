@@ -59,10 +59,10 @@
   {
    "q": "The Prayaga Prashasti was composed by",
    "o": [
+    "Banabhatta",
     "Kalidasa",
-    "Ravikirti",
     "Harishena",
-    "Banabhatta"
+    "Ravikirti"
    ],
    "a": 2,
    "w": "On the Allahabad Pillar."
@@ -70,75 +70,75 @@
   {
    "q": "Samudragupta is called the Napoleon of India by",
    "o": [
-    "R. C. Majumdar",
-    "V. A. Smith",
     "R. S. Sharma",
-    "Romila Thapar"
+    "Romila Thapar",
+    "R. C. Majumdar",
+    "V. A. Smith"
    ],
-   "a": 1,
+   "a": 3,
    "w": "A British historian."
   },
   {
    "q": "The Chinese pilgrim Fa-Hien visited during the reign of",
    "o": [
-    "Chandragupta II",
-    "Samudragupta",
     "Skandagupta",
-    "Harsha"
+    "Harsha",
+    "Samudragupta",
+    "Chandragupta II"
    ],
-   "a": 0,
+   "a": 3,
    "w": "About 399 to 414 CE."
   },
   {
    "q": "The Gupta king who defeated the Shakas was",
    "o": [
-    "Chandragupta I",
     "Kumaragupta I",
     "Skandagupta",
-    "Chandragupta II"
+    "Chandragupta II",
+    "Chandragupta I"
    ],
-   "a": 3,
+   "a": 2,
    "w": "He took Western India."
   },
   {
    "q": "Nalanda was founded under",
    "o": [
-    "Chandragupta II",
-    "Harsha",
     "Kumaragupta I",
-    "Dharmapala"
+    "Dharmapala",
+    "Harsha",
+    "Chandragupta II"
    ],
-   "a": 2,
+   "a": 0,
    "w": "It became a major centre of learning."
   },
   {
    "q": "The Aryabhatiya was composed in",
    "o": [
-    "320 CE",
-    "499 CE",
     "78 CE",
-    "606 CE"
+    "320 CE",
+    "606 CE",
+    "499 CE"
    ],
-   "a": 1,
+   "a": 3,
    "w": "By Aryabhata."
   },
   {
    "q": "The Hunas were repelled by",
    "o": [
-    "Skandagupta",
-    "Samudragupta",
     "Kumaragupta",
-    "Chandragupta I"
+    "Chandragupta I",
+    "Skandagupta",
+    "Samudragupta"
    ],
-   "a": 0,
+   "a": 2,
    "w": "He also repaired the Sudarshana lake."
   },
   {
    "q": "The Gupta provincial unit was",
    "o": [
-    "Rashtra",
     "Ahara",
     "Mandalam",
+    "Rashtra",
     "Bhukti"
    ],
    "a": 3,
@@ -147,23 +147,23 @@
   {
    "q": "The Deogarh temple represents",
    "o": [
-    "Chola temple",
     "Mughal tomb",
     "Gupta temple architecture",
-    "Buddhist stupa"
+    "Buddhist stupa",
+    "Chola temple"
    ],
-   "a": 2,
+   "a": 1,
    "w": "It is a Dashavatara temple."
   },
   {
    "q": "R. S. Sharma argued that Gupta times saw",
    "o": [
-    "A rise in urban trade",
     "The start of feudal features",
+    "A rise in urban trade",
     "A fall in land grants",
     "The spread of money economy"
    ],
-   "a": 1,
+   "a": 0,
    "w": "Land grants and decline of trade."
   }
  ],

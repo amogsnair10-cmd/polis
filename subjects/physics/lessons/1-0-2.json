@@ -59,23 +59,23 @@
   {
    "q": "Who coined the word entropy in 1865?",
    "o": [
-    "Boltzmann",
-    "Clausius",
     "Carnot",
-    "Kelvin"
+    "Boltzmann",
+    "Kelvin",
+    "Clausius"
    ],
-   "a": 1,
+   "a": 3,
    "w": "Rudolf Clausius."
   },
   {
    "q": "Boltzmann's formula for entropy is",
    "o": [
-    "S = k ln W",
     "S = mc squared",
     "S = Q x T",
-    "S = PV"
+    "S = PV",
+    "S = k ln W"
    ],
-   "a": 0,
+   "a": 3,
    "w": "S = k ln W."
   },
   {
@@ -104,9 +104,9 @@
    "q": "Which process has increasing entropy?",
    "o": [
     "Ice melting in warm room",
+    "A gas gathering in a corner",
     "Water spontaneously freezing in warm room",
-    "Shuffled cards returning to order",
-    "A gas gathering in a corner"
+    "Shuffled cards returning to order"
    ],
    "a": 0,
    "w": "Energy spreads out."
@@ -114,45 +114,45 @@
   {
    "q": "100 molecules in a box: chance all are in the left half is",
    "o": [
-    "1/2",
-    "1/100",
     "(1/2) to the power 100",
-    "0"
+    "1/2",
+    "0",
+    "1/100"
    ],
-   "a": 2,
+   "a": 0,
    "w": "Each is left with probability 1/2."
   },
   {
    "q": "The 'arrow of time' is linked to",
    "o": [
-    "Gravity",
     "The increase of entropy",
+    "Gravity",
     "The speed of light",
     "Magnetism"
    ],
-   "a": 1,
+   "a": 0,
    "w": "Entropy gives time a direction."
   },
   {
    "q": "A refrigerator makes ice. This is consistent with the second law because",
    "o": [
     "The law is wrong",
-    "Entropy increases elsewhere by more",
     "Ice has no entropy",
-    "Fridges are isolated"
+    "Fridges are isolated",
+    "Entropy increases elsewhere by more"
    ],
-   "a": 1,
+   "a": 3,
    "w": "Total entropy rises."
   },
   {
    "q": "Which Indian physicist's counting of photon states led to bosons?",
    "o": [
-    "C. V. Raman",
-    "S. N. Bose",
     "M. N. Saha",
-    "S. Chandrasekhar"
+    "S. Chandrasekhar",
+    "C. V. Raman",
+    "S. N. Bose"
    ],
-   "a": 1,
+   "a": 3,
    "w": "Bose, 1924."
   },
   {

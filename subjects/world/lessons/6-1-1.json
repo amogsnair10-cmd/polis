@@ -49,8 +49,8 @@
   {
    "q": "The UN began with how many members?",
    "o": [
-    "15",
     "101",
+    "15",
     "51",
     "193"
    ],
@@ -60,100 +60,100 @@
   {
    "q": "India's independence came in...",
    "o": [
-    "1947",
     "1945",
+    "1947",
     "1950",
     "1957"
    ],
-   "a": 0,
+   "a": 1,
    "w": "15 August."
   },
   {
    "q": "First sub-Saharan colony to become independent (1957)...",
    "o": [
-    "Kenya",
-    "Nigeria",
     "Algeria",
-    "Ghana"
+    "Nigeria",
+    "Ghana",
+    "Kenya"
    ],
-   "a": 3,
+   "a": 2,
    "w": "Under Nkrumah."
   },
   {
    "q": "The 'Year of Africa' was...",
    "o": [
     "1947",
-    "1960",
     "1975",
-    "1989"
+    "1989",
+    "1960"
    ],
-   "a": 1,
+   "a": 3,
    "w": "17 states became independent."
   },
   {
    "q": "Dien Bien Phu was a French defeat in...",
    "o": [
-    "Vietnam, 1954",
-    "Algeria, 1962",
     "India, 1947",
-    "Egypt, 1956"
+    "Algeria, 1962",
+    "Egypt, 1956",
+    "Vietnam, 1954"
    ],
-   "a": 0,
+   "a": 3,
    "w": "By the Viet Minh."
   },
   {
    "q": "Suez crisis was in...",
    "o": [
+    "1956",
     "1947",
-    "1962",
     "1973",
-    "1956"
+    "1962"
    ],
-   "a": 3,
+   "a": 0,
    "w": "Egypt."
   },
   {
    "q": "UN Resolution 1514 was about...",
    "o": [
-    "Trade",
     "Ending colonialism",
     "Nuclear arms",
-    "Refugees"
+    "Refugees",
+    "Trade"
    ],
-   "a": 1,
+   "a": 0,
    "w": "1960."
   },
   {
    "q": "'Neocolonialism' was a term used by...",
    "o": [
-    "Nehru",
-    "Churchill",
     "Nkrumah",
+    "Churchill",
+    "Nehru",
     "Lenin"
    ],
-   "a": 2,
+   "a": 0,
    "w": "1965."
   },
   {
    "q": "Operation Vijay took...",
    "o": [
-    "Kashmir",
-    "Hyderabad",
     "Sikkim",
-    "Goa in 1961"
+    "Goa in 1961",
+    "Kashmir",
+    "Hyderabad"
    ],
-   "a": 3,
+   "a": 1,
    "w": "From Portugal."
   },
   {
    "q": "The last Portuguese colonies freed...",
    "o": [
-    "1974-75",
-    "1947",
     "1960",
-    "1989"
+    "1947",
+    "1989",
+    "1974-75"
    ],
-   "a": 0,
+   "a": 3,
    "w": "After the Carnation Revolution."
   }
  ],

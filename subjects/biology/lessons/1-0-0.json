@@ -60,9 +60,9 @@
    "q": "Mendel's work was rediscovered in:",
    "o": [
     "1900",
-    "1953",
     "1910",
-    "1866"
+    "1866",
+    "1953"
    ],
    "a": 0,
    "w": "De Vries, Correns, Tschermak."
@@ -71,9 +71,9 @@
    "q": "Tt x Tt gives phenotype ratio:",
    "o": [
     "1:1",
-    "1:2:1",
+    "9:3:3:1",
     "3:1",
-    "9:3:3:1"
+    "1:2:1"
    ],
    "a": 2,
    "w": "3 tall : 1 short."
@@ -104,9 +104,9 @@
    "q": "Blood group AB shows:",
    "o": [
     "Codominance",
-    "Mutation",
+    "Dominance",
     "Recessiveness",
-    "Dominance"
+    "Mutation"
    ],
    "a": 0,
    "w": "Both alleles expressed."
@@ -114,10 +114,10 @@
   {
    "q": "A test cross uses:",
    "o": [
+    "Heterozygote",
     "Any",
-    "Homozygous dominant",
     "Homozygous recessive",
-    "Heterozygote"
+    "Homozygous dominant"
    ],
    "a": 2,
    "w": "tt reveals genotype."
@@ -125,10 +125,10 @@
   {
    "q": "Sex-linked genes were shown by:",
    "o": [
+    "Krebs",
     "Fisher",
-    "Mendel",
     "Morgan",
-    "Krebs"
+    "Mendel"
    ],
    "a": 2,
    "w": "Morgan, flies."
@@ -136,10 +136,10 @@
   {
    "q": "Segregation means:",
    "o": [
-    "Genes blend",
-    "Allele pairs separate into gametes",
     "Only dominant passes",
-    "Alleles mix permanently"
+    "Allele pairs separate into gametes",
+    "Alleles mix permanently",
+    "Genes blend"
    ],
    "a": 1,
    "w": "Pairs separate."
@@ -148,8 +148,8 @@
    "q": "Mendel studied:",
    "o": [
     "Fruit flies",
-    "Mice",
     "Maize",
+    "Mice",
     "Pea plants"
    ],
    "a": 3,

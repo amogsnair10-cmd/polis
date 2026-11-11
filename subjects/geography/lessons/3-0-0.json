@@ -61,41 +61,41 @@
    "o": [
     "1999",
     "2013",
-    "2005",
-    "2019"
+    "2019",
+    "2005"
    ],
-   "a": 2,
+   "a": 3,
    "w": "It created NDMA."
   },
   {
    "q": "Risk is best described as",
    "o": [
-    "Hazard times vulnerability, reduced by capacity",
-    "Hazard alone",
     "Capacity alone",
-    "Exposure alone"
+    "Hazard alone",
+    "Exposure alone",
+    "Hazard times vulnerability, reduced by capacity"
    ],
-   "a": 0,
+   "a": 3,
    "w": "Risk grows with hazard and vulnerability and falls with capacity."
   },
   {
    "q": "Drought is a",
    "o": [
-    "Rapid-onset disaster",
-    "Man-made disaster",
     "Geological disaster",
-    "Slow-onset disaster"
+    "Slow-onset disaster",
+    "Rapid-onset disaster",
+    "Man-made disaster"
    ],
-   "a": 3,
+   "a": 1,
    "w": "It builds over weeks and months."
   },
   {
    "q": "About what share of India is exposed to drought?",
    "o": [
-    "12%",
-    "68%",
     "25%",
-    "5%"
+    "68%",
+    "5%",
+    "12%"
    ],
    "a": 1,
    "w": "Per government reports."
@@ -103,67 +103,67 @@
   {
    "q": "Bhopal gas tragedy occurred in",
    "o": [
+    "2001",
     "1975",
-    "1984",
     "1991",
-    "2001"
+    "1984"
    ],
-   "a": 1,
+   "a": 3,
    "w": "A methyl isocyanate leak."
   },
   {
    "q": "Which is a hydro-meteorological hazard?",
    "o": [
-    "Earthquake",
-    "Volcano",
+    "Cyclone",
     "Tsunami",
-    "Cyclone"
+    "Earthquake",
+    "Volcano"
    ],
-   "a": 3,
+   "a": 0,
    "w": "Related to weather and water."
   },
   {
    "q": "Chamoli disaster of 2021 was in",
    "o": [
-    "Uttarakhand",
-    "Himachal Pradesh",
     "Sikkim",
-    "Kerala"
+    "Kerala",
+    "Uttarakhand",
+    "Himachal Pradesh"
    ],
-   "a": 0,
+   "a": 2,
    "w": "A glacial and rock avalanche, with floods."
   },
   {
    "q": "Wayanad landslides occurred in",
    "o": [
-    "Karnataka (2018)",
-    "Assam (2020)",
     "Kerala (2024)",
+    "Assam (2020)",
+    "Karnataka (2018)",
     "Odisha (2019)"
    ],
-   "a": 2,
+   "a": 0,
    "w": "July 2024."
   },
   {
    "q": "Slow-onset disasters include",
    "o": [
-    "Earthquake",
-    "Flash flood",
     "Tsunami",
-    "Desertification"
+    "Desertification",
+    "Flash flood",
+    "Earthquake"
    ],
-   "a": 3,
+   "a": 1,
    "w": "Over years."
   },
   {
    "q": "Sendai Framework covers",
    "o": [
-    "2015 to 2030",
     "2005 to 2015",
-    "2000 to 2020",
-    "2020 to 2050"
+    "2015 to 2030",
+    "2020 to 2050",
+    "2000 to 2020"
    ],
-   "a": 0,
+   "a": 1,
    "w": "UN framework for disaster risk reduction."
   }
  ],

@@ -59,67 +59,67 @@
   {
    "q": "India's share of the world's freshwater is about",
    "o": [
-    "18%",
     "10%",
-    "1%",
-    "4%"
+    "18%",
+    "4%",
+    "1%"
    ],
-   "a": 3,
+   "a": 2,
    "w": "Though India has about 18% of world population."
   },
   {
    "q": "Water-stressed means per capita availability below",
    "o": [
+    "2,500 cubic m",
     "1,000 cubic m",
-    "1,700 cubic m",
     "500 cubic m",
-    "2,500 cubic m"
+    "1,700 cubic m"
    ],
-   "a": 1,
+   "a": 3,
    "w": "Below 1,000 is scarcity."
   },
   {
    "q": "Which Article empowers Parliament on interstate river disputes?",
    "o": [
-    "246",
-    "262",
     "280",
-    "356"
+    "356",
+    "246",
+    "262"
    ],
-   "a": 1,
+   "a": 3,
    "w": "Article 262 and the 1956 Act."
   },
   {
    "q": "The first river-link project in the national plan to be cleared was",
    "o": [
-    "Mahanadi-Godavari",
-    "Par-Tapi-Narmada",
     "Brahmaputra-Ganga",
-    "Ken-Betwa"
+    "Ken-Betwa",
+    "Mahanadi-Godavari",
+    "Par-Tapi-Narmada"
    ],
-   "a": 3,
+   "a": 1,
    "w": "It benefits Bundelkhand."
   },
   {
    "q": "Tehri dam is on the",
    "o": [
-    "Bhagirathi",
     "Sutlej",
+    "Bhagirathi",
     "Mahanadi",
     "Narmada"
    ],
-   "a": 0,
+   "a": 1,
    "w": "It is the tallest dam in India."
   },
   {
    "q": "NWDA was set up in",
    "o": [
     "1950",
+    "2002",
     "1991",
-    "1982",
-    "2002"
+    "1982"
    ],
-   "a": 2,
+   "a": 3,
    "w": "National Water Development Agency."
   },
   {
@@ -136,23 +136,23 @@
   {
    "q": "Largest user of freshwater in India is",
    "o": [
+    "Domestic use",
     "Agriculture",
     "Industry",
-    "Domestic use",
     "Power"
    ],
-   "a": 0,
+   "a": 1,
    "w": "About 80%."
   },
   {
    "q": "Jal Jeevan Mission aims to provide",
    "o": [
-    "Free irrigation pumps",
     "Canal dredging",
-    "Tap water to rural homes",
-    "Dams on every river"
+    "Dams on every river",
+    "Free irrigation pumps",
+    "Tap water to rural homes"
    ],
-   "a": 2,
+   "a": 3,
    "w": "Launched in 2019."
   },
   {
@@ -160,8 +160,8 @@
    "o": [
     "2007",
     "1991",
-    "2013",
-    "2021"
+    "2021",
+    "2013"
    ],
    "a": 0,
    "w": "The Supreme Court modified shares in 2018."

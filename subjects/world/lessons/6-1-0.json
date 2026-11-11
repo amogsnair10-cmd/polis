@@ -49,42 +49,42 @@
   {
    "q": "The Cuban Missile Crisis was in...",
    "o": [
-    "1948",
     "1956",
     "1962",
-    "1983"
+    "1983",
+    "1948"
    ],
-   "a": 2,
+   "a": 1,
    "w": "October."
   },
   {
    "q": "NATO was founded in...",
    "o": [
-    "1949",
     "1945",
-    "1955",
-    "1961"
+    "1949",
+    "1961",
+    "1955"
    ],
-   "a": 0,
+   "a": 1,
    "w": "Western alliance."
   },
   {
    "q": "The Warsaw Pact was formed in...",
    "o": [
-    "1949",
-    "1962",
     "1989",
-    "1955"
+    "1949",
+    "1955",
+    "1962"
    ],
-   "a": 3,
+   "a": 2,
    "w": "Soviet bloc."
   },
   {
    "q": "The Berlin Wall was built in...",
    "o": [
-    "1945",
-    "1961",
     "1989",
+    "1961",
+    "1945",
     "1948"
    ],
    "a": 1,
@@ -94,9 +94,9 @@
    "q": "MAD stands for...",
    "o": [
     "Mutual Assured Destruction",
+    "Mutual Arms Decline",
     "Military Alliance Deal",
-    "Major Atomic Defence",
-    "Mutual Arms Decline"
+    "Major Atomic Defence"
    ],
    "a": 0,
    "w": "A deterrence idea."
@@ -104,54 +104,54 @@
   {
    "q": "The Truman Doctrine was in...",
    "o": [
-    "1962",
-    "1989",
+    "1947",
     "1955",
-    "1947"
+    "1962",
+    "1989"
    ],
-   "a": 3,
+   "a": 0,
    "w": "Aid to Greece and Turkey."
   },
   {
    "q": "A secret part of the Cuba deal involved...",
    "o": [
+    "India",
     "Berlin",
     "US missiles in Turkey",
-    "Vietnam",
-    "India"
+    "Vietnam"
    ],
-   "a": 1,
+   "a": 2,
    "w": "Withdrawn later."
   },
   {
    "q": "The first NAM summit was in...",
    "o": [
-    "Delhi, 1947",
     "Cairo, 1970",
     "Belgrade, 1961",
-    "Bandung, 1955"
+    "Bandung, 1955",
+    "Delhi, 1947"
    ],
-   "a": 2,
+   "a": 1,
    "w": "Bandung preceded it."
   },
   {
    "q": "India's first nuclear test was in...",
    "o": [
+    "1974",
     "1962",
-    "1998",
     "1947",
-    "1974"
+    "1998"
    ],
-   "a": 3,
+   "a": 0,
    "w": "Smiling Buddha."
   },
   {
    "q": "The Indo-Soviet Treaty was in...",
    "o": [
     "1971",
-    "1955",
+    "1991",
     "1962",
-    "1991"
+    "1955"
    ],
    "a": 0,
    "w": "Friendship treaty."

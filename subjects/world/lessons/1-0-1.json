@@ -54,8 +54,8 @@
   {
    "q": "The Nile flooded each...",
    "o": [
-    "Winter",
     "Spring only",
+    "Winter",
     "Summer",
     "Never"
    ],
@@ -66,8 +66,8 @@
    "q": "Who built the first pyramid?",
    "o": [
     "Imhotep for Djoser",
-    "Khufu himself",
     "Cleopatra",
+    "Khufu himself",
     "Tutankhamun"
    ],
    "a": 0,
@@ -77,74 +77,74 @@
    "q": "Giza's pyramid builders were mostly...",
    "o": [
     "Hebrew slaves",
-    "Greek soldiers",
+    "Paid and fed workers",
     "Mongols",
-    "Paid and fed workers"
+    "Greek soldiers"
    ],
-   "a": 3,
+   "a": 1,
    "w": "Archaeology at the workers' town shows this."
   },
   {
    "q": "Which goddess's feather weighed the heart?",
    "o": [
-    "Isis",
-    "Ma'at",
     "Inanna",
-    "Hera"
+    "Hera",
+    "Ma'at",
+    "Isis"
    ],
-   "a": 1,
+   "a": 2,
    "w": "Truth and order."
   },
   {
    "q": "Who found Tut's tomb in 1922?",
    "o": [
-    "Howard Carter",
+    "Schliemann",
     "Champollion",
-    "Napoleon",
-    "Schliemann"
+    "Howard Carter",
+    "Napoleon"
    ],
-   "a": 0,
+   "a": 2,
    "w": "With Lord Carnarvon's funding."
   },
   {
    "q": "The Rosetta Stone was decoded by...",
    "o": [
-    "Carter",
-    "Imhotep",
     "Herodotus",
-    "Champollion"
+    "Imhotep",
+    "Champollion",
+    "Carter"
    ],
-   "a": 3,
+   "a": 2,
    "w": "In 1822."
   },
   {
    "q": "Hatshepsut was...",
    "o": [
-    "A Roman consul",
     "A woman who ruled as king",
     "A Persian queen",
-    "A priest"
+    "A priest",
+    "A Roman consul"
    ],
-   "a": 1,
+   "a": 0,
    "w": "Around 1479-1458 BCE."
   },
   {
    "q": "Cleopatra lived...",
    "o": [
     "Before the pyramids",
-    "At the same time as Khufu",
     "Closer in time to us than to the Great Pyramid",
+    "At the same time as Khufu",
     "In the Stone Age"
    ],
-   "a": 2,
+   "a": 1,
    "w": "2,500 years after Khufu, 2,000 before the Moon landing."
   },
   {
    "q": "Which Indian port appears in a famous papyrus?",
    "o": [
     "Surat",
-    "Kolkata",
     "Mumbai",
+    "Kolkata",
     "Muziris"
    ],
    "a": 3,
@@ -153,12 +153,12 @@
   {
    "q": "Ashoka's 'Turamaya' is usually identified as...",
    "o": [
-    "Ptolemy II",
     "Alexander",
+    "Ptolemy II",
     "Cleopatra",
     "Ramesses"
    ],
-   "a": 0,
+   "a": 1,
    "w": "Rock Edict XIII."
   }
  ],

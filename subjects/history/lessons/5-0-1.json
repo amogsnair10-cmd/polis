@@ -60,8 +60,8 @@
    "q": "The American Declaration of Independence was drafted mainly by",
    "o": [
     "Thomas Jefferson",
-    "George Washington",
     "Benjamin Franklin",
+    "George Washington",
     "John Adams"
    ],
    "a": 0,
@@ -70,65 +70,65 @@
   {
    "q": "The Boston Tea Party was in",
    "o": [
-    "1765",
     "1776",
     "1783",
-    "1773"
+    "1773",
+    "1765"
    ],
-   "a": 3,
+   "a": 2,
    "w": "Protest against the Tea Act."
   },
   {
    "q": "The war ended with the Treaty of Paris in",
    "o": [
-    "1776",
+    "1791",
     "1787",
-    "1783",
-    "1791"
+    "1776",
+    "1783"
    ],
-   "a": 2,
+   "a": 3,
    "w": "Britain recognised the USA."
   },
   {
    "q": "The US Bill of Rights is",
    "o": [
-    "The Declaration of Independence",
-    "The first ten amendments",
     "The Preamble",
-    "Federalist Papers"
+    "The Declaration of Independence",
+    "Federalist Papers",
+    "The first ten amendments"
    ],
-   "a": 1,
+   "a": 3,
    "w": "Ratified in 1791."
   },
   {
    "q": "The French Revolution began in",
    "o": [
-    "1789",
     "1776",
     "1793",
-    "1804"
+    "1804",
+    "1789"
    ],
-   "a": 0,
+   "a": 3,
    "w": "With the Estates-General and the fall of the Bastille."
   },
   {
    "q": "Who wrote The Social Contract (1762)?",
    "o": [
-    "Voltaire",
-    "Montesquieu",
+    "Rousseau",
     "Locke",
-    "Rousseau"
+    "Montesquieu",
+    "Voltaire"
    ],
-   "a": 3,
+   "a": 0,
    "w": "Popular sovereignty."
   },
   {
    "q": "The Reign of Terror was led by",
    "o": [
-    "Danton",
+    "Lafayette",
     "Mirabeau",
     "Robespierre",
-    "Lafayette"
+    "Danton"
    ],
    "a": 2,
    "w": "Through the Committee of Public Safety."
@@ -137,33 +137,33 @@
    "q": "Napoleon’s Civil Code was issued in",
    "o": [
     "1789",
-    "1804",
     "1799",
-    "1815"
+    "1815",
+    "1804"
    ],
-   "a": 1,
+   "a": 3,
    "w": "It spread legal equality."
   },
   {
    "q": "The Congress of Vienna (1815) was dominated by",
    "o": [
-    "Metternich",
     "Bismarck",
+    "Napoleon",
     "Cavour",
-    "Napoleon"
+    "Metternich"
    ],
-   "a": 0,
+   "a": 3,
    "w": "To restore the old order."
   },
   {
    "q": "Judicial review in the USA was established in",
    "o": [
     "Dred Scott (1857)",
-    "Brown v. Board (1954)",
     "Roe v. Wade (1973)",
-    "Marbury v. Madison (1803)"
+    "Marbury v. Madison (1803)",
+    "Brown v. Board (1954)"
    ],
-   "a": 3,
+   "a": 2,
    "w": "Chief Justice Marshall."
   }
  ],

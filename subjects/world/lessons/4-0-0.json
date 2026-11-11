@@ -54,89 +54,89 @@
   {
    "q": "The Florentine dome was by...",
    "o": [
-    "Michelangelo",
     "Leonardo",
-    "Brunelleschi",
-    "Raphael"
+    "Michelangelo",
+    "Raphael",
+    "Brunelleschi"
    ],
-   "a": 2,
+   "a": 3,
    "w": "Finished in 1436."
   },
   {
    "q": "The ruling banking family of Florence...",
    "o": [
-    "Medici",
+    "Sforza",
     "Borgia",
     "Habsburg",
-    "Sforza"
+    "Medici"
    ],
-   "a": 0,
+   "a": 3,
    "w": "From 1434."
   },
   {
    "q": "The Renaissance means...",
    "o": [
-    "Revolt",
+    "Rebirth",
     "Reform",
-    "Rest",
-    "Rebirth"
+    "Revolt",
+    "Rest"
    ],
-   "a": 3,
+   "a": 0,
    "w": "From Italian rinascita."
   },
   {
    "q": "Who popularised the term in 1860?",
    "o": [
-    "Vasari",
-    "Jacob Burckhardt",
     "Petrarch",
-    "Erasmus"
+    "Vasari",
+    "Erasmus",
+    "Jacob Burckhardt"
    ],
-   "a": 1,
+   "a": 3,
    "w": "Swiss historian."
   },
   {
    "q": "David was carved by...",
    "o": [
-    "Michelangelo",
     "Leonardo",
     "Donatello",
+    "Michelangelo",
     "Botticelli"
    ],
-   "a": 0,
+   "a": 2,
    "w": "1501-04."
   },
   {
    "q": "The Prince was written in...",
    "o": [
-    "1453",
-    "1517",
     "1600",
-    "1513"
+    "1513",
+    "1453",
+    "1517"
    ],
-   "a": 3,
+   "a": 1,
    "w": "By Machiavelli."
   },
   {
    "q": "Petrarch is linked to...",
    "o": [
-    "Gunpowder",
     "Humanism",
     "Printing",
-    "Calvinism"
+    "Calvinism",
+    "Gunpowder"
    ],
-   "a": 1,
+   "a": 0,
    "w": "Hunted lost Latin texts."
   },
   {
    "q": "Medieval educated people believed the earth was...",
    "o": [
-    "Flat",
-    "A cube",
     "Round",
+    "A cube",
+    "Flat",
     "A disc on a turtle"
    ],
-   "a": 2,
+   "a": 0,
    "w": "The flat-earth belief is a myth."
   },
   {
@@ -153,12 +153,12 @@
   {
    "q": "Akbar invited Jesuits to...",
    "o": [
-    "Fatehpur Sikri in 1580",
-    "Hampi in 1450",
+    "Plassey",
     "Goa in 1510",
-    "Plassey"
+    "Hampi in 1450",
+    "Fatehpur Sikri in 1580"
    ],
-   "a": 0,
+   "a": 3,
    "w": "Mughal court."
   }
  ],

@@ -54,41 +54,41 @@
   {
    "q": "The Truman Doctrine (1947) offered aid to",
    "o": [
-    "Poland and Hungary",
-    "Greece and Turkey",
+    "Cuba and Mexico",
     "China and Korea",
-    "Cuba and Mexico"
+    "Greece and Turkey",
+    "Poland and Hungary"
    ],
-   "a": 1,
+   "a": 2,
    "w": "To contain communism."
   },
   {
    "q": "The Marshall Plan was for",
    "o": [
-    "Economic recovery of Western Europe",
     "Military alliance",
     "Asian aid",
+    "Economic recovery of Western Europe",
     "Nuclear limits"
    ],
-   "a": 0,
+   "a": 2,
    "w": "It began in 1948."
   },
   {
    "q": "NATO was formed in",
    "o": [
+    "1949",
     "1945",
-    "1955",
     "1961",
-    "1949"
+    "1955"
    ],
-   "a": 3,
+   "a": 0,
    "w": "Warsaw Pact answered in 1955."
   },
   {
    "q": "The Berlin Wall was built in",
    "o": [
-    "1948",
     "1953",
+    "1948",
     "1961",
     "1989"
    ],
@@ -98,31 +98,31 @@
   {
    "q": "The Cuban Missile Crisis was in",
    "o": [
-    "1956",
-    "1962",
+    "1973",
     "1961",
-    "1973"
+    "1956",
+    "1962"
    ],
-   "a": 1,
+   "a": 3,
    "w": "Between Kennedy and Khrushchev."
   },
   {
    "q": "The Non-Aligned Movement’s first summit was held in",
    "o": [
-    "Belgrade, 1961",
     "Bandung, 1955",
     "Cairo, 1964",
-    "Delhi, 1983"
+    "Delhi, 1983",
+    "Belgrade, 1961"
    ],
-   "a": 0,
+   "a": 3,
    "w": "Tito, Nehru, Nasser, Nkrumah, Sukarno."
   },
   {
    "q": "Bandung Conference was held in",
    "o": [
     "1947",
-    "1961",
     "1971",
+    "1961",
     "1955"
    ],
    "a": 3,
@@ -131,31 +131,31 @@
   {
    "q": "Glasnost means",
    "o": [
-    "Restructuring",
     "Containment",
-    "Openness",
-    "Autonomy"
+    "Autonomy",
+    "Restructuring",
+    "Openness"
    ],
-   "a": 2,
+   "a": 3,
    "w": "Gorbachev’s policy."
   },
   {
    "q": "The Soviet Union formally dissolved in",
    "o": [
-    "November 1989",
-    "December 1991",
+    "March 1985",
     "August 1991",
-    "March 1985"
+    "December 1991",
+    "November 1989"
    ],
-   "a": 1,
+   "a": 2,
    "w": "On 26 December."
   },
   {
    "q": "Who wrote The Clash of Civilizations?",
    "o": [
     "Samuel Huntington",
-    "Francis Fukuyama",
     "John Gaddis",
+    "Francis Fukuyama",
     "George Kennan"
    ],
    "a": 0,

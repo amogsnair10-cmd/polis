@@ -54,23 +54,23 @@
   {
    "q": "The Polynesian triangle has corners at Hawaii, Aotearoa and...",
    "o": [
+    "Rapa Nui",
     "Fiji",
     "Samoa",
-    "Rapa Nui",
     "Tonga"
    ],
-   "a": 2,
+   "a": 0,
    "w": "Easter Island."
   },
   {
    "q": "Lapita is known for...",
    "o": [
+    "Writing",
     "Stamped pottery",
     "Metal swords",
-    "Writing",
     "Roads"
    ],
-   "a": 0,
+   "a": 1,
    "w": "A culture of the Pacific."
   },
   {
@@ -87,78 +87,78 @@
   {
    "q": "Hokule'a sailed in...",
    "o": [
-    "1492",
-    "1976",
+    "1250",
     "1947",
-    "1250"
+    "1492",
+    "1976"
    ],
-   "a": 1,
+   "a": 3,
    "w": "From Hawaii to Tahiti."
   },
   {
    "q": "Mau Piailug was from...",
    "o": [
-    "Satawal in Micronesia",
     "Hawaii",
-    "New Zealand",
-    "Fiji"
+    "Satawal in Micronesia",
+    "Fiji",
+    "New Zealand"
    ],
-   "a": 0,
+   "a": 1,
    "w": "He guided Hokule'a."
   },
   {
    "q": "The sweet potato originally came from...",
    "o": [
-    "India",
-    "New Zealand",
     "Madagascar",
-    "South America"
+    "India",
+    "South America",
+    "New Zealand"
    ],
-   "a": 3,
+   "a": 2,
    "w": "Evidence of contact."
   },
   {
    "q": "Kon-Tiki proved...",
    "o": [
-    "Polynesians came from Peru",
-    "A raft could drift from Peru",
+    "Polynesians sailed to India",
     "Polynesia was empty",
-    "Polynesians sailed to India"
+    "Polynesians came from Peru",
+    "A raft could drift from Peru"
    ],
-   "a": 1,
+   "a": 3,
    "w": "Not that settlement came from there."
   },
   {
    "q": "Moai are...",
    "o": [
     "Canoes",
-    "Tools",
     "Giant statues on Rapa Nui",
+    "Tools",
     "Songs"
    ],
-   "a": 2,
+   "a": 1,
    "w": "Easter Island."
   },
   {
    "q": "Aotearoa was settled about...",
    "o": [
-    "800 BCE",
+    "1250-1300 CE",
     "1800 CE",
-    "300 CE",
-    "1250-1300 CE"
+    "800 BCE",
+    "300 CE"
    ],
-   "a": 3,
+   "a": 0,
    "w": "Late in the Pacific story."
   },
   {
    "q": "Madagascar's language Malagasy belongs to the...",
    "o": [
-    "Austronesian family",
     "Bantu family",
     "Indo-European family",
+    "Austronesian family",
     "Dravidian family"
    ],
-   "a": 0,
+   "a": 2,
    "w": "Spoken by settlers from Southeast Asia."
   }
  ],

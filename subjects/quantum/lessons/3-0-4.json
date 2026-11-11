@@ -1,0 +1,179 @@
+{
+ "id": "3-0-4",
+ "title": "Quantum Gravity: The Unsolved Problem",
+ "emoji": "🕳️",
+ "cards": [
+  {
+   "tag": "Why this matters",
+   "h": "The biggest unsolved problem",
+   "b": "<p>Physics rests on two great theories. General relativity (Einstein, 1915) describes gravity and the cosmos. Quantum theory describes everything else. Each works superbly in its own domain, but they speak different languages and clash where both matter: inside black holes and at the instant of the Big Bang. No one yet has a tested theory of quantum gravity. Be careful with confident claims in this area.</p>"
+  },
+  {
+   "tag": "The clash",
+   "h": "Smooth versus lumpy",
+   "b": "<p>In relativity, spacetime is a smooth stretchy sheet that matter bends. In quantum theory, everything fluctuates and comes in lumps. Treat gravity like the other forces and the calculations return infinities that cannot be removed (the theory is \"non-renormalisable\"). So gravity cannot simply be added as a quantum field the way light was.</p><svg class=\"d\" viewBox=\"0 0 320 160\"><defs><marker id=\"m304\" viewBox=\"0 0 10 10\" refX=\"9\" refY=\"5\" markerWidth=\"6\" markerHeight=\"6\" orient=\"auto\"><path d=\"M0,0L10,5L0,10z\" fill=\"#5d6474\"/></marker></defs><rect x=\"5\" y=\"10\" width=\"140\" height=\"50\" rx=\"6\" fill=\"#dceaec\" stroke=\"#2f6f7a\"/><text x=\"75.0\" y=\"25.3\" font-size=\"10\" fill=\"#1d2433\" text-anchor=\"middle\">General relativity</text><text x=\"75.0\" y=\"38.3\" font-size=\"10\" fill=\"#1d2433\" text-anchor=\"middle\">gravity = curved</text><text x=\"75.0\" y=\"51.3\" font-size=\"10\" fill=\"#1d2433\" text-anchor=\"middle\">smooth spacetime</text><rect x=\"175\" y=\"10\" width=\"140\" height=\"50\" rx=\"6\" fill=\"#f1e4c6\" stroke=\"#a8792a\"/><text x=\"245.0\" y=\"25.3\" font-size=\"10\" fill=\"#1d2433\" text-anchor=\"middle\">Quantum theory</text><text x=\"245.0\" y=\"38.3\" font-size=\"10\" fill=\"#1d2433\" text-anchor=\"middle\">everything else =</text><text x=\"245.0\" y=\"51.3\" font-size=\"10\" fill=\"#1d2433\" text-anchor=\"middle\">quantised fields</text><rect x=\"70\" y=\"90\" width=\"180\" height=\"50\" rx=\"6\" fill=\"#f4dcd5\" stroke=\"#a3362a\"/><text x=\"160.0\" y=\"105.3\" font-size=\"10\" fill=\"#1d2433\" text-anchor=\"middle\">Need both: inside black holes</text><text x=\"160.0\" y=\"118.3\" font-size=\"10\" fill=\"#1d2433\" text-anchor=\"middle\">and at the Big Bang</text><text x=\"160.0\" y=\"131.3\" font-size=\"10\" fill=\"#1d2433\" text-anchor=\"middle\">(Planck scale, 10⁻³⁵ m)</text><line x1=\"75\" y1=\"62\" x2=\"120\" y2=\"88\" stroke=\"#5d6474\" stroke-width=\"1.5\" marker-end=\"url(#m304)\"/><line x1=\"245\" y1=\"62\" x2=\"200\" y2=\"88\" stroke=\"#5d6474\" stroke-width=\"1.5\" marker-end=\"url(#m304)\"/></svg>"
+  },
+  {
+   "tag": "The scale",
+   "h": "Where it matters",
+   "b": "<p>Quantum gravity should matter at the Planck length, about 1.6 × 10⁻³⁵ m, and the Planck time, about 5 × 10⁻⁴⁴ s: scales named after Max Planck. This is about 10²⁰ times smaller than a proton. No accelerator can come near the energy needed. That is why there is so little data and so much debate.</p>"
+  },
+  {
+   "tag": "Black holes",
+   "h": "Hawking's hint",
+   "b": "<p>In 1974 Stephen Hawking combined quantum fields with a black hole's horizon and found they glow faintly: Hawking radiation. Jacob Bekenstein (1972-73) had argued black holes have entropy proportional to horizon area. The Bekenstein-Hawking entropy hints that gravity, heat and quantum theory are linked. But radiation seems to lose the information of what fell in: the black hole information paradox, still debated. Hawking radiation has not been observed from a real black hole.</p>"
+  },
+  {
+   "tag": "Candidates",
+   "h": "The main attempts",
+   "b": "<ul><li><b>String theory:</b> particles are tiny vibrating strings; needs extra dimensions; includes a graviton naturally. No experimental support yet; related ideas gave the AdS/CFT duality (Maldacena, 1997).</li><li><b>Loop quantum gravity:</b> space itself comes in tiny grains (Rovelli, Smolin, Ashtekar). Also untested.</li><li><b>Others:</b> causal sets, asymptotic safety, emergent gravity.</li></ul><p>All remain unproven; opinions differ among experts.</p>"
+  },
+  {
+   "tag": "Testing",
+   "h": "Can we ever check?",
+   "b": "<p>Ideas include tiny delays in light from distant gamma-ray bursts, gravitational waves from the early universe, and tabletop experiments. In 2017 Sougato Bose and colleagues, and independently Chiara Marletto and Vlatko Vedral, proposed putting two tiny masses into superposition near each other and seeing if gravity entangles them. If it does, gravity must have a quantum nature. Such experiments are still under development.</p>"
+  },
+  {
+   "tag": "How we know",
+   "h": "What is solid",
+   "b": "<p>General relativity: Mercury's orbit, light bending (1919), gravitational waves (LIGO, 2015), black hole images (2019, 2022). Quantum theory: all the lessons so far. What is <i>not</i> known: whether gravity is quantum at all. Some physicists (e.g. Roger Penrose) suspect gravity may even cause collapse.</p>"
+  },
+  {
+   "tag": "Misconceptions",
+   "h": "Myths to drop",
+   "b": "<ul><li><b>\"String theory has been proved.\"</b> It has not.</li><li><b>\"Quantum gravity means anti-gravity.\"</b> No.</li><li><b>\"Black holes evaporate fast.\"</b> A solar-mass black hole would take about 10⁶⁷ years to evaporate by Hawking radiation.</li></ul>"
+  },
+  {
+   "tag": "Indian angle",
+   "h": "Raychaudhuri, Ashtekar, Sen, LIGO-India",
+   "b": "<p>A.K. Raychaudhuri (Kolkata, 1955) derived an equation about how matter focuses under gravity; it is a basis of the Penrose-Hawking singularity theorems. Abhay Ashtekar, born in India, is a founder of loop quantum gravity. Ashoke Sen (HRI Prayagraj, now ICTS Bengaluru) is a leading string theorist. Sougato Bose (UCL, India-born) proposed the entanglement test. LIGO-India (approved 2023) will add a detector to the gravitational-wave network.</p>"
+  },
+  {
+   "tag": "Recap",
+   "h": "Key takeaways and think-about-it",
+   "b": "<ul><li>General relativity and quantum theory conflict at the Planck scale.</li><li>Hawking radiation and black hole entropy hint at a link; the information paradox is open.</li><li>String theory and loop quantum gravity are untested; as of 2026 there is no accepted theory.</li></ul><div class=\"box\"><h4>Think about it</h4><ol><li>Why can we not just test quantum gravity in an accelerator?</li><li>What would it tell us if two tiny masses became entangled through gravity?</li></ol></div>",
+   "cls": "exam"
+  }
+ ],
+ "quiz": [
+  {
+   "q": "Why do general relativity and quantum theory clash?",
+   "o": [
+    "They use different units",
+    "Einstein disliked quantum theory",
+    "Gravity is too weak",
+    "One is smooth, the other quantised, and gravity gives uncontrollable infinities"
+   ],
+   "a": 3,
+   "w": "Quantising gravity naively fails."
+  },
+  {
+   "q": "The Planck length is about:",
+   "o": [
+    "10⁻¹⁰ m",
+    "10⁻⁵ m",
+    "10⁻³⁵ m",
+    "1 m"
+   ],
+   "a": 2,
+   "w": "1.6 × 10⁻³⁵ m."
+  },
+  {
+   "q": "Hawking radiation was predicted in:",
+   "o": [
+    "1964",
+    "1974",
+    "1915",
+    "2015"
+   ],
+   "a": 1,
+   "w": "By Stephen Hawking."
+  },
+  {
+   "q": "Who linked black hole entropy to horizon area?",
+   "o": [
+    "Dirac",
+    "Raman",
+    "Jacob Bekenstein",
+    "Bose"
+   ],
+   "a": 2,
+   "w": "In 1972-73."
+  },
+  {
+   "q": "Loop quantum gravity says:",
+   "o": [
+    "Space is a smooth sheet",
+    "Time is absolute",
+    "Space comes in tiny grains",
+    "Gravity is a force like magnetism"
+   ],
+   "a": 2,
+   "w": "Rovelli, Smolin and Ashtekar."
+  },
+  {
+   "q": "Is string theory experimentally confirmed?",
+   "o": [
+    "Yes by Hubble",
+    "No",
+    "Yes at LIGO",
+    "Yes in 2012"
+   ],
+   "a": 1,
+   "w": "It remains untested."
+  },
+  {
+   "q": "The 2017 tabletop proposal tests whether:",
+   "o": [
+    "Gravity can entangle two masses",
+    "Atoms are stable",
+    "Planets tilt",
+    "Light slows down"
+   ],
+   "a": 0,
+   "w": "Bose et al. and Marletto and Vedral."
+  },
+  {
+   "q": "The black hole information paradox concerns:",
+   "o": [
+    "Black hole colour",
+    "Dark matter",
+    "Whether information is lost in Hawking radiation",
+    "Star births"
+   ],
+   "a": 2,
+   "w": "It remains open."
+  },
+  {
+   "q": "A.K. Raychaudhuri's equation (1955) underlies:",
+   "o": [
+    "QKD",
+    "Laser theory",
+    "Atomic clocks",
+    "Singularity theorems"
+   ],
+   "a": 3,
+   "w": "Used by Penrose and Hawking."
+  },
+  {
+   "q": "LIGO detected gravitational waves in:",
+   "o": [
+    "2015",
+    "1974",
+    "1919",
+    "2022"
+   ],
+   "a": 0,
+   "w": "First detection announced in 2016."
+  }
+ ],
+ "sources": [
+  "Hawking 1974",
+  "Bekenstein 1973",
+  "Maldacena 1997",
+  "Bose et al. 2017",
+  "Marletto and Vedral 2017",
+  "Raychaudhuri 1955"
+ ],
+ "verified": "2026-11-11"
+}

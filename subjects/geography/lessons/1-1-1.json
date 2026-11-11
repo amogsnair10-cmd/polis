@@ -64,31 +64,31 @@
   {
    "q": "The most widespread soil in India is",
    "o": [
-    "Alluvial",
-    "Black",
     "Red",
-    "Laterite"
+    "Alluvial",
+    "Laterite",
+    "Black"
    ],
-   "a": 0,
+   "a": 1,
    "w": "It covers about 40% of the land."
   },
   {
    "q": "Regur soil is suitable for",
    "o": [
     "Tea",
-    "Rice in hills",
     "Coffee",
-    "Cotton"
+    "Cotton",
+    "Rice in hills"
    ],
-   "a": 3,
+   "a": 2,
    "w": "Black soil retains moisture and suits cotton."
   },
   {
    "q": "Red soil gets its colour from",
    "o": [
-    "Humus",
-    "Iron oxide",
     "Lime",
+    "Iron oxide",
+    "Humus",
     "Calcium"
    ],
    "a": 1,
@@ -97,31 +97,31 @@
   {
    "q": "Reh and usar are",
    "o": [
-    "Peaty soils",
     "Saline soils",
     "Forest soils",
-    "Laterite soils"
+    "Laterite soils",
+    "Peaty soils"
    ],
-   "a": 1,
+   "a": 0,
    "w": "They are salt-affected."
   },
   {
    "q": "Forest types of India were classified by",
    "o": [
-    "Koppen",
-    "Davis",
     "Burrard",
-    "Champion and Seth"
+    "Koppen",
+    "Champion and Seth",
+    "Davis"
    ],
-   "a": 3,
+   "a": 2,
    "w": "Their 1968 scheme has 16 types."
   },
   {
    "q": "National Forest Policy 1988 target for forest area is",
    "o": [
     "33%",
-    "25%",
     "40%",
+    "25%",
     "21%"
    ],
    "a": 0,
@@ -130,12 +130,12 @@
   {
    "q": "Which state has the largest mangrove cover?",
    "o": [
-    "Gujarat",
-    "Odisha",
     "West Bengal",
-    "Andhra Pradesh"
+    "Andhra Pradesh",
+    "Gujarat",
+    "Odisha"
    ],
-   "a": 2,
+   "a": 0,
    "w": "The Sundarbans dominate."
   },
   {
@@ -143,28 +143,28 @@
    "o": [
     "Mahogany",
     "Deodar",
-    "Acacia",
-    "Teak"
+    "Teak",
+    "Acacia"
    ],
-   "a": 3,
+   "a": 2,
    "w": "Teak and sal are classic."
   },
   {
    "q": "Forest Rights Act was passed in",
    "o": [
-    "2006",
-    "1988",
     "2001",
-    "2013"
+    "1988",
+    "2013",
+    "2006"
    ],
-   "a": 0,
+   "a": 3,
    "w": "It recognises rights of forest-dwelling communities."
   },
   {
    "q": "Laterite soil is best for",
    "o": [
-    "Wheat",
     "Cotton",
+    "Wheat",
     "Cashew and coffee",
     "Jute"
    ],

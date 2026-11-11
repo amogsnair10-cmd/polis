@@ -61,8 +61,8 @@
    "o": [
     "1917",
     "1927",
-    "1905",
-    "1942"
+    "1942",
+    "1905"
    ],
    "a": 1,
    "w": "Margaret Cousins was a main founder."
@@ -72,8 +72,8 @@
    "o": [
     "INA",
     "Ghadar Party",
-    "HSRA",
-    "Congress Seva Dal"
+    "Congress Seva Dal",
+    "HSRA"
    ],
    "a": 0,
    "w": "Led by Captain Lakshmi Sahgal."
@@ -82,11 +82,11 @@
    "q": "Aruna Asaf Ali is remembered for",
    "o": [
     "The Dandi march",
+    "Hoisting the flag at Gowalia Tank in 1942",
     "Leading the Ghadar",
-    "Founding the AIWC",
-    "Hoisting the flag at Gowalia Tank in 1942"
+    "Founding the AIWC"
    ],
-   "a": 3,
+   "a": 1,
    "w": "She also edited Inquilab."
   },
   {
@@ -94,19 +94,19 @@
    "o": [
     "Punjab",
     "Kerala",
-    "Naga region",
-    "Bengal"
+    "Bengal",
+    "Naga region"
    ],
-   "a": 2,
+   "a": 3,
    "w": "She led the Heraka movement."
   },
   {
    "q": "The Independent Labour Party was formed by",
    "o": [
-    "Periyar in 1925",
+    "Nehru in 1920",
     "Ambedkar in 1936",
-    "Phule in 1873",
-    "Nehru in 1920"
+    "Periyar in 1925",
+    "Phule in 1873"
    ],
    "a": 1,
    "w": "It won seats in 1937 Bombay elections."
@@ -114,32 +114,32 @@
   {
    "q": "Ad Dharm movement was led by",
    "o": [
-    "Mangoo Ram in Punjab",
-    "Ayyankali in Kerala",
+    "Harichand in Bengal",
     "Periyar in Tamil Nadu",
-    "Harichand in Bengal"
+    "Mangoo Ram in Punjab",
+    "Ayyankali in Kerala"
    ],
-   "a": 0,
+   "a": 2,
    "w": "A movement for Dalit identity in Punjab."
   },
   {
    "q": "The Congress Socialist Party was formed in",
    "o": [
     "1920",
-    "1928",
+    "1934",
     "1942",
-    "1934"
+    "1928"
    ],
-   "a": 3,
+   "a": 1,
    "w": "Leaders included JP, Narendra Dev and Lohia."
   },
   {
    "q": "Who unfurled an Indian flag at Stuttgart in 1907?",
    "o": [
+    "Kamala Nehru",
     "Annie Besant",
-    "Sarojini Naidu",
     "Bhikaji Cama",
-    "Kamala Nehru"
+    "Sarojini Naidu"
    ],
    "a": 2,
    "w": "At the International Socialist Congress."
@@ -148,22 +148,22 @@
    "q": "The first woman President of the Indian National Congress was",
    "o": [
     "Sarojini Naidu",
+    "Kamala Nehru",
     "Annie Besant",
-    "Sucheta Kripalani",
-    "Kamala Nehru"
+    "Sucheta Kripalani"
    ],
-   "a": 1,
+   "a": 2,
    "w": "In 1917 at Calcutta."
   },
   {
    "q": "The Meerut Conspiracy Case (1929) targeted",
    "o": [
-    "Communists and trade unionists",
-    "Revolutionaries in Punjab",
     "Swarajists",
-    "Muslim League"
+    "Muslim League",
+    "Revolutionaries in Punjab",
+    "Communists and trade unionists"
    ],
-   "a": 0,
+   "a": 3,
    "w": "It was aimed at leftist labour leaders."
   }
  ],

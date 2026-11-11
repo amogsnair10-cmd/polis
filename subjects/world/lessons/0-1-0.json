@@ -54,53 +54,53 @@
   {
    "q": "Farming began about...",
    "o": [
-    "1,000 years ago",
     "100,000 years ago",
     "11,000 years ago",
-    "3,000 years ago"
+    "3,000 years ago",
+    "1,000 years ago"
    ],
-   "a": 2,
+   "a": 1,
    "w": "After the last Ice Age ended."
   },
   {
    "q": "Which region is the 'Fertile Crescent'?",
    "o": [
-    "West Asia",
-    "South America",
     "Central Africa",
+    "South America",
+    "West Asia",
     "Australia"
    ],
-   "a": 0,
+   "a": 2,
    "w": "Iraq, Syria, Turkey and neighbours."
   },
   {
    "q": "Which was first tamed, long before farming?",
    "o": [
-    "Cattle",
-    "Horses",
     "Sheep",
-    "Dogs"
+    "Cattle",
+    "Dogs",
+    "Horses"
    ],
-   "a": 3,
+   "a": 2,
    "w": "Dogs came from wolves much earlier."
   },
   {
    "q": "Early farmers' skeletons often show...",
    "o": [
+    "Writing marks",
     "Greater height",
-    "More disease and shorter height",
     "Perfect health",
-    "Writing marks"
+    "More disease and shorter height"
    ],
-   "a": 1,
+   "a": 3,
    "w": "Studies show health often fell."
   },
   {
    "q": "Çatalhöyük is in...",
    "o": [
     "Turkey",
-    "India",
     "Egypt",
+    "India",
     "Peru"
    ],
    "a": 0,
@@ -109,56 +109,56 @@
   {
    "q": "Mehrgarh is in...",
    "o": [
-    "Kerala",
-    "Bengal",
+    "Balochistan",
     "Punjab, India",
-    "Balochistan"
+    "Bengal",
+    "Kerala"
    ],
-   "a": 3,
+   "a": 0,
    "w": "Now in Pakistan."
   },
   {
    "q": "Which crop was first grown in Mexico?",
    "o": [
+    "Rice",
     "Wheat",
     "Maize",
-    "Rice",
     "Barley"
    ],
-   "a": 1,
+   "a": 2,
    "w": "Maize came from teosinte."
   },
   {
    "q": "Surplus food led to...",
    "o": [
+    "Printing",
     "Immediate peace",
     "The end of cities",
-    "Specialists such as priests and craftsmen",
-    "Printing"
+    "Specialists such as priests and craftsmen"
    ],
-   "a": 2,
+   "a": 3,
    "w": "Surplus supported people not farming."
   },
   {
    "q": "Who called farming 'the worst mistake'?",
    "o": [
     "Mao Zedong",
+    "Jared Diamond",
     "Alexander",
-    "Herodotus",
-    "Jared Diamond"
+    "Herodotus"
    ],
-   "a": 3,
+   "a": 1,
    "w": "In an essay in 1987."
   },
   {
    "q": "The word 'revolution' for farming is criticised because...",
    "o": [
+    "It never happened",
     "The change was very slow",
-    "It happened overnight",
     "It happened only in Egypt",
-    "It never happened"
+    "It happened overnight"
    ],
-   "a": 0,
+   "a": 1,
    "w": "It took thousands of years."
   }
  ],

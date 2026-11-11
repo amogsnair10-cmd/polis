@@ -59,34 +59,34 @@
   {
    "q": "Transition metals mostly fill which orbitals?",
    "o": [
-    "d",
+    "f only",
     "s only",
-    "p",
-    "f only"
+    "d",
+    "p"
    ],
-   "a": 0,
+   "a": 2,
    "w": "d-block."
   },
   {
    "q": "Who proposed coordination theory in 1893?",
    "o": [
-    "Alfred Werner",
+    "Pauling",
     "Mendeleev",
     "Lewis",
-    "Pauling"
+    "Alfred Werner"
    ],
-   "a": 0,
+   "a": 3,
    "w": "Nobel 1913."
   },
   {
    "q": "Oxidation state of Fe in K4[Fe(CN)6]?",
    "o": [
-    "+2",
     "+3",
     "+4",
+    "+2",
     "+6"
    ],
-   "a": 0,
+   "a": 2,
    "w": "4 + x - 6 = 0."
   },
   {
@@ -94,8 +94,8 @@
    "o": [
     "4",
     "2",
-    "6",
-    "1"
+    "1",
+    "6"
    ],
    "a": 0,
    "w": "Four ligands."
@@ -103,32 +103,32 @@
   {
    "q": "A ligand donates:",
    "o": [
-    "A pair of electrons",
-    "A proton",
     "A neutron",
-    "An alpha particle"
+    "A proton",
+    "An alpha particle",
+    "A pair of electrons"
    ],
-   "a": 0,
+   "a": 3,
    "w": "Forms a dative bond."
   },
   {
    "q": "Which compound is typically colourless?",
    "o": [
-    "Cu2+ salts",
     "Zn2+ salts",
+    "Cr3+ salts",
     "Fe3+ salts",
-    "Cr3+ salts"
+    "Cu2+ salts"
    ],
-   "a": 1,
+   "a": 0,
    "w": "Full d subshell."
   },
   {
    "q": "Metal at centre of chlorophyll:",
    "o": [
     "Magnesium",
-    "Iron",
     "Cobalt",
-    "Copper"
+    "Copper",
+    "Iron"
    ],
    "a": 0,
    "w": "Mg2+."
@@ -136,20 +136,20 @@
   {
    "q": "Cisplatin is used to treat:",
    "o": [
-    "Malaria",
     "Diabetes",
     "Cough",
-    "Cancer"
+    "Cancer",
+    "Malaria"
    ],
-   "a": 3,
+   "a": 2,
    "w": "A platinum complex."
   },
   {
    "q": "Catalyst in making sulphuric acid:",
    "o": [
     "V2O5",
-    "Pt only",
     "Fe",
+    "Pt only",
     "Ni"
    ],
    "a": 0,
@@ -159,11 +159,11 @@
    "q": "Ruby's red colour is from traces of:",
    "o": [
     "Copper",
-    "Chromium",
     "Iron",
+    "Chromium",
     "Gold"
    ],
-   "a": 1,
+   "a": 2,
    "w": "Cr3+ in Al2O3."
   }
  ],

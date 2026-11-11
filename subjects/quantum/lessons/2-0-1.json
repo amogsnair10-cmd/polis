@@ -59,98 +59,98 @@
   {
    "q": "Bell's theorem (1964) showed that:",
    "o": [
-    "Local hidden-variable theories make testable predictions",
-    "Quantum theory is wrong",
     "Light is a wave",
-    "Spin is rotation"
+    "Spin is rotation",
+    "Quantum theory is wrong",
+    "Local hidden-variable theories make testable predictions"
    ],
-   "a": 0,
+   "a": 3,
    "w": "It turned philosophy into experiment."
   },
   {
    "q": "The maximum CHSH score for local hidden variables is:",
    "o": [
     "1",
-    "4",
     "2",
-    "2.83"
+    "2.83",
+    "4"
    ],
-   "a": 2,
+   "a": 1,
    "w": "Quantum theory reaches 2.83."
   },
   {
    "q": "Quantum theory's maximum CHSH score is about:",
    "o": [
-    "2.83",
     "2",
+    "4",
     "1",
-    "4"
+    "2.83"
    ],
-   "a": 0,
+   "a": 3,
    "w": "2 times square root 2."
   },
   {
    "q": "Who did the 1982 experiment with switching detectors?",
    "o": [
+    "John Clauser",
     "Max Born",
     "Alain Aspect",
-    "John Clauser",
     "John Bell"
    ],
-   "a": 1,
+   "a": 2,
    "w": "It tested locality more strictly."
   },
   {
    "q": "The 2022 Physics Nobel went to:",
    "o": [
-    "Aspect, Clauser and Zeilinger",
-    "Penrose and Hawking",
     "Raman and Bose",
-    "Bell, Bohm and Einstein"
+    "Bell, Bohm and Einstein",
+    "Aspect, Clauser and Zeilinger",
+    "Penrose and Hawking"
    ],
-   "a": 0,
+   "a": 2,
    "w": "For Bell-test experiments."
   },
   {
    "q": "The 2015 tests were important because they:",
    "o": [
-    "Disproved Einstein's relativity",
     "Proved free will",
+    "Closed major loopholes simultaneously",
     "Used no detectors",
-    "Closed major loopholes simultaneously"
+    "Disproved Einstein's relativity"
    ],
-   "a": 3,
+   "a": 1,
    "w": "Hensen, Giustina and Shalm."
   },
   {
    "q": "What did the Big Bell Test (2018) use?",
    "o": [
-    "A supercomputer",
-    "The Moon",
+    "About 100,000 people choosing detector settings",
     "A satellite only",
-    "About 100,000 people choosing detector settings"
+    "A supercomputer",
+    "The Moon"
    ],
-   "a": 3,
+   "a": 0,
    "w": "To address the free-choice loophole."
   },
   {
    "q": "Which view gives up single outcomes?",
    "o": [
-    "Pilot wave",
-    "Copenhagen",
     "Many-worlds",
+    "Copenhagen",
+    "Pilot wave",
     "Classical physics"
    ],
-   "a": 2,
+   "a": 0,
    "w": "All outcomes occur in branches."
   },
   {
    "q": "Did John Bell win the Nobel Prize?",
    "o": [
     "No, he died in 1990",
+    "Yes in 1964",
     "Yes in 1982",
-    "Yes in 2022",
-    "Yes in 1964"
+    "Yes in 2022"
    ],
    "a": 0,
    "w": "The 2022 prize went to experimenters."
@@ -159,11 +159,11 @@
    "q": "A Bell violation does NOT allow:",
    "o": [
     "Tests of local realism",
+    "Faster-than-light messages",
     "Secure key distribution",
-    "Entanglement studies",
-    "Faster-than-light messages"
+    "Entanglement studies"
    ],
-   "a": 3,
+   "a": 1,
    "w": "Results alone look random."
   }
  ],

@@ -54,20 +54,20 @@
   {
    "q": "The sanctum of a temple is called",
    "o": [
+    "Gopuram",
     "Garbhagriha",
     "Mandapa",
-    "Antarala",
-    "Gopuram"
+    "Antarala"
    ],
-   "a": 0,
+   "a": 1,
    "w": "It houses the main deity."
   },
   {
    "q": "A gopuram is a feature of",
    "o": [
     "Nagara temples",
-    "Buddhist stupas",
     "Indo-Islamic tombs",
+    "Buddhist stupas",
     "Dravida temples"
    ],
    "a": 3,
@@ -76,78 +76,78 @@
   {
    "q": "The Brihadisvara temple at Thanjavur was built under",
    "o": [
+    "Krishna I",
     "Rajendra I",
     "Narasimhavarman I",
-    "Rajaraja I",
-    "Krishna I"
+    "Rajaraja I"
    ],
-   "a": 2,
+   "a": 3,
    "w": "It was completed around 1010 CE."
   },
   {
    "q": "The Kailasa temple at Ellora was built by",
    "o": [
-    "Cholas",
     "Rashtrakutas",
     "Pallavas",
-    "Hoysalas"
+    "Hoysalas",
+    "Cholas"
    ],
-   "a": 1,
+   "a": 0,
    "w": "It is a monolithic temple."
   },
   {
    "q": "Shore Temple at Mahabalipuram belongs to",
    "o": [
-    "Pallavas",
-    "Cholas",
+    "Pandyas",
     "Chalukyas",
-    "Pandyas"
+    "Pallavas",
+    "Cholas"
    ],
-   "a": 0,
+   "a": 2,
    "w": "It is of the Dravida style."
   },
   {
    "q": "Konark Sun Temple belongs to the",
    "o": [
-    "Dravida school",
-    "Vesara school",
     "Kerala school",
-    "Odisha school of Nagara"
+    "Odisha school of Nagara",
+    "Vesara school",
+    "Dravida school"
    ],
-   "a": 3,
+   "a": 1,
    "w": "Built in the 13th century by Narasimhadeva I of the Eastern Ganga dynasty."
   },
   {
    "q": "The Khajuraho temples were built by the",
    "o": [
-    "Solankis",
-    "Hoysalas",
     "Chandelas",
-    "Pallavas"
+    "Pallavas",
+    "Solankis",
+    "Hoysalas"
    ],
-   "a": 2,
+   "a": 0,
    "w": "Kandariya Mahadeva is the largest."
   },
   {
    "q": "A star-shaped plan on a raised platform is typical of",
    "o": [
-    "Chola temples",
-    "Hoysala temples",
     "Pallava temples",
-    "Gupta temples"
+    "Gupta temples",
+    "Hoysala temples",
+    "Chola temples"
    ],
-   "a": 1,
+   "a": 2,
    "w": "Seen at Belur, Halebid and Somnathpur."
   },
   {
    "q": "The Modhera Sun Temple is in",
    "o": [
-    "Gujarat",
-    "Odisha",
+    "Kashmir",
     "Karnataka",
-    "Kashmir"
+    "Gujarat",
+    "Odisha"
    ],
-   "a": 0,
+   "a": 2,
    "w": "Built by the Solankis."
   },
   {
@@ -155,10 +155,10 @@
    "o": [
     "Cholas",
     "Pallavas",
-    "Kakatiyas",
-    "Chalukyas"
+    "Chalukyas",
+    "Kakatiyas"
    ],
-   "a": 3,
+   "a": 2,
    "w": "Early Chalukyan experiments."
   }
  ],

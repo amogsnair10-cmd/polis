@@ -59,65 +59,65 @@
   {
    "q": "Who predicted gravitational waves?",
    "o": [
-    "Einstein",
     "Newton",
     "Hubble",
+    "Einstein",
     "Penrose"
    ],
-   "a": 0,
+   "a": 2,
    "w": "1916."
   },
   {
    "q": "GW150914 was caused by:",
    "o": [
-    "Two merging black holes",
-    "Two neutron stars",
+    "A pulsar",
     "A supernova",
-    "A pulsar"
+    "Two merging black holes",
+    "Two neutron stars"
    ],
-   "a": 0,
+   "a": 2,
    "w": "About 36 and 29 Suns."
   },
   {
    "q": "LIGO has arms of length:",
    "o": [
-    "4 km",
     "4 m",
+    "4 km",
     "40 km",
     "400 km"
    ],
-   "a": 0,
+   "a": 1,
    "w": "Two sites in the USA."
   },
   {
    "q": "The first detection was on:",
    "o": [
+    "11 February 2016",
     "14 September 2015",
     "17 August 2017",
-    "1 January 2000",
-    "11 February 2016"
+    "1 January 2000"
    ],
-   "a": 0,
+   "a": 1,
    "w": "Announced February 2016."
   },
   {
    "q": "GW170817 proved:",
    "o": [
+    "Planets form",
     "Gravity travels at light speed",
     "Dark matter exists",
-    "Planets form",
     "The Big Bang"
    ],
-   "a": 0,
+   "a": 1,
    "w": "Gamma ray burst 1.7 s later."
   },
   {
    "q": "Heavy elements such as gold are made in:",
    "o": [
     "Neutron star mergers",
+    "Black holes",
     "Sun's core",
-    "Comets",
-    "Black holes"
+    "Comets"
    ],
    "a": 0,
    "w": "The kilonova."
@@ -126,9 +126,9 @@
    "q": "Hulse and Taylor's pulsar provided:",
    "o": [
     "Indirect evidence",
-    "Direct detection",
     "Dark matter",
-    "None"
+    "None",
+    "Direct detection"
    ],
    "a": 0,
    "w": "Orbit decay."
@@ -136,32 +136,32 @@
   {
    "q": "LIGO-India is planned in:",
    "o": [
-    "Hingoli, Maharashtra",
-    "Hanle",
     "Pune city",
-    "Ooty"
+    "Ooty",
+    "Hingoli, Maharashtra",
+    "Hanle"
    ],
-   "a": 0,
+   "a": 2,
    "w": "At Aundha."
   },
   {
    "q": "Multi-messenger astronomy combines:",
    "o": [
-    "Light, neutrinos, gravitational waves",
-    "Only radio",
+    "Only planets",
     "Only X-rays",
-    "Only planets"
+    "Light, neutrinos, gravitational waves",
+    "Only radio"
    ],
-   "a": 0,
+   "a": 2,
    "w": "Different carriers of information."
   },
   {
    "q": "The 2023 pulsar timing results suggested:",
    "o": [
     "A gravitational wave background",
+    "A comet",
     "Dark energy change",
-    "New planets",
-    "A comet"
+    "New planets"
    ],
    "a": 0,
    "w": "Likely supermassive black hole pairs."

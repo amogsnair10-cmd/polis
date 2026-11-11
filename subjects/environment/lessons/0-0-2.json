@@ -59,45 +59,45 @@
   {
    "q": "Who classified India’s forests into 16 major types?",
    "o": [
-    "Kasturirangan",
-    "Madhav Gadgil",
+    "Haeckel",
     "Champion and Seth",
-    "Haeckel"
+    "Madhav Gadgil",
+    "Kasturirangan"
    ],
-   "a": 2,
+   "a": 1,
    "w": "Champion and Seth (1968) is the standard classification."
   },
   {
    "q": "Pampas grassland is found in:",
    "o": [
-    "South Africa",
     "Argentina",
     "Australia",
-    "Central Asia"
+    "Central Asia",
+    "South Africa"
    ],
-   "a": 1,
+   "a": 0,
    "w": "Pampas is Argentina. Veldt is South Africa and steppe is Eurasia."
   },
   {
    "q": "The only floating national park in the world is:",
    "o": [
-    "Keibul Lamjao",
+    "Bhitarkanika",
     "Kaziranga",
     "Manas",
-    "Bhitarkanika"
+    "Keibul Lamjao"
    ],
-   "a": 0,
+   "a": 3,
    "w": "It is on Loktak Lake in Manipur."
   },
   {
    "q": "Which is a lentic ecosystem?",
    "o": [
+    "Pond",
     "River",
-    "Stream",
     "Canal",
-    "Pond"
+    "Stream"
    ],
-   "a": 3,
+   "a": 0,
    "w": "Lentic means still water."
   },
   {
@@ -105,65 +105,65 @@
    "o": [
     "Limnetic",
     "Profundal",
-    "Littoral",
-    "Benthic"
+    "Benthic",
+    "Littoral"
    ],
-   "a": 2,
+   "a": 3,
    "w": "The shallow edge supports rooted vegetation."
   },
   {
    "q": "Which state has the largest forest cover in area?",
    "o": [
-    "Arunachal Pradesh",
-    "Madhya Pradesh",
+    "Maharashtra",
     "Odisha",
-    "Maharashtra"
+    "Arunachal Pradesh",
+    "Madhya Pradesh"
    ],
-   "a": 1,
+   "a": 3,
    "w": "ISFR reports consistently place Madhya Pradesh first by area."
   },
   {
    "q": "Forest cover in India is about how much of its area (ISFR 2023)?",
    "o": [
-    "About 21.8 percent",
     "About 33 percent",
+    "About 40 percent",
     "About 12 percent",
-    "About 40 percent"
+    "About 21.8 percent"
    ],
-   "a": 0,
+   "a": 3,
    "w": "About 21.76 percent forest cover; with tree cover total is about 25.17 percent."
   },
   {
    "q": "National Forest Policy 1988 targets what share of land under forest and tree cover?",
    "o": [
-    "One-fifth",
-    "Half",
     "One-fourth",
-    "One-third"
+    "One-third",
+    "One-fifth",
+    "Half"
    ],
-   "a": 3,
+   "a": 1,
    "w": "One-third overall, two-thirds in hills."
   },
   {
    "q": "Chilika is best described as:",
    "o": [
-    "A freshwater lake",
-    "A glacial lake",
     "A brackish water lagoon",
-    "An oxbow lake"
+    "An oxbow lake",
+    "A freshwater lake",
+    "A glacial lake"
    ],
-   "a": 2,
+   "a": 0,
    "w": "Chilika in Odisha is Asia’s largest brackish lagoon."
   },
   {
    "q": "The largest land biome by area is:",
    "o": [
-    "Tundra",
     "Taiga",
     "Savanna",
-    "Rainforest"
+    "Rainforest",
+    "Tundra"
    ],
-   "a": 1,
+   "a": 0,
    "w": "The boreal forest spreads across Canada, Russia and Scandinavia."
   }
  ],

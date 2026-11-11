@@ -55,29 +55,29 @@
    "q": "The plague bacterium is...",
    "o": [
     "Vibrio cholerae",
-    "A virus",
     "Yersinia pestis",
-    "A fungus"
+    "A fungus",
+    "A virus"
    ],
-   "a": 2,
+   "a": 1,
    "w": "Confirmed by ancient DNA."
   },
   {
    "q": "It reached Sicily in...",
    "o": [
-    "1347",
     "1066",
+    "1347",
     "1492",
     "1665"
    ],
-   "a": 0,
+   "a": 1,
    "w": "By Genoese ships."
   },
   {
    "q": "Roughly what share of Europeans died?",
    "o": [
-    "1 percent",
     "About 5 percent",
+    "1 percent",
     "Almost all",
     "A third to a half"
    ],
@@ -87,43 +87,43 @@
   {
    "q": "'Quarantine' comes from...",
    "o": [
-    "Latin for sickness",
-    "The Italian for forty days",
+    "Greek for fear",
     "French for rats",
-    "Greek for fear"
+    "Latin for sickness",
+    "The Italian for forty days"
    ],
-   "a": 1,
+   "a": 3,
    "w": "Venice's 40 days."
   },
   {
    "q": "Flagellants...",
    "o": [
-    "Whipped themselves in public",
     "Sold medicine",
-    "Cooked",
-    "Guarded ports"
+    "Guarded ports",
+    "Whipped themselves in public",
+    "Cooked"
    ],
-   "a": 0,
+   "a": 2,
    "w": "A response to the plague."
   },
   {
    "q": "The Peasants' Revolt was in...",
    "o": [
     "1347",
-    "1485",
+    "1381",
     "1666",
-    "1381"
+    "1485"
    ],
-   "a": 3,
+   "a": 1,
    "w": "England."
   },
   {
    "q": "London's Great Plague was in...",
    "o": [
-    "1347",
+    "1720",
     "1665",
     "1348",
-    "1720"
+    "1347"
    ],
    "a": 1,
    "w": "A late outbreak."
@@ -131,34 +131,34 @@
   {
    "q": "Haffkine's plague vaccine was developed in...",
    "o": [
-    "London, 1665",
     "Delhi, 1857",
     "Bombay, 1897",
-    "Paris, 1920"
+    "Paris, 1920",
+    "London, 1665"
    ],
-   "a": 2,
+   "a": 1,
    "w": "During the third pandemic."
   },
   {
    "q": "The Epidemic Diseases Act was passed in...",
    "o": [
+    "1897",
     "1347",
-    "1947",
     "2020",
-    "1897"
+    "1947"
    ],
-   "a": 3,
+   "a": 0,
    "w": "By colonial India's government."
   },
   {
    "q": "The 'Ring a Ring o' Roses' link to plague is...",
    "o": [
-    "Unsupported by evidence",
-    "Proven",
     "Medieval",
+    "Proven",
+    "Unsupported by evidence",
     "Written by Haffkine"
    ],
-   "a": 0,
+   "a": 2,
    "w": "Folklorists reject it."
   }
  ],

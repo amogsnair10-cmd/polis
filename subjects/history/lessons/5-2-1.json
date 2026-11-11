@@ -54,8 +54,8 @@
   {
    "q": "The “invisible hand” is associated with",
    "o": [
-    "Keynes",
     "Marx",
+    "Keynes",
     "Adam Smith",
     "Friedman"
    ],
@@ -65,12 +65,12 @@
   {
    "q": "The General Theory (1936) was by",
    "o": [
-    "Hayek",
-    "John Maynard Keynes",
     "Ricardo",
-    "Marx"
+    "Marx",
+    "John Maynard Keynes",
+    "Hayek"
    ],
-   "a": 1,
+   "a": 2,
    "w": "It argued for state spending in a slump."
   },
   {
@@ -87,76 +87,76 @@
   {
    "q": "Das Kapital Volume 1 appeared in",
    "o": [
-    "1848",
-    "1884",
+    "1867",
     "1917",
-    "1867"
+    "1884",
+    "1848"
    ],
-   "a": 3,
+   "a": 0,
    "w": "It explains surplus value."
   },
   {
    "q": "The Fabian Society stood for",
    "o": [
-    "Revolutionary communism",
-    "Free-market liberalism",
     "Gradual socialism",
+    "Free-market liberalism",
+    "Revolutionary communism",
     "Fascism"
    ],
-   "a": 2,
+   "a": 0,
    "w": "It was founded in 1884."
   },
   {
    "q": "The Road to Serfdom was written by",
    "o": [
-    "Milton Friedman",
     "Friedrich Hayek",
-    "Keynes",
-    "Piketty"
+    "Milton Friedman",
+    "Piketty",
+    "Keynes"
    ],
-   "a": 1,
+   "a": 0,
    "w": "Published in 1944."
   },
   {
    "q": "Deng Xiaoping’s reforms began in",
    "o": [
-    "1978",
-    "1949",
     "1958",
-    "1966"
+    "1966",
+    "1949",
+    "1978"
    ],
-   "a": 0,
+   "a": 3,
    "w": "Opening and market reforms in China."
   },
   {
    "q": "Gramsci is associated with the idea of",
    "o": [
     "Vanguard party",
-    "Laissez-faire",
+    "Cultural hegemony",
     "Welfare state",
-    "Cultural hegemony"
+    "Laissez-faire"
    ],
-   "a": 3,
+   "a": 1,
    "w": "An Italian Marxist."
   },
   {
    "q": "“Socialist” was added to the Indian Preamble by the",
    "o": [
-    "44th Amendment, 1978",
-    "1st Amendment, 1951",
+    "73rd Amendment, 1992",
     "42nd Amendment, 1976",
-    "73rd Amendment, 1992"
+    "44th Amendment, 1978",
+    "1st Amendment, 1951"
    ],
-   "a": 2,
+   "a": 1,
    "w": "Along with “secular” and “integrity”."
   },
   {
    "q": "The Third Way was popularised by",
    "o": [
-    "Hayek",
+    "Beveridge",
     "Anthony Giddens",
     "Lenin",
-    "Beveridge"
+    "Hayek"
    ],
    "a": 1,
    "w": "It influenced Blair."

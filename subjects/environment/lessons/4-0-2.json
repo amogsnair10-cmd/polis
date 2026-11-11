@@ -59,65 +59,65 @@
   {
    "q": "The Chipko movement began in:",
    "o": [
-    "1983",
-    "1985",
     "1973",
-    "1730"
+    "1985",
+    "1730",
+    "1983"
    ],
-   "a": 2,
+   "a": 0,
    "w": "In Chamoli district of present-day Uttarakhand."
   },
   {
    "q": "Appiko movement took place in:",
    "o": [
     "Kerala",
-    "Karnataka",
     "Odisha",
-    "Himachal"
+    "Himachal",
+    "Karnataka"
    ],
-   "a": 1,
+   "a": 3,
    "w": "Uttara Kannada, led by Pandurang Hegde."
   },
   {
    "q": "Medha Patkar is associated with:",
    "o": [
-    "Narmada Bachao Andolan",
-    "Chipko",
     "Appiko",
-    "Silent Valley"
+    "Chipko",
+    "Silent Valley",
+    "Narmada Bachao Andolan"
    ],
-   "a": 0,
+   "a": 3,
    "w": "Founded 1985."
   },
   {
    "q": "Silent Valley is located in:",
    "o": [
-    "Karnataka",
-    "Tamil Nadu",
     "Assam",
-    "Kerala"
+    "Kerala",
+    "Tamil Nadu",
+    "Karnataka"
    ],
-   "a": 3,
+   "a": 1,
    "w": "Kunthipuzha river."
   },
   {
    "q": "The 1730 Bishnoi sacrifice was led by:",
    "o": [
-    "Gaura Devi",
     "Medha Patkar",
-    "Amrita Devi",
-    "Vandana Shiva"
+    "Vandana Shiva",
+    "Gaura Devi",
+    "Amrita Devi"
    ],
-   "a": 2,
+   "a": 3,
    "w": "At Khejarli village."
   },
   {
    "q": "Navdanya was founded by:",
    "o": [
-    "Sunderlal Bahuguna",
+    "Pandurang Hegde",
     "Vandana Shiva",
     "Chandi Prasad Bhatt",
-    "Pandurang Hegde"
+    "Sunderlal Bahuguna"
    ],
    "a": 1,
    "w": "It protects seeds."
@@ -125,32 +125,32 @@
   {
    "q": "Godavarman case relates mainly to:",
    "o": [
-    "Forests",
     "Water pollution",
     "Noise",
+    "Forests",
     "Plastic"
    ],
-   "a": 0,
+   "a": 2,
    "w": "Started in 1995."
   },
   {
    "q": "Niyamgiri hills are in:",
    "o": [
-    "Jharkhand",
-    "Chhattisgarh",
     "Maharashtra",
-    "Odisha"
+    "Chhattisgarh",
+    "Odisha",
+    "Jharkhand"
    ],
-   "a": 3,
+   "a": 2,
    "w": "Dongria Kondh tribe."
   },
   {
    "q": "The case on Dehradun quarrying (1985) was:",
    "o": [
-    "Vellore Citizens",
     "Kamal Nath",
+    "Lafarge",
     "Rural Litigation and Entitlement Kendra",
-    "Lafarge"
+    "Vellore Citizens"
    ],
    "a": 2,
    "w": "An early ecological balance case."
@@ -158,10 +158,10 @@
   {
    "q": "Chipko won which award in 1987?",
    "o": [
-    "Nobel Peace Prize",
+    "Padma Vibhushan",
     "Right Livelihood Award",
     "Magsaysay Award",
-    "Padma Vibhushan"
+    "Nobel Peace Prize"
    ],
    "a": 1,
    "w": "Awarded as the Alternative Nobel."

@@ -59,23 +59,23 @@
   {
    "q": "The Ten Degree Channel separates",
    "o": [
-    "Andaman from Nicobar",
-    "Lakshadweep from Minicoy",
     "India from Sri Lanka",
+    "Lakshadweep from Minicoy",
+    "Andaman from Nicobar",
     "Minicoy from Maldives"
    ],
-   "a": 0,
+   "a": 2,
    "w": "The Eight Degree separates Minicoy from Maldives; Nine Degree separates Lakshadweep from Minicoy."
   },
   {
    "q": "Chilika Lake is in",
    "o": [
-    "Andhra Pradesh",
+    "Odisha",
     "Tamil Nadu",
-    "West Bengal",
-    "Odisha"
+    "Andhra Pradesh",
+    "West Bengal"
    ],
-   "a": 3,
+   "a": 0,
    "w": "It is a Ramsar site."
   },
   {
@@ -83,8 +83,8 @@
    "o": [
     "Krishna",
     "Godavari",
-    "Mahanadi",
-    "Kaveri"
+    "Kaveri",
+    "Mahanadi"
    ],
    "a": 1,
    "w": "About 1,465 km."
@@ -92,78 +92,78 @@
   {
    "q": "Narmada forms an estuary because",
    "o": [
-    "It is snow-fed",
-    "It flows through a rift valley to the Arabian Sea",
     "It is a delta river",
-    "It is east-flowing"
+    "It is east-flowing",
+    "It flows through a rift valley to the Arabian Sea",
+    "It is snow-fed"
    ],
-   "a": 1,
+   "a": 2,
    "w": "Straight, steep courses form estuaries."
   },
   {
    "q": "Antecedent drainage means",
    "o": [
-    "River younger than hills",
-    "Rivers meeting at right angles",
     "Rivers flowing to inland lakes",
-    "River older than the mountains it crosses"
+    "River younger than hills",
+    "River older than the mountains it crosses",
+    "Rivers meeting at right angles"
    ],
-   "a": 3,
+   "a": 2,
    "w": "The Indus, Sutlej and Brahmaputra cut gorges through the rising Himalaya."
   },
   {
    "q": "Indira Point is in",
    "o": [
-    "Great Nicobar",
-    "Little Andaman",
+    "Car Nicobar",
     "Minicoy",
-    "Car Nicobar"
+    "Great Nicobar",
+    "Little Andaman"
    ],
-   "a": 0,
+   "a": 2,
    "w": "It is India's southernmost point."
   },
   {
    "q": "Dendritic drainage looks like",
    "o": [
-    "A trellis",
-    "A wheel",
     "A tree",
-    "A grid"
+    "A wheel",
+    "A grid",
+    "A trellis"
    ],
-   "a": 2,
+   "a": 0,
    "w": "Common on uniform rock in the plains."
   },
   {
    "q": "The Ganga is formed at Devprayag by",
    "o": [
     "Yamuna and Ghaghara",
+    "Bhagirathi and Alaknanda",
     "Kosi and Gandak",
-    "Son and Chambal",
-    "Bhagirathi and Alaknanda"
+    "Son and Chambal"
    ],
-   "a": 3,
+   "a": 1,
    "w": "Their joining is the start of the Ganga."
   },
   {
    "q": "Namami Gange began in",
    "o": [
-    "2014",
     "1985",
+    "2020",
     "2008",
-    "2020"
+    "2014"
    ],
-   "a": 0,
+   "a": 3,
    "w": "It replaced the earlier Ganga Action Plan."
   },
   {
    "q": "Western coastal plain is",
    "o": [
     "Broad with deltas",
-    "Absent in Goa",
     "Narrow with estuaries",
+    "Absent in Goa",
     "Entirely marshy"
    ],
-   "a": 2,
+   "a": 1,
    "w": "The Western Ghats come close to the sea."
   }
  ],

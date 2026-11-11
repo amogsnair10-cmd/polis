@@ -60,9 +60,9 @@
    "q": "Lucy belongs to:",
    "o": [
     "Australopithecus afarensis",
-    "Homo sapiens",
+    "Homo erectus",
     "Neanderthal",
-    "Homo erectus"
+    "Homo sapiens"
    ],
    "a": 0,
    "w": "Found 1974 in Ethiopia."
@@ -82,9 +82,9 @@
    "q": "Which species first used fire widely?",
    "o": [
     "Homo erectus",
-    "Homo habilis",
     "Sahelanthropus",
-    "Australopithecus"
+    "Australopithecus",
+    "Homo habilis"
    ],
    "a": 0,
    "w": "Erectus."
@@ -104,9 +104,9 @@
    "q": "Paabo won the 2022 Nobel for:",
    "o": [
     "Ancient DNA",
+    "Tool design",
     "Brain imaging",
-    "Fossil dating",
-    "Tool design"
+    "Fossil dating"
    ],
    "a": 0,
    "w": "Paleogenomics."
@@ -114,8 +114,8 @@
   {
    "q": "Bipedalism came:",
    "o": [
-    "With fire",
     "After big brains",
+    "With fire",
     "Before big brains",
     "With farming"
    ],
@@ -127,8 +127,8 @@
    "o": [
     "Non-Africans",
     "Only Africans",
-    "Chimps",
-    "Nobody"
+    "Nobody",
+    "Chimps"
    ],
    "a": 0,
    "w": "1-2 percent."
@@ -137,9 +137,9 @@
    "q": "Attirampakkam is in:",
    "o": [
     "Tamil Nadu",
+    "Assam",
     "Punjab",
-    "Gujarat",
-    "Assam"
+    "Gujarat"
    ],
    "a": 0,
    "w": "Stone tools."
@@ -147,10 +147,10 @@
   {
    "q": "Taung child discovered by:",
    "o": [
+    "Johanson",
     "Paabo",
-    "Leakey",
     "Dart",
-    "Johanson"
+    "Leakey"
    ],
    "a": 2,
    "w": "1924."
@@ -158,10 +158,10 @@
   {
    "q": "Homo floresiensis found in:",
    "o": [
-    "Kenya",
-    "Indonesia",
     "Spain",
-    "India"
+    "Indonesia",
+    "India",
+    "Kenya"
    ],
    "a": 1,
    "w": "2003, Flores."

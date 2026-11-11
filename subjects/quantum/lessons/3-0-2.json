@@ -1,0 +1,180 @@
+{
+ "id": "3-0-2",
+ "title": "Quantum Computing",
+ "emoji": "🖥️",
+ "cards": [
+  {
+   "tag": "Why this matters",
+   "h": "A different kind of machine",
+   "b": "<p>A classical computer stores bits: 0 or 1. A quantum computer stores <b>qubits</b>, which can be in a superposition of 0 and 1. Linked by entanglement, they might solve some problems (not all) vastly faster. Big claims surround this field. Here is what is solid and what is hype.</p>"
+  },
+  {
+   "tag": "Qubits",
+   "h": "What changes",
+   "b": "<p>Two ordinary bits hold one of four values. Two qubits hold a blend of four values at once, with amplitudes. With n qubits, there are 2ⁿ amplitudes: 300 qubits would need more numbers than there are atoms in the visible universe to describe. This is the reason a classical computer cannot easily simulate a big quantum one.</p><p>Richard Feynman (1981) pointed out that to simulate quantum nature efficiently, you need a computer that is itself quantum. David Deutsch (1985) gave the first formal model.</p>"
+  },
+  {
+   "tag": "The catch",
+   "h": "Not \"all answers at once\"",
+   "b": "<p>A common myth says a quantum computer tries every answer at the same time. Measuring gives just one random result. The art is to design steps so that <b>wrong answers cancel and the right one adds up</b>, using interference.</p><svg class=\"d\" viewBox=\"0 0 320 150\"><defs><marker id=\"m302\" viewBox=\"0 0 10 10\" refX=\"9\" refY=\"5\" markerWidth=\"6\" markerHeight=\"6\" orient=\"auto\"><path d=\"M0,0L10,5L0,10z\" fill=\"#5d6474\"/></marker></defs><rect x=\"5\" y=\"10\" width=\"100\" height=\"45\" rx=\"6\" fill=\"#f1e4c6\" stroke=\"#a8792a\"/><text x=\"55.0\" y=\"22.8\" font-size=\"10\" fill=\"#1d2433\" text-anchor=\"middle\">Start: all</text><text x=\"55.0\" y=\"35.8\" font-size=\"10\" fill=\"#1d2433\" text-anchor=\"middle\">answers equally</text><text x=\"55.0\" y=\"48.8\" font-size=\"10\" fill=\"#1d2433\" text-anchor=\"middle\">likely</text><line x1=\"107\" y1=\"32\" x2=\"120\" y2=\"32\" stroke=\"#5d6474\" stroke-width=\"1.5\" marker-end=\"url(#m302)\"/><rect x=\"122\" y=\"10\" width=\"90\" height=\"45\" rx=\"6\" fill=\"#dceaec\" stroke=\"#2f6f7a\"/><text x=\"167.0\" y=\"29.3\" font-size=\"10\" fill=\"#1d2433\" text-anchor=\"middle\">Gate steps:</text><text x=\"167.0\" y=\"42.3\" font-size=\"10\" fill=\"#1d2433\" text-anchor=\"middle\">interfere paths</text><line x1=\"214\" y1=\"32\" x2=\"227\" y2=\"32\" stroke=\"#5d6474\" stroke-width=\"1.5\" marker-end=\"url(#m302)\"/><rect x=\"229\" y=\"10\" width=\"86\" height=\"45\" rx=\"6\" fill=\"#f4dcd5\" stroke=\"#a3362a\"/><text x=\"272.0\" y=\"22.8\" font-size=\"10\" fill=\"#1d2433\" text-anchor=\"middle\">Wrong answers</text><text x=\"272.0\" y=\"35.8\" font-size=\"10\" fill=\"#1d2433\" text-anchor=\"middle\">cancel; right</text><text x=\"272.0\" y=\"48.8\" font-size=\"10\" fill=\"#1d2433\" text-anchor=\"middle\">one grows</text><text x=\"160\" y=\"90\" font-size=\"11\" fill=\"#1d2433\" text-anchor=\"middle\">Not \"try everything at once\":</text><text x=\"160\" y=\"108\" font-size=\"10\" fill=\"#5d6474\" text-anchor=\"middle\">steer the amplitudes so only the</text><text x=\"160\" y=\"122\" font-size=\"10\" fill=\"#5d6474\" text-anchor=\"middle\">right answer survives</text><text x=\"160\" y=\"142\" font-size=\"10\" fill=\"#a3362a\" text-anchor=\"middle\">Works only for special problems</text></svg>"
+  },
+  {
+   "tag": "Key algorithms",
+   "h": "What they offer",
+   "b": "<ul><li><b>Shor (1994):</b> factors large numbers in a number of steps that grows only polynomially. Classical methods grow far faster. It would break the RSA and elliptic-curve encryption used online.</li><li><b>Grover (1996):</b> searches an unsorted list of N items in about √N steps rather than N: a speed-up, but only a square-root one.</li><li><b>Simulation of molecules and materials</b>: possibly the most useful near-term target.</li></ul>"
+  },
+  {
+   "tag": "Hardware",
+   "h": "The race",
+   "b": "<p>Qubit types: superconducting circuits (Google, IBM), trapped ions (Quantinuum, IonQ), neutral atoms, photons, and spins in silicon. Google's 2019 Sycamore (53 qubits) claimed \"quantum supremacy\": a task in 200 seconds that they estimated would take a supercomputer 10,000 years. IBM disputed this, and later classical methods narrowed the gap. The task had no practical use. In December 2024 Google's Willow chip (105 qubits) showed that adding qubits could reduce errors, a key milestone for error correction.</p>"
+  },
+  {
+   "tag": "Errors",
+   "h": "The real obstacle",
+   "b": "<p>Qubits are fragile: decoherence and noisy gates cause errors in roughly one in a thousand steps at best. Quantum error correction combines many physical qubits into one reliable \"logical qubit\". A 2025 estimate by Craig Gidney (Google) suggested breaking RSA-2048 might need fewer than one million noisy qubits running for about a week, a big reduction from older estimates, but today's machines have hundreds to a few thousand qubits, not millions.</p>"
+  },
+  {
+   "tag": "Honest state",
+   "h": "Where it stands (as of 2026)",
+   "b": "<p>Machines exist and are improving fast, but, to the best of public knowledge, they have not yet beaten classical computers at a commercially useful task by a clear margin. Cryptographically relevant machines are not expected for years; timelines vary widely and are uncertain.</p>"
+  },
+  {
+   "tag": "Misconceptions",
+   "h": "Myths to drop",
+   "b": "<ul><li><b>\"It tries all answers at once.\"</b> It uses interference to steer.</li><li><b>\"It will replace your laptop.\"</b> It helps only with special problems.</li><li><b>\"It can break all encryption tomorrow.\"</b> Not yet; and new post-quantum codes exist.</li></ul>"
+  },
+  {
+   "tag": "Indian angle",
+   "h": "QpiAI and the Mission",
+   "b": "<p>In April 2025 the Bengaluru start-up QpiAI launched QpiAI-Indus, billed as India's first full-stack 25-qubit superconducting quantum computer. A larger machine has been announced. India's National Quantum Mission (approved April 2023) sets a goal of 50 to 1,000 physical qubits over eight years. TIFR and IISc are building superconducting qubits; the IISc-led hub focuses on computing.</p>"
+  },
+  {
+   "tag": "Recap",
+   "h": "Key takeaways and think-about-it",
+   "b": "<ul><li>Qubits use superposition and entanglement; algorithms use interference.</li><li>Shor (1994) threatens RSA; Grover (1996) gives a square-root speed-up.</li><li>Error correction is the main hurdle; practical advantage is not yet broad (as of 2026).</li></ul><div class=\"box\"><h4>Think about it</h4><ol><li>Why does measuring a quantum computer give only one answer?</li><li>Why can 300 qubits not be simulated classically?</li></ol></div>",
+   "cls": "exam"
+  }
+ ],
+ "quiz": [
+  {
+   "q": "A qubit can be:",
+   "o": [
+    "Only 1",
+    "Only 0",
+    "In a superposition of 0 and 1",
+    "Neither"
+   ],
+   "a": 2,
+   "w": "With an amplitude for each."
+  },
+  {
+   "q": "Who suggested in 1981 that simulating nature needs a quantum computer?",
+   "o": [
+    "Shor",
+    "Richard Feynman",
+    "Planck",
+    "Grover"
+   ],
+   "a": 1,
+   "w": "He saw classical computers struggle."
+  },
+  {
+   "q": "How do quantum algorithms get the right answer?",
+   "o": [
+    "Reading the future",
+    "Using more power",
+    "Interference makes wrong answers cancel",
+    "Trying all answers and picking"
+   ],
+   "a": 2,
+   "w": "Amplitudes are steered."
+  },
+  {
+   "q": "Shor's algorithm threatens:",
+   "o": [
+    "RSA encryption",
+    "Search engines",
+    "Passwords on paper",
+    "Sudoku"
+   ],
+   "a": 0,
+   "w": "By factoring large numbers."
+  },
+  {
+   "q": "Grover's algorithm gives:",
+   "o": [
+    "Exponential speed-up",
+    "No speed-up",
+    "A square-root speed-up in search",
+    "Infinite speed-up"
+   ],
+   "a": 2,
+   "w": "N items in about √N steps."
+  },
+  {
+   "q": "Google's 2019 Sycamore claimed:",
+   "o": [
+    "A million qubits",
+    "Curing disease",
+    "Quantum supremacy on a useless task",
+    "Breaking RSA"
+   ],
+   "a": 2,
+   "w": "It was disputed by IBM."
+  },
+  {
+   "q": "The main obstacle for quantum computers is:",
+   "o": [
+    "Errors from decoherence and noise",
+    "Too slow lasers",
+    "Lack of qubits in theory",
+    "Electricity prices"
+   ],
+   "a": 0,
+   "w": "Error correction is needed."
+  },
+  {
+   "q": "Why can a classical computer not easily simulate 300 qubits?",
+   "o": [
+    "Describing them takes more numbers than there are atoms in the visible universe",
+    "Qubits are faster than light",
+    "Classical bits cannot be 0",
+    "300 qubits are too hot"
+   ],
+   "a": 0,
+   "w": "The 2ⁿ growth is exponential."
+  },
+  {
+   "q": "QpiAI-Indus launched in April 2025 has:",
+   "o": [
+    "25 superconducting qubits",
+    "1 million qubits",
+    "1000 qubits",
+    "2 qubits"
+   ],
+   "a": 0,
+   "w": "Billed as India's first full-stack machine."
+  },
+  {
+   "q": "Willow (Google, December 2024) showed:",
+   "o": [
+    "Quantum supremacy for cryptography",
+    "A cure for decoherence",
+    "Faster-than-light signals",
+    "More qubits could lower errors"
+   ],
+   "a": 3,
+   "w": "A key error-correction milestone."
+  }
+ ],
+ "sources": [
+  "Feynman 1982",
+  "Deutsch 1985",
+  "Shor 1994",
+  "Grover 1996",
+  "Arute et al. 2019",
+  "Google Quantum AI 2024",
+  "Gidney 2025"
+ ],
+ "verified": "2026-11-11"
+}

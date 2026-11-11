@@ -55,22 +55,22 @@
    "q": "Being and Nothingness was published in",
    "o": [
     "1960",
+    "1946",
     "1968",
-    "1943",
-    "1946"
+    "1943"
    ],
-   "a": 2,
+   "a": 3,
    "w": "In occupied Paris."
   },
   {
    "q": "\"Existence precedes essence\" means",
    "o": [
-    "People make themselves through choices",
-    "Nature fixes human essence",
     "God creates essence",
+    "Nature fixes human essence",
+    "People make themselves through choices",
     "Class determines identity"
    ],
-   "a": 0,
+   "a": 2,
    "w": "Existentialism is a Humanism."
   },
   {
@@ -87,21 +87,21 @@
   {
    "q": "Sartre called Marxism",
    "o": [
-    "The unsurpassable philosophy of our time",
+    "A bourgeois science",
     "An obsolete doctrine",
-    "A religion",
-    "A bourgeois science"
+    "The unsurpassable philosophy of our time",
+    "A religion"
    ],
-   "a": 0,
+   "a": 2,
    "w": "In 1960."
   },
   {
    "q": "Seriality refers to",
    "o": [
-    "A party structure",
     "A novel genre",
+    "A government system",
     "Isolated individuals in a collective arrangement",
-    "A government system"
+    "A party structure"
    ],
    "a": 2,
    "w": "E.g. queueing."
@@ -109,56 +109,56 @@
   {
    "q": "Which writer broke with Sartre in 1952 over the Soviet camps?",
    "o": [
-    "Beauvoir",
     "Aron",
-    "Fanon",
-    "Camus"
+    "Camus",
+    "Beauvoir",
+    "Fanon"
    ],
-   "a": 3,
+   "a": 1,
    "w": "The Rebel and the dispute."
   },
   {
    "q": "Sartre wrote a preface for",
    "o": [
-    "Capital",
-    "Mao's Red Book",
+    "The Wretched of the Earth",
     "The Gulag Archipelago",
-    "The Wretched of the Earth"
+    "Capital",
+    "Mao's Red Book"
    ],
-   "a": 3,
+   "a": 0,
    "w": "Fanon, 1961."
   },
   {
    "q": "Aron's book mocking fellow-travelling was",
    "o": [
+    "Homage to Catalonia",
     "The Rebel",
     "The Opium of the Intellectuals",
-    "The Open Society",
-    "Homage to Catalonia"
+    "The Open Society"
    ],
-   "a": 1,
+   "a": 2,
    "w": "1955."
   },
   {
    "q": "Sartre refused the Nobel Prize in",
    "o": [
-    "1964",
-    "1943",
+    "1952",
     "1980",
-    "1952"
+    "1943",
+    "1964"
    ],
-   "a": 0,
+   "a": 3,
    "w": "For literature."
   },
   {
    "q": "The Progressive Writers' Association in India was founded in",
    "o": [
-    "1950",
     "1936",
     "1920",
-    "1970"
+    "1970",
+    "1950"
    ],
-   "a": 1,
+   "a": 0,
    "w": "Linked to committed literature."
   }
  ],

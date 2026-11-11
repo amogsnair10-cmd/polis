@@ -54,30 +54,30 @@
   {
    "q": "About how many Africans were shipped to the Americas?",
    "o": [
-    "About 1 million",
-    "About 100 million",
+    "About 500,000",
     "About 12.5 million",
-    "About 500,000"
+    "About 100 million",
+    "About 1 million"
    ],
-   "a": 2,
+   "a": 1,
    "w": "From Slave Voyages data."
   },
   {
    "q": "Which country received the most captives?",
    "o": [
-    "Brazil",
     "USA",
-    "Canada",
-    "Mexico"
+    "Brazil",
+    "Mexico",
+    "Canada"
    ],
-   "a": 0,
+   "a": 1,
    "w": "Nearly half."
   },
   {
    "q": "The Middle Passage was...",
    "o": [
-    "A river",
     "A law",
+    "A river",
     "A market",
     "The Atlantic crossing"
    ],
@@ -88,77 +88,77 @@
    "q": "Equiano's book came out in...",
    "o": [
     "1500",
-    "1789",
+    "1865",
     "1807",
-    "1865"
+    "1789"
    ],
-   "a": 1,
+   "a": 3,
    "w": "His Interesting Narrative."
   },
   {
    "q": "Britain banned the trade in...",
    "o": [
-    "1807",
-    "1789",
     "1833",
-    "1865"
+    "1807",
+    "1865",
+    "1789"
    ],
-   "a": 0,
+   "a": 1,
    "w": "The Slave Trade Act."
   },
   {
    "q": "Slavery in the British Empire was abolished in...",
    "o": [
-    "1807",
-    "1865",
+    "1833",
     "1888",
-    "1833"
+    "1865",
+    "1807"
    ],
-   "a": 3,
+   "a": 0,
    "w": "Effective 1834."
   },
   {
    "q": "The last in the Americas to abolish...",
    "o": [
+    "Haiti in 1791",
     "USA in 1865",
-    "Brazil in 1888",
     "Cuba in 1807",
-    "Haiti in 1791"
+    "Brazil in 1888"
    ],
-   "a": 1,
+   "a": 3,
    "w": "The Golden Law."
   },
   {
    "q": "Malik Ambar was...",
    "o": [
-    "A Mughal prince",
-    "A Portuguese captain",
     "An African-born regent of Ahmadnagar",
-    "A Chola king"
+    "A Portuguese captain",
+    "A Chola king",
+    "A Mughal prince"
    ],
-   "a": 2,
+   "a": 0,
    "w": "He resisted the Mughals."
   },
   {
    "q": "Girmitiyas were...",
    "o": [
+    "Indian indentured labourers",
     "Portuguese sailors",
     "Mughal soldiers",
-    "African chiefs",
-    "Indian indentured labourers"
+    "African chiefs"
    ],
-   "a": 3,
+   "a": 0,
    "w": "Sent to colonies after 1834."
   },
   {
    "q": "Eric Williams wrote...",
    "o": [
-    "Capitalism and Slavery",
+    "The Prince",
     "Wealth of Nations",
-    "Das Kapital",
-    "The Prince"
+    "Capitalism and Slavery",
+    "Das Kapital"
    ],
-   "a": 0,
+   "a": 2,
    "w": "1944."
   }
  ],

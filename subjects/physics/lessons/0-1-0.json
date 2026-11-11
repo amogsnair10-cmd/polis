@@ -59,10 +59,10 @@
   {
    "q": "The SI unit of pressure is the",
    "o": [
-    "Newton",
-    "Pascal",
     "Joule",
-    "Watt"
+    "Pascal",
+    "Watt",
+    "Newton"
    ],
    "a": 1,
    "w": "One newton per square metre."
@@ -70,78 +70,78 @@
   {
    "q": "A force of 200 N acts on 0.5 square m. Pressure?",
    "o": [
+    "200.5 Pa",
     "100 Pa",
     "400 Pa",
-    "200.5 Pa",
     "0.0025 Pa"
    ],
-   "a": 1,
+   "a": 2,
    "w": "200/0.5 = 400."
   },
   {
    "q": "Water pressure at depth depends on",
    "o": [
+    "Container shape",
     "Container width",
     "Depth, density and g",
-    "Amount of water in the lake",
-    "Container shape"
+    "Amount of water in the lake"
    ],
-   "a": 1,
+   "a": 2,
    "w": "P = density g h."
   },
   {
    "q": "Pressure added by 20 m of water (g = 10, density 1000) is",
    "o": [
+    "10,000 Pa",
     "20,000 Pa",
-    "200,000 Pa",
     "2,000 Pa",
-    "10,000 Pa"
+    "200,000 Pa"
    ],
-   "a": 1,
+   "a": 3,
    "w": "1000 x 10 x 20."
   },
   {
    "q": "Pascal's law explains",
    "o": [
-    "Why ships float",
     "Hydraulic lifts",
     "Why planets orbit",
+    "Why ships float",
     "How lenses work"
    ],
-   "a": 1,
+   "a": 0,
    "w": "Pressure passes equally in a closed fluid."
   },
   {
    "q": "A hydraulic press has pistons of 2 and 20 square cm. A 50 N push gives output force",
    "o": [
-    "5 N",
     "500 N",
+    "70 N",
     "1000 N",
-    "70 N"
+    "5 N"
    ],
-   "a": 1,
+   "a": 0,
    "w": "Area ratio 10, so 500 N."
   },
   {
    "q": "Archimedes' principle says buoyant force equals",
    "o": [
+    "Volume of the object",
     "Weight of the object",
     "Weight of fluid displaced",
-    "Volume of the object",
     "Pressure x time"
    ],
-   "a": 1,
+   "a": 2,
    "w": "Upthrust equals displaced fluid weight."
   },
   {
    "q": "A steel ship floats because",
    "o": [
+    "It is moving",
     "Steel is lighter than water",
-    "Its average density is below water's",
     "Air pushes it up",
-    "It is moving"
+    "Its average density is below water's"
    ],
-   "a": 1,
+   "a": 3,
    "w": "Hollow shape displaces a large volume."
   },
   {
@@ -158,10 +158,10 @@
   {
    "q": "According to Bernoulli, where fluid speed is higher the pressure is",
    "o": [
-    "Higher",
+    "Infinite",
     "Lower",
     "Unchanged",
-    "Infinite"
+    "Higher"
    ],
    "a": 1,
    "w": "Speed trades with pressure."

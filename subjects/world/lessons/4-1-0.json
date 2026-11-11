@@ -54,20 +54,20 @@
   {
    "q": "Zheng He served...",
    "o": [
+    "The Yongle Emperor",
     "Kublai Khan",
     "Qin Shi Huang",
-    "The Yongle Emperor",
     "Emperor Wu"
    ],
-   "a": 2,
+   "a": 0,
    "w": "Ming dynasty."
   },
   {
    "q": "His first fleet sailed in...",
    "o": [
     "1405",
-    "1492",
     "1433",
+    "1492",
     "1368"
    ],
    "a": 0,
@@ -76,45 +76,45 @@
   {
    "q": "Zheng He was born in...",
    "o": [
+    "Yunnan",
     "Beijing",
     "Nanjing",
-    "Canton",
-    "Yunnan"
+    "Canton"
    ],
-   "a": 3,
+   "a": 0,
    "w": "A Muslim family."
   },
   {
    "q": "An African animal brought to China was the...",
    "o": [
-    "Elephant",
-    "Giraffe",
+    "Zebra",
     "Lion",
-    "Zebra"
+    "Giraffe",
+    "Elephant"
    ],
-   "a": 1,
+   "a": 2,
    "w": "Called a qilin."
   },
   {
    "q": "The voyages ended after...",
    "o": [
-    "1433",
-    "1405",
     "1498",
-    "1521"
+    "1433",
+    "1521",
+    "1405"
    ],
-   "a": 0,
+   "a": 1,
    "w": "Under Xuande."
   },
   {
    "q": "Why did they stop?",
    "o": [
-    "Defeat by Portugal",
-    "A plague",
     "Zheng He's rebellion",
-    "Cost and court politics"
+    "Defeat by Portugal",
+    "Cost and court politics",
+    "A plague"
    ],
-   "a": 3,
+   "a": 2,
    "w": "Confucian officials disapproved."
   },
   {
@@ -131,34 +131,34 @@
   {
    "q": "Which Indian port did Zheng He visit?",
    "o": [
-    "Surat",
-    "Bombay",
     "Calicut",
-    "Calcutta"
+    "Bombay",
+    "Calcutta",
+    "Surat"
    ],
-   "a": 2,
+   "a": 0,
    "w": "On the Malabar coast."
   },
   {
    "q": "Da Gama arrived in Calicut in...",
    "o": [
-    "1405",
-    "1521",
+    "1498",
     "1600",
-    "1498"
+    "1521",
+    "1405"
    ],
-   "a": 3,
+   "a": 0,
    "w": "On 20 May."
   },
   {
    "q": "A qilin was...",
    "o": [
-    "A mythical lucky beast",
     "A ship",
-    "A tax",
-    "A river"
+    "A mythical lucky beast",
+    "A river",
+    "A tax"
    ],
-   "a": 0,
+   "a": 1,
    "w": "The giraffe was taken for one."
   }
  ],

@@ -54,43 +54,43 @@
   {
    "q": "The Khmer Rouge took Phnom Penh on",
    "o": [
-    "7 January 1979",
-    "1970",
     "1991",
-    "17 April 1975"
+    "17 April 1975",
+    "7 January 1979",
+    "1970"
    ],
-   "a": 3,
+   "a": 1,
    "w": "Start of Democratic Kampuchea."
   },
   {
    "q": "Pol Pot's original name was",
    "o": [
     "Khieu Samphan",
-    "Nuon Chea",
     "Heng Samrin",
-    "Saloth Sar"
+    "Saloth Sar",
+    "Nuon Chea"
    ],
-   "a": 3,
+   "a": 2,
    "w": "Born 1925."
   },
   {
    "q": "Estimated deaths under the Khmer Rouge are about",
    "o": [
+    "1.5 to 2 million",
     "150,000",
-    "10 million",
     "50,000",
-    "1.5 to 2 million"
+    "10 million"
    ],
-   "a": 3,
+   "a": 0,
    "w": "Quarter of the population by some counts."
   },
   {
    "q": "Tuol Sleng prison was known as",
    "o": [
+    "Kampong",
     "Choeung Ek",
-    "Angkar",
     "S-21",
-    "Kampong"
+    "Angkar"
    ],
    "a": 2,
    "w": "A former school."
@@ -109,23 +109,23 @@
   {
    "q": "Who led the Cambodian government installed in 1979?",
    "o": [
+    "Heng Samrin",
     "Pol Pot",
     "Sihanouk",
-    "Heng Samrin",
     "Lon Nol"
    ],
-   "a": 2,
+   "a": 0,
    "w": "Vietnamese-backed."
   },
   {
    "q": "The ECCC tribunal found Nuon Chea and Khieu Samphan guilty of genocide in",
    "o": [
-    "2018",
-    "1998",
+    "2006",
     "1979",
-    "2006"
+    "2018",
+    "1998"
    ],
-   "a": 0,
+   "a": 2,
    "w": "Also earlier convictions."
   },
   {
@@ -142,8 +142,8 @@
   {
    "q": "The Black Book of Communism was published in",
    "o": [
-    "1979",
     "1956",
+    "1979",
     "1997",
     "2010"
    ],
@@ -153,12 +153,12 @@
   {
    "q": "Which Indian government recognised the Heng Samrin regime in 1980?",
    "o": [
-    "Morarji Desai's",
-    "Indira Gandhi's",
+    "Vajpayee's",
     "Rajiv Gandhi's",
-    "Vajpayee's"
+    "Morarji Desai's",
+    "Indira Gandhi's"
    ],
-   "a": 1,
+   "a": 3,
    "w": "India's decision."
   }
  ],

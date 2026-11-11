@@ -59,10 +59,10 @@
   {
    "q": "Koppen classified climates mainly by",
    "o": [
-    "Wind and pressure",
+    "Latitude only",
     "Temperature, rainfall and vegetation",
-    "Soil and relief",
-    "Latitude only"
+    "Wind and pressure",
+    "Soil and relief"
    ],
    "a": 1,
    "w": "These three drive the letter codes."
@@ -70,52 +70,52 @@
   {
    "q": "Af climate is",
    "o": [
+    "Tundra",
     "Hot desert",
     "Equatorial, wet all year",
-    "Mediterranean",
-    "Tundra"
+    "Mediterranean"
    ],
-   "a": 1,
+   "a": 2,
    "w": "A is tropical; f means no dry season."
   },
   {
    "q": "Mediterranean climate has",
    "o": [
-    "Wet summers",
+    "Wet winters and dry summers",
     "Rain all year",
     "No rain",
-    "Wet winters and dry summers"
+    "Wet summers"
    ],
-   "a": 3,
+   "a": 0,
    "w": "It is Cs in Koppen."
   },
   {
    "q": "El Nino was first noticed off the coast of",
    "o": [
-    "Peru",
     "Chile",
-    "Australia",
-    "Indonesia"
+    "Indonesia",
+    "Peru",
+    "Australia"
    ],
-   "a": 0,
+   "a": 2,
    "w": "Local fishermen saw warm water around Christmas."
   },
   {
    "q": "In an El Nino year, the western Pacific tends to be",
    "o": [
-    "Very wet",
     "Colder at the surface only",
-    "Dry",
-    "Hit by more cyclones"
+    "Hit by more cyclones",
+    "Very wet",
+    "Dry"
    ],
-   "a": 2,
+   "a": 3,
    "w": "Rain shifts east, giving drought to Indonesia and Australia."
   },
   {
    "q": "La Nina is generally",
    "o": [
-    "Fatal for it",
     "Neutral",
+    "Fatal for it",
     "Linked to winter rain only",
     "Favourable for the Indian monsoon"
    ],
@@ -126,9 +126,9 @@
    "q": "Positive IOD refers to",
    "o": [
     "Warmer west Indian Ocean",
-    "Warm east Pacific",
     "Cold Arctic",
-    "Monsoon withdrawal"
+    "Monsoon withdrawal",
+    "Warm east Pacific"
    ],
    "a": 0,
    "w": "It enhances rain over India."
@@ -137,33 +137,33 @@
    "q": "Taiga is found in",
    "o": [
     "Af climate",
+    "Cs climate",
     "BW climate",
-    "Df climate",
-    "Cs climate"
+    "Df climate"
    ],
-   "a": 2,
+   "a": 3,
    "w": "Coniferous forests of Siberia and Canada."
   },
   {
    "q": "Thar desert in Koppen is",
    "o": [
+    "Dfc",
     "BWhw",
-    "Aw",
     "Cwg",
-    "Dfc"
+    "Aw"
    ],
-   "a": 0,
+   "a": 1,
    "w": "Hot desert with a dry winter."
   },
   {
    "q": "Annual temperature range is greatest in",
    "o": [
-    "Equatorial coasts",
-    "Oceanic islands",
     "Tropical forests",
-    "Continental interiors at high latitude"
+    "Continental interiors at high latitude",
+    "Equatorial coasts",
+    "Oceanic islands"
    ],
-   "a": 3,
+   "a": 1,
    "w": "Siberia sees a swing of over 60 C."
   }
  ],

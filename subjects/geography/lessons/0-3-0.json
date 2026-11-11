@@ -59,56 +59,56 @@
   {
    "q": "The most fertile soil horizon is",
    "o": [
-    "B horizon",
-    "C horizon",
+    "R horizon",
     "A horizon",
-    "R horizon"
+    "B horizon",
+    "C horizon"
    ],
-   "a": 2,
+   "a": 1,
    "w": "It has humus and minerals."
   },
   {
    "q": "Laterite forms in",
    "o": [
-    "Hot, wet tropics",
-    "Cold taiga",
+    "Polar tundra",
     "Dry deserts",
-    "Polar tundra"
+    "Hot, wet tropics",
+    "Cold taiga"
    ],
-   "a": 0,
+   "a": 2,
    "w": "Leaching removes silica and leaves iron and aluminium."
   },
   {
    "q": "Chernozem is a",
    "o": [
-    "Grey acidic soil of taiga",
-    "Red soil of rainforest",
     "Salty desert soil",
-    "Black, fertile soil of steppe lands"
+    "Black, fertile soil of steppe lands",
+    "Red soil of rainforest",
+    "Grey acidic soil of taiga"
    ],
-   "a": 3,
+   "a": 1,
    "w": "Rich humus makes it ideal for wheat."
   },
   {
    "q": "Pampas are found in",
    "o": [
-    "South Africa",
     "Argentina",
     "Australia",
-    "Canada"
+    "Canada",
+    "South Africa"
    ],
-   "a": 1,
+   "a": 0,
    "w": "Temperate grasslands of South America."
   },
   {
    "q": "Veld refers to grasslands of",
    "o": [
-    "Ukraine",
     "South Africa",
     "Australia",
-    "Argentina"
+    "Argentina",
+    "Ukraine"
    ],
-   "a": 1,
+   "a": 0,
    "w": "High veld is a major farming region."
   },
   {
@@ -116,32 +116,32 @@
    "o": [
     "Evergreen hardwoods",
     "Savanna grass",
-    "Cactus",
-    "Coniferous trees"
+    "Coniferous trees",
+    "Cactus"
    ],
-   "a": 3,
+   "a": 2,
    "w": "Pine, spruce, and fir."
   },
   {
    "q": "Mediterranean vegetation has",
    "o": [
-    "Drought-resistant leaves",
     "Large thin leaves",
     "Leaves shed in winter only",
+    "Drought-resistant leaves",
     "Mosses and lichens"
    ],
-   "a": 0,
+   "a": 2,
    "w": "Hot dry summers select for waxy small leaves."
   },
   {
    "q": "UNCCD was adopted in",
    "o": [
+    "2015",
     "1972",
     "1987",
-    "1994",
-    "2015"
+    "1994"
    ],
-   "a": 2,
+   "a": 3,
    "w": "It deals with desertification and land degradation."
   },
   {
@@ -149,21 +149,21 @@
    "o": [
     "1991",
     "2005",
-    "2020",
-    "2015"
+    "2015",
+    "2020"
    ],
-   "a": 3,
+   "a": 2,
    "w": "It gives farmers soil nutrient reports."
   },
   {
    "q": "Which is NOT one of the soil-forming factors?",
    "o": [
+    "Time",
     "Wind speed",
     "Parent material",
-    "Time",
     "Relief"
    ],
-   "a": 0,
+   "a": 1,
    "w": "The factors are parent material, climate, relief, organisms, time."
   }
  ],

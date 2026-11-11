@@ -6,7 +6,7 @@
   {
    "tag": "Why this matters",
    "h": "The leftovers that tell the story",
-   "b": "<p>Planets get the fame, but moons, asteroids and comets are the preserved building blocks of the Solar System. Some may host life. Some could end it: an asteroid about 10 km wide hit Earth 66 million years ago and ended the dinosaurs.</p><svg class=\"d\" viewBox=\"0 0 320 100\"><defs><marker id=\"ar1\" viewBox=\"0 0 10 10\" refX=\"9\" refY=\"5\" markerWidth=\"6\" markerHeight=\"6\" orient=\"auto\"><path d=\"M0 0L10 5L0 10z\" fill=\"#5d6474\"/></marker></defs><circle cx=\"25\" cy=\"45\" r=\"10\" fill=\"#f1e4c6\" stroke=\"#a8792a\"/><text x=\"25\" y=\"49\" text-anchor=\"middle\" font-size=\"10\" fill=\"#1d2433\">Sun</text><rect x=\"60\" y=\"30\" width=\"45\" height=\"30\" rx=\"5\" fill=\"#dceaec\" stroke=\"#2f6f7a\"/><text x=\"82.5\" y=\"43.0\" text-anchor=\"middle\" font-size=\"11\" fill=\"#1d2433\">Inner</text><text x=\"82.5\" y=\"56.0\" text-anchor=\"middle\" font-size=\"11\" fill=\"#1d2433\">planets</text><rect x=\"110\" y=\"30\" width=\"55\" height=\"30\" rx=\"5\" fill=\"#f1e4c6\" stroke=\"#a8792a\"/><text x=\"137.5\" y=\"43.0\" text-anchor=\"middle\" font-size=\"11\" fill=\"#1d2433\">Asteroid</text><text x=\"137.5\" y=\"56.0\" text-anchor=\"middle\" font-size=\"11\" fill=\"#1d2433\">belt</text><rect x=\"170\" y=\"30\" width=\"50\" height=\"30\" rx=\"5\" fill=\"#dceaec\" stroke=\"#2f6f7a\"/><text x=\"195.0\" y=\"49.0\" text-anchor=\"middle\" font-size=\"11\" fill=\"#1d2433\">Giants</text><rect x=\"225\" y=\"30\" width=\"90\" height=\"30\" rx=\"5\" fill=\"#f4dcd5\" stroke=\"#a3362a\"/><text x=\"270.0\" y=\"49.0\" text-anchor=\"middle\" font-size=\"11\" fill=\"#1d2433\">Kuiper belt</text><text x=\"160\" y=\"85\" text-anchor=\"middle\" font-size=\"9\" fill=\"#5d6474\">Oort cloud: far beyond, up to about 1 light-year out (theory)</text></svg>"
+   "b": "<p>Planets get the fame, but moons, asteroids and comets are the preserved building blocks of the Solar System. Some may host life. Some could end it: an asteroid about 10 km wide hit Earth 66 million years ago and ended the dinosaurs.</p><svg class=\"d\" viewBox=\"0 0 320 100\"><defs><marker id=\"ar1\" viewBox=\"0 0 10 10\" refX=\"9\" refY=\"5\" markerWidth=\"6\" markerHeight=\"6\" orient=\"auto\"><path d=\"M0 0L10 5L0 10z\" fill=\"#5d6474\"/></marker></defs><circle cx=\"25\" cy=\"45\" r=\"10\" fill=\"#f1e4c6\" stroke=\"#a8792a\"/><text x=\"25\" y=\"49\" text-anchor=\"middle\" font-size=\"10\" fill=\"#1d2433\">Sun</text><rect x=\"60\" y=\"30\" width=\"45\" height=\"30\" rx=\"5\" fill=\"#dceaec\" stroke=\"#2f6f7a\"/><text x=\"82.5\" y=\"43.0\" text-anchor=\"middle\" font-size=\"11\" fill=\"#1d2433\">Inner</text><text x=\"82.5\" y=\"56.0\" text-anchor=\"middle\" font-size=\"11\" fill=\"#1d2433\">planets</text><rect x=\"110\" y=\"30\" width=\"55\" height=\"30\" rx=\"5\" fill=\"#f1e4c6\" stroke=\"#a8792a\"/><text x=\"137.5\" y=\"43.0\" text-anchor=\"middle\" font-size=\"11\" fill=\"#1d2433\">Asteroid</text><text x=\"137.5\" y=\"56.0\" text-anchor=\"middle\" font-size=\"11\" fill=\"#1d2433\">belt</text><rect x=\"170\" y=\"30\" width=\"50\" height=\"30\" rx=\"5\" fill=\"#dceaec\" stroke=\"#2f6f7a\"/><text x=\"195.0\" y=\"49.0\" text-anchor=\"middle\" font-size=\"11\" fill=\"#1d2433\">Giants</text><rect x=\"225\" y=\"30\" width=\"90\" height=\"30\" rx=\"5\" fill=\"#f4dcd5\" stroke=\"#a3362a\"/><text x=\"270.0\" y=\"49.0\" text-anchor=\"middle\" font-size=\"11\" fill=\"#1d2433\">Kuiper belt</text><text x=\"160\" y=\"85\" text-anchor=\"middle\" font-size=\"10\" fill=\"#5d6474\">Oort cloud: far beyond, up to about 1 light-year out (theory)</text></svg>"
   },
   {
    "tag": "Concept",
@@ -59,111 +59,111 @@
   {
    "q": "The leading explanation for the Moon's origin is:",
    "o": [
-    "Capture",
     "Giant impact",
+    "Capture",
     "Fission",
     "Condensing alongside Earth"
    ],
-   "a": 1,
+   "a": 0,
    "w": "A Mars-size body struck early Earth."
   },
   {
    "q": "A comet's tail points:",
    "o": [
-    "Behind its path",
     "Away from the Sun",
-    "Toward the Sun",
-    "Randomly"
+    "Randomly",
+    "Behind its path",
+    "Toward the Sun"
    ],
-   "a": 1,
+   "a": 0,
    "w": "Solar wind and light pressure."
   },
   {
    "q": "The asteroid belt lies between:",
    "o": [
-    "Earth and Mars",
-    "Mars and Jupiter",
+    "Neptune and Pluto",
     "Jupiter and Saturn",
-    "Neptune and Pluto"
+    "Earth and Mars",
+    "Mars and Jupiter"
    ],
-   "a": 1,
+   "a": 3,
    "w": "Mars and Jupiter."
   },
   {
    "q": "Halley's Comet returns about every:",
    "o": [
     "7.6 years",
-    "76 years",
     "760 years",
-    "1 year"
+    "1 year",
+    "76 years"
    ],
-   "a": 1,
+   "a": 3,
    "w": "Next around 2061."
   },
   {
    "q": "Which moon is thought to have a subsurface salty ocean?",
    "o": [
-    "Europa",
     "Our Moon",
+    "Europa",
     "Phobos",
     "Callisto only"
    ],
-   "a": 0,
+   "a": 1,
    "w": "Europa (also Enceladus)."
   },
   {
    "q": "A meteorite is a space rock that:",
    "o": [
-    "Burns up completely",
-    "Lands on Earth's surface",
+    "Is a comet tail",
     "Orbits Mars",
-    "Is a comet tail"
+    "Lands on Earth's surface",
+    "Burns up completely"
    ],
-   "a": 1,
+   "a": 2,
    "w": "Meteor burns; meteorite lands."
   },
   {
    "q": "Pluto was reclassified in 2006 because it:",
    "o": [
     "Is too small to see",
-    "Has not cleared its orbit",
+    "Is not round",
     "Has no moons",
-    "Is not round"
+    "Has not cleared its orbit"
    ],
-   "a": 1,
+   "a": 3,
    "w": "IAU definition of a planet."
   },
   {
    "q": "DART in 2022 tested:",
    "o": [
     "Mars landing",
-    "Deflecting an asteroid",
     "Finding comets",
-    "Moon mining"
+    "Moon mining",
+    "Deflecting an asteroid"
    ],
-   "a": 1,
+   "a": 3,
    "w": "Impacted Dimorphos."
   },
   {
    "q": "Chandrayaan-1 contributed to finding:",
    "o": [
-    "Water molecules on the Moon",
-    "Life on Mars",
     "Rings of Uranus",
-    "Dark matter"
+    "Water molecules on the Moon",
+    "Dark matter",
+    "Life on Mars"
    ],
-   "a": 0,
+   "a": 1,
    "w": "Moon Mineralogy Mapper and MIP."
   },
   {
    "q": "Comets from the Kuiper belt are typically:",
    "o": [
-    "Short-period",
     "Never return",
-    "Made of metal",
-    "Hotter than asteroids"
+    "Short-period",
+    "Hotter than asteroids",
+    "Made of metal"
    ],
-   "a": 0,
+   "a": 1,
    "w": "They return within about 200 years."
   }
  ],

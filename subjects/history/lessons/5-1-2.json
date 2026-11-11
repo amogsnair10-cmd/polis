@@ -55,66 +55,66 @@
    "q": "The Great Depression began with",
    "o": [
     "The Russian Revolution",
-    "The Treaty of Versailles",
     "The Wall Street Crash of 1929",
+    "The Treaty of Versailles",
     "Hitler’s rise"
    ],
-   "a": 2,
+   "a": 1,
    "w": "In October 1929."
   },
   {
    "q": "Roosevelt’s response to the Depression was",
    "o": [
     "The Marshall Plan",
-    "The New Deal",
     "Lend-Lease",
-    "The Truman Doctrine"
+    "The Truman Doctrine",
+    "The New Deal"
    ],
-   "a": 1,
+   "a": 3,
    "w": "From 1933."
   },
   {
    "q": "Mussolini’s March on Rome took place in",
    "o": [
+    "1929",
     "1922",
     "1919",
-    "1929",
     "1935"
    ],
-   "a": 0,
+   "a": 1,
    "w": "He became prime minister."
   },
   {
    "q": "The Munich Agreement (1938) involved",
    "o": [
+    "Czechoslovakia’s Sudetenland",
     "Austria",
     "Poland",
-    "Ethiopia",
-    "Czechoslovakia’s Sudetenland"
+    "Ethiopia"
    ],
-   "a": 3,
+   "a": 0,
    "w": "Chamberlain, Daladier, Hitler, Mussolini."
   },
   {
    "q": "Appeasement was the policy of",
    "o": [
-    "USSR",
-    "Japan",
+    "Italy",
     "Britain and France",
-    "Italy"
+    "USSR",
+    "Japan"
    ],
-   "a": 2,
+   "a": 1,
    "w": "Of giving in to Hitler."
   },
   {
    "q": "The Second World War began with the invasion of",
    "o": [
+    "France",
     "Czechoslovakia",
     "Poland",
-    "France",
     "The USSR"
    ],
-   "a": 1,
+   "a": 2,
    "w": "On 1 September 1939."
   },
   {
@@ -131,34 +131,34 @@
   {
    "q": "The Battle of Stalingrad was a turning point on the",
    "o": [
-    "Pacific front",
+    "Eastern Front",
     "North African front",
-    "Western front",
-    "Eastern Front"
+    "Pacific front",
+    "Western front"
    ],
-   "a": 3,
+   "a": 0,
    "w": "Soviet victory in 1943."
   },
   {
    "q": "The United Nations was founded in",
    "o": [
-    "1919",
-    "1939",
     "1945",
-    "1950"
+    "1939",
+    "1950",
+    "1919"
    ],
-   "a": 2,
+   "a": 0,
    "w": "Charter in force from 24 October."
   },
   {
    "q": "Which was a Yalta Conference leader?",
    "o": [
-    "Hitler",
     "Stalin",
-    "Mussolini",
-    "Hirohito"
+    "Hitler",
+    "Hirohito",
+    "Mussolini"
    ],
-   "a": 1,
+   "a": 0,
    "w": "With Roosevelt and Churchill, February 1945."
   }
  ],

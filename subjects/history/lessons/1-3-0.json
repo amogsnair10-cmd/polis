@@ -70,54 +70,54 @@
   {
    "q": "The Nayanars were devotees of",
    "o": [
+    "Rama",
     "Vishnu",
     "Shiva",
-    "Rama",
     "Krishna"
    ],
-   "a": 1,
+   "a": 2,
    "w": "63 of them."
   },
   {
    "q": "Vishishtadvaita was taught by",
    "o": [
-    "Ramanuja",
+    "Nimbarka",
     "Shankara",
-    "Madhva",
-    "Nimbarka"
+    "Ramanuja",
+    "Madhva"
    ],
-   "a": 0,
+   "a": 2,
    "w": "Qualified non-dualism."
   },
   {
    "q": "The Lingayat movement was founded by",
    "o": [
-    "Ramananda",
     "Chaitanya",
     "Tukaram",
-    "Basavanna"
+    "Basavanna",
+    "Ramananda"
    ],
-   "a": 3,
+   "a": 2,
    "w": "In Karnataka."
   },
   {
    "q": "Kabir was a disciple of",
    "o": [
-    "Nanak",
-    "Chaitanya",
+    "Ramanuja",
     "Ramananda",
-    "Ramanuja"
+    "Nanak",
+    "Chaitanya"
    ],
-   "a": 2,
+   "a": 1,
    "w": "He worshipped a formless God."
   },
   {
    "q": "The Chishti saint buried at Ajmer is",
    "o": [
-    "Nizamuddin Auliya",
-    "Khwaja Muinuddin Chishti",
     "Baba Farid",
-    "Bahauddin Zakariya"
+    "Khwaja Muinuddin Chishti",
+    "Bahauddin Zakariya",
+    "Nizamuddin Auliya"
    ],
    "a": 1,
    "w": "His dargah is a major pilgrimage place."
@@ -126,9 +126,9 @@
    "q": "Which Sufi order was based at Multan?",
    "o": [
     "Suhrawardi",
+    "Naqshbandi",
     "Chishti",
-    "Qadiri",
-    "Naqshbandi"
+    "Qadiri"
    ],
    "a": 0,
    "w": "Bahauddin Zakariya."
@@ -136,34 +136,34 @@
   {
    "q": "The Varkari tradition is associated with",
    "o": [
-    "Puri in Odisha",
     "Madurai in Tamil Nadu",
+    "Pandharpur in Maharashtra",
     "Nabadwip in Bengal",
-    "Pandharpur in Maharashtra"
+    "Puri in Odisha"
    ],
-   "a": 3,
+   "a": 1,
    "w": "Vitthal worship."
   },
   {
    "q": "Sankardeva was a saint of",
    "o": [
     "Bengal",
-    "Gujarat",
     "Assam",
-    "Kerala"
+    "Kerala",
+    "Gujarat"
    ],
-   "a": 2,
+   "a": 1,
    "w": "Ekasarana dharma."
   },
   {
    "q": "Ramcharitmanas was composed by",
    "o": [
     "Kabir",
-    "Tulsidas",
+    "Mirabai",
     "Surdas",
-    "Mirabai"
+    "Tulsidas"
    ],
-   "a": 1,
+   "a": 3,
    "w": "In Awadhi."
   }
  ],

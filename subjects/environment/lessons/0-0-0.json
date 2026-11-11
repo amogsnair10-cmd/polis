@@ -59,20 +59,20 @@
   {
    "q": "Who coined the term ecosystem?",
    "o": [
-    "A.G. Tansley, 1935",
-    "Ernst Haeckel, 1866",
     "Raymond Lindeman, 1942",
+    "Ernst Haeckel, 1866",
+    "A.G. Tansley, 1935",
     "Eugene Odum, 1953"
    ],
-   "a": 0,
+   "a": 2,
    "w": "Tansley coined it in 1935. Haeckel coined ecology; Lindeman gave the ten percent law."
   },
   {
    "q": "Roughly what share of energy passes to the next trophic level?",
    "o": [
-    "About 1 percent",
-    "About 50 percent",
     "About 90 percent",
+    "About 50 percent",
+    "About 1 percent",
     "About 10 percent"
    ],
    "a": 3,
@@ -83,30 +83,30 @@
    "o": [
     "Pyramid of biomass in the sea",
     "Pyramid of numbers in a tree ecosystem",
-    "Pyramid of energy",
-    "Pyramid of numbers in a pond"
+    "Pyramid of numbers in a pond",
+    "Pyramid of energy"
    ],
-   "a": 2,
+   "a": 3,
    "w": "Energy cannot increase going up a chain, so its pyramid is always upright."
   },
   {
    "q": "NPP is equal to:",
    "o": [
     "GPP plus respiration",
-    "GPP minus respiration losses",
     "Biomass of consumers",
+    "GPP minus respiration losses",
     "Energy of decomposers"
    ],
-   "a": 1,
+   "a": 2,
    "w": "Net primary productivity is gross productivity minus what plants burn in respiration."
   },
   {
    "q": "In terrestrial ecosystems, most energy flows through the:",
    "o": [
     "Detritus food chain",
-    "Grazing food chain",
     "Parasitic food chain",
-    "Marine food chain"
+    "Marine food chain",
+    "Grazing food chain"
    ],
    "a": 0,
    "w": "Much plant matter is not grazed and is eaten by decomposers after death."
@@ -115,33 +115,33 @@
    "q": "The starfish Pisaster was used by Paine to show the idea of:",
    "o": [
     "Ecotone",
+    "Keystone species",
     "Biomagnification",
-    "Succession",
-    "Keystone species"
+    "Succession"
    ],
-   "a": 3,
+   "a": 1,
    "w": "Removing the starfish caused mussels to take over and reduced diversity."
   },
   {
    "q": "Itai-itai disease is linked to which metal?",
    "o": [
-    "Mercury",
+    "Arsenic",
     "Lead",
-    "Cadmium",
-    "Arsenic"
+    "Mercury",
+    "Cadmium"
    ],
-   "a": 2,
+   "a": 3,
    "w": "Cadmium caused Itai-itai in Japan. Mercury caused Minamata."
   },
   {
    "q": "The transition zone between two ecosystems is called:",
    "o": [
-    "Biome",
-    "Ecotone",
+    "Habitat",
     "Niche",
-    "Habitat"
+    "Ecotone",
+    "Biome"
    ],
-   "a": 1,
+   "a": 2,
    "w": "An ecotone sits between ecosystems and often shows the edge effect."
   },
   {
@@ -158,12 +158,12 @@
   {
    "q": "Biomagnification means:",
    "o": [
-    "Increase in plant biomass",
+    "Concentration of a persistent substance rises at higher trophic levels",
     "Increase in energy at higher levels",
-    "Growth of algae in a lake",
-    "Concentration of a persistent substance rises at higher trophic levels"
+    "Increase in plant biomass",
+    "Growth of algae in a lake"
    ],
-   "a": 3,
+   "a": 0,
    "w": "Persistent toxins accumulate more at each higher level, so top predators carry the most."
   }
  ],

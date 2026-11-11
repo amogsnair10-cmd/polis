@@ -54,10 +54,10 @@
   {
    "q": "The Indian National Congress was founded in",
    "o": [
-    "1876",
+    "1905",
     "1885",
     "1857",
-    "1905"
+    "1876"
    ],
    "a": 1,
    "w": "Held at Bombay."
@@ -66,8 +66,8 @@
    "q": "First Congress president was",
    "o": [
     "W. C. Bonnerjee",
-    "A. O. Hume",
     "Dadabhai Naoroji",
+    "A. O. Hume",
     "Surendranath Banerjea"
    ],
    "a": 0,
@@ -78,51 +78,51 @@
    "o": [
     "Jinnah",
     "Mohammad Ali",
-    "Sir Syed",
-    "Badruddin Tyabji"
+    "Badruddin Tyabji",
+    "Sir Syed"
    ],
-   "a": 3,
+   "a": 2,
    "w": "He presided in 1887 at Madras."
   },
   {
    "q": "Indian Councils Act 1892 gave",
    "o": [
-    "Provincial autonomy",
-    "Direct election to all seats",
+    "Responsible government",
     "Limited right to discuss the budget and indirect election",
-    "Responsible government"
+    "Provincial autonomy",
+    "Direct election to all seats"
    ],
-   "a": 2,
+   "a": 1,
    "w": "It increased the number of non-official members."
   },
   {
    "q": "The Indian Association was founded in 1876 by",
    "o": [
-    "Gokhale",
     "Surendranath Banerjea",
+    "Malaviya",
     "Ranade",
-    "Malaviya"
+    "Gokhale"
    ],
-   "a": 1,
+   "a": 0,
    "w": "He and Anandamohan Bose started it in Calcutta."
   },
   {
    "q": "The Servants of India Society was founded by",
    "o": [
-    "G. K. Gokhale",
     "Tilak",
-    "Naoroji",
-    "Lajpat Rai"
+    "G. K. Gokhale",
+    "Lajpat Rai",
+    "Naoroji"
    ],
-   "a": 0,
+   "a": 1,
    "w": "In 1905 at Pune."
   },
   {
    "q": "The Moderates’ methods are described as",
    "o": [
+    "Civil disobedience",
     "Boycott and Swadeshi",
     "Armed revolt",
-    "Civil disobedience",
     "Prayers, petitions and protests"
    ],
    "a": 3,
@@ -131,32 +131,32 @@
   {
    "q": "The Welby Commission (1895) looked into",
    "o": [
+    "Police",
     "Education",
     "Famine",
-    "Indian expenditure",
-    "Police"
+    "Indian expenditure"
    ],
-   "a": 2,
+   "a": 3,
    "w": "Naoroji gave evidence."
   },
   {
    "q": "The “safety valve” theory links the Congress’s birth to",
    "o": [
-    "Curzon",
-    "A. O. Hume and Dufferin",
     "Ripon",
-    "Lytton"
+    "Lytton",
+    "A. O. Hume and Dufferin",
+    "Curzon"
    ],
-   "a": 1,
+   "a": 2,
    "w": "Disputed by Bipan Chandra."
   },
   {
    "q": "The Ilbert Bill (1883) was about",
    "o": [
     "Indian judges trying Europeans",
-    "Education",
     "Press",
-    "Salt"
+    "Salt",
+    "Education"
    ],
    "a": 0,
    "w": "Led to the European backlash."

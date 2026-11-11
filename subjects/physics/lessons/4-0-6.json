@@ -59,111 +59,111 @@
   {
    "q": "Hubble's law says recession speed is",
    "o": [
-    "Proportional to distance",
     "Inversely proportional to distance",
     "Constant",
+    "Proportional to distance",
     "Zero"
    ],
-   "a": 0,
+   "a": 2,
    "w": "v = H0 d."
   },
   {
    "q": "The age of the universe is about",
    "o": [
+    "1 million years",
     "4.6 billion years",
     "13.8 billion years",
-    "100 billion years",
-    "1 million years"
+    "100 billion years"
    ],
-   "a": 1,
+   "a": 2,
    "w": "13.8 billion years."
   },
   {
    "q": "The cosmic microwave background temperature is about",
    "o": [
-    "2.7 K",
     "270 K",
+    "2.7 K",
     "27,000 K",
     "0 K"
    ],
-   "a": 0,
+   "a": 1,
    "w": "A remnant of the early universe."
   },
   {
    "q": "Dark matter was first strongly indicated by",
    "o": [
-    "Galaxy rotation speeds",
+    "Radioactivity",
     "Solar eclipses",
-    "Planet orbits",
-    "Radioactivity"
+    "Galaxy rotation speeds",
+    "Planet orbits"
    ],
-   "a": 0,
+   "a": 2,
    "w": "Vera Rubin, 1970s."
   },
   {
    "q": "In 1998 astronomers found that the expansion of the universe is",
    "o": [
     "Slowing",
-    "Speeding up",
     "Constant",
+    "Speeding up",
     "Reversing"
    ],
-   "a": 1,
+   "a": 2,
    "w": "Dark energy."
   },
   {
    "q": "Which fraction of the universe is ordinary matter?",
    "o": [
+    "About 95 percent",
     "About 5 percent",
     "About 50 percent",
-    "About 95 percent",
     "About 27 percent"
    ],
-   "a": 0,
+   "a": 1,
    "w": "Atoms are about 5 percent."
   },
   {
    "q": "A galaxy 200 Mpc away recedes at what speed (H0 = 70)?",
    "o": [
-    "14,000 km/s",
+    "700 km/s",
     "3500 km/s",
     "270 km/s",
-    "700 km/s"
+    "14,000 km/s"
    ],
-   "a": 0,
+   "a": 3,
    "w": "70 x 200."
   },
   {
    "q": "Two pillars of modern physics that do not fit together are",
    "o": [
     "Relativity and thermodynamics",
-    "General relativity and quantum theory",
     "Optics and magnetism",
-    "Newton and Kepler"
+    "Newton and Kepler",
+    "General relativity and quantum theory"
    ],
-   "a": 1,
+   "a": 3,
    "w": "No quantum gravity yet."
   },
   {
    "q": "The 'Hubble tension' is a disagreement over",
    "o": [
-    "The expansion rate H0",
-    "The speed of light",
     "The age of Earth",
+    "The speed of light",
+    "The expansion rate H0",
     "Neutron mass"
    ],
-   "a": 0,
+   "a": 2,
    "w": "Early versus local values."
   },
   {
    "q": "India's solar mission launched in September 2023 is",
    "o": [
-    "Aditya-L1",
     "Mangalyaan",
-    "Chandrayaan-2",
-    "AstroSat"
+    "Aditya-L1",
+    "AstroSat",
+    "Chandrayaan-2"
    ],
-   "a": 0,
+   "a": 1,
    "w": "Aditya-L1, 2 September 2023."
   }
  ],

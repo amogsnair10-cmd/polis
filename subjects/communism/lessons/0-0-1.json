@@ -60,31 +60,31 @@
    "q": "Who wrote the Phenomenology of Spirit (1807)?",
    "o": [
     "Feuerbach",
+    "Marx",
     "Bauer",
-    "Hegel",
-    "Marx"
+    "Hegel"
    ],
-   "a": 2,
+   "a": 3,
    "w": "Hegel, in 1807."
   },
   {
    "q": "Feuerbach argued that God is",
    "o": [
-    "A necessary being",
-    "An invention of priests for profit",
     "A stage of Spirit",
-    "A projection of human nature"
+    "An invention of priests for profit",
+    "A projection of human nature",
+    "A necessary being"
    ],
-   "a": 3,
+   "a": 2,
    "w": "The Essence of Christianity, 1841."
   },
   {
    "q": "Thesis 11 on Feuerbach says philosophers have",
    "o": [
     "Only interpreted the world",
-    "Ignored religion",
     "Misread Hegel",
-    "Over-valued economics"
+    "Over-valued economics",
+    "Ignored religion"
    ],
    "a": 0,
    "w": "The point is to change it."
@@ -93,30 +93,30 @@
    "q": "Marx said the dialectic in Hegel was",
    "o": [
     "Entirely false",
-    "Standing on its head",
     "Lacking contradiction",
-    "Already scientific"
+    "Already scientific",
+    "Standing on its head"
    ],
-   "a": 1,
+   "a": 3,
    "w": "He set it on its feet."
   },
   {
    "q": "The German Ideology was",
    "o": [
-    "Published in 1848",
-    "Written by Hegel",
     "Not published in Marx's lifetime",
-    "An economics text"
+    "An economics text",
+    "Written by Hegel",
+    "Published in 1848"
    ],
-   "a": 2,
+   "a": 0,
    "w": "It first appeared in full in the 20th century."
   },
   {
    "q": "The Young Hegelians chiefly criticised",
    "o": [
-    "Free trade",
-    "Colonialism",
     "Machinery",
+    "Colonialism",
+    "Free trade",
     "Religion and the state"
    ],
    "a": 3,
@@ -126,9 +126,9 @@
    "q": "Popper's main criticism of Hegel was that his historicism",
    "o": [
     "Justifies authority",
-    "Denies freedom completely",
     "Is too materialist",
-    "Ignores religion"
+    "Ignores religion",
+    "Denies freedom completely"
    ],
    "a": 0,
    "w": "Open Society, 1945."
@@ -136,34 +136,34 @@
   {
    "q": "Marx's doctoral thesis (1841) was on",
    "o": [
-    "Hegel's logic",
-    "Feuerbach",
     "Democritus and Epicurus",
-    "Smith and Ricardo"
+    "Feuerbach",
+    "Smith and Ricardo",
+    "Hegel's logic"
    ],
-   "a": 2,
+   "a": 0,
    "w": "Greek atomists."
   },
   {
    "q": "\"Thesis, antithesis, synthesis\" is",
    "o": [
-    "Hegel's exact slogan",
-    "Marx's formula in Capital",
     "Feuerbach's doctrine",
-    "A later shorthand, not Hegel's own phrase"
+    "A later shorthand, not Hegel's own phrase",
+    "Hegel's exact slogan",
+    "Marx's formula in Capital"
    ],
-   "a": 3,
+   "a": 1,
    "w": "Often credited to Fichte-style summaries."
   },
   {
    "q": "Who in India applied materialist method to ancient history without Hegel?",
    "o": [
     "Radhakrishnan",
-    "Aurobindo",
     "D.D. Kosambi",
+    "Aurobindo",
     "Tagore"
    ],
-   "a": 2,
+   "a": 1,
    "w": "Kosambi, An Introduction to the Study of Indian History (1956)."
   }
  ],

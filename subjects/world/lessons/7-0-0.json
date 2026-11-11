@@ -49,85 +49,85 @@
   {
    "q": "Who built the first container system?",
    "o": [
-    "Tim Berners-Lee",
     "Bill Gates",
-    "Malcolm McLean",
-    "Henry Ford"
+    "Tim Berners-Lee",
+    "Henry Ford",
+    "Malcolm McLean"
    ],
-   "a": 2,
+   "a": 3,
    "w": "1956."
   },
   {
    "q": "The Web was proposed by...",
    "o": [
-    "Tim Berners-Lee",
-    "Vint Cerf",
     "Steve Jobs",
-    "Larry Page"
+    "Vint Cerf",
+    "Larry Page",
+    "Tim Berners-Lee"
    ],
-   "a": 0,
+   "a": 3,
    "w": "At CERN."
   },
   {
    "q": "The WTO started in...",
    "o": [
-    "1947",
     "2001",
-    "2008",
-    "1995"
+    "1995",
+    "1947",
+    "2008"
    ],
-   "a": 3,
+   "a": 1,
    "w": "Succeeding GATT."
   },
   {
    "q": "China joined the WTO in...",
    "o": [
     "1978",
-    "2001",
+    "2008",
     "1995",
-    "2008"
+    "2001"
    ],
-   "a": 1,
+   "a": 3,
    "w": "December."
   },
   {
    "q": "The iPhone launched in...",
    "o": [
-    "2007",
-    "1991",
+    "2016",
     "1998",
-    "2016"
+    "1991",
+    "2007"
    ],
-   "a": 0,
+   "a": 3,
    "w": "Smartphone era."
   },
   {
    "q": "The global financial crisis was in...",
    "o": [
-    "1929",
-    "2001",
     "2016",
-    "2008"
+    "2001",
+    "2008",
+    "1929"
    ],
-   "a": 3,
+   "a": 2,
    "w": "Lehman collapse."
   },
   {
    "q": "UPI launched in...",
    "o": [
-    "1991",
-    "2016",
+    "2023",
     "2009",
-    "2023"
+    "1991",
+    "2016"
    ],
-   "a": 1,
+   "a": 3,
    "w": "In India."
   },
   {
    "q": "Infosys was founded in...",
    "o": [
-    "1991",
     "2001",
+    "1991",
     "1981",
     "1947"
    ],
@@ -137,8 +137,8 @@
   {
    "q": "'Slowbalisation' means...",
    "o": [
-    "Faster trade",
     "Banning trade",
+    "Faster trade",
     "War",
     "Slower globalisation"
    ],
@@ -149,9 +149,9 @@
    "q": "The Web differs from the Internet because...",
    "o": [
     "It is a service run on the Internet",
-    "It is hardware",
     "It is older",
-    "It is a company"
+    "It is a company",
+    "It is hardware"
    ],
    "a": 0,
    "w": "Like pages on top of the network."

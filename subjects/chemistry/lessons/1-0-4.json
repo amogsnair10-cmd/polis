@@ -70,19 +70,19 @@
   {
    "q": "Brønsted-Lowry acid is a:",
    "o": [
-    "Proton donor",
-    "Electron donor",
     "Proton acceptor",
-    "OH- giver only"
+    "Electron donor",
+    "OH- giver only",
+    "Proton donor"
    ],
-   "a": 0,
+   "a": 3,
    "w": "1923."
   },
   {
    "q": "0.001 M HCl has pH:",
    "o": [
-    "1",
     "11",
+    "1",
     "3",
     "0.001"
    ],
@@ -92,42 +92,42 @@
   {
    "q": "pH 3 vs pH 5: pH 3 is how much more acidic?",
    "o": [
-    "100 times",
-    "2 times",
     "10 times",
-    "1000 times"
+    "1000 times",
+    "2 times",
+    "100 times"
    ],
-   "a": 0,
+   "a": 3,
    "w": "Two units, 10^2."
   },
   {
    "q": "Which is a weak acid?",
    "o": [
-    "Acetic acid",
+    "H2SO4",
     "HCl",
     "HNO3",
-    "H2SO4"
+    "Acetic acid"
    ],
-   "a": 0,
+   "a": 3,
    "w": "Partly ionised."
   },
   {
    "q": "HCl + NaOH gives:",
    "o": [
-    "NaOH + H2",
     "NaCl + H2O",
     "Cl2 + H2O",
-    "Na + HClO"
+    "Na + HClO",
+    "NaOH + H2"
    ],
-   "a": 1,
+   "a": 0,
    "w": "Salt and water."
   },
   {
    "q": "10 mL of 0.2 M HCl needs how many mL of 0.1 M NaOH?",
    "o": [
     "20 mL",
-    "5 mL",
     "10 mL",
+    "5 mL",
     "40 mL"
    ],
    "a": 0,
@@ -137,8 +137,8 @@
    "q": "Who introduced pH in 1909?",
    "o": [
     "Lewis",
-    "Arrhenius",
     "Lowry",
+    "Arrhenius",
     "Sørensen"
    ],
    "a": 3,
@@ -148,9 +148,9 @@
    "q": "Buffers:",
    "o": [
     "Resist pH change",
+    "Are strong acids",
     "Raise pH",
-    "Neutralise all acid",
-    "Are strong acids"
+    "Neutralise all acid"
    ],
    "a": 0,
    "w": "Weak acid plus conjugate base."
@@ -160,10 +160,10 @@
    "o": [
     "Acid",
     "Pure water",
-    "Basic solution",
-    "Salt"
+    "Salt",
+    "Basic solution"
    ],
-   "a": 2,
+   "a": 3,
    "w": "Natural indicator."
   }
  ],

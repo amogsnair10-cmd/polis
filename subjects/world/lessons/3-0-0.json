@@ -56,41 +56,41 @@
    "o": [
     "476 CE",
     "1453 CE",
-    "330 CE",
-    "27 BCE"
+    "27 BCE",
+    "330 CE"
    ],
-   "a": 2,
+   "a": 3,
    "w": "By Constantine."
   },
   {
    "q": "The Byzantines called themselves...",
    "o": [
-    "Romans",
-    "Byzantines",
     "Greeks only",
-    "Ottomans"
+    "Byzantines",
+    "Ottomans",
+    "Romans"
    ],
-   "a": 0,
+   "a": 3,
    "w": "The name Byzantine came later."
   },
   {
    "q": "Hagia Sophia was completed in...",
    "o": [
-    "330 CE",
-    "1453 CE",
     "800 CE",
-    "537 CE"
+    "537 CE",
+    "330 CE",
+    "1453 CE"
    ],
-   "a": 3,
+   "a": 1,
    "w": "Under Justinian."
   },
   {
    "q": "Justinian's wife was...",
    "o": [
-    "Cleopatra",
-    "Theodora",
     "Hatshepsut",
-    "Livia"
+    "Theodora",
+    "Livia",
+    "Cleopatra"
    ],
    "a": 1,
    "w": "Powerful empress."
@@ -98,67 +98,67 @@
   {
    "q": "Greek fire was...",
    "o": [
-    "A burning liquid weapon",
+    "A fever",
     "A signal",
     "A fireworks show",
-    "A fever"
+    "A burning liquid weapon"
    ],
-   "a": 0,
+   "a": 3,
    "w": "Its recipe is lost."
   },
   {
    "q": "The 1204 attack on Constantinople was by...",
    "o": [
-    "Mongols",
-    "Vikings",
+    "The Fourth Crusade",
     "Persians",
-    "The Fourth Crusade"
+    "Mongols",
+    "Vikings"
    ],
-   "a": 3,
+   "a": 0,
    "w": "Crusaders turned on a Christian city."
   },
   {
    "q": "Constantinople fell on...",
    "o": [
-    "29 May 476",
-    "29 May 1453",
     "1 Jan 1000",
-    "14 Oct 1066"
+    "14 Oct 1066",
+    "29 May 1453",
+    "29 May 476"
    ],
-   "a": 1,
+   "a": 2,
    "w": "To Mehmed II."
   },
   {
    "q": "Cosmas Indicopleustes wrote about...",
    "o": [
-    "Japan",
-    "Mexico",
     "India and Sri Lanka",
+    "Mexico",
+    "Japan",
     "Iceland"
    ],
-   "a": 2,
+   "a": 0,
    "w": "In the Christian Topography."
   },
   {
    "q": "Corpus Juris Civilis was a...",
    "o": [
-    "Prayer book",
-    "Poem",
     "Map",
-    "Collection of Roman law"
+    "Collection of Roman law",
+    "Poem",
+    "Prayer book"
    ],
-   "a": 3,
+   "a": 1,
    "w": "Ordered by Justinian."
   },
   {
    "q": "Who coined the word 'Byzantine' for the empire?",
    "o": [
-    "Hieronymus Wolf (popularised in 1557)",
     "Constantine",
-    "Justinian",
-    "Gibbon"
+    "Hieronymus Wolf (popularised in 1557)",
+    "Gibbon",
+    "Justinian"
    ],
-   "a": 0,
+   "a": 1,
    "w": "A German scholar, long after the fall."
   }
  ],

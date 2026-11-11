@@ -59,89 +59,89 @@
   {
    "q": "Which colour of star is hottest?",
    "o": [
-    "Red",
     "Orange",
+    "Blue-white",
     "Yellow",
-    "Blue-white"
+    "Red"
    ],
-   "a": 3,
+   "a": 1,
    "w": "Hotter objects peak at shorter wavelengths."
   },
   {
    "q": "Dark absorption lines in starlight tell us about:",
    "o": [
+    "Only the star's age",
     "Distance only",
     "Chemical elements in the star's atmosphere",
-    "Only the star's age",
     "Gravity of Earth"
    ],
-   "a": 1,
+   "a": 2,
    "w": "Each element absorbs its own colours."
   },
   {
    "q": "Cecilia Payne showed in 1925 that stars are mostly:",
    "o": [
+    "Water",
     "Iron",
     "Hydrogen and helium",
-    "Carbon",
-    "Water"
+    "Carbon"
    ],
-   "a": 1,
+   "a": 2,
    "w": "Hydrogen and helium."
   },
   {
    "q": "A redshift means the source is:",
    "o": [
+    "Brighter",
     "Moving toward us",
-    "Moving away along the line of sight",
     "Cooler than the Sun",
-    "Brighter"
+    "Moving away along the line of sight"
    ],
-   "a": 1,
+   "a": 3,
    "w": "Waves stretched."
   },
   {
    "q": "Helium was first detected:",
    "o": [
-    "In Earth's air",
     "In the Sun's spectrum",
     "In a meteorite",
+    "In Earth's air",
     "In a lab only"
    ],
-   "a": 1,
+   "a": 0,
    "w": "1868 eclipse line, found on Earth in 1895."
   },
   {
    "q": "The Sun's spectral type is:",
    "o": [
-    "O",
     "G",
+    "B",
     "M",
-    "B"
+    "O"
    ],
-   "a": 1,
+   "a": 0,
    "w": "G."
   },
   {
    "q": "Which scientist derived the ionisation equation linking temperature to spectral lines in 1920?",
    "o": [
+    "Bose",
     "Raman",
     "Saha",
-    "Bose",
     "Chandrasekhar"
    ],
-   "a": 1,
+   "a": 2,
    "w": "Meghnad Saha."
   },
   {
    "q": "Why do astronomers observe in X-rays and radio, not only visible light?",
    "o": [
-    "Different processes emit in different bands",
+    "Stars only emit radio",
     "Visible light is too slow",
     "Cameras are cheaper",
-    "Stars only emit radio"
+    "Different processes emit in different bands"
    ],
-   "a": 0,
+   "a": 3,
    "w": "Each band reveals different physics."
   },
   {
@@ -158,12 +158,12 @@
   {
    "q": "Stefan's law says luminosity of a hot body grows with temperature as:",
    "o": [
-    "T",
-    "T squared",
+    "Not at all",
     "T to the fourth",
-    "Not at all"
+    "T squared",
+    "T"
    ],
-   "a": 2,
+   "a": 1,
    "w": "T to the fourth power."
   }
  ],

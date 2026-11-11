@@ -65,8 +65,8 @@
    "q": "Hormones travel by:",
    "o": [
     "Nerves",
-    "Air",
     "Bone",
+    "Air",
     "Blood"
    ],
    "a": 3,
@@ -75,8 +75,8 @@
   {
    "q": "Insulin is made in the:",
    "o": [
-    "Thyroid",
     "Liver",
+    "Thyroid",
     "Pancreas",
     "Pituitary"
    ],
@@ -97,10 +97,10 @@
   {
    "q": "Insulin was isolated by:",
    "o": [
+    "Berthold",
     "Yalow",
-    "Bayliss",
     "Banting and Best",
-    "Berthold"
+    "Bayliss"
    ],
    "a": 2,
    "w": "1921."
@@ -108,10 +108,10 @@
   {
    "q": "The 'master gland' is the:",
    "o": [
-    "Adrenal",
     "Pancreas",
+    "Thyroid",
     "Pituitary",
-    "Thyroid"
+    "Adrenal"
    ],
    "a": 2,
    "w": "Pituitary."
@@ -119,9 +119,9 @@
   {
    "q": "Adrenaline acts in:",
    "o": [
-    "Months",
-    "Seconds",
     "Years",
+    "Seconds",
+    "Months",
     "Never"
    ],
    "a": 1,
@@ -131,9 +131,9 @@
    "q": "Glucagon:",
    "o": [
     "Raises sugar",
+    "Stores fat",
     "Digests protein",
-    "Lowers sugar",
-    "Stores fat"
+    "Lowers sugar"
    ],
    "a": 0,
    "w": "Raises blood glucose."
@@ -141,10 +141,10 @@
   {
    "q": "ADH acts on:",
    "o": [
+    "Lung",
     "Skin",
-    "Heart",
     "Kidney",
-    "Lung"
+    "Heart"
    ],
    "a": 2,
    "w": "Water conservation."
@@ -152,9 +152,9 @@
   {
    "q": "The word 'hormone' was coined in:",
    "o": [
-    "1982",
-    "1953",
     "1921",
+    "1953",
+    "1982",
     "1905"
    ],
    "a": 3,
@@ -164,9 +164,9 @@
    "q": "Negative feedback means:",
    "o": [
     "Output turns off the cause",
-    "No control",
     "Slow growth",
-    "Output boosts itself"
+    "Output boosts itself",
+    "No control"
    ],
    "a": 0,
    "w": "Self-limiting."

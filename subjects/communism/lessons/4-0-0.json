@@ -54,8 +54,8 @@
   {
    "q": "The CCP was founded in",
    "o": [
-    "1911",
     "1949",
+    "1911",
     "1934",
     "1921"
    ],
@@ -65,100 +65,100 @@
   {
    "q": "Mao's 1927 report studied",
    "o": [
+    "Soldiers",
     "Shanghai workers",
-    "Hunan peasants",
     "Beijing students",
-    "Soldiers"
+    "Hunan peasants"
    ],
-   "a": 1,
+   "a": 3,
    "w": "Report on Hunan."
   },
   {
    "q": "The Long March started in",
    "o": [
-    "1927",
+    "October 1934",
     "1949",
-    "1937",
-    "October 1934"
+    "1927",
+    "1937"
    ],
-   "a": 3,
+   "a": 0,
    "w": "From Jiangxi."
   },
   {
    "q": "Mao gained leadership at the",
    "o": [
-    "Zunyi Conference (1935)",
-    "Yan'an Rectification (1942)",
     "Eighth Congress (1956)",
-    "Lushan (1959)"
+    "Yan'an Rectification (1942)",
+    "Lushan (1959)",
+    "Zunyi Conference (1935)"
    ],
-   "a": 0,
+   "a": 3,
    "w": "During the march."
   },
   {
    "q": "The People's Republic was proclaimed on",
    "o": [
     "15 August 1947",
-    "1 October 1949",
     "1 July 1921",
+    "1 October 1949",
     "7 November 1917"
    ],
-   "a": 1,
+   "a": 2,
    "w": "In Beijing."
   },
   {
    "q": "The Rectification Campaign took place at",
    "o": [
+    "Nanjing, 1949",
     "Yan'an, 1942-44",
     "Shanghai, 1927",
-    "Wuhan, 1938",
-    "Nanjing, 1949"
+    "Wuhan, 1938"
    ],
-   "a": 0,
+   "a": 1,
    "w": "Ideological discipline."
   },
   {
    "q": "Who led the Nationalists?",
    "o": [
-    "Zhu De",
-    "Sun Yat-sen only",
     "Chiang Kai-shek",
-    "Zhou Enlai"
+    "Sun Yat-sen only",
+    "Zhou Enlai",
+    "Zhu De"
    ],
-   "a": 2,
+   "a": 0,
    "w": "The Kuomintang."
   },
   {
    "q": "The Long March covered about",
    "o": [
-    "900 km",
-    "90,000 km",
     "9,000 km",
+    "90,000 km",
+    "900 km",
     "90 km"
    ],
-   "a": 2,
+   "a": 0,
    "w": "Commonly cited distance."
   },
   {
    "q": "Which book by Chang and Halliday is criticised for exaggeration?",
    "o": [
     "Red Star Over China",
-    "Mao: The Unknown Story",
     "The Long March",
-    "Wild Swans"
+    "Wild Swans",
+    "Mao: The Unknown Story"
    ],
-   "a": 1,
+   "a": 3,
    "w": "2005."
   },
   {
    "q": "The Maoist People's War in Nepal began in",
    "o": [
-    "1949",
+    "2008",
     "1967",
-    "1996",
-    "2008"
+    "1949",
+    "1996"
    ],
-   "a": 2,
+   "a": 3,
    "w": "Ended with 2006 accord."
   }
  ],

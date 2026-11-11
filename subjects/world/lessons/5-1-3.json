@@ -49,111 +49,111 @@
   {
    "q": "Lin Zexu was...",
    "o": [
-    "A British admiral",
     "A Mongol khan",
-    "A Chinese commissioner",
-    "A Japanese shogun"
+    "A British admiral",
+    "A Japanese shogun",
+    "A Chinese commissioner"
    ],
-   "a": 2,
+   "a": 3,
    "w": "He seized opium in 1839."
   },
   {
    "q": "The Treaty of Nanjing was in...",
    "o": [
-    "1842",
-    "1839",
     "1860",
+    "1839",
+    "1842",
     "1895"
    ],
-   "a": 0,
+   "a": 2,
    "w": "After the First Opium War."
   },
   {
    "q": "Britain gained...",
    "o": [
-    "Beijing",
-    "Taiwan",
     "Macao",
-    "Hong Kong"
+    "Hong Kong",
+    "Taiwan",
+    "Beijing"
    ],
-   "a": 3,
+   "a": 1,
    "w": "Until 1997."
   },
   {
    "q": "Opium for China was grown mostly in...",
    "o": [
+    "Egypt",
     "Japan",
     "British India",
-    "Egypt",
     "Persia"
    ],
-   "a": 1,
+   "a": 2,
    "w": "Bengal, Bihar, Malwa."
   },
   {
    "q": "The Summer Palace was burned in...",
    "o": [
-    "1860",
-    "1842",
     "1895",
+    "1842",
+    "1860",
     "1911"
    ],
-   "a": 0,
+   "a": 2,
    "w": "By Anglo-French forces."
   },
   {
    "q": "The Taiping Rebellion lasted...",
    "o": [
-    "1839-42",
-    "1900",
     "1911",
-    "1850-64"
+    "1850-64",
+    "1839-42",
+    "1900"
    ],
-   "a": 3,
+   "a": 1,
    "w": "Over 20 million died."
   },
   {
    "q": "The treaties were called...",
    "o": [
+    "Pax Britannica",
     "Free trade pacts",
     "Unequal treaties",
-    "Peace of Westphalia",
-    "Pax Britannica"
+    "Peace of Westphalia"
    ],
-   "a": 1,
+   "a": 2,
    "w": "They favoured foreigners."
   },
   {
    "q": "Jamsetjee Jejeebhoy was a...",
    "o": [
-    "Mughal prince",
-    "Chinese official",
+    "Dutch admiral",
     "Parsi merchant of Bombay",
-    "Dutch admiral"
+    "Mughal prince",
+    "Chinese official"
    ],
-   "a": 2,
+   "a": 1,
    "w": "Involved in the China trade."
   },
   {
    "q": "The 'century of humiliation' roughly means...",
    "o": [
-    "1368-1644",
     "1800-1900",
     "1945-2045",
-    "1839-1949"
+    "1839-1949",
+    "1368-1644"
    ],
-   "a": 3,
+   "a": 2,
    "w": "A Chinese phrase."
   },
   {
    "q": "Hong Kong returned to China in...",
    "o": [
-    "1997",
     "1842",
-    "1949",
-    "1911"
+    "1997",
+    "1911",
+    "1949"
    ],
-   "a": 0,
+   "a": 1,
    "w": "1 July."
   }
  ],

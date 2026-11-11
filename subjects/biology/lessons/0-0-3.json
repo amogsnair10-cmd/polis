@@ -59,8 +59,8 @@
   {
    "q": "Enzymes speed reactions by:",
    "o": [
-    "Using up substrate",
     "Adding heat",
+    "Using up substrate",
     "Changing products",
     "Lowering activation energy"
    ],
@@ -71,9 +71,9 @@
    "q": "The induced-fit idea came from:",
    "o": [
     "Sumner",
-    "Agre",
+    "Buchner",
     "Koshland",
-    "Buchner"
+    "Agre"
    ],
    "a": 2,
    "w": "Koshland, 1958."
@@ -81,10 +81,10 @@
   {
    "q": "Who crystallised urease in 1926?",
    "o": [
-    "Skou",
+    "Buchner",
     "Sumner",
     "Menten",
-    "Buchner"
+    "Skou"
    ],
    "a": 1,
    "w": "James Sumner."
@@ -92,9 +92,9 @@
   {
    "q": "High heat usually makes an enzyme:",
    "o": [
-    "Stronger",
     "Inactive only when cold",
     "Faster forever",
+    "Stronger",
     "Denature"
    ],
    "a": 3,
@@ -103,10 +103,10 @@
   {
    "q": "Pepsin works best at:",
    "o": [
-    "pH 12",
+    "pH 7",
     "pH 8",
     "pH 2",
-    "pH 7"
+    "pH 12"
    ],
    "a": 2,
    "w": "Stomach acid."
@@ -126,8 +126,8 @@
    "q": "NAD is made from which vitamin?",
    "o": [
     "Niacin (B3)",
-    "A",
     "C",
+    "A",
     "D"
    ],
    "a": 0,
@@ -136,10 +136,10 @@
   {
    "q": "Buchner's 1897 result showed:",
    "o": [
-    "Enzymes are lipids",
-    "Cell-free extract can ferment",
     "Yeast is non-living",
-    "Cells needed for fermentation"
+    "Cell-free extract can ferment",
+    "Cells needed for fermentation",
+    "Enzymes are lipids"
    ],
    "a": 1,
    "w": "Enzymes work outside cells."
@@ -159,9 +159,9 @@
    "q": "A competitive inhibitor:",
    "o": [
     "Bends enzyme far from active site",
-    "Digests enzyme",
+    "Adds energy",
     "Competes for the active site",
-    "Adds energy"
+    "Digests enzyme"
    ],
    "a": 2,
    "w": "Blocks the active site."

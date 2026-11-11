@@ -49,12 +49,12 @@
   {
    "q": "About how many Jews were murdered?",
    "o": [
-    "About 600,000",
-    "About 60 million",
     "About six million",
-    "About 60,000"
+    "About 600,000",
+    "About 60,000",
+    "About 60 million"
    ],
-   "a": 2,
+   "a": 0,
    "w": "Two thirds of Europe's Jews."
   },
   {
@@ -71,8 +71,8 @@
   {
    "q": "Auschwitz was liberated on...",
    "o": [
-    "8 May 1945",
     "6 June 1944",
+    "8 May 1945",
     "1 Sept 1939",
     "27 January 1945"
    ],
@@ -82,10 +82,10 @@
   {
    "q": "Einsatzgruppen were...",
    "o": [
-    "Hospitals",
+    "Courts",
     "Mobile killing units",
-    "Food trains",
-    "Courts"
+    "Hospitals",
+    "Food trains"
    ],
    "a": 1,
    "w": "Operating from 1941."
@@ -93,12 +93,12 @@
   {
    "q": "The largest ghetto uprising was in...",
    "o": [
-    "Warsaw",
+    "Vienna",
     "Berlin",
-    "Paris",
-    "Vienna"
+    "Warsaw",
+    "Paris"
    ],
-   "a": 0,
+   "a": 2,
    "w": "1943."
   },
   {
@@ -106,10 +106,10 @@
    "o": [
     "Hitler",
     "Churchill",
-    "Gandhi",
-    "Raphael Lemkin"
+    "Raphael Lemkin",
+    "Gandhi"
    ],
-   "a": 3,
+   "a": 2,
    "w": "1944."
   },
   {
@@ -127,9 +127,9 @@
    "q": "Valivade camp was for...",
    "o": [
     "Soldiers",
-    "Germans",
+    "French",
     "Polish refugees",
-    "French"
+    "Germans"
    ],
    "a": 2,
    "w": "Near Kolhapur."
@@ -149,9 +149,9 @@
    "q": "The Nuremberg trials were in...",
    "o": [
     "1945-46",
+    "1950",
     "1933-34",
-    "1939",
-    "1950"
+    "1939"
    ],
    "a": 0,
    "w": "Of Nazi leaders."

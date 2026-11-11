@@ -54,42 +54,42 @@
   {
    "q": "Who coined the term \"New Left\" in 1960?",
    "o": [
-    "C. Wright Mills",
     "Marcuse",
     "E.P. Thompson",
-    "Perry Anderson"
+    "Perry Anderson",
+    "C. Wright Mills"
    ],
-   "a": 0,
+   "a": 3,
    "w": "Letter to the New Left."
   },
   {
    "q": "Berlinguer led the",
    "o": [
-    "Italian Communist Party",
+    "German KPD",
     "French Communist Party",
-    "Spanish PCE",
-    "German KPD"
+    "Italian Communist Party",
+    "Spanish PCE"
    ],
-   "a": 0,
+   "a": 2,
    "w": "1972-84."
   },
   {
    "q": "The \"historic compromise\" was proposed in",
    "o": [
+    "1991",
     "1956",
-    "1973",
     "1968",
-    "1991"
+    "1973"
    ],
-   "a": 1,
+   "a": 3,
    "w": "After Chile."
   },
   {
    "q": "Carrillo wrote",
    "o": [
+    "One-Dimensional Man",
     "State and Revolution",
     "The New Class",
-    "One-Dimensional Man",
     "Eurocommunism and the State"
    ],
    "a": 3,
@@ -100,8 +100,8 @@
    "o": [
     "1946",
     "1976",
-    "1991",
-    "1968"
+    "1968",
+    "1991"
    ],
    "a": 1,
    "w": "Its electoral peak."
@@ -109,21 +109,21 @@
   {
    "q": "The Port Huron Statement belongs to",
    "o": [
+    "The Red Brigades",
     "Solidarity",
     "The Comintern",
-    "Students for a Democratic Society",
-    "The Red Brigades"
+    "Students for a Democratic Society"
    ],
-   "a": 2,
+   "a": 3,
    "w": "1962, US."
   },
   {
    "q": "Poulantzas's last book on the state is",
    "o": [
-    "Reading Capital",
+    "Political Power and Social Classes",
     "State, Power, Socialism (1978)",
     "For Marx",
-    "Political Power and Social Classes"
+    "Reading Capital"
    ],
    "a": 1,
    "w": "1978."
@@ -131,20 +131,20 @@
   {
    "q": "The PCI dissolved in",
    "o": [
-    "1976",
-    "1956",
     "1991",
-    "2001"
+    "2001",
+    "1976",
+    "1956"
    ],
-   "a": 2,
+   "a": 0,
    "w": "Became the PDS."
   },
   {
    "q": "The French PCF joined government under",
    "o": [
-    "De Gaulle, 1958",
     "Giscard, 1974",
     "Chirac, 1986",
+    "De Gaulle, 1958",
     "Mitterrand, 1981"
    ],
    "a": 3,
@@ -155,10 +155,10 @@
    "o": [
     "Chipko",
     "Bhoodan",
-    "Navnirman",
-    "Telangana"
+    "Telangana",
+    "Navnirman"
    ],
-   "a": 2,
+   "a": 3,
    "w": "Preceded the JP movement."
   }
  ],

@@ -59,23 +59,23 @@
   {
    "q": "The Economic and Philosophic Manuscripts were written in",
    "o": [
-    "1867",
     "1917",
-    "1883",
-    "1844"
+    "1867",
+    "1844",
+    "1883"
    ],
-   "a": 3,
+   "a": 2,
    "w": "Paris, 1844."
   },
   {
    "q": "They were first published in",
    "o": [
-    "1848",
     "1932",
     "1867",
+    "1848",
     "1956"
    ],
-   "a": 1,
+   "a": 0,
    "w": "A 1932 publication changed readings of Marx."
   },
   {
@@ -83,8 +83,8 @@
    "o": [
     "From the product",
     "From the state",
-    "From species-being",
-    "From other people"
+    "From other people",
+    "From species-being"
    ],
    "a": 1,
    "w": "The four are product, activity, species-being, others."
@@ -92,64 +92,64 @@
   {
    "q": "Commodity fetishism appears in",
    "o": [
-    "Capital Volume 1, chapter 1",
-    "The Manifesto",
     "State and Revolution",
-    "The Gotha Programme"
+    "The Gotha Programme",
+    "Capital Volume 1, chapter 1",
+    "The Manifesto"
    ],
-   "a": 0,
+   "a": 2,
    "w": "Capital, 1867."
   },
   {
    "q": "\"Hunt in the morning, fish in the afternoon\" comes from",
    "o": [
+    "Reform or Revolution",
     "Capital Volume 2",
     "The German Ideology",
-    "What Is to Be Done?",
-    "Reform or Revolution"
+    "What Is to Be Done?"
    ],
-   "a": 1,
+   "a": 2,
    "w": "Marx and Engels, 1845-46."
   },
   {
    "q": "Althusser claimed an \"epistemological break\" between",
    "o": [
-    "Marx and Engels",
-    "Lenin and Stalin",
     "Marx and Hegel",
-    "Early humanist Marx and mature scientific Marx"
+    "Lenin and Stalin",
+    "Early humanist Marx and mature scientific Marx",
+    "Marx and Engels"
    ],
-   "a": 3,
+   "a": 2,
    "w": "For Marx, 1965."
   },
   {
    "q": "Which critic is most associated with \"Radical Humanism\" in India?",
    "o": [
-    "Charu Majumdar",
+    "M.N. Roy",
     "E.M.S. Namboodiripad",
     "Sheikh Abdullah",
-    "M.N. Roy"
+    "Charu Majumdar"
    ],
-   "a": 3,
+   "a": 0,
    "w": "Roy turned to humanism in the 1940s."
   },
   {
    "q": "Gandhi's Hind Swaraj (1909) criticised",
    "o": [
-    "Machine civilisation",
     "Peasant labour",
+    "Machine civilisation",
     "Handicrafts",
     "Village panchayats"
    ],
-   "a": 0,
+   "a": 1,
    "w": "He feared the modern industrial order."
   },
   {
    "q": "Feminists object that the 1844 focus on wage work",
    "o": [
     "Overstates wages",
-    "Denies class",
     "Rejects species-being",
+    "Denies class",
     "Ignores unpaid domestic labour"
    ],
    "a": 3,
@@ -159,11 +159,11 @@
    "q": "Blauner (1964) found alienation",
    "o": [
     "Is universal and equal",
+    "Varies with technology and workplace",
     "Disappears in factories",
-    "Is caused by religion",
-    "Varies with technology and workplace"
+    "Is caused by religion"
    ],
-   "a": 3,
+   "a": 1,
    "w": "Alienation and Freedom."
   }
  ],

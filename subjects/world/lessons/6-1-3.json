@@ -49,54 +49,54 @@
   {
    "q": "Sputnik was launched in...",
    "o": [
-    "1961",
-    "1969",
     "1957",
-    "1975"
+    "1969",
+    "1975",
+    "1961"
    ],
-   "a": 2,
+   "a": 0,
    "w": "By the USSR."
   },
   {
    "q": "First human in space...",
    "o": [
-    "Yuri Gagarin",
     "Neil Armstrong",
-    "Alan Shepard",
-    "Rakesh Sharma"
+    "Yuri Gagarin",
+    "Rakesh Sharma",
+    "Alan Shepard"
    ],
-   "a": 0,
+   "a": 1,
    "w": "12 April 1961."
   },
   {
    "q": "First woman in space...",
    "o": [
-    "Sally Ride",
-    "Kalpana Chawla",
     "Laika",
-    "Valentina Tereshkova"
+    "Sally Ride",
+    "Valentina Tereshkova",
+    "Kalpana Chawla"
    ],
-   "a": 3,
+   "a": 2,
    "w": "1963."
   },
   {
    "q": "Apollo 11 landed in...",
    "o": [
-    "1961",
-    "1969",
     "1975",
-    "1957"
+    "1957",
+    "1961",
+    "1969"
    ],
-   "a": 1,
+   "a": 3,
    "w": "20 July."
   },
   {
    "q": "Collins stayed...",
    "o": [
     "In lunar orbit",
-    "On the Moon",
     "On Earth",
-    "In Mars"
+    "In Mars",
+    "On the Moon"
    ],
    "a": 0,
    "w": "Piloting the command module."
@@ -104,56 +104,56 @@
   {
    "q": "ISRO was formed in...",
    "o": [
+    "1969",
     "1947",
     "1975",
-    "1984",
-    "1969"
+    "1984"
    ],
-   "a": 3,
+   "a": 0,
    "w": "After INCOSPAR."
   },
   {
    "q": "India's first satellite...",
    "o": [
-    "Rohini",
     "Aryabhata",
+    "Bhaskara",
     "INSAT",
-    "Bhaskara"
+    "Rohini"
    ],
-   "a": 1,
+   "a": 0,
    "w": "1975."
   },
   {
    "q": "India's first Mars mission reached orbit in...",
    "o": [
-    "2008",
-    "2023",
+    "1984",
     "2014",
-    "1984"
+    "2008",
+    "2023"
    ],
-   "a": 2,
+   "a": 1,
    "w": "Mangalyaan."
   },
   {
    "q": "Chandrayaan-3 landed in...",
    "o": [
-    "Sept 2008",
-    "July 2019",
     "Aug 1984",
-    "August 2023"
+    "August 2023",
+    "Sept 2008",
+    "July 2019"
    ],
-   "a": 3,
+   "a": 1,
    "w": "Near the south pole."
   },
   {
    "q": "Reflectors left on the Moon are evidence...",
    "o": [
-    "That the landings were real",
+    "Nothing",
     "For a hoax",
-    "For a pen",
-    "Nothing"
+    "That the landings were real",
+    "For a pen"
    ],
-   "a": 0,
+   "a": 2,
    "w": "Used by scientists today."
   }
  ],

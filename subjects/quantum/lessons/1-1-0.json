@@ -65,53 +65,53 @@
    "q": "An orbital is:",
    "o": [
     "A nucleus part",
-    "A region showing where an electron is likely to be found",
+    "A solid shell",
     "A circular path",
-    "A solid shell"
+    "A region showing where an electron is likely to be found"
    ],
-   "a": 1,
+   "a": 3,
    "w": "It is a probability map."
   },
   {
    "q": "How many electrons can one orbital hold?",
    "o": [
-    "One",
-    "Eight",
     "Four",
-    "Two, with opposite spins"
+    "Two, with opposite spins",
+    "One",
+    "Eight"
    ],
-   "a": 3,
+   "a": 1,
    "w": "Pauli exclusion."
   },
   {
    "q": "The Pauli principle was proposed in:",
    "o": [
-    "1913",
     "1900",
-    "1947",
-    "1925"
+    "1925",
+    "1913",
+    "1947"
    ],
-   "a": 3,
+   "a": 1,
    "w": "Pauli won the Nobel in 1945."
   },
   {
    "q": "How many electrons fit in the second shell?",
    "o": [
-    "4",
     "2",
     "8",
-    "18"
+    "18",
+    "4"
    ],
-   "a": 2,
+   "a": 1,
    "w": "2n² gives 8 for n = 2."
   },
   {
    "q": "Why do sodium and potassium behave alike?",
    "o": [
-    "Same mass",
+    "Same nucleus size",
     "Each has one outer electron",
-    "Same colour",
-    "Same nucleus size"
+    "Same mass",
+    "Same colour"
    ],
    "a": 1,
    "w": "Outer electrons decide chemistry."
@@ -119,9 +119,9 @@
   {
    "q": "Why are noble gases unreactive?",
    "o": [
-    "They are gases",
-    "They are too heavy",
     "They have no electrons",
+    "They are too heavy",
+    "They are gases",
     "Their outer shells are full"
    ],
    "a": 3,
@@ -130,12 +130,12 @@
   {
    "q": "Which labels does an electron state need?",
    "o": [
-    "Colour",
-    "n, l, m and spin",
     "Charge only",
-    "Mass and speed only"
+    "Mass and speed only",
+    "Colour",
+    "n, l, m and spin"
    ],
-   "a": 1,
+   "a": 3,
    "w": "Four quantum numbers."
   },
   {
@@ -143,32 +143,32 @@
    "o": [
     "Light has mass",
     "Atoms are empty",
-    "Matter needs the Pauli principle to be stable",
-    "Gravity makes atoms"
+    "Gravity makes atoms",
+    "Matter needs the Pauli principle to be stable"
    ],
-   "a": 2,
+   "a": 3,
    "w": "Without it matter would collapse."
   },
   {
    "q": "Is the Pauli principle a force?",
    "o": [
-    "Yes, nuclear",
     "Yes, gravitational",
-    "No, it follows from the nature of identical fermions",
-    "Yes, electrical"
+    "Yes, nuclear",
+    "Yes, electrical",
+    "No, it follows from the nature of identical fermions"
    ],
-   "a": 2,
+   "a": 3,
    "w": "It is a rule about states."
   },
   {
    "q": "Meghnad Saha's 1920 equation links:",
    "o": [
+    "Photons to heat only",
     "Electrons to gravity",
     "Temperature to ionisation in stars",
-    "Spin to magnetism",
-    "Photons to heat only"
+    "Spin to magnetism"
    ],
-   "a": 1,
+   "a": 2,
    "w": "It underlies stellar classification."
   }
  ],

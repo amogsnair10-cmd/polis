@@ -59,8 +59,8 @@
   {
    "q": "Penicillin was noticed by:",
    "o": [
-    "Pasteur",
     "Koch",
+    "Pasteur",
     "Jenner",
     "Fleming"
    ],
@@ -70,9 +70,9 @@
   {
    "q": "Viruses are:",
    "o": [
+    "Fungi",
     "Plants",
     "Cells",
-    "Fungi",
     "Not cells"
    ],
    "a": 3,
@@ -82,8 +82,8 @@
    "q": "Fungal cell walls are made of:",
    "o": [
     "Chitin",
-    "Peptidoglycan",
     "Cellulose",
+    "Peptidoglycan",
     "Silica"
    ],
    "a": 0,
@@ -92,8 +92,8 @@
   {
    "q": "Koch discovered the TB bacillus in:",
    "o": [
-    "1928",
     "1822",
+    "1928",
     "1975",
     "1882"
    ],
@@ -125,10 +125,10 @@
   {
    "q": "Bacteria multiply by:",
    "o": [
+    "Meiosis",
     "Spores only",
-    "Mitosis",
     "Binary fission",
-    "Meiosis"
+    "Mitosis"
    ],
    "a": 2,
    "w": "Splitting."
@@ -136,10 +136,10 @@
   {
    "q": "Haffkine developed vaccines in:",
    "o": [
-    "Chennai",
-    "Mumbai",
     "Kolkata",
-    "Delhi"
+    "Mumbai",
+    "Delhi",
+    "Chennai"
    ],
    "a": 1,
    "w": "1897."
@@ -147,9 +147,9 @@
   {
    "q": "Who showed that TMV is smaller than bacteria?",
    "o": [
-    "Gram",
-    "Ivanovsky",
     "Fleming",
+    "Ivanovsky",
+    "Gram",
     "Lister"
    ],
    "a": 1,

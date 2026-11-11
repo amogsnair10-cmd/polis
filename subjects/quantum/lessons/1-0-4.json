@@ -81,19 +81,19 @@
   {
    "q": "What is the \"measurement problem\"?",
    "o": [
-    "Atoms are too small to find",
+    "Two different rules for evolution and for measurement",
     "Instruments are unreliable",
-    "Light is too fast",
-    "Two different rules for evolution and for measurement"
+    "Atoms are too small to find",
+    "Light is too fast"
    ],
-   "a": 3,
+   "a": 0,
    "w": "No agreed explanation for collapse."
   },
   {
    "q": "The Elitzur-Vaidman bomb tester shows:",
    "o": [
-    "Photons are heavy",
     "Bombs are quantum",
+    "Photons are heavy",
     "Light cannot be blocked",
     "Paths not taken can have effects"
    ],
@@ -103,67 +103,67 @@
   {
    "q": "Quantum Zeno effect:",
    "o": [
-    "Needs a human",
     "Frequent measurement can freeze change",
     "Breaks the speed of light",
-    "Speeds up change"
+    "Speeds up change",
+    "Needs a human"
    ],
-   "a": 1,
+   "a": 0,
    "w": "Named by Misra and Sudarshan, 1977."
   },
   {
    "q": "Who needs to be \"watching\" for collapse to occur?",
    "o": [
-    "Only a scientist",
     "Any interaction that records the information",
-    "Only a computer",
-    "Only a human mind"
+    "Only a human mind",
+    "Only a scientist",
+    "Only a computer"
    ],
-   "a": 1,
+   "a": 0,
    "w": "This is not about consciousness."
   },
   {
    "q": "The 2000 Delft and Stony Brook experiments showed superposition in:",
    "o": [
-    "Cricket balls",
     "Dust",
     "Superconducting rings",
-    "Whales"
+    "Whales",
+    "Cricket balls"
    ],
-   "a": 2,
+   "a": 1,
    "w": "Currents flowing in two directions at once."
   },
   {
    "q": "Which is not an agreed fact?",
    "o": [
-    "That C60 interferes",
     "That Born odds are correct",
-    "That interference occurs",
-    "That collapse is a physical process"
+    "That collapse is a physical process",
+    "That C60 interferes",
+    "That interference occurs"
    ],
-   "a": 3,
+   "a": 1,
    "w": "It is interpretation-dependent."
   },
   {
    "q": "Why do we not see everyday objects in superposition?",
    "o": [
-    "They have no mass",
-    "Physics forbids it",
     "The environment wipes it out almost instantly",
-    "They are too cold"
+    "They have no mass",
+    "They are too cold",
+    "Physics forbids it"
    ],
-   "a": 2,
+   "a": 0,
    "w": "This is decoherence."
   },
   {
    "q": "Who builds superconducting qubits at TIFR?",
    "o": [
+    "C.V. Raman",
     "R. Vijay's group",
     "ISRO",
-    "Urbasi Sinha's group",
-    "C.V. Raman"
+    "Urbasi Sinha's group"
    ],
-   "a": 0,
+   "a": 1,
    "w": "It is part of India's growing hardware effort."
   }
  ],

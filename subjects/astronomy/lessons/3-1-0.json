@@ -60,8 +60,8 @@
    "q": "Who first showed that spiral nebulae are redshifted?",
    "o": [
     "Slipher",
-    "Hubble",
     "Lemaitre",
+    "Hubble",
     "Hoyle"
    ],
    "a": 0,
@@ -70,87 +70,87 @@
   {
    "q": "The Hubble-Lemaitre law states that recession speed is proportional to:",
    "o": [
-    "Mass",
     "Distance",
+    "Mass",
     "Brightness",
     "Colour"
    ],
-   "a": 1,
+   "a": 0,
    "w": "v = H0 d."
   },
   {
    "q": "The Hubble constant is about:",
    "o": [
-    "7 km/s/Mpc",
     "70 km/s/Mpc",
     "700 km/s/Mpc",
+    "7 km/s/Mpc",
     "7,000 km/s/Mpc"
    ],
-   "a": 1,
+   "a": 0,
    "w": "About 67 to 73."
   },
   {
    "q": "Cosmological redshift is caused by:",
    "o": [
-    "Space expanding",
+    "Star spin",
     "Gas moving through space",
-    "Magnetism",
-    "Star spin"
+    "Space expanding",
+    "Magnetism"
    ],
-   "a": 0,
+   "a": 2,
    "w": "The stretching of light waves."
   },
   {
    "q": "The Hubble tension is a disagreement between:",
    "o": [
-    "Local and CMB-based values of H0",
     "Two telescopes",
+    "Local and CMB-based values of H0",
     "Two planets",
     "Two galaxies"
    ],
-   "a": 0,
+   "a": 1,
    "w": "About 73 vs about 67."
   },
   {
    "q": "In the balloon analogy, the galaxies are:",
    "o": [
-    "Dots on the surface",
-    "The air inside",
     "The balloon's centre",
-    "Rubber"
+    "Dots on the surface",
+    "Rubber",
+    "The air inside"
    ],
-   "a": 0,
+   "a": 1,
    "w": "The surface is space."
   },
   {
    "q": "Why is there no centre of the expansion?",
    "o": [
-    "Every point sees others recede",
-    "Space has an edge",
     "It is invisible",
-    "The Sun is the centre"
+    "Space has an edge",
+    "The Sun is the centre",
+    "Every point sees others recede"
    ],
-   "a": 0,
+   "a": 3,
    "w": "Any observer sees the same."
   },
   {
    "q": "Why do galaxies like the Milky Way not expand?",
    "o": [
+    "They avoid space",
     "Gravity binds them",
     "They are small",
-    "They avoid space",
     "They are dark"
    ],
-   "a": 0,
+   "a": 1,
    "w": "Local forces dominate."
   },
   {
    "q": "1/H0 gives the age of the universe as roughly:",
    "o": [
     "14 billion years",
+    "14 million years",
     "1.4 billion years",
-    "140 billion years",
-    "14 million years"
+    "140 billion years"
    ],
    "a": 0,
    "w": "A rough estimate."
@@ -158,12 +158,12 @@
   {
    "q": "The Hubble-Lemaitre renaming happened in:",
    "o": [
-    "1929",
-    "1950",
+    "1987",
     "2018",
-    "1987"
+    "1929",
+    "1950"
    ],
-   "a": 2,
+   "a": 1,
    "w": "IAU vote."
   }
  ],

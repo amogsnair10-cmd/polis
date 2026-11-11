@@ -59,111 +59,111 @@
   {
    "q": "Most weather occurs in the",
    "o": [
-    "Stratosphere",
     "Mesosphere",
     "Troposphere",
-    "Thermosphere"
+    "Thermosphere",
+    "Stratosphere"
    ],
-   "a": 2,
+   "a": 1,
    "w": "It holds nearly all water vapour and clouds."
   },
   {
    "q": "The ozone layer lies in the",
    "o": [
-    "Stratosphere",
-    "Troposphere",
     "Mesosphere",
+    "Troposphere",
+    "Stratosphere",
     "Exosphere"
    ],
-   "a": 0,
+   "a": 2,
    "w": "Roughly 15 to 35 km up."
   },
   {
    "q": "Earth's albedo in the heat budget is about",
    "o": [
-    "14 per cent",
-    "51 per cent",
     "17 per cent",
-    "35 per cent"
+    "14 per cent",
+    "35 per cent",
+    "51 per cent"
    ],
-   "a": 3,
+   "a": 2,
    "w": "35 of 100 units are reflected by clouds, scattering and ice."
   },
   {
    "q": "Earth is at aphelion in",
    "o": [
+    "Late September",
     "Early January",
-    "Early July",
     "Late March",
-    "Late September"
+    "Early July"
    ],
-   "a": 1,
+   "a": 3,
    "w": "The Sun is farthest in July, yet it is northern summer. Tilt matters more than distance."
   },
   {
    "q": "Horizontal movement of heat in the air is",
    "o": [
-    "Conduction",
     "Advection",
     "Convection",
+    "Conduction",
     "Radiation"
    ],
-   "a": 1,
+   "a": 0,
    "w": "Loo and sea breeze are advection."
   },
   {
    "q": "Temperature inversion means",
    "o": [
-    "Temperature falls 6.5 C per km",
-    "Air pressure rises with height",
+    "Temperature rises with height",
     "Winds blow upward",
-    "Temperature rises with height"
+    "Air pressure rises with height",
+    "Temperature falls 6.5 C per km"
    ],
-   "a": 3,
+   "a": 0,
    "w": "A warm layer sits over cold air near the ground."
   },
   {
    "q": "The Montreal Protocol (1987) targets",
    "o": [
-    "CFCs",
-    "Methane",
     "Carbon dioxide",
+    "Methane",
+    "CFCs",
     "Nitrogen oxides"
    ],
-   "a": 0,
+   "a": 2,
    "w": "It controls ozone-depleting substances."
   },
   {
    "q": "Which state is NOT crossed by the Tropic of Cancer?",
    "o": [
+    "Jharkhand",
     "Gujarat",
     "Tripura",
-    "Odisha",
-    "Jharkhand"
+    "Odisha"
    ],
-   "a": 2,
+   "a": 3,
    "w": "The line crosses eight states, not Odisha."
   },
   {
    "q": "Which gas forms the largest share of dry air?",
    "o": [
     "Oxygen",
+    "Nitrogen",
     "Argon",
-    "Carbon dioxide",
-    "Nitrogen"
+    "Carbon dioxide"
    ],
-   "a": 3,
+   "a": 1,
    "w": "About 78%."
   },
   {
    "q": "Coldest layer of the atmosphere is the",
    "o": [
+    "Stratosphere",
     "Mesosphere",
-    "Troposphere",
     "Thermosphere",
-    "Stratosphere"
+    "Troposphere"
    ],
-   "a": 0,
+   "a": 1,
    "w": "It reaches about -90 C near its top."
   }
  ],

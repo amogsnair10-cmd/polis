@@ -61,8 +61,8 @@
    "o": [
     "Slowing",
     "Accelerating",
-    "Stopped",
-    "Reversing"
+    "Reversing",
+    "Stopped"
    ],
    "a": 1,
    "w": "Acceleration."
@@ -70,100 +70,100 @@
   {
    "q": "Which objects were used as standard candles?",
    "o": [
-    "Type Ia supernovae",
     "Pulsars",
+    "Type Ia supernovae",
     "Comets",
     "Quasars only"
    ],
-   "a": 0,
+   "a": 1,
    "w": "White dwarf explosions."
   },
   {
    "q": "Dark energy makes up about:",
    "o": [
-    "5 percent",
     "27 percent",
-    "68 percent",
-    "95 percent"
+    "5 percent",
+    "95 percent",
+    "68 percent"
    ],
-   "a": 2,
+   "a": 3,
    "w": "About 68 percent."
   },
   {
    "q": "The cosmological constant was first introduced by:",
    "o": [
-    "Einstein",
-    "Hubble",
+    "Penrose",
     "Hawking",
-    "Penrose"
+    "Hubble",
+    "Einstein"
    ],
-   "a": 0,
+   "a": 3,
    "w": "1917."
   },
   {
    "q": "The 'Big Rip' occurs if:",
    "o": [
-    "Dark energy strengthens over time",
     "Dark energy vanishes",
-    "Gravity is stronger",
-    "Matter dominates"
+    "Matter dominates",
+    "Dark energy strengthens over time",
+    "Gravity is stronger"
    ],
-   "a": 0,
+   "a": 2,
    "w": "Phantom energy."
   },
   {
    "q": "Quantum theory's estimate of vacuum energy is off by about:",
    "o": [
-    "A factor of 10^120",
     "2 times",
-    "10 times",
-    "None"
+    "A factor of 10^120",
+    "None",
+    "10 times"
    ],
-   "a": 0,
+   "a": 1,
    "w": "A big mismatch."
   },
   {
    "q": "Acceleration started about:",
    "o": [
+    "380,000 years ago",
     "5 to 6 billion years ago",
-    "13 billion years ago",
     "1 million years ago",
-    "380,000 years ago"
+    "13 billion years ago"
    ],
-   "a": 0,
+   "a": 1,
    "w": "When dark energy overtook matter."
   },
   {
    "q": "Which satellite launched in 2023 studies dark energy?",
    "o": [
-    "Euclid",
-    "Kepler",
     "Spitzer",
-    "Gaia"
+    "Euclid",
+    "Gaia",
+    "Kepler"
    ],
-   "a": 0,
+   "a": 1,
    "w": "ESA's Euclid."
   },
   {
    "q": "The Nobel Prize for the discovery was awarded in:",
    "o": [
-    "1998",
     "2011",
-    "2019",
-    "2006"
+    "1998",
+    "2006",
+    "2019"
    ],
-   "a": 1,
+   "a": 0,
    "w": "Perlmutter, Schmidt, Riess."
   },
   {
    "q": "If dark energy is a constant, the likely fate is:",
    "o": [
-    "Big Freeze",
-    "Big Crunch",
     "Big Bounce",
+    "Big Crunch",
+    "Big Freeze",
     "Static universe"
    ],
-   "a": 0,
+   "a": 2,
    "w": "Eternal expansion."
   }
  ],

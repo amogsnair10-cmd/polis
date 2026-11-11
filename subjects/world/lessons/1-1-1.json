@@ -54,34 +54,34 @@
   {
    "q": "The Phoenician alphabet had...",
    "o": [
-    "50 vowels",
     "600 signs",
     "22 consonant letters",
-    "26 letters"
+    "26 letters",
+    "50 vowels"
    ],
-   "a": 2,
+   "a": 1,
    "w": "No vowels."
   },
   {
    "q": "Tyrian purple came from...",
    "o": [
-    "A sea snail",
     "A flower",
-    "A mineral",
-    "A beetle"
+    "A beetle",
+    "A sea snail",
+    "A mineral"
    ],
-   "a": 0,
+   "a": 2,
    "w": "The murex."
   },
   {
    "q": "Who added vowels to the alphabet?",
    "o": [
-    "The Romans",
     "The Egyptians",
-    "The Indians",
-    "The Greeks"
+    "The Greeks",
+    "The Romans",
+    "The Indians"
    ],
-   "a": 3,
+   "a": 1,
    "w": "About 800 BCE."
   },
   {
@@ -98,20 +98,20 @@
   {
    "q": "Carthage was traditionally founded by...",
    "o": [
-    "Dido",
-    "Hannibal",
     "Alexander",
-    "Sargon"
+    "Dido",
+    "Sargon",
+    "Hannibal"
    ],
-   "a": 0,
+   "a": 1,
    "w": "A legendary queen from Tyre."
   },
   {
    "q": "The Punic Wars were between Rome and...",
    "o": [
+    "Athens",
     "Persia",
     "Egypt",
-    "Athens",
     "Carthage"
    ],
    "a": 3,
@@ -120,9 +120,9 @@
   {
    "q": "Hannibal crossed...",
    "o": [
-    "The Himalayas",
-    "The Alps",
     "The Andes",
+    "The Alps",
+    "The Himalayas",
     "The Sahara"
    ],
    "a": 1,
@@ -131,12 +131,12 @@
   {
    "q": "Did Rome salt Carthage's fields?",
    "o": [
-    "Yes, Livy wrote it",
-    "Yes, Polybius saw it",
+    "Yes, as proven",
     "No ancient source says so",
-    "Yes, as proven"
+    "Yes, Livy wrote it",
+    "Yes, Polybius saw it"
    ],
-   "a": 2,
+   "a": 1,
    "w": "A later legend."
   },
   {
@@ -154,8 +154,8 @@
    "q": "Brahmi's origin is...",
    "o": [
     "Debated",
-    "Settled as Greek",
     "Settled as Egyptian",
+    "Settled as Greek",
     "Settled as Chinese"
    ],
    "a": 0,

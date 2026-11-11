@@ -59,8 +59,8 @@
   {
    "q": "Which state of matter has particles far apart with no fixed shape or volume?",
    "o": [
-    "Solid",
     "Liquid",
+    "Solid",
     "Gas",
     "Plasma, only"
    ],
@@ -70,43 +70,43 @@
   {
    "q": "Convert 27 °C to kelvin.",
    "o": [
-    "300 K",
-    "246 K",
+    "373 K",
     "27 K",
-    "373 K"
+    "246 K",
+    "300 K"
    ],
-   "a": 0,
+   "a": 3,
    "w": "K = 27 + 273 = 300."
   },
   {
    "q": "A block of mass 100 g has volume 40 cm3. What is its density?",
    "o": [
-    "2.5 g/cm3",
     "0.4 g/cm3",
     "4 g/cm3",
-    "140 g/cm3"
+    "140 g/cm3",
+    "2.5 g/cm3"
    ],
-   "a": 0,
+   "a": 3,
    "w": "100 / 40 = 2.5."
   },
   {
    "q": "Which method separates petrol from diesel in crude oil?",
    "o": [
     "Filtration",
-    "Fractional distillation",
     "Magnetic separation",
+    "Fractional distillation",
     "Chromatography"
    ],
-   "a": 1,
+   "a": 2,
    "w": "They have different boiling points."
   },
   {
    "q": "Which is a compound?",
    "o": [
     "Water",
-    "Air",
     "Brass",
-    "Muddy water"
+    "Muddy water",
+    "Air"
    ],
    "a": 0,
    "w": "Water has fixed H:O ratio bonded chemically."
@@ -114,34 +114,34 @@
   {
    "q": "What happens to temperature during melting of pure ice at 0 °C?",
    "o": [
-    "It stays constant",
     "It rises steadily",
+    "It stays constant",
     "It falls",
     "It doubles"
    ],
-   "a": 0,
+   "a": 1,
    "w": "Heat loosens particles rather than speeding them."
   },
   {
    "q": "You dissolve 10 g sugar in 90 g water. Mass percent of sugar?",
    "o": [
-    "9 percent",
+    "90 percent",
     "11 percent",
-    "10 percent",
-    "90 percent"
+    "9 percent",
+    "10 percent"
    ],
-   "a": 2,
+   "a": 3,
    "w": "10 / 100 x 100 = 10 percent."
   },
   {
    "q": "Which separates ink colours on paper?",
    "o": [
-    "Distillation",
-    "Chromatography",
+    "Evaporation",
     "Centrifugation",
-    "Evaporation"
+    "Chromatography",
+    "Distillation"
    ],
-   "a": 1,
+   "a": 2,
    "w": "Colours travel at different speeds."
   },
   {
@@ -158,12 +158,12 @@
   {
    "q": "Sea salt in Indian salt pans is obtained by:",
    "o": [
-    "Distillation of oil",
-    "Electrolysis",
     "Evaporation of brine",
+    "Electrolysis",
+    "Distillation of oil",
     "Magnetism"
    ],
-   "a": 2,
+   "a": 0,
    "w": "Sun evaporates water and crystals remain."
   }
  ],

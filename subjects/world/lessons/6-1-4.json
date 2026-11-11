@@ -51,10 +51,10 @@
    "o": [
     "13 August 1961",
     "3 October 1990",
-    "9 November 1989",
-    "25 Dec 1991"
+    "25 Dec 1991",
+    "9 November 1989"
    ],
-   "a": 2,
+   "a": 3,
    "w": "Evening announcement."
   },
   {
@@ -71,89 +71,89 @@
   {
    "q": "Glasnost means...",
    "o": [
-    "Restructuring",
-    "War",
+    "Openness",
     "Reform of money",
-    "Openness"
+    "War",
+    "Restructuring"
    ],
-   "a": 3,
+   "a": 0,
    "w": "Perestroika is restructuring."
   },
   {
    "q": "Solidarity was a union in...",
    "o": [
+    "Germany",
     "Hungary",
     "Poland",
-    "Romania",
-    "Germany"
+    "Romania"
    ],
-   "a": 1,
+   "a": 2,
    "w": "Led by Lech Walesa."
   },
   {
    "q": "Germany reunified in...",
    "o": [
-    "1990",
     "1989",
-    "1991",
-    "1961"
+    "1961",
+    "1990",
+    "1991"
    ],
-   "a": 0,
+   "a": 2,
    "w": "3 October."
   },
   {
    "q": "The USSR dissolved in...",
    "o": [
-    "1989",
-    "1985",
     "1999",
-    "December 1991"
+    "1985",
+    "December 1991",
+    "1989"
    ],
-   "a": 3,
+   "a": 2,
    "w": "Into 15 states."
   },
   {
    "q": "Tiananmen was crushed on...",
    "o": [
-    "9 Nov 1989",
     "4 June 1989",
-    "1 Oct 1949",
-    "25 Dec 1991"
+    "9 Nov 1989",
+    "25 Dec 1991",
+    "1 Oct 1949"
    ],
-   "a": 1,
+   "a": 0,
    "w": "China kept communist rule."
   },
   {
    "q": "Ceausescu was...",
    "o": [
     "Exiled",
-    "Elected",
     "Executed in Romania",
+    "Elected",
     "Honoured"
    ],
-   "a": 2,
+   "a": 1,
    "w": "25 December 1989."
   },
   {
    "q": "India liberalised in...",
    "o": [
-    "1947",
     "1971",
-    "2001",
-    "1991"
+    "1991",
+    "1947",
+    "2001"
    ],
-   "a": 3,
+   "a": 1,
    "w": "Rao and Manmohan Singh."
   },
   {
    "q": "India's 'Look East' began in...",
    "o": [
-    "1992",
-    "1947",
     "1962",
-    "2014"
+    "2014",
+    "1947",
+    "1992"
    ],
-   "a": 0,
+   "a": 3,
    "w": "Under Rao."
   }
  ],

@@ -59,12 +59,12 @@
   {
    "q": "The Brahmo Samaj was founded in",
    "o": [
+    "1875",
     "1828",
-    "1815",
     "1857",
-    "1875"
+    "1815"
    ],
-   "a": 0,
+   "a": 1,
    "w": "Raja Ram Mohan Roy founded it in Calcutta."
   },
   {
@@ -72,19 +72,19 @@
    "o": [
     "1856 by Dalhousie",
     "1891 by Lansdowne",
-    "1872 by Mayo",
-    "1829 by Bentinck"
+    "1829 by Bentinck",
+    "1872 by Mayo"
    ],
-   "a": 3,
+   "a": 2,
    "w": "Regulation XVII of 1829."
   },
   {
    "q": "The Widow Remarriage Act was passed in",
    "o": [
-    "1829",
+    "1891",
     "1872",
     "1856",
-    "1891"
+    "1829"
    ],
    "a": 2,
    "w": "Vidyasagar’s campaign led to it."
@@ -92,10 +92,10 @@
   {
    "q": "The Arya Samaj was founded by",
    "o": [
-    "Swami Vivekananda",
+    "Annie Besant",
     "Dayanand Saraswati",
     "Ramakrishna",
-    "Annie Besant"
+    "Swami Vivekananda"
    ],
    "a": 1,
    "w": "He founded it at Bombay in 1875."
@@ -103,34 +103,34 @@
   {
    "q": "Satyarth Prakash was written by",
    "o": [
-    "Dayanand Saraswati",
-    "Vivekananda",
     "Sir Syed",
+    "Vivekananda",
+    "Dayanand Saraswati",
     "Phule"
    ],
-   "a": 0,
+   "a": 2,
    "w": "It is the Arya Samaj’s main text."
   },
   {
    "q": "The Satyashodhak Samaj was founded by",
    "o": [
-    "Ranade",
-    "Gokhale",
     "Ambedkar",
-    "Jotirao Phule"
+    "Jotirao Phule",
+    "Gokhale",
+    "Ranade"
    ],
-   "a": 3,
+   "a": 1,
    "w": "Founded in 1873."
   },
   {
    "q": "Who founded the Mohammedan Anglo-Oriental College?",
    "o": [
-    "Nanotvi",
-    "Mirza Ghulam Ahmad",
     "Sir Syed Ahmad Khan",
-    "Jinnah"
+    "Jinnah",
+    "Nanotvi",
+    "Mirza Ghulam Ahmad"
    ],
-   "a": 2,
+   "a": 0,
    "w": "It became Aligarh Muslim University later."
   },
   {
@@ -147,20 +147,20 @@
   {
    "q": "The Ramakrishna Mission was founded by",
    "o": [
-    "Vivekananda in 1897",
-    "Dayanand in 1875",
     "Keshub Sen in 1866",
-    "Annie Besant in 1893"
+    "Annie Besant in 1893",
+    "Vivekananda in 1897",
+    "Dayanand in 1875"
    ],
-   "a": 0,
+   "a": 2,
    "w": "To spread service and Vedanta."
   },
   {
    "q": "The Age of Consent Act (1891) is linked to",
    "o": [
-    "Widow remarriage",
     "Sati",
     "Female education",
+    "Widow remarriage",
     "Child marriage reform, with Malabari’s campaign"
    ],
    "a": 3,

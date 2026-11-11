@@ -64,21 +64,21 @@
   {
    "q": "The most widely used semiconductor is",
    "o": [
-    "Copper",
     "Silicon",
+    "Copper",
     "Aluminium",
     "Gold"
    ],
-   "a": 1,
+   "a": 0,
    "w": "Silicon."
   },
   {
    "q": "Adding phosphorus to silicon makes it",
    "o": [
-    "p-type",
-    "n-type",
     "An insulator",
-    "A metal"
+    "n-type",
+    "A metal",
+    "p-type"
    ],
    "a": 1,
    "w": "Extra electrons."
@@ -86,12 +86,12 @@
   {
    "q": "Doping with boron gives",
    "o": [
-    "Extra electrons",
     "Holes",
-    "Neutrons",
-    "Protons"
+    "Protons",
+    "Extra electrons",
+    "Neutrons"
    ],
-   "a": 1,
+   "a": 0,
    "w": "Boron has one fewer outer electron."
   },
   {
@@ -108,10 +108,10 @@
   {
    "q": "The first transistor was made in",
    "o": [
-    "1907",
+    "1995",
     "1947",
     "1971",
-    "1995"
+    "1907"
    ],
    "a": 1,
    "w": "Bell Labs, December 1947."
@@ -119,21 +119,21 @@
   {
    "q": "Moore's law states that transistor count doubles about every",
    "o": [
-    "Two years",
     "Two months",
-    "Twenty years",
-    "Day"
+    "Day",
+    "Two years",
+    "Twenty years"
    ],
-   "a": 0,
+   "a": 2,
    "w": "Moore, 1965."
   },
   {
    "q": "A 5 V supply, LED of 2 V, current 10 mA. Resistor?",
    "o": [
     "300 ohms",
-    "500 ohms",
+    "100 ohms",
     "200 ohms",
-    "100 ohms"
+    "500 ohms"
    ],
    "a": 0,
    "w": "3/0.01."
@@ -141,21 +141,21 @@
   {
    "q": "A solar cell",
    "o": [
-    "Turns light into electric current",
-    "Stores heat",
     "Emits sound",
-    "Makes magnets"
+    "Makes magnets",
+    "Stores heat",
+    "Turns light into electric current"
    ],
-   "a": 0,
+   "a": 3,
    "w": "Photovoltaic effect."
   },
   {
    "q": "In a semiconductor, a 'hole' behaves like",
    "o": [
     "A positive charge carrier",
-    "A neutron",
+    "An atom",
     "A photon",
-    "An atom"
+    "A neutron"
    ],
    "a": 0,
    "w": "Missing electron."
@@ -163,12 +163,12 @@
   {
    "q": "J. C. Bose used which crystal as an early detector?",
    "o": [
-    "Quartz",
-    "Galena",
+    "Mica",
     "Diamond",
-    "Mica"
+    "Quartz",
+    "Galena"
    ],
-   "a": 1,
+   "a": 3,
    "w": "A natural semiconductor."
   }
  ],

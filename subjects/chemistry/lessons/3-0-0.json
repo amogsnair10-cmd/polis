@@ -64,111 +64,111 @@
   {
    "q": "Carbon forms how many covalent bonds?",
    "o": [
-    "4",
     "2",
     "3",
-    "8"
+    "8",
+    "4"
    ],
-   "a": 0,
+   "a": 3,
    "w": "Four outer electrons."
   },
   {
    "q": "Formula of an alkane with 5 carbons?",
    "o": [
-    "C5H12",
-    "C5H10",
     "C5H8",
-    "C5H14"
+    "C5H10",
+    "C5H14",
+    "C5H12"
    ],
-   "a": 0,
+   "a": 3,
    "w": "2n + 2."
   },
   {
    "q": "Who synthesised urea in 1828?",
    "o": [
+    "Dalton",
     "Wöhler",
     "Kekulé",
-    "Lavoisier",
-    "Dalton"
+    "Lavoisier"
    ],
-   "a": 0,
+   "a": 1,
    "w": "Ended vital force theory."
   },
   {
    "q": "Ethene belongs to:",
    "o": [
-    "Alkenes",
-    "Alkanes",
     "Alkynes",
-    "Aromatics"
+    "Alkenes",
+    "Aromatics",
+    "Alkanes"
    ],
-   "a": 0,
+   "a": 1,
    "w": "C=C bond."
   },
   {
    "q": "Balanced combustion of propane needs how many O2?",
    "o": [
+    "10",
     "3",
-    "5",
     "4",
-    "10"
+    "5"
    ],
-   "a": 1,
+   "a": 3,
    "w": "3CO2 + 4H2O gives 10 O atoms."
   },
   {
    "q": "Bromine water test: decolourised by:",
    "o": [
-    "Ethane",
-    "Methane",
     "Ethene",
-    "Propane"
+    "Propane",
+    "Ethane",
+    "Methane"
    ],
-   "a": 2,
+   "a": 0,
    "w": "Addition at C=C."
   },
   {
    "q": "Isomers have:",
    "o": [
-    "Same formula, different structure",
-    "Same structure",
     "Different formula",
-    "Same properties always"
+    "Same properties always",
+    "Same formula, different structure",
+    "Same structure"
    ],
-   "a": 0,
+   "a": 2,
    "w": "E.g. n-butane and isobutane."
   },
   {
    "q": "Benzene's ring structure was proposed by:",
    "o": [
-    "Wöhler",
     "Kekulé",
     "Berzelius",
+    "Wöhler",
     "Mendeleev"
    ],
-   "a": 1,
+   "a": 0,
    "w": "1865."
   },
   {
    "q": "Mass of CO2 from burning 1 mol propane (CO2 = 44)?",
    "o": [
+    "176 g",
     "132 g",
-    "44 g",
     "88 g",
-    "176 g"
+    "44 g"
    ],
-   "a": 0,
+   "a": 1,
    "w": "3 x 44."
   },
   {
    "q": "Digboi refinery in Assam started in:",
    "o": [
     "1947",
-    "1975",
+    "1901",
     "1999",
-    "1901"
+    "1975"
    ],
-   "a": 3,
+   "a": 1,
    "w": "Among world's oldest operating."
   }
  ],

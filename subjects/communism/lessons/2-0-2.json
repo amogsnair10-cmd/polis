@@ -54,23 +54,23 @@
   {
    "q": "The Tsar abdicated in",
    "o": [
-    "October 1917",
-    "January 1918",
     "November 1905",
-    "March 1917"
+    "October 1917",
+    "March 1917",
+    "January 1918"
    ],
-   "a": 3,
+   "a": 2,
    "w": "15 March new style."
   },
   {
    "q": "State and Revolution urged to",
    "o": [
+    "Dissolve the soviets",
     "Capture it intact",
     "Preserve the army",
-    "Smash the bourgeois state",
-    "Dissolve the soviets"
+    "Smash the bourgeois state"
    ],
-   "a": 2,
+   "a": 3,
    "w": "Following Marx on the Commune."
   },
   {
@@ -87,43 +87,43 @@
   {
    "q": "In the Constituent Assembly vote the largest party was",
    "o": [
-    "The Bolsheviks",
     "The Socialist Revolutionaries",
-    "The Kadets",
-    "The Mensheviks"
+    "The Bolsheviks",
+    "The Mensheviks",
+    "The Kadets"
    ],
-   "a": 1,
+   "a": 0,
    "w": "About 40%."
   },
   {
    "q": "The Constituent Assembly was dissolved on",
    "o": [
-    "6 January 1918",
-    "25 October 1917",
     "March 1921",
-    "1 January 1919"
+    "25 October 1917",
+    "1 January 1919",
+    "6 January 1918"
    ],
-   "a": 0,
+   "a": 3,
    "w": "After one day."
   },
   {
    "q": "The Cheka was founded in",
    "o": [
-    "1905",
     "December 1917",
+    "1936",
     "1924",
-    "1936"
+    "1905"
    ],
-   "a": 1,
+   "a": 0,
    "w": "Under Dzerzhinsky."
   },
   {
    "q": "Brest-Litovsk (1918) was a treaty with",
    "o": [
     "Germany",
-    "Britain",
     "France",
-    "Japan"
+    "Japan",
+    "Britain"
    ],
    "a": 0,
    "w": "Russia lost large territories."
@@ -131,10 +131,10 @@
   {
    "q": "Richard Pipes's view of October is that it was",
    "o": [
-    "A pure mass revolt",
     "A liberal victory",
+    "A foreign plot",
     "A coup by a minority",
-    "A foreign plot"
+    "A pure mass revolt"
    ],
    "a": 2,
    "w": "The Russian Revolution, 1990."
@@ -142,23 +142,23 @@
   {
    "q": "Dual power meant",
    "o": [
-    "Two Tsars",
-    "Church and state",
     "Provisional Government alongside the soviets",
+    "Church and state",
+    "Two Tsars",
     "Party and army"
    ],
-   "a": 2,
+   "a": 0,
    "w": "Spring-autumn 1917."
   },
   {
    "q": "Nehru visited Moscow in",
    "o": [
-    "1927",
     "1917",
     "1947",
+    "1927",
     "1962"
    ],
-   "a": 0,
+   "a": 2,
    "w": "For the tenth anniversary."
   }
  ],

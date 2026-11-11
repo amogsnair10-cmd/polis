@@ -59,8 +59,8 @@
   {
    "q": "Which of these is a vector quantity?",
    "o": [
-    "Mass",
     "Temperature",
+    "Mass",
     "Velocity",
     "Time"
    ],
@@ -70,23 +70,23 @@
   {
    "q": "How many base units does the SI system have?",
    "o": [
-    "Five",
-    "Seven",
+    "Four",
     "Nine",
-    "Four"
+    "Five",
+    "Seven"
    ],
-   "a": 1,
+   "a": 3,
    "w": "Metre, kilogram, second, ampere, kelvin, mole, candela."
   },
   {
    "q": "What is the dimension of speed?",
    "o": [
     "L x T",
-    "L/T",
     "T/L",
-    "L/T squared"
+    "L/T squared",
+    "L/T"
    ],
-   "a": 1,
+   "a": 3,
    "w": "Speed is length divided by time."
   },
   {
@@ -94,54 +94,54 @@
    "o": [
     "14 km",
     "7 km",
-    "2 km",
-    "10 km"
+    "10 km",
+    "2 km"
    ],
-   "a": 3,
+   "a": 2,
    "w": "Square root of (36 + 64) = 10 km."
   },
   {
    "q": "Which formula is certainly wrong by dimensions? (s = distance, v = speed, t = time)",
    "o": [
-    "s = v t",
-    "v = s/t",
     "s = v t squared",
-    "t = s/v"
+    "v = s/t",
+    "t = s/v",
+    "s = v t"
    ],
-   "a": 2,
+   "a": 0,
    "w": "v t squared has dimensions L x T, not L."
   },
   {
    "q": "A rectangle is 2.0 m by 1.35 m. Using significant figures, the area is best written as",
    "o": [
-    "2.7 square m",
     "2.70 square m",
+    "2.7 square m",
     "2.700 square m",
     "3 square m"
    ],
-   "a": 0,
+   "a": 1,
    "w": "The least precise input has two figures, so the answer has two."
   },
   {
    "q": "Which statement about mass and weight is correct?",
    "o": [
-    "Mass changes on the Moon",
+    "They are the same thing",
     "Weight is measured in kilograms in SI",
-    "Weight is a force",
-    "They are the same thing"
+    "Mass changes on the Moon",
+    "Weight is a force"
    ],
-   "a": 2,
+   "a": 3,
    "w": "Weight is the gravitational force, measured in newtons."
   },
   {
    "q": "Two forces of 3 N and 4 N act at right angles. The resultant is",
    "o": [
-    "7 N",
-    "1 N",
     "12 N",
-    "5 N"
+    "1 N",
+    "5 N",
+    "7 N"
    ],
-   "a": 3,
+   "a": 2,
    "w": "Square root of (9 + 16) = 5 N."
   },
   {
@@ -158,12 +158,12 @@
   {
    "q": "Why was the Mars Climate Orbiter lost?",
    "o": [
-    "Fuel ran out",
     "A units mix-up between pound-force and newton",
     "A solar storm",
+    "Fuel ran out",
     "Engine failure on launch"
    ],
-   "a": 1,
+   "a": 0,
    "w": "Software used different units for thrust."
   }
  ],

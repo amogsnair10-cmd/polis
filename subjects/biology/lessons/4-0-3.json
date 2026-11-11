@@ -64,8 +64,8 @@
   {
    "q": "About how much energy passes up a level?",
    "o": [
-    "50 percent",
     "1 percent",
+    "50 percent",
     "10 percent",
     "90 percent"
    ],
@@ -76,8 +76,8 @@
    "q": "'Ecosystem' was coined by:",
    "o": [
     "Haeckel",
-    "Carson",
     "Lindeman",
+    "Carson",
     "Tansley"
    ],
    "a": 3,
@@ -86,10 +86,10 @@
   {
    "q": "Decomposers:",
    "o": [
-    "Absorb light",
+    "Make food",
     "Recycle nutrients",
     "Eat plants",
-    "Make food"
+    "Absorb light"
    ],
    "a": 1,
    "w": "Return nutrients."
@@ -108,8 +108,8 @@
   {
    "q": "In situ conservation example:",
    "o": [
-    "Zoo",
     "Seed bank",
+    "Zoo",
     "National park",
     "Cryobank"
    ],
@@ -130,10 +130,10 @@
   {
    "q": "Carrying capacity is the:",
    "o": [
+    "Death rate",
     "Food",
-    "Birth rate",
     "Max population environment supports",
-    "Death rate"
+    "Birth rate"
    ],
    "a": 2,
    "w": "Sustainable limit."
@@ -141,10 +141,10 @@
   {
    "q": "Mutualism example:",
    "o": [
-    "Lion and hyena",
+    "Tiger and deer",
     "Tick and dog",
     "Bees and flowers",
-    "Tiger and deer"
+    "Lion and hyena"
    ],
    "a": 2,
    "w": "Both gain."
@@ -154,8 +154,8 @@
    "o": [
     "Coral reef",
     "Mangrove delta",
-    "Tundra",
-    "Desert"
+    "Desert",
+    "Tundra"
    ],
    "a": 1,
    "w": "Mangrove."
@@ -165,8 +165,8 @@
    "o": [
     "2002",
     "1972",
-    "2019",
-    "1986"
+    "1986",
+    "2019"
    ],
    "a": 0,
    "w": "2002."

@@ -60,20 +60,20 @@
    "q": "A car goes from 0 to 20 m/s in 5 s. Its acceleration is",
    "o": [
     "100 m/s squared",
-    "4 m/s squared",
+    "15 m/s squared",
     "0.25 m/s squared",
-    "15 m/s squared"
+    "4 m/s squared"
    ],
-   "a": 1,
+   "a": 3,
    "w": "a = 20/5 = 4."
   },
   {
    "q": "On a speed-time graph, the area under the line gives",
    "o": [
-    "Acceleration",
+    "Average speed squared",
     "Force",
     "Distance travelled",
-    "Average speed squared"
+    "Acceleration"
    ],
    "a": 2,
    "w": "Area under v-t is distance."
@@ -81,65 +81,65 @@
   {
    "q": "A train covers 150 km in 2.5 hours. Average speed?",
    "o": [
-    "50 km/h",
     "60 km/h",
     "375 km/h",
-    "75 km/h"
+    "75 km/h",
+    "50 km/h"
    ],
-   "a": 1,
+   "a": 0,
    "w": "150/2.5 = 60."
   },
   {
    "q": "At the highest point of a thrown ball, its acceleration is",
    "o": [
     "Zero",
-    "9.8 m/s squared downward",
     "9.8 m/s squared upward",
-    "Equal to its speed"
+    "Equal to its speed",
+    "9.8 m/s squared downward"
    ],
-   "a": 1,
+   "a": 3,
    "w": "Gravity still acts."
   },
   {
    "q": "Which launch angle gives the largest range on level ground (no air)?",
    "o": [
-    "30 degrees",
-    "60 degrees",
+    "45 degrees",
     "90 degrees",
-    "45 degrees"
+    "60 degrees",
+    "30 degrees"
    ],
-   "a": 3,
+   "a": 0,
    "w": "R is proportional to sin 2 theta, maximum at 45."
   },
   {
    "q": "A stone drops from rest for 2 s (g = 10 m/s squared). Distance fallen?",
    "o": [
-    "10 m",
-    "20 m",
+    "5 m",
     "40 m",
-    "5 m"
+    "10 m",
+    "20 m"
    ],
-   "a": 1,
+   "a": 3,
    "w": "s = 1/2 x 10 x 4 = 20."
   },
   {
    "q": "Apollo 15's hammer and feather experiment showed that",
    "o": [
-    "The Moon has no gravity",
     "In a vacuum all objects fall together",
     "Feathers are heavier",
-    "Hammers float"
+    "Hammers float",
+    "The Moon has no gravity"
    ],
-   "a": 1,
+   "a": 0,
    "w": "No air, so equal acceleration."
   },
   {
    "q": "In projectile motion the horizontal velocity (no air drag) is",
    "o": [
     "Constant",
-    "Increasing",
     "Decreasing",
-    "Zero at the top"
+    "Zero at the top",
+    "Increasing"
    ],
    "a": 0,
    "w": "No horizontal force acts."
@@ -147,12 +147,12 @@
   {
    "q": "Two projectiles have the same speed, launched at 30 and 60 degrees. Their ranges are",
    "o": [
-    "Zero",
-    "Different, 60 goes farther",
+    "Different, 30 goes farther",
     "Equal",
-    "Different, 30 goes farther"
+    "Zero",
+    "Different, 60 goes farther"
    ],
-   "a": 2,
+   "a": 1,
    "w": "sin 60 = sin 120, complementary angles."
   },
   {

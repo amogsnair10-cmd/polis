@@ -54,54 +54,54 @@
   {
    "q": "Alexander's tutor was...",
    "o": [
-    "Plato",
-    "Socrates",
     "Aristotle",
-    "Herodotus"
+    "Herodotus",
+    "Socrates",
+    "Plato"
    ],
-   "a": 2,
+   "a": 0,
    "w": "Taught him around age 13."
   },
   {
    "q": "Alexander's father was...",
    "o": [
-    "Philip II",
     "Darius III",
     "Porus",
-    "Seleucus"
+    "Seleucus",
+    "Philip II"
    ],
-   "a": 0,
+   "a": 3,
    "w": "Murdered in 336 BCE."
   },
   {
    "q": "The decisive Persian defeat was...",
    "o": [
-    "Marathon",
+    "Gaugamela",
     "Plassey",
     "Thermopylae",
-    "Gaugamela"
+    "Marathon"
    ],
-   "a": 3,
+   "a": 0,
    "w": "331 BCE."
   },
   {
    "q": "Alexander's Indian opponent...",
    "o": [
     "Ashoka",
-    "Porus",
     "Ambhi",
+    "Porus",
     "Bimbisara"
    ],
-   "a": 1,
+   "a": 2,
    "w": "At the Hydaspes."
   },
   {
    "q": "Hydaspes is the modern...",
    "o": [
     "Jhelum",
+    "Narmada",
     "Ganga",
-    "Beas",
-    "Narmada"
+    "Beas"
    ],
    "a": 0,
    "w": "A Punjab river."
@@ -109,56 +109,56 @@
   {
    "q": "Why did he turn back?",
    "o": [
-    "He ran out of gold",
     "Persia attacked",
-    "Porus beat him",
-    "His army refused to go on"
+    "He ran out of gold",
+    "His army refused to go on",
+    "Porus beat him"
    ],
-   "a": 3,
+   "a": 2,
    "w": "At the Beas."
   },
   {
    "q": "He died in...",
    "o": [
-    "Pella",
     "Babylon",
-    "Athens",
-    "Taxila"
+    "Pella",
+    "Taxila",
+    "Athens"
    ],
-   "a": 1,
+   "a": 0,
    "w": "In 323 BCE."
   },
   {
    "q": "His generals are called...",
    "o": [
-    "Satraps",
-    "Helots",
     "Diadochi",
-    "Praetors"
+    "Praetors",
+    "Satraps",
+    "Helots"
    ],
-   "a": 2,
+   "a": 0,
    "w": "The Successors."
   },
   {
    "q": "Who became the Seleucid founder?",
    "o": [
-    "Ptolemy",
-    "Porus",
     "Chandragupta",
-    "Seleucus"
+    "Ptolemy",
+    "Seleucus",
+    "Porus"
    ],
-   "a": 3,
+   "a": 2,
    "w": "Took Asia."
   },
   {
    "q": "Megasthenes was...",
    "o": [
-    "A Greek envoy at the Mauryan court",
-    "A Roman consul",
     "An Indian poet",
-    "A Persian king"
+    "A Greek envoy at the Mauryan court",
+    "A Persian king",
+    "A Roman consul"
    ],
-   "a": 0,
+   "a": 1,
    "w": "Wrote Indika."
   }
  ],

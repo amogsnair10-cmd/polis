@@ -59,10 +59,10 @@
   {
    "q": "Darwin's book appeared in:",
    "o": [
-    "1900",
+    "1831",
     "1859",
-    "1809",
-    "1831"
+    "1900",
+    "1809"
    ],
    "a": 1,
    "w": "1859."
@@ -71,8 +71,8 @@
    "q": "Who co-discovered natural selection?",
    "o": [
     "Lamarck",
-    "Haldane",
     "Malthus",
+    "Haldane",
     "Wallace"
    ],
    "a": 3,
@@ -81,9 +81,9 @@
   {
    "q": "Fitness means:",
    "o": [
+    "Size",
     "Speed",
     "Strength",
-    "Size",
     "Reproductive success"
    ],
    "a": 3,
@@ -93,9 +93,9 @@
    "q": "The peppered moth shows:",
    "o": [
     "Natural selection",
-    "Mutation only",
     "Cloning",
-    "Genetic drift"
+    "Genetic drift",
+    "Mutation only"
    ],
    "a": 0,
    "w": "Industrial melanism."
@@ -103,10 +103,10 @@
   {
    "q": "Lamarck proposed:",
    "o": [
-    "Speciation",
+    "Natural selection",
     "Genetic drift",
     "Inheritance of acquired traits",
-    "Natural selection"
+    "Speciation"
    ],
    "a": 2,
    "w": "Incorrect idea."
@@ -114,10 +114,10 @@
   {
    "q": "Genetic drift is strongest in:",
    "o": [
-    "Plants only",
+    "Large populations",
     "Small populations",
     "Bacteria only",
-    "Large populations"
+    "Plants only"
    ],
    "a": 1,
    "w": "Chance matters more."
@@ -126,9 +126,9 @@
    "q": "Darwin sailed on:",
    "o": [
     "Beagle",
+    "Challenger",
     "Mayflower",
-    "Endeavour",
-    "Challenger"
+    "Endeavour"
    ],
    "a": 0,
    "w": "HMS Beagle."
@@ -136,10 +136,10 @@
   {
    "q": "Who studied finches' beaks over decades?",
    "o": [
-    "Hardy",
     "Wallace",
+    "Kettlewell",
     "Grants",
-    "Kettlewell"
+    "Hardy"
    ],
    "a": 2,
    "w": "Peter and Rosemary Grant."
@@ -147,10 +147,10 @@
   {
    "q": "Evolution acts on:",
    "o": [
-    "Single genes only",
+    "Individuals evolving",
     "Species wishes",
     "Populations over time",
-    "Individuals evolving"
+    "Single genes only"
    ],
    "a": 2,
    "w": "Populations."

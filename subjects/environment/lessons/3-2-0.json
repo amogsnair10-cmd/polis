@@ -59,98 +59,98 @@
   {
    "q": "How many missions are in the NAPCC?",
    "o": [
-    "Five",
-    "Ten",
+    "Twelve",
     "Eight",
-    "Twelve"
+    "Ten",
+    "Five"
    ],
-   "a": 2,
+   "a": 1,
    "w": "Solar, efficiency, habitat, water, Himalaya, Green India, agriculture, knowledge."
   },
   {
    "q": "Net-zero target announced at COP26:",
    "o": [
     "2050",
-    "2070",
+    "2047",
     "2060",
-    "2047"
+    "2070"
    ],
-   "a": 1,
+   "a": 3,
    "w": "Part of the Panchamrit."
   },
   {
    "q": "The 2022 NDC update set non-fossil capacity share at:",
    "o": [
-    "50 percent by 2030",
-    "40 percent by 2030",
+    "60 percent by 2030",
     "33 percent by 2030",
-    "60 percent by 2030"
+    "40 percent by 2030",
+    "50 percent by 2030"
    ],
-   "a": 0,
+   "a": 3,
    "w": "The 2015 NDC said 40 percent."
   },
   {
    "q": "The 2022 update raised intensity reduction to:",
    "o": [
-    "33 percent",
     "35 percent",
     "50 percent",
-    "45 percent"
+    "45 percent",
+    "33 percent"
    ],
-   "a": 3,
+   "a": 2,
    "w": "Compared with 2005 levels."
   },
   {
    "q": "ISA is headquartered at:",
    "o": [
-    "Delhi",
     "Pune",
-    "Gurugram",
-    "Chennai"
+    "Chennai",
+    "Delhi",
+    "Gurugram"
    ],
-   "a": 2,
+   "a": 3,
    "w": "The ISA was launched in 2015 at Paris."
   },
   {
    "q": "NAPCC was launched in:",
    "o": [
-    "2015",
-    "2008",
+    "1992",
     "2021",
-    "1992"
+    "2015",
+    "2008"
    ],
-   "a": 1,
+   "a": 3,
    "w": "Under the Prime Minister’s Council on Climate Change."
   },
   {
    "q": "India’s NDC 3.0 relates to which period?",
    "o": [
-    "2031–2035",
-    "2021–2030",
     "2026–2030",
-    "2041–2050"
+    "2031–2035",
+    "2041–2050",
+    "2021–2030"
    ],
-   "a": 0,
+   "a": 1,
    "w": "It was filed in 2026."
   },
   {
    "q": "Which Mission of NAPCC is led by MNRE?",
    "o": [
     "Green India Mission",
+    "National Solar Mission",
     "National Water Mission",
-    "Sustainable Habitat",
-    "National Solar Mission"
+    "Sustainable Habitat"
    ],
-   "a": 3,
+   "a": 1,
    "w": "The Jawaharlal Nehru National Solar Mission."
   },
   {
    "q": "India’s LTS was submitted at:",
    "o": [
+    "COP21",
     "COP26",
-    "COP28",
     "COP27",
-    "COP21"
+    "COP28"
    ],
    "a": 2,
    "w": "At Sharm el-Sheikh in 2022."

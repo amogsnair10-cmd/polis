@@ -49,76 +49,76 @@
   {
    "q": "The tsar who abdicated was...",
    "o": [
-    "Alexander II",
     "Peter",
     "Nicholas II",
+    "Alexander II",
     "Ivan"
    ],
-   "a": 2,
+   "a": 1,
    "w": "March 1917."
   },
   {
    "q": "Lenin returned to Russia in...",
    "o": [
-    "April 1917",
-    "Oct 1917",
     "1905",
-    "1922"
+    "Oct 1917",
+    "1922",
+    "April 1917"
    ],
-   "a": 0,
+   "a": 3,
    "w": "By a sealed train."
   },
   {
    "q": "The Bolsheviks' slogan was...",
    "o": [
-    "Liberty, equality, fraternity",
-    "Workers unite",
+    "Peace, land and bread",
     "Long live the tsar",
-    "Peace, land and bread"
+    "Workers unite",
+    "Liberty, equality, fraternity"
    ],
-   "a": 3,
+   "a": 0,
    "w": "1917."
   },
   {
    "q": "The October Revolution is dated...",
    "o": [
-    "1 January",
-    "7 November in our calendar",
+    "4 July",
     "25 December",
-    "4 July"
+    "7 November in our calendar",
+    "1 January"
    ],
-   "a": 1,
+   "a": 2,
    "w": "Old-style 25 October."
   },
   {
    "q": "The Civil War was between...",
    "o": [
+    "Germans and French",
     "Reds and Whites",
     "Greens and blues",
-    "Tsar and Pope",
-    "Germans and French"
+    "Tsar and Pope"
    ],
-   "a": 0,
+   "a": 1,
    "w": "1918-22."
   },
   {
    "q": "USSR was formed in...",
    "o": [
-    "1917",
     "1945",
-    "1924",
-    "1922"
+    "1917",
+    "1922",
+    "1924"
    ],
-   "a": 3,
+   "a": 2,
    "w": "Union of Soviet Socialist Republics."
   },
   {
    "q": "Lenin died in...",
    "o": [
-    "1917",
+    "1953",
     "1924",
-    "1922",
-    "1953"
+    "1917",
+    "1922"
    ],
    "a": 1,
    "w": "Stalin followed."
@@ -126,20 +126,20 @@
   {
    "q": "The famous 'storming' image comes from...",
    "o": [
-    "A photograph",
     "Lenin's diary",
     "Eisenstein's film",
-    "A tsar's order"
+    "A tsar's order",
+    "A photograph"
    ],
-   "a": 2,
+   "a": 1,
    "w": "October, 1928."
   },
   {
    "q": "M. N. Roy argued with Lenin at...",
    "o": [
+    "Bandung",
     "Yalta",
     "Versailles",
-    "Bandung",
     "The Second Comintern Congress"
    ],
    "a": 3,
@@ -148,12 +148,12 @@
   {
    "q": "Nehru visited the USSR in...",
    "o": [
-    "1927",
-    "1917",
     "1947",
-    "1962"
+    "1962",
+    "1917",
+    "1927"
    ],
-   "a": 0,
+   "a": 3,
    "w": "Impressed by planning."
   }
  ],

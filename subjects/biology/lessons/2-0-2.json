@@ -64,10 +64,10 @@
   {
    "q": "Biological species concept was proposed by:",
    "o": [
+    "Woese",
     "Darwin",
-    "Linnaeus",
     "Mayr",
-    "Woese"
+    "Linnaeus"
    ],
    "a": 2,
    "w": "Ernst Mayr."
@@ -75,9 +75,9 @@
   {
    "q": "Allopatric speciation needs:",
    "o": [
+    "Polyploidy",
     "Chemicals",
     "No barrier",
-    "Polyploidy",
     "Geographic barrier"
    ],
    "a": 3,
@@ -99,8 +99,8 @@
    "o": [
     "Post-mating barrier",
     "Pre-mating barrier",
-    "Time barrier",
-    "Habitat barrier"
+    "Habitat barrier",
+    "Time barrier"
    ],
    "a": 0,
    "w": "Hybrid sterility."
@@ -108,8 +108,8 @@
   {
    "q": "Adaptive radiation example:",
    "o": [
-    "Mule",
     "Peppered moth",
+    "Mule",
     "Pea",
     "Darwin's finches"
    ],
@@ -120,9 +120,9 @@
    "q": "Binomial nomenclature was by:",
    "o": [
     "Linnaeus",
-    "Mendel",
+    "Mayr",
     "Wallace",
-    "Mayr"
+    "Mendel"
    ],
    "a": 0,
    "w": "1735 onwards."
@@ -131,9 +131,9 @@
    "q": "Sympatric speciation in plants often via:",
    "o": [
     "Polyploidy",
-    "Rivers",
     "Fire",
-    "Mountains"
+    "Mountains",
+    "Rivers"
    ],
    "a": 0,
    "w": "Chromosome doubling."
@@ -141,10 +141,10 @@
   {
    "q": "Largest mass extinction:",
    "o": [
-    "Triassic",
     "Ordovician",
+    "K-Pg",
     "End-Permian",
-    "K-Pg"
+    "Triassic"
    ],
    "a": 2,
    "w": "About 252 mya."
@@ -153,8 +153,8 @@
    "q": "Which is not a domain?",
    "o": [
     "Fungi",
-    "Bacteria",
     "Archaea",
+    "Bacteria",
     "Eukarya"
    ],
    "a": 0,

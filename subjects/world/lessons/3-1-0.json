@@ -54,12 +54,12 @@
   {
    "q": "The Viking Age began with the attack on...",
    "o": [
-    "Paris",
-    "Rome",
     "Lindisfarne",
+    "Rome",
+    "Paris",
     "Dublin"
    ],
-   "a": 2,
+   "a": 0,
    "w": "793 CE."
   },
   {
@@ -76,89 +76,89 @@
   {
    "q": "L'Anse aux Meadows is in...",
    "o": [
-    "Iceland",
+    "Newfoundland",
     "Norway",
-    "Scotland",
-    "Newfoundland"
+    "Iceland",
+    "Scotland"
    ],
-   "a": 3,
+   "a": 0,
    "w": "A Norse site, dated 1021."
   },
   {
    "q": "The Althing is...",
    "o": [
+    "A god",
     "A longship",
     "Iceland's assembly",
-    "A sword",
-    "A god"
+    "A sword"
    ],
-   "a": 1,
+   "a": 2,
    "w": "Founded 930."
   },
   {
    "q": "The Rus were...",
    "o": [
-    "Swedish Vikings in the east",
     "Roman soldiers",
+    "Swedish Vikings in the east",
     "Mongols",
     "Persians"
    ],
-   "a": 0,
+   "a": 1,
    "w": "They gave Russia its name."
   },
   {
    "q": "The Varangian Guard served...",
    "o": [
-    "The Pope",
     "Charlemagne",
+    "The Byzantine emperor",
     "Genghis Khan",
-    "The Byzantine emperor"
+    "The Pope"
    ],
-   "a": 3,
+   "a": 1,
    "w": "Elite Norse bodyguards."
   },
   {
    "q": "Who founded Greenland's colony?",
    "o": [
-    "Leif Erikson",
-    "Erik the Red",
     "Rurik",
-    "Harald"
+    "Leif Erikson",
+    "Harald",
+    "Erik the Red"
    ],
-   "a": 1,
+   "a": 3,
    "w": "About 985."
   },
   {
    "q": "Horned Viking helmets are...",
    "o": [
-    "Found in Sweden",
     "Described in sagas",
     "A 19th-century invention",
+    "Found in Sweden",
     "Found at Hastings"
    ],
-   "a": 2,
+   "a": 1,
    "w": "Wagner costume design."
   },
   {
    "q": "Normandy was settled by...",
    "o": [
-    "Romans",
-    "Huns",
+    "Vikings in 911",
     "Mongols",
-    "Vikings in 911"
+    "Romans",
+    "Huns"
    ],
-   "a": 3,
+   "a": 0,
    "w": "Rollo."
   },
   {
    "q": "The Helgö find is a...",
    "o": [
+    "Egyptian coin",
     "Indian-made Buddha statuette",
     "Chinese vase",
-    "Persian sword",
-    "Egyptian coin"
+    "Persian sword"
    ],
-   "a": 0,
+   "a": 1,
    "w": "From about the 6th century."
   }
  ],

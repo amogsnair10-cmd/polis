@@ -55,20 +55,20 @@
    "q": "Marx's \"metabolic rift\" refers to",
    "o": [
     "Class conflict",
+    "Broken nutrient cycles between town and country",
     "Surplus value",
-    "Inflation",
-    "Broken nutrient cycles between town and country"
+    "Inflation"
    ],
-   "a": 3,
+   "a": 1,
    "w": "From Liebig."
   },
   {
    "q": "Who wrote Marx's Ecology (2000)?",
    "o": [
     "John Bellamy Foster",
-    "Joel Kovel",
     "Jason Hickel",
-    "Ted Benton"
+    "Ted Benton",
+    "Joel Kovel"
    ],
    "a": 0,
    "w": "Monthly Review Press."
@@ -77,53 +77,53 @@
    "q": "O'Connor's \"second contradiction\" refers to",
    "o": [
     "Class struggle",
+    "Capitalism undermining its natural conditions",
     "Falling profit",
-    "Colonialism",
-    "Capitalism undermining its natural conditions"
+    "Colonialism"
    ],
-   "a": 3,
+   "a": 1,
    "w": "Capitalism, Nature, Socialism."
   },
   {
    "q": "The Aral Sea shrank mainly due to",
    "o": [
-    "Mining",
-    "Irrigation for cotton",
     "Earthquakes",
-    "War"
+    "Mining",
+    "War",
+    "Irrigation for cotton"
    ],
-   "a": 1,
+   "a": 3,
    "w": "Soviet policy."
   },
   {
    "q": "Hickel's Less Is More appeared in",
    "o": [
-    "2002",
     "1985",
-    "2020",
-    "2010"
+    "2002",
+    "2010",
+    "2020"
    ],
-   "a": 2,
+   "a": 3,
    "w": "Degrowth."
   },
   {
    "q": "Chipko began in",
    "o": [
-    "1947",
-    "1985",
     "1999",
-    "1973"
+    "1973",
+    "1985",
+    "1947"
    ],
-   "a": 3,
+   "a": 1,
    "w": "Uttarakhand."
   },
   {
    "q": "India announced a net-zero target year of",
    "o": [
     "2070",
-    "2050",
     "2030",
-    "2100"
+    "2100",
+    "2050"
    ],
    "a": 0,
    "w": "At COP26, 2021."
@@ -131,9 +131,9 @@
   {
    "q": "The Four Pests campaign targeted",
    "o": [
-    "Landlords",
     "Capitalists",
     "Foreigners",
+    "Landlords",
     "Sparrows and other pests"
    ],
    "a": 3,
@@ -142,23 +142,23 @@
   {
    "q": "Which term did Jason W. Moore favour?",
    "o": [
-    "Anthropocene only",
-    "Capitalocene",
+    "Plasticene",
     "Holocene",
-    "Plasticene"
+    "Capitalocene",
+    "Anthropocene only"
    ],
-   "a": 1,
+   "a": 2,
    "w": "Capitalism in the Web of Life."
   },
   {
    "q": "\"Environmentalism of the poor\" is associated with",
    "o": [
     "Marx and Engels",
-    "Guha and Gadgil",
     "Friedman",
-    "Lenin"
+    "Lenin",
+    "Guha and Gadgil"
    ],
-   "a": 1,
+   "a": 3,
    "w": "Indian scholars."
   }
  ],

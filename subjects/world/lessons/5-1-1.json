@@ -49,21 +49,21 @@
   {
    "q": "Perry arrived in...",
    "o": [
-    "1868",
-    "1905",
     "1853",
-    "1889"
+    "1868",
+    "1889",
+    "1905"
    ],
-   "a": 2,
+   "a": 0,
    "w": "With the 'black ships'."
   },
   {
    "q": "Meiji Restoration was in...",
    "o": [
     "1868",
-    "1853",
     "1894",
-    "1905"
+    "1905",
+    "1853"
    ],
    "a": 0,
    "w": "Emperor Meiji."
@@ -82,12 +82,12 @@
   {
    "q": "Japan's Constitution was in...",
    "o": [
-    "1868",
-    "1889",
     "1905",
-    "1947"
+    "1947",
+    "1889",
+    "1868"
    ],
-   "a": 1,
+   "a": 2,
    "w": "Meiji Constitution."
   },
   {
@@ -95,8 +95,8 @@
    "o": [
     "The Satsuma Rebellion",
     "The Opium War",
-    "Perry's mission",
-    "The Taiping"
+    "The Taiping",
+    "Perry's mission"
    ],
    "a": 0,
    "w": "1877."
@@ -104,9 +104,9 @@
   {
    "q": "Japan beat China in...",
    "o": [
-    "1904-05",
-    "1853",
     "1868",
+    "1853",
+    "1904-05",
     "1894-95"
    ],
    "a": 3,
@@ -117,8 +117,8 @@
    "o": [
     "1894-95",
     "1904-05",
-    "1914",
-    "1868"
+    "1868",
+    "1914"
    ],
    "a": 1,
    "w": "A shock to Europe."
@@ -127,33 +127,33 @@
    "q": "Which Indian writer's autobiography recalled 1905?",
    "o": [
     "Tagore",
+    "Naoroji",
     "Gandhi's Hind Swaraj only",
-    "Nehru",
-    "Naoroji"
+    "Nehru"
    ],
-   "a": 2,
+   "a": 3,
    "w": "Inspired by Japan."
   },
   {
    "q": "Okakura Tenshin befriended...",
    "o": [
     "Gandhi",
-    "Tilak",
     "Nehru",
-    "Tagore"
+    "Tagore",
+    "Tilak"
    ],
-   "a": 3,
+   "a": 2,
    "w": "Visited India in 1901-02."
   },
   {
    "q": "Edo Japan was...",
    "o": [
-    "Already urban and literate",
     "Illiterate",
     "Without cities",
-    "Without trade"
+    "Without trade",
+    "Already urban and literate"
    ],
-   "a": 0,
+   "a": 3,
    "w": "Meiji built on this."
   }
  ],

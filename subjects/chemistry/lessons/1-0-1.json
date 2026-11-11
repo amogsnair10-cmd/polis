@@ -59,20 +59,20 @@
   {
    "q": "An exothermic reaction has delta H:",
    "o": [
-    "Negative",
-    "Positive",
     "Zero always",
+    "Positive",
+    "Negative",
     "Infinite"
    ],
-   "a": 0,
+   "a": 2,
    "w": "Energy released."
   },
   {
    "q": "Which is endothermic?",
    "o": [
     "Melting ice",
-    "Burning wood",
     "Rusting iron",
+    "Burning wood",
     "Neutralising an acid"
    ],
    "a": 0,
@@ -82,53 +82,53 @@
    "q": "Heat to raise 50 g water by 10 °C (c = 4.18)?",
    "o": [
     "209 J",
-    "500 J",
     "2,090 J",
-    "4,180 J"
+    "4,180 J",
+    "500 J"
    ],
-   "a": 2,
+   "a": 1,
    "w": "50 x 4.18 x 10."
   },
   {
    "q": "Heat released by 3 mol methane (delta H = -890 kJ/mol)?",
    "o": [
-    "2,670 kJ",
-    "890 kJ",
     "1,780 kJ",
-    "297 kJ"
+    "297 kJ",
+    "2,670 kJ",
+    "890 kJ"
    ],
-   "a": 0,
+   "a": 2,
    "w": "3 x 890."
   },
   {
    "q": "Hess's law states:",
    "o": [
-    "Total enthalpy change is route-independent",
+    "Entropy always falls",
     "Mass is conserved",
-    "Heat equals work",
-    "Entropy always falls"
+    "Total enthalpy change is route-independent",
+    "Heat equals work"
    ],
-   "a": 0,
+   "a": 2,
    "w": "Heat change depends on start and end states."
   },
   {
    "q": "Spontaneous reaction has delta G:",
    "o": [
-    "Positive",
-    "Negative",
+    "Equal to delta H",
     "Zero",
-    "Equal to delta H"
+    "Negative",
+    "Positive"
    ],
-   "a": 1,
+   "a": 2,
    "w": "Negative delta G."
   },
   {
    "q": "Breaking chemical bonds:",
    "o": [
     "Absorbs energy",
-    "Releases energy",
     "Creates energy",
-    "Has no energy change"
+    "Has no energy change",
+    "Releases energy"
    ],
    "a": 0,
    "w": "Bond formation releases it."
@@ -137,22 +137,22 @@
    "q": "Entropy measures:",
    "o": [
     "Temperature",
+    "Disorder",
     "Pressure",
-    "Mass",
-    "Disorder"
+    "Mass"
    ],
-   "a": 3,
+   "a": 1,
    "w": "Number of ways to arrange the system."
   },
   {
    "q": "Specific heat of water is about:",
    "o": [
-    "4.18 J/g per °C",
     "1 J/g per °C",
+    "0.1 J/g per °C",
     "100 J/g per °C",
-    "0.1 J/g per °C"
+    "4.18 J/g per °C"
    ],
-   "a": 0,
+   "a": 3,
    "w": "Unusually high."
   },
   {

@@ -54,32 +54,32 @@
   {
    "q": "The World Heritage Convention was adopted in",
    "o": [
+    "2003",
     "1972",
     "1948",
-    "1992",
-    "2003"
+    "1992"
    ],
-   "a": 0,
+   "a": 1,
    "w": "By the UNESCO General Conference."
   },
   {
    "q": "The ICH convention dates from",
    "o": [
-    "1972",
-    "1992",
     "2010",
-    "2003"
+    "1972",
+    "2003",
+    "1992"
    ],
-   "a": 3,
+   "a": 2,
    "w": "Convention for the Safeguarding of the Intangible Cultural Heritage."
   },
   {
    "q": "Which of these is an ICH element from India?",
    "o": [
+    "Sanchi",
     "Hampi",
-    "Taj Mahal",
     "Kumbh Mela",
-    "Sanchi"
+    "Taj Mahal"
    ],
    "a": 2,
    "w": "Inscribed in 2017."
@@ -87,10 +87,10 @@
   {
    "q": "The Moidams of Assam were inscribed in",
    "o": [
-    "2021",
+    "2019",
     "2024",
-    "2023",
-    "2019"
+    "2021",
+    "2023"
    ],
    "a": 1,
    "w": "As India’s 43rd World Heritage Site."
@@ -98,20 +98,20 @@
   {
    "q": "Dholavira was inscribed in",
    "o": [
-    "2021",
+    "2014",
     "2019",
     "2023",
-    "2014"
+    "2021"
    ],
-   "a": 0,
+   "a": 3,
    "w": "A Harappan site in Gujarat."
   },
   {
    "q": "The ASI was founded in",
    "o": [
     "1858",
-    "1904",
     "1947",
+    "1904",
     "1861"
    ],
    "a": 3,
@@ -120,45 +120,45 @@
   {
    "q": "The 1958 Act protects",
    "o": [
-    "Folk arts",
-    "Languages",
     "Ancient monuments and archaeological sites",
-    "Rivers"
+    "Rivers",
+    "Folk arts",
+    "Languages"
    ],
-   "a": 2,
+   "a": 0,
    "w": "It sets prohibited and regulated areas."
   },
   {
    "q": "Article 49 is a",
    "o": [
-    "Fundamental right",
-    "Directive Principle to protect monuments",
     "Fundamental duty",
-    "Union List entry"
+    "Union List entry",
+    "Fundamental right",
+    "Directive Principle to protect monuments"
    ],
-   "a": 1,
+   "a": 3,
    "w": "DPSP."
   },
   {
    "q": "INTACH was set up in",
    "o": [
-    "1984",
     "1947",
     "1961",
+    "1984",
     "2000"
    ],
-   "a": 0,
+   "a": 2,
    "w": "Indian National Trust for Art and Cultural Heritage."
   },
   {
    "q": "Kozhikode is a UNESCO Creative City for",
    "o": [
-    "Music",
+    "Literature",
     "Crafts",
-    "Gastronomy",
-    "Literature"
+    "Music",
+    "Gastronomy"
    ],
-   "a": 3,
+   "a": 0,
    "w": "Designated in 2023."
   }
  ],

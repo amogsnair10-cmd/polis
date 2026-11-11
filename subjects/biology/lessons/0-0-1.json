@@ -65,8 +65,8 @@
    "q": "Which feature defines a eukaryote?",
    "o": [
     "Cell wall",
-    "DNA",
     "Ribosomes",
+    "DNA",
     "Membrane-bound nucleus"
    ],
    "a": 3,
@@ -75,10 +75,10 @@
   {
    "q": "Who proposed the endosymbiotic theory in 1967?",
    "o": [
-    "Palade",
+    "Brown",
     "Golgi",
     "Margulis",
-    "Brown"
+    "Palade"
    ],
    "a": 2,
    "w": "Lynn Margulis."
@@ -87,9 +87,9 @@
    "q": "Where is most ATP made?",
    "o": [
     "Mitochondria",
-    "Lysosome",
     "Nucleolus",
-    "Golgi"
+    "Golgi",
+    "Lysosome"
    ],
    "a": 0,
    "w": "Mitochondria."
@@ -109,9 +109,9 @@
    "q": "Prokaryotic ribosomes are:",
    "o": [
     "70S",
-    "60S",
+    "80S",
     "90S",
-    "80S"
+    "60S"
    ],
    "a": 0,
    "w": "70S vs 80S."
@@ -119,9 +119,9 @@
   {
    "q": "Lysosomes mainly:",
    "o": [
-    "Make lipids",
-    "Store DNA",
     "Make ATP",
+    "Store DNA",
+    "Make lipids",
     "Digest waste and old parts"
    ],
    "a": 3,
@@ -131,9 +131,9 @@
    "q": "Which is found only in plant cells (not animal)?",
    "o": [
     "Cell wall",
-    "Ribosome",
     "Nucleus",
-    "Mitochondria"
+    "Mitochondria",
+    "Ribosome"
    ],
    "a": 0,
    "w": "Plants have a cellulose wall."
@@ -142,9 +142,9 @@
    "q": "The electron microscope was built by:",
    "o": [
     "Ruska",
-    "Leeuwenhoek",
     "Virchow",
-    "Hooke"
+    "Hooke",
+    "Leeuwenhoek"
    ],
    "a": 0,
    "w": "Ernst Ruska, 1931."
@@ -152,10 +152,10 @@
   {
    "q": "Rough ER looks rough because of:",
    "o": [
-    "Mitochondria",
+    "Vesicles",
     "Ribosomes",
-    "Lipids",
-    "Vesicles"
+    "Mitochondria",
+    "Lipids"
    ],
    "a": 1,
    "w": "Attached ribosomes."

@@ -70,43 +70,43 @@
   {
    "q": "Largest cause of migration among Indian women is",
    "o": [
-    "Marriage",
-    "Education",
     "Business",
+    "Education",
+    "Marriage",
     "Natural disaster"
    ],
-   "a": 0,
+   "a": 2,
    "w": "Census 2011."
   },
   {
    "q": "India's sex ratio in Census 2011 was",
    "o": [
-    "1,020",
-    "927",
     "990",
-    "943"
+    "1,020",
+    "943",
+    "927"
    ],
-   "a": 3,
+   "a": 2,
    "w": "Females per 1,000 males."
   },
   {
    "q": "Stage 2 of the demographic transition features",
    "o": [
-    "Falling birth and death rates",
-    "Falling death rate with high birth rate",
     "Low birth and death rates",
-    "High birth and death rates"
+    "High birth and death rates",
+    "Falling death rate with high birth rate",
+    "Falling birth and death rates"
    ],
-   "a": 1,
+   "a": 2,
    "w": "The population booms."
   },
   {
    "q": "Smart Cities Mission began in",
    "o": [
-    "2005",
+    "2020",
     "2015",
-    "2010",
-    "2020"
+    "2005",
+    "2010"
    ],
    "a": 1,
    "w": "Along with AMRUT."
@@ -114,21 +114,21 @@
   {
    "q": "Delimitation of Lok Sabha seats is frozen by Articles",
    "o": [
-    "14 and 15",
     "245 and 246",
+    "82 and 170",
     "352 and 356",
-    "82 and 170"
+    "14 and 15"
    ],
-   "a": 3,
+   "a": 1,
    "w": "Until the first census after 2026."
   },
   {
    "q": "Which state has the highest literacy in India?",
    "o": [
     "Kerala",
+    "Tamil Nadu",
     "Goa",
-    "Mizoram",
-    "Tamil Nadu"
+    "Mizoram"
    ],
    "a": 0,
    "w": "Kerala in Census 2011 and later surveys."
@@ -136,34 +136,34 @@
   {
    "q": "A census town requires density of",
    "o": [
-    "100",
     "1,000",
     "400 per sq km",
-    "2,000"
+    "2,000",
+    "100"
    ],
-   "a": 2,
+   "a": 1,
    "w": "Plus 5,000 population and 75% non-farm workers."
   },
   {
    "q": "Population density in 2011 was",
    "o": [
     "324 per sq km",
-    "550 per sq km",
+    "382 per sq km",
     "200 per sq km",
-    "382 per sq km"
+    "550 per sq km"
    ],
-   "a": 3,
+   "a": 1,
    "w": "Bihar was highest among states."
   },
   {
    "q": "Demographic dividend refers to",
    "o": [
-    "Large working-age share",
     "Large elderly share",
+    "Large rural share",
     "High fertility",
-    "Large rural share"
+    "Large working-age share"
    ],
-   "a": 0,
+   "a": 3,
    "w": "It helps growth with jobs."
   }
  ],

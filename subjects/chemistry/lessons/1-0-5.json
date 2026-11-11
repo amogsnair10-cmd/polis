@@ -60,9 +60,9 @@
    "q": "In redox, oxidation is:",
    "o": [
     "Loss of electrons",
+    "Loss of neutrons",
     "Gain of electrons",
-    "Gain of protons",
-    "Loss of neutrons"
+    "Gain of protons"
    ],
    "a": 0,
    "w": "OIL RIG."
@@ -70,32 +70,32 @@
   {
    "q": "In Zn + Cu2+ → Zn2+ + Cu, the reducing agent is:",
    "o": [
-    "Zn",
-    "Cu2+",
     "Cu",
-    "Zn2+"
+    "Zn",
+    "Zn2+",
+    "Cu2+"
    ],
-   "a": 0,
+   "a": 1,
    "w": "Zn gives up electrons."
   },
   {
    "q": "Oxidation number of Mn in KMnO4?",
    "o": [
     "+4",
-    "+2",
     "+7",
+    "+2",
     "+1"
    ],
-   "a": 2,
+   "a": 1,
    "w": "1 + x - 8 = 0."
   },
   {
    "q": "Cell voltage for Zn (-0.76) / Cu (+0.34) cell?",
    "o": [
     "1.10 V",
+    "0.76 V",
     "0.42 V",
-    "-1.10 V",
-    "0.76 V"
+    "-1.10 V"
    ],
    "a": 0,
    "w": "0.34 + 0.76."
@@ -103,42 +103,42 @@
   {
    "q": "Electrons flow from:",
    "o": [
+    "Anode to salt bridge",
     "Anode to cathode",
     "Cathode to anode",
-    "Salt bridge to anode",
-    "Anode to salt bridge"
+    "Salt bridge to anode"
    ],
-   "a": 0,
+   "a": 1,
    "w": "Oxidation at anode."
   },
   {
    "q": "Charge to deposit 1 mol Cu (2 e- per ion)?",
    "o": [
-    "96,500 C",
-    "193,000 C",
+    "386,000 C",
     "48,250 C",
-    "386,000 C"
+    "96,500 C",
+    "193,000 C"
    ],
-   "a": 1,
+   "a": 3,
    "w": "2 x 96,500."
   },
   {
    "q": "Who built the first battery in 1800?",
    "o": [
-    "Volta",
+    "Davy",
     "Daniell",
-    "Faraday",
-    "Davy"
+    "Volta",
+    "Faraday"
    ],
-   "a": 0,
+   "a": 2,
    "w": "Voltaic pile."
   },
   {
    "q": "The 2019 Chemistry Nobel recognised:",
    "o": [
+    "Solar cells",
     "Fuel cells",
     "Graphene",
-    "Solar cells",
     "Lithium-ion batteries"
    ],
    "a": 3,
@@ -147,12 +147,12 @@
   {
    "q": "Aluminium is extracted industrially by:",
    "o": [
+    "Distillation",
     "Electrolysis",
-    "Smelting with carbon",
     "Roasting",
-    "Distillation"
+    "Smelting with carbon"
    ],
-   "a": 0,
+   "a": 1,
    "w": "Hall-Héroult process."
   },
   {
@@ -160,10 +160,10 @@
    "o": [
     "Gold coating",
     "Aluminium paint",
-    "Phosphorus-rich protective layer",
-    "Vacuum"
+    "Vacuum",
+    "Phosphorus-rich protective layer"
    ],
-   "a": 2,
+   "a": 3,
    "w": "Iron hydrogen phosphate layer."
   }
  ],

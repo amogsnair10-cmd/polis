@@ -59,78 +59,78 @@
   {
    "q": "Tunnelling occurs because:",
    "o": [
-    "Particles dig tunnels",
-    "Particles gain energy from nowhere",
+    "The wavefunction leaks into and through barriers",
     "Barriers are porous",
-    "The wavefunction leaks into and through barriers"
+    "Particles gain energy from nowhere",
+    "Particles dig tunnels"
    ],
-   "a": 3,
+   "a": 0,
    "w": "Born's rule gives a nonzero chance beyond."
   },
   {
    "q": "The chance of tunnelling falls fastest when:",
    "o": [
-    "The barrier is cold",
     "The particle is lighter",
+    "The barrier is thicker or the particle is heavier",
     "The barrier is thinner",
-    "The barrier is thicker or the particle is heavier"
+    "The barrier is cold"
    ],
-   "a": 3,
+   "a": 1,
    "w": "It falls exponentially."
   },
   {
    "q": "Who explained alpha decay by tunnelling in 1928?",
    "o": [
     "Heisenberg",
-    "Pauli",
     "George Gamow (with Gurney and Condon)",
+    "Pauli",
     "Rutherford"
    ],
-   "a": 2,
+   "a": 1,
    "w": "A triumph for early quantum theory."
   },
   {
    "q": "Why does fusion work in the Sun?",
    "o": [
-    "Protons tunnel through their repulsion",
-    "Gravity pulls them in",
+    "The Sun is hot enough classically",
     "Light pushes them",
-    "The Sun is hot enough classically"
+    "Protons tunnel through their repulsion",
+    "Gravity pulls them in"
    ],
-   "a": 0,
+   "a": 2,
    "w": "Classical heat alone would be too little."
   },
   {
    "q": "The scanning tunnelling microscope won the Nobel in:",
    "o": [
-    "1986",
     "2005",
+    "1986",
     "1921",
     "1953"
    ],
-   "a": 0,
+   "a": 1,
    "w": "Binnig and Rohrer invented it in 1981."
   },
   {
    "q": "Flash memory relies on:",
    "o": [
-    "Heat expanding",
-    "Magnets spinning",
     "Light bouncing",
-    "Electrons tunnelling through thin insulators"
+    "Heat expanding",
+    "Electrons tunnelling through thin insulators",
+    "Magnets spinning"
    ],
-   "a": 3,
+   "a": 2,
    "w": "It traps charge."
   },
   {
    "q": "Does a tunnelling particle gain energy to cross?",
    "o": [
     "Yes, from light",
+    "No, it keeps its energy; its amplitude shrinks",
     "Yes, it borrows heavily",
-    "It loses all energy",
-    "No, it keeps its energy; its amplitude shrinks"
+    "It loses all energy"
    ],
-   "a": 3,
+   "a": 1,
    "w": "It never climbs the barrier."
   },
   {
@@ -159,11 +159,11 @@
    "q": "Which quantum computer part uses a tunnelling barrier?",
    "o": [
     "Magnet",
-    "Josephson junction",
+    "Laser mirror",
     "Fan",
-    "Laser mirror"
+    "Josephson junction"
    ],
-   "a": 1,
+   "a": 3,
    "w": "The heart of superconducting qubits."
   }
  ],

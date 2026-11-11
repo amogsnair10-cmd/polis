@@ -54,31 +54,31 @@
   {
    "q": "The Bastille fell on...",
    "o": [
-    "4 July 1776",
-    "26 Aug 1789",
     "14 July 1789",
+    "26 Aug 1789",
+    "4 July 1776",
     "21 Jan 1793"
    ],
-   "a": 2,
+   "a": 0,
    "w": "Now France's national day."
   },
   {
    "q": "The Third Estate was...",
    "o": [
-    "Everyone except clergy and nobles",
-    "The nobles",
     "The clergy",
+    "The nobles",
+    "Everyone except clergy and nobles",
     "The king"
    ],
-   "a": 0,
+   "a": 2,
    "w": "Most of the people."
   },
   {
    "q": "The Tennis Court Oath was taken by...",
    "o": [
-    "The king",
     "The army",
     "The clergy",
+    "The king",
     "The Third Estate"
    ],
    "a": 3,
@@ -87,64 +87,64 @@
   {
    "q": "The Declaration of the Rights of Man was in...",
    "o": [
-    "July 1789",
-    "August 1789",
+    "1799",
     "1793",
-    "1799"
+    "July 1789",
+    "August 1789"
    ],
-   "a": 1,
+   "a": 3,
    "w": "26 August."
   },
   {
    "q": "Louis XVI was executed in...",
    "o": [
+    "1815",
     "1793",
-    "1789",
     "1799",
-    "1815"
+    "1789"
    ],
-   "a": 0,
+   "a": 1,
    "w": "21 January."
   },
   {
    "q": "The Terror was led by...",
    "o": [
-    "Napoleon",
-    "Lafayette",
     "Danton",
-    "Robespierre"
+    "Robespierre",
+    "Napoleon",
+    "Lafayette"
    ],
-   "a": 3,
+   "a": 1,
    "w": "Committee of Public Safety."
   },
   {
    "q": "Olympe de Gouges wrote about...",
    "o": [
-    "Free trade",
-    "Women's rights",
+    "Religion",
     "The calendar",
-    "Religion"
+    "Women's rights",
+    "Free trade"
    ],
-   "a": 1,
+   "a": 2,
    "w": "1791."
   },
   {
    "q": "The cake quote is...",
    "o": [
-    "Said at Versailles",
     "Written by Louis",
     "Unproven",
-    "Proven"
+    "Proven",
+    "Said at Versailles"
    ],
-   "a": 2,
+   "a": 1,
    "w": "Probably propaganda."
   },
   {
    "q": "Tipu Sultan's link to France is...",
    "o": [
+    "Ceding Mysore",
     "Treaty of Paris",
     "A marriage",
-    "Ceding Mysore",
     "Reported Jacobin club in 1797"
    ],
    "a": 3,
@@ -154,9 +154,9 @@
    "q": "Ambedkar said he took the triad from...",
    "o": [
     "The Buddha's teaching",
+    "Locke",
     "Marx",
-    "Rousseau",
-    "Locke"
+    "Rousseau"
    ],
    "a": 0,
    "w": "In 1949."

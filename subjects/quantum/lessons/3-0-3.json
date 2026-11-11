@@ -1,0 +1,179 @@
+{
+ "id": "3-0-3",
+ "title": "Quantum Cryptography and India's Quantum Mission",
+ "emoji": "🔐",
+ "cards": [
+  {
+   "tag": "Why this matters",
+   "h": "Codes that rest on physics, not on hard sums",
+   "b": "<p>Today's online security (RSA and elliptic curves) depends on maths problems being hard. Shor's algorithm shows a big quantum computer could crack them. Two answers: <b>quantum key distribution</b> (QKD), which uses physics to detect spies, and <b>post-quantum cryptography</b>, which uses new maths hard even for quantum machines. India's National Quantum Mission pursues both ideas.</p>"
+  },
+  {
+   "tag": "No-cloning",
+   "h": "The key rule",
+   "b": "<p>You cannot make a perfect copy of an unknown quantum state. This no-cloning theorem was proved in 1982 by William Wootters and Wojciech Zurek, and independently by Dennis Dieks. It means a spy cannot copy a quantum message to read later; reading it unavoidably disturbs it.</p>"
+  },
+  {
+   "tag": "BB84",
+   "h": "The first QKD scheme",
+   "b": "<p>In 1984 Charles Bennett and Gilles Brassard proposed BB84. Alice sends photons, each prepared in one of two randomly chosen \"bases\" (like measuring spin along two different axes). Bob measures in randomly chosen bases. Afterwards, over an ordinary channel, they reveal only which bases were used and keep the bits where they matched. A spy guessing the basis wrongly disturbs the photon and causes errors in about a quarter of the kept bits, so they can detect her.</p><svg class=\"d\" viewBox=\"0 0 320 150\"><defs><marker id=\"m303\" viewBox=\"0 0 10 10\" refX=\"9\" refY=\"5\" markerWidth=\"6\" markerHeight=\"6\" orient=\"auto\"><path d=\"M0,0L10,5L0,10z\" fill=\"#5d6474\"/></marker></defs><rect x=\"5\" y=\"10\" width=\"80\" height=\"40\" rx=\"6\" fill=\"#f1e4c6\" stroke=\"#a8792a\"/><text x=\"45.0\" y=\"26.8\" font-size=\"10\" fill=\"#1d2433\" text-anchor=\"middle\">Alice sends</text><text x=\"45.0\" y=\"39.8\" font-size=\"10\" fill=\"#1d2433\" text-anchor=\"middle\">photons</text><line x1=\"87\" y1=\"30\" x2=\"130\" y2=\"30\" stroke=\"#5d6474\" stroke-width=\"1.5\" marker-end=\"url(#m303)\"/><rect x=\"132\" y=\"10\" width=\"60\" height=\"40\" rx=\"6\" fill=\"#f4dcd5\" stroke=\"#a3362a\"/><text x=\"162.0\" y=\"33.3\" font-size=\"10\" fill=\"#1d2433\" text-anchor=\"middle\">Eve spies?</text><line x1=\"194\" y1=\"30\" x2=\"232\" y2=\"30\" stroke=\"#5d6474\" stroke-width=\"1.5\" marker-end=\"url(#m303)\"/><rect x=\"234\" y=\"10\" width=\"80\" height=\"40\" rx=\"6\" fill=\"#dceaec\" stroke=\"#2f6f7a\"/><text x=\"274.0\" y=\"33.3\" font-size=\"10\" fill=\"#1d2433\" text-anchor=\"middle\">Bob measures</text><text x=\"160\" y=\"80\" font-size=\"10\" fill=\"#5d6474\" text-anchor=\"middle\">Eve must measure to learn the bits,</text><text x=\"160\" y=\"94\" font-size=\"10\" fill=\"#5d6474\" text-anchor=\"middle\">but measuring changes the photons,</text><text x=\"160\" y=\"108\" font-size=\"10\" fill=\"#a3362a\" text-anchor=\"middle\">so Alice and Bob see extra errors</text><text x=\"160\" y=\"132\" font-size=\"10\" fill=\"#a3362a\" text-anchor=\"middle\">and throw the key away</text></svg>"
+  },
+  {
+   "tag": "E91",
+   "h": "Using entanglement",
+   "b": "<p>Artur Ekert (1991) proposed using entangled pairs and a Bell test. If the Bell inequality is violated, nobody could have copied the key. This allows \"device-independent\" security, in which you need not even trust your own equipment. Weak points of real systems (not the theory) are the favourite targets of hackers.</p>"
+  },
+  {
+   "tag": "Reality",
+   "h": "Limits",
+   "b": "<ul><li>Photons are lost in fibre; ranges are about a hundred kilometres without relays.</li><li>QKD protects the key exchange, not the whole system, and needs authentication by other means.</li><li>Many security agencies, such as the US NSA, prefer post-quantum maths over QKD for general use.</li></ul>"
+  },
+  {
+   "tag": "Space",
+   "h": "Satellites",
+   "b": "<p>China's Micius satellite (launched 2016) distributed entangled photons over 1,200 km (Yin et al., 2017) and enabled QKD links between Beijing and Vienna (2017). Satellites avoid fibre loss, which is why they matter for national networks.</p>"
+  },
+  {
+   "tag": "Post-quantum",
+   "h": "New maths",
+   "b": "<p>NIST, the US standards body, published its first post-quantum standards in August 2024: FIPS 203 (ML-KEM, key exchange), 204 (ML-DSA, signatures) and 205 (SLH-DSA). These run on ordinary computers. \"Harvest now, decrypt later\" attacks, where spies store encrypted data to open later, make switching early important.</p>"
+  },
+  {
+   "tag": "How we know",
+   "h": "Evidence",
+   "b": "<p>QKD has run in cities and over fibre links in Europe, China and elsewhere; the Chinese network spans over 2,000 km of backbone. The security proofs are mathematical; actual attacks have exploited flawed detectors, which is why labs focus on engineering.</p>"
+  },
+  {
+   "tag": "Indian angle",
+   "h": "National Quantum Mission",
+   "b": "<p>The Union Cabinet approved the <b>National Quantum Mission (NQM)</b> in April 2023, with an outlay of about ₹6,003.65 crore for 2023-24 to 2030-31, run by the Department of Science and Technology. Goals: quantum computers with 50 to 1,000 physical qubits in eight years; satellite-based secure communication between ground stations over about 2,000 km; inter-city QKD over the same range; and sensors. Four Thematic Hubs (announced in September 2024): IISc Bengaluru (computing), IIT Madras with C-DOT (communication), IIT Bombay (sensing and metrology) and IIT Delhi (materials and devices). ISRO's Space Applications Centre showed free-space QKD over 300 m in 2021. As of mid-2026, press reports of official statements describe the four hubs as working and start-ups being supported; check the latest DST or PIB release for exact figures.</p>"
+  },
+  {
+   "tag": "Recap",
+   "h": "Key takeaways and think-about-it",
+   "b": "<ul><li>No-cloning (1982) lets spies be caught; BB84 (1984) and E91 (1991) are the key schemes.</li><li>Post-quantum cryptography (NIST, August 2024) uses new maths on normal computers.</li><li>NQM (April 2023): about ₹6,003.65 crore, four hubs, 2,000 km secure links as a target.</li></ul><div class=\"box\"><h4>Think about it</h4><ol><li>Why does a spy raise the error rate in BB84?</li><li>Why might a country choose post-quantum maths rather than QKD?</li></ol></div>",
+   "cls": "exam"
+  }
+ ],
+ "quiz": [
+  {
+   "q": "The no-cloning theorem says:",
+   "o": [
+    "Photons are too fast",
+    "Clones are slow",
+    "You cannot perfectly copy an unknown quantum state",
+    "You can copy any state"
+   ],
+   "a": 2,
+   "w": "Wootters, Zurek and Dieks, 1982."
+  },
+  {
+   "q": "BB84 was proposed by:",
+   "o": [
+    "Planck and Wien",
+    "Bennett and Brassard",
+    "Shor and Grover",
+    "Bell and Bohm"
+   ],
+   "a": 1,
+   "w": "In 1984."
+  },
+  {
+   "q": "In BB84 a spy:",
+   "o": [
+    "Disturbs photons and raises the error rate",
+    "Makes the key stronger",
+    "Is invisible",
+    "Speeds up the line"
+   ],
+   "a": 0,
+   "w": "About a quarter of kept bits go wrong."
+  },
+  {
+   "q": "E91 uses:",
+   "o": [
+    "Gravity",
+    "Spoken passwords",
+    "Radio waves",
+    "Entangled pairs and a Bell test"
+   ],
+   "a": 3,
+   "w": "By Artur Ekert in 1991."
+  },
+  {
+   "q": "Post-quantum cryptography runs on:",
+   "o": [
+    "Ordinary computers",
+    "Only quantum computers",
+    "Satellites",
+    "Lasers"
+   ],
+   "a": 0,
+   "w": "It uses maths hard for quantum machines."
+  },
+  {
+   "q": "NIST published its first post-quantum standards in:",
+   "o": [
+    "2030",
+    "August 2024",
+    "1984",
+    "2010"
+   ],
+   "a": 1,
+   "w": "FIPS 203, 204 and 205."
+  },
+  {
+   "q": "The National Quantum Mission was approved in:",
+   "o": [
+    "2017",
+    "1991",
+    "April 2023",
+    "2014"
+   ],
+   "a": 2,
+   "w": "With about ₹6,003.65 crore outlay."
+  },
+  {
+   "q": "Which hub of the NQM focuses on computing?",
+   "o": [
+    "IIT Madras",
+    "IIT Bombay",
+    "IISc Bengaluru",
+    "IIT Delhi"
+   ],
+   "a": 2,
+   "w": "Madras: communication; Bombay: sensing; Delhi: materials."
+  },
+  {
+   "q": "The Micius satellite launched in:",
+   "o": [
+    "1984",
+    "2016",
+    "2023",
+    "1957"
+   ],
+   "a": 1,
+   "w": "It shared entanglement over 1,200 km in 2017."
+  },
+  {
+   "q": "\"Harvest now, decrypt later\" means:",
+   "o": [
+    "Selling data",
+    "Deleting old keys",
+    "Planting crops",
+    "Storing encrypted data to crack later"
+   ],
+   "a": 3,
+   "w": "A reason to move to post-quantum maths early."
+  }
+ ],
+ "sources": [
+  "Wootters and Zurek 1982",
+  "Bennett and Brassard 1984",
+  "Ekert 1991",
+  "NIST FIPS 203, 204, 205 August 2024",
+  "Cabinet approval of NQM April 2023",
+  "DST NQM reports (2026 progress not independently verified)"
+ ],
+ "verified": "2026-11-11"
+}

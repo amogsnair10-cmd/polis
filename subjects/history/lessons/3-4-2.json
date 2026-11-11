@@ -70,10 +70,10 @@
   {
    "q": "General Dyer ordered the firing at Jallianwala Bagh on",
    "o": [
-    "10 May 1919",
+    "6 April 1919",
     "30 March 1919",
     "13 April 1919",
-    "6 April 1919"
+    "10 May 1919"
    ],
    "a": 2,
    "w": "It was Baisakhi day in Amritsar."
@@ -81,41 +81,41 @@
   {
    "q": "The Non-Cooperation Movement was withdrawn after",
    "o": [
-    "Jallianwala Bagh",
-    "Chauri Chaura",
     "Bardoli",
-    "Dandi"
+    "Dandi",
+    "Chauri Chaura",
+    "Jallianwala Bagh"
    ],
-   "a": 1,
+   "a": 2,
    "w": "February 1922."
   },
   {
    "q": "The Nehru Report (1928) demanded",
    "o": [
-    "Dominion status and no separate electorates",
-    "Purna Swaraj",
     "Separate electorates for all",
-    "Partition"
+    "Partition",
+    "Dominion status and no separate electorates",
+    "Purna Swaraj"
    ],
-   "a": 0,
+   "a": 2,
    "w": "It was a draft constitution."
   },
   {
    "q": "Purna Swaraj resolution was passed at",
    "o": [
-    "Calcutta, 1928",
     "Karachi, 1931",
-    "Nagpur, 1920",
-    "Lahore, 1929"
+    "Lahore, 1929",
+    "Calcutta, 1928",
+    "Nagpur, 1920"
    ],
-   "a": 3,
+   "a": 1,
    "w": "Jawaharlal Nehru presided."
   },
   {
    "q": "How many followers marched with Gandhi to Dandi?",
    "o": [
-    "100",
     "12",
+    "100",
     "78",
     "200"
    ],
@@ -125,45 +125,45 @@
   {
    "q": "The Gandhi-Irwin Pact was in",
    "o": [
-    "1930",
-    "1931",
+    "1934",
     "1932",
-    "1934"
+    "1930",
+    "1931"
    ],
-   "a": 1,
+   "a": 3,
    "w": "It suspended the Civil Disobedience Movement."
   },
   {
    "q": "The Communal Award (1932) was announced by",
    "o": [
-    "Ramsay MacDonald",
-    "Lord Irwin",
     "Clement Attlee",
-    "Lord Wavell"
+    "Ramsay MacDonald",
+    "Lord Wavell",
+    "Lord Irwin"
    ],
-   "a": 0,
+   "a": 1,
    "w": "It gave separate electorates to Depressed Classes."
   },
   {
    "q": "The Swaraj Party was formed by",
    "o": [
     "Gandhi and Patel",
+    "C. R. Das and Motilal Nehru",
     "Tilak and Besant",
-    "Bose and Nehru",
-    "C. R. Das and Motilal Nehru"
+    "Bose and Nehru"
    ],
-   "a": 3,
+   "a": 1,
    "w": "In 1923 to contest the council elections."
   },
   {
    "q": "Which Round Table Conference did Gandhi attend?",
    "o": [
-    "First",
-    "Third",
     "Second",
+    "Third",
+    "First",
     "None"
    ],
-   "a": 2,
+   "a": 0,
    "w": "He went to London in 1931."
   }
  ],

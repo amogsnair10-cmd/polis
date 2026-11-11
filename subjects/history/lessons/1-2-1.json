@@ -60,53 +60,53 @@
    "q": "Shivaji was crowned at",
    "o": [
     "Pune in 1646",
-    "Agra in 1666",
     "Raigad in 1674",
-    "Purandar in 1665"
+    "Purandar in 1665",
+    "Agra in 1666"
    ],
-   "a": 2,
+   "a": 1,
    "w": "He took the title Chhatrapati."
   },
   {
    "q": "The Treaty of Purandar (1665) was with",
    "o": [
-    "Aurangzeb himself",
     "Jai Singh",
-    "Afzal Khan",
-    "Shaista Khan"
+    "Aurangzeb himself",
+    "Shaista Khan",
+    "Afzal Khan"
    ],
-   "a": 1,
+   "a": 0,
    "w": "Shivaji gave up many forts."
   },
   {
    "q": "Ashtapradhan was the",
    "o": [
-    "Council of eight ministers",
-    "Eight forts",
     "Eight revenue systems",
-    "Eight provinces"
+    "Eight provinces",
+    "Council of eight ministers",
+    "Eight forts"
    ],
-   "a": 0,
+   "a": 2,
    "w": "The Peshwa was one of them."
   },
   {
    "q": "Chauth was a levy of",
    "o": [
-    "One-tenth",
     "One-half",
-    "One-third",
-    "One-fourth of the revenue"
+    "One-tenth",
+    "One-fourth of the revenue",
+    "One-third"
    ],
-   "a": 3,
+   "a": 2,
    "w": "On neighbouring territories."
   },
   {
    "q": "Who was the first great Peshwa?",
    "o": [
-    "Baji Rao I",
     "Nana Phadnavis",
+    "Mahadji Scindia",
     "Balaji Vishwanath",
-    "Mahadji Scindia"
+    "Baji Rao I"
    ],
    "a": 2,
    "w": "From 1713."
@@ -115,55 +115,55 @@
    "q": "The Third Battle of Panipat was fought against",
    "o": [
     "Nadir Shah",
-    "Ahmad Shah Abdali",
     "Babur",
-    "Aurangzeb"
+    "Aurangzeb",
+    "Ahmad Shah Abdali"
    ],
-   "a": 1,
+   "a": 3,
    "w": "In 1761."
   },
   {
    "q": "Nadir Shah invaded India in",
    "o": [
-    "1739",
+    "1707",
     "1526",
     "1761",
-    "1707"
+    "1739"
    ],
-   "a": 0,
+   "a": 3,
    "w": "He took the Peacock Throne."
   },
   {
    "q": "The Khalsa was founded by",
    "o": [
-    "Guru Nanak in 1469",
     "Guru Arjan in 1604",
-    "Banda Bahadur in 1709",
-    "Guru Gobind Singh in 1699"
+    "Guru Nanak in 1469",
+    "Guru Gobind Singh in 1699",
+    "Banda Bahadur in 1709"
    ],
-   "a": 3,
+   "a": 2,
    "w": "At Anandpur Sahib."
   },
   {
    "q": "Hyderabad was established as an independent state by",
    "o": [
+    "Nizam-ul-Mulk",
     "Saadat Khan",
     "Murshid Quli Khan",
-    "Nizam-ul-Mulk",
     "Haidar Ali"
    ],
-   "a": 2,
+   "a": 0,
    "w": "In 1724."
   },
   {
    "q": "The Treaty of Salbai (1782) ended the",
    "o": [
-    "Second Anglo-Maratha War",
-    "First Anglo-Maratha War",
+    "First Mysore War",
     "Third Anglo-Maratha War",
-    "First Mysore War"
+    "First Anglo-Maratha War",
+    "Second Anglo-Maratha War"
    ],
-   "a": 1,
+   "a": 2,
    "w": "Peace between the Marathas and the English."
   }
  ],

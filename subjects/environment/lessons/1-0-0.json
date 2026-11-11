@@ -60,9 +60,9 @@
    "q": "The two criteria for a hotspot include losing what share of original habitat?",
    "o": [
     "At least 70 percent",
-    "At least 30 percent",
     "At least 50 percent",
-    "At least 90 percent"
+    "At least 90 percent",
+    "At least 30 percent"
    ],
    "a": 0,
    "w": "Conservation International: 1,500 endemic plants and 70 percent habitat lost."
@@ -71,11 +71,11 @@
    "q": "Which of these is not an Indian hotspot?",
    "o": [
     "Himalaya",
-    "Indo-Burma",
     "Western Ghats and Sri Lanka",
-    "Sundaland as a whole"
+    "Sundaland as a whole",
+    "Indo-Burma"
    ],
-   "a": 3,
+   "a": 2,
    "w": "Only the Nicobar Islands part of Sundaland is in India, so Sundaland as a whole is not."
   },
   {
@@ -92,21 +92,21 @@
   {
    "q": "Beta diversity refers to diversity:",
    "o": [
-    "Within a habitat",
     "Between habitats",
+    "Within a habitat",
     "Across a whole region",
     "Of genes"
    ],
-   "a": 1,
+   "a": 0,
    "w": "Alpha is within a habitat, beta is between, gamma is regional."
   },
   {
    "q": "Which is an invasive plant in India?",
    "o": [
     "Lantana camara",
-    "Neem",
+    "Teak",
     "Sal",
-    "Teak"
+    "Neem"
    ],
    "a": 0,
    "w": "Lantana was introduced and now spreads through many forests."
@@ -114,21 +114,21 @@
   {
    "q": "The Kunming-Montreal framework aims to protect what share of land and sea by 2030?",
    "o": [
-    "10 percent",
-    "17 percent",
     "50 percent",
-    "30 percent"
+    "10 percent",
+    "30 percent",
+    "17 percent"
    ],
-   "a": 3,
+   "a": 2,
    "w": "This is the “30 by 30” target adopted in 2022."
   },
   {
    "q": "The National Biodiversity Authority is headquartered at:",
    "o": [
+    "Dehradun",
     "Delhi",
-    "Bhopal",
     "Chennai",
-    "Dehradun"
+    "Bhopal"
    ],
    "a": 2,
    "w": "NBA was set up in 2003 at Chennai under the 2002 Act."
@@ -136,10 +136,10 @@
   {
    "q": "Biodiversity increases generally from:",
    "o": [
-    "Equator toward the poles",
-    "Poles toward the equator",
     "Plains to oceans",
-    "East to west"
+    "Poles toward the equator",
+    "East to west",
+    "Equator toward the poles"
    ],
    "a": 1,
    "w": "This is the latitudinal gradient."
@@ -147,23 +147,23 @@
   {
    "q": "Which Act deals with access and benefit sharing in India?",
    "o": [
-    "Biological Diversity Act 2002",
     "Wildlife Protection Act 1972",
+    "Environment Protection Act 1986",
     "Forest Rights Act 2006",
-    "Environment Protection Act 1986"
+    "Biological Diversity Act 2002"
    ],
-   "a": 0,
+   "a": 3,
    "w": "The BD Act implements the benefit sharing idea of CBD and the Nagoya Protocol."
   },
   {
    "q": "Co-extinction means:",
    "o": [
-    "Two species merge",
     "Extinction of all species in a hotspot",
-    "Extinction due to hunting",
-    "A species dies because a partner species died"
+    "A species dies because a partner species died",
+    "Two species merge",
+    "Extinction due to hunting"
    ],
-   "a": 3,
+   "a": 1,
    "w": "Example: a parasite or pollinator lost with its host."
   }
  ],

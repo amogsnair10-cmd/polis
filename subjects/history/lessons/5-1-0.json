@@ -55,9 +55,9 @@
    "q": "The Berlin Conference on Africa was held in",
    "o": [
     "1884 to 85",
+    "1945",
     "1815",
-    "1919",
-    "1945"
+    "1919"
    ],
    "a": 0,
    "w": "It set the rules of partition."
@@ -65,8 +65,8 @@
   {
    "q": "Which African country was never colonised (apart from short Italian rule) by 1914?",
    "o": [
-    "Nigeria",
     "Kenya",
+    "Nigeria",
     "Angola",
     "Ethiopia"
    ],
@@ -76,65 +76,65 @@
   {
    "q": "The Treaty of Nanking (1842) ceded",
    "o": [
+    "Manchuria to Russia",
     "Macau to Portugal",
     "Taiwan to Japan",
-    "Hong Kong to Britain",
-    "Manchuria to Russia"
+    "Hong Kong to Britain"
    ],
-   "a": 2,
+   "a": 3,
    "w": "It ended the First Opium War."
   },
   {
    "q": "Imperialism, the Highest Stage of Capitalism was written by",
    "o": [
     "Hobson",
-    "Lenin",
     "Marx",
-    "Schumpeter"
+    "Schumpeter",
+    "Lenin"
    ],
-   "a": 1,
+   "a": 3,
    "w": "In 1916."
   },
   {
    "q": "Who wrote Imperialism (1902)?",
    "o": [
-    "J. A. Hobson",
-    "Lenin",
     "Kipling",
-    "Rhodes"
+    "Rhodes",
+    "J. A. Hobson",
+    "Lenin"
    ],
-   "a": 0,
+   "a": 2,
    "w": "A British liberal economist."
   },
   {
    "q": "The Meiji Restoration was in",
    "o": [
-    "1853",
-    "1894",
     "1905",
-    "1868"
+    "1853",
+    "1868",
+    "1894"
    ],
-   "a": 3,
+   "a": 2,
    "w": "Japan modernised."
   },
   {
    "q": "The Boxer Rebellion (1899 to 1901) was in",
    "o": [
-    "Japan",
+    "Vietnam",
     "Korea",
-    "China",
-    "Vietnam"
+    "Japan",
+    "China"
    ],
-   "a": 2,
+   "a": 3,
    "w": "Anti-foreign uprising."
   },
   {
    "q": "The Open Door policy (1899) was proposed by",
    "o": [
-    "Britain",
+    "Russia",
     "The USA",
-    "Germany",
-    "Russia"
+    "Britain",
+    "Germany"
    ],
    "a": 1,
    "w": "For equal trade in China."
@@ -142,23 +142,23 @@
   {
    "q": "Walter Rodney wrote",
    "o": [
-    "How Europe Underdeveloped Africa",
     "Orientalism",
+    "Late Victorian Holocausts",
     "The Wretched of the Earth",
-    "Late Victorian Holocausts"
+    "How Europe Underdeveloped Africa"
    ],
-   "a": 0,
+   "a": 3,
    "w": "Published in 1972."
   },
   {
    "q": "Orientalism (1978) was written by",
    "o": [
-    "Walter Rodney",
     "Frantz Fanon",
-    "Niall Ferguson",
-    "Edward Said"
+    "Walter Rodney",
+    "Edward Said",
+    "Niall Ferguson"
    ],
-   "a": 3,
+   "a": 2,
    "w": "It critiques Western views of the East."
   }
  ],

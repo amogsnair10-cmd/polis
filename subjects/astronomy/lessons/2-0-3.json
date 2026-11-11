@@ -11,7 +11,7 @@
   {
    "tag": "Concept",
    "h": "Fate depends on mass",
-   "b": "<p>Stars below about 8 Suns end quietly as white dwarfs; those above about 8 Suns end in a supernova. The less massive the star, the slower and gentler the death. Red dwarfs will take trillions of years; none has yet died.</p><svg class=\"d\" viewBox=\"0 0 320 160\"><defs><marker id=\"ar1\" viewBox=\"0 0 10 10\" refX=\"9\" refY=\"5\" markerWidth=\"6\" markerHeight=\"6\" orient=\"auto\"><path d=\"M0 0L10 5L0 10z\" fill=\"#5d6474\"/></marker></defs><rect x=\"100\" y=\"5\" width=\"120\" height=\"24\" rx=\"5\" fill=\"#f1e4c6\" stroke=\"#a8792a\"/><text x=\"160.0\" y=\"21.0\" text-anchor=\"middle\" font-size=\"11\" fill=\"#1d2433\">Sun-like star</text><line x1=\"160\" y1=\"29\" x2=\"160\" y2=\"45\" stroke=\"#5d6474\" stroke-width=\"1.5\" marker-end=\"url(#ar1)\"/><rect x=\"100\" y=\"45\" width=\"120\" height=\"24\" rx=\"5\" fill=\"#f4dcd5\" stroke=\"#a3362a\"/><text x=\"160.0\" y=\"61.0\" text-anchor=\"middle\" font-size=\"11\" fill=\"#1d2433\">Red giant</text><line x1=\"160\" y1=\"69\" x2=\"160\" y2=\"85\" stroke=\"#5d6474\" stroke-width=\"1.5\" marker-end=\"url(#ar1)\"/><rect x=\"100\" y=\"85\" width=\"120\" height=\"24\" rx=\"5\" fill=\"#dceaec\" stroke=\"#2f6f7a\"/><text x=\"160.0\" y=\"101.0\" text-anchor=\"middle\" font-size=\"11\" fill=\"#1d2433\">Planetary nebula</text><line x1=\"160\" y1=\"109\" x2=\"160\" y2=\"125\" stroke=\"#5d6474\" stroke-width=\"1.5\" marker-end=\"url(#ar1)\"/><rect x=\"100\" y=\"125\" width=\"120\" height=\"24\" rx=\"5\" fill=\"#ffffff\" stroke=\"#5d6474\"/><text x=\"160.0\" y=\"141.0\" text-anchor=\"middle\" font-size=\"11\" fill=\"#1d2433\">White dwarf</text><text x=\"270\" y=\"60\" text-anchor=\"middle\" font-size=\"9\" fill=\"#1d2433\">Mass above ~8 Suns:</text><text x=\"270\" y=\"73\" text-anchor=\"middle\" font-size=\"9\" fill=\"#1d2433\">core collapse supernova</text></svg>"
+   "b": "<p>Stars below about 8 Suns end quietly as white dwarfs; those above about 8 Suns end in a supernova. The less massive the star, the slower and gentler the death. Red dwarfs will take trillions of years; none has yet died.</p><svg class=\"d\" viewBox=\"0 0 320 160\"><defs><marker id=\"ar1\" viewBox=\"0 0 10 10\" refX=\"9\" refY=\"5\" markerWidth=\"6\" markerHeight=\"6\" orient=\"auto\"><path d=\"M0 0L10 5L0 10z\" fill=\"#5d6474\"/></marker></defs><rect x=\"100\" y=\"5\" width=\"120\" height=\"24\" rx=\"5\" fill=\"#f1e4c6\" stroke=\"#a8792a\"/><text x=\"160.0\" y=\"21.0\" text-anchor=\"middle\" font-size=\"11\" fill=\"#1d2433\">Sun-like star</text><line x1=\"160\" y1=\"29\" x2=\"160\" y2=\"45\" stroke=\"#5d6474\" stroke-width=\"1.5\" marker-end=\"url(#ar1)\"/><rect x=\"100\" y=\"45\" width=\"120\" height=\"24\" rx=\"5\" fill=\"#f4dcd5\" stroke=\"#a3362a\"/><text x=\"160.0\" y=\"61.0\" text-anchor=\"middle\" font-size=\"11\" fill=\"#1d2433\">Red giant</text><line x1=\"160\" y1=\"69\" x2=\"160\" y2=\"85\" stroke=\"#5d6474\" stroke-width=\"1.5\" marker-end=\"url(#ar1)\"/><rect x=\"100\" y=\"85\" width=\"120\" height=\"24\" rx=\"5\" fill=\"#dceaec\" stroke=\"#2f6f7a\"/><text x=\"160.0\" y=\"101.0\" text-anchor=\"middle\" font-size=\"11\" fill=\"#1d2433\">Planetary nebula</text><line x1=\"160\" y1=\"109\" x2=\"160\" y2=\"125\" stroke=\"#5d6474\" stroke-width=\"1.5\" marker-end=\"url(#ar1)\"/><rect x=\"100\" y=\"125\" width=\"120\" height=\"24\" rx=\"5\" fill=\"#ffffff\" stroke=\"#5d6474\"/><text x=\"160.0\" y=\"141.0\" text-anchor=\"middle\" font-size=\"11\" fill=\"#1d2433\">White dwarf</text><text x=\"270\" y=\"60\" text-anchor=\"middle\" font-size=\"10\" fill=\"#1d2433\">Mass above ~8 Suns:</text><text x=\"270\" y=\"73\" text-anchor=\"middle\" font-size=\"10\" fill=\"#1d2433\">core collapse supernova</text></svg>"
   },
   {
    "tag": "Concept",
@@ -64,56 +64,56 @@
   {
    "q": "The Sun will end as a:",
    "o": [
-    "Black hole",
-    "Neutron star",
     "White dwarf",
-    "Supernova"
+    "Supernova",
+    "Neutron star",
+    "Black hole"
    ],
-   "a": 2,
+   "a": 0,
    "w": "Mass is below about 8 Suns."
   },
   {
    "q": "The Chandrasekhar limit is about:",
    "o": [
     "0.14 solar masses",
-    "1.4 solar masses",
     "14 solar masses",
-    "140 solar masses"
+    "140 solar masses",
+    "1.4 solar masses"
    ],
-   "a": 1,
+   "a": 3,
    "w": "1.4 solar masses."
   },
   {
    "q": "What holds up a white dwarf against gravity?",
    "o": [
-    "Fusion",
     "Electron degeneracy pressure",
     "Magnetic fields",
-    "Neutrinos"
+    "Neutrinos",
+    "Fusion"
    ],
-   "a": 1,
+   "a": 0,
    "w": "Quantum pressure of electrons."
   },
   {
    "q": "A planetary nebula is:",
    "o": [
     "A cloud where planets form",
-    "A shell of gas shed by a dying star",
     "A galaxy",
+    "A shell of gas shed by a dying star",
     "A comet tail"
    ],
-   "a": 1,
+   "a": 2,
    "w": "Despite its name."
   },
   {
    "q": "Type Ia supernovae are useful because they:",
    "o": [
-    "Are rare",
     "Have nearly the same peak luminosity",
-    "Create black holes",
-    "Are blue"
+    "Are blue",
+    "Are rare",
+    "Create black holes"
    ],
-   "a": 1,
+   "a": 0,
    "w": "Standard candles."
   },
   {
@@ -130,12 +130,12 @@
   {
    "q": "The Crab Nebula is the remnant of the supernova recorded in:",
    "o": [
-    "1054",
-    "1572",
     "1987",
-    "1604"
+    "1572",
+    "1604",
+    "1054"
    ],
-   "a": 0,
+   "a": 3,
    "w": "Chinese records of 1054 CE."
   },
   {
@@ -143,8 +143,8 @@
    "o": [
     "Gold",
     "Iron",
-    "Uranium",
-    "Lithium"
+    "Lithium",
+    "Uranium"
    ],
    "a": 1,
    "w": "Iron releases no energy."
@@ -152,23 +152,23 @@
   {
    "q": "Neutrinos from SN 1987A showed:",
    "o": [
+    "Big Bang",
     "Core collapse really happens",
     "Dark matter",
-    "Planets",
-    "Big Bang"
+    "Planets"
    ],
-   "a": 0,
+   "a": 1,
    "w": "They arrived before the light."
   },
   {
    "q": "Chandrasekhar won the Nobel Prize in physics in:",
    "o": [
+    "2000",
     "1930",
     "1950",
-    "1983",
-    "2000"
+    "1983"
    ],
-   "a": 2,
+   "a": 3,
    "w": "1983, shared with Fowler."
   }
  ],

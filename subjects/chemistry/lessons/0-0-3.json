@@ -59,32 +59,32 @@
   {
    "q": "Who published the first widely accepted periodic table in 1869?",
    "o": [
-    "Mendeleev",
-    "Moseley",
     "Dalton",
-    "Saha"
+    "Moseley",
+    "Saha",
+    "Mendeleev"
    ],
-   "a": 0,
+   "a": 3,
    "w": "Mendeleev, 1869."
   },
   {
    "q": "The modern periodic law arranges elements by:",
    "o": [
-    "Atomic number",
     "Atomic mass",
-    "Density",
-    "Colour"
+    "Colour",
+    "Atomic number",
+    "Density"
    ],
-   "a": 0,
+   "a": 2,
    "w": "Moseley, 1913."
   },
   {
    "q": "Mendeleev's eka-aluminium was later found as:",
    "o": [
-    "Germanium",
+    "Indium",
     "Gallium",
     "Scandium",
-    "Indium"
+    "Germanium"
    ],
    "a": 1,
    "w": "Gallium, 1875."
@@ -92,21 +92,21 @@
   {
    "q": "Atomic radius across a period from left to right:",
    "o": [
-    "Decreases",
-    "Increases",
     "Stays same",
-    "Doubles"
+    "Doubles",
+    "Increases",
+    "Decreases"
    ],
-   "a": 0,
+   "a": 3,
    "w": "More protons pull the shell in."
   },
   {
    "q": "Most electronegative element?",
    "o": [
-    "Oxygen",
+    "Caesium",
     "Chlorine",
     "Fluorine",
-    "Caesium"
+    "Oxygen"
    ],
    "a": 2,
    "w": "Fluorine, 4.0 on Pauling scale."
@@ -114,20 +114,20 @@
   {
    "q": "How many groups does the modern table have?",
    "o": [
-    "18",
     "8",
+    "18",
     "7",
     "32"
    ],
-   "a": 0,
+   "a": 1,
    "w": "18 vertical columns."
   },
   {
    "q": "Which is the most reactive metal here?",
    "o": [
     "Potassium",
-    "Lithium",
     "Sodium",
+    "Lithium",
     "Magnesium"
    ],
    "a": 0,
@@ -136,10 +136,10 @@
   {
    "q": "Element in Group 17 has how many outer electrons?",
    "o": [
-    "1",
-    "7",
     "8",
-    "17"
+    "7",
+    "17",
+    "1"
    ],
    "a": 1,
    "w": "Halogens have 7."
@@ -149,21 +149,21 @@
    "o": [
     "1",
     "17",
-    "2",
-    "18"
+    "18",
+    "2"
    ],
-   "a": 3,
+   "a": 2,
    "w": "Full outer shells."
   },
   {
    "q": "Saha's 1920 equation deals with:",
    "o": [
-    "Ionisation of atoms at high temperature",
     "Atomic mass",
-    "Radioactive decay",
-    "Gas laws"
+    "Gas laws",
+    "Ionisation of atoms at high temperature",
+    "Radioactive decay"
    ],
-   "a": 0,
+   "a": 2,
    "w": "Used to study star chemistry."
   }
  ],

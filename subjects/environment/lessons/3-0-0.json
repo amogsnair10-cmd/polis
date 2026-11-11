@@ -59,19 +59,19 @@
   {
    "q": "The IPCC was set up in:",
    "o": [
-    "1988",
     "1992",
     "1972",
-    "2007"
+    "2007",
+    "1988"
    ],
-   "a": 0,
+   "a": 3,
    "w": "By WMO and UNEP."
   },
   {
    "q": "Which is not a Kyoto Protocol gas?",
    "o": [
-    "Methane",
     "SF6",
+    "Methane",
     "Nitrous oxide",
     "Water vapour"
    ],
@@ -81,21 +81,21 @@
   {
    "q": "Which gas has the highest GWP among these?",
    "o": [
-    "CO2",
-    "CH4",
+    "N2O",
     "SF6",
-    "N2O"
+    "CO2",
+    "CH4"
    ],
-   "a": 2,
+   "a": 1,
    "w": "SF6 has a GWP above 23,000."
   },
   {
    "q": "Global warming so far (AR6) is about:",
    "o": [
-    "0.2 °C",
-    "1.1 °C",
     "2.5 °C",
-    "3.0 °C"
+    "1.1 °C",
+    "3.0 °C",
+    "0.2 °C"
    ],
    "a": 1,
    "w": "Compared with 1850–1900."
@@ -103,32 +103,32 @@
   {
    "q": "El Niño generally causes the Indian monsoon to:",
    "o": [
-    "Weaken",
+    "Have no effect",
     "Strengthen",
     "Shift to winter",
-    "Have no effect"
+    "Weaken"
    ],
-   "a": 0,
+   "a": 3,
    "w": "It often leads to deficient rain."
   },
   {
    "q": "The ice-albedo feedback happens when:",
    "o": [
-    "Clouds cool the planet",
-    "Forests grow",
+    "Melting ice exposes darker surfaces",
     "Oceans freeze",
-    "Melting ice exposes darker surfaces"
+    "Clouds cool the planet",
+    "Forests grow"
    ],
-   "a": 3,
+   "a": 0,
    "w": "Dark surfaces absorb more heat."
   },
   {
    "q": "India’s net-zero target year is:",
    "o": [
-    "2050",
     "2060",
+    "2047",
     "2070",
-    "2047"
+    "2050"
    ],
    "a": 2,
    "w": "Announced at COP26, Glasgow."
@@ -136,34 +136,34 @@
   {
    "q": "Ocean acidification is caused by:",
    "o": [
-    "Oil spills",
     "Dissolved CO2",
     "Plastic",
+    "Oil spills",
     "Sewage"
    ],
-   "a": 1,
+   "a": 0,
    "w": "CO2 makes carbonic acid in seawater."
   },
   {
    "q": "CBDR-RC stands for:",
    "o": [
+    "Climate balance and renewable commitments",
     "Common but differentiated responsibilities and respective capabilities",
-    "Carbon budget and development rights",
     "Clean energy by rich countries",
-    "Climate balance and renewable commitments"
+    "Carbon budget and development rights"
    ],
-   "a": 0,
+   "a": 1,
    "w": "A core principle of the UNFCCC."
   },
   {
    "q": "India has not joined which 2021 initiative?",
    "o": [
     "Panchamrit",
-    "International Solar Alliance",
+    "Global Methane Pledge",
     "CDRI",
-    "Global Methane Pledge"
+    "International Solar Alliance"
    ],
-   "a": 3,
+   "a": 1,
    "w": "India said methane from agriculture is tied to livelihoods."
   }
  ],

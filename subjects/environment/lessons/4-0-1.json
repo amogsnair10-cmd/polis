@@ -59,20 +59,20 @@
   {
    "q": "The current EIA Notification is from:",
    "o": [
-    "1994",
-    "2006",
+    "1986",
     "2020",
-    "1986"
+    "2006",
+    "1994"
    ],
-   "a": 1,
+   "a": 2,
    "w": "The 1994 one was replaced."
   },
   {
    "q": "Category A projects are appraised by:",
    "o": [
     "The EAC at the Centre",
-    "SEIAA",
     "The NGT",
+    "SEIAA",
     "CPCB"
    ],
    "a": 0,
@@ -81,65 +81,65 @@
   {
    "q": "Which stage fixes the terms of reference?",
    "o": [
-    "Screening",
-    "Appraisal",
     "Decision",
-    "Scoping"
+    "Screening",
+    "Scoping",
+    "Appraisal"
    ],
-   "a": 3,
+   "a": 2,
    "w": "Scoping defines what the EIA covers."
   },
   {
    "q": "Which committee proposed the whole Western Ghats as ecologically sensitive?",
    "o": [
-    "Kasturirangan",
     "Swaminathan",
-    "Gadgil",
-    "Rangarajan"
+    "Kasturirangan",
+    "Rangarajan",
+    "Gadgil"
    ],
-   "a": 2,
+   "a": 3,
    "w": "WGEEP 2011."
   },
   {
    "q": "The clearance portal introduced in 2018 is:",
    "o": [
-    "PRANA",
     "PARIVESH",
+    "e-Shram",
     "SAFAR",
-    "e-Shram"
+    "PRANA"
    ],
-   "a": 1,
+   "a": 0,
    "w": "A single-window system."
   },
   {
    "q": "Kasturirangan report marked what share as ESA?",
    "o": [
-    "About 37 percent",
     "About 100 percent",
     "About 10 percent",
+    "About 37 percent",
     "About 60 percent"
    ],
-   "a": 0,
+   "a": 2,
    "w": "About 60,000 sq km."
   },
   {
    "q": "The EIA rules are made under the:",
    "o": [
-    "Wildlife Act 1972",
     "NGT Act 2010",
-    "Air Act 1981",
-    "Environment Protection Act 1986"
+    "Wildlife Act 1972",
+    "Environment Protection Act 1986",
+    "Air Act 1981"
    ],
-   "a": 3,
+   "a": 2,
    "w": "Under Section 3."
   },
   {
    "q": "B2 category projects require:",
    "o": [
     "A full EIA",
-    "Parliament’s approval",
+    "International review",
     "No EIA report",
-    "International review"
+    "Parliament’s approval"
    ],
    "a": 2,
    "w": "B1 requires an EIA report."
@@ -147,10 +147,10 @@
   {
    "q": "Public hearing is part of:",
    "o": [
-    "Screening",
+    "Decision only",
     "Public consultation",
-    "Monitoring only",
-    "Decision only"
+    "Screening",
+    "Monitoring only"
    ],
    "a": 1,
    "w": "At or near the site."
@@ -158,12 +158,12 @@
   {
    "q": "The draft EIA 2020 drew criticism mainly for:",
    "o": [
-    "Exemptions and post-facto approval",
     "Raising penalties",
     "Banning mining",
+    "Exemptions and post-facto approval",
     "Stronger hearings"
    ],
-   "a": 0,
+   "a": 2,
    "w": "It was not finalised."
   }
  ],

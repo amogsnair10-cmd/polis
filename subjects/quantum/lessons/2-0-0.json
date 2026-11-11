@@ -59,54 +59,54 @@
   {
    "q": "Who coined the word \"entanglement\" in 1935?",
    "o": [
-    "Bell",
-    "Bohr",
     "Einstein",
-    "Erwin Schrödinger"
+    "Erwin Schrödinger",
+    "Bell",
+    "Bohr"
    ],
-   "a": 3,
+   "a": 1,
    "w": "Verschraenkung."
   },
   {
    "q": "The EPR paper (1935) argued that quantum theory is:",
    "o": [
-    "Incomplete",
     "Proven complete",
+    "Wrong in all cases",
     "Unrelated to reality",
-    "Wrong in all cases"
+    "Incomplete"
    ],
-   "a": 0,
+   "a": 3,
    "w": "It was meant to show missing elements."
   },
   {
    "q": "Measuring one of an entangled pair gives:",
    "o": [
+    "A predictable result",
     "A result that changes the partner's mass",
-    "A random result that matches the partner's",
     "No result",
-    "A predictable result"
+    "A random result that matches the partner's"
    ],
-   "a": 1,
+   "a": 3,
    "w": "Each alone is random."
   },
   {
    "q": "Why can entanglement not carry a message?",
    "o": [
-    "It needs a wire",
-    "Particles are too slow",
     "Each side's results alone look random",
-    "Light blocks it"
+    "Particles are too slow",
+    "Light blocks it",
+    "It needs a wire"
    ],
-   "a": 2,
+   "a": 0,
    "w": "Comparison requires ordinary communication."
   },
   {
    "q": "Einstein's phrase \"spooky action at a distance\" appears in a letter to:",
    "o": [
-    "Heisenberg",
+    "Planck",
     "Bohr",
     "Max Born (1947)",
-    "Planck"
+    "Heisenberg"
    ],
    "a": 2,
    "w": "He used it for entanglement."
@@ -114,10 +114,10 @@
   {
    "q": "The glove analogy represents:",
    "o": [
-    "Spin",
+    "Tunnelling",
     "Hidden values fixed from the start",
     "Superposition",
-    "Tunnelling"
+    "Spin"
    ],
    "a": 1,
    "w": "This is the local hidden variable idea."
@@ -125,45 +125,45 @@
   {
    "q": "Which satellite spread entanglement over 1,200 km in 2017?",
    "o": [
-    "Sputnik",
     "Micius",
-    "Chandrayaan",
-    "Hubble"
+    "Hubble",
+    "Sputnik",
+    "Chandrayaan"
    ],
-   "a": 1,
+   "a": 0,
    "w": "Yin et al., Science."
   },
   {
    "q": "What does \"locality\" mean in the EPR argument?",
    "o": [
-    "Atoms are local",
-    "Distant measurements cannot disturb each other",
     "Light is slow",
-    "All things are nearby"
+    "All things are nearby",
+    "Distant measurements cannot disturb each other",
+    "Atoms are local"
    ],
-   "a": 1,
+   "a": 2,
    "w": "No instant influence."
   },
   {
    "q": "Who gave the simpler spin version of EPR in 1951?",
    "o": [
-    "David Bohm",
-    "Dirac",
+    "Raman",
     "Born",
-    "Raman"
+    "David Bohm",
+    "Dirac"
    ],
-   "a": 0,
+   "a": 2,
    "w": "It is the form used in tests."
   },
   {
    "q": "Can only photons be entangled?",
    "o": [
-    "No, atoms, electrons and even larger objects can",
     "Only electrons",
     "Only neutrinos",
+    "No, atoms, electrons and even larger objects can",
     "Yes"
    ],
-   "a": 0,
+   "a": 2,
    "w": "Entanglement is general."
   }
  ],

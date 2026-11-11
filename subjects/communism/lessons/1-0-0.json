@@ -60,9 +60,9 @@
    "q": "Where is the classic summary of the materialist conception of history?",
    "o": [
     "Preface to A Contribution to the Critique of Political Economy (1859)",
-    "Capital Volume 3",
     "Economic and Philosophic Manuscripts (1844)",
-    "Critique of the Gotha Programme (1875)"
+    "Critique of the Gotha Programme (1875)",
+    "Capital Volume 3"
    ],
    "a": 0,
    "w": "1859 Preface."
@@ -71,9 +71,9 @@
    "q": "Which pair forms the \"mode of production\"?",
    "o": [
     "Base and state",
-    "Class and party",
+    "Capital and labour power",
     "Forces and relations of production",
-    "Capital and labour power"
+    "Class and party"
    ],
    "a": 2,
    "w": "The two together."
@@ -81,54 +81,54 @@
   {
    "q": "Engels's letter to Bloch (1890) says the economy is determining",
    "o": [
-    "In the last instance",
     "Never",
     "Only under capitalism",
+    "In the last instance",
     "Only in revolutions"
    ],
-   "a": 0,
+   "a": 2,
    "w": "Allowing the superstructure to react back."
   },
   {
    "q": "Class is defined, for Marx, by",
    "o": [
+    "Relation to the means of production",
     "Income level",
     "Religion",
-    "Education",
-    "Relation to the means of production"
+    "Education"
    ],
-   "a": 3,
+   "a": 0,
    "w": "Not by wealth alone."
   },
   {
    "q": "Who wrote Karl Marx's Theory of History: A Defence (1978)?",
    "o": [
-    "E.P. Thompson",
-    "Louis Althusser",
+    "G.A. Cohen",
     "Eric Hobsbawm",
-    "G.A. Cohen"
+    "Louis Althusser",
+    "E.P. Thompson"
    ],
-   "a": 3,
+   "a": 0,
    "w": "Analytical Marxism."
   },
   {
    "q": "Popper argued that laws of history are",
    "o": [
+    "Required by democracy",
     "Fully scientific",
     "Unfalsifiable",
-    "Confirmed by Marx",
-    "Required by democracy"
+    "Confirmed by Marx"
    ],
-   "a": 1,
+   "a": 2,
    "w": "The Poverty of Historicism."
   },
   {
    "q": "Weber stressed that economies are also shaped by",
    "o": [
+    "Trade unions",
     "Climate only",
-    "Machines only",
     "Ideas such as religion",
-    "Trade unions"
+    "Machines only"
    ],
    "a": 2,
    "w": "Protestant Ethic, 1905."
@@ -136,31 +136,31 @@
   {
    "q": "The English working class was studied by Thompson in",
    "o": [
-    "Age of Capital",
     "The Poverty of Theory",
+    "The Making of the English Working Class (1963)",
     "Reform or Revolution",
-    "The Making of the English Working Class (1963)"
+    "Age of Capital"
    ],
-   "a": 3,
+   "a": 1,
    "w": "1963."
   },
   {
    "q": "Marx wrote on India in the New York Daily Tribune in",
    "o": [
-    "1853",
     "1789",
+    "1930",
     "1917",
-    "1930"
+    "1853"
    ],
-   "a": 0,
+   "a": 3,
    "w": "On British rule in India."
   },
   {
    "q": "Which Indian historian wrote The Agrarian System of Mughal India (1963)?",
    "o": [
-    "R.S. Sharma",
-    "Irfan Habib",
     "Bipan Chandra",
+    "Irfan Habib",
+    "R.S. Sharma",
     "Ranajit Guha"
    ],
    "a": 1,

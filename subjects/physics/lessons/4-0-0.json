@@ -59,45 +59,45 @@
   {
    "q": "Einstein published special relativity in",
    "o": [
-    "1687",
-    "1905",
     "1915",
-    "1927"
+    "1687",
+    "1927",
+    "1905"
    ],
-   "a": 1,
+   "a": 3,
    "w": "1905."
   },
   {
    "q": "The speed of light in vacuum is",
    "o": [
-    "The same for all steady observers",
+    "Dependent on colour",
     "Larger for approaching sources",
     "Smaller for fast observers",
-    "Dependent on colour"
+    "The same for all steady observers"
    ],
-   "a": 0,
+   "a": 3,
    "w": "Second postulate."
   },
   {
    "q": "Moving clocks, as seen by a stationary observer, run",
    "o": [
-    "Faster",
     "Slower",
     "The same",
+    "Faster",
     "Backward"
    ],
-   "a": 1,
+   "a": 0,
    "w": "Time dilation."
   },
   {
    "q": "At v = 0.6c, gamma is",
    "o": [
-    "1.0",
-    "1.25",
     "1.67",
-    "0.8"
+    "1.0",
+    "0.8",
+    "1.25"
    ],
-   "a": 1,
+   "a": 3,
    "w": "1/sqrt(1-0.36)."
   },
   {
@@ -114,10 +114,10 @@
   {
    "q": "E = mc squared means",
    "o": [
-    "Light is heavy",
+    "Energy is a force",
     "Mass and energy are equivalent",
-    "Mass cannot change",
-    "Energy is a force"
+    "Light is heavy",
+    "Mass cannot change"
    ],
    "a": 1,
    "w": "They are interconvertible."
@@ -125,20 +125,20 @@
   {
    "q": "1 kg of matter converted fully to energy gives about (c = 3 x 10^8)",
    "o": [
-    "9 x 10^8 J",
     "9 x 10^16 J",
     "3 x 10^8 J",
-    "10^3 J"
+    "10^3 J",
+    "9 x 10^8 J"
    ],
-   "a": 1,
+   "a": 0,
    "w": "mc squared."
   },
   {
    "q": "Muons reach the ground because of",
    "o": [
     "Time dilation",
-    "Gravity",
     "Magnetism",
+    "Gravity",
     "Radioactivity only"
    ],
    "a": 0,
@@ -148,22 +148,22 @@
    "q": "Michelson and Morley's 1887 experiment found",
    "o": [
     "The ether wind",
-    "No sign of the ether",
     "Gravitational waves",
-    "Atoms"
+    "Atoms",
+    "No sign of the ether"
    ],
-   "a": 1,
+   "a": 3,
    "w": "A null result."
   },
   {
    "q": "India's navigation satellite system is",
    "o": [
-    "NavIC",
-    "INSAT",
+    "Astrosat",
     "Aryabhata",
-    "Astrosat"
+    "INSAT",
+    "NavIC"
    ],
-   "a": 0,
+   "a": 3,
    "w": "Navigation with Indian Constellation."
   }
  ],

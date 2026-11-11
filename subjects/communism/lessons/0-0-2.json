@@ -59,21 +59,21 @@
   {
    "q": "Who wrote \"What Is Property?\" (1840)?",
    "o": [
+    "Fourier",
     "Proudhon",
-    "Blanqui",
     "Louis Blanc",
-    "Fourier"
+    "Blanqui"
    ],
-   "a": 0,
+   "a": 1,
    "w": "Proudhon."
   },
   {
    "q": "The Poverty of Philosophy (1847) was Marx's reply to",
    "o": [
     "Proudhon",
-    "Bakunin",
     "Lassalle",
-    "Owen"
+    "Owen",
+    "Bakunin"
    ],
    "a": 0,
    "w": "A pun on Proudhon's book."
@@ -81,12 +81,12 @@
   {
    "q": "Blanqui's strategy relied mainly on",
    "o": [
+    "Parliament",
     "A mass labour party",
-    "A conspiratorial minority",
     "A general strike",
-    "Parliament"
+    "A conspiratorial minority"
    ],
-   "a": 1,
+   "a": 3,
    "w": "He was the insurrectionist."
   },
   {
@@ -94,8 +94,8 @@
    "o": [
     "Chartism",
     "Owenism",
-    "The First International",
-    "Fabianism"
+    "Fabianism",
+    "The First International"
    ],
    "a": 0,
    "w": "British working-class reform movement."
@@ -104,42 +104,42 @@
    "q": "The Paris June Days (1848) ended with",
    "o": [
     "A socialist republic",
-    "Crushing of the workers' rising",
     "Louis Blanc as president",
-    "A Prussian invasion"
+    "A Prussian invasion",
+    "Crushing of the workers' rising"
    ],
-   "a": 1,
+   "a": 3,
    "w": "Cavaignac suppressed it."
   },
   {
    "q": "The First International was founded in",
    "o": [
-    "1848",
+    "1919",
     "1889",
-    "1864",
-    "1919"
+    "1848",
+    "1864"
    ],
-   "a": 2,
+   "a": 3,
    "w": "London, 1864."
   },
   {
    "q": "Which criticism is made of Proudhon today?",
    "o": [
     "Rejection of all private property",
-    "Patriarchal and prejudiced views",
+    "Support for Blanqui",
     "Support for centralism",
-    "Support for Blanqui"
+    "Patriarchal and prejudiced views"
    ],
-   "a": 1,
+   "a": 3,
    "w": "His views on women and Jews are criticised."
   },
   {
    "q": "Louis Blanc proposed",
    "o": [
-    "Total abolition of the state",
+    "Free trade",
     "State-backed workshops",
-    "Slave emancipation",
-    "Free trade"
+    "Total abolition of the state",
+    "Slave emancipation"
    ],
    "a": 1,
    "w": "The Organisation of Labour, 1839."
@@ -147,23 +147,23 @@
   {
    "q": "Lenin admired Blanqui for his",
    "o": [
-    "Free-market views",
     "Determination in revolution",
-    "Pacifism",
-    "Rejection of organisation"
+    "Rejection of organisation",
+    "Free-market views",
+    "Pacifism"
    ],
-   "a": 1,
+   "a": 0,
    "w": "But wanted a mass-rooted party."
   },
   {
    "q": "Which Indian organisation was formed in 1920 on the trade-union model?",
    "o": [
-    "CITU",
-    "HMS",
     "AITUC",
-    "INTUC"
+    "HMS",
+    "INTUC",
+    "CITU"
    ],
-   "a": 2,
+   "a": 0,
    "w": "All India Trade Union Congress, 1920."
   }
  ],

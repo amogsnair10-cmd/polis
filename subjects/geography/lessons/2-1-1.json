@@ -59,19 +59,19 @@
   {
    "q": "Largest continent by area is",
    "o": [
-    "Asia",
-    "Africa",
+    "Europe",
     "North America",
-    "Europe"
+    "Africa",
+    "Asia"
    ],
-   "a": 0,
+   "a": 3,
    "w": "About 44.6 million sq km."
   },
   {
    "q": "Longest mountain range on land is the",
    "o": [
-    "Himalaya",
     "Rockies",
+    "Himalaya",
     "Alps",
     "Andes"
    ],
@@ -81,31 +81,31 @@
   {
    "q": "Deepest lake in the world is",
    "o": [
-    "Superior",
     "Baikal",
+    "Superior",
     "Caspian",
     "Victoria"
    ],
-   "a": 1,
+   "a": 0,
    "w": "1,642 m."
   },
   {
    "q": "Largest hot desert is the",
    "o": [
+    "Kalahari",
     "Gobi",
     "Sahara",
-    "Kalahari",
     "Arabian"
    ],
-   "a": 1,
+   "a": 2,
    "w": "Antarctica is largest overall."
   },
   {
    "q": "Angel Falls is in",
    "o": [
+    "Canada",
     "Brazil",
     "Zambia",
-    "Canada",
     "Venezuela"
    ],
    "a": 3,
@@ -114,56 +114,56 @@
   {
    "q": "Suez Canal opened in",
    "o": [
-    "1869",
-    "1914",
+    "1956",
     "1900",
-    "1956"
+    "1914",
+    "1869"
    ],
-   "a": 0,
+   "a": 3,
    "w": "Panama opened in 1914."
   },
   {
    "q": "Which strait lies between Indonesia and Malaysia?",
    "o": [
     "Hormuz",
-    "Bosphorus",
     "Malacca",
+    "Bosphorus",
     "Gibraltar"
    ],
-   "a": 2,
+   "a": 1,
    "w": "It is a key sea lane to East Asia."
   },
   {
    "q": "Longest river in Europe is the",
    "o": [
-    "Danube",
     "Rhine",
     "Dnieper",
-    "Volga"
+    "Volga",
+    "Danube"
    ],
-   "a": 3,
+   "a": 2,
    "w": "It flows into the Caspian."
   },
   {
    "q": "Tropic of Cancer is at",
    "o": [
-    "23.5 degrees N",
-    "66.5 degrees N",
     "0 degrees",
-    "30 degrees N"
+    "30 degrees N",
+    "66.5 degrees N",
+    "23.5 degrees N"
    ],
-   "a": 0,
+   "a": 3,
    "w": "It splits India."
   },
   {
    "q": "The International Date Line follows roughly",
    "o": [
-    "0 degrees",
-    "90 degrees E",
     "180 degrees",
-    "82.5 degrees E"
+    "82.5 degrees E",
+    "0 degrees",
+    "90 degrees E"
    ],
-   "a": 2,
+   "a": 0,
    "w": "Opposite the Prime Meridian."
   }
  ],

@@ -59,21 +59,21 @@
   {
    "q": "Which particle defines the identity of an element?",
    "o": [
-    "Proton",
     "Neutron",
+    "Photon",
     "Electron",
-    "Photon"
+    "Proton"
    ],
-   "a": 0,
+   "a": 3,
    "w": "Atomic number is the proton count."
   },
   {
    "q": "How many neutrons are in sodium-23 (Z = 11)?",
    "o": [
-    "11",
+    "34",
     "23",
     "12",
-    "34"
+    "11"
    ],
    "a": 2,
    "w": "23 - 11 = 12."
@@ -82,9 +82,9 @@
    "q": "Who discovered the neutron, and when?",
    "o": [
     "Chadwick, 1932",
-    "Thomson, 1897",
     "Rutherford, 1911",
-    "Dalton, 1808"
+    "Dalton, 1808",
+    "Thomson, 1897"
    ],
    "a": 0,
    "w": "Chadwick found the neutron in 1932."
@@ -92,54 +92,54 @@
   {
    "q": "Chlorine is 75 percent Cl-35 and 25 percent Cl-37. Average mass?",
    "o": [
-    "35.5",
     "36",
     "35",
-    "36.5"
+    "36.5",
+    "35.5"
    ],
-   "a": 0,
+   "a": 3,
    "w": "0.75 x 35 + 0.25 x 37 = 35.5."
   },
   {
    "q": "Molar mass of CO2 (C = 12, O = 16)?",
    "o": [
-    "28 g/mol",
     "44 g/mol",
+    "56 g/mol",
     "32 g/mol",
-    "56 g/mol"
+    "28 g/mol"
    ],
-   "a": 1,
+   "a": 0,
    "w": "12 + 32 = 44."
   },
   {
    "q": "How many moles are in 9 g of water?",
    "o": [
-    "0.5 mol",
-    "2 mol",
+    "0.25 mol",
     "9 mol",
-    "0.25 mol"
+    "2 mol",
+    "0.5 mol"
    ],
-   "a": 0,
+   "a": 3,
    "w": "9 / 18 = 0.5."
   },
   {
    "q": "Approximately how many molecules in 2 mol of any substance?",
    "o": [
-    "6 x 10^23",
-    "1.2 x 10^23",
     "1.2 x 10^24",
-    "3 x 10^23"
+    "1.2 x 10^23",
+    "3 x 10^23",
+    "6 x 10^23"
    ],
-   "a": 2,
+   "a": 0,
    "w": "2 x 6.022 x 10^23."
   },
   {
    "q": "Isotopes differ in their number of:",
    "o": [
     "Neutrons",
-    "Protons",
     "Electrons only",
-    "Chemical symbol"
+    "Chemical symbol",
+    "Protons"
    ],
    "a": 0,
    "w": "Same protons, different neutrons."
@@ -147,12 +147,12 @@
   {
    "q": "Mass of 0.5 mol of NaCl (58.5 g/mol)?",
    "o": [
+    "14.6 g",
     "29.25 g",
     "58.5 g",
-    "117 g",
-    "14.6 g"
+    "117 g"
    ],
-   "a": 0,
+   "a": 1,
    "w": "0.5 x 58.5 = 29.25."
   },
   {

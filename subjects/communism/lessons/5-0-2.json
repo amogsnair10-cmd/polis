@@ -54,42 +54,42 @@
   {
    "q": "Cohen's Karl Marx's Theory of History was published in",
    "o": [
-    "1995",
+    "1978",
     "2009",
-    "1867",
-    "1978"
+    "1995",
+    "1867"
    ],
-   "a": 3,
+   "a": 0,
    "w": "Founding text."
   },
   {
    "q": "Roemer showed exploitation can arise from",
    "o": [
+    "Culture",
     "Labour value only",
     "Unequal ownership of assets",
-    "Culture",
     "Conquest only"
    ],
-   "a": 1,
+   "a": 2,
    "w": "Without the labour theory."
   },
   {
    "q": "Which analytical Marxist wrote Real Freedom for All (1995)?",
    "o": [
-    "Philippe Van Parijs",
-    "Jon Elster",
     "Adam Przeworski",
-    "Wright"
+    "Wright",
+    "Jon Elster",
+    "Philippe Van Parijs"
    ],
-   "a": 0,
+   "a": 3,
    "w": "On basic income."
   },
   {
    "q": "Cohen's Self-Ownership, Freedom, and Equality targets",
    "o": [
-    "Rawls",
-    "Marx",
     "Hayek",
+    "Marx",
+    "Rawls",
     "Nozick"
    ],
    "a": 3,
@@ -98,21 +98,21 @@
   {
    "q": "Cohen's Why Not Socialism? uses the example of",
    "o": [
-    "A factory",
-    "A kibbutz",
+    "A war",
     "A camping trip",
-    "A war"
+    "A kibbutz",
+    "A factory"
    ],
-   "a": 2,
+   "a": 1,
    "w": "2009."
   },
   {
    "q": "The functional explanation in Cohen says relations of production exist because they",
    "o": [
-    "Serve capitalists",
+    "Hide exploitation",
     "Develop the productive forces",
-    "Create class struggle",
-    "Hide exploitation"
+    "Serve capitalists",
+    "Create class struggle"
    ],
    "a": 1,
    "w": "Development thesis."
@@ -120,31 +120,31 @@
   {
    "q": "Wright's Envisioning Real Utopias was published in",
    "o": [
-    "1985",
-    "1978",
     "1995",
-    "2010"
+    "1978",
+    "2010",
+    "1985"
    ],
-   "a": 3,
+   "a": 2,
    "w": "Erik Olin Wright."
   },
   {
    "q": "Which tool was NOT typical of the group?",
    "o": [
-    "Game theory",
     "Rational choice",
+    "Hegelian dialectic",
     "Neoclassical economics",
-    "Hegelian dialectic"
+    "Game theory"
    ],
-   "a": 3,
+   "a": 1,
    "w": "They avoided it."
   },
   {
    "q": "Przeworski's later work argued democratic social democracy",
    "o": [
+    "Is utopian",
     "Is impossible",
     "Needs a vanguard",
-    "Is utopian",
     "Is preferable to revolution"
    ],
    "a": 3,
@@ -153,12 +153,12 @@
   {
    "q": "Pranab Bardhan applied rational-choice tools to",
    "o": [
-    "Indian caste only",
-    "Russian history",
     "Indian agrarian economy",
-    "Chinese politics"
+    "Chinese politics",
+    "Indian caste only",
+    "Russian history"
    ],
-   "a": 2,
+   "a": 0,
    "w": "Land, Labor and Rural Poverty."
   }
  ],

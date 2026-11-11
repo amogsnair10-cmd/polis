@@ -59,43 +59,43 @@
   {
    "q": "Rajatarangini was written by",
    "o": [
-    "Banabhatta",
+    "Kalhana",
     "Kalidasa",
     "Bilhana",
-    "Kalhana"
+    "Banabhatta"
    ],
-   "a": 3,
+   "a": 0,
    "w": "It is a chronicle of Kashmir."
   },
   {
    "q": "Silappadikaram was written by",
    "o": [
-    "Sattanar",
     "Tiruvalluvar",
-    "Ilango Adigal",
-    "Kamban"
+    "Sattanar",
+    "Kamban",
+    "Ilango Adigal"
    ],
-   "a": 2,
+   "a": 3,
    "w": "A Tamil epic."
   },
   {
    "q": "The founder of the Sankhya school is",
    "o": [
-    "Gautama",
     "Kapila",
+    "Jaimini",
     "Kanada",
-    "Jaimini"
+    "Gautama"
    ],
-   "a": 1,
+   "a": 0,
    "w": "It teaches purusha and prakriti."
   },
   {
    "q": "The Vaisheshika school is associated with",
    "o": [
     "Kanada and atomism",
+    "Gautama and logic",
     "Patanjali and yoga",
-    "Jaimini and ritual",
-    "Gautama and logic"
+    "Jaimini and ritual"
    ],
    "a": 0,
    "w": "It describes atoms."
@@ -103,63 +103,63 @@
   {
    "q": "Advaita Vedanta was propounded by",
    "o": [
-    "Ramanuja",
-    "Madhva",
     "Nimbarka",
-    "Shankaracharya"
+    "Shankaracharya",
+    "Ramanuja",
+    "Madhva"
    ],
-   "a": 3,
+   "a": 1,
    "w": "Non-dualism."
   },
   {
    "q": "Anekantavada is a doctrine of",
    "o": [
-    "Buddhism",
-    "Charvaka",
     "Jainism",
-    "Mimamsa"
+    "Charvaka",
+    "Mimamsa",
+    "Buddhism"
    ],
-   "a": 2,
+   "a": 0,
    "w": "The many-sidedness of reality."
   },
   {
    "q": "The Tripitaka is in",
    "o": [
-    "Sanskrit",
     "Pali",
     "Prakrit",
+    "Sanskrit",
     "Tamil"
    ],
-   "a": 1,
+   "a": 0,
    "w": "The Buddhist canon."
   },
   {
    "q": "Which of these is a heterodox (nastika) school?",
    "o": [
-    "Charvaka",
-    "Nyaya",
     "Yoga",
+    "Nyaya",
+    "Charvaka",
     "Mimamsa"
    ],
-   "a": 0,
+   "a": 2,
    "w": "It rejects the Vedas."
   },
   {
    "q": "The first Jnanpith Award (1965) went to",
    "o": [
-    "Tagore",
     "Premchand",
+    "G. Sankara Kurup",
     "Mahasweta Devi",
-    "G. Sankara Kurup"
+    "Tagore"
    ],
-   "a": 3,
+   "a": 1,
    "w": "For Odakkuzhal, in Malayalam."
   },
   {
    "q": "The Yoga Sutras were composed by",
    "o": [
-    "Kapila",
     "Vyasa",
+    "Kapila",
     "Patanjali",
     "Badarayana"
    ],

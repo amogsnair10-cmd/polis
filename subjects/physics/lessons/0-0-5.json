@@ -59,9 +59,9 @@
   {
    "q": "Torque equals",
    "o": [
-    "Force x time",
-    "Force x perpendicular distance from the axis",
     "Mass x acceleration",
+    "Force x perpendicular distance from the axis",
+    "Force x time",
     "Force / area"
    ],
    "a": 1,
@@ -70,12 +70,12 @@
   {
    "q": "A 10 N force acts 0.5 m from a hinge at right angles. Torque?",
    "o": [
-    "20 N m",
     "5 N m",
-    "10.5 N m",
-    "0.05 N m"
+    "0.05 N m",
+    "20 N m",
+    "10.5 N m"
    ],
-   "a": 1,
+   "a": 0,
    "w": "10 x 0.5 = 5."
   },
   {
@@ -92,32 +92,32 @@
   {
    "q": "A skater pulls her arms in. Her spin rate",
    "o": [
-    "Decreases",
-    "Stays same",
+    "Becomes zero",
     "Increases",
-    "Becomes zero"
+    "Stays same",
+    "Decreases"
    ],
-   "a": 2,
+   "a": 1,
    "w": "I falls, so omega rises."
   },
   {
    "q": "Angular momentum is conserved when",
    "o": [
-    "No net external torque acts",
-    "Speed is constant",
     "Mass is constant",
-    "Force is zero only"
+    "Force is zero only",
+    "Speed is constant",
+    "No net external torque acts"
    ],
-   "a": 0,
+   "a": 3,
    "w": "That is the condition."
   },
   {
    "q": "I1 = 6, omega1 = 3. If I falls to 2, omega becomes",
    "o": [
-    "1",
     "6",
+    "18",
     "9",
-    "18"
+    "1"
    ],
    "a": 2,
    "w": "6 x 3 = 2 x omega."
@@ -125,10 +125,10 @@
   {
    "q": "One full turn in radians is",
    "o": [
-    "pi",
+    "180",
     "2 pi",
-    "3.14 degrees",
-    "180"
+    "pi",
+    "3.14 degrees"
    ],
    "a": 1,
    "w": "2 pi radians."
@@ -147,10 +147,10 @@
   {
    "q": "A wheel turns at 10 rad/s. A point 0.5 m from the centre moves at",
    "o": [
-    "20 m/s",
-    "5 m/s",
     "10.5 m/s",
-    "0.05 m/s"
+    "5 m/s",
+    "0.05 m/s",
+    "20 m/s"
    ],
    "a": 1,
    "w": "v = r omega = 5."
@@ -158,9 +158,9 @@
   {
    "q": "A seesaw: 40 kg child sits 2 m from pivot. Where must a 20 kg child sit to balance?",
    "o": [
+    "3 m",
     "1 m",
     "2 m",
-    "3 m",
     "4 m"
    ],
    "a": 3,

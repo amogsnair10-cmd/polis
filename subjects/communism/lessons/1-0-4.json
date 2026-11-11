@@ -54,30 +54,30 @@
   {
    "q": "The Paris Commune lasted",
    "o": [
-    "72 weeks",
     "72 days",
+    "72 weeks",
     "7 years",
     "72 hours"
    ],
-   "a": 1,
+   "a": 0,
    "w": "18 March to 28 May 1871."
   },
   {
    "q": "Marx's analysis of the Commune is in",
    "o": [
-    "Capital",
     "The Eighteenth Brumaire",
-    "The Civil War in France",
-    "Anti-Dühring"
+    "Capital",
+    "Anti-Dühring",
+    "The Civil War in France"
    ],
-   "a": 2,
+   "a": 3,
    "w": "1871."
   },
   {
    "q": "Which feature was NOT part of the Commune's practice?",
    "o": [
-    "Recallable officials",
     "Officials on workers' wages",
+    "Recallable officials",
     "A one-party state",
     "Separation of church and state"
    ],
@@ -87,32 +87,32 @@
   {
    "q": "Engels in 1891 pointed to which model of the dictatorship of the proletariat?",
    "o": [
-    "The Paris Commune",
-    "Tsarist Russia",
     "The Chartists",
-    "The Reichstag"
+    "The Reichstag",
+    "Tsarist Russia",
+    "The Paris Commune"
    ],
-   "a": 0,
+   "a": 3,
    "w": "Introduction to Civil War in France."
   },
   {
    "q": "\"The Dictatorship of the Proletariat\" (1918) was written by",
    "o": [
+    "Trotsky",
     "Lenin",
-    "Kautsky",
     "Bakunin",
-    "Trotsky"
+    "Kautsky"
    ],
-   "a": 1,
+   "a": 3,
    "w": "Lenin replied with a pamphlet."
   },
   {
    "q": "Marx's phrase appears in his",
    "o": [
     "Critique of the Gotha Programme (1875)",
-    "Theses on Feuerbach",
     "Capital Vol 1",
-    "Grundrisse"
+    "Grundrisse",
+    "Theses on Feuerbach"
    ],
    "a": 0,
    "w": "Also in the 1852 Weydemeyer letter."
@@ -120,34 +120,34 @@
   {
    "q": "Where were many Communards deported?",
    "o": [
-    "Algeria only",
-    "Siberia",
     "New Caledonia",
+    "Siberia",
+    "Algeria only",
     "Haiti"
    ],
-   "a": 2,
+   "a": 0,
    "w": "Pacific island penal colony."
   },
   {
    "q": "The West Bengal Left Front government ruled",
    "o": [
-    "1977-2011",
     "1957-67",
+    "1947-77",
     "1990-2000",
-    "1947-77"
+    "1977-2011"
    ],
-   "a": 0,
+   "a": 3,
    "w": "34 years."
   },
   {
    "q": "A historian who stresses the Commune's patriotic republican character is",
    "o": [
-    "E.P. Thompson",
     "Robert Tombs",
-    "Perry Anderson",
-    "Irfan Habib"
+    "Irfan Habib",
+    "E.P. Thompson",
+    "Perry Anderson"
    ],
-   "a": 1,
+   "a": 0,
    "w": "The Paris Commune 1871 (1999)."
   },
   {
@@ -155,10 +155,10 @@
    "o": [
     "For the party",
     "Impossible in revolutions",
-    "Always for those who think differently",
-    "Equal to order"
+    "Equal to order",
+    "Always for those who think differently"
    ],
-   "a": 2,
+   "a": 3,
    "w": "On Russian Revolution, 1918."
   }
  ],

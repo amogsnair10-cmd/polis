@@ -49,31 +49,31 @@
   {
    "q": "China's reform era began in...",
    "o": [
-    "1949",
     "1989",
-    "1978",
-    "2001"
+    "1949",
+    "2001",
+    "1978"
    ],
-   "a": 2,
+   "a": 3,
    "w": "Under Deng."
   },
   {
    "q": "The first special economic zone city...",
    "o": [
+    "Wuhan",
     "Shenzhen",
-    "Beijing",
     "Chongqing",
-    "Wuhan"
+    "Beijing"
    ],
-   "a": 0,
+   "a": 1,
    "w": "1980."
   },
   {
    "q": "China joined the WTO in...",
    "o": [
+    "2010",
     "1978",
     "1995",
-    "2010",
     "2001"
    ],
    "a": 3,
@@ -83,30 +83,30 @@
    "q": "China became No. 2 economy in...",
    "o": [
     "1990",
-    "2010",
     "2001",
-    "2020"
+    "2020",
+    "2010"
    ],
-   "a": 1,
+   "a": 3,
    "w": "Passing Japan."
   },
   {
    "q": "Belt and Road began in...",
    "o": [
-    "2013",
-    "1978",
     "2001",
-    "2020"
+    "2020",
+    "2013",
+    "1978"
    ],
-   "a": 0,
+   "a": 2,
    "w": "Under Xi."
   },
   {
    "q": "The one-child policy ended in...",
    "o": [
-    "1980",
-    "1989",
     "2001",
+    "1989",
+    "1980",
     "2015"
    ],
    "a": 3,
@@ -115,21 +115,21 @@
   {
    "q": "Galwan clash was in...",
    "o": [
-    "1962",
-    "June 2020",
     "2017",
-    "2019"
+    "2019",
+    "June 2020",
+    "1962"
    ],
-   "a": 1,
+   "a": 2,
    "w": "20 Indian soldiers died."
   },
   {
    "q": "Doklam standoff was in...",
    "o": [
-    "1962",
+    "2008",
     "2020",
     "2017",
-    "2008"
+    "1962"
    ],
    "a": 2,
    "w": "Near Bhutan trijunction."
@@ -148,12 +148,12 @@
   {
    "q": "The 'century of humiliation' began with...",
    "o": [
-    "The Opium Wars",
+    "The Korean War",
     "The Cold War",
-    "The Tang",
-    "The Korean War"
+    "The Opium Wars",
+    "The Tang"
    ],
-   "a": 0,
+   "a": 2,
    "w": "Roughly 1839."
   }
  ],

@@ -1,0 +1,178 @@
+{
+ "id": "3-0-1",
+ "title": "Quantum Technologies: Lasers, MRI, Transistors",
+ "emoji": "💾",
+ "cards": [
+  {
+   "tag": "Why this matters",
+   "h": "You are holding quantum technology",
+   "b": "<p>Quantum theory is not only for labs. Estimates often say a large fraction of the world's economy depends on technology built on it. This lesson covers the \"first quantum revolution\": devices that use quantum rules of matter. The \"second revolution\" (computers, cryptography, sensors that use superposition and entanglement) follows.</p>"
+  },
+  {
+   "tag": "Transistor",
+   "h": "Why materials differ",
+   "b": "<p>In a solid, atoms' energy levels merge into wide <b>bands</b>. Electrons fill bands from the bottom, obeying the Pauli principle. If the highest filled band is full and there is a gap above, the material is an insulator or semiconductor. If a band is partly filled, it conducts.</p><svg class=\"d\" viewBox=\"0 0 320 150\"><defs><marker id=\"m301\" viewBox=\"0 0 10 10\" refX=\"9\" refY=\"5\" markerWidth=\"6\" markerHeight=\"6\" orient=\"auto\"><path d=\"M0,0L10,5L0,10z\" fill=\"#5d6474\"/></marker></defs><line x1=\"30\" y1=\"110\" x2=\"130\" y2=\"110\" stroke=\"#5d6474\" stroke-width=\"1.5\"/><line x1=\"30\" y1=\"40\" x2=\"130\" y2=\"40\" stroke=\"#5d6474\" stroke-width=\"1.5\"/><rect x=\"30\" y=\"40\" width=\"100\" height=\"70\" fill=\"#f1e4c6\" opacity=\"0.5\"/><text x=\"80\" y=\"30\" font-size=\"10\" fill=\"#2f6f7a\" text-anchor=\"middle\">conduction band (empty)</text><text x=\"80\" y=\"126\" font-size=\"10\" fill=\"#a8792a\" text-anchor=\"middle\">valence band (full)</text><text x=\"80\" y=\"80\" font-size=\"10\" fill=\"#1d2433\" text-anchor=\"middle\">gap decides</text><rect x=\"165\" y=\"10\" width=\"145\" height=\"60\" rx=\"6\" fill=\"#dceaec\" stroke=\"#2f6f7a\"/><text x=\"237.5\" y=\"30.3\" font-size=\"10\" fill=\"#1d2433\" text-anchor=\"middle\">Insulator: big gap</text><text x=\"237.5\" y=\"43.3\" font-size=\"10\" fill=\"#1d2433\" text-anchor=\"middle\">Semiconductor: small</text><text x=\"237.5\" y=\"56.3\" font-size=\"10\" fill=\"#1d2433\" text-anchor=\"middle\">gap (silicon: 1.1 eV)</text><rect x=\"165\" y=\"85\" width=\"145\" height=\"50\" rx=\"6\" fill=\"#f1e4c6\" stroke=\"#a8792a\"/><text x=\"237.5\" y=\"106.8\" font-size=\"10\" fill=\"#1d2433\" text-anchor=\"middle\">Metal: no gap,</text><text x=\"237.5\" y=\"119.8\" font-size=\"10\" fill=\"#1d2433\" text-anchor=\"middle\">bands overlap</text></svg><p>Doping silicon with a little phosphorus or boron tunes it. At Bell Labs in December 1947, John Bardeen, Walter Brattain and William Shockley built the first transistor (Nobel 1956). Today a phone chip has billions of transistors.</p>"
+  },
+  {
+   "tag": "Laser",
+   "h": "Light in lockstep",
+   "b": "<p>Einstein (1917) showed that an excited atom hit by a photon can emit a second identical photon: stimulated emission. Fill a material with excited atoms between two mirrors and you get a chain reaction of identical photons: a laser. Theodore Maiman built the first (ruby, 1960); Townes, Basov and Prokhorov won the 1964 Nobel for the principle. Photons are bosons, so they pile into the same state. Lasers drive fibre-optic internet, barcode scanners, eye surgery and cutting tools.</p>"
+  },
+  {
+   "tag": "MRI",
+   "h": "Seeing with spins",
+   "b": "<p>Body tissue is rich in hydrogen, and each hydrogen nucleus has spin. In a strong magnetic field they line up; a radio pulse tips them; as they relax they send back a signal that depends on the tissue. Paul Lauterbur and Peter Mansfield turned this into imaging (1970s; Nobel 2003). No ionising radiation is used.</p>"
+  },
+  {
+   "tag": "Clocks",
+   "h": "Counting atoms' vibrations",
+   "b": "<p>Atoms of one kind are identical, so their energy gap is a perfect ruler. Since 1967 the second has been defined as 9,192,631,770 cycles of the radiation from a caesium-133 atom. Atomic clocks make GPS and mobile networks work: GPS needs timing to billionths of a second. Optical clocks now keep time to about one second in billions of years.</p>"
+  },
+  {
+   "tag": "More",
+   "h": "Everyday quantum",
+   "b": "<ul><li><b>LEDs and solar cells:</b> photon energies set by band gaps.</li><li><b>Flash memory:</b> tunnelling.</li><li><b>Magnetic hard disks:</b> giant magnetoresistance (Fert and Gruenberg, Nobel 2007).</li><li><b>Electron microscopes:</b> matter waves.</li><li><b>Chemistry and drugs:</b> quantum rules of bonds.</li></ul>"
+  },
+  {
+   "tag": "How we know",
+   "h": "Why it is trusted",
+   "b": "<p>Each device is a test. A transistor works only if band theory is right. A laser works only if stimulated emission exists. Atomic clocks agree with each other to many digits. These are daily, industrial-scale tests of the same theory.</p>"
+  },
+  {
+   "tag": "Misconceptions",
+   "h": "Myths to drop",
+   "b": "<ul><li><b>\"Quantum technology means quantum computers.\"</b> Most quantum technology is already in your pocket.</li><li><b>\"A laser is a special type of light bulb.\"</b> A bulb gives random photons; a laser gives matched ones.</li><li><b>\"MRI uses radiation like X-rays.\"</b> It uses magnetic fields and radio waves.</li></ul>"
+  },
+  {
+   "tag": "Indian angle",
+   "h": "Patel, Raman, NavIC",
+   "b": "<p>C.K.N. Patel, an Indian-born engineer at Bell Labs, invented the carbon dioxide laser in 1964; it is used in industry and surgery. C.V. Raman's effect is the basis of Raman spectroscopy. India's own navigation system NavIC uses atomic clocks built into its satellites (ISRO's rubidium clocks, with some early failures in 2016-17). India's semiconductor mission, launched in 2021-22, aims to build chip fabs at home.</p>"
+  },
+  {
+   "tag": "Recap",
+   "h": "Key takeaways and think-about-it",
+   "b": "<ul><li>Band theory (Pauli plus waves) explains conductors, insulators and transistors (1947).</li><li>Lasers rely on stimulated emission; MRI on nuclear spin; clocks on atomic levels.</li><li>This first quantum revolution powers the modern economy.</li></ul><div class=\"box\"><h4>Think about it</h4><ol><li>Why does a small band gap make silicon useful as a switch?</li><li>Why are photons in a laser all alike?</li></ol></div>",
+   "cls": "exam"
+  }
+ ],
+ "quiz": [
+  {
+   "q": "The first transistor was built at:",
+   "o": [
+    "IISc in 1930",
+    "CERN in 1960",
+    "Bell Labs in 1947",
+    "MIT in 1900"
+   ],
+   "a": 2,
+   "w": "Bardeen, Brattain and Shockley."
+  },
+  {
+   "q": "A semiconductor has:",
+   "o": [
+    "No bands",
+    "No electrons",
+    "A huge gap",
+    "A small band gap"
+   ],
+   "a": 3,
+   "w": "Silicon is about 1.1 eV."
+  },
+  {
+   "q": "Laser operation relies on:",
+   "o": [
+    "Nuclear fusion",
+    "Radioactivity",
+    "Gravity",
+    "Stimulated emission"
+   ],
+   "a": 3,
+   "w": "Einstein, 1917."
+  },
+  {
+   "q": "The first working laser (1960) was built by:",
+   "o": [
+    "Townes",
+    "Einstein",
+    "Patel",
+    "Theodore Maiman"
+   ],
+   "a": 3,
+   "w": "A ruby laser."
+  },
+  {
+   "q": "MRI uses mainly:",
+   "o": [
+    "X-rays",
+    "Nuclear spin of hydrogen",
+    "Sound",
+    "Gamma rays"
+   ],
+   "a": 1,
+   "w": "With magnetic fields and radio waves."
+  },
+  {
+   "q": "The second is defined by:",
+   "o": [
+    "Caesium-133 radiation cycles",
+    "The Moon",
+    "Earth's rotation",
+    "A pendulum"
+   ],
+   "a": 0,
+   "w": "9,192,631,770 cycles since 1967."
+  },
+  {
+   "q": "Which Indian-born engineer invented the CO2 laser?",
+   "o": [
+    "C.V. Raman",
+    "S.N. Bose",
+    "C.K.N. Patel",
+    "Homi Bhabha"
+   ],
+   "a": 2,
+   "w": "At Bell Labs, 1964."
+  },
+  {
+   "q": "Why are photons in a laser alike?",
+   "o": [
+    "They are heavy",
+    "They are cooled",
+    "They are charged",
+    "Photons are bosons and can share a state"
+   ],
+   "a": 3,
+   "w": "They crowd into one mode."
+  },
+  {
+   "q": "Which tech is NOT a first-generation quantum device?",
+   "o": [
+    "A cricket bat",
+    "Transistor",
+    "LED",
+    "Laser"
+   ],
+   "a": 0,
+   "w": "The others depend on quantum rules."
+  },
+  {
+   "q": "GPS depends on:",
+   "o": [
+    "Mechanical watches",
+    "Pendulums",
+    "Sundials",
+    "Atomic clocks"
+   ],
+   "a": 3,
+   "w": "Timing precision of billionths of a second."
+  }
+ ],
+ "sources": [
+  "Bardeen, Brattain and Shockley 1947",
+  "Maiman 1960",
+  "Lauterbur and Mansfield 1970s",
+  "SI second definition 1967",
+  "Patel 1964"
+ ],
+ "verified": "2026-11-11"
+}

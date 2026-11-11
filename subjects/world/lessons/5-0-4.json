@@ -54,43 +54,43 @@
   {
    "q": "Saint-Domingue was a colony of...",
    "o": [
-    "Spain",
-    "Britain",
     "France",
+    "Britain",
+    "Spain",
     "Portugal"
    ],
-   "a": 2,
+   "a": 0,
    "w": "Haiti's earlier name."
   },
   {
    "q": "The uprising began in...",
    "o": [
-    "1791",
-    "1789",
     "1804",
-    "1825"
+    "1789",
+    "1825",
+    "1791"
    ],
-   "a": 0,
+   "a": 3,
    "w": "August."
   },
   {
    "q": "Toussaint Louverture was...",
    "o": [
-    "A French general",
-    "A Spanish king",
     "A British governor",
-    "A formerly enslaved leader"
+    "A French general",
+    "A formerly enslaved leader",
+    "A Spanish king"
    ],
-   "a": 3,
+   "a": 2,
    "w": "Died in a French prison, 1803."
   },
   {
    "q": "France abolished slavery in...",
    "o": [
-    "1804",
+    "1848",
     "1794",
-    "1833",
-    "1848"
+    "1804",
+    "1833"
    ],
    "a": 1,
    "w": "First time, then Napoleon tried to reverse it."
@@ -98,23 +98,23 @@
   {
    "q": "Haiti declared independence on...",
    "o": [
-    "1 January 1804",
+    "1 Jan 1863",
     "14 July 1789",
     "4 July 1776",
-    "1 Jan 1863"
+    "1 January 1804"
    ],
-   "a": 0,
+   "a": 3,
    "w": "First Black republic."
   },
   {
    "q": "Which disease killed many French soldiers?",
    "o": [
-    "Plague",
-    "Smallpox only",
+    "Yellow fever",
     "Cholera",
-    "Yellow fever"
+    "Smallpox only",
+    "Plague"
    ],
-   "a": 3,
+   "a": 0,
    "w": "A key factor."
   },
   {
@@ -131,32 +131,32 @@
   {
    "q": "Dessalines won at...",
    "o": [
-    "Waterloo",
     "Yorktown",
-    "Vertieres",
-    "Saratoga"
+    "Waterloo",
+    "Saratoga",
+    "Vertieres"
    ],
-   "a": 2,
+   "a": 3,
    "w": "November 1803."
   },
   {
    "q": "The Black Jacobins was written by...",
    "o": [
-    "Eric Williams",
     "Gandhi",
-    "Marx",
-    "C. L. R. James"
+    "Eric Williams",
+    "C. L. R. James",
+    "Marx"
    ],
-   "a": 3,
+   "a": 2,
    "w": "1938."
   },
   {
    "q": "Napoleon sold Louisiana in...",
    "o": [
     "1803",
+    "1825",
     "1815",
-    "1799",
-    "1825"
+    "1799"
    ],
    "a": 0,
    "w": "After losing Haiti."

@@ -59,34 +59,34 @@
   {
    "q": "Young's 1801 experiment showed that light:",
    "o": [
-    "Needs no source",
+    "Behaves as a wave",
     "Has no colour",
     "Is a stream of bullets",
-    "Behaves as a wave"
+    "Needs no source"
    ],
-   "a": 3,
+   "a": 0,
    "w": "Stripes are an interference pattern."
   },
   {
    "q": "Bullets through two slits give:",
    "o": [
     "Interference stripes",
+    "No hits",
     "Two heaps",
-    "A single dot",
-    "No hits"
+    "A single dot"
    ],
-   "a": 1,
+   "a": 2,
    "w": "Particles take one path each."
   },
   {
    "q": "Electrons fired one at a time eventually make:",
    "o": [
-    "An interference pattern",
     "Nothing",
     "A uniform blur from the start",
+    "An interference pattern",
     "Two heaps"
    ],
-   "a": 0,
+   "a": 2,
    "w": "Dots accumulate into stripes."
   },
   {
@@ -104,9 +104,9 @@
    "q": "Why is the single-electron stripe result surprising?",
    "o": [
     "Each electron seems to interfere with itself",
-    "Electrons repel each other",
+    "Electrons are invisible",
     "The screen is faulty",
-    "Electrons are invisible"
+    "Electrons repel each other"
    ],
    "a": 0,
    "w": "It cannot be due to electron-electron collisions."
@@ -114,56 +114,56 @@
   {
    "q": "Who showed buckyball (C60) interference in 1999?",
    "o": [
-    "Planck",
-    "Heisenberg",
     "Young",
-    "Arndt, Zeilinger and colleagues"
+    "Planck",
+    "Arndt, Zeilinger and colleagues",
+    "Heisenberg"
    ],
-   "a": 3,
+   "a": 2,
    "w": "Showing quantum behaviour in big molecules."
   },
   {
    "q": "Does consciousness cause the stripes to vanish?",
    "o": [
-    "Yes, only human minds do",
-    "Only animals do",
     "Only at night",
-    "No, any physical record does"
+    "Yes, only human minds do",
+    "No, any physical record does",
+    "Only animals do"
    ],
-   "a": 3,
+   "a": 2,
    "w": "Information in the environment is enough."
   },
   {
    "q": "Which view says the electron is guided by a pilot wave?",
    "o": [
-    "Bohmian mechanics",
-    "Many-worlds",
     "Wien's law",
-    "The photoelectric effect"
+    "Bohmian mechanics",
+    "The photoelectric effect",
+    "Many-worlds"
    ],
-   "a": 0,
+   "a": 1,
    "w": "It reproduces the same stripes."
   },
   {
    "q": "What do all interpretations agree on?",
    "o": [
     "That the observer is conscious",
-    "The predicted pattern of landing spots",
+    "That reality is an illusion",
     "That the electron splits",
-    "That reality is an illusion"
+    "The predicted pattern of landing spots"
    ],
-   "a": 1,
+   "a": 3,
    "w": "They differ only on the story."
   },
   {
    "q": "Urbasi Sinha's group at RRI is known for:",
    "o": [
-    "Inventing the laser",
     "Building the LHC",
-    "Discovering the electron",
-    "Single-photon interference tests"
+    "Single-photon interference tests",
+    "Inventing the laser",
+    "Discovering the electron"
    ],
-   "a": 3,
+   "a": 1,
    "w": "Including a 2010 triple-slit test."
   }
  ],

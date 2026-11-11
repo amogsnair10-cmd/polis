@@ -54,75 +54,75 @@
   {
    "q": "De Broglie proposed that:",
    "o": [
-    "Every moving particle has a wave",
-    "Only light has a wave",
     "Atoms are indivisible",
-    "Waves need a medium"
+    "Only light has a wave",
+    "Waves need a medium",
+    "Every moving particle has a wave"
    ],
-   "a": 0,
+   "a": 3,
    "w": "This is matter-wave duality."
   },
   {
    "q": "The de Broglie wavelength is:",
    "o": [
     "h times momentum",
+    "speed of light divided by h",
     "h divided by momentum",
-    "mass divided by speed",
-    "speed of light divided by h"
+    "mass divided by speed"
    ],
-   "a": 1,
+   "a": 2,
    "w": "Larger momentum means shorter wavelength."
   },
   {
    "q": "Why does a cricket ball show no wave behaviour?",
    "o": [
-    "It is not made of atoms",
-    "It moves too slowly",
+    "Gravity blocks waves",
     "Its wavelength is unimaginably small",
-    "Gravity blocks waves"
+    "It moves too slowly",
+    "It is not made of atoms"
    ],
-   "a": 2,
+   "a": 1,
    "w": "About 10⁻³⁴ m."
   },
   {
    "q": "Allowed Bohr orbits are those where:",
    "o": [
-    "A whole number of waves fit round",
-    "The electron is stationary",
     "The orbit is circular only",
-    "Waves cancel completely"
+    "Waves cancel completely",
+    "The electron is stationary",
+    "A whole number of waves fit round"
    ],
-   "a": 0,
+   "a": 3,
    "w": "Otherwise the wave destroys itself."
   },
   {
    "q": "The 1927 Davisson-Germer experiment used:",
    "o": [
-    "X-rays on gold foil",
-    "Electrons on a nickel crystal",
+    "Light on a prism",
     "Alpha particles on mica",
-    "Light on a prism"
+    "Electrons on a nickel crystal",
+    "X-rays on gold foil"
    ],
-   "a": 1,
+   "a": 2,
    "w": "The pattern matched diffraction of waves."
   },
   {
    "q": "Who independently saw electron rings through thin foil?",
    "o": [
     "Rutherford",
+    "G.P. Thomson",
     "Pauli",
-    "Compton",
-    "G.P. Thomson"
+    "Compton"
    ],
-   "a": 3,
+   "a": 1,
    "w": "He shared the 1937 Nobel with Davisson."
   },
   {
    "q": "Why can electron microscopes show finer detail than light microscopes?",
    "o": [
     "Fast electrons have shorter wavelengths",
-    "Electrons are brighter",
     "They are heavier than light",
+    "Electrons are brighter",
     "They glow"
    ],
    "a": 0,
@@ -131,34 +131,34 @@
   {
    "q": "Interference with C60 molecules (1999) showed:",
    "o": [
-    "Molecules cannot be waves",
     "C60 is a photon",
     "Large molecules also behave like waves",
-    "Waves need vacuum only"
+    "Waves need vacuum only",
+    "Molecules cannot be waves"
    ],
-   "a": 2,
+   "a": 1,
    "w": "Zeilinger's group in Vienna."
   },
   {
    "q": "When you double a particle's momentum, its wavelength:",
    "o": [
-    "Halves",
     "Doubles",
     "Stays the same",
+    "Halves",
     "Becomes zero"
    ],
-   "a": 0,
+   "a": 2,
    "w": "Wavelength = h / p."
   },
   {
    "q": "What does the electron wave describe?",
    "o": [
     "A real ripple in matter",
+    "Its colour",
     "The odds of finding the electron somewhere",
-    "The speed of light",
-    "Its colour"
+    "The speed of light"
    ],
-   "a": 1,
+   "a": 2,
    "w": "Born's rule gives the odds (1926)."
   }
  ],

@@ -59,76 +59,76 @@
   {
    "q": "The Sun's energy comes from:",
    "o": [
-    "Chemical burning",
     "Gravitational shrinking only",
-    "Nuclear fusion of hydrogen",
-    "Radioactive decay"
+    "Radioactive decay",
+    "Chemical burning",
+    "Nuclear fusion of hydrogen"
    ],
-   "a": 2,
+   "a": 3,
    "w": "Hydrogen to helium."
   },
   {
    "q": "About what fraction of the hydrogen's mass becomes energy in H to He fusion?",
    "o": [
-    "0.7 percent",
     "7 percent",
-    "70 percent",
-    "100 percent"
+    "0.7 percent",
+    "100 percent",
+    "70 percent"
    ],
-   "a": 0,
+   "a": 1,
    "w": "About 0.7 percent."
   },
   {
    "q": "Quantum tunnelling is needed because:",
    "o": [
-    "Protons repel each other",
     "Neutrons are heavy",
+    "Photons are fast",
     "The Sun is dense",
-    "Photons are fast"
+    "Protons repel each other"
    ],
-   "a": 0,
+   "a": 3,
    "w": "Barrier from electric repulsion."
   },
   {
    "q": "Who first proposed hydrogen fusion in stars in 1920?",
    "o": [
-    "Eddington",
-    "Bethe",
     "Gamow",
+    "Bethe",
+    "Eddington",
     "Einstein"
    ],
-   "a": 0,
+   "a": 2,
    "w": "Arthur Eddington."
   },
   {
    "q": "Neutrinos from the Sun reach Earth in about:",
    "o": [
-    "8 minutes",
-    "2 seconds from the core then 8 minutes",
     "100,000 years",
-    "1 hour"
+    "1 hour",
+    "2 seconds from the core then 8 minutes",
+    "8 minutes"
    ],
-   "a": 1,
+   "a": 2,
    "w": "Neutrinos escape instantly; light then travels 8 minutes."
   },
   {
    "q": "Why does fusion stop at iron in massive stars?",
    "o": [
-    "Fusing iron absorbs energy",
-    "Iron is rare",
     "Gravity is too weak",
-    "It melts"
+    "Fusing iron absorbs energy",
+    "It melts",
+    "Iron is rare"
    ],
-   "a": 0,
+   "a": 1,
    "w": "No net energy gain."
   },
   {
    "q": "The solar neutrino problem was solved by:",
    "o": [
     "Neutrino oscillation",
+    "Bad detectors",
     "Finding more hydrogen",
-    "Colder core",
-    "Bad detectors"
+    "Colder core"
    ],
    "a": 0,
    "w": "Neutrinos change type."
@@ -137,8 +137,8 @@
    "q": "Kelvin's estimate of the Sun's age (20 million years) failed because:",
    "o": [
     "He did not know about fusion",
-    "He used wrong distance",
     "The Sun is cold",
+    "He used wrong distance",
     "He ignored the Moon"
    ],
    "a": 0,
@@ -148,9 +148,9 @@
    "q": "A star's fusion rate acts like a thermostat because:",
    "o": [
     "Higher temperature expands the core, lowering fusion",
+    "It is random",
     "It burns faster when cooler",
-    "Photons control it",
-    "It is random"
+    "Photons control it"
    ],
    "a": 0,
    "w": "Self-regulating balance."
@@ -158,12 +158,12 @@
   {
    "q": "India's Institute for Plasma Research runs:",
    "o": [
-    "SST-1 tokamak",
     "LIGO",
+    "SST-1 tokamak",
     "GMRT",
     "AstroSat"
    ],
-   "a": 0,
+   "a": 1,
    "w": "Gandhinagar."
   }
  ],

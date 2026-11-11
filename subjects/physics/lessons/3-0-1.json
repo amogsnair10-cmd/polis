@@ -59,111 +59,111 @@
   {
    "q": "Young's double-slit experiment (1801) showed that light",
    "o": [
-    "Is a particle",
-    "Behaves like a wave",
     "Is a sound",
-    "Has mass"
+    "Has mass",
+    "Behaves like a wave",
+    "Is a particle"
    ],
-   "a": 1,
+   "a": 2,
    "w": "Interference needs waves."
   },
   {
    "q": "Constructive interference occurs when path difference is",
    "o": [
     "Half a wavelength",
-    "A whole number of wavelengths",
+    "Random",
     "Zero only",
-    "Random"
+    "A whole number of wavelengths"
    ],
-   "a": 1,
+   "a": 3,
    "w": "Waves are in phase."
   },
   {
    "q": "Fringe spacing is proportional to",
    "o": [
     "Slit separation",
-    "Wavelength",
     "Slit width squared",
-    "Light intensity"
+    "Light intensity",
+    "Wavelength"
    ],
-   "a": 1,
+   "a": 3,
    "w": "spacing = lambda D / d."
   },
   {
    "q": "Compared with blue light, red light in the same set-up gives fringes that are",
    "o": [
+    "Absent",
     "Closer",
-    "Wider",
     "Identical",
-    "Absent"
+    "Wider"
    ],
-   "a": 1,
+   "a": 3,
    "w": "Longer wavelength."
   },
   {
    "q": "Wavelength 500 nm, d = 1 mm, D = 2 m. Spacing?",
    "o": [
+    "0.25 mm",
     "1 mm",
     "0.5 mm",
-    "2 mm",
-    "0.25 mm"
+    "2 mm"
    ],
-   "a": 0,
+   "a": 1,
    "w": "500e-9 x 2 / 1e-3 = 1 mm."
   },
   {
    "q": "Polarisation proves that light is",
    "o": [
-    "Longitudinal",
     "Transverse",
     "A particle",
+    "Longitudinal",
     "Sound"
    ],
-   "a": 1,
+   "a": 0,
    "w": "Only transverse waves polarise."
   },
   {
    "q": "Polaroid sunglasses reduce",
    "o": [
     "Heat",
+    "Brightness evenly",
     "Glare",
-    "Ultraviolet only",
-    "Brightness evenly"
+    "Ultraviolet only"
    ],
-   "a": 1,
+   "a": 2,
    "w": "They block horizontally polarised reflected light."
   },
   {
    "q": "A diffraction grating",
    "o": [
-    "Absorbs all light",
-    "Splits light into colours",
+    "Focuses light",
     "Polarises sound",
-    "Focuses light"
+    "Absorbs all light",
+    "Splits light into colours"
    ],
-   "a": 1,
+   "a": 3,
    "w": "Many slits diffract colours differently."
   },
   {
    "q": "The Raman effect was discovered in",
    "o": [
-    "1895",
     "1928",
+    "1895",
     "1947",
     "1969"
    ],
-   "a": 1,
+   "a": 0,
    "w": "28 February 1928."
   },
   {
    "q": "Anti-reflection coatings work by",
    "o": [
-    "Absorbing light",
-    "Destructive interference of reflected light",
     "Polarising light",
-    "Bending light"
+    "Bending light",
+    "Absorbing light",
+    "Destructive interference of reflected light"
    ],
-   "a": 1,
+   "a": 3,
    "w": "Thin-film cancellation."
   }
  ],

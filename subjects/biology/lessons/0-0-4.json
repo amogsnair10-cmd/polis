@@ -59,10 +59,10 @@
   {
    "q": "The O2 released in photosynthesis comes from:",
    "o": [
-    "Chlorophyll",
+    "Glucose",
     "Water",
-    "CO2",
-    "Glucose"
+    "Chlorophyll",
+    "CO2"
    ],
    "a": 1,
    "w": "Ruben and Kamen, 1941."
@@ -71,9 +71,9 @@
    "q": "Light reactions occur in:",
    "o": [
     "Thylakoid membranes",
-    "Nucleus",
     "Cytoplasm",
-    "Stroma"
+    "Stroma",
+    "Nucleus"
    ],
    "a": 0,
    "w": "Thylakoids."
@@ -81,9 +81,9 @@
   {
    "q": "RuBisCO's job is to:",
    "o": [
-    "Make ATP",
-    "Fix CO2",
     "Split water",
+    "Fix CO2",
+    "Make ATP",
     "Absorb light"
    ],
    "a": 1,
@@ -92,10 +92,10 @@
   {
    "q": "Which crop is a C4 plant?",
    "o": [
-    "Rice",
     "Potato",
+    "Wheat",
     "Sugarcane",
-    "Wheat"
+    "Rice"
    ],
    "a": 2,
    "w": "Sugarcane."
@@ -114,8 +114,8 @@
   {
    "q": "Calvin won his Nobel in:",
    "o": [
-    "1997",
     "1931",
+    "1997",
     "1961",
     "1907"
    ],
@@ -125,10 +125,10 @@
   {
    "q": "Chlorophyll mainly absorbs:",
    "o": [
-    "Infrared only",
+    "Yellow",
     "Red and blue",
-    "Green",
-    "Yellow"
+    "Infrared only",
+    "Green"
    ],
    "a": 1,
    "w": "Reflects green."
@@ -136,10 +136,10 @@
   {
    "q": "Who showed that plants need light to purify air?",
    "o": [
-    "Blackman",
+    "Calvin",
     "Ingenhousz",
-    "Priestley",
-    "Calvin"
+    "Blackman",
+    "Priestley"
    ],
    "a": 1,
    "w": "Ingenhousz, 1779."
@@ -147,8 +147,8 @@
   {
    "q": "ATP synthase is driven by:",
    "o": [
-    "DNA",
     "Heat",
+    "DNA",
     "A proton gradient",
     "Sugar"
    ],
@@ -158,8 +158,8 @@
   {
    "q": "Blackman's principle says rate is set by:",
    "o": [
-    "Light only",
     "Average of factors",
+    "Light only",
     "CO2 only",
     "The scarcest factor"
    ],

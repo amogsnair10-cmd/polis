@@ -50,99 +50,99 @@
    "q": "Which two African states stayed independent?",
    "o": [
     "Egypt and Kenya",
-    "Nigeria and Ghana",
     "Ethiopia and Liberia",
+    "Nigeria and Ghana",
     "Sudan and Libya"
    ],
-   "a": 2,
+   "a": 1,
    "w": "By 1914."
   },
   {
    "q": "The Berlin Conference was in...",
    "o": [
-    "1884-85",
     "1870",
     "1914",
-    "1900"
+    "1900",
+    "1884-85"
    ],
-   "a": 0,
+   "a": 3,
    "w": "Hosted by Bismarck."
   },
   {
    "q": "It set the rule of...",
    "o": [
-    "Free trade only",
     "Self-rule",
-    "Slave trade",
-    "Effective occupation"
+    "Effective occupation",
+    "Free trade only",
+    "Slave trade"
    ],
-   "a": 3,
+   "a": 1,
    "w": "For claiming land."
   },
   {
    "q": "Congo Free State belonged to...",
    "o": [
-    "Bismarck",
     "Leopold II",
+    "Bismarck",
     "Victoria",
     "Menelik"
    ],
-   "a": 1,
+   "a": 0,
    "w": "1885."
   },
   {
    "q": "Belgium took over the Congo in...",
    "o": [
+    "1914",
     "1908",
     "1885",
-    "1960",
-    "1914"
+    "1960"
    ],
-   "a": 0,
+   "a": 1,
    "w": "After outcry."
   },
   {
    "q": "Adwa was won by...",
    "o": [
-    "Haile Selassie",
     "Cecil Rhodes",
-    "Lord Kitchener",
-    "Menelik II"
+    "Haile Selassie",
+    "Menelik II",
+    "Lord Kitchener"
    ],
-   "a": 3,
+   "a": 2,
    "w": "1 March 1896."
   },
   {
    "q": "Which weapon helped Europeans?",
    "o": [
-    "Atom bomb",
     "Maxim gun",
+    "Atom bomb",
     "Catapult",
     "Longbow"
    ],
-   "a": 1,
+   "a": 0,
    "w": "Rapid-fire."
   },
   {
    "q": "Herero and Nama genocide was by...",
    "o": [
-    "Britain",
-    "France",
     "Germany",
+    "France",
+    "Britain",
     "Italy"
    ],
-   "a": 2,
+   "a": 0,
    "w": "1904-08."
   },
   {
    "q": "The Uganda Railway workforce came from...",
    "o": [
-    "China",
+    "India",
     "Japan",
     "Brazil",
-    "India"
+    "China"
    ],
-   "a": 3,
+   "a": 0,
    "w": "Indentured labourers."
   },
   {
@@ -150,8 +150,8 @@
    "o": [
     "South Africa",
     "India",
-    "England",
-    "Burma"
+    "Burma",
+    "England"
    ],
    "a": 0,
    "w": "1906."

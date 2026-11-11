@@ -54,54 +54,54 @@
   {
    "q": "Oracle bones were used for...",
    "o": [
-    "Cooking",
     "Trade records",
-    "Asking the gods or ancestors questions",
-    "Building"
+    "Cooking",
+    "Building",
+    "Asking the gods or ancestors questions"
    ],
-   "a": 2,
+   "a": 3,
    "w": "Cracks were read as answers."
   },
   {
    "q": "Which dynasty used oracle bones?",
    "o": [
-    "Shang",
     "Han",
     "Tang",
-    "Qin"
+    "Qin",
+    "Shang"
    ],
-   "a": 0,
+   "a": 3,
    "w": "About 1600-1046 BCE."
   },
   {
    "q": "Anyang was...",
    "o": [
+    "A Shang capital",
     "A Zhou temple",
     "A Han port",
-    "An Indian city",
-    "A Shang capital"
+    "An Indian city"
    ],
-   "a": 3,
+   "a": 0,
    "w": "Late Shang capital with royal tombs."
   },
   {
    "q": "Fu Hao was...",
    "o": [
-    "A Zhou king",
     "A queen and military leader",
+    "A Zhou king",
     "A Roman governor",
     "A poet"
    ],
-   "a": 1,
+   "a": 0,
    "w": "Her tomb was found in 1976."
   },
   {
    "q": "Zhou beat the Shang at...",
    "o": [
     "Muye",
+    "Gaugamela",
     "Plassey",
-    "Marathon",
-    "Gaugamela"
+    "Marathon"
    ],
    "a": 0,
    "w": "About 1046 BCE."
@@ -109,23 +109,23 @@
   {
    "q": "The Mandate of Heaven says...",
    "o": [
+    "Bad rulers can lose their right to rule",
     "Kings are gods",
-    "Kings are always right",
     "Women cannot rule",
-    "Bad rulers can lose their right to rule"
+    "Kings are always right"
    ],
-   "a": 3,
+   "a": 0,
    "w": "It was a justification and a warning."
   },
   {
    "q": "Shang bronzes were mainly...",
    "o": [
-    "Printing blocks",
     "Ritual vessels",
+    "Printing blocks",
     "Currency",
     "Ships"
    ],
-   "a": 1,
+   "a": 0,
    "w": "Used in ancestor offerings."
   },
   {
@@ -133,18 +133,18 @@
    "o": [
     "Sanskrit",
     "Cuneiform",
-    "Chinese writing",
-    "Greek"
+    "Greek",
+    "Chinese writing"
    ],
-   "a": 2,
+   "a": 3,
    "w": "Some characters survive today."
   },
   {
    "q": "Which Indian text was likely composed in the same era?",
    "o": [
-    "The Arthashastra",
     "The Ramayana as written",
     "The Gita",
+    "The Arthashastra",
     "The Rigveda"
    ],
    "a": 3,

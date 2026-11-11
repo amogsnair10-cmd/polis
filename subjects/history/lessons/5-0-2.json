@@ -54,31 +54,31 @@
   {
    "q": "Young Italy was founded by",
    "o": [
-    "Cavour",
     "Mazzini",
     "Garibaldi",
+    "Cavour",
     "Victor Emmanuel II"
    ],
-   "a": 1,
+   "a": 0,
    "w": "In 1831."
   },
   {
    "q": "The architect of Italian unification through diplomacy was",
    "o": [
-    "Cavour",
-    "Mazzini",
     "Garibaldi",
+    "Mazzini",
+    "Cavour",
     "Metternich"
    ],
-   "a": 0,
+   "a": 2,
    "w": "Prime minister of Piedmont-Sardinia."
   },
   {
    "q": "Garibaldi’s followers were called",
    "o": [
-    "Carbonari",
     "Blackshirts",
     "Jacobins",
+    "Carbonari",
     "The Red Shirts"
    ],
    "a": 3,
@@ -87,21 +87,21 @@
   {
    "q": "The Kingdom of Italy was proclaimed in",
    "o": [
-    "1848",
+    "1815",
     "1870",
-    "1861",
-    "1815"
+    "1848",
+    "1861"
    ],
-   "a": 2,
+   "a": 3,
    "w": "Victor Emmanuel II became king."
   },
   {
    "q": "Rome joined Italy in",
    "o": [
-    "1861",
+    "1859",
     "1870",
     "1866",
-    "1859"
+    "1861"
    ],
    "a": 1,
    "w": "After the French withdrew."
@@ -109,54 +109,54 @@
   {
    "q": "The Zollverein of 1834 was",
    "o": [
+    "A treaty with France",
     "A Prussian-led customs union",
     "A military pact",
-    "A constitution",
-    "A treaty with France"
+    "A constitution"
    ],
-   "a": 0,
+   "a": 1,
    "w": "It prepared economic unity."
   },
   {
    "q": "Bismarck’s policy is called",
    "o": [
-    "Laissez-faire",
-    "Non-alignment",
     "Appeasement",
-    "Blood and iron"
+    "Non-alignment",
+    "Blood and iron",
+    "Laissez-faire"
    ],
-   "a": 3,
+   "a": 2,
    "w": "Realpolitik."
   },
   {
    "q": "The Franco-Prussian war ended with defeat at",
    "o": [
-    "Waterloo",
     "Sadowa",
     "Sedan",
-    "Leipzig"
+    "Leipzig",
+    "Waterloo"
    ],
-   "a": 2,
+   "a": 1,
    "w": "Napoleon III was captured."
   },
   {
    "q": "The German Empire was proclaimed at",
    "o": [
+    "Frankfurt in 1848",
     "Berlin in 1866",
-    "Versailles in 1871",
     "Vienna in 1815",
-    "Frankfurt in 1848"
+    "Versailles in 1871"
    ],
-   "a": 1,
+   "a": 3,
    "w": "William I became emperor."
   },
   {
    "q": "Prussia defeated Austria in 1866 at",
    "o": [
     "Sadowa (Königgrätz)",
+    "Novara",
     "Sedan",
-    "Solferino",
-    "Novara"
+    "Solferino"
    ],
    "a": 0,
    "w": "Austria’s exclusion from Germany followed."

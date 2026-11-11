@@ -59,10 +59,10 @@
   {
    "q": "A solar eclipse can occur only at:",
    "o": [
-    "Full Moon",
+    "Any phase",
     "New Moon",
     "Quarter Moon",
-    "Any phase"
+    "Full Moon"
    ],
    "a": 1,
    "w": "Moon must be between Earth and Sun."
@@ -70,76 +70,76 @@
   {
    "q": "Why does the eclipsed Moon look red?",
    "o": [
-    "It heats up",
     "Earth's atmosphere bends red light onto it",
     "Mars reflects light",
-    "Dust on the Moon"
+    "Dust on the Moon",
+    "It heats up"
    ],
-   "a": 1,
+   "a": 0,
    "w": "Red light refracts through Earth's air."
   },
   {
    "q": "Why do we not have eclipses every month?",
    "o": [
-    "The Moon's orbit is tilted about 5 degrees",
+    "Clouds block them",
     "The Sun moves",
     "Earth rotates too fast",
-    "Clouds block them"
+    "The Moon's orbit is tilted about 5 degrees"
    ],
-   "a": 0,
+   "a": 3,
    "w": "Alignment must occur near the nodes."
   },
   {
    "q": "Seasons arise mainly because:",
    "o": [
-    "Earth's distance from the Sun changes",
     "Earth's axis is tilted",
-    "The Sun's output varies",
-    "The Moon's pull"
+    "Earth's distance from the Sun changes",
+    "The Moon's pull",
+    "The Sun's output varies"
    ],
-   "a": 1,
+   "a": 0,
    "w": "23.4 degree axial tilt."
   },
   {
    "q": "Earth is nearest the Sun around:",
    "o": [
-    "Early January",
     "Late June",
     "March",
-    "September"
+    "September",
+    "Early January"
    ],
-   "a": 0,
+   "a": 3,
    "w": "Perihelion is early January."
   },
   {
    "q": "The saros cycle is about:",
    "o": [
-    "1 year",
-    "18 years 11 days",
+    "29.5 days",
     "100 years",
-    "29.5 days"
+    "1 year",
+    "18 years 11 days"
    ],
-   "a": 1,
+   "a": 3,
    "w": "Eclipse repeat cycle."
   },
   {
    "q": "Which calendar is purely lunar?",
    "o": [
     "Gregorian",
-    "Islamic",
+    "Saka",
     "Hindu panchang",
-    "Saka"
+    "Islamic"
    ],
-   "a": 1,
+   "a": 3,
    "w": "Islamic calendar is purely lunar."
   },
   {
    "q": "Who chaired the committee that produced India's national calendar in 1957?",
    "o": [
-    "C.V. Raman",
+    "S. Chandrasekhar",
     "Meghnad Saha",
-    "Homi Bhabha",
-    "S. Chandrasekhar"
+    "C.V. Raman",
+    "Homi Bhabha"
    ],
    "a": 1,
    "w": "Saha chaired the Calendar Reform Committee (1952)."
@@ -148,9 +148,9 @@
    "q": "A total solar eclipse is possible because:",
    "o": [
     "Sun and Moon look nearly the same size",
+    "Earth is flat",
     "The Moon is larger than the Sun",
-    "The Sun is very dim",
-    "Earth is flat"
+    "The Sun is very dim"
    ],
    "a": 0,
    "w": "Both are about 0.5 degrees across."
@@ -159,9 +159,9 @@
    "q": "Which scholar explained eclipses as shadows, not Rahu, in India?",
    "o": [
     "Aryabhata",
-    "Kalidasa",
     "Kautilya",
-    "Charaka"
+    "Charaka",
+    "Kalidasa"
    ],
    "a": 0,
    "w": "Aryabhata, 499 CE."

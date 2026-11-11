@@ -49,10 +49,10 @@
   {
    "q": "The Paris Agreement was in...",
    "o": [
+    "2021",
     "1997",
-    "2009",
     "2015",
-    "2021"
+    "2009"
    ],
    "a": 2,
    "w": "Targets 1.5-2 degrees."
@@ -60,89 +60,89 @@
   {
    "q": "Kyoto Protocol was in...",
    "o": [
-    "1997",
     "1988",
+    "2021",
     "2015",
-    "2021"
+    "1997"
    ],
-   "a": 0,
+   "a": 3,
    "w": "Earlier climate treaty."
   },
   {
    "q": "IPCC was created in...",
    "o": [
     "1958",
-    "2015",
     "2020",
-    "1988"
+    "1988",
+    "2015"
    ],
-   "a": 3,
+   "a": 2,
    "w": "For climate assessments."
   },
   {
    "q": "The Keeling Curve measures...",
    "o": [
-    "Sea level",
     "Atmospheric carbon dioxide",
+    "Sea level",
     "Temperature only",
     "Rainfall"
    ],
-   "a": 1,
+   "a": 0,
    "w": "Since 1958."
   },
   {
    "q": "WHO declared COVID a pandemic on...",
    "o": [
-    "11 March 2020",
-    "1 Jan 2020",
     "25 March 2020",
-    "15 Aug 2021"
+    "15 Aug 2021",
+    "11 March 2020",
+    "1 Jan 2020"
    ],
-   "a": 0,
+   "a": 2,
    "w": "Wuhan origin."
   },
   {
    "q": "India's national lockdown began on...",
    "o": [
-    "11 March 2020",
-    "1 April 2021",
     "15 Aug 2020",
-    "25 March 2020"
+    "1 April 2021",
+    "25 March 2020",
+    "11 March 2020"
    ],
-   "a": 3,
+   "a": 2,
    "w": "First phase."
   },
   {
    "q": "India's net-zero pledge date...",
    "o": [
     "2030",
-    "2070",
     "2050",
+    "2070",
     "2100"
    ],
-   "a": 1,
+   "a": 2,
    "w": "At COP26."
   },
   {
    "q": "International Solar Alliance was launched with...",
    "o": [
     "China",
-    "Russia",
     "France",
-    "Brazil"
+    "Brazil",
+    "Russia"
    ],
-   "a": 2,
+   "a": 1,
    "w": "2015."
   },
   {
    "q": "mRNA vaccines were developed in...",
    "o": [
-    "Ten years",
     "A month",
+    "Under a year",
     "Never",
-    "Under a year"
+    "Ten years"
    ],
-   "a": 3,
+   "a": 1,
    "w": "Record speed."
   },
   {
@@ -150,8 +150,8 @@
    "o": [
     "Humans are warming the climate",
     "Warming is natural only",
-    "The Sun alone",
-    "No warming"
+    "No warming",
+    "The Sun alone"
    ],
    "a": 0,
    "w": "Strong agreement."

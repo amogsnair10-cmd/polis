@@ -59,42 +59,42 @@
   {
    "q": "The first Five-Year Plan began in",
    "o": [
-    "1917",
-    "1936",
     "1928",
-    "1945"
+    "1917",
+    "1945",
+    "1936"
    ],
-   "a": 2,
+   "a": 0,
    "w": "Under Stalin."
   },
   {
    "q": "The 1932-33 famine killed in the USSR about",
    "o": [
-    "5.5 to 8.7 million",
     "500,000",
     "50 million",
-    "100,000"
+    "100,000",
+    "5.5 to 8.7 million"
    ],
-   "a": 0,
+   "a": 3,
    "w": "Estimates vary."
   },
   {
    "q": "Dekulakisation targeted",
    "o": [
-    "Factory owners",
-    "Priests only",
     "Soldiers",
-    "Supposedly rich peasants"
+    "Supposedly rich peasants",
+    "Priests only",
+    "Factory owners"
    ],
-   "a": 3,
+   "a": 1,
    "w": "Kulaks."
   },
   {
    "q": "The Holodomor refers to the famine in",
    "o": [
-    "Kazakhstan",
     "Georgia",
     "Poland",
+    "Kazakhstan",
     "Ukraine"
    ],
    "a": 3,
@@ -105,10 +105,10 @@
    "o": [
     "Conquest",
     "Orwell",
-    "Solzhenitsyn",
-    "Nove"
+    "Nove",
+    "Solzhenitsyn"
    ],
-   "a": 2,
+   "a": 3,
    "w": "Published 1973."
   },
   {
@@ -116,8 +116,8 @@
    "o": [
     "Timothy Snyder",
     "R.W. Davies and S. Wheatcroft",
-    "Anne Applebaum",
-    "Robert Conquest"
+    "Robert Conquest",
+    "Anne Applebaum"
    ],
    "a": 1,
    "w": "The Years of Hunger (2004)."
@@ -125,45 +125,45 @@
   {
    "q": "Stakhanovism (1935) praised",
    "o": [
-    "Collective farms",
+    "Foreign experts",
     "Secret police",
-    "Record-breaking workers",
-    "Foreign experts"
+    "Collective farms",
+    "Record-breaking workers"
    ],
-   "a": 2,
+   "a": 3,
    "w": "Alexei Stakhanov, a miner."
   },
   {
    "q": "Collectivisation led peasants to",
    "o": [
-    "Raise output quickly",
-    "Invade cities",
     "Slaughter livestock",
-    "Boycott voting"
+    "Raise output quickly",
+    "Boycott voting",
+    "Invade cities"
    ],
-   "a": 2,
+   "a": 0,
    "w": "Large losses of animals."
   },
   {
    "q": "Amartya Sen's Poverty and Famines was published in",
    "o": [
-    "1943",
-    "1981",
+    "1970",
     "1990",
-    "1970"
+    "1943",
+    "1981"
    ],
-   "a": 1,
+   "a": 3,
    "w": "Argues democracy prevents famines."
   },
   {
    "q": "The Bengal famine of 1943 killed about",
    "o": [
-    "200,000",
+    "500,000",
     "10 million",
-    "2-3 million",
-    "500,000"
+    "200,000",
+    "2-3 million"
    ],
-   "a": 2,
+   "a": 3,
    "w": "Estimates vary."
   }
  ],

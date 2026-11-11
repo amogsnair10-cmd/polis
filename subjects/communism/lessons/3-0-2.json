@@ -54,23 +54,23 @@
   {
    "q": "The Institute for Social Research was founded in",
    "o": [
+    "Frankfurt in the 1920s",
     "Berlin in 1848",
-    "Vienna in 1936",
     "Paris in 1968",
-    "Frankfurt in the 1920s"
+    "Vienna in 1936"
    ],
-   "a": 3,
+   "a": 0,
    "w": "1923-24."
   },
   {
    "q": "Dialectic of Enlightenment was by",
    "o": [
-    "Horkheimer and Adorno",
     "Marcuse and Fromm",
+    "Horkheimer and Adorno",
     "Habermas and Benjamin",
     "Lukács and Gramsci"
    ],
-   "a": 0,
+   "a": 1,
    "w": "Published 1947."
   },
   {
@@ -87,52 +87,52 @@
   {
    "q": "One-Dimensional Man appeared in",
    "o": [
-    "1944",
     "1980",
-    "1920",
-    "1964"
+    "1964",
+    "1944",
+    "1920"
    ],
-   "a": 3,
+   "a": 1,
    "w": "Marcuse."
   },
   {
    "q": "Who linked Marxism and Freud in studies of authoritarianism?",
    "o": [
-    "Fromm",
     "Lenin",
-    "Hayek",
-    "Althusser"
+    "Fromm",
+    "Althusser",
+    "Hayek"
    ],
-   "a": 0,
+   "a": 1,
    "w": "And Adorno."
   },
   {
    "q": "Marcuse looked for revolutionary agents among",
    "o": [
-    "Students, minorities and outsiders",
-    "Industrial workers only",
+    "Bankers",
     "Managers",
-    "Bankers"
+    "Industrial workers only",
+    "Students, minorities and outsiders"
    ],
-   "a": 0,
+   "a": 3,
    "w": "1960s New Left."
   },
   {
    "q": "Habermas wrote about",
    "o": [
-    "The public sphere and communicative action",
-    "The Gulag",
     "Permanent revolution",
-    "Hegemony"
+    "Hegemony",
+    "The Gulag",
+    "The public sphere and communicative action"
    ],
-   "a": 0,
+   "a": 3,
    "w": "Second-generation."
   },
   {
    "q": "Lukács's joke label for the School was",
    "o": [
-    "Ivory Tower",
     "Red Academy",
+    "Ivory Tower",
     "Bourgeois Club",
     "Grand Hotel Abyss"
    ],
@@ -142,21 +142,21 @@
   {
    "q": "The School moved to the US in",
    "o": [
-    "1934",
-    "1917",
     "1950",
+    "1917",
+    "1934",
     "1968"
    ],
-   "a": 0,
+   "a": 2,
    "w": "Columbia University."
   },
   {
    "q": "Chakrabarty's \"Provincializing Europe\" appeared in",
    "o": [
-    "1950",
     "1982",
+    "2020",
     "2000",
-    "2020"
+    "1950"
    ],
    "a": 2,
    "w": "A postcolonial critique."

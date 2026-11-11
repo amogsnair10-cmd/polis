@@ -49,31 +49,31 @@
   {
    "q": "Who greatly improved the steam engine?",
    "o": [
-    "Stephenson",
-    "Arkwright",
     "James Watt",
-    "Newcomen"
+    "Newcomen",
+    "Stephenson",
+    "Arkwright"
    ],
-   "a": 2,
+   "a": 0,
    "w": "From the 1760s-70s."
   },
   {
    "q": "The Liverpool-Manchester line opened in...",
    "o": [
-    "1830",
-    "1760",
     "1853",
-    "1900"
+    "1760",
+    "1900",
+    "1830"
    ],
-   "a": 0,
+   "a": 3,
    "w": "First inter-city railway."
   },
   {
    "q": "The Factory Act of 1833 limited...",
    "o": [
+    "Trade with India",
     "Coal prices",
     "Cotton exports",
-    "Trade with India",
     "Children's working hours"
    ],
    "a": 3,
@@ -83,63 +83,63 @@
    "q": "The Luddites were...",
    "o": [
     "Inventors",
-    "Textile workers protesting for their jobs",
     "Soldiers",
-    "Politicians"
+    "Politicians",
+    "Textile workers protesting for their jobs"
    ],
-   "a": 1,
+   "a": 3,
    "w": "1811-16."
   },
   {
    "q": "'The Great Divergence' author...",
    "o": [
-    "Kenneth Pomeranz",
-    "Eric Williams",
     "Adam Smith",
-    "Karl Marx"
+    "Karl Marx",
+    "Kenneth Pomeranz",
+    "Eric Williams"
    ],
-   "a": 0,
+   "a": 2,
    "w": "2000."
   },
   {
    "q": "A main raw material for cotton mills came from...",
    "o": [
-    "India only",
-    "Japan",
     "Canada",
-    "Slave plantations"
+    "India only",
+    "Slave plantations",
+    "Japan"
    ],
-   "a": 3,
+   "a": 2,
    "w": "Especially the American South."
   },
   {
    "q": "India's first railway ran from...",
    "o": [
-    "Delhi to Agra",
-    "Bombay to Thane",
+    "Madras to Pune",
     "Calcutta to Patna",
-    "Madras to Pune"
+    "Delhi to Agra",
+    "Bombay to Thane"
    ],
-   "a": 1,
+   "a": 3,
    "w": "1853."
   },
   {
    "q": "Naoroji's theory was...",
    "o": [
-    "Free trade",
-    "Swadeshi",
+    "Satyagraha",
     "The drain of wealth",
-    "Satyagraha"
+    "Free trade",
+    "Swadeshi"
    ],
-   "a": 2,
+   "a": 1,
    "w": "Poverty and British Rule in India."
   },
   {
    "q": "Jamsetji Tata started a mill in...",
    "o": [
     "Ahmedabad",
-    "Surat",
     "Kanpur",
+    "Surat",
     "Nagpur"
    ],
    "a": 3,
@@ -148,12 +148,12 @@
   {
    "q": "Which is a debated cause for Britain's lead?",
    "o": [
-    "Coal and empire",
-    "The telescope",
     "The printing press",
+    "The telescope",
+    "Coal and empire",
     "Gunpowder"
    ],
-   "a": 0,
+   "a": 2,
    "w": "Historians weigh many factors."
   }
  ],

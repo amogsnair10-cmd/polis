@@ -60,75 +60,75 @@
    "q": "The Montreal Protocol was adopted in:",
    "o": [
     "1985",
-    "1992",
+    "1987",
     "1997",
-    "1987"
+    "1992"
    ],
-   "a": 3,
+   "a": 1,
    "w": "Vienna Convention was 1985."
   },
   {
    "q": "The Kigali Amendment targets:",
    "o": [
     "CFCs",
-    "Halons",
     "HFCs",
+    "Halons",
     "Methyl bromide"
    ],
-   "a": 2,
+   "a": 1,
    "w": "HFCs are potent greenhouse gases."
   },
   {
    "q": "Who reported the Antarctic ozone hole in 1985?",
    "o": [
-    "Rowland and Molina",
-    "Farman, Gardiner and Shanklin",
     "Crutzen and Fabry",
-    "Dobson and Brewer"
+    "Rowland and Molina",
+    "Dobson and Brewer",
+    "Farman, Gardiner and Shanklin"
    ],
-   "a": 1,
+   "a": 3,
    "w": "British Antarctic Survey scientists."
   },
   {
    "q": "Ozone is measured in:",
    "o": [
-    "Dobson Units",
-    "Decibels",
+    "ppb only",
     "Becquerels",
-    "ppb only"
+    "Decibels",
+    "Dobson Units"
    ],
-   "a": 0,
+   "a": 3,
    "w": "Named after G.M.B. Dobson."
   },
   {
    "q": "The convention on mercury is:",
    "o": [
     "Basel",
-    "Stockholm",
     "Rotterdam",
-    "Minamata"
+    "Minamata",
+    "Stockholm"
    ],
-   "a": 3,
+   "a": 2,
    "w": "Adopted in 2013."
   },
   {
    "q": "Cartagena Protocol concerns:",
    "o": [
     "Ozone",
-    "Wetlands",
     "Biosafety of GMOs",
-    "Hazardous waste"
+    "Hazardous waste",
+    "Wetlands"
    ],
-   "a": 2,
+   "a": 1,
    "w": "Adopted 2000 under the CBD."
   },
   {
    "q": "Nagoya Protocol deals with:",
    "o": [
-    "Trade in wildlife",
+    "Desertification",
     "Access and benefit sharing",
     "Ship pollution",
-    "Desertification"
+    "Trade in wildlife"
    ],
    "a": 1,
    "w": "Adopted in 2010."
@@ -136,30 +136,30 @@
   {
    "q": "Which treaty has universal ratification?",
    "o": [
-    "Montreal Protocol",
-    "Kyoto Protocol",
     "Paris Agreement",
-    "Basel Convention"
+    "Montreal Protocol",
+    "Basel Convention",
+    "Kyoto Protocol"
    ],
-   "a": 0,
+   "a": 1,
    "w": "All UN member states ratified it."
   },
   {
    "q": "India ratified the Kigali Amendment in:",
    "o": [
+    "2021",
     "2016",
-    "2019",
     "2010",
-    "2021"
+    "2019"
    ],
-   "a": 3,
+   "a": 0,
    "w": "Kigali was adopted in 2016."
   },
   {
    "q": "CMS COP13 was hosted by India at:",
    "o": [
-    "Delhi, 2019",
     "Chennai, 2015",
+    "Delhi, 2019",
     "Gandhinagar, 2020",
     "Kochi, 2022"
    ],

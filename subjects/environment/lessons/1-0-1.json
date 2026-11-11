@@ -59,20 +59,20 @@
   {
    "q": "Which Section creates National Parks in the Wildlife Protection Act?",
    "o": [
+    "Section 36A",
     "Section 26A",
     "Section 35",
-    "Section 36A",
     "Section 38V"
    ],
-   "a": 1,
+   "a": 2,
    "w": "26A is for sanctuaries, 36A conservation reserves and 38V tiger reserves."
   },
   {
    "q": "Community reserves are declared on:",
    "o": [
     "Private or community land",
-    "Core forest only",
     "Marine area only",
+    "Core forest only",
     "Cantonment land"
    ],
    "a": 0,
@@ -82,20 +82,20 @@
    "q": "UNESCO’s MAB programme began in:",
    "o": [
     "1992",
-    "1972",
+    "1971",
     "1986",
-    "1971"
+    "1972"
    ],
-   "a": 3,
+   "a": 1,
    "w": "MAB started in 1971."
   },
   {
    "q": "Which zone of a biosphere reserve has the least human use?",
    "o": [
-    "Buffer zone",
     "Transition zone",
+    "Manipulation zone",
     "Core zone",
-    "Manipulation zone"
+    "Buffer zone"
    ],
    "a": 2,
    "w": "The core is strictly protected."
@@ -103,67 +103,67 @@
   {
    "q": "Which of these is a mixed World Heritage Site in India?",
    "o": [
+    "Sundarbans",
     "Kaziranga",
     "Khangchendzonga",
-    "Manas",
-    "Sundarbans"
+    "Manas"
    ],
-   "a": 1,
+   "a": 2,
    "w": "Khangchendzonga is listed for both natural and cultural values."
   },
   {
    "q": "The national seed gene bank is run by:",
    "o": [
-    "NBPGR, Delhi",
-    "NBAGR, Karnal",
+    "Botanical Survey of India",
     "Central Zoo Authority",
-    "Botanical Survey of India"
+    "NBPGR, Delhi",
+    "NBAGR, Karnal"
    ],
-   "a": 0,
+   "a": 2,
    "w": "The National Bureau of Plant Genetic Resources runs it."
   },
   {
    "q": "Which is ex-situ conservation?",
    "o": [
-    "Biosphere reserve",
+    "Seed bank",
     "Sacred grove",
     "National park",
-    "Seed bank"
+    "Biosphere reserve"
    ],
-   "a": 3,
+   "a": 0,
    "w": "Seed banks store seeds outside natural habitat."
   },
   {
    "q": "Central Zoo Authority was set up in:",
    "o": [
     "1972",
-    "2002",
     "1992",
+    "2002",
     "2006"
    ],
-   "a": 2,
+   "a": 1,
    "w": "It was established in 1992 under the Wildlife Act."
   },
   {
    "q": "Tiger reserves are notified under which Section?",
    "o": [
     "35",
-    "38V",
+    "36C",
     "26A",
-    "36C"
+    "38V"
    ],
-   "a": 1,
+   "a": 3,
    "w": "Section 38V, inserted in 2006."
   },
   {
    "q": "Keoladeo National Park is famous for:",
    "o": [
-    "Birds",
     "Rhinos",
+    "Birds",
     "Lions",
     "Elephants"
    ],
-   "a": 0,
+   "a": 1,
    "w": "It is a Ramsar and World Heritage wetland in Bharatpur."
   }
  ],

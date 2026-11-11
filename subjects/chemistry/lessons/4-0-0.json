@@ -59,31 +59,31 @@
   {
    "q": "Gas that makes cakes rise with baking soda:",
    "o": [
-    "CO2",
-    "O2",
     "N2",
-    "H2"
+    "O2",
+    "H2",
+    "CO2"
    ],
-   "a": 0,
+   "a": 3,
    "w": "2NaHCO3 → Na2CO3 + H2O + CO2."
   },
   {
    "q": "Soap is made by:",
    "o": [
-    "Saponification",
+    "Fermentation",
     "Distillation",
     "Polymerisation",
-    "Fermentation"
+    "Saponification"
    ],
-   "a": 0,
+   "a": 3,
    "w": "Fat + NaOH."
   },
   {
    "q": "Micelles form because soap has:",
    "o": [
     "A water-loving head and a grease-loving tail",
-    "Only a head",
     "Only a tail",
+    "Only a head",
     "Two heads"
    ],
    "a": 0,
@@ -92,53 +92,53 @@
   {
    "q": "Who discovered penicillin in 1928?",
    "o": [
-    "Pasteur",
-    "Fleming",
     "Koch",
-    "Hamied"
+    "Pasteur",
+    "Hamied",
+    "Fleming"
    ],
-   "a": 1,
+   "a": 3,
    "w": "Alexander Fleming."
   },
   {
    "q": "Grams of acid in 400 g of 5 percent vinegar?",
    "o": [
-    "20 g",
     "5 g",
     "2 g",
+    "20 g",
     "50 g"
    ],
-   "a": 0,
+   "a": 2,
    "w": "400 x 0.05."
   },
   {
    "q": "Moles in 30 g acetic acid (60 g/mol)?",
    "o": [
+    "30",
     "0.5",
     "2",
-    "0.05",
-    "30"
+    "0.05"
    ],
-   "a": 0,
+   "a": 1,
    "w": "30 / 60."
   },
   {
    "q": "Why avoid mixing bleach with acids?",
    "o": [
-    "It explodes always",
-    "It forms soap",
     "Toxic chlorine gas can form",
-    "It cools"
+    "It forms soap",
+    "It cools",
+    "It explodes always"
    ],
-   "a": 2,
+   "a": 0,
    "w": "Hypochlorite plus acid."
   },
   {
    "q": "Antibiotics work against:",
    "o": [
     "Bacteria",
-    "Viruses",
     "All germs equally",
+    "Viruses",
     "Allergies"
    ],
    "a": 0,
@@ -148,19 +148,19 @@
    "q": "Salting pickles preserves them by:",
    "o": [
     "Adding oxygen",
-    "Drawing water out of microbes",
     "Making sugar",
-    "Heating"
+    "Heating",
+    "Drawing water out of microbes"
    ],
-   "a": 1,
+   "a": 3,
    "w": "Osmosis."
   },
   {
    "q": "Hindustan Antibiotics, Pimpri started penicillin in:",
    "o": [
-    "1904",
-    "1990",
     "1930",
+    "1990",
+    "1904",
     "1954"
    ],
    "a": 3,

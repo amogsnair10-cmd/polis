@@ -59,10 +59,10 @@
   {
    "q": "Momentum is defined as",
    "o": [
-    "Mass x acceleration",
+    "Half mass x speed squared",
     "Mass x velocity",
-    "Force x distance",
-    "Half mass x speed squared"
+    "Mass x acceleration",
+    "Force x distance"
    ],
    "a": 1,
    "w": "p = mv."
@@ -70,20 +70,20 @@
   {
    "q": "A 2 kg object moves at 6 m/s. Its momentum is",
    "o": [
-    "3 kg m/s",
-    "8 kg m/s",
     "12 kg m/s",
-    "24 kg m/s"
+    "8 kg m/s",
+    "24 kg m/s",
+    "3 kg m/s"
    ],
-   "a": 2,
+   "a": 0,
    "w": "2 x 6 = 12."
   },
   {
    "q": "Airbags reduce injury mainly by",
    "o": [
-    "Lowering momentum change",
-    "Increasing the stopping time",
     "Adding mass",
+    "Increasing the stopping time",
+    "Lowering momentum change",
     "Increasing speed"
    ],
    "a": 1,
@@ -92,10 +92,10 @@
   {
    "q": "In an isolated collision, which is always conserved?",
    "o": [
-    "Kinetic energy",
     "Speed",
+    "Heat",
     "Momentum",
-    "Heat"
+    "Kinetic energy"
    ],
    "a": 2,
    "w": "Momentum, if no outside force."
@@ -103,32 +103,32 @@
   {
    "q": "A 3 kg cart at 4 m/s hits a 1 kg cart at rest and they stick. Common speed?",
    "o": [
-    "4 m/s",
     "3 m/s",
+    "4 m/s",
     "2 m/s",
     "1 m/s"
    ],
-   "a": 1,
+   "a": 0,
    "w": "12 = 4 v, v = 3."
   },
   {
    "q": "A force of 50 N acts for 0.2 s. The impulse is",
    "o": [
+    "0.004 N s",
     "250 N s",
     "10 N s",
-    "0.004 N s",
     "50.2 N s"
    ],
-   "a": 1,
+   "a": 2,
    "w": "Ft = 10."
   },
   {
    "q": "A collision in which bodies stick together is",
    "o": [
-    "Elastic",
+    "Impossible",
     "Perfectly inelastic",
-    "Explosive",
-    "Impossible"
+    "Elastic",
+    "Explosive"
    ],
    "a": 1,
    "w": "They lose the most KE while keeping momentum."
@@ -136,10 +136,10 @@
   {
    "q": "A gun recoils backwards because",
    "o": [
-    "Air pushes it",
+    "Energy is conserved only",
     "Momentum is conserved",
-    "Friction acts",
-    "Energy is conserved only"
+    "Air pushes it",
+    "Friction acts"
    ],
    "a": 1,
    "w": "Bullet gets forward momentum, gun gets equal backward."
@@ -147,8 +147,8 @@
   {
    "q": "When a small car and a truck collide head-on, the forces on them are",
    "o": [
-    "Larger on the truck",
     "Larger on the car",
+    "Larger on the truck",
     "Equal in size",
     "Zero"
    ],
@@ -158,12 +158,12 @@
   {
    "q": "Why does a cricketer draw hands back on catching a fast ball?",
    "o": [
-    "To reduce mass",
-    "To lengthen contact time and reduce force",
     "To increase speed",
-    "To increase momentum"
+    "To reduce mass",
+    "To increase momentum",
+    "To lengthen contact time and reduce force"
    ],
-   "a": 1,
+   "a": 3,
    "w": "Same impulse, longer time, smaller force."
   }
  ],

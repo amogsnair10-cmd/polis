@@ -54,8 +54,8 @@
   {
    "q": "How old is the universe, roughly?",
    "o": [
-    "4.5 billion years",
     "1 billion years",
+    "4.5 billion years",
     "13.8 billion years",
     "100 billion years"
    ],
@@ -65,12 +65,12 @@
   {
    "q": "The Big Bang was best described as...",
    "o": [
-    "The expansion of space itself",
-    "A bomb in empty space",
+    "A black hole bursting",
     "A star exploding",
-    "A black hole bursting"
+    "A bomb in empty space",
+    "The expansion of space itself"
    ],
-   "a": 0,
+   "a": 3,
    "w": "Space itself expanded; there was no outside to explode into."
   },
   {
@@ -88,20 +88,20 @@
    "q": "How old is Earth?",
    "o": [
     "About 13.8 billion years",
-    "About 4.5 billion years",
     "About 500 million years",
+    "About 4.5 billion years",
     "About 10,000 years"
    ],
-   "a": 1,
+   "a": 2,
    "w": "Earth formed around 4.5 billion years ago."
   },
   {
    "q": "What is the leading explanation for the Moon's origin?",
    "o": [
     "A giant impact with a Mars-sized body",
-    "Earth spun it off like a drop",
     "It was captured from Jupiter",
-    "It formed from a volcano"
+    "It formed from a volcano",
+    "Earth spun it off like a drop"
    ],
    "a": 0,
    "w": "The giant-impact idea is best supported."
@@ -110,31 +110,31 @@
    "q": "Which microbes pumped oxygen into the air?",
    "o": [
     "Dinosaurs",
+    "Cyanobacteria",
     "Fungi",
-    "Viruses",
-    "Cyanobacteria"
+    "Viruses"
    ],
-   "a": 3,
+   "a": 1,
    "w": "They did photosynthesis and gave off oxygen."
   },
   {
    "q": "The Cambrian explosion was about...",
    "o": [
-    "66 million years ago",
-    "540 million years ago",
+    "300,000 years ago",
     "2.4 billion years ago",
-    "300,000 years ago"
+    "66 million years ago",
+    "540 million years ago"
    ],
-   "a": 1,
+   "a": 3,
    "w": "Complex animals diversified then."
   },
   {
    "q": "What ended the non-bird dinosaurs 66 million years ago?",
    "o": [
-    "An ice age caused by humans",
+    "Disease from Africa",
     "A flood",
     "An asteroid impact",
-    "Disease from Africa"
+    "An ice age caused by humans"
    ],
    "a": 2,
    "w": "The Chicxulub impact near today's Mexico."
@@ -142,20 +142,20 @@
   {
    "q": "The Himalayas rose because...",
    "o": [
+    "The Indian plate hit Asia",
     "A giant volcano erupted",
     "The Moon pulled the land",
-    "Gondwana exploded",
-    "The Indian plate hit Asia"
+    "Gondwana exploded"
    ],
-   "a": 3,
+   "a": 0,
    "w": "The collision began about 50 million years ago."
   },
   {
    "q": "Which Rigveda hymn wonders who truly knows how creation began?",
    "o": [
     "Nasadiya Sukta",
-    "Purusha Sukta",
     "Gayatri Mantra",
+    "Purusha Sukta",
     "Shanti Path"
    ],
    "a": 0,

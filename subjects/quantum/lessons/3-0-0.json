@@ -1,0 +1,184 @@
+{
+ "id": "3-0-0",
+ "title": "Quantum Field Theory in Plain Words",
+ "emoji": "🌌",
+ "cards": [
+  {
+   "tag": "Why this matters",
+   "h": "What the particles really are",
+   "b": "<p>Quantum mechanics treats particles as given. But particles can be created and destroyed: a photon is born when an atom drops a level, an electron and its antiparticle appear from energy. A theory that tracks a fixed number of particles cannot handle that. <b>Quantum field theory (QFT)</b> fixes this by saying: fields are the real thing, and particles are ripples in them.</p>"
+  },
+  {
+   "tag": "The idea",
+   "h": "A field for each kind of particle",
+   "b": "<p>A field is a quantity with a value at every point of space, like temperature in a room. QFT says there is an electron field everywhere, a photon (electromagnetic) field everywhere, a quark field and so on. A particle is the smallest possible ripple of its field.</p><svg class=\"d\" viewBox=\"0 0 320 150\"><defs><marker id=\"m300\" viewBox=\"0 0 10 10\" refX=\"9\" refY=\"5\" markerWidth=\"6\" markerHeight=\"6\" orient=\"auto\"><path d=\"M0,0L10,5L0,10z\" fill=\"#5d6474\"/></marker></defs><path d=\"M10,60 C40,40 50,80 80,60 C110,40 120,80 150,60 C180,40 190,80 220,60 C250,40 260,80 310,60\" fill=\"none\" stroke=\"#2f6f7a\" stroke-width=\"2\"/><path d=\"M10,110 C40,100 50,120 80,110 C110,100 120,120 150,110 C180,100 190,120 220,110 C250,100 260,120 310,110\" fill=\"none\" stroke=\"#5d6474\" stroke-width=\"1\"/><circle cx=\"150\" cy=\"60\" r=\"9\" fill=\"#a8792a\"/><text x=\"150\" y=\"22\" font-size=\"10\" fill=\"#a8792a\" text-anchor=\"middle\">a bump = one particle</text><text x=\"80\" y=\"92\" font-size=\"10\" fill=\"#2f6f7a\" text-anchor=\"middle\">electron field: fills all space</text></svg><p>All electrons are identical because they are ripples in the same field. That finally explains why identical particles have no individual identity.</p>"
+  },
+  {
+   "tag": "Analogy",
+   "h": "Waves on the sea",
+   "b": "<p>Think of the sea: one surface, many waves. A wave can be made or vanish, but the water remains. Fields are the sea; particles are the waves.</p><p><b>Where it breaks:</b> the sea is made of water molecules. The fields are not made of anything, and their ripples come in whole counts: one electron, two electrons, never one and a half.</p>"
+  },
+  {
+   "tag": "Antimatter",
+   "h": "Dirac and the positron",
+   "b": "<p>Paul Dirac's 1928 equation joined quantum mechanics with special relativity, and demanded a partner for the electron with the same mass but opposite charge. Carl Anderson found this positron in cosmic-ray tracks in 1932. Every particle has an antiparticle (some, like the photon, are their own). Matter and antimatter can annihilate to energy, and energy can make pairs. This is how PET scans work.</p>"
+  },
+  {
+   "tag": "QED",
+   "h": "The best-tested theory",
+   "b": "<p>Quantum electrodynamics, the QFT of light and charge, was completed in the late 1940s by Richard Feynman, Julian Schwinger and Sin-Itiro Tomonaga (Nobel 1965). Its predictions include the Lamb shift (1947) and the electron's magnetism (g-2), which agree with experiment to about ten or more decimal places, one of the most accurate matches in science.</p>"
+  },
+  {
+   "tag": "Standard Model",
+   "h": "The full catalogue",
+   "b": "<p>The Standard Model is QFT with 17 particle types: matter fermions (quarks, electrons and their relatives, neutrinos), force-carrying bosons (photon, gluon, W and Z) and the Higgs boson. The Higgs field gives mass to particles; the boson was found at CERN's LHC in 2012. The model leaves out gravity, dark matter and dark energy, and cannot explain why neutrinos have mass.</p>"
+  },
+  {
+   "tag": "Vacuum",
+   "h": "Empty space is not empty",
+   "b": "<p>Even with no particles, fields have a lowest-energy state with constant fluctuations. The Casimir effect (predicted 1948) is a tiny force between two metal plates caused by this, measured in 1997 by Steve Lamoreaux. But adding up the vacuum energy predicts a cosmological constant about 10¹²⁰ times larger than what astronomers see: one of the worst mismatches in physics, still unsolved.</p>"
+  },
+  {
+   "tag": "How we know",
+   "h": "Experiments",
+   "b": "<ul><li>Positron, 1932; the muon, pions and many particles in accelerators.</li><li>Electron g-2 matched to about 12 digits.</li><li>W and Z bosons at CERN (1983).</li><li>Higgs boson (ATLAS and CMS, 2012).</li><li>The muon g-2 experiment at Fermilab: its final 2025 result agrees closely with the Standard Model prediction when updated calculations are used; as of 2025 the earlier tension has largely faded.</li></ul>"
+  },
+  {
+   "tag": "Misconceptions",
+   "h": "Myths to drop",
+   "b": "<ul><li><b>\"Virtual particles are tiny balls popping in and out.\"</b> They are a bookkeeping device in calculations, not things you could catch.</li><li><b>\"The vacuum has endless usable energy.\"</b> You cannot extract it.</li><li><b>\"Fields are made of aether.\"</b> They are not a medium; they are the basic stuff.</li></ul>"
+  },
+  {
+   "tag": "Indian angle",
+   "h": "Bhabha and CERN",
+   "b": "<p>Homi J. Bhabha calculated how electrons and positrons scatter from each other in 1935; it is still called <b>Bhabha scattering</b>, and it is used to measure collider brightness. With Walter Heitler he explained cosmic-ray showers (1937). S.N. Bose's photon counting is the root of boson statistics. India became an associate member of CERN in January 2017, and Indian groups take part in the CMS and ALICE experiments.</p>"
+  },
+  {
+   "tag": "Recap",
+   "h": "Key takeaways and think-about-it",
+   "b": "<ul><li>QFT: fields are basic; particles are quantised ripples.</li><li>Dirac (1928) predicted antimatter; QED matches experiment to many digits.</li><li>Standard Model: 17 particles including Higgs (2012). It omits gravity.</li></ul><div class=\"box\"><h4>Think about it</h4><ol><li>Why does QFT explain that all electrons are identical?</li><li>Why is the vacuum energy mismatch such a puzzle?</li></ol></div>",
+   "cls": "exam"
+  }
+ ],
+ "quiz": [
+  {
+   "q": "In quantum field theory, a particle is:",
+   "o": [
+    "A tiny marble",
+    "A force",
+    "A kind of atom",
+    "A ripple of an underlying field"
+   ],
+   "a": 3,
+   "w": "Fields are fundamental."
+  },
+  {
+   "q": "Why are all electrons identical?",
+   "o": [
+    "They are made together",
+    "They are tiny",
+    "They have same colour",
+    "They are excitations of the same field"
+   ],
+   "a": 3,
+   "w": "One electron field."
+  },
+  {
+   "q": "Who predicted the positron?",
+   "o": [
+    "Born",
+    "Paul Dirac",
+    "Fermi",
+    "Pauli"
+   ],
+   "a": 1,
+   "w": "From his 1928 equation."
+  },
+  {
+   "q": "The positron was discovered in:",
+   "o": [
+    "2012",
+    "1932",
+    "1905",
+    "1964"
+   ],
+   "a": 1,
+   "w": "Carl Anderson, cosmic rays."
+  },
+  {
+   "q": "The Higgs boson was found at:",
+   "o": [
+    "LIGO in 2015",
+    "Dhaka in 1924",
+    "Fermilab in 1995",
+    "CERN's LHC in 2012"
+   ],
+   "a": 3,
+   "w": "By ATLAS and CMS."
+  },
+  {
+   "q": "QED stands for:",
+   "o": [
+    "Quantum electrodynamics",
+    "Quick electron data",
+    "Quantum energy dynamics",
+    "Quasi-electric decay"
+   ],
+   "a": 0,
+   "w": "The QFT of light and charge."
+  },
+  {
+   "q": "Which does the Standard Model leave out?",
+   "o": [
+    "Quarks",
+    "Electrons",
+    "Gravity",
+    "Photons"
+   ],
+   "a": 2,
+   "w": "It does not include gravity."
+  },
+  {
+   "q": "Bhabha scattering concerns:",
+   "o": [
+    "Electron-positron scattering",
+    "Gravity waves",
+    "Alpha decay",
+    "Black holes"
+   ],
+   "a": 0,
+   "w": "Homi Bhabha, 1935."
+  },
+  {
+   "q": "The Casimir effect arises from:",
+   "o": [
+    "Gravity",
+    "Vacuum fluctuations of fields",
+    "Sound",
+    "Magnetism only"
+   ],
+   "a": 1,
+   "w": "Measured by Lamoreaux in 1997."
+  },
+  {
+   "q": "India joined CERN as an associate member in:",
+   "o": [
+    "1954",
+    "2017",
+    "1990",
+    "2022"
+   ],
+   "a": 1,
+   "w": "Indian groups work in CMS and ALICE."
+  }
+ ],
+ "sources": [
+  "Dirac 1928",
+  "Anderson 1932",
+  "Feynman, Schwinger and Tomonaga 1940s",
+  "ATLAS and CMS 2012",
+  "Bhabha 1935",
+  "Muon g-2 collaboration 2025"
+ ],
+ "verified": "2026-11-11"
+}

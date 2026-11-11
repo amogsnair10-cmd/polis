@@ -54,9 +54,9 @@
   {
    "q": "Lenin wrote Imperialism in",
    "o": [
-    "1902",
     "1917",
     "1921",
+    "1902",
     "1916"
    ],
    "a": 3,
@@ -66,42 +66,42 @@
    "q": "Which was NOT one of Lenin's features?",
    "o": [
     "Monopolies",
-    "Export of capital",
     "Free trade among equals",
-    "Finance capital"
+    "Finance capital",
+    "Export of capital"
    ],
-   "a": 2,
+   "a": 1,
    "w": "He argued the reverse of free competition."
   },
   {
    "q": "Lenin drew on Hobson and",
    "o": [
     "Keynes",
+    "Bernstein",
     "Hayek",
-    "Hilferding",
-    "Bernstein"
+    "Hilferding"
    ],
-   "a": 2,
+   "a": 3,
    "w": "Finance Capital, 1910."
   },
   {
    "q": "The labour aristocracy explains",
    "o": [
+    "Famine",
     "Peasant revolts",
     "Reformism among workers",
-    "Famine",
     "Market crashes"
    ],
-   "a": 1,
+   "a": 2,
    "w": "Super-profits."
   },
   {
    "q": "Kautsky's alternative idea was",
    "o": [
-    "Permanent revolution",
     "Mutual aid",
+    "Hegemony",
     "Ultra-imperialism",
-    "Hegemony"
+    "Permanent revolution"
    ],
    "a": 2,
    "w": "Peaceful cartel of powers."
@@ -109,56 +109,56 @@
   {
    "q": "Schumpeter argued imperialism was",
    "o": [
-    "Capitalism's highest stage",
     "Non-existent",
+    "A relic of pre-capitalist militarism",
     "A socialist goal",
-    "A relic of pre-capitalist militarism"
+    "Capitalism's highest stage"
    ],
-   "a": 3,
+   "a": 1,
    "w": "1919 essay."
   },
   {
    "q": "The Baku Congress was held in",
    "o": [
-    "1905",
-    "1936",
     "1920",
-    "1950"
+    "1950",
+    "1905",
+    "1936"
    ],
-   "a": 2,
+   "a": 0,
    "w": "Peoples of the East."
   },
   {
    "q": "Which Indian wrote the 1901 drain analysis Lenin's theory resembles?",
    "o": [
-    "Aurobindo",
-    "Savarkar",
     "Dadabhai Naoroji",
+    "Savarkar",
+    "Aurobindo",
     "Patel"
    ],
-   "a": 2,
+   "a": 0,
    "w": "Poverty and Un-British Rule."
   },
   {
    "q": "The Soviet invasion of Hungary occurred in",
    "o": [
-    "1968",
-    "1979",
+    "1956",
     "1989",
-    "1956"
+    "1968",
+    "1979"
    ],
-   "a": 3,
+   "a": 0,
    "w": "Crushing the uprising."
   },
   {
    "q": "Robinson and Gallagher's 1953 essay was titled",
    "o": [
-    "The Imperialism of Free Trade",
     "Imperialism Reconsidered",
+    "The Imperialism of Free Trade",
     "Empire",
     "The Scramble"
    ],
-   "a": 0,
+   "a": 1,
    "w": "Economic History Review."
   }
  ],

@@ -59,10 +59,10 @@
   {
    "q": "Newton's first law is also called the law of",
    "o": [
-    "Gravity",
+    "Energy",
     "Inertia",
     "Action",
-    "Energy"
+    "Gravity"
    ],
    "a": 1,
    "w": "It describes the tendency to keep one's state of motion."
@@ -70,56 +70,56 @@
   {
    "q": "A 5 kg mass has a net force of 20 N. Its acceleration is",
    "o": [
-    "100 m/s squared",
-    "0.25 m/s squared",
     "4 m/s squared",
-    "15 m/s squared"
+    "0.25 m/s squared",
+    "15 m/s squared",
+    "100 m/s squared"
    ],
-   "a": 2,
+   "a": 0,
    "w": "a = 20/5."
   },
   {
    "q": "One newton is the force giving 1 kg an acceleration of",
    "o": [
-    "1 m/s squared",
+    "1 m/s",
     "9.8 m/s squared",
     "10 m/s squared",
-    "1 m/s"
+    "1 m/s squared"
    ],
-   "a": 0,
+   "a": 3,
    "w": "By definition F = ma."
   },
   {
    "q": "A book rests on a table. The reaction to the book's weight is",
    "o": [
-    "The table's normal force",
     "The book's pull on Earth",
-    "Friction",
-    "Air pressure"
+    "The table's normal force",
+    "Air pressure",
+    "Friction"
    ],
-   "a": 1,
+   "a": 0,
    "w": "Third law pairs act on different bodies: Earth pulls book, book pulls Earth."
   },
   {
    "q": "A rocket works in space because",
    "o": [
     "It pushes on the air",
-    "It pushes gas backwards and the gas pushes it forward",
     "Gravity pulls it",
-    "The Sun pushes it"
+    "The Sun pushes it",
+    "It pushes gas backwards and the gas pushes it forward"
    ],
-   "a": 1,
+   "a": 3,
    "w": "Third law, no air needed."
   },
   {
    "q": "A box is pushed by 30 N against 10 N friction; mass 4 kg. Acceleration?",
    "o": [
-    "10 m/s squared",
+    "2.5 m/s squared",
     "7.5 m/s squared",
-    "5 m/s squared",
-    "2.5 m/s squared"
+    "10 m/s squared",
+    "5 m/s squared"
    ],
-   "a": 2,
+   "a": 3,
    "w": "Net 20 N / 4 kg = 5."
   },
   {
@@ -136,21 +136,21 @@
   {
    "q": "Friction force = mu x N. If N = 200 N and mu = 0.3, friction is",
    "o": [
-    "600 N",
     "60 N",
-    "66 N",
-    "0.0015 N"
+    "600 N",
+    "0.0015 N",
+    "66 N"
    ],
-   "a": 1,
+   "a": 0,
    "w": "0.3 x 200 = 60."
   },
   {
    "q": "When a bus brakes suddenly, passengers lurch forward because of",
    "o": [
+    "The third law",
     "A forward force",
-    "Gravity",
     "Inertia",
-    "The third law"
+    "Gravity"
    ],
    "a": 2,
    "w": "Their bodies tend to keep moving."
@@ -158,10 +158,10 @@
   {
    "q": "Net force on an object moving at steady 10 m/s in a straight line is",
    "o": [
-    "10 N",
+    "Cannot say",
     "Zero",
-    "Equal to its weight",
-    "Cannot say"
+    "10 N",
+    "Equal to its weight"
    ],
    "a": 1,
    "w": "Steady velocity means zero net force."

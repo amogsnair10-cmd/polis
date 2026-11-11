@@ -54,53 +54,53 @@
   {
    "q": "Rome's Republic began about...",
    "o": [
-    "753 BCE",
     "44 BCE",
-    "509 BCE",
-    "27 BCE"
+    "753 BCE",
+    "27 BCE",
+    "509 BCE"
    ],
-   "a": 2,
+   "a": 3,
    "w": "After the last king was expelled."
   },
   {
    "q": "Consuls served for...",
    "o": [
-    "One year",
     "Life",
     "Ten years",
-    "One month"
+    "One month",
+    "One year"
    ],
-   "a": 0,
+   "a": 3,
    "w": "There were two at a time."
   },
   {
    "q": "The Punic Wars were against...",
    "o": [
-    "Persia",
     "Greece",
-    "Egypt",
-    "Carthage"
+    "Persia",
+    "Carthage",
+    "Egypt"
    ],
-   "a": 3,
+   "a": 2,
    "w": "264-146 BCE."
   },
   {
    "q": "Caesar crossed...",
    "o": [
+    "The Tigris",
     "The Alps",
-    "The Rubicon",
     "The Nile",
-    "The Tigris"
+    "The Rubicon"
    ],
-   "a": 1,
+   "a": 3,
    "w": "In 49 BCE."
   },
   {
    "q": "Caesar was killed on...",
    "o": [
     "The Ides of March, 44 BCE",
-    "1 January 49 BCE",
     "25 December",
+    "1 January 49 BCE",
     "15 June 27 BCE"
    ],
    "a": 0,
@@ -110,20 +110,20 @@
    "q": "'Et tu, Brute?' comes from...",
    "o": [
     "Caesar's diary",
-    "Cicero",
     "Augustus",
-    "Shakespeare"
+    "Shakespeare",
+    "Cicero"
    ],
-   "a": 3,
+   "a": 2,
    "w": "Julius Caesar, c. 1599."
   },
   {
    "q": "Octavian beat Antony at...",
    "o": [
-    "Cannae",
-    "Actium",
     "Zama",
-    "Marathon"
+    "Actium",
+    "Marathon",
+    "Cannae"
    ],
    "a": 1,
    "w": "31 BCE."
@@ -131,20 +131,20 @@
   {
    "q": "The first emperor took the name...",
    "o": [
-    "Caesar Rex",
-    "Alexander",
+    "Trajan",
     "Augustus",
-    "Trajan"
+    "Caesar Rex",
+    "Alexander"
    ],
-   "a": 2,
+   "a": 1,
    "w": "In 27 BCE."
   },
   {
    "q": "Arikamedu is near...",
    "o": [
     "Mumbai",
-    "Kolkata",
     "Delhi",
+    "Kolkata",
     "Puducherry"
    ],
    "a": 3,
@@ -154,9 +154,9 @@
    "q": "Pliny complained about...",
    "o": [
     "Gold flowing to India and the east",
-    "Persian taxes",
+    "Viking raids",
     "Greek poets",
-    "Viking raids"
+    "Persian taxes"
    ],
    "a": 0,
    "w": "Roman luxury imports."

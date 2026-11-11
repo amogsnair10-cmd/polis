@@ -59,12 +59,12 @@
   {
    "q": "India's longest international border is with",
    "o": [
-    "China",
-    "Pakistan",
     "Bangladesh",
+    "Pakistan",
+    "China",
     "Nepal"
    ],
-   "a": 2,
+   "a": 0,
    "w": "About 4,097 km."
   },
   {
@@ -81,23 +81,23 @@
   {
    "q": "Which state is the easternmost in India?",
    "o": [
-    "Assam",
+    "Arunachal Pradesh",
     "Nagaland",
-    "Manipur",
-    "Arunachal Pradesh"
+    "Assam",
+    "Manipur"
    ],
-   "a": 3,
+   "a": 0,
    "w": "Kibithu is the easternmost village."
   },
   {
    "q": "Guhar Moti is in",
    "o": [
+    "Odisha",
     "Rajasthan",
     "Gujarat",
-    "Maharashtra",
-    "Odisha"
+    "Maharashtra"
    ],
-   "a": 1,
+   "a": 2,
    "w": "Western-most point of India."
   },
   {
@@ -114,56 +114,56 @@
   {
    "q": "Which Indian state does NOT border Bangladesh?",
    "o": [
-    "Mizoram",
     "Tripura",
+    "Manipur",
     "Meghalaya",
-    "Manipur"
+    "Mizoram"
    ],
-   "a": 3,
+   "a": 1,
    "w": "Manipur borders Myanmar."
   },
   {
    "q": "The South China Sea tribunal ruling came in",
    "o": [
-    "2016",
-    "2008",
     "2013",
-    "2020"
+    "2008",
+    "2020",
+    "2016"
    ],
-   "a": 0,
+   "a": 3,
    "w": "It rejected the nine-dash line."
   },
   {
    "q": "Hormuz connects the Persian Gulf to the",
    "o": [
-    "Red Sea",
     "Black Sea",
     "Gulf of Oman and Arabian Sea",
+    "Red Sea",
     "Mediterranean"
    ],
-   "a": 2,
+   "a": 1,
    "w": "A key oil route."
   },
   {
    "q": "The Bosphorus links the",
    "o": [
-    "Red and Mediterranean",
-    "Caspian and Black",
+    "Black Sea and Sea of Marmara",
     "Baltic and North",
-    "Black Sea and Sea of Marmara"
+    "Red and Mediterranean",
+    "Caspian and Black"
    ],
-   "a": 3,
+   "a": 0,
    "w": "Controlled by Turkey."
   },
   {
    "q": "India's total land border is about",
    "o": [
+    "9,000 km",
     "15,107 km",
     "7,516 km",
-    "22,000 km",
-    "9,000 km"
+    "22,000 km"
    ],
-   "a": 0,
+   "a": 1,
    "w": "The 7,516 km figure is the older coastline."
   }
  ],

@@ -55,30 +55,30 @@
    "q": "The Second International was founded in",
    "o": [
     "1864",
+    "1848",
     "1919",
-    "1889",
-    "1848"
+    "1889"
    ],
-   "a": 2,
+   "a": 3,
    "w": "Paris."
   },
   {
    "q": "Bernstein's revisionist book appeared in",
    "o": [
-    "1891",
-    "1914",
     "1871",
-    "1899"
+    "1899",
+    "1891",
+    "1914"
    ],
-   "a": 3,
+   "a": 1,
    "w": "Evolutionary Socialism."
   },
   {
    "q": "Kautsky edited the journal",
    "o": [
-    "Iskra",
-    "Die Neue Zeit",
     "Pravda",
+    "Die Neue Zeit",
+    "Iskra",
     "Vorwärts"
    ],
    "a": 1,
@@ -87,45 +87,45 @@
   {
    "q": "The SPD condemned revisionism at",
    "o": [
-    "Dresden, 1903",
-    "Erfurt, 1891",
     "Gotha, 1875",
-    "Stuttgart, 1907"
+    "Dresden, 1903",
+    "Stuttgart, 1907",
+    "Erfurt, 1891"
    ],
-   "a": 0,
+   "a": 1,
    "w": "Congress of 1903."
   },
   {
    "q": "On 4 August 1914 the SPD",
    "o": [
+    "Dissolved",
     "Voted for war credits",
     "Voted against war",
-    "Called a general strike",
-    "Dissolved"
+    "Called a general strike"
    ],
-   "a": 0,
+   "a": 1,
    "w": "Burgfrieden."
   },
   {
    "q": "Luxemburg and Liebknecht were killed in",
    "o": [
-    "January 1919",
-    "October 1917",
+    "1933",
     "March 1871",
-    "1933"
+    "October 1917",
+    "January 1919"
    ],
-   "a": 0,
+   "a": 3,
    "w": "After the Spartacist uprising."
   },
   {
    "q": "\"The final goal is nothing, the movement is everything\" is associated with",
    "o": [
-    "Bernstein",
-    "Kautsky",
     "Lenin",
-    "Engels"
+    "Engels",
+    "Kautsky",
+    "Bernstein"
    ],
-   "a": 0,
+   "a": 3,
    "w": "Often quoted from the 1890s."
   },
   {
@@ -133,32 +133,32 @@
    "o": [
     "1920",
     "1947",
-    "1934",
-    "1964"
+    "1964",
+    "1934"
    ],
-   "a": 2,
+   "a": 3,
    "w": "Within the Congress, by JP, Narendra Dev, Lohia and others."
   },
   {
    "q": "Nehru's \"socialistic pattern of society\" is linked with the",
    "o": [
-    "Lahore Congress, 1929",
     "Karachi Congress 1931",
-    "Avadi Congress, 1955",
-    "Tripuri 1939"
+    "Lahore Congress, 1929",
+    "Tripuri 1939",
+    "Avadi Congress, 1955"
    ],
-   "a": 2,
+   "a": 3,
    "w": "Resolution at Avadi."
   },
   {
    "q": "Social democrats cite which evidence for Bernstein?",
    "o": [
+    "The Gulag",
     "Soviet planning",
     "Postwar welfare states",
-    "The Commune",
-    "The Gulag"
+    "The Commune"
    ],
-   "a": 1,
+   "a": 2,
    "w": "Sweden, Germany, Britain."
   }
  ],

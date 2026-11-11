@@ -54,54 +54,54 @@
   {
    "q": "The Maya used...",
    "o": [
-    "Iron plows",
     "Wheeled carts",
-    "Zero and a glyph script",
-    "Paper money"
+    "Paper money",
+    "Iron plows",
+    "Zero and a glyph script"
    ],
-   "a": 2,
+   "a": 3,
    "w": "A sophisticated number system."
   },
   {
    "q": "Tenochtitlan was founded in...",
    "o": [
-    "1325",
-    "1519",
     "1532",
+    "1519",
+    "1325",
     "250 CE"
    ],
-   "a": 0,
+   "a": 2,
    "w": "On Lake Texcoco."
   },
   {
    "q": "Chinampas were...",
    "o": [
-    "Pyramids",
-    "Weapons",
     "Roads",
-    "Raised farming plots in the lake"
+    "Raised farming plots in the lake",
+    "Weapons",
+    "Pyramids"
    ],
-   "a": 3,
+   "a": 1,
    "w": "Floating-garden style."
   },
   {
    "q": "The Inca empire's name Tawantinsuyu means...",
    "o": [
-    "Land of Gold",
-    "Four parts together",
     "Children of the Sun",
-    "Mountain Road"
+    "Land of Gold",
+    "Mountain Road",
+    "Four parts together"
    ],
-   "a": 1,
+   "a": 3,
    "w": "Four regions."
   },
   {
    "q": "Quipu were...",
    "o": [
     "Knotted-string records",
-    "Paper books",
+    "Ships",
     "Coins",
-    "Ships"
+    "Paper books"
    ],
    "a": 0,
    "w": "Used by the Inca."
@@ -109,42 +109,42 @@
   {
    "q": "Machu Picchu was built around...",
    "o": [
-    "250 CE",
-    "1325",
     "1532",
-    "1450"
+    "250 CE",
+    "1450",
+    "1325"
    ],
-   "a": 3,
+   "a": 2,
    "w": "Under Pachacuti."
   },
   {
    "q": "Cortes took Tenochtitlan in...",
    "o": [
     "1325",
-    "1521",
     "1492",
-    "1532"
+    "1532",
+    "1521"
    ],
-   "a": 1,
+   "a": 3,
    "w": "With indigenous allies."
   },
   {
    "q": "Pizarro captured...",
    "o": [
-    "Montezuma",
-    "Pachacuti",
     "Atahualpa",
-    "Cortes"
+    "Montezuma",
+    "Cortes",
+    "Pachacuti"
    ],
-   "a": 2,
+   "a": 0,
    "w": "At Cajamarca in 1532."
   },
   {
    "q": "The 2012 Maya date was...",
    "o": [
     "A doomsday",
-    "A war",
     "A coronation",
+    "A war",
     "The end of a calendar cycle"
    ],
    "a": 3,
@@ -154,8 +154,8 @@
    "q": "Which came to India after 1492?",
    "o": [
     "Chilli",
-    "Black pepper",
     "Rice",
+    "Black pepper",
     "Cardamom"
    ],
    "a": 0,

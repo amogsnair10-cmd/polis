@@ -59,32 +59,32 @@
   {
    "q": "The bond in NaCl is:",
    "o": [
-    "Ionic",
-    "Covalent",
     "Metallic",
-    "Hydrogen"
+    "Ionic",
+    "Hydrogen",
+    "Covalent"
    ],
-   "a": 0,
+   "a": 1,
    "w": "Na transfers an electron to Cl."
   },
   {
    "q": "Formula of magnesium chloride?",
    "o": [
-    "MgCl2",
-    "MgCl",
     "Mg2Cl",
+    "MgCl",
+    "MgCl2",
     "Mg2Cl2"
    ],
-   "a": 0,
+   "a": 2,
    "w": "Mg2+ needs two Cl-."
   },
   {
    "q": "Formula of aluminium oxide?",
    "o": [
+    "Al3O2",
     "AlO",
-    "AlO3",
     "Al2O3",
-    "Al3O2"
+    "AlO3"
    ],
    "a": 2,
    "w": "Al3+ and O2-: 2 x 3 = 3 x 2."
@@ -92,20 +92,20 @@
   {
    "q": "N2 has what kind of bond?",
    "o": [
-    "Triple covalent",
+    "Double covalent",
     "Single covalent",
     "Ionic",
-    "Double covalent"
+    "Triple covalent"
    ],
-   "a": 0,
+   "a": 3,
    "w": "Three shared pairs."
   },
   {
    "q": "Who proposed shared electron-pair bonds in 1916?",
    "o": [
     "G.N. Lewis",
-    "Bohr",
     "Pauling",
+    "Bohr",
     "Mendeleev"
    ],
    "a": 0,
@@ -114,34 +114,34 @@
   {
    "q": "Why do ionic solids break when hit?",
    "o": [
-    "Bonds are weak",
     "Like charges align and repel",
+    "They have free electrons",
     "They are liquids",
-    "They have free electrons"
+    "Bonds are weak"
    ],
-   "a": 1,
+   "a": 0,
    "w": "Shifting layers brings like ions together."
   },
   {
    "q": "Which conducts electricity when molten?",
    "o": [
-    "NaCl",
-    "Sugar",
     "Diamond",
+    "Sugar",
+    "NaCl",
     "Wax"
    ],
-   "a": 0,
+   "a": 2,
    "w": "Ions become free to move."
   },
   {
    "q": "The 'sea of electrons' explains:",
    "o": [
-    "Conductivity of metals",
+    "Triple bonds",
     "Brittleness of salt",
     "Water's polarity",
-    "Triple bonds"
+    "Conductivity of metals"
    ],
-   "a": 0,
+   "a": 3,
    "w": "Free electrons carry current."
   },
   {
@@ -158,12 +158,12 @@
   {
    "q": "P.C. Ray founded:",
    "o": [
+    "CSIR",
     "Bengal Chemical and Pharmaceutical Works",
-    "Tata Chemicals",
     "Hindustan Antibiotics",
-    "CSIR"
+    "Tata Chemicals"
    ],
-   "a": 0,
+   "a": 1,
    "w": "Established 1901."
   }
  ],

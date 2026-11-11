@@ -54,10 +54,10 @@
   {
    "q": "On Contradiction was written in",
    "o": [
-    "1957",
+    "1966",
     "1949",
     "1937",
-    "1966"
+    "1957"
    ],
    "a": 2,
    "w": "In Yan'an."
@@ -65,21 +65,21 @@
   {
    "q": "The mass line is",
    "o": [
-    "Rule by referendum",
-    "Party discipline only",
     "From the masses, to the masses",
+    "Party discipline only",
+    "Rule by referendum",
     "A military tactic"
    ],
-   "a": 2,
+   "a": 0,
    "w": "Mao's method."
   },
   {
    "q": "On New Democracy (1940) proposed a bloc of",
    "o": [
+    "Two classes",
     "Workers only",
-    "Peasants and soldiers only",
     "Four classes",
-    "Two classes"
+    "Peasants and soldiers only"
    ],
    "a": 2,
    "w": "Including the national bourgeoisie."
@@ -87,8 +87,8 @@
   {
    "q": "The Hundred Flowers campaign was followed by the",
    "o": [
-    "Long March",
     "Cultural Revolution",
+    "Long March",
     "Rectification",
     "Anti-Rightist Campaign"
    ],
@@ -98,43 +98,43 @@
   {
    "q": "\"Mao Zedong Thought\" was written into the Party constitution in",
    "o": [
-    "1921",
     "1945",
+    "1982",
     "1966",
-    "1982"
+    "1921"
    ],
-   "a": 1,
+   "a": 0,
    "w": "Seventh Congress."
   },
   {
    "q": "\"Non-antagonistic contradictions\" are those",
    "o": [
-    "Among the people",
     "With the enemy",
     "With foreign countries",
+    "Among the people",
     "Between classes only"
    ],
-   "a": 0,
+   "a": 2,
    "w": "1957 essay."
   },
   {
    "q": "Who wrote critical works on Maoism under the pen-name Simon Leys?",
    "o": [
-    "Pierre Ryckmans",
-    "Edgar Snow",
     "Jung Chang",
+    "Edgar Snow",
+    "Pierre Ryckmans",
     "Chalmers Johnson"
    ],
-   "a": 0,
+   "a": 2,
    "w": "Chinese Shadows, 1974."
   },
   {
    "q": "The CPI (Maoist) was formed in",
    "o": [
     "1967",
-    "1964",
+    "1920",
     "2004",
-    "1920"
+    "1964"
    ],
    "a": 2,
    "w": "Merger of PWG and MCC."
@@ -142,23 +142,23 @@
   {
    "q": "Semi-colonial and semi-feudal is the Maoist description of",
    "o": [
+    "The US",
     "Pre-1949 China and India",
     "Britain",
-    "Russia",
-    "The US"
+    "Russia"
    ],
-   "a": 0,
+   "a": 1,
    "w": "Applied to India by Maoists."
   },
   {
    "q": "Mao's \"On Practice\" argues knowledge comes from",
    "o": [
-    "Practice",
     "Books",
     "Intuition",
+    "Practice",
     "Party decisions only"
    ],
-   "a": 0,
+   "a": 2,
    "w": "And returns to practice."
   }
  ],

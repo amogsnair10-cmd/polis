@@ -54,31 +54,31 @@
   {
    "q": "The Permanent Settlement was introduced in Bengal in",
    "o": [
-    "1765",
-    "1820",
     "1793",
+    "1820",
+    "1765",
     "1833"
    ],
-   "a": 2,
+   "a": 0,
    "w": "Cornwallis introduced it."
   },
   {
    "q": "Ryotwari was first introduced by",
    "o": [
-    "Cornwallis in Bengal",
     "Thomas Munro in Madras",
+    "Cornwallis in Bengal",
     "Holt Mackenzie in Awadh",
     "Dalhousie in the Punjab"
    ],
-   "a": 1,
+   "a": 0,
    "w": "It was extended by Munro and Reed."
   },
   {
    "q": "In the Mahalwari system the revenue unit was",
    "o": [
     "The village or estate (mahal)",
-    "The individual cultivator",
     "The zamindar",
+    "The individual cultivator",
     "The district"
    ],
    "a": 0,
@@ -87,32 +87,32 @@
   {
    "q": "Who wrote Poverty and Un-British Rule in India?",
    "o": [
-    "R. C. Dutt",
-    "M. G. Ranade",
     "G. K. Gokhale",
-    "Dadabhai Naoroji"
+    "R. C. Dutt",
+    "Dadabhai Naoroji",
+    "M. G. Ranade"
    ],
-   "a": 3,
+   "a": 2,
    "w": "It is Naoroji’s famous work (1901)."
   },
   {
    "q": "The Economic History of India (1901 to 03) was written by",
    "o": [
     "Dadabhai Naoroji",
-    "Bipan Chandra",
     "R. C. Dutt",
+    "Bipan Chandra",
     "Romesh Chunder Mitra"
    ],
-   "a": 2,
+   "a": 1,
    "w": "Dutt, an ICS officer, wrote it."
   },
   {
    "q": "The Sunset Law under the Permanent Settlement meant",
    "o": [
-    "Revenue paid only after sunset",
-    "Land auctioned if revenue was not paid by sunset on the due date",
     "Peasants evicted at night",
-    "Fixed rent on cultivators"
+    "Land auctioned if revenue was not paid by sunset on the due date",
+    "Fixed rent on cultivators",
+    "Revenue paid only after sunset"
    ],
    "a": 1,
    "w": "Zamindars lost land on default."
@@ -120,43 +120,43 @@
   {
    "q": "Home Charges included",
    "o": [
-    "Interest on debt, pensions and salaries paid in London",
-    "Railway fares in India",
     "Only land revenue",
-    "Famine relief"
+    "Railway fares in India",
+    "Famine relief",
+    "Interest on debt, pensions and salaries paid in London"
    ],
-   "a": 0,
+   "a": 3,
    "w": "These were remitted from India to Britain."
   },
   {
    "q": "Indigo Revolt (1859 to 60) was in",
    "o": [
-    "Gujarat",
     "Maharashtra",
-    "Punjab",
-    "Bengal"
+    "Bengal",
+    "Gujarat",
+    "Punjab"
    ],
-   "a": 3,
+   "a": 1,
    "w": "Peasants refused to grow indigo for planters."
   },
   {
    "q": "Which was the major effect of commercialisation of agriculture?",
    "o": [
-    "Rise of rural industry",
-    "Fall in moneylending",
     "Peasant indebtedness and food-crop decline",
-    "Higher self-sufficiency"
+    "Higher self-sufficiency",
+    "Rise of rural industry",
+    "Fall in moneylending"
    ],
-   "a": 2,
+   "a": 0,
    "w": "Farmers shifted to cash crops and borrowed from moneylenders."
   },
   {
    "q": "Which land system covered roughly half of British India?",
    "o": [
-    "Permanent Settlement",
+    "Jagirdari",
     "Ryotwari",
-    "Mahalwari",
-    "Jagirdari"
+    "Permanent Settlement",
+    "Mahalwari"
    ],
    "a": 1,
    "w": "Ryotwari covered about 51% of the area."

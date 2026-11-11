@@ -59,9 +59,9 @@
   {
    "q": "Mitosis produces:",
    "o": [
-    "2 haploid cells",
-    "2 identical diploid cells",
     "4 haploid cells",
+    "2 identical diploid cells",
+    "2 haploid cells",
     "1 cell"
    ],
    "a": 1,
@@ -71,9 +71,9 @@
    "q": "Crossing over happens in:",
    "o": [
     "Prophase I",
+    "Anaphase II",
     "Telophase",
-    "Metaphase of mitosis",
-    "Anaphase II"
+    "Metaphase of mitosis"
    ],
    "a": 0,
    "w": "Prophase I."
@@ -92,9 +92,9 @@
   {
    "q": "Meiosis makes how many cells?",
    "o": [
-    "8",
-    "4",
     "2",
+    "4",
+    "8",
     "1"
    ],
    "a": 1,
@@ -103,8 +103,8 @@
   {
    "q": "Human chromosome number is:",
    "o": [
-    "44",
     "23",
+    "44",
     "48",
     "46"
    ],
@@ -115,8 +115,8 @@
    "q": "Down syndrome is:",
    "o": [
     "Monosomy",
-    "Triploidy",
     "Deletion",
+    "Triploidy",
     "Trisomy 21"
    ],
    "a": 3,
@@ -127,8 +127,8 @@
    "o": [
     "Sister chromatids separate",
     "Chromosomes condense",
-    "DNA copies",
-    "Nuclear envelope forms"
+    "Nuclear envelope forms",
+    "DNA copies"
    ],
    "a": 0,
    "w": "They are pulled apart."
@@ -136,8 +136,8 @@
   {
    "q": "Checkpoints mainly:",
    "o": [
-    "Make ATP",
     "Speed up division",
+    "Make ATP",
     "Make gametes",
     "Check readiness and damage"
    ],
@@ -147,10 +147,10 @@
   {
    "q": "Independent assortment refers to:",
    "o": [
-    "Cell fusion",
+    "Swapping segments",
     "Copying DNA",
     "Random sorting of chromosome pairs",
-    "Swapping segments"
+    "Cell fusion"
    ],
    "a": 2,
    "w": "Random alignment."
@@ -158,9 +158,9 @@
   {
    "q": "Who linked chromosomes to heredity around 1902?",
    "o": [
+    "Calvin",
     "Pasteur",
     "Krebs",
-    "Calvin",
     "Boveri and Sutton"
    ],
    "a": 3,

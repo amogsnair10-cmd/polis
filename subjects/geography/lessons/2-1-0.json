@@ -64,97 +64,97 @@
   {
    "q": "Malthus's essay was published in",
    "o": [
-    "1859",
     "1900",
-    "1798",
-    "1965"
+    "1859",
+    "1965",
+    "1798"
    ],
-   "a": 2,
+   "a": 3,
    "w": "An Essay on the Principle of Population."
   },
   {
    "q": "Boserup argued that population growth",
    "o": [
-    "Stimulates agricultural innovation",
     "Always causes famine",
     "Reduces output",
-    "Stops technology"
+    "Stops technology",
+    "Stimulates agricultural innovation"
    ],
-   "a": 0,
+   "a": 3,
    "w": "1965."
   },
   {
    "q": "Concentric zone model was proposed by",
    "o": [
-    "Hoyt",
     "Christaller",
-    "Harris",
-    "Burgess"
+    "Hoyt",
+    "Burgess",
+    "Harris"
    ],
-   "a": 3,
+   "a": 2,
    "w": "Chicago, 1925."
   },
   {
    "q": "Central place theory is by",
    "o": [
+    "Malthus",
     "Burgess",
-    "Christaller",
     "Weber",
-    "Malthus"
+    "Christaller"
    ],
-   "a": 1,
+   "a": 3,
    "w": "1933."
   },
   {
    "q": "Primate city was described by",
    "o": [
-    "Zipf",
     "Mark Jefferson",
     "Geddes",
+    "Zipf",
     "Hoyt"
    ],
-   "a": 1,
+   "a": 0,
    "w": "1939."
   },
   {
    "q": "Conurbation was coined by",
    "o": [
     "Hoyt",
-    "Ehrlich",
     "Cannan",
-    "Patrick Geddes"
+    "Patrick Geddes",
+    "Ehrlich"
    ],
-   "a": 3,
+   "a": 2,
    "w": "1915."
   },
   {
    "q": "Dharavi is in",
    "o": [
-    "Mumbai",
-    "Delhi",
     "Kolkata",
-    "Chennai"
+    "Mumbai",
+    "Chennai",
+    "Delhi"
    ],
-   "a": 0,
+   "a": 1,
    "w": "One of Asia's largest informal settlements."
   },
   {
    "q": "The Limits to Growth report came from",
    "o": [
-    "UN",
-    "World Bank",
+    "IMF",
     "Club of Rome",
-    "IMF"
+    "UN",
+    "World Bank"
    ],
-   "a": 2,
+   "a": 1,
    "w": "1972."
   },
   {
    "q": "Positive checks in Malthus include",
    "o": [
     "Late marriage",
-    "Contraception",
     "Education",
+    "Contraception",
     "Famine and disease"
    ],
    "a": 3,
@@ -164,9 +164,9 @@
    "q": "Hoyt's sector model emphasises",
    "o": [
     "Transport corridors",
-    "Rings",
+    "Many nuclei",
     "Hexagons",
-    "Many nuclei"
+    "Rings"
    ],
    "a": 0,
    "w": "Wedge-shaped zones."

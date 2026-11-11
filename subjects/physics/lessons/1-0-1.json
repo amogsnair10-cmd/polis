@@ -59,23 +59,23 @@
   {
    "q": "The first law of thermodynamics expresses",
    "o": [
+    "Absolute zero",
     "Entropy increase",
     "Conservation of energy",
-    "Absolute zero",
     "Pressure balance"
    ],
-   "a": 1,
+   "a": 2,
    "w": "Energy is conserved including heat."
   },
   {
    "q": "A gas absorbs 500 J of heat and does 200 J of work. Change in internal energy?",
    "o": [
-    "700 J",
     "300 J",
     "-300 J",
+    "700 J",
     "100 J"
    ],
-   "a": 1,
+   "a": 0,
    "w": "500 - 200."
   },
   {
@@ -93,77 +93,77 @@
    "q": "Carnot efficiency for Th = 600 K, Tc = 300 K is",
    "o": [
     "25 percent",
+    "100 percent",
     "50 percent",
-    "75 percent",
-    "100 percent"
+    "75 percent"
    ],
-   "a": 1,
+   "a": 2,
    "w": "1 - 0.5."
   },
   {
    "q": "No heat engine can be 100 percent efficient because of the",
    "o": [
-    "Zeroth law",
     "First law",
-    "Second law",
-    "Third law"
+    "Third law",
+    "Zeroth law",
+    "Second law"
    ],
-   "a": 2,
+   "a": 3,
    "w": "Some heat must be rejected."
   },
   {
    "q": "A refrigerator",
    "o": [
+    "Needs no energy",
     "Creates cold from nothing",
-    "Uses work to move heat from inside to outside",
     "Violates the second law",
-    "Needs no energy"
+    "Uses work to move heat from inside to outside"
    ],
-   "a": 1,
+   "a": 3,
    "w": "It is a reversed engine."
   },
   {
    "q": "An engine takes 2000 J of heat and rejects 1500 J. Its work output and efficiency?",
    "o": [
-    "500 J, 25 percent",
-    "1500 J, 75 percent",
+    "500 J, 75 percent",
     "3500 J, 25 percent",
-    "500 J, 75 percent"
+    "1500 J, 75 percent",
+    "500 J, 25 percent"
    ],
-   "a": 0,
+   "a": 3,
    "w": "W = 500; 500/2000 = 25 percent."
   },
   {
    "q": "Temperatures in Carnot's formula must be in",
    "o": [
-    "Celsius",
     "Fahrenheit",
     "Kelvin",
-    "Any scale"
+    "Any scale",
+    "Celsius"
    ],
-   "a": 2,
+   "a": 1,
    "w": "Absolute scale needed."
   },
   {
    "q": "The third law says",
    "o": [
-    "Absolute zero is unreachable",
     "Energy is conserved",
     "Entropy always rises",
+    "Absolute zero is unreachable",
     "Heat flows uphill"
    ],
-   "a": 0,
+   "a": 2,
    "w": "Absolute zero cannot be attained in a finite number of steps."
   },
   {
    "q": "Who analysed the ideal heat engine in 1824?",
    "o": [
-    "Joule",
     "Carnot",
-    "Kelvin",
-    "Boltzmann"
+    "Joule",
+    "Boltzmann",
+    "Kelvin"
    ],
-   "a": 1,
+   "a": 0,
    "w": "Sadi Carnot."
   }
  ],

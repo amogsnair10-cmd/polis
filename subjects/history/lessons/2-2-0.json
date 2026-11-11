@@ -59,10 +59,10 @@
   {
    "q": "The Natya Shastra is attributed to",
    "o": [
-    "Kalidasa",
     "Patanjali",
+    "Nandikeshvara",
     "Bharata",
-    "Nandikeshvara"
+    "Kalidasa"
    ],
    "a": 2,
    "w": "It is the oldest treatise on performing arts."
@@ -71,22 +71,22 @@
    "q": "Bharatanatyam originated in",
    "o": [
     "Kerala",
-    "Tamil Nadu",
     "Odisha",
-    "Andhra Pradesh"
+    "Andhra Pradesh",
+    "Tamil Nadu"
    ],
-   "a": 1,
+   "a": 3,
    "w": "From Sadir of temple dancers."
   },
   {
    "q": "Kuchipudi is from",
    "o": [
-    "Andhra Pradesh",
-    "Kerala",
+    "Manipur",
     "Assam",
-    "Manipur"
+    "Andhra Pradesh",
+    "Kerala"
    ],
-   "a": 0,
+   "a": 2,
    "w": "Associated with Siddhendra Yogi."
   },
   {
@@ -94,17 +94,17 @@
    "o": [
     "Kathak",
     "Kathakali",
-    "Manipuri",
-    "Odissi"
+    "Odissi",
+    "Manipuri"
    ],
-   "a": 3,
+   "a": 2,
    "w": "The body bends in three places."
   },
   {
    "q": "Sattriya dance was started by",
    "o": [
-    "Chaitanya in Bengal",
     "Jayadeva in Odisha",
+    "Chaitanya in Bengal",
     "Sankardeva in Assam",
     "Vallathol in Kerala"
    ],
@@ -114,20 +114,20 @@
   {
    "q": "Kalakshetra was founded by",
    "o": [
+    "Sitara Devi",
     "Uday Shankar",
-    "Rukmini Devi Arundale",
     "Vallathol",
-    "Sitara Devi"
+    "Rukmini Devi Arundale"
    ],
-   "a": 1,
+   "a": 3,
    "w": "In Chennai, 1936."
   },
   {
    "q": "Which Kerala dance is a female solo dance?",
    "o": [
     "Mohiniyattam",
-    "Kathakali",
     "Kutiyattam",
+    "Kathakali",
     "Theyyam"
    ],
    "a": 0,
@@ -136,32 +136,32 @@
   {
    "q": "Garba of Gujarat was inscribed on the UNESCO ICH list in",
    "o": [
+    "2023",
     "2008",
     "2010",
-    "2018",
-    "2023"
+    "2018"
    ],
-   "a": 3,
+   "a": 0,
    "w": "Inscribed in December 2023."
   },
   {
    "q": "Kathak gharanas include",
    "o": [
-    "Mysore, Madurai and Pune",
     "Kangra, Basohli and Guler",
     "Jaipur, Lucknow and Banaras",
+    "Mysore, Madurai and Pune",
     "Dhrupad, Khayal and Thumri"
    ],
-   "a": 2,
+   "a": 1,
    "w": "Distinct styles within Kathak."
   },
   {
    "q": "Yakshagana is a folk theatre form of",
    "o": [
-    "Kerala",
-    "Karnataka",
     "Punjab",
-    "Bengal"
+    "Karnataka",
+    "Bengal",
+    "Kerala"
    ],
    "a": 1,
    "w": "A coastal Karnataka form."

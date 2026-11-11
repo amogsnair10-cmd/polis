@@ -55,42 +55,42 @@
    "q": "Eric Cline's book on the collapse is called...",
    "o": [
     "Guns, Germs and Steel",
+    "The Histories",
     "SPQR",
-    "1177 B.C.",
-    "The Histories"
+    "1177 B.C."
    ],
-   "a": 2,
+   "a": 3,
    "w": "Published 2014."
   },
   {
    "q": "Which Egyptian king fought the Sea Peoples?",
    "o": [
+    "Ptolemy",
     "Ramesses III",
     "Tutankhamun",
-    "Khufu",
-    "Ptolemy"
+    "Khufu"
    ],
-   "a": 0,
+   "a": 1,
    "w": "About 1177 BCE."
   },
   {
    "q": "The Hittite capital was...",
    "o": [
-    "Uruk",
     "Thebes",
-    "Carthage",
-    "Hattusa"
+    "Hattusa",
+    "Uruk",
+    "Carthage"
    ],
-   "a": 3,
+   "a": 1,
    "w": "In modern Turkey."
   },
   {
    "q": "The Uluburun wreck shows...",
    "o": [
-    "A Viking raid",
-    "Wide Bronze Age trade",
     "Roman wine",
-    "Chinese silk"
+    "Wide Bronze Age trade",
+    "Chinese silk",
+    "A Viking raid"
    ],
    "a": 1,
    "w": "It carried copper, tin and luxury goods."
@@ -98,20 +98,20 @@
   {
    "q": "Which writing system vanished in Greece after the collapse?",
    "o": [
+    "Brahmi",
     "Linear B",
     "Cuneiform",
-    "Hieroglyphs",
-    "Brahmi"
+    "Hieroglyphs"
    ],
-   "a": 0,
+   "a": 1,
    "w": "It was palace administration script."
   },
   {
    "q": "Tin mattered because...",
    "o": [
-    "It fuelled ships",
-    "It was currency",
     "It was used for writing",
+    "It was currency",
+    "It fuelled ships",
     "Bronze is copper plus tin"
    ],
    "a": 3,
@@ -120,12 +120,12 @@
   {
    "q": "Most historians see the collapse as...",
    "o": [
-    "Only Sea Peoples",
-    "A system of many causes",
     "Only one flood",
-    "Fiction"
+    "Fiction",
+    "Only Sea Peoples",
+    "A system of many causes"
    ],
-   "a": 1,
+   "a": 3,
    "w": "Climate, war and trade breakdown together."
   },
   {
@@ -133,17 +133,17 @@
    "o": [
     "1177 BCE",
     "300 BCE",
-    "About 1900 BCE",
-    "500 CE"
+    "500 CE",
+    "About 1900 BCE"
    ],
-   "a": 2,
+   "a": 3,
    "w": "Before the Mediterranean collapse."
   },
   {
    "q": "Which metal became common afterwards?",
    "o": [
-    "Gold",
     "Aluminium",
+    "Gold",
     "Silver",
     "Iron"
    ],
@@ -153,12 +153,12 @@
   {
    "q": "The Sea Peoples are known from...",
    "o": [
-    "Egyptian inscriptions",
+    "Chinese bones",
     "Greek epics only",
-    "Indian texts",
-    "Chinese bones"
+    "Egyptian inscriptions",
+    "Indian texts"
    ],
-   "a": 0,
+   "a": 2,
    "w": "Medinet Habu reliefs."
   }
  ],

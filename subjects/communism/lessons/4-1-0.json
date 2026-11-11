@@ -54,54 +54,54 @@
   {
    "q": "Ho proclaimed independence on",
    "o": [
+    "2 September 1945",
     "1 May 1954",
     "30 April 1975",
-    "1 July 1921",
-    "2 September 1945"
+    "1 July 1921"
    ],
-   "a": 3,
+   "a": 0,
    "w": "In Hanoi."
   },
   {
    "q": "Dien Bien Phu was a victory over",
    "o": [
-    "The USA",
+    "France",
     "Japan",
-    "China",
-    "France"
+    "The USA",
+    "China"
    ],
-   "a": 3,
+   "a": 0,
    "w": "May 1954."
   },
   {
    "q": "Who commanded the Viet Minh army?",
    "o": [
+    "Vo Nguyen Giap",
     "Le Duan",
     "Pham Van Dong",
-    "Vo Nguyen Giap",
     "Truong Chinh"
    ],
-   "a": 2,
+   "a": 0,
    "w": "The general."
   },
   {
    "q": "The Geneva Accords divided Vietnam at",
    "o": [
-    "The 38th parallel",
-    "The 17th parallel",
+    "The 49th parallel",
     "The Mekong",
-    "The 49th parallel"
+    "The 17th parallel",
+    "The 38th parallel"
    ],
-   "a": 1,
+   "a": 2,
    "w": "1954."
   },
   {
    "q": "Saigon fell on",
    "o": [
-    "2 September 1969",
-    "30 April 1975",
     "28 January 1973",
-    "8 March 1965"
+    "30 April 1975",
+    "8 March 1965",
+    "2 September 1969"
    ],
    "a": 1,
    "w": "To North Vietnamese forces."
@@ -109,10 +109,10 @@
   {
    "q": "Doi Moi was launched in",
    "o": [
+    "2001",
     "1975",
-    "1954",
     "1986",
-    "2001"
+    "1954"
    ],
    "a": 2,
    "w": "Renovation."
@@ -121,31 +121,31 @@
    "q": "Ho said he became a communist after reading",
    "o": [
     "Capital",
+    "Lenin's colonial theses",
     "Mao's writings",
-    "Kropotkin",
-    "Lenin's colonial theses"
+    "Kropotkin"
    ],
-   "a": 3,
+   "a": 1,
    "w": "1920."
   },
   {
    "q": "American combat deaths in Vietnam were about",
    "o": [
-    "5,800",
+    "58,000",
     "580,000",
     "5 million",
-    "58,000"
+    "5,800"
    ],
-   "a": 3,
+   "a": 0,
    "w": "Official US figure."
   },
   {
    "q": "Who wrote Embers of War (2012)?",
    "o": [
     "Fredrik Logevall",
-    "Stanley Karnow",
+    "Bernard Fall",
     "Frances FitzGerald",
-    "Bernard Fall"
+    "Stanley Karnow"
    ],
    "a": 0,
    "w": "On the origin of the war."
@@ -154,11 +154,11 @@
    "q": "India's partnership with Vietnam was upgraded in",
    "o": [
     "1947",
-    "1972",
     "2016",
-    "1991"
+    "1991",
+    "1972"
    ],
-   "a": 2,
+   "a": 1,
    "w": "Comprehensive Strategic Partnership."
   }
  ],

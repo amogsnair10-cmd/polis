@@ -54,54 +54,54 @@
   {
    "q": "What Is To Be Done? was published in",
    "o": [
+    "1921",
     "1902",
     "1917",
-    "1905",
-    "1921"
+    "1905"
    ],
-   "a": 0,
+   "a": 1,
    "w": "Written in Munich and published in Stuttgart."
   },
   {
    "q": "The words Bolshevik and Menshevik mean",
    "o": [
     "Red and white",
+    "City and village",
     "Left and right",
-    "Majority and minority",
-    "City and village"
+    "Majority and minority"
    ],
-   "a": 2,
+   "a": 3,
    "w": "After the 1903 vote."
   },
   {
    "q": "Lenin said workers alone develop",
    "o": [
+    "Anarchism",
     "Revolutionary consciousness",
     "Peasant politics",
-    "Trade-union consciousness",
-    "Anarchism"
+    "Trade-union consciousness"
    ],
-   "a": 2,
+   "a": 3,
    "w": "Hence the vanguard."
   },
   {
    "q": "Democratic centralism means",
    "o": [
-    "Rule by referendum",
     "Debate, then unified discipline",
     "Decentralised units",
-    "Majority only for leaders"
+    "Majority only for leaders",
+    "Rule by referendum"
    ],
-   "a": 1,
+   "a": 0,
    "w": "In theory."
   },
   {
    "q": "Factions were banned within the party in",
    "o": [
-    "1903",
+    "1936",
     "1905",
     "1921",
-    "1936"
+    "1903"
    ],
    "a": 2,
    "w": "Tenth Congress."
@@ -109,56 +109,56 @@
   {
    "q": "Who warned of \"ultra-centralism\" in 1904?",
    "o": [
-    "Kautsky",
-    "Martov",
+    "Stalin",
     "Rosa Luxemburg",
-    "Stalin"
+    "Martov",
+    "Kautsky"
    ],
-   "a": 2,
+   "a": 1,
    "w": "Organisational Questions."
   },
   {
    "q": "Which historian argues the vanguard idea was less authoritarian than reputed?",
    "o": [
-    "Robert Service",
     "Lars Lih",
-    "Richard Pipes",
-    "Leopold Haimson"
+    "Leopold Haimson",
+    "Robert Service",
+    "Richard Pipes"
    ],
-   "a": 1,
+   "a": 0,
    "w": "Lenin Rediscovered, 2006."
   },
   {
    "q": "Who disagreed with Lenin at the 1920 Comintern congress on colonial strategy?",
    "o": [
-    "M.N. Roy",
-    "S.A. Dange",
     "Subhas Bose",
-    "Ambedkar"
+    "Ambedkar",
+    "M.N. Roy",
+    "S.A. Dange"
    ],
-   "a": 0,
+   "a": 2,
    "w": "His Supplementary Theses."
   },
   {
    "q": "CPI split into CPI and CPI(M) in",
    "o": [
-    "1947",
-    "1925",
     "1977",
-    "1964"
+    "1925",
+    "1964",
+    "1947"
    ],
-   "a": 3,
+   "a": 2,
    "w": "Over relations with the Congress."
   },
   {
    "q": "The Meerut Conspiracy Case began in",
    "o": [
     "1920",
-    "1929",
     "1947",
+    "1929",
     "1964"
    ],
-   "a": 1,
+   "a": 2,
    "w": "Communist trade unionists were tried."
   }
  ],

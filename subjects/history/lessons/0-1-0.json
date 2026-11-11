@@ -59,19 +59,19 @@
   {
    "q": "The earliest Veda is",
    "o": [
-    "Sama Veda",
     "Yajur Veda",
+    "Rig Veda",
     "Atharva Veda",
-    "Rig Veda"
+    "Sama Veda"
    ],
-   "a": 3,
+   "a": 1,
    "w": "Mostly hymns."
   },
   {
    "q": "The Dasarajna war was fought on the river",
    "o": [
-    "Ganga",
     "Yamuna",
+    "Ganga",
     "Parushni (Ravi)",
     "Narmada"
    ],
@@ -81,89 +81,89 @@
   {
    "q": "Which was an Early Vedic assembly?",
    "o": [
+    "Mahasabha",
     "Parishad",
     "Sabha",
-    "Gana-sangha",
-    "Mahasabha"
+    "Gana-sangha"
    ],
-   "a": 1,
+   "a": 2,
    "w": "Also Samiti and Vidatha."
   },
   {
    "q": "The Purusha Sukta speaks of",
    "o": [
-    "The origin of the four varnas",
+    "The Dasarajna",
     "Warfare",
     "Cattle raids",
-    "The Dasarajna"
+    "The origin of the four varnas"
    ],
-   "a": 0,
+   "a": 3,
    "w": "In the Rig Veda’s tenth book."
   },
   {
    "q": "The Painted Grey Ware culture is linked to",
    "o": [
-    "Harappan",
+    "Later Vedic period",
     "Maurya",
-    "Gupta",
-    "Later Vedic period"
+    "Harappan",
+    "Gupta"
    ],
-   "a": 3,
+   "a": 0,
    "w": "In the Ganga-Yamuna region."
   },
   {
    "q": "In later Vedic times the main occupation was",
    "o": [
-    "Pastoralism",
-    "Trade",
     "Agriculture",
-    "Hunting"
+    "Hunting",
+    "Trade",
+    "Pastoralism"
    ],
-   "a": 2,
+   "a": 0,
    "w": "With iron tools."
   },
   {
    "q": "The four ashramas were",
    "o": [
+    "Rig, Sama, Yajur, Atharva",
     "Dharma, Artha, Kama, Moksha",
     "Brahmacharya, Grihastha, Vanaprastha, Sanyasa",
-    "Rig, Sama, Yajur, Atharva",
     "Sabha, Samiti, Vidatha, Gana"
    ],
-   "a": 1,
+   "a": 2,
    "w": "Stages of life."
   },
   {
    "q": "Satyameva Jayate is from the",
    "o": [
-    "Mundaka Upanishad",
+    "Arthashastra",
     "Rig Veda",
     "Manusmriti",
-    "Arthashastra"
+    "Mundaka Upanishad"
    ],
-   "a": 0,
+   "a": 3,
    "w": "India’s motto."
   },
   {
    "q": "The sangrihitri was",
    "o": [
     "A priest",
+    "Treasurer in the Later Vedic period",
     "A general",
-    "A village head",
-    "Treasurer in the Later Vedic period"
+    "A village head"
    ],
-   "a": 3,
+   "a": 1,
    "w": "One of the ratnins."
   },
   {
    "q": "Max Müller is associated with the theory of",
    "o": [
-    "Indigenous origin",
-    "Arctic home",
+    "Sea trade",
     "Aryan migration",
-    "Sea trade"
+    "Arctic home",
+    "Indigenous origin"
    ],
-   "a": 2,
+   "a": 1,
    "w": "He studied Sanskrit and wrote on the Aryans."
   }
  ],

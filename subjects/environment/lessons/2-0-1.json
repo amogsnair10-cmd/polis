@@ -59,31 +59,31 @@
   {
    "q": "A high BOD value indicates:",
    "o": [
-    "Clean water",
-    "Heavy organic pollution",
     "High oxygen",
-    "High salinity"
+    "High salinity",
+    "Clean water",
+    "Heavy organic pollution"
    ],
-   "a": 1,
+   "a": 3,
    "w": "Bacteria consume oxygen to break organic matter, so BOD rises."
   },
   {
    "q": "The Water Act in India was passed in:",
    "o": [
-    "1974",
     "1981",
-    "1986",
-    "1991"
+    "1974",
+    "1991",
+    "1986"
    ],
-   "a": 0,
+   "a": 1,
    "w": "It came before the Air Act of 1981."
   },
   {
    "q": "Namami Gange was launched in:",
    "o": [
     "1985",
-    "2008",
     "2019",
+    "2008",
     "2014"
    ],
    "a": 3,
@@ -92,8 +92,8 @@
   {
    "q": "Fluoride in drinking water above which limit causes fluorosis concern?",
    "o": [
-    "0.01 mg/L",
     "10 mg/L",
+    "0.01 mg/L",
     "1.5 mg/L",
     "0.5 mg/L"
    ],
@@ -103,67 +103,67 @@
   {
    "q": "The Noise Rules of 2000 are made under the:",
    "o": [
-    "Air Act 1981",
-    "Environment Protection Act 1986",
     "Water Act 1974",
-    "Wildlife Act 1972"
+    "Wildlife Act 1972",
+    "Environment Protection Act 1986",
+    "Air Act 1981"
    ],
-   "a": 1,
+   "a": 2,
    "w": "They were framed under EPA 1986."
   },
   {
    "q": "Silence zone extends how far around hospitals?",
    "o": [
-    "100 m",
-    "50 m",
     "500 m",
-    "10 m"
+    "100 m",
+    "10 m",
+    "50 m"
    ],
-   "a": 0,
+   "a": 1,
    "w": "Includes schools and courts."
   },
   {
    "q": "Ganga was declared a National River in:",
    "o": [
-    "2014",
-    "1985",
+    "2008",
     "2016",
-    "2008"
+    "2014",
+    "1985"
    ],
-   "a": 3,
+   "a": 0,
    "w": "The Ganga River Basin Authority followed in 2009."
   },
   {
    "q": "The convention on pollution from ships is:",
    "o": [
-    "Basel",
-    "Ramsar",
     "MARPOL",
+    "Ramsar",
+    "Basel",
     "CITES"
    ],
-   "a": 2,
+   "a": 0,
    "w": "MARPOL 73/78."
   },
   {
    "q": "Which scheme gives balanced fertiliser advice to farmers?",
    "o": [
-    "Jal Jeevan Mission",
     "Soil Health Card",
-    "Ujjwala",
-    "Namami Gange"
+    "Namami Gange",
+    "Jal Jeevan Mission",
+    "Ujjwala"
    ],
-   "a": 1,
+   "a": 0,
    "w": "Soil Health Card was launched in 2015."
   },
   {
    "q": "The Vellore Citizens case (1996) established:",
    "o": [
-    "Precautionary principle and polluter pays",
     "Public trust only",
+    "Precautionary principle and polluter pays",
     "Absolute liability",
     "Right to forest"
    ],
-   "a": 0,
+   "a": 1,
    "w": "It treated these as part of Indian environmental law."
   }
  ],

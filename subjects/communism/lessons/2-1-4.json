@@ -55,20 +55,20 @@
    "q": "Brezhnev led the USSR from",
    "o": [
     "1953 to 1964",
-    "1964 to 1982",
     "1982 to 1985",
+    "1964 to 1982",
     "1985 to 1991"
    ],
-   "a": 1,
+   "a": 2,
    "w": "The stagnation era."
   },
   {
    "q": "The Prague Spring was crushed in",
    "o": [
     "1968",
-    "1956",
     "1979",
-    "1980"
+    "1980",
+    "1956"
    ],
    "a": 0,
    "w": "By Warsaw Pact forces."
@@ -76,12 +76,12 @@
   {
    "q": "Perestroika means",
    "o": [
-    "Restructuring",
     "Openness",
-    "Collapse",
-    "Revolution"
+    "Restructuring",
+    "Revolution",
+    "Collapse"
    ],
-   "a": 0,
+   "a": 1,
    "w": "Glasnost means openness."
   },
   {
@@ -89,8 +89,8 @@
    "o": [
     "1982",
     "March 1985",
-    "1991",
-    "1964"
+    "1964",
+    "1991"
    ],
    "a": 1,
    "w": "After Chernenko."
@@ -100,19 +100,19 @@
    "o": [
     "Private property",
     "Religious freedom",
-    "The Party's leading role",
-    "Federalism"
+    "Federalism",
+    "The Party's leading role"
    ],
-   "a": 2,
+   "a": 3,
    "w": "Repealed in 1990."
   },
   {
    "q": "Kornai described socialism as a",
    "o": [
     "Shortage economy",
-    "Surplus economy",
+    "Gift economy",
     "Market economy",
-    "Gift economy"
+    "Surplus economy"
    ],
    "a": 0,
    "w": "1980 book."
@@ -120,45 +120,45 @@
   {
    "q": "The USSR dissolved in",
    "o": [
-    "August 1991",
     "1989",
-    "December 1991",
-    "1993"
+    "1993",
+    "August 1991",
+    "December 1991"
    ],
-   "a": 2,
+   "a": 3,
    "w": "Declared 26 December by the Supreme Soviet."
   },
   {
    "q": "The Indo-Soviet Treaty was signed in",
    "o": [
-    "1962",
-    "1955",
+    "1971",
     "1980",
-    "1971"
+    "1955",
+    "1962"
    ],
-   "a": 3,
+   "a": 0,
    "w": "Before the Bangladesh war."
   },
   {
    "q": "Which Chernobyl year led to greater glasnost?",
    "o": [
     "1979",
-    "1986",
     "1991",
+    "1986",
     "1982"
    ],
-   "a": 1,
+   "a": 2,
    "w": "April 1986."
   },
   {
    "q": "Anders Åslund's view is that Gorbachev",
    "o": [
-    "Opened politics before fixing the economy",
-    "Was too slow politically",
     "Needed more planning",
-    "Copied China exactly"
+    "Copied China exactly",
+    "Was too slow politically",
+    "Opened politics before fixing the economy"
    ],
-   "a": 0,
+   "a": 3,
    "w": "Sequencing criticism."
   }
  ],

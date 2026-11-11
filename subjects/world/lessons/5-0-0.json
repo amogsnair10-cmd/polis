@@ -56,29 +56,29 @@
    "o": [
     "Know thyself",
     "God is dead",
-    "Dare to know",
-    "I think, therefore I am"
+    "I think, therefore I am",
+    "Dare to know"
    ],
-   "a": 2,
+   "a": 3,
    "w": "Sapere aude."
   },
   {
    "q": "Locke wrote...",
    "o": [
-    "Two Treatises of Government",
+    "Leviathan",
     "The Prince",
-    "The Social Contract",
-    "Leviathan"
+    "Two Treatises of Government",
+    "The Social Contract"
    ],
-   "a": 0,
+   "a": 2,
    "w": "1689."
   },
   {
    "q": "Separation of powers is linked to...",
    "o": [
+    "Smith",
     "Rousseau",
     "Diderot",
-    "Smith",
     "Montesquieu"
    ],
    "a": 3,
@@ -87,31 +87,31 @@
   {
    "q": "The Social Contract was by...",
    "o": [
+    "Kant",
     "Locke",
-    "Rousseau",
     "Voltaire",
-    "Kant"
+    "Rousseau"
    ],
-   "a": 1,
+   "a": 3,
    "w": "1762."
   },
   {
    "q": "The Encyclopedie was edited by...",
    "o": [
-    "Diderot",
     "Voltaire",
-    "Franklin",
-    "Newton"
+    "Diderot",
+    "Newton",
+    "Franklin"
    ],
-   "a": 0,
+   "a": 1,
    "w": "1751-72."
   },
   {
    "q": "The Wealth of Nations is from...",
    "o": [
+    "1651",
     "1689",
     "1789",
-    "1651",
     "1776"
    ],
    "a": 3,
@@ -120,10 +120,10 @@
   {
    "q": "Wollstonecraft argued for...",
    "o": [
-    "A king's rights",
+    "Church power",
     "Women's education and rights",
     "Free trade",
-    "Church power"
+    "A king's rights"
    ],
    "a": 1,
    "w": "1792."
@@ -131,20 +131,20 @@
   {
    "q": "The line about 'defending your right to say it' was written by...",
    "o": [
-    "Voltaire",
-    "Locke",
     "Evelyn Beatrice Hall",
-    "Jefferson"
+    "Jefferson",
+    "Voltaire",
+    "Locke"
    ],
-   "a": 2,
+   "a": 0,
    "w": "In 1906."
   },
   {
    "q": "The Asiatic Society was founded by...",
    "o": [
-    "Rammohan Roy",
     "Clive",
     "Macaulay",
+    "Rammohan Roy",
     "William Jones"
    ],
    "a": 3,
@@ -153,12 +153,12 @@
   {
    "q": "Rammohan Roy founded...",
    "o": [
-    "The Brahmo Sabha",
     "Arya Samaj",
     "Ramakrishna Mission",
-    "Servants of India"
+    "Servants of India",
+    "The Brahmo Sabha"
    ],
-   "a": 0,
+   "a": 3,
    "w": "1828."
   }
  ],

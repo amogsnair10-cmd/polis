@@ -59,10 +59,10 @@
   {
    "q": "Which feature chiefly decides how faint an object a telescope can see?",
    "o": [
-    "Magnification",
+    "Weight",
     "Aperture area",
     "Colour of tube",
-    "Weight"
+    "Magnification"
    ],
    "a": 1,
    "w": "Light collecting area."
@@ -70,10 +70,10 @@
   {
    "q": "Doubling a mirror's diameter increases light collected by:",
    "o": [
-    "2 times",
+    "16 times",
     "4 times",
     "8 times",
-    "16 times"
+    "2 times"
    ],
    "a": 1,
    "w": "Area scales with diameter squared."
@@ -92,10 +92,10 @@
   {
    "q": "Karl Jansky pioneered which science in 1932?",
    "o": [
-    "X-ray",
+    "Gamma-ray",
     "Radio astronomy",
-    "Infrared",
-    "Gamma-ray"
+    "X-ray",
+    "Infrared"
    ],
    "a": 1,
    "w": "Radio astronomy."
@@ -103,21 +103,21 @@
   {
    "q": "JWST observes mainly in:",
    "o": [
+    "Radio",
     "Visible only",
     "Infrared",
-    "X-rays",
-    "Radio"
+    "X-rays"
    ],
-   "a": 1,
+   "a": 2,
    "w": "Infrared, from L2."
   },
   {
    "q": "Why are telescopes sited on high dry mountains?",
    "o": [
-    "Closer to stars",
+    "Cooler nights only",
     "Less air blur and water vapour",
     "Cheaper land",
-    "Cooler nights only"
+    "Closer to stars"
    ],
    "a": 1,
    "w": "Thin dry air."
@@ -125,34 +125,34 @@
   {
    "q": "The GMRT is located near:",
    "o": [
-    "Hanle",
-    "Pune",
+    "Kodaikanal",
     "Nainital",
-    "Kodaikanal"
+    "Pune",
+    "Hanle"
    ],
-   "a": 1,
+   "a": 2,
    "w": "Near Narayangaon, Pune."
   },
   {
    "q": "The Event Horizon Telescope imaged:",
    "o": [
-    "A comet",
     "A black hole shadow",
+    "The Moon",
     "Pluto",
-    "The Moon"
+    "A comet"
    ],
-   "a": 1,
+   "a": 0,
    "w": "M87 in 2019."
   },
   {
    "q": "Adaptive optics corrects for:",
    "o": [
+    "Star motion",
     "Lens colour",
     "Atmospheric turbulence",
-    "Earth rotation",
-    "Star motion"
+    "Earth rotation"
    ],
-   "a": 1,
+   "a": 2,
    "w": "Deformable mirrors cancel blur."
   },
   {

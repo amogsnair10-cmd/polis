@@ -71,9 +71,9 @@
    "q": "When lactose is absent, the repressor:",
    "o": [
     "Blocks the genes",
+    "Is destroyed",
     "Copies DNA",
-    "Releases",
-    "Is destroyed"
+    "Releases"
    ],
    "a": 0,
    "w": "Genes stay off."
@@ -81,9 +81,9 @@
   {
    "q": "DNA methylation usually:",
    "o": [
-    "Copies DNA",
-    "Mutates DNA",
     "Activates a gene",
+    "Mutates DNA",
+    "Copies DNA",
     "Silences a gene"
    ],
    "a": 3,
@@ -114,10 +114,10 @@
   {
    "q": "Epigenetic marks change:",
    "o": [
-    "Chromosome number",
+    "The DNA sequence",
     "Protein code",
     "Gene activity",
-    "The DNA sequence"
+    "Chromosome number"
    ],
    "a": 2,
    "w": "Activity not sequence."
@@ -126,8 +126,8 @@
    "q": "Transcription factors:",
    "o": [
     "Digest proteins",
-    "Copy DNA",
     "Carry amino acids",
+    "Copy DNA",
     "Bind DNA to control genes"
    ],
    "a": 3,
@@ -147,10 +147,10 @@
   {
    "q": "The Dutch Hunger Winter study suggested:",
    "o": [
-    "No effect",
-    "Early nutrition leaves lasting marks",
     "Faster ageing only",
-    "Mutation"
+    "Early nutrition leaves lasting marks",
+    "Mutation",
+    "No effect"
    ],
    "a": 1,
    "w": "Epigenetic effect."
@@ -160,8 +160,8 @@
    "o": [
     "DNA bases",
     "Proteins DNA wraps around",
-    "Lipids",
-    "Enzymes"
+    "Enzymes",
+    "Lipids"
    ],
    "a": 1,
    "w": "Packaging proteins."

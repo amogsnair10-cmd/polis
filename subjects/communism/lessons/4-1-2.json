@@ -54,12 +54,12 @@
   {
    "q": "Che's Guerrilla Warfare appeared in",
    "o": [
-    "1952",
-    "1967",
+    "1953",
     "1960",
-    "1953"
+    "1967",
+    "1952"
    ],
-   "a": 2,
+   "a": 1,
    "w": "In Cuba."
   },
   {
@@ -67,8 +67,8 @@
    "o": [
     "Parties must come first",
     "A small armed group can create revolutionary conditions",
-    "Cities must rise first",
-    "Elections suffice"
+    "Elections suffice",
+    "Cities must rise first"
    ],
    "a": 1,
    "w": "Insurrection creates conditions."
@@ -76,8 +76,8 @@
   {
    "q": "Who systematised foquismo in Revolution in the Revolution?",
    "o": [
-    "Sartre",
     "Castro",
+    "Sartre",
     "Marighella",
     "Régis Debray"
    ],
@@ -88,53 +88,53 @@
    "q": "Che was killed in",
    "o": [
     "Cuba, 1959",
+    "Argentina, 1970",
     "Congo, 1965",
-    "Bolivia, 1967",
-    "Argentina, 1970"
+    "Bolivia, 1967"
    ],
-   "a": 2,
+   "a": 3,
    "w": "La Higuera."
   },
   {
    "q": "Che's message called for",
    "o": [
-    "A Third International",
     "Socialism in one country",
+    "Two, three, many Vietnams",
     "A popular front",
-    "Two, three, many Vietnams"
+    "A Third International"
    ],
-   "a": 3,
+   "a": 1,
    "w": "1967."
   },
   {
    "q": "Che's \"new man\" relied on",
    "o": [
-    "Wage competition",
-    "Private profit",
+    "Moral incentives",
     "Foreign aid",
-    "Moral incentives"
+    "Private profit",
+    "Wage competition"
    ],
-   "a": 3,
+   "a": 0,
    "w": "Man and Socialism in Cuba."
   },
   {
    "q": "Che went to which country in 1965 before Bolivia?",
    "o": [
-    "Congo",
+    "Algeria",
     "Angola",
     "Egypt",
-    "Algeria"
+    "Congo"
    ],
-   "a": 0,
+   "a": 3,
    "w": "To support rebels."
   },
   {
    "q": "Argentina's guerrilla groups included",
    "o": [
     "Montoneros",
-    "Tupamaros",
     "FARC",
-    "Shining Path"
+    "Shining Path",
+    "Tupamaros"
    ],
    "a": 0,
    "w": "Defeated by the junta."
@@ -142,21 +142,21 @@
   {
    "q": "The Naxalites' approach is compared with",
    "o": [
+    "Foco and Mao",
     "Social democracy",
     "Eurocommunism",
-    "Foco and Mao",
     "Fabianism"
    ],
-   "a": 2,
+   "a": 0,
    "w": "Armed squads."
   },
   {
    "q": "Che visited India in",
    "o": [
+    "1975",
     "1947",
-    "1967",
     "1959",
-    "1975"
+    "1967"
    ],
    "a": 2,
    "w": "Met Nehru."

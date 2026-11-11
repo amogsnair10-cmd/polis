@@ -59,53 +59,53 @@
   {
    "q": "Ocean currents in the northern hemisphere flow mainly",
    "o": [
-    "Clockwise",
     "Anticlockwise",
+    "Clockwise",
     "Randomly",
     "North to south only"
    ],
-   "a": 0,
+   "a": 1,
    "w": "Coriolis deflects them to the right."
   },
   {
    "q": "Which is a cold current?",
    "o": [
     "Gulf Stream",
-    "Kuroshio",
+    "Humboldt",
     "Brazil",
-    "Humboldt"
+    "Kuroshio"
    ],
-   "a": 3,
+   "a": 1,
    "w": "It flows north along Peru and Chile."
   },
   {
    "q": "Fog off Newfoundland arises where",
    "o": [
     "Humboldt meets Kuroshio",
-    "Labrador and Gulf Stream meet",
     "Agulhas meets Canary",
+    "Labrador and Gulf Stream meet",
     "Oyashio meets Benguela"
    ],
-   "a": 1,
+   "a": 2,
    "w": "Cold and warm waters mix."
   },
   {
    "q": "Namib desert is linked to the",
    "o": [
-    "Agulhas current",
-    "Benguela current",
+    "Brazil current",
     "Mozambique current",
-    "Brazil current"
+    "Benguela current",
+    "Agulhas current"
    ],
-   "a": 1,
+   "a": 2,
    "w": "A cold current cools air and prevents rain."
   },
   {
    "q": "Spring tides occur",
    "o": [
     "At quarter moons",
-    "At perigee only",
     "At sunrise",
+    "At perigee only",
     "At new and full moon"
    ],
    "a": 3,
@@ -115,9 +115,9 @@
    "q": "Seasonally reversing currents are a feature of the",
    "o": [
     "Northern Indian Ocean",
-    "North Atlantic",
+    "Arctic",
     "South Pacific",
-    "Arctic"
+    "North Atlantic"
    ],
    "a": 0,
    "w": "The monsoon reverses the wind and so the drift."
@@ -125,43 +125,43 @@
   {
    "q": "UNCLOS gives an EEZ of",
    "o": [
-    "12 nautical miles",
-    "24 nautical miles",
     "200 nautical miles",
-    "350 nautical miles"
+    "12 nautical miles",
+    "350 nautical miles",
+    "24 nautical miles"
    ],
-   "a": 2,
+   "a": 0,
    "w": "Territorial sea is 12; contiguous zone 24."
   },
   {
    "q": "Largest offshore oil field in India is",
    "o": [
-    "Krishna-Godavari",
+    "Mumbai High",
     "Rajasthan Barmer",
-    "Assam Digboi",
-    "Mumbai High"
+    "Krishna-Godavari",
+    "Assam Digboi"
    ],
-   "a": 3,
+   "a": 0,
    "w": "It lies off Mumbai in the Arabian Sea."
   },
   {
    "q": "Highest tidal range in the world is in the",
    "o": [
-    "Bay of Fundy",
     "Gulf of Mexico",
+    "Bay of Fundy",
     "Bay of Bengal",
     "North Sea"
    ],
-   "a": 0,
+   "a": 1,
    "w": "Funnel shape magnifies tides."
   },
   {
    "q": "Warm North Atlantic Drift mainly benefits",
    "o": [
-    "Eastern Canada",
+    "Brazil",
     "West Africa",
     "North-west Europe",
-    "Brazil"
+    "Eastern Canada"
    ],
    "a": 2,
    "w": "It keeps Norwegian ports ice-free."

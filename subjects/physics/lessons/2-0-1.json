@@ -59,12 +59,12 @@
   {
    "q": "One volt equals",
    "o": [
-    "One joule per coulomb",
-    "One coulomb per second",
     "One newton per metre",
-    "One watt per ampere squared"
+    "One watt per ampere squared",
+    "One coulomb per second",
+    "One joule per coulomb"
    ],
-   "a": 0,
+   "a": 3,
    "w": "V = U/q."
   },
   {
@@ -72,8 +72,8 @@
    "o": [
     "Henry",
     "Farad",
-    "Tesla",
-    "Ohm"
+    "Ohm",
+    "Tesla"
    ],
    "a": 1,
    "w": "Named after Faraday."
@@ -81,54 +81,54 @@
   {
    "q": "A 5 microfarad capacitor is charged to 10 V. Charge stored?",
    "o": [
-    "50 microcoulomb",
     "2 microcoulomb",
+    "15 microcoulomb",
     "0.5 coulomb",
-    "15 microcoulomb"
+    "50 microcoulomb"
    ],
-   "a": 0,
+   "a": 3,
    "w": "Q = CV."
   },
   {
    "q": "Energy stored in a capacitor is",
    "o": [
+    "Q / V",
     "C V",
     "(1/2) C V squared",
-    "Q / V",
     "C / V squared"
    ],
-   "a": 1,
+   "a": 2,
    "w": "U = (1/2) C V squared."
   },
   {
    "q": "In a uniform field, 100 V across 0.5 m gives E =",
    "o": [
-    "50 V/m",
-    "200 V/m",
     "100.5 V/m",
-    "0.005 V/m"
+    "0.005 V/m",
+    "200 V/m",
+    "50 V/m"
    ],
-   "a": 1,
+   "a": 2,
    "w": "100/0.5."
   },
   {
    "q": "Two 4 microfarad capacitors in parallel give",
    "o": [
-    "2",
     "4",
     "8",
-    "16"
+    "16",
+    "2"
    ],
-   "a": 2,
+   "a": 1,
    "w": "Parallel adds."
   },
   {
    "q": "Two 4 microfarad capacitors in series give",
    "o": [
     "2",
+    "4",
     "8",
-    "16",
-    "4"
+    "16"
    ],
    "a": 0,
    "w": "1/C = 1/4 + 1/4."
@@ -136,21 +136,21 @@
   {
    "q": "Moving a charge along an equipotential surface requires",
    "o": [
-    "Maximum work",
     "No work",
     "Negative work",
+    "Maximum work",
     "Infinite work"
    ],
-   "a": 1,
+   "a": 0,
    "w": "Potential difference is zero."
   },
   {
    "q": "Increasing plate area of a parallel-plate capacitor",
    "o": [
     "Raises C",
+    "Makes C zero",
     "Lowers C",
-    "Leaves C same",
-    "Makes C zero"
+    "Leaves C same"
    ],
    "a": 0,
    "w": "C is proportional to A."

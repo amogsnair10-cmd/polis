@@ -59,10 +59,10 @@
   {
    "q": "Fermions:",
    "o": [
-    "Carry no mass",
-    "Cannot share the same quantum state",
     "Have whole-number spin",
-    "Always share a state"
+    "Cannot share the same quantum state",
+    "Always share a state",
+    "Carry no mass"
    ],
    "a": 1,
    "w": "Pauli exclusion."
@@ -71,9 +71,9 @@
    "q": "Which of these is a boson?",
    "o": [
     "Neutron",
-    "Electron",
+    "Proton",
     "Photon",
-    "Proton"
+    "Electron"
    ],
    "a": 2,
    "w": "Spin 1."
@@ -81,21 +81,21 @@
   {
    "q": "Helium-4 is a boson because it has:",
    "o": [
+    "No nucleus",
     "An even number of fermions",
     "An odd number of fermions",
-    "No nucleus",
     "No electrons"
    ],
-   "a": 0,
+   "a": 1,
    "w": "Six fermions makes a whole-number spin."
   },
   {
    "q": "A Bose-Einstein condensate was first made in:",
    "o": [
     "1995",
-    "2012",
     "1957",
-    "1924"
+    "1924",
+    "2012"
    ],
    "a": 0,
    "w": "Cornell, Wieman and Ketterle."
@@ -103,32 +103,32 @@
   {
    "q": "Who first made a rubidium BEC?",
    "o": [
+    "Raman and Bose",
     "Planck and Bohr",
     "Cornell and Wieman",
-    "Dirac and Fermi",
-    "Raman and Bose"
+    "Dirac and Fermi"
    ],
-   "a": 1,
+   "a": 2,
    "w": "At JILA, Boulder."
   },
   {
    "q": "Who named the two particle families after Bose and Fermi?",
    "o": [
-    "Heisenberg",
     "Paul Dirac",
     "Chandrasekhar",
+    "Heisenberg",
     "Einstein"
    ],
-   "a": 1,
+   "a": 0,
    "w": "Boson and fermion."
   },
   {
    "q": "What holds up a white dwarf?",
    "o": [
     "Electron degeneracy pressure",
+    "Magnetism",
     "Nuclear fusion",
-    "Heat alone",
-    "Magnetism"
+    "Heat alone"
    ],
    "a": 0,
    "w": "From the exclusion principle."
@@ -137,29 +137,29 @@
    "q": "The Chandrasekhar limit is about:",
    "o": [
     "100 solar masses",
-    "1.4 solar masses",
     "0.1 solar masses",
+    "1.4 solar masses",
     "10 solar masses"
    ],
-   "a": 1,
+   "a": 2,
    "w": "Above this a white dwarf collapses."
   },
   {
    "q": "Superfluid helium-4 appears below about:",
    "o": [
-    "2.17 K",
-    "100 K",
     "1000 K",
-    "273 K"
+    "100 K",
+    "273 K",
+    "2.17 K"
    ],
-   "a": 0,
+   "a": 3,
    "w": "Seen in 1937-38."
   },
   {
    "q": "Who derived Planck's law by counting identical light quanta?",
    "o": [
-    "Max Born",
     "Raman",
+    "Max Born",
     "S.N. Bose, 1924",
     "Fermi"
    ],

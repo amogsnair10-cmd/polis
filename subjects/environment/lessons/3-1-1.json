@@ -59,10 +59,10 @@
   {
    "q": "Where was COP29 held?",
    "o": [
+    "Glasgow",
     "Dubai",
-    "Belém",
     "Baku",
-    "Glasgow"
+    "Belém"
    ],
    "a": 2,
    "w": "COP29 in Azerbaijan set the NCQG."
@@ -70,100 +70,100 @@
   {
    "q": "The NCQG goal for developed countries is:",
    "o": [
-    "$100 billion a year by 2020",
     "$300 billion a year by 2035",
-    "$1.3 trillion by 2030",
-    "$500 billion by 2030"
+    "$500 billion by 2030",
+    "$100 billion a year by 2020",
+    "$1.3 trillion by 2030"
    ],
-   "a": 1,
+   "a": 0,
    "w": "The $1.3 trillion is a wider aim."
   },
   {
    "q": "Which COP launched the Loss and Damage Fund?",
    "o": [
-    "COP28 Dubai",
     "COP26 Glasgow",
     "COP27 Egypt",
-    "COP24 Katowice"
+    "COP24 Katowice",
+    "COP28 Dubai"
    ],
-   "a": 0,
+   "a": 3,
    "w": "It was operationalised at COP28."
   },
   {
    "q": "COP30 was held in:",
    "o": [
+    "Belém, Brazil",
     "Antalya, Türkiye",
     "Baku, Azerbaijan",
-    "Sharm el-Sheikh",
-    "Belém, Brazil"
+    "Sharm el-Sheikh"
    ],
-   "a": 3,
+   "a": 0,
    "w": "In the Amazon region, November 2025."
   },
   {
    "q": "The Green Climate Fund is headquartered at:",
    "o": [
-    "Geneva",
+    "Nairobi",
     "Bonn",
-    "Songdo, South Korea",
-    "Nairobi"
+    "Geneva",
+    "Songdo, South Korea"
    ],
-   "a": 2,
+   "a": 3,
    "w": "It was created at COP16 Cancun."
   },
   {
    "q": "COP31 is scheduled to be hosted by:",
    "o": [
     "Australia",
+    "Brazil",
     "Türkiye",
-    "India",
-    "Brazil"
+    "India"
    ],
-   "a": 1,
+   "a": 2,
    "w": "Antalya; Australia leads the negotiations under the arrangement."
   },
   {
    "q": "CBAM is a trade measure of the:",
    "o": [
-    "European Union",
     "United States",
+    "European Union",
     "China",
     "Japan"
    ],
-   "a": 0,
+   "a": 1,
    "w": "A carbon border tax."
   },
   {
    "q": "GEF was established in:",
    "o": [
     "2010",
-    "2015",
+    "1991",
     "1972",
-    "1991"
+    "2015"
    ],
-   "a": 3,
+   "a": 1,
    "w": "It serves several conventions."
   },
   {
    "q": "The $100 billion a year promise was made at:",
    "o": [
-    "Paris, 2015",
     "Kyoto, 1997",
     "Copenhagen, 2009",
+    "Paris, 2015",
     "Rio, 1992"
    ],
-   "a": 2,
+   "a": 1,
    "w": "Reaffirmed at Cancun."
   },
   {
    "q": "COP30’s decision text was called the:",
    "o": [
-    "Belém Treaty",
     "Global Mutirão",
-    "Amazon Pact",
-    "Baku Dialogue"
+    "Baku Dialogue",
+    "Belém Treaty",
+    "Amazon Pact"
    ],
-   "a": 1,
+   "a": 0,
    "w": "Mutirão means collective effort."
   }
  ],

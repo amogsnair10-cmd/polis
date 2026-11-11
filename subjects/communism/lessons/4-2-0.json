@@ -56,29 +56,29 @@
    "o": [
     "1925",
     "1947",
-    "1920",
-    "1964"
+    "1964",
+    "1920"
    ],
-   "a": 2,
+   "a": 3,
    "w": "Moscow and Petrograd."
   },
   {
    "q": "The first elected communist ministry in India took office in",
    "o": [
     "West Bengal, 1977",
-    "Tripura, 1978",
     "Kerala, 1957",
+    "Tripura, 1978",
     "Andhra, 1946"
    ],
-   "a": 2,
+   "a": 1,
    "w": "E.M.S. Namboodiripad."
   },
   {
    "q": "The Left Front ruled West Bengal for",
    "o": [
-    "10 years",
-    "52 years",
     "5 years",
+    "52 years",
+    "10 years",
     "34 years"
    ],
    "a": 3,
@@ -88,42 +88,42 @@
    "q": "Operation Barga concerned",
    "o": [
     "Nationalising industry",
-    "Banning strikes",
     "Registering sharecroppers",
-    "Collectivising farms"
+    "Collectivising farms",
+    "Banning strikes"
    ],
-   "a": 2,
+   "a": 1,
    "w": "West Bengal."
   },
   {
    "q": "The CPI split into CPI and CPI(M) in",
    "o": [
+    "1925",
     "1964",
     "1947",
-    "1925",
     "1977"
    ],
-   "a": 0,
+   "a": 1,
    "w": "Over the Congress and China."
   },
   {
    "q": "The Telangana struggle was against",
    "o": [
-    "The British",
-    "The Nizam and landlords",
     "Japan",
-    "The Mughals"
+    "The Mughals",
+    "The British",
+    "The Nizam and landlords"
    ],
-   "a": 1,
+   "a": 3,
    "w": "1946-51."
   },
   {
    "q": "Who led the \"insurrectionary\" line of 1948-50?",
    "o": [
-    "S.A. Dange",
     "M.N. Roy",
+    "Jyoti Basu",
     "B.T. Ranadive",
-    "Jyoti Basu"
+    "S.A. Dange"
    ],
    "a": 2,
    "w": "The Ranadive line."
@@ -131,31 +131,31 @@
   {
    "q": "Nandigram and Singur were linked to",
    "o": [
-    "Caste conflicts",
     "Language riots",
-    "Elections",
-    "Land acquisition for industry"
+    "Caste conflicts",
+    "Land acquisition for industry",
+    "Elections"
    ],
-   "a": 3,
+   "a": 2,
    "w": "2006-07."
   },
   {
    "q": "Kerala's first ministry was dismissed by the Centre in",
    "o": [
-    "1957",
-    "1977",
     "1959",
-    "1964"
+    "1977",
+    "1964",
+    "1957"
    ],
-   "a": 2,
+   "a": 0,
    "w": "Under Article 356."
   },
   {
    "q": "Which party defines its goal as a \"People's Democracy\"?",
    "o": [
-    "CPI",
-    "CPI(M)",
     "INC",
+    "CPI(M)",
+    "CPI",
     "BJP"
    ],
    "a": 1,

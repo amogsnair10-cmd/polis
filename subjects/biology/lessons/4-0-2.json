@@ -65,9 +65,9 @@
    "q": "Largest phylum of animals:",
    "o": [
     "Arthropoda",
-    "Chordata",
     "Annelida",
-    "Mollusca"
+    "Mollusca",
+    "Chordata"
    ],
    "a": 0,
    "w": "Arthropods."
@@ -86,8 +86,8 @@
   {
    "q": "Which has a notochord?",
    "o": [
-    "Sponges",
     "Echinoderms",
+    "Sponges",
     "Worms",
     "Chordates"
    ],
@@ -97,10 +97,10 @@
   {
    "q": "Spiders have:",
    "o": [
-    "4 legs",
+    "6 legs",
     "8 legs",
     "10 legs",
-    "6 legs"
+    "4 legs"
    ],
    "a": 1,
    "w": "Arachnids."
@@ -108,9 +108,9 @@
   {
    "q": "Amphibian example:",
    "o": [
-    "Crocodile",
     "Snake",
     "Lizard",
+    "Crocodile",
     "Frog"
    ],
    "a": 3,
@@ -119,10 +119,10 @@
   {
    "q": "Waggle dance was decoded by:",
    "o": [
-    "Ali",
+    "Linnaeus",
     "Von Frisch",
     "Cuvier",
-    "Linnaeus"
+    "Ali"
    ],
    "a": 1,
    "w": "Nobel 1973."
@@ -141,10 +141,10 @@
   {
    "q": "Salim Ali wrote:",
    "o": [
-    "Gir Lions",
+    "Birds of Asia",
     "Wild India",
     "Book of Indian Birds",
-    "Birds of Asia"
+    "Gir Lions"
    ],
    "a": 2,
    "w": "1941."
@@ -152,10 +152,10 @@
   {
    "q": "Marsupials include:",
    "o": [
-    "Dog",
     "Bat",
+    "Platypus",
     "Kangaroo",
-    "Platypus"
+    "Dog"
    ],
    "a": 2,
    "w": "Pouch."
@@ -163,10 +163,10 @@
   {
    "q": "Starfish belong to:",
    "o": [
-    "Mollusca",
+    "Fish",
     "Echinodermata",
     "Cnidaria",
-    "Fish"
+    "Mollusca"
    ],
    "a": 1,
    "w": "Spiny skin."

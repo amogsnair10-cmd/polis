@@ -54,97 +54,97 @@
   {
    "q": "The last Western emperor was...",
    "o": [
-    "Constantine",
-    "Odoacer",
     "Romulus Augustulus",
-    "Nero"
+    "Constantine",
+    "Nero",
+    "Odoacer"
    ],
-   "a": 2,
+   "a": 0,
    "w": "Deposed in 476 CE."
   },
   {
    "q": "Who deposed him?",
    "o": [
-    "Odoacer",
     "Alaric",
     "Attila",
-    "Valens"
+    "Valens",
+    "Odoacer"
    ],
-   "a": 0,
+   "a": 3,
    "w": "A Germanic general."
   },
   {
    "q": "Who sacked Rome in 410 CE?",
    "o": [
-    "Attila",
-    "Hannibal",
     "Caesar",
-    "Alaric"
+    "Alaric",
+    "Hannibal",
+    "Attila"
    ],
-   "a": 3,
+   "a": 1,
    "w": "A Visigoth king."
   },
   {
    "q": "Constantinople was founded in...",
    "o": [
-    "476 CE",
-    "330 CE",
     "27 BCE",
-    "1453 CE"
+    "1453 CE",
+    "476 CE",
+    "330 CE"
    ],
-   "a": 1,
+   "a": 3,
    "w": "By Constantine."
   },
   {
    "q": "At Adrianople (378) the Goths killed...",
    "o": [
-    "Emperor Valens",
     "Constantine",
     "Augustus",
-    "Odoacer"
+    "Odoacer",
+    "Emperor Valens"
    ],
-   "a": 0,
+   "a": 3,
    "w": "A shock defeat."
   },
   {
    "q": "Gibbon's famous work was published from...",
    "o": [
     "1476",
-    "1876",
+    "1776",
     "1066",
-    "1776"
+    "1876"
    ],
-   "a": 3,
+   "a": 1,
    "w": "The Decline and Fall."
   },
   {
    "q": "Who argued 'late antiquity' was a transformation?",
    "o": [
-    "Bryan Ward-Perkins",
-    "Peter Brown",
+    "Cline",
     "Gibbon",
-    "Cline"
+    "Bryan Ward-Perkins",
+    "Peter Brown"
    ],
-   "a": 1,
+   "a": 3,
    "w": "Brown's The World of Late Antiquity (1971)."
   },
   {
    "q": "The Eastern Empire lasted until...",
    "o": [
-    "476",
-    "800",
     "1453",
-    "1204"
+    "476",
+    "1204",
+    "800"
    ],
-   "a": 2,
+   "a": 0,
    "w": "When Constantinople fell."
   },
   {
    "q": "A Gupta king who repelled the Huns...",
    "o": [
-    "Chandragupta I",
-    "Harsha",
     "Ashoka",
+    "Harsha",
+    "Chandragupta I",
     "Skandagupta"
    ],
    "a": 3,
@@ -153,12 +153,12 @@
   {
    "q": "The Hephthalites are linked to...",
    "o": [
-    "The Huns in India",
-    "The Vikings",
+    "The Romans",
     "The Mongols",
-    "The Romans"
+    "The Vikings",
+    "The Huns in India"
    ],
-   "a": 0,
+   "a": 3,
    "w": "Alchon Huns attacked the Guptas."
   }
  ],

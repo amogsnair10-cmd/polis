@@ -59,9 +59,9 @@
   {
    "q": "In Newton's law, if distance between two masses doubles, force becomes",
    "o": [
-    "Half",
-    "One-quarter",
     "Double",
+    "One-quarter",
+    "Half",
     "Four times"
    ],
    "a": 1,
@@ -70,12 +70,12 @@
   {
    "q": "Who first measured the gravitational constant G in the laboratory?",
    "o": [
-    "Galileo",
-    "Kepler",
     "Cavendish",
-    "Newton"
+    "Newton",
+    "Galileo",
+    "Kepler"
    ],
-   "a": 2,
+   "a": 0,
    "w": "Henry Cavendish, 1798."
   },
   {
@@ -92,65 +92,65 @@
   {
    "q": "Kepler's third law links",
    "o": [
+    "Force and time",
     "Period squared and distance cubed",
     "Speed and mass",
-    "Force and time",
     "Mass and radius"
    ],
-   "a": 0,
+   "a": 1,
    "w": "T squared is proportional to r cubed."
   },
   {
    "q": "Near Earth's surface the orbital speed is about",
    "o": [
-    "1.1 km/s",
     "11.2 km/s",
-    "7.9 km/s",
-    "30 km/s"
+    "1.1 km/s",
+    "30 km/s",
+    "7.9 km/s"
    ],
-   "a": 2,
+   "a": 3,
    "w": "About 7.9 km/s."
   },
   {
    "q": "Escape velocity from Earth is about",
    "o": [
     "7.9 km/s",
-    "11.2 km/s",
+    "1 km/s",
     "300 km/s",
-    "1 km/s"
+    "11.2 km/s"
    ],
-   "a": 1,
+   "a": 3,
    "w": "11.2 km/s."
   },
   {
    "q": "Astronauts on the ISS float because",
    "o": [
-    "There is no gravity there",
     "They are in continuous free fall",
-    "Air supports them",
-    "They are too far from Earth"
+    "There is no gravity there",
+    "They are too far from Earth",
+    "Air supports them"
    ],
-   "a": 1,
+   "a": 0,
    "w": "Gravity is still about 90% of surface value."
   },
   {
    "q": "At height R above the surface (r = 2R), g is about (surface g = 10)",
    "o": [
-    "10",
     "5",
-    "2.5",
-    "20"
+    "10",
+    "20",
+    "2.5"
    ],
-   "a": 2,
+   "a": 3,
    "w": "10/4."
   },
   {
    "q": "A geostationary satellite orbits once every",
    "o": [
-    "90 minutes",
+    "27 days",
     "12 hours",
     "24 hours",
-    "27 days"
+    "90 minutes"
    ],
    "a": 2,
    "w": "Matches Earth's rotation."
@@ -158,12 +158,12 @@
   {
    "q": "India's first satellite, Aryabhata, was launched in",
    "o": [
+    "2008",
     "1957",
-    "1975",
     "1984",
-    "2008"
+    "1975"
    ],
-   "a": 1,
+   "a": 3,
    "w": "19 April 1975."
   }
  ],

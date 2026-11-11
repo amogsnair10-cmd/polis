@@ -54,12 +54,12 @@
   {
    "q": "The Great Leap Forward began in",
    "o": [
-    "1949",
+    "1958",
     "1966",
     "1978",
-    "1958"
+    "1949"
    ],
-   "a": 3,
+   "a": 0,
    "w": "Second Five-Year Plan."
   },
   {
@@ -76,45 +76,45 @@
   {
    "q": "Yang Jisheng's Tombstone estimates famine deaths of about",
    "o": [
-    "3 million",
-    "36 million",
     "70 million",
-    "1 million"
+    "3 million",
+    "1 million",
+    "36 million"
    ],
-   "a": 1,
+   "a": 3,
    "w": "Published 2008."
   },
   {
    "q": "Frank Dikötter's estimate of famine deaths is about",
    "o": [
-    "5 million",
-    "10 million",
     "100 million",
-    "45 million"
+    "45 million",
+    "10 million",
+    "5 million"
    ],
-   "a": 3,
+   "a": 1,
    "w": "Mao's Great Famine (2010)."
   },
   {
    "q": "The Red Guards were",
    "o": [
-    "Soldiers",
     "Party officials",
-    "Students mobilised by Mao",
-    "Peasant militias"
+    "Peasant militias",
+    "Soldiers",
+    "Students mobilised by Mao"
    ],
-   "a": 2,
+   "a": 3,
    "w": "1966."
   },
   {
    "q": "Liu Shaoqi was labelled a",
    "o": [
-    "Trotskyist",
-    "Revisionist general",
+    "Anarchist",
     "Capitalist roader",
-    "Anarchist"
+    "Revisionist general",
+    "Trotskyist"
    ],
-   "a": 2,
+   "a": 1,
    "w": "Died in custody 1969."
   },
   {
@@ -131,34 +131,34 @@
   {
    "q": "The 1981 Resolution judged Mao",
    "o": [
-    "Wholly right",
-    "Gross mistakes but mainly correct",
+    "A traitor",
     "Wholly wrong",
-    "A traitor"
+    "Gross mistakes but mainly correct",
+    "Wholly right"
    ],
-   "a": 1,
+   "a": 2,
    "w": "On Party history."
   },
   {
    "q": "Sen and Drèze compared India and China in",
    "o": [
-    "The Argumentative Indian",
     "Poverty and Famines (1981) alone",
     "Development as Freedom (1999) alone",
-    "Hunger and Public Action (1989)"
+    "Hunger and Public Action (1989)",
+    "The Argumentative Indian"
    ],
-   "a": 3,
+   "a": 2,
    "w": "1989."
   },
   {
    "q": "The people's commune brought",
    "o": [
+    "Tenant farming",
     "Communal kitchens and collective work",
-    "Private markets",
     "Foreign investment",
-    "Tenant farming"
+    "Private markets"
    ],
-   "a": 0,
+   "a": 1,
    "w": "1958."
   }
  ],

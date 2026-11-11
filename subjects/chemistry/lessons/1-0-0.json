@@ -60,9 +60,9 @@
    "q": "Who established conservation of mass in 1789?",
    "o": [
     "Lavoisier",
-    "Proust",
     "Dalton",
-    "Avogadro"
+    "Avogadro",
+    "Proust"
    ],
    "a": 0,
    "w": "Lavoisier's work."
@@ -70,12 +70,12 @@
   {
    "q": "Balanced equation for hydrogen burning:",
    "o": [
-    "2H2 + O2 → 2H2O",
     "H2 + O2 → H2O",
-    "H2 + 2O2 → 2H2O",
-    "2H2 + 2O2 → 2H2O"
+    "2H2 + 2O2 → 2H2O",
+    "2H2 + O2 → 2H2O",
+    "H2 + 2O2 → 2H2O"
    ],
-   "a": 0,
+   "a": 2,
    "w": "4 H and 2 O each side."
   },
   {
@@ -103,43 +103,43 @@
   {
    "q": "Mass of water from 2 mol H2 reacting fully?",
    "o": [
-    "18 g",
     "36 g",
+    "72 g",
     "2 g",
-    "72 g"
+    "18 g"
    ],
-   "a": 1,
+   "a": 0,
    "w": "2 mol x 18."
   },
   {
    "q": "Limiting reagent is:",
    "o": [
-    "The one that runs out first",
+    "The catalyst",
     "The heavier reagent",
-    "The one in excess",
-    "The catalyst"
+    "The one that runs out first",
+    "The one in excess"
    ],
-   "a": 0,
+   "a": 2,
    "w": "It caps the product."
   },
   {
    "q": "Actual yield 40 g, theoretical 50 g. Percent yield?",
    "o": [
-    "80 percent",
+    "90 percent",
     "125 percent",
-    "20 percent",
-    "90 percent"
+    "80 percent",
+    "20 percent"
    ],
-   "a": 0,
+   "a": 2,
    "w": "40/50 x 100."
   },
   {
    "q": "In 2Mg + O2 → 2MgO, 24 g Mg (24 g/mol) gives how many g MgO (40 g/mol)?",
    "o": [
-    "24 g",
-    "40 g",
     "80 g",
-    "20 g"
+    "40 g",
+    "20 g",
+    "24 g"
    ],
    "a": 1,
    "w": "1 mol Mg gives 1 mol MgO."
@@ -148,22 +148,22 @@
    "q": "Proust's law says:",
    "o": [
     "Mass is conserved",
+    "Atoms are divisible",
     "Gases combine in whole volumes",
-    "Compounds have fixed element ratios",
-    "Atoms are divisible"
+    "Compounds have fixed element ratios"
    ],
-   "a": 2,
+   "a": 3,
    "w": "Constant composition."
   },
   {
    "q": "Sindri fertiliser plant began production in:",
    "o": [
+    "1975",
     "1951",
     "1901",
-    "1975",
     "1991"
    ],
-   "a": 0,
+   "a": 1,
    "w": "First big public-sector fertiliser plant."
   }
  ],

@@ -60,86 +60,86 @@
    "q": "The Carnatic Trinity includes",
    "o": [
     "Purandara Dasa, Tansen and Haridas",
+    "Tyagaraja, Muthuswami Dikshitar and Shyama Shastri",
     "Tyagaraja, Tansen and Haridas",
-    "Annamacharya, Kshetrayya and Jayadeva",
-    "Tyagaraja, Muthuswami Dikshitar and Shyama Shastri"
+    "Annamacharya, Kshetrayya and Jayadeva"
    ],
-   "a": 3,
+   "a": 1,
    "w": "They lived in Thanjavur region in the 18th and 19th centuries."
   },
   {
    "q": "Who is called the father of Carnatic music?",
    "o": [
-    "Tyagaraja",
-    "Tansen",
     "Purandara Dasa",
-    "Amir Khusrau"
+    "Tyagaraja",
+    "Amir Khusrau",
+    "Tansen"
    ],
-   "a": 2,
+   "a": 0,
    "w": "A Haridasa saint of Karnataka."
   },
   {
    "q": "Dhrupad was patronised by",
    "o": [
     "Aurangzeb",
-    "Man Singh Tomar of Gwalior",
     "Jahangir",
-    "Shah Jahan"
+    "Shah Jahan",
+    "Man Singh Tomar of Gwalior"
    ],
-   "a": 1,
+   "a": 3,
    "w": "Dhrupad flourished in his court."
   },
   {
    "q": "Tansen was a musician in the court of",
    "o": [
-    "Akbar",
-    "Babur",
     "Humayun",
-    "Shah Jahan"
+    "Shah Jahan",
+    "Akbar",
+    "Babur"
    ],
-   "a": 0,
+   "a": 2,
    "w": "One of the navaratnas."
   },
   {
    "q": "Kutiyattam is a theatre form of",
    "o": [
-    "Karnataka",
     "Tamil Nadu",
-    "Odisha",
-    "Kerala"
+    "Kerala",
+    "Karnataka",
+    "Odisha"
    ],
-   "a": 3,
+   "a": 1,
    "w": "It is Sanskrit theatre."
   },
   {
    "q": "Mudrarakshasa was written by",
    "o": [
-    "Kalidasa",
-    "Shudraka",
     "Vishakhadatta",
-    "Bhasa"
+    "Kalidasa",
+    "Bhasa",
+    "Shudraka"
    ],
-   "a": 2,
+   "a": 0,
    "w": "A political drama about Chanakya."
   },
   {
    "q": "Jatra is a folk theatre of",
    "o": [
-    "Gujarat",
     "Bengal",
     "Rajasthan",
+    "Gujarat",
     "Assam"
    ],
-   "a": 1,
+   "a": 0,
    "w": "Often also Odisha."
   },
   {
    "q": "The National School of Drama was set up in",
    "o": [
     "1959",
-    "1947",
+    "1975",
     "1953",
-    "1975"
+    "1947"
    ],
    "a": 0,
    "w": "First led by Ebrahim Alkazi."
@@ -147,9 +147,9 @@
   {
    "q": "Sangita Ratnakara was written by",
    "o": [
-    "Bharata",
-    "Abhinavagupta",
     "Venkatamakhin",
+    "Abhinavagupta",
+    "Bharata",
     "Sharngadeva"
    ],
    "a": 3,
@@ -158,10 +158,10 @@
   {
    "q": "IPTA stands for",
    "o": [
+    "International Performing Theatre Association",
     "Indian Performing Theatre Academy",
-    "Indian Poets and Theatre Alliance",
     "Indian People’s Theatre Association",
-    "International Performing Theatre Association"
+    "Indian Poets and Theatre Alliance"
    ],
    "a": 2,
    "w": "It was formed in 1943."

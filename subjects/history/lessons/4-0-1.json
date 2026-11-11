@@ -54,56 +54,56 @@
   {
    "q": "The first general elections were held in",
    "o": [
-    "1947",
-    "1957",
     "1962",
-    "1951 to 52"
+    "1957",
+    "1951 to 52",
+    "1947"
    ],
-   "a": 3,
+   "a": 2,
    "w": "Chief Election Commissioner Sukumar Sen."
   },
   {
    "q": "The Planning Commission was set up in",
    "o": [
-    "1947",
-    "1956",
     "1950",
+    "1956",
+    "1947",
     "1961"
    ],
-   "a": 2,
+   "a": 0,
    "w": "A non-constitutional body."
   },
   {
    "q": "The Second Five-Year Plan emphasised",
    "o": [
+    "Export promotion",
     "Agriculture",
     "Heavy industry",
-    "Poverty removal",
-    "Export promotion"
+    "Poverty removal"
    ],
-   "a": 1,
+   "a": 2,
    "w": "Mahalanobis model."
   },
   {
    "q": "The Industrial Policy Resolution that made India a mixed economy was in",
    "o": [
-    "1956",
-    "1948",
     "1951",
-    "1969"
+    "1948",
+    "1969",
+    "1956"
    ],
-   "a": 0,
+   "a": 3,
    "w": "Public sector got a big role."
   },
   {
    "q": "Panchsheel was signed with China in",
    "o": [
-    "1947",
-    "1962",
+    "1954",
     "1971",
-    "1954"
+    "1962",
+    "1947"
    ],
-   "a": 3,
+   "a": 0,
    "w": "Five principles of peaceful coexistence."
   },
   {
@@ -120,34 +120,34 @@
   {
    "q": "Bhoodan was started by",
    "o": [
+    "J. P. Narayan",
     "Gandhi",
     "Vinoba Bhave",
-    "J. P. Narayan",
     "Nehru"
    ],
-   "a": 1,
+   "a": 2,
    "w": "In 1951 in Telangana."
   },
   {
    "q": "The Indus Waters Treaty was signed in",
    "o": [
-    "1960",
     "1948",
-    "1954",
-    "1965"
+    "1965",
+    "1960",
+    "1954"
    ],
-   "a": 0,
+   "a": 2,
    "w": "Between India and Pakistan with the World Bank."
   },
   {
    "q": "NITI Aayog replaced the Planning Commission in",
    "o": [
-    "2010",
-    "2004",
     "2019",
-    "2015"
+    "2015",
+    "2010",
+    "2004"
    ],
-   "a": 3,
+   "a": 1,
    "w": "On 1 January 2015."
   },
   {

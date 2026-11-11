@@ -59,34 +59,34 @@
   {
    "q": "What is a \"black body\"?",
    "o": [
-    "An ideal object that absorbs all light and glows with a pattern set only by temperature",
-    "An object that is always cold and dark",
     "Any black-coloured object",
+    "An object that is always cold and dark",
+    "An ideal object that absorbs all light and glows with a pattern set only by temperature",
     "A material that reflects all light"
    ],
-   "a": 0,
+   "a": 2,
    "w": "It absorbs everything, so its glow is purely thermal."
   },
   {
    "q": "What did classical physics wrongly predict for short wavelengths?",
    "o": [
-    "Zero light",
+    "Only red light",
     "Constant brightness",
-    "Unlimited energy output",
-    "Only red light"
+    "Zero light",
+    "Unlimited energy output"
    ],
-   "a": 2,
+   "a": 3,
    "w": "That is the ultraviolet catastrophe."
   },
   {
    "q": "Planck's 1900 rule says energy exchanges happen as:",
    "o": [
     "Continuous flow",
-    "Whole packets of size hf",
     "Random sizes",
-    "Packets of equal size for all colours"
+    "Packets of equal size for all colours",
+    "Whole packets of size hf"
    ],
-   "a": 1,
+   "a": 3,
    "w": "The packet size grows with frequency f."
   },
   {
@@ -94,19 +94,19 @@
    "o": [
     "Light cannot have high frequency",
     "They are absorbed by air",
-    "They travel faster",
-    "Each packet costs a lot of energy that is seldom available"
+    "Each packet costs a lot of energy that is seldom available",
+    "They travel faster"
    ],
-   "a": 3,
+   "a": 2,
    "w": "Big packets are expensive."
   },
   {
    "q": "What does the number h set?",
    "o": [
     "The size of the smallest energy step for a given frequency",
-    "The speed of light",
     "The temperature of the Sun",
-    "The mass of an electron"
+    "The mass of an electron",
+    "The speed of light"
    ],
    "a": 0,
    "w": "E = hf links the step to frequency."
@@ -125,45 +125,45 @@
   {
    "q": "Hotter bodies glow with a peak at:",
    "o": [
-    "Longer wavelengths",
+    "No peak",
     "The same wavelength",
-    "Shorter wavelengths",
-    "No peak"
+    "Longer wavelengths",
+    "Shorter wavelengths"
    ],
-   "a": 2,
+   "a": 3,
    "w": "This is Wien's displacement law."
   },
   {
    "q": "Which measurement is the closest-known real black body?",
    "o": [
-    "The cosmic microwave background (COBE)",
-    "A kitchen oven",
+    "A candle flame",
     "Sunlight on Earth",
-    "A candle flame"
+    "The cosmic microwave background (COBE)",
+    "A kitchen oven"
    ],
-   "a": 0,
+   "a": 2,
    "w": "COBE found a near-perfect 2.725 K Planck curve."
   },
   {
    "q": "What did S.N. Bose do in 1924?",
    "o": [
+    "Derived Planck's law by counting identical light quanta",
     "Discovered the electron",
     "Measured the CMB",
-    "Invented the laser",
-    "Derived Planck's law by counting identical light quanta"
+    "Invented the laser"
    ],
-   "a": 3,
+   "a": 0,
    "w": "Einstein championed and published it."
   },
   {
    "q": "Why do we not notice energy steps in daily life?",
    "o": [
-    "Steps only exist in space",
     "h is extremely small compared to everyday energies",
     "Energy is continuous at all scales",
+    "Steps only exist in space",
     "Our eyes are too slow"
    ],
-   "a": 1,
+   "a": 0,
    "w": "The steps are far too fine to notice."
   }
  ],

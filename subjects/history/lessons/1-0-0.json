@@ -59,21 +59,21 @@
   {
    "q": "The tripartite struggle was for control of",
    "o": [
-    "Delhi",
+    "Kannauj",
     "Ujjain",
     "Pataliputra",
-    "Kannauj"
+    "Delhi"
    ],
-   "a": 3,
+   "a": 0,
    "w": "Fought by Pratiharas, Palas and Rashtrakutas."
   },
   {
    "q": "The Kailasa temple at Ellora was built under the",
    "o": [
     "Palas",
-    "Cholas",
+    "Pallavas",
     "Rashtrakutas",
-    "Pallavas"
+    "Cholas"
    ],
    "a": 2,
    "w": "Krishna I."
@@ -82,11 +82,11 @@
    "q": "Prithviraj Chauhan lost to Muhammad of Ghor at",
    "o": [
     "First Tarain, 1191",
-    "Second Battle of Tarain, 1192",
     "Panipat, 1526",
+    "Second Battle of Tarain, 1192",
     "Plassey, 1757"
    ],
-   "a": 1,
+   "a": 2,
    "w": "He won the first battle in 1191."
   },
   {
@@ -103,21 +103,21 @@
   {
    "q": "The Uttaramerur inscriptions belong to the reign of",
    "o": [
-    "Rajaraja I",
-    "Rajendra I",
+    "Parantaka I",
     "Aditya I",
-    "Parantaka I"
+    "Rajendra I",
+    "Rajaraja I"
    ],
-   "a": 3,
+   "a": 0,
    "w": "They describe village assembly elections."
   },
   {
    "q": "Kitab-ul-Hind was written by",
    "o": [
+    "Fa-Hien",
     "Ibn Battuta",
-    "Hiuen Tsang",
     "Al-Biruni",
-    "Fa-Hien"
+    "Hiuen Tsang"
    ],
    "a": 2,
    "w": "He accompanied Mahmud of Ghazni."
@@ -125,31 +125,31 @@
   {
    "q": "The segmentary state theory is by",
    "o": [
+    "D. D. Kosambi",
     "R. S. Sharma",
     "Burton Stein",
-    "Romila Thapar",
-    "D. D. Kosambi"
+    "Romila Thapar"
    ],
-   "a": 1,
+   "a": 2,
    "w": "For the Chola state."
   },
   {
    "q": "Indian Feudalism (1965) was written by",
    "o": [
-    "R. S. Sharma",
-    "Burton Stein",
     "Irfan Habib",
-    "B. D. Chattopadhyaya"
+    "R. S. Sharma",
+    "B. D. Chattopadhyaya",
+    "Burton Stein"
    ],
-   "a": 0,
+   "a": 1,
    "w": "It argued land grants created feudalism."
   },
   {
    "q": "Which dynasty built the Hoysala temples at Belur and Halebid?",
    "o": [
     "Chalukyas",
-    "Kakatiyas",
     "Cholas",
+    "Kakatiyas",
     "Hoysalas"
    ],
    "a": 3,
@@ -158,12 +158,12 @@
   {
    "q": "The Aihole inscription praises the victory of",
    "o": [
-    "Rajaraja I over Sri Lanka",
     "Dharmapala over Pratiharas",
     "Pulakeshin II over Harsha",
+    "Rajaraja I over Sri Lanka",
     "Rajendra over Srivijaya"
    ],
-   "a": 2,
+   "a": 1,
    "w": "By the poet Ravikirti."
   }
  ],

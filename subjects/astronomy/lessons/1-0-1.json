@@ -6,7 +6,7 @@
   {
    "tag": "Why this matters",
    "h": "Four siblings, four different fates",
-   "b": "<p>Mercury, Venus, Earth and Mars formed from the same cloud, close to the Sun. Yet one is scorched, one is a greenhouse oven, one is alive and one is a frozen desert. Comparing them is how we learn what keeps a planet habitable, a question that matters for our own future and for exoplanets.</p><svg class=\"d\" viewBox=\"0 0 320 120\"><defs><marker id=\"ar1\" viewBox=\"0 0 10 10\" refX=\"9\" refY=\"5\" markerWidth=\"6\" markerHeight=\"6\" orient=\"auto\"><path d=\"M0 0L10 5L0 10z\" fill=\"#5d6474\"/></marker></defs><circle cx=\"40\" cy=\"55\" r=\"12\" fill=\"#f1e4c6\" stroke=\"#a8792a\"/><text x=\"40\" y=\"59\" text-anchor=\"middle\" font-size=\"10\" fill=\"#1d2433\">Mer</text><circle cx=\"110\" cy=\"55\" r=\"18\" fill=\"#f1e4c6\" stroke=\"#a8792a\"/><text x=\"110\" y=\"59\" text-anchor=\"middle\" font-size=\"10\" fill=\"#1d2433\">Ven</text><circle cx=\"190\" cy=\"55\" r=\"20\" fill=\"#dceaec\" stroke=\"#2f6f7a\"/><text x=\"190\" y=\"59\" text-anchor=\"middle\" font-size=\"10\" fill=\"#1d2433\">Earth</text><circle cx=\"270\" cy=\"55\" r=\"14\" fill=\"#f4dcd5\" stroke=\"#a3362a\"/><text x=\"270\" y=\"59\" text-anchor=\"middle\" font-size=\"10\" fill=\"#1d2433\">Mars</text><text x=\"160\" y=\"100\" text-anchor=\"middle\" font-size=\"9\" fill=\"#5d6474\">Not to scale. Sizes: Mercury 0.38, Venus 0.95, Earth 1, Mars 0.53</text></svg>"
+   "b": "<p>Mercury, Venus, Earth and Mars formed from the same cloud, close to the Sun. Yet one is scorched, one is a greenhouse oven, one is alive and one is a frozen desert. Comparing them is how we learn what keeps a planet habitable, a question that matters for our own future and for exoplanets.</p><svg class=\"d\" viewBox=\"0 0 320 120\"><defs><marker id=\"ar1\" viewBox=\"0 0 10 10\" refX=\"9\" refY=\"5\" markerWidth=\"6\" markerHeight=\"6\" orient=\"auto\"><path d=\"M0 0L10 5L0 10z\" fill=\"#5d6474\"/></marker></defs><circle cx=\"40\" cy=\"55\" r=\"12\" fill=\"#f1e4c6\" stroke=\"#a8792a\"/><text x=\"40\" y=\"59\" text-anchor=\"middle\" font-size=\"10\" fill=\"#1d2433\">Mer</text><circle cx=\"110\" cy=\"55\" r=\"18\" fill=\"#f1e4c6\" stroke=\"#a8792a\"/><text x=\"110\" y=\"59\" text-anchor=\"middle\" font-size=\"10\" fill=\"#1d2433\">Ven</text><circle cx=\"190\" cy=\"55\" r=\"20\" fill=\"#dceaec\" stroke=\"#2f6f7a\"/><text x=\"190\" y=\"59\" text-anchor=\"middle\" font-size=\"10\" fill=\"#1d2433\">Earth</text><circle cx=\"270\" cy=\"55\" r=\"14\" fill=\"#f4dcd5\" stroke=\"#a3362a\"/><text x=\"270\" y=\"59\" text-anchor=\"middle\" font-size=\"10\" fill=\"#1d2433\">Mars</text><text x=\"160\" y=\"100\" text-anchor=\"middle\" font-size=\"10\" fill=\"#5d6474\">Not to scale. Sizes: Mercury 0.38, Venus 0.95, Earth 1, Mars 0.53</text></svg>"
   },
   {
    "tag": "Concept",
@@ -59,20 +59,20 @@
   {
    "q": "Which planet is the hottest?",
    "o": [
+    "Earth",
     "Mercury",
     "Venus",
-    "Earth",
     "Mars"
    ],
-   "a": 1,
+   "a": 2,
    "w": "Venus's greenhouse effect."
   },
   {
    "q": "Why does Venus's day outlast its year?",
    "o": [
     "It spins very slowly (243 d) while orbiting in 225 d",
-    "It orbits slowly",
     "It has no rotation",
+    "It orbits slowly",
     "Its year is long"
    ],
    "a": 0,
@@ -83,8 +83,8 @@
    "o": [
     "It formed without gas",
     "Solar wind stripped it after its field faded",
-    "It is too close to Sun",
-    "Gas froze at the poles only"
+    "Gas froze at the poles only",
+    "It is too close to Sun"
    ],
    "a": 1,
    "w": "Weak gravity and no magnetic shield."
@@ -92,78 +92,78 @@
   {
    "q": "Olympus Mons is:",
    "o": [
-    "A canyon on Mars",
-    "The tallest known volcano in the Solar System",
     "A crater on Mercury",
-    "A mountain on Venus"
+    "A mountain on Venus",
+    "The tallest known volcano in the Solar System",
+    "A canyon on Mars"
    ],
-   "a": 1,
+   "a": 2,
    "w": "About 22 km high."
   },
   {
    "q": "Earth's average temperature without any greenhouse effect would be about:",
    "o": [
-    "-18 C",
+    "100 C",
     "15 C",
-    "40 C",
-    "100 C"
+    "-18 C",
+    "40 C"
    ],
-   "a": 0,
+   "a": 2,
    "w": "Greenhouse effect raises it by around 33 C."
   },
   {
    "q": "India's Mars Orbiter Mission reached Mars orbit on:",
    "o": [
-    "5 Nov 2013",
-    "24 Sep 2014",
+    "23 Aug 2023",
     "22 Oct 2008",
-    "23 Aug 2023"
+    "24 Sep 2014",
+    "5 Nov 2013"
    ],
-   "a": 1,
+   "a": 2,
    "w": "First attempt success."
   },
   {
    "q": "Which planet's magnetic field shields it from the solar wind and comes from a liquid core?",
    "o": [
-    "Venus",
     "Earth",
     "Mars today",
-    "Mercury only"
+    "Mercury only",
+    "Venus"
    ],
-   "a": 1,
+   "a": 0,
    "w": "Earth's dynamo."
   },
   {
    "q": "Why does Mercury, with no air, have such extreme temperature swings?",
    "o": [
-    "No atmosphere to retain heat",
     "Strong greenhouse",
+    "No atmosphere to retain heat",
     "Fast spin",
     "Water oceans"
    ],
-   "a": 0,
+   "a": 1,
    "w": "No air to spread or trap heat."
   },
   {
    "q": "Evidence that Mars once had water includes:",
    "o": [
-    "Dry river valleys and lake-bed rocks",
     "Canals",
+    "Moons",
     "Ice caps only",
-    "Moons"
+    "Dry river valleys and lake-bed rocks"
    ],
-   "a": 0,
+   "a": 3,
    "w": "Rover and orbiter findings."
   },
   {
    "q": "Terrestrial planets formed close to the Sun because:",
    "o": [
-    "Only rock and metal stayed solid there",
     "Gas was dense there",
+    "Only rock and metal stayed solid there",
     "The Sun attracted rocks",
     "They were captured"
    ],
-   "a": 0,
+   "a": 1,
    "w": "Light gases were blown outward."
   }
  ],

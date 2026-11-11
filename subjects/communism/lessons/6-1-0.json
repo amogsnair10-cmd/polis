@@ -54,42 +54,42 @@
   {
    "q": "Which state does NOT have a ruling communist party?",
    "o": [
-    "Mongolia",
-    "Laos",
     "Cuba",
-    "Vietnam"
+    "Mongolia",
+    "Vietnam",
+    "Laos"
    ],
-   "a": 0,
+   "a": 1,
    "w": "Mongolia is a democracy since 1990."
   },
   {
    "q": "Vietnam's renovation policy began in",
    "o": [
-    "1986",
     "1975",
-    "2001",
-    "1954"
+    "1986",
+    "1954",
+    "2001"
    ],
-   "a": 0,
+   "a": 1,
    "w": "Doi Moi."
   },
   {
    "q": "Laos's ruling party is the",
    "o": [
+    "Communist Party of Laos",
     "Pathet Lao Front",
     "Lao People's Revolutionary Party",
-    "Neo Lao Hak Xat",
-    "Communist Party of Laos"
+    "Neo Lao Hak Xat"
    ],
-   "a": 1,
+   "a": 2,
    "w": "Since 1975."
   },
   {
    "q": "North Korea's state ideology is",
    "o": [
-    "Maoism",
-    "Juche",
     "Titoism",
+    "Juche",
+    "Maoism",
     "Marxism-Leninism only"
    ],
    "a": 1,
@@ -98,32 +98,32 @@
   {
    "q": "Hong Kong's National Security Law dates from",
    "o": [
-    "1997",
     "2020",
-    "2012",
-    "2008"
+    "2008",
+    "1997",
+    "2012"
    ],
-   "a": 1,
+   "a": 0,
    "w": "Imposed by Beijing."
   },
   {
    "q": "China's population began to decline in",
    "o": [
-    "1978",
-    "2008",
+    "2022",
     "1960",
-    "2022"
+    "1978",
+    "2008"
    ],
-   "a": 3,
+   "a": 0,
    "w": "Official data."
   },
   {
    "q": "The UN Commission of Inquiry on North Korea reported in",
    "o": [
+    "2024",
     "1994",
-    "2004",
     "2014",
-    "2024"
+    "2004"
    ],
    "a": 2,
    "w": "Crimes against humanity."
@@ -131,32 +131,32 @@
   {
    "q": "Cuba's Special Period followed",
    "o": [
-    "Soviet collapse",
-    "Missile crisis",
     "Bay of Pigs",
-    "Obama's visit"
+    "Soviet collapse",
+    "Obama's visit",
+    "Missile crisis"
    ],
-   "a": 0,
+   "a": 1,
    "w": "1991."
   },
   {
    "q": "Freedom House rates all five states",
    "o": [
-    "Free",
     "Not Free",
-    "Partly Free",
-    "Unrated"
+    "Free",
+    "Unrated",
+    "Partly Free"
    ],
-   "a": 1,
+   "a": 0,
    "w": "In recent reports."
   },
   {
    "q": "The Galwan clash happened in",
    "o": [
     "2020",
-    "1962",
+    "2008",
     "2017",
-    "2008"
+    "1962"
    ],
    "a": 0,
    "w": "Ladakh."

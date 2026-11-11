@@ -59,108 +59,108 @@
   {
    "q": "How long does sunlight take to reach Earth?",
    "o": [
-    "8 seconds",
     "8 minutes 20 seconds",
     "8 hours",
-    "1 day"
+    "1 day",
+    "8 seconds"
    ],
-   "a": 1,
+   "a": 0,
    "w": "150 million km at light speed."
   },
   {
    "q": "The Sun's core temperature is about:",
    "o": [
     "5,800 K",
+    "100 million K",
     "15 million K",
-    "1 million K",
-    "100 million K"
+    "1 million K"
    ],
-   "a": 1,
+   "a": 2,
    "w": "15 million K."
   },
   {
    "q": "What powers the Sun?",
    "o": [
     "Chemical burning",
-    "Nuclear fusion",
     "Radioactive decay",
+    "Nuclear fusion",
     "Gravity only"
    ],
-   "a": 1,
+   "a": 2,
    "w": "Fusion of hydrogen."
   },
   {
    "q": "The sunspot cycle lasts about:",
    "o": [
-    "1 year",
     "11 years",
+    "1 year",
     "100 years",
     "1,000 years"
    ],
-   "a": 1,
+   "a": 0,
    "w": "Schwabe, 1843."
   },
   {
    "q": "The corona is notable because it:",
    "o": [
-    "Is cooler than the surface",
     "Is much hotter than the surface",
+    "Is inside the Sun",
     "Has no gas",
-    "Is inside the Sun"
+    "Is cooler than the surface"
    ],
-   "a": 1,
+   "a": 0,
    "w": "Over 1 million K."
   },
   {
    "q": "A CME is:",
    "o": [
+    "A planet",
     "A comet",
     "A burst of plasma and magnetic field from the Sun",
-    "A sunspot",
-    "A planet"
+    "A sunspot"
    ],
-   "a": 1,
+   "a": 2,
    "w": "Coronal mass ejection."
   },
   {
    "q": "Aditya-L1 orbits near:",
    "o": [
+    "Earth's pole",
     "The Moon",
     "Sun-Earth L1 point",
-    "Mars",
-    "Earth's pole"
+    "Mars"
    ],
-   "a": 1,
+   "a": 2,
    "w": "About 1.5 million km sunward."
   },
   {
    "q": "Which observatory found the Evershed effect?",
    "o": [
-    "Kodaikanal",
-    "Pune",
     "Hanle",
-    "Nainital"
+    "Kodaikanal",
+    "Nainital",
+    "Pune"
    ],
-   "a": 0,
+   "a": 1,
    "w": "John Evershed, 1909."
   },
   {
    "q": "The Sun will end its life as:",
    "o": [
     "A black hole",
+    "A supernova",
     "A neutron star",
-    "A white dwarf",
-    "A supernova"
+    "A white dwarf"
    ],
-   "a": 2,
+   "a": 3,
    "w": "Too small for a supernova."
   },
   {
    "q": "Helioseismology studies:",
    "o": [
-    "Earthquakes",
-    "Sound waves inside the Sun",
     "Moon dust",
+    "Sound waves inside the Sun",
+    "Earthquakes",
     "Comets"
    ],
    "a": 1,

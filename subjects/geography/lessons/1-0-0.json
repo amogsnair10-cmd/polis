@@ -59,23 +59,23 @@
   {
    "q": "Which is the highest peak in India?",
    "o": [
-    "Nanda Devi",
-    "Everest",
     "Kanchenjunga",
-    "K2"
+    "Everest",
+    "K2",
+    "Nanda Devi"
    ],
-   "a": 2,
+   "a": 0,
    "w": "Everest is in Nepal and K2 is in PoK territory claimed by India. Kanchenjunga is in Sikkim."
   },
   {
    "q": "The outermost range of the Himalaya is",
    "o": [
-    "Shiwalik",
     "Himadri",
-    "Pir Panjal",
-    "Zaskar"
+    "Zaskar",
+    "Shiwalik",
+    "Pir Panjal"
    ],
-   "a": 0,
+   "a": 2,
    "w": "It is the southernmost and lowest."
   },
   {
@@ -83,73 +83,73 @@
    "o": [
     "Terai",
     "Duar",
-    "Bhabar",
-    "Dun"
+    "Dun",
+    "Bhabar"
    ],
-   "a": 3,
+   "a": 2,
    "w": "Longitudinal valleys between Shiwaliks and Lesser Himalaya are called duns."
   },
   {
    "q": "Old alluvium in the plains is called",
    "o": [
-    "Khadar",
     "Bhangar",
+    "Khadar",
     "Terai",
     "Bhabar"
    ],
-   "a": 1,
+   "a": 0,
    "w": "It carries kankar."
   },
   {
    "q": "The Thal Ghat connects",
    "o": [
-    "Mumbai and Pune",
     "Mumbai and Nashik",
+    "Pune and Bengaluru",
     "Palakkad and Coimbatore",
-    "Pune and Bengaluru"
+    "Mumbai and Pune"
    ],
-   "a": 1,
+   "a": 0,
    "w": "Bhor connects Mumbai and Pune; Pal connects Kerala and Tamil Nadu."
   },
   {
    "q": "Highest peak of peninsular India is",
    "o": [
-    "Doddabetta",
-    "Mahendragiri",
     "Guru Shikhar",
-    "Anamudi"
+    "Doddabetta",
+    "Anamudi",
+    "Mahendragiri"
    ],
-   "a": 3,
+   "a": 2,
    "w": "It is 2,695 m in the Anamalai."
   },
   {
    "q": "The oldest fold mountains in India are",
    "o": [
-    "Aravalli",
+    "Western Ghats",
     "Vindhya",
-    "Satpura",
-    "Western Ghats"
+    "Aravalli",
+    "Satpura"
    ],
-   "a": 0,
+   "a": 2,
    "w": "They are among the oldest in the world."
   },
   {
    "q": "Narmada flows west because it",
    "o": [
-    "Starts in the Himalaya",
     "Flows through a delta",
     "Flows through a rift valley",
-    "Follows the Eastern Ghats"
+    "Follows the Eastern Ghats",
+    "Starts in the Himalaya"
    ],
-   "a": 2,
+   "a": 1,
    "w": "It runs between the Vindhya and Satpura faults."
   },
   {
    "q": "Pass connecting Sikkim to Tibet is",
    "o": [
     "Shipki La",
-    "Zoji La",
     "Banihal",
+    "Zoji La",
     "Nathu La"
    ],
    "a": 3,
@@ -158,12 +158,12 @@
   {
    "q": "Marshy belt south of the Bhabar is",
    "o": [
+    "Duar",
     "Terai",
     "Khadar",
-    "Duar",
     "Bhangar"
    ],
-   "a": 0,
+   "a": 1,
    "w": "Springs re-emerge there."
   }
  ],

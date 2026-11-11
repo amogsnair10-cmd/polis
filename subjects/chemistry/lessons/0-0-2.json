@@ -59,21 +59,21 @@
   {
    "q": "Who proposed fixed energy shells for electrons in 1913?",
    "o": [
+    "Heisenberg",
     "Niels Bohr",
-    "Schrödinger",
     "Rutherford",
-    "Heisenberg"
+    "Schrödinger"
    ],
-   "a": 0,
+   "a": 1,
    "w": "Bohr's model, 1913."
   },
   {
    "q": "Maximum electrons in the n = 3 shell?",
    "o": [
     "18",
-    "8",
     "9",
-    "32"
+    "32",
+    "8"
    ],
    "a": 0,
    "w": "2 x 3^2 = 18."
@@ -81,12 +81,12 @@
   {
    "q": "How many electrons can a p subshell hold?",
    "o": [
+    "3",
     "2",
-    "6",
     "10",
-    "3"
+    "6"
    ],
-   "a": 1,
+   "a": 3,
    "w": "Three orbitals, two electrons each."
   },
   {
@@ -94,8 +94,8 @@
    "o": [
     "Pauli exclusion",
     "Hund's rule",
-    "Aufbau",
-    "Heisenberg uncertainty"
+    "Heisenberg uncertainty",
+    "Aufbau"
    ],
    "a": 0,
    "w": "Pauli, 1925."
@@ -105,63 +105,63 @@
    "o": [
     "1s2 2s2 2p6 3s2",
     "1s2 2s2 2p5 3s2",
-    "1s2 2s2 2p6 3s1",
-    "1s2 2s8 3s1"
+    "1s2 2s8 3s1",
+    "1s2 2s2 2p6 3s1"
    ],
-   "a": 2,
+   "a": 3,
    "w": "11 electrons, one in 3s."
   },
   {
    "q": "Why is neon inert?",
    "o": [
-    "Its outer shell is full",
-    "It has no electrons",
+    "It is a liquid",
     "It has one outer electron",
-    "It is a liquid"
+    "It has no electrons",
+    "Its outer shell is full"
    ],
-   "a": 0,
+   "a": 3,
    "w": "Full outer shell means no urge to gain or lose electrons."
   },
   {
    "q": "How many unpaired electrons in carbon (1s2 2s2 2p2) by Hund's rule?",
    "o": [
-    "2",
     "0",
+    "4",
     "1",
-    "4"
+    "2"
    ],
-   "a": 0,
+   "a": 3,
    "w": "The two 2p electrons go in separate orbitals."
   },
   {
    "q": "The Raman effect was discovered in:",
    "o": [
-    "1905",
-    "1947",
     "1913",
-    "1928"
+    "1928",
+    "1905",
+    "1947"
    ],
-   "a": 3,
+   "a": 1,
    "w": "C.V. Raman, 1928; Nobel 1930."
   },
   {
    "q": "Schrödinger's contribution (1926) was:",
    "o": [
-    "Discovery of the neutron",
     "A wave equation for electrons",
-    "The periodic law",
-    "Gold-foil experiment"
+    "Gold-foil experiment",
+    "Discovery of the neutron",
+    "The periodic law"
    ],
-   "a": 1,
+   "a": 0,
    "w": "It describes orbitals."
   },
   {
    "q": "An orbital is best described as:",
    "o": [
     "A region of high probability of finding an electron",
-    "A circular track",
     "A solid shell",
-    "A nucleus part"
+    "A nucleus part",
+    "A circular track"
    ],
    "a": 0,
    "w": "Quantum picture, not planetary tracks."

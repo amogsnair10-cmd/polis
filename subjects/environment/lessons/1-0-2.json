@@ -59,23 +59,23 @@
   {
    "q": "Which category is the highest threat level before extinction in the wild?",
    "o": [
-    "Endangered",
     "Vulnerable",
-    "Critically Endangered",
-    "Near Threatened"
+    "Endangered",
+    "Near Threatened",
+    "Critically Endangered"
    ],
-   "a": 2,
+   "a": 3,
    "w": "CR is above EN and VU on the ladder."
   },
   {
    "q": "‘Threatened’ on the IUCN Red List includes:",
    "o": [
     "EN, VU and NT",
-    "CR, EN and VU",
     "CR and EW",
-    "VU, NT and LC"
+    "VU, NT and LC",
+    "CR, EN and VU"
    ],
-   "a": 1,
+   "a": 3,
    "w": "Threatened is the combined CR, EN and VU."
   },
   {
@@ -92,34 +92,34 @@
   {
    "q": "The Great Indian Bustard is:",
    "o": [
+    "Critically Endangered",
     "Vulnerable",
     "Endangered",
-    "Least Concern",
-    "Critically Endangered"
+    "Least Concern"
    ],
-   "a": 3,
+   "a": 0,
    "w": "Population is very small, mainly in Rajasthan."
   },
   {
    "q": "CITES Appendix I deals with:",
    "o": [
-    "Species needing controlled trade",
-    "Migratory species",
     "Species threatened with extinction, trade banned for commerce",
-    "Wetlands"
+    "Wetlands",
+    "Species needing controlled trade",
+    "Migratory species"
    ],
-   "a": 2,
+   "a": 0,
    "w": "Appendix II allows regulated trade."
   },
   {
    "q": "The IUCN is headquartered in:",
    "o": [
-    "Geneva",
     "Gland, Switzerland",
-    "Nairobi",
-    "Washington"
+    "Geneva",
+    "Washington",
+    "Nairobi"
    ],
-   "a": 1,
+   "a": 0,
    "w": "IUCN was founded in 1948 and is based at Gland."
   },
   {
@@ -147,23 +147,23 @@
   {
    "q": "Ganges river dolphin’s IUCN status:",
    "o": [
-    "Vulnerable",
     "Least Concern",
-    "Endangered",
-    "Extinct in the Wild"
+    "Extinct in the Wild",
+    "Vulnerable",
+    "Endangered"
    ],
-   "a": 2,
+   "a": 3,
    "w": "It is the national aquatic animal and is Endangered."
   },
   {
    "q": "CMS, the convention on migratory species, was adopted at:",
    "o": [
-    "Rio, 1992",
     "Bonn, 1979",
+    "Rio, 1992",
     "Paris, 1971",
     "Washington, 1973"
    ],
-   "a": 1,
+   "a": 0,
    "w": "Washington 1973 is CITES. Bonn 1979 is CMS."
   }
  ],

@@ -56,17 +56,17 @@
    "o": [
     "1917",
     "1936",
-    "1923",
-    "1956"
+    "1956",
+    "1923"
    ],
-   "a": 2,
+   "a": 3,
    "w": "Berlin."
   },
   {
    "q": "For Lukács, orthodox Marxism refers to",
    "o": [
-    "A set of doctrines",
     "Party loyalty",
+    "A set of doctrines",
     "Economic laws",
     "Method"
    ],
@@ -76,21 +76,21 @@
   {
    "q": "Reification builds on",
    "o": [
-    "Surplus value",
-    "Alienation of labour in the Manuscripts only",
+    "Permanent revolution",
     "Commodity fetishism",
-    "Permanent revolution"
+    "Surplus value",
+    "Alienation of labour in the Manuscripts only"
    ],
-   "a": 2,
+   "a": 1,
    "w": "And on Weber."
   },
   {
    "q": "Lukács was a minister of culture in",
    "o": [
-    "Béla Kun's 1919 government",
-    "Imre Nagy's 1956 government",
     "Rákosi's government",
-    "Kádár's government"
+    "Imre Nagy's 1956 government",
+    "Kádár's government",
+    "Béla Kun's 1919 government"
    ],
    "a": 1,
    "w": "He was also a commissar in 1919."
@@ -98,54 +98,54 @@
   {
    "q": "The Comintern criticised the book in",
    "o": [
+    "1936",
     "1917",
     "1950",
-    "1924",
-    "1936"
+    "1924"
    ],
-   "a": 2,
+   "a": 3,
    "w": "Zinoviev denounced it."
   },
   {
    "q": "\"Imputed\" consciousness is",
    "o": [
-    "The average opinion of workers",
-    "The Party's propaganda",
     "What workers would feel if they grasped their real position",
-    "Bourgeois opinion"
+    "Bourgeois opinion",
+    "The average opinion of workers",
+    "The Party's propaganda"
    ],
-   "a": 2,
+   "a": 0,
    "w": "A normative concept."
   },
   {
    "q": "Which critic called the proletariat as subject-object a myth?",
    "o": [
-    "Lenin",
     "Kautsky",
     "Bukharin",
-    "Adorno"
+    "Adorno",
+    "Lenin"
    ],
-   "a": 3,
+   "a": 2,
    "w": "Frankfurt School."
   },
   {
    "q": "Lukács defended which literary style?",
    "o": [
-    "Surrealism",
     "Realism",
     "Expressionism",
+    "Surrealism",
     "Futurism"
    ],
-   "a": 1,
+   "a": 0,
    "w": "Against modernism."
   },
   {
    "q": "The Progressive Writers' Association in India was founded in",
    "o": [
-    "1920",
+    "1975",
     "1936",
     "1947",
-    "1975"
+    "1920"
    ],
    "a": 1,
    "w": "Lucknow."
@@ -154,11 +154,11 @@
    "q": "Lukács's earlier book on literature was",
    "o": [
     "Reification",
-    "Capital",
     "Theory of the Novel",
-    "The Open Society"
+    "The Open Society",
+    "Capital"
    ],
-   "a": 2,
+   "a": 1,
    "w": "1916."
   }
  ],

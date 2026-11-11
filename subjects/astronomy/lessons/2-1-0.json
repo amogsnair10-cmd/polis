@@ -16,7 +16,7 @@
   {
    "tag": "Concept",
    "h": "Transit method",
-   "b": "<p>When a planet crosses in front of its star, the starlight dips by a tiny fraction, e.g. about 1 percent for a Jupiter and 0.01 percent for an Earth. Regular repeating dips reveal the planet's size and orbit. NASA's <b>Kepler</b> telescope (2009-2018) found thousands this way; <b>TESS</b> (2018) hunts nearby stars.</p><svg class=\"d\" viewBox=\"0 0 320 120\"><defs><marker id=\"ar1\" viewBox=\"0 0 10 10\" refX=\"9\" refY=\"5\" markerWidth=\"6\" markerHeight=\"6\" orient=\"auto\"><path d=\"M0 0L10 5L0 10z\" fill=\"#5d6474\"/></marker></defs><circle cx=\"80\" cy=\"60\" r=\"10\" fill=\"#f1e4c6\" stroke=\"#a8792a\"/><text x=\"80\" y=\"64\" text-anchor=\"middle\" font-size=\"10\" fill=\"#1d2433\">Star</text><ellipse cx=\"160\" cy=\"60\" rx=\"70\" ry=\"30\" fill=\"none\" stroke=\"#5d6474\" stroke-dasharray=\"4 3\"/><circle cx=\"230\" cy=\"60\" r=\"4\" fill=\"#dceaec\" stroke=\"#2f6f7a\"/><line x1=\"50\" y1=\"90\" x2=\"50\" y2=\"90\" stroke=\"#5d6474\" stroke-width=\"1.5\"/><text x=\"160\" y=\"105\" text-anchor=\"middle\" font-size=\"10\" fill=\"#5d6474\">Transit: planet crosses star, brightness dips slightly</text><text x=\"230\" y=\"50\" text-anchor=\"middle\" font-size=\"9\" fill=\"#1d2433\">planet</text></svg>"
+   "b": "<p>When a planet crosses in front of its star, the starlight dips by a tiny fraction, e.g. about 1 percent for a Jupiter and 0.01 percent for an Earth. Regular repeating dips reveal the planet's size and orbit. NASA's <b>Kepler</b> telescope (2009-2018) found thousands this way; <b>TESS</b> (2018) hunts nearby stars.</p><svg class=\"d\" viewBox=\"0 0 320 120\"><defs><marker id=\"ar1\" viewBox=\"0 0 10 10\" refX=\"9\" refY=\"5\" markerWidth=\"6\" markerHeight=\"6\" orient=\"auto\"><path d=\"M0 0L10 5L0 10z\" fill=\"#5d6474\"/></marker></defs><circle cx=\"80\" cy=\"60\" r=\"10\" fill=\"#f1e4c6\" stroke=\"#a8792a\"/><text x=\"80\" y=\"64\" text-anchor=\"middle\" font-size=\"10\" fill=\"#1d2433\">Star</text><ellipse cx=\"160\" cy=\"60\" rx=\"70\" ry=\"30\" fill=\"none\" stroke=\"#5d6474\" stroke-dasharray=\"4 3\"/><circle cx=\"230\" cy=\"60\" r=\"4\" fill=\"#dceaec\" stroke=\"#2f6f7a\"/><line x1=\"50\" y1=\"90\" x2=\"50\" y2=\"90\" stroke=\"#5d6474\" stroke-width=\"1.5\"/><text x=\"160\" y=\"105\" text-anchor=\"middle\" font-size=\"10\" fill=\"#5d6474\">Transit: planet crosses star, brightness dips slightly</text><text x=\"230\" y=\"50\" text-anchor=\"middle\" font-size=\"10\" fill=\"#1d2433\">planet</text></svg>"
   },
   {
    "tag": "Concept",
@@ -64,109 +64,109 @@
   {
    "q": "The first planet found around a Sun-like star (1995) was:",
    "o": [
-    "Kepler-22b",
-    "51 Pegasi b",
     "TRAPPIST-1e",
-    "Proxima b"
+    "Kepler-22b",
+    "Proxima b",
+    "51 Pegasi b"
    ],
-   "a": 1,
+   "a": 3,
    "w": "Mayor and Queloz."
   },
   {
    "q": "The transit method detects a planet through:",
    "o": [
-    "A dip in starlight",
     "A shift in position",
     "Radio waves",
-    "Gamma rays"
+    "Gamma rays",
+    "A dip in starlight"
    ],
-   "a": 0,
+   "a": 3,
    "w": "Brightness drops as the planet crosses."
   },
   {
    "q": "The wobble (radial velocity) method uses:",
    "o": [
-    "Doppler shifts of the star",
-    "Planet photos",
     "Transits",
+    "Planet photos",
+    "Doppler shifts of the star",
     "Parallax"
    ],
-   "a": 0,
+   "a": 2,
    "w": "The star's spectrum shifts."
   },
   {
    "q": "The habitable zone is the region where:",
    "o": [
-    "Liquid water could exist on a rocky planet",
+    "Planets form",
     "Life exists",
     "Gravity is weakest",
-    "Planets form"
+    "Liquid water could exist on a rocky planet"
    ],
-   "a": 0,
+   "a": 3,
    "w": "It indicates possibility only."
   },
   {
    "q": "TRAPPIST-1 has:",
    "o": [
-    "One planet",
     "Seven Earth-size planets",
     "Two stars",
+    "One planet",
     "Giant planets only"
    ],
-   "a": 1,
+   "a": 0,
    "w": "40 light-years away."
   },
   {
    "q": "The most common planet type found has size between:",
    "o": [
-    "Earth and Neptune (super-Earths)",
     "Jupiter and bigger",
-    "Moon-size",
-    "Sun-size"
+    "Sun-size",
+    "Earth and Neptune (super-Earths)",
+    "Moon-size"
    ],
-   "a": 0,
+   "a": 2,
    "w": "Absent from our own Solar System."
   },
   {
    "q": "The Drake equation estimates:",
    "o": [
-    "Number of communicating civilisations",
-    "Planet masses",
     "Star ages",
-    "Distances"
+    "Number of communicating civilisations",
+    "Distances",
+    "Planet masses"
    ],
-   "a": 0,
+   "a": 1,
    "w": "1961."
   },
   {
    "q": "Which telescope launched 2018 hunts nearby transiting planets?",
    "o": [
+    "Spitzer",
     "TESS",
     "Hubble",
-    "Chandra",
-    "Spitzer"
+    "Chandra"
    ],
-   "a": 0,
+   "a": 1,
    "w": "Transiting Exoplanet Survey Satellite."
   },
   {
    "q": "A biosignature gas pair that would be hard without life is:",
    "o": [
-    "Oxygen and methane",
     "Helium and neon",
+    "Water and CO2",
     "Argon and nitrogen",
-    "Water and CO2"
+    "Oxygen and methane"
    ],
-   "a": 0,
+   "a": 3,
    "w": "They react and vanish unless replenished."
   },
   {
    "q": "The first Indian-telescope exoplanet discovery (2018) used:",
    "o": [
     "PARAS at Mount Abu",
-    "GMRT",
+    "Hanle",
     "Aditya-L1",
-    "Hanle"
+    "GMRT"
    ],
    "a": 0,
    "w": "PRL's PARAS spectrograph."

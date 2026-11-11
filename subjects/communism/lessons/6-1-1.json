@@ -54,32 +54,32 @@
   {
    "q": "Piketty's Capital in the Twenty-First Century appeared in",
    "o": [
-    "2013",
-    "2008",
     "2018",
+    "2008",
+    "2013",
     "1999"
    ],
-   "a": 0,
+   "a": 2,
    "w": "French original."
   },
   {
    "q": "Piketty's key inequality is",
    "o": [
-    "r > g",
     "c > v",
+    "r > g",
     "s > w",
     "p > m"
    ],
-   "a": 0,
+   "a": 1,
    "w": "Return on capital above growth."
   },
   {
    "q": "Varoufakis's 2023 book is",
    "o": [
-    "Platform Capitalism",
+    "The Shock Doctrine",
     "Surveillance Capitalism",
     "Technofeudalism",
-    "The Shock Doctrine"
+    "Platform Capitalism"
    ],
    "a": 2,
    "w": "Capital as rent."
@@ -98,12 +98,12 @@
   {
    "q": "Marx on automation appears in",
    "o": [
-    "Manifesto",
-    "Grundrisse \"Fragment on Machines\"",
     "Gotha Programme",
-    "Theses on Feuerbach"
+    "Manifesto",
+    "Theses on Feuerbach",
+    "Grundrisse \"Fragment on Machines\""
    ],
-   "a": 1,
+   "a": 3,
    "w": "1857-58."
   },
   {
@@ -111,8 +111,8 @@
    "o": [
     "9% in 2019",
     "30% in 2019",
-    "20% in 2019",
-    "1% in 2019"
+    "1% in 2019",
+    "20% in 2019"
    ],
    "a": 0,
    "w": "World Bank figures."
@@ -120,20 +120,20 @@
   {
    "q": "Which of Marx's predictions did NOT materialise?",
    "o": [
-    "Concentration of capital",
-    "Recurrent crises",
     "Steady fall in workers' living standards",
-    "Globalisation of markets"
+    "Recurrent crises",
+    "Globalisation of markets",
+    "Concentration of capital"
    ],
-   "a": 2,
+   "a": 0,
    "w": "Real wages rose in rich countries."
   },
   {
    "q": "Which Indian economists wrote on agrarian distress and imperialism?",
    "o": [
     "Utsa and Prabhat Patnaik",
-    "Bhagwati and Srinivasan",
     "Panagariya",
+    "Bhagwati and Srinivasan",
     "Ahluwalia"
    ],
    "a": 0,
@@ -142,23 +142,23 @@
   {
    "q": "The Indian farmer protests against farm laws were in",
    "o": [
-    "2014",
-    "1991",
     "2016",
-    "2020-21"
+    "2020-21",
+    "2014",
+    "1991"
    ],
-   "a": 3,
+   "a": 1,
    "w": "Laws repealed in 2021."
   },
   {
    "q": "Auten and Splinter (2024) found US top-income shares",
    "o": [
-    "Larger",
-    "Smaller than Piketty-Saez estimates",
     "Identical",
-    "Not measurable"
+    "Larger",
+    "Not measurable",
+    "Smaller than Piketty-Saez estimates"
    ],
-   "a": 1,
+   "a": 3,
    "w": "Journal of Political Economy."
   }
  ],

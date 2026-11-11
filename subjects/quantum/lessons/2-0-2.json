@@ -59,97 +59,97 @@
   {
    "q": "Do most interpretations differ in their predictions?",
    "o": [
-    "No, they mostly make the same predictions",
+    "Only for atoms",
     "Yes, entirely",
-    "Only for light",
-    "Only for atoms"
+    "No, they mostly make the same predictions",
+    "Only for light"
    ],
-   "a": 0,
+   "a": 2,
    "w": "They differ in the story."
   },
   {
    "q": "Many-worlds was proposed by:",
    "o": [
+    "Bohm",
     "Bohr",
     "Heisenberg",
-    "Hugh Everett III, 1957",
-    "Bohm"
+    "Hugh Everett III, 1957"
    ],
-   "a": 2,
+   "a": 3,
    "w": "No collapse; branching."
   },
   {
    "q": "Pilot-wave theory says particles:",
    "o": [
     "Are only knowledge",
-    "Always have definite positions guided by ψ",
     "Split into worlds",
+    "Always have definite positions guided by ψ",
     "Never exist"
    ],
-   "a": 1,
+   "a": 2,
    "w": "De Broglie 1927; Bohm 1952."
   },
   {
    "q": "Which view is explicitly non-local?",
    "o": [
-    "Classical physics",
     "Pilot wave",
-    "Many-worlds",
-    "None"
+    "Classical physics",
+    "None",
+    "Many-worlds"
    ],
-   "a": 1,
+   "a": 0,
    "w": "Parts instantly guide each other."
   },
   {
    "q": "Which interpretation group predicts testable differences?",
    "o": [
-    "Collapse models",
-    "Pilot wave",
     "Many-worlds",
-    "Copenhagen"
+    "Pilot wave",
+    "Copenhagen",
+    "Collapse models"
    ],
-   "a": 0,
+   "a": 3,
    "w": "GRW, Penrose type models."
   },
   {
    "q": "QBism treats ψ as:",
    "o": [
-    "A physical wave",
-    "A force",
+    "An agent's personal belief",
     "A particle",
-    "An agent's personal belief"
+    "A force",
+    "A physical wave"
    ],
-   "a": 3,
+   "a": 0,
    "w": "Fuchs and colleagues."
   },
   {
    "q": "Bell tests rule out:",
    "o": [
-    "Spin",
+    "Local hidden-variable theories",
     "Many-worlds only",
     "All interpretations",
-    "Local hidden-variable theories"
+    "Spin"
    ],
-   "a": 3,
+   "a": 0,
    "w": "Others remain."
   },
   {
    "q": "Is \"consciousness causes collapse\" mainstream?",
    "o": [
-    "Yes, standard",
     "Taught as fact",
     "Proven",
-    "No, it is a minority view"
+    "No, it is a minority view",
+    "Yes, standard"
    ],
-   "a": 3,
+   "a": 2,
    "w": "Raised by von Neumann and Wigner."
   },
   {
    "q": "Who wrote about relational quantum mechanics in 1996?",
    "o": [
     "Carlo Rovelli",
-    "Dirac",
     "Everett",
+    "Dirac",
     "Planck"
    ],
    "a": 0,

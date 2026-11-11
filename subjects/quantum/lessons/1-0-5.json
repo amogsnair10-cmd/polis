@@ -59,98 +59,98 @@
   {
    "q": "Stern and Gerlach found that silver atoms split into:",
    "o": [
-    "Three spots",
     "Two spots",
-    "One spot",
-    "A smear"
+    "A smear",
+    "Three spots",
+    "One spot"
    ],
-   "a": 1,
+   "a": 0,
    "w": "Direction is quantised."
   },
   {
    "q": "Spin was named in 1925 by:",
    "o": [
-    "Uhlenbeck and Goudsmit",
-    "Bohr and Planck",
     "Stern and Gerlach",
-    "Raman and Krishnan"
+    "Uhlenbeck and Goudsmit",
+    "Raman and Krishnan",
+    "Bohr and Planck"
    ],
-   "a": 0,
+   "a": 1,
    "w": "Building on Pauli's two-valuedness."
   },
   {
    "q": "An electron has spin:",
    "o": [
     "Zero",
+    "One-half",
     "One",
-    "Two",
-    "One-half"
+    "Two"
    ],
-   "a": 3,
+   "a": 1,
    "w": "Making it a fermion."
   },
   {
    "q": "After selecting \"z up\", then testing x, then testing z again, you get:",
    "o": [
-    "Always z down",
     "50-50 up and down",
-    "Always z up",
-    "No atoms"
+    "No atoms",
+    "Always z down",
+    "Always z up"
    ],
-   "a": 1,
+   "a": 0,
    "w": "The x test erases the earlier z information."
   },
   {
    "q": "Is spin a ball spinning?",
    "o": [
-    "Yes, exactly",
-    "Only for photons",
+    "Only in magnets",
     "No, it is an intrinsic quantum property",
-    "Only in magnets"
+    "Yes, exactly",
+    "Only for photons"
    ],
-   "a": 2,
+   "a": 1,
    "w": "A ball model would need superluminal speeds."
   },
   {
    "q": "Particles of whole-number spin are called:",
    "o": [
-    "Quarks",
-    "Bosons",
+    "Fermions",
     "Leptons",
-    "Fermions"
+    "Quarks",
+    "Bosons"
    ],
-   "a": 1,
+   "a": 3,
    "w": "After S.N. Bose."
   },
   {
    "q": "Which technology uses nuclear spin?",
    "o": [
-    "MRI",
+    "Bicycle",
     "Steam engine",
-    "Radio only",
-    "Bicycle"
+    "MRI",
+    "Radio only"
    ],
-   "a": 0,
+   "a": 2,
    "w": "Protons align and flip in a magnet."
   },
   {
    "q": "Dirac in 1928 showed spin arises from:",
    "o": [
-    "Combining quantum theory with relativity",
+    "Chemistry",
     "Thermodynamics",
     "Gravity",
-    "Chemistry"
+    "Combining quantum theory with relativity"
    ],
-   "a": 0,
+   "a": 3,
    "w": "Spin emerged naturally from his equation."
   },
   {
    "q": "How far must a spin-half particle be rotated to return to its starting state?",
    "o": [
-    "180 degrees",
+    "360 degrees",
     "720 degrees",
     "90 degrees",
-    "360 degrees"
+    "180 degrees"
    ],
    "a": 1,
    "w": "A strange but tested fact."

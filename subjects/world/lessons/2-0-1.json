@@ -54,31 +54,31 @@
   {
    "q": "Who coined 'Axial Age'?",
    "o": [
-    "Max Weber",
     "Karl Marx",
-    "Karl Jaspers",
-    "Will Durant"
+    "Will Durant",
+    "Max Weber",
+    "Karl Jaspers"
    ],
-   "a": 2,
+   "a": 3,
    "w": "In 1949."
   },
   {
    "q": "Confucius's sayings are in...",
    "o": [
-    "The Analects",
     "The Upanishads",
-    "The Republic",
-    "The Avesta"
+    "The Analects",
+    "The Avesta",
+    "The Republic"
    ],
-   "a": 0,
+   "a": 1,
    "w": "Collected by his followers."
   },
   {
    "q": "Socrates died by...",
    "o": [
     "Sword",
-    "Exile",
     "Fire",
+    "Exile",
     "Drinking hemlock"
    ],
    "a": 3,
@@ -87,34 +87,34 @@
   {
    "q": "Socrates is known mainly from...",
    "o": [
+    "Aristotle's diary",
     "His own books",
     "Plato and Xenophon",
-    "Aristotle's diary",
     "The Analects"
    ],
-   "a": 1,
+   "a": 2,
    "w": "He wrote nothing."
   },
   {
    "q": "The Buddha's birthplace is today in...",
    "o": [
-    "Nepal",
-    "Bihar",
     "Sri Lanka",
-    "Tibet"
+    "Tibet",
+    "Nepal",
+    "Bihar"
    ],
-   "a": 0,
+   "a": 2,
    "w": "Lumbini."
   },
   {
    "q": "The Buddha awakened at...",
    "o": [
-    "Sarnath",
     "Kushinagar",
+    "Bodh Gaya",
     "Lumbini",
-    "Bodh Gaya"
+    "Sarnath"
    ],
-   "a": 3,
+   "a": 1,
    "w": "Under the Bodhi tree."
   },
   {
@@ -131,34 +131,34 @@
   {
    "q": "Mahajanapadas were...",
    "o": [
-    "Roman provinces",
-    "Chinese dynasties",
+    "Greek ships",
     "Early large states of north India",
-    "Greek ships"
+    "Roman provinces",
+    "Chinese dynasties"
    ],
-   "a": 2,
+   "a": 1,
    "w": "Sixteen in the Buddhist lists."
   },
   {
    "q": "Criticism of the Axial Age: it...",
    "o": [
-    "Proved by DNA",
     "Covers only 10 years",
-    "Applies only to Greece",
-    "Is neat but artificial"
+    "Is neat but artificial",
+    "Proved by DNA",
+    "Applies only to Greece"
    ],
-   "a": 3,
+   "a": 1,
    "w": "Many scholars debate it."
   },
   {
    "q": "Who was a Jain Tirthankara contemporary with the Buddha?",
    "o": [
+    "Panini",
     "Mahavira",
     "Ashoka",
-    "Chanakya",
-    "Panini"
+    "Chanakya"
    ],
-   "a": 0,
+   "a": 1,
    "w": "Traditional dates in the 6th century BCE."
   }
  ],

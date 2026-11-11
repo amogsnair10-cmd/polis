@@ -71,9 +71,9 @@
    "q": "The Eighteenth Brumaire concerns",
    "o": [
     "Louis Napoleon's coup of 1851",
+    "The Chartists",
     "The Paris Commune",
-    "The Russian Revolution",
-    "The Chartists"
+    "The Russian Revolution"
    ],
    "a": 0,
    "w": "Written 1852."
@@ -81,12 +81,12 @@
   {
    "q": "A class \"for itself\" is one that is",
    "o": [
-    "Rich",
+    "Without property",
     "Peasant",
-    "Aware and organised",
-    "Without property"
+    "Rich",
+    "Aware and organised"
    ],
-   "a": 2,
+   "a": 3,
    "w": "In the Poverty of Philosophy."
   },
   {
@@ -114,20 +114,20 @@
   {
    "q": "Djilas's \"new class\" (1957) describes",
    "o": [
-    "Peasants",
-    "Communist Party officials",
+    "Intellectuals in exile",
     "Merchants",
-    "Intellectuals in exile"
+    "Communist Party officials",
+    "Peasants"
    ],
-   "a": 1,
+   "a": 2,
    "w": "Written in Yugoslavia."
   },
   {
    "q": "Anarchists argued a workers' state would",
    "o": [
     "Wither at once",
-    "Protect liberty",
     "Abolish money",
+    "Protect liberty",
     "Become a new ruling class"
    ],
    "a": 3,
@@ -138,32 +138,32 @@
    "o": [
     "Class alone matters",
     "Religion is irrelevant",
-    "Caste must be confronted alongside, or before, class",
-    "Land is irrelevant"
+    "Land is irrelevant",
+    "Caste must be confronted alongside, or before, class"
    ],
-   "a": 2,
+   "a": 3,
    "w": "Annihilation of Caste (1936)."
   },
   {
    "q": "The first elected communist government in India was in",
    "o": [
-    "West Bengal, 1967",
     "Tripura, 1978",
+    "Kerala, 1957",
     "Punjab, 1952",
-    "Kerala, 1957"
+    "West Bengal, 1967"
    ],
-   "a": 3,
+   "a": 1,
    "w": "E.M.S. Namboodiripad."
   },
   {
    "q": "Marx's 1872 Amsterdam speech allowed that in some countries workers might",
    "o": [
-    "Win power by peaceful means",
     "Never organise",
-    "Avoid class conflict",
-    "Need foreign invasion"
+    "Win power by peaceful means",
+    "Need foreign invasion",
+    "Avoid class conflict"
    ],
-   "a": 0,
+   "a": 1,
    "w": "Britain, the US, maybe the Netherlands."
   }
  ],

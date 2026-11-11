@@ -59,74 +59,74 @@
   {
    "q": "General relativity was published in",
    "o": [
-    "1905",
-    "1915",
+    "1935",
     "1925",
-    "1935"
+    "1915",
+    "1905"
    ],
-   "a": 1,
+   "a": 2,
    "w": "Einstein, 1915."
   },
   {
    "q": "According to general relativity, gravity is",
    "o": [
-    "A force carried by particles",
     "The curvature of spacetime",
     "Electromagnetism",
+    "A force carried by particles",
     "An illusion with no effect"
    ],
-   "a": 1,
+   "a": 0,
    "w": "Mass-energy curves spacetime."
   },
   {
    "q": "The 1919 eclipse expedition measured",
    "o": [
-    "The bending of starlight",
+    "Black holes",
     "Mercury's orbit",
-    "The speed of sound",
-    "Black holes"
+    "The bending of starlight",
+    "The speed of sound"
    ],
-   "a": 0,
+   "a": 2,
    "w": "Eddington, Principe and Sobral."
   },
   {
    "q": "Mercury's orbit anomaly is",
    "o": [
-    "43 arc-seconds per century",
-    "1 degree per day",
     "0.1 degrees",
-    "None"
+    "1 degree per day",
+    "None",
+    "43 arc-seconds per century"
    ],
-   "a": 0,
+   "a": 3,
    "w": "General relativity accounted for it."
   },
   {
    "q": "The event horizon is",
    "o": [
-    "The Sun's surface",
     "The boundary beyond which nothing escapes a black hole",
+    "The edge of space",
     "A star's core",
-    "The edge of space"
+    "The Sun's surface"
    ],
-   "a": 1,
+   "a": 0,
    "w": "Beyond it light cannot escape."
   },
   {
    "q": "Schwarzschild radius of the Sun is about",
    "o": [
-    "3 km",
     "3 m",
     "700,000 km",
+    "3 km",
     "30 km"
    ],
-   "a": 0,
+   "a": 2,
    "w": "2GM/c squared."
   },
   {
    "q": "Gravitational waves were first detected in",
    "o": [
-    "1919",
     "1965",
+    "1919",
     "2015",
     "2022"
    ],
@@ -137,20 +137,20 @@
    "q": "The Chandrasekhar limit is about",
    "o": [
     "0.5 solar mass",
+    "100 solar masses",
     "1.4 solar masses",
-    "10 solar masses",
-    "100 solar masses"
+    "10 solar masses"
    ],
-   "a": 1,
+   "a": 2,
    "w": "Maximum for a white dwarf."
   },
   {
    "q": "Clocks deeper in a gravitational field run",
    "o": [
-    "Faster",
+    "Backward",
     "Slower",
-    "The same",
-    "Backward"
+    "Faster",
+    "The same"
    ],
    "a": 1,
    "w": "Gravitational time dilation."
@@ -158,12 +158,12 @@
   {
    "q": "LIGO-India is planned in",
    "o": [
-    "Hingoli, Maharashtra",
     "Chennai",
     "Shimla",
+    "Hingoli, Maharashtra",
     "Thumba"
    ],
-   "a": 0,
+   "a": 2,
    "w": "Approved 2016."
   }
  ],

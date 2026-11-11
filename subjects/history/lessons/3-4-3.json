@@ -54,56 +54,56 @@
   {
    "q": "Quit India was launched on",
    "o": [
-    "8 August 1942",
     "9 August 1942",
     "15 August 1942",
+    "8 August 1942",
     "8 August 1940"
    ],
-   "a": 0,
+   "a": 2,
    "w": "At Gowalia Tank, Bombay."
   },
   {
    "q": "The Lahore Resolution of the Muslim League was in",
    "o": [
-    "1930",
-    "1937",
     "1946",
-    "1940"
+    "1940",
+    "1930",
+    "1937"
    ],
-   "a": 3,
+   "a": 1,
    "w": "Demanded independent states in Muslim-majority zones."
   },
   {
    "q": "The Cripps Mission came in",
    "o": [
     "1940",
-    "1944",
     "1942",
-    "1946"
+    "1946",
+    "1944"
    ],
-   "a": 2,
+   "a": 1,
    "w": "It was sent after the Japanese advance."
   },
   {
    "q": "Gandhi called the Cripps offer a",
    "o": [
+    "Fair compromise",
     "Final offer",
     "Post-dated cheque on a failing bank",
-    "Great gift",
-    "Fair compromise"
+    "Great gift"
    ],
-   "a": 1,
+   "a": 2,
    "w": "He rejected its terms."
   },
   {
    "q": "The Cabinet Mission rejected",
    "o": [
-    "The demand for a separate Pakistan",
     "A Constituent Assembly",
+    "The demand for a separate Pakistan",
     "A federation",
     "Provincial groups"
    ],
-   "a": 0,
+   "a": 1,
    "w": "It proposed a loose union."
   },
   {
@@ -120,45 +120,45 @@
   {
    "q": "The Constituent Assembly met first on",
    "o": [
-    "15 August 1947",
     "26 January 1950",
-    "9 December 1946",
-    "26 November 1949"
+    "15 August 1947",
+    "26 November 1949",
+    "9 December 1946"
    ],
-   "a": 2,
+   "a": 3,
    "w": "Sachchidananda Sinha was interim president."
   },
   {
    "q": "The Mountbatten Plan was announced on",
    "o": [
-    "20 February 1947",
     "3 June 1947",
     "15 August 1947",
+    "20 February 1947",
     "14 July 1947"
    ],
-   "a": 1,
+   "a": 0,
    "w": "It accepted partition."
   },
   {
    "q": "The Provisional Government of Free India was set up by",
    "o": [
-    "Subhas Chandra Bose",
-    "Rash Behari Bose",
     "Mohan Singh",
-    "Lakshmi Sahgal"
+    "Lakshmi Sahgal",
+    "Subhas Chandra Bose",
+    "Rash Behari Bose"
    ],
-   "a": 0,
+   "a": 2,
    "w": "It was announced in Singapore in October 1943."
   },
   {
    "q": "Radcliffe was chairman of the",
    "o": [
+    "Boundary Commissions for Punjab and Bengal",
     "Cabinet Mission",
     "Simon Commission",
-    "Hunter Committee",
-    "Boundary Commissions for Punjab and Bengal"
+    "Hunter Committee"
    ],
-   "a": 3,
+   "a": 0,
    "w": "Award published on 17 August 1947."
   }
  ],

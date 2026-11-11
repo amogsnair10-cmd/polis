@@ -59,8 +59,8 @@
   {
    "q": "Which is the oldest period?",
    "o": [
-    "Mesolithic",
     "Neolithic",
+    "Mesolithic",
     "Palaeolithic",
     "Chalcolithic"
    ],
@@ -70,23 +70,23 @@
   {
    "q": "Microliths are characteristic of the",
    "o": [
-    "Palaeolithic",
-    "Mesolithic",
+    "Iron Age",
     "Neolithic",
-    "Iron Age"
+    "Palaeolithic",
+    "Mesolithic"
    ],
-   "a": 1,
+   "a": 3,
    "w": "Tiny stone tools."
   },
   {
    "q": "The earliest known farming village in the Indian subcontinent is",
    "o": [
-    "Mehrgarh",
     "Burzahom",
     "Koldihwa",
-    "Inamgaon"
+    "Inamgaon",
+    "Mehrgarh"
    ],
-   "a": 0,
+   "a": 3,
    "w": "In Baluchistan."
   },
   {
@@ -94,21 +94,21 @@
    "o": [
     "Maski",
     "Chirand",
-    "Bagor",
-    "Burzahom"
+    "Burzahom",
+    "Bagor"
    ],
-   "a": 3,
+   "a": 2,
    "w": "In Kashmir."
   },
   {
    "q": "Early evidence of rice cultivation comes from",
    "o": [
-    "Mehrgarh",
-    "Burzahom",
     "Koldihwa",
-    "Bagor"
+    "Burzahom",
+    "Bagor",
+    "Mehrgarh"
    ],
-   "a": 2,
+   "a": 0,
    "w": "In Uttar Pradesh."
   },
   {
@@ -125,45 +125,45 @@
   {
    "q": "The Jorwe culture was in",
    "o": [
-    "Maharashtra",
-    "Rajasthan",
+    "Kashmir",
     "Bihar",
-    "Kashmir"
+    "Rajasthan",
+    "Maharashtra"
    ],
-   "a": 0,
+   "a": 3,
    "w": "Inamgaon is a key site."
   },
   {
    "q": "The Ahar-Banas culture was in",
    "o": [
-    "Gujarat",
-    "Assam",
     "Odisha",
-    "Rajasthan"
+    "Assam",
+    "Rajasthan",
+    "Gujarat"
    ],
-   "a": 3,
+   "a": 2,
    "w": "Chalcolithic."
   },
   {
    "q": "Who coined the term Neolithic Revolution?",
    "o": [
+    "V. Gordon Childe",
     "R. B. Foote",
     "John Marshall",
-    "V. Gordon Childe",
     "R. E. M. Wheeler"
    ],
-   "a": 2,
+   "a": 0,
    "w": "In the 1930s."
   },
   {
    "q": "Bhimbetka is famous for",
    "o": [
-    "Iron smelting",
     "Rock shelters and paintings",
     "Harappan seals",
+    "Iron smelting",
     "Buddhist stupas"
    ],
-   "a": 1,
+   "a": 0,
    "w": "A UNESCO site (2003)."
   }
  ],

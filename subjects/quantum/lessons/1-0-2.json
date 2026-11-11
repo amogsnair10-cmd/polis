@@ -59,12 +59,12 @@
   {
    "q": "Schrödinger's equation tells us how:",
    "o": [
-    "The nucleus decays",
-    "The wavefunction changes with time",
     "Light bends",
-    "Gravity acts"
+    "The nucleus decays",
+    "Gravity acts",
+    "The wavefunction changes with time"
    ],
-   "a": 1,
+   "a": 3,
    "w": "Energy controls the evolution."
   },
   {
@@ -81,32 +81,32 @@
   {
    "q": "Why does confinement create energy levels?",
    "o": [
+    "Only waves that fit the space are allowed",
     "Electrons stop moving",
     "Light is trapped",
-    "Gravity pulls them",
-    "Only waves that fit the space are allowed"
+    "Gravity pulls them"
    ],
-   "a": 3,
+   "a": 0,
    "w": "Like a string fixed at both ends."
   },
   {
    "q": "Zero-point energy means:",
    "o": [
+    "A confined particle can never be at rest",
     "Space is empty",
     "Particles have no mass",
-    "Energy is always zero",
-    "A confined particle can never be at rest"
+    "Energy is always zero"
    ],
-   "a": 3,
+   "a": 0,
    "w": "Even the lowest wave has energy."
   },
   {
    "q": "Why do atoms not collapse?",
    "o": [
     "Squeezing the electron raises its energy more than attraction gains",
+    "Nuclei are rigid",
     "Electrons repel the nucleus",
-    "Gravity balances",
-    "Nuclei are rigid"
+    "Gravity balances"
    ],
    "a": 0,
    "w": "This ties to the uncertainty principle too."
@@ -114,23 +114,23 @@
   {
    "q": "Who developed matrix mechanics in 1925?",
    "o": [
-    "Planck",
     "Heisenberg, Born and Jordan",
-    "Schrödinger",
-    "Bohr alone"
+    "Planck",
+    "Bohr alone",
+    "Schrödinger"
    ],
-   "a": 1,
+   "a": 0,
    "w": "Schrödinger later showed equivalence with waves."
   },
   {
    "q": "Schrödinger shared the 1933 Nobel with:",
    "o": [
+    "Paul Dirac",
     "Albert Einstein",
     "Niels Bohr",
-    "Paul Dirac",
     "Max Born"
    ],
-   "a": 2,
+   "a": 0,
    "w": "Dirac extended the theory to relativistic speeds."
   },
   {
@@ -138,32 +138,32 @@
    "o": [
     "Random values",
     "n times 13.6 eV",
-    "-13.6 eV divided by n squared",
-    "A constant"
+    "A constant",
+    "-13.6 eV divided by n squared"
    ],
-   "a": 2,
+   "a": 3,
    "w": "Matching Bohr's results."
   },
   {
    "q": "Which technology rests on the equation's solutions?",
    "o": [
-    "Candles only",
     "Steam engines",
-    "Semiconductor chips",
-    "Water wheels"
+    "Water wheels",
+    "Candles only",
+    "Semiconductor chips"
    ],
-   "a": 2,
+   "a": 3,
    "w": "Band structure comes from it."
   },
   {
    "q": "The Raman effect reads:",
    "o": [
+    "Molecular vibration and rotation levels",
     "Nuclear spin only",
     "Gravity waves",
-    "Molecular vibration and rotation levels",
     "The age of stars"
    ],
-   "a": 2,
+   "a": 0,
    "w": "It shows energy levels from the equation."
   }
  ],

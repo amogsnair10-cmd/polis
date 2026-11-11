@@ -54,21 +54,21 @@
   {
    "q": "Chauvet Cave was found in...",
    "o": [
-    "1940",
-    "1801",
+    "1975",
     "1994",
-    "1975"
+    "1801",
+    "1940"
    ],
-   "a": 2,
+   "a": 1,
    "w": "Three explorers found it in southern France in 1994."
   },
   {
    "q": "Lascaux was found by...",
    "o": [
     "Teenagers and a dog in 1940",
-    "Napoleon's soldiers",
     "Archaeologists in 1994",
-    "Vikings"
+    "Vikings",
+    "Napoleon's soldiers"
    ],
    "a": 0,
    "w": "Famous discovery story from 1940."
@@ -76,9 +76,9 @@
   {
    "q": "The Lion-man figure is made of...",
    "o": [
+    "Bronze",
     "Gold",
     "Clay",
-    "Bronze",
     "Ivory"
    ],
    "a": 3,
@@ -87,31 +87,31 @@
   {
    "q": "The term 'Cognitive Revolution' was popularised by...",
    "o": [
-    "Charles Darwin",
     "Yuval Noah Harari",
-    "Carl Sagan",
-    "Alexander Cunningham"
+    "Charles Darwin",
+    "Alexander Cunningham",
+    "Carl Sagan"
    ],
-   "a": 1,
+   "a": 0,
    "w": "In Sapiens (2011)."
   },
   {
    "q": "Sulawesi's paintings are in...",
    "o": [
-    "Indonesia",
     "Peru",
     "Egypt",
-    "Kenya"
+    "Kenya",
+    "Indonesia"
    ],
-   "a": 0,
+   "a": 3,
    "w": "Sulawesi is an Indonesian island."
   },
   {
    "q": "Bone flutes about 40,000 years old were found in...",
    "o": [
-    "India",
-    "China",
     "Mexico",
+    "China",
+    "India",
     "Germany"
    ],
    "a": 3,
@@ -121,42 +121,42 @@
    "q": "Bhimbetka is in which state?",
    "o": [
     "Rajasthan",
-    "Madhya Pradesh",
+    "Karnataka",
     "Odisha",
-    "Karnataka"
+    "Madhya Pradesh"
    ],
-   "a": 1,
+   "a": 3,
    "w": "Near Bhopal."
   },
   {
    "q": "What is a safe statement about rock art dates?",
    "o": [
-    "They are always exact",
-    "They come from written records",
+    "They are all 40,000 years old",
     "They are often hard to pin down",
-    "They are all 40,000 years old"
+    "They are always exact",
+    "They come from written records"
    ],
-   "a": 2,
+   "a": 1,
    "w": "Dating is difficult and often revised."
   },
   {
    "q": "Why do cave artists not count as 'primitive'?",
    "o": [
-    "They had printing",
-    "They had writing",
+    "Brains similar to ours and skilled technique",
     "They used metal tools",
-    "Brains similar to ours and skilled technique"
+    "They had printing",
+    "They had writing"
    ],
-   "a": 3,
+   "a": 0,
    "w": "Modern-sized brains and sophisticated technique."
   },
   {
    "q": "Was the Cognitive Revolution a settled idea?",
    "o": [
     "No, historians debate how sudden it was",
-    "Yes, proven by DNA",
     "Yes, proven by Lascaux",
-    "No one has ever discussed it"
+    "No one has ever discussed it",
+    "Yes, proven by DNA"
    ],
    "a": 0,
    "w": "Some experts see gradual change."

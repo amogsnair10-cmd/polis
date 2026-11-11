@@ -59,12 +59,12 @@
   {
    "q": "The UNFCCC was adopted in:",
    "o": [
-    "1997",
     "1992",
     "2015",
+    "1997",
     "1987"
    ],
-   "a": 1,
+   "a": 0,
    "w": "At the Rio Earth Summit."
   },
   {
@@ -81,21 +81,21 @@
   {
    "q": "Who had binding targets under Kyoto?",
    "o": [
-    "All countries",
+    "Annex I countries",
     "Only the G20",
-    "Only LDCs",
-    "Annex I countries"
+    "All countries",
+    "Only LDCs"
    ],
-   "a": 3,
+   "a": 0,
    "w": "Developed countries and economies in transition."
   },
   {
    "q": "The Paris Agreement came into force on:",
    "o": [
+    "22 April 2016",
     "12 December 2015",
-    "1 January 2020",
     "4 November 2016",
-    "22 April 2016"
+    "1 January 2020"
    ],
    "a": 2,
    "w": "Adopted in 2015; in force in 2016."
@@ -114,19 +114,19 @@
   {
    "q": "Paris Agreement’s goal is to hold warming well below:",
    "o": [
-    "2 °C",
-    "3 °C",
     "1 °C",
-    "2.5 °C"
+    "2 °C",
+    "2.5 °C",
+    "3 °C"
    ],
-   "a": 0,
+   "a": 1,
    "w": "And to pursue efforts for 1.5 °C."
   },
   {
    "q": "The Global Stocktake occurs every:",
    "o": [
-    "Two years",
     "Ten years",
+    "Two years",
     "Annually",
     "Five years"
    ],
@@ -136,34 +136,34 @@
   {
    "q": "The Green Climate Fund was created at:",
    "o": [
-    "Paris (2015)",
     "Kyoto (1997)",
     "Cancun (2010)",
+    "Paris (2015)",
     "Bali (2007)"
    ],
-   "a": 2,
+   "a": 1,
    "w": "COP16 in Cancun."
   },
   {
    "q": "Which Article of Paris deals with carbon markets?",
    "o": [
-    "Article 9",
     "Article 6",
-    "Article 13",
-    "Article 2"
+    "Article 2",
+    "Article 9",
+    "Article 13"
    ],
-   "a": 1,
+   "a": 0,
    "w": "Article 9 is finance; Article 13 is transparency."
   },
   {
    "q": "Which mechanism does India oppose?",
    "o": [
+    "Adaptation Fund",
     "Unilateral carbon border taxes",
     "Green Climate Fund",
-    "Global Stocktake",
-    "Adaptation Fund"
+    "Global Stocktake"
    ],
-   "a": 0,
+   "a": 1,
    "w": "India argues CBAM violates CBDR-RC."
   }
  ],

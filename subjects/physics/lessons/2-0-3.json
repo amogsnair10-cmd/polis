@@ -59,63 +59,63 @@
   {
    "q": "Oersted discovered in 1820 that",
    "o": [
-    "Magnets attract iron",
     "A current produces a magnetic field",
+    "Charges are quantised",
     "Light is a wave",
-    "Charges are quantised"
+    "Magnets attract iron"
    ],
-   "a": 1,
+   "a": 0,
    "w": "A current deflected a compass."
   },
   {
    "q": "The SI unit of magnetic field is the",
    "o": [
-    "Tesla",
     "Weber",
     "Henry",
-    "Farad"
+    "Farad",
+    "Tesla"
    ],
-   "a": 0,
+   "a": 3,
    "w": "B is measured in tesla."
   },
   {
    "q": "A voltage is induced in a coil when",
    "o": [
-    "A magnet is held still beside it",
     "Magnetic flux through it changes",
     "It is heated",
-    "It is cooled"
+    "It is cooled",
+    "A magnet is held still beside it"
    ],
-   "a": 1,
+   "a": 0,
    "w": "Faraday's law."
   },
   {
    "q": "A wire of 0.4 m carries 5 A in a 0.5 T field at right angles. Force?",
    "o": [
-    "1 N",
     "10 N",
     "0.1 N",
+    "1 N",
     "2.5 N"
    ],
-   "a": 0,
+   "a": 2,
    "w": "0.5 x 5 x 0.4."
   },
   {
    "q": "A magnetic force on a moving charge is",
    "o": [
-    "Along its motion",
     "At right angles to its motion",
-    "Opposite its motion",
-    "Zero always"
+    "Zero always",
+    "Along its motion",
+    "Opposite its motion"
    ],
-   "a": 1,
+   "a": 0,
    "w": "It is sideways."
   },
   {
    "q": "Lenz's law is an example of conservation of",
    "o": [
-    "Charge",
     "Mass",
+    "Charge",
     "Energy",
     "Momentum"
    ],
@@ -125,45 +125,45 @@
   {
    "q": "A generator converts",
    "o": [
-    "Electrical to mechanical energy",
     "Mechanical to electrical energy",
-    "Heat to light",
-    "Light to heat"
+    "Electrical to mechanical energy",
+    "Light to heat",
+    "Heat to light"
    ],
-   "a": 1,
+   "a": 0,
    "w": "Rotation produces voltage."
   },
   {
    "q": "If you cut a bar magnet in half you get",
    "o": [
-    "One N and one S pole",
     "Two magnets, each with N and S",
-    "A pure north piece",
-    "Nothing magnetic"
+    "Nothing magnetic",
+    "One N and one S pole",
+    "A pure north piece"
    ],
-   "a": 1,
+   "a": 0,
    "w": "No monopoles."
   },
   {
    "q": "Faraday discovered electromagnetic induction in",
    "o": [
+    "1900",
     "1820",
     "1831",
-    "1865",
-    "1900"
+    "1865"
    ],
-   "a": 1,
+   "a": 2,
    "w": "1831."
   },
   {
    "q": "Why was Thumba near Thiruvananthapuram chosen for ISRO's start?",
    "o": [
-    "Close to the magnetic equator",
-    "Close to the Himalayas",
     "It is the highest place in India",
-    "It is a desert"
+    "Close to the magnetic equator",
+    "It is a desert",
+    "Close to the Himalayas"
    ],
-   "a": 0,
+   "a": 1,
    "w": "Equatorial studies of the upper atmosphere."
   }
  ],

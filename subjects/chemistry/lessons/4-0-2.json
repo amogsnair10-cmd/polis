@@ -60,9 +60,9 @@
    "q": "Radioactivity was discovered in 1896 by:",
    "o": [
     "Becquerel",
-    "Rutherford",
     "Chadwick",
-    "Einstein"
+    "Einstein",
+    "Rutherford"
    ],
    "a": 0,
    "w": "Uranium rays."
@@ -70,54 +70,54 @@
   {
    "q": "Alpha particle is:",
    "o": [
-    "A helium nucleus",
     "An electron",
     "A photon",
-    "A neutron"
+    "A neutron",
+    "A helium nucleus"
    ],
-   "a": 0,
+   "a": 3,
    "w": "2 protons, 2 neutrons."
   },
   {
    "q": "Most penetrating radiation:",
    "o": [
-    "Alpha",
     "Beta",
-    "Gamma",
-    "All equal"
+    "Alpha",
+    "All equal",
+    "Gamma"
    ],
-   "a": 2,
+   "a": 3,
    "w": "Needs lead or concrete."
   },
   {
    "q": "U-238 emits alpha and becomes:",
    "o": [
+    "Pb-206",
     "Th-234",
-    "Pa-238",
     "U-234",
-    "Pb-206"
+    "Pa-238"
    ],
-   "a": 0,
+   "a": 1,
    "w": "Mass 234, Z 90."
   },
   {
    "q": "Half-life 4 days, 64 g. Mass after 12 days?",
    "o": [
-    "8 g",
-    "16 g",
     "32 g",
-    "4 g"
+    "4 g",
+    "16 g",
+    "8 g"
    ],
-   "a": 0,
+   "a": 3,
    "w": "3 half-lives."
   },
   {
    "q": "Bone has 12.5 percent of original C-14. Age (half-life 5,730 y)?",
    "o": [
-    "5,730 years",
+    "22,920 years",
     "17,190 years",
     "11,460 years",
-    "22,920 years"
+    "5,730 years"
    ],
    "a": 1,
    "w": "3 half-lives."
@@ -125,43 +125,43 @@
   {
    "q": "Splitting of a heavy nucleus is:",
    "o": [
-    "Fission",
     "Fusion",
     "Ionisation",
+    "Fission",
     "Fermentation"
    ],
-   "a": 0,
+   "a": 2,
    "w": "U-235 chain reaction."
   },
   {
    "q": "Sun's energy mainly comes from:",
    "o": [
-    "Fission of uranium",
-    "Burning coal",
     "Chemical reaction",
-    "Fusion of hydrogen"
+    "Burning coal",
+    "Fusion of hydrogen",
+    "Fission of uranium"
    ],
-   "a": 3,
+   "a": 2,
    "w": "H to He."
   },
   {
    "q": "India's three-stage nuclear plan was set by:",
    "o": [
-    "Homi Bhabha",
-    "Vikram Sarabhai",
     "C.V. Raman",
-    "A.P.J. Abdul Kalam"
+    "A.P.J. Abdul Kalam",
+    "Homi Bhabha",
+    "Vikram Sarabhai"
    ],
-   "a": 0,
+   "a": 2,
    "w": "1954."
   },
   {
    "q": "Third stage of India's plan uses:",
    "o": [
-    "Natural uranium only",
+    "Plutonium only",
     "Thorium",
     "Coal",
-    "Plutonium only"
+    "Natural uranium only"
    ],
    "a": 1,
    "w": "Because of large thorium reserves."

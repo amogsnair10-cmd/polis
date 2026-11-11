@@ -59,23 +59,23 @@
   {
    "q": "How many official constellations has the IAU defined?",
    "o": [
+    "108",
     "72",
     "88",
-    "108",
     "60"
    ],
-   "a": 1,
+   "a": 2,
    "w": "The IAU fixed 88 constellation regions."
   },
   {
    "q": "Why can the stars in one constellation be very far apart in real distance?",
    "o": [
-    "They are of different colours",
-    "The pattern is just a line of sight effect",
+    "They are all very close",
     "Gravity pushes them apart",
-    "They are all very close"
+    "They are of different colours",
+    "The pattern is just a line of sight effect"
    ],
-   "a": 1,
+   "a": 3,
    "w": "We see only direction, not depth."
   },
   {
@@ -92,34 +92,34 @@
   {
    "q": "From Earth, the whole sky seems to turn once a day mainly because:",
    "o": [
-    "Stars orbit Earth",
     "Earth rotates",
+    "Stars orbit Earth",
     "The Sun pulls stars",
     "Earth's orbit tilts"
    ],
-   "a": 1,
+   "a": 0,
    "w": "Rotation of Earth, 15 degrees per hour."
   },
   {
    "q": "Declination on the sky is most like which Earth coordinate?",
    "o": [
     "Longitude",
-    "Latitude",
     "Altitude",
-    "Time zone"
+    "Time zone",
+    "Latitude"
    ],
-   "a": 1,
+   "a": 3,
    "w": "North-south angle from the equator."
   },
   {
    "q": "Why does a given star rise about 4 minutes earlier each night?",
    "o": [
-    "Earth orbits the Sun",
-    "The star moves",
     "Light bends in air",
-    "The Moon pulls it"
+    "Earth orbits the Sun",
+    "The Moon pulls it",
+    "The star moves"
    ],
-   "a": 0,
+   "a": 1,
    "w": "Earth's orbital motion shifts the sky by about 1 degree per day."
   },
   {
@@ -136,23 +136,23 @@
   {
    "q": "Which is the brightest star in the night sky?",
    "o": [
-    "Polaris",
     "Sirius",
+    "Vega",
     "Betelgeuse",
-    "Vega"
+    "Polaris"
    ],
-   "a": 1,
+   "a": 0,
    "w": "Sirius; Polaris is only moderately bright."
   },
   {
    "q": "How many nakshatras are in the traditional Indian lunar mansion scheme?",
    "o": [
-    "12",
+    "88",
     "18",
-    "27",
-    "88"
+    "12",
+    "27"
    ],
-   "a": 2,
+   "a": 3,
    "w": "27 mansions along the Moon's path."
   },
   {

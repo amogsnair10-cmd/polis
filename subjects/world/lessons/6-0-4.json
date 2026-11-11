@@ -51,62 +51,62 @@
    "o": [
     "France",
     "Russia",
-    "Poland",
-    "Austria"
+    "Austria",
+    "Poland"
    ],
-   "a": 2,
+   "a": 3,
    "w": "1 September 1939."
   },
   {
    "q": "France fell in...",
    "o": [
+    "1942",
     "1940",
-    "1939",
     "1944",
-    "1942"
+    "1939"
    ],
-   "a": 0,
+   "a": 1,
    "w": "In six weeks."
   },
   {
    "q": "Germany invaded the USSR in...",
    "o": [
-    "1939",
+    "1941",
     "1943",
     "1945",
-    "1941"
+    "1939"
    ],
-   "a": 3,
+   "a": 0,
    "w": "Operation Barbarossa."
   },
   {
    "q": "Pearl Harbor was attacked on...",
    "o": [
     "1 Sept 1939",
-    "7 December 1941",
     "6 June 1944",
+    "7 December 1941",
     "6 Aug 1945"
    ],
-   "a": 1,
+   "a": 2,
    "w": "By Japan."
   },
   {
    "q": "Which battle turned the Eastern Front?",
    "o": [
+    "Waterloo",
     "Stalingrad",
     "Dunkirk",
-    "Midway",
-    "Waterloo"
+    "Midway"
    ],
-   "a": 0,
+   "a": 1,
    "w": "1942-43."
   },
   {
    "q": "D-Day was...",
    "o": [
-    "8 May 1945",
     "7 Dec 1941",
     "1 Sept 1939",
+    "8 May 1945",
     "6 June 1944"
    ],
    "a": 3,
@@ -117,8 +117,8 @@
    "o": [
     "9 August",
     "6 August 1945",
-    "15 August",
-    "2 September"
+    "2 September",
+    "15 August"
    ],
    "a": 1,
    "w": "The first atomic bomb."
@@ -127,9 +127,9 @@
    "q": "The Soviet Union lost about...",
    "o": [
     "27,000",
-    "2.7 million",
+    "270 million",
     "27 million",
-    "270 million"
+    "2.7 million"
    ],
    "a": 2,
    "w": "The heaviest toll."
@@ -148,12 +148,12 @@
   {
    "q": "Imphal and Kohima stopped...",
    "o": [
-    "Japan",
+    "Italy",
     "Germany",
     "Russia",
-    "Italy"
+    "Japan"
    ],
-   "a": 0,
+   "a": 3,
    "w": "In 1944."
   }
  ],

@@ -54,10 +54,10 @@
   {
    "q": "Gramsci was arrested by the fascists in",
    "o": [
-    "1919",
     "1937",
+    "1948",
     "1926",
-    "1948"
+    "1919"
    ],
    "a": 2,
    "w": "He was a deputy at the time."
@@ -66,77 +66,77 @@
    "q": "Hegemony means rule through",
    "o": [
     "Force only",
-    "Consent plus coercion in reserve",
+    "Money only",
     "Elections only",
-    "Money only"
+    "Consent plus coercion in reserve"
    ],
-   "a": 1,
+   "a": 3,
    "w": "Leadership."
   },
   {
    "q": "War of position is suited to",
    "o": [
     "Tsarist Russia",
-    "The West with strong civil society",
     "Colonial India only",
-    "Monarchies"
+    "Monarchies",
+    "The West with strong civil society"
    ],
-   "a": 1,
+   "a": 3,
    "w": "Trenches and fortresses."
   },
   {
    "q": "The Prison Notebooks were written",
    "o": [
-    "1929-35",
+    "1960-70",
     "1917-23",
     "1945-50",
-    "1960-70"
+    "1929-35"
    ],
-   "a": 0,
+   "a": 3,
    "w": "In fascist prisons."
   },
   {
    "q": "Gramsci led the",
    "o": [
+    "Comintern",
     "Italian Communist Party",
     "Spanish PSOE",
-    "KPD",
-    "Comintern"
+    "KPD"
    ],
-   "a": 0,
+   "a": 1,
    "w": "From 1924."
   },
   {
    "q": "Organic intellectuals are",
    "o": [
-    "Priests only",
+    "Produced by a class to give it awareness",
     "Foreign experts",
-    "Unelected judges",
-    "Produced by a class to give it awareness"
+    "Priests only",
+    "Unelected judges"
    ],
-   "a": 3,
+   "a": 0,
    "w": "E.g. union organisers."
   },
   {
    "q": "Gramsci's \"Southern Question\" concerned",
    "o": [
     "Italian colonies",
-    "Naples",
     "Nato",
-    "Alliance of northern workers with southern peasants"
+    "Alliance of northern workers with southern peasants",
+    "Naples"
    ],
-   "a": 3,
+   "a": 2,
    "w": "Italy's regional divide."
   },
   {
    "q": "Subaltern Studies in India began in",
    "o": [
-    "1947",
+    "1991",
     "1964",
-    "1982",
-    "1991"
+    "1947",
+    "1982"
    ],
-   "a": 2,
+   "a": 3,
    "w": "Ranajit Guha."
   },
   {
@@ -153,12 +153,12 @@
   {
    "q": "Perry Anderson's 1976 essay found Gramsci",
    "o": [
-    "Ambiguous on civil society and state",
-    "Entirely Leninist",
     "Anarchist",
-    "Liberal"
+    "Liberal",
+    "Entirely Leninist",
+    "Ambiguous on civil society and state"
    ],
-   "a": 0,
+   "a": 3,
    "w": "The Antinomies of Antonio Gramsci."
   }
  ],

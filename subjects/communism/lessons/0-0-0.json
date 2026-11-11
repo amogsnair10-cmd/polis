@@ -59,8 +59,8 @@
   {
    "q": "Who ran the New Lanark mills as a social experiment?",
    "o": [
-    "Charles Fourier",
     "Henri de Saint-Simon",
+    "Charles Fourier",
     "Robert Owen",
     "Pierre-Joseph Proudhon"
    ],
@@ -70,23 +70,23 @@
   {
    "q": "Fourier's planned communities were called",
    "o": [
-    "Phalansteries",
-    "Kibbutzim",
+    "Communes of the Paris type",
     "Soviets",
-    "Communes of the Paris type"
+    "Kibbutzim",
+    "Phalansteries"
    ],
-   "a": 0,
+   "a": 3,
    "w": "Phalanstère, from phalanx and monastery."
   },
   {
    "q": "Saint-Simon wanted society led mainly by",
    "o": [
-    "Industrialists, scientists and workers",
     "Priests",
     "Hereditary nobles",
-    "Peasant councils"
+    "Peasant councils",
+    "Industrialists, scientists and workers"
    ],
-   "a": 0,
+   "a": 3,
    "w": "The industriels."
   },
   {
@@ -104,9 +104,9 @@
    "q": "Engels' Socialism: Utopian and Scientific appeared in",
    "o": [
     "1880",
-    "1848",
     "1867",
-    "1917"
+    "1917",
+    "1848"
    ],
    "a": 0,
    "w": "Engels published it in 1880."
@@ -125,9 +125,9 @@
   {
    "q": "Owen's core belief was that",
    "o": [
-    "Class war is inevitable",
-    "Property is theft",
     "Only the state can educate",
+    "Property is theft",
+    "Class war is inevitable",
     "Character is shaped by circumstances"
    ],
    "a": 3,
@@ -136,10 +136,10 @@
   {
    "q": "The Rochdale Pioneers (1844) founded",
    "o": [
-    "A communist party",
+    "A trade union federation",
     "A phalanstery",
     "A model consumer cooperative",
-    "A trade union federation"
+    "A communist party"
    ],
    "a": 2,
    "w": "The template for co-ops."
@@ -158,12 +158,12 @@
   {
    "q": "Which Indian cooperative movement shows the cooperative tradition?",
    "o": [
-    "Amul",
     "Bhilai Steel Plant",
+    "Amul",
     "Tata Steel",
     "Hindustan Aeronautics"
    ],
-   "a": 0,
+   "a": 1,
    "w": "Amul began in 1946 in Gujarat."
   }
  ],

@@ -59,21 +59,21 @@
   {
    "q": "Dew point is the temperature at which air",
    "o": [
-    "Starts to freeze",
     "Stops rising",
-    "Loses all humidity",
-    "Becomes saturated"
+    "Starts to freeze",
+    "Becomes saturated",
+    "Loses all humidity"
    ],
-   "a": 3,
+   "a": 2,
    "w": "Further cooling forces condensation."
   },
   {
    "q": "Rain-shadow regions lie on the",
    "o": [
-    "Windward side",
+    "Equator",
     "Leeward side of mountains",
-    "Coast",
-    "Equator"
+    "Windward side",
+    "Coast"
    ],
    "a": 1,
    "w": "Air descends dry after losing moisture on the windward side."
@@ -81,53 +81,53 @@
   {
    "q": "Cirrus clouds are",
    "o": [
-    "Low and rain-bearing",
-    "High and wispy",
+    "Layered and grey",
     "Heaped and tall",
-    "Layered and grey"
+    "High and wispy",
+    "Low and rain-bearing"
    ],
-   "a": 1,
+   "a": 2,
    "w": "They are made of ice crystals."
   },
   {
    "q": "Tropical cyclones do NOT form at the equator because",
    "o": [
-    "The sea is cold",
+    "Coriolis force is near zero there",
     "Winds are too strong",
-    "Air pressure is high",
-    "Coriolis force is near zero there"
+    "The sea is cold",
+    "Air pressure is high"
    ],
-   "a": 3,
+   "a": 0,
    "w": "Coriolis force is needed for spin."
   },
   {
    "q": "Who names cyclones in the north Indian Ocean?",
    "o": [
-    "RSMC New Delhi",
     "NDMA",
     "WMO Geneva only",
-    "ISRO"
+    "ISRO",
+    "RSMC New Delhi"
    ],
-   "a": 0,
+   "a": 3,
    "w": "IMD's Regional Specialised Meteorological Centre does."
   },
   {
    "q": "Fani (2019) made landfall in",
    "o": [
-    "Gujarat",
     "Tamil Nadu",
     "Odisha",
+    "Gujarat",
     "West Bengal"
    ],
-   "a": 2,
+   "a": 1,
    "w": "It hit near Puri."
   },
   {
    "q": "Biparjoy (2023) formed in the",
    "o": [
     "Bay of Bengal",
-    "Pacific",
     "South Atlantic",
+    "Pacific",
     "Arabian Sea"
    ],
    "a": 3,
@@ -136,23 +136,23 @@
   {
    "q": "Most deaths in cyclones are caused by",
    "o": [
-    "Storm surge",
-    "Lightning",
     "Hail",
-    "Dust"
+    "Dust",
+    "Lightning",
+    "Storm surge"
    ],
-   "a": 0,
+   "a": 3,
    "w": "Seawater floods low coasts."
   },
   {
    "q": "A front forms where",
    "o": [
-    "Two warm masses merge",
-    "Jet streams end",
     "Warm and cold air masses meet",
+    "Jet streams end",
+    "Two warm masses merge",
     "Sea breezes rise"
    ],
-   "a": 2,
+   "a": 0,
    "w": "This is the basis of temperate cyclones."
   },
   {

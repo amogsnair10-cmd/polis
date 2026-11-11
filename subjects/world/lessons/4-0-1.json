@@ -54,10 +54,10 @@
   {
    "q": "Gutenberg worked in...",
    "o": [
-    "Rome",
+    "Venice",
     "London",
     "Mainz",
-    "Venice"
+    "Rome"
    ],
    "a": 2,
    "w": "Around 1450."
@@ -66,8 +66,8 @@
    "q": "Luther's theses were in...",
    "o": [
     "1517",
-    "1450",
     "1555",
+    "1450",
     "1618"
    ],
    "a": 0,
@@ -76,32 +76,32 @@
   {
    "q": "Indulgences were...",
    "o": [
-    "Taxes on bread",
-    "Printing licences",
     "Royal pardons",
-    "Church documents reducing punishment for sin"
+    "Taxes on bread",
+    "Church documents reducing punishment for sin",
+    "Printing licences"
    ],
-   "a": 3,
+   "a": 2,
    "w": "The sale sparked the dispute."
   },
   {
    "q": "The Diet of Worms was in...",
    "o": [
-    "1517",
-    "1521",
     "1534",
-    "1648"
+    "1517",
+    "1648",
+    "1521"
    ],
-   "a": 1,
+   "a": 3,
    "w": "Charles V presided."
   },
   {
    "q": "Luther translated the New Testament into...",
    "o": [
     "German",
-    "Latin",
+    "Dutch",
     "English",
-    "Dutch"
+    "Latin"
    ],
    "a": 0,
    "w": "In 1522."
@@ -111,30 +111,30 @@
    "o": [
     "1517",
     "1555",
-    "1618",
-    "1534"
+    "1534",
+    "1618"
    ],
-   "a": 3,
+   "a": 2,
    "w": "Act of Supremacy."
   },
   {
    "q": "The Thirty Years' War ended in...",
    "o": [
+    "1517",
     "1555",
     "1648",
-    "1517",
     "1715"
    ],
-   "a": 1,
+   "a": 2,
    "w": "Peace of Westphalia."
   },
   {
    "q": "The Jesuits were founded in...",
    "o": [
     "1517",
-    "1450",
+    "1648",
     "1540",
-    "1648"
+    "1450"
    ],
    "a": 2,
    "w": "By Ignatius of Loyola."
@@ -142,23 +142,23 @@
   {
    "q": "Korea's metal-type book of 1377...",
    "o": [
-    "Analects",
-    "Gutenberg Bible",
     "Tripitaka",
-    "Jikji"
+    "Jikji",
+    "Analects",
+    "Gutenberg Bible"
    ],
-   "a": 3,
+   "a": 1,
    "w": "Earlier than Gutenberg."
   },
   {
    "q": "Printing came to Goa in...",
    "o": [
-    "1556",
     "1450",
     "1800",
+    "1556",
     "1947"
    ],
-   "a": 0,
+   "a": 2,
    "w": "By Portuguese Jesuits."
   }
  ],

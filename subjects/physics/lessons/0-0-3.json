@@ -59,32 +59,32 @@
   {
    "q": "The SI unit of work is the",
    "o": [
-    "Watt",
     "Newton",
-    "Joule",
-    "Pascal"
+    "Watt",
+    "Pascal",
+    "Joule"
    ],
-   "a": 2,
+   "a": 3,
    "w": "One joule is one newton metre."
   },
   {
    "q": "A 10 N force moves a box 3 m in its direction. Work done?",
    "o": [
     "13 J",
+    "0.3 J",
     "30 J",
-    "3.3 J",
-    "0.3 J"
+    "3.3 J"
    ],
-   "a": 1,
+   "a": 2,
    "w": "W = F d."
   },
   {
    "q": "If speed doubles, kinetic energy becomes",
    "o": [
-    "Twice",
+    "Eight times",
     "Four times",
     "Half",
-    "Eight times"
+    "Twice"
    ],
    "a": 1,
    "w": "KE depends on v squared."
@@ -92,21 +92,21 @@
   {
    "q": "A 1 kg mass is raised 10 m (g = 10 m/s squared). PE gained?",
    "o": [
-    "10 J",
     "1 J",
-    "100 J",
-    "1000 J"
+    "1000 J",
+    "10 J",
+    "100 J"
    ],
-   "a": 2,
+   "a": 3,
    "w": "mgh = 1 x 10 x 10."
   },
   {
    "q": "You carry a bag level at steady speed. Work done by your upward force on the bag is",
    "o": [
-    "Positive",
+    "Equal to its weight",
     "Negative",
     "Zero",
-    "Equal to its weight"
+    "Positive"
    ],
    "a": 2,
    "w": "Force is perpendicular to motion."
@@ -126,8 +126,8 @@
    "q": "A 2 kW heater runs for 3 hours. Energy used in kWh?",
    "o": [
     "6",
-    "1.5",
     "0.67",
+    "1.5",
     "5"
    ],
    "a": 0,
@@ -136,10 +136,10 @@
   {
    "q": "A ball slides frictionless from rest down a 20 m hill (g = 10). Speed at the bottom?",
    "o": [
-    "10 m/s",
-    "20 m/s",
     "200 m/s",
-    "40 m/s"
+    "20 m/s",
+    "40 m/s",
+    "10 m/s"
    ],
    "a": 1,
    "w": "v = sqrt(2 x 10 x 20) = 20."
@@ -158,12 +158,12 @@
   {
    "q": "Which of these has the greatest kinetic energy?",
    "o": [
-    "1 kg at 10 m/s",
     "2 kg at 5 m/s",
-    "4 kg at 3 m/s",
-    "0.5 kg at 12 m/s"
+    "0.5 kg at 12 m/s",
+    "1 kg at 10 m/s",
+    "4 kg at 3 m/s"
    ],
-   "a": 0,
+   "a": 2,
    "w": "50 J vs 25, 18 and 36."
   }
  ],

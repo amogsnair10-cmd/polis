@@ -59,43 +59,43 @@
   {
    "q": "Wheat is a",
    "o": [
-    "Kharif crop",
     "Zaid crop",
-    "Rabi crop",
-    "Plantation crop"
+    "Kharif crop",
+    "Plantation crop",
+    "Rabi crop"
    ],
-   "a": 2,
+   "a": 3,
    "w": "Sown in October-December, harvested in March-April."
   },
   {
    "q": "Largest irrigation source in India is",
    "o": [
+    "Rain only",
     "Wells and tubewells",
     "Canals",
-    "Tanks",
-    "Rain only"
+    "Tanks"
    ],
-   "a": 0,
+   "a": 1,
    "w": "They irrigate about 60% of irrigated area."
   },
   {
    "q": "Jhum cultivation is also known as",
    "o": [
-    "Dry farming",
-    "Plantation farming",
+    "Shifting cultivation",
     "Terrace farming",
-    "Shifting cultivation"
+    "Dry farming",
+    "Plantation farming"
    ],
-   "a": 3,
+   "a": 0,
    "w": "Common in the Northeast."
   },
   {
    "q": "Green Revolution mainly raised the output of",
    "o": [
-    "Pulses and oilseeds",
+    "Cotton and jute",
     "Wheat and rice",
     "Tea and coffee",
-    "Cotton and jute"
+    "Pulses and oilseeds"
    ],
    "a": 1,
    "w": "Via HYV seeds and irrigation."
@@ -103,12 +103,12 @@
   {
    "q": "Who advises the Centre on MSP?",
    "o": [
-    "NITI Aayog",
-    "CACP",
+    "Finance Commission",
     "RBI",
-    "Finance Commission"
+    "CACP",
+    "NITI Aayog"
    ],
-   "a": 1,
+   "a": 2,
    "w": "Commission for Agricultural Costs and Prices."
   },
   {
@@ -116,19 +116,19 @@
    "o": [
     "Punjab",
     "Maharashtra",
-    "Rajasthan",
-    "West Bengal"
+    "West Bengal",
+    "Rajasthan"
    ],
-   "a": 3,
+   "a": 2,
    "w": "Delta lands suit jute."
   },
   {
    "q": "Operation Flood is linked to",
    "o": [
     "Milk production",
-    "Rice output",
     "Fertiliser use",
-    "Fisheries"
+    "Fisheries",
+    "Rice output"
    ],
    "a": 0,
    "w": "Verghese Kurien led it from 1970."
@@ -136,34 +136,34 @@
   {
    "q": "The International Year of Millets was",
    "o": [
-    "2015",
-    "2019",
     "2023",
-    "2025"
+    "2025",
+    "2015",
+    "2019"
    ],
-   "a": 2,
+   "a": 0,
    "w": "Declared by the UN at India's proposal."
   },
   {
    "q": "PMFBY is a scheme for",
    "o": [
-    "Credit cards",
-    "Soil health",
+    "Crop insurance",
     "Mandi linking",
-    "Crop insurance"
+    "Soil health",
+    "Credit cards"
    ],
-   "a": 3,
+   "a": 0,
    "w": "Launched in 2016."
   },
   {
    "q": "Black soil is best suited for",
    "o": [
-    "Cotton",
     "Tea",
+    "Jute",
     "Rubber",
-    "Jute"
+    "Cotton"
    ],
-   "a": 0,
+   "a": 3,
    "w": "It retains moisture."
   }
  ],

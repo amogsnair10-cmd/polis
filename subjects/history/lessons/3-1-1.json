@@ -59,34 +59,34 @@
   {
    "q": "Wood’s Despatch of 1854 is called",
    "o": [
-    "Macaulay’s Minute",
-    "The Hunter Report",
     "The Sadler Report",
-    "The Magna Carta of English education in India"
+    "Macaulay’s Minute",
+    "The Magna Carta of English education in India",
+    "The Hunter Report"
    ],
-   "a": 3,
+   "a": 2,
    "w": "It laid the plan for universities and primary education."
   },
   {
    "q": "Universities at Calcutta, Bombay and Madras were set up in",
    "o": [
-    "1835",
-    "1882",
     "1857",
-    "1904"
+    "1904",
+    "1835",
+    "1882"
    ],
-   "a": 2,
+   "a": 0,
    "w": "On the model of London University."
   },
   {
    "q": "Who is known as the father of the civil services in India?",
    "o": [
     "Lord Ripon",
-    "Lord Cornwallis",
     "Lord Curzon",
-    "Lord Dalhousie"
+    "Lord Dalhousie",
+    "Lord Cornwallis"
    ],
-   "a": 1,
+   "a": 3,
    "w": "He created a well-paid covenanted service."
   },
   {
@@ -103,9 +103,9 @@
   {
    "q": "Vernacular Press Act 1878 was passed under",
    "o": [
-    "Ripon",
-    "Curzon",
     "Canning",
+    "Curzon",
+    "Ripon",
     "Lytton"
    ],
    "a": 3,
@@ -115,9 +115,9 @@
    "q": "Who is called the liberator of the Indian press?",
    "o": [
     "Lord Wellesley",
-    "Lord Lytton",
+    "Lord Minto",
     "Charles Metcalfe",
-    "Lord Minto"
+    "Lord Lytton"
    ],
    "a": 2,
    "w": "His 1835 Act repealed earlier curbs."
@@ -136,34 +136,34 @@
   {
    "q": "The Hunter Commission (1882) dealt with",
    "o": [
-    "Primary and secondary education",
     "University education",
-    "Technical education",
-    "Female education only"
+    "Primary and secondary education",
+    "Female education only",
+    "Technical education"
    ],
-   "a": 0,
+   "a": 1,
    "w": "It stressed primary education and private effort."
   },
   {
    "q": "The Lee Commission (1923 to 24) dealt with",
    "o": [
-    "Police reforms",
     "Press laws",
-    "Railways",
-    "Indianisation of the services"
+    "Indianisation of the services",
+    "Police reforms",
+    "Railways"
    ],
-   "a": 3,
+   "a": 1,
    "w": "It proposed a 40:40:20 formula."
   },
   {
    "q": "Macaulay’s Minute (1835) favoured",
    "o": [
-    "Sanskrit and Arabic learning",
-    "Vernacular only",
     "English as medium for higher education",
-    "Ban on Western science"
+    "Ban on Western science",
+    "Sanskrit and Arabic learning",
+    "Vernacular only"
    ],
-   "a": 2,
+   "a": 0,
    "w": "Bentinck accepted it."
   }
  ],

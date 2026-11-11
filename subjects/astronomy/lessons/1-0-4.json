@@ -59,65 +59,65 @@
   {
    "q": "The Solar System formed about:",
    "o": [
-    "460 million years ago",
     "4.6 billion years ago",
+    "460 million years ago",
     "13.8 billion years ago",
     "46 billion years ago"
    ],
-   "a": 1,
+   "a": 0,
    "w": "4.6 billion years."
   },
   {
    "q": "The flat shape of the system arises because of:",
    "o": [
-    "Magnetism",
-    "Collapse with rotation",
     "Solar wind",
-    "Collisions"
+    "Magnetism",
+    "Collisions",
+    "Collapse with rotation"
    ],
-   "a": 1,
+   "a": 3,
    "w": "Angular momentum flattens a spinning cloud."
   },
   {
    "q": "Giant planets formed beyond the frost line because:",
    "o": [
+    "There is more gas only",
     "It is hotter there",
     "Ice added more solid material",
-    "There is more gas only",
     "The Sun pulled them"
    ],
-   "a": 1,
+   "a": 2,
    "w": "More building material."
   },
   {
    "q": "Who dated meteorites to 4.55 billion years in 1956?",
    "o": [
-    "Clair Patterson",
-    "Edwin Hubble",
     "Fred Hoyle",
-    "Hans Bethe"
+    "Hans Bethe",
+    "Edwin Hubble",
+    "Clair Patterson"
    ],
-   "a": 0,
+   "a": 3,
    "w": "Uranium-lead dating."
   },
   {
    "q": "The Moon is thought to have formed from:",
    "o": [
-    "A giant impact on early Earth",
+    "Solar wind",
     "Capture of a comet",
     "Jupiter's gas",
-    "Solar wind"
+    "A giant impact on early Earth"
    ],
-   "a": 0,
+   "a": 3,
    "w": "Theia impact."
   },
   {
    "q": "ALMA imaged the disc around:",
    "o": [
     "HL Tauri",
-    "Sirius",
     "Polaris",
-    "Alpha Centauri"
+    "Alpha Centauri",
+    "Sirius"
    ],
    "a": 0,
    "w": "A young star with gaps in its disc."
@@ -125,32 +125,32 @@
   {
    "q": "The Sun holds what share of the nebula's mass?",
    "o": [
-    "About 1 percent",
-    "About 50 percent",
     "About 99 percent",
+    "About 50 percent",
+    "About 1 percent",
     "None"
    ],
-   "a": 2,
+   "a": 0,
    "w": "The disc was about 1 percent."
   },
   {
    "q": "Hot Jupiters suggested that:",
    "o": [
-    "Planets can migrate",
     "Disc is rigid",
+    "Rocks are rare",
     "Giants cannot form",
-    "Rocks are rare"
+    "Planets can migrate"
    ],
-   "a": 0,
+   "a": 3,
    "w": "They formed far out and moved in."
   },
   {
    "q": "Who proposed the nebular hypothesis (1755, 1796)?",
    "o": [
     "Kant and Laplace",
+    "Hoyle and Narlikar",
     "Newton and Kepler",
-    "Copernicus and Galileo",
-    "Hoyle and Narlikar"
+    "Copernicus and Galileo"
    ],
    "a": 0,
    "w": "Kant and Laplace."
@@ -158,12 +158,12 @@
   {
    "q": "Why are inner planets small and rocky?",
    "o": [
-    "Only rock and metal could stay solid there",
     "They lacked gravity",
     "They were hit often",
-    "The Sun was heavier"
+    "The Sun was heavier",
+    "Only rock and metal could stay solid there"
    ],
-   "a": 0,
+   "a": 3,
    "w": "It was too hot for ices."
   }
  ],

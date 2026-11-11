@@ -65,10 +65,10 @@
   {
    "q": "The power loom was invented by",
    "o": [
+    "James Watt",
     "John Kay",
-    "Eli Whitney",
     "Edmund Cartwright",
-    "James Watt"
+    "Eli Whitney"
    ],
    "a": 2,
    "w": "In 1785."
@@ -76,54 +76,54 @@
   {
    "q": "James Watt improved the",
    "o": [
+    "Locomotive",
     "Spinning mule",
-    "Steam engine",
     "Power loom",
-    "Locomotive"
+    "Steam engine"
    ],
-   "a": 1,
+   "a": 3,
    "w": "With a separate condenser (1769)."
   },
   {
    "q": "The Industrial Revolution began in",
    "o": [
-    "Britain",
+    "USA",
     "France",
     "Germany",
-    "USA"
+    "Britain"
    ],
-   "a": 0,
+   "a": 3,
    "w": "In the later 18th century."
   },
   {
    "q": "The Stockton and Darlington railway opened in",
    "o": [
     "1790",
-    "1830",
+    "1825",
     "1850",
-    "1825"
+    "1830"
    ],
-   "a": 3,
+   "a": 1,
    "w": "The first public steam railway."
   },
   {
    "q": "Who wrote The Making of the English Working Class?",
    "o": [
+    "Eric Hobsbawm",
     "Eric Williams",
     "Arnold Toynbee",
-    "E. P. Thompson",
-    "Eric Hobsbawm"
+    "E. P. Thompson"
    ],
-   "a": 2,
+   "a": 3,
    "w": "Published in 1963."
   },
   {
    "q": "Capitalism and Slavery (1944) was by",
    "o": [
-    "E. P. Thompson",
+    "Karl Polanyi",
     "Eric Williams",
     "Kenneth Pomeranz",
-    "Karl Polanyi"
+    "E. P. Thompson"
    ],
    "a": 1,
    "w": "It links slave profits to British industrial capital."
@@ -132,9 +132,9 @@
    "q": "The Second Industrial Revolution is marked by",
    "o": [
     "Steel, electricity and chemicals",
+    "Canal building",
     "Spinning and weaving",
-    "Water power only",
-    "Canal building"
+    "Water power only"
    ],
    "a": 0,
    "w": "From about 1870."
@@ -142,9 +142,9 @@
   {
    "q": "Which Act in 1847 limited working hours in factories?",
    "o": [
-    "The Poor Law Act",
     "The Combination Act",
     "The Corn Law",
+    "The Poor Law Act",
     "The Ten Hours Act"
    ],
    "a": 3,
@@ -155,10 +155,10 @@
    "o": [
     "1818",
     "1907",
-    "1854",
-    "1900"
+    "1900",
+    "1854"
    ],
-   "a": 2,
+   "a": 3,
    "w": "By C. N. Davar."
   }
  ],

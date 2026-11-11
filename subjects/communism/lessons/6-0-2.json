@@ -54,21 +54,21 @@
   {
    "q": "The Black Book of Communism appeared in",
    "o": [
-    "1956",
     "1997",
     "1991",
+    "1956",
     "2010"
    ],
-   "a": 1,
+   "a": 0,
    "w": "Courtois et al."
   },
   {
    "q": "Timothy Snyder's Bloodlands was published in",
    "o": [
-    "1997",
     "1968",
+    "1956",
     "2010",
-    "1956"
+    "1997"
    ],
    "a": 2,
    "w": "On Nazi and Soviet killing."
@@ -78,8 +78,8 @@
    "o": [
     "68,000",
     "680,000",
-    "6.8 million",
-    "68 million"
+    "68 million",
+    "6.8 million"
    ],
    "a": 1,
    "w": "1937-38."
@@ -87,78 +87,78 @@
   {
    "q": "Estimates of deaths in the Great Leap Forward famine range from",
    "o": [
-    "1 to 3 million",
     "100,000 to 500,000",
     "60 to 90 million",
-    "15 to 55 million"
+    "15 to 55 million",
+    "1 to 3 million"
    ],
-   "a": 3,
+   "a": 2,
    "w": "Source dependent."
   },
   {
    "q": "Cambodian deaths are estimated at",
    "o": [
+    "500,000",
     "150,000",
-    "1.5-2 million",
     "10 million",
-    "500,000"
+    "1.5-2 million"
    ],
-   "a": 1,
+   "a": 3,
    "w": "Khmer Rouge."
   },
   {
    "q": "Sen's explanation of famines stresses",
    "o": [
+    "War only",
     "Climate only",
     "Entitlements and democratic accountability",
-    "Population only",
-    "War only"
+    "Population only"
    ],
-   "a": 1,
+   "a": 2,
    "w": "Poverty and Famines (1981)."
   },
   {
    "q": "Friedrich and Brzezinski's totalitarian model (1956) lists",
    "o": [
-    "Free elections",
-    "Federalism",
+    "One party, ideology, terror, media monopoly",
     "Market competition",
-    "One party, ideology, terror, media monopoly"
+    "Free elections",
+    "Federalism"
    ],
-   "a": 3,
+   "a": 0,
    "w": "Six features."
   },
   {
    "q": "The Congo Free State period was",
    "o": [
-    "1885-1908",
-    "1960-65",
     "1945-60",
-    "1908-60"
+    "1885-1908",
+    "1908-60",
+    "1960-65"
    ],
-   "a": 0,
+   "a": 1,
    "w": "Leopold II."
   },
   {
    "q": "Bengal famine of 1943 killed",
    "o": [
-    "2-3 million",
-    "200,000",
     "20 million",
-    "50,000"
+    "2-3 million",
+    "50,000",
+    "200,000"
    ],
-   "a": 0,
+   "a": 1,
    "w": "Under British rule."
   },
   {
    "q": "Which Ambedkar essay compares Buddhism with Marxism?",
    "o": [
-    "Annihilation of Caste",
     "Riddles in Hinduism",
+    "Buddha or Karl Marx",
     "Pakistan or Partition of India",
-    "Buddha or Karl Marx"
+    "Annihilation of Caste"
    ],
-   "a": 3,
+   "a": 1,
    "w": "1956."
   }
  ],

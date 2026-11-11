@@ -54,34 +54,34 @@
   {
    "q": "War Communism relied on",
    "o": [
-    "Free markets",
     "Grain requisitioning",
+    "Land redistribution to kulaks",
     "Foreign loans",
-    "Land redistribution to kulaks"
+    "Free markets"
    ],
-   "a": 1,
+   "a": 0,
    "w": "Prodrazvyorstka."
   },
   {
    "q": "NEP was introduced at the Tenth Party Congress in",
    "o": [
     "1918",
-    "March 1921",
     "1924",
-    "1929"
+    "1929",
+    "March 1921"
    ],
-   "a": 1,
+   "a": 3,
    "w": "After Kronstadt."
   },
   {
    "q": "Lenin's \"commanding heights\" meant",
    "o": [
-    "Land reform",
+    "State control of heavy industry, banks, foreign trade",
     "Party control of army",
     "Abolition of money",
-    "State control of heavy industry, banks, foreign trade"
+    "Land reform"
    ],
-   "a": 3,
+   "a": 0,
    "w": "Under NEP."
   },
   {
@@ -89,19 +89,19 @@
    "o": [
     "October 1917",
     "March 1918",
-    "1936",
-    "December 1922"
+    "December 1922",
+    "1936"
    ],
-   "a": 3,
+   "a": 2,
    "w": "Union Treaty."
   },
   {
    "q": "In his Testament Lenin criticised",
    "o": [
     "Stalin",
+    "Tsar Nicholas",
     "Bukharin only",
-    "Kerensky",
-    "Tsar Nicholas"
+    "Kerensky"
    ],
    "a": 0,
    "w": "Advised removing him as general secretary."
@@ -109,56 +109,56 @@
   {
    "q": "Lenin died in",
    "o": [
-    "January 1924",
-    "March 1921",
     "1917",
+    "March 1921",
+    "January 1924",
     "1929"
    ],
-   "a": 0,
+   "a": 2,
    "w": "21 January 1924."
   },
   {
    "q": "Bukharin's slogan under NEP is often given as",
    "o": [
+    "Enrich yourselves",
     "Kill the kulaks",
-    "Peace, Land, Bread",
     "All power to the soviets",
-    "Enrich yourselves"
+    "Peace, Land, Bread"
    ],
-   "a": 3,
+   "a": 0,
    "w": "Defended the peasant alliance."
   },
   {
    "q": "Who proposed \"primitive socialist accumulation\"?",
    "o": [
-    "Bukharin",
-    "Kamenev",
+    "Preobrazhensky",
     "Dzerzhinsky",
-    "Preobrazhensky"
+    "Bukharin",
+    "Kamenev"
    ],
-   "a": 3,
+   "a": 0,
    "w": "Left Opposition economist."
   },
   {
    "q": "Mises's calculation argument dates from",
    "o": [
+    "1960",
     "1944",
     "1920",
-    "1989",
-    "1960"
+    "1989"
    ],
-   "a": 1,
+   "a": 2,
    "w": "Economic Calculation in the Socialist Commonwealth."
   },
   {
    "q": "Which Indian policy resolution reflects the \"commanding heights\" idea?",
    "o": [
-    "1991 Industrial Policy",
     "1948 Resolution",
     "1956 Industrial Policy Resolution",
-    "1969 Bank nationalisation"
+    "1969 Bank nationalisation",
+    "1991 Industrial Policy"
    ],
-   "a": 2,
+   "a": 1,
    "w": "Public sector in schedule A."
   }
  ],

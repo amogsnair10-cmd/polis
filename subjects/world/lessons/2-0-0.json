@@ -54,31 +54,31 @@
   {
    "q": "Cyrus took Babylon in...",
    "o": [
-    "330 BCE",
-    "1177 BCE",
+    "44 BCE",
     "539 BCE",
-    "44 BCE"
+    "330 BCE",
+    "1177 BCE"
    ],
-   "a": 2,
+   "a": 1,
    "w": "A famous, mostly peaceful conquest."
   },
   {
    "q": "Provincial governors were called...",
    "o": [
-    "Satraps",
     "Consuls",
+    "Strategoi",
     "Tribunes",
-    "Strategoi"
+    "Satraps"
    ],
-   "a": 0,
+   "a": 3,
    "w": "Darius organised them."
   },
   {
    "q": "The Royal Road ran from Sardis to...",
    "o": [
+    "Athens",
     "Persepolis to Delhi",
     "Babylon to Cairo",
-    "Athens",
     "Susa"
    ],
    "a": 3,
@@ -87,54 +87,54 @@
   {
    "q": "Behistun is written in...",
    "o": [
-    "Only Greek",
     "Three languages",
     "Only Latin",
-    "Only Sanskrit"
+    "Only Sanskrit",
+    "Only Greek"
    ],
-   "a": 1,
+   "a": 0,
    "w": "Old Persian, Elamite, Babylonian."
   },
   {
    "q": "Where is the Cyrus Cylinder kept?",
    "o": [
-    "British Museum",
-    "Louvre",
+    "Tehran Bazaar",
     "Delhi Museum",
-    "Tehran Bazaar"
+    "British Museum",
+    "Louvre"
    ],
-   "a": 0,
+   "a": 2,
    "w": "In London."
   },
   {
    "q": "Persia was beaten at Salamis by...",
    "o": [
-    "Indians",
-    "Romans",
     "Egyptians",
-    "The Greek fleet"
+    "The Greek fleet",
+    "Romans",
+    "Indians"
    ],
-   "a": 3,
+   "a": 1,
    "w": "480 BCE."
   },
   {
    "q": "Hindush in Persian lists was...",
    "o": [
-    "Egypt",
     "Sindh in the Indus region",
-    "Armenia",
-    "Syria"
+    "Syria",
+    "Egypt",
+    "Armenia"
    ],
-   "a": 1,
+   "a": 0,
    "w": "A province under Darius."
   },
   {
    "q": "Kharosthi comes from...",
    "o": [
-    "Latin",
     "Chinese",
+    "Sanskrit",
     "Aramaic",
-    "Sanskrit"
+    "Latin"
    ],
    "a": 2,
    "w": "The empire's administrative script."
@@ -142,23 +142,23 @@
   {
    "q": "The Persian empire fell to...",
    "o": [
-    "Hannibal",
-    "Genghis",
     "Caesar",
-    "Alexander"
+    "Genghis",
+    "Alexander",
+    "Hannibal"
    ],
-   "a": 3,
+   "a": 2,
    "w": "330 BCE."
   },
   {
    "q": "Historians treat the Cyrus Cylinder as...",
    "o": [
-    "A royal proclamation, not a modern rights charter",
     "A Greek law code",
     "A Roman treaty",
+    "A royal proclamation, not a modern rights charter",
     "A forgery"
    ],
-   "a": 0,
+   "a": 2,
    "w": "The interpretation is debated."
   }
  ],

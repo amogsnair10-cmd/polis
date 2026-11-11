@@ -60,9 +60,9 @@
    "q": "Restriction enzymes act as:",
    "o": [
     "Molecular scissors",
+    "Copiers",
     "Carriers",
-    "Glue",
-    "Copiers"
+    "Glue"
    ],
    "a": 0,
    "w": "They cut DNA."
@@ -70,10 +70,10 @@
   {
    "q": "PCR was invented by:",
    "o": [
-    "Doudna",
-    "Mullis",
     "Boyer",
-    "Sanger"
+    "Mullis",
+    "Sanger",
+    "Doudna"
    ],
    "a": 1,
    "w": "Kary Mullis, 1983."
@@ -93,9 +93,9 @@
    "q": "Cas9 does what?",
    "o": [
     "Cuts DNA at a target",
+    "Makes RNA",
     "Digests protein",
-    "Copies DNA",
-    "Makes RNA"
+    "Copies DNA"
    ],
    "a": 0,
    "w": "Guided cut."
@@ -103,10 +103,10 @@
   {
    "q": "Bt cotton makes toxin against:",
    "o": [
-    "Fungus",
+    "Birds",
     "Bollworm",
-    "Aphids",
-    "Birds"
+    "Fungus",
+    "Aphids"
    ],
    "a": 1,
    "w": "Bollworm."
@@ -114,9 +114,9 @@
   {
    "q": "A plasmid is used as:",
    "o": [
-    "Primer",
-    "Ribosome",
     "Enzyme",
+    "Ribosome",
+    "Primer",
     "Vehicle for genes"
    ],
    "a": 3,
@@ -125,10 +125,10 @@
   {
    "q": "Dolly the sheep was born in:",
    "o": [
+    "2006",
     "1986",
-    "1976",
     "1996",
-    "2006"
+    "1976"
    ],
    "a": 2,
    "w": "1996."
@@ -136,9 +136,9 @@
   {
    "q": "The only GM crop commercially grown in India is:",
    "o": [
+    "Mustard",
     "Maize",
     "Brinjal",
-    "Mustard",
     "Cotton"
    ],
    "a": 3,
@@ -147,10 +147,10 @@
   {
    "q": "Human insulin was first made by:",
    "o": [
-    "Plants",
+    "Sheep",
     "Bacteria",
     "Yeast only",
-    "Sheep"
+    "Plants"
    ],
    "a": 1,
    "w": "Recombinant bacteria."

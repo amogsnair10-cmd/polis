@@ -16,7 +16,7 @@
   {
    "tag": "Concept",
    "h": "Shape and size",
-   "b": "<p>The Milky Way is a <b>barred spiral galaxy</b>: a flat disc about <b>100,000 light-years</b> across and only about 1,000 thick, a central <b>bulge</b> with a bar of stars, and spiral arms where gas and young stars concentrate. It has roughly <b>100 to 400 billion stars</b> and a diffuse <b>halo</b> of old stars and globular clusters.</p><svg class=\"d\" viewBox=\"0 0 320 150\"><defs><marker id=\"ar1\" viewBox=\"0 0 10 10\" refX=\"9\" refY=\"5\" markerWidth=\"6\" markerHeight=\"6\" orient=\"auto\"><path d=\"M0 0L10 5L0 10z\" fill=\"#5d6474\"/></marker></defs><ellipse cx=\"160\" cy=\"75\" rx=\"130\" ry=\"26\" fill=\"#f1e4c6\" stroke=\"#a8792a\"/><circle cx=\"160\" cy=\"75\" r=\"16\" fill=\"#f4dcd5\" stroke=\"#a3362a\"/><text x=\"160\" y=\"79\" text-anchor=\"middle\" font-size=\"10\" fill=\"#1d2433\">Bulge</text><circle cx=\"215\" cy=\"75\" r=\"4\" fill=\"#dceaec\" stroke=\"#2f6f7a\"/><text x=\"226\" y=\"100\" text-anchor=\"start\" font-size=\"10\" fill=\"#1d2433\">Sun</text><text x=\"160\" y=\"125\" text-anchor=\"middle\" font-size=\"10\" fill=\"#5d6474\">Side view: disc about 100,000 ly across</text><text x=\"160\" y=\"25\" text-anchor=\"middle\" font-size=\"10\" fill=\"#5d6474\">Halo of old stars + globular clusters</text><text x=\"300\" y=\"75\" text-anchor=\"middle\" font-size=\"9\" fill=\"#1d2433\"></text></svg>"
+   "b": "<p>The Milky Way is a <b>barred spiral galaxy</b>: a flat disc about <b>100,000 light-years</b> across and only about 1,000 thick, a central <b>bulge</b> with a bar of stars, and spiral arms where gas and young stars concentrate. It has roughly <b>100 to 400 billion stars</b> and a diffuse <b>halo</b> of old stars and globular clusters.</p><svg class=\"d\" viewBox=\"0 0 320 150\"><defs><marker id=\"ar1\" viewBox=\"0 0 10 10\" refX=\"9\" refY=\"5\" markerWidth=\"6\" markerHeight=\"6\" orient=\"auto\"><path d=\"M0 0L10 5L0 10z\" fill=\"#5d6474\"/></marker></defs><ellipse cx=\"160\" cy=\"75\" rx=\"130\" ry=\"26\" fill=\"#f1e4c6\" stroke=\"#a8792a\"/><circle cx=\"160\" cy=\"75\" r=\"16\" fill=\"#f4dcd5\" stroke=\"#a3362a\"/><text x=\"160\" y=\"79\" text-anchor=\"middle\" font-size=\"10\" fill=\"#1d2433\">Bulge</text><circle cx=\"215\" cy=\"75\" r=\"4\" fill=\"#dceaec\" stroke=\"#2f6f7a\"/><text x=\"226\" y=\"100\" text-anchor=\"start\" font-size=\"10\" fill=\"#1d2433\">Sun</text><text x=\"160\" y=\"125\" text-anchor=\"middle\" font-size=\"10\" fill=\"#5d6474\">Side view: disc about 100,000 ly across</text><text x=\"160\" y=\"25\" text-anchor=\"middle\" font-size=\"10\" fill=\"#5d6474\">Halo of old stars + globular clusters</text><text x=\"300\" y=\"75\" text-anchor=\"middle\" font-size=\"10\" fill=\"#1d2433\"></text></svg>"
   },
   {
    "tag": "Concept",
@@ -60,64 +60,64 @@
    "q": "The Milky Way is best described as a:",
    "o": [
     "Elliptical galaxy",
-    "Barred spiral galaxy",
     "Irregular galaxy",
-    "Globular cluster"
+    "Globular cluster",
+    "Barred spiral galaxy"
    ],
-   "a": 1,
+   "a": 3,
    "w": "Barred spiral."
   },
   {
    "q": "The Sun is about how far from the galactic centre?",
    "o": [
-    "2,600 light-years",
-    "26,000 light-years",
     "260,000 light-years",
-    "26 light-years"
+    "2,600 light-years",
+    "26 light-years",
+    "26,000 light-years"
    ],
-   "a": 1,
+   "a": 3,
    "w": "About 26,000 ly."
   },
   {
    "q": "Who used globular clusters to show the Sun is off-centre in 1918?",
    "o": [
+    "Galileo",
     "Shapley",
     "Herschel",
-    "Hubble",
-    "Galileo"
+    "Hubble"
    ],
-   "a": 0,
+   "a": 1,
    "w": "Harlow Shapley."
   },
   {
    "q": "The Sun's galactic orbit takes about:",
    "o": [
-    "225 to 250 million years",
-    "2 million years",
     "25 billion years",
-    "24 hours"
+    "225 to 250 million years",
+    "24 hours",
+    "2 million years"
    ],
-   "a": 0,
+   "a": 1,
    "w": "One galactic year."
   },
   {
    "q": "Sagittarius A* is a:",
    "o": [
-    "Supermassive black hole",
+    "Nebula",
     "Star cluster",
     "Planet",
-    "Nebula"
+    "Supermassive black hole"
    ],
-   "a": 0,
+   "a": 3,
    "w": "About 4 million Suns."
   },
   {
    "q": "The flat rotation curve of the Milky Way suggests:",
    "o": [
     "Dark matter halo",
+    "A hot disc",
     "Fewer stars",
-    "Fusion",
-    "A hot disc"
+    "Fusion"
    ],
    "a": 0,
    "w": "Extra unseen mass."
@@ -125,20 +125,20 @@
   {
    "q": "The dark band across the Milky Way is caused by:",
    "o": [
-    "Dust",
-    "Empty space",
     "Planets",
-    "Shadows"
+    "Shadows",
+    "Dust",
+    "Empty space"
    ],
-   "a": 0,
+   "a": 2,
    "w": "Dust absorbs light."
   },
   {
    "q": "Gaia has measured positions of about:",
    "o": [
     "Two billion stars",
-    "Two thousand stars",
     "200 stars",
+    "Two thousand stars",
     "20 million galaxies"
    ],
    "a": 0,
@@ -147,23 +147,23 @@
   {
    "q": "Hubble proved in 1924 that Andromeda is:",
    "o": [
+    "A star",
     "Another galaxy",
-    "A cloud in our galaxy",
     "A comet",
-    "A star"
+    "A cloud in our galaxy"
    ],
-   "a": 0,
+   "a": 1,
    "w": "Using Cepheids."
   },
   {
    "q": "In Hindi, the Milky Way is called:",
    "o": [
-    "Akashganga",
     "Sapt Rishi",
-    "Dhruva",
-    "Mriga"
+    "Akashganga",
+    "Mriga",
+    "Dhruva"
    ],
-   "a": 0,
+   "a": 1,
    "w": "Akashganga."
   }
  ],

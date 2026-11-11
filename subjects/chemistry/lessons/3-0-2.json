@@ -61,8 +61,8 @@
    "o": [
     "Ethene",
     "Ethane",
-    "Propene",
-    "Styrene"
+    "Styrene",
+    "Propene"
    ],
    "a": 0,
    "w": "CH2=CH2."
@@ -70,100 +70,100 @@
   {
    "q": "Condensation polymerisation releases:",
    "o": [
-    "A small molecule such as water",
     "Nothing",
+    "A small molecule such as water",
     "Large polymers",
     "Oxygen"
    ],
-   "a": 0,
+   "a": 1,
    "w": "E.g. amide or ester formation."
   },
   {
    "q": "Who invented nylon in 1935?",
    "o": [
-    "Wallace Carothers",
     "Leo Baekeland",
     "Charles Goodyear",
-    "Hermann Staudinger"
+    "Hermann Staudinger",
+    "Wallace Carothers"
    ],
-   "a": 0,
+   "a": 3,
    "w": "DuPont."
   },
   {
    "q": "Vulcanisation uses:",
    "o": [
-    "Chlorine",
     "Carbon",
     "Sulphur",
+    "Chlorine",
     "Nitrogen"
    ],
-   "a": 2,
+   "a": 1,
    "w": "Goodyear, 1839."
   },
   {
    "q": "Bakelite is a:",
    "o": [
-    "Thermoset",
     "Thermoplastic",
-    "Natural polymer",
-    "Metal"
+    "Thermoset",
+    "Metal",
+    "Natural polymer"
    ],
-   "a": 0,
+   "a": 1,
    "w": "Cross-linked."
   },
   {
    "q": "Molar mass of a chain of 500 ethene units?",
    "o": [
-    "14,000 g/mol",
-    "28 g/mol",
+    "1,400 g/mol",
     "500 g/mol",
-    "1,400 g/mol"
+    "28 g/mol",
+    "14,000 g/mol"
    ],
-   "a": 0,
+   "a": 3,
    "w": "500 x 28."
   },
   {
    "q": "First fully synthetic plastic (1907):",
    "o": [
-    "Nylon",
-    "Bakelite",
     "PVC",
-    "Teflon"
+    "Teflon",
+    "Nylon",
+    "Bakelite"
    ],
-   "a": 1,
+   "a": 3,
    "w": "Baekeland."
   },
   {
    "q": "PET bottles are made of:",
    "o": [
-    "Polyester",
-    "Polythene",
     "Nylon",
-    "Polystyrene"
+    "Polythene",
+    "Polystyrene",
+    "Polyester"
    ],
-   "a": 0,
+   "a": 3,
    "w": "Condensation polymer."
   },
   {
    "q": "Microplastics are:",
    "o": [
-    "Natural fibres",
     "Seeds",
-    "Bacteria",
-    "Tiny plastic fragments"
+    "Natural fibres",
+    "Tiny plastic fragments",
+    "Bacteria"
    ],
-   "a": 3,
+   "a": 2,
    "w": "Under 5 mm."
   },
   {
    "q": "India's single-use plastic ban took effect on:",
    "o": [
-    "1 July 2022",
-    "1 January 2016",
     "15 August 2017",
-    "1 April 2020"
+    "1 April 2020",
+    "1 July 2022",
+    "1 January 2016"
    ],
-   "a": 0,
+   "a": 2,
    "w": "Under amended 2016 rules."
   }
  ],

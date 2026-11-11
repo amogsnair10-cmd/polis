@@ -59,43 +59,43 @@
   {
    "q": "Who introduced the silver tanka and copper jital?",
    "o": [
-    "Iltutmish",
     "Alauddin Khalji",
+    "Firoz Tughlaq",
     "Balban",
-    "Firoz Tughlaq"
+    "Iltutmish"
    ],
-   "a": 0,
+   "a": 3,
    "w": "Standard coinage."
   },
   {
    "q": "The only woman ruler of the Delhi Sultanate was",
    "o": [
-    "Nur Jahan",
-    "Chand Bibi",
     "Mumtaz",
-    "Raziya"
+    "Raziya",
+    "Nur Jahan",
+    "Chand Bibi"
    ],
-   "a": 3,
+   "a": 1,
    "w": "She ruled 1236 to 40."
   },
   {
    "q": "The Corps of Forty (Chahalgani) was crushed by",
    "o": [
-    "Iltutmish",
     "Alauddin",
     "Balban",
+    "Iltutmish",
     "Firoz"
    ],
-   "a": 2,
+   "a": 1,
    "w": "To strengthen the Sultan."
   },
   {
    "q": "Market control and price regulation are linked to",
    "o": [
-    "Balban",
-    "Alauddin Khalji",
     "Muhammad bin Tughlaq",
-    "Sikandar Lodi"
+    "Alauddin Khalji",
+    "Sikandar Lodi",
+    "Balban"
    ],
    "a": 1,
    "w": "To feed a large army cheaply."
@@ -103,20 +103,20 @@
   {
    "q": "Dagh and chehra were",
    "o": [
+    "Coin types",
     "Branding of horses and muster rolls",
     "Taxes on land",
-    "Judicial courts",
-    "Coin types"
+    "Judicial courts"
    ],
-   "a": 0,
+   "a": 1,
    "w": "Army reforms."
   },
   {
    "q": "Muhammad bin Tughlaq shifted the capital to",
    "o": [
-    "Agra",
-    "Lahore",
     "Fatehpur Sikri",
+    "Lahore",
+    "Agra",
     "Daulatabad"
    ],
    "a": 3,
@@ -125,45 +125,45 @@
   {
    "q": "The Moroccan traveller Ibn Battuta visited in the reign of",
    "o": [
-    "Alauddin Khalji",
     "Firoz Shah",
-    "Muhammad bin Tughlaq",
-    "Iltutmish"
+    "Iltutmish",
+    "Alauddin Khalji",
+    "Muhammad bin Tughlaq"
    ],
-   "a": 2,
+   "a": 3,
    "w": "He served as qazi."
   },
   {
    "q": "Diwan-i-khairat was set up by",
    "o": [
     "Balban",
-    "Firoz Shah Tughlaq",
     "Alauddin",
-    "Iltutmish"
+    "Iltutmish",
+    "Firoz Shah Tughlaq"
    ],
-   "a": 1,
+   "a": 3,
    "w": "For marriages of poor Muslim girls."
   },
   {
    "q": "Timur invaded Delhi in",
    "o": [
-    "1398",
-    "1206",
     "1526",
-    "1451"
+    "1206",
+    "1451",
+    "1398"
    ],
-   "a": 0,
+   "a": 3,
    "w": "In the reign of Mahmud Tughlaq."
   },
   {
    "q": "The last Sultanate dynasty was the",
    "o": [
-    "Sayyid",
-    "Tughlaq",
     "Khalji",
-    "Lodi"
+    "Sayyid",
+    "Lodi",
+    "Tughlaq"
    ],
-   "a": 3,
+   "a": 2,
    "w": "Ibrahim Lodi lost at Panipat in 1526."
   }
  ],

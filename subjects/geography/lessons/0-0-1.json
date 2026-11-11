@@ -70,32 +70,32 @@
   {
    "q": "The Mercalli scale measures",
    "o": [
+    "Intensity",
     "Magnitude",
-    "Depth",
     "Frequency",
-    "Intensity"
+    "Depth"
    ],
-   "a": 3,
+   "a": 0,
    "w": "It rates effects on people and buildings from I to XII."
   },
   {
    "q": "Which belt has most earthquakes?",
    "o": [
-    "Alpine-Himalayan belt",
-    "Circum-Pacific belt",
+    "East African rift",
     "Mid-Atlantic ridge",
-    "East African rift"
+    "Alpine-Himalayan belt",
+    "Circum-Pacific belt"
    ],
-   "a": 1,
+   "a": 3,
    "w": "The Pacific Ring of Fire has about 80% of quakes."
   },
   {
    "q": "Koyna 1967 is an example of",
    "o": [
-    "Volcanic quake",
-    "Reservoir-induced seismicity",
     "Deep-focus quake",
-    "Tsunami quake"
+    "Reservoir-induced seismicity",
+    "Tsunami quake",
+    "Volcanic quake"
    ],
    "a": 1,
    "w": "It followed filling of the Koyna dam in Maharashtra."
@@ -103,65 +103,65 @@
   {
    "q": "A vertical wall of cooled magma is a",
    "o": [
+    "Dyke",
     "Sill",
     "Laccolith",
-    "Batholith",
-    "Dyke"
+    "Batholith"
    ],
-   "a": 3,
+   "a": 0,
    "w": "Sills are horizontal; dykes cut across layers."
   },
   {
    "q": "Which is a composite volcano?",
    "o": [
+    "Yellowstone caldera",
     "Mount Fuji",
-    "Mauna Loa",
     "Deccan Traps",
-    "Yellowstone caldera"
+    "Mauna Loa"
    ],
-   "a": 0,
+   "a": 1,
    "w": "Fuji alternates lava and ash. Mauna Loa is a shield."
   },
   {
    "q": "On the 2002 BIS seismic map, which zone was the most severe?",
    "o": [
-    "II",
-    "III",
+    "V",
     "IV",
-    "V"
+    "III",
+    "II"
    ],
-   "a": 3,
+   "a": 0,
    "w": "Zone V, covering Kashmir, the northeast and Kutch. The 2025 revision adds a Zone VI for the Himalayan arc."
   },
   {
    "q": "Indian Tsunami Early Warning Centre is at",
    "o": [
-    "IMD, Delhi",
     "NDMA, Delhi",
+    "INCOIS, Hyderabad",
     "ISRO, Bengaluru",
-    "INCOIS, Hyderabad"
+    "IMD, Delhi"
    ],
-   "a": 3,
+   "a": 1,
    "w": "It began in 2007 after the 2004 disaster."
   },
   {
    "q": "Why does a tsunami grow tall near the coast?",
    "o": [
-    "It slows down in shallow water",
-    "It gains energy from the wind",
     "Tides push it up",
-    "Salinity increases"
+    "It slows down in shallow water",
+    "Salinity increases",
+    "It gains energy from the wind"
    ],
-   "a": 0,
+   "a": 1,
    "w": "Wave energy is squeezed into a smaller depth, so height rises."
   },
   {
    "q": "Bhuj earthquake occurred in",
    "o": [
+    "2015",
     "1993",
-    "2004",
     "2001",
-    "2015"
+    "2004"
    ],
    "a": 2,
    "w": "26 January 2001. Latur was 1993, Nepal 2015."

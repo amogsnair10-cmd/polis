@@ -59,31 +59,31 @@
   {
    "q": "The stupa’s top square railing-like structure is the",
    "o": [
-    "Anda",
-    "Harmika",
     "Torana",
-    "Vedika"
+    "Vedika",
+    "Anda",
+    "Harmika"
    ],
-   "a": 1,
+   "a": 3,
    "w": "The harmika sits above the dome."
   },
   {
    "q": "The Quwwat-ul-Islam mosque is in",
    "o": [
-    "Delhi (Qutb complex)",
     "Agra",
-    "Jaunpur",
-    "Ahmedabad"
+    "Delhi (Qutb complex)",
+    "Ahmedabad",
+    "Jaunpur"
    ],
-   "a": 0,
+   "a": 1,
    "w": "Begun by Qutbuddin Aibak."
   },
   {
    "q": "Humayun’s Tomb is notable as",
    "o": [
     "The first mosque in India",
-    "A Buddhist stupa",
     "A Rajput fort",
+    "A Buddhist stupa",
     "The first garden tomb in India"
    ],
    "a": 3,
@@ -92,8 +92,8 @@
   {
    "q": "Pietra dura was first used in",
    "o": [
-    "Humayun’s Tomb",
     "Fatehpur Sikri",
+    "Humayun’s Tomb",
     "Itimad-ud-daula’s tomb",
     "Red Fort"
    ],
@@ -103,67 +103,67 @@
   {
    "q": "Gol Gumbaz is in",
    "o": [
-    "Golconda",
-    "Bijapur",
     "Delhi",
-    "Lahore"
+    "Lahore",
+    "Bijapur",
+    "Golconda"
    ],
-   "a": 1,
+   "a": 2,
    "w": "The tomb of Muhammad Adil Shah."
   },
   {
    "q": "The Taj Mahal was completed around",
    "o": [
-    "1653",
-    "1560",
     "1600",
-    "1707"
+    "1653",
+    "1707",
+    "1560"
    ],
-   "a": 0,
+   "a": 1,
    "w": "Built for Mumtaz Mahal."
   },
   {
    "q": "Indo-Saracenic style is seen in",
    "o": [
-    "Taj Mahal",
-    "Qutb Minar",
+    "Victoria Memorial, Calcutta",
     "Humayun’s tomb",
-    "Victoria Memorial, Calcutta"
+    "Taj Mahal",
+    "Qutb Minar"
    ],
-   "a": 3,
+   "a": 0,
    "w": "A British blend of Gothic and Mughal."
   },
   {
    "q": "Who designed New Delhi with Herbert Baker?",
    "o": [
-    "Le Corbusier",
-    "Charles Correa",
     "Edwin Lutyens",
+    "Charles Correa",
+    "Le Corbusier",
     "Laurie Baker"
    ],
-   "a": 2,
+   "a": 0,
    "w": "Construction ran from the 1910s to 1931."
   },
   {
    "q": "The Capitol Complex at Chandigarh was designed by",
    "o": [
-    "Louis Kahn",
     "Le Corbusier",
-    "B. V. Doshi",
-    "Lutyens"
+    "Lutyens",
+    "Louis Kahn",
+    "B. V. Doshi"
    ],
-   "a": 1,
+   "a": 0,
    "w": "UNESCO listed it in 2016."
   },
   {
    "q": "The Buland Darwaza was built by Akbar at",
    "o": [
-    "Fatehpur Sikri",
     "Agra",
+    "Fatehpur Sikri",
     "Delhi",
     "Lahore"
    ],
-   "a": 0,
+   "a": 1,
    "w": "To mark the Gujarat victory."
   }
  ],

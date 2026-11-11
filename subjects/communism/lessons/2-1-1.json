@@ -54,23 +54,23 @@
   {
    "q": "Stalin became general secretary in",
    "o": [
-    "1917",
+    "1936",
     "1929",
-    "1922",
-    "1936"
+    "1917",
+    "1922"
    ],
-   "a": 2,
+   "a": 3,
    "w": "April 1922."
   },
   {
    "q": "Socialism in one country was proposed in",
    "o": [
-    "1905",
     "1941",
-    "1924",
-    "1953"
+    "1905",
+    "1953",
+    "1924"
    ],
-   "a": 2,
+   "a": 3,
    "w": "Against Trotsky."
   },
   {
@@ -87,64 +87,64 @@
   {
    "q": "The Great Terror followed the murder of",
    "o": [
-    "Trotsky",
     "Lenin",
-    "Dzerzhinsky",
-    "Kirov"
+    "Trotsky",
+    "Kirov",
+    "Dzerzhinsky"
    ],
-   "a": 3,
+   "a": 2,
    "w": "In December 1934."
   },
   {
    "q": "Recorded executions in 1937-38 were around",
    "o": [
+    "27 million",
     "68,000",
-    "680,000",
     "6 million",
-    "27 million"
+    "680,000"
    ],
-   "a": 1,
+   "a": 3,
    "w": "Archival counts."
   },
   {
    "q": "Soviet deaths in the Second World War are usually estimated at",
    "o": [
-    "About 27 million",
-    "About 2 million",
+    "About 100 million",
     "About 5 million",
-    "About 100 million"
+    "About 2 million",
+    "About 27 million"
    ],
-   "a": 0,
+   "a": 3,
    "w": "Both soldiers and civilians."
   },
   {
    "q": "Who wrote The Great Terror (1968)?",
    "o": [
     "J. Arch Getty",
-    "Isaac Deutscher",
     "Robert Conquest",
+    "Isaac Deutscher",
     "E.H. Carr"
    ],
-   "a": 2,
+   "a": 1,
    "w": "A Cold War classic."
   },
   {
    "q": "The CPI opposed the Quit India Movement because it",
    "o": [
-    "Was banned",
-    "Backed the Soviet-aligned People's War",
     "Supported Japan",
-    "Supported the Muslim League"
+    "Supported the Muslim League",
+    "Backed the Soviet-aligned People's War",
+    "Was banned"
    ],
-   "a": 1,
+   "a": 2,
    "w": "After June 1941."
   },
   {
    "q": "Socialist realism became official in",
    "o": [
-    "1917",
     "1950",
     "1921",
+    "1917",
     "1934"
    ],
    "a": 3,
@@ -154,9 +154,9 @@
    "q": "Which steel plant was built with Soviet help from 1955?",
    "o": [
     "Bhilai",
+    "Jamshedpur",
     "Rourkela",
-    "Durgapur",
-    "Jamshedpur"
+    "Durgapur"
    ],
    "a": 0,
    "w": "Agreement 1955."

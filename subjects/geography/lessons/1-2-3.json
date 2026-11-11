@@ -60,53 +60,53 @@
    "q": "Golden Quadrilateral connects",
    "o": [
     "Delhi, Jaipur, Mumbai, Pune",
-    "Delhi, Mumbai, Chennai and Kolkata",
     "Mumbai, Bengaluru, Chennai, Hyderabad",
+    "Delhi, Mumbai, Chennai and Kolkata",
     "Kolkata, Patna, Delhi, Guwahati"
    ],
-   "a": 1,
+   "a": 2,
    "w": "The four metros."
   },
   {
    "q": "First railway in India ran between",
    "o": [
+    "Madras and Arakkonam",
     "Calcutta and Howrah",
     "Bombay and Thane",
-    "Madras and Arakkonam",
     "Delhi and Agra"
    ],
-   "a": 1,
+   "a": 2,
    "w": "1853, 34 km."
   },
   {
    "q": "NW-1 runs along the",
    "o": [
     "Brahmaputra",
-    "Godavari",
     "West Coast",
-    "Ganga"
+    "Ganga",
+    "Godavari"
    ],
-   "a": 3,
+   "a": 2,
    "w": "Haldia to Prayagraj."
   },
   {
    "q": "UDAN is a scheme for",
    "o": [
-    "Regional air connectivity",
+    "Port development",
     "Rural roads",
     "Freight corridors",
-    "Port development"
+    "Regional air connectivity"
    ],
-   "a": 0,
+   "a": 3,
    "w": "Launched in 2016."
   },
   {
    "q": "Sagarmala promotes",
    "o": [
-    "River interlinking",
+    "Metro rail",
     "Satellite communication",
     "Port-led development",
-    "Metro rail"
+    "River interlinking"
    ],
    "a": 2,
    "w": "Launched in 2015."
@@ -114,21 +114,21 @@
   {
    "q": "PMGSY is for",
    "o": [
-    "Highways",
     "Ports",
-    "Metros",
-    "Rural roads"
+    "Highways",
+    "Rural roads",
+    "Metros"
    ],
-   "a": 3,
+   "a": 2,
    "w": "Started in 2000."
   },
   {
    "q": "Western Dedicated Freight Corridor runs from Dadri to",
    "o": [
     "JNPT",
+    "Kandla",
     "Kolkata",
-    "Chennai",
-    "Kandla"
+    "Chennai"
    ],
    "a": 0,
    "w": "Eastern runs Ludhiana to Sonnagar."
@@ -136,31 +136,31 @@
   {
    "q": "Chabahar port is in",
    "o": [
-    "Oman",
+    "Pakistan",
     "UAE",
-    "Iran",
-    "Pakistan"
+    "Oman",
+    "Iran"
    ],
-   "a": 2,
+   "a": 3,
    "w": "It gives India a route to Afghanistan."
   },
   {
    "q": "About what share of India's trade by volume moves by sea?",
    "o": [
-    "95%",
-    "50%",
+    "25%",
     "70%",
-    "25%"
+    "50%",
+    "95%"
    ],
-   "a": 0,
+   "a": 3,
    "w": "Hence port importance."
   },
   {
    "q": "5G in India was launched in",
    "o": [
-    "2016",
-    "2019",
     "2024",
+    "2019",
+    "2016",
     "2022"
    ],
    "a": 3,

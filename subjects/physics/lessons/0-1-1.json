@@ -59,10 +59,10 @@
   {
    "q": "Simple harmonic motion needs a restoring force that is",
    "o": [
-    "Constant",
+    "Proportional to speed",
     "Proportional to displacement",
     "Zero at the ends",
-    "Proportional to speed"
+    "Constant"
    ],
    "a": 1,
    "w": "F = -kx."
@@ -70,10 +70,10 @@
   {
    "q": "A swing takes 4 s for one cycle. Its frequency is",
    "o": [
-    "4 Hz",
+    "8 Hz",
     "0.25 Hz",
     "2 Hz",
-    "8 Hz"
+    "4 Hz"
    ],
    "a": 1,
    "w": "f = 1/T."
@@ -81,43 +81,43 @@
   {
    "q": "The period of a simple pendulum depends on",
    "o": [
-    "Mass and length",
     "Length and g",
-    "Mass only",
-    "Amplitude only"
+    "Amplitude only",
+    "Mass and length",
+    "Mass only"
    ],
-   "a": 1,
+   "a": 0,
    "w": "T = 2 pi root (L/g)."
   },
   {
    "q": "Doubling the mass on a spring makes the period",
    "o": [
-    "Half",
-    "Same",
+    "Four times",
     "Longer by a factor root 2",
-    "Four times"
+    "Half",
+    "Same"
    ],
-   "a": 2,
+   "a": 1,
    "w": "T is proportional to root of m."
   },
   {
    "q": "At the centre of SHM, an oscillator has",
    "o": [
-    "Maximum PE",
     "Maximum speed",
+    "Zero energy",
     "Maximum acceleration",
-    "Zero energy"
+    "Maximum PE"
    ],
-   "a": 1,
+   "a": 0,
    "w": "All energy is kinetic there."
   },
   {
    "q": "Acceleration in SHM is greatest",
    "o": [
-    "At the centre",
+    "Never",
     "At the ends",
     "At mid-points",
-    "Never"
+    "At the centre"
    ],
    "a": 1,
    "w": "Restoring force is largest at the ends."
@@ -125,21 +125,21 @@
   {
    "q": "A spring has k = 100 N/m and is stretched 0.2 m. Force?",
    "o": [
-    "2 N",
-    "20 N",
+    "0.002 N",
     "500 N",
-    "0.002 N"
+    "2 N",
+    "20 N"
    ],
-   "a": 1,
+   "a": 3,
    "w": "kx = 20."
   },
   {
    "q": "Resonance occurs when driving frequency",
    "o": [
-    "Is zero",
+    "Is half the amplitude",
     "Equals the natural frequency",
-    "Is very high",
-    "Is half the amplitude"
+    "Is zero",
+    "Is very high"
    ],
    "a": 1,
    "w": "Matching frequencies build large amplitude."
@@ -148,22 +148,22 @@
    "q": "Who built the first accurate pendulum clock (1656)?",
    "o": [
     "Newton",
-    "Huygens",
     "Galileo",
-    "Kepler"
+    "Kepler",
+    "Huygens"
    ],
-   "a": 1,
+   "a": 3,
    "w": "Christiaan Huygens."
   },
   {
    "q": "If the length of a pendulum is made four times, its period",
    "o": [
-    "Doubles",
-    "Quadruples",
+    "Stays same",
     "Halves",
-    "Stays same"
+    "Doubles",
+    "Quadruples"
    ],
-   "a": 0,
+   "a": 2,
    "w": "T is proportional to root L."
   }
  ],

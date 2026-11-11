@@ -59,20 +59,20 @@
   {
    "q": "The NGT Act was enacted in:",
    "o": [
-    "2010",
-    "1995",
     "1986",
-    "2002"
+    "1995",
+    "2002",
+    "2010"
    ],
-   "a": 0,
+   "a": 3,
    "w": "The NGT began work in October 2010."
   },
   {
    "q": "Article 48A is a:",
    "o": [
+    "Constitutional amendment",
     "Fundamental Right",
     "Fundamental Duty",
-    "Constitutional amendment",
     "Directive Principle"
    ],
    "a": 3,
@@ -81,86 +81,86 @@
   {
    "q": "Which Act is NOT within the NGT’s jurisdiction?",
    "o": [
-    "Air Act",
-    "Water Act",
     "Wildlife Protection Act",
+    "Water Act",
+    "Air Act",
     "Biological Diversity Act"
    ],
-   "a": 2,
+   "a": 0,
    "w": "Wildlife and Indian Forest Act 1927 are outside."
   },
   {
    "q": "The case that created absolute liability is:",
    "o": [
-    "Vellore Citizens",
-    "M.C. Mehta (Oleum gas)",
     "Kamal Nath",
-    "Godavarman"
+    "Vellore Citizens",
+    "Godavarman",
+    "M.C. Mehta (Oleum gas)"
    ],
-   "a": 1,
+   "a": 3,
    "w": "It went beyond Rylands v Fletcher."
   },
   {
    "q": "The EPA 1986 followed which event?",
    "o": [
-    "Bhopal gas tragedy",
     "Chernobyl",
     "Minamata",
+    "Bhopal gas tragedy",
     "Seveso"
    ],
-   "a": 0,
+   "a": 2,
    "w": "Bhopal was in December 1984."
   },
   {
    "q": "The NGT’s Principal Bench is at:",
    "o": [
-    "Pune",
-    "Chennai",
     "Kolkata",
-    "New Delhi"
+    "New Delhi",
+    "Pune",
+    "Chennai"
    ],
-   "a": 3,
+   "a": 1,
    "w": "Regional benches elsewhere."
   },
   {
    "q": "The NGT aims to dispose of cases within:",
    "o": [
-    "One year",
-    "Three months",
     "Six months",
-    "Two years"
+    "Three months",
+    "Two years",
+    "One year"
    ],
-   "a": 2,
+   "a": 0,
    "w": "Of filing."
   },
   {
    "q": "Public trust doctrine was applied in:",
    "o": [
-    "Subhash Kumar",
     "M.C. Mehta v Kamal Nath",
     "Ranjitsinh",
+    "Subhash Kumar",
     "Lafarge"
    ],
-   "a": 1,
+   "a": 0,
    "w": "1997 case on Beas river land."
   },
   {
    "q": "The 2024 Ranjitsinh judgment linked climate to:",
    "o": [
-    "Articles 14 and 21",
     "Article 19",
     "Article 32",
-    "Article 253"
+    "Article 253",
+    "Articles 14 and 21"
    ],
-   "a": 0,
+   "a": 3,
    "w": "A right against the adverse effects of climate change."
   },
   {
    "q": "Entries 17A and 17B of the Concurrent List cover:",
    "o": [
-    "Education",
-    "Trade unions",
     "Marriage",
+    "Trade unions",
+    "Education",
     "Forests and wild animals"
    ],
    "a": 3,

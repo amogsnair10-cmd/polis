@@ -59,12 +59,12 @@
   {
    "q": "The Regulating Act 1773 created",
    "o": [
+    "The Public Service Commission",
     "The Federal Court",
     "The Reserve Bank",
-    "The Supreme Court at Calcutta",
-    "The Public Service Commission"
+    "The Supreme Court at Calcutta"
    ],
-   "a": 2,
+   "a": 3,
    "w": "It also made Hastings Governor-General of Bengal."
   },
   {
@@ -72,8 +72,8 @@
    "o": [
     "The Viceroy",
     "The Board of Control",
-    "Dyarchy",
-    "The Federal Court"
+    "The Federal Court",
+    "Dyarchy"
    ],
    "a": 1,
    "w": "It set up dual control."
@@ -81,63 +81,63 @@
   {
    "q": "The title Governor-General of India came with the",
    "o": [
-    "Charter Act 1833",
-    "Regulating Act 1773",
     "Act of 1858",
-    "Act of 1909"
+    "Charter Act 1833",
+    "Act of 1909",
+    "Regulating Act 1773"
    ],
-   "a": 0,
+   "a": 1,
    "w": "Bentinck became the first."
   },
   {
    "q": "Which Act ended Company rule?",
    "o": [
+    "Government of India Act 1858",
     "Charter Act 1853",
-    "Regulating Act 1773",
     "Indian Councils Act 1861",
-    "Government of India Act 1858"
+    "Regulating Act 1773"
    ],
-   "a": 3,
+   "a": 0,
    "w": "The Crown took over."
   },
   {
    "q": "Separate electorates were first given to Muslims by",
    "o": [
-    "Act of 1892",
-    "Act of 1919",
     "Indian Councils Act 1909",
-    "Act of 1935"
+    "Act of 1919",
+    "Act of 1935",
+    "Act of 1892"
    ],
-   "a": 2,
+   "a": 0,
    "w": "Morley-Minto Reforms."
   },
   {
    "q": "Dyarchy was introduced in the provinces by",
    "o": [
-    "Act 1909",
-    "Government of India Act 1919",
     "Act 1935",
-    "Act 1861"
+    "Act 1861",
+    "Government of India Act 1919",
+    "Act 1909"
    ],
-   "a": 1,
+   "a": 2,
    "w": "Reserved and transferred subjects."
   },
   {
    "q": "Which Act introduced provincial autonomy?",
    "o": [
-    "Government of India Act 1935",
     "Act 1919",
     "Act 1909",
+    "Government of India Act 1935",
     "Independence Act 1947"
    ],
-   "a": 0,
+   "a": 2,
    "w": "It abolished dyarchy in provinces."
   },
   {
    "q": "The Federal Court was set up under",
    "o": [
-    "Charter Act 1833",
     "Act 1919",
+    "Charter Act 1833",
     "Regulating Act 1773",
     "Government of India Act 1935"
    ],
@@ -147,10 +147,10 @@
   {
    "q": "The Indian Independence Act 1947 created",
    "o": [
-    "A federation",
     "A single dominion",
+    "Three dominions",
     "Two dominions, India and Pakistan",
-    "Three dominions"
+    "A federation"
    ],
    "a": 2,
    "w": "From 15 August 1947."
@@ -158,12 +158,12 @@
   {
    "q": "The portfolio system was introduced by",
    "o": [
-    "Act of 1892",
-    "Indian Councils Act 1861",
+    "Act of 1919",
     "Act of 1909",
-    "Act of 1919"
+    "Indian Councils Act 1861",
+    "Act of 1892"
    ],
-   "a": 1,
+   "a": 2,
    "w": "Under Canning."
   }
  ],

@@ -54,65 +54,65 @@
   {
    "q": "For Marx and Reading Capital appeared in",
    "o": [
-    "1844",
-    "1917",
     "1980",
-    "1965"
+    "1844",
+    "1965",
+    "1917"
    ],
-   "a": 3,
+   "a": 2,
    "w": "Paris."
   },
   {
    "q": "Althusser's \"break\" separates",
    "o": [
-    "Humanist young Marx from scientific mature Marx",
     "Marx from Engels",
+    "Humanist young Marx from scientific mature Marx",
     "Lenin from Stalin",
     "Hegel from Kant"
    ],
-   "a": 0,
+   "a": 1,
    "w": "Around 1845."
   },
   {
    "q": "Ideological State Apparatuses include",
    "o": [
-    "Army and police",
+    "School, church, family, media",
     "Parliament only",
     "Banks only",
-    "School, church, family, media"
+    "Army and police"
    ],
-   "a": 3,
+   "a": 0,
    "w": "Repressive apparatus is separate."
   },
   {
    "q": "Interpellation is illustrated by",
    "o": [
     "A strike vote",
-    "A policeman calling \"Hey, you!\"",
+    "A speech in Parliament",
     "A tax return",
-    "A speech in Parliament"
+    "A policeman calling \"Hey, you!\""
    ],
-   "a": 1,
+   "a": 3,
    "w": "Ideology addresses individuals as subjects."
   },
   {
    "q": "Who wrote The Poverty of Theory (1978)?",
    "o": [
-    "Perry Anderson",
-    "Hobsbawm",
     "E.P. Thompson",
-    "Hill"
+    "Hill",
+    "Perry Anderson",
+    "Hobsbawm"
    ],
-   "a": 2,
+   "a": 0,
    "w": "An attack on Althusser."
   },
   {
    "q": "History as a \"process without a subject\" means",
    "o": [
-    "Nobody is responsible",
+    "History has no direction",
     "Structures, not individuals, are the drivers",
-    "Subjects rule",
-    "History has no direction"
+    "Nobody is responsible",
+    "Subjects rule"
    ],
    "a": 1,
    "w": "Anti-humanist."
@@ -120,45 +120,45 @@
   {
    "q": "Overdetermination refers to",
    "o": [
-    "Many contradictions fusing in a conjuncture",
-    "One economic cause",
     "Random events",
+    "One economic cause",
+    "Many contradictions fusing in a conjuncture",
     "Class consciousness"
    ],
-   "a": 0,
+   "a": 2,
    "w": "Applied to Russia 1917."
   },
   {
    "q": "A student or associate of Althusser was",
    "o": [
-    "Nicos Poulantzas",
-    "Herbert Marcuse",
     "Karl Kautsky",
-    "Rosa Luxemburg"
+    "Rosa Luxemburg",
+    "Nicos Poulantzas",
+    "Herbert Marcuse"
    ],
-   "a": 0,
+   "a": 2,
    "w": "And Balibar and Rancière."
   },
   {
    "q": "Althusser killed his wife in",
    "o": [
+    "1990",
     "1980",
     "1968",
-    "1956",
-    "1990"
+    "1956"
    ],
-   "a": 0,
+   "a": 1,
    "w": "He was declared unfit to stand trial."
   },
   {
    "q": "Which Indian educationist studied curriculum as political agenda?",
    "o": [
-    "Krishna Kumar",
+    "Yash Pal",
     "Amartya Sen",
     "Romila Thapar",
-    "Yash Pal"
+    "Krishna Kumar"
    ],
-   "a": 0,
+   "a": 3,
    "w": "Political Agenda of Education (1991)."
   }
  ],

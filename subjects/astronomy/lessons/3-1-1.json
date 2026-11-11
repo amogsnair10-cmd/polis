@@ -59,21 +59,21 @@
   {
    "q": "The universe's age is about:",
    "o": [
+    "4.6 billion years",
     "1.38 billion years",
     "13.8 billion years",
-    "138 billion years",
-    "4.6 billion years"
+    "138 billion years"
    ],
-   "a": 1,
+   "a": 2,
    "w": "13.8 billion years."
   },
   {
    "q": "The CMB temperature today is:",
    "o": [
     "2.725 K",
+    "2,725 K",
     "273 K",
-    "27 K",
-    "2,725 K"
+    "27 K"
    ],
    "a": 0,
    "w": "About 2.7 K."
@@ -81,12 +81,12 @@
   {
    "q": "The CMB was released when:",
    "o": [
-    "Atoms formed, about 380,000 years",
     "Stars formed",
     "Galaxies formed",
-    "The Sun formed"
+    "The Sun formed",
+    "Atoms formed, about 380,000 years"
    ],
-   "a": 0,
+   "a": 3,
    "w": "Light became free to travel."
   },
   {
@@ -103,34 +103,34 @@
   {
    "q": "The Big Bang predicts the universe's helium share is about:",
    "o": [
-    "25 percent",
-    "2 percent",
+    "50 percent",
     "75 percent",
-    "50 percent"
+    "2 percent",
+    "25 percent"
    ],
-   "a": 0,
+   "a": 3,
    "w": "By mass."
   },
   {
    "q": "What did COBE show in 1992?",
    "o": [
-    "The CMB is a near-perfect blackbody",
     "Dark matter exists",
-    "Black holes merge",
-    "Planets form"
+    "Planets form",
+    "The CMB is a near-perfect blackbody",
+    "Black holes merge"
    ],
-   "a": 0,
+   "a": 2,
    "w": "Spectrum matches theory."
   },
   {
    "q": "CMB ripples are important because they:",
    "o": [
-    "Seeded the structure",
     "Are noise",
+    "Seeded the structure",
     "Show planets",
     "Show comets"
    ],
-   "a": 0,
+   "a": 1,
    "w": "Denser patches grew into galaxies."
   },
   {
@@ -138,8 +138,8 @@
    "o": [
     "An explosion at a point in space",
     "Expansion of space everywhere",
-    "A black hole",
-    "A star"
+    "A star",
+    "A black hole"
    ],
    "a": 1,
    "w": "There is no central point."
@@ -147,21 +147,21 @@
   {
    "q": "SARAS 3 tested a signal related to:",
    "o": [
+    "Pulsars",
     "The first stars",
     "Dark matter in the Sun",
-    "Pulsars",
     "Comets"
    ],
-   "a": 0,
+   "a": 1,
    "w": "Cosmic dawn."
   },
   {
    "q": "Inflation was proposed by:",
    "o": [
     "Alan Guth",
+    "Hawking",
     "Hubble",
-    "Chandrasekhar",
-    "Hawking"
+    "Chandrasekhar"
    ],
    "a": 0,
    "w": "1981."

@@ -59,10 +59,10 @@
   {
    "q": "Ice-albedo feedback means",
    "o": [
-    "More ice causes warming",
     "Ice cools oceans",
+    "Albedo is constant",
     "Less ice causes more warming",
-    "Albedo is constant"
+    "More ice causes warming"
    ],
    "a": 2,
    "w": "Dark surfaces absorb more heat."
@@ -70,53 +70,53 @@
   {
    "q": "Melting of which ice raises sea level most directly?",
    "o": [
-    "Greenland ice sheet",
     "Arctic sea ice",
     "Floating ice shelves",
-    "Icebergs"
+    "Icebergs",
+    "Greenland ice sheet"
    ],
-   "a": 0,
+   "a": 3,
    "w": "Land ice adds water to the ocean."
   },
   {
    "q": "Aral Sea shrank mainly due to",
    "o": [
-    "Volcanic activity",
-    "Tides",
     "Glacial melt",
-    "Irrigation diversion of rivers"
+    "Tides",
+    "Irrigation diversion of rivers",
+    "Volcanic activity"
    ],
-   "a": 3,
+   "a": 2,
    "w": "Amu Darya and Syr Darya were diverted for cotton."
   },
   {
    "q": "GLOF stands for",
    "o": [
     "Global land observation framework",
-    "Glacial lake outburst flood",
     "Glacier load of fresh water",
+    "Glacial lake outburst flood",
     "Great lake ocean flow"
    ],
-   "a": 1,
+   "a": 2,
    "w": "A glacial lake bursts its dam."
   },
   {
    "q": "Warming above pre-industrial level so far is about",
    "o": [
+    "3 C",
     "0.2 C",
     "1.1 to 1.2 C",
-    "3 C",
     "5 C"
    ],
-   "a": 1,
+   "a": 2,
    "w": "IPCC AR6."
   },
   {
    "q": "Coral bleaching occurs when corals",
    "o": [
+    "Lose salt",
     "Absorb too much carbon",
     "Grow too fast",
-    "Lose salt",
     "Expel algae due to heat stress"
    ],
    "a": 3,
@@ -126,8 +126,8 @@
    "q": "NAPCC was launched in",
    "o": [
     "2008",
-    "1992",
     "2015",
+    "1992",
     "2021"
    ],
    "a": 0,
@@ -136,34 +136,34 @@
   {
    "q": "Sundarbans lie in the delta of",
    "o": [
+    "Ganga-Brahmaputra",
     "Mahanadi",
     "Godavari",
-    "Ganga-Brahmaputra",
     "Indus"
    ],
-   "a": 2,
+   "a": 0,
    "w": "Mangroves and shrinking islands."
   },
   {
    "q": "Net-zero target year for India is",
    "o": [
-    "2030",
     "2050",
-    "2100",
-    "2070"
+    "2070",
+    "2030",
+    "2100"
    ],
-   "a": 3,
+   "a": 1,
    "w": "Announced at COP26."
   },
   {
    "q": "Thermal expansion of seawater contributes to",
    "o": [
-    "Sea level rise",
-    "Ocean cooling",
     "Salinity fall only",
-    "Tides"
+    "Sea level rise",
+    "Tides",
+    "Ocean cooling"
    ],
-   "a": 0,
+   "a": 1,
    "w": "Warm water expands."
   }
  ],

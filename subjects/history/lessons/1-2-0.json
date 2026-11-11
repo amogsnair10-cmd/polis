@@ -59,111 +59,111 @@
   {
    "q": "The First Battle of Panipat was in",
    "o": [
-    "1556",
-    "1526",
     "1761",
-    "1539"
+    "1556",
+    "1539",
+    "1526"
    ],
-   "a": 1,
+   "a": 3,
    "w": "Babur defeated Ibrahim Lodi."
   },
   {
    "q": "Sher Shah defeated Humayun at",
    "o": [
+    "Talikota and Tarain",
     "Chausa and Kannauj",
     "Panipat and Khanwa",
-    "Haldighati and Plassey",
-    "Talikota and Tarain"
+    "Haldighati and Plassey"
    ],
-   "a": 0,
+   "a": 1,
    "w": "In 1539 and 1540."
   },
   {
    "q": "Din-i-Ilahi was announced by",
    "o": [
-    "Jahangir",
-    "Shah Jahan",
+    "Akbar",
     "Dara Shikoh",
-    "Akbar"
+    "Jahangir",
+    "Shah Jahan"
    ],
-   "a": 3,
+   "a": 0,
    "w": "In 1582."
   },
   {
    "q": "Zat in the mansabdari system indicated",
    "o": [
-    "Number of cavalry",
-    "Land revenue",
+    "Court title only",
     "Personal rank and pay",
-    "Court title only"
+    "Land revenue",
+    "Number of cavalry"
    ],
-   "a": 2,
+   "a": 1,
    "w": "Sawar was the cavalry rank."
   },
   {
    "q": "The Dahsala system is associated with",
    "o": [
-    "Abul Fazl",
-    "Todar Mal",
+    "Man Singh",
     "Birbal",
-    "Man Singh"
+    "Todar Mal",
+    "Abul Fazl"
    ],
-   "a": 1,
+   "a": 2,
    "w": "It used ten years’ data."
   },
   {
    "q": "Ain-i-Akbari was written by",
    "o": [
-    "Abul Fazl",
     "Badauni",
     "Faizi",
+    "Abul Fazl",
     "Babur"
    ],
-   "a": 0,
+   "a": 2,
    "w": "It is part of the Akbarnama."
   },
   {
    "q": "Jizya was abolished by Akbar in",
    "o": [
-    "1526",
+    "1564",
     "1679",
     "1580",
-    "1564"
+    "1526"
    ],
-   "a": 3,
+   "a": 0,
    "w": "Aurangzeb reimposed it in 1679."
   },
   {
    "q": "Sir Thomas Roe came to the court of",
    "o": [
-    "Akbar",
-    "Shah Jahan",
     "Jahangir",
-    "Aurangzeb"
+    "Aurangzeb",
+    "Akbar",
+    "Shah Jahan"
    ],
-   "a": 2,
+   "a": 0,
    "w": "In 1615."
   },
   {
    "q": "The Grand Trunk Road was built mainly by",
    "o": [
-    "Akbar",
     "Sher Shah",
+    "Alauddin Khalji",
     "Shah Jahan",
-    "Alauddin Khalji"
+    "Akbar"
    ],
-   "a": 1,
+   "a": 0,
    "w": "From Sonargaon to the Indus."
   },
   {
    "q": "The jagirdari crisis is linked to",
    "o": [
-    "The decline under Aurangzeb",
     "Akbar’s early conquests",
+    "Humayun’s exile",
     "Babur’s victory",
-    "Humayun’s exile"
+    "The decline under Aurangzeb"
    ],
-   "a": 0,
+   "a": 3,
    "w": "Shortage of jagirs for nobles."
   }
  ],

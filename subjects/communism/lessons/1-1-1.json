@@ -59,10 +59,10 @@
   {
    "q": "Luxemburg's Reform or Revolution (1899) attacked",
    "o": [
-    "Lenin",
-    "Bernstein",
     "Kautsky",
-    "Engels"
+    "Bernstein",
+    "Engels",
+    "Lenin"
    ],
    "a": 1,
    "w": "The revisionist."
@@ -71,31 +71,31 @@
    "q": "The Mass Strike (1906) was written after",
    "o": [
     "The Paris Commune",
+    "The Boer War",
     "The 1905 Russian Revolution",
-    "World War I",
-    "The Boer War"
+    "World War I"
    ],
-   "a": 1,
+   "a": 2,
    "w": "1905."
   },
   {
    "q": "The Accumulation of Capital (1913) argues capitalism needs",
    "o": [
-    "Unions",
     "Nationalisation",
     "Non-capitalist regions",
+    "Unions",
     "Gold standard"
    ],
-   "a": 2,
+   "a": 1,
    "w": "To realise surplus value."
   },
   {
    "q": "She said freedom is always freedom for",
    "o": [
     "The one who thinks differently",
-    "The party",
     "The majority",
-    "Workers only"
+    "Workers only",
+    "The party"
    ],
    "a": 0,
    "w": "Russian Revolution, 1918."
@@ -103,52 +103,52 @@
   {
    "q": "She was killed in",
    "o": [
-    "Moscow, 1924",
-    "Paris, 1871",
     "Warsaw, 1905",
-    "Berlin, January 1919"
+    "Moscow, 1924",
+    "Berlin, January 1919",
+    "Paris, 1871"
    ],
-   "a": 3,
+   "a": 2,
    "w": "By Freikorps soldiers."
   },
   {
    "q": "Which group did she co-found in 1916?",
    "o": [
-    "The Bolsheviks",
-    "The SPD",
     "The Spartacus League",
+    "The SPD",
+    "The Bolsheviks",
     "The Comintern"
    ],
-   "a": 2,
+   "a": 0,
    "w": "Later joined the KPD."
   },
   {
    "q": "Lenin called her",
    "o": [
-    "A renegade",
-    "A utopian",
+    "An eagle",
     "An anarchist",
-    "An eagle"
+    "A renegade",
+    "A utopian"
    ],
-   "a": 3,
+   "a": 0,
    "w": "1922 comment."
   },
   {
    "q": "Which critique targets her accumulation theory?",
    "o": [
     "It ignores colonies",
-    "Capitalists can sell to each other",
     "It rejects Marx",
+    "Capitalists can sell to each other",
     "It denies wages"
    ],
-   "a": 1,
+   "a": 2,
    "w": "Bauer and Bukharin."
   },
   {
    "q": "Which Indian strike was led outside established unions by Datta Samant?",
    "o": [
-    "Railway strike, 1974",
     "Kanpur strike, 1924",
+    "Railway strike, 1974",
     "Ahmedabad strike, 1918",
     "Bombay textile strike, 1982"
    ],
@@ -158,8 +158,8 @@
   {
    "q": "Guha's Elementary Aspects of Peasant Insurgency (1983) stresses",
    "o": [
-    "Party leadership",
     "State planning",
+    "Party leadership",
     "Peasant autonomy",
     "Religion only"
    ],

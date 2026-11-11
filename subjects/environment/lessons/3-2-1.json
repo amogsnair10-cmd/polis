@@ -59,9 +59,9 @@
   {
    "q": "India reached 50 percent non-fossil installed capacity in:",
    "o": [
-    "2030",
     "2022",
     "2019",
+    "2030",
     "2025"
    ],
    "a": 3,
@@ -70,8 +70,8 @@
   {
    "q": "The National Green Hydrogen Mission targets how much by 2030?",
    "o": [
-    "1 million tonnes",
     "50 million tonnes",
+    "1 million tonnes",
     "5 million tonnes a year",
     "10 million tonnes"
    ],
@@ -81,10 +81,10 @@
   {
    "q": "PM-KUSUM supports:",
    "o": [
-    "Rooftop solar for homes",
+    "Biogas",
     "Solar pumps for farmers",
     "EV charging",
-    "Biogas"
+    "Rooftop solar for homes"
    ],
    "a": 1,
    "w": "PM Surya Ghar is for homes."
@@ -92,32 +92,32 @@
   {
    "q": "Which scheme supports rooftop solar for 1 crore homes?",
    "o": [
-    "PM Surya Ghar Muft Bijli Yojana",
-    "PM-KUSUM",
     "FAME II",
-    "UJALA"
+    "PM-KUSUM",
+    "UJALA",
+    "PM Surya Ghar Muft Bijli Yojana"
    ],
-   "a": 0,
+   "a": 3,
    "w": "Launched in February 2024."
   },
   {
    "q": "Green hydrogen is produced by:",
    "o": [
-    "Steam reforming of natural gas",
-    "Coal gasification",
+    "Electrolysis using renewable power",
     "Nuclear fission",
-    "Electrolysis using renewable power"
+    "Coal gasification",
+    "Steam reforming of natural gas"
    ],
-   "a": 3,
+   "a": 0,
    "w": "Grey hydrogen uses gas."
   },
   {
    "q": "India’s long-term nuclear goal is:",
    "o": [
+    "50 GW by 2035",
     "20 GW by 2030",
-    "500 GW by 2070",
     "100 GW by 2047",
-    "50 GW by 2035"
+    "500 GW by 2070"
    ],
    "a": 2,
    "w": "Announced in Budget 2025–26."
@@ -126,11 +126,11 @@
    "q": "PM E-DRIVE replaced which earlier scheme?",
    "o": [
     "UDAY",
-    "FAME II",
     "Saubhagya",
-    "PLI auto"
+    "PLI auto",
+    "FAME II"
    ],
-   "a": 1,
+   "a": 3,
    "w": "E-mobility incentive scheme."
   },
   {
@@ -138,8 +138,8 @@
    "o": [
     "About 70 percent",
     "About 20 percent",
-    "About 40 percent",
-    "About 5 percent"
+    "About 5 percent",
+    "About 40 percent"
    ],
    "a": 0,
    "w": "Even though capacity share is lower."
@@ -148,8 +148,8 @@
    "q": "The National Critical Mineral Mission was launched in:",
    "o": [
     "2015",
-    "2019",
     "2008",
+    "2019",
     "2025"
    ],
    "a": 3,
@@ -158,12 +158,12 @@
   {
    "q": "The 500 GW goal is for:",
    "o": [
-    "Solar alone by 2022",
-    "All power by 2070",
     "Non-fossil capacity by 2030",
+    "All power by 2070",
+    "Solar alone by 2022",
     "Coal by 2040"
    ],
-   "a": 2,
+   "a": 0,
    "w": "Announced at COP26."
   }
  ],

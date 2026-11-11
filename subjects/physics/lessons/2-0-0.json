@@ -59,10 +59,10 @@
   {
    "q": "Like charges",
    "o": [
-    "Attract",
+    "Cancel",
     "Repel",
-    "Do nothing",
-    "Cancel"
+    "Attract",
+    "Do nothing"
    ],
    "a": 1,
    "w": "Like repel, unlike attract."
@@ -70,100 +70,100 @@
   {
    "q": "The charge of one electron is about",
    "o": [
-    "1.6 x 10^-19 C",
     "9 x 10^9 C",
+    "6.67 x 10^-11 C",
     "1 C",
-    "6.67 x 10^-11 C"
+    "1.6 x 10^-19 C"
    ],
-   "a": 0,
+   "a": 3,
    "w": "Elementary charge e."
   },
   {
    "q": "If the distance between two charges is doubled, the force becomes",
    "o": [
+    "Four times",
     "Half",
-    "One-quarter",
     "Double",
-    "Four times"
+    "One-quarter"
    ],
-   "a": 1,
+   "a": 3,
    "w": "Inverse square law."
   },
   {
    "q": "Coulomb's law was published in",
    "o": [
-    "1687",
     "1785",
     "1831",
-    "1905"
+    "1905",
+    "1687"
    ],
-   "a": 1,
+   "a": 0,
    "w": "Coulomb, 1785."
   },
   {
    "q": "Electric field is measured in",
    "o": [
-    "Newtons per coulomb",
-    "Joules",
+    "Ohms",
     "Amperes",
-    "Ohms"
+    "Newtons per coulomb",
+    "Joules"
    ],
-   "a": 0,
+   "a": 2,
    "w": "E = F/q."
   },
   {
    "q": "Which is a good insulator?",
    "o": [
-    "Copper",
-    "Silver",
+    "Saltwater",
     "Dry rubber",
-    "Saltwater"
+    "Silver",
+    "Copper"
    ],
-   "a": 2,
+   "a": 1,
    "w": "Rubber holds electrons tightly."
   },
   {
    "q": "Rubbing a comb on hair",
    "o": [
-    "Creates charge",
     "Transfers charge",
-    "Destroys charge",
-    "Makes protons move"
+    "Makes protons move",
+    "Creates charge",
+    "Destroys charge"
    ],
-   "a": 1,
+   "a": 0,
    "w": "Charge is conserved."
   },
   {
    "q": "Two 2 microcoulomb charges are 0.2 m apart. Force? (k = 9 x 10^9)",
    "o": [
-    "0.9 N",
-    "0.18 N",
     "0.45 N",
-    "0.9 x 10^-3 N"
+    "0.9 x 10^-3 N",
+    "0.9 N",
+    "0.18 N"
    ],
-   "a": 0,
+   "a": 2,
    "w": "9e9 x 4e-12 / 0.04 = 0.9."
   },
   {
    "q": "Field lines start on",
    "o": [
-    "Negative charges",
-    "Positive charges",
+    "Magnets",
     "Neutral points",
-    "Magnets"
+    "Positive charges",
+    "Negative charges"
    ],
-   "a": 1,
+   "a": 2,
    "w": "They run from + to -."
   },
   {
    "q": "In a car during lightning you are safe mainly because",
    "o": [
     "Rubber tyres insulate",
-    "The metal body shields the inside",
     "The car is moving",
+    "The metal body shields the inside",
     "Lightning avoids cars"
    ],
-   "a": 1,
+   "a": 2,
    "w": "A closed conductor has zero field inside."
   }
  ],

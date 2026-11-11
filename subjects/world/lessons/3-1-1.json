@@ -54,10 +54,10 @@
   {
    "q": "Genghis Khan's birth name...",
    "o": [
+    "Hulagu",
     "Kublai",
-    "Batu",
     "Temüjin",
-    "Hulagu"
+    "Batu"
    ],
    "a": 2,
    "w": "Born around 1162."
@@ -66,9 +66,9 @@
    "q": "He was proclaimed Khan in...",
    "o": [
     "1206",
+    "1368",
     "1162",
-    "1258",
-    "1368"
+    "1258"
    ],
    "a": 0,
    "w": "At a kurultai."
@@ -87,34 +87,34 @@
   {
    "q": "Hulagu took...",
    "o": [
-    "Delhi",
     "Baghdad in 1258",
+    "Delhi",
     "Cairo",
     "Kyiv"
    ],
-   "a": 1,
+   "a": 0,
    "w": "Ended the Abbasids."
   },
   {
    "q": "The Mongol relay system was the...",
    "o": [
-    "Yam",
-    "Paiza",
+    "Ger",
     "Kurultai",
-    "Ger"
+    "Paiza",
+    "Yam"
    ],
-   "a": 0,
+   "a": 3,
    "w": "Riders and stations."
   },
   {
    "q": "Genghis's grave...",
    "o": [
     "Is in Beijing",
-    "Is in Delhi",
     "Is in Rome",
-    "Has never been found"
+    "Has never been found",
+    "Is in Delhi"
    ],
-   "a": 3,
+   "a": 2,
    "w": "By tradition kept secret."
   },
   {
@@ -132,31 +132,31 @@
    "q": "Which Sultan refused asylum to Jalal ad-Din?",
    "o": [
     "Balban",
-    "Alauddin",
     "Iltutmish",
-    "Babur"
+    "Babur",
+    "Alauddin"
    ],
-   "a": 2,
+   "a": 1,
    "w": "Delhi Sultanate."
   },
   {
    "q": "Alauddin Khalji defeated Mongol attacks in...",
    "o": [
-    "1526",
     "1206",
-    "1757",
-    "1299 and 1303-04"
+    "1299 and 1303-04",
+    "1526",
+    "1757"
    ],
-   "a": 3,
+   "a": 1,
    "w": "Delhi Sultanate."
   },
   {
    "q": "'Mughal' derives from...",
    "o": [
     "The Persian word for Mongol",
+    "Timur",
     "Genghis",
-    "Delhi",
-    "Timur"
+    "Delhi"
    ],
    "a": 0,
    "w": "Babur's Timurid-Mongol ancestry."

@@ -59,111 +59,111 @@
   {
    "q": "The Arthashastra is attributed to",
    "o": [
-    "Kautilya",
-    "Megasthenes",
     "Kalhana",
+    "Megasthenes",
+    "Kautilya",
     "Vishakhadatta"
    ],
-   "a": 0,
+   "a": 2,
    "w": "Also called Chanakya."
   },
   {
    "q": "Megasthenes was an ambassador of",
    "o": [
-    "Alexander",
     "Antiochus",
-    "Ptolemy",
-    "Seleucus Nicator"
+    "Alexander",
+    "Seleucus Nicator",
+    "Ptolemy"
    ],
-   "a": 3,
+   "a": 2,
    "w": "To Chandragupta’s court."
   },
   {
    "q": "Chandragupta Maurya defeated",
    "o": [
-    "The Shungas",
-    "The Guptas",
     "The Nandas",
-    "The Kushanas"
+    "The Kushanas",
+    "The Shungas",
+    "The Guptas"
    ],
-   "a": 2,
+   "a": 0,
    "w": "With Chanakya’s help."
   },
   {
    "q": "Bindusara was known as",
    "o": [
-    "Priyadarshi",
-    "Amitraghata",
+    "Chakravartin",
     "Devanampiya",
-    "Chakravartin"
+    "Amitraghata",
+    "Priyadarshi"
    ],
-   "a": 1,
+   "a": 2,
    "w": "Slayer of foes."
   },
   {
    "q": "Rock Edict XIII refers to",
    "o": [
-    "The Kalinga war",
-    "Welfare measures",
+    "Slavery",
     "The Third Council",
-    "Slavery"
+    "Welfare measures",
+    "The Kalinga war"
    ],
-   "a": 0,
+   "a": 3,
    "w": "Ashoka expressed remorse."
   },
   {
    "q": "The script of most Ashokan edicts is",
    "o": [
-    "Kharosthi only",
-    "Devanagari",
     "Sharada",
-    "Brahmi"
+    "Devanagari",
+    "Brahmi",
+    "Kharosthi only"
    ],
-   "a": 3,
+   "a": 2,
    "w": "Prinsep deciphered it in 1837."
   },
   {
    "q": "The Dhamma-mahamattas were",
    "o": [
-    "Tax collectors",
-    "Army commanders",
     "Officers to spread Dhamma",
-    "Spies"
+    "Army commanders",
+    "Spies",
+    "Tax collectors"
    ],
-   "a": 2,
+   "a": 0,
    "w": "Appointed in Ashoka’s 13th regnal year."
   },
   {
    "q": "Who sent Mahinda and Sanghamitra to Sri Lanka?",
    "o": [
-    "Kanishka",
     "Ashoka",
-    "Harsha",
-    "Chandragupta"
+    "Chandragupta",
+    "Kanishka",
+    "Harsha"
    ],
-   "a": 1,
+   "a": 0,
    "w": "To spread Buddhism."
   },
   {
    "q": "The last Mauryan king, Brihadratha, was killed by",
    "o": [
-    "Pushyamitra Shunga",
     "Kharavela",
-    "Agnimitra",
-    "Bindusara"
+    "Pushyamitra Shunga",
+    "Bindusara",
+    "Agnimitra"
    ],
-   "a": 0,
+   "a": 1,
    "w": "About 185 BCE."
   },
   {
    "q": "Sita lands in the Mauryan economy were",
    "o": [
-    "Temple lands",
-    "Village commons",
     "Forest reserves",
-    "Crown lands"
+    "Crown lands",
+    "Temple lands",
+    "Village commons"
    ],
-   "a": 3,
+   "a": 1,
    "w": "Directly run by the state."
   }
  ],

@@ -59,8 +59,8 @@
   {
    "q": "The DNA double helix model was proposed in:",
    "o": [
-    "1968",
     "1944",
+    "1968",
     "1953",
     "1970"
    ],
@@ -71,8 +71,8 @@
    "q": "In DNA, adenine pairs with:",
    "o": [
     "Thymine",
-    "Cytosine",
     "Guanine",
+    "Cytosine",
     "Uracil"
    ],
    "a": 0,
@@ -83,8 +83,8 @@
    "o": [
     "Ligase",
     "Helicase",
-    "Primase",
-    "Polymerase"
+    "Polymerase",
+    "Primase"
    ],
    "a": 1,
    "w": "Helicase."
@@ -92,10 +92,10 @@
   {
    "q": "Semi-conservative replication was proved by:",
    "o": [
-    "Chargaff",
     "Franklin",
+    "Griffith",
     "Meselson and Stahl",
-    "Griffith"
+    "Chargaff"
    ],
    "a": 2,
    "w": "1958."
@@ -103,10 +103,10 @@
   {
    "q": "Hershey and Chase used:",
    "o": [
+    "Yeast",
     "Flies",
-    "Peas",
     "Viruses",
-    "Yeast"
+    "Peas"
    ],
    "a": 2,
    "w": "Bacteriophage."
@@ -125,9 +125,9 @@
   {
    "q": "G-C pairs have how many hydrogen bonds?",
    "o": [
-    "4",
-    "2",
     "1",
+    "2",
+    "4",
     "3"
    ],
    "a": 3,
@@ -136,10 +136,10 @@
   {
    "q": "Photo 51 was taken by:",
    "o": [
-    "Crick",
-    "Franklin",
     "Chargaff",
-    "Wilkins"
+    "Franklin",
+    "Wilkins",
+    "Crick"
    ],
    "a": 1,
    "w": "Rosalind Franklin."
@@ -160,8 +160,8 @@
    "o": [
     "Joins DNA fragments",
     "Unzips",
-    "Makes RNA",
-    "Adds primer"
+    "Adds primer",
+    "Makes RNA"
    ],
    "a": 0,
    "w": "Seals gaps."

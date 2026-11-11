@@ -60,42 +60,42 @@
    "q": "The word monsoon comes from the Arabic word for",
    "o": [
     "Rain",
+    "Cloud",
     "Wind",
-    "Season",
-    "Cloud"
+    "Season"
    ],
-   "a": 2,
+   "a": 3,
    "w": "Mausim means season."
   },
   {
    "q": "Normal onset of the monsoon over Kerala is on",
    "o": [
+    "1 July",
     "1 June",
     "15 May",
-    "15 June",
-    "1 July"
+    "15 June"
    ],
-   "a": 0,
+   "a": 1,
    "w": "IMD's normal date."
   },
   {
    "q": "Monsoon covers the entire country normally by",
    "o": [
-    "15 June",
     "1 August",
-    "1 July",
-    "8 July"
+    "8 July",
+    "15 June",
+    "1 July"
    ],
-   "a": 3,
+   "a": 1,
    "w": "The revised normal date."
   },
   {
    "q": "The retreating monsoon withdraws first from",
    "o": [
-    "Kerala",
-    "West Rajasthan",
     "Assam",
-    "Chennai"
+    "West Rajasthan",
+    "Chennai",
+    "Kerala"
    ],
    "a": 1,
    "w": "Withdrawal begins around 17 September."
@@ -103,10 +103,10 @@
   {
    "q": "Which place receives the highest rainfall?",
    "o": [
-    "Jaisalmer",
+    "Mumbai",
     "Mawsynram",
-    "Chennai",
-    "Mumbai"
+    "Jaisalmer",
+    "Chennai"
    ],
    "a": 1,
    "w": "Located in Meghalaya, it is among the wettest places on Earth."
@@ -114,9 +114,9 @@
   {
    "q": "A positive IOD generally",
    "o": [
-    "Cuts monsoon rainfall",
-    "Shifts it to winter",
     "Has no effect",
+    "Shifts it to winter",
+    "Cuts monsoon rainfall",
     "Helps monsoon rainfall"
    ],
    "a": 3,
@@ -125,12 +125,12 @@
   {
    "q": "Break in monsoon happens when the monsoon trough",
    "o": [
-    "Moves to the Himalayan foothills",
-    "Moves south over Kerala",
     "Disappears",
-    "Reverses"
+    "Reverses",
+    "Moves south over Kerala",
+    "Moves to the Himalayan foothills"
    ],
-   "a": 0,
+   "a": 3,
    "w": "Rain falls in the Himalaya and the plains stay dry."
   },
   {
@@ -138,17 +138,17 @@
    "o": [
     "90-95% of LPA",
     "105-110% of LPA",
-    "96-104% of LPA",
-    "Under 90% of LPA"
+    "Under 90% of LPA",
+    "96-104% of LPA"
    ],
-   "a": 2,
+   "a": 3,
    "w": "IMD's classification."
   },
   {
    "q": "Halley's explanation relies on",
    "o": [
-    "Jet streams",
     "El Nino",
+    "Jet streams",
     "Sunspots",
     "Differential heating of land and sea"
    ],
@@ -158,12 +158,12 @@
   {
    "q": "North-east monsoon rain mainly benefits",
    "o": [
-    "Tamil Nadu",
+    "Assam",
     "Punjab",
-    "Rajasthan",
-    "Assam"
+    "Tamil Nadu",
+    "Rajasthan"
    ],
-   "a": 0,
+   "a": 2,
    "w": "It gives Tamil Nadu most of its rain in October to December."
   }
  ],

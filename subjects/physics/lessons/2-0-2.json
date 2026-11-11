@@ -59,111 +59,111 @@
   {
    "q": "Ohm's law states",
    "o": [
+    "V = R / I",
     "V = I / R",
     "V = I R",
-    "V = I squared R",
-    "V = R / I"
+    "V = I squared R"
    ],
-   "a": 1,
+   "a": 2,
    "w": "Voltage = current x resistance."
   },
   {
    "q": "A 12 V supply drives 3 A. The resistance is",
    "o": [
+    "15 ohms",
     "36 ohms",
-    "4 ohms",
     "0.25 ohm",
-    "15 ohms"
+    "4 ohms"
    ],
-   "a": 1,
+   "a": 3,
    "w": "12/3."
   },
   {
    "q": "Resistors of 3 and 6 ohms in series give",
    "o": [
     "2",
-    "9",
     "18",
+    "9",
     "4.5"
    ],
-   "a": 1,
+   "a": 2,
    "w": "Add."
   },
   {
    "q": "Resistors of 6 and 3 ohms in parallel give",
    "o": [
-    "9",
     "2",
-    "4.5",
-    "18"
+    "9",
+    "18",
+    "4.5"
    ],
-   "a": 1,
+   "a": 0,
    "w": "1/6 + 1/3 = 1/2."
   },
   {
    "q": "A 60 W bulb on 240 V draws about",
    "o": [
-    "0.25 A",
-    "4 A",
     "14,400 A",
-    "180 A"
+    "4 A",
+    "180 A",
+    "0.25 A"
    ],
-   "a": 0,
+   "a": 3,
    "w": "60/240."
   },
   {
    "q": "Household devices are wired in parallel so that",
    "o": [
-    "They share current equally",
     "Each gets the full voltage and works independently",
+    "Fuses are not needed",
     "They use less energy",
-    "Fuses are not needed"
+    "They share current equally"
    ],
-   "a": 1,
+   "a": 0,
    "w": "Parallel gives each the mains voltage."
   },
   {
    "q": "A charge of 30 C passes in 10 s. Current?",
    "o": [
-    "300 A",
     "3 A",
     "0.33 A",
-    "40 A"
+    "40 A",
+    "300 A"
    ],
-   "a": 1,
+   "a": 0,
    "w": "30/10."
   },
   {
    "q": "The unit of resistance is the",
    "o": [
-    "Ohm",
-    "Volt",
     "Ampere",
-    "Watt"
+    "Watt",
+    "Ohm",
+    "Volt"
    ],
-   "a": 0,
+   "a": 2,
    "w": "Named for Georg Ohm."
   },
   {
    "q": "A 100 ohm resistor carries 0.5 A. Power dissipated?",
    "o": [
-    "50 W",
     "25 W",
     "200 W",
+    "50 W",
     "5000 W"
    ],
-   "a": 1,
+   "a": 0,
    "w": "I squared R = 0.25 x 100."
   },
   {
    "q": "A fuse protects a circuit by",
    "o": [
     "Increasing voltage",
-    "Melting when current is too large",
     "Storing charge",
+    "Melting when current is too large",
     "Reducing resistance"
    ],
-   "a": 1,
+   "a": 2,
    "w": "The wire melts and breaks the circuit."
   }
  ],

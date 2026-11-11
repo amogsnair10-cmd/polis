@@ -75,86 +75,86 @@
   {
    "q": "The Gutenberg discontinuity separates the",
    "o": [
-    "Mantle and outer core",
-    "Crust and mantle",
     "Outer core and inner core",
-    "Upper and lower crust"
+    "Crust and mantle",
+    "Upper and lower crust",
+    "Mantle and outer core"
    ],
-   "a": 0,
+   "a": 3,
    "w": "It lies at about 2,900 km. The Moho is crust-mantle; Lehmann is outer-inner core."
   },
   {
    "q": "Who proposed continental drift?",
    "o": [
-    "Harry Hess",
-    "Arthur Holmes",
+    "Alfred Wegener",
     "Fred Vine",
-    "Alfred Wegener"
+    "Arthur Holmes",
+    "Harry Hess"
    ],
-   "a": 3,
+   "a": 0,
    "w": "Wegener, 1912; Hess later gave sea-floor spreading."
   },
   {
    "q": "Magnetic stripes on the ocean floor support",
    "o": [
-    "Continental drift by tides",
     "Sea-floor spreading",
+    "Continental drift by tides",
     "Isostasy",
     "Glacial erosion"
    ],
-   "a": 1,
+   "a": 0,
    "w": "Vine and Matthews (1963) read the stripes as a record of spreading and field reversals."
   },
   {
    "q": "Which is a metamorphic rock?",
    "o": [
     "Granite",
-    "Marble",
     "Sandstone",
-    "Basalt"
+    "Basalt",
+    "Marble"
    ],
-   "a": 1,
+   "a": 3,
    "w": "Marble is changed limestone. Granite and basalt are igneous; sandstone is sedimentary."
   },
   {
    "q": "The oldest ocean floor is about",
    "o": [
-    "4 billion years old",
     "1 billion years old",
+    "180 million years old",
     "500 million years old",
-    "180 million years old"
+    "4 billion years old"
    ],
-   "a": 3,
+   "a": 1,
    "w": "Old oceanic crust is destroyed at trenches, so it is young."
   },
   {
    "q": "Which is the only active volcano in India?",
    "o": [
-    "Barren Island",
     "Narcondam",
     "Mount Abu",
+    "Barren Island",
     "Dhinodhar"
    ],
-   "a": 0,
+   "a": 2,
    "w": "Barren Island in the Andamans is active. Narcondam is dormant."
   },
   {
    "q": "The Deccan Traps are linked to the",
    "o": [
-    "Hawaiian hotspot",
-    "Yellowstone hotspot",
     "Reunion hotspot",
-    "Iceland hotspot"
+    "Iceland hotspot",
+    "Yellowstone hotspot",
+    "Hawaiian hotspot"
    ],
-   "a": 2,
+   "a": 0,
    "w": "India passed over the Reunion plume about 66 million years ago."
   },
   {
    "q": "A transform boundary",
    "o": [
-    "Creates new crust",
-    "Destroys old crust",
     "Forms fold mountains",
+    "Destroys old crust",
+    "Creates new crust",
     "Has plates sliding past each other"
    ],
    "a": 3,
@@ -163,12 +163,12 @@
   {
    "q": "Shadow zone of P waves lies between",
    "o": [
-    "105 and 145 degrees",
     "0 and 105 degrees",
+    "105 and 145 degrees",
     "145 and 180 degrees",
     "90 and 120 degrees"
    ],
-   "a": 0,
+   "a": 1,
    "w": "P waves bend at the core and leave this zone without direct arrivals."
   }
  ],

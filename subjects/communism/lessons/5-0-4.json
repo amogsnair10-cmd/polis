@@ -55,8 +55,8 @@
    "q": "Wages for Housework was launched in the",
    "o": [
     "1970s",
-    "1880s",
     "1930s",
+    "1880s",
     "1990s"
    ],
    "a": 0,
@@ -65,21 +65,21 @@
   {
    "q": "Lise Vogel wrote",
    "o": [
-    "Marxism and the Oppression of Women",
-    "Women, Race and Class",
     "Caliban and the Witch",
-    "The Second Sex"
+    "Women, Race and Class",
+    "The Second Sex",
+    "Marxism and the Oppression of Women"
    ],
-   "a": 0,
+   "a": 3,
    "w": "1983."
   },
   {
    "q": "Hartmann's 1979 essay is titled",
    "o": [
+    "Origin of the Family",
     "Wages Against Housework",
-    "Woman and Socialism",
     "The Unhappy Marriage of Marxism and Feminism",
-    "Origin of the Family"
+    "Woman and Socialism"
    ],
    "a": 2,
    "w": "Dual systems."
@@ -87,32 +87,32 @@
   {
    "q": "Silvia Federici linked witch-hunts to",
    "o": [
-    "Surplus value",
-    "Hegemony",
     "Colonialism only",
-    "Primitive accumulation"
+    "Primitive accumulation",
+    "Surplus value",
+    "Hegemony"
    ],
-   "a": 3,
+   "a": 1,
    "w": "Caliban and the Witch, 2004."
   },
   {
    "q": "Crenshaw coined \"intersectionality\" in",
    "o": [
+    "2004",
     "1917",
-    "1989",
     "1972",
-    "2004"
+    "1989"
    ],
-   "a": 1,
+   "a": 3,
    "w": "Legal scholarship."
   },
   {
    "q": "Kollontai pushed for",
    "o": [
     "Communal childcare and free love debates",
-    "Abolition of Party",
+    "Private farming",
     "Monarchy",
-    "Private farming"
+    "Abolition of Party"
    ],
    "a": 0,
    "w": "Soviet Commissar for Social Welfare."
@@ -121,44 +121,44 @@
    "q": "Soviet abortion was banned in",
    "o": [
     "1920",
-    "1917",
     "1936",
+    "1917",
     "1991"
    ],
-   "a": 2,
+   "a": 1,
    "w": "Until 1955."
   },
   {
    "q": "SEWA was founded in 1972 by",
    "o": [
-    "Vina Mazumdar",
-    "Ela Bhatt",
     "Medha Patkar",
-    "Aruna Roy"
+    "Vina Mazumdar",
+    "Aruna Roy",
+    "Ela Bhatt"
    ],
-   "a": 1,
+   "a": 3,
    "w": "Self Employed Women's Association."
   },
   {
    "q": "Social reproduction includes",
    "o": [
+    "Banking",
     "Factory work",
     "Care work that sustains workers",
-    "Banking",
     "Trade"
    ],
-   "a": 1,
+   "a": 2,
    "w": "Unpaid and paid."
   },
   {
    "q": "Maria Mies studied the lace makers of",
    "o": [
-    "Surat",
-    "Kanpur",
+    "Narsapur",
     "Sivakasi",
-    "Narsapur"
+    "Surat",
+    "Kanpur"
    ],
-   "a": 3,
+   "a": 0,
    "w": "Andhra Pradesh."
   }
  ],

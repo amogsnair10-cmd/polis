@@ -82,8 +82,8 @@
    "q": "Pandemic means:",
    "o": [
     "Spread across the world",
-    "Mild",
     "Local outbreak",
+    "Mild",
     "Deadly only"
    ],
    "a": 0,
@@ -104,8 +104,8 @@
    "q": "Smallpox was eradicated in:",
    "o": [
     "2000",
-    "2011",
     "1950",
+    "2011",
     "1980"
    ],
    "a": 3,
@@ -115,9 +115,9 @@
    "q": "Zoonosis means disease from:",
    "o": [
     "Animals to humans",
+    "Soil",
     "Air only",
-    "Water",
-    "Soil"
+    "Water"
    ],
    "a": 0,
    "w": "Animal origin."
@@ -126,8 +126,8 @@
    "q": "Ronald Ross showed mosquitoes carry malaria in:",
    "o": [
     "1897",
-    "1757",
     "1957",
+    "1757",
     "1997"
    ],
    "a": 0,
@@ -138,8 +138,8 @@
    "o": [
     "Diabetes",
     "TB",
-    "Malaria",
-    "Cholera"
+    "Cholera",
+    "Malaria"
    ],
    "a": 0,
    "w": "Not spread."
@@ -147,8 +147,8 @@
   {
    "q": "The One Health approach links:",
    "o": [
-    "Plants",
     "Only humans",
+    "Plants",
     "Drugs",
     "Humans, animals, environment"
    ],
@@ -158,9 +158,9 @@
   {
    "q": "mRNA vaccine pioneers won Nobel in:",
    "o": [
+    "1993",
     "2013",
     "2003",
-    "1993",
     "2023"
    ],
    "a": 3,

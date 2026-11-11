@@ -54,53 +54,53 @@
   {
    "q": "The Revolt of 1857 began at",
    "o": [
-    "Barrackpore",
-    "Delhi",
     "Kanpur",
-    "Meerut"
+    "Meerut",
+    "Delhi",
+    "Barrackpore"
    ],
-   "a": 3,
+   "a": 1,
    "w": "Sepoys rose at Meerut on 10 May 1857."
   },
   {
    "q": "Mangal Pandey belonged to",
    "o": [
     "3rd Cavalry at Meerut",
+    "Madras Rifles",
     "Bengal Artillery",
-    "34th Native Infantry at Barrackpore",
-    "Madras Rifles"
+    "34th Native Infantry at Barrackpore"
    ],
-   "a": 2,
+   "a": 3,
    "w": "He attacked officers in March 1857."
   },
   {
    "q": "Who led the revolt at Lucknow?",
    "o": [
-    "Rani Lakshmibai",
-    "Begum Hazrat Mahal",
+    "Nana Sahib",
     "Kunwar Singh",
-    "Nana Sahib"
+    "Rani Lakshmibai",
+    "Begum Hazrat Mahal"
    ],
-   "a": 1,
+   "a": 3,
    "w": "She acted for her son Birjis Qadr."
   },
   {
    "q": "Kunwar Singh led the revolt in",
    "o": [
-    "Bihar (Arrah)",
-    "Kanpur",
     "Jhansi",
-    "Bareilly"
+    "Bareilly",
+    "Bihar (Arrah)",
+    "Kanpur"
    ],
-   "a": 0,
+   "a": 2,
    "w": "He was a zamindar of Jagdishpur."
   },
   {
    "q": "Who proclaimed the revolt as the First War of Independence?",
    "o": [
-    "R. C. Majumdar",
     "S. N. Sen",
     "John Lawrence",
+    "R. C. Majumdar",
     "V. D. Savarkar"
    ],
    "a": 3,
@@ -109,21 +109,21 @@
   {
    "q": "The Queen’s Proclamation was issued on",
    "o": [
-    "10 May 1857",
+    "15 August 1858",
     "1 August 1858",
-    "1 November 1858",
-    "15 August 1858"
+    "10 May 1857",
+    "1 November 1858"
    ],
-   "a": 2,
+   "a": 3,
    "w": "Read out by Lord Canning at Allahabad."
   },
   {
    "q": "The Government of India Act 1858",
    "o": [
-    "Created the Viceroy’s Council of 1861",
-    "Ended Company rule and created the post of Secretary of State",
     "Introduced provincial autonomy",
-    "Set up the Imperial Legislative Council"
+    "Ended Company rule and created the post of Secretary of State",
+    "Set up the Imperial Legislative Council",
+    "Created the Viceroy’s Council of 1861"
    ],
    "a": 1,
    "w": "The Crown took over the Company’s powers."
@@ -131,34 +131,34 @@
   {
    "q": "Which was not an area of major revolt?",
    "o": [
-    "Punjab",
     "Awadh",
+    "Punjab",
     "Central India",
     "Bihar"
    ],
-   "a": 0,
+   "a": 1,
    "w": "The Sikhs and the Punjab remained loyal to the Company."
   },
   {
    "q": "The Tantia Tope was",
    "o": [
-    "Commander of Delhi forces",
-    "Raja of Jhansi",
     "Governor-General",
-    "Associate of Nana Sahib who was executed in 1859"
+    "Commander of Delhi forces",
+    "Associate of Nana Sahib who was executed in 1859",
+    "Raja of Jhansi"
    ],
-   "a": 3,
+   "a": 2,
    "w": "He was betrayed and hanged in April 1859."
   },
   {
    "q": "Who wrote that the revolt was “neither first, nor national, nor a war of independence”?",
    "o": [
     "V. D. Savarkar",
-    "Ranajit Guha",
     "R. C. Majumdar",
+    "Ranajit Guha",
     "Bipan Chandra"
    ],
-   "a": 2,
+   "a": 1,
    "w": "This is Majumdar’s view."
   }
  ],

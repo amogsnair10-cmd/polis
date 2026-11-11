@@ -64,10 +64,10 @@
   {
    "q": "The axon:",
    "o": [
+    "Makes ATP",
     "Stores memory",
-    "Receives signals",
     "Sends signals away",
-    "Makes ATP"
+    "Receives signals"
    ],
    "a": 2,
    "w": "Output wire."
@@ -87,9 +87,9 @@
    "q": "The first phase of an impulse involves influx of:",
    "o": [
     "Na+",
-    "Cl-",
     "Ca2+ only",
-    "K+"
+    "K+",
+    "Cl-"
    ],
    "a": 0,
    "w": "Sodium."
@@ -98,8 +98,8 @@
    "q": "Loewi showed:",
    "o": [
     "Electrical synapses",
-    "Reflex",
     "Myelin",
+    "Reflex",
     "Chemical transmission"
    ],
    "a": 3,
@@ -109,9 +109,9 @@
    "q": "Balance and coordination: the:",
    "o": [
     "Cerebellum",
+    "Cerebrum",
     "Thalamus",
-    "Medulla",
-    "Cerebrum"
+    "Medulla"
    ],
    "a": 0,
    "w": "Cerebellum."
@@ -119,10 +119,10 @@
   {
    "q": "Breathing is controlled by:",
    "o": [
-    "Spinal nerve",
+    "Cerebellum",
     "Medulla",
-    "Cerebrum",
-    "Cerebellum"
+    "Spinal nerve",
+    "Cerebrum"
    ],
    "a": 1,
    "w": "Brainstem."
@@ -130,8 +130,8 @@
   {
    "q": "Hodgkin and Huxley studied:",
    "o": [
-    "Rat",
     "Frog",
+    "Rat",
     "Squid axon",
     "Human"
    ],
@@ -141,10 +141,10 @@
   {
    "q": "Myelin does what?",
    "o": [
-    "Makes transmitters",
     "Stores ions",
+    "Slows signals",
     "Speeds signals",
-    "Slows signals"
+    "Makes transmitters"
    ],
    "a": 2,
    "w": "Insulates axon."
@@ -152,10 +152,10 @@
   {
    "q": "Parasympathetic system promotes:",
    "o": [
-    "Sensation",
+    "Reflex",
     "Rest and digest",
-    "Fight or flight",
-    "Reflex"
+    "Sensation",
+    "Fight or flight"
    ],
    "a": 1,
    "w": "Calming."
@@ -163,9 +163,9 @@
   {
    "q": "Broca's area relates to:",
    "o": [
+    "Hearing",
     "Balance",
     "Vision",
-    "Hearing",
     "Speech"
    ],
    "a": 3,

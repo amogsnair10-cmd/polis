@@ -54,10 +54,10 @@
   {
    "q": "Who reformed Athens in 508 BCE?",
    "o": [
+    "Draco of Sparta",
     "Pericles",
-    "Solon of Rome",
     "Cleisthenes",
-    "Draco of Sparta"
+    "Solon of Rome"
    ],
    "a": 2,
    "w": "Often called father of Athenian democracy."
@@ -65,12 +65,12 @@
   {
    "q": "Ostracism was...",
    "o": [
-    "Voting to exile someone",
+    "A tax",
     "A trial by combat",
     "A festival",
-    "A tax"
+    "Voting to exile someone"
    ],
-   "a": 0,
+   "a": 3,
    "w": "Named after pottery shards."
   },
   {
@@ -78,63 +78,63 @@
    "o": [
     "Spartan kings",
     "Athenian poets",
-    "Persian generals",
-    "Enslaved people ruled by Sparta"
+    "Enslaved people ruled by Sparta",
+    "Persian generals"
    ],
-   "a": 3,
+   "a": 2,
    "w": "They farmed for the Spartans."
   },
   {
    "q": "The agoge was...",
    "o": [
-    "A theatre",
     "Spartan training",
-    "A temple",
-    "A tax"
+    "A theatre",
+    "A tax",
+    "A temple"
    ],
-   "a": 1,
+   "a": 0,
    "w": "Started around age seven."
   },
   {
    "q": "Leonidas died at...",
    "o": [
-    "Thermopylae",
-    "Marathon",
     "Salamis",
-    "Gaugamela"
+    "Marathon",
+    "Gaugamela",
+    "Thermopylae"
    ],
-   "a": 0,
+   "a": 3,
    "w": "480 BCE."
   },
   {
    "q": "The Parthenon was built under...",
    "o": [
-    "Alexander",
-    "Leonidas",
+    "Pericles",
     "Xerxes",
-    "Pericles"
+    "Leonidas",
+    "Alexander"
    ],
-   "a": 3,
+   "a": 0,
    "w": "Starting 447 BCE."
   },
   {
    "q": "Who wrote the history of the Peloponnesian War?",
    "o": [
-    "Herodotus",
     "Thucydides",
     "Plato",
-    "Homer"
+    "Homer",
+    "Herodotus"
    ],
-   "a": 1,
+   "a": 0,
    "w": "A general turned historian."
   },
   {
    "q": "The Peloponnesian War was won by...",
    "o": [
-    "Athens",
     "Persia",
+    "Thebes",
     "Sparta",
-    "Thebes"
+    "Athens"
    ],
    "a": 2,
    "w": "Athens surrendered in 404 BCE."
@@ -142,23 +142,23 @@
   {
    "q": "Who could vote in Athens?",
    "o": [
-    "Everyone",
+    "Adult male citizens",
     "Only nobles",
-    "Only soldiers",
-    "Adult male citizens"
+    "Everyone",
+    "Only soldiers"
    ],
-   "a": 3,
+   "a": 0,
    "w": "Women, slaves and foreigners could not."
   },
   {
    "q": "A north Indian republic of the Buddha's time...",
    "o": [
-    "Licchavis of Vaishali",
     "The Mauryas",
     "The Guptas",
+    "Licchavis of Vaishali",
     "The Cholas"
    ],
-   "a": 0,
+   "a": 2,
    "w": "A gana-sangha."
   }
  ],

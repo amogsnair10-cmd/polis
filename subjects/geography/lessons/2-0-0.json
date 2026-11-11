@@ -59,31 +59,31 @@
   {
    "q": "Which country is the largest producer of copper?",
    "o": [
-    "Peru",
-    "Australia",
+    "India",
     "Chile",
-    "India"
+    "Peru",
+    "Australia"
    ],
-   "a": 2,
+   "a": 1,
    "w": "Along the Andes."
   },
   {
    "q": "Most of the world's cobalt comes from",
    "o": [
-    "DR Congo",
     "Chile",
+    "Brazil",
     "Russia",
-    "Brazil"
+    "DR Congo"
    ],
-   "a": 0,
+   "a": 3,
    "w": "About 70%."
   },
   {
    "q": "The lithium triangle includes",
    "o": [
+    "Bolivia, Peru, Ecuador",
     "Peru, Chile, Brazil",
     "Australia, China, India",
-    "Bolivia, Peru, Ecuador",
     "Chile, Argentina, Bolivia"
    ],
    "a": 3,
@@ -92,43 +92,43 @@
   {
    "q": "OPEC was founded in",
    "o": [
-    "1945",
     "1960",
     "1973",
-    "1991"
+    "1991",
+    "1945"
    ],
-   "a": 1,
+   "a": 0,
    "w": "In Baghdad."
   },
   {
    "q": "Which country has the world's largest proven oil reserves according to many estimates?",
    "o": [
-    "Saudi Arabia",
-    "Venezuela",
+    "Russia",
     "Iran",
-    "Russia"
+    "Venezuela",
+    "Saudi Arabia"
    ],
-   "a": 1,
+   "a": 2,
    "w": "Mostly heavy crude in the Orinoco belt. (Estimates vary by source.)"
   },
   {
    "q": "Resource curse means",
    "o": [
-    "Resource exhaustion",
-    "Price collapse",
     "Trade surplus",
-    "Weak growth despite rich resources"
+    "Weak growth despite rich resources",
+    "Price collapse",
+    "Resource exhaustion"
    ],
-   "a": 3,
+   "a": 1,
    "w": "Linked to Dutch disease and conflict."
   },
   {
    "q": "Which is a flow resource?",
    "o": [
     "Solar energy",
+    "Natural gas",
     "Coal",
-    "Iron ore",
-    "Natural gas"
+    "Iron ore"
    ],
    "a": 0,
    "w": "It does not run out."
@@ -136,10 +136,10 @@
   {
    "q": "India imports about what share of crude oil?",
    "o": [
-    "25%",
     "50%",
+    "10%",
     "85%",
-    "10%"
+    "25%"
    ],
    "a": 2,
    "w": "Recent data."
@@ -147,23 +147,23 @@
   {
    "q": "BBNJ treaty concerns",
    "o": [
-    "Antarctic minerals",
-    "Nuclear fuel",
     "Space debris",
-    "High seas biodiversity"
+    "Nuclear fuel",
+    "High seas biodiversity",
+    "Antarctic minerals"
    ],
-   "a": 3,
+   "a": 2,
    "w": "Adopted in 2023."
   },
   {
    "q": "The largest iron ore exporter is",
    "o": [
-    "Australia",
     "India",
     "South Africa",
+    "Australia",
     "USA"
    ],
-   "a": 0,
+   "a": 2,
    "w": "Pilbara region."
   }
  ],

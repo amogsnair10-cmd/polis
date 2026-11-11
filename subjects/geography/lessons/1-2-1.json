@@ -59,89 +59,89 @@
   {
    "q": "Which state is the top producer of iron ore?",
    "o": [
-    "Odisha",
     "Karnataka",
-    "Chhattisgarh",
-    "Goa"
+    "Odisha",
+    "Goa",
+    "Chhattisgarh"
    ],
-   "a": 0,
+   "a": 1,
    "w": "Barbil-Joda is the core region."
   },
   {
    "q": "Jharia is known for",
    "o": [
+    "Coking coal",
     "Bauxite",
-    "Mica",
     "Natural gas",
-    "Coking coal"
+    "Mica"
    ],
-   "a": 3,
+   "a": 0,
    "w": "It is in Jharkhand."
   },
   {
    "q": "First oil in India was discovered at",
    "o": [
-    "Mumbai High",
-    "Digboi",
     "Ankleshwar",
-    "Cambay"
+    "Cambay",
+    "Digboi",
+    "Mumbai High"
    ],
-   "a": 1,
+   "a": 2,
    "w": "In 1889, Assam."
   },
   {
    "q": "Neyveli is known for",
    "o": [
+    "Peat",
     "Anthracite",
     "Lignite",
-    "Peat",
     "Coking coal"
    ],
-   "a": 1,
+   "a": 2,
    "w": "It is in Tamil Nadu."
   },
   {
    "q": "Bailadila mines are in",
    "o": [
-    "Karnataka",
     "Jharkhand",
     "Goa",
-    "Chhattisgarh"
+    "Chhattisgarh",
+    "Karnataka"
    ],
-   "a": 3,
+   "a": 2,
    "w": "High-grade hematite."
   },
   {
    "q": "India's non-fossil goal for 2030 is",
    "o": [
-    "500 GW",
     "100 GW",
     "250 GW",
-    "1,000 GW"
+    "1,000 GW",
+    "500 GW"
    ],
-   "a": 0,
+   "a": 3,
    "w": "Announced at COP26."
   },
   {
    "q": "International Solar Alliance is headquartered in",
    "o": [
+    "New Delhi",
     "Paris",
     "Geneva",
-    "Gurugram",
-    "New Delhi"
+    "Gurugram"
    ],
-   "a": 2,
+   "a": 3,
    "w": "Launched in 2015 at COP21."
   },
   {
    "q": "Largest solar park in Rajasthan is",
    "o": [
-    "Pavagada",
     "Kamuthi",
-    "Rewa",
-    "Bhadla"
+    "Pavagada",
+    "Bhadla",
+    "Rewa"
    ],
-   "a": 3,
+   "a": 2,
    "w": "Pavagada is in Karnataka."
   },
   {
@@ -158,10 +158,10 @@
   {
    "q": "KABIL is a joint venture to",
    "o": [
-    "Mine coal",
+    "Import oil",
     "Build highways",
     "Acquire critical minerals abroad",
-    "Import oil"
+    "Mine coal"
    ],
    "a": 2,
    "w": "Khanij Bidesh India Limited."

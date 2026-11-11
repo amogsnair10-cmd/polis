@@ -49,111 +49,111 @@
   {
    "q": "The Wall Street crash was in...",
    "o": [
-    "1914",
-    "1933",
     "October 1929",
+    "1933",
+    "1914",
     "1945"
    ],
-   "a": 2,
+   "a": 0,
    "w": "Black Tuesday was 29 October."
   },
   {
    "q": "The Smoot-Hawley Act was a...",
    "o": [
-    "High tariff",
-    "Bank rescue",
     "Treaty",
-    "Social programme"
+    "Social programme",
+    "High tariff",
+    "Bank rescue"
    ],
-   "a": 0,
+   "a": 2,
    "w": "1930."
   },
   {
    "q": "US unemployment peaked near...",
    "o": [
     "2 percent",
-    "50 percent",
+    "25 percent",
     "10 percent only",
-    "25 percent"
+    "50 percent"
    ],
-   "a": 3,
+   "a": 1,
    "w": "In 1933."
   },
   {
    "q": "The New Deal was led by...",
    "o": [
-    "Hoover",
-    "Franklin Roosevelt",
     "Truman",
-    "Wilson"
+    "Wilson",
+    "Franklin Roosevelt",
+    "Hoover"
    ],
-   "a": 1,
+   "a": 2,
    "w": "From 1933."
   },
   {
    "q": "Keynes wrote...",
    "o": [
-    "The General Theory",
+    "Mein Kampf",
     "Das Kapital",
     "The Wealth of Nations",
-    "Mein Kampf"
+    "The General Theory"
    ],
-   "a": 0,
+   "a": 3,
    "w": "1936."
   },
   {
    "q": "Social Security began in...",
    "o": [
-    "1929",
-    "1945",
     "1913",
-    "1935"
+    "1929",
+    "1935",
+    "1945"
    ],
-   "a": 3,
+   "a": 2,
    "w": "US New Deal."
   },
   {
    "q": "The Depression helped which German party?",
    "o": [
-    "Greens",
     "Nazis",
-    "Liberals",
-    "Monarchists"
+    "Monarchists",
+    "Greens",
+    "Liberals"
    ],
-   "a": 1,
+   "a": 0,
    "w": "They became largest in 1932."
   },
   {
    "q": "The 'brokers leaping' story is...",
    "o": [
-    "Proven",
     "From a court",
     "Mostly exaggerated",
-    "From Keynes"
+    "From Keynes",
+    "Proven"
    ],
-   "a": 2,
+   "a": 1,
    "w": "Few suicides."
   },
   {
    "q": "India's farm prices in the 1930s...",
    "o": [
-    "Rose",
     "Stayed the same",
+    "Fell sharply",
     "Doubled",
-    "Fell sharply"
+    "Rose"
    ],
-   "a": 3,
+   "a": 1,
    "w": "Peasants fell into debt."
   },
   {
    "q": "Salt March began in...",
    "o": [
-    "1930",
-    "1919",
     "1942",
-    "1947"
+    "1930",
+    "1947",
+    "1919"
    ],
-   "a": 0,
+   "a": 1,
    "w": "Gandhi's Dandi march."
   }
  ],

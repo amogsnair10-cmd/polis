@@ -59,65 +59,65 @@
   {
    "q": "Absolute zero is",
    "o": [
-    "0 C",
-    "-100 C",
     "-273.15 C",
-    "-373 C"
+    "-100 C",
+    "-373 C",
+    "0 C"
    ],
-   "a": 2,
+   "a": 0,
    "w": "0 K = -273.15 C."
   },
   {
    "q": "300 K in Celsius is about",
    "o": [
-    "27 C",
     "573 C",
-    "-27 C",
-    "300 C"
+    "300 C",
+    "27 C",
+    "-27 C"
    ],
-   "a": 0,
+   "a": 2,
    "w": "300 - 273."
   },
   {
    "q": "Heat is",
    "o": [
     "A substance",
-    "Energy transferred due to temperature difference",
     "The same as temperature",
+    "Energy transferred due to temperature difference",
     "A kind of force"
    ],
-   "a": 1,
+   "a": 2,
    "w": "It is a flow of energy."
   },
   {
    "q": "Heat needed to warm 2 kg of water by 10 C (c = 4200)?",
    "o": [
-    "8400 J",
     "84,000 J",
+    "8400 J",
     "42,000 J",
     "840 J"
    ],
-   "a": 1,
+   "a": 0,
    "w": "2 x 4200 x 10."
   },
   {
    "q": "During boiling at constant pressure, the temperature",
    "o": [
-    "Rises steadily",
     "Stays constant",
+    "Doubles",
     "Falls",
-    "Doubles"
+    "Rises steadily"
    ],
-   "a": 1,
+   "a": 0,
    "w": "Latent heat is absorbed."
   },
   {
    "q": "Which mode of heat transfer can cross a vacuum?",
    "o": [
+    "All three",
     "Conduction",
-    "Convection",
     "Radiation",
-    "All three"
+    "Convection"
    ],
    "a": 2,
    "w": "Radiation needs no medium."
@@ -125,21 +125,21 @@
   {
    "q": "In the kinetic theory, gas pressure comes from",
    "o": [
+    "Light",
     "Gravity",
     "Molecules hitting the walls",
-    "Chemical bonds",
-    "Light"
+    "Chemical bonds"
    ],
-   "a": 1,
+   "a": 2,
    "w": "Collisions with walls."
   },
   {
    "q": "For a gas at constant volume, doubling the absolute temperature makes the pressure",
    "o": [
-    "Half",
-    "Double",
     "Four times",
-    "Same"
+    "Double",
+    "Same",
+    "Half"
    ],
    "a": 1,
    "w": "P is proportional to T."
@@ -160,8 +160,8 @@
    "o": [
     "Land and sea heat at different rates",
     "The Moon pulls air",
-    "Earth stops spinning",
-    "Mountains make heat"
+    "Mountains make heat",
+    "Earth stops spinning"
    ],
    "a": 0,
    "w": "Different specific heats create pressure differences."

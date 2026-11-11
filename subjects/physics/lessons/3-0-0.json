@@ -59,32 +59,32 @@
   {
    "q": "In reflection, the angle of incidence",
    "o": [
-    "Equals the angle of reflection",
     "Is double the angle of reflection",
     "Is zero",
-    "Is 90 degrees"
+    "Is 90 degrees",
+    "Equals the angle of reflection"
    ],
-   "a": 0,
+   "a": 3,
    "w": "The law of reflection."
   },
   {
    "q": "The refractive index of a material is",
    "o": [
-    "Speed in material / c",
-    "c / speed in material",
     "Always 1",
-    "Density"
+    "Speed in material / c",
+    "Density",
+    "c / speed in material"
    ],
-   "a": 1,
+   "a": 3,
    "w": "n = c/v."
   },
   {
    "q": "Light going from air into glass bends",
    "o": [
-    "Away from the normal",
+    "Backward",
     "Toward the normal",
-    "Not at all",
-    "Backward"
+    "Away from the normal",
+    "Not at all"
    ],
    "a": 1,
    "w": "It slows and bends toward the normal."
@@ -103,21 +103,21 @@
   {
    "q": "Optical fibres work by",
    "o": [
-    "Diffraction",
-    "Total internal reflection",
     "Polarisation",
-    "Dispersion"
+    "Dispersion",
+    "Total internal reflection",
+    "Diffraction"
    ],
-   "a": 1,
+   "a": 2,
    "w": "Light stays trapped inside."
   },
   {
    "q": "A lens has f = 25 cm. Its power is",
    "o": [
     "+4 dioptres",
+    "+0.04 dioptres",
     "+0.25 dioptres",
-    "+25 dioptres",
-    "+0.04 dioptres"
+    "+25 dioptres"
    ],
    "a": 0,
    "w": "1/0.25."
@@ -125,10 +125,10 @@
   {
    "q": "An object is 20 cm from a convex lens of f = 10 cm. The image is at",
    "o": [
-    "10 cm",
+    "5 cm",
     "20 cm",
-    "30 cm",
-    "5 cm"
+    "10 cm",
+    "30 cm"
    ],
    "a": 1,
    "w": "1/v = 1/10 - 1/20 = 1/20."
@@ -136,34 +136,34 @@
   {
    "q": "Short-sightedness is corrected with a",
    "o": [
-    "Convex lens",
-    "Concave lens",
     "Plane mirror",
-    "Prism"
+    "Prism",
+    "Convex lens",
+    "Concave lens"
    ],
-   "a": 1,
+   "a": 3,
    "w": "Diverging lens."
   },
   {
    "q": "Light's speed in glass (n = 1.5) is about",
    "o": [
+    "4.5 x 10^8 m/s",
     "2 x 10^8 m/s",
     "3 x 10^8 m/s",
-    "4.5 x 10^8 m/s",
     "1.5 x 10^8 m/s"
    ],
-   "a": 0,
+   "a": 1,
    "w": "3 x 10^8 / 1.5."
   },
   {
    "q": "Raman was moved to study light scattering by",
    "o": [
-    "A solar eclipse",
-    "The blue colour of the sea",
+    "A telescope",
     "A rainbow",
-    "A telescope"
+    "The blue colour of the sea",
+    "A solar eclipse"
    ],
-   "a": 1,
+   "a": 2,
    "w": "His 1921 sea voyage."
   }
  ],

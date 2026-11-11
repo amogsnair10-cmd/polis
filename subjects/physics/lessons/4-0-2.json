@@ -59,43 +59,43 @@
   {
    "q": "Planck's relation for the energy of a quantum is",
    "o": [
-    "E = m c squared",
     "E = h f",
     "E = F d",
-    "E = (1/2) m v squared"
+    "E = (1/2) m v squared",
+    "E = m c squared"
    ],
-   "a": 1,
+   "a": 0,
    "w": "E = hf."
   },
   {
    "q": "Einstein won his Nobel Prize for",
    "o": [
     "Special relativity",
-    "The photoelectric effect",
     "General relativity",
-    "Brownian motion"
+    "Brownian motion",
+    "The photoelectric effect"
    ],
-   "a": 1,
+   "a": 3,
    "w": "Awarded in 1921."
   },
   {
    "q": "In the photoelectric effect, brighter light of the same colour gives",
    "o": [
-    "Faster electrons",
-    "More electrons",
     "No electrons",
-    "Heavier electrons"
+    "Faster electrons",
+    "Heavier electrons",
+    "More electrons"
    ],
-   "a": 1,
+   "a": 3,
    "w": "More photons, more electrons."
   },
   {
    "q": "Photon energy for light of wavelength 620 nm (use 1240/lambda) is",
    "o": [
-    "1 eV",
+    "0.5 eV",
     "2 eV",
     "3 eV",
-    "0.5 eV"
+    "1 eV"
    ],
    "a": 1,
    "w": "1240/620 = 2."
@@ -103,21 +103,21 @@
   {
    "q": "A metal has work function 2 eV. A 3 eV photon ejects an electron with kinetic energy",
    "o": [
-    "5 eV",
-    "1 eV",
     "6 eV",
-    "0 eV"
+    "0 eV",
+    "5 eV",
+    "1 eV"
    ],
-   "a": 1,
+   "a": 3,
    "w": "3 - 2."
   },
   {
    "q": "Bohr's 1913 atom said electrons",
    "o": [
-    "Can have any energy",
+    "Are not charged",
     "Have only certain energy levels",
     "Are at rest",
-    "Are not charged"
+    "Can have any energy"
    ],
    "a": 1,
    "w": "Quantised levels."
@@ -126,44 +126,44 @@
    "q": "Atomic spectra consist of",
    "o": [
     "Continuous bands",
-    "Sharp lines at specific colours",
     "Only white light",
+    "Sharp lines at specific colours",
     "Only X-rays"
    ],
-   "a": 1,
+   "a": 2,
    "w": "Jumps between levels."
   },
   {
    "q": "De Broglie's wavelength is given by",
    "o": [
-    "h / (m v)",
-    "m v / h",
+    "c / f",
     "h f",
-    "c / f"
+    "h / (m v)",
+    "m v / h"
    ],
-   "a": 0,
+   "a": 2,
    "w": "Matter has a wavelength."
   },
   {
    "q": "The Heisenberg uncertainty principle limits knowledge of",
    "o": [
-    "Position and momentum together",
-    "Only time",
     "Mass",
-    "Charge"
+    "Charge",
+    "Position and momentum together",
+    "Only time"
    ],
-   "a": 0,
+   "a": 2,
    "w": "Conjugate pairs."
   },
   {
    "q": "The word boson honours",
    "o": [
-    "Bohr",
-    "Born",
+    "Boltzmann",
     "Bose",
-    "Boltzmann"
+    "Born",
+    "Bohr"
    ],
-   "a": 2,
+   "a": 1,
    "w": "S. N. Bose."
   }
  ],

@@ -59,20 +59,20 @@
   {
    "q": "The first artificial satellite was:",
    "o": [
-    "Sputnik 1",
-    "Explorer 1",
+    "Telstar",
     "Aryabhata",
-    "Telstar"
+    "Sputnik 1",
+    "Explorer 1"
    ],
-   "a": 0,
+   "a": 2,
    "w": "4 October 1957."
   },
   {
    "q": "First human in space:",
    "o": [
     "Yuri Gagarin",
-    "Alan Shepard",
     "Neil Armstrong",
+    "Alan Shepard",
     "Rakesh Sharma"
    ],
    "a": 0,
@@ -81,32 +81,32 @@
   {
    "q": "Apollo 11 landed on:",
    "o": [
-    "20 July 1969",
+    "7 Dec 1972",
     "12 April 1961",
-    "21 Dec 1968",
-    "7 Dec 1972"
+    "20 July 1969",
+    "21 Dec 1968"
    ],
-   "a": 0,
+   "a": 2,
    "w": "Sea of Tranquility."
   },
   {
    "q": "How many people have walked on the Moon?",
    "o": [
-    "12",
-    "2",
     "6",
-    "24"
+    "2",
+    "24",
+    "12"
    ],
-   "a": 0,
+   "a": 3,
    "w": "Six missions."
   },
   {
    "q": "The last Apollo landing was:",
    "o": [
     "Apollo 17",
-    "Apollo 13",
+    "Apollo 12",
     "Apollo 11",
-    "Apollo 12"
+    "Apollo 13"
    ],
    "a": 0,
    "w": "December 1972."
@@ -114,56 +114,56 @@
   {
    "q": "The Saturn V was used to:",
    "o": [
-    "Send Apollo to the Moon",
     "Launch Sputnik",
     "Orbit Mir",
+    "Send Apollo to the Moon",
     "Launch Aryabhata"
    ],
-   "a": 0,
+   "a": 2,
    "w": "The giant rocket."
   },
   {
    "q": "The Outer Space Treaty was signed in:",
    "o": [
-    "1967",
-    "1957",
     "1972",
+    "1957",
+    "1967",
     "1984"
    ],
-   "a": 0,
+   "a": 2,
    "w": "Bans national claims on the Moon."
   },
   {
    "q": "India's first astronaut was:",
    "o": [
-    "Rakesh Sharma",
     "Kalpana Chawla",
-    "Sunita Williams",
-    "Shubhanshu Shukla"
+    "Shubhanshu Shukla",
+    "Rakesh Sharma",
+    "Sunita Williams"
    ],
-   "a": 0,
+   "a": 2,
    "w": "3 April 1984."
   },
   {
    "q": "Aryabhata was launched by:",
    "o": [
+    "Ariane",
     "A Soviet rocket",
     "PSLV",
-    "SLV-3",
-    "Ariane"
+    "SLV-3"
    ],
-   "a": 0,
+   "a": 1,
    "w": "19 April 1975."
   },
   {
    "q": "Lunar laser reflectors show the Moon is:",
    "o": [
-    "Receding slowly",
     "Approaching",
     "Fixed",
+    "Receding slowly",
     "Shrinking"
    ],
-   "a": 0,
+   "a": 2,
    "w": "About 3.8 cm per year."
   }
  ],

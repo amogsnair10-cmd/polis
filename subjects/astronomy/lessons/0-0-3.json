@@ -64,21 +64,21 @@
   {
    "q": "Ptolemy used epicycles to explain:",
    "o": [
-    "Seasons",
-    "Retrograde planetary motion",
     "Eclipses",
-    "Tides"
+    "Seasons",
+    "Tides",
+    "Retrograde planetary motion"
    ],
-   "a": 1,
+   "a": 3,
    "w": "Small circles on big circles."
   },
   {
    "q": "Who published De revolutionibus in 1543?",
    "o": [
     "Galileo",
-    "Kepler",
+    "Tycho",
     "Copernicus",
-    "Tycho"
+    "Kepler"
    ],
    "a": 2,
    "w": "Copernicus."
@@ -86,10 +86,10 @@
   {
    "q": "Kepler's first law says planets move in:",
    "o": [
-    "Perfect circles",
+    "Straight lines",
     "Ellipses with the Sun at a focus",
     "Spirals",
-    "Straight lines"
+    "Perfect circles"
    ],
    "a": 1,
    "w": "Elliptical orbits."
@@ -97,23 +97,23 @@
   {
    "q": "Kepler's second law implies a planet moves fastest when it is:",
    "o": [
-    "Farthest from the Sun",
-    "Nearest to the Sun",
     "At the equinox",
-    "At the focus empty"
+    "At the focus empty",
+    "Farthest from the Sun",
+    "Nearest to the Sun"
    ],
-   "a": 1,
+   "a": 3,
    "w": "Equal areas in equal time."
   },
   {
    "q": "Galileo's observation of Jupiter's moons showed:",
    "o": [
-    "Earth orbits the Sun",
-    "Not everything orbits Earth",
+    "The Sun spins",
     "Planets are made of rock",
-    "The Sun spins"
+    "Not everything orbits Earth",
+    "Earth orbits the Sun"
    ],
-   "a": 1,
+   "a": 2,
    "w": "Four moons circle Jupiter."
   },
   {
@@ -130,21 +130,21 @@
   {
    "q": "Newton's Principia was published in:",
    "o": [
-    "1543",
-    "1609",
     "1687",
+    "1609",
+    "1543",
     "1759"
    ],
-   "a": 2,
+   "a": 0,
    "w": "1687."
   },
   {
    "q": "Whose precise data did Kepler use?",
    "o": [
-    "Hipparchus",
-    "Tycho Brahe",
     "Ptolemy",
-    "Galileo"
+    "Tycho Brahe",
+    "Galileo",
+    "Hipparchus"
    ],
    "a": 1,
    "w": "Tycho's Mars data."
@@ -153,22 +153,22 @@
    "q": "Nilakantha Somayaji's model placed which bodies around the Sun?",
    "o": [
     "Only Earth",
-    "Mercury to Saturn",
     "Only the Moon",
+    "Mercury to Saturn",
     "Only Venus"
    ],
-   "a": 1,
+   "a": 2,
    "w": "Five planets orbited the Sun, the Sun orbited Earth."
   },
   {
    "q": "Why did Kepler's third law matter to Newton?",
    "o": [
     "It gave exact calendars",
+    "It proved Earth is round",
     "It hinted at an inverse-square force",
-    "It showed circular orbits",
-    "It proved Earth is round"
+    "It showed circular orbits"
    ],
-   "a": 1,
+   "a": 2,
    "w": "T squared to a cubed follows from inverse-square gravity."
   }
  ],

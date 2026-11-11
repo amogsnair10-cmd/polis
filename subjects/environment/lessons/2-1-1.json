@@ -59,23 +59,23 @@
   {
    "q": "The Ramsar Convention was adopted in:",
    "o": [
-    "1992",
+    "2002",
     "1982",
-    "1971",
-    "2002"
+    "1992",
+    "1971"
    ],
-   "a": 2,
+   "a": 3,
    "w": "Signed in Ramsar, Iran."
   },
   {
    "q": "Which two Indian sites are on the Montreux Record?",
    "o": [
-    "Chilika and Sundarbans",
-    "Keoladeo and Loktak",
     "Bhitarkanika and Kolleru",
-    "Wular and Harike"
+    "Chilika and Sundarbans",
+    "Wular and Harike",
+    "Keoladeo and Loktak"
    ],
-   "a": 1,
+   "a": 3,
    "w": "Chilika was removed from the list in 2002."
   },
   {
@@ -92,78 +92,78 @@
   {
    "q": "Roots that rise above the mud in mangroves are:",
    "o": [
-    "Stilt roots",
     "Haustoria",
-    "Rhizoids",
-    "Pneumatophores"
+    "Stilt roots",
+    "Pneumatophores",
+    "Rhizoids"
    ],
-   "a": 3,
+   "a": 2,
    "w": "They help breathing in waterlogged soil."
   },
   {
    "q": "Zooxanthellae are:",
    "o": [
+    "Planktonic animals",
     "Fish near reefs",
     "Mangrove seeds",
-    "Algae living in corals",
-    "Planktonic animals"
+    "Algae living in corals"
    ],
-   "a": 2,
+   "a": 3,
    "w": "Bleaching occurs when corals expel them."
   },
   {
    "q": "MISHTI is a scheme for:",
    "o": [
-    "Solar power",
-    "Mangrove restoration",
+    "Fishing boats",
     "Wetland tourism",
-    "Fishing boats"
+    "Solar power",
+    "Mangrove restoration"
    ],
-   "a": 1,
+   "a": 3,
    "w": "Announced in Budget 2023–24."
   },
   {
    "q": "CRZ-I includes:",
    "o": [
-    "Mangroves and corals",
     "Built-up cities",
+    "Mangroves and corals",
     "Rural coasts",
     "Open sea only"
    ],
-   "a": 0,
+   "a": 1,
    "w": "It is the ecologically sensitive zone."
   },
   {
    "q": "Which is not a coral reef region of India?",
    "o": [
-    "Gulf of Mannar",
     "Lakshadweep",
     "Gulf of Kachchh",
-    "Chilika"
+    "Chilika",
+    "Gulf of Mannar"
    ],
-   "a": 3,
+   "a": 2,
    "w": "Chilika is a lagoon."
   },
   {
    "q": "World Wetlands Day is on:",
    "o": [
-    "22 March",
     "5 June",
-    "2 February",
-    "22 April"
+    "22 April",
+    "22 March",
+    "2 February"
    ],
-   "a": 2,
+   "a": 3,
    "w": "Marks the Ramsar signing in 1971."
   },
   {
    "q": "Chilika and Keoladeo became India’s first Ramsar sites in:",
    "o": [
-    "1971",
     "1981",
-    "1991",
-    "2002"
+    "2002",
+    "1971",
+    "1991"
    ],
-   "a": 1,
+   "a": 0,
    "w": "India joined the convention in 1982 and listed them in 1981 in later records."
   }
  ],

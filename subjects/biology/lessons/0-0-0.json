@@ -64,8 +64,8 @@
   {
    "q": "Who proposed that every cell comes from a pre-existing cell?",
    "o": [
-    "Schwann",
     "Hooke",
+    "Schwann",
     "Virchow",
     "Pasteur"
    ],
@@ -75,9 +75,9 @@
   {
    "q": "Homeostasis is best described as:",
    "o": [
-    "Taking in food",
-    "Making offspring",
     "Growth of the body",
+    "Making offspring",
+    "Taking in food",
     "Keeping a stable internal state"
    ],
    "a": 3,
@@ -109,9 +109,9 @@
    "q": "Redi's gauze-covered jars showed that:",
    "o": [
     "Maggots come from flies' eggs",
-    "Air is harmful",
     "Heat kills maggots",
-    "Meat cannot rot"
+    "Meat cannot rot",
+    "Air is harmful"
    ],
    "a": 0,
    "w": "No flies, no maggots."
@@ -130,9 +130,9 @@
   {
    "q": "A thermostat is a good analogy for:",
    "o": [
-    "Digestion",
-    "Cell division",
     "Evolution",
+    "Cell division",
+    "Digestion",
     "Feedback control in homeostasis"
    ],
    "a": 3,
@@ -141,10 +141,10 @@
   {
    "q": "Miller's 1953 experiment made:",
    "o": [
-    "Bacteria",
+    "Living cells",
     "Viruses",
     "Amino acids",
-    "Living cells"
+    "Bacteria"
    ],
    "a": 2,
    "w": "Building blocks formed from simple gases."
@@ -164,8 +164,8 @@
    "q": "Why is a growing crystal not alive?",
    "o": [
     "It grows by adding material outside, without metabolism",
-    "It is not solid",
     "It is too small",
+    "It is not solid",
     "It does not move"
    ],
    "a": 0,

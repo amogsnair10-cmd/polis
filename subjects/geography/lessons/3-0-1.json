@@ -59,20 +59,20 @@
   {
    "q": "NDMA is chaired by",
    "o": [
-    "The Prime Minister",
-    "Home Minister",
     "President",
-    "Cabinet Secretary"
+    "Cabinet Secretary",
+    "The Prime Minister",
+    "Home Minister"
    ],
-   "a": 0,
+   "a": 2,
    "w": "Under the 2005 Act."
   },
   {
    "q": "DDMA is chaired by",
    "o": [
     "Superintendent of Police",
-    "Sarpanch",
     "Governor",
+    "Sarpanch",
     "District Collector"
    ],
    "a": 3,
@@ -82,41 +82,41 @@
    "q": "NDRF was set up in",
    "o": [
     "2001",
-    "2006",
     "2005",
-    "2019"
+    "2019",
+    "2006"
    ],
-   "a": 1,
+   "a": 3,
    "w": "Under the DM Act."
   },
   {
    "q": "Sendai Framework has how many priorities?",
    "o": [
+    "Seven",
     "Three",
-    "Four",
     "Five",
-    "Seven"
+    "Four"
    ],
-   "a": 1,
+   "a": 3,
    "w": "And seven global targets."
   },
   {
    "q": "Which agency issues tsunami warnings in India?",
    "o": [
-    "IMD",
-    "CWC",
     "GSI",
-    "INCOIS"
+    "INCOIS",
+    "IMD",
+    "CWC"
    ],
-   "a": 3,
+   "a": 1,
    "w": "Indian National Centre for Ocean Information Services."
   },
   {
    "q": "The J.C. Pant committee was set up in",
    "o": [
     "1999",
-    "1985",
     "2005",
+    "1985",
     "2013"
    ],
    "a": 0,
@@ -126,9 +126,9 @@
    "q": "CDRI is an initiative of",
    "o": [
     "China",
-    "Japan",
+    "Russia",
     "India",
-    "Russia"
+    "Japan"
    ],
    "a": 2,
    "w": "Launched at the UN in 2019."
@@ -136,9 +136,9 @@
   {
    "q": "Nodal ministry for disaster management is",
    "o": [
-    "Environment",
-    "Jal Shakti",
     "Defence",
+    "Jal Shakti",
+    "Environment",
     "Home Affairs"
    ],
    "a": 3,
@@ -158,12 +158,12 @@
   {
    "q": "First state authority created by a state in India was in",
    "o": [
-    "Gujarat",
     "Kerala",
-    "Odisha",
-    "Bihar"
+    "Bihar",
+    "Gujarat",
+    "Odisha"
    ],
-   "a": 2,
+   "a": 3,
    "w": "OSDMA was formed in 1999."
   }
  ],

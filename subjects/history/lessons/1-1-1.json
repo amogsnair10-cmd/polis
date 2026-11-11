@@ -59,10 +59,10 @@
   {
    "q": "Vijayanagara was founded in",
    "o": [
-    "1347",
-    "1336",
     "1206",
-    "1509"
+    "1336",
+    "1509",
+    "1347"
    ],
    "a": 1,
    "w": "By Harihara and Bukka."
@@ -70,53 +70,53 @@
   {
    "q": "Which was the greatest Vijayanagara ruler?",
    "o": [
-    "Krishnadevaraya",
     "Harihara I",
-    "Rama Raya",
-    "Deva Raya II"
+    "Deva Raya II",
+    "Krishnadevaraya",
+    "Rama Raya"
    ],
-   "a": 0,
+   "a": 2,
    "w": "Of the Tuluva dynasty."
   },
   {
    "q": "Amuktamalyada was written by",
    "o": [
-    "Allasani Peddana",
     "Tenali Rama",
-    "Nuniz",
-    "Krishnadevaraya"
+    "Krishnadevaraya",
+    "Allasani Peddana",
+    "Nuniz"
    ],
-   "a": 3,
+   "a": 1,
    "w": "In Telugu."
   },
   {
    "q": "The Nayankara system was",
    "o": [
-    "A tax on trade",
-    "A court of law",
     "A military land-grant system",
-    "A currency"
+    "A court of law",
+    "A currency",
+    "A tax on trade"
    ],
-   "a": 2,
+   "a": 0,
    "w": "Nayakas supplied troops."
   },
   {
    "q": "The Bahmani Sultanate was founded by",
    "o": [
+    "Yusuf Adil",
     "Muhammad Gawan",
     "Alauddin Hasan Bahman Shah",
-    "Firuz Shah",
-    "Yusuf Adil"
+    "Firuz Shah"
    ],
-   "a": 1,
+   "a": 2,
    "w": "In 1347."
   },
   {
    "q": "Mahmud Gawan was",
    "o": [
     "Prime minister of the Bahmanis",
-    "A Vijayanagara general",
     "A Portuguese envoy",
+    "A Vijayanagara general",
     "A Mughal governor"
    ],
    "a": 0,
@@ -125,12 +125,12 @@
   {
    "q": "The battle of Talikota was fought in",
    "o": [
-    "1526",
-    "1347",
+    "1565",
     "1757",
-    "1565"
+    "1526",
+    "1347"
    ],
-   "a": 3,
+   "a": 0,
    "w": "Rama Raya was defeated."
   },
   {
@@ -147,23 +147,23 @@
   {
    "q": "Hampi was designated a UNESCO site in",
    "o": [
-    "1972",
-    "1986",
     "2004",
-    "2014"
+    "1972",
+    "2014",
+    "1986"
    ],
-   "a": 1,
+   "a": 3,
    "w": "As Group of Monuments at Hampi."
   },
   {
    "q": "Charminar was built in",
    "o": [
-    "Hyderabad by Quli Qutb Shah",
-    "Bijapur by Adil Shah",
     "Bidar by Barid Shah",
+    "Bijapur by Adil Shah",
+    "Hyderabad by Quli Qutb Shah",
     "Delhi by Alauddin"
    ],
-   "a": 0,
+   "a": 2,
    "w": "In 1591."
   }
  ],

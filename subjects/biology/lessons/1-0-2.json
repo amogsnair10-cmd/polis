@@ -59,8 +59,8 @@
   {
    "q": "Transcription makes:",
    "o": [
-    "DNA",
     "Protein",
+    "DNA",
     "Lipid",
     "mRNA"
    ],
@@ -104,9 +104,9 @@
    "q": "Codon length:",
    "o": [
     "3 bases",
+    "4 bases",
     "20 bases",
-    "2 bases",
-    "4 bases"
+    "2 bases"
    ],
    "a": 0,
    "w": "Triplet."
@@ -127,8 +127,8 @@
    "o": [
     "Mendel",
     "Crick",
-    "Calvin",
-    "Watson"
+    "Watson",
+    "Calvin"
    ],
    "a": 1,
    "w": "1958."
@@ -159,9 +159,9 @@
    "q": "Sickle cell arises from:",
    "o": [
     "One base change",
-    "Deletion of gene",
     "Virus",
-    "Extra chromosome"
+    "Extra chromosome",
+    "Deletion of gene"
    ],
    "a": 0,
    "w": "Single base substitution."

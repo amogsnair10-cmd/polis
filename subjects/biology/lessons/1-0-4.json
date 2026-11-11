@@ -70,8 +70,8 @@
   {
    "q": "Sickle cell is caused by:",
    "o": [
-    "Frameshift",
     "Extra chromosome",
+    "Frameshift",
     "Deletion of gene",
     "Missense mutation"
    ],
@@ -92,8 +92,8 @@
   {
    "q": "Down syndrome is:",
    "o": [
-    "XXY",
     "XO",
+    "XXY",
     "Monosomy 21",
     "Trisomy 21"
    ],
@@ -104,9 +104,9 @@
    "q": "Muller showed X-rays cause mutation in:",
    "o": [
     "Fruit flies",
-    "Mice",
     "Bacteria",
-    "Peas"
+    "Peas",
+    "Mice"
    ],
    "a": 0,
    "w": "1927."
@@ -115,9 +115,9 @@
    "q": "p53 is a:",
    "o": [
     "Tumour suppressor",
+    "Enzyme for digestion",
     "Hormone",
-    "Oncogene",
-    "Enzyme for digestion"
+    "Oncogene"
    ],
    "a": 0,
    "w": "Guardian of genome."
@@ -125,10 +125,10 @@
   {
    "q": "Haemophilia is:",
    "o": [
-    "Mitochondrial",
-    "X-linked recessive",
     "Y-linked",
-    "Autosomal dominant"
+    "X-linked recessive",
+    "Autosomal dominant",
+    "Mitochondrial"
    ],
    "a": 1,
    "w": "Mostly boys."
@@ -136,9 +136,9 @@
   {
    "q": "A silent mutation:",
    "o": [
-    "Stops protein",
-    "Does not change amino acid",
     "Changes protein",
+    "Does not change amino acid",
+    "Stops protein",
     "Adds a base"
    ],
    "a": 1,
@@ -149,8 +149,8 @@
    "o": [
     "XO",
     "XXY",
-    "XXX",
-    "XYY"
+    "XYY",
+    "XXX"
    ],
    "a": 0,
    "w": "One X."
@@ -158,10 +158,10 @@
   {
    "q": "Why does the sickle gene persist?",
    "o": [
-    "Virus spread",
+    "It is dominant",
     "Carriers resist malaria",
-    "No reason",
-    "It is dominant"
+    "Virus spread",
+    "No reason"
    ],
    "a": 1,
    "w": "Heterozygote advantage."

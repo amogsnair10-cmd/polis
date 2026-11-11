@@ -54,32 +54,32 @@
   {
    "q": "Hegemony and Socialist Strategy was published in",
    "o": [
+    "1968",
     "1985",
     "1989",
-    "2005",
-    "1968"
+    "2005"
    ],
-   "a": 0,
+   "a": 1,
    "w": "Laclau and Mouffe."
   },
   {
    "q": "Laclau's On Populist Reason appeared in",
    "o": [
-    "1985",
     "2005",
+    "2018",
     "1999",
-    "2018"
+    "1985"
    ],
-   "a": 1,
+   "a": 0,
    "w": "Populism as political logic."
   },
   {
    "q": "Mouffe's concept contrasts adversaries with",
    "o": [
-    "Allies",
+    "Priests",
     "Enemies",
     "Classes",
-    "Priests"
+    "Allies"
    ],
    "a": 1,
    "w": "Agonistic politics."
@@ -87,63 +87,63 @@
   {
    "q": "Žižek draws on",
    "o": [
-    "Lacan and Hegel",
     "Mises and Hayek",
-    "Gramsci only",
-    "Kautsky"
+    "Kautsky",
+    "Lacan and Hegel",
+    "Gramsci only"
    ],
-   "a": 0,
+   "a": 2,
    "w": "Psychoanalysis."
   },
   {
    "q": "Norman Geras's 1987 essay questioned",
    "o": [
-    "Leninism",
     "Maoism",
     "Post-Marxism",
+    "Leninism",
     "Revisionism"
    ],
-   "a": 2,
+   "a": 1,
    "w": "\"Post-Marxism?\""
   },
   {
    "q": "Podemos is a party in",
    "o": [
     "Greece",
-    "Spain",
     "France",
-    "Italy"
+    "Italy",
+    "Spain"
    ],
-   "a": 1,
+   "a": 3,
    "w": "Founded 2014."
   },
   {
    "q": "Syriza won power in Greece in",
    "o": [
+    "2008",
     "1985",
     "2015",
-    "2008",
     "2020"
    ],
-   "a": 1,
+   "a": 2,
    "w": "Then accepted austerity."
   },
   {
    "q": "Ellen Meiksins Wood's critique was titled",
    "o": [
-    "The Retreat from Class",
-    "Class and Culture",
     "After Marx",
-    "Class Struggle"
+    "The Retreat from Class",
+    "Class Struggle",
+    "Class and Culture"
    ],
-   "a": 0,
+   "a": 1,
    "w": "1986."
   },
   {
    "q": "Post-Marxism rejects",
    "o": [
-    "All politics",
     "Democracy",
+    "All politics",
     "Class as the necessary centre",
     "Hegemony"
    ],
@@ -153,12 +153,12 @@
   {
    "q": "Chatterjee's Politics of the Governed (2004) introduced",
    "o": [
-    "Base and superstructure",
-    "Political society",
+    "Foco",
     "Dual power",
-    "Foco"
+    "Political society",
+    "Base and superstructure"
    ],
-   "a": 1,
+   "a": 2,
    "w": "On Indian politics."
   }
  ],

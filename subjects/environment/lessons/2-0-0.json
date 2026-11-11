@@ -59,20 +59,20 @@
   {
    "q": "The National Clean Air Programme was launched in:",
    "o": [
+    "2016",
     "2019",
     "2014",
-    "2009",
-    "2016"
+    "2009"
    ],
-   "a": 0,
+   "a": 1,
    "w": "NCAP started in January 2019."
   },
   {
    "q": "Which is a secondary pollutant?",
    "o": [
     "Carbon monoxide",
-    "Sulphur dioxide",
     "Lead",
+    "Sulphur dioxide",
     "Ground-level ozone"
    ],
    "a": 3,
@@ -81,78 +81,78 @@
   {
    "q": "The Air Act in India was passed in:",
    "o": [
+    "1972",
     "1974",
     "1986",
-    "1981",
-    "1972"
+    "1981"
    ],
-   "a": 2,
+   "a": 3,
    "w": "Water Act is 1974; EPA is 1986."
   },
   {
    "q": "NAAQS in India were notified in:",
    "o": [
-    "1986",
     "2009",
     "2014",
-    "2019"
+    "2019",
+    "1986"
    ],
-   "a": 1,
+   "a": 0,
    "w": "They cover 12 pollutants."
   },
   {
    "q": "Which Bharat Stage came into force in April 2020?",
    "o": [
-    "BS-VI",
-    "BS-V",
+    "BS-III",
     "BS-IV",
-    "BS-III"
+    "BS-VI",
+    "BS-V"
    ],
-   "a": 0,
+   "a": 2,
    "w": "India skipped BS-V."
   },
   {
    "q": "CAQM covers:",
    "o": [
-    "All India",
-    "Only Delhi",
     "Only Punjab",
-    "Delhi NCR and adjoining areas"
+    "Delhi NCR and adjoining areas",
+    "Only Delhi",
+    "All India"
    ],
-   "a": 3,
+   "a": 1,
    "w": "It was set up for the National Capital Region and adjoining areas."
   },
   {
    "q": "London smog of 1952 was mostly:",
    "o": [
-    "Photochemical smog",
-    "Dust storm",
     "Sulphurous smog from coal smoke",
-    "Volcanic fog"
+    "Volcanic fog",
+    "Photochemical smog",
+    "Dust storm"
    ],
-   "a": 2,
+   "a": 0,
    "w": "It led to the UK Clean Air Act 1956."
   },
   {
    "q": "The AQI in India was launched in:",
    "o": [
-    "2009",
-    "2014",
     "2019",
-    "2005"
+    "2005",
+    "2014",
+    "2009"
    ],
-   "a": 1,
+   "a": 2,
    "w": "It has six categories."
   },
   {
    "q": "Which pollutant is the most harmful to lungs and blood?",
    "o": [
-    "PM2.5",
-    "PM10",
+    "Ozone in the stratosphere",
     "CO2",
-    "Ozone in the stratosphere"
+    "PM2.5",
+    "PM10"
    ],
-   "a": 0,
+   "a": 2,
    "w": "PM2.5 is fine enough to reach the bloodstream."
   },
   {
@@ -160,10 +160,10 @@
    "o": [
     "40 µg/m3",
     "60 µg/m3",
-    "25 µg/m3",
-    "5 µg/m3"
+    "5 µg/m3",
+    "25 µg/m3"
    ],
-   "a": 3,
+   "a": 2,
    "w": "India’s standard is 40 µg/m3 annually, so the WHO value is far stricter."
   }
  ],

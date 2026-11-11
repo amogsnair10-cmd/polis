@@ -59,32 +59,32 @@
   {
    "q": "Main fuel sugar of the body:",
    "o": [
-    "Glucose",
+    "Glycerol",
     "Sucrose only",
-    "Cellulose",
-    "Glycerol"
+    "Glucose",
+    "Cellulose"
    ],
-   "a": 0,
+   "a": 2,
    "w": "C6H12O6."
   },
   {
    "q": "Bond joining amino acids:",
    "o": [
-    "Peptide bond",
     "Ionic bond",
+    "Peptide bond",
     "Glycosidic bond",
     "Metallic bond"
    ],
-   "a": 0,
+   "a": 1,
    "w": "Loses water."
   },
   {
    "q": "A fat is made of:",
    "o": [
     "Glycerol and three fatty acids",
-    "Glucose chains",
     "Amino acids",
-    "Nucleotides"
+    "Nucleotides",
+    "Glucose chains"
    ],
    "a": 0,
    "w": "Triglyceride."
@@ -92,41 +92,41 @@
   {
    "q": "DNA base pairs:",
    "o": [
-    "A-T and G-C",
     "A-G and T-C",
+    "A-A and G-G",
     "A-C and G-T",
-    "A-A and G-G"
+    "A-T and G-C"
    ],
-   "a": 0,
+   "a": 3,
    "w": "Watson and Crick, 1953."
   },
   {
    "q": "If DNA is 20 percent G, what percent is A?",
    "o": [
-    "20 percent",
     "30 percent",
-    "40 percent",
-    "60 percent"
+    "60 percent",
+    "20 percent",
+    "40 percent"
    ],
-   "a": 1,
+   "a": 0,
    "w": "G = C = 20; A + T = 60, so A = 30."
   },
   {
    "q": "Energy in 10 g fat at 9 kcal/g?",
    "o": [
+    "900 kcal",
     "90 kcal",
     "40 kcal",
-    "9 kcal",
-    "900 kcal"
+    "9 kcal"
    ],
-   "a": 0,
+   "a": 1,
    "w": "10 x 9."
   },
   {
    "q": "Who sequenced insulin in 1955?",
    "o": [
-    "Khorana",
     "Crick",
+    "Khorana",
     "Sanger",
     "Franklin"
    ],
@@ -136,34 +136,34 @@
   {
    "q": "Enzymes are:",
    "o": [
-    "Protein catalysts",
-    "Fats",
     "Sugars",
-    "Metals"
+    "Metals",
+    "Protein catalysts",
+    "Fats"
    ],
-   "a": 0,
+   "a": 2,
    "w": "Lower activation energy."
   },
   {
    "q": "Cellulose is:",
    "o": [
-    "A protein",
-    "A fat",
     "A nucleic acid",
-    "Glucose polymer humans cannot digest"
+    "Glucose polymer humans cannot digest",
+    "A protein",
+    "A fat"
    ],
-   "a": 3,
+   "a": 1,
    "w": "Dietary fibre."
   },
   {
    "q": "Khorana's Nobel (1968) related to:",
    "o": [
-    "Genetic code",
+    "Vitamins",
     "Insulin",
     "Penicillin",
-    "Vitamins"
+    "Genetic code"
    ],
-   "a": 0,
+   "a": 3,
    "w": "Shared with Nirenberg and Holley."
   }
  ],

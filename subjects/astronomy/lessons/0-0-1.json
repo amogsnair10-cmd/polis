@@ -60,97 +60,97 @@
    "q": "The ecliptic is the path of:",
    "o": [
     "The Moon",
-    "The Sun against the stars",
+    "Polaris",
     "Venus",
-    "Polaris"
+    "The Sun against the stars"
    ],
-   "a": 1,
+   "a": 3,
    "w": "The Sun's apparent yearly path."
   },
   {
    "q": "The Moon's phase cycle (new Moon to new Moon) takes about:",
    "o": [
-    "27.3 days",
-    "29.5 days",
+    "365 days",
     "24 hours",
-    "365 days"
+    "29.5 days",
+    "27.3 days"
    ],
-   "a": 1,
+   "a": 2,
    "w": "The synodic month."
   },
   {
    "q": "Why do phases occur?",
    "o": [
-    "Earth's shadow falls on the Moon",
-    "Clouds cover the Moon",
     "We see different amounts of the lit half as it orbits",
-    "The Moon changes size"
+    "Clouds cover the Moon",
+    "The Moon changes size",
+    "Earth's shadow falls on the Moon"
    ],
-   "a": 2,
+   "a": 0,
    "w": "Viewing angle of the sunlit half."
   },
   {
    "q": "Retrograde motion of Mars happens when:",
    "o": [
     "Mars reverses its orbit",
-    "Earth passes Mars on the inside track",
     "Mars stops spinning",
-    "Light is bent by the Sun"
+    "Light is bent by the Sun",
+    "Earth passes Mars on the inside track"
    ],
-   "a": 1,
+   "a": 3,
    "w": "Relative motion illusion."
   },
   {
    "q": "Which planets can never appear high in the midnight sky?",
    "o": [
-    "Mars and Jupiter",
     "Mercury and Venus",
+    "Saturn and Mars",
     "Jupiter and Saturn",
-    "Saturn and Mars"
+    "Mars and Jupiter"
    ],
-   "a": 1,
+   "a": 0,
    "w": "Their orbits lie inside Earth's, so they stay near the Sun."
   },
   {
    "q": "The tilt of the ecliptic to the celestial equator is about:",
    "o": [
-    "5 degrees",
-    "23.4 degrees",
+    "90 degrees",
     "45 degrees",
-    "90 degrees"
+    "5 degrees",
+    "23.4 degrees"
    ],
-   "a": 1,
+   "a": 3,
    "w": "23.4 degrees."
   },
   {
    "q": "Planets generally do not twinkle much because:",
    "o": [
-    "They are hot",
     "They are nearer and show small discs",
     "They have atmospheres",
-    "They are blue"
+    "They are blue",
+    "They are hot"
    ],
-   "a": 1,
+   "a": 0,
    "w": "Disc, not a point; air turbulence averages out."
   },
   {
    "q": "Roughly how long is Jupiter's orbital period?",
    "o": [
-    "1.9 years",
     "11.9 years",
     "29.5 years",
-    "84 years"
+    "84 years",
+    "1.9 years"
    ],
-   "a": 1,
+   "a": 0,
    "w": "11.86 years."
   },
   {
    "q": "Who first proposed Earth's rotation in India, in 499 CE?",
    "o": [
-    "Brahmagupta",
+    "Bhaskara II",
     "Aryabhata",
-    "Varahamihira",
-    "Bhaskara II"
+    "Brahmagupta",
+    "Varahamihira"
    ],
    "a": 1,
    "w": "Aryabhatiya."

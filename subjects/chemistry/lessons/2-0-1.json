@@ -59,54 +59,54 @@
   {
    "q": "Percent of air that is nitrogen?",
    "o": [
-    "78",
-    "21",
     "1",
-    "50"
+    "50",
+    "21",
+    "78"
    ],
-   "a": 0,
+   "a": 3,
    "w": "About 78 percent."
   },
   {
    "q": "Allotrope of carbon that conducts electricity?",
    "o": [
-    "Graphite",
     "Diamond",
-    "Fullerene only",
-    "Carbon dioxide"
+    "Graphite",
+    "Carbon dioxide",
+    "Fullerene only"
    ],
-   "a": 0,
+   "a": 1,
    "w": "Free electrons in layers."
   },
   {
    "q": "Most reactive halogen?",
    "o": [
-    "Fluorine",
     "Iodine",
+    "Chlorine",
     "Bromine",
-    "Chlorine"
+    "Fluorine"
    ],
-   "a": 0,
+   "a": 3,
    "w": "Reactivity falls down the group."
   },
   {
    "q": "Cl2 + 2KBr gives:",
    "o": [
-    "2KCl + Br2",
-    "2KBr + Cl2",
     "KCl + Br",
+    "2KBr + Cl2",
+    "2KCl + Br2",
     "No reaction"
    ],
-   "a": 0,
+   "a": 2,
    "w": "Chlorine displaces bromine."
   },
   {
    "q": "Oxygen in 200 L of air (21 percent)?",
    "o": [
-    "21 L",
     "78 L",
+    "200 L",
     "42 L",
-    "200 L"
+    "21 L"
    ],
    "a": 2,
    "w": "0.21 x 200."
@@ -114,31 +114,31 @@
   {
    "q": "Chlor-alkali process products:",
    "o": [
-    "NaOH, Cl2, H2",
-    "Na, Cl2, O2",
     "HCl, NaOH, O2",
-    "NaCl, H2O"
+    "NaOH, Cl2, H2",
+    "NaCl, H2O",
+    "Na, Cl2, O2"
    ],
-   "a": 0,
+   "a": 1,
    "w": "Electrolysis of brine."
   },
   {
    "q": "Why is N2 unreactive?",
    "o": [
-    "It is ionic",
     "Strong triple bond",
-    "It has no electrons",
-    "It is a metal"
+    "It is a metal",
+    "It is ionic",
+    "It has no electrons"
    ],
-   "a": 1,
+   "a": 0,
    "w": "Hard to break."
   },
   {
    "q": "Gas that binds to haemoglobin dangerously:",
    "o": [
     "Carbon monoxide",
-    "Nitrogen",
     "Hydrogen",
+    "Nitrogen",
     "Argon"
    ],
    "a": 0,
@@ -147,23 +147,23 @@
   {
    "q": "Mass of hydrogen in 36 g water?",
    "o": [
-    "2 g",
-    "32 g",
+    "4 g",
     "18 g",
-    "4 g"
+    "2 g",
+    "32 g"
    ],
-   "a": 3,
+   "a": 0,
    "w": "36 x 2/18 = 4."
   },
   {
    "q": "India's National Green Hydrogen Mission was approved in:",
    "o": [
-    "January 2023",
     "January 2013",
+    "January 2023",
     "March 2000",
     "December 2018"
    ],
-   "a": 0,
+   "a": 1,
    "w": "Target 5 MMT by 2030."
   }
  ],

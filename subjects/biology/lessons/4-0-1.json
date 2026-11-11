@@ -64,10 +64,10 @@
   {
    "q": "Xylem carries:",
    "o": [
-    "Air",
+    "Sugar",
     "Hormones only",
     "Water and minerals",
-    "Sugar"
+    "Air"
    ],
    "a": 2,
    "w": "Water up."
@@ -76,8 +76,8 @@
    "q": "Phloem carries:",
    "o": [
     "Sugar",
-    "Minerals only",
     "Water",
+    "Minerals only",
     "Gas"
    ],
    "a": 0,
@@ -86,10 +86,10 @@
   {
    "q": "Stomata are controlled by:",
    "o": [
+    "Xylem",
     "Phloem",
-    "Root hairs",
     "Guard cells",
-    "Xylem"
+    "Root hairs"
    ],
    "a": 2,
    "w": "Guard cells."
@@ -97,8 +97,8 @@
   {
    "q": "Double fertilisation is in:",
    "o": [
-    "Ferns",
     "Mosses",
+    "Ferns",
     "Algae",
     "Angiosperms"
    ],
@@ -109,9 +109,9 @@
    "q": "Ethylene causes:",
    "o": [
     "Fruit ripening",
-    "Seed storage",
+    "Root growth",
     "Cell division",
-    "Root growth"
+    "Seed storage"
    ],
    "a": 0,
    "w": "Ripening."
@@ -130,8 +130,8 @@
   {
    "q": "Monocots have:",
    "o": [
-    "No veins",
     "Net veins",
+    "No veins",
     "Parallel veins",
     "Woody stems"
    ],
@@ -142,9 +142,9 @@
    "q": "Auxin makes shoots bend toward:",
    "o": [
     "Dark",
-    "Soil",
+    "Water",
     "Light",
-    "Water"
+    "Soil"
    ],
    "a": 2,
    "w": "Phototropism."
@@ -152,10 +152,10 @@
   {
    "q": "Janaki Ammal worked on:",
    "o": [
-    "Cotton",
+    "Jute",
     "Sugarcane",
-    "Tea",
-    "Jute"
+    "Cotton",
+    "Tea"
    ],
    "a": 1,
    "w": "Cytogenetics."

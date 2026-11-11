@@ -60,19 +60,19 @@
   {
    "q": "The US invaded Afghanistan in...",
    "o": [
-    "2001",
     "1979",
+    "2011",
     "2003",
-    "2011"
+    "2001"
    ],
-   "a": 0,
+   "a": 3,
    "w": "October."
   },
   {
    "q": "The Iraq invasion was in...",
    "o": [
-    "2001",
     "1991",
+    "2001",
     "2011",
     "2003"
    ],
@@ -82,31 +82,31 @@
   {
    "q": "Bin Laden was killed in...",
    "o": [
-    "Kabul, 2001",
     "Abbottabad, 2011",
-    "Karachi, 2005",
-    "Tora Bora, 2002"
+    "Tora Bora, 2002",
+    "Kabul, 2001",
+    "Karachi, 2005"
    ],
-   "a": 1,
+   "a": 0,
    "w": "2 May."
   },
   {
    "q": "The Taliban retook Kabul on...",
    "o": [
-    "15 August 2021",
+    "26 Nov 2008",
     "11 Sept 2001",
-    "2 May 2011",
-    "26 Nov 2008"
+    "15 August 2021",
+    "2 May 2011"
    ],
-   "a": 0,
+   "a": 2,
    "w": "After US withdrawal."
   },
   {
    "q": "Indian Parliament was attacked on...",
    "o": [
     "11 Sept 2001",
-    "26 Nov 2008",
     "14 Feb 2019",
+    "26 Nov 2008",
     "13 December 2001"
    ],
    "a": 3,
@@ -115,23 +115,23 @@
   {
    "q": "26/11 refers to...",
    "o": [
-    "Pulwama",
-    "Mumbai attacks of 2008",
     "Kargil",
-    "Uri"
+    "Uri",
+    "Mumbai attacks of 2008",
+    "Pulwama"
    ],
-   "a": 1,
+   "a": 2,
    "w": "Over 160 died."
   },
   {
    "q": "The IC-814 hijack ended in...",
    "o": [
-    "Mumbai",
     "Delhi",
     "Kandahar",
-    "Karachi"
+    "Karachi",
+    "Mumbai"
    ],
-   "a": 2,
+   "a": 1,
    "w": "December 1999."
   },
   {
@@ -148,12 +148,12 @@
   {
    "q": "India's UN terror convention was proposed in...",
    "o": [
-    "1996",
-    "1947",
     "2001",
-    "2014"
+    "1947",
+    "2014",
+    "1996"
    ],
-   "a": 0,
+   "a": 3,
    "w": "Still not adopted."
   }
  ],

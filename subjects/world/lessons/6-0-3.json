@@ -49,54 +49,54 @@
   {
    "q": "Italian fascism's leader...",
    "o": [
-    "Franco",
     "Salazar",
-    "Mussolini",
-    "Hitler"
+    "Franco",
+    "Hitler",
+    "Mussolini"
    ],
-   "a": 2,
+   "a": 3,
    "w": "March on Rome, 1922."
   },
   {
    "q": "Hitler became chancellor in...",
    "o": [
-    "1933",
     "1923",
-    "1939",
-    "1945"
+    "1945",
+    "1933",
+    "1939"
    ],
-   "a": 0,
+   "a": 2,
    "w": "30 January."
   },
   {
    "q": "The Enabling Act was passed in...",
    "o": [
-    "1923",
-    "1935",
     "1938",
-    "March 1933"
+    "1923",
+    "March 1933",
+    "1935"
    ],
-   "a": 3,
+   "a": 2,
    "w": "It gave Hitler decree powers."
   },
   {
    "q": "Mein Kampf was published in...",
    "o": [
-    "1933",
-    "1925",
     "1939",
-    "1914"
+    "1914",
+    "1925",
+    "1933"
    ],
-   "a": 1,
+   "a": 2,
    "w": "Written in prison."
   },
   {
    "q": "The Nuremberg Laws were in...",
    "o": [
     "1935",
-    "1923",
+    "1941",
     "1933",
-    "1941"
+    "1923"
    ],
    "a": 0,
    "w": "Stripped Jews of rights."
@@ -106,52 +106,52 @@
    "o": [
     "January 1933",
     "1945",
-    "1923",
-    "November 1938"
+    "November 1938",
+    "1923"
    ],
-   "a": 3,
+   "a": 2,
    "w": "9-10 November."
   },
   {
    "q": "The Nazis' best free result was about...",
    "o": [
-    "51 percent",
     "37 percent",
     "90 percent",
+    "51 percent",
     "10 percent"
    ],
-   "a": 1,
+   "a": 0,
    "w": "July 1932."
   },
   {
    "q": "Hitler came to power by...",
    "o": [
+    "A war",
     "A coup",
     "A free landslide",
-    "Appointment by Hindenburg",
-    "A war"
+    "Appointment by Hindenburg"
    ],
-   "a": 2,
+   "a": 3,
    "w": "Then he destroyed democracy."
   },
   {
    "q": "Bose met Hitler in...",
    "o": [
-    "1933",
-    "1947",
+    "1942",
     "1923",
-    "1942"
+    "1947",
+    "1933"
    ],
-   "a": 3,
+   "a": 0,
    "w": "Berlin."
   },
   {
    "q": "Nehru in 1936...",
    "o": [
     "Declined to meet Mussolini",
-    "Visited Hitler",
     "Visited Franco",
-    "Met Goebbels"
+    "Met Goebbels",
+    "Visited Hitler"
    ],
    "a": 0,
    "w": "An anti-fascist stand."

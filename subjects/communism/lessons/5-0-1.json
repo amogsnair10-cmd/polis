@@ -54,21 +54,21 @@
   {
    "q": "The Prebisch-Singer hypothesis concerns",
    "o": [
-    "Surplus value",
+    "Decline in primary exports' terms of trade",
     "Hegemony",
-    "Permanent revolution",
-    "Decline in primary exports' terms of trade"
+    "Surplus value",
+    "Permanent revolution"
    ],
-   "a": 3,
+   "a": 0,
    "w": "Late 1940s."
   },
   {
    "q": "Frank's 1967 book argued",
    "o": [
-    "Latin America needs more trade",
     "Stages of growth",
+    "Culture explains poverty",
     "Underdevelopment is created by integration into capitalism",
-    "Culture explains poverty"
+    "Latin America needs more trade"
    ],
    "a": 2,
    "w": "Capitalism and Underdevelopment."
@@ -76,19 +76,19 @@
   {
    "q": "Wallerstein's categories are",
    "o": [
-    "Base and superstructure",
-    "Core, semi-periphery, periphery",
+    "North and South only",
     "Forces and relations",
-    "North and South only"
+    "Base and superstructure",
+    "Core, semi-periphery, periphery"
    ],
-   "a": 1,
+   "a": 3,
    "w": "World-systems."
   },
   {
    "q": "Walter Rodney wrote",
    "o": [
-    "Neo-Colonialism",
     "The Wretched of the Earth",
+    "Neo-Colonialism",
     "Imperialism",
     "How Europe Underdeveloped Africa"
    ],
@@ -99,33 +99,33 @@
    "q": "Cardoso and Faletto argued",
    "o": [
     "No development possible",
-    "Dependent development is possible",
     "Delinking is needed",
-    "Stages are universal"
+    "Stages are universal",
+    "Dependent development is possible"
    ],
-   "a": 1,
+   "a": 3,
    "w": "1969."
   },
   {
    "q": "Rostow's stages of growth are part of",
    "o": [
-    "Dependency",
-    "Maoism",
+    "Modernisation theory",
     "World-systems",
-    "Modernisation theory"
+    "Maoism",
+    "Dependency"
    ],
-   "a": 3,
+   "a": 0,
    "w": "1960."
   },
   {
    "q": "Which region contradicts a simple dependency thesis?",
    "o": [
-    "East Asian tigers",
-    "Sub-Saharan Africa",
+    "Bolivia",
     "Haiti",
-    "Bolivia"
+    "East Asian tigers",
+    "Sub-Saharan Africa"
    ],
-   "a": 0,
+   "a": 2,
    "w": "Integrated and grew."
   },
   {
@@ -133,30 +133,30 @@
    "o": [
     "Free trade",
     "Colonisation",
-    "Delinking",
-    "Aid dependency"
+    "Aid dependency",
+    "Delinking"
    ],
-   "a": 2,
+   "a": 3,
    "w": "From the world market."
   },
   {
    "q": "Bill Warren argued that imperialism",
    "o": [
     "Blocked all development",
+    "Was a myth",
     "Was socialist",
-    "Pioneered capitalism in the periphery",
-    "Was a myth"
+    "Pioneered capitalism in the periphery"
    ],
-   "a": 2,
+   "a": 3,
    "w": "Imperialism: Pioneer of Capitalism, 1980."
   },
   {
    "q": "Which Indian economists wrote A Theory of Imperialism (2016)?",
    "o": [
     "Amartya Sen and Drèze",
-    "Bhagwati and Panagariya",
+    "Bardhan and Mookherjee",
     "Utsa and Prabhat Patnaik",
-    "Bardhan and Mookherjee"
+    "Bhagwati and Panagariya"
    ],
    "a": 2,
    "w": "Columbia University Press."

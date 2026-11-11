@@ -59,65 +59,65 @@
   {
    "q": "Which metal is liquid at room temperature?",
    "o": [
+    "Zinc",
     "Mercury",
     "Sodium",
-    "Lead",
-    "Zinc"
+    "Lead"
    ],
-   "a": 0,
+   "a": 1,
    "w": "Hg."
   },
   {
    "q": "Least reactive metal in the list?",
    "o": [
-    "Gold",
     "Zinc",
+    "Copper",
     "Iron",
-    "Copper"
+    "Gold"
    ],
-   "a": 0,
+   "a": 3,
    "w": "Found native."
   },
   {
    "q": "Aluminium is extracted by:",
    "o": [
-    "Electrolysis of alumina in cryolite",
+    "Magnetic separation",
     "Heating with carbon",
     "Roasting",
-    "Magnetic separation"
+    "Electrolysis of alumina in cryolite"
    ],
-   "a": 0,
+   "a": 3,
    "w": "Hall-Héroult, 1886."
   },
   {
    "q": "Blast furnace reduction reaction:",
    "o": [
-    "Fe + O2 → FeO",
-    "FeO → Fe + O",
     "Fe2O3 + 3CO → 2Fe + 3CO2",
-    "Fe2O3 + H2O → Fe"
+    "FeO → Fe + O",
+    "Fe2O3 + H2O → Fe",
+    "Fe + O2 → FeO"
    ],
-   "a": 2,
+   "a": 0,
    "w": "CO is the reducing agent."
   },
   {
    "q": "Brass is an alloy of:",
    "o": [
-    "Copper and zinc",
-    "Copper and tin",
+    "Lead and tin",
     "Iron and carbon",
-    "Lead and tin"
+    "Copper and zinc",
+    "Copper and tin"
    ],
-   "a": 0,
+   "a": 2,
    "w": "Bronze has tin."
   },
   {
    "q": "Role of limestone in a blast furnace:",
    "o": [
-    "Provides carbon",
+    "Is the ore",
     "Forms slag with impurities",
     "Cools the furnace",
-    "Is the ore"
+    "Provides carbon"
    ],
    "a": 1,
    "w": "CaO + SiO2 → CaSiO3."
@@ -126,9 +126,9 @@
    "q": "Moles of Fe from 3 mol Fe2O3?",
    "o": [
     "6",
+    "9",
     "3",
-    "1.5",
-    "9"
+    "1.5"
    ],
    "a": 0,
    "w": "2 per Fe2O3."
@@ -136,34 +136,34 @@
   {
    "q": "Why are alloys harder than pure metals?",
    "o": [
-    "They have fewer atoms",
     "They are compounds",
     "They have weaker bonds",
-    "Different atoms block layer sliding"
+    "Different atoms block layer sliding",
+    "They have fewer atoms"
    ],
-   "a": 3,
+   "a": 2,
    "w": "Distorted layers."
   },
   {
    "q": "Wootz steel came from:",
    "o": [
-    "Southern India",
-    "Greece",
+    "Egypt",
     "Japan",
-    "Egypt"
+    "Southern India",
+    "Greece"
    ],
-   "a": 0,
+   "a": 2,
    "w": "Later called Damascus steel."
   },
   {
    "q": "Zn + CuSO4 → ZnSO4 + Cu happens because:",
    "o": [
     "Cu is more reactive",
-    "Zn is more reactive than Cu",
     "Zn is heavier",
+    "Zn is more reactive than Cu",
     "The solution is acidic"
    ],
-   "a": 1,
+   "a": 2,
    "w": "Displacement."
   }
  ],

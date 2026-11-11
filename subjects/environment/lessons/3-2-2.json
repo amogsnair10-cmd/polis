@@ -70,12 +70,12 @@
   {
    "q": "India’s carbon market is mainly based on:",
    "o": [
-    "An absolute cap",
     "A carbon tax",
-    "A subsidy",
-    "Emission intensity targets"
+    "Emission intensity targets",
+    "An absolute cap",
+    "A subsidy"
    ],
-   "a": 3,
+   "a": 1,
    "w": "Baseline and credit approach."
   },
   {
@@ -83,54 +83,54 @@
    "o": [
     "Environment Protection Act 1986",
     "Electricity Act 2003",
-    "Energy Conservation (Amendment) Act 2022",
-    "Biological Diversity Act 2002"
+    "Biological Diversity Act 2002",
+    "Energy Conservation (Amendment) Act 2022"
    ],
-   "a": 2,
+   "a": 3,
    "w": "It gave power to set a carbon credit scheme."
   },
   {
    "q": "PAT stands for:",
    "o": [
-    "Pollution and Trade",
-    "Perform, Achieve and Trade",
+    "Protect and Transfer",
     "Power and Technology",
-    "Protect and Transfer"
+    "Pollution and Trade",
+    "Perform, Achieve and Trade"
    ],
-   "a": 1,
+   "a": 3,
    "w": "An energy efficiency trading scheme from 2012."
   },
   {
    "q": "Mission LiFE was launched at:",
    "o": [
-    "Kevadia, Gujarat",
     "Glasgow",
-    "Delhi",
-    "Dubai"
+    "Kevadia, Gujarat",
+    "Dubai",
+    "Delhi"
    ],
-   "a": 0,
+   "a": 1,
    "w": "On 20 October 2022."
   },
   {
    "q": "The EU Emissions Trading System began in:",
    "o": [
-    "1997",
-    "2015",
     "2023",
-    "2005"
+    "1997",
+    "2005",
+    "2015"
    ],
-   "a": 3,
+   "a": 2,
    "w": "The first major carbon market."
   },
   {
    "q": "Article 6 of the Paris Agreement concerns:",
    "o": [
-    "Finance",
+    "Transparency",
     "Adaptation",
-    "Carbon markets and cooperation",
-    "Transparency"
+    "Finance",
+    "Carbon markets and cooperation"
    ],
-   "a": 2,
+   "a": 3,
    "w": "6.2 and 6.4 relate to transfers and a UN crediting mechanism."
   },
   {
@@ -148,8 +148,8 @@
    "q": "Which regulator oversees trading of carbon credits in India?",
    "o": [
     "CERC",
-    "RBI",
     "SEBI",
+    "RBI",
     "TRAI"
    ],
    "a": 0,
@@ -160,10 +160,10 @@
    "o": [
     "COP21 Paris",
     "COP28 Dubai",
-    "COP30 Belém",
-    "COP26 Glasgow"
+    "COP26 Glasgow",
+    "COP30 Belém"
    ],
-   "a": 3,
+   "a": 2,
    "w": "Announced in 2021, launched in 2022."
   }
  ],

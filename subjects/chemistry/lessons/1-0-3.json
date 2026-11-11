@@ -71,9 +71,9 @@
    "q": "Kc for N2 + 3H2 ⇌ 2NH3:",
    "o": [
     "[NH3]^2 / ([N2][H2]^3)",
+    "2[NH3] / 3[H2]",
     "[NH3] / ([N2][H2])",
-    "[N2][H2]^3 / [NH3]^2",
-    "2[NH3] / 3[H2]"
+    "[N2][H2]^3 / [NH3]^2"
    ],
    "a": 0,
    "w": "Coefficients become powers."
@@ -81,53 +81,53 @@
   {
    "q": "Large Kc means:",
    "o": [
-    "Mostly reactants",
-    "Mostly products",
+    "Fast reaction",
     "No reaction",
-    "Fast reaction"
+    "Mostly reactants",
+    "Mostly products"
    ],
-   "a": 1,
+   "a": 3,
    "w": "K measures position, not speed."
   },
   {
    "q": "Raising pressure in Haber process shifts to:",
    "o": [
-    "Ammonia",
     "Nitrogen and hydrogen",
     "No shift",
-    "Water"
+    "Water",
+    "Ammonia"
    ],
-   "a": 0,
+   "a": 3,
    "w": "4 mol gas to 2 mol."
   },
   {
    "q": "A catalyst at equilibrium:",
    "o": [
     "Increases K",
-    "Decreases K",
     "Does not change K",
+    "Decreases K",
     "Removes product"
    ],
-   "a": 2,
+   "a": 1,
    "w": "Speeds both directions equally."
   },
   {
    "q": "[A]=0.5, [B]=0.2 and [C]=1.0 in A + B ⇌ C. Kc?",
    "o": [
-    "10",
-    "0.1",
+    "2",
     "5",
-    "2"
+    "10",
+    "0.1"
    ],
-   "a": 0,
+   "a": 2,
    "w": "1.0 / (0.5 x 0.2)."
   },
   {
    "q": "Le Chatelier's principle was proposed in:",
    "o": [
     "1909",
-    "1776",
     "1950",
+    "1776",
     "1884"
    ],
    "a": 3,
@@ -136,21 +136,21 @@
   {
    "q": "Raising temperature of an exothermic equilibrium:",
    "o": [
-    "Shifts to reactants",
     "Shifts to products",
     "Has no effect",
-    "Doubles K"
+    "Doubles K",
+    "Shifts to reactants"
    ],
-   "a": 0,
+   "a": 3,
    "w": "Favours endothermic direction."
   },
   {
    "q": "Haber process was proved by:",
    "o": [
-    "Lavoisier, 1789",
-    "Fritz Haber, 1909",
     "Bosch, 1950",
-    "Bohr, 1913"
+    "Fritz Haber, 1909",
+    "Bohr, 1913",
+    "Lavoisier, 1789"
    ],
    "a": 1,
    "w": "Bosch industrialised it."
@@ -158,12 +158,12 @@
   {
    "q": "Why does a soda go flat when opened?",
    "o": [
-    "Pressure drops, CO2 escapes, equilibrium shifts",
     "Sugar reacts",
-    "Water evaporates",
-    "Bubbles are nitrogen"
+    "Pressure drops, CO2 escapes, equilibrium shifts",
+    "Bubbles are nitrogen",
+    "Water evaporates"
    ],
-   "a": 0,
+   "a": 1,
    "w": "CO2(aq) ⇌ CO2(g)."
   }
  ],

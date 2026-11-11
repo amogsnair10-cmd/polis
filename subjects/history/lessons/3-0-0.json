@@ -55,64 +55,64 @@
    "q": "Who captured Goa in 1510?",
    "o": [
     "Francisco de Almeida",
-    "Alfonso de Albuquerque",
     "Vasco da Gama",
-    "Pedro Cabral"
+    "Pedro Cabral",
+    "Alfonso de Albuquerque"
    ],
-   "a": 1,
+   "a": 3,
    "w": "Albuquerque took Goa from the Bijapur sultanate in 1510."
   },
   {
    "q": "The English East India Company was chartered in",
    "o": [
-    "1600",
-    "1498",
     "1602",
-    "1664"
+    "1498",
+    "1664",
+    "1600"
    ],
-   "a": 0,
+   "a": 3,
    "w": "Queen Elizabeth I granted the charter on 31 December 1600."
   },
   {
    "q": "Which European company was founded last among these?",
    "o": [
-    "Dutch East India Company (1602)",
-    "English East India Company (1600)",
     "Danish East India Company (1616)",
-    "French Compagnie des Indes (1664)"
+    "French Compagnie des Indes (1664)",
+    "Dutch East India Company (1602)",
+    "English East India Company (1600)"
    ],
-   "a": 3,
+   "a": 1,
    "w": "The French company came in 1664 under Colbert."
   },
   {
    "q": "The decisive French defeat in the Carnatic Wars was at",
    "o": [
-    "Plassey, 1757",
     "Buxar, 1764",
     "Wandiwash, 1760",
-    "Arcot, 1751"
+    "Arcot, 1751",
+    "Plassey, 1757"
    ],
-   "a": 2,
+   "a": 1,
    "w": "Eyre Coote defeated Lally at Wandiwash."
   },
   {
    "q": "Who headed the plot with the English against Siraj-ud-daulah at Plassey?",
    "o": [
+    "Raja Ram Mohan Roy",
     "Mir Qasim",
-    "Mir Jafar",
     "Shuja-ud-daula",
-    "Raja Ram Mohan Roy"
+    "Mir Jafar"
    ],
-   "a": 1,
+   "a": 3,
    "w": "Mir Jafar was the commander who stayed out of the battle and was made nawab."
   },
   {
    "q": "The Battle of Buxar (1764) was fought by the English against",
    "o": [
     "Mir Qasim, Shuja-ud-daula and Shah Alam II",
+    "Mir Jafar and Tipu Sultan",
     "Siraj-ud-daulah and the French",
-    "Haidar Ali and the Marathas",
-    "Mir Jafar and Tipu Sultan"
+    "Haidar Ali and the Marathas"
    ],
    "a": 0,
    "w": "The three-way alliance of Mir Qasim, the Nawab of Awadh and the Mughal emperor lost at Buxar."
@@ -120,32 +120,32 @@
   {
    "q": "The Diwani of Bengal, Bihar and Orissa was granted in",
    "o": [
-    "1757 by Siraj-ud-daulah",
     "1764 by Mir Qasim",
     "1772 by Warren Hastings",
-    "1765 by Shah Alam II"
+    "1765 by Shah Alam II",
+    "1757 by Siraj-ud-daulah"
    ],
-   "a": 3,
+   "a": 2,
    "w": "The Treaty of Allahabad gave the Company revenue rights."
   },
   {
    "q": "Dual government in Bengal (1765 to 1772) was ended by",
    "o": [
-    "Robert Clive",
-    "Lord Cornwallis",
     "Warren Hastings",
+    "Lord Cornwallis",
+    "Robert Clive",
     "Lord Wellesley"
    ],
-   "a": 2,
+   "a": 0,
    "w": "Hastings took over revenue collection directly in 1772."
   },
   {
    "q": "The Treaty of Paris (1763) left the French in India with",
    "o": [
-    "The whole Carnatic",
+    "Nothing at all",
     "Pondicherry and some posts as trading bases only",
     "Bengal and Chandernagore as political states",
-    "Nothing at all"
+    "The whole Carnatic"
    ],
    "a": 1,
    "w": "French factories were restored but fortifying them was barred."
@@ -153,12 +153,12 @@
   {
    "q": "Which was the Danish settlement in Bengal?",
    "o": [
-    "Serampore",
     "Chinsurah",
-    "Pulicat",
-    "Mahe"
+    "Serampore",
+    "Mahe",
+    "Pulicat"
    ],
-   "a": 0,
+   "a": 1,
    "w": "Serampore (Fredericknagore) was Danish; Chinsurah was Dutch."
   }
  ],

@@ -59,54 +59,54 @@
   {
    "q": "Shape of the methane molecule?",
    "o": [
+    "Pyramidal",
     "Tetrahedral",
-    "Linear",
     "Bent",
-    "Pyramidal"
+    "Linear"
    ],
-   "a": 0,
+   "a": 1,
    "w": "Four bonds, no lone pairs."
   },
   {
    "q": "Bond angle in water is about:",
    "o": [
+    "120°",
     "104.5°",
-    "109.5°",
     "180°",
-    "120°"
+    "109.5°"
    ],
-   "a": 0,
+   "a": 1,
    "w": "Two lone pairs squeeze it."
   },
   {
    "q": "CO2 is non-polar because:",
    "o": [
-    "It has no bonds",
     "Bond polarities cancel in a linear shape",
-    "C and O are identical",
-    "It is ionic"
+    "It is ionic",
+    "It has no bonds",
+    "C and O are identical"
    ],
-   "a": 1,
+   "a": 0,
    "w": "Opposite dipoles cancel."
   },
   {
    "q": "NH3 shape?",
    "o": [
+    "Flat triangle",
     "Pyramidal",
     "Tetrahedral",
-    "Linear",
-    "Flat triangle"
+    "Linear"
    ],
-   "a": 0,
+   "a": 1,
    "w": "Three bonds, one lone pair."
   },
   {
    "q": "Which has hydrogen bonding?",
    "o": [
     "H2O",
-    "CH4",
+    "H2",
     "CO2",
-    "H2"
+    "CH4"
    ],
    "a": 0,
    "w": "H bonded to O."
@@ -114,32 +114,32 @@
   {
    "q": "Why does ice float?",
    "o": [
-    "It is lighter atoms",
-    "Ice contains air only",
+    "It is colder",
     "Open hydrogen-bonded lattice is less dense",
-    "It is colder"
+    "Ice contains air only",
+    "It is lighter atoms"
    ],
-   "a": 2,
+   "a": 1,
    "w": "Molecules are held further apart."
   },
   {
    "q": "Strongest intermolecular force in HCl?",
    "o": [
-    "Dipole-dipole",
-    "Hydrogen bonding",
+    "Metallic",
     "Ionic",
-    "Metallic"
+    "Hydrogen bonding",
+    "Dipole-dipole"
    ],
-   "a": 0,
+   "a": 3,
    "w": "Cl is not N, O or F."
   },
   {
    "q": "Which has the highest boiling point?",
    "o": [
-    "CH4",
+    "H2",
     "H2O",
-    "HCl",
-    "H2"
+    "CH4",
+    "HCl"
    ],
    "a": 1,
    "w": "Hydrogen bonds."
@@ -147,23 +147,23 @@
   {
    "q": "Boiling water breaks:",
    "o": [
-    "Intermolecular forces",
     "O-H covalent bonds",
     "Nuclei",
-    "Electrons"
+    "Electrons",
+    "Intermolecular forces"
    ],
-   "a": 0,
+   "a": 3,
    "w": "Molecules stay intact."
   },
   {
    "q": "The Ramachandran plot shows:",
    "o": [
-    "Gas laws",
-    "Atomic masses",
     "Orbital shapes",
-    "Allowed protein backbone angles"
+    "Atomic masses",
+    "Allowed protein backbone angles",
+    "Gas laws"
    ],
-   "a": 3,
+   "a": 2,
    "w": "G.N. Ramachandran, 1963."
   }
  ],

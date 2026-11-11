@@ -70,10 +70,10 @@
   {
    "q": "Jenner used which germ for smallpox vaccine?",
    "o": [
-    "TB",
+    "Polio",
     "Cowpox",
-    "Rabies",
-    "Polio"
+    "TB",
+    "Rabies"
    ],
    "a": 1,
    "w": "1796."
@@ -81,9 +81,9 @@
   {
    "q": "Innate immunity:",
    "o": [
-    "Has memory",
     "Needs vaccines",
     "Is specific",
+    "Has memory",
     "Is fast and general"
    ],
    "a": 3,
@@ -92,9 +92,9 @@
   {
    "q": "HIV attacks:",
    "o": [
-    "Platelets",
-    "Helper T cells",
     "B cells",
+    "Helper T cells",
+    "Platelets",
     "Red cells"
    ],
    "a": 1,
@@ -103,8 +103,8 @@
   {
    "q": "Memory cells make the second response:",
    "o": [
-    "Equal",
     "Slower",
+    "Equal",
     "Faster",
     "Absent"
    ],
@@ -115,8 +115,8 @@
    "q": "India was certified polio-free in:",
    "o": [
     "2014",
-    "1995",
     "2004",
+    "1995",
     "2020"
    ],
    "a": 0,
@@ -136,10 +136,10 @@
   {
    "q": "Monoclonal antibodies were made by:",
    "o": [
-    "Pasteur",
+    "Jenner",
     "Kohler and Milstein",
     "Behring",
-    "Jenner"
+    "Pasteur"
    ],
    "a": 1,
    "w": "1975."
@@ -148,9 +148,9 @@
    "q": "An autoimmune disease:",
    "o": [
     "Is caused by virus",
-    "Is an infection",
+    "Is allergy",
     "Attacks the body's own cells",
-    "Is allergy"
+    "Is an infection"
    ],
    "a": 2,
    "w": "Self-attack."

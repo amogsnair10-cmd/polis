@@ -59,8 +59,8 @@
   {
    "q": "The Born rule says the chance of finding a particle at a place is:",
    "o": [
-    "Its speed",
     "Its energy",
+    "Its speed",
     "The wavefunction size squared",
     "The wavefunction itself"
    ],
@@ -71,8 +71,8 @@
    "q": "Who proposed the probability meaning of ψ in 1926?",
    "o": [
     "Max Born",
-    "Louis de Broglie",
     "Isaac Newton",
+    "Louis de Broglie",
     "Erwin Schrödinger"
    ],
    "a": 0,
@@ -82,31 +82,31 @@
    "q": "Two path amplitudes of equal size and opposite sign give:",
    "o": [
     "Four times the chance",
-    "Same as one path",
     "Zero chance",
-    "Double chance"
+    "Double chance",
+    "Same as one path"
    ],
-   "a": 2,
+   "a": 1,
    "w": "Cancellation makes dark stripes."
   },
   {
    "q": "Why is ψ not a smeared electron?",
    "o": [
-    "ψ is always zero",
     "Electrons have no charge",
     "Electrons are infinite",
-    "Detectors always find whole electrons"
+    "Detectors always find whole electrons",
+    "ψ is always zero"
    ],
-   "a": 3,
+   "a": 2,
    "w": "The electron arrives as a single dot."
   },
   {
    "q": "If paths are recorded, you should:",
    "o": [
+    "Multiply the odds",
     "Ignore the paths",
-    "Add the amplitudes",
     "Add the odds, not the amplitudes",
-    "Multiply the odds"
+    "Add the amplitudes"
    ],
    "a": 2,
    "w": "This removes interference."
@@ -114,56 +114,56 @@
   {
    "q": "What does \"collapse\" refer to?",
    "o": [
-    "The atom exploding",
-    "The screen breaking",
     "The slit closing",
-    "Updating ψ after a measurement result"
+    "The screen breaking",
+    "Updating ψ after a measurement result",
+    "The atom exploding"
    ],
-   "a": 3,
+   "a": 2,
    "w": "Whether it is physical is debated."
   },
   {
    "q": "How do dots on the screen show the wavefunction?",
    "o": [
-    "One dot shows it",
+    "Many dots build up the |ψ|² pattern",
     "It cannot be seen",
     "Dots are random with no pattern",
-    "Many dots build up the |ψ|² pattern"
+    "One dot shows it"
    ],
-   "a": 3,
+   "a": 0,
    "w": "Statistics reveal the odds."
   },
   {
    "q": "Weather odds differ from quantum odds because:",
    "o": [
     "Weather ignores probability",
-    "Weather is exact",
     "Quantum amplitudes can cancel",
+    "Weather is exact",
     "Quantum odds are guesses"
    ],
-   "a": 2,
+   "a": 1,
    "w": "Odds never cancel, amplitudes do."
   },
   {
    "q": "The 2010 triple-slit test checked:",
    "o": [
     "The speed of light",
-    "That there is no extra third-order interference",
+    "The mass of an electron",
     "Planck's constant",
-    "The mass of an electron"
+    "That there is no extra third-order interference"
    ],
-   "a": 1,
+   "a": 3,
    "w": "It supported the Born rule."
   },
   {
    "q": "Which statement is correct about hidden variables?",
    "o": [
     "All are disproved",
-    "None have been considered",
     "Local ones are ruled out by Bell tests; others are not",
+    "None have been considered",
     "Born proved them true"
    ],
-   "a": 2,
+   "a": 1,
    "w": "See the Bell lesson."
   }
  ],

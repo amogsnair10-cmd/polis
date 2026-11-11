@@ -54,42 +54,42 @@
   {
    "q": "Trotsky's Results and Prospects appeared in",
    "o": [
-    "1906",
-    "1917",
     "1930",
-    "1936"
+    "1917",
+    "1936",
+    "1906"
    ],
-   "a": 0,
+   "a": 3,
    "w": "After 1905."
   },
   {
    "q": "Permanent revolution holds that",
    "o": [
-    "Workers must lead and spread the revolution",
     "Bourgeoisie completes the revolution",
     "Socialism in one country is enough",
-    "Peasants lead"
+    "Peasants lead",
+    "Workers must lead and spread the revolution"
    ],
-   "a": 0,
+   "a": 3,
    "w": "Against stages."
   },
   {
    "q": "The Revolution Betrayed (1936) described the USSR as",
    "o": [
-    "A degenerated workers' state",
-    "A capitalist state",
     "A socialist paradise",
+    "A capitalist state",
+    "A degenerated workers' state",
     "A feudal state"
    ],
-   "a": 0,
+   "a": 2,
    "w": "With a bureaucracy."
   },
   {
    "q": "Trotsky was murdered in",
    "o": [
+    "Oslo, 1939",
     "Moscow, 1937",
     "Paris, 1938",
-    "Oslo, 1939",
     "Mexico, 1940"
    ],
    "a": 3,
@@ -98,21 +98,21 @@
   {
    "q": "The Fourth International was founded in",
    "o": [
-    "1919",
+    "1938",
     "1943",
-    "1928",
-    "1938"
+    "1919",
+    "1928"
    ],
-   "a": 3,
+   "a": 0,
    "w": "To rival the Comintern."
   },
   {
    "q": "Trotsky led which force in the civil war?",
    "o": [
     "The Cheka",
-    "The Whites",
+    "The Navy only",
     "The Red Army",
-    "The Navy only"
+    "The Whites"
    ],
    "a": 2,
    "w": "As Commissar for War."
@@ -120,43 +120,43 @@
   {
    "q": "Isaac Deutscher's biography of Trotsky is",
    "o": [
-    "Hostile, one volume",
     "Official Soviet",
     "Sympathetic, three volumes",
-    "Anarchist"
+    "Anarchist",
+    "Hostile, one volume"
    ],
-   "a": 2,
+   "a": 1,
    "w": "The Prophet trilogy."
   },
   {
    "q": "Which South Asian party was Trotskyist in origin?",
    "o": [
-    "Awami League",
-    "Muslim League",
     "Jana Sangh",
-    "Lanka Sama Samaja Party"
+    "Lanka Sama Samaja Party",
+    "Awami League",
+    "Muslim League"
    ],
-   "a": 3,
+   "a": 1,
    "w": "Founded 1935."
   },
   {
    "q": "Which event did anarchists hold against Trotsky?",
    "o": [
-    "Kronstadt 1921",
     "Moscow Trials",
+    "Tashkent",
     "Brest-Litovsk",
-    "Tashkent"
+    "Kronstadt 1921"
    ],
-   "a": 0,
+   "a": 3,
    "w": "He organised the assault."
   },
   {
    "q": "Combined and uneven development means backward countries",
    "o": [
     "Combine modern and archaic features",
-    "Repeat Europe's stages exactly",
+    "Skip class struggle",
     "Cannot industrialise",
-    "Skip class struggle"
+    "Repeat Europe's stages exactly"
    ],
    "a": 0,
    "w": "Applied to Russia."

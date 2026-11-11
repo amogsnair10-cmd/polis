@@ -75,8 +75,8 @@
   {
    "q": "Pepsin digests:",
    "o": [
-    "Fat",
     "Starch",
+    "Fat",
     "Fibre",
     "Protein"
    ],
@@ -86,10 +86,10 @@
   {
    "q": "Bile is made by the:",
    "o": [
-    "Stomach",
+    "Pancreas",
     "Liver",
-    "Gall bladder",
-    "Pancreas"
+    "Stomach",
+    "Gall bladder"
    ],
    "a": 1,
    "w": "Stored in gall bladder."
@@ -97,10 +97,10 @@
   {
    "q": "Scurvy is caused by lack of:",
    "o": [
-    "D",
-    "C",
     "K",
-    "A"
+    "C",
+    "A",
+    "D"
    ],
    "a": 1,
    "w": "Vitamin C."
@@ -108,9 +108,9 @@
   {
    "q": "H. pylori was found by:",
    "o": [
+    "Eijkman",
     "Pavlov",
     "Lind",
-    "Eijkman",
     "Marshall and Warren"
    ],
    "a": 3,
@@ -120,9 +120,9 @@
    "q": "Salivary amylase acts on:",
    "o": [
     "Starch",
+    "Protein",
     "Vitamin",
-    "Fat",
-    "Protein"
+    "Fat"
    ],
    "a": 0,
    "w": "Starch to sugar."
@@ -130,10 +130,10 @@
   {
    "q": "Rickets is due to lack of:",
    "o": [
-    "Iron",
     "Iodine",
+    "Vitamin A",
     "Vitamin D",
-    "Vitamin A"
+    "Iron"
    ],
    "a": 2,
    "w": "Bones."
@@ -142,8 +142,8 @@
    "q": "Villi:",
    "o": [
     "Increase absorption area",
-    "Make bile",
     "Make acid",
+    "Make bile",
     "Store food"
    ],
    "a": 0,
@@ -152,10 +152,10 @@
   {
    "q": "Large intestine mainly absorbs:",
    "o": [
-    "Starch",
+    "Protein",
     "Water",
     "Fat",
-    "Protein"
+    "Starch"
    ],
    "a": 1,
    "w": "Water and salts."
@@ -165,8 +165,8 @@
    "o": [
     "Scurvy",
     "Goitre",
-    "Anaemia",
-    "Rickets"
+    "Rickets",
+    "Anaemia"
    ],
    "a": 1,
    "w": "Thyroid enlargement."

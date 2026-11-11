@@ -59,111 +59,111 @@
   {
    "q": "Dark matter makes up about what share of the universe's total content?",
    "o": [
-    "5 percent",
     "27 percent",
-    "68 percent",
-    "95 percent"
+    "5 percent",
+    "95 percent",
+    "68 percent"
    ],
-   "a": 1,
+   "a": 0,
    "w": "About 27 percent."
   },
   {
    "q": "Who first inferred dark matter from the Coma cluster in 1933?",
    "o": [
-    "Zwicky",
     "Rubin",
+    "Zwicky",
     "Hubble",
     "Penzias"
    ],
-   "a": 0,
+   "a": 1,
    "w": "Fritz Zwicky."
   },
   {
    "q": "Flat rotation curves mean that:",
    "o": [
-    "Outer stars orbit faster than visible mass explains",
     "Galaxies do not rotate",
     "Stars are fixed",
-    "Orbits are circular"
+    "Orbits are circular",
+    "Outer stars orbit faster than visible mass explains"
    ],
-   "a": 0,
+   "a": 3,
    "w": "Extra mass in a halo."
   },
   {
    "q": "The Bullet Cluster showed that:",
    "o": [
+    "Gas is dark matter",
     "Mass lies apart from visible gas",
     "Clusters never collide",
-    "Gas is dark matter",
     "Light is slow"
    ],
-   "a": 0,
+   "a": 1,
    "w": "Lensing map vs X-ray gas."
   },
   {
    "q": "Gravitational lensing measures:",
    "o": [
-    "Total mass",
     "Colour",
-    "Temperature",
-    "Age"
+    "Total mass",
+    "Age",
+    "Temperature"
    ],
-   "a": 0,
+   "a": 1,
    "w": "Light bending depends on mass."
   },
   {
    "q": "Which is NOT a dark matter candidate?",
    "o": [
-    "WIMPs",
+    "Primordial black holes",
     "Axions",
-    "Ordinary hydrogen gas",
-    "Primordial black holes"
+    "WIMPs",
+    "Ordinary hydrogen gas"
    ],
-   "a": 2,
+   "a": 3,
    "w": "Hydrogen is visible matter."
   },
   {
    "q": "MOND proposes:",
    "o": [
-    "Modifying gravity",
-    "More neutrinos",
     "Bigger stars",
-    "Cold dark energy"
+    "Cold dark energy",
+    "More neutrinos",
+    "Modifying gravity"
    ],
-   "a": 0,
+   "a": 3,
    "w": "Milgrom 1983."
   },
   {
    "q": "Why can't neutrinos be most of dark matter?",
    "o": [
-    "They are too light and fast",
-    "They are too heavy",
     "They are visible",
-    "They do not exist"
+    "They are too heavy",
+    "They do not exist",
+    "They are too light and fast"
    ],
-   "a": 0,
+   "a": 3,
    "w": "They would smear out structure."
   },
   {
    "q": "Without dark matter, galaxies would:",
    "o": [
-    "Not form in 13.8 billion years",
-    "Form faster",
     "Be bigger",
+    "Form faster",
+    "Not form in 13.8 billion years",
     "Be hotter"
    ],
-   "a": 0,
+   "a": 2,
    "w": "Matter would be too smooth."
   },
   {
    "q": "The 1965 Kolar Gold Fields experiment detected:",
    "o": [
-    "Atmospheric neutrinos",
-    "Dark matter",
     "Gravitational waves",
-    "Pulsars"
+    "Pulsars",
+    "Atmospheric neutrinos",
+    "Dark matter"
    ],
-   "a": 0,
+   "a": 2,
    "w": "Deep underground in India."
   }
  ],

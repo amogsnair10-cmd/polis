@@ -54,20 +54,20 @@
   {
    "q": "The First International split at",
    "o": [
-    "The Hague, 1872",
-    "Paris, 1864",
     "London, 1889",
+    "Paris, 1864",
+    "The Hague, 1872",
     "Geneva, 1866"
    ],
-   "a": 0,
+   "a": 2,
    "w": "Bakunin expelled."
   },
   {
    "q": "Bakunin wrote",
    "o": [
+    "Reform or Revolution",
     "Mutual Aid",
     "The Conquest of Bread",
-    "Reform or Revolution",
     "Statism and Anarchy"
    ],
    "a": 3,
@@ -76,9 +76,9 @@
   {
    "q": "Kropotkin's Mutual Aid (1902) answers",
    "o": [
-    "Marx's value theory",
     "Lenin",
     "Keynes",
+    "Marx's value theory",
     "Social Darwinism"
    ],
    "a": 3,
@@ -87,12 +87,12 @@
   {
    "q": "The Kronstadt revolt of 1921 was suppressed by",
    "o": [
-    "The Whites",
-    "The Germans",
+    "The Mensheviks",
     "The Red Army",
-    "The Mensheviks"
+    "The Whites",
+    "The Germans"
    ],
-   "a": 2,
+   "a": 1,
    "w": "Under Trotsky and Tukhachevsky."
   },
   {
@@ -110,41 +110,41 @@
    "q": "Orwell's Homage to Catalonia (1938) describes",
    "o": [
     "The Gulag",
-    "Anarchist Barcelona",
+    "Mao's China",
     "The Paris Commune",
-    "Mao's China"
+    "Anarchist Barcelona"
    ],
-   "a": 1,
+   "a": 3,
    "w": "His 1936-37 experience."
   },
   {
    "q": "Marx and Engels's \"On Authority\" (1873) argues that",
    "o": [
     "All authority must go",
-    "Some authority is necessary in organised production",
     "Only peasants matter",
-    "Party is unnecessary"
+    "Party is unnecessary",
+    "Some authority is necessary in organised production"
    ],
-   "a": 1,
+   "a": 3,
    "w": "Against anti-authoritarianism."
   },
   {
    "q": "Who corresponded with Tolstoy in 1909-10?",
    "o": [
-    "Nehru",
     "Tilak",
     "Gandhi",
+    "Nehru",
     "Subhas Bose"
    ],
-   "a": 2,
+   "a": 1,
    "w": "Letters on non-violence."
   },
   {
    "q": "J.P. Narayan's Total Revolution began in",
    "o": [
-    "1947",
     "1962",
     "1991",
+    "1947",
     "1974"
    ],
    "a": 3,
@@ -153,12 +153,12 @@
   {
    "q": "Makhno's movement was centred in",
    "o": [
-    "Siberia",
     "Ukraine",
-    "Poland",
-    "Finland"
+    "Siberia",
+    "Finland",
+    "Poland"
    ],
-   "a": 1,
+   "a": 0,
    "w": "1918-21."
   }
  ],

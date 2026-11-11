@@ -59,21 +59,21 @@
   {
    "q": "Weber's theory emphasises",
    "o": [
+    "Least transport cost",
     "Highest market price",
     "Government policy",
-    "Climate",
-    "Least transport cost"
+    "Climate"
    ],
-   "a": 3,
+   "a": 0,
    "w": "Weber, 1909."
   },
   {
    "q": "Iron and steel plants are raw-material oriented because",
    "o": [
-    "Labour is cheap",
+    "Power is free",
     "Iron ore loses weight in smelting",
     "Markets are far",
-    "Power is free"
+    "Labour is cheap"
    ],
    "a": 1,
    "w": "It is cheaper to carry the product."
@@ -92,32 +92,32 @@
   {
    "q": "Rourkela plant was set up with help from",
    "o": [
+    "Germany",
     "UK",
-    "USSR",
     "USA",
-    "Germany"
+    "USSR"
    ],
-   "a": 3,
+   "a": 0,
    "w": "Durgapur had British help."
   },
   {
    "q": "Footloose industries",
    "o": [
+    "Are always rural",
     "Have no strong tie to raw materials",
-    "Need coal",
     "Need ports only",
-    "Are always rural"
+    "Need coal"
    ],
-   "a": 0,
+   "a": 1,
    "w": "IT and electronics are examples."
   },
   {
    "q": "PLI schemes were launched in",
    "o": [
     "1991",
-    "2005",
+    "2014",
     "2020",
-    "2014"
+    "2005"
    ],
    "a": 2,
    "w": "Production Linked Incentive."
@@ -125,12 +125,12 @@
   {
    "q": "SEZ Act was passed in",
    "o": [
-    "1991",
+    "2005",
     "2014",
-    "2020",
-    "2005"
+    "1991",
+    "2020"
    ],
-   "a": 3,
+   "a": 0,
    "w": "It created special zones for exports."
   },
   {
@@ -147,23 +147,23 @@
   {
    "q": "Make in India launched in",
    "o": [
-    "2005",
-    "2010",
+    "2020",
     "2014",
-    "2020"
+    "2005",
+    "2010"
    ],
-   "a": 2,
+   "a": 1,
    "w": "It targets 25% share of manufacturing in GDP."
   },
   {
    "q": "Dholera is being developed as a",
    "o": [
-    "Semiconductor and smart city hub",
+    "Textile city",
     "Steel city",
     "Port city",
-    "Textile city"
+    "Semiconductor and smart city hub"
    ],
-   "a": 0,
+   "a": 3,
    "w": "In Gujarat, near Ahmedabad."
   }
  ],

@@ -61,8 +61,8 @@
    "o": [
     "Alveoli",
     "Trachea",
-    "Larynx",
-    "Bronchi"
+    "Bronchi",
+    "Larynx"
    ],
    "a": 0,
    "w": "Alveoli."
@@ -92,9 +92,9 @@
   {
    "q": "Carbon monoxide is dangerous because it:",
    "o": [
-    "Raises pH",
-    "Binds haemoglobin strongly",
     "Burns lungs",
+    "Binds haemoglobin strongly",
+    "Raises pH",
     "Dissolves"
    ],
    "a": 1,
@@ -105,8 +105,8 @@
    "o": [
     "Cerebrum",
     "Medulla",
-    "Liver",
-    "Heart"
+    "Heart",
+    "Liver"
    ],
    "a": 1,
    "w": "Brainstem."
@@ -114,9 +114,9 @@
   {
    "q": "Tidal volume is about:",
    "o": [
-    "50 litres",
-    "5 litres",
     "50 ml",
+    "5 litres",
+    "50 litres",
     "500 ml"
    ],
    "a": 3,
@@ -125,9 +125,9 @@
   {
    "q": "Bohr effect shows CO2:",
    "o": [
-    "Makes ATP",
     "Causes clotting",
     "Blocks oxygen use",
+    "Makes ATP",
     "Helps haemoglobin release oxygen"
    ],
    "a": 3,
@@ -136,8 +136,8 @@
   {
    "q": "Doll and Hill linked smoking to:",
    "o": [
-    "Asthma",
     "TB",
+    "Asthma",
     "Flu",
     "Lung cancer"
    ],
@@ -147,8 +147,8 @@
   {
    "q": "Trachea is kept open by:",
    "o": [
-    "Bone",
     "Muscle",
+    "Bone",
     "Cartilage rings",
     "Mucus"
    ],
@@ -158,10 +158,10 @@
   {
    "q": "India's National Clean Air Programme began in:",
    "o": [
-    "1999",
     "2025",
+    "2009",
     "2019",
-    "2009"
+    "1999"
    ],
    "a": 2,
    "w": "2019."

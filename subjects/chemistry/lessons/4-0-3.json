@@ -59,65 +59,65 @@
   {
    "q": "Who formulated the 12 principles of green chemistry (1998)?",
    "o": [
-    "Anastas and Warner",
-    "Haber and Bosch",
     "Watson and Crick",
+    "Haber and Bosch",
+    "Anastas and Warner",
     "Geim and Novoselov"
    ],
-   "a": 0,
+   "a": 2,
    "w": "1998."
   },
   {
    "q": "Atom economy formula:",
    "o": [
-    "Desired product mass / total reactant mass x 100",
     "Actual yield / theoretical yield x 100",
+    "Moles / volume",
     "Waste / product",
-    "Moles / volume"
+    "Desired product mass / total reactant mass x 100"
    ],
-   "a": 0,
+   "a": 3,
    "w": "Efficiency of atom use."
   },
   {
    "q": "Atom economy of CaO from CaCO3 (100 → 56 + 44)?",
    "o": [
+    "12 percent",
     "56 percent",
-    "44 percent",
     "100 percent",
-    "12 percent"
+    "44 percent"
    ],
-   "a": 0,
+   "a": 1,
    "w": "56/100."
   },
   {
    "q": "C2H4 + H2 → C2H6 has atom economy of:",
    "o": [
-    "50 percent",
     "28 percent",
     "100 percent",
+    "50 percent",
     "75 percent"
    ],
-   "a": 2,
+   "a": 1,
    "w": "All atoms used."
   },
   {
    "q": "E-factor measures:",
    "o": [
-    "Waste per kg of product",
     "Energy used",
     "Yield",
-    "Temperature"
+    "Temperature",
+    "Waste per kg of product"
    ],
-   "a": 0,
+   "a": 3,
    "w": "Roger Sheldon."
   },
   {
    "q": "Making 2 kg of product produces 30 kg waste. E-factor?",
    "o": [
-    "60",
+    "0.07",
     "15",
-    "30",
-    "0.07"
+    "60",
+    "30"
    ],
    "a": 1,
    "w": "30 / 2."
@@ -125,12 +125,12 @@
   {
    "q": "Graphene was isolated in:",
    "o": [
+    "2015",
     "2004",
-    "1985",
     "1950",
-    "2015"
+    "1985"
    ],
-   "a": 0,
+   "a": 1,
    "w": "Geim and Novoselov."
   },
   {
@@ -138,8 +138,8 @@
    "o": [
     "Electrolysis using renewable power",
     "Steam reforming of methane",
-    "Burning coal",
-    "Cracking oil"
+    "Cracking oil",
+    "Burning coal"
    ],
    "a": 0,
    "w": "2H2O → 2H2 + O2."
@@ -148,8 +148,8 @@
    "q": "MOFs are useful for:",
    "o": [
     "Making steel",
-    "Making soap",
     "Cooking",
+    "Making soap",
     "Capturing gases like CO2"
    ],
    "a": 3,
@@ -158,12 +158,12 @@
   {
    "q": "India's Bharat Ratna chemist known for materials work:",
    "o": [
-    "C.N.R. Rao",
     "P.C. Ray",
+    "C.N.R. Rao",
     "G.N. Ramachandran",
     "S.N. Bose"
    ],
-   "a": 0,
+   "a": 1,
    "w": "Bharat Ratna 2013."
   }
  ],

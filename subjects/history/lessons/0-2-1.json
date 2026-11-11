@@ -70,12 +70,12 @@
   {
    "q": "Menander, the Indo-Greek king, is also known as",
    "o": [
-    "Milinda",
     "Demetrius",
-    "Gondophernes",
-    "Rudradaman"
+    "Milinda",
+    "Rudradaman",
+    "Gondophernes"
    ],
-   "a": 0,
+   "a": 1,
    "w": "Milinda-panha records his talks with Nagasena."
   },
   {
@@ -83,19 +83,19 @@
    "o": [
     "Kanishka",
     "Gautamiputra",
-    "Ashoka",
-    "Rudradaman"
+    "Rudradaman",
+    "Ashoka"
    ],
-   "a": 3,
+   "a": 2,
    "w": "It is in Sanskrit."
   },
   {
    "q": "Kanishka’s capitals were",
    "o": [
-    "Pataliputra and Ujjain",
+    "Madurai and Uraiyur",
     "Pratishthana and Amaravati",
     "Purushapura and Mathura",
-    "Madurai and Uraiyur"
+    "Pataliputra and Ujjain"
    ],
    "a": 2,
    "w": "Peshawar and Mathura."
@@ -104,20 +104,20 @@
    "q": "The Satavahana capital was",
    "o": [
     "Madurai",
-    "Pratishthana",
+    "Taxila",
     "Mathura",
-    "Taxila"
+    "Pratishthana"
    ],
-   "a": 1,
+   "a": 3,
    "w": "Modern Paithan."
   },
   {
    "q": "Gautamiputra Satakarni defeated the",
    "o": [
     "Shakas",
-    "Cholas",
+    "Indo-Greeks",
     "Kushanas",
-    "Indo-Greeks"
+    "Cholas"
    ],
    "a": 0,
    "w": "He was praised in the Nasik inscription."
@@ -125,23 +125,23 @@
   {
    "q": "The Kallanai dam was built by",
    "o": [
+    "Karikala",
     "Rajaraja",
-    "Senguttuvan",
     "Nedunjeliyan",
-    "Karikala"
+    "Senguttuvan"
    ],
-   "a": 3,
+   "a": 0,
    "w": "Sangam Chola king."
   },
   {
    "q": "Silappadikaram was composed by",
    "o": [
-    "Sattanar",
-    "Tolkappiyar",
     "Ilango Adigal",
+    "Tolkappiyar",
+    "Sattanar",
     "Avvaiyar"
    ],
-   "a": 2,
+   "a": 0,
    "w": "A Tamil epic."
   },
   {
@@ -158,12 +158,12 @@
   {
    "q": "Tamil was given classical status in",
    "o": [
-    "2004",
-    "1950",
+    "2013",
     "1991",
-    "2013"
+    "2004",
+    "1950"
    ],
-   "a": 0,
+   "a": 2,
    "w": "The first classical language."
   }
  ],

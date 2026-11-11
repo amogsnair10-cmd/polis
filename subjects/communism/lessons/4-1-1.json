@@ -54,10 +54,10 @@
   {
    "q": "Castro attacked the Moncada barracks in",
    "o": [
-    "1956",
+    "1961",
     "1959",
     "1953",
-    "1961"
+    "1956"
    ],
    "a": 2,
    "w": "26 July."
@@ -65,42 +65,42 @@
   {
    "q": "The yacht that carried Castro's force was",
    "o": [
+    "Che",
     "Granma",
-    "Maine",
     "Havana",
-    "Che"
+    "Maine"
    ],
-   "a": 0,
+   "a": 1,
    "w": "December 1956."
   },
   {
    "q": "Batista fled Cuba on",
    "o": [
-    "26 July 1953",
+    "1 January 1959",
     "17 April 1961",
     "28 Oct 1962",
-    "1 January 1959"
+    "26 July 1953"
    ],
-   "a": 3,
+   "a": 0,
    "w": "Revolution took Havana."
   },
   {
    "q": "The Bay of Pigs invasion was in",
    "o": [
-    "October 1962",
-    "1959",
     "1976",
-    "April 1961"
+    "1959",
+    "April 1961",
+    "October 1962"
    ],
-   "a": 3,
+   "a": 2,
    "w": "US-backed exiles."
   },
   {
    "q": "Cuba's one-party constitution dates from",
    "o": [
-    "1959",
     "1961",
     "1991",
+    "1959",
     "1976"
    ],
    "a": 3,
@@ -109,23 +109,23 @@
   {
    "q": "The Special Period began after",
    "o": [
-    "1962 crisis",
-    "1976 constitution",
+    "2006",
     "1991 Soviet collapse",
-    "2006"
+    "1976 constitution",
+    "1962 crisis"
    ],
-   "a": 2,
+   "a": 1,
    "w": "GDP fell by about a third."
   },
   {
    "q": "Who succeeded Fidel as leader?",
    "o": [
-    "Raul Castro",
-    "Che Guevara",
     "Miguel Díaz-Canel first",
-    "Blas Roca"
+    "Blas Roca",
+    "Raul Castro",
+    "Che Guevara"
    ],
-   "a": 0,
+   "a": 2,
    "w": "2006-08."
   },
   {
@@ -133,32 +133,32 @@
    "o": [
     "26 July 1953",
     "1 January 1959",
-    "11 July 2021",
-    "17 April 1961"
+    "17 April 1961",
+    "11 July 2021"
    ],
-   "a": 2,
+   "a": 3,
    "w": "Across Cuba."
   },
   {
    "q": "Castro handed over the NAM chair to Indira Gandhi in",
    "o": [
-    "1983",
+    "1991",
     "1961",
-    "1973",
-    "1991"
+    "1983",
+    "1973"
    ],
-   "a": 0,
+   "a": 2,
    "w": "New Delhi summit."
   },
   {
    "q": "UMAP camps held",
    "o": [
     "Soviet troops",
-    "Foreign tourists",
     "Batista officers only",
-    "Dissidents and others in the 1960s"
+    "Dissidents and others in the 1960s",
+    "Foreign tourists"
    ],
-   "a": 3,
+   "a": 2,
    "w": "1965-68."
   }
  ],

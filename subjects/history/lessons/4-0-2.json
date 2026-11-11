@@ -60,9 +60,9 @@
    "q": "The Tashkent Declaration (1966) followed the",
    "o": [
     "1965 India-Pakistan war",
-    "1962 war",
     "1971 war",
-    "1999 war"
+    "1999 war",
+    "1962 war"
    ],
    "a": 0,
    "w": "Shastri died at Tashkent."
@@ -81,21 +81,21 @@
   {
    "q": "The Shimla Agreement (1972) was between",
    "o": [
-    "Nehru and Liaquat Ali",
     "Shastri and Ayub Khan",
-    "Indira Gandhi and Zulfikar Ali Bhutto",
-    "Rajiv and Zia"
+    "Nehru and Liaquat Ali",
+    "Rajiv and Zia",
+    "Indira Gandhi and Zulfikar Ali Bhutto"
    ],
-   "a": 2,
+   "a": 3,
    "w": "After the Bangladesh war."
   },
   {
    "q": "India’s first nuclear test was in",
    "o": [
-    "1964",
+    "1998",
     "1974",
     "1984",
-    "1998"
+    "1964"
    ],
    "a": 1,
    "w": "At Pokhran."
@@ -103,23 +103,23 @@
   {
    "q": "The Emergency was declared on",
    "o": [
-    "25 June 1975",
-    "12 June 1975",
     "21 March 1977",
-    "26 January 1975"
+    "26 January 1975",
+    "12 June 1975",
+    "25 June 1975"
    ],
-   "a": 0,
+   "a": 3,
    "w": "Under Article 352."
   },
   {
    "q": "The Raj Narain case was decided by",
    "o": [
-    "Supreme Court",
-    "Bombay High Court",
     "Delhi High Court",
-    "Allahabad High Court"
+    "Allahabad High Court",
+    "Bombay High Court",
+    "Supreme Court"
    ],
-   "a": 3,
+   "a": 1,
    "w": "Justice Jagmohanlal Sinha."
   },
   {
@@ -136,34 +136,34 @@
   {
    "q": "The anti-defection law came by the",
    "o": [
-    "42nd Amendment",
-    "52nd Amendment (1985)",
+    "73rd Amendment",
     "44th Amendment",
-    "73rd Amendment"
+    "52nd Amendment (1985)",
+    "42nd Amendment"
    ],
-   "a": 1,
+   "a": 2,
    "w": "Added the Tenth Schedule."
   },
   {
    "q": "The Mandal Commission report was implemented in",
    "o": [
-    "1990 by V. P. Singh",
-    "1980 by Indira",
     "1985 by Rajiv",
-    "1991 by Rao"
+    "1991 by Rao",
+    "1990 by V. P. Singh",
+    "1980 by Indira"
    ],
-   "a": 0,
+   "a": 2,
    "w": "27% reservation for OBCs."
   },
   {
    "q": "Operation Flood is linked to",
    "o": [
-    "M. S. Swaminathan",
-    "Norman Borlaug",
     "Homi Bhabha",
-    "Verghese Kurien"
+    "Verghese Kurien",
+    "Norman Borlaug",
+    "M. S. Swaminathan"
    ],
-   "a": 3,
+   "a": 1,
    "w": "White Revolution."
   }
  ],

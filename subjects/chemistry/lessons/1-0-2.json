@@ -59,23 +59,23 @@
   {
    "q": "Activation energy is:",
    "o": [
-    "Minimum energy for reaction to occur",
-    "Energy released",
     "Energy of products",
-    "Energy of catalysts"
+    "Energy released",
+    "Energy of catalysts",
+    "Minimum energy for reaction to occur"
    ],
-   "a": 0,
+   "a": 3,
    "w": "The hill to climb."
   },
   {
    "q": "A catalyst:",
    "o": [
-    "Lowers activation energy and is not consumed",
     "Is used up",
     "Raises activation energy",
-    "Changes the products"
+    "Changes the products",
+    "Lowers activation energy and is not consumed"
    ],
-   "a": 0,
+   "a": 3,
    "w": "Provides an easier path."
   },
   {
@@ -92,21 +92,21 @@
   {
    "q": "Half-life 5 min, start 64 g. Mass after 20 min?",
    "o": [
+    "4 g",
     "8 g",
     "16 g",
-    "4 g",
     "32 g"
    ],
-   "a": 2,
+   "a": 0,
    "w": "4 half-lives: 64 → 4."
   },
   {
    "q": "Concentration falls 1.0 to 0.4 mol/L in 30 s. Rate?",
    "o": [
     "0.02 mol/L per s",
+    "0.6 mol/L per s",
     "0.2 mol/L per s",
-    "0.04 mol/L per s",
-    "0.6 mol/L per s"
+    "0.04 mol/L per s"
    ],
    "a": 0,
    "w": "0.6 / 30."
@@ -114,12 +114,12 @@
   {
    "q": "Catalyst in car converters:",
    "o": [
-    "Iron",
     "Platinum group metals",
-    "Copper sulphate",
-    "Sodium"
+    "Iron",
+    "Sodium",
+    "Copper sulphate"
    ],
-   "a": 1,
+   "a": 0,
    "w": "Pt, Pd, Rh."
   },
   {
@@ -147,23 +147,23 @@
   {
    "q": "Enzymes are:",
    "o": [
-    "Biological catalysts",
-    "Fuels",
     "Acids only",
-    "Products"
+    "Products",
+    "Fuels",
+    "Biological catalysts"
    ],
-   "a": 0,
+   "a": 3,
    "w": "E.g. amylase."
   },
   {
    "q": "India adopted BS-VI nationwide in:",
    "o": [
-    "April 2010",
     "April 2020",
+    "April 2010",
     "January 2000",
     "April 2015"
    ],
-   "a": 1,
+   "a": 0,
    "w": "Skipped BS-V."
   }
  ],

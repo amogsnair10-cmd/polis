@@ -59,31 +59,31 @@
   {
    "q": "Rockets work on:",
    "o": [
-    "Newton's third law",
-    "Pushing air",
     "Magnetism",
-    "Light pressure"
+    "Pushing air",
+    "Light pressure",
+    "Newton's third law"
    ],
-   "a": 0,
+   "a": 3,
    "w": "Action and reaction."
   },
   {
    "q": "Low Earth orbit speed is about:",
    "o": [
-    "7.8 km/s",
+    "300 km/s",
     "0.78 km/s",
     "78 km/s",
-    "300 km/s"
+    "7.8 km/s"
    ],
-   "a": 0,
+   "a": 3,
    "w": "Sideways speed."
   },
   {
    "q": "Escape velocity from Earth is about:",
    "o": [
     "11.2 km/s",
-    "7.8 km/s",
     "3 km/s",
+    "7.8 km/s",
     "30 km/s"
    ],
    "a": 0,
@@ -92,43 +92,43 @@
   {
    "q": "Geostationary orbit lies at about:",
    "o": [
-    "35,786 km",
-    "400 km",
     "3,578 km",
-    "384,000 km"
+    "400 km",
+    "384,000 km",
+    "35,786 km"
    ],
-   "a": 0,
+   "a": 3,
    "w": "Over the equator."
   },
   {
    "q": "Astronauts feel weightless because:",
    "o": [
-    "They are in free fall",
     "There is no gravity",
     "Air is thin",
+    "They are in free fall",
     "They are far away"
    ],
-   "a": 0,
+   "a": 2,
    "w": "Continuous falling."
   },
   {
    "q": "Staging helps because it:",
    "o": [
+    "Cools the engine",
     "Discards empty mass",
     "Adds fuel",
-    "Reduces thrust",
-    "Cools the engine"
+    "Reduces thrust"
    ],
-   "a": 0,
+   "a": 1,
    "w": "Less mass to accelerate."
   },
   {
    "q": "A Hohmann transfer is:",
    "o": [
     "A fuel-efficient elliptical path",
-    "A straight line",
     "A landing",
-    "A gravity wave"
+    "A gravity wave",
+    "A straight line"
    ],
    "a": 0,
    "w": "Between two circular orbits."
@@ -137,8 +137,8 @@
    "q": "India's first satellite launch vehicle SLV-3 flew in:",
    "o": [
     "1980",
-    "1963",
     "1993",
+    "1963",
     "2008"
    ],
    "a": 0,
@@ -147,23 +147,23 @@
   {
    "q": "Who wrote the rocket equation in 1903?",
    "o": [
-    "Tsiolkovsky",
     "Goddard",
     "Von Braun",
-    "Sarabhai"
+    "Sarabhai",
+    "Tsiolkovsky"
    ],
-   "a": 0,
+   "a": 3,
    "w": "Konstantin Tsiolkovsky."
   },
   {
    "q": "The first Indian sounding rocket launch was from:",
    "o": [
-    "Thumba",
-    "Sriharikota",
+    "Hanle",
     "Pokhran",
-    "Hanle"
+    "Sriharikota",
+    "Thumba"
    ],
-   "a": 0,
+   "a": 3,
    "w": "21 November 1963."
   }
  ],

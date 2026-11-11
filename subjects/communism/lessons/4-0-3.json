@@ -54,111 +54,111 @@
   {
    "q": "Reform and opening began at the Third Plenum in",
    "o": [
-    "1949",
     "1966",
-    "1992",
-    "December 1978"
+    "1949",
+    "December 1978",
+    "1992"
    ],
-   "a": 3,
+   "a": 2,
    "w": "Eleventh Central Committee."
   },
   {
    "q": "Deng's Southern Tour was in",
    "o": [
     "1978",
+    "2001",
     "1989",
-    "1992",
-    "2001"
+    "1992"
    ],
-   "a": 2,
+   "a": 3,
    "w": "Revived reform after Tiananmen."
   },
   {
    "q": "China adopted the \"socialist market economy\" at the",
    "o": [
-    "8th Party Congress (1956)",
-    "11th Congress (1977)",
+    "20th Congress (2022)",
     "14th Party Congress (1992)",
-    "20th Congress (2022)"
+    "11th Congress (1977)",
+    "8th Party Congress (1956)"
    ],
-   "a": 2,
+   "a": 1,
    "w": "Formal policy."
   },
   {
    "q": "The first Special Economic Zone was in",
    "o": [
-    "Shanghai",
     "Beijing",
     "Shenzhen",
+    "Shanghai",
     "Wuhan"
    ],
-   "a": 2,
+   "a": 1,
    "w": "Opposite Hong Kong."
   },
   {
    "q": "The Tiananmen crackdown was on",
    "o": [
     "May 1968",
-    "3-4 June 1989",
     "9 September 1976",
-    "1 October 1949"
+    "1 October 1949",
+    "3-4 June 1989"
    ],
-   "a": 1,
+   "a": 3,
    "w": "Beijing."
   },
   {
    "q": "The Four Cardinal Principles uphold",
    "o": [
-    "Free press",
-    "Multi-party elections",
+    "Private land ownership",
     "Party leadership",
-    "Private land ownership"
+    "Free press",
+    "Multi-party elections"
    ],
-   "a": 2,
+   "a": 1,
    "w": "Among others."
   },
   {
    "q": "Who wrote Adam Smith in Beijing (2007)?",
    "o": [
+    "Perry Anderson",
     "Giovanni Arrighi",
-    "David Harvey",
     "Frank Dikötter",
-    "Perry Anderson"
+    "David Harvey"
    ],
-   "a": 0,
+   "a": 1,
    "w": "A positive interpretation."
   },
   {
    "q": "The household responsibility system replaced",
    "o": [
-    "Special zones",
-    "State banks",
     "Communes",
-    "Red Guards"
+    "Special zones",
+    "Red Guards",
+    "State banks"
    ],
-   "a": 2,
+   "a": 0,
    "w": "Farmers farm family plots."
   },
   {
    "q": "Term limits for China's president were removed in",
    "o": [
     "1992",
-    "2018",
+    "2012",
     "1978",
-    "2012"
+    "2018"
    ],
-   "a": 1,
+   "a": 3,
    "w": "Constitutional amendment."
   },
   {
    "q": "The 2020 Galwan clash killed",
    "o": [
     "200 Indian soldiers",
+    "20 Indian soldiers",
     "2",
-    "No one",
-    "20 Indian soldiers"
+    "No one"
    ],
-   "a": 3,
+   "a": 1,
    "w": "India reported 20 deaths."
   }
  ],

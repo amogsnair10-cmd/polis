@@ -59,8 +59,8 @@
   {
    "q": "The continental shelf is",
    "o": [
-    "The deepest part of the ocean",
     "A mid-ocean ridge",
+    "The deepest part of the ocean",
     "The shallow gently sloping margin of a continent",
     "A volcanic seamount"
    ],
@@ -70,65 +70,65 @@
   {
    "q": "Challenger Deep lies in the",
    "o": [
-    "Mariana Trench",
-    "Java Trench",
     "Puerto Rico Trench",
+    "Java Trench",
+    "Mariana Trench",
     "Tonga Trench"
    ],
-   "a": 0,
+   "a": 2,
    "w": "It is the deepest known point, about 11 km."
   },
   {
    "q": "Flat-topped seamounts are called",
    "o": [
-    "Atolls",
-    "Fjords",
+    "Guyots",
     "Horsts",
-    "Guyots"
+    "Atolls",
+    "Fjords"
    ],
-   "a": 3,
+   "a": 0,
    "w": "They were eroded by waves before sinking."
   },
   {
    "q": "Average ocean salinity is about",
    "o": [
-    "3.5 ppt",
-    "35 ppt",
+    "350 ppt",
     "70 ppt",
-    "350 ppt"
+    "35 ppt",
+    "3.5 ppt"
    ],
-   "a": 1,
+   "a": 2,
    "w": "About 35 grams per kilogram of seawater."
   },
   {
    "q": "Salinity is highest in the tropics because of",
    "o": [
-    "Heavy rainfall",
-    "Strong evaporation",
+    "Melting ice",
     "River flow",
-    "Melting ice"
+    "Heavy rainfall",
+    "Strong evaporation"
    ],
-   "a": 1,
+   "a": 3,
    "w": "Dry subtropical air removes water but not salt."
   },
   {
    "q": "Which is less saline?",
    "o": [
-    "Arabian Sea",
-    "Red Sea",
     "Mediterranean",
-    "Bay of Bengal"
+    "Red Sea",
+    "Bay of Bengal",
+    "Arabian Sea"
    ],
-   "a": 3,
+   "a": 2,
    "w": "Big rivers add fresh water."
   },
   {
    "q": "The Chagos-Laccadive ridge supports",
    "o": [
     "Lakshadweep",
-    "Andaman Islands",
     "Nicobar Islands",
-    "Sri Lanka"
+    "Sri Lanka",
+    "Andaman Islands"
    ],
    "a": 0,
    "w": "Lakshadweep coral atolls sit on it."
@@ -136,34 +136,34 @@
   {
    "q": "The thermocline is a layer where",
    "o": [
-    "Salinity peaks",
-    "Currents reverse",
     "Temperature falls rapidly with depth",
-    "Pressure drops"
+    "Pressure drops",
+    "Salinity peaks",
+    "Currents reverse"
    ],
-   "a": 2,
+   "a": 0,
    "w": "It separates warm surface water from deep cold water."
   },
   {
    "q": "Polymetallic nodules contain",
    "o": [
     "Oil and gas",
-    "Gold and silver",
+    "Nickel, cobalt and manganese",
     "Uranium only",
-    "Nickel, cobalt and manganese"
+    "Gold and silver"
    ],
-   "a": 3,
+   "a": 1,
    "w": "They lie on abyssal plains."
   },
   {
    "q": "India's Deep Ocean Mission was launched in",
    "o": [
+    "2024",
     "2021",
     "2015",
-    "2018",
-    "2024"
+    "2018"
    ],
-   "a": 0,
+   "a": 1,
    "w": "It was approved in 2021 with a submersible programme."
   }
  ],

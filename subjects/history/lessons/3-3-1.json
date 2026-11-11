@@ -59,10 +59,10 @@
   {
    "q": "Gulamgiri (1873) was written by",
    "o": [
-    "B. R. Ambedkar",
+    "Sree Narayana Guru",
     "Jotirao Phule",
     "Periyar",
-    "Sree Narayana Guru"
+    "B. R. Ambedkar"
    ],
    "a": 1,
    "w": "It attacked Brahmin dominance."
@@ -70,34 +70,34 @@
   {
    "q": "The Poona Pact was signed in",
    "o": [
-    "1932",
     "1930",
-    "1935",
-    "1920"
+    "1920",
+    "1932",
+    "1935"
    ],
-   "a": 0,
+   "a": 2,
    "w": "Between Ambedkar and Gandhi, after the Communal Award."
   },
   {
    "q": "Birsa Munda led the",
    "o": [
-    "Santhal Hul",
-    "Kol revolt",
+    "Ulgulan in Chotanagpur",
     "Rampa rebellion",
-    "Ulgulan in Chotanagpur"
+    "Kol revolt",
+    "Santhal Hul"
    ],
-   "a": 3,
+   "a": 0,
    "w": "Munda rising of 1899 to 1900."
   },
   {
    "q": "Sido and Kanhu are associated with",
    "o": [
-    "Munda revolt",
-    "Bhil revolt",
     "Santhal rebellion",
-    "Moplah rebellion"
+    "Moplah rebellion",
+    "Munda revolt",
+    "Bhil revolt"
    ],
-   "a": 2,
+   "a": 0,
    "w": "The Santhal Hul (1855 to 56)."
   },
   {
@@ -105,8 +105,8 @@
    "o": [
     "Bankim Chandra",
     "Dinabandhu Mitra",
-    "Rabindranath Tagore",
-    "Michael Madhusudan Dutt"
+    "Michael Madhusudan Dutt",
+    "Rabindranath Tagore"
    ],
    "a": 1,
    "w": "It was translated into English by Dutt."
@@ -114,56 +114,56 @@
   {
    "q": "Gandhi’s first satyagraha in India was at",
    "o": [
-    "Champaran (1917)",
     "Kheda",
     "Bardoli",
+    "Champaran (1917)",
     "Ahmedabad"
    ],
-   "a": 0,
+   "a": 2,
    "w": "Against the tinkathia system of indigo."
   },
   {
    "q": "Bardoli Satyagraha (1928) was led by",
    "o": [
-    "Gandhi",
-    "Nehru",
+    "Vallabhbhai Patel",
     "Rajendra Prasad",
-    "Vallabhbhai Patel"
+    "Gandhi",
+    "Nehru"
    ],
-   "a": 3,
+   "a": 0,
    "w": "Against a revenue hike in Gujarat."
   },
   {
    "q": "SNDP was set up in 1903 under",
    "o": [
-    "Ayyankali",
-    "Periyar",
     "Sree Narayana Guru",
-    "Vaikunda Swamy"
+    "Vaikunda Swamy",
+    "Periyar",
+    "Ayyankali"
    ],
-   "a": 2,
+   "a": 0,
    "w": "Of Kerala’s Ezhava community."
   },
   {
    "q": "The All India Kisan Sabha was founded in 1936 with president",
    "o": [
-    "N. G. Ranga",
-    "Swami Sahajanand Saraswati",
+    "Sardar Patel",
     "Baba Ramchandra",
-    "Sardar Patel"
+    "N. G. Ranga",
+    "Swami Sahajanand Saraswati"
    ],
-   "a": 1,
+   "a": 3,
    "w": "At Lucknow."
   },
   {
    "q": "Mahad Satyagraha (1927) was about",
    "o": [
-    "Right to draw water from a public tank",
-    "Temple entry",
+    "Land revenue",
     "Salt tax",
-    "Land revenue"
+    "Temple entry",
+    "Right to draw water from a public tank"
    ],
-   "a": 0,
+   "a": 3,
    "w": "Led by Ambedkar at Mahad, Maharashtra."
   }
  ],

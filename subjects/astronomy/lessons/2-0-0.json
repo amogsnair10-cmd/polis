@@ -59,10 +59,10 @@
   {
    "q": "One parsec is about:",
    "o": [
-    "1 light-year",
+    "100 light-years",
     "3.26 light-years",
-    "10 light-years",
-    "100 light-years"
+    "1 light-year",
+    "10 light-years"
    ],
    "a": 1,
    "w": "3.26 ly."
@@ -71,31 +71,31 @@
    "q": "If a star moves twice as far away its apparent brightness becomes:",
    "o": [
     "Half",
-    "One quarter",
+    "Unchanged",
     "Double",
-    "Unchanged"
+    "One quarter"
    ],
-   "a": 1,
+   "a": 3,
    "w": "Inverse-square law."
   },
   {
    "q": "Who linked Cepheid period to luminosity in 1912?",
    "o": [
+    "Payne",
     "Hubble",
-    "Leavitt",
     "Bessel",
-    "Payne"
+    "Leavitt"
    ],
-   "a": 1,
+   "a": 3,
    "w": "Henrietta Leavitt."
   },
   {
    "q": "On the HR diagram, most stars are on the:",
    "o": [
     "Main sequence",
-    "White dwarf corner",
     "Giant branch",
-    "Edge"
+    "Edge",
+    "White dwarf corner"
    ],
    "a": 0,
    "w": "About 90 percent."
@@ -103,21 +103,21 @@
   {
    "q": "A star with magnitude 1 vs magnitude 6 is:",
    "o": [
-    "100 times brighter",
-    "6 times brighter",
+    "100 times fainter",
     "Equal",
-    "100 times fainter"
+    "100 times brighter",
+    "6 times brighter"
    ],
-   "a": 0,
+   "a": 2,
    "w": "5 magnitudes equals 100 times."
   },
   {
    "q": "Massive main-sequence stars have lifetimes that are:",
    "o": [
-    "Longer than the Sun's",
+    "Infinite",
     "Much shorter",
     "The same",
-    "Infinite"
+    "Longer than the Sun's"
    ],
    "a": 1,
    "w": "They burn fuel far faster."
@@ -125,45 +125,45 @@
   {
    "q": "Parallax is the shift of a star's apparent position caused by:",
    "o": [
-    "Star spinning",
     "Earth's orbital motion",
-    "Light bending",
-    "Solar wind"
+    "Solar wind",
+    "Star spinning",
+    "Light bending"
    ],
-   "a": 1,
+   "a": 0,
    "w": "Different viewpoints through the year."
   },
   {
    "q": "White dwarfs appear low on the HR diagram because they are:",
    "o": [
-    "Cool",
-    "Small",
     "Heavy",
-    "Young"
+    "Young",
+    "Small",
+    "Cool"
    ],
-   "a": 1,
+   "a": 2,
    "w": "Hot but tiny, so low luminosity."
   },
   {
    "q": "The Bappu-Wilson effect uses which feature?",
    "o": [
-    "Calcium emission line width",
-    "Radio flux",
+    "Polarisation",
     "Star shape",
-    "Polarisation"
+    "Calcium emission line width",
+    "Radio flux"
    ],
-   "a": 0,
+   "a": 2,
    "w": "A luminosity indicator for cool stars."
   },
   {
    "q": "Which satellite measured parallax for nearly two billion stars?",
    "o": [
     "Hubble",
-    "Gaia",
     "Kepler",
+    "Gaia",
     "Chandra"
    ],
-   "a": 1,
+   "a": 2,
    "w": "ESA's Gaia."
   }
  ],

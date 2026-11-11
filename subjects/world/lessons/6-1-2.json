@@ -49,20 +49,20 @@
   {
    "q": "The PRC was founded in...",
    "o": [
+    "1949",
     "1912",
     "1958",
-    "1949",
     "1976"
    ],
-   "a": 2,
+   "a": 0,
    "w": "1 October."
   },
   {
    "q": "Mao announced it at...",
    "o": [
     "Tiananmen",
-    "Shanghai",
     "Nanjing",
+    "Shanghai",
     "Canton"
    ],
    "a": 0,
@@ -71,56 +71,56 @@
   {
    "q": "The Great Leap Forward began in...",
    "o": [
-    "1949",
-    "1966",
+    "1958",
     "1978",
-    "1958"
+    "1966",
+    "1949"
    ],
-   "a": 3,
+   "a": 0,
    "w": "Steel and communes."
   },
   {
    "q": "The Cultural Revolution's youth were called...",
    "o": [
-    "Blue Shirts",
     "Red Guards",
-    "Boxers",
-    "Taipings"
+    "Blue Shirts",
+    "Taipings",
+    "Boxers"
    ],
-   "a": 1,
+   "a": 0,
    "w": "1966."
   },
   {
    "q": "Mao died in...",
    "o": [
-    "1976",
-    "1949",
     "1966",
+    "1949",
+    "1976",
     "1989"
    ],
-   "a": 0,
+   "a": 2,
    "w": "9 September."
   },
   {
    "q": "Who began reform in 1978?",
    "o": [
-    "Zhou Enlai",
     "Chiang Kai-shek",
+    "Deng Xiaoping",
     "Liu Shaoqi",
-    "Deng Xiaoping"
+    "Zhou Enlai"
    ],
-   "a": 3,
+   "a": 1,
    "w": "Reform and opening."
   },
   {
    "q": "The Dalai Lama fled to India in...",
    "o": [
-    "1950",
-    "1959",
     "1962",
-    "1947"
+    "1947",
+    "1959",
+    "1950"
    ],
-   "a": 1,
+   "a": 2,
    "w": "After a Tibetan uprising."
   },
   {
@@ -128,18 +128,18 @@
    "o": [
     "1947",
     "1962",
-    "1954",
-    "1971"
+    "1971",
+    "1954"
    ],
-   "a": 2,
+   "a": 3,
    "w": "Nehru and Zhou."
   },
   {
    "q": "The India-China war was in...",
    "o": [
     "1954",
-    "1971",
     "1999",
+    "1971",
     "1962"
    ],
    "a": 3,
@@ -148,12 +148,12 @@
   {
    "q": "Famine deaths estimates are...",
    "o": [
-    "Debated, around 15-45 million",
-    "Exactly known",
     "Under 1 million",
-    "Under 100,000"
+    "Under 100,000",
+    "Debated, around 15-45 million",
+    "Exactly known"
    ],
-   "a": 0,
+   "a": 2,
    "w": "Methods differ."
   }
  ],

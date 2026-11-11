@@ -59,32 +59,32 @@
   {
    "q": "The Partition of Bengal was announced by",
    "o": [
-    "Lord Minto",
     "Lord Hardinge",
-    "Lord Curzon",
-    "Lord Ripon"
+    "Lord Minto",
+    "Lord Ripon",
+    "Lord Curzon"
    ],
-   "a": 2,
+   "a": 3,
    "w": "He announced it in 1905."
   },
   {
    "q": "The partition was annulled in",
    "o": [
+    "1919",
     "1905",
-    "1911",
     "1909",
-    "1919"
+    "1911"
    ],
-   "a": 1,
+   "a": 3,
    "w": "At the Delhi Durbar of George V."
   },
   {
    "q": "The Surat Split of the Congress was in",
    "o": [
     "1907",
+    "1920",
     "1905",
-    "1916",
-    "1920"
+    "1916"
    ],
    "a": 0,
    "w": "Moderates and Extremists divided."
@@ -92,23 +92,23 @@
   {
    "q": "Which of these is not in Lal-Bal-Pal?",
    "o": [
-    "Lala Lajpat Rai",
     "Bal Gangadhar Tilak",
+    "Gopal Krishna Gokhale",
     "Bipin Chandra Pal",
-    "Gopal Krishna Gokhale"
+    "Lala Lajpat Rai"
    ],
-   "a": 3,
+   "a": 1,
    "w": "Gokhale was a Moderate."
   },
   {
    "q": "The Ghadar Party was founded in",
    "o": [
-    "London in 1905",
-    "Lahore in 1907",
     "San Francisco in 1913",
-    "Berlin in 1915"
+    "Lahore in 1907",
+    "Berlin in 1915",
+    "London in 1905"
    ],
-   "a": 2,
+   "a": 0,
    "w": "Lala Har Dayal was an organiser."
   },
   {
@@ -125,43 +125,43 @@
   {
    "q": "The Kakori conspiracy took place in",
    "o": [
-    "1925",
     "1928",
-    "1930",
-    "1931"
+    "1931",
+    "1925",
+    "1930"
    ],
-   "a": 0,
+   "a": 2,
    "w": "HRA members looted a government train."
   },
   {
    "q": "Chittagong Armoury Raid was led by",
    "o": [
+    "Surya Sen",
     "Chandrashekhar Azad",
     "Bhagat Singh",
-    "Jatin Das",
-    "Surya Sen"
+    "Jatin Das"
    ],
-   "a": 3,
+   "a": 0,
    "w": "It happened in April 1930."
   },
   {
    "q": "Bhagat Singh was hanged in",
    "o": [
-    "1929",
-    "1928",
     "1931",
-    "1930"
+    "1929",
+    "1930",
+    "1928"
    ],
-   "a": 2,
+   "a": 0,
    "w": "On 23 March 1931 with Rajguru and Sukhdev."
   },
   {
    "q": "Who headed the Bengal National College in 1906?",
    "o": [
-    "Tagore",
+    "Pal",
     "Aurobindo Ghose",
     "Tilak",
-    "Pal"
+    "Tagore"
    ],
    "a": 1,
    "w": "He was its first principal."

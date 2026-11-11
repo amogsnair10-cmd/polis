@@ -59,43 +59,43 @@
   {
    "q": "The ITCZ is a zone where",
    "o": [
+    "Doldrums end",
     "Trade winds converge",
-    "Westerlies diverge",
     "Polar winds meet jets",
-    "Doldrums end"
+    "Westerlies diverge"
    ],
-   "a": 0,
+   "a": 1,
    "w": "Air rises and rains heavily there."
   },
   {
    "q": "Winds in the northern hemisphere deflect to the",
    "o": [
-    "Left",
-    "North",
     "South",
-    "Right"
+    "Right",
+    "North",
+    "Left"
    ],
-   "a": 3,
+   "a": 1,
    "w": "Ferrel's law; opposite in the south."
   },
   {
    "q": "Roaring Forties are",
    "o": [
-    "Trade winds",
     "Strong westerlies",
-    "Polar easterlies",
-    "Monsoon winds"
+    "Monsoon winds",
+    "Trade winds",
+    "Polar easterlies"
    ],
-   "a": 1,
+   "a": 0,
    "w": "Westerlies blowing over southern oceans near 40 S."
   },
   {
    "q": "Western disturbances are steered by",
    "o": [
-    "Tropical easterly jet",
+    "Walker circulation",
     "Subtropical westerly jet",
-    "Polar front jet",
-    "Walker circulation"
+    "Tropical easterly jet",
+    "Polar front jet"
    ],
    "a": 1,
    "w": "In winter the jet carries Mediterranean systems to India."
@@ -103,65 +103,65 @@
   {
    "q": "Chinook is a",
    "o": [
-    "Cold wind from the Alps",
-    "Dust wind of the Sahara",
+    "Warm dry downslope wind in the Rockies",
     "Cold wind of Siberia",
-    "Warm dry downslope wind in the Rockies"
+    "Dust wind of the Sahara",
+    "Cold wind from the Alps"
    ],
-   "a": 3,
+   "a": 0,
    "w": "Chinook means snow-eater."
   },
   {
    "q": "Doldrums are",
    "o": [
+    "Cold polar belts",
     "Calm zones near the equator",
-    "Windy zones at 60 degrees",
     "Dry belts at 30 degrees",
-    "Cold polar belts"
+    "Windy zones at 60 degrees"
    ],
-   "a": 0,
+   "a": 1,
    "w": "Light winds in the equatorial low."
   },
   {
    "q": "The Hadley cell lies between",
    "o": [
-    "30 and 60 degrees",
+    "0 and 90 degrees",
     "60 and 90 degrees",
-    "0 and 30 degrees",
-    "0 and 90 degrees"
+    "30 and 60 degrees",
+    "0 and 30 degrees"
    ],
-   "a": 2,
+   "a": 3,
    "w": "It includes the trade winds."
   },
   {
    "q": "Tropical easterly jet is associated with",
    "o": [
-    "Winter rain in Punjab",
-    "Cold waves in Delhi",
     "Nor'westers",
-    "Burst of the monsoon"
+    "Burst of the monsoon",
+    "Winter rain in Punjab",
+    "Cold waves in Delhi"
    ],
-   "a": 3,
+   "a": 1,
    "w": "It strengthens in summer over peninsular India."
   },
   {
    "q": "Kalbaisakhi is a",
    "o": [
-    "Pre-monsoon thunderstorm in Bengal",
     "Winter cold wave",
     "Hot wind of Punjab",
-    "Monsoon withdrawal rain"
+    "Monsoon withdrawal rain",
+    "Pre-monsoon thunderstorm in Bengal"
    ],
-   "a": 0,
+   "a": 3,
    "w": "It is also called Nor'wester."
   },
   {
    "q": "Subtropical high pressure belts are mainly",
    "o": [
-    "Thermal in origin",
+    "Cyclonic",
     "Orographic",
     "Dynamic in origin",
-    "Cyclonic"
+    "Thermal in origin"
    ],
    "a": 2,
    "w": "They arise from sinking air, not from cold surface."

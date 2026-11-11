@@ -54,10 +54,10 @@
   {
    "q": "Columbus landed in...",
    "o": [
-    "Mexico in 1519",
+    "India in 1498",
     "Peru in 1532",
     "The Bahamas in 1492",
-    "India in 1498"
+    "Mexico in 1519"
    ],
    "a": 2,
    "w": "12 October."
@@ -65,67 +65,67 @@
   {
    "q": "He sailed for...",
    "o": [
+    "France",
     "Spain",
-    "Portugal",
     "England",
-    "France"
+    "Portugal"
    ],
-   "a": 0,
+   "a": 1,
    "w": "Ferdinand and Isabella."
   },
   {
    "q": "The Treaty of Tordesillas was in...",
    "o": [
-    "1492",
+    "1494",
     "1519",
     "1600",
-    "1494"
+    "1492"
    ],
-   "a": 3,
+   "a": 0,
    "w": "Spain and Portugal."
   },
   {
    "q": "'America' appeared on a map in...",
    "o": [
-    "1492",
-    "1507",
+    "1600",
     "1450",
-    "1600"
+    "1507",
+    "1492"
    ],
-   "a": 1,
+   "a": 2,
    "w": "After Amerigo Vespucci."
   },
   {
    "q": "The 'Columbian Exchange' was named by...",
    "o": [
-    "Alfred Crosby",
-    "Columbus",
     "Vespucci",
-    "Marx"
+    "Marx",
+    "Columbus",
+    "Alfred Crosby"
    ],
-   "a": 0,
+   "a": 3,
    "w": "In 1972."
   },
   {
    "q": "Which came from the Americas?",
    "o": [
-    "Wheat",
-    "Horses",
     "Rice",
-    "Potatoes"
+    "Potatoes",
+    "Horses",
+    "Wheat"
    ],
-   "a": 3,
+   "a": 1,
    "w": "Also maize, tomatoes."
   },
   {
    "q": "Which crossed to the Americas?",
    "o": [
-    "Chilli",
-    "Horses",
     "Cocoa",
-    "Tobacco"
+    "Tobacco",
+    "Horses",
+    "Chilli"
    ],
-   "a": 1,
+   "a": 2,
    "w": "With the Spanish."
   },
   {
@@ -133,32 +133,32 @@
    "o": [
     "Cold weather",
     "Famine alone",
-    "Disease, including smallpox",
-    "Earthquakes"
+    "Earthquakes",
+    "Disease, including smallpox"
    ],
-   "a": 2,
+   "a": 3,
    "w": "Germs plus violence and forced labour."
   },
   {
    "q": "Da Gama reached India in...",
    "o": [
-    "1492",
-    "1510",
     "1526",
-    "1498"
+    "1492",
+    "1498",
+    "1510"
    ],
-   "a": 3,
+   "a": 2,
    "w": "At Calicut."
   },
   {
    "q": "Why did Columbus say 'Indians'?",
    "o": [
-    "He thought he reached the Indies",
     "A local word",
-    "A Hindu legend",
-    "A Greek name"
+    "A Greek name",
+    "He thought he reached the Indies",
+    "A Hindu legend"
    ],
-   "a": 0,
+   "a": 2,
    "w": "He thought it was Asia."
   }
  ],

@@ -54,31 +54,31 @@
   {
    "q": "The Stamp Act was in...",
    "o": [
-    "1773",
-    "1776",
     "1765",
+    "1776",
+    "1773",
     "1783"
    ],
-   "a": 2,
+   "a": 0,
    "w": "A tax on printed items."
   },
   {
    "q": "The Boston Tea Party was against...",
    "o": [
-    "The East India Company's monopoly",
-    "A tea price rise",
     "A French tax",
-    "A ban on coffee"
+    "A ban on coffee",
+    "The East India Company's monopoly",
+    "A tea price rise"
    ],
-   "a": 0,
+   "a": 2,
    "w": "And Parliament's right to tax."
   },
   {
    "q": "It took place in...",
    "o": [
-    "1776",
-    "1757",
     "1789",
+    "1757",
+    "1776",
     "1773"
    ],
    "a": 3,
@@ -87,45 +87,45 @@
   {
    "q": "Independence was declared on...",
    "o": [
-    "14 July 1789",
-    "4 July 1776",
     "1 Jan 1804",
-    "15 Aug 1947"
+    "14 July 1789",
+    "15 Aug 1947",
+    "4 July 1776"
    ],
-   "a": 1,
+   "a": 3,
    "w": "Adopted that day."
   },
   {
    "q": "Who drafted the Declaration?",
    "o": [
-    "Thomas Jefferson",
     "George Washington",
     "Ben Franklin",
-    "John Adams"
+    "John Adams",
+    "Thomas Jefferson"
    ],
-   "a": 0,
+   "a": 3,
    "w": "Edited by Congress."
   },
   {
    "q": "The turning point battle was...",
    "o": [
-    "Bunker Hill",
-    "Gettysburg",
+    "Saratoga",
     "Plassey",
-    "Saratoga"
+    "Gettysburg",
+    "Bunker Hill"
    ],
-   "a": 3,
+   "a": 0,
    "w": "1777; it brought in France."
   },
   {
    "q": "Cornwallis surrendered at...",
    "o": [
-    "Boston",
-    "Yorktown",
+    "Seringapatam",
     "Waterloo",
-    "Seringapatam"
+    "Yorktown",
+    "Boston"
    ],
-   "a": 1,
+   "a": 2,
    "w": "1781."
   },
   {
@@ -133,18 +133,18 @@
    "o": [
     "1763",
     "1776",
-    "1783",
-    "1815"
+    "1815",
+    "1783"
    ],
-   "a": 2,
+   "a": 3,
    "w": "Recognising independence."
   },
   {
    "q": "The Constitution was written in...",
    "o": [
     "1776",
-    "1791",
     "1865",
+    "1791",
     "1787"
    ],
    "a": 3,
@@ -153,12 +153,12 @@
   {
    "q": "Cornwallis later served in...",
    "o": [
-    "India",
     "Canada",
-    "Haiti",
-    "Egypt"
+    "Egypt",
+    "India",
+    "Haiti"
    ],
-   "a": 0,
+   "a": 2,
    "w": "Governor-General from 1786."
   }
  ],

@@ -54,56 +54,56 @@
   {
    "q": "The New Class (1957) was written by",
    "o": [
-    "Solzhenitsyn",
-    "Milovan Djilas",
     "Havel",
-    "Kołakowski"
+    "Solzhenitsyn",
+    "Kołakowski",
+    "Milovan Djilas"
    ],
-   "a": 1,
+   "a": 3,
    "w": "Yugoslavia."
   },
   {
    "q": "The Gulag Archipelago was first published",
    "o": [
     "In Moscow, 1962",
-    "In Prague, 1978",
     "In London, 1989",
-    "In Paris, 1973-75"
+    "In Paris, 1973-75",
+    "In Prague, 1978"
    ],
-   "a": 3,
+   "a": 2,
    "w": "Abroad."
   },
   {
    "q": "Solzhenitsyn was expelled from the USSR in",
    "o": [
-    "1962",
-    "1989",
     "1953",
-    "1974"
+    "1962",
+    "1974",
+    "1989"
    ],
-   "a": 3,
+   "a": 2,
    "w": "February 1974."
   },
   {
    "q": "Havel's essay is titled",
    "o": [
-    "The Power of the Powerless",
-    "Live Not by Lies",
     "A New Evolutionism",
-    "The Open Society"
+    "The Open Society",
+    "The Power of the Powerless",
+    "Live Not by Lies"
    ],
-   "a": 0,
+   "a": 2,
    "w": "1978."
   },
   {
    "q": "Charter 77 was a",
    "o": [
-    "Polish union",
-    "Soviet law",
     "Czechoslovak human-rights petition",
-    "Hungarian party"
+    "Hungarian party",
+    "Soviet law",
+    "Polish union"
    ],
-   "a": 2,
+   "a": 0,
    "w": "1977."
   },
   {
@@ -120,20 +120,20 @@
   {
    "q": "Havel became president in",
    "o": [
-    "1977",
     "December 1989",
     "1979",
+    "1977",
     "1968"
    ],
-   "a": 1,
+   "a": 0,
    "w": "After the Velvet Revolution."
   },
   {
    "q": "Solidarity was founded in",
    "o": [
+    "1989",
     "1956",
     "1968",
-    "1989",
     "1980"
    ],
    "a": 3,
@@ -142,23 +142,23 @@
   {
    "q": "The greengrocer's sign says",
    "o": [
-    "Long live the Party",
-    "Peace and Bread",
     "Workers of the world, unite!",
-    "Freedom now"
+    "Freedom now",
+    "Peace and Bread",
+    "Long live the Party"
    ],
-   "a": 2,
+   "a": 0,
    "w": "Havel's example."
   },
   {
    "q": "During the Emergency the CPI",
    "o": [
-    "Opposed her",
+    "Supported Indira Gandhi",
     "Boycotted it",
     "Banned itself",
-    "Supported Indira Gandhi"
+    "Opposed her"
    ],
-   "a": 3,
+   "a": 0,
    "w": "The CPI(M) opposed."
   }
  ],

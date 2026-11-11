@@ -1,0 +1,178 @@
+{
+ "id": "2-0-3",
+ "title": "Schrödinger's Cat and Decoherence",
+ "emoji": "🐈",
+ "cards": [
+  {
+   "tag": "Why this matters",
+   "h": "The most famous animal in physics",
+   "b": "<p>Erwin Schrödinger proposed his cat in 1935 to show how absurd it seems if quantum rules are stretched to everyday things. Today the question it raises, why we do not see everyday superpositions, has a partial answer called <b>decoherence</b>, and it is the biggest obstacle for building quantum computers.</p>"
+  },
+  {
+   "tag": "The thought experiment",
+   "h": "The cat in the box",
+   "b": "<p>A cat sits in a sealed box with a vial of poison that is released if one radioactive atom decays. The atom is in a superposition of \"decayed\" and \"not decayed\" until observed. If quantum rules apply all the way up, the cat is a superposition of alive and dead.</p><p>Schrödinger did not think this was true. He meant it as a challenge: the theory, taken literally, seems silly at large scales. It was a thought experiment; no one has put a cat in a box this way.</p>"
+  },
+  {
+   "tag": "The puzzle",
+   "h": "Where does quantum end?",
+   "b": "<p>The theory has no built-in size limit. Yet we never see a cat, a chair or a cricket ball in a blend of two places. Either the rules change at some size, or something else hides the quantum behaviour. Different interpretations pick different answers (previous lesson).</p>"
+  },
+  {
+   "tag": "Decoherence",
+   "h": "The environment is always looking",
+   "b": "<p>A real system is never alone. A dust grain is bombarded by air molecules and light. Each tiny contact records a little information about where the grain is. That information, scattered into the environment, is the same as \"watching\" in the double-slit experiment: the stripes disappear.</p><svg class=\"d\" viewBox=\"0 0 320 150\"><defs><marker id=\"m203\" viewBox=\"0 0 10 10\" refX=\"9\" refY=\"5\" markerWidth=\"6\" markerHeight=\"6\" orient=\"auto\"><path d=\"M0,0L10,5L0,10z\" fill=\"#5d6474\"/></marker></defs><rect x=\"5\" y=\"10\" width=\"95\" height=\"50\" rx=\"6\" fill=\"#dceaec\" stroke=\"#2f6f7a\"/><text x=\"52.5\" y=\"25.3\" font-size=\"10\" fill=\"#1d2433\" text-anchor=\"middle\">isolated</text><text x=\"52.5\" y=\"38.3\" font-size=\"10\" fill=\"#1d2433\" text-anchor=\"middle\">quantum system</text><text x=\"52.5\" y=\"51.3\" font-size=\"10\" fill=\"#1d2433\" text-anchor=\"middle\">sharp stripes</text><rect x=\"115\" y=\"10\" width=\"95\" height=\"50\" rx=\"6\" fill=\"#f1e4c6\" stroke=\"#a8792a\"/><text x=\"162.5\" y=\"25.3\" font-size=\"10\" fill=\"#1d2433\" text-anchor=\"middle\">touches air,</text><text x=\"162.5\" y=\"38.3\" font-size=\"10\" fill=\"#1d2433\" text-anchor=\"middle\">light, heat</text><text x=\"162.5\" y=\"51.3\" font-size=\"10\" fill=\"#1d2433\" text-anchor=\"middle\">(environment)</text><rect x=\"225\" y=\"10\" width=\"90\" height=\"50\" rx=\"6\" fill=\"#f4dcd5\" stroke=\"#a3362a\"/><text x=\"270.0\" y=\"25.3\" font-size=\"10\" fill=\"#1d2433\" text-anchor=\"middle\">stripes washed</text><text x=\"270.0\" y=\"38.3\" font-size=\"10\" fill=\"#1d2433\" text-anchor=\"middle\">out: looks like</text><text x=\"270.0\" y=\"51.3\" font-size=\"10\" fill=\"#1d2433\" text-anchor=\"middle\">one or other</text><line x1=\"102\" y1=\"35\" x2=\"113\" y2=\"35\" stroke=\"#5d6474\" stroke-width=\"1.5\" marker-end=\"url(#m203)\"/><line x1=\"212\" y1=\"35\" x2=\"223\" y2=\"35\" stroke=\"#5d6474\" stroke-width=\"1.5\" marker-end=\"url(#m203)\"/><text x=\"160\" y=\"95\" font-size=\"10\" fill=\"#5d6474\" text-anchor=\"middle\">Big object: environment acts in about 10⁻²⁰ s or less</text><text x=\"160\" y=\"112\" font-size=\"10\" fill=\"#5d6474\" text-anchor=\"middle\">Tiny cold isolated object: can last seconds or more</text><text x=\"160\" y=\"135\" font-size=\"10\" fill=\"#a3362a\" text-anchor=\"middle\">Decoherence hides superposition, but does not pick a winner</text></svg><p>H. Dieter Zeh (1970) and Wojciech Zurek (from 1981) developed this idea. The coherence needed for interference leaks away into countless environment particles.</p>"
+  },
+  {
+   "tag": "Analogy",
+   "h": "Spilling ink into a river",
+   "b": "<p>A drop of ink in a bucket swirls into patterns you could in principle reverse. Dropped into a river, the ink spreads so widely it is lost for ever in practice.</p><p><b>Where it breaks:</b> in decoherence the information is not destroyed, only spread out. Strictly, the whole thing plus environment is still a superposition.</p>"
+  },
+  {
+   "tag": "What decoherence does not do",
+   "h": "Honest limits",
+   "b": "<div class=\"box\"><h4>It explains</h4>Why everyday objects look classical, why the stripes vanish, how fast the quantum look fades (extremely fast for big warm things).</div><div class=\"box\"><h4>It does not explain</h4>Why you see <i>one</i> outcome. After decoherence the mix looks like \"either this or that\", but you still need an interpretation (many-worlds, collapse, pilot wave) to say why one happens.</div>"
+  },
+  {
+   "tag": "How we know",
+   "h": "Watching decoherence happen",
+   "b": "<ul><li><b>Serge Haroche (Paris, 1996):</b> atoms in a cavity made tiny \"Schrödinger kitten\" states, and watched them decohere in milliseconds. Haroche and David Wineland shared the 2012 Nobel.</li><li><b>Arndt, Zeilinger and others:</b> heating C60 molecules makes them radiate and the stripes fade, as predicted.</li><li><b>2025 Nobel (Clarke, Devoret, Martinis):</b> quantum behaviour in a large circuit.</li><li><b>Quantum computers:</b> engineers fight decoherence daily; qubits last microseconds to milliseconds in superconducting devices.</li></ul>"
+  },
+  {
+   "tag": "Misconceptions",
+   "h": "Myths to drop",
+   "b": "<ul><li><b>\"The cat is both dead and alive.\"</b> By decoherence, within a fraction of a second the box is not in a sharp blend; what remains is the interpretation question.</li><li><b>\"A conscious observer is needed.\"</b> A cat counts as an environment, and so does a stray photon.</li><li><b>\"Decoherence solves the measurement problem.\"</b> Not alone.</li></ul>"
+  },
+  {
+   "tag": "Indian angle",
+   "h": "GKSL and Indian qubit labs",
+   "b": "<p>E.C.G. Sudarshan is a co-author (with Gorini and Kossakowski, 1976) of the GKSL equation (also called Lindblad), the standard mathematical description of how a quantum system loses coherence. It is used by every quantum computing group worldwide, including the labs at TIFR and IISc under the National Quantum Mission.</p>"
+  },
+  {
+   "tag": "Recap",
+   "h": "Key takeaways and think-about-it",
+   "b": "<ul><li>Schrödinger's cat (1935) was a challenge to stretching quantum rules to big objects.</li><li>Decoherence (Zeh, Zurek) explains why big warm things look classical.</li><li>It hides the blend but does not by itself say why one outcome occurs.</li></ul><div class=\"box\"><h4>Think about it</h4><ol><li>Why does a cold, isolated atom stay quantum longer than a warm cat?</li><li>Why is decoherence the main enemy of quantum computers?</li></ol></div>",
+   "cls": "exam"
+  }
+ ],
+ "quiz": [
+  {
+   "q": "Schrödinger proposed the cat in:",
+   "o": [
+    "1935",
+    "1900",
+    "1982",
+    "1927"
+   ],
+   "a": 0,
+   "w": "As a challenge to naive quantum extrapolation."
+  },
+  {
+   "q": "What was the cat meant to show?",
+   "o": [
+    "That cats are quantum",
+    "That poison works",
+    "That atoms are alive",
+    "Quantum rules look absurd if applied to everyday objects"
+   ],
+   "a": 3,
+   "w": "It was a thought experiment."
+  },
+  {
+   "q": "Decoherence is:",
+   "o": [
+    "Loss of quantum interference by interaction with the environment",
+    "Cooling a gas",
+    "Splitting atoms",
+    "A kind of radioactivity"
+   ],
+   "a": 0,
+   "w": "Information spreads to the surroundings."
+  },
+  {
+   "q": "Who developed decoherence theory?",
+   "o": [
+    "Planck and Wien",
+    "Raman and Bose",
+    "Zeh and Zurek",
+    "Born and Jordan"
+   ],
+   "a": 2,
+   "w": "From 1970 and the 1980s."
+  },
+  {
+   "q": "Why do big warm objects decohere fast?",
+   "o": [
+    "They interact with countless particles",
+    "They are not made of atoms",
+    "They are heavy",
+    "They have no waves"
+   ],
+   "a": 0,
+   "w": "Air, light and heat constantly record them."
+  },
+  {
+   "q": "Does decoherence alone explain why we see one outcome?",
+   "o": [
+    "Yes, completely",
+    "Yes, it needs a human",
+    "No, an interpretation is still needed",
+    "It makes no difference"
+   ],
+   "a": 2,
+   "w": "It removes interference but not the choice."
+  },
+  {
+   "q": "Haroche and Wineland shared the Nobel in:",
+   "o": [
+    "2012",
+    "1933",
+    "1990",
+    "2022"
+   ],
+   "a": 0,
+   "w": "For measuring quantum systems."
+  },
+  {
+   "q": "Is a conscious observer needed for decoherence?",
+   "o": [
+    "No, any environment will do",
+    "Only a human",
+    "Only a physicist",
+    "Yes"
+   ],
+   "a": 0,
+   "w": "Stray photons count."
+  },
+  {
+   "q": "Why is decoherence a problem for quantum computers?",
+   "o": [
+    "It uses power",
+    "It speeds up calculations",
+    "It destroys qubit superpositions",
+    "It cools the chip"
+   ],
+   "a": 2,
+   "w": "Qubits must stay coherent."
+  },
+  {
+   "q": "The GKSL equation is used to describe:",
+   "o": [
+    "How magnets spin",
+    "How quantum systems lose coherence",
+    "How stars form",
+    "How light bends"
+   ],
+   "a": 1,
+   "w": "Sudarshan was a co-author."
+  }
+ ],
+ "sources": [
+  "Schrödinger 1935",
+  "Zeh 1970",
+  "Zurek 1981 onward",
+  "Brune et al. 1996",
+  "Nobel Prize in Physics 2012 and 2025"
+ ],
+ "verified": "2026-11-11"
+}

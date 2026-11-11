@@ -54,32 +54,32 @@
   {
    "q": "Ujamaa means",
    "o": [
-    "Freedom",
     "Familyhood",
+    "Land",
     "Unity",
-    "Land"
+    "Freedom"
    ],
-   "a": 1,
+   "a": 0,
    "w": "Swahili."
   },
   {
    "q": "The Arusha Declaration was issued in",
    "o": [
-    "1967",
+    "1985",
     "1961",
-    "1973",
-    "1985"
+    "1967",
+    "1973"
    ],
-   "a": 0,
+   "a": 2,
    "w": "Tanzania."
   },
   {
    "q": "Nkrumah wrote Neo-Colonialism in",
    "o": [
     "1957",
-    "1983",
+    "1970",
     "1965",
-    "1970"
+    "1983"
    ],
    "a": 2,
    "w": "The Last Stage of Imperialism."
@@ -87,21 +87,21 @@
   {
    "q": "Nkrumah was overthrown in",
    "o": [
+    "1975",
     "1957",
-    "1966",
     "1983",
-    "1975"
+    "1966"
    ],
-   "a": 1,
+   "a": 3,
    "w": "By a military coup."
   },
   {
    "q": "Sankara renamed Upper Volta as",
    "o": [
     "Burkina Faso",
+    "Chad",
     "Mali",
-    "Niger",
-    "Chad"
+    "Niger"
    ],
    "a": 0,
    "w": "1984."
@@ -109,10 +109,10 @@
   {
    "q": "Sankara was killed in",
    "o": [
+    "1994",
     "1983",
-    "1966",
     "1987",
-    "1994"
+    "1966"
    ],
    "a": 2,
    "w": "Coup by Compaoré."
@@ -121,44 +121,44 @@
    "q": "Ujamaa villagisation moved about what share of rural Tanzanians by 1976?",
    "o": [
     "10%",
+    "100%",
     "80%",
-    "3%",
-    "100%"
+    "3%"
    ],
-   "a": 1,
+   "a": 2,
    "w": "Often forced."
   },
   {
    "q": "Ethiopia's Derg ruled",
    "o": [
     "1957-66",
+    "1960-70",
     "1974-91",
-    "1983-87",
-    "1960-70"
+    "1983-87"
    ],
-   "a": 1,
+   "a": 2,
    "w": "Mengistu's regime."
   },
   {
    "q": "The Bandung Conference was held in",
    "o": [
-    "1947",
     "1961",
     "1955",
-    "1971"
+    "1971",
+    "1947"
    ],
-   "a": 2,
+   "a": 1,
    "w": "Afro-Asian."
   },
   {
    "q": "Which diaspora faced expulsion from Uganda in 1972?",
    "o": [
-    "Europeans",
-    "Chinese",
+    "South Asians",
     "Lebanese",
-    "South Asians"
+    "Europeans",
+    "Chinese"
    ],
-   "a": 3,
+   "a": 0,
    "w": "Idi Amin."
   }
  ],

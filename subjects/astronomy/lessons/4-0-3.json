@@ -59,78 +59,78 @@
   {
    "q": "Continuous human presence on the ISS began in:",
    "o": [
-    "2000",
-    "1969",
     "1998",
+    "1969",
+    "2000",
     "2010"
    ],
-   "a": 0,
+   "a": 2,
    "w": "2 November 2000."
   },
   {
    "q": "China's space station is called:",
    "o": [
-    "Tiangong",
     "Mir",
+    "Salyut",
     "Skylab",
-    "Salyut"
+    "Tiangong"
    ],
-   "a": 0,
+   "a": 3,
    "w": "Completed 2022."
   },
   {
    "q": "Perseverance landed on Mars in:",
    "o": [
+    "2014",
     "2021",
-    "2012",
     "1976",
-    "2014"
+    "2012"
    ],
-   "a": 0,
+   "a": 1,
    "w": "18 February 2021."
   },
   {
    "q": "Europa Clipper will study:",
    "o": [
+    "Pluto",
     "An icy moon of Jupiter",
     "Mars",
-    "Pluto",
     "Venus"
    ],
-   "a": 0,
+   "a": 1,
    "w": "Launched October 2024."
   },
   {
    "q": "Water ice at the lunar poles matters because:",
    "o": [
-    "It can supply water and fuel",
     "It is pretty",
     "It is warm",
-    "It blocks radiation entirely"
+    "It blocks radiation entirely",
+    "It can supply water and fuel"
    ],
-   "a": 0,
+   "a": 3,
    "w": "Useful for settlements."
   },
   {
    "q": "India's planned space station is:",
    "o": [
+    "Tiangong-2",
     "Bharatiya Antariksh Station",
     "Salyut",
-    "Aryabhata Station",
-    "Tiangong-2"
+    "Aryabhata Station"
    ],
-   "a": 0,
+   "a": 1,
    "w": "Planned by 2035."
   },
   {
    "q": "A key reason for falling launch cost is:",
    "o": [
+    "Free fuel",
     "Reusable boosters",
-    "Smaller planets",
     "Lighter Earth",
-    "Free fuel"
+    "Smaller planets"
    ],
-   "a": 0,
+   "a": 1,
    "w": "Landings since 2015."
   },
   {
@@ -138,8 +138,8 @@
    "o": [
     "Titan",
     "Mars",
-    "Venus",
-    "Ceres"
+    "Ceres",
+    "Venus"
    ],
    "a": 0,
    "w": "A drone on Saturn's moon."
@@ -147,23 +147,23 @@
   {
    "q": "Space debris is dangerous mainly due to:",
    "o": [
-    "High orbital speed",
     "Large size",
+    "Heat",
     "Magnetism",
-    "Heat"
+    "High orbital speed"
    ],
-   "a": 0,
+   "a": 3,
    "w": "About 7 km/s."
   },
   {
    "q": "India's declared goal for a crewed Moon landing is by:",
    "o": [
-    "2040",
     "2025",
+    "2040",
     "2030",
     "2060"
    ],
-   "a": 0,
+   "a": 1,
    "w": "Announced ambition."
   }
  ],

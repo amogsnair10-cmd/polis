@@ -64,10 +64,10 @@
   {
    "q": "Ovulation is triggered by:",
    "o": [
-    "ADH",
+    "FSH",
     "LH surge",
     "Insulin",
-    "FSH"
+    "ADH"
    ],
    "a": 1,
    "w": "LH."
@@ -75,9 +75,9 @@
   {
    "q": "Fertilisation usually occurs in the:",
    "o": [
-    "Ovary",
-    "Fallopian tube",
     "Uterus",
+    "Fallopian tube",
+    "Ovary",
     "Vagina"
    ],
    "a": 1,
@@ -87,9 +87,9 @@
    "q": "The sex of the baby is set by:",
    "o": [
     "Sperm",
+    "Placenta",
     "Hormones",
-    "Egg",
-    "Placenta"
+    "Egg"
    ],
    "a": 0,
    "w": "X or Y sperm."
@@ -98,8 +98,8 @@
    "q": "hCG is made by:",
    "o": [
     "Placenta",
-    "Pituitary",
     "Ovary",
+    "Pituitary",
     "Thyroid"
    ],
    "a": 0,
@@ -109,8 +109,8 @@
    "q": "First IVF baby was born in:",
    "o": [
     "1978",
-    "1988",
     "1968",
+    "1988",
     "1998"
    ],
    "a": 0,
@@ -130,10 +130,10 @@
   {
    "q": "Implantation occurs in the:",
    "o": [
+    "Ovary",
     "Cervix",
-    "Fallopian tube",
     "Uterus wall",
-    "Ovary"
+    "Fallopian tube"
    ],
    "a": 2,
    "w": "Endometrium."
@@ -141,10 +141,10 @@
   {
    "q": "Oxytocin helps in:",
    "o": [
-    "Growth",
-    "Contractions and milk release",
     "Sleep",
-    "Digestion"
+    "Contractions and milk release",
+    "Digestion",
+    "Growth"
    ],
    "a": 1,
    "w": "Birth and lactation."
@@ -153,8 +153,8 @@
    "q": "Spemann and Mangold found the:",
    "o": [
     "Mitochondria",
-    "SRY",
     "Hox genes",
+    "SRY",
     "Organiser"
    ],
    "a": 3,
@@ -163,10 +163,10 @@
   {
    "q": "Janani Suraksha Yojana started in:",
    "o": [
-    "1995",
+    "1985",
     "2015",
     "2005",
-    "1985"
+    "1995"
    ],
    "a": 2,
    "w": "2005."

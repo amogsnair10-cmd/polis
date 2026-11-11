@@ -49,10 +49,10 @@
   {
    "q": "The assassin was...",
    "o": [
-    "Lenin",
     "Bismarck",
+    "Kaiser Wilhelm",
     "Gavrilo Princip",
-    "Kaiser Wilhelm"
+    "Lenin"
    ],
    "a": 2,
    "w": "A Bosnian Serb."
@@ -60,76 +60,76 @@
   {
    "q": "The Archduke was shot in...",
    "o": [
+    "Berlin",
     "Sarajevo",
     "Vienna",
-    "Berlin",
     "Belgrade"
    ],
-   "a": 0,
+   "a": 1,
    "w": "28 June 1914."
   },
   {
    "q": "The Somme began in...",
    "o": [
-    "1914",
+    "1916",
     "1918",
     "1915",
-    "1916"
+    "1914"
    ],
-   "a": 3,
+   "a": 0,
    "w": "1 July."
   },
   {
    "q": "The war ended on...",
    "o": [
     "28 June 1919",
-    "11 November 1918",
     "1 Sept 1939",
-    "14 Aug 1945"
+    "14 Aug 1945",
+    "11 November 1918"
    ],
-   "a": 1,
+   "a": 3,
    "w": "The Armistice."
   },
   {
    "q": "The Treaty of Versailles was in...",
    "o": [
-    "1919",
-    "1918",
     "1923",
+    "1918",
+    "1919",
     "1945"
    ],
-   "a": 0,
+   "a": 2,
    "w": "Blamed Germany."
   },
   {
    "q": "Which empire did not collapse after WWI?",
    "o": [
-    "Ottoman",
     "German",
-    "Russian",
-    "British"
+    "Ottoman",
+    "British",
+    "Russian"
    ],
-   "a": 3,
+   "a": 2,
    "w": "It lasted but was weakened."
   },
   {
    "q": "The Sleepwalkers is by...",
    "o": [
+    "Barbara Tuchman",
     "Fritz Fischer",
     "Christopher Clark",
-    "A. J. P. Taylor",
-    "Barbara Tuchman"
+    "A. J. P. Taylor"
    ],
-   "a": 1,
+   "a": 2,
    "w": "2012."
   },
   {
    "q": "About how many Indians served overseas?",
    "o": [
+    "None",
     "About 13,000",
-    "About 130 million",
     "About 1.3 million",
-    "None"
+    "About 130 million"
    ],
    "a": 2,
    "w": "About 74,000 died."
@@ -138,22 +138,22 @@
    "q": "The first Indian VC winner was...",
    "o": [
     "Sam Manekshaw",
-    "Subhas Bose",
     "Bhagat Singh",
-    "Khudadad Khan"
+    "Khudadad Khan",
+    "Subhas Bose"
    ],
-   "a": 3,
+   "a": 2,
    "w": "1914."
   },
   {
    "q": "Gas was first used widely at...",
    "o": [
-    "Ypres in 1915",
-    "Verdun in 1916",
     "The Marne",
-    "Gallipoli"
+    "Verdun in 1916",
+    "Gallipoli",
+    "Ypres in 1915"
    ],
-   "a": 0,
+   "a": 3,
    "w": "By Germany."
   }
  ],

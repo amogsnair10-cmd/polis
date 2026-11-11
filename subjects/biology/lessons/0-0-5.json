@@ -59,9 +59,9 @@
   {
    "q": "Glycolysis occurs in the:",
    "o": [
-    "Nucleus",
-    "Cytoplasm",
     "Mitochondria",
+    "Cytoplasm",
+    "Nucleus",
     "Golgi"
    ],
    "a": 1,
@@ -71,9 +71,9 @@
    "q": "Net ATP from glycolysis:",
    "o": [
     "2",
+    "36",
     "0",
-    "30",
-    "36"
+    "30"
    ],
    "a": 0,
    "w": "Net 2."
@@ -92,10 +92,10 @@
   {
    "q": "The final electron acceptor is:",
    "o": [
-    "NAD",
+    "CO2",
     "Oxygen",
     "Glucose",
-    "CO2"
+    "NAD"
    ],
    "a": 1,
    "w": "O2 becomes water."
@@ -103,9 +103,9 @@
   {
    "q": "Most ATP is made by:",
    "o": [
-    "Krebs cycle",
     "Fermentation",
     "Glycolysis",
+    "Krebs cycle",
     "ATP synthase in the electron transport chain"
    ],
    "a": 3,
@@ -114,10 +114,10 @@
   {
    "q": "Yeast fermentation yields:",
    "o": [
-    "Water only",
     "Oxygen",
+    "Lactic acid",
     "Ethanol and CO2",
-    "Lactic acid"
+    "Water only"
    ],
    "a": 2,
    "w": "Ethanol and CO2."
@@ -125,10 +125,10 @@
   {
    "q": "Where does the CO2 we exhale mostly arise?",
    "o": [
-    "Lungs",
+    "ETC",
     "Pyruvate oxidation and Krebs cycle",
-    "Glycolysis",
-    "ETC"
+    "Lungs",
+    "Glycolysis"
    ],
    "a": 1,
    "w": "Decarboxylation steps."
@@ -137,9 +137,9 @@
    "q": "Chemiosmosis was proposed by:",
    "o": [
     "Mitchell",
-    "Margulis",
     "Sumner",
-    "Skou"
+    "Skou",
+    "Margulis"
    ],
    "a": 0,
    "w": "Peter Mitchell, 1961."
@@ -147,10 +147,10 @@
   {
    "q": "Anaerobic respiration gives per glucose:",
    "o": [
+    "10 ATP",
     "0 ATP",
-    "36 ATP",
     "2 ATP",
-    "10 ATP"
+    "36 ATP"
    ],
    "a": 2,
    "w": "Just glycolysis."
@@ -158,10 +158,10 @@
   {
    "q": "Cyanide is deadly because it blocks:",
    "o": [
-    "DNA copying",
     "Digestion",
+    "Glycolysis",
     "Electron transport chain",
-    "Glycolysis"
+    "DNA copying"
    ],
    "a": 2,
    "w": "Stops ATP production."

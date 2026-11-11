@@ -60,9 +60,9 @@
    "q": "India's first satellite was:",
    "o": [
     "Aryabhata",
-    "Bhaskara",
     "Rohini",
-    "INSAT-1A"
+    "INSAT-1A",
+    "Bhaskara"
    ],
    "a": 0,
    "w": "1975."
@@ -70,100 +70,100 @@
   {
    "q": "Chandrayaan-3 landed on:",
    "o": [
-    "23 August 2023",
     "22 October 2008",
     "7 September 2019",
-    "2 September 2023"
+    "2 September 2023",
+    "23 August 2023"
    ],
-   "a": 0,
+   "a": 3,
    "w": "National Space Day."
   },
   {
    "q": "Mangalyaan reached Mars orbit on:",
    "o": [
-    "24 September 2014",
-    "5 November 2013",
     "23 August 2023",
-    "15 February 2017"
+    "5 November 2013",
+    "15 February 2017",
+    "24 September 2014"
    ],
-   "a": 0,
+   "a": 3,
    "w": "First attempt."
   },
   {
    "q": "Aditya-L1 studies:",
    "o": [
+    "Jupiter",
     "The Sun",
-    "Mars",
     "Venus",
-    "Jupiter"
+    "Mars"
    ],
-   "a": 0,
+   "a": 1,
    "w": "From the L1 point."
   },
   {
    "q": "AstroSat was launched in:",
    "o": [
-    "2015",
-    "2008",
     "2023",
-    "1999"
+    "1999",
+    "2008",
+    "2015"
    ],
-   "a": 0,
+   "a": 3,
    "w": "28 September 2015."
   },
   {
    "q": "PSLV launched 104 satellites in one flight in:",
    "o": [
+    "1994",
     "2017",
-    "2005",
     "2023",
-    "1994"
+    "2005"
    ],
-   "a": 0,
+   "a": 1,
    "w": "15 February 2017."
   },
   {
    "q": "SpaDeX demonstrated:",
    "o": [
-    "In-orbit docking",
     "Moon landing",
     "Mars landing",
+    "In-orbit docking",
     "Solar probe"
    ],
-   "a": 0,
+   "a": 2,
    "w": "January 2025."
   },
   {
    "q": "Gaganyaan aims to send astronauts to about:",
    "o": [
-    "400 km",
-    "36,000 km",
+    "100 km",
     "1.5 million km",
-    "100 km"
+    "400 km",
+    "36,000 km"
    ],
-   "a": 0,
+   "a": 2,
    "w": "Low Earth orbit."
   },
   {
    "q": "IN-SPACe was created to:",
    "o": [
-    "Authorise private space activity",
-    "Launch satellites",
     "Build rockets only",
-    "Study the Sun"
+    "Study the Sun",
+    "Authorise private space activity",
+    "Launch satellites"
    ],
-   "a": 0,
+   "a": 2,
    "w": "2020 reform."
   },
   {
    "q": "Chandrayaan-1 is noted for:",
    "o": [
+    "Sun images",
     "Evidence of lunar water",
-    "Landing near the pole",
     "Mars imaging",
-    "Sun images"
+    "Landing near the pole"
    ],
-   "a": 0,
+   "a": 1,
    "w": "Moon Mineralogy Mapper and MIP."
   }
  ],

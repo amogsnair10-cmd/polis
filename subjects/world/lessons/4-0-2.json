@@ -54,30 +54,30 @@
   {
    "q": "Ottoman founder...",
    "o": [
-    "Mehmed",
-    "Suleiman",
     "Osman",
-    "Selim"
+    "Suleiman",
+    "Selim",
+    "Mehmed"
    ],
-   "a": 2,
+   "a": 0,
    "w": "Around 1299."
   },
   {
    "q": "Constantinople fell in...",
    "o": [
-    "1453",
     "1517",
     "1526",
-    "1683"
+    "1683",
+    "1453"
    ],
-   "a": 0,
+   "a": 3,
    "w": "To Mehmed II."
   },
   {
    "q": "Selim I conquered...",
    "o": [
-    "Hungary",
     "Persia",
+    "Hungary",
     "India",
     "Egypt and Syria"
    ],
@@ -87,10 +87,10 @@
   {
    "q": "Suleiman besieged...",
    "o": [
-    "Rome",
+    "Paris",
     "Vienna in 1529",
     "Moscow",
-    "Paris"
+    "Rome"
    ],
    "a": 1,
    "w": "Without taking it."
@@ -98,43 +98,43 @@
   {
    "q": "Devshirme was...",
    "o": [
-    "Taking Christian boys for state service",
-    "A tax",
     "A prayer",
-    "A feast"
+    "A feast",
+    "A tax",
+    "Taking Christian boys for state service"
    ],
-   "a": 0,
+   "a": 3,
    "w": "Janissaries came from it."
   },
   {
    "q": "Janissaries were destroyed by...",
    "o": [
-    "Suleiman",
-    "Mehmed II",
     "Atatürk",
-    "Mahmud II in 1826"
+    "Mahmud II in 1826",
+    "Mehmed II",
+    "Suleiman"
    ],
-   "a": 3,
+   "a": 1,
    "w": "The Auspicious Incident."
   },
   {
    "q": "Sinan was...",
    "o": [
     "A general",
-    "An architect",
     "A poet",
+    "An architect",
     "A vizier"
    ],
-   "a": 1,
+   "a": 2,
    "w": "Built the Suleymaniye."
   },
   {
    "q": "The sultanate was abolished in...",
    "o": [
-    "1453",
+    "1924",
     "1683",
     "1922",
-    "1924"
+    "1453"
    ],
    "a": 2,
    "w": "The caliphate ended in 1924."
@@ -142,23 +142,23 @@
   {
    "q": "Babur's artillery help came from...",
    "o": [
-    "Chinese engineers",
     "Portuguese",
     "Mongols",
-    "Ottoman-trained gunners"
+    "Ottoman-trained gunners",
+    "Chinese engineers"
    ],
-   "a": 3,
+   "a": 2,
    "w": "Ustad Ali Quli."
   },
   {
    "q": "The Khilafat Movement was in...",
    "o": [
+    "1947",
     "1919-1924",
-    "1857",
     "1930",
-    "1947"
+    "1857"
    ],
-   "a": 0,
+   "a": 1,
    "w": "In India."
   }
  ],

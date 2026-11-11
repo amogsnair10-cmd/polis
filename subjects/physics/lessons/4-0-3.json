@@ -59,32 +59,32 @@
   {
    "q": "The neutron was discovered by",
    "o": [
+    "Bohr",
     "Rutherford",
     "Chadwick",
-    "Bohr",
     "Fermi"
    ],
-   "a": 1,
+   "a": 2,
    "w": "James Chadwick, 1932."
   },
   {
    "q": "Isotopes of an element have",
    "o": [
     "Different numbers of protons",
-    "Same protons, different neutrons",
+    "Different electrons only",
     "Same neutrons only",
-    "Different electrons only"
+    "Same protons, different neutrons"
    ],
-   "a": 1,
+   "a": 3,
    "w": "Same Z, different A."
   },
   {
    "q": "The binding energy per nucleon is greatest near",
    "o": [
-    "Hydrogen",
+    "Helium only",
     "Iron",
     "Uranium",
-    "Helium only"
+    "Hydrogen"
    ],
    "a": 1,
    "w": "Iron is the most stable."
@@ -92,32 +92,32 @@
   {
    "q": "A sample has a half-life of 5 days. After 15 days, the fraction left is",
    "o": [
-    "1/2",
     "1/4",
     "1/8",
+    "1/2",
     "1/16"
    ],
-   "a": 2,
+   "a": 1,
    "w": "Three halvings."
   },
   {
    "q": "Carbon-14 dating uses",
    "o": [
-    "Its half-life of about 5730 years",
     "Its colour",
     "Its mass only",
-    "Gamma rays"
+    "Gamma rays",
+    "Its half-life of about 5730 years"
    ],
-   "a": 0,
+   "a": 3,
    "w": "Decay tells age."
   },
   {
    "q": "Fission is the",
    "o": [
-    "Joining of light nuclei",
+    "Burning of coal",
     "Splitting of a heavy nucleus",
-    "Decay of electrons",
-    "Burning of coal"
+    "Joining of light nuclei",
+    "Decay of electrons"
    ],
    "a": 1,
    "w": "Heavy nucleus splits."
@@ -125,45 +125,45 @@
   {
    "q": "Control rods in a reactor",
    "o": [
+    "Carry electricity",
     "Absorb neutrons",
-    "Make neutrons",
     "Cool the water",
-    "Carry electricity"
+    "Make neutrons"
    ],
-   "a": 0,
+   "a": 1,
    "w": "They regulate the chain reaction."
   },
   {
    "q": "The Sun's energy comes from",
    "o": [
-    "Fission of uranium",
     "Fusion of hydrogen to helium",
-    "Burning",
-    "Chemical reactions"
+    "Fission of uranium",
+    "Chemical reactions",
+    "Burning"
    ],
-   "a": 1,
+   "a": 0,
    "w": "p-p chain fusion."
   },
   {
    "q": "The first controlled chain reaction was by Fermi in",
    "o": [
     "1905",
+    "1956",
     "1938",
-    "1942",
-    "1956"
+    "1942"
    ],
-   "a": 2,
+   "a": 3,
    "w": "Chicago Pile-1, 1942."
   },
   {
    "q": "India's three-stage programme was conceived by",
    "o": [
-    "Homi Bhabha",
     "Vikram Sarabhai",
+    "Homi Bhabha",
     "C. V. Raman",
     "S. Chandrasekhar"
    ],
-   "a": 0,
+   "a": 1,
    "w": "Bhabha, 1950s."
   }
  ],

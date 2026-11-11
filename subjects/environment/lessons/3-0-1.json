@@ -59,23 +59,23 @@
   {
    "q": "The 2023 glacial lake outburst flood occurred in:",
    "o": [
-    "Himachal",
-    "Sikkim",
     "Arunachal",
-    "Ladakh"
+    "Ladakh",
+    "Sikkim",
+    "Himachal"
    ],
-   "a": 1,
+   "a": 2,
    "w": "South Lhonak Lake."
   },
   {
    "q": "India’s first city heat action plan was in:",
    "o": [
-    "Ahmedabad",
     "Delhi",
+    "Jaipur",
     "Nagpur",
-    "Jaipur"
+    "Ahmedabad"
    ],
-   "a": 0,
+   "a": 3,
    "w": "It started in 2013."
   },
   {
@@ -92,21 +92,21 @@
   {
    "q": "NICRA is an ICAR project on:",
    "o": [
+    "River links",
     "Solar pumps",
     "Forest cover",
-    "Climate resilient agriculture",
-    "River links"
+    "Climate resilient agriculture"
    ],
-   "a": 2,
+   "a": 3,
    "w": "National Innovations in Climate Resilient Agriculture."
   },
   {
    "q": "Which weather event reduced wheat in March 2022?",
    "o": [
-    "Floods",
+    "Hailstorm",
     "Early heatwave",
-    "Cyclone",
-    "Hailstorm"
+    "Floods",
+    "Cyclone"
    ],
    "a": 1,
    "w": "Grain filling was hit."
@@ -115,8 +115,8 @@
    "q": "The Disaster Management Act was passed in:",
    "o": [
     "2005",
-    "1995",
     "2013",
+    "1995",
     "2019"
    ],
    "a": 0,
@@ -126,44 +126,44 @@
    "q": "The 1999 Odisha cyclone is remembered as a:",
    "o": [
     "Tsunami",
-    "Flash flood",
     "Typhoon",
-    "Super cyclone"
+    "Super cyclone",
+    "Flash flood"
    ],
-   "a": 3,
+   "a": 2,
    "w": "It killed around ten thousand people and led to better warning systems."
   },
   {
    "q": "India’s coastline is about:",
    "o": [
-    "3,000 km",
+    "5,000 km",
     "15,000 km",
-    "7,500 km",
-    "5,000 km"
+    "3,000 km",
+    "7,500 km"
    ],
-   "a": 2,
+   "a": 3,
    "w": "Including islands about 7,516 km."
   },
   {
    "q": "Which is most threatened by sea level rise?",
    "o": [
-    "Thar",
     "Sundarbans",
+    "Thar",
     "Deccan plateau",
     "Aravalli"
    ],
-   "a": 1,
+   "a": 0,
    "w": "Low delta land is very exposed."
   },
   {
    "q": "The NAPCC was launched in:",
    "o": [
-    "2008",
-    "2000",
     "2015",
-    "2020"
+    "2020",
+    "2000",
+    "2008"
    ],
-   "a": 0,
+   "a": 3,
    "w": "June 2008, with eight missions."
   }
  ],

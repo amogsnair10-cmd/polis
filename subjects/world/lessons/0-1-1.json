@@ -54,43 +54,43 @@
   {
    "q": "Göbekli Tepe is in modern...",
    "o": [
-    "Iraq",
-    "Greece",
+    "Egypt",
     "Turkey",
-    "Egypt"
+    "Greece",
+    "Iraq"
    ],
-   "a": 2,
+   "a": 1,
    "w": "Near Şanlıurfa."
   },
   {
    "q": "Who began excavating it after 1994?",
    "o": [
+    "John Marshall",
     "Klaus Schmidt",
-    "Howard Carter",
     "Heinrich Schliemann",
-    "John Marshall"
+    "Howard Carter"
    ],
-   "a": 0,
+   "a": 1,
    "w": "A German archaeologist."
   },
   {
    "q": "Its approximate age is...",
    "o": [
-    "4,500 years",
-    "2,000 years",
+    "11,000 years or more",
     "500 years",
-    "11,000 years or more"
+    "4,500 years",
+    "2,000 years"
    ],
-   "a": 3,
+   "a": 0,
    "w": "9500-8000 BCE."
   },
   {
    "q": "Which of these is older?",
    "o": [
-    "Stonehenge's main stage",
+    "The Parthenon",
     "Göbekli Tepe",
-    "Djoser's pyramid",
-    "The Parthenon"
+    "Stonehenge's main stage",
+    "Djoser's pyramid"
    ],
    "a": 1,
    "w": "By thousands of years."
@@ -99,9 +99,9 @@
    "q": "What did the builders lack?",
    "o": [
     "Metal tools and the wheel",
-    "Stone",
+    "Rope",
     "Human labour",
-    "Rope"
+    "Stone"
    ],
    "a": 0,
    "w": "They used flint."
@@ -109,34 +109,34 @@
   {
    "q": "'Göbekli Tepe' means...",
    "o": [
-    "Stone Gate",
-    "Hill of Gods",
     "Sun Circle",
-    "Potbelly Hill"
+    "Potbelly Hill",
+    "Hill of Gods",
+    "Stone Gate"
    ],
-   "a": 3,
+   "a": 1,
    "w": "Turkish name."
   },
   {
    "q": "What happened to the site later?",
    "o": [
-    "It was washed away",
-    "It was deliberately filled in",
+    "It became Rome",
     "It was blown up",
-    "It became Rome"
+    "It was washed away",
+    "It was deliberately filled in"
    ],
-   "a": 1,
+   "a": 3,
    "w": "Rubble covered the enclosures."
   },
   {
    "q": "Schmidt's idea was...",
    "o": [
-    "Farming came 10,000 years earlier",
-    "It was a battlefield",
+    "It was a port",
     "The temple may have come before settled farming",
-    "It was a port"
+    "Farming came 10,000 years earlier",
+    "It was a battlefield"
    ],
-   "a": 2,
+   "a": 1,
    "w": "Flipping the usual order."
   },
   {
@@ -153,12 +153,12 @@
   {
    "q": "A megalithic tradition in India is seen in...",
    "o": [
-    "South Indian stone burials",
-    "Mughal tombs",
+    "Ashokan pillars",
     "Gupta temples",
-    "Ashokan pillars"
+    "South Indian stone burials",
+    "Mughal tombs"
    ],
-   "a": 0,
+   "a": 2,
    "w": "Stone cists and circles from around 1500 BCE."
   }
  ],

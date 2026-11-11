@@ -59,87 +59,87 @@
   {
    "q": "What happens if light is below the threshold frequency but very bright?",
    "o": [
-    "No electrons come out",
     "Many fast electrons",
+    "Only some come out",
     "Slow electrons after a delay",
-    "Only some come out"
+    "No electrons come out"
    ],
-   "a": 0,
+   "a": 3,
    "w": "Each red photon is too weak to pay the work function."
   },
   {
    "q": "Einstein won the 1921 Nobel Prize for:",
    "o": [
-    "General relativity",
-    "The law of the photoelectric effect",
+    "E = mc²",
     "Brownian motion",
-    "E = mc²"
+    "The law of the photoelectric effect",
+    "General relativity"
    ],
-   "a": 1,
+   "a": 2,
    "w": "The citation named the photoelectric law."
   },
   {
    "q": "Brighter light of the same colour gives:",
    "o": [
-    "Faster electrons",
-    "Fewer electrons",
     "More electrons, same maximum speed",
-    "No change"
+    "Fewer electrons",
+    "No change",
+    "Faster electrons"
    ],
-   "a": 2,
+   "a": 0,
    "w": "More photons give more electrons."
   },
   {
    "q": "What is the work function?",
    "o": [
-    "The energy needed to free an electron from the metal",
     "The brightness of light",
     "The frequency of light",
-    "The metal's temperature"
+    "The metal's temperature",
+    "The energy needed to free an electron from the metal"
    ],
-   "a": 0,
+   "a": 3,
    "w": "It is the fee the metal charges."
   },
   {
    "q": "Why did the wave picture fail here?",
    "o": [
-    "It predicted no light at all",
-    "It said electrons are waves",
+    "It predicted that brightness controls electron speed and colour is unimportant",
     "It predicted electrons are heavy",
-    "It predicted that brightness controls electron speed and colour is unimportant"
+    "It said electrons are waves",
+    "It predicted no light at all"
    ],
-   "a": 3,
+   "a": 0,
    "w": "The data showed colour mattered most."
   },
   {
    "q": "Who experimentally tested Einstein's equation in 1914-16?",
    "o": [
-    "Max Planck",
-    "Robert Millikan",
+    "Louis de Broglie",
     "Niels Bohr",
-    "Louis de Broglie"
+    "Max Planck",
+    "Robert Millikan"
    ],
-   "a": 1,
+   "a": 3,
    "w": "Millikan wanted to refute it but confirmed it."
   },
   {
    "q": "What did Compton (1923) show?",
    "o": [
-    "Electrons are waves",
-    "Light needs a medium",
     "X-ray photons carry momentum like particles",
-    "Atoms are mostly empty"
+    "Light needs a medium",
+    "Atoms are mostly empty",
+    "Electrons are waves"
    ],
-   "a": 2,
+   "a": 0,
    "w": "Scattering matched particle-like collisions."
   },
   {
    "q": "Photon energy depends on:",
    "o": [
     "The frequency (colour)",
-    "Brightness only",
     "The distance travelled",
-    "The metal hit"
+    "The metal hit",
+    "Brightness only"
    ],
    "a": 0,
    "w": "E = hf."
@@ -147,10 +147,10 @@
   {
    "q": "When did Raman announce his effect?",
    "o": [
-    "1905",
+    "1947",
     "1928",
-    "1913",
-    "1947"
+    "1905",
+    "1913"
    ],
    "a": 1,
    "w": "Raman and Krishnan observed it in 1928; Nobel in 1930."
@@ -159,11 +159,11 @@
    "q": "Why can light still show interference if it is made of photons?",
    "o": [
     "Interference is an illusion",
+    "Photons show wave behaviour while travelling",
     "Photons are always large",
-    "Interference needs electrons",
-    "Photons show wave behaviour while travelling"
+    "Interference needs electrons"
    ],
-   "a": 3,
+   "a": 1,
    "w": "Light has both faces depending on the experiment."
   }
  ],

@@ -59,21 +59,21 @@
   {
    "q": "The First World War started after the assassination at",
    "o": [
-    "Belgrade",
     "Sarajevo",
-    "Vienna",
-    "Berlin"
+    "Belgrade",
+    "Berlin",
+    "Vienna"
    ],
-   "a": 1,
+   "a": 0,
    "w": "Archduke Franz Ferdinand was killed."
   },
   {
    "q": "The Schlieffen Plan was a plan of",
    "o": [
     "Germany",
-    "France",
     "Russia",
-    "Austria"
+    "Austria",
+    "France"
    ],
    "a": 0,
    "w": "To defeat France quickly through Belgium."
@@ -92,10 +92,10 @@
   {
    "q": "Article 231 of the Treaty of Versailles was the",
    "o": [
-    "Disarmament clause",
     "League clause",
+    "Rhineland clause",
     "War guilt clause",
-    "Rhineland clause"
+    "Disarmament clause"
    ],
    "a": 2,
    "w": "It blamed Germany."
@@ -103,12 +103,12 @@
   {
    "q": "Wilson’s Fourteen Points included",
    "o": [
-    "Partition of Germany",
     "Self-determination and a League of Nations",
-    "Colonial expansion",
-    "Restoration of the Tsar"
+    "Partition of Germany",
+    "Restoration of the Tsar",
+    "Colonial expansion"
    ],
-   "a": 1,
+   "a": 0,
    "w": "In January 1918."
   },
   {
@@ -125,21 +125,21 @@
   {
    "q": "Lenin’s April Theses called for",
    "o": [
-    "Constituent Assembly only",
-    "War with Germany",
+    "Peace, Land and Bread",
     "A monarchy",
-    "Peace, Land and Bread"
+    "War with Germany",
+    "Constituent Assembly only"
    ],
-   "a": 3,
+   "a": 0,
    "w": "He demanded all power to the Soviets."
   },
   {
    "q": "Brest-Litovsk (1918) was between",
    "o": [
     "France and Germany",
-    "Britain and Germany",
+    "Russia and Japan",
     "Russia and Germany",
-    "Russia and Japan"
+    "Britain and Germany"
    ],
    "a": 2,
    "w": "Russia left the war."
@@ -147,23 +147,23 @@
   {
    "q": "The New Economic Policy was introduced in",
    "o": [
-    "1917",
     "1921",
-    "1928",
-    "1936"
+    "1917",
+    "1936",
+    "1928"
    ],
-   "a": 1,
+   "a": 0,
    "w": "Lenin allowed limited private trade."
   },
   {
    "q": "The Lucknow Pact (1916) was between",
    "o": [
-    "Congress and the Muslim League",
     "Gandhi and Irwin",
+    "Congress and the Justice Party",
     "Nehru and Jinnah",
-    "Congress and the Justice Party"
+    "Congress and the Muslim League"
    ],
-   "a": 0,
+   "a": 3,
    "w": "Signed during the war."
   }
  ],

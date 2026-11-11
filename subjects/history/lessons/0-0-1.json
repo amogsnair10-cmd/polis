@@ -60,8 +60,8 @@
    "q": "Harappa was discovered in 1921 by",
    "o": [
     "R. D. Banerji",
-    "John Marshall",
     "Mortimer Wheeler",
+    "John Marshall",
     "Dayaram Sahni"
    ],
    "a": 3,
@@ -70,10 +70,10 @@
   {
    "q": "The largest Harappan site in India is",
    "o": [
-    "Dholavira",
+    "Kalibangan",
     "Lothal",
     "Rakhigarhi",
-    "Kalibangan"
+    "Dholavira"
    ],
    "a": 2,
    "w": "In Haryana."
@@ -81,65 +81,65 @@
   {
    "q": "Lothal is famous for",
    "o": [
-    "The Great Bath",
     "A dockyard",
     "A signboard",
-    "Fire altars"
+    "Fire altars",
+    "The Great Bath"
    ],
-   "a": 1,
+   "a": 0,
    "w": "In Gujarat."
   },
   {
    "q": "The Great Bath was found at",
    "o": [
-    "Mohenjo-daro",
     "Harappa",
     "Lothal",
-    "Dholavira"
+    "Dholavira",
+    "Mohenjo-daro"
    ],
-   "a": 0,
+   "a": 3,
    "w": "In Sindh."
   },
   {
    "q": "Furrowed field evidence comes from",
    "o": [
-    "Banawali",
-    "Chanhudaro",
+    "Kalibangan",
     "Surkotada",
-    "Kalibangan"
+    "Chanhudaro",
+    "Banawali"
    ],
-   "a": 3,
+   "a": 0,
    "w": "In Rajasthan."
   },
   {
    "q": "Dholavira was inscribed as a World Heritage Site in",
    "o": [
-    "2014",
+    "1980",
     "2004",
-    "2021",
-    "1980"
+    "2014",
+    "2021"
    ],
-   "a": 2,
+   "a": 3,
    "w": "In Gujarat."
   },
   {
    "q": "The Harappan script is",
    "o": [
-    "Deciphered by Marshall",
     "Still undeciphered",
     "Identical to Brahmi",
-    "Proved to be Sanskrit"
+    "Proved to be Sanskrit",
+    "Deciphered by Marshall"
    ],
-   "a": 1,
+   "a": 0,
    "w": "No bilingual text exists."
   },
   {
    "q": "Meluhha in Mesopotamian texts refers to",
    "o": [
     "The Indus region",
-    "Egypt",
     "Persia",
-    "Arabia"
+    "Arabia",
+    "Egypt"
    ],
    "a": 0,
    "w": "Trade partners."
@@ -147,23 +147,23 @@
   {
    "q": "Bead-making was a craft at",
    "o": [
-    "Harappa",
-    "Rakhigarhi",
     "Ropar",
-    "Chanhudaro"
+    "Chanhudaro",
+    "Harappa",
+    "Rakhigarhi"
    ],
-   "a": 3,
+   "a": 1,
    "w": "Also at Lothal."
   },
   {
    "q": "Mortimer Wheeler’s invasion theory of decline is",
    "o": [
     "Fully proven",
-    "Based on texts alone",
     "Now widely rejected",
+    "Based on texts alone",
     "Proven by DNA"
    ],
-   "a": 2,
+   "a": 1,
    "w": "No evidence of mass destruction at Mohenjo-daro."
   }
  ],

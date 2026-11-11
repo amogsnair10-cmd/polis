@@ -59,64 +59,64 @@
   {
    "q": "The nearest large galaxy to the Milky Way is:",
    "o": [
-    "Andromeda",
-    "Triangulum",
     "Whirlpool",
-    "Sombrero"
+    "Sombrero",
+    "Andromeda",
+    "Triangulum"
    ],
-   "a": 0,
+   "a": 2,
    "w": "M31, 2.5 million light-years."
   },
   {
    "q": "Elliptical galaxies mostly contain:",
    "o": [
-    "Old red stars and little gas",
     "Young blue stars",
+    "Dark matter only",
     "Only gas",
-    "Dark matter only"
+    "Old red stars and little gas"
    ],
-   "a": 0,
+   "a": 3,
    "w": "Little star formation."
   },
   {
    "q": "The Local Group has about:",
    "o": [
     "8 galaxies",
-    "80 galaxies",
     "8,000 galaxies",
-    "8 million galaxies"
+    "8 million galaxies",
+    "80 galaxies"
    ],
-   "a": 1,
+   "a": 3,
    "w": "About 80."
   },
   {
    "q": "The cosmic web consists of:",
    "o": [
-    "Filaments and voids",
+    "Random dots",
     "Spherical shells",
     "A single cluster",
-    "Random dots"
+    "Filaments and voids"
    ],
-   "a": 0,
+   "a": 3,
    "w": "Soap-foam pattern."
   },
   {
    "q": "The supercluster to which the Milky Way belongs is:",
    "o": [
+    "Coma",
     "Laniakea",
     "Saraswati",
-    "Virgo only",
-    "Coma"
+    "Virgo only"
    ],
-   "a": 0,
+   "a": 1,
    "w": "Mapped in 2014."
   },
   {
    "q": "A quasar is powered by:",
    "o": [
     "A central supermassive black hole",
-    "A supernova",
     "A pulsar",
+    "A supernova",
     "Dark matter"
    ],
    "a": 0,
@@ -125,23 +125,23 @@
   {
    "q": "Galaxies mostly evolve by:",
    "o": [
-    "Merging and gas accretion",
     "Shrinking",
-    "Stopping rotation",
-    "Exploding"
+    "Exploding",
+    "Merging and gas accretion",
+    "Stopping rotation"
    ],
-   "a": 0,
+   "a": 2,
    "w": "Mergers and growth."
   },
   {
    "q": "The Saraswati Supercluster was announced by a team at:",
    "o": [
-    "IUCAA",
-    "PRL",
+    "IIA Bengaluru only",
     "ISRO HQ",
-    "IIA Bengaluru only"
+    "PRL",
+    "IUCAA"
    ],
-   "a": 0,
+   "a": 3,
    "w": "2017."
   },
   {
@@ -158,12 +158,12 @@
   {
    "q": "Why do collisions of galaxies rarely collide stars?",
    "o": [
-    "Stars are very far apart",
-    "Stars are small gas",
     "Gravity repels",
-    "Stars avoid each other"
+    "Stars avoid each other",
+    "Stars are small gas",
+    "Stars are very far apart"
    ],
-   "a": 0,
+   "a": 3,
    "w": "Space between stars is vast."
   }
  ],

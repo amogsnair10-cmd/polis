@@ -59,98 +59,98 @@
   {
    "q": "Ruhr region is known for",
    "o": [
-    "Coal and steel",
-    "Software",
     "Aluminium",
-    "Cotton"
+    "Cotton",
+    "Software",
+    "Coal and steel"
    ],
-   "a": 0,
+   "a": 3,
    "w": "Germany's old industrial heart."
   },
   {
    "q": "Agglomeration economies arise when",
    "o": [
     "Firms move apart",
-    "Government owns firms",
+    "Firms cluster together",
     "Labour is cheap",
-    "Firms cluster together"
+    "Government owns firms"
    ],
-   "a": 3,
+   "a": 1,
    "w": "Shared suppliers and workers cut costs."
   },
   {
    "q": "Industrial inertia means",
    "o": [
     "Industries shut at once",
-    "Industries stay despite changed conditions",
+    "Industries need no power",
     "Industries follow resources",
-    "Industries need no power"
+    "Industries stay despite changed conditions"
    ],
-   "a": 1,
+   "a": 3,
    "w": "Sunk costs hold them."
   },
   {
    "q": "Vernon's product cycle suggests",
    "o": [
+    "Products never change",
     "Firms follow rivers",
     "Production shifts from rich to poor countries",
-    "Products never change",
     "Markets shrink"
    ],
-   "a": 1,
+   "a": 2,
    "w": "As products mature."
   },
   {
    "q": "Silicon Valley is in",
    "o": [
-    "Texas",
     "Massachusetts",
     "Washington",
-    "California"
+    "California",
+    "Texas"
    ],
-   "a": 3,
+   "a": 2,
    "w": "Home to many technology firms."
   },
   {
    "q": "Aluminium smelters locate near",
    "o": [
-    "Cheap electricity",
-    "Ports only",
     "Coal mines",
-    "Big cities"
+    "Cheap electricity",
+    "Big cities",
+    "Ports only"
    ],
-   "a": 0,
+   "a": 1,
    "w": "Smelting uses huge power."
   },
   {
    "q": "Which region is called the factory of the world?",
    "o": [
-    "Ruhr",
-    "Great Lakes",
     "China's coastal deltas",
-    "Donbas"
+    "Donbas",
+    "Ruhr",
+    "Great Lakes"
    ],
-   "a": 2,
+   "a": 0,
    "w": "The Pearl River and Yangtze deltas."
   },
   {
    "q": "The CHIPS Act (2022) is a",
    "o": [
-    "EU trade deal",
+    "US law boosting chip manufacturing",
     "WTO ruling",
-    "Indian scheme",
-    "US law boosting chip manufacturing"
+    "EU trade deal",
+    "Indian scheme"
    ],
-   "a": 3,
+   "a": 0,
    "w": "It gives subsidies for fabs."
   },
   {
    "q": "Just-in-time production is associated with",
    "o": [
     "Toyota",
+    "Nokia",
     "Ford",
-    "Boeing",
-    "Nokia"
+    "Boeing"
    ],
    "a": 0,
    "w": "It reduces stock-holding costs."
@@ -159,11 +159,11 @@
    "q": "Hotelling's model explains",
    "o": [
     "Raw material pull",
-    "Labour migration",
     "Competing sellers clustering",
+    "Labour migration",
     "Land rent"
    ],
-   "a": 2,
+   "a": 1,
    "w": "Competition leads to clustering in the middle."
   }
  ],

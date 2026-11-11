@@ -54,23 +54,23 @@
   {
    "q": "Where did writing first appear?",
    "o": [
-    "Egypt",
-    "China",
     "Southern Mesopotamia (Sumer)",
-    "The Indus"
+    "China",
+    "The Indus",
+    "Egypt"
    ],
-   "a": 2,
+   "a": 0,
    "w": "Uruk, around 3300 BCE."
   },
   {
    "q": "Cuneiform means...",
    "o": [
-    "Wedge-shaped",
     "Round",
-    "Pictorial",
-    "Holy"
+    "Holy",
+    "Wedge-shaped",
+    "Pictorial"
    ],
-   "a": 0,
+   "a": 2,
    "w": "It was pressed with a reed stylus."
   },
   {
@@ -78,30 +78,30 @@
    "o": [
     "Poems",
     "Laws",
-    "Prayers",
-    "Goods and rations"
+    "Goods and rations",
+    "Prayers"
    ],
-   "a": 3,
+   "a": 2,
    "w": "It began as accounting."
   },
   {
    "q": "A ziggurat was...",
    "o": [
-    "A royal tomb",
     "A temple tower",
+    "A royal tomb",
     "A school",
     "A canal"
    ],
-   "a": 1,
+   "a": 0,
    "w": "A stepped temple platform."
   },
   {
    "q": "The first named author is...",
    "o": [
     "Enheduanna",
-    "Homer",
+    "Gilgamesh",
     "Hammurabi",
-    "Gilgamesh"
+    "Homer"
    ],
    "a": 0,
    "w": "A priestess of Ur, around 2300 BCE."
@@ -109,42 +109,42 @@
   {
    "q": "Who created the Akkadian empire?",
    "o": [
-    "Hammurabi",
-    "Nebuchadnezzar",
     "Cyrus",
-    "Sargon"
+    "Hammurabi",
+    "Sargon",
+    "Nebuchadnezzar"
    ],
-   "a": 3,
+   "a": 2,
    "w": "Around 2334 BCE (traditional date)."
   },
   {
    "q": "The oldest surviving law code is...",
    "o": [
+    "Solon's",
     "Hammurabi's",
     "Ur-Nammu's",
-    "Manu's",
-    "Solon's"
+    "Manu's"
    ],
-   "a": 1,
+   "a": 2,
    "w": "About 2100 BCE."
   },
   {
    "q": "Hammurabi's code is kept in...",
    "o": [
-    "The British Museum",
     "Delhi",
     "The Louvre, Paris",
-    "Cairo"
+    "Cairo",
+    "The British Museum"
    ],
-   "a": 2,
+   "a": 1,
    "w": "The black basalt stele."
   },
   {
    "q": "Meluhha is usually linked to...",
    "o": [
     "Egypt",
-    "Greece",
     "China",
+    "Greece",
     "The Indus Valley"
    ],
    "a": 3,
@@ -153,12 +153,12 @@
   {
    "q": "Gilgamesh was probably...",
    "o": [
+    "A pharaoh",
     "A real king of Uruk",
     "A Greek god",
-    "A pharaoh",
     "A Chinese emperor"
    ],
-   "a": 0,
+   "a": 1,
    "w": "Historians think he was a real ruler, later legendary."
   }
  ],

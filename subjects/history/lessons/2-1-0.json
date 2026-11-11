@@ -59,109 +59,109 @@
   {
    "q": "The Dancing Girl of Mohenjo-daro is made of",
    "o": [
-    "Steatite",
-    "Bronze by lost-wax method",
     "Sandstone",
-    "Terracotta"
+    "Steatite",
+    "Terracotta",
+    "Bronze by lost-wax method"
    ],
-   "a": 1,
+   "a": 3,
    "w": "It is a small bronze figure."
   },
   {
    "q": "The Mauryan polished stone came from",
    "o": [
-    "Chunar",
     "Mathura",
     "Amaravati",
-    "Mahabalipuram"
+    "Mahabalipuram",
+    "Chunar"
    ],
-   "a": 0,
+   "a": 3,
    "w": "Chunar sandstone with a high polish."
   },
   {
    "q": "Gandhara sculpture mainly used",
    "o": [
-    "Red sandstone",
     "White marble",
-    "Granite",
-    "Grey schist"
+    "Red sandstone",
+    "Grey schist",
+    "Granite"
    ],
-   "a": 3,
+   "a": 2,
    "w": "Mathura used spotted red sandstone."
   },
   {
    "q": "Which school shows Greco-Roman influence?",
    "o": [
+    "Sarnath",
     "Mathura",
     "Amaravati",
-    "Gandhara",
-    "Sarnath"
+    "Gandhara"
    ],
-   "a": 2,
+   "a": 3,
    "w": "It developed under the Kushanas."
   },
   {
    "q": "Amaravati sculpture used",
    "o": [
-    "Red sandstone",
     "White marble",
     "Schist",
+    "Red sandstone",
     "Basalt"
    ],
-   "a": 1,
+   "a": 0,
    "w": "Under the Satavahanas."
   },
   {
    "q": "Descent of the Ganga is at",
    "o": [
-    "Mahabalipuram",
     "Ellora",
-    "Elephanta",
-    "Khajuraho"
+    "Khajuraho",
+    "Mahabalipuram",
+    "Elephanta"
    ],
-   "a": 0,
+   "a": 2,
    "w": "Pallava work."
   },
   {
    "q": "Chola bronzes were made by",
    "o": [
-    "Carving from stone",
     "Wood casting",
+    "The lost-wax method",
     "Terracotta firing",
-    "The lost-wax method"
+    "Carving from stone"
    ],
-   "a": 3,
+   "a": 1,
    "w": "Cire perdue method."
   },
   {
    "q": "The dwarf under Nataraja’s foot is",
    "o": [
-    "Kubera",
-    "Nandi",
+    "Garuda",
     "Apasmara",
-    "Garuda"
+    "Kubera",
+    "Nandi"
    ],
-   "a": 2,
+   "a": 1,
    "w": "He stands for ignorance."
   },
   {
    "q": "Pala sculpture used mainly",
    "o": [
     "Red sandstone",
-    "Black basalt and bronze",
+    "Schist",
     "White marble",
-    "Schist"
+    "Black basalt and bronze"
    ],
-   "a": 1,
+   "a": 3,
    "w": "Bengal and Bihar, 8th to 12th century."
   },
   {
    "q": "The first images of the Buddha appear in the",
    "o": [
     "Kushana period",
-    "Mauryan period",
+    "Chola period",
     "Gupta period",
-    "Chola period"
+    "Mauryan period"
    ],
    "a": 0,
    "w": "Mathura and Gandhara."

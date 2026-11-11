@@ -54,10 +54,10 @@
   {
    "q": "The Hijra was in...",
    "o": [
-    "570 CE",
     "750 CE",
+    "1258 CE",
     "622 CE",
-    "1258 CE"
+    "570 CE"
    ],
    "a": 2,
    "w": "Muhammad's move to Medina."
@@ -65,12 +65,12 @@
   {
    "q": "Umayyad capital...",
    "o": [
-    "Damascus",
     "Baghdad",
+    "Mecca",
     "Cairo",
-    "Mecca"
+    "Damascus"
    ],
-   "a": 0,
+   "a": 3,
    "w": "661-750."
   },
   {
@@ -87,78 +87,78 @@
   {
    "q": "Which scholar's name gives 'algorithm'?",
    "o": [
+    "Al-Biruni",
     "Ibn al-Haytham",
-    "Al-Khwarizmi",
     "Al-Razi",
-    "Al-Biruni"
+    "Al-Khwarizmi"
    ],
-   "a": 1,
+   "a": 3,
    "w": "His name was Latinised."
   },
   {
    "q": "'Algebra' comes from...",
    "o": [
+    "al-sifr",
     "al-jabr",
     "al-ghazal",
-    "al-qanun",
-    "al-sifr"
+    "al-qanun"
    ],
-   "a": 0,
+   "a": 1,
    "w": "From his book title."
   },
   {
    "q": "Ibn al-Haytham worked mostly on...",
    "o": [
-    "Poetry",
+    "Optics",
     "Navigation",
-    "Law",
-    "Optics"
+    "Poetry",
+    "Law"
    ],
-   "a": 3,
+   "a": 0,
    "w": "Book of Optics."
   },
   {
    "q": "Baghdad fell to the Mongols in...",
    "o": [
     "1453",
+    "751",
     "1258",
-    "1099",
-    "751"
+    "1099"
    ],
-   "a": 1,
+   "a": 2,
    "w": "Hulagu's army."
   },
   {
    "q": "Muhammad bin Qasim took...",
    "o": [
-    "Bengal",
+    "Kashmir",
     "Gujarat",
-    "Sindh",
-    "Kashmir"
+    "Bengal",
+    "Sindh"
    ],
-   "a": 2,
+   "a": 3,
    "w": "In 711."
   },
   {
    "q": "'Arabic' numerals came from...",
    "o": [
+    "India",
     "Greece",
     "China",
-    "Rome",
-    "India"
+    "Rome"
    ],
-   "a": 3,
+   "a": 0,
    "w": "Via Arabic books."
   },
   {
    "q": "A surviving Umayyad prince founded a state in...",
    "o": [
-    "Spain",
-    "Egypt",
     "Iran",
-    "India"
+    "India",
+    "Egypt",
+    "Spain"
    ],
-   "a": 0,
+   "a": 3,
    "w": "Al-Andalus."
   }
  ],

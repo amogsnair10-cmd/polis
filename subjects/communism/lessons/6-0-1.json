@@ -54,19 +54,19 @@
   {
    "q": "The Open Society and Its Enemies was published in",
    "o": [
-    "1957",
     "1951",
-    "1989",
-    "1945"
+    "1945",
+    "1957",
+    "1989"
    ],
-   "a": 3,
+   "a": 1,
    "w": "Popper."
   },
   {
    "q": "Popper accused Marxism of",
    "o": [
-    "Idealism",
     "Pacifism",
+    "Idealism",
     "Anarchism",
     "Historicism and unfalsifiability"
    ],
@@ -76,41 +76,41 @@
   {
    "q": "Berlin's Two Concepts of Liberty dates from",
    "o": [
-    "1945",
     "1958",
+    "1991",
     "1974",
-    "1991"
+    "1945"
    ],
-   "a": 1,
+   "a": 0,
    "w": "Inaugural lecture."
   },
   {
    "q": "Positive liberty means",
    "o": [
-    "Self-mastery and realising one's true self",
-    "Freedom from interference",
+    "Property rights",
     "Voting only",
-    "Property rights"
+    "Self-mastery and realising one's true self",
+    "Freedom from interference"
    ],
-   "a": 0,
+   "a": 2,
    "w": "Danger of coercion."
   },
   {
    "q": "The Origins of Totalitarianism is by",
    "o": [
+    "Hayek",
     "Arendt",
     "Popper",
-    "Berlin",
-    "Hayek"
+    "Berlin"
    ],
-   "a": 0,
+   "a": 1,
    "w": "1951."
   },
   {
    "q": "Arendt's totalitarianism relies on",
    "o": [
-    "Free elections",
     "Markets",
+    "Free elections",
     "Terror and ideology",
     "Independent courts"
    ],
@@ -120,10 +120,10 @@
   {
    "q": "Popper's alternative to utopian engineering is",
    "o": [
-    "Revolution",
+    "Planning",
     "Piecemeal social engineering",
-    "Anarchy",
-    "Planning"
+    "Revolution",
+    "Anarchy"
    ],
    "a": 1,
    "w": "Small reforms."
@@ -131,10 +131,10 @@
   {
    "q": "The Congress for Cultural Freedom was funded by",
    "o": [
-    "The Soviet Union",
-    "The CIA",
     "The UN",
-    "Oxford"
+    "The CIA",
+    "Oxford",
+    "The Soviet Union"
    ],
    "a": 1,
    "w": "Revealed in 1967."
@@ -142,23 +142,23 @@
   {
    "q": "Ambedkar's warning against hero-worship was in",
    "o": [
+    "1956 conversion speech",
     "Annihilation of Caste 1936",
-    "25 Nov 1949 speech",
     "Who Were the Shudras 1946",
-    "1956 conversion speech"
+    "25 Nov 1949 speech"
    ],
-   "a": 1,
+   "a": 3,
    "w": "Constituent Assembly."
   },
   {
    "q": "Which Indian party was founded in 1959 with liberal economic ideas?",
    "o": [
-    "Jana Sangh",
     "CPI",
-    "Swatantra Party",
-    "Praja Socialist Party"
+    "Praja Socialist Party",
+    "Jana Sangh",
+    "Swatantra Party"
    ],
-   "a": 2,
+   "a": 3,
    "w": "C. Rajagopalachari and Minoo Masani."
   }
  ],

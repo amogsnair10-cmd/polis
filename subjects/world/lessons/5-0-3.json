@@ -54,21 +54,21 @@
   {
    "q": "Napoleon was born in...",
    "o": [
-    "Paris",
-    "Egypt",
+    "Italy",
     "Corsica",
-    "Italy"
+    "Paris",
+    "Egypt"
    ],
-   "a": 2,
+   "a": 1,
    "w": "1769."
   },
   {
    "q": "He became emperor in...",
    "o": [
     "1804",
-    "1799",
+    "1789",
     "1815",
-    "1789"
+    "1799"
    ],
    "a": 0,
    "w": "Crowned himself."
@@ -76,34 +76,34 @@
   {
    "q": "The Napoleonic Code gave...",
    "o": [
-    "Absolute monarchy",
-    "Free trade",
     "The vote to all",
-    "Equality before law, but limited women's rights"
+    "Equality before law, but limited women's rights",
+    "Free trade",
+    "Absolute monarchy"
    ],
-   "a": 3,
+   "a": 1,
    "w": "1804."
   },
   {
    "q": "Austerlitz was in...",
    "o": [
     "1812",
+    "1798",
     "1805",
-    "1815",
-    "1798"
+    "1815"
    ],
-   "a": 1,
+   "a": 2,
    "w": "Against Austria and Russia."
   },
   {
    "q": "Trafalgar was won by...",
    "o": [
+    "Blucher",
     "Nelson",
     "Wellington",
-    "Blucher",
     "Cornwallis"
    ],
-   "a": 0,
+   "a": 1,
    "w": "1805."
   },
   {
@@ -120,45 +120,45 @@
   {
    "q": "Waterloo was fought on...",
    "o": [
+    "14 July 1789",
     "2 Dec 1805",
     "18 June 1815",
-    "14 July 1789",
     "1 Jan 1804"
    ],
-   "a": 1,
+   "a": 2,
    "w": "Wellington and Blucher."
   },
   {
    "q": "Napoleon died on...",
    "o": [
-    "Elba",
     "Corsica",
     "St Helena",
-    "Paris"
+    "Paris",
+    "Elba"
    ],
-   "a": 2,
+   "a": 1,
    "w": "1821."
   },
   {
    "q": "Napoleon's height was...",
    "o": [
-    "Very short",
     "Over 6 feet",
-    "Unknown",
-    "About average for his time"
+    "Very short",
+    "About average for his time",
+    "Unknown"
    ],
-   "a": 3,
+   "a": 2,
    "w": "Myth arises from unit confusion."
   },
   {
    "q": "Napoleon wrote offering help to which Indian ruler in 1798?",
    "o": [
-    "Tipu Sultan",
-    "Ranjit Singh",
+    "Peshwa Baji Rao II",
     "Shah Alam II",
-    "Peshwa Baji Rao II"
+    "Tipu Sultan",
+    "Ranjit Singh"
    ],
-   "a": 0,
+   "a": 2,
    "w": "He wrote from Egypt."
   }
  ],

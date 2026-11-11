@@ -59,31 +59,31 @@
   {
    "q": "The Instrument of Accession covered",
    "o": [
-    "All subjects",
     "Only revenue",
-    "Defence, external affairs and communications",
-    "Education and health"
+    "All subjects",
+    "Education and health",
+    "Defence, external affairs and communications"
    ],
-   "a": 2,
+   "a": 3,
    "w": "Three subjects only."
   },
   {
    "q": "Who was the secretary of the States Department?",
    "o": [
+    "Nehru",
     "Mountbatten",
-    "V. P. Menon",
     "Radcliffe",
-    "Nehru"
+    "V. P. Menon"
    ],
-   "a": 1,
+   "a": 3,
    "w": "He worked with Patel."
   },
   {
    "q": "Operation Polo of 1948 was in",
    "o": [
     "Hyderabad",
-    "Junagadh",
     "Goa",
+    "Junagadh",
     "Kashmir"
    ],
    "a": 0,
@@ -92,8 +92,8 @@
   {
    "q": "Goa was liberated by India in",
    "o": [
-    "1947",
     "1954",
+    "1947",
     "1975",
     "1961"
    ],
@@ -114,10 +114,10 @@
   {
    "q": "The States Reorganisation Commission was headed by",
    "o": [
-    "Dhar",
+    "Panikkar",
     "Fazl Ali",
-    "Patel",
-    "Panikkar"
+    "Dhar",
+    "Patel"
    ],
    "a": 1,
    "w": "Members Panikkar and Kunzru."
@@ -126,9 +126,9 @@
    "q": "The States Reorganisation Act was passed in",
    "o": [
     "1956",
-    "1950",
     "1953",
-    "1966"
+    "1966",
+    "1950"
    ],
    "a": 0,
    "w": "14 states and 6 UTs."
@@ -136,12 +136,12 @@
   {
    "q": "Articles 2 to 4 let Parliament",
    "o": [
-    "Amend the Constitution only by two-thirds",
+    "Create new states by a simple majority",
     "Dissolve a state by a referendum",
-    "Redraw states only with their consent",
-    "Create new states by a simple majority"
+    "Amend the Constitution only by two-thirds",
+    "Redraw states only with their consent"
    ],
-   "a": 3,
+   "a": 0,
    "w": "It is not an Article 368 amendment."
   },
   {
@@ -149,21 +149,21 @@
    "o": [
     "1950",
     "1966",
-    "1975",
-    "1987"
+    "1987",
+    "1975"
    ],
-   "a": 2,
+   "a": 3,
    "w": "36th Amendment."
   },
   {
    "q": "Telangana was formed in",
    "o": [
-    "2000",
-    "2014",
+    "2019",
     "2004",
-    "2019"
+    "2000",
+    "2014"
    ],
-   "a": 1,
+   "a": 3,
    "w": "Out of Andhra Pradesh."
   }
  ],

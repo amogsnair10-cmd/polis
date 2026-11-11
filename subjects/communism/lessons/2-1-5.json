@@ -56,52 +56,52 @@
    "o": [
     "13 August 1961",
     "25 December 1991",
-    "3 October 1990",
-    "9 November 1989"
+    "9 November 1989",
+    "3 October 1990"
    ],
-   "a": 3,
+   "a": 2,
    "w": "East German border opening."
   },
   {
    "q": "The Belovezha Accords were signed in",
    "o": [
-    "August 1991",
-    "1989",
     "December 1991",
-    "1993"
+    "1993",
+    "1989",
+    "August 1991"
    ],
-   "a": 2,
+   "a": 0,
    "w": "By Russia, Ukraine, Belarus."
   },
   {
    "q": "Kornai's concept explaining weak firm incentives is",
    "o": [
+    "Permanent revolution",
     "The soft budget constraint",
-    "Surplus value",
     "Hegemony",
-    "Permanent revolution"
+    "Surplus value"
    ],
-   "a": 0,
+   "a": 1,
    "w": "State bailouts."
   },
   {
    "q": "Which Eastern European movement won the June 1989 election?",
    "o": [
+    "Hungarian Democratic Forum",
     "Charter 77",
     "Civic Forum",
-    "Solidarity",
-    "Hungarian Democratic Forum"
+    "Solidarity"
    ],
-   "a": 2,
+   "a": 3,
    "w": "In Poland."
   },
   {
    "q": "Archie Brown's view stresses",
    "o": [
     "Gorbachev's choices",
-    "Reagan's arms race",
+    "Chernobyl only",
     "Oil only",
-    "Chernobyl only"
+    "Reagan's arms race"
    ],
    "a": 0,
    "w": "Agency over structure."
@@ -109,34 +109,34 @@
   {
    "q": "The Afghan war lasted",
    "o": [
-    "1968-72",
-    "1985-95",
+    "1979-89",
     "1956-60",
-    "1979-89"
+    "1985-95",
+    "1968-72"
    ],
-   "a": 3,
+   "a": 0,
    "w": "Soviet withdrawal 1989."
   },
   {
    "q": "Male life expectancy in Russia fell in the 1990s to about",
    "o": [
-    "57-58",
     "72",
+    "57-58",
     "65",
     "50"
    ],
-   "a": 0,
+   "a": 1,
    "w": "Around 1994."
   },
   {
    "q": "Which author wrote Armageddon Averted (2001)?",
    "o": [
-    "Stephen Kotkin",
-    "Archie Brown",
+    "Kornai",
     "Richard Pipes",
-    "Kornai"
+    "Stephen Kotkin",
+    "Archie Brown"
    ],
-   "a": 0,
+   "a": 2,
    "w": "On the Soviet collapse."
   },
   {
@@ -154,9 +154,9 @@
    "q": "Which was a key national-republic factor in 1991?",
    "o": [
     "Ukraine's independence vote",
+    "Swedish treaty",
     "Tatar revolt",
-    "Cuban crisis",
-    "Swedish treaty"
+    "Cuban crisis"
    ],
    "a": 0,
    "w": "Over 90% in the 1 December referendum."

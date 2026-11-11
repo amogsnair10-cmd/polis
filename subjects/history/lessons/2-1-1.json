@@ -59,23 +59,23 @@
   {
    "q": "Bhimbetka rock paintings are in",
    "o": [
-    "Maharashtra",
+    "Rajasthan",
     "Odisha",
-    "Madhya Pradesh",
-    "Rajasthan"
+    "Maharashtra",
+    "Madhya Pradesh"
    ],
-   "a": 2,
+   "a": 3,
    "w": "A UNESCO World Heritage Site."
   },
   {
    "q": "Ajanta paintings belong to",
    "o": [
-    "Jain legends only",
-    "Buddhist themes, including Jataka tales",
     "Islamic themes",
-    "Colonial subjects"
+    "Jain legends only",
+    "Colonial subjects",
+    "Buddhist themes, including Jataka tales"
    ],
-   "a": 1,
+   "a": 3,
    "w": "They are cave murals."
   },
   {
@@ -92,78 +92,78 @@
   {
    "q": "Ustad Mansur was famous for",
    "o": [
-    "Durbar scenes",
     "Ragamala",
-    "Calligraphy",
-    "Birds and flowers under Jahangir"
+    "Durbar scenes",
+    "Birds and flowers under Jahangir",
+    "Calligraphy"
    ],
-   "a": 3,
+   "a": 2,
    "w": "Jahangir’s court naturalist painter."
   },
   {
    "q": "Bani Thani is associated with",
    "o": [
+    "Mewar school",
     "Kangra school",
     "Basohli school",
-    "Kishangarh school",
-    "Mewar school"
+    "Kishangarh school"
    ],
-   "a": 2,
+   "a": 3,
    "w": "Painted by Nihal Chand."
   },
   {
    "q": "Kangra painting belongs to the",
    "o": [
-    "Rajasthani school",
-    "Pahari school",
+    "Deccani school",
     "Mughal school",
-    "Deccani school"
+    "Rajasthani school",
+    "Pahari school"
    ],
-   "a": 1,
+   "a": 3,
    "w": "Lyrical Radha-Krishna themes."
   },
   {
    "q": "Who painted Bharat Mata, 1905?",
    "o": [
-    "Abanindranath Tagore",
     "Raja Ravi Varma",
+    "Abanindranath Tagore",
     "Nandalal Bose",
     "Amrita Sher-Gil"
    ],
-   "a": 0,
+   "a": 1,
    "w": "Bengal School."
   },
   {
    "q": "Warli painting is from",
    "o": [
-    "Bihar",
     "Odisha",
     "Andhra Pradesh",
-    "Maharashtra"
+    "Maharashtra",
+    "Bihar"
    ],
-   "a": 3,
+   "a": 2,
    "w": "Geometric forms on mud walls."
   },
   {
    "q": "The Company School of painting was",
    "o": [
-    "Rajput court painting",
     "A Mughal court style",
-    "Painting by Indian artists for British patrons",
-    "Cave mural art"
+    "Cave mural art",
+    "Rajput court painting",
+    "Painting by Indian artists for British patrons"
    ],
-   "a": 2,
+   "a": 3,
    "w": "Natural history and local life."
   },
   {
    "q": "Who illustrated the original Constitution of India?",
    "o": [
-    "Raja Ravi Varma",
     "Nandalal Bose and his students",
-    "M. F. Husain",
-    "Abanindranath Tagore"
+    "Abanindranath Tagore",
+    "Raja Ravi Varma",
+    "M. F. Husain"
    ],
-   "a": 1,
+   "a": 0,
    "w": "Santiniketan artists, with Beohar Rammanohar Sinha."
   }
  ],

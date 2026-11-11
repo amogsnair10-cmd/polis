@@ -59,10 +59,10 @@
   {
    "q": "The fluid mosaic model was proposed in:",
    "o": [
-    "1890",
+    "1925",
     "1972",
     "1953",
-    "1925"
+    "1890"
    ],
    "a": 1,
    "w": "Singer and Nicolson, 1972."
@@ -71,9 +71,9 @@
    "q": "Phospholipid tails are:",
    "o": [
     "Water-fearing",
-    "Charged",
     "Protein",
-    "Water-loving"
+    "Water-loving",
+    "Charged"
    ],
    "a": 0,
    "w": "Hydrophobic."
@@ -81,9 +81,9 @@
   {
    "q": "Osmosis is the movement of:",
    "o": [
+    "Glucose",
     "Protein",
     "Salt",
-    "Glucose",
     "Water"
    ],
    "a": 3,
@@ -94,8 +94,8 @@
    "o": [
     "Against gradient using ATP",
     "Down gradient",
-    "Only into cell",
-    "Without protein"
+    "Without protein",
+    "Only into cell"
    ],
    "a": 0,
    "w": "Active transport."
@@ -114,9 +114,9 @@
   {
    "q": "Aquaporins were linked to which Nobel winner?",
    "o": [
-    "Overton",
-    "Singer",
     "Skou",
+    "Singer",
+    "Overton",
     "Agre"
    ],
    "a": 3,
@@ -126,8 +126,8 @@
    "q": "Phagocytosis is:",
    "o": [
     "Drinking",
-    "Diffusion",
     "Exocytosis",
+    "Diffusion",
     "Cell eating by endocytosis"
    ],
    "a": 3,
@@ -136,10 +136,10 @@
   {
    "q": "Gorter and Grendel's 1925 result suggested:",
    "o": [
-    "Protein wall",
+    "No lipid",
     "A bilayer",
-    "A single layer",
-    "No lipid"
+    "Protein wall",
+    "A single layer"
    ],
    "a": 1,
    "w": "Lipids covered cells twice."
@@ -148,9 +148,9 @@
    "q": "ORS works because glucose helps:",
    "o": [
     "Sodium absorption, then water follows",
+    "Make fat",
     "Raise pH",
-    "Kill bacteria",
-    "Make fat"
+    "Kill bacteria"
    ],
    "a": 0,
    "w": "Co-transport."
@@ -159,9 +159,9 @@
    "q": "Facilitated diffusion needs:",
    "o": [
     "Carrier or channel proteins, no ATP",
-    "A nucleus",
     "Heat",
-    "ATP"
+    "ATP",
+    "A nucleus"
    ],
    "a": 0,
    "w": "Passive via proteins."

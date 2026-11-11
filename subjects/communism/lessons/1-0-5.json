@@ -54,45 +54,45 @@
   {
    "q": "Engels's first major book (1845) concerned",
    "o": [
-    "The Origin of the Family",
     "The Condition of the Working Class in England",
-    "Anti-Dühring",
-    "Capital"
+    "Capital",
+    "The Origin of the Family",
+    "Anti-Dühring"
    ],
-   "a": 1,
+   "a": 0,
    "w": "Written in Manchester."
   },
   {
    "q": "The Origin of the Family was published in",
    "o": [
-    "1845",
     "1867",
+    "1884",
     "1895",
-    "1884"
+    "1845"
    ],
-   "a": 3,
+   "a": 1,
    "w": "Based on Morgan."
   },
   {
    "q": "Engels drew on which anthropologist?",
    "o": [
-    "Lewis Henry Morgan",
     "Franz Boas",
+    "Lewis Henry Morgan",
     "Malinowski",
     "Levi-Strauss"
    ],
-   "a": 0,
+   "a": 1,
    "w": "Ancient Society (1877)."
   },
   {
    "q": "Dialectics of Nature was published",
    "o": [
-    "1878",
-    "1848",
+    "1925, posthumously",
     "1895",
-    "1925, posthumously"
+    "1878",
+    "1848"
    ],
-   "a": 3,
+   "a": 0,
    "w": "An unfinished manuscript."
   },
   {
@@ -109,10 +109,10 @@
   {
    "q": "Lysenko's influence in the USSR damaged",
    "o": [
+    "Education law",
     "Steel output",
-    "Railway planning",
     "Genetics and agriculture",
-    "Education law"
+    "Railway planning"
    ],
    "a": 2,
    "w": "Under Stalin."
@@ -121,9 +121,9 @@
    "q": "Engels's 1895 introduction is often cited by",
    "o": [
     "Revisionists",
-    "Trotskyists",
+    "Anarchists",
     "Maoists",
-    "Anarchists"
+    "Trotskyists"
    ],
    "a": 0,
    "w": "For its support of electoral politics."
@@ -131,34 +131,34 @@
   {
    "q": "Engels described the monogamous family's rise as",
    "o": [
-    "The world-historical defeat of the female sex",
+    "Proletarian victory",
     "A natural advance",
     "A liberal myth",
-    "Proletarian victory"
+    "The world-historical defeat of the female sex"
    ],
-   "a": 0,
+   "a": 3,
    "w": "Origin, 1884."
   },
   {
    "q": "Who wrote India Today (1940)?",
    "o": [
-    "M.N. Roy",
     "Rajani Palme Dutt",
-    "Ambedkar",
-    "A.K. Gopalan"
+    "A.K. Gopalan",
+    "M.N. Roy",
+    "Ambedkar"
    ],
-   "a": 1,
+   "a": 0,
    "w": "A Marxist analysis of British rule."
   },
   {
    "q": "Which Engels work labelled socialism \"scientific\"?",
    "o": [
-    "Condition of the Working Class",
-    "Dialectics of Nature",
     "Origin",
-    "Socialism: Utopian and Scientific (1880)"
+    "Dialectics of Nature",
+    "Socialism: Utopian and Scientific (1880)",
+    "Condition of the Working Class"
    ],
-   "a": 3,
+   "a": 2,
    "w": "Taken from three chapters of Anti-Dühring."
   }
  ],

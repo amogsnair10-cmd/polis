@@ -59,20 +59,20 @@
   {
    "q": "Our Common Future was published in:",
    "o": [
-    "1992",
     "1987",
+    "1992",
     "1972",
     "2015"
    ],
-   "a": 1,
+   "a": 0,
    "w": "By the Brundtland Commission."
   },
   {
    "q": "How many SDGs are there?",
    "o": [
     "17",
-    "8",
     "12",
+    "8",
     "15"
    ],
    "a": 0,
@@ -81,21 +81,21 @@
   {
    "q": "The SDGs were adopted in:",
    "o": [
+    "2015",
     "2012",
     "2000",
-    "1992",
-    "2015"
+    "1992"
    ],
-   "a": 3,
+   "a": 0,
    "w": "They run to 2030."
   },
   {
    "q": "MDGs had how many goals?",
    "o": [
-    "17",
+    "5",
     "10",
     "8",
-    "5"
+    "17"
    ],
    "a": 2,
    "w": "They covered 2000–2015."
@@ -103,10 +103,10 @@
   {
    "q": "Agenda 21 came out of:",
    "o": [
-    "Stockholm 1972",
-    "Rio 1992",
     "Johannesburg 2002",
-    "Paris 2015"
+    "Rio 1992",
+    "Paris 2015",
+    "Stockholm 1972"
    ],
    "a": 1,
    "w": "The Earth Summit."
@@ -114,56 +114,56 @@
   {
    "q": "UNEP was created after:",
    "o": [
-    "Stockholm 1972",
+    "Montreal 1987",
     "Rio 1992",
-    "Kyoto 1997",
-    "Montreal 1987"
+    "Stockholm 1972",
+    "Kyoto 1997"
    ],
-   "a": 0,
+   "a": 2,
    "w": "The first UN environment conference."
   },
   {
    "q": "Planetary boundaries were proposed by:",
    "o": [
     "Brundtland",
+    "Rockström and colleagues",
     "Raworth",
-    "Haeckel",
-    "Rockström and colleagues"
+    "Haeckel"
    ],
-   "a": 3,
+   "a": 1,
    "w": "In 2009."
   },
   {
    "q": "Doughnut economics is associated with:",
    "o": [
-    "Gro Brundtland",
-    "Herman Daly",
     "Kate Raworth",
-    "Amartya Sen"
+    "Herman Daly",
+    "Amartya Sen",
+    "Gro Brundtland"
    ],
-   "a": 2,
+   "a": 0,
    "w": "2017 book."
   },
   {
    "q": "SDG 13 deals with:",
    "o": [
-    "Clean water",
     "Climate action",
+    "Clean energy",
     "Life on land",
-    "Clean energy"
+    "Clean water"
    ],
-   "a": 1,
+   "a": 0,
    "w": "SDG 6 is water, 7 energy, 15 land."
   },
   {
    "q": "SDG India Index is published by:",
    "o": [
-    "NITI Aayog",
     "MoEFCC",
-    "Finance Commission",
-    "RBI"
+    "NITI Aayog",
+    "RBI",
+    "Finance Commission"
    ],
-   "a": 0,
+   "a": 1,
    "w": "It was first launched in 2018."
   }
  ],

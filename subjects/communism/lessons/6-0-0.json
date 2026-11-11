@@ -54,10 +54,10 @@
   {
    "q": "Mises's calculation article was published in",
    "o": [
-    "1944",
     "1936",
+    "1991",
     "1920",
-    "1991"
+    "1944"
    ],
    "a": 2,
    "w": "Vienna."
@@ -65,41 +65,41 @@
   {
    "q": "Hayek's The Use of Knowledge in Society appeared in",
    "o": [
-    "1920",
     "1974",
-    "1936",
-    "1945"
+    "1945",
+    "1920",
+    "1936"
    ],
-   "a": 3,
+   "a": 1,
    "w": "American Economic Review."
   },
   {
    "q": "The Road to Serfdom was published in",
    "o": [
-    "1920",
-    "1991",
     "1944",
-    "1936"
+    "1991",
+    "1936",
+    "1920"
    ],
-   "a": 2,
+   "a": 0,
    "w": "Hayek."
   },
   {
    "q": "Lange proposed",
    "o": [
-    "Market socialism with a Central Planning Board",
     "Abolition of money",
     "Private monopolies",
-    "A Soviet-style plan"
+    "A Soviet-style plan",
+    "Market socialism with a Central Planning Board"
    ],
-   "a": 0,
+   "a": 3,
    "w": "Trial-and-error pricing."
   },
   {
    "q": "Hayek's main point on knowledge is that it is",
    "o": [
-    "Held by the state",
     "Irrelevant",
+    "Held by the state",
     "Dispersed and tacit",
     "Perfect"
    ],
@@ -109,56 +109,56 @@
   {
    "q": "Kornai's key concept is",
    "o": [
-    "Hegemony",
     "Permanent revolution",
-    "Dual power",
-    "The soft budget constraint"
+    "Hegemony",
+    "The soft budget constraint",
+    "Dual power"
    ],
-   "a": 3,
+   "a": 2,
    "w": "Economics of Shortage."
   },
   {
    "q": "The People's Republic of Walmart (2019) argues that",
    "o": [
-    "Planning always fails",
-    "Markets are perfect",
     "Prices are unnecessary",
-    "Large firms show planning can work at scale"
+    "Planning always fails",
+    "Large firms show planning can work at scale",
+    "Markets are perfect"
    ],
-   "a": 3,
+   "a": 2,
    "w": "Phillips and Rozworski."
   },
   {
    "q": "Alec Nove advocated",
    "o": [
-    "Feasible socialism with markets and planning",
+    "Anarchism",
     "Pure capitalism",
-    "War communism",
-    "Anarchism"
+    "Feasible socialism with markets and planning",
+    "War communism"
    ],
-   "a": 0,
+   "a": 2,
    "w": "1983."
   },
   {
    "q": "India's Planning Commission was replaced in",
    "o": [
     "1991",
-    "1951",
     "1969",
-    "2014"
+    "2014",
+    "1951"
    ],
-   "a": 3,
+   "a": 2,
    "w": "By NITI Aayog."
   },
   {
    "q": "Who dissented against the Second Plan's strategy in 1955?",
    "o": [
-    "B.R. Shenoy",
-    "Mahalanobis",
     "Nehru",
-    "Chakravarty"
+    "Mahalanobis",
+    "Chakravarty",
+    "B.R. Shenoy"
    ],
-   "a": 0,
+   "a": 3,
    "w": "Dissent note."
   }
  ],

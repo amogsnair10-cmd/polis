@@ -54,10 +54,10 @@
   {
    "q": "The Subsidiary Alliance system is associated with",
    "o": [
-    "Lord Cornwallis",
     "Lord Dalhousie",
+    "Lord Hastings",
     "Lord Wellesley",
-    "Lord Hastings"
+    "Lord Cornwallis"
    ],
    "a": 2,
    "w": "Wellesley made it his main tool of expansion."
@@ -66,30 +66,30 @@
    "q": "The first Indian state to accept the Subsidiary Alliance was",
    "o": [
     "Mysore",
-    "Hyderabad",
+    "Tanjore",
     "Awadh",
-    "Tanjore"
+    "Hyderabad"
    ],
-   "a": 1,
+   "a": 3,
    "w": "The Nizam signed in 1798."
   },
   {
    "q": "Tipu Sultan died in the fourth Mysore War in",
    "o": [
-    "1799",
     "1792",
     "1784",
-    "1767"
+    "1767",
+    "1799"
    ],
-   "a": 0,
+   "a": 3,
    "w": "He fell at Seringapatam in 1799."
   },
   {
    "q": "The Treaty of Bassein (1802) was signed by",
    "o": [
+    "Raghuji Bhonsle",
     "Daulat Rao Scindia",
     "Holkar",
-    "Raghuji Bhonsle",
     "Peshwa Baji Rao II"
    ],
    "a": 3,
@@ -98,42 +98,42 @@
   {
    "q": "The Doctrine of Lapse was applied by",
    "o": [
-    "Wellesley",
-    "Canning",
+    "Bentinck",
     "Dalhousie",
-    "Bentinck"
+    "Wellesley",
+    "Canning"
    ],
-   "a": 2,
+   "a": 1,
    "w": "Dalhousie used it between 1848 and 1856."
   },
   {
    "q": "Which state was annexed in 1856 on grounds of misgovernment?",
    "o": [
-    "Satara",
     "Awadh",
     "Jhansi",
+    "Satara",
     "Nagpur"
    ],
-   "a": 1,
+   "a": 0,
    "w": "Awadh was annexed by Dalhousie on the Nawab’s alleged misrule."
   },
   {
    "q": "The Punjab was annexed in",
    "o": [
-    "1849",
     "1843",
-    "1856",
-    "1839"
+    "1839",
+    "1849",
+    "1856"
    ],
-   "a": 0,
+   "a": 2,
    "w": "After the Second Anglo-Sikh War."
   },
   {
    "q": "The Treaty of Amritsar (1809) was between",
    "o": [
-    "Tipu and the English",
-    "Peshwa and the English",
     "Mir Qasim and the English",
+    "Peshwa and the English",
+    "Tipu and the English",
     "Ranjit Singh and the English"
    ],
    "a": 3,
@@ -142,23 +142,23 @@
   {
    "q": "Sindh was conquered in 1843 by",
    "o": [
+    "Charles Napier",
     "Eyre Coote",
     "Hector Munro",
-    "Charles Napier",
     "Robert Clive"
    ],
-   "a": 2,
+   "a": 0,
    "w": "Napier’s Sindh campaign was under Ellenborough."
   },
   {
    "q": "The Third Anglo-Maratha War ended the rule of",
    "o": [
-    "Ranjit Singh",
-    "Peshwa Baji Rao II",
     "Tipu Sultan",
-    "Shah Alam II"
+    "Shah Alam II",
+    "Ranjit Singh",
+    "Peshwa Baji Rao II"
    ],
-   "a": 1,
+   "a": 3,
    "w": "He surrendered in 1818 and was pensioned at Bithur."
   }
  ],

@@ -54,31 +54,31 @@
   {
    "q": "Mali was founded by...",
    "o": [
-    "Mansa Musa",
-    "Askia Muhammad",
+    "Ibn Battuta",
     "Sundiata Keita",
-    "Ibn Battuta"
+    "Askia Muhammad",
+    "Mansa Musa"
    ],
-   "a": 2,
+   "a": 1,
    "w": "After Kirina."
   },
   {
    "q": "Musa's Hajj was in...",
    "o": [
-    "1324",
     "1235",
+    "1492",
     "1591",
-    "1492"
+    "1324"
    ],
-   "a": 0,
+   "a": 3,
    "w": "Passing through Cairo."
   },
   {
    "q": "Which famous mosque is in Timbuktu?",
    "o": [
-    "Hagia Sophia",
-    "Jama Masjid",
     "Al-Azhar",
+    "Jama Masjid",
+    "Hagia Sophia",
     "Djinguereber"
    ],
    "a": 3,
@@ -87,31 +87,31 @@
   {
    "q": "The Catalan Atlas is from...",
    "o": [
-    "1324",
-    "1375",
     "1591",
-    "1235"
+    "1235",
+    "1375",
+    "1324"
    ],
-   "a": 1,
+   "a": 2,
    "w": "It shows Mali's ruler."
   },
   {
    "q": "Who traded gold for salt?",
    "o": [
-    "West Africa and the Sahara",
-    "India and China",
     "Rome and Greece",
-    "Mexico and Peru"
+    "Mexico and Peru",
+    "India and China",
+    "West Africa and the Sahara"
    ],
-   "a": 0,
+   "a": 3,
    "w": "Trans-Saharan trade."
   },
   {
    "q": "Which writer said gold stayed cheap in Cairo?",
    "o": [
-    "Ibn Battuta",
-    "Herodotus",
     "Marco Polo",
+    "Herodotus",
+    "Ibn Battuta",
     "Al-Umari"
    ],
    "a": 3,
@@ -120,10 +120,10 @@
   {
    "q": "Songhai was ruled by...",
    "o": [
-    "Sundiata",
-    "Askia Muhammad",
     "Musa",
-    "Rollo"
+    "Askia Muhammad",
+    "Rollo",
+    "Sundiata"
    ],
    "a": 1,
    "w": "Capital at Gao."
@@ -132,33 +132,33 @@
    "q": "Ibn Battuta served in...",
    "o": [
     "Cairo",
-    "Baghdad",
     "Delhi",
+    "Baghdad",
     "Kyiv"
    ],
-   "a": 2,
+   "a": 1,
    "w": "Under Muhammad bin Tughluq."
   },
   {
    "q": "Musa's wealth in modern dollars...",
    "o": [
-    "Is exactly known",
-    "Was $100",
     "Is in the Quran",
-    "Cannot be reliably calculated"
+    "Is exactly known",
+    "Cannot be reliably calculated",
+    "Was $100"
    ],
-   "a": 3,
+   "a": 2,
    "w": "Sources are limited."
   },
   {
    "q": "Songhai fell to...",
    "o": [
-    "Morocco in 1591",
     "Portugal in 1500",
+    "Morocco in 1591",
     "Mongols",
     "Rome"
    ],
-   "a": 0,
+   "a": 1,
    "w": "With guns."
   }
  ],

@@ -59,109 +59,109 @@
   {
    "q": "UNCCD was adopted in:",
    "o": [
-    "1992",
-    "1994",
     "1971",
-    "2015"
+    "1992",
+    "2015",
+    "1994"
    ],
-   "a": 1,
+   "a": 3,
    "w": "It came into force in 1996."
   },
   {
    "q": "India hosted UNCCD COP14 in:",
    "o": [
-    "2019",
     "2010",
     "2024",
-    "2015"
+    "2015",
+    "2019"
    ],
-   "a": 0,
+   "a": 3,
    "w": "Held at Greater Noida."
   },
   {
    "q": "How much of India’s land is degraded (SAC-ISRO atlas 2018–19)?",
    "o": [
-    "About 5 percent",
     "About 60 percent",
-    "About 15 percent",
-    "About 30 percent"
+    "About 5 percent",
+    "About 30 percent",
+    "About 15 percent"
    ],
-   "a": 3,
+   "a": 2,
    "w": "About 97.85 million hectares."
   },
   {
    "q": "The Forest Conservation Act was passed in:",
    "o": [
+    "2006",
     "1972",
     "1986",
-    "1980",
-    "2006"
+    "1980"
    ],
-   "a": 2,
+   "a": 3,
    "w": "It was amended in 2023."
   },
   {
    "q": "The Forest Rights Act was passed in:",
    "o": [
-    "1980",
     "2006",
     "2002",
+    "1980",
     "2016"
    ],
-   "a": 1,
+   "a": 0,
    "w": "It recognises forest rights of tribal and other dwellers."
   },
   {
    "q": "India’s Bonn Challenge restoration pledge by 2030 is:",
    "o": [
-    "26 million hectares",
     "10 million hectares",
-    "50 million hectares",
-    "3 million hectares"
+    "3 million hectares",
+    "26 million hectares",
+    "50 million hectares"
    ],
-   "a": 0,
+   "a": 2,
    "w": "Also linked to a 2.5–3 billion tonne carbon sink."
   },
   {
    "q": "CAMPA Act was enacted in:",
    "o": [
-    "2006",
     "1996",
+    "2016",
     "2023",
-    "2016"
+    "2006"
    ],
-   "a": 3,
+   "a": 1,
    "w": "It governs funds for compensatory afforestation."
   },
   {
    "q": "Which case widened the meaning of forest?",
    "o": [
-    "Vellore Citizens",
-    "Oleum Gas leak",
+    "M.K. Ranjitsinh",
     "T.N. Godavarman Thirumulpad",
-    "M.K. Ranjitsinh"
+    "Vellore Citizens",
+    "Oleum Gas leak"
    ],
-   "a": 2,
+   "a": 1,
    "w": "The 1996 order used the dictionary meaning."
   },
   {
    "q": "Desertification relates to:",
    "o": [
     "Sand dunes only",
-    "Dry areas losing productive capacity",
+    "Ocean acidification",
     "Glacier melt",
-    "Ocean acidification"
+    "Dry areas losing productive capacity"
    ],
-   "a": 1,
+   "a": 3,
    "w": "It is degradation in arid and semi-arid zones."
   },
   {
    "q": "The Great Green Wall is an initiative in:",
    "o": [
     "The Sahel in Africa",
-    "Himalaya",
+    "Siberia",
     "The Amazon",
-    "Siberia"
+    "Himalaya"
    ],
    "a": 0,
    "w": "It plants a belt across the Sahel."
