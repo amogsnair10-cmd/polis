@@ -1,0 +1,174 @@
+{
+ "id": "0-1-1",
+ "title": "Molecular Shapes and Intermolecular Forces",
+ "emoji": "🔺",
+ "cards": [
+  {
+   "tag": "Why this matters",
+   "h": "Shape is destiny",
+   "b": "<p>Water is a liquid but CO2 is a gas, though both are small molecules. Ice floats. A key fits one lock. Enzymes bind only the right molecule. All of this comes from molecular <b>shape</b> and the weak forces <b>between</b> molecules.</p>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "VSEPR: electron pairs repel",
+   "b": "<p><b>VSEPR</b> (valence shell electron pair repulsion) says that electron pairs around a central atom spread as far apart as possible, like balloons tied together. The shape follows from counting bonding pairs and lone pairs.</p>"
+  },
+  {
+   "tag": "Key idea",
+   "h": "Common shapes",
+   "b": "<ul><li><b>CO2:</b> linear, 180°. Two bonding groups.</li><li><b>BF3:</b> flat triangle, 120°.</li><li><b>CH4:</b> tetrahedral, about 109.5°. Four bonds.</li><li><b>NH3:</b> pyramidal, about 107°. Three bonds plus one lone pair.</li><li><b>H2O:</b> bent, about 104.5°. Two bonds plus two lone pairs.</li></ul><p>Lone pairs push harder than bonding pairs, squeezing the angles smaller.</p><svg class=\"d\" viewBox=\"0 0 320 136\"><defs><marker id=\"m1\" markerWidth=\"8\" markerHeight=\"8\" refX=\"6\" refY=\"4\" orient=\"auto\"><path d=\"M0,0 L8,4 L0,8 z\" fill=\"#5d6474\"/></marker></defs><rect x=\"20\" y=\"4\" width=\"280\" height=\"30\" rx=\"6\" fill=\"#f1e4c6\" stroke=\"#a8792a\"/><text x=\"160\" y=\"23\" text-anchor=\"middle\" font-size=\"11\" fill=\"#1d2433\">4 bonds, 0 lone pairs: methane 109.5</text><line x1=\"160\" y1=\"34\" x2=\"160\" y2=\"47\" stroke=\"#5d6474\" marker-end=\"url(#m1)\"/><rect x=\"20\" y=\"48\" width=\"280\" height=\"30\" rx=\"6\" fill=\"#f1e4c6\" stroke=\"#a8792a\"/><text x=\"160\" y=\"67\" text-anchor=\"middle\" font-size=\"11\" fill=\"#1d2433\">3 bonds, 1 lone pair: ammonia 107</text><line x1=\"160\" y1=\"78\" x2=\"160\" y2=\"91\" stroke=\"#5d6474\" marker-end=\"url(#m1)\"/><rect x=\"20\" y=\"92\" width=\"280\" height=\"30\" rx=\"6\" fill=\"#f1e4c6\" stroke=\"#a8792a\"/><text x=\"160\" y=\"111\" text-anchor=\"middle\" font-size=\"11\" fill=\"#1d2433\">2 bonds, 2 lone pairs: water 104.5</text></svg>"
+  },
+  {
+   "tag": "Key idea",
+   "h": "Polar molecules",
+   "b": "<p>A molecule is polar if its bond polarities do not cancel. CO2 has two polar C=O bonds, but they point opposite ways and cancel: <b>non-polar</b>. Water is bent, so its polarities add: <b>polar</b>.</p><p>Rule of thumb: like dissolves like. Polar solvents (water) dissolve polar or ionic substances; non-polar solvents (petrol) dissolve oils.</p>"
+  },
+  {
+   "tag": "Key idea",
+   "h": "Forces between molecules",
+   "b": "<p>These are far weaker than bonds but control boiling point and state.</p><ul><li><b>London dispersion forces:</b> brief electron shifts create tiny dipoles. Present in all molecules, stronger with size. Explains why bigger alkanes are liquids.</li><li><b>Dipole-dipole:</b> positive end of one polar molecule attracts negative end of another.</li><li><b>Hydrogen bond:</b> a special strong dipole attraction when H is attached to N, O or F, and meets a lone pair on another N, O or F.</li></ul>"
+  },
+  {
+   "tag": "Key idea",
+   "h": "Why water is strange",
+   "b": "<p>Hydrogen bonds give water a high boiling point (100 °C) compared with H2S (about -60 °C). Water is also densest at about 4 °C; as it freezes, hydrogen bonds lock molecules into an open lattice, so <b>ice is less dense and floats</b>. Lakes freeze from the top, letting fish survive below.</p><p>Hydrogen bonds also hold the two strands of DNA together and give proteins their folded shapes.</p>"
+  },
+  {
+   "tag": "Worked example",
+   "h": "Predict shape and boiling order",
+   "b": "<p>Shape of PH3: phosphorus has 3 bonds and 1 lone pair, like NH3. So <b>pyramidal</b>.</p><p>Shape of CCl4: four bonds, no lone pairs: <b>tetrahedral</b>, and non-polar since the bonds cancel.</p><p>Boiling order of CH4, H2O, HCl: CH4 (only weak dispersion, -162 °C) lowest; HCl (dipole-dipole, -85 °C) middle; H2O (hydrogen bonds, 100 °C) highest.</p>"
+  },
+  {
+   "tag": "Misconceptions",
+   "h": "Careful",
+   "b": "<ul><li><b>Hydrogen bonds are not true bonds</b>; they are attractions between molecules, about a tenth as strong as covalent bonds.</li><li><b>Boiling does not break covalent bonds.</b> Boiling water leaves H2O molecules intact, only separated.</li><li><b>Having polar bonds does not make a molecule polar</b>; shape matters.</li></ul>"
+  },
+  {
+   "tag": "Indian angle",
+   "h": "Ramachandran and protein folding",
+   "b": "<p><b>G.N. Ramachandran</b> (Madras, 1963) worked out which twist angles are allowed in protein chains, drawn as the <b>Ramachandran plot</b>, still used worldwide. He also helped decipher the triple-helix structure of collagen. His work shows that shape and hydrogen bonding decide how a protein folds.</p>"
+  },
+  {
+   "tag": "Recap",
+   "h": "Key takeaways",
+   "b": "<ul><li>VSEPR: electron pairs spread out; lone pairs squeeze angles.</li><li>CH4 109.5, NH3 107, H2O 104.5, CO2 180.</li><li>Polarity depends on shape.</li><li>Dispersion, dipole-dipole and hydrogen bonds set boiling points; hydrogen bonds make ice float.</li></ul><div class=\"box\"><h4>Think about it</h4><p>1. Why is CO2 non-polar although C=O bonds are polar?</p><p>2. If ice sank, what would happen to ponds in winter?</p></div>",
+   "cls": "exam"
+  }
+ ],
+ "quiz": [
+  {
+   "q": "Shape of the methane molecule?",
+   "o": [
+    "Tetrahedral",
+    "Linear",
+    "Bent",
+    "Pyramidal"
+   ],
+   "a": 0,
+   "w": "Four bonds, no lone pairs."
+  },
+  {
+   "q": "Bond angle in water is about:",
+   "o": [
+    "104.5°",
+    "109.5°",
+    "180°",
+    "120°"
+   ],
+   "a": 0,
+   "w": "Two lone pairs squeeze it."
+  },
+  {
+   "q": "CO2 is non-polar because:",
+   "o": [
+    "It has no bonds",
+    "Bond polarities cancel in a linear shape",
+    "C and O are identical",
+    "It is ionic"
+   ],
+   "a": 1,
+   "w": "Opposite dipoles cancel."
+  },
+  {
+   "q": "NH3 shape?",
+   "o": [
+    "Pyramidal",
+    "Tetrahedral",
+    "Linear",
+    "Flat triangle"
+   ],
+   "a": 0,
+   "w": "Three bonds, one lone pair."
+  },
+  {
+   "q": "Which has hydrogen bonding?",
+   "o": [
+    "H2O",
+    "CH4",
+    "CO2",
+    "H2"
+   ],
+   "a": 0,
+   "w": "H bonded to O."
+  },
+  {
+   "q": "Why does ice float?",
+   "o": [
+    "It is lighter atoms",
+    "Ice contains air only",
+    "Open hydrogen-bonded lattice is less dense",
+    "It is colder"
+   ],
+   "a": 2,
+   "w": "Molecules are held further apart."
+  },
+  {
+   "q": "Strongest intermolecular force in HCl?",
+   "o": [
+    "Dipole-dipole",
+    "Hydrogen bonding",
+    "Ionic",
+    "Metallic"
+   ],
+   "a": 0,
+   "w": "Cl is not N, O or F."
+  },
+  {
+   "q": "Which has the highest boiling point?",
+   "o": [
+    "CH4",
+    "H2O",
+    "HCl",
+    "H2"
+   ],
+   "a": 1,
+   "w": "Hydrogen bonds."
+  },
+  {
+   "q": "Boiling water breaks:",
+   "o": [
+    "Intermolecular forces",
+    "O-H covalent bonds",
+    "Nuclei",
+    "Electrons"
+   ],
+   "a": 0,
+   "w": "Molecules stay intact."
+  },
+  {
+   "q": "The Ramachandran plot shows:",
+   "o": [
+    "Gas laws",
+    "Atomic masses",
+    "Orbital shapes",
+    "Allowed protein backbone angles"
+   ],
+   "a": 3,
+   "w": "G.N. Ramachandran, 1963."
+  }
+ ],
+ "sources": [
+  "Standard school and university chemistry texts"
+ ],
+ "verified": "2026-11-11"
+}

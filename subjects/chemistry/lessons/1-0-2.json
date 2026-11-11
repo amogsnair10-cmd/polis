@@ -1,0 +1,174 @@
+{
+ "id": "1-0-2",
+ "title": "Rates of Reaction",
+ "emoji": "⏱️",
+ "cards": [
+  {
+   "tag": "Why this matters",
+   "h": "Fast, slow and never",
+   "b": "<p>Petrol burns in a flash; iron rusts over years; diamonds last forever, even though graphite is more stable. <b>Chemical kinetics</b> studies how fast reactions go and why. Controlling speed is the heart of cooking, medicine shelf-life and industrial profit.</p>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "Collision theory",
+   "b": "<p>For particles to react they must <b>collide</b>, with enough energy and in the right orientation. Most collisions fail, like trying to snap a stick with a gentle tap.</p><p>The minimum energy needed is the <b>activation energy</b>. <b>Svante Arrhenius (1889)</b> showed how rate depends on it: lower activation energy or higher temperature means a faster reaction.</p>"
+  },
+  {
+   "tag": "Key idea",
+   "h": "The energy hill",
+   "b": "<p>Imagine pushing a boulder over a hill before it rolls down. The hill is the activation energy.</p><svg class=\"d\" viewBox=\"0 0 320 136\"><defs><marker id=\"m1\" markerWidth=\"8\" markerHeight=\"8\" refX=\"6\" refY=\"4\" orient=\"auto\"><path d=\"M0,0 L8,4 L0,8 z\" fill=\"#5d6474\"/></marker></defs><rect x=\"20\" y=\"4\" width=\"280\" height=\"30\" rx=\"6\" fill=\"#f1e4c6\" stroke=\"#a8792a\"/><text x=\"160\" y=\"23\" text-anchor=\"middle\" font-size=\"11\" fill=\"#1d2433\">Reactants start</text><line x1=\"160\" y1=\"34\" x2=\"160\" y2=\"47\" stroke=\"#5d6474\" marker-end=\"url(#m1)\"/><rect x=\"20\" y=\"48\" width=\"280\" height=\"30\" rx=\"6\" fill=\"#f1e4c6\" stroke=\"#a8792a\"/><text x=\"160\" y=\"67\" text-anchor=\"middle\" font-size=\"11\" fill=\"#1d2433\">Climb the activation energy hill</text><line x1=\"160\" y1=\"78\" x2=\"160\" y2=\"91\" stroke=\"#5d6474\" marker-end=\"url(#m1)\"/><rect x=\"20\" y=\"92\" width=\"280\" height=\"30\" rx=\"6\" fill=\"#f1e4c6\" stroke=\"#a8792a\"/><text x=\"160\" y=\"111\" text-anchor=\"middle\" font-size=\"11\" fill=\"#1d2433\">Products: lower energy, released</text></svg><p>Even an exothermic reaction needs this push. A match gives the initial energy for paper to burn.</p>"
+  },
+  {
+   "tag": "Key idea",
+   "h": "Four ways to speed up a reaction",
+   "b": "<ul><li><b>Higher concentration</b> (or pressure for gases): more collisions per second.</li><li><b>Higher temperature:</b> more particles exceed the activation energy. A rough rule: the rate roughly doubles for each 10 °C rise.</li><li><b>Greater surface area:</b> powdered solids react faster than lumps. Flour dust can explode.</li><li><b>Catalyst:</b> see below.</li></ul>"
+  },
+  {
+   "tag": "Key idea",
+   "h": "Catalysts",
+   "b": "<p>A <b>catalyst</b> gives the reaction an easier path with lower activation energy and is not used up. It does not change the final products or amount.</p><ul><li><b>Iron</b> in the Haber process.</li><li><b>Vanadium pentoxide</b> in making sulphuric acid.</li><li><b>Platinum, palladium and rhodium</b> in car catalytic converters, which convert CO and NOx into CO2 and N2.</li><li><b>Enzymes:</b> biological catalysts, e.g. amylase in saliva.</li></ul>"
+  },
+  {
+   "tag": "Key idea",
+   "h": "Rate laws and half-life",
+   "b": "<p>The <b>rate</b> is how fast concentration changes: rate = change in concentration / time. For a first-order reaction, the rate is proportional to the concentration, and the time for the quantity to halve, the <b>half-life</b>, is constant.</p><p>Radioactive decay follows this pattern, as do many drug breakdowns in the body.</p>"
+  },
+  {
+   "tag": "Worked example",
+   "h": "Half-life",
+   "b": "<p>A reaction has half-life 10 minutes. Start with 80 g. After 30 minutes?</p><p>30 / 10 = 3 half-lives: 80 → 40 → 20 → <b>10 g</b>.</p><p>Rate: concentration falls from 0.50 mol/L to 0.20 mol/L in 15 s. Average rate = 0.30 / 15 = <b>0.02 mol/L per second</b>.</p>"
+  },
+  {
+   "tag": "Misconceptions",
+   "h": "Not what you think",
+   "b": "<ul><li><b>Catalysts are not consumed</b> and do not shift the equilibrium.</li><li><b>Exothermic does not mean fast.</b> Activation energy decides speed.</li><li><b>Heating speeds all reactions</b> (it increases particles with enough energy), but enzymes stop working if overheated.</li><li><b>Half-life is not half of the time to complete</b>; it never fully reaches zero in theory.</li></ul>"
+  },
+  {
+   "tag": "Indian angle",
+   "h": "Cleaner exhaust: BS-VI",
+   "b": "<p>India moved to <b>Bharat Stage VI</b> emission norms nationwide in April 2020, leaping from BS-IV. Cleaner petrol and diesel plus better catalytic converters and particulate filters cut sulphur and tailpipe pollutants sharply. The converter is a catalyst: tiny platinum-group metal particles on a honeycomb speed up the conversion of CO and NOx into harmless gases.</p>"
+  },
+  {
+   "tag": "Recap",
+   "h": "Key takeaways",
+   "b": "<ul><li>Reactions need collisions with energy above the activation energy.</li><li>Faster with higher concentration, temperature, surface area and catalysts.</li><li>Half-life: quantity halves each constant time period.</li></ul><div class=\"box\"><h4>Think about it</h4><p>1. Why does a fridge keep milk fresh longer?</p><p>2. Why does a lump of sugar dissolve slower than powder?</p></div>",
+   "cls": "exam"
+  }
+ ],
+ "quiz": [
+  {
+   "q": "Activation energy is:",
+   "o": [
+    "Minimum energy for reaction to occur",
+    "Energy released",
+    "Energy of products",
+    "Energy of catalysts"
+   ],
+   "a": 0,
+   "w": "The hill to climb."
+  },
+  {
+   "q": "A catalyst:",
+   "o": [
+    "Lowers activation energy and is not consumed",
+    "Is used up",
+    "Raises activation energy",
+    "Changes the products"
+   ],
+   "a": 0,
+   "w": "Provides an easier path."
+  },
+  {
+   "q": "Which gives fastest reaction?",
+   "o": [
+    "Powdered marble in hot acid",
+    "Lump marble in cold acid",
+    "Lump marble in hot acid",
+    "Powder in cold acid"
+   ],
+   "a": 0,
+   "w": "High area and high temperature."
+  },
+  {
+   "q": "Half-life 5 min, start 64 g. Mass after 20 min?",
+   "o": [
+    "8 g",
+    "16 g",
+    "4 g",
+    "32 g"
+   ],
+   "a": 2,
+   "w": "4 half-lives: 64 → 4."
+  },
+  {
+   "q": "Concentration falls 1.0 to 0.4 mol/L in 30 s. Rate?",
+   "o": [
+    "0.02 mol/L per s",
+    "0.2 mol/L per s",
+    "0.04 mol/L per s",
+    "0.6 mol/L per s"
+   ],
+   "a": 0,
+   "w": "0.6 / 30."
+  },
+  {
+   "q": "Catalyst in car converters:",
+   "o": [
+    "Iron",
+    "Platinum group metals",
+    "Copper sulphate",
+    "Sodium"
+   ],
+   "a": 1,
+   "w": "Pt, Pd, Rh."
+  },
+  {
+   "q": "Arrhenius linked rate to:",
+   "o": [
+    "Temperature and activation energy",
+    "Atomic number",
+    "Mass only",
+    "Colour"
+   ],
+   "a": 0,
+   "w": "1889."
+  },
+  {
+   "q": "Why does raising temperature speed reactions?",
+   "o": [
+    "Activation energy rises",
+    "Reactants get heavier",
+    "Catalysts form",
+    "More particles exceed activation energy"
+   ],
+   "a": 3,
+   "w": "Faster, more energetic collisions."
+  },
+  {
+   "q": "Enzymes are:",
+   "o": [
+    "Biological catalysts",
+    "Fuels",
+    "Acids only",
+    "Products"
+   ],
+   "a": 0,
+   "w": "E.g. amylase."
+  },
+  {
+   "q": "India adopted BS-VI nationwide in:",
+   "o": [
+    "April 2010",
+    "April 2020",
+    "January 2000",
+    "April 2015"
+   ],
+   "a": 1,
+   "w": "Skipped BS-V."
+  }
+ ],
+ "sources": [
+  "Standard school and university chemistry texts"
+ ],
+ "verified": "2026-11-11"
+}

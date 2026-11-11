@@ -1,0 +1,174 @@
+{
+ "id": "4-0-1",
+ "title": "Environmental Chemistry: Air, Water, Climate",
+ "emoji": "🌍",
+ "cards": [
+  {
+   "tag": "Why this matters",
+   "h": "Chemistry of the whole planet",
+   "b": "<p>Smog over Delhi in winter, the ozone hole, acid rain, polluted rivers, a warming climate: each is a chemistry problem, and each has a chemistry-led solution.</p>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "The atmosphere in layers",
+   "b": "<p>Troposphere (weather, up to about 10-15 km), stratosphere (ozone layer), then higher layers. Air is about 78 percent N2 and 21 percent O2. Pollutants alter the balance: CO, SO2, NOx, particulates (PM2.5 and PM10) and volatile organics.</p>"
+  },
+  {
+   "tag": "Key idea",
+   "h": "The ozone layer",
+   "b": "<p>Ozone (O3) in the stratosphere absorbs harmful UV-B light. <b>Chlorofluorocarbons (CFCs)</b> from fridges and sprays rise, UV splits off chlorine atoms, and each chlorine can destroy thousands of ozone molecules: Cl + O3 → ClO + O2. Mario Molina and F. Sherwood Rowland warned in 1974; the ozone hole over Antarctica was reported in 1985.</p><p>The <b>Montreal Protocol (1987)</b> phased out CFCs, among the most successful environmental treaties; ozone is recovering.</p>"
+  },
+  {
+   "tag": "Key idea",
+   "h": "Greenhouse effect and climate",
+   "b": "<p>Gases such as <b>CO2, CH4, N2O and water vapour</b> absorb infrared heat radiated by Earth and re-emit it, keeping Earth about 33 °C warmer than it would be. Burning fossil fuels, C + O2 → CO2, adds more. CO2 rose from about 280 ppm before industry to above 420 ppm in the mid-2020s. Methane traps far more heat per molecule than CO2 over short periods.</p><svg class=\"d\" viewBox=\"0 0 320 136\"><defs><marker id=\"m1\" markerWidth=\"8\" markerHeight=\"8\" refX=\"6\" refY=\"4\" orient=\"auto\"><path d=\"M0,0 L8,4 L0,8 z\" fill=\"#5d6474\"/></marker></defs><rect x=\"20\" y=\"4\" width=\"280\" height=\"30\" rx=\"6\" fill=\"#f1e4c6\" stroke=\"#a8792a\"/><text x=\"160\" y=\"23\" text-anchor=\"middle\" font-size=\"11\" fill=\"#1d2433\">Sunlight warms Earth</text><line x1=\"160\" y1=\"34\" x2=\"160\" y2=\"47\" stroke=\"#5d6474\" marker-end=\"url(#m1)\"/><rect x=\"20\" y=\"48\" width=\"280\" height=\"30\" rx=\"6\" fill=\"#f1e4c6\" stroke=\"#a8792a\"/><text x=\"160\" y=\"67\" text-anchor=\"middle\" font-size=\"11\" fill=\"#1d2433\">Earth emits infrared heat</text><line x1=\"160\" y1=\"78\" x2=\"160\" y2=\"91\" stroke=\"#5d6474\" marker-end=\"url(#m1)\"/><rect x=\"20\" y=\"92\" width=\"280\" height=\"30\" rx=\"6\" fill=\"#f1e4c6\" stroke=\"#a8792a\"/><text x=\"160\" y=\"111\" text-anchor=\"middle\" font-size=\"11\" fill=\"#1d2433\">GHGs absorb and re-emit: warming</text></svg>"
+  },
+  {
+   "tag": "Key idea",
+   "h": "Acid rain and smog",
+   "b": "<p>Burning coal releases SO2, vehicles release NOx. In air: SO2 → H2SO4 and NO2 → HNO3, so rain pH falls below about 5.6 (normal rain is slightly acidic from CO2). It damages marble, soil and lakes.</p><p><b>Photochemical smog</b>: sunlight, NOx and hydrocarbons make ozone and irritants at ground level. <b>CO2 also dissolves in oceans</b>: CO2 + H2O ⇌ H2CO3, acidifying seas and harming corals.</p>"
+  },
+  {
+   "tag": "Key idea",
+   "h": "Water chemistry",
+   "b": "<ul><li><b>Hardness:</b> dissolved Ca2+ and Mg2+ ions.</li><li><b>BOD (biochemical oxygen demand):</b> oxygen microbes need to digest waste. High BOD means polluted water.</li><li><b>Eutrophication:</b> fertiliser nitrate and phosphate cause algae blooms that use up oxygen and kill fish.</li><li><b>Toxic contaminants:</b> arsenic, fluoride, lead, pesticides.</li></ul><p>Treatment: filtration, coagulation (alum), chlorination or UV disinfection.</p>"
+  },
+  {
+   "tag": "Worked example",
+   "h": "Carbon to carbon dioxide",
+   "b": "<p>C + O2 → CO2. 12 g carbon gives 44 g CO2. So 1 kg carbon gives 44/12 = <b>3.67 kg</b> CO2.</p><p>Petrol (roughly C8H18): burning 1 litre releases about 2.3 kg of CO2, as most of the carbon in the fuel ends up as gas. A car using 5 L daily emits about 11.5 kg CO2 a day.</p>"
+  },
+  {
+   "tag": "Misconceptions",
+   "h": "Careful",
+   "b": "<ul><li><b>The ozone hole is not the cause of global warming.</b> They are different problems, though some CFCs are also greenhouse gases.</li><li><b>The greenhouse effect itself is natural and needed.</b> The problem is enhancement.</li><li><b>Clear water is not necessarily safe</b> (arsenic is invisible).</li><li><b>Acid rain is not melting people;</b> it is mild but damaging over time.</li></ul>"
+  },
+  {
+   "tag": "Indian angle",
+   "h": "Ganga, arsenic and clean air",
+   "b": "<p>India's <b>Ganga Action Plan (1986)</b> began sewage treatment to cut river pollution; <b>Namami Gange</b> followed in 2014. Groundwater arsenic affects the Gangetic plains in West Bengal and Bihar. The <b>National Clean Air Programme (2019)</b> targets reductions in PM2.5 and PM10 in polluted cities, and India has committed to net-zero emissions by 2070.</p>"
+  },
+  {
+   "tag": "Recap",
+   "h": "Key takeaways",
+   "b": "<ul><li>CFCs destroy ozone; Montreal Protocol (1987) fixed it.</li><li>CO2, CH4, N2O trap heat; CO2 above 420 ppm.</li><li>SO2 and NOx make acid rain; fertiliser causes eutrophication.</li><li>1 kg carbon burns to 3.67 kg CO2.</li></ul><div class=\"box\"><h4>Think about it</h4><p>1. Why was the Montreal Protocol more successful than most climate talks?</p><p>2. How can one chlorine atom destroy many ozone molecules?</p></div>",
+   "cls": "exam"
+  }
+ ],
+ "quiz": [
+  {
+   "q": "Montreal Protocol (1987) targeted:",
+   "o": [
+    "CFCs",
+    "CO2",
+    "Methane",
+    "Lead"
+   ],
+   "a": 0,
+   "w": "Ozone-depleting substances."
+  },
+  {
+   "q": "Ozone layer absorbs:",
+   "o": [
+    "UV light",
+    "Visible light",
+    "Infrared",
+    "Radio waves"
+   ],
+   "a": 0,
+   "w": "Protects life."
+  },
+  {
+   "q": "Which is NOT a greenhouse gas?",
+   "o": [
+    "Argon",
+    "CO2",
+    "CH4",
+    "N2O"
+   ],
+   "a": 0,
+   "w": "Argon is inert, a monatomic gas."
+  },
+  {
+   "q": "Mass of CO2 from 6 g carbon?",
+   "o": [
+    "22 g",
+    "44 g",
+    "12 g",
+    "6 g"
+   ],
+   "a": 0,
+   "w": "6/12 x 44."
+  },
+  {
+   "q": "Normal unpolluted rain has pH about:",
+   "o": [
+    "7",
+    "3",
+    "5.6",
+    "9"
+   ],
+   "a": 2,
+   "w": "Dissolved CO2."
+  },
+  {
+   "q": "High BOD indicates:",
+   "o": [
+    "Polluted water",
+    "Pure water",
+    "Hard water",
+    "Salty water"
+   ],
+   "a": 0,
+   "w": "Much oxygen needed."
+  },
+  {
+   "q": "Eutrophication is caused by excess:",
+   "o": [
+    "Oxygen",
+    "Nitrates and phosphates",
+    "Chlorine",
+    "Arsenic"
+   ],
+   "a": 1,
+   "w": "Algal bloom."
+  },
+  {
+   "q": "SO2 in air eventually forms:",
+   "o": [
+    "Sulphuric acid",
+    "Ozone",
+    "Methane",
+    "Ammonia"
+   ],
+   "a": 0,
+   "w": "Acid rain."
+  },
+  {
+   "q": "India's National Clean Air Programme began in:",
+   "o": [
+    "1986",
+    "2005",
+    "2023",
+    "2019"
+   ],
+   "a": 3,
+   "w": "Targets PM2.5 and PM10."
+  },
+  {
+   "q": "Ocean acidification occurs as:",
+   "o": [
+    "CO2 forms carbonic acid in seawater",
+    "Oil spills",
+    "Sulphur burns",
+    "Salt dissolves"
+   ],
+   "a": 0,
+   "w": "CO2 + H2O ⇌ H2CO3."
+  }
+ ],
+ "sources": [
+  "Standard school and university chemistry texts; Montreal Protocol (1987); NCAP (2019)"
+ ],
+ "verified": "2026-11-11"
+}

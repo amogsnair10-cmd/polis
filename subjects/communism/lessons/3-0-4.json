@@ -1,0 +1,170 @@
+{
+ "id": "3-0-4",
+ "title": "Sartre, Existentialism and Marxism",
+ "emoji": "🚬",
+ "cards": [
+  {
+   "tag": "Why this matters",
+   "h": "Freedom meets history",
+   "b": "<p>Jean-Paul Sartre asked what the 20th century's hardest question implies for Marxism: if people are radically free, how can history have laws? His attempt to fuse existentialism and Marxism, and his flawed political choices, make him the great test of the intellectual as revolutionary.</p>"
+  },
+  {
+   "tag": "Context",
+   "h": "From café philosopher to fellow traveller",
+   "b": "<p>Sartre (1905-80) wrote <i>Being and Nothingness</i> (1943) in occupied Paris. After 1945 he turned to politics: <i>Les Temps Modernes</i> (founded 1945 with Simone de Beauvoir and Merleau-Ponty), support for the Communist Party from 1952, break after Hungary (1956), a refusal of the Nobel Prize (1964), and alignment with Maoist students in 1968-70.</p>"
+  },
+  {
+   "tag": "Key idea",
+   "h": "Existence precedes essence",
+   "b": "<p><i>Existentialism is a Humanism</i> (1946) holds that people have no fixed nature: they make themselves through choices; they are \"condemned to be free\". Evasion of freedom is <b>bad faith</b>. This seems opposed to Marx's emphasis on structures, yet Sartre linked the two through the idea of situated freedom.</p>"
+  },
+  {
+   "tag": "Key idea",
+   "h": "Critique of Dialectical Reason (1960)",
+   "b": "<p>Sartre calls Marxism \"the unsurpassable philosophy of our time\" but says it lacks a theory of the individual. Scarcity creates relations of <b>seriality</b> (people queuing for a bus are isolated), and in crisis they form <b>groups-in-fusion</b> (the storming of the Bastille), which then harden into institutions. His \"progressive-regressive method\" combines the structure and the personal project (his study of Flaubert).</p>"
+  },
+  {
+   "tag": "Key idea",
+   "h": "Commitment and violence",
+   "b": "<p>In \"What is Literature?\" (1947) he demanded that writers be <i>engagé</i>, committed. He backed Algerian independence and wrote a preface to Fanon's <i>The Wretched of the Earth</i> (1961), defending the violence of the colonised. He also accompanied the French Communist Party for a time (<i>The Communists and Peace</i>, 1952-54) and described anti-communists as \"rats\". Later he condemned the invasions of Hungary and Czechoslovakia.</p>"
+  },
+  {
+   "tag": "In practice",
+   "h": "1968 and the end",
+   "b": "<p>Sartre sold the Maoist paper <i>La Cause du peuple</i> on the street (1970) and was arrested, then released on De Gaulle's orders (\"you don't arrest Voltaire\"). He visited Cuba (1960, praising Castro), the USSR, and China (1955), often with generous eyes. His funeral in April 1980 drew about 50,000 people.</p>"
+  },
+  {
+   "tag": "Critiques",
+   "h": "The intellectual's failures",
+   "b": "<p><b>Camus</b> broke with him (1952) over the Soviet camps; <i>The Rebel</i> (1951) rejected revolutionary violence. <b>Raymond Aron</b> (<i>The Opium of the Intellectuals</i>, 1955) mocked fellow-travelling. <b>Merleau-Ponty</b> broke from him over Korea (1950). <b>Althusser and structuralists</b> (Lévi-Strauss) attacked his humanism. <b>Moral critics</b> note his silence about the camps until 1956 and his later excuse. <b>Defenders</b>: he changed his mind, took risks, and tried to give Marxism a lived dimension.</p>"
+  },
+  {
+   "tag": "Indian angle",
+   "h": "Existentialism and Indian thought",
+   "b": "<p>Sartre's writings reached India in the 1950s-70s through literature and politics. Hindi and Bengali modernist writers (Agyeya, Nirmal Verma, Jibanananda Das's circle) were influenced by existentialist themes. Fanon's influence on Indian Dalit and anticolonial thought via Sartre's preface is traceable. The debate on whether political commitment endangers art runs through Progressive Writers vs. modernists in Indian literature.</p>"
+  },
+  {
+   "tag": "Recap",
+   "h": "Five takeaways and two debates",
+   "b": "<h4>Key takeaways</h4><ol><li>Existence precedes essence: people make themselves and are free.</li><li>Critique of Dialectical Reason adds individual praxis to Marxism.</li><li>Groups-in-fusion and seriality describe how collective action forms.</li><li>His politics: Communist partner to 1956, later Maoist sympathies, anti-colonial.</li><li>Critics: Camus, Aron and moral critics attack his fellow-travelling.</li></ol><h4>Debate questions</h4><ol><li>Does radical freedom contradict historical materialism?</li><li>Should intellectuals be political partisans?</li></ol>",
+   "cls": "exam"
+  }
+ ],
+ "quiz": [
+  {
+   "q": "Being and Nothingness was published in",
+   "o": [
+    "1960",
+    "1968",
+    "1943",
+    "1946"
+   ],
+   "a": 2,
+   "w": "In occupied Paris."
+  },
+  {
+   "q": "\"Existence precedes essence\" means",
+   "o": [
+    "People make themselves through choices",
+    "Nature fixes human essence",
+    "God creates essence",
+    "Class determines identity"
+   ],
+   "a": 0,
+   "w": "Existentialism is a Humanism."
+  },
+  {
+   "q": "Bad faith is",
+   "o": [
+    "Religious doubt",
+    "Evading one's freedom",
+    "Class betrayal",
+    "Fanatic loyalty"
+   ],
+   "a": 1,
+   "w": "Self-deception."
+  },
+  {
+   "q": "Sartre called Marxism",
+   "o": [
+    "The unsurpassable philosophy of our time",
+    "An obsolete doctrine",
+    "A religion",
+    "A bourgeois science"
+   ],
+   "a": 0,
+   "w": "In 1960."
+  },
+  {
+   "q": "Seriality refers to",
+   "o": [
+    "A party structure",
+    "A novel genre",
+    "Isolated individuals in a collective arrangement",
+    "A government system"
+   ],
+   "a": 2,
+   "w": "E.g. queueing."
+  },
+  {
+   "q": "Which writer broke with Sartre in 1952 over the Soviet camps?",
+   "o": [
+    "Beauvoir",
+    "Aron",
+    "Fanon",
+    "Camus"
+   ],
+   "a": 3,
+   "w": "The Rebel and the dispute."
+  },
+  {
+   "q": "Sartre wrote a preface for",
+   "o": [
+    "Capital",
+    "Mao's Red Book",
+    "The Gulag Archipelago",
+    "The Wretched of the Earth"
+   ],
+   "a": 3,
+   "w": "Fanon, 1961."
+  },
+  {
+   "q": "Aron's book mocking fellow-travelling was",
+   "o": [
+    "The Rebel",
+    "The Opium of the Intellectuals",
+    "The Open Society",
+    "Homage to Catalonia"
+   ],
+   "a": 1,
+   "w": "1955."
+  },
+  {
+   "q": "Sartre refused the Nobel Prize in",
+   "o": [
+    "1964",
+    "1943",
+    "1980",
+    "1952"
+   ],
+   "a": 0,
+   "w": "For literature."
+  },
+  {
+   "q": "The Progressive Writers' Association in India was founded in",
+   "o": [
+    "1950",
+    "1936",
+    "1920",
+    "1970"
+   ],
+   "a": 1,
+   "w": "Linked to committed literature."
+  }
+ ],
+ "sources": [
+  "Sartre 1943, 1946, 1960",
+  "Aron 1955"
+ ],
+ "verified": "2026-11-11"
+}

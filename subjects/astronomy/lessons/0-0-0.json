@@ -1,0 +1,176 @@
+{
+ "id": "0-0-0",
+ "title": "The Night Sky: Constellations and Coordinates",
+ "emoji": "🌌",
+ "cards": [
+  {
+   "tag": "Why this matters",
+   "h": "Your first map of the universe",
+   "b": "<p>Before telescopes, the sky was the only map, clock and calendar humans had. Farmers planted by it. Sailors steered by it.</p><p>Look up on a clear night far from city lights and you can see roughly 2,500 stars at a time. They look like dots on a dome. They are not. They sit at wildly different distances. This lesson gives you the language for finding your way around that dome.</p>"
+  },
+  {
+   "tag": "Concept",
+   "h": "Constellations are patterns, not families",
+   "b": "<p>A <b>constellation</b> is a pattern we imagine by joining bright stars. The stars in it are usually unrelated. One may be 40 light-years away, its neighbour 800.</p><p>Every culture drew its own pictures. In 1922-1930 the International Astronomical Union fixed <b>88 official constellations</b>, each a patch of sky with firm borders, like countries on a map. Orion, Ursa Major (the Great Bear, with the Saptarishi 'Big Dipper') and Crux (the Southern Cross) are familiar ones.</p>"
+  },
+  {
+   "tag": "Concept",
+   "h": "The celestial sphere",
+   "b": "<p>Imagine all stars painted on a huge sphere around Earth. It is a useful fiction: we cannot feel depth in the sky, but we can measure <i>directions</i> exactly.</p><p>Extend Earth's axis outward and you get the <b>north celestial pole</b>. Extend the equator and you get the <b>celestial equator</b>. The whole sphere seems to turn once a day, but that is really Earth spinning the other way: 15 degrees every hour.</p><svg class=\"d\" viewBox=\"0 0 320 150\"><defs><marker id=\"ar1\" viewBox=\"0 0 10 10\" refX=\"9\" refY=\"5\" markerWidth=\"6\" markerHeight=\"6\" orient=\"auto\"><path d=\"M0 0L10 5L0 10z\" fill=\"#5d6474\"/></marker></defs><circle cx=\"160\" cy=\"75\" r=\"50\" fill=\"#dceaec\" stroke=\"#2f6f7a\"/><text x=\"160\" y=\"70\" text-anchor=\"middle\" font-size=\"11\" fill=\"#1d2433\">Earth</text><line x1=\"160\" y1=\"25\" x2=\"160\" y2=\"5\" stroke=\"#a3362a\" stroke-width=\"1.5\" marker-end=\"url(#ar1)\"/><text x=\"172\" y=\"14\" text-anchor=\"start\" font-size=\"10\" fill=\"#1d2433\">North celestial pole (near Polaris)</text><line x1=\"90\" y1=\"75\" x2=\"230\" y2=\"75\" stroke=\"#5d6474\" stroke-width=\"1.5\" stroke-dasharray=\"4 3\"/><text x=\"160\" y=\"100\" text-anchor=\"middle\" font-size=\"10\" fill=\"#1d2433\">Celestial equator</text><circle cx=\"160\" cy=\"2\" r=\"2\" fill=\"#f4dcd5\" stroke=\"#a3362a\"/><text x=\"160\" y=\"140\" text-anchor=\"middle\" font-size=\"10\" fill=\"#5d6474\">Sky = a giant sphere around us. Poles and equator extend Earth's own.</text></svg>"
+  },
+  {
+   "tag": "Concept",
+   "h": "Why the Pole Star stays put",
+   "b": "<p><b>Polaris</b> lies within about 1 degree of the north celestial pole, so as Earth spins it hardly moves. Everything else circles it. In India it is Dhruva.</p><p>A neat trick: <b>the height of Polaris above your horizon equals your latitude</b>. At Delhi (28.6 N) it sits about 28 degrees up. At the equator it sits on the horizon. At the North Pole it is straight overhead. Navigators used this for centuries.</p>"
+  },
+  {
+   "tag": "Concept",
+   "h": "Two ways to give a star an address",
+   "b": "<p><b>Horizon system:</b> altitude (angle above horizon) and azimuth (compass direction). Easy, but it changes with place and time.</p><p><b>Equatorial system:</b> fixed to the stars, like latitude and longitude. <b>Declination</b> is the north-south angle from the celestial equator. <b>Right ascension</b> is the east-west position, measured in hours (0 to 24) from the point where the Sun crosses the equator at the March equinox.</p><p>Because the address is fixed to the stars, a star keeps the same coordinates wherever you stand.</p>"
+  },
+  {
+   "tag": "Concept",
+   "h": "The sky changes with the hour and the season",
+   "b": "<p>Through one night stars rise in the east and set in the west. Through the year, the same star rises about 4 minutes earlier each night, because Earth moves along its orbit. After a year the pattern returns.</p><p>This is why Orion rules winter evenings and Scorpius rules summer ones: in different seasons our night side faces different parts of space. Also, the pole slowly wobbles like a spinning top, called <b>precession</b>, taking about 26,000 years. Around 3000 BCE the pole star was Thuban; in about 12,000 years it will be Vega.</p>"
+  },
+  {
+   "tag": "How we know",
+   "h": "Measuring the invisible",
+   "b": "<p>Positions were first measured with sighting rods, quadrants and later the telescope. Hipparchus (c. 130 BCE) made a star catalogue and noticed precession by comparing his data with older records. He also began the magnitude scale for brightness.</p><p>Today the ESA's <b>Gaia</b> satellite (launched 2013) has measured the positions of nearly two billion stars to a tiny fraction of a milli-arcsecond. Old records, new satellites: same method, sharper tools.</p>"
+  },
+  {
+   "tag": "Misconceptions",
+   "h": "Three common mistakes",
+   "b": "<ul><li><b>'Stars in a constellation are close.'</b> No. They only line up from our viewpoint.</li><li><b>'The Pole Star is the brightest star.'</b> No. Polaris is only moderately bright. Sirius is the brightest in the night sky.</li><li><b>'Astrology and astronomy are linked science.'</b> The zodiac constellations are real star patterns, but no experiment has shown that star positions shape human lives.</li></ul>"
+  },
+  {
+   "tag": "Indian angle",
+   "h": "Nakshatras, Saptarishi and Jantar Mantar",
+   "b": "<p>Indian astronomers divided the Moon's path into <b>27 nakshatras</b> (lunar mansions): about one for each night the Moon takes to cross the sky. They appear in the Vedic texts and are still used in the panchang.</p><p>The <b>Saptarishi</b> are the seven bright stars of Ursa Major. Their two end stars point toward Dhruva. <b>Mriga</b> (Orion) and <b>Lubdhaka</b> (Sirius) are named in Indian lore. Maharaja Sawai Jai Singh II built the stone observatories called <b>Jantar Mantar</b> (Delhi 1724, Jaipur and others) to measure star and Sun positions with huge masonry instruments.</p>"
+  },
+  {
+   "tag": "Recap",
+   "h": "Key takeaways",
+   "b": "<ul><li>Constellations are 88 official sky regions; their stars are not physically linked.</li><li>The celestial sphere is a model: poles and equator are Earth's extended outward.</li><li>Polaris' altitude equals your latitude.</li><li>Right ascension and declination fix a star's address.</li><li>Precession shifts the pole star over about 26,000 years.</li></ul><p><b>Think about it:</b> (1) Why would an observer in Chennai see stars that a person in Srinagar never sees? (2) If the Sun were removed, would the constellations visibly change within your lifetime? Why?</p>",
+   "cls": "exam"
+  }
+ ],
+ "quiz": [
+  {
+   "q": "How many official constellations has the IAU defined?",
+   "o": [
+    "72",
+    "88",
+    "108",
+    "60"
+   ],
+   "a": 1,
+   "w": "The IAU fixed 88 constellation regions."
+  },
+  {
+   "q": "Why can the stars in one constellation be very far apart in real distance?",
+   "o": [
+    "They are of different colours",
+    "The pattern is just a line of sight effect",
+    "Gravity pushes them apart",
+    "They are all very close"
+   ],
+   "a": 1,
+   "w": "We see only direction, not depth."
+  },
+  {
+   "q": "The height of Polaris above the northern horizon equals the observer's:",
+   "o": [
+    "Longitude",
+    "Latitude",
+    "Altitude above sea level",
+    "Local time"
+   ],
+   "a": 1,
+   "w": "Pole altitude = latitude."
+  },
+  {
+   "q": "From Earth, the whole sky seems to turn once a day mainly because:",
+   "o": [
+    "Stars orbit Earth",
+    "Earth rotates",
+    "The Sun pulls stars",
+    "Earth's orbit tilts"
+   ],
+   "a": 1,
+   "w": "Rotation of Earth, 15 degrees per hour."
+  },
+  {
+   "q": "Declination on the sky is most like which Earth coordinate?",
+   "o": [
+    "Longitude",
+    "Latitude",
+    "Altitude",
+    "Time zone"
+   ],
+   "a": 1,
+   "w": "North-south angle from the equator."
+  },
+  {
+   "q": "Why does a given star rise about 4 minutes earlier each night?",
+   "o": [
+    "Earth orbits the Sun",
+    "The star moves",
+    "Light bends in air",
+    "The Moon pulls it"
+   ],
+   "a": 0,
+   "w": "Earth's orbital motion shifts the sky by about 1 degree per day."
+  },
+  {
+   "q": "Precession of Earth's axis takes about:",
+   "o": [
+    "26 years",
+    "260 years",
+    "26,000 years",
+    "26 million years"
+   ],
+   "a": 2,
+   "w": "A slow top-like wobble."
+  },
+  {
+   "q": "Which is the brightest star in the night sky?",
+   "o": [
+    "Polaris",
+    "Sirius",
+    "Betelgeuse",
+    "Vega"
+   ],
+   "a": 1,
+   "w": "Sirius; Polaris is only moderately bright."
+  },
+  {
+   "q": "How many nakshatras are in the traditional Indian lunar mansion scheme?",
+   "o": [
+    "12",
+    "18",
+    "27",
+    "88"
+   ],
+   "a": 2,
+   "w": "27 mansions along the Moon's path."
+  },
+  {
+   "q": "Why is the equatorial coordinate system more useful for catalogues than altitude-azimuth?",
+   "o": [
+    "It is simpler to see",
+    "A star's coordinates stay almost fixed for any observer",
+    "It uses degrees only",
+    "It ignores brightness"
+   ],
+   "a": 1,
+   "w": "It is fixed to the stars, not to place and time."
+  }
+ ],
+ "sources": [
+  "IAU constellation list",
+  "Gaia mission (ESA)",
+  "Ancient Indian astronomy texts"
+ ],
+ "verified": "2026-11-11"
+}

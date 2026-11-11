@@ -1,0 +1,174 @@
+{
+ "id": "1-1-1",
+ "title": "Rosa Luxemburg: Reform or Revolution",
+ "emoji": "🌺",
+ "cards": [
+  {
+   "tag": "Why this matters",
+   "h": "The Marxist who criticised everyone",
+   "b": "<p>Rosa Luxemburg (1871-1919) attacked Bernstein, then Lenin, then her own party. Murdered in Berlin in 1919, she is the left's most beloved dissident: a revolutionary who insisted on democracy.</p>"
+  },
+  {
+   "tag": "Context",
+   "h": "From Poland to Berlin",
+   "b": "<p>Born in Zamość, Russian Poland, to a Jewish family, Luxemburg earned a doctorate in Zurich, co-founded the Social Democracy of the Kingdom of Poland, and moved to Germany in 1898. She taught at the SPD party school and was jailed several times, including through the war. She helped found the Spartacus League (1916) and the KPD (December 1918).</p>"
+  },
+  {
+   "tag": "Key idea",
+   "h": "Reform or Revolution (1899)",
+   "b": "<p>Her pamphlet answered Bernstein. Reforms and revolution are not two methods you pick at a buffet. Unions and parliament are the schooling ground, but capitalism's contradictions will not vanish, so only the conquest of political power ends it. Revisionism, she said, does not choose a slower route to the same goal, but a different goal altogether.</p>"
+  },
+  {
+   "tag": "Key idea",
+   "h": "The mass strike",
+   "b": "<p>In <i>The Mass Strike, the Political Party and the Trade Unions</i> (1906), after the Russian Revolution of 1905, she argued that mass action grows spontaneously from workers' own experience and cannot be ordered by leaders. Parties and unions should support it rather than control it. This was a challenge to the SPD's cautious officials.</p>"
+  },
+  {
+   "tag": "Key idea",
+   "h": "Accumulation and imperialism",
+   "b": "<p><i>The Accumulation of Capital</i> (1913) argued that capitalism needs non-capitalist regions (colonies, peasants) to realise surplus value, so it expands through imperialism and eventually runs out of room. Economists, including Marxists, rejected the underconsumption logic, but the book shaped later dependency theory.</p>"
+  },
+  {
+   "tag": "Key idea",
+   "h": "Against Lenin: freedom and the Russian Revolution",
+   "b": "<p>In prison in 1918 she wrote <i>The Russian Revolution</i> (published 1922). She backed the Bolsheviks' courage but attacked their dissolving of the Constituent Assembly, terror and suppression of press. \"Freedom only for the supporters of the government... is no freedom at all. Freedom is always freedom for the one who thinks differently.\" Without public life, she said, the soviets would become empty, with only a bureaucracy ruling.</p>"
+  },
+  {
+   "tag": "In practice",
+   "h": "Berlin, January 1919",
+   "b": "<p>Luxemburg doubted a rising was timely but joined the Spartacist rising in Berlin; the Freikorps, with SPD government backing, suppressed it. She was beaten and shot on 15 January 1919, her body thrown into the Landwehr Canal. The killers largely escaped punishment. Her death left the German left divided for good.</p>"
+  },
+  {
+   "tag": "Critiques",
+   "h": "Weak points",
+   "b": "<p><b>Lenin</b> (1922) conceded she made mistakes but called her an \"eagle\", while rejecting her spontaneity theory as ineffective without organisation. <b>Economists</b> (Bauer, Bukharin, 1913 onwards) showed her accumulation model has flaws, since capitalists can sell to each other. <b>Historians</b> argue that mass spontaneity failed in Germany 1918-19, because leaderless action gave the Freikorps easy victory. <b>Liberals</b> see in her a moral humanist, but note that she also defended revolutionary violence.</p>"
+  },
+  {
+   "tag": "Indian angle",
+   "h": "Spontaneity and mass action in India",
+   "b": "<p>Luxemburg is less known in Indian communist circles than Lenin, but her ideas resonate with the study of peasant and worker struggles like the Telangana uprising (1946-51) and the Bombay textile strike of 1982, led by Datta Samant outside the established unions. Subaltern historians (Ranajit Guha, <i>Elementary Aspects of Peasant Insurgency</i>, 1983) emphasise the spontaneity and autonomy of insurgents. Her colonial analysis offers a lens for India's \"primitive accumulation\" debates, notably in land acquisition conflicts.</p>"
+  },
+  {
+   "tag": "Recap",
+   "h": "Five takeaways and two debates",
+   "b": "<h4>Key takeaways</h4><ol><li>Reform and revolution are linked; revisionism changes the goal itself.</li><li>The mass strike arises from workers' experience and not from orders.</li><li>Accumulation of Capital links imperialism to capitalism's need for outside markets.</li><li>She backed the Bolsheviks yet insisted on democracy and free debate.</li><li>She was murdered on 15 January 1919 with SPD government complicity.</li></ol><h4>Debate questions</h4><ol><li>Is spontaneity a strength or a weakness in modern protest movements?</li><li>Can a revolution be both democratic and defended against counter-revolution?</li></ol>",
+   "cls": "exam"
+  }
+ ],
+ "quiz": [
+  {
+   "q": "Luxemburg's Reform or Revolution (1899) attacked",
+   "o": [
+    "Lenin",
+    "Bernstein",
+    "Kautsky",
+    "Engels"
+   ],
+   "a": 1,
+   "w": "The revisionist."
+  },
+  {
+   "q": "The Mass Strike (1906) was written after",
+   "o": [
+    "The Paris Commune",
+    "The 1905 Russian Revolution",
+    "World War I",
+    "The Boer War"
+   ],
+   "a": 1,
+   "w": "1905."
+  },
+  {
+   "q": "The Accumulation of Capital (1913) argues capitalism needs",
+   "o": [
+    "Unions",
+    "Nationalisation",
+    "Non-capitalist regions",
+    "Gold standard"
+   ],
+   "a": 2,
+   "w": "To realise surplus value."
+  },
+  {
+   "q": "She said freedom is always freedom for",
+   "o": [
+    "The one who thinks differently",
+    "The party",
+    "The majority",
+    "Workers only"
+   ],
+   "a": 0,
+   "w": "Russian Revolution, 1918."
+  },
+  {
+   "q": "She was killed in",
+   "o": [
+    "Moscow, 1924",
+    "Paris, 1871",
+    "Warsaw, 1905",
+    "Berlin, January 1919"
+   ],
+   "a": 3,
+   "w": "By Freikorps soldiers."
+  },
+  {
+   "q": "Which group did she co-found in 1916?",
+   "o": [
+    "The Bolsheviks",
+    "The SPD",
+    "The Spartacus League",
+    "The Comintern"
+   ],
+   "a": 2,
+   "w": "Later joined the KPD."
+  },
+  {
+   "q": "Lenin called her",
+   "o": [
+    "A renegade",
+    "A utopian",
+    "An anarchist",
+    "An eagle"
+   ],
+   "a": 3,
+   "w": "1922 comment."
+  },
+  {
+   "q": "Which critique targets her accumulation theory?",
+   "o": [
+    "It ignores colonies",
+    "Capitalists can sell to each other",
+    "It rejects Marx",
+    "It denies wages"
+   ],
+   "a": 1,
+   "w": "Bauer and Bukharin."
+  },
+  {
+   "q": "Which Indian strike was led outside established unions by Datta Samant?",
+   "o": [
+    "Railway strike, 1974",
+    "Kanpur strike, 1924",
+    "Ahmedabad strike, 1918",
+    "Bombay textile strike, 1982"
+   ],
+   "a": 3,
+   "w": "1982 strike."
+  },
+  {
+   "q": "Guha's Elementary Aspects of Peasant Insurgency (1983) stresses",
+   "o": [
+    "Party leadership",
+    "State planning",
+    "Peasant autonomy",
+    "Religion only"
+   ],
+   "a": 2,
+   "w": "Subaltern studies."
+  }
+ ],
+ "sources": [
+  "Luxemburg 1899, 1906, 1913, 1918"
+ ],
+ "verified": "2026-11-11"
+}

@@ -1,0 +1,174 @@
+{
+ "id": "1-0-3",
+ "title": "Chemical Equilibrium",
+ "emoji": "⚖️",
+ "cards": [
+  {
+   "tag": "Why this matters",
+   "h": "Reactions that go both ways",
+   "b": "<p>Many reactions do not run to completion. They reach a balance where products form and revert at the same rate. This <b>equilibrium</b> decides how much ammonia a plant makes, how your blood stays at the right pH and why fizzy drinks go flat when opened.</p>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "Dynamic balance",
+   "b": "<p>In a reversible reaction (written with a double arrow, ⇌) the forward and reverse reactions both occur. At <b>equilibrium</b> their rates are equal. Concentrations stay constant, but nothing has stopped: molecules keep reacting both ways, like a busy escalator with equal people going up and down.</p><p>Example: N2 + 3H2 ⇌ 2NH3.</p>"
+  },
+  {
+   "tag": "Key idea",
+   "h": "The equilibrium constant",
+   "b": "<p>For aA + bB ⇌ cC + dD, the constant is</p><div class=\"box\"><h4>Kc</h4><p>Kc = [C]^c [D]^d / ([A]^a [B]^b)</p></div><p>Brackets mean concentration in mol/L. For ammonia: Kc = [NH3]^2 / ([N2][H2]^3).</p><ul><li><b>Large K (much greater than 1):</b> mostly products.</li><li><b>Small K (much less than 1):</b> mostly reactants.</li><li>K depends only on temperature.</li></ul>"
+  },
+  {
+   "tag": "Key idea",
+   "h": "Le Chatelier's principle",
+   "b": "<p><b>Henri Le Chatelier, 1884</b>: if you disturb a system at equilibrium, it shifts to partly undo the disturbance.</p><ul><li><b>Add reactant:</b> shifts toward products.</li><li><b>Remove product:</b> shifts toward products.</li><li><b>Raise pressure:</b> shifts to the side with fewer gas molecules.</li><li><b>Raise temperature:</b> favours the endothermic direction.</li><li><b>Catalyst:</b> no shift, only reaches equilibrium faster.</li></ul>"
+  },
+  {
+   "tag": "Key idea",
+   "h": "The Haber process as a puzzle",
+   "b": "<p>N2 + 3H2 ⇌ 2NH3, exothermic (about -92 kJ per mole of reaction). <b>Fritz Haber</b> proved the method in 1909 and <b>Carl Bosch</b> scaled it up industrially by 1913.</p><svg class=\"d\" viewBox=\"0 0 320 180\"><defs><marker id=\"m1\" markerWidth=\"8\" markerHeight=\"8\" refX=\"6\" refY=\"4\" orient=\"auto\"><path d=\"M0,0 L8,4 L0,8 z\" fill=\"#5d6474\"/></marker></defs><rect x=\"20\" y=\"4\" width=\"280\" height=\"30\" rx=\"6\" fill=\"#f1e4c6\" stroke=\"#a8792a\"/><text x=\"160\" y=\"23\" text-anchor=\"middle\" font-size=\"11\" fill=\"#1d2433\">High pressure (~200 atm): favours fewer molecules</text><line x1=\"160\" y1=\"34\" x2=\"160\" y2=\"47\" stroke=\"#5d6474\" marker-end=\"url(#m1)\"/><rect x=\"20\" y=\"48\" width=\"280\" height=\"30\" rx=\"6\" fill=\"#f1e4c6\" stroke=\"#a8792a\"/><text x=\"160\" y=\"67\" text-anchor=\"middle\" font-size=\"11\" fill=\"#1d2433\">Moderate temp (~450 C): speed vs yield compromise</text><line x1=\"160\" y1=\"78\" x2=\"160\" y2=\"91\" stroke=\"#5d6474\" marker-end=\"url(#m1)\"/><rect x=\"20\" y=\"92\" width=\"280\" height=\"30\" rx=\"6\" fill=\"#f1e4c6\" stroke=\"#a8792a\"/><text x=\"160\" y=\"111\" text-anchor=\"middle\" font-size=\"11\" fill=\"#1d2433\">Iron catalyst: faster, no shift</text><line x1=\"160\" y1=\"122\" x2=\"160\" y2=\"135\" stroke=\"#5d6474\" marker-end=\"url(#m1)\"/><rect x=\"20\" y=\"136\" width=\"280\" height=\"30\" rx=\"6\" fill=\"#f1e4c6\" stroke=\"#a8792a\"/><text x=\"160\" y=\"155\" text-anchor=\"middle\" font-size=\"11\" fill=\"#1d2433\">Remove NH3 as liquid: pushes forward</text></svg>"
+  },
+  {
+   "tag": "Key idea",
+   "h": "Equilibrium in everyday life",
+   "b": "<p>A fizzy drink holds CO2 in solution: CO2(g) ⇌ CO2(aq). Opening the bottle drops pressure, so CO2 escapes. Blood contains a CO2 / bicarbonate buffer system keeping pH near 7.4. Oceans absorb CO2 forming carbonic acid, the root of ocean acidification.</p>"
+  },
+  {
+   "tag": "Worked example",
+   "h": "Calculating Kc",
+   "b": "<p>A + B ⇌ C. At equilibrium [A] = 0.20, [B] = 0.10, [C] = 0.40 mol/L.</p><p>Kc = [C] / ([A][B]) = 0.40 / (0.20 x 0.10) = <b>20</b>. Products are favoured.</p><p>Le Chatelier check: if more B is added, equilibrium shifts forward, giving more C until Kc returns to 20.</p>"
+  },
+  {
+   "tag": "Misconceptions",
+   "h": "Pitfalls",
+   "b": "<ul><li><b>Equal concentrations are not equilibrium.</b> Equal rates are.</li><li><b>Catalysts do not change K</b> or the yield, only the speed.</li><li><b>Equilibrium does not mean the reaction has stopped.</b></li><li><b>Pure solids and liquids are left out of K.</b></li></ul>"
+  },
+  {
+   "tag": "Indian angle",
+   "h": "India's fertiliser backbone",
+   "b": "<p>India's urea industry relies on ammonia made by high-pressure equilibrium chemistry. Cooperative giants like <b>IFFCO</b> (founded 1967) and many public-sector units run plants where engineers tune pressure, temperature and catalysts using exactly these principles to maximise yield and cut energy use. Shifting to green ammonia from renewable hydrogen is now a stated national goal.</p>"
+  },
+  {
+   "tag": "Recap",
+   "h": "Key takeaways",
+   "b": "<ul><li>Equilibrium: forward rate equals reverse rate; concentrations constant.</li><li>Kc = products over reactants, each raised to its coefficient; depends only on temperature.</li><li>Le Chatelier: systems oppose a disturbance.</li></ul><div class=\"box\"><h4>Think about it</h4><p>1. Why use a compromise temperature in the Haber process?</p><p>2. Why does warm soda go flat faster than cold soda?</p></div>",
+   "cls": "exam"
+  }
+ ],
+ "quiz": [
+  {
+   "q": "At equilibrium:",
+   "o": [
+    "Forward and reverse rates are equal",
+    "Reactions stop",
+    "All reactant is used",
+    "Concentrations are equal"
+   ],
+   "a": 0,
+   "w": "Dynamic balance."
+  },
+  {
+   "q": "Kc for N2 + 3H2 ⇌ 2NH3:",
+   "o": [
+    "[NH3]^2 / ([N2][H2]^3)",
+    "[NH3] / ([N2][H2])",
+    "[N2][H2]^3 / [NH3]^2",
+    "2[NH3] / 3[H2]"
+   ],
+   "a": 0,
+   "w": "Coefficients become powers."
+  },
+  {
+   "q": "Large Kc means:",
+   "o": [
+    "Mostly reactants",
+    "Mostly products",
+    "No reaction",
+    "Fast reaction"
+   ],
+   "a": 1,
+   "w": "K measures position, not speed."
+  },
+  {
+   "q": "Raising pressure in Haber process shifts to:",
+   "o": [
+    "Ammonia",
+    "Nitrogen and hydrogen",
+    "No shift",
+    "Water"
+   ],
+   "a": 0,
+   "w": "4 mol gas to 2 mol."
+  },
+  {
+   "q": "A catalyst at equilibrium:",
+   "o": [
+    "Increases K",
+    "Decreases K",
+    "Does not change K",
+    "Removes product"
+   ],
+   "a": 2,
+   "w": "Speeds both directions equally."
+  },
+  {
+   "q": "[A]=0.5, [B]=0.2 and [C]=1.0 in A + B ⇌ C. Kc?",
+   "o": [
+    "10",
+    "0.1",
+    "5",
+    "2"
+   ],
+   "a": 0,
+   "w": "1.0 / (0.5 x 0.2)."
+  },
+  {
+   "q": "Le Chatelier's principle was proposed in:",
+   "o": [
+    "1909",
+    "1776",
+    "1950",
+    "1884"
+   ],
+   "a": 3,
+   "w": "Henri Le Chatelier."
+  },
+  {
+   "q": "Raising temperature of an exothermic equilibrium:",
+   "o": [
+    "Shifts to reactants",
+    "Shifts to products",
+    "Has no effect",
+    "Doubles K"
+   ],
+   "a": 0,
+   "w": "Favours endothermic direction."
+  },
+  {
+   "q": "Haber process was proved by:",
+   "o": [
+    "Lavoisier, 1789",
+    "Fritz Haber, 1909",
+    "Bosch, 1950",
+    "Bohr, 1913"
+   ],
+   "a": 1,
+   "w": "Bosch industrialised it."
+  },
+  {
+   "q": "Why does a soda go flat when opened?",
+   "o": [
+    "Pressure drops, CO2 escapes, equilibrium shifts",
+    "Sugar reacts",
+    "Water evaporates",
+    "Bubbles are nitrogen"
+   ],
+   "a": 0,
+   "w": "CO2(aq) ⇌ CO2(g)."
+  }
+ ],
+ "sources": [
+  "Standard school and university chemistry texts"
+ ],
+ "verified": "2026-11-11"
+}

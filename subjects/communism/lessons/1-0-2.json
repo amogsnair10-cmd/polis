@@ -1,0 +1,177 @@
+{
+ "id": "1-0-2",
+ "title": "Capital: Value, Surplus Value and Crisis",
+ "emoji": "📈",
+ "cards": [
+  {
+   "tag": "Why this matters",
+   "h": "Marx's economics in plain words",
+   "b": "<p><i>Capital</i> (Volume 1, 1867) is the book most people cite and few read. Its question is simple: if markets exchange equal values, where does profit come from? Marx's answer, <b>surplus value</b>, is the theoretical core of the claim that capitalism rests on exploitation.</p>"
+  },
+  {
+   "tag": "Context",
+   "h": "From Smith and Ricardo to Marx",
+   "b": "<p>Marx built on the classical economists. Adam Smith (<i>Wealth of Nations</i>, 1776) and David Ricardo (1817) held that the value of a good comes from labour. Marx wrote Volume 1 in London after years in the British Museum library. Engels edited Volumes 2 (1885) and 3 (1894) from Marx's notes after his death in 1883.</p>"
+  },
+  {
+   "tag": "Key idea",
+   "h": "Value and the commodity",
+   "b": "<p>A commodity has <b>use-value</b> (usefulness) and <b>exchange-value</b> (what it trades for). Marx argues the value of commodities reflects the <b>socially necessary labour time</b> to produce them under average conditions. Money is the general form of value. Prices fluctuate, but over time they are ruled by labour content, he claims.</p>"
+  },
+  {
+   "tag": "Key idea",
+   "h": "Surplus value and exploitation",
+   "b": "<p>The worker sells <b>labour power</b>, not labour. Its price, the wage, equals the cost of keeping the worker alive. But in a working day the worker produces more value than that. If a worker covers wages in 4 hours of a 10-hour day, the other 6 hours yield <b>surplus value</b>, taken by the capitalist. The <b>rate of exploitation</b> is surplus value divided by variable capital (wages).</p><p>Exchange at the wage is fair on the surface; exploitation hides in the production process.</p><svg class=\"d\" viewBox=\"0 0 320 194\" xmlns=\"http://www.w3.org/2000/svg\" font-family=\"sans-serif\"><defs><marker id=\"a1\" markerWidth=\"8\" markerHeight=\"8\" refX=\"6\" refY=\"4\" orient=\"auto\"><path d=\"M0,0 L8,4 L0,8 z\" fill=\"#5d6474\"/></marker></defs><rect x=\"25\" y=\"6\" width=\"270\" height=\"25\" rx=\"7\" fill=\"#dceaec\" stroke=\"#2f6f7a\"/><text x=\"160\" y=\"22\" font-size=\"11\" fill=\"#1d2433\" text-anchor=\"middle\">Worker sells labour power for a wage</text><line x1=\"160\" y1=\"31\" x2=\"160\" y2=\"47\" stroke=\"#5d6474\" marker-end=\"url(#a1)\"/><rect x=\"25\" y=\"49\" width=\"270\" height=\"38\" rx=\"7\" fill=\"#dceaec\" stroke=\"#2f6f7a\"/><text x=\"160\" y=\"65\" font-size=\"11\" fill=\"#1d2433\" text-anchor=\"middle\">Works 10 hours: value produced exceeds the</text><text x=\"160\" y=\"78\" font-size=\"11\" fill=\"#1d2433\" text-anchor=\"middle\">wage</text><line x1=\"160\" y1=\"87\" x2=\"160\" y2=\"103\" stroke=\"#5d6474\" marker-end=\"url(#a1)\"/><rect x=\"25\" y=\"105\" width=\"270\" height=\"38\" rx=\"7\" fill=\"#dceaec\" stroke=\"#2f6f7a\"/><text x=\"160\" y=\"121\" font-size=\"11\" fill=\"#1d2433\" text-anchor=\"middle\">Necessary labour pays the wage; surplus</text><text x=\"160\" y=\"134\" font-size=\"11\" fill=\"#1d2433\" text-anchor=\"middle\">labour is unpaid</text><line x1=\"160\" y1=\"143\" x2=\"160\" y2=\"159\" stroke=\"#5d6474\" marker-end=\"url(#a1)\"/><rect x=\"25\" y=\"161\" width=\"270\" height=\"25\" rx=\"7\" fill=\"#f1e4c6\" stroke=\"#a8792a\"/><text x=\"160\" y=\"177\" font-size=\"11\" fill=\"#1d2433\" text-anchor=\"middle\">Capitalist keeps surplus value as profit</text></svg>"
+  },
+  {
+   "tag": "Key idea",
+   "h": "Accumulation and the falling rate of profit",
+   "b": "<p>Competition forces capitalists to invest in machines (<b>constant capital</b>). Since only living labour creates surplus value, Marx argues that a rising ratio of machines to labour tends to lower the rate of profit (Volume 3). Counter-forces exist: cheaper goods, longer hours, new markets. The industrial reserve army of unemployed keeps wages down. Capital concentrates into fewer, larger firms.</p>"
+  },
+  {
+   "tag": "Key idea",
+   "h": "Crisis and the end of capitalism",
+   "b": "<p>Marx sees crises of overproduction and credit as built into the system: production expands faster than demand. Booms and slumps recur (1825, 1857, 1873...). In Volume 1 chapter 32 he predicts that \"the expropriators are expropriated\". He did not give a date, and in the <i>Grundrisse</i> (1857-58, published 1939-41) he even hints at automation reducing labour.</p>"
+  },
+  {
+   "tag": "In practice",
+   "h": "What the record shows",
+   "b": "<p>Real wages did rise in rich countries; Marx's \"increasing misery\" did not appear as a steady fall in living standards. But inequality fell in the mid-20th century, then rose again; Piketty's <i>Capital in the Twenty-First Century</i> (2013) revived Marxian themes with data. Crises did recur: 1929, 2008. Concentration into giant firms is real. Yet capitalism proved adaptable through welfare states and credit.</p>"
+  },
+  {
+   "tag": "Critiques",
+   "h": "Economists and Marxists",
+   "b": "<p><b>Böhm-Bawerk</b> (1896) pointed to the \"transformation problem\": Marx's values and actual prices of production do not match neatly. <b>Marginalists</b> (Jevons, Menger, 1870s) say value comes from subjective utility, not labour. <b>Okishio's theorem</b> (1961) shows that cost-cutting innovation need not lower the profit rate. <b>Joan Robinson</b> thought the labour theory unnecessary; <b>Analytical Marxists</b> (Roemer) say exploitation can be defined without it. <b>Hayek</b> says prices carry information that labour times cannot.</p>"
+  },
+  {
+   "tag": "Indian angle",
+   "h": "Capital and Indian economics",
+   "b": "<p>Dadabhai Naoroji's drain theory (<i>Poverty and Un-British Rule in India</i>, 1901) and R.C. Dutt's <i>Economic History of India</i> (1901-03) anticipate imperialism critiques. Post-Independence, P.C. Mahalanobis's Second Five-Year Plan (1956) drew on Soviet planning. Marxist economists such as Prabhat Patnaik and Utsa Patnaik (<i>Capital and Imperialism</i>, 2021) continue the Marxian tradition; \"Capital\" was also the prop of arguments over agrarian classes (Mode of Production debate, 1970s).</p>"
+  },
+  {
+   "tag": "Recap",
+   "h": "Five takeaways and two debates",
+   "b": "<h4>Key takeaways</h4><ol><li>Value is socially necessary labour time; labour power is the commodity workers sell.</li><li>Surplus value arises from unpaid surplus labour.</li><li>Accumulation raises machinery and may lower the rate of profit.</li><li>Crises are recurrent; Marx foresaw concentration and the \"expropriation of the expropriators\".</li><li>The transformation problem and marginalism challenge the labour theory.</li></ol><h4>Debate questions</h4><ol><li>Does exploitation require the labour theory of value?</li><li>Have welfare states disproved Marx's predictions or only postponed them?</li></ol>",
+   "cls": "exam"
+  }
+ ],
+ "quiz": [
+  {
+   "q": "Volume 1 of Capital was published in",
+   "o": [
+    "1848",
+    "1883",
+    "1894",
+    "1867"
+   ],
+   "a": 3,
+   "w": "Hamburg, 1867."
+  },
+  {
+   "q": "Who edited Volumes 2 and 3 of Capital?",
+   "o": [
+    "Engels",
+    "Kautsky",
+    "Lenin",
+    "Bernstein"
+   ],
+   "a": 0,
+   "w": "1885 and 1894."
+  },
+  {
+   "q": "Surplus value arises from",
+   "o": [
+    "Unpaid labour beyond the wage equivalent",
+    "Trading above value",
+    "Rent alone",
+    "Government taxes"
+   ],
+   "a": 0,
+   "w": "In production, not exchange."
+  },
+  {
+   "q": "Constant capital refers to",
+   "o": [
+    "Machinery and materials",
+    "Wages",
+    "Money loans",
+    "Land rent"
+   ],
+   "a": 0,
+   "w": "Variable capital is wages."
+  },
+  {
+   "q": "Marx's falling-rate-of-profit argument appears in",
+   "o": [
+    "Volume 3",
+    "The Manifesto",
+    "The Gotha Programme",
+    "Volume 1 chapter 1 only"
+   ],
+   "a": 0,
+   "w": "Edited by Engels in 1894."
+  },
+  {
+   "q": "The \"transformation problem\" was pressed by",
+   "o": [
+    "Ricardo",
+    "Böhm-Bawerk",
+    "Piketty",
+    "Keynes"
+   ],
+   "a": 1,
+   "w": "1896 critique."
+  },
+  {
+   "q": "Marginalists held that value comes from",
+   "o": [
+    "Subjective utility",
+    "Labour time",
+    "State decree",
+    "Land"
+   ],
+   "a": 0,
+   "w": "Jevons, Menger."
+  },
+  {
+   "q": "Okishio's theorem (1961) challenges",
+   "o": [
+    "The idea of money",
+    "Class struggle",
+    "Use-value",
+    "The falling rate of profit argument"
+   ],
+   "a": 3,
+   "w": "Cost-cutting innovation can raise the profit rate."
+  },
+  {
+   "q": "Piketty's Capital in the Twenty-First Century appeared in",
+   "o": [
+    "1999",
+    "1867",
+    "2021",
+    "2013"
+   ],
+   "a": 3,
+   "w": "English edition 2014; French 2013."
+  },
+  {
+   "q": "Which Indian writer produced the \"drain theory\" in Poverty and Un-British Rule in India?",
+   "o": [
+    "Gokhale",
+    "Tilak",
+    "Dadabhai Naoroji",
+    "Lajpat Rai"
+   ],
+   "a": 2,
+   "w": "1901."
+  }
+ ],
+ "sources": [
+  "Marx Capital I 1867",
+  "Böhm-Bawerk 1896",
+  "Okishio 1961",
+  "Piketty 2013"
+ ],
+ "verified": "2026-11-11"
+}

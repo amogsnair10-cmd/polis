@@ -1,0 +1,175 @@
+{
+ "id": "2-0-2",
+ "title": "Birth of Stars: Nebulae and Protostars",
+ "emoji": "🌫️",
+ "cards": [
+  {
+   "tag": "Why this matters",
+   "h": "Stars are being born right now",
+   "b": "<p>Stars live for millions to trillions of years, so we cannot watch one grow. But the sky holds stars of every age at once, like a forest with seedlings and old trees. In the Milky Way about one to two new Sun-like stars form each year, in dark, cold clouds.</p><svg class=\"d\" viewBox=\"0 0 320 110\"><defs><marker id=\"ar1\" viewBox=\"0 0 10 10\" refX=\"9\" refY=\"5\" markerWidth=\"6\" markerHeight=\"6\" orient=\"auto\"><path d=\"M0 0L10 5L0 10z\" fill=\"#5d6474\"/></marker></defs><rect x=\"5\" y=\"35\" width=\"60\" height=\"36\" rx=\"5\" fill=\"#dceaec\" stroke=\"#2f6f7a\"/><text x=\"35.0\" y=\"51.0\" text-anchor=\"middle\" font-size=\"11\" fill=\"#1d2433\">Cold</text><text x=\"35.0\" y=\"64.0\" text-anchor=\"middle\" font-size=\"11\" fill=\"#1d2433\">cloud</text><line x1=\"65\" y1=\"53\" x2=\"85\" y2=\"53\" stroke=\"#5d6474\" stroke-width=\"1.5\" marker-end=\"url(#ar1)\"/><rect x=\"85\" y=\"35\" width=\"60\" height=\"36\" rx=\"5\" fill=\"#f1e4c6\" stroke=\"#a8792a\"/><text x=\"115.0\" y=\"51.0\" text-anchor=\"middle\" font-size=\"11\" fill=\"#1d2433\">Clump</text><text x=\"115.0\" y=\"64.0\" text-anchor=\"middle\" font-size=\"11\" fill=\"#1d2433\">collapses</text><line x1=\"145\" y1=\"53\" x2=\"165\" y2=\"53\" stroke=\"#5d6474\" stroke-width=\"1.5\" marker-end=\"url(#ar1)\"/><rect x=\"165\" y=\"35\" width=\"70\" height=\"36\" rx=\"5\" fill=\"#f1e4c6\" stroke=\"#a8792a\"/><text x=\"200.0\" y=\"51.0\" text-anchor=\"middle\" font-size=\"11\" fill=\"#1d2433\">Protostar</text><text x=\"200.0\" y=\"64.0\" text-anchor=\"middle\" font-size=\"11\" fill=\"#1d2433\">+ disc</text><line x1=\"235\" y1=\"53\" x2=\"255\" y2=\"53\" stroke=\"#5d6474\" stroke-width=\"1.5\" marker-end=\"url(#ar1)\"/><rect x=\"255\" y=\"35\" width=\"60\" height=\"36\" rx=\"5\" fill=\"#f4dcd5\" stroke=\"#a3362a\"/><text x=\"285.0\" y=\"51.0\" text-anchor=\"middle\" font-size=\"11\" fill=\"#1d2433\">Star</text><text x=\"285.0\" y=\"64.0\" text-anchor=\"middle\" font-size=\"11\" fill=\"#1d2433\">ignites</text><text x=\"160\" y=\"98\" text-anchor=\"middle\" font-size=\"10\" fill=\"#5d6474\">Millions of years</text></svg>"
+  },
+  {
+   "tag": "Concept",
+   "h": "Molecular clouds: the nurseries",
+   "b": "<p>Stars form in <b>molecular clouds</b>: cold (about 10 K), dense clouds of hydrogen gas (as H2 molecules) and dust, weighing thousands to millions of Suns. Dust blocks starlight, so they look like black patches, e.g. the Horsehead Nebula. In them the gas is cold enough that gravity can beat the pressure.</p>"
+  },
+  {
+   "tag": "Concept",
+   "h": "Collapse begins",
+   "b": "<p>A part of the cloud, nudged by a shockwave from a nearby supernova, a collision of clouds or a passing spiral arm, becomes dense enough that gravity wins. This is the <b>Jeans instability</b>. The clump falls inward and fragments into many cores, which is why stars are born in <b>clusters</b>, like the Pleiades.</p>"
+  },
+  {
+   "tag": "Concept",
+   "h": "Protostar and disc",
+   "b": "<p>Collapsing material heats up. A hot, glowing, not-yet-fusing core forms: a <b>protostar</b>. Spin flattens the surrounding material into a disc and it also launches two <b>jets</b> along the axis, which carry away spin. The disc feeds the star and later forms planets, as in lesson 1-0-4.</p>"
+  },
+  {
+   "tag": "Concept",
+   "h": "Ignition and mass limits",
+   "b": "<p>When the core reaches about <b>10 million K</b>, hydrogen fusion starts and the star joins the main sequence. If the object is lighter than about <b>0.08 Suns</b> (80 Jupiters), the core never gets hot enough for hydrogen fusion; it becomes a <b>brown dwarf</b>. At the top, stars above roughly 100 Suns are rare because radiation tears them up. Small stars are much more common than large ones.</p>"
+  },
+  {
+   "tag": "Concept",
+   "h": "Radiation and feedback",
+   "b": "<p>Newborn massive stars blow winds and ionising light that carve cavities and may stop further star formation, or compress neighbouring gas and trigger it. The famous <b>Pillars of Creation</b> in the Eagle Nebula (Hubble 1995, JWST 2022) are towers of gas being eroded by such stars.</p>"
+  },
+  {
+   "tag": "How we know",
+   "h": "Seeing through dust",
+   "b": "<p>Visible light cannot pass through dense dust, but infrared and radio can. The <b>Orion Nebula</b>, about 1,350 light-years away and visible to the naked eye as a fuzzy 'star' in Orion's sword, holds stars at all ages. <b>Spitzer</b>, <b>Herschel</b>, <b>ALMA</b> and <b>JWST</b> reveal protostars, discs and jets, matching the theory.</p>"
+  },
+  {
+   "tag": "Misconceptions",
+   "h": "Clearing up",
+   "b": "<ul><li><b>'Nebulae are just pretty clouds.'</b> They are both nurseries and graveyards.</li><li><b>'A star forms in one go.'</b> Formation takes up to a few million years.</li><li><b>'Brown dwarfs are planets.'</b> They are heavier than planets but too light to be true stars.</li></ul>"
+  },
+  {
+   "tag": "Indian angle",
+   "h": "Mriga, Orion and radio hydrogen",
+   "b": "<p>In Indian tradition Orion is <b>Mriga</b>, the deer, with <b>Mrigashira</b> a nakshatra; the three stars of Orion's belt were seen as an arrow aimed at it. The <b>GMRT</b> maps cold hydrogen gas through the 21 cm radio line, tracing the gas that forms stars. ISRO's <b>AstroSat</b> Ultraviolet Imaging Telescope has studied young hot stars in star clusters and galaxies.</p>"
+  },
+  {
+   "tag": "Recap",
+   "h": "Key takeaways",
+   "b": "<ul><li>Stars form from cold, dense molecular clouds that collapse under gravity.</li><li>A protostar with a disc and jets forms first; fusion starts at about 10 million K.</li><li>Below 0.08 solar masses, an object is a brown dwarf.</li><li>Infrared and radio let us see inside nurseries like Orion.</li></ul><p><b>Think about it:</b> (1) Why are stars often born in groups? (2) Why do hot young stars end up destroying their own nursery?</p>",
+   "cls": "exam"
+  }
+ ],
+ "quiz": [
+  {
+   "q": "Stars form in:",
+   "o": [
+    "Hot plasma",
+    "Cold molecular clouds",
+    "Black holes",
+    "Planetary atmospheres"
+   ],
+   "a": 1,
+   "w": "Cold dense gas and dust."
+  },
+  {
+   "q": "A protostar is:",
+   "o": [
+    "A star fusing helium",
+    "A hot core not yet fusing hydrogen",
+    "A dead star",
+    "A planet"
+   ],
+   "a": 1,
+   "w": "Before ignition."
+  },
+  {
+   "q": "Hydrogen fusion begins at about:",
+   "o": [
+    "10 million K",
+    "10,000 K",
+    "1 billion K",
+    "100 K"
+   ],
+   "a": 0,
+   "w": "Core temperature around 10 million K."
+  },
+  {
+   "q": "Objects below about 0.08 Suns are called:",
+   "o": [
+    "Brown dwarfs",
+    "White dwarfs",
+    "Neutron stars",
+    "Comets"
+   ],
+   "a": 0,
+   "w": "They cannot fuse hydrogen."
+  },
+  {
+   "q": "Why do we need infrared to see star birth?",
+   "o": [
+    "Dust blocks visible light",
+    "Stars emit only infrared",
+    "It is cheaper",
+    "Visible light is too strong"
+   ],
+   "a": 0,
+   "w": "Infrared passes through dust."
+  },
+  {
+   "q": "Why do stars often form in clusters?",
+   "o": [
+    "Clouds fragment into many cores",
+    "They are attracted later",
+    "They orbit planets",
+    "Random chance only"
+   ],
+   "a": 0,
+   "w": "Collapse fragments."
+  },
+  {
+   "q": "The Orion Nebula is about:",
+   "o": [
+    "135 light-years",
+    "1,350 light-years",
+    "135,000 light-years",
+    "1.3 million light-years"
+   ],
+   "a": 1,
+   "w": "About 1,300 to 1,350 light-years."
+  },
+  {
+   "q": "Jets from protostars help to:",
+   "o": [
+    "Remove spin",
+    "Heat the Sun",
+    "Make planets",
+    "Create dust"
+   ],
+   "a": 0,
+   "w": "They carry away angular momentum."
+  },
+  {
+   "q": "The Jeans instability describes:",
+   "o": [
+    "Gravity overcoming pressure in a cloud",
+    "Star death",
+    "Black hole growth",
+    "Planet migration"
+   ],
+   "a": 0,
+   "w": "A cloud above a critical mass collapses."
+  },
+  {
+   "q": "The GMRT maps star-forming gas using:",
+   "o": [
+    "21 cm hydrogen line",
+    "X-rays",
+    "Gamma rays",
+    "Optical light"
+   ],
+   "a": 0,
+   "w": "Radio line of neutral hydrogen."
+  }
+ ],
+ "sources": [
+  "Orion Nebula",
+  "Pillars of Creation JWST 2022"
+ ],
+ "verified": "2026-11-11"
+}

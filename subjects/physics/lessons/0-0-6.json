@@ -1,0 +1,177 @@
+{
+ "id": "0-0-6",
+ "title": "Gravitation and Orbits",
+ "emoji": "🪐",
+ "cards": [
+  {
+   "tag": "Why this matters",
+   "h": "The force that holds the cosmos together",
+   "b": "<p>The same pull that drops an apple keeps the Moon circling Earth, Earth circling the Sun, and the Sun circling the Milky Way. Newton's great leap, around 1687, was to see that these are one thing.</p><p>This idea gave humanity its first law that worked equally on Earth and in the sky, and today it guides every satellite and space probe.</p>"
+  },
+  {
+   "tag": "Concept",
+   "h": "Newton's law of gravitation",
+   "b": "<div class=\"box\"><h4>Universal gravitation</h4>F = G m1 m2 / r squared</div><p>Every mass pulls every other mass. The pull grows with the masses and falls with the <b>square</b> of the distance. Double the distance and the force drops to one-quarter.</p><p>G is a tiny constant, 6.67 x 10 to the power -11 in SI units. Henry Cavendish first measured it in 1798 with a delicate torsion balance. Gravity between everyday objects is too weak to notice; it only shows up when one body is as big as a planet."
+  },
+  {
+   "tag": "Concept",
+   "h": "Why g = 9.8 m/s squared",
+   "b": "<p>At the surface, a mass m feels F = G M m / R squared. Dividing by m gives the acceleration:</p><div class=\"box\"><h4>Surface gravity</h4>g = G M / R squared</div><p>For Earth, M is about 6 x 10 to the power 24 kg and R about 6.4 x 10 to the power 6 m, giving g near 9.8. Move higher and g shrinks with distance squared: at a height equal to Earth's radius (r = 2R), g is one-quarter. The Moon, with less mass and smaller size, has g of about 1.6, roughly one-sixth of Earth's."
+  },
+  {
+   "tag": "Concept",
+   "h": "Kepler's three laws",
+   "b": "<p>Johannes Kepler, studying Tycho Brahe's data, found three rules for planets:</p><ol><li><b>1609:</b> orbits are ellipses with the Sun at one focus.</li><li><b>1609:</b> a line from Sun to planet sweeps equal areas in equal times, so planets move faster when closer.</li><li><b>1619:</b> the square of the orbital period is proportional to the cube of the average distance.</li></ol><p>Newton showed all three follow from his inverse-square law. That was a stunning proof."
+  },
+  {
+   "tag": "Concept",
+   "h": "Orbits: falling and missing",
+   "b": "<p>Imagine firing a cannonball sideways from a mountain. It curves down and lands. Fire it faster and it lands farther. Fire it fast enough, about 7.9 km/s near Earth's surface, and the ground curves away as fast as the ball falls. It never lands. That is an orbit.</p><p>Orbital speed at distance r is v = square root of (G M / r). Farther orbits are slower. The International Space Station, about 400 km up, circles Earth in about 92 minutes, and its astronauts feel weightless because they are in continuous free fall.<svg class=\"d\" viewBox=\"0 0 320 150\"><defs><marker id=\"f1\" markerWidth=\"8\" markerHeight=\"8\" refX=\"7\" refY=\"4\" orient=\"auto\"><path d=\"M0,0 L8,4 L0,8z\" fill=\"#a3362a\"/></marker></defs><circle cx=\"160\" cy=\"75\" r=\"26\" fill=\"#dceaec\" stroke=\"#2f6f7a\" stroke-width=\"2\"/><text x=\"144\" y=\"79\" font-size=\"11\" fill=\"#1d2433\">Earth</text><ellipse cx=\"160\" cy=\"75\" rx=\"120\" ry=\"60\" fill=\"none\" stroke=\"#a8792a\" stroke-width=\"2\" stroke-dasharray=\"5 4\"/><circle cx=\"280\" cy=\"75\" r=\"7\" fill=\"#a8792a\"/><line x1=\"272\" y1=\"75\" x2=\"195\" y2=\"75\" stroke=\"#a3362a\" stroke-width=\"2.5\" marker-end=\"url(#f1)\"/><text x=\"215\" y=\"66\" font-size=\"10\" fill=\"#a3362a\">gravity</text><text x=\"236\" y=\"100\" font-size=\"10\" fill=\"#1d2433\">satellite</text><text x=\"20\" y=\"20\" font-size=\"11\" fill=\"#5d6474\">Always falling toward Earth, always missing it</text></svg></p>"
+  },
+  {
+   "tag": "Concept",
+   "h": "Escape velocity and special orbits",
+   "b": "<p>To leave Earth for good, a rocket needs the <b>escape velocity</b>: v = square root of (2 G M / R), about 11.2 km/s. It does not depend on the rocket's mass.</p><p>A satellite at about 35,786 km above the equator takes exactly one day to go round, matching Earth's spin. Seen from the ground it hovers in place. This is a <b>geostationary orbit</b>, used for communications and weather."
+  },
+  {
+   "tag": "Worked example",
+   "h": "Gravity at 2 Earth radii",
+   "b": "<p>At the surface g = 9.8. If you are at distance r = 2R from Earth's centre (that is, one radius above the surface), g falls by 2 squared = 4.</p><p>g = 9.8 / 4 = <b>2.45 m/s squared</b>.</p><p>A 60 kg person would weigh 60 x 9.8 = 588 N on the surface and 147 N at that height. Their mass stays 60 kg."
+  },
+  {
+   "tag": "Misconceptions",
+   "h": "Space is not magic",
+   "b": "<ul><li><b>'Astronauts float because there is no gravity.'</b> At the ISS gravity is still about 90 percent of the surface value. They float because they are falling freely along with the station.</li><li><b>'Heavier planets must have bigger g.'</b> g depends on M and R squared. A big, light planet can have weak surface gravity.</li><li><b>'The Sun's pull is only felt up close.'</b> Gravity has infinite range; it just weakens.</li></ul>"
+  },
+  {
+   "tag": "Indian angle",
+   "h": "Aryabhata, from astronomer to satellite",
+   "b": "<p>The astronomer Aryabhata (born 476 CE) wrote in the <i>Aryabhatiya</i> that the Earth rotates on its axis, explaining the apparent motion of stars. India's first satellite, launched by the Soviet Union on 19 April 1975, was named Aryabhata in his honour.</p><p>Today India's INSAT and GSAT satellites sit in geostationary orbit at about 36,000 km, and Mangalyaan reached Mars orbit on 24 September 2014 on India's first try, using a gravity-assisted path planned with exactly these laws."
+  },
+  {
+   "tag": "Recap",
+   "h": "Key takeaways",
+   "b": "<ul><li>F = G m1 m2 / r squared: weaker with the square of distance.</li><li>Surface gravity g = G M / R squared.</li><li>Kepler's laws describe planetary orbits; Newton explained them.</li><li>Orbiting means falling around the planet; escape speed from Earth is 11.2 km/s.</li></ul><div class=\"box\"><h4>Think about it</h4>1. If Earth's mass were doubled but its radius kept, what would happen to your weight?<br>2. Why must a geostationary satellite be at one particular height?</div>",
+   "cls": "exam"
+  }
+ ],
+ "quiz": [
+  {
+   "q": "In Newton's law, if distance between two masses doubles, force becomes",
+   "o": [
+    "Half",
+    "One-quarter",
+    "Double",
+    "Four times"
+   ],
+   "a": 1,
+   "w": "Inverse square."
+  },
+  {
+   "q": "Who first measured the gravitational constant G in the laboratory?",
+   "o": [
+    "Galileo",
+    "Kepler",
+    "Cavendish",
+    "Newton"
+   ],
+   "a": 2,
+   "w": "Henry Cavendish, 1798."
+  },
+  {
+   "q": "Kepler's second law says a planet moves fastest when it is",
+   "o": [
+    "Farthest from the Sun",
+    "Closest to the Sun",
+    "At rest",
+    "On the minor axis"
+   ],
+   "a": 1,
+   "w": "Equal areas in equal times."
+  },
+  {
+   "q": "Kepler's third law links",
+   "o": [
+    "Period squared and distance cubed",
+    "Speed and mass",
+    "Force and time",
+    "Mass and radius"
+   ],
+   "a": 0,
+   "w": "T squared is proportional to r cubed."
+  },
+  {
+   "q": "Near Earth's surface the orbital speed is about",
+   "o": [
+    "1.1 km/s",
+    "11.2 km/s",
+    "7.9 km/s",
+    "30 km/s"
+   ],
+   "a": 2,
+   "w": "About 7.9 km/s."
+  },
+  {
+   "q": "Escape velocity from Earth is about",
+   "o": [
+    "7.9 km/s",
+    "11.2 km/s",
+    "300 km/s",
+    "1 km/s"
+   ],
+   "a": 1,
+   "w": "11.2 km/s."
+  },
+  {
+   "q": "Astronauts on the ISS float because",
+   "o": [
+    "There is no gravity there",
+    "They are in continuous free fall",
+    "Air supports them",
+    "They are too far from Earth"
+   ],
+   "a": 1,
+   "w": "Gravity is still about 90% of surface value."
+  },
+  {
+   "q": "At height R above the surface (r = 2R), g is about (surface g = 10)",
+   "o": [
+    "10",
+    "5",
+    "2.5",
+    "20"
+   ],
+   "a": 2,
+   "w": "10/4."
+  },
+  {
+   "q": "A geostationary satellite orbits once every",
+   "o": [
+    "90 minutes",
+    "12 hours",
+    "24 hours",
+    "27 days"
+   ],
+   "a": 2,
+   "w": "Matches Earth's rotation."
+  },
+  {
+   "q": "India's first satellite, Aryabhata, was launched in",
+   "o": [
+    "1957",
+    "1975",
+    "1984",
+    "2008"
+   ],
+   "a": 1,
+   "w": "19 April 1975."
+  }
+ ],
+ "sources": [
+  "NCERT Physics Class 11-12",
+  "Halliday, Resnick and Walker, Fundamentals of Physics",
+  "Newton, Principia (1687)",
+  "ISRO Mars Orbiter Mission"
+ ],
+ "verified": "2026-11-11"
+}

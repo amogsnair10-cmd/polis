@@ -1,0 +1,176 @@
+{
+ "id": "2-0-0",
+ "title": "Electric Charge and Fields",
+ "emoji": "⚡",
+ "cards": [
+  {
+   "tag": "Why this matters",
+   "h": "The force behind almost everything you touch",
+   "b": "<p>Static cling, a spark from a doorknob, lightning, a phone screen, even why you do not fall through the floor: all are electric forces. Gravity holds planets together, but between atoms and molecules, electric force rules, and it is vastly stronger.</p><p>Understanding charge and its field is the first step to all of electronics, chemistry and biology.</p>"
+  },
+  {
+   "tag": "Concept",
+   "h": "Electric charge",
+   "b": "<p>Matter carries a property called <b>charge</b>, of two kinds, named positive and negative by Benjamin Franklin. Like charges repel; unlike charges attract.</p><p>Charge comes in tiny lumps: the electron carries -1.6 x 10 to the power -19 coulomb, the proton +1.6 x 10 to the power -19. This is <b>quantisation</b>. Charge is also <b>conserved</b>: it can move around but the total never changes. Rub a plastic comb on hair: electrons move from hair to comb, so neither gains charge from nothing."
+  },
+  {
+   "tag": "Concept",
+   "h": "Conductors and insulators",
+   "b": "<p>In a <b>conductor</b> such as copper, some electrons are free to roam, so charge moves easily. In an <b>insulator</b> such as rubber, glass or dry air, electrons stay put.</p><p>That is why wires are copper wrapped in plastic. Charge on a conductor sits on its outer surface, and inside a hollow metal shell the field is zero. This is why you are safe in a car during a thunderstorm: the metal body acts as a shield."
+  },
+  {
+   "tag": "Concept",
+   "h": "Coulomb's law",
+   "b": "<p>Charles-Augustin de Coulomb measured in 1785 how charges push and pull:</p><div class=\"box\"><h4>Coulomb's law</h4>F = k x q1 x q2 / r squared<br>k = 9 x 10 to the power 9 (in SI units)</div><p>It is an inverse-square law, just like gravity: double the distance and the force falls to one-quarter. But electric force is hugely stronger. Between a proton and an electron it beats gravity by about 10 to the power 39."
+  },
+  {
+   "tag": "Concept",
+   "h": "The electric field",
+   "b": "<p>Instead of thinking of charges acting at a distance, physicists picture each charge filling space with a <b>field</b>. The field E at a point is the force a small test charge would feel, per unit charge:</p><div class=\"box\"><h4>Electric field</h4>E = F / q</div><p>Units: newtons per coulomb. Field lines show direction: they start on positive charge and end on negative. Where lines crowd together, the field is strong.</p><svg class=\"d\" viewBox=\"0 0 320 150\"><defs><marker id=\"m1\" markerWidth=\"8\" markerHeight=\"8\" refX=\"7\" refY=\"4\" orient=\"auto\"><path d=\"M0,0 L8,4 L0,8z\" fill=\"#5d6474\"/></marker></defs><circle cx=\"90\" cy=\"75\" r=\"16\" fill=\"#f4dcd5\" stroke=\"#a3362a\" stroke-width=\"2\"/><text x=\"84\" y=\"80\" font-size=\"16\" fill=\"#a3362a\">+</text><circle cx=\"230\" cy=\"75\" r=\"16\" fill=\"#dceaec\" stroke=\"#2f6f7a\" stroke-width=\"2\"/><text x=\"225\" y=\"80\" font-size=\"16\" fill=\"#2f6f7a\">-</text><path d=\"M106,75 L214,75\" stroke=\"#5d6474\" stroke-width=\"1.5\" marker-end=\"url(#m1)\"/><path d=\"M102,64 Q160,25 218,64\" fill=\"none\" stroke=\"#5d6474\" stroke-width=\"1.5\" marker-end=\"url(#m1)\"/><path d=\"M102,86 Q160,125 218,86\" fill=\"none\" stroke=\"#5d6474\" stroke-width=\"1.5\" marker-end=\"url(#m1)\"/><path d=\"M96,59 Q160,0 224,59\" fill=\"none\" stroke=\"#5d6474\" stroke-width=\"1.5\" marker-end=\"url(#m1)\"/><path d=\"M96,91 Q160,150 224,91\" fill=\"none\" stroke=\"#5d6474\" stroke-width=\"1.5\" marker-end=\"url(#m1)\"/><text x=\"105\" y=\"145\" font-size=\"10\" fill=\"#1d2433\">field lines leave + and end on -</text></svg>"
+  },
+  {
+   "tag": "Concept",
+   "h": "Gauss's law and point charges",
+   "b": "<p>Carl Friedrich Gauss showed that the total field passing out through any closed surface depends only on the charge inside. It is a powerful shortcut.</p><p>For a single point charge Q the field at distance r is E = k Q / r squared. Outside a charged sphere the field looks exactly as if all the charge sat at the centre. Between two oppositely charged parallel plates, the field is uniform: the same size and direction everywhere in between."
+  },
+  {
+   "tag": "Worked example",
+   "h": "Two microcoulomb charges",
+   "b": "<p>Two charges of 1 microcoulomb (10 to the power -6 C) are 0.1 m apart.</p><p>F = 9 x 10 to the power 9 x (10 to the power -6) x (10 to the power -6) / (0.1) squared = 9 x 10 to the power -3 / 0.01 = <b>0.9 N</b>.</p><p>Move them to 0.2 m apart and the force drops to 0.225 N, one-quarter. The field of the first charge at 0.1 m is E = 9 x 10 to the power 9 x 10 to the power -6 / 0.01 = 900,000 N/C."
+  },
+  {
+   "tag": "Misconceptions",
+   "h": "Charge confusions",
+   "b": "<ul><li><b>'Rubbing creates charge.'</b> It only moves existing charge from one body to the other.</li><li><b>'Field lines are real threads.'</b> They are a drawing aid for the direction and strength of the field.</li><li><b>'Neutral objects feel no force.'</b> A charged comb attracts neutral paper bits by shifting their charge slightly (polarisation).</li></ul>"
+  },
+  {
+   "tag": "Indian angle",
+   "h": "Lightning in India",
+   "b": "<p>India sees thousands of lightning strikes every year, and lightning kills many people, especially farmers in open fields in states such as Bihar, Odisha and Uttar Pradesh. The India Meteorological Department now issues lightning warnings.</p><p>A lightning rod (conductor) on a building, invented by Franklin, gives the charge an easy path to the ground. In the open, crouch low and avoid trees; inside a car or a pucca building you are far safer. A thundercloud builds up enormous charge differences, often hundreds of millions of volts."
+  },
+  {
+   "tag": "Recap",
+   "h": "Key takeaways",
+   "b": "<ul><li>Charge is of two kinds, quantised and conserved.</li><li>Coulomb's law: F = k q1 q2 / r squared.</li><li>Electric field E = F/q; lines go from + to -.</li><li>Conductors let charge move; insulators do not.</li></ul><div class=\"box\"><h4>Think about it</h4>1. Why does a balloon rubbed on hair stick to a wall?<br>2. Why do fuel tankers trail a metal chain on the ground?</div>",
+   "cls": "exam"
+  }
+ ],
+ "quiz": [
+  {
+   "q": "Like charges",
+   "o": [
+    "Attract",
+    "Repel",
+    "Do nothing",
+    "Cancel"
+   ],
+   "a": 1,
+   "w": "Like repel, unlike attract."
+  },
+  {
+   "q": "The charge of one electron is about",
+   "o": [
+    "1.6 x 10^-19 C",
+    "9 x 10^9 C",
+    "1 C",
+    "6.67 x 10^-11 C"
+   ],
+   "a": 0,
+   "w": "Elementary charge e."
+  },
+  {
+   "q": "If the distance between two charges is doubled, the force becomes",
+   "o": [
+    "Half",
+    "One-quarter",
+    "Double",
+    "Four times"
+   ],
+   "a": 1,
+   "w": "Inverse square law."
+  },
+  {
+   "q": "Coulomb's law was published in",
+   "o": [
+    "1687",
+    "1785",
+    "1831",
+    "1905"
+   ],
+   "a": 1,
+   "w": "Coulomb, 1785."
+  },
+  {
+   "q": "Electric field is measured in",
+   "o": [
+    "Newtons per coulomb",
+    "Joules",
+    "Amperes",
+    "Ohms"
+   ],
+   "a": 0,
+   "w": "E = F/q."
+  },
+  {
+   "q": "Which is a good insulator?",
+   "o": [
+    "Copper",
+    "Silver",
+    "Dry rubber",
+    "Saltwater"
+   ],
+   "a": 2,
+   "w": "Rubber holds electrons tightly."
+  },
+  {
+   "q": "Rubbing a comb on hair",
+   "o": [
+    "Creates charge",
+    "Transfers charge",
+    "Destroys charge",
+    "Makes protons move"
+   ],
+   "a": 1,
+   "w": "Charge is conserved."
+  },
+  {
+   "q": "Two 2 microcoulomb charges are 0.2 m apart. Force? (k = 9 x 10^9)",
+   "o": [
+    "0.9 N",
+    "0.18 N",
+    "0.45 N",
+    "0.9 x 10^-3 N"
+   ],
+   "a": 0,
+   "w": "9e9 x 4e-12 / 0.04 = 0.9."
+  },
+  {
+   "q": "Field lines start on",
+   "o": [
+    "Negative charges",
+    "Positive charges",
+    "Neutral points",
+    "Magnets"
+   ],
+   "a": 1,
+   "w": "They run from + to -."
+  },
+  {
+   "q": "In a car during lightning you are safe mainly because",
+   "o": [
+    "Rubber tyres insulate",
+    "The metal body shields the inside",
+    "The car is moving",
+    "Lightning avoids cars"
+   ],
+   "a": 1,
+   "w": "A closed conductor has zero field inside."
+  }
+ ],
+ "sources": [
+  "NCERT Physics Class 11-12",
+  "Halliday, Resnick and Walker, Fundamentals of Physics",
+  "Coulomb (1785)"
+ ],
+ "verified": "2026-11-11"
+}

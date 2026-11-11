@@ -1,0 +1,170 @@
+{
+ "id": "3-0-3",
+ "title": "Althusser and Structural Marxism",
+ "emoji": "🧬",
+ "cards": [
+  {
+   "tag": "Why this matters",
+   "h": "Marxism as a science, without a subject",
+   "b": "<p>Louis Althusser tried to rescue Marxism from both Stalinist dogma and humanist sentiment. He made ideology, \"interpellation\" and the \"break\" into household words in theory seminars. His own life ended in tragedy, which colours how his work is read.</p>"
+  },
+  {
+   "tag": "Context",
+   "h": "Paris, the École Normale",
+   "b": "<p>Born in Algeria (1918), Althusser was a prisoner of war (1940-45), a Communist from 1948, and a teacher at the École Normale Supérieure in Paris. After 1956 and the Sino-Soviet split, he sought a Marxism that was neither Stalinist nor humanist. <i>For Marx</i> and <i>Reading Capital</i> (both 1965) made him famous. In 1980 he strangled his wife Hélène Rytmann and was declared unfit to stand trial; he died in 1990.</p>"
+  },
+  {
+   "tag": "Key idea",
+   "h": "The epistemological break",
+   "b": "<p>Althusser divides Marx's work: a young humanist and Hegelian (to 1845), then a scientific Marx from the <i>German Ideology</i> onwards, with the break complete in <i>Capital</i>. The early Marx's \"man\" and \"alienation\" are ideological; the mature Marx studies structures: modes of production, classes, relations.</p>"
+  },
+  {
+   "tag": "Key idea",
+   "h": "Structure, overdetermination and the process without a subject",
+   "b": "<p>History is \"a process without a subject\": people are bearers of structures. A revolution results from the <b>overdetermination</b> of several contradictions in a conjuncture (Russia 1917), not a single economic contradiction. The economy is determinant \"in the last instance\", but \"the lonely hour of the last instance never comes\". The levels (economic, political, ideological) have relative autonomy.</p>"
+  },
+  {
+   "tag": "Key idea",
+   "h": "Ideological State Apparatuses",
+   "b": "<p>In \"Ideology and Ideological State Apparatuses\" (1970) he distinguishes the <b>Repressive State Apparatus</b> (army, police) from <b>Ideological State Apparatuses</b> (school, church, family, media). Their function: reproduce the relations of production. Ideology \"interpellates\" individuals as subjects, like a policeman calling \"Hey, you!\" and the person turning around.</p>"
+  },
+  {
+   "tag": "In practice",
+   "h": "Influence and fall",
+   "b": "<p>His students included Balibar, Rancière, Poulantzas, Badiou and Macherey. Structuralist Marxism shaped sociology and film theory, and the study of the state (Poulantzas). In Britain, E.P. Thompson attacked it in <i>The Poverty of Theory</i> (1978). After 1968 and the invasions of Czechoslovakia, the approach lost ground as post-structuralists and \"new philosophers\" turned away from Marxism, and his personal tragedy ended his public life.</p>"
+  },
+  {
+   "tag": "Critiques",
+   "h": "Too structural, too abstract",
+   "b": "<p><b>E.P. Thompson</b>: it is \"Stalinism at the level of theory\", lacking human agency. <b>Humanists</b> (Sartre's circle): where are people? <b>Analytical Marxists</b> (Cohen, Elster): obscure and unfalsifiable. <b>Historians</b>: the \"break\" is overstated since Marx kept alienation themes in <i>Grundrisse</i> and <i>Capital</i>. <b>Activists</b>: if ideology is everywhere and unavoidable, how can anyone resist? <b>Defenders</b>: it explains how education and media reproduce class, as Bourdieu showed in sociology.</p>"
+  },
+  {
+   "tag": "Indian angle",
+   "h": "Ideological apparatuses and Indian schooling",
+   "b": "<p>The concept of ideological apparatuses is used by Indian scholars to analyse textbooks, schooling and media, including the history-textbook controversies and NCERT revisions. Krishna Kumar's work on curriculum (<i>Political Agenda of Education</i>, 1991) reflects a related approach. Caste may be understood as an ideology reproduced through family and ritual, a discussion in Ambedkar and Gail Omvedt's writings. Althusser also influenced Indian film theory and the Mode of Production debate, where analysts used his notion of articulation of modes of production.</p>"
+  },
+  {
+   "tag": "Recap",
+   "h": "Five takeaways and two debates",
+   "b": "<h4>Key takeaways</h4><ol><li>Althusser read Marx as a scientist of structures, with a break from the humanist early work.</li><li>History is a process without a subject; overdetermination replaces simple economic causation.</li><li>Ideological State Apparatuses reproduce class society; ideology interpellates subjects.</li><li>Thompson and humanists criticised his neglect of agency.</li><li>His influence extends to sociology, media and state theory.</li></ol><h4>Debate questions</h4><ol><li>Do individuals matter in history, or only structures?</li><li>Is the idea of an epistemological break credible?</li></ol>",
+   "cls": "exam"
+  }
+ ],
+ "quiz": [
+  {
+   "q": "For Marx and Reading Capital appeared in",
+   "o": [
+    "1844",
+    "1917",
+    "1980",
+    "1965"
+   ],
+   "a": 3,
+   "w": "Paris."
+  },
+  {
+   "q": "Althusser's \"break\" separates",
+   "o": [
+    "Humanist young Marx from scientific mature Marx",
+    "Marx from Engels",
+    "Lenin from Stalin",
+    "Hegel from Kant"
+   ],
+   "a": 0,
+   "w": "Around 1845."
+  },
+  {
+   "q": "Ideological State Apparatuses include",
+   "o": [
+    "Army and police",
+    "Parliament only",
+    "Banks only",
+    "School, church, family, media"
+   ],
+   "a": 3,
+   "w": "Repressive apparatus is separate."
+  },
+  {
+   "q": "Interpellation is illustrated by",
+   "o": [
+    "A strike vote",
+    "A policeman calling \"Hey, you!\"",
+    "A tax return",
+    "A speech in Parliament"
+   ],
+   "a": 1,
+   "w": "Ideology addresses individuals as subjects."
+  },
+  {
+   "q": "Who wrote The Poverty of Theory (1978)?",
+   "o": [
+    "Perry Anderson",
+    "Hobsbawm",
+    "E.P. Thompson",
+    "Hill"
+   ],
+   "a": 2,
+   "w": "An attack on Althusser."
+  },
+  {
+   "q": "History as a \"process without a subject\" means",
+   "o": [
+    "Nobody is responsible",
+    "Structures, not individuals, are the drivers",
+    "Subjects rule",
+    "History has no direction"
+   ],
+   "a": 1,
+   "w": "Anti-humanist."
+  },
+  {
+   "q": "Overdetermination refers to",
+   "o": [
+    "Many contradictions fusing in a conjuncture",
+    "One economic cause",
+    "Random events",
+    "Class consciousness"
+   ],
+   "a": 0,
+   "w": "Applied to Russia 1917."
+  },
+  {
+   "q": "A student or associate of Althusser was",
+   "o": [
+    "Nicos Poulantzas",
+    "Herbert Marcuse",
+    "Karl Kautsky",
+    "Rosa Luxemburg"
+   ],
+   "a": 0,
+   "w": "And Balibar and Rancière."
+  },
+  {
+   "q": "Althusser killed his wife in",
+   "o": [
+    "1980",
+    "1968",
+    "1956",
+    "1990"
+   ],
+   "a": 0,
+   "w": "He was declared unfit to stand trial."
+  },
+  {
+   "q": "Which Indian educationist studied curriculum as political agenda?",
+   "o": [
+    "Krishna Kumar",
+    "Amartya Sen",
+    "Romila Thapar",
+    "Yash Pal"
+   ],
+   "a": 0,
+   "w": "Political Agenda of Education (1991)."
+  }
+ ],
+ "sources": [
+  "Althusser 1965, 1970",
+  "Thompson 1978"
+ ],
+ "verified": "2026-11-11"
+}

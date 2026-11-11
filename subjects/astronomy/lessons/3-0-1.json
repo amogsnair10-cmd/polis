@@ -1,0 +1,176 @@
+{
+ "id": "3-0-1",
+ "title": "Galaxies, Clusters and the Cosmic Web",
+ "emoji": "🌀",
+ "cards": [
+  {
+   "tag": "Why this matters",
+   "h": "The universe is made of galaxies",
+   "b": "<p>Beyond the Milky Way there are hundreds of billions of galaxies, each with millions to trillions of stars. They are the building blocks of the cosmos. Their arrangement, in clumps, chains and voids, preserves the pattern laid down in the early universe.</p>"
+  },
+  {
+   "tag": "Concept",
+   "h": "Shapes of galaxies",
+   "b": "<p>Edwin Hubble's 1926 classification still helps:</p><ul><li><b>Spirals</b>: a flat rotating disc with arms, rich in gas and young blue stars (Milky Way, Andromeda).</li><li><b>Ellipticals</b>: smooth balls of old red stars, little gas.</li><li><b>Irregulars</b>: shapeless, often small, with active star formation.</li></ul><svg class=\"d\" viewBox=\"0 0 320 120\"><defs><marker id=\"ar1\" viewBox=\"0 0 10 10\" refX=\"9\" refY=\"5\" markerWidth=\"6\" markerHeight=\"6\" orient=\"auto\"><path d=\"M0 0L10 5L0 10z\" fill=\"#5d6474\"/></marker></defs><circle cx=\"60\" cy=\"60\" r=\"26\" fill=\"#f1e4c6\" stroke=\"#a8792a\"/><text x=\"60\" y=\"64\" text-anchor=\"middle\" font-size=\"10\" fill=\"#1d2433\">Spiral</text><circle cx=\"150\" cy=\"60\" r=\"22\" fill=\"#dceaec\" stroke=\"#2f6f7a\"/><text x=\"150\" y=\"64\" text-anchor=\"middle\" font-size=\"10\" fill=\"#1d2433\">Ellip.</text><circle cx=\"230\" cy=\"60\" r=\"18\" fill=\"#f4dcd5\" stroke=\"#a3362a\"/><text x=\"230\" y=\"64\" text-anchor=\"middle\" font-size=\"10\" fill=\"#1d2433\">Irreg.</text><text x=\"160\" y=\"108\" text-anchor=\"middle\" font-size=\"10\" fill=\"#5d6474\">Three main galaxy shapes (Hubble 1926)</text></svg>"
+  },
+  {
+   "tag": "Concept",
+   "h": "How big, how many",
+   "b": "<p>Galaxies range from dwarfs with a few million stars to giants with trillions. <b>Andromeda (M31)</b>, 2.5 million light-years away, is the nearest big galaxy and the farthest object visible to the naked eye. The Hubble Deep Field (1995) pointed at a seemingly empty patch and revealed about 3,000 galaxies; JWST sees galaxies from just a few hundred million years after the Big Bang.</p>"
+  },
+  {
+   "tag": "Concept",
+   "h": "Groups and clusters",
+   "b": "<p>Galaxies rarely live alone. The <b>Local Group</b> holds about 80 galaxies, dominated by the Milky Way and Andromeda, with the Large and Small Magellanic Clouds as satellites. The <b>Virgo Cluster</b>, about 55 million light-years away, has over 1,000 galaxies. Rich <b>clusters</b> hold hundreds to thousands, bound by gravity.</p>"
+  },
+  {
+   "tag": "Concept",
+   "h": "Superclusters, filaments and voids",
+   "b": "<p>On the largest scales, galaxies form <b>filaments</b> and sheets surrounding giant empty <b>voids</b>, a pattern like soap foam, called the <b>cosmic web</b>. The Great Wall (Geller and Huchra, 1989) is a sheet about 500 million light-years long. In 2014 Brent Tully's team mapped our home supercluster, <b>Laniakea</b>, about 500 million light-years across and flowing toward a gravitational attractor.</p>"
+  },
+  {
+   "tag": "Concept",
+   "h": "Galaxy evolution",
+   "b": "<p>Galaxies grow by merging. Spirals colliding can form ellipticals. The Milky Way has eaten dwarf galaxies. When gas funnels onto a central black hole, the galaxy's core becomes an <b>active galactic nucleus</b> or <b>quasar</b> (first identified by Maarten Schmidt in 1963), billions of times brighter than the Sun.</p>"
+  },
+  {
+   "tag": "How we know",
+   "h": "Seeing the web",
+   "b": "<p>Redshift surveys, such as the Sloan Digital Sky Survey, turn galaxy positions and redshifts into 3D maps. Gravity, acting on tiny early irregularities, pulled matter into this web, and computer simulations (Millennium, Illustris) reproduce it only when dark matter is included.</p>"
+  },
+  {
+   "tag": "Misconceptions",
+   "h": "Be careful",
+   "b": "<ul><li><b>'Galaxies are evenly spread.'</b> They cluster into a web.</li><li><b>'Galaxies collide like billiard balls.'</b> Stars are so far apart that few actually collide.</li><li><b>'Distant galaxies are young now.'</b> We see them as they were; they look young because their light is old.</li></ul>"
+  },
+  {
+   "tag": "Indian angle",
+   "h": "IUCAA and the Saraswati Supercluster",
+   "b": "<p>The <b>Inter-University Centre for Astronomy and Astrophysics (IUCAA)</b> in Pune, founded in 1988 by <b>Jayant Narlikar</b>, is a hub of galaxy research. In 2017 an IUCAA-led team (with Joydeep Bagchi) announced the <b>Saraswati Supercluster</b>, a giant structure of over 40 galaxy clusters, about 600 million light-years across and about 4 billion light-years away. The <b>uGMRT</b> and <b>AstroSat</b> study galaxy evolution; the UVIT detected the ultraviolet light of one of the most distant galaxies, AUDFs01, in 2021.</p>"
+  },
+  {
+   "tag": "Recap",
+   "h": "Key takeaways",
+   "b": "<ul><li>Galaxies are spiral, elliptical or irregular, containing millions to trillions of stars.</li><li>They gather in groups, clusters and superclusters.</li><li>Large-scale structure is a cosmic web of filaments around voids.</li><li>Mergers and central black holes drive galaxy evolution.</li></ul><p><b>Think about it:</b> (1) Why would computer models need dark matter to make the web? (2) What does seeing a distant galaxy tell us about the past?</p>",
+   "cls": "exam"
+  }
+ ],
+ "quiz": [
+  {
+   "q": "The nearest large galaxy to the Milky Way is:",
+   "o": [
+    "Andromeda",
+    "Triangulum",
+    "Whirlpool",
+    "Sombrero"
+   ],
+   "a": 0,
+   "w": "M31, 2.5 million light-years."
+  },
+  {
+   "q": "Elliptical galaxies mostly contain:",
+   "o": [
+    "Old red stars and little gas",
+    "Young blue stars",
+    "Only gas",
+    "Dark matter only"
+   ],
+   "a": 0,
+   "w": "Little star formation."
+  },
+  {
+   "q": "The Local Group has about:",
+   "o": [
+    "8 galaxies",
+    "80 galaxies",
+    "8,000 galaxies",
+    "8 million galaxies"
+   ],
+   "a": 1,
+   "w": "About 80."
+  },
+  {
+   "q": "The cosmic web consists of:",
+   "o": [
+    "Filaments and voids",
+    "Spherical shells",
+    "A single cluster",
+    "Random dots"
+   ],
+   "a": 0,
+   "w": "Soap-foam pattern."
+  },
+  {
+   "q": "The supercluster to which the Milky Way belongs is:",
+   "o": [
+    "Laniakea",
+    "Saraswati",
+    "Virgo only",
+    "Coma"
+   ],
+   "a": 0,
+   "w": "Mapped in 2014."
+  },
+  {
+   "q": "A quasar is powered by:",
+   "o": [
+    "A central supermassive black hole",
+    "A supernova",
+    "A pulsar",
+    "Dark matter"
+   ],
+   "a": 0,
+   "w": "Accretion."
+  },
+  {
+   "q": "Galaxies mostly evolve by:",
+   "o": [
+    "Merging and gas accretion",
+    "Shrinking",
+    "Stopping rotation",
+    "Exploding"
+   ],
+   "a": 0,
+   "w": "Mergers and growth."
+  },
+  {
+   "q": "The Saraswati Supercluster was announced by a team at:",
+   "o": [
+    "IUCAA",
+    "PRL",
+    "ISRO HQ",
+    "IIA Bengaluru only"
+   ],
+   "a": 0,
+   "w": "2017."
+  },
+  {
+   "q": "Simulations produce the cosmic web only if they include:",
+   "o": [
+    "Dark matter",
+    "More planets",
+    "Stronger light",
+    "Magnets"
+   ],
+   "a": 0,
+   "w": "It supplies gravity."
+  },
+  {
+   "q": "Why do collisions of galaxies rarely collide stars?",
+   "o": [
+    "Stars are very far apart",
+    "Stars are small gas",
+    "Gravity repels",
+    "Stars avoid each other"
+   ],
+   "a": 0,
+   "w": "Space between stars is vast."
+  }
+ ],
+ "sources": [
+  "Hubble 1926",
+  "Tully 2014 Laniakea",
+  "IUCAA Saraswati 2017"
+ ],
+ "verified": "2026-11-11"
+}

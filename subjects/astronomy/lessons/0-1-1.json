@@ -1,0 +1,176 @@
+{
+ "id": "0-1-1",
+ "title": "Telescopes: From Galileo to JWST",
+ "emoji": "🔭",
+ "cards": [
+  {
+   "tag": "Why this matters",
+   "h": "Eyes are tiny buckets of light",
+   "b": "<p>Your pupil is about 7 mm wide. A big telescope mirror is metres wide. That collects millions of times more light, so you can see faint, distant objects and fine detail. The history of astronomy is a history of bigger, better light buckets and new colours of vision.</p>"
+  },
+  {
+   "tag": "Concept",
+   "h": "The two jobs of a telescope",
+   "b": "<p>First, <b>collecting power</b>: how much light it gathers, proportional to the area of the main lens or mirror (so to diameter squared). Second, <b>resolution</b>: how fine a detail it can separate, which improves with larger diameter and shorter wavelength.</p><p>Magnification is the least important feature; without light and resolution it only blows up a blur.</p><svg class=\"d\" viewBox=\"0 0 320 120\"><defs><marker id=\"ar1\" viewBox=\"0 0 10 10\" refX=\"9\" refY=\"5\" markerWidth=\"6\" markerHeight=\"6\" orient=\"auto\"><path d=\"M0 0L10 5L0 10z\" fill=\"#5d6474\"/></marker></defs><rect x=\"10\" y=\"10\" width=\"60\" height=\"28\" rx=\"5\" fill=\"#f1e4c6\" stroke=\"#a8792a\"/><text x=\"40.0\" y=\"28.0\" text-anchor=\"middle\" font-size=\"11\" fill=\"#1d2433\">Mirror</text><line x1=\"40\" y1=\"38\" x2=\"40\" y2=\"70\" stroke=\"#5d6474\" stroke-width=\"1.5\" marker-end=\"url(#ar1)\"/><rect x=\"10\" y=\"72\" width=\"60\" height=\"28\" rx=\"5\" fill=\"#dceaec\" stroke=\"#2f6f7a\"/><text x=\"40.0\" y=\"90.0\" text-anchor=\"middle\" font-size=\"11\" fill=\"#1d2433\">Camera</text><text x=\"190\" y=\"28\" text-anchor=\"middle\" font-size=\"10\" fill=\"#1d2433\">Bigger mirror = more light</text><text x=\"190\" y=\"48\" text-anchor=\"middle\" font-size=\"10\" fill=\"#1d2433\">Area grows as diameter squared</text><text x=\"190\" y=\"78\" text-anchor=\"middle\" font-size=\"10\" fill=\"#1d2433\" font-weight=\"bold\">2x wider mirror = 4x light</text><text x=\"190\" y=\"98\" text-anchor=\"middle\" font-size=\"10\" fill=\"#1d2433\">Sharper image too</text></svg>"
+  },
+  {
+   "tag": "Concept",
+   "h": "Refractors and reflectors",
+   "b": "<p><b>Refractors</b> use lenses. Hans Lippershey patented one in 1608; Galileo built his in 1609. Large lenses sag and give coloured fringes, so the biggest refractor ever is only 1 metre.</p><p><b>Reflectors</b> use mirrors. Newton built one in 1668. Mirrors can be supported from behind and made huge. Every major modern telescope is a reflector.</p>"
+  },
+  {
+   "tag": "Concept",
+   "h": "Beyond visible light",
+   "b": "<p>Karl Jansky detected radio waves from the Milky Way in 1932, birthing <b>radio astronomy</b>. Radio, microwave, infrared, ultraviolet, X-ray and gamma-ray telescopes each show a different universe: cold gas, dust-hidden stars, million-degree gas.</p><p>Earth's air blocks most of these bands, so many telescopes must fly in space.</p>"
+  },
+  {
+   "tag": "Concept",
+   "h": "Beating the atmosphere",
+   "b": "<p>Air blurs stars (twinkling). Fixes: build on high dry mountains (Mauna Kea, the Chilean Atacama, Hanle in Ladakh), use <b>adaptive optics</b> (a deformable mirror that cancels turbulence hundreds of times a second), or go to space. The <b>Hubble Space Telescope</b> (1990, 2.4 m mirror) gave razor-sharp images above the air.</p>"
+  },
+  {
+   "tag": "Concept",
+   "h": "JWST: the infrared giant",
+   "b": "<p>The <b>James Webb Space Telescope</b> launched 25 December 2021. It has a 6.5 m mirror of 18 gold-coated beryllium segments and sees infrared, which passes through dust and reveals very distant, redshifted galaxies. It sits near the Sun-Earth <b>L2</b> point, 1.5 million km from Earth, behind a tennis-court-sized sunshield that keeps it near -233 C.</p><p>Next: the 39 m Extremely Large Telescope in Chile and the Square Kilometre Array radio telescope.</p>"
+  },
+  {
+   "tag": "How we know",
+   "h": "Interferometry: many dishes, one eye",
+   "b": "<p>Link radio dishes across continents and they act like one giant telescope with the resolution of the whole span. In 2019 the <b>Event Horizon Telescope</b>, linking telescopes around Earth, imaged the shadow of a black hole in galaxy M87. Telescopes now work as a network.</p>"
+  },
+  {
+   "tag": "Misconceptions",
+   "h": "Telescope myths",
+   "b": "<ul><li><b>'The best telescope magnifies most.'</b> Aperture decides.</li><li><b>'Space telescopes are close to the stars.'</b> They are still essentially at Earth's distance; they just avoid the air.</li><li><b>'JWST replaced Hubble.'</b> They complement: different wavelengths.</li></ul>"
+  },
+  {
+   "tag": "Indian angle",
+   "h": "From Kodaikanal to GMRT and Hanle",
+   "b": "<p>The <b>Giant Metrewave Radio Telescope (GMRT)</b> near Pune has 30 dishes of 45 m each, built under <b>Govind Swarup</b> and opened in the 1990s: one of the world's most sensitive at low radio frequencies. The 2 m <b>Himalayan Chandra Telescope</b> at Hanle (4,500 m, Ladakh) sits in one of the world's driest, darkest sites. The 3.6 m <b>Devasthal Optical Telescope</b> in Uttarakhand began working in 2016. ISRO's <b>AstroSat</b> (2015) was India's first dedicated astronomy satellite. <b>LIGO-India</b> was approved in 2023.</p>"
+  },
+  {
+   "tag": "Recap",
+   "h": "Key takeaways",
+   "b": "<ul><li>Telescopes win on light-collecting area and resolution, not magnification.</li><li>Reflectors dominate; radio and space telescopes opened other wavelengths.</li><li>Adaptive optics and orbit beat the atmosphere.</li><li>JWST sees infrared from L2; networks of dishes can act as one giant telescope.</li></ul><p><b>Think about it:</b> (1) Why must infrared telescopes be kept very cold? (2) Why build GMRT in dozens of dishes instead of one huge one?</p>",
+   "cls": "exam"
+  }
+ ],
+ "quiz": [
+  {
+   "q": "Which feature chiefly decides how faint an object a telescope can see?",
+   "o": [
+    "Magnification",
+    "Aperture area",
+    "Colour of tube",
+    "Weight"
+   ],
+   "a": 1,
+   "w": "Light collecting area."
+  },
+  {
+   "q": "Doubling a mirror's diameter increases light collected by:",
+   "o": [
+    "2 times",
+    "4 times",
+    "8 times",
+    "16 times"
+   ],
+   "a": 1,
+   "w": "Area scales with diameter squared."
+  },
+  {
+   "q": "Modern big optical telescopes are:",
+   "o": [
+    "Refractors",
+    "Reflectors",
+    "Both equally",
+    "Radio only"
+   ],
+   "a": 1,
+   "w": "Mirrors can be large."
+  },
+  {
+   "q": "Karl Jansky pioneered which science in 1932?",
+   "o": [
+    "X-ray",
+    "Radio astronomy",
+    "Infrared",
+    "Gamma-ray"
+   ],
+   "a": 1,
+   "w": "Radio astronomy."
+  },
+  {
+   "q": "JWST observes mainly in:",
+   "o": [
+    "Visible only",
+    "Infrared",
+    "X-rays",
+    "Radio"
+   ],
+   "a": 1,
+   "w": "Infrared, from L2."
+  },
+  {
+   "q": "Why are telescopes sited on high dry mountains?",
+   "o": [
+    "Closer to stars",
+    "Less air blur and water vapour",
+    "Cheaper land",
+    "Cooler nights only"
+   ],
+   "a": 1,
+   "w": "Thin dry air."
+  },
+  {
+   "q": "The GMRT is located near:",
+   "o": [
+    "Hanle",
+    "Pune",
+    "Nainital",
+    "Kodaikanal"
+   ],
+   "a": 1,
+   "w": "Near Narayangaon, Pune."
+  },
+  {
+   "q": "The Event Horizon Telescope imaged:",
+   "o": [
+    "A comet",
+    "A black hole shadow",
+    "Pluto",
+    "The Moon"
+   ],
+   "a": 1,
+   "w": "M87 in 2019."
+  },
+  {
+   "q": "Adaptive optics corrects for:",
+   "o": [
+    "Lens colour",
+    "Atmospheric turbulence",
+    "Earth rotation",
+    "Star motion"
+   ],
+   "a": 1,
+   "w": "Deformable mirrors cancel blur."
+  },
+  {
+   "q": "The Hanle observatory is notable for:",
+   "o": [
+    "High altitude, dark dry sky",
+    "Ocean location",
+    "Near an equator",
+    "Being underground"
+   ],
+   "a": 0,
+   "w": "Around 4,500 m in Ladakh."
+  }
+ ],
+ "sources": [
+  "JWST mission documents",
+  "GMRT NCRA",
+  "IIA Hanle"
+ ],
+ "verified": "2026-11-11"
+}

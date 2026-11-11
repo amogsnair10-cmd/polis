@@ -1,0 +1,175 @@
+{
+ "id": "0-0-5",
+ "title": "Rotation and Angular Momentum",
+ "emoji": "🌀",
+ "cards": [
+  {
+   "tag": "Why this matters",
+   "h": "Spinning things behave differently",
+   "b": "<p>A skater pulls her arms in and spins faster. A cat falls upside down and lands on its feet. A spinning top stands up when it should fall. A bicycle stays upright because its wheels spin.</p><p>These all come from the physics of rotation. It mirrors the physics of straight-line motion, with new names: torque instead of force, moment of inertia instead of mass, angular momentum instead of momentum.</p>"
+  },
+  {
+   "tag": "Concept",
+   "h": "Describing rotation",
+   "b": "<p>We measure angles in <b>radians</b>: one full turn is 2 x pi (about 6.28) radians. <b>Angular velocity</b> (omega) is how many radians per second. A wheel making one turn per second has omega = 6.28 rad/s.</p><p>A point at distance r from the axis moves with speed v = r x omega. So the rim of a wheel moves faster than a point near the hub, though both turn together."
+  },
+  {
+   "tag": "Concept",
+   "h": "Torque: the twist of a force",
+   "b": "<div class=\"box\"><h4>Torque</h4>torque = force x perpendicular distance from the axis</div><p>You open a door by pushing far from the hinges, not near them. Same force, longer lever arm, more torque. A long spanner loosens a tight nut for the same reason.</p><p>Archimedes is said to have boasted that with a long enough lever he could move the Earth. Torque is the principle behind it.<svg class=\"d\" viewBox=\"0 0 320 150\"><defs><marker id=\"e1\" markerWidth=\"8\" markerHeight=\"8\" refX=\"7\" refY=\"4\" orient=\"auto\"><path d=\"M0,0 L8,4 L0,8z\" fill=\"#a3362a\"/></marker></defs><polygon points=\"160,100 140,125 180,125\" fill=\"#5d6474\"/><rect x=\"30\" y=\"92\" width=\"260\" height=\"8\" fill=\"#f1e4c6\" stroke=\"#a8792a\" stroke-width=\"2\"/><circle cx=\"55\" cy=\"84\" r=\"10\" fill=\"#dceaec\" stroke=\"#2f6f7a\" stroke-width=\"2\"/><circle cx=\"260\" cy=\"84\" r=\"10\" fill=\"#dceaec\" stroke=\"#2f6f7a\" stroke-width=\"2\"/><text x=\"40\" y=\"70\" font-size=\"10\" fill=\"#1d2433\">40 kg, 2 m</text><text x=\"225\" y=\"70\" font-size=\"10\" fill=\"#1d2433\">20 kg, 4 m</text><text x=\"110\" y=\"145\" font-size=\"11\" fill=\"#2f6f7a\">pivot: balanced torques</text><text x=\"40\" y=\"30\" font-size=\"11\" fill=\"#a3362a\">torque = force x lever arm</text><text x=\"40\" y=\"45\" font-size=\"11\" fill=\"#1d2433\">40 x 2 = 80 = 20 x 4</text></svg></p>"
+  },
+  {
+   "tag": "Concept",
+   "h": "Moment of inertia: rotation's 'mass'",
+   "b": "<p>Mass resists a change in straight-line motion. <b>Moment of inertia</b> (I) resists a change in spin. It depends on how the mass is spread: mass far from the axis counts much more.</p><div class=\"box\"><h4>Rotational second law</h4>torque = I x angular acceleration</div><p>For a point mass, I = m r squared. A solid disc spins up more easily than a ring of the same mass, because the ring has all its mass at the edge."
+  },
+  {
+   "tag": "Concept",
+   "h": "Angular momentum and its conservation",
+   "b": "<div class=\"box\"><h4>Angular momentum</h4>L = I x omega</div><p>If no outside torque acts, L stays constant. A skater spinning with arms out has a large I. Pulling arms in cuts I, so omega must rise to keep L the same.</p><p>This is why a collapsing star spins faster as it shrinks, producing the rapidly spinning neutron stars we call pulsars."
+  },
+  {
+   "tag": "Concept",
+   "h": "Rolling and the kinetic energy of spin",
+   "b": "<p>A rolling wheel has two energies: motion of its centre, (1/2) m v squared, and spin, (1/2) I omega squared. On a slope, a solid ball beats a hollow ring in a race, because less of its energy goes into spin.</p><p>This also explains why a gyroscope or spinning top resists tilting: its angular momentum wants to stay pointing the same way. Gyroscopes guide aircraft and ships."
+  },
+  {
+   "tag": "Worked example",
+   "h": "The spinning skater",
+   "b": "<p>A skater spins at 2 rad/s with I = 4 kg m squared. She pulls her arms in so I = 1 kg m squared.</p><p>Conservation: I1 x omega1 = I2 x omega2, so 4 x 2 = 1 x omega2, giving <b>omega2 = 8 rad/s</b>, four times faster.</p><p>Her rotational energy goes from (1/2) x 4 x 4 = 8 J to (1/2) x 1 x 64 = 32 J. The extra energy comes from her muscles pulling her arms inwards."
+  },
+  {
+   "tag": "Misconceptions",
+   "h": "Common errors",
+   "b": "<ul><li><b>'Torque is just force.'</b> No. It also depends on where you push. A force through the axis gives no torque at all.</li><li><b>'Bigger mass always means bigger I.'</b> I depends on the spread of mass, not only its amount.</li><li><b>'Angular momentum is lost when the skater speeds up.'</b> It stays the same; the spin rate and I trade off.</li></ul>"
+  },
+  {
+   "tag": "Indian angle",
+   "h": "The potter's wheel and the satellite",
+   "b": "<p>India's traditional potter's wheel, the <i>chaak</i> of the kumhar, is a heavy flywheel. Its large moment of inertia stores spin, so it keeps turning smoothly between pushes of the potter's stick.</p><p>Satellites, including Indian ones, often steer using spinning wheels inside them. Speeding up or slowing a wheel makes the satellite turn the other way, by conservation of angular momentum, with no fuel used."
+  },
+  {
+   "tag": "Recap",
+   "h": "Key takeaways",
+   "b": "<ul><li>Torque = force x lever arm; it makes things rotate.</li><li>Moment of inertia I depends on how mass is spread out from the axis.</li><li>Angular momentum L = I omega is conserved without outside torque.</li><li>Pulling mass inward speeds up rotation.</li></ul><div class=\"box\"><h4>Think about it</h4>1. Why is a door handle placed far from the hinge?<br>2. Why does a cat twist its body and extend or retract its legs while falling?</div>",
+   "cls": "exam"
+  }
+ ],
+ "quiz": [
+  {
+   "q": "Torque equals",
+   "o": [
+    "Force x time",
+    "Force x perpendicular distance from the axis",
+    "Mass x acceleration",
+    "Force / area"
+   ],
+   "a": 1,
+   "w": "The lever arm matters."
+  },
+  {
+   "q": "A 10 N force acts 0.5 m from a hinge at right angles. Torque?",
+   "o": [
+    "20 N m",
+    "5 N m",
+    "10.5 N m",
+    "0.05 N m"
+   ],
+   "a": 1,
+   "w": "10 x 0.5 = 5."
+  },
+  {
+   "q": "Moment of inertia depends on",
+   "o": [
+    "Mass only",
+    "Speed only",
+    "Mass and its distance from the axis",
+    "Colour"
+   ],
+   "a": 2,
+   "w": "I = m r squared for a point mass."
+  },
+  {
+   "q": "A skater pulls her arms in. Her spin rate",
+   "o": [
+    "Decreases",
+    "Stays same",
+    "Increases",
+    "Becomes zero"
+   ],
+   "a": 2,
+   "w": "I falls, so omega rises."
+  },
+  {
+   "q": "Angular momentum is conserved when",
+   "o": [
+    "No net external torque acts",
+    "Speed is constant",
+    "Mass is constant",
+    "Force is zero only"
+   ],
+   "a": 0,
+   "w": "That is the condition."
+  },
+  {
+   "q": "I1 = 6, omega1 = 3. If I falls to 2, omega becomes",
+   "o": [
+    "1",
+    "6",
+    "9",
+    "18"
+   ],
+   "a": 2,
+   "w": "6 x 3 = 2 x omega."
+  },
+  {
+   "q": "One full turn in radians is",
+   "o": [
+    "pi",
+    "2 pi",
+    "3.14 degrees",
+    "180"
+   ],
+   "a": 1,
+   "w": "2 pi radians."
+  },
+  {
+   "q": "Which spins up more easily, a solid disc or a ring of equal mass and radius?",
+   "o": [
+    "Ring",
+    "Disc",
+    "Equal",
+    "Neither"
+   ],
+   "a": 1,
+   "w": "The disc has smaller I."
+  },
+  {
+   "q": "A wheel turns at 10 rad/s. A point 0.5 m from the centre moves at",
+   "o": [
+    "20 m/s",
+    "5 m/s",
+    "10.5 m/s",
+    "0.05 m/s"
+   ],
+   "a": 1,
+   "w": "v = r omega = 5."
+  },
+  {
+   "q": "A seesaw: 40 kg child sits 2 m from pivot. Where must a 20 kg child sit to balance?",
+   "o": [
+    "1 m",
+    "2 m",
+    "3 m",
+    "4 m"
+   ],
+   "a": 3,
+   "w": "80 = 20 x d."
+  }
+ ],
+ "sources": [
+  "NCERT Physics Class 11-12",
+  "Halliday, Resnick and Walker, Fundamentals of Physics"
+ ],
+ "verified": "2026-11-11"
+}

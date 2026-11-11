@@ -1,0 +1,175 @@
+{
+ "id": "0-0-3",
+ "title": "Work, Energy and Power",
+ "emoji": "⚡",
+ "cards": [
+  {
+   "tag": "Why this matters",
+   "h": "The universe's most useful bank account",
+   "b": "<p>Energy is the one quantity physicists trust above all. It can change form, from a falling stone's motion to heat, from sunlight to electricity, but the total never changes.</p><p>That rule lets you solve problems that Newton's laws would make painful. You do not need to track every force along a roller coaster; you only need to know where it starts and ends.</p>"
+  },
+  {
+   "tag": "Concept",
+   "h": "Work: force over distance",
+   "b": "<p>In physics, <b>work</b> is done when a force moves something.</p><div class=\"box\"><h4>Work</h4>W = F x d x cos(theta)</div><p>Here theta is the angle between force and motion. The unit is the <b>joule</b> (J): one newton pushing through one metre.</p><p>Holding a heavy bag still does no work in this sense, since nothing moves. Carrying it level also does no work on the bag, because your upward force is at right angles to the motion (cos 90 = 0). Lifting it does work.</p>"
+  },
+  {
+   "tag": "Concept",
+   "h": "Kinetic energy: the energy of motion",
+   "b": "<div class=\"box\"><h4>Kinetic energy</h4>KE = (1/2) m v squared</div><p>Note the square. Double your speed and the energy goes up four times. That is why a car crash at 100 km/h is far worse than at 50 km/h, and why stopping distances grow so fast.</p><p>The <b>work-energy theorem</b>: the net work done on an object equals its change in kinetic energy.</p>"
+  },
+  {
+   "tag": "Concept",
+   "h": "Potential energy: stored energy",
+   "b": "<p>Lift a mass m to height h and you store energy in the gravitational field:</p><div class=\"box\"><h4>Gravitational PE</h4>PE = m g h</div><p>Stretch a spring, compress a gas, separate two charges: all store potential energy. Release it and it turns back into motion.</p><p>A force like gravity, where the work done depends only on start and end points, is called <b>conservative</b>.</p>"
+  },
+  {
+   "tag": "Concept",
+   "h": "Conservation of energy",
+   "b": "<p>If only conservative forces act, KE + PE stays constant. A ball rolling down a hill trades height for speed.</p><p>With friction, mechanical energy appears to vanish, but it has turned into heat. Count the heat and the total is still the same. This is the <b>law of conservation of energy</b>.</p><svg class=\"d\" viewBox=\"0 0 320 150\"><path d=\"M20,30 Q90,30 120,70 T220,120 L300,120\" fill=\"none\" stroke=\"#5d6474\" stroke-width=\"2.5\"/><circle cx=\"40\" cy=\"31\" r=\"7\" fill=\"#a8792a\"/><circle cx=\"150\" cy=\"95\" r=\"7\" fill=\"#a8792a\"/><circle cx=\"260\" cy=\"120\" r=\"7\" fill=\"#a8792a\"/><rect x=\"40\" y=\"130\" width=\"40\" height=\"14\" fill=\"#f1e4c6\" stroke=\"#a8792a\"/><text x=\"42\" y=\"141\" font-size=\"10\" fill=\"#1d2433\">PE high</text><text x=\"140\" y=\"75\" font-size=\"10\" fill=\"#1d2433\">PE + KE</text><text x=\"225\" y=\"108\" font-size=\"10\" fill=\"#1d2433\">KE max</text><text x=\"100\" y=\"20\" font-size=\"11\" fill=\"#2f6f7a\">Total energy stays constant</text></svg>"
+  },
+  {
+   "tag": "Concept",
+   "h": "Power: how fast energy flows",
+   "b": "<div class=\"box\"><h4>Power</h4>P = W / t</div><p>Power is work done per second. The unit is the <b>watt</b>: one joule per second. A 100 W bulb uses 100 J every second. One horsepower is about 746 W.</p><p>Your electricity bill counts in kilowatt-hours (kWh). One kWh is 1000 W for 3600 s, which is 3.6 million joules. That is one 'unit' of electricity."
+  },
+  {
+   "tag": "Worked example",
+   "h": "A 2 kg stone dropped from 5 m",
+   "b": "<p>PE at the top: m g h = 2 x 9.8 x 5 = <b>98 J</b>.</p><p>Just before landing all of it is KE: (1/2) x 2 x v squared = 98, so v squared = 98 and <b>v is about 9.9 m/s</b>.</p><p>Notice the mass cancels: v = square root of (2 g h) for any stone. Compare with the motion equation v squared = 2 g h. Same answer, easier route.</p>"
+  },
+  {
+   "tag": "Misconceptions",
+   "h": "Be careful with these",
+   "b": "<ul><li><b>Energy is 'used up'.</b> It is converted, not destroyed. A phone charger just moves energy around and wastes some as heat.</li><li><b>Work is any effort.</b> In physics, no motion along the force, no work.</li><li><b>Power equals energy.</b> A weak motor can lift a heavy load over a long time; a strong one does it faster. Same energy, different power.</li></ul>"
+  },
+  {
+   "tag": "Indian angle",
+   "h": "Bhakra and your electricity unit",
+   "b": "<p>Hydroelectric dams are conservation of energy in action: water stored high (PE) falls through turbines (KE) and spins generators. The Bhakra Dam on the Sutlej, completed in the early 1960s, is among India's tallest gravity dams, and Jawaharlal Nehru called such dams the 'temples of modern India'.</p><p>Every Indian household bill is in kWh, the same 3.6 million joules in the example above. When you use a 1000 W heater for an hour, you pay for exactly one unit.</p>"
+  },
+  {
+   "tag": "Recap",
+   "h": "Key takeaways",
+   "b": "<ul><li>Work W = F d cos(theta), measured in joules.</li><li>KE = (1/2) m v squared; PE = m g h.</li><li>Total energy is conserved; friction turns it to heat.</li><li>Power = work / time, in watts. 1 kWh = 3.6 million J.</li></ul><div class=\"box\"><h4>Think about it</h4>1. Why does doubling a car's speed quadruple its braking distance?<br>2. A roller coaster's second hill is never taller than the first. Why?</div>",
+   "cls": "exam"
+  }
+ ],
+ "quiz": [
+  {
+   "q": "The SI unit of work is the",
+   "o": [
+    "Watt",
+    "Newton",
+    "Joule",
+    "Pascal"
+   ],
+   "a": 2,
+   "w": "One joule is one newton metre."
+  },
+  {
+   "q": "A 10 N force moves a box 3 m in its direction. Work done?",
+   "o": [
+    "13 J",
+    "30 J",
+    "3.3 J",
+    "0.3 J"
+   ],
+   "a": 1,
+   "w": "W = F d."
+  },
+  {
+   "q": "If speed doubles, kinetic energy becomes",
+   "o": [
+    "Twice",
+    "Four times",
+    "Half",
+    "Eight times"
+   ],
+   "a": 1,
+   "w": "KE depends on v squared."
+  },
+  {
+   "q": "A 1 kg mass is raised 10 m (g = 10 m/s squared). PE gained?",
+   "o": [
+    "10 J",
+    "1 J",
+    "100 J",
+    "1000 J"
+   ],
+   "a": 2,
+   "w": "mgh = 1 x 10 x 10."
+  },
+  {
+   "q": "You carry a bag level at steady speed. Work done by your upward force on the bag is",
+   "o": [
+    "Positive",
+    "Negative",
+    "Zero",
+    "Equal to its weight"
+   ],
+   "a": 2,
+   "w": "Force is perpendicular to motion."
+  },
+  {
+   "q": "Power is defined as",
+   "o": [
+    "Force x distance",
+    "Work per unit time",
+    "Energy x time",
+    "Mass x speed"
+   ],
+   "a": 1,
+   "w": "P = W/t."
+  },
+  {
+   "q": "A 2 kW heater runs for 3 hours. Energy used in kWh?",
+   "o": [
+    "6",
+    "1.5",
+    "0.67",
+    "5"
+   ],
+   "a": 0,
+   "w": "2 x 3 = 6 kWh."
+  },
+  {
+   "q": "A ball slides frictionless from rest down a 20 m hill (g = 10). Speed at the bottom?",
+   "o": [
+    "10 m/s",
+    "20 m/s",
+    "200 m/s",
+    "40 m/s"
+   ],
+   "a": 1,
+   "w": "v = sqrt(2 x 10 x 20) = 20."
+  },
+  {
+   "q": "When friction stops a sliding box, its kinetic energy has become",
+   "o": [
+    "Destroyed",
+    "Potential energy",
+    "Heat",
+    "Force"
+   ],
+   "a": 2,
+   "w": "Energy is converted, not lost."
+  },
+  {
+   "q": "Which of these has the greatest kinetic energy?",
+   "o": [
+    "1 kg at 10 m/s",
+    "2 kg at 5 m/s",
+    "4 kg at 3 m/s",
+    "0.5 kg at 12 m/s"
+   ],
+   "a": 0,
+   "w": "50 J vs 25, 18 and 36."
+  }
+ ],
+ "sources": [
+  "NCERT Physics Class 11-12",
+  "Halliday, Resnick and Walker, Fundamentals of Physics"
+ ],
+ "verified": "2026-11-11"
+}

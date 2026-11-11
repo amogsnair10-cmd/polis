@@ -1,0 +1,174 @@
+{
+ "id": "4-0-3",
+ "title": "Green Chemistry and the Future of Materials",
+ "emoji": "🌱",
+ "cards": [
+  {
+   "tag": "Why this matters",
+   "h": "Making things without making a mess",
+   "b": "<p>Chemistry gave us medicines, fertiliser and plastics, but also pollution. <b>Green chemistry</b> asks a design question: can we make what we need while creating less waste and less hazard from the start? It prevents pollution rather than cleaning it later.</p>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "The 12 principles",
+   "b": "<p><b>Paul Anastas and John Warner (1998)</b> listed 12 principles. Key ones:</p><ul><li>Prevent waste rather than treat it.</li><li>Maximise <b>atom economy</b>.</li><li>Use safer chemicals and solvents.</li><li>Design for energy efficiency.</li><li>Use <b>renewable feedstocks</b> and <b>catalysts</b>.</li><li>Design products that degrade after use.</li></ul>"
+  },
+  {
+   "tag": "Key idea",
+   "h": "Atom economy",
+   "b": "<p><b>Atom economy = (mass of desired product / total mass of reactants) x 100.</b> A reaction can have a high yield yet waste atoms in by-products.</p><svg class=\"d\" viewBox=\"0 0 320 136\"><defs><marker id=\"m1\" markerWidth=\"8\" markerHeight=\"8\" refX=\"6\" refY=\"4\" orient=\"auto\"><path d=\"M0,0 L8,4 L0,8 z\" fill=\"#5d6474\"/></marker></defs><rect x=\"20\" y=\"4\" width=\"280\" height=\"30\" rx=\"6\" fill=\"#f1e4c6\" stroke=\"#a8792a\"/><text x=\"160\" y=\"23\" text-anchor=\"middle\" font-size=\"11\" fill=\"#1d2433\">Reactants total 100 g</text><line x1=\"160\" y1=\"34\" x2=\"160\" y2=\"47\" stroke=\"#5d6474\" marker-end=\"url(#m1)\"/><rect x=\"20\" y=\"48\" width=\"280\" height=\"30\" rx=\"6\" fill=\"#f1e4c6\" stroke=\"#a8792a\"/><text x=\"160\" y=\"67\" text-anchor=\"middle\" font-size=\"11\" fill=\"#1d2433\">Desired product 56 g</text><line x1=\"160\" y1=\"78\" x2=\"160\" y2=\"91\" stroke=\"#5d6474\" marker-end=\"url(#m1)\"/><rect x=\"20\" y=\"92\" width=\"280\" height=\"30\" rx=\"6\" fill=\"#f1e4c6\" stroke=\"#a8792a\"/><text x=\"160\" y=\"111\" text-anchor=\"middle\" font-size=\"11\" fill=\"#1d2433\">Waste by-product 44 g: atom economy 56%</text></svg><p>Addition reactions can reach 100 percent: C2H4 + H2 → C2H6 uses every atom.</p>"
+  },
+  {
+   "tag": "Key idea",
+   "h": "E-factor and solvents",
+   "b": "<p>The <b>E-factor</b> (Roger Sheldon) is kg of waste per kg of product. Oil refining is under 0.1, bulk chemicals 1 to 5, and pharmaceuticals can be 25 to over 100.</p><p>Greener solvents: water, supercritical CO2, ionic liquids, or no solvent at all. Catalysts cut energy and waste. Enzymes make drugs at room temperature in water.</p>"
+  },
+  {
+   "tag": "Key idea",
+   "h": "Renewable energy and green hydrogen",
+   "b": "<p>Solar cells, wind, and batteries need new materials. <b>Green hydrogen</b> by electrolysis of water with renewable power, 2H2O → 2H2 + O2, offers a fuel and industrial feedstock without CO2. Green ammonia and green steel (reducing iron ore with hydrogen instead of coke) could cut industry's emissions.</p>"
+  },
+  {
+   "tag": "Key idea",
+   "h": "Materials of tomorrow",
+   "b": "<ul><li><b>Graphene:</b> one-atom-thick carbon, strong and conducting; Geim and Novoselov isolated it in 2004 (Nobel 2010).</li><li><b>Perovskite solar cells:</b> cheap, efficient light absorbers.</li><li><b>Metal-organic frameworks (MOFs):</b> sponge-like crystals to capture CO2 or water from air; the 2025 Chemistry Nobel recognised their development.</li><li><b>Biodegradable plastics</b> and recycling chemistry.</li><li><b>Solid-state and sodium-ion batteries.</b></li></ul>"
+  },
+  {
+   "tag": "Worked example",
+   "h": "Atom economy",
+   "b": "<p>Making quicklime: CaCO3 → CaO + CO2. Masses: CaCO3 = 100, CaO = 56, CO2 = 44. Atom economy of CaO = 56 / 100 x 100 = <b>56 percent</b>.</p><p>E-factor: making 1 kg of drug creates 50 kg waste, so E-factor = <b>50</b>. Redesigning to 20 kg waste cuts it to 20.</p><p>C2H4 + H2 → C2H6: 28 + 2 = 30 in, 30 out: atom economy <b>100 percent</b>.</p>"
+  },
+  {
+   "tag": "Misconceptions",
+   "h": "Careful",
+   "b": "<ul><li><b>Green chemistry is not recycling alone.</b> It starts at design.</li><li><b>High yield does not mean low waste.</b></li><li><b>'Natural' solvents are not always greener</b> if they need much energy to produce.</li><li><b>Green hydrogen only counts as green</b> if the electricity is renewable.</li></ul>"
+  },
+  {
+   "tag": "Indian angle",
+   "h": "C.N.R. Rao and solar India",
+   "b": "<p><b>C.N.R. Rao</b> is a leading Indian solid-state and materials chemist, known for work on oxides, nanomaterials and graphene. He received the Bharat Ratna in 2013. India co-founded the <b>International Solar Alliance (2015)</b> and has set big renewable targets, while the National Green Hydrogen Mission (2023) seeks green hydrogen and ammonia at scale. Indian industry and IITs work on greener catalysts and bio-based chemicals.</p>"
+  },
+  {
+   "tag": "Recap",
+   "h": "Key takeaways",
+   "b": "<ul><li>Green chemistry prevents waste: 12 principles (Anastas and Warner, 1998).</li><li>Atom economy = desired product mass / reactant mass x 100; E-factor = waste per product.</li><li>Future materials: graphene, perovskites, MOFs, green hydrogen.</li></ul><div class=\"box\"><h4>Think about it</h4><p>1. Why can a reaction with 95 percent yield still be wasteful?</p><p>2. What would you redesign in a product you use daily to make it greener?</p></div>",
+   "cls": "exam"
+  }
+ ],
+ "quiz": [
+  {
+   "q": "Who formulated the 12 principles of green chemistry (1998)?",
+   "o": [
+    "Anastas and Warner",
+    "Haber and Bosch",
+    "Watson and Crick",
+    "Geim and Novoselov"
+   ],
+   "a": 0,
+   "w": "1998."
+  },
+  {
+   "q": "Atom economy formula:",
+   "o": [
+    "Desired product mass / total reactant mass x 100",
+    "Actual yield / theoretical yield x 100",
+    "Waste / product",
+    "Moles / volume"
+   ],
+   "a": 0,
+   "w": "Efficiency of atom use."
+  },
+  {
+   "q": "Atom economy of CaO from CaCO3 (100 → 56 + 44)?",
+   "o": [
+    "56 percent",
+    "44 percent",
+    "100 percent",
+    "12 percent"
+   ],
+   "a": 0,
+   "w": "56/100."
+  },
+  {
+   "q": "C2H4 + H2 → C2H6 has atom economy of:",
+   "o": [
+    "50 percent",
+    "28 percent",
+    "100 percent",
+    "75 percent"
+   ],
+   "a": 2,
+   "w": "All atoms used."
+  },
+  {
+   "q": "E-factor measures:",
+   "o": [
+    "Waste per kg of product",
+    "Energy used",
+    "Yield",
+    "Temperature"
+   ],
+   "a": 0,
+   "w": "Roger Sheldon."
+  },
+  {
+   "q": "Making 2 kg of product produces 30 kg waste. E-factor?",
+   "o": [
+    "60",
+    "15",
+    "30",
+    "0.07"
+   ],
+   "a": 1,
+   "w": "30 / 2."
+  },
+  {
+   "q": "Graphene was isolated in:",
+   "o": [
+    "2004",
+    "1985",
+    "1950",
+    "2015"
+   ],
+   "a": 0,
+   "w": "Geim and Novoselov."
+  },
+  {
+   "q": "Green hydrogen is made by:",
+   "o": [
+    "Electrolysis using renewable power",
+    "Steam reforming of methane",
+    "Burning coal",
+    "Cracking oil"
+   ],
+   "a": 0,
+   "w": "2H2O → 2H2 + O2."
+  },
+  {
+   "q": "MOFs are useful for:",
+   "o": [
+    "Making steel",
+    "Making soap",
+    "Cooking",
+    "Capturing gases like CO2"
+   ],
+   "a": 3,
+   "w": "Porous crystals."
+  },
+  {
+   "q": "India's Bharat Ratna chemist known for materials work:",
+   "o": [
+    "C.N.R. Rao",
+    "P.C. Ray",
+    "G.N. Ramachandran",
+    "S.N. Bose"
+   ],
+   "a": 0,
+   "w": "Bharat Ratna 2013."
+  }
+ ],
+ "sources": [
+  "Standard school and university chemistry texts; Nobel Prize in Chemistry 2025 (MOFs)"
+ ],
+ "verified": "2026-11-11"
+}

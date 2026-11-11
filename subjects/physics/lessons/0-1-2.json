@@ -1,0 +1,175 @@
+{
+ "id": "0-1-2",
+ "title": "Waves and Sound",
+ "emoji": "🔊",
+ "cards": [
+  {
+   "tag": "Why this matters",
+   "h": "How a voice crosses a room",
+   "b": "<p>When you speak, nothing travels from your mouth to a friend's ear except a disturbance. The air itself only jiggles in place. The pattern of the jiggle moves on, passing the message from molecule to molecule.</p><p>That is a <b>wave</b>: energy travelling without matter travelling. Sound, ripples, earthquakes, radio, light and even the waves of quantum physics all share this behaviour.</p>"
+  },
+  {
+   "tag": "Concept",
+   "h": "Two kinds of waves",
+   "b": "<p><b>Transverse waves</b> shake the medium at right angles to the wave's direction. A rope flicked up and down, or water ripples. Light is also transverse.</p><p><b>Longitudinal waves</b> push and pull along the direction of travel, creating squeezed regions (compressions) and stretched regions (rarefactions). Sound in air is longitudinal.</p><p>Sound needs a medium (air, water, steel). It cannot cross empty space, which is why space is silent."
+  },
+  {
+   "tag": "Concept",
+   "h": "The wave equation",
+   "b": "<div class=\"box\"><h4>Wave speed</h4>v = f x wavelength</div><p>Frequency f (waves per second) times wavelength (length of one wave) gives the speed. The speed is set by the medium; the source sets the frequency. So higher frequency means shorter wavelength, at the same speed.</p><svg class=\"d\" viewBox=\"0 0 320 130\"><defs><marker id=\"i1\" markerWidth=\"8\" markerHeight=\"8\" refX=\"7\" refY=\"4\" orient=\"auto\"><path d=\"M0,0 L8,4 L0,8z\" fill=\"#a3362a\"/></marker></defs><line x1=\"20\" y1=\"65\" x2=\"300\" y2=\"65\" stroke=\"#5d6474\" stroke-width=\"1\"/><path d=\"M20,65 Q45,15 70,65 T120,65 T170,65 T220,65 T270,65\" fill=\"none\" stroke=\"#2f6f7a\" stroke-width=\"3\"/><line x1=\"45\" y1=\"65\" x2=\"45\" y2=\"23\" stroke=\"#a3362a\" stroke-width=\"2\" marker-end=\"url(#i1)\"/><text x=\"50\" y=\"40\" font-size=\"10\" fill=\"#a3362a\">amplitude</text><line x1=\"45\" y1=\"105\" x2=\"145\" y2=\"105\" stroke=\"#a8792a\" stroke-width=\"2\"/><text x=\"50\" y=\"120\" font-size=\"11\" fill=\"#a8792a\">wavelength (one full wave)</text><text x=\"170\" y=\"40\" font-size=\"11\" fill=\"#1d2433\">speed = f x wavelength</text></svg>"
+  },
+  {
+   "tag": "Concept",
+   "h": "Sound: pitch, loudness and speed",
+   "b": "<p><b>Pitch</b> is frequency: a high note has high f. Humans hear roughly 20 Hz to 20,000 Hz. <b>Loudness</b> depends on amplitude and is measured in decibels (dB): ordinary talk is about 60 dB, and sound above about 85 dB over long periods can harm hearing.</p><p>In air at 20 degrees C sound travels at about <b>343 m/s</b>. It is faster in water (about 1500 m/s) and faster still in steel (over 5000 m/s)."
+  },
+  {
+   "tag": "Concept",
+   "h": "Superposition, interference and beats",
+   "b": "<p>When waves meet, they simply add. Two crests make a bigger crest (constructive); a crest meeting a trough cancels (destructive).</p><p>Two notes of slightly different frequencies, such as 440 and 444 Hz, make a throbbing sound at 4 beats per second. Musicians use this to tune instruments: when the beats vanish, the notes match. Noise-cancelling headphones use destructive interference on purpose."
+  },
+  {
+   "tag": "Concept",
+   "h": "The Doppler effect and standing waves",
+   "b": "<p>When a source moves toward you, waves bunch up and the pitch rises; when it moves away, the pitch drops. Think of an ambulance siren passing. Christian Doppler predicted this in 1842.</p><p>A string fixed at both ends supports <b>standing waves</b> at special frequencies: the fundamental and its multiples (harmonics). Guitars, flutes and organ pipes make music from these. Radar guns and weather radar use the Doppler shift too."
+  },
+  {
+   "tag": "Worked example",
+   "h": "Tuning note and thunder",
+   "b": "<p>Concert A is 440 Hz. In air at 343 m/s, wavelength = 343 / 440 = <b>0.78 m</b>.</p><p>Thunder: light reaches you almost instantly, sound takes time. If you hear thunder 3 s after the flash, the lightning is about 343 x 3 = 1030 m, roughly <b>1 km</b> away. Each 3 seconds of delay is about one kilometre.</p><p>An echo returning from a wall after 0.2 s means the wall is 343 x 0.2 / 2 = 34 m away (half, since the sound goes there and back)."
+  },
+  {
+   "tag": "Misconceptions",
+   "h": "Sound and wave mix-ups",
+   "b": "<ul><li><b>'Sound travels faster when louder.'</b> Speed depends on the medium, not loudness or pitch.</li><li><b>'Sound is fastest in air because air is light.'</b> It is faster in denser, stiffer media like steel.</li><li><b>'The wave carries the water or air along.'</b> The particles only oscillate; the energy moves on.</li></ul>"
+  },
+  {
+   "tag": "Indian angle",
+   "h": "Doppler radar and the Indian ear",
+   "b": "<p>The India Meteorological Department uses Doppler weather radars to track the winds inside cyclones by the shift in frequency of reflected waves. This gives hours of warning before landfall.</p><p>Indian classical music builds on exact frequency ratios and resonance. C. V. Raman's work on the harmonics of the tabla and mridangam showed why their sound is so musical. The Indian Navy and fishermen also use sonar, sound pulses and echoes, to find objects under water."
+  },
+  {
+   "tag": "Recap",
+   "h": "Key takeaways",
+   "b": "<ul><li>Waves carry energy, not matter. They are transverse or longitudinal.</li><li>v = f x wavelength.</li><li>Sound in air travels at about 343 m/s; it needs a medium.</li><li>Waves interfere; the Doppler effect shifts frequency for moving sources.</li></ul><div class=\"box\"><h4>Think about it</h4>1. Why does your voice sound deeper to you when you speak than on a recording?<br>2. If you shout in a canyon and hear the echo after 4 s, how wide is the canyon?</div>",
+   "cls": "exam"
+  }
+ ],
+ "quiz": [
+  {
+   "q": "In a transverse wave, particles move",
+   "o": [
+    "Along the wave direction",
+    "At right angles to the wave direction",
+    "Not at all",
+    "In circles only"
+   ],
+   "a": 1,
+   "w": "That defines transverse."
+  },
+  {
+   "q": "Sound in air is a",
+   "o": [
+    "Transverse wave",
+    "Longitudinal wave",
+    "Electromagnetic wave",
+    "Light wave"
+   ],
+   "a": 1,
+   "w": "Compressions and rarefactions."
+  },
+  {
+   "q": "A wave has frequency 50 Hz and wavelength 4 m. Speed?",
+   "o": [
+    "12.5 m/s",
+    "200 m/s",
+    "54 m/s",
+    "46 m/s"
+   ],
+   "a": 1,
+   "w": "50 x 4."
+  },
+  {
+   "q": "Sound cannot travel through",
+   "o": [
+    "Water",
+    "Steel",
+    "Vacuum",
+    "Air"
+   ],
+   "a": 2,
+   "w": "It needs a medium."
+  },
+  {
+   "q": "A sound's pitch depends mainly on its",
+   "o": [
+    "Frequency",
+    "Amplitude",
+    "Speed",
+    "Medium"
+   ],
+   "a": 0,
+   "w": "High f means high pitch."
+  },
+  {
+   "q": "Thunder is heard 6 s after the flash. Distance (speed 340 m/s)?",
+   "o": [
+    "About 2 km",
+    "About 0.5 km",
+    "About 6 km",
+    "About 20 km"
+   ],
+   "a": 0,
+   "w": "340 x 6 = 2040 m."
+  },
+  {
+   "q": "Two notes of 300 Hz and 304 Hz are played. Beat frequency is",
+   "o": [
+    "2 Hz",
+    "4 Hz",
+    "304 Hz",
+    "600 Hz"
+   ],
+   "a": 1,
+   "w": "Difference of frequencies."
+  },
+  {
+   "q": "An ambulance siren sounds higher pitched as it approaches because of",
+   "o": [
+    "Resonance",
+    "The Doppler effect",
+    "Refraction",
+    "Beats"
+   ],
+   "a": 1,
+   "w": "Waves are compressed ahead of the source."
+  },
+  {
+   "q": "The speed of sound is greatest in",
+   "o": [
+    "Air",
+    "Water",
+    "Steel",
+    "Vacuum"
+   ],
+   "a": 2,
+   "w": "Stiffer media carry sound faster."
+  },
+  {
+   "q": "An echo returns after 0.5 s (speed 340 m/s). Wall distance?",
+   "o": [
+    "170 m",
+    "85 m",
+    "340 m",
+    "68 m"
+   ],
+   "a": 1,
+   "w": "340 x 0.5 / 2."
+  }
+ ],
+ "sources": [
+  "NCERT Physics Class 11-12",
+  "Halliday, Resnick and Walker, Fundamentals of Physics"
+ ],
+ "verified": "2026-11-11"
+}

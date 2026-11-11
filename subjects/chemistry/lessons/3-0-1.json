@@ -1,0 +1,174 @@
+{
+ "id": "3-0-1",
+ "title": "Functional Groups and Reactions",
+ "emoji": "🧬",
+ "cards": [
+  {
+   "tag": "Why this matters",
+   "h": "Small groups, big differences",
+   "b": "<p>Ethane is a gas; ethanol is in drinks and sanitiser; ethanoic acid is vinegar. Their carbon skeletons look similar. What changes is a small cluster of atoms called a <b>functional group</b>. Learn the groups and you can predict the chemistry of thousands of compounds.</p>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "What is a functional group?",
+   "b": "<p>A functional group is an atom or group of atoms that gives a molecule its characteristic reactions. Molecules with the same group behave alike, whatever their size.</p>"
+  },
+  {
+   "tag": "Key idea",
+   "h": "The main groups",
+   "b": "<ul><li><b>Alcohol (-OH):</b> ethanol C2H5OH.</li><li><b>Aldehyde (-CHO):</b> ethanal CH3CHO; formaldehyde.</li><li><b>Ketone (C=O in the chain):</b> propanone (acetone) CH3COCH3.</li><li><b>Carboxylic acid (-COOH):</b> ethanoic acid CH3COOH.</li><li><b>Ester (-COO-):</b> fruity smells; ethyl ethanoate.</li><li><b>Amine (-NH2):</b> methylamine; amino acids carry both -NH2 and -COOH.</li><li><b>Halide (-Cl, -Br):</b> chloroethane.</li></ul>"
+  },
+  {
+   "tag": "Key idea",
+   "h": "Four reaction types",
+   "b": "<ul><li><b>Addition:</b> a double bond opens: C2H4 + H2O → C2H5OH.</li><li><b>Substitution:</b> one atom or group replaced by another: CH4 + Cl2 → CH3Cl + HCl.</li><li><b>Elimination:</b> a small molecule leaves, making a double bond.</li><li><b>Oxidation:</b> alcohol becomes aldehyde or acid.</li></ul>"
+  },
+  {
+   "tag": "Key idea",
+   "h": "Ethanol: a case study",
+   "b": "<p><b>Making it:</b> fermentation of sugars by yeast: <b>C6H12O6 → 2C2H5OH + 2CO2</b>. Industrial route: addition of steam to ethene.</p><p><b>Oxidising it:</b> ethanol → ethanal → ethanoic acid (vinegar), by oxidising agents or bacteria.</p><p><b>Burning it:</b> C2H5OH + 3O2 → 2CO2 + 3H2O.</p><p><b>Reacting with sodium:</b> 2C2H5OH + 2Na → 2C2H5ONa + H2.</p><svg class=\"d\" viewBox=\"0 0 320 136\"><defs><marker id=\"m1\" markerWidth=\"8\" markerHeight=\"8\" refX=\"6\" refY=\"4\" orient=\"auto\"><path d=\"M0,0 L8,4 L0,8 z\" fill=\"#5d6474\"/></marker></defs><rect x=\"20\" y=\"4\" width=\"280\" height=\"30\" rx=\"6\" fill=\"#f1e4c6\" stroke=\"#a8792a\"/><text x=\"160\" y=\"23\" text-anchor=\"middle\" font-size=\"11\" fill=\"#1d2433\">Ethanol C2H5OH (alcohol)</text><line x1=\"160\" y1=\"34\" x2=\"160\" y2=\"47\" stroke=\"#5d6474\" marker-end=\"url(#m1)\"/><rect x=\"20\" y=\"48\" width=\"280\" height=\"30\" rx=\"6\" fill=\"#f1e4c6\" stroke=\"#a8792a\"/><text x=\"160\" y=\"67\" text-anchor=\"middle\" font-size=\"11\" fill=\"#1d2433\">Ethanal CH3CHO (aldehyde)</text><line x1=\"160\" y1=\"78\" x2=\"160\" y2=\"91\" stroke=\"#5d6474\" marker-end=\"url(#m1)\"/><rect x=\"20\" y=\"92\" width=\"280\" height=\"30\" rx=\"6\" fill=\"#f1e4c6\" stroke=\"#a8792a\"/><text x=\"160\" y=\"111\" text-anchor=\"middle\" font-size=\"11\" fill=\"#1d2433\">Ethanoic acid CH3COOH (acid)</text></svg>"
+  },
+  {
+   "tag": "Key idea",
+   "h": "Esters and soap",
+   "b": "<p><b>Esterification:</b> acid + alcohol ⇌ ester + water, with a little sulphuric acid as catalyst.</p><p>CH3COOH + C2H5OH ⇌ CH3COOC2H5 + H2O</p><p>Esters give fruit and flower fragrance. Reverse with a strong base (hydrolysis) and you get <b>saponification</b>: fat + NaOH → glycerol + soap. Soaps have a long non-polar tail that grips grease and a polar head that loves water.</p>"
+  },
+  {
+   "tag": "Worked example",
+   "h": "Molar mass and identification",
+   "b": "<p>Ethanol, C2H6O: 2 x 12 + 6 x 1 + 16 = <b>46 g/mol</b>. Fermenting 180 g glucose (180 g/mol) = 1 mol gives 2 mol ethanol = <b>92 g</b> (theoretical).</p><p>Which group? CH3CH2CH2COOH has -COOH: carboxylic acid, butanoic acid. CH3COCH3 has C=O between carbons: ketone.</p>"
+  },
+  {
+   "tag": "Misconceptions",
+   "h": "Careful",
+   "b": "<ul><li><b>Alcohols are not bases</b> like NaOH; the -OH is not released as hydroxide.</li><li><b>Carboxylic acids are weak acids</b>, not strong.</li><li><b>Fermentation is anaerobic</b>; vinegar-making needs oxygen.</li><li><b>Industrial ethanol is made differently</b> from drinking alcohol, though the compound is the same. Denatured alcohol is poisonous.</li></ul>"
+  },
+  {
+   "tag": "Indian angle",
+   "h": "Sugarcane ethanol",
+   "b": "<p>India's sugarcane molasses ferment into ethanol, used in petrol blending, sanitiser (which saw huge demand in 2020), and chemicals. India's ethanol blending programme aimed at 20 percent blending (E20), cutting crude imports and emissions. Indian pharma also leans on organic synthesis: functional-group chemistry lies behind most generic drugs made in India.</p>"
+  },
+  {
+   "tag": "Recap",
+   "h": "Key takeaways",
+   "b": "<ul><li>Functional groups: -OH, -CHO, C=O, -COOH, ester, -NH2.</li><li>Reaction types: addition, substitution, elimination, oxidation.</li><li>Fermentation: C6H12O6 → 2C2H5OH + 2CO2; esterification: acid + alcohol ⇌ ester + water.</li></ul><div class=\"box\"><h4>Think about it</h4><p>1. Why do soaps clean grease but plain water cannot?</p><p>2. How do you turn ethanol into vinegar?</p></div>",
+   "cls": "exam"
+  }
+ ],
+ "quiz": [
+  {
+   "q": "-COOH is the group of:",
+   "o": [
+    "Carboxylic acids",
+    "Alcohols",
+    "Esters",
+    "Aldehydes"
+   ],
+   "a": 0,
+   "w": "Acid group."
+  },
+  {
+   "q": "Fermentation of glucose makes:",
+   "o": [
+    "Ethanol and CO2",
+    "Methane and water",
+    "Acetic acid and H2",
+    "Ethene and O2"
+   ],
+   "a": 0,
+   "w": "C6H12O6 → 2C2H5OH + 2CO2."
+  },
+  {
+   "q": "Molar mass of ethanol?",
+   "o": [
+    "46 g/mol",
+    "32 g/mol",
+    "60 g/mol",
+    "30 g/mol"
+   ],
+   "a": 0,
+   "w": "C2H6O."
+  },
+  {
+   "q": "180 g glucose gives how many g ethanol (max)?",
+   "o": [
+    "46 g",
+    "180 g",
+    "92 g",
+    "184 g"
+   ],
+   "a": 2,
+   "w": "2 mol x 46."
+  },
+  {
+   "q": "Esters are formed from:",
+   "o": [
+    "Acid and alcohol",
+    "Alcohol and alkane",
+    "Acid and acid",
+    "Base and acid"
+   ],
+   "a": 0,
+   "w": "Esterification."
+  },
+  {
+   "q": "Ethanol oxidised fully gives:",
+   "o": [
+    "Ethane",
+    "Ethanoic acid",
+    "Ethene",
+    "Methanol"
+   ],
+   "a": 1,
+   "w": "Vinegar."
+  },
+  {
+   "q": "Saponification makes:",
+   "o": [
+    "Soap and glycerol",
+    "Ester only",
+    "Alcohol and CO2",
+    "Plastic"
+   ],
+   "a": 0,
+   "w": "Fat + NaOH."
+  },
+  {
+   "q": "CH3COCH3 contains a:",
+   "o": [
+    "Aldehyde group",
+    "Acid group",
+    "Amine group",
+    "Ketone group"
+   ],
+   "a": 3,
+   "w": "C=O between two carbons."
+  },
+  {
+   "q": "Addition of H2O to ethene gives:",
+   "o": [
+    "Ethanol",
+    "Ethane",
+    "Ethanal",
+    "Ethanoic acid"
+   ],
+   "a": 0,
+   "w": "C2H4 + H2O → C2H5OH."
+  },
+  {
+   "q": "Sodium reacting with ethanol releases:",
+   "o": [
+    "Oxygen",
+    "Hydrogen",
+    "Carbon dioxide",
+    "Chlorine"
+   ],
+   "a": 1,
+   "w": "2C2H5OH + 2Na → 2C2H5ONa + H2."
+  }
+ ],
+ "sources": [
+  "Standard school and university chemistry texts"
+ ],
+ "verified": "2026-11-11"
+}

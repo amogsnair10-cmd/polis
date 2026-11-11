@@ -1,0 +1,180 @@
+{
+ "id": "2-0-3",
+ "title": "Death of Stars: White Dwarfs and Supernovae",
+ "emoji": "💥",
+ "cards": [
+  {
+   "tag": "Why this matters",
+   "h": "We are made of dead stars",
+   "b": "<p>The hydrogen and most helium in the universe came from the Big Bang. Nearly everything else, the carbon in your cells, the oxygen you breathe, the calcium in your bones, the iron in your blood, was made inside stars and scattered when they died. Stellar death is also the source of black holes and neutron stars.</p>"
+  },
+  {
+   "tag": "Concept",
+   "h": "Fate depends on mass",
+   "b": "<p>Stars below about 8 Suns end quietly as white dwarfs; those above about 8 Suns end in a supernova. The less massive the star, the slower and gentler the death. Red dwarfs will take trillions of years; none has yet died.</p><svg class=\"d\" viewBox=\"0 0 320 160\"><defs><marker id=\"ar1\" viewBox=\"0 0 10 10\" refX=\"9\" refY=\"5\" markerWidth=\"6\" markerHeight=\"6\" orient=\"auto\"><path d=\"M0 0L10 5L0 10z\" fill=\"#5d6474\"/></marker></defs><rect x=\"100\" y=\"5\" width=\"120\" height=\"24\" rx=\"5\" fill=\"#f1e4c6\" stroke=\"#a8792a\"/><text x=\"160.0\" y=\"21.0\" text-anchor=\"middle\" font-size=\"11\" fill=\"#1d2433\">Sun-like star</text><line x1=\"160\" y1=\"29\" x2=\"160\" y2=\"45\" stroke=\"#5d6474\" stroke-width=\"1.5\" marker-end=\"url(#ar1)\"/><rect x=\"100\" y=\"45\" width=\"120\" height=\"24\" rx=\"5\" fill=\"#f4dcd5\" stroke=\"#a3362a\"/><text x=\"160.0\" y=\"61.0\" text-anchor=\"middle\" font-size=\"11\" fill=\"#1d2433\">Red giant</text><line x1=\"160\" y1=\"69\" x2=\"160\" y2=\"85\" stroke=\"#5d6474\" stroke-width=\"1.5\" marker-end=\"url(#ar1)\"/><rect x=\"100\" y=\"85\" width=\"120\" height=\"24\" rx=\"5\" fill=\"#dceaec\" stroke=\"#2f6f7a\"/><text x=\"160.0\" y=\"101.0\" text-anchor=\"middle\" font-size=\"11\" fill=\"#1d2433\">Planetary nebula</text><line x1=\"160\" y1=\"109\" x2=\"160\" y2=\"125\" stroke=\"#5d6474\" stroke-width=\"1.5\" marker-end=\"url(#ar1)\"/><rect x=\"100\" y=\"125\" width=\"120\" height=\"24\" rx=\"5\" fill=\"#ffffff\" stroke=\"#5d6474\"/><text x=\"160.0\" y=\"141.0\" text-anchor=\"middle\" font-size=\"11\" fill=\"#1d2433\">White dwarf</text><text x=\"270\" y=\"60\" text-anchor=\"middle\" font-size=\"9\" fill=\"#1d2433\">Mass above ~8 Suns:</text><text x=\"270\" y=\"73\" text-anchor=\"middle\" font-size=\"9\" fill=\"#1d2433\">core collapse supernova</text></svg>"
+  },
+  {
+   "tag": "Concept",
+   "h": "Red giant and planetary nebula",
+   "b": "<p>When hydrogen in the core runs out, the core contracts and heats and hydrogen burns in a shell around it. The outer layers swell and cool: a <b>red giant</b>. In about 5 billion years the Sun will reach near Earth's present orbit. The star later puffs off its outer layers as a glowing shell, called a <b>planetary nebula</b> (a misleading name from early telescopes; they have nothing to do with planets).</p>"
+  },
+  {
+   "tag": "Concept",
+   "h": "White dwarf: a cooling Earth-sized star",
+   "b": "<p>What remains is the hot core: a <b>white dwarf</b>, the mass of the Sun in a body the size of Earth. A teaspoon would weigh several tonnes. It no longer fuses; it only cools slowly. It is held up not by heat but by <b>electron degeneracy pressure</b>, a quantum effect of crowded electrons.</p>"
+  },
+  {
+   "tag": "Concept",
+   "h": "The Chandrasekhar limit",
+   "b": "<p>In 1930, aged 19, <b>Subrahmanyan Chandrasekhar</b> calculated that this quantum pressure can only hold up a white dwarf of up to about <b>1.4 Suns</b>. Heavier, and gravity wins. This <b>Chandrasekhar limit</b> was fiercely disputed by Eddington, but proved right, and earned Chandrasekhar the 1983 Nobel Prize in Physics.</p>"
+  },
+  {
+   "tag": "Concept",
+   "h": "Two kinds of supernova",
+   "b": "<p><b>Type Ia:</b> a white dwarf in a binary pulls gas from its partner, or merges with another, until it nears 1.4 Suns and detonates as a thermonuclear explosion. All explode with nearly the same brightness, so they serve as <b>standard candles</b> for cosmic distances.</p><p><b>Core-collapse (Type II):</b> a massive star's iron core can no longer be supported; in under a second it collapses to a neutron star or black hole while the outer layers bounce off and explode, briefly outshining a whole galaxy.</p>"
+  },
+  {
+   "tag": "Concept",
+   "h": "Cosmic recycling",
+   "b": "<p>Supernovae forge and spread elements heavier than iron too. Gold and platinum come largely from <b>neutron star collisions</b> (confirmed in 2017). The ejected material seeds new nebulae, which form new stars and planets enriched with heavy elements: our Solar System is a third-generation product.</p>"
+  },
+  {
+   "tag": "How we know",
+   "h": "Records of exploding stars",
+   "b": "<p>Chinese astronomers recorded the 1054 CE 'guest star' that left the <b>Crab Nebula</b>. Tycho (1572) and Kepler (1604) saw supernovae in our galaxy; none since. <b>SN 1987A</b> in the Large Magellanic Cloud was seen in February 1987, and neutrinos from its core were detected on Earth hours before the light, confirming core collapse.</p>"
+  },
+  {
+   "tag": "Misconceptions",
+   "h": "Be careful",
+   "b": "<ul><li><b>'The Sun will go supernova.'</b> It is too light.</li><li><b>'A supernova is a new star.'</b> It is the death of one. The Latin name <i>nova</i> means new, from old naming.</li><li><b>'White dwarfs are tiny in mass.'</b> They hold roughly a Sun's mass.</li></ul>"
+  },
+  {
+   "tag": "Indian angle",
+   "h": "Chandrasekhar, Lahore to Chicago",
+   "b": "<p>Chandrasekhar was born in Lahore (1910), nephew of C.V. Raman, and studied at Presidency College, Madras. On the ship to England in 1930 he worked out the mass limit of white dwarfs. He spent his career at the University of Chicago; NASA's <b>Chandra X-ray Observatory</b> (1999) is named for him. In India, AstroSat studies supernova remnants in X-rays.</p>"
+  },
+  {
+   "tag": "Recap",
+   "h": "Key takeaways",
+   "b": "<ul><li>Sun-like stars end as white dwarfs; stars over about 8 Suns explode.</li><li>The Chandrasekhar limit, 1.4 Suns, caps a white dwarf's mass.</li><li>Type Ia supernovae are standard candles; Type II create neutron stars or black holes.</li><li>Supernovae spread heavy elements that build planets and life.</li></ul><p><b>Think about it:</b> (1) Why are Type Ia explosions so similar? (2) What does 'we are star dust' mean in physics terms?</p>",
+   "cls": "exam"
+  }
+ ],
+ "quiz": [
+  {
+   "q": "The Sun will end as a:",
+   "o": [
+    "Black hole",
+    "Neutron star",
+    "White dwarf",
+    "Supernova"
+   ],
+   "a": 2,
+   "w": "Mass is below about 8 Suns."
+  },
+  {
+   "q": "The Chandrasekhar limit is about:",
+   "o": [
+    "0.14 solar masses",
+    "1.4 solar masses",
+    "14 solar masses",
+    "140 solar masses"
+   ],
+   "a": 1,
+   "w": "1.4 solar masses."
+  },
+  {
+   "q": "What holds up a white dwarf against gravity?",
+   "o": [
+    "Fusion",
+    "Electron degeneracy pressure",
+    "Magnetic fields",
+    "Neutrinos"
+   ],
+   "a": 1,
+   "w": "Quantum pressure of electrons."
+  },
+  {
+   "q": "A planetary nebula is:",
+   "o": [
+    "A cloud where planets form",
+    "A shell of gas shed by a dying star",
+    "A galaxy",
+    "A comet tail"
+   ],
+   "a": 1,
+   "w": "Despite its name."
+  },
+  {
+   "q": "Type Ia supernovae are useful because they:",
+   "o": [
+    "Are rare",
+    "Have nearly the same peak luminosity",
+    "Create black holes",
+    "Are blue"
+   ],
+   "a": 1,
+   "w": "Standard candles."
+  },
+  {
+   "q": "A core-collapse supernova happens to:",
+   "o": [
+    "Stars below 1 Sun",
+    "Stars above about 8 Suns",
+    "White dwarfs only",
+    "Brown dwarfs"
+   ],
+   "a": 1,
+   "w": "Massive stars."
+  },
+  {
+   "q": "The Crab Nebula is the remnant of the supernova recorded in:",
+   "o": [
+    "1054",
+    "1572",
+    "1987",
+    "1604"
+   ],
+   "a": 0,
+   "w": "Chinese records of 1054 CE."
+  },
+  {
+   "q": "Which element is last made by normal fusion in massive stars?",
+   "o": [
+    "Gold",
+    "Iron",
+    "Uranium",
+    "Lithium"
+   ],
+   "a": 1,
+   "w": "Iron releases no energy."
+  },
+  {
+   "q": "Neutrinos from SN 1987A showed:",
+   "o": [
+    "Core collapse really happens",
+    "Dark matter",
+    "Planets",
+    "Big Bang"
+   ],
+   "a": 0,
+   "w": "They arrived before the light."
+  },
+  {
+   "q": "Chandrasekhar won the Nobel Prize in physics in:",
+   "o": [
+    "1930",
+    "1950",
+    "1983",
+    "2000"
+   ],
+   "a": 2,
+   "w": "1983, shared with Fowler."
+  }
+ ],
+ "sources": [
+  "Chandrasekhar 1931",
+  "SN 1987A"
+ ],
+ "verified": "2026-11-11"
+}

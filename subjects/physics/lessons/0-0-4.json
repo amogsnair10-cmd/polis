@@ -1,0 +1,175 @@
+{
+ "id": "0-0-4",
+ "title": "Momentum and Collisions",
+ "emoji": "💥",
+ "cards": [
+  {
+   "tag": "Why this matters",
+   "h": "Why crumple zones save lives",
+   "b": "<p>A truck is harder to stop than a bicycle at the same speed. A bullet is hard to stop even though it is tiny. Both facts are captured by one idea: <b>momentum</b>.</p><p>Momentum explains collisions, rocket flight, airbags and why a cricketer pulls their hands back when catching a fast ball. It is also one of nature's strictest conserved quantities.</p>"
+  },
+  {
+   "tag": "Concept",
+   "h": "Momentum: mass in motion",
+   "b": "<div class=\"box\"><h4>Momentum</h4>p = m v</div><p>Momentum is a vector with units kg m/s. A 1000 kg car at 20 m/s has p = 20,000 kg m/s. A 0.01 kg bullet at 400 m/s has only 4 kg m/s, but it can be stopped by a thin wall because the stopping time is tiny and the force is concentrated.</p><p>Newton actually wrote his second law as: force = rate of change of momentum."
+  },
+  {
+   "tag": "Concept",
+   "h": "Impulse: a push over a time",
+   "b": "<div class=\"box\"><h4>Impulse</h4>F x t = change in momentum</div><p>To change momentum you need force acting for some time. The same change can come from a big force for a short time or a small force for a long time.</p><p>Catching a fast ball, you move your hands back, lengthening the time. The force drops and your palms are spared. Airbags and crumple zones do the same: they stretch the stopping time so the force on you is smaller.</p>"
+  },
+  {
+   "tag": "Concept",
+   "h": "Conservation of momentum",
+   "b": "<p>If no outside force acts on a system, its total momentum stays the same. In a collision, whatever momentum one body loses, the other gains.</p><p>This follows from Newton's third law: during a collision the two forces are equal and opposite for the same time, so the momentum changes are equal and opposite.</p><p>A rocket works this way too. Gas goes backwards with momentum; the rocket gains equal momentum forwards. No air needed.</p>"
+  },
+  {
+   "tag": "Concept",
+   "h": "Elastic and inelastic collisions",
+   "b": "<p>Momentum is conserved in <b>every</b> collision (without outside forces). Kinetic energy is not.</p><ul><li><b>Elastic:</b> kinetic energy is also conserved. Billiard balls and gas molecules are close to this.</li><li><b>Inelastic:</b> some KE becomes heat, sound and deformation. Most real collisions.</li><li><b>Perfectly inelastic:</b> the bodies stick together, losing the most KE.</li></ul><svg class=\"d\" viewBox=\"0 0 320 150\"><defs><marker id=\"d1\" markerWidth=\"8\" markerHeight=\"8\" refX=\"7\" refY=\"4\" orient=\"auto\"><path d=\"M0,0 L8,4 L0,8z\" fill=\"#a3362a\"/></marker></defs><text x=\"10\" y=\"16\" font-size=\"12\" fill=\"#1d2433\">Before</text><rect x=\"30\" y=\"30\" width=\"60\" height=\"30\" fill=\"#f1e4c6\" stroke=\"#a8792a\" stroke-width=\"2\"/><text x=\"40\" y=\"50\" font-size=\"11\" fill=\"#1d2433\">1000 kg</text><line x1=\"95\" y1=\"45\" x2=\"150\" y2=\"45\" stroke=\"#a3362a\" stroke-width=\"2.5\" marker-end=\"url(#d1)\"/><text x=\"100\" y=\"38\" font-size=\"10\" fill=\"#a3362a\">20 m/s</text><rect x=\"200\" y=\"30\" width=\"60\" height=\"30\" fill=\"#dceaec\" stroke=\"#2f6f7a\" stroke-width=\"2\"/><text x=\"210\" y=\"50\" font-size=\"11\" fill=\"#1d2433\">1000 kg</text><text x=\"10\" y=\"100\" font-size=\"12\" fill=\"#1d2433\">After (stuck)</text><rect x=\"110\" y=\"110\" width=\"120\" height=\"30\" fill=\"#f1e4c6\" stroke=\"#2f6f7a\" stroke-width=\"2\"/><text x=\"130\" y=\"130\" font-size=\"11\" fill=\"#1d2433\">2000 kg</text><line x1=\"235\" y1=\"125\" x2=\"285\" y2=\"125\" stroke=\"#a3362a\" stroke-width=\"2.5\" marker-end=\"url(#d1)\"/><text x=\"238\" y=\"118\" font-size=\"10\" fill=\"#a3362a\">10 m/s</text></svg>"
+  },
+  {
+   "tag": "Worked example",
+   "h": "Two cars lock together",
+   "b": "<p>A 1000 kg car at 20 m/s hits an identical car at rest and they stick together (see diagram).</p><p>Momentum before: 1000 x 20 = 20,000. After: 2000 x v. So <b>v = 10 m/s</b>.</p><p>Kinetic energy before: (1/2) x 1000 x 400 = 200,000 J. After: (1/2) x 2000 x 100 = 100,000 J.</p><p>Half the energy has gone into crumpling metal and heat. Momentum was conserved; energy was not."
+  },
+  {
+   "tag": "Worked example",
+   "h": "The cricket bat",
+   "b": "<p>A 0.16 kg ball arrives at 40 m/s and is hit straight back at 40 m/s. Change in momentum = 0.16 x (40 + 40) = 12.8 kg m/s.</p><p>If the ball touches the bat for 4 ms (0.004 s), the average force is 12.8 / 0.004 = <b>3200 N</b>, about the weight of a 330 kg object. Such a short contact time is why the bat feels a sharp sting."
+  },
+  {
+   "tag": "Misconceptions",
+   "h": "Frequent errors",
+   "b": "<ul><li><b>'Momentum and kinetic energy are the same thing.'</b> Momentum is mv and has direction; KE is (1/2)mv squared and does not.</li><li><b>'In a crash the bigger vehicle feels the bigger force.'</b> The forces are equal. The lighter vehicle just gets the larger change in velocity.</li><li><b>'Energy is conserved in all collisions.'</b> Total energy is, but mechanical energy usually is not.</li></ul>"
+  },
+  {
+   "tag": "Indian angle",
+   "h": "Rockets and the cricket field",
+   "b": "<p>Every ISRO launch relies on conservation of momentum: the exhaust of the PSLV pushes it up. Staging, where empty stages drop away, lowers the mass so the same thrust gives a larger acceleration.</p><p>On the cricket field, a fielder 'giving' with the ball is the impulse idea. Safety designers of Indian road vehicles use crumple zones and airbags built on the same physics, and India's crash-test programme, Bharat NCAP, began in 2023 to rate vehicles on such safety.</p>"
+  },
+  {
+   "tag": "Recap",
+   "h": "Key takeaways",
+   "b": "<ul><li>Momentum p = mv is a vector, in kg m/s.</li><li>Impulse (force x time) equals change in momentum.</li><li>Total momentum is conserved when no outside force acts.</li><li>Elastic collisions also keep kinetic energy; inelastic ones do not.</li></ul><div class=\"box\"><h4>Think about it</h4>1. Why does a gun recoil backward when it fires a bullet?<br>2. Why is it better to land on sand than on concrete when you jump?</div>",
+   "cls": "exam"
+  }
+ ],
+ "quiz": [
+  {
+   "q": "Momentum is defined as",
+   "o": [
+    "Mass x acceleration",
+    "Mass x velocity",
+    "Force x distance",
+    "Half mass x speed squared"
+   ],
+   "a": 1,
+   "w": "p = mv."
+  },
+  {
+   "q": "A 2 kg object moves at 6 m/s. Its momentum is",
+   "o": [
+    "3 kg m/s",
+    "8 kg m/s",
+    "12 kg m/s",
+    "24 kg m/s"
+   ],
+   "a": 2,
+   "w": "2 x 6 = 12."
+  },
+  {
+   "q": "Airbags reduce injury mainly by",
+   "o": [
+    "Lowering momentum change",
+    "Increasing the stopping time",
+    "Adding mass",
+    "Increasing speed"
+   ],
+   "a": 1,
+   "w": "Longer time means smaller force."
+  },
+  {
+   "q": "In an isolated collision, which is always conserved?",
+   "o": [
+    "Kinetic energy",
+    "Speed",
+    "Momentum",
+    "Heat"
+   ],
+   "a": 2,
+   "w": "Momentum, if no outside force."
+  },
+  {
+   "q": "A 3 kg cart at 4 m/s hits a 1 kg cart at rest and they stick. Common speed?",
+   "o": [
+    "4 m/s",
+    "3 m/s",
+    "2 m/s",
+    "1 m/s"
+   ],
+   "a": 1,
+   "w": "12 = 4 v, v = 3."
+  },
+  {
+   "q": "A force of 50 N acts for 0.2 s. The impulse is",
+   "o": [
+    "250 N s",
+    "10 N s",
+    "0.004 N s",
+    "50.2 N s"
+   ],
+   "a": 1,
+   "w": "Ft = 10."
+  },
+  {
+   "q": "A collision in which bodies stick together is",
+   "o": [
+    "Elastic",
+    "Perfectly inelastic",
+    "Explosive",
+    "Impossible"
+   ],
+   "a": 1,
+   "w": "They lose the most KE while keeping momentum."
+  },
+  {
+   "q": "A gun recoils backwards because",
+   "o": [
+    "Air pushes it",
+    "Momentum is conserved",
+    "Friction acts",
+    "Energy is conserved only"
+   ],
+   "a": 1,
+   "w": "Bullet gets forward momentum, gun gets equal backward."
+  },
+  {
+   "q": "When a small car and a truck collide head-on, the forces on them are",
+   "o": [
+    "Larger on the truck",
+    "Larger on the car",
+    "Equal in size",
+    "Zero"
+   ],
+   "a": 2,
+   "w": "Newton's third law."
+  },
+  {
+   "q": "Why does a cricketer draw hands back on catching a fast ball?",
+   "o": [
+    "To reduce mass",
+    "To lengthen contact time and reduce force",
+    "To increase speed",
+    "To increase momentum"
+   ],
+   "a": 1,
+   "w": "Same impulse, longer time, smaller force."
+  }
+ ],
+ "sources": [
+  "NCERT Physics Class 11-12",
+  "Halliday, Resnick and Walker, Fundamentals of Physics"
+ ],
+ "verified": "2026-11-11"
+}

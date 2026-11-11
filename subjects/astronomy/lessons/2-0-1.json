@@ -1,0 +1,176 @@
+{
+ "id": "2-0-1",
+ "title": "How Stars Shine: Nuclear Fusion",
+ "emoji": "🔥",
+ "cards": [
+  {
+   "tag": "Why this matters",
+   "h": "What keeps a star from collapsing or exploding",
+   "b": "<p>A star is a balancing act. Gravity squeezes it inwards. Pressure from hot gas pushes outward. Fusion in the core supplies the heat that keeps the balance. Understanding fusion explained how the Sun has shone for billions of years, a puzzle that stumped 19th century physicists.</p>"
+  },
+  {
+   "tag": "Concept",
+   "h": "The age puzzle",
+   "b": "<p>Lord Kelvin calculated that if the Sun were just shrinking under gravity, it could shine for only about 20 million years. But geology and fossils said Earth was far older. Chemical burning would last only thousands of years. A new energy source was needed.</p>"
+  },
+  {
+   "tag": "Concept",
+   "h": "E = mc squared",
+   "b": "<p>In 1905 Einstein showed that mass is a form of energy: E = mc squared. A tiny bit of mass becomes a huge amount of energy because c squared is enormous. In 1920 <b>Arthur Eddington</b> proposed that stars convert hydrogen to helium. Four hydrogen nuclei weigh slightly <i>more</i> than one helium nucleus; the 0.7 percent difference is released as energy.</p><svg class=\"d\" viewBox=\"0 0 320 110\"><defs><marker id=\"ar1\" viewBox=\"0 0 10 10\" refX=\"9\" refY=\"5\" markerWidth=\"6\" markerHeight=\"6\" orient=\"auto\"><path d=\"M0 0L10 5L0 10z\" fill=\"#5d6474\"/></marker></defs><rect x=\"5\" y=\"35\" width=\"60\" height=\"36\" rx=\"5\" fill=\"#dceaec\" stroke=\"#2f6f7a\"/><text x=\"35.0\" y=\"51.0\" text-anchor=\"middle\" font-size=\"11\" fill=\"#1d2433\">4 hydrogen</text><text x=\"35.0\" y=\"64.0\" text-anchor=\"middle\" font-size=\"11\" fill=\"#1d2433\">nuclei</text><line x1=\"65\" y1=\"53\" x2=\"100\" y2=\"53\" stroke=\"#5d6474\" stroke-width=\"1.5\" marker-end=\"url(#ar1)\"/><rect x=\"100\" y=\"35\" width=\"100\" height=\"36\" rx=\"5\" fill=\"#f4dcd5\" stroke=\"#a3362a\"/><text x=\"150.0\" y=\"51.0\" text-anchor=\"middle\" font-size=\"11\" fill=\"#1d2433\">Fusion in the core</text><text x=\"150.0\" y=\"64.0\" text-anchor=\"middle\" font-size=\"11\" fill=\"#1d2433\">15 million K</text><line x1=\"200\" y1=\"53\" x2=\"235\" y2=\"53\" stroke=\"#5d6474\" stroke-width=\"1.5\" marker-end=\"url(#ar1)\"/><rect x=\"235\" y=\"35\" width=\"80\" height=\"36\" rx=\"5\" fill=\"#f1e4c6\" stroke=\"#a8792a\"/><text x=\"275.0\" y=\"51.0\" text-anchor=\"middle\" font-size=\"11\" fill=\"#1d2433\">1 helium +</text><text x=\"275.0\" y=\"64.0\" text-anchor=\"middle\" font-size=\"11\" fill=\"#1d2433\">energy</text><text x=\"160\" y=\"98\" text-anchor=\"middle\" font-size=\"10\" fill=\"#5d6474\">Lost mass 0.7 percent, E = mc squared</text></svg>"
+  },
+  {
+   "tag": "Concept",
+   "h": "The proton-proton chain",
+   "b": "<p>In the Sun, protons fuse in steps: two protons form deuterium (a proton turns into a neutron, emitting a neutrino); deuterium plus a proton makes helium-3; two helium-3 nuclei make helium-4 and release two protons. The Sun fuses about 600 million tonnes of hydrogen per second, losing about 4 million tonnes of mass as energy.</p><p>Hans Bethe worked out these steps (and the CNO cycle in heavier stars) in 1939 and won the Nobel Prize in 1967.</p>"
+  },
+  {
+   "tag": "Concept",
+   "h": "Why the temperature is not enough",
+   "b": "<p>Protons repel each other. Classical physics says even 15 million K is too cold for them to touch. Quantum mechanics rescues the idea: particles can <b>tunnel</b> through the barrier with small probability (George Gamow, 1928). The Sun's fusion is slow but there are so many protons that it works. That slowness is why the Sun lasts about 10 billion years.</p>"
+  },
+  {
+   "tag": "Concept",
+   "h": "Balance, and what happens when fuel runs low",
+   "b": "<p>If fusion speeds up, the core expands and cools, slowing fusion: a thermostat. When hydrogen runs out in the core, the core contracts and heats, the outer layers swell, and the star leaves the main sequence. Heavier stars go on to fuse helium to carbon and oxygen, then heavier elements up to <b>iron</b>, which releases no energy when fused.</p>"
+  },
+  {
+   "tag": "How we know",
+   "h": "Neutrinos from the core",
+   "b": "<p>Photons from the core need tens of thousands of years or more to random-walk out, but <b>neutrinos</b> fly straight out in 2 seconds. Raymond Davis's Homestake experiment (1960s) detected only about a third of the predicted neutrinos: the 'solar neutrino problem'. It was solved when neutrinos were shown to change type in flight (Nobel Prize 2015, Kajita and McDonald), confirming the Sun's fusion model.</p>"
+  },
+  {
+   "tag": "Misconceptions",
+   "h": "Mistakes to avoid",
+   "b": "<ul><li><b>'Stars burn like fire.'</b> Burning needs oxygen; fusion does not.</li><li><b>'The Sun will explode as a bomb.'</b> It will not; its fusion is self-regulating.</li><li><b>'Fusion is easy to copy.'</b> On Earth it needs 100 million degrees and intense confinement.</li></ul>"
+  },
+  {
+   "tag": "Indian angle",
+   "h": "Fusion research at home",
+   "b": "<p>India is a member of <b>ITER</b>, the international fusion experiment in France (joined 2005). The Institute for Plasma Research in Gandhinagar runs the <b>SST-1</b> tokamak, India's superconducting steady-state fusion device. Scientists like <b>Meghnad Saha</b> (ionisation of stellar gas) and <b>Subrahmanyan Chandrasekhar</b> (stellar structure) laid foundations for this field.</p>"
+  },
+  {
+   "tag": "Recap",
+   "h": "Key takeaways",
+   "b": "<ul><li>Stars shine by fusing hydrogen to helium, turning 0.7 percent of mass into energy.</li><li>Quantum tunnelling makes fusion possible at 15 million K.</li><li>Pressure from fusion balances gravity, a stable thermostat.</li><li>Neutrino detection confirmed solar fusion.</li></ul><p><b>Think about it:</b> (1) Why does a heavier star burn out faster? (2) Why does fusing iron not power a star?</p>",
+   "cls": "exam"
+  }
+ ],
+ "quiz": [
+  {
+   "q": "The Sun's energy comes from:",
+   "o": [
+    "Chemical burning",
+    "Gravitational shrinking only",
+    "Nuclear fusion of hydrogen",
+    "Radioactive decay"
+   ],
+   "a": 2,
+   "w": "Hydrogen to helium."
+  },
+  {
+   "q": "About what fraction of the hydrogen's mass becomes energy in H to He fusion?",
+   "o": [
+    "0.7 percent",
+    "7 percent",
+    "70 percent",
+    "100 percent"
+   ],
+   "a": 0,
+   "w": "About 0.7 percent."
+  },
+  {
+   "q": "Quantum tunnelling is needed because:",
+   "o": [
+    "Protons repel each other",
+    "Neutrons are heavy",
+    "The Sun is dense",
+    "Photons are fast"
+   ],
+   "a": 0,
+   "w": "Barrier from electric repulsion."
+  },
+  {
+   "q": "Who first proposed hydrogen fusion in stars in 1920?",
+   "o": [
+    "Eddington",
+    "Bethe",
+    "Gamow",
+    "Einstein"
+   ],
+   "a": 0,
+   "w": "Arthur Eddington."
+  },
+  {
+   "q": "Neutrinos from the Sun reach Earth in about:",
+   "o": [
+    "8 minutes",
+    "2 seconds from the core then 8 minutes",
+    "100,000 years",
+    "1 hour"
+   ],
+   "a": 1,
+   "w": "Neutrinos escape instantly; light then travels 8 minutes."
+  },
+  {
+   "q": "Why does fusion stop at iron in massive stars?",
+   "o": [
+    "Fusing iron absorbs energy",
+    "Iron is rare",
+    "Gravity is too weak",
+    "It melts"
+   ],
+   "a": 0,
+   "w": "No net energy gain."
+  },
+  {
+   "q": "The solar neutrino problem was solved by:",
+   "o": [
+    "Neutrino oscillation",
+    "Finding more hydrogen",
+    "Colder core",
+    "Bad detectors"
+   ],
+   "a": 0,
+   "w": "Neutrinos change type."
+  },
+  {
+   "q": "Kelvin's estimate of the Sun's age (20 million years) failed because:",
+   "o": [
+    "He did not know about fusion",
+    "He used wrong distance",
+    "The Sun is cold",
+    "He ignored the Moon"
+   ],
+   "a": 0,
+   "w": "Gravity alone cannot power it long."
+  },
+  {
+   "q": "A star's fusion rate acts like a thermostat because:",
+   "o": [
+    "Higher temperature expands the core, lowering fusion",
+    "It burns faster when cooler",
+    "Photons control it",
+    "It is random"
+   ],
+   "a": 0,
+   "w": "Self-regulating balance."
+  },
+  {
+   "q": "India's Institute for Plasma Research runs:",
+   "o": [
+    "SST-1 tokamak",
+    "LIGO",
+    "GMRT",
+    "AstroSat"
+   ],
+   "a": 0,
+   "w": "Gandhinagar."
+  }
+ ],
+ "sources": [
+  "Bethe 1939",
+  "Eddington 1920",
+  "Nobel 2015 neutrino oscillation"
+ ],
+ "verified": "2026-11-11"
+}

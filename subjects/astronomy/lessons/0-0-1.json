@@ -1,0 +1,175 @@
+{
+ "id": "0-0-1",
+ "title": "Motions of Sun, Moon and Planets",
+ "emoji": "🪐",
+ "cards": [
+  {
+   "tag": "Why this matters",
+   "h": "The sky is a clock with moving hands",
+   "b": "<p>Stars keep their pattern night after night. Five bright 'stars' do not: they drift across the pattern. The Greeks called them <i>planetes</i>, wanderers. With the Sun and Moon, they were the seven moving bodies behind our week.</p><p>Understanding their motion was the puzzle that led, step by step, to modern physics.</p>"
+  },
+  {
+   "tag": "Concept",
+   "h": "The Sun's yearly path",
+   "b": "<p>Against the stars, the Sun appears to travel along a great circle called the <b>ecliptic</b>, once a year, about 1 degree a day. The zodiac constellations lie along this line.</p><p>The ecliptic is tilted 23.4 degrees to the celestial equator. That tilt is why the Sun climbs high in summer and low in winter, and why the Sun's rising point shifts north and south through the year.</p>"
+  },
+  {
+   "tag": "Concept",
+   "h": "Phases of the Moon",
+   "b": "<p>The Moon shines by reflected sunlight. Half of it is always lit. What changes is how much of the lit half we see, as the Moon orbits Earth.</p><ul><li>New Moon: Moon between us and the Sun, the lit side faces away.</li><li>Full Moon: Earth between, the lit side faces us.</li><li>Cycle length from one new Moon to the next: <b>29.5 days</b> (synodic month).</li></ul><p>The Moon orbits Earth in 27.3 days against the stars, but Earth moves on around the Sun meanwhile, so it needs about two extra days to line up again with the Sun.</p>"
+  },
+  {
+   "tag": "Concept",
+   "h": "Planets: wandering lights",
+   "b": "<p>Mercury, Venus, Mars, Jupiter and Saturn are easy to see without a telescope. Planets do not twinkle much, because they show tiny discs rather than points.</p><p><b>Mercury and Venus</b> orbit inside Earth's path, so they never stray far from the Sun: you see them just after sunset or before sunrise. <b>Mars, Jupiter and Saturn</b> can appear anywhere along the ecliptic, even at midnight.</p>"
+  },
+  {
+   "tag": "Concept",
+   "h": "Retrograde loops: Earth overtaking",
+   "b": "<p>Mars normally drifts eastward among the stars. Every 26 months or so it stops, moves backward for weeks, then resumes. This is <b>retrograde motion</b>.</p><p>Nothing reverses. Earth, on the inner and faster track, overtakes Mars, like passing a slower car on the highway: the car seems to slide backward against distant trees. This one fact was the strongest clue for a Sun-centred system.</p><svg class=\"d\" viewBox=\"0 0 320 150\"><defs><marker id=\"ar1\" viewBox=\"0 0 10 10\" refX=\"9\" refY=\"5\" markerWidth=\"6\" markerHeight=\"6\" orient=\"auto\"><path d=\"M0 0L10 5L0 10z\" fill=\"#5d6474\"/></marker></defs><circle cx=\"160\" cy=\"70\" r=\"10\" fill=\"#f1e4c6\" stroke=\"#a8792a\"/><text x=\"160\" y=\"74\" text-anchor=\"middle\" font-size=\"10\" fill=\"#1d2433\">Sun</text><circle cx=\"160\" cy=\"70\" r=\"0\" fill=\"#ffffff\" stroke=\"#5d6474\"/><ellipse cx=\"160\" cy=\"70\" rx=\"120\" ry=\"40\" fill=\"none\" stroke=\"#5d6474\" stroke-dasharray=\"4 3\"/><circle cx=\"70\" cy=\"95\" r=\"8\" fill=\"#dceaec\" stroke=\"#2f6f7a\"/><circle cx=\"280\" cy=\"52\" r=\"8\" fill=\"#f4dcd5\" stroke=\"#a3362a\"/><text x=\"70\" y=\"120\" text-anchor=\"middle\" font-size=\"10\" fill=\"#1d2433\">Earth (fast)</text><text x=\"280\" y=\"36\" text-anchor=\"middle\" font-size=\"10\" fill=\"#1d2433\">Mars (slower)</text><text x=\"160\" y=\"145\" text-anchor=\"middle\" font-size=\"10\" fill=\"#5d6474\">Earth overtakes Mars: Mars seems to loop backward</text></svg>"
+  },
+  {
+   "tag": "Concept",
+   "h": "Orbits obey simple rules",
+   "b": "<p>Planets orbit in nearly the same plane, which is why they all follow the ecliptic. Closer planets move faster: Mercury circles the Sun in 88 days, Earth in 365.25, Jupiter in 11.86 years, Saturn in 29.5 years.</p><p>Each planet's year grows quickly with distance. Kepler later captured this in an exact law (lesson 4).</p>"
+  },
+  {
+   "tag": "How we know",
+   "h": "Watching patiently",
+   "b": "<p>Babylonian priests recorded planets for centuries. Greek, Indian and Islamic astronomers refined predictions. Retrograde loops were traced night by night on charts. A modern amateur can repeat it: mark Mars against the stars once a week for six months and the loop appears.</p><p>Today radar and spacecraft ranging give distances to planets within metres.</p>"
+  },
+  {
+   "tag": "Misconceptions",
+   "h": "Clearing it up",
+   "b": "<ul><li><b>'The Moon makes its own light.'</b> No, reflected sunlight.</li><li><b>'Phases are Earth's shadow.'</b> No. Earth's shadow causes lunar eclipses, which are rare. Phases are just viewing angle.</li><li><b>'Retrograde planets influence our lives.'</b> The reversal is a viewing illusion, not a physical event.</li></ul>"
+  },
+  {
+   "tag": "Indian angle",
+   "h": "Graha, tithi and Aryabhata",
+   "b": "<p>Indian astronomy tracked <b>Surya, Chandra and five planets</b> (grahas), with Rahu and Ketu as the two lunar nodes. The Hindu <b>tithi</b> is one thirtieth of the lunar month, based on Moon-Sun angle.</p><p><b>Aryabhata</b> (born 476 CE, Aryabhatiya, 499 CE) proposed that Earth rotates, so the stars only seem to circle us. <b>Brahmagupta</b> (628 CE) and <b>Bhaskara II</b> (1150 CE) gave calculation methods for planetary positions still used for the panchang.</p>"
+  },
+  {
+   "tag": "Recap",
+   "h": "Key takeaways",
+   "b": "<ul><li>Sun, Moon and five planets move against the fixed stars along the ecliptic.</li><li>Moon phases are viewing geometry; the cycle is 29.5 days.</li><li>Retrograde motion is Earth overtaking an outer planet.</li><li>Inner planets stay near the Sun; outer ones roam the whole ecliptic.</li></ul><p><b>Think about it:</b> (1) Why can Venus never be seen at midnight? (2) If retrograde were real motion of Mars, what else would we see?</p>",
+   "cls": "exam"
+  }
+ ],
+ "quiz": [
+  {
+   "q": "The ecliptic is the path of:",
+   "o": [
+    "The Moon",
+    "The Sun against the stars",
+    "Venus",
+    "Polaris"
+   ],
+   "a": 1,
+   "w": "The Sun's apparent yearly path."
+  },
+  {
+   "q": "The Moon's phase cycle (new Moon to new Moon) takes about:",
+   "o": [
+    "27.3 days",
+    "29.5 days",
+    "24 hours",
+    "365 days"
+   ],
+   "a": 1,
+   "w": "The synodic month."
+  },
+  {
+   "q": "Why do phases occur?",
+   "o": [
+    "Earth's shadow falls on the Moon",
+    "Clouds cover the Moon",
+    "We see different amounts of the lit half as it orbits",
+    "The Moon changes size"
+   ],
+   "a": 2,
+   "w": "Viewing angle of the sunlit half."
+  },
+  {
+   "q": "Retrograde motion of Mars happens when:",
+   "o": [
+    "Mars reverses its orbit",
+    "Earth passes Mars on the inside track",
+    "Mars stops spinning",
+    "Light is bent by the Sun"
+   ],
+   "a": 1,
+   "w": "Relative motion illusion."
+  },
+  {
+   "q": "Which planets can never appear high in the midnight sky?",
+   "o": [
+    "Mars and Jupiter",
+    "Mercury and Venus",
+    "Jupiter and Saturn",
+    "Saturn and Mars"
+   ],
+   "a": 1,
+   "w": "Their orbits lie inside Earth's, so they stay near the Sun."
+  },
+  {
+   "q": "The tilt of the ecliptic to the celestial equator is about:",
+   "o": [
+    "5 degrees",
+    "23.4 degrees",
+    "45 degrees",
+    "90 degrees"
+   ],
+   "a": 1,
+   "w": "23.4 degrees."
+  },
+  {
+   "q": "Planets generally do not twinkle much because:",
+   "o": [
+    "They are hot",
+    "They are nearer and show small discs",
+    "They have atmospheres",
+    "They are blue"
+   ],
+   "a": 1,
+   "w": "Disc, not a point; air turbulence averages out."
+  },
+  {
+   "q": "Roughly how long is Jupiter's orbital period?",
+   "o": [
+    "1.9 years",
+    "11.9 years",
+    "29.5 years",
+    "84 years"
+   ],
+   "a": 1,
+   "w": "11.86 years."
+  },
+  {
+   "q": "Who first proposed Earth's rotation in India, in 499 CE?",
+   "o": [
+    "Brahmagupta",
+    "Aryabhata",
+    "Varahamihira",
+    "Bhaskara II"
+   ],
+   "a": 1,
+   "w": "Aryabhatiya."
+  },
+  {
+   "q": "The sidereal month (27.3 d) is shorter than the synodic month because:",
+   "o": [
+    "The Moon speeds up",
+    "Earth also moves along its orbit",
+    "The Sun moves",
+    "The Moon changes orbit"
+   ],
+   "a": 1,
+   "w": "The Moon must catch up with the shifting Sun line."
+  }
+ ],
+ "sources": [
+  "Aryabhatiya (499 CE)",
+  "Kepler planetary motion"
+ ],
+ "verified": "2026-11-11"
+}

@@ -1,0 +1,176 @@
+{
+ "id": "1-0-2",
+ "title": "Gas and Ice Giants",
+ "emoji": "🪐",
+ "cards": [
+  {
+   "tag": "Why this matters",
+   "h": "The planets that rule the Solar System",
+   "b": "<p>Jupiter alone has more than twice the mass of all other planets combined. The giants shaped the whole system: they steered comets, sculpted the asteroid belt and probably protected the inner planets. And since giants are the easiest planets to find around other stars, they are the usual face of exoplanets.</p><svg class=\"d\" viewBox=\"0 0 320 110\"><defs><marker id=\"ar1\" viewBox=\"0 0 10 10\" refX=\"9\" refY=\"5\" markerWidth=\"6\" markerHeight=\"6\" orient=\"auto\"><path d=\"M0 0L10 5L0 10z\" fill=\"#5d6474\"/></marker></defs><circle cx=\"40\" cy=\"50\" r=\"28\" fill=\"#f1e4c6\" stroke=\"#a8792a\"/><text x=\"40\" y=\"54\" text-anchor=\"middle\" font-size=\"10\" fill=\"#1d2433\">Jupiter</text><circle cx=\"120\" cy=\"50\" r=\"24\" fill=\"#f1e4c6\" stroke=\"#a8792a\"/><text x=\"120\" y=\"54\" text-anchor=\"middle\" font-size=\"10\" fill=\"#1d2433\">Saturn</text><circle cx=\"190\" cy=\"50\" r=\"14\" fill=\"#dceaec\" stroke=\"#2f6f7a\"/><text x=\"190\" y=\"54\" text-anchor=\"middle\" font-size=\"10\" fill=\"#1d2433\">Uranus</text><circle cx=\"240\" cy=\"50\" r=\"14\" fill=\"#dceaec\" stroke=\"#2f6f7a\"/><text x=\"240\" y=\"54\" text-anchor=\"middle\" font-size=\"10\" fill=\"#1d2433\">Neptune</text><circle cx=\"290\" cy=\"50\" r=\"6\" fill=\"#f4dcd5\" stroke=\"#a3362a\"/><text x=\"290\" y=\"72\" text-anchor=\"middle\" font-size=\"9\" fill=\"#1d2433\">Earth</text><text x=\"160\" y=\"100\" text-anchor=\"middle\" font-size=\"10\" fill=\"#5d6474\">Giants dwarf Earth (to scale)</text></svg>"
+  },
+  {
+   "tag": "Concept",
+   "h": "Two kinds of giant",
+   "b": "<p><b>Gas giants</b>, Jupiter and Saturn, are mostly hydrogen and helium, like the Sun, with a small dense core. <b>Ice giants</b>, Uranus and Neptune, are smaller and contain much water, ammonia and methane 'ices' (hot dense fluids, not solid ice) under a hydrogen-helium envelope. Methane absorbs red light, giving Uranus and Neptune their blue-green colour.</p>"
+  },
+  {
+   "tag": "Concept",
+   "h": "Jupiter: the king",
+   "b": "<p>Jupiter is 318 times Earth's mass and 11 Earths wide, and spins in under 10 hours. Its bands are cloud stripes in strong winds. The <b>Great Red Spot</b> is a storm larger than Earth, observed for at least 150 years and shrinking. Deep inside, hydrogen is squeezed into a metallic liquid that creates a powerful magnetic field. Orbit: 11.86 years, at 5.2 AU.</p>"
+  },
+  {
+   "tag": "Concept",
+   "h": "Saturn: rings and low density",
+   "b": "<p>Saturn is so light for its size that its average density is less than water: it would float in a big enough bathtub. Its rings, made of ice chunks from dust-grain to house size, span 280,000 km but are mostly only about 10 metres thick. Galileo spotted them in 1610 but could not resolve them; Huygens identified them in 1655. Saturn has well over 200 known moons (as of 2025).</p>"
+  },
+  {
+   "tag": "Concept",
+   "h": "Uranus and Neptune: the cold edge",
+   "b": "<p><b>Uranus</b> was found by William Herschel in 1781. It is tipped on its side, with an axis tilt of 98 degrees, likely from an ancient collision. <b>Neptune</b> was found in 1846 after Le Verrier and Adams predicted its position from irregularities in Uranus's orbit, a triumph of Newtonian gravity. Neptune has the fastest winds, over 2,000 km/h, even though it receives little sunlight. Voyager 2 is the only probe to visit both (1986, 1989).</p>"
+  },
+  {
+   "tag": "Concept",
+   "h": "Why giants grew big",
+   "b": "<p>Beyond the <b>frost line</b>, water ice could form, so there was far more solid material. Jupiter's core grew past about 10 Earth masses and then pulled in huge amounts of gas before the young Sun blew the disc away. Uranus and Neptune formed later or slower and got less gas.</p>"
+  },
+  {
+   "tag": "How we know",
+   "h": "Voyagers, Galileo, Cassini, Juno",
+   "b": "<p>Voyager 1 and 2 (launched 1977) toured the giants. <b>Galileo</b> (1995-2003) orbited Jupiter. <b>Cassini</b> (2004-2017) explored Saturn and dropped the Huygens probe on Titan in 2005. <b>Juno</b> (arrived 2016) maps Jupiter's gravity and magnetic field, showing that the core is 'fuzzy' and diluted.</p>"
+  },
+  {
+   "tag": "Misconceptions",
+   "h": "Misunderstandings",
+   "b": "<ul><li><b>'Jupiter is a failed star.'</b> It is about 80 times too light to ignite fusion.</li><li><b>'Only Saturn has rings.'</b> All four giants have rings, Saturn's are simply the brightest.</li><li><b>'Gas giants have a surface.'</b> No; the atmosphere gradually thickens into fluid.</li></ul>"
+  },
+  {
+   "tag": "Indian angle",
+   "h": "Brihaspati, Shani and Kumbh",
+   "b": "<p>In Indian tradition Jupiter is <b>Brihaspati</b> (Guru) and Saturn is <b>Shani</b>. Brihaspati's roughly 12-year orbit (actually 11.86 years) is linked to the timing of the <b>Kumbh Mela</b> cycles in the panchang. Saturn's 29.5-year orbit is the basis of the 'Shani sade-sati' reckoning in traditional astrology. Indian astronomers like Aryabhata and Bhaskara II computed these orbital periods with remarkable accuracy.</p>"
+  },
+  {
+   "tag": "Recap",
+   "h": "Key takeaways",
+   "b": "<ul><li>Jupiter and Saturn are mainly hydrogen and helium; Uranus and Neptune are ice giants.</li><li>Giants have rings, many moons and no solid surface.</li><li>The frost line explains why giants formed far out.</li><li>Neptune was predicted by mathematics before it was seen.</li></ul><p><b>Think about it:</b> (1) Why is Saturn less dense than water? (2) How does predicting Neptune from Uranus's wobble resemble finding exoplanets today?</p>",
+   "cls": "exam"
+  }
+ ],
+ "quiz": [
+  {
+   "q": "Which planet could in principle float on water?",
+   "o": [
+    "Jupiter",
+    "Saturn",
+    "Neptune",
+    "Earth"
+   ],
+   "a": 1,
+   "w": "Average density about 0.7 g/cm3."
+  },
+  {
+   "q": "Gas giants are mostly made of:",
+   "o": [
+    "Rock",
+    "Hydrogen and helium",
+    "Methane only",
+    "Iron"
+   ],
+   "a": 1,
+   "w": "Like the Sun."
+  },
+  {
+   "q": "Uranus is unusual because it:",
+   "o": [
+    "Has no moons",
+    "Spins tilted on its side",
+    "Is the largest",
+    "Has no atmosphere"
+   ],
+   "a": 1,
+   "w": "Axis tilt of 98 degrees."
+  },
+  {
+   "q": "Neptune was discovered in 1846 through:",
+   "o": [
+    "A lucky photo",
+    "Mathematical prediction from Uranus's orbit",
+    "Radar",
+    "A comet"
+   ],
+   "a": 1,
+   "w": "Le Verrier and Adams."
+  },
+  {
+   "q": "The Great Red Spot is:",
+   "o": [
+    "A volcano",
+    "A giant storm",
+    "A moon",
+    "A crater"
+   ],
+   "a": 1,
+   "w": "An anticyclone."
+  },
+  {
+   "q": "The frost line is the distance beyond which:",
+   "o": [
+    "Water ice can form in the disc",
+    "Planets cannot form",
+    "Gas freezes only",
+    "Rocks melt"
+   ],
+   "a": 0,
+   "w": "More solid material, so giant cores."
+  },
+  {
+   "q": "Which probe orbited Saturn from 2004 to 2017?",
+   "o": [
+    "Juno",
+    "Cassini",
+    "Voyager 2",
+    "Galileo"
+   ],
+   "a": 1,
+   "w": "Cassini."
+  },
+  {
+   "q": "Why is Jupiter not a star?",
+   "o": [
+    "It is too light to ignite hydrogen fusion",
+    "It is too cold on the outside",
+    "It lacks hydrogen",
+    "It spins too fast"
+   ],
+   "a": 0,
+   "w": "Needs about 80 Jupiter masses."
+  },
+  {
+   "q": "Saturn's rings are mostly:",
+   "o": [
+    "Gas",
+    "Ice chunks",
+    "Rock slabs",
+    "Plasma"
+   ],
+   "a": 1,
+   "w": "Water ice particles."
+  },
+  {
+   "q": "Jupiter's orbital period is closest to:",
+   "o": [
+    "1 year",
+    "12 years",
+    "30 years",
+    "84 years"
+   ],
+   "a": 1,
+   "w": "11.86 years."
+  }
+ ],
+ "sources": [
+  "NASA Juno",
+  "Cassini",
+  "Voyager"
+ ],
+ "verified": "2026-11-11"
+}

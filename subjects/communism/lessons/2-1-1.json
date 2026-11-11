@@ -1,0 +1,171 @@
+{
+ "id": "2-1-1",
+ "title": "Stalin: Socialism in One Country",
+ "emoji": "🛡️",
+ "cards": [
+  {
+   "tag": "Why this matters",
+   "h": "The man who built the system",
+   "b": "<p>Joseph Stalin (1878-1953) ruled the USSR for about 30 years. His doctrine of \"socialism in one country\" justified building a state, then an empire. Whether Stalinism is Marxism's tragic outcome or its betrayal is the oldest dispute on the left.</p>"
+  },
+  {
+   "tag": "Context",
+   "h": "Rise of a bureaucrat",
+   "b": "<p>Born Ioseb Jughashvili in Gori, Georgia, a seminary student turned bank-robber and Bolshevik organiser. He became general secretary in April 1922. After Lenin's death in 1924 he allied first with Zinoviev and Kamenev against Trotsky, then with Bukharin against them, and finally broke Bukharin (1928-29).</p>"
+  },
+  {
+   "tag": "Key idea",
+   "h": "Socialism in one country",
+   "b": "<p>In late 1924 Stalin argued that the USSR could build socialism alone, without waiting for revolution in the West. Against Trotsky's permanent revolution it gave a patriotic goal and reassurance to a tired party. Bukharin supported it as a way to keep NEP. In practice it meant industrial drives, party loyalty and nationalism.</p>"
+  },
+  {
+   "tag": "Key idea",
+   "h": "Marxism-Leninism, \"diamat\" and the cult",
+   "b": "<p>Stalin wrote <i>Foundations of Leninism</i> (1924), and the <i>Short Course</i> history of the Party (1938), which became the compulsory canon. Dialectical and historical materialism were reduced to a catechism. Culture was brought under \"socialist realism\" (1934). Lysenko gained control of biology. A cult of personality presented Stalin as the genius leader.</p>"
+  },
+  {
+   "tag": "Key idea",
+   "h": "Party, police and terror",
+   "b": "<p>By 1929 he held supreme power. The Great Terror of 1936-38 followed the murder of Kirov (December 1934). Show trials convicted Zinoviev, Kamenev, Bukharin and others. About 680,000 were shot in 1937-38 by the usual count of recorded executions; many more died in camps. The army leadership was purged in 1937. Nations were deported: Chechens, Crimean Tatars, Volga Germans in the 1940s.</p>"
+  },
+  {
+   "tag": "In practice",
+   "h": "War, empire and 1945",
+   "b": "<p>The Nazi-Soviet Pact (August 1939) was followed by the German invasion of June 1941. The Soviet Union lost about 27 million people (the usual estimate). It defeated Germany in 1945 and installed communist governments across Eastern Europe. Stalin's victory gave the system legitimacy, and Soviet prestige abroad soared. He died on 5 March 1953.</p>"
+  },
+  {
+   "tag": "Critiques",
+   "h": "Leninism, or betrayal?",
+   "b": "<p><b>Trotskyists</b>: Stalinism betrayed Lenin through bureaucracy. <b>Liberals and Cold War historians</b> (Richard Pipes, Robert Conquest, <i>The Great Terror</i>, 1968): continuous with Lenin's one-party rule. <b>Revisionists</b> (J. Arch Getty, Sheila Fitzpatrick) stress chaos, popular participation and the central role of local officials. <b>Maoists</b> defended him as \"70% good\". <b>Anarchists</b>: the state grew, not withered. <b>Western Marxists</b>: Stalin made Marxism a state ideology.</p>"
+  },
+  {
+   "tag": "Indian angle",
+   "h": "Stalin and the Indian left",
+   "b": "<p>The CPI followed Soviet lines: it supported the war after June 1941 and called it a \"People's War\", opposing the Quit India Movement of 1942, which cost it popularity. After Stalin's death in 1953, CPI leaders mourned. Stalinist structure shaped the Indian party: central committee control, expulsions, loyalty to Moscow. The Soviet Union's support in the UN and with steel plants (Bhilai, 1955) shaped India's ties with it. Many Indian Marxists, such as Romesh Thapar, later became critics.</p>"
+  },
+  {
+   "tag": "Recap",
+   "h": "Five takeaways and two debates",
+   "b": "<h4>Key takeaways</h4><ol><li>Socialism in one country (1924) replaced waiting for world revolution.</li><li>Stalin built a party-police state with a cult and a compulsory ideology.</li><li>The Great Terror (1936-38) killed about 680,000 in executions, with many more dead in camps.</li><li>The USSR won the Second World War at the cost of about 27 million dead.</li><li>Debate: Stalinism as continuation or betrayal of Leninism.</li></ol><h4>Debate questions</h4><ol><li>Was socialism in one country a necessity or a retreat?</li><li>Is the Stalin question the same as the Lenin question?</li></ol>",
+   "cls": "exam"
+  }
+ ],
+ "quiz": [
+  {
+   "q": "Stalin became general secretary in",
+   "o": [
+    "1917",
+    "1929",
+    "1922",
+    "1936"
+   ],
+   "a": 2,
+   "w": "April 1922."
+  },
+  {
+   "q": "Socialism in one country was proposed in",
+   "o": [
+    "1905",
+    "1941",
+    "1924",
+    "1953"
+   ],
+   "a": 2,
+   "w": "Against Trotsky."
+  },
+  {
+   "q": "The Short Course history of the Party appeared in",
+   "o": [
+    "1938",
+    "1924",
+    "1917",
+    "1948"
+   ],
+   "a": 0,
+   "w": "A compulsory text."
+  },
+  {
+   "q": "The Great Terror followed the murder of",
+   "o": [
+    "Trotsky",
+    "Lenin",
+    "Dzerzhinsky",
+    "Kirov"
+   ],
+   "a": 3,
+   "w": "In December 1934."
+  },
+  {
+   "q": "Recorded executions in 1937-38 were around",
+   "o": [
+    "68,000",
+    "680,000",
+    "6 million",
+    "27 million"
+   ],
+   "a": 1,
+   "w": "Archival counts."
+  },
+  {
+   "q": "Soviet deaths in the Second World War are usually estimated at",
+   "o": [
+    "About 27 million",
+    "About 2 million",
+    "About 5 million",
+    "About 100 million"
+   ],
+   "a": 0,
+   "w": "Both soldiers and civilians."
+  },
+  {
+   "q": "Who wrote The Great Terror (1968)?",
+   "o": [
+    "J. Arch Getty",
+    "Isaac Deutscher",
+    "Robert Conquest",
+    "E.H. Carr"
+   ],
+   "a": 2,
+   "w": "A Cold War classic."
+  },
+  {
+   "q": "The CPI opposed the Quit India Movement because it",
+   "o": [
+    "Was banned",
+    "Backed the Soviet-aligned People's War",
+    "Supported Japan",
+    "Supported the Muslim League"
+   ],
+   "a": 1,
+   "w": "After June 1941."
+  },
+  {
+   "q": "Socialist realism became official in",
+   "o": [
+    "1917",
+    "1950",
+    "1921",
+    "1934"
+   ],
+   "a": 3,
+   "w": "Writers' Congress."
+  },
+  {
+   "q": "Which steel plant was built with Soviet help from 1955?",
+   "o": [
+    "Bhilai",
+    "Rourkela",
+    "Durgapur",
+    "Jamshedpur"
+   ],
+   "a": 0,
+   "w": "Agreement 1955."
+  }
+ ],
+ "sources": [
+  "Conquest 1968",
+  "Getty",
+  "Service 2004"
+ ],
+ "verified": "2026-11-11"
+}

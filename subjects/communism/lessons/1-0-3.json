@@ -1,0 +1,177 @@
+{
+ "id": "1-0-3",
+ "title": "Class, State and Revolution",
+ "emoji": "⚔️",
+ "cards": [
+  {
+   "tag": "Why this matters",
+   "h": "Who rules, and how it ends",
+   "b": "<p>Marx has no single book on the state. Yet his scattered writings produced the most influential political claim of the 19th century: the state is a tool of the ruling class, and workers must seize it, then eventually abolish it. Everything from Lenin to the anarchist objection grows from this.</p>"
+  },
+  {
+   "tag": "Context",
+   "h": "Class politics in three texts",
+   "b": "<p>Key texts: <i>The Communist Manifesto</i> (1848), <i>The Eighteenth Brumaire of Louis Bonaparte</i> (1852) on the French coup of 1851, and <i>The Civil War in France</i> (1871). They show Marx moving from a simple model to subtler ones.</p>"
+  },
+  {
+   "tag": "Key idea",
+   "h": "The state as committee of the bourgeoisie",
+   "b": "<p>The Manifesto says the executive of the modern state is \"a committee for managing the common affairs of the whole bourgeoisie\". Law protects property; police and army enforce it. Even universal suffrage may leave economic power untouched. Marx also said in a speech in Amsterdam (1872) that in Britain, the US and perhaps the Netherlands workers might win by peaceful means.</p>"
+  },
+  {
+   "tag": "Key idea",
+   "h": "Relative autonomy: Bonapartism",
+   "b": "<p>In the <i>Eighteenth Brumaire</i> Marx shows Louis Napoleon ruling as the middle class gave up political power to protect its social position. The state, here, stands above classes in appearance, while serving the bourgeoisie's interest. Later Marxists use this to explain fascism and military regimes.</p>"
+  },
+  {
+   "tag": "Key idea",
+   "h": "Class consciousness and the revolutionary agent",
+   "b": "<p>Marx distinguishes a class \"in itself\" (shared position) from a class \"for itself\" (aware and organised), in <i>The Poverty of Philosophy</i> (1847). Why the proletariat? It is numerous, concentrated in factories, has \"nothing to lose but its chains\", and its liberation requires abolishing class itself. Peasants, the \"sack of potatoes\" of the Brumaire, scatter and lack common organisation.</p>"
+  },
+  {
+   "tag": "Key idea",
+   "h": "Revolution and the withering of the state",
+   "b": "<p>After revolution, workers use state power in a transitional period (the dictatorship of the proletariat, treated in the next lesson). As classes disappear, \"the state is not abolished, it withers away\", wrote Engels in <i>Anti-Dühring</i> (1878). Marx's <i>Critique of the Gotha Programme</i> (1875) sketches a lower and higher phase of communism, ending with \"from each according to ability, to each according to needs\".</p>"
+  },
+  {
+   "tag": "In practice",
+   "h": "What revolutions did",
+   "b": "<p>Every successful communist revolution (Russia 1917, China 1949, Cuba 1959) produced a stronger, not weaker, state. Party officials formed what Milovan Djilas called \"the new class\" (1957). Revolution came in peasant societies, often via war and a party, not from industrial workers alone. In wealthy democracies, electoral socialism (Sweden, Britain 1945) took the reform road Marx allowed.</p>"
+  },
+  {
+   "tag": "Critiques",
+   "h": "State theory under fire",
+   "b": "<p><b>Anarchists</b> (Bakunin, 1870s) predicted that a \"workers' state\" would become a new ruling class. <b>Weber</b> held the state is defined by monopoly of force, whatever the class. <b>Pluralists</b> (Dahl) show that democracies spread power among groups, not one class. <b>Poulantzas</b> and <b>Miliband</b> debated how far the state is controlled or structurally tied to capital in the 1970s. <b>Liberals</b> say that revolutionary violence rarely yields freedom. <b>Historians</b> observe that the working class shrank in many rich countries and splits by ethnicity, gender and sector.</p>"
+  },
+  {
+   "tag": "Indian angle",
+   "h": "Class or caste?",
+   "b": "<p>Indian Marxists argued over the agent. <b>Ambedkar</b> saw caste hierarchy as the primary oppression and wrote that a social revolution must precede an economic one; he worried that Marxism ignored the \"graded inequality\" of caste. The CPI under S.A. Dange pursued trade-union class politics; E.M.S. Namboodiripad later used class to explain Kerala's land reforms (1957 ministry, the first elected communist government in India). The Constitution's directive principles borrow some of the socialist language of the state as an agent of redistribution.</p>"
+  },
+  {
+   "tag": "Recap",
+   "h": "Five takeaways and two debates",
+   "b": "<h4>Key takeaways</h4><ol><li>The state, in Marx, serves the economic interests of the ruling class.</li><li>Class consciousness is the shift from \"in itself\" to \"for itself\".</li><li>Revolution is followed by a transitional state that is meant to wither away.</li><li>Practice: communist states grew stronger and created new elites.</li><li>Critics ask whether any state can wither, and whether class is the key axis.</li></ol><h4>Debate questions</h4><ol><li>Can democracy alone transform capitalism, as Marx's Amsterdam speech allowed?</li><li>Is caste, gender or ethnicity a rival to class as the key line of conflict?</li></ol>",
+   "cls": "exam"
+  }
+ ],
+ "quiz": [
+  {
+   "q": "Who described the executive as \"a committee for managing the common affairs of the bourgeoisie\"?",
+   "o": [
+    "Marx and Engels in the Manifesto",
+    "Lenin",
+    "Stalin",
+    "Weber"
+   ],
+   "a": 0,
+   "w": "1848."
+  },
+  {
+   "q": "The Eighteenth Brumaire concerns",
+   "o": [
+    "Louis Napoleon's coup of 1851",
+    "The Paris Commune",
+    "The Russian Revolution",
+    "The Chartists"
+   ],
+   "a": 0,
+   "w": "Written 1852."
+  },
+  {
+   "q": "A class \"for itself\" is one that is",
+   "o": [
+    "Rich",
+    "Peasant",
+    "Aware and organised",
+    "Without property"
+   ],
+   "a": 2,
+   "w": "In the Poverty of Philosophy."
+  },
+  {
+   "q": "Who wrote that the state \"withers away\"?",
+   "o": [
+    "Bakunin",
+    "Proudhon",
+    "Trotsky",
+    "Engels in Anti-Dühring (1878)"
+   ],
+   "a": 3,
+   "w": "Anti-Dühring."
+  },
+  {
+   "q": "The slogan \"from each according to ability, to each according to needs\" appears in",
+   "o": [
+    "Communist Manifesto",
+    "Critique of the Gotha Programme (1875)",
+    "Capital Vol 1",
+    "Theses on Feuerbach"
+   ],
+   "a": 1,
+   "w": "Marx, 1875."
+  },
+  {
+   "q": "Djilas's \"new class\" (1957) describes",
+   "o": [
+    "Peasants",
+    "Communist Party officials",
+    "Merchants",
+    "Intellectuals in exile"
+   ],
+   "a": 1,
+   "w": "Written in Yugoslavia."
+  },
+  {
+   "q": "Anarchists argued a workers' state would",
+   "o": [
+    "Wither at once",
+    "Protect liberty",
+    "Abolish money",
+    "Become a new ruling class"
+   ],
+   "a": 3,
+   "w": "Bakunin's warning."
+  },
+  {
+   "q": "Ambedkar argued that in India",
+   "o": [
+    "Class alone matters",
+    "Religion is irrelevant",
+    "Caste must be confronted alongside, or before, class",
+    "Land is irrelevant"
+   ],
+   "a": 2,
+   "w": "Annihilation of Caste (1936)."
+  },
+  {
+   "q": "The first elected communist government in India was in",
+   "o": [
+    "West Bengal, 1967",
+    "Tripura, 1978",
+    "Punjab, 1952",
+    "Kerala, 1957"
+   ],
+   "a": 3,
+   "w": "E.M.S. Namboodiripad."
+  },
+  {
+   "q": "Marx's 1872 Amsterdam speech allowed that in some countries workers might",
+   "o": [
+    "Win power by peaceful means",
+    "Never organise",
+    "Avoid class conflict",
+    "Need foreign invasion"
+   ],
+   "a": 0,
+   "w": "Britain, the US, maybe the Netherlands."
+  }
+ ],
+ "sources": [
+  "Marx and Engels Manifesto 1848",
+  "Marx Eighteenth Brumaire 1852",
+  "Engels Anti-Dühring 1878",
+  "Marx Gotha 1875"
+ ],
+ "verified": "2026-11-11"
+}

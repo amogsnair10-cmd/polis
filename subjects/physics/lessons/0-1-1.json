@@ -1,0 +1,175 @@
+{
+ "id": "0-1-1",
+ "title": "Oscillations and Simple Harmonic Motion",
+ "emoji": "🎸",
+ "cards": [
+  {
+   "tag": "Why this matters",
+   "h": "Everything that swings, hums or ticks",
+   "b": "<p>A child on a swing, a plucked guitar string, a clock pendulum, atoms in a crystal, a bridge in the wind. Countless systems wobble back and forth around a resting position.</p><p>The simplest, and the most important, kind of wobble is <b>simple harmonic motion</b> (SHM). Once you understand it, you understand the heart of sound, light, radio, quantum physics and clocks.</p>"
+  },
+  {
+   "tag": "Concept",
+   "h": "The restoring force",
+   "b": "<p>SHM happens when a force pulls an object back toward the centre, and the pull grows in proportion to how far it has been pushed away. Hooke's law for a spring:</p><div class=\"box\"><h4>Hooke's law</h4>F = - k x</div><p>x is the displacement; k is the stiffness (N/m); the minus sign says the force opposes the displacement. Stretch right, it pulls left. Pass the centre, it pulls the other way. The result is endless oscillation."
+  },
+  {
+   "tag": "Concept",
+   "h": "Amplitude, period and frequency",
+   "b": "<p><b>Amplitude</b> (A) is the largest distance from the centre. <b>Period</b> (T) is the time for one full cycle. <b>Frequency</b> (f) is cycles per second, in hertz (Hz).</p><div class=\"box\"><h4>Link</h4>f = 1 / T</div><p>If one swing takes 2 s, the frequency is 0.5 Hz. Plotted against time, the position makes a smooth wave called a sine curve.</p><svg class=\"d\" viewBox=\"0 0 320 150\"><defs><marker id=\"h1\" markerWidth=\"8\" markerHeight=\"8\" refX=\"7\" refY=\"4\" orient=\"auto\"><path d=\"M0,0 L8,4 L0,8z\" fill=\"#5d6474\"/></marker></defs><line x1=\"20\" y1=\"75\" x2=\"300\" y2=\"75\" stroke=\"#5d6474\" stroke-width=\"1.5\" marker-end=\"url(#h1)\"/><line x1=\"20\" y1=\"10\" x2=\"20\" y2=\"140\" stroke=\"#5d6474\" stroke-width=\"1.5\"/><path d=\"M20,75 Q55,5 90,75 T160,75 T230,75 T300,75\" fill=\"none\" stroke=\"#a8792a\" stroke-width=\"3\"/><line x1=\"55\" y1=\"22\" x2=\"55\" y2=\"75\" stroke=\"#a3362a\" stroke-width=\"1.5\" stroke-dasharray=\"3 3\"/><text x=\"60\" y=\"40\" font-size=\"11\" fill=\"#a3362a\">amplitude A</text><line x1=\"20\" y1=\"132\" x2=\"160\" y2=\"132\" stroke=\"#2f6f7a\" stroke-width=\"2\"/><text x=\"60\" y=\"146\" font-size=\"11\" fill=\"#2f6f7a\">one period T</text><text x=\"262\" y=\"68\" font-size=\"10\" fill=\"#1d2433\">time</text></svg>"
+  },
+  {
+   "tag": "Concept",
+   "h": "Spring and pendulum formulas",
+   "b": "<div class=\"box\"><h4>Period formulas</h4>Mass on a spring: T = 2 pi x square root of (m / k)<br>Simple pendulum: T = 2 pi x square root of (L / g)</div><p>A heavier mass on a spring swings more slowly; a stiffer spring swings faster. For the pendulum, only the length and g matter. The mass of the bob does not enter, and (for small swings) neither does the amplitude.</p><p>Galileo noticed this around 1583 watching a swinging lamp, and Huygens used it to build the first accurate pendulum clock in 1656."
+  },
+  {
+   "tag": "Concept",
+   "h": "Energy sloshes back and forth",
+   "b": "<p>At the ends of the swing the object stops for an instant: all its energy is potential (stored). At the centre it moves fastest: all energy is kinetic. In between the energy is shared.</p><p>The total, (1/2) k A squared, stays constant if there is no friction. In real life, damping slowly drains the energy as heat, and oscillations die away unless you keep pushing, as a parent does to a swing."
+  },
+  {
+   "tag": "Concept",
+   "h": "Resonance: pushing at the right rhythm",
+   "b": "<p>Every oscillator has a natural frequency. If you drive it at that frequency, even gentle pushes add up and the amplitude grows enormously. This is <b>resonance</b>.</p><p>It is how a child gets higher on a swing, how a radio tunes to a station, and how a singer can shatter a glass. It can also destroy: the Tacoma Narrows Bridge in the USA twisted apart in wind in 1940. Soldiers break step on bridges for the same reason."
+  },
+  {
+   "tag": "Worked example",
+   "h": "A pendulum and a spring",
+   "b": "<p>Pendulum of length 1 m: T = 2 pi x square root of (1/9.8) = 6.28 x 0.32 = <b>2.0 s</b>. A 'seconds pendulum' takes one second per swing, so its full period is 2 s, with length close to one metre.</p><p>Spring with m = 0.5 kg and k = 200 N/m: T = 6.28 x square root of (0.5/200) = 6.28 x 0.05 = <b>0.31 s</b>, so f is about 3.2 Hz.</p><p>On the Moon (g about 1.6) the same pendulum would take 2 pi x square root of (1/1.6) = 4.9 s: slower."
+  },
+  {
+   "tag": "Misconceptions",
+   "h": "Where people slip",
+   "b": "<ul><li><b>'A heavier pendulum swings slower.'</b> Not so; mass cancels out for a pendulum.</li><li><b>'Acceleration is zero at the ends.'</b> It is largest at the ends, where the restoring force is biggest. It is zero at the centre.</li><li><b>'Bigger swing, longer period.'</b> For small swings, the period does not depend on amplitude.</li></ul>"
+  },
+  {
+   "tag": "Indian angle",
+   "h": "Raman and the tabla",
+   "b": "<p>C. V. Raman studied the vibrations of Indian drums and strings. In the 1920s he showed that the tabla and mridangam produce nearly harmonic overtones, because of the loaded circle of paste on the drum skin. That is why these instruments sound so tuneful, unlike most drums.</p><p>The sitar, tanpura and veena also rely on string vibration and resonance of their hollow gourds. Raman received the Nobel Prize in Physics in 1930 for a different discovery, on light scattering.</p>"
+  },
+  {
+   "tag": "Recap",
+   "h": "Key takeaways",
+   "b": "<ul><li>SHM arises when the restoring force is proportional to displacement: F = -kx.</li><li>Period T = 2 pi x square root of (m/k) for a spring; T = 2 pi x square root of (L/g) for a pendulum.</li><li>Frequency f = 1/T, measured in hertz.</li><li>Energy swaps between kinetic and potential; resonance builds large oscillations.</li></ul><div class=\"box\"><h4>Think about it</h4>1. Why would a grandfather clock run slow at the top of a high mountain?<br>2. Why do marching soldiers break step crossing a bridge?</div>",
+   "cls": "exam"
+  }
+ ],
+ "quiz": [
+  {
+   "q": "Simple harmonic motion needs a restoring force that is",
+   "o": [
+    "Constant",
+    "Proportional to displacement",
+    "Zero at the ends",
+    "Proportional to speed"
+   ],
+   "a": 1,
+   "w": "F = -kx."
+  },
+  {
+   "q": "A swing takes 4 s for one cycle. Its frequency is",
+   "o": [
+    "4 Hz",
+    "0.25 Hz",
+    "2 Hz",
+    "8 Hz"
+   ],
+   "a": 1,
+   "w": "f = 1/T."
+  },
+  {
+   "q": "The period of a simple pendulum depends on",
+   "o": [
+    "Mass and length",
+    "Length and g",
+    "Mass only",
+    "Amplitude only"
+   ],
+   "a": 1,
+   "w": "T = 2 pi root (L/g)."
+  },
+  {
+   "q": "Doubling the mass on a spring makes the period",
+   "o": [
+    "Half",
+    "Same",
+    "Longer by a factor root 2",
+    "Four times"
+   ],
+   "a": 2,
+   "w": "T is proportional to root of m."
+  },
+  {
+   "q": "At the centre of SHM, an oscillator has",
+   "o": [
+    "Maximum PE",
+    "Maximum speed",
+    "Maximum acceleration",
+    "Zero energy"
+   ],
+   "a": 1,
+   "w": "All energy is kinetic there."
+  },
+  {
+   "q": "Acceleration in SHM is greatest",
+   "o": [
+    "At the centre",
+    "At the ends",
+    "At mid-points",
+    "Never"
+   ],
+   "a": 1,
+   "w": "Restoring force is largest at the ends."
+  },
+  {
+   "q": "A spring has k = 100 N/m and is stretched 0.2 m. Force?",
+   "o": [
+    "2 N",
+    "20 N",
+    "500 N",
+    "0.002 N"
+   ],
+   "a": 1,
+   "w": "kx = 20."
+  },
+  {
+   "q": "Resonance occurs when driving frequency",
+   "o": [
+    "Is zero",
+    "Equals the natural frequency",
+    "Is very high",
+    "Is half the amplitude"
+   ],
+   "a": 1,
+   "w": "Matching frequencies build large amplitude."
+  },
+  {
+   "q": "Who built the first accurate pendulum clock (1656)?",
+   "o": [
+    "Newton",
+    "Huygens",
+    "Galileo",
+    "Kepler"
+   ],
+   "a": 1,
+   "w": "Christiaan Huygens."
+  },
+  {
+   "q": "If the length of a pendulum is made four times, its period",
+   "o": [
+    "Doubles",
+    "Quadruples",
+    "Halves",
+    "Stays same"
+   ],
+   "a": 0,
+   "w": "T is proportional to root L."
+  }
+ ],
+ "sources": [
+  "NCERT Physics Class 11-12",
+  "Halliday, Resnick and Walker, Fundamentals of Physics"
+ ],
+ "verified": "2026-11-11"
+}

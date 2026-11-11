@@ -1,0 +1,175 @@
+{
+ "id": "2-0-5",
+ "title": "AC, Transformers and the Power Grid",
+ "emoji": "🏭",
+ "cards": [
+  {
+   "tag": "Why this matters",
+   "h": "How power travels hundreds of kilometres",
+   "b": "<p>A power station in Chhattisgarh lights a bulb in Chennai. The electricity must travel hundreds of kilometres without losing most of its energy on the way. The trick, invented in the 1880s, is to use <b>alternating current</b> and <b>transformers</b>.</p><p>Behind every wall socket is a continent-scale machine, the grid, tuned to run in perfect rhythm.</p>"
+  },
+  {
+   "tag": "Concept",
+   "h": "DC and AC",
+   "b": "<p><b>Direct current (DC)</b> flows one way, as from a battery. <b>Alternating current (AC)</b> reverses direction many times a second, tracing a sine wave. In India the mains alternates at <b>50 Hz</b>: 50 complete cycles every second. In the USA it is 60 Hz.</p><p>AC comes naturally from a generator, a coil turning in a magnetic field. Its great advantage is that a transformer can change AC voltage up or down cheaply. DC cannot do this easily."
+  },
+  {
+   "tag": "Concept",
+   "h": "RMS: the 'effective' voltage",
+   "b": "<p>AC voltage keeps changing, so what does '230 V' mean? It is the <b>root mean square</b> (rms) value, the steady DC voltage that would heat a resistor equally.</p><div class=\"box\"><h4>Peak and rms</h4>V(rms) = V(peak) / square root of 2 = 0.707 x V(peak)</div><p>So 230 V rms mains actually swings up to about 325 V at its peak, then down to -325 V and back, 50 times a second. Appliances are rated by rms values."
+  },
+  {
+   "tag": "Concept",
+   "h": "The transformer",
+   "b": "<p>A transformer has two coils wound on an iron core. AC in the first (primary) coil makes a changing magnetic flux in the core, which induces an AC voltage in the second (secondary) coil. This is Faraday's law at work.</p><div class=\"box\"><h4>Transformer rule</h4>V2 / V1 = N2 / N1 (ratio of turns)<br>power in is about power out</div><p>More turns on the secondary gives a higher voltage and lower current (step-up); fewer turns gives the opposite (step-down). A good transformer is over 98 percent efficient. It works only with AC, since DC gives no changing flux."
+  },
+  {
+   "tag": "Concept",
+   "h": "Why the grid uses high voltage",
+   "b": "<p>Power in a wire is P = V I, and heat lost in the wire is I squared times R. For the same power, raising the voltage ten times cuts the current ten times and the heat loss a hundred times.</p><p>So power stations step voltage <b>up</b> to hundreds of thousands of volts for long-distance lines, and substations step it <b>down</b> before it reaches your street, then again to 230 V.</p><svg class=\"d\" viewBox=\"0 0 320 130\"><defs><marker id=\"o1\" markerWidth=\"8\" markerHeight=\"8\" refX=\"7\" refY=\"4\" orient=\"auto\"><path d=\"M0,0 L8,4 L0,8z\" fill=\"#5d6474\"/></marker></defs><rect x=\"5\" y=\"40\" width=\"50\" height=\"40\" fill=\"#f1e4c6\" stroke=\"#a8792a\" stroke-width=\"2\"/><text x=\"10\" y=\"64\" font-size=\"10\" fill=\"#1d2433\">Power stn</text><line x1=\"55\" y1=\"60\" x2=\"75\" y2=\"60\" stroke=\"#5d6474\" stroke-width=\"2\" marker-end=\"url(#o1)\"/><rect x=\"75\" y=\"35\" width=\"50\" height=\"50\" fill=\"#dceaec\" stroke=\"#2f6f7a\" stroke-width=\"2\"/><text x=\"82\" y=\"57\" font-size=\"10\" fill=\"#1d2433\">Step up</text><text x=\"82\" y=\"70\" font-size=\"9\" fill=\"#1d2433\">to 400 kV</text><line x1=\"125\" y1=\"60\" x2=\"195\" y2=\"60\" stroke=\"#5d6474\" stroke-width=\"2\" marker-end=\"url(#o1)\"/><text x=\"132\" y=\"52\" font-size=\"10\" fill=\"#a3362a\">High V, low I</text><rect x=\"195\" y=\"35\" width=\"50\" height=\"50\" fill=\"#dceaec\" stroke=\"#2f6f7a\" stroke-width=\"2\"/><text x=\"200\" y=\"57\" font-size=\"10\" fill=\"#1d2433\">Step down</text><text x=\"203\" y=\"70\" font-size=\"9\" fill=\"#1d2433\">to 230 V</text><line x1=\"245\" y1=\"60\" x2=\"270\" y2=\"60\" stroke=\"#5d6474\" stroke-width=\"2\" marker-end=\"url(#o1)\"/><rect x=\"270\" y=\"40\" width=\"45\" height=\"40\" fill=\"#f1e4c6\" stroke=\"#a8792a\" stroke-width=\"2\"/><text x=\"278\" y=\"64\" font-size=\"10\" fill=\"#1d2433\">Home</text><text x=\"40\" y=\"115\" font-size=\"11\" fill=\"#1d2433\">Lower current means much less heat lost in wires</text></svg>"
+  },
+  {
+   "tag": "Concept",
+   "h": "The war of the currents and the grid",
+   "b": "<p>In the 1880s Thomas Edison backed DC; George Westinghouse and Nikola Tesla backed AC. The 'war of the currents' was won by AC because of transformers: only AC could be sent efficiently over long distances.</p><p>A modern grid links many generators, all spinning in step at exactly 50 Hz in India. If demand rises, the frequency dips; operators must instantly add supply. Keeping this balance is one of the great engineering feats of the age."
+  },
+  {
+   "tag": "Worked example",
+   "h": "Losses on a 100 kW line",
+   "b": "<p>Send 100 kW through a line of 1 ohm total resistance.</p><p>At 230 V: current = 100,000 / 230 = 435 A. Loss = I squared R = 435 squared x 1 = about <b>189,000 W</b>, more than the power sent. Impossible.</p><p>At 23,000 V: current = 4.35 A. Loss = 4.35 squared x 1 = <b>19 W</b>. A loss ten thousand times smaller.</p><p>Step-down by a transformer with 10,000 turns on the primary to 100 turns: voltage ratio 100, so 23,000 V becomes 230 V."
+  },
+  {
+   "tag": "Misconceptions",
+   "h": "AC and grid errors",
+   "b": "<ul><li><b>'230 V means the voltage is always 230.'</b> It is an rms value; the instantaneous voltage swings to about 325 V.</li><li><b>'Transformers make power.'</b> They change voltage and current but not total power (apart from small losses).</li><li><b>'A transformer works on a battery.'</b> Only a changing current gives a changing flux; steady DC gives no output.</li></ul>"
+  },
+  {
+   "tag": "Indian angle",
+   "h": "One Nation, One Grid",
+   "b": "<p>India completed its integrated national grid on 31 December 2013, when the Southern Grid was synchronised with the rest. Since then power can flow from surplus regions to deficit ones at one frequency, 50 Hz. India's main transmission lines include 400 kV, 765 kV and high-voltage DC links.</p><p>The Indian grid is now one of the largest synchronised grids in the world, and an increasingly important home to solar and wind power, which makes keeping the frequency steady harder."
+  },
+  {
+   "tag": "Recap",
+   "h": "Key takeaways",
+   "b": "<ul><li>AC alternates; Indian mains is 230 V rms, 50 Hz; peak is about 325 V.</li><li>Transformers use Faraday's law: V2/V1 = N2/N1; they only work on AC.</li><li>High-voltage transmission slashes I squared R heat loss.</li><li>The grid is a synchronised machine, held at one frequency.</li></ul><div class=\"box\"><h4>Think about it</h4>1. If a transformer steps voltage up 10 times, what happens to the current?<br>2. Why do phone chargers get slightly warm?</div>",
+   "cls": "exam"
+  }
+ ],
+ "quiz": [
+  {
+   "q": "Mains frequency in India is",
+   "o": [
+    "25 Hz",
+    "50 Hz",
+    "60 Hz",
+    "100 Hz"
+   ],
+   "a": 1,
+   "w": "50 Hz."
+  },
+  {
+   "q": "For a sine wave, rms voltage equals peak divided by",
+   "o": [
+    "2",
+    "square root of 2",
+    "Pi",
+    "4"
+   ],
+   "a": 1,
+   "w": "V(rms) = V(peak)/root 2."
+  },
+  {
+   "q": "A transformer with 100 primary and 500 secondary turns, primary 20 V gives",
+   "o": [
+    "4 V",
+    "100 V",
+    "10 V",
+    "500 V"
+   ],
+   "a": 1,
+   "w": "20 x 5."
+  },
+  {
+   "q": "A transformer works only with",
+   "o": [
+    "DC",
+    "AC",
+    "Both",
+    "Neither"
+   ],
+   "a": 1,
+   "w": "Needs changing flux."
+  },
+  {
+   "q": "Power is transmitted at high voltage to",
+   "o": [
+    "Reduce current and heat loss",
+    "Increase the current",
+    "Save copper only for fun",
+    "Raise frequency"
+   ],
+   "a": 0,
+   "w": "Heat loss is I squared R."
+  },
+  {
+   "q": "If voltage is stepped up 20 times, the current (ideal) becomes",
+   "o": [
+    "20 times",
+    "Same",
+    "1/20",
+    "400 times"
+   ],
+   "a": 2,
+   "w": "Power is constant."
+  },
+  {
+   "q": "Who backed AC in the 'war of the currents'?",
+   "o": [
+    "Edison",
+    "Westinghouse and Tesla",
+    "Ohm",
+    "Volta"
+   ],
+   "a": 1,
+   "w": "AC won thanks to transformers."
+  },
+  {
+   "q": "A 230 V rms supply has a peak of about",
+   "o": [
+    "230 V",
+    "325 V",
+    "460 V",
+    "163 V"
+   ],
+   "a": 1,
+   "w": "230 x 1.414."
+  },
+  {
+   "q": "India's national grid was fully synchronised in",
+   "o": [
+    "1947",
+    "1991",
+    "2013",
+    "2024"
+   ],
+   "a": 2,
+   "w": "Southern Grid joined on 31 December 2013."
+  },
+  {
+   "q": "Heat lost in a wire of resistance R carrying current I is",
+   "o": [
+    "I R",
+    "I squared R",
+    "I / R",
+    "V / R"
+   ],
+   "a": 1,
+   "w": "Joule heating."
+  }
+ ],
+ "sources": [
+  "NCERT Physics Class 11-12",
+  "Halliday, Resnick and Walker, Fundamentals of Physics"
+ ],
+ "verified": "2026-11-11"
+}

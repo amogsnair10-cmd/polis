@@ -1,0 +1,177 @@
+{
+ "id": "0-0-2",
+ "title": "Newton's Laws of Motion",
+ "emoji": "🍎",
+ "cards": [
+  {
+   "tag": "Why this matters",
+   "h": "Why does anything move at all?",
+   "b": "<p>For about 2000 years people believed, following Aristotle, that a moving object needs a continuing push. It seems obvious: stop pushing a cart and it stops.</p><p>Galileo and then Isaac Newton overturned this. In his <i>Principia</i> (1687), Newton set out three laws that explain the motion of falling apples, rolling carts, planets and rockets. They remain the working rules of engineering today."
+  },
+  {
+   "tag": "Concept",
+   "h": "First law: things keep doing what they are doing",
+   "b": "<p>An object at rest stays at rest, and an object in motion keeps moving in a straight line at steady speed, <b>unless a net force acts on it</b>. This tendency is called <b>inertia</b>.</p><p>The cart stops not because motion needs a push, but because friction pushes back. On ice, with little friction, a puck slides far. In space, with none, it would slide forever.</p><p>Inertia explains why you lurch forward when a bus brakes: your body wants to keep moving."
+  },
+  {
+   "tag": "Concept",
+   "h": "Second law: force makes acceleration",
+   "b": "<div class=\"box\"><h4>Newton's second law</h4>F = m a</div><p>Net force F (in newtons) equals mass m (kg) times acceleration a (m/s squared). One newton is the force that gives a 1 kg mass an acceleration of 1 m/s squared.</p><p>Two lessons. First, the same push gives a light object more acceleration than a heavy one. Second, <b>net</b> matters: if you push a wall and it does not move, other forces (the wall's push back) balance yours, so the net force is zero.</p>"
+  },
+  {
+   "tag": "Concept",
+   "h": "Third law: forces come in pairs",
+   "b": "<p>When body A pushes on body B, B pushes back on A with an equal and opposite force.</p><p>Swimming: you push water backward, water pushes you forward. A rocket throws hot gas down; the gas pushes the rocket up. It needs no air to push against, which is why rockets work in space.</p><p>The key point: the two forces act on <b>different</b> bodies, so they never cancel each other when you work out the motion of one body.</p>"
+  },
+  {
+   "tag": "Concept",
+   "h": "Free-body diagrams and friction",
+   "b": "<p>To solve any problem, draw one object and every force on it. This is a <b>free-body diagram</b>.</p><p>Friction opposes sliding. A good model: f = mu x N, where N is the normal force (the table's push) and mu is the friction coefficient. Rubber on dry road might have mu near 0.8; ice, near 0.05.</p><svg class=\"d\" viewBox=\"0 0 320 150\"><defs><marker id=\"c1\" markerWidth=\"8\" markerHeight=\"8\" refX=\"7\" refY=\"4\" orient=\"auto\"><path d=\"M0,0 L8,4 L0,8z\" fill=\"#1d2433\"/></marker><marker id=\"c2\" markerWidth=\"8\" markerHeight=\"8\" refX=\"7\" refY=\"4\" orient=\"auto\"><path d=\"M0,0 L8,4 L0,8z\" fill=\"#a3362a\"/></marker></defs><rect x=\"20\" y=\"100\" width=\"280\" height=\"14\" fill=\"#dceaec\" stroke=\"#2f6f7a\"/><rect x=\"120\" y=\"55\" width=\"80\" height=\"45\" fill=\"#f1e4c6\" stroke=\"#a8792a\" stroke-width=\"2\"/><text x=\"140\" y=\"82\" font-size=\"12\" fill=\"#1d2433\">10 kg</text><line x1=\"160\" y1=\"55\" x2=\"160\" y2=\"15\" stroke=\"#1d2433\" stroke-width=\"2\" marker-end=\"url(#c1)\"/><text x=\"168\" y=\"24\" font-size=\"11\" fill=\"#1d2433\">Normal N</text><line x1=\"160\" y1=\"100\" x2=\"160\" y2=\"140\" stroke=\"#1d2433\" stroke-width=\"2\" marker-end=\"url(#c1)\"/><text x=\"168\" y=\"138\" font-size=\"11\" fill=\"#1d2433\">Weight mg</text><line x1=\"200\" y1=\"78\" x2=\"285\" y2=\"78\" stroke=\"#a3362a\" stroke-width=\"2.5\" marker-end=\"url(#c2)\"/><text x=\"215\" y=\"70\" font-size=\"11\" fill=\"#a3362a\">Push 50 N</text><line x1=\"120\" y1=\"90\" x2=\"50\" y2=\"90\" stroke=\"#5d6474\" stroke-width=\"2.5\" marker-end=\"url(#c1)\"/><text x=\"30\" y=\"82\" font-size=\"11\" fill=\"#5d6474\">Friction 20 N</text></svg>"
+  },
+  {
+   "tag": "Concept",
+   "h": "Weight, mass and the normal force",
+   "b": "<p>Mass (kg) is how much matter a body has. <b>Weight</b> is the gravitational force on it: W = m g. A 10 kg box weighs 10 x 9.8 = 98 N on Earth.</p><p>When a box sits on a table, the table pushes up with a <b>normal force</b> N (normal means at right angles to the surface). Here N equals the weight, so the net vertical force is zero and the box does not accelerate.</p><p>In a lift accelerating upward, N becomes bigger than your weight, and you feel heavier. That 'feeling of weight' is really the normal force."
+  },
+  {
+   "tag": "Worked example",
+   "h": "Pushing a 10 kg box",
+   "b": "<p>You push with 50 N. Friction is 20 N backwards. Vertical forces (weight and normal) cancel.</p><p>Net force = 50 - 20 = 30 N.</p><p>F = m a gives a = 30/10 = <b>3 m/s squared</b>.</p><p>After 4 s from rest its speed is 12 m/s, and it has covered (1/2) x 3 x 16 = 24 m. Weight of the box: 10 x 9.8 = 98 N, so N = 98 N, and with mu = 20/98 about 0.2 for that friction."
+  },
+  {
+   "tag": "Misconceptions",
+   "h": "Three classic errors",
+   "b": "<ul><li><b>'Motion needs a force.'</b> No. Changing motion needs a force. Steady motion needs none.</li><li><b>'Action and reaction cancel, so nothing can move.'</b> They act on different bodies, so each body can still accelerate.</li><li><b>'Heavy objects have more inertia only on Earth.'</b> Inertia is mass; it is the same in space. An astronaut is just as hard to push around on the Space Station.</li></ul>"
+  },
+  {
+   "tag": "Indian angle",
+   "h": "From Sriharikota to the Moon's south pole",
+   "b": "<p>Every ISRO launch, from the PSLV to the LVM3 rocket that carried Chandrayaan-3, is Newton's third law at work: hot gas goes down, the rocket goes up.</p><p>Chandrayaan-3's lander Vikram touched down near the Moon's south pole on 23 August 2023, making India the fourth country to soft-land on the Moon. Every burn that slowed it was a calculation of F = ma, with thrust and mass changing as fuel was used."
+  },
+  {
+   "tag": "Recap",
+   "h": "Key takeaways",
+   "b": "<ul><li>Objects keep their velocity unless a net force acts (inertia).</li><li>F = ma: net force gives acceleration, in newtons for kg and m/s squared.</li><li>Forces come in equal, opposite pairs on different bodies.</li><li>Draw a free-body diagram and add forces as vectors.</li></ul><div class=\"box\"><h4>Think about it</h4>1. Why does a coin on a card fall into the glass when you flick the card away quickly?<br>2. A truck and a small car collide. Which feels the larger force, and which the larger acceleration?</div>",
+   "cls": "exam"
+  }
+ ],
+ "quiz": [
+  {
+   "q": "Newton's first law is also called the law of",
+   "o": [
+    "Gravity",
+    "Inertia",
+    "Action",
+    "Energy"
+   ],
+   "a": 1,
+   "w": "It describes the tendency to keep one's state of motion."
+  },
+  {
+   "q": "A 5 kg mass has a net force of 20 N. Its acceleration is",
+   "o": [
+    "100 m/s squared",
+    "0.25 m/s squared",
+    "4 m/s squared",
+    "15 m/s squared"
+   ],
+   "a": 2,
+   "w": "a = 20/5."
+  },
+  {
+   "q": "One newton is the force giving 1 kg an acceleration of",
+   "o": [
+    "1 m/s squared",
+    "9.8 m/s squared",
+    "10 m/s squared",
+    "1 m/s"
+   ],
+   "a": 0,
+   "w": "By definition F = ma."
+  },
+  {
+   "q": "A book rests on a table. The reaction to the book's weight is",
+   "o": [
+    "The table's normal force",
+    "The book's pull on Earth",
+    "Friction",
+    "Air pressure"
+   ],
+   "a": 1,
+   "w": "Third law pairs act on different bodies: Earth pulls book, book pulls Earth."
+  },
+  {
+   "q": "A rocket works in space because",
+   "o": [
+    "It pushes on the air",
+    "It pushes gas backwards and the gas pushes it forward",
+    "Gravity pulls it",
+    "The Sun pushes it"
+   ],
+   "a": 1,
+   "w": "Third law, no air needed."
+  },
+  {
+   "q": "A box is pushed by 30 N against 10 N friction; mass 4 kg. Acceleration?",
+   "o": [
+    "10 m/s squared",
+    "7.5 m/s squared",
+    "5 m/s squared",
+    "2.5 m/s squared"
+   ],
+   "a": 2,
+   "w": "Net 20 N / 4 kg = 5."
+  },
+  {
+   "q": "Which has more inertia?",
+   "o": [
+    "A 1 kg ball",
+    "A 10 kg ball",
+    "They are equal",
+    "Neither, in space"
+   ],
+   "a": 1,
+   "w": "Inertia is measured by mass."
+  },
+  {
+   "q": "Friction force = mu x N. If N = 200 N and mu = 0.3, friction is",
+   "o": [
+    "600 N",
+    "60 N",
+    "66 N",
+    "0.0015 N"
+   ],
+   "a": 1,
+   "w": "0.3 x 200 = 60."
+  },
+  {
+   "q": "When a bus brakes suddenly, passengers lurch forward because of",
+   "o": [
+    "A forward force",
+    "Gravity",
+    "Inertia",
+    "The third law"
+   ],
+   "a": 2,
+   "w": "Their bodies tend to keep moving."
+  },
+  {
+   "q": "Net force on an object moving at steady 10 m/s in a straight line is",
+   "o": [
+    "10 N",
+    "Zero",
+    "Equal to its weight",
+    "Cannot say"
+   ],
+   "a": 1,
+   "w": "Steady velocity means zero net force."
+  }
+ ],
+ "sources": [
+  "NCERT Physics Class 11-12",
+  "Halliday, Resnick and Walker, Fundamentals of Physics",
+  "Newton, Principia Mathematica (1687)",
+  "ISRO Chandrayaan-3 mission page"
+ ],
+ "verified": "2026-11-11"
+}

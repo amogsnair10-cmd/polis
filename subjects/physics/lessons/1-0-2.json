@@ -1,0 +1,176 @@
+{
+ "id": "1-0-2",
+ "title": "Entropy and the Arrow of Time",
+ "emoji": "⏳",
+ "cards": [
+  {
+   "tag": "Why this matters",
+   "h": "Why a film run backwards looks wrong",
+   "b": "<p>Watch a film of an egg falling and splattering, then run it backwards: you laugh, because it cannot happen. Yet Newton's laws work equally well in both directions. A ball bouncing backwards in time obeys the same laws.</p><p>So what makes the past different from the future? The answer is <b>entropy</b>, and it is one of the deepest ideas in physics: the arrow of time comes from the way things spread out.</p>"
+  },
+  {
+   "tag": "Concept",
+   "h": "Entropy as spread-out-ness",
+   "b": "<p>The word <b>entropy</b> was coined by Rudolf Clausius in 1865. Loosely, entropy measures how spread out energy is, or how many ways the parts of a system can be arranged without changing how it looks overall.</p><p>A tidy deck of cards has few arrangements. A shuffled deck has an astronomical number. Shuffling raises entropy. Hot coffee cooling into a room spreads its energy over many more molecules: entropy rises."
+  },
+  {
+   "tag": "Concept",
+   "h": "Boltzmann's counting",
+   "b": "<p>Ludwig Boltzmann (1870s) gave the precise meaning:</p><div class=\"box\"><h4>Boltzmann's entropy</h4>S = k x ln(W)</div><p>W is the number of microscopic arrangements (microstates) that give the same large-scale look; k is Boltzmann's constant, 1.38 x 10 to the power -23 J/K; ln is the natural logarithm. This formula is engraved on his tombstone in Vienna.</p><p>More ways means higher entropy. Nature is not driven to disorder by a force; disorder simply has overwhelmingly more ways to happen."
+  },
+  {
+   "tag": "Concept",
+   "h": "The second law, restated",
+   "b": "<p><b>The entropy of an isolated system never decreases.</b> It rises in all real processes, and stays the same only in ideal, perfectly reversible ones.</p><p>For heat Q flowing at temperature T, the entropy change is Q / T. Heat leaving a hot body lowers its entropy a little; heat entering a cold body raises it more. The net is a gain, so heat flowing hot to cold is allowed and the reverse is not.</p><svg class=\"d\" viewBox=\"0 0 320 130\"><defs><marker id=\"l1\" markerWidth=\"8\" markerHeight=\"8\" refX=\"7\" refY=\"4\" orient=\"auto\"><path d=\"M0,0 L8,4 L0,8z\" fill=\"#a3362a\"/></marker></defs><rect x=\"15\" y=\"25\" width=\"120\" height=\"80\" fill=\"#f1e4c6\" stroke=\"#a8792a\" stroke-width=\"2\"/><g fill=\"#a8792a\"><circle cx=\"30\" cy=\"40\" r=\"4\"/><circle cx=\"40\" cy=\"55\" r=\"4\"/><circle cx=\"28\" cy=\"70\" r=\"4\"/><circle cx=\"45\" cy=\"45\" r=\"4\"/><circle cx=\"38\" cy=\"85\" r=\"4\"/><circle cx=\"52\" cy=\"65\" r=\"4\"/><circle cx=\"30\" cy=\"95\" r=\"4\"/><circle cx=\"55\" cy=\"90\" r=\"4\"/></g><text x=\"30\" y=\"20\" font-size=\"11\" fill=\"#1d2433\">Ordered: low entropy</text><line x1=\"145\" y1=\"65\" x2=\"175\" y2=\"65\" stroke=\"#a3362a\" stroke-width=\"2.5\" marker-end=\"url(#l1)\"/><rect x=\"185\" y=\"25\" width=\"120\" height=\"80\" fill=\"#dceaec\" stroke=\"#2f6f7a\" stroke-width=\"2\"/><g fill=\"#2f6f7a\"><circle cx=\"200\" cy=\"40\" r=\"4\"/><circle cx=\"240\" cy=\"55\" r=\"4\"/><circle cx=\"268\" cy=\"70\" r=\"4\"/><circle cx=\"215\" cy=\"45\" r=\"4\"/><circle cx=\"288\" cy=\"85\" r=\"4\"/><circle cx=\"252\" cy=\"95\" r=\"4\"/><circle cx=\"220\" cy=\"90\" r=\"4\"/><circle cx=\"275\" cy=\"38\" r=\"4\"/></g><text x=\"195\" y=\"20\" font-size=\"11\" fill=\"#1d2433\">Spread out: high entropy</text><text x=\"85\" y=\"124\" font-size=\"11\" fill=\"#5d6474\">Time's arrow points this way</text></svg>"
+  },
+  {
+   "tag": "Concept",
+   "h": "Why the arrow of time exists",
+   "b": "<p>Imagine 100 gas molecules in a box, all in the left half. Opening a partition, they spread out. The chance that they all return to the left by themselves is (1/2) to the power 100, about 8 x 10 to the power -31. For a real gas, with 10 to the power 23 molecules, the odds are beyond zero for any practical purpose.</p><p>So the past is the direction in which entropy was lower. The question of why the early universe had such low entropy remains an open problem."
+  },
+  {
+   "tag": "Concept",
+   "h": "Life, order and the cosmos",
+   "b": "<p>Living things are highly ordered, so do they break the law? No. A plant takes in low-entropy sunlight and gives off high-entropy heat. Earth's local order is paid for by a larger entropy increase elsewhere, mostly in the Sun's spreading light.</p><p>Looking far ahead, the universe may drift toward a state of maximum entropy, with all energy evenly spread, the so-called <b>heat death</b>. Physicists also link entropy to information: Claude Shannon's 1948 information theory uses a very similar formula."
+  },
+  {
+   "tag": "Worked example",
+   "h": "Heat flowing between bodies",
+   "b": "<p>1000 J of heat flows from a body at 400 K to one at 300 K.</p><p>Hot body loses entropy: -1000/400 = -2.5 J/K.</p><p>Cold body gains entropy: +1000/300 = +3.33 J/K.</p><p>Net change = <b>+0.83 J/K</b>, positive, so the process is allowed. Try the reverse (cold to hot): the net would be -0.83 J/K, negative, so it never happens on its own."
+  },
+  {
+   "tag": "Misconceptions",
+   "h": "Entropy myths",
+   "b": "<ul><li><b>'Entropy just means messiness.'</b> Useful as a picture, but the precise idea is counting microstates and the spread of energy.</li><li><b>'Life violates the second law.'</b> Only isolated systems must not lose entropy; living things are open systems.</li><li><b>'Entropy can never decrease anywhere.'</b> It can decrease locally (a freezer making ice) if more entropy is created elsewhere.</li></ul>"
+  },
+  {
+   "tag": "Indian angle",
+   "h": "Bose, Saha and counting states",
+   "b": "<p>Satyendra Nath Bose's 1924 paper from Dhaka showed how to count the microstates of light particles correctly; Einstein translated and promoted it. The result, <b>Bose-Einstein statistics</b>, led to the idea of the boson, named after him, and to the Bose-Einstein condensate, first made in a lab in 1995.</p><p>Meghnad Saha used thermodynamics and statistics in 1920 to explain how atoms ionise in hot stars. The Saha equation lets us read the temperature of distant stars from their light.</p>"
+  },
+  {
+   "tag": "Recap",
+   "h": "Key takeaways",
+   "b": "<ul><li>Entropy counts the ways a system can be arranged: S = k ln W.</li><li>The entropy of an isolated system never decreases.</li><li>This gives time its direction; it is statistics, not a force.</li><li>Local order, like life, is paid for by entropy increases elsewhere.</li></ul><div class=\"box\"><h4>Think about it</h4>1. Why does a stirred cup of milk and tea never un-mix?<br>2. A freezer lowers the entropy of water turning to ice. Where does the extra entropy go?</div>",
+   "cls": "exam"
+  }
+ ],
+ "quiz": [
+  {
+   "q": "Who coined the word entropy in 1865?",
+   "o": [
+    "Boltzmann",
+    "Clausius",
+    "Carnot",
+    "Kelvin"
+   ],
+   "a": 1,
+   "w": "Rudolf Clausius."
+  },
+  {
+   "q": "Boltzmann's formula for entropy is",
+   "o": [
+    "S = k ln W",
+    "S = mc squared",
+    "S = Q x T",
+    "S = PV"
+   ],
+   "a": 0,
+   "w": "S = k ln W."
+  },
+  {
+   "q": "The second law says the entropy of an isolated system",
+   "o": [
+    "Never decreases",
+    "Never increases",
+    "Is always zero",
+    "Always doubles"
+   ],
+   "a": 0,
+   "w": "It stays the same or rises."
+  },
+  {
+   "q": "Entropy change for 600 J of heat entering a body at 300 K is",
+   "o": [
+    "2 J/K",
+    "200 J/K",
+    "0.5 J/K",
+    "180,000 J/K"
+   ],
+   "a": 0,
+   "w": "600/300."
+  },
+  {
+   "q": "Which process has increasing entropy?",
+   "o": [
+    "Ice melting in warm room",
+    "Water spontaneously freezing in warm room",
+    "Shuffled cards returning to order",
+    "A gas gathering in a corner"
+   ],
+   "a": 0,
+   "w": "Energy spreads out."
+  },
+  {
+   "q": "100 molecules in a box: chance all are in the left half is",
+   "o": [
+    "1/2",
+    "1/100",
+    "(1/2) to the power 100",
+    "0"
+   ],
+   "a": 2,
+   "w": "Each is left with probability 1/2."
+  },
+  {
+   "q": "The 'arrow of time' is linked to",
+   "o": [
+    "Gravity",
+    "The increase of entropy",
+    "The speed of light",
+    "Magnetism"
+   ],
+   "a": 1,
+   "w": "Entropy gives time a direction."
+  },
+  {
+   "q": "A refrigerator makes ice. This is consistent with the second law because",
+   "o": [
+    "The law is wrong",
+    "Entropy increases elsewhere by more",
+    "Ice has no entropy",
+    "Fridges are isolated"
+   ],
+   "a": 1,
+   "w": "Total entropy rises."
+  },
+  {
+   "q": "Which Indian physicist's counting of photon states led to bosons?",
+   "o": [
+    "C. V. Raman",
+    "S. N. Bose",
+    "M. N. Saha",
+    "S. Chandrasekhar"
+   ],
+   "a": 1,
+   "w": "Bose, 1924."
+  },
+  {
+   "q": "Boltzmann's constant k has units of",
+   "o": [
+    "J/K",
+    "J",
+    "K",
+    "Pa"
+   ],
+   "a": 0,
+   "w": "Energy per kelvin."
+  }
+ ],
+ "sources": [
+  "NCERT Physics Class 11-12",
+  "Halliday, Resnick and Walker, Fundamentals of Physics",
+  "Boltzmann (1877); Clausius (1865); S. N. Bose (1924)"
+ ],
+ "verified": "2026-11-11"
+}

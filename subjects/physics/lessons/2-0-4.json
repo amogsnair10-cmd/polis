@@ -1,0 +1,176 @@
+{
+ "id": "2-0-4",
+ "title": "Maxwell's Equations and Light as a Wave",
+ "emoji": "📡",
+ "cards": [
+  {
+   "tag": "Why this matters",
+   "h": "The unification that predicted radio",
+   "b": "<p>In the 1860s James Clerk Maxwell wrote down a few equations that gathered all of electricity and magnetism into one theory. Out of the maths popped a surprise: waves of electric and magnetic fields, travelling at a speed equal to the known speed of light.</p><p>Maxwell concluded that light itself is an electromagnetic wave. This unlocked radio, television, mobile phones and Wi-Fi.</p>"
+  },
+  {
+   "tag": "Concept",
+   "h": "Four equations, four ideas",
+   "b": "<p>Maxwell's equations (1865, refining earlier work) say in words:</p><ol><li><b>Gauss's law:</b> electric charges are the source of electric field lines.</li><li><b>No monopoles:</b> magnetic field lines never begin or end; they loop.</li><li><b>Faraday's law:</b> a changing magnetic field makes an electric field.</li><li><b>Ampere-Maxwell law:</b> currents <i>and changing electric fields</i> make magnetic fields.</li></ol><p>The last fix, Maxwell's addition of the changing electric field term, was the key to waves."
+  },
+  {
+   "tag": "Concept",
+   "h": "Fields feed each other",
+   "b": "<p>Here is the idea. A changing magnetic field produces an electric field (Faraday). A changing electric field produces a magnetic field (Maxwell's addition). So a wiggling field can create a second wiggling field, which creates the first, and the pattern runs off through space by itself.</p><p>That is an <b>electromagnetic wave</b>: electric and magnetic fields oscillating at right angles to each other and to the direction of travel. It needs no medium. This is how sunlight crosses empty space."
+  },
+  {
+   "tag": "Concept",
+   "h": "The speed of light drops out",
+   "b": "<p>Maxwell's equations contain two constants measured in simple electric and magnetic experiments. Combine them and the wave speed is:</p><div class=\"box\"><h4>Wave speed</h4>c = 1 / square root of (mu0 x epsilon0) = 3.0 x 10 to the power 8 m/s</div><p>This matched the measured speed of light so closely that Maxwell concluded: light is an electromagnetic wave. In vacuum, it travels 300,000 km every second, and the Sun's light reaches us in about 8 minutes 20 seconds."
+  },
+  {
+   "tag": "Concept",
+   "h": "Hertz and the spectrum",
+   "b": "<p>In 1887 Heinrich Hertz generated and detected radio waves in his laboratory, confirming Maxwell. The unit of frequency, the hertz, honours him.</p><p>Light is only a thin slice of a huge family, the <b>electromagnetic spectrum</b>. From long to short wavelength: radio, microwaves, infrared, visible light, ultraviolet, X-rays, gamma rays. All obey c = f x wavelength; only the frequency differs.</p><svg class=\"d\" viewBox=\"0 0 320 130\"><defs><linearGradient id=\"sp\" x1=\"0\" x2=\"1\"><stop offset=\"0\" stop-color=\"#a3362a\"/><stop offset=\"0.3\" stop-color=\"#a8792a\"/><stop offset=\"0.5\" stop-color=\"#2f6f7a\"/><stop offset=\"0.8\" stop-color=\"#5d6474\"/><stop offset=\"1\" stop-color=\"#1d2433\"/></linearGradient></defs><rect x=\"10\" y=\"40\" width=\"300\" height=\"30\" fill=\"url(#sp)\"/><g font-size=\"9\" fill=\"#1d2433\"><text x=\"8\" y=\"30\">Radio</text><text x=\"55\" y=\"30\">Micro</text><text x=\"100\" y=\"30\">Infrared</text><text x=\"150\" y=\"30\">Visible</text><text x=\"195\" y=\"30\">UV</text><text x=\"233\" y=\"30\">X-ray</text><text x=\"272\" y=\"30\">Gamma</text></g><text x=\"10\" y=\"95\" font-size=\"10\" fill=\"#1d2433\">long wavelength, low energy</text><text x=\"185\" y=\"95\" font-size=\"10\" fill=\"#1d2433\">short wavelength, high energy</text><text x=\"30\" y=\"118\" font-size=\"11\" fill=\"#a3362a\">All travel at c = 300,000 km/s in vacuum</text></svg>"
+  },
+  {
+   "tag": "Concept",
+   "h": "What each band does",
+   "b": "<ul><li><b>Radio:</b> broadcasting, mobile networks.</li><li><b>Microwaves:</b> ovens (they shake water molecules), radar, satellite links.</li><li><b>Infrared:</b> heat, remote controls, night vision.</li><li><b>Visible:</b> what our eyes see, 400 to 700 nanometres.</li><li><b>Ultraviolet:</b> sunburn; sterilising.</li><li><b>X-rays:</b> pass through flesh; used in medicine.</li><li><b>Gamma rays:</b> from nuclei; the most energetic and penetrating.</li></ul>"
+  },
+  {
+   "tag": "Worked example",
+   "h": "Radio wavelength",
+   "b": "<p>An FM station broadcasts at 100 MHz (100 million hertz). Wavelength = c / f = 3 x 10 to the power 8 / 10 to the power 8 = <b>3 m</b>.</p><p>A mobile phone signal at 900 MHz: wavelength = 3 x 10 to the power 8 / 9 x 10 to the power 8 = 0.33 m.</p><p>Green light of wavelength 550 nm has frequency = 3 x 10 to the power 8 / 5.5 x 10 to the power -7 = 5.5 x 10 to the power 14 Hz, hundreds of trillions of oscillations per second."
+  },
+  {
+   "tag": "Misconceptions",
+   "h": "Wave myths",
+   "b": "<ul><li><b>'Radio waves and light are different things.'</b> Same kind of wave, just different frequency.</li><li><b>'Microwave ovens are radioactive.'</b> Microwaves are non-ionising radio-type waves; they heat food but do not make it radioactive.</li><li><b>'Light needs air to travel.'</b> Electromagnetic waves travel best in vacuum; sound is the one that needs a medium.</li></ul>"
+  },
+  {
+   "tag": "Indian angle",
+   "h": "J. C. Bose and the Giant Metrewave Radio Telescope",
+   "b": "<p>Jagadish Chandra Bose showed millimetre-wavelength radio waves in Calcutta in 1895 and built early solid-state detectors, years before Marconi's first practical radio transmission; he is often honoured as a pioneer of radio and microwave science.</p><p>Today India's Giant Metrewave Radio Telescope (GMRT) near Pune, with 30 dishes, each 45 m across, listens to radio waves from distant galaxies and pulsars. Its design rests on the very same Maxwell's equations."
+  },
+  {
+   "tag": "Recap",
+   "h": "Key takeaways",
+   "b": "<ul><li>Maxwell (1865) unified electricity, magnetism and light.</li><li>Changing electric and magnetic fields sustain each other as a travelling wave.</li><li>c = 3 x 10 to the power 8 m/s; c = f x wavelength.</li><li>The spectrum runs from radio to gamma rays; Hertz confirmed radio waves in 1887.</li></ul><div class=\"box\"><h4>Think about it</h4>1. Why can we see the Sun but not hear it?<br>2. Why can't your mobile phone get a signal in a lift?</div>",
+   "cls": "exam"
+  }
+ ],
+ "quiz": [
+  {
+   "q": "Who unified electricity, magnetism and light in equations?",
+   "o": [
+    "Faraday",
+    "Maxwell",
+    "Hertz",
+    "Ohm"
+   ],
+   "a": 1,
+   "w": "James Clerk Maxwell."
+  },
+  {
+   "q": "Who first demonstrated radio waves in the lab in 1887?",
+   "o": [
+    "Marconi",
+    "Bose",
+    "Hertz",
+    "Edison"
+   ],
+   "a": 2,
+   "w": "Heinrich Hertz."
+  },
+  {
+   "q": "In vacuum, electromagnetic waves travel at about",
+   "o": [
+    "3 x 10^8 m/s",
+    "340 m/s",
+    "3 x 10^5 m/s",
+    "3 x 10^10 m/s"
+   ],
+   "a": 0,
+   "w": "c."
+  },
+  {
+   "q": "Which has the shortest wavelength?",
+   "o": [
+    "Radio",
+    "Gamma rays",
+    "Visible light",
+    "Microwaves"
+   ],
+   "a": 1,
+   "w": "Gamma rays."
+  },
+  {
+   "q": "A wave of frequency 3 x 10^9 Hz has wavelength (c = 3 x 10^8)",
+   "o": [
+    "10 m",
+    "0.1 m",
+    "1 m",
+    "0.01 m"
+   ],
+   "a": 1,
+   "w": "c/f = 0.1."
+  },
+  {
+   "q": "Maxwell's key addition to Ampere's law was",
+   "o": [
+    "Moving charge",
+    "Changing electric field makes magnetic field",
+    "Gravity",
+    "Magnetic poles"
+   ],
+   "a": 1,
+   "w": "Displacement current."
+  },
+  {
+   "q": "Electromagnetic waves",
+   "o": [
+    "Need air",
+    "Need water",
+    "Need no medium",
+    "Are longitudinal"
+   ],
+   "a": 2,
+   "w": "They travel in vacuum."
+  },
+  {
+   "q": "The Sun's light takes about how long to reach Earth?",
+   "o": [
+    "8 seconds",
+    "8 minutes",
+    "8 hours",
+    "1 second"
+   ],
+   "a": 1,
+   "w": "About 8 min 20 s."
+  },
+  {
+   "q": "Which Indian scientist demonstrated millimetre waves in Calcutta in 1895?",
+   "o": [
+    "Raman",
+    "Bose",
+    "Saha",
+    "Bhabha"
+   ],
+   "a": 1,
+   "w": "Jagadish Chandra Bose."
+  },
+  {
+   "q": "Microwave ovens heat food mainly by",
+   "o": [
+    "Making it radioactive",
+    "Shaking water molecules",
+    "Burning it",
+    "Freezing it"
+   ],
+   "a": 1,
+   "w": "Water absorbs microwaves."
+  }
+ ],
+ "sources": [
+  "NCERT Physics Class 11-12",
+  "Halliday, Resnick and Walker, Fundamentals of Physics",
+  "Maxwell, A Dynamical Theory of the Electromagnetic Field (1865)"
+ ],
+ "verified": "2026-11-11"
+}

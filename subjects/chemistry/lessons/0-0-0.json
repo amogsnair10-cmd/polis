@@ -1,0 +1,174 @@
+{
+ "id": "0-0-0",
+ "title": "States of Matter and Mixtures",
+ "emoji": "🧊",
+ "cards": [
+  {
+   "tag": "Why this matters",
+   "h": "Everything you touch is matter",
+   "b": "<p>Air, water, steel, your phone screen, your own body. All of it is <b>matter</b>: anything that has mass and takes up space. Chemistry starts with one simple question: what is this stuff made of, and how does it behave?</p><p>In this lesson you will learn the states matter can be in, how mixtures differ from pure substances, and how we pull mixtures apart. These ideas explain why tea dissolves sugar, why salt is made from sea water, and why petrol is separated from crude oil.</p>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "Particles in constant motion",
+   "b": "<p>All matter is made of tiny particles (atoms and molecules). The <b>states of matter</b> differ in how these particles are arranged and how freely they move.</p><ul><li><b>Solid:</b> particles locked in place, only vibrating. Fixed shape and volume.</li><li><b>Liquid:</b> particles close but sliding past each other. Fixed volume, takes the shape of its container.</li><li><b>Gas:</b> particles far apart and zooming around. No fixed shape or volume.</li></ul><p>Think of a packed train compartment (solid), a busy railway platform (liquid) and an open ground full of running children (gas).</p>"
+  },
+  {
+   "tag": "Key idea",
+   "h": "Changing state: heat moves particles",
+   "b": "<p>Adding heat makes particles move faster. At the <b>melting point</b> a solid becomes liquid. At the <b>boiling point</b> a liquid becomes gas. Water melts at 0 °C and boils at 100 °C at normal pressure.</p><svg class=\"d\" viewBox=\"0 0 320 136\"><defs><marker id=\"m1\" markerWidth=\"8\" markerHeight=\"8\" refX=\"6\" refY=\"4\" orient=\"auto\"><path d=\"M0,0 L8,4 L0,8 z\" fill=\"#5d6474\"/></marker></defs><rect x=\"20\" y=\"4\" width=\"280\" height=\"30\" rx=\"6\" fill=\"#dceaec\" stroke=\"#2f6f7a\"/><text x=\"160\" y=\"23\" text-anchor=\"middle\" font-size=\"11\" fill=\"#1d2433\">Solid (ice) - particles locked</text><line x1=\"160\" y1=\"34\" x2=\"160\" y2=\"47\" stroke=\"#5d6474\" marker-end=\"url(#m1)\"/><rect x=\"20\" y=\"48\" width=\"280\" height=\"30\" rx=\"6\" fill=\"#dceaec\" stroke=\"#2f6f7a\"/><text x=\"160\" y=\"67\" text-anchor=\"middle\" font-size=\"11\" fill=\"#1d2433\">Liquid (water) - particles slide</text><line x1=\"160\" y1=\"78\" x2=\"160\" y2=\"91\" stroke=\"#5d6474\" marker-end=\"url(#m1)\"/><rect x=\"20\" y=\"92\" width=\"280\" height=\"30\" rx=\"6\" fill=\"#dceaec\" stroke=\"#2f6f7a\"/><text x=\"160\" y=\"111\" text-anchor=\"middle\" font-size=\"11\" fill=\"#1d2433\">Gas (steam) - particles free</text></svg><p>Other changes have names: <b>sublimation</b> (solid straight to gas, like camphor or dry ice) and <b>condensation</b> (gas to liquid). During melting or boiling the temperature stays flat, because the heat is used to loosen particles, not to speed them up.</p>"
+  },
+  {
+   "tag": "Key idea",
+   "h": "The fourth state: plasma",
+   "b": "<p>Heat a gas enough and atoms lose electrons. You get a soup of charged particles called <b>plasma</b>. It is the most common state in the universe: the Sun and all stars are plasma. On Earth you see it in lightning, neon signs and the glow of a tube light.</p><p>Temperature scales matter too. Scientists use kelvin: <b>K = °C + 273</b>. So 25 °C is 298 K. Zero kelvin (about -273 °C) is the coldest possible temperature.</p>"
+  },
+  {
+   "tag": "Key idea",
+   "h": "Pure substances and mixtures",
+   "b": "<p>A <b>pure substance</b> has fixed composition. It is either an <b>element</b> (one kind of atom, like iron) or a <b>compound</b> (different atoms bonded in a fixed ratio, like water, H2O).</p><p>A <b>mixture</b> is two or more substances jumbled together, not chemically bonded, in any proportion.</p><ul><li><b>Homogeneous:</b> looks uniform (salt water, air, brass). Also called a solution.</li><li><b>Heterogeneous:</b> you can see the parts (sand in water, salad, granite).</li></ul><p>Key test: a compound can only be split by a chemical reaction. A mixture can be split by physical means.</p>"
+  },
+  {
+   "tag": "Key idea",
+   "h": "How we separate mixtures",
+   "b": "<p>Each method uses a difference in physical property.</p><ul><li><b>Filtration:</b> solid from liquid (size).</li><li><b>Evaporation:</b> dissolved solid from liquid (boiling point).</li><li><b>Distillation:</b> liquids with different boiling points. Crude oil is split this way into petrol, diesel and kerosene.</li><li><b>Magnet:</b> iron filings from sand.</li><li><b>Chromatography:</b> ink spots travel at different speeds on paper.</li><li><b>Centrifuge:</b> cream from milk, or blood cells from plasma, by spinning.</li></ul>"
+  },
+  {
+   "tag": "Worked example",
+   "h": "Density and concentration",
+   "b": "<p><b>Density = mass / volume.</b> A metal block has mass 54 g and volume 20 cm3. Density = 54 / 20 = <b>2.7 g/cm3</b>. That matches aluminium, so the block is probably aluminium. Water is 1 g/cm3, so things below this float.</p><p><b>Mass percent = (mass of solute / mass of solution) x 100.</b> Dissolve 5 g salt in 95 g water. Solution mass = 100 g. Concentration = 5 / 100 x 100 = <b>5 percent</b>.</p>"
+  },
+  {
+   "tag": "Misconceptions",
+   "h": "Common mix-ups",
+   "b": "<ul><li><b>Water is not a mixture of hydrogen and oxygen.</b> It is a compound with new properties; you cannot separate it by filtering.</li><li><b>Steam is invisible.</b> The white cloud above a kettle is tiny liquid droplets, not gas.</li><li><b>Dissolving is not melting.</b> Sugar in tea is a mixture; the sugar is still sugar.</li><li><b>Air is not one gas.</b> It is a mixture: about 78 percent nitrogen, 21 percent oxygen, rest argon, CO2 and others.</li></ul>"
+  },
+  {
+   "tag": "Indian angle",
+   "h": "Salt from the sea",
+   "b": "<p>India is among the world's top salt producers. In Gujarat (Kutch, Mithapur) and Tamil Nadu, sea water or brine is let into shallow pans. Sun and wind evaporate the water and salt crystals remain. It is the oldest chemical separation, and it is just evaporation and crystallisation.</p><p>Sambhar Lake in Rajasthan, India's largest inland salt lake, is worked the same way. Salt, a compound of sodium and chlorine, is separated from a mixture using nothing but sunlight.</p>"
+  },
+  {
+   "tag": "Recap",
+   "h": "Key takeaways",
+   "b": "<ul><li>Solid, liquid, gas and plasma differ in particle freedom.</li><li>Pure substances are elements or compounds; mixtures can be split physically.</li><li>Separation methods exploit differences in size, boiling point, magnetism or speed.</li><li>Density = mass/volume; K = °C + 273.</li></ul><div class=\"box\"><h4>Think about it</h4><p>1. Why does the temperature stay at 100 °C while water boils, even though the stove keeps heating?</p><p>2. How would you separate a mixture of sand, salt and iron filings?</p></div>",
+   "cls": "exam"
+  }
+ ],
+ "quiz": [
+  {
+   "q": "Which state of matter has particles far apart with no fixed shape or volume?",
+   "o": [
+    "Solid",
+    "Liquid",
+    "Gas",
+    "Plasma, only"
+   ],
+   "a": 2,
+   "w": "Gas particles move freely and fill any container."
+  },
+  {
+   "q": "Convert 27 °C to kelvin.",
+   "o": [
+    "300 K",
+    "246 K",
+    "27 K",
+    "373 K"
+   ],
+   "a": 0,
+   "w": "K = 27 + 273 = 300."
+  },
+  {
+   "q": "A block of mass 100 g has volume 40 cm3. What is its density?",
+   "o": [
+    "2.5 g/cm3",
+    "0.4 g/cm3",
+    "4 g/cm3",
+    "140 g/cm3"
+   ],
+   "a": 0,
+   "w": "100 / 40 = 2.5."
+  },
+  {
+   "q": "Which method separates petrol from diesel in crude oil?",
+   "o": [
+    "Filtration",
+    "Fractional distillation",
+    "Magnetic separation",
+    "Chromatography"
+   ],
+   "a": 1,
+   "w": "They have different boiling points."
+  },
+  {
+   "q": "Which is a compound?",
+   "o": [
+    "Water",
+    "Air",
+    "Brass",
+    "Muddy water"
+   ],
+   "a": 0,
+   "w": "Water has fixed H:O ratio bonded chemically."
+  },
+  {
+   "q": "What happens to temperature during melting of pure ice at 0 °C?",
+   "o": [
+    "It stays constant",
+    "It rises steadily",
+    "It falls",
+    "It doubles"
+   ],
+   "a": 0,
+   "w": "Heat loosens particles rather than speeding them."
+  },
+  {
+   "q": "You dissolve 10 g sugar in 90 g water. Mass percent of sugar?",
+   "o": [
+    "9 percent",
+    "11 percent",
+    "10 percent",
+    "90 percent"
+   ],
+   "a": 2,
+   "w": "10 / 100 x 100 = 10 percent."
+  },
+  {
+   "q": "Which separates ink colours on paper?",
+   "o": [
+    "Distillation",
+    "Chromatography",
+    "Centrifugation",
+    "Evaporation"
+   ],
+   "a": 1,
+   "w": "Colours travel at different speeds."
+  },
+  {
+   "q": "The Sun is mostly which state of matter?",
+   "o": [
+    "Plasma",
+    "Liquid",
+    "Gas of molecules",
+    "Solid"
+   ],
+   "a": 0,
+   "w": "Stars are hot ionised gas: plasma."
+  },
+  {
+   "q": "Sea salt in Indian salt pans is obtained by:",
+   "o": [
+    "Distillation of oil",
+    "Electrolysis",
+    "Evaporation of brine",
+    "Magnetism"
+   ],
+   "a": 2,
+   "w": "Sun evaporates water and crystals remain."
+  }
+ ],
+ "sources": [
+  "Standard school and university chemistry texts"
+ ],
+ "verified": "2026-11-11"
+}

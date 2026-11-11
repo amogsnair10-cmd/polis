@@ -1,0 +1,176 @@
+{
+ "id": "0-0-1",
+ "title": "Motion in a Line and in a Plane",
+ "emoji": "🏃",
+ "cards": [
+  {
+   "tag": "Why this matters",
+   "h": "Describing motion without asking why",
+   "b": "<p>Before asking what makes things move, physics first learns to describe motion exactly. A cricket ball leaves the bat, rises, slows, turns and falls. Where is it? How fast? When does it land?</p><p>The branch that answers this is <b>kinematics</b>. Its tools are simple: position, velocity, acceleration and a few equations. Once you own them, you can predict where a ball, a car or a rocket will be, using nothing but arithmetic.</p>"
+  },
+  {
+   "tag": "Concept",
+   "h": "Velocity: how quickly position changes",
+   "b": "<p><b>Speed</b> is how fast; <b>velocity</b> is speed with direction. Average velocity is displacement divided by time:</p><div class=\"box\"><h4>Average velocity</h4>v = change in position / change in time</div><p>If a train covers 120 km in 2 hours, its average speed is 60 km/h. But the speedometer shows <i>instantaneous</i> speed, the speed at one moment. On a graph of position against time, instantaneous velocity is the slope of the line at that point."
+  },
+  {
+   "tag": "Concept",
+   "h": "Acceleration: how quickly velocity changes",
+   "b": "<p>Acceleration is the rate at which velocity changes:</p><div class=\"box\"><h4>Acceleration</h4>a = change in velocity / time</div><p>A car going from 0 to 20 m/s in 5 s has a = 20/5 = 4 m/s squared. Every second, its speed grows by 4 m/s.</p><p>Braking is also acceleration (negative, or deceleration). So is turning a corner at steady speed, because the direction of velocity is changing. Anything that changes velocity, in size or direction, is accelerating.</p>"
+  },
+  {
+   "tag": "Concept",
+   "h": "Three equations for steady acceleration",
+   "b": "<p>When acceleration a is constant, starting speed u, final speed v, time t, distance s:</p><div class=\"box\"><h4>Equations of motion</h4>v = u + a t<br>s = u t + (1/2) a t squared<br>v squared = u squared + 2 a s</div><p>On a speed-time graph the slope is the acceleration and the area under the line is the distance travelled. The equations are just this geometry written in algebra.</p><svg class=\"d\" viewBox=\"0 0 320 150\"><defs><marker id=\"b1\" markerWidth=\"8\" markerHeight=\"8\" refX=\"7\" refY=\"4\" orient=\"auto\"><path d=\"M0,0 L8,4 L0,8z\" fill=\"#5d6474\"/></marker></defs><line x1=\"40\" y1=\"120\" x2=\"290\" y2=\"120\" stroke=\"#5d6474\" stroke-width=\"1.5\" marker-end=\"url(#b1)\"/><line x1=\"40\" y1=\"120\" x2=\"40\" y2=\"14\" stroke=\"#5d6474\" stroke-width=\"1.5\" marker-end=\"url(#b1)\"/><polygon points=\"40,110 240,40 240,120 40,120\" fill=\"#f1e4c6\" stroke=\"none\"/><line x1=\"40\" y1=\"110\" x2=\"240\" y2=\"40\" stroke=\"#a8792a\" stroke-width=\"3\"/><text x=\"248\" y=\"136\" font-size=\"11\" fill=\"#1d2433\">time (s)</text><text x=\"46\" y=\"22\" font-size=\"11\" fill=\"#1d2433\">speed v</text><text x=\"100\" y=\"105\" font-size=\"11\" fill=\"#1d2433\">Shaded area = distance</text><text x=\"150\" y=\"68\" font-size=\"11\" fill=\"#a8792a\">slope = acceleration</text></svg>"
+  },
+  {
+   "tag": "Concept",
+   "h": "Free fall: gravity's steady pull",
+   "b": "<p>Near Earth's surface, anything falling freely gains about <b>9.8 m/s</b> of speed every second. We call this <b>g</b> = 9.8 m/s squared.</p><p>Galileo (around 1600) argued that heavy and light bodies fall together; air resistance is what makes a feather lag. In 1971 on the Moon, where there is no air, astronaut David Scott of Apollo 15 dropped a hammer and a feather together. They landed at the same instant.</p><p>Gravity on the Moon is about one-sixth of Earth's, but the lesson is the same: in free fall, mass does not matter.</p>"
+  },
+  {
+   "tag": "Concept",
+   "h": "Projectiles: two motions at once",
+   "b": "<p>Throw a ball at an angle. Its motion splits into two independent parts:</p><ul><li><b>Horizontal:</b> no force, so constant speed.</li><li><b>Vertical:</b> gravity pulls, so constant acceleration downwards.</li></ul><p>Combine them and you get a curve called a parabola. For launch speed u at angle theta (level ground), the range is R = u squared x sin(2 theta) / g. This is largest at 45 degrees. Two angles that add to 90 degrees, such as 30 and 60, give the same range.</p>"
+  },
+  {
+   "tag": "Worked example",
+   "h": "Ball thrown straight up at 20 m/s",
+   "b": "<p>Take g = 9.8 m/s squared. At the top the speed is zero, so v squared = u squared - 2 g h gives:</p><p>0 = 400 - 19.6 h, so <b>h = 20.4 m</b>.</p><p>Time to the top: v = u - g t gives 0 = 20 - 9.8 t, so t = 2.04 s. Coming down takes the same, so total flight is about <b>4.1 s</b>.</p><p>It returns to your hand at 20 m/s, the same speed it left with, but pointing down."
+  },
+  {
+   "tag": "Misconceptions",
+   "h": "Where intuition slips",
+   "b": "<ul><li><b>'At the top the ball has no acceleration.'</b> Wrong. Its velocity is momentarily zero but gravity still pulls: a = 9.8 m/s squared downward all the time.</li><li><b>'Heavier things fall faster.'</b> Only because of air. In a vacuum all fall together.</li><li><b>'The ball keeps going because of a force from the bat.'</b> After release the only force is gravity (and a little air drag).</li></ul>"
+  },
+  {
+   "tag": "Indian angle",
+   "h": "Launching east from Sriharikota",
+   "b": "<p>ISRO launches most satellites eastwards from Sriharikota (about 13.7 degrees north). The Earth spins eastwards, giving the launch pad a free speed of roughly 450 m/s, so the rocket needs less fuel to reach orbital speed. This is the same idea as adding velocities in vectors.</p><p>On the sports field, Neeraj Chopra won javelin gold at the Tokyo Olympics with a throw of 87.58 m. A javelin is a projectile, but it is also a glider, so the best angle is not exactly 45 degrees."
+  },
+  {
+   "tag": "Recap",
+   "h": "Key takeaways",
+   "b": "<ul><li>Velocity is the rate of change of position; acceleration is the rate of change of velocity.</li><li>For steady acceleration: v = u + at, s = ut + (1/2)at squared, v squared = u squared + 2as.</li><li>In free fall everything accelerates at g = 9.8 m/s squared, regardless of mass.</li><li>A projectile's horizontal and vertical motions are independent.</li></ul><div class=\"box\"><h4>Think about it</h4>1. A ball thrown up passes you at the same height going up and down. How do the two speeds compare?<br>2. Why can a car going round a bend at steady 60 km/h still be accelerating?</div>",
+   "cls": "exam"
+  }
+ ],
+ "quiz": [
+  {
+   "q": "A car goes from 0 to 20 m/s in 5 s. Its acceleration is",
+   "o": [
+    "100 m/s squared",
+    "4 m/s squared",
+    "0.25 m/s squared",
+    "15 m/s squared"
+   ],
+   "a": 1,
+   "w": "a = 20/5 = 4."
+  },
+  {
+   "q": "On a speed-time graph, the area under the line gives",
+   "o": [
+    "Acceleration",
+    "Force",
+    "Distance travelled",
+    "Average speed squared"
+   ],
+   "a": 2,
+   "w": "Area under v-t is distance."
+  },
+  {
+   "q": "A train covers 150 km in 2.5 hours. Average speed?",
+   "o": [
+    "50 km/h",
+    "60 km/h",
+    "375 km/h",
+    "75 km/h"
+   ],
+   "a": 1,
+   "w": "150/2.5 = 60."
+  },
+  {
+   "q": "At the highest point of a thrown ball, its acceleration is",
+   "o": [
+    "Zero",
+    "9.8 m/s squared downward",
+    "9.8 m/s squared upward",
+    "Equal to its speed"
+   ],
+   "a": 1,
+   "w": "Gravity still acts."
+  },
+  {
+   "q": "Which launch angle gives the largest range on level ground (no air)?",
+   "o": [
+    "30 degrees",
+    "60 degrees",
+    "90 degrees",
+    "45 degrees"
+   ],
+   "a": 3,
+   "w": "R is proportional to sin 2 theta, maximum at 45."
+  },
+  {
+   "q": "A stone drops from rest for 2 s (g = 10 m/s squared). Distance fallen?",
+   "o": [
+    "10 m",
+    "20 m",
+    "40 m",
+    "5 m"
+   ],
+   "a": 1,
+   "w": "s = 1/2 x 10 x 4 = 20."
+  },
+  {
+   "q": "Apollo 15's hammer and feather experiment showed that",
+   "o": [
+    "The Moon has no gravity",
+    "In a vacuum all objects fall together",
+    "Feathers are heavier",
+    "Hammers float"
+   ],
+   "a": 1,
+   "w": "No air, so equal acceleration."
+  },
+  {
+   "q": "In projectile motion the horizontal velocity (no air drag) is",
+   "o": [
+    "Constant",
+    "Increasing",
+    "Decreasing",
+    "Zero at the top"
+   ],
+   "a": 0,
+   "w": "No horizontal force acts."
+  },
+  {
+   "q": "Two projectiles have the same speed, launched at 30 and 60 degrees. Their ranges are",
+   "o": [
+    "Zero",
+    "Different, 60 goes farther",
+    "Equal",
+    "Different, 30 goes farther"
+   ],
+   "a": 2,
+   "w": "sin 60 = sin 120, complementary angles."
+  },
+  {
+   "q": "A body starts at 5 m/s and accelerates at 2 m/s squared for 3 s. Final speed?",
+   "o": [
+    "8 m/s",
+    "11 m/s",
+    "13 m/s",
+    "6 m/s"
+   ],
+   "a": 1,
+   "w": "v = 5 + 6 = 11."
+  }
+ ],
+ "sources": [
+  "NCERT Physics Class 11-12",
+  "Halliday, Resnick and Walker, Fundamentals of Physics",
+  "Galileo, Two New Sciences (1638)"
+ ],
+ "verified": "2026-11-11"
+}

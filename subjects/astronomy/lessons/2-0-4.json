@@ -1,0 +1,176 @@
+{
+ "id": "2-0-4",
+ "title": "Neutron Stars and Pulsars",
+ "emoji": "📡",
+ "cards": [
+  {
+   "tag": "Why this matters",
+   "h": "Matter at its limit",
+   "b": "<p>A neutron star is what is left when a massive star's core collapses: more than a Sun's mass in a ball about 20 km across, the size of a city. It is the densest object we can directly observe apart from black holes, a natural laboratory for physics we cannot recreate on Earth.</p>"
+  },
+  {
+   "tag": "Concept",
+   "h": "Making a neutron star",
+   "b": "<p>During a core-collapse supernova, gravity crushes the core so hard that electrons and protons merge into <b>neutrons</b>. The collapse stops when neutrons crowd so tightly that quantum <b>neutron degeneracy pressure</b> resists. The typical mass is 1.4 to about 2 Suns in a radius of 10 km.</p><p>Walter Baade and Fritz Zwicky predicted them in 1934, just two years after the neutron's discovery.</p>"
+  },
+  {
+   "tag": "Concept",
+   "h": "Extreme numbers",
+   "b": "<ul><li>Density: about 10^17 kg per cubic metre. A teaspoon would weigh around a billion tonnes.</li><li>Gravity at the surface is hundreds of billions of times Earth's.</li><li>An escape speed around half the speed of light.</li><li>Magnetic fields up to a trillion times Earth's; a <b>magnetar</b> reaches 10^14 to 10^15 gauss, strong enough to disrupt atoms.</li></ul>"
+  },
+  {
+   "tag": "Concept",
+   "h": "Spinning fast",
+   "b": "<p>Like a skater drawing in her arms, a collapsing core spins faster. A neutron star may spin tens or hundreds of times a second. The <b>Crab pulsar</b> spins about 30 times a second. The fastest known, 716 times a second, is a <b>millisecond pulsar</b>, spun up by gas from a companion.</p>"
+  },
+  {
+   "tag": "Concept",
+   "h": "Pulsars: cosmic lighthouses",
+   "b": "<p>A neutron star's powerful magnetic field funnels radio beams from its magnetic poles. If the magnetic axis is tilted from the spin axis, the beam sweeps around, and if it crosses Earth we see regular <b>pulses</b>, each time the beam passes.</p><svg class=\"d\" viewBox=\"0 0 320 120\"><defs><marker id=\"ar1\" viewBox=\"0 0 10 10\" refX=\"9\" refY=\"5\" markerWidth=\"6\" markerHeight=\"6\" orient=\"auto\"><path d=\"M0 0L10 5L0 10z\" fill=\"#5d6474\"/></marker></defs><circle cx=\"160\" cy=\"60\" r=\"14\" fill=\"#f4dcd5\" stroke=\"#a3362a\"/><text x=\"160\" y=\"64\" text-anchor=\"middle\" font-size=\"9\" fill=\"#1d2433\"></text><line x1=\"160\" y1=\"10\" x2=\"160\" y2=\"45\" stroke=\"#2f6f7a\" stroke-width=\"1.5\"/><line x1=\"160\" y1=\"110\" x2=\"160\" y2=\"75\" stroke=\"#2f6f7a\" stroke-width=\"1.5\"/><text x=\"160\" y=\"8\" text-anchor=\"middle\" font-size=\"9\" fill=\"#1d2433\"></text><text x=\"230\" y=\"30\" text-anchor=\"start\" font-size=\"10\" fill=\"#1d2433\">Radio beam sweeps</text><text x=\"230\" y=\"45\" text-anchor=\"start\" font-size=\"10\" fill=\"#1d2433\">past Earth like a</text><text x=\"230\" y=\"60\" text-anchor=\"start\" font-size=\"10\" fill=\"#1d2433\">lighthouse</text><text x=\"40\" y=\"60\" text-anchor=\"middle\" font-size=\"10\" fill=\"#1d2433\">Neutron star</text><text x=\"160\" y=\"116\" text-anchor=\"middle\" font-size=\"10\" fill=\"#5d6474\">Spin axis and magnetic axis differ</text></svg>"
+  },
+  {
+   "tag": "Concept",
+   "h": "Why pulsars are clocks",
+   "b": "<p>Millisecond pulsars tick with stability rivalling atomic clocks. Astronomers use them to detect tiny disturbances in space-time and to test gravity. Binary pulsars confirmed Einstein's prediction that orbiting masses lose energy as gravitational waves (Hulse and Taylor, 1974, Nobel 1993). A global network, the <b>pulsar timing array</b>, reported in 2023 evidence of a gravitational-wave background.</p>"
+  },
+  {
+   "tag": "How we know",
+   "h": "The discovery of pulsars",
+   "b": "<p>In November 1967, graduate student <b>Jocelyn Bell</b>, working at Cambridge with Antony Hewish, noticed a faint signal pulsing every 1.337 seconds. It was so regular they half-jokingly called it LGM-1 ('little green men'). They soon found more. Hewish shared the 1974 Nobel Prize in Physics, a choice widely thought to have unfairly left out Bell Burnell. The Crab pulsar was found in 1968, linking pulsars to supernovae.</p>"
+  },
+  {
+   "tag": "Misconceptions",
+   "h": "Quick corrections",
+   "b": "<ul><li><b>'Pulsars blink on and off.'</b> The star shines steadily; the beam sweeps past us.</li><li><b>'Neutron stars are made of ordinary neutrons in a nucleus.'</b> They are one enormous nuclear-density object, with exotic matter possibly inside.</li><li><b>'Pulsars are alien signals.'</b> Natural, though first mistaken for one.</li></ul>"
+  },
+  {
+   "tag": "Indian angle",
+   "h": "Ooty, GMRT and the Indian pulsar timing",
+   "b": "<p>The <b>Ooty Radio Telescope</b> (1970), built by the Tata Institute under Govind Swarup, a 530 m long cylindrical dish on a hillside tilted to line up with Earth's axis, was used for early pulsar and lunar-occultation studies. The <b>GMRT</b> finds and times pulsars; the Indian Pulsar Timing Array (InPTA) joined the 2023 global announcement of a nanohertz gravitational-wave background. <b>AstroSat</b> has observed the Crab pulsar in X-rays.</p>"
+  },
+  {
+   "tag": "Recap",
+   "h": "Key takeaways",
+   "b": "<ul><li>Neutron stars are collapsed stellar cores about 20 km across and 1.4 to 2 Suns in mass.</li><li>Pulsars are spinning, magnetised neutron stars whose beams sweep past Earth.</li><li>They are precise clocks that test gravity and detect gravitational waves.</li><li>Jocelyn Bell found the first in 1967.</li></ul><p><b>Think about it:</b> (1) Why must a neutron star spin so fast after collapse? (2) What would it mean if a pulsar's ticks suddenly shifted?</p>",
+   "cls": "exam"
+  }
+ ],
+ "quiz": [
+  {
+   "q": "A neutron star is typically about:",
+   "o": [
+    "20 km across",
+    "1,000 km across",
+    "Earth-sized",
+    "Sun-sized"
+   ],
+   "a": 0,
+   "w": "About 10 km radius."
+  },
+  {
+   "q": "Neutron stars are held up by:",
+   "o": [
+    "Neutron degeneracy pressure",
+    "Fusion",
+    "Magnetic fields",
+    "Radiation"
+   ],
+   "a": 0,
+   "w": "Quantum pressure."
+  },
+  {
+   "q": "Who discovered the first pulsar in 1967?",
+   "o": [
+    "Jocelyn Bell",
+    "Hewish alone",
+    "Hubble",
+    "Chandrasekhar"
+   ],
+   "a": 0,
+   "w": "Jocelyn Bell, then a student."
+  },
+  {
+   "q": "Pulsar pulses arise because:",
+   "o": [
+    "The star blinks",
+    "A beam sweeps across Earth as it spins",
+    "It is eclipsed",
+    "It explodes"
+   ],
+   "a": 1,
+   "w": "Lighthouse effect."
+  },
+  {
+   "q": "A neutron star spins fast after collapse because of:",
+   "o": [
+    "Magnetism",
+    "Conservation of angular momentum",
+    "Heat",
+    "Radio waves"
+   ],
+   "a": 1,
+   "w": "Skater effect."
+  },
+  {
+   "q": "Hulse and Taylor's binary pulsar gave evidence for:",
+   "o": [
+    "Gravitational waves",
+    "Dark matter",
+    "Black holes",
+    "Planets"
+   ],
+   "a": 0,
+   "w": "Orbit shrank as predicted."
+  },
+  {
+   "q": "A magnetar is a neutron star with:",
+   "o": [
+    "Extreme magnetic field",
+    "No rotation",
+    "Large size",
+    "Planets"
+   ],
+   "a": 0,
+   "w": "10^14 to 10^15 gauss."
+  },
+  {
+   "q": "Which Indian facility discovered/timed many pulsars and joined InPTA?",
+   "o": [
+    "GMRT",
+    "Hanle",
+    "Kavalur",
+    "Nainital"
+   ],
+   "a": 0,
+   "w": "Giant Metrewave Radio Telescope."
+  },
+  {
+   "q": "Millisecond pulsars are valuable because they:",
+   "o": [
+    "Are extremely regular clocks",
+    "Are bright optically",
+    "Are close",
+    "Are huge"
+   ],
+   "a": 0,
+   "w": "Used for timing arrays."
+  },
+  {
+   "q": "A teaspoon of neutron star matter would weigh about:",
+   "o": [
+    "A billion tonnes",
+    "A kilogram",
+    "A gram",
+    "A tonne"
+   ],
+   "a": 0,
+   "w": "Density of 10^17 kg per cubic metre."
+  }
+ ],
+ "sources": [
+  "Bell and Hewish 1968",
+  "Hulse-Taylor 1974",
+  "InPTA 2023"
+ ],
+ "verified": "2026-11-11"
+}

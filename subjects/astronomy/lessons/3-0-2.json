@@ -1,0 +1,176 @@
+{
+ "id": "3-0-2",
+ "title": "Dark Matter",
+ "emoji": "🕳️",
+ "cards": [
+  {
+   "tag": "Why this matters",
+   "h": "Most of the matter is missing",
+   "b": "<p>The stars, gas and dust that we see, everything made of atoms, make up only about 5 percent of the universe's energy. About 27 percent is <b>dark matter</b>, which does not emit or absorb light but pulls with gravity. About 68 percent is dark energy. Dark matter outweighs ordinary matter by about 5 to 1.</p>"
+  },
+  {
+   "tag": "Concept",
+   "h": "First clue: clusters (1933)",
+   "b": "<p>Swiss astronomer <b>Fritz Zwicky</b> measured how fast galaxies move in the Coma Cluster. They moved so quickly that the cluster should fly apart unless it contained far more mass than the visible stars. He called the missing stuff <i>dunkle Materie</i>, dark matter. Few took it seriously.</p>"
+  },
+  {
+   "tag": "Concept",
+   "h": "Strong clue: spinning galaxies",
+   "b": "<p>In the 1970s <b>Vera Rubin</b> and Kent Ford measured how fast stars and gas orbit in spiral galaxies, starting with Andromeda. If only visible matter existed, outer stars would orbit slower, as outer planets do. Instead the speeds stay <b>flat</b> out to the edges. Something invisible fills a huge halo around each galaxy.</p><svg class=\"d\" viewBox=\"0 0 320 140\"><defs><marker id=\"ar1\" viewBox=\"0 0 10 10\" refX=\"9\" refY=\"5\" markerWidth=\"6\" markerHeight=\"6\" orient=\"auto\"><path d=\"M0 0L10 5L0 10z\" fill=\"#5d6474\"/></marker></defs><line x1=\"30\" y1=\"10\" x2=\"30\" y2=\"110\" stroke=\"#5d6474\" stroke-width=\"1.5\" marker-end=\"url(#ar1)\"/><line x1=\"30\" y1=\"110\" x2=\"300\" y2=\"110\" stroke=\"#5d6474\" stroke-width=\"1.5\" marker-end=\"url(#ar1)\"/><text x=\"160\" y=\"128\" text-anchor=\"middle\" font-size=\"10\" fill=\"#1d2433\">Distance from centre</text><text x=\"12\" y=\"62\" text-anchor=\"middle\" font-size=\"10\" fill=\"#1d2433\">Speed</text><path d=\"M30 105 Q60 40 120 38 L290 36\" fill=\"none\" stroke=\"#2f6f7a\" stroke-width=\"2\"/><path d=\"M30 105 Q60 40 120 40 Q200 60 290 85\" fill=\"none\" stroke=\"#a3362a\" stroke-width=\"2\" stroke-dasharray=\"4 3\"/><text x=\"220\" y=\"30\" text-anchor=\"start\" font-size=\"10\" fill=\"#2f6f7a\">Observed: flat</text><text x=\"220\" y=\"98\" text-anchor=\"start\" font-size=\"10\" fill=\"#a3362a\">Expected from visible matter</text></svg>"
+  },
+  {
+   "tag": "Concept",
+   "h": "Gravitational lensing",
+   "b": "<p>Einstein's theory says mass bends light. A cluster of galaxies acts like a lens, distorting images of galaxies behind it. The amount of bending tells us the total mass, which is far larger than the visible stuff. In the <b>Bullet Cluster</b> (2006 analysis) two colliding clusters show the lensing mass lying separately from the hot gas, direct evidence that the mass is not ordinary gas.</p>"
+  },
+  {
+   "tag": "Concept",
+   "h": "Evidence from the early universe",
+   "b": "<p>The pattern of ripples in the cosmic microwave background and the growth of the cosmic web both need dark matter. Without it gravity could not pull matter into galaxies in 13.8 billion years. Ordinary matter alone would be too smooth.</p>"
+  },
+  {
+   "tag": "Concept",
+   "h": "What could it be?",
+   "b": "<p>It is not ordinary atoms, and not neutrinos (too light and fast). Candidates: <b>WIMPs</b> (weakly interacting massive particles), <b>axions</b> (very light particles), or primordial black holes. Large underground detectors (XENON, LUX-ZEPLIN) have found no clear WIMP signal. Another idea, <b>MOND</b> (Milgrom, 1983), modifies gravity instead, but struggles to explain clusters and the CMB.</p>"
+  },
+  {
+   "tag": "How we know",
+   "h": "Many independent lines",
+   "b": "<p>Galaxy rotation, galaxy clusters, lensing, the CMB, and cosmic structure all agree on the same amount, a rare case where unrelated methods converge. That is why most astronomers accept dark matter, even though we do not know what it is.</p>"
+  },
+  {
+   "tag": "Misconceptions",
+   "h": "Not what it sounds like",
+   "b": "<ul><li><b>'Dark matter is black holes or dust.'</b> Ordinary dark objects are limited by other measurements.</li><li><b>'Dark matter and dark energy are the same.'</b> They are different: one clumps and attracts, the other drives acceleration.</li><li><b>'Scientists invented it to save a theory.'</b> It was forced by measurements, and tested many ways.</li></ul>"
+  },
+  {
+   "tag": "Indian angle",
+   "h": "Deep underground and lensing",
+   "b": "<p>India has a history in deep-underground particle physics: in 1965 TIFR's detectors in the <b>Kolar Gold Fields</b> mine, 2 km deep, recorded the first atmospheric neutrinos. A proposed <b>India-based Neutrino Observatory (INO)</b> in Tamil Nadu's Theni district has faced delays. Researchers at <b>IUCAA</b> and <b>TIFR</b> work on gravitational lensing and large-scale structure, and on simulations that include dark matter.</p>"
+  },
+  {
+   "tag": "Recap",
+   "h": "Key takeaways",
+   "b": "<ul><li>Dark matter is about 27 percent of the universe and 85 percent of its matter.</li><li>Evidence: galaxy rotation curves, cluster speeds, lensing, CMB, structure growth.</li><li>It does not interact with light; its identity is unknown.</li><li>WIMPs, axions and modified gravity are candidate explanations.</li></ul><p><b>Think about it:</b> (1) Why do flat rotation curves need extra mass? (2) What kind of observation could rule out WIMPs?</p>",
+   "cls": "exam"
+  }
+ ],
+ "quiz": [
+  {
+   "q": "Dark matter makes up about what share of the universe's total content?",
+   "o": [
+    "5 percent",
+    "27 percent",
+    "68 percent",
+    "95 percent"
+   ],
+   "a": 1,
+   "w": "About 27 percent."
+  },
+  {
+   "q": "Who first inferred dark matter from the Coma cluster in 1933?",
+   "o": [
+    "Zwicky",
+    "Rubin",
+    "Hubble",
+    "Penzias"
+   ],
+   "a": 0,
+   "w": "Fritz Zwicky."
+  },
+  {
+   "q": "Flat rotation curves mean that:",
+   "o": [
+    "Outer stars orbit faster than visible mass explains",
+    "Galaxies do not rotate",
+    "Stars are fixed",
+    "Orbits are circular"
+   ],
+   "a": 0,
+   "w": "Extra mass in a halo."
+  },
+  {
+   "q": "The Bullet Cluster showed that:",
+   "o": [
+    "Mass lies apart from visible gas",
+    "Clusters never collide",
+    "Gas is dark matter",
+    "Light is slow"
+   ],
+   "a": 0,
+   "w": "Lensing map vs X-ray gas."
+  },
+  {
+   "q": "Gravitational lensing measures:",
+   "o": [
+    "Total mass",
+    "Colour",
+    "Temperature",
+    "Age"
+   ],
+   "a": 0,
+   "w": "Light bending depends on mass."
+  },
+  {
+   "q": "Which is NOT a dark matter candidate?",
+   "o": [
+    "WIMPs",
+    "Axions",
+    "Ordinary hydrogen gas",
+    "Primordial black holes"
+   ],
+   "a": 2,
+   "w": "Hydrogen is visible matter."
+  },
+  {
+   "q": "MOND proposes:",
+   "o": [
+    "Modifying gravity",
+    "More neutrinos",
+    "Bigger stars",
+    "Cold dark energy"
+   ],
+   "a": 0,
+   "w": "Milgrom 1983."
+  },
+  {
+   "q": "Why can't neutrinos be most of dark matter?",
+   "o": [
+    "They are too light and fast",
+    "They are too heavy",
+    "They are visible",
+    "They do not exist"
+   ],
+   "a": 0,
+   "w": "They would smear out structure."
+  },
+  {
+   "q": "Without dark matter, galaxies would:",
+   "o": [
+    "Not form in 13.8 billion years",
+    "Form faster",
+    "Be bigger",
+    "Be hotter"
+   ],
+   "a": 0,
+   "w": "Matter would be too smooth."
+  },
+  {
+   "q": "The 1965 Kolar Gold Fields experiment detected:",
+   "o": [
+    "Atmospheric neutrinos",
+    "Dark matter",
+    "Gravitational waves",
+    "Pulsars"
+   ],
+   "a": 0,
+   "w": "Deep underground in India."
+  }
+ ],
+ "sources": [
+  "Zwicky 1933",
+  "Rubin and Ford 1970",
+  "Planck 2018 cosmological parameters"
+ ],
+ "verified": "2026-11-11"
+}

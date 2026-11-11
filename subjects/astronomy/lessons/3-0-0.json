@@ -1,0 +1,176 @@
+{
+ "id": "3-0-0",
+ "title": "The Milky Way",
+ "emoji": "🌌",
+ "cards": [
+  {
+   "tag": "Why this matters",
+   "h": "Our home address",
+   "b": "<p>The band of light across a dark sky is where we look edge-on through our own galaxy. We live inside it, so mapping it is like mapping a forest from within. Learning its shape, size and our place in it was one of the great steps in astronomy.</p>"
+  },
+  {
+   "tag": "Concept",
+   "h": "What the band is",
+   "b": "<p>Galileo saw in 1610 that the Milky Way band breaks into countless faint stars. It is the combined glow of our galaxy's disc, seen from inside. The name Milky Way is old; the Greek word gave us 'galaxy'.</p>"
+  },
+  {
+   "tag": "Concept",
+   "h": "Shape and size",
+   "b": "<p>The Milky Way is a <b>barred spiral galaxy</b>: a flat disc about <b>100,000 light-years</b> across and only about 1,000 thick, a central <b>bulge</b> with a bar of stars, and spiral arms where gas and young stars concentrate. It has roughly <b>100 to 400 billion stars</b> and a diffuse <b>halo</b> of old stars and globular clusters.</p><svg class=\"d\" viewBox=\"0 0 320 150\"><defs><marker id=\"ar1\" viewBox=\"0 0 10 10\" refX=\"9\" refY=\"5\" markerWidth=\"6\" markerHeight=\"6\" orient=\"auto\"><path d=\"M0 0L10 5L0 10z\" fill=\"#5d6474\"/></marker></defs><ellipse cx=\"160\" cy=\"75\" rx=\"130\" ry=\"26\" fill=\"#f1e4c6\" stroke=\"#a8792a\"/><circle cx=\"160\" cy=\"75\" r=\"16\" fill=\"#f4dcd5\" stroke=\"#a3362a\"/><text x=\"160\" y=\"79\" text-anchor=\"middle\" font-size=\"10\" fill=\"#1d2433\">Bulge</text><circle cx=\"215\" cy=\"75\" r=\"4\" fill=\"#dceaec\" stroke=\"#2f6f7a\"/><text x=\"226\" y=\"100\" text-anchor=\"start\" font-size=\"10\" fill=\"#1d2433\">Sun</text><text x=\"160\" y=\"125\" text-anchor=\"middle\" font-size=\"10\" fill=\"#5d6474\">Side view: disc about 100,000 ly across</text><text x=\"160\" y=\"25\" text-anchor=\"middle\" font-size=\"10\" fill=\"#5d6474\">Halo of old stars + globular clusters</text><text x=\"300\" y=\"75\" text-anchor=\"middle\" font-size=\"9\" fill=\"#1d2433\"></text></svg>"
+  },
+  {
+   "tag": "Concept",
+   "h": "Our position",
+   "b": "<p>The Sun lies in a minor arm, the <b>Orion Arm</b> (Orion Spur), about <b>26,000 light-years</b> from the centre. It orbits at about 230 km/s and takes roughly <b>225 to 250 million years</b> for one lap, a 'galactic year'. Since the Sun formed it has made about 20 laps. The Solar System also bobs up and down through the disc.</p>"
+  },
+  {
+   "tag": "Concept",
+   "h": "The centre: a supermassive black hole",
+   "b": "<p>Dust hides the centre in visible light, but infrared and radio reveal it. Stars at the centre orbit an invisible object, <b>Sagittarius A*</b>, with about 4 million Suns. One star, S2, whips around it every 16 years. In May 2022 the Event Horizon Telescope imaged its shadow.</p>"
+  },
+  {
+   "tag": "Concept",
+   "h": "Rotation and a hint of dark matter",
+   "b": "<p>Stars in the outer disc orbit surprisingly fast, not slowing down with distance as planets in the Solar System do. Visible matter cannot supply enough gravity. That points to a massive halo of <b>dark matter</b>, which holds about 5 to 10 times the mass of all the stars. See lesson 3-0-2.</p>"
+  },
+  {
+   "tag": "How we know",
+   "h": "Mapping from the inside",
+   "b": "<p>William Herschel (1785) counted stars and wrongly placed the Sun near the centre. In 1918 <b>Harlow Shapley</b> mapped globular clusters, found that they centre on a point far away in Sagittarius, and so showed that the Sun is off-centre. In 1920 the Shapley-Curtis debate asked if spiral 'nebulae' were separate galaxies; <b>Hubble</b> settled it in 1924 with Cepheids in Andromeda. <b>Gaia</b> now gives 3D positions and motions for nearly two billion stars.</p>"
+  },
+  {
+   "tag": "Misconceptions",
+   "h": "Common mix-ups",
+   "b": "<ul><li><b>'The Milky Way is the universe.'</b> It is one of hundreds of billions of galaxies.</li><li><b>'Stars in the band are all nearby.'</b> The band holds stars up to tens of thousands of light-years away.</li><li><b>'We are at the centre.'</b> We are about halfway out.</li></ul><p>The Milky Way and Andromeda will merge in billions of years, though estimates of timing and certainty are being revised.</p>"
+  },
+  {
+   "tag": "Indian angle",
+   "h": "Akashganga and the GMRT",
+   "b": "<p>In Sanskrit and Hindi the Milky Way is <b>Akashganga</b>, the river of the sky, and it appears in many stories, sometimes linked to the Mandakini. India's <b>GMRT</b> maps the 21 cm hydrogen line to trace gas in spiral arms, and <b>AstroSat</b> studies star clusters across the galaxy in ultraviolet. The lunar nakshatras and the Saptarishi all lie in our local Milky Way neighbourhood.</p>"
+  },
+  {
+   "tag": "Recap",
+   "h": "Key takeaways",
+   "b": "<ul><li>The Milky Way is a barred spiral galaxy of 100 to 400 billion stars, about 100,000 light-years across.</li><li>The Sun is 26,000 light-years from the centre and orbits in about 230 million years.</li><li>Sgr A*, about 4 million Suns, sits at the centre.</li><li>Rotation speeds point to a dark matter halo.</li></ul><p><b>Think about it:</b> (1) Why was it so hard to learn our galaxy's shape? (2) What would the sky look like if we lived near the galactic centre?</p>",
+   "cls": "exam"
+  }
+ ],
+ "quiz": [
+  {
+   "q": "The Milky Way is best described as a:",
+   "o": [
+    "Elliptical galaxy",
+    "Barred spiral galaxy",
+    "Irregular galaxy",
+    "Globular cluster"
+   ],
+   "a": 1,
+   "w": "Barred spiral."
+  },
+  {
+   "q": "The Sun is about how far from the galactic centre?",
+   "o": [
+    "2,600 light-years",
+    "26,000 light-years",
+    "260,000 light-years",
+    "26 light-years"
+   ],
+   "a": 1,
+   "w": "About 26,000 ly."
+  },
+  {
+   "q": "Who used globular clusters to show the Sun is off-centre in 1918?",
+   "o": [
+    "Shapley",
+    "Herschel",
+    "Hubble",
+    "Galileo"
+   ],
+   "a": 0,
+   "w": "Harlow Shapley."
+  },
+  {
+   "q": "The Sun's galactic orbit takes about:",
+   "o": [
+    "225 to 250 million years",
+    "2 million years",
+    "25 billion years",
+    "24 hours"
+   ],
+   "a": 0,
+   "w": "One galactic year."
+  },
+  {
+   "q": "Sagittarius A* is a:",
+   "o": [
+    "Supermassive black hole",
+    "Star cluster",
+    "Planet",
+    "Nebula"
+   ],
+   "a": 0,
+   "w": "About 4 million Suns."
+  },
+  {
+   "q": "The flat rotation curve of the Milky Way suggests:",
+   "o": [
+    "Dark matter halo",
+    "Fewer stars",
+    "Fusion",
+    "A hot disc"
+   ],
+   "a": 0,
+   "w": "Extra unseen mass."
+  },
+  {
+   "q": "The dark band across the Milky Way is caused by:",
+   "o": [
+    "Dust",
+    "Empty space",
+    "Planets",
+    "Shadows"
+   ],
+   "a": 0,
+   "w": "Dust absorbs light."
+  },
+  {
+   "q": "Gaia has measured positions of about:",
+   "o": [
+    "Two billion stars",
+    "Two thousand stars",
+    "200 stars",
+    "20 million galaxies"
+   ],
+   "a": 0,
+   "w": "Nearly two billion."
+  },
+  {
+   "q": "Hubble proved in 1924 that Andromeda is:",
+   "o": [
+    "Another galaxy",
+    "A cloud in our galaxy",
+    "A comet",
+    "A star"
+   ],
+   "a": 0,
+   "w": "Using Cepheids."
+  },
+  {
+   "q": "In Hindi, the Milky Way is called:",
+   "o": [
+    "Akashganga",
+    "Sapt Rishi",
+    "Dhruva",
+    "Mriga"
+   ],
+   "a": 0,
+   "w": "Akashganga."
+  }
+ ],
+ "sources": [
+  "Shapley 1918",
+  "Gaia DR3",
+  "EHT 2022"
+ ],
+ "verified": "2026-11-11"
+}

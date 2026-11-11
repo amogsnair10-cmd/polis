@@ -1,0 +1,174 @@
+{
+ "id": "1-0-1",
+ "title": "Energy in Reactions: Thermochemistry",
+ "emoji": "🔥",
+ "cards": [
+  {
+   "tag": "Why this matters",
+   "h": "Why fuels burn and ice packs chill",
+   "b": "<p>Every reaction either releases or absorbs energy. Burning LPG warms your kitchen; an instant cold pack chills a sprain. <b>Thermochemistry</b> measures these energy changes, which decide whether a fuel is useful and whether a reaction will happen on its own.</p>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "Exothermic and endothermic",
+   "b": "<p>Chemical bonds store energy. Breaking bonds costs energy; forming bonds releases it.</p><ul><li><b>Exothermic:</b> more energy released than absorbed. Surroundings get hotter. Burning, rusting, neutralisation.</li><li><b>Endothermic:</b> net energy absorbed. Surroundings get colder. Photosynthesis, melting ice, dissolving ammonium nitrate in an ice pack.</li></ul>"
+  },
+  {
+   "tag": "Key idea",
+   "h": "Enthalpy change",
+   "b": "<p><b>Enthalpy change (delta H)</b> is the heat exchanged at constant pressure, in kJ per mole. Exothermic reactions have negative delta H, endothermic positive.</p><p>Methane burning: CH4 + 2O2 → CO2 + 2H2O, delta H is about <b>-890 kJ/mol</b>. One mole of methane (16 g) releases 890 kJ.</p><svg class=\"d\" viewBox=\"0 0 320 136\"><defs><marker id=\"m1\" markerWidth=\"8\" markerHeight=\"8\" refX=\"6\" refY=\"4\" orient=\"auto\"><path d=\"M0,0 L8,4 L0,8 z\" fill=\"#5d6474\"/></marker></defs><rect x=\"20\" y=\"4\" width=\"280\" height=\"30\" rx=\"6\" fill=\"#f1e4c6\" stroke=\"#a8792a\"/><text x=\"160\" y=\"23\" text-anchor=\"middle\" font-size=\"11\" fill=\"#1d2433\">Reactants (higher energy)</text><line x1=\"160\" y1=\"34\" x2=\"160\" y2=\"47\" stroke=\"#5d6474\" marker-end=\"url(#m1)\"/><rect x=\"20\" y=\"48\" width=\"280\" height=\"30\" rx=\"6\" fill=\"#f1e4c6\" stroke=\"#a8792a\"/><text x=\"160\" y=\"67\" text-anchor=\"middle\" font-size=\"11\" fill=\"#1d2433\">Energy released: delta H negative</text><line x1=\"160\" y1=\"78\" x2=\"160\" y2=\"91\" stroke=\"#5d6474\" marker-end=\"url(#m1)\"/><rect x=\"20\" y=\"92\" width=\"280\" height=\"30\" rx=\"6\" fill=\"#f1e4c6\" stroke=\"#a8792a\"/><text x=\"160\" y=\"111\" text-anchor=\"middle\" font-size=\"11\" fill=\"#1d2433\">Products (lower energy)</text></svg>"
+  },
+  {
+   "tag": "Key idea",
+   "h": "Measuring heat: calorimetry",
+   "b": "<p>Heat absorbed by water: <b>q = m x c x delta T</b>, where c is specific heat. For water, c = 4.18 J per gram per °C.</p><p>This explains why coastal cities have mild climates: water needs a lot of heat to warm up, so it stores and releases heat slowly.</p>"
+  },
+  {
+   "tag": "Key idea",
+   "h": "Hess's law",
+   "b": "<p><b>Germain Hess, 1840</b>: the total enthalpy change for a reaction is the same whether it happens in one step or several. Heat is a state function: it depends only on start and end, not the route.</p><p>This lets us calculate energies we cannot measure directly. Add the delta H values of steps, like adding the height gained over each flight of stairs.</p><p>Also, delta H of reaction can be estimated as (bonds broken) minus (bonds formed), using bond energies.</p>"
+  },
+  {
+   "tag": "Key idea",
+   "h": "Will it happen? Entropy and Gibbs energy",
+   "b": "<p>Being exothermic is not enough. <b>Entropy (S)</b> measures disorder: more ways to arrange energy and particles. Nature favours more disorder (second law of thermodynamics).</p><p><b>Gibbs energy: delta G = delta H - T delta S.</b> A reaction is spontaneous if delta G is negative. Ice melts above 0 °C even though melting is endothermic, because the entropy gain wins at higher T.</p><p>Spontaneous does not mean fast; diamond turning to graphite is spontaneous but takes forever.</p>"
+  },
+  {
+   "tag": "Worked example",
+   "h": "Heat to warm water",
+   "b": "<p>How much heat warms 100 g of water from 25 °C to 45 °C?</p><p>q = m c delta T = 100 x 4.18 x 20 = <b>8,360 J</b> (8.36 kJ).</p><p>How much heat from burning 2 mol methane (delta H = -890 kJ/mol)? 2 x 890 = <b>1,780 kJ</b> released. In grams: 2 mol x 16 g/mol = 32 g of methane.</p>"
+  },
+  {
+   "tag": "Misconceptions",
+   "h": "Not quite",
+   "b": "<ul><li><b>Heat and temperature are different.</b> A bathtub of warm water holds more heat than a cup of boiling water.</li><li><b>Exothermic does not mean explosive.</b> Rusting is exothermic but very slow.</li><li><b>Negative delta H means energy leaves the system</b>, it is not 'less energy' in a bad sense.</li><li><b>Breaking bonds absorbs energy</b>; it does not release it.</li></ul>"
+  },
+  {
+   "tag": "Indian angle",
+   "h": "Cooking fuels and biogas",
+   "b": "<p>Most Indian homes cook with LPG (propane and butane), which releases large heat per kilogram. The <b>Pradhan Mantri Ujjwala Yojana</b> (2016) gave millions of rural households LPG connections, replacing smoky wood and dung and cutting indoor air pollution. Rural <b>biogas plants</b> convert cattle dung to methane, whose burning is the exothermic reaction above.</p>"
+  },
+  {
+   "tag": "Recap",
+   "h": "Key takeaways",
+   "b": "<ul><li>Exothermic: delta H negative; endothermic: positive.</li><li>q = m c delta T; Hess's law adds step energies.</li><li>Spontaneity: delta G = delta H - T delta S, negative means spontaneous.</li></ul><div class=\"box\"><h4>Think about it</h4><p>1. Why does sweating cool the body (evaporation is endothermic)?</p><p>2. Can an endothermic reaction be spontaneous? How?</p></div>",
+   "cls": "exam"
+  }
+ ],
+ "quiz": [
+  {
+   "q": "An exothermic reaction has delta H:",
+   "o": [
+    "Negative",
+    "Positive",
+    "Zero always",
+    "Infinite"
+   ],
+   "a": 0,
+   "w": "Energy released."
+  },
+  {
+   "q": "Which is endothermic?",
+   "o": [
+    "Melting ice",
+    "Burning wood",
+    "Rusting iron",
+    "Neutralising an acid"
+   ],
+   "a": 0,
+   "w": "Melting absorbs heat."
+  },
+  {
+   "q": "Heat to raise 50 g water by 10 °C (c = 4.18)?",
+   "o": [
+    "209 J",
+    "500 J",
+    "2,090 J",
+    "4,180 J"
+   ],
+   "a": 2,
+   "w": "50 x 4.18 x 10."
+  },
+  {
+   "q": "Heat released by 3 mol methane (delta H = -890 kJ/mol)?",
+   "o": [
+    "2,670 kJ",
+    "890 kJ",
+    "1,780 kJ",
+    "297 kJ"
+   ],
+   "a": 0,
+   "w": "3 x 890."
+  },
+  {
+   "q": "Hess's law states:",
+   "o": [
+    "Total enthalpy change is route-independent",
+    "Mass is conserved",
+    "Heat equals work",
+    "Entropy always falls"
+   ],
+   "a": 0,
+   "w": "Heat change depends on start and end states."
+  },
+  {
+   "q": "Spontaneous reaction has delta G:",
+   "o": [
+    "Positive",
+    "Negative",
+    "Zero",
+    "Equal to delta H"
+   ],
+   "a": 1,
+   "w": "Negative delta G."
+  },
+  {
+   "q": "Breaking chemical bonds:",
+   "o": [
+    "Absorbs energy",
+    "Releases energy",
+    "Creates energy",
+    "Has no energy change"
+   ],
+   "a": 0,
+   "w": "Bond formation releases it."
+  },
+  {
+   "q": "Entropy measures:",
+   "o": [
+    "Temperature",
+    "Pressure",
+    "Mass",
+    "Disorder"
+   ],
+   "a": 3,
+   "w": "Number of ways to arrange the system."
+  },
+  {
+   "q": "Specific heat of water is about:",
+   "o": [
+    "4.18 J/g per °C",
+    "1 J/g per °C",
+    "100 J/g per °C",
+    "0.1 J/g per °C"
+   ],
+   "a": 0,
+   "w": "Unusually high."
+  },
+  {
+   "q": "Biogas is mainly:",
+   "o": [
+    "Propane",
+    "Methane",
+    "Hydrogen",
+    "Carbon monoxide"
+   ],
+   "a": 1,
+   "w": "From fermented dung."
+  }
+ ],
+ "sources": [
+  "Standard school and university chemistry texts"
+ ],
+ "verified": "2026-11-11"
+}

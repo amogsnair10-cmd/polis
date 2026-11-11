@@ -1,0 +1,174 @@
+{
+ "id": "4-0-0",
+ "title": "Chemistry of Everyday Life: Food, Medicine, Cleaning",
+ "emoji": "🧼",
+ "cards": [
+  {
+   "tag": "Why this matters",
+   "h": "Chemistry at home",
+   "b": "<p>Every kitchen, bathroom and medicine cabinet is a chemistry lab. Baking soda, soap, aspirin, preservatives and antiseptics all work by reactions you now know.</p>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "Cooking is chemistry",
+   "b": "<ul><li><b>Baking powder and soda:</b> sodium bicarbonate releases CO2 when heated or mixed with acid: <b>2NaHCO3 → Na2CO3 + H2O + CO2</b>. The gas makes cake and idli batter rise.</li><li><b>Maillard browning:</b> sugars and amino acids brown on heat, giving roast flavour.</li><li><b>Fermentation:</b> yeast or bacteria turn sugars into gas, alcohol or lactic acid (dahi, idli, bread).</li></ul>"
+  },
+  {
+   "tag": "Key idea",
+   "h": "Food preservation",
+   "b": "<p>Spoilage comes from microbes and oxidation. Preservation slows them:</p><ul><li><b>Salt and sugar</b> pull water out of microbes (osmosis); pickles, jams.</li><li><b>Acids</b> (vinegar, lemon) lower pH.</li><li><b>Antioxidants</b> (vitamin C) stop fats going rancid.</li><li><b>Cold and drying</b> slow reactions.</li></ul><p>Food additives: colours, flavours, emulsifiers and preservatives (e.g. sodium benzoate).</p>"
+  },
+  {
+   "tag": "Key idea",
+   "h": "How soap cleans",
+   "b": "<p>Soap is made by <b>saponification</b>: fat + NaOH → soap + glycerol. A soap molecule has a water-loving head and a grease-loving tail. The tails grip oil, the heads face water, forming <b>micelles</b> that wash away.</p><svg class=\"d\" viewBox=\"0 0 320 136\"><defs><marker id=\"m1\" markerWidth=\"8\" markerHeight=\"8\" refX=\"6\" refY=\"4\" orient=\"auto\"><path d=\"M0,0 L8,4 L0,8 z\" fill=\"#5d6474\"/></marker></defs><rect x=\"20\" y=\"4\" width=\"280\" height=\"30\" rx=\"6\" fill=\"#f1e4c6\" stroke=\"#a8792a\"/><text x=\"160\" y=\"23\" text-anchor=\"middle\" font-size=\"11\" fill=\"#1d2433\">Tail sticks into grease</text><line x1=\"160\" y1=\"34\" x2=\"160\" y2=\"47\" stroke=\"#5d6474\" marker-end=\"url(#m1)\"/><rect x=\"20\" y=\"48\" width=\"280\" height=\"30\" rx=\"6\" fill=\"#f1e4c6\" stroke=\"#a8792a\"/><text x=\"160\" y=\"67\" text-anchor=\"middle\" font-size=\"11\" fill=\"#1d2433\">Heads face water: micelle forms</text><line x1=\"160\" y1=\"78\" x2=\"160\" y2=\"91\" stroke=\"#5d6474\" marker-end=\"url(#m1)\"/><rect x=\"20\" y=\"92\" width=\"280\" height=\"30\" rx=\"6\" fill=\"#f1e4c6\" stroke=\"#a8792a\"/><text x=\"160\" y=\"111\" text-anchor=\"middle\" font-size=\"11\" fill=\"#1d2433\">Rinsing carries grease away</text></svg><p><b>Detergents</b> are synthetic cleaners that work even in hard water, where soap forms scum with calcium and magnesium ions.</p>"
+  },
+  {
+   "tag": "Key idea",
+   "h": "Medicines",
+   "b": "<ul><li><b>Analgesics:</b> aspirin (acetylsalicylic acid, developed by Bayer, 1897) and paracetamol.</li><li><b>Antibiotics:</b> penicillin, discovered by Alexander Fleming in 1928, developed as a drug by Florey and Chain around 1940.</li><li><b>Antacids:</b> neutralise stomach acid (magnesium hydroxide).</li><li><b>Antiseptics</b> on skin and <b>disinfectants</b> on surfaces.</li><li><b>Antihistamines:</b> reduce allergies.</li></ul><p>Antibiotics kill bacteria, not viruses. Misuse breeds resistant bacteria.</p>"
+  },
+  {
+   "tag": "Key idea",
+   "h": "Cosmetics and household chemistry",
+   "b": "<p>Toothpaste uses mild abrasives and fluoride, which strengthens enamel. Bleach (sodium hypochlorite) oxidises stains and kills germs. Never mix bleach with an acid or ammonia-based cleaner, as toxic chlorine or chloramine gas can form.</p>"
+  },
+  {
+   "tag": "Worked example",
+   "h": "How much acid is in vinegar?",
+   "b": "<p>Vinegar is about 5 percent acetic acid by mass. In 200 g of vinegar: 200 x 0.05 = <b>10 g</b> of acetic acid. Molar mass of CH3COOH = 60 g/mol, so moles = 10 / 60 = <b>0.167 mol</b>.</p><p>Baking soda: 2NaHCO3 → Na2CO3 + H2O + CO2. 168 g (2 mol, 84 g/mol each) gives 1 mol CO2 = 44 g.</p>"
+  },
+  {
+   "tag": "Misconceptions",
+   "h": "Careful",
+   "b": "<ul><li><b>'Chemical-free' does not exist.</b> Water is a chemical.</li><li><b>Natural does not mean safe</b> (some mushrooms are deadly); <b>synthetic does not mean harmful</b>.</li><li><b>Antibiotics do not treat colds</b> (viruses).</li><li><b>More soap does not mean cleaner;</b> it is the micelle action that cleans.</li></ul>"
+  },
+  {
+   "tag": "Indian angle",
+   "h": "Turmeric, generics and Hamied",
+   "b": "<p><b>Turmeric</b> contains curcumin, a yellow antioxidant studied worldwide. India is often called the 'pharmacy of the world', a leading supplier of generic medicines by volume. <b>Yusuf Hamied</b> of Cipla offered triple-drug HIV therapy at about 350 US dollars per patient per year in 2001, opening access to millions. <b>Hindustan Antibiotics</b> in Pimpri began penicillin production in 1954.</p>"
+  },
+  {
+   "tag": "Recap",
+   "h": "Key takeaways",
+   "b": "<ul><li>Baking soda releases CO2; fermentation makes bread, dahi and alcohol.</li><li>Soap micelles trap grease; detergents work in hard water.</li><li>Medicines like aspirin and penicillin are targeted organic molecules.</li></ul><div class=\"box\"><h4>Think about it</h4><p>1. Why does salting preserve pickles?</p><p>2. Why mix soap with water, not oil, to wash oily hands?</p></div>",
+   "cls": "exam"
+  }
+ ],
+ "quiz": [
+  {
+   "q": "Gas that makes cakes rise with baking soda:",
+   "o": [
+    "CO2",
+    "O2",
+    "N2",
+    "H2"
+   ],
+   "a": 0,
+   "w": "2NaHCO3 → Na2CO3 + H2O + CO2."
+  },
+  {
+   "q": "Soap is made by:",
+   "o": [
+    "Saponification",
+    "Distillation",
+    "Polymerisation",
+    "Fermentation"
+   ],
+   "a": 0,
+   "w": "Fat + NaOH."
+  },
+  {
+   "q": "Micelles form because soap has:",
+   "o": [
+    "A water-loving head and a grease-loving tail",
+    "Only a head",
+    "Only a tail",
+    "Two heads"
+   ],
+   "a": 0,
+   "w": "Amphiphilic."
+  },
+  {
+   "q": "Who discovered penicillin in 1928?",
+   "o": [
+    "Pasteur",
+    "Fleming",
+    "Koch",
+    "Hamied"
+   ],
+   "a": 1,
+   "w": "Alexander Fleming."
+  },
+  {
+   "q": "Grams of acid in 400 g of 5 percent vinegar?",
+   "o": [
+    "20 g",
+    "5 g",
+    "2 g",
+    "50 g"
+   ],
+   "a": 0,
+   "w": "400 x 0.05."
+  },
+  {
+   "q": "Moles in 30 g acetic acid (60 g/mol)?",
+   "o": [
+    "0.5",
+    "2",
+    "0.05",
+    "30"
+   ],
+   "a": 0,
+   "w": "30 / 60."
+  },
+  {
+   "q": "Why avoid mixing bleach with acids?",
+   "o": [
+    "It explodes always",
+    "It forms soap",
+    "Toxic chlorine gas can form",
+    "It cools"
+   ],
+   "a": 2,
+   "w": "Hypochlorite plus acid."
+  },
+  {
+   "q": "Antibiotics work against:",
+   "o": [
+    "Bacteria",
+    "Viruses",
+    "All germs equally",
+    "Allergies"
+   ],
+   "a": 0,
+   "w": "Not viruses."
+  },
+  {
+   "q": "Salting pickles preserves them by:",
+   "o": [
+    "Adding oxygen",
+    "Drawing water out of microbes",
+    "Making sugar",
+    "Heating"
+   ],
+   "a": 1,
+   "w": "Osmosis."
+  },
+  {
+   "q": "Hindustan Antibiotics, Pimpri started penicillin in:",
+   "o": [
+    "1904",
+    "1990",
+    "1930",
+    "1954"
+   ],
+   "a": 3,
+   "w": "India's first public-sector antibiotics plant."
+  }
+ ],
+ "sources": [
+  "Standard school and university chemistry texts"
+ ],
+ "verified": "2026-11-11"
+}

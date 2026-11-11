@@ -1,0 +1,177 @@
+{
+ "id": "2-0-3",
+ "title": "Magnetism and Electromagnetic Induction",
+ "emoji": "🧲",
+ "cards": [
+  {
+   "tag": "Why this matters",
+   "h": "Electricity and magnetism are one thing",
+   "b": "<p>For centuries, electricity (amber and sparks) and magnetism (lodestones and compasses) looked like different subjects. Then, in the 1800s, experiments showed each makes the other. That discovery gave us electric motors, generators, transformers and eventually radio.</p><p>Almost all the electricity you use is produced by moving a magnet near a coil of wire.</p>"
+  },
+  {
+   "tag": "Concept",
+   "h": "Magnets and magnetic fields",
+   "b": "<p>Every magnet has a north and south pole. Like poles repel; unlike attract. Cut a magnet in half and you get two smaller magnets, never a single pole: <b>no magnetic monopole</b> has ever been found.</p><p>A magnet fills space with a <b>magnetic field</b> (B, measured in tesla), with lines running from north to south outside the magnet. A compass needle lines up with Earth's field because Earth itself acts like a giant magnet."
+  },
+  {
+   "tag": "Concept",
+   "h": "Oersted: currents make magnetic fields",
+   "b": "<p>In 1820, Hans Christian Oersted noticed a compass needle swing when a wire nearby carried current. Moving charge creates a magnetic field.</p><p>A straight wire makes circular field lines around it. Wind the wire into a coil (a <b>solenoid</b>) and the fields add up, making a strong, bar-magnet-like field inside. Put in an iron core and you get an electromagnet, the heart of cranes, relays and bells."
+  },
+  {
+   "tag": "Concept",
+   "h": "Magnetic force on charges and wires",
+   "b": "<p>A magnetic field pushes sideways on a moving charge, at right angles to both its motion and the field:</p><div class=\"box\"><h4>Magnetic force</h4>F = q v B (charge moving at right angles to B)<br>F = B I L (wire of length L carrying current I)</div><p>Because the force is sideways, it makes charges move in circles. This bends particle beams in accelerators. The same force on a current-carrying coil makes it turn: that is an <b>electric motor</b>."
+  },
+  {
+   "tag": "Concept",
+   "h": "Faraday's induction",
+   "b": "<p>Michael Faraday asked in 1831: if current makes magnetism, can magnetism make current? Yes, but only when the field is <i>changing</i>. Push a magnet into a coil and a voltage appears.</p><div class=\"box\"><h4>Faraday's law</h4>induced voltage = rate of change of magnetic flux (number of turns x B x area)</div><p>Faster motion, stronger magnet or more turns give more voltage. Joseph Henry in America found the same effect around the same time.</p><svg class=\"d\" viewBox=\"0 0 320 150\"><defs><marker id=\"n1\" markerWidth=\"8\" markerHeight=\"8\" refX=\"7\" refY=\"4\" orient=\"auto\"><path d=\"M0,0 L8,4 L0,8z\" fill=\"#a3362a\"/></marker></defs><rect x=\"20\" y=\"55\" width=\"50\" height=\"30\" fill=\"#f4dcd5\" stroke=\"#a3362a\" stroke-width=\"2\"/><text x=\"35\" y=\"75\" font-size=\"12\" fill=\"#1d2433\">N</text><rect x=\"70\" y=\"55\" width=\"50\" height=\"30\" fill=\"#dceaec\" stroke=\"#2f6f7a\" stroke-width=\"2\"/><text x=\"90\" y=\"75\" font-size=\"12\" fill=\"#1d2433\">S</text><line x1=\"45\" y1=\"55\" x2=\"45\" y2=\"45\" stroke=\"#5d6474\"/><path d=\"M20,52 Q-5,10 70,10 Q145,10 120,52\" fill=\"none\" stroke=\"#5d6474\" stroke-width=\"1.5\" marker-end=\"url(#n1)\"/><ellipse cx=\"240\" cy=\"75\" rx=\"16\" ry=\"40\" fill=\"none\" stroke=\"#a8792a\" stroke-width=\"3\"/><ellipse cx=\"260\" cy=\"75\" rx=\"16\" ry=\"40\" fill=\"none\" stroke=\"#a8792a\" stroke-width=\"3\"/><line x1=\"140\" y1=\"75\" x2=\"215\" y2=\"75\" stroke=\"#a3362a\" stroke-width=\"2.5\" marker-end=\"url(#n1)\"/><text x=\"130\" y=\"65\" font-size=\"10\" fill=\"#a3362a\">magnet moves in</text><text x=\"205\" y=\"135\" font-size=\"10\" fill=\"#1d2433\">changing flux gives voltage in coil</text></svg>"
+  },
+  {
+   "tag": "Concept",
+   "h": "Lenz's law and the generator",
+   "b": "<p>Heinrich Lenz showed that the induced current always opposes the change that causes it. This is conservation of energy: if it helped the change, you would get free energy. Push the magnet in and you feel a resistance; that effort is the energy you convert to electricity.</p><p>A <b>generator</b> spins a coil in a magnetic field, so the flux keeps changing and an alternating voltage appears. The spinning is done by steam, water, wind or diesel. A <b>motor</b> is the reverse: current in, spinning out."
+  },
+  {
+   "tag": "Worked example",
+   "h": "Force on a wire",
+   "b": "<p>A wire 0.5 m long carries 2 A in a field of 0.1 tesla at right angles.</p><p>F = B I L = 0.1 x 2 x 0.5 = <b>0.1 N</b>.</p><p>For induction: a coil of 100 turns, with area 0.01 square metres, has flux in a 0.2 T field going from 0.2 x 0.01 x 100 to zero in 0.1 s. Voltage = (0.2 x 0.01 x 100) / 0.1 = <b>2 V</b>. Spin it faster and the voltage rises."
+  },
+  {
+   "tag": "Misconceptions",
+   "h": "Magnetism mix-ups",
+   "b": "<ul><li><b>'A steady magnet near a coil makes current.'</b> Only a <i>changing</i> field does. A still magnet does nothing.</li><li><b>'Magnetic force does work on charges.'</b> The force is always sideways to the motion, so it changes direction but not speed.</li><li><b>'Earth's north pole attracts the compass north.'</b> The geographic north is near Earth's magnetic south pole; opposites attract.</li></ul>"
+  },
+  {
+   "tag": "Indian angle",
+   "h": "Thumba, the magnetic equator and the first rocket",
+   "b": "<p>The earth's magnetic equator passes close to Thiruvananthapuram. That is a main reason the Thumba Equatorial Rocket Launching Station was set up there, from where India's first sounding rocket was launched on 21 November 1963. Scientists studied the equatorial electrojet, a current in the upper atmosphere, using such rockets.</p><p>Nearly all of India's power, from hydro to thermal to wind, comes from generators working on Faraday's law."
+  },
+  {
+   "tag": "Recap",
+   "h": "Key takeaways",
+   "b": "<ul><li>Moving charges create magnetic fields (Oersted, 1820).</li><li>A field exerts force F = qvB on charges, F = BIL on wires; motors use this.</li><li>A changing flux induces a voltage (Faraday, 1831); generators use this.</li><li>Lenz: the induced effect opposes the change.</li></ul><div class=\"box\"><h4>Think about it</h4>1. Why does a magnet dropped through a copper tube fall slowly?<br>2. A motor can also act as a generator. Why?</div>",
+   "cls": "exam"
+  }
+ ],
+ "quiz": [
+  {
+   "q": "Oersted discovered in 1820 that",
+   "o": [
+    "Magnets attract iron",
+    "A current produces a magnetic field",
+    "Light is a wave",
+    "Charges are quantised"
+   ],
+   "a": 1,
+   "w": "A current deflected a compass."
+  },
+  {
+   "q": "The SI unit of magnetic field is the",
+   "o": [
+    "Tesla",
+    "Weber",
+    "Henry",
+    "Farad"
+   ],
+   "a": 0,
+   "w": "B is measured in tesla."
+  },
+  {
+   "q": "A voltage is induced in a coil when",
+   "o": [
+    "A magnet is held still beside it",
+    "Magnetic flux through it changes",
+    "It is heated",
+    "It is cooled"
+   ],
+   "a": 1,
+   "w": "Faraday's law."
+  },
+  {
+   "q": "A wire of 0.4 m carries 5 A in a 0.5 T field at right angles. Force?",
+   "o": [
+    "1 N",
+    "10 N",
+    "0.1 N",
+    "2.5 N"
+   ],
+   "a": 0,
+   "w": "0.5 x 5 x 0.4."
+  },
+  {
+   "q": "A magnetic force on a moving charge is",
+   "o": [
+    "Along its motion",
+    "At right angles to its motion",
+    "Opposite its motion",
+    "Zero always"
+   ],
+   "a": 1,
+   "w": "It is sideways."
+  },
+  {
+   "q": "Lenz's law is an example of conservation of",
+   "o": [
+    "Charge",
+    "Mass",
+    "Energy",
+    "Momentum"
+   ],
+   "a": 2,
+   "w": "Induced current opposes the change."
+  },
+  {
+   "q": "A generator converts",
+   "o": [
+    "Electrical to mechanical energy",
+    "Mechanical to electrical energy",
+    "Heat to light",
+    "Light to heat"
+   ],
+   "a": 1,
+   "w": "Rotation produces voltage."
+  },
+  {
+   "q": "If you cut a bar magnet in half you get",
+   "o": [
+    "One N and one S pole",
+    "Two magnets, each with N and S",
+    "A pure north piece",
+    "Nothing magnetic"
+   ],
+   "a": 1,
+   "w": "No monopoles."
+  },
+  {
+   "q": "Faraday discovered electromagnetic induction in",
+   "o": [
+    "1820",
+    "1831",
+    "1865",
+    "1900"
+   ],
+   "a": 1,
+   "w": "1831."
+  },
+  {
+   "q": "Why was Thumba near Thiruvananthapuram chosen for ISRO's start?",
+   "o": [
+    "Close to the magnetic equator",
+    "Close to the Himalayas",
+    "It is the highest place in India",
+    "It is a desert"
+   ],
+   "a": 0,
+   "w": "Equatorial studies of the upper atmosphere."
+  }
+ ],
+ "sources": [
+  "NCERT Physics Class 11-12",
+  "Halliday, Resnick and Walker, Fundamentals of Physics",
+  "Faraday (1831); Oersted (1820)",
+  "ISRO history: Thumba 1963"
+ ],
+ "verified": "2026-11-11"
+}

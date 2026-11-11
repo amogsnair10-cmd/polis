@@ -1,0 +1,174 @@
+{
+ "id": "2-0-1",
+ "title": "Non-metals: Hydrogen, Carbon, Nitrogen, Oxygen, Halogens",
+ "emoji": "🌫️",
+ "cards": [
+  {
+   "tag": "Why this matters",
+   "h": "The elements of life and industry",
+   "b": "<p>You breathe oxygen, eat carbon compounds, grow food with nitrogen fertiliser, drink chlorinated water and may soon run vehicles on hydrogen. A handful of non-metals do much of the work of the living world and chemical industry.</p>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "What non-metals are like",
+   "b": "<p>Non-metals sit on the upper right of the periodic table. They are poor conductors (graphite is an exception), brittle when solid, and tend to gain electrons or share them. They form covalent compounds and acidic oxides (CO2 + H2O makes carbonic acid).</p>"
+  },
+  {
+   "tag": "Key idea",
+   "h": "Hydrogen",
+   "b": "<p>The lightest, most abundant element in the universe. As H2 it is a colourless gas that burns to water: 2H2 + O2 → 2H2O, with large energy per kilogram and no carbon dioxide.</p><p>Made industrially by steam reforming of natural gas (CH4 + H2O → CO + 3H2) or by electrolysis of water. 'Green hydrogen' uses renewable power for electrolysis. Henry Cavendish identified it in 1766.</p>"
+  },
+  {
+   "tag": "Key idea",
+   "h": "Carbon",
+   "b": "<p>Carbon appears in several forms (allotropes).</p><ul><li><b>Diamond:</b> each C bonded to four others; hardest, insulator.</li><li><b>Graphite:</b> layers of hexagons, soft, conducts electricity.</li><li><b>Graphene:</b> a single layer of graphite.</li><li><b>Fullerene C60:</b> a football-shaped molecule (1985).</li></ul><p>Carbon dioxide (CO2) is the gas of respiration and combustion; carbon monoxide (CO) is a poisonous gas from incomplete burning that binds to haemoglobin.</p>"
+  },
+  {
+   "tag": "Key idea",
+   "h": "Nitrogen and oxygen",
+   "b": "<p><b>Nitrogen</b> makes up 78 percent of air. N2 has a triple bond, so it is very unreactive. Plants cannot use it directly; bacteria in legume roots, lightning and the Haber process turn it into ammonia and nitrates.</p><p><b>Oxygen</b> is 21 percent of air. Discovered independently by Scheele (about 1771) and Priestley (1774), named by Lavoisier. It supports combustion and respiration. Ozone, O3, in the stratosphere absorbs harmful UV light.</p><svg class=\"d\" viewBox=\"0 0 320 48\"><defs><marker id=\"m1\" markerWidth=\"8\" markerHeight=\"8\" refX=\"6\" refY=\"4\" orient=\"auto\"><path d=\"M0,0 L8,4 L0,8 z\" fill=\"#5d6474\"/></marker></defs><rect x=\"20\" y=\"4\" width=\"280\" height=\"30\" rx=\"6\" fill=\"#f1e4c6\" stroke=\"#a8792a\"/><text x=\"160\" y=\"23\" text-anchor=\"middle\" font-size=\"11\" fill=\"#1d2433\">Air: 78% N2, 21% O2, ~1% argon, CO2</text></svg>"
+  },
+  {
+   "tag": "Key idea",
+   "h": "The halogens",
+   "b": "<p>Group 17: fluorine (F), chlorine (Cl), bromine (Br), iodine (I). They have 7 outer electrons and form X- ions or one bond. Reactivity decreases down the group: F2 is the most reactive.</p><p>Appearance: F2 pale yellow gas, Cl2 green-yellow gas, Br2 red-brown liquid, I2 grey solid. A more reactive halogen displaces a less reactive one: Cl2 + 2KBr → 2KCl + Br2.</p><p>Chlorine disinfects water. Chlor-alkali industry: <b>2NaCl + 2H2O → 2NaOH + Cl2 + H2</b>.</p>"
+  },
+  {
+   "tag": "Worked example",
+   "h": "Air and gases",
+   "b": "<p>How many litres of oxygen in 50 L of air? 21 percent of 50 = <b>10.5 L</b>.</p><p>Which displaces which? Add bromine water to potassium iodide: Br2 + 2KI → 2KBr + I2. Bromine is above iodine, so the solution turns brown/violet with iodine.</p><p>Mass of hydrogen in 18 g of water: H is 2/18 of the mass, so 18 x 2/18 = <b>2 g</b>.</p>"
+  },
+  {
+   "tag": "Misconceptions",
+   "h": "Careful",
+   "b": "<ul><li><b>Nitrogen is not what we breathe in for life.</b> It is inert in the lungs.</li><li><b>Diamond and graphite are both pure carbon</b>, different only in arrangement.</li><li><b>'Chlorine in tap water' is a tiny dose</b> that kills germs; chlorine gas itself is toxic.</li><li><b>Hydrogen is not an energy source</b> like oil; it is a carrier that must be made first.</li></ul>"
+  },
+  {
+   "tag": "Indian angle",
+   "h": "Green hydrogen and iodised salt",
+   "b": "<p>India launched the <b>National Green Hydrogen Mission</b> in January 2023, with a target of 5 million tonnes of green hydrogen a year by 2030.</p><p>Iodine (a halogen) prevents goitre. India's national goitre control efforts began in 1962, and universal salt iodisation became national policy by 1992. <b>Tata Chemicals</b> at Mithapur, Gujarat, produces soda ash and salt from sea brine.</p>"
+  },
+  {
+   "tag": "Recap",
+   "h": "Key takeaways",
+   "b": "<ul><li>H2 burns to water; green hydrogen is made by electrolysis with renewable power.</li><li>Carbon allotropes: diamond, graphite, graphene, fullerene.</li><li>Air: 78 percent N2, 21 percent O2. Halogens grow less reactive down the group.</li></ul><div class=\"box\"><h4>Think about it</h4><p>1. Why does graphite conduct while diamond does not?</p><p>2. Why is nitrogen gas so inert?</p></div>",
+   "cls": "exam"
+  }
+ ],
+ "quiz": [
+  {
+   "q": "Percent of air that is nitrogen?",
+   "o": [
+    "78",
+    "21",
+    "1",
+    "50"
+   ],
+   "a": 0,
+   "w": "About 78 percent."
+  },
+  {
+   "q": "Allotrope of carbon that conducts electricity?",
+   "o": [
+    "Graphite",
+    "Diamond",
+    "Fullerene only",
+    "Carbon dioxide"
+   ],
+   "a": 0,
+   "w": "Free electrons in layers."
+  },
+  {
+   "q": "Most reactive halogen?",
+   "o": [
+    "Fluorine",
+    "Iodine",
+    "Bromine",
+    "Chlorine"
+   ],
+   "a": 0,
+   "w": "Reactivity falls down the group."
+  },
+  {
+   "q": "Cl2 + 2KBr gives:",
+   "o": [
+    "2KCl + Br2",
+    "2KBr + Cl2",
+    "KCl + Br",
+    "No reaction"
+   ],
+   "a": 0,
+   "w": "Chlorine displaces bromine."
+  },
+  {
+   "q": "Oxygen in 200 L of air (21 percent)?",
+   "o": [
+    "21 L",
+    "78 L",
+    "42 L",
+    "200 L"
+   ],
+   "a": 2,
+   "w": "0.21 x 200."
+  },
+  {
+   "q": "Chlor-alkali process products:",
+   "o": [
+    "NaOH, Cl2, H2",
+    "Na, Cl2, O2",
+    "HCl, NaOH, O2",
+    "NaCl, H2O"
+   ],
+   "a": 0,
+   "w": "Electrolysis of brine."
+  },
+  {
+   "q": "Why is N2 unreactive?",
+   "o": [
+    "It is ionic",
+    "Strong triple bond",
+    "It has no electrons",
+    "It is a metal"
+   ],
+   "a": 1,
+   "w": "Hard to break."
+  },
+  {
+   "q": "Gas that binds to haemoglobin dangerously:",
+   "o": [
+    "Carbon monoxide",
+    "Nitrogen",
+    "Hydrogen",
+    "Argon"
+   ],
+   "a": 0,
+   "w": "CO."
+  },
+  {
+   "q": "Mass of hydrogen in 36 g water?",
+   "o": [
+    "2 g",
+    "32 g",
+    "18 g",
+    "4 g"
+   ],
+   "a": 3,
+   "w": "36 x 2/18 = 4."
+  },
+  {
+   "q": "India's National Green Hydrogen Mission was approved in:",
+   "o": [
+    "January 2023",
+    "January 2013",
+    "March 2000",
+    "December 2018"
+   ],
+   "a": 0,
+   "w": "Target 5 MMT by 2030."
+  }
+ ],
+ "sources": [
+  "Standard school and university chemistry texts; India National Green Hydrogen Mission (2023)"
+ ],
+ "verified": "2026-11-11"
+}

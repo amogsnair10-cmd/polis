@@ -1,0 +1,182 @@
+{
+ "id": "0-0-3",
+ "title": "From Ptolemy to Copernicus, Kepler and Galileo",
+ "emoji": "🔭",
+ "cards": [
+  {
+   "tag": "Why this matters",
+   "h": "How a hard-headed puzzle became a revolution",
+   "b": "<p>For 1,400 years Earth was the centre of the universe. Then, in 150 years, we learned it was just a planet. This is the story of how science changes its mind: not by opinion but by better measurement and sharper reasoning.</p>"
+  },
+  {
+   "tag": "Concept",
+   "h": "Ptolemy: a model that predicts",
+   "b": "<p>Claudius Ptolemy (c. 150 CE, <i>Almagest</i>) put Earth at the centre. To explain retrograde loops he had planets move on small circles (<b>epicycles</b>) whose centres move on larger circles (<b>deferents</b>).</p><p>The model worked for predictions and lasted over a millennium. It is not stupid: it matched observations. Its weakness was growing complexity.</p>"
+  },
+  {
+   "tag": "Concept",
+   "h": "Copernicus: the simpler arrangement",
+   "b": "<p><b>Nicolaus Copernicus</b>, in <i>De revolutionibus</i> (1543), put the Sun at the centre and set Earth moving. Retrograde motion became a natural effect of Earth overtaking planets, without big epicycles. Earth now had three motions: rotating daily, orbiting yearly and a slow tilt shift.</p><p>An early heliocentric idea had been made by <b>Aristarchus</b> of Samos around 270 BCE, but it did not win.</p>"
+  },
+  {
+   "tag": "Concept",
+   "h": "Tycho: better data",
+   "b": "<p><b>Tycho Brahe</b> (1546-1601) built large instruments and recorded planetary positions for decades, to about 1 arcminute precision, the best before the telescope. He did not accept Earth's motion, but his data decided the matter later.</p>"
+  },
+  {
+   "tag": "Concept",
+   "h": "Kepler's three laws",
+   "b": "<p><b>Johannes Kepler</b> used Tycho's Mars data to find that orbits are not circles:</p><ol><li><b>Ellipse law (1609):</b> planets move in ellipses with the Sun at one focus.</li><li><b>Equal-area law (1609):</b> a line from Sun to planet sweeps equal areas in equal times, so planets move faster when closer.</li><li><b>Harmonic law (1619):</b> T squared is proportional to a cubed (period vs average distance).</li></ol><svg class=\"d\" viewBox=\"0 0 320 140\"><defs><marker id=\"ar1\" viewBox=\"0 0 10 10\" refX=\"9\" refY=\"5\" markerWidth=\"6\" markerHeight=\"6\" orient=\"auto\"><path d=\"M0 0L10 5L0 10z\" fill=\"#5d6474\"/></marker></defs><circle cx=\"110\" cy=\"70\" r=\"8\" fill=\"#f1e4c6\" stroke=\"#a8792a\"/><text x=\"110\" y=\"74\" text-anchor=\"middle\" font-size=\"10\" fill=\"#1d2433\">Sun</text><ellipse cx=\"160\" cy=\"70\" rx=\"115\" ry=\"55\" fill=\"none\" stroke=\"#2f6f7a\"/><circle cx=\"50\" cy=\"70\" r=\"5\" fill=\"#dceaec\" stroke=\"#2f6f7a\"/><circle cx=\"270\" cy=\"70\" r=\"5\" fill=\"#dceaec\" stroke=\"#2f6f7a\"/><text x=\"160\" y=\"20\" text-anchor=\"middle\" font-size=\"10\" fill=\"#1d2433\">Ellipse (Kepler)</text><text x=\"160\" y=\"135\" text-anchor=\"middle\" font-size=\"10\" fill=\"#5d6474\">Sun sits at one focus, not the centre</text></svg>"
+  },
+  {
+   "tag": "Concept",
+   "h": "Galileo: the telescope as evidence",
+   "b": "<p>In 1610 <b>Galileo</b> (<i>Sidereus Nuncius</i>) saw four moons orbiting Jupiter, so not everything orbits Earth. He saw the full set of phases of Venus, which only fit if Venus circles the Sun. He saw lunar mountains, sunspots and countless new stars in the Milky Way.</p><p>In 1633 the Inquisition forced him to recant. The evidence stayed.</p>"
+  },
+  {
+   "tag": "Concept",
+   "h": "Newton: the why",
+   "b": "<p>Kepler described how planets move; <b>Isaac Newton</b> explained why. In the <i>Principia</i> (1687) he showed that one law of gravity (force falls as the square of distance) produces Kepler's three laws and also explains falling apples and tides.</p><p>Gravity on Earth and in the sky was suddenly one thing.</p>"
+  },
+  {
+   "tag": "How we know",
+   "h": "The test that settled it",
+   "b": "<p>Predictions had to match nature. Venus's phases favoured the Sun-centred view; Tycho's precise data forced ellipses; stellar parallax, a tiny yearly shift in star positions, finally proved Earth's motion when Friedrich Bessel measured it for the star 61 Cygni in 1838.</p><p>Models are kept when they predict, dropped when they cannot.</p>"
+  },
+  {
+   "tag": "Misconceptions",
+   "h": "Common myths",
+   "b": "<ul><li><b>'Everyone before Columbus thought Earth was flat.'</b> Educated people knew it was round; Eratosthenes estimated its size about 240 BCE.</li><li><b>'Copernicus's circles were exact.'</b> His system still used small epicycles; Kepler's ellipses fixed it.</li><li><b>'Galileo invented the telescope.'</b> The Dutch did, in 1608; he improved it and pointed it at the sky.</li></ul>"
+  },
+  {
+   "tag": "Indian angle",
+   "h": "Aryabhata to Nilakantha",
+   "b": "<p><b>Aryabhata</b> (499 CE) stated that Earth rotates on its axis. The Kerala school's <b>Nilakantha Somayaji</b> (<i>Tantrasamgraha</i>, 1500 CE) proposed that Mercury, Venus, Mars, Jupiter and Saturn orbit the Sun, which then goes around Earth, a model close to Tycho's, decades before Tycho. <b>Madhava</b> (c. 1350-1425) found infinite series for sine and pi, tools useful for calculating planetary positions.</p>"
+  },
+  {
+   "tag": "Recap",
+   "h": "Key takeaways",
+   "b": "<ul><li>Ptolemy's Earth-centred model predicted well but grew complex.</li><li>Copernicus (1543) made retrograde motion natural with a Sun-centred view.</li><li>Kepler: ellipses, equal areas, T squared to a cubed.</li><li>Galileo's telescope gave decisive evidence; Newton explained it all with gravity.</li></ul><p><b>Think about it:</b> (1) Why did a simpler model not win immediately? (2) What kind of observation would show that Earth really moves?</p>",
+   "cls": "exam"
+  }
+ ],
+ "quiz": [
+  {
+   "q": "Ptolemy used epicycles to explain:",
+   "o": [
+    "Seasons",
+    "Retrograde planetary motion",
+    "Eclipses",
+    "Tides"
+   ],
+   "a": 1,
+   "w": "Small circles on big circles."
+  },
+  {
+   "q": "Who published De revolutionibus in 1543?",
+   "o": [
+    "Galileo",
+    "Kepler",
+    "Copernicus",
+    "Tycho"
+   ],
+   "a": 2,
+   "w": "Copernicus."
+  },
+  {
+   "q": "Kepler's first law says planets move in:",
+   "o": [
+    "Perfect circles",
+    "Ellipses with the Sun at a focus",
+    "Spirals",
+    "Straight lines"
+   ],
+   "a": 1,
+   "w": "Elliptical orbits."
+  },
+  {
+   "q": "Kepler's second law implies a planet moves fastest when it is:",
+   "o": [
+    "Farthest from the Sun",
+    "Nearest to the Sun",
+    "At the equinox",
+    "At the focus empty"
+   ],
+   "a": 1,
+   "w": "Equal areas in equal time."
+  },
+  {
+   "q": "Galileo's observation of Jupiter's moons showed:",
+   "o": [
+    "Earth orbits the Sun",
+    "Not everything orbits Earth",
+    "Planets are made of rock",
+    "The Sun spins"
+   ],
+   "a": 1,
+   "w": "Four moons circle Jupiter."
+  },
+  {
+   "q": "Which observation directly proved Earth moves around the Sun?",
+   "o": [
+    "Phases of Venus",
+    "Stellar parallax",
+    "Jupiter's moons",
+    "Sunspots"
+   ],
+   "a": 1,
+   "w": "Bessel 1838."
+  },
+  {
+   "q": "Newton's Principia was published in:",
+   "o": [
+    "1543",
+    "1609",
+    "1687",
+    "1759"
+   ],
+   "a": 2,
+   "w": "1687."
+  },
+  {
+   "q": "Whose precise data did Kepler use?",
+   "o": [
+    "Hipparchus",
+    "Tycho Brahe",
+    "Ptolemy",
+    "Galileo"
+   ],
+   "a": 1,
+   "w": "Tycho's Mars data."
+  },
+  {
+   "q": "Nilakantha Somayaji's model placed which bodies around the Sun?",
+   "o": [
+    "Only Earth",
+    "Mercury to Saturn",
+    "Only the Moon",
+    "Only Venus"
+   ],
+   "a": 1,
+   "w": "Five planets orbited the Sun, the Sun orbited Earth."
+  },
+  {
+   "q": "Why did Kepler's third law matter to Newton?",
+   "o": [
+    "It gave exact calendars",
+    "It hinted at an inverse-square force",
+    "It showed circular orbits",
+    "It proved Earth is round"
+   ],
+   "a": 1,
+   "w": "T squared to a cubed follows from inverse-square gravity."
+  }
+ ],
+ "sources": [
+  "Almagest",
+  "De revolutionibus 1543",
+  "Principia 1687",
+  "Tantrasamgraha 1500"
+ ],
+ "verified": "2026-11-11"
+}

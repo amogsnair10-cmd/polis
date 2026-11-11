@@ -1,0 +1,175 @@
+{
+ "id": "2-0-1",
+ "title": "Electric Potential and Capacitors",
+ "emoji": "🔋",
+ "cards": [
+  {
+   "tag": "Why this matters",
+   "h": "Storing electricity in a sandwich",
+   "b": "<p>The flash of a camera delivers a burst of light far brighter than a small battery could give instantly. A doctor's defibrillator shocks a stopped heart. Both use a device that stores charge slowly and releases it fast: the <b>capacitor</b>.</p><p>To understand it we first need <b>electric potential</b>, the 'height' of the electric landscape that makes charge move.</p>"
+  },
+  {
+   "tag": "Concept",
+   "h": "Electric potential energy",
+   "b": "<p>Pushing a positive charge toward another positive charge is like pushing a ball uphill: you do work, and the charge stores <b>potential energy</b>. Let go and it flies away, converting that energy to motion.</p><p>This is exactly like gravity, with charge taking the role of mass. The electric force is conservative, so we can assign a potential energy to every position."
+  },
+  {
+   "tag": "Concept",
+   "h": "Potential and voltage",
+   "b": "<div class=\"box\"><h4>Potential</h4>V = U / q</div><p>Electric potential is energy per unit charge. Its unit is the <b>volt</b> (V): one joule per coulomb, named for Alessandro Volta. A 1.5 V cell gives each coulomb of charge 1.5 J.</p><p>What matters in practice is the <b>potential difference</b> between two points, the voltage. Charge flows from high to low potential, like water flowing downhill. A bird on a bare power line is safe: no voltage difference across its feet."
+  },
+  {
+   "tag": "Concept",
+   "h": "Field and potential are linked",
+   "b": "<p>In a uniform field, potential changes steadily with distance:</p><div class=\"box\"><h4>Uniform field</h4>E = V / d</div><p>So the unit of field can also be volts per metre. Where the potential changes quickly with distance, the field is strong. A voltage of 12 V across 1 cm gives a field of 1200 V/m.</p><p>Surfaces of equal potential are <b>equipotentials</b>. Field lines always cross them at right angles, and no work is done moving a charge along one."
+  },
+  {
+   "tag": "Concept",
+   "h": "The capacitor",
+   "b": "<p>A <b>capacitor</b> is two conductors separated by a gap (often an insulator). Connect it to a battery: charge +Q builds on one plate and -Q on the other.</p><div class=\"box\"><h4>Capacitance</h4>C = Q / V<br>C = (e0 x A) / d for parallel plates</div><p>The unit of C is the <b>farad</b> (F), named for Michael Faraday; real capacitors are microfarads. Bigger plates and a smaller gap store more. A material (dielectric) between the plates raises C further.</p><svg class=\"d\" viewBox=\"0 0 320 140\"><rect x=\"70\" y=\"30\" width=\"180\" height=\"8\" fill=\"#a3362a\"/><rect x=\"70\" y=\"100\" width=\"180\" height=\"8\" fill=\"#2f6f7a\"/><g stroke=\"#5d6474\" stroke-width=\"1.5\"><line x1=\"100\" y1=\"40\" x2=\"100\" y2=\"98\"/><line x1=\"140\" y1=\"40\" x2=\"140\" y2=\"98\"/><line x1=\"180\" y1=\"40\" x2=\"180\" y2=\"98\"/><line x1=\"220\" y1=\"40\" x2=\"220\" y2=\"98\"/></g><text x=\"150\" y=\"25\" font-size=\"12\" fill=\"#a3362a\">+Q plate</text><text x=\"150\" y=\"128\" font-size=\"12\" fill=\"#2f6f7a\">-Q plate</text><text x=\"258\" y=\"72\" font-size=\"11\" fill=\"#1d2433\">gap d</text><text x=\"75\" y=\"72\" font-size=\"10\" fill=\"#5d6474\">field E = V/d</text><text x=\"10\" y=\"20\" font-size=\"10\" fill=\"#1d2433\">C = e0 A / d</text></svg>"
+  },
+  {
+   "tag": "Concept",
+   "h": "Energy stored and series or parallel",
+   "b": "<p>A charged capacitor stores energy: U = (1/2) C V squared. The energy sits in the electric field between the plates.</p><p>Capacitors in <b>parallel</b> add up: C = C1 + C2 (bigger plate area). In <b>series</b>, 1/C = 1/C1 + 1/C2 (effectively a larger gap). They block steady current but pass changing signals, which is why they appear in filters, tuners and power supplies."
+  },
+  {
+   "tag": "Worked example",
+   "h": "A 10 microfarad capacitor on 12 V",
+   "b": "<p>Charge: Q = C V = 10 x 10 to the power -6 x 12 = <b>1.2 x 10 to the power -4 C</b> (120 microcoulombs).</p><p>Energy: U = (1/2) x 10 x 10 to the power -6 x 144 = <b>7.2 x 10 to the power -4 J</b> (0.72 millijoule).</p><p>Joined with a 10 microfarad one in parallel, total C = 20 microfarads; in series, 5 microfarads."
+  },
+  {
+   "tag": "Misconceptions",
+   "h": "Capacitor and voltage errors",
+   "b": "<ul><li><b>'Voltage is a thing that flows.'</b> Voltage is a difference in potential, like a height difference; charge flows because of it.</li><li><b>'A capacitor is a battery.'</b> A battery makes charge flow through chemistry for hours. A capacitor stores a small amount and releases it quickly.</li><li><b>'High voltage always means danger.'</b> Static shock can be thousands of volts but carries tiny charge; current and energy decide the harm.</li></ul>"
+  },
+  {
+   "tag": "Indian angle",
+   "h": "The ceiling fan and the touchscreen",
+   "b": "<p>Almost every Indian ceiling fan has a small capacitor in its housing. It shifts the phase of the current in one winding so that the single-phase motor starts turning. When the fan slows or hums, a failing capacitor is the first suspect.</p><p>Your smartphone's touchscreen is a grid of tiny capacitors; a finger changes the capacitance at one point, and the phone finds where you touched. India is one of the world's largest smartphone markets."
+  },
+  {
+   "tag": "Recap",
+   "h": "Key takeaways",
+   "b": "<ul><li>Potential is energy per unit charge; voltage is a potential difference. 1 V = 1 J/C.</li><li>In a uniform field, E = V/d.</li><li>Capacitance C = Q/V; stored energy = (1/2) C V squared.</li><li>Parallel capacitors add; series ones combine like resistors in parallel.</li></ul><div class=\"box\"><h4>Think about it</h4>1. Why can a bird sit safely on a high-voltage wire?<br>2. How would you raise a capacitor's capacitance without changing its size?</div>",
+   "cls": "exam"
+  }
+ ],
+ "quiz": [
+  {
+   "q": "One volt equals",
+   "o": [
+    "One joule per coulomb",
+    "One coulomb per second",
+    "One newton per metre",
+    "One watt per ampere squared"
+   ],
+   "a": 0,
+   "w": "V = U/q."
+  },
+  {
+   "q": "The unit of capacitance is the",
+   "o": [
+    "Henry",
+    "Farad",
+    "Tesla",
+    "Ohm"
+   ],
+   "a": 1,
+   "w": "Named after Faraday."
+  },
+  {
+   "q": "A 5 microfarad capacitor is charged to 10 V. Charge stored?",
+   "o": [
+    "50 microcoulomb",
+    "2 microcoulomb",
+    "0.5 coulomb",
+    "15 microcoulomb"
+   ],
+   "a": 0,
+   "w": "Q = CV."
+  },
+  {
+   "q": "Energy stored in a capacitor is",
+   "o": [
+    "C V",
+    "(1/2) C V squared",
+    "Q / V",
+    "C / V squared"
+   ],
+   "a": 1,
+   "w": "U = (1/2) C V squared."
+  },
+  {
+   "q": "In a uniform field, 100 V across 0.5 m gives E =",
+   "o": [
+    "50 V/m",
+    "200 V/m",
+    "100.5 V/m",
+    "0.005 V/m"
+   ],
+   "a": 1,
+   "w": "100/0.5."
+  },
+  {
+   "q": "Two 4 microfarad capacitors in parallel give",
+   "o": [
+    "2",
+    "4",
+    "8",
+    "16"
+   ],
+   "a": 2,
+   "w": "Parallel adds."
+  },
+  {
+   "q": "Two 4 microfarad capacitors in series give",
+   "o": [
+    "2",
+    "8",
+    "16",
+    "4"
+   ],
+   "a": 0,
+   "w": "1/C = 1/4 + 1/4."
+  },
+  {
+   "q": "Moving a charge along an equipotential surface requires",
+   "o": [
+    "Maximum work",
+    "No work",
+    "Negative work",
+    "Infinite work"
+   ],
+   "a": 1,
+   "w": "Potential difference is zero."
+  },
+  {
+   "q": "Increasing plate area of a parallel-plate capacitor",
+   "o": [
+    "Raises C",
+    "Lowers C",
+    "Leaves C same",
+    "Makes C zero"
+   ],
+   "a": 0,
+   "w": "C is proportional to A."
+  },
+  {
+   "q": "A bird on a bare power wire is safe because",
+   "o": [
+    "The wire is insulated",
+    "There is no potential difference across its feet",
+    "Birds are insulators",
+    "Current is DC"
+   ],
+   "a": 1,
+   "w": "Same potential at both feet."
+  }
+ ],
+ "sources": [
+  "NCERT Physics Class 11-12",
+  "Halliday, Resnick and Walker, Fundamentals of Physics"
+ ],
+ "verified": "2026-11-11"
+}

@@ -1,0 +1,174 @@
+{
+ "id": "1-0-0",
+ "title": "Chemical Equations and Stoichiometry",
+ "emoji": "⚖️",
+ "cards": [
+  {
+   "tag": "Why this matters",
+   "h": "A recipe for atoms",
+   "b": "<p>A cook knows that two eggs and a cup of flour give a certain number of pancakes. Chemists do the same with atoms. <b>Stoichiometry</b> is the arithmetic of reactions: how much of each ingredient you need, and how much product you get. It runs fertiliser plants, medicine factories and your car's engine.</p>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "Atoms are never lost",
+   "b": "<p><b>Antoine Lavoisier, 1789</b>, showed that in a closed system mass is conserved. Atoms rearrange; none are created or destroyed. So every chemical equation must be <b>balanced</b>: same number of each atom on both sides.</p><p>Also, <b>Joseph Proust (1799)</b> found that a compound always has the same mass ratio of elements. Water is always 1 part hydrogen to 8 parts oxygen by mass.</p>"
+  },
+  {
+   "tag": "Key idea",
+   "h": "Balancing an equation",
+   "b": "<p>Hydrogen burns in oxygen. Unbalanced: H2 + O2 → H2O (2 O on the left, 1 on the right).</p><ol><li>Put 2 in front of H2O: H2 + O2 → 2H2O. Now O is balanced.</li><li>H is now 4 on right, so put 2 before H2.</li></ol><p><b>2H2 + O2 → 2H2O.</b> Never change small subscripts (that changes the substance); only change the big coefficients in front.</p><svg class=\"d\" viewBox=\"0 0 320 180\"><defs><marker id=\"m1\" markerWidth=\"8\" markerHeight=\"8\" refX=\"6\" refY=\"4\" orient=\"auto\"><path d=\"M0,0 L8,4 L0,8 z\" fill=\"#5d6474\"/></marker></defs><rect x=\"20\" y=\"4\" width=\"280\" height=\"30\" rx=\"6\" fill=\"#dceaec\" stroke=\"#2f6f7a\"/><text x=\"160\" y=\"23\" text-anchor=\"middle\" font-size=\"11\" fill=\"#1d2433\">Write correct formulas</text><line x1=\"160\" y1=\"34\" x2=\"160\" y2=\"47\" stroke=\"#5d6474\" marker-end=\"url(#m1)\"/><rect x=\"20\" y=\"48\" width=\"280\" height=\"30\" rx=\"6\" fill=\"#dceaec\" stroke=\"#2f6f7a\"/><text x=\"160\" y=\"67\" text-anchor=\"middle\" font-size=\"11\" fill=\"#1d2433\">Count atoms each side</text><line x1=\"160\" y1=\"78\" x2=\"160\" y2=\"91\" stroke=\"#5d6474\" marker-end=\"url(#m1)\"/><rect x=\"20\" y=\"92\" width=\"280\" height=\"30\" rx=\"6\" fill=\"#dceaec\" stroke=\"#2f6f7a\"/><text x=\"160\" y=\"111\" text-anchor=\"middle\" font-size=\"11\" fill=\"#1d2433\">Add coefficients to balance</text><line x1=\"160\" y1=\"122\" x2=\"160\" y2=\"135\" stroke=\"#5d6474\" marker-end=\"url(#m1)\"/><rect x=\"20\" y=\"136\" width=\"280\" height=\"30\" rx=\"6\" fill=\"#dceaec\" stroke=\"#2f6f7a\"/><text x=\"160\" y=\"155\" text-anchor=\"middle\" font-size=\"11\" fill=\"#1d2433\">Check all atoms match</text></svg>"
+  },
+  {
+   "tag": "Key idea",
+   "h": "Coefficients are mole ratios",
+   "b": "<p>The numbers in 2H2 + O2 → 2H2O mean 2 mol H2 react with 1 mol O2 to give 2 mol H2O. In grams: 4 g H2 + 32 g O2 → 36 g water. Mass in = mass out (4 + 32 = 36).</p><p>Another: N2 + 3H2 → 2NH3 (ammonia). 1 mol nitrogen needs 3 mol hydrogen, giving 2 mol ammonia.</p>"
+  },
+  {
+   "tag": "Key idea",
+   "h": "The stoichiometry steps",
+   "b": "<p>Almost every problem follows the same path.</p><svg class=\"d\" viewBox=\"0 0 320 136\"><defs><marker id=\"m2\" markerWidth=\"8\" markerHeight=\"8\" refX=\"6\" refY=\"4\" orient=\"auto\"><path d=\"M0,0 L8,4 L0,8 z\" fill=\"#5d6474\"/></marker></defs><rect x=\"20\" y=\"4\" width=\"280\" height=\"30\" rx=\"6\" fill=\"#f1e4c6\" stroke=\"#a8792a\"/><text x=\"160\" y=\"23\" text-anchor=\"middle\" font-size=\"11\" fill=\"#1d2433\">Grams of A to moles (divide by molar mass)</text><line x1=\"160\" y1=\"34\" x2=\"160\" y2=\"47\" stroke=\"#5d6474\" marker-end=\"url(#m2)\"/><rect x=\"20\" y=\"48\" width=\"280\" height=\"30\" rx=\"6\" fill=\"#f1e4c6\" stroke=\"#a8792a\"/><text x=\"160\" y=\"67\" text-anchor=\"middle\" font-size=\"11\" fill=\"#1d2433\">Moles of A to moles of B (use coefficients)</text><line x1=\"160\" y1=\"78\" x2=\"160\" y2=\"91\" stroke=\"#5d6474\" marker-end=\"url(#m2)\"/><rect x=\"20\" y=\"92\" width=\"280\" height=\"30\" rx=\"6\" fill=\"#f1e4c6\" stroke=\"#a8792a\"/><text x=\"160\" y=\"111\" text-anchor=\"middle\" font-size=\"11\" fill=\"#1d2433\">Moles of B to grams (multiply by molar mass)</text></svg>"
+  },
+  {
+   "tag": "Key idea",
+   "h": "Limiting reagent and yield",
+   "b": "<p>If you have 10 bread slices and 3 cheese slices, you can make only 3 sandwiches. Cheese is the <b>limiting reagent</b>: it runs out first and caps the product. The other is in excess.</p><p><b>Percent yield = (actual yield / theoretical yield) x 100.</b> Real reactions seldom give 100 percent, because of side reactions and losses.</p>"
+  },
+  {
+   "tag": "Worked example",
+   "h": "How much water from 4 g hydrogen?",
+   "b": "<ol><li>Moles of H2 = 4 / 2 = 2 mol.</li><li>2H2 → 2H2O is a 1:1 ratio, so 2 mol H2O.</li><li>Mass = 2 x 18 = <b>36 g</b>.</li></ol><p>Limiting reagent test: 4 g H2 with 16 g O2. Moles H2 = 2; moles O2 = 0.5. H2 needs half as much O2: 2 mol H2 needs 1 mol O2. We have only 0.5, so O2 is limiting. Water made = 2 x 0.5 = 1 mol = 18 g.</p>"
+  },
+  {
+   "tag": "Misconceptions",
+   "h": "Common errors",
+   "b": "<ul><li><b>Do not balance by changing subscripts.</b> H2O2 is not H2O.</li><li><b>Coefficients are mole ratios, not mass ratios.</b></li><li><b>The limiting reagent is not the one with less mass</b> but the one that runs out first in mole terms.</li><li><b>Mass is conserved, moles are not always.</b> 3 mol reactants can become 2 mol product.</li></ul>"
+  },
+  {
+   "tag": "Indian angle",
+   "h": "Fertiliser factories",
+   "b": "<p>Ammonia from N2 + 3H2 → 2NH3 (the Haber-Bosch process) is the base of urea fertiliser. India's first large fertiliser plant at <b>Sindri</b> (now in Jharkhand) began producing in 1951, backing the push for food security. Plants calculate stoichiometry daily: how much natural gas, air and steam give each tonne of urea. India is among the world's largest fertiliser consumers.</p>"
+  },
+  {
+   "tag": "Recap",
+   "h": "Key takeaways",
+   "b": "<ul><li>Balance equations by coefficients so atoms match.</li><li>Coefficients give mole ratios; convert grams to moles and back.</li><li>Limiting reagent controls the product; percent yield compares real to theoretical.</li></ul><div class=\"box\"><h4>Think about it</h4><p>1. 2Mg + O2 → 2MgO: how many grams of MgO from 24 g Mg (24 g/mol)? </p><p>2. Why do factories sometimes add one reactant in deliberate excess?</p></div>",
+   "cls": "exam"
+  }
+ ],
+ "quiz": [
+  {
+   "q": "Who established conservation of mass in 1789?",
+   "o": [
+    "Lavoisier",
+    "Proust",
+    "Dalton",
+    "Avogadro"
+   ],
+   "a": 0,
+   "w": "Lavoisier's work."
+  },
+  {
+   "q": "Balanced equation for hydrogen burning:",
+   "o": [
+    "2H2 + O2 → 2H2O",
+    "H2 + O2 → H2O",
+    "H2 + 2O2 → 2H2O",
+    "2H2 + 2O2 → 2H2O"
+   ],
+   "a": 0,
+   "w": "4 H and 2 O each side."
+  },
+  {
+   "q": "In N2 + 3H2 → 2NH3, moles of H2 needed for 2 mol N2:",
+   "o": [
+    "3",
+    "2",
+    "6",
+    "4"
+   ],
+   "a": 2,
+   "w": "Ratio 1:3."
+  },
+  {
+   "q": "Moles in 4 g of H2 (2 g/mol)?",
+   "o": [
+    "2",
+    "4",
+    "0.5",
+    "8"
+   ],
+   "a": 0,
+   "w": "4 / 2."
+  },
+  {
+   "q": "Mass of water from 2 mol H2 reacting fully?",
+   "o": [
+    "18 g",
+    "36 g",
+    "2 g",
+    "72 g"
+   ],
+   "a": 1,
+   "w": "2 mol x 18."
+  },
+  {
+   "q": "Limiting reagent is:",
+   "o": [
+    "The one that runs out first",
+    "The heavier reagent",
+    "The one in excess",
+    "The catalyst"
+   ],
+   "a": 0,
+   "w": "It caps the product."
+  },
+  {
+   "q": "Actual yield 40 g, theoretical 50 g. Percent yield?",
+   "o": [
+    "80 percent",
+    "125 percent",
+    "20 percent",
+    "90 percent"
+   ],
+   "a": 0,
+   "w": "40/50 x 100."
+  },
+  {
+   "q": "In 2Mg + O2 → 2MgO, 24 g Mg (24 g/mol) gives how many g MgO (40 g/mol)?",
+   "o": [
+    "24 g",
+    "40 g",
+    "80 g",
+    "20 g"
+   ],
+   "a": 1,
+   "w": "1 mol Mg gives 1 mol MgO."
+  },
+  {
+   "q": "Proust's law says:",
+   "o": [
+    "Mass is conserved",
+    "Gases combine in whole volumes",
+    "Compounds have fixed element ratios",
+    "Atoms are divisible"
+   ],
+   "a": 2,
+   "w": "Constant composition."
+  },
+  {
+   "q": "Sindri fertiliser plant began production in:",
+   "o": [
+    "1951",
+    "1901",
+    "1975",
+    "1991"
+   ],
+   "a": 0,
+   "w": "First big public-sector fertiliser plant."
+  }
+ ],
+ "sources": [
+  "Standard school and university chemistry texts"
+ ],
+ "verified": "2026-11-11"
+}

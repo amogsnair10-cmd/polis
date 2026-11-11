@@ -1,0 +1,174 @@
+{
+ "id": "4-0-2",
+ "title": "Nuclear Chemistry and Radioactivity",
+ "emoji": "☢️",
+ "cards": [
+  {
+   "tag": "Why this matters",
+   "h": "When the nucleus changes",
+   "b": "<p>Ordinary chemistry rearranges electrons. Nuclear chemistry changes the nucleus itself, releasing millions of times more energy per atom. It powers stars, hospital scanners, nuclear plants and weapons, and it dates ancient bones.</p>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "Radioactivity",
+   "b": "<p><b>Henri Becquerel (1896)</b> found uranium emitted rays; <b>Marie and Pierre Curie</b> discovered polonium and radium (1898) and named the phenomenon radioactivity. Unstable nuclei decay to become stable. The Curies and Becquerel shared the 1903 Physics Nobel, and Marie Curie won the 1911 Chemistry Nobel.</p>"
+  },
+  {
+   "tag": "Key idea",
+   "h": "Three kinds of radiation",
+   "b": "<ul><li><b>Alpha (α):</b> a helium nucleus (2 protons, 2 neutrons). Heavy, stopped by paper or skin. Dangerous if swallowed.</li><li><b>Beta (β):</b> a fast electron from a neutron changing to a proton. Stopped by thin aluminium.</li><li><b>Gamma (γ):</b> high-energy light. Needs thick lead or concrete.</li></ul><p>Alpha decay example: <b>U-238 → Th-234 + He-4</b>. Mass numbers (238 = 234 + 4) and atomic numbers (92 = 90 + 2) both balance.</p>"
+  },
+  {
+   "tag": "Key idea",
+   "h": "Half-life",
+   "b": "<p>The <b>half-life</b> is the time for half the radioactive atoms to decay. It is fixed for an isotope: iodine-131 about 8 days, carbon-14 about 5,730 years, uranium-238 about 4.5 billion years.</p><svg class=\"d\" viewBox=\"0 0 320 136\"><defs><marker id=\"m1\" markerWidth=\"8\" markerHeight=\"8\" refX=\"6\" refY=\"4\" orient=\"auto\"><path d=\"M0,0 L8,4 L0,8 z\" fill=\"#5d6474\"/></marker></defs><rect x=\"20\" y=\"4\" width=\"280\" height=\"30\" rx=\"6\" fill=\"#f1e4c6\" stroke=\"#a8792a\"/><text x=\"160\" y=\"23\" text-anchor=\"middle\" font-size=\"11\" fill=\"#1d2433\">100% atoms at start</text><line x1=\"160\" y1=\"34\" x2=\"160\" y2=\"47\" stroke=\"#5d6474\" marker-end=\"url(#m1)\"/><rect x=\"20\" y=\"48\" width=\"280\" height=\"30\" rx=\"6\" fill=\"#f1e4c6\" stroke=\"#a8792a\"/><text x=\"160\" y=\"67\" text-anchor=\"middle\" font-size=\"11\" fill=\"#1d2433\">After 1 half-life: 50%</text><line x1=\"160\" y1=\"78\" x2=\"160\" y2=\"91\" stroke=\"#5d6474\" marker-end=\"url(#m1)\"/><rect x=\"20\" y=\"92\" width=\"280\" height=\"30\" rx=\"6\" fill=\"#f1e4c6\" stroke=\"#a8792a\"/><text x=\"160\" y=\"111\" text-anchor=\"middle\" font-size=\"11\" fill=\"#1d2433\">After 2: 25%, after 3: 12.5%</text></svg>"
+  },
+  {
+   "tag": "Key idea",
+   "h": "Fission and fusion",
+   "b": "<p><b>Fission:</b> a heavy nucleus splits. Hahn and Strassmann found it in 1938; Meitner and Frisch explained it. U-235 + n → Ba-141 + Kr-92 + 3n + energy. The released neutrons trigger a chain reaction.</p><p><b>Fusion:</b> light nuclei merge, as hydrogen into helium in the Sun. Einstein's <b>E = mc2</b> explains the energy: a little mass vanishes and becomes a lot of energy.</p>"
+  },
+  {
+   "tag": "Key idea",
+   "h": "Uses and risks",
+   "b": "<ul><li><b>Power:</b> nuclear reactors give low-carbon electricity.</li><li><b>Medicine:</b> iodine-131 for thyroid, technetium-99m for scans, cobalt-60 for radiotherapy.</li><li><b>Dating:</b> carbon-14 for remains up to about 50,000 years old.</li><li><b>Risks:</b> radiation damages DNA; waste stays hazardous for long periods; accidents (Chernobyl 1986, Fukushima 2011).</li></ul>"
+  },
+  {
+   "tag": "Worked example",
+   "h": "Using half-life",
+   "b": "<p>80 g of a radioisotope with half-life 3 days. After 9 days: 9/3 = 3 half-lives: 80 → 40 → 20 → <b>10 g</b>.</p><p>A bone has 25 percent of its original carbon-14. That is 2 half-lives, so age = 2 x 5,730 = <b>11,460 years</b>.</p><p>Balance: Radium-226 (Z = 88) alpha decays to radon (Z = ?): Z = 86, mass 222.</p>"
+  },
+  {
+   "tag": "Misconceptions",
+   "h": "Careful",
+   "b": "<ul><li><b>Radioactive does not mean glowing green.</b></li><li><b>Reactors cannot explode like bombs.</b> Fuel is far less enriched.</li><li><b>Radiation is not always man-made.</b> Bananas, granite and cosmic rays all give small doses.</li><li><b>Half-life does not mean it is gone after two half-lives.</b> 25 percent remains.</li></ul>"
+  },
+  {
+   "tag": "Indian angle",
+   "h": "Bhabha's three-stage plan",
+   "b": "<p><b>Homi J. Bhabha</b> founded the Atomic Energy Commission (1948) and the Tata Institute of Fundamental Research. In 1954 he set out India's <b>three-stage nuclear programme</b>: (1) natural-uranium heavy-water reactors, (2) fast breeder reactors using plutonium, (3) thorium-based reactors, to use India's large thorium reserves in monazite sands. BARC, Trombay carries on the research; <b>Kudankulam</b> in Tamil Nadu is among India's biggest plants.</p>"
+  },
+  {
+   "tag": "Recap",
+   "h": "Key takeaways",
+   "b": "<ul><li>Alpha, beta and gamma differ in mass, charge and penetration.</li><li>Half-life is constant: halves each period.</li><li>Fission splits, fusion joins nuclei; mass becomes energy (E = mc2).</li></ul><div class=\"box\"><h4>Think about it</h4><p>1. Why is carbon-14 useless for dating a 100-million-year-old fossil?</p><p>2. Why is thorium attractive for India?</p></div>",
+   "cls": "exam"
+  }
+ ],
+ "quiz": [
+  {
+   "q": "Radioactivity was discovered in 1896 by:",
+   "o": [
+    "Becquerel",
+    "Rutherford",
+    "Chadwick",
+    "Einstein"
+   ],
+   "a": 0,
+   "w": "Uranium rays."
+  },
+  {
+   "q": "Alpha particle is:",
+   "o": [
+    "A helium nucleus",
+    "An electron",
+    "A photon",
+    "A neutron"
+   ],
+   "a": 0,
+   "w": "2 protons, 2 neutrons."
+  },
+  {
+   "q": "Most penetrating radiation:",
+   "o": [
+    "Alpha",
+    "Beta",
+    "Gamma",
+    "All equal"
+   ],
+   "a": 2,
+   "w": "Needs lead or concrete."
+  },
+  {
+   "q": "U-238 emits alpha and becomes:",
+   "o": [
+    "Th-234",
+    "Pa-238",
+    "U-234",
+    "Pb-206"
+   ],
+   "a": 0,
+   "w": "Mass 234, Z 90."
+  },
+  {
+   "q": "Half-life 4 days, 64 g. Mass after 12 days?",
+   "o": [
+    "8 g",
+    "16 g",
+    "32 g",
+    "4 g"
+   ],
+   "a": 0,
+   "w": "3 half-lives."
+  },
+  {
+   "q": "Bone has 12.5 percent of original C-14. Age (half-life 5,730 y)?",
+   "o": [
+    "5,730 years",
+    "17,190 years",
+    "11,460 years",
+    "22,920 years"
+   ],
+   "a": 1,
+   "w": "3 half-lives."
+  },
+  {
+   "q": "Splitting of a heavy nucleus is:",
+   "o": [
+    "Fission",
+    "Fusion",
+    "Ionisation",
+    "Fermentation"
+   ],
+   "a": 0,
+   "w": "U-235 chain reaction."
+  },
+  {
+   "q": "Sun's energy mainly comes from:",
+   "o": [
+    "Fission of uranium",
+    "Burning coal",
+    "Chemical reaction",
+    "Fusion of hydrogen"
+   ],
+   "a": 3,
+   "w": "H to He."
+  },
+  {
+   "q": "India's three-stage nuclear plan was set by:",
+   "o": [
+    "Homi Bhabha",
+    "Vikram Sarabhai",
+    "C.V. Raman",
+    "A.P.J. Abdul Kalam"
+   ],
+   "a": 0,
+   "w": "1954."
+  },
+  {
+   "q": "Third stage of India's plan uses:",
+   "o": [
+    "Natural uranium only",
+    "Thorium",
+    "Coal",
+    "Plutonium only"
+   ],
+   "a": 1,
+   "w": "Because of large thorium reserves."
+  }
+ ],
+ "sources": [
+  "Standard school and university chemistry texts"
+ ],
+ "verified": "2026-11-11"
+}

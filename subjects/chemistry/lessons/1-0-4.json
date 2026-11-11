@@ -1,0 +1,174 @@
+{
+ "id": "1-0-4",
+ "title": "Acids, Bases and pH",
+ "emoji": "🧪",
+ "cards": [
+  {
+   "tag": "Why this matters",
+   "h": "Sour, soapy and everything between",
+   "b": "<p>Lemon juice, vinegar, stomach juices, soap, toothpaste, rain: all are acids or bases. Acid-base chemistry controls digestion, soil fertility, cleaning, pool water, and the Taj Mahal's marble.</p>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "Three definitions",
+   "b": "<ul><li><b>Arrhenius (1884-87):</b> acids give H+ in water; bases give OH-.</li><li><b>Brønsted-Lowry (1923):</b> acids donate protons (H+); bases accept them.</li><li><b>Lewis (1923):</b> acids accept electron pairs; bases donate them.</li></ul><p>Example: HCl + H2O → H3O+ + Cl-. HCl donates a proton, so it is an acid; water accepts it, so it acts as a base.</p>"
+  },
+  {
+   "tag": "Key idea",
+   "h": "Strong and weak",
+   "b": "<p>A <b>strong acid</b> ionises almost fully: HCl, H2SO4, HNO3. A <b>weak acid</b> ionises only partly and sets up an equilibrium: acetic acid (vinegar), citric acid, carbonic acid. Strong bases: NaOH, KOH. Weak base: ammonia (NH3).</p><p><b>Strength is not concentration.</b> A dilute strong acid and a concentrated weak acid can both be possible.</p>"
+  },
+  {
+   "tag": "Key idea",
+   "h": "The pH scale",
+   "b": "<p><b>Søren Sørensen, 1909.</b> pH = -log10 [H+]. Each unit is a tenfold change.</p><svg class=\"d\" viewBox=\"0 0 320 136\"><defs><marker id=\"m1\" markerWidth=\"8\" markerHeight=\"8\" refX=\"6\" refY=\"4\" orient=\"auto\"><path d=\"M0,0 L8,4 L0,8 z\" fill=\"#5d6474\"/></marker></defs><rect x=\"20\" y=\"4\" width=\"280\" height=\"30\" rx=\"6\" fill=\"#f1e4c6\" stroke=\"#a8792a\"/><text x=\"160\" y=\"23\" text-anchor=\"middle\" font-size=\"11\" fill=\"#1d2433\">pH 0-6: acidic (lemon 2, coffee 5)</text><line x1=\"160\" y1=\"34\" x2=\"160\" y2=\"47\" stroke=\"#5d6474\" marker-end=\"url(#m1)\"/><rect x=\"20\" y=\"48\" width=\"280\" height=\"30\" rx=\"6\" fill=\"#f1e4c6\" stroke=\"#a8792a\"/><text x=\"160\" y=\"67\" text-anchor=\"middle\" font-size=\"11\" fill=\"#1d2433\">pH 7: neutral (pure water, 25 C)</text><line x1=\"160\" y1=\"78\" x2=\"160\" y2=\"91\" stroke=\"#5d6474\" marker-end=\"url(#m1)\"/><rect x=\"20\" y=\"92\" width=\"280\" height=\"30\" rx=\"6\" fill=\"#f1e4c6\" stroke=\"#a8792a\"/><text x=\"160\" y=\"111\" text-anchor=\"middle\" font-size=\"11\" fill=\"#1d2433\">pH 8-14: basic (soap 10, bleach 12-13)</text></svg><p>pH 3 has 10 times more H+ than pH 4. Human blood is held tightly at about 7.4. Stomach acid is around pH 1.5 to 3.5.</p>"
+  },
+  {
+   "tag": "Key idea",
+   "h": "Neutralisation and salts",
+   "b": "<p>Acid + base → salt + water.</p><p><b>HCl + NaOH → NaCl + H2O.</b></p><p>Antacids such as magnesium hydroxide neutralise excess stomach acid. Acid + carbonate → salt + water + carbon dioxide (the fizz): 2HCl + CaCO3 → CaCl2 + H2O + CO2.</p><p>Indicators show the pH: litmus (red in acid, blue in base), phenolphthalein (pink in base), universal indicator (rainbow).</p>"
+  },
+  {
+   "tag": "Key idea",
+   "h": "Buffers",
+   "b": "<p>A <b>buffer</b> resists pH change. It contains a weak acid and its salt (conjugate base). Added acid is mopped up by the base; added base by the acid. Blood uses the carbonic acid-bicarbonate buffer. Without it, a little acidic food could be fatal.</p>"
+  },
+  {
+   "tag": "Worked example",
+   "h": "pH calculations",
+   "b": "<p>[H+] = 1 x 10^-3 mol/L. pH = <b>3</b>.</p><p>0.01 M HCl (strong): [H+] = 0.01 = 10^-2, pH = <b>2</b>.</p><p>Neutralisation: how many mL of 0.1 M NaOH neutralise 20 mL of 0.1 M HCl? 1:1 ratio, same concentration, so <b>20 mL</b>. If NaOH were 0.2 M, you need 10 mL.</p>"
+  },
+  {
+   "tag": "Misconceptions",
+   "h": "Careful",
+   "b": "<ul><li><b>pH 7 is neutral only at 25 °C.</b></li><li><b>pH is not linear.</b> pH 2 is 10 times more acidic than pH 3 and 100 times more than pH 4.</li><li><b>Strong does not mean concentrated.</b></li><li><b>Neutralisation does not always give pH 7</b> (weak acid with strong base gives a basic salt solution).</li></ul>"
+  },
+  {
+   "tag": "Indian angle",
+   "h": "Turmeric and the Taj",
+   "b": "<p><b>Turmeric</b> is a natural indicator: yellow in acid, turning reddish in base, which is why soap-washed turmeric stains turn red. Acid rain from sulphur dioxide of nearby industry was found to yellow the Taj Mahal's marble (calcium carbonate). The Supreme Court's 1996 orders (M.C. Mehta case) led to the Taj Trapezium Zone and shifts to cleaner fuel.</p>"
+  },
+  {
+   "tag": "Recap",
+   "h": "Key takeaways",
+   "b": "<ul><li>Brønsted-Lowry: acids donate H+, bases accept.</li><li>pH = -log [H+]; each unit is 10x.</li><li>Acid + base → salt + water; buffers resist pH change.</li></ul><div class=\"box\"><h4>Think about it</h4><p>1. Why is a weak acid still dangerous at high concentration?</p><p>2. Why do plants prefer soil of a certain pH?</p></div>",
+   "cls": "exam"
+  }
+ ],
+ "quiz": [
+  {
+   "q": "pH of solution with [H+] = 10^-5?",
+   "o": [
+    "5",
+    "-5",
+    "9",
+    "10"
+   ],
+   "a": 0,
+   "w": "pH = 5."
+  },
+  {
+   "q": "Brønsted-Lowry acid is a:",
+   "o": [
+    "Proton donor",
+    "Electron donor",
+    "Proton acceptor",
+    "OH- giver only"
+   ],
+   "a": 0,
+   "w": "1923."
+  },
+  {
+   "q": "0.001 M HCl has pH:",
+   "o": [
+    "1",
+    "11",
+    "3",
+    "0.001"
+   ],
+   "a": 2,
+   "w": "[H+] = 10^-3."
+  },
+  {
+   "q": "pH 3 vs pH 5: pH 3 is how much more acidic?",
+   "o": [
+    "100 times",
+    "2 times",
+    "10 times",
+    "1000 times"
+   ],
+   "a": 0,
+   "w": "Two units, 10^2."
+  },
+  {
+   "q": "Which is a weak acid?",
+   "o": [
+    "Acetic acid",
+    "HCl",
+    "HNO3",
+    "H2SO4"
+   ],
+   "a": 0,
+   "w": "Partly ionised."
+  },
+  {
+   "q": "HCl + NaOH gives:",
+   "o": [
+    "NaOH + H2",
+    "NaCl + H2O",
+    "Cl2 + H2O",
+    "Na + HClO"
+   ],
+   "a": 1,
+   "w": "Salt and water."
+  },
+  {
+   "q": "10 mL of 0.2 M HCl needs how many mL of 0.1 M NaOH?",
+   "o": [
+    "20 mL",
+    "5 mL",
+    "10 mL",
+    "40 mL"
+   ],
+   "a": 0,
+   "w": "0.002 mol needs 0.002 mol."
+  },
+  {
+   "q": "Who introduced pH in 1909?",
+   "o": [
+    "Lewis",
+    "Arrhenius",
+    "Lowry",
+    "Sørensen"
+   ],
+   "a": 3,
+   "w": "Danish chemist."
+  },
+  {
+   "q": "Buffers:",
+   "o": [
+    "Resist pH change",
+    "Raise pH",
+    "Neutralise all acid",
+    "Are strong acids"
+   ],
+   "a": 0,
+   "w": "Weak acid plus conjugate base."
+  },
+  {
+   "q": "Turmeric turns reddish in:",
+   "o": [
+    "Acid",
+    "Pure water",
+    "Basic solution",
+    "Salt"
+   ],
+   "a": 2,
+   "w": "Natural indicator."
+  }
+ ],
+ "sources": [
+  "Standard school and university chemistry texts"
+ ],
+ "verified": "2026-11-11"
+}

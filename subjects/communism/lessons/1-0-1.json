@@ -1,0 +1,176 @@
+{
+ "id": "1-0-1",
+ "title": "Alienation and Human Nature",
+ "emoji": "🧩",
+ "cards": [
+  {
+   "tag": "Why this matters",
+   "h": "Why work can feel empty",
+   "b": "<p>Long before the Soviet Union, Marx asked a human question: why do people who make things feel least at home in the world they make? His 1844 notebooks on alienation are now the favourite starting point for humanist Marxists, and remain a lively challenge to modern work.</p>"
+  },
+  {
+   "tag": "Context",
+   "h": "Paris, 1844",
+   "b": "<p>The <i>Economic and Philosophic Manuscripts of 1844</i> were written when Marx, aged 26, was reading political economy for the first time. They were not published until 1932, which changed how Marxism was read. They combine Hegel, Feuerbach and Adam Smith in an argument about labour.</p>"
+  },
+  {
+   "tag": "Key idea",
+   "h": "Four kinds of alienation",
+   "b": "<p>Under capitalism, the worker is estranged in four ways: - From the <b>product</b>: it belongs to someone else, and the more produced, the poorer the worker. - From the <b>activity</b>: work is forced, not creative. - From <b>species-being</b>: human beings are distinctively creative and social, yet work reduces them to survival. - From <b>other people</b>: others become competitors or tools.</p>"
+  },
+  {
+   "tag": "Key idea",
+   "h": "Human nature as free, conscious labour",
+   "b": "<p>Marx rejects fixed human nature. In the Sixth Thesis on Feuerbach he writes that essence is \"the ensemble of the social relations\". But he also uses the idea of <b>species-being</b>: humans make things consciously, \"according to the laws of beauty\", and so realise themselves in production. Estranged labour reduces the free activity to a means of survival.</p>"
+  },
+  {
+   "tag": "Key idea",
+   "h": "Commodity fetishism",
+   "b": "<p>In <i>Capital</i> (1867), chapter 1, Marx extends the theme. Relations between people appear as relations between things: shoes trade for hats at certain prices, and the social labour behind them vanishes. We bow to market \"laws\" as earlier people bowed to gods. This is the mature version of alienation: a power made by people controls them.</p>"
+  },
+  {
+   "tag": "Key idea",
+   "h": "The overcoming of alienation",
+   "b": "<p>Marx's future society is not simply equal distribution. It is one where work becomes self-expression and society consciously controls production. <i>The German Ideology</i> imagines a world where one can \"hunt in the morning, fish in the afternoon, rear cattle in the evening, criticise after dinner\". The picture is deliberately playful, and a standing joke for critics.</p>"
+  },
+  {
+   "tag": "In practice",
+   "h": "Alienation and the factory",
+   "b": "<p>Worker complaints about the assembly line gave the idea a concrete form: Taylorism, Henry Ford's line (1913), call-centre scripts, gig platforms. Studies by Robert Blauner (<i>Alienation and Freedom</i>, 1964) found that alienation varies with technology. State socialist factories did not escape; Soviet and Chinese workers also met quotas, supervisors and shortages.</p>"
+  },
+  {
+   "tag": "Critiques",
+   "h": "Early Marx versus late Marx",
+   "b": "<p><b>Althusser</b> (<i>For Marx</i>, 1965) argued there is an \"epistemological break\": the humanist 1844 Marx was pre-scientific and ideological. <b>Humanists</b> (Fromm, Marcuse, Kolakowski) said the break is a myth and that morality is central. <b>Liberals</b> and <b>Hayek</b> say freedom needs markets, and that \"true\" self-realisation is easily used to override actual wishes. <b>Feminists</b> note that the focus on wage work ignores unpaid labour.</p>"
+  },
+  {
+   "tag": "Indian angle",
+   "h": "Alienation and Indian thinkers",
+   "b": "<p>Gandhi's critique of machine civilisation in <i>Hind Swaraj</i> (1909) and his stress on bodily labour is an independent protest against alienated work. The Indian humanist Marxist tradition, including M.N. Roy's \"Radical Humanism\" (1940s), took up the 1844 themes. In politics, bonded labour and caste-based work show that estrangement is also about unfreedom: Ambedkar noted that caste is a division of labourers, not of labour.</p>"
+  },
+  {
+   "tag": "Recap",
+   "h": "Five takeaways and two debates",
+   "b": "<h4>Key takeaways</h4><ol><li>The 1844 Manuscripts describe four kinds of alienation under capitalism.</li><li>Human nature is social, creative labour, not a fixed essence.</li><li>Commodity fetishism extends the theme in Capital (1867).</li><li>Communism means conscious control of production and meaningful work.</li><li>Critics dispute whether early Marx is the true Marx and whether the ideal is workable.</li></ol><h4>Debate questions</h4><ol><li>Is alienation a useful way of understanding modern gig work?</li><li>Can a theory of human fulfilment be pursued without coercion?</li></ol>",
+   "cls": "exam"
+  }
+ ],
+ "quiz": [
+  {
+   "q": "The Economic and Philosophic Manuscripts were written in",
+   "o": [
+    "1867",
+    "1917",
+    "1883",
+    "1844"
+   ],
+   "a": 3,
+   "w": "Paris, 1844."
+  },
+  {
+   "q": "They were first published in",
+   "o": [
+    "1848",
+    "1932",
+    "1867",
+    "1956"
+   ],
+   "a": 1,
+   "w": "A 1932 publication changed readings of Marx."
+  },
+  {
+   "q": "Which is NOT one of the four alienations?",
+   "o": [
+    "From the product",
+    "From the state",
+    "From species-being",
+    "From other people"
+   ],
+   "a": 1,
+   "w": "The four are product, activity, species-being, others."
+  },
+  {
+   "q": "Commodity fetishism appears in",
+   "o": [
+    "Capital Volume 1, chapter 1",
+    "The Manifesto",
+    "State and Revolution",
+    "The Gotha Programme"
+   ],
+   "a": 0,
+   "w": "Capital, 1867."
+  },
+  {
+   "q": "\"Hunt in the morning, fish in the afternoon\" comes from",
+   "o": [
+    "Capital Volume 2",
+    "The German Ideology",
+    "What Is to Be Done?",
+    "Reform or Revolution"
+   ],
+   "a": 1,
+   "w": "Marx and Engels, 1845-46."
+  },
+  {
+   "q": "Althusser claimed an \"epistemological break\" between",
+   "o": [
+    "Marx and Engels",
+    "Lenin and Stalin",
+    "Marx and Hegel",
+    "Early humanist Marx and mature scientific Marx"
+   ],
+   "a": 3,
+   "w": "For Marx, 1965."
+  },
+  {
+   "q": "Which critic is most associated with \"Radical Humanism\" in India?",
+   "o": [
+    "Charu Majumdar",
+    "E.M.S. Namboodiripad",
+    "Sheikh Abdullah",
+    "M.N. Roy"
+   ],
+   "a": 3,
+   "w": "Roy turned to humanism in the 1940s."
+  },
+  {
+   "q": "Gandhi's Hind Swaraj (1909) criticised",
+   "o": [
+    "Machine civilisation",
+    "Peasant labour",
+    "Handicrafts",
+    "Village panchayats"
+   ],
+   "a": 0,
+   "w": "He feared the modern industrial order."
+  },
+  {
+   "q": "Feminists object that the 1844 focus on wage work",
+   "o": [
+    "Overstates wages",
+    "Denies class",
+    "Rejects species-being",
+    "Ignores unpaid domestic labour"
+   ],
+   "a": 3,
+   "w": "Social reproduction theory follows up."
+  },
+  {
+   "q": "Blauner (1964) found alienation",
+   "o": [
+    "Is universal and equal",
+    "Disappears in factories",
+    "Is caused by religion",
+    "Varies with technology and workplace"
+   ],
+   "a": 3,
+   "w": "Alienation and Freedom."
+  }
+ ],
+ "sources": [
+  "Marx Manuscripts 1844 (pub. 1932)",
+  "Capital vol 1 1867",
+  "Althusser For Marx 1965"
+ ],
+ "verified": "2026-11-11"
+}

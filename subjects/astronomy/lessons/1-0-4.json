@@ -1,0 +1,176 @@
+{
+ "id": "1-0-4",
+ "title": "How the Solar System Formed",
+ "emoji": "🌠",
+ "cards": [
+  {
+   "tag": "Why this matters",
+   "h": "A family history with clues",
+   "b": "<p>Eight planets orbit in nearly the same plane, in the same direction as the Sun spins. That is not an accident. It is a fingerprint of how the Solar System was born, and the same process now appears to be going on around other young stars.</p>"
+  },
+  {
+   "tag": "Concept",
+   "h": "Start: a collapsing cloud",
+   "b": "<p>About <b>4.6 billion years ago</b>, a cloud of gas and dust, mostly hydrogen and helium plus the ashes of earlier stars, began to collapse under its own gravity, perhaps triggered by a nearby supernova. This is the <b>nebular hypothesis</b>, proposed by Immanuel Kant (1755) and Pierre-Simon Laplace (1796).</p><svg class=\"d\" viewBox=\"0 0 320 130\"><defs><marker id=\"ar1\" viewBox=\"0 0 10 10\" refX=\"9\" refY=\"5\" markerWidth=\"6\" markerHeight=\"6\" orient=\"auto\"><path d=\"M0 0L10 5L0 10z\" fill=\"#5d6474\"/></marker></defs><rect x=\"5\" y=\"40\" width=\"60\" height=\"40\" rx=\"5\" fill=\"#dceaec\" stroke=\"#2f6f7a\"/><text x=\"35.0\" y=\"58.0\" text-anchor=\"middle\" font-size=\"11\" fill=\"#1d2433\">Cloud</text><text x=\"35.0\" y=\"71.0\" text-anchor=\"middle\" font-size=\"11\" fill=\"#1d2433\">collapses</text><line x1=\"65\" y1=\"60\" x2=\"85\" y2=\"60\" stroke=\"#5d6474\" stroke-width=\"1.5\" marker-end=\"url(#ar1)\"/><rect x=\"85\" y=\"40\" width=\"60\" height=\"40\" rx=\"5\" fill=\"#f1e4c6\" stroke=\"#a8792a\"/><text x=\"115.0\" y=\"58.0\" text-anchor=\"middle\" font-size=\"11\" fill=\"#1d2433\">Spinning</text><text x=\"115.0\" y=\"71.0\" text-anchor=\"middle\" font-size=\"11\" fill=\"#1d2433\">disc</text><line x1=\"145\" y1=\"60\" x2=\"165\" y2=\"60\" stroke=\"#5d6474\" stroke-width=\"1.5\" marker-end=\"url(#ar1)\"/><rect x=\"165\" y=\"40\" width=\"70\" height=\"40\" rx=\"5\" fill=\"#f1e4c6\" stroke=\"#a8792a\"/><text x=\"200.0\" y=\"58.0\" text-anchor=\"middle\" font-size=\"11\" fill=\"#1d2433\">Planetesimals</text><text x=\"200.0\" y=\"71.0\" text-anchor=\"middle\" font-size=\"11\" fill=\"#1d2433\">clump</text><line x1=\"235\" y1=\"60\" x2=\"255\" y2=\"60\" stroke=\"#5d6474\" stroke-width=\"1.5\" marker-end=\"url(#ar1)\"/><rect x=\"255\" y=\"40\" width=\"60\" height=\"40\" rx=\"5\" fill=\"#f4dcd5\" stroke=\"#a3362a\"/><text x=\"285.0\" y=\"64.0\" text-anchor=\"middle\" font-size=\"11\" fill=\"#1d2433\">Planets</text><text x=\"160\" y=\"110\" text-anchor=\"middle\" font-size=\"10\" fill=\"#5d6474\">Central Sun ignites first; disc forms planets</text></svg>"
+  },
+  {
+   "tag": "Concept",
+   "h": "Spin makes a disc",
+   "b": "<p>As the cloud shrank it spun faster, like a skater pulling in her arms (conservation of angular momentum), and flattened into a disc. Most of the mass fell to the centre and became the Sun. The leftover disc, the <b>protoplanetary disc</b>, carried a small fraction of mass, about 1 percent, and almost all the angular momentum.</p><p>This explains the flat orbits and shared direction.</p>"
+  },
+  {
+   "tag": "Concept",
+   "h": "Dust to planetesimals to planets",
+   "b": "<p>Dust grains stuck together, growing into pebbles, then kilometre-size <b>planetesimals</b>, then protoplanets, a process called <b>accretion</b>. In the hot inner disc only rock and metal survived, so rocky planets stayed small. Beyond the <b>frost line</b> (around 3 to 5 AU), ice added mass: giant cores grew and captured gas. Gas giants had only a few million years before the young Sun blew the gas away.</p>"
+  },
+  {
+   "tag": "Concept",
+   "h": "Chaos and migration",
+   "b": "<p>The system was violent. Jupiter may have migrated inward and then back out, a model called the Grand Tack, scattering material. Planets collided: Earth was struck by Theia, making the Moon; Uranus may have been knocked over. About 4 billion years ago, a bombardment of leftover bodies cratered the inner planets. Water may have arrived partly from asteroids and comets.</p>"
+  },
+  {
+   "tag": "Concept",
+   "h": "The result",
+   "b": "<p>Rocky planets inside, giants outside, a belt of unformed material between Mars and Jupiter, and icy leftovers beyond Neptune. Earth was born about 4.54 billion years ago.</p>"
+  },
+  {
+   "tag": "How we know",
+   "h": "Meteorites, Moon rocks and other discs",
+   "b": "<p><b>Clair Patterson</b> dated meteorites in 1956 using uranium-lead decay: 4.55 billion years. The oldest solid grains (calcium-aluminium inclusions) are 4.567 billion years. Radio telescopes like <b>ALMA</b> now photograph discs around young stars; the 2014 image of HL Tauri shows gaps where baby planets sweep a path. Simple rules predicted exoplanets, but we found surprises, like hot Jupiters, which forced the migration idea.</p>"
+  },
+  {
+   "tag": "Misconceptions",
+   "h": "Small corrections",
+   "b": "<ul><li><b>'Planets formed from a piece torn from the Sun.'</b> That tidal theory fails: they formed from the shared disc.</li><li><b>'Earth was always like this.'</b> It started as molten rock.</li><li><b>'Our system is typical.'</b> Many exoplanet systems look very different.</li></ul>"
+  },
+  {
+   "tag": "Indian angle",
+   "h": "PRL, meteorites and Narlikar",
+   "b": "<p>The <b>Physical Research Laboratory (PRL)</b> in Ahmedabad, founded in 1947 by <b>Vikram Sarabhai</b> with K.R. Ramanathan, studies meteorites, isotopes and planetary science, including the PARAS spectrograph that found an exoplanet in 2018. <b>Jayant Narlikar</b> founded IUCAA, Pune, in 1988 to advance research on how cosmic structures form. Chandrayaan lunar data help test impact history, since the Moon preserves the early bombardment.</p>"
+  },
+  {
+   "tag": "Recap",
+   "h": "Key takeaways",
+   "b": "<ul><li>The Solar System formed about 4.6 billion years ago from a collapsing cloud.</li><li>Spin flattened it into a disc, explaining flat, same-direction orbits.</li><li>The frost line separates rocky and giant planets.</li><li>Meteorite dating and ALMA images support the model; migration adds the messy details.</li></ul><p><b>Think about it:</b> (1) Why do all planets orbit the same way? (2) What would you expect to find around a very young star?</p>",
+   "cls": "exam"
+  }
+ ],
+ "quiz": [
+  {
+   "q": "The Solar System formed about:",
+   "o": [
+    "460 million years ago",
+    "4.6 billion years ago",
+    "13.8 billion years ago",
+    "46 billion years ago"
+   ],
+   "a": 1,
+   "w": "4.6 billion years."
+  },
+  {
+   "q": "The flat shape of the system arises because of:",
+   "o": [
+    "Magnetism",
+    "Collapse with rotation",
+    "Solar wind",
+    "Collisions"
+   ],
+   "a": 1,
+   "w": "Angular momentum flattens a spinning cloud."
+  },
+  {
+   "q": "Giant planets formed beyond the frost line because:",
+   "o": [
+    "It is hotter there",
+    "Ice added more solid material",
+    "There is more gas only",
+    "The Sun pulled them"
+   ],
+   "a": 1,
+   "w": "More building material."
+  },
+  {
+   "q": "Who dated meteorites to 4.55 billion years in 1956?",
+   "o": [
+    "Clair Patterson",
+    "Edwin Hubble",
+    "Fred Hoyle",
+    "Hans Bethe"
+   ],
+   "a": 0,
+   "w": "Uranium-lead dating."
+  },
+  {
+   "q": "The Moon is thought to have formed from:",
+   "o": [
+    "A giant impact on early Earth",
+    "Capture of a comet",
+    "Jupiter's gas",
+    "Solar wind"
+   ],
+   "a": 0,
+   "w": "Theia impact."
+  },
+  {
+   "q": "ALMA imaged the disc around:",
+   "o": [
+    "HL Tauri",
+    "Sirius",
+    "Polaris",
+    "Alpha Centauri"
+   ],
+   "a": 0,
+   "w": "A young star with gaps in its disc."
+  },
+  {
+   "q": "The Sun holds what share of the nebula's mass?",
+   "o": [
+    "About 1 percent",
+    "About 50 percent",
+    "About 99 percent",
+    "None"
+   ],
+   "a": 2,
+   "w": "The disc was about 1 percent."
+  },
+  {
+   "q": "Hot Jupiters suggested that:",
+   "o": [
+    "Planets can migrate",
+    "Disc is rigid",
+    "Giants cannot form",
+    "Rocks are rare"
+   ],
+   "a": 0,
+   "w": "They formed far out and moved in."
+  },
+  {
+   "q": "Who proposed the nebular hypothesis (1755, 1796)?",
+   "o": [
+    "Kant and Laplace",
+    "Newton and Kepler",
+    "Copernicus and Galileo",
+    "Hoyle and Narlikar"
+   ],
+   "a": 0,
+   "w": "Kant and Laplace."
+  },
+  {
+   "q": "Why are inner planets small and rocky?",
+   "o": [
+    "Only rock and metal could stay solid there",
+    "They lacked gravity",
+    "They were hit often",
+    "The Sun was heavier"
+   ],
+   "a": 0,
+   "w": "It was too hot for ices."
+  }
+ ],
+ "sources": [
+  "Patterson 1956",
+  "ALMA HL Tau 2014",
+  "Nebular hypothesis"
+ ],
+ "verified": "2026-11-11"
+}

@@ -1,0 +1,174 @@
+{
+ "id": "2-0-2",
+ "title": "Transition Metals and Coordination Compounds",
+ "emoji": "🎨",
+ "cards": [
+  {
+   "tag": "Why this matters",
+   "h": "Colour, catalysts and blood",
+   "b": "<p>Ruby red, emerald green, blue copper sulphate, rust brown: transition metals give us colour. They also run catalysts that make fertiliser, carry oxygen in your blood (iron in haemoglobin) and power batteries and magnets.</p>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "What is a transition metal?",
+   "b": "<p>They occupy the d-block (Groups 3-12), such as Ti, Cr, Mn, Fe, Co, Ni, Cu, Zn. Their atoms are filling d orbitals. They are typically hard, dense, high-melting and good conductors.</p>"
+  },
+  {
+   "tag": "Key idea",
+   "h": "Four signature traits",
+   "b": "<ul><li><b>Variable oxidation states:</b> iron is Fe2+ or Fe3+; manganese goes from +2 to +7.</li><li><b>Coloured compounds:</b> d electrons absorb part of visible light; we see the rest.</li><li><b>Catalysts:</b> Fe in Haber, V2O5 in sulphuric acid, Ni in hydrogenation of oils, Pt in converters.</li><li><b>Form complex ions.</b></li></ul>"
+  },
+  {
+   "tag": "Key idea",
+   "h": "Why colour appears",
+   "b": "<p>In a complex, ligands split the d orbitals into two energy levels. An electron absorbs a specific colour of light to jump up. The compound shows the complementary colour. Copper(II) sulphate solution absorbs orange-red, so looks blue.</p><p>Zn2+ and Sc3+ have empty or full d subshells, so no jumps, and their compounds are colourless.</p>"
+  },
+  {
+   "tag": "Key idea",
+   "h": "Coordination compounds",
+   "b": "<p><b>Alfred Werner (1893)</b> proposed that a central metal ion binds a fixed number of molecules or ions called <b>ligands</b>, through dative bonds (both electrons come from the ligand). He won the 1913 Nobel Prize in Chemistry.</p><svg class=\"d\" viewBox=\"0 0 320 136\"><defs><marker id=\"m1\" markerWidth=\"8\" markerHeight=\"8\" refX=\"6\" refY=\"4\" orient=\"auto\"><path d=\"M0,0 L8,4 L0,8 z\" fill=\"#5d6474\"/></marker></defs><rect x=\"20\" y=\"4\" width=\"280\" height=\"30\" rx=\"6\" fill=\"#dceaec\" stroke=\"#2f6f7a\"/><text x=\"160\" y=\"23\" text-anchor=\"middle\" font-size=\"11\" fill=\"#1d2433\">Central metal ion: Fe2+</text><line x1=\"160\" y1=\"34\" x2=\"160\" y2=\"47\" stroke=\"#5d6474\" marker-end=\"url(#m1)\"/><rect x=\"20\" y=\"48\" width=\"280\" height=\"30\" rx=\"6\" fill=\"#dceaec\" stroke=\"#2f6f7a\"/><text x=\"160\" y=\"67\" text-anchor=\"middle\" font-size=\"11\" fill=\"#1d2433\">Ligands donate electron pairs: 6 CN-</text><line x1=\"160\" y1=\"78\" x2=\"160\" y2=\"91\" stroke=\"#5d6474\" marker-end=\"url(#m1)\"/><rect x=\"20\" y=\"92\" width=\"280\" height=\"30\" rx=\"6\" fill=\"#dceaec\" stroke=\"#2f6f7a\"/><text x=\"160\" y=\"111\" text-anchor=\"middle\" font-size=\"11\" fill=\"#1d2433\">Complex ion: [Fe(CN)6]4-</text></svg><p>The number of ligand bonds is the <b>coordination number</b>. Six usually gives an octahedral shape; four gives tetrahedral or square planar.</p>"
+  },
+  {
+   "tag": "Key idea",
+   "h": "Complexes in life and medicine",
+   "b": "<ul><li><b>Haemoglobin:</b> Fe2+ in a ring (haem) carries O2.</li><li><b>Chlorophyll:</b> Mg2+ complex, the green photosynthesis pigment.</li><li><b>Vitamin B12:</b> cobalt complex.</li><li><b>Cisplatin:</b> square-planar platinum complex, a cancer drug (approved 1978).</li><li><b>EDTA:</b> grips metal ions, used to treat lead poisoning and soften water.</li></ul>"
+  },
+  {
+   "tag": "Worked example",
+   "h": "Oxidation state of iron",
+   "b": "<p>In K4[Fe(CN)6], potassium is +1 (4 of them = +4) and each cyanide is -1 (6 = -6). Sum is zero: 4 + x - 6 = 0, so <b>x = +2</b>. Fe is +2.</p><p>Charge on [Cu(NH3)4]2+: ammonia is neutral, copper is +2, so the complex ion is <b>2+</b>. Coordination number = 4.</p>"
+  },
+  {
+   "tag": "Misconceptions",
+   "h": "Careful",
+   "b": "<ul><li><b>Zinc is not typically a transition metal</b> as its d shell is full in all its compounds.</li><li><b>A ligand does not need a charge.</b> Water and ammonia are neutral ligands.</li><li><b>Colour is not only from the metal.</b> Changing ligands changes the colour.</li><li><b>Catalysts are not magic.</b> They offer an alternative reaction path through changing oxidation states.</li></ul>"
+  },
+  {
+   "tag": "Indian angle",
+   "h": "Gems and colour",
+   "b": "<p>Ruby is aluminium oxide with a trace of chromium (Cr3+), giving a red colour; emerald (beryl) is coloured by chromium too, while blue sapphire owes its hue to iron and titanium. India's gem industry, with Jaipur for coloured stones and Surat for cutting and polishing diamonds, relies on such transition-metal chemistry to grade, treat and sell stones.</p>"
+  },
+  {
+   "tag": "Recap",
+   "h": "Key takeaways",
+   "b": "<ul><li>Transition metals: variable oxidation states, colour, catalysis, complex ions.</li><li>Werner (1893): metal centre plus ligands; coordination number often 6.</li><li>Biology uses them: Fe in haemoglobin, Mg in chlorophyll, Co in B12.</li></ul><div class=\"box\"><h4>Think about it</h4><p>1. Why is a solution of Zn2+ colourless while Cu2+ is blue?</p><p>2. How does a catalyst benefit from changing oxidation states?</p></div>",
+   "cls": "exam"
+  }
+ ],
+ "quiz": [
+  {
+   "q": "Transition metals mostly fill which orbitals?",
+   "o": [
+    "d",
+    "s only",
+    "p",
+    "f only"
+   ],
+   "a": 0,
+   "w": "d-block."
+  },
+  {
+   "q": "Who proposed coordination theory in 1893?",
+   "o": [
+    "Alfred Werner",
+    "Mendeleev",
+    "Lewis",
+    "Pauling"
+   ],
+   "a": 0,
+   "w": "Nobel 1913."
+  },
+  {
+   "q": "Oxidation state of Fe in K4[Fe(CN)6]?",
+   "o": [
+    "+2",
+    "+3",
+    "+4",
+    "+6"
+   ],
+   "a": 0,
+   "w": "4 + x - 6 = 0."
+  },
+  {
+   "q": "Coordination number of [Cu(NH3)4]2+?",
+   "o": [
+    "4",
+    "2",
+    "6",
+    "1"
+   ],
+   "a": 0,
+   "w": "Four ligands."
+  },
+  {
+   "q": "A ligand donates:",
+   "o": [
+    "A pair of electrons",
+    "A proton",
+    "A neutron",
+    "An alpha particle"
+   ],
+   "a": 0,
+   "w": "Forms a dative bond."
+  },
+  {
+   "q": "Which compound is typically colourless?",
+   "o": [
+    "Cu2+ salts",
+    "Zn2+ salts",
+    "Fe3+ salts",
+    "Cr3+ salts"
+   ],
+   "a": 1,
+   "w": "Full d subshell."
+  },
+  {
+   "q": "Metal at centre of chlorophyll:",
+   "o": [
+    "Magnesium",
+    "Iron",
+    "Cobalt",
+    "Copper"
+   ],
+   "a": 0,
+   "w": "Mg2+."
+  },
+  {
+   "q": "Cisplatin is used to treat:",
+   "o": [
+    "Malaria",
+    "Diabetes",
+    "Cough",
+    "Cancer"
+   ],
+   "a": 3,
+   "w": "A platinum complex."
+  },
+  {
+   "q": "Catalyst in making sulphuric acid:",
+   "o": [
+    "V2O5",
+    "Pt only",
+    "Fe",
+    "Ni"
+   ],
+   "a": 0,
+   "w": "Contact process."
+  },
+  {
+   "q": "Ruby's red colour is from traces of:",
+   "o": [
+    "Copper",
+    "Chromium",
+    "Iron",
+    "Gold"
+   ],
+   "a": 1,
+   "w": "Cr3+ in Al2O3."
+  }
+ ],
+ "sources": [
+  "Standard school and university chemistry texts"
+ ],
+ "verified": "2026-11-11"
+}

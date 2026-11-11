@@ -1,0 +1,169 @@
+{
+ "id": "3-0-0",
+ "title": "Lukács: Class Consciousness and Reification",
+ "emoji": "📖",
+ "cards": [
+  {
+   "tag": "Why this matters",
+   "h": "The birth of Western Marxism",
+   "b": "<p>After 1917, Marxism in Western Europe took a philosophical turn. Georg Lukács's <i>History and Class Consciousness</i> (1923) is the founding book. It restored Hegel and the dialectic and gave a language for why workers might not revolt.</p>"
+  },
+  {
+   "tag": "Context",
+   "h": "A Hungarian aristocrat among Bolsheviks",
+   "b": "<p>Born in Budapest (1885) into a wealthy Jewish family, Lukács wrote on literature (<i>Theory of the Novel</i>, 1916). He joined the Hungarian Communist Party in 1918 and served as a commissar in the short-lived Hungarian Soviet Republic (March-August 1919). In exile in Vienna he wrote the essays of 1919-23 collected as <i>History and Class Consciousness</i>. The Comintern denounced the book in 1924.</p>"
+  },
+  {
+   "tag": "Key idea",
+   "h": "Marxism is a method",
+   "b": "<p>In \"What is Orthodox Marxism?\", Lukács says orthodoxy refers to <b>method</b>, not to any particular doctrine: the dialectic and the viewpoint of <b>totality</b>. Facts only have meaning within the whole society. This was a break with the economism of the Second International.</p>"
+  },
+  {
+   "tag": "Key idea",
+   "h": "Reification",
+   "b": "<p>Building on <i>Capital</i>'s commodity fetishism and Weber's rationalisation, Lukács argued that in capitalism, human relations take on a \"phantom objectivity\": social relations seem like things with their own laws. The worker's labour becomes a measurable, interchangeable quantity; bureaucracy, law, even the sciences treat the world as fixed facts. Reification thus affects thinking itself, not just the factory.</p>"
+  },
+  {
+   "tag": "Key idea",
+   "h": "Class consciousness and the party",
+   "b": "<p>The proletariat, since it is reduced to a commodity, can grasp the whole of society as the \"identical subject-object\" of history. \"Imputed\" class consciousness is what workers would feel if they understood their real position. The Party is the organised form of that consciousness. Lukács backed Leninism in this book, which was an uneasy marriage.</p>"
+  },
+  {
+   "tag": "In practice",
+   "h": "Later life",
+   "b": "<p>In the 1920s Lukács bowed to Comintern criticism and disowned the book (1930s). In exile in Moscow he turned to literary criticism, defending realism (Balzac, Tolstoy) against modernism, and later the Hungarian government. He was minister of culture in Imre Nagy's government in 1956, deported to Romania after the Soviet invasion, returned in 1957 and died in 1971. In 1967 he wrote a new preface criticising the book as \"Hegelian\".</p>"
+  },
+  {
+   "tag": "Critiques",
+   "h": "Hegel in Marx's clothing?",
+   "b": "<p><b>Soviet Marxists</b> (Zinoviev, Bukharin) called it idealist. <b>Althusser</b> thought it historicist and humanist. <b>Adorno</b> said the claim that the proletariat is subject-object is a myth: the worker is also integrated by capitalism. <b>Analytical Marxists</b> find the argument obscure. <b>Liberals</b> see \"imputed consciousness\" as licence for a party to override real workers' opinion. <b>Defenders</b>: it explains passivity and the power of ideology better than economism.</p>"
+  },
+  {
+   "tag": "Indian angle",
+   "h": "Reification and Indian Marxism",
+   "b": "<p>Lukács was read in India mainly by literary critics and scholars of the Progressive Writers' Association (founded 1936). His realism shaped debate about Premchand and Mulk Raj Anand. Reification suits critiques of caste hierarchy, in which persons become fixed categories. Indian Marxist theory in the 1970s-80s, for example in the work of Sudipta Kaviraj and the Subaltern Studies group, engages \"Western Marxism\", though mostly Gramsci instead.</p>"
+  },
+  {
+   "tag": "Recap",
+   "h": "Five takeaways and two debates",
+   "b": "<h4>Key takeaways</h4><ol><li>History and Class Consciousness (1923) founded Western Marxism.</li><li>Orthodoxy means method: dialectic and totality.</li><li>Reification: social relations appear as things.</li><li>Class consciousness is \"imputed\" and carried by the Party.</li><li>Critics: Hegelian idealism and justification for party authority.</li></ol><h4>Debate questions</h4><ol><li>Does reification explain consumer culture and social media?</li><li>Can a party know workers' interests better than workers?</li></ol>",
+   "cls": "exam"
+  }
+ ],
+ "quiz": [
+  {
+   "q": "History and Class Consciousness was published in",
+   "o": [
+    "1917",
+    "1936",
+    "1923",
+    "1956"
+   ],
+   "a": 2,
+   "w": "Berlin."
+  },
+  {
+   "q": "For Lukács, orthodox Marxism refers to",
+   "o": [
+    "A set of doctrines",
+    "Party loyalty",
+    "Economic laws",
+    "Method"
+   ],
+   "a": 3,
+   "w": "The dialectic."
+  },
+  {
+   "q": "Reification builds on",
+   "o": [
+    "Surplus value",
+    "Alienation of labour in the Manuscripts only",
+    "Commodity fetishism",
+    "Permanent revolution"
+   ],
+   "a": 2,
+   "w": "And on Weber."
+  },
+  {
+   "q": "Lukács was a minister of culture in",
+   "o": [
+    "Béla Kun's 1919 government",
+    "Imre Nagy's 1956 government",
+    "Rákosi's government",
+    "Kádár's government"
+   ],
+   "a": 1,
+   "w": "He was also a commissar in 1919."
+  },
+  {
+   "q": "The Comintern criticised the book in",
+   "o": [
+    "1917",
+    "1950",
+    "1924",
+    "1936"
+   ],
+   "a": 2,
+   "w": "Zinoviev denounced it."
+  },
+  {
+   "q": "\"Imputed\" consciousness is",
+   "o": [
+    "The average opinion of workers",
+    "The Party's propaganda",
+    "What workers would feel if they grasped their real position",
+    "Bourgeois opinion"
+   ],
+   "a": 2,
+   "w": "A normative concept."
+  },
+  {
+   "q": "Which critic called the proletariat as subject-object a myth?",
+   "o": [
+    "Lenin",
+    "Kautsky",
+    "Bukharin",
+    "Adorno"
+   ],
+   "a": 3,
+   "w": "Frankfurt School."
+  },
+  {
+   "q": "Lukács defended which literary style?",
+   "o": [
+    "Surrealism",
+    "Realism",
+    "Expressionism",
+    "Futurism"
+   ],
+   "a": 1,
+   "w": "Against modernism."
+  },
+  {
+   "q": "The Progressive Writers' Association in India was founded in",
+   "o": [
+    "1920",
+    "1936",
+    "1947",
+    "1975"
+   ],
+   "a": 1,
+   "w": "Lucknow."
+  },
+  {
+   "q": "Lukács's earlier book on literature was",
+   "o": [
+    "Reification",
+    "Capital",
+    "Theory of the Novel",
+    "The Open Society"
+   ],
+   "a": 2,
+   "w": "1916."
+  }
+ ],
+ "sources": [
+  "Lukács 1923, 1967 preface"
+ ],
+ "verified": "2026-11-11"
+}

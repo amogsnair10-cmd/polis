@@ -1,0 +1,174 @@
+{
+ "id": "0-0-3",
+ "title": "The Periodic Table and Its Trends",
+ "emoji": "📊",
+ "cards": [
+  {
+   "tag": "Why this matters",
+   "h": "A map of all matter",
+   "b": "<p>The periodic table is chemistry's most useful chart. With one glance you can guess how an element behaves, what it bonds with and what it looks like. It even let scientists predict elements before they were found.</p>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "Mendeleev's insight",
+   "b": "<p><b>Dmitri Mendeleev, 1869</b>, arranged the known elements by increasing atomic mass and noticed that properties repeat at regular intervals. He left gaps for unknown elements and predicted their properties.</p><p>He predicted <i>eka-aluminium</i>. In 1875 Lecoq de Boisbaudran found <b>gallium</b>, matching the prediction closely. That success made the table famous.</p>"
+  },
+  {
+   "tag": "Key idea",
+   "h": "Moseley fixes the order",
+   "b": "<p><b>Henry Moseley, 1913</b>, used X-rays to show that the real ordering principle is <b>atomic number</b> (protons), not mass. The modern periodic law: properties are a periodic function of atomic number. This fixed oddities like tellurium and iodine, where mass order disagreed with properties.</p>"
+  },
+  {
+   "tag": "Key idea",
+   "h": "Reading the layout",
+   "b": "<ul><li><b>Periods:</b> 7 horizontal rows. Same number of shells.</li><li><b>Groups:</b> 18 vertical columns. Same outer electrons, similar chemistry.</li><li><b>Blocks:</b> s, p, d, f, named after the orbital being filled.</li></ul><p>Famous groups: Group 1 alkali metals (Li, Na, K), Group 2 alkaline earths, Group 17 halogens, Group 18 noble gases. Metals sit left and centre, non-metals right, with metalloids (like silicon) on the staircase between.</p>"
+  },
+  {
+   "tag": "Key idea",
+   "h": "Trend 1: atomic size",
+   "b": "<p>Atomic radius <b>decreases across a period</b> (left to right): more protons pull the same shell tighter. It <b>increases down a group</b>: extra shells are added.</p><svg class=\"d\" viewBox=\"0 0 320 92\"><defs><marker id=\"m1\" markerWidth=\"8\" markerHeight=\"8\" refX=\"6\" refY=\"4\" orient=\"auto\"><path d=\"M0,0 L8,4 L0,8 z\" fill=\"#5d6474\"/></marker></defs><rect x=\"20\" y=\"4\" width=\"280\" height=\"30\" rx=\"6\" fill=\"#f1e4c6\" stroke=\"#a8792a\"/><text x=\"160\" y=\"23\" text-anchor=\"middle\" font-size=\"11\" fill=\"#1d2433\">Across a period: smaller</text><line x1=\"160\" y1=\"34\" x2=\"160\" y2=\"47\" stroke=\"#5d6474\" marker-end=\"url(#m1)\"/><rect x=\"20\" y=\"48\" width=\"280\" height=\"30\" rx=\"6\" fill=\"#f1e4c6\" stroke=\"#a8792a\"/><text x=\"160\" y=\"67\" text-anchor=\"middle\" font-size=\"11\" fill=\"#1d2433\">Down a group: larger</text></svg><p>So caesium is huge, fluorine is tiny.</p>"
+  },
+  {
+   "tag": "Key idea",
+   "h": "Trends 2 and 3: ionisation energy, electronegativity",
+   "b": "<p><b>Ionisation energy</b> is the energy needed to remove an electron. It rises across a period and falls down a group. That is why Group 1 metals lose electrons so easily.</p><p><b>Electronegativity</b> (Linus Pauling's scale) is the pull on shared electrons. It rises towards the top right. Fluorine is the most electronegative element (4.0).</p><p>Reactivity follows: metals get more reactive going down a group (K is more reactive than Na); non-metals get more reactive going up (F more than I).</p>"
+  },
+  {
+   "tag": "Worked example",
+   "h": "Predict from position",
+   "b": "<p>Element X is in Period 3, Group 17. Which element? Chlorine. It has 7 outer electrons, so it is a reactive non-metal that forms X- ions and bonds with Group 1 metals like sodium to make NaCl.</p><p>Compare size: Na (Period 3, Group 1) vs Cl (Period 3, Group 17). Across the period size shrinks, so Na is larger than Cl. Compare Li and K: same group, K is lower, so K is larger and loses its electron more easily.</p>"
+  },
+  {
+   "tag": "Misconceptions",
+   "h": "Be careful",
+   "b": "<ul><li><b>Hydrogen is not an alkali metal</b>, though placed in Group 1.</li><li><b>Mendeleev did not know protons.</b> Atomic number came later.</li><li><b>Larger atoms are not harder to ionise.</b> The outer electron is farther away and easier to remove.</li><li><b>There are 118 known elements</b>, the last (oganesson) completing Period 7.</li></ul>"
+  },
+  {
+   "tag": "Indian angle",
+   "h": "Saha and monazite sands",
+   "b": "<p><b>Meghnad Saha</b> derived the Saha ionisation equation in 1920, explaining how atoms of different elements ionise at different star temperatures. It is the basis for reading the chemistry of stars.</p><p>India's coastal sands in Kerala, Tamil Nadu and Odisha are rich in <b>monazite</b>, a mineral holding rare-earth elements and thorium, which links the periodic table directly to India's nuclear plans.</p>"
+  },
+  {
+   "tag": "Recap",
+   "h": "Key takeaways",
+   "b": "<ul><li>Mendeleev (1869) arranged by mass; Moseley (1913) showed atomic number is the true order.</li><li>18 groups, 7 periods; groups share outer-electron count.</li><li>Radius falls across, rises down; ionisation energy and electronegativity rise across.</li></ul><div class=\"box\"><h4>Think about it</h4><p>1. Why is potassium more reactive than lithium?</p><p>2. Why did Mendeleev's gaps make his table convincing?</p></div>",
+   "cls": "exam"
+  }
+ ],
+ "quiz": [
+  {
+   "q": "Who published the first widely accepted periodic table in 1869?",
+   "o": [
+    "Mendeleev",
+    "Moseley",
+    "Dalton",
+    "Saha"
+   ],
+   "a": 0,
+   "w": "Mendeleev, 1869."
+  },
+  {
+   "q": "The modern periodic law arranges elements by:",
+   "o": [
+    "Atomic number",
+    "Atomic mass",
+    "Density",
+    "Colour"
+   ],
+   "a": 0,
+   "w": "Moseley, 1913."
+  },
+  {
+   "q": "Mendeleev's eka-aluminium was later found as:",
+   "o": [
+    "Germanium",
+    "Gallium",
+    "Scandium",
+    "Indium"
+   ],
+   "a": 1,
+   "w": "Gallium, 1875."
+  },
+  {
+   "q": "Atomic radius across a period from left to right:",
+   "o": [
+    "Decreases",
+    "Increases",
+    "Stays same",
+    "Doubles"
+   ],
+   "a": 0,
+   "w": "More protons pull the shell in."
+  },
+  {
+   "q": "Most electronegative element?",
+   "o": [
+    "Oxygen",
+    "Chlorine",
+    "Fluorine",
+    "Caesium"
+   ],
+   "a": 2,
+   "w": "Fluorine, 4.0 on Pauling scale."
+  },
+  {
+   "q": "How many groups does the modern table have?",
+   "o": [
+    "18",
+    "8",
+    "7",
+    "32"
+   ],
+   "a": 0,
+   "w": "18 vertical columns."
+  },
+  {
+   "q": "Which is the most reactive metal here?",
+   "o": [
+    "Potassium",
+    "Lithium",
+    "Sodium",
+    "Magnesium"
+   ],
+   "a": 0,
+   "w": "Reactivity rises down Group 1; Mg is Group 2."
+  },
+  {
+   "q": "Element in Group 17 has how many outer electrons?",
+   "o": [
+    "1",
+    "7",
+    "8",
+    "17"
+   ],
+   "a": 1,
+   "w": "Halogens have 7."
+  },
+  {
+   "q": "Noble gases are in group:",
+   "o": [
+    "1",
+    "17",
+    "2",
+    "18"
+   ],
+   "a": 3,
+   "w": "Full outer shells."
+  },
+  {
+   "q": "Saha's 1920 equation deals with:",
+   "o": [
+    "Ionisation of atoms at high temperature",
+    "Atomic mass",
+    "Radioactive decay",
+    "Gas laws"
+   ],
+   "a": 0,
+   "w": "Used to study star chemistry."
+  }
+ ],
+ "sources": [
+  "Standard school and university chemistry texts"
+ ],
+ "verified": "2026-11-11"
+}

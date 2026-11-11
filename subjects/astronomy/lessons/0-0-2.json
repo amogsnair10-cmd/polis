@@ -1,0 +1,175 @@
+{
+ "id": "0-0-2",
+ "title": "Eclipses, Seasons and Calendars",
+ "emoji": "🌑",
+ "cards": [
+  {
+   "tag": "Why this matters",
+   "h": "The sky that frightened and taught us",
+   "b": "<p>A total solar eclipse turns day into dusk in minutes. People once feared it. Today it is one of the best demonstrations of how orderly the sky really is: we can predict eclipses centuries ahead.</p><p>The same geometry of tilt and orbit explains seasons and shapes every calendar.</p>"
+  },
+  {
+   "tag": "Concept",
+   "h": "Solar eclipse: the Moon blocks the Sun",
+   "b": "<p>At new Moon, the Moon can pass exactly between Earth and Sun. Its shadow falls on a narrow strip of Earth. Inside the dark centre (<b>umbra</b>) you see a total eclipse; in the lighter outer shadow (<b>penumbra</b>) a partial one.</p><p>The coincidence is remarkable: the Sun is about 400 times wider than the Moon and also about 400 times farther, so they look almost the same size in the sky.</p><svg class=\"d\" viewBox=\"0 0 320 110\"><defs><marker id=\"ar1\" viewBox=\"0 0 10 10\" refX=\"9\" refY=\"5\" markerWidth=\"6\" markerHeight=\"6\" orient=\"auto\"><path d=\"M0 0L10 5L0 10z\" fill=\"#5d6474\"/></marker></defs><circle cx=\"40\" cy=\"55\" r=\"22\" fill=\"#f1e4c6\" stroke=\"#a8792a\"/><text x=\"40\" y=\"59\" text-anchor=\"middle\" font-size=\"10\" fill=\"#1d2433\">Sun</text><circle cx=\"170\" cy=\"55\" r=\"12\" fill=\"#dceaec\" stroke=\"#2f6f7a\"/><text x=\"170\" y=\"59\" text-anchor=\"middle\" font-size=\"10\" fill=\"#1d2433\">Moon</text><circle cx=\"250\" cy=\"55\" r=\"16\" fill=\"#dceaec\" stroke=\"#2f6f7a\"/><text x=\"250\" y=\"59\" text-anchor=\"middle\" font-size=\"10\" fill=\"#1d2433\">Earth</text><line x1=\"60\" y1=\"55\" x2=\"160\" y2=\"55\" stroke=\"#5d6474\" stroke-width=\"1.5\" marker-end=\"url(#ar1)\"/><text x=\"160\" y=\"100\" text-anchor=\"middle\" font-size=\"10\" fill=\"#5d6474\">Solar eclipse: Moon between Sun and Earth (new Moon)</text></svg>"
+  },
+  {
+   "tag": "Concept",
+   "h": "Lunar eclipse: Earth's shadow on the Moon",
+   "b": "<p>At full Moon, Earth may sit between the Sun and Moon, so the Moon passes into Earth's shadow. The Moon turns coppery red, because the only light reaching it has bent through Earth's atmosphere, with blue scattered away (the same reason sunsets are red).</p><p>A lunar eclipse is visible from the whole night side of Earth. A total solar eclipse is visible only along a thin path.</p>"
+  },
+  {
+   "tag": "Concept",
+   "h": "Why not every month?",
+   "b": "<p>If the Moon orbited in the same plane as Earth's orbit, we would get an eclipse every month. But the Moon's orbit is tilted about <b>5 degrees</b>. Most months the Moon passes above or below the line.</p><p>Eclipses occur only near the two points where the orbits cross, the <b>nodes</b>. The pattern repeats every <b>saros</b>, about 18 years 11 days 8 hours, a cycle known to the Babylonians.</p>"
+  },
+  {
+   "tag": "Concept",
+   "h": "Seasons: tilt, not distance",
+   "b": "<p>Earth's axis is tilted by 23.4 degrees. When the northern half leans toward the Sun, sunlight hits at a steeper angle and days are longer: summer. Six months later it is winter there.</p><p>Earth is actually <i>closest</i> to the Sun in early January, in northern winter. So distance cannot be the cause.</p><svg class=\"d\" viewBox=\"0 0 320 130\"><defs><marker id=\"ar2\" viewBox=\"0 0 10 10\" refX=\"9\" refY=\"5\" markerWidth=\"6\" markerHeight=\"6\" orient=\"auto\"><path d=\"M0 0L10 5L0 10z\" fill=\"#5d6474\"/></marker></defs><ellipse cx=\"160\" cy=\"65\" rx=\"90\" ry=\"30\" fill=\"none\" stroke=\"#5d6474\"/><circle cx=\"160\" cy=\"65\" r=\"12\" fill=\"#f1e4c6\" stroke=\"#a8792a\"/><circle cx=\"70\" cy=\"65\" r=\"9\" fill=\"#dceaec\" stroke=\"#2f6f7a\"/><circle cx=\"250\" cy=\"65\" r=\"9\" fill=\"#dceaec\" stroke=\"#2f6f7a\"/><text x=\"160\" y=\"69\" text-anchor=\"middle\" font-size=\"10\" fill=\"#1d2433\">Sun</text><text x=\"70\" y=\"90\" text-anchor=\"middle\" font-size=\"10\" fill=\"#1d2433\">Jun: N tilted to Sun</text><text x=\"250\" y=\"90\" text-anchor=\"middle\" font-size=\"10\" fill=\"#1d2433\">Dec: N tilted away</text><text x=\"160\" y=\"122\" text-anchor=\"middle\" font-size=\"10\" fill=\"#5d6474\">Tilt, not distance, makes seasons</text></svg>"
+  },
+  {
+   "tag": "Concept",
+   "h": "Calendars: matching Sun and Moon",
+   "b": "<p>The year (365.2422 days) and the lunar month (29.53 days) do not fit evenly: 12 lunar months is only 354 days. Cultures chose: purely <b>solar</b> (Gregorian), purely <b>lunar</b> (Islamic), or <b>lunisolar</b> with a leap month (Hindu, Chinese, Jewish).</p><p>The Gregorian calendar, adopted from 1582, drops three leap days in every 400 years (century years are leap only if divisible by 400) to stay in step with the seasons.</p>"
+  },
+  {
+   "tag": "How we know",
+   "h": "Prediction is the proof",
+   "b": "<p>In 1919, an eclipse let Eddington test Einstein's idea that gravity bends starlight. Eclipses also revealed the Sun's corona and, in 1868, a new element: helium (lesson 5).</p><p>Computing eclipses backward matches historical records of eclipses in Babylon and China, which confirms that Earth's rotation is slowing slightly (about 2 milliseconds per century).</p>"
+  },
+  {
+   "tag": "Misconceptions",
+   "h": "Watch out",
+   "b": "<ul><li><b>'Summer is when Earth is nearest the Sun.'</b> False; January is nearest.</li><li><b>'An eclipse is dangerous in itself.'</b> The danger is looking at the Sun without proper eclipse glasses, which can burn the retina.</li><li><b>'Eclipses are omens.'</b> They are geometry.</li></ul>"
+  },
+  {
+   "tag": "Indian angle",
+   "h": "Aryabhata, Saka calendar, Kurukshetra",
+   "b": "<p>Aryabhata (499 CE) explained eclipses correctly as shadows of Earth and Moon, rather than the demon Rahu swallowing the Sun, and gave a method to compute them.</p><p>India's national civil calendar is the <b>Saka calendar</b> (adopted 1957, year starting 22 March in ordinary years). It came from the 1952 <b>Calendar Reform Committee</b> chaired by the astrophysicist <b>Meghnad Saha</b>. Many Indian festivals still follow lunisolar rules in the panchang. India saw a total solar eclipse on 24 October 1995 and an annular one on 26 December 2019 in the south.</p>"
+  },
+  {
+   "tag": "Recap",
+   "h": "Key takeaways",
+   "b": "<ul><li>Solar eclipse: new Moon blocks the Sun; lunar eclipse: full Moon enters Earth's shadow.</li><li>The Moon's 5 degree tilt makes eclipses rare; the saros repeats them.</li><li>Seasons come from the 23.4 degree tilt, not distance.</li><li>Calendars reconcile year and month: solar, lunar or lunisolar.</li></ul><p><b>Think about it:</b> (1) Why can a lunar eclipse be seen by many more people than a solar one? (2) What would seasons be like if Earth had no tilt?</p>",
+   "cls": "exam"
+  }
+ ],
+ "quiz": [
+  {
+   "q": "A solar eclipse can occur only at:",
+   "o": [
+    "Full Moon",
+    "New Moon",
+    "Quarter Moon",
+    "Any phase"
+   ],
+   "a": 1,
+   "w": "Moon must be between Earth and Sun."
+  },
+  {
+   "q": "Why does the eclipsed Moon look red?",
+   "o": [
+    "It heats up",
+    "Earth's atmosphere bends red light onto it",
+    "Mars reflects light",
+    "Dust on the Moon"
+   ],
+   "a": 1,
+   "w": "Red light refracts through Earth's air."
+  },
+  {
+   "q": "Why do we not have eclipses every month?",
+   "o": [
+    "The Moon's orbit is tilted about 5 degrees",
+    "The Sun moves",
+    "Earth rotates too fast",
+    "Clouds block them"
+   ],
+   "a": 0,
+   "w": "Alignment must occur near the nodes."
+  },
+  {
+   "q": "Seasons arise mainly because:",
+   "o": [
+    "Earth's distance from the Sun changes",
+    "Earth's axis is tilted",
+    "The Sun's output varies",
+    "The Moon's pull"
+   ],
+   "a": 1,
+   "w": "23.4 degree axial tilt."
+  },
+  {
+   "q": "Earth is nearest the Sun around:",
+   "o": [
+    "Early January",
+    "Late June",
+    "March",
+    "September"
+   ],
+   "a": 0,
+   "w": "Perihelion is early January."
+  },
+  {
+   "q": "The saros cycle is about:",
+   "o": [
+    "1 year",
+    "18 years 11 days",
+    "100 years",
+    "29.5 days"
+   ],
+   "a": 1,
+   "w": "Eclipse repeat cycle."
+  },
+  {
+   "q": "Which calendar is purely lunar?",
+   "o": [
+    "Gregorian",
+    "Islamic",
+    "Hindu panchang",
+    "Saka"
+   ],
+   "a": 1,
+   "w": "Islamic calendar is purely lunar."
+  },
+  {
+   "q": "Who chaired the committee that produced India's national calendar in 1957?",
+   "o": [
+    "C.V. Raman",
+    "Meghnad Saha",
+    "Homi Bhabha",
+    "S. Chandrasekhar"
+   ],
+   "a": 1,
+   "w": "Saha chaired the Calendar Reform Committee (1952)."
+  },
+  {
+   "q": "A total solar eclipse is possible because:",
+   "o": [
+    "Sun and Moon look nearly the same size",
+    "The Moon is larger than the Sun",
+    "The Sun is very dim",
+    "Earth is flat"
+   ],
+   "a": 0,
+   "w": "Both are about 0.5 degrees across."
+  },
+  {
+   "q": "Which scholar explained eclipses as shadows, not Rahu, in India?",
+   "o": [
+    "Aryabhata",
+    "Kalidasa",
+    "Kautilya",
+    "Charaka"
+   ],
+   "a": 0,
+   "w": "Aryabhata, 499 CE."
+  }
+ ],
+ "sources": [
+  "Calendar Reform Committee report 1955",
+  "NASA eclipse tables"
+ ],
+ "verified": "2026-11-11"
+}

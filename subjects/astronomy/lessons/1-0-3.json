@@ -1,0 +1,176 @@
+{
+ "id": "1-0-3",
+ "title": "Moons, Rings, Asteroids and Comets",
+ "emoji": "☄️",
+ "cards": [
+  {
+   "tag": "Why this matters",
+   "h": "The leftovers that tell the story",
+   "b": "<p>Planets get the fame, but moons, asteroids and comets are the preserved building blocks of the Solar System. Some may host life. Some could end it: an asteroid about 10 km wide hit Earth 66 million years ago and ended the dinosaurs.</p><svg class=\"d\" viewBox=\"0 0 320 100\"><defs><marker id=\"ar1\" viewBox=\"0 0 10 10\" refX=\"9\" refY=\"5\" markerWidth=\"6\" markerHeight=\"6\" orient=\"auto\"><path d=\"M0 0L10 5L0 10z\" fill=\"#5d6474\"/></marker></defs><circle cx=\"25\" cy=\"45\" r=\"10\" fill=\"#f1e4c6\" stroke=\"#a8792a\"/><text x=\"25\" y=\"49\" text-anchor=\"middle\" font-size=\"10\" fill=\"#1d2433\">Sun</text><rect x=\"60\" y=\"30\" width=\"45\" height=\"30\" rx=\"5\" fill=\"#dceaec\" stroke=\"#2f6f7a\"/><text x=\"82.5\" y=\"43.0\" text-anchor=\"middle\" font-size=\"11\" fill=\"#1d2433\">Inner</text><text x=\"82.5\" y=\"56.0\" text-anchor=\"middle\" font-size=\"11\" fill=\"#1d2433\">planets</text><rect x=\"110\" y=\"30\" width=\"55\" height=\"30\" rx=\"5\" fill=\"#f1e4c6\" stroke=\"#a8792a\"/><text x=\"137.5\" y=\"43.0\" text-anchor=\"middle\" font-size=\"11\" fill=\"#1d2433\">Asteroid</text><text x=\"137.5\" y=\"56.0\" text-anchor=\"middle\" font-size=\"11\" fill=\"#1d2433\">belt</text><rect x=\"170\" y=\"30\" width=\"50\" height=\"30\" rx=\"5\" fill=\"#dceaec\" stroke=\"#2f6f7a\"/><text x=\"195.0\" y=\"49.0\" text-anchor=\"middle\" font-size=\"11\" fill=\"#1d2433\">Giants</text><rect x=\"225\" y=\"30\" width=\"90\" height=\"30\" rx=\"5\" fill=\"#f4dcd5\" stroke=\"#a3362a\"/><text x=\"270.0\" y=\"49.0\" text-anchor=\"middle\" font-size=\"11\" fill=\"#1d2433\">Kuiper belt</text><text x=\"160\" y=\"85\" text-anchor=\"middle\" font-size=\"9\" fill=\"#5d6474\">Oort cloud: far beyond, up to about 1 light-year out (theory)</text></svg>"
+  },
+  {
+   "tag": "Concept",
+   "h": "Moons: worlds of their own",
+   "b": "<p>Our Moon is 1/4 of Earth's width. The leading theory: a Mars-size body, <b>Theia</b>, struck the young Earth about 4.5 billion years ago and the debris formed the Moon (giant impact theory). Apollo rocks match Earth's mantle. The Moon's gravity causes tides and steadies Earth's tilt.</p><p>Other moons: <b>Ganymede</b> (Jupiter) is bigger than Mercury; <b>Io</b> is the most volcanic body known; <b>Europa</b> and <b>Enceladus</b> hide salty oceans under ice; <b>Titan</b> (Saturn) has a thick atmosphere with methane lakes.</p>"
+  },
+  {
+   "tag": "Concept",
+   "h": "Rings",
+   "b": "<p>Rings are made of countless small ice or rock bodies orbiting inside the <b>Roche limit</b>, the distance within which a planet's tides tear apart large bodies or stop them from clumping. Saturn's are brightest; Jupiter, Uranus and Neptune have faint ones.</p>"
+  },
+  {
+   "tag": "Concept",
+   "h": "Asteroids",
+   "b": "<p>Most asteroids orbit between Mars and Jupiter in the <b>asteroid belt</b>. Despite pictures, it is mostly empty space. The belt's total mass is only about 4 percent of the Moon's. The biggest, <b>Ceres</b> (940 km), is now classed as a dwarf planet. Asteroids are leftover rocks that Jupiter's gravity prevented from forming a planet.</p><p>Some cross Earth's orbit. In 2022, NASA's <b>DART</b> spacecraft hit the small asteroid Dimorphos and changed its orbit, the first test of planetary defence.</p>"
+  },
+  {
+   "tag": "Concept",
+   "h": "Comets: dirty snowballs",
+   "b": "<p>A comet is a few-km ball of ice, dust and frozen gases. Near the Sun, it warms; gas and dust stream out as a glowing <b>coma</b> and two tails: a bluish ion tail and a curved dust tail. Tails always point <i>away</i> from the Sun, pushed by sunlight and the solar wind, not trailing behind.</p><p>Short-period comets come from the <b>Kuiper belt</b> beyond Neptune; long-period ones from the <b>Oort cloud</b>, a vast shell of icy bodies. <b>Halley's Comet</b> returns every 76 years (last 1986, next 2061).</p>"
+  },
+  {
+   "tag": "Concept",
+   "h": "Meteors, meteorites and dwarf planets",
+   "b": "<p>A <b>meteoroid</b> is a small piece of space rock. When it burns in the air it makes a <b>meteor</b> (shooting star). If it lands, it is a <b>meteorite</b>. Meteor showers happen when Earth crosses a comet's dust trail. <b>Pluto</b>, 2,377 km wide, was reclassified a <b>dwarf planet</b> in 2006 by the IAU because it has not cleared its orbit. New Horizons flew by it in 2015.</p>"
+  },
+  {
+   "tag": "How we know",
+   "h": "Samples",
+   "b": "<p>We can hold pieces of these bodies: Apollo moon rocks; Japan's Hayabusa2 returned asteroid Ryugu dust (2020); NASA's OSIRIS-REx brought back asteroid Bennu samples in September 2023; ESA's Rosetta orbited a comet in 2014-2016 and landed a probe. Meteorites reveal the Solar System's age: about 4.57 billion years.</p>"
+  },
+  {
+   "tag": "Misconceptions",
+   "h": "Not quite",
+   "b": "<ul><li><b>'The asteroid belt is dense with rocks.'</b> Spacecraft cross it easily.</li><li><b>'A comet's tail trails behind.'</b> It points away from the Sun.</li><li><b>'Shooting stars are stars.'</b> They are tiny specks burning at about 100 km height.</li></ul>"
+  },
+  {
+   "tag": "Indian angle",
+   "h": "Chandrayaan, Lonar and a Moon with water",
+   "b": "<p>ISRO's <b>Chandrayaan-1</b> (22 October 2008) carried the Moon Impact Probe and NASA's Moon Mineralogy Mapper, which found water molecules in the lunar surface in 2009. <b>Chandrayaan-3</b> landed on 23 August 2023 near the south pole, and its rover measured surface temperatures and detected sulphur. <b>Lonar Lake</b> in Maharashtra is an impact crater in basalt, formed by a meteorite hundreds of thousands of years ago, one of the few such craters in basalt on Earth.</p>"
+  },
+  {
+   "tag": "Recap",
+   "h": "Key takeaways",
+   "b": "<ul><li>The Moon likely formed from a giant impact; some moons have oceans and atmospheres.</li><li>Asteroids are rocky leftovers, mostly in a sparse belt.</li><li>Comets are icy; tails point away from the Sun.</li><li>Pluto is a dwarf planet; Kuiper belt and Oort cloud supply comets.</li></ul><p><b>Think about it:</b> (1) Why are icy moons good places to search for life? (2) Why did DART matter for humanity?</p>",
+   "cls": "exam"
+  }
+ ],
+ "quiz": [
+  {
+   "q": "The leading explanation for the Moon's origin is:",
+   "o": [
+    "Capture",
+    "Giant impact",
+    "Fission",
+    "Condensing alongside Earth"
+   ],
+   "a": 1,
+   "w": "A Mars-size body struck early Earth."
+  },
+  {
+   "q": "A comet's tail points:",
+   "o": [
+    "Behind its path",
+    "Away from the Sun",
+    "Toward the Sun",
+    "Randomly"
+   ],
+   "a": 1,
+   "w": "Solar wind and light pressure."
+  },
+  {
+   "q": "The asteroid belt lies between:",
+   "o": [
+    "Earth and Mars",
+    "Mars and Jupiter",
+    "Jupiter and Saturn",
+    "Neptune and Pluto"
+   ],
+   "a": 1,
+   "w": "Mars and Jupiter."
+  },
+  {
+   "q": "Halley's Comet returns about every:",
+   "o": [
+    "7.6 years",
+    "76 years",
+    "760 years",
+    "1 year"
+   ],
+   "a": 1,
+   "w": "Next around 2061."
+  },
+  {
+   "q": "Which moon is thought to have a subsurface salty ocean?",
+   "o": [
+    "Europa",
+    "Our Moon",
+    "Phobos",
+    "Callisto only"
+   ],
+   "a": 0,
+   "w": "Europa (also Enceladus)."
+  },
+  {
+   "q": "A meteorite is a space rock that:",
+   "o": [
+    "Burns up completely",
+    "Lands on Earth's surface",
+    "Orbits Mars",
+    "Is a comet tail"
+   ],
+   "a": 1,
+   "w": "Meteor burns; meteorite lands."
+  },
+  {
+   "q": "Pluto was reclassified in 2006 because it:",
+   "o": [
+    "Is too small to see",
+    "Has not cleared its orbit",
+    "Has no moons",
+    "Is not round"
+   ],
+   "a": 1,
+   "w": "IAU definition of a planet."
+  },
+  {
+   "q": "DART in 2022 tested:",
+   "o": [
+    "Mars landing",
+    "Deflecting an asteroid",
+    "Finding comets",
+    "Moon mining"
+   ],
+   "a": 1,
+   "w": "Impacted Dimorphos."
+  },
+  {
+   "q": "Chandrayaan-1 contributed to finding:",
+   "o": [
+    "Water molecules on the Moon",
+    "Life on Mars",
+    "Rings of Uranus",
+    "Dark matter"
+   ],
+   "a": 0,
+   "w": "Moon Mineralogy Mapper and MIP."
+  },
+  {
+   "q": "Comets from the Kuiper belt are typically:",
+   "o": [
+    "Short-period",
+    "Never return",
+    "Made of metal",
+    "Hotter than asteroids"
+   ],
+   "a": 0,
+   "w": "They return within about 200 years."
+  }
+ ],
+ "sources": [
+  "NASA DART",
+  "OSIRIS-REx",
+  "ISRO Chandrayaan"
+ ],
+ "verified": "2026-11-11"
+}

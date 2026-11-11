@@ -1,0 +1,177 @@
+{
+ "id": "0-1-0",
+ "title": "Light, Spectra and What Starlight Tells Us",
+ "emoji": "🌈",
+ "cards": [
+  {
+   "tag": "Why this matters",
+   "h": "We cannot visit stars, so light is everything",
+   "b": "<p>The nearest star beyond the Sun is 4.2 light-years away. No probe will visit in our lifetimes. Yet we know what stars are made of, how hot they are, how fast they move and how they spin. All of it comes from one thing: the light that reaches us.</p>"
+  },
+  {
+   "tag": "Concept",
+   "h": "Light as a wave",
+   "b": "<p>Light is an electromagnetic wave. Its <b>wavelength</b> sets its type: radio (metres), microwave, infrared, visible (about 400 nm violet to 700 nm red), ultraviolet, X-rays, gamma rays (tiny).</p><p>All travel at the same speed in vacuum: <b>299,792 km/s</b>. Our eyes see only a thin slice. Astronomers need all of it, because different processes glow in different bands.</p>"
+  },
+  {
+   "tag": "Concept",
+   "h": "Colour tells temperature",
+   "b": "<p>Every hot object glows with a smooth rainbow whose peak colour depends on temperature: hotter means bluer. This is blackbody radiation. A red giant (about 3,500 K) looks orange-red; the Sun (about 5,800 K) looks yellow-white; a hot star (above 10,000 K) looks blue-white.</p><p>Hotter also means far more power: total output goes as temperature to the fourth power (Stefan, 1879).</p>"
+  },
+  {
+   "tag": "Concept",
+   "h": "Spectral lines: a barcode of elements",
+   "b": "<p>Pass starlight through a prism or grating and you spread it into a <b>spectrum</b>. Dark gaps, called absorption lines, appear at precise colours. Each element and molecule absorbs only its own colours, like a fingerprint.</p><p>Joseph von Fraunhofer mapped hundreds of dark lines in sunlight in 1814. In 1859 Kirchhoff and Bunsen showed that each line belongs to a chemical element. Suddenly we could do chemistry on the Sun.</p><svg class=\"d\" viewBox=\"0 0 320 120\"><defs><marker id=\"ar1\" viewBox=\"0 0 10 10\" refX=\"9\" refY=\"5\" markerWidth=\"6\" markerHeight=\"6\" orient=\"auto\"><path d=\"M0 0L10 5L0 10z\" fill=\"#5d6474\"/></marker></defs><rect x=\"10\" y=\"40\" width=\"60\" height=\"36\" rx=\"5\" fill=\"#f4dcd5\" stroke=\"#a3362a\"/><text x=\"40.0\" y=\"56.0\" text-anchor=\"middle\" font-size=\"11\" fill=\"#1d2433\">Hot dense</text><text x=\"40.0\" y=\"69.0\" text-anchor=\"middle\" font-size=\"11\" fill=\"#1d2433\">body</text><line x1=\"70\" y1=\"58\" x2=\"110\" y2=\"58\" stroke=\"#5d6474\" stroke-width=\"1.5\" marker-end=\"url(#ar1)\"/><rect x=\"110\" y=\"40\" width=\"70\" height=\"36\" rx=\"5\" fill=\"#dceaec\" stroke=\"#2f6f7a\"/><text x=\"145.0\" y=\"56.0\" text-anchor=\"middle\" font-size=\"11\" fill=\"#1d2433\">Cool gas</text><text x=\"145.0\" y=\"69.0\" text-anchor=\"middle\" font-size=\"11\" fill=\"#1d2433\">cloud</text><line x1=\"180\" y1=\"58\" x2=\"220\" y2=\"58\" stroke=\"#5d6474\" stroke-width=\"1.5\" marker-end=\"url(#ar1)\"/><rect x=\"220\" y=\"40\" width=\"90\" height=\"36\" rx=\"5\" fill=\"#f1e4c6\" stroke=\"#a8792a\"/><text x=\"265.0\" y=\"56.0\" text-anchor=\"middle\" font-size=\"11\" fill=\"#1d2433\">Spectrum with</text><text x=\"265.0\" y=\"69.0\" text-anchor=\"middle\" font-size=\"11\" fill=\"#1d2433\">dark lines</text><text x=\"160\" y=\"105\" text-anchor=\"middle\" font-size=\"10\" fill=\"#5d6474\">Each element removes its own colours</text></svg>"
+  },
+  {
+   "tag": "Concept",
+   "h": "Classifying stars",
+   "b": "<p>Stars are sorted by line patterns into types <b>O, B, A, F, G, K, M</b> from hottest to coolest. The Sun is G. Annie Jump Cannon built this scheme around 1900. Cecilia Payne then showed in 1925 that stars are mostly hydrogen and helium, and that the line patterns differ because of temperature, not composition.</p>"
+  },
+  {
+   "tag": "Concept",
+   "h": "Doppler shift: motion in colour",
+   "b": "<p>If a source moves toward us its waves are squeezed: <b>blueshift</b>. If it moves away they are stretched: <b>redshift</b>. The size of the shift gives the speed along the line of sight: v/c = shift in wavelength divided by original wavelength.</p><p>It reveals binary stars, orbiting planets, spinning galaxies and, as we will see, the expansion of the universe.</p>"
+  },
+  {
+   "tag": "How we know",
+   "h": "Helium was found in the Sun first",
+   "b": "<p>During the total solar eclipse of 18 August 1868, the French astronomer <b>Pierre Janssen</b> saw an unfamiliar bright yellow line in the Sun's edge from Guntur in India. Norman Lockyer saw it too; he named the new element <b>helium</b> after the Greek Sun. It was found on Earth only in 1895. A new element discovered 150 million km away.</p>"
+  },
+  {
+   "tag": "Misconceptions",
+   "h": "Be careful",
+   "b": "<ul><li><b>'A star's colour is its composition.'</b> Colour tracks temperature.</li><li><b>'Redshift means the object looks red.'</b> It means its wavelengths are stretched; the object may remain white.</li><li><b>'Light always travels at c.'</b> Only in vacuum. In glass or water it slows down.</li></ul>"
+  },
+  {
+   "tag": "Indian angle",
+   "h": "Saha, Raman and Guntur",
+   "b": "<p>In 1920 <b>Meghnad Saha</b> derived the <b>Saha ionisation equation</b>, showing how a star's temperature and pressure decide which atoms lose electrons. This explained why star types differ and became a foundation of astrophysics.</p><p><b>C.V. Raman</b> discovered in 1928 that light scattered by molecules changes colour slightly, the <b>Raman effect</b>, used today to identify materials (Nobel Prize 1930). And the 1868 helium line was first seen from Guntur, Andhra Pradesh.</p>"
+  },
+  {
+   "tag": "Recap",
+   "h": "Key takeaways",
+   "b": "<ul><li>All astronomy is decoding light across the electromagnetic spectrum.</li><li>Colour gives temperature; hotter stars are bluer and much brighter.</li><li>Spectral lines act as element fingerprints.</li><li>Doppler shifts give motion along the line of sight.</li></ul><p><b>Think about it:</b> (1) Why do two stars of the same temperature but different size have the same colour but different brightness? (2) How could you tell a star is spinning from its spectrum?</p>",
+   "cls": "exam"
+  }
+ ],
+ "quiz": [
+  {
+   "q": "Which colour of star is hottest?",
+   "o": [
+    "Red",
+    "Orange",
+    "Yellow",
+    "Blue-white"
+   ],
+   "a": 3,
+   "w": "Hotter objects peak at shorter wavelengths."
+  },
+  {
+   "q": "Dark absorption lines in starlight tell us about:",
+   "o": [
+    "Distance only",
+    "Chemical elements in the star's atmosphere",
+    "Only the star's age",
+    "Gravity of Earth"
+   ],
+   "a": 1,
+   "w": "Each element absorbs its own colours."
+  },
+  {
+   "q": "Cecilia Payne showed in 1925 that stars are mostly:",
+   "o": [
+    "Iron",
+    "Hydrogen and helium",
+    "Carbon",
+    "Water"
+   ],
+   "a": 1,
+   "w": "Hydrogen and helium."
+  },
+  {
+   "q": "A redshift means the source is:",
+   "o": [
+    "Moving toward us",
+    "Moving away along the line of sight",
+    "Cooler than the Sun",
+    "Brighter"
+   ],
+   "a": 1,
+   "w": "Waves stretched."
+  },
+  {
+   "q": "Helium was first detected:",
+   "o": [
+    "In Earth's air",
+    "In the Sun's spectrum",
+    "In a meteorite",
+    "In a lab only"
+   ],
+   "a": 1,
+   "w": "1868 eclipse line, found on Earth in 1895."
+  },
+  {
+   "q": "The Sun's spectral type is:",
+   "o": [
+    "O",
+    "G",
+    "M",
+    "B"
+   ],
+   "a": 1,
+   "w": "G."
+  },
+  {
+   "q": "Which scientist derived the ionisation equation linking temperature to spectral lines in 1920?",
+   "o": [
+    "Raman",
+    "Saha",
+    "Bose",
+    "Chandrasekhar"
+   ],
+   "a": 1,
+   "w": "Meghnad Saha."
+  },
+  {
+   "q": "Why do astronomers observe in X-rays and radio, not only visible light?",
+   "o": [
+    "Different processes emit in different bands",
+    "Visible light is too slow",
+    "Cameras are cheaper",
+    "Stars only emit radio"
+   ],
+   "a": 0,
+   "w": "Each band reveals different physics."
+  },
+  {
+   "q": "If a star's spectral lines shift to shorter wavelengths, the star is:",
+   "o": [
+    "Receding",
+    "Approaching",
+    "Cooling",
+    "Heavier"
+   ],
+   "a": 1,
+   "w": "Blueshift."
+  },
+  {
+   "q": "Stefan's law says luminosity of a hot body grows with temperature as:",
+   "o": [
+    "T",
+    "T squared",
+    "T to the fourth",
+    "Not at all"
+   ],
+   "a": 2,
+   "w": "T to the fourth power."
+  }
+ ],
+ "sources": [
+  "Fraunhofer 1814",
+  "Kirchhoff and Bunsen 1859",
+  "Payne 1925",
+  "Saha 1920"
+ ],
+ "verified": "2026-11-11"
+}

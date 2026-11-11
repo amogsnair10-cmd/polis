@@ -1,0 +1,174 @@
+{
+ "id": "3-0-3",
+ "title": "Biomolecules: Carbohydrates, Proteins, Fats, DNA",
+ "emoji": "🧫",
+ "cards": [
+  {
+   "tag": "Why this matters",
+   "h": "You are chemistry",
+   "b": "<p>Your body is built from four families of big molecules: carbohydrates, proteins, fats (lipids) and nucleic acids. Each is a polymer or an assembly of simple units. Understanding them explains food, energy, enzymes, inheritance and disease.</p>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "Carbohydrates: fuel and fibre",
+   "b": "<p>General formula roughly Cx(H2O)y. <b>Glucose</b> C6H12O6 is the body's main fuel. Sugars join into chains:</p><ul><li><b>Sucrose</b> (table sugar): glucose + fructose.</li><li><b>Starch:</b> plants' energy store, long chains of glucose.</li><li><b>Glycogen:</b> the animal equivalent.</li><li><b>Cellulose:</b> plant cell walls, also glucose chains but joined differently; humans cannot digest it (fibre).</li></ul>"
+  },
+  {
+   "tag": "Key idea",
+   "h": "Proteins: the workers",
+   "b": "<p>Proteins are chains of <b>amino acids</b> (20 common ones), each with -NH2 and -COOH. Two amino acids join with loss of water to form a <b>peptide bond</b>.</p><svg class=\"d\" viewBox=\"0 0 320 136\"><defs><marker id=\"m1\" markerWidth=\"8\" markerHeight=\"8\" refX=\"6\" refY=\"4\" orient=\"auto\"><path d=\"M0,0 L8,4 L0,8 z\" fill=\"#5d6474\"/></marker></defs><rect x=\"20\" y=\"4\" width=\"280\" height=\"30\" rx=\"6\" fill=\"#f1e4c6\" stroke=\"#a8792a\"/><text x=\"160\" y=\"23\" text-anchor=\"middle\" font-size=\"11\" fill=\"#1d2433\">Amino acids</text><line x1=\"160\" y1=\"34\" x2=\"160\" y2=\"47\" stroke=\"#5d6474\" marker-end=\"url(#m1)\"/><rect x=\"20\" y=\"48\" width=\"280\" height=\"30\" rx=\"6\" fill=\"#f1e4c6\" stroke=\"#a8792a\"/><text x=\"160\" y=\"67\" text-anchor=\"middle\" font-size=\"11\" fill=\"#1d2433\">Peptide bonds make a chain (polypeptide)</text><line x1=\"160\" y1=\"78\" x2=\"160\" y2=\"91\" stroke=\"#5d6474\" marker-end=\"url(#m1)\"/><rect x=\"20\" y=\"92\" width=\"280\" height=\"30\" rx=\"6\" fill=\"#f1e4c6\" stroke=\"#a8792a\"/><text x=\"160\" y=\"111\" text-anchor=\"middle\" font-size=\"11\" fill=\"#1d2433\">Chain folds by H bonds into a 3D shape</text></svg><p>Shape decides function: enzymes, haemoglobin, antibodies, keratin in hair. Heat or acid <b>denatures</b> them: a boiled egg cannot go back. <b>Frederick Sanger</b> sequenced insulin in 1955 (Nobel 1958).</p>"
+  },
+  {
+   "tag": "Key idea",
+   "h": "Fats and lipids",
+   "b": "<p>A fat (triglyceride) is one glycerol joined to three fatty acids through ester links. Saturated fatty acids have no C=C bonds (solid at room temperature, like ghee and butter). Unsaturated ones have C=C bonds (liquid, like most plant oils).</p><p>Fats give about 9 kcal per gram, more than twice carbohydrate or protein (about 4). They also form cell membranes and carry vitamins A, D, E and K.</p>"
+  },
+  {
+   "tag": "Key idea",
+   "h": "Enzymes and vitamins",
+   "b": "<p>Enzymes are protein catalysts. They fit substrates like a lock and key (or an induced fit), lower activation energy and work at body temperature and specific pH. Amylase breaks starch, pepsin breaks proteins in the acid of the stomach.</p><p>Vitamins are small organic compounds needed in tiny amounts, e.g. vitamin C (scurvy) and D (rickets).</p>"
+  },
+  {
+   "tag": "Key idea",
+   "h": "DNA: the information molecule",
+   "b": "<p>DNA is a polymer of <b>nucleotides</b>: sugar (deoxyribose) + phosphate + one of four bases, A, T, G, C. <b>Watson and Crick, 1953</b>, building on X-ray work by Rosalind Franklin and Maurice Wilkins, proposed the <b>double helix</b>. The strands pair by hydrogen bonds: <b>A with T</b>, <b>G with C</b>.</p><p>Three bases form a codon that specifies an amino acid. DNA is copied to RNA, then RNA is read to build proteins.</p>"
+  },
+  {
+   "tag": "Worked example",
+   "h": "Base pairing and energy",
+   "b": "<p>One strand reads A-T-G-C. The partner strand is <b>T-A-C-G</b>.</p><p>If DNA is 30 percent A, then T = 30 percent; G + C = 40 percent, so G = C = <b>20 percent</b> each.</p><p>Energy: 50 g of fat gives about 50 x 9 = 450 kcal; 50 g of sugar gives 50 x 4 = 200 kcal.</p>"
+  },
+  {
+   "tag": "Misconceptions",
+   "h": "Careful",
+   "b": "<ul><li><b>Fats are not all bad.</b> You need essential fatty acids.</li><li><b>Proteins are not only for muscle.</b> Enzymes and hormones are proteins too.</li><li><b>DNA does not make proteins directly</b>; RNA does the transfer.</li><li><b>Cooked proteins are not destroyed nutritionally</b>; denaturing makes them easier to digest.</li></ul>"
+  },
+  {
+   "tag": "Indian angle",
+   "h": "Khorana and the genetic code",
+   "b": "<p><b>Har Gobind Khorana</b>, born in Raipur village (in present-day Pakistan) and educated in Punjab University in Lahore, shared the 1968 Nobel Prize in Physiology or Medicine for helping to decode the genetic code and later made the first synthetic gene. India's famed <b>pulses, ghee and millets</b> offer all the biomolecule groups: protein, fat and complex carbohydrate.</p>"
+  },
+  {
+   "tag": "Recap",
+   "h": "Key takeaways",
+   "b": "<ul><li>Carbohydrates: glucose, starch, cellulose. Proteins: amino-acid chains joined by peptide bonds.</li><li>Fats: glycerol plus three fatty acids, high in energy.</li><li>DNA: double helix (1953), A-T and G-C pairing.</li></ul><div class=\"box\"><h4>Think about it</h4><p>1. Why can we digest starch but not cellulose, although both are glucose polymers?</p><p>2. Why does a high fever risk damaging enzymes?</p></div>",
+   "cls": "exam"
+  }
+ ],
+ "quiz": [
+  {
+   "q": "Main fuel sugar of the body:",
+   "o": [
+    "Glucose",
+    "Sucrose only",
+    "Cellulose",
+    "Glycerol"
+   ],
+   "a": 0,
+   "w": "C6H12O6."
+  },
+  {
+   "q": "Bond joining amino acids:",
+   "o": [
+    "Peptide bond",
+    "Ionic bond",
+    "Glycosidic bond",
+    "Metallic bond"
+   ],
+   "a": 0,
+   "w": "Loses water."
+  },
+  {
+   "q": "A fat is made of:",
+   "o": [
+    "Glycerol and three fatty acids",
+    "Glucose chains",
+    "Amino acids",
+    "Nucleotides"
+   ],
+   "a": 0,
+   "w": "Triglyceride."
+  },
+  {
+   "q": "DNA base pairs:",
+   "o": [
+    "A-T and G-C",
+    "A-G and T-C",
+    "A-C and G-T",
+    "A-A and G-G"
+   ],
+   "a": 0,
+   "w": "Watson and Crick, 1953."
+  },
+  {
+   "q": "If DNA is 20 percent G, what percent is A?",
+   "o": [
+    "20 percent",
+    "30 percent",
+    "40 percent",
+    "60 percent"
+   ],
+   "a": 1,
+   "w": "G = C = 20; A + T = 60, so A = 30."
+  },
+  {
+   "q": "Energy in 10 g fat at 9 kcal/g?",
+   "o": [
+    "90 kcal",
+    "40 kcal",
+    "9 kcal",
+    "900 kcal"
+   ],
+   "a": 0,
+   "w": "10 x 9."
+  },
+  {
+   "q": "Who sequenced insulin in 1955?",
+   "o": [
+    "Khorana",
+    "Crick",
+    "Sanger",
+    "Franklin"
+   ],
+   "a": 2,
+   "w": "Nobel 1958."
+  },
+  {
+   "q": "Enzymes are:",
+   "o": [
+    "Protein catalysts",
+    "Fats",
+    "Sugars",
+    "Metals"
+   ],
+   "a": 0,
+   "w": "Lower activation energy."
+  },
+  {
+   "q": "Cellulose is:",
+   "o": [
+    "A protein",
+    "A fat",
+    "A nucleic acid",
+    "Glucose polymer humans cannot digest"
+   ],
+   "a": 3,
+   "w": "Dietary fibre."
+  },
+  {
+   "q": "Khorana's Nobel (1968) related to:",
+   "o": [
+    "Genetic code",
+    "Insulin",
+    "Penicillin",
+    "Vitamins"
+   ],
+   "a": 0,
+   "w": "Shared with Nirenberg and Holley."
+  }
+ ],
+ "sources": [
+  "Standard school and university chemistry texts"
+ ],
+ "verified": "2026-11-11"
+}

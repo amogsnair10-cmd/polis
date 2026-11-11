@@ -1,0 +1,174 @@
+{
+ "id": "0-0-1",
+ "title": "Atoms, Isotopes and the Mole",
+ "emoji": "⚛️",
+ "cards": [
+  {
+   "tag": "Why this matters",
+   "h": "Counting the uncountable",
+   "b": "<p>A single drop of water holds more than a billion billion molecules. Chemists cannot count atoms one by one, so they invented a counting unit, the <b>mole</b>. It is the bridge between the invisible world of atoms and the grams you weigh on a lab balance.</p><p>First, though, we need to know what an atom is.</p>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "The atom and its parts",
+   "b": "<p>An atom has a tiny dense <b>nucleus</b> with <b>protons</b> (positive) and <b>neutrons</b> (neutral), and <b>electrons</b> (negative) around it. The atom is mostly empty space: if the nucleus were a marble, the atom would be a stadium.</p><ul><li><b>Atomic number (Z)</b> = number of protons. It defines the element.</li><li><b>Mass number (A)</b> = protons + neutrons.</li><li>A neutral atom has equal protons and electrons.</li></ul><p>Example: sodium, Z = 11, A = 23, so it has 11 protons, 12 neutrons, 11 electrons.</p>"
+  },
+  {
+   "tag": "Key idea",
+   "h": "How we found the parts",
+   "b": "<ul><li><b>John Dalton, 1808:</b> atoms are the basic building blocks; each element has its own kind.</li><li><b>J.J. Thomson, 1897:</b> discovered the electron.</li><li><b>Ernest Rutherford, 1911:</b> gold-foil experiment showed a small dense nucleus (proton named about 1919).</li><li><b>James Chadwick, 1932:</b> discovered the neutron.</li></ul><svg class=\"d\" viewBox=\"0 0 320 180\"><defs><marker id=\"m1\" markerWidth=\"8\" markerHeight=\"8\" refX=\"6\" refY=\"4\" orient=\"auto\"><path d=\"M0,0 L8,4 L0,8 z\" fill=\"#5d6474\"/></marker></defs><rect x=\"20\" y=\"4\" width=\"280\" height=\"30\" rx=\"6\" fill=\"#dceaec\" stroke=\"#2f6f7a\"/><text x=\"160\" y=\"23\" text-anchor=\"middle\" font-size=\"11\" fill=\"#1d2433\">Dalton 1808: solid atom</text><line x1=\"160\" y1=\"34\" x2=\"160\" y2=\"47\" stroke=\"#5d6474\" marker-end=\"url(#m1)\"/><rect x=\"20\" y=\"48\" width=\"280\" height=\"30\" rx=\"6\" fill=\"#dceaec\" stroke=\"#2f6f7a\"/><text x=\"160\" y=\"67\" text-anchor=\"middle\" font-size=\"11\" fill=\"#1d2433\">Thomson 1897: electrons inside</text><line x1=\"160\" y1=\"78\" x2=\"160\" y2=\"91\" stroke=\"#5d6474\" marker-end=\"url(#m1)\"/><rect x=\"20\" y=\"92\" width=\"280\" height=\"30\" rx=\"6\" fill=\"#dceaec\" stroke=\"#2f6f7a\"/><text x=\"160\" y=\"111\" text-anchor=\"middle\" font-size=\"11\" fill=\"#1d2433\">Rutherford 1911: tiny nucleus</text><line x1=\"160\" y1=\"122\" x2=\"160\" y2=\"135\" stroke=\"#5d6474\" marker-end=\"url(#m1)\"/><rect x=\"20\" y=\"136\" width=\"280\" height=\"30\" rx=\"6\" fill=\"#dceaec\" stroke=\"#2f6f7a\"/><text x=\"160\" y=\"155\" text-anchor=\"middle\" font-size=\"11\" fill=\"#1d2433\">Chadwick 1932: neutron found</text></svg>"
+  },
+  {
+   "tag": "Key idea",
+   "h": "Isotopes",
+   "b": "<p><b>Isotopes</b> are atoms of the same element with different numbers of neutrons. Same protons, so same chemistry, but different mass.</p><ul><li>Hydrogen: protium (0 neutrons), deuterium (1), tritium (2).</li><li>Carbon-12 and carbon-14. Carbon-14 is radioactive and used in dating old remains.</li><li>Chlorine-35 and chlorine-37.</li></ul><p>This is why the periodic table shows chlorine as 35.5: it is a weighted average. Chlorine is about 75 percent Cl-35 and 25 percent Cl-37. Average = 0.75 x 35 + 0.25 x 37 = <b>35.5</b>.</p>"
+  },
+  {
+   "tag": "Key idea",
+   "h": "Atomic mass and the mole",
+   "b": "<p>One carbon-12 atom is defined as exactly 12 atomic mass units. We weigh atoms relative to it.</p><p>The <b>mole</b> is a count: <b>6.022 x 10^23</b> particles, called the <b>Avogadro constant</b> (named after Amedeo Avogadro, whose 1811 idea about gases inspired it). A mole of carbon-12 weighs exactly 12 g.</p><p>So the <b>molar mass</b> in g/mol equals the atomic or molecular mass in units. Dozen = 12 things; mole = 6.022 x 10^23 things.</p>"
+  },
+  {
+   "tag": "Key idea",
+   "h": "Mole formulas",
+   "b": "<p>Three relations cover most problems.</p><div class=\"box\"><h4>Formulas</h4><p>moles = mass (g) / molar mass (g/mol)</p><p>number of particles = moles x 6.022 x 10^23</p><p>molar mass of a compound = sum of atomic masses</p></div><p>Water: H2O = 2 x 1 + 16 = <b>18 g/mol</b>. CO2 = 12 + 2 x 16 = <b>44 g/mol</b>. NaCl = 23 + 35.5 = 58.5 g/mol.</p>"
+  },
+  {
+   "tag": "Worked example",
+   "h": "From grams to molecules",
+   "b": "<p>How many moles and molecules are in 36 g of water?</p><ol><li>Molar mass of water = 18 g/mol.</li><li>Moles = 36 / 18 = <b>2 mol</b>.</li><li>Molecules = 2 x 6.022 x 10^23 = <b>1.2 x 10^24</b>.</li></ol><p>Another: how many grams in 0.5 mol of NaCl? Mass = 0.5 x 58.5 = <b>29.25 g</b>.</p>"
+  },
+  {
+   "tag": "Misconceptions",
+   "h": "Where students slip",
+   "b": "<ul><li><b>A mole is not a mass.</b> It is a number. A mole of feathers and a mole of lead have the same count, different masses.</li><li><b>Isotopes are not different elements.</b> They differ only in neutrons.</li><li><b>Atoms are not solid balls.</b> They are mostly empty space.</li><li><b>Mass number is not atomic mass exactly.</b> Mass number is a whole count; atomic mass is a measured average.</li></ul>"
+  },
+  {
+   "tag": "Indian angle",
+   "h": "Kanada and heavy water",
+   "b": "<p>Long before Dalton, the Vaisheshika school in ancient India, associated with the philosopher <b>Kanada</b>, argued that matter is made of indivisible particles called <i>paramanu</i>. It was philosophy, not experiment, but it shows early atomic thinking.</p><p>In modern times, India runs heavy-water plants under the Department of Atomic Energy. Heavy water contains deuterium, the hydrogen isotope with one neutron, and is used as a moderator in India's pressurised heavy-water reactors.</p>"
+  },
+  {
+   "tag": "Recap",
+   "h": "Key takeaways",
+   "b": "<ul><li>Atomic number = protons; mass number = protons + neutrons.</li><li>Isotopes share protons but differ in neutrons.</li><li>1 mole = 6.022 x 10^23 particles; molar mass links grams to moles.</li><li>moles = mass / molar mass.</li></ul><div class=\"box\"><h4>Think about it</h4><p>1. Why do isotopes of one element behave almost identically in chemical reactions?</p><p>2. Which has more atoms: 12 g of carbon or 12 g of magnesium (24 g/mol)?</p></div>",
+   "cls": "exam"
+  }
+ ],
+ "quiz": [
+  {
+   "q": "Which particle defines the identity of an element?",
+   "o": [
+    "Proton",
+    "Neutron",
+    "Electron",
+    "Photon"
+   ],
+   "a": 0,
+   "w": "Atomic number is the proton count."
+  },
+  {
+   "q": "How many neutrons are in sodium-23 (Z = 11)?",
+   "o": [
+    "11",
+    "23",
+    "12",
+    "34"
+   ],
+   "a": 2,
+   "w": "23 - 11 = 12."
+  },
+  {
+   "q": "Who discovered the neutron, and when?",
+   "o": [
+    "Chadwick, 1932",
+    "Thomson, 1897",
+    "Rutherford, 1911",
+    "Dalton, 1808"
+   ],
+   "a": 0,
+   "w": "Chadwick found the neutron in 1932."
+  },
+  {
+   "q": "Chlorine is 75 percent Cl-35 and 25 percent Cl-37. Average mass?",
+   "o": [
+    "35.5",
+    "36",
+    "35",
+    "36.5"
+   ],
+   "a": 0,
+   "w": "0.75 x 35 + 0.25 x 37 = 35.5."
+  },
+  {
+   "q": "Molar mass of CO2 (C = 12, O = 16)?",
+   "o": [
+    "28 g/mol",
+    "44 g/mol",
+    "32 g/mol",
+    "56 g/mol"
+   ],
+   "a": 1,
+   "w": "12 + 32 = 44."
+  },
+  {
+   "q": "How many moles are in 9 g of water?",
+   "o": [
+    "0.5 mol",
+    "2 mol",
+    "9 mol",
+    "0.25 mol"
+   ],
+   "a": 0,
+   "w": "9 / 18 = 0.5."
+  },
+  {
+   "q": "Approximately how many molecules in 2 mol of any substance?",
+   "o": [
+    "6 x 10^23",
+    "1.2 x 10^23",
+    "1.2 x 10^24",
+    "3 x 10^23"
+   ],
+   "a": 2,
+   "w": "2 x 6.022 x 10^23."
+  },
+  {
+   "q": "Isotopes differ in their number of:",
+   "o": [
+    "Neutrons",
+    "Protons",
+    "Electrons only",
+    "Chemical symbol"
+   ],
+   "a": 0,
+   "w": "Same protons, different neutrons."
+  },
+  {
+   "q": "Mass of 0.5 mol of NaCl (58.5 g/mol)?",
+   "o": [
+    "29.25 g",
+    "58.5 g",
+    "117 g",
+    "14.6 g"
+   ],
+   "a": 0,
+   "w": "0.5 x 58.5 = 29.25."
+  },
+  {
+   "q": "Rutherford's gold-foil experiment showed:",
+   "o": [
+    "Electrons exist",
+    "A small dense nucleus",
+    "Neutrons exist",
+    "Atoms are indivisible"
+   ],
+   "a": 1,
+   "w": "Most particles passed through; few bounced back."
+  }
+ ],
+ "sources": [
+  "Standard school and university chemistry texts"
+ ],
+ "verified": "2026-11-11"
+}

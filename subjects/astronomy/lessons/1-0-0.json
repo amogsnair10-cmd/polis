@@ -1,0 +1,176 @@
+{
+ "id": "1-0-0",
+ "title": "The Sun",
+ "emoji": "☀️",
+ "cards": [
+  {
+   "tag": "Why this matters",
+   "h": "Our star, our only close-up",
+   "b": "<p>The Sun holds 99.86 percent of the Solar System's mass, powers almost all life, and is the only star we can study up close. Everything we learn about the Sun is a template for the billions of stars beyond. It also affects us: its storms can disrupt satellites, power grids and radio.</p>"
+  },
+  {
+   "tag": "Concept",
+   "h": "Size, distance, power",
+   "b": "<p>Width: 1.39 million km, about 109 Earths side by side. Distance: 150 million km (1 astronomical unit). Light takes <b>8 minutes 20 seconds</b> to arrive. Age: about 4.6 billion years. It is a middle-sized, middle-aged star, type G.</p><p>Each second it turns about 4 million tonnes of mass into energy, and releases about 3.8 x 10^26 watts.</p>"
+  },
+  {
+   "tag": "Concept",
+   "h": "Layers from inside out",
+   "b": "<ul><li><b>Core:</b> 15 million K, where fusion happens (next lessons).</li><li><b>Radiative zone:</b> energy crawls outward as photons, taking tens of thousands of years or more.</li><li><b>Convection zone:</b> hot gas boils up in cells.</li><li><b>Photosphere:</b> the visible surface, about 5,800 K.</li><li><b>Chromosphere</b> and <b>corona:</b> thin outer atmosphere, the corona exceeds 1 million K, a puzzle: why hotter than the surface?</li></ul><svg class=\"d\" viewBox=\"0 0 320 150\"><defs><marker id=\"ar1\" viewBox=\"0 0 10 10\" refX=\"9\" refY=\"5\" markerWidth=\"6\" markerHeight=\"6\" orient=\"auto\"><path d=\"M0 0L10 5L0 10z\" fill=\"#5d6474\"/></marker></defs><circle cx=\"160\" cy=\"75\" r=\"12\" fill=\"#f1e4c6\" stroke=\"#a8792a\"/><text x=\"160\" y=\"79\" text-anchor=\"middle\" font-size=\"10\" fill=\"#1d2433\">Core</text><circle cx=\"160\" cy=\"75\" r=\"34\" fill=\"#f1e4c6\" stroke=\"#a8792a\"/><circle cx=\"160\" cy=\"75\" r=\"12\" fill=\"#f4dcd5\" stroke=\"#a3362a\"/><text x=\"160\" y=\"79\" text-anchor=\"middle\" font-size=\"10\" fill=\"#1d2433\">Core</text><text x=\"160\" y=\"66\" text-anchor=\"middle\" font-size=\"10\" fill=\"#1d2433\"></text><rect x=\"20\" y=\"10\" width=\"90\" height=\"22\" rx=\"5\" fill=\"#f4dcd5\" stroke=\"#a3362a\"/><text x=\"65.0\" y=\"25.0\" text-anchor=\"middle\" font-size=\"11\" fill=\"#1d2433\">Core: 15 million K</text><rect x=\"210\" y=\"10\" width=\"100\" height=\"22\" rx=\"5\" fill=\"#dceaec\" stroke=\"#2f6f7a\"/><text x=\"260.0\" y=\"25.0\" text-anchor=\"middle\" font-size=\"11\" fill=\"#1d2433\">Corona: >1 million K</text><rect x=\"20\" y=\"118\" width=\"120\" height=\"22\" rx=\"5\" fill=\"#f1e4c6\" stroke=\"#a8792a\"/><text x=\"80.0\" y=\"133.0\" text-anchor=\"middle\" font-size=\"11\" fill=\"#1d2433\">Surface: about 5,800 K</text><text x=\"235\" y=\"130\" text-anchor=\"middle\" font-size=\"10\" fill=\"#1d2433\">Light takes 8 min 20 s</text><text x=\"235\" y=\"143\" text-anchor=\"middle\" font-size=\"10\" fill=\"#1d2433\">to reach Earth</text></svg>"
+  },
+  {
+   "tag": "Concept",
+   "h": "Sunspots and the 11-year cycle",
+   "b": "<p>Sunspots are cooler, darker patches (about 3,800 K) where strong magnetic fields poke through the surface. Heinrich Schwabe noticed in 1843 that their number rises and falls about every <b>11 years</b>. The magnetic field flips with each cycle, so the full magnetic cycle is about 22 years. Solar Cycle 25 peaked around 2024-2025.</p>"
+  },
+  {
+   "tag": "Concept",
+   "h": "Flares, CMEs and solar wind",
+   "b": "<p><b>Solar flares</b> are sudden bursts of radiation. <b>Coronal mass ejections (CMEs)</b> hurl billions of tonnes of plasma into space. The <b>solar wind</b> is a constant stream of charged particles at 400 to 800 km/s.</p><p>When a CME hits Earth's magnetic field, it can trigger auroras and geomagnetic storms. The 1859 <b>Carrington Event</b> set telegraph offices on fire. A similar storm today could damage satellites and grids.</p>"
+  },
+  {
+   "tag": "Concept",
+   "h": "The Sun's future",
+   "b": "<p>The Sun is slowly brightening, about 10 percent per billion years. In roughly 1 billion years it will be hot enough to boil Earth's oceans. In about 5 billion years it will exhaust core hydrogen, swell into a red giant, shed its layers, and end as a small white dwarf.</p>"
+  },
+  {
+   "tag": "How we know",
+   "h": "Looking inside with sound and neutrinos",
+   "b": "<p><b>Helioseismology</b> studies the Sun's surface vibrations, which are sound waves ringing through its interior, like using earthquakes to image Earth. <b>Solar neutrinos</b> detected underground confirm fusion in the core. <b>Parker Solar Probe</b> (NASA, launched 2018) flew through the corona and in December 2024 passed about 6 million km from the surface.</p>"
+  },
+  {
+   "tag": "Misconceptions",
+   "h": "Sun facts that surprise",
+   "b": "<ul><li><b>'The Sun is burning like a fire.'</b> It is fusion, not chemical burning.</li><li><b>'The Sun is yellow.'</b> It emits white light; the atmosphere makes it look yellow.</li><li><b>'Sunspots are cold holes.'</b> They are cooler than surroundings, but still very bright.</li></ul>"
+  },
+  {
+   "tag": "Indian angle",
+   "h": "Kodaikanal, Evershed and Aditya-L1",
+   "b": "<p><b>Kodaikanal Solar Observatory</b> (1899) has kept a continuous record of the Sun for over 120 years. There <b>John Evershed</b> found in 1909 that gas flows outward in sunspots, the <b>Evershed effect</b>. ISRO's <b>Aditya-L1</b> launched on 2 September 2023 and reached its halo orbit around the Sun-Earth L1 point, about 1.5 million km away, on 6 January 2024, to study the corona, flares and CMEs with seven instruments including VELC and SUIT.</p>"
+  },
+  {
+   "tag": "Recap",
+   "h": "Key takeaways",
+   "b": "<ul><li>The Sun is a G-type star: 15 million K core, 5,800 K surface, hotter corona.</li><li>Sunspots follow an 11-year cycle driven by magnetism.</li><li>Flares and CMEs affect space weather on Earth.</li><li>It will become a red giant in about 5 billion years.</li></ul><p><b>Think about it:</b> (1) Why is Aditya-L1 placed at L1 rather than in Earth orbit? (2) What could happen to a modern city after a Carrington-size storm?</p>",
+   "cls": "exam"
+  }
+ ],
+ "quiz": [
+  {
+   "q": "How long does sunlight take to reach Earth?",
+   "o": [
+    "8 seconds",
+    "8 minutes 20 seconds",
+    "8 hours",
+    "1 day"
+   ],
+   "a": 1,
+   "w": "150 million km at light speed."
+  },
+  {
+   "q": "The Sun's core temperature is about:",
+   "o": [
+    "5,800 K",
+    "15 million K",
+    "1 million K",
+    "100 million K"
+   ],
+   "a": 1,
+   "w": "15 million K."
+  },
+  {
+   "q": "What powers the Sun?",
+   "o": [
+    "Chemical burning",
+    "Nuclear fusion",
+    "Radioactive decay",
+    "Gravity only"
+   ],
+   "a": 1,
+   "w": "Fusion of hydrogen."
+  },
+  {
+   "q": "The sunspot cycle lasts about:",
+   "o": [
+    "1 year",
+    "11 years",
+    "100 years",
+    "1,000 years"
+   ],
+   "a": 1,
+   "w": "Schwabe, 1843."
+  },
+  {
+   "q": "The corona is notable because it:",
+   "o": [
+    "Is cooler than the surface",
+    "Is much hotter than the surface",
+    "Has no gas",
+    "Is inside the Sun"
+   ],
+   "a": 1,
+   "w": "Over 1 million K."
+  },
+  {
+   "q": "A CME is:",
+   "o": [
+    "A comet",
+    "A burst of plasma and magnetic field from the Sun",
+    "A sunspot",
+    "A planet"
+   ],
+   "a": 1,
+   "w": "Coronal mass ejection."
+  },
+  {
+   "q": "Aditya-L1 orbits near:",
+   "o": [
+    "The Moon",
+    "Sun-Earth L1 point",
+    "Mars",
+    "Earth's pole"
+   ],
+   "a": 1,
+   "w": "About 1.5 million km sunward."
+  },
+  {
+   "q": "Which observatory found the Evershed effect?",
+   "o": [
+    "Kodaikanal",
+    "Pune",
+    "Hanle",
+    "Nainital"
+   ],
+   "a": 0,
+   "w": "John Evershed, 1909."
+  },
+  {
+   "q": "The Sun will end its life as:",
+   "o": [
+    "A black hole",
+    "A neutron star",
+    "A white dwarf",
+    "A supernova"
+   ],
+   "a": 2,
+   "w": "Too small for a supernova."
+  },
+  {
+   "q": "Helioseismology studies:",
+   "o": [
+    "Earthquakes",
+    "Sound waves inside the Sun",
+    "Moon dust",
+    "Comets"
+   ],
+   "a": 1,
+   "w": "Solar oscillations reveal the interior."
+  }
+ ],
+ "sources": [
+  "NASA Parker Solar Probe",
+  "ISRO Aditya-L1",
+  "Kodaikanal Observatory"
+ ],
+ "verified": "2026-11-11"
+}

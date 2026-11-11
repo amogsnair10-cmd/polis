@@ -1,0 +1,176 @@
+{
+ "id": "1-0-1",
+ "title": "The Laws of Thermodynamics",
+ "emoji": "🔥",
+ "cards": [
+  {
+   "tag": "Why this matters",
+   "h": "Why you can't build a perpetual-motion machine",
+   "b": "<p>Inventors have long dreamed of a machine that runs forever, or that turns heat from the sea into free power for ships. Nature says no, and the laws that say it are among the most reliable in all of science.</p><p>Einstein once said thermodynamics is the one theory he was sure would never be overthrown, within its domain. The laws are short, but they limit every engine, fridge and power station on Earth.</p>"
+  },
+  {
+   "tag": "Concept",
+   "h": "The zeroth law: temperature makes sense",
+   "b": "<p>If body A is in thermal equilibrium with C, and B is in equilibrium with C, then A and B are in equilibrium with each other. It sounds obvious, but it is what makes a <b>thermometer</b> meaningful: two things at the same reading will not exchange heat.</p><p>It was named 'zeroth' later, since it was seen as more basic than the first law, which was already numbered."
+  },
+  {
+   "tag": "Concept",
+   "h": "First law: energy is conserved",
+   "b": "<div class=\"box\"><h4>First law</h4>change in internal energy = Q - W</div><p>Heat Q added to a system either raises its internal energy or is turned into work W done by the system. Energy is never created or destroyed.</p><p>Compress a bicycle pump quickly and the air gets hot: work done on the gas raises its energy. Julius Mayer and James Joule established this idea in the 1840s, showing heat and work are the same kind of thing."
+  },
+  {
+   "tag": "Concept",
+   "h": "Second law: heat flows downhill",
+   "b": "<p>Heat flows by itself from hot to cold, never the reverse. A cup of tea cools; it never spontaneously heats up by draining warmth from the room.</p><p>Two classic statements: <b>Clausius (1850):</b> no process can have the sole result of moving heat from cold to hot. <b>Kelvin-Planck:</b> no engine can turn heat entirely into work with nothing wasted. Some heat must always be rejected to a cold reservoir."
+  },
+  {
+   "tag": "Concept",
+   "h": "Heat engines and Carnot's limit",
+   "b": "<p>A heat engine takes heat Qh from a hot source, does work W, and throws out heat Qc to a cold sink. Efficiency = W / Qh.</p><p>Sadi Carnot (1824) showed that the best possible engine between temperatures Th and Tc (in kelvin) has:</p><div class=\"box\"><h4>Carnot efficiency</h4>efficiency = 1 - Tc / Th</div><p>The hotter the source and the colder the sink, the better. No real engine can beat this.</p><svg class=\"d\" viewBox=\"0 0 320 150\"><defs><marker id=\"k1\" markerWidth=\"8\" markerHeight=\"8\" refX=\"7\" refY=\"4\" orient=\"auto\"><path d=\"M0,0 L8,4 L0,8z\" fill=\"#a3362a\"/></marker></defs><rect x=\"100\" y=\"5\" width=\"120\" height=\"30\" fill=\"#f4dcd5\" stroke=\"#a3362a\" stroke-width=\"2\"/><text x=\"118\" y=\"25\" font-size=\"12\" fill=\"#1d2433\">Hot: Th = 500 K</text><rect x=\"125\" y=\"60\" width=\"70\" height=\"35\" fill=\"#f1e4c6\" stroke=\"#a8792a\" stroke-width=\"2\"/><text x=\"140\" y=\"82\" font-size=\"12\" fill=\"#1d2433\">Engine</text><rect x=\"100\" y=\"120\" width=\"120\" height=\"26\" fill=\"#dceaec\" stroke=\"#2f6f7a\" stroke-width=\"2\"/><text x=\"118\" y=\"138\" font-size=\"12\" fill=\"#1d2433\">Cold: Tc = 300 K</text><line x1=\"160\" y1=\"35\" x2=\"160\" y2=\"58\" stroke=\"#a3362a\" stroke-width=\"2.5\" marker-end=\"url(#k1)\"/><text x=\"168\" y=\"52\" font-size=\"10\" fill=\"#a3362a\">Qh = 1000 J</text><line x1=\"160\" y1=\"95\" x2=\"160\" y2=\"118\" stroke=\"#2f6f7a\" stroke-width=\"2.5\" marker-end=\"url(#k1)\"/><text x=\"168\" y=\"112\" font-size=\"10\" fill=\"#2f6f7a\">Qc = 600 J</text><line x1=\"195\" y1=\"78\" x2=\"290\" y2=\"78\" stroke=\"#a8792a\" stroke-width=\"2.5\" marker-end=\"url(#k1)\"/><text x=\"220\" y=\"70\" font-size=\"10\" fill=\"#a8792a\">Work 400 J</text></svg>"
+  },
+  {
+   "tag": "Concept",
+   "h": "Refrigerators and the third law",
+   "b": "<p>A fridge is an engine running backwards: it uses work to pump heat from cold inside to warm outside. The back of your fridge is warm for this reason. An air-conditioner does the same.</p><p>The <b>third law</b> says you can never reach absolute zero, 0 K, in a finite number of steps. Scientists have reached billionths of a kelvin above it, but never zero itself."
+  },
+  {
+   "tag": "Worked example",
+   "h": "Best possible engine",
+   "b": "<p>An engine runs between 500 K and 300 K. Maximum efficiency = 1 - 300/500 = 1 - 0.6 = <b>0.4, or 40 percent</b>.</p><p>If it takes in Qh = 1000 J, the most work it can give is W = 400 J, and it must reject Qc = 600 J (see the diagram).</p><p>A real engine does worse, perhaps 25 to 30 percent, because of friction and heat leaks. Check with the first law: Qh = W + Qc, so 1000 = 400 + 600."
+  },
+  {
+   "tag": "Misconceptions",
+   "h": "Where thinking goes wrong",
+   "b": "<ul><li><b>'A fridge with the door open cools the room.'</b> It heats it. The fridge pumps heat out of the box but also adds its motor's energy, so the room warms.</li><li><b>'100 percent efficient engines just need better design.'</b> The second law forbids it, even in theory.</li><li><b>'The first law means I cannot run out of useful energy.'</b> Total energy is conserved, but useful energy is not: it degrades into spread-out heat.</li></ul>"
+  },
+  {
+   "tag": "Indian angle",
+   "h": "India's power plants and cooling",
+   "b": "<p>Most of India's electricity still comes from coal-fired thermal plants, which are heat engines: coal heats steam, steam spins a turbine. Their efficiency is typically around one-third to 40 percent, close to what Carnot's law allows for their temperatures. The rest leaves as heat in cooling towers and chimneys.</p><p>India's rapid growth in air-conditioning, which moves heat out of homes, is a major source of rising power demand. Efficient (higher star-rated) units do the same cooling with less work.</p>"
+  },
+  {
+   "tag": "Recap",
+   "h": "Key takeaways",
+   "b": "<ul><li>Zeroth: equal temperature means thermal equilibrium; this defines thermometers.</li><li>First: energy is conserved, change in U = Q - W.</li><li>Second: heat flows hot to cold; no engine is 100 percent efficient.</li><li>Carnot efficiency = 1 - Tc/Th (in kelvin).</li><li>Third: absolute zero cannot be reached.</li></ul><div class=\"box\"><h4>Think about it</h4>1. Why does raising the steam temperature in a power plant improve efficiency?<br>2. Why can't you cool your kitchen by leaving the fridge door open?</div>",
+   "cls": "exam"
+  }
+ ],
+ "quiz": [
+  {
+   "q": "The first law of thermodynamics expresses",
+   "o": [
+    "Entropy increase",
+    "Conservation of energy",
+    "Absolute zero",
+    "Pressure balance"
+   ],
+   "a": 1,
+   "w": "Energy is conserved including heat."
+  },
+  {
+   "q": "A gas absorbs 500 J of heat and does 200 J of work. Change in internal energy?",
+   "o": [
+    "700 J",
+    "300 J",
+    "-300 J",
+    "100 J"
+   ],
+   "a": 1,
+   "w": "500 - 200."
+  },
+  {
+   "q": "The second law says heat spontaneously flows from",
+   "o": [
+    "Cold to hot",
+    "Hot to cold",
+    "Both equally",
+    "Neither"
+   ],
+   "a": 1,
+   "w": "Never the reverse on its own."
+  },
+  {
+   "q": "Carnot efficiency for Th = 600 K, Tc = 300 K is",
+   "o": [
+    "25 percent",
+    "50 percent",
+    "75 percent",
+    "100 percent"
+   ],
+   "a": 1,
+   "w": "1 - 0.5."
+  },
+  {
+   "q": "No heat engine can be 100 percent efficient because of the",
+   "o": [
+    "Zeroth law",
+    "First law",
+    "Second law",
+    "Third law"
+   ],
+   "a": 2,
+   "w": "Some heat must be rejected."
+  },
+  {
+   "q": "A refrigerator",
+   "o": [
+    "Creates cold from nothing",
+    "Uses work to move heat from inside to outside",
+    "Violates the second law",
+    "Needs no energy"
+   ],
+   "a": 1,
+   "w": "It is a reversed engine."
+  },
+  {
+   "q": "An engine takes 2000 J of heat and rejects 1500 J. Its work output and efficiency?",
+   "o": [
+    "500 J, 25 percent",
+    "1500 J, 75 percent",
+    "3500 J, 25 percent",
+    "500 J, 75 percent"
+   ],
+   "a": 0,
+   "w": "W = 500; 500/2000 = 25 percent."
+  },
+  {
+   "q": "Temperatures in Carnot's formula must be in",
+   "o": [
+    "Celsius",
+    "Fahrenheit",
+    "Kelvin",
+    "Any scale"
+   ],
+   "a": 2,
+   "w": "Absolute scale needed."
+  },
+  {
+   "q": "The third law says",
+   "o": [
+    "Absolute zero is unreachable",
+    "Energy is conserved",
+    "Entropy always rises",
+    "Heat flows uphill"
+   ],
+   "a": 0,
+   "w": "Absolute zero cannot be attained in a finite number of steps."
+  },
+  {
+   "q": "Who analysed the ideal heat engine in 1824?",
+   "o": [
+    "Joule",
+    "Carnot",
+    "Kelvin",
+    "Boltzmann"
+   ],
+   "a": 1,
+   "w": "Sadi Carnot."
+  }
+ ],
+ "sources": [
+  "NCERT Physics Class 11-12",
+  "Halliday, Resnick and Walker, Fundamentals of Physics",
+  "Carnot, Reflexions sur la puissance motrice du feu (1824)"
+ ],
+ "verified": "2026-11-11"
+}

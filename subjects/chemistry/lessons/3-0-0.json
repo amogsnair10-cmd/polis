@@ -1,0 +1,179 @@
+{
+ "id": "3-0-0",
+ "title": "Why Carbon Is Special: Hydrocarbons",
+ "emoji": "⛓️",
+ "cards": [
+  {
+   "tag": "Why this matters",
+   "h": "Life is carbon",
+   "b": "<p>Over 90 percent of known compounds contain carbon. Your body, plastic, petrol, medicines, cotton, silk: all carbon-based. <b>Organic chemistry</b> is the study of carbon compounds. Why one element makes so many compounds is the question here.</p>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "Carbon's superpowers",
+   "b": "<ul><li><b>Four bonds:</b> carbon has 4 outer electrons and shares them, forming four covalent bonds.</li><li><b>Catenation:</b> carbon atoms bond strongly to each other, forming long chains, branches and rings.</li><li><b>Multiple bonds:</b> single, double and triple.</li><li><b>Isomers:</b> same formula, different arrangement.</li></ul><p>Silicon is below carbon but its chains are weak, so life chose carbon.</p>"
+  },
+  {
+   "tag": "Key idea",
+   "h": "A history note",
+   "b": "<p>Chemists once thought organic compounds needed a 'vital force' from living things. <b>Friedrich Wöhler, 1828</b>, made urea from ammonium cyanate in a flask, a compound of living bodies, from inorganic materials. The vital-force idea faded. <b>August Kekulé (1865)</b> proposed the ring structure of benzene.</p>"
+  },
+  {
+   "tag": "Key idea",
+   "h": "The hydrocarbon families",
+   "b": "<p>Hydrocarbons contain only carbon and hydrogen.</p><ul><li><b>Alkanes</b> (single bonds, CnH2n+2): methane CH4, ethane C2H6, propane C3H8, butane C4H10.</li><li><b>Alkenes</b> (one C=C, CnH2n): ethene C2H4, propene C3H6.</li><li><b>Alkynes</b> (one C≡C, CnH2n-2): ethyne (acetylene) C2H2.</li><li><b>Aromatic:</b> benzene C6H6, a stable ring.</li></ul><p>Alkanes are 'saturated'; alkenes and alkynes are 'unsaturated'.</p>"
+  },
+  {
+   "tag": "Key idea",
+   "h": "Naming",
+   "b": "<p>The stem tells the chain length: <b>meth</b> 1, <b>eth</b> 2, <b>prop</b> 3, <b>but</b> 4, <b>pent</b> 5, <b>hex</b> 6, <b>hept</b> 7, <b>oct</b> 8. The ending tells the family: -ane (single), -ene (double), -yne (triple).</p><svg class=\"d\" viewBox=\"0 0 320 136\"><defs><marker id=\"m1\" markerWidth=\"8\" markerHeight=\"8\" refX=\"6\" refY=\"4\" orient=\"auto\"><path d=\"M0,0 L8,4 L0,8 z\" fill=\"#5d6474\"/></marker></defs><rect x=\"20\" y=\"4\" width=\"280\" height=\"30\" rx=\"6\" fill=\"#f1e4c6\" stroke=\"#a8792a\"/><text x=\"160\" y=\"23\" text-anchor=\"middle\" font-size=\"11\" fill=\"#1d2433\">Count the longest chain: 3 carbons = prop</text><line x1=\"160\" y1=\"34\" x2=\"160\" y2=\"47\" stroke=\"#5d6474\" marker-end=\"url(#m1)\"/><rect x=\"20\" y=\"48\" width=\"280\" height=\"30\" rx=\"6\" fill=\"#f1e4c6\" stroke=\"#a8792a\"/><text x=\"160\" y=\"67\" text-anchor=\"middle\" font-size=\"11\" fill=\"#1d2433\">Check bonds: all single = -ane</text><line x1=\"160\" y1=\"78\" x2=\"160\" y2=\"91\" stroke=\"#5d6474\" marker-end=\"url(#m1)\"/><rect x=\"20\" y=\"92\" width=\"280\" height=\"30\" rx=\"6\" fill=\"#f1e4c6\" stroke=\"#a8792a\"/><text x=\"160\" y=\"111\" text-anchor=\"middle\" font-size=\"11\" fill=\"#1d2433\">Name: propane, C3H8</text></svg>"
+  },
+  {
+   "tag": "Key idea",
+   "h": "Isomers",
+   "b": "<p>Butane C4H10 can be arranged as a straight chain (n-butane) or branched (isobutane, or methylpropane). Same formula, different properties. Isomers multiply fast: C10H22 has 75 isomers. This is another reason carbon chemistry is so rich.</p>"
+  },
+  {
+   "tag": "Key idea",
+   "h": "Reactions of hydrocarbons",
+   "b": "<ul><li><b>Combustion:</b> complete: hydrocarbon + O2 → CO2 + H2O. Incomplete burning gives CO and soot.</li><li><b>Substitution (alkanes):</b> CH4 + Cl2 → CH3Cl + HCl in light.</li><li><b>Addition (alkenes):</b> C2H4 + Br2 → C2H4Br2. Decolourising bromine water tests for double bonds.</li><li><b>Hydrogenation:</b> C2H4 + H2 → C2H6 with nickel catalyst.</li></ul>"
+  },
+  {
+   "tag": "Worked example",
+   "h": "Balance a combustion",
+   "b": "<p>Propane: C3H8 + O2 → CO2 + H2O.</p><ol><li>3 carbons: 3CO2.</li><li>8 hydrogens: 4H2O.</li><li>Oxygen on right: 6 + 4 = 10 atoms, so 5O2.</li></ol><p><b>C3H8 + 5O2 → 3CO2 + 4H2O.</b> Burning 44 g (1 mol) propane gives 3 mol CO2 = 132 g. A rule: formula of an alkane with 6 carbons is C6H14 (2 x 6 + 2 = 14).</p>"
+  },
+  {
+   "tag": "Misconceptions",
+   "h": "Careful",
+   "b": "<ul><li><b>Organic does not mean natural or healthy.</b> It just means carbon-based; plastics are organic compounds.</li><li><b>Not every carbon compound is organic:</b> CO2, carbonates, and diamond are usually classed as inorganic.</li><li><b>Isomers are not the same substance.</b></li><li><b>Saturated does not mean 'full of water'.</b> It means no double bonds.</li></ul>"
+  },
+  {
+   "tag": "Indian angle",
+   "h": "Digboi, Jamnagar and E20",
+   "b": "<p><b>Digboi</b> in Assam, where oil was struck in 1889 and the refinery began in 1901, is among the oldest operating refineries in the world. <b>Reliance's Jamnagar complex</b> in Gujarat is one of the largest refining sites on Earth. Ethanol, a carbon compound from sugarcane, now blends into petrol under India's E20 programme (20 percent ethanol, rolled out widely by 2025).</p>"
+  },
+  {
+   "tag": "Recap",
+   "h": "Key takeaways",
+   "b": "<ul><li>Carbon forms four bonds, long chains, rings and multiple bonds.</li><li>Alkanes CnH2n+2, alkenes CnH2n, alkynes CnH2n-2.</li><li>Isomers share formula but differ in structure; combustion makes CO2 and water.</li></ul><div class=\"box\"><h4>Think about it</h4><p>1. Why can carbon form millions of compounds while neon forms none?</p><p>2. How would you tell hexane from hexene using bromine water?</p></div>",
+   "cls": "exam"
+  }
+ ],
+ "quiz": [
+  {
+   "q": "Carbon forms how many covalent bonds?",
+   "o": [
+    "4",
+    "2",
+    "3",
+    "8"
+   ],
+   "a": 0,
+   "w": "Four outer electrons."
+  },
+  {
+   "q": "Formula of an alkane with 5 carbons?",
+   "o": [
+    "C5H12",
+    "C5H10",
+    "C5H8",
+    "C5H14"
+   ],
+   "a": 0,
+   "w": "2n + 2."
+  },
+  {
+   "q": "Who synthesised urea in 1828?",
+   "o": [
+    "Wöhler",
+    "Kekulé",
+    "Lavoisier",
+    "Dalton"
+   ],
+   "a": 0,
+   "w": "Ended vital force theory."
+  },
+  {
+   "q": "Ethene belongs to:",
+   "o": [
+    "Alkenes",
+    "Alkanes",
+    "Alkynes",
+    "Aromatics"
+   ],
+   "a": 0,
+   "w": "C=C bond."
+  },
+  {
+   "q": "Balanced combustion of propane needs how many O2?",
+   "o": [
+    "3",
+    "5",
+    "4",
+    "10"
+   ],
+   "a": 1,
+   "w": "3CO2 + 4H2O gives 10 O atoms."
+  },
+  {
+   "q": "Bromine water test: decolourised by:",
+   "o": [
+    "Ethane",
+    "Methane",
+    "Ethene",
+    "Propane"
+   ],
+   "a": 2,
+   "w": "Addition at C=C."
+  },
+  {
+   "q": "Isomers have:",
+   "o": [
+    "Same formula, different structure",
+    "Same structure",
+    "Different formula",
+    "Same properties always"
+   ],
+   "a": 0,
+   "w": "E.g. n-butane and isobutane."
+  },
+  {
+   "q": "Benzene's ring structure was proposed by:",
+   "o": [
+    "Wöhler",
+    "Kekulé",
+    "Berzelius",
+    "Mendeleev"
+   ],
+   "a": 1,
+   "w": "1865."
+  },
+  {
+   "q": "Mass of CO2 from burning 1 mol propane (CO2 = 44)?",
+   "o": [
+    "132 g",
+    "44 g",
+    "88 g",
+    "176 g"
+   ],
+   "a": 0,
+   "w": "3 x 44."
+  },
+  {
+   "q": "Digboi refinery in Assam started in:",
+   "o": [
+    "1947",
+    "1975",
+    "1999",
+    "1901"
+   ],
+   "a": 3,
+   "w": "Among world's oldest operating."
+  }
+ ],
+ "sources": [
+  "Standard school and university chemistry texts"
+ ],
+ "verified": "2026-11-11"
+}

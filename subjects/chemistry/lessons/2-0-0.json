@@ -1,0 +1,174 @@
+{
+ "id": "2-0-0",
+ "title": "Metals, Alloys and Metallurgy",
+ "emoji": "🔩",
+ "cards": [
+  {
+   "tag": "Why this matters",
+   "h": "The Iron Age is still on",
+   "b": "<p>Bridges, cars, wires, coins, cookware, implants: metals underpin civilisation. Most metals sit in the ground as ores (compounds), and turning them into useful metal is <b>metallurgy</b>. Human history is even named after metals: Bronze Age, Iron Age.</p>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "Properties of metals",
+   "b": "<p>Metals are shiny, good conductors of heat and electricity, malleable (hammer into sheets) and ductile (draw into wires). The metallic bond, a sea of free electrons, explains all of this. Mercury is the only metal liquid at room temperature; sodium and potassium are soft enough to cut with a knife.</p>"
+  },
+  {
+   "tag": "Key idea",
+   "h": "The reactivity series",
+   "b": "<p>From most to least reactive: <b>K, Na, Ca, Mg, Al, Zn, Fe, Pb, (H), Cu, Ag, Au.</b></p><ul><li>Reactive metals (K, Na) react with cold water: 2Na + 2H2O → 2NaOH + H2.</li><li>Middle metals react with acids.</li><li>Gold and silver barely react, which is why gold is found native and is prized.</li></ul><p>A more reactive metal displaces a less reactive one: Fe + CuSO4 → FeSO4 + Cu.</p>"
+  },
+  {
+   "tag": "Key idea",
+   "h": "Extraction methods follow reactivity",
+   "b": "<p>The ore is concentrated first. Then:</p><svg class=\"d\" viewBox=\"0 0 320 136\"><defs><marker id=\"m1\" markerWidth=\"8\" markerHeight=\"8\" refX=\"6\" refY=\"4\" orient=\"auto\"><path d=\"M0,0 L8,4 L0,8 z\" fill=\"#5d6474\"/></marker></defs><rect x=\"20\" y=\"4\" width=\"280\" height=\"30\" rx=\"6\" fill=\"#f1e4c6\" stroke=\"#a8792a\"/><text x=\"160\" y=\"23\" text-anchor=\"middle\" font-size=\"11\" fill=\"#1d2433\">Low reactivity (Au, Ag): found native or heated</text><line x1=\"160\" y1=\"34\" x2=\"160\" y2=\"47\" stroke=\"#5d6474\" marker-end=\"url(#m1)\"/><rect x=\"20\" y=\"48\" width=\"280\" height=\"30\" rx=\"6\" fill=\"#f1e4c6\" stroke=\"#a8792a\"/><text x=\"160\" y=\"67\" text-anchor=\"middle\" font-size=\"11\" fill=\"#1d2433\">Middle (Zn, Fe, Pb): reduce oxide with carbon or CO</text><line x1=\"160\" y1=\"78\" x2=\"160\" y2=\"91\" stroke=\"#5d6474\" marker-end=\"url(#m1)\"/><rect x=\"20\" y=\"92\" width=\"280\" height=\"30\" rx=\"6\" fill=\"#f1e4c6\" stroke=\"#a8792a\"/><text x=\"160\" y=\"111\" text-anchor=\"middle\" font-size=\"11\" fill=\"#1d2433\">High (Al, Mg, Na): electrolysis of molten compound</text></svg><p><b>Roasting</b> heats sulphide ores in air; <b>calcination</b> heats carbonates in limited air; <b>smelting</b> reduces an oxide to metal.</p>"
+  },
+  {
+   "tag": "Key idea",
+   "h": "Iron in the blast furnace",
+   "b": "<p>Haematite (Fe2O3), coke (carbon) and limestone go in the top; hot air goes in at the bottom.</p><ul><li>C + O2 → CO2, then CO2 + C → 2CO</li><li><b>Fe2O3 + 3CO → 2Fe + 3CO2</b></li><li>Limestone makes slag: CaCO3 → CaO + CO2, then CaO + SiO2 → CaSiO3, which floats and removes impurities.</li></ul><p>Aluminium is too reactive for carbon: Hall and Héroult (1886) electrolysed alumina dissolved in molten cryolite.</p>"
+  },
+  {
+   "tag": "Key idea",
+   "h": "Alloys",
+   "b": "<p>An <b>alloy</b> is a mixture of a metal with other elements. Different-sized atoms disrupt the layers, so layers slide less: alloys are usually harder and stronger.</p><ul><li><b>Steel:</b> iron with 0.2 to 2 percent carbon.</li><li><b>Stainless steel:</b> iron, chromium (about 10.5 percent or more), nickel.</li><li><b>Brass:</b> copper and zinc. <b>Bronze:</b> copper and tin.</li><li><b>Solder:</b> tin and lead (now often lead-free).</li></ul>"
+  },
+  {
+   "tag": "Worked example",
+   "h": "Iron from haematite",
+   "b": "<p>How much iron from 160 kg of Fe2O3? Molar mass Fe2O3 = 2 x 56 + 3 x 16 = 160 g/mol. So 160 kg = 1,000 mol. Equation gives 2 mol Fe per mole Fe2O3, so 2,000 mol Fe = 2,000 x 56 g = <b>112 kg</b>.</p><p>Which displaces which? Zinc and copper sulphate: zinc is higher in the series, so Zn + CuSO4 → ZnSO4 + Cu works. Copper in zinc sulphate does not.</p>"
+  },
+  {
+   "tag": "Misconceptions",
+   "h": "Careful",
+   "b": "<ul><li><b>Reactive does not mean quick to decay.</b> Aluminium forms a protective oxide film, which is why it lasts.</li><li><b>Steel is not pure iron.</b></li><li><b>Alloys are mixtures</b>, not compounds, though they can contain compounds.</li><li><b>Rust is not the same as all corrosion.</b> Silver tarnishes by forming sulphide, copper turns green with a carbonate layer.</li></ul>"
+  },
+  {
+   "tag": "Indian angle",
+   "h": "Delhi pillar, wootz and Zawar",
+   "b": "<ul><li>The <b>Delhi iron pillar</b>: about 7 m tall, around 6 tonnes, made of nearly pure wrought iron (about 98 percent) in roughly the 4th to 5th century CE (associated with Gupta king Chandragupta II). It has stayed largely rust-free for about 1,600 years.</li><li><b>Wootz steel</b> from southern India, high in carbon, was exported and became legendary as Damascus steel.</li><li><b>Zawar</b> in Rajasthan is one of the world's earliest sites of zinc distillation.</li><li><b>Tata Steel</b> began producing at Jamshedpur in 1912 (company founded 1907).</li></ul>"
+  },
+  {
+   "tag": "Recap",
+   "h": "Key takeaways",
+   "b": "<ul><li>Extraction method depends on reactivity: carbon reduction for mid metals, electrolysis for reactive ones.</li><li>Blast furnace: Fe2O3 + 3CO → 2Fe + 3CO2.</li><li>Alloys are stronger because mixed atoms block sliding layers.</li></ul><div class=\"box\"><h4>Think about it</h4><p>1. Why can't aluminium be extracted by heating with carbon?</p><p>2. Why do we add carbon to iron to make steel, but not too much?</p></div>",
+   "cls": "exam"
+  }
+ ],
+ "quiz": [
+  {
+   "q": "Which metal is liquid at room temperature?",
+   "o": [
+    "Mercury",
+    "Sodium",
+    "Lead",
+    "Zinc"
+   ],
+   "a": 0,
+   "w": "Hg."
+  },
+  {
+   "q": "Least reactive metal in the list?",
+   "o": [
+    "Gold",
+    "Zinc",
+    "Iron",
+    "Copper"
+   ],
+   "a": 0,
+   "w": "Found native."
+  },
+  {
+   "q": "Aluminium is extracted by:",
+   "o": [
+    "Electrolysis of alumina in cryolite",
+    "Heating with carbon",
+    "Roasting",
+    "Magnetic separation"
+   ],
+   "a": 0,
+   "w": "Hall-Héroult, 1886."
+  },
+  {
+   "q": "Blast furnace reduction reaction:",
+   "o": [
+    "Fe + O2 → FeO",
+    "FeO → Fe + O",
+    "Fe2O3 + 3CO → 2Fe + 3CO2",
+    "Fe2O3 + H2O → Fe"
+   ],
+   "a": 2,
+   "w": "CO is the reducing agent."
+  },
+  {
+   "q": "Brass is an alloy of:",
+   "o": [
+    "Copper and zinc",
+    "Copper and tin",
+    "Iron and carbon",
+    "Lead and tin"
+   ],
+   "a": 0,
+   "w": "Bronze has tin."
+  },
+  {
+   "q": "Role of limestone in a blast furnace:",
+   "o": [
+    "Provides carbon",
+    "Forms slag with impurities",
+    "Cools the furnace",
+    "Is the ore"
+   ],
+   "a": 1,
+   "w": "CaO + SiO2 → CaSiO3."
+  },
+  {
+   "q": "Moles of Fe from 3 mol Fe2O3?",
+   "o": [
+    "6",
+    "3",
+    "1.5",
+    "9"
+   ],
+   "a": 0,
+   "w": "2 per Fe2O3."
+  },
+  {
+   "q": "Why are alloys harder than pure metals?",
+   "o": [
+    "They have fewer atoms",
+    "They are compounds",
+    "They have weaker bonds",
+    "Different atoms block layer sliding"
+   ],
+   "a": 3,
+   "w": "Distorted layers."
+  },
+  {
+   "q": "Wootz steel came from:",
+   "o": [
+    "Southern India",
+    "Greece",
+    "Japan",
+    "Egypt"
+   ],
+   "a": 0,
+   "w": "Later called Damascus steel."
+  },
+  {
+   "q": "Zn + CuSO4 → ZnSO4 + Cu happens because:",
+   "o": [
+    "Cu is more reactive",
+    "Zn is more reactive than Cu",
+    "Zn is heavier",
+    "The solution is acidic"
+   ],
+   "a": 1,
+   "w": "Displacement."
+  }
+ ],
+ "sources": [
+  "Standard school and university chemistry texts"
+ ],
+ "verified": "2026-11-11"
+}

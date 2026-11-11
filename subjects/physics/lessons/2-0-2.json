@@ -1,0 +1,175 @@
+{
+ "id": "2-0-2",
+ "title": "Current, Resistance and Circuits",
+ "emoji": "🔌",
+ "cards": [
+  {
+   "tag": "Why this matters",
+   "h": "From a battery to the whole grid",
+   "b": "<p>Every phone, light bulb, fan and train runs on electric current moving through circuits. The rules of circuits are simple enough that you can learn them in an hour, yet they power the digital world.</p><p>The central idea: voltage pushes, resistance resists, current is the result.</p>"
+  },
+  {
+   "tag": "Concept",
+   "h": "Current: charge in motion",
+   "b": "<div class=\"box\"><h4>Current</h4>I = Q / t</div><p>Current is the amount of charge passing a point per second. The unit is the <b>ampere</b> (A): one coulomb per second. A phone charger may give 2 A; a household bulb draws a fraction of an amp.</p><p>By convention current is drawn flowing from positive to negative, though in wires it is actually electrons drifting the other way, slowly, at about a millimetre per second. The signal moves fast because the whole 'sea' of electrons shifts together."
+  },
+  {
+   "tag": "Concept",
+   "h": "Ohm's law and resistance",
+   "b": "<div class=\"box\"><h4>Ohm's law</h4>V = I x R</div><p>Georg Ohm found in 1827 that, for many conductors, current is proportional to voltage. The constant is <b>resistance</b> R, in ohms. A larger voltage drives more current; a larger resistance allows less.</p><p>Resistance of a wire: R = (resistivity) x length / area. Long, thin wires resist more; thick, short ones less. Copper has very low resistivity, so it is used for wiring.</p><svg class=\"d\" viewBox=\"0 0 320 150\"><rect x=\"40\" y=\"30\" width=\"240\" height=\"90\" fill=\"none\" stroke=\"#1d2433\" stroke-width=\"2\"/><rect x=\"22\" y=\"60\" width=\"36\" height=\"30\" fill=\"#f1e4c6\" stroke=\"#a8792a\" stroke-width=\"2\"/><text x=\"26\" y=\"80\" font-size=\"11\" fill=\"#1d2433\">12 V</text><rect x=\"110\" y=\"20\" width=\"50\" height=\"20\" fill=\"#dceaec\" stroke=\"#2f6f7a\" stroke-width=\"2\"/><text x=\"125\" y=\"34\" font-size=\"11\" fill=\"#1d2433\">4 ohm</text><rect x=\"200\" y=\"20\" width=\"50\" height=\"20\" fill=\"#dceaec\" stroke=\"#2f6f7a\" stroke-width=\"2\"/><text x=\"215\" y=\"34\" font-size=\"11\" fill=\"#1d2433\">2 ohm</text><text x=\"120\" y=\"75\" font-size=\"11\" fill=\"#a3362a\">I = 12 / 6 = 2 A</text><text x=\"95\" y=\"140\" font-size=\"10\" fill=\"#5d6474\">series circuit: same current everywhere</text></svg>"
+  },
+  {
+   "tag": "Concept",
+   "h": "Series circuits",
+   "b": "<p>In a <b>series</b> circuit, components are in a single chain. The same current passes through each, and resistances add: R = R1 + R2. The battery voltage divides among them in proportion to their resistance.</p><p>If one bulb in a cheap string of series lights burns out, the whole chain goes dark, because the loop is broken. That is the key weakness of series wiring."
+  },
+  {
+   "tag": "Concept",
+   "h": "Parallel circuits",
+   "b": "<p>In a <b>parallel</b> circuit, each component has its own branch across the same voltage. Currents add; resistances combine as 1/R = 1/R1 + 1/R2. Adding branches lowers the total resistance.</p><p>Homes are wired in parallel, so each appliance gets the full mains voltage and works independently. Switch one off and the others keep running. Gustav Kirchhoff's rules (1845) make all this precise: current in equals current out at a junction; voltages around a loop sum to zero."
+  },
+  {
+   "tag": "Concept",
+   "h": "Power and heating",
+   "b": "<div class=\"box\"><h4>Electric power</h4>P = V x I = I squared x R = V squared / R</div><p>The watt again: joules per second. Current through resistance makes heat (Joule heating): useful in a geyser or iron, a waste in power lines. A fuse is a thin wire that melts if too much current flows, protecting the circuit. A modern MCB switch does the same job."
+  },
+  {
+   "tag": "Worked example",
+   "h": "A 12 V battery with 4 and 2 ohm resistors",
+   "b": "<p>Series: R = 4 + 2 = 6 ohms. Current I = 12 / 6 = <b>2 A</b> (see the diagram).</p><p>Voltage across the 4 ohm: 2 x 4 = 8 V; across the 2 ohm: 2 x 2 = 4 V. They add to 12 V.</p><p>Power: 12 x 2 = <b>24 W</b>.</p><p>Now put them in parallel: 1/R = 1/4 + 1/2 = 3/4, so R = 1.33 ohms and total current = 12 / 1.33 = 9 A. Far more current."
+  },
+  {
+   "tag": "Misconceptions",
+   "h": "Circuit confusions",
+   "b": "<ul><li><b>'Current is used up by a bulb.'</b> The same current leaves as enters; it is energy that is converted to light and heat.</li><li><b>'Batteries supply a fixed current.'</b> A battery gives roughly a fixed voltage; the current depends on the circuit.</li><li><b>'More resistors always mean more resistance.'</b> In parallel they lower the total.</li></ul>"
+  },
+  {
+   "tag": "Indian angle",
+   "h": "230 volts, 50 hertz",
+   "b": "<p>Indian homes receive alternating current at 230 V and 50 Hz. A typical 1500 W electric kettle draws about 6.5 A (1500 / 230), so it needs a heavier plug and wire than a small bulb. The earth pin and MCB in your home protect against shocks and overloads.</p><p>India's solar push turns sunlight into DC electricity in panels, and the country's installed solar capacity has grown rapidly through the 2020s. Solar plants such as Bhadla in Rajasthan are among the world's largest."
+  },
+  {
+   "tag": "Recap",
+   "h": "Key takeaways",
+   "b": "<ul><li>Current I = Q/t, measured in amperes.</li><li>Ohm's law: V = IR.</li><li>Series: same current, R adds. Parallel: same voltage, 1/R adds.</li><li>Power P = VI = I squared R; fuses protect against overload.</li></ul><div class=\"box\"><h4>Think about it</h4>1. Why do power lines carry high voltage rather than high current?<br>2. Why are household appliances wired in parallel?</div>",
+   "cls": "exam"
+  }
+ ],
+ "quiz": [
+  {
+   "q": "Ohm's law states",
+   "o": [
+    "V = I / R",
+    "V = I R",
+    "V = I squared R",
+    "V = R / I"
+   ],
+   "a": 1,
+   "w": "Voltage = current x resistance."
+  },
+  {
+   "q": "A 12 V supply drives 3 A. The resistance is",
+   "o": [
+    "36 ohms",
+    "4 ohms",
+    "0.25 ohm",
+    "15 ohms"
+   ],
+   "a": 1,
+   "w": "12/3."
+  },
+  {
+   "q": "Resistors of 3 and 6 ohms in series give",
+   "o": [
+    "2",
+    "9",
+    "18",
+    "4.5"
+   ],
+   "a": 1,
+   "w": "Add."
+  },
+  {
+   "q": "Resistors of 6 and 3 ohms in parallel give",
+   "o": [
+    "9",
+    "2",
+    "4.5",
+    "18"
+   ],
+   "a": 1,
+   "w": "1/6 + 1/3 = 1/2."
+  },
+  {
+   "q": "A 60 W bulb on 240 V draws about",
+   "o": [
+    "0.25 A",
+    "4 A",
+    "14,400 A",
+    "180 A"
+   ],
+   "a": 0,
+   "w": "60/240."
+  },
+  {
+   "q": "Household devices are wired in parallel so that",
+   "o": [
+    "They share current equally",
+    "Each gets the full voltage and works independently",
+    "They use less energy",
+    "Fuses are not needed"
+   ],
+   "a": 1,
+   "w": "Parallel gives each the mains voltage."
+  },
+  {
+   "q": "A charge of 30 C passes in 10 s. Current?",
+   "o": [
+    "300 A",
+    "3 A",
+    "0.33 A",
+    "40 A"
+   ],
+   "a": 1,
+   "w": "30/10."
+  },
+  {
+   "q": "The unit of resistance is the",
+   "o": [
+    "Ohm",
+    "Volt",
+    "Ampere",
+    "Watt"
+   ],
+   "a": 0,
+   "w": "Named for Georg Ohm."
+  },
+  {
+   "q": "A 100 ohm resistor carries 0.5 A. Power dissipated?",
+   "o": [
+    "50 W",
+    "25 W",
+    "200 W",
+    "5000 W"
+   ],
+   "a": 1,
+   "w": "I squared R = 0.25 x 100."
+  },
+  {
+   "q": "A fuse protects a circuit by",
+   "o": [
+    "Increasing voltage",
+    "Melting when current is too large",
+    "Storing charge",
+    "Reducing resistance"
+   ],
+   "a": 1,
+   "w": "The wire melts and breaks the circuit."
+  }
+ ],
+ "sources": [
+  "NCERT Physics Class 11-12",
+  "Halliday, Resnick and Walker, Fundamentals of Physics"
+ ],
+ "verified": "2026-11-11"
+}

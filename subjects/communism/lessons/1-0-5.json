@@ -1,0 +1,169 @@
+{
+ "id": "1-0-5",
+ "title": "Engels: Dialectics, the Family and the State",
+ "emoji": "🧪",
+ "cards": [
+  {
+   "tag": "Why this matters",
+   "h": "The second voice of Marxism",
+   "b": "<p>Friedrich Engels was Marx's friend, funder and editor, and the author of many ideas now labelled Marxism. He also systematised it, for better or worse. Many critics blame \"Engels's dialectics of nature\" for the rigid Soviet dogma.</p>"
+  },
+  {
+   "tag": "Context",
+   "h": "A Manchester mill-owner's son",
+   "b": "<p>Engels (1820-95) worked at the family firm in Manchester. His <i>Condition of the Working Class in England</i> (1845) described slums and disease with data. He met Marx in 1844 and co-wrote the <i>German Ideology</i> and the <i>Manifesto</i>. After 1883 he edited volumes 2 and 3 of <i>Capital</i> and led European socialism as its elder statesman.</p>"
+  },
+  {
+   "tag": "Key idea",
+   "h": "Dialectics of nature",
+   "b": "<p>In <i>Anti-Dühring</i> (1878) and the unfinished <i>Dialectics of Nature</i> (published 1925), Engels held that dialectical laws govern nature as well as history: quantity turns into quality (water boils), opposites interpenetrate, and negation of negation (a seed grows, is eaten, regrows). He used examples from chemistry and Darwin's evolution. Soviet \"diamat\" built on this.</p>"
+  },
+  {
+   "tag": "Key idea",
+   "h": "Family, property and the state",
+   "b": "<p><i>The Origin of the Family, Private Property and the State</i> (1884) drew on Lewis Henry Morgan's <i>Ancient Society</i> (1877). Engels proposed that early societies had communal property and kinship, and that private property and the monogamous family arose together: \"the world-historical defeat of the female sex\". The state arose to manage class conflict. Women's liberation requires entry into public production.</p>"
+  },
+  {
+   "tag": "Key idea",
+   "h": "Scientific socialism",
+   "b": "<p>In <i>Socialism: Utopian and Scientific</i> (1880), Engels presented socialism as the consequence of two discoveries: the materialist conception of history and surplus value. His 1895 introduction to Marx's <i>Class Struggles in France</i> admitted that barricade uprisings were outdated and praised the German SPD's votes; revisionists later quoted it as support for peaceful reform.</p>"
+  },
+  {
+   "tag": "In practice",
+   "h": "The \"Engelsism\" debate",
+   "b": "<p>After 1883, Engels's simplified versions travelled widely, in Kautsky's hands and then Lenin's (<i>Materialism and Empirio-criticism</i>, 1909). Soviet science included Lysenko, who rejected modern genetics under Stalin, ruining Soviet biology for decades. In letters of 1890-94, Engels himself warned against crude economic determinism.</p>"
+  },
+  {
+   "tag": "Critiques",
+   "h": "Did Engels distort Marx?",
+   "b": "<p><b>Lukács</b> (<i>History and Class Consciousness</i>, 1923) argued the dialectic belongs to history and society, not nature. <b>Western Marxists</b> (Gramsci, Sartre) agree. <b>Terrell Carver</b> and others claim Engels created \"Marxism\" as a system that Marx never wrote. <b>Anthropologists</b> have rejected Morgan's unilinear stages; modern research finds more variety in early gender roles. <b>Scientists</b> say nature's laws are not dialectical in any testable sense. <b>Defenders</b> say Engels was candid and an honest populariser.</p>"
+  },
+  {
+   "tag": "Indian angle",
+   "h": "Family and gender",
+   "b": "<p>The Origin was influential for Indian women's movements of the 1970s and for the left's approach to the family. Scholars such as Uma Chakravarti (<i>Gendering Caste</i>, 2003) stress that caste and patriarchy shape the Indian family in ways the Engelsian scheme did not foresee. Rajani Palme Dutt, a British-Indian communist, wrote <i>India Today</i> (1940), applying Engelsian-Leninist analysis to India. Sections of the Hindu code reform debates (1950s) took up some themes of women's property.</p>"
+  },
+  {
+   "tag": "Recap",
+   "h": "Five takeaways and two debates",
+   "b": "<h4>Key takeaways</h4><ol><li>Engels documented the English working class in 1845 and edited Capital after Marx.</li><li>Dialectics of nature extends the dialectic to the natural world.</li><li>The Origin (1884) links private property, family and state.</li><li>Engels shaped the systematic form of \"Marxism\" and the Second International.</li><li>Critics blame him for determinism and the unscientific \"dialectics of nature\".</li></ol><h4>Debate questions</h4><ol><li>Is \"Marxism\" more Engels's creation than Marx's?</li><li>Does a gender analysis fit Engels's family account today?</li></ol>",
+   "cls": "exam"
+  }
+ ],
+ "quiz": [
+  {
+   "q": "Engels's first major book (1845) concerned",
+   "o": [
+    "The Origin of the Family",
+    "The Condition of the Working Class in England",
+    "Anti-Dühring",
+    "Capital"
+   ],
+   "a": 1,
+   "w": "Written in Manchester."
+  },
+  {
+   "q": "The Origin of the Family was published in",
+   "o": [
+    "1845",
+    "1867",
+    "1895",
+    "1884"
+   ],
+   "a": 3,
+   "w": "Based on Morgan."
+  },
+  {
+   "q": "Engels drew on which anthropologist?",
+   "o": [
+    "Lewis Henry Morgan",
+    "Franz Boas",
+    "Malinowski",
+    "Levi-Strauss"
+   ],
+   "a": 0,
+   "w": "Ancient Society (1877)."
+  },
+  {
+   "q": "Dialectics of Nature was published",
+   "o": [
+    "1878",
+    "1848",
+    "1895",
+    "1925, posthumously"
+   ],
+   "a": 3,
+   "w": "An unfinished manuscript."
+  },
+  {
+   "q": "Lukács argued the dialectic applies to",
+   "o": [
+    "Nature alone",
+    "Biology only",
+    "Neither",
+    "History and society, not nature"
+   ],
+   "a": 3,
+   "w": "History and Class Consciousness, 1923."
+  },
+  {
+   "q": "Lysenko's influence in the USSR damaged",
+   "o": [
+    "Steel output",
+    "Railway planning",
+    "Genetics and agriculture",
+    "Education law"
+   ],
+   "a": 2,
+   "w": "Under Stalin."
+  },
+  {
+   "q": "Engels's 1895 introduction is often cited by",
+   "o": [
+    "Revisionists",
+    "Trotskyists",
+    "Maoists",
+    "Anarchists"
+   ],
+   "a": 0,
+   "w": "For its support of electoral politics."
+  },
+  {
+   "q": "Engels described the monogamous family's rise as",
+   "o": [
+    "The world-historical defeat of the female sex",
+    "A natural advance",
+    "A liberal myth",
+    "Proletarian victory"
+   ],
+   "a": 0,
+   "w": "Origin, 1884."
+  },
+  {
+   "q": "Who wrote India Today (1940)?",
+   "o": [
+    "M.N. Roy",
+    "Rajani Palme Dutt",
+    "Ambedkar",
+    "A.K. Gopalan"
+   ],
+   "a": 1,
+   "w": "A Marxist analysis of British rule."
+  },
+  {
+   "q": "Which Engels work labelled socialism \"scientific\"?",
+   "o": [
+    "Condition of the Working Class",
+    "Dialectics of Nature",
+    "Origin",
+    "Socialism: Utopian and Scientific (1880)"
+   ],
+   "a": 3,
+   "w": "Taken from three chapters of Anti-Dühring."
+  }
+ ],
+ "sources": [
+  "Engels 1845, 1878, 1880, 1884, 1895"
+ ],
+ "verified": "2026-11-11"
+}

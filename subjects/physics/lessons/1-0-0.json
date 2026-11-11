@@ -1,0 +1,175 @@
+{
+ "id": "1-0-0",
+ "title": "Temperature, Heat and Kinetic Theory",
+ "emoji": "🌡️",
+ "cards": [
+  {
+   "tag": "Why this matters",
+   "h": "Hot and cold, explained by motion",
+   "b": "<p>Touch a cup of tea and it feels hot; hold an ice cube and it feels cold. For centuries people thought heat was a fluid called 'caloric'. Today we know something stranger and simpler: heat is the jiggling of atoms.</p><p>This lesson connects the everyday words (temperature, heat, boiling, melting) to the unseen dance of molecules. It also explains why the monsoon blows and why a clay pot keeps water cool.</p>"
+  },
+  {
+   "tag": "Concept",
+   "h": "Temperature measures average jiggle",
+   "b": "<p><b>Temperature</b> tells how energetic the random motion of molecules is, on average. Hotter means faster jiggling.</p><p>We use three scales. Celsius sets water's freezing at 0 and boiling at 100. Fahrenheit (used in the US) has them at 32 and 212. Scientists use <b>kelvin</b>: K = C + 273.15. Zero kelvin, or -273.15 C, is <b>absolute zero</b>, where molecular motion is at its minimum. Nothing can be colder."
+  },
+  {
+   "tag": "Concept",
+   "h": "Heat is energy on the move",
+   "b": "<p>Temperature is not heat. <b>Heat</b> is the energy that flows from a hot body to a cold one because of a temperature difference. It is measured in joules.</p><p>A bathtub of warm water has a lower temperature than a boiling spoonful, yet holds far more heat. James Joule showed in the 1840s that work and heat are interchangeable: stirring water with paddles warms it. Heat is just one form of energy."
+  },
+  {
+   "tag": "Concept",
+   "h": "Specific heat and latent heat",
+   "b": "<div class=\"box\"><h4>Heating a substance</h4>Q = m x c x (change in temperature)</div><p>c is the specific heat. For water, c = 4186 J per kg per degree, unusually high. Water takes a lot of heat to warm up and releases a lot as it cools.</p><p>While ice melts or water boils, the temperature stays flat: the heat goes into breaking bonds, not speeding molecules. This is <b>latent heat</b>. Melting ice needs about 334,000 J/kg; boiling water needs about 2,260,000 J/kg.</p><svg class=\"d\" viewBox=\"0 0 320 150\"><defs><marker id=\"j1\" markerWidth=\"8\" markerHeight=\"8\" refX=\"7\" refY=\"4\" orient=\"auto\"><path d=\"M0,0 L8,4 L0,8z\" fill=\"#5d6474\"/></marker></defs><line x1=\"30\" y1=\"125\" x2=\"300\" y2=\"125\" stroke=\"#5d6474\" stroke-width=\"1.5\" marker-end=\"url(#j1)\"/><line x1=\"30\" y1=\"125\" x2=\"30\" y2=\"10\" stroke=\"#5d6474\" stroke-width=\"1.5\"/><polyline points=\"30,115 60,100 100,100 150,60 230,60 260,25\" fill=\"none\" stroke=\"#a3362a\" stroke-width=\"3\"/><text x=\"62\" y=\"92\" font-size=\"10\" fill=\"#1d2433\">ice melts (0 C)</text><text x=\"150\" y=\"52\" font-size=\"10\" fill=\"#1d2433\">water boils (100 C)</text><text x=\"36\" y=\"20\" font-size=\"10\" fill=\"#1d2433\">temp</text><text x=\"230\" y=\"140\" font-size=\"10\" fill=\"#1d2433\">heat added</text><text x=\"120\" y=\"110\" font-size=\"10\" fill=\"#2f6f7a\">water warms</text></svg>"
+  },
+  {
+   "tag": "Concept",
+   "h": "Kinetic theory of gases",
+   "b": "<p>A gas is a swarm of tiny particles flying about and bouncing off walls. Their bouncing is pressure. Their average kinetic energy is proportional to temperature: roughly (3/2) k T per molecule, where k is Boltzmann's constant.</p><p>This gives the ideal gas law:</p><div class=\"box\"><h4>Ideal gas law</h4>P V = n R T</div><p>Heat a gas in a closed container and the pressure rises. Squeeze it and the pressure rises. This links the big picture (P, V, T) to the atomic one."
+  },
+  {
+   "tag": "Concept",
+   "h": "Three ways heat moves",
+   "b": "<ul><li><b>Conduction:</b> energy passes through touching atoms. A metal spoon in hot tea warms up. Metals conduct well; wood, air and wool poorly.</li><li><b>Convection:</b> a fluid carries heat as it moves. Warm air rises; cooler air sinks. This forms sea breezes and drives weather.</li><li><b>Radiation:</b> electromagnetic waves carry heat, even across empty space. That is how the Sun warms us.</li></ul>"
+  },
+  {
+   "tag": "Worked example",
+   "h": "Heating and boiling a kilogram of water",
+   "b": "<p>Warm 1 kg of water from 20 C to 100 C: Q = 1 x 4186 x 80 = <b>335,000 J</b>.</p><p>Now boil it all away: Q = 1 x 2,260,000 = <b>2,260,000 J</b>.</p><p>Boiling needs nearly seven times more energy than heating to the boiling point. This is why steam burns are worse than boiling-water burns, since condensing steam dumps this huge latent heat on your skin."
+  },
+  {
+   "tag": "Misconceptions",
+   "h": "Hot and cold confusions",
+   "b": "<ul><li><b>'Cold flows into things.'</b> There is only heat flow, from hot to cold. A cold drink gains heat.</li><li><b>'Temperature and heat are the same.'</b> Temperature is a level; heat is energy transferred.</li><li><b>'Boiling water keeps getting hotter if you turn the flame up.'</b> At normal pressure it stays at 100 C; extra heat just boils it faster.</li></ul>"
+  },
+  {
+   "tag": "Indian angle",
+   "h": "The monsoon and the matka",
+   "b": "<p>Water's high specific heat means the sea warms slowly, while land warms fast in the Indian summer. Hot land air rises and cooler, moist air from the Indian Ocean rushes in: the <b>southwest monsoon</b> that brings India most of its rain.</p><p>A clay matka stays cool because water seeps through and evaporates from the surface. Evaporation needs latent heat, taken from the water inside. S. N. Bose later developed, in 1924, the statistics used to describe quantum gases, extending the kinetic picture into the quantum world.</p>"
+  },
+  {
+   "tag": "Recap",
+   "h": "Key takeaways",
+   "b": "<ul><li>Temperature is average molecular motion; K = C + 273.15.</li><li>Heat is energy transferred by temperature difference.</li><li>Q = m c change in T; latent heat powers melting and boiling.</li><li>Gases obey PV = nRT, explained by kinetic theory.</li><li>Heat moves by conduction, convection and radiation.</li></ul><div class=\"box\"><h4>Think about it</h4>1. Why does a metal chair feel colder than a wooden one at the same temperature?<br>2. Why does a wet cloth around a bottle cool it?</div>",
+   "cls": "exam"
+  }
+ ],
+ "quiz": [
+  {
+   "q": "Absolute zero is",
+   "o": [
+    "0 C",
+    "-100 C",
+    "-273.15 C",
+    "-373 C"
+   ],
+   "a": 2,
+   "w": "0 K = -273.15 C."
+  },
+  {
+   "q": "300 K in Celsius is about",
+   "o": [
+    "27 C",
+    "573 C",
+    "-27 C",
+    "300 C"
+   ],
+   "a": 0,
+   "w": "300 - 273."
+  },
+  {
+   "q": "Heat is",
+   "o": [
+    "A substance",
+    "Energy transferred due to temperature difference",
+    "The same as temperature",
+    "A kind of force"
+   ],
+   "a": 1,
+   "w": "It is a flow of energy."
+  },
+  {
+   "q": "Heat needed to warm 2 kg of water by 10 C (c = 4200)?",
+   "o": [
+    "8400 J",
+    "84,000 J",
+    "42,000 J",
+    "840 J"
+   ],
+   "a": 1,
+   "w": "2 x 4200 x 10."
+  },
+  {
+   "q": "During boiling at constant pressure, the temperature",
+   "o": [
+    "Rises steadily",
+    "Stays constant",
+    "Falls",
+    "Doubles"
+   ],
+   "a": 1,
+   "w": "Latent heat is absorbed."
+  },
+  {
+   "q": "Which mode of heat transfer can cross a vacuum?",
+   "o": [
+    "Conduction",
+    "Convection",
+    "Radiation",
+    "All three"
+   ],
+   "a": 2,
+   "w": "Radiation needs no medium."
+  },
+  {
+   "q": "In the kinetic theory, gas pressure comes from",
+   "o": [
+    "Gravity",
+    "Molecules hitting the walls",
+    "Chemical bonds",
+    "Light"
+   ],
+   "a": 1,
+   "w": "Collisions with walls."
+  },
+  {
+   "q": "For a gas at constant volume, doubling the absolute temperature makes the pressure",
+   "o": [
+    "Half",
+    "Double",
+    "Four times",
+    "Same"
+   ],
+   "a": 1,
+   "w": "P is proportional to T."
+  },
+  {
+   "q": "Why is a steam burn worse than boiling water at 100 C?",
+   "o": [
+    "Steam is above 100 C only",
+    "Steam releases large latent heat",
+    "Water is heavier",
+    "Steam is faster"
+   ],
+   "a": 1,
+   "w": "Condensation releases 2.26 MJ per kg."
+  },
+  {
+   "q": "The monsoon arises mainly because",
+   "o": [
+    "Land and sea heat at different rates",
+    "The Moon pulls air",
+    "Earth stops spinning",
+    "Mountains make heat"
+   ],
+   "a": 0,
+   "w": "Different specific heats create pressure differences."
+  }
+ ],
+ "sources": [
+  "NCERT Physics Class 11-12",
+  "Halliday, Resnick and Walker, Fundamentals of Physics"
+ ],
+ "verified": "2026-11-11"
+}

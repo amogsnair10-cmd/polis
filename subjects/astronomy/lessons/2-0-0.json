@@ -1,0 +1,176 @@
+{
+ "id": "2-0-0",
+ "title": "Measuring Stars: Distance, Brightness, the HR Diagram",
+ "emoji": "⭐",
+ "cards": [
+  {
+   "tag": "Why this matters",
+   "h": "How far is a point of light?",
+   "b": "<p>A star's brightness mixes two things: how powerful it really is, and how far away. To learn anything, astronomers must separate them. Measuring distance is the key step, and a chain of methods, the <b>cosmic distance ladder</b>, builds it from the nearest stars to the edge of the universe.</p>"
+  },
+  {
+   "tag": "Concept",
+   "h": "Parallax: the first rung",
+   "b": "<p>Hold a finger out and blink each eye: the finger jumps against the background. In the same way, a nearby star shifts slightly against distant stars as Earth moves around the Sun. The shift angle is its <b>parallax</b>. Friedrich Bessel first measured it in 1838 for 61 Cygni.</p><p>A star with a parallax of 1 arcsecond is 1 <b>parsec</b> away, about <b>3.26 light-years</b>. The nearest star system, Alpha Centauri, is 4.37 light-years away, and its faintest member, Proxima Centauri, 4.24. The Gaia satellite has measured parallaxes for nearly two billion stars.</p>"
+  },
+  {
+   "tag": "Concept",
+   "h": "Apparent brightness vs luminosity",
+   "b": "<p><b>Luminosity</b> is a star's true power output. <b>Apparent brightness</b> is how bright it looks from here. Light spreads over a sphere, so brightness falls with the square of distance: twice as far, a quarter as bright (inverse-square law).</p><p>Astronomers use <b>magnitudes</b>: a lower number means brighter, and 5 magnitudes equals a factor of 100 in brightness. <b>Absolute magnitude</b> is the brightness a star would have at 10 parsecs, so stars can be compared fairly.</p>"
+  },
+  {
+   "tag": "Concept",
+   "h": "Standard candles",
+   "b": "<p>Beyond a few thousand light-years parallax fails. We then use objects of known luminosity. <b>Henrietta Leavitt</b> found in 1912 that <b>Cepheid variable stars</b> pulse at a rate linked to their luminosity: slower pulses mean brighter stars. Time the pulse, know the true brightness, compare to apparent brightness, get distance. This ladder rung let Hubble measure Andromeda's distance in 1924.</p>"
+  },
+  {
+   "tag": "Concept",
+   "h": "The Hertzsprung-Russell diagram",
+   "b": "<p>Plot stars by temperature (colour) against luminosity and they do not scatter: they fall into groups. This is the <b>HR diagram</b> (Hertzsprung 1911, Russell 1913).</p><ul><li><b>Main sequence:</b> a diagonal band holding about 90 percent of stars, including the Sun, all fusing hydrogen.</li><li><b>Red giants:</b> cool but huge, so bright.</li><li><b>White dwarfs:</b> hot but tiny, so faint.</li></ul><svg class=\"d\" viewBox=\"0 0 320 150\"><defs><marker id=\"ar1\" viewBox=\"0 0 10 10\" refX=\"9\" refY=\"5\" markerWidth=\"6\" markerHeight=\"6\" orient=\"auto\"><path d=\"M0 0L10 5L0 10z\" fill=\"#5d6474\"/></marker></defs><line x1=\"30\" y1=\"10\" x2=\"30\" y2=\"125\" stroke=\"#5d6474\" stroke-width=\"1.5\" marker-end=\"url(#ar1)\"/><line x1=\"30\" y1=\"125\" x2=\"310\" y2=\"125\" stroke=\"#5d6474\" stroke-width=\"1.5\" marker-end=\"url(#ar1)\"/><text x=\"160\" y=\"142\" text-anchor=\"middle\" font-size=\"10\" fill=\"#1d2433\">Temperature (hot on left)</text><text x=\"8\" y=\"70\" text-anchor=\"middle\" font-size=\"10\" fill=\"#1d2433\">Lum.</text><path d=\"M60 20 Q150 70 280 105\" fill=\"none\" stroke=\"#a8792a\" stroke-width=\"10\" opacity=\".5\"/><text x=\"150\" y=\"50\" text-anchor=\"middle\" font-size=\"10\" fill=\"#1d2433\" font-weight=\"bold\">Main sequence</text><rect x=\"210\" y=\"25\" width=\"70\" height=\"24\" rx=\"5\" fill=\"#f4dcd5\" stroke=\"#a3362a\"/><text x=\"245.0\" y=\"41.0\" text-anchor=\"middle\" font-size=\"11\" fill=\"#1d2433\">Red giants</text><rect x=\"60\" y=\"100\" width=\"60\" height=\"22\" rx=\"5\" fill=\"#dceaec\" stroke=\"#2f6f7a\"/><text x=\"90.0\" y=\"115.0\" text-anchor=\"middle\" font-size=\"11\" fill=\"#1d2433\">White dwarfs</text></svg>"
+  },
+  {
+   "tag": "Concept",
+   "h": "Mass decides everything",
+   "b": "<p>On the main sequence, position tells mass. Heavy stars are hot, blue and extremely bright but live short lives (millions of years). Light red dwarfs are dim but live for trillions of years. Luminosity rises roughly as mass to the power 3.5. The Sun is a middle-ranking star with a ten-billion-year life.</p>"
+  },
+  {
+   "tag": "How we know",
+   "h": "Ladder checks",
+   "b": "<p>Each rung of the distance ladder is calibrated by the one below: parallax calibrates Cepheids, Cepheids calibrate supernovae. Independent methods agree to a few percent, and Gaia has tightened the bottom rung.</p>"
+  },
+  {
+   "tag": "Misconceptions",
+   "h": "Watch out",
+   "b": "<ul><li><b>'The brightest-looking star is the closest or the biggest.'</b> It may just be powerful, or near.</li><li><b>'A larger magnitude means brighter.'</b> It is the opposite.</li><li><b>'Stars on the HR diagram are moving along it all the time.'</b> They move over millions to billions of years, not days.</li></ul>"
+  },
+  {
+   "tag": "Indian angle",
+   "h": "Bappu-Wilson and Saha",
+   "b": "<p><b>Vainu Bappu</b>, builder of the Kavalur observatory, with Olin Wilson found in 1957 the <b>Bappu-Wilson effect</b>: the width of a calcium emission line in cool stars tells how luminous they are, giving a new distance tool. The Vainu Bappu Telescope (2.34 m) in Tamil Nadu is named after him. Meghnad Saha's work (1920) connected spectral type to temperature, which underpins the HR diagram.</p>"
+  },
+  {
+   "tag": "Recap",
+   "h": "Key takeaways",
+   "b": "<ul><li>Parallax gives distances to nearby stars; Cepheids extend the ladder.</li><li>Brightness falls with distance squared; lower magnitude is brighter.</li><li>The HR diagram groups stars by temperature and luminosity.</li><li>Mass sets a star's position and lifetime.</li></ul><p><b>Think about it:</b> (1) Why do massive stars die sooner despite having more fuel? (2) Why can't parallax measure distance to other galaxies?</p>",
+   "cls": "exam"
+  }
+ ],
+ "quiz": [
+  {
+   "q": "One parsec is about:",
+   "o": [
+    "1 light-year",
+    "3.26 light-years",
+    "10 light-years",
+    "100 light-years"
+   ],
+   "a": 1,
+   "w": "3.26 ly."
+  },
+  {
+   "q": "If a star moves twice as far away its apparent brightness becomes:",
+   "o": [
+    "Half",
+    "One quarter",
+    "Double",
+    "Unchanged"
+   ],
+   "a": 1,
+   "w": "Inverse-square law."
+  },
+  {
+   "q": "Who linked Cepheid period to luminosity in 1912?",
+   "o": [
+    "Hubble",
+    "Leavitt",
+    "Bessel",
+    "Payne"
+   ],
+   "a": 1,
+   "w": "Henrietta Leavitt."
+  },
+  {
+   "q": "On the HR diagram, most stars are on the:",
+   "o": [
+    "Main sequence",
+    "White dwarf corner",
+    "Giant branch",
+    "Edge"
+   ],
+   "a": 0,
+   "w": "About 90 percent."
+  },
+  {
+   "q": "A star with magnitude 1 vs magnitude 6 is:",
+   "o": [
+    "100 times brighter",
+    "6 times brighter",
+    "Equal",
+    "100 times fainter"
+   ],
+   "a": 0,
+   "w": "5 magnitudes equals 100 times."
+  },
+  {
+   "q": "Massive main-sequence stars have lifetimes that are:",
+   "o": [
+    "Longer than the Sun's",
+    "Much shorter",
+    "The same",
+    "Infinite"
+   ],
+   "a": 1,
+   "w": "They burn fuel far faster."
+  },
+  {
+   "q": "Parallax is the shift of a star's apparent position caused by:",
+   "o": [
+    "Star spinning",
+    "Earth's orbital motion",
+    "Light bending",
+    "Solar wind"
+   ],
+   "a": 1,
+   "w": "Different viewpoints through the year."
+  },
+  {
+   "q": "White dwarfs appear low on the HR diagram because they are:",
+   "o": [
+    "Cool",
+    "Small",
+    "Heavy",
+    "Young"
+   ],
+   "a": 1,
+   "w": "Hot but tiny, so low luminosity."
+  },
+  {
+   "q": "The Bappu-Wilson effect uses which feature?",
+   "o": [
+    "Calcium emission line width",
+    "Radio flux",
+    "Star shape",
+    "Polarisation"
+   ],
+   "a": 0,
+   "w": "A luminosity indicator for cool stars."
+  },
+  {
+   "q": "Which satellite measured parallax for nearly two billion stars?",
+   "o": [
+    "Hubble",
+    "Gaia",
+    "Kepler",
+    "Chandra"
+   ],
+   "a": 1,
+   "w": "ESA's Gaia."
+  }
+ ],
+ "sources": [
+  "Gaia ESA",
+  "Leavitt 1912",
+  "Hertzsprung 1911 Russell 1913"
+ ],
+ "verified": "2026-11-11"
+}
