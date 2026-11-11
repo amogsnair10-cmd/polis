@@ -1,0 +1,164 @@
+{
+ "id": "6-1-1",
+ "title": "Decolonisation: Empires End",
+ "emoji": "🕊️",
+ "cards": [
+  {
+   "tag": "Why this matters",
+   "h": "In 1945 empires ruled a third of humanity. By 1975 they were gone",
+   "b": "<p>When the UN was founded in 1945, it had 51 members. Today it has 193. Almost all the extra countries are former colonies.</p><p>In about thirty years, one of the biggest political changes in human history took place.</p>"
+  },
+  {
+   "tag": "The story",
+   "h": "The great shift",
+   "b": "<svg class=\"d\" viewBox=\"0 0 320 208\"><line x1=\"14\" y1=\"10\" x2=\"14\" y2=\"198\" stroke=\"#a8792a\" stroke-width=\"2\"/><circle cx=\"14\" cy=\"22\" r=\"5\" fill=\"#f1e4c6\" stroke=\"#a8792a\" stroke-width=\"2\"/><text x=\"28\" y=\"26\" font-size=\"11\" font-weight=\"700\" fill=\"#a8792a\">1947</text><text x=\"112\" y=\"26\" font-size=\"11\" fill=\"#1d2433\">India and Pakistan</text><circle cx=\"14\" cy=\"50\" r=\"5\" fill=\"#f1e4c6\" stroke=\"#a8792a\" stroke-width=\"2\"/><text x=\"28\" y=\"54\" font-size=\"11\" font-weight=\"700\" fill=\"#a8792a\">1949</text><text x=\"112\" y=\"54\" font-size=\"11\" fill=\"#1d2433\">Indonesia</text><circle cx=\"14\" cy=\"78\" r=\"5\" fill=\"#f1e4c6\" stroke=\"#a8792a\" stroke-width=\"2\"/><text x=\"28\" y=\"82\" font-size=\"11\" font-weight=\"700\" fill=\"#a8792a\">1954</text><text x=\"112\" y=\"82\" font-size=\"11\" fill=\"#1d2433\">Dien Bien Phu; Algeria war</text><circle cx=\"14\" cy=\"106\" r=\"5\" fill=\"#f1e4c6\" stroke=\"#a8792a\" stroke-width=\"2\"/><text x=\"28\" y=\"110\" font-size=\"11\" font-weight=\"700\" fill=\"#a8792a\">1957</text><text x=\"112\" y=\"110\" font-size=\"11\" fill=\"#1d2433\">Ghana independent</text><circle cx=\"14\" cy=\"134\" r=\"5\" fill=\"#f1e4c6\" stroke=\"#a8792a\" stroke-width=\"2\"/><text x=\"28\" y=\"138\" font-size=\"11\" font-weight=\"700\" fill=\"#a8792a\">1960</text><text x=\"112\" y=\"138\" font-size=\"11\" fill=\"#1d2433\">'Year of Africa': 17 states</text><circle cx=\"14\" cy=\"162\" r=\"5\" fill=\"#f1e4c6\" stroke=\"#a8792a\" stroke-width=\"2\"/><text x=\"28\" y=\"166\" font-size=\"11\" font-weight=\"700\" fill=\"#a8792a\">1962</text><text x=\"112\" y=\"166\" font-size=\"11\" fill=\"#1d2433\">Algeria independent</text><circle cx=\"14\" cy=\"190\" r=\"5\" fill=\"#f1e4c6\" stroke=\"#a8792a\" stroke-width=\"2\"/><text x=\"28\" y=\"194\" font-size=\"11\" font-weight=\"700\" fill=\"#a8792a\">1975</text><text x=\"112\" y=\"194\" font-size=\"11\" fill=\"#1d2433\">Portuguese empire ends</text></svg><p>World War II had drained Britain and France. The US and USSR both pushed against old empires. Colonised people had also fought in the war and wanted freedom.</p>"
+  },
+  {
+   "tag": "The turning point",
+   "h": "Different roads",
+   "b": "<p>India's freedom came via mass non-violent movements and then talks. Vietnam beat France at <b>Dien Bien Phu</b> (1954) after a long war. In Algeria, a brutal war (1954-62) ended French rule. Ghana's <b>Kwame Nkrumah</b> won independence in 1957 through strikes and elections.</p><p>Britain used force against the Mau Mau in Kenya, with serious abuses.</p>"
+  },
+  {
+   "tag": "The twist",
+   "h": "Suez, 1956",
+   "b": "<p>Britain and France, with Israel, attacked Egypt to retake the Suez Canal. The US and USSR forced them to withdraw. It showed the old powers were no longer in charge.</p><p>In 1960 the UN General Assembly adopted Resolution 1514, declaring colonialism must end.</p>"
+  },
+  {
+   "tag": "The story",
+   "h": "Unfinished business",
+   "b": "<p>New states inherited borders that cut across peoples. Many faced coups, civil wars and poverty. Portugal held its colonies until 1974-75. Some historians call the continuing economic influence of ex-rulers 'neocolonialism' (a term of Nkrumah's, 1965).</p>"
+  },
+  {
+   "tag": "Myth vs fact",
+   "h": "Was decolonisation always peaceful?",
+   "b": "<b>Myth:</b> empires handed power over politely.<b>Fact:</b> there were many wars: Algeria, Vietnam, Kenya, Angola, Indonesia. Even India's independence came with Partition, in which perhaps one to two million died (estimates vary) and about 15 million were displaced."
+  },
+  {
+   "tag": "Indian angle",
+   "h": "Meanwhile in India…",
+   "b": "<p>A tryst with destiny</p>"
+  },
+  {
+   "tag": "Recap",
+   "h": "Five takeaways, two puzzles",
+   "b": "<p><b>Five things to remember</b></p><ol><li>The UN grew from 51 to far more members.</li><li>Roads to freedom differed.</li><li>Suez (1956) showed old powers' decline.</li><li>Many new states faced hard borders.</li><li>India helped lead the Afro-Asian cause.</li></ol><p><b>Think about it</b></p><ul><li>Why did colonial powers lose will?</li><li>Do old borders cause today's conflicts?</li></ul>",
+   "cls": "exam"
+  }
+ ],
+ "quiz": [
+  {
+   "q": "The UN began with how many members?",
+   "o": [
+    "15",
+    "101",
+    "51",
+    "193"
+   ],
+   "a": 2,
+   "w": "In 1945."
+  },
+  {
+   "q": "India's independence came in...",
+   "o": [
+    "1947",
+    "1945",
+    "1950",
+    "1957"
+   ],
+   "a": 0,
+   "w": "15 August."
+  },
+  {
+   "q": "First sub-Saharan colony to become independent (1957)...",
+   "o": [
+    "Kenya",
+    "Nigeria",
+    "Algeria",
+    "Ghana"
+   ],
+   "a": 3,
+   "w": "Under Nkrumah."
+  },
+  {
+   "q": "The 'Year of Africa' was...",
+   "o": [
+    "1947",
+    "1960",
+    "1975",
+    "1989"
+   ],
+   "a": 1,
+   "w": "17 states became independent."
+  },
+  {
+   "q": "Dien Bien Phu was a French defeat in...",
+   "o": [
+    "Vietnam, 1954",
+    "Algeria, 1962",
+    "India, 1947",
+    "Egypt, 1956"
+   ],
+   "a": 0,
+   "w": "By the Viet Minh."
+  },
+  {
+   "q": "Suez crisis was in...",
+   "o": [
+    "1947",
+    "1962",
+    "1973",
+    "1956"
+   ],
+   "a": 3,
+   "w": "Egypt."
+  },
+  {
+   "q": "UN Resolution 1514 was about...",
+   "o": [
+    "Trade",
+    "Ending colonialism",
+    "Nuclear arms",
+    "Refugees"
+   ],
+   "a": 1,
+   "w": "1960."
+  },
+  {
+   "q": "'Neocolonialism' was a term used by...",
+   "o": [
+    "Nehru",
+    "Churchill",
+    "Nkrumah",
+    "Lenin"
+   ],
+   "a": 2,
+   "w": "1965."
+  },
+  {
+   "q": "Operation Vijay took...",
+   "o": [
+    "Kashmir",
+    "Hyderabad",
+    "Sikkim",
+    "Goa in 1961"
+   ],
+   "a": 3,
+   "w": "From Portugal."
+  },
+  {
+   "q": "The last Portuguese colonies freed...",
+   "o": [
+    "1974-75",
+    "1947",
+    "1960",
+    "1989"
+   ],
+   "a": 0,
+   "w": "After the Carnation Revolution."
+  }
+ ],
+ "sources": [
+  "Darwin, After Tamerlane; Betts, Decolonization; Nehru, Tryst with Destiny (1947); UN GA Res. 1514 (1960)"
+ ],
+ "verified": "2026-11-10"
+}

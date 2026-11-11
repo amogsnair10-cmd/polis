@@ -1,0 +1,164 @@
+{
+ "id": "6-1-3",
+ "title": "The Space Race",
+ "emoji": "🚀",
+ "cards": [
+  {
+   "tag": "Why this matters",
+   "h": "A beeping ball the size of a beach ball scared America",
+   "b": "<p>On 4 October 1957, the Soviet Union launched <b>Sputnik 1</b>, a 58-cm metal sphere. It beeped as it circled Earth. People with radios could hear it.</p><p>Americans feared Soviet rockets could now carry bombs. The race to space had begun.</p>"
+  },
+  {
+   "tag": "The story",
+   "h": "Soviet firsts",
+   "b": "<svg class=\"d\" viewBox=\"0 0 320 180\"><line x1=\"14\" y1=\"10\" x2=\"14\" y2=\"170\" stroke=\"#a8792a\" stroke-width=\"2\"/><circle cx=\"14\" cy=\"22\" r=\"5\" fill=\"#f1e4c6\" stroke=\"#a8792a\" stroke-width=\"2\"/><text x=\"28\" y=\"26\" font-size=\"11\" font-weight=\"700\" fill=\"#a8792a\">1957</text><text x=\"112\" y=\"26\" font-size=\"11\" fill=\"#1d2433\">Sputnik; Laika</text><circle cx=\"14\" cy=\"50\" r=\"5\" fill=\"#f1e4c6\" stroke=\"#a8792a\" stroke-width=\"2\"/><text x=\"28\" y=\"54\" font-size=\"11\" font-weight=\"700\" fill=\"#a8792a\">1958</text><text x=\"112\" y=\"54\" font-size=\"11\" fill=\"#1d2433\">Explorer 1 (US)</text><circle cx=\"14\" cy=\"78\" r=\"5\" fill=\"#f1e4c6\" stroke=\"#a8792a\" stroke-width=\"2\"/><text x=\"28\" y=\"82\" font-size=\"11\" font-weight=\"700\" fill=\"#a8792a\">12 Apr 1961</text><text x=\"112\" y=\"82\" font-size=\"11\" fill=\"#1d2433\">Gagarin first in orbit</text><circle cx=\"14\" cy=\"106\" r=\"5\" fill=\"#f1e4c6\" stroke=\"#a8792a\" stroke-width=\"2\"/><text x=\"28\" y=\"110\" font-size=\"11\" font-weight=\"700\" fill=\"#a8792a\">1963</text><text x=\"112\" y=\"110\" font-size=\"11\" fill=\"#1d2433\">Tereshkova, first woman</text><circle cx=\"14\" cy=\"134\" r=\"5\" fill=\"#f1e4c6\" stroke=\"#a8792a\" stroke-width=\"2\"/><text x=\"28\" y=\"138\" font-size=\"11\" font-weight=\"700\" fill=\"#a8792a\">1969</text><text x=\"112\" y=\"138\" font-size=\"11\" fill=\"#1d2433\">Apollo 11 on the Moon</text><circle cx=\"14\" cy=\"162\" r=\"5\" fill=\"#f1e4c6\" stroke=\"#a8792a\" stroke-width=\"2\"/><text x=\"28\" y=\"166\" font-size=\"11\" font-weight=\"700\" fill=\"#a8792a\">1975</text><text x=\"112\" y=\"166\" font-size=\"11\" fill=\"#1d2433\">Apollo-Soyuz handshake</text></svg><p>The Soviets sent the dog Laika (November 1957) and then <b>Yuri Gagarin</b>, who orbited Earth for 108 minutes on 12 April 1961.</p>"
+  },
+  {
+   "tag": "The turning point",
+   "h": "Kennedy's bet",
+   "b": "<p>Weeks later, President <b>Kennedy</b> told Congress the US would land a man on the Moon before the decade ended. In 1962 he said 'we choose to go to the Moon'. Apollo cost the equivalent of well over a hundred billion modern dollars.</p><p>In 1967 three astronauts died in the Apollo 1 fire.</p>"
+  },
+  {
+   "tag": "The twist",
+   "h": "20 July 1969",
+   "b": "<b>Neil Armstrong</b> and <b>Buzz Aldrin</b> landed Apollo 11's lander on the Moon, while <b>Michael Collins</b> orbited above. Armstrong stepped out first. About 600 million people watched on TV.<p>Six Apollo missions landed 12 men by 1972. The Soviet Moon rocket, the N1, exploded repeatedly and never worked.</p>"
+  },
+  {
+   "tag": "The story",
+   "h": "From rivals to partners",
+   "b": "<p>In 1975, an American Apollo and a Soviet Soyuz docked in orbit. Later, the two nations built the International Space Station (from 1998).</p><p>Today, private firms and many countries also launch rockets.</p>"
+  },
+  {
+   "tag": "Myth vs fact",
+   "h": "Was the Moon landing faked? Did NASA spend millions on a pen?",
+   "b": "<b>Myth 1:</b> it was faked.<b>Fact:</b> evidence includes 382 kg of Moon rock, reflectors left on the surface that scientists still use, and independent tracking by other countries.<b>Myth 2:</b> NASA built a space pen while the Soviets used a pencil. In fact, pencils were used by both, and the Fisher pen was developed privately."
+  },
+  {
+   "tag": "Indian angle",
+   "h": "Meanwhile in India…",
+   "b": "<p>From a bicycle to Mars</p>"
+  },
+  {
+   "tag": "Recap",
+   "h": "Five takeaways, two puzzles",
+   "b": "<p><b>Five things to remember</b></p><ol><li>Sputnik (1957) started the race.</li><li>Gagarin was first in space (1961).</li><li>Apollo 11 landed on 20 July 1969.</li><li>The rivals later cooperated.</li><li>India went from a bicycle to Mars.</li></ol><p><b>Think about it</b></p><ul><li>Was the race worth it?</li><li>What can India's low-cost model teach?</li></ul>",
+   "cls": "exam"
+  }
+ ],
+ "quiz": [
+  {
+   "q": "Sputnik was launched in...",
+   "o": [
+    "1961",
+    "1969",
+    "1957",
+    "1975"
+   ],
+   "a": 2,
+   "w": "By the USSR."
+  },
+  {
+   "q": "First human in space...",
+   "o": [
+    "Yuri Gagarin",
+    "Neil Armstrong",
+    "Alan Shepard",
+    "Rakesh Sharma"
+   ],
+   "a": 0,
+   "w": "12 April 1961."
+  },
+  {
+   "q": "First woman in space...",
+   "o": [
+    "Sally Ride",
+    "Kalpana Chawla",
+    "Laika",
+    "Valentina Tereshkova"
+   ],
+   "a": 3,
+   "w": "1963."
+  },
+  {
+   "q": "Apollo 11 landed in...",
+   "o": [
+    "1961",
+    "1969",
+    "1975",
+    "1957"
+   ],
+   "a": 1,
+   "w": "20 July."
+  },
+  {
+   "q": "Collins stayed...",
+   "o": [
+    "In lunar orbit",
+    "On the Moon",
+    "On Earth",
+    "In Mars"
+   ],
+   "a": 0,
+   "w": "Piloting the command module."
+  },
+  {
+   "q": "ISRO was formed in...",
+   "o": [
+    "1947",
+    "1975",
+    "1984",
+    "1969"
+   ],
+   "a": 3,
+   "w": "After INCOSPAR."
+  },
+  {
+   "q": "India's first satellite...",
+   "o": [
+    "Rohini",
+    "Aryabhata",
+    "INSAT",
+    "Bhaskara"
+   ],
+   "a": 1,
+   "w": "1975."
+  },
+  {
+   "q": "India's first Mars mission reached orbit in...",
+   "o": [
+    "2008",
+    "2023",
+    "2014",
+    "1984"
+   ],
+   "a": 2,
+   "w": "Mangalyaan."
+  },
+  {
+   "q": "Chandrayaan-3 landed in...",
+   "o": [
+    "Sept 2008",
+    "July 2019",
+    "Aug 1984",
+    "August 2023"
+   ],
+   "a": 3,
+   "w": "Near the south pole."
+  },
+  {
+   "q": "Reflectors left on the Moon are evidence...",
+   "o": [
+    "That the landings were real",
+    "For a hoax",
+    "For a pen",
+    "Nothing"
+   ],
+   "a": 0,
+   "w": "Used by scientists today."
+  }
+ ],
+ "sources": [
+  "NASA history; Siddiqi, Challenge to Apollo (2000); ISRO history; Sarabhai biographies; Chandrayaan-3 (ISRO, 2023)"
+ ],
+ "verified": "2026-11-10"
+}

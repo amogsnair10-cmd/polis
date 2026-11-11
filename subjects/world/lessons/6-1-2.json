@@ -1,0 +1,164 @@
+{
+ "id": "6-1-2",
+ "title": "Mao's China",
+ "emoji": "🏮",
+ "cards": [
+  {
+   "tag": "Why this matters",
+   "h": "The man who unified China, then lost track of how many he lost",
+   "b": "<p>On 1 October 1949, standing on Tiananmen, <b>Mao Zedong</b> announced the People's Republic of China. 'China has stood up,' he said, according to the common account.</p><p>He would rule for 27 years. The results were mixed and often terrible.</p>"
+  },
+  {
+   "tag": "The story",
+   "h": "Victory",
+   "b": "<svg class=\"d\" viewBox=\"0 0 320 208\"><line x1=\"14\" y1=\"10\" x2=\"14\" y2=\"198\" stroke=\"#a8792a\" stroke-width=\"2\"/><circle cx=\"14\" cy=\"22\" r=\"5\" fill=\"#f1e4c6\" stroke=\"#a8792a\" stroke-width=\"2\"/><text x=\"28\" y=\"26\" font-size=\"11\" font-weight=\"700\" fill=\"#a8792a\">1949</text><text x=\"112\" y=\"26\" font-size=\"11\" fill=\"#1d2433\">PRC founded</text><circle cx=\"14\" cy=\"50\" r=\"5\" fill=\"#f1e4c6\" stroke=\"#a8792a\" stroke-width=\"2\"/><text x=\"28\" y=\"54\" font-size=\"11\" font-weight=\"700\" fill=\"#a8792a\">1950-53</text><text x=\"112\" y=\"54\" font-size=\"11\" fill=\"#1d2433\">Korean War</text><circle cx=\"14\" cy=\"78\" r=\"5\" fill=\"#f1e4c6\" stroke=\"#a8792a\" stroke-width=\"2\"/><text x=\"28\" y=\"82\" font-size=\"11\" font-weight=\"700\" fill=\"#a8792a\">1958-62</text><text x=\"112\" y=\"82\" font-size=\"11\" fill=\"#1d2433\">Great Leap Forward</text><circle cx=\"14\" cy=\"106\" r=\"5\" fill=\"#f1e4c6\" stroke=\"#a8792a\" stroke-width=\"2\"/><text x=\"28\" y=\"110\" font-size=\"11\" font-weight=\"700\" fill=\"#a8792a\">1959</text><text x=\"112\" y=\"110\" font-size=\"11\" fill=\"#1d2433\">Dalai Lama flees to India</text><circle cx=\"14\" cy=\"134\" r=\"5\" fill=\"#f1e4c6\" stroke=\"#a8792a\" stroke-width=\"2\"/><text x=\"28\" y=\"138\" font-size=\"11\" font-weight=\"700\" fill=\"#a8792a\">1966-76</text><text x=\"112\" y=\"138\" font-size=\"11\" fill=\"#1d2433\">Cultural Revolution</text><circle cx=\"14\" cy=\"162\" r=\"5\" fill=\"#f1e4c6\" stroke=\"#a8792a\" stroke-width=\"2\"/><text x=\"28\" y=\"166\" font-size=\"11\" font-weight=\"700\" fill=\"#a8792a\">1976</text><text x=\"112\" y=\"166\" font-size=\"11\" fill=\"#1d2433\">Mao dies</text><circle cx=\"14\" cy=\"190\" r=\"5\" fill=\"#f1e4c6\" stroke=\"#a8792a\" stroke-width=\"2\"/><text x=\"28\" y=\"194\" font-size=\"11\" font-weight=\"700\" fill=\"#a8792a\">1978</text><text x=\"112\" y=\"194\" font-size=\"11\" fill=\"#1d2433\">Deng's reforms</text></svg><p>The Communists won the civil war against the Nationalists (Kuomintang), who fled to Taiwan. Land reform took land from landlords, and many were killed. China fought the US in Korea.</p>"
+  },
+  {
+   "tag": "The turning point",
+   "h": "The Great Leap Forward",
+   "b": "<p>In 1958 Mao tried to leap into industry with village steel furnaces and giant communes. Bad planning, false harvest reports and forced grain collection caused a famine. Estimates of deaths run from about 15 to 45 million, commonly about 30 million. The exact number is debated.</p><p>Mao stepped back, but kept power.</p>"
+  },
+  {
+   "tag": "The twist",
+   "h": "Cultural Revolution",
+   "b": "<p>In 1966 Mao urged young <b>Red Guards</b> to attack 'bourgeois' elements. Teachers, officials and intellectuals were beaten and humiliated. Schools closed. The <i>Little Red Book</i> of his quotes was waved by millions.</p><p>The army had to restore order, and the chaos ended with Mao's death on 9 September 1976.</p>"
+  },
+  {
+   "tag": "The story",
+   "h": "Afterwards",
+   "b": "<b>Deng Xiaoping</b> took over and launched reform and opening in 1978. The Communist Party itself, in 1981, judged Mao as 70 percent right and 30 percent wrong, though that figure is a Party formula. Mao's portrait still hangs on Tiananmen."
+  },
+  {
+   "tag": "Historians argue",
+   "h": "Great leader or great disaster?",
+   "b": "<p>Supporters credit Mao with ending foreign domination, raising literacy and life expectancy. Critics (such as Frank Dikötter) stress the famine and terror. Both can be true. Estimates of famine deaths vary with the method.</p><p>A myth check: the 'Four Pests' campaign, including killing sparrows, did upset the ecosystem and probably worsened crop losses, but it was not the main cause of famine.</p>"
+  },
+  {
+   "tag": "Indian angle",
+   "h": "Meanwhile in India…",
+   "b": "<p>Hindi-Chini and a border war</p>"
+  },
+  {
+   "tag": "Recap",
+   "h": "Five takeaways, two puzzles",
+   "b": "<p><b>Five things to remember</b></p><ol><li>The PRC was founded on 1 October 1949.</li><li>The Great Leap Forward (1958-62) caused famine.</li><li>The Cultural Revolution lasted 1966-76.</li><li>Deng began reform in 1978.</li><li>The 1962 war shaped India-China ties.</li></ol><p><b>Think about it</b></p><ul><li>Can a leader's aims justify huge costs?</li><li>How did the 1962 war change India?</li></ul>",
+   "cls": "exam"
+  }
+ ],
+ "quiz": [
+  {
+   "q": "The PRC was founded in...",
+   "o": [
+    "1912",
+    "1958",
+    "1949",
+    "1976"
+   ],
+   "a": 2,
+   "w": "1 October."
+  },
+  {
+   "q": "Mao announced it at...",
+   "o": [
+    "Tiananmen",
+    "Shanghai",
+    "Nanjing",
+    "Canton"
+   ],
+   "a": 0,
+   "w": "Beijing."
+  },
+  {
+   "q": "The Great Leap Forward began in...",
+   "o": [
+    "1949",
+    "1966",
+    "1978",
+    "1958"
+   ],
+   "a": 3,
+   "w": "Steel and communes."
+  },
+  {
+   "q": "The Cultural Revolution's youth were called...",
+   "o": [
+    "Blue Shirts",
+    "Red Guards",
+    "Boxers",
+    "Taipings"
+   ],
+   "a": 1,
+   "w": "1966."
+  },
+  {
+   "q": "Mao died in...",
+   "o": [
+    "1976",
+    "1949",
+    "1966",
+    "1989"
+   ],
+   "a": 0,
+   "w": "9 September."
+  },
+  {
+   "q": "Who began reform in 1978?",
+   "o": [
+    "Zhou Enlai",
+    "Chiang Kai-shek",
+    "Liu Shaoqi",
+    "Deng Xiaoping"
+   ],
+   "a": 3,
+   "w": "Reform and opening."
+  },
+  {
+   "q": "The Dalai Lama fled to India in...",
+   "o": [
+    "1950",
+    "1959",
+    "1962",
+    "1947"
+   ],
+   "a": 1,
+   "w": "After a Tibetan uprising."
+  },
+  {
+   "q": "Panchsheel was signed in...",
+   "o": [
+    "1947",
+    "1962",
+    "1954",
+    "1971"
+   ],
+   "a": 2,
+   "w": "Nehru and Zhou."
+  },
+  {
+   "q": "The India-China war was in...",
+   "o": [
+    "1954",
+    "1971",
+    "1999",
+    "1962"
+   ],
+   "a": 3,
+   "w": "October-November."
+  },
+  {
+   "q": "Famine deaths estimates are...",
+   "o": [
+    "Debated, around 15-45 million",
+    "Exactly known",
+    "Under 1 million",
+    "Under 100,000"
+   ],
+   "a": 0,
+   "w": "Methods differ."
+  }
+ ],
+ "sources": [
+  "Dikötter, Mao's Great Famine (2010); Spence, The Search for Modern China; Maxwell, India's China War (1970); Garver, China's Quest"
+ ],
+ "verified": "2026-11-10"
+}

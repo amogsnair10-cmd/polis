@@ -1,0 +1,164 @@
+{
+ "id": "7-0-1",
+ "title": "9/11 and the War on Terror",
+ "emoji": "🏙️",
+ "cards": [
+  {
+   "tag": "Why this matters",
+   "h": "The morning the world's news changed",
+   "b": "<p>On 11 September 2001, nineteen hijackers took four planes. Two struck the Twin Towers of the World Trade Center, one hit the Pentagon, and one crashed in a field in Pennsylvania after passengers fought back. Nearly 3,000 people died.</p><p>It was the deadliest terror attack in history, and it launched two long wars.</p>"
+  },
+  {
+   "tag": "The story",
+   "h": "Who did it?",
+   "b": "<p>The attack was carried out by <b>al-Qaeda</b>, led by <b>Osama bin Laden</b>, who had base camps in Afghanistan under the Taliban. Al-Qaeda had grown from the anti-Soviet war in Afghanistan in the 1980s.</p><p>It had already struck US embassies in Kenya and Tanzania (1998).</p>"
+  },
+  {
+   "tag": "The turning point",
+   "h": "Afghanistan, then Iraq",
+   "b": "<svg class=\"d\" viewBox=\"0 0 320 180\"><line x1=\"14\" y1=\"10\" x2=\"14\" y2=\"170\" stroke=\"#a8792a\" stroke-width=\"2\"/><circle cx=\"14\" cy=\"22\" r=\"5\" fill=\"#f1e4c6\" stroke=\"#a8792a\" stroke-width=\"2\"/><text x=\"28\" y=\"26\" font-size=\"11\" font-weight=\"700\" fill=\"#a8792a\">Oct 2001</text><text x=\"112\" y=\"26\" font-size=\"11\" fill=\"#1d2433\">US invades Afghanistan</text><circle cx=\"14\" cy=\"50\" r=\"5\" fill=\"#f1e4c6\" stroke=\"#a8792a\" stroke-width=\"2\"/><text x=\"28\" y=\"54\" font-size=\"11\" font-weight=\"700\" fill=\"#a8792a\">2003</text><text x=\"112\" y=\"54\" font-size=\"11\" fill=\"#1d2433\">US invades Iraq</text><circle cx=\"14\" cy=\"78\" r=\"5\" fill=\"#f1e4c6\" stroke=\"#a8792a\" stroke-width=\"2\"/><text x=\"28\" y=\"82\" font-size=\"11\" font-weight=\"700\" fill=\"#a8792a\">2011</text><text x=\"112\" y=\"82\" font-size=\"11\" fill=\"#1d2433\">Bin Laden killed</text><circle cx=\"14\" cy=\"106\" r=\"5\" fill=\"#f1e4c6\" stroke=\"#a8792a\" stroke-width=\"2\"/><text x=\"28\" y=\"110\" font-size=\"11\" font-weight=\"700\" fill=\"#a8792a\">2014</text><text x=\"112\" y=\"110\" font-size=\"11\" fill=\"#1d2433\">ISIS declares a 'caliphate'</text><circle cx=\"14\" cy=\"134\" r=\"5\" fill=\"#f1e4c6\" stroke=\"#a8792a\" stroke-width=\"2\"/><text x=\"28\" y=\"138\" font-size=\"11\" font-weight=\"700\" fill=\"#a8792a\">2021</text><text x=\"112\" y=\"138\" font-size=\"11\" fill=\"#1d2433\">US leaves Afghanistan</text><circle cx=\"14\" cy=\"162\" r=\"5\" fill=\"#f1e4c6\" stroke=\"#a8792a\" stroke-width=\"2\"/><text x=\"28\" y=\"166\" font-size=\"11\" font-weight=\"700\" fill=\"#a8792a\">Aug 2021</text><text x=\"112\" y=\"166\" font-size=\"11\" fill=\"#1d2433\">Taliban take Kabul</text></svg><p>The US toppled the Taliban in weeks. In March 2003 it invaded Iraq, saying Saddam Hussein had weapons of mass destruction. None were found.</p>"
+  },
+  {
+   "tag": "The twist",
+   "h": "A long war",
+   "b": "<p>The 'War on Terror' brought the Patriot Act, the Guantanamo prison and drone strikes. Bin Laden was found and killed by US forces at Abbottabad in Pakistan on 2 May 2011.</p><p>In August 2021, after 20 years, US troops left Afghanistan and the Taliban retook Kabul on 15 August.</p>"
+  },
+  {
+   "tag": "The story",
+   "h": "Costs and echoes",
+   "b": "<p>Hundreds of thousands died directly in the wars, with estimates varying by study. Millions were displaced. The Iraq war also helped create the space where ISIS grew.</p><p>Terrorism continued in many countries, and debates about security and freedom reshaped airports and laws.</p>"
+  },
+  {
+   "tag": "Myth vs fact",
+   "h": "Did Saddam Hussein plan 9/11?",
+   "b": "<b>Myth:</b> Iraq was behind the attacks.<b>Fact:</b> investigations (including the 9/11 Commission) found no operational link between Saddam's Iraq and the attacks. The WMD claim also proved false.<p>Also: the Taliban's regime was separate from al-Qaeda, though it hosted it.</p>"
+  },
+  {
+   "tag": "Indian angle",
+   "h": "Meanwhile in India…",
+   "b": "<p>India had known terror already</p>"
+  },
+  {
+   "tag": "Recap",
+   "h": "Five takeaways, two puzzles",
+   "b": "<p><b>Five things to remember</b></p><ol><li>9/11 killed nearly 3,000.</li><li>Al-Qaeda under bin Laden planned it.</li><li>The US invaded Afghanistan (2001) and Iraq (2003).</li><li>The Taliban retook Kabul in August 2021.</li><li>India had also faced major attacks.</li></ol><p><b>Think about it</b></p><ul><li>How should states balance security and liberty?</li><li>Why is defining terrorism so hard?</li></ul>",
+   "cls": "exam"
+  }
+ ],
+ "quiz": [
+  {
+   "q": "9/11 was carried out by...",
+   "o": [
+    "ISIS",
+    "The Taliban",
+    "Al-Qaeda",
+    "Hamas"
+   ],
+   "a": 2,
+   "w": "Led by bin Laden."
+  },
+  {
+   "q": "The US invaded Afghanistan in...",
+   "o": [
+    "2001",
+    "1979",
+    "2003",
+    "2011"
+   ],
+   "a": 0,
+   "w": "October."
+  },
+  {
+   "q": "The Iraq invasion was in...",
+   "o": [
+    "2001",
+    "1991",
+    "2011",
+    "2003"
+   ],
+   "a": 3,
+   "w": "WMD not found."
+  },
+  {
+   "q": "Bin Laden was killed in...",
+   "o": [
+    "Kabul, 2001",
+    "Abbottabad, 2011",
+    "Karachi, 2005",
+    "Tora Bora, 2002"
+   ],
+   "a": 1,
+   "w": "2 May."
+  },
+  {
+   "q": "The Taliban retook Kabul on...",
+   "o": [
+    "15 August 2021",
+    "11 Sept 2001",
+    "2 May 2011",
+    "26 Nov 2008"
+   ],
+   "a": 0,
+   "w": "After US withdrawal."
+  },
+  {
+   "q": "Indian Parliament was attacked on...",
+   "o": [
+    "11 Sept 2001",
+    "26 Nov 2008",
+    "14 Feb 2019",
+    "13 December 2001"
+   ],
+   "a": 3,
+   "w": "Months after 9/11."
+  },
+  {
+   "q": "26/11 refers to...",
+   "o": [
+    "Pulwama",
+    "Mumbai attacks of 2008",
+    "Kargil",
+    "Uri"
+   ],
+   "a": 1,
+   "w": "Over 160 died."
+  },
+  {
+   "q": "The IC-814 hijack ended in...",
+   "o": [
+    "Mumbai",
+    "Delhi",
+    "Kandahar",
+    "Karachi"
+   ],
+   "a": 2,
+   "w": "December 1999."
+  },
+  {
+   "q": "The 9/11 Commission found...",
+   "o": [
+    "A Saddam plan",
+    "Iranian orders",
+    "A Russian role",
+    "No operational Iraq link"
+   ],
+   "a": 3,
+   "w": "A common myth."
+  },
+  {
+   "q": "India's UN terror convention was proposed in...",
+   "o": [
+    "1996",
+    "1947",
+    "2001",
+    "2014"
+   ],
+   "a": 0,
+   "w": "Still not adopted."
+  }
+ ],
+ "sources": [
+  "9/11 Commission Report (2004); Wright, The Looming Tower (2006); Brown Univ. Costs of War project; MEA statements"
+ ],
+ "verified": "2026-11-10"
+}

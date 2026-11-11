@@ -1,0 +1,164 @@
+{
+ "id": "7-0-0",
+ "title": "Globalisation and the Internet Age",
+ "emoji": "🌐",
+ "cards": [
+  {
+   "tag": "Why this matters",
+   "h": "A steel box and a web page changed how the world trades and talks",
+   "b": "<p>In 1956 a trucker named <b>Malcolm McLean</b> loaded 58 metal containers onto a ship in New Jersey. It sounds dull. It made shipping so cheap that making a shirt in one country and selling it in another became normal.</p><p>Then, in 1989-91, a scientist at CERN gave us the Web.</p>"
+  },
+  {
+   "tag": "The story",
+   "h": "Boxes and borders",
+   "b": "<svg class=\"d\" viewBox=\"0 0 320 208\"><line x1=\"14\" y1=\"10\" x2=\"14\" y2=\"198\" stroke=\"#a8792a\" stroke-width=\"2\"/><circle cx=\"14\" cy=\"22\" r=\"5\" fill=\"#f1e4c6\" stroke=\"#a8792a\" stroke-width=\"2\"/><text x=\"28\" y=\"26\" font-size=\"11\" font-weight=\"700\" fill=\"#a8792a\">1956</text><text x=\"112\" y=\"26\" font-size=\"11\" fill=\"#1d2433\">First container ship</text><circle cx=\"14\" cy=\"50\" r=\"5\" fill=\"#f1e4c6\" stroke=\"#a8792a\" stroke-width=\"2\"/><text x=\"28\" y=\"54\" font-size=\"11\" font-weight=\"700\" fill=\"#a8792a\">1969</text><text x=\"112\" y=\"54\" font-size=\"11\" fill=\"#1d2433\">ARPANET: early internet</text><circle cx=\"14\" cy=\"78\" r=\"5\" fill=\"#f1e4c6\" stroke=\"#a8792a\" stroke-width=\"2\"/><text x=\"28\" y=\"82\" font-size=\"11\" font-weight=\"700\" fill=\"#a8792a\">1991</text><text x=\"112\" y=\"82\" font-size=\"11\" fill=\"#1d2433\">World Wide Web public</text><circle cx=\"14\" cy=\"106\" r=\"5\" fill=\"#f1e4c6\" stroke=\"#a8792a\" stroke-width=\"2\"/><text x=\"28\" y=\"110\" font-size=\"11\" font-weight=\"700\" fill=\"#a8792a\">1995</text><text x=\"112\" y=\"110\" font-size=\"11\" fill=\"#1d2433\">WTO founded</text><circle cx=\"14\" cy=\"134\" r=\"5\" fill=\"#f1e4c6\" stroke=\"#a8792a\" stroke-width=\"2\"/><text x=\"28\" y=\"138\" font-size=\"11\" font-weight=\"700\" fill=\"#a8792a\">2001</text><text x=\"112\" y=\"138\" font-size=\"11\" fill=\"#1d2433\">China joins WTO</text><circle cx=\"14\" cy=\"162\" r=\"5\" fill=\"#f1e4c6\" stroke=\"#a8792a\" stroke-width=\"2\"/><text x=\"28\" y=\"166\" font-size=\"11\" font-weight=\"700\" fill=\"#a8792a\">2007</text><text x=\"112\" y=\"166\" font-size=\"11\" fill=\"#1d2433\">iPhone launched</text><circle cx=\"14\" cy=\"190\" r=\"5\" fill=\"#f1e4c6\" stroke=\"#a8792a\" stroke-width=\"2\"/><text x=\"28\" y=\"194\" font-size=\"11\" font-weight=\"700\" fill=\"#a8792a\">2008</text><text x=\"112\" y=\"194\" font-size=\"11\" fill=\"#1d2433\">Global financial crisis</text></svg><p>After the Cold War, trade barriers fell. The WTO started in 1995. China joined in December 2001 and became the 'world's factory'.</p>"
+  },
+  {
+   "tag": "The turning point",
+   "h": "The Web",
+   "b": "<p>The Internet existed before the Web. <b>Tim Berners-Lee</b>, at CERN in Switzerland, proposed the World Wide Web in 1989 and it opened to the public in 1991. Google appeared in 1998 and Facebook in 2004.</p><p>Smartphones, from 2007, put the Internet in billions of pockets.</p>"
+  },
+  {
+   "tag": "The twist",
+   "h": "Winners and losers",
+   "b": "<p>Globalisation lifted hundreds of millions out of poverty, especially in Asia. But many factory workers in rich countries lost jobs, and inequality grew in many places.</p><p>The 2008 financial crisis, then Brexit (2016) and trade wars, led many to ask if globalisation was going into reverse. Some call the new phase 'slowbalisation'.</p>"
+  },
+  {
+   "tag": "The story",
+   "h": "Culture and data",
+   "b": "<p>Films, music, food and memes cross borders in seconds. Data became the new oil, and a few big firms hold a lot of it. Questions about privacy, misinformation and who controls the networks are now political issues.</p>"
+  },
+  {
+   "tag": "Myth vs fact",
+   "h": "Is globalisation brand new?",
+   "b": "<b>Myth:</b> the world only got connected recently.<b>Fact:</b> the Silk Road, Indian Ocean trade and the Columbian Exchange were global. The 19th century saw a huge wave of trade too, which ended with World War I. What is new is the speed and the digital layer."
+  },
+  {
+   "tag": "Indian angle",
+   "h": "Meanwhile in India…",
+   "b": "<p>Reform, IT and UPI</p>"
+  },
+  {
+   "tag": "Recap",
+   "h": "Five takeaways, two puzzles",
+   "b": "<p><b>Five things to remember</b></p><ol><li>Containers made trade cheap (1956).</li><li>The Web went public in 1991.</li><li>The WTO began in 1995; China joined in 2001.</li><li>Gains were uneven.</li><li>India's IT and digital payments rose after 1991.</li></ol><p><b>Think about it</b></p><ul><li>What do we lose if supply chains shrink?</li><li>Who should control data?</li></ul>",
+   "cls": "exam"
+  }
+ ],
+ "quiz": [
+  {
+   "q": "Who built the first container system?",
+   "o": [
+    "Tim Berners-Lee",
+    "Bill Gates",
+    "Malcolm McLean",
+    "Henry Ford"
+   ],
+   "a": 2,
+   "w": "1956."
+  },
+  {
+   "q": "The Web was proposed by...",
+   "o": [
+    "Tim Berners-Lee",
+    "Vint Cerf",
+    "Steve Jobs",
+    "Larry Page"
+   ],
+   "a": 0,
+   "w": "At CERN."
+  },
+  {
+   "q": "The WTO started in...",
+   "o": [
+    "1947",
+    "2001",
+    "2008",
+    "1995"
+   ],
+   "a": 3,
+   "w": "Succeeding GATT."
+  },
+  {
+   "q": "China joined the WTO in...",
+   "o": [
+    "1978",
+    "2001",
+    "1995",
+    "2008"
+   ],
+   "a": 1,
+   "w": "December."
+  },
+  {
+   "q": "The iPhone launched in...",
+   "o": [
+    "2007",
+    "1991",
+    "1998",
+    "2016"
+   ],
+   "a": 0,
+   "w": "Smartphone era."
+  },
+  {
+   "q": "The global financial crisis was in...",
+   "o": [
+    "1929",
+    "2001",
+    "2016",
+    "2008"
+   ],
+   "a": 3,
+   "w": "Lehman collapse."
+  },
+  {
+   "q": "UPI launched in...",
+   "o": [
+    "1991",
+    "2016",
+    "2009",
+    "2023"
+   ],
+   "a": 1,
+   "w": "In India."
+  },
+  {
+   "q": "Infosys was founded in...",
+   "o": [
+    "1991",
+    "2001",
+    "1981",
+    "1947"
+   ],
+   "a": 2,
+   "w": "Bangalore."
+  },
+  {
+   "q": "'Slowbalisation' means...",
+   "o": [
+    "Faster trade",
+    "Banning trade",
+    "War",
+    "Slower globalisation"
+   ],
+   "a": 3,
+   "w": "After 2008."
+  },
+  {
+   "q": "The Web differs from the Internet because...",
+   "o": [
+    "It is a service run on the Internet",
+    "It is hardware",
+    "It is older",
+    "It is a company"
+   ],
+   "a": 0,
+   "w": "Like pages on top of the network."
+  }
+ ],
+ "sources": [
+  "Levinson, The Box (2006); Berners-Lee, Weaving the Web (1999); Baldwin, The Great Convergence (2016); NPCI"
+ ],
+ "verified": "2026-11-10"
+}

@@ -1,0 +1,164 @@
+{
+ "id": "6-1-4",
+ "title": "1989: The Wall Falls",
+ "emoji": "🧱",
+ "cards": [
+  {
+   "tag": "Why this matters",
+   "h": "A press conference mistake ended a divided Europe",
+   "b": "<p>On the evening of 9 November 1989, East German official Günter Schabowski announced new travel rules. Asked when they took effect, he shuffled his notes and said, 'immediately, without delay'. He had not been told it was meant for the next day.</p><p>Crowds rushed to the Berlin Wall. Guards, overwhelmed, opened the gates.</p>"
+  },
+  {
+   "tag": "The story",
+   "h": "The cracks appear",
+   "b": "<svg class=\"d\" viewBox=\"0 0 320 180\"><line x1=\"14\" y1=\"10\" x2=\"14\" y2=\"170\" stroke=\"#a8792a\" stroke-width=\"2\"/><circle cx=\"14\" cy=\"22\" r=\"5\" fill=\"#f1e4c6\" stroke=\"#a8792a\" stroke-width=\"2\"/><text x=\"28\" y=\"26\" font-size=\"11\" font-weight=\"700\" fill=\"#a8792a\">Jun 1989</text><text x=\"112\" y=\"26\" font-size=\"11\" fill=\"#1d2433\">Poland's free-ish election</text><circle cx=\"14\" cy=\"50\" r=\"5\" fill=\"#f1e4c6\" stroke=\"#a8792a\" stroke-width=\"2\"/><text x=\"28\" y=\"54\" font-size=\"11\" font-weight=\"700\" fill=\"#a8792a\">Aug 1989</text><text x=\"112\" y=\"54\" font-size=\"11\" fill=\"#1d2433\">Hungary opens its border</text><circle cx=\"14\" cy=\"78\" r=\"5\" fill=\"#f1e4c6\" stroke=\"#a8792a\" stroke-width=\"2\"/><text x=\"28\" y=\"82\" font-size=\"11\" font-weight=\"700\" fill=\"#a8792a\">Oct 1989</text><text x=\"112\" y=\"82\" font-size=\"11\" fill=\"#1d2433\">Leipzig protests grow</text><circle cx=\"14\" cy=\"106\" r=\"5\" fill=\"#f1e4c6\" stroke=\"#a8792a\" stroke-width=\"2\"/><text x=\"28\" y=\"110\" font-size=\"11\" font-weight=\"700\" fill=\"#a8792a\">9 Nov 1989</text><text x=\"112\" y=\"110\" font-size=\"11\" fill=\"#1d2433\">Berlin Wall opens</text><circle cx=\"14\" cy=\"134\" r=\"5\" fill=\"#f1e4c6\" stroke=\"#a8792a\" stroke-width=\"2\"/><text x=\"28\" y=\"138\" font-size=\"11\" font-weight=\"700\" fill=\"#a8792a\">Dec 1989</text><text x=\"112\" y=\"138\" font-size=\"11\" fill=\"#1d2433\">Romania's Ceausescu falls</text><circle cx=\"14\" cy=\"162\" r=\"5\" fill=\"#f1e4c6\" stroke=\"#a8792a\" stroke-width=\"2\"/><text x=\"28\" y=\"166\" font-size=\"11\" font-weight=\"700\" fill=\"#a8792a\">Dec 1991</text><text x=\"112\" y=\"166\" font-size=\"11\" fill=\"#1d2433\">USSR dissolved</text></svg><p>In Poland, the union <b>Solidarity</b> won the June 1989 elections. In summer Hungary opened its border with Austria, and thousands of East Germans left through it.</p>"
+  },
+  {
+   "tag": "The turning point",
+   "h": "Gorbachev lets go",
+   "b": "<b>Mikhail Gorbachev</b>, Soviet leader from 1985, began <i>glasnost</i> (openness) and <i>perestroika</i> (restructuring). Crucially, he refused to use Soviet tanks to prop up Eastern European regimes, unlike in 1956 and 1968.<p>So one by one, the regimes fell, mostly peacefully: the 'Velvet Revolution' in Czechoslovakia, and bloody in Romania, where Ceausescu was shot on 25 December.</p>"
+  },
+  {
+   "tag": "The twist",
+   "h": "Not everywhere",
+   "b": "<p>In China, the 1989 Tiananmen protests were crushed on 4 June. Beijing's leaders chose force and kept power. It shows the outcome was not inevitable.</p><p>Germany reunified on 3 October 1990.</p>"
+  },
+  {
+   "tag": "The story",
+   "h": "The Soviet end",
+   "b": "<p>Weakened by economics and nationalism, the USSR itself broke up. In August 1991 hardliners attempted a coup and failed. Boris Yeltsin rose. On 25 December 1991 Gorbachev resigned and the USSR dissolved into 15 states.</p>"
+  },
+  {
+   "tag": "Historians argue",
+   "h": "Who ended the Cold War?",
+   "b": "<p>Some credit Reagan's pressure and his 1987 call 'Mr Gorbachev, tear down this wall'. Others credit Gorbachev's choices, the weak Soviet economy, or ordinary people in the streets. Most historians say many causes combined.</p><p>Myth check: the Wall did not fall in one night by hand; much of it was pulled down over the following months and years.</p>"
+  },
+  {
+   "tag": "Indian angle",
+   "h": "Meanwhile in India…",
+   "b": "<p>1991: India's own turning point</p>"
+  },
+  {
+   "tag": "Recap",
+   "h": "Five takeaways, two puzzles",
+   "b": "<p><b>Five things to remember</b></p><ol><li>Eastern Europe's regimes fell in 1989.</li><li>Gorbachev refused to use force.</li><li>The Wall opened on 9 November 1989.</li><li>Germany reunified in 1990; the USSR ended in 1991.</li><li>India liberalised in 1991.</li></ol><p><b>Think about it</b></p><ul><li>Was it inevitable or lucky?</li><li>Why did China differ?</li></ul>",
+   "cls": "exam"
+  }
+ ],
+ "quiz": [
+  {
+   "q": "The Wall opened on...",
+   "o": [
+    "13 August 1961",
+    "3 October 1990",
+    "9 November 1989",
+    "25 Dec 1991"
+   ],
+   "a": 2,
+   "w": "Evening announcement."
+  },
+  {
+   "q": "Who made the fateful announcement?",
+   "o": [
+    "Günter Schabowski",
+    "Gorbachev",
+    "Honecker",
+    "Reagan"
+   ],
+   "a": 0,
+   "w": "By mistake of timing."
+  },
+  {
+   "q": "Glasnost means...",
+   "o": [
+    "Restructuring",
+    "War",
+    "Reform of money",
+    "Openness"
+   ],
+   "a": 3,
+   "w": "Perestroika is restructuring."
+  },
+  {
+   "q": "Solidarity was a union in...",
+   "o": [
+    "Hungary",
+    "Poland",
+    "Romania",
+    "Germany"
+   ],
+   "a": 1,
+   "w": "Led by Lech Walesa."
+  },
+  {
+   "q": "Germany reunified in...",
+   "o": [
+    "1990",
+    "1989",
+    "1991",
+    "1961"
+   ],
+   "a": 0,
+   "w": "3 October."
+  },
+  {
+   "q": "The USSR dissolved in...",
+   "o": [
+    "1989",
+    "1985",
+    "1999",
+    "December 1991"
+   ],
+   "a": 3,
+   "w": "Into 15 states."
+  },
+  {
+   "q": "Tiananmen was crushed on...",
+   "o": [
+    "9 Nov 1989",
+    "4 June 1989",
+    "1 Oct 1949",
+    "25 Dec 1991"
+   ],
+   "a": 1,
+   "w": "China kept communist rule."
+  },
+  {
+   "q": "Ceausescu was...",
+   "o": [
+    "Exiled",
+    "Elected",
+    "Executed in Romania",
+    "Honoured"
+   ],
+   "a": 2,
+   "w": "25 December 1989."
+  },
+  {
+   "q": "India liberalised in...",
+   "o": [
+    "1947",
+    "1971",
+    "2001",
+    "1991"
+   ],
+   "a": 3,
+   "w": "Rao and Manmohan Singh."
+  },
+  {
+   "q": "India's 'Look East' began in...",
+   "o": [
+    "1992",
+    "1947",
+    "1962",
+    "2014"
+   ],
+   "a": 0,
+   "w": "Under Rao."
+  }
+ ],
+ "sources": [
+  "Sarotte, 1989: The Struggle to Create Post-Cold War Europe (2009); Kotkin, Armageddon Averted; Gorbachev, Memoirs; Ahluwalia on 1991 reforms"
+ ],
+ "verified": "2026-11-10"
+}

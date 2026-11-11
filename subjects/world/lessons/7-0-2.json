@@ -1,0 +1,164 @@
+{
+ "id": "7-0-2",
+ "title": "The Rise of China",
+ "emoji": "🐉",
+ "cards": [
+  {
+   "tag": "Why this matters",
+   "h": "A fishing town became a megacity in one generation",
+   "b": "<p>In 1980, <b>Shenzhen</b> near Hong Kong was a small market town of a few tens of thousands. Today it holds over 17 million people and makes much of the world's electronics.</p><p>Shenzhen is the symbol of China's economic rise.</p>"
+  },
+  {
+   "tag": "The story",
+   "h": "Deng opens the door",
+   "b": "<svg class=\"d\" viewBox=\"0 0 320 180\"><line x1=\"14\" y1=\"10\" x2=\"14\" y2=\"170\" stroke=\"#a8792a\" stroke-width=\"2\"/><circle cx=\"14\" cy=\"22\" r=\"5\" fill=\"#f1e4c6\" stroke=\"#a8792a\" stroke-width=\"2\"/><text x=\"28\" y=\"26\" font-size=\"11\" font-weight=\"700\" fill=\"#a8792a\">1978</text><text x=\"112\" y=\"26\" font-size=\"11\" fill=\"#1d2433\">Deng's reform and opening</text><circle cx=\"14\" cy=\"50\" r=\"5\" fill=\"#f1e4c6\" stroke=\"#a8792a\" stroke-width=\"2\"/><text x=\"28\" y=\"54\" font-size=\"11\" font-weight=\"700\" fill=\"#a8792a\">1980</text><text x=\"112\" y=\"54\" font-size=\"11\" fill=\"#1d2433\">Shenzhen zone</text><circle cx=\"14\" cy=\"78\" r=\"5\" fill=\"#f1e4c6\" stroke=\"#a8792a\" stroke-width=\"2\"/><text x=\"28\" y=\"82\" font-size=\"11\" font-weight=\"700\" fill=\"#a8792a\">1989</text><text x=\"112\" y=\"82\" font-size=\"11\" fill=\"#1d2433\">Tiananmen</text><circle cx=\"14\" cy=\"106\" r=\"5\" fill=\"#f1e4c6\" stroke=\"#a8792a\" stroke-width=\"2\"/><text x=\"28\" y=\"110\" font-size=\"11\" font-weight=\"700\" fill=\"#a8792a\">2001</text><text x=\"112\" y=\"110\" font-size=\"11\" fill=\"#1d2433\">WTO entry</text><circle cx=\"14\" cy=\"134\" r=\"5\" fill=\"#f1e4c6\" stroke=\"#a8792a\" stroke-width=\"2\"/><text x=\"28\" y=\"138\" font-size=\"11\" font-weight=\"700\" fill=\"#a8792a\">2010</text><text x=\"112\" y=\"138\" font-size=\"11\" fill=\"#1d2433\">No. 2 economy</text><circle cx=\"14\" cy=\"162\" r=\"5\" fill=\"#f1e4c6\" stroke=\"#a8792a\" stroke-width=\"2\"/><text x=\"28\" y=\"166\" font-size=\"11\" font-weight=\"700\" fill=\"#a8792a\">2013</text><text x=\"112\" y=\"166\" font-size=\"11\" fill=\"#1d2433\">Belt and Road begins</text></svg><p>After Mao, <b>Deng Xiaoping</b> let farmers sell surplus crops, opened special economic zones and welcomed foreign investment. He is credited with the phrase about not caring if a cat is black or white if it catches mice (a saying he used).</p>"
+  },
+  {
+   "tag": "The turning point",
+   "h": "The world's factory",
+   "b": "<p>With cheap labour and big ports, China exported huge quantities. After joining the WTO in 2001, growth soared, averaging near 10 percent a year for decades. China became the world's second-largest economy in 2010.</p><p>The World Bank says about 800 million people in China left extreme poverty since 1978.</p>"
+  },
+  {
+   "tag": "The twist",
+   "h": "A different model",
+   "b": "<p>China combined one-party rule with market growth. The 'one-child policy' (1980-2015) cut births but left an ageing population. China's population began to shrink in 2022.</p><p>Under <b>Xi Jinping</b> (leader since 2012-13), China launched the <b>Belt and Road Initiative</b> (2013), strengthened party control, and built a stronger navy.</p>"
+  },
+  {
+   "tag": "The story",
+   "h": "Friction",
+   "b": "<p>Disputes arose over the South China Sea, Taiwan, trade and technology, and Hong Kong's 2020 National Security Law. The US sees China as its main rival. China argues it is reclaiming its place after the 'century of humiliation'.</p><p>As of 2025, China remains the world's second-largest economy, but faces slowing growth and a property slump.</p>"
+  },
+  {
+   "tag": "Historians argue",
+   "h": "Is China's rise inevitable or fragile?",
+   "b": "<p>Some see unstoppable growth. Others point to debt, an ageing population and limited political freedom. Remember: China was the world's biggest economy for much of history before the 1800s, so many see this as a return.</p><p>Caution: 'poverty reduction' numbers depend on the poverty line used.</p>"
+  },
+  {
+   "tag": "Indian angle",
+   "h": "Meanwhile in India…",
+   "b": "<p>Neighbours, rivals, partners</p>"
+  },
+  {
+   "tag": "Recap",
+   "h": "Five takeaways, two puzzles",
+   "b": "<p><b>Five things to remember</b></p><ol><li>Reform began in 1978.</li><li>Shenzhen and the WTO powered exports.</li><li>China became No. 2 in 2010.</li><li>Xi's China launched Belt and Road in 2013.</li><li>India-China ties remain tense but linked.</li></ol><p><b>Think about it</b></p><ul><li>Is rapid growth possible without political freedom?</li><li>How should India deal with a powerful neighbour?</li></ul>",
+   "cls": "exam"
+  }
+ ],
+ "quiz": [
+  {
+   "q": "China's reform era began in...",
+   "o": [
+    "1949",
+    "1989",
+    "1978",
+    "2001"
+   ],
+   "a": 2,
+   "w": "Under Deng."
+  },
+  {
+   "q": "The first special economic zone city...",
+   "o": [
+    "Shenzhen",
+    "Beijing",
+    "Chongqing",
+    "Wuhan"
+   ],
+   "a": 0,
+   "w": "1980."
+  },
+  {
+   "q": "China joined the WTO in...",
+   "o": [
+    "1978",
+    "1995",
+    "2010",
+    "2001"
+   ],
+   "a": 3,
+   "w": "December."
+  },
+  {
+   "q": "China became No. 2 economy in...",
+   "o": [
+    "1990",
+    "2010",
+    "2001",
+    "2020"
+   ],
+   "a": 1,
+   "w": "Passing Japan."
+  },
+  {
+   "q": "Belt and Road began in...",
+   "o": [
+    "2013",
+    "1978",
+    "2001",
+    "2020"
+   ],
+   "a": 0,
+   "w": "Under Xi."
+  },
+  {
+   "q": "The one-child policy ended in...",
+   "o": [
+    "1980",
+    "1989",
+    "2001",
+    "2015"
+   ],
+   "a": 3,
+   "w": "After 35 years."
+  },
+  {
+   "q": "Galwan clash was in...",
+   "o": [
+    "1962",
+    "June 2020",
+    "2017",
+    "2019"
+   ],
+   "a": 1,
+   "w": "20 Indian soldiers died."
+  },
+  {
+   "q": "Doklam standoff was in...",
+   "o": [
+    "1962",
+    "2020",
+    "2017",
+    "2008"
+   ],
+   "a": 2,
+   "w": "Near Bhutan trijunction."
+  },
+  {
+   "q": "India passed China in population in...",
+   "o": [
+    "2001",
+    "2011",
+    "2030",
+    "2023"
+   ],
+   "a": 3,
+   "w": "As per UN estimates."
+  },
+  {
+   "q": "The 'century of humiliation' began with...",
+   "o": [
+    "The Opium Wars",
+    "The Cold War",
+    "The Tang",
+    "The Korean War"
+   ],
+   "a": 0,
+   "w": "Roughly 1839."
+  }
+ ],
+ "sources": [
+  "Vogel, Deng Xiaoping and the Transformation of China (2011); World Bank China reports; Garver; MEA/PIB statements on Galwan (2020) and Oct 2024 agreement"
+ ],
+ "verified": "2026-11-10"
+}

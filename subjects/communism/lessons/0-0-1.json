@@ -1,0 +1,177 @@
+{
+ "id": "0-0-1",
+ "title": "Hegel, the Young Hegelians and Feuerbach",
+ "emoji": "📚",
+ "cards": [
+  {
+   "tag": "Why this matters",
+   "h": "The philosophy behind Marx",
+   "b": "<p>Marx's first teachers were philosophers, not economists. If you do not see how he turned Hegel \"right side up\", phrases like dialectic, alienation and historical materialism sound like jargon.</p><p>The issue: does history move because of ideas or because of material life? The whole Marxist tradition rests on that choice.</p>"
+  },
+  {
+   "tag": "Context",
+   "h": "Germany in the 1830s-40s",
+   "b": "<p>Germany was a patchwork of states, with censorship and little industry. Philosophy became the place where politics was debated. After Hegel died in 1831 his followers split. The \"Old Hegelians\" defended the Prussian state. The <b>Young Hegelians</b> in Berlin used his method against religion and monarchy.</p><p>Marx studied law, then philosophy, and took a doctorate on Democritus and Epicurus (1841). He joined the <i>Rheinische Zeitung</i> in Cologne in 1842, where he met real social questions like wood-theft laws.</p><svg class=\"d\" viewBox=\"0 0 320 202\" xmlns=\"http://www.w3.org/2000/svg\" font-family=\"sans-serif\"><line x1=\"64\" y1=\"8\" x2=\"64\" y2=\"194\" stroke=\"#5d6474\" stroke-width=\"1.5\"/><rect x=\"4\" y=\"8\" width=\"56\" height=\"30\" rx=\"6\" fill=\"#f1e4c6\" stroke=\"#a8792a\"/><text x=\"32\" y=\"27\" font-size=\"10.5\" fill=\"#1d2433\" text-anchor=\"middle\" font-weight=\"bold\">1807</text><rect x=\"70\" y=\"8\" width=\"246\" height=\"30\" rx=\"6\" fill=\"#dceaec\" stroke=\"#2f6f7a\"/><text x=\"76\" y=\"27\" font-size=\"11\" fill=\"#1d2433\" text-anchor=\"start\">Hegel: Phenomenology of Spirit</text><rect x=\"4\" y=\"44\" width=\"56\" height=\"30\" rx=\"6\" fill=\"#f1e4c6\" stroke=\"#a8792a\"/><text x=\"32\" y=\"63\" font-size=\"10.5\" fill=\"#1d2433\" text-anchor=\"middle\" font-weight=\"bold\">1831</text><rect x=\"70\" y=\"44\" width=\"246\" height=\"30\" rx=\"6\" fill=\"#dceaec\" stroke=\"#2f6f7a\"/><text x=\"76\" y=\"63\" font-size=\"11\" fill=\"#1d2433\" text-anchor=\"start\">Hegel dies</text><rect x=\"4\" y=\"80\" width=\"56\" height=\"36\" rx=\"6\" fill=\"#f1e4c6\" stroke=\"#a8792a\"/><text x=\"32\" y=\"102\" font-size=\"10.5\" fill=\"#1d2433\" text-anchor=\"middle\" font-weight=\"bold\">1841</text><rect x=\"70\" y=\"80\" width=\"246\" height=\"36\" rx=\"6\" fill=\"#dceaec\" stroke=\"#2f6f7a\"/><text x=\"76\" y=\"96\" font-size=\"11\" fill=\"#1d2433\" text-anchor=\"start\">Feuerbach: Essence of Christianity</text><text x=\"76\" y=\"109\" font-size=\"11\" fill=\"#1d2433\" text-anchor=\"start\">(1841)</text><rect x=\"4\" y=\"122\" width=\"56\" height=\"36\" rx=\"6\" fill=\"#f1e4c6\" stroke=\"#a8792a\"/><text x=\"32\" y=\"144\" font-size=\"10.5\" fill=\"#1d2433\" text-anchor=\"middle\" font-weight=\"bold\">1843-44</text><rect x=\"70\" y=\"122\" width=\"246\" height=\"36\" rx=\"6\" fill=\"#dceaec\" stroke=\"#2f6f7a\"/><text x=\"76\" y=\"138\" font-size=\"11\" fill=\"#1d2433\" text-anchor=\"start\">Marx: Critique of Hegel's Philosophy</text><text x=\"76\" y=\"151\" font-size=\"11\" fill=\"#1d2433\" text-anchor=\"start\">of Right; leaves for Paris</text><rect x=\"4\" y=\"164\" width=\"56\" height=\"30\" rx=\"6\" fill=\"#f1e4c6\" stroke=\"#a8792a\"/><text x=\"32\" y=\"183\" font-size=\"10.5\" fill=\"#1d2433\" text-anchor=\"middle\" font-weight=\"bold\">1845-46</text><rect x=\"70\" y=\"164\" width=\"246\" height=\"30\" rx=\"6\" fill=\"#dceaec\" stroke=\"#2f6f7a\"/><text x=\"76\" y=\"183\" font-size=\"11\" fill=\"#1d2433\" text-anchor=\"start\">Theses on Feuerbach; German Ideology</text></svg>"
+  },
+  {
+   "tag": "Key idea",
+   "h": "Hegel: spirit and the dialectic",
+   "b": "<p><b>G.W.F. Hegel</b> (1770-1831) saw history as the unfolding of reason or Spirit (<i>Geist</i>), moving through contradictions: an idea meets its opposite and both are lifted into a higher unity. The <i>Phenomenology of Spirit</i> (1807) and <i>Philosophy of Right</i> (1821) apply this to mind and to the state. Freedom grows as history advances.</p><p>The popular triad \"thesis, antithesis, synthesis\" is not Hegel's own phrase; it is a later shorthand. Marx kept the idea that change comes from internal conflict, not from outside pushes.</p>"
+  },
+  {
+   "tag": "Key idea",
+   "h": "The Young Hegelians and the critique of religion",
+   "b": "<p>Bruno Bauer, David Strauss (<i>Life of Jesus</i>, 1835) and others turned the dialectic against Christianity and the state. For them, criticising religion was the first step to freedom. Marx gradually concluded that this was too abstract: attacking ideas leaves the conditions that produce them untouched. In 1843 he wrote that \"the criticism of religion\" must become the criticism of earth, law and politics.</p>"
+  },
+  {
+   "tag": "Key idea",
+   "h": "Feuerbach: man makes God",
+   "b": "<p><b>Ludwig Feuerbach</b> in <i>The Essence of Christianity</i> (1841) argued that God is human nature projected outward. People pour their best qualities into an imaginary being and then bow to it. Marx accepted this \"alienation\" idea but, in the <i>Theses on Feuerbach</i> (1845), said Feuerbach stayed contemplative. Thesis 11 is famous: philosophers have only interpreted the world; the point is to change it. Marx insisted that religion itself comes from a world that needs consoling.</p>"
+  },
+  {
+   "tag": "Key idea",
+   "h": "Turning Hegel on his feet",
+   "b": "<p>In the afterword to <i>Capital</i> (1873) Marx said the dialectic stood on its head in Hegel and must be set on its feet. Ideas are not the engine; material life, labour and class relations are. <b>Materialism</b> replaced Spirit; <b>dialectic</b> (conflict inside systems) survived. The <i>German Ideology</i> (1845-46, with Engels) mocked the Young Hegelians for fighting \"phrases\" with phrases. It was not published in their lifetimes.</p>"
+  },
+  {
+   "tag": "In practice",
+   "h": "From seminar to politics",
+   "b": "<p>Marx's path shows the move. The Prussian state shut his paper in 1843. He moved to Paris, met workers and Engels, and wrote the <i>Economic and Philosophic Manuscripts</i> (1844). Philosophy now pointed to a social class, the proletariat, as the agent that could abolish both religion's consolations and the conditions behind them.</p><p>Hegel's legacy split: the right defended the state; the left became Marx's revolution.</p>"
+  },
+  {
+   "tag": "Critiques",
+   "h": "Was the inversion coherent?",
+   "b": "<p><b>Liberals</b> (Popper, <i>The Open Society</i>, 1945) argue that Hegel's historicism justifies authority: if history has a direction, those who claim to know it may override individuals.</p><p><b>Analytical Marxists</b> (G.A. Cohen) say the dialectic adds mystery, and that Marx's real arguments can be stated in plain logic.</p><p><b>Feuerbach and humanists</b> thought Marx dropped the human being for abstract classes.</p><p><b>Historians</b> note that the \"turn to materialism\" came in a few months of 1844-45 and was never fully argued by Marx himself; Engels filled in later.</p>"
+  },
+  {
+   "tag": "Indian angle",
+   "h": "Hegel in Indian thought",
+   "b": "<p>Hegel wrote disparagingly of India in his <i>Lectures on the Philosophy of History</i>, treating it as a stage that history had passed. Indian thinkers answered in different ways. M.N. Roy and early communists took Marxism as the modern science; Radhakrishnan read Hegel against Vedanta; later scholars such as D.D. Kosambi used materialist method on ancient India without Hegelian metaphysics. Postcolonial critics (Ranajit Guha, Dipesh Chakrabarty) argue that Hegelian stage-theories write India out of history.</p>"
+  },
+  {
+   "tag": "Recap",
+   "h": "Five takeaways and two debates",
+   "b": "<h4>Key takeaways</h4><ol><li>Marx started as a Young Hegelian, a left reader of Hegel.</li><li>The dialectic: change arises from internal contradiction.</li><li>Feuerbach showed religion as human projection; Marx said people must change the conditions that produce it.</li><li>Marx put the dialectic on its feet: material life drives history.</li><li>Critics say historicism can excuse authority.</li></ol><h4>Debate questions</h4><ol><li>Is Marx more indebted to Hegel than he admitted?</li><li>Can ideas change society without a change in material conditions?</li></ol>",
+   "cls": "exam"
+  }
+ ],
+ "quiz": [
+  {
+   "q": "Who wrote the Phenomenology of Spirit (1807)?",
+   "o": [
+    "Feuerbach",
+    "Bauer",
+    "Hegel",
+    "Marx"
+   ],
+   "a": 2,
+   "w": "Hegel, in 1807."
+  },
+  {
+   "q": "Feuerbach argued that God is",
+   "o": [
+    "A necessary being",
+    "An invention of priests for profit",
+    "A stage of Spirit",
+    "A projection of human nature"
+   ],
+   "a": 3,
+   "w": "The Essence of Christianity, 1841."
+  },
+  {
+   "q": "Thesis 11 on Feuerbach says philosophers have",
+   "o": [
+    "Only interpreted the world",
+    "Ignored religion",
+    "Misread Hegel",
+    "Over-valued economics"
+   ],
+   "a": 0,
+   "w": "The point is to change it."
+  },
+  {
+   "q": "Marx said the dialectic in Hegel was",
+   "o": [
+    "Entirely false",
+    "Standing on its head",
+    "Lacking contradiction",
+    "Already scientific"
+   ],
+   "a": 1,
+   "w": "He set it on its feet."
+  },
+  {
+   "q": "The German Ideology was",
+   "o": [
+    "Published in 1848",
+    "Written by Hegel",
+    "Not published in Marx's lifetime",
+    "An economics text"
+   ],
+   "a": 2,
+   "w": "It first appeared in full in the 20th century."
+  },
+  {
+   "q": "The Young Hegelians chiefly criticised",
+   "o": [
+    "Free trade",
+    "Colonialism",
+    "Machinery",
+    "Religion and the state"
+   ],
+   "a": 3,
+   "w": "Strauss and Bauer led the criticism."
+  },
+  {
+   "q": "Popper's main criticism of Hegel was that his historicism",
+   "o": [
+    "Justifies authority",
+    "Denies freedom completely",
+    "Is too materialist",
+    "Ignores religion"
+   ],
+   "a": 0,
+   "w": "Open Society, 1945."
+  },
+  {
+   "q": "Marx's doctoral thesis (1841) was on",
+   "o": [
+    "Hegel's logic",
+    "Feuerbach",
+    "Democritus and Epicurus",
+    "Smith and Ricardo"
+   ],
+   "a": 2,
+   "w": "Greek atomists."
+  },
+  {
+   "q": "\"Thesis, antithesis, synthesis\" is",
+   "o": [
+    "Hegel's exact slogan",
+    "Marx's formula in Capital",
+    "Feuerbach's doctrine",
+    "A later shorthand, not Hegel's own phrase"
+   ],
+   "a": 3,
+   "w": "Often credited to Fichte-style summaries."
+  },
+  {
+   "q": "Who in India applied materialist method to ancient history without Hegel?",
+   "o": [
+    "Radhakrishnan",
+    "Aurobindo",
+    "D.D. Kosambi",
+    "Tagore"
+   ],
+   "a": 2,
+   "w": "Kosambi, An Introduction to the Study of Indian History (1956)."
+  }
+ ],
+ "sources": [
+  "Hegel Phenomenology 1807",
+  "Feuerbach 1841",
+  "Marx Theses on Feuerbach 1845",
+  "Capital afterword 1873"
+ ],
+ "verified": "2026-11-11"
+}

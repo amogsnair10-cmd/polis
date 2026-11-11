@@ -1,0 +1,164 @@
+{
+ "id": "7-0-3",
+ "title": "Climate, Pandemics and the Shape of the Future",
+ "emoji": "🌡️",
+ "cards": [
+  {
+   "tag": "Why this matters",
+   "h": "Two things changed everyday life in a way no army did",
+   "b": "<p>In March 2020, much of the world locked down within weeks because of a virus. And the same decade is on track to be the hottest in recorded history.</p><p>This last lesson is about the stories still being written.</p>"
+  },
+  {
+   "tag": "The story",
+   "h": "The warming planet",
+   "b": "<svg class=\"d\" viewBox=\"0 0 320 180\"><line x1=\"14\" y1=\"10\" x2=\"14\" y2=\"170\" stroke=\"#a8792a\" stroke-width=\"2\"/><circle cx=\"14\" cy=\"22\" r=\"5\" fill=\"#f1e4c6\" stroke=\"#a8792a\" stroke-width=\"2\"/><text x=\"28\" y=\"26\" font-size=\"11\" font-weight=\"700\" fill=\"#a8792a\">1896</text><text x=\"112\" y=\"26\" font-size=\"11\" fill=\"#1d2433\">Arrhenius: CO2 warms Earth</text><circle cx=\"14\" cy=\"50\" r=\"5\" fill=\"#f1e4c6\" stroke=\"#a8792a\" stroke-width=\"2\"/><text x=\"28\" y=\"54\" font-size=\"11\" font-weight=\"700\" fill=\"#a8792a\">1958</text><text x=\"112\" y=\"54\" font-size=\"11\" fill=\"#1d2433\">Keeling Curve begins</text><circle cx=\"14\" cy=\"78\" r=\"5\" fill=\"#f1e4c6\" stroke=\"#a8792a\" stroke-width=\"2\"/><text x=\"28\" y=\"82\" font-size=\"11\" font-weight=\"700\" fill=\"#a8792a\">1988</text><text x=\"112\" y=\"82\" font-size=\"11\" fill=\"#1d2433\">IPCC created</text><circle cx=\"14\" cy=\"106\" r=\"5\" fill=\"#f1e4c6\" stroke=\"#a8792a\" stroke-width=\"2\"/><text x=\"28\" y=\"110\" font-size=\"11\" font-weight=\"700\" fill=\"#a8792a\">1997</text><text x=\"112\" y=\"110\" font-size=\"11\" fill=\"#1d2433\">Kyoto Protocol</text><circle cx=\"14\" cy=\"134\" r=\"5\" fill=\"#f1e4c6\" stroke=\"#a8792a\" stroke-width=\"2\"/><text x=\"28\" y=\"138\" font-size=\"11\" font-weight=\"700\" fill=\"#a8792a\">2015</text><text x=\"112\" y=\"138\" font-size=\"11\" fill=\"#1d2433\">Paris Agreement</text><circle cx=\"14\" cy=\"162\" r=\"5\" fill=\"#f1e4c6\" stroke=\"#a8792a\" stroke-width=\"2\"/><text x=\"28\" y=\"166\" font-size=\"11\" font-weight=\"700\" fill=\"#a8792a\">2021</text><text x=\"112\" y=\"166\" font-size=\"11\" fill=\"#1d2433\">COP26 Glasgow</text></svg><p>Burning coal, oil and gas adds carbon dioxide to the air. Earth has warmed by about 1.1-1.3 degrees Celsius since the late 1800s, according to major scientific bodies. The <b>Paris Agreement</b> (2015) aims to keep warming well below 2 degrees, aiming for 1.5.</p>"
+  },
+  {
+   "tag": "The turning point",
+   "h": "Effects",
+   "b": "<p>More heat waves, heavier rains, melting glaciers and rising seas. Poorer countries, which emitted least, often suffer most. Climate talks keep arguing over who should cut emissions and who should pay: this is the principle of 'common but differentiated responsibilities'.</p>"
+  },
+  {
+   "tag": "The twist",
+   "h": "COVID-19",
+   "b": "<p>The first cases were found in Wuhan in late 2019. The WHO declared a pandemic on 11 March 2020. Vaccines using new mRNA technology arrived in under a year. The WHO estimated about 14.9 million excess deaths in 2020-21, far higher than the 7 million officially reported.</p><p>Pandemics are not new: the 1918 flu killed tens of millions.</p>"
+  },
+  {
+   "tag": "The story",
+   "h": "New powers, new dangers",
+   "b": "<p>Artificial intelligence advanced quickly after 2022. Debates continue about jobs, deepfakes and control. Meanwhile, wars, trade rivalries and shifting power shape the global order.</p><p>Nobody knows how it ends. History does not predict, but it gives you better questions.</p>"
+  },
+  {
+   "tag": "Myth vs fact",
+   "h": "Do scientists disagree about climate change?",
+   "b": "<b>Myth:</b> scientists are split.<b>Fact:</b> studies find overwhelming agreement among climate scientists that humans are warming the planet. The real arguments are about speed, local effects and the best policies.<p>Similarly, 'pandemics are one-offs' is wrong: experts expect more, which is why surveillance matters.</p>"
+  },
+  {
+   "tag": "Indian angle",
+   "h": "Meanwhile in India…",
+   "b": "<p>Solar, monsoon and vaccines</p>"
+  },
+  {
+   "tag": "Recap",
+   "h": "Five takeaways, two puzzles",
+   "b": "<p><b>Five things to remember</b></p><ol><li>Human emissions are warming Earth.</li><li>Paris (2015) set the 1.5-2 degree goals.</li><li>COVID-19 was declared a pandemic on 11 March 2020.</li><li>Climate and health are global, shared problems.</li><li>India pledged net zero by 2070.</li></ol><p><b>Think about it</b></p><ul><li>Who should pay for climate action?</li><li>Which lesson from history helps most with the future?</li></ul>",
+   "cls": "exam"
+  }
+ ],
+ "quiz": [
+  {
+   "q": "The Paris Agreement was in...",
+   "o": [
+    "1997",
+    "2009",
+    "2015",
+    "2021"
+   ],
+   "a": 2,
+   "w": "Targets 1.5-2 degrees."
+  },
+  {
+   "q": "Kyoto Protocol was in...",
+   "o": [
+    "1997",
+    "1988",
+    "2015",
+    "2021"
+   ],
+   "a": 0,
+   "w": "Earlier climate treaty."
+  },
+  {
+   "q": "IPCC was created in...",
+   "o": [
+    "1958",
+    "2015",
+    "2020",
+    "1988"
+   ],
+   "a": 3,
+   "w": "For climate assessments."
+  },
+  {
+   "q": "The Keeling Curve measures...",
+   "o": [
+    "Sea level",
+    "Atmospheric carbon dioxide",
+    "Temperature only",
+    "Rainfall"
+   ],
+   "a": 1,
+   "w": "Since 1958."
+  },
+  {
+   "q": "WHO declared COVID a pandemic on...",
+   "o": [
+    "11 March 2020",
+    "1 Jan 2020",
+    "25 March 2020",
+    "15 Aug 2021"
+   ],
+   "a": 0,
+   "w": "Wuhan origin."
+  },
+  {
+   "q": "India's national lockdown began on...",
+   "o": [
+    "11 March 2020",
+    "1 April 2021",
+    "15 Aug 2020",
+    "25 March 2020"
+   ],
+   "a": 3,
+   "w": "First phase."
+  },
+  {
+   "q": "India's net-zero pledge date...",
+   "o": [
+    "2030",
+    "2070",
+    "2050",
+    "2100"
+   ],
+   "a": 1,
+   "w": "At COP26."
+  },
+  {
+   "q": "International Solar Alliance was launched with...",
+   "o": [
+    "China",
+    "Russia",
+    "France",
+    "Brazil"
+   ],
+   "a": 2,
+   "w": "2015."
+  },
+  {
+   "q": "mRNA vaccines were developed in...",
+   "o": [
+    "Ten years",
+    "A month",
+    "Never",
+    "Under a year"
+   ],
+   "a": 3,
+   "w": "Record speed."
+  },
+  {
+   "q": "Scientific consensus says...",
+   "o": [
+    "Humans are warming the climate",
+    "Warming is natural only",
+    "The Sun alone",
+    "No warming"
+   ],
+   "a": 0,
+   "w": "Strong agreement."
+  }
+ ],
+ "sources": [
+  "IPCC AR6 (2021-23); WHO excess mortality estimate (2022); Paris Agreement (2015); India's COP26 statement (PIB, Nov 2021)"
+ ],
+ "verified": "2026-11-10"
+}

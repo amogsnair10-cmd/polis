@@ -1,0 +1,177 @@
+{
+ "id": "0-0-0",
+ "title": "Measurement, Units and Vectors",
+ "emoji": "📏",
+ "cards": [
+  {
+   "tag": "Why this matters",
+   "h": "A number without a unit is nothing",
+   "b": "<p>Physics is the art of measuring the world and finding patterns in the numbers. But a number alone means little. Is 5 a distance, a time, a price?</p><p>In 1999 NASA's Mars Climate Orbiter was lost near Mars. One team's software gave thrust in pound-force seconds; another team's expected newton seconds. The spacecraft passed too close and was destroyed. A unit mix-up cost a whole mission.</p><p>So we begin with the grammar of physics: units, dimensions, errors and vectors. Everything later in the course is built on them.</p>"
+  },
+  {
+   "tag": "Concept",
+   "h": "The SI system: one language for everyone",
+   "b": "<p>Scientists worldwide use the <b>SI</b> (Systeme International). It has seven base units:</p><ul><li><b>metre</b> (length)</li><li><b>kilogram</b> (mass)</li><li><b>second</b> (time)</li><li><b>ampere</b> (electric current)</li><li><b>kelvin</b> (temperature)</li><li><b>mole</b> (amount of substance)</li><li><b>candela</b> (light intensity)</li></ul><p>All other units are built from these. A newton, for example, is kg m/s squared. Since 2019 the base units are fixed by nature's constants, not by a metal block. The metre is the distance light travels in 1/299,792,458 of a second.</p>"
+  },
+  {
+   "tag": "Concept",
+   "h": "Dimensions: a free error detector",
+   "b": "<p>Every quantity has a <b>dimension</b>: length (L), mass (M), time (T). Speed is L/T. Acceleration is L/T squared. Force is M L/T squared.</p><p>The rule: you can only add or equate quantities with the same dimensions. You cannot add 3 metres to 2 seconds.</p><p>This gives a quick test. Suppose you half-remember that distance = speed x time squared. Dimensions: L on the left, (L/T) x T squared = L x T on the right. They do not match, so the formula is wrong. Dimensional checking cannot prove a formula right, but it catches many wrong ones in seconds.</p>"
+  },
+  {
+   "tag": "Concept",
+   "h": "Every measurement has an error",
+   "b": "<p>No instrument is perfect. A ruler marked in millimetres cannot give you a length better than about half a millimetre. We report this as <b>significant figures</b>: 2.5 cm means we trust two digits; 2.50 cm claims more care.</p><p>When you multiply or divide, the answer should have no more significant figures than the least precise input. If a plate is 2.5 m by 1.25 m, its area is 3.1 square metres, not 3.125.</p><p>Honest numbers carry their uncertainty. This habit is what separates a scientist from a salesperson.</p>"
+  },
+  {
+   "tag": "Concept",
+   "h": "Scalars and vectors",
+   "b": "<p>Some quantities need only a size: mass, time, temperature, energy. These are <b>scalars</b>.</p><p>Others need a size and a direction: displacement, velocity, force. These are <b>vectors</b>. Saying 'walk 5 km' is not enough; you must say which way.</p><p>We draw a vector as an arrow. Length shows size; the arrowhead shows direction. To add vectors, place them head to tail. The arrow from the first tail to the last head is the sum, called the <b>resultant</b>.</p><svg class=\"d\" viewBox=\"0 0 320 150\"><defs><marker id=\"a0\" markerWidth=\"8\" markerHeight=\"8\" refX=\"7\" refY=\"4\" orient=\"auto\"><path d=\"M0,0 L8,4 L0,8z\" fill=\"#1d2433\"/></marker><marker id=\"a1\" markerWidth=\"8\" markerHeight=\"8\" refX=\"7\" refY=\"4\" orient=\"auto\"><path d=\"M0,0 L8,4 L0,8z\" fill=\"#a3362a\"/></marker></defs><line x1=\"40\" y1=\"120\" x2=\"200\" y2=\"120\" stroke=\"#1d2433\" stroke-width=\"2\" marker-end=\"url(#a0)\"/><line x1=\"200\" y1=\"120\" x2=\"200\" y2=\"30\" stroke=\"#1d2433\" stroke-width=\"2\" marker-end=\"url(#a0)\"/><line x1=\"40\" y1=\"120\" x2=\"198\" y2=\"32\" stroke=\"#a3362a\" stroke-width=\"2.5\" marker-end=\"url(#a1)\"/><text x=\"110\" y=\"140\" font-size=\"12\" fill=\"#1d2433\">A = 3 km east</text><text x=\"208\" y=\"80\" font-size=\"12\" fill=\"#1d2433\">B = 4 km north</text><text x=\"60\" y=\"68\" font-size=\"12\" fill=\"#a3362a\">R = 5 km</text></svg>"
+  },
+  {
+   "tag": "Concept",
+   "h": "Components: breaking an arrow into two",
+   "b": "<p>Any vector in a plane can be split into two perpendicular parts, left-right (x) and up-down (y). For a vector of size V at angle theta from the x-axis:</p><div class=\"box\"><h4>Components</h4>Vx = V cos(theta)<br>Vy = V sin(theta)<br>V = square root of (Vx squared + Vy squared)</div><p>To add vectors, add their x parts and their y parts separately. This turns a messy geometry problem into simple arithmetic, and it is the trick physicists use all through mechanics and electricity."
+  },
+  {
+   "tag": "Worked example",
+   "h": "Walk 3 km east, then 4 km north",
+   "b": "<p>Distance travelled is a scalar: 3 + 4 = 7 km.</p><p>Displacement is a vector. The x part is 3 km, the y part is 4 km. Size = square root of (9 + 16) = square root of 25 = <b>5 km</b>.</p><p>Direction: tan(theta) = 4/3, so theta is about 53 degrees north of east.</p><p>You walked 7 km but ended only 5 km from the start. Distance and displacement are different things. If you walk a full circle and return home, your distance is large but your displacement is zero.</p>"
+  },
+  {
+   "tag": "Misconceptions",
+   "h": "Common mix-ups",
+   "b": "<ul><li><b>Mass is not weight.</b> Mass (kg) is how much matter you have. Weight is a force (newtons) that depends on gravity. Your mass is the same on the Moon; your weight is about one-sixth.</li><li><b>Vectors do not add like plain numbers.</b> 3 N plus 4 N can be 7 N, 5 N or 1 N, depending on direction.</li><li><b>More digits does not mean more accuracy.</b> A calculator shows eight digits; your ruler gave you two.</li></ul>"
+  },
+  {
+   "tag": "Indian angle",
+   "h": "Who keeps India's measures?",
+   "b": "<p>India adopted the metric system by law in the 1950s through the Standards of Weights and Measures Act, 1956, replacing seers, maunds and miles.</p><p>The CSIR-National Physical Laboratory in New Delhi is the custodian of India's national standards. It maintains atomic clocks that realise Indian Standard Time, and the accuracy of every shop scale ultimately traces back to such standards.</p><p>India also uses SI units in its space missions. ISRO's engineers work in newtons, kilograms and seconds, so a Mars Climate Orbiter-style error would be just as fatal for them."
+  },
+  {
+   "tag": "Recap",
+   "h": "Key takeaways",
+   "b": "<ul><li>Every physical quantity has a number and a unit. Mixing units is a real danger.</li><li>SI has seven base units; others are combinations.</li><li>Dimensions let you check formulas quickly.</li><li>Scalars have size; vectors have size and direction.</li><li>Split vectors into x and y components, add each separately.</li></ul><div class=\"box\"><h4>Think about it</h4>1. Why can a runner who finishes a lap on a circular track have a large distance but zero displacement?<br>2. A formula says energy = mass x speed. Without knowing physics, how could you test it?</div>",
+   "cls": "exam"
+  }
+ ],
+ "quiz": [
+  {
+   "q": "Which of these is a vector quantity?",
+   "o": [
+    "Mass",
+    "Temperature",
+    "Velocity",
+    "Time"
+   ],
+   "a": 2,
+   "w": "Velocity has both size and direction."
+  },
+  {
+   "q": "How many base units does the SI system have?",
+   "o": [
+    "Five",
+    "Seven",
+    "Nine",
+    "Four"
+   ],
+   "a": 1,
+   "w": "Metre, kilogram, second, ampere, kelvin, mole, candela."
+  },
+  {
+   "q": "What is the dimension of speed?",
+   "o": [
+    "L x T",
+    "L/T",
+    "T/L",
+    "L/T squared"
+   ],
+   "a": 1,
+   "w": "Speed is length divided by time."
+  },
+  {
+   "q": "A walker goes 6 km east then 8 km north. What is the size of the displacement?",
+   "o": [
+    "14 km",
+    "7 km",
+    "2 km",
+    "10 km"
+   ],
+   "a": 3,
+   "w": "Square root of (36 + 64) = 10 km."
+  },
+  {
+   "q": "Which formula is certainly wrong by dimensions? (s = distance, v = speed, t = time)",
+   "o": [
+    "s = v t",
+    "v = s/t",
+    "s = v t squared",
+    "t = s/v"
+   ],
+   "a": 2,
+   "w": "v t squared has dimensions L x T, not L."
+  },
+  {
+   "q": "A rectangle is 2.0 m by 1.35 m. Using significant figures, the area is best written as",
+   "o": [
+    "2.7 square m",
+    "2.70 square m",
+    "2.700 square m",
+    "3 square m"
+   ],
+   "a": 0,
+   "w": "The least precise input has two figures, so the answer has two."
+  },
+  {
+   "q": "Which statement about mass and weight is correct?",
+   "o": [
+    "Mass changes on the Moon",
+    "Weight is measured in kilograms in SI",
+    "Weight is a force",
+    "They are the same thing"
+   ],
+   "a": 2,
+   "w": "Weight is the gravitational force, measured in newtons."
+  },
+  {
+   "q": "Two forces of 3 N and 4 N act at right angles. The resultant is",
+   "o": [
+    "7 N",
+    "1 N",
+    "12 N",
+    "5 N"
+   ],
+   "a": 3,
+   "w": "Square root of (9 + 16) = 5 N."
+  },
+  {
+   "q": "The vector of size 10 at 30 degrees to the x-axis has x component",
+   "o": [
+    "About 8.7",
+    "5",
+    "10",
+    "About 17"
+   ],
+   "a": 0,
+   "w": "10 cos 30 = 8.66."
+  },
+  {
+   "q": "Why was the Mars Climate Orbiter lost?",
+   "o": [
+    "Fuel ran out",
+    "A units mix-up between pound-force and newton",
+    "A solar storm",
+    "Engine failure on launch"
+   ],
+   "a": 1,
+   "w": "Software used different units for thrust."
+  }
+ ],
+ "sources": [
+  "NCERT Physics Class 11-12",
+  "Halliday, Resnick and Walker, Fundamentals of Physics",
+  "NIST/BIPM SI brochure",
+  "NASA Mars Climate Orbiter report 1999"
+ ],
+ "verified": "2026-11-11"
+}
