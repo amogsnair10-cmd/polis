@@ -1,0 +1,176 @@
+{
+ "id": "4-0-3",
+ "title": "The Future: Mars, Space Stations and Beyond",
+ "emoji": "🛰️",
+ "cards": [
+  {
+   "tag": "Why this matters",
+   "h": "The next steps off Earth",
+   "b": "<p>Humans have lived in orbit continuously for more than 25 years. Next come a permanent presence on the Moon, robots on icy moons and perhaps people on Mars. Several things changed: reusable rockets, private companies and new nations.</p><svg class=\"d\" viewBox=\"0 0 320 110\"><defs><marker id=\"ar1\" viewBox=\"0 0 10 10\" refX=\"9\" refY=\"5\" markerWidth=\"6\" markerHeight=\"6\" orient=\"auto\"><path d=\"M0 0L10 5L0 10z\" fill=\"#5d6474\"/></marker></defs><rect x=\"5\" y=\"35\" width=\"70\" height=\"36\" rx=\"5\" fill=\"#f1e4c6\" stroke=\"#a8792a\"/><text x=\"40.0\" y=\"51.0\" text-anchor=\"middle\" font-size=\"11\" fill=\"#1d2433\">Moon</text><text x=\"40.0\" y=\"64.0\" text-anchor=\"middle\" font-size=\"11\" fill=\"#1d2433\">Artemis, ILRS</text><rect x=\"85\" y=\"35\" width=\"70\" height=\"36\" rx=\"5\" fill=\"#f4dcd5\" stroke=\"#a3362a\"/><text x=\"120.0\" y=\"51.0\" text-anchor=\"middle\" font-size=\"11\" fill=\"#1d2433\">Mars</text><text x=\"120.0\" y=\"64.0\" text-anchor=\"middle\" font-size=\"11\" fill=\"#1d2433\">rovers, plans</text><rect x=\"165\" y=\"35\" width=\"70\" height=\"36\" rx=\"5\" fill=\"#dceaec\" stroke=\"#2f6f7a\"/><text x=\"200.0\" y=\"51.0\" text-anchor=\"middle\" font-size=\"11\" fill=\"#1d2433\">Stations</text><text x=\"200.0\" y=\"64.0\" text-anchor=\"middle\" font-size=\"11\" fill=\"#1d2433\">ISS, Tiangong</text><rect x=\"245\" y=\"35\" width=\"70\" height=\"36\" rx=\"5\" fill=\"#ffffff\" stroke=\"#5d6474\"/><text x=\"280.0\" y=\"51.0\" text-anchor=\"middle\" font-size=\"11\" fill=\"#1d2433\">Outer worlds</text><text x=\"280.0\" y=\"64.0\" text-anchor=\"middle\" font-size=\"11\" fill=\"#1d2433\">Europa, Titan</text><text x=\"160\" y=\"98\" text-anchor=\"middle\" font-size=\"10\" fill=\"#5d6474\">Targets of the coming decades</text></svg>"
+  },
+  {
+   "tag": "Concept",
+   "h": "Space stations",
+   "b": "<p>The <b>International Space Station</b>, built from 1998, has had crews aboard without a break since 2 November 2000; it is planned to be retired and de-orbited around 2030 to 2031. China's <b>Tiangong</b> station was completed in 2022. Private commercial stations are in development. Stations teach us how bodies cope with weightlessness: bone and muscle loss, radiation and isolation.</p>"
+  },
+  {
+   "tag": "Concept",
+   "h": "Return to the Moon",
+   "b": "<p>NASA's <b>Artemis</b> programme plans to return crews to the lunar south pole and build a Gateway station; its schedule has slipped repeatedly, so check its current status. China aims for crewed landing before 2030. Water ice in shadowed polar craters could give drinking water and rocket fuel. The Moon is also a training ground for Mars.</p>"
+  },
+  {
+   "tag": "Concept",
+   "h": "Mars: robots first",
+   "b": "<p>Perseverance (landed 2021) is caching samples, and the little helicopter Ingenuity flew 72 times (2021 to 2024). The plan to bring samples back to Earth has been delayed and under budget review. Sending people is hard: about 6 to 9 months each way, radiation, no rescue, and a thin atmosphere that makes landing tough. SpaceX's <b>Starship</b>, a fully reusable giant rocket, is being tested for this purpose.</p>"
+  },
+  {
+   "tag": "Concept",
+   "h": "Ocean worlds and beyond",
+   "b": "<p>ESA's <b>JUICE</b> (launched April 2023) and NASA's <b>Europa Clipper</b> (launched October 2024, arrival about 2030) will study icy moons with hidden oceans. NASA's <b>Dragonfly</b> will fly a drone through the air of Titan in the 2030s. <b>Voyager 1 and 2</b>, launched in 1977, are now in interstellar space.</p>"
+  },
+  {
+   "tag": "Concept",
+   "h": "Telescopes and the next big eyes",
+   "b": "<p>JWST is operating; the 39 m <b>Extremely Large Telescope</b> in Chile and the <b>Square Kilometre Array</b> are being built; <b>LISA</b> will detect gravitational waves from space. Breakthrough Starshot proposes tiny laser-driven sails to the nearest star, but is only a concept.</p>"
+  },
+  {
+   "tag": "How we know",
+   "h": "What makes the future plausible",
+   "b": "<p>Reusable boosters have cut launch cost per kilogram severalfold. Mega-constellations (Starlink) show mass production in orbit. Meanwhile real challenges stay: radiation, closed-loop life support, space debris (over 30,000 tracked objects) and law.</p>"
+  },
+  {
+   "tag": "Misconceptions",
+   "h": "Realism check",
+   "b": "<ul><li><b>'Mars colonies soon.'</b> Technical, medical and cost barriers are large.</li><li><b>'Space is empty so debris is harmless.'</b> At 7 km/s, a bolt is a bullet.</li><li><b>'Space belongs to no rules.'</b> The Outer Space Treaty (1967) and later accords govern it.</li></ul>"
+  },
+  {
+   "tag": "Indian angle",
+   "h": "Gaganyaan to 2040",
+   "b": "<p>India plans <b>Gaganyaan</b> (crewed low-orbit flights), the <b>Bharatiya Antariksh Station</b> (first module planned around 2028, full station by 2035), <b>Chandrayaan-4</b> sample return, a <b>Venus Orbiter Mission</b> (about 2028), and a crewed Moon landing by 2040. Private launchers such as Skyroot and Agnikul are building small rockets. Timelines for such missions often shift.</p>"
+  },
+  {
+   "tag": "Recap",
+   "h": "Key takeaways",
+   "b": "<ul><li>Space stations keep humans in orbit; ISS retires around 2030.</li><li>Artemis and Chinese plans aim for the Moon; Mars sample return and crewed missions are far harder.</li><li>Icy-moon missions search for life.</li><li>India's plans: Gaganyaan, its own station by 2035, Moon landing by 2040.</li></ul><p><b>Think about it:</b> (1) Why is the Moon a stepping stone to Mars? (2) How should humanity handle space debris?</p>",
+   "cls": "exam"
+  }
+ ],
+ "quiz": [
+  {
+   "q": "Continuous human presence on the ISS began in:",
+   "o": [
+    "2000",
+    "1969",
+    "1998",
+    "2010"
+   ],
+   "a": 0,
+   "w": "2 November 2000."
+  },
+  {
+   "q": "China's space station is called:",
+   "o": [
+    "Tiangong",
+    "Mir",
+    "Skylab",
+    "Salyut"
+   ],
+   "a": 0,
+   "w": "Completed 2022."
+  },
+  {
+   "q": "Perseverance landed on Mars in:",
+   "o": [
+    "2021",
+    "2012",
+    "1976",
+    "2014"
+   ],
+   "a": 0,
+   "w": "18 February 2021."
+  },
+  {
+   "q": "Europa Clipper will study:",
+   "o": [
+    "An icy moon of Jupiter",
+    "Mars",
+    "Pluto",
+    "Venus"
+   ],
+   "a": 0,
+   "w": "Launched October 2024."
+  },
+  {
+   "q": "Water ice at the lunar poles matters because:",
+   "o": [
+    "It can supply water and fuel",
+    "It is pretty",
+    "It is warm",
+    "It blocks radiation entirely"
+   ],
+   "a": 0,
+   "w": "Useful for settlements."
+  },
+  {
+   "q": "India's planned space station is:",
+   "o": [
+    "Bharatiya Antariksh Station",
+    "Salyut",
+    "Aryabhata Station",
+    "Tiangong-2"
+   ],
+   "a": 0,
+   "w": "Planned by 2035."
+  },
+  {
+   "q": "A key reason for falling launch cost is:",
+   "o": [
+    "Reusable boosters",
+    "Smaller planets",
+    "Lighter Earth",
+    "Free fuel"
+   ],
+   "a": 0,
+   "w": "Landings since 2015."
+  },
+  {
+   "q": "Dragonfly is a mission to:",
+   "o": [
+    "Titan",
+    "Mars",
+    "Venus",
+    "Ceres"
+   ],
+   "a": 0,
+   "w": "A drone on Saturn's moon."
+  },
+  {
+   "q": "Space debris is dangerous mainly due to:",
+   "o": [
+    "High orbital speed",
+    "Large size",
+    "Magnetism",
+    "Heat"
+   ],
+   "a": 0,
+   "w": "About 7 km/s."
+  },
+  {
+   "q": "India's declared goal for a crewed Moon landing is by:",
+   "o": [
+    "2040",
+    "2025",
+    "2030",
+    "2060"
+   ],
+   "a": 0,
+   "w": "Announced ambition."
+  }
+ ],
+ "sources": [
+  "NASA Artemis",
+  "ISS plans",
+  "ISRO roadmap"
+ ],
+ "verified": "2026-11-11"
+}

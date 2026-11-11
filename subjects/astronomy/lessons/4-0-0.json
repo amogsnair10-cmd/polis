@@ -1,0 +1,175 @@
+{
+ "id": "4-0-0",
+ "title": "Rockets and Orbits",
+ "emoji": "🚀",
+ "cards": [
+  {
+   "tag": "Why this matters",
+   "h": "Getting up is the hard part",
+   "b": "<p>Reaching space is not about going high; it is about going <i>sideways</i> very fast. Everything in space travel, from satellites to Moon missions, follows from a few physics ideas: action and reaction, orbital speed and energy budgets.</p>"
+  },
+  {
+   "tag": "Concept",
+   "h": "How a rocket works",
+   "b": "<p>Newton's third law: a rocket throws exhaust backward and is pushed forward. It needs no air, so it works in vacuum. Konstantin Tsiolkovsky wrote the <b>rocket equation</b> in 1903: the speed gained depends on exhaust speed and on the logarithm of the mass ratio, full to empty. Because fuel must lift fuel, most of a rocket is propellant, so we use <b>stages</b>, dropping empty tanks. Robert Goddard flew the first liquid-fuel rocket in 1926.</p>"
+  },
+  {
+   "tag": "Concept",
+   "h": "Orbit is falling around",
+   "b": "<p>Newton imagined a cannon on a mountain: fire faster and the ball lands farther, until it falls around the curve of Earth and never lands. That is an orbit. Low Earth orbit needs about <b>7.8 km/s</b>; at about 400 km the period is about 90 minutes. Astronauts float because they and the station are in free fall.</p><svg class=\"d\" viewBox=\"0 0 320 130\"><defs><marker id=\"ar1\" viewBox=\"0 0 10 10\" refX=\"9\" refY=\"5\" markerWidth=\"6\" markerHeight=\"6\" orient=\"auto\"><path d=\"M0 0L10 5L0 10z\" fill=\"#5d6474\"/></marker></defs><circle cx=\"160\" cy=\"65\" r=\"22\" fill=\"#dceaec\" stroke=\"#2f6f7a\"/><text x=\"160\" y=\"69\" text-anchor=\"middle\" font-size=\"10\" fill=\"#1d2433\">Earth</text><circle cx=\"160\" cy=\"65\" r=\"45\" fill=\"none\" stroke=\"#5d6474\" stroke-dasharray=\"4 3\"/><circle cx=\"205\" cy=\"65\" r=\"5\" fill=\"#f4dcd5\" stroke=\"#a3362a\"/><text x=\"160\" y=\"125\" text-anchor=\"middle\" font-size=\"10\" fill=\"#5d6474\">Orbit = falling around Earth, never hitting it</text></svg>"
+  },
+  {
+   "tag": "Concept",
+   "h": "Orbits and their uses",
+   "b": "<ul><li><b>Low Earth orbit</b> (200 to 2,000 km): ISS, imaging.</li><li><b>Sun-synchronous</b>: passes at the same local time, used for remote sensing.</li><li><b>Geostationary</b>: 35,786 km above the equator, period 24 hours, appears fixed in the sky, used for communication (idea by Arthur C. Clarke, 1945).</li></ul><p>Higher orbits move slower: Kepler's third law.</p>"
+  },
+  {
+   "tag": "Concept",
+   "h": "Escape and transfers",
+   "b": "<p>To leave Earth for good you need about <b>11.2 km/s</b> (escape velocity). Missions rarely fly straight: a <b>Hohmann transfer</b> uses an elliptical path touching two orbits, the cheapest in fuel. <b>Gravity assists</b> let a probe steal a little of a planet's orbital energy; Voyager 2 used them to tour four planets.</p>"
+  },
+  {
+   "tag": "Concept",
+   "h": "Reusable rockets and the cost",
+   "b": "<p>Rockets used to be thrown away each time. Since the first booster landing in December 2015 (SpaceX Falcon 9), reusing boosters has cut launch costs sharply. Where space is the 'edge' is set by convention at the <b>Karman line</b>, 100 km up.</p>"
+  },
+  {
+   "tag": "How we know",
+   "h": "From V-2 to Sputnik",
+   "b": "<p>The German V-2 (1942) was the first rocket to reach space. After the war, Wernher von Braun and Sergei Korolev built the ones that launched the space age, from Sputnik in 1957. Orbital rules are verified every day by thousands of satellites whose paths follow Newton and Kepler.</p>"
+  },
+  {
+   "tag": "Misconceptions",
+   "h": "Space myths",
+   "b": "<ul><li><b>'There is no gravity in orbit.'</b> Gravity is about 90 percent as strong at the ISS; it is free fall that gives weightlessness.</li><li><b>'Rockets push against air.'</b> They push against their own exhaust.</li><li><b>'Going up is the goal.'</b> Sideways speed is the goal.</li></ul>"
+  },
+  {
+   "tag": "Indian angle",
+   "h": "Tipu Sultan to LVM3",
+   "b": "<p>Tipu Sultan's Mysore army used iron-cased rockets against the British in the 1780s and 90s, an inspiration for Congreve's rockets. ISRO's story: <b>Vikram Sarabhai</b> founded INCOSPAR (1962); the first sounding rocket flew from <b>Thumba</b> on 21 November 1963; <b>SLV-3</b> put Rohini into orbit in July 1980 under <b>A.P.J. Abdul Kalam</b>. <b>PSLV</b> (first launch 1993) became a workhorse; <b>GSLV</b> flew with the indigenous cryogenic engine in January 2014; <b>LVM3</b> launched Chandrayaan-3.</p>"
+  },
+  {
+   "tag": "Recap",
+   "h": "Key takeaways",
+   "b": "<ul><li>Rockets work by action and reaction; staging beats the rocket equation.</li><li>Orbit is free fall around Earth at about 7.8 km/s in low orbit.</li><li>Geostationary orbit is 35,786 km up with a 24 hour period.</li><li>Gravity assists and Hohmann transfers save fuel.</li></ul><p><b>Think about it:</b> (1) Why do rockets launch eastward when they can? (2) Why does a satellite in a higher orbit move slower?</p>",
+   "cls": "exam"
+  }
+ ],
+ "quiz": [
+  {
+   "q": "Rockets work on:",
+   "o": [
+    "Newton's third law",
+    "Pushing air",
+    "Magnetism",
+    "Light pressure"
+   ],
+   "a": 0,
+   "w": "Action and reaction."
+  },
+  {
+   "q": "Low Earth orbit speed is about:",
+   "o": [
+    "7.8 km/s",
+    "0.78 km/s",
+    "78 km/s",
+    "300 km/s"
+   ],
+   "a": 0,
+   "w": "Sideways speed."
+  },
+  {
+   "q": "Escape velocity from Earth is about:",
+   "o": [
+    "11.2 km/s",
+    "7.8 km/s",
+    "3 km/s",
+    "30 km/s"
+   ],
+   "a": 0,
+   "w": "11.2 km/s."
+  },
+  {
+   "q": "Geostationary orbit lies at about:",
+   "o": [
+    "35,786 km",
+    "400 km",
+    "3,578 km",
+    "384,000 km"
+   ],
+   "a": 0,
+   "w": "Over the equator."
+  },
+  {
+   "q": "Astronauts feel weightless because:",
+   "o": [
+    "They are in free fall",
+    "There is no gravity",
+    "Air is thin",
+    "They are far away"
+   ],
+   "a": 0,
+   "w": "Continuous falling."
+  },
+  {
+   "q": "Staging helps because it:",
+   "o": [
+    "Discards empty mass",
+    "Adds fuel",
+    "Reduces thrust",
+    "Cools the engine"
+   ],
+   "a": 0,
+   "w": "Less mass to accelerate."
+  },
+  {
+   "q": "A Hohmann transfer is:",
+   "o": [
+    "A fuel-efficient elliptical path",
+    "A straight line",
+    "A landing",
+    "A gravity wave"
+   ],
+   "a": 0,
+   "w": "Between two circular orbits."
+  },
+  {
+   "q": "India's first satellite launch vehicle SLV-3 flew in:",
+   "o": [
+    "1980",
+    "1963",
+    "1993",
+    "2008"
+   ],
+   "a": 0,
+   "w": "Rohini satellite."
+  },
+  {
+   "q": "Who wrote the rocket equation in 1903?",
+   "o": [
+    "Tsiolkovsky",
+    "Goddard",
+    "Von Braun",
+    "Sarabhai"
+   ],
+   "a": 0,
+   "w": "Konstantin Tsiolkovsky."
+  },
+  {
+   "q": "The first Indian sounding rocket launch was from:",
+   "o": [
+    "Thumba",
+    "Sriharikota",
+    "Pokhran",
+    "Hanle"
+   ],
+   "a": 0,
+   "w": "21 November 1963."
+  }
+ ],
+ "sources": [
+  "Tsiolkovsky 1903",
+  "ISRO history"
+ ],
+ "verified": "2026-11-11"
+}

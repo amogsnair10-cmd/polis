@@ -1,0 +1,178 @@
+{
+ "id": "4-0-6",
+ "title": "Open Questions in Physics",
+ "emoji": "🌌",
+ "cards": [
+  {
+   "tag": "Why this matters",
+   "h": "Physics is far from finished",
+   "b": "<p>It is tempting to think everything is settled. In truth, our best theories describe only about 5 percent of what the universe contains. The rest is dark and unexplained. And the two pillars of modern physics, quantum theory and general relativity, do not fit together.</p><p>This lesson is a tour of the frontier: where today's questions are, and what a curious learner can watch for.</p>"
+  },
+  {
+   "tag": "Concept",
+   "h": "The expanding universe",
+   "b": "<p>Georges Lemaitre (1927) and Edwin Hubble (1929) showed distant galaxies recede, and the farther, the faster: <b>v = H0 x d</b>, where H0 is about 70 km/s per megaparsec. Space itself is expanding.</p><p>Run it backwards and everything was once hot and dense. This is the <b>Big Bang</b>, about 13.8 billion years ago. Its afterglow, the cosmic microwave background at 2.7 kelvin, was found by Penzias and Wilson in 1965."
+  },
+  {
+   "tag": "Concept",
+   "h": "Dark matter",
+   "b": "<p>Stars at the edges of galaxies orbit far too fast for the gravity of visible matter. Vera Rubin's measurements in the 1970s showed this. Something unseen, <b>dark matter</b>, adds about five times as much mass as ordinary matter. It also bends light from distant galaxies.</p><p>It does not glow or absorb light. Experiments deep underground hunt for its particles, so far without success. Whether it is a new particle, or our gravity needs changing, is open."
+  },
+  {
+   "tag": "Concept",
+   "h": "Dark energy",
+   "b": "<p>In 1998, two teams measuring distant exploding stars found that the expansion of the universe is <b>speeding up</b>, a discovery that earned the 2011 Nobel Prize. Something, called <b>dark energy</b>, seems to push space apart. It makes up about 68 percent of the total (as measured by the Planck satellite).</p><p>The simplest idea is the energy of empty space itself, but a naive quantum calculation overshoots the observed value by a huge factor, perhaps the worst prediction in physics.</p><svg class=\"d\" viewBox=\"0 0 320 120\"><rect x=\"10\" y=\"30\" width=\"15\" height=\"40\" fill=\"#2f6f7a\"/><rect x=\"25\" y=\"30\" width=\"85\" height=\"40\" fill=\"#a8792a\"/><rect x=\"110\" y=\"30\" width=\"200\" height=\"40\" fill=\"#1d2433\"/><text x=\"30\" y=\"55\" font-size=\"10\" fill=\"#1d2433\">Dark matter 27%</text><text x=\"150\" y=\"55\" font-size=\"12\" fill=\"#f1e4c6\">Dark energy 68%</text><text x=\"8\" y=\"22\" font-size=\"10\" fill=\"#2f6f7a\">Ordinary matter 5%</text><text x=\"10\" y=\"100\" font-size=\"11\" fill=\"#1d2433\">Our atoms are only about 5 percent of the universe's contents</text></svg>"
+  },
+  {
+   "tag": "Concept",
+   "h": "Why is there something rather than nothing?",
+   "b": "<p>The Big Bang should have made equal matter and antimatter, which would annihilate into light. Yet the universe is made of matter. A tiny excess, about one part in a billion, survived. Why? Known physics cannot explain it.</p><p>Related puzzles: why do neutrinos have mass (confirmed by 1998 experiments, not in the original Standard Model)? And why are the constants of nature what they are, so finely tuned that stars and life can exist?"
+  },
+  {
+   "tag": "Concept",
+   "h": "Quantum gravity and tensions",
+   "b": "<p>Inside a black hole or at the Big Bang, gravity and quantum effects both matter, and our two theories clash. Candidates for a joint theory include <b>string theory</b> and <b>loop quantum gravity</b>, but neither has been tested.</p><p>Other open questions: the <b>Hubble tension</b>, where the expansion rate measured from the early universe (about 67 km/s per Mpc) disagrees with nearby measurements (about 73), and what 'measurement' means in quantum theory. These are unsettled as of 2026."
+  },
+  {
+   "tag": "Worked example",
+   "h": "Using Hubble's law",
+   "b": "<p>A galaxy is 100 megaparsecs away (about 326 million light-years). Its recession speed: v = 70 x 100 = <b>7000 km/s</b>.</p><p>Age estimate: 1 / H0. With H0 = 70 km/s per Mpc and 1 Mpc = 3.09 x 10 to the power 19 km, 1/H0 = 3.09e19 / 70 = 4.4e17 s = <b>about 14 billion years</b>, close to the true age of 13.8 billion.</p><p>The Hubble tension: using 67 instead of 73 changes the answer, and nobody yet knows why the values differ."
+  },
+  {
+   "tag": "Misconceptions",
+   "h": "Cosmic confusion",
+   "b": "<ul><li><b>'The Big Bang was an explosion in space.'</b> It was the expansion of space itself, everywhere at once; there is no centre.</li><li><b>'Dark matter is just dark gas.'</b> Ordinary dark gas and dust are too little and would be seen in other ways.</li><li><b>'Scientists don't know anything about the universe.'</b> The standard model of cosmology fits a vast amount of precise data; the unknowns lie in particular components.</li></ul>"
+  },
+  {
+   "tag": "Indian angle",
+   "h": "Raychaudhuri, Narlikar and Aditya-L1",
+   "b": "<p>Amal Kumar Raychaudhuri's equation (1955) shows how matter focuses under gravity and became a basis of Penrose and Hawking's singularity theorems about black holes and the Big Bang. Jayant Narlikar, with Fred Hoyle, explored alternatives to the Big Bang and founded IUCAA in Pune.</p><p>India's space telescope AstroSat launched in 2015, and the Aditya-L1 solar mission, launched on 2 September 2023, studies our Sun from a gravitational balance point. LIGO-India and the GMRT will keep adding to cosmic data."
+  },
+  {
+   "tag": "Recap",
+   "h": "Key takeaways",
+   "b": "<ul><li>The universe is expanding (v = H0 d) from a hot Big Bang 13.8 billion years ago.</li><li>About 5 percent ordinary matter, 27 percent dark matter, 68 percent dark energy.</li><li>Open problems: matter-antimatter imbalance, quantum gravity, neutrino mass, the Hubble tension.</li><li>Science advances by finding where theories fail.</li></ul><div class=\"box\"><h4>Think about it</h4>1. How could we tell dark matter from changed gravity?<br>2. Why does a discrepancy like the Hubble tension excite scientists rather than worry them?</div>",
+   "cls": "exam"
+  }
+ ],
+ "quiz": [
+  {
+   "q": "Hubble's law says recession speed is",
+   "o": [
+    "Proportional to distance",
+    "Inversely proportional to distance",
+    "Constant",
+    "Zero"
+   ],
+   "a": 0,
+   "w": "v = H0 d."
+  },
+  {
+   "q": "The age of the universe is about",
+   "o": [
+    "4.6 billion years",
+    "13.8 billion years",
+    "100 billion years",
+    "1 million years"
+   ],
+   "a": 1,
+   "w": "13.8 billion years."
+  },
+  {
+   "q": "The cosmic microwave background temperature is about",
+   "o": [
+    "2.7 K",
+    "270 K",
+    "27,000 K",
+    "0 K"
+   ],
+   "a": 0,
+   "w": "A remnant of the early universe."
+  },
+  {
+   "q": "Dark matter was first strongly indicated by",
+   "o": [
+    "Galaxy rotation speeds",
+    "Solar eclipses",
+    "Planet orbits",
+    "Radioactivity"
+   ],
+   "a": 0,
+   "w": "Vera Rubin, 1970s."
+  },
+  {
+   "q": "In 1998 astronomers found that the expansion of the universe is",
+   "o": [
+    "Slowing",
+    "Speeding up",
+    "Constant",
+    "Reversing"
+   ],
+   "a": 1,
+   "w": "Dark energy."
+  },
+  {
+   "q": "Which fraction of the universe is ordinary matter?",
+   "o": [
+    "About 5 percent",
+    "About 50 percent",
+    "About 95 percent",
+    "About 27 percent"
+   ],
+   "a": 0,
+   "w": "Atoms are about 5 percent."
+  },
+  {
+   "q": "A galaxy 200 Mpc away recedes at what speed (H0 = 70)?",
+   "o": [
+    "14,000 km/s",
+    "3500 km/s",
+    "270 km/s",
+    "700 km/s"
+   ],
+   "a": 0,
+   "w": "70 x 200."
+  },
+  {
+   "q": "Two pillars of modern physics that do not fit together are",
+   "o": [
+    "Relativity and thermodynamics",
+    "General relativity and quantum theory",
+    "Optics and magnetism",
+    "Newton and Kepler"
+   ],
+   "a": 1,
+   "w": "No quantum gravity yet."
+  },
+  {
+   "q": "The 'Hubble tension' is a disagreement over",
+   "o": [
+    "The expansion rate H0",
+    "The speed of light",
+    "The age of Earth",
+    "Neutron mass"
+   ],
+   "a": 0,
+   "w": "Early versus local values."
+  },
+  {
+   "q": "India's solar mission launched in September 2023 is",
+   "o": [
+    "Aditya-L1",
+    "Mangalyaan",
+    "Chandrayaan-2",
+    "AstroSat"
+   ],
+   "a": 0,
+   "w": "Aditya-L1, 2 September 2023."
+  }
+ ],
+ "sources": [
+  "NCERT Physics Class 11-12",
+  "Halliday, Resnick and Walker, Fundamentals of Physics",
+  "Planck 2018 cosmological parameters",
+  "Hubble (1929)",
+  "Riess et al; Perlmutter et al (1998)"
+ ],
+ "verified": "2026-11-11"
+}

@@ -1,0 +1,183 @@
+{
+ "id": "4-0-5",
+ "title": "Semiconductors and Modern Technology",
+ "emoji": "💾",
+ "cards": [
+  {
+   "tag": "Why this matters",
+   "h": "The material that runs the modern world",
+   "b": "<p>Your phone holds billions of tiny switches, each smaller than a virus. Every computer, camera, solar panel and LED depends on a few special materials called <b>semiconductors</b>, mostly silicon.</p><p>They sit between conductors and insulators, and their great trick is that you can control how well they conduct. That control lets us build electronic switches and amplifiers.</p>"
+  },
+  {
+   "tag": "Concept",
+   "h": "Bands and conductivity",
+   "b": "<p>In a solid, electron energies group into <b>bands</b> with gaps. In a metal the top band is partly full, so electrons move freely. In an insulator the gap above the full band is huge, so nothing moves. In a <b>semiconductor</b> the gap is small (silicon: 1.1 eV), so heat or light can lift a few electrons across.</p><p>An electron that leaves a vacancy, a 'hole', lets neighbours hop in; the hole acts like a positive charge. Unlike metals, semiconductors conduct better when warmed."
+  },
+  {
+   "tag": "Concept",
+   "h": "Doping: n-type and p-type",
+   "b": "<p>Pure silicon conducts poorly. Adding tiny impurities, <b>doping</b>, changes that. Add phosphorus (5 outer electrons) and you get spare electrons: <b>n-type</b>. Add boron (3 outer electrons) and you get holes: <b>p-type</b>.</p><p>One impurity atom per million silicon atoms can change conductivity by a factor of thousands. Doping gives engineers a dial."
+  },
+  {
+   "tag": "Concept",
+   "h": "The p-n junction diode",
+   "b": "<p>Join p-type and n-type and electrons and holes meet at the junction, forming a thin zone with no free carriers, and a built-in voltage (about 0.7 V in silicon).</p><p>Connect a battery one way (forward bias) and current flows; the other way (reverse bias) almost none. This one-way valve is a <b>diode</b>, used to turn AC into DC. A <b>light-emitting diode (LED)</b> gives out light when electrons fall across the gap; a <b>solar cell</b> works in reverse, light making current.</p><svg class=\"d\" viewBox=\"0 0 320 140\"><rect x=\"30\" y=\"35\" width=\"120\" height=\"60\" fill=\"#f4dcd5\" stroke=\"#a3362a\" stroke-width=\"2\"/><rect x=\"170\" y=\"35\" width=\"120\" height=\"60\" fill=\"#dceaec\" stroke=\"#2f6f7a\" stroke-width=\"2\"/><line x1=\"160\" y1=\"30\" x2=\"160\" y2=\"100\" stroke=\"#a8792a\" stroke-width=\"2\" stroke-dasharray=\"4 3\"/><text x=\"55\" y=\"30\" font-size=\"12\" fill=\"#a3362a\">p-type (holes +)</text><text x=\"190\" y=\"30\" font-size=\"12\" fill=\"#2f6f7a\">n-type (electrons -)</text><text x=\"60\" y=\"68\" font-size=\"14\" fill=\"#a3362a\">+ + + +</text><text x=\"200\" y=\"68\" font-size=\"14\" fill=\"#2f6f7a\">- - - -</text><text x=\"108\" y=\"118\" font-size=\"11\" fill=\"#a8792a\">junction: current passes one way only</text></svg>"
+  },
+  {
+   "tag": "Concept",
+   "h": "The transistor",
+   "b": "<p>John Bardeen, Walter Brattain and William Shockley at Bell Labs made the first transistor in December 1947, and shared the 1956 Nobel Prize. A transistor uses a small voltage or current at one terminal to control a large current between the other two, so it works as an amplifier or a fast on-off switch.</p><p>Switches make logic: combinations of transistors add numbers and store bits. Every digital device is a vast network of them."
+  },
+  {
+   "tag": "Concept",
+   "h": "Integrated circuits and Moore's law",
+   "b": "<p>Jack Kilby (1958) and Robert Noyce (1959) put many transistors on a single chip, the <b>integrated circuit</b>. In 1965 Gordon Moore noticed that the number on a chip doubled roughly every two years, a trend called <b>Moore's law</b>.</p><p>From a few thousand transistors in the 1970s, chips now hold tens of billions. Progress has slowed as features approach a few nanometres, near the size of atoms."
+  },
+  {
+   "tag": "Concept",
+   "h": "Lasers and other quantum devices",
+   "b": "<p>Lasers (Theodore Maiman, 1960) use quantum jumps to make light of one colour, travelling in step. Semiconductor lasers read barcodes and send internet data down optical fibre.</p><p>The blue LED, by Isamu Akasaki, Hiroshi Amano and Shuji Nakamura (Nobel 2014), made efficient white LED lighting possible. MRI scanners rely on superconducting magnets and nuclear spin. All of these rest on quantum physics."
+  },
+  {
+   "tag": "Worked example",
+   "h": "Choosing a resistor for an LED",
+   "b": "<p>A red LED needs about 2 V and 20 mA. Run it from a 5 V supply. The resistor must drop the remaining 3 V.</p><p>R = V / I = 3 / 0.02 = <b>150 ohms</b>. Power in the resistor = 3 x 0.02 = 0.06 W, so a small resistor will do.</p><p>Moore's law check: 2,300 transistors in the Intel 4004 (1971) doubling every 2 years for 50 years gives 2,300 x 2 to the power 25, which is about 77 billion, close to the largest chips today."
+  },
+  {
+   "tag": "Misconceptions",
+   "h": "Chip misunderstandings",
+   "b": "<ul><li><b>'Semiconductors are just poor conductors.'</b> Their value is that conduction is controllable.</li><li><b>'Doped silicon is electrically charged.'</b> It is neutral; the impurity atoms bring along their own balancing charge.</li><li><b>'Computers think with electricity flowing in wires like water.'</b> Signals are voltage changes switching transistors on and off.</li></ul>"
+  },
+  {
+   "tag": "Indian angle",
+   "h": "From Bose's crystal to the India Semiconductor Mission",
+   "b": "<p>Jagadish Chandra Bose used a crystal of galena, a natural semiconductor, to detect radio waves around 1900, and obtained a US patent in 1904 for a semiconductor detector. This is among the earliest uses of a semiconductor device.</p><p>India launched the <b>India Semiconductor Mission</b> in 2021 to build chip fabrication and packaging plants. India already supplies a large share of the world's chip design engineers, with major design centres in Bengaluru and Hyderabad."
+  },
+  {
+   "tag": "Recap",
+   "h": "Key takeaways",
+   "b": "<ul><li>Semiconductors have a small band gap; doping makes n-type (electrons) or p-type (holes).</li><li>A p-n junction is a diode: current one way. LEDs and solar cells are junctions.</li><li>The transistor (1947) is an electrically controlled switch; chips hold billions.</li><li>Moore's law: transistor numbers doubled about every two years.</li></ul><div class=\"box\"><h4>Think about it</h4>1. Why does a semiconductor conduct better when heated, unlike a metal?<br>2. How can a solar cell be seen as an LED running backwards?</div>",
+   "cls": "exam"
+  }
+ ],
+ "quiz": [
+  {
+   "q": "The most widely used semiconductor is",
+   "o": [
+    "Copper",
+    "Silicon",
+    "Aluminium",
+    "Gold"
+   ],
+   "a": 1,
+   "w": "Silicon."
+  },
+  {
+   "q": "Adding phosphorus to silicon makes it",
+   "o": [
+    "p-type",
+    "n-type",
+    "An insulator",
+    "A metal"
+   ],
+   "a": 1,
+   "w": "Extra electrons."
+  },
+  {
+   "q": "Doping with boron gives",
+   "o": [
+    "Extra electrons",
+    "Holes",
+    "Neutrons",
+    "Protons"
+   ],
+   "a": 1,
+   "w": "Boron has one fewer outer electron."
+  },
+  {
+   "q": "A p-n junction diode conducts",
+   "o": [
+    "In both directions",
+    "Mainly one direction",
+    "Never",
+    "Only in light"
+   ],
+   "a": 1,
+   "w": "Forward bias."
+  },
+  {
+   "q": "The first transistor was made in",
+   "o": [
+    "1907",
+    "1947",
+    "1971",
+    "1995"
+   ],
+   "a": 1,
+   "w": "Bell Labs, December 1947."
+  },
+  {
+   "q": "Moore's law states that transistor count doubles about every",
+   "o": [
+    "Two years",
+    "Two months",
+    "Twenty years",
+    "Day"
+   ],
+   "a": 0,
+   "w": "Moore, 1965."
+  },
+  {
+   "q": "A 5 V supply, LED of 2 V, current 10 mA. Resistor?",
+   "o": [
+    "300 ohms",
+    "500 ohms",
+    "200 ohms",
+    "100 ohms"
+   ],
+   "a": 0,
+   "w": "3/0.01."
+  },
+  {
+   "q": "A solar cell",
+   "o": [
+    "Turns light into electric current",
+    "Stores heat",
+    "Emits sound",
+    "Makes magnets"
+   ],
+   "a": 0,
+   "w": "Photovoltaic effect."
+  },
+  {
+   "q": "In a semiconductor, a 'hole' behaves like",
+   "o": [
+    "A positive charge carrier",
+    "A neutron",
+    "A photon",
+    "An atom"
+   ],
+   "a": 0,
+   "w": "Missing electron."
+  },
+  {
+   "q": "J. C. Bose used which crystal as an early detector?",
+   "o": [
+    "Quartz",
+    "Galena",
+    "Diamond",
+    "Mica"
+   ],
+   "a": 1,
+   "w": "A natural semiconductor."
+  }
+ ],
+ "sources": [
+  "NCERT Physics Class 11-12",
+  "Halliday, Resnick and Walker, Fundamentals of Physics",
+  "Bardeen, Brattain, Shockley (1947)",
+  "Moore (1965)",
+  "India Semiconductor Mission 2021"
+ ],
+ "verified": "2026-11-11"
+}

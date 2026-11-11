@@ -1,0 +1,175 @@
+{
+ "id": "0-0-6",
+ "title": "Cell Division: Mitosis and Meiosis",
+ "emoji": "🧬",
+ "cards": [
+  {
+   "tag": "Why this matters",
+   "h": "From one cell to you",
+   "b": "<p>You began as a single cell. Cell division built you, heals your cuts, and makes eggs and sperm. When its control fails, the result is cancer. Two kinds exist: mitosis (copying) and meiosis (shuffling for reproduction).</p>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "The cell cycle",
+   "b": "<p>A cell spends most time in <b>interphase</b> (G1 growth, S DNA copying, G2 preparation), then divides in M phase. Checkpoints, run by proteins like cyclins, ask: is DNA intact, is the cell ready? Failure of checkpoints (for example p53 mutation) can lead to cancer.</p>"
+  },
+  {
+   "tag": "Step by step",
+   "h": "Mitosis: one cell, two copies",
+   "b": "<p>Walther Flemming described it in the 1880s. Result: two identical cells with the same chromosome number (2n to 2n).</p><svg class=\"d\" viewBox=\"0 0 320 172\"><defs><marker id=\"d1\" viewBox=\"0 0 10 10\" refX=\"8\" refY=\"5\" markerWidth=\"6\" markerHeight=\"6\" orient=\"auto\"><path d=\"M0 0L10 5L0 10z\" fill=\"#5d6474\"/></marker></defs><rect x=\"20\" y=\"6\" width=\"280\" height=\"28\" rx=\"6\" fill=\"#f1e4c6\" stroke=\"#a8792a\"/><text x=\"160\" y=\"24\" text-anchor=\"middle\" font-size=\"11\" fill=\"#1d2433\">Prophase: chromosomes condense</text><line x1=\"160\" y1=\"34\" x2=\"160\" y2=\"50\" stroke=\"#5d6474\" stroke-width=\"1.5\" marker-end=\"url(#d1)\"/><rect x=\"20\" y=\"50\" width=\"280\" height=\"28\" rx=\"6\" fill=\"#dceaec\" stroke=\"#2f6f7a\"/><text x=\"160\" y=\"68\" text-anchor=\"middle\" font-size=\"11\" fill=\"#1d2433\">Metaphase: line up at the middle</text><line x1=\"160\" y1=\"78\" x2=\"160\" y2=\"94\" stroke=\"#5d6474\" stroke-width=\"1.5\" marker-end=\"url(#d1)\"/><rect x=\"20\" y=\"94\" width=\"280\" height=\"28\" rx=\"6\" fill=\"#f1e4c6\" stroke=\"#a8792a\"/><text x=\"160\" y=\"112\" text-anchor=\"middle\" font-size=\"11\" fill=\"#1d2433\">Anaphase: sister chromatids pulled apart</text><line x1=\"160\" y1=\"122\" x2=\"160\" y2=\"138\" stroke=\"#5d6474\" stroke-width=\"1.5\" marker-end=\"url(#d1)\"/><rect x=\"20\" y=\"138\" width=\"280\" height=\"28\" rx=\"6\" fill=\"#dceaec\" stroke=\"#2f6f7a\"/><text x=\"160\" y=\"156\" text-anchor=\"middle\" font-size=\"11\" fill=\"#1d2433\">Telophase + cytokinesis: two cells</text></svg>"
+  },
+  {
+   "tag": "Step by step",
+   "h": "Meiosis: halving the number",
+   "b": "<p>Meiosis has two rounds of division and makes four cells with half the chromosomes (n). It happens in the ovary and testis. Eggs and sperm are n, so fertilisation restores 2n.</p><ul><li><b>Meiosis I:</b> homologous pairs separate.</li><li><b>Meiosis II:</b> chromatids separate, like mitosis.</li></ul>"
+  },
+  {
+   "tag": "Step by step",
+   "h": "Why meiosis creates variety",
+   "b": "<p>Two tricks shuffle genes. <b>Crossing over</b> in prophase I swaps pieces between paired chromosomes. <b>Independent assortment</b> lets each pair sort at random: humans have 23 pairs, so about 8 million combinations before crossing over.</p><svg class=\"d\" viewBox=\"0 0 320 168\"><rect x=\"10\" y=\"4\" width=\"145\" height=\"26\" rx=\"6\" fill=\"#2f6f7a\"/><text x=\"82\" y=\"21\" text-anchor=\"middle\" font-size=\"11\" fill=\"#fff\">Mitosis</text><rect x=\"10\" y=\"36\" width=\"145\" height=\"26\" rx=\"5\" fill=\"#dceaec\" stroke=\"#2f6f7a\"/><text x=\"82\" y=\"53\" text-anchor=\"middle\" font-size=\"10\" fill=\"#1d2433\">1 division</text><rect x=\"10\" y=\"68\" width=\"145\" height=\"26\" rx=\"5\" fill=\"#dceaec\" stroke=\"#2f6f7a\"/><text x=\"82\" y=\"85\" text-anchor=\"middle\" font-size=\"10\" fill=\"#1d2433\">2 cells</text><rect x=\"10\" y=\"100\" width=\"145\" height=\"26\" rx=\"5\" fill=\"#dceaec\" stroke=\"#2f6f7a\"/><text x=\"82\" y=\"117\" text-anchor=\"middle\" font-size=\"10\" fill=\"#1d2433\">Identical</text><rect x=\"10\" y=\"132\" width=\"145\" height=\"26\" rx=\"5\" fill=\"#dceaec\" stroke=\"#2f6f7a\"/><text x=\"82\" y=\"149\" text-anchor=\"middle\" font-size=\"10\" fill=\"#1d2433\">Growth, repair</text><rect x=\"165\" y=\"4\" width=\"145\" height=\"26\" rx=\"6\" fill=\"#a8792a\"/><text x=\"237\" y=\"21\" text-anchor=\"middle\" font-size=\"11\" fill=\"#fff\">Meiosis</text><rect x=\"165\" y=\"36\" width=\"145\" height=\"26\" rx=\"5\" fill=\"#f1e4c6\" stroke=\"#a8792a\"/><text x=\"237\" y=\"53\" text-anchor=\"middle\" font-size=\"10\" fill=\"#1d2433\">2 divisions</text><rect x=\"165\" y=\"68\" width=\"145\" height=\"26\" rx=\"5\" fill=\"#f1e4c6\" stroke=\"#a8792a\"/><text x=\"237\" y=\"85\" text-anchor=\"middle\" font-size=\"10\" fill=\"#1d2433\">4 cells</text><rect x=\"165\" y=\"100\" width=\"145\" height=\"26\" rx=\"5\" fill=\"#f1e4c6\" stroke=\"#a8792a\"/><text x=\"237\" y=\"117\" text-anchor=\"middle\" font-size=\"10\" fill=\"#1d2433\">All different</text><rect x=\"165\" y=\"132\" width=\"145\" height=\"26\" rx=\"5\" fill=\"#f1e4c6\" stroke=\"#a8792a\"/><text x=\"237\" y=\"149\" text-anchor=\"middle\" font-size=\"10\" fill=\"#1d2433\">Gametes</text></svg>"
+  },
+  {
+   "tag": "Step by step",
+   "h": "When it goes wrong",
+   "b": "<p>Failure of chromosomes to separate (nondisjunction) gives extra or missing chromosomes. Down syndrome is trisomy 21 (Jerome Lejeune, 1959). Cancer arises when a cell ignores stop signals and divides without end.</p>"
+  },
+  {
+   "tag": "How we know",
+   "h": "Seeing chromosomes",
+   "b": "<p>Flemming stained and watched chromosomes in the 1880s. Theodor Boveri and Walter Sutton (c.1902) linked chromosomes to Mendel's factors. Joe Hin Tjio and Albert Levan (1956) fixed the human number at 46.</p>"
+  },
+  {
+   "tag": "Misconceptions",
+   "h": "Watch out",
+   "b": "<div class=\"box\"><h4>Fix these</h4><ul><li>Meiosis does not make identical cells.</li><li>Cells are not dividing all the time; most nerve cells stop.</li><li>Mitosis is not the same as cell growth; growth happens in interphase.</li></ul></div>"
+  },
+  {
+   "tag": "Indian angle",
+   "h": "Cancer care in India",
+   "b": "<p>India runs population screening for oral, breast and cervical cancer under its national non-communicable disease programme, and Tata Memorial Centre in Mumbai is a leading cancer research and treatment centre.</p>"
+  },
+  {
+   "tag": "Recap",
+   "h": "Key takeaways and questions",
+   "b": "<ul><li>Mitosis: 2n to two identical 2n cells.</li><li>Meiosis: 2n to four varied n cells.</li><li>Crossing over and independent assortment create variety.</li><li>Cancer is broken cell-cycle control.</li></ul><p><b>Think about it:</b></p><ol><li>Why would sexual reproduction be impossible without meiosis?</li><li>Why do identical twins still differ slightly?</li></ol>",
+   "cls": "exam"
+  }
+ ],
+ "quiz": [
+  {
+   "q": "Mitosis produces:",
+   "o": [
+    "4 haploid cells",
+    "2 identical diploid cells",
+    "2 haploid cells",
+    "1 cell"
+   ],
+   "a": 1,
+   "w": "2n to 2n."
+  },
+  {
+   "q": "Crossing over happens in:",
+   "o": [
+    "Metaphase of mitosis",
+    "Prophase I",
+    "Anaphase II",
+    "Telophase"
+   ],
+   "a": 1,
+   "w": "Prophase I."
+  },
+  {
+   "q": "DNA is copied in the:",
+   "o": [
+    "G1",
+    "S phase",
+    "M phase",
+    "G0 only"
+   ],
+   "a": 1,
+   "w": "S for synthesis."
+  },
+  {
+   "q": "Meiosis makes how many cells?",
+   "o": [
+    "2",
+    "4",
+    "8",
+    "1"
+   ],
+   "a": 1,
+   "w": "Four."
+  },
+  {
+   "q": "Human chromosome number is:",
+   "o": [
+    "23",
+    "44",
+    "46",
+    "48"
+   ],
+   "a": 2,
+   "w": "Tjio and Levan, 1956."
+  },
+  {
+   "q": "Down syndrome is:",
+   "o": [
+    "Monosomy",
+    "Trisomy 21",
+    "Deletion",
+    "Triploidy"
+   ],
+   "a": 1,
+   "w": "Extra 21."
+  },
+  {
+   "q": "In anaphase of mitosis:",
+   "o": [
+    "Chromosomes condense",
+    "Sister chromatids separate",
+    "Nuclear envelope forms",
+    "DNA copies"
+   ],
+   "a": 1,
+   "w": "They are pulled apart."
+  },
+  {
+   "q": "Checkpoints mainly:",
+   "o": [
+    "Speed up division",
+    "Check readiness and damage",
+    "Make ATP",
+    "Make gametes"
+   ],
+   "a": 1,
+   "w": "Quality control."
+  },
+  {
+   "q": "Independent assortment refers to:",
+   "o": [
+    "Swapping segments",
+    "Random sorting of chromosome pairs",
+    "Copying DNA",
+    "Cell fusion"
+   ],
+   "a": 1,
+   "w": "Random alignment."
+  },
+  {
+   "q": "Who linked chromosomes to heredity around 1902?",
+   "o": [
+    "Boveri and Sutton",
+    "Krebs",
+    "Calvin",
+    "Pasteur"
+   ],
+   "a": 0,
+   "w": "Chromosome theory."
+  }
+ ],
+ "sources": [
+  "NCERT Class 11 Biology",
+  "Campbell Biology"
+ ],
+ "verified": "2026-11-11"
+}

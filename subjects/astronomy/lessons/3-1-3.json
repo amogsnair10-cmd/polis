@@ -1,0 +1,177 @@
+{
+ "id": "3-1-3",
+ "title": "Gravitational Waves and Multi-Messenger Astronomy",
+ "emoji": "〰️",
+ "cards": [
+  {
+   "tag": "Why this matters",
+   "h": "A new sense for the universe",
+   "b": "<p>For all of history we studied the universe with light. In 2015 we heard it for the first time: ripples in space-time itself. Combined with light, neutrinos and particles, this gives astronomers several 'senses' at once, called multi-messenger astronomy.</p>"
+  },
+  {
+   "tag": "Concept",
+   "h": "What are gravitational waves?",
+   "b": "<p>Einstein's general relativity (1915) says mass bends space-time. In 1916 he predicted that accelerating masses, such as two orbiting black holes, send out ripples that travel at the speed of light. Picture a heavy ball bouncing on a trampoline: waves spread out. The ripples stretch and squeeze space as they pass.</p><svg class=\"d\" viewBox=\"0 0 320 120\"><defs><marker id=\"ar1\" viewBox=\"0 0 10 10\" refX=\"9\" refY=\"5\" markerWidth=\"6\" markerHeight=\"6\" orient=\"auto\"><path d=\"M0 0L10 5L0 10z\" fill=\"#5d6474\"/></marker></defs><rect x=\"5\" y=\"40\" width=\"70\" height=\"36\" rx=\"5\" fill=\"#f4dcd5\" stroke=\"#a3362a\"/><text x=\"40.0\" y=\"56.0\" text-anchor=\"middle\" font-size=\"11\" fill=\"#1d2433\">Two black</text><text x=\"40.0\" y=\"69.0\" text-anchor=\"middle\" font-size=\"11\" fill=\"#1d2433\">holes spiral</text><line x1=\"75\" y1=\"58\" x2=\"110\" y2=\"58\" stroke=\"#5d6474\" stroke-width=\"1.5\" marker-end=\"url(#ar1)\"/><rect x=\"110\" y=\"40\" width=\"70\" height=\"36\" rx=\"5\" fill=\"#f1e4c6\" stroke=\"#a8792a\"/><text x=\"145.0\" y=\"56.0\" text-anchor=\"middle\" font-size=\"11\" fill=\"#1d2433\">Space-time</text><text x=\"145.0\" y=\"69.0\" text-anchor=\"middle\" font-size=\"11\" fill=\"#1d2433\">ripples</text><line x1=\"180\" y1=\"58\" x2=\"215\" y2=\"58\" stroke=\"#5d6474\" stroke-width=\"1.5\" marker-end=\"url(#ar1)\"/><rect x=\"215\" y=\"40\" width=\"100\" height=\"36\" rx=\"5\" fill=\"#dceaec\" stroke=\"#2f6f7a\"/><text x=\"265.0\" y=\"56.0\" text-anchor=\"middle\" font-size=\"11\" fill=\"#1d2433\">LIGO arms change</text><text x=\"265.0\" y=\"69.0\" text-anchor=\"middle\" font-size=\"11\" fill=\"#1d2433\">by 1/10,000 proton</text><text x=\"160\" y=\"105\" text-anchor=\"middle\" font-size=\"10\" fill=\"#5d6474\">GW150914: 14 Sept 2015</text></svg>"
+  },
+  {
+   "tag": "Concept",
+   "h": "Indirect proof first",
+   "b": "<p>In 1974 Russell Hulse and Joseph Taylor found a binary pulsar whose orbit shrinks exactly as fast as relativity predicts if it loses energy to gravitational waves (Nobel 1993). The waves themselves were still unseen.</p>"
+  },
+  {
+   "tag": "Concept",
+   "h": "LIGO and the first detection",
+   "b": "<p>LIGO has two L-shaped detectors with 4 km arms in Hanford and Livingston, USA. Laser light bounces along each arm; a passing wave changes the arm lengths by about 10^-21 of their size, much less than a proton's width. On <b>14 September 2015</b>, both detected <b>GW150914</b>: two black holes of about 36 and 29 Suns merging 1.3 billion light-years away. It was announced in February 2016. Weiss, Barish and Thorne won the 2017 Nobel Prize. Virgo (Italy) and KAGRA (Japan) joined the network.</p>"
+  },
+  {
+   "tag": "Concept",
+   "h": "The neutron star merger of 2017",
+   "b": "<p>On <b>17 August 2017</b>, detectors heard <b>GW170817</b>, two neutron stars merging. Within 1.7 seconds a gamma-ray burst was seen, then telescopes worldwide saw a glowing <b>kilonova</b> in the galaxy NGC 4993. It showed that gravity travels at the speed of light and that such mergers forge gold and platinum.</p>"
+  },
+  {
+   "tag": "Concept",
+   "h": "Many messengers",
+   "b": "<p><b>Multi-messenger astronomy</b> combines light, gravitational waves, neutrinos and cosmic rays. SN 1987A's neutrinos arrived hours before its light. In 2017 IceCube detected a high-energy neutrino from the blazar TXS 0506+056 together with gamma rays. Each messenger tells a different part of the story.</p>"
+  },
+  {
+   "tag": "How we know",
+   "h": "Listening to the background",
+   "b": "<p>Pulsar timing arrays watch the ticks of millisecond pulsars. In June 2023 several teams (NANOGrav, EPTA, InPTA, PPTA) reported evidence of a low-frequency gravitational wave background, likely from supermassive black hole pairs. ESA's <b>LISA</b> space detector is planned for the 2030s to hear such mergers directly.</p>"
+  },
+  {
+   "tag": "Misconceptions",
+   "h": "Common slips",
+   "b": "<ul><li><b>'LIGO sees waves like a telescope.'</b> It listens; there is no image.</li><li><b>'Gravitational waves are light waves.'</b> They are ripples in space-time itself.</li><li><b>'They are dangerous.'</b> By the time they reach us, they are fantastically weak.</li></ul>"
+  },
+  {
+   "tag": "Indian angle",
+   "h": "LIGO-India and InPTA",
+   "b": "<p>Indian scientists (IndIGO consortium, IUCAA, RRCAT, IPR) are members of the LIGO collaboration. <b>LIGO-India</b>, a third LIGO detector planned at Aundha in Hingoli district, Maharashtra, received government approval in April 2023. It will sharpen sky localisation of sources. The <b>uGMRT</b> and the Indian Pulsar Timing Array took part in the 2023 announcement, and AstroSat's CZTI searched for X-ray counterparts of GW events.</p>"
+  },
+  {
+   "tag": "Recap",
+   "h": "Key takeaways",
+   "b": "<ul><li>Gravitational waves are ripples in space-time from accelerating masses, predicted in 1916.</li><li>LIGO detected the first on 14 September 2015 from merging black holes.</li><li>GW170817 combined waves with light and proved gravity travels at c.</li><li>LIGO-India and pulsar timing add Indian contributions.</li></ul><p><b>Think about it:</b> (1) Why do we need several detectors around the world? (2) What could waves tell us that light cannot?</p>",
+   "cls": "exam"
+  }
+ ],
+ "quiz": [
+  {
+   "q": "Who predicted gravitational waves?",
+   "o": [
+    "Einstein",
+    "Newton",
+    "Hubble",
+    "Penrose"
+   ],
+   "a": 0,
+   "w": "1916."
+  },
+  {
+   "q": "GW150914 was caused by:",
+   "o": [
+    "Two merging black holes",
+    "Two neutron stars",
+    "A supernova",
+    "A pulsar"
+   ],
+   "a": 0,
+   "w": "About 36 and 29 Suns."
+  },
+  {
+   "q": "LIGO has arms of length:",
+   "o": [
+    "4 km",
+    "4 m",
+    "40 km",
+    "400 km"
+   ],
+   "a": 0,
+   "w": "Two sites in the USA."
+  },
+  {
+   "q": "The first detection was on:",
+   "o": [
+    "14 September 2015",
+    "17 August 2017",
+    "1 January 2000",
+    "11 February 2016"
+   ],
+   "a": 0,
+   "w": "Announced February 2016."
+  },
+  {
+   "q": "GW170817 proved:",
+   "o": [
+    "Gravity travels at light speed",
+    "Dark matter exists",
+    "Planets form",
+    "The Big Bang"
+   ],
+   "a": 0,
+   "w": "Gamma ray burst 1.7 s later."
+  },
+  {
+   "q": "Heavy elements such as gold are made in:",
+   "o": [
+    "Neutron star mergers",
+    "Sun's core",
+    "Comets",
+    "Black holes"
+   ],
+   "a": 0,
+   "w": "The kilonova."
+  },
+  {
+   "q": "Hulse and Taylor's pulsar provided:",
+   "o": [
+    "Indirect evidence",
+    "Direct detection",
+    "Dark matter",
+    "None"
+   ],
+   "a": 0,
+   "w": "Orbit decay."
+  },
+  {
+   "q": "LIGO-India is planned in:",
+   "o": [
+    "Hingoli, Maharashtra",
+    "Hanle",
+    "Pune city",
+    "Ooty"
+   ],
+   "a": 0,
+   "w": "At Aundha."
+  },
+  {
+   "q": "Multi-messenger astronomy combines:",
+   "o": [
+    "Light, neutrinos, gravitational waves",
+    "Only radio",
+    "Only X-rays",
+    "Only planets"
+   ],
+   "a": 0,
+   "w": "Different carriers of information."
+  },
+  {
+   "q": "The 2023 pulsar timing results suggested:",
+   "o": [
+    "A gravitational wave background",
+    "Dark energy change",
+    "New planets",
+    "A comet"
+   ],
+   "a": 0,
+   "w": "Likely supermassive black hole pairs."
+  }
+ ],
+ "sources": [
+  "LIGO 2016",
+  "GW170817",
+  "NANOGrav 2023",
+  "LIGO-India approval 2023"
+ ],
+ "verified": "2026-11-11"
+}

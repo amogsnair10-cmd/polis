@@ -1,0 +1,175 @@
+{
+ "id": "4-0-1",
+ "title": "The Space Race and Apollo",
+ "emoji": "🌕",
+ "cards": [
+  {
+   "tag": "Why this matters",
+   "h": "A race that reached the Moon",
+   "b": "<p>In just 12 years, from the first satellite to the first footprints, human technology leapt from nothing to the Moon. It was driven by Cold War rivalry, and it gave us satellites, new materials, and the famous photograph of Earth from afar.</p><svg class=\"d\" viewBox=\"0 0 320 120\"><defs><marker id=\"ar1\" viewBox=\"0 0 10 10\" refX=\"9\" refY=\"5\" markerWidth=\"6\" markerHeight=\"6\" orient=\"auto\"><path d=\"M0 0L10 5L0 10z\" fill=\"#5d6474\"/></marker></defs><rect x=\"5\" y=\"40\" width=\"60\" height=\"36\" rx=\"5\" fill=\"#dceaec\" stroke=\"#2f6f7a\"/><text x=\"35.0\" y=\"56.0\" text-anchor=\"middle\" font-size=\"11\" fill=\"#1d2433\">1957</text><text x=\"35.0\" y=\"69.0\" text-anchor=\"middle\" font-size=\"11\" fill=\"#1d2433\">Sputnik</text><rect x=\"70\" y=\"40\" width=\"60\" height=\"36\" rx=\"5\" fill=\"#dceaec\" stroke=\"#2f6f7a\"/><text x=\"100.0\" y=\"56.0\" text-anchor=\"middle\" font-size=\"11\" fill=\"#1d2433\">1961</text><text x=\"100.0\" y=\"69.0\" text-anchor=\"middle\" font-size=\"11\" fill=\"#1d2433\">Gagarin</text><rect x=\"135\" y=\"40\" width=\"60\" height=\"36\" rx=\"5\" fill=\"#dceaec\" stroke=\"#2f6f7a\"/><text x=\"165.0\" y=\"56.0\" text-anchor=\"middle\" font-size=\"11\" fill=\"#1d2433\">1965</text><text x=\"165.0\" y=\"69.0\" text-anchor=\"middle\" font-size=\"11\" fill=\"#1d2433\">Spacewalk</text><rect x=\"200\" y=\"40\" width=\"60\" height=\"36\" rx=\"5\" fill=\"#f1e4c6\" stroke=\"#a8792a\"/><text x=\"230.0\" y=\"56.0\" text-anchor=\"middle\" font-size=\"11\" fill=\"#1d2433\">1969</text><text x=\"230.0\" y=\"69.0\" text-anchor=\"middle\" font-size=\"11\" fill=\"#1d2433\">Apollo 11</text><rect x=\"265\" y=\"40\" width=\"50\" height=\"36\" rx=\"5\" fill=\"#f4dcd5\" stroke=\"#a3362a\"/><text x=\"290.0\" y=\"56.0\" text-anchor=\"middle\" font-size=\"11\" fill=\"#1d2433\">1972</text><text x=\"290.0\" y=\"69.0\" text-anchor=\"middle\" font-size=\"11\" fill=\"#1d2433\">Apollo 17</text><text x=\"160\" y=\"100\" text-anchor=\"middle\" font-size=\"10\" fill=\"#5d6474\">Twelve years from first satellite to the Moon</text></svg>"
+  },
+  {
+   "tag": "Concept",
+   "h": "Sputnik and the shock",
+   "b": "<p>On <b>4 October 1957</b> the USSR launched <b>Sputnik 1</b>, a 58 cm beeping sphere, the first artificial satellite. A month later <b>Laika</b> became the first animal in orbit. The USA launched <b>Explorer 1</b> in January 1958 and founded NASA that year.</p>"
+  },
+  {
+   "tag": "Concept",
+   "h": "First humans in space",
+   "b": "<p><b>Yuri Gagarin</b> orbited Earth on <b>12 April 1961</b> in Vostok 1, the first human in space. Alan Shepard followed in May as the first American. <b>Valentina Tereshkova</b> became the first woman in space in 1963; <b>Alexei Leonov</b> made the first spacewalk in 1965.</p>"
+  },
+  {
+   "tag": "Concept",
+   "h": "The Moon goal",
+   "b": "<p>In May 1961 President Kennedy committed the USA to landing a man on the Moon before the decade ended. Gemini missions tested rendezvous and docking. The <b>Saturn V</b>, 110 m tall, remains the most powerful rocket flown to orbit. A tragic fire killed three Apollo 1 astronauts in January 1967.</p>"
+  },
+  {
+   "tag": "Concept",
+   "h": "Apollo 11 (July 1969)",
+   "b": "<p>On <b>20 July 1969</b> the lunar module Eagle landed in the Sea of Tranquility. <b>Neil Armstrong</b> and <b>Buzz Aldrin</b> walked on the Moon while <b>Michael Collins</b> orbited above. Six missions landed between 1969 and 1972; twelve people walked on the Moon, and the last was Apollo 17 in December 1972. Apollo 13 (1970) suffered an explosion yet returned safely.</p>"
+  },
+  {
+   "tag": "Concept",
+   "h": "Why it ended, what remained",
+   "b": "<p>After the goal was reached, cost and attention faded. The USSR never landed. The superpowers moved to space stations (Salyut, Skylab, Mir) and cooperation, the <b>Apollo-Soyuz</b> link in 1975. The <b>Outer Space Treaty</b> (1967) bans nuclear weapons in orbit and national claims on celestial bodies.</p>"
+  },
+  {
+   "tag": "How we know",
+   "h": "Moon rocks and reflectors",
+   "b": "<p>Apollo brought back 382 kg of lunar samples, giving the Moon's age and the giant-impact clues. Mirrors left on the surface still let lasers measure the Earth-Moon distance to millimetres, showing the Moon recedes about 3.8 cm a year. Independent tracking by other nations confirmed the missions.</p>"
+  },
+  {
+   "tag": "Misconceptions",
+   "h": "Settled facts",
+   "b": "<ul><li><b>'The Moon landing was faked.'</b> The evidence, including samples, reflectors and tracking by the USSR, is overwhelming.</li><li><b>'Flags wave in wind.'</b> A rod held it out; there is no air.</li><li><b>'Stars missing in photos.'</b> Exposure was set for bright sunlit ground.</li></ul>"
+  },
+  {
+   "tag": "Indian angle",
+   "h": "Rakesh Sharma and Aryabhata",
+   "b": "<p>India's first satellite <b>Aryabhata</b> was launched by a Soviet rocket on 19 April 1975 under the Intercosmos programme. On <b>3 April 1984</b>, Squadron Leader <b>Rakesh Sharma</b> flew on Soyuz T-11 and spent about eight days in orbit on Salyut 7, the first Indian in space. Asked how India looked from space, he replied 'Saare jahan se achha'. India has since built its own launchers and now its own crewed programme.</p>"
+  },
+  {
+   "tag": "Recap",
+   "h": "Key takeaways",
+   "b": "<ul><li>Sputnik (1957) and Gagarin (1961) opened the space age.</li><li>Apollo 11 landed on 20 July 1969; six landings, twelve walkers, ending in 1972.</li><li>The Outer Space Treaty (1967) governs space activity.</li><li>Rakesh Sharma (1984) was India's first astronaut.</li></ul><p><b>Think about it:</b> (1) How did rivalry speed up technology? (2) Why was the Outer Space Treaty necessary?</p>",
+   "cls": "exam"
+  }
+ ],
+ "quiz": [
+  {
+   "q": "The first artificial satellite was:",
+   "o": [
+    "Sputnik 1",
+    "Explorer 1",
+    "Aryabhata",
+    "Telstar"
+   ],
+   "a": 0,
+   "w": "4 October 1957."
+  },
+  {
+   "q": "First human in space:",
+   "o": [
+    "Yuri Gagarin",
+    "Alan Shepard",
+    "Neil Armstrong",
+    "Rakesh Sharma"
+   ],
+   "a": 0,
+   "w": "12 April 1961."
+  },
+  {
+   "q": "Apollo 11 landed on:",
+   "o": [
+    "20 July 1969",
+    "12 April 1961",
+    "21 Dec 1968",
+    "7 Dec 1972"
+   ],
+   "a": 0,
+   "w": "Sea of Tranquility."
+  },
+  {
+   "q": "How many people have walked on the Moon?",
+   "o": [
+    "12",
+    "2",
+    "6",
+    "24"
+   ],
+   "a": 0,
+   "w": "Six missions."
+  },
+  {
+   "q": "The last Apollo landing was:",
+   "o": [
+    "Apollo 17",
+    "Apollo 13",
+    "Apollo 11",
+    "Apollo 12"
+   ],
+   "a": 0,
+   "w": "December 1972."
+  },
+  {
+   "q": "The Saturn V was used to:",
+   "o": [
+    "Send Apollo to the Moon",
+    "Launch Sputnik",
+    "Orbit Mir",
+    "Launch Aryabhata"
+   ],
+   "a": 0,
+   "w": "The giant rocket."
+  },
+  {
+   "q": "The Outer Space Treaty was signed in:",
+   "o": [
+    "1967",
+    "1957",
+    "1972",
+    "1984"
+   ],
+   "a": 0,
+   "w": "Bans national claims on the Moon."
+  },
+  {
+   "q": "India's first astronaut was:",
+   "o": [
+    "Rakesh Sharma",
+    "Kalpana Chawla",
+    "Sunita Williams",
+    "Shubhanshu Shukla"
+   ],
+   "a": 0,
+   "w": "3 April 1984."
+  },
+  {
+   "q": "Aryabhata was launched by:",
+   "o": [
+    "A Soviet rocket",
+    "PSLV",
+    "SLV-3",
+    "Ariane"
+   ],
+   "a": 0,
+   "w": "19 April 1975."
+  },
+  {
+   "q": "Lunar laser reflectors show the Moon is:",
+   "o": [
+    "Receding slowly",
+    "Approaching",
+    "Fixed",
+    "Shrinking"
+   ],
+   "a": 0,
+   "w": "About 3.8 cm per year."
+  }
+ ],
+ "sources": [
+  "NASA Apollo archive",
+  "Outer Space Treaty 1967"
+ ],
+ "verified": "2026-11-11"
+}

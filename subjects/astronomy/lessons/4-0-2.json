@@ -1,0 +1,177 @@
+{
+ "id": "4-0-2",
+ "title": "ISRO: From Aryabhata to Chandrayaan and Aditya",
+ "emoji": "🇮🇳",
+ "cards": [
+  {
+   "tag": "Why this matters",
+   "h": "A frugal space power",
+   "b": "<p>India began with a rocket carried on a bicycle and now lands on the Moon. ISRO is known for low-cost, application-first space work: satellites for communication, weather and farming, then planetary science.</p><svg class=\"d\" viewBox=\"0 0 320 110\"><defs><marker id=\"ar1\" viewBox=\"0 0 10 10\" refX=\"9\" refY=\"5\" markerWidth=\"6\" markerHeight=\"6\" orient=\"auto\"><path d=\"M0 0L10 5L0 10z\" fill=\"#5d6474\"/></marker></defs><rect x=\"5\" y=\"35\" width=\"60\" height=\"36\" rx=\"5\" fill=\"#dceaec\" stroke=\"#2f6f7a\"/><text x=\"35.0\" y=\"51.0\" text-anchor=\"middle\" font-size=\"11\" fill=\"#1d2433\">1975</text><text x=\"35.0\" y=\"64.0\" text-anchor=\"middle\" font-size=\"11\" fill=\"#1d2433\">Aryabhata</text><rect x=\"70\" y=\"35\" width=\"60\" height=\"36\" rx=\"5\" fill=\"#dceaec\" stroke=\"#2f6f7a\"/><text x=\"100.0\" y=\"51.0\" text-anchor=\"middle\" font-size=\"11\" fill=\"#1d2433\">2008</text><text x=\"100.0\" y=\"64.0\" text-anchor=\"middle\" font-size=\"11\" fill=\"#1d2433\">Chandrayaan-1</text><rect x=\"135\" y=\"35\" width=\"60\" height=\"36\" rx=\"5\" fill=\"#dceaec\" stroke=\"#2f6f7a\"/><text x=\"165.0\" y=\"51.0\" text-anchor=\"middle\" font-size=\"11\" fill=\"#1d2433\">2014</text><text x=\"165.0\" y=\"64.0\" text-anchor=\"middle\" font-size=\"11\" fill=\"#1d2433\">Mars orbit</text><rect x=\"200\" y=\"35\" width=\"60\" height=\"36\" rx=\"5\" fill=\"#f1e4c6\" stroke=\"#a8792a\"/><text x=\"230.0\" y=\"51.0\" text-anchor=\"middle\" font-size=\"11\" fill=\"#1d2433\">2023</text><text x=\"230.0\" y=\"64.0\" text-anchor=\"middle\" font-size=\"11\" fill=\"#1d2433\">Moon south pole</text><rect x=\"265\" y=\"35\" width=\"50\" height=\"36\" rx=\"5\" fill=\"#f4dcd5\" stroke=\"#a3362a\"/><text x=\"290.0\" y=\"51.0\" text-anchor=\"middle\" font-size=\"11\" fill=\"#1d2433\">2023</text><text x=\"290.0\" y=\"64.0\" text-anchor=\"middle\" font-size=\"11\" fill=\"#1d2433\">Aditya-L1</text><text x=\"160\" y=\"98\" text-anchor=\"middle\" font-size=\"10\" fill=\"#5d6474\">Milestones of ISRO</text></svg>"
+  },
+  {
+   "tag": "Concept",
+   "h": "Foundations",
+   "b": "<p><b>Vikram Sarabhai</b> started INCOSPAR in 1962; ISRO was formed on 15 August 1969, and the Department of Space in 1972. First satellite <b>Aryabhata</b> (19 April 1975), then <b>Bhaskara</b> (1979), and <b>SLV-3</b> (1980) put Rohini in orbit, making India the sixth country with orbital launch ability.</p>"
+  },
+  {
+   "tag": "Concept",
+   "h": "Services to the people",
+   "b": "<p>The <b>INSAT</b> series (from 1982) gave communications, television and weather forecasting. The <b>IRS</b> series (from 1988) images land and water for farming, forests and disasters. <b>NavIC</b> is India's regional navigation system, and <b>EDUSAT</b> served education. The <b>PSLV</b> (operational 1994) launched <b>104 satellites in one mission</b> on 15 February 2017.</p>"
+  },
+  {
+   "tag": "Concept",
+   "h": "Moon missions",
+   "b": "<p><b>Chandrayaan-1</b> (22 October 2008) found water molecules on the Moon. <b>Chandrayaan-2</b> (July 2019) orbiter works, but its Vikram lander crashed on 7 September 2019. <b>Chandrayaan-3</b> launched on 14 July 2023 and landed near the lunar south pole on <b>23 August 2023</b>, making India the fourth country to soft-land on the Moon and the first near the south pole. 23 August is celebrated as National Space Day. <b>Chandrayaan-4</b> (a sample return mission) was approved in 2024.</p>"
+  },
+  {
+   "tag": "Concept",
+   "h": "Mars, Sun and eyes on the cosmos",
+   "b": "<p><b>Mangalyaan</b> reached Mars orbit on 24 September 2014 on its first try. <b>AstroSat</b> (28 September 2015) is India's multi-wavelength space observatory. <b>Aditya-L1</b> launched 2 September 2023, reached its L1 halo orbit on 6 January 2024. <b>XPoSat</b> (1 January 2024) studies X-ray polarisation from black holes and neutron stars.</p>"
+  },
+  {
+   "tag": "Concept",
+   "h": "New frontiers",
+   "b": "<p><b>SpaDeX</b> (launched December 2024) achieved India's first in-orbit docking in January 2025, making India the fourth country to do so. <b>NISAR</b>, a NASA-ISRO radar satellite, launched in 2025 to map Earth's surface changes. <b>Gaganyaan</b> aims to send three Indian astronauts to about 400 km for three days, with uncrewed test flights first. Group Captain <b>Shubhanshu Shukla</b> flew to the ISS on Axiom-4 in 2025. A <b>Bharatiya Antariksh Station</b> is planned, with a Venus orbiter mission and an Indian on the Moon by 2040 as goals.</p>"
+  },
+  {
+   "tag": "How we know",
+   "h": "Success and failure",
+   "b": "<p>ISRO's record includes failures: PSLV's first flight (1993) failed, and Chandrayaan-2's lander crashed. Each analysis fed back: Chandrayaan-3 used a redesigned lander with a larger landing zone, and succeeded. The <b>Pragyan</b> rover measured surface temperature, found sulphur, and the lander detected moonquakes.</p>"
+  },
+  {
+   "tag": "Misconceptions",
+   "h": "Clearing up",
+   "b": "<ul><li><b>'Low cost means low quality.'</b> Frugality comes from reuse of design, a skilled workforce and lower labour cost.</li><li><b>'Chandrayaan-3 landed at the pole.'</b> It landed about 69 degrees south, near it, the nearest any soft landing had come.</li><li><b>'ISRO only builds rockets.'</b> Most work is applications for daily life.</li></ul>"
+  },
+  {
+   "tag": "Indian angle",
+   "h": "The policy shift",
+   "b": "<p>In 2020 the government opened the sector with <b>IN-SPACe</b> to authorise private players, and <b>NSIL</b> commercialises ISRO technology. <b>Skyroot</b>'s Vikram-S (November 2022) was India's first privately built rocket to fly, and <b>Agnikul</b> launched from its own private pad in 2024.</p>"
+  },
+  {
+   "tag": "Recap",
+   "h": "Key takeaways",
+   "b": "<ul><li>ISRO began 1962 to 1969 and launched Aryabhata in 1975.</li><li>Services: INSAT, IRS, NavIC; workhorse PSLV; heavy lifter LVM3.</li><li>Missions: Chandrayaan-3 (2023, south pole), Mangalyaan (2014), Aditya-L1 (2023), AstroSat (2015).</li><li>Next: Gaganyaan, docking, a space station, private industry.</li></ul><p><b>Think about it:</b> (1) Why does a south-pole landing matter? (2) How can private firms help ISRO?</p>",
+   "cls": "exam"
+  }
+ ],
+ "quiz": [
+  {
+   "q": "India's first satellite was:",
+   "o": [
+    "Aryabhata",
+    "Bhaskara",
+    "Rohini",
+    "INSAT-1A"
+   ],
+   "a": 0,
+   "w": "1975."
+  },
+  {
+   "q": "Chandrayaan-3 landed on:",
+   "o": [
+    "23 August 2023",
+    "22 October 2008",
+    "7 September 2019",
+    "2 September 2023"
+   ],
+   "a": 0,
+   "w": "National Space Day."
+  },
+  {
+   "q": "Mangalyaan reached Mars orbit on:",
+   "o": [
+    "24 September 2014",
+    "5 November 2013",
+    "23 August 2023",
+    "15 February 2017"
+   ],
+   "a": 0,
+   "w": "First attempt."
+  },
+  {
+   "q": "Aditya-L1 studies:",
+   "o": [
+    "The Sun",
+    "Mars",
+    "Venus",
+    "Jupiter"
+   ],
+   "a": 0,
+   "w": "From the L1 point."
+  },
+  {
+   "q": "AstroSat was launched in:",
+   "o": [
+    "2015",
+    "2008",
+    "2023",
+    "1999"
+   ],
+   "a": 0,
+   "w": "28 September 2015."
+  },
+  {
+   "q": "PSLV launched 104 satellites in one flight in:",
+   "o": [
+    "2017",
+    "2005",
+    "2023",
+    "1994"
+   ],
+   "a": 0,
+   "w": "15 February 2017."
+  },
+  {
+   "q": "SpaDeX demonstrated:",
+   "o": [
+    "In-orbit docking",
+    "Moon landing",
+    "Mars landing",
+    "Solar probe"
+   ],
+   "a": 0,
+   "w": "January 2025."
+  },
+  {
+   "q": "Gaganyaan aims to send astronauts to about:",
+   "o": [
+    "400 km",
+    "36,000 km",
+    "1.5 million km",
+    "100 km"
+   ],
+   "a": 0,
+   "w": "Low Earth orbit."
+  },
+  {
+   "q": "IN-SPACe was created to:",
+   "o": [
+    "Authorise private space activity",
+    "Launch satellites",
+    "Build rockets only",
+    "Study the Sun"
+   ],
+   "a": 0,
+   "w": "2020 reform."
+  },
+  {
+   "q": "Chandrayaan-1 is noted for:",
+   "o": [
+    "Evidence of lunar water",
+    "Landing near the pole",
+    "Mars imaging",
+    "Sun images"
+   ],
+   "a": 0,
+   "w": "Moon Mineralogy Mapper and MIP."
+  }
+ ],
+ "sources": [
+  "ISRO official",
+  "Chandrayaan-3 mission",
+  "Aditya-L1",
+  "SpaDeX Jan 2025"
+ ],
+ "verified": "2026-11-11"
+}

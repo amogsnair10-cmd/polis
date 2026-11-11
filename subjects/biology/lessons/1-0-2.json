@@ -1,0 +1,175 @@
+{
+ "id": "1-0-2",
+ "title": "From Gene to Protein",
+ "emoji": "🧪",
+ "cards": [
+  {
+   "tag": "Why this matters",
+   "h": "Recipe to dish",
+   "b": "<p>DNA is a recipe book kept safely in the nucleus. Proteins are the dishes: enzymes, muscle, antibodies, haemoglobin. How a recipe becomes a dish is the central dogma of biology, stated by Francis Crick in 1958: DNA to RNA to protein.</p>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "The central dogma",
+   "b": "<p>Cells copy a gene into a messenger (mRNA), then read the mRNA to build a protein.</p><svg class=\"d\" viewBox=\"0 0 320 172\"><defs><marker id=\"g1\" viewBox=\"0 0 10 10\" refX=\"8\" refY=\"5\" markerWidth=\"6\" markerHeight=\"6\" orient=\"auto\"><path d=\"M0 0L10 5L0 10z\" fill=\"#5d6474\"/></marker></defs><rect x=\"20\" y=\"6\" width=\"280\" height=\"28\" rx=\"6\" fill=\"#f1e4c6\" stroke=\"#a8792a\"/><text x=\"160\" y=\"24\" text-anchor=\"middle\" font-size=\"11\" fill=\"#1d2433\">DNA (gene in nucleus)</text><line x1=\"160\" y1=\"34\" x2=\"160\" y2=\"50\" stroke=\"#5d6474\" stroke-width=\"1.5\" marker-end=\"url(#g1)\"/><rect x=\"20\" y=\"50\" width=\"280\" height=\"28\" rx=\"6\" fill=\"#dceaec\" stroke=\"#2f6f7a\"/><text x=\"160\" y=\"68\" text-anchor=\"middle\" font-size=\"11\" fill=\"#1d2433\">Transcription: mRNA made</text><line x1=\"160\" y1=\"78\" x2=\"160\" y2=\"94\" stroke=\"#5d6474\" stroke-width=\"1.5\" marker-end=\"url(#g1)\"/><rect x=\"20\" y=\"94\" width=\"280\" height=\"28\" rx=\"6\" fill=\"#f1e4c6\" stroke=\"#a8792a\"/><text x=\"160\" y=\"112\" text-anchor=\"middle\" font-size=\"11\" fill=\"#1d2433\">mRNA moves to ribosome</text><line x1=\"160\" y1=\"122\" x2=\"160\" y2=\"138\" stroke=\"#5d6474\" stroke-width=\"1.5\" marker-end=\"url(#g1)\"/><rect x=\"20\" y=\"138\" width=\"280\" height=\"28\" rx=\"6\" fill=\"#dceaec\" stroke=\"#2f6f7a\"/><text x=\"160\" y=\"156\" text-anchor=\"middle\" font-size=\"11\" fill=\"#1d2433\">Translation: protein built</text></svg>"
+  },
+  {
+   "tag": "Step by step",
+   "h": "RNA vs DNA",
+   "b": "<p>RNA has ribose sugar, uses uracil (U) instead of T, and is usually single-stranded. Types: <b>mRNA</b> (message), <b>tRNA</b> (carries amino acids), <b>rRNA</b> (part of ribosomes).</p>"
+  },
+  {
+   "tag": "Step by step",
+   "h": "Transcription",
+   "b": "<ol><li>RNA polymerase binds a <b>promoter</b>.</li><li>It reads one DNA strand and builds mRNA.</li><li>In eukaryotes, the raw copy is edited: a cap and tail are added and <b>introns</b> are cut out, leaving <b>exons</b> (splicing).</li></ol>"
+  },
+  {
+   "tag": "Step by step",
+   "h": "The genetic code",
+   "b": "<p>Every three bases (a <b>codon</b>) specify one amino acid. There are 64 codons: 61 code for 20 amino acids, AUG means start (methionine), and UAA, UAG, UGA mean stop. The code is nearly universal and redundant. Nirenberg and Matthaei cracked the first codon (UUU = phenylalanine) in 1961; Khorana made synthetic RNAs to decode the rest.</p>"
+  },
+  {
+   "tag": "Step by step",
+   "h": "Translation",
+   "b": "<ol><li>Ribosome attaches to mRNA and finds AUG.</li><li>tRNA with a matching <b>anticodon</b> brings its amino acid.</li><li>The ribosome links amino acids with peptide bonds and moves on.</li><li>At a stop codon, the chain is released and folds into a protein.</li></ol>"
+  },
+  {
+   "tag": "How we know",
+   "h": "Proof of the code",
+   "b": "<p>Beadle and Tatum (1941), working on bread mould, proposed one gene, one enzyme. Brenner, Crick and colleagues (1961) showed the code reads in triplets. Marshall Nirenberg, Khorana and Robert Holley shared the 1968 Nobel. Reverse transcriptase (Temin and Baltimore, 1970) showed RNA can also be copied into DNA, as in HIV.</p>"
+  },
+  {
+   "tag": "Misconceptions",
+   "h": "Watch out",
+   "b": "<div class=\"box\"><h4>Fix these</h4><ul><li>Codon (on mRNA) and anticodon (on tRNA) are different things.</li><li>Not all DNA codes for proteins; much is regulatory or non-coding.</li><li>The code is redundant, not ambiguous: one codon never gives two amino acids.</li></ul></div>"
+  },
+  {
+   "tag": "Indian angle",
+   "h": "Khorana and sickle cell",
+   "b": "<p>Khorana's synthetic RNA experiments in the 1960s completed the decoding. In sickle cell disease, one base change (A to T) swaps one amino acid in haemoglobin (glutamic acid to valine), a disease that affects many tribal communities in India.</p>"
+  },
+  {
+   "tag": "Recap",
+   "h": "Key takeaways and questions",
+   "b": "<ul><li>DNA to mRNA (transcription) to protein (translation).</li><li>Codons of three bases; AUG starts, three stop codons end.</li><li>Eukaryotic mRNA is spliced before use.</li></ul><p><b>Think about it:</b></p><ol><li>Translate DNA TAC into the mRNA codon and anticodon.</li><li>Why is a near-universal code evidence of common ancestry?</li></ol>",
+   "cls": "exam"
+  }
+ ],
+ "quiz": [
+  {
+   "q": "Transcription makes:",
+   "o": [
+    "Protein",
+    "mRNA",
+    "DNA",
+    "Lipid"
+   ],
+   "a": 1,
+   "w": "mRNA."
+  },
+  {
+   "q": "Start codon is:",
+   "o": [
+    "UAA",
+    "AUG",
+    "UUU",
+    "GGG"
+   ],
+   "a": 1,
+   "w": "AUG."
+  },
+  {
+   "q": "Which brings amino acids to the ribosome?",
+   "o": [
+    "mRNA",
+    "tRNA",
+    "rRNA",
+    "DNA"
+   ],
+   "a": 1,
+   "w": "tRNA."
+  },
+  {
+   "q": "Introns are:",
+   "o": [
+    "Kept in mRNA",
+    "Removed by splicing",
+    "Stop codons",
+    "Promoters"
+   ],
+   "a": 1,
+   "w": "Non-coding parts."
+  },
+  {
+   "q": "Codon length:",
+   "o": [
+    "2 bases",
+    "3 bases",
+    "4 bases",
+    "20 bases"
+   ],
+   "a": 1,
+   "w": "Triplet."
+  },
+  {
+   "q": "RNA contains base:",
+   "o": [
+    "Thymine",
+    "Uracil",
+    "Both",
+    "Neither"
+   ],
+   "a": 1,
+   "w": "Uracil."
+  },
+  {
+   "q": "Central dogma was named by:",
+   "o": [
+    "Crick",
+    "Mendel",
+    "Watson",
+    "Calvin"
+   ],
+   "a": 0,
+   "w": "1958."
+  },
+  {
+   "q": "Reverse transcriptase makes:",
+   "o": [
+    "RNA from DNA",
+    "DNA from RNA",
+    "Protein",
+    "Lipid"
+   ],
+   "a": 1,
+   "w": "Seen in HIV."
+  },
+  {
+   "q": "UUU codes for:",
+   "o": [
+    "Methionine",
+    "Phenylalanine",
+    "Stop",
+    "Valine"
+   ],
+   "a": 1,
+   "w": "First codon cracked."
+  },
+  {
+   "q": "Sickle cell arises from:",
+   "o": [
+    "Extra chromosome",
+    "One base change",
+    "Deletion of gene",
+    "Virus"
+   ],
+   "a": 1,
+   "w": "Single base substitution."
+  }
+ ],
+ "sources": [
+  "NCERT Class 12 Biology",
+  "Campbell Biology"
+ ],
+ "verified": "2026-11-11"
+}

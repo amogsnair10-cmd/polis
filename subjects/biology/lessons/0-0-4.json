@@ -1,0 +1,175 @@
+{
+ "id": "0-0-4",
+ "title": "Photosynthesis",
+ "emoji": "🌿",
+ "cards": [
+  {
+   "tag": "Why this matters",
+   "h": "The sun, bottled",
+   "b": "<p>Almost every meal you eat, and almost all the oxygen you breathe, traces back to photosynthesis. Plants, algae and some bacteria capture sunlight and store it as sugar. It is the entry point of energy into nearly every food chain.</p>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "The overall equation",
+   "b": "<p>6 CO2 + 6 H2O + light gives C6H12O6 (glucose) + 6 O2. It happens in <b>chloroplasts</b>, in two linked stages: light reactions in the thylakoid membranes, and the Calvin cycle in the fluid stroma.</p><svg class=\"d\" viewBox=\"0 0 320 172\"><defs><marker id=\"p1\" viewBox=\"0 0 10 10\" refX=\"8\" refY=\"5\" markerWidth=\"6\" markerHeight=\"6\" orient=\"auto\"><path d=\"M0 0L10 5L0 10z\" fill=\"#5d6474\"/></marker></defs><rect x=\"20\" y=\"6\" width=\"280\" height=\"28\" rx=\"6\" fill=\"#f1e4c6\" stroke=\"#a8792a\"/><text x=\"160\" y=\"24\" text-anchor=\"middle\" font-size=\"11\" fill=\"#1d2433\">Light + water enter thylakoids</text><line x1=\"160\" y1=\"34\" x2=\"160\" y2=\"50\" stroke=\"#5d6474\" stroke-width=\"1.5\" marker-end=\"url(#p1)\"/><rect x=\"20\" y=\"50\" width=\"280\" height=\"28\" rx=\"6\" fill=\"#dceaec\" stroke=\"#2f6f7a\"/><text x=\"160\" y=\"68\" text-anchor=\"middle\" font-size=\"11\" fill=\"#1d2433\">Light reactions: make ATP, NADPH, O2</text><line x1=\"160\" y1=\"78\" x2=\"160\" y2=\"94\" stroke=\"#5d6474\" stroke-width=\"1.5\" marker-end=\"url(#p1)\"/><rect x=\"20\" y=\"94\" width=\"280\" height=\"28\" rx=\"6\" fill=\"#f1e4c6\" stroke=\"#a8792a\"/><text x=\"160\" y=\"112\" text-anchor=\"middle\" font-size=\"11\" fill=\"#1d2433\">Calvin cycle in stroma uses CO2</text><line x1=\"160\" y1=\"122\" x2=\"160\" y2=\"138\" stroke=\"#5d6474\" stroke-width=\"1.5\" marker-end=\"url(#p1)\"/><rect x=\"20\" y=\"138\" width=\"280\" height=\"28\" rx=\"6\" fill=\"#dceaec\" stroke=\"#2f6f7a\"/><text x=\"160\" y=\"156\" text-anchor=\"middle\" font-size=\"11\" fill=\"#1d2433\">Sugar (G3P, then glucose) made</text></svg>"
+  },
+  {
+   "tag": "Step by step",
+   "h": "Light reactions",
+   "b": "<ol><li>Chlorophyll absorbs mainly red and blue light, reflecting green.</li><li>Light energy excites electrons in photosystem II.</li><li>Water splits, releasing O2 and replacing electrons.</li><li>Electrons pass along a chain, pumping protons; this drives ATP synthase.</li><li>Photosystem I re-energises them to make NADPH.</li></ol><p>The oxygen you breathe comes from water, not CO2.</p>"
+  },
+  {
+   "tag": "Step by step",
+   "h": "The Calvin cycle",
+   "b": "<p>Worked out by Melvin Calvin with Benson and Bassham in the 1950s (Nobel 1961). The enzyme <b>RuBisCO</b> fixes CO2 onto a five-carbon sugar. Using ATP and NADPH, the product is turned into G3P, a three-carbon sugar. Some G3P leaves to make glucose; the rest rebuilds the starter sugar.</p>"
+  },
+  {
+   "tag": "Step by step",
+   "h": "C3, C4 and CAM plants",
+   "b": "<p>RuBisCO sometimes grabs oxygen instead of CO2, wasting energy (photorespiration), worse in heat. <b>C4 plants</b> like maize and sugarcane first fix CO2 in a separate cell type, concentrating it. <b>CAM plants</b> like cactus and pineapple open pores at night to save water.</p>"
+  },
+  {
+   "tag": "Step by step",
+   "h": "What limits the rate",
+   "b": "<p>Light intensity, CO2 level, temperature and water. F.F. Blackman (1905) proposed the law of limiting factors: the scarcest factor sets the speed.</p>"
+  },
+  {
+   "tag": "How we know",
+   "h": "Where does the oxygen come from?",
+   "b": "<p>Jan van Helmont (c.1640s) grew a willow and found most of its mass came from water, not soil. Joseph Priestley (1771) showed plants refresh air; Jan Ingenhousz (1779) showed light is needed. Samuel Ruben and Martin Kamen (1941) used heavy oxygen to prove O2 comes from water.</p>"
+  },
+  {
+   "tag": "Misconceptions",
+   "h": "Common errors",
+   "b": "<div class=\"box\"><h4>Fix these</h4><ul><li>Plants do not 'eat soil'; mass comes mostly from CO2 and water.</li><li>Plants also respire, day and night.</li><li>Leaves look green because green light is reflected.</li></ul></div>"
+  },
+  {
+   "tag": "Indian angle",
+   "h": "Plants and food security",
+   "b": "<p>Sugarcane, maize and millets are C4 crops that do well in hot Indian climates. The Green Revolution, led by M.S. Swaminathan, raised wheat and rice yields. J.C. Bose studied how plants respond to light and stimuli. India's National Institute of Plant Genome Research in Delhi studies crop photosynthesis.</p>"
+  },
+  {
+   "tag": "Recap",
+   "h": "Key takeaways and questions",
+   "b": "<ul><li>Light reactions make ATP, NADPH and O2 from water.</li><li>Calvin cycle uses them to fix CO2 into sugar via RuBisCO.</li><li>C4 and CAM are adaptations to hot, dry conditions.</li><li>O2 comes from water.</li></ul><p><b>Think about it:</b></p><ol><li>Why do desert plants open pores at night?</li><li>If a planet's star gave only green light, what would plants look like?</li></ol>",
+   "cls": "exam"
+  }
+ ],
+ "quiz": [
+  {
+   "q": "The O2 released in photosynthesis comes from:",
+   "o": [
+    "CO2",
+    "Water",
+    "Glucose",
+    "Chlorophyll"
+   ],
+   "a": 1,
+   "w": "Ruben and Kamen, 1941."
+  },
+  {
+   "q": "Light reactions occur in:",
+   "o": [
+    "Stroma",
+    "Thylakoid membranes",
+    "Nucleus",
+    "Cytoplasm"
+   ],
+   "a": 1,
+   "w": "Thylakoids."
+  },
+  {
+   "q": "RuBisCO's job is to:",
+   "o": [
+    "Split water",
+    "Fix CO2",
+    "Make ATP",
+    "Absorb light"
+   ],
+   "a": 1,
+   "w": "Carbon fixation."
+  },
+  {
+   "q": "Which crop is a C4 plant?",
+   "o": [
+    "Wheat",
+    "Rice",
+    "Sugarcane",
+    "Potato"
+   ],
+   "a": 2,
+   "w": "Sugarcane."
+  },
+  {
+   "q": "CAM plants open pores:",
+   "o": [
+    "At noon",
+    "At night",
+    "Never",
+    "Only in rain"
+   ],
+   "a": 1,
+   "w": "To save water."
+  },
+  {
+   "q": "Calvin won his Nobel in:",
+   "o": [
+    "1931",
+    "1961",
+    "1997",
+    "1907"
+   ],
+   "a": 1,
+   "w": "1961."
+  },
+  {
+   "q": "Chlorophyll mainly absorbs:",
+   "o": [
+    "Green",
+    "Red and blue",
+    "Yellow",
+    "Infrared only"
+   ],
+   "a": 1,
+   "w": "Reflects green."
+  },
+  {
+   "q": "Who showed that plants need light to purify air?",
+   "o": [
+    "Priestley",
+    "Ingenhousz",
+    "Calvin",
+    "Blackman"
+   ],
+   "a": 1,
+   "w": "Ingenhousz, 1779."
+  },
+  {
+   "q": "ATP synthase is driven by:",
+   "o": [
+    "Heat",
+    "A proton gradient",
+    "DNA",
+    "Sugar"
+   ],
+   "a": 1,
+   "w": "Proton flow."
+  },
+  {
+   "q": "Blackman's principle says rate is set by:",
+   "o": [
+    "Average of factors",
+    "The scarcest factor",
+    "Light only",
+    "CO2 only"
+   ],
+   "a": 1,
+   "w": "Limiting factors."
+  }
+ ],
+ "sources": [
+  "NCERT Class 11 Biology",
+  "Campbell Biology"
+ ],
+ "verified": "2026-11-11"
+}

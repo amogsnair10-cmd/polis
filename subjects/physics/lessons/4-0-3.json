@@ -1,0 +1,177 @@
+{
+ "id": "4-0-3",
+ "title": "Nuclear Physics: Fission and Fusion",
+ "emoji": "☢️",
+ "cards": [
+  {
+   "tag": "Why this matters",
+   "h": "A tiny core with enormous power",
+   "b": "<p>The Sun shines, nuclear reactors light cities, doctors treat cancer with radiation, and archaeologists date bones, all because of the atomic nucleus. It is about 100,000 times smaller than the atom, yet holds almost all its mass and a vast store of energy.</p><p>Nuclear physics also brought the atom bomb. Understanding it is part of understanding the modern world.</p>"
+  },
+  {
+   "tag": "Concept",
+   "h": "Inside the nucleus",
+   "b": "<p>Ernest Rutherford showed in 1911 that an atom has a tiny, dense, positive nucleus. It holds <b>protons</b> (positive) and <b>neutrons</b> (neutral, found by James Chadwick in 1932), together called nucleons.</p><p>The number of protons Z fixes the element; protons plus neutrons is the mass number A. <b>Isotopes</b> have the same Z but different neutron counts: carbon-12 and carbon-14 are both carbon. The <b>strong nuclear force</b> glues nucleons together against the protons' electric repulsion, acting only over about a femtometre."
+  },
+  {
+   "tag": "Concept",
+   "h": "Binding energy and E = mc squared",
+   "b": "<p>A nucleus weighs a little less than its separate protons and neutrons. The missing mass became the energy that binds it, by E = mc squared. Per nucleon, binding energy rises up to iron (A about 56) and then falls slowly.</p><p>That curve explains everything. Splitting very heavy nuclei (<b>fission</b>) or joining very light ones (<b>fusion</b>) moves toward iron and releases energy.<svg class=\"d\" viewBox=\"0 0 320 150\"><defs><marker id=\"s1\" markerWidth=\"8\" markerHeight=\"8\" refX=\"7\" refY=\"4\" orient=\"auto\"><path d=\"M0,0 L8,4 L0,8z\" fill=\"#5d6474\"/></marker></defs><line x1=\"30\" y1=\"125\" x2=\"300\" y2=\"125\" stroke=\"#5d6474\" stroke-width=\"1.5\" marker-end=\"url(#s1)\"/><line x1=\"30\" y1=\"125\" x2=\"30\" y2=\"10\" stroke=\"#5d6474\" stroke-width=\"1.5\"/><path d=\"M35,115 Q50,50 90,35 Q130,25 160,22 Q220,25 290,40\" fill=\"none\" stroke=\"#a3362a\" stroke-width=\"3\"/><circle cx=\"160\" cy=\"22\" r=\"4\" fill=\"#a8792a\"/><text x=\"150\" y=\"16\" font-size=\"10\" fill=\"#a8792a\">iron: most stable</text><text x=\"40\" y=\"100\" font-size=\"10\" fill=\"#2f6f7a\">fusion climbs here</text><text x=\"215\" y=\"62\" font-size=\"10\" fill=\"#2f6f7a\">fission climbs here</text><text x=\"40\" y=\"20\" font-size=\"10\" fill=\"#1d2433\">binding energy per nucleon</text><text x=\"190\" y=\"140\" font-size=\"10\" fill=\"#1d2433\">mass number</text></svg></p>"
+  },
+  {
+   "tag": "Concept",
+   "h": "Radioactivity and half-life",
+   "b": "<p>Henri Becquerel found radioactivity in 1896; Marie and Pierre Curie isolated polonium and radium soon after. Unstable nuclei decay on their own, emitting <b>alpha</b> particles (helium nuclei), <b>beta</b> particles (electrons) or <b>gamma</b> rays.</p><p>Each decay is random, but a large sample has a steady <b>half-life</b>: the time for half to decay. N = N0 x (1/2) to the power (t / half-life). Carbon-14 has a half-life of 5730 years, so measuring it in old bone gives its age. Medical isotopes decay in hours or days."
+  },
+  {
+   "tag": "Concept",
+   "h": "Nuclear fission",
+   "b": "<p>In 1938-39 Otto Hahn and Fritz Strassmann split uranium, and Lise Meitner and Otto Frisch explained it. A slow neutron hits uranium-235, which splits into two lighter nuclei, 2 or 3 neutrons and about 200 MeV of energy.</p><p>The neutrons can split more nuclei: a <b>chain reaction</b>. Enrico Fermi achieved the first controlled one in Chicago in 1942. In a reactor, control rods absorb neutrons to keep it steady; in a bomb it runs away. One kilogram of U-235 releases about 8 x 10 to the power 13 joules, millions of times more than a kilogram of coal."
+  },
+  {
+   "tag": "Concept",
+   "h": "Nuclear fusion",
+   "b": "<p>Fusion joins light nuclei. In the Sun's core at about 15 million kelvin, four hydrogen nuclei fuse into one helium nucleus, turning about 0.7 percent of their mass into energy. The Sun converts around 4 million tonnes of mass to light every second.</p><p>Nuclei repel, so fusion needs huge temperature and pressure. On Earth, experiments such as ITER in France aim to make fusion power from hydrogen isotopes. It promises abundant fuel and little long-lived waste, but a net-power plant remains a work in progress."
+  },
+  {
+   "tag": "Worked example",
+   "h": "Half-life arithmetic",
+   "b": "<p>A sample of 80 g of an isotope with a half-life of 8 days. After 24 days that is 3 half-lives: 80 to 40 to 20 to <b>10 g</b>.</p><p>Energy from mass: a nuclear reaction that loses 0.1 g of mass releases E = 0.0001 x (3 x 10 to the power 8) squared = <b>9 x 10 to the power 12 J</b>.</p><p>Check against fission: 200 MeV per U-235 nucleus is about 3.2 x 10 to the power -11 J; one kilogram has roughly 2.6 x 10 to the power 24 nuclei, giving about 8 x 10 to the power 13 J."
+  },
+  {
+   "tag": "Misconceptions",
+   "h": "Nuclear myths",
+   "b": "<ul><li><b>'A nuclear reactor can explode like a bomb.'</b> Reactor fuel is not concentrated enough, and the design cannot detonate; accidents involve overheating, not a bomb blast.</li><li><b>'After one half-life, then another half-life, everything is gone.'</b> Half the remainder decays each time; it never reaches exactly zero.</li><li><b>'Radiation is always man-made.'</b> Natural background radiation comes from rocks, space and even bananas (potassium-40).</li></ul>"
+  },
+  {
+   "tag": "Indian angle",
+   "h": "Bhabha's three stages",
+   "b": "<p>Homi J. Bhabha founded the Atomic Energy Establishment at Trombay, now named after him. In the 1950s he set out India's <b>three-stage nuclear programme</b>: natural uranium reactors, then fast breeder reactors using plutonium, then reactors burning India's large thorium reserves with uranium-233.</p><p>The Apsara research reactor at Trombay began running in August 1956, the first in Asia outside the Soviet Union. Today plants such as Kudankulam in Tamil Nadu supply power, and India has tested nuclear devices in 1974 and 1998."
+  },
+  {
+   "tag": "Recap",
+   "h": "Key takeaways",
+   "b": "<ul><li>The nucleus holds protons and neutrons bound by the strong force.</li><li>Binding energy per nucleon peaks near iron: fission of heavy and fusion of light nuclei release energy.</li><li>Radioactive decay follows half-life: N = N0 x (1/2) to the power (t/T).</li><li>Fission powers reactors; fusion powers the Sun.</li></ul><div class=\"box\"><h4>Think about it</h4>1. Why can iron not release energy by either fission or fusion?<br>2. Why does fusion require such high temperature?</div>",
+   "cls": "exam"
+  }
+ ],
+ "quiz": [
+  {
+   "q": "The neutron was discovered by",
+   "o": [
+    "Rutherford",
+    "Chadwick",
+    "Bohr",
+    "Fermi"
+   ],
+   "a": 1,
+   "w": "James Chadwick, 1932."
+  },
+  {
+   "q": "Isotopes of an element have",
+   "o": [
+    "Different numbers of protons",
+    "Same protons, different neutrons",
+    "Same neutrons only",
+    "Different electrons only"
+   ],
+   "a": 1,
+   "w": "Same Z, different A."
+  },
+  {
+   "q": "The binding energy per nucleon is greatest near",
+   "o": [
+    "Hydrogen",
+    "Iron",
+    "Uranium",
+    "Helium only"
+   ],
+   "a": 1,
+   "w": "Iron is the most stable."
+  },
+  {
+   "q": "A sample has a half-life of 5 days. After 15 days, the fraction left is",
+   "o": [
+    "1/2",
+    "1/4",
+    "1/8",
+    "1/16"
+   ],
+   "a": 2,
+   "w": "Three halvings."
+  },
+  {
+   "q": "Carbon-14 dating uses",
+   "o": [
+    "Its half-life of about 5730 years",
+    "Its colour",
+    "Its mass only",
+    "Gamma rays"
+   ],
+   "a": 0,
+   "w": "Decay tells age."
+  },
+  {
+   "q": "Fission is the",
+   "o": [
+    "Joining of light nuclei",
+    "Splitting of a heavy nucleus",
+    "Decay of electrons",
+    "Burning of coal"
+   ],
+   "a": 1,
+   "w": "Heavy nucleus splits."
+  },
+  {
+   "q": "Control rods in a reactor",
+   "o": [
+    "Absorb neutrons",
+    "Make neutrons",
+    "Cool the water",
+    "Carry electricity"
+   ],
+   "a": 0,
+   "w": "They regulate the chain reaction."
+  },
+  {
+   "q": "The Sun's energy comes from",
+   "o": [
+    "Fission of uranium",
+    "Fusion of hydrogen to helium",
+    "Burning",
+    "Chemical reactions"
+   ],
+   "a": 1,
+   "w": "p-p chain fusion."
+  },
+  {
+   "q": "The first controlled chain reaction was by Fermi in",
+   "o": [
+    "1905",
+    "1938",
+    "1942",
+    "1956"
+   ],
+   "a": 2,
+   "w": "Chicago Pile-1, 1942."
+  },
+  {
+   "q": "India's three-stage programme was conceived by",
+   "o": [
+    "Homi Bhabha",
+    "Vikram Sarabhai",
+    "C. V. Raman",
+    "S. Chandrasekhar"
+   ],
+   "a": 0,
+   "w": "Bhabha, 1950s."
+  }
+ ],
+ "sources": [
+  "NCERT Physics Class 11-12",
+  "Halliday, Resnick and Walker, Fundamentals of Physics",
+  "Hahn and Strassmann (1938); Fermi (1942)",
+  "DAE: India's three-stage programme"
+ ],
+ "verified": "2026-11-11"
+}

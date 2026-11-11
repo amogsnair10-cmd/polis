@@ -1,0 +1,176 @@
+{
+ "id": "4-0-4",
+ "title": "Particle Physics and the Standard Model",
+ "emoji": "🔬",
+ "cards": [
+  {
+   "tag": "Why this matters",
+   "h": "What is everything made of?",
+   "b": "<p>Ancient Indian and Greek thinkers imagined indivisible atoms. We now know atoms split into protons, neutrons and electrons, and the protons and neutrons themselves split into quarks. The question 'what are the smallest building blocks and how do they interact?' is the aim of particle physics.</p><p>Its answer is the <b>Standard Model</b>, one of the most precisely tested theories in all of science.</p>"
+  },
+  {
+   "tag": "Concept",
+   "h": "The four forces",
+   "b": "<p>Everything that happens in the universe comes from four forces:</p><ul><li><b>Gravity:</b> weakest, but acts across space and adds up for big masses.</li><li><b>Electromagnetism:</b> between charged particles; holds atoms together.</li><li><b>Strong nuclear force:</b> binds quarks into protons and neutrons, and nucleons into nuclei.</li><li><b>Weak nuclear force:</b> causes certain radioactive decays and powers the Sun's fusion.</li></ul><p>The Standard Model describes the last three. Gravity is not yet included."
+  },
+  {
+   "tag": "Concept",
+   "h": "Quarks and leptons",
+   "b": "<p>Matter particles come in two families. <b>Quarks</b> feel the strong force and come in six types: up, down, charm, strange, top, bottom. <b>Leptons</b> do not: the electron, muon, tau, and three nearly massless <b>neutrinos</b>.</p><p>Ordinary matter needs only up quarks, down quarks and electrons. A proton is two ups and one down (uud); a neutron is up, down, down (udd). The heavier families appear in cosmic rays and accelerators and decay quickly. Quarks are never seen alone.</p><svg class=\"d\" viewBox=\"0 0 320 150\"><g stroke-width=\"2\"><rect x=\"10\" y=\"10\" width=\"60\" height=\"55\" fill=\"#f4dcd5\" stroke=\"#a3362a\"/><rect x=\"75\" y=\"10\" width=\"60\" height=\"55\" fill=\"#f4dcd5\" stroke=\"#a3362a\"/><rect x=\"140\" y=\"10\" width=\"60\" height=\"55\" fill=\"#f4dcd5\" stroke=\"#a3362a\"/><rect x=\"10\" y=\"70\" width=\"60\" height=\"55\" fill=\"#f4dcd5\" stroke=\"#a3362a\"/><rect x=\"75\" y=\"70\" width=\"60\" height=\"55\" fill=\"#f4dcd5\" stroke=\"#a3362a\"/><rect x=\"140\" y=\"70\" width=\"60\" height=\"55\" fill=\"#f4dcd5\" stroke=\"#a3362a\"/><rect x=\"210\" y=\"10\" width=\"100\" height=\"55\" fill=\"#dceaec\" stroke=\"#2f6f7a\"/><rect x=\"210\" y=\"70\" width=\"100\" height=\"55\" fill=\"#f1e4c6\" stroke=\"#a8792a\"/></g><g font-size=\"11\" fill=\"#1d2433\"><text x=\"25\" y=\"35\">up</text><text x=\"88\" y=\"35\">charm</text><text x=\"158\" y=\"35\">top</text><text x=\"22\" y=\"95\">down</text><text x=\"82\" y=\"95\">strange</text><text x=\"148\" y=\"95\">bottom</text><text x=\"225\" y=\"35\">Leptons: e,</text><text x=\"225\" y=\"50\">muon, tau, 3 neutrinos</text><text x=\"225\" y=\"90\">Carriers: photon,</text><text x=\"225\" y=\"105\">W, Z, gluon, Higgs</text></g><text x=\"10\" y=\"142\" font-size=\"10\" fill=\"#a3362a\">Quarks: up-type +2/3, down-type -1/3</text></svg>"
+  },
+  {
+   "tag": "Concept",
+   "h": "Force carriers",
+   "b": "<p>In quantum field theory, forces arise when particles exchange other particles. Electromagnetism is carried by the <b>photon</b>; the strong force by <b>gluons</b>; the weak force by the heavy <b>W and Z</b> bosons.</p><p>Richard Feynman drew diagrams to show these exchanges. Quantum electrodynamics, the theory of light and electrons, predicts the electron's magnetic strength correct to about ten decimal places, the most accurate prediction in science."
+  },
+  {
+   "tag": "Concept",
+   "h": "Antimatter",
+   "b": "<p>Paul Dirac predicted in 1928 that every particle has an antiparticle with the same mass and opposite charge. Carl Anderson found the positron, the anti-electron, in 1932.</p><p>When a particle meets its antiparticle they <b>annihilate</b> into energy (E = mc squared). Hospitals use PET scanners, where positrons from a tracer annihilate with electrons and give off gamma rays that form an image. Why the universe has more matter than antimatter remains unexplained."
+  },
+  {
+   "tag": "Concept",
+   "h": "The Higgs boson",
+   "b": "<p>The Standard Model's equations at first required massless particles. In 1964, Peter Higgs, Francois Englert and others proposed a field filling all space which gives particles mass by interacting with them; the <b>Higgs boson</b> is its ripple.</p><p>On 4 July 2012 the ATLAS and CMS experiments at CERN's Large Hadron Collider announced the discovery, at a mass of about 125 times the proton's. Higgs and Englert shared the 2013 Nobel Prize. The LHC, a 27 km ring near Geneva, collides protons at the energy of 13.6 trillion electron volts."
+  },
+  {
+   "tag": "Worked example",
+   "h": "Adding charges and annihilation",
+   "b": "<p>Proton (uud): +2/3 + 2/3 - 1/3 = <b>+1</b>. Neutron (udd): +2/3 - 1/3 - 1/3 = <b>0</b>.</p><p>Electron-positron annihilation: each has rest mass energy 0.511 MeV, so two gamma photons carry a total of 2 x 0.511 = <b>1.022 MeV</b>, each 0.511 MeV.</p><p>Photon wavelength = 1240 eV nm / 511,000 eV = 0.0024 nm, a very short-wavelength gamma ray."
+  },
+  {
+   "tag": "Misconceptions",
+   "h": "Particle myths",
+   "b": "<ul><li><b>'The Higgs boson is the God particle.'</b> A nickname the physicists mostly dislike; it explains mass for some particles, not everything.</li><li><b>'Most of your mass is the Higgs.'</b> Most of a proton's mass comes from the strong force's energy, not from the quark masses.</li><li><b>'Antimatter is science fiction.'</b> It is made routinely in labs and used in PET scans.</li></ul>"
+  },
+  {
+   "tag": "Indian angle",
+   "h": "Bose, Bhabha and CERN",
+   "b": "<p>The word <b>boson</b> honours S. N. Bose, so the Higgs boson carries an Indian name. Homi Bhabha worked out in 1935 how electrons scatter off positrons, now called Bhabha scattering, a process studied at every electron-positron collider.</p><p>Indian scientists contribute to experiments at the LHC, including CMS and ALICE, and India became an Associate Member of CERN in January 2017. The India-based Neutrino Observatory was planned in Tamil Nadu to study atmospheric neutrinos, though it awaits final go-ahead."
+  },
+  {
+   "tag": "Recap",
+   "h": "Key takeaways",
+   "b": "<ul><li>Four forces: gravity, electromagnetic, strong, weak.</li><li>Matter: six quarks and six leptons; proton = uud, neutron = udd.</li><li>Forces are carried by photons, gluons, W and Z; the Higgs field gives mass (Higgs discovered 2012).</li><li>Every particle has an antiparticle; annihilation turns mass into energy.</li></ul><div class=\"box\"><h4>Think about it</h4>1. Why are quarks never seen alone?<br>2. Why does a PET scan use antimatter?</div>",
+   "cls": "exam"
+  }
+ ],
+ "quiz": [
+  {
+   "q": "A proton is made of",
+   "o": [
+    "uud",
+    "udd",
+    "uuu",
+    "ddd"
+   ],
+   "a": 0,
+   "w": "Two up quarks and one down."
+  },
+  {
+   "q": "A neutron's quark content is",
+   "o": [
+    "uud",
+    "udd",
+    "uus",
+    "ccb"
+   ],
+   "a": 1,
+   "w": "Up, down, down."
+  },
+  {
+   "q": "The photon carries the",
+   "o": [
+    "Strong force",
+    "Weak force",
+    "Electromagnetic force",
+    "Gravity only"
+   ],
+   "a": 2,
+   "w": "Photon exchange."
+  },
+  {
+   "q": "Which particle gives others mass through a field?",
+   "o": [
+    "Gluon",
+    "Higgs boson",
+    "Neutrino",
+    "Photon"
+   ],
+   "a": 1,
+   "w": "Higgs field."
+  },
+  {
+   "q": "The Higgs boson was announced in",
+   "o": [
+    "1964",
+    "1998",
+    "2012",
+    "2022"
+   ],
+   "a": 2,
+   "w": "4 July 2012, CERN."
+  },
+  {
+   "q": "The LHC is located at",
+   "o": [
+    "Fermilab",
+    "CERN",
+    "Trombay",
+    "KEK"
+   ],
+   "a": 1,
+   "w": "Near Geneva."
+  },
+  {
+   "q": "Antimatter was predicted by",
+   "o": [
+    "Dirac",
+    "Feynman",
+    "Higgs",
+    "Bohr"
+   ],
+   "a": 0,
+   "w": "Dirac, 1928."
+  },
+  {
+   "q": "The charge of an up quark is",
+   "o": [
+    "+2/3",
+    "-1/3",
+    "+1",
+    "-1"
+   ],
+   "a": 0,
+   "w": "Up-type quarks have +2/3."
+  },
+  {
+   "q": "Electron-positron annihilation produces",
+   "o": [
+    "Protons",
+    "Gamma photons",
+    "Quarks",
+    "Nothing"
+   ],
+   "a": 1,
+   "w": "Energy released as photons."
+  },
+  {
+   "q": "India became an associate member of CERN in",
+   "o": [
+    "1957",
+    "1991",
+    "2017",
+    "2024"
+   ],
+   "a": 2,
+   "w": "January 2017."
+  }
+ ],
+ "sources": [
+  "NCERT Physics Class 11-12",
+  "Halliday, Resnick and Walker, Fundamentals of Physics",
+  "CERN: Higgs discovery announcement (2012)"
+ ],
+ "verified": "2026-11-11"
+}

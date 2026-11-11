@@ -1,0 +1,175 @@
+{
+ "id": "0-0-5",
+ "title": "Cellular Respiration",
+ "emoji": "🔥",
+ "cards": [
+  {
+   "tag": "Why this matters",
+   "h": "How food becomes movement",
+   "b": "<p>The roti you eat does not directly power your muscles. Cells first burn glucose step by step and capture the energy in ATP. Understanding this explains breathing, why exercise makes you pant, why yeast makes dough rise and how some poisons like cyanide kill so fast.</p>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "The overall equation",
+   "b": "<p>C6H12O6 + 6 O2 gives 6 CO2 + 6 H2O + energy (about 30-32 ATP per glucose). It is the reverse bookkeeping of photosynthesis. It runs in four steps and burns glucose slowly, so energy is not wasted as one big flame.</p><svg class=\"d\" viewBox=\"0 0 320 172\"><defs><marker id=\"r1\" viewBox=\"0 0 10 10\" refX=\"8\" refY=\"5\" markerWidth=\"6\" markerHeight=\"6\" orient=\"auto\"><path d=\"M0 0L10 5L0 10z\" fill=\"#5d6474\"/></marker></defs><rect x=\"20\" y=\"6\" width=\"280\" height=\"28\" rx=\"6\" fill=\"#f1e4c6\" stroke=\"#a8792a\"/><text x=\"160\" y=\"24\" text-anchor=\"middle\" font-size=\"11\" fill=\"#1d2433\">Glycolysis (cytoplasm): 1 glucose to 2 pyruvate</text><line x1=\"160\" y1=\"34\" x2=\"160\" y2=\"50\" stroke=\"#5d6474\" stroke-width=\"1.5\" marker-end=\"url(#r1)\"/><rect x=\"20\" y=\"50\" width=\"280\" height=\"28\" rx=\"6\" fill=\"#dceaec\" stroke=\"#2f6f7a\"/><text x=\"160\" y=\"68\" text-anchor=\"middle\" font-size=\"11\" fill=\"#1d2433\">Pyruvate oxidation: makes acetyl-CoA</text><line x1=\"160\" y1=\"78\" x2=\"160\" y2=\"94\" stroke=\"#5d6474\" stroke-width=\"1.5\" marker-end=\"url(#r1)\"/><rect x=\"20\" y=\"94\" width=\"280\" height=\"28\" rx=\"6\" fill=\"#f1e4c6\" stroke=\"#a8792a\"/><text x=\"160\" y=\"112\" text-anchor=\"middle\" font-size=\"11\" fill=\"#1d2433\">Krebs cycle (mitochondrial matrix)</text><line x1=\"160\" y1=\"122\" x2=\"160\" y2=\"138\" stroke=\"#5d6474\" stroke-width=\"1.5\" marker-end=\"url(#r1)\"/><rect x=\"20\" y=\"138\" width=\"280\" height=\"28\" rx=\"6\" fill=\"#dceaec\" stroke=\"#2f6f7a\"/><text x=\"160\" y=\"156\" text-anchor=\"middle\" font-size=\"11\" fill=\"#1d2433\">Electron transport chain: most ATP</text></svg>"
+  },
+  {
+   "tag": "Step by step",
+   "h": "Glycolysis",
+   "b": "<p>Glycolysis splits glucose (6 carbons) into two pyruvate (3 carbons). It needs no oxygen, happens in the cytoplasm and nets 2 ATP and 2 NADH. It is probably the oldest pathway, found in nearly all life. Worked out by Embden, Meyerhof and Parnas in the 1930s.</p>"
+  },
+  {
+   "tag": "Step by step",
+   "h": "Krebs cycle",
+   "b": "<p>Hans Krebs described it in 1937 (Nobel 1953). Acetyl-CoA joins a four-carbon molecule to form citrate, which is stripped of carbons step by step, releasing CO2. Each turn yields NADH, FADH2 and a little ATP. The carbons you breathe out come from here.</p>"
+  },
+  {
+   "tag": "Step by step",
+   "h": "Electron transport chain",
+   "b": "<p>NADH and FADH2 hand electrons to protein complexes in the inner mitochondrial membrane. This pumps protons across, building a gradient. Protons flow back through ATP synthase, making most of the ATP (chemiosmosis, Peter Mitchell, 1961). Oxygen is the final electron acceptor and becomes water.</p>"
+  },
+  {
+   "tag": "Step by step",
+   "h": "Without oxygen: fermentation",
+   "b": "<p>When oxygen is short, cells keep glycolysis going by recycling NADH. Muscles make lactic acid. Yeast makes ethanol and CO2, which makes bread rise and brews beer. Fermentation gives only 2 ATP per glucose.</p><svg class=\"d\" viewBox=\"0 0 320 136\"><rect x=\"10\" y=\"4\" width=\"145\" height=\"26\" rx=\"6\" fill=\"#2f6f7a\"/><text x=\"82\" y=\"21\" text-anchor=\"middle\" font-size=\"11\" fill=\"#fff\">Aerobic</text><rect x=\"10\" y=\"36\" width=\"145\" height=\"26\" rx=\"5\" fill=\"#dceaec\" stroke=\"#2f6f7a\"/><text x=\"82\" y=\"53\" text-anchor=\"middle\" font-size=\"10\" fill=\"#1d2433\">Needs O2</text><rect x=\"10\" y=\"68\" width=\"145\" height=\"26\" rx=\"5\" fill=\"#dceaec\" stroke=\"#2f6f7a\"/><text x=\"82\" y=\"85\" text-anchor=\"middle\" font-size=\"10\" fill=\"#1d2433\">About 30 ATP</text><rect x=\"10\" y=\"100\" width=\"145\" height=\"26\" rx=\"5\" fill=\"#dceaec\" stroke=\"#2f6f7a\"/><text x=\"82\" y=\"117\" text-anchor=\"middle\" font-size=\"10\" fill=\"#1d2433\">CO2 + water</text><rect x=\"165\" y=\"4\" width=\"145\" height=\"26\" rx=\"6\" fill=\"#a8792a\"/><text x=\"237\" y=\"21\" text-anchor=\"middle\" font-size=\"11\" fill=\"#fff\">Anaerobic</text><rect x=\"165\" y=\"36\" width=\"145\" height=\"26\" rx=\"5\" fill=\"#f1e4c6\" stroke=\"#a8792a\"/><text x=\"237\" y=\"53\" text-anchor=\"middle\" font-size=\"10\" fill=\"#1d2433\">No O2</text><rect x=\"165\" y=\"68\" width=\"145\" height=\"26\" rx=\"5\" fill=\"#f1e4c6\" stroke=\"#a8792a\"/><text x=\"237\" y=\"85\" text-anchor=\"middle\" font-size=\"10\" fill=\"#1d2433\">2 ATP</text><rect x=\"165\" y=\"100\" width=\"145\" height=\"26\" rx=\"5\" fill=\"#f1e4c6\" stroke=\"#a8792a\"/><text x=\"237\" y=\"117\" text-anchor=\"middle\" font-size=\"10\" fill=\"#1d2433\">Lactate or ethanol</text></svg>"
+  },
+  {
+   "tag": "How we know",
+   "h": "Tracking energy",
+   "b": "<p>Antoine Lavoisier (1780s) showed respiration is slow combustion by measuring heat and CO2. Louis Pasteur showed yeast ferments without air. Mitchell's chemiosmotic idea was doubted at first but proved right.</p>"
+  },
+  {
+   "tag": "Misconceptions",
+   "h": "Watch out",
+   "b": "<div class=\"box\"><h4>Fix these</h4><ul><li>Breathing is not the same as cellular respiration; breathing supplies the O2.</li><li>Plants respire too.</li><li>Cramps are not caused only by lactic acid; the story is more complex.</li></ul></div>"
+  },
+  {
+   "tag": "Indian angle",
+   "h": "Fermentation in Indian food",
+   "b": "<p>Idli, dosa, dhokla, jalebi batter and toddy use microbial fermentation. Cyanide and carbon monoxide block the electron chain, which is why they are deadly. Yoga and high-altitude adaptation among Himalayan communities are studied for efficient oxygen use.</p>"
+  },
+  {
+   "tag": "Recap",
+   "h": "Key takeaways and questions",
+   "b": "<ul><li>Glycolysis, Krebs cycle and electron transport turn glucose into ATP.</li><li>Most ATP comes from the proton gradient.</li><li>No oxygen leads to fermentation and 2 ATP.</li></ul><p><b>Think about it:</b></p><ol><li>Why does cyanide stop all ATP production?</li><li>Why does a sprinter breathe hard after the race ends?</li></ol>",
+   "cls": "exam"
+  }
+ ],
+ "quiz": [
+  {
+   "q": "Glycolysis occurs in the:",
+   "o": [
+    "Mitochondria",
+    "Cytoplasm",
+    "Nucleus",
+    "Golgi"
+   ],
+   "a": 1,
+   "w": "Cytoplasm."
+  },
+  {
+   "q": "Net ATP from glycolysis:",
+   "o": [
+    "2",
+    "30",
+    "36",
+    "0"
+   ],
+   "a": 0,
+   "w": "Net 2."
+  },
+  {
+   "q": "The Krebs cycle was described by:",
+   "o": [
+    "Calvin",
+    "Krebs",
+    "Mitchell",
+    "Lavoisier"
+   ],
+   "a": 1,
+   "w": "Hans Krebs, 1937."
+  },
+  {
+   "q": "The final electron acceptor is:",
+   "o": [
+    "CO2",
+    "Glucose",
+    "Oxygen",
+    "NAD"
+   ],
+   "a": 2,
+   "w": "O2 becomes water."
+  },
+  {
+   "q": "Most ATP is made by:",
+   "o": [
+    "Glycolysis",
+    "Krebs cycle",
+    "ATP synthase in the electron transport chain",
+    "Fermentation"
+   ],
+   "a": 2,
+   "w": "Chemiosmosis."
+  },
+  {
+   "q": "Yeast fermentation yields:",
+   "o": [
+    "Lactic acid",
+    "Ethanol and CO2",
+    "Water only",
+    "Oxygen"
+   ],
+   "a": 1,
+   "w": "Ethanol and CO2."
+  },
+  {
+   "q": "Where does the CO2 we exhale mostly arise?",
+   "o": [
+    "Glycolysis",
+    "Pyruvate oxidation and Krebs cycle",
+    "ETC",
+    "Lungs"
+   ],
+   "a": 1,
+   "w": "Decarboxylation steps."
+  },
+  {
+   "q": "Chemiosmosis was proposed by:",
+   "o": [
+    "Mitchell",
+    "Skou",
+    "Margulis",
+    "Sumner"
+   ],
+   "a": 0,
+   "w": "Peter Mitchell, 1961."
+  },
+  {
+   "q": "Anaerobic respiration gives per glucose:",
+   "o": [
+    "2 ATP",
+    "36 ATP",
+    "10 ATP",
+    "0 ATP"
+   ],
+   "a": 0,
+   "w": "Just glycolysis."
+  },
+  {
+   "q": "Cyanide is deadly because it blocks:",
+   "o": [
+    "Glycolysis",
+    "Electron transport chain",
+    "DNA copying",
+    "Digestion"
+   ],
+   "a": 1,
+   "w": "Stops ATP production."
+  }
+ ],
+ "sources": [
+  "NCERT Class 11 Biology",
+  "Campbell Biology"
+ ],
+ "verified": "2026-11-11"
+}
