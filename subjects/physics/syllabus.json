@@ -1,0 +1,96 @@
+[
+ {
+  "p": "Part I",
+  "t": "Mechanics",
+  "units": [
+   [
+    "Motion",
+    [
+     "Measurement, Units and Vectors",
+     "Motion in a Line and in a Plane",
+     "Newton's Laws of Motion",
+     "Work, Energy and Power",
+     "Momentum and Collisions",
+     "Rotation and Angular Momentum",
+     "Gravitation and Orbits"
+    ],
+    1
+   ],
+   [
+    "Matter",
+    [
+     "Fluids: Pressure, Buoyancy and Flow",
+     "Oscillations and Simple Harmonic Motion",
+     "Waves and Sound"
+    ],
+    1
+   ]
+  ]
+ },
+ {
+  "p": "Part II",
+  "t": "Heat",
+  "units": [
+   [
+    "Thermal physics",
+    [
+     "Temperature, Heat and Kinetic Theory",
+     "The Laws of Thermodynamics",
+     "Entropy and the Arrow of Time"
+    ],
+    1
+   ]
+  ]
+ },
+ {
+  "p": "Part III",
+  "t": "Electricity and Magnetism",
+  "units": [
+   [
+    "Fields",
+    [
+     "Electric Charge and Fields",
+     "Electric Potential and Capacitors",
+     "Current, Resistance and Circuits",
+     "Magnetism and Electromagnetic Induction",
+     "Maxwell's Equations and Light as a Wave",
+     "AC, Transformers and the Power Grid"
+    ],
+    1
+   ]
+  ]
+ },
+ {
+  "p": "Part IV",
+  "t": "Light",
+  "units": [
+   [
+    "Optics",
+    [
+     "Reflection, Refraction and Lenses",
+     "Interference, Diffraction and Polarisation"
+    ],
+    1
+   ]
+  ]
+ },
+ {
+  "p": "Part V",
+  "t": "Modern Physics",
+  "units": [
+   [
+    "The new physics",
+    [
+     "Special Relativity",
+     "General Relativity",
+     "The Photon and the Atom",
+     "Nuclear Physics: Fission and Fusion",
+     "Particle Physics and the Standard Model",
+     "Semiconductors and Modern Technology",
+     "Open Questions in Physics"
+    ],
+    1
+   ]
+  ]
+ }
+]

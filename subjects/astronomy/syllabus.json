@@ -1,0 +1,109 @@
+[
+ {
+  "p": "Part I",
+  "t": "The Sky",
+  "units": [
+   [
+    "Looking up",
+    [
+     "The Night Sky: Constellations and Coordinates",
+     "Motions of Sun, Moon and Planets",
+     "Eclipses, Seasons and Calendars",
+     "From Ptolemy to Copernicus, Kepler and Galileo"
+    ],
+    1
+   ],
+   [
+    "Tools",
+    [
+     "Light, Spectra and What Starlight Tells Us",
+     "Telescopes: From Galileo to JWST"
+    ],
+    1
+   ]
+  ]
+ },
+ {
+  "p": "Part II",
+  "t": "The Solar System",
+  "units": [
+   [
+    "Our neighbourhood",
+    [
+     "The Sun",
+     "Rocky Planets: Mercury, Venus, Earth, Mars",
+     "Gas and Ice Giants",
+     "Moons, Rings, Asteroids and Comets",
+     "How the Solar System Formed"
+    ],
+    1
+   ]
+  ]
+ },
+ {
+  "p": "Part III",
+  "t": "Stars",
+  "units": [
+   [
+    "Lives of stars",
+    [
+     "Measuring Stars: Distance, Brightness, the HR Diagram",
+     "How Stars Shine: Nuclear Fusion",
+     "Birth of Stars: Nebulae and Protostars",
+     "Death of Stars: White Dwarfs and Supernovae",
+     "Neutron Stars and Pulsars",
+     "Black Holes"
+    ],
+    1
+   ],
+   [
+    "Worlds beyond",
+    [
+     "Exoplanets and the Search for Life"
+    ],
+    1
+   ]
+  ]
+ },
+ {
+  "p": "Part IV",
+  "t": "Galaxies and Cosmos",
+  "units": [
+   [
+    "Galaxies",
+    [
+     "The Milky Way",
+     "Galaxies, Clusters and the Cosmic Web",
+     "Dark Matter"
+    ],
+    1
+   ],
+   [
+    "Cosmology",
+    [
+     "The Expanding Universe: Hubble and Redshift",
+     "The Big Bang and the Cosmic Microwave Background",
+     "Dark Energy and the Fate of the Universe",
+     "Gravitational Waves and Multi-Messenger Astronomy"
+    ],
+    1
+   ]
+  ]
+ },
+ {
+  "p": "Part V",
+  "t": "Exploration",
+  "units": [
+   [
+    "Space age",
+    [
+     "Rockets and Orbits",
+     "The Space Race and Apollo",
+     "ISRO: From Aryabhata to Chandrayaan and Aditya",
+     "The Future: Mars, Space Stations and Beyond"
+    ],
+    1
+   ]
+  ]
+ }
+]

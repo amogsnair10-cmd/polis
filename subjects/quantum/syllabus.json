@@ -1,0 +1,78 @@
+[
+ {
+  "p": "Part I",
+  "t": "The Crisis",
+  "units": [
+   [
+    "Why classical physics broke",
+    [
+     "Black-Body Radiation and Planck's Quantum",
+     "The Photoelectric Effect and Einstein",
+     "Bohr's Atom and Spectral Lines",
+     "De Broglie and Matter Waves"
+    ],
+    1
+   ]
+  ]
+ },
+ {
+  "p": "Part II",
+  "t": "The Theory",
+  "units": [
+   [
+    "Core ideas",
+    [
+     "The Double-Slit Experiment",
+     "The Wavefunction and Probability",
+     "Schrödinger's Equation (No Heavy Maths)",
+     "Heisenberg's Uncertainty Principle",
+     "Superposition and Measurement",
+     "Spin and the Stern-Gerlach Experiment",
+     "Quantum Tunnelling"
+    ],
+    1
+   ],
+   [
+    "Atoms and matter",
+    [
+     "The Quantum Atom: Orbitals and the Pauli Principle",
+     "Bosons, Fermions and Bose-Einstein Condensates"
+    ],
+    1
+   ]
+  ]
+ },
+ {
+  "p": "Part III",
+  "t": "The Weirdness",
+  "units": [
+   [
+    "Entanglement",
+    [
+     "Entanglement and the EPR Paradox",
+     "Bell's Theorem and the 2022 Nobel Prize",
+     "Interpretations: Copenhagen, Many-Worlds, Pilot Wave and More",
+     "Schrödinger's Cat and Decoherence"
+    ],
+    1
+   ]
+  ]
+ },
+ {
+  "p": "Part IV",
+  "t": "Frontiers",
+  "units": [
+   [
+    "Beyond",
+    [
+     "Quantum Field Theory in Plain Words",
+     "Quantum Technologies: Lasers, MRI, Transistors",
+     "Quantum Computing",
+     "Quantum Cryptography and India's Quantum Mission",
+     "Quantum Gravity: The Unsolved Problem"
+    ],
+    1
+   ]
+  ]
+ }
+]

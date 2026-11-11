@@ -1,0 +1,91 @@
+[
+ {
+  "p": "Part I",
+  "t": "Foundations",
+  "units": [
+   [
+    "Matter and atoms",
+    [
+     "States of Matter and Mixtures",
+     "Atoms, Isotopes and the Mole",
+     "Atomic Structure and Orbitals",
+     "The Periodic Table and Its Trends"
+    ],
+    1
+   ],
+   [
+    "Bonding",
+    [
+     "Ionic and Covalent Bonds",
+     "Molecular Shapes and Intermolecular Forces"
+    ],
+    1
+   ]
+  ]
+ },
+ {
+  "p": "Part II",
+  "t": "Reactions",
+  "units": [
+   [
+    "How reactions work",
+    [
+     "Chemical Equations and Stoichiometry",
+     "Energy in Reactions: Thermochemistry",
+     "Rates of Reaction",
+     "Chemical Equilibrium",
+     "Acids, Bases and pH",
+     "Redox and Electrochemistry: Batteries"
+    ],
+    1
+   ]
+  ]
+ },
+ {
+  "p": "Part III",
+  "t": "Elements and Materials",
+  "units": [
+   [
+    "Inorganic chemistry",
+    [
+     "Metals, Alloys and Metallurgy",
+     "Non-metals: Hydrogen, Carbon, Nitrogen, Oxygen, Halogens",
+     "Transition Metals and Coordination Compounds"
+    ],
+    1
+   ]
+  ]
+ },
+ {
+  "p": "Part IV",
+  "t": "Organic Chemistry",
+  "units": [
+   [
+    "Carbon",
+    [
+     "Why Carbon Is Special: Hydrocarbons",
+     "Functional Groups and Reactions",
+     "Polymers and Plastics",
+     "Biomolecules: Carbohydrates, Proteins, Fats, DNA"
+    ],
+    1
+   ]
+  ]
+ },
+ {
+  "p": "Part V",
+  "t": "Chemistry in the World",
+  "units": [
+   [
+    "Applied",
+    [
+     "Chemistry of Everyday Life: Food, Medicine, Cleaning",
+     "Environmental Chemistry: Air, Water, Climate",
+     "Nuclear Chemistry and Radioactivity",
+     "Green Chemistry and the Future of Materials"
+    ],
+    1
+   ]
+  ]
+ }
+]

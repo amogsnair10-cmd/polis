@@ -64,5 +64,60 @@
   "theme": "manifesto",
   "soon": true,
   "foot": "A study course, not an endorsement: every lesson includes the strongest criticisms. Your progress stays on this phone."
+ },
+ {
+  "id": "astronomy",
+  "name": "Astronomy",
+  "full": "From the night sky to the edge of the universe",
+  "title": "Stellar",
+  "motto": "One lesson a day.<br>The whole sky, explained.",
+  "dir": "subjects/astronomy",
+  "theme": "nebula",
+  "soon": true,
+  "foot": "Built from standard textbooks. Your progress stays on this phone."
+ },
+ {
+  "id": "physics",
+  "name": "Physics",
+  "full": "Motion, energy, fields and the laws of nature",
+  "title": "Principia",
+  "motto": "One lesson a day.<br>How the universe works.",
+  "dir": "subjects/physics",
+  "theme": "circuit",
+  "soon": true,
+  "foot": "Built from standard textbooks. Your progress stays on this phone."
+ },
+ {
+  "id": "chemistry",
+  "name": "Chemistry",
+  "full": "Atoms, bonds and reactions",
+  "title": "Alchemy",
+  "motto": "One lesson a day.<br>What everything is made of.",
+  "dir": "subjects/chemistry",
+  "theme": "alembic",
+  "soon": true,
+  "foot": "Built from standard textbooks. Your progress stays on this phone."
+ },
+ {
+  "id": "biology",
+  "name": "Biology",
+  "full": "Life from cells to ecosystems",
+  "title": "Vita",
+  "motto": "One lesson a day.<br>How life works.",
+  "dir": "subjects/biology",
+  "theme": "helix",
+  "soon": true,
+  "foot": "Built from standard textbooks. Your progress stays on this phone."
+ },
+ {
+  "id": "quantum",
+  "name": "Quantum Mechanics",
+  "full": "The strange rules of the very small",
+  "title": "Quanta",
+  "motto": "One lesson a day.<br>Reality, at its smallest.",
+  "dir": "subjects/quantum",
+  "theme": "quantum",
+  "soon": true,
+  "foot": "Built from standard textbooks. Your progress stays on this phone."
  }
 ]

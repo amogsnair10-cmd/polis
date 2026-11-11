@@ -1,0 +1,91 @@
+[
+ {
+  "p": "Part I",
+  "t": "The Cell",
+  "units": [
+   [
+    "Cells",
+    [
+     "What Is Life?",
+     "The Cell: Prokaryotes and Eukaryotes",
+     "Membranes and Transport",
+     "Enzymes and Metabolism",
+     "Photosynthesis",
+     "Cellular Respiration",
+     "Cell Division: Mitosis and Meiosis"
+    ],
+    1
+   ]
+  ]
+ },
+ {
+  "p": "Part II",
+  "t": "Genetics",
+  "units": [
+   [
+    "Heredity",
+    [
+     "Mendel and the Laws of Inheritance",
+     "DNA: Structure and Replication",
+     "From Gene to Protein",
+     "Gene Regulation and Epigenetics",
+     "Mutations and Genetic Disease",
+     "Biotechnology, CRISPR and GM Crops"
+    ],
+    1
+   ]
+  ]
+ },
+ {
+  "p": "Part III",
+  "t": "Evolution",
+  "units": [
+   [
+    "Change over time",
+    [
+     "Darwin and Natural Selection",
+     "Evidence for Evolution",
+     "Speciation and the Tree of Life",
+     "Human Evolution"
+    ],
+    1
+   ]
+  ]
+ },
+ {
+  "p": "Part IV",
+  "t": "The Human Body",
+  "units": [
+   [
+    "Systems",
+    [
+     "Digestion and Nutrition",
+     "Circulation and the Heart",
+     "Breathing and the Lungs",
+     "The Nervous System and the Brain",
+     "Hormones and the Endocrine System",
+     "Immunity and Vaccines",
+     "Reproduction and Development"
+    ],
+    1
+   ]
+  ]
+ },
+ {
+  "p": "Part V",
+  "t": "Diversity and Ecology",
+  "units": [
+   [
+    "Life's variety",
+    [
+     "Microbes: Bacteria, Viruses and Fungi",
+     "Plants: Structure and Life",
+     "Animals: A Tour of the Kingdoms",
+     "Ecology and Ecosystems",
+     "Disease, Pandemics and Public Health"
+    ],
+    1
+   ]
+  ]
+ }
+]
