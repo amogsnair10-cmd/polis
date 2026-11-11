@@ -113,12 +113,34 @@ svg.d{width:100%;height:auto;margin:4px 0 14px;flex-shrink:0}
 .choice small{display:block;color:var(--vein);font-size:13px}
 .choice[disabled]{opacity:.5}
 .sw{width:34px;height:34px;flex:none;border-radius:50%;border:2px solid rgba(255,255,255,.8);box-shadow:0 0 0 1px var(--opt-line)}
+
+/* search */
+.srch{right:auto;left:14px}
+#search{min-height:100vh;background:var(--night)}
+#q{flex:1;font:inherit;font-size:17px;padding:11px 16px;border-radius:999px;border:1px solid rgba(var(--accent-rgb),.5);background:rgba(255,255,255,.08);color:var(--marble)}
+.allsub{display:block;padding:2px 22px 10px;color:var(--sub);font-size:14px;font-style:italic}
+#results{padding:0 16px 40px}
+.hit{display:block;width:100%;text-align:left;padding:12px 14px;margin-bottom:8px;border-radius:14px;background:rgba(255,255,255,.05);border:1px solid rgba(var(--accent-rgb),.18)}
+.hit b{display:block;color:var(--gold);font-weight:600}
+.hit small{display:block;color:var(--sub);font-size:13px;margin:2px 0 4px}
+.hit span{color:var(--motto);font-size:15px}
+.hit mark{background:rgba(var(--accent-rgb),.35);color:inherit}
+/* ask */
+.ask{width:38px;height:38px;font-size:18px}
+.note{color:var(--vein);font-size:14px;margin-bottom:10px}
+#apiKey,#model,#doubt{width:100%;font:inherit;font-size:16px;padding:11px 14px;border-radius:12px;border:1px solid var(--opt-line);background:#fff;color:var(--ink);margin-bottom:10px}
+#chat{max-height:46vh;overflow-y:auto;margin-bottom:10px}
+.qa{padding:10px 12px;border-radius:12px;margin-bottom:8px;font-size:16px;white-space:pre-wrap}
+.qa.me{background:var(--exam-bg);color:var(--ink)}
+.qa.ai{background:#fff;border-left:3px solid var(--gold);color:var(--ink)}
+.linkbtn{display:block;margin:12px auto 0;color:var(--goldd);font-size:14px;text-decoration:underline}
 </style>
 </head>
 <body>
 <section id="home" class="view on">
  <div class="hero">
   <div class="key"></div>
+  <button class="pick srch" id="srch" aria-label="Search lessons">⌕ Search</button>
   <button class="pick" id="pick" aria-label="Change subject or theme"><span id="pickName">PSIR</span> ▾</button>
   <div id="heroArt"><svg viewBox="0 0 360 300" aria-hidden="true">
    <defs>
@@ -174,8 +196,29 @@ svg.d{width:100%;height:auto;margin:4px 0 14px;flex-shrink:0}
  <h2>Subject</h2><div id="subjList"></div>
  <h2>Theme</h2><div id="themeList"></div>
 </div></div>
+<section id="search" class="view">
+ <div class="bar"><button class="x" id="srchClose" aria-label="Close search">×</button><input id="q" type="search" placeholder="Search lessons…" autocomplete="off"></div>
+ <label class="allsub"><input type="checkbox" id="qAll" checked> All subjects</label>
+ <div id="results"></div>
+</section>
+<div class="sheet" id="askSheet" hidden><div class="sheet-in marble">
+ <button class="x sx" id="askClose" aria-label="Close">×</button>
+ <h2>Ask a doubt</h2>
+ <div id="keyBox">
+  <p class="note">Paste your Anthropic API key. It stays only on this phone and is sent only to Anthropic.</p>
+  <input id="apiKey" type="password" placeholder="sk-ant-…" autocomplete="off">
+  <select id="model"><option value="claude-opus-5-5">Claude Opus 5.5 (best)</option><option value="claude-sonnet-5-5">Claude Sonnet 5.5 (cheaper)</option><option value="claude-haiku-5-5">Claude Haiku 5.5 (cheapest)</option></select>
+  <button class="start" id="saveKey">Save key</button>
+ </div>
+ <div id="chatBox" hidden>
+  <div id="chat"></div>
+  <textarea id="doubt" rows="3" placeholder="What's confusing you on this card?"></textarea>
+  <button class="start" id="sendDoubt">Ask</button>
+  <button class="linkbtn" id="changeKey">Change key or model</button>
+ </div>
+</div></div>
 <section id="lesson" class="view">
- <div class="bar"><button class="x" id="close" aria-label="Close lesson">×</button><div class="prog"><i id="pg"></i></div><div class="cnt" id="cnt"></div></div>
+ <div class="bar"><button class="x" id="close" aria-label="Close lesson">×</button><div class="prog"><i id="pg"></i></div><div class="cnt" id="cnt"></div><button class="x ask" id="askBtn" aria-label="Ask a doubt">?</button></div>
  <div class="deck" id="deck"></div>
 </section>
 <script src="themes.js"></script>

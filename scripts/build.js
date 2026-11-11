@@ -27,13 +27,17 @@ for(const f of fs.readdirSync(dir+'lessons').filter(f=>/^\d+-\d+-\d+\.json$/.tes
   idx[id]={title:l.title,n:l.cards.length,q:l.quiz.length};
 }
 if(!errs.length)fs.writeFileSync(dir+'lessons/index.json',JSON.stringify(idx)+'\n');
-lessonFiles.push(dir+'syllabus.json',dir+'lessons/index.json',...Object.keys(idx).map(i=>`${dir}lessons/${i}.json`));
+// Search index: lesson title plus each card's heading and plain text.
+if(!errs.length){const plain=h=>h.replace(/<svg[\s\S]*?<\/svg>/g,' ').replace(/<[^>]+>/g,' ').replace(/&[a-z]+;/g,' ').replace(/\s+/g,' ').trim();
+  const si=Object.keys(idx).map(id=>{const l=JSON.parse(fs.readFileSync(dir+'lessons/'+id+'.json','utf8'));return [id,l.title,l.cards.map(c=>[plain(c.h),plain(c.b)])]});
+  fs.writeFileSync(dir+'lessons/search.json',JSON.stringify(si));}
+lessonFiles.push(dir+'syllabus.json',dir+'lessons/index.json',dir+'lessons/search.json',...Object.keys(idx).map(i=>`${dir}lessons/${i}.json`));
 console.log(`${sub.id}: ${Object.keys(idx).length} lessons`);
 }
 warn.forEach(w=>console.warn('warn:',w));
 if(errs.length){errs.forEach(x=>console.error('error:',x));process.exit(1)}
 const art=fs.existsSync('art')?fs.readdirSync('art').map(f=>'art/'+f):[];
-const files=['./','index.html','app.js','themes.js','subjects.json','manifest.webmanifest','icons/icon.svg','icons/icon-192.png','icons/icon-512.png','icons/icon-180.png',...art,...lessonFiles];
+const files=['./','index.html','app.js','themes.js','ask.js','vendor/anthropic-sdk-1.3.0.js','subjects.json','manifest.webmanifest','icons/icon.svg','icons/icon-192.png','icons/icon-512.png','icons/icon-180.png',...art,...lessonFiles];
 const h=crypto.createHash('sha1');files.filter(f=>f!=='./').forEach(f=>{if(fs.existsSync(f))h.update(fs.readFileSync(f))});
 const sw=fs.readFileSync('scripts/sw.template.js','utf8').replace('__VERSION__',h.digest('hex').slice(0,10)).replace('__FILES__',JSON.stringify(files));
 fs.writeFileSync('sw.js',sw);

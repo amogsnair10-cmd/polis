@@ -41,14 +41,14 @@ async function getLesson(id){
   const r=await fetch(path(`lessons/${id}.json`));if(!r.ok)throw new Error(r.status);
   return L[id]=await r.json();
 }
-async function openL(id){
+async function openL(id,card){
   let l;try{l=await getLesson(id)}catch(e){alert('This lesson could not load. Check your connection and try again.');return}
   cur=id;
   let h=`<div class="cd"><div class="ci marble cover"><div class="em">${l.emoji}</div><div class="tag">${unitOf(id)}</div><h2>${l.title}</h2><p class="hint">Swipe left to begin</p></div></div>`;
   l.cards.forEach(c=>h+=`<div class="cd"><div class="ci marble ${c.cls||''}"><div class="tag">${c.tag}</div><h2>${c.h}</h2>${c.b}</div></div>`);
   l.quiz.forEach((q,i)=>h+=`<div class="cd"><div class="ci marble"><div class="tag">Question ${i+1} of ${l.quiz.length}</div><h2 style="font-size:21px">${q.q}</h2>${q.o.map((o,j)=>`<button class="opt" data-q="${i}" data-j="${j}">${o}</button>`).join('')}<div class="why" id="w${i}"></div></div></div>`);
   h+=`<div class="cd"><div class="ci marble cover" id="end"><div class="tag">Answer every question to finish</div></div></div>`;
-  deck.innerHTML=h;window.ans={};show('lesson');deck.scrollLeft=0;upd();deck.querySelectorAll('.ci').forEach(c=>{if(c.scrollHeight>c.clientHeight+4){const m=document.createElement('div');m.className='more';m.textContent='Scroll down for more';c.appendChild(m);c.addEventListener('scroll',()=>{if(c.scrollTop+c.clientHeight>=c.scrollHeight-30)m.style.opacity=0},{passive:true})}});
+  deck.innerHTML=h;window.ans={};show('lesson');deck.scrollLeft=card>=0?(card+1)*deck.clientWidth:0;upd();deck.querySelectorAll('.ci').forEach(c=>{if(c.scrollHeight>c.clientHeight+4){const m=document.createElement('div');m.className='more';m.textContent='Scroll down for more';c.appendChild(m);c.addEventListener('scroll',()=>{if(c.scrollTop+c.clientHeight>=c.scrollHeight-30)m.style.opacity=0},{passive:true})}});
 }
 deck.addEventListener('click',e=>{const b=e.target.closest('.opt');if(!b)return;const q=+b.dataset.q,j=+b.dataset.j;if(ans[q]!==undefined)return;
   const Q=L[cur].quiz[q];ans[q]=j===Q.a;b.parentNode.querySelectorAll('.opt').forEach((o,k)=>{if(k===Q.a)o.classList.add('r');else if(k===j)o.classList.add('w')});
@@ -56,7 +56,7 @@ deck.addEventListener('click',e=>{const b=e.target.closest('.opt');if(!b)return;
   if(Object.keys(ans).length===L[cur].quiz.length)finish()});
 function finish(){const s=Object.values(ans).filter(Boolean).length;const f=s/L[cur].quiz.length;S.done[cur]=1;S.scores[cur]=f;if(!S.days.includes(today()))S.days.push(today());save();
   document.getElementById('end').innerHTML=`${wreath}<div class="score">${s} / ${L[cur].quiz.length}</div><h2 style="margin-top:14px">${f>=.8?'Laurels earned':f>=.6?'Solid work':'Worth another read'}</h2><p>${f>=.8?'You know this well enough to write on it.':f>=.6?'Skim the cards you missed once more.':'Come back to this one tomorrow.'}</p><button class="start" onclick="back()">Back to the syllabus</button>`}
-function upd(){const n=deck.children.length,i=Math.round(deck.scrollLeft/deck.clientWidth);document.getElementById('pg').style.width=((i+1)/n*100)+'%';document.getElementById('cnt').textContent=`${i+1}/${n}`}
+let curCard=0;function upd(){const n=deck.children.length,i=Math.round(deck.scrollLeft/deck.clientWidth);curCard=i-1;document.getElementById('pg').style.width=((i+1)/n*100)+'%';document.getElementById('cnt').textContent=`${i+1}/${n}`}
 deck.addEventListener('scroll',()=>requestAnimationFrame(upd));
 function show(v){document.querySelectorAll('.view').forEach(x=>x.classList.toggle('on',x.id===v));window.scrollTo(0,0)}
 function back(){show('home');renderHome()}
@@ -105,4 +105,47 @@ document.getElementById('sheetClose').onclick=()=>sheet.hidden=true;
 sheet.addEventListener('click',e=>{if(e.target===sheet)sheet.hidden=true});
 
 (async()=>{SUBJ=await fetch('subjects.json').then(r=>r.json());loadSubject(ls.get('subject')||SUBJ[0].id)})();
+/* ---------- search ---------- */
+const SI={};
+async function searchIndex(sub){if(!SI[sub.id]){const r=await fetch((sub.dir==='.'?'':sub.dir+'/')+'lessons/search.json');SI[sub.id]=r.ok?await r.json():[]}return SI[sub.id]}
+const hl=(t,ws)=>{let e=esc(t);ws.forEach(w=>{e=e.replace(new RegExp('('+w.replace(/[.*+?^${}()|[\]\\]/g,'\\$&')+')','gi'),'<mark>$1</mark>')});return e};
+let qTimer;
+async function runSearch(){
+  const q=document.getElementById('q').value.trim().toLowerCase(),out=document.getElementById('results');
+  if(q.length<2){out.innerHTML='';return}
+  const ws=q.split(/\s+/),subs=document.getElementById('qAll').checked?SUBJ:[SUB],hits=[];
+  for(const sub of subs){const idx=await searchIndex(sub);
+    for(const [id,title,cards] of idx){const tl=title.toLowerCase();let best=-1,score=0;
+      if(ws.every(w=>tl.includes(w)))score=100;
+      cards.forEach(([h,b],i)=>{const t=(h+' '+b).toLowerCase();if(ws.every(w=>t.includes(w))){const sc=(ws.every(w=>h.toLowerCase().includes(w))?20:5);if(sc+score>score&&best<0){best=i}score+=sc}});
+      if(score)hits.push({sub,id,title,score,card:best,snip:best>=0?cards[best]:null})}}
+  hits.sort((a,b)=>b.score-a.score);
+  out.innerHTML=hits.slice(0,60).map((x,k)=>{let snip='';if(x.snip){const t=x.snip[1],i=Math.max(0,t.toLowerCase().indexOf(ws[0])-60);snip=(i?'…':'')+t.slice(i,i+160)+'…'}
+    return `<button class="hit" data-k="${k}"><b>${hl(x.title,ws)}</b><small>${esc(x.sub.title)} · ${x.snip?hl(x.snip[0],ws):'Lesson'}</small><span>${hl(snip,ws)}</span></button>`}).join('')||'<p class="note" style="color:var(--sub)">No lessons match.</p>';
+  out._hits=hits;
+}
+document.getElementById('srch').onclick=()=>{show('search');document.getElementById('q').focus()};
+document.getElementById('srchClose').onclick=back;
+document.getElementById('q').addEventListener('input',()=>{clearTimeout(qTimer);qTimer=setTimeout(runSearch,200)});
+document.getElementById('qAll').onchange=runSearch;
+document.getElementById('results').addEventListener('click',async e=>{const b=e.target.closest('.hit');if(!b)return;const x=document.getElementById('results')._hits[+b.dataset.k];
+  if(x.sub.id!==SUB.id)await loadSubject(x.sub.id);openL(x.id,x.card)});
+
+/* ---------- ask a doubt ---------- */
+const askSheet=document.getElementById('askSheet'),chat=document.getElementById('chat');
+function askView(){const has=!!ls.get('askKey');document.getElementById('keyBox').hidden=has;document.getElementById('chatBox').hidden=!has;
+  document.getElementById('model').value=ls.get('askModel')||'claude-opus-5-5'}
+document.getElementById('askBtn').onclick=()=>{if(askSheet._lesson!==cur){chat.innerHTML='';askSheet._lesson=cur}askView();askSheet.hidden=false};
+document.getElementById('askClose').onclick=()=>askSheet.hidden=true;
+document.getElementById('saveKey').onclick=()=>{const k=document.getElementById('apiKey').value.trim();if(!k)return;ls.set('askKey',k);ls.set('askModel',document.getElementById('model').value);document.getElementById('apiKey').value='';askView()};
+document.getElementById('changeKey').onclick=()=>{document.getElementById('keyBox').hidden=false;document.getElementById('chatBox').hidden=true};
+document.getElementById('sendDoubt').onclick=async()=>{
+  const ta=document.getElementById('doubt'),q=ta.value.trim();if(!q)return;ta.value='';
+  const me=document.createElement('div');me.className='qa me';me.textContent=q;chat.appendChild(me);
+  const ai=document.createElement('div');ai.className='qa ai';ai.textContent='Thinking…';chat.appendChild(ai);chat.scrollTop=chat.scrollHeight;
+  if(!navigator.onLine){ai.textContent='You are offline. Asking a doubt needs the internet.';return}
+  try{const {ask}=await import('./ask.js');
+    await ask({apiKey:ls.get('askKey'),model:ls.get('askModel')||'claude-opus-5-5',subject:SUB.full,lessonId:SUB.id+'/'+cur,lesson:L[cur],cardIndex:Math.max(0,Math.min(curCard,L[cur].cards.length-1)),question:q,onText:t=>{ai.textContent=t;chat.scrollTop=chat.scrollHeight}})}
+  catch(err){ai.textContent=(err&&err.status===401)?'That API key was rejected. Tap "Change key or model".':'Could not get an answer: '+(err&&err.message||err)}};
+
 if('serviceWorker' in navigator)addEventListener('load',()=>navigator.serviceWorker.register('sw.js'));
