@@ -25,7 +25,7 @@ jobs:
       - name: Collect site files
         run: |
           mkdir _site
-          cp -r index.html auth.html styles.css app.js ask.js account.js themes.js icons.js sw.js subjects.json syllabus.json manifest.webmanifest lessons subjects vendor icons art _site/
+          cp -r index.html auth.html styles.css app.js ask.js account.js themes.js icons.js sw.js subjects.json syllabus.json manifest.webmanifest doodles.json lessons subjects vendor icons art _site/
           touch _site/.nojekyll
       - uses: actions/configure-pages@v5
         with:

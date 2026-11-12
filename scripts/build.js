@@ -34,10 +34,15 @@ if(!errs.length){const plain=h=>h.replace(/<svg[\s\S]*?<\/svg>/g,' ').replace(/<
 lessonFiles.push(dir+'syllabus.json',dir+'lessons/index.json',dir+'lessons/search.json',...Object.keys(idx).map(i=>`${dir}lessons/${i}.json`));
 console.log(`${sub.id}: ${Object.keys(idx).length} lessons`);
 }
+// Doodles: which chapter doodles exist, per subject (art/doodles/<id>/<section>-<unit>.svg)
+const doodles={};
+for(const sub of subjects){const d='art/doodles/'+sub.id;if(fs.existsSync(d))doodles[sub.id]=fs.readdirSync(d).filter(f=>f.endsWith('.svg')).map(f=>f.slice(0,-4))}
+fs.writeFileSync('doodles.json',JSON.stringify(doodles)+'\n');
 warn.forEach(w=>console.warn('warn:',w));
 if(errs.length){errs.forEach(x=>console.error('error:',x));process.exit(1)}
-const art=fs.existsSync('art')?fs.readdirSync('art').map(f=>'art/'+f):[];
-const files=['./','index.html','auth.html','styles.css','app.js','themes.js','icons.js','ask.js','account.js','vendor/anthropic-sdk-1.3.0.js','vendor/firebase-13.1.0.js','subjects.json','manifest.webmanifest','icons/icon-maskable-512.png','icons/logo.webp','icons/icon-192.png','icons/icon-512.png','icons/icon-180.png',...art,...lessonFiles];
+const art=fs.existsSync('art')?fs.readdirSync('art').filter(f=>f.endsWith('.webp')).map(f=>'art/'+f):[];
+const doodleFiles=Object.entries(doodles).flatMap(([id,ks])=>ks.map(k=>`art/doodles/${id}/${k}.svg`));
+const files=['./','index.html','auth.html','styles.css','app.js','themes.js','icons.js','ask.js','account.js','vendor/anthropic-sdk-1.3.0.js','vendor/firebase-13.1.0.js','subjects.json','manifest.webmanifest','icons/icon-maskable-512.png','icons/logo.webp','icons/icon-192.png','icons/icon-512.png','icons/icon-180.png',...art,'doodles.json',...doodleFiles,...lessonFiles];
 const h=crypto.createHash('sha1');files.filter(f=>f!=='./').forEach(f=>{if(fs.existsSync(f))h.update(fs.readFileSync(f))});
 const sw=fs.readFileSync('scripts/sw.template.js','utf8').replace('__VERSION__',h.digest('hex').slice(0,10)).replace('__FILES__',JSON.stringify(files));
 fs.writeFileSync('sw.js',sw);
