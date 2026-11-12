@@ -287,6 +287,14 @@ html,body{overscroll-behavior-y:none}
 .start:active,.choice:active,.les:active,.hit:active{transform:scale(.97)}
 #heroArt img.heroimg{transition:opacity 1.2s var(--ease)}
 #splash{transition:opacity 1s var(--ease),visibility 1s,transform 1s var(--ease)}
-#splash.out{transform:scale(1.04)}
+
 .deck{scroll-behavior:smooth}
 
+
+/* first-run sign-in */
+#welcome{position:fixed;inset:0;z-index:50;display:flex;align-items:flex-end;background:rgba(0,0,0,.55);animation:fade .5s var(--ease) both}
+#welcome .w-in{width:100%;padding:28px var(--gut) calc(30px + env(safe-area-inset-bottom));border-radius:26px 26px 0 0;background:var(--card);color:var(--ink);text-align:center;animation:up .7s var(--ease) both}
+#welcome img{width:96px;border-radius:50%;-webkit-mask-image:radial-gradient(circle,#000 52%,transparent 70%);mask-image:radial-gradient(circle,#000 52%,transparent 70%)}
+#welcome h2{font-family:var(--font-display);font-size:24px;margin:6px 0 4px}
+#welcome p{color:var(--vein);font-size:15px;margin-bottom:16px}
+#welcome.closing{animation:fadeOut .45s var(--ease) both}#welcome.closing .w-in{animation:down .45s var(--ease) both}

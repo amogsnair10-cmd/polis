@@ -179,7 +179,7 @@ function handleGo(){const go=new URLSearchParams(location.search).get('go');if(!
 if(CAP&&Capacitor.Plugins.LocalNotifications)Capacitor.Plugins.LocalNotifications.addListener('localNotificationActionPerformed',()=>{const n=ids.find(i=>IDX[i]&&!S.done[i]);if(n)openL(n)});
 /* ---------- loading screen ---------- */
 (()=>{const box=document.querySelector('#splash .sp-stars');if(!box)return;let h='';
-  for(let i=0;i<90;i++){const z=(Math.random()*2.2+.6).toFixed(1);h+=`<b style="left:${(Math.random()*100).toFixed(2)}%;top:${(Math.random()*100).toFixed(2)}%;--z:${z}px;--t:${(Math.random()*3+2).toFixed(1)}s;--d:${(Math.random()*3).toFixed(1)}s"></b>`}
+  for(let i=0;i<45;i++){const z=(Math.random()*2.2+.6).toFixed(1);h+=`<b style="left:${(Math.random()*100).toFixed(2)}%;top:${(Math.random()*100).toFixed(2)}%;--z:${z}px;--t:${(Math.random()*3+2).toFixed(1)}s;--d:${(Math.random()*3).toFixed(1)}s"></b>`}
   box.innerHTML=h})();
 const splashStart=Date.now();
 function hideSplash(){const s=document.getElementById('splash');if(!s||s.classList.contains('out'))return;setTimeout(()=>{s.classList.add('out');setTimeout(()=>s.remove(),800)},Math.max(0,1800-(Date.now()-splashStart)))}

@@ -87,7 +87,26 @@ function render() {
     };
   }
 }
-onAuthStateChanged(auth, async u => { user = u; render(); if (u) { try { await pull(); } catch (e) { console.warn("sync", e); } } });
+let firstCheck = true;
+onAuthStateChanged(auth, async u => {
+  user = u; render();
+  if (u) { closeWelcome(); try { await pull(); } catch (e) { console.warn("sync", e); } }
+  else if (firstCheck && ls.get("welcomed") !== "1") setTimeout(showWelcome, 2400);
+  firstCheck = false;
+});
+
+// First-run welcome: ask once to sign in so progress and doubts are saved.
+function showWelcome() {
+  if (user || document.getElementById("welcome")) return;
+  const w = document.createElement("div"); w.id = "welcome";
+  w.innerHTML = `<div class="w-in"><img src="icons/logo.webp" alt=""><h2>Welcome to Light Bulb</h2>
+    <p>Sign in once to keep your streak, progress and doubts safe across devices.</p>
+    <button class="start" id="wG">Continue with Google</button><button class="linkbtn" id="wSkip">Not now</button><p class="note" id="wMsg"></p></div>`;
+  document.body.appendChild(w);
+  document.getElementById("wSkip").onclick = () => { ls.set("welcomed", "1"); closeWelcome(); };
+  document.getElementById("wG").onclick = async () => { ls.set("welcomed", "1"); try { await googleSignIn(); } catch (e) { document.getElementById("wMsg").textContent = "Sign-in didn't finish: " + (e.code || e.message); } };
+}
+function closeWelcome() { const w = document.getElementById("welcome"); if (!w) return; w.classList.add("closing"); setTimeout(() => w.remove(), 460); }
 
 // ---------- My learning ----------
 async function openMe() {
