@@ -11,7 +11,7 @@
   {
    "tag": "The story",
    "h": "Ptolemy and the book collection",
-   "b": "<p>The Ptolemaic kings of Egypt founded the library around the early 200s BCE, under Ptolemy I or Ptolemy II. They bought and copied books and sent ships to borrow scrolls from other cities. Some books were said to be taken from visitors who were searched.</p><p>The library grew to hold many hundreds of thousands of scrolls at its height, though the exact number is uncertain. It was a place where scholars from around the Mediterranean lived and worked.</p>"
+   "b": "<p>The Ptolemaic kings of Egypt founded the library around 300 BCE, under Ptolemy I or Ptolemy II. They bought and copied books and sent ships to borrow scrolls from other cities. Some books were said to be taken from visitors who were searched.</p><p>The library grew to hold many hundreds of thousands of scrolls at its height, though the exact number is uncertain. It was a place where scholars from around the Mediterranean lived and worked.</p>"
   },
   {
    "tag": "The story",
@@ -26,7 +26,7 @@
   {
    "tag": "Timeline",
    "h": "Alexandria's library through time",
-   "b": "<svg class=\"d\" viewBox=\"0 0 320 186\"><line x1=\"14\" y1=\"10\" x2=\"14\" y2=\"166\" stroke=\"#a8792a\" stroke-width=\"2\"/><circle cx=\"14\" cy=\"22\" r=\"5\" fill=\"#f1e4c6\" stroke=\"#a8792a\" stroke-width=\"2\"/><text x=\"28\" y=\"26\" font-size=\"11\" font-weight=\"700\" fill=\"#a8792a\">c. 300 BCE</text><text x=\"92\" y=\"26\" font-size=\"11\" fill=\"#1d2433\">Mouseion founded</text><circle cx=\"14\" cy=\"50\" r=\"5\" fill=\"#f1e4c6\" stroke=\"#a8792a\" stroke-width=\"2\"/><text x=\"28\" y=\"54\" font-size=\"11\" font-weight=\"700\" fill=\"#a8792a\">c. 240 BCE</text><text x=\"92\" y=\"54\" font-size=\"11\" fill=\"#1d2433\">Eratosthenes measures the Earth</text><circle cx=\"14\" cy=\"78\" r=\"5\" fill=\"#f1e4c6\" stroke=\"#a8792a\" stroke-width=\"2\"/><text x=\"28\" y=\"82\" font-size=\"11\" font-weight=\"700\" fill=\"#a8792a\">48 BCE</text><text x=\"92\" y=\"82\" font-size=\"11\" fill=\"#1d2433\">Fire during Caesar's war</text><circle cx=\"14\" cy=\"106\" r=\"5\" fill=\"#f1e4c6\" stroke=\"#a8792a\" stroke-width=\"2\"/><text x=\"28\" y=\"110\" font-size=\"11\" font-weight=\"700\" fill=\"#a8792a\">c. 270 CE</text><text x=\"92\" y=\"110\" font-size=\"11\" fill=\"#1d2433\">Fighting in the city</text><circle cx=\"14\" cy=\"134\" r=\"5\" fill=\"#f1e4c6\" stroke=\"#a8792a\" stroke-width=\"2\"/><text x=\"28\" y=\"138\" font-size=\"11\" font-weight=\"700\" fill=\"#a8792a\">391 CE</text><text x=\"92\" y=\"138\" font-size=\"11\" fill=\"#1d2433\">Serapeum destroyed</text><circle cx=\"14\" cy=\"162\" r=\"5\" fill=\"#f1e4c6\" stroke=\"#a8792a\" stroke-width=\"2\"/><text x=\"28\" y=\"166\" font-size=\"11\" font-weight=\"700\" fill=\"#a8792a\">642</text><text x=\"92\" y=\"166\" font-size=\"11\" fill=\"#1d2433\">Arab conquest of Alexandria</text></svg><p>The library did not disappear in one night. It faded over centuries, through wars, neglect and changing priorities.</p>"
+   "b": "<svg class=\"d\" viewBox=\"0 0 320 186\"><line x1=\"14\" y1=\"10\" x2=\"14\" y2=\"166\" stroke=\"#a8792a\" stroke-width=\"2\"/><circle cx=\"14\" cy=\"22\" r=\"5\" fill=\"#f1e4c6\" stroke=\"#a8792a\" stroke-width=\"2\"/><text x=\"28\" y=\"26\" font-size=\"11\" font-weight=\"700\" fill=\"#a8792a\">c. 300 BCE</text><text x=\"92\" y=\"26\" font-size=\"11\" fill=\"#1d2433\">Mouseion founded</text><circle cx=\"14\" cy=\"50\" r=\"5\" fill=\"#f1e4c6\" stroke=\"#a8792a\" stroke-width=\"2\"/><text x=\"28\" y=\"54\" font-size=\"11\" font-weight=\"700\" fill=\"#a8792a\">c. 240 BCE</text><text x=\"92\" y=\"54\" font-size=\"11\" fill=\"#1d2433\">Eratosthenes measures the Earth</text><circle cx=\"14\" cy=\"78\" r=\"5\" fill=\"#f1e4c6\" stroke=\"#a8792a\" stroke-width=\"2\"/><text x=\"28\" y=\"82\" font-size=\"11\" font-weight=\"700\" fill=\"#a8792a\">48 BCE</text><text x=\"92\" y=\"82\" font-size=\"11\" fill=\"#1d2433\">Fire during Caesar's war</text><circle cx=\"14\" cy=\"106\" r=\"5\" fill=\"#f1e4c6\" stroke=\"#a8792a\" stroke-width=\"2\"/><text x=\"28\" y=\"110\" font-size=\"11\" font-weight=\"700\" fill=\"#a8792a\">272 CE</text><text x=\"92\" y=\"110\" font-size=\"11\" fill=\"#1d2433\">Aurelian retakes the city</text><circle cx=\"14\" cy=\"134\" r=\"5\" fill=\"#f1e4c6\" stroke=\"#a8792a\" stroke-width=\"2\"/><text x=\"28\" y=\"138\" font-size=\"11\" font-weight=\"700\" fill=\"#a8792a\">391 CE</text><text x=\"92\" y=\"138\" font-size=\"11\" fill=\"#1d2433\">Serapeum destroyed</text><circle cx=\"14\" cy=\"162\" r=\"5\" fill=\"#f1e4c6\" stroke=\"#a8792a\" stroke-width=\"2\"/><text x=\"28\" y=\"166\" font-size=\"11\" font-weight=\"700\" fill=\"#a8792a\">642</text><text x=\"92\" y=\"166\" font-size=\"11\" fill=\"#1d2433\">Arab conquest of Alexandria</text></svg><p>The library did not disappear in one night. It faded over centuries, through wars, neglect and changing priorities.</p>"
   },
   {
    "tag": "Myth vs fact",
@@ -40,7 +40,7 @@
   },
   {
    "tag": "Key idea",
-   "h": "The Dead Sea scrolls of learning",
+   "h": "Copies that kept texts alive",
    "b": "<p>Much of the ancient world we know survives through copies made in Alexandria. Scholars there created standard texts of Homer and the tragedians, and their editions helped preserve the Greek literary canon.</p><p>Historians argue that the real loss was not one fire, but the slow decline of funding, copying and interest over centuries. What survived depended on luck and on a few people who kept copying.</p>"
   },
   {
@@ -61,7 +61,7 @@
   {
    "tag": "Recap",
    "h": "Five takeaways, two puzzles",
-   "b": "<b>Five things to remember</b><ol><li>The library was part of the Mouseion, a research centre.</li><li>The Ptolemies founded it in the early 200s BCE.</li><li>Eratosthenes measured the Earth using shadows.</li><li>The fire of 48 BCE was real but limited.</li><li>The story of Omar burning the books is a later legend.</li></ol><b>Think about it</b><ul><li>Why do lost libraries become legends?</li><li>What makes a body of knowledge survive for centuries?</li></ul>",
+   "b": "<b>Five things to remember</b><ol><li>The library was part of the Mouseion, a research centre.</li><li>The Ptolemies founded it around 300 BCE.</li><li>Eratosthenes measured the Earth using shadows.</li><li>The fire of 48 BCE was real but limited.</li><li>The story of Omar burning the books is a later legend.</li></ol><b>Think about it</b><ul><li>Why do lost libraries become legends?</li><li>What makes a body of knowledge survive for centuries?</li></ul>",
    "cls": "exam"
   }
  ],
