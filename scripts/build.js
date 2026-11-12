@@ -37,7 +37,7 @@ console.log(`${sub.id}: ${Object.keys(idx).length} lessons`);
 warn.forEach(w=>console.warn('warn:',w));
 if(errs.length){errs.forEach(x=>console.error('error:',x));process.exit(1)}
 const art=fs.existsSync('art')?fs.readdirSync('art').map(f=>'art/'+f):[];
-const files=['./','index.html','styles.css','app.js','themes.js','icons.js','ask.js','vendor/anthropic-sdk-1.3.0.js','subjects.json','manifest.webmanifest','icons/icon.svg','icons/icon-192.png','icons/icon-512.png','icons/icon-180.png',...art,...lessonFiles];
+const files=['./','index.html','styles.css','app.js','themes.js','icons.js','ask.js','vendor/anthropic-sdk-1.3.0.js','subjects.json','manifest.webmanifest','icons/icon-maskable-512.png','icons/icon-192.png','icons/icon-512.png','icons/icon-180.png',...art,...lessonFiles];
 const h=crypto.createHash('sha1');files.filter(f=>f!=='./').forEach(f=>{if(fs.existsSync(f))h.update(fs.readFileSync(f))});
 const sw=fs.readFileSync('scripts/sw.template.js','utf8').replace('__VERSION__',h.digest('hex').slice(0,10)).replace('__FILES__',JSON.stringify(files));
 fs.writeFileSync('sw.js',sw);
