@@ -247,3 +247,4 @@ html,body{overscroll-behavior-y:none}
 /* chapter doodles (single-colour SVG used as a mask, tinted with the subject accent) */
 .dd{display:inline-block;flex:none;width:34px;height:34px;background:var(--gold);-webkit-mask:var(--u) center/contain no-repeat;mask:var(--u) center/contain no-repeat}
 .dd.big{display:block;width:clamp(120px,40vw,170px);height:clamp(120px,40vw,170px);margin:0 auto 10px;background:var(--goldd);animation:float 7s ease-in-out infinite}
+.dd.card{display:block;width:clamp(120px,44vw,190px);height:clamp(90px,33vw,142px);margin:0 auto 8px;background:var(--goldd);opacity:.9}
