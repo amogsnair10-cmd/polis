@@ -237,3 +237,6 @@ body>a[href*="netlify"],body>div[class*="netlify" i],body>div[id*="netlify" i],n
 .me-doubt{flex-direction:column;align-items:flex-start;gap:4px}.me-doubt span{font-size:14px;color:var(--motto);line-height:1.45}
 .me .note{color:var(--sub)}
 .phone[hidden]{display:none}
+
+#heroArt img.heroimg{opacity:0;transition:opacity .9s ease}#heroArt img.heroimg.in{opacity:1}
+.me-signin{padding:18px;border-radius:20px;background:var(--glass2);border:1px solid rgba(var(--accent-rgb),.35);margin-bottom:6px}.me-signin b{display:block;color:#fff;font-family:var(--font-display);font-size:19px}.me-signin small{font-size:14px}.me-signin .note{color:var(--sub);margin:8px 0 0}

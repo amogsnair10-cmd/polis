@@ -109,6 +109,7 @@ async function openMe() {
   if (user) try { (await getDocs(query(collection(db, "users", user.uid, "doubts"), orderBy("ts", "desc"), limit(40)))).forEach(d => doubts.push(d.data())); } catch (e) {}
   v.innerHTML = `<div class="bar"><button class="x" id="meClose" aria-label="Close">×</button><h2 class="me-h">My learning</h2></div>
    <div class="me">
+    ${user ? "" : `<div class="me-signin"><b>Save your progress and doubts</b><small>Sign in once and everything syncs across devices.</small><button class="start" id="meG">Continue with Google</button><p class="note" id="meMsg"></p></div>`}
     <div class="me-stats"><div><b>${st}</b><small>day streak</small></div><div><b>${done}</b><small>lessons</small></div><div><b>${days.size}</b><small>study days</small></div><div><b>${sc.length ? avg + "%" : "–"}</b><small>quiz average</small></div></div>
     <h3>Last 12 weeks</h3><div class="heat">${heat}</div>
     <h3>Subjects</h3>${subj.length ? subj.map(x => `<button class="me-sub" data-s="${x.s.id}"><span class="sic" style="--a:${(THEMES[x.s.theme] || THEMES.polis).vars["--gold"] || "#c9a45c"};--b:${(THEMES[x.s.theme] || THEMES.polis).vars["--lapis"] || "#13294b"}">${icon(x.s.id)}</span><span class="me-sub-t"><b>${x.s.title}</b> · ${x.s.name}<i style="--w:${Math.round(x.n / Math.max(1, x.total) * 100)}%"></i><small>${x.n} of ${x.total} lessons${x.a != null ? " · quiz " + x.a + "%" : ""}</small></span></button>`).join("") : `<p class="note">Finish a lesson and it shows up here.</p>`}
@@ -117,6 +118,8 @@ async function openMe() {
    </div>`;
   show("me");
   document.getElementById("meClose").onclick = back;
+  const g = document.getElementById("meG");
+  if (g) g.onclick = async () => { try { await signInWithPopup(auth, new GoogleAuthProvider()); openMe(); } catch (e) { document.getElementById("meMsg").textContent = window.Capacitor ? "Google sign-in works in Chrome for now: open amoglightbulb.netlify.app there." : "Sign-in didn't finish: " + (e.code || e.message); } };
   v.querySelectorAll(".me-sub").forEach(b => b.onclick = async () => { await loadSubject(b.dataset.s); back(); });
   v.querySelectorAll(".me-weak").forEach(b => b.onclick = async () => { await loadSubject(b.dataset.s); const [p, u] = b.dataset.u.split("-"); openTest(+p, +u); });
   v.querySelectorAll(".me-doubt").forEach(b => b.onclick = async () => { if (!b.dataset.s || !b.dataset.l) return; await loadSubject(b.dataset.s); openL(b.dataset.l); });
