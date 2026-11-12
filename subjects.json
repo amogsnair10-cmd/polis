@@ -96,7 +96,8 @@
   "motto": "One lesson a day.<br>What everything is made of.",
   "dir": "subjects/chemistry",
   "theme": "alembic",
-  "foot": "Built from standard textbooks. Your progress stays on this phone."
+  "foot": "Built from standard textbooks. Your progress stays on this phone.",
+  "hero": "art/chemistry.webp"
  },
  {
   "id": "biology",
@@ -106,7 +107,8 @@
   "motto": "One lesson a day.<br>How life works.",
   "dir": "subjects/biology",
   "theme": "helix",
-  "foot": "Built from standard textbooks. Your progress stays on this phone."
+  "foot": "Built from standard textbooks. Your progress stays on this phone.",
+  "hero": "art/biology.webp"
  },
  {
   "id": "quantum",
@@ -116,6 +118,7 @@
   "motto": "One lesson a day.<br>Reality, at its smallest.",
   "dir": "subjects/quantum",
   "theme": "quantum",
-  "foot": "Built from standard textbooks. Your progress stays on this phone."
+  "foot": "Built from standard textbooks. Your progress stays on this phone.",
+  "hero": "art/quantum.webp"
  }
 ]
