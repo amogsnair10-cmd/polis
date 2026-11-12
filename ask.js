@@ -49,16 +49,21 @@ export function forget(lessonId) { for (const k in threads) if (k.startsWith(les
 
 // Gemini (Google AI Studio key). Streams the answer inside the app via the Gemini REST API.
 async function askGemini({ apiKey, model, system, history, onText }) {
-  const url = `https://generativelanguage.googleapis.com/v1beta/models/${model}:streamGenerateContent?alt=sse`;
-  const res = await fetch(url, {
-    method: "POST",
-    headers: { "Content-Type": "application/json", "x-goog-api-key": apiKey },
-    body: JSON.stringify({
-      systemInstruction: { parts: [{ text: system }] },
-      contents: history.map(m => ({ role: m.role === "assistant" ? "model" : "user", parts: [{ text: m.content }] })),
-      generationConfig: { maxOutputTokens: 4000 },
-    }),
-  });
+  // No personal key: use the site's built-in Gemini (key kept on the server).
+  const res = apiKey
+    ? await fetch(`https://generativelanguage.googleapis.com/v1beta/models/${model}:streamGenerateContent?alt=sse`, {
+        method: "POST",
+        headers: { "Content-Type": "application/json", "x-goog-api-key": apiKey },
+        body: JSON.stringify({
+          systemInstruction: { parts: [{ text: system }] },
+          contents: history.map(m => ({ role: m.role === "assistant" ? "model" : "user", parts: [{ text: m.content }] })),
+          generationConfig: { maxOutputTokens: 4000 },
+        }),
+      })
+    : await fetch(`${location.hostname === "localhost" ? "" : "https://amoglightbulb.netlify.app"}/api/ask-gemini`, {
+        method: "POST", headers: { "Content-Type": "application/json" },
+        body: JSON.stringify({ model, system, history }),
+      });
   if (!res.ok) {
     history.pop();
     const e = new Error(res.status === 400 || res.status === 403 ? "Gemini rejected that key." : `Gemini error ${res.status}`);
