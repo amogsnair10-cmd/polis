@@ -172,3 +172,11 @@ svg.d{width:100%;height:auto;margin:4px 0 14px;flex-shrink:0;overflow:visible}
 .hero.has-img #heroArt{padding:0}
 .hero.has-img #heroArt::after{content:"";position:absolute;inset:auto 0 0 0;height:45%;background:linear-gradient(transparent,var(--night))}
 .hero.has-img .name{text-shadow:0 4px 40px rgba(0,0,0,.6)}
+/* subject icons */
+.ic{width:24px;height:24px;flex:none}
+.ic.sm{width:16px;height:16px;vertical-align:-3px}
+.pick{display:inline-flex;align-items:center;gap:6px}
+.sic{width:44px;height:44px;flex:none;border-radius:14px;display:grid;place-items:center;color:var(--a);background:radial-gradient(120% 120% at 30% 20%,color-mix(in srgb,var(--b) 70%,#fff 8%),var(--b));box-shadow:inset 0 0 0 1px rgba(255,255,255,.12),0 6px 16px rgba(0,0,0,.18)}
+.choice strong{font-family:var(--font-display);font-weight:700}
+.les.test{color:var(--gold);font-weight:600}
+.les.test .num{background:rgba(var(--accent-rgb),.15)}

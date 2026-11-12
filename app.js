@@ -32,6 +32,7 @@ function renderHome(){
       h+=`<div class="unit${live?' live':''}${pi==0&&ui<2?' open':''}"><button onclick="this.parentNode.classList.toggle('open')" aria-label="${esc(u[0])}"><span class="t">${u[0]}${u[2]?'<em class="hy">Asked often</em>':''}</span><span class="c">${live?'Open':u[1].length+' lessons'}</span><span class="chev"></span></button><div class="ls">`;
       for(let k=0;k<u[1].length;k++){num++;const id=`${pi}-${ui}-${k}`,l=IDX[id];
         h+=l?`<button class="les${S.done[id]?' done':''}" onclick="openL('${id}')"><span class="num">${S.done[id]?'✓':num}</span>${l.title}</button>`:`<div class="les soon"><span class="num">${num}</span>${u[1][k]}</div>`}
+      if(u[1].every((_,k)=>IDX[`${pi}-${ui}-${k}`])){const tid=`${pi}-${ui}-T`,sc=S.tests&&S.tests[tid];h+=`<button class="les test" onclick="openTest(${pi},${ui})"><span class="num">✎</span>Chapter test${sc!=null?` · best ${Math.round(sc*100)}%`:''}</button>`}
       h+=`</div></div>`})});
   document.getElementById('map').innerHTML=h;
 }
@@ -54,7 +55,7 @@ deck.addEventListener('click',e=>{const b=e.target.closest('.opt');if(!b)return;
   const Q=L[cur].quiz[q];ans[q]=j===Q.a;b.parentNode.querySelectorAll('.opt').forEach((o,k)=>{if(k===Q.a)o.classList.add('r');else if(k===j)o.classList.add('w')});
   const w=document.getElementById('w'+q);w.innerHTML=(j===Q.a?'<b>Correct.</b> ':'<b>Not quite.</b> ')+Q.w;w.classList.add('on');
   if(Object.keys(ans).length===L[cur].quiz.length)finish()});
-function finish(){const s=Object.values(ans).filter(Boolean).length;const f=s/L[cur].quiz.length;S.done[cur]=1;S.scores[cur]=f;if(!S.days.includes(today()))S.days.push(today());save();
+function finish(){const s=Object.values(ans).filter(Boolean).length;const f=s/L[cur].quiz.length;if(cur.endsWith('-T')){S.tests=S.tests||{};S.tests[cur]=Math.max(f,S.tests[cur]||0)}else{S.done[cur]=1;S.scores[cur]=f}if(!S.days.includes(today()))S.days.push(today());save();
   document.getElementById('end').innerHTML=`${wreath}<div class="score">${s} / ${L[cur].quiz.length}</div><h2 style="margin-top:14px">${f>=.8?'Laurels earned':f>=.6?'Solid work':'Worth another read'}</h2><p>${f>=.8?'You know this well enough to write on it.':f>=.6?'Skim the cards you missed once more.':'Come back to this one tomorrow.'}</p><button class="start" onclick="back()">Back to the syllabus</button>`}
 let curCard=0;const io=new IntersectionObserver(es=>es.forEach(e=>{if(e.isIntersecting)e.target.classList.add('in')}),{threshold:.35});
 function upd(){const n=deck.children.length,i=Math.round(deck.scrollLeft/deck.clientWidth);curCard=i-1;document.getElementById('pg').style.width=((i+1)/n*100)+'%';document.getElementById('cnt').textContent=`${i+1}/${n}`}
@@ -79,7 +80,7 @@ function applyTheme(id){
   else art.innerHTML=`<svg viewBox="0 0 360 260" aria-hidden="true"><defs><radialGradient id="eg"><stop offset="0" stop-color="var(--gold)" stop-opacity=".4"/><stop offset="1" stop-color="var(--gold)" stop-opacity="0"/></radialGradient></defs><circle cx="180" cy="130" r="120" fill="url(#eg)"/><circle cx="180" cy="130" r="78" fill="none" stroke="var(--gold)" stroke-width="2"/><circle cx="180" cy="130" r="64" fill="none" stroke="var(--gold)" stroke-width="1" stroke-dasharray="3 5"/><text x="180" y="152" font-size="62" text-anchor="middle">${t.glyph||'✦'}</text></svg>`;
   document.querySelector('meta[name=theme-color]').setAttribute('content',getComputedStyle(root).getPropertyValue('--night').trim());
 }
-const themeFor=s=>ls.get('theme:'+s.id)||s.theme;
+const themeFor=s=>s.theme;
 
 /* Shrink the big title until it fits the screen width. */
 function fitName(){const el=document.getElementById('appName');el.style.fontSize='';
@@ -94,7 +95,7 @@ async function loadSubject(id){
   document.getElementById('appName').textContent=SUB.title.toUpperCase();fitName();
   document.getElementById('motto').innerHTML=SUB.motto;
   document.getElementById('foot').textContent=SUB.foot;
-  document.getElementById('pickName').textContent=SUB.name;
+  document.getElementById('pickName').innerHTML=icon(SUB.id,'ic sm')+' '+SUB.name;
   document.title='Light Bulb · '+SUB.title+' ('+SUB.name+')';
   L={};loadProgress();
   const [m,x]=await Promise.all([fetch(path('syllabus.json')).then(r=>r.json()),fetch(path('lessons/index.json')).then(r=>r.json())]);
@@ -103,9 +104,8 @@ async function loadSubject(id){
 }
 const sheet=document.getElementById('sheet');
 function openSheet(){
-  document.getElementById('subjList').innerHTML=SUBJ.map(s=>`<button class="choice${s.id===SUB.id?' on':''}" ${s.soon?'disabled':''} onclick="pickSubject('${s.id}')"><span class="sw" style="background:${(THEMES[s.theme].vars['--lapis'])||'#13294b'}"></span><span>${s.name}<small>${s.full}${s.soon?' · coming soon':''}</small></span></button>`).join('');
-  const cur=themeFor(SUB);
-  document.getElementById('themeList').innerHTML=Object.entries(THEMES).map(([k,t])=>`<button class="choice${k===cur?' on':''}" onclick="pickTheme('${k}')"><span class="sw" style="background:linear-gradient(135deg,${t.vars['--lapis']||'#13294b'} 50%,${t.vars['--gold']||'#c9a45c'} 50%)"></span><span>${t.name}<small>${t.note}</small></span></button>`).join('');
+  document.getElementById('subjList').innerHTML=SUBJ.map(s=>{const t=THEMES[s.theme]||THEMES.polis,a=t.vars['--gold']||'#c9a45c',b=t.vars['--lapis']||'#13294b';
+    return `<button class="choice${s.id===SUB.id?' on':''}" onclick="pickSubject('${s.id}')"><span class="sic" style="--a:${a};--b:${b}">${icon(s.id)}</span><span><strong>${s.title}</strong> · ${s.name}<small>${s.full}</small></span></button>`}).join('');
   sheet.hidden=false}
 function pickSubject(id){sheet.hidden=true;loadSubject(id)}
 function pickTheme(k){ls.set('theme:'+SUB.id,k);applyTheme(k);openSheet()}
@@ -114,6 +114,12 @@ document.getElementById('sheetClose').onclick=()=>sheet.hidden=true;
 sheet.addEventListener('click',e=>{if(e.target===sheet)sheet.hidden=true});
 
 (async()=>{SUBJ=await fetch('subjects.json').then(r=>r.json());loadSubject(ls.get('subject')||SUBJ[0].id)})();
+/* ---------- chapter tests: 15 questions drawn from every lesson in the chapter ---------- */
+async function openTest(pi,ui){const u=MAP[pi].units[ui],pool=[];
+  try{for(let k=0;k<u[1].length;k++){const l=await getLesson(`${pi}-${ui}-${k}`);l.quiz.forEach(q=>pool.push(q))}}catch(e){alert('The test could not load. Check your connection.');return}
+  for(let i=pool.length-1;i>0;i--){const j=Math.floor(Math.random()*(i+1));[pool[i],pool[j]]=[pool[j],pool[i]]}
+  const id=`${pi}-${ui}-T`;L[id]={title:'Chapter test: '+u[0],emoji:'✎',cards:[],quiz:pool.slice(0,Math.min(15,pool.length))};openL(id)}
+
 /* ---------- search ---------- */
 const SI={};
 async function searchIndex(sub){if(!SI[sub.id]){const r=await fetch((sub.dir==='.'?'':sub.dir+'/')+'lessons/search.json');SI[sub.id]=r.ok?await r.json():[]}return SI[sub.id]}
