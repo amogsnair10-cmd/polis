@@ -49,25 +49,29 @@ export function forget(lessonId) { for (const k in threads) if (k.startsWith(les
 
 // Gemini (Google AI Studio key). Streams the answer inside the app via the Gemini REST API.
 async function askGemini({ apiKey, model, system, history, onText }) {
-  // No personal key: use the site's built-in Gemini (key kept on the server).
-  const res = apiKey
-    ? await fetch(`https://generativelanguage.googleapis.com/v1beta/models/${model}:streamGenerateContent?alt=sse`, {
-        method: "POST",
-        headers: { "Content-Type": "application/json", "x-goog-api-key": apiKey },
-        body: JSON.stringify({
-          systemInstruction: { parts: [{ text: system }] },
-          contents: history.map(m => ({ role: m.role === "assistant" ? "model" : "user", parts: [{ text: m.content }] })),
-          generationConfig: { maxOutputTokens: 4000 },
-        }),
-      })
-    : await fetch(`${window.LB_API || ""}/api/ask-gemini`, {
-        method: "POST", headers: { "Content-Type": "application/json" },
-        body: JSON.stringify({ model, system, history }),
-      });
+  // Google returns 503/429 when a model is busy: retry once, then fall back to other current Flash models.
+  const tries = [model, model, "gemini-3.8-flash", "gemini-3.5-flash"];
+  let res, lastErr = "";
+  for (let t = 0; t < tries.length; t++) {
+    if (t) await new Promise(r => setTimeout(r, 1200 * t));
+    const body = JSON.stringify(apiKey ? {
+      systemInstruction: { parts: [{ text: system }] },
+      contents: history.map(m => ({ role: m.role === "assistant" ? "model" : "user", parts: [{ text: m.content }] })),
+      generationConfig: { maxOutputTokens: 4000 },
+    } : { model: tries[t], system, history });
+    res = apiKey
+      ? await fetch(`https://generativelanguage.googleapis.com/v1beta/models/${tries[t]}:streamGenerateContent?alt=sse`, { method: "POST", headers: { "Content-Type": "application/json", "x-goog-api-key": apiKey }, body })
+      : await fetch(`${window.LB_API || ""}/api/ask-gemini`, { method: "POST", headers: { "Content-Type": "application/json" }, body });
+    if (res.ok) break;
+    try { const j = await res.clone().json(); lastErr = (j.error && j.error.message) || ""; } catch (e) {}
+    if (![429, 500, 503, 404].includes(res.status)) break;
+    if (t === 0) onText("Gemini is busy, retrying…");
+  }
   if (!res.ok) {
     history.pop();
-    const e = new Error(res.status === 400 || res.status === 403 ? "Gemini rejected that key." : `Gemini error ${res.status}`);
-    e.status = res.status === 400 || res.status === 403 ? 401 : res.status;
+    const bad = res.status === 400 || res.status === 403;
+    const e = new Error(bad ? "Gemini rejected that key." : (res.status === 503 || res.status === 429 ? "Gemini is overloaded right now. Try again in a minute." : `Gemini error ${res.status}`) + (lastErr && !bad ? " (" + lastErr.slice(0, 120) + ")" : ""));
+    e.status = bad ? 401 : res.status;
     throw e;
   }
   const reader = res.body.getReader(), dec = new TextDecoder();
