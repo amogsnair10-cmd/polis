@@ -29,11 +29,11 @@ function renderHome(){
   let h='',num=0;
   MAP.forEach((p,pi)=>{h+=`<div class="sec"><h3>${p.t}</h3><p>${p.p}</p></div>`;
     p.units.forEach((u,ui)=>{const live=u[1].some((_,k)=>IDX[`${pi}-${ui}-${k}`]);
-      h+=`<div class="unit${live?' live':''}${pi==0&&ui<2?' open':''}"><button onclick="this.parentNode.classList.toggle('open')" aria-label="${esc(u[0])}">${doodle(pi+'-'+ui)}<span class="t">${u[0]}${u[2]?'<em class="hy">Asked often</em>':''}</span><span class="c">${live?'Open':u[1].length+' lessons'}</span><span class="chev"></span></button><div class="ls">`;
+      h+=`<div class="unit${live?' live':''}${pi==0&&ui<2?' open':''}"><button onclick="this.parentNode.classList.toggle('open')" aria-label="${esc(u[0])}">${doodle(pi+'-'+ui)}<span class="t">${u[0]}${u[2]?'<em class="hy">Asked often</em>':''}</span><span class="c">${live?'Open':u[1].length+' lessons'}</span><span class="chev"></span></button><div class="ls"><div class="lsi">`;
       for(let k=0;k<u[1].length;k++){num++;const id=`${pi}-${ui}-${k}`,l=IDX[id];
         h+=l?`<button class="les${S.done[id]?' done':''}" onclick="openL('${id}')"><span class="num">${S.done[id]?'✓':num}</span>${l.title}</button>`:`<div class="les soon"><span class="num">${num}</span>${u[1][k]}</div>`}
       if(u[1].every((_,k)=>IDX[`${pi}-${ui}-${k}`])){const tid=`${pi}-${ui}-T`,sc=S.tests&&S.tests[tid];h+=`<button class="les test" onclick="openTest(${pi},${ui})"><span class="num">✎</span>Chapter test${sc!=null?` · best ${Math.round(sc*100)}%`:''}</button>`}
-      h+=`</div></div>`})});
+      h+=`</div></div></div>`})});
   document.getElementById('map').innerHTML=h;
 }
 const deck=document.getElementById('deck');let cur;
@@ -53,14 +53,26 @@ async function openL(id,card){
 }
 deck.addEventListener('click',e=>{const b=e.target.closest('.opt');if(!b)return;const q=+b.dataset.q,j=+b.dataset.j;if(ans[q]!==undefined)return;
   const Q=L[cur].quiz[q];ans[q]=j===Q.a;b.parentNode.querySelectorAll('.opt').forEach((o,k)=>{if(k===Q.a)o.classList.add('r');else if(k===j)o.classList.add('w')});
-  const w=document.getElementById('w'+q);w.innerHTML=(j===Q.a?'<b>Correct.</b> ':'<b>Not quite.</b> ')+Q.w;w.classList.add('on');
+  const w=document.getElementById('w'+q);w.innerHTML=(j===Q.a?'<b>Correct.</b> ':'<b>Not quite.</b> ')+Q.w;w.classList.add('on');setTimeout(()=>w.scrollIntoView({behavior:CALM?'auto':'smooth',block:'nearest'}),250);
   if(Object.keys(ans).length===L[cur].quiz.length)finish()});
+function countUp(el,to){if(!el)return;if(CALM){el.textContent=to;return}let n=0;const step=()=>{el.textContent=n;if(n++<to)setTimeout(step,1000/Math.max(to,1))};step()}
 function finish(){const s=Object.values(ans).filter(Boolean).length;const f=s/L[cur].quiz.length;if(cur.endsWith('-T')){S.tests=S.tests||{};S.tests[cur]=Math.max(f,S.tests[cur]||0)}else{S.done[cur]=1;S.scores[cur]=f}if(!S.days.includes(today()))S.days.push(today());save();pushSync();
-  document.getElementById('end').innerHTML=`${wreath}<div class="score">${s} / ${L[cur].quiz.length}</div><h2 style="margin-top:14px">${f>=.8?'Laurels earned':f>=.6?'Solid work':'Worth another read'}</h2><p>${f>=.8?'You know this well enough to write on it.':f>=.6?'Skim the cards you missed once more.':'Come back to this one tomorrow.'}</p><button class="start" onclick="back()">Back to the syllabus</button>`}
+  document.getElementById('end').innerHTML=`${wreath}<div class="score"><span id="scN">0</span> / ${L[cur].quiz.length}</div><h2 style="margin-top:14px">${f>=.8?'Laurels earned':f>=.6?'Solid work':'Worth another read'}</h2><p>${f>=.8?'You know this well enough to write on it.':f>=.6?'Skim the cards you missed once more.':'Come back to this one tomorrow.'}</p><button class="start" onclick="back()">Back to the syllabus</button>`;
+  setTimeout(()=>countUp(document.getElementById('scN'),s),300)}
 let curCard=0;const io=new IntersectionObserver(es=>es.forEach(e=>{if(e.isIntersecting)e.target.classList.add('in')}),{threshold:.35});
 function upd(){const n=deck.children.length,i=Math.round(deck.scrollLeft/deck.clientWidth);curCard=i-1;document.getElementById('pg').style.width=((i+1)/n*100)+'%';document.getElementById('cnt').textContent=`${i+1}/${n}`}
 deck.addEventListener('scroll',()=>requestAnimationFrame(upd));
-function show(v){document.querySelectorAll('.view').forEach(x=>x.classList.toggle('on',x.id===v));window.scrollTo(0,0)}
+/* ---------- motion helpers: every screen change crossfades smoothly ---------- */
+const CALM=matchMedia('(prefers-reduced-motion: reduce)').matches;
+function morph(fn){return fn()}
+function show(v,kind){const nv=document.getElementById(v);if(nv.classList.contains('on'))return;
+  document.querySelectorAll('.view').forEach(x=>x.classList.toggle('on',x.id===v));window.scrollTo(0,0);
+  if(CALM)return;kind=kind||(v==='lesson'?'up':v==='home'?'down':'fade');
+  nv.classList.remove('enter-up','enter-down','enter-fade');void nv.offsetWidth;nv.classList.add('enter-'+kind);
+  setTimeout(()=>nv.classList.remove('enter-'+kind),900)}
+function softSwap(fn){const h=document.getElementById('home');if(CALM)return fn();h.classList.add('swap-out');setTimeout(async()=>{await fn();h.classList.remove('swap-out');void h.offsetWidth;h.classList.add('enter-fade');setTimeout(()=>h.classList.remove('enter-fade'),900)},320)}
+function openSheetEl(s){s.hidden=false;s.classList.remove('closing')}
+function closeSheetEl(s){if(s.hidden)return;s.classList.add('closing');setTimeout(()=>{s.hidden=true;s.classList.remove('closing')},CALM?0:420)}
 function back(){show('home');renderHome()}
 document.getElementById('close').onclick=back;
 
@@ -105,13 +117,13 @@ const sheet=document.getElementById('sheet');
 function openSheet(){
   document.getElementById('subjList').innerHTML=SUBJ.map(s=>{const t=THEMES[s.theme]||THEMES.polis,a=t.vars['--gold']||'#c9a45c',b=t.vars['--lapis']||'#13294b';
     return `<button class="choice${s.id===SUB.id?' on':''}" onclick="pickSubject('${s.id}')"><span class="sic" style="--a:${a};--b:${b}">${icon(s.id)}</span><span><strong>${s.title}</strong> · ${s.name}<small>${s.full}</small></span></button>`}).join('');
-  sheet.hidden=false}
-function pickSubject(id){sheet.hidden=true;loadSubject(id)}
+  openSheetEl(sheet)}
+function pickSubject(id){closeSheetEl(sheet);softSwap(()=>loadSubject(id))}
 function pickTheme(k){ls.set('theme:'+SUB.id,k);applyTheme(k);openSheet()}
 document.getElementById('pick').onclick=openSheet;
 document.getElementById('mine').onclick=()=>window.openMe?window.openMe():openSheet();
-document.getElementById('sheetClose').onclick=()=>sheet.hidden=true;
-sheet.addEventListener('click',e=>{if(e.target===sheet)sheet.hidden=true});
+document.getElementById('sheetClose').onclick=()=>closeSheetEl(sheet);
+sheet.addEventListener('click',e=>{if(e.target===sheet)closeSheetEl(sheet)});
 
 /* ---------- daily reminders (web push) ---------- */
 const API=window.LB_API||'';  // server for push + built-in Gemini (Cloudflare, later). Empty = off.
@@ -215,8 +227,9 @@ const askSheet=document.getElementById('askSheet'),chat=document.getElementById(
 const isGem=m=>m.startsWith('gemini'),keyName=m=>isGem(m)?'askKeyGemini':'askKey';
 function keyHint(){const m=document.getElementById('model').value,k=document.getElementById('apiKey');k.placeholder=isGem(m)?(window.LB_API?'Optional: your own Gemini key (built-in one is used if empty)':'Your Gemini API key (from aistudio.google.com)'):'sk-ant-… (from console.anthropic.com)';k.value=''}
 function askView(){const m=ls.get('askModel')||'gemini-flash-latest';document.getElementById('model').value=m;keyHint();const has=(isGem(m)&&!!window.LB_API)||!!ls.get(keyName(m));document.getElementById('keyBox').hidden=has;document.getElementById('chatBox').hidden=!has}
-document.getElementById('askBtn').onclick=()=>{if(askSheet._lesson!==cur){chat.innerHTML='';askSheet._lesson=cur}askView();askSheet.hidden=false};
-document.getElementById('askClose').onclick=()=>askSheet.hidden=true;
+document.getElementById('askBtn').onclick=()=>{if(askSheet._lesson!==cur){chat.innerHTML='';askSheet._lesson=cur}askView();openSheetEl(askSheet)};
+document.getElementById('askClose').onclick=()=>closeSheetEl(askSheet);
+askSheet.addEventListener('click',e=>{if(e.target===askSheet)closeSheetEl(askSheet)});
 document.getElementById('model').onchange=()=>{const m=document.getElementById('model').value;keyHint();if((isGem(m)&&window.LB_API)||ls.get(keyName(m))){ls.set('askModel',m);askView()}};
 document.getElementById('saveKey').onclick=()=>{const m=document.getElementById('model').value,k=document.getElementById('apiKey').value.trim();ls.set('askModel',m);if(k)ls.set(keyName(m),k);if(!(isGem(m)&&window.LB_API)&&!ls.get(keyName(m)))return;askView()};
 document.getElementById('changeKey').onclick=()=>{document.getElementById('keyBox').hidden=false;document.getElementById('chatBox').hidden=true};
