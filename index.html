@@ -59,6 +59,7 @@
  <div class="hero">
   <div class="key"></div>
   <button class="pick srch" id="srch" aria-label="Search lessons">⌕ Search</button>
+  <button class="pick mine" id="mine" aria-label="My learning">✦ Me</button>
   <button class="pick" id="pick" aria-label="Change subject or theme"><span id="pickName">PSIR</span> ▾</button>
   <div id="heroArt"><svg viewBox="0 0 360 300" aria-hidden="true">
    <defs>
@@ -111,6 +112,7 @@
 </section>
 <div class="sheet" id="sheet" hidden><div class="sheet-in marble">
  <button class="x sx" id="sheetClose" aria-label="Close">×</button>
+ <h2>Account</h2><div id="acct"><p class="note">Loading…</p></div>
  <h2>Daily reminder</h2>
  <div class="remind"><label class="tog"><input type="checkbox" id="pushOn"><span></span></label>
   <div><b>Remind me to study</b><small id="pushNote">A nudge each day, plus a warning at 9 pm if your streak is at risk.</small></div>
@@ -138,6 +140,7 @@
   <button class="linkbtn" id="changeKey">Change key or model</button>
  </div>
 </div></div>
+<section id="me" class="view"></section>
 <section id="lesson" class="view">
  <div class="bar"><button class="x" id="close" aria-label="Close lesson">×</button><div class="prog"><i id="pg"></i></div><div class="cnt" id="cnt"></div><button class="x ask" id="askBtn" aria-label="Ask a doubt">?</button></div>
  <div class="deck" id="deck"></div>

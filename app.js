@@ -8,7 +8,7 @@ const key=()=>SUB.store||('polis:'+SUB.id);
 function loadProgress(){S={done:{},scores:{},days:[]};const s=ls.get(key());if(s)try{S=JSON.parse(s)}catch(e){}
   // Scores are stored as a fraction (0-1). Old saves stored a count out of 5.
   for(const k in S.scores)if(S.scores[k]>1)S.scores[k]/=5}
-const save=()=>ls.set(key(),JSON.stringify(S));
+const save=()=>{ls.set(key(),JSON.stringify(S));window.onProgress&&window.onProgress()};
 const path=f=>(SUB.dir==='.'?'':SUB.dir+'/')+f;
 let ids=[];
 // Dates are the phone's local calendar day (IST for Indian users), never UTC.
@@ -110,6 +110,7 @@ function openSheet(){
 function pickSubject(id){sheet.hidden=true;loadSubject(id)}
 function pickTheme(k){ls.set('theme:'+SUB.id,k);applyTheme(k);openSheet()}
 document.getElementById('pick').onclick=openSheet;
+document.getElementById('mine').onclick=()=>window.openMe?window.openMe():openSheet();
 document.getElementById('sheetClose').onclick=()=>sheet.hidden=true;
 sheet.addEventListener('click',e=>{if(e.target===sheet)sheet.hidden=true});
 
@@ -170,7 +171,7 @@ if(CAP&&Capacitor.Plugins.LocalNotifications)Capacitor.Plugins.LocalNotification
 const splashStart=Date.now();
 function hideSplash(){const s=document.getElementById('splash');if(!s||s.classList.contains('out'))return;setTimeout(()=>{s.classList.add('out');setTimeout(()=>s.remove(),800)},Math.max(0,1800-(Date.now()-splashStart)))}
 setTimeout(hideSplash,6000);
-(async()=>{SUBJ=await fetch('subjects.json').then(r=>r.json());await loadSubject(ls.get('subject')||SUBJ[0].id);hideSplash();handleGo();pushSync()})();
+(async()=>{SUBJ=await fetch('subjects.json').then(r=>r.json());await loadSubject(ls.get('subject')||SUBJ[0].id);hideSplash();handleGo();import('./account.js').catch(e=>{const a=document.getElementById('acct');if(a)a.innerHTML='<p class="note">Sign-in needs the internet. Your progress is still saved on this phone.</p>'});pushSync()})();
 /* ---------- chapter tests: 15 questions drawn from every lesson in the chapter ---------- */
 async function openTest(pi,ui){const u=MAP[pi].units[ui],pool=[];
   try{for(let k=0;k<u[1].length;k++){const l=await getLesson(`${pi}-${ui}-${k}`);l.quiz.forEach(q=>pool.push(q))}}catch(e){alert('The test could not load. Check your connection.');return}
@@ -219,7 +220,7 @@ document.getElementById('sendDoubt').onclick=async()=>{
   const ai=document.createElement('div');ai.className='qa ai';ai.textContent='Thinking…';chat.appendChild(ai);chat.scrollTop=chat.scrollHeight;
   if(!navigator.onLine){ai.textContent='You are offline. Asking a doubt needs the internet.';return}
   try{const {ask}=await import('./ask.js');
-    await ask({apiKey:ls.get(keyName(ls.get('askModel')||'gemini-flash-latest'))||'',model:ls.get('askModel')||'gemini-flash-latest',subject:SUB.full,lessonId:SUB.id+'/'+cur,lesson:L[cur],cardIndex:Math.max(0,Math.min(curCard,L[cur].cards.length-1)),question:q,onText:t=>{ai.textContent=t;chat.scrollTop=chat.scrollHeight}})}
+    const ansText=await ask({apiKey:ls.get(keyName(ls.get('askModel')||'gemini-flash-latest'))||'',model:ls.get('askModel')||'gemini-flash-latest',subject:SUB.full,lessonId:SUB.id+'/'+cur,lesson:L[cur],cardIndex:Math.max(0,Math.min(curCard,L[cur].cards.length-1)),question:q,onText:t=>{ai.textContent=t;chat.scrollTop=chat.scrollHeight}});window.onDoubt&&window.onDoubt({subject:SUB.id,subjectTitle:SUB.title,lessonId:cur,lessonTitle:L[cur].title,q,a:ansText})}
   catch(err){ai.textContent=(err&&err.status===401)?'That API key was rejected. Tap "Change key or model".':'Could not get an answer: '+(err&&err.message||err)}};
 
 if('serviceWorker' in navigator){const had=!!navigator.serviceWorker.controller;let reloaded=false;
