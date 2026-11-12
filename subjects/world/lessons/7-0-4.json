@@ -1,0 +1,184 @@
+{
+ "id": "7-0-4",
+ "title": "The Invention of the Internet",
+ "emoji": "🌐",
+ "cards": [
+  {
+   "tag": "Why this matters",
+   "h": "The network nobody planned",
+   "b": "<p>Today billions of people use the internet every day. Few stop to ask where it came from. The answer begins in the Cold War, with university labs, military research and a few people who had a new idea about how to send messages.</p><p>The internet was not invented by one person or in one moment. It was built in layers, over decades, by many hands.</p>"
+  },
+  {
+   "tag": "The story",
+   "h": "A bomb-proof network idea",
+   "b": "<p>In the early 1960s, the RAND researcher Paul Baran wrote about networks that could keep working even if parts were destroyed. At the same time, Donald Davies in Britain and Leonard Kleinrock in the United States worked on packet switching, which breaks messages into small pieces that travel separately.</p><p>The idea was simple but radical. Messages would find their own way through the network, rather than following a fixed path like a phone call.</p>"
+  },
+  {
+   "tag": "The story",
+   "h": "The first message, 1969",
+   "b": "<p>In October 1969 the first message was sent over ARPANET, the network funded by the US Defense Department's research agency. It went from a computer at UCLA to one at the Stanford Research Institute. The system crashed after the first two letters, so the first word was \"lo\".</p><p>By the end of 1969 four university computers were linked. The network grew through the 1970s as researchers joined and shared files and email.</p>"
+  },
+  {
+   "tag": "Key source",
+   "h": "Vint Cerf and Bob Kahn",
+   "b": "<div class=\"box\"><h4>Cerf and Kahn (1974)</h4><p>In a paper published in 1974, Vint Cerf and Bob Kahn described a protocol that could connect different networks. It became TCP/IP, the language that lets networks talk to each other.</p><p>On 1 January 1983 the ARPANET switched fully to TCP/IP. Many historians mark that day as the birth of the internet as we know it.</p></div>"
+  },
+  {
+   "tag": "Timeline",
+   "h": "The internet in key dates",
+   "b": "<svg class=\"d\" viewBox=\"0 0 320 186\"><line x1=\"14\" y1=\"10\" x2=\"14\" y2=\"166\" stroke=\"#a8792a\" stroke-width=\"2\"/><circle cx=\"14\" cy=\"22\" r=\"5\" fill=\"#f1e4c6\" stroke=\"#a8792a\" stroke-width=\"2\"/><text x=\"28\" y=\"26\" font-size=\"11\" font-weight=\"700\" fill=\"#a8792a\">1969</text><text x=\"92\" y=\"26\" font-size=\"11\" fill=\"#1d2433\">First ARPANET message</text><circle cx=\"14\" cy=\"50\" r=\"5\" fill=\"#f1e4c6\" stroke=\"#a8792a\" stroke-width=\"2\"/><text x=\"28\" y=\"54\" font-size=\"11\" font-weight=\"700\" fill=\"#a8792a\">1974</text><text x=\"92\" y=\"54\" font-size=\"11\" fill=\"#1d2433\">TCP/IP proposed</text><circle cx=\"14\" cy=\"78\" r=\"5\" fill=\"#f1e4c6\" stroke=\"#a8792a\" stroke-width=\"2\"/><text x=\"28\" y=\"82\" font-size=\"11\" font-weight=\"700\" fill=\"#a8792a\">1983</text><text x=\"92\" y=\"82\" font-size=\"11\" fill=\"#1d2433\">TCP/IP adopted on ARPANET</text><circle cx=\"14\" cy=\"106\" r=\"5\" fill=\"#f1e4c6\" stroke=\"#a8792a\" stroke-width=\"2\"/><text x=\"28\" y=\"110\" font-size=\"11\" font-weight=\"700\" fill=\"#a8792a\">1989</text><text x=\"92\" y=\"110\" font-size=\"11\" fill=\"#1d2433\">Berners-Lee proposes the web</text><circle cx=\"14\" cy=\"134\" r=\"5\" fill=\"#f1e4c6\" stroke=\"#a8792a\" stroke-width=\"2\"/><text x=\"28\" y=\"138\" font-size=\"11\" font-weight=\"700\" fill=\"#a8792a\">1991</text><text x=\"92\" y=\"138\" font-size=\"11\" fill=\"#1d2433\">First public web site</text><circle cx=\"14\" cy=\"162\" r=\"5\" fill=\"#f1e4c6\" stroke=\"#a8792a\" stroke-width=\"2\"/><text x=\"28\" y=\"166\" font-size=\"11\" font-weight=\"700\" fill=\"#a8792a\">1995</text><text x=\"92\" y=\"166\" font-size=\"11\" fill=\"#1d2433\">Commercial internet in India</text></svg><p>The timeline shows how a military and academic network turned into a public one within a generation.</p>"
+  },
+  {
+   "tag": "The story",
+   "h": "Tim Berners-Lee and the web",
+   "b": "<p>The internet and the web are not the same thing. The web is a system of linked pages and addresses that runs on the internet. In 1989 Tim Berners-Lee, working at CERN in Switzerland, proposed a system for sharing documents across the net.</p><p>He wrote the first web browser and server in 1990. In 1991 the web was opened to the public, and it spread quickly, first in universities, then in homes.</p>"
+  },
+  {
+   "tag": "Myth vs fact",
+   "h": "Did Al Gore invent the internet?",
+   "b": "<p>A famous line from a 1999 interview suggests that Al Gore claimed to have invented the internet. The remark was widely mocked, and it has become a shorthand for political exaggeration.</p><p>Historians argue that Gore had supported networking policy in Congress, but the internet was built by many scientists, engineers and institutions. Cerf and Kahn, Kleinrock and Berners-Lee each made key contributions. Credit is spread widely.</p>"
+  },
+  {
+   "tag": "The story",
+   "h": "Public networks and money",
+   "b": "<p>In the 1980s and early 1990s the National Science Foundation built a backbone for academic networks, NSFNET. In 1991 the rules on commercial use were relaxed, and private companies began to offer dial-up internet to homes and businesses.</p><p>Within a few years there were browsers, search engines and online shops. The internet became a commercial system as well as a research one.</p>"
+  },
+  {
+   "tag": "Key idea",
+   "h": "Why the design matters",
+   "b": "<p>The internet was designed to be open. Its basic protocols do not control what people send. This design made it easy for new services to start, and it made it hard for any one company or state to control the whole network.</p><p>Historians and lawyers argue about the costs of that openness, including spam, fraud and state surveillance. The design choices made in the 1970s still shape debates about privacy, speech and power.</p>"
+  },
+  {
+   "tag": "The story",
+   "h": "A web of many languages",
+   "b": "<p>The early web was mostly in English. Over time it spread to other languages, and it now carries content in hundreds of scripts. Local languages and local content became a major part of the online world, especially in Asia and Africa.</p><p>The shift shows how a technology built in one country can be remade by people elsewhere. It also raises questions about access, language and culture.</p>"
+  },
+  {
+   "tag": "Indian angle",
+   "h": "Meanwhile in India…",
+   "b": "<p>In 1995 the Indian company VSNL began offering commercial internet services, one of the first steps toward a public internet in India. Early users were mainly universities, research centres and a few businesses.</p><p>Cheap mobile phones later pushed internet use far beyond the cities. By the 2020s hundreds of millions of Indians were online, and India had become one of the largest internet markets in the world.</p>"
+  },
+  {
+   "tag": "Recap",
+   "h": "Five takeaways, two puzzles",
+   "b": "<b>Five things to remember</b><ol><li>Packet switching was developed in the 1960s.</li><li>The first ARPANET message was sent in October 1969.</li><li>TCP/IP was adopted on ARPANET in 1983.</li><li>Tim Berners-Lee proposed the web in 1989.</li><li>Commercial internet reached India in 1995.</li></ol><b>Think about it</b><ul><li>Who should get the credit for a shared invention?</li><li>Does an open network make it harder to control speech?</li></ul>",
+   "cls": "exam"
+  }
+ ],
+ "quiz": [
+  {
+   "q": "The first ARPANET message was sent in...",
+   "o": [
+    "1969",
+    "1983",
+    "1989",
+    "1995"
+   ],
+   "a": 0,
+   "w": "From UCLA to Stanford."
+  },
+  {
+   "q": "The first message on ARPANET ended with the word...",
+   "o": [
+    "\"hello\"",
+    "\"lo\"",
+    "\"test\"",
+    "\"web\""
+   ],
+   "a": 1,
+   "w": "The system crashed after two letters."
+  },
+  {
+   "q": "The protocol suite TCP/IP was adopted on ARPANET in...",
+   "o": [
+    "1969",
+    "1974",
+    "1983",
+    "1991"
+   ],
+   "a": 2,
+   "w": "On 1 January."
+  },
+  {
+   "q": "Tim Berners-Lee proposed the web while working at...",
+   "o": [
+    "CERN",
+    "RAND",
+    "MIT",
+    "Bell Labs"
+   ],
+   "a": 0,
+   "w": "In Switzerland."
+  },
+  {
+   "q": "Paul Baran worked for...",
+   "o": [
+    "RAND",
+    "NASA",
+    "UNESCO",
+    "Siemens"
+   ],
+   "a": 0,
+   "w": "He wrote about networks that could survive damage."
+  },
+  {
+   "q": "Packet switching breaks messages into...",
+   "o": [
+    "Pieces that travel separately",
+    "Letters only",
+    "Photos",
+    "Dial tones"
+   ],
+   "a": 0,
+   "w": "Each piece finds its own path."
+  },
+  {
+   "q": "The web is different from the internet because the web...",
+   "o": [
+    "Is a system of linked pages on the internet",
+    "Is a telephone network",
+    "Is a satellite",
+    "Is a military radio"
+   ],
+   "a": 0,
+   "w": "It runs on top of the internet."
+  },
+  {
+   "q": "The famous 1999 remark about the internet was made by...",
+   "o": [
+    "Bill Clinton",
+    "Al Gore",
+    "Newt Gingrich",
+    "Ross Perot"
+   ],
+   "a": 1,
+   "w": "It was widely mocked."
+  },
+  {
+   "q": "The NSF backbone for academic networks was called...",
+   "o": [
+    "NSFNET",
+    "ARPANET",
+    "CERNNET",
+    "RANDNET"
+   ],
+   "a": 0,
+   "w": "Built in the 1980s."
+  },
+  {
+   "q": "Commercial internet services began in India in...",
+   "o": [
+    "1983",
+    "1991",
+    "1995",
+    "2005"
+   ],
+   "a": 2,
+   "w": "Offered by VSNL."
+  }
+ ],
+ "sources": [
+  "Abbate, Inventing the Internet (1999); Hafner and Lyon, Where Wizards Stay Up Late (1996); Berners-Lee, Weaving the Web (1999)"
+ ],
+ "verified": "2026-11-12"
+}

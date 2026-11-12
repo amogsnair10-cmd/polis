@@ -1,0 +1,178 @@
+{
+ "id": "1-3-3",
+ "title": "The Governor and Article 356",
+ "emoji": "🏛️",
+ "cards": [
+  {
+   "tag": "Why this matters",
+   "h": "Where federalism is tested",
+   "b": "<p>The Governor and President's Rule are the most contested Centre-State flashpoints. Every few years a new case (Tamil Nadu, Kerala, Punjab, Delhi, Manipur) puts them in the news. UPSC asks both on the <b>constitutional position</b> and on <b>abuse and reform</b>.</p><p>Expect this as a 10 or 15 mark question, or as a supporting example inside a longer answer. Read the cards in order, then test yourself with the quiz.</p>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "The Governor's office",
+   "b": "<ul><li><b>Art. 153-154</b>: a Governor for each state, executive power vested in him.</li><li><b>Art. 155-156</b>: appointed by the President, holds office at the President's pleasure, normal term five years.</li><li><b>Art. 163</b>: acts on the aid and advice of the Council of Ministers, except where the Constitution requires discretion.</li><li><b>Art. 164</b>: appoints the Chief Minister.</li><li><b>Art. 200-201</b>: assent to bills; reserve for the President.</li><li><b>Art. 213</b>: ordinance power.</li></ul>"
+  },
+  {
+   "tag": "Key idea",
+   "h": "Discretion and the dual role",
+   "b": "<p>The Governor is both <b>constitutional head</b> of the state and <b>agent of the Centre</b>. True discretion exists in: choosing a CM when no party has a clear majority, reporting breakdown to the President (Art. 356), reserving bills for the President, and in some tribal areas (Sixth Schedule, Assam).</p><p>In <i>Shamsher Singh</i> (1974), the Supreme Court held that apart from these, he is bound by ministerial advice. The Sarkaria Commission (1988) wanted Governors chosen after consulting the CM.</p>"
+  },
+  {
+   "tag": "Key idea",
+   "h": "Article 356: President's Rule",
+   "b": "<svg class=\"d\" viewBox=\"0 0 320 190\"><rect x=\"20\" y=\"8\" width=\"280\" height=\"32\" rx=\"8\" fill=\"#f1e4c6\" stroke=\"#a8792a\"/><text x=\"160\" y=\"29\" fill=\"#1d2433\" font-size=\"12\" text-anchor=\"middle\">Governor&#x27;s report or other information</text><text x=\"160\" y=\"51\" fill=\"#5d6474\" font-size=\"11\" text-anchor=\"middle\">↓</text><rect x=\"20\" y=\"52\" width=\"280\" height=\"32\" rx=\"8\" fill=\"#dceaec\" stroke=\"#2f6f7a\"/><text x=\"160\" y=\"73\" fill=\"#1d2433\" font-size=\"12\" text-anchor=\"middle\">President satisfied: state cannot function (Art. 356)</text><text x=\"160\" y=\"95\" fill=\"#5d6474\" font-size=\"11\" text-anchor=\"middle\">↓</text><rect x=\"20\" y=\"96\" width=\"280\" height=\"32\" rx=\"8\" fill=\"#f1e4c6\" stroke=\"#a8792a\"/><text x=\"160\" y=\"117\" fill=\"#1d2433\" font-size=\"12\" text-anchor=\"middle\">Proclamation: Parliament approves within 2 months</text><text x=\"160\" y=\"139\" fill=\"#5d6474\" font-size=\"11\" text-anchor=\"middle\">↓</text><rect x=\"20\" y=\"140\" width=\"280\" height=\"32\" rx=\"8\" fill=\"#dceaec\" stroke=\"#2f6f7a\"/><text x=\"160\" y=\"161\" fill=\"#1d2433\" font-size=\"12\" text-anchor=\"middle\">Lasts 6 months; extend to max 3 years</text></svg><p><b>Art. 355</b> is the Union's duty to protect states. Beyond one year, extension needs a national Emergency or an EC certificate (44th Amendment, 1978). Parliament takes over state legislative power (Art. 357).</p>"
+  },
+  {
+   "tag": "Key idea",
+   "h": "S.R. Bommai (1994)",
+   "b": "<p>The leading case, a nine-judge bench. It held that: the proclamation is <b>subject to judicial review</b> for malafide or irrelevant grounds; the Centre must show material; Parliament's approval is needed or the proclamation lapses; the assembly should be <b>suspended, not dissolved</b>, until approved; <b>secularism is part of the basic structure</b>, so a state violating it can face 356; a <b>floor test</b> is the way to test a majority, not the Governor's opinion.</p>"
+  },
+  {
+   "tag": "Debate",
+   "h": "Misuse over time",
+   "b": "<p>The first use was in Punjab in 1951, and in 1959 the Kerala E.M.S. Namboodiripad ministry was dismissed. The surge came in 1977 (Janata dismissed nine Congress states) and 1980 (reverse). Over 100 uses have been recorded. Later notable cases: Bihar assembly dissolution (<i>Rameshwar Prasad</i>, 2006), Arunachal Pradesh and Uttarakhand in 2016 (<i>Nabam Rebia</i> and the Uttarakhand High Court), and <b>Manipur</b>, where PR was imposed on 13 February 2025 and revoked on 4 February 2026 when a new ministry took office.</p>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "Governors and state bills: Tamil Nadu (2025)",
+   "b": "<p>In April 2025 a two-judge Bench in <i>State of Tamil Nadu v Governor</i> set timelines for Governors on bills and used Article 142 to treat ten bills as <b>deemed assented</b>. The President then made a reference under Art. 143. On <b>20 November 2025</b> the Court's advisory opinion held that there is no deemed assent and courts cannot fix timelines. It said the Governor has three options under Art. 200 (assent, reserve, return) and cannot sit on bills indefinitely, and that delay can be reviewed in a limited way. Verify the latest in current affairs.</p>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "Reform proposals",
+   "b": "<ul><li><b>Sarkaria</b> (1988): Art. 356 as last resort; Governor should be eminent, non-political, outside the state.</li><li><b>Punchhi</b> (2010): five-year fixed tenure; impeachment-like removal by legislature; 'localised emergency' under Art. 355 instead of 356.</li><li><b>Venkatachaliah</b> (2002): CM consulted; selection by committee including the VP and the Speaker.</li><li><b>Inter-State Council</b> (Art. 263) as forum.</li></ul>"
+  },
+  {
+   "tag": "Indian angle",
+   "h": "Federal politics today",
+   "b": "<p>Conflicts between Governors and opposition-ruled states (Tamil Nadu, Kerala, West Bengal, Punjab, Telangana) over bills, university chancellorship and appointments continue. The Punchhi and Sarkaria ideas are quoted both by states and the Court. Note: the <b>Delhi</b> Lt Governor is separate, governed by Art. 239AA and the 2023 Supreme Court ruling on services.</p>"
+  },
+  {
+   "tag": "Exam lens",
+   "h": "How UPSC asks this",
+   "b": "<div class=\"box\">\"The role of the Governor is a source of Centre-State friction. Discuss.\"</div><div class=\"box\">\"Examine the judicial safeguards against the misuse of Article 356.\"</div><div class=\"box\">\"Do the Presidential Reference (2025) and Bommai together settle the Governor's powers?\"</div><p><b>Structure:</b> constitutional text, discretion, 356 procedure, Bommai, misuse, Sarkaria/Punchhi, Tamil Nadu 2025.</p>",
+   "cls": "exam"
+  }
+ ],
+ "quiz": [
+  {
+   "q": "Under which Article is the Governor appointed by the President?",
+   "o": [
+    "200",
+    "153",
+    "155",
+    "163"
+   ],
+   "a": 2,
+   "w": "Art. 155."
+  },
+  {
+   "q": "President's Rule is proclaimed under…",
+   "o": [
+    "Art. 352",
+    "Art. 356",
+    "Art. 360",
+    "Art. 365"
+   ],
+   "a": 1,
+   "w": "Art. 356."
+  },
+  {
+   "q": "The Bommai judgment is from…",
+   "o": [
+    "1994",
+    "2006",
+    "1974",
+    "1985"
+   ],
+   "a": 0,
+   "w": "1994."
+  },
+  {
+   "q": "Parliament must approve a 356 proclamation within…",
+   "o": [
+    "Six months",
+    "One year",
+    "One month",
+    "Two months"
+   ],
+   "a": 3,
+   "w": "Two months."
+  },
+  {
+   "q": "Maximum total duration of President's Rule is…",
+   "o": [
+    "One year",
+    "Two years",
+    "Three years",
+    "Five years"
+   ],
+   "a": 2,
+   "w": "Three years, extended in six-month steps."
+  },
+  {
+   "q": "Bommai held that secularism is…",
+   "o": [
+    "Policy only",
+    "Part of the basic structure",
+    "A directive",
+    "Not justiciable"
+   ],
+   "a": 1,
+   "w": "The proclamation can be tested on it."
+  },
+  {
+   "q": "The first state hit by Art. 356 was…",
+   "o": [
+    "Punjab 1951",
+    "Bihar 1967",
+    "Orissa 1961",
+    "Kerala 1959"
+   ],
+   "a": 0,
+   "w": "Punjab, June 1951; Kerala was 1959."
+  },
+  {
+   "q": "Which Commission suggested 356 as a last resort?",
+   "o": [
+    "Mandal",
+    "Shah",
+    "Kothari",
+    "Sarkaria"
+   ],
+   "a": 3,
+   "w": "1988 report."
+  },
+  {
+   "q": "In the 2025 Presidential Reference opinion the Court held that…",
+   "o": [
+    "Governor may veto",
+    "Deemed assent is valid",
+    "Courts cannot set timelines for the Governor",
+    "Governor must always assent"
+   ],
+   "a": 2,
+   "w": "Delivered 20 November 2025."
+  },
+  {
+   "q": "The Governor's discretion is limited by…",
+   "o": [
+    "Art. 14",
+    "Aid and advice under Art. 163",
+    "Art. 21",
+    "Art. 32"
+   ],
+   "a": 1,
+   "w": "Shamsher Singh (1974)."
+  }
+ ],
+ "sources": [
+  "S.R. Bommai v Union of India (1994)",
+  "Sarkaria Commission Report (1988); Punchhi Commission (2010)",
+  "In re Assent, Withholding or Reservation of Bills (Presidential Reference), 2025",
+  "M. Laxmikanth, Indian Polity",
+  "PYQ themes: Governor, President's Rule (Paper I)"
+ ],
+ "verified": "2026-11-12"
+}

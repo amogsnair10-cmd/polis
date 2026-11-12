@@ -216,3 +216,11 @@ document.getElementById('sendDoubt').onclick=async()=>{
 if('serviceWorker' in navigator){const had=!!navigator.serviceWorker.controller;let reloaded=false;
   navigator.serviceWorker.addEventListener('controllerchange',()=>{if(had&&!reloaded){reloaded=true;location.reload()}});
   addEventListener('load',()=>navigator.serviceWorker.register('sw.js').then(r=>r.update()))}
+
+/* Hide hosting badges or toolbars injected by the host (e.g. "Powered by Netlify"). */
+(()=>{const kill=n=>{if(n.nodeType!==1||n.closest('.view,.sheet,.ambient'))return;
+  const t=(n.textContent||'')+' '+(n.id||'')+' '+(n.className&&n.className.baseVal!==undefined?n.className.baseVal:n.className||'')+' '+(n.getAttribute('href')||'')+' '+(n.getAttribute('src')||'');
+  if(/netlify/i.test(t))n.remove()};
+  const sweep=()=>[...document.body.children].forEach(kill);
+  new MutationObserver(m=>m.forEach(r=>r.addedNodes.forEach(kill))).observe(document.body,{childList:true});
+  sweep();setTimeout(sweep,1500);setTimeout(sweep,5000)})();

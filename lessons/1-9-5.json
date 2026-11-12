@@ -1,0 +1,178 @@
+{
+ "id": "1-9-5",
+ "title": "Electoral Reforms",
+ "emoji": "🗳️",
+ "cards": [
+  {
+   "tag": "Why this matters",
+   "h": "Cleaning the machinery of democracy",
+   "b": "<p>India holds the world's largest elections, yet money, muscle, caste and misinformation distort them. Electoral reform is one of the most repeated topics in GS and PSIR. Know the <b>committees</b>, the <b>Supreme Court rulings</b> and the <b>live proposals</b> such as simultaneous polls.</p><p>Expect this as a 10 or 15 mark question, or as a supporting example inside a longer answer. Read the cards in order, then test yourself with the quiz.</p>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "Legal framework",
+   "b": "<ul><li><b>Art. 324-329</b>: Election Commission and elections.</li><li><b>RPA 1950</b>: rolls, seats. <b>RPA 1951</b>: conduct, disqualification, corrupt practices.</li><li>Model Code of Conduct (convention, no statutory force).</li><li>Tenth Schedule: defection. 61st Amendment (1988): voting age 18.</li></ul><p>The system is <b>first-past-the-post</b> (FPTP): simple, but winners can have under 50 per cent votes, and seats and votes can diverge.</p>"
+  },
+  {
+   "tag": "Key idea",
+   "h": "Major committees",
+   "b": "<svg class=\"d\" viewBox=\"0 0 320 234\"><rect x=\"20\" y=\"8\" width=\"280\" height=\"32\" rx=\"8\" fill=\"#f1e4c6\" stroke=\"#a8792a\"/><text x=\"160\" y=\"29\" fill=\"#1d2433\" font-size=\"12\" text-anchor=\"middle\">Tarkunde Committee, 1974-75</text><text x=\"160\" y=\"51\" fill=\"#5d6474\" font-size=\"11\" text-anchor=\"middle\">↓</text><rect x=\"20\" y=\"52\" width=\"280\" height=\"32\" rx=\"8\" fill=\"#dceaec\" stroke=\"#2f6f7a\"/><text x=\"160\" y=\"73\" fill=\"#1d2433\" font-size=\"12\" text-anchor=\"middle\">Dinesh Goswami Committee, 1990</text><text x=\"160\" y=\"95\" fill=\"#5d6474\" font-size=\"11\" text-anchor=\"middle\">↓</text><rect x=\"20\" y=\"96\" width=\"280\" height=\"32\" rx=\"8\" fill=\"#f1e4c6\" stroke=\"#a8792a\"/><text x=\"160\" y=\"117\" fill=\"#1d2433\" font-size=\"12\" text-anchor=\"middle\">Vohra Committee, 1993: crime-politics nexus</text><text x=\"160\" y=\"139\" fill=\"#5d6474\" font-size=\"11\" text-anchor=\"middle\">↓</text><rect x=\"20\" y=\"140\" width=\"280\" height=\"32\" rx=\"8\" fill=\"#dceaec\" stroke=\"#2f6f7a\"/><text x=\"160\" y=\"161\" fill=\"#1d2433\" font-size=\"12\" text-anchor=\"middle\">Indrajit Gupta Committee, 1998: state funding</text><text x=\"160\" y=\"183\" fill=\"#5d6474\" font-size=\"11\" text-anchor=\"middle\">↓</text><rect x=\"20\" y=\"184\" width=\"280\" height=\"32\" rx=\"8\" fill=\"#f1e4c6\" stroke=\"#a8792a\"/><text x=\"160\" y=\"205\" fill=\"#1d2433\" font-size=\"12\" text-anchor=\"middle\">Law Commission 170th Report, 1999</text></svg><p>Later: NCRWC (2002), Second ARC (2007), Law Commission 255th Report (2015).</p>"
+  },
+  {
+   "tag": "Key idea",
+   "h": "Criminalisation and disclosure",
+   "b": "<p><i>ADR v Union of India</i> (2002) and <i>PUCL v Union of India</i> (2003): voters have a right to know criminal, financial and educational backgrounds of candidates, via affidavits (Art. 19(1)(a)). <i>Lily Thomas</i> (2013): a legislator convicted with two or more years' jail is disqualified at once. The Court has asked parties to publish candidates' criminal records and reasons for selecting them. Fast-track courts for MP-MLA cases (<i>Ashwini Upadhyay</i>, 2016 onward).</p>"
+  },
+  {
+   "tag": "Key idea",
+   "h": "Money and funding",
+   "b": "<p>Spending ceilings apply to candidates but not parties. The <b>Electoral Bonds</b> scheme (2018) allowed anonymous donations through banks. In <b>ADR v Union of India (15 February 2024)</b> a five-judge Bench unanimously struck it down as violating the voter's right to information (Art. 19(1)(a)) and ordered disclosure. Proposals: state funding in part (Indrajit Gupta), a National Election Fund, audit of party accounts, and tax-based transparency.</p>"
+  },
+  {
+   "tag": "Key idea",
+   "h": "Institutional and technology reforms",
+   "b": "<ul><li><b>NOTA</b> (PUCL, 2013), a right to negative vote, with no electoral effect.</li><li><b>EVMs and VVPAT</b>: in April 2024 the Court rejected a demand for 100 per cent VVPAT counting.</li><li><b>EC appointments</b>: <i>Anoop Baranwal</i> (2023) set a panel of PM, Leader of Opposition and CJI; the 2023 Act replaced the CJI with a Union minister, and this is contested.</li><li><b>Voter rolls</b>: the Special Intensive Revision (SIR) began in Bihar in 2025 and spread to 12 states and UTs from late 2025. The Court allowed it, and critics fear exclusion of genuine voters. Check the latest.</li></ul>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "Live proposals",
+   "b": "<ul><li><b>One Nation, One Election</b>: the 129th Constitution Amendment Bill and a UT-laws bill were introduced in December 2024 and sent to a Joint Parliamentary Committee, whose term was extended in 2026. Arguments: lower cost, steady governance. Against: federalism, and shortening of state-assembly terms (as of 2026 under study).</li><li><b>Women's reservation</b>: the 106th Amendment (2023) gives 33 per cent in Lok Sabha and assemblies, effective after the Census and delimitation.</li><li>Proportional or mixed systems; ranked voting; ban on candidates contesting two seats.</li></ul>"
+  },
+  {
+   "tag": "Debate",
+   "h": "Evaluation",
+   "b": "<p>Supporters: disclosure and NOTA gave voters tools. Critics: the Model Code is toothless; criminals still win; money grows; the EC is seen as less independent; digital misinformation, deepfakes and paid news are new threats. Think of reform as <b>four fronts</b>: candidates, parties, the EC and the voters.</p>"
+  },
+  {
+   "tag": "Indian angle",
+   "h": "Comparisons and the way forward",
+   "b": "<p>Compare with the UK (state limits on party spending), Germany (mixed-member proportional), and Brazil (compulsory voting). A sensible package: independent EC appointments, internal party democracy, transparent funding, swift trial of election offences, and voter education.</p><p>Link the idea to a current event or a constitutional provision when you write. A fresh Indian example lifts a theory answer above the generic one.</p>"
+  },
+  {
+   "tag": "Exam lens",
+   "h": "How UPSC asks this",
+   "b": "<div class=\"box\">\"Examine the need for electoral reforms in India.\"</div><div class=\"box\">\"Evaluate the case for simultaneous elections.\"</div><div class=\"box\">\"How far have judicial interventions improved electoral democracy?\"</div><p><b>Structure:</b> problem, committees, court rulings, funding, EC and tech, live proposals, evaluation.</p><p>Marks tip: open with a one-line definition, use two or three named thinkers, cases or Articles, add one Indian example, and end with a balanced, forward-looking line. Keep within the word limit.</p>",
+   "cls": "exam"
+  }
+ ],
+ "quiz": [
+  {
+   "q": "Which Article creates the Election Commission?",
+   "o": [
+    "329",
+    "356",
+    "324",
+    "326"
+   ],
+   "a": 2,
+   "w": "Art. 324."
+  },
+  {
+   "q": "The Electoral Bonds scheme was struck down on…",
+   "o": [
+    "10 April 2019",
+    "15 February 2024",
+    "2 March 2018",
+    "3 March 2023"
+   ],
+   "a": 1,
+   "w": "By a five-judge Bench."
+  },
+  {
+   "q": "The Vohra Committee (1993) studied…",
+   "o": [
+    "Crime-politics nexus",
+    "EVMs",
+    "Delimitation",
+    "Defection"
+   ],
+   "a": 0,
+   "w": "Criminalisation of politics."
+  },
+  {
+   "q": "NOTA was introduced after…",
+   "o": [
+    "ADR (2002)",
+    "Lily Thomas",
+    "Kesavananda",
+    "PUCL v UoI (2013)"
+   ],
+   "a": 3,
+   "w": "2013."
+  },
+  {
+   "q": "State funding of elections was backed by…",
+   "o": [
+    "Vohra",
+    "Sarkaria",
+    "Indrajit Gupta Committee",
+    "Tarkunde Committee"
+   ],
+   "a": 2,
+   "w": "1998."
+  },
+  {
+   "q": "Lily Thomas (2013) concerned…",
+   "o": [
+    "EVMs",
+    "Disqualification on conviction",
+    "NOTA",
+    "Bonds"
+   ],
+   "a": 1,
+   "w": "Two years or more."
+  },
+  {
+   "q": "The 106th Amendment is on…",
+   "o": [
+    "Women's reservation",
+    "Defection",
+    "GST",
+    "Voting age"
+   ],
+   "a": 0,
+   "w": "Passed in September 2023."
+  },
+  {
+   "q": "One Nation One Election Bill was introduced in…",
+   "o": [
+    "March 2019",
+    "August 2023",
+    "January 2021",
+    "December 2024"
+   ],
+   "a": 3,
+   "w": "The 129th Amendment Bill."
+  },
+  {
+   "q": "Voting age was lowered to 18 by the…",
+   "o": [
+    "73rd Amendment",
+    "42nd Amendment",
+    "61st Amendment",
+    "52nd Amendment"
+   ],
+   "a": 2,
+   "w": "1988."
+  },
+  {
+   "q": "ADR (2002) established…",
+   "o": [
+    "Right to be elected",
+    "Voter's right to know candidates' background",
+    "Right to recall",
+    "Right to reject"
+   ],
+   "a": 1,
+   "w": "Disclosure by affidavit."
+  }
+ ],
+ "sources": [
+  "Constitution of India, Arts. 324-329; RPA 1950 and 1951",
+  "ADR v Union of India (2002; 2024 electoral bonds)",
+  "Law Commission of India, 170th and 255th Reports",
+  "Election Commission of India website",
+  "PYQ themes: electoral reforms (Paper I)"
+ ],
+ "verified": "2026-11-12"
+}

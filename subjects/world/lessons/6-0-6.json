@@ -1,0 +1,189 @@
+{
+ "id": "6-0-6",
+ "title": "Stalingrad: The Turning Point",
+ "emoji": "🪖",
+ "cards": [
+  {
+   "tag": "Why this matters",
+   "h": "The city that turned the war",
+   "b": "<p>Stalingrad, on the Volga river, was the site of the bloodiest battle of the Second World War in Europe. From August 1942 to February 1943 German and Soviet armies fought street by street.</p><p>The battle is often seen as the turning point of the war on the Eastern Front. Its scale, its suffering and its myths are still debated.</p>"
+  },
+  {
+   "tag": "The story",
+   "h": "Hitler's city on the Volga",
+   "b": "<p>In the summer of 1942 the German Sixth Army under General Friedrich Paulus pushed toward Stalingrad, a city named after Stalin. Hitler wanted the city for its symbol and its control of the river.</p><p>The city was reduced to ruins by bombing. Soviet soldiers and civilians fought on in the rubble, and the Germans became trapped in the streets.</p>"
+  },
+  {
+   "tag": "The story",
+   "h": "Encirclement",
+   "b": "<p>In November 1942 the Red Army launched Operation Uranus. Soviet forces attacked the weak Romanian and Italian armies on the flanks of the German forces and then closed a ring around Stalingrad.</p><p>Some 250,000 German and allied troops were trapped in the pocket. Hitler forbade a breakout, and he promised that an airlift would supply the army. The airlift failed.</p>"
+  },
+  {
+   "tag": "Key source",
+   "h": "Vasily Grossman's war reporting",
+   "b": "<div class=\"box\"><h4>Vasily Grossman (1905–1964)</h4><p>A Soviet writer and war correspondent, Grossman reported from Stalingrad and later wrote the novel <i>Life and Fate</i>. His letters and articles show the cold, the rubble and the crowded dugouts.</p><p>His work is a vivid source, though it was shaped by the needs of Soviet propaganda and by his own experience.</p></div>"
+  },
+  {
+   "tag": "Timeline",
+   "h": "The battle in key dates",
+   "b": "<svg class=\"d\" viewBox=\"0 0 320 158\"><line x1=\"14\" y1=\"10\" x2=\"14\" y2=\"138\" stroke=\"#a8792a\" stroke-width=\"2\"/><circle cx=\"14\" cy=\"22\" r=\"5\" fill=\"#f1e4c6\" stroke=\"#a8792a\" stroke-width=\"2\"/><text x=\"28\" y=\"26\" font-size=\"11\" font-weight=\"700\" fill=\"#a8792a\">Aug 1942</text><text x=\"92\" y=\"26\" font-size=\"11\" fill=\"#1d2433\">German assault on the city</text><circle cx=\"14\" cy=\"50\" r=\"5\" fill=\"#f1e4c6\" stroke=\"#a8792a\" stroke-width=\"2\"/><text x=\"28\" y=\"54\" font-size=\"11\" font-weight=\"700\" fill=\"#a8792a\">Nov 1942</text><text x=\"92\" y=\"54\" font-size=\"11\" fill=\"#1d2433\">Soviets encircle the Sixth Army</text><circle cx=\"14\" cy=\"78\" r=\"5\" fill=\"#f1e4c6\" stroke=\"#a8792a\" stroke-width=\"2\"/><text x=\"28\" y=\"82\" font-size=\"11\" font-weight=\"700\" fill=\"#a8792a\">Dec 1942</text><text x=\"92\" y=\"82\" font-size=\"11\" fill=\"#1d2433\">Relief attempt fails</text><circle cx=\"14\" cy=\"106\" r=\"5\" fill=\"#f1e4c6\" stroke=\"#a8792a\" stroke-width=\"2\"/><text x=\"28\" y=\"110\" font-size=\"11\" font-weight=\"700\" fill=\"#a8792a\">Jan 1943</text><text x=\"92\" y=\"110\" font-size=\"11\" fill=\"#1d2433\">Soviets split the pocket</text><circle cx=\"14\" cy=\"134\" r=\"5\" fill=\"#f1e4c6\" stroke=\"#a8792a\" stroke-width=\"2\"/><text x=\"28\" y=\"138\" font-size=\"11\" font-weight=\"700\" fill=\"#a8792a\">Feb 1943</text><text x=\"92\" y=\"138\" font-size=\"11\" fill=\"#1d2433\">Paulus surrenders</text></svg><p>The campaign lasted about five months. After the surrender, most of the surviving German prisoners were marched into captivity.</p>"
+  },
+  {
+   "tag": "The story",
+   "h": "Life in the ruins",
+   "b": "<p>Soldiers fought in cellars, factories and sewers. Some of the most famous fighting was at the Red October steel works and the Barrikady gun factory, where workers kept producing weapons under fire.</p><p>Civilians stayed in the ruins too, sheltering in cellars and tunnels. Estimates of civilian and military deaths run to more than a million in the battle and the surrounding campaign.</p>"
+  },
+  {
+   "tag": "Myth vs fact",
+   "h": "The sniper duel that never happened?",
+   "b": "<p>A famous story says that the Soviet sniper Vasily Zaitsev killed hundreds of Germans and fought a deadly duel with a German sniper named Major König. The story was turned into a popular film in 2001.</p><p>Historians such as Antony Beevor doubt the duel ever took place. The story was partly propaganda, built to inspire Soviet soldiers. Zaitsev was a real sniper, but the duel is probably a legend. Historians argue about how many of the famous Soviet stories were made up.</p>"
+  },
+  {
+   "tag": "The story",
+   "h": "The surrender",
+   "b": "<p>On 31 January 1943 Paulus surrendered, having been made a field marshal the day before. Hitler had hoped that no German field marshal would be taken alive. The last pockets surrendered in early February.</p><p>About 90,000 German soldiers were taken prisoner. Few of them survived captivity, and only a small fraction returned home after the war.</p>"
+  },
+  {
+   "tag": "Key idea",
+   "h": "Why it mattered",
+   "b": "<p>Stalingrad destroyed the Sixth Army and cost Germany a large part of its best troops. The Soviets gained the initiative on the Eastern Front, and their advance toward Berlin began.</p><p>Historians argue about how far Stalingrad was the turning point. Some say the Soviets had already started to recover, and that the battles at Kursk and elsewhere mattered as much. Still, the shock was enormous.</p>"
+  },
+  {
+   "tag": "The story",
+   "h": "The city after the war",
+   "b": "<p>Stalingrad was rebuilt after the war and renamed Volgograd in 1961. The ruins of the old city were partly left as a memorial. The Mamayev Kurgan hill memorial is among the largest war memorials in the world.</p><p>The name changes show how the city became a symbol. Russians still debate the battle and its meaning, and museums and monuments keep its memory alive.</p>"
+  },
+  {
+   "tag": "Legacy",
+   "h": "A battle in memory",
+   "b": "<p>The battle became a symbol of Soviet endurance and sacrifice. Novels, films and textbooks celebrated it. Western accounts focused on the German defeat and the tragedy of the Sixth Army.</p><p>Each memory has its own angle. The most useful history is the one that holds both the heroism and the cruelty of the battle together.</p>"
+  },
+  {
+   "tag": "Indian angle",
+   "h": "Meanwhile in India…",
+   "b": "<p>In 1943, while Stalingrad was being fought, the Bengal famine killed an estimated two to three million people in India. Wartime shipping, rice prices and the movement of food played a role.</p><p>The economist Amartya Sen later argued that the famine was less about the lack of food than about who could get it. Historians still argue about the blame. Two great wartime disasters ran side by side on opposite sides of the world.</p>"
+  },
+  {
+   "tag": "Recap",
+   "h": "Five takeaways, two puzzles",
+   "b": "<b>Five things to remember</b><ol><li>The battle of Stalingrad ran from August 1942 to February 1943.</li><li>The Soviets encircled the Sixth Army in November 1942.</li><li>Paulus surrendered on 31 January 1943.</li><li>About 90,000 German soldiers were captured.</li><li>The Zaitsev duel is probably a legend.</li></ol><b>Think about it</b><ul><li>Did Stalingrad turn the war, or was it one step in a longer turn?</li><li>How do nations build myths around their wars?</li></ul>",
+   "cls": "exam"
+  }
+ ],
+ "quiz": [
+  {
+   "q": "The city of Stalingrad was on the...",
+   "o": [
+    "Danube",
+    "Volga",
+    "Rhine",
+    "Dnieper"
+   ],
+   "a": 1,
+   "w": "A great Russian river."
+  },
+  {
+   "q": "The German commander who surrendered at Stalingrad was...",
+   "o": [
+    "Rommel",
+    "Paulus",
+    "Guderian",
+    "Manstein"
+   ],
+   "a": 1,
+   "w": "Friedrich Paulus."
+  },
+  {
+   "q": "The Soviet encirclement at Stalingrad was called...",
+   "o": [
+    "Operation Barbarossa",
+    "Operation Uranus",
+    "Operation Sea Lion",
+    "Operation Overlord"
+   ],
+   "a": 1,
+   "w": "Launched in November 1942."
+  },
+  {
+   "q": "Stalingrad's battle ended in...",
+   "o": [
+    "January 1942",
+    "February 1943",
+    "June 1944",
+    "May 1945"
+   ],
+   "a": 1,
+   "w": "With the surrender of the last pockets."
+  },
+  {
+   "q": "The German forces at Stalingrad were mainly the...",
+   "o": [
+    "Sixth Army",
+    "Fifth Fleet",
+    "Twelfth Corps",
+    "Third Guard"
+   ],
+   "a": 0,
+   "w": "Commanded by Paulus."
+  },
+  {
+   "q": "Vasily Zaitsev was a...",
+   "o": [
+    "Sniper",
+    "Pilot",
+    "Tank commander",
+    "Admiral"
+   ],
+   "a": 0,
+   "w": "The duel story is doubted."
+  },
+  {
+   "q": "Grossman's famous novel is...",
+   "o": [
+    "Life and Fate",
+    "War and Peace",
+    "Doctor Zhivago",
+    "The Gulag Archipelago"
+   ],
+   "a": 0,
+   "w": "He reported from Stalingrad."
+  },
+  {
+   "q": "About how many German soldiers were captured at Stalingrad?",
+   "o": [
+    "About 9,000",
+    "About 90,000",
+    "About 900",
+    "About 900,000"
+   ],
+   "a": 1,
+   "w": "Few of them returned home."
+  },
+  {
+   "q": "The Bengal famine of 1943 killed an estimated...",
+   "o": [
+    "A few thousand",
+    "About 200",
+    "Two to three million",
+    "About 50,000"
+   ],
+   "a": 2,
+   "w": "Amartya Sen studied its causes."
+  },
+  {
+   "q": "Stalingrad was renamed Volgograd in...",
+   "o": [
+    "1917",
+    "1961",
+    "1941",
+    "1989"
+   ],
+   "a": 1,
+   "w": "After Stalin's death."
+  }
+ ],
+ "sources": [
+  "Beevor, Stalingrad (1998); Grossman, Life and Fate; Sen, Poverty and Famines (1981)"
+ ],
+ "verified": "2026-11-12"
+}

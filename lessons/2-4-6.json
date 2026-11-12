@@ -1,0 +1,178 @@
+{
+ "id": "2-4-6",
+ "title": "Postcolonial IR",
+ "emoji": "🌐",
+ "cards": [
+  {
+   "tag": "Why this matters",
+   "h": "The discipline looked from Europe",
+   "b": "<p>Mainstream IR was written mostly in the US and Britain, about the great powers. Postcolonial and Global IR ask: whose history counts? What if the world is seen from Delhi, Lagos or Lima? It is an emerging UPSC theme with links to Third World approaches.</p>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "Core claims",
+   "b": "<svg class=\"d\" viewBox=\"0 0 320 190\"><rect x=\"20\" y=\"8\" width=\"280\" height=\"32\" rx=\"8\" fill=\"#f1e4c6\" stroke=\"#a8792a\"/><text x=\"160\" y=\"29\" fill=\"#1d2433\" font-size=\"12\" text-anchor=\"middle\">IR is Eurocentric in its history and concepts</text><text x=\"160\" y=\"51\" fill=\"#5d6474\" font-size=\"11\" text-anchor=\"middle\">↓</text><rect x=\"20\" y=\"52\" width=\"280\" height=\"32\" rx=\"8\" fill=\"#dceaec\" stroke=\"#2f6f7a\"/><text x=\"160\" y=\"73\" fill=\"#1d2433\" font-size=\"12\" text-anchor=\"middle\">Empire and race shaped the international order</text><text x=\"160\" y=\"95\" fill=\"#5d6474\" font-size=\"11\" text-anchor=\"middle\">↓</text><rect x=\"20\" y=\"96\" width=\"280\" height=\"32\" rx=\"8\" fill=\"#f1e4c6\" stroke=\"#a8792a\"/><text x=\"160\" y=\"117\" fill=\"#1d2433\" font-size=\"12\" text-anchor=\"middle\">The &#x27;periphery&#x27; also makes theory and history</text><text x=\"160\" y=\"139\" fill=\"#5d6474\" font-size=\"11\" text-anchor=\"middle\">↓</text><rect x=\"20\" y=\"140\" width=\"280\" height=\"32\" rx=\"8\" fill=\"#dceaec\" stroke=\"#2f6f7a\"/><text x=\"160\" y=\"161\" fill=\"#1d2433\" font-size=\"12\" text-anchor=\"middle\">Seek plural, global IR, not a single canon</text></svg>"
+  },
+  {
+   "tag": "Key idea",
+   "h": "Said, Fanon, Spivak",
+   "b": "<p><b>Edward Said</b>, <i>Orientalism</i> (1978): the West created the 'Orient' as backward, which justified rule. <b>Frantz Fanon</b>, <i>The Wretched of the Earth</i> (1961): colonialism wounds the mind, and decolonisation needs a new humanism. <b>Gayatri Spivak</b>, 'Can the Subaltern Speak?' (1988): elites speak for the powerless. <b>Homi Bhabha</b>: hybridity and mimicry.</p>"
+  },
+  {
+   "tag": "Key idea",
+   "h": "Critique of Eurocentrism",
+   "b": "<p>Textbook IR starts with the 1648 Westphalia peace, as if states began in Europe. Critics note that sovereignty was <b>unequal</b>: colonies lacked it, and 'standards of civilisation' decided who was a full state. John Hobson, <i>The Eurocentric Conception of World Politics</i> (2012) shows how racial hierarchy shaped Western IR. The Berlin Conference (1884-85) divided Africa without Africans. Racism is thus a hidden structure of international order.</p>"
+  },
+  {
+   "tag": "Key idea",
+   "h": "Global IR and non-Western theory",
+   "b": "<p>Acharya and Buzan, 'Why is there no non-Western IR theory?' (2007), found rich ideas that had not been theorised: <b>Kautilya's mandala</b>, Chinese tianxia and 'harmony', Islamic and African traditions. Amitav Acharya's <b>Global IR</b> (ISA address, 2014) asks for a discipline grounded in world history, diverse theories and regional worlds, instead of replacing the West with the rest.</p>"
+  },
+  {
+   "tag": "Key idea",
+   "h": "Third World security",
+   "b": "<p><b>Mohammed Ayoob</b>'s subaltern realism (1995) says that for the Third World, state-making and internal security come first, unlike the North's external focus. <b>Dependency</b> and world-systems ideas (Prebisch, Frank, Wallerstein) and <b>TWAIL</b> (Third World Approaches to International Law) argue that international law serves imperial interest. Bandung 1955 and the NAM, NIEO appear as Southern agency.</p>"
+  },
+  {
+   "tag": "Debate",
+   "h": "Critiques",
+   "b": "<ul><li>Realists: power politics is universal, not Western.</li><li>Risk of replacing one essentialism ('the West') with another.</li><li>Elites in the Global South can also be Eurocentric; the Third World is not one voice.</li><li>Obscure language; weak policy guidance.</li><li>Defenders: it exposes silent assumptions and widens the field.</li></ul>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "Postcolonialism and other approaches",
+   "b": "<p>Compare: <b>Marxism</b> (class and capital; postcolonialism adds race and culture), <b>constructivism</b> (ideas matter; postcolonialism asks whose ideas), <b>feminism</b> (gender; shares critique of the 'universal' subject). It also links with <b>decolonial</b> thought from Latin America (Quijano, Mignolo).</p><p>Keep the name, the year and the one-line claim ready. These three details are what examiners look for when they check a concept.</p>"
+  },
+  {
+   "tag": "Indian angle",
+   "h": "India's voice",
+   "b": "<p>Nehru's anti-colonial IR, NAM, India's stance on Palestine, apartheid, and NIEO, and demands for a reformed UNSC all carry postcolonial concerns. India's civilisational ideas (<i>Vasudhaiva Kutumbakam</i>, Panchsheel, Kautilya) feed Global IR. Scholars: Ranajit Guha, Dipesh Chakrabarty (<i>Provincializing Europe</i>, 2000), and Kanti Bajpai. Remember to note the risks of using civilisational pride to cover national interest.</p>"
+  },
+  {
+   "tag": "Exam lens",
+   "h": "How UPSC asks this",
+   "b": "<div class=\"box\">\"Examine how postcolonial approaches challenge the Eurocentrism of IR.\"</div><div class=\"box\">\"What is Global IR?\"</div><div class=\"box\">\"Assess the contribution of non-Western ideas to IR theory.\"</div><p><b>Structure:</b> problem, thinkers, Eurocentrism, Global IR, Third World security, critique, India.</p><p>Marks tip: open with a one-line definition, use two or three named thinkers, cases or Articles, add one Indian example, and end with a balanced, forward-looking line. Keep within the word limit.</p>",
+   "cls": "exam"
+  }
+ ],
+ "quiz": [
+  {
+   "q": "Orientalism was published in…",
+   "o": [
+    "1961",
+    "1988",
+    "2000",
+    "1978"
+   ],
+   "a": 3,
+   "w": "Edward Said."
+  },
+  {
+   "q": "The Wretched of the Earth is by…",
+   "o": [
+    "Spivak",
+    "Bhabha",
+    "Fanon",
+    "Said"
+   ],
+   "a": 2,
+   "w": "Frantz Fanon, 1961."
+  },
+  {
+   "q": "'Can the Subaltern Speak?' is by…",
+   "o": [
+    "Guha",
+    "Spivak",
+    "Said",
+    "Chakrabarty"
+   ],
+   "a": 1,
+   "w": "Gayatri Spivak, 1988."
+  },
+  {
+   "q": "Global IR was advocated by…",
+   "o": [
+    "Amitav Acharya",
+    "Kenneth Waltz",
+    "Alexander Wendt",
+    "Hans Morgenthau"
+   ],
+   "a": 0,
+   "w": "His 2014 ISA address."
+  },
+  {
+   "q": "Provincializing Europe (2000) is by…",
+   "o": [
+    "Ayoob",
+    "Hobson",
+    "Buzan",
+    "Dipesh Chakrabarty"
+   ],
+   "a": 3,
+   "w": "A postcolonial history work."
+  },
+  {
+   "q": "Subaltern realism is linked with…",
+   "o": [
+    "Keohane",
+    "Bull",
+    "Mohammed Ayoob",
+    "Mearsheimer"
+   ],
+   "a": 2,
+   "w": "Third World security."
+  },
+  {
+   "q": "The Berlin Conference took place in…",
+   "o": [
+    "1945",
+    "1884-85",
+    "1648",
+    "1919"
+   ],
+   "a": 1,
+   "w": "On the partition of Africa."
+  },
+  {
+   "q": "TWAIL stands for…",
+   "o": [
+    "Third World Approaches to International Law",
+    "Trade and Welfare in Law",
+    "Treaty on World Arms",
+    "Transnational Wars and Law"
+   ],
+   "a": 0,
+   "w": "A critical legal school."
+  },
+  {
+   "q": "Westphalia (1648) is questioned because it…",
+   "o": [
+    "Is too old",
+    "Was a war",
+    "Had no states",
+    "Ignores colonial inequality in sovereignty"
+   ],
+   "a": 3,
+   "w": "Eurocentric origin story."
+  },
+  {
+   "q": "Kautilya's mandala is often cited as…",
+   "o": [
+    "A UN doctrine",
+    "A trade rule",
+    "A non-Western IR idea",
+    "A Western theory"
+   ],
+   "a": 2,
+   "w": "A theory of circles of states."
+  }
+ ],
+ "sources": [
+  "Edward Said, Orientalism (1978)",
+  "Acharya and Buzan, 'Why is there no non-Western IR theory?' (2007)",
+  "Amitav Acharya, 'Global IR' (2014)",
+  "John Hobson, The Eurocentric Conception of World Politics (2012)",
+  "PYQ themes: Eurocentrism, Third World (Paper II)"
+ ],
+ "verified": "2026-11-12"
+}

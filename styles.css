@@ -208,3 +208,6 @@ svg.d{width:100%;height:auto;margin:4px 0 14px;flex-shrink:0;overflow:visible}
 .tog span{position:absolute;inset:0;border-radius:99px;background:#cfd4da;transition:.25s}
 .tog span::after{content:"";position:absolute;width:22px;height:22px;left:3px;top:3px;border-radius:50%;background:#fff;box-shadow:0 1px 4px rgba(0,0,0,.25);transition:.25s var(--ease)}
 .tog input:checked+span{background:var(--goldd)}.tog input:checked+span::after{transform:translateX(18px)}
+
+/* host badges */
+body>a[href*="netlify"],body>div[class*="netlify" i],body>div[id*="netlify" i],netlify-badge,#netlify-badge,[data-netlify-badge]{display:none!important}
