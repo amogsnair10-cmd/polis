@@ -65,28 +65,11 @@ function render() {
   } else {
     box.innerHTML = `<p class="note">Sign in to save your progress and doubts, and see how your learning is going.</p>
       <button class="choice signin" id="gBtn"><span class="g">G</span><span>Continue with Google</span></button>
-      <div class="phone"><input id="ph" type="tel" placeholder="Phone number, e.g. 98765 43210" autocomplete="tel"><button class="choice signin" id="pBtn"><span class="g">☎</span><span>Send OTP</span></button></div>
-      <div class="phone" id="otpRow" hidden><input id="otp" inputmode="numeric" placeholder="6-digit OTP"><button class="choice signin" id="oBtn"><span class="g">✓</span><span>Verify</span></button></div>
       <p class="note" id="aMsg"></p><div id="rc"></div>`;
     const msg = t => document.getElementById("aMsg").textContent = t;
     document.getElementById("gBtn").onclick = async () => {
       try { await signInWithPopup(auth, new GoogleAuthProvider()); }
-      catch (e) { msg(window.Capacitor ? "Google sign-in isn't available inside the Android app yet. Use your phone number." : "Google sign-in didn't finish: " + (e.code || e.message)); }
-    };
-    let confirm = null;
-    document.getElementById("pBtn").onclick = async () => {
-      let n = document.getElementById("ph").value.replace(/[^\d+]/g, "");
-      if (!n) return msg("Enter your phone number.");
-      if (!n.startsWith("+")) n = "+91" + n.replace(/^0/, "");
-      try {
-        window._rc = window._rc || new RecaptchaVerifier(auth, "rc", { size: "invisible" });
-        confirm = await signInWithPhoneNumber(auth, n, window._rc);
-        document.getElementById("otpRow").hidden = false; msg("OTP sent to " + n + ".");
-      } catch (e) { msg("Couldn't send the OTP: " + (e.code || e.message)); }
-    };
-    document.getElementById("oBtn").onclick = async () => {
-      try { await confirm.confirm(document.getElementById("otp").value.trim()); }
-      catch (e) { msg("That OTP didn't work. Try again."); }
+      catch (e) { msg(window.Capacitor ? "Google sign-in isn't available inside the Android app yet. Open amoglightbulb.netlify.app in Chrome to sign in." : "Google sign-in didn't finish: " + (e.code || e.message)); }
     };
   }
 }
