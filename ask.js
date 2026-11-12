@@ -6,7 +6,6 @@ const plain = h => h.replace(/<svg[\s\S]*?<\/svg>/g, " ").replace(/<[^>]+>/g, " 
 const threads = {}; // lessonId -> message history, kept for follow-up questions this session
 
 export async function ask({ apiKey, model, subject, lessonId, lesson, cardIndex, question, onText }) {
-  const client = new Anthropic({ apiKey, dangerouslyAllowBrowser: true });
   const card = lesson.cards[cardIndex];
   const system =
     `You are a patient tutor inside a study app. Subject: ${subject}. Lesson: "${lesson.title}".\n` +
@@ -14,9 +13,12 @@ export async function ask({ apiKey, model, subject, lessonId, lesson, cardIndex,
     `Use the lesson below as context, but correct it if it is wrong, and say when facts may have changed since it was written. ` +
     `Keep answers under about 250 words unless asked for more. Use plain text with simple lists; no markdown headings.\n\n` +
     `LESSON TEXT:\n` + lesson.cards.map((c, i) => `[Card ${i + 1}] ${plain(c.h)}: ${plain(c.b)}`).join("\n");
-  const history = threads[lessonId] || (threads[lessonId] = []);
+  const tkey = lessonId + "|" + model;
+  const history = threads[tkey] || (threads[tkey] = []);
   const where = card ? `(I'm on card ${cardIndex + 1}: "${plain(card.h)}")\n` : "";
   history.push({ role: "user", content: where + question });
+  if (model.startsWith("gemini")) return askGemini({ apiKey, model, system, history, onText });
+  const client = new Anthropic({ apiKey, dangerouslyAllowBrowser: true });
 
   const stream = client.beta.messages.stream({
     model,
@@ -43,4 +45,44 @@ export async function ask({ apiKey, model, subject, lessonId, lesson, cardIndex,
   return text;
 }
 
-export function forget(lessonId) { delete threads[lessonId]; }
+export function forget(lessonId) { for (const k in threads) if (k.startsWith(lessonId + "|")) delete threads[k]; }
+
+// Gemini (Google AI Studio key). Streams the answer inside the app via the Gemini REST API.
+async function askGemini({ apiKey, model, system, history, onText }) {
+  const url = `https://generativelanguage.googleapis.com/v1beta/models/${model}:streamGenerateContent?alt=sse`;
+  const res = await fetch(url, {
+    method: "POST",
+    headers: { "Content-Type": "application/json", "x-goog-api-key": apiKey },
+    body: JSON.stringify({
+      systemInstruction: { parts: [{ text: system }] },
+      contents: history.map(m => ({ role: m.role === "assistant" ? "model" : "user", parts: [{ text: m.content }] })),
+      generationConfig: { maxOutputTokens: 4000 },
+    }),
+  });
+  if (!res.ok) {
+    history.pop();
+    const e = new Error(res.status === 400 || res.status === 403 ? "Gemini rejected that key." : `Gemini error ${res.status}`);
+    e.status = res.status === 400 || res.status === 403 ? 401 : res.status;
+    throw e;
+  }
+  const reader = res.body.getReader(), dec = new TextDecoder();
+  let buf = "", text = "";
+  for (;;) {
+    const { value, done } = await reader.read();
+    if (done) break;
+    buf += dec.decode(value, { stream: true });
+    let i;
+    while ((i = buf.indexOf("\n")) >= 0) {
+      const line = buf.slice(0, i).trim(); buf = buf.slice(i + 1);
+      if (!line.startsWith("data:")) continue;
+      try {
+        const j = JSON.parse(line.slice(5));
+        const parts = (j.candidates && j.candidates[0] && j.candidates[0].content && j.candidates[0].content.parts) || [];
+        for (const p of parts) if (p.text && !p.thought) { text += p.text; onText(text); }
+      } catch (e) {}
+    }
+  }
+  if (!text) { history.pop(); throw new Error("Gemini returned no answer. Try rephrasing."); }
+  history.push({ role: "assistant", content: text });
+  return text;
+}

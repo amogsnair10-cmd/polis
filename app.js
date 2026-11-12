@@ -198,11 +198,13 @@ document.getElementById('results').addEventListener('click',async e=>{const b=e.
 
 /* ---------- ask a doubt ---------- */
 const askSheet=document.getElementById('askSheet'),chat=document.getElementById('chat');
-function askView(){const has=!!ls.get('askKey');document.getElementById('keyBox').hidden=has;document.getElementById('chatBox').hidden=!has;
-  document.getElementById('model').value=ls.get('askModel')||'claude-haiku-5-5'}
+const isGem=m=>m.startsWith('gemini'),keyName=m=>isGem(m)?'askKeyGemini':'askKey';
+function keyHint(){const m=document.getElementById('model').value,k=document.getElementById('apiKey');k.placeholder=isGem(m)?'AIza… (from aistudio.google.com)':'sk-ant-… (from console.anthropic.com)';k.value=''}
+function askView(){const m=ls.get('askModel')||'claude-haiku-5-5';document.getElementById('model').value=m;keyHint();const has=!!ls.get(keyName(m));document.getElementById('keyBox').hidden=has;document.getElementById('chatBox').hidden=!has}
 document.getElementById('askBtn').onclick=()=>{if(askSheet._lesson!==cur){chat.innerHTML='';askSheet._lesson=cur}askView();askSheet.hidden=false};
 document.getElementById('askClose').onclick=()=>askSheet.hidden=true;
-document.getElementById('saveKey').onclick=()=>{const k=document.getElementById('apiKey').value.trim();if(!k)return;ls.set('askKey',k);ls.set('askModel',document.getElementById('model').value);document.getElementById('apiKey').value='';askView()};
+document.getElementById('model').onchange=()=>{const m=document.getElementById('model').value;keyHint();if(ls.get(keyName(m))){ls.set('askModel',m);askView()}};
+document.getElementById('saveKey').onclick=()=>{const m=document.getElementById('model').value,k=document.getElementById('apiKey').value.trim();ls.set('askModel',m);if(k)ls.set(keyName(m),k);if(!ls.get(keyName(m)))return;askView()};
 document.getElementById('changeKey').onclick=()=>{document.getElementById('keyBox').hidden=false;document.getElementById('chatBox').hidden=true};
 document.getElementById('sendDoubt').onclick=async()=>{
   const ta=document.getElementById('doubt'),q=ta.value.trim();if(!q)return;ta.value='';
@@ -210,7 +212,7 @@ document.getElementById('sendDoubt').onclick=async()=>{
   const ai=document.createElement('div');ai.className='qa ai';ai.textContent='Thinking…';chat.appendChild(ai);chat.scrollTop=chat.scrollHeight;
   if(!navigator.onLine){ai.textContent='You are offline. Asking a doubt needs the internet.';return}
   try{const {ask}=await import('./ask.js');
-    await ask({apiKey:ls.get('askKey'),model:ls.get('askModel')||'claude-haiku-5-5',subject:SUB.full,lessonId:SUB.id+'/'+cur,lesson:L[cur],cardIndex:Math.max(0,Math.min(curCard,L[cur].cards.length-1)),question:q,onText:t=>{ai.textContent=t;chat.scrollTop=chat.scrollHeight}})}
+    await ask({apiKey:ls.get(keyName(ls.get('askModel')||'claude-haiku-5-5')),model:ls.get('askModel')||'claude-haiku-5-5',subject:SUB.full,lessonId:SUB.id+'/'+cur,lesson:L[cur],cardIndex:Math.max(0,Math.min(curCard,L[cur].cards.length-1)),question:q,onText:t=>{ai.textContent=t;chat.scrollTop=chat.scrollHeight}})}
   catch(err){ai.textContent=(err&&err.status===401)?'That API key was rejected. Tap "Change key or model".':'Could not get an answer: '+(err&&err.message||err)}};
 
 if('serviceWorker' in navigator){const had=!!navigator.serviceWorker.controller;let reloaded=false;

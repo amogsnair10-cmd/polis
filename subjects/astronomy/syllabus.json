@@ -9,7 +9,10 @@
      "The Night Sky: Constellations and Coordinates",
      "Motions of Sun, Moon and Planets",
      "Eclipses, Seasons and Calendars",
-     "From Ptolemy to Copernicus, Kepler and Galileo"
+     "From Ptolemy to Copernicus, Kepler and Galileo",
+     "How to Stargaze: Sky Maps and Naked-Eye Observing",
+     "Astrophotography Basics",
+     "Light Pollution and Dark Skies"
     ],
     1
    ],
@@ -17,9 +20,22 @@
     "Tools",
     [
      "Light, Spectra and What Starlight Tells Us",
-     "Telescopes: From Galileo to JWST"
+     "Telescopes: From Galileo to JWST",
+     "ALMA and the Radio Sky",
+     "X-Rays: Seeing the Violent Universe"
     ],
     1
+   ],
+   [
+    "Sky in India",
+    [
+     "Vedanga Jyotisha and Early Indian Calendars",
+     "Aryabhata and the Spinning Earth",
+     "Varahamihira and the Five Siddhantas",
+     "The Kerala School: Madhava's Infinite Series",
+     "Jantar Mantar: Jai Singh's Royal Observatories"
+    ],
+    0
    ]
   ]
  },
@@ -34,9 +50,22 @@
      "Rocky Planets: Mercury, Venus, Earth, Mars",
      "Gas and Ice Giants",
      "Moons, Rings, Asteroids and Comets",
-     "How the Solar System Formed"
+     "How the Solar System Formed",
+     "The Moon and the Tides",
+     "Space Weather: Storms From the Sun",
+     "Mercury and Einstein's Test",
+     "Transits of Venus: Measuring the Sun"
     ],
     1
+   ],
+   [
+    "Visitors and sky shows",
+    [
+     "Famous Comet Visits",
+     "Meteor Showers and Their Parent Comets",
+     "Interstellar Visitors: 'Oumuamua and Borisov"
+    ],
+    0
    ]
   ]
  },
@@ -52,7 +81,13 @@
      "Birth of Stars: Nebulae and Protostars",
      "Death of Stars: White Dwarfs and Supernovae",
      "Neutron Stars and Pulsars",
-     "Black Holes"
+     "Black Holes",
+     "Variable Stars: Cepheids, RR Lyrae and Mira",
+     "Binary Stars and Weighing Stars",
+     "Star Clusters: Open and Globular",
+     "Brown Dwarfs: Failed Stars",
+     "Novae: Stars That Flare Again",
+     "Gamma-Ray Bursts: The Biggest Explosions"
     ],
     1
    ],
@@ -74,7 +109,11 @@
     [
      "The Milky Way",
      "Galaxies, Clusters and the Cosmic Web",
-     "Dark Matter"
+     "Dark Matter",
+     "The Andromeda Galaxy",
+     "Quasars and Active Galaxies",
+     "Gravitational Lensing",
+     "The Magellanic Clouds and Local Group"
     ],
     1
    ],
@@ -84,7 +123,8 @@
      "The Expanding Universe: Hubble and Redshift",
      "The Big Bang and the Cosmic Microwave Background",
      "Dark Energy and the Fate of the Universe",
-     "Gravitational Waves and Multi-Messenger Astronomy"
+     "Gravitational Waves and Multi-Messenger Astronomy",
+     "The Cosmic Distance Ladder Beyond Cepheids"
     ],
     1
    ]
@@ -100,7 +140,9 @@
      "Rockets and Orbits",
      "The Space Race and Apollo",
      "ISRO: From Aryabhata to Chandrayaan and Aditya",
-     "The Future: Mars, Space Stations and Beyond"
+     "The Future: Mars, Space Stations and Beyond",
+     "Planetary Defence: The DART Test",
+     "Voyager: The Farthest Probes"
     ],
     1
    ]

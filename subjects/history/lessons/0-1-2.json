@@ -1,0 +1,176 @@
+{
+ "id": "0-1-2",
+ "title": "Buddhist Councils and Sects",
+ "emoji": "☸️",
+ "cards": [
+  {
+   "tag": "Why this matters",
+   "h": "How the Buddha’s word was fixed",
+   "b": "<p>The Buddha taught orally. Councils (sangitis) were held to settle the teachings and rules. Prelims asks <b>place, patron and president</b> of each council. Their disputes also explain the rise of Mahayana.</p>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "The Tripitaka",
+   "b": "<p>The Pali canon has three baskets: <b>Vinaya Pitaka</b> (monastic rules), <b>Sutta Pitaka</b> (discourses), <b>Abhidhamma Pitaka</b> (philosophy). Vinaya was recited by <b>Upali</b>, Sutta by <b>Ananda</b>. Abhidhamma is traditionally traced to the Third Council.</p>"
+  },
+  {
+   "tag": "Key event",
+   "h": "First and Second Councils",
+   "b": "<p><b>First</b> (c. 483 BCE): Rajgriha, Sattapanni cave, patron <b>Ajatashatru</b> (Haryanka), president <b>Mahakassapa</b>, soon after the Buddha’s death. <b>Second</b> (c. 383 BCE): Vaishali, patron <b>Kalashoka</b> (Shishunaga), president <b>Sabakami</b>; split over ten points of discipline, such as accepting money. Two groups emerged: Sthaviravadins (elders) and Mahasanghikas.</p>"
+  },
+  {
+   "tag": "Key event",
+   "h": "Third Council",
+   "b": "<p><b>Third</b> (c. 250 BCE): Pataliputra, patron <b>Ashoka</b>, president <b>Moggaliputta Tissa</b>. It expelled heretics, settled the Abhidhamma, and the Kathavatthu was composed. Ashoka then sent missions to Sri Lanka (Mahinda and Sanghamitta), Gandhara and elsewhere. This council was held by Theravadins and is not accepted by all schools.</p>"
+  },
+  {
+   "tag": "Key event",
+   "h": "Fourth Council",
+   "b": "<p><b>Fourth</b> (c. 72 CE or 1st century CE): Kundalvana, Kashmir (some say Jalandhar), patron <b>Kanishka</b>, president <b>Vasumitra</b> with <b>Ashvaghosha</b> as vice-president. Sanskrit was adopted; the Mahavibhasha commentary was compiled. It confirmed the split into <b>Hinayana</b> (Theravada) and <b>Mahayana</b>.</p>"
+  },
+  {
+   "tag": "Diagram",
+   "h": "Four councils",
+   "b": "<svg class=\"d\" viewBox=\"0 0 320 138\"><text x=\"160\" y=\"18\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1d2433\">Four Buddhist councils</text><rect x=\"10.0\" y=\"28\" width=\"146.0\" height=\"44\" rx=\"6\" fill=\"#f1e4c6\" stroke=\"#a8792a\"/><text x=\"83.0\" y=\"41.0\" text-anchor=\"middle\" font-size=\"10.5\" fill=\"#1d2433\">1st</text><text x=\"83.0\" y=\"54.0\" text-anchor=\"middle\" font-size=\"10.5\" fill=\"#1d2433\">Rajgriha</text><text x=\"83.0\" y=\"67.0\" text-anchor=\"middle\" font-size=\"10.5\" fill=\"#1d2433\">Ajatashatru</text><rect x=\"164.0\" y=\"28\" width=\"146.0\" height=\"44\" rx=\"6\" fill=\"#dceaec\" stroke=\"#2f6f7a\"/><text x=\"237.0\" y=\"41.0\" text-anchor=\"middle\" font-size=\"10.5\" fill=\"#1d2433\">2nd</text><text x=\"237.0\" y=\"54.0\" text-anchor=\"middle\" font-size=\"10.5\" fill=\"#1d2433\">Vaishali</text><text x=\"237.0\" y=\"67.0\" text-anchor=\"middle\" font-size=\"10.5\" fill=\"#1d2433\">Kalashoka</text><rect x=\"10.0\" y=\"80\" width=\"146.0\" height=\"44\" rx=\"6\" fill=\"#dceaec\" stroke=\"#2f6f7a\"/><text x=\"83.0\" y=\"93.0\" text-anchor=\"middle\" font-size=\"10.5\" fill=\"#1d2433\">3rd</text><text x=\"83.0\" y=\"106.0\" text-anchor=\"middle\" font-size=\"10.5\" fill=\"#1d2433\">Pataliputra</text><text x=\"83.0\" y=\"119.0\" text-anchor=\"middle\" font-size=\"10.5\" fill=\"#1d2433\">Ashoka</text><rect x=\"164.0\" y=\"80\" width=\"146.0\" height=\"44\" rx=\"6\" fill=\"#f1e4c6\" stroke=\"#a8792a\"/><text x=\"237.0\" y=\"93.0\" text-anchor=\"middle\" font-size=\"10.5\" fill=\"#1d2433\">4th</text><text x=\"237.0\" y=\"106.0\" text-anchor=\"middle\" font-size=\"10.5\" fill=\"#1d2433\">Kashmir</text><text x=\"237.0\" y=\"119.0\" text-anchor=\"middle\" font-size=\"10.5\" fill=\"#1d2433\">Kanishka</text></svg>"
+  },
+  {
+   "tag": "Key idea",
+   "h": "Sects and schools",
+   "b": "<p><b>Theravada</b>: Sri Lanka and South-East Asia, Pali, arhat ideal. <b>Mahayana</b>: bodhisattva ideal, Buddha as god, image worship, Sanskrit; Nagarjuna (Madhyamika) and Asanga, Vasubandhu (Yogachara). <b>Vajrayana</b>: tantra, rituals, Tibet and Bhutan; Padmasambhava. Sarvastivadins and Sautrantikas are Hinayana schools.</p>"
+  },
+  {
+   "tag": "Debate",
+   "h": "Historical or traditional?",
+   "b": "<p>Scholars doubt the exact dates and even whether the First Council was a formal event. The Second is better supported. Ashoka’s own edicts do not mention the Third. Dates of Kanishka (78 CE Saka era or later) are also debated.</p>"
+  },
+  {
+   "tag": "Indian angle",
+   "h": "Living legacy",
+   "b": "<p>Nalanda University was revived in Bihar (2010 Act; new campus 2024) and its ruins are a World Heritage Site (2016). Buddhist circuit tourism connects Lumbini, Bodh Gaya, Sarnath and Kushinagar. Dhamma Chakra Day (Ashokan conversions) and Buddha Purnima are observed.</p>"
+  },
+  {
+   "tag": "Exam lens",
+   "h": "How to answer",
+   "b": "<ul><li>“Match council, patron and place.”</li><li>“Why did Buddhism split into Hinayana and Mahayana?”</li><li>Mains: Role of Ashoka and Kanishka in spreading Buddhism.</li><li>Prelims: Third council president Moggaliputta Tissa; Kathavatthu.</li></ul>",
+   "cls": "exam"
+  }
+ ],
+ "quiz": [
+  {
+   "q": "The First Buddhist Council was held at",
+   "o": [
+    "Vaishali",
+    "Pataliputra",
+    "Rajgriha",
+    "Kashmir"
+   ],
+   "a": 2,
+   "w": "Under Ajatashatru."
+  },
+  {
+   "q": "President of the Third Council was",
+   "o": [
+    "Moggaliputta Tissa",
+    "Mahakassapa",
+    "Vasumitra",
+    "Upali"
+   ],
+   "a": 0,
+   "w": "It was at Pataliputra."
+  },
+  {
+   "q": "The Fourth Council was patronised by",
+   "o": [
+    "Ashoka",
+    "Harsha",
+    "Menander",
+    "Kanishka"
+   ],
+   "a": 3,
+   "w": "At Kundalvana, Kashmir."
+  },
+  {
+   "q": "Which Pitaka contains monastic rules?",
+   "o": [
+    "Sutta",
+    "Vinaya",
+    "Abhidhamma",
+    "Jataka"
+   ],
+   "a": 1,
+   "w": "Recited by Upali."
+  },
+  {
+   "q": "The Second Council was held at",
+   "o": [
+    "Rajgriha",
+    "Vaishali",
+    "Lumbini",
+    "Sarnath"
+   ],
+   "a": 1,
+   "w": "Over ten points of discipline."
+  },
+  {
+   "q": "Who was vice-president of the Fourth Council?",
+   "o": [
+    "Nagarjuna",
+    "Asanga",
+    "Upali",
+    "Ashvaghosha"
+   ],
+   "a": 3,
+   "w": "Vasumitra presided."
+  },
+  {
+   "q": "Kathavatthu was composed at the",
+   "o": [
+    "Third Council",
+    "First Council",
+    "Second Council",
+    "Fourth Council"
+   ],
+   "a": 0,
+   "w": "By Moggaliputta Tissa."
+  },
+  {
+   "q": "Bodhisattva ideal belongs to",
+   "o": [
+    "Theravada",
+    "Sarvastivada",
+    "Mahayana",
+    "Hinayana"
+   ],
+   "a": 2,
+   "w": "Compassion for all beings."
+  },
+  {
+   "q": "Vajrayana is closely linked with",
+   "o": [
+    "Sri Lanka",
+    "Burma",
+    "Thailand",
+    "Tibet"
+   ],
+   "a": 3,
+   "w": "Through Padmasambhava."
+  },
+  {
+   "q": "Ashoka’s son sent to Sri Lanka was",
+   "o": [
+    "Tivara",
+    "Mahinda",
+    "Kunala",
+    "Jalauka"
+   ],
+   "a": 1,
+   "w": "With daughter Sanghamitta."
+  }
+ ],
+ "sources": [
+  "Romila Thapar, Early India",
+  "Upinder Singh, A History of Ancient and Early Medieval India",
+  "NCERT Themes in Indian History I"
+ ],
+ "verified": "2026-11-12"
+}

@@ -7,7 +7,9 @@
     "Prehistory and the Harappan civilisation",
     [
      "Stone Age to Chalcolithic India",
-     "The Harappan Civilisation"
+     "The Harappan Civilisation",
+     "Harappan Sites and Their Features",
+     "Sources of Ancient History: Inscriptions and Coins"
     ],
     1
    ],
@@ -15,7 +17,9 @@
     "Vedic age and new religions",
     [
      "Vedic Society, Polity and Economy",
-     "Buddhism, Jainism and the Mahajanapadas"
+     "Buddhism, Jainism and the Mahajanapadas",
+     "Buddhist Councils and Sects",
+     "Jain Councils and Sects"
     ],
     1
    ],
@@ -24,7 +28,10 @@
     [
      "The Mauryan Empire",
      "Post-Mauryan Kingdoms and the Sangam Age",
-     "The Gupta Age"
+     "The Gupta Age",
+     "Mauryan Art and Architecture",
+     "Sangam Literature",
+     "Gupta Science and Mathematics"
     ],
     1
    ]
@@ -37,7 +44,8 @@
    [
     "Early medieval India",
     [
-     "Rajputs, Cholas and Regional Kingdoms"
+     "Rajputs, Cholas and Regional Kingdoms",
+     "Chola Administration"
     ],
     0
    ],
@@ -45,7 +53,9 @@
     "Sultanate and Vijayanagara",
     [
      "The Delhi Sultanate",
-     "Vijayanagara and the Bahmanis"
+     "Vijayanagara and the Bahmanis",
+     "Delhi Sultanate Administration",
+     "Vijayanagara Art and Architecture"
     ],
     1
    ],
@@ -53,14 +63,18 @@
     "The Mughals and their rivals",
     [
      "The Mughal Empire: Polity and Administration",
-     "Marathas and the Decline of the Mughals"
+     "Marathas and the Decline of the Mughals",
+     "Mughal Architecture",
+     "Maratha Administration",
+     "The Sikh Gurus"
     ],
     1
    ],
    [
     "Bhakti and Sufi movements",
     [
-     "Bhakti and Sufi Traditions"
+     "Bhakti and Sufi Traditions",
+     "Bhakti Saints in Depth"
     ],
     1
    ]
@@ -74,7 +88,8 @@
     "Architecture",
     [
      "Temple Architecture: Nagara, Dravida, Vesara",
-     "Buddhist, Indo-Islamic and Colonial Architecture"
+     "Buddhist, Indo-Islamic and Colonial Architecture",
+     "Nagara and Dravida Temples in Detail"
     ],
     1
    ],
@@ -82,7 +97,8 @@
     "Sculpture and painting",
     [
      "Sculpture: Mauryan to Chola Bronzes",
-     "Painting: Ajanta to the Miniature Schools"
+     "Painting: Ajanta to the Miniature Schools",
+     "Indian Painting Schools"
     ],
     1
    ],
@@ -90,7 +106,9 @@
     "Performing arts",
     [
      "Classical and Folk Dances",
-     "Music and Theatre Traditions"
+     "Music and Theatre Traditions",
+     "The Eight Classical Dances",
+     "Hindustani and Carnatic Gharanas"
     ],
     1
    ],
@@ -98,7 +116,9 @@
     "Literature, philosophy and heritage",
     [
      "Indian Literature and Schools of Philosophy",
-     "Heritage, UNESCO Sites and Cultural Policy"
+     "Heritage, UNESCO Sites and Cultural Policy",
+     "Festivals and Fairs of India",
+     "UNESCO Intangible Heritage in India"
     ],
     0
    ]
@@ -112,7 +132,8 @@
     "Coming of the Europeans",
     [
      "European Companies and the Battle of Plassey",
-     "Expansion of British Power to 1857"
+     "Expansion of British Power to 1857",
+     "Governors-General and Viceroys"
     ],
     1
    ],
@@ -127,7 +148,8 @@
    [
     "Revolt of 1857",
     [
-     "The Revolt of 1857: Causes, Course, Consequences"
+     "The Revolt of 1857: Causes, Course, Consequences",
+     "Leaders of 1857"
     ],
     1
    ],
@@ -135,7 +157,10 @@
     "Social and religious reform",
     [
      "Reform Movements of the 19th Century",
-     "Caste, Tribal and Peasant Movements"
+     "Caste, Tribal and Peasant Movements",
+     "Tribal Revolts: Santhal, Munda and Others",
+     "Peasant Movements",
+     "Indian Renaissance Figures"
     ],
     1
    ],
@@ -146,7 +171,11 @@
      "Extremists, Swadeshi and Revolutionaries",
      "The Gandhian Phase: 1917–1934",
      "Towards Freedom: 1935–1947",
-     "Women, Dalits and Regions in the Freedom Struggle"
+     "Women, Dalits and Regions in the Freedom Struggle",
+     "Swadeshi in the Regions",
+     "INA and Netaji",
+     "Cabinet Mission and Mountbatten Plan",
+     "Women Leaders of the Freedom Struggle"
     ],
     1
    ],
@@ -168,7 +197,8 @@
     [
      "Partition, Integration of States and Linguistic Reorganisation",
      "Nehru Era: Planning, Foreign Policy and Institutions",
-     "1965–1991: Wars, Emergency and Coalitions"
+     "1965–1991: Wars, Emergency and Coalitions",
+     "Integration of the Princely States"
     ],
     1
    ]
