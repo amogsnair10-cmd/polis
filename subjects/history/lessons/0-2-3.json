@@ -1,0 +1,176 @@
+{
+ "id": "0-2-3",
+ "title": "Mauryan Art and Architecture",
+ "emoji": "🦁",
+ "cards": [
+  {
+   "tag": "Why this matters",
+   "h": "First imperial art",
+   "b": "<p>Mauryan art is the first large body of stone art in India. Prelims asks about <b>pillars, stupas, caves, polish and the Didarganj Yakshi</b>. It also shows two streams: court art and popular art.</p>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "Court art and popular art",
+   "b": "<p><b>Court art</b>: Ashokan pillars, palace at Kumrahar (Pataliputra, with an 80-pillar hall, Persepolis-like). <b>Popular art</b>: Yaksha and Yakshi figures, terracotta, caves. Wood was used earlier; Ashoka moved to stone. Foreign influence (Persian, Greek) is debated.</p>"
+  },
+  {
+   "tag": "Key idea",
+   "h": "Ashokan pillars",
+   "b": "<p>Monolithic, of Chunar sandstone, 12 to 15 m tall, with a smooth <b>Mauryan polish</b> and an <b>animal capital</b> on a bell-shaped lotus base and abacus. Examples: Lauriya Nandangarh, Sanchi, Rampurva (bull, lion), Sankisa (elephant), Allahabad (Kosambi), Sarnath. The Sarnath lion capital has four lions and four wheels on the abacus; India’s state emblem, adopted 26 January 1950, comes from it.</p>"
+  },
+  {
+   "tag": "Key idea",
+   "h": "Stupas",
+   "b": "<p>Ashoka is credited with 84,000 stupas. Sanchi’s Great Stupa (Madhya Pradesh) began under Ashoka as a brick stupa; the stone casing and toranas came later (Shunga, Satavahana). Bharhut and Sanchi stupas show Buddha as symbols: wheel, footprints, bodhi tree. A stupa has anda, harmika, chhatra, medhi and vedika.</p>"
+  },
+  {
+   "tag": "Diagram",
+   "h": "Parts of a pillar",
+   "b": "<svg class=\"d\" viewBox=\"0 0 320 138\"><text x=\"160\" y=\"18\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1d2433\">Ashokan pillar parts</text><rect x=\"10.0\" y=\"28\" width=\"146.0\" height=\"44\" rx=\"6\" fill=\"#f1e4c6\" stroke=\"#a8792a\"/><text x=\"83.0\" y=\"41.0\" text-anchor=\"middle\" font-size=\"10.5\" fill=\"#1d2433\">Animal capital</text><text x=\"83.0\" y=\"54.0\" text-anchor=\"middle\" font-size=\"10.5\" fill=\"#1d2433\">lion, bull,</text><text x=\"83.0\" y=\"67.0\" text-anchor=\"middle\" font-size=\"10.5\" fill=\"#1d2433\">elephant</text><rect x=\"164.0\" y=\"28\" width=\"146.0\" height=\"44\" rx=\"6\" fill=\"#dceaec\" stroke=\"#2f6f7a\"/><text x=\"237.0\" y=\"47.5\" text-anchor=\"middle\" font-size=\"10.5\" fill=\"#1d2433\">Abacus</text><text x=\"237.0\" y=\"60.5\" text-anchor=\"middle\" font-size=\"10.5\" fill=\"#1d2433\">frieze, wheel</text><rect x=\"10.0\" y=\"80\" width=\"146.0\" height=\"44\" rx=\"6\" fill=\"#dceaec\" stroke=\"#2f6f7a\"/><text x=\"83.0\" y=\"99.5\" text-anchor=\"middle\" font-size=\"10.5\" fill=\"#1d2433\">Lotus</text><text x=\"83.0\" y=\"112.5\" text-anchor=\"middle\" font-size=\"10.5\" fill=\"#1d2433\">bell base</text><rect x=\"164.0\" y=\"80\" width=\"146.0\" height=\"44\" rx=\"6\" fill=\"#f1e4c6\" stroke=\"#a8792a\"/><text x=\"237.0\" y=\"93.0\" text-anchor=\"middle\" font-size=\"10.5\" fill=\"#1d2433\">Shaft</text><text x=\"237.0\" y=\"106.0\" text-anchor=\"middle\" font-size=\"10.5\" fill=\"#1d2433\">polished</text><text x=\"237.0\" y=\"119.0\" text-anchor=\"middle\" font-size=\"10.5\" fill=\"#1d2433\">sandstone</text></svg>"
+  },
+  {
+   "tag": "Key idea",
+   "h": "Rock-cut caves",
+   "b": "<p>The <b>Barabar and Nagarjuni hills</b> (Bihar) caves were donated to Ajivikas by Ashoka and his grandson Dasharatha. Lomas Rishi cave has a carved elephant frieze. The walls have a mirror polish. Caves imitate wooden huts. They begin the tradition of rock-cut architecture later seen at Karle and Ajanta.</p>"
+  },
+  {
+   "tag": "Key idea",
+   "h": "Sculpture",
+   "b": "<p>The <b>Didarganj Yakshi</b> (Patna museum) stands about 1.6 m, polished sandstone, a Mauryan masterpiece. Parkham Yaksha (Mathura), Besnagar Yakshi, Dhauli elephant (Odisha, the first Buddhist rock sculpture). The <b>Rampurva bull</b> shows Persian-like detail.</p>"
+  },
+  {
+   "tag": "Debate",
+   "h": "Persian or indigenous?",
+   "b": "<p>Marshall and Mortimer Wheeler saw Persian influence (bell capital, polish, Kumrahar hall). Others say the idea of a pillar is Vedic, and the carving tradition was local. Inscriptions in Kharosthi and Aramaic show contact. A balanced view calls it a blend.</p>"
+  },
+  {
+   "tag": "Indian angle",
+   "h": "Emblem and Ashoka Chakra",
+   "b": "<p>The Sarnath capital is national emblem (the bull and horse on the base, “Satyameva Jayate” in Devanagari). The 24-spoke Ashoka Chakra is on the national flag. The 2022 new Parliament’s emblem was a controversy about its lion style. Sarnath Museum holds the original.</p>"
+  },
+  {
+   "tag": "Exam lens",
+   "h": "How to answer",
+   "b": "<ul><li>“Mauryan polish” definition.</li><li>“Trace the evolution of Indian sculpture from Maurya.”</li><li>Prelims: which pillar has which animal, location of Barabar caves.</li><li>Mains: Mauryan art as court and popular streams.</li></ul>",
+   "cls": "exam"
+  }
+ ],
+ "quiz": [
+  {
+   "q": "Mauryan pillars are made of",
+   "o": [
+    "Granite",
+    "Marble",
+    "Chunar sandstone",
+    "Basalt"
+   ],
+   "a": 2,
+   "w": "With a mirror-like polish."
+  },
+  {
+   "q": "The Barabar caves were gifted to",
+   "o": [
+    "Ajivikas",
+    "Jains",
+    "Buddhists",
+    "Charvakas"
+   ],
+   "a": 0,
+   "w": "By Ashoka and Dasharatha."
+  },
+  {
+   "q": "Didarganj Yakshi is housed in",
+   "o": [
+    "Sarnath",
+    "Mathura",
+    "Delhi",
+    "Patna Museum"
+   ],
+   "a": 3,
+   "w": "It is a polished sandstone figure."
+  },
+  {
+   "q": "The Rampurva pillar capitals include",
+   "o": [
+    "Elephant only",
+    "Bull and lion",
+    "Horse",
+    "Camel"
+   ],
+   "a": 1,
+   "w": "Two pillars were found there."
+  },
+  {
+   "q": "The Sankisa pillar capital is of an",
+   "o": [
+    "Lion",
+    "Elephant",
+    "Bull",
+    "Horse"
+   ],
+   "a": 1,
+   "w": "In Uttar Pradesh."
+  },
+  {
+   "q": "Kumrahar remains are at",
+   "o": [
+    "Sarnath",
+    "Taxila",
+    "Vaishali",
+    "Pataliputra"
+   ],
+   "a": 3,
+   "w": "An 80-pillar hall."
+  },
+  {
+   "q": "Dhauli elephant is in",
+   "o": [
+    "Odisha",
+    "Bihar",
+    "Gujarat",
+    "Karnataka"
+   ],
+   "a": 0,
+   "w": "Near Bhubaneswar."
+  },
+  {
+   "q": "The Sarnath capital has",
+   "o": [
+    "Two lions",
+    "One bull",
+    "Four lions",
+    "Three elephants"
+   ],
+   "a": 2,
+   "w": "With four wheels on the abacus."
+  },
+  {
+   "q": "A stupa’s railing is called",
+   "o": [
+    "Harmika",
+    "Chhatra",
+    "Medhi",
+    "Vedika"
+   ],
+   "a": 3,
+   "w": "The railing encloses the stupa."
+  },
+  {
+   "q": "Mauryan art is divided into court and",
+   "o": [
+    "Folk",
+    "Popular",
+    "Divine",
+    "Regional"
+   ],
+   "a": 1,
+   "w": "Yaksha figures are popular art."
+  }
+ ],
+ "sources": [
+  "Nitin Singhania, Indian Art and Culture",
+  "NCERT Themes in Indian History I",
+  "ASI"
+ ],
+ "verified": "2026-11-12"
+}

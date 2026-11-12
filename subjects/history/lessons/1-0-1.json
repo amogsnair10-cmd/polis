@@ -1,0 +1,176 @@
+{
+ "id": "1-0-1",
+ "title": "Chola Administration",
+ "emoji": "🏯",
+ "cards": [
+  {
+   "tag": "Why this matters",
+   "h": "A model of local government",
+   "b": "<p>The Imperial Cholas (c. 850 to 1279 CE) built the best-documented early medieval state in the south. UPSC asks about <b>village assemblies, land revenue, army and navy, temple role</b>. The Uttaramerur inscriptions are the star evidence.</p>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "Structure of the state",
+   "b": "<p>The king ruled with a council of officials. Orders were written by clerks (<i>olai nayakam</i>), approved and entered in the records. Titles: Rajaraja I, Rajendra I. Capitals: Thanjavur, then Gangaikondacholapuram. The empire was divided into <b>mandalams</b> (provinces), then <b>valanadus</b>, <b>nadus</b>, and villages (<b>kurrams or ur</b>).</p>"
+  },
+  {
+   "tag": "Key idea",
+   "h": "Village assemblies",
+   "b": "<p>Three bodies: <b>Ur</b> (general village of all taxpayers), <b>Sabha or Mahasabha</b> (brahmadeya, Brahmin villages), <b>Nagaram</b> (merchants’ towns). The Sabha worked through committees called <i>variyams</i>: for tanks, gardens, justice and gold. Members were chosen by <b>kudavolai</b>, a pot-lot system.</p>"
+  },
+  {
+   "tag": "Key idea",
+   "h": "Uttaramerur inscriptions",
+   "b": "<p>Dated to Parantaka I (c. 919 and 921 CE), they give exact rules: age 35 to 70, own land with tax, own home, knowledge of Vedas and administration, no earlier committee service in last three years, and disqualification for bribery or sins. 30 wards, one member each, chosen by lot with a child drawing the pot-ticket.</p>"
+  },
+  {
+   "tag": "Diagram",
+   "h": "Chola territorial units",
+   "b": "<svg class=\"d\" viewBox=\"0 0 320 138\"><text x=\"160\" y=\"18\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1d2433\">Chola territorial units</text><rect x=\"10.0\" y=\"28\" width=\"146.0\" height=\"44\" rx=\"6\" fill=\"#f1e4c6\" stroke=\"#a8792a\"/><text x=\"83.0\" y=\"47.5\" text-anchor=\"middle\" font-size=\"10.5\" fill=\"#1d2433\">Mandalam</text><text x=\"83.0\" y=\"60.5\" text-anchor=\"middle\" font-size=\"10.5\" fill=\"#1d2433\">province</text><rect x=\"164.0\" y=\"28\" width=\"146.0\" height=\"44\" rx=\"6\" fill=\"#dceaec\" stroke=\"#2f6f7a\"/><text x=\"237.0\" y=\"47.5\" text-anchor=\"middle\" font-size=\"10.5\" fill=\"#1d2433\">Valanadu</text><text x=\"237.0\" y=\"60.5\" text-anchor=\"middle\" font-size=\"10.5\" fill=\"#1d2433\">division</text><rect x=\"10.0\" y=\"80\" width=\"146.0\" height=\"44\" rx=\"6\" fill=\"#dceaec\" stroke=\"#2f6f7a\"/><text x=\"83.0\" y=\"99.5\" text-anchor=\"middle\" font-size=\"10.5\" fill=\"#1d2433\">Nadu</text><text x=\"83.0\" y=\"112.5\" text-anchor=\"middle\" font-size=\"10.5\" fill=\"#1d2433\">district</text><rect x=\"164.0\" y=\"80\" width=\"146.0\" height=\"44\" rx=\"6\" fill=\"#f1e4c6\" stroke=\"#a8792a\"/><text x=\"237.0\" y=\"99.5\" text-anchor=\"middle\" font-size=\"10.5\" fill=\"#1d2433\">Kurram / Ur</text><text x=\"237.0\" y=\"112.5\" text-anchor=\"middle\" font-size=\"10.5\" fill=\"#1d2433\">village</text></svg>"
+  },
+  {
+   "tag": "Key idea",
+   "h": "Revenue and economy",
+   "b": "<p>Land revenue, about one-third of produce, was the base; land was surveyed under Rajaraja I and Kulottunga I (1086). Taxes: <i>kadamai</i> (land tax), <i>kudimai</i> (levies). Lands: <i>vellanvagai</i> (peasants), <i>brahmadeya</i>, <i>devadana</i> (temples), <i>pallichandam</i> (Jain). Irrigation: tanks, wells, the Grand Anicut (Kallanai) of Karikala. Guilds like Manigramam and Ayyavole.</p>"
+  },
+  {
+   "tag": "Key idea",
+   "h": "Army, navy and temple",
+   "b": "<p>Standing army: elephants, cavalry, foot soldiers with regiments; royal bodyguard (<i>velaikkarar</i>). A powerful <b>navy</b> raided Sri Lanka, the Maldives and Srivijaya (Rajendra I, 1025). The temple, such as the Brihadisvara, was bank, school, granary and court. Priests, dancers and musicians were paid by temple land.</p>"
+  },
+  {
+   "tag": "Debate",
+   "h": "Segmentary state?",
+   "b": "<p>Burton Stein called Chola rule a <b>segmentary state</b>, with a loose centre ritually dominant over self-governing localities. K. A. Nilakanta Sastri argued for a strong, centralised bureaucracy. Newer work sees a layered, flexible state with temple-based legitimacy.</p>"
+  },
+  {
+   "tag": "Indian angle",
+   "h": "Today",
+   "b": "<p>Panchayati raj is often traced to these assemblies. The Chola bronzes and temples (Great Living Chola Temples: Thanjavur 1987, Gangaikondacholapuram and Darasuram, 2004) are World Heritage. Ancient tanks still serve farmers. The Sengol of the Cholas was placed in the new Parliament in 2023.</p>"
+  },
+  {
+   "tag": "Exam lens",
+   "h": "How to answer",
+   "b": "<ul><li>“Discuss Chola local self-government.”</li><li>“Compare with the modern panchayat.”</li><li>Prelims: Uttaramerur, kudavolai, mandalam, Ur and Sabha.</li><li>Mains structure: Central administration, local assemblies, revenue, military, evaluation.</li></ul>",
+   "cls": "exam"
+  }
+ ],
+ "quiz": [
+  {
+   "q": "The Chola provincial unit was the",
+   "o": [
+    "Nadu",
+    "Kurram",
+    "Mandalam",
+    "Sabha"
+   ],
+   "a": 2,
+   "w": "Mandalam was the highest unit."
+  },
+  {
+   "q": "The Uttaramerur inscriptions belong to",
+   "o": [
+    "Parantaka I",
+    "Rajaraja I",
+    "Rajendra I",
+    "Kulottunga I"
+   ],
+   "a": 0,
+   "w": "They describe election rules."
+  },
+  {
+   "q": "Kudavolai means",
+   "o": [
+    "Land survey",
+    "Temple tax",
+    "War council",
+    "Election by pot-lot"
+   ],
+   "a": 3,
+   "w": "Names were written on palm leaves."
+  },
+  {
+   "q": "The Ur was the assembly of",
+   "o": [
+    "Brahmins only",
+    "All village taxpayers",
+    "Merchants only",
+    "Soldiers"
+   ],
+   "a": 1,
+   "w": "Sabha was Brahmin."
+  },
+  {
+   "q": "The Chola assembly of merchants was",
+   "o": [
+    "Ur",
+    "Nagaram",
+    "Variyam",
+    "Sabha"
+   ],
+   "a": 1,
+   "w": "For trading towns."
+  },
+  {
+   "q": "The Cholas’ naval expedition to Srivijaya was by",
+   "o": [
+    "Rajaraja I",
+    "Aditya I",
+    "Vijayalaya",
+    "Rajendra I"
+   ],
+   "a": 3,
+   "w": "c. 1025 CE."
+  },
+  {
+   "q": "Land survey was done in Chola reign of",
+   "o": [
+    "Rajaraja I",
+    "Parantaka II",
+    "Kulothunga III",
+    "Karikala"
+   ],
+   "a": 0,
+   "w": "And also Kulottunga I."
+  },
+  {
+   "q": "Brahmadeya villages were",
+   "o": [
+    "Temple lands",
+    "Army lands",
+    "Land grants to Brahmins",
+    "Merchant towns"
+   ],
+   "a": 2,
+   "w": "They had Sabhas."
+  },
+  {
+   "q": "Burton Stein’s view of the Chola state is",
+   "o": [
+    "Feudal",
+    "Totalitarian",
+    "Democratic",
+    "Segmentary"
+   ],
+   "a": 3,
+   "w": "It was a loosely held structure."
+  },
+  {
+   "q": "The Chola temple at Thanjavur is",
+   "o": [
+    "Kailasa",
+    "Brihadisvara",
+    "Meenakshi",
+    "Konark"
+   ],
+   "a": 1,
+   "w": "A World Heritage Site since 1987."
+  }
+ ],
+ "sources": [
+  "K. A. Nilakanta Sastri, The Cholas",
+  "Burton Stein, Peasant State and Society",
+  "Spectrum"
+ ],
+ "verified": "2026-11-12"
+}

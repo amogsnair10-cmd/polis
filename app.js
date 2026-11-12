@@ -199,7 +199,7 @@ document.getElementById('results').addEventListener('click',async e=>{const b=e.
 /* ---------- ask a doubt ---------- */
 const askSheet=document.getElementById('askSheet'),chat=document.getElementById('chat');
 const isGem=m=>m.startsWith('gemini'),keyName=m=>isGem(m)?'askKeyGemini':'askKey';
-function keyHint(){const m=document.getElementById('model').value,k=document.getElementById('apiKey');k.placeholder=isGem(m)?'AIza… (from aistudio.google.com)':'sk-ant-… (from console.anthropic.com)';k.value=''}
+function keyHint(){const m=document.getElementById('model').value,k=document.getElementById('apiKey');k.placeholder=isGem(m)?'Gemini API key (from aistudio.google.com)':'sk-ant-… (from console.anthropic.com)';k.value=''}
 function askView(){const m=ls.get('askModel')||'claude-haiku-5-5';document.getElementById('model').value=m;keyHint();const has=!!ls.get(keyName(m));document.getElementById('keyBox').hidden=has;document.getElementById('chatBox').hidden=!has}
 document.getElementById('askBtn').onclick=()=>{if(askSheet._lesson!==cur){chat.innerHTML='';askSheet._lesson=cur}askView();askSheet.hidden=false};
 document.getElementById('askClose').onclick=()=>askSheet.hidden=true;

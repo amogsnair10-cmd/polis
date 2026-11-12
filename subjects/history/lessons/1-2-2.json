@@ -1,0 +1,176 @@
+{
+ "id": "1-2-2",
+ "title": "Mughal Architecture",
+ "emoji": "🕌",
+ "cards": [
+  {
+   "tag": "Why this matters",
+   "h": "A tested evolution",
+   "b": "<p>Mughal architecture is a staple of Prelims. The question is usually <b>who built what, material, and features</b>. Track the path from red sandstone (Akbar) to white marble (Shah Jahan).</p>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "Babur and Humayun",
+   "b": "<p><b>Babur</b> built mosques at Panipat (Kabuli Bagh) and Sambhal and gardens (charbagh). <b>Humayun’s Tomb</b>, Delhi (1565–72, built by Haji Begum, Persian architect Mirak Mirza Ghiyas): first garden-tomb, red sandstone with white marble; double dome; UNESCO site 1993. <b>Sher Shah</b> built the Qila-i-Kuhna and his tomb at Sasaram, an octagonal tomb on a lake.</p>"
+  },
+  {
+   "tag": "Key idea",
+   "h": "Akbar",
+   "b": "<p>Red sandstone, fusion with Hindu and Gujarati styles. <b>Agra Fort</b>; <b>Fatehpur Sikri</b> (1571–85): Buland Darwaza (1576, victory over Gujarat), Jama Masjid, Diwan-i-Khas, Panch Mahal, Jodha Bai’s palace, Salim Chishti’s tomb in white marble; Akbar’s tomb at Sikandra (Agra). Fatehpur Sikri was abandoned due to water shortage.</p>"
+  },
+  {
+   "tag": "Key idea",
+   "h": "Jahangir and Nur Jahan",
+   "b": "<p><b>Itimad-ud-Daulah’s tomb</b> (Agra, 1622–28, by Nur Jahan): first Mughal building entirely in white marble with pietra dura inlay (parchin kari); sometimes called the “baby Taj”. Gardens: Shalimar Bagh and Nishat Bagh, Kashmir. Jahangir’s tomb at Lahore.</p>"
+  },
+  {
+   "tag": "Diagram",
+   "h": "Evolution",
+   "b": "<svg class=\"d\" viewBox=\"0 0 320 138\"><text x=\"160\" y=\"18\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1d2433\">Evolution of style</text><rect x=\"10.0\" y=\"28\" width=\"94.7\" height=\"44\" rx=\"6\" fill=\"#f1e4c6\" stroke=\"#a8792a\"/><text x=\"57.3\" y=\"47.5\" text-anchor=\"middle\" font-size=\"10.5\" fill=\"#1d2433\">Babur</text><text x=\"57.3\" y=\"60.5\" text-anchor=\"middle\" font-size=\"10.5\" fill=\"#1d2433\">gardens</text><rect x=\"112.7\" y=\"28\" width=\"94.7\" height=\"44\" rx=\"6\" fill=\"#dceaec\" stroke=\"#2f6f7a\"/><text x=\"160.0\" y=\"41.0\" text-anchor=\"middle\" font-size=\"10.5\" fill=\"#1d2433\">Humayun</text><text x=\"160.0\" y=\"54.0\" text-anchor=\"middle\" font-size=\"10.5\" fill=\"#1d2433\">first garden</text><text x=\"160.0\" y=\"67.0\" text-anchor=\"middle\" font-size=\"10.5\" fill=\"#1d2433\">tomb</text><rect x=\"215.3\" y=\"28\" width=\"94.7\" height=\"44\" rx=\"6\" fill=\"#f1e4c6\" stroke=\"#a8792a\"/><text x=\"262.7\" y=\"47.5\" text-anchor=\"middle\" font-size=\"10.5\" fill=\"#1d2433\">Akbar</text><text x=\"262.7\" y=\"60.5\" text-anchor=\"middle\" font-size=\"10.5\" fill=\"#1d2433\">red sandstone</text><rect x=\"10.0\" y=\"80\" width=\"94.7\" height=\"44\" rx=\"6\" fill=\"#dceaec\" stroke=\"#2f6f7a\"/><text x=\"57.3\" y=\"99.5\" text-anchor=\"middle\" font-size=\"10.5\" fill=\"#1d2433\">Jahangir</text><text x=\"57.3\" y=\"112.5\" text-anchor=\"middle\" font-size=\"10.5\" fill=\"#1d2433\">marble, inlay</text><rect x=\"112.7\" y=\"80\" width=\"94.7\" height=\"44\" rx=\"6\" fill=\"#f1e4c6\" stroke=\"#a8792a\"/><text x=\"160.0\" y=\"99.5\" text-anchor=\"middle\" font-size=\"10.5\" fill=\"#1d2433\">Shah Jahan</text><text x=\"160.0\" y=\"112.5\" text-anchor=\"middle\" font-size=\"10.5\" fill=\"#1d2433\">white marble</text><rect x=\"215.3\" y=\"80\" width=\"94.7\" height=\"44\" rx=\"6\" fill=\"#dceaec\" stroke=\"#2f6f7a\"/><text x=\"262.7\" y=\"93.0\" text-anchor=\"middle\" font-size=\"10.5\" fill=\"#1d2433\">Aurangzeb</text><text x=\"262.7\" y=\"106.0\" text-anchor=\"middle\" font-size=\"10.5\" fill=\"#1d2433\">Moti Masjid</text><text x=\"262.7\" y=\"119.0\" text-anchor=\"middle\" font-size=\"10.5\" fill=\"#1d2433\">Bibi ka Maqbara</text></svg>"
+  },
+  {
+   "tag": "Key idea",
+   "h": "Shah Jahan",
+   "b": "<p>The golden age of Mughal architecture: <b>Taj Mahal</b> (1632–53, Ustad Ahmad Lahori; double dome, minarets, four-part charbagh; UNESCO 1983), <b>Red Fort</b> and Jama Masjid in Delhi, Moti Masjid in Agra, Diwan-i-Aam and Khas (“If there is a paradise on earth…”), Shalimar Bagh Lahore, Peacock Throne. The city Shahjahanabad (1648).</p>"
+  },
+  {
+   "tag": "Key idea",
+   "h": "Aurangzeb and decline",
+   "b": "<p><b>Badshahi Mosque</b> (Lahore, 1673), <b>Moti Masjid</b> in the Red Fort, and <b>Bibi ka Maqbara</b> (Aurangabad), a weak copy of the Taj built by his son Azam Shah. Royal patronage declined, but regional Mughal styles flowered in Awadh (Bara Imambara, Lucknow) and the Deccan.</p>"
+  },
+  {
+   "tag": "Debate",
+   "h": "Persian or Indian?",
+   "b": "<p>Features are Persian (charbagh, iwan, double dome, pietra dura) but craftsmen and motifs are Indian (chhatris, jharokhas, brackets, lotus). Percy Brown called it a synthesis. Gardens symbolised paradise; the Taj plan shows the river-side garden, unlike the usual tomb at the centre.</p>"
+  },
+  {
+   "tag": "Indian angle",
+   "h": "Today",
+   "b": "<p>The Taj Mahal, Agra Fort, Fatehpur Sikri, Humayun’s Tomb and Red Fort are UNESCO sites. Taj Trapezium Zone rules limit pollution near the Taj (M. C. Mehta case, 1996). The Red Fort hosts the Independence Day speech; it was taken up under the “Adopt a Heritage” scheme (2017).</p>"
+  },
+  {
+   "tag": "Exam lens",
+   "h": "How to answer",
+   "b": "<ul><li>“Trace evolution of Mughal architecture.”</li><li>Prelims: first garden tomb (Humayun’s), first marble (Itimad), Buland Darwaza.</li><li>Mains: Mughal synthesis in architecture, with examples.</li></ul>",
+   "cls": "exam"
+  }
+ ],
+ "quiz": [
+  {
+   "q": "The first garden tomb in India is",
+   "o": [
+    "Taj Mahal",
+    "Akbar’s Tomb",
+    "Humayun’s Tomb",
+    "Sher Shah’s Tomb"
+   ],
+   "a": 2,
+   "w": "Built c. 1565–72."
+  },
+  {
+   "q": "Buland Darwaza commemorates Akbar’s victory over",
+   "o": [
+    "Gujarat",
+    "Mewar",
+    "Bengal",
+    "Malwa"
+   ],
+   "a": 0,
+   "w": "Dated 1576."
+  },
+  {
+   "q": "Itimad-ud-Daulah’s tomb was built by",
+   "o": [
+    "Jahangir",
+    "Mumtaz",
+    "Shah Jahan",
+    "Nur Jahan"
+   ],
+   "a": 3,
+   "w": "For her father."
+  },
+  {
+   "q": "Chief architect of the Taj Mahal is traditionally",
+   "o": [
+    "Mirak Mirza Ghiyas",
+    "Ustad Ahmad Lahori",
+    "Abdul Karim",
+    "Faizi"
+   ],
+   "a": 1,
+   "w": "Under Shah Jahan."
+  },
+  {
+   "q": "Bibi ka Maqbara is in",
+   "o": [
+    "Agra",
+    "Aurangabad",
+    "Delhi",
+    "Lahore"
+   ],
+   "a": 1,
+   "w": "Built by Azam Shah."
+  },
+  {
+   "q": "Badshahi Mosque is at",
+   "o": [
+    "Delhi",
+    "Agra",
+    "Lucknow",
+    "Lahore"
+   ],
+   "a": 3,
+   "w": "Built by Aurangzeb."
+  },
+  {
+   "q": "Pietra dura is",
+   "o": [
+    "Inlay with semi-precious stones",
+    "Wall painting",
+    "Brick carving",
+    "Glazed tile"
+   ],
+   "a": 0,
+   "w": "Parchin kari."
+  },
+  {
+   "q": "Fatehpur Sikri was abandoned because of",
+   "o": [
+    "Earthquake",
+    "Invasion",
+    "Water shortage",
+    "Plague"
+   ],
+   "a": 2,
+   "w": "Akbar left it c. 1585."
+  },
+  {
+   "q": "Taj Mahal was inscribed by UNESCO in",
+   "o": [
+    "1993",
+    "2004",
+    "1986",
+    "1983"
+   ],
+   "a": 3,
+   "w": "Agra Fort the same year."
+  },
+  {
+   "q": "Charbagh is",
+   "o": [
+    "A mosque dome",
+    "A four-part garden",
+    "A gateway",
+    "A tomb tower"
+   ],
+   "a": 1,
+   "w": "A Persian garden plan."
+  }
+ ],
+ "sources": [
+  "Percy Brown, Indian Architecture",
+  "Nitin Singhania, Indian Art and Culture",
+  "UNESCO"
+ ],
+ "verified": "2026-11-12"
+}

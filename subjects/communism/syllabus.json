@@ -35,7 +35,9 @@
     [
      "The Second International: Kautsky, Bernstein and Revisionism",
      "Rosa Luxemburg: Reform or Revolution",
-     "Anarchism vs Marxism: Bakunin and Kropotkin"
+     "Anarchism vs Marxism: Bakunin and Kropotkin",
+     "Plekhanov and Russian Marxism",
+     "Rosa Luxemburg vs Lenin: Organisation and Revolution"
     ],
     1
    ]
@@ -66,6 +68,16 @@
      "Why the Soviet Union Collapsed"
     ],
     1
+   ],
+   [
+    "Dissent inside the revolution",
+    [
+     "The Kronstadt Rebellion, 1921",
+     "Bukharin and the Right Opposition",
+     "Kollontai and the Workers' Opposition",
+     "The Great Purge, 1936-38"
+    ],
+    0
    ]
   ]
  },
@@ -83,6 +95,15 @@
      "Sartre, Existentialism and Marxism"
     ],
     1
+   ],
+   [
+    "The spectacle and everyday life",
+    [
+     "Walter Benjamin and the Aura of Art",
+     "Henri Lefebvre and Everyday Life",
+     "Debord and the Society of the Spectacle"
+    ],
+    0
    ]
   ]
  },
@@ -108,7 +129,10 @@
      "Che Guevara and the Foco Theory",
      "Cambodia and the Khmer Rouge",
      "African Socialism: Nyerere, Nkrumah, Sankara",
-     "Liberation Theology and Allende's Chile"
+     "Liberation Theology and Allende's Chile",
+     "Mariátegui and Indigenous Socialism",
+     "Fanon: Violence and Decolonisation",
+     "C.L.R. James and The Black Jacobins"
     ],
     1
    ],
@@ -116,9 +140,29 @@
     "India",
     [
      "Communism in India: M.N. Roy to the CPI(M)",
-     "Naxalbari, Charu Majumdar and Maoism in India"
+     "Naxalbari, Charu Majumdar and Maoism in India",
+     "Kerala's Communist Model",
+     "West Bengal's Left Front, 1977-2011"
     ],
     1
+   ],
+   [
+    "Rival communisms",
+    [
+     "The Sino-Soviet Split, 1956-69",
+     "Tito and Yugoslav Self-Management",
+     "Enver Hoxha and Albania's Isolation",
+     "Kim Il Sung and Juche"
+    ],
+    0
+   ],
+   [
+    "Maoism beyond China",
+    [
+     "Shining Path in Peru",
+     "Nepal's Maoists and the People's War"
+    ],
+    0
    ]
   ]
  },
@@ -137,6 +181,24 @@
      "Eco-Socialism and Degrowth"
     ],
     1
+   ],
+   [
+    "Revolts in the Eastern bloc",
+    [
+     "Hungary 1956: Workers' Councils and Soviet Tanks",
+     "The Prague Spring, 1968",
+     "Solidarność in Poland"
+    ],
+    0
+   ],
+   [
+    "Paris and the theory of 1968",
+    [
+     "May 1968 in Paris",
+     "Poulantzas vs Miliband: The Capitalist State",
+     "David Harvey and the Geography of Capital"
+    ],
+    0
    ]
   ]
  },
@@ -158,7 +220,10 @@
     "Today",
     [
      "Communist States Today: China, Vietnam, Cuba, Laos, North Korea",
-     "Is Marx Still Relevant? Inequality, Platforms and Crisis"
+     "Is Marx Still Relevant? Inequality, Platforms and Crisis",
+     "Cuba's Special Period",
+     "Piketty's Critique of Marx",
+     "Ambedkar's Critique of Marx"
     ],
     1
    ]
