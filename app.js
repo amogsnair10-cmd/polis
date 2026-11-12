@@ -121,7 +121,20 @@ const b64=s=>{const p='='.repeat((4-s.length%4)%4),r=atob((s+p).replace(/-/g,'+'
 function studyState(){const next=ids.find(i=>IDX[i]&&!S.done[i]);let chapter='',left=0;
   if(next){const [p,u]=next.split('-');chapter=MAP[p].units[u][0];left=MAP[p].units[u][1].filter((_,k)=>!S.done[`${p}-${u}-${k}`]).length}
   return {streak:streak(),doneDay:S.days.includes(today())?today():'',subject:SUB.title,next:next?IDX[next].title:'',chapter,chapterLeft:left}}
-async function pushSync(off){try{
+/* In the Android app (Capacitor), reminders are scheduled on the phone and the widget reads the study state. */
+const CAP=window.Capacitor&&window.Capacitor.isNativePlatform&&window.Capacitor.isNativePlatform();
+async function nativeSync(off){const P=Capacitor.Plugins,st=studyState(),studied=!!st.doneDay;
+  try{await P.Preferences.set({key:'widget',value:JSON.stringify({...st,studiedToday:studied})})}catch(e){}
+  const LN=P.LocalNotifications;if(!LN)return;
+  try{const pend=await LN.getPending();if(pend.notifications.length)await LN.cancel({notifications:pend.notifications.map(n=>({id:n.id}))})}catch(e){}
+  if(off||ls.get('push')!=='1')return;
+  const h=+pushHour.value,nx=st.next?`“${st.next}”`:'your next lesson',list=[];
+  for(let d=0;d<7;d++){const t=new Date();t.setDate(t.getDate()+d);t.setHours(h,0,0,0);if(t<=new Date()||(d===0&&studied))continue;
+    const sk=st.streak+(d===0?0:0);list.push({id:100+d,title:sk>=2?`🔥 Keep your ${sk}-day streak going`:'💡 Today’s lesson is ready',body:`${st.subject}: ${nx}. About 15 minutes.`,schedule:{at:t,allowWhileIdle:true}})}
+  const w=new Date();w.setHours(21,0,0,0);
+  if(!studied&&st.streak>0&&w>new Date())list.push({id:200,title:`🔥 Your ${st.streak}-day streak ends at midnight`,body:`One lesson saves it: ${nx}.`,schedule:{at:w,allowWhileIdle:true}});
+  if(list.length)await LN.schedule({notifications:list.map(n=>({...n,extra:{url:'/?go=continue'}}))})}
+async function pushSync(off){if(CAP)return nativeSync(off);try{
   if(!('serviceWorker' in navigator)||!('PushManager' in window))return;
   const reg=await navigator.serviceWorker.ready;let sub=await reg.pushManager.getSubscription();
   if(off){if(sub){await fetch('/api/push-sync',{method:'POST',body:JSON.stringify({sub,off:true})});await sub.unsubscribe()}return}
@@ -131,6 +144,8 @@ async function pushSync(off){try{
 }catch(e){console.warn('push',e)}}
 pushOn.onchange=async()=>{
   if(pushOn.checked){
+    if(CAP){const r=await Capacitor.Plugins.LocalNotifications.requestPermissions();if(r.display!=='granted'){pushOn.checked=false;pushNote.textContent='Notifications are blocked. Allow them in Android settings for Light Bulb.';return}
+      ls.set('push','1');pushNote.textContent='On. You’ll get a reminder at '+pushHour.selectedOptions[0].text+'.';pushSync();return}
     if(!('Notification' in window)||!('PushManager' in window)){pushOn.checked=false;pushNote.textContent='This browser can’t show reminders. Install the app from Chrome first.';return}
     const perm=await Notification.requestPermission();
     if(perm!=='granted'){pushOn.checked=false;pushNote.textContent='Notifications are blocked. Allow them in Chrome’s site settings, then try again.';return}
@@ -145,6 +160,7 @@ function handleGo(){const go=new URLSearchParams(location.search).get('go');if(!
   else if(go==='test'&&next){const [p,u]=next.split('-');openTest(+p,+u)}
   else if(go==='search'){show('search');document.getElementById('q').focus()}}
 
+if(CAP&&Capacitor.Plugins.LocalNotifications)Capacitor.Plugins.LocalNotifications.addListener('localNotificationActionPerformed',()=>{const n=ids.find(i=>IDX[i]&&!S.done[i]);if(n)openL(n)});
 (async()=>{SUBJ=await fetch('subjects.json').then(r=>r.json());await loadSubject(ls.get('subject')||SUBJ[0].id);handleGo();pushSync()})();
 /* ---------- chapter tests: 15 questions drawn from every lesson in the chapter ---------- */
 async function openTest(pi,ui){const u=MAP[pi].units[ui],pool=[];

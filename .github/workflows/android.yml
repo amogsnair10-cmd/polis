@@ -32,6 +32,9 @@ jobs:
             cp ../icons/icon-192.png "$d/ic_launcher_round.png"
             rm -f "$d/ic_launcher_foreground.png"
           done
+      - name: Add the home-screen widget
+        working-directory: mobile
+        run: python3 native/patch.py
       - run: npx cap sync android
         working-directory: mobile
       - name: Build APK

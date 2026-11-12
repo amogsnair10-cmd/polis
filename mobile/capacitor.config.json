@@ -2,5 +2,17 @@
  "appId": "com.lightbulb.study",
  "appName": "Light Bulb",
  "webDir": "www",
- "android": { "backgroundColor": "#0c1c36" }
+ "android": {
+  "backgroundColor": "#0c1c36"
+ },
+ "server": {
+  "url": "https://amoglightbulb.netlify.app",
+  "androidScheme": "https"
+ },
+ "plugins": {
+  "LocalNotifications": {
+   "smallIcon": "ic_stat_bulb",
+   "iconColor": "#c9a45c"
+  }
+ }
 }
