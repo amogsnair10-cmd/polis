@@ -72,7 +72,12 @@
     [
      "Liberalism",
      "Socialism and Marxism",
-     "Fascism, Gandhism and Feminism"
+     "Fascism, Gandhism and Feminism",
+     "Conservatism",
+     "Anarchism",
+     "Multiculturalism",
+     "Green Political Theory",
+     "Postmodernism"
     ],
     1
    ],
@@ -84,7 +89,13 @@
      "Sir Syed Ahmed Khan and Sri Aurobindo",
      "M.K. Gandhi",
      "B.R. Ambedkar",
-     "M.N. Roy"
+     "M.N. Roy",
+     "Jawaharlal Nehru",
+     "Ram Manohar Lohia",
+     "Jayaprakash Narayan",
+     "Jyotiba Phule",
+     "Vivekananda",
+     "Rabindranath Tagore"
     ],
     1
    ],
@@ -99,7 +110,13 @@
      "J.S. Mill",
      "Karl Marx",
      "Antonio Gramsci",
-     "Hannah Arendt"
+     "Hannah Arendt",
+     "Rousseau",
+     "Hegel",
+     "Jeremy Bentham",
+     "Edmund Burke",
+     "Michel Foucault",
+     "Jurgen Habermas"
     ],
     1
    ]
@@ -141,7 +158,9 @@
     [
      "The Union Executive",
      "Parliament",
-     "The Supreme Court and the States"
+     "The Supreme Court and the States",
+     "The Governor and Article 356",
+     "Judicial Activism and PIL"
     ],
     0
    ],
@@ -193,7 +212,9 @@
      "National and Regional Parties",
      "Coalition Politics",
      "Pressure Groups",
-     "Electoral Behaviour and Legislators' Profile"
+     "Electoral Behaviour and Legislators' Profile",
+     "Anti-Defection Law",
+     "Electoral Reforms"
     ],
     1
    ],
@@ -202,6 +223,14 @@
     [
      "Civil Liberties and Human Rights Movements",
      "Women's and Environmental Movements"
+    ],
+    0
+   ],
+   [
+    "Democracy under stress and reform",
+    [
+     "The Emergency, 1975-77",
+     "Civil Services Reform"
     ],
     0
    ]
@@ -247,7 +276,9 @@
      "Realism and Neorealism",
      "Marxist and Dependency Approaches",
      "Functionalism and Neofunctionalism",
-     "Systems Theory and Constructivism"
+     "Systems Theory and Constructivism",
+     "Feminist IR",
+     "Postcolonial IR"
     ],
     1
    ],
@@ -265,7 +296,8 @@
     [
      "Superpowers, Bipolarity and the Cold War",
      "Non-Alignment: Aims and Achievements",
-     "Unipolarity, American Hegemony and Multipolarity"
+     "Unipolarity, American Hegemony and Multipolarity",
+     "Power Transition and the Rise of China"
     ],
     1
    ],
@@ -298,7 +330,8 @@
     [
      "Democracy and Human Rights",
      "Environment and Gender Justice",
-     "Terrorism and Nuclear Proliferation"
+     "Terrorism and Nuclear Proliferation",
+     "Human Security"
     ],
     1
    ]
@@ -378,6 +411,17 @@
      "India–Israel and New Minilaterals",
      "Indo-Pacific and the Quad",
      "India's Vision of a New World Order"
+    ],
+    1
+   ],
+   [
+    "India's wider neighbourhood and diplomacy",
+    [
+     "Central Asia",
+     "Indian Ocean Islands",
+     "Energy and Maritime Security",
+     "G20, BRICS and SCO",
+     "Diaspora and Soft Power"
     ],
     1
    ]
