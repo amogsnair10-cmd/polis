@@ -1,0 +1,178 @@
+{
+ "id": "0-9-14",
+ "title": "Jurgen Habermas",
+ "emoji": "💬",
+ "cards": [
+  {
+   "tag": "Why this matters",
+   "h": "Reason, speech and democracy",
+   "b": "<p>Jurgen Habermas (born 1929), the leading figure of the second-generation Frankfurt School, defends <b>reason and democracy</b> against both Marxist pessimism and postmodern doubt. He gave us the <b>public sphere</b>, <b>communicative action</b> and <b>deliberative democracy</b>, themes often in Paper I.</p>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "The public sphere",
+   "b": "<p>In <i>The Structural Transformation of the Public Sphere</i> (1962) Habermas traces the rise of the 18th-century <b>bourgeois public sphere</b>: coffee houses, salons and the press, where private people debated state affairs by reason. Later, mass media, advertising and the welfare state turned citizens into consumers and the public into a managed audience. He calls for its revival.</p>"
+  },
+  {
+   "tag": "Key idea",
+   "h": "Communicative action",
+   "b": "<p><i>The Theory of Communicative Action</i> (1981) distinguishes two kinds of rationality.</p><ul><li><b>Instrumental (strategic)</b>: reason used to reach goals, to manipulate.</li><li><b>Communicative</b>: reason used to reach <b>mutual understanding</b> through argument.</li></ul><p>Speech always carries validity claims: truth, rightness, sincerity and comprehensibility. We can test them with reasons.</p>"
+  },
+  {
+   "tag": "Key idea",
+   "h": "Lifeworld and system",
+   "b": "<svg class=\"d\" viewBox=\"0 0 320 148\"><rect x=\"4\" y=\"6\" width=\"150\" height=\"136\" rx=\"12\" fill=\"#f1e4c6\" stroke=\"#a8792a\"/><rect x=\"166\" y=\"6\" width=\"150\" height=\"136\" rx=\"12\" fill=\"#dceaec\" stroke=\"#2f6f7a\"/><text x=\"79\" y=\"32\" fill=\"#a8792a\" font-size=\"13\" text-anchor=\"middle\" font-weight=\"700\">LIFEWORLD</text><text x=\"241\" y=\"32\" fill=\"#2f6f7a\" font-size=\"13\" text-anchor=\"middle\" font-weight=\"700\">SYSTEM</text><text x=\"79\" y=\"58\" fill=\"#1d2433\" font-size=\"11\" text-anchor=\"middle\">Culture, family, society</text><text x=\"79\" y=\"80\" fill=\"#1d2433\" font-size=\"11\" text-anchor=\"middle\">Communicative action</text><text x=\"79\" y=\"102\" fill=\"#1d2433\" font-size=\"11\" text-anchor=\"middle\">Meaning and solidarity</text><text x=\"79\" y=\"124\" fill=\"#1d2433\" font-size=\"11\" text-anchor=\"middle\">Private and public talk</text><text x=\"241\" y=\"58\" fill=\"#1d2433\" font-size=\"11\" text-anchor=\"middle\">Market and state</text><text x=\"241\" y=\"80\" fill=\"#1d2433\" font-size=\"11\" text-anchor=\"middle\">Money and power</text><text x=\"241\" y=\"102\" fill=\"#1d2433\" font-size=\"11\" text-anchor=\"middle\">Instrumental logic</text><text x=\"241\" y=\"124\" fill=\"#1d2433\" font-size=\"11\" text-anchor=\"middle\">Bureaucracy, law</text></svg><p>Modernity's pathology: the system <b>colonises the lifeworld</b>, so that money and administrative power invade areas that should run on dialogue (health, education, family).</p>"
+  },
+  {
+   "tag": "Key idea",
+   "h": "Discourse ethics and ideal speech",
+   "b": "<p>A norm is valid only if all affected could accept it in a <b>practical discourse</b> free from coercion. The <b>ideal speech situation</b> is a regulative ideal: equal chance to speak, no force except the force of the better argument. It is a test for real-world talk, not a description of it.</p>"
+  },
+  {
+   "tag": "Key idea",
+   "h": "Deliberative democracy and law",
+   "b": "<p>In <i>Between Facts and Norms</i> (1992) he gives a <b>two-track</b> model: informal opinion formation in civil society (the wild public sphere) feeds formal institutions such as parliament and courts, which turn it into law. Law and popular sovereignty, rights and democracy, 'co-originate'. He also proposed <b>constitutional patriotism</b>: loyalty to constitutional principles instead of ethnic nation.</p>"
+  },
+  {
+   "tag": "Debate",
+   "h": "Critiques",
+   "b": "<ul><li><b>Foucault, Lyotard</b>: reason hides power. Habermas answers: the postmodern is a <b>performative contradiction</b>, and modernity is an 'unfinished project'.</li><li><b>Nancy Fraser</b>: his bourgeois public excluded women and workers, who made 'counter-publics'.</li><li><b>Mouffe</b>: consensus ignores conflict, so use agonism.</li><li><b>Rawls</b>: 1995 debate over proceduralism; Rawls adds 'reasonable pluralism'.</li><li>Too demanding and utopian.</li></ul>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "Habermas and Frankfurt School",
+   "b": "<p>Adorno and Horkheimer, <i>Dialectic of Enlightenment</i> (1944), saw reason as turned into domination. Habermas replies that instrumental reason is only one side of reason and that <b>communicative reason</b> carries emancipation. His <i>Legitimation Crisis</i> (1973) warns that late capitalism faces a crisis when citizens no longer accept its justification.</p>"
+  },
+  {
+   "tag": "Indian angle",
+   "h": "Public sphere in India",
+   "b": "<p>Habermasian ideas are useful for studying the press, RTI Act (2005), social audits, <b>gram sabhas</b> and Constituent Assembly debates. Amartya Sen's <i>The Argumentative Indian</i> (2005) highlights India's tradition of public reasoning. Modern worries: fake news, polarised social media and hate speech, which damage the quality of public debate.</p>"
+  },
+  {
+   "tag": "Exam lens",
+   "h": "How UPSC asks this",
+   "b": "<div class=\"box\">\"Explain Habermas's idea of the public sphere and its decline.\"</div><div class=\"box\">\"Discuss Habermas's communicative action and deliberative democracy.\"</div><div class=\"box\">\"Evaluate the Habermas-Foucault debate on reason and power.\"</div><p><b>Structure:</b> public sphere, communicative action, lifeworld/system, discourse ethics, deliberative democracy, critics, India.</p>",
+   "cls": "exam"
+  }
+ ],
+ "quiz": [
+  {
+   "q": "The Structural Transformation of the Public Sphere appeared in…",
+   "o": [
+    "1992",
+    "1944",
+    "1962",
+    "1981"
+   ],
+   "a": 2,
+   "w": "1962."
+  },
+  {
+   "q": "Communicative action aims at…",
+   "o": [
+    "Profit",
+    "Mutual understanding",
+    "Power",
+    "Victory"
+   ],
+   "a": 1,
+   "w": "Reaching agreement by reasons."
+  },
+  {
+   "q": "'Colonisation of the lifeworld' means…",
+   "o": [
+    "System intrudes on social life",
+    "Imperialism",
+    "Migration",
+    "Cultural revival"
+   ],
+   "a": 0,
+   "w": "Money and power invade the lifeworld."
+  },
+  {
+   "q": "Between Facts and Norms (1992) is a work on…",
+   "o": [
+    "Aesthetics",
+    "Economics",
+    "IR",
+    "Law and deliberative democracy"
+   ],
+   "a": 3,
+   "w": "Law and democracy."
+  },
+  {
+   "q": "Habermas called modernity an…",
+   "o": [
+    "Dead project",
+    "Final project",
+    "Unfinished project",
+    "Failed project"
+   ],
+   "a": 2,
+   "w": "Against postmodernism."
+  },
+  {
+   "q": "Constitutional patriotism means loyalty to…",
+   "o": [
+    "Ethnic nation",
+    "Constitutional principles",
+    "The leader",
+    "The market"
+   ],
+   "a": 1,
+   "w": "Allegiance to constitutional values."
+  },
+  {
+   "q": "Which critic spoke of counter-publics?",
+   "o": [
+    "Nancy Fraser",
+    "Rawls",
+    "Nozick",
+    "Bentham"
+   ],
+   "a": 0,
+   "w": "Nancy Fraser."
+  },
+  {
+   "q": "The 'ideal speech situation' is a…",
+   "o": [
+    "Real law",
+    "Market",
+    "Description of present talk",
+    "Regulative ideal"
+   ],
+   "a": 3,
+   "w": "A standard to test discourse."
+  },
+  {
+   "q": "Habermas belongs to the…",
+   "o": [
+    "Vienna Circle",
+    "Cambridge School",
+    "Frankfurt School",
+    "Chicago School"
+   ],
+   "a": 2,
+   "w": "Second generation."
+  },
+  {
+   "q": "Amartya Sen's The Argumentative Indian stresses…",
+   "o": [
+    "Nuclear policy",
+    "Public reasoning",
+    "Planning",
+    "War"
+   ],
+   "a": 1,
+   "w": "India's tradition of debate."
+  }
+ ],
+ "sources": [
+  "Jurgen Habermas, The Structural Transformation of the Public Sphere (1962)",
+  "Jurgen Habermas, The Theory of Communicative Action (1981)",
+  "Jurgen Habermas, Between Facts and Norms (1992)",
+  "Amartya Sen, The Argumentative Indian (2005)",
+  "PYQ themes: Habermas, deliberative democracy (Paper I)"
+ ],
+ "verified": "2026-11-12"
+}

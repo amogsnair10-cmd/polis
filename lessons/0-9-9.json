@@ -1,0 +1,178 @@
+{
+ "id": "0-9-9",
+ "title": "Rousseau",
+ "emoji": "📜",
+ "cards": [
+  {
+   "tag": "Why this matters",
+   "h": "Freedom and the people's will",
+   "b": "<p>Jean-Jacques Rousseau (1712-78), born in Geneva, is the thinker of <b>popular sovereignty</b>. He inspired the French Revolution, democratic republicanism and also its critics. UPSC asks about the <b>general will</b>, his view of freedom and his place among the social contract thinkers.</p>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "Natural man and the fall",
+   "b": "<p>In <i>Discourse on the Origin of Inequality</i> (1755) Rousseau says the natural man is free, peaceful, and moved by self-love (<i>amour de soi</i>) and pity. The rise of <b>private property</b> and vanity (<i>amour-propre</i>) produced inequality, conflict and a false contract favouring the rich.</p><p>Unlike Hobbes, he thinks society, not nature, corrupts humans. Famous opening of <i>The Social Contract</i> (1762): 'Man is born free, and everywhere he is in chains.'</p>"
+  },
+  {
+   "tag": "Key idea",
+   "h": "The social contract",
+   "b": "<svg class=\"d\" viewBox=\"0 0 320 190\"><rect x=\"20\" y=\"8\" width=\"280\" height=\"32\" rx=\"8\" fill=\"#f1e4c6\" stroke=\"#a8792a\"/><text x=\"160\" y=\"29\" fill=\"#1d2433\" font-size=\"12\" text-anchor=\"middle\">Each person gives all rights to the community</text><text x=\"160\" y=\"51\" fill=\"#5d6474\" font-size=\"11\" text-anchor=\"middle\">↓</text><rect x=\"20\" y=\"52\" width=\"280\" height=\"32\" rx=\"8\" fill=\"#dceaec\" stroke=\"#2f6f7a\"/><text x=\"160\" y=\"73\" fill=\"#1d2433\" font-size=\"12\" text-anchor=\"middle\">Each obeys only the general will</text><text x=\"160\" y=\"95\" fill=\"#5d6474\" font-size=\"11\" text-anchor=\"middle\">↓</text><rect x=\"20\" y=\"96\" width=\"280\" height=\"32\" rx=\"8\" fill=\"#f1e4c6\" stroke=\"#a8792a\"/><text x=\"160\" y=\"117\" fill=\"#1d2433\" font-size=\"12\" text-anchor=\"middle\">Sovereign is the people as a body</text><text x=\"160\" y=\"139\" fill=\"#5d6474\" font-size=\"11\" text-anchor=\"middle\">↓</text><rect x=\"20\" y=\"140\" width=\"280\" height=\"32\" rx=\"8\" fill=\"#dceaec\" stroke=\"#2f6f7a\"/><text x=\"160\" y=\"161\" fill=\"#1d2433\" font-size=\"12\" text-anchor=\"middle\">Result: moral and civil freedom, equal for all</text></svg><p>The contract is made among equals, not with a ruler. The ruler (government) is only an <b>agent</b> of the sovereign people.</p>"
+  },
+  {
+   "tag": "Key idea",
+   "h": "The general will",
+   "b": "<p>The <b>general will</b> is what the people want as citizens, looking to the <b>common good</b>. It differs from the <b>will of all</b>, which is the sum of private interests. It is always right, says Rousseau, though not always enlightened, so a wise 'Legislator' may be needed.</p><p>Citizens who refuse to follow it can be 'forced to be free', meaning forced to obey the law they gave themselves.</p>"
+  },
+  {
+   "tag": "Key idea",
+   "h": "Sovereignty and democracy",
+   "b": "<p>Sovereignty is <b>inalienable</b> (cannot be given away), <b>indivisible</b> and <b>absolute</b>. It cannot be represented: 'The English people thinks it is free; it is mistaken; it is free only during the election of members of Parliament.' He preferred direct democracy in small states, as in Geneva or Corsica, with a civil religion to bind citizens.</p>"
+  },
+  {
+   "tag": "Key idea",
+   "h": "Freedom and equality",
+   "b": "<p>Rousseau's freedom is <b>moral self-rule</b>: obeying a law I made. He insisted that no citizen should be rich enough to buy another, or poor enough to be forced to sell himself. His <i>Emile</i> (1762) proposes a natural education, and his view of women there is traditional, criticised by Wollstonecraft.</p>"
+  },
+  {
+   "tag": "Debate",
+   "h": "Critiques",
+   "b": "<ul><li><b>Isaiah Berlin</b>: 'forced to be free' is positive liberty and a route to tyranny.</li><li><b>J.L. Talmon</b>, <i>Origins of Totalitarian Democracy</i> (1952), links the general will to Jacobin terror.</li><li>Who defines the general will? Easily claimed by a party or leader.</li><li>Direct democracy is hard in large states.</li><li>Defenders: Rousseau cares about law and rights, and about equal citizens.</li></ul>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "Rousseau vs Hobbes and Locke",
+   "b": "<p><b>Hobbes</b>: fear of death, absolute sovereign. <b>Locke</b>: protect property, limited government, consent and revolution. <b>Rousseau</b>: community and common good, sovereign people. He moves from the individual's rights to the collective's moral freedom. Kant, Hegel and Marx all learn from him.</p>"
+  },
+  {
+   "tag": "Indian angle",
+   "h": "Rousseau in India",
+   "b": "<p>The idea of popular sovereignty is in the Preamble: 'We, the People of India'. Gandhi's village democracy and JP's participatory model have a Rousseauian flavour. Debates on referendum, recall and the Supreme Court's reading of the 'will of the people' invoke him. Mind the contrast with the Constituent Assembly's choice of representative democracy.</p>"
+  },
+  {
+   "tag": "Exam lens",
+   "h": "How UPSC asks this",
+   "b": "<div class=\"box\">\"Explain Rousseau's concept of the general will.\"</div><div class=\"box\">\"'Man is born free and everywhere he is in chains.' Discuss.\"</div><div class=\"box\">\"Compare Rousseau's social contract with those of Hobbes and Locke.\"</div><p><b>Structure:</b> state of nature, contract, general will, sovereignty, freedom, critiques, comparison, Indian link.</p>",
+   "cls": "exam"
+  }
+ ],
+ "quiz": [
+  {
+   "q": "The Social Contract was published in…",
+   "o": [
+    "1690",
+    "1762",
+    "1789",
+    "1651"
+   ],
+   "a": 1,
+   "w": "1762."
+  },
+  {
+   "q": "The Discourse on Inequality is from…",
+   "o": [
+    "1755",
+    "1762",
+    "1748",
+    "1789"
+   ],
+   "a": 0,
+   "w": "1755."
+  },
+  {
+   "q": "Which differs from the general will?",
+   "o": [
+    "Common good",
+    "Moral freedom",
+    "Law",
+    "Will of all"
+   ],
+   "a": 3,
+   "w": "A sum of private wills."
+  },
+  {
+   "q": "'Forced to be free' is criticised by…",
+   "o": [
+    "Mill",
+    "Rawls",
+    "Isaiah Berlin",
+    "Burke"
+   ],
+   "a": 2,
+   "w": "As a route to tyranny, using positive liberty."
+  },
+  {
+   "q": "Rousseau thought sovereignty is…",
+   "o": [
+    "Representable",
+    "Inalienable",
+    "Temporary",
+    "Divisible"
+   ],
+   "a": 1,
+   "w": "Cannot be given away."
+  },
+  {
+   "q": "Rousseau's natural man is moved by…",
+   "o": [
+    "Self-love and pity",
+    "Greed",
+    "Ambition",
+    "Fear"
+   ],
+   "a": 0,
+   "w": "Amour de soi and pity."
+  },
+  {
+   "q": "Origins of Totalitarian Democracy (1952) is by…",
+   "o": [
+    "Popper",
+    "Arendt",
+    "Berlin",
+    "Talmon"
+   ],
+   "a": 3,
+   "w": "J.L. Talmon."
+  },
+  {
+   "q": "Rousseau favoured…",
+   "o": [
+    "Large republics",
+    "Rule by experts",
+    "Direct democracy in small states",
+    "Absolute monarchy"
+   ],
+   "a": 2,
+   "w": "Geneva as his model."
+  },
+  {
+   "q": "Rousseau's Emile is about…",
+   "o": [
+    "Law",
+    "Education",
+    "Economics",
+    "War"
+   ],
+   "a": 1,
+   "w": "A work on education, 1762."
+  },
+  {
+   "q": "Inequality, in Rousseau's view, arises from…",
+   "o": [
+    "Private property and vanity",
+    "God",
+    "Law only",
+    "Nature"
+   ],
+   "a": 0,
+   "w": "Society corrupts."
+  }
+ ],
+ "sources": [
+  "Jean-Jacques Rousseau, Discourse on Inequality (1755)",
+  "Jean-Jacques Rousseau, The Social Contract (1762)",
+  "Isaiah Berlin, Four Essays on Liberty (1969)",
+  "J.L. Talmon, The Origins of Totalitarian Democracy (1952)",
+  "PYQ themes: general will (Paper I)"
+ ],
+ "verified": "2026-11-12"
+}

@@ -1,0 +1,178 @@
+{
+ "id": "0-7-7",
+ "title": "Postmodernism",
+ "emoji": "🧩",
+ "cards": [
+  {
+   "tag": "Why this matters",
+   "h": "Suspicion of grand stories",
+   "b": "<p>Postmodernism is a mood and a method more than one school. Its core claim: the big stories of modernity, such as progress, reason, science and revolution, are <b>not neutral truths</b> but products of power and history.</p><p>It matters for Paper I because it challenges liberalism and Marxism alike, and links to Foucault, Lyotard and Derrida.</p>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "Incredulity towards metanarratives",
+   "b": "<p><b>Jean-Francois Lyotard</b>, <i>The Postmodern Condition</i> (1979), defined postmodernism as 'incredulity towards metanarratives'. A <b>metanarrative</b> is a grand story that claims to explain all history: Enlightenment progress, Marxism's classless society, liberal freedom.</p><p>Lyotard says these have lost credibility. In their place are <b>local, plural</b> narratives and 'language games'.</p>"
+  },
+  {
+   "tag": "Key idea",
+   "h": "Knowledge and power",
+   "b": "<p><b>Michel Foucault</b> argued that knowledge is never innocent: <b>power/knowledge</b> work together. What counts as 'normal', 'sane' or 'criminal' is defined by institutions such as the clinic, prison and school.</p><p>Power is everywhere, <b>productive</b> and not only repressive. Resistance is therefore local and constant, not one grand revolution.</p>"
+  },
+  {
+   "tag": "Key idea",
+   "h": "Derrida and deconstruction",
+   "b": "<p><b>Jacques Derrida</b> (<i>Of Grammatology</i>, 1967) argued that texts do not have one fixed meaning. Meaning rests on <b>binary oppositions</b> (male/female, reason/emotion) where one side is privileged. <b>Deconstruction</b> exposes and unsettles these hierarchies.</p><p>Politically, it makes us question categories like 'nation' and 'citizen'.</p>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "What postmodernists reject",
+   "b": "<svg class=\"d\" viewBox=\"0 0 320 148\"><rect x=\"4\" y=\"6\" width=\"150\" height=\"136\" rx=\"12\" fill=\"#f1e4c6\" stroke=\"#a8792a\"/><rect x=\"166\" y=\"6\" width=\"150\" height=\"136\" rx=\"12\" fill=\"#dceaec\" stroke=\"#2f6f7a\"/><text x=\"79\" y=\"32\" fill=\"#a8792a\" font-size=\"13\" text-anchor=\"middle\" font-weight=\"700\">MODERN</text><text x=\"241\" y=\"32\" fill=\"#2f6f7a\" font-size=\"13\" text-anchor=\"middle\" font-weight=\"700\">POSTMODERN</text><text x=\"79\" y=\"58\" fill=\"#1d2433\" font-size=\"11\" text-anchor=\"middle\">Universal reason</text><text x=\"79\" y=\"80\" fill=\"#1d2433\" font-size=\"11\" text-anchor=\"middle\">Truth and progress</text><text x=\"79\" y=\"102\" fill=\"#1d2433\" font-size=\"11\" text-anchor=\"middle\">Unified subject</text><text x=\"79\" y=\"124\" fill=\"#1d2433\" font-size=\"11\" text-anchor=\"middle\">Grand theory</text><text x=\"241\" y=\"58\" fill=\"#1d2433\" font-size=\"11\" text-anchor=\"middle\">Situated knowledge</text><text x=\"241\" y=\"80\" fill=\"#1d2433\" font-size=\"11\" text-anchor=\"middle\">Truth as discourse</text><text x=\"241\" y=\"102\" fill=\"#1d2433\" font-size=\"11\" text-anchor=\"middle\">Fragmented identity</text><text x=\"241\" y=\"124\" fill=\"#1d2433\" font-size=\"11\" text-anchor=\"middle\">Local, plural stories</text></svg><p>Rorty adds <b>pragmatism</b>: drop the quest for foundations, keep conversation.</p>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "Impact on political thought",
+   "b": "<p>Postmodern ideas shaped <b>feminism</b> (Judith Butler: gender is performed), <b>postcolonial studies</b> (Said, <i>Orientalism</i>, 1978), identity politics, and <b>radical democracy</b> (Laclau and Mouffe, 1985), which values permanent conflict over false consensus.</p><p>They also reshaped IR (the discourse analysis of security) and critiques of development.</p>"
+  },
+  {
+   "tag": "Debate",
+   "h": "Critiques",
+   "b": "<ul><li><b>Habermas</b>: it is a 'performative contradiction'. To argue that reason is power, it still uses reason. It abandons the unfinished project of modernity.</li><li>Marxists: it shifts attention from class and economics to culture.</li><li>Relativism: if there is no truth, how to condemn injustice?</li><li>Dense, obscure language.</li></ul>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "Postmodernism vs post-structuralism",
+   "b": "<p>The terms overlap. <b>Post-structuralism</b> is the philosophical method (Foucault, Derrida), which attacks fixed structures of meaning. <b>Postmodernism</b> is the wider cultural and political condition and attitude. In exam answers, use both sensibly and name the thinker.</p>"
+  },
+  {
+   "tag": "Indian angle",
+   "h": "Subaltern studies and beyond",
+   "b": "<p>The <b>Subaltern Studies</b> group (Ranajit Guha, from 1982) and Partha Chatterjee's <i>Nationalist Thought and the Colonial World</i> (1986) read Indian history <b>from below</b> and question Eurocentric narratives. Ashis Nandy's <i>The Intimate Enemy</i> (1983) shows how colonialism harms the mind.</p><p>Critics, such as Sumit Sarkar, said the group moved from Marxism to postmodern culturalism.</p>"
+  },
+  {
+   "tag": "Exam lens",
+   "h": "How UPSC asks this",
+   "b": "<div class=\"box\">\"What is meant by 'incredulity towards metanarratives'?\"</div><div class=\"box\">\"Evaluate Foucault's idea of power/knowledge.\"</div><div class=\"box\">\"Assess the postmodern critique of modernity and the Habermasian reply.\"</div><p><b>Structure:</b> define the term, Lyotard, Foucault, Derrida, impact, then critiques, then Subaltern Studies.</p>",
+   "cls": "exam"
+  }
+ ],
+ "quiz": [
+  {
+   "q": "The Postmodern Condition (1979) is by…",
+   "o": [
+    "Foucault",
+    "Lyotard",
+    "Derrida",
+    "Habermas"
+   ],
+   "a": 1,
+   "w": "Jean-Francois Lyotard."
+  },
+  {
+   "q": "A metanarrative is…",
+   "o": [
+    "A grand explanatory story",
+    "A short story",
+    "A footnote",
+    "A local custom"
+   ],
+   "a": 0,
+   "w": "A totalising story like progress or Marxism."
+  },
+  {
+   "q": "Power/knowledge is associated with…",
+   "o": [
+    "Rawls",
+    "Derrida",
+    "Rorty",
+    "Foucault"
+   ],
+   "a": 3,
+   "w": "Michel Foucault."
+  },
+  {
+   "q": "Deconstruction is associated with…",
+   "o": [
+    "Lyotard",
+    "Said",
+    "Derrida",
+    "Mouffe"
+   ],
+   "a": 2,
+   "w": "Jacques Derrida."
+  },
+  {
+   "q": "Orientalism (1978) is by…",
+   "o": [
+    "Guha",
+    "Edward Said",
+    "Spivak",
+    "Bhabha"
+   ],
+   "a": 1,
+   "w": "Edward Said."
+  },
+  {
+   "q": "Who argued that gender is performed?",
+   "o": [
+    "Butler",
+    "Young",
+    "Mies",
+    "Okin"
+   ],
+   "a": 0,
+   "w": "Judith Butler."
+  },
+  {
+   "q": "Habermas calls the postmodern critique a…",
+   "o": [
+    "Social contract",
+    "Dialectic",
+    "Deduction",
+    "Performative contradiction"
+   ],
+   "a": 3,
+   "w": "It uses reason to attack reason."
+  },
+  {
+   "q": "Radical democracy is argued by…",
+   "o": [
+    "Hayek and Mises",
+    "Locke and Mill",
+    "Laclau and Mouffe",
+    "Rawls and Nozick"
+   ],
+   "a": 2,
+   "w": "Hegemony and Socialist Strategy (1985)."
+  },
+  {
+   "q": "Subaltern Studies began under…",
+   "o": [
+    "Partha Chatterjee",
+    "Ranajit Guha",
+    "Ashis Nandy",
+    "Sumit Sarkar"
+   ],
+   "a": 1,
+   "w": "Ranajit Guha, 1982."
+  },
+  {
+   "q": "Postmodernists generally view truth as…",
+   "o": [
+    "Shaped by discourse and power",
+    "Divine",
+    "Mathematical",
+    "Absolute"
+   ],
+   "a": 0,
+   "w": "Knowledge is tied to power."
+  }
+ ],
+ "sources": [
+  "Jean-Francois Lyotard, The Postmodern Condition (1979)",
+  "Michel Foucault, Discipline and Punish (1975)",
+  "Jacques Derrida, Of Grammatology (1967)",
+  "Andrew Heywood, Political Theory",
+  "PYQ themes: postmodernism (Paper I)"
+ ],
+ "verified": "2026-11-12"
+}

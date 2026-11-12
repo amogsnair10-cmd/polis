@@ -6,7 +6,7 @@
   {
    "tag": "Why this matters",
    "h": "The ideology that distrusts blueprints",
-   "b": "<p>Conservatism is often dismissed as 'resisting change'. That is too simple. It is a <b>way of thinking about society</b>: be careful with inherited institutions, because they hold wisdom no single mind can design.</p><p>UPSC asks about it in Paper I as one of the main ideologies, and it links to Burke, Oakeshott and the New Right. Knowing its internal split makes your answer stand out."
+   "b": "<p>Conservatism is often dismissed as 'resisting change'. That is too simple. It is a <b>way of thinking about society</b>: be careful with inherited institutions, because they hold wisdom no single mind can design.</p><p>UPSC asks about it in Paper I as one of the main ideologies, and it links to Burke, Oakeshott and the New Right. Knowing its internal split makes your answer stand out.</p>"
   },
   {
    "tag": "Core idea",
@@ -81,23 +81,23 @@
   {
    "q": "One-nation conservatism is linked with…",
    "o": [
-    "Thatcher",
-    "Disraeli",
     "Reagan",
-    "Hayek"
+    "Hayek",
+    "Thatcher",
+    "Disraeli"
    ],
-   "a": 1,
+   "a": 3,
    "w": "Benjamin Disraeli."
   },
   {
    "q": "The New Right combines…",
    "o": [
+    "Fascism and welfare",
     "Socialism and nationalism",
     "Neoliberal economics and neoconservative social values",
-    "Anarchism and tradition",
-    "Fascism and welfare"
+    "Anarchism and tradition"
    ],
-   "a": 1,
+   "a": 2,
    "w": "Free market plus social authority."
   },
   {
@@ -114,34 +114,34 @@
   {
    "q": "Conservatives generally view human nature as…",
    "o": [
-    "Perfectible",
     "Limited and imperfect",
     "Purely rational",
-    "Naturally equal and good"
+    "Naturally equal and good",
+    "Perfectible"
    ],
-   "a": 1,
+   "a": 0,
    "w": "Imperfection justifies order and authority."
   },
   {
    "q": "The Swatantra Party was formed in…",
    "o": [
-    "1951",
-    "1959",
     "1967",
-    "1977"
+    "1977",
+    "1951",
+    "1959"
    ],
-   "a": 1,
+   "a": 3,
    "w": "1959, opposing planning and controls."
   },
   {
    "q": "Oakeshott compared political knowledge to…",
    "o": [
+    "Revelation",
     "A blueprint",
     "Practical skill like cooking",
-    "Mathematical proof",
-    "Revelation"
+    "Mathematical proof"
    ],
-   "a": 1,
+   "a": 2,
    "w": "Practical, not technical, knowledge."
   },
   {

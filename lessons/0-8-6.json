@@ -1,0 +1,178 @@
+{
+ "id": "0-8-6",
+ "title": "Jawaharlal Nehru",
+ "emoji": "🕊️",
+ "cards": [
+  {
+   "tag": "Why this matters",
+   "h": "The architect of modern India's mind",
+   "b": "<p>Nehru (1889-1964), the first Prime Minister (1947-64), shaped India's institutions and its political culture. Yet he is not a classical 'thinker' in the manner of Gandhi or Ambedkar, so UPSC asks about his <b>ideas in action</b>: democracy, secularism, socialism, planning, scientific temper and non-alignment.</p>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "Nehru's main ideas",
+   "b": "<svg class=\"d\" viewBox=\"0 0 320 234\"><rect x=\"20\" y=\"8\" width=\"280\" height=\"32\" rx=\"8\" fill=\"#f1e4c6\" stroke=\"#a8792a\"/><text x=\"160\" y=\"29\" fill=\"#1d2433\" font-size=\"12\" text-anchor=\"middle\">Democracy and civil liberty</text><text x=\"160\" y=\"51\" fill=\"#5d6474\" font-size=\"11\" text-anchor=\"middle\">↓</text><rect x=\"20\" y=\"52\" width=\"280\" height=\"32\" rx=\"8\" fill=\"#dceaec\" stroke=\"#2f6f7a\"/><text x=\"160\" y=\"73\" fill=\"#1d2433\" font-size=\"12\" text-anchor=\"middle\">Secularism and a composite culture</text><text x=\"160\" y=\"95\" fill=\"#5d6474\" font-size=\"11\" text-anchor=\"middle\">↓</text><rect x=\"20\" y=\"96\" width=\"280\" height=\"32\" rx=\"8\" fill=\"#f1e4c6\" stroke=\"#a8792a\"/><text x=\"160\" y=\"117\" fill=\"#1d2433\" font-size=\"12\" text-anchor=\"middle\">Democratic socialism, planning, mixed economy</text><text x=\"160\" y=\"139\" fill=\"#5d6474\" font-size=\"11\" text-anchor=\"middle\">↓</text><rect x=\"20\" y=\"140\" width=\"280\" height=\"32\" rx=\"8\" fill=\"#dceaec\" stroke=\"#2f6f7a\"/><text x=\"160\" y=\"161\" fill=\"#1d2433\" font-size=\"12\" text-anchor=\"middle\">Scientific temper and modern science</text><text x=\"160\" y=\"183\" fill=\"#5d6474\" font-size=\"11\" text-anchor=\"middle\">↓</text><rect x=\"20\" y=\"184\" width=\"280\" height=\"32\" rx=\"8\" fill=\"#f1e4c6\" stroke=\"#a8792a\"/><text x=\"160\" y=\"205\" fill=\"#1d2433\" font-size=\"12\" text-anchor=\"middle\">Non-alignment and peaceful coexistence</text></svg>"
+  },
+  {
+   "tag": "Key idea",
+   "h": "The Discovery of India",
+   "b": "<p>Written in Ahmednagar Fort jail (1942-45) and published in 1946, <i>The Discovery of India</i> sees India as a <b>palimpsest</b>: layer upon layer of cultures, none wiped out. Unity in diversity is the central theme.</p><p>He rejects both communal history and blind Westernisation. His earlier works, <i>Glimpses of World History</i> (1934) and <i>An Autobiography</i> (1936), show a wide, humanist and Marxist-influenced outlook.</p>"
+  },
+  {
+   "tag": "Key idea",
+   "h": "Democratic socialism and planning",
+   "b": "<p>Nehru was drawn to Marxist analysis of class and imperialism but rejected violence and dictatorship. His middle path: <b>democratic socialism</b>, a mixed economy with a strong public sector.</p><p>Landmarks: National Planning Committee (1938), Planning Commission (1950), Industrial Policy Resolution (1956), 'socialistic pattern of society' (Avadi session, 1955), Second Plan (Mahalanobis model, heavy industry). Dams were 'the temples of modern India'.</p>"
+  },
+  {
+   "tag": "Key idea",
+   "h": "Secularism and scientific temper",
+   "b": "<p>For Nehru the state must be neutral between religions yet treat all fairly: <b>equal respect</b>, not hostility to religion. He opposed majority communalism more than minority communalism, as it could pose as nationalism.</p><p>He urged a <b>scientific temper</b>: questioning, evidence and reason. The phrase appears in <i>Discovery of India</i>, and now in Art. 51A(h) as a Fundamental Duty (42nd Amendment, 1976).</p>"
+  },
+  {
+   "tag": "Key idea",
+   "h": "Foreign policy ideas",
+   "b": "<p>He saw peace and development as linked. Principles: non-alignment, anti-colonialism and anti-racism, <b>Panchsheel</b> (1954 agreement with China), Bandung (1955), the NAM founding (Belgrade 1961). He tried to give a newly independent India an independent voice between the two blocs.</p><p>The 1962 war with China is held up as the failure of his idealism.</p>"
+  },
+  {
+   "tag": "Debate",
+   "h": "Critiques",
+   "b": "<ul><li><b>Right</b>: favoured the Westernised elite, appeased minorities.</li><li><b>Lohia and the left</b>: dynastic, Congress-centred and elitist, and neglected caste.</li><li><b>Swatantra</b>: planning produced a licence-permit raj.</li><li>Agriculture and primary education got less priority. The Hindu rate of growth (about 3.5 per cent).</li><li>Defenders: built institutions, held democracy and secular state together under hard conditions.</li></ul>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "Nehru and Gandhi",
+   "b": "<p>They were close but different. Gandhi: village, decentralisation, moral politics, non-violence as creed. Nehru: modern industry, state-led growth, secular rationalism, non-violence as policy. Gandhi named Nehru his heir in 1942. Both rejected communalism and wanted an inclusive nation.</p>"
+  },
+  {
+   "tag": "Indian angle",
+   "h": "His legacy today",
+   "b": "<p>Institutions with his stamp: IITs, ISRO precursors (INCOSPAR 1962), AIIMS, CSIR, parliamentary democracy and the first Lok Sabha elections (1951-52). Contemporary debate on secularism, state versus market and foreign policy often goes back to Nehru, for or against.</p>"
+  },
+  {
+   "tag": "Exam lens",
+   "h": "How UPSC asks this",
+   "b": "<div class=\"box\">\"Nehru's idea of secularism was a mixture of western and Indian traditions. Discuss.\"</div><div class=\"box\">\"Examine Nehru's contribution to the idea of planned development.\"</div><div class=\"box\">\"Critically assess Nehru's vision of India as seen in The Discovery of India.\"</div><p><b>Structure:</b> idea, text, five pillars, critique, Gandhi contrast, legacy.</p>",
+   "cls": "exam"
+  }
+ ],
+ "quiz": [
+  {
+   "q": "The Discovery of India was written in…",
+   "o": [
+    "Yerwada jail",
+    "Ahmednagar Fort jail",
+    "Naini jail",
+    "Cellular Jail"
+   ],
+   "a": 1,
+   "w": "1942-45, Ahmednagar Fort."
+  },
+  {
+   "q": "Nehru called big dams…",
+   "o": [
+    "Temples of modern India",
+    "Pillars of planning",
+    "Citadels of science",
+    "Engines of growth"
+   ],
+   "a": 0,
+   "w": "His famous phrase."
+  },
+  {
+   "q": "Industrial Policy Resolution was passed in…",
+   "o": [
+    "1969",
+    "1948",
+    "1951",
+    "1956"
+   ],
+   "a": 3,
+   "w": "IPR 1956 is called the economic constitution."
+  },
+  {
+   "q": "The 'socialistic pattern of society' was adopted at…",
+   "o": [
+    "Lahore",
+    "Karachi",
+    "Avadi",
+    "Tripuri"
+   ],
+   "a": 2,
+   "w": "Avadi session, 1955."
+  },
+  {
+   "q": "Panchsheel was signed with China in…",
+   "o": [
+    "1947",
+    "1954",
+    "1962",
+    "1971"
+   ],
+   "a": 1,
+   "w": "1954 agreement on Tibet trade."
+  },
+  {
+   "q": "The Second Five-Year Plan stressed…",
+   "o": [
+    "Heavy industry",
+    "Services",
+    "Exports",
+    "Agriculture"
+   ],
+   "a": 0,
+   "w": "The Mahalanobis model."
+  },
+  {
+   "q": "Scientific temper became a Fundamental Duty by the…",
+   "o": [
+    "44th Amendment",
+    "73rd Amendment",
+    "25th Amendment",
+    "42nd Amendment"
+   ],
+   "a": 3,
+   "w": "42nd Amendment (1976), Art. 51A(h)."
+  },
+  {
+   "q": "Nehru's democratic socialism rejected…",
+   "o": [
+    "Planning",
+    "Mixed economy",
+    "Violent revolution and dictatorship",
+    "Public sector"
+   ],
+   "a": 2,
+   "w": "He took the middle path."
+  },
+  {
+   "q": "Where was the first NAM summit held, with Nehru among its founders?",
+   "o": [
+    "Lusaka 1970",
+    "Belgrade 1961",
+    "Bandung 1955",
+    "Cairo 1964"
+   ],
+   "a": 1,
+   "w": "Belgrade, 1961, with Tito and Nasser."
+  },
+  {
+   "q": "Which critic called the Nehru model a licence-permit raj?",
+   "o": [
+    "Swatantra Party",
+    "Communists",
+    "Jan Sangh on culture",
+    "Socialists"
+   ],
+   "a": 0,
+   "w": "The Swatantra line, from 1959."
+  }
+ ],
+ "sources": [
+  "Jawaharlal Nehru, The Discovery of India (1946)",
+  "Jawaharlal Nehru, An Autobiography (1936)",
+  "Sarvepalli Gopal, Jawaharlal Nehru: A Biography",
+  "Ramachandra Guha, India After Gandhi (2007)",
+  "PYQ themes: Nehru, secularism, planning (Paper I)"
+ ],
+ "verified": "2026-11-12"
+}

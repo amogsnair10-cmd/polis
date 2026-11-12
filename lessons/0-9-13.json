@@ -1,0 +1,178 @@
+{
+ "id": "0-9-13",
+ "title": "Michel Foucault",
+ "emoji": "🔍",
+ "cards": [
+  {
+   "tag": "Why this matters",
+   "h": "Power is everywhere",
+   "b": "<p>Michel Foucault (1926-84) changed how we think about <b>power, knowledge and the self</b>. Where liberals and Marxists look for power in the state or in class, he finds it in clinics, prisons, schools and everyday habits. Questions on power (Paper I) increasingly bring him in.</p>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "Archaeology to genealogy",
+   "b": "<p>Early works study how knowledge forms: <i>Madness and Civilization</i> (1961), <i>The Birth of the Clinic</i> (1963), <i>The Order of Things</i> (1966). Method called <b>archaeology</b> digs for the rules that make some statements possible in an age.</p><p>Later he used <b>genealogy</b> (after Nietzsche): tracing how present practices came out of contingent, often brutal, histories. <i>Discipline and Punish</i> (1975) and <i>The History of Sexuality</i> (vol. 1, 1976) are the key genealogies.</p>"
+  },
+  {
+   "tag": "Key idea",
+   "h": "Power/knowledge",
+   "b": "<p>Power and knowledge imply each other. Experts, such as doctors, psychiatrists and criminologists, produce 'truth' about people, and this truth lets institutions control them. 'Truth' is a product of <b>discourse</b>, the system of statements and practices that decides what is sayable and normal.</p><p>Power is not only a 'no' (repression). It is <b>productive</b>: it makes subjects, norms and desires.</p>"
+  },
+  {
+   "tag": "Key idea",
+   "h": "Disciplinary power",
+   "b": "<p>In <i>Discipline and Punish</i> Foucault shows the shift from public torture (Damiens, 1757) to the prison. Modern power works through <b>surveillance, normalising judgement and examination</b>. He takes Bentham's <b>Panopticon</b> as the model: the inmate, never sure when watched, polices himself. Armies, schools, factories and hospitals produce <b>'docile bodies'</b>.</p>"
+  },
+  {
+   "tag": "Key idea",
+   "h": "Biopower and governmentality",
+   "b": "<p>From the late 1970s: <b>biopower</b> manages life itself, through births, health, sexuality and population statistics. In <i>History of Sexuality</i> he argues that Victorian 'repression' of sex actually produced endless talk of sex and new identities. <b>Governmentality</b> (lectures 1977-79) covers the art of governing populations through knowledge, economy and security, including neoliberal rule.</p>"
+  },
+  {
+   "tag": "Key idea",
+   "h": "Resistance and the self",
+   "b": "<p>'Where there is power, there is resistance.' Resistance is local and plural, not one grand revolution. Late Foucault studied <b>technologies of the self</b>: how people shape themselves through ethical practice. He supported prison, gay and Iranian-revolution causes, which drew criticism.</p>"
+  },
+  {
+   "tag": "Debate",
+   "h": "Critiques",
+   "b": "<ul><li><b>Habermas</b>: no normative ground to say why power is bad.</li><li><b>Marxists</b>: ignores class and the economy and the state.</li><li><b>Feminists</b> (Fraser): helpful on bodies but blind to gender; others (Butler) build on him.</li><li>Charges of relativism and weak historical evidence.</li></ul>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "Foucault compared",
+   "b": "<svg class=\"d\" viewBox=\"0 0 320 148\"><rect x=\"4\" y=\"6\" width=\"150\" height=\"136\" rx=\"12\" fill=\"#f1e4c6\" stroke=\"#a8792a\"/><rect x=\"166\" y=\"6\" width=\"150\" height=\"136\" rx=\"12\" fill=\"#dceaec\" stroke=\"#2f6f7a\"/><text x=\"79\" y=\"32\" fill=\"#a8792a\" font-size=\"13\" text-anchor=\"middle\" font-weight=\"700\">LIBERAL / MARXIST</text><text x=\"241\" y=\"32\" fill=\"#2f6f7a\" font-size=\"13\" text-anchor=\"middle\" font-weight=\"700\">FOUCAULT</text><text x=\"79\" y=\"58\" fill=\"#1d2433\" font-size=\"11\" text-anchor=\"middle\">Power held by state</text><text x=\"79\" y=\"80\" fill=\"#1d2433\" font-size=\"11\" text-anchor=\"middle\">Power as possession</text><text x=\"79\" y=\"102\" fill=\"#1d2433\" font-size=\"11\" text-anchor=\"middle\">Repressive, top-down</text><text x=\"79\" y=\"124\" fill=\"#1d2433\" font-size=\"11\" text-anchor=\"middle\">Seek emancipation</text><text x=\"241\" y=\"58\" fill=\"#1d2433\" font-size=\"11\" text-anchor=\"middle\">Power in networks</text><text x=\"241\" y=\"80\" fill=\"#1d2433\" font-size=\"11\" text-anchor=\"middle\">Power as relation</text><text x=\"241\" y=\"102\" fill=\"#1d2433\" font-size=\"11\" text-anchor=\"middle\">Productive, everywhere</text><text x=\"241\" y=\"124\" fill=\"#1d2433\" font-size=\"11\" text-anchor=\"middle\">Resist, no final freedom</text></svg>"
+  },
+  {
+   "tag": "Indian angle",
+   "h": "Foucault in India",
+   "b": "<p>Foucaultian ideas appear in the study of colonial knowledge (census, caste classification, Bernard Cohn), the surveillance debate around Aadhaar and the right to privacy (<i>Puttaswamy</i>, 2017), and the reading-down of Section 377 (<i>Navtej Johar</i>, 2018). The Subaltern Studies school drew on him. Gandhi's critique of modern prisons, medicine and courts in <i>Hind Swaraj</i> (1909) is an early parallel.</p>"
+  },
+  {
+   "tag": "Exam lens",
+   "h": "How UPSC asks this",
+   "b": "<div class=\"box\">\"Explain Foucault's concept of power/knowledge.\"</div><div class=\"box\">\"How does Foucault's idea of power differ from the Marxist and liberal views?\"</div><div class=\"box\">\"What is the Panopticon and why does Foucault use it?\"</div><p><b>Structure:</b> concept, method, power/knowledge, discipline, biopower, resistance, critique, India.</p>",
+   "cls": "exam"
+  }
+ ],
+ "quiz": [
+  {
+   "q": "Discipline and Punish was published in…",
+   "o": [
+    "1961",
+    "1975",
+    "1984",
+    "1966"
+   ],
+   "a": 1,
+   "w": "1975."
+  },
+  {
+   "q": "Foucault took the Panopticon from…",
+   "o": [
+    "Bentham",
+    "Mill",
+    "Hobbes",
+    "Rousseau"
+   ],
+   "a": 0,
+   "w": "Jeremy Bentham."
+  },
+  {
+   "q": "Biopower concerns the management of…",
+   "o": [
+    "Trade",
+    "Law",
+    "Armies",
+    "Population and life"
+   ],
+   "a": 3,
+   "w": "Births, health, sexuality."
+  },
+  {
+   "q": "Foucault's method of tracing the history of present practices is…",
+   "o": [
+    "Deduction",
+    "Dialectic",
+    "Genealogy",
+    "Phenomenology"
+   ],
+   "a": 2,
+   "w": "Borrowed from Nietzsche."
+  },
+  {
+   "q": "Docile bodies come from…",
+   "o": [
+    "Torture",
+    "Disciplinary power",
+    "Markets",
+    "Religion"
+   ],
+   "a": 1,
+   "w": "Training and surveillance."
+  },
+  {
+   "q": "Foucault sees power as…",
+   "o": [
+    "Productive and diffused",
+    "Held by one class",
+    "Absent in democracy",
+    "Only repressive"
+   ],
+   "a": 0,
+   "w": "It produces subjects and norms."
+  },
+  {
+   "q": "The History of Sexuality vol. 1 appeared in…",
+   "o": [
+    "1961",
+    "1991",
+    "1984",
+    "1976"
+   ],
+   "a": 3,
+   "w": "1976."
+  },
+  {
+   "q": "A major critic who found Foucault lacking normative grounds was…",
+   "o": [
+    "Rawls",
+    "Popper",
+    "Habermas",
+    "Hayek"
+   ],
+   "a": 2,
+   "w": "Habermas."
+  },
+  {
+   "q": "Foucault's governmentality is about…",
+   "o": [
+    "Marriage",
+    "Governing populations",
+    "Army",
+    "Elections"
+   ],
+   "a": 1,
+   "w": "The art of government."
+  },
+  {
+   "q": "Which Indian case reflects privacy and surveillance debates?",
+   "o": [
+    "Puttaswamy (2017)",
+    "Kesavananda",
+    "Golaknath",
+    "Shah Bano"
+   ],
+   "a": 0,
+   "w": "Puttaswamy, 2017."
+  }
+ ],
+ "sources": [
+  "Michel Foucault, Discipline and Punish (1975)",
+  "Michel Foucault, The History of Sexuality, vol. 1 (1976)",
+  "Michel Foucault, Power/Knowledge (1980)",
+  "Gary Gutting, Foucault: A Very Short Introduction",
+  "PYQ themes: power, Foucault (Paper I)"
+ ],
+ "verified": "2026-11-12"
+}

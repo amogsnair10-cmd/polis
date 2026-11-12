@@ -59,56 +59,56 @@
   {
    "q": "'Property is theft' is associated with…",
    "o": [
+    "Stirner",
     "Bakunin",
     "Proudhon",
-    "Kropotkin",
-    "Stirner"
+    "Kropotkin"
    ],
-   "a": 1,
+   "a": 2,
    "w": "Proudhon, What is Property? (1840)."
   },
   {
    "q": "Mutual Aid (1902) was written by…",
    "o": [
+    "Rothbard",
     "Kropotkin",
     "Bakunin",
-    "Godwin",
-    "Rothbard"
+    "Godwin"
    ],
-   "a": 0,
+   "a": 1,
    "w": "Peter Kropotkin."
   },
   {
    "q": "Bakunin feared that Marx's plan would produce…",
    "o": [
+    "A new ruling bureaucratic class",
     "Anarchy",
     "Capitalism",
-    "Monarchy",
-    "A new ruling bureaucratic class"
+    "Monarchy"
    ],
-   "a": 3,
+   "a": 0,
    "w": "A new class of party rulers."
   },
   {
    "q": "The first thinker to call himself an anarchist was…",
    "o": [
+    "Tolstoy",
     "Godwin",
     "Stirner",
-    "Proudhon",
-    "Tolstoy"
+    "Proudhon"
    ],
-   "a": 2,
+   "a": 3,
    "w": "Proudhon."
   },
   {
    "q": "Which is individualist anarchism?",
    "o": [
+    "Anarcho-syndicalism",
     "Kropotkin's communism",
     "Max Stirner's egoism",
-    "Bakunin's collectivism",
-    "Anarcho-syndicalism"
+    "Bakunin's collectivism"
    ],
-   "a": 1,
+   "a": 2,
    "w": "Stirner, The Ego and Its Own (1844)."
   },
   {
@@ -125,45 +125,45 @@
   {
    "q": "Marxists differ from anarchists mainly on…",
    "o": [
-    "Ending class",
     "The path: use the state first",
     "Ending the state eventually",
-    "Equality"
+    "Equality",
+    "Ending class"
    ],
-   "a": 1,
+   "a": 0,
    "w": "Marxists use the state before it withers."
   },
   {
    "q": "Gandhi's ideal 'oceanic circles' refers to…",
    "o": [
-    "Maritime trade",
-    "Concentric self-governing communities",
     "A navy",
-    "Parliament"
+    "Parliament",
+    "Maritime trade",
+    "Concentric self-governing communities"
    ],
-   "a": 1,
+   "a": 3,
    "w": "Villages as self-governing units."
   },
   {
    "q": "The standard objection to anarchism is…",
    "o": [
+    "Too many laws",
     "Too much order",
     "Strong may dominate the weak without a state",
-    "Too much authority",
-    "Too many laws"
+    "Too much authority"
    ],
-   "a": 1,
+   "a": 2,
    "w": "The Hobbesian objection."
   },
   {
    "q": "State and Revolution (1917), on the withering away of the state, is by…",
    "o": [
-    "Bakunin",
-    "Marx",
     "Gramsci",
-    "Lenin"
+    "Lenin",
+    "Bakunin",
+    "Marx"
    ],
-   "a": 3,
+   "a": 1,
    "w": "Lenin, who kept a transitional workers' state."
   }
  ],

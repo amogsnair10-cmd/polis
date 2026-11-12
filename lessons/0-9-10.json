@@ -1,0 +1,178 @@
+{
+ "id": "0-9-10",
+ "title": "Hegel",
+ "emoji": "🦉",
+ "cards": [
+  {
+   "tag": "Why this matters",
+   "h": "The philosopher of the state and history",
+   "b": "<p>G.W.F. Hegel (1770-1831) built a huge system in which <b>history, freedom and the state</b> unfold through reason. Marx turned him upside down; liberals fear him. UPSC asks about his dialectic, civil society, the state, and the Marxist inversion.</p>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "Dialectic and Spirit",
+   "b": "<svg class=\"d\" viewBox=\"0 0 320 146\"><rect x=\"20\" y=\"8\" width=\"280\" height=\"32\" rx=\"8\" fill=\"#f1e4c6\" stroke=\"#a8792a\"/><text x=\"160\" y=\"29\" fill=\"#1d2433\" font-size=\"12\" text-anchor=\"middle\">Thesis: an idea or stage</text><text x=\"160\" y=\"51\" fill=\"#5d6474\" font-size=\"11\" text-anchor=\"middle\">↓</text><rect x=\"20\" y=\"52\" width=\"280\" height=\"32\" rx=\"8\" fill=\"#dceaec\" stroke=\"#2f6f7a\"/><text x=\"160\" y=\"73\" fill=\"#1d2433\" font-size=\"12\" text-anchor=\"middle\">Antithesis: its contradiction</text><text x=\"160\" y=\"95\" fill=\"#5d6474\" font-size=\"11\" text-anchor=\"middle\">↓</text><rect x=\"20\" y=\"96\" width=\"280\" height=\"32\" rx=\"8\" fill=\"#f1e4c6\" stroke=\"#a8792a\"/><text x=\"160\" y=\"117\" fill=\"#1d2433\" font-size=\"12\" text-anchor=\"middle\">Synthesis: higher unity, keeps the best</text></svg><p>History is the story of <b>Spirit (Geist)</b> coming to know itself as free. In <i>Phenomenology of Spirit</i> (1807) the master-slave dialectic shows that freedom grows from mutual recognition. In his words, 'The history of the world is none other than the progress of the consciousness of freedom.'</p>"
+  },
+  {
+   "tag": "Key idea",
+   "h": "Philosophy of Right (1821)",
+   "b": "<p>In <i>Elements of the Philosophy of Right</i> Hegel describes <b>ethical life (Sittlichkeit)</b> in three moments.</p><ul><li><b>Family</b>: unity by love.</li><li><b>Civil society</b>: individuals in the market, with needs, classes and law. It creates wealth and also a poor 'rabble'.</li><li><b>State</b>: the universal, where freedom becomes real.</li></ul>"
+  },
+  {
+   "tag": "Key idea",
+   "h": "The rational state",
+   "b": "<p>For Hegel the state is 'the actuality of the ethical Idea' and the 'march of God in the world'. It does not mean that every state is divine. A <b>rational state</b> reconciles individual liberty and the community: citizens find freedom through its laws. He favoured a constitutional monarchy, a professional bureaucracy as the 'universal class', and estates for representation.</p>"
+  },
+  {
+   "tag": "Key idea",
+   "h": "History and the world-historical",
+   "b": "<p>In <i>Philosophy of History</i> he sees freedom growing from one person free (Orient), some free (Greece and Rome), to <b>all free</b> (the Germanic Christian world). 'World-historical individuals' like Napoleon, driven by passion, serve Reason by a 'cunning of reason'. 'The owl of Minerva begins its flight only with the onset of dusk': philosophy understands an age only when it is ending.</p>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "Freedom as rational self-realisation",
+   "b": "<p>For Hegel freedom is not doing as you please (that is arbitrary will). It is acting in line with reason inside institutions that you can recognise as your own. The family, the market and the state give a person roles that make real freedom possible. This is a classic example of what Berlin later called <b>positive liberty</b>. Compare Kant (moral autonomy) and Rousseau (self-given law). Hegel adds history and institutions to both.</p>"
+  },
+  {
+   "tag": "Debate",
+   "h": "Critiques",
+   "b": "<ul><li><b>Marx</b>, <i>Critique of Hegel's Philosophy of Right</i> (1843): Hegel's 'mystified' idealism; real basis is material. The state does not reconcile classes but serves the ruling class.</li><li><b>Popper</b>, <i>The Open Society and Its Enemies</i> (1945): Hegel as a source of totalitarianism.</li><li>Eurocentric stages: he dismissed Africa and India as outside history.</li><li>Defenders: he is a theorist of modern freedom and institutions.</li></ul>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "Hegel's afterlife",
+   "b": "<p><b>Young Hegelians</b> and Marx took the dialectic and made it materialist. <b>Kojeve</b> read the master-slave dialectic, and Fukuyama's <i>The End of History</i> (1992) borrows it. Honneth and Taylor revived 'recognition'. T.H. Green and the British idealists used Hegel to argue for a positive state.</p>"
+  },
+  {
+   "tag": "Indian angle",
+   "h": "Hegel and India",
+   "b": "<p>In <i>Philosophy of History</i> Hegel treated India as a stagnant, dream-like civilisation without real history, a view later used to justify colonial rule. Indian thinkers such as Aurobindo and Radhakrishnan answered with their own accounts of spirit in history. Marx's use of the dialectic shaped Indian Marxists like M.N. Roy.</p>"
+  },
+  {
+   "tag": "Exam lens",
+   "h": "How UPSC asks this",
+   "b": "<div class=\"box\">\"Explain Hegel's dialectic and its use by Marx.\"</div><div class=\"box\">\"Distinguish civil society and state in Hegel.\"</div><div class=\"box\">\"Is Hegel a philosopher of freedom or of the authoritarian state?\"</div><p><b>Structure:</b> dialectic, Sittlichkeit, state, history, Marx's critique, Popper, legacy, India.</p>",
+   "cls": "exam"
+  }
+ ],
+ "quiz": [
+  {
+   "q": "Philosophy of Right was published in…",
+   "o": [
+    "1848",
+    "1807",
+    "1821",
+    "1837"
+   ],
+   "a": 2,
+   "w": "1821."
+  },
+  {
+   "q": "Hegel's three moments of ethical life are…",
+   "o": [
+    "Law, morals, custom",
+    "Family, civil society, state",
+    "Church, state, market",
+    "Class, nation, state"
+   ],
+   "a": 1,
+   "w": "Sittlichkeit."
+  },
+  {
+   "q": "Phenomenology of Spirit (1807) contains…",
+   "o": [
+    "Master-slave dialectic",
+    "Social contract",
+    "Greatest happiness",
+    "Veil of ignorance"
+   ],
+   "a": 0,
+   "w": "The recognition theme."
+  },
+  {
+   "q": "The Open Society and Its Enemies is by…",
+   "o": [
+    "Berlin",
+    "Arendt",
+    "Hayek",
+    "Popper"
+   ],
+   "a": 3,
+   "w": "Karl Popper, 1945."
+  },
+  {
+   "q": "Marx's early critique of Hegel appeared in…",
+   "o": [
+    "1867",
+    "1871",
+    "1843",
+    "1848"
+   ],
+   "a": 2,
+   "w": "Critique of Hegel's Philosophy of Right, 1843."
+  },
+  {
+   "q": "'Owl of Minerva' stands for…",
+   "o": [
+    "Justice",
+    "Philosophy understands late",
+    "War",
+    "Wealth"
+   ],
+   "a": 1,
+   "w": "It flies at dusk."
+  },
+  {
+   "q": "Hegel's 'universal class' is the…",
+   "o": [
+    "Bureaucracy",
+    "Peasants",
+    "Clergy",
+    "Merchants"
+   ],
+   "a": 0,
+   "w": "Civil servants."
+  },
+  {
+   "q": "The End of History (1992) draws on Hegel via…",
+   "o": [
+    "Rawls",
+    "Nozick",
+    "Huntington",
+    "Fukuyama"
+   ],
+   "a": 3,
+   "w": "Francis Fukuyama."
+  },
+  {
+   "q": "Hegel's ideal constitutional form was…",
+   "o": [
+    "Anarchy",
+    "Oligarchy",
+    "Constitutional monarchy",
+    "Direct democracy"
+   ],
+   "a": 2,
+   "w": "A monarchy under law."
+  },
+  {
+   "q": "The British idealist who used Hegel for a positive state was…",
+   "o": [
+    "Spencer",
+    "T.H. Green",
+    "Bentham",
+    "Hobbes"
+   ],
+   "a": 1,
+   "w": "T.H. Green."
+  }
+ ],
+ "sources": [
+  "G.W.F. Hegel, Phenomenology of Spirit (1807)",
+  "G.W.F. Hegel, Elements of the Philosophy of Right (1821)",
+  "Karl Popper, The Open Society and Its Enemies (1945)",
+  "Charles Taylor, Hegel (1975)",
+  "PYQ themes: Hegel, dialectic, state (Paper I)"
+ ],
+ "verified": "2026-11-12"
+}

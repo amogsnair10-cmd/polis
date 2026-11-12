@@ -64,7 +64,9 @@
     [
      "Rome: From Republic to Empire",
      "Han China and the Silk Road",
-     "The Fall of Rome (and Why It Didn't Really Fall)"
+     "The Fall of Rome (and Why It Didn't Really Fall)",
+     "Carthage and Hannibal: The Enemy Rome Almost Lost To",
+     "The Sasanian Empire: Rome's Eternal Rival"
     ],
     1
    ]
@@ -79,7 +81,9 @@
     [
      "Byzantium: The Empire That Lasted 1,000 Years",
      "The Rise of Islam and the Abbasid Golden Age",
-     "Tang and Song China: The Medieval Superpower"
+     "Tang and Song China: The Medieval Superpower",
+     "The Crusades: Holy War and Holy Trade",
+     "The Khmer Empire and Angkor's Water City"
     ],
     1
    ],
@@ -88,7 +92,8 @@
     [
      "The Vikings",
      "Genghis Khan and the Mongol World",
-     "The Black Death"
+     "The Black Death",
+     "The Hundred Years' War: Longbows, Plague and Joan of Arc"
     ],
     1
    ],
@@ -97,9 +102,19 @@
     [
      "Mansa Musa and the Empires of West Africa",
      "The Maya, Aztecs and Inca",
-     "Polynesian Navigators"
+     "Polynesian Navigators",
+     "Great Zimbabwe and the Swahili Coast",
+     "The Kingdom of Benin and Its Bronzes"
     ],
     1
+   ],
+   [
+    "Trade roads",
+    [
+     "Samarkand: Jewel of the Silk Road",
+     "Srivijaya: The Sea Kingdom of the Malay World"
+    ],
+    0
    ]
   ]
  },
@@ -112,7 +127,8 @@
     [
      "The Renaissance",
      "The Printing Press and the Reformation",
-     "The Ottomans: Masters of Three Continents"
+     "The Ottomans: Masters of Three Continents",
+     "The Safavids and Shah Abbas's Isfahan"
     ],
     1
    ],
@@ -122,7 +138,11 @@
      "Zheng He's Treasure Fleets",
      "Columbus, Conquest and the Columbian Exchange",
      "The Atlantic Slave Trade",
-     "The Scientific Revolution"
+     "The Scientific Revolution",
+     "The Mughals: Akbar's Empire and the World's Silver",
+     "Ming China and the Closed Door",
+     "The Dutch Golden Age: Tulips, Trade and Tolerance",
+     "Tokugawa Japan and the Closed Country"
     ],
     1
    ]
@@ -139,7 +159,8 @@
      "The American Revolution",
      "The French Revolution",
      "Napoleon",
-     "The Haitian Revolution"
+     "The Haitian Revolution",
+     "Bolívar and the Liberation of South America"
     ],
     1
    ],
@@ -149,7 +170,9 @@
      "The Industrial Revolution",
      "Japan's Meiji Leap",
      "The Scramble for Africa",
-     "The Opium Wars and China's Century of Humiliation"
+     "The Opium Wars and China's Century of Humiliation",
+     "The Taiping Rebellion: China's Deadliest Civil War",
+     "Peter the Great and the Window to Europe"
     ],
     1
    ]
@@ -167,7 +190,8 @@
      "The Great Depression",
      "Fascism and Nazism",
      "The Second World War",
-     "The Holocaust"
+     "The Holocaust",
+     "Stalingrad: The Turning Point"
     ],
     1
    ],
@@ -181,6 +205,17 @@
      "1989: The Wall Falls"
     ],
     1
+   ],
+   [
+    "Other struggles",
+    [
+     "The Korean War: The Forgotten War",
+     "Vietnam: The Superpower's Longest Lost War",
+     "Partition of India in World Context",
+     "Apartheid: Engineering Racism in South Africa",
+     "The Iranian Revolution of 1979"
+    ],
+    0
    ]
   ]
  },
@@ -194,9 +229,34 @@
      "Globalisation and the Internet Age",
      "9/11 and the War on Terror",
      "The Rise of China",
-     "Climate, Pandemics and the Shape of the Future"
+     "Climate, Pandemics and the Shape of the Future",
+     "The Invention of the Internet",
+     "Mandela and the Miracle of 1994",
+     "The Arab Spring: Hope and Its Aftermath"
     ],
     1
+   ]
+  ]
+ },
+ {
+  "p": "Act IX",
+  "t": "Hidden Histories",
+  "units": [
+   [
+    "Forgotten powers",
+    [
+     "Aksum: Africa's Lost Empire",
+     "The Hanseatic League: Trade Without Kings"
+    ],
+    0
+   ],
+   [
+    "Lost libraries",
+    [
+     "The Library of Alexandria",
+     "Dunhuang: The Caves That Saved a Library"
+    ],
+    0
    ]
   ]
  }

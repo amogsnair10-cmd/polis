@@ -1,0 +1,178 @@
+{
+ "id": "0-8-9",
+ "title": "Jyotiba Phule",
+ "emoji": "📚",
+ "cards": [
+  {
+   "tag": "Why this matters",
+   "h": "The first modern voice of the oppressed",
+   "b": "<p>Jyotirao Govindrao Phule (1827-90) was a Maharashtra reformer who attacked <b>caste as a system of Brahmin domination</b> and built schools for girls and the lower castes. He is the start of the anti-caste tradition that runs to Periyar and Ambedkar, who called him one of his three gurus.</p>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "Key facts and works",
+   "b": "<ul><li>1848: first school for girls in Pune, with wife Savitribai.</li><li>1863: home for widows' newborns (Balhatya Pratibandhak Griha).</li><li>1873: <b>Satyashodhak Samaj</b> (Truth-Seekers' Society).</li><li>Works: <i>Tritiya Ratna</i> (1855), <i>Gulamgiri</i> (1873), <i>Shetkaryacha Asud</i> (1881), <i>Sarvajanik Satyadharma</i> (1891, posthumous).</li><li>1888: given the title 'Mahatma' by a Bombay gathering.</li></ul>"
+  },
+  {
+   "tag": "Key idea",
+   "h": "Gulamgiri: caste as slavery",
+   "b": "<p><i>Gulamgiri</i> ('Slavery', 1873) is dedicated to Americans who ended slavery. Phule compares the plight of Shudras and Ati-Shudras to that of Black slaves.</p><p>His version of history: <b>Aryan Brahmins invaded</b>, defeated the native peoples, and made scriptures to justify slavery. The legendary king <b>Bali</b> stands for the original, just rule. The tale is a counter-history, not scholarship.</p>"
+  },
+  {
+   "tag": "Key idea",
+   "h": "Critique of Brahmanism and religion",
+   "b": "<p>Phule rejected the Vedas, the varna theory and priestly rituals as inventions to keep power. He opposed <b>idol worship, priest-mediated ceremonies</b>, and promoted a <b>universal, rational religion</b> with one creator (Sarvajanik Satyadharma). Satyashodhak weddings were held without Brahmin priests.</p><p>He saw colonial rule as an opportunity but also criticised it.</p>"
+  },
+  {
+   "tag": "Key idea",
+   "h": "Education and the peasant",
+   "b": "<p>He argued that lack of education is the root of Shudra misery: 'Without learning, intellect was lost; without intellect, morals; without morals, progress; without progress, wealth; without wealth, the Shudras were ruined.'</p><p>In <i>Shetkaryacha Asud</i> ('Cultivator's Whipcord', 1881) he showed how moneylenders, priests, and the colonial bureaucracy together exploited farmers. He told the Hunter Commission (1882) that the state spent too much on higher education for elites and too little on primary schooling.</p>"
+  },
+  {
+   "tag": "Key idea",
+   "h": "Women's emancipation",
+   "b": "<p>Phule and Savitribai opened schools for girls from 1848, faced social boycott, and sheltered widows and illegitimate children. He urged widow remarriage and wrote of the need for <b>women's education as the base of social change</b>. He saw patriarchy and caste as linked systems.</p>"
+  },
+  {
+   "tag": "Debate",
+   "h": "Critiques and assessment",
+   "b": "<ul><li>The Aryan-invasion theory is disputed by modern historians.</li><li>He mostly addressed Maratha-Kunbi and Mali communities, less the Dalits.</li><li>Brahmin leaders such as Tilak argued that social reform divided the nationalist front.</li><li>Positive: first to place <b>social justice</b> before political freedom.</li></ul>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "Phule, Ambedkar, Gandhi",
+   "b": "<p>Phule: social revolution first, anti-Brahmin. Ambedkar: constitutional and legal route, plus rights. Gandhi: reform within Hinduism through moral appeal. Ambedkar called Phule a guru together with Buddha and Kabir, and dedicated <i>Who Were the Shudras?</i> to him.</p>"
+  },
+  {
+   "tag": "Indian angle",
+   "h": "Relevance today",
+   "b": "<p>Satyashodhak ideas shaped the non-Brahmin movement in Maharashtra, Periyar's Self-Respect Movement and Dalit-Bahujan politics. The Maharashtra and national debates on <b>girls' education, reservation, and caste census</b> all invoke him. Savitribai Phule is regarded as India's first woman teacher.</p>"
+  },
+  {
+   "tag": "Exam lens",
+   "h": "How UPSC asks this",
+   "b": "<div class=\"box\">\"Evaluate Phule's critique of Brahmanism.\"</div><div class=\"box\">\"Discuss Phule's contribution to the emancipation of women and the lower castes.\"</div><div class=\"box\">\"Phule is the first modern thinker of social justice in India. Comment.\"</div><p><b>Structure:</b> context, Satyashodhak Samaj, Gulamgiri thesis, education and peasants, women, critique, legacy.</p>",
+   "cls": "exam"
+  }
+ ],
+ "quiz": [
+  {
+   "q": "Phule founded the Satyashodhak Samaj in…",
+   "o": [
+    "1873",
+    "1888",
+    "1848",
+    "1863"
+   ],
+   "a": 0,
+   "w": "1873, Pune."
+  },
+  {
+   "q": "Gulamgiri (1873) compares Shudras with…",
+   "o": [
+    "Serfs",
+    "Peasants of France",
+    "Prisoners",
+    "Slaves in America"
+   ],
+   "a": 3,
+   "w": "It was dedicated to American abolitionists."
+  },
+  {
+   "q": "Phule's girls' school in Pune opened in…",
+   "o": [
+    "1873",
+    "1832",
+    "1848",
+    "1857"
+   ],
+   "a": 2,
+   "w": "1848."
+  },
+  {
+   "q": "Shetkaryacha Asud means…",
+   "o": [
+    "Truth Religion",
+    "Cultivator's Whipcord",
+    "The Third Eye",
+    "Slavery"
+   ],
+   "a": 1,
+   "w": "1881 book on peasant exploitation."
+  },
+  {
+   "q": "Phule gave evidence before which commission?",
+   "o": [
+    "Hunter Education Commission",
+    "Hartog",
+    "Indigo",
+    "Simon"
+   ],
+   "a": 0,
+   "w": "1882."
+  },
+  {
+   "q": "The legendary king in his counter-history is…",
+   "o": [
+    "Rama",
+    "Ashoka",
+    "Shivaji",
+    "Bali"
+   ],
+   "a": 3,
+   "w": "Rajah Bali."
+  },
+  {
+   "q": "Who dedicated Who Were the Shudras? to Phule?",
+   "o": [
+    "Periyar",
+    "Gandhi",
+    "Ambedkar",
+    "Tilak"
+   ],
+   "a": 2,
+   "w": "B.R. Ambedkar."
+  },
+  {
+   "q": "'Mahatma' was conferred on Phule in…",
+   "o": [
+    "1873",
+    "1888",
+    "1890",
+    "1857"
+   ],
+   "a": 1,
+   "w": "1888, in Bombay."
+  },
+  {
+   "q": "Phule viewed the Vedas and varna as…",
+   "o": [
+    "Priestly inventions for domination",
+    "Rational science",
+    "Political ideals",
+    "Divine truths"
+   ],
+   "a": 0,
+   "w": "His anti-Brahmin critique."
+  },
+  {
+   "q": "Phule's wife and fellow educator was…",
+   "o": [
+    "Tarabai Shinde",
+    "Anandibai",
+    "Pandita Ramabai",
+    "Savitribai"
+   ],
+   "a": 3,
+   "w": "Savitribai Phule."
+  }
+ ],
+ "sources": [
+  "Jotirao Phule, Gulamgiri (1873)",
+  "Jotirao Phule, Shetkaryacha Asud (1881)",
+  "Rosalind O'Hanlon, Caste, Conflict and Ideology (1985)",
+  "Gail Omvedt, Dalits and the Democratic Revolution (1994)",
+  "PYQ themes: Phule, anti-caste thought (Paper I)"
+ ],
+ "verified": "2026-11-12"
+}

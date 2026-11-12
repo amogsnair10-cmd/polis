@@ -1,0 +1,178 @@
+{
+ "id": "0-9-11",
+ "title": "Jeremy Bentham",
+ "emoji": "⚖️",
+ "cards": [
+  {
+   "tag": "Why this matters",
+   "h": "Utility as the test of law",
+   "b": "<p>Jeremy Bentham (1748-1832) founded <b>utilitarianism</b>: the test of any law, act or institution is whether it adds to human happiness. It is the basis of modern policy analysis, cost-benefit thinking and welfare economics, and also a major target of liberal and Rawlsian critics.</p>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "Pleasure, pain and utility",
+   "b": "<p>In <i>An Introduction to the Principles of Morals and Legislation</i> (1789) Bentham opens: 'Nature has placed mankind under the governance of two sovereign masters, pain and pleasure.' The <b>principle of utility</b> approves actions that increase the <b>greatest happiness of the greatest number</b>.</p><p>Each person counts as one, nobody for more than one. This gives a democratic, equal base.</p>"
+  },
+  {
+   "tag": "Key idea",
+   "h": "Felicific calculus",
+   "b": "<svg class=\"d\" viewBox=\"0 0 320 234\"><rect x=\"20\" y=\"8\" width=\"280\" height=\"32\" rx=\"8\" fill=\"#f1e4c6\" stroke=\"#a8792a\"/><text x=\"160\" y=\"29\" fill=\"#1d2433\" font-size=\"12\" text-anchor=\"middle\">Intensity and duration of pleasure</text><text x=\"160\" y=\"51\" fill=\"#5d6474\" font-size=\"11\" text-anchor=\"middle\">↓</text><rect x=\"20\" y=\"52\" width=\"280\" height=\"32\" rx=\"8\" fill=\"#dceaec\" stroke=\"#2f6f7a\"/><text x=\"160\" y=\"73\" fill=\"#1d2433\" font-size=\"12\" text-anchor=\"middle\">Certainty and nearness</text><text x=\"160\" y=\"95\" fill=\"#5d6474\" font-size=\"11\" text-anchor=\"middle\">↓</text><rect x=\"20\" y=\"96\" width=\"280\" height=\"32\" rx=\"8\" fill=\"#f1e4c6\" stroke=\"#a8792a\"/><text x=\"160\" y=\"117\" fill=\"#1d2433\" font-size=\"12\" text-anchor=\"middle\">Fecundity and purity</text><text x=\"160\" y=\"139\" fill=\"#5d6474\" font-size=\"11\" text-anchor=\"middle\">↓</text><rect x=\"20\" y=\"140\" width=\"280\" height=\"32\" rx=\"8\" fill=\"#dceaec\" stroke=\"#2f6f7a\"/><text x=\"160\" y=\"161\" fill=\"#1d2433\" font-size=\"12\" text-anchor=\"middle\">Extent: how many people</text><text x=\"160\" y=\"183\" fill=\"#5d6474\" font-size=\"11\" text-anchor=\"middle\">↓</text><rect x=\"20\" y=\"184\" width=\"280\" height=\"32\" rx=\"8\" fill=\"#f1e4c6\" stroke=\"#a8792a\"/><text x=\"160\" y=\"205\" fill=\"#1d2433\" font-size=\"12\" text-anchor=\"middle\">Add up, subtract pains, decide</text></svg><p>He thought happiness can be measured and compared.  The 'hedonic calculus' is a rough guide for lawmakers.</p>"
+  },
+  {
+   "tag": "Key idea",
+   "h": "Rights as 'nonsense upon stilts'",
+   "b": "<p>Bentham rejected natural rights as fiction. Rights are created by law, and 'natural and imprescriptible rights' are 'nonsense upon stilts' (<i>Anarchical Fallacies</i>). He is thus a <b>legal positivist</b>: law is command of the sovereign, not moral truth. This undercuts both Locke and the French Declaration.</p>"
+  },
+  {
+   "tag": "Key idea",
+   "h": "Reform and the Panopticon",
+   "b": "<p>Bentham pressed for law reform: codification, prison and poor-law reform, secret ballot, wider suffrage, and rights for women and animals (he asked of animals, 'The question is not, Can they reason? nor, Can they talk? but, Can they suffer?'). The <b>Panopticon</b> (1791) is a circular prison where inmates can be watched at any time without seeing the watcher, later made famous by Foucault.</p>"
+  },
+  {
+   "tag": "Key idea",
+   "h": "Bentham the democrat",
+   "b": "<p>Bentham began as an adviser to enlightened rulers, but after 1809 he became a <b>radical democrat</b>. In <i>Plan of Parliamentary Reform</i> (1817) and the <i>Constitutional Code</i> he urged universal suffrage, secret ballot, annual elections and the removal of the Lords. His reason: rulers pursue <b>sinister interests</b>, so the many must watch the few. His followers, the Philosophic Radicals, helped pass the Reform Act 1832, and University College London (1826) reflects his secular ideals.</p>"
+  },
+  {
+   "tag": "Debate",
+   "h": "Critiques",
+   "b": "<ul><li><b>J.S. Mill</b>: pleasures differ in quality, so 'better Socrates dissatisfied than a fool satisfied'.</li><li><b>Rawls</b>: utilitarianism ignores the <b>separateness of persons</b> and could sacrifice a minority.</li><li>Happiness is hard to measure and compare.</li><li>Defenders: it is impartial, practical and reformist.</li></ul>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "Act and rule utilitarianism",
+   "b": "<p><b>Act</b> utilitarians judge each act by its results. <b>Rule</b> utilitarians judge general rules by their results, which protects rights better. Modern forms: preference utilitarianism (Peter Singer), welfare economics and cost-benefit analysis in policy.</p>"
+  },
+  {
+   "tag": "Indian angle",
+   "h": "Bentham and British India",
+   "b": "<p>Utilitarians shaped colonial policy. <b>James Mill</b> wrote <i>History of British India</i> (1817) and worked at the East India Company; Macaulay drafted the <b>Indian Penal Code</b> (1837, in force 1860), influenced by Benthamite codification. Raja Ram Mohan Roy corresponded with Bentham. Critics argue that utility served as a justification for paternal, authoritarian rule. Modern echoes: cost-benefit tests for projects, and the Bharatiya Nyaya Sanhita (2023) as a codification update.</p>"
+  },
+  {
+   "tag": "Exam lens",
+   "h": "How UPSC asks this",
+   "b": "<div class=\"box\">\"Examine Bentham's utilitarianism and its critiques.\"</div><div class=\"box\">\"Distinguish Bentham and Mill on pleasure.\"</div><div class=\"box\">\"What is the felicific calculus?\"</div><p><b>Structure:</b> principle, calculus, rights critique, Panopticon, Mill and Rawls critique, legacy in India.</p>",
+   "cls": "exam"
+  }
+ ],
+ "quiz": [
+  {
+   "q": "Bentham's Introduction to the Principles of Morals and Legislation dates from…",
+   "o": [
+    "1748",
+    "1832",
+    "1651",
+    "1789"
+   ],
+   "a": 3,
+   "w": "1789."
+  },
+  {
+   "q": "The Panopticon was a design for a…",
+   "o": [
+    "Parliament",
+    "School only",
+    "Prison",
+    "Market"
+   ],
+   "a": 2,
+   "w": "A circular prison, 1791."
+  },
+  {
+   "q": "Bentham called natural rights…",
+   "o": [
+    "Rational truths",
+    "Nonsense upon stilts",
+    "Divine laws",
+    "Social facts"
+   ],
+   "a": 1,
+   "w": "From Anarchical Fallacies."
+  },
+  {
+   "q": "Which thinker distinguished higher and lower pleasures?",
+   "o": [
+    "Mill",
+    "Bentham",
+    "Hobbes",
+    "Burke"
+   ],
+   "a": 0,
+   "w": "J.S. Mill."
+  },
+  {
+   "q": "Rawls criticised utilitarianism for ignoring…",
+   "o": [
+    "Pleasure",
+    "Law",
+    "Property",
+    "The separateness of persons"
+   ],
+   "a": 3,
+   "w": "Persons are not merged."
+  },
+  {
+   "q": "The formula 'greatest happiness of the greatest number' belongs to…",
+   "o": [
+    "Marxism",
+    "Conservatism",
+    "Utilitarianism",
+    "Contractarianism"
+   ],
+   "a": 2,
+   "w": "Bentham's principle of utility."
+  },
+  {
+   "q": "Who wrote History of British India (1817)?",
+   "o": [
+    "Burke",
+    "James Mill",
+    "Macaulay",
+    "Bentham"
+   ],
+   "a": 1,
+   "w": "James Mill."
+  },
+  {
+   "q": "The Indian Penal Code was drafted under…",
+   "o": [
+    "Macaulay",
+    "Bentham himself",
+    "Curzon",
+    "Hastings"
+   ],
+   "a": 0,
+   "w": "Macaulay's Law Commission."
+  },
+  {
+   "q": "Bentham as a legal thinker was a…",
+   "o": [
+    "Historicist",
+    "Realist theologian",
+    "Natural lawyer",
+    "Positivist"
+   ],
+   "a": 3,
+   "w": "Law as command of the sovereign."
+  },
+  {
+   "q": "Foucault later made famous Bentham's…",
+   "o": [
+    "Codification",
+    "Poor law",
+    "Panopticon",
+    "Calculus"
+   ],
+   "a": 2,
+   "w": "In Discipline and Punish (1975)."
+  }
+ ],
+ "sources": [
+  "Jeremy Bentham, Introduction to the Principles of Morals and Legislation (1789)",
+  "Jeremy Bentham, Anarchical Fallacies",
+  "J.S. Mill, Utilitarianism (1861)",
+  "John Rawls, A Theory of Justice (1971)",
+  "PYQ themes: utilitarianism (Paper I)"
+ ],
+ "verified": "2026-11-12"
+}

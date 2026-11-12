@@ -1,0 +1,178 @@
+{
+ "id": "0-9-12",
+ "title": "Edmund Burke",
+ "emoji": "🕯️",
+ "cards": [
+  {
+   "tag": "Why this matters",
+   "h": "Politician and philosopher",
+   "b": "<p>Edmund Burke (1729-97), Irish-born Whig MP, is the father of modern conservatism, but his thought is wider: a theory of <b>representation, party and empire</b> as well. He wrote as a practising politician, and UPSC likes his views on the French Revolution, rights, representation, and his role in the impeachment of Warren Hastings.</p>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "Burke's main ideas",
+   "b": "<svg class=\"d\" viewBox=\"0 0 320 234\"><rect x=\"20\" y=\"8\" width=\"280\" height=\"32\" rx=\"8\" fill=\"#f1e4c6\" stroke=\"#a8792a\"/><text x=\"160\" y=\"29\" fill=\"#1d2433\" font-size=\"12\" text-anchor=\"middle\">Tradition, prescription and prejudice</text><text x=\"160\" y=\"51\" fill=\"#5d6474\" font-size=\"11\" text-anchor=\"middle\">↓</text><rect x=\"20\" y=\"52\" width=\"280\" height=\"32\" rx=\"8\" fill=\"#dceaec\" stroke=\"#2f6f7a\"/><text x=\"160\" y=\"73\" fill=\"#1d2433\" font-size=\"12\" text-anchor=\"middle\">Distrust of abstract rights and revolution</text><text x=\"160\" y=\"95\" fill=\"#5d6474\" font-size=\"11\" text-anchor=\"middle\">↓</text><rect x=\"20\" y=\"96\" width=\"280\" height=\"32\" rx=\"8\" fill=\"#f1e4c6\" stroke=\"#a8792a\"/><text x=\"160\" y=\"117\" fill=\"#1d2433\" font-size=\"12\" text-anchor=\"middle\">Organic society and ordered liberty</text><text x=\"160\" y=\"139\" fill=\"#5d6474\" font-size=\"11\" text-anchor=\"middle\">↓</text><rect x=\"20\" y=\"140\" width=\"280\" height=\"32\" rx=\"8\" fill=\"#dceaec\" stroke=\"#2f6f7a\"/><text x=\"160\" y=\"161\" fill=\"#1d2433\" font-size=\"12\" text-anchor=\"middle\">Representation as trusteeship</text><text x=\"160\" y=\"183\" fill=\"#5d6474\" font-size=\"11\" text-anchor=\"middle\">↓</text><rect x=\"20\" y=\"184\" width=\"280\" height=\"32\" rx=\"8\" fill=\"#f1e4c6\" stroke=\"#a8792a\"/><text x=\"160\" y=\"205\" fill=\"#1d2433\" font-size=\"12\" text-anchor=\"middle\">Party as principle; empire as trust</text></svg>"
+  },
+  {
+   "tag": "Key idea",
+   "h": "Reflections on the Revolution in France (1790)",
+   "b": "<p>Burke attacked the Revolution for its <b>abstract rights, rationalism and violence</b>. Rights of men exist, but they are <b>'the rights of Englishmen'</b>: inherited and practical, not metaphysical. He feared the destruction of church, monarchy and property would yield terror and a military despot, a prophecy credited with Napoleon.</p><p>'Society is a partnership... between those who are living, those who are dead, and those who are to be born.'</p>"
+  },
+  {
+   "tag": "Key idea",
+   "h": "Prescription and reform",
+   "b": "<p>Institutions gain authority by long use (<b>prescription</b>). 'Prejudice' means stored wisdom, not mere bias. Change must come by <b>'preserving and improving'</b> what exists, as in the Glorious Revolution of 1688, which he praised as a conservative act. He backed the American colonists in 1775-83 because they defended their traditional liberties.</p>"
+  },
+  {
+   "tag": "Key idea",
+   "h": "Representation and party",
+   "b": "<p>In his <b>Speech to the Electors of Bristol</b> (1774), Burke held that an MP is a <b>trustee</b>, not a delegate: 'Your representative owes you not his industry only, but his judgment.' Parliament is a deliberative body for the whole nation.</p><p>In <i>Thoughts on the Cause of the Present Discontents</i> (1770) he defined party as 'a body of men united for promoting by their joint endeavours the national interest upon some particular principle'. This is an early defence of party as principled, not factional.</p>"
+  },
+  {
+   "tag": "Key idea",
+   "h": "Empire and Warren Hastings",
+   "b": "<p>Burke led the <b>impeachment of Warren Hastings</b>, Governor-General of Bengal (1773-85), tried before the House of Lords from 1788; Hastings was acquitted in 1795. Burke charged him with corruption and cruelty (Rohilla war, Chait Singh, Begums of Awadh) and argued that power over India was a <b>trust</b> held for Indians' welfare, answerable to a higher moral law. He also noted Indian civilisation had ancient laws and institutions that must be respected.</p>"
+  },
+  {
+   "tag": "Debate",
+   "h": "Critiques",
+   "b": "<ul><li><b>Paine</b>, <i>Rights of Man</i> (1791) and <b>Wollstonecraft</b>, <i>A Vindication of the Rights of Men</i> (1790): inherited privilege is injustice.</li><li>Tradition defends oppression such as slavery and caste.</li><li>His romance with chivalry and aristocracy was out of date.</li><li>Radicals: contradictory to back America but oppose France.</li><li>Defenders: a prophet of the dangers of ideological politics.</li></ul>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "Burke's place",
+   "b": "<p>He links Locke's liberty with later conservatives: Oakeshott, Hayek on 'spontaneous order' and Scruton. He is also quoted by those on the left for the defence of community. A Burkean can be a liberal, a Whig, or a traditionalist. Compare Rousseau's will and Bentham's calculus, which Burke would have called abstract.</p>"
+  },
+  {
+   "tag": "Indian angle",
+   "h": "Burke and India",
+   "b": "<p>Burke's Hastings speeches shaped the idea of <b>accountable empire</b>, later the Regulating Act (1773) and Pitt's India Act (1784) debates. Indian moderates like Dadabhai Naoroji and Gokhale used Burke's 'trust' idea to demand that British rule serve Indians. Constitution-makers' gradualism and the keeping of inherited institutions resemble Burkean caution.</p>"
+  },
+  {
+   "tag": "Exam lens",
+   "h": "How UPSC asks this",
+   "b": "<div class=\"box\">\"Examine Burke's critique of the French Revolution.\"</div><div class=\"box\">\"Distinguish trustee and delegate models with Burke.\"</div><div class=\"box\">\"Is Burke a conservative or a liberal?\"</div><p><b>Structure:</b> context, Reflections, tradition, representation, party, Hastings, critique, India.</p>",
+   "cls": "exam"
+  }
+ ],
+ "quiz": [
+  {
+   "q": "Burke's Reflections on the Revolution in France was published in…",
+   "o": [
+    "1790",
+    "1815",
+    "1848",
+    "1776"
+   ],
+   "a": 0,
+   "w": "1790."
+  },
+  {
+   "q": "Burke's Bristol speech of 1774 supported…",
+   "o": [
+    "Direct democracy",
+    "Referendum",
+    "Delegate model",
+    "Trustee model"
+   ],
+   "a": 3,
+   "w": "The representative uses own judgment."
+  },
+  {
+   "q": "Burke led the impeachment of…",
+   "o": [
+    "Wellesley",
+    "Robert Clive",
+    "Warren Hastings",
+    "Cornwallis"
+   ],
+   "a": 2,
+   "w": "Warren Hastings, 1788-95."
+  },
+  {
+   "q": "Rights of Man (1791) answers Burke and is by…",
+   "o": [
+    "Mill",
+    "Paine",
+    "Wollstonecraft",
+    "Godwin"
+   ],
+   "a": 1,
+   "w": "Thomas Paine."
+  },
+  {
+   "q": "Burke defined party in…",
+   "o": [
+    "Thoughts on the Cause of the Present Discontents",
+    "Reflections",
+    "Vindication of Natural Society",
+    "Letter to Sheriffs"
+   ],
+   "a": 0,
+   "w": "1770."
+  },
+  {
+   "q": "Burke supported the American colonists because…",
+   "o": [
+    "They were republicans",
+    "They were radicals",
+    "They opposed property",
+    "They defended traditional liberties"
+   ],
+   "a": 3,
+   "w": "A conservative defence of liberty."
+  },
+  {
+   "q": "Prescription means authority from…",
+   "o": [
+    "Force",
+    "Revelation",
+    "Long use and custom",
+    "Contract"
+   ],
+   "a": 2,
+   "w": "Time-tested institutions."
+  },
+  {
+   "q": "Burke saw society as…",
+   "o": [
+    "A machine",
+    "A partnership across generations",
+    "A market",
+    "A class war"
+   ],
+   "a": 1,
+   "w": "The dead, the living and the unborn."
+  },
+  {
+   "q": "Hastings was finally…",
+   "o": [
+    "Acquitted in 1795",
+    "Hanged",
+    "Convicted in 1790",
+    "Pardoned in 1800"
+   ],
+   "a": 0,
+   "w": "Acquitted."
+  },
+  {
+   "q": "Burke thought British power in India was a…",
+   "o": [
+    "Gift",
+    "Conquest only",
+    "Right",
+    "Trust"
+   ],
+   "a": 3,
+   "w": "Held for Indians' welfare."
+  }
+ ],
+ "sources": [
+  "Edmund Burke, Reflections on the Revolution in France (1790)",
+  "Edmund Burke, Speech to the Electors of Bristol (1774)",
+  "Edmund Burke, Thoughts on the Cause of the Present Discontents (1770)",
+  "Conor Cruise O'Brien, The Great Melody (1992)",
+  "PYQ themes: Burke, conservatism (Paper I)"
+ ],
+ "verified": "2026-11-12"
+}

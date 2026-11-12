@@ -1,0 +1,178 @@
+{
+ "id": "0-8-10",
+ "title": "Vivekananda",
+ "emoji": "🪷",
+ "cards": [
+  {
+   "tag": "Why this matters",
+   "h": "Spiritual nationalism and social service",
+   "b": "<p>Swami Vivekananda (1863-1902), Narendranath Datta before renunciation, was Ramakrishna Paramahamsa's disciple. He gave modern Hinduism a <b>confident, service-centred voice</b> and shaped the moral basis of Indian nationalism. UPSC asks about his Vedanta, nationalism, education and views on caste and religion.</p>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "The five key ideas",
+   "b": "<svg class=\"d\" viewBox=\"0 0 320 234\"><rect x=\"20\" y=\"8\" width=\"280\" height=\"32\" rx=\"8\" fill=\"#f1e4c6\" stroke=\"#a8792a\"/><text x=\"160\" y=\"29\" fill=\"#1d2433\" font-size=\"12\" text-anchor=\"middle\">Practical Vedanta: God is in every being</text><text x=\"160\" y=\"51\" fill=\"#5d6474\" font-size=\"11\" text-anchor=\"middle\">↓</text><rect x=\"20\" y=\"52\" width=\"280\" height=\"32\" rx=\"8\" fill=\"#dceaec\" stroke=\"#2f6f7a\"/><text x=\"160\" y=\"73\" fill=\"#1d2433\" font-size=\"12\" text-anchor=\"middle\">Service to man is service to God</text><text x=\"160\" y=\"95\" fill=\"#5d6474\" font-size=\"11\" text-anchor=\"middle\">↓</text><rect x=\"20\" y=\"96\" width=\"280\" height=\"32\" rx=\"8\" fill=\"#f1e4c6\" stroke=\"#a8792a\"/><text x=\"160\" y=\"117\" fill=\"#1d2433\" font-size=\"12\" text-anchor=\"middle\">Universality of all religions</text><text x=\"160\" y=\"139\" fill=\"#5d6474\" font-size=\"11\" text-anchor=\"middle\">↓</text><rect x=\"20\" y=\"140\" width=\"280\" height=\"32\" rx=\"8\" fill=\"#dceaec\" stroke=\"#2f6f7a\"/><text x=\"160\" y=\"161\" fill=\"#1d2433\" font-size=\"12\" text-anchor=\"middle\">Man-making education</text><text x=\"160\" y=\"183\" fill=\"#5d6474\" font-size=\"11\" text-anchor=\"middle\">↓</text><rect x=\"20\" y=\"184\" width=\"280\" height=\"32\" rx=\"8\" fill=\"#f1e4c6\" stroke=\"#a8792a\"/><text x=\"160\" y=\"205\" fill=\"#1d2433\" font-size=\"12\" text-anchor=\"middle\">Strength, fearlessness, spiritual nationalism</text></svg>"
+  },
+  {
+   "tag": "Key idea",
+   "h": "Practical Vedanta and Daridra Narayana",
+   "b": "<p>Advaita says the one Brahman is in all. Vivekananda gave this a social turn: since God is in every person, <b>serving the poor</b> (<i>daridra narayana</i>) is worship. He criticised priests who preach renunciation while the people starve: 'I do not believe in a religion that cannot wipe the widow's tears.'</p><p>The <b>Ramakrishna Mission</b> (1897) was built on this: relief, schools, hospitals.</p>"
+  },
+  {
+   "tag": "Key idea",
+   "h": "Chicago and universal religion",
+   "b": "<p>At the <b>Parliament of the World's Religions</b>, Chicago, 11 September 1893, he opened with 'Sisters and brothers of America' and spoke on tolerance and acceptance of all faiths, comparing religions to different rivers flowing to one sea. He rejected the claim of any one faith to be the only truth.</p><p>His book <i>Raja Yoga</i> (1896) and talks on Karma, Jnana and Bhakti yoga followed.</p>"
+  },
+  {
+   "tag": "Key idea",
+   "h": "Nationalism and strength",
+   "b": "<p>His nationalism is <b>cultural and spiritual</b>: India's mission is to give spiritual wisdom to the world, while learning science and organisation from the West. He urged youth: 'Arise, awake and stop not till the goal is reached' (adapted from the Katha Upanishad).</p><p>He praised physical strength: 'You will be nearer to heaven through football than through the Gita.' Aurobindo, Subhas Bose and many revolutionaries drew inspiration from him.</p>"
+  },
+  {
+   "tag": "Key idea",
+   "h": "Caste, women and the masses",
+   "b": "<p>He attacked <b>untouchability</b> ('don't-touchism') and priestly privilege, and called the neglect of the masses a national sin. He believed caste as it existed was a product of history that should be dissolved by uplifting the lowly rather than pulling down the upper. He predicted the rise of the Shudras and urged women's education: 'It is impossible to think of the welfare of the world unless the condition of women is improved.'</p>"
+  },
+  {
+   "tag": "Debate",
+   "h": "Critiques",
+   "b": "<ul><li>Dalit and anti-caste thinkers say he did not reject varna, only its abuses.</li><li>Neo-Hindu revivalism: used by Hindu nationalists, though he praised Islam's brotherhood.</li><li>Rationalists find his appeal to spirituality unscientific.</li><li>Supporters: a Vedantic humanist who put the poor first.</li></ul>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "Education",
+   "b": "<p>His definition: education is <b>'the manifestation of the perfection already in man'</b>. He wanted man-making education: character, strength of mind, independent thinking, combining Western science and Vedantic spirit. The idea shaped Gandhi's basic education and National Education movements (1905).</p>"
+  },
+  {
+   "tag": "Indian angle",
+   "h": "Relevance today",
+   "b": "<p>His birth date, 12 January, is observed as <b>National Youth Day</b> (since 1985). Ideas of service, volunteering and youth leadership feature in government schemes and ethics papers (GS Paper 4). The Ramakrishna Mission continues his work.</p>"
+  },
+  {
+   "tag": "Exam lens",
+   "h": "How UPSC asks this",
+   "b": "<div class=\"box\">\"Examine Vivekananda's concept of practical Vedanta.\"</div><div class=\"box\">\"Discuss Vivekananda's ideas on nationalism and social reform.\"</div><div class=\"box\">\"How relevant is Vivekananda's concept of education today?\"</div><p><b>Structure:</b> life, Vedanta and service, universal religion, nationalism, caste and women, education, critique.</p>",
+   "cls": "exam"
+  }
+ ],
+ "quiz": [
+  {
+   "q": "Vivekananda addressed the Parliament of Religions in…",
+   "o": [
+    "1885",
+    "1893",
+    "1897",
+    "1902"
+   ],
+   "a": 1,
+   "w": "Chicago, 11 September 1893."
+  },
+  {
+   "q": "The Ramakrishna Mission was founded in…",
+   "o": [
+    "1897",
+    "1905",
+    "1875",
+    "1893"
+   ],
+   "a": 0,
+   "w": "1897."
+  },
+  {
+   "q": "Daridra Narayana means…",
+   "o": [
+    "God of wealth",
+    "Poor priest",
+    "Rich God",
+    "God in the poor"
+   ],
+   "a": 3,
+   "w": "Serving the poor is serving God."
+  },
+  {
+   "q": "National Youth Day is observed on…",
+   "o": [
+    "5 September",
+    "2 October",
+    "12 January",
+    "15 August"
+   ],
+   "a": 2,
+   "w": "Vivekananda's birthday."
+  },
+  {
+   "q": "His guru was…",
+   "o": [
+    "Keshab Chandra Sen",
+    "Ramakrishna Paramahamsa",
+    "Ranade",
+    "Dayananda"
+   ],
+   "a": 1,
+   "w": "Ramakrishna."
+  },
+  {
+   "q": "Vivekananda defined education as manifestation of…",
+   "o": [
+    "Perfection already in man",
+    "Wealth",
+    "Skills",
+    "Knowledge"
+   ],
+   "a": 0,
+   "w": "Man-making education."
+  },
+  {
+   "q": "Which book is by Vivekananda?",
+   "o": [
+    "Gitanjali",
+    "Anandamath",
+    "Hind Swaraj",
+    "Raja Yoga"
+   ],
+   "a": 3,
+   "w": "Raja Yoga (1896)."
+  },
+  {
+   "q": "His phrase for untouchability was…",
+   "o": [
+    "Kuladharma",
+    "Sanskritisation",
+    "Don't-touchism",
+    "Pollution"
+   ],
+   "a": 2,
+   "w": "A critique of priestly ritualism."
+  },
+  {
+   "q": "His nationalism was mainly…",
+   "o": [
+    "Economic",
+    "Spiritual and cultural",
+    "Militarist",
+    "Racial"
+   ],
+   "a": 1,
+   "w": "India's spiritual mission."
+  },
+  {
+   "q": "He compared religions to…",
+   "o": [
+    "Rivers flowing to one sea",
+    "Walls",
+    "Stairs",
+    "Rivals"
+   ],
+   "a": 0,
+   "w": "A message of harmony."
+  }
+ ],
+ "sources": [
+  "Swami Vivekananda, Complete Works",
+  "Swami Vivekananda, Raja Yoga (1896)",
+  "Romain Rolland, The Life of Vivekananda (1930)",
+  "V.R. Mehta, Foundations of Indian Political Thought (1992)",
+  "PYQ themes: Vivekananda, Vedanta (Paper I)"
+ ],
+ "verified": "2026-11-12"
+}
