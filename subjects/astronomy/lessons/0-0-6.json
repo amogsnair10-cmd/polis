@@ -1,0 +1,176 @@
+{
+ "id": "0-0-6",
+ "title": "Light Pollution and Dark Skies",
+ "emoji": "🌃",
+ "cards": [
+  {
+   "tag": "Why this matters",
+   "h": "The Milky Way is disappearing",
+   "b": "<p>Light at night hides the stars. Most people on Earth can no longer see the Milky Way from home. A 2016 study estimated that more than a third of humanity cannot see it at all. Dark skies are a resource that is easy to lose and hard to get back.</p>"
+  },
+  {
+   "tag": "Concept",
+   "h": "Skyglow",
+   "b": "<p>Light shining upward, or sideways from badly shielded lamps, scatters off air molecules and dust. The sky above a city glows, and this <b>skyglow</b> drowns faint stars. A lamp that sends light only downward causes far less of it.</p><svg class=\"d\" viewBox=\"0 0 320 96\"><defs><marker id=\"ar3\" viewBox=\"0 0 10 10\" refX=\"9\" refY=\"5\" markerWidth=\"6\" markerHeight=\"6\" orient=\"auto\"><path d=\"M0 0L10 5L0 10z\" fill=\"#5d6474\"/></marker></defs><rect x=\"0.0\" y=\"18\" width=\"92\" height=\"56\" rx=\"6\" fill=\"#dceaec\" stroke=\"#2f6f7a\"/><text x=\"46.0\" y=\"43.5\" text-anchor=\"middle\" font-size=\"11\" fill=\"#1d2433\">Lamp points</text><text x=\"46.0\" y=\"56.5\" text-anchor=\"middle\" font-size=\"11\" fill=\"#1d2433\">up</text><line x1=\"94.0\" y1=\"46\" x2=\"112.0\" y2=\"46\" stroke=\"#5d6474\" stroke-width=\"1.5\" marker-end=\"url(#ar3)\"/><rect x=\"114.0\" y=\"18\" width=\"92\" height=\"56\" rx=\"6\" fill=\"#f1e4c6\" stroke=\"#a8792a\"/><text x=\"160.0\" y=\"43.5\" text-anchor=\"middle\" font-size=\"11\" fill=\"#1d2433\">Air scatters</text><text x=\"160.0\" y=\"56.5\" text-anchor=\"middle\" font-size=\"11\" fill=\"#1d2433\">light</text><line x1=\"208.0\" y1=\"46\" x2=\"226.0\" y2=\"46\" stroke=\"#5d6474\" stroke-width=\"1.5\" marker-end=\"url(#ar3)\"/><rect x=\"228.0\" y=\"18\" width=\"92\" height=\"56\" rx=\"6\" fill=\"#f4dcd5\" stroke=\"#a3362a\"/><text x=\"274.0\" y=\"43.5\" text-anchor=\"middle\" font-size=\"11\" fill=\"#1d2433\">Skyglow hides</text><text x=\"274.0\" y=\"56.5\" text-anchor=\"middle\" font-size=\"11\" fill=\"#1d2433\">stars</text></svg>"
+  },
+  {
+   "tag": "Concept",
+   "h": "The Bortle scale",
+   "b": "<p>John Bortle devised a 1 to 9 scale in 2001 for how dark a site is. Class 1 is a pristine dark sky where the Milky Way casts shadows. Class 9 is inner-city sky, where only a few bright stars and planets show. Most people in cities live under Bortle 7 to 9 skies, where the Milky Way is hidden.</p>"
+  },
+  {
+   "tag": "Concept",
+   "h": "Satellite views of night",
+   "b": "<p>Satellites with sensitive cameras, such as the VIIRS instrument on Suomi NPP, map the brightness of Earth's night. Bright regions line up with cities, highways and coasts. Europe and North America are the most lit, and the maps change year to year as lighting is replaced.</p>"
+  },
+  {
+   "tag": "Concept",
+   "h": "It harms more than astronomy",
+   "b": "<p>Artificial light changes the sleep cycle of humans by suppressing melatonin, and it confuses migrating birds, turtles that hatch on beaches, and insects that navigate by the Moon. Shielded, warm-coloured lamps cut many of these effects. Sea turtle hatchlings crawl toward bright horizons, away from the sea, when beach lights are on.</p>"
+  },
+  {
+   "tag": "Concept",
+   "h": "Protecting a sky",
+   "b": "<p>The International Dark-Sky Association, founded in 1988, certifies dark-sky places and promotes good lighting. Local councils can adopt fully shielded street lamps, switch off decorative lights at night, and set limits on the colour and timing of light. Warm-coloured lamps scatter less blue light than cold white LEDs, which is why many dark-sky guidelines recommend them.</p>"
+  },
+  {
+   "tag": "How we know",
+   "h": "Measuring the brightness of night",
+   "b": "<p>Astronomers count naked-eye stars in a fixed patch of sky, and use sky-brightness meters that report readings in magnitudes per square arcsecond. Satellite mapping and ground surveys agree in broad terms, so the trend of spreading light is well supported. Satellite and ground surveys broadly agree, though the exact numbers differ by method and year.</p>"
+  },
+  {
+   "tag": "Misconceptions",
+   "h": "Watch out",
+   "b": "<ul><li><b>'Only astronomers care about light pollution.'</b> It affects wildlife and human health.</li><li><b>'Bright lights make us safer at night.'</b> Glare can reduce visibility; good shielding works better.</li><li><b>'Dark skies cannot exist near towns.'</b> Good shielding and dimmer light can improve a town's night sky.</li></ul> A dim, shielded light usually lights the ground better than a glaring bulb that dazzles the eye."
+  },
+  {
+   "tag": "Indian angle",
+   "h": "Hanle in Ladakh",
+   "b": "<p>The Hanle Dark Sky Reserve in Ladakh, home to the Indian Astronomical Observatory at high altitude, was recognised by the International Dark-Sky Association in 2022. Its thin air, low humidity and remote location make it one of the best sites for observing in India. Protecting such a site means controlling lamps and setting lighting rules for the villages nearby.</p>"
+  },
+  {
+   "tag": "Recap",
+   "h": "Key takeaways",
+   "b": "<ul><li>Skyglow scatters upward light and hides stars.</li><li>The Bortle scale rates sites from 1 (darkest) to 9.</li><li>Satellites map night-time light across the planet.</li><li>Light pollution harms wildlife and sleep, not only astronomy.</li></ul><p><b>Think about it:</b> (1) Why does a fully shielded lamp help the sky more than a dim, unshielded one? (2) What would your own street look like on a Bortle scale?</p>",
+   "cls": "exam"
+  }
+ ],
+ "quiz": [
+  {
+   "q": "The Bortle scale runs from 1 to 9. Which is the darkest?",
+   "o": [
+    "9",
+    "5",
+    "1",
+    "0"
+   ],
+   "a": 2,
+   "w": "Class 1 is the darkest."
+  },
+  {
+   "q": "Skyglow is caused by:",
+   "o": [
+    "Stars",
+    "Upward and scattered artificial light",
+    "Lightning",
+    "The aurora"
+   ],
+   "a": 1,
+   "w": "Scattered artificial light."
+  },
+  {
+   "q": "The International Dark-Sky Association was founded in:",
+   "o": [
+    "1968",
+    "1988",
+    "2001",
+    "2016"
+   ],
+   "a": 1,
+   "w": "Founded 1988."
+  },
+  {
+   "q": "John Bortle proposed his scale in:",
+   "o": [
+    "1957",
+    "1988",
+    "2001",
+    "2016"
+   ],
+   "a": 2,
+   "w": "Proposed in 2001."
+  },
+  {
+   "q": "Which instrument on Suomi NPP maps night-time light?",
+   "o": [
+    "VIIRS",
+    "Gaia",
+    "Kepler",
+    "Chandra"
+   ],
+   "a": 0,
+   "w": "VIIRS."
+  },
+  {
+   "q": "Artificial light at night can suppress which hormone in humans?",
+   "o": [
+    "Insulin",
+    "Melatonin",
+    "Adrenaline",
+    "Thyroxine"
+   ],
+   "a": 1,
+   "w": "Melatonin."
+  },
+  {
+   "q": "Which lamp design helps most?",
+   "o": [
+    "Bare bulbs facing up",
+    "Fully shielded downward lamps",
+    "Flashing lights",
+    "Floodlights"
+   ],
+   "a": 1,
+   "w": "Shielding stops upward light."
+  },
+  {
+   "q": "Turtles that hatch on beaches can be confused by:",
+   "o": [
+    "Low tides",
+    "Coastal lights",
+    "Warm sand",
+    "Rain"
+   ],
+   "a": 1,
+   "w": "Lights draw hatchlings inland."
+  },
+  {
+   "q": "Light pollution is best described as:",
+   "o": [
+    "A purely night-time problem for stargazers",
+    "Artificial light that spoils natural darkness",
+    "Only a city noise problem",
+    "A kind of fog"
+   ],
+   "a": 1,
+   "w": "Excess artificial light spoils darkness."
+  },
+  {
+   "q": "Dark-sky reserves in India include a site in which region?",
+   "o": [
+    "Ladakh",
+    "Kerala coast",
+    "Thar desert only",
+    "Assam plains"
+   ],
+   "a": 0,
+   "w": "Hanle, Ladakh."
+  }
+ ],
+ "sources": [
+  "Falchi et al., Science Advances 2016 (light pollution map)",
+  "Bortle scale, Sky and Telescope 2001",
+  "International Dark-Sky Association"
+ ],
+ "verified": "2026-11-12"
+}

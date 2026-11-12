@@ -1,0 +1,176 @@
+{
+ "id": "0-1-3",
+ "title": "X-Rays: Seeing the Violent Universe",
+ "emoji": "☢️",
+ "cards": [
+  {
+   "tag": "Why this matters",
+   "h": "The hot and the violent",
+   "b": "<p>Gas heated to millions of degrees, black hole discs and dead stars can glow in X-rays. A telescope that sees only visible light misses these violent processes. X-ray astronomy reveals where energy is released most fiercely in the universe. Gas in the Sun's corona is itself millions of degrees hot, and it glows in soft X-rays that Earth-based telescopes cannot see.</p>"
+  },
+  {
+   "tag": "Concept",
+   "h": "X-rays cannot reach the ground",
+   "b": "<p>The atmosphere absorbs X-rays strongly. So X-ray astronomy began in 1949 with instruments on rockets, and later moved to satellites above the air. Every X-ray telescope must fly, and this makes each mission costly and carefully planned.</p><svg class=\"d\" viewBox=\"0 0 320 96\"><defs><marker id=\"ar2\" viewBox=\"0 0 10 10\" refX=\"9\" refY=\"5\" markerWidth=\"6\" markerHeight=\"6\" orient=\"auto\"><path d=\"M0 0L10 5L0 10z\" fill=\"#5d6474\"/></marker></defs><rect x=\"0.0\" y=\"18\" width=\"92\" height=\"56\" rx=\"6\" fill=\"#dceaec\" stroke=\"#2f6f7a\"/><text x=\"46.0\" y=\"43.5\" text-anchor=\"middle\" font-size=\"11\" fill=\"#1d2433\">X-rays</text><text x=\"46.0\" y=\"56.5\" text-anchor=\"middle\" font-size=\"11\" fill=\"#1d2433\">blocked</text><line x1=\"94.0\" y1=\"46\" x2=\"112.0\" y2=\"46\" stroke=\"#5d6474\" stroke-width=\"1.5\" marker-end=\"url(#ar2)\"/><rect x=\"114.0\" y=\"18\" width=\"92\" height=\"56\" rx=\"6\" fill=\"#f1e4c6\" stroke=\"#a8792a\"/><text x=\"160.0\" y=\"43.5\" text-anchor=\"middle\" font-size=\"11\" fill=\"#1d2433\">Rocket or</text><text x=\"160.0\" y=\"56.5\" text-anchor=\"middle\" font-size=\"11\" fill=\"#1d2433\">satellite</text><line x1=\"208.0\" y1=\"46\" x2=\"226.0\" y2=\"46\" stroke=\"#5d6474\" stroke-width=\"1.5\" marker-end=\"url(#ar2)\"/><rect x=\"228.0\" y=\"18\" width=\"92\" height=\"56\" rx=\"6\" fill=\"#f4dcd5\" stroke=\"#a3362a\"/><text x=\"274.0\" y=\"43.5\" text-anchor=\"middle\" font-size=\"11\" fill=\"#1d2433\">Sources</text><text x=\"274.0\" y=\"56.5\" text-anchor=\"middle\" font-size=\"11\" fill=\"#1d2433\">mapped</text></svg>"
+  },
+  {
+   "tag": "Concept",
+   "h": "The first cosmic X-ray source",
+   "b": "<p>In 1962 a rocket experiment led by Riccardo Giacconi found an X-ray source in the constellation Scorpius, named Scorpius X-1. It was the first X-ray source found outside the Sun. Giacconi shared the 2002 Nobel Prize in Physics for X-ray astronomy. Scorpius X-1 is a neutron star in a binary system, and its X-rays come from gas falling onto it from its companion.</p>"
+  },
+  {
+   "tag": "Concept",
+   "h": "Mirrors that graze",
+   "b": "<p>X-rays hit ordinary mirrors and pass straight through. X-ray telescopes use <b>grazing incidence</b> mirrors: nested cylinders of metal that bend X-rays with a shallow angle, like skipping a stone. Chandra and XMM-Newton both use this design. The mirror shells are coated with heavy metals such as iridium or gold, so they reflect X-rays at grazing angles.</p>"
+  },
+  {
+   "tag": "Concept",
+   "h": "Where X-rays come from",
+   "b": "<p>Hot gas in galaxy clusters, matter spiralling into black holes, and neutron stars all glow in X-rays. Each source tells a different story about temperature and density. Mapping the sky in X-rays shows the hottest and most energetic regions. Hot cluster gas glows at tens of millions of degrees, far too hot to show up as ordinary visible light.</p>"
+  },
+  {
+   "tag": "Concept",
+   "h": "Chandra and XMM-Newton",
+   "b": "<p>NASA's Chandra X-ray Observatory was launched in 1999 and is named after the Indian-born astrophysicist Subrahmanyan Chandrasekhar. ESA's XMM-Newton was launched in the same year. Together they have studied galaxies, supernova remnants and black holes for over two decades. Chandra follows a high, elliptical orbit, which keeps it above most of the radiation belts for long periods.</p>"
+  },
+  {
+   "tag": "How we know",
+   "h": "Counting photons",
+   "b": "<p>An X-ray telescope counts single photons, measuring their energies and arrival times. Energies reveal the temperature of the gas, and the numbers of photons reveal how much is there. Scientists fit these spectra with physical models to find the conditions in the source.</p>"
+  },
+  {
+   "tag": "Misconceptions",
+   "h": "Watch out",
+   "b": "<ul><li><b>'X-ray telescopes are just cameras with filters.'</b> They need special mirrors.</li><li><b>'X-rays from space reach us easily.'</b> The atmosphere blocks them, which is why we fly telescopes.</li><li><b>'Every X-ray source is a black hole.'</b> Neutron stars and hot gas also emit them.</li></ul> Many X-ray sources are named but not confirmed black holes, so astronomers check each one's mass and spectrum."
+  },
+  {
+   "tag": "Indian angle",
+   "h": "Chandrasekhar and Chandra",
+   "b": "<p>Subrahmanyan Chandrasekhar was born in Lahore in 1910 and worked in Madras before moving abroad. His 1930 calculation of a white dwarf mass limit, now the Chandrasekhar limit of about 1.4 times the Sun's mass, underlies much of modern astrophysics. Naming Chandra after him honoured this Indian-born scientist.</p>"
+  },
+  {
+   "tag": "Recap",
+   "h": "Key takeaways",
+   "b": "<ul><li>The atmosphere blocks X-rays, so telescopes must fly.</li><li>Scorpius X-1 in 1962 was the first cosmic X-ray source found.</li><li>X-ray telescopes use grazing mirrors.</li><li>Chandra is named after Chandrasekhar.</li></ul><p><b>Think about it:</b> (1) Why do ordinary mirrors fail for X-rays? (2) What would the hot gas in a galaxy cluster look like to your eyes compared with an X-ray telescope?</p>",
+   "cls": "exam"
+  }
+ ],
+ "quiz": [
+  {
+   "q": "The Earth's atmosphere does what to X-rays?",
+   "o": [
+    "Amplifies them",
+    "Absorbs them strongly",
+    "Bends them into visible light",
+    "Ignores them"
+   ],
+   "a": 1,
+   "w": "It absorbs them."
+  },
+  {
+   "q": "The first cosmic X-ray source was found in:",
+   "o": [
+    "1932",
+    "1949",
+    "1962",
+    "1999"
+   ],
+   "a": 2,
+   "w": "1962, with a rocket experiment."
+  },
+  {
+   "q": "Scorpius X-1 was the first X-ray source found outside:",
+   "o": [
+    "The Moon",
+    "The Sun",
+    "Jupiter",
+    "The Milky Way core"
+   ],
+   "a": 1,
+   "w": "The Sun."
+  },
+  {
+   "q": "Grazing incidence mirrors work by:",
+   "o": [
+    "Absorbing X-rays",
+    "Bending X-rays at shallow angles",
+    "Spinning fast",
+    "Cooling the light"
+   ],
+   "a": 1,
+   "w": "Shallow angles."
+  },
+  {
+   "q": "Chandra X-ray Observatory was launched in:",
+   "o": [
+    "1979",
+    "1989",
+    "1999",
+    "2009"
+   ],
+   "a": 2,
+   "w": "1999."
+  },
+  {
+   "q": "Chandra is named after:",
+   "o": [
+    "Chandrasekhar",
+    "Chandragupta",
+    "Chandrayaan",
+    "Chandra Bose"
+   ],
+   "a": 0,
+   "w": "Subrahmanyan Chandrasekhar."
+  },
+  {
+   "q": "Which is an X-ray source?",
+   "o": [
+    "Hot gas in a galaxy cluster",
+    "Dark matter halo only",
+    "Cold dust cloud",
+    "Sunspot"
+   ],
+   "a": 0,
+   "w": "Hot cluster gas."
+  },
+  {
+   "q": "Giacconi shared the 2002 Nobel Prize in:",
+   "o": [
+    "Chemistry",
+    "Physics",
+    "Medicine",
+    "Peace"
+   ],
+   "a": 1,
+   "w": "Physics."
+  },
+  {
+   "q": "Chandrasekhar's limit is about how many solar masses?",
+   "o": [
+    "0.1",
+    "1.4",
+    "10",
+    "100"
+   ],
+   "a": 1,
+   "w": "About 1.4."
+  },
+  {
+   "q": "X-ray telescopes count:",
+   "o": [
+    "Colours",
+    "Single photons",
+    "Radio pulses",
+    "Gravitational waves"
+   ],
+   "a": 1,
+   "w": "Single photons and their energies."
+  }
+ ],
+ "sources": [
+  "Giacconi et al. 1962 rocket detection",
+  "NASA Chandra; ESA XMM-Newton (1999)",
+  "Chandrasekhar 1930 white dwarf limit"
+ ],
+ "verified": "2026-11-12"
+}

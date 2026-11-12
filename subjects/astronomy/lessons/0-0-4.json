@@ -1,0 +1,176 @@
+{
+ "id": "0-0-4",
+ "title": "How to Stargaze: Sky Maps and Naked-Eye Observing",
+ "emoji": "🌌",
+ "cards": [
+  {
+   "tag": "Why this matters",
+   "h": "You need no telescope to start",
+   "b": "<p>From one dark spot, your naked eye can see roughly 2,500 stars, plus planets and the Milky Way as a faint band. Learning to find things is a skill, and it is the first step in astronomy that costs nothing. The sky also teaches rhythm: stars rise about four minutes earlier each night, so the same constellations return at the same time each season.</p>"
+  },
+  {
+   "tag": "Concept",
+   "h": "Give your eyes 20 to 30 minutes",
+   "b": "<p>Your pupils open slowly in the dark. Full <b>dark adaptation</b> takes about 20 to 30 minutes. Phone screens and car lights reset it at once. Use a red torch: the rods in your eye that see faint light are almost blind to red. Light well above 600 nanometres, which looks red to us, barely affects dark-adapted rods.</p>"
+  },
+  {
+   "tag": "Concept",
+   "h": "Look slightly to the side",
+   "b": "<p>The centre of your retina is best for colour and detail, but it is poor at faint light. The outer retina has more rods. So a faint star often vanishes when you stare at it and reappears when you look a little to one side. This is <b>averted vision</b>.</p>"
+  },
+  {
+   "tag": "Concept",
+   "h": "Find the north with the Big Dipper",
+   "b": "<p>The two end stars of the Big Dipper’s bowl, called the pointers, line up with <b>Polaris</b>, the North Star. The distance from the pointers to Polaris is about five times the gap between the pointers. Polaris sits within about one degree of the north celestial pole, so it barely moves.</p><svg class=\"d\" viewBox=\"0 0 320 96\"><defs><marker id=\"ar1\" viewBox=\"0 0 10 10\" refX=\"9\" refY=\"5\" markerWidth=\"6\" markerHeight=\"6\" orient=\"auto\"><path d=\"M0 0L10 5L0 10z\" fill=\"#5d6474\"/></marker></defs><rect x=\"0.0\" y=\"18\" width=\"92\" height=\"56\" rx=\"6\" fill=\"#dceaec\" stroke=\"#2f6f7a\"/><text x=\"46.0\" y=\"50.0\" text-anchor=\"middle\" font-size=\"11\" fill=\"#1d2433\">Pointer stars</text><line x1=\"94.0\" y1=\"46\" x2=\"112.0\" y2=\"46\" stroke=\"#5d6474\" stroke-width=\"1.5\" marker-end=\"url(#ar1)\"/><rect x=\"114.0\" y=\"18\" width=\"92\" height=\"56\" rx=\"6\" fill=\"#f1e4c6\" stroke=\"#a8792a\"/><text x=\"160.0\" y=\"50.0\" text-anchor=\"middle\" font-size=\"11\" fill=\"#1d2433\">Polaris</text><line x1=\"208.0\" y1=\"46\" x2=\"226.0\" y2=\"46\" stroke=\"#5d6474\" stroke-width=\"1.5\" marker-end=\"url(#ar1)\"/><rect x=\"228.0\" y=\"18\" width=\"92\" height=\"56\" rx=\"6\" fill=\"#f4dcd5\" stroke=\"#a3362a\"/><text x=\"274.0\" y=\"50.0\" text-anchor=\"middle\" font-size=\"11\" fill=\"#1d2433\">North</text></svg>"
+  },
+  {
+   "tag": "Concept",
+   "h": "Planets and stars behave differently",
+   "b": "<p>Stars twinkle because their light is bent by turbulent air. Planets look like tiny discs, so the air evens out their light and they shine steadily. Planets also wander slowly against the background stars over weeks. A sky app, or a paper planisphere set to your date and time, shows you which is which.</p>"
+  },
+  {
+   "tag": "Concept",
+   "h": "Choose your night",
+   "b": "<p>A Moon-free night is best for faint objects like the Milky Way. The Milky Way’s bright core is best seen from the northern hemisphere in the warm months, when it rises high in the south. Check the Moon phase and the weather before you go.</p>"
+  },
+  {
+   "tag": "How we know",
+   "h": "Ancient star maps",
+   "b": "<p>Hipparchus, working in the 2nd century BCE, made a star catalogue that is now lost, but his work survives in later copies. Ptolemy’s <i>Almagest</i>, written around 150 CE, lists 1,022 stars. Star maps have always been built by careful naked-eye observation. Galileo's telescope resolved the Milky Way into countless faint stars in 1610, confirming what Ptolemy had seen as a glow.</p>"
+  },
+  {
+   "tag": "Misconceptions",
+   "h": "Watch out",
+   "b": "<ul><li><b>'Stars twinkle because they are small.'</b> Twinkling comes from our atmosphere.</li><li><b>'Polaris is the brightest star.'</b> It is only moderately bright. Sirius is the brightest night star.</li><li><b>'You need a telescope to see anything.'</b> Most of the best sky is visible by eye.</li></ul> Planets also keep to a narrow band across the sky called the ecliptic, so checking that band helps you spot them."
+  },
+  {
+   "tag": "Indian angle",
+   "h": "Dhruva and the Saptarishi",
+   "b": "<p>In Indian tradition the fixed pole star is <b>Dhruva</b>, and the seven sages are the <b>Saptarishi</b>, the stars of the Big Dipper. Indian astronomy also divided the Moon's path into 27 <b>nakshatras</b>, lunar mansions that were used to track time and the Moon's position. You can still find these from a dark terrace.</p>"
+  },
+  {
+   "tag": "Recap",
+   "h": "Key takeaways",
+   "b": "<ul><li>Dark adaptation takes 20 to 30 minutes; use red light.</li><li>Averted vision helps you see faint objects.</li><li>Pointer stars lead you to Polaris.</li><li>Planets do not twinkle; stars do.</li></ul><p><b>Think about it:</b> (1) Why does a bright city street hide the Milky Way? (2) Why is Polaris a useful reference only from the northern sky?</p>",
+   "cls": "exam"
+  }
+ ],
+ "quiz": [
+  {
+   "q": "How long does full dark adaptation of the eye take, roughly?",
+   "o": [
+    "2 to 3 minutes",
+    "20 to 30 minutes",
+    "2 hours",
+    "Instantly"
+   ],
+   "a": 1,
+   "w": "About 20 to 30 minutes."
+  },
+  {
+   "q": "Which colour of torch best protects night vision?",
+   "o": [
+    "Blue",
+    "White",
+    "Red",
+    "Green"
+   ],
+   "a": 2,
+   "w": "Rods are almost blind to red."
+  },
+  {
+   "q": "Averted vision works because:",
+   "o": [
+    "Stars move",
+    "Rods are at the retina edge",
+    "Light is polarised",
+    "Air is clearer"
+   ],
+   "a": 1,
+   "w": "The outer retina has more rods."
+  },
+  {
+   "q": "The Big Dipper pointer stars lead to:",
+   "o": [
+    "Sirius",
+    "Vega",
+    "Polaris",
+    "Betelgeuse"
+   ],
+   "a": 2,
+   "w": "Polaris, the North Star."
+  },
+  {
+   "q": "Why do stars twinkle?",
+   "o": [
+    "They pulse",
+    "Air turbulence bends their light",
+    "They are very small",
+    "Dust blocks them"
+   ],
+   "a": 1,
+   "w": "Turbulent air bends the light."
+  },
+  {
+   "q": "Planets look steadier than stars because they:",
+   "o": [
+    "Are brighter",
+    "Look like small discs",
+    "Are closer to Earth",
+    "Give off radio waves"
+   ],
+   "a": 1,
+   "w": "Discs average out the turbulence."
+  },
+  {
+   "q": "Best time for faint sky objects like the Milky Way:",
+   "o": [
+    "Full Moon",
+    "Moon-free night",
+    "Noon",
+    "Solar eclipse"
+   ],
+   "a": 1,
+   "w": "Moonlight washes out faint light."
+  },
+  {
+   "q": "Ptolemy's star catalogue, the Almagest, lists about:",
+   "o": [
+    "200 stars",
+    "1,022 stars",
+    "10,000 stars",
+    "50 stars"
+   ],
+   "a": 1,
+   "w": "About 1,022 stars."
+  },
+  {
+   "q": "Which Indian term names the 27 lunar mansions?",
+   "o": [
+    "Rashi",
+    "Nakshatra",
+    "Yuga",
+    "Tithi"
+   ],
+   "a": 1,
+   "w": "Nakshatras divide the Moon's path."
+  },
+  {
+   "q": "Which is the brightest star in the night sky?",
+   "o": [
+    "Polaris",
+    "Sirius",
+    "Vega",
+    "Arcturus"
+   ],
+   "a": 1,
+   "w": "Sirius, at magnitude about -1.5."
+  }
+ ],
+ "sources": [
+  "Hipparchus and Ptolemy star catalogues",
+  "Ptolemy, Almagest",
+  "Indian nakshatra tradition"
+ ],
+ "verified": "2026-11-12"
+}

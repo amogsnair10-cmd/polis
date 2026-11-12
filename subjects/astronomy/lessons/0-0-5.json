@@ -1,0 +1,176 @@
+{
+ "id": "0-0-5",
+ "title": "Astrophotography Basics",
+ "emoji": "📷",
+ "cards": [
+  {
+   "tag": "Why this matters",
+   "h": "Photos show what eyes cannot",
+   "b": "<p>Your eye collects very little light, so it cannot see colours or faint nebulae well. A camera can collect light for minutes. That is why almost every famous sky picture is a long exposure, and why learning the basics makes you a better observer too.</p>"
+  },
+  {
+   "tag": "Concept",
+   "h": "Exposure and the sky's motion",
+   "b": "<p>The sky turns about 15 degrees every hour because Earth rotates. A long exposure of stars on a fixed tripod therefore shows trails. The <b>500 rule</b> is a rough guide: divide 500 by your lens focal length in millimetres to get the longest exposure in seconds before trails appear.</p><svg class=\"d\" viewBox=\"0 0 320 96\"><defs><marker id=\"ar2\" viewBox=\"0 0 10 10\" refX=\"9\" refY=\"5\" markerWidth=\"6\" markerHeight=\"6\" orient=\"auto\"><path d=\"M0 0L10 5L0 10z\" fill=\"#5d6474\"/></marker></defs><rect x=\"0.0\" y=\"18\" width=\"92\" height=\"56\" rx=\"6\" fill=\"#dceaec\" stroke=\"#2f6f7a\"/><text x=\"46.0\" y=\"43.5\" text-anchor=\"middle\" font-size=\"11\" fill=\"#1d2433\">Sky turns</text><text x=\"46.0\" y=\"56.5\" text-anchor=\"middle\" font-size=\"11\" fill=\"#1d2433\">15°/hour</text><line x1=\"94.0\" y1=\"46\" x2=\"112.0\" y2=\"46\" stroke=\"#5d6474\" stroke-width=\"1.5\" marker-end=\"url(#ar2)\"/><rect x=\"114.0\" y=\"18\" width=\"92\" height=\"56\" rx=\"6\" fill=\"#f1e4c6\" stroke=\"#a8792a\"/><text x=\"160.0\" y=\"50.0\" text-anchor=\"middle\" font-size=\"11\" fill=\"#1d2433\">Long exposure</text><line x1=\"208.0\" y1=\"46\" x2=\"226.0\" y2=\"46\" stroke=\"#5d6474\" stroke-width=\"1.5\" marker-end=\"url(#ar2)\"/><rect x=\"228.0\" y=\"18\" width=\"92\" height=\"56\" rx=\"6\" fill=\"#f4dcd5\" stroke=\"#a3362a\"/><text x=\"274.0\" y=\"43.5\" text-anchor=\"middle\" font-size=\"11\" fill=\"#1d2433\">Trails if too</text><text x=\"274.0\" y=\"56.5\" text-anchor=\"middle\" font-size=\"11\" fill=\"#1d2433\">long</text></svg>"
+  },
+  {
+   "tag": "Concept",
+   "h": "Stacking many short shots",
+   "b": "<p>Each short exposure carries random noise. Averaging many frames cancels that noise, roughly in proportion to the square root of the number of frames. Astronomers call this <b>stacking</b>. Professional images are made this way, with hundreds of frames combined. Stacking also lets software reject satellite trails and hot pixels, which appear in only some of the frames.</p>"
+  },
+  {
+   "tag": "Concept",
+   "h": "Tracking the motion",
+   "b": "<p>A small motorised mount that turns at the sidereal rate cancels Earth's rotation. This lets exposures run for many minutes without trails. Equatorial mounts are built with their axis parallel to Earth's, pointing at the celestial pole. Many amateurs use a simple equatorial mount because it turns about one axis, which keeps stars fixed in the frame.</p>"
+  },
+  {
+   "tag": "Concept",
+   "h": "Colour is added later",
+   "b": "<p>Many deep-sky pictures are taken through filters that pass one glowing gas at a time, such as hydrogen-alpha red. The images are then combined, and colours are chosen to show different gases. Hubble's famous pictures use this same approach, so many \"colours\" are assigned. Hubble images are often released in false colour, and the colour choice is both a scientific and an artistic decision.</p>"
+  },
+  {
+   "tag": "Concept",
+   "h": "Settings to start with",
+   "b": "<p>Use a wide lens, a fast aperture around f/2.8, a high ISO such as 1600 to 3200, and manual focus set on a bright star. Shoot raw files so you keep the faint detail. Keep batteries warm in cold nights, because cold drains them fast.</p>"
+  },
+  {
+   "tag": "How we know",
+   "h": "How the first sky photos worked",
+   "b": "<p>In 1880, Henry Draper photographed the Orion Nebula with a long exposure, one of the first astronomical photographs of a nebula. Photographic plates, not eyes, revealed many faint objects for the first time, and they were measured for decades before digital sensors took over. Those plates recorded faint stars that eyes could not hold, and some of the early records they made of changing stars are still used.</p>"
+  },
+  {
+   "tag": "Misconceptions",
+   "h": "Watch out",
+   "b": "<ul><li><b>'A phone photo of the Moon is useless.'</b> It is a fine start; the Moon is bright enough for short exposures.</li><li><b>'More megapixels make better sky photos.'</b> Light collected and dark current matter more.</li><li><b>'Pictures show the real colours.'</b> Most deep-sky colours are assigned by the photographer.</li></ul>"
+  },
+  {
+   "tag": "Indian angle",
+   "h": "Indian sky imaging",
+   "b": "<p>The Indian Institute of Astrophysics runs the <b>Himalayan Chandra Telescope</b> (2.01 m) at Hanle in Ladakh, where high, dry, dark skies give sharp images. Amateur clubs across India share astrophotos through national astronomy societies, and many students now start with a basic camera and a tripod.</p>"
+  },
+  {
+   "tag": "Recap",
+   "h": "Key takeaways",
+   "b": "<ul><li>Long exposures collect light the eye cannot.</li><li>The 500 rule limits trails for untracked shots.</li><li>Stacking many frames cuts random noise.</li><li>Deep-sky colours are often assigned from filtered data.</li></ul><p><b>Think about it:</b> (1) Why does tracking matter more for longer lenses? (2) What is lost if you shoot in a compressed format?</p>",
+   "cls": "exam"
+  }
+ ],
+ "quiz": [
+  {
+   "q": "Earth turns the sky by about how many degrees per hour?",
+   "o": [
+    "1",
+    "15",
+    "60",
+    "360"
+   ],
+   "a": 1,
+   "w": "Earth turns 15 degrees per hour."
+  },
+  {
+   "q": "The 500 rule divides 500 by what?",
+   "o": [
+    "Aperture",
+    "Focal length in mm",
+    "ISO",
+    "Shutter count"
+   ],
+   "a": 1,
+   "w": "Focal length gives the longest exposure in seconds."
+  },
+  {
+   "q": "Stacking many frames mainly reduces:",
+   "o": [
+    "Star distance",
+    "Random noise",
+    "Colour",
+    "Focus"
+   ],
+   "a": 1,
+   "w": "Averaging cancels random noise."
+  },
+  {
+   "q": "A sidereal tracking mount is used to:",
+   "o": [
+    "Warm the camera",
+    "Cancel Earth's rotation",
+    "Increase ISO",
+    "Zoom"
+   ],
+   "a": 1,
+   "w": "It cancels the sky's apparent motion."
+  },
+  {
+   "q": "Hydrogen-alpha filters pass which colour?",
+   "o": [
+    "Blue",
+    "Green",
+    "Red",
+    "Violet"
+   ],
+   "a": 2,
+   "w": "Hydrogen-alpha is a red line."
+  },
+  {
+   "q": "Which lens setting lets in the most light?",
+   "o": [
+    "f/16",
+    "f/8",
+    "f/2.8",
+    "f/22"
+   ],
+   "a": 2,
+   "w": "Smaller f-number is wider aperture."
+  },
+  {
+   "q": "Raw files help because they keep:",
+   "o": [
+    "Less data",
+    "Faint detail",
+    "Smaller size only",
+    "Colour fixed"
+   ],
+   "a": 1,
+   "w": "Raw keeps detail for processing."
+  },
+  {
+   "q": "Photographic plates were used in the 1880s to photograph:",
+   "o": [
+    "The Moon only",
+    "The Orion Nebula",
+    "Jupiter's rings",
+    "The Sun's corona only"
+   ],
+   "a": 1,
+   "w": "Henry Draper imaged the Orion Nebula."
+  },
+  {
+   "q": "Cold weather is a problem for camera use because it:",
+   "o": [
+    "Fogs lenses",
+    "Drains batteries fast",
+    "Makes stars brighter",
+    "Stops tracking"
+   ],
+   "a": 1,
+   "w": "Cold drains batteries."
+  },
+  {
+   "q": "Most deep-sky colours in pictures are:",
+   "o": [
+    "Always real",
+    "Assigned by the photographer",
+    "Copied from paintings",
+    "Measured by eye"
+   ],
+   "a": 1,
+   "w": "Colours are often chosen from filtered data."
+  }
+ ],
+ "sources": [
+  "Earth rotation rate",
+  "Henry Draper, Orion Nebula photograph (1880)",
+  "Indian Institute of Astrophysics, Himalayan Chandra Telescope"
+ ],
+ "verified": "2026-11-12"
+}
