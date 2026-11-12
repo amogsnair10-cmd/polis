@@ -73,6 +73,7 @@ function applyTheme(id){
   if(t.fonts&&!loadedFonts.has(t.fonts)){loadedFonts.add(t.fonts);const l=document.createElement('link');l.rel='stylesheet';l.href='https://fonts.googleapis.com/css2?family='+t.fonts+'&display=swap';document.head.appendChild(l)}
   const art=document.getElementById('heroArt');
   const img=(SUB&&SUB.hero)||t.heroImage;
+  art.parentNode.classList.toggle('has-img',!!img);
   if(img)art.innerHTML=`<img src="${img}" alt="">`;
   else if(t.hero==='polis')art.innerHTML=POLIS_HERO;
   else art.innerHTML=`<svg viewBox="0 0 360 260" aria-hidden="true"><defs><radialGradient id="eg"><stop offset="0" stop-color="var(--gold)" stop-opacity=".4"/><stop offset="1" stop-color="var(--gold)" stop-opacity="0"/></radialGradient></defs><circle cx="180" cy="130" r="120" fill="url(#eg)"/><circle cx="180" cy="130" r="78" fill="none" stroke="var(--gold)" stroke-width="2"/><circle cx="180" cy="130" r="64" fill="none" stroke="var(--gold)" stroke-width="1" stroke-dasharray="3 5"/><text x="180" y="152" font-size="62" text-anchor="middle">${t.glyph||'✦'}</text></svg>`;
@@ -80,11 +81,17 @@ function applyTheme(id){
 }
 const themeFor=s=>ls.get('theme:'+s.id)||s.theme;
 
+/* Shrink the big title until it fits the screen width. */
+function fitName(){const el=document.getElementById('appName');el.style.fontSize='';
+  requestAnimationFrame(()=>{let f=parseFloat(getComputedStyle(el).fontSize),max=el.parentNode.clientWidth-24;el.style.whiteSpace='nowrap';
+    while(el.scrollWidth>max&&f>24){f-=2;el.style.fontSize=f+'px'}})}
+addEventListener('resize',()=>SUB&&fitName());
+if(document.fonts)document.fonts.addEventListener('loadingdone',()=>SUB&&fitName());
 /* ---------- subjects ---------- */
 async function loadSubject(id){
   SUB=SUBJ.find(s=>s.id===id&&!s.soon)||SUBJ[0];ls.set('subject',SUB.id);
   applyTheme(themeFor(SUB));
-  document.getElementById('appName').textContent=SUB.title.toUpperCase();
+  document.getElementById('appName').textContent=SUB.title.toUpperCase();fitName();
   document.getElementById('motto').innerHTML=SUB.motto;
   document.getElementById('foot').textContent=SUB.foot;
   document.getElementById('pickName').textContent=SUB.name;

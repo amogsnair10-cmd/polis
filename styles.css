@@ -34,7 +34,7 @@ button:focus-visible,input:focus-visible{outline:2px solid var(--gold);outline-o
   -webkit-mask-image:linear-gradient(#000 45%,transparent 96%);mask-image:linear-gradient(#000 45%,transparent 96%);animation:kenburns 30s ease-in-out infinite alternate}
 @keyframes float{50%{transform:translateY(-12px)}}
 @keyframes kenburns{from{transform:scale(1.02)}to{transform:scale(1.12) translateY(-1.5%)}}
-.name{font-family:var(--font-display);font-weight:700;font-size:clamp(46px,15vw,104px);line-height:.95;letter-spacing:.06em;
+.name{display:inline-block;max-width:100%;align-self:center;font-family:var(--font-display);font-weight:700;font-size:clamp(46px,15vw,104px);line-height:.95;letter-spacing:.06em;
   background:linear-gradient(100deg,var(--gold) 0%,#fff 22%,var(--gold) 44%,var(--gold) 100%);background-size:250% 100%;-webkit-background-clip:text;background-clip:text;color:transparent;
   animation:shimmer 7s linear infinite;text-shadow:0 0 40px rgba(var(--accent-rgb),.25)}
 @keyframes shimmer{from{background-position:120% 0}to{background-position:-130% 0}}
@@ -167,3 +167,8 @@ svg.d{width:100%;height:auto;margin:4px 0 14px;flex-shrink:0;overflow:visible}
 
 @media (min-width:760px){.hero,.stele,#map,.foot,.sec{max-width:720px;margin-left:auto;margin-right:auto}.unit{max-width:680px;margin-left:auto;margin-right:auto}.cd{padding-left:calc(50% - 340px);padding-right:calc(50% - 340px)}}
 @media (prefers-reduced-motion:reduce){*,*::before,*::after{animation:none!important;transition:none!important}.ci>*{opacity:1;transform:none}}
+/* full-bleed artwork hero */
+.hero.has-img{min-height:min(94svh,900px);padding-top:0}
+.hero.has-img #heroArt{padding:0}
+.hero.has-img #heroArt::after{content:"";position:absolute;inset:auto 0 0 0;height:45%;background:linear-gradient(transparent,var(--night))}
+.hero.has-img .name{text-shadow:0 4px 40px rgba(0,0,0,.6)}
