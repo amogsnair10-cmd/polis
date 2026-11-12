@@ -14,11 +14,11 @@
 
 ## Doodles
 - Chapter doodles: all 11 subjects done (`art/doodles/<id>/<section>-<unit>.svg`).
-- Lesson doodles (cover + 2 key cards, `art/doodles/<id>/L/`): done for PSIR, History, Geography, Environment. In progress at handoff: World History, Communist Theory. To do: Astronomy, Physics, Chemistry, Biology, Quantum.
+- Lesson doodles (cover + 2 key cards, `art/doodles/<id>/L/`): done for all 11 subjects.
 - Brief: `docs/LESSON_DOODLE_BRIEF.md` (has a resume rule, so re-running skips finished lessons). Use Sonnet.
 
 ## Open items
-1. Lesson doodles for the remaining subjects (see above).
+1. (Done) Lesson doodles. Optional: redraw weak ones the user points out.
 2. Server features are off since leaving Netlify: built-in Gemini (no key) and browser push reminders. Plan: a free Cloudflare Worker; then set `window.LB_API` to its URL. Code for the functions is in `netlify/functions/` and `netlify/lib/` to port.
 3. Remaining ~30-lesson expansions (see Content).
 4. Play Store: needs a Play Console account, a signed release bundle (keystore in GitHub secrets), privacy policy, screenshots.
