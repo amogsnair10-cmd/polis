@@ -99,8 +99,8 @@ button:focus-visible,input:focus-visible{outline:2px solid var(--gold);outline-o
   background-color:var(--card);color:var(--ink);box-shadow:0 30px 80px rgba(0,0,0,.5),inset 0 0 0 1px rgba(255,255,255,.5);font-size:clamp(15.5px,4.3vw,17.5px)}
 .ci{background-image:linear-gradient(90deg,var(--goldd),var(--gold) 50%,var(--goldd));background-size:100% 3px;background-repeat:no-repeat;background-position:0 0}
 @keyframes flow{to{background-position:300% 0}}
-.ci>*{opacity:0;transform:translateY(12px);transition:opacity .5s var(--ease),transform .5s var(--ease)}
-.ci.in>*{opacity:1;transform:none}
+.ci>*{opacity:0;transition:opacity .45s ease}
+.ci.in>*{opacity:1}
 .ci.in>*:nth-child(2){transition-delay:.05s}.ci.in>*:nth-child(3){transition-delay:.1s}.ci.in>*:nth-child(4){transition-delay:.15s}.ci.in>*:nth-child(n+5){transition-delay:.2s}
 .cover>:first-child{margin-top:auto}.cover>:last-child{margin-bottom:auto}
 .tag{font-size:12px;letter-spacing:.1em;text-transform:uppercase;color:var(--goldd);font-weight:600;margin:4px 0 6px}
@@ -119,7 +119,9 @@ svg.d{width:100%;height:auto;margin:4px 0 14px;flex-shrink:0;overflow:visible}
 .cover .em{font-size:clamp(52px,16vw,72px);margin-bottom:6px;animation:float 6s ease-in-out infinite}
 .hint{color:var(--vein);font-style:italic;font-size:14px;margin-top:22px;animation:nudge 2.4s ease-in-out infinite}
 @keyframes nudge{50%{transform:translateX(-8px)}}
-.more{position:sticky;bottom:-24px;margin:auto -40px -24px;padding:28px 0 12px;text-align:center;font-style:italic;font-size:13px;color:var(--goldd);background:linear-gradient(transparent,var(--card) 55%);opacity:1!important;transform:none!important;transition:opacity .3s}
+.cd{position:relative}
+.more{position:absolute;left:calc(var(--gut) + 1px);right:calc(var(--gut) + 1px);bottom:21px;height:64px;display:flex;align-items:flex-end;justify-content:center;padding-bottom:10px;border-radius:0 0 var(--r) var(--r);pointer-events:none;font-family:var(--font-hand);font-size:18px;color:var(--goldd);background:linear-gradient(transparent,var(--card) 70%);transition:opacity .3s}
+.more.gone{opacity:0}
 .opt{display:block;width:100%;text-align:left;background:#fff;border:1px solid var(--opt-line);border-radius:14px;padding:13px 16px;margin-bottom:10px;font-size:16px;color:var(--ink);transition:background .2s,border-color .2s,transform .15s;box-shadow:0 2px 8px rgba(0,0,0,.04)}
 .opt:active{transform:scale(.99)}
 .opt.r{border-color:var(--teal);background:var(--good-bg)}.opt.w{border-color:var(--red);background:var(--bad-bg);animation:shake .35s}
