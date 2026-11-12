@@ -98,6 +98,9 @@ onAuthStateChanged(auth, async u => {
 // First-run welcome: ask once to sign in so progress and doubts are saved.
 function showWelcome() {
   if (user || document.getElementById("welcome")) return;
+  // Never pop over another menu or an open lesson: wait until the home screen is clear.
+  const busy = [...document.querySelectorAll(".sheet")].some(x => !x.hidden) || document.querySelector(".view.on:not(#home)");
+  if (busy) { setTimeout(showWelcome, 1500); return; }
   const w = document.createElement("div"); w.id = "welcome";
   w.innerHTML = `<div class="w-in"><img src="icons/logo.webp" alt=""><h2>Welcome to Light Bulb</h2>
     <p>Sign in once to keep your streak, progress and doubts safe across devices.</p>
