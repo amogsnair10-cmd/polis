@@ -124,7 +124,9 @@ function studyState(){const next=ids.find(i=>IDX[i]&&!S.done[i]);let chapter='',
 /* In the Android app (Capacitor), reminders are scheduled on the phone and the widget reads the study state. */
 const CAP=window.Capacitor&&window.Capacitor.isNativePlatform&&window.Capacitor.isNativePlatform();
 async function nativeSync(off){const P=Capacitor.Plugins,st=studyState(),studied=!!st.doneDay;
-  try{await P.Preferences.set({key:'widget',value:JSON.stringify({...st,studiedToday:studied})})}catch(e){}
+  const [cp,cu]=(ids.find(i=>IDX[i]&&!S.done[i])||'0-0-0').split('-'),chTotal=MAP[cp]?MAP[cp].units[cu][1].length:0;
+  const accent=getComputedStyle(document.documentElement).getPropertyValue('--gold').trim()||'#F2C46D';
+  try{await P.Preferences.set({key:'widget',value:JSON.stringify({...st,studiedToday:studied,days:S.days.slice(-60),chapterTotal:chTotal,accent})})}catch(e){}
   const LN=P.LocalNotifications;if(!LN)return;
   try{const pend=await LN.getPending();if(pend.notifications.length)await LN.cancel({notifications:pend.notifications.map(n=>({id:n.id}))})}catch(e){}
   if(off||ls.get('push')!=='1')return;

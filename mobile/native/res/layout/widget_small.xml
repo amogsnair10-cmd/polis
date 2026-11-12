@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" android:id="@+id/w_root"
+    android:layout_width="match_parent" android:layout_height="match_parent" android:orientation="vertical"
+    android:gravity="center" android:background="@drawable/widget_bg" android:padding="6dp">
+    <TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="🔥" android:textSize="18sp"/>
+    <TextView android:id="@+id/w_streak" android:layout_width="wrap_content" android:layout_height="wrap_content"
+        android:text="0" android:textColor="#F2C46D" android:textSize="26sp" android:textStyle="bold" android:includeFontPadding="false"/>
+    <TextView android:id="@+id/w_label" android:layout_width="wrap_content" android:layout_height="wrap_content"
+        android:text="days" android:textColor="#B9C4D6" android:textSize="11sp"/>
+</LinearLayout>

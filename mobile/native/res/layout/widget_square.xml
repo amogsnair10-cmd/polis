@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" android:id="@+id/w_root"
+    android:layout_width="match_parent" android:layout_height="match_parent" android:orientation="vertical"
+    android:background="@drawable/widget_bg" android:padding="14dp">
+    <TextView android:id="@+id/w_streak" android:layout_width="wrap_content" android:layout_height="wrap_content"
+        android:text="🔥 0" android:textColor="#F2C46D" android:textSize="28sp" android:textStyle="bold"/>
+    <TextView android:id="@+id/w_label" android:layout_width="match_parent" android:layout_height="wrap_content"
+        android:text="Not started today" android:textColor="#B9C4D6" android:textSize="12sp" android:maxLines="1" android:ellipsize="end"/>
+    <View android:layout_width="match_parent" android:layout_height="0dp" android:layout_weight="1"/>
+    <TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="NEXT"
+        android:textColor="#7F8BA0" android:textSize="10sp" android:letterSpacing="0.15"/>
+    <TextView android:id="@+id/w_next" android:layout_width="match_parent" android:layout_height="wrap_content"
+        android:text="Open the app to start" android:textColor="#FFFFFF" android:textSize="14sp" android:textStyle="bold" android:maxLines="2" android:ellipsize="end"/>
+    <TextView android:id="@+id/w_subject" android:layout_width="match_parent" android:layout_height="wrap_content"
+        android:text="Light Bulb" android:textColor="#B9C4D6" android:textSize="11sp" android:maxLines="1" android:ellipsize="end"/>
+</LinearLayout>
