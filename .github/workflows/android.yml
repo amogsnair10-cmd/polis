@@ -18,21 +18,26 @@ jobs:
           distribution: temurin
           java-version: 21
       - run: npm install
+        working-directory: mobile
       - run: npm run web
+        working-directory: mobile
       - run: npx cap add android
+        working-directory: mobile
       - name: Use the Light Bulb icon
         run: |
+          cd mobile
           rm -rf android/app/src/main/res/mipmap-anydpi-v26
           for d in android/app/src/main/res/mipmap-*; do
-            cp icons/icon-192.png "$d/ic_launcher.png"
-            cp icons/icon-192.png "$d/ic_launcher_round.png"
+            cp ../icons/icon-192.png "$d/ic_launcher.png"
+            cp ../icons/icon-192.png "$d/ic_launcher_round.png"
             rm -f "$d/ic_launcher_foreground.png"
           done
       - run: npx cap sync android
+        working-directory: mobile
       - name: Build APK
-        working-directory: android
+        working-directory: mobile/android
         run: ./gradlew assembleDebug --no-daemon
-      - run: cp android/app/build/outputs/apk/debug/app-debug.apk LightBulb.apk
+      - run: cp mobile/android/app/build/outputs/apk/debug/app-debug.apk LightBulb.apk
       - name: Publish to the "latest" release
         uses: softprops/action-gh-release@v2
         with:

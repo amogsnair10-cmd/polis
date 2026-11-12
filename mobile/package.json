@@ -4,7 +4,7 @@
  "private": true,
  "description": "Light Bulb: one lesson a day. Android app built with Capacitor.",
  "scripts": {
-  "web": "node scripts/build.js && node scripts/copy-www.js"
+  "web": "node ../scripts/build.js && node ../scripts/copy-www.js"
  },
  "devDependencies": {
   "@capacitor/android": "8.5.3",
