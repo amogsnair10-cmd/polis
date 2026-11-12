@@ -60,7 +60,7 @@ async function askGemini({ apiKey, model, system, history, onText }) {
           generationConfig: { maxOutputTokens: 4000 },
         }),
       })
-    : await fetch(`${location.hostname === "localhost" ? "" : "https://amoglightbulb.netlify.app"}/api/ask-gemini`, {
+    : await fetch(`${window.LB_API || ""}/api/ask-gemini`, {
         method: "POST", headers: { "Content-Type": "application/json" },
         body: JSON.stringify({ model, system, history }),
       });

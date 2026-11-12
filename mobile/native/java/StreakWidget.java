@@ -72,7 +72,7 @@ public class StreakWidget extends AppWidgetProvider {
     }
 
     static PendingIntent open(Context ctx) {
-        Intent i = new Intent(Intent.ACTION_VIEW, Uri.parse("https://amoglightbulb.netlify.app/?go=continue"), ctx, MainActivity.class);
+        Intent i = new Intent(Intent.ACTION_VIEW, Uri.parse("https://amogsnair10-cmd.github.io/polis/?go=continue"), ctx, MainActivity.class);
         return PendingIntent.getActivity(ctx, 0, i, PendingIntent.FLAG_UPDATE_CURRENT | PendingIntent.FLAG_IMMUTABLE);
     }
 

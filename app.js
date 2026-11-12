@@ -114,6 +114,7 @@ document.getElementById('sheetClose').onclick=()=>sheet.hidden=true;
 sheet.addEventListener('click',e=>{if(e.target===sheet)sheet.hidden=true});
 
 /* ---------- daily reminders (web push) ---------- */
+const API=window.LB_API||'';  // server for push + built-in Gemini (Cloudflare, later). Empty = off.
 const pushOn=document.getElementById('pushOn'),pushHour=document.getElementById('pushHour'),pushNote=document.getElementById('pushNote');
 for(let h=5;h<=23;h++)pushHour.add(new Option((h%12||12)+(h<12?' am':' pm'),h));
 pushHour.value=ls.get('pushHour')||'19';pushOn.checked=ls.get('push')==='1';
@@ -135,14 +136,15 @@ async function nativeSync(off){const P=Capacitor.Plugins,st=studyState(),studied
     const sk=st.streak+(d===0?0:0);list.push({id:100+d,title:sk>=2?`🔥 Keep your ${sk}-day streak going`:'💡 Today’s lesson is ready',body:`${st.subject}: ${nx}. About 15 minutes.`,schedule:{at:t,allowWhileIdle:true}})}
   const w=new Date();w.setHours(21,0,0,0);
   if(!studied&&st.streak>0&&w>new Date())list.push({id:200,title:`🔥 Your ${st.streak}-day streak ends at midnight`,body:`One lesson saves it: ${nx}.`,schedule:{at:w,allowWhileIdle:true}});
-  if(list.length)await LN.schedule({notifications:list.map(n=>({...n,extra:{url:'/?go=continue'}}))})}
+  if(list.length)await LN.schedule({notifications:list.map(n=>({...n,extra:{url:'./?go=continue'}}))})}
 async function pushSync(off){if(CAP)return nativeSync(off);try{
   if(!('serviceWorker' in navigator)||!('PushManager' in window))return;
   const reg=await navigator.serviceWorker.ready;let sub=await reg.pushManager.getSubscription();
-  if(off){if(sub){await fetch('/api/push-sync',{method:'POST',body:JSON.stringify({sub,off:true})});await sub.unsubscribe()}return}
+  if(off){if(sub){await fetch(API+'/api/push-sync',{method:'POST',body:JSON.stringify({sub,off:true})});await sub.unsubscribe()}return}
   if(ls.get('push')!=='1')return;
-  if(!sub){const {key}=await fetch('/api/push-key').then(r=>r.json());sub=await reg.pushManager.subscribe({userVisibleOnly:true,applicationServerKey:b64(key)})}
-  await fetch('/api/push-sync',{method:'POST',body:JSON.stringify({sub,hour:+pushHour.value,tz:new Date().getTimezoneOffset(),...studyState()})});
+  if(!API)return;
+  if(!sub){const {key}=await fetch(API+'/api/push-key').then(r=>r.json());sub=await reg.pushManager.subscribe({userVisibleOnly:true,applicationServerKey:b64(key)})}
+  await fetch(API+'/api/push-sync',{method:'POST',body:JSON.stringify({sub,hour:+pushHour.value,tz:new Date().getTimezoneOffset(),...studyState()})});
 }catch(e){console.warn('push',e)}}
 pushOn.onchange=async()=>{
   if(pushOn.checked){
@@ -206,12 +208,12 @@ document.getElementById('results').addEventListener('click',async e=>{const b=e.
 /* ---------- ask a doubt ---------- */
 const askSheet=document.getElementById('askSheet'),chat=document.getElementById('chat');
 const isGem=m=>m.startsWith('gemini'),keyName=m=>isGem(m)?'askKeyGemini':'askKey';
-function keyHint(){const m=document.getElementById('model').value,k=document.getElementById('apiKey');k.placeholder=isGem(m)?'Optional: your own Gemini key (built-in one is used if empty)':'sk-ant-… (from console.anthropic.com)';k.value=''}
-function askView(){const m=ls.get('askModel')||'gemini-flash-latest';document.getElementById('model').value=m;keyHint();const has=isGem(m)||!!ls.get(keyName(m));document.getElementById('keyBox').hidden=has;document.getElementById('chatBox').hidden=!has}
+function keyHint(){const m=document.getElementById('model').value,k=document.getElementById('apiKey');k.placeholder=isGem(m)?(window.LB_API?'Optional: your own Gemini key (built-in one is used if empty)':'Your Gemini API key (from aistudio.google.com)'):'sk-ant-… (from console.anthropic.com)';k.value=''}
+function askView(){const m=ls.get('askModel')||'gemini-flash-latest';document.getElementById('model').value=m;keyHint();const has=(isGem(m)&&!!window.LB_API)||!!ls.get(keyName(m));document.getElementById('keyBox').hidden=has;document.getElementById('chatBox').hidden=!has}
 document.getElementById('askBtn').onclick=()=>{if(askSheet._lesson!==cur){chat.innerHTML='';askSheet._lesson=cur}askView();askSheet.hidden=false};
 document.getElementById('askClose').onclick=()=>askSheet.hidden=true;
-document.getElementById('model').onchange=()=>{const m=document.getElementById('model').value;keyHint();if(isGem(m)||ls.get(keyName(m))){ls.set('askModel',m);askView()}};
-document.getElementById('saveKey').onclick=()=>{const m=document.getElementById('model').value,k=document.getElementById('apiKey').value.trim();ls.set('askModel',m);if(k)ls.set(keyName(m),k);if(!isGem(m)&&!ls.get(keyName(m)))return;askView()};
+document.getElementById('model').onchange=()=>{const m=document.getElementById('model').value;keyHint();if((isGem(m)&&window.LB_API)||ls.get(keyName(m))){ls.set('askModel',m);askView()}};
+document.getElementById('saveKey').onclick=()=>{const m=document.getElementById('model').value,k=document.getElementById('apiKey').value.trim();ls.set('askModel',m);if(k)ls.set(keyName(m),k);if(!(isGem(m)&&window.LB_API)&&!ls.get(keyName(m)))return;askView()};
 document.getElementById('changeKey').onclick=()=>{document.getElementById('keyBox').hidden=false;document.getElementById('chatBox').hidden=true};
 document.getElementById('sendDoubt').onclick=async()=>{
   const ta=document.getElementById('doubt'),q=ta.value.trim();if(!q)return;ta.value='';

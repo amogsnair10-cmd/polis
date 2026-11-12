@@ -22,7 +22,7 @@ let user = null, pushTimer = null;
 const NATIVE = !!(window.Capacitor && window.Capacitor.isNativePlatform && window.Capacitor.isNativePlatform());
 async function googleSignIn() {
   if (!NATIVE) return signInWithPopup(auth, new GoogleAuthProvider());
-  await window.Capacitor.Plugins.Browser.open({ url: "https://amoglightbulb.netlify.app/auth.html" });
+  await window.Capacitor.Plugins.Browser.open({ url: new URL("auth.html", location.href).href });
 }
 if (NATIVE && window.Capacitor.Plugins.App) window.Capacitor.Plugins.App.addListener("appUrlOpen", async ({ url }) => {
   if (!url || !url.startsWith("lightbulb://auth")) return;
