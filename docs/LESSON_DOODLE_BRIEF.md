@@ -17,3 +17,6 @@ Lesson files: PSIR = `lessons/<id>.json` (subjectId `psir`); others = `subjects/
 ## Workflow (keep it lean)
 - One Python script per ~5 lessons: read each lesson's title and card headings only, then write its 3 SVG files. Don't re-read files you wrote.
 - At the end run `node scripts/build.js` (must print ok). Don't commit. Reply with one line: lessons done and doodles written.
+
+## Resume rule
+Skip any lesson whose 3 doodle files already exist. Only draw what's missing.

@@ -12,3 +12,6 @@ Style (must be consistent everywhere):
 - Under 2 KB each. Valid XML.
 
 Work in batches with one Python script per subject writing all its files. Don't re-read files you wrote. Don't touch anything else. When done, run `node scripts/build.js` (must print ok). Don't commit. Reply with one line: how many doodles per subject.
+
+## Resume rule
+Skip any doodle file that already exists.
