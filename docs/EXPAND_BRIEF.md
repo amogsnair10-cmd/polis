@@ -9,3 +9,6 @@ You are adding lessons to a UPSC/learning app. Read `docs/WRITER_BRIEF.md` (shor
 - Choose topics that fill real gaps: frequently asked PYQ themes and thinkers for exam subjects; the most fascinating missing stories/concepts for the others. Mark a new unit "asked often" (third value 1) only if it truly is.
 - First edit the syllabus file, then write each new lesson file, then run `node scripts/build.js` and `node scripts/lint.js <DIR>` and fix issues in YOUR new files only.
 - Do not commit. Final reply: the list of new lesson titles grouped by unit, plus facts you could not verify. Keep it short.
+
+## Never pad
+If lint says a card is thin, add specific facts about THAT card's topic. Never add generic study tips or the same sentence to several cards.
