@@ -73,12 +73,12 @@
 </section>
 <div class="sheet" id="sheet" hidden><div class="sheet-in marble">
  <button class="x sx" id="sheetClose" aria-label="Close">×</button>
- <h2>Account</h2><div id="acct"><p class="note">Loading…</p></div>
+ <div id="sheetAcct"><h2>Account</h2><div id="acct"><p class="note">Loading…</p></div>
  <h2>Daily reminder</h2>
  <div class="remind"><label class="tog"><input type="checkbox" id="pushOn"><span></span></label>
   <div><b>Remind me to study</b><small id="pushNote">A nudge each day, plus a warning at 9 pm if your streak is at risk.</small></div>
-  <select id="pushHour"></select></div>
- <h2>Subjects</h2><div id="subjList"></div>
+  <select id="pushHour"></select></div></div>
+ <h2 id="subjH">Subjects</h2><div id="subjList"></div>
 </div></div>
 <section id="search" class="view">
  <div class="bar"><button class="x" id="srchClose" aria-label="Close search">×</button><input id="q" type="search" placeholder="Search lessons…" autocomplete="off"></div>

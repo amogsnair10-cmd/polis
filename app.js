@@ -70,7 +70,7 @@ function show(v,kind){const nv=document.getElementById(v);if(nv.classList.contai
   if(CALM)return;kind=kind||(v==='lesson'?'up':v==='home'?'down':'fade');
   nv.classList.remove('enter-up','enter-down','enter-fade');void nv.offsetWidth;nv.classList.add('enter-'+kind);
   setTimeout(()=>nv.classList.remove('enter-'+kind),900)}
-function softSwap(fn){const h=document.getElementById('home');if(CALM)return fn();h.classList.add('swap-out');setTimeout(async()=>{await fn();h.classList.remove('swap-out');void h.offsetWidth;h.classList.add('enter-fade');setTimeout(()=>h.classList.remove('enter-fade'),900)},320)}
+function softSwap(fn){const h=document.getElementById('home');if(CALM)return fn();h.classList.add('swap-out');setTimeout(async()=>{await fn();const a=document.getElementById('heroArt');await Promise.race([a.ready,new Promise(r=>setTimeout(r,800))]);scrollTo(0,0);h.classList.remove('swap-out');h.classList.add('swap-in');setTimeout(()=>h.classList.remove('swap-in'),1000)},450)}
 function openSheetEl(s){s.hidden=false;s.classList.remove('closing')}
 function closeSheetEl(s){if(s.hidden)return;s.classList.add('closing');setTimeout(()=>{s.hidden=true;s.classList.remove('closing')},CALM?0:420)}
 function back(){show('home');renderHome()}
@@ -114,13 +114,18 @@ async function loadSubject(id){
   renderHome();
 }
 const sheet=document.getElementById('sheet');
-function openSheet(){
+function openSheet(onlySubj){
+  document.getElementById('sheetAcct').hidden=onlySubj===true;document.getElementById('subjH').textContent=onlySubj===true?'Choose a subject':'Subjects';
   document.getElementById('subjList').innerHTML=SUBJ.map(s=>{const t=THEMES[s.theme]||THEMES.polis,a=t.vars['--gold']||'#c9a45c',b=t.vars['--lapis']||'#13294b';
     return `<button class="choice${s.id===SUB.id?' on':''}" onclick="pickSubject('${s.id}')"><span class="sic" style="--a:${a};--b:${b}">${icon(s.id)}</span><span><strong>${s.title}</strong> · ${s.name}<small>${s.full}</small></span></button>`}).join('');
   openSheetEl(sheet)}
-function pickSubject(id){closeSheetEl(sheet);softSwap(()=>loadSubject(id))}
+/* Switch subject: preload the next subject's data and art first, then fade out, swap while hidden and fade in. */
+async function pickSubject(id){closeSheetEl(sheet);if(SUB&&id===SUB.id)return;
+  const n=SUBJ.find(s=>s.id===id)||SUBJ[0],t=THEMES[n.theme]||THEMES.polis,img=n.hero||t.heroImage;
+  const pre=Promise.all([img?(()=>{const i=new Image();i.src=img;return i.decode().catch(()=>{})})():0]);
+  await Promise.race([pre,new Promise(r=>setTimeout(r,1500))]);softSwap(()=>loadSubject(id))}
 function pickTheme(k){ls.set('theme:'+SUB.id,k);applyTheme(k);openSheet()}
-document.getElementById('pick').onclick=openSheet;
+document.getElementById('pick').onclick=()=>openSheet(true);
 document.getElementById('mine').onclick=()=>window.openMe?window.openMe():openSheet();
 document.getElementById('sheetClose').onclick=()=>closeSheetEl(sheet);
 sheet.addEventListener('click',e=>{if(e.target===sheet)closeSheetEl(sheet)});
