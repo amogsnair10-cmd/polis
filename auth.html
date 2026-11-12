@@ -1,0 +1,26 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Sign in · Light Bulb</title>
+<style>html,body{margin:0;height:100%;background:radial-gradient(120% 80% at 50% 40%,#000515,#05060f);color:#eef2ff;font-family:system-ui,sans-serif}
+main{min-height:100%;display:flex;flex-direction:column;align-items:center;justify-content:center;text-align:center;padding:24px;box-sizing:border-box}
+img{width:180px;border-radius:50%;-webkit-mask-image:radial-gradient(circle,#000 50%,transparent 70%);mask-image:radial-gradient(circle,#000 50%,transparent 70%)}
+h1{font-family:Georgia,serif;letter-spacing:.25em;font-size:22px;margin:10px 0 4px}p{color:#aab6d8;margin:0 0 22px}
+button,a.b{display:block;width:min(320px,90%);padding:15px;border:0;border-radius:14px;font-size:17px;font-weight:700;background:#eef2ff;color:#0b1022;text-decoration:none;margin:6px auto}
+#msg{margin-top:14px;color:#ffd7a0;min-height:1.2em}</style></head>
+<body><main><img src="icons/logo.webp" alt=""><h1>LIGHT BULB</h1><p>Sign in to sync your progress</p>
+<button id="go">Continue with Google</button><div id="msg"></div></main>
+<script type="module">
+import { initializeApp, getAuth, GoogleAuthProvider, signInWithPopup } from "./vendor/firebase-13.1.0.js";
+const app = initializeApp({ apiKey: "AIzaSyDgAqbSPaX7uyKnY7cNF3N9-UWlwZGX8AA", authDomain: "light-bulb-3a6fe.firebaseapp.com", projectId: "light-bulb-3a6fe", appId: "1:880679235067:web:1caa9e0bb1b746584e6f5e" });
+const auth = getAuth(app), msg = t => document.getElementById("msg").textContent = t;
+document.getElementById("go").onclick = async () => {
+  try {
+    const res = await signInWithPopup(auth, new GoogleAuthProvider());
+    const cred = GoogleAuthProvider.credentialFromResult(res);
+    if (!cred || !cred.idToken) return msg("Couldn't read the Google sign-in. Try again.");
+    msg("Signed in. Returning to the app…");
+    const back = "lightbulb://auth?idt=" + encodeURIComponent(cred.idToken);
+    location.href = back;
+    setTimeout(() => { document.querySelector("main").insertAdjacentHTML("beforeend", `<a class="b" href="${back}">Return to Light Bulb</a>`); }, 1200);
+  } catch (e) { msg("Sign-in didn't finish: " + (e.code || e.message)); }
+};
+</script></body></html>

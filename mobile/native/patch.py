@@ -12,6 +12,14 @@ rec='''        <receiver android:name=".StreakWidget" android:exported="false">
         </receiver>
     </application>'''
 if 'StreakWidget' not in m:m=m.replace('    </application>',rec,1)
+link='''            <intent-filter>
+                <action android:name="android.intent.action.VIEW"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+                <category android:name="android.intent.category.BROWSABLE"/>
+                <data android:scheme="lightbulb"/>
+            </intent-filter>
+        </activity>'''
+if 'android:scheme="lightbulb"' not in m:m=m.replace('        </activity>',link,1)
 open(os.path.join(A,'AndroidManifest.xml'),'w').write(m)
 ma=os.path.join(pkg,'MainActivity.java');s=open(ma).read()
 if 'onPause' not in s:

@@ -1,7 +1,7 @@
 // Accounts: Google or phone sign-in (Firebase), cloud sync of progress and doubts, and the "My learning" screen.
 // Loaded in the background by app.js. Uses app.js globals: SUBJ, SUB, S, ls, loadSubject, renderHome, openL, show, esc, today, ds.
 import {
-  initializeApp, getAuth, onAuthStateChanged, GoogleAuthProvider, signInWithPopup, RecaptchaVerifier, signInWithPhoneNumber, signOut,
+  initializeApp, getAuth, onAuthStateChanged, GoogleAuthProvider, signInWithPopup, RecaptchaVerifier, signInWithPhoneNumber, signOut, signInWithCredential,
   initializeFirestore, persistentLocalCache, doc, getDoc, setDoc, collection, addDoc, query, orderBy, limit, getDocs, serverTimestamp,
 } from "./vendor/firebase-13.1.0.js";
 
@@ -16,6 +16,20 @@ const app = initializeApp({
 const auth = getAuth(app);
 const db = initializeFirestore(app, { localCache: persistentLocalCache() });
 let user = null, pushTimer = null;
+
+// Android app: Google blocks sign-in inside app web views, so sign in on a small page in Chrome
+// (auth.html) and come back through the lightbulb:// link with a Google ID token.
+const NATIVE = !!(window.Capacitor && window.Capacitor.isNativePlatform && window.Capacitor.isNativePlatform());
+async function googleSignIn() {
+  if (!NATIVE) return signInWithPopup(auth, new GoogleAuthProvider());
+  await window.Capacitor.Plugins.Browser.open({ url: "https://amoglightbulb.netlify.app/auth.html" });
+}
+if (NATIVE && window.Capacitor.Plugins.App) window.Capacitor.Plugins.App.addListener("appUrlOpen", async ({ url }) => {
+  if (!url || !url.startsWith("lightbulb://auth")) return;
+  const idt = new URL(url.replace("lightbulb://", "https://x/")).searchParams.get("idt");
+  try { window.Capacitor.Plugins.Browser.close(); } catch (e) {}
+  if (idt) try { await signInWithCredential(auth, GoogleAuthProvider.credential(idt)); if (document.getElementById("me").classList.contains("on")) openMe(); } catch (e) { alert("Sign-in didn't finish. Try again."); }
+});
 
 const storeKey = s => s.store || "polis:" + s.id;
 const readLocal = s => { try { return JSON.parse(ls.get(storeKey(s)) || "null") || { done: {}, scores: {}, days: [] } } catch (e) { return { done: {}, scores: {}, days: [] } } };
@@ -68,8 +82,8 @@ function render() {
       <p class="note" id="aMsg"></p><div id="rc"></div>`;
     const msg = t => document.getElementById("aMsg").textContent = t;
     document.getElementById("gBtn").onclick = async () => {
-      try { await signInWithPopup(auth, new GoogleAuthProvider()); }
-      catch (e) { msg(window.Capacitor ? "Google sign-in isn't available inside the Android app yet. Open amoglightbulb.netlify.app in Chrome to sign in." : "Google sign-in didn't finish: " + (e.code || e.message)); }
+      try { await googleSignIn(); }
+      catch (e) { msg("Google sign-in didn't finish: " + (e.code || e.message)); }
     };
   }
 }
@@ -119,7 +133,7 @@ async function openMe() {
   show("me");
   document.getElementById("meClose").onclick = back;
   const g = document.getElementById("meG");
-  if (g) g.onclick = async () => { try { await signInWithPopup(auth, new GoogleAuthProvider()); openMe(); } catch (e) { document.getElementById("meMsg").textContent = window.Capacitor ? "Google sign-in works in Chrome for now: open amoglightbulb.netlify.app there." : "Sign-in didn't finish: " + (e.code || e.message); } };
+  if (g) g.onclick = async () => { try { await googleSignIn(); if (!NATIVE) openMe(); } catch (e) { document.getElementById("meMsg").textContent = "Sign-in didn't finish: " + (e.code || e.message); } };
   v.querySelectorAll(".me-sub").forEach(b => b.onclick = async () => { await loadSubject(b.dataset.s); back(); });
   v.querySelectorAll(".me-weak").forEach(b => b.onclick = async () => { await loadSubject(b.dataset.s); const [p, u] = b.dataset.u.split("-"); openTest(+p, +u); });
   v.querySelectorAll(".me-doubt").forEach(b => b.onclick = async () => { if (!b.dataset.s || !b.dataset.l) return; await loadSubject(b.dataset.s); openL(b.dataset.l); });
