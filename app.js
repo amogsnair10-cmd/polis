@@ -163,7 +163,14 @@ function handleGo(){const go=new URLSearchParams(location.search).get('go');if(!
   else if(go==='search'){show('search');document.getElementById('q').focus()}}
 
 if(CAP&&Capacitor.Plugins.LocalNotifications)Capacitor.Plugins.LocalNotifications.addListener('localNotificationActionPerformed',()=>{const n=ids.find(i=>IDX[i]&&!S.done[i]);if(n)openL(n)});
-(async()=>{SUBJ=await fetch('subjects.json').then(r=>r.json());await loadSubject(ls.get('subject')||SUBJ[0].id);handleGo();pushSync()})();
+/* ---------- loading screen ---------- */
+(()=>{const box=document.querySelector('#splash .sp-stars');if(!box)return;let h='';
+  for(let i=0;i<90;i++){const z=(Math.random()*2.2+.6).toFixed(1);h+=`<b style="left:${(Math.random()*100).toFixed(2)}%;top:${(Math.random()*100).toFixed(2)}%;--z:${z}px;--t:${(Math.random()*3+2).toFixed(1)}s;--d:${(Math.random()*3).toFixed(1)}s"></b>`}
+  box.innerHTML=h})();
+const splashStart=Date.now();
+function hideSplash(){const s=document.getElementById('splash');if(!s||s.classList.contains('out'))return;setTimeout(()=>{s.classList.add('out');setTimeout(()=>s.remove(),800)},Math.max(0,1800-(Date.now()-splashStart)))}
+setTimeout(hideSplash,6000);
+(async()=>{SUBJ=await fetch('subjects.json').then(r=>r.json());await loadSubject(ls.get('subject')||SUBJ[0].id);hideSplash();handleGo();pushSync()})();
 /* ---------- chapter tests: 15 questions drawn from every lesson in the chapter ---------- */
 async function openTest(pi,ui){const u=MAP[pi].units[ui],pool=[];
   try{for(let k=0;k<u[1].length;k++){const l=await getLesson(`${pi}-${ui}-${k}`);l.quiz.forEach(q=>pool.push(q))}}catch(e){alert('The test could not load. Check your connection.');return}
