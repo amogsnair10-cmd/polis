@@ -7,7 +7,7 @@
             android:text="🔥 0" android:textColor="#F2C46D" android:textSize="26sp" android:textStyle="bold"/>
         <TextView android:id="@+id/w_label" android:layout_width="wrap_content" android:layout_height="wrap_content"
             android:text="day streak" android:textColor="#B9C4D6" android:textSize="12sp" android:layout_marginStart="8dp"/>
-        <View android:layout_width="0dp" android:layout_height="1dp" android:layout_weight="1"/>
+        <FrameLayout android:layout_width="0dp" android:layout_height="1dp" android:layout_weight="1"/>
         <TextView android:id="@+id/w_subject" android:layout_width="wrap_content" android:layout_height="wrap_content"
             android:text="Light Bulb" android:textColor="#B9C4D6" android:textSize="12sp" android:maxLines="1"/>
     </LinearLayout>
@@ -19,7 +19,7 @@
         android:text="" android:textColor="#B9C4D6" android:textSize="11sp" android:maxLines="1" android:ellipsize="end"/>
     <ProgressBar android:id="@+id/w_prog" style="?android:attr/progressBarStyleHorizontal" android:layout_width="match_parent" android:layout_height="6dp"
         android:layout_marginTop="4dp" android:max="10" android:progress="0" android:progressDrawable="@drawable/widget_progress"/>
-    <View android:layout_width="match_parent" android:layout_height="0dp" android:layout_weight="1"/>
+    <FrameLayout android:layout_width="match_parent" android:layout_height="0dp" android:layout_weight="1"/>
     <LinearLayout android:layout_width="match_parent" android:layout_height="wrap_content" android:orientation="horizontal" android:gravity="center_vertical">
         <TextView android:id="@+id/w_d0" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="●" android:textSize="14sp" android:textColor="#33FFFFFF" android:layout_marginEnd="5dp"/>
         <TextView android:id="@+id/w_d1" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="●" android:textSize="14sp" android:textColor="#33FFFFFF" android:layout_marginEnd="5dp"/>
@@ -29,7 +29,7 @@
         <TextView android:id="@+id/w_d5" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="●" android:textSize="14sp" android:textColor="#33FFFFFF" android:layout_marginEnd="5dp"/>
         <TextView android:id="@+id/w_d6" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="●" android:textSize="14sp" android:textColor="#33FFFFFF"/>
         <TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="7 days" android:textColor="#7F8BA0" android:textSize="10sp" android:layout_marginStart="6dp"/>
-        <View android:layout_width="0dp" android:layout_height="1dp" android:layout_weight="1"/>
+        <FrameLayout android:layout_width="0dp" android:layout_height="1dp" android:layout_weight="1"/>
         <TextView android:id="@+id/w_btn" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="Continue →"
             android:textColor="#F2C46D" android:textSize="14sp" android:textStyle="bold" android:paddingStart="12dp" android:paddingEnd="12dp" android:paddingTop="6dp" android:paddingBottom="6dp" android:background="@drawable/widget_btn"/>
     </LinearLayout>

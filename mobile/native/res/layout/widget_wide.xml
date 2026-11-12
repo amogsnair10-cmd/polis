@@ -8,7 +8,7 @@
         <TextView android:id="@+id/w_label" android:layout_width="wrap_content" android:layout_height="wrap_content"
             android:text="day streak" android:textColor="#B9C4D6" android:textSize="10sp"/>
     </LinearLayout>
-    <View android:layout_width="1dp" android:layout_height="match_parent" android:layout_marginStart="14dp" android:layout_marginEnd="14dp" android:background="#22FFFFFF"/>
+    <FrameLayout android:layout_width="1dp" android:layout_height="match_parent" android:layout_marginStart="14dp" android:layout_marginEnd="14dp" android:background="#22FFFFFF"/>
     <LinearLayout android:layout_width="0dp" android:layout_height="wrap_content" android:layout_weight="1" android:orientation="vertical">
         <TextView android:id="@+id/w_next" android:layout_width="match_parent" android:layout_height="wrap_content"
             android:text="Open the app to start" android:textColor="#FFFFFF" android:textSize="15sp" android:textStyle="bold" android:maxLines="1" android:ellipsize="end"/>
