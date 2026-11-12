@@ -55,7 +55,7 @@ deck.addEventListener('click',e=>{const b=e.target.closest('.opt');if(!b)return;
   const Q=L[cur].quiz[q];ans[q]=j===Q.a;b.parentNode.querySelectorAll('.opt').forEach((o,k)=>{if(k===Q.a)o.classList.add('r');else if(k===j)o.classList.add('w')});
   const w=document.getElementById('w'+q);w.innerHTML=(j===Q.a?'<b>Correct.</b> ':'<b>Not quite.</b> ')+Q.w;w.classList.add('on');
   if(Object.keys(ans).length===L[cur].quiz.length)finish()});
-function finish(){const s=Object.values(ans).filter(Boolean).length;const f=s/L[cur].quiz.length;if(cur.endsWith('-T')){S.tests=S.tests||{};S.tests[cur]=Math.max(f,S.tests[cur]||0)}else{S.done[cur]=1;S.scores[cur]=f}if(!S.days.includes(today()))S.days.push(today());save();
+function finish(){const s=Object.values(ans).filter(Boolean).length;const f=s/L[cur].quiz.length;if(cur.endsWith('-T')){S.tests=S.tests||{};S.tests[cur]=Math.max(f,S.tests[cur]||0)}else{S.done[cur]=1;S.scores[cur]=f}if(!S.days.includes(today()))S.days.push(today());save();pushSync();
   document.getElementById('end').innerHTML=`${wreath}<div class="score">${s} / ${L[cur].quiz.length}</div><h2 style="margin-top:14px">${f>=.8?'Laurels earned':f>=.6?'Solid work':'Worth another read'}</h2><p>${f>=.8?'You know this well enough to write on it.':f>=.6?'Skim the cards you missed once more.':'Come back to this one tomorrow.'}</p><button class="start" onclick="back()">Back to the syllabus</button>`}
 let curCard=0;const io=new IntersectionObserver(es=>es.forEach(e=>{if(e.isIntersecting)e.target.classList.add('in')}),{threshold:.35});
 function upd(){const n=deck.children.length,i=Math.round(deck.scrollLeft/deck.clientWidth);curCard=i-1;document.getElementById('pg').style.width=((i+1)/n*100)+'%';document.getElementById('cnt').textContent=`${i+1}/${n}`}
@@ -113,7 +113,39 @@ document.getElementById('pick').onclick=openSheet;
 document.getElementById('sheetClose').onclick=()=>sheet.hidden=true;
 sheet.addEventListener('click',e=>{if(e.target===sheet)sheet.hidden=true});
 
-(async()=>{SUBJ=await fetch('subjects.json').then(r=>r.json());loadSubject(ls.get('subject')||SUBJ[0].id)})();
+/* ---------- daily reminders (web push) ---------- */
+const pushOn=document.getElementById('pushOn'),pushHour=document.getElementById('pushHour'),pushNote=document.getElementById('pushNote');
+for(let h=5;h<=23;h++)pushHour.add(new Option((h%12||12)+(h<12?' am':' pm'),h));
+pushHour.value=ls.get('pushHour')||'19';pushOn.checked=ls.get('push')==='1';
+const b64=s=>{const p='='.repeat((4-s.length%4)%4),r=atob((s+p).replace(/-/g,'+').replace(/_/g,'/'));return Uint8Array.from(r,c=>c.charCodeAt(0))};
+function studyState(){const next=ids.find(i=>IDX[i]&&!S.done[i]);let chapter='',left=0;
+  if(next){const [p,u]=next.split('-');chapter=MAP[p].units[u][0];left=MAP[p].units[u][1].filter((_,k)=>!S.done[`${p}-${u}-${k}`]).length}
+  return {streak:streak(),doneDay:S.days.includes(today())?today():'',subject:SUB.title,next:next?IDX[next].title:'',chapter,chapterLeft:left}}
+async function pushSync(off){try{
+  if(!('serviceWorker' in navigator)||!('PushManager' in window))return;
+  const reg=await navigator.serviceWorker.ready;let sub=await reg.pushManager.getSubscription();
+  if(off){if(sub){await fetch('/api/push-sync',{method:'POST',body:JSON.stringify({sub,off:true})});await sub.unsubscribe()}return}
+  if(ls.get('push')!=='1')return;
+  if(!sub){const {key}=await fetch('/api/push-key').then(r=>r.json());sub=await reg.pushManager.subscribe({userVisibleOnly:true,applicationServerKey:b64(key)})}
+  await fetch('/api/push-sync',{method:'POST',body:JSON.stringify({sub,hour:+pushHour.value,tz:new Date().getTimezoneOffset(),...studyState()})});
+}catch(e){console.warn('push',e)}}
+pushOn.onchange=async()=>{
+  if(pushOn.checked){
+    if(!('Notification' in window)||!('PushManager' in window)){pushOn.checked=false;pushNote.textContent='This browser can’t show reminders. Install the app from Chrome first.';return}
+    const perm=await Notification.requestPermission();
+    if(perm!=='granted'){pushOn.checked=false;pushNote.textContent='Notifications are blocked. Allow them in Chrome’s site settings, then try again.';return}
+    ls.set('push','1');pushNote.textContent='On. You’ll get a reminder at '+pushHour.selectedOptions[0].text+'.';pushSync()}
+  else{ls.set('push','0');pushNote.textContent='Off.';pushSync(true)}};
+pushHour.onchange=()=>{ls.set('pushHour',pushHour.value);if(pushOn.checked){pushNote.textContent='On. You’ll get a reminder at '+pushHour.selectedOptions[0].text+'.';pushSync()}};
+
+/* ---------- shortcuts (?go=continue|test|search) ---------- */
+function handleGo(){const go=new URLSearchParams(location.search).get('go');if(!go)return;history.replaceState(null,'',location.pathname);
+  const next=ids.find(i=>IDX[i]&&!S.done[i]);
+  if(go==='continue'&&next)openL(next);
+  else if(go==='test'&&next){const [p,u]=next.split('-');openTest(+p,+u)}
+  else if(go==='search'){show('search');document.getElementById('q').focus()}}
+
+(async()=>{SUBJ=await fetch('subjects.json').then(r=>r.json());await loadSubject(ls.get('subject')||SUBJ[0].id);handleGo();pushSync()})();
 /* ---------- chapter tests: 15 questions drawn from every lesson in the chapter ---------- */
 async function openTest(pi,ui){const u=MAP[pi].units[ui],pool=[];
   try{for(let k=0;k<u[1].length;k++){const l=await getLesson(`${pi}-${ui}-${k}`);l.quiz.forEach(q=>pool.push(q))}}catch(e){alert('The test could not load. Check your connection.');return}

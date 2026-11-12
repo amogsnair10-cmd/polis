@@ -199,3 +199,12 @@ svg.d{width:100%;height:auto;margin:4px 0 14px;flex-shrink:0;overflow:visible}
 .quote{font-family:var(--font-display);font-style:italic}
 .unit .t{font-weight:500;font-size:15.5px}
 .choice,.choice small{font-family:var(--font-body)}
+/* reminder row */
+.remind{display:flex;align-items:center;gap:12px;padding:12px 14px;border-radius:16px;border:1px solid var(--opt-line);background:#fff}
+.remind b{display:block;font-size:15px}.remind small{display:block;color:var(--vein);font-size:13px;line-height:1.35}
+.remind>div{flex:1}
+#pushHour{font:inherit;font-size:14px;padding:8px;border-radius:10px;border:1px solid var(--opt-line);background:#fff;color:var(--ink)}
+.tog{position:relative;width:46px;height:28px;flex:none}.tog input{opacity:0;width:0;height:0}
+.tog span{position:absolute;inset:0;border-radius:99px;background:#cfd4da;transition:.25s}
+.tog span::after{content:"";position:absolute;width:22px;height:22px;left:3px;top:3px;border-radius:50%;background:#fff;box-shadow:0 1px 4px rgba(0,0,0,.25);transition:.25s var(--ease)}
+.tog input:checked+span{background:var(--goldd)}.tog input:checked+span::after{transform:translateX(18px)}

@@ -1,0 +1,9 @@
+{
+ "name": "light-bulb-site",
+ "private": true,
+ "description": "Netlify functions for daily study reminders. The web app itself needs no packages.",
+ "dependencies": {
+  "@netlify/blobs": "11.1.7",
+  "web-push": "3.6.7"
+ }
+}

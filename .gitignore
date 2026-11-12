@@ -1,6 +1,6 @@
 android/
-node_modules/
-www/
+mobile/android/
 mobile/node_modules/
 mobile/www/
-mobile/android/
+node_modules/
+www/
