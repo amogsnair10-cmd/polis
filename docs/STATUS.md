@@ -12,6 +12,10 @@
 - Briefs: `docs/WRITER_BRIEF.md`, `docs/EXPAND_BRIEF.md` (append-only new lessons), `docs/CHECKER_BRIEF.md`, `docs/PIPELINE.md`.
 - ~30 new lessons per subject were planned: done for PSIR (32) and World History (30); History, Communist Theory and Astronomy were partly done; Geography, Environment, Physics, Chemistry, Biology, Quantum not started.
 
+## Photos and listening
+- ~1,200 graded free-licence photos (Wikimedia via Wikipedia lead images) in `art/photos/<id>/`, mapped in `photos.json`. Made by `scripts/photos.py` via the "Lesson photos" GitHub workflow (input: JSON list of subject ids; resumable). If its merge step fails, run "Merge lesson photos" with the run id.
+- Listen button (`listen.js`): phone voice; native TTS plugin in the APK.
+
 ## Doodles
 - Chapter doodles: all 11 subjects done (`art/doodles/<id>/<section>-<unit>.svg`).
 - Lesson doodles (cover + 2 key cards, `art/doodles/<id>/L/`): done for all 11 subjects.
@@ -20,7 +24,8 @@
 ## Open items
 1. (Done) Lesson doodles. Optional: redraw weak ones the user points out.
 2. Server features are off since leaving Netlify: built-in Gemini (no key) and browser push reminders. Plan: a free Cloudflare Worker; then set `window.LB_API` to its URL. Code for the functions is in `netlify/functions/` and `netlify/lib/` to port.
-3. Remaining ~30-lesson expansions (see Content).
+3. Remaining ~30-lesson expansions: Geography (62) and Environment (51) done now; Physics, Chemistry, Biology, Quantum not started. Fact-check items: docs/CHECK_PSIR.md; new Geography facts unverified.
+6. Permanent APK signing key (keystore in a GitHub secret) so updates install without uninstalling.
 4. Play Store: needs a Play Console account, a signed release bundle (keystore in GitHub secrets), privacy policy, screenshots.
 5. User reported general "bugs/abruptness"; a motion pass was done. Ask for specific screenshots of anything still off.
 
