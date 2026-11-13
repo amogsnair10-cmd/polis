@@ -56,7 +56,11 @@ def grade(raw,night,gold):
   b=io.BytesIO();im.save(b,'WEBP',quality=68,method=6);return b.getvalue()
 def main():
   picks=json.load(open(OUT)) if os.path.exists(OUT) else {}
-  used={v['file'] for v in picks.values() if v}
+  main=json.load(open(R+'/photos.json')) if os.path.exists(R+'/photos.json') else {}
+  if OUT!=R+'/photos.json':  # resume from what's already published for these subjects
+    for k,v in main.items():
+      if k.split('/')[0] in sys.argv[1:]:picks.setdefault(k,v)
+  used={v['file'] for v in list(picks.values())+list(main.values()) if v}
   only=set(sys.argv[1:]);n=0
   for s in json.load(open(R+'/subjects.json')):
     sid,d=s['id'],s.get('dir','.')
