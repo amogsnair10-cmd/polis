@@ -1,0 +1,176 @@
+{
+ "id": "3-1-1",
+ "title": "Straits, Gulfs and Places in the News",
+ "emoji": "📍",
+ "cards": [
+  {
+   "tag": "Why this matters",
+   "h": "Map questions come from the news",
+   "b": "<p>UPSC prelims often asks you to locate places from current affairs: a strait in a conflict, a gulf, a canal or a lake. A short mental atlas of choke points, seas and capitals helps. This lesson builds that atlas in a few clean groups.</p>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "Strategic straits",
+   "b": "<svg class=\"d\" viewBox=\"0 0 320 140\"><rect x=\"10\" y=\"6\" width=\"300\" height=\"38\" rx=\"6\" fill=\"#f1e4c6\" stroke=\"#a8792a\" stroke-width=\"1.5\"/><text x=\"160\" y=\"22\" fill=\"#7d5a1c\" font-size=\"12\" text-anchor=\"middle\" font-weight=\"700\">Straits</text><text x=\"160\" y=\"37\" fill=\"#5d6474\" font-size=\"10\" text-anchor=\"middle\">Hormuz, Malacca, Bab-el-Mandeb</text><rect x=\"10\" y=\"50\" width=\"300\" height=\"38\" rx=\"6\" fill=\"#dceaec\" stroke=\"#2f6f7a\" stroke-width=\"1.5\"/><text x=\"160\" y=\"66\" fill=\"#2f6f7a\" font-size=\"12\" text-anchor=\"middle\" font-weight=\"700\">Canals</text><text x=\"160\" y=\"81\" fill=\"#5d6474\" font-size=\"10\" text-anchor=\"middle\">Suez, Panama</text><rect x=\"10\" y=\"94\" width=\"300\" height=\"38\" rx=\"6\" fill=\"#f4dcd5\" stroke=\"#a3362a\" stroke-width=\"1.5\"/><text x=\"160\" y=\"110\" fill=\"#a3362a\" font-size=\"12\" text-anchor=\"middle\" font-weight=\"700\">Seas</text><text x=\"160\" y=\"125\" fill=\"#5d6474\" font-size=\"10\" text-anchor=\"middle\">Black Sea, South China Sea</text></svg><p><b>Hormuz</b> (between Iran and Oman, Persian Gulf to Gulf of Oman; about a fifth of world oil trade). <b>Malacca</b> (between Peninsular Malaysia and Sumatra; shortest route Indian Ocean to Pacific). <b>Bab-el-Mandeb</b> (Red Sea to Gulf of Aden, between Yemen and Djibouti and Eritrea). <b>Bosporus</b> and <b>Dardanelles</b> (Turkey, Black Sea to the Mediterranean). <b>Gibraltar</b> (Spain and Morocco). <b>Taiwan Strait</b>. <b>Sunda</b> and <b>Lombok</b>.</p>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "Canals",
+   "b": "<p><b>Suez Canal</b> (1869, Egypt, Mediterranean to Red Sea), saves the long route around Africa. The Ever Given blockage in 2021 halted traffic for about six days. <b>Panama Canal</b> (1914, with locks, Atlantic to Pacific), hit by drought limits in 2023-24. <b>Kiel Canal</b> (Germany). The proposed <b>Kra Canal</b> in Thailand is long debated.</p>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "Gulfs and bays",
+   "b": "<p>Persian Gulf (Iran, Iraq, Kuwait, Saudi Arabia, Bahrain, Qatar, UAE, Oman). Gulf of Aden, Gulf of Aqaba, Gulf of Oman. Gulf of Mannar and Palk Bay (India-Sri Lanka), Palk Strait. Gulf of Khambhat and Kachchh. Bay of Bengal. Gulf of Mexico. Gulf of Finland. Gulf of Guinea. Gulf of Tonkin. The Red Sea and the Black Sea are the other hot seas of the news.</p>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "Seas and lakes in the news",
+   "b": "<p><b>Black Sea</b>: Ukraine, Russia, Turkey, Bulgaria, Romania, Georgia. <b>Sea of Azov</b>. <b>Caspian Sea</b> (five states). <b>South China Sea</b> (disputed islands: Spratly, Paracel; the 2016 arbitral award in favour of the Philippines). <b>East China Sea</b> (Senkaku). <b>Aral</b>, <b>Dead Sea</b>. <b>Mediterranean</b> (Gaza, Crete). <b>Arctic Ocean</b>.</p>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "Cities, capitals and borders",
+   "b": "<p>Know a few hot capitals: Kyiv, Moscow, Tehran, Tel Aviv-Jerusalem, Gaza, Damascus, Kabul, Naypyidaw, Dhaka, Colombo, Port Louis, Doha. Know borders: the Durand Line (Afghanistan-Pakistan), the McMahon Line (India-China), the Radcliffe Line, the 38th parallel (Korea), and Line of Control (India-Pakistan).</p>"
+  },
+  {
+   "tag": "Key idea",
+   "h": "Chokepoints and energy",
+   "b": "<p>Shipping bottlenecks: Hormuz, Malacca, Bab-el-Mandeb, Suez, Bosporus and Panama. In 2023-24, Houthi attacks on Red Sea shipping forced ships to sail around the Cape of Good Hope, adding 10-14 days and raising costs. India's trade, oil and fertiliser imports pass through these points.</p>"
+  },
+  {
+   "tag": "Debate",
+   "h": "Freedom of navigation",
+   "b": "<p>UNCLOS (1982) gives territorial sea of 12 nautical miles, exclusive economic zone of 200 nm and 'transit passage' through straits. The USA has not ratified it. China rejects parts of its rulings in the South China Sea. These issues matter for India's Indo-Pacific policy and the Quad.</p>"
+  },
+  {
+   "tag": "Indian angle",
+   "h": "India's own map",
+   "b": "<p>The Palk Strait separates India and Sri Lanka, with Adam's Bridge. The Ten Degree Channel lies in the Andamans. The Siliguri Corridor ('Chicken's Neck') links the northeast. Chabahar port in Iran. Katchatheevu island was ceded to Sri Lanka in 1974. Passes at Nathu La. The Strait of Malacca is near the Andaman and Nicobar Command at Port Blair.</p>"
+  },
+  {
+   "tag": "Exam lens",
+   "h": "How to answer",
+   "b": "<p>Likely questions: 'Locate the Bab-el-Mandeb on a map', 'Importance of the Strait of Malacca for India', 'Why is the Suez Canal significant?'</p><ul><li>For prelims: learn a pair, such as 'Hormuz: Iran and Oman'.</li><li>For mains: strategic, trade and energy angles with an Indian link.</li><li>Update your list every month from the news.</li></ul>",
+   "cls": "exam"
+  }
+ ],
+ "quiz": [
+  {
+   "q": "The Strait of Hormuz connects the?",
+   "o": [
+    "Red Sea and Gulf of Aden",
+    "Black Sea and Mediterranean",
+    "Persian Gulf and Gulf of Oman",
+    "Atlantic and Pacific"
+   ],
+   "a": 2,
+   "w": "Between Iran and Oman."
+  },
+  {
+   "q": "The Bab-el-Mandeb connects the?",
+   "o": [
+    "Red Sea and Gulf of Aden",
+    "Persian Gulf and Arabian Sea",
+    "Black Sea and Aegean",
+    "Baltic and North Sea"
+   ],
+   "a": 0,
+   "w": "Between Yemen and Africa."
+  },
+  {
+   "q": "The Suez Canal opened in?",
+   "o": [
+    "1869",
+    "1914",
+    "1950",
+    "1990"
+   ],
+   "a": 0,
+   "w": "Egypt."
+  },
+  {
+   "q": "The Panama Canal connects the?",
+   "o": [
+    "Indian and Pacific",
+    "Red Sea and Mediterranean",
+    "Atlantic and Pacific",
+    "Baltic and North Sea"
+   ],
+   "a": 2,
+   "w": "1914."
+  },
+  {
+   "q": "The Bosporus is in?",
+   "o": [
+    "Egypt",
+    "Greece",
+    "Turkey",
+    "Iran"
+   ],
+   "a": 2,
+   "w": "Istanbul."
+  },
+  {
+   "q": "The McMahon Line is the boundary between?",
+   "o": [
+    "India and China (Tibet)",
+    "India and Pakistan",
+    "India and Nepal",
+    "India and Myanmar"
+   ],
+   "a": 0,
+   "w": "The eastern sector."
+  },
+  {
+   "q": "The Durand Line separates?",
+   "o": [
+    "Afghanistan and Pakistan",
+    "India and China",
+    "Iran and Iraq",
+    "Korea"
+   ],
+   "a": 0,
+   "w": "1893."
+  },
+  {
+   "q": "The Palk Strait lies between?",
+   "o": [
+    "India and Maldives",
+    "India and Myanmar",
+    "India and Sri Lanka",
+    "Sri Lanka and Maldives"
+   ],
+   "a": 2,
+   "w": "Adam's Bridge is here."
+  },
+  {
+   "q": "The Siliguri Corridor is also called?",
+   "o": [
+    "Gateway of India",
+    "Golden Quadrilateral",
+    "Chicken's Neck",
+    "Hormuz of India"
+   ],
+   "a": 2,
+   "w": "Links the northeast."
+  },
+  {
+   "q": "UNCLOS defines the EEZ as?",
+   "o": [
+    "200 nautical miles",
+    "12 nautical miles",
+    "24 nautical miles",
+    "350 nautical miles only"
+   ],
+   "a": 0,
+   "w": "Territorial sea is 12 nm."
+  }
+ ],
+ "sources": [
+  "NCERT Class 11 and 12 Geography",
+  "Certificate Physical and Human Geography, G C Leong",
+  "Standard atlas"
+ ],
+ "verified": "2026-11-13"
+}

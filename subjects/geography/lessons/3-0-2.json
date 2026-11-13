@@ -1,0 +1,176 @@
+{
+ "id": "3-0-2",
+ "title": "Floods, Droughts and Landslides in India",
+ "emoji": "🌧️",
+ "cards": [
+  {
+   "tag": "Why this matters",
+   "h": "The hazards that hit India every year",
+   "b": "<p>Floods, droughts and landslides cause the most frequent losses in India. They are linked to monsoon variation, relief and human activity. UPSC asks for causes, vulnerable areas, mitigation and the policy framework. This lesson adds depth to the general hazard overview.</p>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "Floods: causes",
+   "b": "<svg class=\"d\" viewBox=\"0 0 320 140\"><rect x=\"10\" y=\"6\" width=\"300\" height=\"38\" rx=\"6\" fill=\"#f1e4c6\" stroke=\"#a8792a\" stroke-width=\"1.5\"/><text x=\"160\" y=\"22\" fill=\"#7d5a1c\" font-size=\"12\" text-anchor=\"middle\" font-weight=\"700\">Floods</text><text x=\"160\" y=\"37\" fill=\"#5d6474\" font-size=\"10\" text-anchor=\"middle\">Assam, Bihar, urban drains</text><rect x=\"10\" y=\"50\" width=\"300\" height=\"38\" rx=\"6\" fill=\"#dceaec\" stroke=\"#2f6f7a\" stroke-width=\"1.5\"/><text x=\"160\" y=\"66\" fill=\"#2f6f7a\" font-size=\"12\" text-anchor=\"middle\" font-weight=\"700\">Droughts</text><text x=\"160\" y=\"81\" fill=\"#5d6474\" font-size=\"10\" text-anchor=\"middle\">Meteorological, hydrological, agricultural</text><rect x=\"10\" y=\"94\" width=\"300\" height=\"38\" rx=\"6\" fill=\"#f4dcd5\" stroke=\"#a3362a\" stroke-width=\"1.5\"/><text x=\"160\" y=\"110\" fill=\"#a3362a\" font-size=\"12\" text-anchor=\"middle\" font-weight=\"700\">Landslides</text><text x=\"160\" y=\"125\" fill=\"#5d6474\" font-size=\"10\" text-anchor=\"middle\">Himalaya, Ghats, road cuts</text></svg><p>Heavy rain, river silt, embankment breaches, glacial lake bursts, cyclone storm surge, and urban drains clogged by encroachment. About 40 million hectares, roughly an eighth of the land, is flood-prone, per the Rashtriya Barh Ayog (1980). Brahmaputra, Ganga and Kosi plains see the worst riverine floods; Assam floods nearly every year.</p>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "Flood patterns",
+   "b": "<p>Floods: Assam and the northeast (Brahmaputra, Barak), Bihar (Kosi, Gandak, Bagmati), Uttar Pradesh, West Bengal (Damodar), Odisha delta rivers, Andhra and Telangana (Godavari, Krishna). Urban floods: Mumbai 2005 (944 mm in a day), Chennai 2015, Srinagar 2014, Kerala 2018 and 2019, Hyderabad 2020, Bengaluru 2022.</p>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "Flood management",
+   "b": "<p><b>Structural</b>: dams, embankments, channel improvement, flood walls. <b>Non-structural</b>: forecasting (Central Water Commission), flood plain zoning, early warning, insurance, and the Flood Management and Border Areas Programme. Embankments can raise riverbeds and trap silt, so some experts prefer room for the river. Urban drainage and wetland protection matter.</p>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "Droughts",
+   "b": "<p>IMD defines a drought year when seasonal rain is less than 90 percent of the long period average (in the all-India case, deficiency over 10 percent). Types: <b>meteorological</b> (rain deficit), <b>hydrological</b> (low rivers and groundwater), <b>agricultural</b> (soil moisture and crop loss). About 16 percent of the country is drought-prone, mostly in Rajasthan, Gujarat, Maharashtra (Marathwada, Vidarbha), Karnataka, Andhra (Rayalaseema), Telangana and Odisha.</p>"
+  },
+  {
+   "tag": "Key idea",
+   "h": "Drought response",
+   "b": "<p>Drought Management Guidelines (2010, NDMA), MGNREGA wage work, crop insurance (PMFBY), watershed development, the Jal Shakti Abhiyan and Atal Bhujal Yojana. The Manual for Drought Management (2016, revised 2020) sets triggers. Years of national drought: 1965-66, 1972, 1987, 2002, 2009, 2014-15. Cause linked to El Nino and weak monsoon.</p>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "Landslides",
+   "b": "<p>Slope failure caused by steep slopes, weak and fractured rock, heavy rain, earthquakes and human cuts for roads and buildings. India has about 12 percent of its land at risk. Hotspots: the Himalaya (Uttarakhand, Himachal, Sikkim), the northeast, the Western Ghats (Kerala, Karnataka, Goa) and the Nilgiris. The Geological Survey of India (GSI) leads mapping and the National Landslide Susceptibility Map.</p>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "Landslide events and control",
+   "b": "<p>Malin, Maharashtra (2014), Kedarnath (2013), Kerala's Kavalappara and Puthumala (2019), Wayanad (July 2024), Joshimath subsidence (2023). Mitigation: avoid building on unstable slopes, retaining walls, drainage, afforestation, geotextiles, early warning systems and rainfall thresholds. The NDMA Landslide guidelines (2009) and the National Landslide Risk Management Strategy (2019) guide policy.</p>"
+  },
+  {
+   "tag": "Indian angle",
+   "h": "The institutional frame",
+   "b": "<p>Disaster Management Act 2005: NDMA, SDMA, DDMA. NDRF (2006), SDRF, the 15th Finance Commission's allocation to the National and State Disaster Mitigation Funds. The shift is from relief-centric to prevention, led by the Sendai Framework (2015-30). Kerala's State plans after 2018 and Odisha's cyclone model are models.</p>"
+  },
+  {
+   "tag": "Exam lens",
+   "h": "How to answer",
+   "b": "<p>Likely questions: 'Why does Assam face floods every year?', 'Differentiate types of drought', 'Landslides in the Himalaya: causes and mitigation'.</p><ul><li>Split into natural and anthropogenic causes.</li><li>Split measures into structural and non-structural.</li><li>Quote one institution and one scheme.</li></ul>",
+   "cls": "exam"
+  }
+ ],
+ "quiz": [
+  {
+   "q": "The Rashtriya Barh Ayog was set up in?",
+   "o": [
+    "1947",
+    "1999",
+    "1976",
+    "2005"
+   ],
+   "a": 2,
+   "w": "Report 1980."
+  },
+  {
+   "q": "Drought caused by low soil moisture is called?",
+   "o": [
+    "Agricultural drought",
+    "Hydrological",
+    "Meteorological",
+    "Social"
+   ],
+   "a": 0,
+   "w": "Crop-centred."
+  },
+  {
+   "q": "A meteorological drought is defined by?",
+   "o": [
+    "Rainfall deficit",
+    "River flow",
+    "Soil moisture",
+    "Crop yield"
+   ],
+   "a": 0,
+   "w": "Rain below normal."
+  },
+  {
+   "q": "The Kosi is known as?",
+   "o": [
+    "Sorrow of Bengal",
+    "Lifeline of Odisha",
+    "Sorrow of Bihar",
+    "Dakshin Ganga"
+   ],
+   "a": 2,
+   "w": "It shifts course."
+  },
+  {
+   "q": "Joshimath subsidence occurred in?",
+   "o": [
+    "1999",
+    "2005",
+    "2023",
+    "2015"
+   ],
+   "a": 2,
+   "w": "Uttarakhand."
+  },
+  {
+   "q": "Landslide hotspots include the?",
+   "o": [
+    "Himalaya and Western Ghats",
+    "Thar",
+    "Deccan interior",
+    "Rann"
+   ],
+   "a": 0,
+   "w": "Steep and wet."
+  },
+  {
+   "q": "The NDMA was set up under?",
+   "o": [
+    "The Disaster Management Act 2005",
+    "The Environment Act",
+    "The Forest Act",
+    "The Constitution Article 262"
+   ],
+   "a": 0,
+   "w": "Created 2005."
+  },
+  {
+   "q": "The Sendai Framework covers?",
+   "o": [
+    "2005 to 2015",
+    "1990 to 2000",
+    "2015 to 2030",
+    "2020 to 2050"
+   ],
+   "a": 2,
+   "w": "Disaster risk reduction."
+  },
+  {
+   "q": "The Mumbai floods of 2005 saw about how much rain in a day?",
+   "o": [
+    "100 mm",
+    "300 mm",
+    "944 mm",
+    "50 mm"
+   ],
+   "a": 2,
+   "w": "Record deluge."
+  },
+  {
+   "q": "Which agency issues flood forecasts for rivers?",
+   "o": [
+    "Central Water Commission",
+    "IMD only",
+    "ISRO",
+    "CPCB"
+   ],
+   "a": 0,
+   "w": "CWC."
+  }
+ ],
+ "sources": [
+  "NCERT Class 11 and 12 Geography",
+  "Certificate Physical and Human Geography, G C Leong",
+  "Standard atlas"
+ ],
+ "verified": "2026-11-13"
+}

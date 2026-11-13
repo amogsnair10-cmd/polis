@@ -1,0 +1,176 @@
+{
+ "id": "1-0-13",
+ "title": "Eco-Sensitive Zones: Rules, Disputes and Cases",
+ "emoji": "🛡️",
+ "cards": [
+  {
+   "tag": "Why this matters",
+   "h": "A buffer that sparks fights",
+   "b": "<p>Eco-Sensitive Zones (ESZs) are around protected areas and are a frequent Prelims and Mains theme because they touch courts, farmers and development. The 2022 Supreme Court order on a one-kilometre buffer made them a news topic again.</p><p>Know what an ESZ is, who notifies it and what is allowed.</p>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "What an ESZ is",
+   "b": "<p>An <b>Eco-Sensitive Zone</b> (also called Ecologically Fragile Area) is an area around a national park or wildlife sanctuary that works as a <b>shock absorber</b>. It eases the shift from a strictly protected core to areas of heavier use. It is <b>not a legal term in the Wildlife (Protection) Act</b>. The Centre notifies ESZs under <b>Section 3(2)(v) of the Environment (Protection) Act, 1986</b> and Rule 5(1) of the 1986 Rules.</p><p>The <b>National Wildlife Action Plan 2002-2016</b> asked for land around PAs to be notified as ESZ.</p>"
+  },
+  {
+   "tag": "Rules",
+   "h": "The 10 km idea and flexibility",
+   "b": "<p>In 2002 the Wildlife Conservation Strategy said ESZs should reach up to <b>10 km</b> around PAs. The <b>MoEFCC guidelines (2011)</b> say the width can vary from site to site, and where sensitive corridors or areas lie beyond 10 km, the ESZ may extend further. A <b>Monitoring Committee</b> and a <b>Zonal Master Plan</b>, prepared by the state, guide land use.</p><p>Activities are sorted into three groups:</p><ul><li><b>Prohibited:</b> commercial mining, sawmills, polluting industries, major hydroelectric projects, use of firewood commercially.</li><li><b>Regulated:</b> tree felling, hotels and resorts, new roads, drawing of groundwater.</li><li><b>Promoted:</b> rainwater harvesting, organic farming, renewable energy, eco-tourism.</li></ul>"
+  },
+  {
+   "tag": "Court orders",
+   "h": "Supreme Court and the 1 km rule",
+   "b": "<p>In <b>Goa Foundation v Union of India</b> (2006) the Court directed that ESZ be notified around PAs. On <b>3 June 2022</b>, in the <b>T.N. Godavarman case</b>, the Supreme Court ruled that every protected area must have a mandatory <b>ESZ of at least 1 km</b> from its boundary, and that <b>mining is not allowed within the PA</b>. Several states objected that villages and farms would be hit.</p><p>In <b>April 2023</b> the Court <b>modified</b> its order: the 1 km rule would not apply where an ESZ was already notified or proposed under earlier guidelines, and the bar on mining within the PA stayed. The Court also gave relief for areas with existing homes and public use.</p><svg class='d' viewBox='0 0 320 160' role='img' aria-label='Rings around a park'><rect x='10' y='8' width='300' height='30' rx='4' fill='#dceaec' stroke='#2f6f7a'/><text x='160' y='27' font-size='11' text-anchor='middle' fill='#1d2433'>Core: no human use</text><rect x='10' y='46' width='300' height='30' rx='4' fill='#f1e4c6' stroke='#a8792a'/><text x='160' y='65' font-size='11' text-anchor='middle' fill='#1d2433'>Sanctuary: limited use</text><rect x='10' y='84' width='300' height='30' rx='4' fill='#f4dcd5' stroke='#a3362a'/><text x='160' y='103' font-size='11' text-anchor='middle' fill='#1d2433'>ESZ: regulated activity</text><rect x='10' y='122' width='300' height='30' rx='4' fill='#dceaec' stroke='#2f6f7a'/><text x='160' y='141' font-size='11' text-anchor='middle' fill='#1d2433'>Beyond: normal land use</text></svg>"
+  },
+  {
+   "tag": "Special notifications",
+   "h": "Other fragile areas",
+   "b": "<p>The <b>EPA 1986</b> has also been used for named regions:</p><ul><li><b>Doon Valley</b> (1989).</li><li><b>Dahanu taluka</b>, Maharashtra (1991), where an authority (the Dahanu Taluka Environment Protection Authority, 1996) checks projects.</li><li><b>Mahabaleshwar-Panchgani</b> (2001) and <b>Matheran</b> (2003).</li><li><b>Bhagirathi Eco-Sensitive Zone</b>, Uttarakhand, notified in <b>2012</b>, covering about <b>100 km</b> from Gaumukh to Uttarkashi. It affected small hydropower projects.</li></ul><p>The <b>Western Ghats</b> ESA proposals (Gadgil 2011 and Kasturirangan 2013) are the largest of such attempts.</p>"
+  },
+  {
+   "tag": "Diagram",
+   "h": "Layers from core outward",
+   "b": "<p>Think of the zones as rings. The <b>core</b> of a national park has no human use. The <b>sanctuary</b> allows limited activity. The <b>ESZ</b> regulates activity. Beyond lies <b>general land use</b>. ESZs also keep animals from straying into fields by managing land use at the edge, and they reduce noise, dust and light pollution close to the core.</p>"
+  },
+  {
+   "tag": "Debate",
+   "h": "Whose land is it?",
+   "b": "<p>Villagers fear bans on building, farming and wells and say they were not consulted. Developers and states say a blanket 1 km is rigid in dense places like Kerala, where thousands of homes lie within 1 km of PAs. Conservation groups say a thin buffer cannot stop encroachment, mining and roads.</p><p>The ESZ also lacks direct statutory backing in the WPA, so some experts want it added.</p>"
+  },
+  {
+   "tag": "Indian angle",
+   "h": "Cases and states",
+   "b": "<p>Kerala sought relief after the 2022 order as the 1 km rule would touch homes around many sanctuaries, including Wayanad. Goa and Karnataka have long-pending ESZ proposals around PAs. The <b>Rajaji</b> ESZ and the <b>Corbett</b> ESZ affect tourism. The notification process asks for a draft with a 60-day public comment and then final notification. About 2,000 or so ESZs are notified or proposed across India (a figure that changes).</p>"
+  },
+  {
+   "tag": "Revision",
+   "h": "Fast facts",
+   "b": "<ul><li>ESZ: notified under EPA 1986, not WPA.</li><li>2011 MoEFCC guidelines: up to 10 km, flexible.</li><li>3 June 2022: SC ordered 1 km minimum; April 2023: modified.</li><li>Bhagirathi ESZ: 2012.</li><li>Three lists: prohibited, regulated, promoted.</li></ul>"
+  },
+  {
+   "tag": "Exam lens",
+   "h": "How to answer",
+   "b": "<p><b>Prelims-style:</b> \"Eco-Sensitive Zones are notified under which Act?\" (EPA 1986). \"Which area is a Western Ghats-linked ecologically fragile area?\"</p><p><b>Mains-style:</b> \"Eco-sensitive zones are essential yet controversial. Discuss.\" Structure: purpose; legal base; court orders; livelihood and development conflict; reform (participatory master plans, flexible width, statutory backing).</p>",
+   "cls": "exam"
+  }
+ ],
+ "quiz": [
+  {
+   "q": "ESZs around protected areas are notified under:",
+   "o": [
+    "Wildlife (Protection) Act 1972",
+    "Forest Act 1927",
+    "Environment (Protection) Act 1986",
+    "Biodiversity Act 2002"
+   ],
+   "a": 2,
+   "w": "Section 3(2)(v) of the EPA."
+  },
+  {
+   "q": "The 2002 guidance on ESZ width said up to:",
+   "o": [
+    "1 km",
+    "10 km",
+    "100 km",
+    "500 m"
+   ],
+   "a": 1,
+   "w": "Later guidelines made it flexible."
+  },
+  {
+   "q": "The Supreme Court's June 2022 order required a minimum ESZ of:",
+   "o": [
+    "1 km",
+    "10 km",
+    "5 km",
+    "100 m"
+   ],
+   "a": 0,
+   "w": "It was modified in April 2023."
+  },
+  {
+   "q": "Which case saw the 2022 ESZ order?",
+   "o": [
+    "Goa Foundation only",
+    "Vellore Citizens",
+    "M.C. Mehta Oleum",
+    "T.N. Godavarman Thirumulpad"
+   ],
+   "a": 3,
+   "w": "The Forest Bench case."
+  },
+  {
+   "q": "Which activity is typically prohibited in an ESZ?",
+   "o": [
+    "Organic farming",
+    "Rainwater harvesting",
+    "Commercial mining",
+    "Eco-tourism"
+   ],
+   "a": 2,
+   "w": "Mining is on the prohibited list."
+  },
+  {
+   "q": "The Bhagirathi ESZ was notified in:",
+   "o": [
+    "1989",
+    "2012",
+    "2003",
+    "2022"
+   ],
+   "a": 1,
+   "w": "It covers about 100 km."
+  },
+  {
+   "q": "Dahanu taluka is in:",
+   "o": [
+    "Maharashtra",
+    "Kerala",
+    "Goa",
+    "Gujarat"
+   ],
+   "a": 0,
+   "w": "A fragile area under EPA 1986."
+  },
+  {
+   "q": "A Zonal Master Plan is prepared by:",
+   "o": [
+    "The Supreme Court",
+    "CPCB only",
+    "NITI Aayog",
+    "The State government"
+   ],
+   "a": 3,
+   "w": "It guides land use in the ESZ."
+  },
+  {
+   "q": "ESZs act as:",
+   "o": [
+    "Core areas",
+    "Mining blocks",
+    "Shock absorbers",
+    "Industrial parks"
+   ],
+   "a": 2,
+   "w": "They ease the move from protected to used land."
+  },
+  {
+   "q": "The WPA itself:",
+   "o": [
+    "Creates ESZs in Section 35",
+    "Does not define ESZs",
+    "Bans all buffers",
+    "Sets 10 km everywhere"
+   ],
+   "a": 1,
+   "w": "The EPA is used."
+  }
+ ],
+ "sources": [
+  "Shankar IAS Environment",
+  "MoEFCC, Supreme Court orders and PIB",
+  "Respective Acts and reports (official texts)"
+ ],
+ "verified": "2026-11-13"
+}

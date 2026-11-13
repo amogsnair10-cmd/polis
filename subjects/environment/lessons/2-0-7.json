@@ -1,0 +1,176 @@
+{
+ "id": "2-0-7",
+ "title": "Eutrophication, Heavy Metals and Bioremediation",
+ "emoji": "🧪",
+ "cards": [
+  {
+   "tag": "Why this matters",
+   "h": "Frequent technical terms",
+   "b": "<p>Prelims uses these terms in tricky statements: BOD, eutrophication, heavy metals, bioremediation and phytoremediation. Each is simple once you see how it works.</p><p>Mains links them to rivers, farming and industrial disasters.</p>"
+  },
+  {
+   "tag": "Eutrophication",
+   "h": "Too many nutrients",
+   "b": "<p><b>Eutrophication</b> is over-enrichment of water with nutrients, mainly <b>nitrogen and phosphorus</b> from fertiliser, sewage and detergents. It makes algae bloom. When they die, bacteria use up oxygen (<b>BOD</b> rises, <b>DO</b> falls) and fish die. Lakes may turn into marsh over time.</p><p><b>Natural</b> eutrophication takes centuries. <b>Cultural</b> eutrophication caused by people is rapid. A <b>bloom</b> can also release toxins. The Gulf of Mexico dead zone and Indian lakes like Dal, Hussain Sagar and Ooty are examples.</p>"
+  },
+  {
+   "tag": "Oxygen terms",
+   "h": "BOD, COD and DO",
+   "b": "<ul><li><b>DO:</b> dissolved oxygen. Healthy water holds above 5 mg per litre.</li><li><b>BOD:</b> the oxygen needed by microbes to break down organic matter. High BOD means heavy organic pollution.</li><li><b>COD:</b> chemical oxygen demand, a measure of all chemically oxidisable matter.</li></ul><p>Indicator organisms like <b>coliform bacteria</b> show sewage contamination. Clean river targets set BOD below 3 mg per litre for bathing water (CPCB class A and B criteria).</p>"
+  },
+  {
+   "tag": "Heavy metals",
+   "h": "Poisons that stay",
+   "b": "<p>Heavy metals such as <b>mercury, lead, cadmium, arsenic and chromium</b> do not break down. They bioaccumulate and biomagnify.</p><ul><li><b>Mercury:</b> Minamata disease (Japan, 1956).</li><li><b>Cadmium:</b> Itai-itai disease (Japan).</li><li><b>Lead:</b> harms children's brains; leaded petrol was phased out in India by 2000.</li><li><b>Arsenic:</b> groundwater in West Bengal, Bihar, Assam and the Gangetic plain.</li><li><b>Fluoride:</b> causes fluorosis in Rajasthan and Andhra Pradesh.</li></ul><p>The <b>Bhopal gas tragedy</b> (1984, methyl isocyanate leak) is the key industrial disaster.</p><svg class='d' viewBox='0 0 320 160' role='img' aria-label='Eutrophication chain'><rect x='10' y='8' width='300' height='30' rx='4' fill='#f4dcd5' stroke='#a3362a'/><text x='160' y='27' font-size='11' text-anchor='middle' fill='#1d2433'>Fertiliser and sewage add nutrients</text><rect x='10' y='46' width='300' height='30' rx='4' fill='#f4dcd5' stroke='#a3362a'/><text x='160' y='65' font-size='11' text-anchor='middle' fill='#1d2433'>Algae bloom</text><rect x='10' y='84' width='300' height='30' rx='4' fill='#f4dcd5' stroke='#a3362a'/><text x='160' y='103' font-size='11' text-anchor='middle' fill='#1d2433'>Algae die; microbes use oxygen</text><rect x='10' y='122' width='300' height='30' rx='4' fill='#f4dcd5' stroke='#a3362a'/><text x='160' y='141' font-size='11' text-anchor='middle' fill='#1d2433'>Low oxygen: fish die</text></svg>"
+  },
+  {
+   "tag": "Bioremediation",
+   "h": "Using living things to clean",
+   "b": "<p><b>Bioremediation</b> uses microbes or plants to break down or remove pollutants.</p><ul><li><b>In-situ:</b> done at the site. <b>Ex-situ:</b> soil or water is taken elsewhere.</li><li><b>Bioaugmentation:</b> adding specially grown microbes.</li><li><b>Biostimulation:</b> adding nutrients to help local microbes.</li><li><b>Phytoremediation:</b> plants take up metals, such as sunflower and Indian mustard.</li><li><b>Mycoremediation:</b> fungi.</li></ul><p>Oil-eating bacteria are used in oil spills. Wetlands and <b>constructed reed beds</b> clean waste water cheaply. <b>Bioremediation</b> is slower but cheaper than digging up soil.</p>"
+  },
+  {
+   "tag": "Related",
+   "h": "Other terms often mixed in",
+   "b": "<p><b>Biomagnification:</b> rise in concentration up the food chain. <b>Bioaccumulation:</b> build-up in one organism. <b>Algal bloom:</b> rapid algae growth. <b>Thermal pollution:</b> warm water from power plants lowers oxygen. <b>Radioactive fallout:</b> Chernobyl (1986), Fukushima (2011).</p><p>India's standards for effluents come under the Environment (Protection) Rules 1986. <b>Zero Liquid Discharge</b> is required of many industries on the Ganga.</p>"
+  },
+  {
+   "tag": "Debate",
+   "h": "Cure or prevention?",
+   "b": "<p>Bioremediation sounds clean, but it works only for certain pollutants and conditions. Heavy metals can only be moved or locked, not destroyed. Many experts say that preventing pollution at the source, through effluent treatment and less fertiliser, is far cheaper than cleaning later.</p><p>Farmers rely on subsidised urea, so nitrogen runs high. Fertiliser reform and neem-coated urea (2015) are part of the answer.</p>"
+  },
+  {
+   "tag": "Indian angle",
+   "h": "Case examples",
+   "b": "<p>The <b>Yamuna</b> has very high BOD and froth below Delhi from detergents and sewage. <b>Kolleru</b> and <b>Vembanad</b> show nutrient pollution. Punjab's Malwa belt has cancers linked in public debate to heavy metals and pesticides in water, still a contested subject. <b>Arsenic</b> in the Ganga delta region affects millions. Phytoremediation trials use water hyacinth for metals.</p>"
+  },
+  {
+   "tag": "Revision",
+   "h": "Definitions",
+   "b": "<ul><li>Eutrophication: nutrient overload, low oxygen.</li><li>BOD: oxygen microbes need to break down organic matter.</li><li>Heavy metals: persist and biomagnify.</li><li>Bioremediation: living organisms clean pollutants.</li><li>Phytoremediation: plants do it.</li></ul>"
+  },
+  {
+   "tag": "Exam lens",
+   "h": "How to answer",
+   "b": "<p><b>Prelims-style:</b> \"A high BOD indicates\" (heavy organic pollution). \"Which of these is used in phytoremediation?\" \"Eutrophication is caused by excess of\" (nitrogen and phosphorus).</p><p><b>Mains-style:</b> \"Explain eutrophication and its effects on Indian water bodies. How can it be controlled?\" Structure: definition; causes; chain of events; effects; Indian examples; control (sewage treatment, fertiliser use, wetlands, bioremediation).</p>",
+   "cls": "exam"
+  }
+ ],
+ "quiz": [
+  {
+   "q": "Eutrophication is caused mainly by excess:",
+   "o": [
+    "Carbon monoxide",
+    "Nitrogen and phosphorus",
+    "Mercury",
+    "Salt"
+   ],
+   "a": 1,
+   "w": "From fertiliser and sewage."
+  },
+  {
+   "q": "High BOD indicates:",
+   "o": [
+    "Heavy organic pollution",
+    "Pure water",
+    "High oxygen",
+    "Low nutrients"
+   ],
+   "a": 0,
+   "w": "Microbes need more oxygen."
+  },
+  {
+   "q": "Itai-itai disease is caused by:",
+   "o": [
+    "Mercury",
+    "Lead",
+    "Arsenic",
+    "Cadmium"
+   ],
+   "a": 3,
+   "w": "Minamata is mercury."
+  },
+  {
+   "q": "Using plants to remove pollutants is called:",
+   "o": [
+    "Biomagnification",
+    "Bioleaching",
+    "Phytoremediation",
+    "Biofortification"
+   ],
+   "a": 2,
+   "w": "For example, mustard for metals."
+  },
+  {
+   "q": "Adding nutrients to boost local microbes is:",
+   "o": [
+    "Bioaugmentation",
+    "Biostimulation",
+    "Bioaccumulation",
+    "Biosorption"
+   ],
+   "a": 1,
+   "w": "Bioaugmentation adds microbes."
+  },
+  {
+   "q": "Arsenic in groundwater is a big problem in:",
+   "o": [
+    "West Bengal and Bihar",
+    "Kerala",
+    "Goa",
+    "Sikkim"
+   ],
+   "a": 0,
+   "w": "Gangetic plain."
+  },
+  {
+   "q": "The Bhopal tragedy of 1984 involved:",
+   "o": [
+    "Mercury",
+    "Radiation",
+    "Oil",
+    "Methyl isocyanate"
+   ],
+   "a": 3,
+   "w": "From a pesticide plant."
+  },
+  {
+   "q": "Fluorosis is linked with excess:",
+   "o": [
+    "Iodine",
+    "Arsenic",
+    "Fluoride",
+    "Iron"
+   ],
+   "a": 2,
+   "w": "Seen in Rajasthan."
+  },
+  {
+   "q": "Dissolved oxygen in healthy water is above about:",
+   "o": [
+    "1 mg per litre",
+    "5 mg per litre",
+    "0.5 mg per litre",
+    "50 mg per litre"
+   ],
+   "a": 1,
+   "w": "Fish need oxygen."
+  },
+  {
+   "q": "Coliform bacteria indicate:",
+   "o": [
+    "Sewage contamination",
+    "Heavy metals",
+    "Acid rain",
+    "Salinity"
+   ],
+   "a": 0,
+   "w": "They are indicator organisms."
+  }
+ ],
+ "sources": [
+  "Shankar IAS Environment",
+  "MoEFCC, Supreme Court orders and PIB",
+  "Respective Acts and reports (official texts)"
+ ],
+ "verified": "2026-11-13"
+}

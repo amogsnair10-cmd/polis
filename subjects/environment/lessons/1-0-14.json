@@ -1,0 +1,176 @@
+{
+ "id": "1-0-14",
+ "title": "National Parks and Sanctuaries in the News",
+ "emoji": "📰",
+ "cards": [
+  {
+   "tag": "Why this matters",
+   "h": "Current affairs meets static",
+   "b": "<p>UPSC often builds questions from a park in the news: where it is, what it holds, what the issue is. A static fact (state, species, legal category) plus a news hook is the pattern.</p><p>This lesson gives the legal base and then recent cases. Check the latest figures as they change, and treat counts as \"as of\" values.</p>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "Park versus sanctuary",
+   "b": "<p>Under the Wildlife (Protection) Act 1972: <b>sanctuaries</b> are declared under <b>Section 26A</b> (earlier Section 18) and allow some activities like grazing with permission. <b>National parks</b> are declared under <b>Section 35</b>, with stricter bans on grazing and private rights. <b>Conservation reserves</b> (Section 36A) and <b>community reserves</b> (Section 36C) cover government and community land. <b>Tiger reserves</b> come under <b>Section 38V</b>.</p><p>India has over <b>100 national parks</b> and over <b>500 sanctuaries</b>, covering about 5 percent of land (counts as of recent years).</p>"
+  },
+  {
+   "tag": "Great Nicobar",
+   "h": "Development versus forest",
+   "b": "<p>The <b>Great Nicobar Island</b> project (about Rs 72,000 crore, with a transshipment port, airport, township and power plant) is a repeated news item. It needs diversion of about <b>130 sq km</b> of forest and sits near <b>Campbell Bay National Park</b> and the <b>Great Nicobar Biosphere Reserve</b>. The area is home to the <b>Shompen</b>, a Particularly Vulnerable Tribal Group, and the Nicobar megapode. The <b>Galathea Bay Wildlife Sanctuary</b> was denotified in 2021 for the port. NGT and Calcutta High Court reviews and Forest Rights Act concerns have been raised.</p>"
+  },
+  {
+   "tag": "Ken-Betwa",
+   "h": "Panna and the river link",
+   "b": "<p>The <b>Ken-Betwa Link Project</b> (agreement in 2021, foundation in December 2024) will divert water from the Ken to the Betwa in Bundelkhand. Part of the <b>Panna Tiger Reserve</b> (Madhya Pradesh) will be submerged, with about 6,000 hectares of its area affected as per reports. The reserve is also a UNESCO biosphere reserve (2020). The Supreme Court's Central Empowered Committee flagged the tiger habitat loss. Compensation plans include a new tiger landscape.</p><svg class='d' viewBox='0 0 320 160' role='img' aria-label='Park in the news: five checks'><rect x='10' y='8' width='300' height='30' rx='4' fill='#dceaec' stroke='#2f6f7a'/><text x='160' y='27' font-size='11' text-anchor='middle' fill='#1d2433'>State and legal category</text><rect x='10' y='46' width='300' height='30' rx='4' fill='#dceaec' stroke='#2f6f7a'/><text x='160' y='65' font-size='11' text-anchor='middle' fill='#1d2433'>Key species</text><rect x='10' y='84' width='300' height='30' rx='4' fill='#dceaec' stroke='#2f6f7a'/><text x='160' y='103' font-size='11' text-anchor='middle' fill='#1d2433'>The issue or project</text><rect x='10' y='122' width='300' height='30' rx='4' fill='#dceaec' stroke='#2f6f7a'/><text x='160' y='141' font-size='11' text-anchor='middle' fill='#1d2433'>Law, body or court involved</text></svg>"
+  },
+  {
+   "tag": "Kaziranga and Gir",
+   "h": "Rhinos and lions",
+   "b": "<p><b>Kaziranga</b> (Assam) holds two-thirds of the world's one-horned rhinos. Floods push animals onto <b>NH-715</b>, so an <b>elevated corridor</b> was approved in 2025 (check the status). <b>Gir</b> (Gujarat) is the only home of the <b>Asiatic lion</b>. The census showed about <b>674 lions in 2020</b> and a higher count reported in 2025 (about 891, to be verified). Lions now live outside the park in the Saurashtra region, and <b>Barda</b> sanctuary is seen as a second home. Kuno is a past plan for a second lion site.</p>"
+  },
+  {
+   "tag": "Kuno and others",
+   "h": "Management stories",
+   "b": "<p><b>Kuno National Park</b> (Madhya Pradesh) hosts the cheetah project. <b>Bandipur and Nagarhole</b> are the site of the night-traffic ban on NH-766 (Kerala demand versus Supreme Court). <b>Jim Corbett</b> drew a Supreme Court rebuke in 2024 over tree felling and illegal construction for a tiger safari at <b>Pakhrau</b>. <b>Sariska</b> and <b>Ranthambore</b> saw tiger translocations. The <b>Ratapani</b> sanctuary in Madhya Pradesh was notified as a tiger reserve in 2023-24.</p>"
+  },
+  {
+   "tag": "Debate",
+   "h": "Development on the edge",
+   "b": "<p>Governments say strategic roads, ports and irrigation matter. Conservationists say forest diversion damages the very sites they claim to protect. Compensatory afforestation does not recreate old forest. The <b>Forest (Conservation) Amendment Act 2023</b> has been challenged on the same grounds.</p><p>A useful frame: avoid, minimise, then compensate. Ask whether the project truly needs this site.</p>"
+  },
+  {
+   "tag": "Indian angle",
+   "h": "How to prepare these",
+   "b": "<p>For each park in the news, note five things: state, legal category, key species, the issue and the law or body involved (NTCA, NBWL, Forest Rights Act, CAMPA). Create a one-line summary. Use the latest Hindu or Indian Express report for numbers, and mark them with the year.</p>"
+  },
+  {
+   "tag": "Revision",
+   "h": "Static anchors",
+   "b": "<ul><li>Sanctuary: Section 26A. National Park: Section 35. Tiger reserve: 38V.</li><li>Kaziranga: Assam, rhino. Gir: lion. Kuno: cheetah. Panna: Ken-Betwa.</li><li>Great Nicobar: Campbell Bay NP, Shompen.</li><li>Check each year's newest additions.</li></ul>"
+  },
+  {
+   "tag": "Exam lens",
+   "h": "How to answer",
+   "b": "<p><b>Prelims-style:</b> \"Consider the following protected areas and their states.\" \"Which of these is a tiger reserve?\" Know pairs like Panna-Madhya Pradesh and Pakke-Arunachal.</p><p><b>Mains-style:</b> \"Infrastructure projects near protected areas pose a dilemma. Discuss with examples.\" Structure: legal safeguards; Ken-Betwa and Great Nicobar; court and NBWL role; compensation limits; way forward.</p>",
+   "cls": "exam"
+  }
+ ],
+ "quiz": [
+  {
+   "q": "National Parks are declared under which Section of the WPA?",
+   "o": [
+    "Section 26A",
+    "Section 36A",
+    "Section 38V",
+    "Section 35"
+   ],
+   "a": 3,
+   "w": "26A is for sanctuaries."
+  },
+  {
+   "q": "The Ken-Betwa project affects which tiger reserve?",
+   "o": [
+    "Corbett",
+    "Kanha",
+    "Panna",
+    "Bandipur"
+   ],
+   "a": 2,
+   "w": "In Madhya Pradesh."
+  },
+  {
+   "q": "The Shompen tribe lives in:",
+   "o": [
+    "Nilgiris",
+    "Great Nicobar",
+    "Sundarbans",
+    "Ladakh"
+   ],
+   "a": 1,
+   "w": "A Particularly Vulnerable Tribal Group."
+  },
+  {
+   "q": "Kaziranga is best known for:",
+   "o": [
+    "One-horned rhino",
+    "Asiatic lion",
+    "Gharial",
+    "Snow leopard"
+   ],
+   "a": 0,
+   "w": "In Assam."
+  },
+  {
+   "q": "The only home of the Asiatic lion is:",
+   "o": [
+    "Kuno",
+    "Ranthambore",
+    "Sariska",
+    "Gir, Gujarat"
+   ],
+   "a": 3,
+   "w": "Kuno is planned as a second site."
+  },
+  {
+   "q": "Kuno National Park is in:",
+   "o": [
+    "Rajasthan",
+    "Gujarat",
+    "Madhya Pradesh",
+    "Uttar Pradesh"
+   ],
+   "a": 2,
+   "w": "Cheetah project site."
+  },
+  {
+   "q": "Which Section creates conservation reserves?",
+   "o": [
+    "Section 35",
+    "Section 36A",
+    "Section 38V",
+    "Section 18"
+   ],
+   "a": 1,
+   "w": "Community reserves are 36C."
+  },
+  {
+   "q": "Night traffic ban on NH-766 concerns:",
+   "o": [
+    "Bandipur and Nagarhole",
+    "Corbett",
+    "Kaziranga",
+    "Gir"
+   ],
+   "a": 0,
+   "w": "A Kerala-Karnataka issue."
+  },
+  {
+   "q": "Pakhrau tiger safari was in:",
+   "o": [
+    "Panna",
+    "Kanha",
+    "Pench",
+    "Jim Corbett"
+   ],
+   "a": 3,
+   "w": "Supreme Court rebuked it in 2024."
+  },
+  {
+   "q": "Great Nicobar biosphere reserve contains:",
+   "o": [
+    "Kaziranga",
+    "Gir",
+    "Campbell Bay National Park",
+    "Keoladeo"
+   ],
+   "a": 2,
+   "w": "Together with Galathea Bay."
+  }
+ ],
+ "sources": [
+  "Shankar IAS Environment",
+  "MoEFCC, Supreme Court orders and PIB",
+  "Respective Acts and reports (official texts)"
+ ],
+ "verified": "2026-11-13"
+}

@@ -1,0 +1,176 @@
+{
+ "id": "2-2-1",
+ "title": "Glacier Melt, Sea-Level Rise and the Changing Arctic",
+ "emoji": "🧊",
+ "cards": [
+  {
+   "tag": "Why this matters",
+   "h": "Syllabus theme: changes in critical geographical features",
+   "b": "<p>The GS1 syllabus asks about 'changes in critical geographical features (including water bodies and ice-caps) and in flora and fauna, and the effects of such changes'. This lesson gives the ice, the sea and the Arctic in one place with data and examples.</p>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "Where the ice is",
+   "b": "<svg class=\"d\" viewBox=\"0 0 320 140\"><rect x=\"10\" y=\"6\" width=\"300\" height=\"38\" rx=\"6\" fill=\"#f1e4c6\" stroke=\"#a8792a\" stroke-width=\"1.5\"/><text x=\"160\" y=\"22\" fill=\"#7d5a1c\" font-size=\"12\" text-anchor=\"middle\" font-weight=\"700\">Ice loss</text><text x=\"160\" y=\"37\" fill=\"#5d6474\" font-size=\"10\" text-anchor=\"middle\">Poles and Himalaya melt</text><rect x=\"10\" y=\"50\" width=\"300\" height=\"38\" rx=\"6\" fill=\"#dceaec\" stroke=\"#2f6f7a\" stroke-width=\"1.5\"/><text x=\"160\" y=\"66\" fill=\"#2f6f7a\" font-size=\"12\" text-anchor=\"middle\" font-weight=\"700\">Sea level</text><text x=\"160\" y=\"81\" fill=\"#5d6474\" font-size=\"10\" text-anchor=\"middle\">Thermal expansion plus melt</text><rect x=\"10\" y=\"94\" width=\"300\" height=\"38\" rx=\"6\" fill=\"#f4dcd5\" stroke=\"#a3362a\" stroke-width=\"1.5\"/><text x=\"160\" y=\"110\" fill=\"#a3362a\" font-size=\"12\" text-anchor=\"middle\" font-weight=\"700\">Impact</text><text x=\"160\" y=\"125\" fill=\"#5d6474\" font-size=\"10\" text-anchor=\"middle\">Coasts, rivers, Arctic routes</text></svg><p>About 99 percent of glacial ice sits in the <b>Antarctic</b> and <b>Greenland</b> ice sheets. Antarctica alone holds about 58 m of potential sea-level rise, Greenland about 7 m. Mountain glaciers hold far less (about 0.3 m) but supply rivers to billions. Sea ice floats, so melting it does not raise sea level much, but loses its reflecting effect.</p>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "Why the poles warm faster",
+   "b": "<p><b>Arctic amplification</b>: the Arctic is warming nearly four times as fast as the world average since 1979, according to a 2022 study. Reasons: ice-albedo feedback (dark water absorbs more heat), more heat from the oceans, and changes in clouds and the atmosphere. Summer Arctic sea ice has fallen about 12-13 percent a decade since 1979.</p>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "Sea-level rise",
+   "b": "<p>Global mean sea level has risen about 20-25 cm since 1900 and the rate is now over 4 mm a year. Causes: <b>thermal expansion</b> of warming water and <b>melt</b> of ice sheets and glaciers. The IPCC AR6 (2021) projects about 0.28-1.01 m by 2100 depending on emissions, with higher values possible if ice sheets collapse. Low islands (Tuvalu, Maldives, Kiribati) and deltas are most at risk.</p>"
+  },
+  {
+   "tag": "Key idea",
+   "h": "Tipping points",
+   "b": "<p>Thresholds beyond which change is hard to reverse: loss of the Greenland ice sheet, collapse of the West Antarctic ice sheet (Thwaites, the 'Doomsday Glacier'), thawing permafrost releasing methane, and weakening of the <b>AMOC</b> (Atlantic Meridional Overturning Circulation), which warms Europe. Scientists such as Timothy Lenton have mapped these 'tipping elements'.</p>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "Permafrost and methane",
+   "b": "<p>About a quarter of the northern hemisphere land is permafrost. Thaw releases CO2 and methane, damages roads and buildings in Siberia and Alaska, and creates thermokarst lakes and sinkholes (the Batagaika crater in Siberia). The Siberian heatwave in 2020 reached 38 degrees C in Verkhoyansk.</p>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "Arctic opening and geopolitics",
+   "b": "<p>New routes: the <b>Northern Sea Route</b> along Russia and the <b>Northwest Passage</b> through Canada save thousands of km between Asia and Europe. Resource claims on oil and gas. The <b>Arctic Council</b> (1996) has eight members; India got observer status in 2013 and set up Himadri station at Ny-Alesund (2008), Svalbard. India's Arctic Policy came in 2022.</p>"
+  },
+  {
+   "tag": "Debate",
+   "h": "Antarctica and Southern Ocean",
+   "b": "<p>The Antarctic Treaty (1959) bans military use and mining; the Madrid Protocol (1991) protects the environment. West Antarctica loses ice, while parts of East Antarctica have gained snow at times. India has stations Maitri (1989) and Bharati (2012) and a new Antarctic Act (2022) to regulate activity there. Antarctic sea ice hit record lows in 2023.</p>"
+  },
+  {
+   "tag": "Indian angle",
+   "h": "India at risk",
+   "b": "<p>India has about 7,500 km of coast with the Sundarbans, Mumbai, Kolkata, Chennai and the Maldives-like Lakshadweep at risk. Sea-level rise is about 3.3 mm a year in India's north Indian Ocean. Himalayan glacier retreat endangers river flow, with GLOF hazards. Responses include the CRZ rules, cyclone shelters, and mangrove restoration.</p>"
+  },
+  {
+   "tag": "Exam lens",
+   "h": "How to answer",
+   "b": "<p>Likely questions: 'Melting of polar ice and its impact on India', 'Arctic opening: opportunities and risks', 'Tipping points in the climate system'.</p><ul><li>Cause: warming, albedo feedback. Effect: sea level, circulation, weather.</li><li>Give India: coast, monsoon, Himalayan rivers and polar stations.</li><li>Finish with mitigation and adaptation plus treaties.</li></ul>",
+   "cls": "exam"
+  }
+ ],
+ "quiz": [
+  {
+   "q": "About how much of glacial ice is in Antarctica and Greenland?",
+   "o": [
+    "50 percent",
+    "10 percent",
+    "99 percent",
+    "75 percent"
+   ],
+   "a": 2,
+   "w": "Almost all of it."
+  },
+  {
+   "q": "Arctic amplification means the Arctic warms?",
+   "o": [
+    "Faster than the global average",
+    "Slower",
+    "At equal pace",
+    "Not at all"
+   ],
+   "a": 0,
+   "w": "Roughly four times as fast."
+  },
+  {
+   "q": "Melting sea ice mostly affects?",
+   "o": [
+    "Albedo, not sea level directly",
+    "Sea level strongly",
+    "Tides only",
+    "Volcanoes"
+   ],
+   "a": 0,
+   "w": "Floating ice already displaces water."
+  },
+  {
+   "q": "The IPCC AR6 was released in?",
+   "o": [
+    "1990",
+    "2007",
+    "2021 to 2023",
+    "2030"
+   ],
+   "a": 2,
+   "w": "Working group reports 2021-22, synthesis 2023."
+  },
+  {
+   "q": "The Himadri station is in?",
+   "o": [
+    "Antarctica",
+    "Greenland",
+    "Svalbard (Arctic)",
+    "Iceland"
+   ],
+   "a": 2,
+   "w": "At Ny-Alesund."
+  },
+  {
+   "q": "Which is an Indian Antarctic station?",
+   "o": [
+    "Maitri",
+    "Himadri",
+    "Dakshin Gangotri",
+    "Svalbard"
+   ],
+   "a": 0,
+   "w": "Maitri 1989, Bharati 2012."
+  },
+  {
+   "q": "The Arctic Council was formed in?",
+   "o": [
+    "1996",
+    "1959",
+    "1982",
+    "2010"
+   ],
+   "a": 0,
+   "w": "Eight members."
+  },
+  {
+   "q": "The Antarctic Treaty was signed in?",
+   "o": [
+    "1996",
+    "1972",
+    "1959",
+    "2008"
+   ],
+   "a": 2,
+   "w": "Entered into force 1961."
+  },
+  {
+   "q": "Thawing permafrost releases?",
+   "o": [
+    "Oxygen",
+    "Nitrogen",
+    "Methane and CO2",
+    "Helium"
+   ],
+   "a": 2,
+   "w": "Greenhouse gases."
+  },
+  {
+   "q": "AMOC stands for?",
+   "o": [
+    "Atlantic Meridional Overturning Circulation",
+    "Arctic Marine Ocean Current",
+    "Atlantic Monsoon Ocean Cycle",
+    "Antarctic Mean Ocean Current"
+   ],
+   "a": 0,
+   "w": "The ocean conveyor belt."
+  }
+ ],
+ "sources": [
+  "NCERT Class 11 and 12 Geography",
+  "Certificate Physical and Human Geography, G C Leong",
+  "Standard atlas"
+ ],
+ "verified": "2026-11-13"
+}
