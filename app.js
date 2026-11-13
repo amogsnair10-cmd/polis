@@ -42,11 +42,15 @@ async function getLesson(id){
   const r=await fetch(path(`lessons/${id}.json`));if(!r.ok)throw new Error(r.status);
   return L[id]=await r.json();
 }
+let PHOTOS={};
+/* Graded free-licence photo for a lesson (key "id") or card (key "id_k"), with a small credit. */
+function photo(key,cls){const p=PHOTOS[SUB.id+'/'+key];if(!p)return '';const c=p.credit.replace(/[<>&"]/g,'');
+  return `<figure class="ph ${cls}"><img src="${p.src}" alt="" loading="lazy" decoding="async" onload="this.classList.add('in')" onerror="this.parentNode.remove()"><a class="cr" href="${p.page}" target="_blank" rel="noopener">${c}</a></figure>`}
 async function openL(id,card){
   let l;try{l=await getLesson(id)}catch(e){alert('This lesson could not load. Check your connection and try again.');return}
   cur=id;
-  let h=`<div class="cd"><div class="ci marble cover">${ldood(id,'dd big')||doodle(id,'dd big')||`<div class="em">${l.emoji}</div>`}<div class="tag">${unitOf(id)}</div><h2>${l.title}</h2><p class="hint">Swipe left to begin</p></div></div>`;
-  l.cards.forEach((c,k)=>h+=`<div class="cd"><div class="ci marble ${c.cls||''}">${ldood(id+'_'+k,'dd card')}<div class="tag">${c.tag}</div><h2>${c.h}</h2>${c.b}</div></div>`);
+  let h=`<div class="cd"><div class="ci marble cover">${photo(id,'big')||ldood(id,'dd big')||doodle(id,'dd big')||`<div class="em">${l.emoji}</div>`}<div class="tag">${unitOf(id)}</div><h2>${l.title}</h2><p class="hint">Swipe left to begin</p></div></div>`;
+  l.cards.forEach((c,k)=>h+=`<div class="cd"><div class="ci marble ${c.cls||''}">${photo(id+'_'+k,'card')||ldood(id+'_'+k,'dd card')}<div class="tag">${c.tag}</div><h2>${c.h}</h2>${c.b}</div></div>`);
   l.quiz.forEach((q,i)=>h+=`<div class="cd"><div class="ci marble"><div class="tag">Question ${i+1} of ${l.quiz.length}</div><h2 style="font-size:21px">${q.q}</h2>${q.o.map((o,j)=>`<button class="opt" data-q="${i}" data-j="${j}">${o}</button>`).join('')}<div class="why" id="w${i}"></div></div></div>`);
   h+=`<div class="cd"><div class="ci marble cover" id="end"><div class="tag">Answer every question to finish</div></div></div>`;
   deck.innerHTML=h;deck.querySelectorAll('.ci').forEach(c=>io.observe(c));window.ans={};show('lesson');deck.scrollLeft=card>=0?(card+1)*deck.clientWidth:0;upd();deck.querySelectorAll('.ci').forEach(c=>{if(c.scrollHeight>c.clientHeight+4){const m=document.createElement('div');m.className='more';m.textContent='Scroll down for more';c.parentNode.appendChild(m);c.addEventListener('scroll',()=>{m.classList.toggle('gone',c.scrollTop+c.clientHeight>=c.scrollHeight-30)},{passive:true})}});
@@ -194,7 +198,7 @@ const mk=(u,cls)=>`<i class="${cls}" style="--u:url('${u}')"></i>`;
 const doodle=(id,cls='dd')=>{const [p,u]=id.split('-'),k=p+'-'+u;return SUB&&((DOODLES.units||{})[SUB.id]||[]).includes(k)?mk(`art/doodles/${SUB.id}/${k}.svg`,cls):''};
 // lesson doodles: cover (lessonId) and key cards (lessonId_k)
 const ldood=(name,cls)=>SUB&&((DOODLES.lessons||{})[SUB.id]||[]).includes(name)?mk(`art/doodles/${SUB.id}/L/${name}.svg`,cls):'';
-(async()=>{SUBJ=await fetch('subjects.json').then(r=>r.json());DOODLES=await fetch('doodles.json').then(r=>r.json()).catch(()=>({}));await loadSubject(ls.get('subject')||SUBJ[0].id);await Promise.race([document.getElementById('heroArt').ready,new Promise(r=>setTimeout(r,3500))]);hideSplash();handleGo();import('./account.js').catch(e=>{const a=document.getElementById('acct');if(a)a.innerHTML='<p class="note">Sign-in needs the internet. Your progress is still saved on this phone.</p>'});pushSync()})();
+(async()=>{SUBJ=await fetch('subjects.json').then(r=>r.json());DOODLES=await fetch('doodles.json').then(r=>r.json()).catch(()=>({}));fetch('photos.json').then(r=>r.json()).then(j=>PHOTOS=j).catch(()=>{});await loadSubject(ls.get('subject')||SUBJ[0].id);await Promise.race([document.getElementById('heroArt').ready,new Promise(r=>setTimeout(r,3500))]);hideSplash();handleGo();import('./account.js').catch(e=>{const a=document.getElementById('acct');if(a)a.innerHTML='<p class="note">Sign-in needs the internet. Your progress is still saved on this phone.</p>'});pushSync()})();
 /* ---------- chapter tests: 15 questions drawn from every lesson in the chapter ---------- */
 async function openTest(pi,ui){const u=MAP[pi].units[ui],pool=[];
   try{for(let k=0;k<u[1].length;k++){const l=await getLesson(`${pi}-${ui}-${k}`);l.quiz.forEach(q=>pool.push(q))}}catch(e){alert('The test could not load. Check your connection.');return}
