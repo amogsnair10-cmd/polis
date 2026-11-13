@@ -6,7 +6,7 @@
   {
    "tag": "Why this matters",
    "h": "Three river systems, three personalities",
-   "b": "<p>The Himalayan rivers are perennial, fed by rain and snow. They carry huge silt, form big plains and deltas, and cross borders. UPSC asks about tributaries, courses, hydro projects, floods and treaties. Learn each river's source, major tributaries, and what is special about it.</p>"
+   "b": "<p>The Himalayan rivers are perennial, fed by rain and snow. They carry huge silt, form big plains and deltas, and cross borders. UPSC asks about tributaries, courses, hydro projects, floods and treaties. Learn each river's source, major tributaries, and what is special about it.</p><p>Always link each river to a map: source place, the state or country it crosses, the confluence, and the sea it reaches. Examiners reward neat labelled sketches with a few numbers.</p>"
   },
   {
    "tag": "Core idea",
@@ -70,12 +70,12 @@
   {
    "q": "The Indus Waters Treaty was signed in?",
    "o": [
-    "1960",
     "1947",
+    "1960",
     "1972",
     "1996"
    ],
-   "a": 0,
+   "a": 1,
    "w": "With World Bank help."
   },
   {
@@ -94,10 +94,10 @@
    "o": [
     "Jamuna",
     "Padma",
-    "Tsangpo",
-    "Siang"
+    "Siang",
+    "Tsangpo"
    ],
-   "a": 2,
+   "a": 3,
    "w": "It is the Yarlung Tsangpo."
   },
   {
@@ -114,12 +114,12 @@
   {
    "q": "The Ganga was declared the national river in?",
    "o": [
-    "2008",
     "1986",
+    "2008",
     "2014",
     "2020"
    ],
-   "a": 0,
+   "a": 1,
    "w": "Namami Gange started in 2014."
   },
   {
@@ -138,10 +138,10 @@
    "o": [
     "Ghaghara",
     "Kosi",
-    "Yamuna",
-    "Gandak"
+    "Gandak",
+    "Yamuna"
    ],
-   "a": 2,
+   "a": 3,
    "w": "It joins at Prayagraj."
   },
   {
@@ -149,21 +149,21 @@
    "o": [
     "Flows backward",
     "Is seasonal",
-    "Predates the rising mountains",
-    "Flows underground"
+    "Flows underground",
+    "Predates the rising mountains"
    ],
-   "a": 2,
+   "a": 3,
    "w": "It cuts gorges as the land rises."
   },
   {
    "q": "In Bangladesh the Ganga is known as?",
    "o": [
-    "Padma",
     "Jamuna",
     "Meghna",
+    "Padma",
     "Hooghly"
    ],
-   "a": 0,
+   "a": 2,
    "w": "It meets the Brahmaputra (Jamuna)."
   }
  ],

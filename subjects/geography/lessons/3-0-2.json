@@ -6,7 +6,7 @@
   {
    "tag": "Why this matters",
    "h": "The hazards that hit India every year",
-   "b": "<p>Floods, droughts and landslides cause the most frequent losses in India. They are linked to monsoon variation, relief and human activity. UPSC asks for causes, vulnerable areas, mitigation and the policy framework. This lesson adds depth to the general hazard overview.</p>"
+   "b": "<p>Floods, droughts and landslides cause the most frequent losses in India. They are linked to monsoon variation, relief and human activity. UPSC asks for causes, vulnerable areas, mitigation and the policy framework. This lesson adds depth to the general hazard overview.</p><p>Frame each hazard in three steps: cause, pattern in India and the response, and mention one recent event so your answer shows currency.</p>"
   },
   {
    "tag": "Core idea",
@@ -51,7 +51,7 @@
   {
    "tag": "Exam lens",
    "h": "How to answer",
-   "b": "<p>Likely questions: 'Why does Assam face floods every year?', 'Differentiate types of drought', 'Landslides in the Himalaya: causes and mitigation'.</p><ul><li>Split into natural and anthropogenic causes.</li><li>Split measures into structural and non-structural.</li><li>Quote one institution and one scheme.</li></ul>",
+   "b": "<p>Likely questions: 'Why does Assam face floods every year?', 'Differentiate types of drought', 'Landslides in the Himalaya: causes and mitigation'.</p><ul><li>Split into natural and anthropogenic causes.</li><li>Split measures into structural and non-structural.</li><li>Quote one institution and one scheme.</li></ul><p>The National Disaster Management Plan (2019) follows the Sendai Framework. States prepare their own plans, and district authorities run local drills and early warning.</p>",
    "cls": "exam"
   }
  ],
@@ -60,11 +60,11 @@
    "q": "The Rashtriya Barh Ayog was set up in?",
    "o": [
     "1947",
-    "1999",
     "1976",
+    "1999",
     "2005"
    ],
-   "a": 2,
+   "a": 1,
    "w": "Report 1980."
   },
   {
@@ -81,12 +81,12 @@
   {
    "q": "A meteorological drought is defined by?",
    "o": [
-    "Rainfall deficit",
     "River flow",
     "Soil moisture",
-    "Crop yield"
+    "Crop yield",
+    "Rainfall deficit"
    ],
-   "a": 0,
+   "a": 3,
    "w": "Rain below normal."
   },
   {
@@ -104,11 +104,11 @@
    "q": "Joshimath subsidence occurred in?",
    "o": [
     "1999",
-    "2005",
     "2023",
+    "2005",
     "2015"
    ],
-   "a": 2,
+   "a": 1,
    "w": "Uttarakhand."
   },
   {
@@ -125,12 +125,12 @@
   {
    "q": "The NDMA was set up under?",
    "o": [
-    "The Disaster Management Act 2005",
     "The Environment Act",
     "The Forest Act",
-    "The Constitution Article 262"
+    "The Constitution Article 262",
+    "The Disaster Management Act 2005"
    ],
-   "a": 0,
+   "a": 3,
    "w": "Created 2005."
   },
   {
@@ -158,12 +158,12 @@
   {
    "q": "Which agency issues flood forecasts for rivers?",
    "o": [
-    "Central Water Commission",
     "IMD only",
+    "Central Water Commission",
     "ISRO",
     "CPCB"
    ],
-   "a": 0,
+   "a": 1,
    "w": "CWC."
   }
  ],

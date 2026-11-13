@@ -6,7 +6,7 @@
   {
    "tag": "Why this matters",
    "h": "Industry follows resources, then ports, then people",
-   "b": "<p>Industrial regions are classic exam content: name the region, give its base and explain decline or growth. The old coal and steel belts have shrunk while East Asia has risen. Link to deindustrialisation and the rise of electronics clusters.</p>"
+   "b": "<p>Industrial regions are classic exam content: name the region, give its base and explain decline or growth. The old coal and steel belts have shrunk while East Asia has risen. Link to deindustrialisation and the rise of electronics clusters.</p><p>Think of a region in three steps: why it began (coal, ore, port), why it grew (market, labour, policy) and why it declined or changed (cost, technology, competition).</p>"
   },
   {
    "tag": "Core idea",
@@ -31,12 +31,12 @@
   {
    "tag": "Core idea",
    "h": "Other regions",
-   "b": "<p><b>Russia</b>: Moscow-St Petersburg, Urals, Kuznetsk. <b>Ukraine</b>: Donetsk. <b>India</b>: Hooghly, Mumbai-Pune, Ahmedabad-Vadodara, Chennai-Bengaluru, Chotanagpur. <b>Brazil</b>: Sao Paulo. <b>South Africa</b>: Gauteng (Johannesburg). <b>Australia</b>: Sydney-Newcastle-Wollongong.</p>"
+   "b": "<p><b>Russia</b>: Moscow-St Petersburg, Urals, Kuznetsk. <b>Ukraine</b>: Donetsk. <b>India</b>: Hooghly, Mumbai-Pune, Ahmedabad-Vadodara, Chennai-Bengaluru, Chotanagpur. <b>Brazil</b>: Sao Paulo. <b>South Africa</b>: Gauteng (Johannesburg). <b>Australia</b>: Sydney-Newcastle-Wollongong.</p><p>The Ruhr's coal and steel base also gave rise to the European Coal and Steel Community (1951), the seed of the European Union, since the French and Germans pooled these resources.</p>"
   },
   {
    "tag": "Key idea",
    "h": "Clusters and technopoles",
-   "b": "<p>Alfred Marshall (1890) described industrial districts. Michael Porter (1990) argued that clusters raise productivity. Silicon Valley (Stanford, Palo Alto) grew round a university, venture capital and talent. Bengaluru, Hyderabad, Shenzhen, Tsukuba and Hsinchu are other technopoles.</p>"
+   "b": "<p>Alfred Marshall (1890) described industrial districts. Michael Porter (1990) argued that clusters raise productivity. Silicon Valley (Stanford, Palo Alto) grew round a university, venture capital and talent. Bengaluru, Hyderabad, Shenzhen, Tsukuba and Hsinchu are other technopoles.</p><p>The Sun Belt, Silicon Valley and the Research Triangle in North Carolina show that skill and universities now matter more than coal or ore for new industry.</p>"
   },
   {
    "tag": "Debate",
@@ -46,7 +46,7 @@
   {
    "tag": "Indian angle",
    "h": "India's industrial geography",
-   "b": "<p>India's corridors: DMIC, Chennai-Bengaluru, Amritsar-Kolkata (the Eastern DFC base). Policy: Make in India (2014), PLI schemes (2020), PM MITRA parks, semiconductor mission (2021), and the National Industrial Corridor Development programme. Electronics clusters in Noida, Chennai (Sriperumbudur) and Hosur.</p>"
+   "b": "<p>India's corridors: DMIC, Chennai-Bengaluru, Amritsar-Kolkata (the Eastern DFC base). Policy: Make in India (2014), PLI schemes (2020), PM MITRA parks, semiconductor mission (2021), and the National Industrial Corridor Development programme. Electronics clusters in Noida, Chennai (Sriperumbudur) and Hosur.</p><p>For India, the Chennai-Bengaluru corridor, the Pune-Mumbai belt and Gujarat's Sanand auto cluster show the same logic as older regions: ports, power, skills and state policy together.</p>"
   },
   {
    "tag": "Exam lens",
@@ -70,12 +70,12 @@
   {
    "q": "Pittsburgh was famous for?",
    "o": [
-    "Steel",
     "Cars",
+    "Steel",
     "Films",
     "Cotton"
    ],
-   "a": 0,
+   "a": 1,
    "w": "Appalachian coal."
   },
   {
@@ -94,10 +94,10 @@
    "o": [
     "Sahara",
     "Siberia",
-    "US Great Lakes region",
-    "Amazon"
+    "Amazon",
+    "US Great Lakes region"
    ],
-   "a": 2,
+   "a": 3,
    "w": "Decline of heavy industry."
   },
   {
@@ -114,12 +114,12 @@
   {
    "q": "Shenzhen was made an SEZ in?",
    "o": [
-    "1980",
     "1950",
+    "1980",
     "1999",
     "2010"
    ],
-   "a": 0,
+   "a": 1,
    "w": "China's opening."
   },
   {
@@ -138,10 +138,10 @@
    "o": [
     "A tax",
     "A railway",
-    "Diversifying supply chains",
-    "A currency"
+    "A currency",
+    "Diversifying supply chains"
    ],
-   "a": 2,
+   "a": 3,
    "w": "Shifting plants out of China."
   },
   {
@@ -149,21 +149,21 @@
    "o": [
     "Coal",
     "Cotton",
-    "Semiconductors",
-    "Oil"
+    "Oil",
+    "Semiconductors"
    ],
-   "a": 2,
+   "a": 3,
    "w": "TSMC."
   },
   {
    "q": "The Mesabi Range is a source of?",
    "o": [
-    "Iron ore",
     "Coal",
     "Oil",
+    "Iron ore",
     "Gold"
    ],
-   "a": 0,
+   "a": 2,
    "w": "Minnesota."
   }
  ],

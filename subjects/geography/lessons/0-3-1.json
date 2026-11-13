@@ -6,7 +6,7 @@
   {
    "tag": "Why this matters",
    "h": "Climate draws the map of life",
-   "b": "<p>A <b>biome</b> is a large community of plants and animals shaped by climate. Temperature and rainfall decide which biome sits where. UPSC asks about forests, grasslands and deserts with their examples, adaptations and threats. It also links to climate change, because biomes are shifting.</p>"
+   "b": "<p>A <b>biome</b> is a large community of plants and animals shaped by climate. Temperature and rainfall decide which biome sits where. UPSC asks about forests, grasslands and deserts with their examples, adaptations and threats. It also links to climate change, because biomes are shifting.</p><p>The idea comes from Frederic Clements and Victor Shelford in the early 1900s. Remember that a biome is a climate-defined zone, while a habitat is the home of one species.</p>"
   },
   {
    "tag": "Core idea",
@@ -59,100 +59,100 @@
   {
    "q": "A biome is mainly defined by?",
    "o": [
+    "Climate and vegetation",
     "Rock type",
     "Population",
-    "Climate and vegetation",
     "Latitude only"
    ],
-   "a": 2,
+   "a": 0,
    "w": "Temperature and rainfall shape the community."
   },
   {
    "q": "The Pampas are in?",
    "o": [
-    "Argentina",
     "Australia",
     "Kazakhstan",
-    "South Africa"
+    "South Africa",
+    "Argentina"
    ],
-   "a": 0,
+   "a": 3,
    "w": "Pampas are the temperate grassland of Argentina."
   },
   {
    "q": "The largest land biome is?",
    "o": [
-    "Taiga",
     "Tundra",
     "Savanna",
+    "Taiga",
     "Desert"
    ],
-   "a": 0,
+   "a": 2,
    "w": "The boreal forest circles the north."
   },
   {
    "q": "Xerophytes are plants adapted to?",
    "o": [
     "Cold",
-    "Salt water",
     "Dry conditions",
+    "Salt water",
     "Shade"
    ],
-   "a": 2,
+   "a": 1,
    "w": "Cactus and acacia are xerophytes."
   },
   {
    "q": "Veld is the grassland of?",
    "o": [
+    "South Africa",
     "Ukraine",
     "Canada",
-    "South Africa",
     "Chile"
    ],
-   "a": 2,
+   "a": 0,
    "w": "Veld is South African grassland."
   },
   {
    "q": "Mediterranean climate lies on?",
    "o": [
-    "West sides of continents at 30-40 degrees",
     "East coasts near the equator",
     "Polar coasts",
-    "Continental interiors"
+    "Continental interiors",
+    "West sides of continents at 30-40 degrees"
    ],
-   "a": 0,
+   "a": 3,
    "w": "Subtropical highs and westerlies shift seasonally."
   },
   {
    "q": "Tropical rainforest soils are poor because?",
    "o": [
-    "Nutrients leach away and sit in plants",
     "Soil is too cold",
     "They have too little rain",
+    "Nutrients leach away and sit in plants",
     "Soil is volcanic"
    ],
-   "a": 0,
+   "a": 2,
    "w": "Heavy rain washes out nutrients and litter decays fast."
   },
   {
    "q": "Permafrost is characteristic of?",
    "o": [
     "Savanna",
-    "Chaparral",
     "Tundra",
+    "Chaparral",
     "Rainforest"
    ],
-   "a": 2,
+   "a": 1,
    "w": "Frozen ground persists all year."
   },
   {
    "q": "The Steppes are mainly in?",
    "o": [
     "South America",
-    "Africa",
     "Eurasia",
+    "Africa",
     "Australia"
    ],
-   "a": 2,
+   "a": 1,
    "w": "They stretch from Ukraine to Mongolia."
   },
   {

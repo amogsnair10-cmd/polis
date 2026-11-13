@@ -6,7 +6,7 @@
   {
    "tag": "Why this matters",
    "h": "Resources explain trade, war and diplomacy",
-   "b": "<p>Where minerals lie shapes industry, shipping and politics. Questions ask you to name the belts, explain why they are where they are, and link to geopolitics such as oil, rare earths and critical minerals. Think in belts, not lists.</p>"
+   "b": "<p>Where minerals lie shapes industry, shipping and politics. Questions ask you to name the belts, explain why they are where they are, and link to geopolitics such as oil, rare earths and critical minerals. Think in belts, not lists.</p><p>Resource geography is also about control: who owns the mine, who owns the port and who sets the price. Keep this three-part lens for every belt below.</p>"
   },
   {
    "tag": "Core idea",
@@ -16,7 +16,7 @@
   {
    "tag": "Core idea",
    "h": "Coal belts",
-   "b": "<p>Most coal is in the northern hemisphere. Largest producers: China, India, Indonesia, USA, Australia. Key regions: Appalachians (USA), Ruhr and Silesia (Europe), Donbas (Ukraine), Kuznetsk (Russia), Shanxi (China), Queensland and New South Wales (Australia), Damodar valley (India). Australia and Indonesia lead exports.</p>"
+   "b": "<p>Most coal is in the northern hemisphere. Largest producers: China, India, Indonesia, USA, Australia. Key regions: Appalachians (USA), Ruhr and Silesia (Europe), Donbas (Ukraine), Kuznetsk (Russia), Shanxi (China), Queensland and New South Wales (Australia), Damodar valley (India). Australia and Indonesia lead exports.</p><p>Remember that coal use is shifting. China and India burn most of it, and global demand is expected to plateau as renewable energy grows, though Indonesia and India still expand output.</p>"
   },
   {
    "tag": "Core idea",
@@ -26,12 +26,12 @@
   {
    "tag": "Core idea",
    "h": "Iron ore and ferro-alloys",
-   "b": "<p>Leading countries: Australia (Pilbara, Western Australia), Brazil (Carajas, Minas Gerais), China, India, Russia. Iron ore is exported from Port Hedland and Tubarao. <b>Manganese</b>: South Africa, Gabon, Australia. <b>Nickel</b>: Indonesia, Philippines, Russia. <b>Chromium</b>: South Africa, Kazakhstan.</p>"
+   "b": "<p>Leading countries: Australia (Pilbara, Western Australia), Brazil (Carajas, Minas Gerais), China, India, Russia. Iron ore is exported from Port Hedland and Tubarao. <b>Manganese</b>: South Africa, Gabon, Australia. <b>Nickel</b>: Indonesia, Philippines, Russia. <b>Chromium</b>: South Africa, Kazakhstan.</p><p>Australia and Brazil together supply most seaborne iron ore. Because steel plants in China, Japan and Korea buy it, ore prices and shipping costs link directly with Asian industry.</p>"
   },
   {
    "tag": "Core idea",
    "h": "Copper, bauxite and gold",
-   "b": "<p><b>Copper</b>: the Andean belt, Chile (Chuquicamata, Escondida), Peru, plus the Congo-Zambia Copperbelt. <b>Bauxite</b>: Australia, Guinea, Brazil, Jamaica. <b>Gold</b>: Witwatersrand (South Africa), China, Australia, Russia, Canada. <b>Tin</b>: the Malay and Indonesian belt. <b>Diamond</b>: Russia, Botswana, DR Congo.</p>"
+   "b": "<p><b>Copper</b>: the Andean belt, Chile (Chuquicamata, Escondida), Peru, plus the Congo-Zambia Copperbelt. <b>Bauxite</b>: Australia, Guinea, Brazil, Jamaica. <b>Gold</b>: Witwatersrand (South Africa), China, Australia, Russia, Canada. <b>Tin</b>: the Malay and Indonesian belt. <b>Diamond</b>: Russia, Botswana, DR Congo.</p><p>Zambia and the DR Congo share the Central African Copperbelt. Cobalt is mined as a by-product of copper and nickel, so these metals are tied together by geology as well as demand.</p>"
   },
   {
    "tag": "Key idea",
@@ -41,7 +41,7 @@
   {
    "tag": "Debate",
    "h": "The resource curse",
-   "b": "<p>Richard Auty (1993) coined the 'resource curse': mineral-rich states often grow slowly because of corruption, conflict and currency overvaluation (Dutch disease). Examples: Nigeria, DR Congo, Venezuela. Counter-examples: Norway built a sovereign wealth fund; Botswana managed diamonds well. The difference lies in institutions.</p>"
+   "b": "<p>Richard Auty (1993) coined the 'resource curse': mineral-rich states often grow slowly because of corruption, conflict and currency overvaluation (Dutch disease). Examples: Nigeria, DR Congo, Venezuela. Counter-examples: Norway built a sovereign wealth fund; Botswana managed diamonds well. The difference lies in institutions.</p><p>The 2010 dispute between China and Japan on rare-earth exports, and the later US-China trade rows, showed how supply concentration can become a political weapon.</p>"
   },
   {
    "tag": "Indian angle",
@@ -51,7 +51,7 @@
   {
    "tag": "Exam lens",
    "h": "How to answer",
-   "b": "<p>Likely questions: 'Distribution of major minerals and their geopolitics', 'Why are the Persian Gulf states so vital?', 'Critical minerals and India'.</p><ul><li>Sketch a world map with belts and write two examples each.</li><li>Link supply concentration to risk.</li><li>Propose diversification: recycling, partnerships, domestic exploration.</li></ul>",
+   "b": "<p>Likely questions: 'Distribution of major minerals and their geopolitics', 'Why are the Persian Gulf states so vital?', 'Critical minerals and India'.</p><ul><li>Sketch a world map with belts and write two examples each.</li><li>Link supply concentration to risk.</li><li>Propose diversification: recycling, partnerships, domestic exploration.</li></ul><p>Rare earths are not rare in the crust, but are costly to separate. The Chinese lead came from low-cost mining and heavy state backing, plus lax environmental rules in early decades.</p>",
    "cls": "exam"
   }
  ],
@@ -59,100 +59,100 @@
   {
    "q": "The largest proven oil reserves in one basin are in the?",
    "o": [
+    "Persian Gulf",
     "North Sea",
     "Gulf of Mexico",
-    "Persian Gulf",
     "Caspian Sea"
    ],
-   "a": 2,
+   "a": 0,
    "w": "Gulf states."
   },
   {
    "q": "Which country has the largest proven oil reserves?",
    "o": [
-    "Venezuela",
     "USA",
     "Canada",
-    "Norway"
+    "Norway",
+    "Venezuela"
    ],
-   "a": 0,
+   "a": 3,
    "w": "Orinoco belt heavy oil."
   },
   {
    "q": "Pilbara is a major source of?",
    "o": [
-    "Iron ore",
     "Coal",
     "Oil",
+    "Iron ore",
     "Uranium"
    ],
-   "a": 0,
+   "a": 2,
    "w": "Western Australia."
   },
   {
    "q": "Chile's key mineral is?",
    "o": [
     "Bauxite",
-    "Coal",
     "Copper",
+    "Coal",
     "Tin"
    ],
-   "a": 2,
+   "a": 1,
    "w": "Chuquicamata."
   },
   {
    "q": "The lithium triangle includes?",
    "o": [
+    "Argentina, Bolivia, Chile",
     "Peru, Brazil, Chile",
     "China, India, Russia",
-    "Argentina, Bolivia, Chile",
     "Canada, USA, Mexico"
    ],
-   "a": 2,
+   "a": 0,
    "w": "South American salt flats."
   },
   {
    "q": "DR Congo is a leading source of?",
    "o": [
-    "Cobalt",
     "Lithium",
     "Nickel",
-    "Tin"
+    "Tin",
+    "Cobalt"
    ],
-   "a": 0,
+   "a": 3,
    "w": "About 70 percent."
   },
   {
    "q": "The 'resource curse' idea was named by?",
    "o": [
-    "Richard Auty",
     "Norman Myers",
     "E O Wilson",
+    "Richard Auty",
     "Alfred Wegener"
    ],
-   "a": 0,
+   "a": 2,
    "w": "1993."
   },
   {
    "q": "OPEC was founded in?",
    "o": [
     "1945",
-    "1973",
     "1960",
+    "1973",
     "1991"
    ],
-   "a": 2,
+   "a": 1,
    "w": "Baghdad."
   },
   {
    "q": "Witwatersrand is known for?",
    "o": [
     "Diamonds",
-    "Copper",
     "Gold",
+    "Copper",
     "Oil"
    ],
-   "a": 2,
+   "a": 1,
    "w": "South Africa."
   },
   {

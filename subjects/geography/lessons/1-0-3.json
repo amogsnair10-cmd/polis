@@ -16,7 +16,7 @@
   {
    "tag": "Core idea",
    "h": "Bhabar",
-   "b": "<p>A narrow belt, 8-16 km wide, along the foot of the Shiwalik. Rivers drop pebbles and boulders here. The coarse deposit is so porous that streams <b>sink and disappear</b>. It suits large trees, not crops.</p>"
+   "b": "<p>A narrow belt, 8-16 km wide, along the foot of the Shiwalik. Rivers drop pebbles and boulders here. The coarse deposit is so porous that streams <b>sink and disappear</b>. It suits large trees, not crops.</p><p>Marshy land with tall grass and wildlife, such as the Dudhwa and Pilibhit Terai, was drained in the 1950s to settle refugees and expand farming, and today it is a major rice and sugarcane belt of Uttar Pradesh.</p>"
   },
   {
    "tag": "Core idea",
@@ -26,12 +26,12 @@
   {
    "tag": "Core idea",
    "h": "Bhangar",
-   "b": "<p>Older alluvium. It forms the higher terraces, beyond flood reach. Often dark with lime nodules called <b>kankar</b>. Soils are rich but less renewed. Found away from the river channels.</p>"
+   "b": "<p>Older alluvium. It forms the higher terraces, beyond flood reach. Often dark with lime nodules called <b>kankar</b>. Soils are rich but less renewed. Found away from the river channels.</p><p>Khadar is typically light coloured, sandy loam. It lies along the river banks in the Ganga and Yamuna valleys. Farmers raise vegetables, melon and rice on it, and the yearly silt reduces the need for fertiliser.</p>"
   },
   {
    "tag": "Core idea",
    "h": "Khadar",
-   "b": "<p>Newer alluvium in the active floodplain. Fine silt, light-coloured, replenished by yearly floods. Very fertile and ideal for rice, jute, vegetables. Floods are the cost of fertility.</p>"
+   "b": "<p>Newer alluvium in the active floodplain. Fine silt, light-coloured, replenished by yearly floods. Very fertile and ideal for rice, jute, vegetables. Floods are the cost of fertility.</p><p>Compare the two for exam use. Bhangar soils are older, darker and clayey at times, but often poorer in plant nutrients. Khadar soils are fresher and finer. The contrast is a standard two-mark question.</p>"
   },
   {
    "tag": "Key idea",
@@ -59,100 +59,100 @@
   {
    "q": "The belt where streams disappear is the?",
    "o": [
+    "Bhabar",
     "Terai",
     "Khadar",
-    "Bhabar",
     "Bhangar"
    ],
-   "a": 2,
+   "a": 0,
    "w": "Porous boulders absorb the water."
   },
   {
    "q": "Streams re-emerge in the?",
    "o": [
-    "Terai",
     "Bhabar",
     "Bhangar",
-    "Thar"
+    "Thar",
+    "Terai"
    ],
-   "a": 0,
+   "a": 3,
    "w": "It is a damp, marshy belt."
   },
   {
    "q": "Older alluvium is called?",
    "o": [
-    "Bhangar",
     "Khadar",
     "Terai",
+    "Bhangar",
     "Bhabar"
    ],
-   "a": 0,
+   "a": 2,
    "w": "Bhangar lies on higher terraces."
   },
   {
    "q": "Nodules of lime in Bhangar are?",
    "o": [
     "Reh",
-    "Regur",
     "Kankar",
+    "Regur",
     "Laterite"
    ],
-   "a": 2,
+   "a": 1,
    "w": "Kankar is calcium carbonate concretion."
   },
   {
    "q": "Khadar is renewed by?",
    "o": [
+    "Annual floods",
     "Wind",
     "Volcanic ash",
-    "Annual floods",
     "Glaciers"
    ],
-   "a": 2,
+   "a": 0,
    "w": "It gets fresh silt."
   },
   {
    "q": "The Sorrow of Bihar is?",
    "o": [
-    "Kosi",
     "Son",
     "Gandak",
-    "Ghaghara"
+    "Ghaghara",
+    "Kosi"
    ],
-   "a": 0,
+   "a": 3,
    "w": "The Kosi shifts its channel."
   },
   {
    "q": "Majuli, a river island, lies in?",
    "o": [
-    "Brahmaputra plain",
     "Ganga plain",
     "Punjab plain",
+    "Brahmaputra plain",
     "Thar"
    ],
-   "a": 0,
+   "a": 2,
    "w": "It is in Assam."
   },
   {
    "q": "The Bhabar belt width is about?",
    "o": [
     "80 to 160 km",
-    "1 to 2 km",
     "8 to 16 km",
+    "1 to 2 km",
     "200 km"
    ],
-   "a": 2,
+   "a": 1,
    "w": "It is narrow along the Shiwalik foot."
   },
   {
    "q": "Salt-affected soils of the plains are called?",
    "o": [
     "Terai",
-    "Regur",
     "Reh or kallar",
+    "Regur",
     "Duar"
    ],
-   "a": 2,
+   "a": 1,
    "w": "They have surface salts."
   },
   {

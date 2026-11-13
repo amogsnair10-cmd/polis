@@ -6,7 +6,7 @@
   {
    "tag": "Why this matters",
    "h": "Transport turns geography into trade",
-   "b": "<p>India's trade, military mobility and regional balance rest on transport networks. Mains questions ask about logistics, Sagarmala, dedicated freight corridors and inland water transport. Prelims asks about ports and rail zones.</p>"
+   "b": "<p>India's trade, military mobility and regional balance rest on transport networks. Mains questions ask about logistics, Sagarmala, dedicated freight corridors and inland water transport. Prelims asks about ports and rail zones.</p><p>Questions are usually about numbers and names, but mains answers should link ports with hinterlands, inland waterways with cheap bulk transport and railways with unified markets.</p>"
   },
   {
    "tag": "Core idea",
@@ -21,7 +21,7 @@
   {
    "tag": "Key idea",
    "h": "Sagarmala",
-   "b": "<p>Launched in 2015. Goals: port-led development, modernisation, coastal economic zones, and connectivity. The Maritime India Vision 2030 and the Maritime Amrit Kaal Vision 2047 extend it. The Major Port Authorities Act 2021 gave ports more autonomy. Coastal shipping is encouraged to cut road congestion.</p>"
+   "b": "<p>Launched in 2015. Goals: port-led development, modernisation, coastal economic zones, and connectivity. The Maritime India Vision 2030 and the Maritime Amrit Kaal Vision 2047 extend it. The Major Port Authorities Act 2021 gave ports more autonomy. Coastal shipping is encouraged to cut road congestion.</p><p>About 95 percent of India's trade by volume and 70 percent by value moves by sea, which is why Sagarmala, port connectivity and shipping policy get so much weight.</p>"
   },
   {
    "tag": "Core idea",
@@ -61,43 +61,43 @@
    "o": [
     "Kandla",
     "Chennai",
-    "Jawaharlal Nehru Port",
-    "Kochi"
+    "Kochi",
+    "Jawaharlal Nehru Port"
    ],
-   "a": 2,
+   "a": 3,
    "w": "Nhava Sheva."
   },
   {
    "q": "Kandla was built after?",
    "o": [
-    "Partition",
     "Independence of Burma",
     "1962",
+    "Partition",
     "1991"
    ],
-   "a": 0,
+   "a": 2,
    "w": "It replaced Karachi."
   },
   {
    "q": "NW-1 runs on the?",
    "o": [
-    "Ganga-Bhagirathi-Hooghly",
     "Brahmaputra",
+    "Ganga-Bhagirathi-Hooghly",
     "Godavari",
     "Narmada"
    ],
-   "a": 0,
+   "a": 1,
    "w": "Prayagraj to Haldia."
   },
   {
    "q": "NW-2 is on the?",
    "o": [
+    "Brahmaputra",
     "Ganga",
     "Krishna",
-    "Brahmaputra",
     "Mahanadi"
    ],
-   "a": 2,
+   "a": 0,
    "w": "Dhubri to Sadiya."
   },
   {
@@ -105,65 +105,65 @@
    "o": [
     "1757",
     "1900",
-    "1853",
-    "1947"
+    "1947",
+    "1853"
    ],
-   "a": 2,
+   "a": 3,
    "w": "Bombay to Thane."
   },
   {
    "q": "Sagarmala was launched in?",
    "o": [
-    "2015",
     "1991",
     "2004",
+    "2015",
     "2022"
    ],
-   "a": 0,
+   "a": 2,
    "w": "Port-led development."
   },
   {
    "q": "The Vizhinjam port is in?",
    "o": [
-    "Kerala",
     "Gujarat",
+    "Kerala",
     "Odisha",
     "Andhra"
    ],
-   "a": 0,
+   "a": 1,
    "w": "Deepwater transhipment."
   },
   {
    "q": "The Eastern DFC starts in?",
    "o": [
+    "Ludhiana",
     "Mumbai",
     "Chennai",
-    "Ludhiana",
     "Dadri"
    ],
-   "a": 2,
+   "a": 0,
    "w": "To Sonnagar."
   },
   {
    "q": "Kolkata port is a?",
    "o": [
+    "Riverine port",
     "Deep sea port",
     "Lake port",
-    "Riverine port",
     "Fjord port"
    ],
-   "a": 2,
+   "a": 0,
    "w": "On the Hooghly."
   },
   {
    "q": "Dadri to JNPT is the?",
    "o": [
-    "Western DFC",
     "Eastern DFC",
     "Southern DFC",
-    "Metro line"
+    "Metro line",
+    "Western DFC"
    ],
-   "a": 0,
+   "a": 3,
    "w": "About 1,506 km."
   }
  ],

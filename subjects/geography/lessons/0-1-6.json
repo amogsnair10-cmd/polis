@@ -61,43 +61,43 @@
    "o": [
     "Saji",
     "Bjerknes",
-    "Gilbert Walker",
-    "Koppen"
+    "Koppen",
+    "Gilbert Walker"
    ],
-   "a": 2,
+   "a": 3,
    "w": "Walker found the Tahiti-Darwin pressure see-saw in the 1920s."
   },
   {
    "q": "During El Nino, Pacific trade winds?",
    "o": [
-    "Weaken",
     "Strengthen",
     "Reverse completely over the Indian Ocean",
+    "Weaken",
     "Do not change"
    ],
-   "a": 0,
+   "a": 2,
    "w": "Weak trades let warm water move east."
   },
   {
    "q": "La Nina usually brings India?",
    "o": [
-    "A good monsoon",
     "Drought",
+    "A good monsoon",
     "Cyclone-free years",
     "Heatwaves only"
    ],
-   "a": 0,
+   "a": 1,
    "w": "La Nina years often have a strong monsoon."
   },
   {
    "q": "A positive IOD means?",
    "o": [
+    "West Indian Ocean warmer than the east",
     "East warmer than the west",
     "Both colder",
-    "West Indian Ocean warmer than the east",
     "Both warmer equally"
    ],
-   "a": 2,
+   "a": 0,
    "w": "A warm west favours Indian monsoon rains."
   },
   {
@@ -105,65 +105,65 @@
    "o": [
     "1899",
     "1959",
-    "1999",
-    "2009"
+    "2009",
+    "1999"
    ],
-   "a": 2,
+   "a": 3,
    "w": "Saji and colleagues named it in 1999."
   },
   {
    "q": "Whose strong El Nino was offset by a positive IOD?",
    "o": [
-    "1997",
     "2002",
     "1987",
+    "1997",
     "2012"
    ],
-   "a": 0,
+   "a": 2,
    "w": "India's 1997 monsoon was normal despite El Nino."
   },
   {
    "q": "The Walker circulation is?",
    "o": [
-    "An east-west loop over the Pacific",
     "A north-south Hadley cell",
+    "An east-west loop over the Pacific",
     "An ocean current",
     "A jet stream"
    ],
-   "a": 0,
+   "a": 1,
    "w": "Air rises in the west and sinks in the east."
   },
   {
    "q": "MJO has a cycle of about?",
    "o": [
+    "30 to 60 days",
     "3 to 5 days",
     "1 year",
-    "30 to 60 days",
     "10 years"
    ],
-   "a": 2,
+   "a": 0,
    "w": "It makes active and break phases."
   },
   {
    "q": "ONI uses sea surface temperature anomaly of which region?",
    "o": [
+    "Nino 3.4",
     "Arabian Sea",
     "Bay of Bengal",
-    "Nino 3.4",
     "Caribbean"
    ],
-   "a": 2,
+   "a": 0,
    "w": "Nino 3.4 is the central Pacific box."
   },
   {
    "q": "El Nino years usually mean for Indonesia and Australia?",
    "o": [
-    "Drier conditions",
     "Floods",
     "Snowfall",
-    "No change"
+    "No change",
+    "Drier conditions"
    ],
-   "a": 0,
+   "a": 3,
    "w": "Rain shifts east, so the west Pacific dries."
   }
  ],

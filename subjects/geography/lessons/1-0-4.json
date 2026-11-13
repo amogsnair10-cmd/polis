@@ -6,7 +6,7 @@
   {
    "tag": "Why this matters",
    "h": "The plateau shapes rivers, rain and minerals",
-   "b": "<p>The Peninsular plateau is among the oldest landmasses on Earth. It holds minerals, black soil and the ghat escarpments that catch the monsoon. UPSC asks for comparisons of the two Ghats and for how the plateau's relief controls rivers.</p>"
+   "b": "<p>The Peninsular plateau is among the oldest landmasses on Earth. It holds minerals, black soil and the ghat escarpments that catch the monsoon. UPSC asks for comparisons of the two Ghats and for how the plateau's relief controls rivers.</p><p>A good comparison answer needs both ghats, the plateau's structure and its rivers. Keep the Palghat Gap, Anai Mudi and the Nilgiri junction ready, since they come up in map questions.</p>"
   },
   {
    "tag": "Core idea",
@@ -46,7 +46,7 @@
   {
    "tag": "Indian angle",
    "h": "Minerals and rivers",
-   "b": "<p>The plateau holds most of India's coal, iron ore, manganese, mica and bauxite, especially in the Chotanagpur belt. Rivers such as the Godavari and Krishna start in the west and flow east through the plateau. The Narmada and Tapi flow west through rift valleys.</p>"
+   "b": "<p>The plateau holds most of India's coal, iron ore, manganese, mica and bauxite, especially in the Chotanagpur belt. Rivers such as the Godavari and Krishna start in the west and flow east through the plateau. The Narmada and Tapi flow west through rift valleys.</p><p>The Aravalli range and the Vindhyas matter for water as well. Their line divides the drainage to the Arabian Sea and Bay of Bengal from the Ganga plains, and the Chambal gullies show soil erosion.</p>"
   },
   {
    "tag": "Exam lens",
@@ -60,11 +60,11 @@
    "q": "The highest peak of the Western Ghats region (peninsular India) is?",
    "o": [
     "Doddabetta",
-    "Mahendragiri",
     "Anai Mudi",
+    "Mahendragiri",
     "Guru Shikhar"
    ],
-   "a": 2,
+   "a": 1,
    "w": "Anai Mudi is 2,695 m."
   },
   {
@@ -81,12 +81,12 @@
   {
    "q": "Eastern Ghats are broken by?",
    "o": [
-    "Rivers",
     "Glaciers",
     "Faults only",
-    "Dunes"
+    "Dunes",
+    "Rivers"
    ],
-   "a": 0,
+   "a": 3,
    "w": "Mahanadi, Godavari, Krishna and Kaveri cut them."
   },
   {
@@ -104,11 +104,11 @@
    "q": "Deccan basalt weathers into?",
    "o": [
     "Laterite",
-    "Alluvium",
     "Regur (black soil)",
+    "Alluvium",
     "Podzol"
    ],
-   "a": 2,
+   "a": 1,
    "w": "Black cotton soil."
   },
   {
@@ -125,12 +125,12 @@
   {
    "q": "The highest peak of the Aravalli is?",
    "o": [
-    "Guru Shikhar",
     "Anai Mudi",
     "Dhupgarh",
-    "Nanda Devi"
+    "Nanda Devi",
+    "Guru Shikhar"
    ],
-   "a": 0,
+   "a": 3,
    "w": "At Mt Abu, 1,722 m."
   },
   {
@@ -158,12 +158,12 @@
   {
    "q": "The peninsular plateau slopes toward the?",
    "o": [
-    "East",
     "West",
+    "East",
     "North",
     "South"
    ],
-   "a": 0,
+   "a": 1,
    "w": "Hence many rivers flow into the Bay of Bengal."
   }
  ],

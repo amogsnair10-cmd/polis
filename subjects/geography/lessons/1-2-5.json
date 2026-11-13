@@ -6,7 +6,7 @@
   {
    "tag": "Why this matters",
    "h": "Minerals decide where industry grows",
-   "b": "<p>India's mineral map is concentrated: most coal and iron ore lie in the east of the peninsular plateau. This clustering explains the steel belt and the mining politics of Jharkhand, Odisha and Chhattisgarh. UPSC asks for location, reasons and policy.</p>"
+   "b": "<p>India's mineral map is concentrated: most coal and iron ore lie in the east of the peninsular plateau. This clustering explains the steel belt and the mining politics of Jharkhand, Odisha and Chhattisgarh. UPSC asks for location, reasons and policy.</p><p>A map of the Chotanagpur plateau shows why: coal in the Damodar valley, iron ore in Singhbhum, limestone and manganese close by, and the Hooghly port nearby.</p>"
   },
   {
    "tag": "Core idea",
@@ -16,7 +16,7 @@
   {
    "tag": "Core idea",
    "h": "Coalfields",
-   "b": "<p><b>Gondwana coal</b> (about 98 percent of reserves, 250 million years old): Damodar valley (Jharia, Raniganj, Bokaro, Karanpura), Son valley, Mahanadi valley (Talcher, Ib), Godavari valley (Singareni). <b>Tertiary coal</b> in the northeast (Assam, Meghalaya): high sulphur. <b>Lignite</b>: Neyveli (Tamil Nadu), Gujarat, Rajasthan.</p>"
+   "b": "<p><b>Gondwana coal</b> (about 98 percent of reserves, 250 million years old): Damodar valley (Jharia, Raniganj, Bokaro, Karanpura), Son valley, Mahanadi valley (Talcher, Ib), Godavari valley (Singareni). <b>Tertiary coal</b> in the northeast (Assam, Meghalaya): high sulphur. <b>Lignite</b>: Neyveli (Tamil Nadu), Gujarat, Rajasthan.</p><p>Coal India Limited (1975) produces over 70 percent of India's coal, and Singareni Collieries is the other public company. Captive and commercial mining by private firms was opened in 2018-20.</p>"
   },
   {
    "tag": "Core idea",
@@ -31,7 +31,7 @@
   {
    "tag": "Core idea",
    "h": "Bauxite and aluminium",
-   "b": "<p>Bauxite is the ore of aluminium. Found in laterite caps: Odisha (Koraput, Kalahandi; Panchpatmali), Gujarat, Jharkhand, Chhattisgarh, Maharashtra. Aluminium smelters: Korba, Hirakud, Renukoot, Mettur, Alupuram. Smelting needs huge electricity, so plants sit near power. India is among the top producers of aluminium.</p>"
+   "b": "<p>Bauxite is the ore of aluminium. Found in laterite caps: Odisha (Koraput, Kalahandi; Panchpatmali), Gujarat, Jharkhand, Chhattisgarh, Maharashtra. Aluminium smelters: Korba, Hirakud, Renukoot, Mettur, Alupuram. Smelting needs huge electricity, so plants sit near power. India is among the top producers of aluminium.</p><p>Aluminium smelters need cheap electricity, as about 14,000 units of power go into each tonne. Captive power plants near Korba, Renukoot and Hirakud solve this problem.</p>"
   },
   {
    "tag": "Core idea",
@@ -59,100 +59,100 @@
   {
    "q": "Gondwana coal forms about what share of reserves?",
    "o": [
+    "98 percent",
     "50 percent",
     "10 percent",
-    "98 percent",
     "75 percent"
    ],
-   "a": 2,
+   "a": 0,
    "w": "Most coal is Gondwana."
   },
   {
    "q": "The main coking coal field is?",
    "o": [
-    "Jharia",
     "Neyveli",
     "Singareni",
-    "Korba"
+    "Korba",
+    "Jharia"
    ],
-   "a": 0,
+   "a": 3,
    "w": "Jharkhand."
   },
   {
    "q": "Neyveli is known for?",
    "o": [
-    "Lignite",
     "Anthracite",
     "Iron ore",
+    "Lignite",
     "Bauxite"
    ],
-   "a": 0,
+   "a": 2,
    "w": "Tamil Nadu."
   },
   {
    "q": "Best quality iron ore is?",
    "o": [
     "Limonite",
-    "Siderite",
     "Hematite",
+    "Siderite",
     "Pyrite"
    ],
-   "a": 2,
+   "a": 1,
    "w": "Hematite is the most important ore; magnetite is richer in iron but less abundant."
   },
   {
    "q": "The Bailadila deposit is in?",
    "o": [
+    "Chhattisgarh",
     "Odisha",
     "Karnataka",
-    "Chhattisgarh",
     "Goa"
    ],
-   "a": 2,
+   "a": 0,
    "w": "Bastar region."
   },
   {
    "q": "Bauxite is the ore of?",
    "o": [
-    "Aluminium",
     "Copper",
     "Iron",
-    "Zinc"
+    "Zinc",
+    "Aluminium"
    ],
-   "a": 0,
+   "a": 3,
    "w": "Laterite caps."
   },
   {
    "q": "Khetri is known for?",
    "o": [
-    "Copper",
     "Mica",
     "Coal",
+    "Copper",
     "Gold"
    ],
-   "a": 0,
+   "a": 2,
    "w": "Rajasthan."
   },
   {
    "q": "The Niyamgiri case involved?",
    "o": [
     "Coal blocks",
-    "Oil blocks",
     "Gram sabha consent for bauxite mining",
+    "Oil blocks",
     "Sand mining"
    ],
-   "a": 2,
+   "a": 1,
    "w": "2013 Supreme Court."
   },
   {
    "q": "District Mineral Foundations were created in?",
    "o": [
     "1957",
-    "1991",
     "2015",
+    "1991",
     "2021"
    ],
-   "a": 2,
+   "a": 1,
    "w": "By the MMDR Amendment."
   },
   {

@@ -6,7 +6,7 @@
   {
    "tag": "Why this matters",
    "h": "A favourite for map and fact questions",
-   "b": "<p>The Himalaya appear in prelims through peaks, passes, glaciers and ranges, and in mains through hazards, rivers and strategy. This lesson goes beyond the basic three ranges to give the regional pattern, the key passes and the glaciers you must recall.</p>"
+   "b": "<p>The Himalaya appear in prelims through peaks, passes, glaciers and ranges, and in mains through hazards, rivers and strategy. This lesson goes beyond the basic three ranges to give the regional pattern, the key passes and the glaciers you must recall.</p><p>Remember that questions ask about heights, glaciers and passes in pairs: a pass with its state and the neighbouring country, a glacier with its river, a range with its valley.</p>"
   },
   {
    "tag": "Core idea",
@@ -16,7 +16,7 @@
   {
    "tag": "Core idea",
    "h": "Regional divisions",
-   "b": "<p>Sidney Burrard divided the Himalaya by rivers: <b>Punjab Himalaya</b> (Indus to Satluj), <b>Kumaon Himalaya</b> (Satluj to Kali), <b>Nepal Himalaya</b> (Kali to Tista) and <b>Assam Himalaya</b> (Tista to Dihang). Beyond the Dihang, the <b>Purvanchal</b> hills (Patkai, Naga, Manipur, Mizo) turn south.</p>"
+   "b": "<p>Sidney Burrard divided the Himalaya by rivers: <b>Punjab Himalaya</b> (Indus to Satluj), <b>Kumaon Himalaya</b> (Satluj to Kali), <b>Nepal Himalaya</b> (Kali to Tista) and <b>Assam Himalaya</b> (Tista to Dihang). Beyond the Dihang, the <b>Purvanchal</b> hills (Patkai, Naga, Manipur, Mizo) turn south.</p><p>The Zaskar range separates the Zaskar valley from Ladakh. The Karakoram holds the Siachen, Baltoro and Hispar glaciers, and the Saltoro ridge is the military line on Siachen.</p>"
   },
   {
    "tag": "Core idea",
@@ -61,43 +61,43 @@
    "o": [
     "Nanda Devi",
     "K2",
-    "Kanchenjunga",
-    "Nanga Parbat"
+    "Nanga Parbat",
+    "Kanchenjunga"
    ],
-   "a": 2,
+   "a": 3,
    "w": "Kanchenjunga, 8,586 m, is the highest in India."
   },
   {
    "q": "Nanda Devi lies in?",
    "o": [
-    "Uttarakhand",
     "Sikkim",
     "Himachal Pradesh",
+    "Uttarakhand",
     "Arunachal Pradesh"
    ],
-   "a": 0,
+   "a": 2,
    "w": "It is the highest peak wholly in India."
   },
   {
    "q": "The longest range of the Lesser Himalaya is?",
    "o": [
-    "Pir Panjal",
     "Dhauladhar",
+    "Pir Panjal",
     "Mussoorie",
     "Mahabharat"
    ],
-   "a": 0,
+   "a": 1,
    "w": "Pir Panjal is the longest."
   },
   {
    "q": "Nathu La connects India with?",
    "o": [
+    "Tibet (China) from Sikkim",
     "Nepal",
     "Bhutan",
-    "Tibet (China) from Sikkim",
     "Myanmar"
    ],
-   "a": 2,
+   "a": 0,
    "w": "It links Sikkim and Tibet."
   },
   {
@@ -105,65 +105,65 @@
    "o": [
     "Beas",
     "Chenab",
-    "Satluj",
-    "Ganga"
+    "Ganga",
+    "Satluj"
    ],
-   "a": 2,
+   "a": 3,
    "w": "The Satluj enters India there."
   },
   {
    "q": "Siachen glacier is in?",
    "o": [
-    "Karakoram",
     "Pir Panjal",
     "Zaskar",
+    "Karakoram",
     "Purvanchal"
    ],
-   "a": 0,
+   "a": 2,
    "w": "It is the Nubra valley's source."
   },
   {
    "q": "Gaumukh is the snout of?",
    "o": [
-    "Gangotri glacier",
     "Siachen glacier",
+    "Gangotri glacier",
     "Zemu glacier",
     "Milam glacier"
    ],
-   "a": 0,
+   "a": 1,
    "w": "The Bhagirathi starts there."
   },
   {
    "q": "Burrard's divisions are based on?",
    "o": [
+    "Rivers",
     "Rock age",
     "Rainfall",
-    "Rivers",
     "Peak height"
    ],
-   "a": 2,
+   "a": 0,
    "w": "Punjab, Kumaon, Nepal, Assam Himalaya are separated by rivers."
   },
   {
    "q": "Zoji La connects?",
    "o": [
+    "Srinagar and Leh",
     "Shimla and Manali",
     "Jammu and Srinagar",
-    "Srinagar and Leh",
     "Dehradun and Mussoorie"
    ],
-   "a": 2,
+   "a": 0,
    "w": "It crosses the Great Himalaya."
   },
   {
    "q": "Which hill range lies east of the Dihang gorge?",
    "o": [
-    "Purvanchal",
     "Dhauladhar",
     "Zaskar",
-    "Pir Panjal"
+    "Pir Panjal",
+    "Purvanchal"
    ],
-   "a": 0,
+   "a": 3,
    "w": "Purvanchal hills turn south into northeast India."
   }
  ],

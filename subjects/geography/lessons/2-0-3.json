@@ -6,7 +6,7 @@
   {
    "tag": "Why this matters",
    "h": "Food geography is climate, soil and history",
-   "b": "<p>The world's farm belts match climate zones. UPSC asks for the leading countries, the type of farming and the reasons. It also links with trade, food security and climate change. Learn the type first, then the crop, then the country.</p>"
+   "b": "<p>The world's farm belts match climate zones. UPSC asks for the leading countries, the type of farming and the reasons. It also links with trade, food security and climate change. Learn the type first, then the crop, then the country.</p><p>Practice drawing a quick world map and shading the wheat, rice and plantation zones. A single labelled sketch can carry a whole mains answer on world agriculture.</p>"
   },
   {
    "tag": "Core idea",
@@ -26,7 +26,7 @@
   {
    "tag": "Core idea",
    "h": "Maize, soybean and cotton",
-   "b": "<p><b>Maize</b>: the US Corn Belt (Iowa, Illinois), China, Brazil. <b>Soybean</b>: Brazil, USA, Argentina. <b>Cotton</b>: China, India, USA, Brazil. <b>Sugarcane</b>: Brazil first, India second. Sugar beet in Europe. <b>Jute</b>: Bangladesh and India.</p>"
+   "b": "<p><b>Maize</b>: the US Corn Belt (Iowa, Illinois), China, Brazil. <b>Soybean</b>: Brazil, USA, Argentina. <b>Cotton</b>: China, India, USA, Brazil. <b>Sugarcane</b>: Brazil first, India second. Sugar beet in Europe. <b>Jute</b>: Bangladesh and India.</p><p>In the Corn Belt, farms are large and mechanised, and in Asia farms are tiny. The same crop can therefore reflect very different levels of capital, labour and yield.</p>"
   },
   {
    "tag": "Core idea",
@@ -51,7 +51,7 @@
   {
    "tag": "Exam lens",
    "h": "How to answer",
-   "b": "<p>Likely questions: 'Differentiate subsistence and commercial agriculture', 'Plantation agriculture: features and examples', 'Why is wheat grown in temperate grasslands?'</p><ul><li>Use a table on size, labour, capital, aim.</li><li>List three countries per crop.</li><li>Close with a policy or climate point.</li></ul>",
+   "b": "<p>Likely questions: 'Differentiate subsistence and commercial agriculture', 'Plantation agriculture: features and examples', 'Why is wheat grown in temperate grasslands?'</p><ul><li>Use a table on size, labour, capital, aim.</li><li>List three countries per crop.</li><li>Close with a policy or climate point.</li></ul><p>Link to prelims: the typical statement pairs a crop with a wrong country. Check each pair against the lists above, such as coffee with Brazil or cocoa with the Ivory Coast.</p>",
    "cls": "exam"
   }
  ],
@@ -60,11 +60,11 @@
    "q": "Intensive subsistence farming is typical of?",
    "o": [
     "Prairies",
-    "Sahara",
     "Monsoon Asia",
+    "Sahara",
     "Siberia"
    ],
-   "a": 2,
+   "a": 1,
    "w": "Rice plots."
   },
   {
@@ -81,12 +81,12 @@
   {
    "q": "The largest coffee producer is?",
    "o": [
-    "Brazil",
     "Kenya",
     "India",
-    "Vietnam"
+    "Vietnam",
+    "Brazil"
    ],
-   "a": 0,
+   "a": 3,
    "w": "About a third of world output."
   },
   {
@@ -104,11 +104,11 @@
    "q": "The Corn Belt is in the?",
    "o": [
     "Russia",
-    "India",
     "USA",
+    "India",
     "Brazil"
    ],
-   "a": 2,
+   "a": 1,
    "w": "Midwest."
   },
   {
@@ -125,12 +125,12 @@
   {
    "q": "The IRRI is in the?",
    "o": [
-    "Philippines",
     "India",
     "Thailand",
-    "Vietnam"
+    "Vietnam",
+    "Philippines"
    ],
-   "a": 0,
+   "a": 3,
    "w": "Los Banos."
   },
   {
@@ -158,12 +158,12 @@
   {
    "q": "Cocoa is led by?",
    "o": [
-    "Ivory Coast",
     "Brazil",
+    "Ivory Coast",
     "India",
     "China"
    ],
-   "a": 0,
+   "a": 1,
    "w": "West Africa."
   }
  ],

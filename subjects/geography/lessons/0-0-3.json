@@ -61,43 +61,43 @@
    "o": [
     "V-shaped",
     "L-shaped",
-    "U-shaped",
-    "Box-shaped"
+    "Box-shaped",
+    "U-shaped"
    ],
-   "a": 2,
+   "a": 3,
    "w": "Ice grinds the floor and walls evenly, making a U. Rivers cut down, making a V."
   },
   {
    "q": "A cut-off meander loop forming a lake is called?",
    "o": [
-    "Oxbow lake",
     "Kettle lake",
     "Playa",
+    "Oxbow lake",
     "Tarn"
    ],
-   "a": 0,
+   "a": 2,
    "w": "Oxbow lakes form when a meander neck is cut through during floods."
   },
   {
    "q": "Who proposed the cycle of erosion in 1899?",
    "o": [
-    "W M Davis",
     "Walther Penck",
+    "W M Davis",
     "Alfred Wegener",
     "Harry Hess"
    ],
-   "a": 0,
+   "a": 1,
    "w": "Davis proposed youth, maturity and old age stages."
   },
   {
    "q": "A bowl-shaped hollow at the head of a glacier is a?",
    "o": [
+    "Cirque",
     "Arête",
     "Esker",
-    "Cirque",
     "Drumlin"
    ],
-   "a": 2,
+   "a": 0,
    "w": "A cirque is the armchair hollow carved by ice at a valley head."
   },
   {
@@ -105,65 +105,65 @@
    "o": [
     "Drumlins",
     "Moraines",
-    "Eskers",
-    "Yardangs"
+    "Yardangs",
+    "Eskers"
    ],
-   "a": 2,
+   "a": 3,
    "w": "Eskers are made by streams flowing under or within ice."
   },
   {
    "q": "Crescent-shaped sand dunes are known as?",
    "o": [
-    "Barchans",
     "Seifs",
     "Yardangs",
+    "Barchans",
     "Inselbergs"
    ],
-   "a": 0,
+   "a": 2,
    "w": "Barchan horns point downwind, formed by a steady wind."
   },
   {
    "q": "Fine wind-blown silt that forms fertile soils in northern China is?",
    "o": [
-    "Loess",
     "Till",
+    "Loess",
     "Laterite",
     "Regur"
    ],
-   "a": 0,
+   "a": 1,
    "w": "Loess is a wind-deposited silt."
   },
   {
    "q": "A drowned glacial valley is called a?",
    "o": [
+    "Fjord",
     "Estuary",
     "Lagoon",
-    "Fjord",
     "Ria"
    ],
-   "a": 2,
+   "a": 0,
    "w": "Fjords are deep, steep-sided inlets flooded after the ice melted."
   },
   {
    "q": "The Sundarbans delta is best described as?",
    "o": [
+    "Tide-dominated",
     "Bird's foot",
     "Wave-eroded",
-    "Tide-dominated",
     "Glacial outwash"
    ],
-   "a": 2,
+   "a": 0,
    "w": "Tides shape the Ganga-Brahmaputra delta and its mangroves."
   },
   {
    "q": "Kashmir's Karewas are mainly?",
    "o": [
-    "Lake deposits",
     "Moraines",
     "Dunes",
-    "Lava flows"
+    "Lava flows",
+    "Lake deposits"
    ],
-   "a": 0,
+   "a": 3,
    "w": "Karewas are Pleistocene lake sediments in the Kashmir valley."
   }
  ],

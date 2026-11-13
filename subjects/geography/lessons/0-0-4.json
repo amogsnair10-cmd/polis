@@ -6,7 +6,7 @@
   {
    "tag": "Why this matters",
    "h": "Mountains are a repeated UPSC theme",
-   "b": "<p>Questions ask how fold mountains form, why the Himalaya are still rising, and how block mountains differ. These are classic 'explain with a diagram' answers. The idea underneath is simple: <b>rocks bend or break when squeezed or pulled</b>.</p>"
+   "b": "<p>Questions ask how fold mountains form, why the Himalaya are still rising, and how block mountains differ. These are classic 'explain with a diagram' answers. The idea underneath is simple: <b>rocks bend or break when squeezed or pulled</b>.</p><p>Past prelims papers have asked about the Aravalli, the Himalayan thrust faults and the rift valleys of the Narmada and Tapi, so each example below carries a place.</p>"
   },
   {
    "tag": "Core idea",
@@ -59,100 +59,100 @@
   {
    "q": "An upfold of rock layers is called a?",
    "o": [
+    "Anticline",
     "Syncline",
     "Graben",
-    "Anticline",
     "Nappe"
    ],
-   "a": 2,
+   "a": 0,
    "w": "Anticline is an arch. Syncline is a trough."
   },
   {
    "q": "A downthrown block between two faults is a?",
    "o": [
-    "Graben",
     "Horst",
     "Nappe",
-    "Moraine"
+    "Moraine",
+    "Graben"
    ],
-   "a": 0,
+   "a": 3,
    "w": "Graben is a sunken block. Horst is a raised block."
   },
   {
    "q": "Which is a block mountain?",
    "o": [
-    "Black Forest",
     "Alps",
     "Andes",
+    "Black Forest",
     "Himalaya"
    ],
-   "a": 0,
+   "a": 2,
    "w": "Block mountains form by faulting, as with the Black Forest and Vosges."
   },
   {
    "q": "Which is a residual mountain?",
    "o": [
     "Himalaya",
-    "Rockies",
     "Aravalli",
+    "Rockies",
     "Alps"
    ],
-   "a": 2,
+   "a": 1,
    "w": "Aravalli are very old, worn-down hills."
   },
   {
    "q": "Fold mountains mainly form at which type of boundary?",
    "o": [
+    "Convergent",
     "Divergent",
     "Transform",
-    "Convergent",
     "Hot spot"
    ],
-   "a": 2,
+   "a": 0,
    "w": "Compression at convergent boundaries makes folds."
   },
   {
    "q": "The Narmada and Tapi flow through?",
    "o": [
-    "Rift valleys",
     "Glacial valleys",
     "Karst basins",
-    "Deltas"
+    "Deltas",
+    "Rift valleys"
    ],
-   "a": 0,
+   "a": 3,
    "w": "They flow in faulted troughs, so they make estuaries."
   },
   {
    "q": "Geosyncline theory is associated with?",
    "o": [
-    "James Hall and Dana",
     "Wegener",
     "Hess",
+    "James Hall and Dana",
     "Davis"
    ],
-   "a": 0,
+   "a": 2,
    "w": "Hall and Dana studied sediment troughs in the Appalachians."
   },
   {
    "q": "About when did India-Eurasia collision begin?",
    "o": [
     "5 million years ago",
-    "500 million years ago",
     "50 million years ago",
+    "500 million years ago",
     "150 million years ago"
    ],
-   "a": 2,
+   "a": 1,
    "w": "The collision began in the Eocene, roughly 50 million years ago."
   },
   {
    "q": "A recumbent fold pushed far over is a?",
    "o": [
     "Horst",
-    "Esker",
     "Nappe",
+    "Esker",
     "Playa"
    ],
-   "a": 2,
+   "a": 1,
    "w": "Nappes are typical of the Alps and Himalaya."
   },
   {

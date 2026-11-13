@@ -6,7 +6,7 @@
   {
    "tag": "Why this matters",
    "h": "Dry lands and open plains cover a third of the earth",
-   "b": "<p>Deserts cover about a third of land, and grasslands feed the world. UPSC asks about their causes, local names, the rain shadow, desertification and wheat belts. Combine them with the biomes and climate lessons.</p>"
+   "b": "<p>Deserts cover about a third of land, and grasslands feed the world. UPSC asks about their causes, local names, the rain shadow, desertification and wheat belts. Combine them with the biomes and climate lessons.</p><p>Both biomes appear in the prelims every few years, often through a map, a local name or a cause of desert formation, so keep the lists below ready.</p>"
   },
   {
    "tag": "Core idea",
@@ -21,7 +21,7 @@
   {
    "tag": "Core idea",
    "h": "Cold deserts",
-   "b": "<p>Gobi (China and Mongolia), Taklamakan, Patagonia, Great Basin, Ladakh, Turkestan. They have rain under 25-50 cm and cold winters. Antarctica is a polar desert, the largest desert on Earth. Many cold deserts lie in the rain shadow of high ranges.</p>"
+   "b": "<p>Gobi (China and Mongolia), Taklamakan, Patagonia, Great Basin, Ladakh, Turkestan. They have rain under 25-50 cm and cold winters. Antarctica is a polar desert, the largest desert on Earth. Many cold deserts lie in the rain shadow of high ranges.</p><p>Oases form where the water table meets the surface, and the date palm is the key crop. Salt crust and wind erosion are the two worst enemies of oasis farming.</p>"
   },
   {
    "tag": "Core idea",
@@ -36,7 +36,7 @@
   {
    "tag": "Core idea",
    "h": "Tropical grasslands (savanna)",
-   "b": "<p>Africa's savanna (the Serengeti, Masai Mara), Llanos (Orinoco, Venezuela), Campos (Brazil), the Australian tropical grasslands. Wet summer, dry winter. Grass with scattered acacia and baobab. Wildlife: elephant, lion, zebra, giraffe. Threats: poaching, farming, drought. Hosts the great wildebeest migration.</p>"
+   "b": "<p>Africa's savanna (the Serengeti, Masai Mara), Llanos (Orinoco, Venezuela), Campos (Brazil), the Australian tropical grasslands. Wet summer, dry winter. Grass with scattered acacia and baobab. Wildlife: elephant, lion, zebra, giraffe. Threats: poaching, farming, drought. Hosts the great wildebeest migration.</p><p>The Serengeti hosts one of the largest land animal migrations, with over a million wildebeest following the rains each year between Tanzania and Kenya.</p>"
   },
   {
    "tag": "Key idea",
@@ -70,12 +70,12 @@
   {
    "q": "The Atacama is dry because of the?",
    "o": [
-    "Humboldt (Peru) cold current and Andes",
     "Gulf Stream",
+    "Humboldt (Peru) cold current and Andes",
     "Kuroshio",
     "Monsoon"
    ],
-   "a": 0,
+   "a": 1,
    "w": "Cold current plus rain shadow."
   },
   {
@@ -94,10 +94,10 @@
    "o": [
     "Australia",
     "Russia",
-    "Argentina",
-    "India"
+    "India",
+    "Argentina"
    ],
-   "a": 2,
+   "a": 3,
    "w": "South America."
   },
   {
@@ -114,12 +114,12 @@
   {
    "q": "UNCCD was adopted in?",
    "o": [
-    "1994",
     "1972",
+    "1994",
     "1988",
     "2008"
    ],
-   "a": 0,
+   "a": 1,
    "w": "Desertification convention."
   },
   {
@@ -138,10 +138,10 @@
    "o": [
     "Sand dune",
     "Salt lake",
-    "Dry river bed",
-    "Oasis spring"
+    "Oasis spring",
+    "Dry river bed"
    ],
-   "a": 2,
+   "a": 3,
    "w": "Desert landform."
   },
   {
@@ -149,21 +149,21 @@
    "o": [
     "North of Sahara",
     "In Australia",
-    "South of the Sahara",
-    "In Siberia"
+    "In Siberia",
+    "South of the Sahara"
    ],
-   "a": 2,
+   "a": 3,
    "w": "A semi-arid belt."
   },
   {
    "q": "A stony desert is called?",
    "o": [
-    "Reg",
     "Erg",
     "Wadi",
+    "Reg",
     "Oasis"
    ],
-   "a": 0,
+   "a": 2,
    "w": "Erg is a sand sea."
   }
  ],

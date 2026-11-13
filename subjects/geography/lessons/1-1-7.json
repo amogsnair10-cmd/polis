@@ -6,7 +6,7 @@
   {
    "tag": "Why this matters",
    "h": "Protected landscapes appear every year",
-   "b": "<p>Biosphere reserves, wetlands and mangroves are standard prelims facts and mains themes about conservation. Each sits in a legal and international framework. Know the numbers, the largest examples and the way each is protected.</p>"
+   "b": "<p>Biosphere reserves, wetlands and mangroves are standard prelims facts and mains themes about conservation. Each sits in a legal and international framework. Know the numbers, the largest examples and the way each is protected.</p><p>The three topics belong together: mangroves and wetlands are habitats, while biosphere reserves are a management category that can contain both. Learn the number, place and law for each.</p>"
   },
   {
    "tag": "Core idea",
@@ -16,7 +16,7 @@
   {
    "tag": "Core idea",
    "h": "Mangrove types and threats",
-   "b": "<p>Common species: Rhizophora, Avicennia, Sonneratia, and <b>Heritiera fomes</b> (sundari) in the Sundarbans. Other sites: Bhitarkanika (Odisha), Godavari-Krishna delta, Pichavaram (Tamil Nadu). Threats: aquaculture ponds, reclamation, sand mining and oil pollution. Protected by the Coastal Regulation Zone (CRZ-I). The MISHTI scheme (2023) promotes planting.</p>"
+   "b": "<p>Common species: Rhizophora, Avicennia, Sonneratia, and <b>Heritiera fomes</b> (sundari) in the Sundarbans. Other sites: Bhitarkanika (Odisha), Godavari-Krishna delta, Pichavaram (Tamil Nadu). Threats: aquaculture ponds, reclamation, sand mining and oil pollution. Protected by the Coastal Regulation Zone (CRZ-I). The MISHTI scheme (2023) promotes planting.</p><p>The Sundarbans is a mangrove delta in both India and Bangladesh. It is a Ramsar site, a UNESCO World Heritage Site (1987) and a tiger reserve of the Royal Bengal tiger.</p>"
   },
   {
    "tag": "Core idea",
@@ -36,22 +36,22 @@
   {
    "tag": "Core idea",
    "h": "Reserve names and states",
-   "b": "<ul><li>Nilgiri: Tamil Nadu, Kerala, Karnataka.</li><li>Agasthyamala: Kerala, Tamil Nadu.</li><li>Sundarbans: West Bengal.</li><li>Gulf of Mannar: Tamil Nadu (marine).</li><li>Cold Desert: Himachal Pradesh (Spiti).</li><li>Nokrek: Meghalaya.</li><li>Simlipal: Odisha.</li><li>Pachmarhi: Madhya Pradesh.</li><li>Kachchh: Gujarat, the largest by area.</li></ul>"
+   "b": "<ul><li>Nilgiri: Tamil Nadu, Kerala, Karnataka.</li><li>Agasthyamala: Kerala, Tamil Nadu.</li><li>Sundarbans: West Bengal.</li><li>Gulf of Mannar: Tamil Nadu (marine).</li><li>Cold Desert: Himachal Pradesh (Spiti).</li><li>Nokrek: Meghalaya.</li><li>Simlipal: Odisha.</li><li>Pachmarhi: Madhya Pradesh.</li><li>Kachchh: Gujarat, the largest by area.</li></ul><p>Local people use mangroves as fuelwood, honey and fish sources. In the Sundarbans, honey collectors and fishermen face tiger attacks, which is why compensation and tiger-proof fencing are policy topics.</p>"
   },
   {
    "tag": "Debate",
    "h": "People and protection",
-   "b": "<p>Core areas often displace forest dwellers. The Forest Rights Act 2006 recognises rights, but conflict persists over critical wildlife habitats. Advocates of 'fortress conservation' say people harm wildlife, while advocates of community conservation point to sacred groves and community reserves that work well.</p>"
+   "b": "<p>Core areas often displace forest dwellers. The Forest Rights Act 2006 recognises rights, but conflict persists over critical wildlife habitats. Advocates of 'fortress conservation' say people harm wildlife, while advocates of community conservation point to sacred groves and community reserves that work well.</p><p>Sacred groves, such as the Khasi groves in Meghalaya and the kavus in Kerala, show community conservation. Community reserves were added to the Wildlife Act by the 2002 amendment.</p>"
   },
   {
    "tag": "Indian angle",
    "h": "Related categories",
-   "b": "<p>National parks (stricter), wildlife sanctuaries, conservation reserves, community reserves, all under the Wildlife (Protection) Act 1972. Biosphere reserves are not a legal category under this Act; they are an administrative designation. Ramsar sites also need no separate legal status, though many sit inside parks.</p>"
+   "b": "<p>National parks (stricter), wildlife sanctuaries, conservation reserves, community reserves, all under the Wildlife (Protection) Act 1972. Biosphere reserves are not a legal category under this Act; they are an administrative designation. Ramsar sites also need no separate legal status, though many sit inside parks.</p><p>A national park prohibits grazing and private rights, while a biosphere reserve has zones for people. Wildlife sanctuaries allow some human activity under rules. UNESCO designates BRs, but the country keeps control.</p>"
   },
   {
    "tag": "Exam lens",
    "h": "How to answer",
-   "b": "<p>Likely questions: 'Role of mangroves in coastal protection', 'What are biosphere reserves and how do they differ from national parks?', 'Ramsar sites in India'.</p><ul><li>Distinguish zones and use.</li><li>Give three examples each with states.</li><li>Link to blue carbon, cyclone buffers and livelihoods.</li></ul>",
+   "b": "<p>Likely questions: 'Role of mangroves in coastal protection', 'What are biosphere reserves and how do they differ from national parks?', 'Ramsar sites in India'.</p><ul><li>Distinguish zones and use.</li><li>Give three examples each with states.</li><li>Link to blue carbon, cyclone buffers and livelihoods.</li></ul><p>India also has Ramsar sites in Punjab (Harike, Kanjli), Kerala (Sasthamkotta), Jammu and Kashmir (Wular, Hokera) and Manipur (Loktak). Keep a state-wise map of ten sites in mind for prelims.</p>",
    "cls": "exam"
   }
  ],
@@ -60,11 +60,11 @@
    "q": "Breathing roots of mangroves are called?",
    "o": [
     "Rhizomes",
-    "Tendrils",
     "Pneumatophores",
+    "Tendrils",
     "Stipules"
    ],
-   "a": 2,
+   "a": 1,
    "w": "They take in air."
   },
   {
@@ -81,12 +81,12 @@
   {
    "q": "India's first Ramsar site was?",
    "o": [
-    "Chilika",
     "Loktak",
     "Wular",
-    "Sambhar"
+    "Sambhar",
+    "Chilika"
    ],
-   "a": 0,
+   "a": 3,
    "w": "Declared in 1981."
   },
   {
@@ -104,11 +104,11 @@
    "q": "The three zones of a biosphere reserve are?",
    "o": [
     "Wet, dry, mixed",
-    "Coast, plain, hill",
     "Core, buffer, transition",
+    "Coast, plain, hill",
     "Alpha, beta, gamma"
    ],
-   "a": 2,
+   "a": 1,
    "w": "UNESCO's zoning."
   },
   {
@@ -125,12 +125,12 @@
   {
    "q": "The Sundarbans mangroves mainly feature?",
    "o": [
-    "Sundari",
     "Teak",
     "Sal",
-    "Deodar"
+    "Deodar",
+    "Sundari"
    ],
-   "a": 0,
+   "a": 3,
    "w": "Heritiera fomes."
   },
   {
@@ -158,12 +158,12 @@
   {
    "q": "Blue carbon refers to carbon stored in?",
    "o": [
-    "Coastal and marine ecosystems",
     "Deep rocks",
+    "Coastal and marine ecosystems",
     "Forests on hills",
     "Coal"
    ],
-   "a": 0,
+   "a": 1,
    "w": "Mangroves, seagrass, salt marsh."
   }
  ],

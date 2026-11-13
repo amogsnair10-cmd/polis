@@ -70,12 +70,12 @@
   {
    "q": "In 'cP', the letter c stands for?",
    "o": [
-    "Continental",
     "Cold",
+    "Continental",
     "Cyclonic",
     "Calm"
    ],
-   "a": 0,
+   "a": 1,
    "w": "c means continental and dry."
   },
   {
@@ -94,10 +94,10 @@
    "o": [
     "Koppen",
     "Ferrel",
-    "Bjerknes and colleagues",
-    "Coriolis"
+    "Coriolis",
+    "Bjerknes and colleagues"
    ],
-   "a": 2,
+   "a": 3,
    "w": "The Norwegian school worked it out around 1918-20."
   },
   {
@@ -114,12 +114,12 @@
   {
    "q": "Which has an eye?",
    "o": [
-    "Tropical cyclone",
     "Temperate cyclone",
+    "Tropical cyclone",
     "Anticyclone",
     "Western disturbance"
    ],
-   "a": 0,
+   "a": 1,
    "w": "Tropical cyclones have a calm eye."
   },
   {
@@ -138,10 +138,10 @@
    "o": [
     "Anticlockwise",
     "Straight",
-    "Clockwise",
-    "Randomly"
+    "Randomly",
+    "Clockwise"
    ],
-   "a": 2,
+   "a": 3,
    "w": "Highs are clockwise in the north."
   },
   {
@@ -149,21 +149,21 @@
    "o": [
     "10 degrees C",
     "15 degrees C",
-    "26.5 degrees C or more",
-    "Below 5 degrees C"
+    "Below 5 degrees C",
+    "26.5 degrees C or more"
    ],
-   "a": 2,
+   "a": 3,
    "w": "Warm water supplies latent heat."
   },
   {
    "q": "Western disturbances reach India with the?",
    "o": [
-    "Subtropical westerly jet",
     "Equatorial easterly",
     "Somali jet",
+    "Subtropical westerly jet",
     "Polar vortex"
    ],
-   "a": 0,
+   "a": 2,
    "w": "The jet carries Mediterranean systems east."
   }
  ],

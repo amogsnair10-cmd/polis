@@ -41,7 +41,7 @@
   {
    "tag": "Core idea",
    "h": "Ocean resources on the floor",
-   "b": "<p><b>Polymetallic nodules</b> hold manganese, nickel, cobalt and copper. The Clarion-Clipperton Zone in the Pacific is the best known. <b>Hydrothermal vents</b> deposit sulphides. <b>Gas hydrates</b> store methane in cold sediments. The International Seabed Authority (Kingston, Jamaica, under UNCLOS 1982) regulates seabed mining beyond national waters.</p>"
+   "b": "<p><b>Polymetallic nodules</b> hold manganese, nickel, cobalt and copper. The Clarion-Clipperton Zone in the Pacific is the best known. <b>Hydrothermal vents</b> deposit sulphides. <b>Gas hydrates</b> store methane in cold sediments. The International Seabed Authority (Kingston, Jamaica, under UNCLOS 1982) regulates seabed mining beyond national waters.</p><p>The 1982 UN Convention on the Law of the Sea also lets coastal states claim the continental shelf up to 350 nautical miles, so sea-floor relief becomes a legal question as well as a physical one.</p>"
   },
   {
    "tag": "Indian angle",
@@ -60,11 +60,11 @@
    "q": "The longest mountain chain on Earth is the?",
    "o": [
     "Himalaya",
-    "Andes",
     "Mid-ocean ridge system",
+    "Andes",
     "Rockies"
    ],
-   "a": 2,
+   "a": 1,
    "w": "The ridge system runs about 65,000 km."
   },
   {
@@ -81,12 +81,12 @@
   {
    "q": "Magnetic stripes were explained by?",
    "o": [
-    "Vine and Matthews",
     "Hess and Dietz",
     "Koppen",
-    "Walker"
+    "Walker",
+    "Vine and Matthews"
    ],
-   "a": 0,
+   "a": 3,
    "w": "They showed symmetrical stripes about the ridge."
   },
   {
@@ -104,11 +104,11 @@
    "q": "Trenches form at?",
    "o": [
     "Divergent boundaries",
-    "Hot spots",
     "Subduction zones",
+    "Hot spots",
     "Transform faults"
    ],
-   "a": 2,
+   "a": 1,
    "w": "One plate dives beneath another."
   },
   {
@@ -125,12 +125,12 @@
   {
    "q": "Pelagic deposits are found in?",
    "o": [
-    "The open sea",
     "Near the shore",
     "River deltas",
-    "Lakes"
+    "Lakes",
+    "The open sea"
    ],
-   "a": 0,
+   "a": 3,
    "w": "Pelagic means of the open ocean."
   },
   {
@@ -158,12 +158,12 @@
   {
    "q": "Deepest ocean floor is covered mainly by?",
    "o": [
-    "Red clay",
     "Coarse sand",
+    "Red clay",
     "Calcareous ooze",
     "Gravel"
    ],
-   "a": 0,
+   "a": 1,
    "w": "Below the carbonate compensation depth, clay accumulates."
   }
  ],

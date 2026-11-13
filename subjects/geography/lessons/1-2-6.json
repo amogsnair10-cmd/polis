@@ -26,7 +26,7 @@
   {
    "tag": "Key idea",
    "h": "Strategic Petroleum Reserve",
-   "b": "<p>India stores crude in underground rock caverns: <b>Visakhapatnam</b> (1.33 million tonnes), <b>Mangaluru</b> (1.5) and <b>Padur</b> (2.5). They hold about 5.33 million tonnes, roughly 9-10 days of consumption. The Indian Strategic Petroleum Reserves Ltd (ISPRL) runs them. Phase II plans Chandikhol (Odisha) and Padur II.</p>"
+   "b": "<p>India stores crude in underground rock caverns: <b>Visakhapatnam</b> (1.33 million tonnes), <b>Mangaluru</b> (1.5) and <b>Padur</b> (2.5). They hold about 5.33 million tonnes, roughly 9-10 days of consumption. The Indian Strategic Petroleum Reserves Ltd (ISPRL) runs them. Phase II plans Chandikhol (Odisha) and Padur II.</p><p>The Strategic Petroleum Reserves are meant to protect against supply shocks, in the way the 1990 Gulf War and 2022 energy crisis showed. ADNOC of Abu Dhabi also stores crude in part of the Mangaluru cavern, as a commercial arrangement.</p>"
   },
   {
    "tag": "Core idea",
@@ -51,7 +51,7 @@
   {
    "tag": "Exam lens",
    "h": "How to answer",
-   "b": "<p>Likely questions: 'Why is India oil import dependent?', 'Potential of solar in India', 'Strategic petroleum reserves'.</p><ul><li>Map: Assam, Gujarat, Mumbai High, KG basin.</li><li>Give numbers: import share and storage days.</li><li>Close with the policy mix: diversification, storage, renewables, green hydrogen.</li></ul>",
+   "b": "<p>Likely questions: 'Why is India oil import dependent?', 'Potential of solar in India', 'Strategic petroleum reserves'.</p><ul><li>Map: Assam, Gujarat, Mumbai High, KG basin.</li><li>Give numbers: import share and storage days.</li><li>Close with the policy mix: diversification, storage, renewables, green hydrogen.</li></ul><p>Include the geography: oil is found in sedimentary basins, solar needs open land and high insolation in Rajasthan and Gujarat, wind needs coastal and ghat passes such as the Palghat gap and Muppandal.</p>",
    "cls": "exam"
   }
  ],
@@ -60,11 +60,11 @@
    "q": "India's oldest oilfield is at?",
    "o": [
     "Mumbai High",
-    "Ankleshwar",
     "Digboi",
+    "Ankleshwar",
     "Naharkatiya"
    ],
-   "a": 2,
+   "a": 1,
    "w": "Assam, 1889."
   },
   {
@@ -81,12 +81,12 @@
   {
    "q": "HBJ pipeline carries?",
    "o": [
-    "Natural gas",
     "Crude oil",
     "Water",
-    "Coal"
+    "Coal",
+    "Natural gas"
    ],
-   "a": 0,
+   "a": 3,
    "w": "Hazira-Bijaipur-Jagdishpur."
   },
   {
@@ -104,11 +104,11 @@
    "q": "Which site has a strategic petroleum reserve?",
    "o": [
     "Kolkata",
-    "Panipat",
     "Visakhapatnam",
+    "Panipat",
     "Jamnagar"
    ],
-   "a": 2,
+   "a": 1,
    "w": "Also Mangaluru and Padur."
   },
   {
@@ -125,12 +125,12 @@
   {
    "q": "The Bhadla solar park is in?",
    "o": [
-    "Rajasthan",
     "Gujarat",
     "Karnataka",
-    "Telangana"
+    "Telangana",
+    "Rajasthan"
    ],
-   "a": 0,
+   "a": 3,
    "w": "Among the largest."
   },
   {
@@ -158,12 +158,12 @@
   {
    "q": "The largest wind power state is?",
    "o": [
-    "Tamil Nadu",
     "Kerala",
+    "Tamil Nadu",
     "Punjab",
     "Bihar"
    ],
-   "a": 0,
+   "a": 1,
    "w": "Check current rankings."
   }
  ],

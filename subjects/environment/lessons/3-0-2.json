@@ -1,0 +1,176 @@
+{
+ "id": "3-0-2",
+ "title": "El Nino, La Nina, IOD and the Himalayan Cryosphere",
+ "emoji": "❄️",
+ "cards": [
+  {
+   "tag": "Why this matters",
+   "h": "Monsoon, glaciers and floods",
+   "b": "<p>Climate drivers like El Nino and the Indian Ocean Dipole decide whether the monsoon fails or floods, and so decide farm output and prices. The Himalayan glaciers feed the great rivers. Prelims asks about definitions and effects. Mains asks about impacts and adaptation.</p><p>Learn the two ocean systems and then the glacier story.</p>"
+  },
+  {
+   "tag": "ENSO",
+   "h": "El Nino and La Nina",
+   "b": "<p><b>ENSO</b> (El Nino-Southern Oscillation) is a cycle in the Pacific. In normal years, trade winds push warm water west, and cold water rises off Peru (the <b>Walker circulation</b>). In an <b>El Nino</b>, trade winds weaken, warm water spreads east, and the Peruvian coast warms. Rain shifts east, and Indonesia and India often turn dry.</p><p>In <b>La Nina</b>, trade winds strengthen and the eastern Pacific cools. India usually gets good monsoon rain. A year is called El Nino when the sea surface temperature in the Nino 3.4 region stays <b>0.5 °C above normal</b> for several months. The cycle repeats every 2 to 7 years. The <b>Southern Oscillation Index</b> measures the pressure difference between Tahiti and Darwin.</p>"
+  },
+  {
+   "tag": "Effects",
+   "h": "What happens in India",
+   "b": "<p>El Nino years, such as 2009, 2014, 2015 and 2023, saw weak or deficient monsoon rain, drought risk and higher food prices. Not every El Nino brings a drought, because the Indian Ocean also matters. El Nino also raises global temperatures, and 2023 was a record-warm year. La Nina years bring more rain, floods in the north-east and colder winters in the north.</p><p>Farm output, power demand and inflation respond. The IMD and the Ministry of Earth Sciences watch ENSO closely in its monsoon forecasts.</p>"
+  },
+  {
+   "tag": "IOD",
+   "h": "Indian Ocean Dipole",
+   "b": "<p>The <b>Indian Ocean Dipole</b> (also the Indian Nino) is the difference in sea surface temperature between the western and eastern Indian Ocean. A <b>positive IOD</b> (warm west, cool east) favours good Indian monsoon rain and can offset El Nino, as in 1997. A <b>negative IOD</b> can reduce rain. <b>EQUINOO</b> (the Equatorial Indian Ocean Oscillation) is a related wind pattern.</p><p>The <b>Madden-Julian Oscillation</b> (MJO) is an eastward-moving pulse of cloud and rain that causes active and break spells of the monsoon in 30 to 60 days. A good monsoon needs a good mix of ENSO, IOD and MJO.</p><svg class='d' viewBox='0 0 320 160' role='img' aria-label='ENSO and monsoon'><rect x='10' y='8' width='300' height='30' rx='4' fill='#dceaec' stroke='#2f6f7a'/><text x='160' y='27' font-size='11' text-anchor='middle' fill='#1d2433'>El Nino: warm east Pacific, weak rain</text><rect x='10' y='46' width='300' height='30' rx='4' fill='#f1e4c6' stroke='#a8792a'/><text x='160' y='65' font-size='11' text-anchor='middle' fill='#1d2433'>La Nina: cool east Pacific, good rain</text><rect x='10' y='84' width='300' height='30' rx='4' fill='#f4dcd5' stroke='#a3362a'/><text x='160' y='103' font-size='11' text-anchor='middle' fill='#1d2433'>Positive IOD: helps monsoon</text><rect x='10' y='122' width='300' height='30' rx='4' fill='#dceaec' stroke='#2f6f7a'/><text x='160' y='141' font-size='11' text-anchor='middle' fill='#1d2433'>Himalaya glaciers: Third Pole</text></svg>"
+  },
+  {
+   "tag": "Cryosphere",
+   "h": "Himalayan glaciers",
+   "b": "<p>The Hindu Kush Himalaya is called the <b>Third Pole</b> because it has the largest ice mass outside the poles. Major glaciers include <b>Gangotri</b>, Siachen (one of the longest outside the poles), Zemu and Pindari. Glaciers feed the <b>Ganga, Indus and Brahmaputra</b>. Many are retreating faster this century, with black carbon and warming as causes.</p><p>Hazards: <b>Glacial Lake Outburst Floods (GLOFs)</b>. Examples: <b>Kedarnath 2013</b>, <b>Chamoli 2021</b> (a rock and ice avalanche in the Rishiganga valley) and <b>South Lhonak Lake in Sikkim, October 2023</b>. <b>Permafrost</b> thaw destabilises slopes.</p>"
+  },
+  {
+   "tag": "Why it matters",
+   "h": "Water and tipping points",
+   "b": "<p>In the short term, glacier melt raises river flow, then flow falls once the ice mass is gone (\"peak water\"). Snow cover, not just glaciers, matters for the Indus basin. India's hill states face more landslides, and the <b>Joshimath</b> subsidence (2023) was a warning.</p><p>Tipping points under study include the <b>Atlantic Meridional Overturning Circulation (AMOC)</b>, ice sheets and Amazon dieback. Arctic amplification warms the north faster than the rest of the world.</p>"
+  },
+  {
+   "tag": "Debate",
+   "h": "Natural cycle or climate change?",
+   "b": "<p>ENSO is a natural cycle, but a warmer world may make El Ninos stronger. Glacier response is mixed: some Karakoram glaciers are stable or growing (the Karakoram anomaly). Critics of dam building in fragile zones say development has outrun science, while states want hydropower and roads.</p><p>A balanced answer: improve forecasts, early warning and land-use planning in the mountains.</p>"
+  },
+  {
+   "tag": "Indian angle",
+   "h": "Policy tools",
+   "b": "<p>The <b>National Mission for Sustaining the Himalayan Ecosystem</b> (NMSHE) under NAPCC, and the <b>National Mission on Strategic Knowledge for Climate Change</b>, study these issues. The <b>Wadia Institute of Himalayan Geology</b> and the <b>National Centre for Polar and Ocean Research</b> (Goa) monitor ice. <b>Mission Mausam</b> (2024) improves weather forecasting. India runs research stations in Antarctica (Maitri, Bharati) and in the Arctic (Himadri, Svalbard).</p>"
+  },
+  {
+   "tag": "Revision",
+   "h": "Quick table",
+   "b": "<ul><li>El Nino: warm eastern Pacific; weak monsoon likely.</li><li>La Nina: cool eastern Pacific; good monsoon.</li><li>Positive IOD: helps monsoon.</li><li>GLOF events: 2013, 2021, 2023.</li><li>Himalaya: the Third Pole.</li></ul><p>Also keep the mechanism in one line: weak trade winds, warm east Pacific, shifted rain, weaker Indian monsoon. A single mechanism line often earns the mark.</p>"
+  },
+  {
+   "tag": "Exam lens",
+   "h": "How to answer",
+   "b": "<p><b>Prelims-style:</b> \"El Nino is characterised by\" (warming of the central and eastern Pacific, weakened trade winds). \"Positive IOD usually leads to\" (good monsoon).</p><p><b>Mains-style:</b> \"How do El Nino and the Indian Ocean Dipole affect the Indian monsoon? Discuss adaptation.\" Structure: mechanism of each; combined effects; examples of years; farm and economy impact; forecasting and crop planning.</p>",
+   "cls": "exam"
+  }
+ ],
+ "quiz": [
+  {
+   "q": "In an El Nino year, the eastern Pacific:",
+   "o": [
+    "Cools",
+    "Warms",
+    "Freezes",
+    "Stays normal"
+   ],
+   "a": 1,
+   "w": "Trade winds weaken."
+  },
+  {
+   "q": "The El Nino threshold in the Nino 3.4 region is:",
+   "o": [
+    "0.5 °C above normal",
+    "2 °C above normal",
+    "1 °C below normal",
+    "No threshold"
+   ],
+   "a": 0,
+   "w": "For several consecutive months."
+  },
+  {
+   "q": "La Nina typically gives India:",
+   "o": [
+    "Weak monsoon",
+    "Cyclones only",
+    "No effect",
+    "Good monsoon rain"
+   ],
+   "a": 3,
+   "w": "Eastern Pacific cools."
+  },
+  {
+   "q": "A positive IOD means:",
+   "o": [
+    "Warm eastern Indian Ocean",
+    "Cold western Pacific",
+    "Warm western Indian Ocean",
+    "Frozen Arctic"
+   ],
+   "a": 2,
+   "w": "Usually helps the monsoon."
+  },
+  {
+   "q": "The Southern Oscillation Index compares pressure at:",
+   "o": [
+    "Delhi and Chennai",
+    "Tahiti and Darwin",
+    "London and Paris",
+    "Tokyo and Lima"
+   ],
+   "a": 1,
+   "w": "It measures the ENSO atmosphere link."
+  },
+  {
+   "q": "GLOF stands for:",
+   "o": [
+    "Glacial Lake Outburst Flood",
+    "Global Land Output Forecast",
+    "Glacier Loss of Flow",
+    "Gas Leak Over Fields"
+   ],
+   "a": 0,
+   "w": "Kedarnath 2013 is an example."
+  },
+  {
+   "q": "The Hindu Kush Himalaya is called the:",
+   "o": [
+    "Blue Lung",
+    "Green Belt",
+    "Fourth Estate",
+    "Third Pole"
+   ],
+   "a": 3,
+   "w": "It holds large ice mass."
+  },
+  {
+   "q": "The MJO is a:",
+   "o": [
+    "Yearly cycle",
+    "Deep-sea current",
+    "30 to 60 day pulse of cloud and rain",
+    "Dust storm"
+   ],
+   "a": 2,
+   "w": "It shapes active and break spells."
+  },
+  {
+   "q": "The Chamoli disaster occurred in:",
+   "o": [
+    "2013",
+    "2021",
+    "2005",
+    "2023"
+   ],
+   "a": 1,
+   "w": "In the Rishiganga valley."
+  },
+  {
+   "q": "The Karakoram anomaly refers to:",
+   "o": [
+    "Glaciers stable or growing",
+    "Fast melting",
+    "Desert spread",
+    "Heavy snow ban"
+   ],
+   "a": 0,
+   "w": "Unlike the central Himalaya."
+  }
+ ],
+ "sources": [
+  "IPCC and UNFCCC documents",
+  "MoEFCC, MNRE and PIB",
+  "Shankar IAS Environment"
+ ],
+ "verified": "2026-11-13"
+}

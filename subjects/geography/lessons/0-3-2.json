@@ -6,7 +6,7 @@
   {
    "tag": "Why this matters",
    "h": "Where life is rich, and where it is at risk",
-   "b": "<p>Biogeography asks why species live where they do. Hotspot ideas guide conservation money and policy. UPSC mixes this with environment: 'Which of these is a hotspot?' and 'Why is the Western Ghats a hotspot?' appear again and again.</p>"
+   "b": "<p>Biogeography asks why species live where they do. Hotspot ideas guide conservation money and policy. UPSC mixes this with environment: 'Which of these is a hotspot?' and 'Why is the Western Ghats a hotspot?' appear again and again.</p><p>Wallace's realms, the island theory and the hotspot idea give three tools for three kinds of question: map-based, theory-based and policy-based. India's four hotspots tie them together.</p>"
   },
   {
    "tag": "Core idea",
@@ -46,7 +46,7 @@
   {
    "tag": "Debate",
    "h": "Hotspots or whole landscapes?",
-   "b": "<p>Critics say hotspots miss places rich in species but not threatened, such as the high-forest Amazon, and may ignore ecosystem services. Others support them as a clear, cheap way to rank priorities. Some conservationists prefer <b>global 200 ecoregions</b> or <b>key biodiversity areas</b>.</p>"
+   "b": "<p>Critics say hotspots miss places rich in species but not threatened, such as the high-forest Amazon, and may ignore ecosystem services. Others support them as a clear, cheap way to rank priorities. Some conservationists prefer <b>global 200 ecoregions</b> or <b>key biodiversity areas</b>.</p><p>Hotspots are also tied to funding. The Critical Ecosystem Partnership Fund, started in 2000, directs grants to civil society groups in hotspots, including the Western Ghats and the Himalaya.</p>"
   },
   {
    "tag": "Exam lens",
@@ -60,11 +60,11 @@
    "q": "The hotspot concept was proposed by?",
    "o": [
     "E O Wilson",
-    "Wallace",
     "Norman Myers",
+    "Wallace",
     "Darwin"
    ],
-   "a": 2,
+   "a": 1,
    "w": "Myers introduced it in 1988."
   },
   {
@@ -81,12 +81,12 @@
   {
    "q": "A hotspot must have lost at least how much original habitat?",
    "o": [
-    "70 percent",
     "10 percent",
     "30 percent",
-    "95 percent"
+    "95 percent",
+    "70 percent"
    ],
-   "a": 0,
+   "a": 3,
    "w": "At least 70 percent of primary vegetation lost."
   },
   {
@@ -104,11 +104,11 @@
    "q": "The Wallace Line passes between?",
    "o": [
     "Java and Sumatra",
-    "Sri Lanka and India",
     "Bali and Lombok",
+    "Sri Lanka and India",
     "Borneo and Brunei"
    ],
-   "a": 2,
+   "a": 1,
    "w": "It separates Asian from Australian fauna."
   },
   {
@@ -125,12 +125,12 @@
   {
    "q": "Species found only in one place are?",
    "o": [
-    "Endemic",
     "Invasive",
     "Keystone",
-    "Cosmopolitan"
+    "Cosmopolitan",
+    "Endemic"
    ],
-   "a": 0,
+   "a": 3,
    "w": "Endemic means restricted to one area."
   },
   {
@@ -158,12 +158,12 @@
   {
    "q": "Darwin's finches illustrate?",
    "o": [
-    "Adaptive radiation",
     "Convergent evolution",
+    "Adaptive radiation",
     "Extinction",
     "Migration"
    ],
-   "a": 0,
+   "a": 1,
    "w": "One ancestor diversified into many beak forms."
   }
  ],

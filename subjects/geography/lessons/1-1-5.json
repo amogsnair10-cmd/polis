@@ -6,7 +6,7 @@
   {
    "tag": "Why this matters",
    "h": "Rain-fed rivers with water disputes",
-   "b": "<p>Peninsular rivers are seasonal, fed mainly by monsoon rain. They have fixed courses because of hard rock, no deep valleys and no meanders. They cause a string of inter-state disputes. UPSC asks about their courses, tributaries, delta, rift valley and disputes.</p>"
+   "b": "<p>Peninsular rivers are seasonal, fed mainly by monsoon rain. They have fixed courses because of hard rock, no deep valleys and no meanders. They cause a string of inter-state disputes. UPSC asks about their courses, tributaries, delta, rift valley and disputes.</p><p>Their slow flow and shallow valleys do not carry much silt, so they form fewer big floods than the Himalayan rivers, but they cause bitter water-sharing fights in dry years.</p>"
   },
   {
    "tag": "Core idea",
@@ -21,7 +21,7 @@
   {
    "tag": "Core idea",
    "h": "Krishna",
-   "b": "<p>Second longest peninsular river (about 1,400 km). Rises at Mahabaleshwar in the Western Ghats. Tributaries: Koyna, Panchganga, Ghataprabha, Malaprabha, Bhima, Tungabhadra, Musi. Ends in a delta in Andhra. Srisailam and Nagarjuna Sagar dams. Disputes among Maharashtra, Karnataka, Telangana and Andhra.</p>"
+   "b": "<p>Second longest peninsular river (about 1,400 km). Rises at Mahabaleshwar in the Western Ghats. Tributaries: Koyna, Panchganga, Ghataprabha, Malaprabha, Bhima, Tungabhadra, Musi. Ends in a delta in Andhra. Srisailam and Nagarjuna Sagar dams. Disputes among Maharashtra, Karnataka, Telangana and Andhra.</p><p>The Krishna basin covers about 2.6 lakh sq km across Maharashtra, Karnataka, Telangana and Andhra. Almost all of its flow is rain-fed, so droughts in the Deccan hit its reservoirs hard.</p>"
   },
   {
    "tag": "Core idea",
@@ -36,7 +36,7 @@
   {
    "tag": "Core idea",
    "h": "Other east and west flowing rivers",
-   "b": "<p>East: <b>Mahanadi</b> (Chhattisgarh to Odisha, Hirakud dam), <b>Subarnarekha</b>, <b>Brahmani</b>, <b>Penner</b>, <b>Vaigai</b>. West: <b>Sabarmati</b>, <b>Mahi</b>, <b>Luni</b> (inland), <b>Sharavati</b> (Jog falls), <b>Periyar</b> (longest in Kerala), <b>Bharathapuzha</b>. Western Ghats rivers are short and fast and meet the sea in estuaries.</p>"
+   "b": "<p>East: <b>Mahanadi</b> (Chhattisgarh to Odisha, Hirakud dam), <b>Subarnarekha</b>, <b>Brahmani</b>, <b>Penner</b>, <b>Vaigai</b>. West: <b>Sabarmati</b>, <b>Mahi</b>, <b>Luni</b> (inland), <b>Sharavati</b> (Jog falls), <b>Periyar</b> (longest in Kerala), <b>Bharathapuzha</b>. Western Ghats rivers are short and fast and meet the sea in estuaries.</p><p>The Mahanadi is called 'the sorrow of Odisha' for its floods. Hirakud, built in the 1950s, is among the longest earthen dams in the world, about 26 km with the dykes.</p>"
   },
   {
    "tag": "Debate",
@@ -51,7 +51,7 @@
   {
    "tag": "Exam lens",
    "h": "How to answer",
-   "b": "<p>Likely questions: 'Why do Narmada and Tapi form estuaries?', 'Distinguish Himalayan and peninsular drainage', 'Cauvery dispute'.</p><ul><li>Always a two-column comparison on origin, flow, valley, delta, use.</li><li>Give the rift valley explanation.</li><li>For disputes, state law, tribunal, key SC order and the way forward.</li></ul>",
+   "b": "<p>Likely questions: 'Why do Narmada and Tapi form estuaries?', 'Distinguish Himalayan and peninsular drainage', 'Cauvery dispute'.</p><ul><li>Always a two-column comparison on origin, flow, valley, delta, use.</li><li>Give the rift valley explanation.</li><li>For disputes, state law, tribunal, key SC order and the way forward.</li></ul><p>Treat this as a compare-and-contrast table. Also note that the Godavari delta and the Krishna delta together form a rice zone, while the Cauvery delta is the 'rice bowl of Tamil Nadu'.</p>",
    "cls": "exam"
   }
  ],
@@ -61,43 +61,43 @@
    "o": [
     "Krishna",
     "Cauvery",
-    "Godavari",
-    "Narmada"
+    "Narmada",
+    "Godavari"
    ],
-   "a": 2,
+   "a": 3,
    "w": "About 1,465 km."
   },
   {
    "q": "The Godavari rises at?",
    "o": [
-    "Trimbak (Nashik)",
     "Amarkantak",
     "Mahabaleshwar",
+    "Trimbak (Nashik)",
     "Talakaveri"
    ],
-   "a": 0,
+   "a": 2,
    "w": "It is in Maharashtra."
   },
   {
    "q": "The Narmada rises at?",
    "o": [
-    "Amarkantak",
     "Multai",
+    "Amarkantak",
     "Nashik",
     "Mahabaleshwar"
    ],
-   "a": 0,
+   "a": 1,
    "w": "It flows in a rift valley."
   },
   {
    "q": "Narmada and Tapi form?",
    "o": [
+    "Estuaries",
     "Deltas",
     "Lagoons",
-    "Estuaries",
     "Fjords"
    ],
-   "a": 2,
+   "a": 0,
    "w": "They flow in rift valleys to the Arabian Sea."
   },
   {
@@ -105,65 +105,65 @@
    "o": [
     "Cauvery",
     "Krishna",
-    "Sharavati",
-    "Periyar"
+    "Periyar",
+    "Sharavati"
    ],
-   "a": 2,
+   "a": 3,
    "w": "Karnataka."
   },
   {
    "q": "The Tungabhadra is a tributary of the?",
    "o": [
-    "Krishna",
     "Godavari",
     "Cauvery",
+    "Krishna",
     "Mahanadi"
    ],
-   "a": 0,
+   "a": 2,
    "w": "It meets near Kurnool."
   },
   {
    "q": "Article 262 relates to?",
    "o": [
-    "Inter-state river disputes",
     "Fundamental rights",
+    "Inter-state river disputes",
     "Emergency",
     "Finance"
    ],
-   "a": 0,
+   "a": 1,
    "w": "Parliament may bar courts from such disputes."
   },
   {
    "q": "The Hirakud Dam is on the?",
    "o": [
+    "Mahanadi",
     "Godavari",
     "Krishna",
-    "Mahanadi",
     "Tapi"
    ],
-   "a": 2,
+   "a": 0,
    "w": "Odisha."
   },
   {
    "q": "Cauvery flows nearly all year because it gets?",
    "o": [
+    "Both monsoons",
     "Glacier melt",
     "Only winter rain",
-    "Both monsoons",
     "Western disturbances"
    ],
-   "a": 2,
+   "a": 0,
    "w": "Southwest and northeast monsoons."
   },
   {
    "q": "The longest river wholly in Kerala is?",
    "o": [
-    "Periyar",
     "Bharathapuzha",
     "Pamba",
-    "Chaliyar"
+    "Chaliyar",
+    "Periyar"
    ],
-   "a": 0,
+   "a": 3,
    "w": "Periyar is the longest."
   }
  ],

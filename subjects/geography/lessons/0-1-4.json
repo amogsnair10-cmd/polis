@@ -6,7 +6,7 @@
   {
    "tag": "Why this matters",
    "h": "One code describes a whole climate",
-   "b": "<p>Wladimir Koppen, a German-Russian climatologist, published his scheme from 1900 and refined it until 1936. Rudolf Geiger later modified it, so it is often written Koppen-Geiger. UPSC uses it to ask where a climate occurs and why, and to test map knowledge across continents.</p>"
+   "b": "<p>Wladimir Koppen, a German-Russian climatologist, published his scheme from 1900 and refined it until 1936. Rudolf Geiger later modified it, so it is often written Koppen-Geiger. UPSC uses it to ask where a climate occurs and why, and to test map knowledge across continents.</p><p>The scheme is still the base of most climate atlases and of the climate maps in NCERT, so recognising a code like Cwa or BSh is a quick scoring skill in the map-based questions.</p>"
   },
   {
    "tag": "Core idea",
@@ -36,7 +36,7 @@
   {
    "tag": "Core idea",
    "h": "Group E: polar",
-   "b": "<p><b>ET</b> is tundra: warmest month between 0 and 10 degrees C. Mosses, lichens, no trees. <b>EF</b> is ice cap: all months below 0 degrees C. Antarctica and interior Greenland.</p>"
+   "b": "<p><b>ET</b> is tundra: warmest month between 0 and 10 degrees C. Mosses, lichens, no trees. <b>EF</b> is ice cap: all months below 0 degrees C. Antarctica and interior Greenland.</p><p>Koppen drew group boundaries on isotherms such as 18 degrees C and 10 degrees C, which follow vegetation limits observed in the field, such as the tree line.</p>"
   },
   {
    "tag": "Debate",
@@ -60,11 +60,11 @@
    "q": "Koppen's scheme is based mainly on?",
    "o": [
     "Pressure and wind",
-    "Soil and relief",
     "Temperature and rainfall",
+    "Soil and relief",
     "Ocean currents"
    ],
-   "a": 2,
+   "a": 1,
    "w": "He used measurable climate data matching vegetation."
   },
   {
@@ -81,12 +81,12 @@
   {
    "q": "Af climate is typical of?",
    "o": [
-    "Amazon basin",
     "Thar desert",
     "Siberia",
-    "Greenland"
+    "Greenland",
+    "Amazon basin"
    ],
-   "a": 0,
+   "a": 3,
    "w": "Af is tropical rainforest, wet all year."
   },
   {
@@ -104,11 +104,11 @@
    "q": "Mediterranean climate has the code?",
    "o": [
     "Cf",
-    "Dw",
     "Cs",
+    "Dw",
     "Aw"
    ],
-   "a": 2,
+   "a": 1,
    "w": "s means a dry summer."
   },
   {
@@ -125,12 +125,12 @@
   {
    "q": "Group D is absent in the southern hemisphere because?",
    "o": [
-    "Little land at those latitudes",
     "It is too warm",
     "It is too dry",
-    "Ocean currents block it"
+    "Ocean currents block it",
+    "Little land at those latitudes"
    ],
-   "a": 0,
+   "a": 3,
    "w": "Continental interiors at 40-60 degrees exist only in the north."
   },
   {
@@ -158,12 +158,12 @@
   {
    "q": "Coldest month below minus 3 degrees C and warmest above 10 degrees C is group?",
    "o": [
-    "D",
     "C",
+    "D",
     "B",
     "E"
    ],
-   "a": 0,
+   "a": 1,
    "w": "D is the cold snow-forest climate."
   }
  ],

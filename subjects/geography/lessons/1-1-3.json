@@ -6,7 +6,7 @@
   {
    "tag": "Why this matters",
    "h": "India has four seasons, not just a monsoon",
-   "b": "<p>IMD recognises four seasons: <b>cold weather</b> (December to February), <b>hot weather</b> (March to May), <b>southwest monsoon</b> (June to September) and <b>retreating monsoon</b> or post-monsoon (October to November). The winter and retreat phases matter for rabi crops, cyclones and cold waves.</p>"
+   "b": "<p>IMD recognises four seasons: <b>cold weather</b> (December to February), <b>hot weather</b> (March to May), <b>southwest monsoon</b> (June to September) and <b>retreating monsoon</b> or post-monsoon (October to November). The winter and retreat phases matter for rabi crops, cyclones and cold waves.</p><p>Learn the four seasons with their months, then attach one weather feature to each: cold wave and western disturbances, loo and Kalbaisakhi, monsoon bursts, and Bay cyclones.</p>"
   },
   {
    "tag": "Core idea",
@@ -60,11 +60,11 @@
    "q": "Western disturbances originate over the?",
    "o": [
     "Bay of Bengal",
-    "Arabian Sea",
     "Mediterranean region",
+    "Arabian Sea",
     "Pacific"
    ],
-   "a": 2,
+   "a": 1,
    "w": "They travel east on the subtropical westerly jet."
   },
   {
@@ -81,12 +81,12 @@
   {
    "q": "The retreating monsoon season is?",
    "o": [
-    "October to November",
     "June to September",
     "March to May",
-    "December to February"
+    "December to February",
+    "October to November"
    ],
-   "a": 0,
+   "a": 3,
    "w": "Also called post-monsoon."
   },
   {
@@ -104,11 +104,11 @@
    "q": "Tamil Nadu gets most of its rain from the?",
    "o": [
     "Southwest monsoon",
-    "Western disturbances",
     "Northeast monsoon",
+    "Western disturbances",
     "Loo"
    ],
-   "a": 2,
+   "a": 1,
    "w": "October to December."
   },
   {
@@ -125,12 +125,12 @@
   {
    "q": "Rain brought by western disturbances in north India is called?",
    "o": [
-    "Mahawat",
     "Mango showers",
     "Kalbaisakhi",
-    "Loo"
+    "Loo",
+    "Mahawat"
    ],
-   "a": 0,
+   "a": 3,
    "w": "It supports rabi crops."
   },
   {
@@ -158,12 +158,12 @@
   {
    "q": "Chillai Kalan is associated with?",
    "o": [
-    "Kashmir winter",
     "Kerala monsoon",
+    "Kashmir winter",
     "Assam floods",
     "Thar summer"
    ],
-   "a": 0,
+   "a": 1,
    "w": "A 40-day cold spell."
   }
  ],

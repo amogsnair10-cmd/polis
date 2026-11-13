@@ -46,12 +46,12 @@
   {
    "tag": "Indian angle",
    "h": "Policy links",
-   "b": "<p>National Population Policy 2000, National Health Mission, and Mission Shakti. The Census is conducted under the Census Act 1948 and the Registrar General of India. Remember the first census (synchronous) in 1881, and the first after Independence in 1951.</p>"
+   "b": "<p>National Population Policy 2000, National Health Mission, and Mission Shakti. The Census is conducted under the Census Act 1948 and the Registrar General of India. Remember the first census (synchronous) in 1881, and the first after Independence in 1951.</p><p>Registrar General of India runs the Census and the Sample Registration System, which gives yearly birth and death data. NFHS gives fertility and health data, which fill the gaps between censuses.</p>"
   },
   {
    "tag": "Exam lens",
    "h": "How to answer",
-   "b": "<p>Likely questions: 'Declining child sex ratio and remedies', 'Demographic dividend: opportunity or challenge?', 'Regional variation in literacy'.</p><ul><li>Quote 2011 figures with the state extremes.</li><li>Always link numbers to cause and policy.</li><li>Note the next Census and the delimitation debate to show currency.</li></ul>",
+   "b": "<p>Likely questions: 'Declining child sex ratio and remedies', 'Demographic dividend: opportunity or challenge?', 'Regional variation in literacy'.</p><ul><li>Quote 2011 figures with the state extremes.</li><li>Always link numbers to cause and policy.</li><li>Note the next Census and the delimitation debate to show currency.</li></ul><p>The Census asks about religion, language, scheduled castes and tribes, disability, migration and housing. The next Census will use digital data collection and, as announced, will count caste.</p>",
    "cls": "exam"
   }
  ],
@@ -60,11 +60,11 @@
    "q": "India's population in the 2011 Census was about?",
    "o": [
     "102 crore",
-    "140 crore",
     "121 crore",
+    "140 crore",
     "90 crore"
    ],
-   "a": 2,
+   "a": 1,
    "w": "1,210.8 million."
   },
   {
@@ -81,12 +81,12 @@
   {
    "q": "The child sex ratio in 2011 was?",
    "o": [
-    "919",
     "943",
     "950",
-    "900"
+    "900",
+    "919"
    ],
-   "a": 0,
+   "a": 3,
    "w": "The lowest recorded."
   },
   {
@@ -104,11 +104,11 @@
    "q": "Literacy in 2011 was about?",
    "o": [
     "64 percent",
-    "84 percent",
     "74 percent",
+    "84 percent",
     "54 percent"
    ],
-   "a": 2,
+   "a": 1,
    "w": "74.04 percent."
   },
   {
@@ -125,12 +125,12 @@
   {
    "q": "The Great Divide year for Indian population is?",
    "o": [
-    "1921",
     "1951",
     "1881",
-    "2001"
+    "2001",
+    "1921"
    ],
-   "a": 0,
+   "a": 3,
    "w": "After it, growth became steady."
   },
   {
@@ -158,12 +158,12 @@
   {
    "q": "The Census in India is conducted every?",
    "o": [
-    "10 years",
     "5 years",
+    "10 years",
     "15 years",
     "20 years"
    ],
-   "a": 0,
+   "a": 1,
    "w": "Decadal."
   }
  ],

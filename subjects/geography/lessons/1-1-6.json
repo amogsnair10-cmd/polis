@@ -6,7 +6,7 @@
   {
    "tag": "Why this matters",
    "h": "Soil decides what grows where",
-   "b": "<p>The Indian Council of Agricultural Research (ICAR) grouped Indian soils into eight major groups. UPSC asks for formation, distribution, characteristics and crops. Master the big four: alluvial, black, red and laterite. Then add arid, forest, saline and peaty.</p>"
+   "b": "<p>The Indian Council of Agricultural Research (ICAR) grouped Indian soils into eight major groups. UPSC asks for formation, distribution, characteristics and crops. Master the big four: alluvial, black, red and laterite. Then add arid, forest, saline and peaty.</p><p>Dokuchaev, the Russian scientist, is credited as the founder of soil science. The Indian soil classification system uses ICAR's NBSS and LUP groups, and the US taxonomy is also used for finer details.</p>"
   },
   {
    "tag": "Core idea",
@@ -59,100 +59,100 @@
   {
    "q": "The most widespread soil group in India is?",
    "o": [
+    "Alluvial",
     "Black",
     "Red",
-    "Alluvial",
     "Laterite"
    ],
-   "a": 2,
+   "a": 0,
    "w": "About 40 percent."
   },
   {
    "q": "Black soil forms from?",
    "o": [
-    "Basalt",
     "Granite",
     "Limestone",
-    "Sandstone"
+    "Sandstone",
+    "Basalt"
    ],
-   "a": 0,
+   "a": 3,
    "w": "The Deccan lava."
   },
   {
    "q": "Black soil is best for?",
    "o": [
-    "Cotton",
     "Tea",
     "Jute",
+    "Cotton",
     "Rice only"
    ],
-   "a": 0,
+   "a": 2,
    "w": "Moisture retentive clay."
   },
   {
    "q": "Red soil's colour comes from?",
    "o": [
     "Humus",
-    "Salt",
     "Iron oxide",
+    "Salt",
     "Lime"
    ],
-   "a": 2,
+   "a": 1,
    "w": "Iron in crystalline rocks."
   },
   {
    "q": "Laterite is formed by intense?",
    "o": [
+    "Leaching",
     "Glaciation",
     "Wind erosion",
-    "Leaching",
     "Deposition"
    ],
-   "a": 2,
+   "a": 0,
    "w": "Silica is washed away."
   },
   {
    "q": "Laterite soils are suitable for?",
    "o": [
-    "Tea, coffee, rubber, cashew",
     "Wheat",
     "Cotton",
-    "Jute"
+    "Jute",
+    "Tea, coffee, rubber, cashew"
    ],
-   "a": 0,
+   "a": 3,
    "w": "Plantation crops."
   },
   {
    "q": "Reclaiming saline soils is done with?",
    "o": [
-    "Gypsum",
     "Urea",
     "Potash",
+    "Gypsum",
     "Lime water"
    ],
-   "a": 0,
+   "a": 2,
    "w": "Gypsum displaces sodium."
   },
   {
    "q": "The Soil Health Card was launched in?",
    "o": [
     "1985",
-    "2005",
     "2015",
+    "2005",
     "2022"
    ],
-   "a": 2,
+   "a": 1,
    "w": "It gives nutrient advice."
   },
   {
    "q": "Which has the highest humus?",
    "o": [
     "Desert soil",
-    "Laterite",
     "Forest soil",
+    "Laterite",
     "Red soil"
    ],
-   "a": 2,
+   "a": 1,
    "w": "Leaf litter."
   },
   {

@@ -6,7 +6,7 @@
   {
    "tag": "Why this matters",
    "h": "Reefs are small in area but huge in life",
-   "b": "<p>Coral reefs cover under 1 percent of the ocean floor but shelter about a quarter of marine species. They protect coasts and feed millions. They are under threat from warming seas. UPSC asks about reef types, Darwin's theory, bleaching and Indian reefs.</p>"
+   "b": "<p>Coral reefs cover under 1 percent of the ocean floor but shelter about a quarter of marine species. They protect coasts and feed millions. They are under threat from warming seas. UPSC asks about reef types, Darwin's theory, bleaching and Indian reefs.</p><p>Reef questions often mix biology, tectonics and climate in one answer, so remember the growth conditions, Darwin's sequence and the Indian reef sites as three linked blocks.</p>"
   },
   {
    "tag": "Core idea",
@@ -26,7 +26,7 @@
   {
    "tag": "Debate",
    "h": "Other theories",
-   "b": "<p><b>Daly's glacial control theory</b>: sea level fell in the ice age, planing islands flat; rising seas then let coral grow upward. <b>Murray's</b> theory: reefs build on submarine platforms. Today most geologists accept a mix: subsidence plus sea-level change.</p>"
+   "b": "<p><b>Daly's glacial control theory</b>: sea level fell in the ice age, planing islands flat; rising seas then let coral grow upward. <b>Murray's</b> theory: reefs build on submarine platforms. Today most geologists accept a mix: subsidence plus sea-level change.</p><p>Sir John Murray (1880) and R A Daly (1910s) stand on the other side from Darwin. Daly's idea explains why many lagoons have similar depths, near 100 m, matching the ice-age sea-level fall.</p>"
   },
   {
    "tag": "Core idea",
@@ -59,100 +59,100 @@
   {
    "q": "Corals build skeletons of?",
    "o": [
+    "Calcium carbonate",
     "Silica",
     "Iron oxide",
-    "Calcium carbonate",
     "Sodium chloride"
    ],
-   "a": 2,
+   "a": 0,
    "w": "Reef corals secrete calcium carbonate."
   },
   {
    "q": "Algae living inside coral polyps are called?",
    "o": [
-    "Zooxanthellae",
     "Plankton",
     "Kelp",
-    "Mangrove"
+    "Mangrove",
+    "Zooxanthellae"
    ],
-   "a": 0,
+   "a": 3,
    "w": "They give colour and food."
   },
   {
    "q": "Darwin's coral reef theory is about?",
    "o": [
-    "Subsidence",
     "Glaciation",
     "Upwelling",
+    "Subsidence",
     "Sea-floor spreading"
    ],
-   "a": 0,
+   "a": 2,
    "w": "A sinking island makes fringing, then barrier, then atoll."
   },
   {
    "q": "Darwin published his coral work in?",
    "o": [
     "1759",
-    "1900",
     "1842",
+    "1900",
     "1962"
    ],
-   "a": 2,
+   "a": 1,
    "w": "The book appeared in 1842."
   },
   {
    "q": "The largest reef system is?",
    "o": [
+    "Great Barrier Reef",
     "Belize Reef",
     "Red Sea Reef",
-    "Great Barrier Reef",
     "Gulf of Mannar"
    ],
-   "a": 2,
+   "a": 0,
    "w": "It is about 2,300 km off Queensland."
   },
   {
    "q": "A ring-shaped coral island is a?",
    "o": [
-    "Atoll",
     "Fjord",
     "Delta",
-    "Spit"
+    "Spit",
+    "Atoll"
    ],
-   "a": 0,
+   "a": 3,
    "w": "Atolls enclose a lagoon."
   },
   {
    "q": "Which is NOT a coral area of India?",
    "o": [
-    "Sundarbans",
     "Gulf of Kachchh",
     "Gulf of Mannar",
+    "Sundarbans",
     "Lakshadweep"
    ],
-   "a": 0,
+   "a": 2,
    "w": "Sundarbans is a mangrove delta."
   },
   {
    "q": "Coral bleaching is mainly caused by?",
    "o": [
     "Cold currents",
-    "High salinity only",
     "Warm water stress",
+    "High salinity only",
     "Oil"
    ],
-   "a": 2,
+   "a": 1,
    "w": "Corals expel algae when heated."
   },
   {
    "q": "Reef-building corals prefer water temperature of?",
    "o": [
     "5 to 10 degrees C",
-    "35 to 45 degrees C",
     "20 to 30 degrees C",
+    "35 to 45 degrees C",
     "0 degrees C"
    ],
-   "a": 2,
+   "a": 1,
    "w": "Warm shallow seas."
   },
   {

@@ -1,0 +1,176 @@
+{
+ "id": "3-1-3",
+ "title": "IPCC Reports, Carbon Budget and Net Zero",
+ "emoji": "📊",
+ "cards": [
+  {
+   "tag": "Why this matters",
+   "h": "The science behind talks",
+   "b": "<p>IPCC findings are cited in almost every climate question. Prelims asks about its structure and key numbers. Mains asks about net zero, carbon budgets and how science shapes policy.</p><p>This lesson sets out the institution, the reports and the terms.</p><p>Expect statement questions mixing the IPCC with the UNFCCC, so remember that the IPCC assesses science and does not negotiate.</p>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "What the IPCC is",
+   "b": "<p>The <b>Intergovernmental Panel on Climate Change</b> was set up in <b>1988</b> by the <b>WMO and UNEP</b>. It does not do new research. It assesses published science for governments. Its reports are approved line by line by member governments, so they are \"policy relevant, not policy prescriptive\". It shared the <b>2007 Nobel Peace Prize</b> with Al Gore.</p><p>There are three working groups: <b>WG I</b> (physical science), <b>WG II</b> (impacts, adaptation, vulnerability) and <b>WG III</b> (mitigation), plus a task force on national inventories. The Secretariat is in Geneva.</p>"
+  },
+  {
+   "tag": "Reports",
+   "h": "Assessment cycles",
+   "b": "<p>The <b>Assessment Reports (AR)</b> come every 6 to 7 years. <b>AR6</b> was released in 2021-23. The <b>AR6 Synthesis Report</b> (March 2023) said human activity has caused about <b>1.1 °C</b> of warming above 1850-1900 levels. Special reports include the <b>Special Report on 1.5 °C (2018)</b>, which said limiting warming to 1.5 °C needs cuts of about <b>45 percent in CO2 by 2030</b> from 2010 levels and <b>net zero around 2050</b>.</p><p>The <b>AR7</b> cycle began in 2023. The <b>UNEP Emissions Gap Report</b> is a different yearly report that compares promises with the needed path.</p>"
+  },
+  {
+   "tag": "Carbon budget",
+   "h": "How much more can we emit",
+   "b": "<p>A <b>carbon budget</b> is the total CO2 the world can still release for a given chance of staying below a temperature limit. AR6 put the remaining budget for <b>1.5 °C</b> at around <b>500 gigatonnes of CO2</b> from early 2020 for a 50 percent chance. Current emissions are about 40 gigatonnes a year, so the budget is used up within roughly a decade at the current pace.</p><p><b>Global warming potential (GWP)</b> compares gases to CO2 over 100 years: methane about 28 times (AR5/AR6 range) and nitrous oxide about 265 times.</p><svg class='d' viewBox='0 0 320 160' role='img' aria-label='Net zero logic'><rect x='10' y='8' width='300' height='30' rx='4' fill='#dceaec' stroke='#2f6f7a'/><text x='160' y='27' font-size='11' text-anchor='middle' fill='#1d2433'>Cut emissions deeply first</text><rect x='10' y='46' width='300' height='30' rx='4' fill='#dceaec' stroke='#2f6f7a'/><text x='160' y='65' font-size='11' text-anchor='middle' fill='#1d2433'>Balance the rest with removals</text><rect x='10' y='84' width='300' height='30' rx='4' fill='#dceaec' stroke='#2f6f7a'/><text x='160' y='103' font-size='11' text-anchor='middle' fill='#1d2433'>Sinks: forests, soils, oceans</text><rect x='10' y='122' width='300' height='30' rx='4' fill='#dceaec' stroke='#2f6f7a'/><text x='160' y='141' font-size='11' text-anchor='middle' fill='#1d2433'>Target: 1.5 C, India 2070</text></svg>"
+  },
+  {
+   "tag": "Net zero",
+   "h": "Terms to separate",
+   "b": "<ul><li><b>Net zero:</b> emissions into the air are balanced by removals from the air.</li><li><b>Carbon neutral:</b> a similar idea, often used for products or firms.</li><li><b>Carbon sink:</b> forests, soils, oceans, which absorb CO2.</li><li><b>Carbon removal:</b> direct air capture, afforestation, BECCS.</li><li><b>Overshoot:</b> temporarily exceeding 1.5 °C, then removing carbon.</li></ul><p><b>India's target</b> is net zero by <b>2070</b>, announced at COP26 (Glasgow, 2021). China aims for 2060 and the EU for 2050. About 140 countries have net zero pledges.</p>"
+  },
+  {
+   "tag": "Scenarios",
+   "h": "Pathways and shared stories",
+   "b": "<p>AR6 uses <b>Shared Socioeconomic Pathways (SSPs)</b>, which tie social choices to emissions, replacing the earlier RCPs (Representative Concentration Pathways). A low pathway needs fast cuts, while a high one leads to above 3 to 4 °C. <b>Climate tipping points</b> and compound extremes get more attention in AR6. The <b>Paris Agreement</b> goal is well below 2 °C, aiming at 1.5 °C.</p>"
+  },
+  {
+   "tag": "Debate",
+   "h": "Is net zero credible?",
+   "b": "<p>Critics say net zero pledges depend on future removal technologies that are not proven at scale and may serve as an excuse to delay action. Developing countries say rich nations should reach net zero earlier, because of their historical emissions. Another point is that offsets can hide real emissions.</p><p>A fair view: net zero by mid-century is needed, but only after deep cuts that come first.</p>"
+  },
+  {
+   "tag": "Indian angle",
+   "h": "India in the IPCC and net zero",
+   "b": "<p>India is among the largest emitters in total but is low in per-capita and historical emissions (about 4 percent of cumulative CO2). Indian scientists have served as lead authors, and R.K. Pachauri chaired the IPCC (2002-15) when it won the Nobel. India stresses <b>climate equity</b> and the idea of a carbon budget shared fairly. Its <b>Long-Term Low Emission Development Strategy (LT-LEDS)</b> was submitted at COP27 (2022).</p>"
+  },
+  {
+   "tag": "Revision",
+   "h": "Numbers table",
+   "b": "<ul><li>IPCC: 1988, WMO and UNEP.</li><li>Warming so far: about 1.1 °C (AR6).</li><li>1.5 °C budget: about 500 Gt CO2 from 2020.</li><li>India net zero: 2070.</li><li>Special Report 1.5 °C: 2018.</li></ul><p>Hold also: AR6 in 2021-23, Synthesis Report in March 2023, and a 45 percent cut in CO2 by 2030 for 1.5 degrees.</p>"
+  },
+  {
+   "tag": "Exam lens",
+   "h": "How to answer",
+   "b": "<p><b>Prelims-style:</b> \"IPCC was established by\" (WMO and UNEP). \"India's net zero target year is\" (2070).</p><p><b>Mains-style:</b> \"What is the carbon budget approach? Examine India's net zero commitment.\" Structure: define budget; global figures; equity and history; India's 2070 goal and Panchamrit; mitigation steps; critique and way forward.</p>",
+   "cls": "exam"
+  }
+ ],
+ "quiz": [
+  {
+   "q": "The IPCC was set up in:",
+   "o": [
+    "1992",
+    "2007",
+    "1988",
+    "2015"
+   ],
+   "a": 2,
+   "w": "By WMO and UNEP."
+  },
+  {
+   "q": "Which working group deals with mitigation?",
+   "o": [
+    "WG I",
+    "WG III",
+    "WG II",
+    "Task Force"
+   ],
+   "a": 1,
+   "w": "WG I is physical science."
+  },
+  {
+   "q": "The IPCC shared the Nobel Peace Prize in:",
+   "o": [
+    "2007",
+    "1997",
+    "2015",
+    "2021"
+   ],
+   "a": 0,
+   "w": "With Al Gore."
+  },
+  {
+   "q": "Warming above 1850-1900 levels per AR6 is about:",
+   "o": [
+    "0.3 °C",
+    "2.5 °C",
+    "5 °C",
+    "1.1 °C"
+   ],
+   "a": 3,
+   "w": "As of the 2011-20 decade."
+  },
+  {
+   "q": "India's net zero target year is:",
+   "o": [
+    "2050",
+    "2030",
+    "2070",
+    "2100"
+   ],
+   "a": 2,
+   "w": "Announced at COP26."
+  },
+  {
+   "q": "The 1.5 °C Special Report was published in:",
+   "o": [
+    "2013",
+    "2018",
+    "2023",
+    "2007"
+   ],
+   "a": 1,
+   "w": "It called for net zero around 2050."
+  },
+  {
+   "q": "AR6 Synthesis Report was released in:",
+   "o": [
+    "March 2023",
+    "2014",
+    "2007",
+    "2019"
+   ],
+   "a": 0,
+   "w": "The sixth cycle."
+  },
+  {
+   "q": "SSPs stand for:",
+   "o": [
+    "Solar Storage Plans",
+    "Sea Surface Projections",
+    "Sustainable Soil Programmes",
+    "Shared Socioeconomic Pathways"
+   ],
+   "a": 3,
+   "w": "They replaced RCPs."
+  },
+  {
+   "q": "India's LT-LEDS was submitted at:",
+   "o": [
+    "COP21",
+    "COP15",
+    "COP27",
+    "COP30"
+   ],
+   "a": 2,
+   "w": "In 2022."
+  },
+  {
+   "q": "Who chaired the IPCC from 2002 to 2015?",
+   "o": [
+    "Nitin Desai",
+    "R.K. Pachauri",
+    "M.S. Swaminathan",
+    "Jairam Ramesh"
+   ],
+   "a": 1,
+   "w": "Indian scientist."
+  }
+ ],
+ "sources": [
+  "IPCC and UNFCCC documents",
+  "MoEFCC, MNRE and PIB",
+  "Shankar IAS Environment"
+ ],
+ "verified": "2026-11-13"
+}

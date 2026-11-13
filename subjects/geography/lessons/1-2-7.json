@@ -6,7 +6,7 @@
   {
    "tag": "Why this matters",
    "h": "Classic location theory with Indian cases",
-   "b": "<p>These three industries illustrate the factors of location: raw material, power, market, transport and policy. They are staples for questions asking why a plant is where it is. Link to mineral lesson 1-2-5 for the raw materials.</p>"
+   "b": "<p>These three industries illustrate the factors of location: raw material, power, market, transport and policy. They are staples for questions asking why a plant is where it is. Link to mineral lesson 1-2-5 for the raw materials.</p><p>Notice how each industry has a different pull: steel pulls to ore and coal, cotton to markets and ports, and sugar to the field. Use these three patterns for any location question.</p>"
   },
   {
    "tag": "Core idea",
@@ -16,7 +16,7 @@
   {
    "tag": "Core idea",
    "h": "Major integrated steel plants",
-   "b": "<ul><li><b>Jamshedpur</b> (Tata, private, 1907).</li><li><b>Burnpur</b> (IISCO, 1918) and <b>Kulti</b> (West Bengal), now SAIL.</li><li><b>Bhadravati</b> (VISL, Karnataka, 1923).</li><li><b>Bhilai</b> (Chhattisgarh, with the Soviet Union), <b>Rourkela</b> (Odisha, Germany), <b>Durgapur</b> (West Bengal, UK) in the Second Plan.</li><li><b>Bokaro</b> (Jharkhand, USSR, 1960s).</li><li><b>Salem</b>, <b>Vizag</b> (RINL, coastal, 1992).</li></ul>"
+   "b": "<ul><li><b>Jamshedpur</b> (Tata, private, 1907).</li><li><b>Burnpur</b> (IISCO, 1918) and <b>Kulti</b> (West Bengal), now SAIL.</li><li><b>Bhadravati</b> (VISL, Karnataka, 1923).</li><li><b>Bhilai</b> (Chhattisgarh, with the Soviet Union), <b>Rourkela</b> (Odisha, Germany), <b>Durgapur</b> (West Bengal, UK) in the Second Plan.</li><li><b>Bokaro</b> (Jharkhand, USSR, 1960s).</li><li><b>Salem</b>, <b>Vizag</b> (RINL, coastal, 1992).</li></ul><p>Steel Authority of India (SAIL, 1973) runs Bhilai, Durgapur, Rourkela, Bokaro and IISCO Burnpur. The Visvesvaraya plant at Bhadravati is a SAIL unit. Jindal, Essar and JSW are major private players.</p>"
   },
   {
    "tag": "Debate",
@@ -46,7 +46,7 @@
   {
    "tag": "Indian angle",
    "h": "Why location matters for policy",
-   "b": "<p>Steel belts brought Chotanagpur industrial growth but also displacement, which is why 'industrial region' and 'tribal rights' meet. Textile clusters like Tiruppur and Surat give jobs to millions, especially women. Sugar cooperatives in western Maharashtra built political and rural institutions.</p>"
+   "b": "<p>Steel belts brought Chotanagpur industrial growth but also displacement, which is why 'industrial region' and 'tribal rights' meet. Textile clusters like Tiruppur and Surat give jobs to millions, especially women. Sugar cooperatives in western Maharashtra built political and rural institutions.</p><p>The Tata plant moved from small beginnings to 'Tatanagar', which formed a planned town. Jamshedpur still shows the link between a plant and urban planning.</p>"
   },
   {
    "tag": "Exam lens",
@@ -70,12 +70,12 @@
   {
    "q": "The Rourkela plant was built with help from?",
    "o": [
-    "Germany",
     "USSR",
+    "Germany",
     "UK",
     "USA"
    ],
-   "a": 0,
+   "a": 1,
    "w": "Second Plan."
   },
   {
@@ -94,10 +94,10 @@
    "o": [
     "Mumbai",
     "Ahmedabad",
-    "Kolkata (Fort Gloster)",
-    "Coimbatore"
+    "Coimbatore",
+    "Kolkata (Fort Gloster)"
    ],
-   "a": 2,
+   "a": 3,
    "w": "1818."
   },
   {
@@ -114,12 +114,12 @@
   {
    "q": "The sugar industry stays near fields because cane?",
    "o": [
-    "Loses sucrose after cutting",
     "Is a mineral",
+    "Loses sucrose after cutting",
     "Needs ports",
     "Is a perishable fruit only"
    ],
-   "a": 0,
+   "a": 1,
    "w": "Quick crushing is needed."
   },
   {
@@ -138,10 +138,10 @@
    "o": [
     "TATA",
     "SAIL",
-    "RINL",
-    "IISCO"
+    "IISCO",
+    "RINL"
    ],
-   "a": 2,
+   "a": 3,
    "w": "Rashtriya Ispat Nigam."
   },
   {
@@ -149,21 +149,21 @@
    "o": [
     "Deserts",
     "Mountains",
-    "Coast",
-    "Poles"
+    "Poles",
+    "Coast"
    ],
-   "a": 2,
+   "a": 3,
    "w": "For imported coal."
   },
   {
    "q": "FRP for sugarcane is set by?",
    "o": [
-    "The Centre",
     "State alone",
     "Farmers",
+    "The Centre",
     "Mills"
    ],
-   "a": 0,
+   "a": 2,
    "w": "Fair and Remunerative Price."
   }
  ],

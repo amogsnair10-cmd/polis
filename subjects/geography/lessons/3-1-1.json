@@ -6,7 +6,7 @@
   {
    "tag": "Why this matters",
    "h": "Map questions come from the news",
-   "b": "<p>UPSC prelims often asks you to locate places from current affairs: a strait in a conflict, a gulf, a canal or a lake. A short mental atlas of choke points, seas and capitals helps. This lesson builds that atlas in a few clean groups.</p>"
+   "b": "<p>UPSC prelims often asks you to locate places from current affairs: a strait in a conflict, a gulf, a canal or a lake. A short mental atlas of choke points, seas and capitals helps. This lesson builds that atlas in a few clean groups.</p><p>Learn each place as a pair, such as strait and the two seas it joins, canal and the two seas it links, and country with its capital.</p>"
   },
   {
    "tag": "Core idea",
@@ -31,12 +31,12 @@
   {
    "tag": "Core idea",
    "h": "Cities, capitals and borders",
-   "b": "<p>Know a few hot capitals: Kyiv, Moscow, Tehran, Tel Aviv-Jerusalem, Gaza, Damascus, Kabul, Naypyidaw, Dhaka, Colombo, Port Louis, Doha. Know borders: the Durand Line (Afghanistan-Pakistan), the McMahon Line (India-China), the Radcliffe Line, the 38th parallel (Korea), and Line of Control (India-Pakistan).</p>"
+   "b": "<p>Know a few hot capitals: Kyiv, Moscow, Tehran, Tel Aviv-Jerusalem, Gaza, Damascus, Kabul, Naypyidaw, Dhaka, Colombo, Port Louis, Doha. Know borders: the Durand Line (Afghanistan-Pakistan), the McMahon Line (India-China), the Radcliffe Line, the 38th parallel (Korea), and Line of Control (India-Pakistan).</p><p>Boundary lines are easily confused: the Durand Line (1893) is on the Afghan-Pakistan border, the McMahon Line (1914) on India-China, and the Radcliffe Line (1947) on India-Pakistan.</p>"
   },
   {
    "tag": "Key idea",
    "h": "Chokepoints and energy",
-   "b": "<p>Shipping bottlenecks: Hormuz, Malacca, Bab-el-Mandeb, Suez, Bosporus and Panama. In 2023-24, Houthi attacks on Red Sea shipping forced ships to sail around the Cape of Good Hope, adding 10-14 days and raising costs. India's trade, oil and fertiliser imports pass through these points.</p>"
+   "b": "<p>Shipping bottlenecks: Hormuz, Malacca, Bab-el-Mandeb, Suez, Bosporus and Panama. In 2023-24, Houthi attacks on Red Sea shipping forced ships to sail around the Cape of Good Hope, adding 10-14 days and raising costs. India's trade, oil and fertiliser imports pass through these points.</p><p>The Houthi attacks began after the Gaza war in late 2023. Container lines moved to the Cape route, adding about 3,500 nautical miles for Asia-Europe voyages and delaying cargo to India's west coast.</p>"
   },
   {
    "tag": "Debate",
@@ -60,11 +60,11 @@
    "q": "The Strait of Hormuz connects the?",
    "o": [
     "Red Sea and Gulf of Aden",
-    "Black Sea and Mediterranean",
     "Persian Gulf and Gulf of Oman",
+    "Black Sea and Mediterranean",
     "Atlantic and Pacific"
    ],
-   "a": 2,
+   "a": 1,
    "w": "Between Iran and Oman."
   },
   {
@@ -81,12 +81,12 @@
   {
    "q": "The Suez Canal opened in?",
    "o": [
-    "1869",
     "1914",
     "1950",
-    "1990"
+    "1990",
+    "1869"
    ],
-   "a": 0,
+   "a": 3,
    "w": "Egypt."
   },
   {
@@ -104,11 +104,11 @@
    "q": "The Bosporus is in?",
    "o": [
     "Egypt",
-    "Greece",
     "Turkey",
+    "Greece",
     "Iran"
    ],
-   "a": 2,
+   "a": 1,
    "w": "Istanbul."
   },
   {
@@ -125,12 +125,12 @@
   {
    "q": "The Durand Line separates?",
    "o": [
-    "Afghanistan and Pakistan",
     "India and China",
     "Iran and Iraq",
-    "Korea"
+    "Korea",
+    "Afghanistan and Pakistan"
    ],
-   "a": 0,
+   "a": 3,
    "w": "1893."
   },
   {
@@ -158,12 +158,12 @@
   {
    "q": "UNCLOS defines the EEZ as?",
    "o": [
-    "200 nautical miles",
     "12 nautical miles",
+    "200 nautical miles",
     "24 nautical miles",
     "350 nautical miles only"
    ],
-   "a": 0,
+   "a": 1,
    "w": "Territorial sea is 12 nm."
   }
  ],

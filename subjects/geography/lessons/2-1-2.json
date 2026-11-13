@@ -6,7 +6,7 @@
   {
    "tag": "Why this matters",
    "h": "The prelims map of the world",
-   "b": "<p>Prelims and mains ask for the highest peaks, longest rivers, biggest lakes and where they are. These are also the ingredients of regional geography answers. Learn them as a short list for each continent, with one fact each.</p>"
+   "b": "<p>Prelims and mains ask for the highest peaks, longest rivers, biggest lakes and where they are. These are also the ingredients of regional geography answers. Learn them as a short list for each continent, with one fact each.</p><p>Treat the list as a ladder: one peak, one river, one lake for every continent. Then add a fact for each, such as a country, a sea or a depth.</p>"
   },
   {
    "tag": "Core idea",
@@ -16,7 +16,7 @@
   {
    "tag": "Core idea",
    "h": "Highest peaks by continent",
-   "b": "<ul><li>Asia: Everest, 8,849 m.</li><li>South America: Aconcagua, Argentina.</li><li>North America: Denali (Mt McKinley), Alaska.</li><li>Africa: Kilimanjaro, Tanzania, 5,895 m.</li><li>Europe: Mt Elbrus (Russia), 5,642 m.</li><li>Antarctica: Vinson Massif.</li><li>Oceania: Puncak Jaya (Carstensz Pyramid), or Kosciuszko for the mainland.</li></ul>"
+   "b": "<ul><li>Asia: Everest, 8,849 m.</li><li>South America: Aconcagua, Argentina.</li><li>North America: Denali (Mt McKinley), Alaska.</li><li>Africa: Kilimanjaro, Tanzania, 5,895 m.</li><li>Europe: Mt Elbrus (Russia), 5,642 m.</li><li>Antarctica: Vinson Massif.</li><li>Oceania: Puncak Jaya (Carstensz Pyramid), or Kosciuszko for the mainland.</li></ul><p>Remember: Everest is the highest above sea level, Mauna Kea the tallest from base, and Chimborazo is the farthest from Earth's centre. Questions like to test these small distinctions.</p>"
   },
   {
    "tag": "Core idea",
@@ -60,11 +60,11 @@
    "q": "The longest continental mountain range is the?",
    "o": [
     "Rockies",
-    "Alps",
     "Andes",
+    "Alps",
     "Himalaya"
    ],
-   "a": 2,
+   "a": 1,
    "w": "About 7,000 km."
   },
   {
@@ -81,12 +81,12 @@
   {
    "q": "The highest peak in South America is?",
    "o": [
-    "Aconcagua",
     "Chimborazo",
     "Huascaran",
-    "Illimani"
+    "Illimani",
+    "Aconcagua"
    ],
-   "a": 0,
+   "a": 3,
    "w": "Argentina."
   },
   {
@@ -104,11 +104,11 @@
    "q": "The largest freshwater lake by area is?",
    "o": [
     "Victoria",
-    "Baikal",
     "Superior",
+    "Baikal",
     "Huron"
    ],
-   "a": 2,
+   "a": 1,
    "w": "North America."
   },
   {
@@ -125,12 +125,12 @@
   {
    "q": "The Volga flows into the?",
    "o": [
-    "Caspian Sea",
     "Black Sea",
     "Baltic Sea",
-    "Arctic Ocean"
+    "Arctic Ocean",
+    "Caspian Sea"
    ],
-   "a": 0,
+   "a": 3,
    "w": "Europe's longest river."
   },
   {
@@ -158,12 +158,12 @@
   {
    "q": "Europe's highest peak is?",
    "o": [
-    "Mt Elbrus",
     "Mont Blanc",
+    "Mt Elbrus",
     "Matterhorn",
     "Mt Olympus"
    ],
-   "a": 0,
+   "a": 1,
    "w": "In the Caucasus, Russia."
   }
  ],

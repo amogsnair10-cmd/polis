@@ -6,7 +6,7 @@
   {
    "tag": "Why this matters",
    "h": "The edges of India",
-   "b": "<p>The Thar, the two coastal plains and the island groups complete the physiography. These regions are often tested through coast names, deltas and islands in the news. Learn the names in sequence along the coast.</p>"
+   "b": "<p>The Thar, the two coastal plains and the island groups complete the physiography. These regions are often tested through coast names, deltas and islands in the news. Learn the names in sequence along the coast.</p><p>Prelims often asks for the order of features along a coast, so repeat the sequence from the Rann of Kachchh round to the Sundarbans, then the islands, until it is automatic.</p>"
   },
   {
    "tag": "Core idea",
@@ -31,7 +31,7 @@
   {
    "tag": "Core idea",
    "h": "Islands of the Arabian Sea",
-   "b": "<p><b>Lakshadweep</b>: 36 islands, coral atolls, about 32 sq km, capital Kavaratti. The <b>Eight Degree Channel</b> separates Minicoy from the Maldives, and the <b>Nine Degree Channel</b> separates Minicoy from the rest of Lakshadweep. Others in the west: Diu, Elephanta, Salsette (Mumbai).</p>"
+   "b": "<p><b>Lakshadweep</b>: 36 islands, coral atolls, about 32 sq km, capital Kavaratti. The <b>Eight Degree Channel</b> separates Minicoy from the Maldives, and the <b>Nine Degree Channel</b> separates Minicoy from the rest of Lakshadweep. Others in the west: Diu, Elephanta, Salsette (Mumbai).</p><p>The Lakshadweep islands total about 32 sq km, the smallest union territory by area. Kavaratti is the capital. Minicoy is the southernmost island, separated by the Nine Degree Channel, and the group lies 200-440 km off Kerala.</p>"
   },
   {
    "tag": "Core idea",
@@ -41,7 +41,7 @@
   {
    "tag": "Debate",
    "h": "Great Nicobar and sensitive islands",
-   "b": "<p>The Great Nicobar Island project (about Rs 72,000 crore, including a transhipment port, airport and township) clashes with a biosphere reserve and tribal land of the Shompen. Supporters cite strategy near the Malacca Strait. Critics cite forest loss and the earthquake and tsunami risk.</p>"
+   "b": "<p>The Great Nicobar Island project (about Rs 72,000 crore, including a transhipment port, airport and township) clashes with a biosphere reserve and tribal land of the Shompen. Supporters cite strategy near the Malacca Strait. Critics cite forest loss and the earthquake and tsunami risk.</p><p>The Great Nicobar plan sits close to the Malacca Strait, a route for about a third of global sea trade. The Shompen and Nicobarese live in a tribal reserve in the area, which makes consent a legal question.</p>"
   },
   {
    "tag": "Indian angle",
@@ -70,12 +70,12 @@
   {
    "q": "Backwaters of Kerala are called?",
    "o": [
-    "Kayals",
     "Playas",
+    "Kayals",
     "Duars",
     "Chos"
    ],
-   "a": 0,
+   "a": 1,
    "w": "Vembanad is the largest."
   },
   {
@@ -94,10 +94,10 @@
    "o": [
     "Lakshadweep from Maldives",
     "India from Sri Lanka",
-    "Andamans from Nicobars",
-    "Minicoy from Kerala"
+    "Minicoy from Kerala",
+    "Andamans from Nicobars"
    ],
-   "a": 2,
+   "a": 3,
    "w": "It lies at about 10 degrees N."
   },
   {
@@ -114,12 +114,12 @@
   {
    "q": "The southernmost point of India is?",
    "o": [
-    "Indira Point",
     "Kanyakumari",
+    "Indira Point",
     "Pamban",
     "Rameswaram"
    ],
-   "a": 0,
+   "a": 1,
    "w": "It is on Great Nicobar."
   },
   {
@@ -138,10 +138,10 @@
    "o": [
     "Fjords",
     "Rias",
-    "Smooth shoreline",
-    "Many deep harbours"
+    "Many deep harbours",
+    "Smooth shoreline"
    ],
-   "a": 2,
+   "a": 3,
    "w": "Sea level falls or land rises."
   },
   {
@@ -149,21 +149,21 @@
    "o": [
     "Granite",
     "Basalt",
-    "Coral",
-    "Sandstone"
+    "Sandstone",
+    "Coral"
    ],
-   "a": 2,
+   "a": 3,
    "w": "They are coral atolls."
   },
   {
    "q": "The Northern Circars lie in?",
    "o": [
-    "Andhra Pradesh",
     "Kerala",
     "Gujarat",
+    "Andhra Pradesh",
     "Goa"
    ],
-   "a": 0,
+   "a": 2,
    "w": "Between the Mahanadi and Krishna."
   }
  ],

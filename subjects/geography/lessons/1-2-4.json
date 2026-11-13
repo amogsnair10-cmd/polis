@@ -6,7 +6,7 @@
   {
    "tag": "Why this matters",
    "h": "From ship-to-mouth to food surplus",
-   "b": "<p>India imported wheat under PL-480 in the early 1960s. The Green Revolution turned it into a grain-surplus country. UPSC asks about its causes, effects, regional imbalance and the next steps, plus crop seasons and zones.</p>"
+   "b": "<p>India imported wheat under PL-480 in the early 1960s. The Green Revolution turned it into a grain-surplus country. UPSC asks about its causes, effects, regional imbalance and the next steps, plus crop seasons and zones.</p><p>Always begin with a definition and a date, then name inputs, gains, costs and the way forward. That four-step shape fits almost every question on agriculture policy.</p>"
   },
   {
    "tag": "Core idea",
@@ -31,7 +31,7 @@
   {
    "tag": "Core idea",
    "h": "Other revolutions",
-   "b": "<p><b>White Revolution</b> (Operation Flood, 1970, Verghese Kurien, NDDB). <b>Blue Revolution</b> (fisheries). <b>Yellow Revolution</b> (oilseeds). <b>Pink</b> (prawn, onion), <b>Silver</b> (eggs), <b>Golden</b> (horticulture). India is the world's largest milk producer.</p>"
+   "b": "<p><b>White Revolution</b> (Operation Flood, 1970, Verghese Kurien, NDDB). <b>Blue Revolution</b> (fisheries). <b>Yellow Revolution</b> (oilseeds). <b>Pink</b> (prawn, onion), <b>Silver</b> (eggs), <b>Golden</b> (horticulture). India is the world's largest milk producer.</p><p>Operation Flood reached 'milk grids' linking producers to cities and made India the world's top milk producer from about 1998. The Amul cooperative model in Anand, Gujarat, was its base.</p>"
   },
   {
    "tag": "Core idea",
@@ -51,7 +51,7 @@
   {
    "tag": "Exam lens",
    "h": "How to answer",
-   "b": "<p>Likely questions: 'Green Revolution: achievements and limitations', 'Why has it not reached eastern India?', 'Agro-climatic regional planning'.</p><ul><li>Balanced answer: gains, costs, the way forward.</li><li>Mention HYV, irrigation, MSP, FCI.</li><li>For the way forward: crop diversification, micro-irrigation, millets, eastern India focus.</li></ul>",
+   "b": "<p>Likely questions: 'Green Revolution: achievements and limitations', 'Why has it not reached eastern India?', 'Agro-climatic regional planning'.</p><ul><li>Balanced answer: gains, costs, the way forward.</li><li>Mention HYV, irrigation, MSP, FCI.</li><li>For the way forward: crop diversification, micro-irrigation, millets, eastern India focus.</li></ul><p>Since 2019 PM-KISAN pays Rs 6,000 a year in three instalments to farm families. The government also set a target to double farmers' income by 2022, a goal that critics say was not met.</p>",
    "cls": "exam"
   }
  ],
@@ -61,43 +61,43 @@
    "o": [
     "1947",
     "1980",
-    "1966-67",
-    "1991"
+    "1991",
+    "1966-67"
    ],
-   "a": 2,
+   "a": 3,
    "w": "HYV wheat arrived."
   },
   {
    "q": "Who developed dwarf wheat?",
    "o": [
-    "Norman Borlaug",
     "Verghese Kurien",
     "M S Swaminathan",
+    "Norman Borlaug",
     "Y K Alagh"
    ],
-   "a": 0,
+   "a": 2,
    "w": "Swaminathan led adoption in India."
   },
   {
    "q": "Operation Flood is linked to?",
    "o": [
-    "Milk",
     "Wheat",
+    "Milk",
     "Fish",
     "Pulses"
    ],
-   "a": 0,
+   "a": 1,
    "w": "White Revolution."
   },
   {
    "q": "Kharif crops are sown with the?",
    "o": [
+    "Monsoon onset",
     "Winter rain",
     "Spring",
-    "Monsoon onset",
     "Snowfall"
    ],
-   "a": 2,
+   "a": 0,
    "w": "June-July."
   },
   {
@@ -105,65 +105,65 @@
    "o": [
     "Kharif crop",
     "Zaid crop",
-    "Rabi crop",
-    "Plantation crop"
+    "Plantation crop",
+    "Rabi crop"
    ],
-   "a": 2,
+   "a": 3,
    "w": "Sown in winter."
   },
   {
    "q": "The number of agro-climatic zones (Planning Commission) is?",
    "o": [
-    "15",
     "5",
     "8",
+    "15",
     "25"
    ],
-   "a": 0,
+   "a": 2,
    "w": "Declared 1989."
   },
   {
    "q": "Verghese Kurien led?",
    "o": [
-    "NDDB and Amul",
     "FCI",
+    "NDDB and Amul",
     "ICAR",
     "NABARD"
    ],
-   "a": 0,
+   "a": 1,
    "w": "Father of the White Revolution."
   },
   {
    "q": "Green Revolution mostly benefited?",
    "o": [
+    "Punjab, Haryana, western UP",
     "Odisha",
     "Assam",
-    "Punjab, Haryana, western UP",
     "Kerala"
    ],
-   "a": 2,
+   "a": 0,
    "w": "With irrigation."
   },
   {
    "q": "A harmful effect of the Green Revolution is?",
    "o": [
+    "Groundwater depletion",
     "Less rice",
     "More forests",
-    "Groundwater depletion",
     "Cooler summers"
    ],
-   "a": 2,
+   "a": 0,
    "w": "Heavy irrigation."
   },
   {
    "q": "PM Fasal Bima Yojana started in?",
    "o": [
-    "2016",
     "1985",
     "2006",
-    "2023"
+    "2023",
+    "2016"
    ],
-   "a": 0,
+   "a": 3,
    "w": "Crop insurance."
   }
  ],

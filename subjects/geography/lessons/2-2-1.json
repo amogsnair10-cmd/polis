@@ -6,7 +6,7 @@
   {
    "tag": "Why this matters",
    "h": "Syllabus theme: changes in critical geographical features",
-   "b": "<p>The GS1 syllabus asks about 'changes in critical geographical features (including water bodies and ice-caps) and in flora and fauna, and the effects of such changes'. This lesson gives the ice, the sea and the Arctic in one place with data and examples.</p>"
+   "b": "<p>The GS1 syllabus asks about 'changes in critical geographical features (including water bodies and ice-caps) and in flora and fauna, and the effects of such changes'. This lesson gives the ice, the sea and the Arctic in one place with data and examples.</p><p>Ice, sea and permafrost are three different systems, but they feed each other. Hold the chain of cause in your mind: warming, melt, sea-level rise, changes in circulation, and a new risk map.</p>"
   },
   {
    "tag": "Core idea",
@@ -60,11 +60,11 @@
    "q": "About how much of glacial ice is in Antarctica and Greenland?",
    "o": [
     "50 percent",
-    "10 percent",
     "99 percent",
+    "10 percent",
     "75 percent"
    ],
-   "a": 2,
+   "a": 1,
    "w": "Almost all of it."
   },
   {
@@ -81,12 +81,12 @@
   {
    "q": "Melting sea ice mostly affects?",
    "o": [
-    "Albedo, not sea level directly",
     "Sea level strongly",
     "Tides only",
-    "Volcanoes"
+    "Volcanoes",
+    "Albedo, not sea level directly"
    ],
-   "a": 0,
+   "a": 3,
    "w": "Floating ice already displaces water."
   },
   {
@@ -104,11 +104,11 @@
    "q": "The Himadri station is in?",
    "o": [
     "Antarctica",
-    "Greenland",
     "Svalbard (Arctic)",
+    "Greenland",
     "Iceland"
    ],
-   "a": 2,
+   "a": 1,
    "w": "At Ny-Alesund."
   },
   {
@@ -125,12 +125,12 @@
   {
    "q": "The Arctic Council was formed in?",
    "o": [
-    "1996",
     "1959",
     "1982",
-    "2010"
+    "2010",
+    "1996"
    ],
-   "a": 0,
+   "a": 3,
    "w": "Eight members."
   },
   {
@@ -158,12 +158,12 @@
   {
    "q": "AMOC stands for?",
    "o": [
-    "Atlantic Meridional Overturning Circulation",
     "Arctic Marine Ocean Current",
+    "Atlantic Meridional Overturning Circulation",
     "Atlantic Monsoon Ocean Cycle",
     "Antarctic Mean Ocean Current"
    ],
-   "a": 0,
+   "a": 1,
    "w": "The ocean conveyor belt."
   }
  ],
