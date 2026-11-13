@@ -299,3 +299,9 @@ html,body{overscroll-behavior-y:none}
 #welcome h2{font-family:var(--font-display);font-size:24px;margin:6px 0 4px}
 #welcome p{color:var(--vein);font-size:15px;margin-bottom:16px}
 #welcome.closing{animation:fadeOut .45s var(--ease) both}#welcome.closing .w-in{animation:down .45s var(--ease) both}
+
+/* top bar: one flex row so long subject names never collide with Me */
+.topbar{position:absolute;top:16px;left:var(--gut);right:var(--gut);z-index:3;display:flex;gap:8px;align-items:center}
+.topbar .pick{position:static;transform:none;white-space:nowrap}
+.topbar .mine{margin-left:auto}.topbar .mine:active{transform:scale(.95)}
+.topbar #pick{min-width:0;overflow:hidden;text-overflow:ellipsis}
