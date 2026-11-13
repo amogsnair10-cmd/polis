@@ -4,11 +4,11 @@ One cover photo per lesson (from the title) plus up to 2 card photos (from card 
 Resumable: keys already in photos.json are skipped. Run: python3 scripts/photos.py [subject ...]"""
 import io,json,os,re,subprocess,sys,time,urllib.parse,urllib.request
 from PIL import Image,ImageEnhance,ImageOps,ImageFilter,ImageChops
-R=os.path.dirname(os.path.dirname(os.path.abspath(__file__)));OUT=R+'/photos.json'
+R=os.path.dirname(os.path.dirname(os.path.abspath(__file__)));OUT=R+'/photos.json' if len(sys.argv)<2 else R+'/photos-'+'-'.join(sys.argv[1:])+'.json'
 UA={'User-Agent':'LightBulbStudyApp/1.0 (free educational app; picks Wikimedia lead images)'}
 HINT={'psir':'political','history':'India','geography':'geography','environment':'ecology','world':'history','communism':'communist','astronomy':'astronomy','physics':'physics','chemistry':'chemistry','biology':'biology','quantum':'quantum'}
 OK=re.compile(r'^\s*(public domain|pd\b|cc0|cc[- ]by)',re.I)
-BAD=re.compile(r'(logo|flag_of|coat_of_arms|map_of|locator|icon|symbol|signature|seal_of|emblem)',re.I)
+BAD=re.compile(r'(nazi|grave|corpse|execution|torture|holocaust|massacre|nude|gage_skidmore|cropped\)|press_conference|musician|band|logo|flag_of|coat_of_arms|map_of|locator|icon|symbol|signature|seal_of|emblem)',re.I)
 THEMES=json.loads(subprocess.check_output(['node','-e',"global.window={};eval(require('fs').readFileSync('themes.js','utf8').replace(/const THEMES/,'global.THEMES'));const o={};for(const k in THEMES)o[k]=THEMES[k].vars;console.log(JSON.stringify(o))"],cwd=R))
 def hexrgb(h,d):h=(h or d).strip().lstrip('#');h=h if len(h)==6 else d.lstrip('#');return tuple(int(h[i:i+2],16) for i in (0,2,4))
 def get(u,raw=False):
@@ -19,10 +19,14 @@ def get(u,raw=False):
     except Exception as e:time.sleep(4*(t+1))
   return None if raw else {}
 def api(host,**p):p.update(format='json',formatversion=2);time.sleep(.25);return get(f'https://{host}/w/api.php?'+urllib.parse.urlencode(p))
-def find(q,used):
-  r=api('en.wikipedia.org',action='query',generator='search',gsrsearch=q,gsrlimit=6,prop='pageimages',piprop='name',pilicense='free')
+STOP=set('what when where which about their there these those with from into over under between core idea ideas recap exam lens part role key more than this that some does basic simple introduction overview nature theory concept concepts meaning modern how why the and for its'.split())
+def kw(t):return {w[:5] for w in re.findall(r'[a-z]{4,}',t.lower()) if w not in STOP}
+def find(q,used,must):
+  r=api('en.wikipedia.org',action='query',generator='search',gsrsearch=q,gsrlimit=5,prop='pageimages',piprop='name',pilicense='free')
   pages=sorted(r.get('query',{}).get('pages',[]),key=lambda p:p.get('index',99))
-  files=[p['pageimage'] for p in pages if p.get('pageimage') and not p['pageimage'].lower().endswith(('.svg','.gif','.tif','.tiff')) and p['pageimage'] not in used and not BAD.search(p['pageimage'])]
+  # relevance: the Wikipedia article's title must share a real word with the topic
+  pages=[p for p in pages if kw(p.get('title',''))&must]
+  files=[p['pageimage'] for p in pages if p.get('pageimage') and not p['pageimage'].lower().endswith(('.svg','.gif','.tif','.tiff','.ogv','.ogg','.webm','.pdf')) and p['pageimage'] not in used and not BAD.search(p['pageimage'])]
   if not files:return None
   ii=api('commons.wikimedia.org',action='query',titles='|'.join('File:'+f for f in files[:6]),prop='imageinfo',iiprop='url|size|extmetadata',iiurlwidth=1200)
   info={p['title'][5:].replace(' ','_'):p for p in ii.get('query',{}).get('pages',[]) if p.get('imageinfo')}
@@ -34,7 +38,9 @@ def find(q,used):
     art=re.sub(r'\s+',' ',re.sub('<[^>]+>','',m.get('Artist',{}).get('value','Unknown'))).strip()[:70]
     return {'file':f,'url':i.get('thumburl') or i['url'],'page':i['descriptionurl'],'license':lic.strip(),'artist':art}
 def grade(raw,night,gold):
-  im=ImageOps.exif_transpose(Image.open(io.BytesIO(raw))).convert('RGB')
+  im=ImageOps.exif_transpose(Image.open(io.BytesIO(raw)))
+  if im.mode in('RGBA','LA','P'):im=im.convert('RGBA');bg=Image.new('RGBA',im.size,(245,242,234,255));bg.alpha_composite(im);im=bg
+  im=im.convert('RGB')
   im=ImageOps.fit(im,(1000,640),Image.LANCZOS,centering=(.5,.38))
   im=ImageOps.autocontrast(im,cutoff=.8)
   im=ImageEnhance.Color(im).enhance(.9)
@@ -59,11 +65,12 @@ def main():
     os.makedirs(f'{R}/art/photos/{sid}',exist_ok=True)
     for lid in json.load(open(f'{R}/{d}/lessons/index.json')):
       L=json.load(open(f'{R}/{d}/lessons/{lid}.json'));nc=len(L['cards'])
-      jobs=[(lid,L['title'])]+[(f'{lid}_{k}',re.sub('<[^>]+>','',L['cards'][k]['h'])) for k in sorted({max(1,nc//3),max(2,2*nc//3)}) if k<nc]
+      jobs=[(lid,L['title'])]+[(f'{lid}_{k}',re.sub('<[^>]+>','',L['cards'][k]['h']).strip()) for k in sorted({max(1,nc//3),max(2,2*nc//3)}) if k<nc]
       for key,q in jobs:
         K=f'{sid}/{key}'
         if K in picks:continue
-        p=find(q,used) or find(q+' '+HINT.get(sid,''),used)
+        must=kw(q) or kw(L['title'])
+        p=find(q,used,must) or find(q+' '+HINT.get(sid,''),used,must) or (key!=lid and find(q+' '+L['title'],used,must))
         if p:
           raw=get(p['url'],raw=True)
           try:open(f'{R}/art/photos/{K}.webp','wb').write(grade(raw,night,gold));used.add(p['file'])
