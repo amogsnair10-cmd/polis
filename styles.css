@@ -317,3 +317,7 @@ html,body{overscroll-behavior-y:none}
 #heroArt{top:calc(-1 * env(safe-area-inset-top));height:calc(100% + env(safe-area-inset-top))}
 .hero::before{content:"";position:absolute;left:0;right:0;top:calc(-1 * env(safe-area-inset-top));height:calc(env(safe-area-inset-top) + 110px);z-index:0;pointer-events:none;
   background:linear-gradient(rgba(0,0,0,.62),rgba(0,0,0,.28) 55%,transparent)}
+/* Listen */
+.x.lis{position:relative;font-size:13px}.x.lis.on{background:var(--gold);color:var(--night)}
+.x.lis.rate::after{content:attr(data-rate);position:absolute;top:110%;left:50%;transform:translateX(-50%);font:600 12px var(--font-body);background:var(--card);color:var(--ink);padding:3px 8px;border-radius:8px;white-space:nowrap}
+.ci.reading{box-shadow:0 0 0 2px var(--gold),0 18px 40px rgba(0,0,0,.25);transition:box-shadow .6s var(--ease)}

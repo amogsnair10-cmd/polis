@@ -53,7 +53,7 @@ async function openL(id,card){
   l.cards.forEach((c,k)=>h+=`<div class="cd"><div class="ci marble ${c.cls||''}">${photo(id+'_'+k,'card')||ldood(id+'_'+k,'dd card')}<div class="tag">${c.tag}</div><h2>${c.h}</h2>${c.b}</div></div>`);
   l.quiz.forEach((q,i)=>h+=`<div class="cd"><div class="ci marble"><div class="tag">Question ${i+1} of ${l.quiz.length}</div><h2 style="font-size:21px">${q.q}</h2>${q.o.map((o,j)=>`<button class="opt" data-q="${i}" data-j="${j}">${o}</button>`).join('')}<div class="why" id="w${i}"></div></div></div>`);
   h+=`<div class="cd"><div class="ci marble cover" id="end"><div class="tag">Answer every question to finish</div></div></div>`;
-  deck.innerHTML=h;deck.querySelectorAll('.ci').forEach(c=>io.observe(c));window.ans={};show('lesson');deck.scrollLeft=card>=0?(card+1)*deck.clientWidth:0;upd();deck.querySelectorAll('.ci').forEach(c=>{if(c.scrollHeight>c.clientHeight+4){const m=document.createElement('div');m.className='more';m.textContent='Scroll down for more';c.parentNode.appendChild(m);c.addEventListener('scroll',()=>{m.classList.toggle('gone',c.scrollTop+c.clientHeight>=c.scrollHeight-30)},{passive:true})}});
+  deck.innerHTML=h;window.LCOUNT=l.cards.length;deck.querySelectorAll('.ci').forEach(c=>io.observe(c));window.ans={};show('lesson');deck.scrollLeft=card>=0?(card+1)*deck.clientWidth:0;upd();deck.querySelectorAll('.ci').forEach(c=>{if(c.scrollHeight>c.clientHeight+4){const m=document.createElement('div');m.className='more';m.textContent='Scroll down for more';c.parentNode.appendChild(m);c.addEventListener('scroll',()=>{m.classList.toggle('gone',c.scrollTop+c.clientHeight>=c.scrollHeight-30)},{passive:true})}});
 }
 deck.addEventListener('click',e=>{const b=e.target.closest('.opt');if(!b)return;const q=+b.dataset.q,j=+b.dataset.j;if(ans[q]!==undefined)return;
   const Q=L[cur].quiz[q];ans[q]=j===Q.a;b.parentNode.querySelectorAll('.opt').forEach((o,k)=>{if(k===Q.a)o.classList.add('r');else if(k===j)o.classList.add('w')});
@@ -77,7 +77,7 @@ function show(v,kind){const nv=document.getElementById(v);if(nv.classList.contai
 function softSwap(fn){const h=document.getElementById('home');if(CALM)return fn();h.classList.add('swap-out');setTimeout(async()=>{await fn();const a=document.getElementById('heroArt');await Promise.race([a.ready,new Promise(r=>setTimeout(r,800))]);scrollTo(0,0);h.classList.remove('swap-out');h.classList.add('swap-in');setTimeout(()=>h.classList.remove('swap-in'),1000)},450)}
 function openSheetEl(s){s.hidden=false;s.classList.remove('closing')}
 function closeSheetEl(s){if(s.hidden)return;s.classList.add('closing');setTimeout(()=>{s.hidden=true;s.classList.remove('closing')},CALM?0:420)}
-function back(){show('home');renderHome()}
+function back(){window.stopListen&&stopListen();show('home');renderHome()}
 document.getElementById('close').onclick=back;
 
 /* ---------- themes ---------- */
