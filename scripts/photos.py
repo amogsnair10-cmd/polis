@@ -8,7 +8,7 @@ R=os.path.dirname(os.path.dirname(os.path.abspath(__file__)));OUT=R+'/photos.jso
 UA={'User-Agent':'LightBulbStudyApp/1.0 (free educational app; picks Wikimedia lead images)'}
 HINT={'psir':'political','history':'India','geography':'geography','environment':'ecology','world':'history','communism':'communist','astronomy':'astronomy','physics':'physics','chemistry':'chemistry','biology':'biology','quantum':'quantum'}
 OK=re.compile(r'^\s*(public domain|pd\b|cc0|cc[- ]by)',re.I)
-BAD=re.compile(r'(nazi|grave|corpse|execution|torture|holocaust|massacre|nude|gage_skidmore|press_conference|musician|rock_band|logo|flag_of|coat_of_arms|map_of|locator|icon|symbol|signature|seal_of|emblem)',re.I)
+BAD=re.compile(r'(nude|gage_skidmore|press_conference|musician|rock_band|logo|flag_of|coat_of_arms|map_of|locator|icon|symbol|signature|seal_of|emblem)',re.I)
 THEMES=json.loads(subprocess.check_output(['node','-e',"global.window={};eval(require('fs').readFileSync('themes.js','utf8').replace(/const THEMES/,'global.THEMES'));const o={};for(const k in THEMES)o[k]=THEMES[k].vars;console.log(JSON.stringify(o))"],cwd=R))
 def hexrgb(h,d):h=(h or d).strip().lstrip('#');h=h if len(h)==6 else d.lstrip('#');return tuple(int(h[i:i+2],16) for i in (0,2,4))
 def get(u,raw=False):
