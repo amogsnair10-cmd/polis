@@ -1,0 +1,36 @@
+name: Merge lesson photos
+on:
+  workflow_dispatch:
+    inputs:
+      run_id:
+        description: "Lesson photos run id to merge"
+        required: true
+permissions:
+  contents: write
+  actions: read
+jobs:
+  merge:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/download-artifact@v4
+        with:
+          path: parts
+          pattern: "photos-*"
+          run-id: ${{ github.event.inputs.run_id }}
+          github-token: ${{ github.token }}
+      - name: Merge and commit
+        run: |
+          mkdir -p art/photos
+          for d in parts/photos-*; do cp -r "$d"/art/photos/* art/photos/ 2>/dev/null || true; done
+          python3 -c "
+          import json,glob
+          o=json.load(open('photos.json'))
+          for f in glob.glob('parts/*/photos-*.json'): o.update(json.load(open(f)))
+          json.dump(o,open('photos.json','w'),indent=0,ensure_ascii=False)
+          print(len(o),'entries')"
+          git config user.name "photos-bot"
+          git config user.email "photos-bot@users.noreply.github.com"
+          git add photos.json art/photos
+          git commit -m "Lesson photos" || exit 0
+          for i in 1 2 3 4; do git pull --rebase origin main && git push && break; sleep 5; done

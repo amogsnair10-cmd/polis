@@ -4,7 +4,7 @@ on:
     branches: [main]
   workflow_dispatch:
   workflow_run:
-    workflows: ["Lesson photos"]
+    workflows: ["Lesson photos", "Merge lesson photos"]
     types: [completed]
 permissions:
   contents: read
