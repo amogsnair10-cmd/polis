@@ -6,7 +6,7 @@
   {
    "tag": "Why this matters",
    "h": "Air quality in the news",
-   "b": "<p>Delhi's winter smog makes air policy a yearly headline. Prelims asks about the NCAP, AQI categories, Bharat Stage norms and GRAP. Mains asks why the problem persists and which fixes work.</p><p>Learn the figures and the institutions: CPCB, CAQM and state boards.</p>"
+   "b": "<p>Delhi's winter smog makes air policy a yearly headline. Prelims asks about the NCAP, AQI categories, Bharat Stage norms and GRAP. Mains asks why the problem persists and which fixes work.</p><p>Learn the figures and the institutions: CPCB, CAQM and state boards.</p><p>Expect a table-style question linking AQI band, health effect and the GRAP stage that follows.</p>"
   },
   {
    "tag": "AQI",
@@ -46,12 +46,12 @@
   {
    "tag": "Revision",
    "h": "Quick table",
-   "b": "<ul><li>AQI: 2014; six bands; eight pollutants.</li><li>NCAP: 2019; 131 cities; 20-30 percent, later 40 percent.</li><li>BS-VI: 1 April 2020.</li><li>GRAP: four stages; run by CAQM.</li><li>CAQM: statutory body since 2021.</li></ul>"
+   "b": "<ul><li>AQI: 2014; six bands; eight pollutants.</li><li>NCAP: 2019; 131 cities; 20-30 percent, later 40 percent.</li><li>BS-VI: 1 April 2020.</li><li>GRAP: four stages; run by CAQM.</li><li>CAQM: statutory body since 2021.</li></ul><p>Note also that PM2.5 are particles under 2.5 micrometres, which reach deep into the lungs and blood.</p>"
   },
   {
    "tag": "Exam lens",
    "h": "How to answer",
-   "b": "<p><b>Prelims-style:</b> \"AQI includes which pollutants?\" \"BS-VI norms came into force in which year?\" (2020).</p><p><b>Mains-style:</b> \"Why is air pollution in Delhi-NCR a recurring crisis? Evaluate NCAP.\" Structure: sources; health costs; NCAP and GRAP; gaps (non-binding, funds); way forward (airshed approach, public transport, stubble alternatives).</p>",
+   "b": "<p><b>Prelims-style:</b> \"AQI includes which pollutants?\" \"BS-VI norms came into force in which year?\" (2020).</p><p><b>Mains-style:</b> \"Why is air pollution in Delhi-NCR a recurring crisis? Evaluate NCAP.\" Structure: sources; health costs; NCAP and GRAP; gaps (non-binding, funds); way forward (airshed approach, public transport, stubble alternatives).</p><p>Use a number: the WHO annual PM2.5 limit of 5 against India's 40 shows how big the gap is.</p>",
    "cls": "exam"
   }
  ],

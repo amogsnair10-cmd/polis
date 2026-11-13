@@ -1,0 +1,176 @@
+{
+ "id": "1-2-8",
+ "title": "Ports, Railways and Inland Waterways",
+ "emoji": "🚢",
+ "cards": [
+  {
+   "tag": "Why this matters",
+   "h": "Transport turns geography into trade",
+   "b": "<p>India's trade, military mobility and regional balance rest on transport networks. Mains questions ask about logistics, Sagarmala, dedicated freight corridors and inland water transport. Prelims asks about ports and rail zones.</p>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "Major ports",
+   "b": "<svg class=\"d\" viewBox=\"0 0 320 140\"><rect x=\"10\" y=\"6\" width=\"300\" height=\"38\" rx=\"6\" fill=\"#f1e4c6\" stroke=\"#a8792a\" stroke-width=\"1.5\"/><text x=\"160\" y=\"22\" fill=\"#7d5a1c\" font-size=\"12\" text-anchor=\"middle\" font-weight=\"700\">Ports</text><text x=\"160\" y=\"37\" fill=\"#5d6474\" font-size=\"10\" text-anchor=\"middle\">12 major ports, Sagarmala</text><rect x=\"10\" y=\"50\" width=\"300\" height=\"38\" rx=\"6\" fill=\"#dceaec\" stroke=\"#2f6f7a\" stroke-width=\"1.5\"/><text x=\"160\" y=\"66\" fill=\"#2f6f7a\" font-size=\"12\" text-anchor=\"middle\" font-weight=\"700\">Rail</text><text x=\"160\" y=\"81\" fill=\"#5d6474\" font-size=\"10\" text-anchor=\"middle\">Freight corridors, Gati Shakti</text><rect x=\"10\" y=\"94\" width=\"300\" height=\"38\" rx=\"6\" fill=\"#f4dcd5\" stroke=\"#a3362a\" stroke-width=\"1.5\"/><text x=\"160\" y=\"110\" fill=\"#a3362a\" font-size=\"12\" text-anchor=\"middle\" font-weight=\"700\">Waterways</text><text x=\"160\" y=\"125\" fill=\"#5d6474\" font-size=\"10\" text-anchor=\"middle\">NW-1, NW-2, IWAI</text></svg><p>India has 12 major ports (since Vadhavan, a 13th, is approved) and about 200 non-major ports. West: <b>Kandla</b> (Deendayal), <b>Mumbai</b>, <b>Jawaharlal Nehru Port</b> (Nhava Sheva, the largest container port), <b>Mormugao</b>, <b>New Mangalore</b>, <b>Kochi</b>. East: <b>Tuticorin</b> (V O Chidambaranar), <b>Chennai</b>, <b>Ennore</b> (Kamarajar), <b>Visakhapatnam</b>, <b>Paradip</b>, <b>Kolkata</b> (including Haldia). Mundra is the largest private port.</p>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "Port types and sites",
+   "b": "<p>Kandla is a tidal port in Gujarat created after Partition, replacing Karachi. Kolkata is a riverine port on the Hooghly; silt needs the Farakka barrage's water to flush. Paradip serves iron ore. Visakhapatnam is the deepest landlocked harbour. Chennai is an artificial harbour. Kochi is a natural harbour. Vizhinjam (Kerala, 2024) is India's first deepwater transhipment port.</p>"
+  },
+  {
+   "tag": "Key idea",
+   "h": "Sagarmala",
+   "b": "<p>Launched in 2015. Goals: port-led development, modernisation, coastal economic zones, and connectivity. The Maritime India Vision 2030 and the Maritime Amrit Kaal Vision 2047 extend it. The Major Port Authorities Act 2021 gave ports more autonomy. Coastal shipping is encouraged to cut road congestion.</p>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "Railways",
+   "b": "<p>India has about 68,000 km of route, one of the world's largest networks. The first train ran from Bombay to Thane in 1853. There are 18 zones. Gauges: broad (1,676 mm) is dominant. The <b>Konkan Railway</b> (1998), <b>Kolkata Metro</b> (1984, first in India), and the <b>Chenab Bridge</b>, the world's highest rail arch bridge, on the Udhampur-Srinagar-Baramulla link, are landmarks. Vande Bharat trains run since 2019.</p>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "Dedicated freight corridors",
+   "b": "<p>Eastern DFC (Ludhiana to Sonnagar, about 1,337 km) and Western DFC (Dadri to JNPT, about 1,506 km). They separate freight from passenger trains, raise speed and cut cost. The Delhi-Mumbai Industrial Corridor (DMIC) is built alongside the Western DFC. PM Gati Shakti (2021) coordinates plans across ministries.</p>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "Inland waterways",
+   "b": "<p>India has about 14,500 km of navigable waterways. 111 are National Waterways under the Act of 2016. <b>NW-1</b>: Ganga-Bhagirathi-Hooghly (Prayagraj to Haldia), 1,620 km, the longest. <b>NW-2</b>: Brahmaputra (Dhubri to Sadiya). <b>NW-3</b>: West Coast Canal in Kerala. The Jal Marg Vikas Project aims at heavy vessels on the Ganga. The Inland Waterways Authority of India (IWAI, 1986) is the regulator.</p>"
+  },
+  {
+   "tag": "Debate",
+   "h": "Road versus rail versus water",
+   "b": "<p>Roads carry most freight in India, about 60 percent, which raises costs and emissions. Rail and water are cheaper and cleaner per tonne-km. Water routes face low depth in the dry season, silt, and few terminals. The National Logistics Policy 2022 targets a cut in logistics cost from about 13-14 percent of GDP toward the 8 percent seen in developed economies.</p>"
+  },
+  {
+   "tag": "Indian angle",
+   "h": "Strategic ports and corridors",
+   "b": "<p>The Chabahar port (Iran) and the International North-South Transport Corridor aim to reach Central Asia without Pakistan. The India-Middle East-Europe Economic Corridor (IMEC) was announced at the G20 in 2023. Kaladan project links Kolkata and Sittwe to Mizoram. Each reflects geography: peninsular position and the Indian Ocean.</p>"
+  },
+  {
+   "tag": "Exam lens",
+   "h": "How to answer",
+   "b": "<p>Likely questions: 'Role of ports in India's economic growth', 'Challenges to inland water transport', 'Dedicated freight corridors'.</p><ul><li>Map the 12 major ports in order from Kandla around to Kolkata.</li><li>Give numbers: 7,500 km coast, 14,500 km waterways.</li><li>Add a way forward: multimodal hubs, Gati Shakti, coastal shipping.</li></ul>",
+   "cls": "exam"
+  }
+ ],
+ "quiz": [
+  {
+   "q": "The largest container port in India among major ports is?",
+   "o": [
+    "Kandla",
+    "Chennai",
+    "Jawaharlal Nehru Port",
+    "Kochi"
+   ],
+   "a": 2,
+   "w": "Nhava Sheva."
+  },
+  {
+   "q": "Kandla was built after?",
+   "o": [
+    "Partition",
+    "Independence of Burma",
+    "1962",
+    "1991"
+   ],
+   "a": 0,
+   "w": "It replaced Karachi."
+  },
+  {
+   "q": "NW-1 runs on the?",
+   "o": [
+    "Ganga-Bhagirathi-Hooghly",
+    "Brahmaputra",
+    "Godavari",
+    "Narmada"
+   ],
+   "a": 0,
+   "w": "Prayagraj to Haldia."
+  },
+  {
+   "q": "NW-2 is on the?",
+   "o": [
+    "Ganga",
+    "Krishna",
+    "Brahmaputra",
+    "Mahanadi"
+   ],
+   "a": 2,
+   "w": "Dhubri to Sadiya."
+  },
+  {
+   "q": "The first train in India ran in?",
+   "o": [
+    "1757",
+    "1900",
+    "1853",
+    "1947"
+   ],
+   "a": 2,
+   "w": "Bombay to Thane."
+  },
+  {
+   "q": "Sagarmala was launched in?",
+   "o": [
+    "2015",
+    "1991",
+    "2004",
+    "2022"
+   ],
+   "a": 0,
+   "w": "Port-led development."
+  },
+  {
+   "q": "The Vizhinjam port is in?",
+   "o": [
+    "Kerala",
+    "Gujarat",
+    "Odisha",
+    "Andhra"
+   ],
+   "a": 0,
+   "w": "Deepwater transhipment."
+  },
+  {
+   "q": "The Eastern DFC starts in?",
+   "o": [
+    "Mumbai",
+    "Chennai",
+    "Ludhiana",
+    "Dadri"
+   ],
+   "a": 2,
+   "w": "To Sonnagar."
+  },
+  {
+   "q": "Kolkata port is a?",
+   "o": [
+    "Deep sea port",
+    "Lake port",
+    "Riverine port",
+    "Fjord port"
+   ],
+   "a": 2,
+   "w": "On the Hooghly."
+  },
+  {
+   "q": "Dadri to JNPT is the?",
+   "o": [
+    "Western DFC",
+    "Eastern DFC",
+    "Southern DFC",
+    "Metro line"
+   ],
+   "a": 0,
+   "w": "About 1,506 km."
+  }
+ ],
+ "sources": [
+  "NCERT Class 11 and 12 Geography",
+  "Certificate Physical and Human Geography, G C Leong",
+  "Standard atlas"
+ ],
+ "verified": "2026-11-13"
+}

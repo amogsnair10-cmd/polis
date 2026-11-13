@@ -21,7 +21,7 @@
   {
    "tag": "Core idea",
    "h": "Leading coal states",
-   "b": "<p>Jharkhand, Odisha and Chhattisgarh hold the largest reserves; Odisha and Chhattisgarh lead output in recent years. Jharia is the main coking coal field. India is the second largest coal producer and has crossed 1 billion tonnes of production (2023-24). Coal still gives about 70 percent of electricity.</p>"
+   "b": "<p>Jharkhand, Odisha and Chhattisgarh hold the largest reserves; Odisha and Chhattisgarh lead output in recent years. Jharia is the main coking coal field. India is the second largest coal producer and has crossed 1 billion tonnes of production in 2024-25. Coal still gives about 70 percent of electricity.</p>"
   },
   {
    "tag": "Core idea",
@@ -95,10 +95,10 @@
     "Limonite",
     "Siderite",
     "Hematite",
-    "Magnetite only"
+    "Pyrite"
    ],
    "a": 2,
-   "w": "Hematite is the main ore, with magnetite higher in iron content."
+   "w": "Hematite is the most important ore; magnetite is richer in iron but less abundant."
   },
   {
    "q": "The Bailadila deposit is in?",

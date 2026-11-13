@@ -1,0 +1,176 @@
+{
+ "id": "2-0-3",
+ "title": "World Agriculture: Plantations, Wheat and Rice Belts",
+ "emoji": "🌍",
+ "cards": [
+  {
+   "tag": "Why this matters",
+   "h": "Food geography is climate, soil and history",
+   "b": "<p>The world's farm belts match climate zones. UPSC asks for the leading countries, the type of farming and the reasons. It also links with trade, food security and climate change. Learn the type first, then the crop, then the country.</p>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "Types of farming",
+   "b": "<svg class=\"d\" viewBox=\"0 0 320 140\"><rect x=\"10\" y=\"6\" width=\"300\" height=\"38\" rx=\"6\" fill=\"#f1e4c6\" stroke=\"#a8792a\" stroke-width=\"1.5\"/><text x=\"160\" y=\"22\" fill=\"#7d5a1c\" font-size=\"12\" text-anchor=\"middle\" font-weight=\"700\">Subsistence</text><text x=\"160\" y=\"37\" fill=\"#5d6474\" font-size=\"10\" text-anchor=\"middle\">Small plots, rice, jhum</text><rect x=\"10\" y=\"50\" width=\"300\" height=\"38\" rx=\"6\" fill=\"#dceaec\" stroke=\"#2f6f7a\" stroke-width=\"1.5\"/><text x=\"160\" y=\"66\" fill=\"#2f6f7a\" font-size=\"12\" text-anchor=\"middle\" font-weight=\"700\">Commercial</text><text x=\"160\" y=\"81\" fill=\"#5d6474\" font-size=\"10\" text-anchor=\"middle\">Wheat, maize, dairy</text><rect x=\"10\" y=\"94\" width=\"300\" height=\"38\" rx=\"6\" fill=\"#f4dcd5\" stroke=\"#a3362a\" stroke-width=\"1.5\"/><text x=\"160\" y=\"110\" fill=\"#a3362a\" font-size=\"12\" text-anchor=\"middle\" font-weight=\"700\">Plantation</text><text x=\"160\" y=\"125\" fill=\"#5d6474\" font-size=\"10\" text-anchor=\"middle\">Tea, coffee, rubber, palm</text></svg><p><b>Subsistence</b>: for the family, such as intensive rice in monsoon Asia (small plots, high labour) and shifting cultivation (jhum, milpa, ladang). <b>Commercial</b>: for sale, such as wheat in the prairies, plantations and dairy. <b>Mixed</b>: crops and animals together (western Europe). <b>Mediterranean</b>: citrus, olive, vines. <b>Market gardening</b> and truck farming.</p>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "Rice",
+   "b": "<p>Needs 20-27 degrees C and over 100 cm of rain, plus flooded fields. Staple of monsoon Asia. Top producers: China, India, Bangladesh, Indonesia, Vietnam. Thailand, India and Vietnam export the most. Deltas (Ganga, Mekong, Irrawaddy, Chao Phraya) and terraces (Philippines) are key. The International Rice Research Institute is in the Philippines (Los Banos).</p>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "Wheat",
+   "b": "<p>A temperate crop, 10-25 degrees C, 50-100 cm of rain, mature in dry summer. Main belts: the American and Canadian prairies, Ukraine and Russia (steppe, 'granary of Europe'), the Argentine Pampas, India (northwest), Australia's Murray-Darling basin. Top producers: China, India, Russia, USA, France. Russia, Canada, Australia and the USA export most. The Black Sea war in 2022 shook world grain trade.</p>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "Maize, soybean and cotton",
+   "b": "<p><b>Maize</b>: the US Corn Belt (Iowa, Illinois), China, Brazil. <b>Soybean</b>: Brazil, USA, Argentina. <b>Cotton</b>: China, India, USA, Brazil. <b>Sugarcane</b>: Brazil first, India second. Sugar beet in Europe. <b>Jute</b>: Bangladesh and India.</p>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "Plantation crops",
+   "b": "<p>Large estates for export, using capital, labour and scientific methods, set up in the colonial era. <b>Tea</b>: China, India, Kenya, Sri Lanka. <b>Coffee</b>: Brazil (about a third of the world), Vietnam, Colombia. <b>Cocoa</b>: Ivory Coast, Ghana. <b>Rubber</b>: Thailand, Indonesia, Malaysia. <b>Oil palm</b>: Indonesia and Malaysia. <b>Banana</b>: Ecuador, Philippines.</p>"
+  },
+  {
+   "tag": "Key idea",
+   "h": "Von Thunen's model",
+   "b": "<p>Johann Heinrich von Thunen (1826, <i>The Isolated State</i>) said land use forms rings around a market town. Perishable and heavy goods (milk, vegetables) lie nearest, then forest, grain, and last ranching. The rings vary with transport cost and rent. It is a classic of agricultural location theory.</p>"
+  },
+  {
+   "tag": "Debate",
+   "h": "Food security and agribusiness",
+   "b": "<p>Corporate farms, GM crops and monoculture raise output but cut diversity and strain water. Food is wasted at the same time as hunger persists. Climate change shifts the wheat and rice belts. The FAO and the World Food Programme monitor risk. Yield gaps in Africa suggest room for growth.</p>"
+  },
+  {
+   "tag": "Indian angle",
+   "h": "India in the world farm map",
+   "b": "<p>India is first in milk, pulses, jute and spices, second in rice, wheat, sugarcane and cotton output (check recent data). It is a top rice exporter after the 2022 curbs eased. Indian agriculture differs: small plots (average about 1.1 ha), monsoon dependence and MSP-led crop choice.</p>"
+  },
+  {
+   "tag": "Exam lens",
+   "h": "How to answer",
+   "b": "<p>Likely questions: 'Differentiate subsistence and commercial agriculture', 'Plantation agriculture: features and examples', 'Why is wheat grown in temperate grasslands?'</p><ul><li>Use a table on size, labour, capital, aim.</li><li>List three countries per crop.</li><li>Close with a policy or climate point.</li></ul>",
+   "cls": "exam"
+  }
+ ],
+ "quiz": [
+  {
+   "q": "Intensive subsistence farming is typical of?",
+   "o": [
+    "Prairies",
+    "Sahara",
+    "Monsoon Asia",
+    "Siberia"
+   ],
+   "a": 2,
+   "w": "Rice plots."
+  },
+  {
+   "q": "Von Thunen wrote?",
+   "o": [
+    "The Isolated State",
+    "Principles of Geology",
+    "Origin of Species",
+    "Geographia"
+   ],
+   "a": 0,
+   "w": "1826."
+  },
+  {
+   "q": "The largest coffee producer is?",
+   "o": [
+    "Brazil",
+    "Kenya",
+    "India",
+    "Vietnam"
+   ],
+   "a": 0,
+   "w": "About a third of world output."
+  },
+  {
+   "q": "Oil palm is led by?",
+   "o": [
+    "Brazil and India",
+    "Chile and Peru",
+    "Indonesia and Malaysia",
+    "Nigeria and Egypt"
+   ],
+   "a": 2,
+   "w": "Southeast Asia."
+  },
+  {
+   "q": "The Corn Belt is in the?",
+   "o": [
+    "Russia",
+    "India",
+    "USA",
+    "Brazil"
+   ],
+   "a": 2,
+   "w": "Midwest."
+  },
+  {
+   "q": "The Pampas are known for?",
+   "o": [
+    "Wheat and cattle",
+    "Rice",
+    "Coffee",
+    "Jute"
+   ],
+   "a": 0,
+   "w": "Argentina."
+  },
+  {
+   "q": "The IRRI is in the?",
+   "o": [
+    "Philippines",
+    "India",
+    "Thailand",
+    "Vietnam"
+   ],
+   "a": 0,
+   "w": "Los Banos."
+  },
+  {
+   "q": "Plantation farms mostly produce for?",
+   "o": [
+    "Local use",
+    "Subsistence",
+    "Export",
+    "Barter"
+   ],
+   "a": 2,
+   "w": "Cash crops."
+  },
+  {
+   "q": "Shifting cultivation is called jhum in?",
+   "o": [
+    "Brazil",
+    "Kenya",
+    "Northeast India",
+    "Siberia"
+   ],
+   "a": 2,
+   "w": "Also milpa in Mexico."
+  },
+  {
+   "q": "Cocoa is led by?",
+   "o": [
+    "Ivory Coast",
+    "Brazil",
+    "India",
+    "China"
+   ],
+   "a": 0,
+   "w": "West Africa."
+  }
+ ],
+ "sources": [
+  "NCERT Class 11 and 12 Geography",
+  "Certificate Physical and Human Geography, G C Leong",
+  "Standard atlas"
+ ],
+ "verified": "2026-11-13"
+}

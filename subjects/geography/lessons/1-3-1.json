@@ -1,0 +1,176 @@
+{
+ "id": "1-3-1",
+ "title": "Census Trends: Sex Ratio, Literacy and Density",
+ "emoji": "👥",
+ "cards": [
+  {
+   "tag": "Why this matters",
+   "h": "Census numbers are exam currency",
+   "b": "<p>Census data on population, sex ratio, literacy and density are used in prelims facts and mains arguments about demography and development. The last full census was in 2011. The next, delayed by the pandemic, has been announced for 2027 (with a caste count included). Know the 2011 figures cold and the trend over decades.</p>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "Population size and growth",
+   "b": "<svg class=\"d\" viewBox=\"0 0 320 140\"><rect x=\"10\" y=\"6\" width=\"300\" height=\"38\" rx=\"6\" fill=\"#f1e4c6\" stroke=\"#a8792a\" stroke-width=\"1.5\"/><text x=\"160\" y=\"22\" fill=\"#7d5a1c\" font-size=\"12\" text-anchor=\"middle\" font-weight=\"700\">Sex ratio 943</text><text x=\"160\" y=\"37\" fill=\"#5d6474\" font-size=\"10\" text-anchor=\"middle\">Kerala high, Haryana low</text><rect x=\"10\" y=\"50\" width=\"300\" height=\"38\" rx=\"6\" fill=\"#dceaec\" stroke=\"#2f6f7a\" stroke-width=\"1.5\"/><text x=\"160\" y=\"66\" fill=\"#2f6f7a\" font-size=\"12\" text-anchor=\"middle\" font-weight=\"700\">Literacy 74 percent</text><text x=\"160\" y=\"81\" fill=\"#5d6474\" font-size=\"10\" text-anchor=\"middle\">Kerala high, Bihar low</text><rect x=\"10\" y=\"94\" width=\"300\" height=\"38\" rx=\"6\" fill=\"#f4dcd5\" stroke=\"#a3362a\" stroke-width=\"1.5\"/><text x=\"160\" y=\"110\" fill=\"#a3362a\" font-size=\"12\" text-anchor=\"middle\" font-weight=\"700\">Density 382</text><text x=\"160\" y=\"125\" fill=\"#5d6474\" font-size=\"10\" text-anchor=\"middle\">Bihar, West Bengal dense</text></svg><p>India's population in 2011 was <b>121.1 crore</b> (1,210.8 million), about 17.5 percent of the world. Decadal growth was 17.7 percent in 2001-11, the lowest since Independence, down from 21.5 percent. <b>Uttar Pradesh</b> is the most populous state (19.98 crore); <b>Sikkim</b> the least. India overtook China as the most populous country in 2023, per UN estimates.</p>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "Demographic transition",
+   "b": "<p>Stage 1: high birth and death rates. Stage 2: death rate falls, population rises. Stage 3: birth rate falls. Stage 4: both low. India is in the late stage 3: the total fertility rate (TFR) fell to about 2.0 (NFHS-5, 2019-21), below the replacement level of 2.1. The 1951-81 decades were the 'population explosion' period. The year 1921 is the <b>Great Divide</b>: after it population grew steadily.</p>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "Sex ratio",
+   "b": "<p>Number of females per 1,000 males. India's 2011 ratio is <b>943</b>, the highest since 1971. <b>Kerala</b> is highest (1,084), <b>Daman and Diu</b> (618) and <b>Haryana</b> (879 among states) are low. The <b>child sex ratio</b> (0-6 years) fell to <b>919</b> in 2011, the lowest ever, due to sex-selective abortion. The Pre-Conception and Pre-Natal Diagnostic Techniques Act (PCPNDT) 1994 targets this; Beti Bachao Beti Padhao started in 2015.</p>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "Literacy",
+   "b": "<p>Literacy rate (age 7 and above) in 2011: <b>74.04 percent</b>, with males 82.14 and females 65.46. <b>Kerala</b> highest (about 94 percent), <b>Bihar</b> lowest (about 62 percent). Lakshadweep and Mizoram do well among UTs and the Northeast. The gender gap has narrowed. Periodic Labour Force Survey data after 2011 give updates, and the 2023 'ULLAS' scheme runs adult literacy.</p>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "Density",
+   "b": "<p>Population density in 2011 was <b>382 per sq km</b>. Bihar is highest among states (1,106), then West Bengal (1,028). <b>Arunachal Pradesh</b> is lowest (17). Delhi has the highest overall (11,297). Density follows water and fertile land, so the Ganga plains are dense; the desert, the mountains and the Northeast are sparse.</p>"
+  },
+  {
+   "tag": "Key idea",
+   "h": "Urbanisation and age",
+   "b": "<p>Urban share rose to <b>31.1 percent</b> in 2011. Census towns grew fast. The median age is about 28, so India enjoys a <b>demographic dividend</b> until about 2040-50. The working-age share is rising, but jobs, skills and women's participation (about 40 percent in recent surveys) decide whether the gain is realised. South India is ageing earlier.</p>"
+  },
+  {
+   "tag": "Debate",
+   "h": "Delimitation and the north-south split",
+   "b": "<p>The southern states reduced fertility earlier. If parliamentary seats are redistributed by population after 2026 (the freeze under Article 82 ends), they fear losing weight. The 15th Finance Commission also used the 2011 population, which raised similar concerns. Supporters of fresh delimitation say representation must follow people.</p>"
+  },
+  {
+   "tag": "Indian angle",
+   "h": "Policy links",
+   "b": "<p>National Population Policy 2000, National Health Mission, and Mission Shakti. The Census is conducted under the Census Act 1948 and the Registrar General of India. Remember the first census (synchronous) in 1881, and the first after Independence in 1951.</p>"
+  },
+  {
+   "tag": "Exam lens",
+   "h": "How to answer",
+   "b": "<p>Likely questions: 'Declining child sex ratio and remedies', 'Demographic dividend: opportunity or challenge?', 'Regional variation in literacy'.</p><ul><li>Quote 2011 figures with the state extremes.</li><li>Always link numbers to cause and policy.</li><li>Note the next Census and the delimitation debate to show currency.</li></ul>",
+   "cls": "exam"
+  }
+ ],
+ "quiz": [
+  {
+   "q": "India's population in the 2011 Census was about?",
+   "o": [
+    "102 crore",
+    "140 crore",
+    "121 crore",
+    "90 crore"
+   ],
+   "a": 2,
+   "w": "1,210.8 million."
+  },
+  {
+   "q": "The sex ratio in 2011 was?",
+   "o": [
+    "943",
+    "1,000",
+    "927",
+    "972"
+   ],
+   "a": 0,
+   "w": "Females per 1,000 males."
+  },
+  {
+   "q": "The child sex ratio in 2011 was?",
+   "o": [
+    "919",
+    "943",
+    "950",
+    "900"
+   ],
+   "a": 0,
+   "w": "The lowest recorded."
+  },
+  {
+   "q": "The state with the highest sex ratio is?",
+   "o": [
+    "Haryana",
+    "Punjab",
+    "Kerala",
+    "Bihar"
+   ],
+   "a": 2,
+   "w": "1,084."
+  },
+  {
+   "q": "Literacy in 2011 was about?",
+   "o": [
+    "64 percent",
+    "84 percent",
+    "74 percent",
+    "54 percent"
+   ],
+   "a": 2,
+   "w": "74.04 percent."
+  },
+  {
+   "q": "The most densely populated state in 2011 was?",
+   "o": [
+    "Bihar",
+    "Kerala",
+    "UP",
+    "Punjab"
+   ],
+   "a": 0,
+   "w": "1,106 per sq km."
+  },
+  {
+   "q": "The Great Divide year for Indian population is?",
+   "o": [
+    "1921",
+    "1951",
+    "1881",
+    "2001"
+   ],
+   "a": 0,
+   "w": "After it, growth became steady."
+  },
+  {
+   "q": "Replacement level TFR is?",
+   "o": [
+    "1.0",
+    "3.0",
+    "2.1",
+    "4.5"
+   ],
+   "a": 2,
+   "w": "Needed to keep the population stable."
+  },
+  {
+   "q": "PCPNDT Act is aimed at?",
+   "o": [
+    "Child labour",
+    "Dowry",
+    "Sex-selective abortion",
+    "Literacy"
+   ],
+   "a": 2,
+   "w": "1994."
+  },
+  {
+   "q": "The Census in India is conducted every?",
+   "o": [
+    "10 years",
+    "5 years",
+    "15 years",
+    "20 years"
+   ],
+   "a": 0,
+   "w": "Decadal."
+  }
+ ],
+ "sources": [
+  "NCERT Class 11 and 12 Geography",
+  "Certificate Physical and Human Geography, G C Leong",
+  "Standard atlas"
+ ],
+ "verified": "2026-11-13"
+}

@@ -1,0 +1,176 @@
+{
+ "id": "1-2-7",
+ "title": "Iron and Steel, Cotton Textile and Sugar Industries",
+ "emoji": "🏭",
+ "cards": [
+  {
+   "tag": "Why this matters",
+   "h": "Classic location theory with Indian cases",
+   "b": "<p>These three industries illustrate the factors of location: raw material, power, market, transport and policy. They are staples for questions asking why a plant is where it is. Link to mineral lesson 1-2-5 for the raw materials.</p>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "Iron and steel: raw material orientation",
+   "b": "<svg class=\"d\" viewBox=\"0 0 320 140\"><rect x=\"10\" y=\"6\" width=\"300\" height=\"38\" rx=\"6\" fill=\"#f1e4c6\" stroke=\"#a8792a\" stroke-width=\"1.5\"/><text x=\"160\" y=\"22\" fill=\"#7d5a1c\" font-size=\"12\" text-anchor=\"middle\" font-weight=\"700\">Steel</text><text x=\"160\" y=\"37\" fill=\"#5d6474\" font-size=\"10\" text-anchor=\"middle\">Near ore and coking coal</text><rect x=\"10\" y=\"50\" width=\"300\" height=\"38\" rx=\"6\" fill=\"#dceaec\" stroke=\"#2f6f7a\" stroke-width=\"1.5\"/><text x=\"160\" y=\"66\" fill=\"#2f6f7a\" font-size=\"12\" text-anchor=\"middle\" font-weight=\"700\">Cotton textiles</text><text x=\"160\" y=\"81\" fill=\"#5d6474\" font-size=\"10\" text-anchor=\"middle\">Footloose, near markets and ports</text><rect x=\"10\" y=\"94\" width=\"300\" height=\"38\" rx=\"6\" fill=\"#f4dcd5\" stroke=\"#a3362a\" stroke-width=\"1.5\"/><text x=\"160\" y=\"110\" fill=\"#a3362a\" font-size=\"12\" text-anchor=\"middle\" font-weight=\"700\">Sugar</text><text x=\"160\" y=\"125\" fill=\"#5d6474\" font-size=\"10\" text-anchor=\"middle\">Near cane fields, cooperative model</text></svg><p>Making a tonne of steel needs about 1.5-2 tonnes of iron ore and about 1 tonne of coking coal, plus limestone and manganese. Ore and coal are bulky and lose weight, so plants lie near raw materials. India's first modern plant: <b>TISCO</b> at Jamshedpur (1907, Jamsetji Tata), near the Kalimati area with iron ore from Mayurbhanj and coal from Jharia.</p>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "Major integrated steel plants",
+   "b": "<ul><li><b>Jamshedpur</b> (Tata, private, 1907).</li><li><b>Burnpur</b> (IISCO, 1918) and <b>Kulti</b> (West Bengal), now SAIL.</li><li><b>Bhadravati</b> (VISL, Karnataka, 1923).</li><li><b>Bhilai</b> (Chhattisgarh, with the Soviet Union), <b>Rourkela</b> (Odisha, Germany), <b>Durgapur</b> (West Bengal, UK) in the Second Plan.</li><li><b>Bokaro</b> (Jharkhand, USSR, 1960s).</li><li><b>Salem</b>, <b>Vizag</b> (RINL, coastal, 1992).</li></ul>"
+  },
+  {
+   "tag": "Debate",
+   "h": "Concentrated or footloose?",
+   "b": "<p>Modern steel is moving to the <b>coast</b>, because imported coking coal and exports use ports (Vizag, Paradip, Gopalpur). Mini mills using scrap and sponge iron are footloose. India is the world's second largest steel producer after China and aims for 300 million tonnes capacity by 2030 under the National Steel Policy 2017.</p>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "Cotton textiles: origin",
+   "b": "<p>Oldest modern industry. First cotton mill at Fort Gloster, Kolkata (1818), then Mumbai (1854, Cowasji Davar). Mumbai grew because of black cotton soil nearby, a humid climate (threads do not snap), a port for importing machinery and exporting yarn, and capital from traders. Ahmedabad is the 'Manchester of India'. Coimbatore, Kanpur and Indore are other centres.</p>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "Cotton textiles: today",
+   "b": "<p>The industry is <b>footloose</b> as light, widespread cotton and electricity replaced coal. Tamil Nadu has the most spinning mills; Maharashtra and Gujarat have the most cotton output. Handlooms and powerlooms provide most cloth. Policy: Technology Upgradation Fund Scheme (TUFS), PM MITRA textile parks (2021), PLI for textiles. India is a top producer of cotton and raw jute.</p>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "Sugar industry",
+   "b": "<p>Sugarcane is bulky and loses sucrose after cutting, so mills must stand <b>near the field</b>. The seasonal industry runs about 4-7 months. Uttar Pradesh was the leader, but <b>Maharashtra</b> and <b>Karnataka</b> have better yields, a longer crushing season and a cooperative sugar model. The industry shifted south because of the tropical climate, which gives more sucrose.</p>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "Sugar policy",
+   "b": "<p>Fair and Remunerative Price (FRP) is set by the Centre. States announce State Advised Price (SAP), as in UP. Ethanol blending (E20 target reached in 2025) uses cane juice and molasses to cut oil imports. Debates: water-hungry cane in Maharashtra, arrears to farmers, and export curbs.</p>"
+  },
+  {
+   "tag": "Indian angle",
+   "h": "Why location matters for policy",
+   "b": "<p>Steel belts brought Chotanagpur industrial growth but also displacement, which is why 'industrial region' and 'tribal rights' meet. Textile clusters like Tiruppur and Surat give jobs to millions, especially women. Sugar cooperatives in western Maharashtra built political and rural institutions.</p>"
+  },
+  {
+   "tag": "Exam lens",
+   "h": "How to answer",
+   "b": "<p>Likely questions: 'Why is the iron and steel industry concentrated in the Chotanagpur region?', 'Why did the cotton textile industry shift from Mumbai?', 'Why has sugar moved to the south?'</p><ul><li>Use Weber's logic: raw material, labour, market.</li><li>Cite named plants and dates.</li><li>Finish with sustainability: water, carbon, and green steel.</li></ul>",
+   "cls": "exam"
+  }
+ ],
+ "quiz": [
+  {
+   "q": "India's first modern steel plant was at?",
+   "o": [
+    "Bhilai",
+    "Rourkela",
+    "Jamshedpur",
+    "Durgapur"
+   ],
+   "a": 2,
+   "w": "TISCO, 1907."
+  },
+  {
+   "q": "The Rourkela plant was built with help from?",
+   "o": [
+    "Germany",
+    "USSR",
+    "UK",
+    "USA"
+   ],
+   "a": 0,
+   "w": "Second Plan."
+  },
+  {
+   "q": "Bhilai was built with the help of?",
+   "o": [
+    "Soviet Union",
+    "Germany",
+    "UK",
+    "Japan"
+   ],
+   "a": 0,
+   "w": "Chhattisgarh."
+  },
+  {
+   "q": "The first cotton mill in India was near?",
+   "o": [
+    "Mumbai",
+    "Ahmedabad",
+    "Kolkata (Fort Gloster)",
+    "Coimbatore"
+   ],
+   "a": 2,
+   "w": "1818."
+  },
+  {
+   "q": "Ahmedabad is called?",
+   "o": [
+    "Detroit of India",
+    "Pittsburgh of India",
+    "Manchester of India",
+    "Ruhr of India"
+   ],
+   "a": 2,
+   "w": "A cotton centre."
+  },
+  {
+   "q": "The sugar industry stays near fields because cane?",
+   "o": [
+    "Loses sucrose after cutting",
+    "Is a mineral",
+    "Needs ports",
+    "Is a perishable fruit only"
+   ],
+   "a": 0,
+   "w": "Quick crushing is needed."
+  },
+  {
+   "q": "Sugar shifted south mainly because of?",
+   "o": [
+    "Better yields and cooperatives",
+    "Cold climate",
+    "More coal",
+    "Port access"
+   ],
+   "a": 0,
+   "w": "Longer crushing season."
+  },
+  {
+   "q": "The Vizag steel plant is operated by?",
+   "o": [
+    "TATA",
+    "SAIL",
+    "RINL",
+    "IISCO"
+   ],
+   "a": 2,
+   "w": "Rashtriya Ispat Nigam."
+  },
+  {
+   "q": "Modern steel plants are moving toward?",
+   "o": [
+    "Deserts",
+    "Mountains",
+    "Coast",
+    "Poles"
+   ],
+   "a": 2,
+   "w": "For imported coal."
+  },
+  {
+   "q": "FRP for sugarcane is set by?",
+   "o": [
+    "The Centre",
+    "State alone",
+    "Farmers",
+    "Mills"
+   ],
+   "a": 0,
+   "w": "Fair and Remunerative Price."
+  }
+ ],
+ "sources": [
+  "NCERT Class 11 and 12 Geography",
+  "Certificate Physical and Human Geography, G C Leong",
+  "Standard atlas"
+ ],
+ "verified": "2026-11-13"
+}

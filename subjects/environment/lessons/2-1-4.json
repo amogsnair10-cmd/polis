@@ -1,0 +1,176 @@
+{
+ "id": "2-1-4",
+ "title": "Forest Cover in India and the ISFR",
+ "emoji": "🌲",
+ "cards": [
+  {
+   "tag": "Why this matters",
+   "h": "Numbers asked every year",
+   "b": "<p>Each new ISFR gives fresh numbers, and Prelims often asks about the state with the highest forest cover or the target in the National Forest Policy. Mains asks whether cover really means healthy forest.</p><p>This lesson holds the definitions and the figures with their years.</p>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "The ISFR",
+   "b": "<p>The <b>India State of Forest Report (ISFR)</b> is published every <b>two years</b> by the <b>Forest Survey of India (FSI)</b>, Dehradun (set up in 1981). It uses satellite data (Resourcesat) and field checks. It reports <b>forest cover</b> (all land over one hectare with tree canopy density above 10 percent, whatever the owner) and <b>tree cover</b> (patches under one hectare, outside forest).</p><p><b>Recorded forest area</b> is a legal term for land recorded as forest in revenue records. It is different from cover.</p>"
+  },
+  {
+   "tag": "Canopy classes",
+   "h": "What dense means",
+   "b": "<ul><li><b>Very Dense Forest (VDF):</b> canopy density 70 percent and above.</li><li><b>Moderately Dense Forest (MDF):</b> 40 to 70 percent.</li><li><b>Open Forest (OF):</b> 10 to 40 percent.</li><li><b>Scrub:</b> below 10 percent.</li></ul><p>The ISFR also reports mangrove cover, carbon stock in forests, bamboo area, and forest fire alerts. India reports its forest carbon sink to the UNFCCC, and a stated goal is an additional carbon sink of <b>2.5 to 3 billion tonnes of CO2 equivalent</b> by 2030.</p>"
+  },
+  {
+   "tag": "Figures",
+   "h": "Cover over time (check the latest)",
+   "b": "<ul><li><b>ISFR 2021:</b> forest cover about <b>7.13 lakh sq km</b>, <b>21.71 percent</b> of area; tree cover 2.91 percent; total about 24.62 percent.</li><li><b>ISFR 2023:</b> forest cover about <b>7.15 lakh sq km (21.76 percent)</b>; tree cover 3.41 percent; total about <b>25.17 percent</b>.</li></ul><p><b>Madhya Pradesh</b> has the largest forest area. <b>Mizoram</b> has the highest percentage of forest cover among states (above 84 percent in ISFR 2021). Among Union Territories, <b>Lakshadweep</b> is highest. States showing large gains in recent reports include Andhra Pradesh, Odisha and Telangana, while losses are seen in the North-East.</p><svg class='d' viewBox='0 0 320 160' role='img' aria-label='Forest cover (ISFR)'><rect x='10' y='8' width='300' height='30' rx='4' fill='#dceaec' stroke='#2f6f7a'/><text x='160' y='27' font-size='11' text-anchor='middle' fill='#1d2433'>ISFR 2021: 21.71 percent forest</text><rect x='10' y='46' width='300' height='30' rx='4' fill='#dceaec' stroke='#2f6f7a'/><text x='160' y='65' font-size='11' text-anchor='middle' fill='#1d2433'>ISFR 2023: 21.76 percent forest</text><rect x='10' y='84' width='300' height='30' rx='4' fill='#dceaec' stroke='#2f6f7a'/><text x='160' y='103' font-size='11' text-anchor='middle' fill='#1d2433'>Total with trees: about 25.17 percent</text><rect x='10' y='122' width='300' height='30' rx='4' fill='#dceaec' stroke='#2f6f7a'/><text x='160' y='141' font-size='11' text-anchor='middle' fill='#1d2433'>Target (policy): 33 percent</text></svg>"
+  },
+  {
+   "tag": "Policy",
+   "h": "Targets and plans",
+   "b": "<p>The <b>National Forest Policy 1952</b> and <b>1988</b> set the goal of <b>33 percent</b> of land under forest or tree cover, with <b>66 percent</b> in hills. The 1988 policy puts conservation first and calls for people's involvement (<b>Joint Forest Management</b>, 1990). The <b>Green India Mission</b> (under NAPCC) aims to increase and improve forest cover. The <b>Compensatory Afforestation Fund Act, 2016</b> funds replanting. India's <b>Bonn Challenge</b> pledge is 26 million hectares of degraded land to be restored by 2030.</p>"
+  },
+  {
+   "tag": "Forest types",
+   "h": "Champion and Seth",
+   "b": "<p><b>Champion and Seth (1968)</b> classified Indian forests into <b>16 major types</b>. Tropical moist deciduous and tropical dry deciduous forests cover the largest area. Tropical wet evergreen forests are found in the Western Ghats, the North-East and the Andaman. Sal and teak are major timber species. Mangroves and montane types complete the list.</p><p>Plantations and monocultures can raise \"cover\" without raising biodiversity.</p>"
+  },
+  {
+   "tag": "Western Ghats",
+   "h": "Gadgil and Kasturirangan",
+   "b": "<p>The <b>Western Ghats Ecology Expert Panel</b> (Madhav Gadgil, 2011) suggested the whole range be an ecologically sensitive area with three zones. The <b>High-Level Working Group</b> (K. Kasturirangan, 2013) cut this to <b>37 percent</b> of the area (about <b>59,940 sq km</b>) as ESA across six states. States opposed both, citing farmers and mining.</p><p>MoEFCC has issued repeated draft notifications on the ESA since 2014. A final notification is still debated (as of recent years).</p>"
+  },
+  {
+   "tag": "Debate",
+   "h": "Is more cover better?",
+   "b": "<p>Critics say the ISFR counts plantations, orchards and even coconut groves as forest, so the rise masks the loss of natural forest. Open forests are growing but VDF area changes are small. Diversion of forest for mines and dams is a leading concern, and the Forest (Conservation) Amendment Act 2023 added more debates on this.</p>"
+  },
+  {
+   "tag": "Indian angle",
+   "h": "People and fire",
+   "b": "<p>About 300 million people live near forests, and Non-Timber Forest Produce (NTFP) is a key livelihood for tribal families. Forest fire is a big risk in Uttarakhand and Odisha during summer. FSI sends fire alerts to forest staff using satellite data.</p><p>Forest fire alerts, NTFP income and the 300 million forest-edge population are useful lines for a Mains answer.</p>"
+  },
+  {
+   "tag": "Exam lens",
+   "h": "How to answer",
+   "b": "<p><b>Prelims-style:</b> \"Which state has the highest forest cover in percentage?\" (Mizoram). \"Which body publishes ISFR?\" (FSI). \"National Forest Policy 1988 target?\" (33 percent).</p><p><b>Mains-style:</b> \"Examine the trends in India's forest cover. Does an increase in cover mean better forests?\" Structure: ISFR figures; types and density; plantations versus natural forests; policy tools; threats; way forward.</p>",
+   "cls": "exam"
+  }
+ ],
+ "quiz": [
+  {
+   "q": "ISFR is published by:",
+   "o": [
+    "WII",
+    "ICFRE",
+    "Forest Survey of India",
+    "BSI"
+   ],
+   "a": 2,
+   "w": "FSI is at Dehradun."
+  },
+  {
+   "q": "ISFR is published every:",
+   "o": [
+    "Five years",
+    "Two years",
+    "Ten years",
+    "Year"
+   ],
+   "a": 1,
+   "w": "A biennial report."
+  },
+  {
+   "q": "Very Dense Forest has canopy density of:",
+   "o": [
+    "70 percent and above",
+    "40 to 70 percent",
+    "10 to 40 percent",
+    "Below 10 percent"
+   ],
+   "a": 0,
+   "w": "MDF is 40 to 70."
+  },
+  {
+   "q": "National Forest Policy 1988 aims for what share under forest or tree cover?",
+   "o": [
+    "25 percent",
+    "50 percent",
+    "21 percent",
+    "33 percent"
+   ],
+   "a": 3,
+   "w": "And 66 percent in hills."
+  },
+  {
+   "q": "Which state has the largest forest area?",
+   "o": [
+    "Mizoram",
+    "Kerala",
+    "Madhya Pradesh",
+    "Assam"
+   ],
+   "a": 2,
+   "w": "Mizoram has the highest percentage."
+  },
+  {
+   "q": "Forest types of India were classified by:",
+   "o": [
+    "Rodgers and Panwar",
+    "Champion and Seth",
+    "Myers and Mittermeier",
+    "Gadgil and Kasturirangan"
+   ],
+   "a": 1,
+   "w": "Their 1968 scheme has 16 types."
+  },
+  {
+   "q": "The Kasturirangan panel proposed what share of the Western Ghats as ESA?",
+   "o": [
+    "37 percent",
+    "100 percent",
+    "10 percent",
+    "60 percent"
+   ],
+   "a": 0,
+   "w": "About 59,940 sq km."
+  },
+  {
+   "q": "India's Bonn Challenge pledge is to restore:",
+   "o": [
+    "5 million hectares",
+    "60 million hectares",
+    "3 million hectares",
+    "26 million hectares"
+   ],
+   "a": 3,
+   "w": "By 2030."
+  },
+  {
+   "q": "Joint Forest Management began in:",
+   "o": [
+    "1952",
+    "2006",
+    "1990",
+    "1980"
+   ],
+   "a": 2,
+   "w": "Following the 1988 policy."
+  },
+  {
+   "q": "Forest cover is defined as land over:",
+   "o": [
+    "Ten hectares only",
+    "One hectare with canopy above 10 percent",
+    "One acre with any trees",
+    "100 hectares"
+   ],
+   "a": 1,
+   "w": "Tree cover is in smaller patches."
+  }
+ ],
+ "sources": [
+  "Ramsar Convention Secretariat; MoEFCC and PIB",
+  "Wetlands (Conservation and Management) Rules, 2017",
+  "Shankar IAS Environment"
+ ],
+ "verified": "2026-11-13"
+}
