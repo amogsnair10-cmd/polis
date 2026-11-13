@@ -1,0 +1,176 @@
+{
+ "id": "2-0-6",
+ "title": "Plastic, Solid Waste and E-waste Rules and EPR",
+ "emoji": "♻️",
+ "cards": [
+  {
+   "tag": "Why this matters",
+   "h": "Rules are asked by name",
+   "b": "<p>Waste rules change often, and UPSC tests the latest ones. Prelims asks about EPR, the 2022 single-use plastic ban and the 3R principle. Mains asks why rules fail on the ground.</p><p>Know each rule's year and its central idea.</p>"
+  },
+  {
+   "tag": "Plastic rules",
+   "h": "The 2016 framework",
+   "b": "<p><b>Plastic Waste Management Rules 2016</b> (amended 2018, 2021, 2022) introduced <b>Extended Producer Responsibility (EPR)</b> for producers, importers and brand owners. They apply to the whole country, not only to cities. Local bodies manage collection and segregation.</p><p>The 2021 amendment banned <b>identified single-use plastic items from 1 July 2022</b>: plastic sticks for ice cream, earbuds, balloons, cutlery, plates and straws. It also raised the minimum thickness of plastic carry bags to <b>75 microns</b> from 30 September 2021 and <b>120 microns</b> from 31 December 2022.</p>"
+  },
+  {
+   "tag": "EPR",
+   "h": "Who pays",
+   "b": "<p><b>EPR</b> means producers are responsible for the waste of their product after use. They must collect or fund collection and recycling. The <b>EPR Guidelines of February 2022</b> set categories of plastic packaging, targets for recycling and use of recycled content, and an <b>online portal</b> with certificates traded between firms.</p><p>The idea comes from the <b>polluter pays principle</b>. The <b>Battery Waste Management Rules 2022</b> and <b>E-Waste (Management) Rules 2022</b> also use EPR.</p>"
+  },
+  {
+   "tag": "Solid waste",
+   "h": "SWM Rules 2016",
+   "b": "<p>The <b>Solid Waste Management Rules, 2016</b> replaced the Municipal Solid Wastes Rules of 2000. They apply beyond municipal areas and cover urban agglomerations and census towns. Waste must be <b>segregated at source</b> into wet, dry and domestic hazardous. They push composting, bio-methanation and waste-to-energy and ask for waste-picker integration.</p><p>The <b>Swachh Bharat Mission</b> (2014; Urban 2.0 in 2021) supports it. Landfill legacy sites like Ghazipur, Bhalswa and Okhla in Delhi are a burden.</p><svg class='d' viewBox='0 0 320 160' role='img' aria-label='Waste hierarchy'><rect x='10' y='8' width='300' height='30' rx='4' fill='#dceaec' stroke='#2f6f7a'/><text x='160' y='27' font-size='11' text-anchor='middle' fill='#1d2433'>Refuse and reduce</text><rect x='10' y='46' width='300' height='30' rx='4' fill='#f1e4c6' stroke='#a8792a'/><text x='160' y='65' font-size='11' text-anchor='middle' fill='#1d2433'>Reuse</text><rect x='10' y='84' width='300' height='30' rx='4' fill='#f4dcd5' stroke='#a3362a'/><text x='160' y='103' font-size='11' text-anchor='middle' fill='#1d2433'>Recycle and recover</text><rect x='10' y='122' width='300' height='30' rx='4' fill='#dceaec' stroke='#2f6f7a'/><text x='160' y='141' font-size='11' text-anchor='middle' fill='#1d2433'>Landfill: last resort</text></svg>"
+  },
+  {
+   "tag": "E-waste",
+   "h": "E-Waste (Management) Rules 2022",
+   "b": "<p>India is among the largest e-waste producers. The <b>2022 Rules</b> (effective <b>1 April 2023</b>) cover more electronic items, set <b>EPR targets and certificates</b> for producers, and bring in <b>registration of recyclers</b>. They add a <b>refurbisher</b> category and make recyclers register, so that informal and unsafe recycling is pushed out.</p><p><b>Other waste streams:</b> Bio-Medical Waste Rules 2016, Construction and Demolition Waste Rules 2016, and the <b>Hazardous and Other Wastes (Management and Transboundary Movement) Rules 2016</b>.</p>"
+  },
+  {
+   "tag": "3Rs",
+   "h": "The waste hierarchy",
+   "b": "<p>The hierarchy is <b>Reduce, Reuse, Recycle</b>, with <b>Refuse</b> and <b>Recover</b> sometimes added. Recycling is the lowest rung in preference after reduction. <b>Circular economy</b> ideas aim to keep materials in use. Biodegradable and compostable plastics need separate standards, and \"oxo-degradable\" claims are not trusted.</p><p>India generates around <b>3.5 million tonnes</b> of plastic waste each year (CPCB estimates for 2019-20).</p>"
+  },
+  {
+   "tag": "Debate",
+   "h": "Ban or manage?",
+   "b": "<p>A ban on single-use items is easy to announce but hard to enforce, since substitutes may not be cheaper or better. Informal waste pickers do most recycling and need a place in the system. EPR can shift costs to consumers and is hard to audit.</p><p>A balanced view: combine bans on low-value items, EPR for the rest, better collection and consumer awareness.</p>"
+  },
+  {
+   "tag": "Indian angle",
+   "h": "Waste and cities",
+   "b": "<p>Indore is the model for clean city ranking. Sikkim banned plastic bottles early, and several states had bag bans before the national rule. The <b>National Green Tribunal</b> has pushed states on landfills and plastic. India raised the issue at the UN Environment Assembly in 2022, where member states agreed to work towards a <b>global plastics treaty</b> (INC process, 2022 onward).</p>"
+  },
+  {
+   "tag": "Revision",
+   "h": "Rules at a glance",
+   "b": "<ul><li>PWM Rules 2016; ban on listed single-use plastic 1 July 2022.</li><li>SWM Rules 2016.</li><li>E-Waste Rules 2022, effective April 2023.</li><li>BWM Rules 2022 for batteries.</li><li>EPR: producer responsibility; online portal.</li></ul>"
+  },
+  {
+   "tag": "Exam lens",
+   "h": "How to answer",
+   "b": "<p><b>Prelims-style:</b> \"Extended Producer Responsibility is based on which principle?\" (polluter pays). \"Which year saw the ban on identified single-use plastics?\" (2022).</p><p><b>Mains-style:</b> \"Is a ban on single-use plastics enough? Suggest a comprehensive approach.\" Structure: scale; rules; EPR; informal sector; alternatives; consumer role; global treaty.</p>",
+   "cls": "exam"
+  }
+ ],
+ "quiz": [
+  {
+   "q": "EPR stands for:",
+   "o": [
+    "Extended Producer Responsibility",
+    "Environmental Pollution Regulation",
+    "Emission Permit Rule",
+    "Energy Pricing Review"
+   ],
+   "a": 0,
+   "w": "Producers bear end-of-life duty."
+  },
+  {
+   "q": "The ban on identified single-use plastic items began on:",
+   "o": [
+    "1 January 2019",
+    "2 October 2014",
+    "5 June 2020",
+    "1 July 2022"
+   ],
+   "a": 3,
+   "w": "Part of the 2021 amendment."
+  },
+  {
+   "q": "The Solid Waste Management Rules were notified in:",
+   "o": [
+    "2000",
+    "2022",
+    "2016",
+    "2010"
+   ],
+   "a": 2,
+   "w": "They replaced MSW Rules 2000."
+  },
+  {
+   "q": "Waste at source is to be segregated into:",
+   "o": [
+    "Metal and plastic only",
+    "Wet, dry and domestic hazardous",
+    "Organic only",
+    "Solid and liquid"
+   ],
+   "a": 1,
+   "w": "A key SWM Rules feature."
+  },
+  {
+   "q": "The E-Waste Rules of 2022 came into effect on:",
+   "o": [
+    "1 April 2023",
+    "1 January 2016",
+    "1 July 2022",
+    "2 October 2019"
+   ],
+   "a": 0,
+   "w": "They use EPR certificates."
+  },
+  {
+   "q": "Minimum plastic carry bag thickness from December 2022 is:",
+   "o": [
+    "50 microns",
+    "75 microns",
+    "30 microns",
+    "120 microns"
+   ],
+   "a": 3,
+   "w": "75 microns applied from September 2021."
+  },
+  {
+   "q": "Which city is a model of clean city ranking?",
+   "o": [
+    "Delhi",
+    "Mumbai",
+    "Indore",
+    "Chennai"
+   ],
+   "a": 2,
+   "w": "Top in the Swachh Survekshan for years."
+  },
+  {
+   "q": "Which rules govern battery waste under EPR?",
+   "o": [
+    "Plastic Rules 2016",
+    "Battery Waste Management Rules 2022",
+    "C&D Rules 2016",
+    "Bio-Medical Rules"
+   ],
+   "a": 1,
+   "w": "They also use EPR."
+  },
+  {
+   "q": "The polluter pays principle underlies:",
+   "o": [
+    "EPR",
+    "Carbon sink",
+    "Eco-mark",
+    "Green bonds"
+   ],
+   "a": 0,
+   "w": "Producers pay for waste."
+  },
+  {
+   "q": "Landfill legacy sites in Delhi include:",
+   "o": [
+    "Kaziranga",
+    "Kolleru",
+    "Sambhar",
+    "Ghazipur"
+   ],
+   "a": 3,
+   "w": "Also Bhalswa and Okhla."
+  }
+ ],
+ "sources": [
+  "Shankar IAS Environment",
+  "CPCB, MoEFCC and PIB",
+  "Respective Acts and Rules (official texts)"
+ ],
+ "verified": "2026-11-13"
+}

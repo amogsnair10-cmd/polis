@@ -1,0 +1,176 @@
+{
+ "id": "1-0-3",
+ "title": "Northern Plains: Bhabar, Terai, Bhangar and Khadar",
+ "emoji": "🌾",
+ "cards": [
+  {
+   "tag": "Why this matters",
+   "h": "India's food bowl has an internal order",
+   "b": "<p>The northern plains cover about 7 lakh sq km and feed hundreds of millions. They are not uniform. They vary in soil, drainage and flood risk from the foothills to the river. UPSC often asks for the sequence and the contrast between old and new alluvium.</p>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "Origin",
+   "b": "<svg class=\"d\" viewBox=\"0 0 320 184\"><rect x=\"10\" y=\"6\" width=\"300\" height=\"38\" rx=\"6\" fill=\"#f1e4c6\" stroke=\"#a8792a\" stroke-width=\"1.5\"/><text x=\"160\" y=\"22\" fill=\"#7d5a1c\" font-size=\"12\" text-anchor=\"middle\" font-weight=\"700\">Bhabar</text><text x=\"160\" y=\"37\" fill=\"#5d6474\" font-size=\"10\" text-anchor=\"middle\">Pebbly, streams vanish</text><rect x=\"10\" y=\"50\" width=\"300\" height=\"38\" rx=\"6\" fill=\"#dceaec\" stroke=\"#2f6f7a\" stroke-width=\"1.5\"/><text x=\"160\" y=\"66\" fill=\"#2f6f7a\" font-size=\"12\" text-anchor=\"middle\" font-weight=\"700\">Terai</text><text x=\"160\" y=\"81\" fill=\"#5d6474\" font-size=\"10\" text-anchor=\"middle\">Marshy, forest and farm</text><rect x=\"10\" y=\"94\" width=\"300\" height=\"38\" rx=\"6\" fill=\"#f4dcd5\" stroke=\"#a3362a\" stroke-width=\"1.5\"/><text x=\"160\" y=\"110\" fill=\"#a3362a\" font-size=\"12\" text-anchor=\"middle\" font-weight=\"700\">Bhangar</text><text x=\"160\" y=\"125\" fill=\"#5d6474\" font-size=\"10\" text-anchor=\"middle\">Old alluvium, kankar</text><rect x=\"10\" y=\"138\" width=\"300\" height=\"38\" rx=\"6\" fill=\"#f1e4c6\" stroke=\"#a8792a\" stroke-width=\"1.5\"/><text x=\"160\" y=\"154\" fill=\"#7d5a1c\" font-size=\"12\" text-anchor=\"middle\" font-weight=\"700\">Khadar</text><text x=\"160\" y=\"169\" fill=\"#5d6474\" font-size=\"10\" text-anchor=\"middle\">New alluvium, floods</text></svg><p>The plains are made of alluvium from the Himalayan rivers, laid in a deep trough (a foredeep) formed in front of the rising Himalaya. Depth of deposits is thousands of metres in places. The plains extend about 3,200 km from the Indus delta to the Ganga-Brahmaputra delta.</p>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "Bhabar",
+   "b": "<p>A narrow belt, 8-16 km wide, along the foot of the Shiwalik. Rivers drop pebbles and boulders here. The coarse deposit is so porous that streams <b>sink and disappear</b>. It suits large trees, not crops.</p>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "Terai",
+   "b": "<p>South of the Bhabar, the lost streams re-emerge in a damp, marshy belt, 15-30 km wide. It was dense forest with wildlife, much now cleared for farming (sugarcane, rice, wheat in Uttar Pradesh and Uttarakhand). Malaria used to be a problem. Dudhwa and Corbett lie on this belt.</p>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "Bhangar",
+   "b": "<p>Older alluvium. It forms the higher terraces, beyond flood reach. Often dark with lime nodules called <b>kankar</b>. Soils are rich but less renewed. Found away from the river channels.</p>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "Khadar",
+   "b": "<p>Newer alluvium in the active floodplain. Fine silt, light-coloured, replenished by yearly floods. Very fertile and ideal for rice, jute, vegetables. Floods are the cost of fertility.</p>"
+  },
+  {
+   "tag": "Key idea",
+   "h": "Bhangar vs Khadar",
+   "b": "<ul><li><b>Age</b>: Bhangar is older (Pleistocene), Khadar is newer (Holocene).</li><li><b>Position</b>: higher terraces vs lower floodplain.</li><li><b>Fertility</b>: lower in Bhangar, higher in Khadar.</li><li><b>Kankar</b>: present in Bhangar, absent in Khadar.</li><li><b>Flooding</b>: Bhangar is safe, Khadar floods often.</li></ul><p>Also remember <b>reh</b> or <b>kallar</b>: salt-affected soils, common in Haryana and Uttar Pradesh.</p>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "Regional pattern",
+   "b": "<p>Four sub-regions by rivers: <b>Punjab plains</b> (doabs between five rivers, mostly irrigated), <b>Ganga plains</b> (Haryana to West Bengal; includes the Ganga-Yamuna doab), <b>Brahmaputra plains</b> (Assam, with many river islands like Majuli) and <b>Rajasthan plain</b>, the Thar. Rainfall drops westward, from over 150 cm in the east to under 50 cm in the west.</p>"
+  },
+  {
+   "tag": "Indian angle",
+   "h": "Floods, rice and wheat",
+   "b": "<p>The plains hold the Green Revolution core (Punjab, Haryana, west UP). Bihar's Kosi, called the 'Sorrow of Bihar', shifted course by about 120 km over two centuries and flooded severely in 2008 after the Kusaha breach. Groundwater depletion in Punjab and Haryana is a serious concern, as shown by NASA GRACE data in 2009.</p>"
+  },
+  {
+   "tag": "Exam lens",
+   "h": "How to answer",
+   "b": "<p>Likely questions: 'Differentiate Bhangar and Khadar', 'Describe the physiographic features of the northern plains', 'Why are the plains densely populated?'</p><ul><li>Use a cross-section from foothills to river: Bhabar, Terai, Bhangar, Khadar.</li><li>Give a one-line fact per zone.</li><li>Link soil and water to crop patterns and population density.</li></ul>",
+   "cls": "exam"
+  }
+ ],
+ "quiz": [
+  {
+   "q": "The belt where streams disappear is the?",
+   "o": [
+    "Terai",
+    "Khadar",
+    "Bhabar",
+    "Bhangar"
+   ],
+   "a": 2,
+   "w": "Porous boulders absorb the water."
+  },
+  {
+   "q": "Streams re-emerge in the?",
+   "o": [
+    "Terai",
+    "Bhabar",
+    "Bhangar",
+    "Thar"
+   ],
+   "a": 0,
+   "w": "It is a damp, marshy belt."
+  },
+  {
+   "q": "Older alluvium is called?",
+   "o": [
+    "Bhangar",
+    "Khadar",
+    "Terai",
+    "Bhabar"
+   ],
+   "a": 0,
+   "w": "Bhangar lies on higher terraces."
+  },
+  {
+   "q": "Nodules of lime in Bhangar are?",
+   "o": [
+    "Reh",
+    "Regur",
+    "Kankar",
+    "Laterite"
+   ],
+   "a": 2,
+   "w": "Kankar is calcium carbonate concretion."
+  },
+  {
+   "q": "Khadar is renewed by?",
+   "o": [
+    "Wind",
+    "Volcanic ash",
+    "Annual floods",
+    "Glaciers"
+   ],
+   "a": 2,
+   "w": "It gets fresh silt."
+  },
+  {
+   "q": "The Sorrow of Bihar is?",
+   "o": [
+    "Kosi",
+    "Son",
+    "Gandak",
+    "Ghaghara"
+   ],
+   "a": 0,
+   "w": "The Kosi shifts its channel."
+  },
+  {
+   "q": "Majuli, a river island, lies in?",
+   "o": [
+    "Brahmaputra plain",
+    "Ganga plain",
+    "Punjab plain",
+    "Thar"
+   ],
+   "a": 0,
+   "w": "It is in Assam."
+  },
+  {
+   "q": "The Bhabar belt width is about?",
+   "o": [
+    "80 to 160 km",
+    "1 to 2 km",
+    "8 to 16 km",
+    "200 km"
+   ],
+   "a": 2,
+   "w": "It is narrow along the Shiwalik foot."
+  },
+  {
+   "q": "Salt-affected soils of the plains are called?",
+   "o": [
+    "Terai",
+    "Regur",
+    "Reh or kallar",
+    "Duar"
+   ],
+   "a": 2,
+   "w": "They have surface salts."
+  },
+  {
+   "q": "The plains lie in a?",
+   "o": [
+    "Foredeep trough",
+    "Rift valley",
+    "Volcanic crater",
+    "Karst basin"
+   ],
+   "a": 0,
+   "w": "A trough filled by alluvium before the rising Himalaya."
+  }
+ ],
+ "sources": [
+  "NCERT Class 11 and 12 Geography",
+  "Certificate Physical and Human Geography, G C Leong",
+  "Standard atlas"
+ ],
+ "verified": "2026-11-13"
+}

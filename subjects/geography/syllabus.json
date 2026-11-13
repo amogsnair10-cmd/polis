@@ -8,7 +8,9 @@
     [
      "Earth's Interior, Rocks and Plate Tectonics",
      "Earthquakes, Volcanoes and Tsunamis",
-     "Landforms and Geomorphic Processes"
+     "Landforms and Geomorphic Processes",
+     "Fluvial, Glacial and Aeolian Landforms",
+     "Folds, Faults and Mountain Building"
     ],
     1
    ],
@@ -18,7 +20,10 @@
      "Atmosphere, Insolation and Heat Budget",
      "Pressure Belts, Winds and Jet Streams",
      "Clouds, Precipitation and Cyclones",
-     "Climate Types and El Niño"
+     "Climate Types and El Niño",
+     "Koppen's Climate Classification",
+     "Air Masses, Fronts and Temperate Cyclones",
+     "Indian Ocean Dipole, La Nina and Teleconnections"
     ],
     1
    ],
@@ -26,14 +31,18 @@
     "Oceanography",
     [
      "Ocean Relief, Temperature and Salinity",
-     "Currents, Tides and Ocean Resources"
+     "Currents, Tides and Ocean Resources",
+     "Coral Reefs, Atolls and Marine Ecosystems",
+     "Mid-Ocean Ridges, Trenches and Marine Deposits"
     ],
     1
    ],
    [
     "Biogeography",
     [
-     "Soils and Natural Vegetation of the World"
+     "Soils and Natural Vegetation of the World",
+     "Biomes of the World",
+     "Biogeographic Realms and Biodiversity Hotspots"
     ],
     0
    ]
@@ -47,7 +56,11 @@
     "Physiography",
     [
      "Himalayas, Northern Plains and Peninsular Plateau",
-     "Coasts, Islands and Drainage Systems"
+     "Coasts, Islands and Drainage Systems",
+     "Himalayan Divisions, Passes and Glaciers",
+     "Northern Plains: Bhabar, Terai, Bhangar and Khadar",
+     "Western Ghats, Eastern Ghats and the Deccan Plateau",
+     "Thar Desert, Coastal Plains and Island Groups"
     ],
     1
    ],
@@ -56,7 +69,12 @@
     [
      "The Indian Monsoon",
      "Soils, Forests and Natural Vegetation of India",
-     "Water Resources and River Interlinking"
+     "Water Resources and River Interlinking",
+     "Western Disturbances, Winter and Retreating Monsoon",
+     "Himalayan Rivers: Indus, Ganga and Brahmaputra",
+     "Peninsular Rivers: Godavari, Krishna, Cauvery and Narmada",
+     "Alluvial, Black, Red and Laterite Soils",
+     "Mangroves, Wetlands and Biosphere Reserves of India"
     ],
     1
    ],
@@ -66,14 +84,20 @@
      "Agriculture: Cropping Patterns and Irrigation",
      "Minerals and Energy Resources",
      "Industrial Location and Industrial Regions",
-     "Transport and Communication"
+     "Transport and Communication",
+     "Green Revolution, Major Crops and Agro-climatic Zones",
+     "Coal, Iron Ore and Bauxite Distribution",
+     "Petroleum, Natural Gas and Renewable Energy",
+     "Iron and Steel, Cotton Textile and Sugar Industries",
+     "Ports, Railways and Inland Waterways"
     ],
     1
    ],
    [
     "Human geography of India",
     [
-     "Population, Migration and Urbanisation"
+     "Population, Migration and Urbanisation",
+     "Census Trends: Sex Ratio, Literacy and Density"
     ],
     1
    ]
@@ -87,7 +111,10 @@
     "World resources",
     [
      "Distribution of Key Natural Resources",
-     "Factors in the Location of Industries Worldwide"
+     "Factors in the Location of Industries Worldwide",
+     "Mineral and Energy Belts of the World",
+     "World Agriculture: Plantations, Wheat and Rice Belts",
+     "Major Industrial Regions of the World"
     ],
     1
    ],
@@ -95,14 +122,17 @@
     "Human geography",
     [
      "Population Theories and Settlements",
-     "Salient Features of World Physical Geography"
+     "Salient Features of World Physical Geography",
+     "Mountains, Rivers and Lakes of the World",
+     "Deserts and Grasslands of the World"
     ],
     0
    ],
    [
     "Geophysical phenomena",
     [
-     "Changes in Critical Geographical Features"
+     "Changes in Critical Geographical Features",
+     "Glacier Melt, Sea-Level Rise and the Changing Arctic"
     ],
     1
    ]
@@ -116,14 +146,16 @@
     "Disaster management",
     [
      "Disaster Types and India's Vulnerability",
-     "Disaster Management Framework in India"
+     "Disaster Management Framework in India",
+     "Floods, Droughts and Landslides in India"
     ],
     1
    ],
    [
     "Maps",
     [
-     "Map Work: India and the World"
+     "Map Work: India and the World",
+     "Straits, Gulfs and Places in the News"
     ],
     0
    ]

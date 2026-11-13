@@ -1,0 +1,176 @@
+{
+ "id": "0-1-6",
+ "title": "Indian Ocean Dipole, La Nina and Teleconnections",
+ "emoji": "🌊",
+ "cards": [
+  {
+   "tag": "Why this matters",
+   "h": "India's monsoon is tied to distant oceans",
+   "b": "<p>The Indian monsoon is not driven only by local heating. Sea temperatures in the Pacific and Indian Oceans shape it year to year. UPSC has asked about El Nino, La Nina and the Indian Ocean Dipole more than once. Learn the three systems together as <b>teleconnections</b>: climate links between far-apart places.</p>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "ENSO in one paragraph",
+   "b": "<svg class=\"d\" viewBox=\"0 0 320 140\"><rect x=\"10\" y=\"6\" width=\"300\" height=\"38\" rx=\"6\" fill=\"#f1e4c6\" stroke=\"#a8792a\" stroke-width=\"1.5\"/><text x=\"160\" y=\"22\" fill=\"#7d5a1c\" font-size=\"12\" text-anchor=\"middle\" font-weight=\"700\">El Nino</text><text x=\"160\" y=\"37\" fill=\"#5d6474\" font-size=\"10\" text-anchor=\"middle\">Warm east Pacific, weak monsoon risk</text><rect x=\"10\" y=\"50\" width=\"300\" height=\"38\" rx=\"6\" fill=\"#dceaec\" stroke=\"#2f6f7a\" stroke-width=\"1.5\"/><text x=\"160\" y=\"66\" fill=\"#2f6f7a\" font-size=\"12\" text-anchor=\"middle\" font-weight=\"700\">La Nina</text><text x=\"160\" y=\"81\" fill=\"#5d6474\" font-size=\"10\" text-anchor=\"middle\">Cool east Pacific, strong monsoon</text><rect x=\"10\" y=\"94\" width=\"300\" height=\"38\" rx=\"6\" fill=\"#f4dcd5\" stroke=\"#a3362a\" stroke-width=\"1.5\"/><text x=\"160\" y=\"110\" fill=\"#a3362a\" font-size=\"12\" text-anchor=\"middle\" font-weight=\"700\">Positive IOD</text><text x=\"160\" y=\"125\" fill=\"#5d6474\" font-size=\"10\" text-anchor=\"middle\">Warm west Indian Ocean, good monsoon</text></svg><p><b>ENSO</b> (El Nino Southern Oscillation) is a Pacific cycle. Normally trade winds push warm water west, piling it up near Indonesia, while cold water upwells off Peru. In <b>El Nino</b> the trades weaken, warm water slides east, and the Walker circulation shifts. In <b>La Nina</b> the trades strengthen and the normal pattern grows stronger.</p><p>The 'Southern Oscillation' is the pressure see-saw between Tahiti and Darwin, found by Gilbert Walker in the 1920s.</p>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "Walker circulation",
+   "b": "<p>The <b>Walker cell</b> is an east-west loop over the equatorial Pacific. Air rises over the warm western Pacific and sinks over the cool east. During El Nino it weakens or reverses. Rain moves east, so Indonesia, Australia and India tend to get less.</p><p>Sinking air over the Indian Ocean side suppresses monsoon rain in many El Nino years.</p>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "La Nina",
+   "b": "<p>La Nina means 'the girl'. Pacific water off Peru turns unusually cold. India often gets a <b>good monsoon</b> and a colder winter in the north. Australia sees floods. The southwest US gets drought.</p><p>Years can be <b>neutral</b>. Neither pattern always matches the monsoon: India had normal rain in some El Nino years.</p>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "Indian Ocean Dipole (IOD)",
+   "b": "<p>The IOD is a see-saw in sea surface temperature between the western Indian Ocean (off Africa) and the eastern part (off Sumatra). Saji and colleagues named it in 1999.</p><ul><li><b>Positive IOD</b>: western Indian Ocean warmer, east cooler. Good for the Indian monsoon, heavy rain in East Africa, drought in Indonesia and Australia.</li><li><b>Negative IOD</b>: the opposite. Weaker Indian monsoon.</li></ul>"
+  },
+  {
+   "tag": "Key idea",
+   "h": "IOD can cancel El Nino",
+   "b": "<p>In 1997 a strong El Nino was expected to hurt India, yet the monsoon was normal. A strong positive IOD compensated. In 2019 a record positive IOD helped a late but very heavy monsoon despite a weak El Nino. Remember: <b>the IOD can offset El Nino's effect on India</b>.</p>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "Other teleconnections",
+   "b": "<p><b>NAO</b> (North Atlantic Oscillation): pressure see-saw between the Azores High and the Icelandic Low, affecting European winters. <b>MJO</b> (Madden-Julian Oscillation): an eastward-moving pulse of rain with a 30-60 day cycle that causes active and break spells in the monsoon. <b>Arctic Oscillation</b>: affects cold air outbreaks.</p>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "How agencies track it",
+   "b": "<p>The <b>Oceanic Nino Index</b> (ONI) uses the Nino 3.4 region sea temperature anomaly. An anomaly of +0.5 degrees C or more for several months signals El Nino. The IOD is measured by the Dipole Mode Index, the difference between the west and east boxes. IMD and NOAA publish forecasts, and IMD uses ENSO and IOD in its monsoon outlook.</p>"
+  },
+  {
+   "tag": "Indian angle",
+   "h": "Effects on India",
+   "b": "<p>El Nino years such as 2009, 2014, 2015 and 2023 had deficient or erratic monsoon rainfall. Kharif output and food prices can be hit. La Nina years often bring floods in Assam and Bihar. The government watches ENSO to plan buffer stocks, export curbs and relief.</p><p>These patterns change; check the latest IMD outlook before the exam.</p>"
+  },
+  {
+   "tag": "Exam lens",
+   "h": "How to answer",
+   "b": "<p>Likely questions: 'Explain El Nino and its impact on India', 'What is the Indian Ocean Dipole and how does it influence the monsoon?', 'What is a teleconnection?'</p><ul><li>Draw the Pacific with normal and El Nino flows.</li><li>Give the IOD as a second layer and mention 1997 and 2019.</li><li>Close with economic effects: food prices, power demand, hydro output.</li></ul>",
+   "cls": "exam"
+  }
+ ],
+ "quiz": [
+  {
+   "q": "The Southern Oscillation was described by?",
+   "o": [
+    "Saji",
+    "Bjerknes",
+    "Gilbert Walker",
+    "Koppen"
+   ],
+   "a": 2,
+   "w": "Walker found the Tahiti-Darwin pressure see-saw in the 1920s."
+  },
+  {
+   "q": "During El Nino, Pacific trade winds?",
+   "o": [
+    "Weaken",
+    "Strengthen",
+    "Reverse completely over the Indian Ocean",
+    "Do not change"
+   ],
+   "a": 0,
+   "w": "Weak trades let warm water move east."
+  },
+  {
+   "q": "La Nina usually brings India?",
+   "o": [
+    "A good monsoon",
+    "Drought",
+    "Cyclone-free years",
+    "Heatwaves only"
+   ],
+   "a": 0,
+   "w": "La Nina years often have a strong monsoon."
+  },
+  {
+   "q": "A positive IOD means?",
+   "o": [
+    "East warmer than the west",
+    "Both colder",
+    "West Indian Ocean warmer than the east",
+    "Both warmer equally"
+   ],
+   "a": 2,
+   "w": "A warm west favours Indian monsoon rains."
+  },
+  {
+   "q": "The IOD was named in?",
+   "o": [
+    "1899",
+    "1959",
+    "1999",
+    "2009"
+   ],
+   "a": 2,
+   "w": "Saji and colleagues named it in 1999."
+  },
+  {
+   "q": "Whose strong El Nino was offset by a positive IOD?",
+   "o": [
+    "1997",
+    "2002",
+    "1987",
+    "2012"
+   ],
+   "a": 0,
+   "w": "India's 1997 monsoon was normal despite El Nino."
+  },
+  {
+   "q": "The Walker circulation is?",
+   "o": [
+    "An east-west loop over the Pacific",
+    "A north-south Hadley cell",
+    "An ocean current",
+    "A jet stream"
+   ],
+   "a": 0,
+   "w": "Air rises in the west and sinks in the east."
+  },
+  {
+   "q": "MJO has a cycle of about?",
+   "o": [
+    "3 to 5 days",
+    "1 year",
+    "30 to 60 days",
+    "10 years"
+   ],
+   "a": 2,
+   "w": "It makes active and break phases."
+  },
+  {
+   "q": "ONI uses sea surface temperature anomaly of which region?",
+   "o": [
+    "Arabian Sea",
+    "Bay of Bengal",
+    "Nino 3.4",
+    "Caribbean"
+   ],
+   "a": 2,
+   "w": "Nino 3.4 is the central Pacific box."
+  },
+  {
+   "q": "El Nino years usually mean for Indonesia and Australia?",
+   "o": [
+    "Drier conditions",
+    "Floods",
+    "Snowfall",
+    "No change"
+   ],
+   "a": 0,
+   "w": "Rain shifts east, so the west Pacific dries."
+  }
+ ],
+ "sources": [
+  "NCERT Class 11 and 12 Geography",
+  "Certificate Physical and Human Geography, G C Leong",
+  "Standard atlas"
+ ],
+ "verified": "2026-11-13"
+}

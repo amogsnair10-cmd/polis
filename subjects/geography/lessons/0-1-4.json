@@ -1,0 +1,176 @@
+{
+ "id": "0-1-4",
+ "title": "Koppen's Climate Classification",
+ "emoji": "🌦️",
+ "cards": [
+  {
+   "tag": "Why this matters",
+   "h": "One code describes a whole climate",
+   "b": "<p>Wladimir Koppen, a German-Russian climatologist, published his scheme from 1900 and refined it until 1936. Rudolf Geiger later modified it, so it is often written Koppen-Geiger. UPSC uses it to ask where a climate occurs and why, and to test map knowledge across continents.</p>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "How the code works",
+   "b": "<svg class=\"d\" viewBox=\"0 0 320 184\"><rect x=\"10\" y=\"6\" width=\"300\" height=\"38\" rx=\"6\" fill=\"#f1e4c6\" stroke=\"#a8792a\" stroke-width=\"1.5\"/><text x=\"160\" y=\"22\" fill=\"#7d5a1c\" font-size=\"12\" text-anchor=\"middle\" font-weight=\"700\">A Tropical</text><text x=\"160\" y=\"37\" fill=\"#5d6474\" font-size=\"10\" text-anchor=\"middle\">Af, Am, Aw: above 18 C</text><rect x=\"10\" y=\"50\" width=\"300\" height=\"38\" rx=\"6\" fill=\"#dceaec\" stroke=\"#2f6f7a\" stroke-width=\"1.5\"/><text x=\"160\" y=\"66\" fill=\"#2f6f7a\" font-size=\"12\" text-anchor=\"middle\" font-weight=\"700\">B Dry</text><text x=\"160\" y=\"81\" fill=\"#5d6474\" font-size=\"10\" text-anchor=\"middle\">BW desert, BS steppe</text><rect x=\"10\" y=\"94\" width=\"300\" height=\"38\" rx=\"6\" fill=\"#f4dcd5\" stroke=\"#a3362a\" stroke-width=\"1.5\"/><text x=\"160\" y=\"110\" fill=\"#a3362a\" font-size=\"12\" text-anchor=\"middle\" font-weight=\"700\">C and D</text><text x=\"160\" y=\"125\" fill=\"#5d6474\" font-size=\"10\" text-anchor=\"middle\">Temperate and cold forest</text><rect x=\"10\" y=\"138\" width=\"300\" height=\"38\" rx=\"6\" fill=\"#f1e4c6\" stroke=\"#a8792a\" stroke-width=\"1.5\"/><text x=\"160\" y=\"154\" fill=\"#7d5a1c\" font-size=\"12\" text-anchor=\"middle\" font-weight=\"700\">E Polar</text><text x=\"160\" y=\"169\" fill=\"#5d6474\" font-size=\"10\" text-anchor=\"middle\">ET tundra, EF ice cap</text></svg><p>Koppen used <b>temperature and rainfall</b> only, because natural vegetation reflects them. Each climate gets a letter code. The <b>first letter</b> gives the main group. The <b>second</b> gives the rain pattern. The <b>third</b> gives the temperature detail.</p><p>Example: <b>Am</b> means tropical monsoon. <b>Cwa</b> means humid subtropical with dry winter and hot summer.</p>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "Five main groups",
+   "b": "<p><b>A</b> Tropical: coldest month above 18 degrees C. <b>B</b> Dry: evaporation exceeds rain. <b>C</b> Warm temperate: coldest month between 18 and minus 3. <b>D</b> Cold snow-forest: coldest below minus 3, warmest above 10. <b>E</b> Polar: warmest month below 10. A sixth group, <b>H</b>, covers highland climates.</p>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "Group A: tropical",
+   "b": "<p><b>Af</b>: tropical wet, rain all year (Amazon, Congo, Indonesia). <b>Am</b>: monsoon, short dry season (Kerala, Konkan, Bangladesh). <b>Aw</b>: tropical wet and dry, or savanna, with a dry winter (central India, Brazilian plateau, East Africa).</p><p>The letters f, m, w stand for 'feucht' (wet), 'monsoon' and 'winter dry'.</p>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "Group B: dry",
+   "b": "<p><b>BW</b> is arid desert and <b>BS</b> is semi-arid steppe. A third letter shows temperature: <b>h</b> hot, <b>k</b> cold. So <b>BWh</b> is a hot desert (Sahara, Thar) and <b>BSk</b> is a cold steppe (Great Plains, Kazakh steppe).</p><p>Koppen used a formula comparing annual rain to temperature to separate dry from humid climates.</p>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "Group C and D",
+   "b": "<p>C: <b>Cs</b> Mediterranean (dry summer: California, Chile, Cape Town, Mediterranean coast), <b>Cw</b> warm with dry winter (north India plains), <b>Cf</b> humid temperate (western Europe, southeast USA).</p><p>D: <b>Df</b> cold with no dry season (Russia, Canada), <b>Dw</b> cold with dry winter (Siberia, Mongolia, northeast China). Group D exists only in the northern hemisphere, because the southern hemisphere has little land at those latitudes.</p>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "Group E: polar",
+   "b": "<p><b>ET</b> is tundra: warmest month between 0 and 10 degrees C. Mosses, lichens, no trees. <b>EF</b> is ice cap: all months below 0 degrees C. Antarctica and interior Greenland.</p>"
+  },
+  {
+   "tag": "Debate",
+   "h": "Strengths and limits",
+   "b": "<p><b>Strengths</b>: simple, uses data anyone can measure, matches vegetation closely.</p><p><b>Limits</b>: ignores wind, cloud and causes of climate. It is empirical, not genetic. Thornthwaite (1931, revised 1948) used the water balance. Trewartha later cut group C and D boundaries to better fit continental interiors.</p>"
+  },
+  {
+   "tag": "Indian angle",
+   "h": "Koppen's India",
+   "b": "<p>India has six types. <b>Amw</b>: monsoon with short dry season (Malabar and Konkan coast). <b>As</b>: dry summer, rain in winter (Coromandel coast). <b>Aw</b>: tropical savanna (most of the peninsula). <b>BShw</b>: semi-arid steppe (rain shadow of Western Ghats, Gujarat, Rajasthan east). <b>BWhw</b>: hot desert (west Rajasthan). <b>Cwg</b>: warm humid with dry winter (Ganga plain). <b>Dfc</b> and <b>E</b>: Himalaya.</p>"
+  },
+  {
+   "tag": "Exam lens",
+   "h": "How to answer",
+   "b": "<p>Likely questions: 'Compare tropical monsoon and savanna climates', 'Why is Mediterranean climate found on west coasts at 30-40 degrees?', 'Koppen's classification of India'.</p><ul><li>Always give the code, the criterion and two regions.</li><li>Explain the location with pressure belts shifting seasonally.</li><li>Mention its limits to show critical thinking.</li></ul>",
+   "cls": "exam"
+  }
+ ],
+ "quiz": [
+  {
+   "q": "Koppen's scheme is based mainly on?",
+   "o": [
+    "Pressure and wind",
+    "Soil and relief",
+    "Temperature and rainfall",
+    "Ocean currents"
+   ],
+   "a": 2,
+   "w": "He used measurable climate data matching vegetation."
+  },
+  {
+   "q": "In Koppen's scheme, group A means?",
+   "o": [
+    "Tropical",
+    "Arid",
+    "Polar",
+    "Humid temperate"
+   ],
+   "a": 0,
+   "w": "A: all months above 18 degrees C."
+  },
+  {
+   "q": "Af climate is typical of?",
+   "o": [
+    "Amazon basin",
+    "Thar desert",
+    "Siberia",
+    "Greenland"
+   ],
+   "a": 0,
+   "w": "Af is tropical rainforest, wet all year."
+  },
+  {
+   "q": "BWh denotes?",
+   "o": [
+    "Cold steppe",
+    "Tundra",
+    "Hot desert",
+    "Monsoon"
+   ],
+   "a": 2,
+   "w": "BW arid, h hot."
+  },
+  {
+   "q": "Mediterranean climate has the code?",
+   "o": [
+    "Cf",
+    "Dw",
+    "Cs",
+    "Aw"
+   ],
+   "a": 2,
+   "w": "s means a dry summer."
+  },
+  {
+   "q": "ET stands for?",
+   "o": [
+    "Tundra",
+    "Ice cap",
+    "Steppe",
+    "Savanna"
+   ],
+   "a": 0,
+   "w": "Warmest month between 0 and 10 degrees C."
+  },
+  {
+   "q": "Group D is absent in the southern hemisphere because?",
+   "o": [
+    "Little land at those latitudes",
+    "It is too warm",
+    "It is too dry",
+    "Ocean currents block it"
+   ],
+   "a": 0,
+   "w": "Continental interiors at 40-60 degrees exist only in the north."
+  },
+  {
+   "q": "Koppen-Geiger is called empirical because it?",
+   "o": [
+    "Uses satellites",
+    "Ignores rainfall",
+    "Uses observed data, not causes",
+    "Is based on soil"
+   ],
+   "a": 2,
+   "w": "It describes climates without explaining their causes."
+  },
+  {
+   "q": "Which climate is Aw?",
+   "o": [
+    "Mediterranean",
+    "Hot desert",
+    "Tropical savanna",
+    "Polar"
+   ],
+   "a": 2,
+   "w": "w means dry winter."
+  },
+  {
+   "q": "Coldest month below minus 3 degrees C and warmest above 10 degrees C is group?",
+   "o": [
+    "D",
+    "C",
+    "B",
+    "E"
+   ],
+   "a": 0,
+   "w": "D is the cold snow-forest climate."
+  }
+ ],
+ "sources": [
+  "NCERT Class 11 and 12 Geography",
+  "Certificate Physical and Human Geography, G C Leong",
+  "Standard atlas"
+ ],
+ "verified": "2026-11-13"
+}

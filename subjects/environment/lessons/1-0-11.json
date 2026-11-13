@@ -1,0 +1,176 @@
+{
+ "id": "1-0-11",
+ "title": "Invasive Alien Species and Human-Wildlife Conflict",
+ "emoji": "🌿",
+ "cards": [
+  {
+   "tag": "Why this matters",
+   "h": "Two growing problems",
+   "b": "<p>Invasive species are called the second-biggest cause of species loss after habitat destruction. Human-wildlife conflict hits farmers, forest villages and parks in many states. Both appear in Prelims (name the invasive plant) and Mains (causes and solutions).</p><p>They also show how law, ecology and livelihood meet.</p>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "What is invasive",
+   "b": "<p>An <b>alien species</b> is outside its natural range. It becomes <b>invasive</b> when it spreads, harms native species and cannot be kept in check. Causes: trade, travel, gardens, cargo ships (ballast water), aquaculture and road building. Invaders often grow fast, lack predators in the new land and outcompete natives.</p><p>The CBD (Aichi Target 9 and Kunming-Montreal Target 6) asks for control of invasives. An IPBES report (2023) said invasives cost over US$400 billion yearly worldwide.</p>"
+  },
+  {
+   "tag": "Examples",
+   "h": "Indian invaders",
+   "b": "<ul><li><b>Lantana camara:</b> thorny shrub, covers forests from Mudumalai to Corbett.</li><li><b>Water hyacinth</b> (*Eichhornia crassipes*): chokes lakes; called the \"terror of Bengal\".</li><li><b>Parthenium</b> (congress grass): allergy and crop loss.</li><li><b>Prosopis juliflora:</b> spreads in Gujarat and Tamil Nadu dry lands.</li><li><b>Mikania micrantha:</b> the \"mile-a-minute\" weed in the North-East and Kerala.</li><li><b>African catfish</b> and <b>Nile tilapia:</b> harm fish in rivers and lakes.</li><li><b>Senna spectabilis</b> has spread in Wayanad forests.</li></ul>"
+  },
+  {
+   "tag": "Law",
+   "h": "What the law says",
+   "b": "<p>The <b>Wildlife (Protection) Amendment Act, 2022</b> added a section letting the Central Government regulate or prohibit import, trade and spread of <b>invasive alien species</b>. The Biological Diversity Act 2002 (Section 38 and rules) and the Plant Quarantine Order also play roles.</p><p>The <b>IUCN</b> keeps a list of the 100 worst invasive species. The Invasive Species Specialist Group is part of IUCN.</p><p>Control methods: mechanical removal, chemical sprays and <b>biological control</b> with a natural enemy, which itself can backfire.</p><svg class='d' viewBox='0 0 320 160' role='img' aria-label='Conflict chain'><rect x='10' y='8' width='300' height='30' rx='4' fill='#f4dcd5' stroke='#a3362a'/><text x='160' y='27' font-size='11' text-anchor='middle' fill='#1d2433'>Habitat loss and corridors cut</text><rect x='10' y='46' width='300' height='30' rx='4' fill='#f4dcd5' stroke='#a3362a'/><text x='160' y='65' font-size='11' text-anchor='middle' fill='#1d2433'>Animals enter fields and villages</text><rect x='10' y='84' width='300' height='30' rx='4' fill='#f4dcd5' stroke='#a3362a'/><text x='160' y='103' font-size='11' text-anchor='middle' fill='#1d2433'>Crop loss, deaths, retaliation</text><rect x='10' y='122' width='300' height='30' rx='4' fill='#f4dcd5' stroke='#a3362a'/><text x='160' y='141' font-size='11' text-anchor='middle' fill='#1d2433'>Fix: early warning, fences, repair</text></svg>"
+  },
+  {
+   "tag": "Conflict",
+   "h": "Human-wildlife conflict",
+   "b": "<p>Conflict means harm to people, crops or livestock by animals, and killing of animals in return. Main species: <b>elephants</b>, tigers, leopards, wild boar, monkeys, nilgai and crocodiles.</p><p>Causes: forest loss and fragmentation, development in corridors, invasive weeds that reduce forage, crop raiding, and tourism. Peak sites: Odisha, Assam, Kerala, Karnataka, Uttarakhand and the Sundarbans.</p><p>The Union Government's annual compensation figures for human death by wild animals run to hundreds of lives in some years.</p>"
+  },
+  {
+   "tag": "Solutions",
+   "h": "What works",
+   "b": "<ul><li><b>Early warning</b> systems and SMS alerts (Assam, Tamil Nadu).</li><li><b>Solar fences</b>, trench barriers and chilli or bee fences.</li><li><b>Crop insurance and quick compensation.</b></li><li><b>Rapid response teams</b> and <b>elephant corridors.</b></li><li><b>Habitat restoration</b>, including removing lantana.</li><li>Translocation and sterilisation as last choices.</li></ul><p>The MoEFCC issued advisories on human-wildlife conflict in 2021. In Kerala and Uttarakhand, states have declared some species \"vermin\" for limited culling under <b>Section 62</b> of the WPA, which is controversial.</p>"
+  },
+  {
+   "tag": "Debate",
+   "h": "Cull or coexist?",
+   "b": "<p>Farmers want right to protect their crops and lives. Conservationists warn that culling and open compensation will not solve habitat loss. Some say wild boar and nilgai should be allowed controlled hunting. Others point to Schedule I animals being counted for sentiment and tourism.</p><p>A balanced answer: tailor measures to species and landscape.</p>"
+  },
+  {
+   "tag": "Indian angle",
+   "h": "Cases to quote",
+   "b": "<p>In 2016 the Centre allowed state-ordered culling of nilgai in Bihar and wild boar in Uttarakhand and Himachal Pradesh under Section 62 of the WPA. Kerala suffers from wild boar and elephant raids. The Sundarbans see tiger attacks on honey collectors.</p><p>Lantana removal in Bandipur and Mudumalai is a restoration project with local labour.</p>"
+  },
+  {
+   "tag": "Revision",
+   "h": "Quick facts",
+   "b": "<ul><li>Invasive: spreads and harms natives.</li><li>Key Indian invaders: Lantana, water hyacinth, Parthenium, Prosopis, Mikania.</li><li>WPA 2022: powers on invasive alien species.</li><li>Section 62 WPA: vermin declaration.</li><li>Solutions: early warning, fences, compensation, habitat repair.</li></ul><p>Also keep in mind that Lantana alone is estimated to cover a large share of India's forest floor, which is why restoration needs weeding at scale.</p>"
+  },
+  {
+   "tag": "Exam lens",
+   "h": "How to answer",
+   "b": "<p><b>Prelims-style:</b> \"Which is an invasive alien plant in India?\" (Lantana, water hyacinth, Parthenium). \"The 'terror of Bengal' refers to\" (water hyacinth).</p><p><b>Mains-style:</b> \"Analyse the rising human-wildlife conflict in India and suggest a way forward.\" Structure: scale; causes; law; examples; short-term fixes; long-term habitat and corridors; community role.</p>",
+   "cls": "exam"
+  }
+ ],
+ "quiz": [
+  {
+   "q": "Which weed is called the \"terror of Bengal\"?",
+   "o": [
+    "Water hyacinth",
+    "Parthenium",
+    "Lantana",
+    "Prosopis"
+   ],
+   "a": 0,
+   "w": "It chokes ponds and lakes."
+  },
+  {
+   "q": "Congress grass is another name for:",
+   "o": [
+    "Lantana",
+    "Mikania",
+    "Prosopis",
+    "Parthenium"
+   ],
+   "a": 3,
+   "w": "It causes allergies."
+  },
+  {
+   "q": "Which Act added provisions on invasive alien species in 2022?",
+   "o": [
+    "Forest Act",
+    "Biodiversity Act",
+    "Wildlife (Protection) Act",
+    "EPA 1986"
+   ],
+   "a": 2,
+   "w": "The 2022 amendment."
+  },
+  {
+   "q": "The \"mile-a-minute\" weed is:",
+   "o": [
+    "Eichhornia",
+    "Mikania micrantha",
+    "Senna",
+    "Mimosa"
+   ],
+   "a": 1,
+   "w": "It spreads in Kerala and the North-East."
+  },
+  {
+   "q": "Which Section of the WPA allows declaring wild animals vermin?",
+   "o": [
+    "Section 62",
+    "Section 38V",
+    "Section 36A",
+    "Section 9"
+   ],
+   "a": 0,
+   "w": "Used for culling in limited areas."
+  },
+  {
+   "q": "Biological control means using:",
+   "o": [
+    "Chemicals",
+    "Fire",
+    "Mowing",
+    "A natural enemy of the pest"
+   ],
+   "a": 3,
+   "w": "It can backfire."
+  },
+  {
+   "q": "Which is the biggest direct driver of species loss, ahead of invasives?",
+   "o": [
+    "Pollution",
+    "Climate",
+    "Habitat change",
+    "Overfishing"
+   ],
+   "a": 2,
+   "w": "Invasives rank among the top drivers."
+  },
+  {
+   "q": "Ballast water of ships spreads:",
+   "o": [
+    "Radioactive waste",
+    "Alien aquatic species",
+    "Oil",
+    "Plastic"
+   ],
+   "a": 1,
+   "w": "It is a major pathway."
+  },
+  {
+   "q": "Which fence idea has been used against elephants?",
+   "o": [
+    "Bee fences",
+    "Glass walls",
+    "Moats of lava",
+    "Electric trams"
+   ],
+   "a": 0,
+   "w": "Elephants avoid bees."
+  },
+  {
+   "q": "Prosopis juliflora has been spreading mainly in:",
+   "o": [
+    "Alpine meadows",
+    "Mangroves",
+    "Glaciers",
+    "Dry lands"
+   ],
+   "a": 3,
+   "w": "It spread in Gujarat and Tamil Nadu."
+  }
+ ],
+ "sources": [
+  "Shankar IAS Environment",
+  "MoEFCC, CPCB and PIB",
+  "Respective Acts and Rules (official texts)"
+ ],
+ "verified": "2026-11-13"
+}

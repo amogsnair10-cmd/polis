@@ -1,0 +1,176 @@
+{
+ "id": "0-0-4",
+ "title": "Folds, Faults and Mountain Building",
+ "emoji": "⛰️",
+ "cards": [
+  {
+   "tag": "Why this matters",
+   "h": "Mountains are a repeated UPSC theme",
+   "b": "<p>Questions ask how fold mountains form, why the Himalaya are still rising, and how block mountains differ. These are classic 'explain with a diagram' answers. The idea underneath is simple: <b>rocks bend or break when squeezed or pulled</b>.</p>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "Stress makes folds and faults",
+   "b": "<svg class=\"d\" viewBox=\"0 0 320 140\"><rect x=\"10\" y=\"6\" width=\"300\" height=\"38\" rx=\"6\" fill=\"#f1e4c6\" stroke=\"#a8792a\" stroke-width=\"1.5\"/><text x=\"160\" y=\"22\" fill=\"#7d5a1c\" font-size=\"12\" text-anchor=\"middle\" font-weight=\"700\">Compression</text><text x=\"160\" y=\"37\" fill=\"#5d6474\" font-size=\"10\" text-anchor=\"middle\">Folds: anticline, syncline, nappe</text><rect x=\"10\" y=\"50\" width=\"300\" height=\"38\" rx=\"6\" fill=\"#dceaec\" stroke=\"#2f6f7a\" stroke-width=\"1.5\"/><text x=\"160\" y=\"66\" fill=\"#2f6f7a\" font-size=\"12\" text-anchor=\"middle\" font-weight=\"700\">Tension</text><text x=\"160\" y=\"81\" fill=\"#5d6474\" font-size=\"10\" text-anchor=\"middle\">Faults: horst, graben, rift valley</text><rect x=\"10\" y=\"94\" width=\"300\" height=\"38\" rx=\"6\" fill=\"#f4dcd5\" stroke=\"#a3362a\" stroke-width=\"1.5\"/><text x=\"160\" y=\"110\" fill=\"#a3362a\" font-size=\"12\" text-anchor=\"middle\" font-weight=\"700\">Plate collision</text><text x=\"160\" y=\"125\" fill=\"#5d6474\" font-size=\"10\" text-anchor=\"middle\">Himalaya, Alps, Andes</text></svg><p><b>Compression</b> pushes rock together and makes folds. <b>Tension</b> pulls rock apart and makes faults. Plastic rock bends. Brittle rock breaks. The same force can do either, depending on rock type, depth and speed.</p><p>An <b>anticline</b> is an upfold (arch). A <b>syncline</b> is a downfold (trough). An <b>overfold</b> is a fold pushed over to one side. A <b>nappe</b> is a huge recumbent fold, found in the Alps and Himalaya.</p>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "Types of mountains",
+   "b": "<p>Four classes: <b>fold</b> (Himalaya, Alps, Rockies, Andes), <b>block</b> (Vosges, Black Forest, Sierra Nevada), <b>volcanic</b> (Mt Fuji, Mt Kilimanjaro) and <b>residual</b> or relict (Aravalli, Nilgiri, Vindhya).</p><p>Fold mountains are the youngest and highest. Residual mountains are old, worn-down remains of earlier uplifts or plateaus cut by rivers.</p>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "Faults and what they build",
+   "b": "<p>A <b>fault</b> is a break along which rock moves. <b>Normal faults</b> pull the crust apart. <b>Reverse (thrust) faults</b> push it together. <b>Strike-slip faults</b> slide sideways (San Andreas).</p><p>A raised block between faults is a <b>horst</b>. A sunken block is a <b>graben</b>. A graben that fills with water forms a <b>rift valley</b>: the Rhine, the Great Rift Valley of East Africa, the Dead Sea.</p>"
+  },
+  {
+   "tag": "Key idea",
+   "h": "Geosyncline theory",
+   "b": "<p>James Hall (1859) and James Dana studied the Appalachians. They said sediment piles up in long shallow troughs called <b>geosynclines</b>. Later, squeezing folds and uplifts that sediment into mountains. Kober (1921) called the rigid blocks around the trough <b>forelands</b> and the squeezing movement an <b>orogen</b>.</p><p>Plate tectonics replaced this idea in the 1960s, but the language of geosynclines survives in textbooks.</p>"
+  },
+  {
+   "tag": "Key idea",
+   "h": "Plate tectonics explains mountain building",
+   "b": "<p>Fold mountains form at <b>convergent boundaries</b>. In continent-continent collision (India and Eurasia) neither plate sinks easily, so the crust crumples and thickens: the Himalaya. In ocean-continent convergence the denser oceanic plate subducts: the Andes and Rockies, with volcanoes.</p><p>Where plates are pulled apart, block mountains and rift valleys form.</p>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "How the Himalaya formed",
+   "b": "<p>The Indian plate broke from Gondwana about 120 million years ago and moved north. Its collision with Eurasia started about 50 million years ago. The Tethys sea sediments were squeezed into the Himalaya in three phases: Himadri, Himachal, Shiwalik (Miocene to Pliocene).</p><p>India still moves north at around 5 cm a year. That is why the Himalaya are rising and earthquake-prone.</p>"
+  },
+  {
+   "tag": "Debate",
+   "h": "Are the Himalaya still rising?",
+   "b": "<p>Yes. GPS data show uplift of roughly a few millimetres a year in parts. But erosion by glaciers and rivers removes a lot of rock. The net height of Everest changes little. China and Nepal re-measured Everest in 2020 and announced 8,848.86 m.</p><p>Remember: rising does not mean growing taller without limit. Uplift and erosion fight each other.</p>"
+  },
+  {
+   "tag": "Indian angle",
+   "h": "India's mountain types",
+   "b": "<p><b>Fold</b>: Himalaya, Purvanchal. <b>Residual</b>: Aravalli (among the oldest fold mountains, now worn), Vindhya, Satpura, Nilgiri. <b>Block</b>: Satpura is a horst between the Narmada and Tapi rift valleys. These two rivers flow in <b>rift valleys</b> (grabens) and so form estuaries, not deltas.</p><p>The Western Ghats are the edge of a fault-scarp, formed by faulting along the west coast.</p>"
+  },
+  {
+   "tag": "Exam lens",
+   "h": "How to answer",
+   "b": "<p>Likely questions: 'Explain the origin of the Himalaya', 'Distinguish between fold and block mountains', 'Why do the Narmada and Tapi form estuaries?'</p><ul><li>Draw plates colliding with arrows and label compression.</li><li>Give three examples for each type of mountain.</li><li>Close with a hazard link: earthquakes along the Main Central Thrust.</li></ul>",
+   "cls": "exam"
+  }
+ ],
+ "quiz": [
+  {
+   "q": "An upfold of rock layers is called a?",
+   "o": [
+    "Syncline",
+    "Graben",
+    "Anticline",
+    "Nappe"
+   ],
+   "a": 2,
+   "w": "Anticline is an arch. Syncline is a trough."
+  },
+  {
+   "q": "A downthrown block between two faults is a?",
+   "o": [
+    "Graben",
+    "Horst",
+    "Nappe",
+    "Moraine"
+   ],
+   "a": 0,
+   "w": "Graben is a sunken block. Horst is a raised block."
+  },
+  {
+   "q": "Which is a block mountain?",
+   "o": [
+    "Black Forest",
+    "Alps",
+    "Andes",
+    "Himalaya"
+   ],
+   "a": 0,
+   "w": "Block mountains form by faulting, as with the Black Forest and Vosges."
+  },
+  {
+   "q": "Which is a residual mountain?",
+   "o": [
+    "Himalaya",
+    "Rockies",
+    "Aravalli",
+    "Alps"
+   ],
+   "a": 2,
+   "w": "Aravalli are very old, worn-down hills."
+  },
+  {
+   "q": "Fold mountains mainly form at which type of boundary?",
+   "o": [
+    "Divergent",
+    "Transform",
+    "Convergent",
+    "Hot spot"
+   ],
+   "a": 2,
+   "w": "Compression at convergent boundaries makes folds."
+  },
+  {
+   "q": "The Narmada and Tapi flow through?",
+   "o": [
+    "Rift valleys",
+    "Glacial valleys",
+    "Karst basins",
+    "Deltas"
+   ],
+   "a": 0,
+   "w": "They flow in faulted troughs, so they make estuaries."
+  },
+  {
+   "q": "Geosyncline theory is associated with?",
+   "o": [
+    "James Hall and Dana",
+    "Wegener",
+    "Hess",
+    "Davis"
+   ],
+   "a": 0,
+   "w": "Hall and Dana studied sediment troughs in the Appalachians."
+  },
+  {
+   "q": "About when did India-Eurasia collision begin?",
+   "o": [
+    "5 million years ago",
+    "500 million years ago",
+    "50 million years ago",
+    "150 million years ago"
+   ],
+   "a": 2,
+   "w": "The collision began in the Eocene, roughly 50 million years ago."
+  },
+  {
+   "q": "A recumbent fold pushed far over is a?",
+   "o": [
+    "Horst",
+    "Esker",
+    "Nappe",
+    "Playa"
+   ],
+   "a": 2,
+   "w": "Nappes are typical of the Alps and Himalaya."
+  },
+  {
+   "q": "The Great Rift Valley of Africa formed by?",
+   "o": [
+    "Faulting under tension",
+    "Glacial action",
+    "Wind erosion",
+    "River deposition"
+   ],
+   "a": 0,
+   "w": "Plates pulling apart create grabens and rift valleys."
+  }
+ ],
+ "sources": [
+  "NCERT Class 11 and 12 Geography",
+  "Certificate Physical and Human Geography, G C Leong",
+  "Standard atlas"
+ ],
+ "verified": "2026-11-13"
+}

@@ -1,0 +1,176 @@
+{
+ "id": "1-1-7",
+ "title": "Mangroves, Wetlands and Biosphere Reserves of India",
+ "emoji": "🌿",
+ "cards": [
+  {
+   "tag": "Why this matters",
+   "h": "Protected landscapes appear every year",
+   "b": "<p>Biosphere reserves, wetlands and mangroves are standard prelims facts and mains themes about conservation. Each sits in a legal and international framework. Know the numbers, the largest examples and the way each is protected.</p>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "Mangroves",
+   "b": "<svg class=\"d\" viewBox=\"0 0 320 140\"><rect x=\"10\" y=\"6\" width=\"300\" height=\"38\" rx=\"6\" fill=\"#f1e4c6\" stroke=\"#a8792a\" stroke-width=\"1.5\"/><text x=\"160\" y=\"22\" fill=\"#7d5a1c\" font-size=\"12\" text-anchor=\"middle\" font-weight=\"700\">Mangroves</text><text x=\"160\" y=\"37\" fill=\"#5d6474\" font-size=\"10\" text-anchor=\"middle\">Tidal forests, cyclone buffer</text><rect x=\"10\" y=\"50\" width=\"300\" height=\"38\" rx=\"6\" fill=\"#dceaec\" stroke=\"#2f6f7a\" stroke-width=\"1.5\"/><text x=\"160\" y=\"66\" fill=\"#2f6f7a\" font-size=\"12\" text-anchor=\"middle\" font-weight=\"700\">Wetlands</text><text x=\"160\" y=\"81\" fill=\"#5d6474\" font-size=\"10\" text-anchor=\"middle\">Ramsar listing, Montreux Record</text><rect x=\"10\" y=\"94\" width=\"300\" height=\"38\" rx=\"6\" fill=\"#f4dcd5\" stroke=\"#a3362a\" stroke-width=\"1.5\"/><text x=\"160\" y=\"110\" fill=\"#a3362a\" font-size=\"12\" text-anchor=\"middle\" font-weight=\"700\">Biosphere reserve</text><text x=\"160\" y=\"125\" fill=\"#5d6474\" font-size=\"10\" text-anchor=\"middle\">Core, buffer, transition</text></svg><p>Salt-tolerant forests of tidal coasts. Features: <b>pneumatophores</b> (breathing roots), prop roots, viviparous seeds, salt glands. They stabilise shores, buffer cyclones and tsunamis, and store <b>blue carbon</b>. India's mangrove area is about 4,992 sq km (ISFR 2021), about 0.15 percent of the land. West Bengal (Sundarbans) has the largest cover, then Gujarat, then Andaman and Nicobar.</p>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "Mangrove types and threats",
+   "b": "<p>Common species: Rhizophora, Avicennia, Sonneratia, and <b>Heritiera fomes</b> (sundari) in the Sundarbans. Other sites: Bhitarkanika (Odisha), Godavari-Krishna delta, Pichavaram (Tamil Nadu). Threats: aquaculture ponds, reclamation, sand mining and oil pollution. Protected by the Coastal Regulation Zone (CRZ-I). The MISHTI scheme (2023) promotes planting.</p>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "Wetlands and Ramsar",
+   "b": "<p>A wetland holds water over land, for part or all of the year. The <b>Ramsar Convention</b> (Iran, 1971) lists wetlands of international importance. India joined in 1982. As of 2024 India had over 80 Ramsar sites, among the highest in Asia (check the latest count). Examples: Chilika (first, 1981), Keoladeo, Loktak, Sundarbans, Wular, Sambhar, Ashtamudi, Vembanad, Harike.</p>"
+  },
+  {
+   "tag": "Key idea",
+   "h": "Montreux Record and rules",
+   "b": "<p>The <b>Montreux Record</b> lists Ramsar sites facing damage. In India, Loktak is on it; Chilika was listed and then removed in 2002. The Wetlands (Conservation and Management) Rules, 2017 replaced the 2010 rules and shifted powers to states. The National Plan for Conservation of Aquatic Ecosystems (NPCA) funds work.</p>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "Biosphere reserves",
+   "b": "<p>A <b>biosphere reserve</b> (BR) follows UNESCO's Man and the Biosphere programme (1971). It has three zones: <b>core</b> (strict protection), <b>buffer</b> (limited research and eco-friendly use) and <b>transition</b> (people live and work). India has 18 BRs, of which 12 are in the UNESCO network.</p><p>India's first: <b>Nilgiri</b> (1986). Other BRs: Nanda Devi, Nokrek, Manas, Sundarbans, Gulf of Mannar, Great Nicobar, Simlipal, Dibru-Saikhowa, Dehang-Debang, Pachmarhi, Achanakmar-Amarkantak, Kachchh, Cold Desert, Seshachalam, Panna, Agasthyamala, Khangchendzonga.</p>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "Reserve names and states",
+   "b": "<ul><li>Nilgiri: Tamil Nadu, Kerala, Karnataka.</li><li>Agasthyamala: Kerala, Tamil Nadu.</li><li>Sundarbans: West Bengal.</li><li>Gulf of Mannar: Tamil Nadu (marine).</li><li>Cold Desert: Himachal Pradesh (Spiti).</li><li>Nokrek: Meghalaya.</li><li>Simlipal: Odisha.</li><li>Pachmarhi: Madhya Pradesh.</li><li>Kachchh: Gujarat, the largest by area.</li></ul>"
+  },
+  {
+   "tag": "Debate",
+   "h": "People and protection",
+   "b": "<p>Core areas often displace forest dwellers. The Forest Rights Act 2006 recognises rights, but conflict persists over critical wildlife habitats. Advocates of 'fortress conservation' say people harm wildlife, while advocates of community conservation point to sacred groves and community reserves that work well.</p>"
+  },
+  {
+   "tag": "Indian angle",
+   "h": "Related categories",
+   "b": "<p>National parks (stricter), wildlife sanctuaries, conservation reserves, community reserves, all under the Wildlife (Protection) Act 1972. Biosphere reserves are not a legal category under this Act; they are an administrative designation. Ramsar sites also need no separate legal status, though many sit inside parks.</p>"
+  },
+  {
+   "tag": "Exam lens",
+   "h": "How to answer",
+   "b": "<p>Likely questions: 'Role of mangroves in coastal protection', 'What are biosphere reserves and how do they differ from national parks?', 'Ramsar sites in India'.</p><ul><li>Distinguish zones and use.</li><li>Give three examples each with states.</li><li>Link to blue carbon, cyclone buffers and livelihoods.</li></ul>",
+   "cls": "exam"
+  }
+ ],
+ "quiz": [
+  {
+   "q": "Breathing roots of mangroves are called?",
+   "o": [
+    "Rhizomes",
+    "Tendrils",
+    "Pneumatophores",
+    "Stipules"
+   ],
+   "a": 2,
+   "w": "They take in air."
+  },
+  {
+   "q": "The Ramsar Convention was signed in?",
+   "o": [
+    "1971",
+    "1951",
+    "1992",
+    "2002"
+   ],
+   "a": 0,
+   "w": "At Ramsar, Iran."
+  },
+  {
+   "q": "India's first Ramsar site was?",
+   "o": [
+    "Chilika",
+    "Loktak",
+    "Wular",
+    "Sambhar"
+   ],
+   "a": 0,
+   "w": "Declared in 1981."
+  },
+  {
+   "q": "India's first biosphere reserve is?",
+   "o": [
+    "Sundarbans",
+    "Nanda Devi",
+    "Nilgiri",
+    "Manas"
+   ],
+   "a": 2,
+   "w": "1986."
+  },
+  {
+   "q": "The three zones of a biosphere reserve are?",
+   "o": [
+    "Wet, dry, mixed",
+    "Coast, plain, hill",
+    "Core, buffer, transition",
+    "Alpha, beta, gamma"
+   ],
+   "a": 2,
+   "w": "UNESCO's zoning."
+  },
+  {
+   "q": "The Montreux Record lists?",
+   "o": [
+    "Ramsar sites under threat",
+    "World heritage in danger",
+    "Endangered species",
+    "Marine parks"
+   ],
+   "a": 0,
+   "w": "A list of sites facing change."
+  },
+  {
+   "q": "The Sundarbans mangroves mainly feature?",
+   "o": [
+    "Sundari",
+    "Teak",
+    "Sal",
+    "Deodar"
+   ],
+   "a": 0,
+   "w": "Heritiera fomes."
+  },
+  {
+   "q": "Gulf of Mannar is a biosphere reserve for?",
+   "o": [
+    "Desert life",
+    "Himalayan flora",
+    "Marine life and coral",
+    "Saffron"
+   ],
+   "a": 2,
+   "w": "It is marine."
+  },
+  {
+   "q": "The Man and the Biosphere programme began in?",
+   "o": [
+    "1945",
+    "1985",
+    "1971",
+    "2000"
+   ],
+   "a": 2,
+   "w": "UNESCO."
+  },
+  {
+   "q": "Blue carbon refers to carbon stored in?",
+   "o": [
+    "Coastal and marine ecosystems",
+    "Deep rocks",
+    "Forests on hills",
+    "Coal"
+   ],
+   "a": 0,
+   "w": "Mangroves, seagrass, salt marsh."
+  }
+ ],
+ "sources": [
+  "NCERT Class 11 and 12 Geography",
+  "Certificate Physical and Human Geography, G C Leong",
+  "Standard atlas"
+ ],
+ "verified": "2026-11-13"
+}

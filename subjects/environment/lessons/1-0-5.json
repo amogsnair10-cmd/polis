@@ -1,0 +1,176 @@
+{
+ "id": "1-0-5",
+ "title": "Biosphere Reserves in India and the MAB Programme",
+ "emoji": "🌐",
+ "cards": [
+  {
+   "tag": "Why this matters",
+   "h": "Often mixed with parks",
+   "b": "<p>Biosphere reserves are a Prelims favourite because the statements mix them with national parks and sanctuaries. The big difference: biosphere reserves are not created by the Wildlife (Protection) Act. They are a UNESCO idea carried out through the central government.</p><p>Learn the zones, the list and the first one.</p>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "The MAB Programme",
+   "b": "<p>UNESCO launched the <b>Man and the Biosphere (MAB) Programme</b> in 1971. The World Network of Biosphere Reserves (WNBR) began in 1976. Sites stay under national law and are nominated by countries.</p><p>An Indian biosphere reserve is declared by the central government on the scheme <b>Biosphere Reserve Programme</b>, run by the Ministry of Environment, Forest and Climate Change (MoEFCC). It tries to join conservation with use by local people.</p>"
+  },
+  {
+   "tag": "Three zones",
+   "h": "Core, buffer, transition",
+   "b": "<p>Each reserve is arranged in three zones.</p><ul><li><b>Core:</b> legally protected, minimal human activity, undisturbed.</li><li><b>Buffer:</b> surrounds the core; research, education and limited use allowed.</li><li><b>Transition:</b> outer area where people live and farm, working with managers.</li></ul><p>Three functions: <b>conservation</b>, <b>development</b> (sustainable) and <b>logistic support</b> (research and monitoring).</p>"
+  },
+  {
+   "tag": "First and famous",
+   "h": "India's list",
+   "b": "<p>India's first biosphere reserve was the <b>Nilgiri</b> (1986), spanning Tamil Nadu, Kerala and Karnataka. India has <b>18 biosphere reserves</b> designated by the government. Examples:</p><ul><li>Nanda Devi (Uttarakhand), Khangchendzonga (Sikkim), Nokrek (Meghalaya)</li><li>Sundarbans (West Bengal), Gulf of Mannar (Tamil Nadu)</li><li>Great Nicobar, Simlipal (Odisha), Pachmarhi (Madhya Pradesh)</li><li>Achanakmar-Amarkantak, Agasthyamala, Panna, Dibru-Saikhowa, Dihang-Dibang</li></ul><p>The UNESCO network includes about twelve of these (as of 2020; check the latest).</p><svg class='d' viewBox='0 0 320 160' role='img' aria-label='Biosphere reserve zones'><rect x='10' y='8' width='300' height='30' rx='4' fill='#dceaec' stroke='#2f6f7a'/><text x='160' y='27' font-size='11' text-anchor='middle' fill='#1d2433'>Core: strictly protected</text><rect x='10' y='46' width='300' height='30' rx='4' fill='#f1e4c6' stroke='#a8792a'/><text x='160' y='65' font-size='11' text-anchor='middle' fill='#1d2433'>Buffer: research, limited use</text><rect x='10' y='84' width='300' height='30' rx='4' fill='#f4dcd5' stroke='#a3362a'/><text x='160' y='103' font-size='11' text-anchor='middle' fill='#1d2433'>Transition: people and farms</text><rect x='10' y='122' width='300' height='30' rx='4' fill='#dceaec' stroke='#2f6f7a'/><text x='160' y='141' font-size='11' text-anchor='middle' fill='#1d2433'>Link: three functions</text></svg>"
+  },
+  {
+   "tag": "Special cases",
+   "h": "What to remember",
+   "b": "<ul><li><b>Gulf of Mannar</b> was the first marine biosphere reserve in South Asia.</li><li><b>Sundarbans</b> is a mangrove and tiger landscape, also a Ramsar site and World Heritage Site.</li><li><b>Nanda Devi</b> and <b>Valley of Flowers</b> are a World Heritage Site together.</li><li><b>Panna</b> (2020) was among the recent UNESCO additions.</li></ul><p>Check whether a name asked in an exam is in the UNESCO list or only the Indian list.</p>"
+  },
+  {
+   "tag": "Versus parks",
+   "h": "How they differ",
+   "b": "<p>A <b>national park</b> has fixed legal boundaries and bans grazing and private rights. A <b>biosphere reserve</b> is larger, has zones, and may include national parks and sanctuaries inside. A <b>conservation reserve</b> and <b>community reserve</b> are WPA categories on government and community land.</p><p>So a biosphere reserve is a planning layer. The legal teeth come from the park or sanctuary inside it.</p>"
+  },
+  {
+   "tag": "Debate",
+   "h": "Paper reserves?",
+   "b": "<p>Critics say biosphere reserves lack a dedicated law, so rules in buffer and transition zones are weak. Local people may not gain from them. Funding is thin, and boundaries are often drawn without community consent.</p><p>Supporters argue they are the only model that accepts people living in a landscape, which fits India.</p>"
+  },
+  {
+   "tag": "Indian angle",
+   "h": "Why this suits India",
+   "b": "<p>Many Indian reserves are home to forest communities. Tribal groups in Nilgiri (Todas, Kotas) and Nokrek (Garo) depend on resources there. The <b>Forest Rights Act 2006</b> and joint forest management link to biosphere zones. In Sundarbans, mangrove fishing and honey collection need regulated use.</p><p>The Nilgiri reserve also protects the Silent Valley and Mukurthi areas, and holds the Nilgiri tahr and the lion-tailed macaque.</p>"
+  },
+  {
+   "tag": "Revision",
+   "h": "Quick facts",
+   "b": "<ul><li>MAB launched: 1971.</li><li>First Indian reserve: Nilgiri, 1986.</li><li>Zones: core, buffer, transition.</li><li>Not created by the Wildlife (Protection) Act.</li><li>Nodal ministry: MoEFCC.</li></ul><p>Sundarbans, Nanda Devi, Gulf of Mannar and Nilgiri are the most asked names. A good habit is to link each reserve with its state and its flagship species before the exam.</p>"
+  },
+  {
+   "tag": "Exam lens",
+   "h": "How to answer",
+   "b": "<p><b>Prelims-style:</b> \"Which of the following are biosphere reserves?\" Check Nokrek, Simlipal, Pachmarhi. Remember that Kanha is a tiger reserve and national park, not a biosphere reserve.</p><p><b>Mains-style:</b> \"How are biosphere reserves different from national parks? Do they help both conservation and people?\" Structure: definition; zones; difference; examples; limits; reform.</p>",
+   "cls": "exam"
+  }
+ ],
+ "quiz": [
+  {
+   "q": "The MAB Programme was launched by:",
+   "o": [
+    "UNEP in 1972",
+    "IUCN in 1948",
+    "UNESCO in 1971",
+    "WWF in 1961"
+   ],
+   "a": 2,
+   "w": "It started in 1971."
+  },
+  {
+   "q": "India's first biosphere reserve (1986) was:",
+   "o": [
+    "Sundarbans",
+    "Nilgiri",
+    "Nanda Devi",
+    "Gulf of Mannar"
+   ],
+   "a": 1,
+   "w": "Nilgiri covers three states."
+  },
+  {
+   "q": "Which zone of a biosphere reserve is legally protected and undisturbed?",
+   "o": [
+    "Core",
+    "Buffer",
+    "Transition",
+    "Periphery"
+   ],
+   "a": 0,
+   "w": "Core is the most protected zone."
+  },
+  {
+   "q": "Biosphere reserves in India are not created under:",
+   "o": [
+    "Any UNESCO decision",
+    "Any central scheme",
+    "Any state order",
+    "The Wildlife Protection Act"
+   ],
+   "a": 3,
+   "w": "They are a scheme-based designation."
+  },
+  {
+   "q": "Gulf of Mannar is best known as:",
+   "o": [
+    "Tiger reserve",
+    "Desert park",
+    "Marine biosphere reserve",
+    "Bird sanctuary only"
+   ],
+   "a": 2,
+   "w": "It is in Tamil Nadu."
+  },
+  {
+   "q": "How many biosphere reserves has India designated?",
+   "o": [
+    "7",
+    "18",
+    "12",
+    "25"
+   ],
+   "a": 1,
+   "w": "As of recent years; UNESCO recognises about twelve."
+  },
+  {
+   "q": "Which is a biosphere reserve in Meghalaya?",
+   "o": [
+    "Nokrek",
+    "Kaziranga",
+    "Manas",
+    "Dampa"
+   ],
+   "a": 0,
+   "w": "Nokrek is the Garo Hills reserve."
+  },
+  {
+   "q": "Which Ministry runs the Biosphere Reserve Programme?",
+   "o": [
+    "Ministry of Tribal Affairs",
+    "Ministry of Jal Shakti",
+    "NITI Aayog",
+    "MoEFCC"
+   ],
+   "a": 3,
+   "w": "The nodal ministry is MoEFCC."
+  },
+  {
+   "q": "The buffer zone allows:",
+   "o": [
+    "No human activity at all",
+    "Heavy industry",
+    "Limited research and education",
+    "Mining leases"
+   ],
+   "a": 2,
+   "w": "It protects the core from outside pressures."
+  },
+  {
+   "q": "Which of these is a World Heritage and Ramsar site as well as a biosphere reserve?",
+   "o": [
+    "Pachmarhi",
+    "Sundarbans",
+    "Agasthyamala",
+    "Great Nicobar"
+   ],
+   "a": 1,
+   "w": "Sundarbans holds all three tags."
+  }
+ ],
+ "sources": [
+  "Shankar IAS Environment",
+  "MoEFCC and PIB",
+  "Conservation International; UNEP-WCMC"
+ ],
+ "verified": "2026-11-13"
+}

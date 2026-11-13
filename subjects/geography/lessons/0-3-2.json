@@ -1,0 +1,176 @@
+{
+ "id": "0-3-2",
+ "title": "Biogeographic Realms and Biodiversity Hotspots",
+ "emoji": "🦜",
+ "cards": [
+  {
+   "tag": "Why this matters",
+   "h": "Where life is rich, and where it is at risk",
+   "b": "<p>Biogeography asks why species live where they do. Hotspot ideas guide conservation money and policy. UPSC mixes this with environment: 'Which of these is a hotspot?' and 'Why is the Western Ghats a hotspot?' appear again and again.</p>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "Wallace's realms",
+   "b": "<svg class=\"d\" viewBox=\"0 0 320 140\"><rect x=\"10\" y=\"6\" width=\"300\" height=\"38\" rx=\"6\" fill=\"#f1e4c6\" stroke=\"#a8792a\" stroke-width=\"1.5\"/><text x=\"160\" y=\"22\" fill=\"#7d5a1c\" font-size=\"12\" text-anchor=\"middle\" font-weight=\"700\">Realms</text><text x=\"160\" y=\"37\" fill=\"#5d6474\" font-size=\"10\" text-anchor=\"middle\">Wallace's six regions</text><rect x=\"10\" y=\"50\" width=\"300\" height=\"38\" rx=\"6\" fill=\"#dceaec\" stroke=\"#2f6f7a\" stroke-width=\"1.5\"/><text x=\"160\" y=\"66\" fill=\"#2f6f7a\" font-size=\"12\" text-anchor=\"middle\" font-weight=\"700\">Hotspot test</text><text x=\"160\" y=\"81\" fill=\"#5d6474\" font-size=\"10\" text-anchor=\"middle\">1,500 endemic plants, 70 percent loss</text><rect x=\"10\" y=\"94\" width=\"300\" height=\"38\" rx=\"6\" fill=\"#f4dcd5\" stroke=\"#a3362a\" stroke-width=\"1.5\"/><text x=\"160\" y=\"110\" fill=\"#a3362a\" font-size=\"12\" text-anchor=\"middle\" font-weight=\"700\">Priority</text><text x=\"160\" y=\"125\" fill=\"#5d6474\" font-size=\"10\" text-anchor=\"middle\">Where saving land saves most species</text></svg><p>Alfred Russel Wallace (1876, <i>The Geographical Distribution of Animals</i>) divided the land into zoogeographic regions: <b>Nearctic</b>, <b>Neotropical</b>, <b>Palaearctic</b>, <b>Ethiopian</b> (Afrotropical), <b>Oriental</b> (Indomalayan) and <b>Australasian</b>. Realms differ because continents were separated for long periods, which let unique species evolve.</p>"
+  },
+  {
+   "tag": "Key idea",
+   "h": "Wallace Line and island biogeography",
+   "b": "<p>Wallace noticed that animals differ sharply across a narrow strait between Bali and Lombok. West of it, Asian animals; east of it, Australian types like marsupials. This is the <b>Wallace Line</b>. MacArthur and Wilson (1967, <i>The Theory of Island Biogeography</i>) showed that bigger, nearer islands hold more species. This idea guides the design of reserves.</p>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "Endemism and speciation",
+   "b": "<p>A species is <b>endemic</b> if found nowhere else. Islands and isolated mountains hold many. <b>Adaptive radiation</b>: one ancestor splits into many forms (Darwin's finches in the Galapagos). <b>Convergent evolution</b>: unrelated species look alike in similar habitats (sharks and dolphins). Madagascar split from India and Africa and holds lemurs found nowhere else.</p>"
+  },
+  {
+   "tag": "Key idea",
+   "h": "The hotspot concept",
+   "b": "<p>Norman Myers proposed it in 1988. Conservation International later fixed the criteria: at least <b>1,500 endemic vascular plant species</b> (0.5 percent of the world total) and at least <b>70 percent of the original habitat lost</b>. Hotspots cover about 2.5 percent of land but hold over half of the world's endemic plant species.</p>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "How many hotspots?",
+   "b": "<p>The count was 25 in 2000, 34 in 2005, and <b>36</b> now after the addition of the North American Coastal Plain in 2016 and the Forests of East Australia in 2017. Examples: Tropical Andes, Mesoamerica, Caribbean, Atlantic Forest, Cerrado, Mediterranean Basin, Madagascar, Cape Floristic Region, Sundaland, Wallacea, Philippines, Japan.</p>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "Megadiverse countries",
+   "b": "<p>Seventeen countries hold most of the world's species. The list includes Brazil, Colombia, Indonesia, China, Mexico, Peru, Ecuador, Venezuela, USA, Australia, Madagascar, South Africa, DR Congo, Philippines, Malaysia, Papua New Guinea and <b>India</b>. India has about 7-8 percent of recorded species on 2.4 percent of the land.</p>"
+  },
+  {
+   "tag": "Indian angle",
+   "h": "India's hotspots",
+   "b": "<p>India has four: the <b>Himalaya</b>, the <b>Western Ghats and Sri Lanka</b>, <b>Indo-Burma</b> (northeast India) and <b>Sundaland</b> (the Nicobar Islands). The Western Ghats are older than the Himalaya, rich in endemics such as the Nilgiri tahr and lion-tailed macaque, and a UNESCO World Heritage Site since 2012.</p>"
+  },
+  {
+   "tag": "Debate",
+   "h": "Hotspots or whole landscapes?",
+   "b": "<p>Critics say hotspots miss places rich in species but not threatened, such as the high-forest Amazon, and may ignore ecosystem services. Others support them as a clear, cheap way to rank priorities. Some conservationists prefer <b>global 200 ecoregions</b> or <b>key biodiversity areas</b>.</p>"
+  },
+  {
+   "tag": "Exam lens",
+   "h": "How to answer",
+   "b": "<p>Likely questions: 'What are biodiversity hotspots? Why is the Western Ghats one?', 'Criteria for hotspots', 'Which Indian regions are part of hotspots?'</p><ul><li>Give two criteria and the Myers date.</li><li>Name four Indian hotspots with their states.</li><li>Finish with threats: habitat loss, invasive species, mining, linear infrastructure.</li></ul>",
+   "cls": "exam"
+  }
+ ],
+ "quiz": [
+  {
+   "q": "The hotspot concept was proposed by?",
+   "o": [
+    "E O Wilson",
+    "Wallace",
+    "Norman Myers",
+    "Darwin"
+   ],
+   "a": 2,
+   "w": "Myers introduced it in 1988."
+  },
+  {
+   "q": "A hotspot must have at least how many endemic plant species?",
+   "o": [
+    "1,500",
+    "500",
+    "5,000",
+    "15,000"
+   ],
+   "a": 0,
+   "w": "The criterion is 1,500 endemic vascular plants."
+  },
+  {
+   "q": "A hotspot must have lost at least how much original habitat?",
+   "o": [
+    "70 percent",
+    "10 percent",
+    "30 percent",
+    "95 percent"
+   ],
+   "a": 0,
+   "w": "At least 70 percent of primary vegetation lost."
+  },
+  {
+   "q": "Which is NOT a hotspot in India?",
+   "o": [
+    "Himalaya",
+    "Indo-Burma",
+    "Deccan Plateau",
+    "Western Ghats and Sri Lanka"
+   ],
+   "a": 2,
+   "w": "The Deccan is not listed."
+  },
+  {
+   "q": "The Wallace Line passes between?",
+   "o": [
+    "Java and Sumatra",
+    "Sri Lanka and India",
+    "Bali and Lombok",
+    "Borneo and Brunei"
+   ],
+   "a": 2,
+   "w": "It separates Asian from Australian fauna."
+  },
+  {
+   "q": "Theory of Island Biogeography was by?",
+   "o": [
+    "MacArthur and Wilson",
+    "Hess and Dietz",
+    "Myers and Mittermeier",
+    "Koppen and Geiger"
+   ],
+   "a": 0,
+   "w": "Published in 1967."
+  },
+  {
+   "q": "Species found only in one place are?",
+   "o": [
+    "Endemic",
+    "Invasive",
+    "Keystone",
+    "Cosmopolitan"
+   ],
+   "a": 0,
+   "w": "Endemic means restricted to one area."
+  },
+  {
+   "q": "Which realm covers Australia?",
+   "o": [
+    "Oriental",
+    "Ethiopian",
+    "Australasian",
+    "Nearctic"
+   ],
+   "a": 2,
+   "w": "Home to marsupials."
+  },
+  {
+   "q": "The number of recognised hotspots today is about?",
+   "o": [
+    "10",
+    "25",
+    "36",
+    "50"
+   ],
+   "a": 2,
+   "w": "25 in 2000, 34 in 2005, 36 now."
+  },
+  {
+   "q": "Darwin's finches illustrate?",
+   "o": [
+    "Adaptive radiation",
+    "Convergent evolution",
+    "Extinction",
+    "Migration"
+   ],
+   "a": 0,
+   "w": "One ancestor diversified into many beak forms."
+  }
+ ],
+ "sources": [
+  "NCERT Class 11 and 12 Geography",
+  "Certificate Physical and Human Geography, G C Leong",
+  "Standard atlas"
+ ],
+ "verified": "2026-11-13"
+}

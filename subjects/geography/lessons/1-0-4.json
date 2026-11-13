@@ -1,0 +1,176 @@
+{
+ "id": "1-0-4",
+ "title": "Western Ghats, Eastern Ghats and the Deccan Plateau",
+ "emoji": "⛰️",
+ "cards": [
+  {
+   "tag": "Why this matters",
+   "h": "The plateau shapes rivers, rain and minerals",
+   "b": "<p>The Peninsular plateau is among the oldest landmasses on Earth. It holds minerals, black soil and the ghat escarpments that catch the monsoon. UPSC asks for comparisons of the two Ghats and for how the plateau's relief controls rivers.</p>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "Structure of the plateau",
+   "b": "<svg class=\"d\" viewBox=\"0 0 320 140\"><rect x=\"10\" y=\"6\" width=\"300\" height=\"38\" rx=\"6\" fill=\"#f1e4c6\" stroke=\"#a8792a\" stroke-width=\"1.5\"/><text x=\"160\" y=\"22\" fill=\"#7d5a1c\" font-size=\"12\" text-anchor=\"middle\" font-weight=\"700\">Western Ghats</text><text x=\"160\" y=\"37\" fill=\"#5d6474\" font-size=\"10\" text-anchor=\"middle\">Steep, continuous, heavy rain</text><rect x=\"10\" y=\"50\" width=\"300\" height=\"38\" rx=\"6\" fill=\"#dceaec\" stroke=\"#2f6f7a\" stroke-width=\"1.5\"/><text x=\"160\" y=\"66\" fill=\"#2f6f7a\" font-size=\"12\" text-anchor=\"middle\" font-weight=\"700\">Deccan Plateau</text><text x=\"160\" y=\"81\" fill=\"#5d6474\" font-size=\"10\" text-anchor=\"middle\">Basalt, black soil, slopes east</text><rect x=\"10\" y=\"94\" width=\"300\" height=\"38\" rx=\"6\" fill=\"#f4dcd5\" stroke=\"#a3362a\" stroke-width=\"1.5\"/><text x=\"160\" y=\"110\" fill=\"#a3362a\" font-size=\"12\" text-anchor=\"middle\" font-weight=\"700\">Eastern Ghats</text><text x=\"160\" y=\"125\" fill=\"#5d6474\" font-size=\"10\" text-anchor=\"middle\">Broken, lower, river gaps</text></svg><p>A tilted tableland of ancient crystalline rock from Gondwana times. It slopes <b>east</b>, so major peninsular rivers flow to the Bay of Bengal. Subdivisions: <b>Central Highlands</b> (Malwa plateau, Bundelkhand, Baghelkhand), <b>Deccan Plateau</b> (Maharashtra, Karnataka, Telangana), <b>Chotanagpur Plateau</b> (Jharkhand, mineral-rich), and the northeastern extension (Meghalaya Plateau).</p>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "Deccan Trap",
+   "b": "<p>Northwest Deccan is covered by <b>basalt</b> from huge fissure eruptions about 66 million years ago, near the end of the Cretaceous. These lavas weather into <b>regur</b> (black) soil. The Deccan eruptions have been linked with the dinosaur extinction, along with the Chicxulub impact in Mexico.</p>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "Western Ghats (Sahyadri)",
+   "b": "<p>Run parallel to the west coast for about 1,600 km from the Tapi to Kanyakumari. Continuous, steep on the western side, broken only by the <b>Palghat Gap</b>. Higher peaks: <b>Anai Mudi</b> (2,695 m, Kerala, highest in peninsula), Doddabetta in the Nilgiris. Passes: Thal Ghat, Bhor Ghat, Palghat. They cause heavy orographic rain on the windward side.</p>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "Eastern Ghats",
+   "b": "<p>Broken, discontinuous hills along the east coast, cut by the Mahanadi, Godavari, Krishna and Kaveri. Highest point <b>Mahendragiri</b> (about 1,501 m, Odisha) or Jindhagada Peak (about 1,690 m, Andhra) depending on the source. Lower and older than the Western Ghats. They meet the Western Ghats at the <b>Nilgiris</b>.</p>"
+  },
+  {
+   "tag": "Key idea",
+   "h": "Western vs Eastern Ghats",
+   "b": "<ul><li><b>Continuity</b>: Western continuous, Eastern broken by rivers.</li><li><b>Height</b>: Western averages about 900-1,600 m; Eastern about 600 m.</li><li><b>Rainfall</b>: Western heavy; the Eastern side gets less.</li><li><b>Rivers</b>: Western Ghats are the source of the Godavari and Krishna; Eastern are cut through by them.</li><li><b>Forests</b>: Western moist evergreen; Eastern deciduous.</li></ul>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "Hills of the plateau",
+   "b": "<p><b>Aravalli</b>: oldest fold mountain, Guru Shikhar (Mt Abu, 1,722 m) is the highest. <b>Vindhya</b> and <b>Satpura</b> form the divide between north and peninsular India; the Narmada lies between them. <b>Mahadeo</b> hills and Pachmarhi in Madhya Pradesh. <b>Nilgiri</b> hills hold Ooty. <b>Cardamom</b> and <b>Palani</b> hills in the south. <b>Rajmahal</b> hills in Jharkhand.</p>"
+  },
+  {
+   "tag": "Debate",
+   "h": "Western Ghats: protection vs development",
+   "b": "<p>The Gadgil Committee (2011) proposed to treat the whole range as ecologically sensitive, with three zones. The Kasturirangan Committee (2013) reduced it to about 37 percent of the area. States resisted because of mining, dams and plantations. The Wayanad landslide of July 2024 revived the debate.</p>"
+  },
+  {
+   "tag": "Indian angle",
+   "h": "Minerals and rivers",
+   "b": "<p>The plateau holds most of India's coal, iron ore, manganese, mica and bauxite, especially in the Chotanagpur belt. Rivers such as the Godavari and Krishna start in the west and flow east through the plateau. The Narmada and Tapi flow west through rift valleys.</p>"
+  },
+  {
+   "tag": "Exam lens",
+   "h": "How to answer",
+   "b": "<p>Likely questions: 'Compare the Western and Eastern Ghats', 'Importance of the Western Ghats', 'Why do most peninsular rivers flow east?'</p><ul><li>Use a comparison table: length, height, continuity, rain, vegetation, passes.</li><li>Mention the Palghat Gap and the Nilgiri junction.</li><li>For rivers: tilt of the plateau and the west coast rift-fault.</li></ul>",
+   "cls": "exam"
+  }
+ ],
+ "quiz": [
+  {
+   "q": "The highest peak of the Western Ghats region (peninsular India) is?",
+   "o": [
+    "Doddabetta",
+    "Mahendragiri",
+    "Anai Mudi",
+    "Guru Shikhar"
+   ],
+   "a": 2,
+   "w": "Anai Mudi is 2,695 m."
+  },
+  {
+   "q": "The break in the Western Ghats near Kerala is the?",
+   "o": [
+    "Palghat Gap",
+    "Bhor Ghat",
+    "Thal Ghat",
+    "Bomdi La"
+   ],
+   "a": 0,
+   "w": "It connects Kerala and Tamil Nadu."
+  },
+  {
+   "q": "Eastern Ghats are broken by?",
+   "o": [
+    "Rivers",
+    "Glaciers",
+    "Faults only",
+    "Dunes"
+   ],
+   "a": 0,
+   "w": "Mahanadi, Godavari, Krishna and Kaveri cut them."
+  },
+  {
+   "q": "The Deccan Trap is made of?",
+   "o": [
+    "Granite",
+    "Limestone",
+    "Basalt",
+    "Sandstone"
+   ],
+   "a": 2,
+   "w": "It comes from lava flows."
+  },
+  {
+   "q": "Deccan basalt weathers into?",
+   "o": [
+    "Laterite",
+    "Alluvium",
+    "Regur (black soil)",
+    "Podzol"
+   ],
+   "a": 2,
+   "w": "Black cotton soil."
+  },
+  {
+   "q": "The Western and Eastern Ghats meet at the?",
+   "o": [
+    "Nilgiris",
+    "Aravalli",
+    "Satpura",
+    "Rajmahal"
+   ],
+   "a": 0,
+   "w": "The Nilgiris form the junction."
+  },
+  {
+   "q": "The highest peak of the Aravalli is?",
+   "o": [
+    "Guru Shikhar",
+    "Anai Mudi",
+    "Dhupgarh",
+    "Nanda Devi"
+   ],
+   "a": 0,
+   "w": "At Mt Abu, 1,722 m."
+  },
+  {
+   "q": "The Gadgil Committee dealt with?",
+   "o": [
+    "Forest rights",
+    "Coastal zones",
+    "Western Ghats ecology",
+    "Himalayan tourism"
+   ],
+   "a": 2,
+   "w": "It reported in 2011."
+  },
+  {
+   "q": "The Chotanagpur Plateau is known for?",
+   "o": [
+    "Tea",
+    "Saffron",
+    "Minerals",
+    "Rubber"
+   ],
+   "a": 2,
+   "w": "Coal, iron, mica."
+  },
+  {
+   "q": "The peninsular plateau slopes toward the?",
+   "o": [
+    "East",
+    "West",
+    "North",
+    "South"
+   ],
+   "a": 0,
+   "w": "Hence many rivers flow into the Bay of Bengal."
+  }
+ ],
+ "sources": [
+  "NCERT Class 11 and 12 Geography",
+  "Certificate Physical and Human Geography, G C Leong",
+  "Standard atlas"
+ ],
+ "verified": "2026-11-13"
+}

@@ -1,0 +1,176 @@
+{
+ "id": "1-1-5",
+ "title": "Peninsular Rivers: Godavari, Krishna, Cauvery and Narmada",
+ "emoji": "🏞️",
+ "cards": [
+  {
+   "tag": "Why this matters",
+   "h": "Rain-fed rivers with water disputes",
+   "b": "<p>Peninsular rivers are seasonal, fed mainly by monsoon rain. They have fixed courses because of hard rock, no deep valleys and no meanders. They cause a string of inter-state disputes. UPSC asks about their courses, tributaries, delta, rift valley and disputes.</p>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "How they differ from Himalayan rivers",
+   "b": "<svg class=\"d\" viewBox=\"0 0 320 140\"><rect x=\"10\" y=\"6\" width=\"300\" height=\"38\" rx=\"6\" fill=\"#f1e4c6\" stroke=\"#a8792a\" stroke-width=\"1.5\"/><text x=\"160\" y=\"22\" fill=\"#7d5a1c\" font-size=\"12\" text-anchor=\"middle\" font-weight=\"700\">Godavari</text><text x=\"160\" y=\"37\" fill=\"#5d6474\" font-size=\"10\" text-anchor=\"middle\">Longest, Dakshin Ganga, big delta</text><rect x=\"10\" y=\"50\" width=\"300\" height=\"38\" rx=\"6\" fill=\"#dceaec\" stroke=\"#2f6f7a\" stroke-width=\"1.5\"/><text x=\"160\" y=\"66\" fill=\"#2f6f7a\" font-size=\"12\" text-anchor=\"middle\" font-weight=\"700\">Krishna and Cauvery</text><text x=\"160\" y=\"81\" fill=\"#5d6474\" font-size=\"10\" text-anchor=\"middle\">Eastward, disputes</text><rect x=\"10\" y=\"94\" width=\"300\" height=\"38\" rx=\"6\" fill=\"#f4dcd5\" stroke=\"#a3362a\" stroke-width=\"1.5\"/><text x=\"160\" y=\"110\" fill=\"#a3362a\" font-size=\"12\" text-anchor=\"middle\" font-weight=\"700\">Narmada and Tapi</text><text x=\"160\" y=\"125\" fill=\"#5d6474\" font-size=\"10\" text-anchor=\"middle\">Westward, rift valley, estuary</text></svg><ul><li>Seasonal, not perennial (no glacier).</li><li>Shorter, shallow valleys, nearly graded.</li><li>Little erosion; they form deltas in the east and estuaries in the west.</li><li>Flow mainly east (Bay of Bengal), because the plateau slopes east.</li><li>Older: they have reached maturity.</li></ul>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "Godavari",
+   "b": "<p>The longest peninsular river (about 1,465 km), the 'Dakshin Ganga'. Rises at Trimbak near Nashik. Tributaries: Pranhita (carries the Wardha and Wainganga), Indravati, Manjira, Sabari. Drains into the Bay of Bengal in a big delta in Andhra Pradesh. Basin states: Maharashtra, Telangana, Andhra, Chhattisgarh, Odisha. Polavaram project is on it.</p>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "Krishna",
+   "b": "<p>Second longest peninsular river (about 1,400 km). Rises at Mahabaleshwar in the Western Ghats. Tributaries: Koyna, Panchganga, Ghataprabha, Malaprabha, Bhima, Tungabhadra, Musi. Ends in a delta in Andhra. Srisailam and Nagarjuna Sagar dams. Disputes among Maharashtra, Karnataka, Telangana and Andhra.</p>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "Cauvery",
+   "b": "<p>Rises at Talakaveri in Brahmagiri hills, Karnataka. Tributaries: Hemavati, Lokapavani, Shimsha, Arkavathi, Kabini, Bhavani, Amravati. Flows in Karnataka and Tamil Nadu, forming Shivanasamudram falls and a delta near Kaveripattinam. The Cauvery gets rain in both the southwest monsoon (upper) and the northeast monsoon (lower), so it flows nearly all year.</p>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "Narmada and Tapi",
+   "b": "<p>The <b>Narmada</b> rises at Amarkantak (Madhya Pradesh), flows west in a <b>rift valley</b> between the Vindhya and Satpura, and forms the <b>Dhuandhar falls</b> near Jabalpur, then enters the Gulf of Khambhat in an estuary. About 1,312 km. Sardar Sarovar Dam. The <b>Tapi</b> rises at Multai (Betul), flows west and ends in the Gulf of Khambhat at Surat. Both flow west and make estuaries, not deltas.</p>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "Other east and west flowing rivers",
+   "b": "<p>East: <b>Mahanadi</b> (Chhattisgarh to Odisha, Hirakud dam), <b>Subarnarekha</b>, <b>Brahmani</b>, <b>Penner</b>, <b>Vaigai</b>. West: <b>Sabarmati</b>, <b>Mahi</b>, <b>Luni</b> (inland), <b>Sharavati</b> (Jog falls), <b>Periyar</b> (longest in Kerala), <b>Bharathapuzha</b>. Western Ghats rivers are short and fast and meet the sea in estuaries.</p>"
+  },
+  {
+   "tag": "Debate",
+   "h": "River water disputes",
+   "b": "<p>Cauvery Water Disputes Tribunal (1990, award 2007; the Supreme Court modified it in 2018). Krishna (Bachawat Tribunal 1969; Brijesh Kumar Tribunal 2010, award 2013). Godavari (Tribunal 1969). Mahadayi (tribunal award 2018, dispute with Goa and Karnataka). Article 262 empowers Parliament to set up tribunals, and the Inter-State River Water Disputes Act, 1956 is the law.</p>"
+  },
+  {
+   "tag": "Indian angle",
+   "h": "Rivers and development",
+   "b": "<p>Peninsular rivers feed delta rice bowls in Godavari-Krishna and Thanjavur, and hydropower. Seasonality means storage dams are vital. The linking idea (Ken-Betwa, Godavari-Cauvery) aims to move surplus water. The National Water Policy treats water as a state subject under the Constitution (Entry 17, State List), with Union role for inter-state rivers (Entry 56, Union List).</p>"
+  },
+  {
+   "tag": "Exam lens",
+   "h": "How to answer",
+   "b": "<p>Likely questions: 'Why do Narmada and Tapi form estuaries?', 'Distinguish Himalayan and peninsular drainage', 'Cauvery dispute'.</p><ul><li>Always a two-column comparison on origin, flow, valley, delta, use.</li><li>Give the rift valley explanation.</li><li>For disputes, state law, tribunal, key SC order and the way forward.</li></ul>",
+   "cls": "exam"
+  }
+ ],
+ "quiz": [
+  {
+   "q": "The longest peninsular river is the?",
+   "o": [
+    "Krishna",
+    "Cauvery",
+    "Godavari",
+    "Narmada"
+   ],
+   "a": 2,
+   "w": "About 1,465 km."
+  },
+  {
+   "q": "The Godavari rises at?",
+   "o": [
+    "Trimbak (Nashik)",
+    "Amarkantak",
+    "Mahabaleshwar",
+    "Talakaveri"
+   ],
+   "a": 0,
+   "w": "It is in Maharashtra."
+  },
+  {
+   "q": "The Narmada rises at?",
+   "o": [
+    "Amarkantak",
+    "Multai",
+    "Nashik",
+    "Mahabaleshwar"
+   ],
+   "a": 0,
+   "w": "It flows in a rift valley."
+  },
+  {
+   "q": "Narmada and Tapi form?",
+   "o": [
+    "Deltas",
+    "Lagoons",
+    "Estuaries",
+    "Fjords"
+   ],
+   "a": 2,
+   "w": "They flow in rift valleys to the Arabian Sea."
+  },
+  {
+   "q": "Jog Falls is on the?",
+   "o": [
+    "Cauvery",
+    "Krishna",
+    "Sharavati",
+    "Periyar"
+   ],
+   "a": 2,
+   "w": "Karnataka."
+  },
+  {
+   "q": "The Tungabhadra is a tributary of the?",
+   "o": [
+    "Krishna",
+    "Godavari",
+    "Cauvery",
+    "Mahanadi"
+   ],
+   "a": 0,
+   "w": "It meets near Kurnool."
+  },
+  {
+   "q": "Article 262 relates to?",
+   "o": [
+    "Inter-state river disputes",
+    "Fundamental rights",
+    "Emergency",
+    "Finance"
+   ],
+   "a": 0,
+   "w": "Parliament may bar courts from such disputes."
+  },
+  {
+   "q": "The Hirakud Dam is on the?",
+   "o": [
+    "Godavari",
+    "Krishna",
+    "Mahanadi",
+    "Tapi"
+   ],
+   "a": 2,
+   "w": "Odisha."
+  },
+  {
+   "q": "Cauvery flows nearly all year because it gets?",
+   "o": [
+    "Glacier melt",
+    "Only winter rain",
+    "Both monsoons",
+    "Western disturbances"
+   ],
+   "a": 2,
+   "w": "Southwest and northeast monsoons."
+  },
+  {
+   "q": "The longest river wholly in Kerala is?",
+   "o": [
+    "Periyar",
+    "Bharathapuzha",
+    "Pamba",
+    "Chaliyar"
+   ],
+   "a": 0,
+   "w": "Periyar is the longest."
+  }
+ ],
+ "sources": [
+  "NCERT Class 11 and 12 Geography",
+  "Certificate Physical and Human Geography, G C Leong",
+  "Standard atlas"
+ ],
+ "verified": "2026-11-13"
+}

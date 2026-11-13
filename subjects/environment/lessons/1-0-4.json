@@ -1,0 +1,176 @@
+{
+ "id": "1-0-4",
+ "title": "Biodiversity Hotspots and Mega-diverse Countries",
+ "emoji": "🔥",
+ "cards": [
+  {
+   "tag": "Why this matters",
+   "h": "A Prelims regular",
+   "b": "<p>Hotspot questions appear again and again: how many are in India, which hotspot covers which state, and what the criteria are. Mains also asks whether hotspot thinking helps or hurts conservation.</p><p>Know the criteria, the four Indian hotspots and what each one holds.</p><p>A frequent trap: the Eastern Ghats and the Western Ghats are often swapped in options.</p>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "Myers and the two criteria",
+   "b": "<p>The idea was proposed by <b>Norman Myers</b> in 1988. <b>Conservation International</b> later adopted and refined it. A region is a hotspot if it:</p><ul><li>has at least <b>1,500 endemic vascular plant species</b> (over 0.5 percent of the world total); and</li><li>has lost at least <b>70 percent</b> of its original natural vegetation.</li></ul><p>World total is <b>36 hotspots</b> (as of the 2016 update). They cover about 2.5 percent of land but hold over half of the world's endemic plants.</p>"
+  },
+  {
+   "tag": "India's hotspots",
+   "h": "The four hotspots",
+   "b": "<p>India has four hotspots, partly or wholly inside its borders.</p><ul><li><b>Himalaya:</b> the Himalayan arc across Bhutan, Nepal and north India.</li><li><b>Indo-Burma:</b> includes north-east India (outside the Himalaya) and Myanmar, Thailand and others.</li><li><b>Western Ghats and Sri Lanka:</b> the Western Ghats were named a UNESCO World Heritage Site in 2012.</li><li><b>Sundaland:</b> includes the Nicobar Islands.</li></ul><p>The Eastern Ghats are not a hotspot.</p>"
+  },
+  {
+   "tag": "What they hold",
+   "h": "Endemics and flagship species",
+   "b": "<p>The Western Ghats are home to the lion-tailed macaque, Nilgiri tahr and Malabar civet. The Himalaya holds the red panda, snow leopard and Himalayan monal. Indo-Burma has the hoolock gibbon (India's only ape) and many orchids. The Nicobars have the Nicobar megapode and giant robber crab.</p><p>Endemism is the key. A species found only in one area, and lost there, is lost to the world.</p><svg class='d' viewBox='0 0 320 160' role='img' aria-label='Hotspot test'><rect x='10' y='8' width='300' height='30' rx='4' fill='#dceaec' stroke='#2f6f7a'/><text x='160' y='27' font-size='11' text-anchor='middle' fill='#1d2433'>Endemic plants: at least 1,500</text><rect x='10' y='46' width='300' height='30' rx='4' fill='#f1e4c6' stroke='#a8792a'/><text x='160' y='65' font-size='11' text-anchor='middle' fill='#1d2433'>Habitat lost: at least 70 percent</text><rect x='10' y='84' width='300' height='30' rx='4' fill='#f4dcd5' stroke='#a3362a'/><text x='160' y='103' font-size='11' text-anchor='middle' fill='#1d2433'>Both tests pass: a hotspot</text><rect x='10' y='122' width='300' height='30' rx='4' fill='#dceaec' stroke='#2f6f7a'/><text x='160' y='141' font-size='11' text-anchor='middle' fill='#1d2433'>India: 4 of the 36</text></svg>"
+  },
+  {
+   "tag": "Mega-diverse",
+   "h": "Another list",
+   "b": "<p>The <b>17 mega-diverse countries</b> were named by Conservation International and UNEP-WCMC (1998). They hold about 70 percent of world biodiversity. India is one. Others include Brazil, Indonesia, Colombia, China, Australia, Mexico and South Africa.</p><p>A country can be mega-diverse without being a hotspot, and a hotspot can cross many countries. Do not confuse the two.</p>"
+  },
+  {
+   "tag": "Other schemes",
+   "h": "Beyond hotspots",
+   "b": "<p>Other ways to rank conservation areas:</p><ul><li><b>Global 200 ecoregions</b> (WWF).</li><li><b>Endemic Bird Areas</b> (BirdLife).</li><li><b>Important Bird and Biodiversity Areas</b> (IBAs). India has over 500.</li><li><b>Key Biodiversity Areas.</b></li><li><b>Frontier forests</b> and <b>high-biodiversity wilderness areas.</b></li></ul><p>Hotspots focus on threat plus endemism. Wilderness areas focus on intact, low-threat regions.</p>"
+  },
+  {
+   "tag": "Debate",
+   "h": "Do hotspots serve conservation?",
+   "b": "<p>Supporters say hotspots give clear priorities and attract funding, such as the Critical Ecosystem Partnership Fund. Critics say they ignore vast low-endemism ecosystems like savannas, ignore animals, and may neglect the poor who live inside them. A few say the 70 percent loss test rewards areas that are already damaged.</p><p>A balanced answer: hotspots are a triage tool, not a full strategy.</p>"
+  },
+  {
+   "tag": "Indian angle",
+   "h": "Threats and responses",
+   "b": "<p>Threats include dams, mining, monoculture plantations, shifting cultivation in the North-East, and tourism pressure. The Western Ghats Ecology Expert Panel (Gadgil, 2011) and the High-Level Working Group (Kasturirangan, 2013) debated how much to protect.</p><p>Responses: protected areas, biosphere reserves such as Nilgiri and Nokrek, and the Biological Diversity Act 2002. Climate change adds new pressure on mountain species.</p>"
+  },
+  {
+   "tag": "Quick revision",
+   "h": "Numbers to hold",
+   "b": "<ul><li>Criteria: 1,500 endemic plants, 70 percent loss.</li><li>World hotspots: 36.</li><li>India: 4 (Himalaya, Indo-Burma, Western Ghats and Sri Lanka, Sundaland).</li><li>Mega-diverse countries: 17.</li></ul><p>If a question gives a species and asks for its hotspot, think of its habitat first. The hoolock gibbon points to Indo-Burma.</p>"
+  },
+  {
+   "tag": "Exam lens",
+   "h": "How to answer",
+   "b": "<p><b>Prelims-style:</b> \"Consider the following statements on biodiversity hotspots\" with the two criteria. Remember that endemism and habitat loss are both needed.</p><p><b>Mains-style:</b> \"What are biodiversity hotspots? Discuss the conservation challenges of India's hotspots.\" Structure: define; criteria; four Indian hotspots; threats; policy; way forward.</p><p>Remember also that hotspots are about plants and endemism, so a hotspot does not automatically have the most animals or the most forest cover.</p>",
+   "cls": "exam"
+  }
+ ],
+ "quiz": [
+  {
+   "q": "Who proposed the biodiversity hotspot concept in 1988?",
+   "o": [
+    "E.O. Wilson",
+    "Norman Myers",
+    "Edward Lorenz",
+    "Ernst Mayr"
+   ],
+   "a": 1,
+   "w": "Myers proposed it; Conservation International refined it."
+  },
+  {
+   "q": "A hotspot needs at least how many endemic vascular plants?",
+   "o": [
+    "1,500",
+    "500",
+    "3,000",
+    "1,000"
+   ],
+   "a": 0,
+   "w": "Plus loss of 70 percent of original vegetation."
+  },
+  {
+   "q": "Which is NOT a hotspot covering Indian territory?",
+   "o": [
+    "Indo-Burma",
+    "Himalaya",
+    "Sundaland",
+    "Eastern Ghats"
+   ],
+   "a": 3,
+   "w": "The Eastern Ghats are not a hotspot."
+  },
+  {
+   "q": "The Nicobar Islands belong to which hotspot?",
+   "o": [
+    "Indo-Burma",
+    "Himalaya",
+    "Sundaland",
+    "Western Ghats"
+   ],
+   "a": 2,
+   "w": "Sundaland covers the Nicobars."
+  },
+  {
+   "q": "How many hotspots exist worldwide as of the 2016 update?",
+   "o": [
+    "25",
+    "36",
+    "34",
+    "42"
+   ],
+   "a": 1,
+   "w": "The list grew from 25 to 34 to 36."
+  },
+  {
+   "q": "Which animal is India's only ape?",
+   "o": [
+    "Hoolock gibbon",
+    "Lion-tailed macaque",
+    "Capped langur",
+    "Slow loris"
+   ],
+   "a": 0,
+   "w": "Found in Indo-Burma, in the North-East."
+  },
+  {
+   "q": "The Western Ghats became a UNESCO World Heritage Site in:",
+   "o": [
+    "2002",
+    "2016",
+    "2007",
+    "2012"
+   ],
+   "a": 3,
+   "w": "Inscribed in 2012 as a serial site."
+  },
+  {
+   "q": "How many mega-diverse countries are recognised?",
+   "o": [
+    "12",
+    "36",
+    "17",
+    "20"
+   ],
+   "a": 2,
+   "w": "India is one of them."
+  },
+  {
+   "q": "Which group named the Global 200 ecoregions?",
+   "o": [
+    "IUCN",
+    "WWF",
+    "UNESCO",
+    "Ramsar Bureau"
+   ],
+   "a": 1,
+   "w": "Also see Endemic Bird Areas by BirdLife."
+  },
+  {
+   "q": "Nilgiri tahr is endemic to:",
+   "o": [
+    "Western Ghats",
+    "Himalaya",
+    "Sundaland",
+    "Eastern Ghats"
+   ],
+   "a": 0,
+   "w": "It lives in the high grasslands of Kerala and Tamil Nadu."
+  }
+ ],
+ "sources": [
+  "Shankar IAS Environment",
+  "MoEFCC and PIB",
+  "Conservation International; UNEP-WCMC"
+ ],
+ "verified": "2026-11-13"
+}

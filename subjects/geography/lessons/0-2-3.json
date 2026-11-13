@@ -1,0 +1,176 @@
+{
+ "id": "0-2-3",
+ "title": "Mid-Ocean Ridges, Trenches and Marine Deposits",
+ "emoji": "🌐",
+ "cards": [
+  {
+   "tag": "Why this matters",
+   "h": "The sea floor is not flat",
+   "b": "<p>The ocean floor has mountains longer than any on land, trenches deeper than Everest is tall, and sediments that record Earth's history. These features prove plate tectonics and decide where earthquakes, volcanoes and tsunamis occur. They are a favourite topic in prelims and in questions on map work.</p>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "Four zones of ocean relief",
+   "b": "<svg class=\"d\" viewBox=\"0 0 320 140\"><rect x=\"10\" y=\"6\" width=\"300\" height=\"38\" rx=\"6\" fill=\"#f1e4c6\" stroke=\"#a8792a\" stroke-width=\"1.5\"/><text x=\"160\" y=\"22\" fill=\"#7d5a1c\" font-size=\"12\" text-anchor=\"middle\" font-weight=\"700\">Ridge</text><text x=\"160\" y=\"37\" fill=\"#5d6474\" font-size=\"10\" text-anchor=\"middle\">New crust forms, plates diverge</text><rect x=\"10\" y=\"50\" width=\"300\" height=\"38\" rx=\"6\" fill=\"#dceaec\" stroke=\"#2f6f7a\" stroke-width=\"1.5\"/><text x=\"160\" y=\"66\" fill=\"#2f6f7a\" font-size=\"12\" text-anchor=\"middle\" font-weight=\"700\">Abyssal plain</text><text x=\"160\" y=\"81\" fill=\"#5d6474\" font-size=\"10\" text-anchor=\"middle\">Flat floor, thick sediments</text><rect x=\"10\" y=\"94\" width=\"300\" height=\"38\" rx=\"6\" fill=\"#f4dcd5\" stroke=\"#a3362a\" stroke-width=\"1.5\"/><text x=\"160\" y=\"110\" fill=\"#a3362a\" font-size=\"12\" text-anchor=\"middle\" font-weight=\"700\">Trench</text><text x=\"160\" y=\"125\" fill=\"#5d6474\" font-size=\"10\" text-anchor=\"middle\">Plate subducts, deepest point</text></svg><p><b>Continental shelf</b>: gently sloping, up to about 200 m deep, rich in fish and oil. <b>Continental slope</b>: steep drop to the deep sea, cut by submarine canyons. <b>Abyssal plain</b>: flat floor at 3,000 to 6,000 m. <b>Ocean deeps (trenches)</b>: narrow, below 6,000 m. The average ocean depth is about 3,700 m.</p>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "Mid-ocean ridges",
+   "b": "<p>A <b>mid-ocean ridge</b> is an underwater mountain chain along a divergent plate boundary. Magma rises, cools and forms new crust. The system runs about 65,000 km, the longest mountain chain on Earth.</p><p>Examples: the <b>Mid-Atlantic Ridge</b>, the <b>East Pacific Rise</b> and the <b>Carlsberg Ridge</b> in the Indian Ocean. The Mid-Atlantic Ridge cuts through Iceland, where it rises above sea level.</p>"
+  },
+  {
+   "tag": "Key idea",
+   "h": "Sea-floor spreading",
+   "b": "<p>Harry Hess proposed the idea in 1960-62. Robert Dietz named it. New crust forms at the ridge and moves away on both sides. Vine and Matthews (1963) found <b>magnetic stripes</b> in matching patterns on each side of the ridge. They recorded reversals of Earth's magnetic field. This was strong proof.</p><p>Sea-floor rocks are young: none older than about 200 million years, because old crust is destroyed in trenches.</p>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "Ocean trenches",
+   "b": "<p>Trenches are deep, narrow troughs at <b>subduction zones</b>, where one plate dives under another. The <b>Mariana Trench</b> in the western Pacific has the deepest point, Challenger Deep, about 10,900 m below sea level. Most trenches lie in the Pacific, around the <b>Ring of Fire</b>.</p><p>Other deep trenches: Tonga, Kuril-Kamchatka, Philippine, Java (Sunda), Puerto Rico in the Atlantic.</p>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "Other sea-floor features",
+   "b": "<p><b>Seamounts</b>: underwater volcanoes that do not reach the surface. <b>Guyots</b>: flat-topped seamounts. <b>Submarine canyons</b>: cut by turbidity currents (the Hudson canyon). <b>Oceanic plateaus</b>: the Chagos-Laccadive ridge and the Kerguelen Plateau. Volcanic islands: Hawaii, Iceland, Reunion. Iceland sits on both a ridge and a hot spot.</p>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "Marine deposits",
+   "b": "<p>Sediments settle slowly on the sea floor. <b>Terrigenous</b> deposits come from land (mud, sand) and lie near the shore. <b>Pelagic</b> deposits are from the open sea. They include <b>oozes</b> (from shells of tiny organisms: calcareous ooze above the carbonate compensation depth, siliceous ooze below) and <b>red clay</b> (very fine, deepest basins). <b>Volcanic</b> deposits come from eruptions.</p>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "Ocean resources on the floor",
+   "b": "<p><b>Polymetallic nodules</b> hold manganese, nickel, cobalt and copper. The Clarion-Clipperton Zone in the Pacific is the best known. <b>Hydrothermal vents</b> deposit sulphides. <b>Gas hydrates</b> store methane in cold sediments. The International Seabed Authority (Kingston, Jamaica, under UNCLOS 1982) regulates seabed mining beyond national waters.</p>"
+  },
+  {
+   "tag": "Indian angle",
+   "h": "India's ocean floor",
+   "b": "<p>The <b>Carlsberg Ridge</b>, <b>Central Indian Ridge</b> and <b>Southwest Indian Ridge</b> mark the Indian Ocean spreading system. India holds exploration rights for nodules in the Central Indian Ocean Basin and sulphides on the Carlsberg and Indian Ridges, granted by the ISA. The <b>Deep Ocean Mission</b> (2021) and the Samudrayaan submersible Matsya 6000 support this.</p>"
+  },
+  {
+   "tag": "Exam lens",
+   "h": "How to answer",
+   "b": "<p>Likely questions: 'Evidence for sea-floor spreading', 'Why are trenches in the Pacific?', 'Importance of polymetallic nodules'.</p><ul><li>For evidence: magnetic stripes, young crust, ridge heat flow, drilling ages.</li><li>Draw a ridge and a trench with arrows showing crust born and crust destroyed.</li><li>Link nodules to India's critical mineral needs and to the Deep Ocean Mission.</li></ul>",
+   "cls": "exam"
+  }
+ ],
+ "quiz": [
+  {
+   "q": "The longest mountain chain on Earth is the?",
+   "o": [
+    "Himalaya",
+    "Andes",
+    "Mid-ocean ridge system",
+    "Rockies"
+   ],
+   "a": 2,
+   "w": "The ridge system runs about 65,000 km."
+  },
+  {
+   "q": "Sea-floor spreading was proposed by?",
+   "o": [
+    "Harry Hess",
+    "Alfred Wegener",
+    "Davis",
+    "Darwin"
+   ],
+   "a": 0,
+   "w": "Hess published his idea around 1960-62."
+  },
+  {
+   "q": "Magnetic stripes were explained by?",
+   "o": [
+    "Vine and Matthews",
+    "Hess and Dietz",
+    "Koppen",
+    "Walker"
+   ],
+   "a": 0,
+   "w": "They showed symmetrical stripes about the ridge."
+  },
+  {
+   "q": "The deepest ocean point is in the?",
+   "o": [
+    "Tonga Trench",
+    "Java Trench",
+    "Mariana Trench",
+    "Puerto Rico Trench"
+   ],
+   "a": 2,
+   "w": "Challenger Deep is about 10,900 m."
+  },
+  {
+   "q": "Trenches form at?",
+   "o": [
+    "Divergent boundaries",
+    "Hot spots",
+    "Subduction zones",
+    "Transform faults"
+   ],
+   "a": 2,
+   "w": "One plate dives beneath another."
+  },
+  {
+   "q": "A flat-topped underwater volcano is a?",
+   "o": [
+    "Guyot",
+    "Seamount with peak",
+    "Atoll",
+    "Canyon"
+   ],
+   "a": 0,
+   "w": "Guyots were eroded flat when at the surface."
+  },
+  {
+   "q": "Pelagic deposits are found in?",
+   "o": [
+    "The open sea",
+    "Near the shore",
+    "River deltas",
+    "Lakes"
+   ],
+   "a": 0,
+   "w": "Pelagic means of the open ocean."
+  },
+  {
+   "q": "The ISA is based in?",
+   "o": [
+    "Geneva",
+    "Hamburg",
+    "Kingston, Jamaica",
+    "New York"
+   ],
+   "a": 2,
+   "w": "The International Seabed Authority sits in Kingston."
+  },
+  {
+   "q": "The Carlsberg Ridge lies in the?",
+   "o": [
+    "Atlantic Ocean",
+    "Arctic Ocean",
+    "Indian Ocean",
+    "Southern Ocean"
+   ],
+   "a": 2,
+   "w": "It is a spreading ridge in the northwest Indian Ocean."
+  },
+  {
+   "q": "Deepest ocean floor is covered mainly by?",
+   "o": [
+    "Red clay",
+    "Coarse sand",
+    "Calcareous ooze",
+    "Gravel"
+   ],
+   "a": 0,
+   "w": "Below the carbonate compensation depth, clay accumulates."
+  }
+ ],
+ "sources": [
+  "NCERT Class 11 and 12 Geography",
+  "Certificate Physical and Human Geography, G C Leong",
+  "Standard atlas"
+ ],
+ "verified": "2026-11-13"
+}

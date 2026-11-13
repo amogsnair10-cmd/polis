@@ -1,0 +1,176 @@
+{
+ "id": "0-2-2",
+ "title": "Coral Reefs, Atolls and Marine Ecosystems",
+ "emoji": "🪸",
+ "cards": [
+  {
+   "tag": "Why this matters",
+   "h": "Reefs are small in area but huge in life",
+   "b": "<p>Coral reefs cover under 1 percent of the ocean floor but shelter about a quarter of marine species. They protect coasts and feed millions. They are under threat from warming seas. UPSC asks about reef types, Darwin's theory, bleaching and Indian reefs.</p>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "What is a coral reef?",
+   "b": "<p>Corals are tiny animals called <b>polyps</b>. They build hard skeletons of calcium carbonate. Inside their tissue live algae called <b>zooxanthellae</b>, which give colour and food through photosynthesis.</p><p>Reef corals need clear, shallow, warm water: 20 to 30 degrees C, salinity of about 32 to 36 parts per thousand, depth under about 50 m, and sunlight. They do not grow near river mouths, where fresh and muddy water harms them.</p>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "Three types of reef",
+   "b": "<svg class=\"d\" viewBox=\"0 0 320 140\"><rect x=\"10\" y=\"6\" width=\"300\" height=\"38\" rx=\"6\" fill=\"#f1e4c6\" stroke=\"#a8792a\" stroke-width=\"1.5\"/><text x=\"160\" y=\"22\" fill=\"#7d5a1c\" font-size=\"12\" text-anchor=\"middle\" font-weight=\"700\">Fringing reef</text><text x=\"160\" y=\"37\" fill=\"#5d6474\" font-size=\"10\" text-anchor=\"middle\">Attached to shore, narrow lagoon</text><rect x=\"10\" y=\"50\" width=\"300\" height=\"38\" rx=\"6\" fill=\"#dceaec\" stroke=\"#2f6f7a\" stroke-width=\"1.5\"/><text x=\"160\" y=\"66\" fill=\"#2f6f7a\" font-size=\"12\" text-anchor=\"middle\" font-weight=\"700\">Barrier reef</text><text x=\"160\" y=\"81\" fill=\"#5d6474\" font-size=\"10\" text-anchor=\"middle\">Wide lagoon between reef and land</text><rect x=\"10\" y=\"94\" width=\"300\" height=\"38\" rx=\"6\" fill=\"#f4dcd5\" stroke=\"#a3362a\" stroke-width=\"1.5\"/><text x=\"160\" y=\"110\" fill=\"#a3362a\" font-size=\"12\" text-anchor=\"middle\" font-weight=\"700\">Atoll</text><text x=\"160\" y=\"125\" fill=\"#5d6474\" font-size=\"10\" text-anchor=\"middle\">Ring of coral around a lagoon</text></svg><p><b>Fringing reef</b>: grows right against the shore, with a shallow, narrow lagoon or none. Common round Andaman islands. <b>Barrier reef</b>: separated from land by a wide, deep lagoon. The Great Barrier Reef is the largest. <b>Atoll</b>: a ring of coral enclosing a lagoon, with no central land. Lakshadweep and the Maldives are mostly atolls.</p>"
+  },
+  {
+   "tag": "Key idea",
+   "h": "Darwin's subsidence theory",
+   "b": "<p>Charles Darwin (1842, <i>The Structure and Distribution of Coral Reefs</i>) proposed that a fringing reef grows around a volcanic island. As the island slowly sinks, the coral grows upward to stay near light. The reef becomes a barrier reef, then an <b>atoll</b> when the island vanishes.</p><p>Drilling at Eniwetok atoll in the 1950s found volcanic rock beneath over a kilometre of coral, supporting Darwin.</p>"
+  },
+  {
+   "tag": "Debate",
+   "h": "Other theories",
+   "b": "<p><b>Daly's glacial control theory</b>: sea level fell in the ice age, planing islands flat; rising seas then let coral grow upward. <b>Murray's</b> theory: reefs build on submarine platforms. Today most geologists accept a mix: subsidence plus sea-level change.</p>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "Where the big reefs are",
+   "b": "<p>The <b>Great Barrier Reef</b> (about 2,300 km, Queensland, Australia) is the largest. The <b>Belize Barrier Reef</b> is the biggest in the Atlantic. Atolls are common in the Maldives, Lakshadweep, Marshall Islands and Tuvalu. Reefs lie mainly between 30 degrees N and S in the Indo-Pacific and the Caribbean.</p>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "Coral bleaching",
+   "b": "<p>When water gets too warm, corals expel their algae and turn white. They are not dead but starving. If the heat persists, they die. The Great Barrier Reef suffered mass bleaching in 1998, 2002, 2016, 2017, 2020 and 2022.</p><p>Other threats: ocean acidification (absorbing CO2 weakens skeletons), crown-of-thorns starfish, destructive fishing, and sediment runoff.</p>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "Other marine ecosystems",
+   "b": "<p><b>Mangroves</b> grow in salty tidal mud and shelter fish nurseries. <b>Seagrass meadows</b> feed dugongs and turtles. <b>Estuaries</b> mix river and sea water and are among the most productive zones. <b>Upwelling zones</b> (Peru, Namibia, Somalia) are rich in plankton and fish. <b>Deep-sea vents</b> run on chemical energy rather than sunlight.</p><p>The <b>photic zone</b>, the top 200 m or so, holds most marine life because light reaches it. Phytoplankton there make about half of the oxygen we breathe.</p>"
+  },
+  {
+   "tag": "Indian angle",
+   "h": "India's reefs",
+   "b": "<p>Four main reef areas: <b>Gulf of Mannar</b> (Tamil Nadu), <b>Gulf of Kachchh</b> (Gujarat), <b>Lakshadweep</b> (atolls) and <b>Andaman and Nicobar</b> (fringing reefs). Gulf of Mannar was declared a biosphere reserve in 1989, the first marine one in South and Southeast Asia. Coral is also protected under Schedule I of the Wildlife (Protection) Act, 1972.</p>"
+  },
+  {
+   "tag": "Exam lens",
+   "h": "How to answer",
+   "b": "<p>Likely questions: 'Explain the types of coral reef and the conditions for growth', 'Discuss Darwin's theory', 'Causes and effects of coral bleaching'.</p><ul><li>List the conditions in five bullets.</li><li>Draw fringing, barrier and atoll in one line each.</li><li>End with conservation: marine protected areas, reducing emissions, coral restoration.</li></ul>",
+   "cls": "exam"
+  }
+ ],
+ "quiz": [
+  {
+   "q": "Corals build skeletons of?",
+   "o": [
+    "Silica",
+    "Iron oxide",
+    "Calcium carbonate",
+    "Sodium chloride"
+   ],
+   "a": 2,
+   "w": "Reef corals secrete calcium carbonate."
+  },
+  {
+   "q": "Algae living inside coral polyps are called?",
+   "o": [
+    "Zooxanthellae",
+    "Plankton",
+    "Kelp",
+    "Mangrove"
+   ],
+   "a": 0,
+   "w": "They give colour and food."
+  },
+  {
+   "q": "Darwin's coral reef theory is about?",
+   "o": [
+    "Subsidence",
+    "Glaciation",
+    "Upwelling",
+    "Sea-floor spreading"
+   ],
+   "a": 0,
+   "w": "A sinking island makes fringing, then barrier, then atoll."
+  },
+  {
+   "q": "Darwin published his coral work in?",
+   "o": [
+    "1759",
+    "1900",
+    "1842",
+    "1962"
+   ],
+   "a": 2,
+   "w": "The book appeared in 1842."
+  },
+  {
+   "q": "The largest reef system is?",
+   "o": [
+    "Belize Reef",
+    "Red Sea Reef",
+    "Great Barrier Reef",
+    "Gulf of Mannar"
+   ],
+   "a": 2,
+   "w": "It is about 2,300 km off Queensland."
+  },
+  {
+   "q": "A ring-shaped coral island is a?",
+   "o": [
+    "Atoll",
+    "Fjord",
+    "Delta",
+    "Spit"
+   ],
+   "a": 0,
+   "w": "Atolls enclose a lagoon."
+  },
+  {
+   "q": "Which is NOT a coral area of India?",
+   "o": [
+    "Sundarbans",
+    "Gulf of Kachchh",
+    "Gulf of Mannar",
+    "Lakshadweep"
+   ],
+   "a": 0,
+   "w": "Sundarbans is a mangrove delta."
+  },
+  {
+   "q": "Coral bleaching is mainly caused by?",
+   "o": [
+    "Cold currents",
+    "High salinity only",
+    "Warm water stress",
+    "Oil"
+   ],
+   "a": 2,
+   "w": "Corals expel algae when heated."
+  },
+  {
+   "q": "Reef-building corals prefer water temperature of?",
+   "o": [
+    "5 to 10 degrees C",
+    "35 to 45 degrees C",
+    "20 to 30 degrees C",
+    "0 degrees C"
+   ],
+   "a": 2,
+   "w": "Warm shallow seas."
+  },
+  {
+   "q": "Daly's theory relates reefs to?",
+   "o": [
+    "Glacial sea-level change",
+    "Volcanic eruptions",
+    "Earthquakes",
+    "Trade winds"
+   ],
+   "a": 0,
+   "w": "Daly linked them with ice-age sea-level fall."
+  }
+ ],
+ "sources": [
+  "NCERT Class 11 and 12 Geography",
+  "Certificate Physical and Human Geography, G C Leong",
+  "Standard atlas"
+ ],
+ "verified": "2026-11-13"
+}

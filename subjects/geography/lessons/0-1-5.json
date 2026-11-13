@@ -1,0 +1,176 @@
+{
+ "id": "0-1-5",
+ "title": "Air Masses, Fronts and Temperate Cyclones",
+ "emoji": "🌀",
+ "cards": [
+  {
+   "tag": "Why this matters",
+   "h": "Weather in mid-latitudes is a story of collisions",
+   "b": "<p>A huge body of air takes on the heat and moisture of the surface beneath it. When two such bodies meet, they make a front and a storm. This lesson links to western disturbances in India, to Europe's weather and to winter rain in the Mediterranean. It is a steady source of conceptual questions.</p>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "What is an air mass?",
+   "b": "<svg class=\"d\" viewBox=\"0 0 320 140\"><rect x=\"10\" y=\"6\" width=\"300\" height=\"38\" rx=\"6\" fill=\"#f1e4c6\" stroke=\"#a8792a\" stroke-width=\"1.5\"/><text x=\"160\" y=\"22\" fill=\"#7d5a1c\" font-size=\"12\" text-anchor=\"middle\" font-weight=\"700\">Air masses</text><text x=\"160\" y=\"37\" fill=\"#5d6474\" font-size=\"10\" text-anchor=\"middle\">Source region sets heat and moisture</text><rect x=\"10\" y=\"50\" width=\"300\" height=\"38\" rx=\"6\" fill=\"#dceaec\" stroke=\"#2f6f7a\" stroke-width=\"1.5\"/><text x=\"160\" y=\"66\" fill=\"#2f6f7a\" font-size=\"12\" text-anchor=\"middle\" font-weight=\"700\">Front</text><text x=\"160\" y=\"81\" fill=\"#5d6474\" font-size=\"10\" text-anchor=\"middle\">Where unlike air masses meet</text><rect x=\"10\" y=\"94\" width=\"300\" height=\"38\" rx=\"6\" fill=\"#f4dcd5\" stroke=\"#a3362a\" stroke-width=\"1.5\"/><text x=\"160\" y=\"110\" fill=\"#a3362a\" font-size=\"12\" text-anchor=\"middle\" font-weight=\"700\">Temperate cyclone</text><text x=\"160\" y=\"125\" fill=\"#5d6474\" font-size=\"10\" text-anchor=\"middle\">Wave on the polar front, west to east</text></svg><p>An <b>air mass</b> is a large body of air, often 1,600 km or more across, with nearly uniform temperature and humidity at any height. It forms over a <b>source region</b> that is flat, uniform and under light winds: the polar ice, the Sahara, the warm oceans.</p><p>Names use two letters. First: <b>c</b> continental (dry) or <b>m</b> maritime (moist). Second: <b>T</b> tropical, <b>P</b> polar, <b>A</b> arctic, <b>E</b> equatorial.</p>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "Five major air masses",
+   "b": "<p><b>mT</b> maritime tropical: warm, moist, over warm oceans. <b>cT</b> continental tropical: hot, dry, over deserts. <b>mP</b> maritime polar: cool and moist. <b>cP</b> continental polar: cold and dry. <b>cA</b> continental arctic: very cold, from the ice sheets.</p><p>Indian monsoon is driven by mE (maritime equatorial) air flowing in from the southern Indian Ocean.</p>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "Fronts",
+   "b": "<p>A <b>front</b> is the sloping boundary between two unlike air masses. The warmer, lighter air rises over the colder, denser air. This lifting makes cloud and rain.</p><ul><li><b>Cold front</b>: cold air pushes under warm. Steep slope, short heavy rain, thunder.</li><li><b>Warm front</b>: warm air slides over cold. Gentle slope, long steady drizzle.</li><li><b>Stationary front</b>: neither moves.</li><li><b>Occluded front</b>: a cold front catches a warm front.</li></ul>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "Frontogenesis and the polar front",
+   "b": "<p>The creation of a front is <b>frontogenesis</b>. Its decay is <b>frontolysis</b>. The main global front is the <b>polar front</b>, where cold polar easterlies meet warm westerlies near 60 degrees N and S.</p><p>The Norwegian meteorologist Vilhelm Bjerknes and colleagues developed the <b>polar front theory</b> around 1918-1920. 'Front' was chosen by analogy with the battle fronts of World War I.</p>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "Life of a temperate cyclone",
+   "b": "<p>A <b>temperate (extratropical) cyclone</b> grows along the polar front through stages: initial, incipient, mature, occlusion and dissipation. A wave forms on the front. Warm air flows into a pocket, called the <b>warm sector</b>, between a cold and a warm front. Pressure falls at the centre. The cold front moves faster and eventually overtakes the warm front. The cyclone then dies.</p>"
+  },
+  {
+   "tag": "Key idea",
+   "h": "Tropical vs temperate cyclones",
+   "b": "<p>Tropical cyclones are smaller (100-500 km), form only over warm seas above about 26.5 degrees C, have an eye, and weaken over land. Temperate cyclones are much larger (up to 2,000 km), can form over land or sea, have no eye, move west to east with the westerlies, and have fronts.</p><p>Tropical ones have a warm core. Temperate ones have a cold core in the upper air and are driven by temperature contrast.</p>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "Anticyclones and blocking",
+   "b": "<p>An <b>anticyclone</b> is a high-pressure system: clear skies, light winds, dry weather. Winds blow clockwise in the north and anticlockwise in the south. It brings summer heat and winter cold waves.</p><p>When an anticyclone stalls for days, it <b>blocks</b> the usual westerly flow and causes heatwaves or floods nearby, such as the European heatwave of 2003.</p>"
+  },
+  {
+   "tag": "Indian angle",
+   "h": "What it means for India",
+   "b": "<p>The <b>western disturbance</b> is an extratropical storm born over the Mediterranean and carried east by the subtropical westerly jet. It brings winter rain to northwest India and snow to the Himalaya. Cold fronts also help produce <b>cold waves</b> in Punjab and Haryana. Air mass thinking explains the monsoon too: the arrival of mE air.</p>"
+  },
+  {
+   "tag": "Exam lens",
+   "h": "How to answer",
+   "b": "<p>Likely questions: 'Differentiate tropical and temperate cyclones', 'Explain the formation of fronts', 'Role of air masses in weather'.</p><ul><li>Use a table with five rows: origin, size, eye, movement, season.</li><li>Draw a warm sector with the two fronts.</li><li>Link to western disturbances for the Indian marks.</li></ul>",
+   "cls": "exam"
+  }
+ ],
+ "quiz": [
+  {
+   "q": "A large body of air with uniform temperature and humidity is a?",
+   "o": [
+    "Front",
+    "Jet stream",
+    "Air mass",
+    "Trough"
+   ],
+   "a": 2,
+   "w": "Air masses form over uniform source regions."
+  },
+  {
+   "q": "In 'cP', the letter c stands for?",
+   "o": [
+    "Continental",
+    "Cold",
+    "Cyclonic",
+    "Calm"
+   ],
+   "a": 0,
+   "w": "c means continental and dry."
+  },
+  {
+   "q": "A steep front with short heavy rain is a?",
+   "o": [
+    "Cold front",
+    "Warm front",
+    "Occluded front",
+    "Stationary front"
+   ],
+   "a": 0,
+   "w": "Cold air wedges under warm air quickly."
+  },
+  {
+   "q": "The polar front theory was developed by?",
+   "o": [
+    "Koppen",
+    "Ferrel",
+    "Bjerknes and colleagues",
+    "Coriolis"
+   ],
+   "a": 2,
+   "w": "The Norwegian school worked it out around 1918-20."
+  },
+  {
+   "q": "Temperate cyclones generally move?",
+   "o": [
+    "East to west",
+    "North to south",
+    "West to east",
+    "South to north"
+   ],
+   "a": 2,
+   "w": "They follow the westerlies."
+  },
+  {
+   "q": "Which has an eye?",
+   "o": [
+    "Tropical cyclone",
+    "Temperate cyclone",
+    "Anticyclone",
+    "Western disturbance"
+   ],
+   "a": 0,
+   "w": "Tropical cyclones have a calm eye."
+  },
+  {
+   "q": "The creation of a front is called?",
+   "o": [
+    "Frontogenesis",
+    "Frontolysis",
+    "Occlusion",
+    "Subsidence"
+   ],
+   "a": 0,
+   "w": "Frontolysis is the dissolving."
+  },
+  {
+   "q": "Winds in an anticyclone in the northern hemisphere blow?",
+   "o": [
+    "Anticlockwise",
+    "Straight",
+    "Clockwise",
+    "Randomly"
+   ],
+   "a": 2,
+   "w": "Highs are clockwise in the north."
+  },
+  {
+   "q": "A tropical cyclone needs sea surface temperature of about?",
+   "o": [
+    "10 degrees C",
+    "15 degrees C",
+    "26.5 degrees C or more",
+    "Below 5 degrees C"
+   ],
+   "a": 2,
+   "w": "Warm water supplies latent heat."
+  },
+  {
+   "q": "Western disturbances reach India with the?",
+   "o": [
+    "Subtropical westerly jet",
+    "Equatorial easterly",
+    "Somali jet",
+    "Polar vortex"
+   ],
+   "a": 0,
+   "w": "The jet carries Mediterranean systems east."
+  }
+ ],
+ "sources": [
+  "NCERT Class 11 and 12 Geography",
+  "Certificate Physical and Human Geography, G C Leong",
+  "Standard atlas"
+ ],
+ "verified": "2026-11-13"
+}

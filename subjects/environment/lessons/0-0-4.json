@@ -1,0 +1,176 @@
+{
+ "id": "0-0-4",
+ "title": "Biomes of the World and India's Biogeographic Zones",
+ "emoji": "🌍",
+ "cards": [
+  {
+   "tag": "Why this matters",
+   "h": "Maps behind many questions",
+   "b": "<p>Biome and zone questions test whether you can place a species or a forest type on a map. They appear in Prelims through \"where is it found\" questions on savanna, taiga, tundra or the Deccan Peninsula.</p><p>Mains answers on biodiversity use these zones to explain why India is mega-diverse.</p>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "What a biome is",
+   "b": "<p>A <b>biome</b> is a large region with similar climate, plants and animals. Rainfall and temperature decide it. The main land biomes are tropical rainforest, savanna, desert, temperate grassland, temperate deciduous forest, taiga (boreal forest), and tundra. Aquatic biomes are freshwater, marine and estuarine.</p><p>An <b>ecotone</b> is the transition zone between two ecosystems. Its richness, called the <b>edge effect</b>, is higher because species of both sides meet there.</p>"
+  },
+  {
+   "tag": "Major biomes",
+   "h": "Quick fingerprints",
+   "b": "<ul><li><b>Tropical rainforest:</b> near the equator, over 2,000 mm rain, layered canopy, highest species richness (Amazon, Congo, Indonesia).</li><li><b>Savanna:</b> grass with scattered trees, seasonal rain (Africa, Brazilian cerrado, Australia).</li><li><b>Taiga:</b> coniferous forest, long cold winters (Russia, Canada).</li><li><b>Tundra:</b> treeless, permafrost, mosses and lichens. Also found on mountains as alpine tundra.</li></ul><p>Grasslands have local names: prairies (North America), steppes (Eurasia), pampas (Argentina), veldt (South Africa), downs (Australia).</p>"
+  },
+  {
+   "tag": "Deserts and wetlands",
+   "h": "Special cases",
+   "b": "<p>Hot deserts (Sahara, Thar) have under 250 mm rain. Cold deserts (Gobi, Ladakh) are dry and cold. Desert plants are <b>xerophytes</b>, with thick cuticles and small leaves. Wetlands are the most productive biome for their area, but are being lost fastest.</p><p><b>Mangroves</b> are salt-tolerant forests of tidal coasts. Coral reefs are tropical shallow-sea ecosystems, and they host about a quarter of marine species on under one percent of the seabed.</p><svg class='d' viewBox='0 0 320 120' role='img' aria-label='Biome rain and temperature'><rect x='10' y='8' width='300' height='30' rx='4' fill='#f4dcd5' stroke='#a3362a'/><text x='160' y='27' font-size='11' text-anchor='middle' fill='#1d2433'>Hot and wet: tropical rainforest</text><rect x='10' y='46' width='300' height='30' rx='4' fill='#f1e4c6' stroke='#a8792a'/><text x='160' y='65' font-size='11' text-anchor='middle' fill='#1d2433'>Hot and dry: desert, savanna</text><rect x='10' y='84' width='300' height='30' rx='4' fill='#dceaec' stroke='#2f6f7a'/><text x='160' y='103' font-size='11' text-anchor='middle' fill='#1d2433'>Cold: taiga, then tundra</text></svg>"
+  },
+  {
+   "tag": "Biogeographic zones",
+   "h": "India's ten zones",
+   "b": "<p>The Wildlife Institute of India (Rodgers and Panwar, 1988) divided India into <b>10 biogeographic zones</b> and 25 provinces.</p><ol><li>Trans-Himalaya (Ladakh, Lahaul-Spiti)</li><li>Himalaya</li><li>Desert (Thar and Kutch)</li><li>Semi-arid</li><li>Western Ghats</li><li>Deccan Peninsula</li><li>Gangetic Plain</li><li>North-East</li><li>Coasts</li><li>Islands</li></ol><p>The Himalaya zone alone has several provinces, from the north-west to the east. Rodgers and Panwar's scheme was made for planning protected areas, so each zone was meant to have a network of parks.</p>"
+  },
+  {
+   "tag": "Zone details",
+   "h": "What each is known for",
+   "b": "<p>The <b>Deccan Peninsula</b> is the largest zone. The <b>Western Ghats</b> are part of a hotspot with high endemism. The <b>North-East</b> is the meeting place of Himalayan, Indo-Malayan and Chinese species. The <b>Trans-Himalaya</b> is the home of the snow leopard and Tibetan antelope (chiru). The <b>Islands</b> zone covers Andaman and Nicobar and Lakshadweep. The <b>Semi-arid</b> zone includes Rajasthan's grasslands, where the great Indian bustard lives.</p>"
+  },
+  {
+   "tag": "Debate",
+   "h": "Zones versus administrative thinking",
+   "b": "<p>Biogeographic zones cross state lines, but policy is made by states and districts. Protected areas are drawn on administrative maps, so some zones, like the semi-arid grasslands, are poorly covered.</p><p>Many grasslands are labelled \"wasteland\" in land records. This gives them little legal protection, though they hold bustards, wolves and blackbuck.</p>"
+  },
+  {
+   "tag": "Indian angle",
+   "h": "Numbers to remember",
+   "b": "<p>India has about 2.4 percent of world land area but roughly 7 to 8 percent of recorded species. It is one of 17 <b>mega-diverse countries</b>. Forest types follow Champion and Seth (1968): 16 major types in India.</p><p>Biogeographic realms: India lies at the junction of the Palearctic, Indo-Malayan and Afrotropical realms. Wallace's realms (1876) are the base of this idea.</p>"
+  },
+  {
+   "tag": "Link",
+   "h": "Biomes and climate change",
+   "b": "<p>Biomes shift as climate warms. Tundra thaws and releases methane. Treelines climb mountains. Rainforests dry and burn. Coral reefs bleach. These links turn a biome map into a climate question, which UPSC likes. The Arctic tundra stores huge carbon in frozen soil. When permafrost melts, microbes release methane and carbon dioxide, which warms the planet more. India's own alpine meadows in Uttarakhand and Sikkim are also being squeezed upward.</p>"
+  },
+  {
+   "tag": "Exam lens",
+   "h": "How to answer",
+   "b": "<p><b>Prelims-style:</b> \"Which biome is called the lungs of the planet?\" (tropical rainforest is the common answer; the sea phytoplankton also supply oxygen). \"Steppes are temperate grasslands of Eurasia.\"</p><p><b>Mains-style:</b> \"Why is India called mega-diverse? Name its biogeographic zones.\" Structure: numbers; ten zones; hotspots; threats; steps taken.</p>",
+   "cls": "exam"
+  }
+ ],
+ "quiz": [
+  {
+   "q": "Pampas are temperate grasslands of:",
+   "o": [
+    "Argentina",
+    "South Africa",
+    "Central Asia",
+    "North America"
+   ],
+   "a": 0,
+   "w": "Prairies are in North America, steppes in Eurasia and veldt in South Africa."
+  },
+  {
+   "q": "How many biogeographic zones does India have in the WII classification?",
+   "o": [
+    "6",
+    "8",
+    "12",
+    "10"
+   ],
+   "a": 3,
+   "w": "Rodgers and Panwar (1988) gave 10 zones and 25 provinces."
+  },
+  {
+   "q": "The transition zone between two ecosystems is called:",
+   "o": [
+    "Biome",
+    "Niche",
+    "Ecotone",
+    "Habitat"
+   ],
+   "a": 2,
+   "w": "The ecotone shows the edge effect."
+  },
+  {
+   "q": "Which zone is the largest in India?",
+   "o": [
+    "Himalaya",
+    "Deccan Peninsula",
+    "Desert",
+    "Coasts"
+   ],
+   "a": 1,
+   "w": "The Deccan zone covers much of peninsular India."
+  },
+  {
+   "q": "Tundra is characterised by:",
+   "o": [
+    "Permafrost and lichens",
+    "Dense canopy",
+    "Tall conifers",
+    "Salt-tolerant roots"
+   ],
+   "a": 0,
+   "w": "It is a treeless cold biome."
+  },
+  {
+   "q": "The Champion and Seth classification (1968) is about:",
+   "o": [
+    "Soil types",
+    "Wetland types",
+    "Rainfall zones",
+    "Forest types of India"
+   ],
+   "a": 3,
+   "w": "It lists 16 major forest types."
+  },
+  {
+   "q": "Xerophytes are plants of:",
+   "o": [
+    "Salty coasts",
+    "Water bodies",
+    "Dry habitats",
+    "Snowy peaks"
+   ],
+   "a": 2,
+   "w": "They have adaptations like thick cuticles."
+  },
+  {
+   "q": "Trans-Himalaya is best known for which animal?",
+   "o": [
+    "Gharial",
+    "Snow leopard",
+    "Hoolock gibbon",
+    "Lion-tailed macaque"
+   ],
+   "a": 1,
+   "w": "Ladakh is its main Indian range."
+  },
+  {
+   "q": "Which biome covers coniferous forests with long winters?",
+   "o": [
+    "Taiga",
+    "Savanna",
+    "Tundra",
+    "Chaparral"
+   ],
+   "a": 0,
+   "w": "Taiga is the boreal forest of Russia and Canada."
+  },
+  {
+   "q": "India is one of how many recognised mega-diverse countries?",
+   "o": [
+    "12",
+    "25",
+    "36",
+    "17"
+   ],
+   "a": 3,
+   "w": "There are 17; 36 is the hotspot count."
+  }
+ ],
+ "sources": [
+  "NCERT Biology Class XII, Ecology",
+  "Shankar IAS Environment",
+  "MoEFCC and PIB"
+ ],
+ "verified": "2026-11-13"
+}

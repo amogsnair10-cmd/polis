@@ -1,0 +1,176 @@
+{
+ "id": "1-1-3",
+ "title": "Western Disturbances, Winter and Retreating Monsoon",
+ "emoji": "❄️",
+ "cards": [
+  {
+   "tag": "Why this matters",
+   "h": "India has four seasons, not just a monsoon",
+   "b": "<p>IMD recognises four seasons: <b>cold weather</b> (December to February), <b>hot weather</b> (March to May), <b>southwest monsoon</b> (June to September) and <b>retreating monsoon</b> or post-monsoon (October to November). The winter and retreat phases matter for rabi crops, cyclones and cold waves.</p>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "Winter circulation",
+   "b": "<svg class=\"d\" viewBox=\"0 0 320 140\"><rect x=\"10\" y=\"6\" width=\"300\" height=\"38\" rx=\"6\" fill=\"#f1e4c6\" stroke=\"#a8792a\" stroke-width=\"1.5\"/><text x=\"160\" y=\"22\" fill=\"#7d5a1c\" font-size=\"12\" text-anchor=\"middle\" font-weight=\"700\">Winter</text><text x=\"160\" y=\"37\" fill=\"#5d6474\" font-size=\"10\" text-anchor=\"middle\">Cold high, dry northeast winds</text><rect x=\"10\" y=\"50\" width=\"300\" height=\"38\" rx=\"6\" fill=\"#dceaec\" stroke=\"#2f6f7a\" stroke-width=\"1.5\"/><text x=\"160\" y=\"66\" fill=\"#2f6f7a\" font-size=\"12\" text-anchor=\"middle\" font-weight=\"700\">Western disturbance</text><text x=\"160\" y=\"81\" fill=\"#5d6474\" font-size=\"10\" text-anchor=\"middle\">Mediterranean low brings rain and snow</text><rect x=\"10\" y=\"94\" width=\"300\" height=\"38\" rx=\"6\" fill=\"#f4dcd5\" stroke=\"#a3362a\" stroke-width=\"1.5\"/><text x=\"160\" y=\"110\" fill=\"#a3362a\" font-size=\"12\" text-anchor=\"middle\" font-weight=\"700\">Retreating monsoon</text><text x=\"160\" y=\"125\" fill=\"#5d6474\" font-size=\"10\" text-anchor=\"middle\">Humid heat, Bay cyclones</text></svg><p>In winter a cold, dry high-pressure area forms over northwest India and Central Asia. Dry winds blow out from the land as the <b>northeast trades</b>. Temperatures fall from south to north: about 24-25 degrees C on the Tamil Nadu coast, 10-15 degrees C in the plains of the north. The <b>jet stream</b> sits south of the Himalaya at about 25-30 degrees N and shapes weather.</p>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "Western disturbances",
+   "b": "<p>Western disturbances are low-pressure systems born over the Mediterranean region, travelling east on the subtropical westerly jet through Iran, Afghanistan and Pakistan. They bring winter rain to Punjab, Haryana and Delhi, and snow to the western Himalaya. Their rain is vital for <b>rabi wheat</b>, locally called <b>mahawat</b> in the north.</p><p>They are most frequent from December to February, usually 4-6 a month.</p>"
+  },
+  {
+   "tag": "Key idea",
+   "h": "Why they matter",
+   "b": "<p>Benefits: wheat, barley, mustard and horticulture (apple in Himachal and Kashmir) depend on them, and snow feeds rivers. Risks: heavy rain with hail can flatten crops; snowfall causes avalanches; when they are strong or interact with the monsoon, they can cause floods, as in Uttarakhand 2013 and Kashmir 2014.</p><p>Fog and cold wave in the Indo-Gangetic plain arise when disturbances are weak and skies clear.</p>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "Cold wave, fog and local winters",
+   "b": "<p>A <b>cold wave</b> is declared when the minimum temperature falls to 4 degrees C or less (plains) or a departure of 4.5 degrees C or more from normal. Dense winter <b>fog</b> hits Delhi and the plains. Rainfall in winter also comes to Tamil Nadu coast from the northeast monsoon from October to December.</p>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "Retreating monsoon (October to November)",
+   "b": "<p>The monsoon withdraws from northwest India in September and from the rest by mid-October. Skies clear, but humidity stays high. The temperature rises, giving the <b>October heat</b>, a muggy spell. Low-pressure systems move from the Andaman Sea to the east coast and the Bay of Bengal becomes cyclone-prone: most severe cyclones in the Bay hit in October-November.</p>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "Northeast monsoon",
+   "b": "<p>As the trough shifts south, winds blow from the northeast over the Bay of Bengal, pick up moisture and bring rain to the <b>Tamil Nadu</b> coast, Puducherry and south Andhra. This gives Tamil Nadu most of its annual rain. It supports the second crop of rice (samba). In the Chennai floods of 2015, this season's rains were the cause.</p>"
+  },
+  {
+   "tag": "Debate",
+   "h": "Are western disturbances changing?",
+   "b": "<p>Studies suggest that warming of the Arctic and shifts in the jet stream may be changing their number and strength. Some research links fewer winter disturbances to dry winters, and more intense ones to extreme rain events. The evidence is still being worked out, so examiners expect balanced answers.</p>"
+  },
+  {
+   "tag": "Indian angle",
+   "h": "Winter crops and agencies",
+   "b": "<p>The rabi sowing season of October to December depends on this phase. IMD issues cold wave and fog alerts. The Himalayan snow from these systems helps feed the Indus and Ganga, and shifting patterns affect water security. The Kashmir valley's <b>Chillai Kalan</b>, the harshest 40 days from 21 December, is a local cold spell.</p>"
+  },
+  {
+   "tag": "Exam lens",
+   "h": "How to answer",
+   "b": "<p>Likely questions: 'What are western disturbances and why are they important?', 'Explain the northeast monsoon', 'Why do east coast cyclones peak in October-November?'</p><ul><li>Define, give origin, path, season and effect, in that order.</li><li>Mention rabi wheat and horticulture.</li><li>Link retreating monsoon to cyclone season and the Tamil Nadu rainfall.</li></ul>",
+   "cls": "exam"
+  }
+ ],
+ "quiz": [
+  {
+   "q": "Western disturbances originate over the?",
+   "o": [
+    "Bay of Bengal",
+    "Arabian Sea",
+    "Mediterranean region",
+    "Pacific"
+   ],
+   "a": 2,
+   "w": "They travel east on the subtropical westerly jet."
+  },
+  {
+   "q": "They are most beneficial for?",
+   "o": [
+    "Rabi wheat",
+    "Kharif rice",
+    "Jute",
+    "Tea"
+   ],
+   "a": 0,
+   "w": "Winter rain helps wheat in the northwest."
+  },
+  {
+   "q": "The retreating monsoon season is?",
+   "o": [
+    "October to November",
+    "June to September",
+    "March to May",
+    "December to February"
+   ],
+   "a": 0,
+   "w": "Also called post-monsoon."
+  },
+  {
+   "q": "The October heat is caused by?",
+   "o": [
+    "Western disturbances",
+    "Jet stream",
+    "High humidity and clear skies",
+    "Sea breeze"
+   ],
+   "a": 2,
+   "w": "It follows the withdrawal of the monsoon."
+  },
+  {
+   "q": "Tamil Nadu gets most of its rain from the?",
+   "o": [
+    "Southwest monsoon",
+    "Western disturbances",
+    "Northeast monsoon",
+    "Loo"
+   ],
+   "a": 2,
+   "w": "October to December."
+  },
+  {
+   "q": "Cyclones in the Bay of Bengal are most severe in?",
+   "o": [
+    "October-November",
+    "February",
+    "June",
+    "August"
+   ],
+   "a": 0,
+   "w": "The retreating season."
+  },
+  {
+   "q": "Rain brought by western disturbances in north India is called?",
+   "o": [
+    "Mahawat",
+    "Mango showers",
+    "Kalbaisakhi",
+    "Loo"
+   ],
+   "a": 0,
+   "w": "It supports rabi crops."
+  },
+  {
+   "q": "IMD recognises how many seasons?",
+   "o": [
+    "Three",
+    "Five",
+    "Four",
+    "Six"
+   ],
+   "a": 2,
+   "w": "Cold, hot, monsoon, retreating monsoon."
+  },
+  {
+   "q": "In winter the high pressure lies over?",
+   "o": [
+    "The equator",
+    "Tamil Nadu",
+    "Central Asia and northwest India",
+    "Bay of Bengal"
+   ],
+   "a": 2,
+   "w": "Cold land cools air and raises pressure."
+  },
+  {
+   "q": "Chillai Kalan is associated with?",
+   "o": [
+    "Kashmir winter",
+    "Kerala monsoon",
+    "Assam floods",
+    "Thar summer"
+   ],
+   "a": 0,
+   "w": "A 40-day cold spell."
+  }
+ ],
+ "sources": [
+  "NCERT Class 11 and 12 Geography",
+  "Certificate Physical and Human Geography, G C Leong",
+  "Standard atlas"
+ ],
+ "verified": "2026-11-13"
+}

@@ -1,0 +1,176 @@
+{
+ "id": "0-3-1",
+ "title": "Biomes of the World",
+ "emoji": "🌳",
+ "cards": [
+  {
+   "tag": "Why this matters",
+   "h": "Climate draws the map of life",
+   "b": "<p>A <b>biome</b> is a large community of plants and animals shaped by climate. Temperature and rainfall decide which biome sits where. UPSC asks about forests, grasslands and deserts with their examples, adaptations and threats. It also links to climate change, because biomes are shifting.</p>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "The big picture",
+   "b": "<svg class=\"d\" viewBox=\"0 0 320 140\"><rect x=\"10\" y=\"6\" width=\"300\" height=\"38\" rx=\"6\" fill=\"#f1e4c6\" stroke=\"#a8792a\" stroke-width=\"1.5\"/><text x=\"160\" y=\"22\" fill=\"#7d5a1c\" font-size=\"12\" text-anchor=\"middle\" font-weight=\"700\">Equator</text><text x=\"160\" y=\"37\" fill=\"#5d6474\" font-size=\"10\" text-anchor=\"middle\">Rainforest, savanna</text><rect x=\"10\" y=\"50\" width=\"300\" height=\"38\" rx=\"6\" fill=\"#dceaec\" stroke=\"#2f6f7a\" stroke-width=\"1.5\"/><text x=\"160\" y=\"66\" fill=\"#2f6f7a\" font-size=\"12\" text-anchor=\"middle\" font-weight=\"700\">Subtropics and mid-latitudes</text><text x=\"160\" y=\"81\" fill=\"#5d6474\" font-size=\"10\" text-anchor=\"middle\">Desert, Mediterranean, grassland, deciduous forest</text><rect x=\"10\" y=\"94\" width=\"300\" height=\"38\" rx=\"6\" fill=\"#f4dcd5\" stroke=\"#a3362a\" stroke-width=\"1.5\"/><text x=\"160\" y=\"110\" fill=\"#a3362a\" font-size=\"12\" text-anchor=\"middle\" font-weight=\"700\">High latitudes</text><text x=\"160\" y=\"125\" fill=\"#5d6474\" font-size=\"10\" text-anchor=\"middle\">Taiga, tundra</text></svg><p>Land biomes: tropical rainforest, tropical savanna, desert, temperate grassland, Mediterranean scrub, temperate deciduous forest, taiga (boreal forest) and tundra. Moving from the equator to the poles, the temperature falls and the plant forms change from broad-leaf evergreen to needle-leaf to moss and lichen.</p>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "Tropical rainforest",
+   "b": "<p>Within 10 degrees of the equator. Rain above 2,000 mm, no dry season, 25-27 degrees C. Layers: emergent, canopy, understory, forest floor. Very high diversity, thin soils that leach and lose nutrients. Found in the Amazon, Congo, and Southeast Asia (Indonesia, Malaysia). Forest loss through logging, palm oil and cattle is the main threat.</p>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "Savanna and temperate grasslands",
+   "b": "<p><b>Savanna</b>: grass with scattered trees, wet and dry seasons. East Africa (Serengeti), Brazil's Campos and Llanos. Big herds and predators. <b>Temperate grasslands</b>: fewer trees, cold winters, fertile dark soil. Prairies (North America), Pampas (Argentina), Steppes (Eurasia), Veld (South Africa), Downs (Australia). These are the world's wheat belts.</p>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "Deserts",
+   "b": "<p>Under 250 mm of rain. Hot deserts: Sahara, Arabian, Thar, Australian. Cold deserts: Gobi, Patagonia, Ladakh. Plants (xerophytes) have thick stems, waxy leaves, spines, deep roots (cactus, acacia). Animals are nocturnal or store water. Deserts form in the subtropical high pressure belts, in rain shadows (Atacama) and in continental interiors (Gobi).</p>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "Mediterranean and temperate forests",
+   "b": "<p><b>Mediterranean</b>: hot, dry summer and mild, wet winter, between 30 and 40 degrees on west coasts. Evergreen shrubs, citrus, olive and vines. California, central Chile, southwest Australia, the Cape. <b>Temperate deciduous</b>: four seasons, trees shed leaves (oak, beech, maple). Eastern USA, western Europe, northeast China. Much cleared for farming.</p>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "Taiga and tundra",
+   "b": "<p><b>Taiga</b> (boreal forest): the largest land biome, across Canada, Scandinavia and Siberia. Conifers (spruce, fir, pine) with needles that shed snow. Long winters, thin acidic podzol soils, lumber and pulp. <b>Tundra</b>: treeless, permafrost, mosses and lichens, short summer. Arctic tundra stores huge carbon; thawing releases methane and CO2.</p>"
+  },
+  {
+   "tag": "Debate",
+   "h": "Are biome boundaries fixed?",
+   "b": "<p>No. Warming is pushing the tree line upward in mountains and northward in the Arctic. Rainforest in the Amazon may tip to savanna under drought and deforestation, a possible <b>tipping point</b> discussed by scientists such as Carlos Nobre. Some biologists prefer the term <b>ecoregion</b> because boundaries are fuzzy and local variety matters.</p>"
+  },
+  {
+   "tag": "Indian angle",
+   "h": "Biomes in India",
+   "b": "<p>India has rainforest (Western Ghats, northeast, Andaman), savanna-like tropical dry deciduous forest, thorn scrub (Rajasthan, Gujarat), desert (Thar, Ladakh cold desert), mangroves (Sundarbans), and alpine meadows and tundra above the tree line in the Himalaya. Temperate grassland is limited to alpine pastures like the Bugyals of Uttarakhand.</p>"
+  },
+  {
+   "tag": "Exam lens",
+   "h": "How to answer",
+   "b": "<p>Likely questions: 'Compare savanna and temperate grasslands', 'Why are tropical rainforest soils poor despite lush growth?', 'Impact of climate change on biomes'.</p><ul><li>Use a table: location, climate, vegetation, soil, human use, threat.</li><li>Give local names (Pampas, Veld, Steppe) with the continent.</li><li>For soils: fast nutrient cycling in the plants, not the soil.</li></ul>",
+   "cls": "exam"
+  }
+ ],
+ "quiz": [
+  {
+   "q": "A biome is mainly defined by?",
+   "o": [
+    "Rock type",
+    "Population",
+    "Climate and vegetation",
+    "Latitude only"
+   ],
+   "a": 2,
+   "w": "Temperature and rainfall shape the community."
+  },
+  {
+   "q": "The Pampas are in?",
+   "o": [
+    "Argentina",
+    "Australia",
+    "Kazakhstan",
+    "South Africa"
+   ],
+   "a": 0,
+   "w": "Pampas are the temperate grassland of Argentina."
+  },
+  {
+   "q": "The largest land biome is?",
+   "o": [
+    "Taiga",
+    "Tundra",
+    "Savanna",
+    "Desert"
+   ],
+   "a": 0,
+   "w": "The boreal forest circles the north."
+  },
+  {
+   "q": "Xerophytes are plants adapted to?",
+   "o": [
+    "Cold",
+    "Salt water",
+    "Dry conditions",
+    "Shade"
+   ],
+   "a": 2,
+   "w": "Cactus and acacia are xerophytes."
+  },
+  {
+   "q": "Veld is the grassland of?",
+   "o": [
+    "Ukraine",
+    "Canada",
+    "South Africa",
+    "Chile"
+   ],
+   "a": 2,
+   "w": "Veld is South African grassland."
+  },
+  {
+   "q": "Mediterranean climate lies on?",
+   "o": [
+    "West sides of continents at 30-40 degrees",
+    "East coasts near the equator",
+    "Polar coasts",
+    "Continental interiors"
+   ],
+   "a": 0,
+   "w": "Subtropical highs and westerlies shift seasonally."
+  },
+  {
+   "q": "Tropical rainforest soils are poor because?",
+   "o": [
+    "Nutrients leach away and sit in plants",
+    "Soil is too cold",
+    "They have too little rain",
+    "Soil is volcanic"
+   ],
+   "a": 0,
+   "w": "Heavy rain washes out nutrients and litter decays fast."
+  },
+  {
+   "q": "Permafrost is characteristic of?",
+   "o": [
+    "Savanna",
+    "Chaparral",
+    "Tundra",
+    "Rainforest"
+   ],
+   "a": 2,
+   "w": "Frozen ground persists all year."
+  },
+  {
+   "q": "The Steppes are mainly in?",
+   "o": [
+    "South America",
+    "Africa",
+    "Eurasia",
+    "Australia"
+   ],
+   "a": 2,
+   "w": "They stretch from Ukraine to Mongolia."
+  },
+  {
+   "q": "A cold desert is the?",
+   "o": [
+    "Gobi",
+    "Sahara",
+    "Thar",
+    "Kalahari"
+   ],
+   "a": 0,
+   "w": "The Gobi has cold winters."
+  }
+ ],
+ "sources": [
+  "NCERT Class 11 and 12 Geography",
+  "Certificate Physical and Human Geography, G C Leong",
+  "Standard atlas"
+ ],
+ "verified": "2026-11-13"
+}

@@ -1,0 +1,176 @@
+{
+ "id": "1-1-6",
+ "title": "Alluvial, Black, Red and Laterite Soils",
+ "emoji": "🟤",
+ "cards": [
+  {
+   "tag": "Why this matters",
+   "h": "Soil decides what grows where",
+   "b": "<p>The Indian Council of Agricultural Research (ICAR) grouped Indian soils into eight major groups. UPSC asks for formation, distribution, characteristics and crops. Master the big four: alluvial, black, red and laterite. Then add arid, forest, saline and peaty.</p>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "How soils form",
+   "b": "<svg class=\"d\" viewBox=\"0 0 320 184\"><rect x=\"10\" y=\"6\" width=\"300\" height=\"38\" rx=\"6\" fill=\"#f1e4c6\" stroke=\"#a8792a\" stroke-width=\"1.5\"/><text x=\"160\" y=\"22\" fill=\"#7d5a1c\" font-size=\"12\" text-anchor=\"middle\" font-weight=\"700\">Alluvial</text><text x=\"160\" y=\"37\" fill=\"#5d6474\" font-size=\"10\" text-anchor=\"middle\">Rivers, plains, wheat and rice</text><rect x=\"10\" y=\"50\" width=\"300\" height=\"38\" rx=\"6\" fill=\"#dceaec\" stroke=\"#2f6f7a\" stroke-width=\"1.5\"/><text x=\"160\" y=\"66\" fill=\"#2f6f7a\" font-size=\"12\" text-anchor=\"middle\" font-weight=\"700\">Black</text><text x=\"160\" y=\"81\" fill=\"#5d6474\" font-size=\"10\" text-anchor=\"middle\">Basalt, cotton</text><rect x=\"10\" y=\"94\" width=\"300\" height=\"38\" rx=\"6\" fill=\"#f4dcd5\" stroke=\"#a3362a\" stroke-width=\"1.5\"/><text x=\"160\" y=\"110\" fill=\"#a3362a\" font-size=\"12\" text-anchor=\"middle\" font-weight=\"700\">Red</text><text x=\"160\" y=\"125\" fill=\"#5d6474\" font-size=\"10\" text-anchor=\"middle\">Granite and gneiss, millets</text><rect x=\"10\" y=\"138\" width=\"300\" height=\"38\" rx=\"6\" fill=\"#f1e4c6\" stroke=\"#a8792a\" stroke-width=\"1.5\"/><text x=\"160\" y=\"154\" fill=\"#7d5a1c\" font-size=\"12\" text-anchor=\"middle\" font-weight=\"700\">Laterite</text><text x=\"160\" y=\"169\" fill=\"#5d6474\" font-size=\"10\" text-anchor=\"middle\">Heavy rain, plantation crops</text></svg><p>Soil comes from <b>parent rock</b>, <b>climate</b>, <b>relief</b>, <b>organisms</b> and <b>time</b> (Dokuchaev's factors). Hot, wet climates leach nutrients. Dry climates leave salts. Soil profile layers are called horizons: O, A, B, C, R.</p>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "Alluvial soil",
+   "b": "<p>The largest group (about 40 percent of the land). Found in the northern plains, the coastal plains and deltas. Deposited by rivers, loose and fertile. Rich in potash and lime, poor in nitrogen and humus. Types: <b>Bhangar</b> and <b>Khadar</b>. Crops: wheat, rice, sugarcane, jute, pulses. Highly productive, so it supports dense population.</p>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "Black (regur) soil",
+   "b": "<p>Formed from <b>Deccan basalt</b>. Found in Maharashtra, Madhya Pradesh, Gujarat, Karnataka, Andhra. Clayey, retains moisture, <b>swells when wet and cracks when dry</b>, which gives it a self-ploughing quality. Rich in iron, lime, calcium, magnesium; poor in nitrogen and phosphorus. Black colour from titaniferous magnetite. Best for <b>cotton</b>, hence 'black cotton soil'; also sugarcane, soybean, millets.</p>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "Red and yellow soil",
+   "b": "<p>Forms on ancient crystalline rocks (granite, gneiss) in areas of low rain: Tamil Nadu, Karnataka, Andhra, Odisha, Chhattisgarh, Jharkhand, Northeast. Red colour from iron oxide in the anhydrous state; yellow when hydrated. Porous, low in nitrogen, phosphorus, humus. Need fertiliser and irrigation. Crops: groundnut, millets, pulses, tobacco.</p>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "Laterite soil",
+   "b": "<p>Latin <i>later</i> means brick. Forms in heavy rain with alternate wet and dry seasons. Intense <b>leaching</b> removes silica and leaves iron and aluminium. Found in the Western Ghats, Eastern Ghats, Meghalaya, Odisha, Karnataka and Kerala. Acidic, poor in nutrients and humus. Hardens into brick when dry, so it is used for building. Supports tea, coffee, rubber, cashew, tapioca.</p>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "Other soils",
+   "b": "<p><b>Arid (desert)</b>: sandy, saline, low humus, western Rajasthan. Needs irrigation (Indira Gandhi Canal). <b>Forest (mountain)</b>: Himalayan slopes, humus rich, acidic in snow areas. <b>Saline and alkaline</b>: reh, kallar, usar, in Punjab, Haryana, UP, Gujarat; from over-irrigation. Reclaim with gypsum. <b>Peaty and marshy</b>: Kerala (kari soil), Sundarbans, rich in organic matter.</p>"
+  },
+  {
+   "tag": "Debate",
+   "h": "Soil degradation",
+   "b": "<p>Problems: erosion (sheet, rill, gully), salinity, waterlogging, loss of organic carbon, fertiliser overuse. About 30 percent of land is degraded by some estimates, and India has committed to restore 26 million hectares by 2030 under UNCCD. Counter measures: Soil Health Card (2015), contour bunding, shelterbelts, zero tillage, afforestation.</p>"
+  },
+  {
+   "tag": "Indian angle",
+   "h": "Soil and crop pairs",
+   "b": "<p>Alluvial: wheat and rice. Black: cotton. Red: groundnut and millets. Laterite: plantation crops. Arid: bajra with irrigation. The Soil Health Card scheme, launched in 2015, tests soil every two years and advises balanced fertiliser use. ICAR's National Bureau of Soil Survey and Land Use Planning (Nagpur) does mapping.</p>"
+  },
+  {
+   "tag": "Exam lens",
+   "h": "How to answer",
+   "b": "<p>Likely questions: 'Why is black soil suited to cotton?', 'Account for laterite soil in the Western Ghats', 'Soil erosion and conservation'.</p><ul><li>Use cause (rock, climate), property, distribution, crop in that order.</li><li>Draw a rough map with four colours.</li><li>For degradation, mention erosion, salinity and the Soil Health Card.</li></ul>",
+   "cls": "exam"
+  }
+ ],
+ "quiz": [
+  {
+   "q": "The most widespread soil group in India is?",
+   "o": [
+    "Black",
+    "Red",
+    "Alluvial",
+    "Laterite"
+   ],
+   "a": 2,
+   "w": "About 40 percent."
+  },
+  {
+   "q": "Black soil forms from?",
+   "o": [
+    "Basalt",
+    "Granite",
+    "Limestone",
+    "Sandstone"
+   ],
+   "a": 0,
+   "w": "The Deccan lava."
+  },
+  {
+   "q": "Black soil is best for?",
+   "o": [
+    "Cotton",
+    "Tea",
+    "Jute",
+    "Rice only"
+   ],
+   "a": 0,
+   "w": "Moisture retentive clay."
+  },
+  {
+   "q": "Red soil's colour comes from?",
+   "o": [
+    "Humus",
+    "Salt",
+    "Iron oxide",
+    "Lime"
+   ],
+   "a": 2,
+   "w": "Iron in crystalline rocks."
+  },
+  {
+   "q": "Laterite is formed by intense?",
+   "o": [
+    "Glaciation",
+    "Wind erosion",
+    "Leaching",
+    "Deposition"
+   ],
+   "a": 2,
+   "w": "Silica is washed away."
+  },
+  {
+   "q": "Laterite soils are suitable for?",
+   "o": [
+    "Tea, coffee, rubber, cashew",
+    "Wheat",
+    "Cotton",
+    "Jute"
+   ],
+   "a": 0,
+   "w": "Plantation crops."
+  },
+  {
+   "q": "Reclaiming saline soils is done with?",
+   "o": [
+    "Gypsum",
+    "Urea",
+    "Potash",
+    "Lime water"
+   ],
+   "a": 0,
+   "w": "Gypsum displaces sodium."
+  },
+  {
+   "q": "The Soil Health Card was launched in?",
+   "o": [
+    "1985",
+    "2005",
+    "2015",
+    "2022"
+   ],
+   "a": 2,
+   "w": "It gives nutrient advice."
+  },
+  {
+   "q": "Which has the highest humus?",
+   "o": [
+    "Desert soil",
+    "Laterite",
+    "Forest soil",
+    "Red soil"
+   ],
+   "a": 2,
+   "w": "Leaf litter."
+  },
+  {
+   "q": "Soil that cracks in dry weather is?",
+   "o": [
+    "Black soil",
+    "Alluvial",
+    "Laterite",
+    "Desert"
+   ],
+   "a": 0,
+   "w": "Swelling clays."
+  }
+ ],
+ "sources": [
+  "NCERT Class 11 and 12 Geography",
+  "Certificate Physical and Human Geography, G C Leong",
+  "Standard atlas"
+ ],
+ "verified": "2026-11-13"
+}

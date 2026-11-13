@@ -1,0 +1,176 @@
+{
+ "id": "2-0-5",
+ "title": "Marine Pollution, Oil Spills and Ocean Acidification",
+ "emoji": "🛢️",
+ "cards": [
+  {
+   "tag": "Why this matters",
+   "h": "Seas as sink",
+   "b": "<p>Oceans absorb heat, carbon and waste. Prelims asks about spills, conventions (MARPOL, London), acidification and dead zones. Mains asks about the Indian coast and the Blue Economy.</p><p>It also links to coral reefs, fisheries and climate.</p>"
+  },
+  {
+   "tag": "Sources",
+   "h": "Land and sea",
+   "b": "<p>About <b>80 percent</b> of marine pollution comes from land: sewage, plastics, fertiliser run-off, industrial waste. The rest comes from ships (oil, garbage, ballast water) and accidents. <b>Plastic</b> is now found from the surface to the deep sea, and microplastics enter food chains.</p><p>Ocean gyres collect floating debris. The <b>Great Pacific Garbage Patch</b> lies between Hawaii and California.</p>"
+  },
+  {
+   "tag": "Oil spills",
+   "h": "Cases to know",
+   "b": "<ul><li><b>Exxon Valdez (1989):</b> Alaska; one of the best-known tanker spills.</li><li><b>Deepwater Horizon (2010):</b> Gulf of Mexico; the largest marine oil spill in history by volume.</li><li><b>MV Wakashio (2020):</b> Mauritius, ran aground on a coral reef.</li><li><b>Ennore, Chennai (January 2017):</b> two ships collided and oil reached the beach.</li><li><b>X-Press Pearl (2021):</b> Sri Lanka; plastic pellets and chemicals.</li></ul><p>Oil coats birds and fur, blocks light and harms fish eggs.</p>"
+  },
+  {
+   "tag": "Cleaning",
+   "h": "Response methods",
+   "b": "<p>Spill response uses <b>booms</b> (floating barriers), <b>skimmers</b>, <b>dispersants</b> and <b>in-situ burning</b>. <b>Bioremediation</b> uses oil-eating bacteria. The <b>Indian Coast Guard</b> is the national response agency under the <b>National Oil Spill Disaster Contingency Plan</b> (1996).</p><p>Dispersants break oil into droplets but can also be toxic. Prevention is better: double-hulled tankers, safe routes and strict inspection.</p><svg class='d' viewBox='0 0 320 160' role='img' aria-label='Marine pollution sources'><rect x='10' y='8' width='300' height='30' rx='4' fill='#dceaec' stroke='#2f6f7a'/><text x='160' y='27' font-size='11' text-anchor='middle' fill='#1d2433'>Land: sewage, plastic, run-off</text><rect x='10' y='46' width='300' height='30' rx='4' fill='#f1e4c6' stroke='#a8792a'/><text x='160' y='65' font-size='11' text-anchor='middle' fill='#1d2433'>Ships: oil, garbage, ballast</text><rect x='10' y='84' width='300' height='30' rx='4' fill='#f4dcd5' stroke='#a3362a'/><text x='160' y='103' font-size='11' text-anchor='middle' fill='#1d2433'>Accidents: oil spills</text><rect x='10' y='122' width='300' height='30' rx='4' fill='#dceaec' stroke='#2f6f7a'/><text x='160' y='141' font-size='11' text-anchor='middle' fill='#1d2433'>Air: CO2 leads to acidification</text></svg>"
+  },
+  {
+   "tag": "Conventions",
+   "h": "International law",
+   "b": "<ul><li><b>MARPOL 73/78 (IMO):</b> prevents pollution from ships. Six Annexes: oil, noxious liquids, harmful packaged goods, sewage, garbage, air pollution.</li><li><b>London Convention (1972)</b> and its Protocol: dumping of wastes at sea.</li><li><b>UNCLOS (1982):</b> the law of the sea; EEZ of 200 nautical miles.</li><li><b>Ballast Water Convention (2004)</b> controls invasive species carried by ships.</li><li><b>OPRC 1990:</b> preparedness against oil pollution.</li></ul><p>India is a party to MARPOL and UNCLOS.</p>"
+  },
+  {
+   "tag": "Acidification",
+   "h": "The other CO2 problem",
+   "b": "<p>The ocean absorbs about a quarter of human CO2. The gas reacts with water to form carbonic acid and <b>lowers pH</b>. Since the industrial era surface pH has fallen by about <b>0.1 units</b> (from about 8.2 to 8.1), around <b>30 percent</b> more acidic.</p><p>Acidification makes it harder for <b>corals, shellfish and pteropods</b> to build calcium carbonate shells. It joins warming and <b>deoxygenation</b> as threats. <b>Coral bleaching</b> is caused by warmth, not acid, but reefs face both.</p>"
+  },
+  {
+   "tag": "Dead zones",
+   "h": "Hypoxia",
+   "b": "<p>Fertiliser run-off feeds algae. When they die, bacteria use oxygen, and <b>dead zones</b> form. The Gulf of Mexico dead zone, fed by the Mississippi River, is a famous example. <b>Red tides</b> (harmful algal blooms) are another sign.</p><p>India: the Arabian Sea and Bay of Bengal have low-oxygen layers, and blooms have affected Kerala and Odisha coasts.</p>"
+  },
+  {
+   "tag": "Indian angle",
+   "h": "Coast and policy",
+   "b": "<p>India has about <b>11,098 km</b> of coastline including islands (the 2023 figure; earlier 7,516 km). The <b>Coastal Regulation Zone</b> rules limit building near the coast. <b>Swachh Sagar, Surakshit Sagar</b> (2022) was a coastal cleanup drive. India's <b>Blue Economy</b> policy and the <b>Deep Ocean Mission</b> (2021) raise both use and risk. The <b>National Centre for Coastal Research</b> (NCCR) works on coastal health.</p>"
+  },
+  {
+   "tag": "Revision",
+   "h": "Key points",
+   "b": "<ul><li>80 percent of marine pollution comes from land.</li><li>MARPOL 73/78: ship pollution.</li><li>London Convention: dumping at sea.</li><li>Ocean acidification: pH down by about 0.1.</li><li>ICG: lead for oil spills.</li></ul>"
+  },
+  {
+   "tag": "Exam lens",
+   "h": "How to answer",
+   "b": "<p><b>Prelims-style:</b> \"Which convention deals with pollution from ships?\" (MARPOL). \"Ocean acidification affects which organisms?\" (corals, molluscs).</p><p><b>Mains-style:</b> \"Discuss the causes and consequences of marine pollution. What steps can India take?\" Structure: land and sea sources; spills; acidification; legal framework; Indian measures; way forward.</p>",
+   "cls": "exam"
+  }
+ ],
+ "quiz": [
+  {
+   "q": "Which convention prevents pollution from ships?",
+   "o": [
+    "CITES",
+    "CMS",
+    "Ramsar",
+    "MARPOL"
+   ],
+   "a": 3,
+   "w": "Under the IMO."
+  },
+  {
+   "q": "The London Convention 1972 concerns:",
+   "o": [
+    "Whaling",
+    "Wetlands",
+    "Dumping of waste at sea",
+    "Ozone"
+   ],
+   "a": 2,
+   "w": "It controls ocean dumping."
+  },
+  {
+   "q": "Roughly what share of marine pollution is land-based?",
+   "o": [
+    "10 percent",
+    "80 percent",
+    "30 percent",
+    "50 percent"
+   ],
+   "a": 1,
+   "w": "Mostly sewage and plastic."
+  },
+  {
+   "q": "Ocean acidification is caused mainly by:",
+   "o": [
+    "Absorption of CO2",
+    "Oil spills",
+    "Sewage",
+    "Nuclear waste"
+   ],
+   "a": 0,
+   "w": "CO2 forms carbonic acid."
+  },
+  {
+   "q": "Which organisms suffer most from acidification?",
+   "o": [
+    "Whales only",
+    "Sea birds",
+    "Algae only",
+    "Corals and shellfish"
+   ],
+   "a": 3,
+   "w": "They need calcium carbonate."
+  },
+  {
+   "q": "The 2020 MV Wakashio spill occurred near:",
+   "o": [
+    "Chennai",
+    "Alaska",
+    "Mauritius",
+    "Japan"
+   ],
+   "a": 2,
+   "w": "The ship ran aground on a reef."
+  },
+  {
+   "q": "The lead agency for oil spills in India is the:",
+   "o": [
+    "Navy",
+    "Indian Coast Guard",
+    "CPCB",
+    "ONGC"
+   ],
+   "a": 1,
+   "w": "Under the 1996 plan."
+  },
+  {
+   "q": "The largest marine oil spill by volume was:",
+   "o": [
+    "Deepwater Horizon",
+    "Exxon Valdez",
+    "Wakashio",
+    "Ennore"
+   ],
+   "a": 0,
+   "w": "In the Gulf of Mexico, 2010."
+  },
+  {
+   "q": "A dead zone is an area with:",
+   "o": [
+    "High salt",
+    "High oil",
+    "High plastic only",
+    "Very low oxygen"
+   ],
+   "a": 3,
+   "w": "Caused by nutrient run-off."
+  },
+  {
+   "q": "The Ballast Water Convention targets:",
+   "o": [
+    "Whale hunting",
+    "Plastic bags",
+    "Invasive species in ships",
+    "Radioactive waste"
+   ],
+   "a": 2,
+   "w": "Adopted in 2004."
+  }
+ ],
+ "sources": [
+  "Shankar IAS Environment",
+  "CPCB, MoEFCC and PIB",
+  "Respective Acts and Rules (official texts)"
+ ],
+ "verified": "2026-11-13"
+}

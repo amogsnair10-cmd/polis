@@ -1,0 +1,176 @@
+{
+ "id": "1-0-7",
+ "title": "Elephants, Rhinos and Their Conservation Projects",
+ "emoji": "🐘",
+ "cards": [
+  {
+   "tag": "Why this matters",
+   "h": "Projects and pachyderms",
+   "b": "<p>UPSC likes species projects: which year, which animal, which state. Elephant and rhino are also common in current affairs because of human-wildlife conflict and poaching.</p><p>This lesson gives the key dates and numbers.</p><p>Expect questions that link species with their status on the IUCN list and with the right Schedule of the WPA.</p>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "Project Elephant",
+   "b": "<p><b>Project Elephant</b> was launched in <b>1992</b> to protect elephants, their habitat and corridors, and to address conflict. It is run by the MoEFCC. India has about 33 elephant reserves in over 14 states. The Asian elephant is <b>Endangered</b> (IUCN) and in Schedule I of the WPA.</p><p>The Government declared the elephant a <b>National Heritage Animal</b> in <b>2010</b>, after the Elephant Task Force (2010) report <b>Gajah</b>. World Elephant Day is 12 August.</p>"
+  },
+  {
+   "tag": "Numbers",
+   "h": "Where they live",
+   "b": "<p>The 2017 census counted about <b>27,312</b> elephants. <b>Karnataka</b> had the most, followed by Assam and Kerala. A later DNA-based count in 2025 reported a lower figure (verify before using). India holds over half of all wild Asian elephants.</p><p>Habitat patches are shrinking. Over 400 people a year are killed in conflict across India (government figures, recent years), and elephants die from train hits, electric fences and poisoning. Rail corridors in Assam and Odisha are black spots.</p>"
+  },
+  {
+   "tag": "Corridors",
+   "h": "Moving between forests",
+   "b": "<p>An <b>elephant corridor</b> is a strip of land that links two forests. India has over 100 identified corridors. Wildlife Trust of India and the MoEFCC published a report on them. Some are on private land, so their protection needs state action. Underpasses and speed limits on trains help. A mother herd roams hundreds of square kilometres.</p><svg class='d' viewBox='0 0 320 160' role='img' aria-label='Elephant and rhino dates'><rect x='10' y='8' width='300' height='30' rx='4' fill='#dceaec' stroke='#2f6f7a'/><text x='160' y='27' font-size='11' text-anchor='middle' fill='#1d2433'>Project Elephant: 1992</text><rect x='10' y='46' width='300' height='30' rx='4' fill='#dceaec' stroke='#2f6f7a'/><text x='160' y='65' font-size='11' text-anchor='middle' fill='#1d2433'>Heritage Animal: 2010</text><rect x='10' y='84' width='300' height='30' rx='4' fill='#dceaec' stroke='#2f6f7a'/><text x='160' y='103' font-size='11' text-anchor='middle' fill='#1d2433'>Rhino Vision 2020: from 2005</text><rect x='10' y='122' width='300' height='30' rx='4' fill='#dceaec' stroke='#2f6f7a'/><text x='160' y='141' font-size='11' text-anchor='middle' fill='#1d2433'>Kaziranga: World Heritage 1985</text></svg>"
+  },
+  {
+   "tag": "Rhino",
+   "h": "Greater one-horned rhino",
+   "b": "<p>The Indian rhino is <b>Vulnerable</b> (IUCN) and Schedule I. It is found mostly in <b>Kaziranga</b> (Assam), also in Pobitora, Orang and Manas, and in Jaldapara and Gorumara in West Bengal. Kaziranga is a World Heritage Site (1985). The population in India is about 4,000, over 2,600 in Assam.</p><p>The <b>Indian Rhino Vision 2020</b> was a plan from 2005 to reach 3,000 rhinos in Assam by translocation. Poaching for horn is the main threat. Rhinos are also flood-prone.</p>"
+  },
+  {
+   "tag": "Other rhinos",
+   "h": "Javan and Sumatran",
+   "b": "<p>The Javan rhino (Critically Endangered) lives only in Ujung Kulon in Indonesia. The Sumatran rhino is also Critically Endangered. The white and black rhinos are African. Two African rhino species are mixed up in questions with the Indian one. The Asian rhinos have one or two horns; African rhinos have two.</p>"
+  },
+  {
+   "tag": "Debate",
+   "h": "Poaching or habitat?",
+   "b": "<p>Ivory and horn trade is still a threat, but the larger long-term threat is habitat loss. Compensation and conflict are huge. Some states allow chilli fences, bee fences and early-warning SMS. Critics say translocation of \"problem\" elephants to captivity or zoos is cruel. Temples and mahouts raise the issue of captive elephants.</p>"
+  },
+  {
+   "tag": "Indian angle",
+   "h": "Policy tools",
+   "b": "<p>The <b>Wildlife (Protection) Act 1972</b> bans hunting and trade. <b>Project Elephant</b> and the <b>Elephant reserve</b> model are administrative. The Supreme Court (2020) upheld the Nilgiris elephant corridor near Mudumalai. Karnataka and Kerala have railways limiting speeds on elephant tracks. The <b>MIKE programme</b> (Monitoring the Illegal Killing of Elephants) is a CITES tool.</p>"
+  },
+  {
+   "tag": "Revision",
+   "h": "Numbers",
+   "b": "<ul><li>Project Elephant: 1992. Heritage Animal: 2010.</li><li>Elephant reserves: about 33.</li><li>Census 2017: 27,312.</li><li>Rhino: Kaziranga, Vulnerable.</li><li>World Elephant Day: 12 Aug.</li></ul><p>Tiger, elephant, rhino, lion and leopard are all Schedule I species. Their reserves and census cycles are often paired in one question. The 2017 census total of 27,312 is the figure most questions use.</p>"
+  },
+  {
+   "tag": "Exam lens",
+   "h": "How to answer",
+   "b": "<p><b>Prelims-style:</b> \"Project Elephant was launched in\" (1992). \"Which state holds the highest elephant population?\" (Karnataka in 2017).</p><p><b>Mains-style:</b> \"Why is human-elephant conflict rising and what can be done?\" Structure: causes (habitat loss, corridors, crop raids); impact; policy (Project Elephant, corridors); local solutions; way forward.</p><p>Add one local solution, such as early-warning systems in Assam or honey-bee fences in Karnataka, to lift a Mains answer. A Prelims favourite is the pairing of project and year, so write each pair down.</p>",
+   "cls": "exam"
+  }
+ ],
+ "quiz": [
+  {
+   "q": "Project Elephant was launched in:",
+   "o": [
+    "1992",
+    "1973",
+    "2004",
+    "2010"
+   ],
+   "a": 0,
+   "w": "It is a centrally sponsored scheme."
+  },
+  {
+   "q": "The elephant was declared the National Heritage Animal in:",
+   "o": [
+    "1992",
+    "2006",
+    "2019",
+    "2010"
+   ],
+   "a": 3,
+   "w": "After the Gajah report."
+  },
+  {
+   "q": "The IUCN status of the Asian elephant is:",
+   "o": [
+    "Vulnerable",
+    "Critically Endangered",
+    "Endangered",
+    "Least Concern"
+   ],
+   "a": 2,
+   "w": "It is Endangered."
+  },
+  {
+   "q": "Which state had the most elephants in the 2017 census?",
+   "o": [
+    "Assam",
+    "Karnataka",
+    "Kerala",
+    "Odisha"
+   ],
+   "a": 1,
+   "w": "27,312 elephants nationally."
+  },
+  {
+   "q": "The greater one-horned rhino is mostly found in:",
+   "o": [
+    "Kaziranga",
+    "Sundarbans",
+    "Gir",
+    "Bandipur"
+   ],
+   "a": 0,
+   "w": "Assam holds most of them."
+  },
+  {
+   "q": "Indian Rhino Vision 2020 aimed to reach how many rhinos in Assam?",
+   "o": [
+    "500",
+    "10,000",
+    "1,000",
+    "3,000"
+   ],
+   "a": 3,
+   "w": "It was launched in 2005."
+  },
+  {
+   "q": "Which Indian rhino status is correct?",
+   "o": [
+    "Endangered",
+    "Extinct in the wild",
+    "Vulnerable",
+    "Least Concern"
+   ],
+   "a": 2,
+   "w": "The IUCN lists it as Vulnerable."
+  },
+  {
+   "q": "The MIKE programme belongs to:",
+   "o": [
+    "Ramsar",
+    "CITES",
+    "CMS",
+    "UNFCCC"
+   ],
+   "a": 1,
+   "w": "It monitors illegal killing of elephants."
+  },
+  {
+   "q": "World Elephant Day falls on:",
+   "o": [
+    "12 August",
+    "29 July",
+    "5 June",
+    "22 April"
+   ],
+   "a": 0,
+   "w": "29 July is Tiger Day."
+  },
+  {
+   "q": "A strip of land linking two forests for animal movement is:",
+   "o": [
+    "Buffer",
+    "Ecotone",
+    "Biome",
+    "Corridor"
+   ],
+   "a": 3,
+   "w": "Corridors help gene flow."
+  }
+ ],
+ "sources": [
+  "Shankar IAS Environment",
+  "MoEFCC and PIB",
+  "Conservation International; UNEP-WCMC"
+ ],
+ "verified": "2026-11-13"
+}

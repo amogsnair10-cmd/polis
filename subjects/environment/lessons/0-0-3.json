@@ -1,0 +1,176 @@
+{
+ "id": "0-0-3",
+ "title": "Ecological Pyramids, Keystone Species and Biomagnification",
+ "emoji": "🔺",
+ "cards": [
+  {
+   "tag": "Why this matters",
+   "h": "A favourite Prelims cluster",
+   "b": "<p>Pyramids, keystone species and biomagnification are asked almost every other year. They are short concepts, so options are tricky and one wrong word costs the mark.</p><p>They also power Mains answers on pollution (DDT, mercury), invasive species and wildlife management. Learn the exact definitions once and reuse them.</p>"
+  },
+  {
+   "tag": "Core idea",
+   "h": "Three kinds of pyramid",
+   "b": "<p>Charles Elton (1927) introduced the pyramid idea. There are three kinds.</p><ul><li><b>Pyramid of number:</b> counts of organisms. Can be upright or inverted.</li><li><b>Pyramid of biomass:</b> dry weight per area. Inverted in the sea.</li><li><b>Pyramid of energy:</b> energy per area per time. Always upright, never inverted.</li></ul><p>Energy is lost as heat at each step, so the energy pyramid cannot flip.</p>"
+  },
+  {
+   "tag": "Inverted shapes",
+   "h": "When the pyramid flips",
+   "b": "<p>In a <b>tree ecosystem</b> one big tree supports thousands of insects, so the number pyramid is inverted. A <b>parasitic food chain</b> (tree, birds, lice) is also inverted in numbers.</p><p>In a <b>pond or ocean</b> the producers are tiny phytoplankton that reproduce fast. At any moment their standing biomass is less than that of zooplankton and fish, so the biomass pyramid is inverted. But their energy turnover is huge, so the energy pyramid stays upright.</p>"
+  },
+  {
+   "tag": "Keystone species",
+   "h": "Small number, big effect",
+   "b": "<p>The term comes from <b>Robert Paine</b> (1969), who removed the starfish <i>Pisaster</i> from a rocky shore in Washington. Mussels took over and diversity fell.</p><p>A keystone species has an effect far larger than its numbers. Examples: sea otters (they control sea urchins and so protect kelp), African elephants, tigers as top predators, and figs in tropical forests. An <b>umbrella species</b> (tiger, elephant) protects many others when its habitat is protected. A <b>flagship species</b> is chosen to raise public support. An <b>indicator species</b> shows habitat health, such as lichens for air quality.</p><svg class='d' viewBox='0 0 320 160' role='img' aria-label='Which pyramid can invert'><rect x='10' y='8' width='300' height='30' rx='4' fill='#dceaec' stroke='#2f6f7a'/><text x='160' y='27' font-size='11' text-anchor='middle' fill='#1d2433'>Number: can be upright or inverted</text><rect x='10' y='46' width='300' height='30' rx='4' fill='#f1e4c6' stroke='#a8792a'/><text x='160' y='65' font-size='11' text-anchor='middle' fill='#1d2433'>Biomass: inverted in the sea</text><rect x='10' y='84' width='300' height='30' rx='4' fill='#f4dcd5' stroke='#a3362a'/><text x='160' y='103' font-size='11' text-anchor='middle' fill='#1d2433'>Energy: always upright</text><rect x='10' y='122' width='300' height='30' rx='4' fill='#dceaec' stroke='#2f6f7a'/><text x='160' y='141' font-size='11' text-anchor='middle' fill='#1d2433'>Reason: heat lost at each step</text></svg>"
+  },
+  {
+   "tag": "Biomagnification",
+   "h": "Toxins climbing the chain",
+   "b": "<p><b>Bioaccumulation</b> is the build-up of a substance inside one organism. <b>Biomagnification</b> is its rise in concentration at each higher trophic level. It happens for substances that are <b>persistent</b> and <b>fat-soluble</b>, so they are not excreted.</p><p>DDT is the classic case. Rachel Carson wrote <i>Silent Spring</i> (1962) on it. DDT thinned the eggshells of eagles and pelicans. <b>Mercury</b> in fish caused Minamata disease in Japan (1956). Cadmium caused Itai-itai disease.</p>"
+  },
+  {
+   "tag": "Related terms",
+   "h": "Do not mix these up",
+   "b": "<p><b>Eutrophication</b> is nutrient over-enrichment of water. It is not biomagnification.</p><p><b>Ecological efficiency</b> is the share of energy passed up a trophic level, about 10 percent (Lindeman 1942).</p><p><b>Gross primary productivity</b> is total energy fixed by producers. <b>Net primary productivity</b> is GPP minus respiration loss. NPP is what is available to consumers.</p><p>Standing crop is the mass of living matter at a point in time. Standing state is the amount of nutrients in soil.</p>"
+  },
+  {
+   "tag": "Debate",
+   "h": "Is the keystone idea too neat?",
+   "b": "<p>Critics say few species are true keystones. A species can be keystone in one place and ordinary in another. Rewilding projects, such as wolves in Yellowstone (1995), are praised for trophic cascades, but scientists still argue about how large the effect was.</p><p>Conservation money is limited. Protecting umbrella species is efficient, but it may leave small, unattractive endemic species without cover.</p>"
+  },
+  {
+   "tag": "Indian angle",
+   "h": "Tigers, vultures and diclofenac",
+   "b": "<p>The tiger is India's umbrella species, and Project Tiger (1973) protects whole forests with it. The Asian elephant is a keystone seed disperser.</p><p>The vulture crash is a lesson in chains. Livestock treated with <b>diclofenac</b> left toxic carcasses. White-backed, long-billed and slender-billed vultures fell by over 95 percent in the 1990s. India banned veterinary diclofenac in 2006. Dead cattle rotted, and feral dogs and rabies cases increased.</p><p>Sundarbans, Chilika and the Ganga show DDT and heavy-metal traces in fish.</p>"
+  },
+  {
+   "tag": "Diagram note",
+   "h": "Number versus energy",
+   "b": "<p>Remember the one-line rule. Number and biomass pyramids <b>can</b> be inverted. The energy pyramid <b>cannot</b>.</p><p>A grassland has an upright number pyramid. A forest tree has an inverted one. A sea has an inverted biomass pyramid. All three have upright energy pyramids. Questions often give an example and ask which pyramid is inverted. Match the example to the type.</p>"
+  },
+  {
+   "tag": "Exam lens",
+   "h": "How to answer",
+   "b": "<p><b>Prelims-style:</b> \"Which pyramid is always upright?\" (energy). \"Who proposed the keystone concept?\" (Paine, 1969). \"Biomagnification is caused by substances that are persistent and fat-soluble.\"</p><p><b>Mains-style:</b> \"How can the loss of a keystone species threaten an ecosystem? Give Indian examples.\" Structure: define; Paine's starfish; effect on trophic cascade; Indian cases (vultures, elephants, tiger); policy response; conclusion.</p>",
+   "cls": "exam"
+  }
+ ],
+ "quiz": [
+  {
+   "q": "Who introduced the concept of ecological pyramids in 1927?",
+   "o": [
+    "Raymond Lindeman",
+    "A.G. Tansley",
+    "Ernst Haeckel",
+    "Charles Elton"
+   ],
+   "a": 3,
+   "w": "Elton described the pyramid of numbers; Lindeman gave the ten percent law (1942)."
+  },
+  {
+   "q": "Which pyramid is always upright?",
+   "o": [
+    "Pyramid of number",
+    "Pyramid of biomass",
+    "Pyramid of energy",
+    "All three"
+   ],
+   "a": 2,
+   "w": "Energy is lost as heat at every step, so the energy pyramid cannot invert."
+  },
+  {
+   "q": "The pyramid of biomass in a pond is usually:",
+   "o": [
+    "Upright",
+    "Inverted",
+    "Spindle-shaped but never inverted",
+    "Absent"
+   ],
+   "a": 1,
+   "w": "Tiny, fast-breeding phytoplankton have less standing biomass than the animals that feed on them."
+  },
+  {
+   "q": "The keystone species idea was introduced by:",
+   "o": [
+    "Robert Paine, 1969",
+    "Rachel Carson, 1962",
+    "Eugene Odum, 1953",
+    "Norman Myers, 1988"
+   ],
+   "a": 0,
+   "w": "Paine worked with the starfish Pisaster."
+  },
+  {
+   "q": "Biomagnification needs a substance that is:",
+   "o": [
+    "Quickly excreted and water-soluble",
+    "Radioactive only",
+    "Volatile gas",
+    "Persistent and fat-soluble"
+   ],
+   "a": 3,
+   "w": "Such substances are stored in fat and are not broken down."
+  },
+  {
+   "q": "Minamata disease in Japan was caused by:",
+   "o": [
+    "Cadmium",
+    "Lead",
+    "Mercury",
+    "Arsenic"
+   ],
+   "a": 2,
+   "w": "Cadmium caused Itai-itai; mercury caused Minamata."
+  },
+  {
+   "q": "Which Indian drug ban in 2006 was linked to vulture decline?",
+   "o": [
+    "Oxytocin",
+    "Veterinary diclofenac",
+    "Ivermectin",
+    "Aspirin"
+   ],
+   "a": 1,
+   "w": "Diclofenac in cattle carcasses poisoned vultures."
+  },
+  {
+   "q": "A species whose protection also covers many others in its habitat is called:",
+   "o": [
+    "Umbrella species",
+    "Indicator species",
+    "Invasive species",
+    "Endemic species"
+   ],
+   "a": 0,
+   "w": "Tiger and elephant are common umbrella species."
+  },
+  {
+   "q": "Net primary productivity equals:",
+   "o": [
+    "GPP plus respiratory loss",
+    "Biomass of consumers",
+    "Solar energy received",
+    "GPP minus respiratory loss"
+   ],
+   "a": 3,
+   "w": "NPP is what remains for consumers."
+  },
+  {
+   "q": "Which book by Rachel Carson raised alarm about DDT?",
+   "o": [
+    "The Population Bomb",
+    "Small Is Beautiful",
+    "Silent Spring",
+    "Our Common Future"
+   ],
+   "a": 2,
+   "w": "Silent Spring was published in 1962."
+  }
+ ],
+ "sources": [
+  "NCERT Biology Class XII, Ecology",
+  "Shankar IAS Environment",
+  "MoEFCC and PIB"
+ ],
+ "verified": "2026-11-13"
+}
