@@ -30,7 +30,7 @@ def find(q,used):
     p=info.get(f.replace(' ','_'))
     if not p:continue
     i=p['imageinfo'][0];m=i.get('extmetadata',{});lic=re.sub('<[^>]+>','',m.get('LicenseShortName',{}).get('value',''))
-    if min(i['width'],i['height'])<450 or not OK.match(lic):continue
+    if min(i['width'],i['height'])<450 or not OK.match(lic) or re.search(r'\bNC\b|\bND\b|non-?commercial|no ?deriv',lic,re.I):continue
     art=re.sub(r'\s+',' ',re.sub('<[^>]+>','',m.get('Artist',{}).get('value','Unknown'))).strip()[:70]
     return {'file':f,'url':i.get('thumburl') or i['url'],'page':i['descriptionurl'],'license':lic.strip(),'artist':art}
 def grade(raw,night,gold):
