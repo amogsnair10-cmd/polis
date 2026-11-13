@@ -45,7 +45,8 @@ async function getLesson(id){
 let PHOTOS={};
 /* Graded free-licence photo for a lesson (key "id") or card (key "id_k"), with a small credit. */
 function photo(key,cls){const p=PHOTOS[SUB.id+'/'+key];if(!p)return '';const c=p.credit.replace(/[<>&"]/g,'');
-  return `<figure class="ph ${cls}"><img src="${p.src}" alt="" loading="lazy" decoding="async" onload="this.classList.add('in')" onerror="this.parentNode.remove()"><a class="cr" href="${p.page}" target="_blank" rel="noopener">${c}</a></figure>`}
+  const dia=/\.png$/i.test(p.file||'')?' dia':'';
+  return `<figure class="ph ${cls}${dia}"><img src="${p.src}" alt="" loading="lazy" decoding="async" onload="this.classList.add('in')" onerror="this.parentNode.remove()"><a class="cr" href="${p.page}" target="_blank" rel="noopener">${c}</a></figure>`}
 async function openL(id,card){
   let l;try{l=await getLesson(id)}catch(e){alert('This lesson could not load. Check your connection and try again.');return}
   cur=id;

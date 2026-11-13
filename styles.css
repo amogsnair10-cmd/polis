@@ -326,3 +326,9 @@ html,body{overscroll-behavior-y:none}
 .cover .ph.big{margin:0 calc(-1 * clamp(18px,5.5vw,30px)) 26px;width:auto;height:54%;aspect-ratio:auto;border-radius:var(--r) var(--r) 0 0;box-shadow:none;background:transparent}
 .cover .ph.big img{-webkit-mask-image:linear-gradient(#000 62%,transparent);mask-image:linear-gradient(#000 62%,transparent)}
 .cover .ph.big .cr{bottom:auto;top:10px;right:12px}
+
+/* diagrams (PNG) are shown whole on a light panel instead of cropped */
+.ph.dia{background:#f5f2ea}.ph.dia img{object-fit:contain;padding:8px}
+.cover .ph.big.dia img{-webkit-mask-image:none;mask-image:none;padding:14px 14px 4px}
+.cover .ph.big.dia{border-bottom:1px solid var(--opt-line)}
+.ph.dia .cr{color:rgba(0,0,0,.45);text-shadow:none}
