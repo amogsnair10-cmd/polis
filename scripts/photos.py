@@ -37,23 +37,49 @@ def find(q,used,must):
     if min(i['width'],i['height'])<450 or not OK.match(lic) or re.search(r'\bNC\b|\bND\b|non-?commercial|no ?deriv',lic,re.I):continue
     art=re.sub(r'\s+',' ',re.sub('<[^>]+>','',m.get('Artist',{}).get('value','Unknown'))).strip()[:70]
     return {'file':f,'url':i.get('thumburl') or i['url'],'page':i['descriptionurl'],'license':lic.strip(),'artist':art}
+def lead_images(titles):
+  # exact English Wikipedia articles -> free lead image file names (batched, follows redirects)
+  out={}
+  for i in range(0,len(titles),40):
+    chunk=titles[i:i+40]
+    r=api('en.wikipedia.org',action='query',titles='|'.join(chunk),prop='pageimages',piprop='name',pilicense='free',redirects=1)
+    q=r.get('query',{});m={t:t for t in chunk}
+    for k in ('normalized','redirects'):
+      for x in q.get(k,[]):
+        for t,v in list(m.items()):
+          if v==x['from']:m[t]=x['to']
+    img={p['title']:p.get('pageimage') for p in q.get('pages',[])}
+    for t in chunk:out[t]=img.get(m[t])
+  return out
+def file_info(files):
+  out={}
+  files=[f for f in files if f]
+  for i in range(0,len(files),40):
+    ii=api('commons.wikimedia.org',action='query',titles='|'.join('File:'+f for f in files[i:i+40]),prop='imageinfo',iiprop='url|size|extmetadata',iiurlwidth=1400)
+    for p in ii.get('query',{}).get('pages',[]):
+      if not p.get('imageinfo'):continue
+      i0=p['imageinfo'][0];m=i0.get('extmetadata',{});lic=re.sub('<[^>]+>','',m.get('LicenseShortName',{}).get('value','')).strip()
+      if min(i0['width'],i0['height'])<450 or not OK.match(lic) or re.search(r'\bNC\b|\bND\b|non-?commercial|no ?deriv',lic,re.I):continue
+      art=re.sub(r'\s+',' ',re.sub('<[^>]+>','',m.get('Artist',{}).get('value','Unknown'))).strip()[:70]
+      out[p['title'][5:].replace(' ','_')]={'url':i0.get('thumburl') or i0['url'],'page':i0['descriptionurl'],'license':lic,'artist':art}
+  return out
 def grade(raw,night,gold):
   im=ImageOps.exif_transpose(Image.open(io.BytesIO(raw)))
   if im.mode in('RGBA','LA','P'):im=im.convert('RGBA');bg=Image.new('RGBA',im.size,(245,242,234,255));bg.alpha_composite(im);im=bg
   im=im.convert('RGB')
-  im=ImageOps.fit(im,(1000,640),Image.LANCZOS,centering=(.5,.38))
+  im=ImageOps.fit(im,(1200,768),Image.LANCZOS,centering=(.5,.38))
   im=ImageOps.autocontrast(im,cutoff=.8)
-  im=ImageEnhance.Color(im).enhance(.9)
+  im=ImageEnhance.Color(im).enhance(.97)
   lut=[int(255*((x/255)**1.08*0.95+0.025)) for x in range(256)]*3   # gentle film curve, lifted blacks
   im=im.point(lut)
   L=im.convert('L')
-  sh=ImageOps.invert(L).point(lambda v:int(v*.30));hi=L.point(lambda v:int(max(0,v-120)*.22))
+  sh=ImageOps.invert(L).point(lambda v:int(v*.18));hi=L.point(lambda v:int(max(0,v-130)*.14))
   im=Image.composite(Image.new('RGB',im.size,night),im,sh)
   im=Image.composite(Image.new('RGB',im.size,gold),im,hi)
   w,h=im.size;v=Image.new('L',(w,h),0);v.paste(255,(int(w*.08),int(h*.08),int(w*.92),int(h*.92)))
   v=v.filter(ImageFilter.GaussianBlur(min(w,h)*.18))
-  im=Image.composite(im,Image.new('RGB',im.size,night),v.point(lambda x:int(110+x*145/255)))
-  b=io.BytesIO();im.save(b,'WEBP',quality=68,method=6);return b.getvalue()
+  im=Image.composite(im,Image.new('RGB',im.size,night),v.point(lambda x:int(150+x*105/255)))
+  b=io.BytesIO();im.save(b,'WEBP',quality=70,method=6);return b.getvalue()
 def main():
   picks=json.load(open(OUT)) if os.path.exists(OUT) else {}
   main=json.load(open(R+'/photos.json')) if os.path.exists(R+'/photos.json') else {}
@@ -67,6 +93,27 @@ def main():
     if only and sid not in only:continue
     t=THEMES.get(s.get('theme'),{});night=hexrgb(t.get('--night'),'#0c1c36');gold=hexrgb(t.get('--gold'),'#c9a45c')
     os.makedirs(f'{R}/art/photos/{sid}',exist_ok=True)
+    qf=f'{R}/art/photo_queries/{sid}.json'
+    if os.path.exists(qf):  # v2: exact Wikipedia article chosen per card
+      Q=json.load(open(qf));done={k for k in picks if k.startswith(sid+'/') and picks[k] and picks[k].get('v')==2}
+      for k in [k for k in list(picks) if k.startswith(sid+'/') and k not in done]:picks[k]=None
+      lids=list(json.load(open(f'{R}/{d}/lessons/index.json')))
+      for lid in lids:
+        keys=[k for k in Q if (k==lid or k.startswith(lid+'_')) and Q[k] and f'{sid}/{k}' not in done]
+        if not keys:continue
+        li=lead_images(sorted({Q[k] for k in keys}))
+        fi=file_info(sorted({li[Q[k]] for k in keys if li.get(Q[k]) and not li[Q[k]].lower().endswith(('.svg','.gif','.tif','.tiff','.ogv','.ogg','.webm','.pdf'))}))
+        for k in keys:
+          K=f'{sid}/{k}';f=li.get(Q[k]);info=f and fi.get(f.replace(' ','_'))
+          p=None
+          if info and (f not in used or k==lid):
+            raw=get(info['url'],raw=True)
+            try:open(f'{R}/art/photos/{K}.webp','wb').write(grade(raw,night,gold));used.add(f);p=info
+            except Exception as e:print('grade fail',K,e)
+          picks[K]=p and {'src':f'art/photos/{K}.webp','credit':f"{p['artist']} · {p['license']}",'page':p['page'],'file':f,'v':2}
+          print(K,'|',Q[k],'->',f if p else None,flush=True);n+=1
+        json.dump(picks,open(OUT,'w'),indent=0,ensure_ascii=False)
+      continue
     for lid in json.load(open(f'{R}/{d}/lessons/index.json')):
       L=json.load(open(f'{R}/{d}/lessons/{lid}.json'));nc=len(L['cards'])
       jobs=[(lid,L['title'])]+[(f'{lid}_{k}',re.sub('<[^>]+>','',L['cards'][k]['h']).strip()) for k in sorted({max(1,nc//3),max(2,2*nc//3)}) if k<nc]
