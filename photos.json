@@ -1530,493 +1530,348 @@
 "page": "https://commons.wikimedia.org/wiki/File:System_of_a_Down_live_in_Mexico_2026.jpg",
 "file": "System_of_a_Down_live_in_Mexico_2026.jpg"
 },
-"astronomy/0-0-0": {
-"src": "art/photos/astronomy/0-0-0.webp",
-"credit": "Vincent van Gogh · Public domain",
-"page": "https://commons.wikimedia.org/wiki/File:Vincent_van_Gogh_-_Starry_Night_-_Google_Art_Project.jpg",
-"file": "Vincent_van_Gogh_-_Starry_Night_-_Google_Art_Project.jpg"
-},
+"astronomy/0-0-0": null,
 "astronomy/0-0-0_3": null,
 "astronomy/0-0-0_6": null,
-"astronomy/0-0-1": {
-"src": "art/photos/astronomy/0-0-1.webp",
-"credit": "NASA/Johns Hopkins University Applied Physics Laboratory/Arizona State · Public domain",
-"page": "https://commons.wikimedia.org/wiki/File:Mercury_in_true_color.jpg",
-"file": "Mercury_in_true_color.jpg"
-},
+"astronomy/0-0-1": null,
 "astronomy/0-0-1_3": {
 "src": "art/photos/astronomy/0-0-1_3.webp",
-"credit": "CactiStaccingCrane · CC BY-SA 4.0",
-"page": "https://commons.wikimedia.org/wiki/File:Planet_collage_to_scale.jpg",
-"file": "Planet_collage_to_scale.jpg"
+"credit": "NASA/STSCI (S.T.A.R.S) · Public domain",
+"page": "https://commons.wikimedia.org/wiki/File:Jupiter_OPAL_2024.png",
+"file": "Jupiter_OPAL_2024.png",
+"v": 2
 },
-"astronomy/0-0-1_6": null,
+"astronomy/0-0-1_6": {
+"src": "art/photos/astronomy/0-0-1_6.webp",
+"credit": "The original uploader was Linguica at English Wikipedia. · Public domain",
+"page": "https://commons.wikimedia.org/wiki/File:Babylonian_tablet_recording_Halley%27s_comet.jpg",
+"file": "Babylonian_tablet_recording_Halley's_comet.jpg",
+"v": 2
+},
 "astronomy/0-0-2": {
 "src": "art/photos/astronomy/0-0-2.webp",
-"credit": "Attribution: Eclipse Predictions by Fred Espenak, NASA's GSFC · Public domain",
-"page": "https://commons.wikimedia.org/wiki/File:SE2027Aug02T.png",
-"file": "SE2027Aug02T.png"
+"credit": "Luc Viatour · CC BY-SA 3.0",
+"page": "https://commons.wikimedia.org/wiki/File:Solar_eclipse_1999_4.jpg",
+"file": "Solar_eclipse_1999_4.jpg",
+"v": 2
 },
-"astronomy/0-0-2_3": {
-"src": "art/photos/astronomy/0-0-2_3.webp",
-"credit": "Subharnab Majumdar · CC BY 2.0",
-"page": "https://commons.wikimedia.org/wiki/File:The_Rangoli_of_Lights.jpg",
-"file": "The_Rangoli_of_Lights.jpg"
-},
+"astronomy/0-0-2_3": null,
 "astronomy/0-0-2_6": null,
-"astronomy/0-0-3": {
-"src": "art/photos/astronomy/0-0-3.webp",
-"credit": "August Köhler [1] · Public domain",
-"page": "https://commons.wikimedia.org/wiki/File:JKepler.jpg",
-"file": "JKepler.jpg"
-},
+"astronomy/0-0-3": null,
 "astronomy/0-0-3_3": null,
-"astronomy/0-0-3_7": {
-"src": "art/photos/astronomy/0-0-3_7.webp",
-"credit": "Hermann Rorschach (died 1922) · Public domain",
-"page": "https://commons.wikimedia.org/wiki/File:Rorschach_blot_01.jpg",
-"file": "Rorschach_blot_01.jpg"
-},
-"astronomy/0-0-4": false,
+"astronomy/0-0-3_7": null,
+"astronomy/0-0-4": null,
 "astronomy/0-0-4_3": null,
 "astronomy/0-0-4_6": {
 "src": "art/photos/astronomy/0-0-4_6.webp",
-"credit": "Stone carving by Huang Shang (c. 1190), rubbing by unknown (1826) · Public domain",
-"page": "https://commons.wikimedia.org/wiki/File:Suchow_star_chart_rubbing.jpg",
-"file": "Suchow_star_chart_rubbing.jpg"
+"credit": "Ptolemy · Public domain",
+"page": "https://commons.wikimedia.org/wiki/File:Claudius_Ptolemaeus,_Almagestum,_1515.djvu",
+"file": "Claudius_Ptolemaeus,_Almagestum,_1515.djvu",
+"v": 2
 },
-"astronomy/0-0-5": {
-"src": "art/photos/astronomy/0-0-5.webp",
-"credit": "Cover produced by Astronomy magazine/Kalmbach Media · Public domain",
-"page": "https://commons.wikimedia.org/wiki/File:Astronomy_magazine_January_2020_cover.jpg",
-"file": "Astronomy_magazine_January_2020_cover.jpg"
-},
-"astronomy/0-0-5_3": {
-"src": "art/photos/astronomy/0-0-5_3.webp",
-"credit": "ThatKoolKoopa · CC BY-SA 4.0",
-"page": "https://commons.wikimedia.org/wiki/File:Wii_Remote_Plus_and_Wii_MotionPlus_comparison.jpg",
-"file": "Wii_Remote_Plus_and_Wii_MotionPlus_comparison.jpg"
-},
+"astronomy/0-0-5": null,
+"astronomy/0-0-5_3": null,
 "astronomy/0-0-5_6": {
 "src": "art/photos/astronomy/0-0-5_6.webp",
-"credit": "www.modernartphotograph.com Portland Photographer Robert Knapp · CC BY-SA 3.0",
-"page": "https://commons.wikimedia.org/wiki/File:Night_Photography.jpg",
-"file": "Night_Photography.jpg"
+"credit": "William R. Howell (New York) · Public domain",
+"page": "https://commons.wikimedia.org/wiki/File:Henry_Draper2.jpg",
+"file": "Henry_Draper2.jpg",
+"v": 2
 },
 "astronomy/0-0-6": {
 "src": "art/photos/astronomy/0-0-6.webp",
-"credit": "Coconino National Forest · CC0",
-"page": "https://commons.wikimedia.org/wiki/File:Bonito_Park_(34694289531).jpg",
-"file": "Bonito_Park_(34694289531).jpg"
+"credit": "Dietmar Rabich · CC BY-SA 4.0",
+"page": "https://commons.wikimedia.org/wiki/File:Melbourne_(AU),_Melbourne_City_Centre_--_2019_--_1530-4.jpg",
+"file": "Melbourne_(AU),_Melbourne_City_Centre_--_2019_--_1530-4.jpg",
+"v": 2
 },
-"astronomy/0-0-6_3": {
-"src": "art/photos/astronomy/0-0-6_3.webp",
-"credit": "NASA · Public domain",
-"page": "https://commons.wikimedia.org/wiki/File:Two_3U_CubeSats.jpg",
-"file": "Two_3U_CubeSats.jpg"
+"astronomy/0-0-6_3": null,
+"astronomy/0-0-6_6": {
+"src": "art/photos/astronomy/0-0-6_6.webp",
+"credit": "Kevin Heider @ LightBuckets · CC BY-SA 3.0",
+"page": "https://commons.wikimedia.org/wiki/File:65Cyb-LB3-apmag.jpg",
+"file": "65Cyb-LB3-apmag.jpg",
+"v": 2
 },
-"astronomy/0-0-6_6": null,
-"astronomy/0-1-0": false,
+"astronomy/0-1-0": {
+"src": "art/photos/astronomy/0-1-0.webp",
+"credit": "D-Kuru · CC BY-SA 3.0 at",
+"page": "https://commons.wikimedia.org/wiki/File:Light_dispersion_of_a_mercury-vapor_lamp_with_a_flint_glass_prism_IPNr%C2%B00125.jpg",
+"file": "Light_dispersion_of_a_mercury-vapor_lamp_with_a_flint_glass_prism_IPNr°0125.jpg",
+"v": 2
+},
 "astronomy/0-1-0_3": null,
 "astronomy/0-1-0_6": null,
 "astronomy/0-1-1": {
 "src": "art/photos/astronomy/0-1-1.webp",
-"credit": "NASA · Public domain",
-"page": "https://commons.wikimedia.org/wiki/File:Hubble_2009_close-up_2.jpg",
-"file": "Hubble_2009_close-up_2.jpg"
+"credit": "Andrew Dunn · CC BY-SA 2.0",
+"page": "https://commons.wikimedia.org/wiki/File:100inchHooker.jpg",
+"file": "100inchHooker.jpg",
+"v": 2
 },
-"astronomy/0-1-1_3": {
-"src": "art/photos/astronomy/0-1-1_3.webp",
-"credit": "D-Kuru · CC BY-SA 3.0 at",
-"page": "https://commons.wikimedia.org/wiki/File:Light_dispersion_of_a_mercury-vapor_lamp_with_a_flint_glass_prism_IPNr%C2%B00125.jpg",
-"file": "Light_dispersion_of_a_mercury-vapor_lamp_with_a_flint_glass_prism_IPNr°0125.jpg"
+"astronomy/0-1-1_3": null,
+"astronomy/0-1-1_6": {
+"src": "art/photos/astronomy/0-1-1_6.webp",
+"credit": "ESO/B. Tafreshi/TWAN (twanight.org) · CC BY 4.0",
+"page": "https://commons.wikimedia.org/wiki/File:The_Southern_Milky_Way_Above_ALMA.jpg",
+"file": "The_Southern_Milky_Way_Above_ALMA.jpg",
+"v": 2
 },
-"astronomy/0-1-1_6": null,
 "astronomy/0-1-2": {
 "src": "art/photos/astronomy/0-1-2.webp",
-"credit": "WomComp · CC0",
-"page": "https://commons.wikimedia.org/wiki/File:Alma_Deutscher_(2025).jpg",
-"file": "Alma_Deutscher_(2025).jpg"
+"credit": "Iztok Bončina/ESO · CC BY 4.0",
+"page": "https://commons.wikimedia.org/wiki/File:ALMA_Antennas_on_Chajnantor.jpg",
+"file": "ALMA_Antennas_on_Chajnantor.jpg",
+"v": 2
 },
 "astronomy/0-1-2_3": null,
-"astronomy/0-1-2_6": {
-"src": "art/photos/astronomy/0-1-2_6.webp",
-"credit": "Игоревич · Public domain",
-"page": "https://commons.wikimedia.org/wiki/File:Shashlik.jpg",
-"file": "Shashlik.jpg"
+"astronomy/0-1-2_6": null,
+"astronomy/0-1-3": {
+"src": "art/photos/astronomy/0-1-3.webp",
+"credit": "F. Granato (ESA/Hubble) · Public domain",
+"page": "https://commons.wikimedia.org/wiki/File:Ill-2_O3.jpg",
+"file": "Ill-2_O3.jpg",
+"v": 2
 },
-"astronomy/0-1-3": false,
 "astronomy/0-1-3_3": null,
-"astronomy/0-1-3_6": {
-"src": "art/photos/astronomy/0-1-3_6.webp",
-"credit": "Science Museum London / Science and Society Picture Library · CC BY-SA 2.0",
-"page": "https://commons.wikimedia.org/wiki/File:Prototype_photon_counting_system,_c_1980s._(9660571969).jpg",
-"file": "Prototype_photon_counting_system,_c_1980s._(9660571969).jpg"
+"astronomy/0-1-3_6": null,
+"astronomy/1-0-0": {
+"src": "art/photos/astronomy/1-0-0.webp",
+"credit": "Matúš Motlo · CC BY-SA 4.0",
+"page": "https://commons.wikimedia.org/wiki/File:The_Sun_in_white_light.jpg",
+"file": "The_Sun_in_white_light.jpg",
+"v": 2
 },
-"astronomy/1-0-0": false,
-"astronomy/1-0-0_3": {
-"src": "art/photos/astronomy/1-0-0_3.webp",
-"credit": "NOAA · Public domain",
-"page": "https://commons.wikimedia.org/wiki/File:Solar_Cycle_25_prediction_and_progression.png",
-"file": "Solar_Cycle_25_prediction_and_progression.png"
-},
+"astronomy/1-0-0_3": null,
 "astronomy/1-0-0_6": null,
 "astronomy/1-0-1": {
 "src": "art/photos/astronomy/1-0-1.webp",
-"credit": "CactiStaccingCrane · CC BY-SA 4.0",
-"page": "https://commons.wikimedia.org/wiki/File:Terrestrial_planet_sizes_3.jpg",
-"file": "Terrestrial_planet_sizes_3.jpg"
-},
-"astronomy/1-0-1_3": {
-"src": "art/photos/astronomy/1-0-1_3.webp",
 "credit": "NASA/JPL-Caltech · Public domain",
 "page": "https://commons.wikimedia.org/wiki/File:Venus_from_Mariner_10.jpg",
-"file": "Venus_from_Mariner_10.jpg"
+"file": "Venus_from_Mariner_10.jpg",
+"v": 2
 },
-"astronomy/1-0-1_6": {
-"src": "art/photos/astronomy/1-0-1_6.webp",
-"credit": "NASA · Public domain",
-"page": "https://commons.wikimedia.org/wiki/File:PIA15279_3rovers-stand_D2011_1215_D521.jpg",
-"file": "PIA15279_3rovers-stand_D2011_1215_D521.jpg"
-},
+"astronomy/1-0-1_3": null,
+"astronomy/1-0-1_6": null,
 "astronomy/1-0-2": {
 "src": "art/photos/astronomy/1-0-2.webp",
-"credit": "Ardenau4 · CC0",
-"page": "https://commons.wikimedia.org/wiki/File:Uranus_Voyager2_color_calibrated.png",
-"file": "Uranus_Voyager2_color_calibrated.png"
+"credit": "NASA/STSCI (S.T.A.R.S) · Public domain",
+"page": "https://commons.wikimedia.org/wiki/File:Jupiter_OPAL_2024.png",
+"file": "Jupiter_OPAL_2024.png",
+"v": 2
 },
-"astronomy/1-0-2_3": {
-"src": "art/photos/astronomy/1-0-2_3.webp",
-"credit": "NASA / JPL-Caltech / SSI / color composite by Gordan Ugarkovic · Public domain",
-"page": "https://commons.wikimedia.org/wiki/File:Saturn_global_view_from_Cassini,_rings_open_Better_Colour.png",
-"file": "Saturn_global_view_from_Cassini,_rings_open_Better_Colour.png"
-},
+"astronomy/1-0-2_3": null,
 "astronomy/1-0-2_6": {
 "src": "art/photos/astronomy/1-0-2_6.webp",
-"credit": "NASA/JPL · Public domain",
-"page": "https://commons.wikimedia.org/wiki/File:Cassini_Saturn_Orbit_Insertion.jpg",
-"file": "Cassini_Saturn_Orbit_Insertion.jpg"
+"credit": "Don Davis · Public domain",
+"page": "https://commons.wikimedia.org/wiki/File:Voyager_probes_with_the_outer_worlds.jpg",
+"file": "Voyager_probes_with_the_outer_worlds.jpg",
+"v": 2
 },
 "astronomy/1-0-3": {
 "src": "art/photos/astronomy/1-0-3.webp",
-"credit": "Nrco0e · CC BY-SA 4.0",
-"page": "https://commons.wikimedia.org/wiki/File:Saturn_irregular_moon_orbits_tilted_annotated_2025.png",
-"file": "Saturn_irregular_moon_orbits_tilted_annotated_2025.png"
+"credit": "Gregory H. Revera · CC BY-SA 3.0",
+"page": "https://commons.wikimedia.org/wiki/File:FullMoon2010.jpg",
+"file": "FullMoon2010.jpg",
+"v": 2
 },
-"astronomy/1-0-3_3": {
-"src": "art/photos/astronomy/1-0-3_3.webp",
-"credit": "Thunkii · CC BY 4.0",
-"page": "https://commons.wikimedia.org/wiki/File:Asteroid_belt_positions-en.png",
-"file": "Asteroid_belt_positions-en.png"
-},
+"astronomy/1-0-3_3": null,
 "astronomy/1-0-3_6": {
 "src": "art/photos/astronomy/1-0-3_6.webp",
-"credit": "Wasted Time R (talk) · CC BY-SA 3.0",
-"page": "https://commons.wikimedia.org/wiki/File:TheSamples1993.jpg",
-"file": "TheSamples1993.jpg"
+"credit": "DLR German Aerospace Center · CC BY 2.0",
+"page": "https://commons.wikimedia.org/wiki/File:Hayabusa2_Ion_thruster.jpg",
+"file": "Hayabusa2_Ion_thruster.jpg",
+"v": 2
 },
 "astronomy/1-0-4": {
 "src": "art/photos/astronomy/1-0-4.webp",
-"credit": "Omarius257 · CC BY-SA 4.0",
-"page": "https://commons.wikimedia.org/wiki/File:Solar_System_True_Color_EN.png",
-"file": "Solar_System_True_Color_EN.png"
+"credit": "NASA/JPL-Caltech · Public domain",
+"page": "https://commons.wikimedia.org/wiki/File:The_Mysterious_Case_of_the_Disappearing_Dust.jpg",
+"file": "The_Mysterious_Case_of_the_Disappearing_Dust.jpg",
+"v": 2
 },
-"astronomy/1-0-4_3": {
-"src": "art/photos/astronomy/1-0-4_3.webp",
-"credit": "NASA/ESA, R. Soummer, Ann Feild (STScI) · Public domain",
-"page": "https://commons.wikimedia.org/wiki/File:NASA-14114-HubbleSpaceTelescope-DebrisDisks-20140424.jpg",
-"file": "NASA-14114-HubbleSpaceTelescope-DebrisDisks-20140424.jpg"
-},
-"astronomy/1-0-4_6": {
-"src": "art/photos/astronomy/1-0-4_6.webp",
-"credit": "H. Raab · CC BY-SA 3.0",
-"page": "https://commons.wikimedia.org/wiki/File:AllendeMeteorite.jpg",
-"file": "AllendeMeteorite.jpg"
-},
+"astronomy/1-0-4_3": null,
+"astronomy/1-0-4_6": null,
 "astronomy/2-0-0": {
 "src": "art/photos/astronomy/2-0-0.webp",
-"credit": "Richard Powell · CC BY-SA 2.5",
-"page": "https://commons.wikimedia.org/wiki/File:HRDiagram.png",
-"file": "HRDiagram.png"
+"credit": "JustinWick at English Wikipedia · CC BY-SA 3.0",
+"page": "https://commons.wikimedia.org/wiki/File:Parallax_Example.png",
+"file": "Parallax_Example.png",
+"v": 2
 },
 "astronomy/2-0-0_3": {
 "src": "art/photos/astronomy/2-0-0_3.webp",
-"credit": "LA2 · CC BY-SA 3.0",
-"page": "https://commons.wikimedia.org/wiki/File:LA2_Skultuna_kontorsljusstake.jpg",
-"file": "LA2_Skultuna_kontorsljusstake.jpg"
+"credit": "NASA, ESA, and the Hubble Heritage Team (STScI/AURA)-Hubble/Europe Col · Public domain",
+"page": "https://commons.wikimedia.org/wiki/File:Heic1323a_-1243686232.jpg",
+"file": "Heic1323a_-1243686232.jpg",
+"v": 2
 },
-"astronomy/2-0-0_6": {
-"src": "art/photos/astronomy/2-0-0_6.webp",
-"credit": "Bubba73 at English Wikipedia · CC BY-SA 3.0",
-"page": "https://commons.wikimedia.org/wiki/File:CheckmateProper.jpg",
-"file": "CheckmateProper.jpg"
+"astronomy/2-0-0_6": null,
+"astronomy/2-0-1": {
+"src": "art/photos/astronomy/2-0-1.webp",
+"credit": "Xiang Gao, Yao Yang, Tao Zhang, Haiqing Liu, Guoqiang Li, Tingfeng Min · CC BY 3.0",
+"page": "https://commons.wikimedia.org/wiki/File:EAST_Tokamak_plasma_image3.jpg",
+"file": "EAST_Tokamak_plasma_image3.jpg",
+"v": 2
 },
-"astronomy/2-0-1": false,
 "astronomy/2-0-1_3": null,
 "astronomy/2-0-1_6": {
 "src": "art/photos/astronomy/2-0-1_6.webp",
-"credit": "Christopher Michel · CC BY-SA 4.0",
-"page": "https://commons.wikimedia.org/wiki/File:IceCube_Neutrino_Observatory_in_2023_02.jpg",
-"file": "IceCube_Neutrino_Observatory_in_2023_02.jpg"
+"credit": "Argonne National Laboratory · Public domain",
+"page": "https://commons.wikimedia.org/wiki/File:FirstNeutrinoEventAnnotated.jpg",
+"file": "FirstNeutrinoEventAnnotated.jpg",
+"v": 2
 },
 "astronomy/2-0-2": {
 "src": "art/photos/astronomy/2-0-2.webp",
 "credit": "NASA, ESA, and the Hubble Heritage Team (STScI/AURA)-ESA/Hubble Collab · Public domain",
 "page": "https://commons.wikimedia.org/wiki/File:LH_95.jpg",
-"file": "LH_95.jpg"
+"file": "LH_95.jpg",
+"v": 2
 },
 "astronomy/2-0-2_3": {
 "src": "art/photos/astronomy/2-0-2_3.webp",
-"credit": "ALMA (ESO/NAOJ/NRAO) · CC BY 4.0",
-"page": "https://commons.wikimedia.org/wiki/File:HL_Tau_protoplanetary_disk.jpg",
-"file": "HL_Tau_protoplanetary_disk.jpg"
+"credit": "NASA’s Goddard Space Flight Center/Jeremy Schnittman · CC BY-SA 4.0",
+"page": "https://commons.wikimedia.org/wiki/File:Black_hole%27s_accretion_disk.jpg",
+"file": "Black_hole's_accretion_disk.jpg",
+"v": 2
 },
 "astronomy/2-0-2_6": {
 "src": "art/photos/astronomy/2-0-2_6.webp",
-"credit": "NASA · Public domain",
-"page": "https://commons.wikimedia.org/wiki/File:Dust_storm_over_eastern_Australia_-_MODIS_Terra_250m_-_23_Sept_2009.jpg",
-"file": "Dust_storm_over_eastern_Australia_-_MODIS_Terra_250m_-_23_Sept_2009.jpg"
+"credit": "NASA, ESA, M. Robberto (Space Telescope Science Institute/ESA) and the · Public domain",
+"page": "https://commons.wikimedia.org/wiki/File:Orion_Nebula_-_Hubble_2006_mosaic_18000.jpg",
+"file": "Orion_Nebula_-_Hubble_2006_mosaic_18000.jpg",
+"v": 2
 },
-"astronomy/2-0-3": {
-"src": "art/photos/astronomy/2-0-3.webp",
-"credit": "NASA/ESA, The Hubble Key Project Team and The High-Z Supernova Search  · Public domain",
-"page": "https://commons.wikimedia.org/wiki/File:SN1994D.jpg",
-"file": "SN1994D.jpg"
-},
-"astronomy/2-0-3_3": {
-"src": "art/photos/astronomy/2-0-3_3.webp",
-"credit": "ESO/Digitized Sky Survey 2 · CC BY 4.0",
-"page": "https://commons.wikimedia.org/wiki/File:Tau_Bo%C3%B6tis_b.jpg",
-"file": "Tau_Boötis_b.jpg"
-},
+"astronomy/2-0-3": null,
+"astronomy/2-0-3_3": null,
 "astronomy/2-0-3_7": {
 "src": "art/photos/astronomy/2-0-3_7.webp",
-"credit": "Judy Schmidt from Fresh Meadows, NY, USA · CC BY 2.0",
-"page": "https://commons.wikimedia.org/wiki/File:WR102_Ejecta_Nebula.png",
-"file": "WR102_Ejecta_Nebula.png"
+"credit": "NASA, ESA, J. Hester and A. Loll (Arizona State University) · Public domain",
+"page": "https://commons.wikimedia.org/wiki/File:Crab_Nebula.jpg",
+"file": "Crab_Nebula.jpg",
+"v": 2
 },
 "astronomy/2-0-4": {
 "src": "art/photos/astronomy/2-0-4.webp",
-"credit": "NASA, ESA · CC BY 4.0",
-"page": "https://commons.wikimedia.org/wiki/File:Moving_heart_of_the_Crab_Nebula.jpg",
-"file": "Moving_heart_of_the_Crab_Nebula.jpg"
-},
-"astronomy/2-0-4_3": {
-"src": "art/photos/astronomy/2-0-4_3.webp",
-"credit": "Detroit Publishing Co. · Public domain",
-"page": "https://commons.wikimedia.org/wiki/File:Elderlyspinnera.jpg",
-"file": "Elderlyspinnera.jpg"
-},
-"astronomy/2-0-4_6": {
-"src": "art/photos/astronomy/2-0-4_6.webp",
 "credit": "NASA/CXC/SAO (X-Ray); NASA/JPL-Caltech (Infrared) · Public domain",
 "page": "https://commons.wikimedia.org/wiki/File:PIA18848-PSRB1509-58-ChandraXRay-WiseIR-20141023.jpg",
-"file": "PIA18848-PSRB1509-58-ChandraXRay-WiseIR-20141023.jpg"
+"file": "PIA18848-PSRB1509-58-ChandraXRay-WiseIR-20141023.jpg",
+"v": 2
 },
+"astronomy/2-0-4_3": null,
+"astronomy/2-0-4_6": null,
 "astronomy/2-0-5": {
 "src": "art/photos/astronomy/2-0-5.webp",
 "credit": "Event Horizon Telescope, uploader cropped and converted TIF to JPG · CC BY 4.0",
 "page": "https://commons.wikimedia.org/wiki/File:Black_hole_-_Messier_87_crop_max_res.jpg",
-"file": "Black_hole_-_Messier_87_crop_max_res.jpg"
+"file": "Black_hole_-_Messier_87_crop_max_res.jpg",
+"v": 2
 },
-"astronomy/2-0-5_3": {
-"src": "art/photos/astronomy/2-0-5_3.webp",
-"credit": "D. Marrone/UofA · CC BY 4.0",
-"page": "https://commons.wikimedia.org/wiki/File:Event_Horizon_Telescope_Collaboration_(testing-general-relativity-with-the-event-horizon).jpg",
-"file": "Event_Horizon_Telescope_Collaboration_(testing-general-relativity-with-the-event-horizon).jpg"
-},
-"astronomy/2-0-5_7": {
-"src": "art/photos/astronomy/2-0-5_7.webp",
-"credit": "Peetlesnumber1 · CC BY-SA 4.0",
-"page": "https://commons.wikimedia.org/wiki/File:BROADRIPPLE.JPG",
-"file": "BROADRIPPLE.JPG"
-},
-"astronomy/2-1-0": {
-"src": "art/photos/astronomy/2-1-0.webp",
-"credit": "NASA · Public domain",
-"page": "https://commons.wikimedia.org/wiki/File:AstrobiologyAward-NEeSS-Poster-20150422.jpg",
-"file": "AstrobiologyAward-NEeSS-Poster-20150422.jpg"
-},
+"astronomy/2-0-5_3": null,
+"astronomy/2-0-5_7": null,
+"astronomy/2-1-0": null,
 "astronomy/2-1-0_3": null,
-"astronomy/2-1-0_7": {
-"src": "art/photos/astronomy/2-1-0_7.webp",
-"credit": "AnonymousUnknown author · Public domain",
-"page": "https://commons.wikimedia.org/wiki/File:A._Orlando_Jackson_in_The_New_York_Times_of_New_York_City,_New_York_on_February_1,_1881.jpg",
-"file": "A._Orlando_Jackson_in_The_New_York_Times_of_New_York_City,_New_York_on_February_1,_1881.jpg"
-},
+"astronomy/2-1-0_7": null,
 "astronomy/3-0-0": {
 "src": "art/photos/astronomy/3-0-0.webp",
 "credit": "ESO/Y. Beletsky · CC BY 4.0",
 "page": "https://commons.wikimedia.org/wiki/File:ESO-VLT-Laser-phot-33a-07.jpg",
-"file": "ESO-VLT-Laser-phot-33a-07.jpg"
+"file": "ESO-VLT-Laser-phot-33a-07.jpg",
+"v": 2
 },
-"astronomy/3-0-0_3": {
-"src": "art/photos/astronomy/3-0-0_3.webp",
-"credit": "U.S. Air Force · Public domain",
-"page": "https://commons.wikimedia.org/wiki/File:GPS_Block_IIIA.jpg",
-"file": "GPS_Block_IIIA.jpg"
-},
+"astronomy/3-0-0_3": null,
 "astronomy/3-0-0_6": {
 "src": "art/photos/astronomy/3-0-0_6.webp",
-"credit": "SharkD · CC BY-SA 3.0",
-"page": "https://commons.wikimedia.org/wiki/File:Panorama_cube_map.png",
-"file": "Panorama_cube_map.png"
+"credit": "Lemuel Francis Abbott · Public domain",
+"page": "https://commons.wikimedia.org/wiki/File:William_Herschel01.jpg",
+"file": "William_Herschel01.jpg",
+"v": 2
 },
 "astronomy/3-0-1": {
 "src": "art/photos/astronomy/3-0-1.webp",
-"credit": "Andrew Pontzen and Fabio Governato · CC BY 2.0",
-"page": "https://commons.wikimedia.org/wiki/File:Large-scale_structure_of_light_distribution_in_the_universe.jpg",
-"file": "Large-scale_structure_of_light_distribution_in_the_universe.jpg"
+"credit": "The Hubble Heritage Team (AURA/STScI/NASA)NASA Headquarters - Greatest · Public domain",
+"page": "https://commons.wikimedia.org/wiki/File:NGC_4414_(NASA-med).jpg",
+"file": "NGC_4414_(NASA-med).jpg",
+"v": 2
 },
 "astronomy/3-0-1_3": {
 "src": "art/photos/astronomy/3-0-1_3.webp",
-"credit": "ESA/Hubble &amp; NASA Acknowledgement: Judy Schmidt · CC BY 4.0",
-"page": "https://commons.wikimedia.org/wiki/File:A_scattering_of_spiral_and_elliptical_galaxies.jpg",
-"file": "A_scattering_of_spiral_and_elliptical_galaxies.jpg"
+"credit": "Antonio Ciccolella · CC BY-SA 4.0",
+"page": "https://commons.wikimedia.org/wiki/File:Local_Group_and_nearest_galaxies.jpg",
+"file": "Local_Group_and_nearest_galaxies.jpg",
+"v": 2
 },
-"astronomy/3-0-1_6": null,
+"astronomy/3-0-1_6": {
+"src": "art/photos/astronomy/3-0-1_6.webp",
+"credit": "Sloan Digital Sky Survey · CC BY 4.0",
+"page": "https://commons.wikimedia.org/wiki/File:NGC5681_-_SDSS_DR14.jpg",
+"file": "NGC5681_-_SDSS_DR14.jpg",
+"v": 2
+},
 "astronomy/3-0-2": {
 "src": "art/photos/astronomy/3-0-2.webp",
 "credit": "NASA / WMAP Science Team · Public domain",
 "page": "https://commons.wikimedia.org/wiki/File:WMAP_2012.png",
-"file": "WMAP_2012.png"
+"file": "WMAP_2012.png",
+"v": 2
 },
-"astronomy/3-0-2_3": {
-"src": "art/photos/astronomy/3-0-2_3.webp",
-"credit": "Lensshoe_hubble.jpg: ESA/Hubble &amp; NASA derivative work: Bulwersato · Public domain",
-"page": "https://commons.wikimedia.org/wiki/File:A_Horseshoe_Einstein_Ring_from_Hubble.JPG",
-"file": "A_Horseshoe_Einstein_Ring_from_Hubble.JPG"
-},
-"astronomy/3-0-2_6": {
-"src": "art/photos/astronomy/3-0-2_6.webp",
-"credit": "Diego Delso · CC BY-SA 4.0",
-"page": "https://commons.wikimedia.org/wiki/File:L%C3%ADneas_de_Nazca,_Nazca,_Per%C3%BA,_2015-07-29,_DD_49.JPG",
-"file": "Líneas_de_Nazca,_Nazca,_Perú,_2015-07-29,_DD_49.JPG"
-},
-"astronomy/3-1-0": {
-"src": "art/photos/astronomy/3-1-0.webp",
-"credit": "NASA/WMAP Science Team · Public domain",
-"page": "https://commons.wikimedia.org/wiki/File:CMB_Timeline300_no_WMAP.jpg",
-"file": "CMB_Timeline300_no_WMAP.jpg"
-},
-"astronomy/3-1-0_3": {
-"src": "art/photos/astronomy/3-1-0_3.webp",
-"credit": "Johan Hagemeyer · Public domain",
-"page": "https://commons.wikimedia.org/wiki/File:Studio_portrait_photograph_of_Edwin_Powell_Hubble_(cropped).JPG",
-"file": "Studio_portrait_photograph_of_Edwin_Powell_Hubble_(cropped).JPG"
-},
+"astronomy/3-0-2_3": null,
+"astronomy/3-0-2_6": null,
+"astronomy/3-1-0": null,
+"astronomy/3-1-0_3": null,
 "astronomy/3-1-0_6": null,
 "astronomy/3-1-1": {
 "src": "art/photos/astronomy/3-1-1.webp",
 "credit": "ESA and the Planck Collaboration · CC BY 4.0",
 "page": "https://commons.wikimedia.org/wiki/File:Cosmic_Microwave_Background_(CMB).jpeg",
-"file": "Cosmic_Microwave_Background_(CMB).jpeg"
+"file": "Cosmic_Microwave_Background_(CMB).jpeg",
+"v": 2
 },
 "astronomy/3-1-1_3": null,
-"astronomy/3-1-1_6": {
-"src": "art/photos/astronomy/3-1-1_6.webp",
-"credit": "Unknown · CC BY-SA 3.0",
-"page": "https://commons.wikimedia.org/wiki/File:Statue_of_Xu_Guangqi.jpg",
-"file": "Statue_of_Xu_Guangqi.jpg"
-},
+"astronomy/3-1-1_6": null,
 "astronomy/3-1-2": {
 "src": "art/photos/astronomy/3-1-2.webp",
-"credit": "NASA and the European Space Agency. Edited by Noodle snacks · Public domain",
-"page": "https://commons.wikimedia.org/wiki/File:Hubble_ultra_deep_field_high_rez_edit1.jpg",
-"file": "Hubble_ultra_deep_field_high_rez_edit1.jpg"
+"credit": "NASA / WMAP Science Team · Public domain",
+"page": "https://commons.wikimedia.org/wiki/File:WMAP_2012.png",
+"file": "WMAP_2012.png",
+"v": 2
 },
-"astronomy/3-1-2_3": {
-"src": "art/photos/astronomy/3-1-2_3.webp",
-"credit": "Lewis Hine · Public domain",
-"page": "https://commons.wikimedia.org/wiki/File:%22Interior_view_of_Oakdale_School_near_Loyston,_Tennessee._From_30_to_40_pupils_usually_attend.%22_-_NARA_-_532648.jpg",
-"file": "\"Interior_view_of_Oakdale_School_near_Loyston,_Tennessee._From_30_to_40_pupils_usually_attend.\"_-_NARA_-_532648.jpg"
-},
+"astronomy/3-1-2_3": null,
 "astronomy/3-1-2_6": null,
-"astronomy/3-1-3": {
-"src": "art/photos/astronomy/3-1-3.webp",
-"credit": "Image: NASA, STScI · Public domain",
-"page": "https://commons.wikimedia.org/wiki/File:Wavelength_Sensitivity_of_Hubble,_Webb,_Roman,_and_Other_Observatories_(01FEBQTM8Y4FESTQ4N2AFQDBXH).png",
-"file": "Wavelength_Sensitivity_of_Hubble,_Webb,_Roman,_and_Other_Observatories_(01FEBQTM8Y4FESTQ4N2AFQDBXH).png"
-},
-"astronomy/3-1-3_3": {
-"src": "art/photos/astronomy/3-1-3_3.webp",
-"credit": "Amber Stuver · CC BY-SA 4.0",
-"page": "https://commons.wikimedia.org/wiki/File:LLO_Control_Room.jpg",
-"file": "LLO_Control_Room.jpg"
-},
-"astronomy/3-1-3_6": {
-"src": "art/photos/astronomy/3-1-3_6.webp",
-"credit": "Shimer College · CC BY 2.0",
-"page": "https://commons.wikimedia.org/wiki/File:Shimer_College_Susan_Henking_listening_2013_cropped.jpg",
-"file": "Shimer_College_Susan_Henking_listening_2013_cropped.jpg"
-},
+"astronomy/3-1-3": null,
+"astronomy/3-1-3_3": null,
+"astronomy/3-1-3_6": null,
 "astronomy/4-0-0": {
 "src": "art/photos/astronomy/4-0-0.webp",
-"credit": "NASA/Wallops · Public domain",
-"page": "https://commons.wikimedia.org/wiki/File:Black_Brant.jpg",
-"file": "Black_Brant.jpg"
+"credit": "Bill Ingalls · Public domain",
+"page": "https://commons.wikimedia.org/wiki/File:Soyuz_TMA-9_launch.jpg",
+"file": "Soyuz_TMA-9_launch.jpg",
+"v": 2
 },
-"astronomy/4-0-0_3": {
-"src": "art/photos/astronomy/4-0-0_3.webp",
-"credit": "NASA · Public domain",
-"page": "https://commons.wikimedia.org/wiki/File:NASA_molniya_oblique.png",
-"file": "NASA_molniya_oblique.png"
-},
-"astronomy/4-0-0_6": {
-"src": "art/photos/astronomy/4-0-0_6.webp",
-"credit": "Pretenderrs · CC BY-SA 3.0",
-"page": "https://commons.wikimedia.org/wiki/File:Space_capsule_of_Sputnik-5.JPG",
-"file": "Space_capsule_of_Sputnik-5.JPG"
-},
+"astronomy/4-0-0_3": null,
+"astronomy/4-0-0_6": null,
 "astronomy/4-0-1": {
 "src": "art/photos/astronomy/4-0-1.webp",
 "credit": "NSSDC, NASA[1] · Public domain",
 "page": "https://commons.wikimedia.org/wiki/File:Sputnik_asm.jpg",
-"file": "Sputnik_asm.jpg"
+"file": "Sputnik_asm.jpg",
+"v": 2
 },
-"astronomy/4-0-1_3": {
-"src": "art/photos/astronomy/4-0-1_3.webp",
-"credit": "Gregory H. Revera · CC BY-SA 3.0",
-"page": "https://commons.wikimedia.org/wiki/File:FullMoon2010.jpg",
-"file": "FullMoon2010.jpg"
-},
+"astronomy/4-0-1_3": null,
 "astronomy/4-0-1_6": {
 "src": "art/photos/astronomy/4-0-1_6.webp",
-"credit": "Alan Bean Original uploader was Bubba73 at en.wikipedia · Public domain",
-"page": "https://commons.wikimedia.org/wiki/File:Apollo12ConradSurveyor.jpg",
-"file": "Apollo12ConradSurveyor.jpg"
+"credit": "NASA · Public domain",
+"page": "https://commons.wikimedia.org/wiki/File:Apollo_11_Lunar_Laser_Ranging_Experiment.jpg",
+"file": "Apollo_11_Lunar_Laser_Ranging_Experiment.jpg",
+"v": 2
 },
-"astronomy/4-0-2": false,
-"astronomy/4-0-2_3": {
-"src": "art/photos/astronomy/4-0-2_3.webp",
-"credit": "RIAN_archive_510848_Interplanetary_station_Luna_1.jpg: Alexander Mokle · CC BY-SA 3.0",
-"page": "https://commons.wikimedia.org/wiki/File:RIAN_archive_510848_Interplanetary_station_Luna_1_-_blacked.jpg",
-"file": "RIAN_archive_510848_Interplanetary_station_Luna_1_-_blacked.jpg"
-},
-"astronomy/4-0-2_6": {
-"src": "art/photos/astronomy/4-0-2_6.webp",
-"credit": "Photo Credit: Content Providers(s): CDC/ Dr. J. D. Millar · Public domain",
-"page": "https://commons.wikimedia.org/wiki/File:Fighting_smallpox_in_Niger,_1969.jpg",
-"file": "Fighting_smallpox_in_Niger,_1969.jpg"
-},
-"astronomy/4-0-3": {
-"src": "art/photos/astronomy/4-0-3.webp",
-"credit": "NASA image · Public domain",
-"page": "https://commons.wikimedia.org/wiki/File:Debris-GEO1280.jpg",
-"file": "Debris-GEO1280.jpg"
-},
-"astronomy/4-0-3_3": {
-"src": "art/photos/astronomy/4-0-3_3.webp",
-"credit": "Topps · Public domain",
-"page": "https://commons.wikimedia.org/wiki/File:Mars_attacks_card_wrapper.jpg",
-"file": "Mars_attacks_card_wrapper.jpg"
-},
-"astronomy/4-0-3_6": {
-"src": "art/photos/astronomy/4-0-3_6.webp",
-"credit": "Anton Holoborodko (Антон Голобородько) · CC BY-SA 3.0",
-"page": "https://commons.wikimedia.org/wiki/File:2014-03-09_-_Perevalne_military_base_-_0116.JPG",
-"file": "2014-03-09_-_Perevalne_military_base_-_0116.JPG"
-},
+"astronomy/4-0-2": null,
+"astronomy/4-0-2_3": null,
+"astronomy/4-0-2_6": null,
+"astronomy/4-0-3": null,
+"astronomy/4-0-3_3": null,
+"astronomy/4-0-3_6": null,
 "geography/0-0-0": {
 "src": "art/photos/geography/0-0-0.webp",
 "credit": "CharlesC · CC BY-SA 3.0",
@@ -7794,5 +7649,649 @@
 "file": "Strait_of_Malacca_highlighted.png"
 },
 "geography/3-1-1_3": null,
-"geography/3-1-1_6": null
+"geography/3-1-1_6": null,
+"astronomy/0-0-0_0": {
+"src": "art/photos/astronomy/0-0-0_0.webp",
+"credit": "garethwiscombe · CC BY 2.0",
+"page": "https://commons.wikimedia.org/wiki/File:Stonehenge2007_07_30.jpg",
+"file": "Stonehenge2007_07_30.jpg",
+"v": 2
+},
+"astronomy/0-0-0_1": null,
+"astronomy/0-0-0_2": {
+"src": "art/photos/astronomy/0-0-0_2.webp",
+"credit": "physical object: Jost Bürgi, Antonius EisenhoitPhotograph: Chris Bainb · Public domain",
+"page": "https://commons.wikimedia.org/wiki/File:Armillary_sphere_with_astronomical_clock.jpg",
+"file": "Armillary_sphere_with_astronomical_clock.jpg",
+"v": 2
+},
+"astronomy/0-0-0_4": {
+"src": "art/photos/astronomy/0-0-0_4.webp",
+"credit": "user:ECeDee · CC BY-SA 3.0",
+"page": "https://commons.wikimedia.org/wiki/File:Dobson_class.jpg",
+"file": "Dobson_class.jpg",
+"v": 2
+},
+"astronomy/0-0-0_5": {
+"src": "art/photos/astronomy/0-0-0_5.webp",
+"credit": "A. Duro/ESO · CC BY 4.0",
+"page": "https://commons.wikimedia.org/wiki/File:All_In_A_Spin_Star_trail.jpg",
+"file": "All_In_A_Spin_Star_trail.jpg",
+"v": 2
+},
+"astronomy/0-0-0_7": null,
+"astronomy/0-0-0_8": {
+"src": "art/photos/astronomy/0-0-0_8.webp",
+"credit": "Knowledge Seeker · Public domain",
+"page": "https://commons.wikimedia.org/wiki/File:Jantar_Mantar_at_Jaipur.jpg",
+"file": "Jantar_Mantar_at_Jaipur.jpg",
+"v": 2
+},
+"astronomy/0-0-1_0": {
+"src": "art/photos/astronomy/0-0-1_0.webp",
+"credit": "Wilson44691 · Public domain",
+"page": "https://commons.wikimedia.org/wiki/File:MootHallSundial.JPG",
+"file": "MootHallSundial.JPG",
+"v": 2
+},
+"astronomy/0-0-1_1": null,
+"astronomy/0-0-1_2": null,
+"astronomy/0-0-1_4": {
+"src": "art/photos/astronomy/0-0-1_4.webp",
+"credit": "Kevin Gill from Los Angeles, CA, United States · CC BY 2.0",
+"page": "https://commons.wikimedia.org/wiki/File:Mars_-_August_30_2021_-_Flickr_-_Kevin_M._Gill.png",
+"file": "Mars_-_August_30_2021_-_Flickr_-_Kevin_M._Gill.png",
+"v": 2
+},
+"astronomy/0-0-1_5": null,
+"astronomy/0-0-1_7": {
+"src": "art/photos/astronomy/0-0-1_7.webp",
+"credit": "Bautsch · CC0",
+"page": "https://commons.wikimedia.org/wiki/File:Aschgraues.Mondlicht.P1162513.jpg",
+"file": "Aschgraues.Mondlicht.P1162513.jpg",
+"v": 2
+},
+"astronomy/0-0-1_8": {
+"src": "art/photos/astronomy/0-0-1_8.webp",
+"credit": "Cpjha13 · CC BY-SA 4.0",
+"page": "https://commons.wikimedia.org/wiki/File:Aryabhatta_of_Bihar.jpg",
+"file": "Aryabhatta_of_Bihar.jpg",
+"v": 2
+},
+"astronomy/0-0-2_0": {
+"src": "art/photos/astronomy/0-0-2_0.webp",
+"credit": "Michael S Adler · CC BY-SA 4.0",
+"page": "https://commons.wikimedia.org/wiki/File:Total_Solar_Eclipse_8-21-17.jpg",
+"file": "Total_Solar_Eclipse_8-21-17.jpg",
+"v": 2
+},
+"astronomy/0-0-2_1": {
+"src": "art/photos/astronomy/0-0-2_1.webp",
+"credit": "NASA Goddard Space Flight Center · CC BY 2.0",
+"page": "https://commons.wikimedia.org/wiki/File:New_Moon.jpg",
+"file": "New_Moon.jpg",
+"v": 2
+},
+"astronomy/0-0-2_2": {
+"src": "art/photos/astronomy/0-0-2_2.webp",
+"credit": "Robert Jay GaBany · CC BY-SA 3.0",
+"page": "https://commons.wikimedia.org/wiki/File:Lunar_eclipse_04-15-2014_by_R_Jay_GaBany.jpg",
+"file": "Lunar_eclipse_04-15-2014_by_R_Jay_GaBany.jpg",
+"v": 2
+},
+"astronomy/0-0-2_4": null,
+"astronomy/0-0-2_5": {
+"src": "art/photos/astronomy/0-0-2_5.webp",
+"credit": "Аә · CC BY-SA 4.0",
+"page": "https://commons.wikimedia.org/wiki/File:Hijri_calendar_en.png",
+"file": "Hijri_calendar_en.png",
+"v": 2
+},
+"astronomy/0-0-2_7": null,
+"astronomy/0-0-2_8": null,
+"astronomy/0-0-3_0": {
+"src": "art/photos/astronomy/0-0-3_0.webp",
+"credit": "Bartolomeu Velho · Public domain",
+"page": "https://commons.wikimedia.org/wiki/File:Bartolomeu_Velho_1568.jpg",
+"file": "Bartolomeu_Velho_1568.jpg",
+"v": 2
+},
+"astronomy/0-0-3_1": {
+"src": "art/photos/astronomy/0-0-3_1.webp",
+"credit": "Justus van Gent / Pedro Berruguete · Public domain",
+"page": "https://commons.wikimedia.org/wiki/File:Ptolemy_1476_with_armillary_sphere_model.jpg",
+"file": "Ptolemy_1476_with_armillary_sphere_model.jpg",
+"v": 2
+},
+"astronomy/0-0-3_2": {
+"src": "art/photos/astronomy/0-0-3_2.webp",
+"credit": "Unknown authorUnknown author · Public domain",
+"page": "https://commons.wikimedia.org/wiki/File:Nikolaus_Kopernikus_MOT.jpg",
+"file": "Nikolaus_Kopernikus_MOT.jpg",
+"v": 2
+},
+"astronomy/0-0-3_4": null,
+"astronomy/0-0-3_5": {
+"src": "art/photos/astronomy/0-0-3_5.webp",
+"credit": "WhatADrag07 · CC BY-SA 4.0",
+"page": "https://commons.wikimedia.org/wiki/File:Jupiter_and_the_Galilean_Satellites_(True_Color).png",
+"file": "Jupiter_and_the_Galilean_Satellites_(True_Color).png",
+"v": 2
+},
+"astronomy/0-0-3_6": null,
+"astronomy/0-0-3_8": null,
+"astronomy/0-0-3_9": null,
+"astronomy/0-0-4_0": null,
+"astronomy/0-0-4_1": null,
+"astronomy/0-0-4_2": null,
+"astronomy/0-0-4_4": null,
+"astronomy/0-0-4_5": null,
+"astronomy/0-0-4_7": null,
+"astronomy/0-0-4_8": null,
+"astronomy/0-0-5_0": {
+"src": "art/photos/astronomy/0-0-5_0.webp",
+"credit": "Noah Wulf · CC BY-SA 4.0",
+"page": "https://commons.wikimedia.org/wiki/File:Photographer_Photographing_Nevada_Mountains.jpg",
+"file": "Photographer_Photographing_Nevada_Mountains.jpg",
+"v": 2
+},
+"astronomy/0-0-5_1": null,
+"astronomy/0-0-5_2": null,
+"astronomy/0-0-5_4": null,
+"astronomy/0-0-5_5": {
+"src": "art/photos/astronomy/0-0-5_5.webp",
+"credit": "KoeppiK · CC BY-SA 4.0",
+"page": "https://commons.wikimedia.org/wiki/File:Lenses_with_different_apertures.jpg",
+"file": "Lenses_with_different_apertures.jpg",
+"v": 2
+},
+"astronomy/0-0-5_7": {
+"src": "art/photos/astronomy/0-0-5_7.webp",
+"credit": "Sage Ross · CC BY-SA 4.0",
+"page": "https://commons.wikimedia.org/wiki/File:Wikipedia_homepage_on_a_large_Android_phone,_2015-04-16.jpg",
+"file": "Wikipedia_homepage_on_a_large_Android_phone,_2015-04-16.jpg",
+"v": 2
+},
+"astronomy/0-0-5_8": {
+"src": "art/photos/astronomy/0-0-5_8.webp",
+"credit": "Neyyappam · CC BY-SA 4.0",
+"page": "https://commons.wikimedia.org/wiki/File:Indian_Institute_of_Astrophysics_Bangalore.jpg",
+"file": "Indian_Institute_of_Astrophysics_Bangalore.jpg",
+"v": 2
+},
+"astronomy/0-0-6_0": null,
+"astronomy/0-0-6_1": null,
+"astronomy/0-0-6_2": {
+"src": "art/photos/astronomy/0-0-6_2.webp",
+"credit": "ESO/P. Horálek, M. Wallner · CC BY 4.0",
+"page": "https://commons.wikimedia.org/wiki/File:How_light_pollution_affects_the_dark_night_skies_(dark-skies)_(flipped_left-right).jpg",
+"file": "How_light_pollution_affects_the_dark_night_skies_(dark-skies)_(flipped_left-right).jpg",
+"v": 2
+},
+"astronomy/0-0-6_4": null,
+"astronomy/0-0-6_5": null,
+"astronomy/0-0-6_7": {
+"src": "art/photos/astronomy/0-0-6_7.webp",
+"credit": "Total Wine &amp; More · CC BY 2.0",
+"page": "https://commons.wikimedia.org/wiki/File:Chappellet_Sunset_Sun_Glare_3_(3845639235).jpg",
+"file": "Chappellet_Sunset_Sun_Glare_3_(3845639235).jpg",
+"v": 2
+},
+"astronomy/0-0-6_8": null,
+"astronomy/0-1-0_0": {
+"src": "art/photos/astronomy/0-1-0_0.webp",
+"credit": "ESA/Hubble &amp; NASA · CC BY 4.0",
+"page": "https://commons.wikimedia.org/wiki/File:New_shot_of_Proxima_Centauri,_our_nearest_neighbour.jpg",
+"file": "New_shot_of_Proxima_Centauri,_our_nearest_neighbour.jpg",
+"v": 2
+},
+"astronomy/0-1-0_1": null,
+"astronomy/0-1-0_2": null,
+"astronomy/0-1-0_4": {
+"src": "art/photos/astronomy/0-1-0_4.webp",
+"credit": "New York World-Telegram and the Sun Newspaper · Public domain",
+"page": "https://commons.wikimedia.org/wiki/File:Annie_Jump_Cannon_1922_Portrait.jpg",
+"file": "Annie_Jump_Cannon_1922_Portrait.jpg",
+"v": 2
+},
+"astronomy/0-1-0_5": null,
+"astronomy/0-1-0_7": null,
+"astronomy/0-1-0_8": null,
+"astronomy/0-1-1_0": {
+"src": "art/photos/astronomy/0-1-1_0.webp",
+"credit": "ROTFLOLEB · CC BY-SA 3.0",
+"page": "https://commons.wikimedia.org/wiki/File:Human_eye_with_blood_vessels.jpg",
+"file": "Human_eye_with_blood_vessels.jpg",
+"v": 2
+},
+"astronomy/0-1-1_1": null,
+"astronomy/0-1-1_2": null,
+"astronomy/0-1-1_4": {
+"src": "art/photos/astronomy/0-1-1_4.webp",
+"credit": "Leijurv · CC BY-SA 4.0",
+"page": "https://commons.wikimedia.org/wiki/File:Mauna_Kea_Summit_2021-06-16_33_(cropped).jpg",
+"file": "Mauna_Kea_Summit_2021-06-16_33_(cropped).jpg",
+"v": 2
+},
+"astronomy/0-1-1_5": {
+"src": "art/photos/astronomy/0-1-1_5.webp",
+"credit": "NASA · Public domain",
+"page": "https://commons.wikimedia.org/wiki/File:JWST_spacecraft_model_3.png",
+"file": "JWST_spacecraft_model_3.png",
+"v": 2
+},
+"astronomy/0-1-1_7": null,
+"astronomy/0-1-1_8": null,
+"astronomy/0-1-2_0": null,
+"astronomy/0-1-2_1": null,
+"astronomy/0-1-2_2": null,
+"astronomy/0-1-2_4": null,
+"astronomy/0-1-2_5": null,
+"astronomy/0-1-2_7": {
+"src": "art/photos/astronomy/0-1-2_7.webp",
+"credit": "division, CSIRO · CC BY 3.0",
+"page": "https://commons.wikimedia.org/wiki/File:CSIRO_ScienceImage_4350_CSIROs_Parkes_Radio_Telescope_with_moon_in_the_background.jpg",
+"file": "CSIRO_ScienceImage_4350_CSIROs_Parkes_Radio_Telescope_with_moon_in_the_background.jpg",
+"v": 2
+},
+"astronomy/0-1-2_8": null,
+"astronomy/0-1-3_0": null,
+"astronomy/0-1-3_1": null,
+"astronomy/0-1-3_2": null,
+"astronomy/0-1-3_4": null,
+"astronomy/0-1-3_5": {
+"src": "art/photos/astronomy/0-1-3_5.webp",
+"credit": "NASA/CXC/NGST · Public domain",
+"page": "https://commons.wikimedia.org/wiki/File:Chandra_artist_illustration.jpg",
+"file": "Chandra_artist_illustration.jpg",
+"v": 2
+},
+"astronomy/0-1-3_7": {
+"src": "art/photos/astronomy/0-1-3_7.webp",
+"credit": "NASA Earth Observatory · Public domain",
+"page": "https://commons.wikimedia.org/wiki/File:Top_of_Atmosphere.jpg",
+"file": "Top_of_Atmosphere.jpg",
+"v": 2
+},
+"astronomy/0-1-3_8": null,
+"astronomy/1-0-0_0": null,
+"astronomy/1-0-0_1": null,
+"astronomy/1-0-0_2": null,
+"astronomy/1-0-0_4": {
+"src": "art/photos/astronomy/1-0-0_4.webp",
+"credit": "NASA/SOHO · Public domain",
+"page": "https://commons.wikimedia.org/wiki/File:05_Coronal_Mass_Ejection_(2819895025).jpg",
+"file": "05_Coronal_Mass_Ejection_(2819895025).jpg",
+"v": 2
+},
+"astronomy/1-0-0_5": null,
+"astronomy/1-0-0_7": {
+"src": "art/photos/astronomy/1-0-0_7.webp",
+"credit": "NASA · Public domain",
+"page": "https://commons.wikimedia.org/wiki/File:STS-134_EVA4_view_to_the_Russian_Orbital_Segment.jpg",
+"file": "STS-134_EVA4_view_to_the_Russian_Orbital_Segment.jpg",
+"v": 2
+},
+"astronomy/1-0-0_8": null,
+"astronomy/1-0-1_0": null,
+"astronomy/1-0-1_1": null,
+"astronomy/1-0-1_2": null,
+"astronomy/1-0-1_4": null,
+"astronomy/1-0-1_5": null,
+"astronomy/1-0-1_7": {
+"src": "art/photos/astronomy/1-0-1_7.webp",
+"credit": "James E. Purdy / Adam Cuerden · Public domain",
+"page": "https://commons.wikimedia.org/wiki/File:Percival_Lowell_by_James_E._Purdy.jpg",
+"file": "Percival_Lowell_by_James_E._Purdy.jpg",
+"v": 2
+},
+"astronomy/1-0-1_8": {
+"src": "art/photos/astronomy/1-0-1_8.webp",
+"credit": "Kevin Gill from Nashua, NH, United States · CC BY-SA 2.0",
+"page": "https://commons.wikimedia.org/wiki/File:Mars_Orbiter_Mission_Over_Mars_(15237158879).jpg",
+"file": "Mars_Orbiter_Mission_Over_Mars_(15237158879).jpg",
+"v": 2
+},
+"astronomy/1-0-2_0": null,
+"astronomy/1-0-2_1": null,
+"astronomy/1-0-2_2": null,
+"astronomy/1-0-2_4": null,
+"astronomy/1-0-2_5": null,
+"astronomy/1-0-2_7": {
+"src": "art/photos/astronomy/1-0-2_7.webp",
+"credit": "NASA/JPL-Caltech · Public domain",
+"page": "https://commons.wikimedia.org/wiki/File:Artist%E2%80%99s_conception_of_a_brown_dwarf_like_2MASSJ22282889-431026.jpg",
+"file": "Artist’s_conception_of_a_brown_dwarf_like_2MASSJ22282889-431026.jpg",
+"v": 2
+},
+"astronomy/1-0-2_8": null,
+"astronomy/1-0-3_0": null,
+"astronomy/1-0-3_1": {
+"src": "art/photos/astronomy/1-0-3_1.webp",
+"credit": "NASA/JPL-Caltech · Public domain",
+"page": "https://commons.wikimedia.org/wiki/File:Artist%27s_concept_of_collision_at_HD_172555.jpg",
+"file": "Artist's_concept_of_collision_at_HD_172555.jpg",
+"v": 2
+},
+"astronomy/1-0-3_2": {
+"src": "art/photos/astronomy/1-0-3_2.webp",
+"credit": "NASA / JPL-Caltech / Space Science Institute · Public domain",
+"page": "https://commons.wikimedia.org/wiki/File:PIA17172_Saturn_eclipse_mosaic_bright_crop.jpg",
+"file": "PIA17172_Saturn_eclipse_mosaic_bright_crop.jpg",
+"v": 2
+},
+"astronomy/1-0-3_4": null,
+"astronomy/1-0-3_5": null,
+"astronomy/1-0-3_7": null,
+"astronomy/1-0-3_8": null,
+"astronomy/1-0-4_0": null,
+"astronomy/1-0-4_1": null,
+"astronomy/1-0-4_2": null,
+"astronomy/1-0-4_4": null,
+"astronomy/1-0-4_5": {
+"src": "art/photos/astronomy/1-0-4_5.webp",
+"credit": "WilyD at English Wikipedia · CC BY-SA 3.0",
+"page": "https://commons.wikimedia.org/wiki/File:Kuiper_belt_plot_objects_of_outer_solar_system.png",
+"file": "Kuiper_belt_plot_objects_of_outer_solar_system.png",
+"v": 2
+},
+"astronomy/1-0-4_7": null,
+"astronomy/1-0-4_8": null,
+"astronomy/2-0-0_0": null,
+"astronomy/2-0-0_1": null,
+"astronomy/2-0-0_2": null,
+"astronomy/2-0-0_4": null,
+"astronomy/2-0-0_5": null,
+"astronomy/2-0-0_7": null,
+"astronomy/2-0-0_8": null,
+"astronomy/2-0-1_0": null,
+"astronomy/2-0-1_1": null,
+"astronomy/2-0-1_2": null,
+"astronomy/2-0-1_4": null,
+"astronomy/2-0-1_5": null,
+"astronomy/2-0-1_7": null,
+"astronomy/2-0-1_8": null,
+"astronomy/2-0-2_0": null,
+"astronomy/2-0-2_1": null,
+"astronomy/2-0-2_2": {
+"src": "art/photos/astronomy/2-0-2_2.webp",
+"credit": "NASA, ESA &amp; A. van der Hoeven · Public domain",
+"page": "https://commons.wikimedia.org/wiki/File:Messier_77_spiral_galaxy_by_HST.jpg",
+"file": "Messier_77_spiral_galaxy_by_HST.jpg",
+"v": 2
+},
+"astronomy/2-0-2_4": null,
+"astronomy/2-0-2_5": null,
+"astronomy/2-0-2_7": {
+"src": "art/photos/astronomy/2-0-2_7.webp",
+"credit": "David (Deddy) Dayag · CC BY-SA 4.0",
+"page": "https://commons.wikimedia.org/wiki/File:Trifid_Nebula_by_Deddy_Dayag.jpg",
+"file": "Trifid_Nebula_by_Deddy_Dayag.jpg",
+"v": 2
+},
+"astronomy/2-0-2_8": {
+"src": "art/photos/astronomy/2-0-2_8.webp",
+"credit": "Mvln · CC BY-SA 4.0",
+"page": "https://commons.wikimedia.org/wiki/File:Orion%27s_Belt_Panorama.jpg",
+"file": "Orion's_Belt_Panorama.jpg",
+"v": 2
+},
+"astronomy/2-0-3_0": null,
+"astronomy/2-0-3_1": null,
+"astronomy/2-0-3_2": null,
+"astronomy/2-0-3_4": null,
+"astronomy/2-0-3_5": null,
+"astronomy/2-0-3_6": null,
+"astronomy/2-0-3_8": {
+"src": "art/photos/astronomy/2-0-3_8.webp",
+"credit": "International Gemini Observatory/NOIRLab/NSF/AURA/M. Garlick, M. Zaman · CC BY 4.0",
+"page": "https://commons.wikimedia.org/wiki/File:Artist%E2%80%99s_Illustration_of_Extragalactic_Recurrent_Nova_(noirlab2509a).jpg",
+"file": "Artist’s_Illustration_of_Extragalactic_Recurrent_Nova_(noirlab2509a).jpg",
+"v": 2
+},
+"astronomy/2-0-3_9": {
+"src": "art/photos/astronomy/2-0-3_9.webp",
+"credit": "Nobel Foundation · Public domain",
+"page": "https://commons.wikimedia.org/wiki/File:Sir_CV_Raman.JPG",
+"file": "Sir_CV_Raman.JPG",
+"v": 2
+},
+"astronomy/2-0-4_0": null,
+"astronomy/2-0-4_1": null,
+"astronomy/2-0-4_2": null,
+"astronomy/2-0-4_4": {
+"src": "art/photos/astronomy/2-0-4_4.webp",
+"credit": "Walter Rademacher, derivative work Lämpel · CC BY-SA 3.0",
+"page": "https://commons.wikimedia.org/wiki/File:Aerial_photograph_60D_2012_05_13_8760_DxO_retusche.jpg",
+"file": "Aerial_photograph_60D_2012_05_13_8760_DxO_retusche.jpg",
+"v": 2
+},
+"astronomy/2-0-4_5": null,
+"astronomy/2-0-4_7": null,
+"astronomy/2-0-4_8": null,
+"astronomy/2-0-5_0": null,
+"astronomy/2-0-5_1": null,
+"astronomy/2-0-5_2": {
+"src": "art/photos/astronomy/2-0-5_2.webp",
+"credit": "Avsa · CC BY-SA 4.0",
+"page": "https://commons.wikimedia.org/wiki/File:Triangle_of_everything_simplified_2_triangle_of_everything_-_Planck_Units.png",
+"file": "Triangle_of_everything_simplified_2_triangle_of_everything_-_Planck_Units.png",
+"v": 2
+},
+"astronomy/2-0-5_4": {
+"src": "art/photos/astronomy/2-0-5_4.webp",
+"credit": "Event Horizon Telescope · CC BY 4.0",
+"page": "https://commons.wikimedia.org/wiki/File:Black_hole_-_Messier_87.jpg",
+"file": "Black_hole_-_Messier_87.jpg",
+"v": 2
+},
+"astronomy/2-0-5_5": null,
+"astronomy/2-0-5_6": null,
+"astronomy/2-0-5_8": null,
+"astronomy/2-0-5_9": null,
+"astronomy/2-1-0_0": null,
+"astronomy/2-1-0_1": null,
+"astronomy/2-1-0_2": null,
+"astronomy/2-1-0_4": null,
+"astronomy/2-1-0_5": {
+"src": "art/photos/astronomy/2-1-0_5.webp",
+"credit": "NASA / JPL-Caltech / Olivier de Goursac · Public domain",
+"page": "https://commons.wikimedia.org/wiki/File:MarsCuriosityRover-Drilling-Sol170%2B%2B-2.jpg",
+"file": "MarsCuriosityRover-Drilling-Sol170++-2.jpg",
+"v": 2
+},
+"astronomy/2-1-0_6": null,
+"astronomy/2-1-0_8": {
+"src": "art/photos/astronomy/2-1-0_8.webp",
+"credit": "H. Schweiker/WIYN and NOAO/AURA/NSF · CC BY 4.0",
+"page": "https://commons.wikimedia.org/wiki/File:Arecibo_Observatory_Aerial_View.jpg",
+"file": "Arecibo_Observatory_Aerial_View.jpg",
+"v": 2
+},
+"astronomy/2-1-0_9": null,
+"astronomy/3-0-0_0": {
+"src": "art/photos/astronomy/3-0-0_0.webp",
+"credit": "Alexey Elfimov · CC BY 3.0",
+"page": "https://commons.wikimedia.org/wiki/File:%D0%A1%D0%B2%D0%B5%D1%82_%D0%BE%D1%82_%D0%B4%D0%B5%D1%80%D0%B5%D0%B2%D0%BD%D0%B8_-_panoramio.jpg",
+"file": "Свет_от_деревни_-_panoramio.jpg",
+"v": 2
+},
+"astronomy/3-0-0_1": null,
+"astronomy/3-0-0_2": {
+"src": "art/photos/astronomy/3-0-0_2.webp",
+"credit": "NASA, ESA, and The Hubble Heritage Team STScI/AURA) · Public domain",
+"page": "https://commons.wikimedia.org/wiki/File:Hubble2005-01-barred-spiral-galaxy-NGC1300.jpg",
+"file": "Hubble2005-01-barred-spiral-galaxy-NGC1300.jpg",
+"v": 2
+},
+"astronomy/3-0-0_4": null,
+"astronomy/3-0-0_5": null,
+"astronomy/3-0-0_7": {
+"src": "art/photos/astronomy/3-0-0_7.webp",
+"credit": "Oberorka · CC0",
+"page": "https://commons.wikimedia.org/wiki/File:ObservableUniverseDiagram.png",
+"file": "ObservableUniverseDiagram.png",
+"v": 2
+},
+"astronomy/3-0-0_8": null,
+"astronomy/3-0-1_0": null,
+"astronomy/3-0-1_1": null,
+"astronomy/3-0-1_2": {
+"src": "art/photos/astronomy/3-0-1_2.webp",
+"credit": "Lviatour · CC BY-SA 2.5",
+"page": "https://commons.wikimedia.org/wiki/File:M31-Andromede-16-09-2023-Hamois.jpg",
+"file": "M31-Andromede-16-09-2023-Hamois.jpg",
+"v": 2
+},
+"astronomy/3-0-1_4": null,
+"astronomy/3-0-1_5": null,
+"astronomy/3-0-1_7": {
+"src": "art/photos/astronomy/3-0-1_7.webp",
+"credit": "NASA, ESA, and E. Hallman (University of Colorado, Boulder) · Public domain",
+"page": "https://commons.wikimedia.org/wiki/File:Structure_of_the_Universe.jpg",
+"file": "Structure_of_the_Universe.jpg",
+"v": 2
+},
+"astronomy/3-0-1_8": null,
+"astronomy/3-0-2_0": null,
+"astronomy/3-0-2_1": {
+"src": "art/photos/astronomy/3-0-2_1.webp",
+"credit": "Comet Photo AG (Zürich) · CC BY-SA 4.0",
+"page": "https://commons.wikimedia.org/wiki/File:Fritz_Zwicky_in_1970_(2).jpg",
+"file": "Fritz_Zwicky_in_1970_(2).jpg",
+"v": 2
+},
+"astronomy/3-0-2_2": null,
+"astronomy/3-0-2_4": null,
+"astronomy/3-0-2_5": null,
+"astronomy/3-0-2_7": null,
+"astronomy/3-0-2_8": null,
+"astronomy/3-1-0_0": null,
+"astronomy/3-1-0_1": null,
+"astronomy/3-1-0_2": null,
+"astronomy/3-1-0_4": null,
+"astronomy/3-1-0_5": null,
+"astronomy/3-1-0_7": null,
+"astronomy/3-1-0_8": null,
+"astronomy/3-1-1_0": null,
+"astronomy/3-1-1_1": null,
+"astronomy/3-1-1_2": null,
+"astronomy/3-1-1_4": null,
+"astronomy/3-1-1_5": null,
+"astronomy/3-1-1_7": null,
+"astronomy/3-1-1_8": null,
+"astronomy/3-1-2_0": null,
+"astronomy/3-1-2_1": {
+"src": "art/photos/astronomy/3-1-2_1.webp",
+"credit": "Markus Pössel (User name: Mapos) · CC BY-SA 3.0",
+"page": "https://commons.wikimedia.org/wiki/File:Brian_Schmidt.jpg",
+"file": "Brian_Schmidt.jpg",
+"v": 2
+},
+"astronomy/3-1-2_2": null,
+"astronomy/3-1-2_4": null,
+"astronomy/3-1-2_5": null,
+"astronomy/3-1-2_7": null,
+"astronomy/3-1-2_8": null,
+"astronomy/3-1-3_0": null,
+"astronomy/3-1-3_1": null,
+"astronomy/3-1-3_2": null,
+"astronomy/3-1-3_4": null,
+"astronomy/3-1-3_5": null,
+"astronomy/3-1-3_7": null,
+"astronomy/3-1-3_8": null,
+"astronomy/4-0-0_0": null,
+"astronomy/4-0-0_1": null,
+"astronomy/4-0-0_2": null,
+"astronomy/4-0-0_4": null,
+"astronomy/4-0-0_5": null,
+"astronomy/4-0-0_7": {
+"src": "art/photos/astronomy/4-0-0_7.webp",
+"credit": "NASA · Public domain",
+"page": "https://commons.wikimedia.org/wiki/File:Foale_ZeroG.jpg",
+"file": "Foale_ZeroG.jpg",
+"v": 2
+},
+"astronomy/4-0-0_8": null,
+"astronomy/4-0-1_0": null,
+"astronomy/4-0-1_1": {
+"src": "art/photos/astronomy/4-0-1_1.webp",
+"credit": "Andrey Butko · CC BY-SA 3.0",
+"page": "https://commons.wikimedia.org/wiki/File:%D0%9F%D0%B5%D1%80%D0%B2%D1%8B%D0%B9_%D0%B2_%D0%BC%D0%B8%D1%80%D0%B5_%D0%B8%D1%81%D0%BA%D1%83%D1%81%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9_%D1%81%D0%BF%D1%83%D1%82%D0%BD%D0%B8%D0%BA_%D0%97%D0%B5%D0%BC%D0%BB%D0%B8.jpg",
+"file": "Первый_в_мире_искусственный_спутник_Земли.jpg",
+"v": 2
+},
+"astronomy/4-0-1_2": null,
+"astronomy/4-0-1_4": {
+"src": "art/photos/astronomy/4-0-1_4.webp",
+"credit": "Neil A. Armstrong · Public domain",
+"page": "https://commons.wikimedia.org/wiki/File:A_Man_on_the_Moon,_AS11-40-5903_(cropped).jpg",
+"file": "A_Man_on_the_Moon,_AS11-40-5903_(cropped).jpg",
+"v": 2
+},
+"astronomy/4-0-1_5": null,
+"astronomy/4-0-1_7": {
+"src": "art/photos/astronomy/4-0-1_7.webp",
+"credit": "NASA · Public domain",
+"page": "https://commons.wikimedia.org/wiki/File:Apollo_11_Crew_During_Training_Exercise_-_GPN-2002-000032.jpg",
+"file": "Apollo_11_Crew_During_Training_Exercise_-_GPN-2002-000032.jpg",
+"v": 2
+},
+"astronomy/4-0-1_8": null,
+"astronomy/4-0-2_0": null,
+"astronomy/4-0-2_1": null,
+"astronomy/4-0-2_2": null,
+"astronomy/4-0-2_4": null,
+"astronomy/4-0-2_5": null,
+"astronomy/4-0-2_7": {
+"src": "art/photos/astronomy/4-0-2_7.webp",
+"credit": "齐健 from Peking, People's Republic of China · CC BY 2.0",
+"page": "https://commons.wikimedia.org/wiki/File:Left_side_of_Flying_Pigeon.jpg",
+"file": "Left_side_of_Flying_Pigeon.jpg",
+"v": 2
+},
+"astronomy/4-0-2_8": {
+"src": "art/photos/astronomy/4-0-2_8.webp",
+"credit": "Gpkp · CC BY-SA 4.0",
+"page": "https://commons.wikimedia.org/wiki/File:9th_Bengaluru_Space_Expo_2026,_Bangalore_International_Exhibition_Centre_199.jpg",
+"file": "9th_Bengaluru_Space_Expo_2026,_Bangalore_International_Exhibition_Centre_199.jpg",
+"v": 2
+},
+"astronomy/4-0-3_0": {
+"src": "art/photos/astronomy/4-0-3_0.webp",
+"credit": "Original assets: NASA Rendering: Wikideas1 · Public domain",
+"page": "https://commons.wikimedia.org/wiki/File:Lunar_Gateway_rendering_2.webp",
+"file": "Lunar_Gateway_rendering_2.webp",
+"v": 2
+},
+"astronomy/4-0-3_1": {
+"src": "art/photos/astronomy/4-0-3_1.webp",
+"credit": "NASA · Public domain",
+"page": "https://commons.wikimedia.org/wiki/File:The_station_pictured_from_the_SpaceX_Crew_Dragon_5.jpg",
+"file": "The_station_pictured_from_the_SpaceX_Crew_Dragon_5.jpg",
+"v": 2
+},
+"astronomy/4-0-3_2": null,
+"astronomy/4-0-3_4": {
+"src": "art/photos/astronomy/4-0-3_4.webp",
+"credit": "National Aeronautics and Space Administration (NASA) · Jet Propulsion  · Public domain",
+"page": "https://commons.wikimedia.org/wiki/File:Europa_Clipper_spacecraft_model.png",
+"file": "Europa_Clipper_spacecraft_model.png",
+"v": 2
+},
+"astronomy/4-0-3_5": {
+"src": "art/photos/astronomy/4-0-3_5.webp",
+"credit": "Swinburne Astronomy Productions/ESO · CC BY 4.0",
+"page": "https://commons.wikimedia.org/wiki/File:The_E-ELT.jpg",
+"file": "The_E-ELT.jpg",
+"v": 2
+},
+"astronomy/4-0-3_7": {
+"src": "art/photos/astronomy/4-0-3_7.webp",
+"credit": "NASA · Public domain",
+"page": "https://commons.wikimedia.org/wiki/File:Black_Knight_Satellite_(cropped).jpg",
+"file": "Black_Knight_Satellite_(cropped).jpg",
+"v": 2
+},
+"astronomy/4-0-3_8": null
 }
