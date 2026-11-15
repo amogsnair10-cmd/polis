@@ -37,6 +37,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+        with: { ref: main }
       - uses: actions/download-artifact@v4
         with: { path: parts, pattern: "photos-*" }
       - name: Merge and commit
@@ -53,4 +54,4 @@ jobs:
           git config user.email "photos-bot@users.noreply.github.com"
           git add photos.json art/photos
           git commit -m "Lesson photos" || exit 0
-          for i in 1 2 3 4; do git pull --rebase origin main && git push && break; sleep 5; done
+          ok=0; for i in 1 2 3 4; do git pull --rebase origin main && git push && ok=1 && break; git rebase --abort || true; sleep 5; done; [ $ok = 1 ]
