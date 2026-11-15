@@ -16,6 +16,13 @@
 - ~1,200 graded free-licence photos (Wikimedia via Wikipedia lead images) in `art/photos/<id>/`, mapped in `photos.json`. Made by `scripts/photos.py` via the "Lesson photos" GitHub workflow (input: JSON list of subject ids; resumable). If its merge step fails, run "Merge lesson photos" with the run id.
 - Listen button (`listen.js`): phone voice; native TTS plugin in the APK.
 
+## Review, PYQs, Play Store (added 15 Nov)
+- Review mode: wrong quiz answers go into `S.rev` (inside progress, so it syncs) and return after 1/3/7/21 days; "Review" card on home; `openReview()` in app.js.
+- PYQ card + badge read optional `<subject dir>/pyq.json` (`{"lessonId":[{y,p,q,m}]}`). DATA NOT WRITTEN YET: four Sonnet workers hit the weekly limit (resets 18 Nov 13:00 UTC). Re-run them then; questions must be real and need a spot-check against official papers.
+- Owner full access: `FULL` hash list in account.js sets `window.LB_FULL` (no paywall exists yet; use this flag when one is built).
+- android.yml: if secrets `KEYSTORE_B64` + `KEYSTORE_PASSWORD` exist it builds a signed release APK and `LightBulb.aab` (versionCode = run number); if `PLAY_SERVICE_ACCOUNT_JSON` exists it uploads the AAB to Play internal testing. The keystore was given to the user as a file; it is not in the repo.
+- Privacy policy: `privacy.html` (live at /polis/privacy.html).
+
 ## Doodles
 - Chapter doodles: all 11 subjects done (`art/doodles/<id>/<section>-<unit>.svg`).
 - Lesson doodles (cover + 2 key cards, `art/doodles/<id>/L/`): done for all 11 subjects.

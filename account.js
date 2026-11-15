@@ -37,6 +37,10 @@ function merge(a, b) {
   const o = { done: { ...(a.done || {}), ...(b.done || {}) }, scores: { ...(a.scores || {}) }, days: [...new Set([...(a.days || []), ...(b.days || [])])].sort(), tests: { ...(a.tests || {}) } };
   for (const k in b.scores || {}) o.scores[k] = Math.max(o.scores[k] || 0, b.scores[k]);
   for (const k in b.tests || {}) o.tests[k] = Math.max(o.tests[k] || 0, b.tests[k]);
+  // review list: one entry per question, the most recently updated copy wins
+  const rev = new Map();
+  for (const r of [...(a.rev || []), ...(b.rev || [])]) { const k = r.id + ":" + r.q, x = rev.get(k); if (!x || (r.t || 0) > (x.t || 0)) rev.set(k, r); }
+  if (rev.size) o.rev = [...rev.values()];
   return o;
 }
 
@@ -72,6 +76,7 @@ const box = document.getElementById("acct");
 function render() {
   if (user) {
     const who = user.displayName || user.phoneNumber || user.email || "Signed in";
+    if (window.LB_FULL) setTimeout(() => { const o = document.getElementById("outBtn"); if (o && !document.getElementById("fullTag")) o.insertAdjacentHTML("beforebegin", '<p class="note" id="fullTag">✦ Full access</p>'); }, 0);
     box.innerHTML = `<div class="acct-row"><span class="avatar">${esc(who[0] || "•")}</span><div><b>${esc(who)}</b><small>Progress and doubts are saved to your account.</small></div></div>
       <button class="start" id="meBtn">My learning</button><button class="linkbtn" id="outBtn">Sign out</button>`;
     document.getElementById("meBtn").onclick = () => { document.getElementById("sheet").hidden = true; openMe(); };
@@ -87,9 +92,13 @@ function render() {
     };
   }
 }
+const FULL = ["5cba96f376767cb010d8f709af75644a8496f4edf6849340ff44d089b5b9ad40"];
 let firstCheck = true;
 onAuthStateChanged(auth, async u => {
-  user = u; render();
+  user = u; window.LB_FULL = false;
+  // Owner accounts get everything unlocked. Stored as a SHA-256 of the email so no address sits in the code.
+  if (u && u.email) try { const h = [...new Uint8Array(await crypto.subtle.digest("SHA-256", new TextEncoder().encode(u.email.trim().toLowerCase())))].map(b => b.toString(16).padStart(2, "0")).join(""); window.LB_FULL = FULL.includes(h); } catch (e) {}
+  render();
   if (u) { closeWelcome(); try { await pull(); } catch (e) { console.warn("sync", e); } }
   else if (firstCheck && ls.get("welcomed") !== "1") setTimeout(showWelcome, 2400);
   firstCheck = false;

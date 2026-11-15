@@ -38,10 +38,38 @@ jobs:
         run: python3 native/patch.py
       - run: npx cap sync android
         working-directory: mobile
-      - name: Build APK
+      - name: Set the version (each build gets a higher number, as the Play Store needs)
         working-directory: mobile/android
-        run: ./gradlew assembleDebug --no-daemon
-      - run: cp mobile/android/app/build/outputs/apk/debug/app-debug.apk LightBulb.apk
+        run: |
+          sed -i "s/versionCode [0-9]*/versionCode ${{ github.run_number }}/; s/versionName \"[^\"]*\"/versionName \"1.0.${{ github.run_number }}\"/" app/build.gradle
+          grep -n "versionCode\|versionName" app/build.gradle
+      - name: Build (signed release if the signing key secret exists, else a debug APK)
+        working-directory: mobile/android
+        env:
+          KS_B64: ${{ secrets.KEYSTORE_B64 }}
+          KS_PASS: ${{ secrets.KEYSTORE_PASSWORD }}
+        run: |
+          if [ -n "$KS_B64" ]; then
+            echo "$KS_B64" | base64 -d > "$RUNNER_TEMP/lightbulb.jks"
+            SIGN="-Pandroid.injected.signing.store.file=$RUNNER_TEMP/lightbulb.jks -Pandroid.injected.signing.store.password=$KS_PASS -Pandroid.injected.signing.key.alias=lightbulb -Pandroid.injected.signing.key.password=$KS_PASS"
+            ./gradlew assembleRelease bundleRelease --no-daemon $SIGN
+            cp app/build/outputs/apk/release/app-release.apk ../../LightBulb.apk
+            cp app/build/outputs/bundle/release/app-release.aab ../../LightBulb.aab
+          else
+            ./gradlew assembleDebug --no-daemon
+            cp app/build/outputs/apk/debug/app-debug.apk ../../LightBulb.apk
+          fi
+      - name: Send to Google Play (internal testing), if the Play key secret exists
+        env:
+          PLAY_JSON: ${{ secrets.PLAY_SERVICE_ACCOUNT_JSON }}
+        if: ${{ env.PLAY_JSON != '' && hashFiles('LightBulb.aab') != '' }}
+        uses: r0adkll/upload-google-play@v1
+        with:
+          serviceAccountJsonPlainText: ${{ secrets.PLAY_SERVICE_ACCOUNT_JSON }}
+          packageName: com.lightbulb.study
+          releaseFiles: LightBulb.aab
+          track: internal
+          status: completed
       - name: Publish to the "latest" release
         uses: softprops/action-gh-release@v2
         with:
@@ -50,4 +78,7 @@ jobs:
           body: Download LightBulb.apk on your Android phone and open it to install.
           prerelease: false
           make_latest: true
-          files: LightBulb.apk
+          files: |
+            LightBulb.apk
+            LightBulb.aab
+          fail_on_unmatched_files: false

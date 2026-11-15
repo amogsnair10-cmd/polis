@@ -332,3 +332,16 @@ html,body{overscroll-behavior-y:none}
 .cover .ph.big.dia img{-webkit-mask-image:none;mask-image:none;padding:14px 14px 4px}
 .cover .ph.big.dia{border-bottom:1px solid var(--opt-line)}
 .ph.dia .cr{color:rgba(0,0,0,.45);text-shadow:none}
+
+/* review card on home + previous year questions */
+.revcard{display:flex;align-items:center;justify-content:space-between;gap:14px;width:calc(100% - 2*var(--gut));margin:14px var(--gut) 0;padding:16px 18px;border-radius:20px;text-align:left;
+  border:1px solid color-mix(in srgb,var(--gold) 45%,transparent);background:linear-gradient(135deg,color-mix(in srgb,var(--gold) 16%,transparent),rgba(255,255,255,.04));color:#fff;
+  backdrop-filter:blur(14px);-webkit-backdrop-filter:blur(14px);animation:up .7s var(--ease) both;transition:transform .35s var(--ease)}
+.revcard[hidden]{display:none}.revcard:active{transform:scale(.98)}
+.revcard .day{font-family:var(--font-hand,inherit);color:var(--gold);font-size:17px}
+.revcard b{display:block;font-family:var(--font-display);font-size:19px;font-weight:600;margin:2px 0}
+.revcard small{display:block;font-size:13px;opacity:.75}
+.revcard .go{flex:none;padding:9px 16px;border-radius:999px;background:var(--gold);color:var(--night);font:600 14px var(--font-body)}
+.pq{margin-left:8px;font:600 9.5px var(--font-body);letter-spacing:.08em;font-style:normal;padding:2px 6px;border-radius:6px;border:1px solid currentColor;opacity:.6;vertical-align:2px}
+blockquote.pyq{margin:0 0 12px;padding:12px 14px;border-left:3px solid var(--goldd);border-radius:0 12px 12px 0;background:rgba(0,0,0,.035);font-size:16px;line-height:1.5}
+blockquote.pyq small{display:block;margin-top:6px;font-size:12px;color:var(--vein);letter-spacing:.02em}

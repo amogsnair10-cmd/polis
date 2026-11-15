@@ -9,12 +9,21 @@ function loadProgress(){S={done:{},scores:{},days:[]};const s=ls.get(key());if(s
   // Scores are stored as a fraction (0-1). Old saves stored a count out of 5.
   for(const k in S.scores)if(S.scores[k]>1)S.scores[k]/=5}
 const save=()=>{ls.set(key(),JSON.stringify(S));window.onProgress&&window.onProgress()};
+/* ---------- review: wrong quiz answers come back after 1, 3, 7 and 21 days ----------
+   Kept inside the progress object (S.rev) so it syncs with everything else. step 4 = learned. */
+const RDAYS=[1,3,7,21];
+const dayStart=n=>{const d=new Date();d.setHours(0,0,0,0);d.setDate(d.getDate()+n);return d.getTime()};
+const rdue=()=>(S.rev||[]).filter(r=>r.step<4&&r.due<=Date.now());
+function rmark(id,q,ok){S.rev=S.rev||[];let r=S.rev.find(r=>r.id===id&&r.q===q);
+  if(!r){if(ok)return;r={id,q,step:-1};S.rev.push(r)}
+  r.step=ok?r.step+1:0;r.due=r.step<4?dayStart(RDAYS[r.step]):0;r.t=Date.now();save()}
+let PYQ={};
 const path=f=>(SUB.dir==='.'?'':SUB.dir+'/')+f;
 let ids=[];
 // Dates are the phone's local calendar day (IST for Indian users), never UTC.
 const ds=d=>`${d.getFullYear()}-${String(d.getMonth()+1).padStart(2,'0')}-${String(d.getDate()).padStart(2,'0')}`;const today=()=>ds(new Date());
 function streak(){let n=0,d=new Date();const set=new Set(S.days);if(!set.has(ds(d)))d.setDate(d.getDate()-1);while(set.has(ds(d))){n++;d.setDate(d.getDate()-1)}return n}
-const unitOf=id=>{const [p,u]=id.split('-');return MAP[p].units[u][0]};
+const unitOf=id=>{const [p,u]=id.split('-');return MAP[p]?MAP[p].units[u][0]:'Review'};
 const esc=s=>String(s).replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
 const wreath=`<svg class="wreath" viewBox="0 0 200 110"><g style="fill:var(--goldd)">${[...Array(9)].map((_,i)=>{const a=(200-i*16)*Math.PI/180,x=100+70*Math.cos(a),y=100-70*Math.sin(a)*0.9;return `<ellipse cx="${x}" cy="${y}" rx="5" ry="12" transform="rotate(${-(200-i*16)+90} ${x} ${y})"/>`}).join('')}${[...Array(9)].map((_,i)=>{const a=(-20+i*16)*Math.PI/180,x=100+70*Math.cos(a),y=100-70*Math.sin(a)*0.9;return `<ellipse cx="${x}" cy="${y}" rx="5" ry="12" transform="rotate(${-(-20+i*16)+90} ${x} ${y})"/>`}).join('')}</g></svg>`;
 
@@ -26,12 +35,14 @@ function renderHome(){
   const next=ids.find(i=>IDX[i]&&!S.done[i]),t=document.getElementById('today');
   if(next){const n=ids.indexOf(next)+1;t.innerHTML=`<div class="day">Day ${n} of ${ids.length} · ${unitOf(next)}</div><h2>${IDX[next].title}</h2><p>${IDX[next].n} cards, then a ${IDX[next].q}-question quiz. About ${Math.round(IDX[next].n*1.5+IDX[next].q*0.5)} minutes.</p><button class="start" onclick="openL('${next}')">Start lesson</button>`}
   else t.innerHTML=`<div class="day">All caught up</div><h2>You've finished every lesson written so far</h2><p>New lessons arrive soon. Revise anything from the syllabus below.</p>`;
+  const due=rdue().length,rv=document.getElementById('rev');
+  rv.hidden=!due;if(due)rv.innerHTML=`<div><div class="day">Review</div><b>${due} question${due==1?'':'s'} you missed</b><small>About ${Math.max(1,Math.round(due*.4))} min · they come back until they stick</small></div><span class="go">Start</span>`;
   let h='',num=0;
   MAP.forEach((p,pi)=>{h+=`<div class="sec"><h3>${p.t}</h3><p>${p.p}</p></div>`;
     p.units.forEach((u,ui)=>{const live=u[1].some((_,k)=>IDX[`${pi}-${ui}-${k}`]);
       h+=`<div class="unit${live?' live':''}${pi==0&&ui<2?' open':''}"><button onclick="this.parentNode.classList.toggle('open')" aria-label="${esc(u[0])}">${doodle(pi+'-'+ui)}<span class="t">${u[0]}${u[2]?'<em class="hy">Asked often</em>':''}</span><span class="c">${live?'Open':u[1].length+' lessons'}</span><span class="chev"></span></button><div class="ls"><div class="lsi">`;
       for(let k=0;k<u[1].length;k++){num++;const id=`${pi}-${ui}-${k}`,l=IDX[id];
-        h+=l?`<button class="les${S.done[id]?' done':''}" onclick="openL('${id}')"><span class="num">${S.done[id]?'✓':num}</span>${l.title}</button>`:`<div class="les soon"><span class="num">${num}</span>${u[1][k]}</div>`}
+        h+=l?`<button class="les${S.done[id]?' done':''}" onclick="openL('${id}')"><span class="num">${S.done[id]?'✓':num}</span>${l.title}${PYQ[id]?'<em class="pq">PYQ</em>':''}</button>`:`<div class="les soon"><span class="num">${num}</span>${u[1][k]}</div>`}
       if(u[1].every((_,k)=>IDX[`${pi}-${ui}-${k}`])){const tid=`${pi}-${ui}-T`,sc=S.tests&&S.tests[tid];h+=`<button class="les test" onclick="openTest(${pi},${ui})"><span class="num">✎</span>Chapter test${sc!=null?` · best ${Math.round(sc*100)}%`:''}</button>`}
       h+=`</div></div></div>`})});
   document.getElementById('map').innerHTML=h;
@@ -52,16 +63,22 @@ async function openL(id,card){
   cur=id;
   let h=`<div class="cd"><div class="ci marble cover">${photo(id,'big')||ldood(id,'dd big')||doodle(id,'dd big')||`<div class="em">${l.emoji}</div>`}<div class="tag">${unitOf(id)}</div><h2>${l.title}</h2><p class="hint">Swipe left to begin</p></div></div>`;
   l.cards.forEach((c,k)=>h+=`<div class="cd"><div class="ci marble ${c.cls||''}">${photo(id+'_'+k,'card')||ldood(id+'_'+k,'dd card')}<div class="tag">${c.tag}</div><h2>${c.h}</h2>${c.b}</div></div>`);
-  l.quiz.forEach((q,i)=>h+=`<div class="cd"><div class="ci marble"><div class="tag">Question ${i+1} of ${l.quiz.length}</div><h2 style="font-size:21px">${q.q}</h2>${q.o.map((o,j)=>`<button class="opt" data-q="${i}" data-j="${j}">${o}</button>`).join('')}<div class="why" id="w${i}"></div></div></div>`);
+  const pq=PYQ[id];
+  if(pq&&pq.length)h+=`<div class="cd"><div class="ci marble"><div class="tag">Asked in UPSC</div><h2>Previous year questions</h2>${pq.map(x=>`<blockquote class="pyq">${esc(x.q)}<small>${x.y} · ${esc(x.p)}${x.m?' · '+x.m+' marks':''}</small></blockquote>`).join('')}</div></div>`;
+  l.quiz.forEach((q,i)=>h+=`<div class="cd"><div class="ci marble"><div class="tag">${q._t?esc(q._t):`Question ${i+1} of ${l.quiz.length}`}</div><h2 style="font-size:21px">${q.q}</h2>${q.o.map((o,j)=>`<button class="opt" data-q="${i}" data-j="${j}">${o}</button>`).join('')}<div class="why" id="w${i}"></div></div></div>`);
   h+=`<div class="cd"><div class="ci marble cover" id="end"><div class="tag">Answer every question to finish</div></div></div>`;
-  deck.innerHTML=h;window.LCOUNT=l.cards.length;deck.querySelectorAll('.ci').forEach(c=>io.observe(c));window.ans={};show('lesson');deck.scrollLeft=card>=0?(card+1)*deck.clientWidth:0;upd();deck.querySelectorAll('.ci').forEach(c=>{if(c.scrollHeight>c.clientHeight+4){const m=document.createElement('div');m.className='more';m.textContent='Scroll down for more';c.parentNode.appendChild(m);c.addEventListener('scroll',()=>{m.classList.toggle('gone',c.scrollTop+c.clientHeight>=c.scrollHeight-30)},{passive:true})}});
+  deck.innerHTML=h;window.LCOUNT=l.cards.length+(pq&&pq.length?1:0);deck.querySelectorAll('.ci').forEach(c=>io.observe(c));window.ans={};show('lesson');deck.scrollLeft=card>=0?(card+1)*deck.clientWidth:0;upd();deck.querySelectorAll('.ci').forEach(c=>{if(c.scrollHeight>c.clientHeight+4){const m=document.createElement('div');m.className='more';m.textContent='Scroll down for more';c.parentNode.appendChild(m);c.addEventListener('scroll',()=>{m.classList.toggle('gone',c.scrollTop+c.clientHeight>=c.scrollHeight-30)},{passive:true})}});
 }
 deck.addEventListener('click',e=>{const b=e.target.closest('.opt');if(!b)return;const q=+b.dataset.q,j=+b.dataset.j;if(ans[q]!==undefined)return;
-  const Q=L[cur].quiz[q];ans[q]=j===Q.a;b.parentNode.querySelectorAll('.opt').forEach((o,k)=>{if(k===Q.a)o.classList.add('r');else if(k===j)o.classList.add('w')});
+  const Q=L[cur].quiz[q];ans[q]=j===Q.a;if(Q._r)rmark(Q._r.id,Q._r.q,j===Q.a);else if(j!==Q.a&&!cur.endsWith('-T'))rmark(cur,q,false);b.parentNode.querySelectorAll('.opt').forEach((o,k)=>{if(k===Q.a)o.classList.add('r');else if(k===j)o.classList.add('w')});
   const w=document.getElementById('w'+q);w.innerHTML=(j===Q.a?'<b>Correct.</b> ':'<b>Not quite.</b> ')+Q.w;w.classList.add('on');setTimeout(()=>w.scrollIntoView({behavior:CALM?'auto':'smooth',block:'nearest'}),250);
   if(Object.keys(ans).length===L[cur].quiz.length)finish()});
 function countUp(el,to){if(!el)return;if(CALM){el.textContent=to;return}let n=0;const step=()=>{el.textContent=n;if(n++<to)setTimeout(step,1000/Math.max(to,1))};step()}
-function finish(){const s=Object.values(ans).filter(Boolean).length;const f=s/L[cur].quiz.length;if(cur.endsWith('-T')){S.tests=S.tests||{};S.tests[cur]=Math.max(f,S.tests[cur]||0)}else{S.done[cur]=1;S.scores[cur]=f}if(!S.days.includes(today()))S.days.push(today());save();pushSync();
+function finish(){const s=Object.values(ans).filter(Boolean).length;const f=s/L[cur].quiz.length;
+  if(cur==='REVIEW'){if(!S.days.includes(today()))S.days.push(today());save();pushSync();const left=L.REVIEW.quiz.length-s;
+    document.getElementById('end').innerHTML=`${wreath}<div class="score"><span id="scN">0</span> / ${L.REVIEW.quiz.length}</div><h2 style="margin-top:14px">${left?'Getting there':'All of them, first try'}</h2><p>${left?`${left} will come back tomorrow. The rest return in a few days, then a week, then three weeks.`:'These return in a few days to make sure they stay.'}</p><button class="start" onclick="back()">Back to the syllabus</button>`;
+    setTimeout(()=>countUp(document.getElementById('scN'),s),300);return}
+  if(cur.endsWith('-T')){S.tests=S.tests||{};S.tests[cur]=Math.max(f,S.tests[cur]||0)}else{S.done[cur]=1;S.scores[cur]=f}if(!S.days.includes(today()))S.days.push(today());save();pushSync();
   document.getElementById('end').innerHTML=`${wreath}<div class="score"><span id="scN">0</span> / ${L[cur].quiz.length}</div><h2 style="margin-top:14px">${f>=.8?'Laurels earned':f>=.6?'Solid work':'Worth another read'}</h2><p>${f>=.8?'You know this well enough to write on it.':f>=.6?'Skim the cards you missed once more.':'Come back to this one tomorrow.'}</p><button class="start" onclick="back()">Back to the syllabus</button>`;
   setTimeout(()=>countUp(document.getElementById('scN'),s),300)}
 let curCard=0;const io=new IntersectionObserver(es=>es.forEach(e=>{if(e.isIntersecting)e.target.classList.add('in')}),{threshold:.35});
@@ -114,7 +131,7 @@ async function loadSubject(id){
   document.getElementById('pickName').innerHTML=icon(SUB.id,'ic sm')+' '+SUB.name;
   document.title='Light Bulb · '+SUB.title+' ('+SUB.name+')';
   L={};loadProgress();
-  const [m,x]=await Promise.all([fetch(path('syllabus.json')).then(r=>r.json()),fetch(path('lessons/index.json')).then(r=>r.json())]);
+  const [m,x]=await Promise.all([fetch(path('syllabus.json')).then(r=>r.json()),fetch(path('lessons/index.json')).then(r=>r.json()),fetch(path('pyq.json')).then(r=>r.ok?r.json():{}).catch(()=>({})).then(j=>PYQ=j)]);
   MAP=m;IDX=x;ids=[];MAP.forEach((p,pi)=>p.units.forEach((u,ui)=>{for(let k=0;k<u[1].length;k++)ids.push(`${pi}-${ui}-${k}`)}));
   renderHome();
 }
@@ -201,6 +218,10 @@ const doodle=(id,cls='dd')=>{const [p,u]=id.split('-'),k=p+'-'+u;return SUB&&((D
 const ldood=(name,cls)=>SUB&&((DOODLES.lessons||{})[SUB.id]||[]).includes(name)?mk(`art/doodles/${SUB.id}/L/${name}.svg`,cls):'';
 (async()=>{SUBJ=await fetch('subjects.json').then(r=>r.json());DOODLES=await fetch('doodles.json').then(r=>r.json()).catch(()=>({}));fetch('photos.json').then(r=>r.json()).then(j=>PHOTOS=j).catch(()=>{});await loadSubject(ls.get('subject')||SUBJ[0].id);await Promise.race([document.getElementById('heroArt').ready,new Promise(r=>setTimeout(r,3500))]);hideSplash();handleGo();import('./account.js').catch(e=>{const a=document.getElementById('acct');if(a)a.innerHTML='<p class="note">Sign-in needs the internet. Your progress is still saved on this phone.</p>'});pushSync()})();
 /* ---------- chapter tests: 15 questions drawn from every lesson in the chapter ---------- */
+async function openReview(){const due=rdue().sort((a,b)=>a.due-b.due).slice(0,15),quiz=[];
+  try{for(const r of due){const l=await getLesson(r.id);if(l.quiz[r.q])quiz.push({...l.quiz[r.q],_r:r,_t:l.title})}}catch(e){alert('Review could not load. Check your connection.');return}
+  if(!quiz.length)return;L.REVIEW={title:'Review',emoji:'↻',cards:[],quiz};await openL('REVIEW');
+  const c=deck.querySelector('.cover');if(c)c.innerHTML=`<div class="em">↻</div><div class="tag">Review</div><h2>${quiz.length} question${quiz.length==1?'':'s'} you missed</h2><p class="hint">Swipe left to begin</p>`}
 async function openTest(pi,ui){const u=MAP[pi].units[ui],pool=[];
   try{for(let k=0;k<u[1].length;k++){const l=await getLesson(`${pi}-${ui}-${k}`);l.quiz.forEach(q=>pool.push(q))}}catch(e){alert('The test could not load. Check your connection.');return}
   for(let i=pool.length-1;i>0;i--){const j=Math.floor(Math.random()*(i+1));[pool[i],pool[j]]=[pool[j],pool[i]]}
