@@ -372,3 +372,10 @@ blockquote.pyq small{display:block;margin-top:6px;font-size:12px;color:var(--vei
 .badge b{font:600 12.5px var(--font-body);margin-top:4px}.badge small{font-size:10.5px;opacity:.65;line-height:1.3}
 .badge.lock{opacity:.42;filter:grayscale(.9)}
 .me h3 .cnt{font:500 12px var(--font-body);font-style:normal;opacity:.6;margin-left:8px}
+
+/* restore sheet */
+#restoreSheet .sheet-in{max-height:86vh}
+.rs-row{display:flex;align-items:center;justify-content:space-between;gap:12px;padding:12px 0;border-bottom:1px solid var(--opt-line)}
+.rs-row b{font-family:var(--font-display);font-weight:700}.rs-row small{display:block;color:var(--vein);font-size:12.5px}
+.rs-row input{width:84px;font:inherit;font-size:18px;text-align:center;padding:10px;border-radius:12px;border:1px solid var(--opt-line);background:#fff;color:var(--ink)}
+#restoreSheet .start{margin-top:18px;width:100%}

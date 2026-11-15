@@ -15,7 +15,7 @@ const app = initializeApp({
 });
 const auth = getAuth(app);
 const db = initializeFirestore(app, { localCache: persistentLocalCache() });
-let user = null, pushTimer = null;
+let user = null, pushTimer = null, pulled = false;
 
 // Android app: Google blocks sign-in inside app web views, so sign in on a small page in Chrome
 // (auth.html) and come back through the lightbulb:// link with a Google ID token.
@@ -48,6 +48,7 @@ function merge(a, b) {
 // ---------- sync ----------
 async function pull() {
   const snap = await getDoc(doc(db, "users", user.uid));
+  pulled = true; // from here on it is safe to write: the cloud copy has been merged in, so an empty phone can't overwrite it
   const cloud = (snap.exists() && snap.data().progress) || {};
   const out = {};
   for (const s of SUBJ) {
@@ -63,6 +64,7 @@ async function pull() {
 }
 function pushSoon() {
   if (!user) return;
+  if (!pulled) { pull().catch(() => {}); return; }
   clearTimeout(pushTimer);
   pushTimer = setTimeout(() => {
     const progress = {};
@@ -97,7 +99,7 @@ function render() {
 const FULL = ["5cba96f376767cb010d8f709af75644a8496f4edf6849340ff44d089b5b9ad40"];
 let firstCheck = true;
 onAuthStateChanged(auth, async u => {
-  user = u; window.LB_FULL = false;
+  user = u; window.LB_FULL = false; pulled = false;
   // Owner accounts get everything unlocked. Stored as a SHA-256 of the email so no address sits in the code.
   if (u && u.email) try { const h = [...new Uint8Array(await crypto.subtle.digest("SHA-256", new TextEncoder().encode(u.email.trim().toLowerCase())))].map(b => b.toString(16).padStart(2, "0")).join(""); window.LB_FULL = FULL.includes(h); } catch (e) {}
   render();
@@ -122,6 +124,40 @@ function showWelcome() {
 }
 function closeWelcome() { const w = document.getElementById("welcome"); if (!w) return; w.classList.add("closing"); setTimeout(() => w.remove(), 460); }
 
+// ---------- Restore by hand: for when progress was lost and the cloud copy can't bring it back ----------
+async function subjectIds(s) {
+  const base = (s.dir === "." ? "" : s.dir + "/");
+  const [map, idx] = await Promise.all([fetch(base + "syllabus.json").then(r => r.json()), fetch(base + "lessons/index.json").then(r => r.json())]);
+  const ids = []; map.forEach((p, pi) => p.units.forEach((u, ui) => { for (let k = 0; k < u[1].length; k++) { const id = `${pi}-${ui}-${k}`; if (idx[id]) ids.push(id); } }));
+  return ids;
+}
+async function openRestore() {
+  const ov = document.createElement("div"); ov.className = "sheet"; ov.id = "restoreSheet";
+  ov.innerHTML = `<div class="sheet-in marble"><button class="x sx" id="rsX" aria-label="Close">×</button><h2>Restore my progress</h2><p class="note">Set how many lessons you had finished in each subject, in syllabus order. This only adds. It never removes anything.</p><div id="rsRows"><p class="note">Loading…</p></div></div>`;
+  document.body.appendChild(ov);
+  const close = () => { ov.classList.add("closing"); setTimeout(() => ov.remove(), 420); };
+  ov.querySelector("#rsX").onclick = close; ov.onclick = e => { if (e.target === ov) close(); };
+  let rows;
+  try { rows = await Promise.all(SUBJ.filter(s => !s.soon).map(async s => ({ s, ids: await subjectIds(s), p: readLocal(s) }))); }
+  catch (e) { ov.querySelector("#rsRows").innerHTML = '<p class="note">Could not load. Check your connection.</p>'; return; }
+  ov.querySelector("#rsRows").innerHTML = rows.map((r, i) => {
+    const have = r.ids.filter(id => (r.p.done || {})[id]).length;
+    return `<label class="rs-row"><span><b>${esc(r.s.title)}</b> · ${esc(r.s.name)}<small>${r.ids.length} lessons</small></span><input type="number" inputmode="numeric" min="0" max="${r.ids.length}" value="${have}" data-i="${i}"></label>`;
+  }).join("") + `<label class="rs-row"><span><b>Study streak</b><small>days in a row, up to yesterday</small></span><input type="number" inputmode="numeric" min="0" max="365" value="0" id="rsStreak"></label><button class="start" id="rsGo">Restore</button><p class="note" id="rsMsg"></p>`;
+  ov.querySelector("#rsGo").onclick = () => {
+    let added = 0;
+    rows.forEach((r, i) => {
+      const n = Math.max(0, Math.min(r.ids.length, +ov.querySelector(`input[data-i="${i}"]`).value || 0)), m = r.p; m.done = m.done || {};
+      let fresh = 0; r.ids.slice(0, n).forEach(id => { if (!m.done[id]) { m.done[id] = 1; fresh++; } });
+      if (fresh) { m.xp = (m.xp || 0) + fresh * 35; added += fresh; }
+      if (r.s.id === SUB.id) { const sk = Math.max(0, Math.min(365, +ov.querySelector("#rsStreak").value || 0)); m.days = m.days || []; for (let d = 1; d <= sk; d++) { const t = new Date(); t.setDate(t.getDate() - d); if (!m.days.includes(ds(t))) m.days.push(ds(t)); } m.days.sort(); }
+      ls.set(storeKey(r.s), JSON.stringify(m));
+    });
+    loadProgress(); renderHome(); pushSoon(); window.checkBadges && window.checkBadges(true);
+    ov.querySelector("#rsMsg").textContent = added ? `Restored ${added} lesson${added == 1 ? "" : "s"}.` : "Nothing to add.";
+    setTimeout(() => { close(); if (document.getElementById("me").classList.contains("on")) openMe(); }, 900);
+  };
+}
 // ---------- My learning ----------
 async function openMe() {
   const v = document.getElementById("me");
@@ -164,14 +200,16 @@ async function openMe() {
     <h3>Last 12 weeks</h3><div class="heat">${heat}</div>
     <h3>Subjects</h3>${subj.length ? subj.map(x => `<button class="me-sub" data-s="${x.s.id}"><span class="sic" style="--a:${(THEMES[x.s.theme] || THEMES.polis).vars["--gold"] || "#c9a45c"};--b:${(THEMES[x.s.theme] || THEMES.polis).vars["--lapis"] || "#13294b"}">${icon(x.s.id)}</span><span class="me-sub-t"><b>${x.s.title}</b> · ${x.s.name}<i style="--w:${Math.round(x.n / Math.max(1, x.total) * 100)}%"></i><small>${x.n} of ${x.total} lessons${x.a != null ? " · quiz " + x.a + "%" : ""}</small></span></button>`).join("") : `<p class="note">Finish a lesson and it shows up here.</p>`}
     ${weak.length ? `<h3>Revise these</h3>${weak.slice(0, 5).map(w => `<button class="me-weak" data-s="${w.s.id}" data-u="${w.u}"><b>${esc(w.name)}</b><small>${w.s.title} · quiz ${Math.round(w.a * 100)}%</small><span>Revise →</span></button>`).join("")}` : ""}
+    <h3>Lost your progress?</h3><button class="me-weak" id="rsOpen"><b>Restore my progress</b><small>Tell the app how many lessons you had finished</small><span>Restore →</span></button>
     <h3>Your doubts</h3>${user ? (doubts.length ? doubts.map(d => `<button class="me-doubt" data-s="${esc(d.subject || "")}" data-l="${esc(d.lessonId || "")}"><small>${esc(d.subjectTitle || "")} · ${esc(d.lessonTitle || "")}</small><b>${esc(d.q || "")}</b><span>${esc((d.a || "").slice(0, 220))}${(d.a || "").length > 220 ? "…" : ""}</span></button>`).join("") : `<p class="note">Questions you ask with the ? button will be saved here.</p>`) : `<p class="note">Sign in to save your doubts.</p>`}
    </div>`;
   show("me");
   document.getElementById("meClose").onclick = back;
   const g = document.getElementById("meG");
   if (g) g.onclick = async () => { try { await googleSignIn(); if (!NATIVE) openMe(); } catch (e) { document.getElementById("meMsg").textContent = "Sign-in didn't finish: " + (e.code || e.message); } };
+  const ro = document.getElementById("rsOpen"); if (ro) ro.onclick = openRestore;
   v.querySelectorAll(".me-sub").forEach(b => b.onclick = async () => { await loadSubject(b.dataset.s); back(); });
-  v.querySelectorAll(".me-weak").forEach(b => b.onclick = async () => { await loadSubject(b.dataset.s); const [p, u] = b.dataset.u.split("-"); openTest(+p, +u); });
+  v.querySelectorAll(".me-weak:not(#rsOpen)").forEach(b => b.onclick = async () => { await loadSubject(b.dataset.s); const [p, u] = b.dataset.u.split("-"); openTest(+p, +u); });
   v.querySelectorAll(".me-doubt").forEach(b => b.onclick = async () => { if (!b.dataset.s || !b.dataset.l) return; await loadSubject(b.dataset.s); openL(b.dataset.l); });
 }
 window.openMe = openMe;

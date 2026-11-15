@@ -28,6 +28,11 @@
 - Mixed revision: `openMix()` = 20 questions from finished lessons, weighted to weaker ones; wrong answers feed the review list.
 - Hosting is Cloudflare (lightbulb.amogbuilds.net). An old APK that points at github.io shows a 404: reinstall from /LightBulb.apk.
 
+## Restore + sync safety (15 Nov)
+- Me -> "Restore my progress" (`openRestore` in account.js): user sets lessons finished per subject + streak; only adds. Built because moving host (new origin) plus reinstall wiped local storage.
+- Sync safety: `pushSoon` now refuses to write until `pull()` has merged the cloud copy in this sign-in (`pulled` flag), so an empty phone cannot overwrite cloud data.
+- Play Store timeline: closed test needs 12 opted-in testers for 14 days, then apply for production (review a few days), so ~3 weeks after the first closed-test upload.
+
 ## Doodles
 - Chapter doodles: all 11 subjects done (`art/doodles/<id>/<section>-<unit>.svg`).
 - Lesson doodles (cover + 2 key cards, `art/doodles/<id>/L/`): done for all 11 subjects.
