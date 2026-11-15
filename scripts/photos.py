@@ -63,11 +63,17 @@ def file_info(files):
       art=re.sub(r'\s+',' ',re.sub('<[^>]+>','',m.get('Artist',{}).get('value','Unknown'))).strip()[:70]
       out[p['title'][5:].replace(' ','_')]={'url':i0.get('thumburl') or i0['url'],'page':i0['descriptionurl'],'license':lic,'artist':art}
   return out
+LAST=(0,0)
 def grade(raw,night,gold):
   im=ImageOps.exif_transpose(Image.open(io.BytesIO(raw)))
   if im.mode in('RGBA','LA','P'):im=im.convert('RGBA');bg=Image.new('RGBA',im.size,(245,242,234,255));bg.alpha_composite(im);im=bg
   im=im.convert('RGB')
-  im=ImageOps.fit(im,(1200,768),Image.LANCZOS,centering=(.5,.38))
+  # keep the photo's own shape: only trim extreme panoramas/skinny portraits, then cap the size
+  w0,h0=im.size;ar=w0/h0
+  if ar>1.9:nw=int(h0*1.9);x=(w0-nw)//2;im=im.crop((x,0,x+nw,h0))
+  elif ar<.8:nh=int(w0/.8);im=im.crop((0,0,w0,nh))   # portraits: keep the top (faces)
+  w0,h0=im.size;k=min(1.0,(1000000/(w0*h0))**.5,1280/max(w0,h0));im=im.resize((max(1,int(w0*k)),max(1,int(h0*k))),Image.LANCZOS)
+  global LAST;LAST=im.size
   im=ImageOps.autocontrast(im,cutoff=.8)
   im=ImageEnhance.Color(im).enhance(.97)
   lut=[int(255*((x/255)**1.08*0.95+0.025)) for x in range(256)]*3   # gentle film curve, lifted blacks
@@ -95,7 +101,7 @@ def main():
     os.makedirs(f'{R}/art/photos/{sid}',exist_ok=True)
     qf=f'{R}/art/photo_queries/{sid}.json'
     if os.path.exists(qf):  # v2: exact Wikipedia article chosen per card
-      Q=json.load(open(qf));done={k for k in picks if k.startswith(sid+'/') and picks[k] and picks[k].get('v')==2}
+      Q=json.load(open(qf));done={k for k in picks if k.startswith(sid+'/') and picks[k] and picks[k].get('v')==3}
       for k in [k for k in list(picks) if k.startswith(sid+'/') and k not in done]:picks[k]=None
       lids=list(json.load(open(f'{R}/{d}/lessons/index.json')))
       for lid in lids:
@@ -110,7 +116,7 @@ def main():
             raw=get(info['url'],raw=True)
             try:open(f'{R}/art/photos/{K}.webp','wb').write(grade(raw,night,gold));used.add(f);p=info
             except Exception as e:print('grade fail',K,e)
-          picks[K]=p and {'src':f'art/photos/{K}.webp','credit':f"{p['artist']} · {p['license']}",'page':p['page'],'file':f,'v':2}
+          picks[K]=p and {'src':f'art/photos/{K}.webp','credit':f"{p['artist']} · {p['license']}",'page':p['page'],'file':f,'v':3,'w':LAST[0],'h':LAST[1]}
           print(K,'|',Q[k],'->',f if p else None,flush=True);n+=1
         json.dump(picks,open(OUT,'w'),indent=0,ensure_ascii=False)
       continue
