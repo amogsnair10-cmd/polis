@@ -41,6 +41,7 @@ function merge(a, b) {
   const rev = new Map();
   for (const r of [...(a.rev || []), ...(b.rev || [])]) { const k = r.id + ":" + r.q, x = rev.get(k); if (!x || (r.t || 0) > (x.t || 0)) rev.set(k, r); }
   if (rev.size) o.rev = [...rev.values()];
+  for (const k of ["xp", "rv", "mixN", "mixBest"]) { const v = Math.max(a[k] || 0, b[k] || 0); if (v) o[k] = v; }
   return o;
 }
 
@@ -58,6 +59,7 @@ async function pull() {
     progress: out, name: user.displayName || "", phone: user.phoneNumber || "", email: user.email || "", updated: serverTimestamp(),
   }, { merge: true });
   if (SUB) { loadProgress(); renderHome(); }
+  window.checkBadges && window.checkBadges(true);
 }
 function pushSoon() {
   if (!user) return;
@@ -156,6 +158,9 @@ async function openMe() {
    <div class="me">
     ${user ? "" : `<div class="me-signin"><b>Save your progress and doubts</b><small>Sign in once and everything syncs across devices.</small><button class="start" id="meG">Continue with Google</button><p class="note" id="meMsg"></p></div>`}
     <div class="me-stats"><div><b>${st}</b><small>day streak</small></div><div><b>${done}</b><small>lessons</small></div><div><b>${days.size}</b><small>study days</small></div><div><b>${sc.length ? avg + "%" : "–"}</b><small>quiz average</small></div></div>
+    ${(() => { const B = window.badgeState && window.badgeState(); if (!B) return ""; const v = B.level, got = B.all.filter(b => b.got).length;
+      return `<div class="me-xp"><div class="top"><span class="lv">Level ${v.n}</span><b>${v.name}</b><span class="xp">${v.xp} XP</span></div><i><b style="width:${v.pct}%"></b></i><small>${v.next ? (v.next - v.xp) + " XP to the next level" : "Top level reached"}</small></div>
+      <h3>Badges <em class="cnt">${got} of ${B.all.length}</em></h3><div class="badges">${B.all.map(b => `<div class="badge${b.got ? "" : " lock"}"><span class="bd ${b.tier}">${b.g}</span><b>${b.t}</b><small>${b.d}</small></div>`).join("")}</div>`; })()}
     <h3>Last 12 weeks</h3><div class="heat">${heat}</div>
     <h3>Subjects</h3>${subj.length ? subj.map(x => `<button class="me-sub" data-s="${x.s.id}"><span class="sic" style="--a:${(THEMES[x.s.theme] || THEMES.polis).vars["--gold"] || "#c9a45c"};--b:${(THEMES[x.s.theme] || THEMES.polis).vars["--lapis"] || "#13294b"}">${icon(x.s.id)}</span><span class="me-sub-t"><b>${x.s.title}</b> · ${x.s.name}<i style="--w:${Math.round(x.n / Math.max(1, x.total) * 100)}%"></i><small>${x.n} of ${x.total} lessons${x.a != null ? " · quiz " + x.a + "%" : ""}</small></span></button>`).join("") : `<p class="note">Finish a lesson and it shows up here.</p>`}
     ${weak.length ? `<h3>Revise these</h3>${weak.slice(0, 5).map(w => `<button class="me-weak" data-s="${w.s.id}" data-u="${w.u}"><b>${esc(w.name)}</b><small>${w.s.title} · quiz ${Math.round(w.a * 100)}%</small><span>Revise →</span></button>`).join("")}` : ""}

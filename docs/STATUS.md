@@ -23,6 +23,11 @@
 - android.yml: if secrets `KEYSTORE_B64` + `KEYSTORE_PASSWORD` exist it builds a signed release APK and `LightBulb.aab` (versionCode = run number); if `PLAY_SERVICE_ACCOUNT_JSON` exists it uploads the AAB to Play internal testing. The keystore was given to the user as a file; it is not in the repo.
 - Privacy policy: `privacy.html` (live at /polis/privacy.html).
 
+## Points, levels, badges, mixed revision (15 Nov)
+- XP in `S.xp` per subject (synced, max-merged in account.js). Lesson 30+5/correct (replay 5+2), chapter test 10+4/correct, review 3/correct, mixed test 20+4/correct, +10 first study of a day. 8 levels in `LEVELS`, 20 badges in `BADGES` (app.js), derived from saved progress; `lb:badges` remembers which were celebrated (toast). Home shows a level strip; My learning shows level + badge grid.
+- Mixed revision: `openMix()` = 20 questions from finished lessons, weighted to weaker ones; wrong answers feed the review list.
+- Hosting is Cloudflare (lightbulb.amogbuilds.net). An old APK that points at github.io shows a 404: reinstall from /LightBulb.apk.
+
 ## Doodles
 - Chapter doodles: all 11 subjects done (`art/doodles/<id>/<section>-<unit>.svg`).
 - Lesson doodles (cover + 2 key cards, `art/doodles/<id>/L/`): done for all 11 subjects.

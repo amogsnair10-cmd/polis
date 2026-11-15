@@ -18,6 +18,52 @@ function rmark(id,q,ok){S.rev=S.rev||[];let r=S.rev.find(r=>r.id===id&&r.q===q);
   if(!r){if(ok)return;r={id,q,step:-1};S.rev.push(r)}
   r.step=ok?r.step+1:0;r.due=r.step<4?dayStart(RDAYS[r.step]):0;r.t=Date.now();save()}
 let PYQ={};
+/* ---------- points, levels and badges ----------
+   XP is stored per subject in S.xp (synced with progress). Badges are worked out from saved progress,
+   so they can't get out of step; lb:badges remembers which ones were already celebrated. */
+const LEVELS=[[0,'Beginner'],[100,'Learner'],[300,'Student'],[700,'Scholar'],[1500,'Adept'],[3000,'Expert'],[6000,'Master'],[12000,'Sage']];
+const lvlOf=xp=>{let i=0;while(i+1<LEVELS.length&&xp>=LEVELS[i+1][0])i++;const a=LEVELS[i][0],b=LEVELS[i+1]?LEVELS[i+1][0]:null;return{n:i+1,name:LEVELS[i][1],xp,next:b,pct:b?Math.round((xp-a)/(b-a)*100):100}};
+function allS(){return SUBJ.map(s=>{let p=null;try{p=JSON.parse(ls.get(s.store||('polis:'+s.id))||'null')}catch(e){}return{s,p:p||{}}})}
+function stats(){const all=allS(),days=new Set();let lessons=0,perfect=0,tests=0,tests80=0,learned=0,xp=0,rv=0,mixN=0,mixBest=0,subs=0;
+  all.forEach(({p})=>{(p.days||[]).forEach(d=>days.add(d));const dn=Object.keys(p.done||{}).length;lessons+=dn;if(dn)subs++;
+    perfect+=Object.values(p.scores||{}).filter(v=>v>=.999).length;Object.values(p.tests||{}).forEach(v=>{tests++;if(v>=.8)tests80++});
+    learned+=(p.rev||[]).filter(r=>r.step>=4).length;xp+=p.xp||0;rv+=p.rv||0;mixN+=p.mixN||0;mixBest=Math.max(mixBest,p.mixBest||0)});
+  const sorted=[...days].sort();let best=0,run=0,prev=null;sorted.forEach(d=>{const t=Date.parse(d);run=prev!==null&&Math.round((t-prev)/864e5)===1?run+1:1;prev=t;best=Math.max(best,run)});
+  return{lessons,perfect,tests,tests80,learned,xp,rv,mixN,mixBest,subs,best}}
+const BADGES=[
+ ['first','First Step','Finish your first lesson','✦','b',A=>A.lessons>=1],
+ ['l10','Getting Serious','Finish 10 lessons','✎','b',A=>A.lessons>=10],
+ ['l25','Scholar','Finish 25 lessons','❖','s',A=>A.lessons>=25],
+ ['l100','Centurion','Finish 100 lessons','♛','g',A=>A.lessons>=100],
+ ['s3','On a Roll','Study 3 days in a row','☀','b',A=>A.best>=3],
+ ['s7','Week Warrior','Study 7 days in a row','☀','s',A=>A.best>=7],
+ ['s30','Unstoppable','Study 30 days in a row','☀','g',A=>A.best>=30],
+ ['p1','Sharp','Score 10 out of 10 on a quiz','◎','b',A=>A.perfect>=1],
+ ['p10','Flawless','Score full marks on 10 quizzes','◎','s',A=>A.perfect>=10],
+ ['t1','Chapter Champion','Score 80% or more on a chapter test','⚑','b',A=>A.tests80>=1],
+ ['t5','Test Taker','Finish 5 chapter tests','⚑','s',A=>A.tests>=5],
+ ['r1','Second Look','Finish a review session','↻','b',A=>A.rv>=1],
+ ['r10','Made to Stick','Master 10 questions through review','↻','s',A=>A.learned>=10],
+ ['r50','Elephant Memory','Master 50 questions through review','↻','g',A=>A.learned>=50],
+ ['m1','Mixed Bag','Finish a mixed revision test','⚄','b',A=>A.mixN>=1],
+ ['m80','Sharp Recall','Score 80% or more on a mixed test','⚄','s',A=>A.mixBest>=.8],
+ ['sub3','Polymath','Finish lessons in 3 different subjects','✺','s',A=>A.subs>=3],
+ ['sub6','Renaissance','Finish lessons in 6 different subjects','✺','g',A=>A.subs>=6],
+ ['x500','Rising Star','Earn 500 XP','★','s',A=>A.xp>=500],
+ ['x3000','Legend','Earn 3000 XP','★','g',A=>A.xp>=3000]];
+function badgeState(){const A=stats();return{A,level:lvlOf(A.xp),all:BADGES.map(b=>({id:b[0],t:b[1],d:b[2],g:b[3],tier:b[4],got:b[5](A)}))}}
+window.badgeState=badgeState;
+function toast(h){let t=document.getElementById('toasts');if(!t){t=document.createElement('div');t.id='toasts';document.body.appendChild(t)}
+  const e=document.createElement('div');e.className='toast';e.innerHTML=h;t.appendChild(e);setTimeout(()=>{e.classList.add('out');setTimeout(()=>e.remove(),600)},CALM?3500:4200)}
+/* quiet=true records what is already earned without celebrating (first run, after sign-in) */
+function checkBadges(quiet){const st=badgeState(),got=st.all.filter(b=>b.got).map(b=>b.id);let seen=null;try{seen=JSON.parse(ls.get('lb:badges')||'null')}catch(e){}
+  if(seen&&!quiet)st.all.filter(b=>b.got&&!seen.includes(b.id)).forEach((b,i)=>setTimeout(()=>toast(`<span class="bd ${b.tier}">${b.g}</span><span><small>New badge</small><b>${b.t}</b></span>`),i*900));
+  ls.set('lb:badges',JSON.stringify([...new Set([...(seen||[]),...got])]));renderLevel()}
+window.checkBadges=checkBadges;
+function renderLevel(){const el=document.getElementById('lvl');if(!el)return;const v=lvlOf(stats().xp);
+  el.innerHTML=`<span class="lv">Level ${v.n}</span><span class="ln">${v.name}</span><i><b style="width:${v.pct}%"></b></i><span class="xp">${v.xp} XP${v.next?' · '+(v.next-v.xp)+' to next':''}</span>`}
+const xpLine=(xp,lv0)=>{const v=lvlOf(stats().xp);return`<div class="xpgain"><b>+${xp} XP</b><span>Level ${v.n} · ${v.name}</span>${v.n>lv0?'<em>Level up</em>':''}</div>`};
+
 const path=f=>(SUB.dir==='.'?'':SUB.dir+'/')+f;
 let ids=[];
 // Dates are the phone's local calendar day (IST for Indian users), never UTC.
@@ -37,6 +83,9 @@ function renderHome(){
   else t.innerHTML=`<div class="day">All caught up</div><h2>You've finished every lesson written so far</h2><p>New lessons arrive soon. Revise anything from the syllabus below.</p>`;
   const due=rdue().length,rv=document.getElementById('rev');
   rv.hidden=!due;if(due)rv.innerHTML=`<div><div class="day">Review</div><b>${due} question${due==1?'':'s'} you missed</b><small>About ${Math.max(1,Math.round(due*.4))} min · they come back until they stick</small></div><span class="go">Start</span>`;
+  const mx=document.getElementById('mix'),nd=Object.keys(S.done).filter(i=>!i.endsWith('-T')).length;
+  mx.hidden=nd<3;if(nd>=3)mx.innerHTML=`<div><div class="day">Mixed revision</div><b>20 questions from everything so far</b><small>${S.mixBest?'Best '+Math.round(S.mixBest*100)+'% · ':''}+20 bonus XP</small></div><span class="go">Start</span>`;
+  renderLevel();
   let h='',num=0;
   MAP.forEach((p,pi)=>{h+=`<div class="sec"><h3>${p.t}</h3><p>${p.p}</p></div>`;
     p.units.forEach((u,ui)=>{const live=u[1].some((_,k)=>IDX[`${pi}-${ui}-${k}`]);
@@ -74,13 +123,16 @@ deck.addEventListener('click',e=>{const b=e.target.closest('.opt');if(!b)return;
   const w=document.getElementById('w'+q);w.innerHTML=(j===Q.a?'<b>Correct.</b> ':'<b>Not quite.</b> ')+Q.w;w.classList.add('on');setTimeout(()=>w.scrollIntoView({behavior:CALM?'auto':'smooth',block:'nearest'}),250);
   if(Object.keys(ans).length===L[cur].quiz.length)finish()});
 function countUp(el,to){if(!el)return;if(CALM){el.textContent=to;return}let n=0;const step=()=>{el.textContent=n;if(n++<to)setTimeout(step,1000/Math.max(to,1))};step()}
-function finish(){const s=Object.values(ans).filter(Boolean).length;const f=s/L[cur].quiz.length;
-  if(cur==='REVIEW'){if(!S.days.includes(today()))S.days.push(today());save();pushSync();const left=L.REVIEW.quiz.length-s;
-    document.getElementById('end').innerHTML=`${wreath}<div class="score"><span id="scN">0</span> / ${L.REVIEW.quiz.length}</div><h2 style="margin-top:14px">${left?'Getting there':'All of them, first try'}</h2><p>${left?`${left} will come back tomorrow. The rest return in a few days, then a week, then three weeks.`:'These return in a few days to make sure they stay.'}</p><button class="start" onclick="back()">Back to the syllabus</button>`;
-    setTimeout(()=>countUp(document.getElementById('scN'),s),300);return}
-  if(cur.endsWith('-T')){S.tests=S.tests||{};S.tests[cur]=Math.max(f,S.tests[cur]||0)}else{S.done[cur]=1;S.scores[cur]=f}if(!S.days.includes(today()))S.days.push(today());save();pushSync();
-  document.getElementById('end').innerHTML=`${wreath}<div class="score"><span id="scN">0</span> / ${L[cur].quiz.length}</div><h2 style="margin-top:14px">${f>=.8?'Laurels earned':f>=.6?'Solid work':'Worth another read'}</h2><p>${f>=.8?'You know this well enough to write on it.':f>=.6?'Skim the cards you missed once more.':'Come back to this one tomorrow.'}</p><button class="start" onclick="back()">Back to the syllabus</button>`;
-  setTimeout(()=>countUp(document.getElementById('scN'),s),300)}
+function finish(){const sc=Object.values(ans).filter(Boolean).length,n=L[cur].quiz.length,f=sc/n,lv0=lvlOf(stats().xp).n;let xp=0,title,msg;
+  if(!S.days.includes(today())){xp+=10;S.days.push(today())}
+  if(cur==='REVIEW'){xp+=3*sc;S.rv=(S.rv||0)+1;const left=n-sc;title=left?'Getting there':'All of them, first try';msg=left?`${left} will come back tomorrow. The rest return in a few days, then a week, then three weeks.`:'These return in a few days to make sure they stay.'}
+  else if(cur==='MIX'){xp+=20+4*sc;S.mixBest=Math.max(S.mixBest||0,f);S.mixN=(S.mixN||0)+1;title=f>=.8?'Sharp recall':f>=.6?'Holding steady':'Rusty in places';msg=f>=.8?'That is what lasting memory looks like.':'The ones you missed will come back in your reviews.'}
+  else{if(cur.endsWith('-T')){xp+=10+4*sc;S.tests=S.tests||{};S.tests[cur]=Math.max(f,S.tests[cur]||0)}else{xp+=S.done[cur]?5+2*sc:30+5*sc;S.done[cur]=1;S.scores[cur]=f}
+    title=f>=.8?'Laurels earned':f>=.6?'Solid work':'Worth another read';msg=f>=.8?'You know this well enough to write on it.':f>=.6?'Skim the cards you missed once more.':'Come back to this one tomorrow.'}
+  S.xp=(S.xp||0)+xp;save();pushSync();
+  document.getElementById('end').innerHTML=`${wreath}<div class="score"><span id="scN">0</span> / ${n}</div><h2 style="margin-top:14px">${title}</h2><p>${msg}</p>${xpLine(xp,lv0)}<button class="start" onclick="back()">Back to the syllabus</button>`;
+  setTimeout(()=>countUp(document.getElementById('scN'),sc),300);
+  setTimeout(()=>{checkBadges();const v=lvlOf(stats().xp);if(v.n>lv0)toast(`<span class="bd g">★</span><span><small>Level up</small><b>Level ${v.n} · ${v.name}</b></span>`)},1400)}
 let curCard=0;const io=new IntersectionObserver(es=>es.forEach(e=>{if(e.isIntersecting)e.target.classList.add('in')}),{threshold:.35});
 function upd(){const n=deck.children.length,i=Math.round(deck.scrollLeft/deck.clientWidth);curCard=i-1;document.getElementById('pg').style.width=((i+1)/n*100)+'%';document.getElementById('cnt').textContent=`${i+1}/${n}`}
 deck.addEventListener('scroll',()=>requestAnimationFrame(upd));
@@ -216,12 +268,20 @@ const mk=(u,cls)=>`<i class="${cls}" style="--u:url('${u}')"></i>`;
 const doodle=(id,cls='dd')=>{const [p,u]=id.split('-'),k=p+'-'+u;return SUB&&((DOODLES.units||{})[SUB.id]||[]).includes(k)?mk(`art/doodles/${SUB.id}/${k}.svg`,cls):''};
 // lesson doodles: cover (lessonId) and key cards (lessonId_k)
 const ldood=(name,cls)=>SUB&&((DOODLES.lessons||{})[SUB.id]||[]).includes(name)?mk(`art/doodles/${SUB.id}/L/${name}.svg`,cls):'';
-(async()=>{SUBJ=await fetch('subjects.json').then(r=>r.json());DOODLES=await fetch('doodles.json').then(r=>r.json()).catch(()=>({}));fetch('photos.json').then(r=>r.json()).then(j=>PHOTOS=j).catch(()=>{});await loadSubject(ls.get('subject')||SUBJ[0].id);await Promise.race([document.getElementById('heroArt').ready,new Promise(r=>setTimeout(r,3500))]);hideSplash();handleGo();import('./account.js').catch(e=>{const a=document.getElementById('acct');if(a)a.innerHTML='<p class="note">Sign-in needs the internet. Your progress is still saved on this phone.</p>'});pushSync()})();
+(async()=>{SUBJ=await fetch('subjects.json').then(r=>r.json());DOODLES=await fetch('doodles.json').then(r=>r.json()).catch(()=>({}));fetch('photos.json').then(r=>r.json()).then(j=>PHOTOS=j).catch(()=>{});await loadSubject(ls.get('subject')||SUBJ[0].id);await Promise.race([document.getElementById('heroArt').ready,new Promise(r=>setTimeout(r,3500))]);checkBadges(true);hideSplash();handleGo();import('./account.js').catch(e=>{const a=document.getElementById('acct');if(a)a.innerHTML='<p class="note">Sign-in needs the internet. Your progress is still saved on this phone.</p>'});pushSync()})();
 /* ---------- chapter tests: 15 questions drawn from every lesson in the chapter ---------- */
 async function openReview(){const due=rdue().sort((a,b)=>a.due-b.due).slice(0,15),quiz=[];
   try{for(const r of due){const l=await getLesson(r.id);if(l.quiz[r.q])quiz.push({...l.quiz[r.q],_r:r,_t:l.title})}}catch(e){alert('Review could not load. Check your connection.');return}
   if(!quiz.length)return;L.REVIEW={title:'Review',emoji:'↻',cards:[],quiz};await openL('REVIEW');
   const c=deck.querySelector('.cover');if(c)c.innerHTML=`<div class="em">↻</div><div class="tag">Review</div><h2>${quiz.length} question${quiz.length==1?'':'s'} you missed</h2><p class="hint">Swipe left to begin</p>`}
+/* Mixed revision: 20 questions drawn from lessons you have finished, leaning towards the ones you scored lower on. */
+async function openMix(){const done=Object.keys(S.done).filter(i=>IDX[i]&&!i.endsWith('-T'));if(done.length<3)return;
+  const pick=done.map(i=>({i,k:(S.scores[i]??.7)+Math.random()*.5})).sort((a,b)=>a.k-b.k).slice(0,Math.min(12,done.length)).map(x=>x.i),pool=[];
+  try{const ls_=await Promise.all(pick.map(getLesson));ls_.forEach((l,j)=>{const idx=l.quiz.map((_,q)=>q).sort(()=>Math.random()-.5).slice(0,2);idx.forEach(q=>pool.push({...l.quiz[q],_r:{id:pick[j],q},_t:l.title}))})}
+  catch(e){alert('The test could not load. Check your connection.');return}
+  for(let i=pool.length-1;i>0;i--){const j=Math.floor(Math.random()*(i+1));[pool[i],pool[j]]=[pool[j],pool[i]]}
+  const quiz=pool.slice(0,20);L.MIX={title:'Mixed revision',emoji:'⚄',cards:[],quiz};await openL('MIX');
+  const c=deck.querySelector('.cover');if(c)c.innerHTML=`<div class="em">⚄</div><div class="tag">Mixed revision</div><h2>${quiz.length} questions from across what you've learned</h2><p class="hint">Swipe left to begin</p>`}
 async function openTest(pi,ui){const u=MAP[pi].units[ui],pool=[];
   try{for(let k=0;k<u[1].length;k++){const l=await getLesson(`${pi}-${ui}-${k}`);l.quiz.forEach(q=>pool.push(q))}}catch(e){alert('The test could not load. Check your connection.');return}
   for(let i=pool.length-1;i>0;i--){const j=Math.floor(Math.random()*(i+1));[pool[i],pool[j]]=[pool[j],pool[i]]}
