@@ -379,3 +379,5 @@ blockquote.pyq small{display:block;margin-top:6px;font-size:12px;color:var(--vei
 .rs-row b{font-family:var(--font-display);font-weight:700}.rs-row small{display:block;color:var(--vein);font-size:12.5px}
 .rs-row input{width:84px;font:inherit;font-size:18px;text-align:center;padding:10px;border-radius:12px;border:1px solid var(--opt-line);background:#fff;color:var(--ink)}
 #restoreSheet .start{margin-top:18px;width:100%}
+
+.linkbtn.danger{color:#b3392f;font-size:13px;margin-top:2px}

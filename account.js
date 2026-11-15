@@ -1,8 +1,8 @@
 // Accounts: Google or phone sign-in (Firebase), cloud sync of progress and doubts, and the "My learning" screen.
 // Loaded in the background by app.js. Uses app.js globals: SUBJ, SUB, S, ls, loadSubject, renderHome, openL, show, esc, today, ds.
 import {
-  initializeApp, getAuth, onAuthStateChanged, GoogleAuthProvider, signInWithPopup, RecaptchaVerifier, signInWithPhoneNumber, signOut, signInWithCredential,
-  initializeFirestore, persistentLocalCache, doc, getDoc, setDoc, collection, addDoc, query, orderBy, limit, getDocs, serverTimestamp,
+  initializeApp, getAuth, onAuthStateChanged, GoogleAuthProvider, signInWithPopup, RecaptchaVerifier, signInWithPhoneNumber, signOut, signInWithCredential, deleteUser,
+  initializeFirestore, persistentLocalCache, doc, getDoc, setDoc, deleteDoc, writeBatch, collection, addDoc, query, orderBy, limit, getDocs, serverTimestamp,
 } from "./vendor/firebase-13.1.0.js";
 
 const app = initializeApp({
@@ -77,14 +77,33 @@ window.onDoubt = d => { if (user) addDoc(collection(db, "users", user.uid, "doub
 
 // ---------- sign-in UI ----------
 const box = document.getElementById("acct");
+// ---------- Delete account (Google Play requires this) ----------
+async function deleteAccount() {
+  if (!user) return;
+  if (!confirm("Delete your account?\n\nThis removes your sign-in, your cloud progress and all saved doubts from our servers. Progress already on this phone stays. This cannot be undone.")) return;
+  const u = user;
+  try {
+    const snap = await getDocs(collection(db, "users", u.uid, "doubts"));
+    const b = writeBatch(db); snap.forEach(d => b.delete(d.ref)); await b.commit();
+    await deleteDoc(doc(db, "users", u.uid));
+    await deleteUser(u);
+    alert("Your account and cloud data have been deleted.");
+  } catch (e) {
+    alert(e && e.code === "auth/requires-recent-login"
+      ? "For your safety, please sign out, sign in again, and then tap Delete account once more. Your cloud data has already been removed."
+      : "Could not finish deleting. Check your connection and try again.");
+  }
+}
+window.deleteAccount = deleteAccount;
 function render() {
   if (user) {
     const who = user.displayName || user.phoneNumber || user.email || "Signed in";
     if (window.LB_FULL) setTimeout(() => { const o = document.getElementById("outBtn"); if (o && !document.getElementById("fullTag")) o.insertAdjacentHTML("beforebegin", '<p class="note" id="fullTag">✦ Full access</p>'); }, 0);
     box.innerHTML = `<div class="acct-row"><span class="avatar">${esc(who[0] || "•")}</span><div><b>${esc(who)}</b><small>Progress and doubts are saved to your account.</small></div></div>
-      <button class="start" id="meBtn">My learning</button><button class="linkbtn" id="outBtn">Sign out</button>`;
+      <button class="start" id="meBtn">My learning</button><button class="linkbtn" id="outBtn">Sign out</button><button class="linkbtn danger" id="delBtn">Delete account</button>`;
     document.getElementById("meBtn").onclick = () => { document.getElementById("sheet").hidden = true; openMe(); };
     document.getElementById("outBtn").onclick = () => signOut(auth);
+    document.getElementById("delBtn").onclick = deleteAccount;
   } else {
     box.innerHTML = `<p class="note">Sign in to save your progress and doubts, and see how your learning is going.</p>
       <button class="choice signin" id="gBtn"><span class="g">G</span><span>Continue with Google</span></button>
@@ -200,6 +219,7 @@ async function openMe() {
     <h3>Last 12 weeks</h3><div class="heat">${heat}</div>
     <h3>Subjects</h3>${subj.length ? subj.map(x => `<button class="me-sub" data-s="${x.s.id}"><span class="sic" style="--a:${(THEMES[x.s.theme] || THEMES.polis).vars["--gold"] || "#c9a45c"};--b:${(THEMES[x.s.theme] || THEMES.polis).vars["--lapis"] || "#13294b"}">${icon(x.s.id)}</span><span class="me-sub-t"><b>${x.s.title}</b> · ${x.s.name}<i style="--w:${Math.round(x.n / Math.max(1, x.total) * 100)}%"></i><small>${x.n} of ${x.total} lessons${x.a != null ? " · quiz " + x.a + "%" : ""}</small></span></button>`).join("") : `<p class="note">Finish a lesson and it shows up here.</p>`}
     ${weak.length ? `<h3>Revise these</h3>${weak.slice(0, 5).map(w => `<button class="me-weak" data-s="${w.s.id}" data-u="${w.u}"><b>${esc(w.name)}</b><small>${w.s.title} · quiz ${Math.round(w.a * 100)}%</small><span>Revise →</span></button>`).join("")}` : ""}
+    ${user ? `<h3>Your account</h3><button class="me-weak" id="delAcct"><b>Delete my account and data</b><small>Removes your sign-in, cloud progress and doubts</small><span>Delete →</span></button>` : ""}
     <h3>Lost your progress?</h3><button class="me-weak" id="rsOpen"><b>Restore my progress</b><small>Tell the app how many lessons you had finished</small><span>Restore →</span></button>
     <h3>Your doubts</h3>${user ? (doubts.length ? doubts.map(d => `<button class="me-doubt" data-s="${esc(d.subject || "")}" data-l="${esc(d.lessonId || "")}"><small>${esc(d.subjectTitle || "")} · ${esc(d.lessonTitle || "")}</small><b>${esc(d.q || "")}</b><span>${esc((d.a || "").slice(0, 220))}${(d.a || "").length > 220 ? "…" : ""}</span></button>`).join("") : `<p class="note">Questions you ask with the ? button will be saved here.</p>`) : `<p class="note">Sign in to save your doubts.</p>`}
    </div>`;
@@ -207,9 +227,10 @@ async function openMe() {
   document.getElementById("meClose").onclick = back;
   const g = document.getElementById("meG");
   if (g) g.onclick = async () => { try { await googleSignIn(); if (!NATIVE) openMe(); } catch (e) { document.getElementById("meMsg").textContent = "Sign-in didn't finish: " + (e.code || e.message); } };
+  const da = document.getElementById("delAcct"); if (da) da.onclick = deleteAccount;
   const ro = document.getElementById("rsOpen"); if (ro) ro.onclick = openRestore;
   v.querySelectorAll(".me-sub").forEach(b => b.onclick = async () => { await loadSubject(b.dataset.s); back(); });
-  v.querySelectorAll(".me-weak:not(#rsOpen)").forEach(b => b.onclick = async () => { await loadSubject(b.dataset.s); const [p, u] = b.dataset.u.split("-"); openTest(+p, +u); });
+  v.querySelectorAll(".me-weak:not(#rsOpen):not(#delAcct)").forEach(b => b.onclick = async () => { await loadSubject(b.dataset.s); const [p, u] = b.dataset.u.split("-"); openTest(+p, +u); });
   v.querySelectorAll(".me-doubt").forEach(b => b.onclick = async () => { if (!b.dataset.s || !b.dataset.l) return; await loadSubject(b.dataset.s); openL(b.dataset.l); });
 }
 window.openMe = openMe;
