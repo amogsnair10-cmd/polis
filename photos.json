@@ -37,7 +37,13 @@
 "v": 2
 },
 "chemistry/0-0-2_3": null,
-"chemistry/0-0-2_6": null,
+"chemistry/0-0-2_6": {
+"src": "art/photos/chemistry/0-0-2_6.webp",
+"credit": "W. Oelen · CC BY-SA 3.0",
+"page": "https://commons.wikimedia.org/wiki/File:Chlorine_in_bottle.jpg",
+"file": "Chlorine_in_bottle.jpg",
+"v": 2
+},
 "chemistry/0-0-3": null,
 "chemistry/0-0-3_3": null,
 "chemistry/0-0-3_6": null,
@@ -85,7 +91,13 @@
 "v": 2
 },
 "chemistry/1-0-2_3": null,
-"chemistry/1-0-2_6": null,
+"chemistry/1-0-2_6": {
+"src": "art/photos/chemistry/1-0-2_6.webp",
+"credit": "Svjo · CC BY-SA 4.0",
+"page": "https://commons.wikimedia.org/wiki/File:Exponential-decay.png",
+"file": "Exponential-decay.png",
+"v": 2
+},
 "chemistry/1-0-3": null,
 "chemistry/1-0-3_3": null,
 "chemistry/1-0-3_6": null,
@@ -123,7 +135,13 @@
 "file": "Graphite-233436.jpg",
 "v": 2
 },
-"chemistry/2-0-1_3": null,
+"chemistry/2-0-1_3": {
+"src": "art/photos/chemistry/2-0-1_3.webp",
+"credit": "AlexanderAlUS · CC BY-SA 3.0",
+"page": "https://commons.wikimedia.org/wiki/File:Graphen.jpg",
+"file": "Graphen.jpg",
+"v": 2
+},
 "chemistry/2-0-1_6": null,
 "chemistry/2-0-2": {
 "src": "art/photos/chemistry/2-0-2.webp",
@@ -199,7 +217,13 @@
 "chemistry/4-0-2_6": null,
 "chemistry/4-0-3": null,
 "chemistry/4-0-3_3": null,
-"chemistry/4-0-3_6": null,
+"chemistry/4-0-3_6": {
+"src": "art/photos/chemistry/4-0-3_6.webp",
+"credit": "Benjah-bmm27 · Public domain",
+"page": "https://commons.wikimedia.org/wiki/File:Calcium-oxide-3D-vdW.png",
+"file": "Calcium-oxide-3D-vdW.png",
+"v": 2
+},
 "environment/0-0-0": null,
 "environment/0-0-0_3": null,
 "environment/0-0-0_6": null,
@@ -262,7 +286,13 @@
 "v": 2
 },
 "environment/1-0-1_3": null,
-"environment/1-0-1_6": null,
+"environment/1-0-1_6": {
+"src": "art/photos/environment/1-0-1_6.webp",
+"credit": "Michael Major for CGIAR Genebank Platform · CC BY-SA 2.0",
+"page": "https://commons.wikimedia.org/wiki/File:ICRISAT_active_genebank.jpg",
+"file": "ICRISAT_active_genebank.jpg",
+"v": 2
+},
 "environment/1-0-2": null,
 "environment/1-0-2_3": {
 "src": "art/photos/environment/1-0-2_3.webp",
@@ -305,7 +335,13 @@
 },
 "environment/2-0-1_3": null,
 "environment/2-0-1_6": null,
-"environment/2-0-2": null,
+"environment/2-0-2": {
+"src": "art/photos/environment/2-0-2.webp",
+"credit": "FacetsOfNonStickPans · CC BY-SA 4.0",
+"page": "https://commons.wikimedia.org/wiki/File:Workers_on_top_of_Ghazipur_landfill_2013.jpg",
+"file": "Workers_on_top_of_Ghazipur_landfill_2013.jpg",
+"v": 2
+},
 "environment/2-0-2_3": {
 "src": "art/photos/environment/2-0-2_3.webp",
 "credit": "Daniel Stockman · CC BY-SA 2.0",
@@ -314,7 +350,13 @@
 "v": 2
 },
 "environment/2-0-2_6": null,
-"environment/2-1-0": null,
+"environment/2-1-0": {
+"src": "art/photos/environment/2-1-0.webp",
+"credit": "Ganesh Paudel at ne.wikipedia · CC BY-SA 3.0",
+"page": "https://commons.wikimedia.org/wiki/File:Deforestration_premejung.JPG",
+"file": "Deforestration_premejung.JPG",
+"v": 2
+},
 "environment/2-1-0_3": {
 "src": "art/photos/environment/2-1-0_3.webp",
 "credit": "Unknown · CC BY-SA 3.0",
@@ -395,7 +437,13 @@
 "file": "Stwlan.dam.jpg",
 "v": 2
 },
-"environment/3-2-2": null,
+"environment/3-2-2": {
+"src": "art/photos/environment/3-2-2.webp",
+"credit": "Neutronic at English Wikipedia · Public domain",
+"page": "https://commons.wikimedia.org/wiki/File:Turbine_aalborg.jpg",
+"file": "Turbine_aalborg.jpg",
+"v": 2
+},
 "environment/3-2-2_3": {
 "src": "art/photos/environment/3-2-2_3.webp",
 "credit": "Unknown authorUnknown author · CC BY 3.0",
@@ -441,7 +489,13 @@
 "environment/4-1-0_3": null,
 "environment/4-1-0_6": null,
 "environment/4-1-1": null,
-"environment/4-1-1_3": null,
+"environment/4-1-1_3": {
+"src": "art/photos/environment/4-1-1_3.webp",
+"credit": "Unknown · Public domain",
+"page": "https://commons.wikimedia.org/wiki/File:Grain_millet,_early_grain_fill,_Tifton,_7-3-02.jpg",
+"file": "Grain_millet,_early_grain_fill,_Tifton,_7-3-02.jpg",
+"v": 2
+},
 "environment/4-1-1_6": null,
 "history/0-0-0": {
 "src": "art/photos/history/0-0-0.webp",
@@ -457,7 +511,13 @@
 "file": "Kebaran_culture_microliths_22000-18000_BP.jpg",
 "v": 2
 },
-"history/0-0-0_6": null,
+"history/0-0-0_6": {
+"src": "art/photos/history/0-0-0_6.webp",
+"credit": "Laura Wilson farm , USDA Natural Resources Conservation Service · Public domain",
+"page": "https://commons.wikimedia.org/wiki/File:PivotWithDrops.JPG",
+"file": "PivotWithDrops.JPG",
+"v": 2
+},
 "history/0-0-1": {
 "src": "art/photos/history/0-0-1.webp",
 "credit": "Saqib Qayyum · CC BY-SA 3.0",
@@ -488,8 +548,20 @@
 },
 "history/0-0-2_3": null,
 "history/0-0-2_6": null,
-"history/0-0-3": null,
-"history/0-0-3_3": null,
+"history/0-0-3": {
+"src": "art/photos/history/0-0-3.webp",
+"credit": "Sachin kumar tiwary · CC BY-SA 3.0",
+"page": "https://commons.wikimedia.org/wiki/File:Ashoka_Lauriya_Areraj_inscription.jpg",
+"file": "Ashoka_Lauriya_Areraj_inscription.jpg",
+"v": 2
+},
+"history/0-0-3_3": {
+"src": "art/photos/history/0-0-3_3.webp",
+"credit": "Aj.abhishek1998 · CC BY-SA 4.0",
+"page": "https://commons.wikimedia.org/wiki/File:Ashoka_Pillar_in_Allahabad.jpg",
+"file": "Ashoka_Pillar_in_Allahabad.jpg",
+"v": 2
+},
 "history/0-0-3_6": null,
 "history/0-1-0": {
 "src": "art/photos/history/0-1-0.webp",
@@ -506,7 +578,13 @@
 "v": 2
 },
 "history/0-1-0_6": null,
-"history/0-1-1": null,
+"history/0-1-1": {
+"src": "art/photos/history/0-1-1.webp",
+"credit": "พระมหาเทวประภาส วชิรญาณเมธี (ผู้ถ่าย-ปล่อยสัญญาอนุญาตภาพให้นำไปใช้ได้เ · CC BY-SA 3.0",
+"page": "https://commons.wikimedia.org/wiki/File:Buddha_in_Sarnath_Museum_(Dhammajak_Mutra).jpg",
+"file": "Buddha_in_Sarnath_Museum_(Dhammajak_Mutra).jpg",
+"v": 2
+},
 "history/0-1-1_3": {
 "src": "art/photos/history/0-1-1_3.webp",
 "credit": "Dayodaya · CC BY-SA 3.0",
@@ -528,7 +606,13 @@
 "file": "Shanti_Stupa_at_Rajgir_(cropped).jpg",
 "v": 2
 },
-"history/0-1-2_3": null,
+"history/0-1-2_3": {
+"src": "art/photos/history/0-1-2_3.webp",
+"credit": "Pyule · CC BY-SA 3.0",
+"page": "https://commons.wikimedia.org/wiki/File:Pataliputra6.jpg",
+"file": "Pataliputra6.jpg",
+"v": 2
+},
 "history/0-1-2_6": null,
 "history/0-1-3": {
 "src": "art/photos/history/0-1-3.webp",
@@ -612,7 +696,13 @@
 "file": "Qutb_Minar_2022.jpg",
 "v": 2
 },
-"history/1-1-0_3": null,
+"history/1-1-0_3": {
+"src": "art/photos/history/1-1-0_3.webp",
+"credit": "14th century author · Public domain",
+"page": "https://commons.wikimedia.org/wiki/File:The_Execution_of_Jalal-al-Din_Firuzshah_II_(r1290-96),_Jami_al-Tawarikh_(Alauddin_Khalji_detail).jpg",
+"file": "The_Execution_of_Jalal-al-Din_Firuzshah_II_(r1290-96),_Jami_al-Tawarikh_(Alauddin_Khalji_detail).jpg",
+"v": 2
+},
 "history/1-1-0_6": null,
 "history/1-1-1": {
 "src": "art/photos/history/1-1-1.webp",
@@ -656,7 +746,13 @@
 "file": "Jahangircrop.jpeg",
 "v": 2
 },
-"history/1-2-1": null,
+"history/1-2-1": {
+"src": "art/photos/history/1-2-1.webp",
+"credit": "Unknown authorUnknown author · Public domain",
+"page": "https://commons.wikimedia.org/wiki/File:Shivaji_British_Museum.jpg",
+"file": "Shivaji_British_Museum.jpg",
+"v": 2
+},
 "history/1-2-1_3": null,
 "history/1-2-1_6": {
 "src": "art/photos/history/1-2-1_6.webp",
@@ -706,7 +802,13 @@
 "v": 2
 },
 "history/1-3-0_3": null,
-"history/1-3-0_6": null,
+"history/1-3-0_6": {
+"src": "art/photos/history/1-3-0_6.webp",
+"credit": "Unknown authorUnknown author · Public domain",
+"page": "https://commons.wikimedia.org/wiki/File:Kangra_painting_of_Mirabai,_the_female_Bhakti_saint.jpg",
+"file": "Kangra_painting_of_Mirabai,_the_female_Bhakti_saint.jpg",
+"v": 2
+},
 "history/1-3-1": null,
 "history/1-3-1_3": null,
 "history/1-3-1_6": null,
@@ -792,7 +894,13 @@
 "file": "Tanjore-style_Carnatic_tambura.JPG",
 "v": 2
 },
-"history/2-2-1_3": null,
+"history/2-2-1_3": {
+"src": "art/photos/history/2-2-1_3.webp",
+"credit": "Saraswatibai123 · CC0",
+"page": "https://commons.wikimedia.org/wiki/File:Sri_Tyagabrahmam.png",
+"file": "Sri_Tyagabrahmam.png",
+"v": 2
+},
 "history/2-2-1_6": null,
 "history/2-3-0": {
 "src": "art/photos/history/2-3-0.webp",
@@ -862,12 +970,30 @@
 "history/3-3-0_6": null,
 "history/3-3-1": null,
 "history/3-3-1_3": null,
-"history/3-3-1_6": null,
+"history/3-3-1_6": {
+"src": "art/photos/history/3-3-1_6.webp",
+"credit": "Anugrah Abhinandan Granth (1946) · Public domain",
+"page": "https://commons.wikimedia.org/wiki/File:Dr_Rajendra_Pd._DR.Anugrah_Narayan_Sinha.jpg",
+"file": "Dr_Rajendra_Pd._DR.Anugrah_Narayan_Sinha.jpg",
+"v": 2
+},
 "history/3-4-0": null,
 "history/3-4-0_3": null,
 "history/3-4-0_6": null,
-"history/3-4-1": null,
-"history/3-4-1_3": null,
+"history/3-4-1": {
+"src": "art/photos/history/3-4-1.webp",
+"credit": "W. H. Allen and Co. · Public domain",
+"page": "https://commons.wikimedia.org/wiki/File:Pope1880BengalPres2.jpg",
+"file": "Pope1880BengalPres2.jpg",
+"v": 2
+},
+"history/3-4-1_3": {
+"src": "art/photos/history/3-4-1_3.webp",
+"credit": "Unknown authorUnknown author · Public domain",
+"page": "https://commons.wikimedia.org/wiki/File:Concentrate_on_Charkha_and_Swadeshi_bazaar_art.jpg",
+"file": "Concentrate_on_Charkha_and_Swadeshi_bazaar_art.jpg",
+"v": 2
+},
 "history/3-4-1_6": null,
 "history/3-4-2": {
 "src": "art/photos/history/3-4-2.webp",
@@ -907,10 +1033,22 @@
 "file": "Dattatreya_Temple_of_Girnar.JPG",
 "v": 2
 },
-"history/4-0-0_6": null,
+"history/4-0-0_6": {
+"src": "art/photos/history/4-0-0_6.webp",
+"credit": "Illumination/ornamentation by Beohar Rammanohar Sinha, calligraphy by  · Public domain",
+"page": "https://commons.wikimedia.org/wiki/File:Constitution_of_India.jpg",
+"file": "Constitution_of_India.jpg",
+"v": 2
+},
 "history/4-0-1": null,
 "history/4-0-1_3": null,
-"history/4-0-1_6": null,
+"history/4-0-1_6": {
+"src": "art/photos/history/4-0-1_6.webp",
+"credit": "Unknown authorUnknown author · Public domain",
+"page": "https://commons.wikimedia.org/wiki/File:Portrait_of_Prasanta_Chandra_Mahalanobis.webp",
+"file": "Portrait_of_Prasanta_Chandra_Mahalanobis.webp",
+"v": 2
+},
 "history/4-0-2": null,
 "history/4-0-2_3": null,
 "history/4-0-2_6": null,
@@ -930,7 +1068,13 @@
 "file": "United_States_Declaration_of_Independence.jpg",
 "v": 2
 },
-"history/5-0-1_3": null,
+"history/5-0-1_3": {
+"src": "art/photos/history/5-0-1_3.webp",
+"credit": "Constitutional Convention · Public domain",
+"page": "https://commons.wikimedia.org/wiki/File:Constitution_of_the_United_States_-_DPLA_-_9ca804144bd5965e992ae3528bc3c6a3_(page_1).jpg",
+"file": "Constitution_of_the_United_States_-_DPLA_-_9ca804144bd5965e992ae3528bc3c6a3_(page_1).jpg",
+"v": 2
+},
 "history/5-0-1_6": {
 "src": "art/photos/history/5-0-1_6.webp",
 "credit": "DerHexer · CC BY-SA 4.0",
@@ -951,7 +1095,13 @@
 "file": "Митинг_на_Невском_проспекте_(1917).jpg",
 "v": 2
 },
-"history/5-1-1_3": null,
+"history/5-1-1_3": {
+"src": "art/photos/history/5-1-1_3.webp",
+"credit": "David Lloyd George, Woodrow Wilson and Georges Clemenceau · Public domain",
+"page": "https://commons.wikimedia.org/wiki/File:Treaty_of_Versailles,_English_version.jpg",
+"file": "Treaty_of_Versailles,_English_version.jpg",
+"v": 2
+},
 "history/5-1-1_6": {
 "src": "art/photos/history/5-1-1_6.webp",
 "credit": "User:Yanachka · Public domain",
@@ -1018,7 +1168,13 @@
 "v": 2
 },
 "astronomy/0-0-2_3": null,
-"astronomy/0-0-2_6": null,
+"astronomy/0-0-2_6": {
+"src": "art/photos/astronomy/0-0-2_6.webp",
+"credit": "George Grantham Bain Collection, Library of Congress Prints and Photog · Public domain",
+"page": "https://commons.wikimedia.org/wiki/File:Arthur_Stanley_Eddington.jpg",
+"file": "Arthur_Stanley_Eddington.jpg",
+"v": 2
+},
 "astronomy/0-0-3": null,
 "astronomy/0-0-3_3": null,
 "astronomy/0-0-3_7": null,
@@ -1031,8 +1187,20 @@
 "file": "Claudius_Ptolemaeus,_Almagestum,_1515.djvu",
 "v": 2
 },
-"astronomy/0-0-5": null,
-"astronomy/0-0-5_3": null,
+"astronomy/0-0-5": {
+"src": "art/photos/astronomy/0-0-5.webp",
+"credit": "Davide De Martin (http://www.skyfactory.org); Credit: Digitized Sky Su · Public domain",
+"page": "https://commons.wikimedia.org/wiki/File:Orion_Belt.jpg",
+"file": "Orion_Belt.jpg",
+"v": 2
+},
+"astronomy/0-0-5_3": {
+"src": "art/photos/astronomy/0-0-5_3.webp",
+"credit": "ArtMechanic · CC BY-SA 3.0",
+"page": "https://commons.wikimedia.org/wiki/File:Forststernwarte_Jena_50cm-Cassegrain_1.jpg",
+"file": "Forststernwarte_Jena_50cm-Cassegrain_1.jpg",
+"v": 2
+},
 "astronomy/0-0-5_6": {
 "src": "art/photos/astronomy/0-0-5_6.webp",
 "credit": "William R. Howell (New York) · Public domain",
@@ -1047,7 +1215,13 @@
 "file": "Melbourne_(AU),_Melbourne_City_Centre_--_2019_--_1530-4.jpg",
 "v": 2
 },
-"astronomy/0-0-6_3": null,
+"astronomy/0-0-6_3": {
+"src": "art/photos/astronomy/0-0-6_3.webp",
+"credit": "Ryan Zuber, Scientific Visualization Studio · Public domain",
+"page": "https://commons.wikimedia.org/wiki/File:Suomi_NPP_satellite.jpg",
+"file": "Suomi_NPP_satellite.jpg",
+"v": 2
+},
 "astronomy/0-0-6_6": {
 "src": "art/photos/astronomy/0-0-6_6.webp",
 "credit": "Kevin Heider @ LightBuckets · CC BY-SA 3.0",
@@ -1071,7 +1245,13 @@
 "file": "100inchHooker.jpg",
 "v": 2
 },
-"astronomy/0-1-1_3": null,
+"astronomy/0-1-1_3": {
+"src": "art/photos/astronomy/0-1-1_3.webp",
+"credit": "NRAO/AUI/NSF · CC BY 4.0",
+"page": "https://commons.wikimedia.org/wiki/File:Jansky-Pose.jpg",
+"file": "Jansky-Pose.jpg",
+"v": 2
+},
 "astronomy/0-1-1_6": {
 "src": "art/photos/astronomy/0-1-1_6.webp",
 "credit": "ESO/B. Tafreshi/TWAN (twanight.org) · CC BY 4.0",
@@ -1114,7 +1294,13 @@
 "v": 2
 },
 "astronomy/1-0-1_3": null,
-"astronomy/1-0-1_6": null,
+"astronomy/1-0-1_6": {
+"src": "art/photos/astronomy/1-0-1_6.webp",
+"credit": "Don Davis · Public domain",
+"page": "https://commons.wikimedia.org/wiki/File:Viking_Orbiter_releasing_the_lander.jpg",
+"file": "Viking_Orbiter_releasing_the_lander.jpg",
+"v": 2
+},
 "astronomy/1-0-2": {
 "src": "art/photos/astronomy/1-0-2.webp",
 "credit": "NASA/STSCI (S.T.A.R.S) · Public domain",
@@ -1122,7 +1308,13 @@
 "file": "Jupiter_OPAL_2024.png",
 "v": 2
 },
-"astronomy/1-0-2_3": null,
+"astronomy/1-0-2_3": {
+"src": "art/photos/astronomy/1-0-2_3.webp",
+"credit": "NASA / JPL-Caltech / SSI / color composite by Gordan Ugarkovic · Public domain",
+"page": "https://commons.wikimedia.org/wiki/File:Saturn_global_view_from_Cassini,_rings_open_Better_Colour.png",
+"file": "Saturn_global_view_from_Cassini,_rings_open_Better_Colour.png",
+"v": 2
+},
 "astronomy/1-0-2_6": {
 "src": "art/photos/astronomy/1-0-2_6.webp",
 "credit": "Don Davis · Public domain",
@@ -1137,7 +1329,13 @@
 "file": "FullMoon2010.jpg",
 "v": 2
 },
-"astronomy/1-0-3_3": null,
+"astronomy/1-0-3_3": {
+"src": "art/photos/astronomy/1-0-3_3.webp",
+"credit": "Thunkii · CC BY 4.0",
+"page": "https://commons.wikimedia.org/wiki/File:Asteroid_belt_positions-en.png",
+"file": "Asteroid_belt_positions-en.png",
+"v": 2
+},
 "astronomy/1-0-3_6": {
 "src": "art/photos/astronomy/1-0-3_6.webp",
 "credit": "DLR German Aerospace Center · CC BY 2.0",
@@ -1231,7 +1429,13 @@
 "v": 2
 },
 "astronomy/2-0-5_3": null,
-"astronomy/2-0-5_7": null,
+"astronomy/2-0-5_7": {
+"src": "art/photos/astronomy/2-0-5_7.webp",
+"credit": "D. Marrone/UofA · CC BY 4.0",
+"page": "https://commons.wikimedia.org/wiki/File:Event_Horizon_Telescope_Collaboration_(testing-general-relativity-with-the-event-horizon).jpg",
+"file": "Event_Horizon_Telescope_Collaboration_(testing-general-relativity-with-the-event-horizon).jpg",
+"v": 2
+},
 "astronomy/2-1-0": null,
 "astronomy/2-1-0_3": null,
 "astronomy/2-1-0_7": null,
@@ -1302,7 +1506,13 @@
 "astronomy/3-1-2_3": null,
 "astronomy/3-1-2_6": null,
 "astronomy/3-1-3": null,
-"astronomy/3-1-3_3": null,
+"astronomy/3-1-3_3": {
+"src": "art/photos/astronomy/3-1-3_3.webp",
+"credit": "Amber Stuver · CC BY-SA 4.0",
+"page": "https://commons.wikimedia.org/wiki/File:LLO_Control_Room.jpg",
+"file": "LLO_Control_Room.jpg",
+"v": 2
+},
 "astronomy/3-1-3_6": null,
 "astronomy/4-0-0": {
 "src": "art/photos/astronomy/4-0-0.webp",
@@ -1332,7 +1542,13 @@
 "astronomy/4-0-2_3": null,
 "astronomy/4-0-2_6": null,
 "astronomy/4-0-3": null,
-"astronomy/4-0-3_3": null,
+"astronomy/4-0-3_3": {
+"src": "art/photos/astronomy/4-0-3_3.webp",
+"credit": "NASA · Public domain",
+"page": "https://commons.wikimedia.org/wiki/File:Mars_helicopter_on_sol_46.png",
+"file": "Mars_helicopter_on_sol_46.png",
+"v": 2
+},
 "astronomy/4-0-3_6": null,
 "geography/0-0-0": null,
 "geography/0-0-0_3": {
@@ -1363,7 +1579,13 @@
 "file": "Water_being_released_from_the_gates_of_Koyana_Dam_in_Satara_district,_Maharashtra,_India.jpg",
 "v": 2
 },
-"geography/0-0-1_6": null,
+"geography/0-0-1_6": {
+"src": "art/photos/geography/0-0-1_6.webp",
+"credit": "David Rydevik (email: david.rydevikgmail.com), Stockholm, Sweden. · Public domain",
+"page": "https://commons.wikimedia.org/wiki/File:2004-tsunami.jpg",
+"file": "2004-tsunami.jpg",
+"v": 2
+},
 "geography/0-0-2": {
 "src": "art/photos/geography/0-0-2.webp",
 "credit": "Anil Öztas · CC BY-SA 4.0",
@@ -1393,7 +1615,13 @@
 "file": "RSDS_wiki.png",
 "v": 2
 },
-"geography/0-1-0_6": null,
+"geography/0-1-0_6": {
+"src": "art/photos/geography/0-1-0_6.webp",
+"credit": "Tyler Chow · CC BY-SA 4.0",
+"page": "https://commons.wikimedia.org/wiki/File:Thermal_Inversion_in_Urban_Environment.png",
+"file": "Thermal_Inversion_in_Urban_Environment.png",
+"v": 2
+},
 "geography/0-1-1": null,
 "geography/0-1-1_3": {
 "src": "art/photos/geography/0-1-1_3.webp",
@@ -1416,7 +1644,13 @@
 "file": "Dramatic_Views_of_Hurricane_Florence_from_the_International_Space_Station_From_9_12_(42828603210)_(cropped).jpg",
 "v": 2
 },
-"geography/0-1-2_3": null,
+"geography/0-1-2_3": {
+"src": "art/photos/geography/0-1-2_3.webp",
+"credit": "No machine-readable author provided. RMehra~commonswiki assumed (based · CC BY-SA 3.0",
+"page": "https://commons.wikimedia.org/wiki/File:Cherrapunji.jpg",
+"file": "Cherrapunji.jpg",
+"v": 2
+},
 "geography/0-1-2_6": {
 "src": "art/photos/geography/0-1-2_6.webp",
 "credit": "NOAA · Public domain",
@@ -1447,7 +1681,13 @@
 "file": "ISS-45_StoryOfWater,_Great_Barrier_Reef,_Australia.jpg",
 "v": 2
 },
-"geography/0-2-0_6": null,
+"geography/0-2-0_6": {
+"src": "art/photos/geography/0-2-0_6.webp",
+"credit": "Robert Simmon, NASA. Minor modifications by Robert A. Rohde also relea · Public domain",
+"page": "https://commons.wikimedia.org/wiki/File:Thermohaline_Circulation_2.png",
+"file": "Thermohaline_Circulation_2.png",
+"v": 2
+},
 "geography/0-2-1": null,
 "geography/0-2-1_3": {
 "src": "art/photos/geography/0-2-1_3.webp",
@@ -1490,8 +1730,20 @@
 "file": "Nwgbridge.JPG",
 "v": 2
 },
-"geography/1-1-0": null,
-"geography/1-1-0_3": null,
+"geography/1-1-0": {
+"src": "art/photos/geography/1-1-0.webp",
+"credit": "w:user:PlaneMad · CC BY-SA 3.0",
+"page": "https://commons.wikimedia.org/wiki/File:Monsoon_clouds_near_Nagercoil.jpg",
+"file": "Monsoon_clouds_near_Nagercoil.jpg",
+"v": 2
+},
+"geography/1-1-0_3": {
+"src": "art/photos/geography/1-1-0_3.webp",
+"credit": "No machine-readable author provided. NormanEinstein assumed (based on  · CC BY-SA 3.0",
+"page": "https://commons.wikimedia.org/wiki/File:Bay_of_Bengal_map.png",
+"file": "Bay_of_Bengal_map.png",
+"v": 2
+},
 "geography/1-1-0_6": {
 "src": "art/photos/geography/1-1-0_6.webp",
 "credit": "NASA · Public domain",
@@ -1501,7 +1753,13 @@
 },
 "geography/1-1-1": null,
 "geography/1-1-1_3": null,
-"geography/1-1-1_7": null,
+"geography/1-1-1_7": {
+"src": "art/photos/geography/1-1-1_7.webp",
+"credit": "Soumyajit Nandy · CC BY-SA 4.0",
+"page": "https://commons.wikimedia.org/wiki/File:Sundarban_Tiger.jpg",
+"file": "Sundarban_Tiger.jpg",
+"v": 2
+},
 "geography/1-1-2": null,
 "geography/1-1-2_3": {
 "src": "art/photos/geography/1-1-2_3.webp",
@@ -1728,17 +1986,53 @@
 "file": "Salivary_alpha-amylase_1SMD.png",
 "v": 2
 },
-"biology/0-0-3_3": null,
+"biology/0-0-3_3": {
+"src": "art/photos/biology/0-0-3_3.webp",
+"credit": "Ragesoss · CC BY-SA 3.0",
+"page": "https://commons.wikimedia.org/wiki/File:B_vitamin_supplement_tablets.jpg",
+"file": "B_vitamin_supplement_tablets.jpg",
+"v": 2
+},
 "biology/0-0-3_6": null,
-"biology/0-0-4": null,
-"biology/0-0-4_3": null,
+"biology/0-0-4": {
+"src": "art/photos/biology/0-0-4.webp",
+"credit": "Krzysztof P. Jasiutowicz · CC BY-SA 3.0",
+"page": "https://commons.wikimedia.org/wiki/File:Lisc_lipy.jpg",
+"file": "Lisc_lipy.jpg",
+"v": 2
+},
+"biology/0-0-4_3": {
+"src": "art/photos/biology/0-0-4_3.webp",
+"credit": "Unknown (Mondadori Publishers) · Public domain",
+"page": "https://commons.wikimedia.org/wiki/File:Melvin_Calvin_1960s.jpg",
+"file": "Melvin_Calvin_1960s.jpg",
+"v": 2
+},
 "biology/0-0-4_6": null,
-"biology/0-0-5": null,
-"biology/0-0-5_3": null,
+"biology/0-0-5": {
+"src": "art/photos/biology/0-0-5.webp",
+"credit": "Prabirrr · CC BY-SA 4.0",
+"page": "https://commons.wikimedia.org/wiki/File:Types_of_muscle.webp",
+"file": "Types_of_muscle.webp",
+"v": 2
+},
+"biology/0-0-5_3": {
+"src": "art/photos/biology/0-0-5_3.webp",
+"credit": "Unknown authorUnknown author · Public domain",
+"page": "https://commons.wikimedia.org/wiki/File:Hans_Adolf_Krebs.jpg",
+"file": "Hans_Adolf_Krebs.jpg",
+"v": 2
+},
 "biology/0-0-5_6": null,
 "biology/0-0-6": null,
 "biology/0-0-6_3": null,
-"biology/0-0-6_6": null,
+"biology/0-0-6_6": {
+"src": "art/photos/biology/0-0-6_6.webp",
+"credit": "crop of photo by Sam Silverman (File:Leonard A. Scheele and J.H. Tjio. · Public domain",
+"page": "https://commons.wikimedia.org/wiki/File:Joe_Hin_Tjio.jpg",
+"file": "Joe_Hin_Tjio.jpg",
+"v": 2
+},
 "biology/1-0-0": {
 "src": "art/photos/biology/1-0-0.webp",
 "credit": "Unknown authorUnknown author · Public domain",
@@ -1823,7 +2117,13 @@
 "file": "Marsupialia.jpg",
 "v": 2
 },
-"biology/2-0-2": null,
+"biology/2-0-2": {
+"src": "art/photos/biology/2-0-2.webp",
+"credit": "John Gould (14.Sep.1804 - 3.Feb.1881) · Public domain",
+"page": "https://commons.wikimedia.org/wiki/File:Darwin%27s_finches_by_Gould.jpg",
+"file": "Darwin's_finches_by_Gould.jpg",
+"v": 2
+},
 "biology/2-0-2_3": {
 "src": "art/photos/biology/2-0-2_3.webp",
 "credit": "Pacific Southwest Region 5 · Public domain",
@@ -1861,7 +2161,13 @@
 "biology/3-0-1_6": null,
 "biology/3-0-2": null,
 "biology/3-0-2_3": null,
-"biology/3-0-2_6": null,
+"biology/3-0-2_6": {
+"src": "art/photos/biology/3-0-2_6.webp",
+"credit": "derivative work: Noca2plus (talk) Christian_Bohr_u016.jpg: Photographe · CC BY-SA 3.0",
+"page": "https://commons.wikimedia.org/wiki/File:Christian_Bohr_u016a.jpg",
+"file": "Christian_Bohr_u016a.jpg",
+"v": 2
+},
 "biology/3-0-3": {
 "src": "art/photos/biology/3-0-3.webp",
 "credit": "Jensflorian · CC BY-SA 4.0",
@@ -1873,7 +2179,13 @@
 "biology/3-0-3_7": null,
 "biology/3-0-4": null,
 "biology/3-0-4_3": null,
-"biology/3-0-4_7": null,
+"biology/3-0-4_7": {
+"src": "art/photos/biology/3-0-4_7.webp",
+"credit": "Unknown authorUnknown author · Public domain",
+"page": "https://commons.wikimedia.org/wiki/File:Arnold_Adolph_Berthold.jpg",
+"file": "Arnold_Adolph_Berthold.jpg",
+"v": 2
+},
 "biology/3-0-5": {
 "src": "art/photos/biology/3-0-5.webp",
 "credit": "Photo Credit: James Gathany Content Providers(s): CDC · Public domain",
@@ -1919,7 +2231,13 @@
 "biology/4-0-2": null,
 "biology/4-0-2_3": null,
 "biology/4-0-2_7": null,
-"biology/4-0-3": null,
+"biology/4-0-3": {
+"src": "art/photos/biology/4-0-3.webp",
+"credit": "Richard Ling &lt;wikipedia@rling.com&gt; · CC BY-SA 3.0",
+"page": "https://commons.wikimedia.org/wiki/File:Blue_Linckia_Starfish.JPG",
+"file": "Blue_Linckia_Starfish.JPG",
+"v": 2
+},
 "biology/4-0-3_3": null,
 "biology/4-0-3_7": {
 "src": "art/photos/biology/4-0-3_7.webp",
@@ -1944,7 +2262,13 @@
 "file": "Robert_Owen_by_William_Henry_Brooke.jpg",
 "v": 2
 },
-"communism/0-0-0_3": null,
+"communism/0-0-0_3": {
+"src": "art/photos/communism/0-0-0_3.webp",
+"credit": "Jean Gigoux · CC BY-SA 4.0",
+"page": "https://commons.wikimedia.org/wiki/File:Portrait_painting_of_Charles_Fourier_by_Jean_Gigoux_%E2%80%94_1835_(3x4_cropped).jpg",
+"file": "Portrait_painting_of_Charles_Fourier_by_Jean_Gigoux_—_1835_(3x4_cropped).jpg",
+"v": 2
+},
 "communism/0-0-0_6": {
 "src": "art/photos/communism/0-0-0_6.webp",
 "credit": "Timothy K Hamilton Creativity+ Photography · CC BY 3.0",
@@ -2006,7 +2330,13 @@
 "file": "F._Taylor_1856-1915.jpg",
 "v": 2
 },
-"communism/1-0-2": null,
+"communism/1-0-2": {
+"src": "art/photos/communism/1-0-2.webp",
+"credit": "Zentralbibliothek Zürich · Public domain",
+"page": "https://commons.wikimedia.org/wiki/File:Zentralbibliothek_Z%C3%BCrich_Das_Kapital_Marx_1867.jpg",
+"file": "Zentralbibliothek_Zürich_Das_Kapital_Marx_1867.jpg",
+"v": 2
+},
 "communism/1-0-2_3": {
 "src": "art/photos/communism/1-0-2_3.webp",
 "credit": "Clem Rutter, Rochester, Kent. · CC BY-SA 3.0",
@@ -2015,12 +2345,36 @@
 "v": 2
 },
 "communism/1-0-2_6": null,
-"communism/1-0-3": null,
-"communism/1-0-3_3": null,
+"communism/1-0-3": {
+"src": "art/photos/communism/1-0-3.webp",
+"credit": "Unknown authorUnknown author · Public domain",
+"page": "https://commons.wikimedia.org/wiki/File:Marx_EighteenthBrumaire.JPG",
+"file": "Marx_EighteenthBrumaire.JPG",
+"v": 2
+},
+"communism/1-0-3_3": {
+"src": "art/photos/communism/1-0-3_3.webp",
+"credit": "Alexandre Cabanel · Public domain",
+"page": "https://commons.wikimedia.org/wiki/File:Alexandre_Cabanel_002.jpg",
+"file": "Alexandre_Cabanel_002.jpg",
+"v": 2
+},
 "communism/1-0-3_6": null,
-"communism/1-0-4": null,
+"communism/1-0-4": {
+"src": "art/photos/communism/1-0-4.webp",
+"credit": "Unknown · Public domain",
+"page": "https://commons.wikimedia.org/wiki/File:Barricade18March1871_(cropped).jpg",
+"file": "Barricade18March1871_(cropped).jpg",
+"v": 2
+},
 "communism/1-0-4_3": null,
-"communism/1-0-4_6": null,
+"communism/1-0-4_6": {
+"src": "art/photos/communism/1-0-4_6.webp",
+"credit": "Unknown authorUnknown author · Public domain",
+"page": "https://commons.wikimedia.org/wiki/File:Karl_Kautsky_High_Res.jpg",
+"file": "Karl_Kautsky_High_Res.jpg",
+"v": 2
+},
 "communism/1-0-5": {
 "src": "art/photos/communism/1-0-5.webp",
 "credit": "William Hall (1826–ca. 1898) (cropped and sepia tone removed) · Public domain",
@@ -2030,7 +2384,13 @@
 },
 "communism/1-0-5_3": null,
 "communism/1-0-5_6": null,
-"communism/1-1-0": null,
+"communism/1-1-0": {
+"src": "art/photos/communism/1-1-0.webp",
+"credit": "Unknown authorUnknown author · Public domain",
+"page": "https://commons.wikimedia.org/wiki/File:Congresso_Socialdem_1910.jpg",
+"file": "Congresso_Socialdem_1910.jpg",
+"v": 2
+},
 "communism/1-1-0_3": null,
 "communism/1-1-0_6": {
 "src": "art/photos/communism/1-1-0_6.webp",
@@ -2046,7 +2406,13 @@
 "file": "Rosa_Luxemburg_(cropped).jpg",
 "v": 2
 },
-"communism/1-1-1_3": null,
+"communism/1-1-1_3": {
+"src": "art/photos/communism/1-1-1_3.webp",
+"credit": "Wojciech Kossak · Public domain",
+"page": "https://commons.wikimedia.org/wiki/File:Bloody_Sunday_in_1905_by_Wojciech_Kossak.png",
+"file": "Bloody_Sunday_in_1905_by_Wojciech_Kossak.png",
+"v": 2
+},
 "communism/1-1-1_6": {
 "src": "art/photos/communism/1-1-1_6.webp",
 "credit": "New-York Tribune · Public domain",
@@ -2064,7 +2430,13 @@
 },
 "communism/1-1-2_6": null,
 "communism/1-1-3": null,
-"communism/1-1-3_3": null,
+"communism/1-1-3_3": {
+"src": "art/photos/communism/1-1-3_3.webp",
+"credit": "Jacques-Louis David · Public domain",
+"page": "https://commons.wikimedia.org/wiki/File:Jacques-Louis_David_-_The_Emperor_Napoleon_in_His_Study_at_the_Tuileries_-_Google_Art_Project.jpg",
+"file": "Jacques-Louis_David_-_The_Emperor_Napoleon_in_His_Study_at_the_Tuileries_-_Google_Art_Project.jpg",
+"v": 2
+},
 "communism/1-1-3_6": null,
 "communism/1-1-4": {
 "src": "art/photos/communism/1-1-4.webp",
@@ -2086,7 +2458,13 @@
 "communism/2-0-0_6": null,
 "communism/2-0-1": null,
 "communism/2-0-1_3": null,
-"communism/2-0-1_6": null,
+"communism/2-0-1_6": {
+"src": "art/photos/communism/2-0-1_6.webp",
+"credit": "Adalbert von Roessler · Public domain",
+"page": "https://commons.wikimedia.org/wiki/File:Kongokonferenz.jpg",
+"file": "Kongokonferenz.jpg",
+"v": 2
+},
 "communism/2-0-2": null,
 "communism/2-0-2_3": null,
 "communism/2-0-2_6": null,
@@ -2131,7 +2509,13 @@
 },
 "communism/2-1-4": null,
 "communism/2-1-4_3": null,
-"communism/2-1-4_6": null,
+"communism/2-1-4_6": {
+"src": "art/photos/communism/2-1-4_6.webp",
+"credit": "Nick Parfjonov · Public domain",
+"page": "https://commons.wikimedia.org/wiki/File:%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80_%D0%AF%D0%BA%D0%BE%D0%B2%D0%BB%D0%B5%D0%B2_(cropped).jpg",
+"file": "Александр_Яковлев_(cropped).jpg",
+"v": 2
+},
 "communism/2-1-5": null,
 "communism/2-1-5_3": {
 "src": "art/photos/communism/2-1-5_3.webp",
@@ -2169,7 +2553,13 @@
 "file": "Vinnycia16.jpg",
 "v": 2
 },
-"communism/2-2-3_3": null,
+"communism/2-2-3_3": {
+"src": "art/photos/communism/2-2-3_3.webp",
+"credit": "Unknown authorUnknown author · Public domain",
+"page": "https://commons.wikimedia.org/wiki/File:Ezhov_NI.jpg",
+"file": "Ezhov_NI.jpg",
+"v": 2
+},
 "communism/2-2-3_6": null,
 "communism/3-0-0": null,
 "communism/3-0-0_3": {
@@ -2310,7 +2700,13 @@
 "communism/4-1-2_3": null,
 "communism/4-1-2_6": null,
 "communism/4-1-3": null,
-"communism/4-1-3_3": null,
+"communism/4-1-3_3": {
+"src": "art/photos/communism/4-1-3_3.webp",
+"credit": "Michael Gruijters at Dutch Wikipedia · CC BY-SA 3.0",
+"page": "https://commons.wikimedia.org/wiki/File:Tuol_Sleng.jpg",
+"file": "Tuol_Sleng.jpg",
+"v": 2
+},
 "communism/4-1-3_6": {
 "src": "art/photos/communism/4-1-3_6.webp",
 "credit": "Harvard University Press · Public domain",
@@ -2440,7 +2836,13 @@
 },
 "world/0-0-0": null,
 "world/0-0-0_3": null,
-"world/0-0-0_6": null,
+"world/0-0-0_6": {
+"src": "art/photos/world/0-0-0_6.webp",
+"credit": "Johan Hagemeyer · Public domain",
+"page": "https://commons.wikimedia.org/wiki/File:Studio_portrait_photograph_of_Edwin_Powell_Hubble_(cropped).JPG",
+"file": "Studio_portrait_photograph_of_Edwin_Powell_Hubble_(cropped).JPG",
+"v": 2
+},
 "world/0-0-1": {
 "src": "art/photos/world/0-0-1.webp",
 "credit": "Shannon McPherron, Max Planck Institute for Evolutionary Anthropology. · CC BY-SA 2.0",
@@ -2469,7 +2871,13 @@
 "file": "Paintings_from_the_Chauvet_cave_(museum_replica).jpg",
 "v": 2
 },
-"world/0-0-2_3": null,
+"world/0-0-2_3": {
+"src": "art/photos/world/0-0-2_3.webp",
+"credit": "Museo de Altamira y D. Rodríguez · CC BY-SA 3.0",
+"page": "https://commons.wikimedia.org/wiki/File:9_Bisonte_Magdaleniense_pol%C3%ADcromo.jpg",
+"file": "9_Bisonte_Magdaleniense_polícromo.jpg",
+"v": 2
+},
 "world/0-0-2_6": {
 "src": "art/photos/world/0-0-2_6.webp",
 "credit": "Mariano · Public domain",
@@ -2573,9 +2981,21 @@
 "file": "Lac_de_l'Entonnoir_-_img_49473.jpg",
 "v": 2
 },
-"world/1-1-1": null,
+"world/1-1-1": {
+"src": "art/photos/world/1-1-1.webp",
+"credit": "Orient at de.wikipedia · CC BY-SA 2.0 de",
+"page": "https://commons.wikimedia.org/wiki/File:Byblos_Libanon_2003.JPG",
+"file": "Byblos_Libanon_2003.JPG",
+"v": 2
+},
 "world/1-1-1_3": null,
-"world/1-1-1_6": null,
+"world/1-1-1_6": {
+"src": "art/photos/world/1-1-1_6.webp",
+"credit": "ELEL09, montage · CC BY-SA 3.0",
+"page": "https://commons.wikimedia.org/wiki/File:Montage_ville_de_Carthage.png",
+"file": "Montage_ville_de_Carthage.png",
+"v": 2
+},
 "world/2-0-0": {
 "src": "art/photos/world/2-0-0.webp",
 "credit": "Laurens R. Krol · CC BY 4.0",
@@ -2590,7 +3010,13 @@
 "file": "کتیبه_داریوش_(_بیستون(.jpg",
 "v": 2
 },
-"world/2-0-0_6": null,
+"world/2-0-0_6": {
+"src": "art/photos/world/2-0-0_6.webp",
+"credit": "Prioryman · CC BY-SA 3.0",
+"page": "https://commons.wikimedia.org/wiki/File:Cyrus_Cylinder_front.jpg",
+"file": "Cyrus_Cylinder_front.jpg",
+"v": 2
+},
 "world/2-0-1": {
 "src": "art/photos/world/2-0-1.webp",
 "credit": "พระมหาเทวประภาส วชิรญาณเมธี (ผู้ถ่าย-ปล่อยสัญญาอนุญาตภาพให้นำไปใช้ได้เ · CC BY-SA 3.0",
@@ -2637,7 +3063,13 @@
 "file": "Foro_Romano_Musei_Capitolini_Roma.jpg",
 "v": 2
 },
-"world/2-1-0_3": null,
+"world/2-1-0_3": {
+"src": "art/photos/world/2-1-0_3.webp",
+"credit": "Ángel M. Felicísimo from Mérida, España · Public domain",
+"page": "https://commons.wikimedia.org/wiki/File:Retrato_de_Julio_C%C3%A9sar_(26724093101)_(cropped).jpg",
+"file": "Retrato_de_Julio_César_(26724093101)_(cropped).jpg",
+"v": 2
+},
 "world/2-1-0_6": {
 "src": "art/photos/world/2-1-0_6.webp",
 "credit": "Vincenzo Camuccini · Public domain",
@@ -2661,7 +3093,13 @@
 "file": "Colosseo_2020.jpg",
 "v": 2
 },
-"world/2-1-2_3": null,
+"world/2-1-2_3": {
+"src": "art/photos/world/2-1-2_3.webp",
+"credit": "Joseph-Noël Sylvestre · Public domain",
+"page": "https://commons.wikimedia.org/wiki/File:Visigoths_sack_Rome.jpg",
+"file": "Visigoths_sack_Rome.jpg",
+"v": 2
+},
 "world/2-1-2_6": {
 "src": "art/photos/world/2-1-2_6.webp",
 "credit": "Unknown · Public domain",
@@ -2858,9 +3296,21 @@
 },
 "world/3-2-1_3": null,
 "world/3-2-1_6": null,
-"world/3-2-2": null,
+"world/3-2-2": {
+"src": "art/photos/world/3-2-2.webp",
+"credit": "Phil Uhl · CC BY-SA 3.0",
+"page": "https://commons.wikimedia.org/wiki/File:Hokule%27a.jpg",
+"file": "Hokule'a.jpg",
+"v": 2
+},
 "world/3-2-2_3": null,
-"world/3-2-2_6": null,
+"world/3-2-2_6": {
+"src": "art/photos/world/3-2-2_6.webp",
+"credit": "Bahnfrend · CC BY-SA 4.0",
+"page": "https://commons.wikimedia.org/wiki/File:Kon-Tiki,_Kon-Tiki_Museum,_2019_(02).jpg",
+"file": "Kon-Tiki,_Kon-Tiki_Museum,_2019_(02).jpg",
+"v": 2
+},
 "world/3-2-3": {
 "src": "art/photos/world/3-2-3.webp",
 "credit": "Andrew Moore from Johannesburg, South Africa · CC BY-SA 2.0",
@@ -2869,7 +3319,13 @@
 "v": 2
 },
 "world/3-2-3_3": null,
-"world/3-2-3_7": null,
+"world/3-2-3_7": {
+"src": "art/photos/world/3-2-3_7.webp",
+"credit": "Musée minéralogique et minier de Thetford Mines 2014 · CC BY-SA 4.0",
+"page": "https://commons.wikimedia.org/wiki/File:Mine_Broughton._Vue_g%C3%A9n%C3%A9rale.jpg",
+"file": "Mine_Broughton._Vue_générale.jpg",
+"v": 2
+},
 "world/3-2-4": {
 "src": "art/photos/world/3-2-4.webp",
 "credit": "Unknown · CC BY-SA 3.0",
@@ -2884,7 +3340,13 @@
 "file": "Lisboa_-_Portugal_(52597836992).jpg",
 "v": 2
 },
-"world/3-2-4_7": null,
+"world/3-2-4_7": {
+"src": "art/photos/world/3-2-4_7.webp",
+"credit": "Unknown authorUnknown author · Public domain",
+"page": "https://commons.wikimedia.org/wiki/File:Slave_Auction_Ad.jpg",
+"file": "Slave_Auction_Ad.jpg",
+"v": 2
+},
 "world/3-3-0": null,
 "world/3-3-0_4": {
 "src": "art/photos/world/3-3-0_4.webp",
@@ -3066,7 +3528,13 @@
 "file": "Encyclopedie_de_D'Alembert_et_Diderot_-_Premiere_Page_-_ENC_1-NA5.jpg",
 "v": 2
 },
-"world/5-0-0_3": null,
+"world/5-0-0_3": {
+"src": "art/photos/world/5-0-0_3.webp",
+"credit": "Nicolas de Largillière · CC0",
+"page": "https://commons.wikimedia.org/wiki/File:Nicolas_de_Largilli%C3%A8re_-_Portrait_de_Voltaire_(1694-1778)_en_1718_-_P208_-_mus%C3%A9e_Carnavalet_-_5_(cropped).jpg",
+"file": "Nicolas_de_Largillière_-_Portrait_de_Voltaire_(1694-1778)_en_1718_-_P208_-_musée_Carnavalet_-_5_(cropped).jpg",
+"v": 2
+},
 "world/5-0-0_6": null,
 "world/5-0-1": {
 "src": "art/photos/world/5-0-1.webp",
@@ -3145,7 +3613,13 @@
 "file": "Opening_Liverpool_and_Manchester_Railway.jpg",
 "v": 2
 },
-"world/5-1-0_5": null,
+"world/5-1-0_5": {
+"src": "art/photos/world/5-1-0_5.webp",
+"credit": "Unknown. 195 years since publication, copyright extinguished · Public domain",
+"page": "https://commons.wikimedia.org/wiki/File:Luddite.jpg",
+"file": "Luddite.jpg",
+"v": 2
+},
 "world/5-1-1": null,
 "world/5-1-1_2": {
 "src": "art/photos/world/5-1-1_2.webp",
@@ -3168,7 +3642,13 @@
 "file": "Otto_von_Bismarck_1885_(cropped).jpg",
 "v": 2
 },
-"world/5-1-2_2": null,
+"world/5-1-2_2": {
+"src": "art/photos/world/5-1-2_2.webp",
+"credit": "Adalbert von Roessler · Public domain",
+"page": "https://commons.wikimedia.org/wiki/File:Kongokonferenz.jpg",
+"file": "Kongokonferenz.jpg",
+"v": 2
+},
 "world/5-1-2_5": null,
 "world/5-1-3": {
 "src": "art/photos/world/5-1-3.webp",
@@ -3328,7 +3808,13 @@
 "v": 2
 },
 "world/6-1-0_2": null,
-"world/6-1-0_5": null,
+"world/6-1-0_5": {
+"src": "art/photos/world/6-1-0_5.webp",
+"credit": "Photo by Corporal Peter McDonald, USMC · Public domain",
+"page": "https://commons.wikimedia.org/wiki/File:Chosin.jpg",
+"file": "Chosin.jpg",
+"v": 2
+},
 "world/6-1-1": null,
 "world/6-1-1_2": null,
 "world/6-1-1_5": {
@@ -3411,7 +3897,13 @@
 "file": "U.S._Army_UH-1H_Hueys_insert_ARVN_troops_at_Khâm_Đức,_Vietnam,_12_July_1970_(79431435).jpg",
 "v": 2
 },
-"world/6-2-1_4": null,
+"world/6-2-1_4": {
+"src": "art/photos/world/6-2-1_4.webp",
+"credit": "Sanjay Acharya · CC BY-SA 4.0",
+"page": "https://commons.wikimedia.org/wiki/File:Vietnam_Peace_Treaty_1973.jpg",
+"file": "Vietnam_Peace_Treaty_1973.jpg",
+"v": 2
+},
 "world/6-2-1_8": {
 "src": "art/photos/world/6-2-1_8.webp",
 "credit": "File:US-Huey-helicopter-spraying-Agent-Orange-in-Vietnam.jpg: US Army  · Public domain",
@@ -3424,7 +3916,13 @@
 "world/6-2-2_8": null,
 "world/6-2-3": null,
 "world/6-2-3_4": null,
-"world/6-2-3_8": null,
+"world/6-2-3_8": {
+"src": "art/photos/world/6-2-3_8.webp",
+"credit": "Sam Nzima · Public domain",
+"page": "https://commons.wikimedia.org/wiki/File:Mbuyisa_Makhubu_carries_Hector_Pieterson_at_Soweto_Uprising.jpg",
+"file": "Mbuyisa_Makhubu_carries_Hector_Pieterson_at_Soweto_Uprising.jpg",
+"v": 2
+},
 "world/6-2-4": null,
 "world/6-2-4_4": {
 "src": "art/photos/world/6-2-4_4.webp",
@@ -3541,7 +4039,13 @@
 "v": 2
 },
 "world/8-1-0_4": null,
-"world/8-1-0_8": null,
+"world/8-1-0_8": {
+"src": "art/photos/world/8-1-0_8.webp",
+"credit": "Daniel Mayer · CC BY-SA 4.0",
+"page": "https://commons.wikimedia.org/wiki/File:Alexandria_-_Pompey%27s_Pillar_-_view_of_ruins.JPG",
+"file": "Alexandria_-_Pompey's_Pillar_-_view_of_ruins.JPG",
+"v": 2
+},
 "world/8-1-1": {
 "src": "art/photos/world/8-1-1.webp",
 "credit": "慕尼黑啤酒 · CC BY-SA 3.0",
@@ -3556,7 +4060,13 @@
 "file": "Aurel_Stein_1909.jpg",
 "v": 2
 },
-"world/8-1-1_8": null,
+"world/8-1-1_8": {
+"src": "art/photos/world/8-1-1_8.webp",
+"credit": "Yoshi Canopus · CC BY-SA 3.0",
+"page": "https://commons.wikimedia.org/wiki/File:Kumarajiva_at_Kizil_Caves,_Kuqa_(cropped).jpg",
+"file": "Kumarajiva_at_Kizil_Caves,_Kuqa_(cropped).jpg",
+"v": 2
+},
 "physics/0-0-0": {
 "src": "art/photos/physics/0-0-0.webp",
 "credit": "NASA/JPL/Corby Waste · Public domain",
@@ -3687,15 +4197,33 @@
 "file": "Port_and_lighthouse_overnight_storm_with_lightning_in_Port-la-Nouvelle.jpg",
 "v": 2
 },
-"physics/2-0-0_3": null,
+"physics/2-0-0_3": {
+"src": "art/photos/physics/2-0-0_3.webp",
+"credit": "Louis Hierle · Public domain",
+"page": "https://commons.wikimedia.org/wiki/File:Charles_de_Coulomb.png",
+"file": "Charles_de_Coulomb.png",
+"v": 2
+},
 "physics/2-0-0_6": null,
-"physics/2-0-1": null,
+"physics/2-0-1": {
+"src": "art/photos/physics/2-0-1.webp",
+"credit": "Eric Schrader from San Francisco, CA, United States · CC BY-SA 2.0",
+"page": "https://commons.wikimedia.org/wiki/File:Capacitors_(7189597135).jpg",
+"file": "Capacitors_(7189597135).jpg",
+"v": 2
+},
 "physics/2-0-1_3": null,
 "physics/2-0-1_6": null,
 "physics/2-0-2": null,
 "physics/2-0-2_3": null,
 "physics/2-0-2_6": null,
-"physics/2-0-3": null,
+"physics/2-0-3": {
+"src": "art/photos/physics/2-0-3.webp",
+"credit": "Fred Anzley Annet · Public domain",
+"page": "https://commons.wikimedia.org/wiki/File:Lodestone_attracting_nails.png",
+"file": "Lodestone_attracting_nails.png",
+"v": 2
+},
 "physics/2-0-3_3": null,
 "physics/2-0-3_6": null,
 "physics/2-0-4": {
@@ -3725,7 +4253,13 @@
 },
 "physics/3-0-0_3": null,
 "physics/3-0-0_6": null,
-"physics/3-0-1": null,
+"physics/3-0-1": {
+"src": "art/photos/physics/3-0-1.webp",
+"credit": "Henry Perronet Briggs · CC BY-SA 4.0",
+"page": "https://commons.wikimedia.org/wiki/File:Thomas_Young_by_Briggs_cropped.jpg",
+"file": "Thomas_Young_by_Briggs_cropped.jpg",
+"v": 2
+},
 "physics/3-0-1_3": null,
 "physics/3-0-1_6": null,
 "physics/4-0-0": {
@@ -3744,7 +4278,13 @@
 "file": "Black_hole_-_Messier_87_crop_max_res.jpg",
 "v": 2
 },
-"physics/4-0-1_3": null,
+"physics/4-0-1_3": {
+"src": "art/photos/physics/4-0-1_3.webp",
+"credit": "George Grantham Bain Collection, Library of Congress Prints and Photog · Public domain",
+"page": "https://commons.wikimedia.org/wiki/File:Arthur_Stanley_Eddington.jpg",
+"file": "Arthur_Stanley_Eddington.jpg",
+"v": 2
+},
 "physics/4-0-1_6": null,
 "physics/4-0-2": {
 "src": "art/photos/physics/4-0-2.webp",
@@ -3753,7 +4293,13 @@
 "file": "Max_Planck_by_Hugo_Erfurth_1938cr_-_restoration1.jpg",
 "v": 2
 },
-"physics/4-0-2_3": null,
+"physics/4-0-2_3": {
+"src": "art/photos/physics/4-0-2_3.webp",
+"credit": "The American Institute of Physics credits the photo [1] to AB Lagreliu · Public domain",
+"page": "https://commons.wikimedia.org/wiki/File:Niels_Bohr.jpg",
+"file": "Niels_Bohr.jpg",
+"v": 2
+},
 "physics/4-0-2_6": {
 "src": "art/photos/physics/4-0-2_6.webp",
 "credit": "The original uploader was Dnn87 at English Wikipedia. · CC BY-SA 3.0",
@@ -3891,8 +4437,20 @@
 "v": 2
 },
 "quantum/3-0-0": null,
-"quantum/3-0-0_3": null,
-"quantum/3-0-0_7": null,
+"quantum/3-0-0_3": {
+"src": "art/photos/quantum/3-0-0_3.webp",
+"credit": "Nobel Foundation · Public domain",
+"page": "https://commons.wikimedia.org/wiki/File:Paul_Dirac,_1933.jpg",
+"file": "Paul_Dirac,_1933.jpg",
+"v": 2
+},
+"quantum/3-0-0_7": {
+"src": "art/photos/quantum/3-0-0_7.webp",
+"credit": "Carl D. Anderson (1905–1991) · Public domain",
+"page": "https://commons.wikimedia.org/wiki/File:PositronDiscovery.png",
+"file": "PositronDiscovery.png",
+"v": 2
+},
 "quantum/3-0-1": {
 "src": "art/photos/quantum/3-0-1.webp",
 "credit": "ESO/A. Ghizzi Panizza (www.albertoghizzipanizza.com) · CC BY 4.0",
@@ -3912,11 +4470,23 @@
 },
 "quantum/3-0-2_6": null,
 "quantum/3-0-3": null,
-"quantum/3-0-3_3": null,
+"quantum/3-0-3_3": {
+"src": "art/photos/quantum/3-0-3_3.webp",
+"credit": "Duncan.Hull · CC BY-SA 4.0",
+"page": "https://commons.wikimedia.org/wiki/File:Professor_Artur_Ekert_FRS_(cropped).jpg",
+"file": "Professor_Artur_Ekert_FRS_(cropped).jpg",
+"v": 2
+},
 "quantum/3-0-3_6": null,
 "quantum/3-0-4": null,
 "quantum/3-0-4_3": null,
-"quantum/3-0-4_6": null,
+"quantum/3-0-4_6": {
+"src": "art/photos/quantum/3-0-4_6.webp",
+"credit": "D. Marrone/UofA · CC BY 4.0",
+"page": "https://commons.wikimedia.org/wiki/File:Event_Horizon_Telescope_Collaboration_(testing-general-relativity-with-the-event-horizon).jpg",
+"file": "Event_Horizon_Telescope_Collaboration_(testing-general-relativity-with-the-event-horizon).jpg",
+"v": 2
+},
 "psir/0-0-0": {
 "src": "art/photos/psir/0-0-0.webp",
 "credit": "Marie-Lan Nguyen · Public domain",
@@ -3925,7 +4495,13 @@
 "v": 2
 },
 "psir/0-0-0_3": null,
-"psir/0-0-0_7": null,
+"psir/0-0-0_7": {
+"src": "art/photos/psir/0-0-0_7.webp",
+"credit": "Rob C. Croes (ANEFO) · CC0",
+"page": "https://commons.wikimedia.org/wiki/File:IsaiahBerlin1983.jpg",
+"file": "IsaiahBerlin1983.jpg",
+"v": 2
+},
 "psir/0-0-1": {
 "src": "art/photos/psir/0-0-1.webp",
 "credit": "After Lysippos · Public domain",
@@ -3958,7 +4534,13 @@
 "file": "T.H._Green.png",
 "v": 2
 },
-"psir/0-1-0_6": null,
+"psir/0-1-0_6": {
+"src": "art/photos/psir/0-1-0_6.webp",
+"credit": "Libertarian Review · Public domain",
+"page": "https://commons.wikimedia.org/wiki/File:Robert_Nozick_1977_Libertarian_Review_cover_(4x5_cropped).jpg",
+"file": "Robert_Nozick_1977_Libertarian_Review_cover_(4x5_cropped).jpg",
+"v": 2
+},
 "psir/0-1-1": {
 "src": "art/photos/psir/0-1-1.webp",
 "credit": "John Jabez Edwin Mayall · Public domain",
@@ -3977,12 +4559,36 @@
 },
 "psir/0-1-2_3": null,
 "psir/0-1-2_6": null,
-"psir/0-1-3": null,
+"psir/0-1-3": {
+"src": "art/photos/psir/0-1-3.webp",
+"credit": "John George Bartholomew · Public domain",
+"page": "https://commons.wikimedia.org/wiki/File:Brit_IndianEmpireReligions3.jpg",
+"file": "Brit_IndianEmpireReligions3.jpg",
+"v": 2
+},
 "psir/0-1-3_3": null,
 "psir/0-1-3_6": null,
-"psir/0-1-4": null,
-"psir/0-1-4_3": null,
-"psir/0-1-4_6": null,
+"psir/0-1-4": {
+"src": "art/photos/psir/0-1-4.webp",
+"credit": "John Opie · Public domain",
+"page": "https://commons.wikimedia.org/wiki/File:Mary_Wollstonecraft_Portrait.jpg",
+"file": "Mary_Wollstonecraft_Portrait.jpg",
+"v": 2
+},
+"psir/0-1-4_3": {
+"src": "art/photos/psir/0-1-4_3.webp",
+"credit": "Marcelo Camargo/Agência Brasil · CC BY 3.0 br",
+"page": "https://commons.wikimedia.org/wiki/File:Carole_Pateman_in_Brazil_2015_02.jpg",
+"file": "Carole_Pateman_in_Brazil_2015_02.jpg",
+"v": 2
+},
+"psir/0-1-4_6": {
+"src": "art/photos/psir/0-1-4_6.webp",
+"credit": "Unknown authorUnknown author · CC0",
+"page": "https://commons.wikimedia.org/wiki/File:Chandra_Talpade_Mohanty_(2011).jpg",
+"file": "Chandra_Talpade_Mohanty_(2011).jpg",
+"v": 2
+},
 "psir/0-2-0": {
 "src": "art/photos/psir/0-2-0.webp",
 "credit": "Published by the Belknap Press of Harvard University Press. Photograph · Public domain",
@@ -3999,7 +4605,13 @@
 "file": "Michael_Sandel_Frontiers_of_Thought_2023_(3x4cropped).jpg",
 "v": 2
 },
-"psir/0-2-1_3": null,
+"psir/0-2-1_3": {
+"src": "art/photos/psir/0-2-1_3.webp",
+"credit": "Sean O'Connor · CC BY 2.0",
+"page": "https://commons.wikimedia.org/wiki/File:Alasdair_MacIntyre.jpg",
+"file": "Alasdair_MacIntyre.jpg",
+"v": 2
+},
 "psir/0-2-1_7": null,
 "psir/0-2-2": {
 "src": "art/photos/psir/0-2-2.webp",
@@ -4054,7 +4666,13 @@
 "psir/0-5-1_6": null,
 "psir/0-5-2": null,
 "psir/0-5-2_3": null,
-"psir/0-5-2_7": null,
+"psir/0-5-2_7": {
+"src": "art/photos/psir/0-5-2_7.webp",
+"credit": "Daniel Latorre · CC BY 2.0",
+"page": "https://commons.wikimedia.org/wiki/File:Particapatory_budgeting.jpg",
+"file": "Particapatory_budgeting.jpg",
+"v": 2
+},
 "psir/0-5-3": {
 "src": "art/photos/psir/0-5-3.webp",
 "credit": "photographer: Wolfram Huke at en.wikipedia , http://wolframhuke.de · CC BY-SA 3.0",
@@ -4081,7 +4699,13 @@
 "v": 2
 },
 "psir/0-6-1_3": null,
-"psir/0-6-1_6": null,
+"psir/0-6-1_6": {
+"src": "art/photos/psir/0-6-1_6.webp",
+"credit": "John Mathew Smith &amp; www.celebrity-photos.com · CC BY-SA 4.0",
+"page": "https://commons.wikimedia.org/wiki/File:Francis_Fukuyama_2026_Sept.jpg",
+"file": "Francis_Fukuyama_2026_Sept.jpg",
+"v": 2
+},
 "psir/0-6-2": null,
 "psir/0-6-2_3": null,
 "psir/0-6-2_6": null,
@@ -4146,7 +4770,13 @@
 "psir/0-8-1_3": null,
 "psir/0-8-1_7": null,
 "psir/0-8-10": null,
-"psir/0-8-10_3": null,
+"psir/0-8-10_3": {
+"src": "art/photos/psir/0-8-10_3.webp",
+"credit": "UnknownUnknown · Public domain",
+"page": "https://commons.wikimedia.org/wiki/File:1893parliament.jpg",
+"file": "1893parliament.jpg",
+"v": 2
+},
 "psir/0-8-10_6": null,
 "psir/0-8-11": {
 "src": "art/photos/psir/0-8-11.webp",
@@ -4236,7 +4866,13 @@
 "file": "Sir_Joshua_Reynolds_-_Edmund_Burke,_1729_-_1797._Statesman,_orator_and_author_-_PG_2362_-_National_Galleries_of_Scotland_(cropped).jpg",
 "v": 2
 },
-"psir/0-9-12_3": null,
+"psir/0-9-12_3": {
+"src": "art/photos/psir/0-9-12_3.webp",
+"credit": "Johan Herman Isings · Public domain",
+"page": "https://commons.wikimedia.org/wiki/File:William_of_Orange_III_and_his_Dutch_army_land_in_Brixham,_1688.jpg",
+"file": "William_of_Orange_III_and_his_Dutch_army_land_in_Brixham,_1688.jpg",
+"v": 2
+},
 "psir/0-9-12_6": null,
 "psir/0-9-13": null,
 "psir/0-9-13_3": null,
@@ -4284,7 +4920,13 @@
 "file": "John_Stuart_Mill_by_London_Stereoscopic_Company,_c1870.jpg",
 "v": 2
 },
-"psir/0-9-5_4": null,
+"psir/0-9-5_4": {
+"src": "art/photos/psir/0-9-5_4.webp",
+"credit": "Théodore Chassériau · Public domain",
+"page": "https://commons.wikimedia.org/wiki/File:Portrait_of_Alexis_de_Tocqueville.jpg",
+"file": "Portrait_of_Alexis_de_Tocqueville.jpg",
+"v": 2
+},
 "psir/0-9-5_8": null,
 "psir/0-9-6": {
 "src": "art/photos/psir/0-9-6.webp",
@@ -4314,7 +4956,13 @@
 "psir/0-9-8_4": null,
 "psir/0-9-8_8": null,
 "psir/0-9-9": null,
-"psir/0-9-9_3": null,
+"psir/0-9-9_3": {
+"src": "art/photos/psir/0-9-9_3.webp",
+"credit": "Maurice Quentin de La Tour · Public domain",
+"page": "https://commons.wikimedia.org/wiki/File:Jean-Jacques_Rousseau_(painted_portrait).jpg",
+"file": "Jean-Jacques_Rousseau_(painted_portrait).jpg",
+"v": 2
+},
 "psir/0-9-9_6": null,
 "psir/1-0-0": null,
 "psir/1-0-0_4": null,
@@ -4416,7 +5064,13 @@
 "psir/1-5-0_3": null,
 "psir/1-5-0_7": null,
 "psir/1-5-1": null,
-"psir/1-5-1_3": null,
+"psir/1-5-1_3": {
+"src": "art/photos/psir/1-5-1_3.webp",
+"credit": "Aksi great · CC BY 2.5",
+"page": "https://commons.wikimedia.org/wiki/File:Ahmedabad_riots1.jpg",
+"file": "Ahmedabad_riots1.jpg",
+"v": 2
+},
 "psir/1-5-1_6": null,
 "psir/1-6-0": null,
 "psir/1-6-0_3": null,
@@ -4444,7 +5098,13 @@
 "psir/1-7-0_6": null,
 "psir/1-7-1": null,
 "psir/1-7-1_3": null,
-"psir/1-7-1_6": null,
+"psir/1-7-1_6": {
+"src": "art/photos/psir/1-7-1_6.webp",
+"credit": "Augustus Binu/ facebook · CC BY-SA 3.0",
+"page": "https://commons.wikimedia.org/wiki/File:Dr._Vandana_Shiva_DS.jpg",
+"file": "Dr._Vandana_Shiva_DS.jpg",
+"v": 2
+},
 "psir/1-7-2": null,
 "psir/1-7-2_3": null,
 "psir/1-7-2_6": {
@@ -4507,7 +5167,13 @@
 "psir/2-0-0_6": null,
 "psir/2-0-1": null,
 "psir/2-0-1_3": null,
-"psir/2-0-1_6": null,
+"psir/2-0-1_6": {
+"src": "art/photos/psir/2-0-1_6.webp",
+"credit": "Presidencia de la República Mexicana · CC BY 2.0",
+"page": "https://commons.wikimedia.org/wiki/File:GiovanniSartori_OrderAztecEagle2_(cropped).jpg",
+"file": "GiovanniSartori_OrderAztecEagle2_(cropped).jpg",
+"v": 2
+},
 "psir/2-1-0": null,
 "psir/2-1-0_4": null,
 "psir/2-1-0_8": null,
@@ -4524,7 +5190,13 @@
 "file": "W87_MIRV.jpg",
 "v": 2
 },
-"psir/2-10-2_3": null,
+"psir/2-10-2_3": {
+"src": "art/photos/psir/2-10-2_3.webp",
+"credit": "Nederlandse Leeuw, Nicolas Eynaud · CC BY-SA 3.0",
+"page": "https://commons.wikimedia.org/wiki/File:War_in_Afghanistan_(1992%E2%80%932001).png",
+"file": "War_in_Afghanistan_(1992–2001).png",
+"v": 2
+},
 "psir/2-10-2_7": {
 "src": "art/photos/psir/2-10-2_7.webp",
 "credit": "United States Department of State · Public domain",
@@ -4550,7 +5222,13 @@
 },
 "psir/2-4-0_4": null,
 "psir/2-4-0_8": null,
-"psir/2-4-1": null,
+"psir/2-4-1": {
+"src": "art/photos/psir/2-4-1.webp",
+"credit": "Associated Press · Public domain",
+"page": "https://commons.wikimedia.org/wiki/File:Hans_Morgenthau_in_1965.jpg",
+"file": "Hans_Morgenthau_in_1965.jpg",
+"v": 2
+},
 "psir/2-4-1_3": null,
 "psir/2-4-1_6": null,
 "psir/2-4-2": {
@@ -4595,7 +5273,13 @@
 },
 "psir/2-5-0_3": null,
 "psir/2-5-0_7": null,
-"psir/2-5-1": null,
+"psir/2-5-1": {
+"src": "art/photos/psir/2-5-1.webp",
+"credit": "AlexTref871 · CC BY-SA 4.0",
+"page": "https://commons.wikimedia.org/wiki/File:Infobox_collage_for_Cold_War.png",
+"file": "Infobox_collage_for_Cold_War.png",
+"v": 2
+},
 "psir/2-5-1_3": null,
 "psir/2-5-1_6": {
 "src": "art/photos/psir/2-5-1_6.webp",
@@ -4605,7 +5289,13 @@
 "v": 2
 },
 "psir/2-5-2": null,
-"psir/2-5-2_3": null,
+"psir/2-5-2_3": {
+"src": "art/photos/psir/2-5-2_3.webp",
+"credit": "Photo by Corporal Peter McDonald, USMC · Public domain",
+"page": "https://commons.wikimedia.org/wiki/File:Chosin.jpg",
+"file": "Chosin.jpg",
+"v": 2
+},
 "psir/2-5-2_7": null,
 "psir/2-6-0": null,
 "psir/2-6-0_3": null,
@@ -4628,7 +5318,13 @@
 "psir/2-6-2": null,
 "psir/2-6-2_3": null,
 "psir/2-6-2_6": null,
-"psir/2-6-3": null,
+"psir/2-6-3": {
+"src": "art/photos/psir/2-6-3.webp",
+"credit": "user:shakko · CC BY-SA 3.0",
+"page": "https://commons.wikimedia.org/wiki/File:Thucydides_pushkin01.jpg",
+"file": "Thucydides_pushkin01.jpg",
+"v": 2
+},
 "psir/2-6-3_3": null,
 "psir/2-6-3_6": null,
 "psir/2-7-0": null,
@@ -4681,7 +5377,13 @@
 "file": "2008_Mumbai_terror_attacks_Taj_dome_burned_2.jpg",
 "v": 2
 },
-"psir/3-2-1_6": null,
+"psir/3-2-1_6": {
+"src": "art/photos/psir/3-2-1_6.webp",
+"credit": "US Atomic Energy Commission (now US Department of Energy) · Public domain",
+"page": "https://commons.wikimedia.org/wiki/File:Little_Boy_bomb.jpg",
+"file": "Little_Boy_bomb.jpg",
+"v": 2
+},
 "psir/3-2-2": null,
 "psir/3-2-2_3": null,
 "psir/3-2-2_6": null,
@@ -4818,7 +5520,13 @@
 },
 "psir/3-8-2_6": null,
 "psir/3-8-3": null,
-"psir/3-8-3_3": null,
+"psir/3-8-3_3": {
+"src": "art/photos/psir/3-8-3_3.webp",
+"credit": "Donnie28 · CC BY-SA 4.0",
+"page": "https://commons.wikimedia.org/wiki/File:New_Development_Bank_HQ_Shanghai.jpg",
+"file": "New_Development_Bank_HQ_Shanghai.jpg",
+"v": 2
+},
 "psir/3-8-3_6": null,
 "psir/3-8-4": null,
 "psir/3-8-4_3": null,
@@ -4845,7 +5553,13 @@
 "file": "Tarangire-Natpark800600.jpg",
 "v": 2
 },
-"environment/0-0-4_3": null,
+"environment/0-0-4_3": {
+"src": "art/photos/environment/0-0-4_3.webp",
+"credit": "Maulucioni, based on a previous work by Beck, H.E. et al. 2018 · CC BY-SA 4.0",
+"page": "https://commons.wikimedia.org/wiki/File:BW_climate.png",
+"file": "BW_climate.png",
+"v": 2
+},
 "environment/0-0-4_6": {
 "src": "art/photos/environment/0-0-4_6.webp",
 "credit": "Maulucioni, based on a previous work by Beck, H.E. et al. 2018 · CC BY-SA 4.0",
@@ -4919,7 +5633,13 @@
 "file": "Boathouse_(7063399547).jpg",
 "v": 2
 },
-"environment/1-0-14": null,
+"environment/1-0-14": {
+"src": "art/photos/environment/1-0-14.webp",
+"credit": "Mehaknoni · CC BY-SA 4.0",
+"page": "https://commons.wikimedia.org/wiki/File:Peaceful_time_away_from_the_wild_hustle._01.jpg",
+"file": "Peaceful_time_away_from_the_wild_hustle._01.jpg",
+"v": 2
+},
 "environment/1-0-14_3": null,
 "environment/1-0-14_6": null,
 "environment/1-0-4": {
@@ -4963,7 +5683,13 @@
 "v": 2
 },
 "environment/1-0-7_3": null,
-"environment/1-0-7_6": null,
+"environment/1-0-7_6": {
+"src": "art/photos/environment/1-0-7_6.webp",
+"credit": "Frédéric Rouge · Public domain",
+"page": "https://commons.wikimedia.org/wiki/File:Le_braconnier_par_Fr%C3%A9d%C3%A9ric_Rouge.jpg",
+"file": "Le_braconnier_par_Frédéric_Rouge.jpg",
+"v": 2
+},
 "environment/1-0-8": null,
 "environment/1-0-8_3": null,
 "environment/1-0-8_6": null,
@@ -5079,7 +5805,13 @@
 "v": 2
 },
 "environment/3-1-3": null,
-"environment/3-1-3_3": null,
+"environment/3-1-3_3": {
+"src": "art/photos/environment/3-1-3_3.webp",
+"credit": "Stephen Craven · CC BY-SA 2.0",
+"page": "https://commons.wikimedia.org/wiki/File:A_1-tonne_weight_(geograph_6511341).jpg",
+"file": "A_1-tonne_weight_(geograph_6511341).jpg",
+"v": 2
+},
 "environment/3-1-3_6": null,
 "environment/3-1-4": null,
 "environment/3-1-4_3": null,
@@ -5140,7 +5872,13 @@
 },
 "geography/0-1-5": null,
 "geography/0-1-5_3": null,
-"geography/0-1-5_6": null,
+"geography/0-1-5_6": {
+"src": "art/photos/geography/0-1-5_6.webp",
+"credit": "NASA, MODIS/ LANCE, HDF File Data processed by Supportstorm · Public domain",
+"page": "https://commons.wikimedia.org/wiki/File:Sandy_2012-10-25_0320Z_(cropped).png",
+"file": "Sandy_2012-10-25_0320Z_(cropped).png",
+"v": 2
+},
 "geography/0-1-6": {
 "src": "art/photos/geography/0-1-6.webp",
 "credit": "Content published by Rebecca Lindsey and reviewed by Tom Di Liberto. I · Public domain",
@@ -5186,7 +5924,13 @@
 "v": 2
 },
 "geography/0-3-2_6": null,
-"geography/1-0-2": null,
+"geography/1-0-2": {
+"src": "art/photos/geography/1-0-2.webp",
+"credit": "Ravi Baghel, Marcus Nüsser · CC BY 4.0",
+"page": "https://commons.wikimedia.org/wiki/File:Siachen_Glacier_Satellite_Image,_1.jpg",
+"file": "Siachen_Glacier_Satellite_Image,_1.jpg",
+"v": 2
+},
 "geography/1-0-2_3": null,
 "geography/1-0-2_6": {
 "src": "art/photos/geography/1-0-2_6.webp",
@@ -5332,7 +6076,13 @@
 "v": 2
 },
 "geography/1-3-1_3": null,
-"geography/1-3-1_6": null,
+"geography/1-3-1_6": {
+"src": "art/photos/geography/1-3-1_6.webp",
+"credit": "Tim Wu · CC BY-SA 4.0",
+"page": "https://commons.wikimedia.org/wiki/File:Canton_Tower_20220626.jpg",
+"file": "Canton_Tower_20220626.jpg",
+"v": 2
+},
 "geography/2-0-2": {
 "src": "art/photos/geography/2-0-2.webp",
 "credit": "NASA · Public domain",
@@ -5340,8 +6090,20 @@
 "file": "PersianGulf_vue_satellite_du_golfe_persique.jpg",
 "v": 2
 },
-"geography/2-0-2_3": null,
-"geography/2-0-2_6": null,
+"geography/2-0-2_3": {
+"src": "art/photos/geography/2-0-2_3.webp",
+"credit": "Unknown · CC BY-SA 3.0",
+"page": "https://commons.wikimedia.org/wiki/File:Oilfield_Installation.jpeg",
+"file": "Oilfield_Installation.jpeg",
+"v": 2
+},
+"geography/2-0-2_6": {
+"src": "art/photos/geography/2-0-2_6.webp",
+"credit": "Unknown · Public domain",
+"page": "https://commons.wikimedia.org/wiki/File:RareEarthOreUSGOV.jpg",
+"file": "RareEarthOreUSGOV.jpg",
+"v": 2
+},
 "geography/2-0-3": null,
 "geography/2-0-3_3": null,
 "geography/2-0-3_6": null,
@@ -5352,7 +6114,13 @@
 "file": "Skyscrapers_of_Shinjuku_2009_January.jpg",
 "v": 2
 },
-"geography/2-0-4_3": null,
+"geography/2-0-4_3": {
+"src": "art/photos/geography/2-0-4_3.webp",
+"credit": "NASA · Public domain",
+"page": "https://commons.wikimedia.org/wiki/File:Great_Lakes,_No_Clouds_(4968915002)_Brighter.jpg",
+"file": "Great_Lakes,_No_Clouds_(4968915002)_Brighter.jpg",
+"v": 2
+},
 "geography/2-0-4_6": {
 "src": "art/photos/geography/2-0-4_6.webp",
 "credit": "Elliott and Fry (London W., 55 Baker Street) · Public domain",
@@ -5537,7 +6305,13 @@
 "file": "Nikolaus_Kopernikus_MOT.jpg",
 "v": 2
 },
-"astronomy/0-0-3_4": null,
+"astronomy/0-0-3_4": {
+"src": "art/photos/astronomy/0-0-3_4.webp",
+"credit": "August Köhler [1] · Public domain",
+"page": "https://commons.wikimedia.org/wiki/File:JKepler.jpg",
+"file": "JKepler.jpg",
+"v": 2
+},
 "astronomy/0-0-3_5": {
 "src": "art/photos/astronomy/0-0-3_5.webp",
 "credit": "WhatADrag07 · CC BY-SA 4.0",
@@ -5551,7 +6325,13 @@
 "astronomy/0-0-4_0": null,
 "astronomy/0-0-4_1": null,
 "astronomy/0-0-4_2": null,
-"astronomy/0-0-4_4": null,
+"astronomy/0-0-4_4": {
+"src": "art/photos/astronomy/0-0-4_4.webp",
+"credit": "Sciencia58 · CC BY-SA 4.0",
+"page": "https://commons.wikimedia.org/wiki/File:Atmospheric_refraction_-_sunset_and_sunrise.png",
+"file": "Atmospheric_refraction_-_sunset_and_sunrise.png",
+"v": 2
+},
 "astronomy/0-0-4_5": null,
 "astronomy/0-0-4_7": null,
 "astronomy/0-0-4_8": null,
@@ -5563,7 +6343,13 @@
 "v": 2
 },
 "astronomy/0-0-5_1": null,
-"astronomy/0-0-5_2": null,
+"astronomy/0-0-5_2": {
+"src": "art/photos/astronomy/0-0-5_2.webp",
+"credit": "Unknown · Public domain",
+"page": "https://commons.wikimedia.org/wiki/File:Zeta_bootis_short_exposure.png",
+"file": "Zeta_bootis_short_exposure.png",
+"v": 2
+},
 "astronomy/0-0-5_4": null,
 "astronomy/0-0-5_5": {
 "src": "art/photos/astronomy/0-0-5_5.webp",
@@ -5613,7 +6399,13 @@
 "v": 2
 },
 "astronomy/0-1-0_1": null,
-"astronomy/0-1-0_2": null,
+"astronomy/0-1-0_2": {
+"src": "art/photos/astronomy/0-1-0_2.webp",
+"credit": "Luminforum · CC BY 4.0",
+"page": "https://commons.wikimedia.org/wiki/File:Black_body_radiator_at_CARLO_laboratory_in_Poland.jpg",
+"file": "Black_body_radiator_at_CARLO_laboratory_in_Poland.jpg",
+"v": 2
+},
 "astronomy/0-1-0_4": {
 "src": "art/photos/astronomy/0-1-0_4.webp",
 "credit": "New York World-Telegram and the Sun Newspaper · Public domain",
@@ -5647,12 +6439,30 @@
 "file": "JWST_spacecraft_model_3.png",
 "v": 2
 },
-"astronomy/0-1-1_7": null,
+"astronomy/0-1-1_7": {
+"src": "art/photos/astronomy/0-1-1_7.webp",
+"credit": "NASA/Scott Kelly · Public domain",
+"page": "https://commons.wikimedia.org/wiki/File:ISS-44_Milky_Way.jpg",
+"file": "ISS-44_Milky_Way.jpg",
+"v": 2
+},
 "astronomy/0-1-1_8": null,
-"astronomy/0-1-2_0": null,
+"astronomy/0-1-2_0": {
+"src": "art/photos/astronomy/0-1-2_0.webp",
+"credit": "user:Hajor · CC BY-SA 3.0",
+"page": "https://commons.wikimedia.org/wiki/File:USA.NM.VeryLargeArray.02.jpg",
+"file": "USA.NM.VeryLargeArray.02.jpg",
+"v": 2
+},
 "astronomy/0-1-2_1": null,
 "astronomy/0-1-2_2": null,
-"astronomy/0-1-2_4": null,
+"astronomy/0-1-2_4": {
+"src": "art/photos/astronomy/0-1-2_4.webp",
+"credit": "ALMA (ESO/NAOJ/NRAO) · CC BY 4.0",
+"page": "https://commons.wikimedia.org/wiki/File:HL_Tau_protoplanetary_disk.jpg",
+"file": "HL_Tau_protoplanetary_disk.jpg",
+"v": 2
+},
 "astronomy/0-1-2_5": null,
 "astronomy/0-1-2_7": {
 "src": "art/photos/astronomy/0-1-2_7.webp",
@@ -5661,11 +6471,35 @@
 "file": "CSIRO_ScienceImage_4350_CSIROs_Parkes_Radio_Telescope_with_moon_in_the_background.jpg",
 "v": 2
 },
-"astronomy/0-1-2_8": null,
+"astronomy/0-1-2_8": {
+"src": "art/photos/astronomy/0-1-2_8.webp",
+"credit": "Own work · CC BY 3.0",
+"page": "https://commons.wikimedia.org/wiki/File:Ooty_Radio_Telescope.jpg",
+"file": "Ooty_Radio_Telescope.jpg",
+"v": 2
+},
 "astronomy/0-1-3_0": null,
-"astronomy/0-1-3_1": null,
-"astronomy/0-1-3_2": null,
-"astronomy/0-1-3_4": null,
+"astronomy/0-1-3_1": {
+"src": "art/photos/astronomy/0-1-3_1.webp",
+"credit": "NASA/Wallops · Public domain",
+"page": "https://commons.wikimedia.org/wiki/File:Black_Brant.jpg",
+"file": "Black_Brant.jpg",
+"v": 2
+},
+"astronomy/0-1-3_2": {
+"src": "art/photos/astronomy/0-1-3_2.webp",
+"credit": "NASA/MSFC · Public domain",
+"page": "https://commons.wikimedia.org/wiki/File:Giacconi_lg1.jpg",
+"file": "Giacconi_lg1.jpg",
+"v": 2
+},
+"astronomy/0-1-3_4": {
+"src": "art/photos/astronomy/0-1-3_4.webp",
+"credit": "NASA, ESA · CC BY 4.0",
+"page": "https://commons.wikimedia.org/wiki/File:Moving_heart_of_the_Crab_Nebula.jpg",
+"file": "Moving_heart_of_the_Crab_Nebula.jpg",
+"v": 2
+},
 "astronomy/0-1-3_5": {
 "src": "art/photos/astronomy/0-1-3_5.webp",
 "credit": "NASA/CXC/NGST · Public domain",
@@ -5681,7 +6515,13 @@
 "v": 2
 },
 "astronomy/0-1-3_8": null,
-"astronomy/1-0-0_0": null,
+"astronomy/1-0-0_0": {
+"src": "art/photos/astronomy/1-0-0_0.webp",
+"credit": "Omarius257 · CC BY-SA 4.0",
+"page": "https://commons.wikimedia.org/wiki/File:Solar_System_True_Color_EN.png",
+"file": "Solar_System_True_Color_EN.png",
+"v": 2
+},
 "astronomy/1-0-0_1": null,
 "astronomy/1-0-0_2": null,
 "astronomy/1-0-0_4": {
@@ -5699,10 +6539,28 @@
 "file": "STS-134_EVA4_view_to_the_Russian_Orbital_Segment.jpg",
 "v": 2
 },
-"astronomy/1-0-0_8": null,
+"astronomy/1-0-0_8": {
+"src": "art/photos/astronomy/1-0-0_8.webp",
+"credit": "Marcus334 at English Wikipedia (Original text: Indian Institute of Ast · CC BY 2.5",
+"page": "https://commons.wikimedia.org/wiki/File:Kodaikanal_Solar_Observatory-a.jpg",
+"file": "Kodaikanal_Solar_Observatory-a.jpg",
+"v": 2
+},
 "astronomy/1-0-1_0": null,
-"astronomy/1-0-1_1": null,
-"astronomy/1-0-1_2": null,
+"astronomy/1-0-1_1": {
+"src": "art/photos/astronomy/1-0-1_1.webp",
+"credit": "CharlesC · CC BY-SA 3.0",
+"page": "https://commons.wikimedia.org/wiki/File:Earth_cutaway.png",
+"file": "Earth_cutaway.png",
+"v": 2
+},
+"astronomy/1-0-1_2": {
+"src": "art/photos/astronomy/1-0-1_2.webp",
+"credit": "NASA/Johns Hopkins University Applied Physics Laboratory/Arizona State · Public domain",
+"page": "https://commons.wikimedia.org/wiki/File:Mercury_in_true_color.jpg",
+"file": "Mercury_in_true_color.jpg",
+"v": 2
+},
 "astronomy/1-0-1_4": null,
 "astronomy/1-0-1_5": null,
 "astronomy/1-0-1_7": {
@@ -5720,7 +6578,13 @@
 "v": 2
 },
 "astronomy/1-0-2_0": null,
-"astronomy/1-0-2_1": null,
+"astronomy/1-0-2_1": {
+"src": "art/photos/astronomy/1-0-2_1.webp",
+"credit": "Ardenau4 · CC0",
+"page": "https://commons.wikimedia.org/wiki/File:Uranus_Voyager2_color_calibrated.png",
+"file": "Uranus_Voyager2_color_calibrated.png",
+"v": 2
+},
 "astronomy/1-0-2_2": null,
 "astronomy/1-0-2_4": null,
 "astronomy/1-0-2_5": null,
@@ -5732,7 +6596,13 @@
 "v": 2
 },
 "astronomy/1-0-2_8": null,
-"astronomy/1-0-3_0": null,
+"astronomy/1-0-3_0": {
+"src": "art/photos/astronomy/1-0-3_0.webp",
+"credit": "NASA/ESA, R. Soummer, Ann Feild (STScI) · Public domain",
+"page": "https://commons.wikimedia.org/wiki/File:NASA-14114-HubbleSpaceTelescope-DebrisDisks-20140424.jpg",
+"file": "NASA-14114-HubbleSpaceTelescope-DebrisDisks-20140424.jpg",
+"v": 2
+},
 "astronomy/1-0-3_1": {
 "src": "art/photos/astronomy/1-0-3_1.webp",
 "credit": "NASA/JPL-Caltech · Public domain",
@@ -5747,7 +6617,13 @@
 "file": "PIA17172_Saturn_eclipse_mosaic_bright_crop.jpg",
 "v": 2
 },
-"astronomy/1-0-3_4": null,
+"astronomy/1-0-3_4": {
+"src": "art/photos/astronomy/1-0-3_4.webp",
+"credit": "E. Kolmhofer, H. Raab; Johannes-Kepler-Observatory, Linz, Austria (htt · CC BY-SA 3.0",
+"page": "https://commons.wikimedia.org/wiki/File:Comet_Hale-Bopp_1995O1.jpg",
+"file": "Comet_Hale-Bopp_1995O1.jpg",
+"v": 2
+},
 "astronomy/1-0-3_5": null,
 "astronomy/1-0-3_7": null,
 "astronomy/1-0-3_8": null,
@@ -5767,7 +6643,13 @@
 "astronomy/2-0-0_0": null,
 "astronomy/2-0-0_1": null,
 "astronomy/2-0-0_2": null,
-"astronomy/2-0-0_4": null,
+"astronomy/2-0-0_4": {
+"src": "art/photos/astronomy/2-0-0_4.webp",
+"credit": "Richard Powell · CC BY-SA 2.5",
+"page": "https://commons.wikimedia.org/wiki/File:HRDiagram.png",
+"file": "HRDiagram.png",
+"v": 2
+},
 "astronomy/2-0-0_5": null,
 "astronomy/2-0-0_7": null,
 "astronomy/2-0-0_8": null,
@@ -5775,8 +6657,20 @@
 "astronomy/2-0-1_1": null,
 "astronomy/2-0-1_2": null,
 "astronomy/2-0-1_4": null,
-"astronomy/2-0-1_5": null,
-"astronomy/2-0-1_7": null,
+"astronomy/2-0-1_5": {
+"src": "art/photos/astronomy/2-0-1_5.webp",
+"credit": "Pablo Carlos Budassi · CC BY-SA 4.0",
+"page": "https://commons.wikimedia.org/wiki/File:Hydrostatic_equilibrium.png",
+"file": "Hydrostatic_equilibrium.png",
+"v": 2
+},
+"astronomy/2-0-1_7": {
+"src": "art/photos/astronomy/2-0-1_7.webp",
+"credit": "Vyacheslav Argenberg · CC BY 4.0",
+"page": "https://commons.wikimedia.org/wiki/File:Fire,_Fireplace,_Rostov-on-Don,_Russia.jpg",
+"file": "Fire,_Fireplace,_Rostov-on-Don,_Russia.jpg",
+"v": 2
+},
 "astronomy/2-0-1_8": null,
 "astronomy/2-0-2_0": null,
 "astronomy/2-0-2_1": null,
@@ -5804,11 +6698,23 @@
 "v": 2
 },
 "astronomy/2-0-3_0": null,
-"astronomy/2-0-3_1": null,
+"astronomy/2-0-3_1": {
+"src": "art/photos/astronomy/2-0-3_1.webp",
+"credit": "NASA/ESA, The Hubble Key Project Team and The High-Z Supernova Search  · Public domain",
+"page": "https://commons.wikimedia.org/wiki/File:SN1994D.jpg",
+"file": "SN1994D.jpg",
+"v": 2
+},
 "astronomy/2-0-3_2": null,
 "astronomy/2-0-3_4": null,
 "astronomy/2-0-3_5": null,
-"astronomy/2-0-3_6": null,
+"astronomy/2-0-3_6": {
+"src": "art/photos/astronomy/2-0-3_6.webp",
+"credit": "Qniemiec · CC BY-SA 4.0",
+"page": "https://commons.wikimedia.org/wiki/File:Kernfusionen1_en.png",
+"file": "Kernfusionen1_en.png",
+"v": 2
+},
 "astronomy/2-0-3_8": {
 "src": "art/photos/astronomy/2-0-3_8.webp",
 "credit": "International Gemini Observatory/NOIRLab/NSF/AURA/M. Garlick, M. Zaman · CC BY 4.0",
@@ -5859,7 +6765,13 @@
 "astronomy/2-1-0_0": null,
 "astronomy/2-1-0_1": null,
 "astronomy/2-1-0_2": null,
-"astronomy/2-1-0_4": null,
+"astronomy/2-1-0_4": {
+"src": "art/photos/astronomy/2-1-0_4.webp",
+"credit": "Lensshoe_hubble.jpg: ESA/Hubble &amp; NASA derivative work: Bulwersato · Public domain",
+"page": "https://commons.wikimedia.org/wiki/File:A_Horseshoe_Einstein_Ring_from_Hubble.JPG",
+"file": "A_Horseshoe_Einstein_Ring_from_Hubble.JPG",
+"v": 2
+},
 "astronomy/2-1-0_5": {
 "src": "art/photos/astronomy/2-1-0_5.webp",
 "credit": "NASA / JPL-Caltech / Olivier de Goursac · Public domain",
@@ -5911,7 +6823,13 @@
 "v": 2
 },
 "astronomy/3-0-1_4": null,
-"astronomy/3-0-1_5": null,
+"astronomy/3-0-1_5": {
+"src": "art/photos/astronomy/3-0-1_5.webp",
+"credit": "NASA/ESA/Hubble Space Telescope · Public domain",
+"page": "https://commons.wikimedia.org/wiki/File:IC_1101_in_Abell_2029_(hst_06228_03_wfpc2_f702w_pc).jpg",
+"file": "IC_1101_in_Abell_2029_(hst_06228_03_wfpc2_f702w_pc).jpg",
+"v": 2
+},
 "astronomy/3-0-1_7": {
 "src": "art/photos/astronomy/3-0-1_7.webp",
 "credit": "NASA, ESA, and E. Hallman (University of Colorado, Boulder) · Public domain",
@@ -5936,7 +6854,13 @@
 "astronomy/3-1-0_0": null,
 "astronomy/3-1-0_1": null,
 "astronomy/3-1-0_2": null,
-"astronomy/3-1-0_4": null,
+"astronomy/3-1-0_4": {
+"src": "art/photos/astronomy/3-1-0_4.webp",
+"credit": "NASA/WMAP Science Team · Public domain",
+"page": "https://commons.wikimedia.org/wiki/File:CMB_Timeline300_no_WMAP.jpg",
+"file": "CMB_Timeline300_no_WMAP.jpg",
+"v": 2
+},
 "astronomy/3-1-0_5": null,
 "astronomy/3-1-0_7": null,
 "astronomy/3-1-0_8": null,
@@ -5956,7 +6880,13 @@
 "v": 2
 },
 "astronomy/3-1-2_2": null,
-"astronomy/3-1-2_4": null,
+"astronomy/3-1-2_4": {
+"src": "art/photos/astronomy/3-1-2_4.webp",
+"credit": "Lucas Taylor / CERN · CC BY-SA 3.0",
+"page": "https://commons.wikimedia.org/wiki/File:CMS_Higgs-event.jpg",
+"file": "CMS_Higgs-event.jpg",
+"v": 2
+},
 "astronomy/3-1-2_5": null,
 "astronomy/3-1-2_7": null,
 "astronomy/3-1-2_8": null,
@@ -5965,7 +6895,13 @@
 "astronomy/3-1-3_2": null,
 "astronomy/3-1-3_4": null,
 "astronomy/3-1-3_5": null,
-"astronomy/3-1-3_7": null,
+"astronomy/3-1-3_7": {
+"src": "art/photos/astronomy/3-1-3_7.webp",
+"credit": "Unknown · CC BY-SA 4.0",
+"page": "https://commons.wikimedia.org/wiki/File:Michelson_Interferometer.jpg",
+"file": "Michelson_Interferometer.jpg",
+"v": 2
+},
 "astronomy/3-1-3_8": null,
 "astronomy/4-0-0_0": null,
 "astronomy/4-0-0_1": null,
@@ -6087,7 +7023,13 @@
 },
 "chemistry/0-0-1_8": null,
 "chemistry/0-0-2_0": null,
-"chemistry/0-0-2_1": null,
+"chemistry/0-0-2_1": {
+"src": "art/photos/chemistry/0-0-2_1.webp",
+"credit": "The American Institute of Physics credits the photo [1] to AB Lagreliu · Public domain",
+"page": "https://commons.wikimedia.org/wiki/File:Niels_Bohr.jpg",
+"file": "Niels_Bohr.jpg",
+"v": 2
+},
 "chemistry/0-0-2_2": {
 "src": "art/photos/chemistry/0-0-2_2.webp",
 "credit": "Unknown authorUnknown author · Public domain",
@@ -6203,7 +7145,13 @@
 "file": "Turmeric_inflorescence.jpg",
 "v": 2
 },
-"chemistry/1-0-5_1": null,
+"chemistry/1-0-5_1": {
+"src": "art/photos/chemistry/1-0-5_1.webp",
+"credit": "LA2 · CC BY-SA 3.0",
+"page": "https://commons.wikimedia.org/wiki/File:LA2_Skultuna_kontorsljusstake.jpg",
+"file": "LA2_Skultuna_kontorsljusstake.jpg",
+"v": 2
+},
 "chemistry/1-0-5_5": {
 "src": "art/photos/chemistry/1-0-5_5.webp",
 "credit": "Unknown authorUnknown author · Public domain",
@@ -6239,10 +7187,22 @@
 "file": "Alto_Horno,_Puerto_de_Sagunto,_España,_2015-01-04,_DD_91.JPG",
 "v": 2
 },
-"chemistry/2-0-0_5": null,
+"chemistry/2-0-0_5": {
+"src": "art/photos/chemistry/2-0-0_5.webp",
+"credit": "ArcelorMittal Kryvyi Rih · CC BY-SA 4.0",
+"page": "https://commons.wikimedia.org/wiki/File:%D0%90%D1%80%D0%BC%D0%B0%D1%82%D1%83%D1%80%D0%BD%D1%8B%D0%B9_%D0%BF%D1%80%D0%BE%D0%BA%D0%B0%D1%82.jpg",
+"file": "Арматурный_прокат.jpg",
+"v": 2
+},
 "chemistry/2-0-0_8": null,
 "chemistry/2-0-1_2": null,
-"chemistry/2-0-1_4": null,
+"chemistry/2-0-1_4": {
+"src": "art/photos/chemistry/2-0-1_4.webp",
+"credit": "Keith Weller, Agricultural Research Service, USDA · Public domain",
+"page": "https://commons.wikimedia.org/wiki/File:Various_legumes.jpg",
+"file": "Various_legumes.jpg",
+"v": 2
+},
 "chemistry/2-0-1_5": {
 "src": "art/photos/chemistry/2-0-1_5.webp",
 "credit": "Alchemist-hp (pse-mendelejew.de) · CC BY-SA 3.0 de",
@@ -6258,7 +7218,13 @@
 "file": "Copper(II)-sulfate-pentahydrate-xtal-1985-Cu-coord-3D-bs-17.png",
 "v": 2
 },
-"chemistry/2-0-2_4": null,
+"chemistry/2-0-2_4": {
+"src": "art/photos/chemistry/2-0-2_4.webp",
+"credit": "ETH Zürich · CC BY-SA 3.0",
+"page": "https://commons.wikimedia.org/wiki/File:Alfred_Werner_ETH-Bib_Portr_09965.jpg",
+"file": "Alfred_Werner_ETH-Bib_Portr_09965.jpg",
+"v": 2
+},
 "chemistry/2-0-2_5": {
 "src": "art/photos/chemistry/2-0-2_5.webp",
 "credit": "Zephyris at English Wikipedia · CC BY-SA 3.0",
@@ -6274,9 +7240,27 @@
 "v": 2
 },
 "chemistry/3-0-0_0": null,
-"chemistry/3-0-0_1": null,
-"chemistry/3-0-0_2": null,
-"chemistry/3-0-0_6": null,
+"chemistry/3-0-0_1": {
+"src": "art/photos/chemistry/3-0-0_1.webp",
+"credit": "Robert M. Lavinsky · CC BY-SA 3.0",
+"page": "https://commons.wikimedia.org/wiki/File:Graphite-and-diamond-with-scale.jpg",
+"file": "Graphite-and-diamond-with-scale.jpg",
+"v": 2
+},
+"chemistry/3-0-0_2": {
+"src": "art/photos/chemistry/3-0-0_2.webp",
+"credit": "Rudolph Hoffmann · Public domain",
+"page": "https://commons.wikimedia.org/wiki/File:Friedrich_W%C3%B6hler_Litho.jpg",
+"file": "Friedrich_Wöhler_Litho.jpg",
+"v": 2
+},
+"chemistry/3-0-0_6": {
+"src": "art/photos/chemistry/3-0-0_6.webp",
+"credit": "Vyacheslav Argenberg · CC BY 4.0",
+"page": "https://commons.wikimedia.org/wiki/File:Fire,_Fireplace,_Rostov-on-Don,_Russia.jpg",
+"file": "Fire,_Fireplace,_Rostov-on-Don,_Russia.jpg",
+"v": 2
+},
 "chemistry/3-0-0_9": {
 "src": "art/photos/chemistry/3-0-0_9.webp",
 "credit": "Subhashish Panigrahi · CC BY-SA 3.0",
@@ -6333,7 +7317,13 @@
 "v": 2
 },
 "chemistry/4-0-0_2": null,
-"chemistry/4-0-0_4": null,
+"chemistry/4-0-0_4": {
+"src": "art/photos/chemistry/4-0-0_4.webp",
+"credit": "Oxetane lacx · CC BY 4.0",
+"page": "https://commons.wikimedia.org/wiki/File:Acetylsalicylic_acid.jpg",
+"file": "Acetylsalicylic_acid.jpg",
+"v": 2
+},
 "chemistry/4-0-0_5": {
 "src": "art/photos/chemistry/4-0-0_5.webp",
 "credit": "Thegreenj · CC BY-SA 3.0",
@@ -6366,7 +7356,13 @@
 "file": "Paul_Nadar_-_Henri_Becquerel.jpg",
 "v": 2
 },
-"chemistry/4-0-2_4": null,
+"chemistry/4-0-2_4": {
+"src": "art/photos/chemistry/4-0-2_4.webp",
+"credit": "Basch, [...] / Opdracht Anefo · CC BY-SA 3.0 nl",
+"page": "https://commons.wikimedia.org/wiki/File:Otto_Hahn_1970.jpg",
+"file": "Otto_Hahn_1970.jpg",
+"v": 2
+},
 "chemistry/4-0-2_5": {
 "src": "art/photos/chemistry/4-0-2_5.webp",
 "credit": "Dina Wakulchik from Indianapolis, Indiana, USA · CC BY 2.0",
@@ -6384,7 +7380,13 @@
 },
 "chemistry/4-0-3_4": null,
 "chemistry/4-0-3_5": null,
-"chemistry/4-0-3_8": null,
+"chemistry/4-0-3_8": {
+"src": "art/photos/chemistry/4-0-3_8.webp",
+"credit": "Biswarup Ganguly · CC BY-SA 3.0",
+"page": "https://commons.wikimedia.org/wiki/File:Chintamani_Nagesa_Ramachandra_Rao_03650.JPG",
+"file": "Chintamani_Nagesa_Ramachandra_Rao_03650.JPG",
+"v": 2
+},
 "environment/0-0-0_0": null,
 "environment/0-0-0_1": {
 "src": "art/photos/environment/0-0-0_1.webp",
@@ -6422,7 +7424,13 @@
 "file": "White_rumped_vulture_in_chitwan_national_park.jpg",
 "v": 2
 },
-"environment/0-0-1_0": null,
+"environment/0-0-1_0": {
+"src": "art/photos/environment/0-0-1_0.webp",
+"credit": "NPS · Public domain",
+"page": "https://commons.wikimedia.org/wiki/File:Rock_cycle_nps_2.png",
+"file": "Rock_cycle_nps_2.png",
+"v": 2
+},
 "environment/0-0-1_1": null,
 "environment/0-0-1_2": {
 "src": "art/photos/environment/0-0-1_2.webp",
@@ -6438,7 +7446,13 @@
 "file": "River_algae_Sichuan.jpg",
 "v": 2
 },
-"environment/0-0-1_5": null,
+"environment/0-0-1_5": {
+"src": "art/photos/environment/0-0-1_5.webp",
+"credit": "Hannu · Public domain",
+"page": "https://commons.wikimedia.org/wiki/File:Boreal_pine_forest_after_fire.JPG",
+"file": "Boreal_pine_forest_after_fire.JPG",
+"v": 2
+},
 "environment/0-0-1_7": null,
 "environment/0-0-1_8": null,
 "environment/0-0-2_0": null,
@@ -6486,12 +7500,30 @@
 "v": 2
 },
 "environment/0-0-3_1": null,
-"environment/0-0-3_2": null,
+"environment/0-0-3_2": {
+"src": "art/photos/environment/0-0-3_2.webp",
+"credit": "Alvesgaspar · CC BY-SA 4.0",
+"page": "https://commons.wikimedia.org/wiki/File:Aphids_September_2008-1.jpg",
+"file": "Aphids_September_2008-1.jpg",
+"v": 2
+},
 "environment/0-0-3_4": null,
 "environment/0-0-3_5": null,
 "environment/0-0-3_7": null,
-"environment/0-0-3_8": null,
-"environment/0-0-4_0": null,
+"environment/0-0-3_8": {
+"src": "art/photos/environment/0-0-3_8.webp",
+"credit": "Ghilarovus · CC BY-SA 4.0",
+"page": "https://commons.wikimedia.org/wiki/File:%D0%9A%D1%80%D0%B0%D1%81%D0%BD%D0%BE%D0%BA%D0%BE%D0%B2%D1%8B%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D0%B5%D0%BF%D1%8C_%D0%B2_%D0%B1%D0%B0%D1%81%D1%81%D0%B5%D0%B9%D0%BD%D0%B5_%D0%9A%D1%83%D0%BA%D1%83%D0%B9%D0%BA%D0%B8_%D0%B2_%D0%9A%D1%83%D1%80%D1%8C%D0%B8%D0%BD%D1%81%D0%BA%D0%BE%D0%BC_%D1%80%D0%B0%D0%B9%D0%BE%D0%BD%D0%B5.JPG",
+"file": "Красноковыльная_степь_в_бассейне_Кукуйки_в_Курьинском_районе.JPG",
+"v": 2
+},
+"environment/0-0-4_0": {
+"src": "art/photos/environment/0-0-4_0.webp",
+"credit": "Alfred Russel Wallace · Public domain",
+"page": "https://commons.wikimedia.org/wiki/File:Alfred_Russel_Wallace%27s_map_of_biogeographical_regions.jpg",
+"file": "Alfred_Russel_Wallace's_map_of_biogeographical_regions.jpg",
+"v": 2
+},
 "environment/0-0-4_1": null,
 "environment/0-0-4_2": {
 "src": "art/photos/environment/0-0-4_2.webp",
@@ -6509,7 +7541,13 @@
 "v": 2
 },
 "environment/0-0-4_7": null,
-"environment/0-0-4_8": null,
+"environment/0-0-4_8": {
+"src": "art/photos/environment/0-0-4_8.webp",
+"credit": "Acropora at English Wikipedia · CC BY-SA 3.0",
+"page": "https://commons.wikimedia.org/wiki/File:Bleachedcoral.jpg",
+"file": "Bleachedcoral.jpg",
+"v": 2
+},
 "environment/1-0-0_0": null,
 "environment/1-0-0_1": null,
 "environment/1-0-0_2": {
@@ -6526,8 +7564,20 @@
 "file": "Sundaland-at-the-Last-Glacial-Maximum-showing-the-modern-distribution-of-land-in-dark.png",
 "v": 2
 },
-"environment/1-0-0_5": null,
-"environment/1-0-0_7": null,
+"environment/1-0-0_5": {
+"src": "art/photos/environment/1-0-0_5.webp",
+"credit": "Kenneth Zirkel · CC BY-SA 4.0",
+"page": "https://commons.wikimedia.org/wiki/File:Jared_Diamond_author_academic.jpg",
+"file": "Jared_Diamond_author_academic.jpg",
+"v": 2
+},
+"environment/1-0-0_7": {
+"src": "art/photos/environment/1-0-0_7.webp",
+"credit": "UN Biodiversity · CC BY 2.0",
+"page": "https://commons.wikimedia.org/wiki/File:22dec19-COP15-Adoption-of-the-Kunming-Montreal-Framework-8781_(52573109390).jpg",
+"file": "22dec19-COP15-Adoption-of-the-Kunming-Montreal-Framework-8781_(52573109390).jpg",
+"v": 2
+},
 "environment/1-0-0_8": null,
 "environment/1-0-1_0": null,
 "environment/1-0-1_1": {
@@ -6537,7 +7587,13 @@
 "file": "Columbus_Zoo_-_51284624854.jpg",
 "v": 2
 },
-"environment/1-0-1_2": null,
+"environment/1-0-1_2": {
+"src": "art/photos/environment/1-0-1_2.webp",
+"credit": "John Knouse · Public domain",
+"page": "https://commons.wikimedia.org/wiki/File:Jefferson_Memorial_Forest-Bee_Lick_Creek.jpg",
+"file": "Jefferson_Memorial_Forest-Bee_Lick_Creek.jpg",
+"v": 2
+},
 "environment/1-0-1_4": null,
 "environment/1-0-1_5": {
 "src": "art/photos/environment/1-0-1_5.webp",
@@ -6557,11 +7613,23 @@
 "environment/1-0-10_0": null,
 "environment/1-0-10_1": null,
 "environment/1-0-10_2": null,
-"environment/1-0-10_4": null,
+"environment/1-0-10_4": {
+"src": "art/photos/environment/1-0-10_4.webp",
+"credit": "HPNadig · CC BY-SA 3.0",
+"page": "https://commons.wikimedia.org/wiki/File:Dhanvantari-at-Ayurveda-expo.jpg",
+"file": "Dhanvantari-at-Ayurveda-expo.jpg",
+"v": 2
+},
 "environment/1-0-10_5": null,
 "environment/1-0-10_7": null,
 "environment/1-0-10_8": null,
-"environment/1-0-11_0": null,
+"environment/1-0-11_0": {
+"src": "art/photos/environment/1-0-11_0.webp",
+"credit": "User:IlyaHaykinson · CC BY-SA 1.0",
+"page": "https://commons.wikimedia.org/wiki/File:Beaver_dam_in_Tierra_del_Fuego.jpg",
+"file": "Beaver_dam_in_Tierra_del_Fuego.jpg",
+"v": 2
+},
 "environment/1-0-11_1": null,
 "environment/1-0-11_2": {
 "src": "art/photos/environment/1-0-11_2.webp",
@@ -6585,7 +7653,13 @@
 "file": "Wildschwein,_Nähe_Pulverstampftor_(cropped).jpg",
 "v": 2
 },
-"environment/1-0-11_8": null,
+"environment/1-0-11_8": {
+"src": "art/photos/environment/1-0-11_8.webp",
+"credit": "Dick Culbert from Gibsons, B.C., Canada · CC BY 2.0",
+"page": "https://commons.wikimedia.org/wiki/File:Prosopis_juliflora,_known_as_the_Velvet_Mesquite_(10078437503).jpg",
+"file": "Prosopis_juliflora,_known_as_the_Velvet_Mesquite_(10078437503).jpg",
+"v": 2
+},
 "environment/1-0-12_0": null,
 "environment/1-0-12_1": {
 "src": "art/photos/environment/1-0-12_1.webp",
@@ -6610,7 +7684,13 @@
 },
 "environment/1-0-12_5": null,
 "environment/1-0-12_7": null,
-"environment/1-0-12_8": null,
+"environment/1-0-12_8": {
+"src": "art/photos/environment/1-0-12_8.webp",
+"credit": "Yathin sk · CC BY-SA 3.0",
+"page": "https://commons.wikimedia.org/wiki/File:2012-white-backed-vulture.jpg",
+"file": "2012-white-backed-vulture.jpg",
+"v": 2
+},
 "environment/1-0-13_0": null,
 "environment/1-0-13_1": null,
 "environment/1-0-13_2": {
@@ -6620,9 +7700,21 @@
 "file": "Blue,_Green_&_White.jpg",
 "v": 2
 },
-"environment/1-0-13_4": null,
+"environment/1-0-13_4": {
+"src": "art/photos/environment/1-0-13_4.webp",
+"credit": "AnonymousUnknown author · Public domain",
+"page": "https://commons.wikimedia.org/wiki/File:Doon_Valley,_Dehradun,_1850s.jpg",
+"file": "Doon_Valley,_Dehradun,_1850s.jpg",
+"v": 2
+},
 "environment/1-0-13_5": null,
-"environment/1-0-13_7": null,
+"environment/1-0-13_7": {
+"src": "art/photos/environment/1-0-13_7.webp",
+"credit": "Subhajit Saha · CC BY-SA 4.0",
+"page": "https://commons.wikimedia.org/wiki/File:IE_Rajaji.jpg",
+"file": "IE_Rajaji.jpg",
+"v": 2
+},
 "environment/1-0-13_8": {
 "src": "art/photos/environment/1-0-13_8.webp",
 "credit": "Sharvarism · CC BY-SA 4.0",
@@ -6717,7 +7809,13 @@
 "file": "Simlipal_tiger_reserve.jpg",
 "v": 2
 },
-"environment/1-0-5_7": null,
+"environment/1-0-5_7": {
+"src": "art/photos/environment/1-0-5_7.webp",
+"credit": "Vishma thapa · CC BY-SA 3.0",
+"page": "https://commons.wikimedia.org/wiki/File:GARO_TRADITIONAL_DRESS-9.jpg",
+"file": "GARO_TRADITIONAL_DRESS-9.jpg",
+"v": 2
+},
 "environment/1-0-5_8": null,
 "environment/1-0-6_0": {
 "src": "art/photos/environment/1-0-6_0.webp",
@@ -6738,7 +7836,13 @@
 "file": "Ranthambore_National_Park.JPG",
 "v": 2
 },
-"environment/1-0-7_0": null,
+"environment/1-0-7_0": {
+"src": "art/photos/environment/1-0-7_0.webp",
+"credit": "Mayank1704 · CC BY-SA 4.0",
+"page": "https://commons.wikimedia.org/wiki/File:Great-Indian-one-horned-rhinoceros-at-Kaziranga-national-park-in-Assam-India.jpg",
+"file": "Great-Indian-one-horned-rhinoceros-at-Kaziranga-national-park-in-Assam-India.jpg",
+"v": 2
+},
 "environment/1-0-7_1": null,
 "environment/1-0-7_2": null,
 "environment/1-0-7_4": null,
@@ -6770,7 +7874,13 @@
 },
 "environment/1-0-8_7": null,
 "environment/1-0-8_8": null,
-"environment/1-0-9_0": null,
+"environment/1-0-9_0": {
+"src": "art/photos/environment/1-0-9_0.webp",
+"credit": "Iocanus (talk) · CC BY 3.0",
+"page": "https://commons.wikimedia.org/wiki/File:Treaty_of_Kadesh.jpg",
+"file": "Treaty_of_Kadesh.jpg",
+"v": 2
+},
 "environment/1-0-9_1": {
 "src": "art/photos/environment/1-0-9_1.webp",
 "credit": "Jastrow · Public domain",
@@ -6820,7 +7930,13 @@
 "environment/2-0-0_5": null,
 "environment/2-0-0_7": null,
 "environment/2-0-0_8": null,
-"environment/2-0-1_0": null,
+"environment/2-0-1_0": {
+"src": "art/photos/environment/2-0-1_0.webp",
+"credit": "MrActiniuM · CC BY-SA 4.0",
+"page": "https://commons.wikimedia.org/wiki/File:Garbage_floating_around_in_Circular_Quay.jpg",
+"file": "Garbage_floating_around_in_Circular_Quay.jpg",
+"v": 2
+},
 "environment/2-0-1_1": {
 "src": "art/photos/environment/2-0-1_1.webp",
 "credit": "SuSanA Secretariat · CC BY 2.0",
@@ -6848,9 +7964,27 @@
 "file": "Compost_site_germany.JPG",
 "v": 2
 },
-"environment/2-0-2_4": null,
-"environment/2-0-2_5": null,
-"environment/2-0-2_7": null,
+"environment/2-0-2_4": {
+"src": "art/photos/environment/2-0-2_4.webp",
+"credit": "AvWijk · Public domain",
+"page": "https://commons.wikimedia.org/wiki/File:Ewaste-pile.jpg",
+"file": "Ewaste-pile.jpg",
+"v": 2
+},
+"environment/2-0-2_5": {
+"src": "art/photos/environment/2-0-2_5.webp",
+"credit": "Rashid Jorvee · CC BY-SA 4.0",
+"page": "https://commons.wikimedia.org/wiki/File:Smoke_from_a_Bricks_Field.jpg",
+"file": "Smoke_from_a_Bricks_Field.jpg",
+"v": 2
+},
+"environment/2-0-2_7": {
+"src": "art/photos/environment/2-0-2_7.webp",
+"credit": "TUBS · CC BY-SA 3.0",
+"page": "https://commons.wikimedia.org/wiki/File:Alte_Fabrik_Finkemeier_002.jpg",
+"file": "Alte_Fabrik_Finkemeier_002.jpg",
+"v": 2
+},
 "environment/2-0-2_8": {
 "src": "art/photos/environment/2-0-2_8.webp",
 "credit": "Karthikndr · CC BY-SA 3.0",
@@ -6862,7 +7996,13 @@
 "environment/2-0-3_1": null,
 "environment/2-0-3_2": null,
 "environment/2-0-3_4": null,
-"environment/2-0-3_5": null,
+"environment/2-0-3_5": {
+"src": "art/photos/environment/2-0-3_5.webp",
+"credit": "Tyler Chow · CC BY-SA 4.0",
+"page": "https://commons.wikimedia.org/wiki/File:Thermal_Inversion_in_Urban_Environment.png",
+"file": "Thermal_Inversion_in_Urban_Environment.png",
+"v": 2
+},
 "environment/2-0-3_7": null,
 "environment/2-0-3_8": {
 "src": "art/photos/environment/2-0-3_8.webp",
@@ -6884,7 +8024,13 @@
 "environment/2-0-4_5": null,
 "environment/2-0-4_7": null,
 "environment/2-0-4_8": null,
-"environment/2-0-5_0": null,
+"environment/2-0-5_0": {
+"src": "art/photos/environment/2-0-5_0.webp",
+"credit": "ABI imagery from NOAA's GOES-18 satellite · Public domain",
+"page": "https://commons.wikimedia.org/wiki/File:Pacific_Ocean_as_viewed_from_GOES-18_on_September_23,_2023.jpg",
+"file": "Pacific_Ocean_as_viewed_from_GOES-18_on_September_23,_2023.jpg",
+"v": 2
+},
 "environment/2-0-5_1": {
 "src": "art/photos/environment/2-0-5_1.webp",
 "credit": "Vberger · Public domain",
@@ -6908,7 +8054,13 @@
 "v": 2
 },
 "environment/2-0-5_7": null,
-"environment/2-0-5_8": null,
+"environment/2-0-5_8": {
+"src": "art/photos/environment/2-0-5_8.webp",
+"credit": "Richard Ling &lt;wikipedia@rling.com&gt; · CC BY-SA 3.0",
+"page": "https://commons.wikimedia.org/wiki/File:Blue_Linckia_Starfish.JPG",
+"file": "Blue_Linckia_Starfish.JPG",
+"v": 2
+},
 "environment/2-0-6_0": {
 "src": "art/photos/environment/2-0-6_0.webp",
 "credit": "Unknown · Public domain",
@@ -6983,7 +8135,13 @@
 "environment/2-1-0_4": null,
 "environment/2-1-0_5": null,
 "environment/2-1-0_7": null,
-"environment/2-1-0_8": null,
+"environment/2-1-0_8": {
+"src": "art/photos/environment/2-1-0_8.webp",
+"credit": "sushmita balasubramani · CC BY 2.0",
+"page": "https://commons.wikimedia.org/wiki/File:Thar_desert_Rajasthan_India.jpg",
+"file": "Thar_desert_Rajasthan_India.jpg",
+"v": 2
+},
 "environment/2-1-1_0": {
 "src": "art/photos/environment/2-1-1_0.webp",
 "credit": "Ariefrahman · CC BY-SA 4.0",
@@ -7013,10 +8171,22 @@
 },
 "environment/2-1-2_2": null,
 "environment/2-1-2_4": null,
-"environment/2-1-2_5": null,
+"environment/2-1-2_5": {
+"src": "art/photos/environment/2-1-2_5.webp",
+"credit": "Puru150 · CC BY-SA 4.0",
+"page": "https://commons.wikimedia.org/wiki/File:Sunrise_at_Bhitarakanika.jpg",
+"file": "Sunrise_at_Bhitarakanika.jpg",
+"v": 2
+},
 "environment/2-1-2_7": null,
 "environment/2-1-2_8": null,
-"environment/2-1-3_0": null,
+"environment/2-1-3_0": {
+"src": "art/photos/environment/2-1-3_0.webp",
+"credit": "NASA/GSFC, MODIS Rapid Response Team, Jacques Descloitres · Public domain",
+"page": "https://commons.wikimedia.org/wiki/File:Low_pressure_system_over_Iceland.jpg",
+"file": "Low_pressure_system_over_Iceland.jpg",
+"v": 2
+},
 "environment/2-1-3_1": {
 "src": "art/photos/environment/2-1-3_1.webp",
 "credit": "Nick Harris · CC BY 2.5",
@@ -7066,7 +8236,13 @@
 "environment/2-1-4_5": null,
 "environment/2-1-4_7": null,
 "environment/2-1-4_8": null,
-"environment/2-1-5_0": null,
+"environment/2-1-5_0": {
+"src": "art/photos/environment/2-1-5_0.webp",
+"credit": "The original uploader was Ellmist at English Wikipedia. Later versions · Public domain",
+"page": "https://commons.wikimedia.org/wiki/File:Cattle.jpg",
+"file": "Cattle.jpg",
+"v": 2
+},
 "environment/2-1-5_1": null,
 "environment/2-1-5_2": null,
 "environment/2-1-5_4": null,
@@ -7078,7 +8254,13 @@
 "v": 2
 },
 "environment/2-1-5_7": null,
-"environment/2-1-5_8": null,
+"environment/2-1-5_8": {
+"src": "art/photos/environment/2-1-5_8.webp",
+"credit": "Sanhitasinha · CC BY-SA 4.0",
+"page": "https://commons.wikimedia.org/wiki/File:Mehrangarh_Fort_sanhita.jpg",
+"file": "Mehrangarh_Fort_sanhita.jpg",
+"v": 2
+},
 "environment/3-0-0_0": null,
 "environment/3-0-0_1": null,
 "environment/3-0-0_2": null,
@@ -7090,7 +8272,13 @@
 "file": "NOAA_Nino.jpg",
 "v": 2
 },
-"environment/3-0-0_7": null,
+"environment/3-0-0_7": {
+"src": "art/photos/environment/3-0-0_7.webp",
+"credit": "USAID U.S. Agency for International Development · Public domain",
+"page": "https://commons.wikimedia.org/wiki/File:FrontLines-EGAT_2011_Environment_Photo_Contest_Top_Entry_(5842818280).jpg",
+"file": "FrontLines-EGAT_2011_Environment_Photo_Contest_Top_Entry_(5842818280).jpg",
+"v": 2
+},
 "environment/3-0-0_8": null,
 "environment/3-0-1_0": null,
 "environment/3-0-1_1": {
@@ -7100,7 +8288,13 @@
 "file": "Milan_skyscrapers_aerial_view.jpg",
 "v": 2
 },
-"environment/3-0-1_2": null,
+"environment/3-0-1_2": {
+"src": "art/photos/environment/3-0-1_2.webp",
+"credit": "kallerna · CC BY-SA 4.0",
+"page": "https://commons.wikimedia.org/wiki/File:Vehn%C3%A4pelto_6.jpg",
+"file": "Vehnäpelto_6.jpg",
+"v": 2
+},
 "environment/3-0-1_4": null,
 "environment/3-0-1_5": null,
 "environment/3-0-1_7": null,
@@ -7121,7 +8315,13 @@
 "file": "Hindu_Kush_mountains_(30357238428).jpg",
 "v": 2
 },
-"environment/3-0-2_5": null,
+"environment/3-0-2_5": {
+"src": "art/photos/environment/3-0-2_5.webp",
+"credit": "Heavyrunner · CC BY-SA 3.0",
+"page": "https://commons.wikimedia.org/wiki/File:Nanga_Parbat_Indus_Gorge.jpg",
+"file": "Nanga_Parbat_Indus_Gorge.jpg",
+"v": 2
+},
 "environment/3-0-2_7": null,
 "environment/3-0-2_8": null,
 "environment/3-1-0_0": null,
@@ -7137,9 +8337,21 @@
 "v": 2
 },
 "environment/3-1-0_8": null,
-"environment/3-1-1_0": null,
+"environment/3-1-1_0": {
+"src": "art/photos/environment/3-1-1_0.webp",
+"credit": "Palácio do Planalto from Brasilia, Brasil · CC BY 2.0",
+"page": "https://commons.wikimedia.org/wiki/File:15_11_2021_Expo_Dubai_2020_(51683229098).jpg",
+"file": "15_11_2021_Expo_Dubai_2020_(51683229098).jpg",
+"v": 2
+},
 "environment/3-1-1_1": null,
-"environment/3-1-1_2": null,
+"environment/3-1-1_2": {
+"src": "art/photos/environment/3-1-1_2.webp",
+"credit": "Presidential Press and Information Office · CC BY 4.0",
+"page": "https://commons.wikimedia.org/wiki/File:Baku_city_at_night.jpg",
+"file": "Baku_city_at_night.jpg",
+"v": 2
+},
 "environment/3-1-1_4": null,
 "environment/3-1-1_5": {
 "src": "art/photos/environment/3-1-1_5.webp",
@@ -7169,7 +8381,13 @@
 "environment/3-1-4_2": null,
 "environment/3-1-4_4": null,
 "environment/3-1-4_5": null,
-"environment/3-1-4_7": null,
+"environment/3-1-4_7": {
+"src": "art/photos/environment/3-1-4_7.webp",
+"credit": "Skubydoo · CC BY-SA 4.0",
+"page": "https://commons.wikimedia.org/wiki/File:Panchamrita.jpg",
+"file": "Panchamrita.jpg",
+"v": 2
+},
 "environment/3-1-4_8": {
 "src": "art/photos/environment/3-1-4_8.webp",
 "credit": "Tanya Dedyukhina · CC BY 3.0",
@@ -7225,7 +8443,13 @@
 "environment/3-2-1_1": null,
 "environment/3-2-1_2": null,
 "environment/3-2-1_4": null,
-"environment/3-2-1_5": null,
+"environment/3-2-1_5": {
+"src": "art/photos/environment/3-2-1_5.webp",
+"credit": "U.S. Government Accountability Office from Washington, DC, United Stat · Public domain",
+"page": "https://commons.wikimedia.org/wiki/File:Figure_4_Illustration_of_a_light_water_small_modular_nuclear_reactor_(SMR)_(20848048201).jpg",
+"file": "Figure_4_Illustration_of_a_light_water_small_modular_nuclear_reactor_(SMR)_(20848048201).jpg",
+"v": 2
+},
 "environment/3-2-1_7": null,
 "environment/3-2-1_8": {
 "src": "art/photos/environment/3-2-1_8.webp",
@@ -7274,7 +8498,13 @@
 "environment/4-0-1_7": null,
 "environment/4-0-1_8": null,
 "environment/4-0-2_0": null,
-"environment/4-0-2_1": null,
+"environment/4-0-2_1": {
+"src": "art/photos/environment/4-0-2_1.webp",
+"credit": "Kalpit Bishnoi · CC BY-SA 4.0",
+"page": "https://commons.wikimedia.org/wiki/File:Vishnois_At_Khejarli_Environment_Fair.jpg",
+"file": "Vishnois_At_Khejarli_Environment_Fair.jpg",
+"v": 2
+},
 "environment/4-0-2_2": null,
 "environment/4-0-2_4": null,
 "environment/4-0-2_5": null,
@@ -7300,7 +8530,13 @@
 "environment/4-1-0_7": null,
 "environment/4-1-0_8": null,
 "environment/4-1-1_0": null,
-"environment/4-1-1_1": null,
+"environment/4-1-1_1": {
+"src": "art/photos/environment/4-1-1_1.webp",
+"credit": "U.S. Fish and Wildlife Service Northeast Region · CC BY 2.0",
+"page": "https://commons.wikimedia.org/wiki/File:Coffee_farm_in_Colombia.jpg",
+"file": "Coffee_farm_in_Colombia.jpg",
+"v": 2
+},
 "environment/4-1-1_2": {
 "src": "art/photos/environment/4-1-1_2.webp",
 "credit": "Original: Yoghya Derivative work: UnpetitproleX · CC BY-SA 4.0",
@@ -7339,7 +8575,13 @@
 "file": "Mehrgarh_ruins.jpg",
 "v": 2
 },
-"history/0-0-0_5": null,
+"history/0-0-0_5": {
+"src": "art/photos/history/0-0-0_5.webp",
+"credit": "Hamelin de Guettelet · Public domain",
+"page": "https://commons.wikimedia.org/wiki/File:Diffusion_cuivre.png",
+"file": "Diffusion_cuivre.png",
+"v": 2
+},
 "history/0-0-0_7": {
 "src": "art/photos/history/0-0-0_7.webp",
 "credit": "Swan Watson, Andrew · Public domain",
@@ -7347,7 +8589,13 @@
 "file": "Gordon_Childe.jpg",
 "v": 2
 },
-"history/0-0-1_0": null,
+"history/0-0-1_0": {
+"src": "art/photos/history/0-0-1_0.webp",
+"credit": "Muhammad Bin Naveed · CC BY-SA 3.0",
+"page": "https://commons.wikimedia.org/wiki/File:View_of_Granary_and_Great_Hall_on_Mound_F_-_Archaeological_site_of_Harappa.jpg",
+"file": "View_of_Granary_and_Great_Hall_on_Mound_F_-_Archaeological_site_of_Harappa.jpg",
+"v": 2
+},
 "history/0-0-1_1": null,
 "history/0-0-1_2": null,
 "history/0-0-1_4": {
@@ -7372,7 +8620,13 @@
 "file": "DHOLAVIRA_SITE_(24).jpg",
 "v": 2
 },
-"history/0-0-2_0": null,
+"history/0-0-2_0": {
+"src": "art/photos/history/0-0-2_0.webp",
+"credit": "Avantiputra7 · CC BY-SA 3.0",
+"page": "https://commons.wikimedia.org/wiki/File:Indus_Valley_Civilization,_Mature_Phase_(2600-1900_BCE).png",
+"file": "Indus_Valley_Civilization,_Mature_Phase_(2600-1900_BCE).png",
+"v": 2
+},
 "history/0-0-2_1": null,
 "history/0-0-2_2": null,
 "history/0-0-2_5": {
@@ -7382,7 +8636,13 @@
 "file": "Rakhigarhi_Harappan_civilization.jpg",
 "v": 2
 },
-"history/0-0-2_7": null,
+"history/0-0-2_7": {
+"src": "art/photos/history/0-0-2_7.webp",
+"credit": "Joshua Jonathan · CC BY-SA 4.0",
+"page": "https://commons.wikimedia.org/wiki/File:Sarasvati_river.jpg",
+"file": "Sarasvati_river.jpg",
+"v": 2
+},
 "history/0-0-2_8": null,
 "history/0-0-3_0": {
 "src": "art/photos/history/0-0-3_0.webp",
@@ -7391,11 +8651,35 @@
 "file": "Hathigumpha_inscription_(2020).jpg",
 "v": 2
 },
-"history/0-0-3_1": null,
-"history/0-0-3_2": null,
+"history/0-0-3_1": {
+"src": "art/photos/history/0-0-3_1.webp",
+"credit": "Symphonicallyu · CC0",
+"page": "https://commons.wikimedia.org/wiki/File:Brahmi_Varnamala.png",
+"file": "Brahmi_Varnamala.png",
+"v": 2
+},
+"history/0-0-3_2": {
+"src": "art/photos/history/0-0-3_2.webp",
+"credit": "William Wyon · Public domain",
+"page": "https://commons.wikimedia.org/wiki/File:James_Prinsep_Medal.jpg",
+"file": "James_Prinsep_Medal.jpg",
+"v": 2
+},
 "history/0-0-3_5": null,
-"history/0-1-0_0": null,
-"history/0-1-0_1": null,
+"history/0-1-0_0": {
+"src": "art/photos/history/0-1-0_0.webp",
+"credit": "Avantiputra7 · CC BY-SA 3.0",
+"page": "https://commons.wikimedia.org/wiki/File:Early_Vedic_Culture_(1700-1100_BCE).png",
+"file": "Early_Vedic_Culture_(1700-1100_BCE).png",
+"v": 2
+},
+"history/0-1-0_1": {
+"src": "art/photos/history/0-1-0_1.webp",
+"credit": "Avantiputra7 · CC BY-SA 3.0",
+"page": "https://commons.wikimedia.org/wiki/File:Painted_Grey_Ware_Culture_(1200-600_BCE).png",
+"file": "Painted_Grey_Ware_Culture_(1200-600_BCE).png",
+"v": 2
+},
 "history/0-1-0_2": {
 "src": "art/photos/history/0-1-0_2.webp",
 "credit": "Srkris at English Wikipedia · Public domain",
@@ -7413,9 +8697,21 @@
 },
 "history/0-1-0_7": null,
 "history/0-1-0_8": null,
-"history/0-1-1_0": null,
+"history/0-1-1_0": {
+"src": "art/photos/history/0-1-1_0.webp",
+"credit": "Avantiputra7 · CC BY-SA 3.0",
+"page": "https://commons.wikimedia.org/wiki/File:Mahajanapadas_(c._500_BCE).png",
+"file": "Mahajanapadas_(c._500_BCE).png",
+"v": 2
+},
 "history/0-1-1_1": null,
-"history/0-1-1_2": null,
+"history/0-1-1_2": {
+"src": "art/photos/history/0-1-1_2.webp",
+"credit": "Yusuke Kawasaki · CC BY 2.0",
+"page": "https://commons.wikimedia.org/wiki/File:Ancient_Buddhist_monasteries_near_Dhamekh_Stupa_Monument_Site,_Sarnath.jpg",
+"file": "Ancient_Buddhist_monasteries_near_Dhamekh_Stupa_Monument_Site,_Sarnath.jpg",
+"v": 2
+},
 "history/0-1-1_4": null,
 "history/0-1-1_5": null,
 "history/0-1-1_7": {
@@ -7457,9 +8753,21 @@
 "history/0-2-0_0": null,
 "history/0-2-0_1": null,
 "history/0-2-0_2": null,
-"history/0-2-0_4": null,
+"history/0-2-0_4": {
+"src": "art/photos/history/0-2-0_4.webp",
+"credit": "Photo Dharma from Sadao, Thailand · CC BY 2.0",
+"page": "https://commons.wikimedia.org/wiki/File:Ashoka%27s_visit_to_the_Ramagrama_stupa_Sanchi_Stupa_1_Southern_gateway.jpg",
+"file": "Ashoka's_visit_to_the_Ramagrama_stupa_Sanchi_Stupa_1_Southern_gateway.jpg",
+"v": 2
+},
 "history/0-2-0_5": null,
-"history/0-2-0_7": null,
+"history/0-2-0_7": {
+"src": "art/photos/history/0-2-0_7.webp",
+"credit": "Payasam (Mukul Dube) · CC BY-SA 4.0",
+"page": "https://commons.wikimedia.org/wiki/File:Romila_Thapar_(cropped).jpg",
+"file": "Romila_Thapar_(cropped).jpg",
+"v": 2
+},
 "history/0-2-0_8": null,
 "history/0-2-1_0": {
 "src": "art/photos/history/0-2-1_0.webp",
@@ -7487,7 +8795,13 @@
 },
 "history/0-2-2_1": null,
 "history/0-2-2_2": null,
-"history/0-2-2_7": null,
+"history/0-2-2_7": {
+"src": "art/photos/history/0-2-2_7.webp",
+"credit": "Unknown authorUnknown author · Public domain",
+"page": "https://commons.wikimedia.org/wiki/File:R_C_Majumdar.jpg",
+"file": "R_C_Majumdar.jpg",
+"v": 2
+},
 "history/0-2-2_8": null,
 "history/0-2-3_1": null,
 "history/0-2-3_2": null,
@@ -7571,7 +8885,13 @@
 "file": "Alai_Darwaza.JPG",
 "v": 2
 },
-"history/1-1-1_0": null,
+"history/1-1-1_0": {
+"src": "art/photos/history/1-1-1_0.webp",
+"credit": "Avantiputra7 · CC0",
+"page": "https://commons.wikimedia.org/wiki/File:Vijayanagara_Empire_c.1485.png",
+"file": "Vijayanagara_Empire_c.1485.png",
+"v": 2
+},
 "history/1-1-1_1": null,
 "history/1-1-1_2": {
 "src": "art/photos/history/1-1-1_2.webp",
@@ -7622,7 +8942,13 @@
 "history/1-2-0_4": null,
 "history/1-2-0_7": null,
 "history/1-2-0_8": null,
-"history/1-2-1_0": null,
+"history/1-2-1_0": {
+"src": "art/photos/history/1-2-1_0.webp",
+"credit": "Unknown · Public domain",
+"page": "https://commons.wikimedia.org/wiki/File:India1760_1905.jpg",
+"file": "India1760_1905.jpg",
+"v": 2
+},
 "history/1-2-1_1": null,
 "history/1-2-1_4": {
 "src": "art/photos/history/1-2-1_4.webp",
@@ -7640,7 +8966,13 @@
 "file": "Maharaj_Ranjit_Singh.jpg",
 "v": 2
 },
-"history/1-2-2_0": null,
+"history/1-2-2_0": {
+"src": "art/photos/history/1-2-2_0.webp",
+"credit": "Yann (talk) · CC BY-SA 4.0",
+"page": "https://commons.wikimedia.org/wiki/File:Taj_Mahal,_Agra,_India.jpg",
+"file": "Taj_Mahal,_Agra,_India.jpg",
+"v": 2
+},
 "history/1-2-2_1": null,
 "history/1-2-2_2": {
 "src": "art/photos/history/1-2-2_2.webp",
@@ -7682,7 +9014,13 @@
 "file": "Hamandir_Sahib_(Golden_Temple).jpg",
 "v": 2
 },
-"history/1-2-4_1": null,
+"history/1-2-4_1": {
+"src": "art/photos/history/1-2-4_1.webp",
+"credit": "Amritpal Singh Mann. Painted by Jaimal Singh Naqqash (1860–1916), Meht · CC BY-SA 4.0",
+"page": "https://commons.wikimedia.org/wiki/File:Mural_painting_of_Guru_Nanak_from_Gurdwara_Baba_Atal_Rai.jpg",
+"file": "Mural_painting_of_Guru_Nanak_from_Gurdwara_Baba_Atal_Rai.jpg",
+"v": 2
+},
 "history/1-2-4_2": null,
 "history/1-2-4_4": null,
 "history/1-2-4_6": {
@@ -7708,7 +9046,13 @@
 "file": "Nalvar.JPG",
 "v": 2
 },
-"history/1-3-0_2": null,
+"history/1-3-0_2": {
+"src": "art/photos/history/1-3-0_2.webp",
+"credit": "Unknown authorUnknown author · CC BY 4.0",
+"page": "https://commons.wikimedia.org/wiki/File:Ramanand.jpg",
+"file": "Ramanand.jpg",
+"v": 2
+},
 "history/1-3-0_4": null,
 "history/1-3-0_5": null,
 "history/1-3-0_8": null,
@@ -7765,7 +9109,13 @@
 "file": "Konarka_Temple.jpg",
 "v": 2
 },
-"history/2-0-1_1": null,
+"history/2-0-1_1": {
+"src": "art/photos/history/2-0-1_1.webp",
+"credit": "Bernard Gagnon · CC BY-SA 3.0",
+"page": "https://commons.wikimedia.org/wiki/File:Stupa_1,_Sanchi_02.jpg",
+"file": "Stupa_1,_Sanchi_02.jpg",
+"v": 2
+},
 "history/2-0-1_2": null,
 "history/2-0-1_4": {
 "src": "art/photos/history/2-0-1_4.webp",
@@ -7804,8 +9154,20 @@
 "file": "Descent_of_the_Ganges_01.jpg",
 "v": 2
 },
-"history/2-1-0_5": null,
-"history/2-1-0_7": null,
+"history/2-1-0_5": {
+"src": "art/photos/history/2-1-0_5.webp",
+"credit": "Jean-Pierre Dalbéra from Paris, France · CC BY 2.0",
+"page": "https://commons.wikimedia.org/wiki/File:Le_temple_de_Brihadishwara_(Tanjore,_Inde)_(14354574611).jpg",
+"file": "Le_temple_de_Brihadishwara_(Tanjore,_Inde)_(14354574611).jpg",
+"v": 2
+},
+"history/2-1-0_7": {
+"src": "art/photos/history/2-1-0_7.webp",
+"credit": "Alvin Langdon Coburn · Public domain",
+"page": "https://commons.wikimedia.org/wiki/File:Coomaraswamy.jpg",
+"file": "Coomaraswamy.jpg",
+"v": 2
+},
 "history/2-1-1_1": null,
 "history/2-1-1_2": {
 "src": "art/photos/history/2-1-1_2.webp",
@@ -7816,7 +9178,13 @@
 },
 "history/2-1-1_4": null,
 "history/2-1-1_5": null,
-"history/2-1-1_7": null,
+"history/2-1-1_7": {
+"src": "art/photos/history/2-1-1_7.webp",
+"credit": "Abanindranath Tagore · Public domain",
+"page": "https://commons.wikimedia.org/wiki/File:Bharat_Mata_by_Abanindranath_Tagore.jpg",
+"file": "Bharat_Mata_by_Abanindranath_Tagore.jpg",
+"v": 2
+},
 "history/2-1-1_8": null,
 "history/2-2-0_1": null,
 "history/2-2-0_2": null,
@@ -7840,7 +9208,13 @@
 "file": "Thoranayudham-_Madras1.jpg",
 "v": 2
 },
-"history/2-2-1_8": null,
+"history/2-2-1_8": {
+"src": "art/photos/history/2-2-1_8.webp",
+"credit": "John Henry Claude Wilson · Public domain",
+"page": "https://commons.wikimedia.org/wiki/File:Bismillah_Khan.jpg",
+"file": "Bismillah_Khan.jpg",
+"v": 2
+},
 "history/2-3-0_1": null,
 "history/2-3-0_2": null,
 "history/2-3-0_4": null,
@@ -7910,7 +9284,13 @@
 },
 "history/3-2-0_2": null,
 "history/3-2-0_4": null,
-"history/3-2-0_5": null,
+"history/3-2-0_5": {
+"src": "art/photos/history/3-2-0_5.webp",
+"credit": "Unknown authorUnknown author · Public domain",
+"page": "https://commons.wikimedia.org/wiki/File:Swatyantra_Vir_Savarkar.jpg",
+"file": "Swatyantra_Vir_Savarkar.jpg",
+"v": 2
+},
 "history/3-2-0_7": {
 "src": "art/photos/history/3-2-0_7.webp",
 "credit": "Alexander Bassano · Public domain",
@@ -7957,7 +9337,13 @@
 "history/3-4-1_2": null,
 "history/3-4-1_4": null,
 "history/3-4-1_5": null,
-"history/3-4-1_7": null,
+"history/3-4-1_7": {
+"src": "art/photos/history/3-4-1_7.webp",
+"credit": "Amarjit Chandan · CC BY-SA 4.0",
+"page": "https://commons.wikimedia.org/wiki/File:Bipan_Chander._Chandigarh._1979.jpg",
+"file": "Bipan_Chander._Chandigarh._1979.jpg",
+"v": 2
+},
 "history/3-4-1_8": null,
 "history/3-4-2_1": {
 "src": "art/photos/history/3-4-2_1.webp",
@@ -8053,10 +9439,22 @@
 },
 "history/5-0-0_7": null,
 "history/5-0-1_1": null,
-"history/5-0-1_2": null,
+"history/5-0-1_2": {
+"src": "art/photos/history/5-0-1_2.webp",
+"credit": "Don Troiani · Public domain",
+"page": "https://commons.wikimedia.org/wiki/File:Stand_your_ground_-_Don_Troiani_-_1985_(cropped).jpg",
+"file": "Stand_your_ground_-_Don_Troiani_-_1985_(cropped).jpg",
+"v": 2
+},
 "history/5-0-1_4": null,
 "history/5-0-1_5": null,
-"history/5-0-1_7": null,
+"history/5-0-1_7": {
+"src": "art/photos/history/5-0-1_7.webp",
+"credit": "Jules Marchand · CC BY-SA 3.0",
+"page": "https://commons.wikimedia.org/wiki/File:Georges_Lefebvre.jpg",
+"file": "Georges_Lefebvre.jpg",
+"v": 2
+},
 "history/5-0-1_8": null,
 "history/5-0-2_1": {
 "src": "art/photos/history/5-0-2_1.webp",
@@ -8081,7 +9479,13 @@
 },
 "history/5-0-2_5": null,
 "history/5-0-2_7": null,
-"history/5-1-0_1": null,
+"history/5-1-0_1": {
+"src": "art/photos/history/5-1-0_1.webp",
+"credit": "Edward Linley Sambourne · Public domain",
+"page": "https://commons.wikimedia.org/wiki/File:Punch_Rhodes_Colossus.png",
+"file": "Punch_Rhodes_Colossus.png",
+"v": 2
+},
 "history/5-1-0_2": {
 "src": "art/photos/history/5-1-0_2.webp",
 "credit": "NASA · Public domain",
@@ -8128,7 +9532,13 @@
 "file": "India_Gate_front.jpg",
 "v": 2
 },
-"history/5-1-2_1": null,
+"history/5-1-2_1": {
+"src": "art/photos/history/5-1-2_1.webp",
+"credit": "Unknown authorUnknown author or not provided · Public domain",
+"page": "https://commons.wikimedia.org/wiki/File:Unemployed_men_queued_outside_a_depression_soup_kitchen_opened_in_Chicago_by_Al_Capone,_02-1931_-_NARA_-_541927.jpg",
+"file": "Unemployed_men_queued_outside_a_depression_soup_kitchen_opened_in_Chicago_by_Al_Capone,_02-1931_-_NARA_-_541927.jpg",
+"v": 2
+},
 "history/5-1-2_2": {
 "src": "art/photos/history/5-1-2_2.webp",
 "credit": "Unknown · Public domain",
@@ -8137,7 +9547,13 @@
 "v": 2
 },
 "history/5-1-2_4": null,
-"history/5-1-2_5": null,
+"history/5-1-2_5": {
+"src": "art/photos/history/5-1-2_5.webp",
+"credit": "US government photographer · Public domain",
+"page": "https://commons.wikimedia.org/wiki/File:Yalta_Conference_(Churchill,_Roosevelt,_Stalin)_(B%26W).jpg",
+"file": "Yalta_Conference_(Churchill,_Roosevelt,_Stalin)_(B&W).jpg",
+"v": 2
+},
 "history/5-1-2_7": null,
 "history/5-2-0_1": null,
 "history/5-2-0_2": {
@@ -8174,7 +9590,13 @@
 "history/5-2-1_5": null,
 "history/5-2-1_7": null,
 "geography/0-0-0_0": null,
-"geography/0-0-0_1": null,
+"geography/0-0-0_1": {
+"src": "art/photos/geography/0-0-0_1.webp",
+"credit": "CharlesC · CC BY-SA 3.0",
+"page": "https://commons.wikimedia.org/wiki/File:Earth_cutaway.png",
+"file": "Earth_cutaway.png",
+"v": 2
+},
 "geography/0-0-0_2": null,
 "geography/0-0-0_4": {
 "src": "art/photos/geography/0-0-0_4.webp",
@@ -8250,13 +9672,31 @@
 "file": "Mt._Everest_from_Gokyo_Ri_November_5,_2012.jpg",
 "v": 2
 },
-"geography/0-0-2_2": null,
+"geography/0-0-2_2": {
+"src": "art/photos/geography/0-0-2_2.webp",
+"credit": "Galeria del Ministerio de Defensa del Perú · CC BY 2.0",
+"page": "https://commons.wikimedia.org/wiki/File:Landslide_in_Cusco,_Peru_-_2018.jpg",
+"file": "Landslide_in_Cusco,_Peru_-_2018.jpg",
+"v": 2
+},
 "geography/0-0-2_4": null,
 "geography/0-0-2_5": null,
 "geography/0-0-2_7": null,
 "geography/0-0-2_8": null,
-"geography/0-0-3_0": null,
-"geography/0-0-3_1": null,
+"geography/0-0-3_0": {
+"src": "art/photos/geography/0-0-3_0.webp",
+"credit": "Nepenthes · CC BY-SA 3.0",
+"page": "https://commons.wikimedia.org/wiki/File:Rub_al_Khali_002.JPG",
+"file": "Rub_al_Khali_002.JPG",
+"v": 2
+},
+"geography/0-0-3_1": {
+"src": "art/photos/geography/0-0-3_1.webp",
+"credit": "Basile Morin · CC BY-SA 4.0",
+"page": "https://commons.wikimedia.org/wiki/File:Pirogue_running_on_the_Mekong_at_golden_hour_between_Don_Det_and_Don_Khon_Laos.jpg",
+"file": "Pirogue_running_on_the_Mekong_at_golden_hour_between_Don_Det_and_Don_Khon_Laos.jpg",
+"v": 2
+},
 "geography/0-0-3_2": null,
 "geography/0-0-3_4": {
 "src": "art/photos/geography/0-0-3_4.webp",
@@ -8273,7 +9713,13 @@
 "v": 2
 },
 "geography/0-0-3_7": null,
-"geography/0-0-3_8": null,
+"geography/0-0-3_8": {
+"src": "art/photos/geography/0-0-3_8.webp",
+"credit": "sushmita balasubramani · CC BY 2.0",
+"page": "https://commons.wikimedia.org/wiki/File:Thar_desert_Rajasthan_India.jpg",
+"file": "Thar_desert_Rajasthan_India.jpg",
+"v": 2
+},
 "geography/0-0-4_0": {
 "src": "art/photos/geography/0-0-4_0.webp",
 "credit": "Terra (EOS AM-1) satellite · Public domain",
@@ -8330,7 +9776,13 @@
 "geography/0-1-0_5": null,
 "geography/0-1-0_7": null,
 "geography/0-1-0_8": null,
-"geography/0-1-1_0": null,
+"geography/0-1-1_0": {
+"src": "art/photos/geography/0-1-1_0.webp",
+"credit": "KVDP · Public domain",
+"page": "https://commons.wikimedia.org/wiki/File:Map_prevailing_winds_on_earth.png",
+"file": "Map_prevailing_winds_on_earth.png",
+"v": 2
+},
 "geography/0-1-1_1": null,
 "geography/0-1-1_2": null,
 "geography/0-1-1_4": null,
@@ -8399,7 +9851,13 @@
 "file": "Sahara_real_color.jpg",
 "v": 2
 },
-"geography/0-1-3_1": null,
+"geography/0-1-3_1": {
+"src": "art/photos/geography/0-1-3_1.webp",
+"credit": "Unknown authorUnknown author · Public domain",
+"page": "https://commons.wikimedia.org/wiki/File:W_Koppen.png",
+"file": "W_Koppen.png",
+"v": 2
+},
 "geography/0-1-3_2": {
 "src": "art/photos/geography/0-1-3_2.webp",
 "credit": "CIAT · CC BY-SA 2.0",
@@ -8407,7 +9865,13 @@
 "file": "Amazon17_(5641020319).jpg",
 "v": 2
 },
-"geography/0-1-3_4": null,
+"geography/0-1-3_4": {
+"src": "art/photos/geography/0-1-3_4.webp",
+"credit": "Bartosh Dmytro, Ukraine, Kiev. http://fotostudio.com.ua · CC BY 3.0",
+"page": "https://commons.wikimedia.org/wiki/File:Jack_London_Lake_by_bartosh.jpg",
+"file": "Jack_London_Lake_by_bartosh.jpg",
+"v": 2
+},
 "geography/0-1-3_5": {
 "src": "art/photos/geography/0-1-3_5.webp",
 "credit": "PAR · Public domain",
@@ -8415,7 +9879,13 @@
 "file": "LaNina.png",
 "v": 2
 },
-"geography/0-1-3_7": null,
+"geography/0-1-3_7": {
+"src": "art/photos/geography/0-1-3_7.webp",
+"credit": "NOAA · Public domain",
+"page": "https://commons.wikimedia.org/wiki/File:MJO_5-day_running_mean_through_1_Oct_2006.png",
+"file": "MJO_5-day_running_mean_through_1_Oct_2006.png",
+"v": 2
+},
 "geography/0-1-3_8": null,
 "geography/0-1-4_0": null,
 "geography/0-1-4_1": null,
@@ -8448,10 +9918,22 @@
 "file": "Boathouse_(7063399547).jpg",
 "v": 2
 },
-"geography/0-1-5_0": null,
+"geography/0-1-5_0": {
+"src": "art/photos/geography/0-1-5_0.webp",
+"credit": "Unknown authorUnknown author · CC BY-SA 4.0",
+"page": "https://commons.wikimedia.org/wiki/File:Vilhelm_Bjerknes_Bust_01.jpg",
+"file": "Vilhelm_Bjerknes_Bust_01.jpg",
+"v": 2
+},
 "geography/0-1-5_1": null,
 "geography/0-1-5_2": null,
-"geography/0-1-5_4": null,
+"geography/0-1-5_4": {
+"src": "art/photos/geography/0-1-5_4.webp",
+"credit": "Hedvig Bjerknes · CC BY-SA 4.0",
+"page": "https://commons.wikimedia.org/wiki/File:Jacob_bjerknes_headshot.jpg",
+"file": "Jacob_bjerknes_headshot.jpg",
+"v": 2
+},
 "geography/0-1-5_5": null,
 "geography/0-1-5_7": {
 "src": "art/photos/geography/0-1-5_7.webp",
@@ -8476,7 +9958,13 @@
 },
 "geography/0-2-0_0": null,
 "geography/0-2-0_1": null,
-"geography/0-2-0_2": null,
+"geography/0-2-0_2": {
+"src": "art/photos/geography/0-2-0_2.webp",
+"credit": "National Oceanic and Atmospheric Administration · Public domain",
+"page": "https://commons.wikimedia.org/wiki/File:Bear_Seamount.jpg",
+"file": "Bear_Seamount.jpg",
+"v": 2
+},
 "geography/0-2-0_4": null,
 "geography/0-2-0_5": {
 "src": "art/photos/geography/0-2-0_5.webp",
@@ -8487,10 +9975,22 @@
 },
 "geography/0-2-0_7": null,
 "geography/0-2-0_8": null,
-"geography/0-2-1_0": null,
+"geography/0-2-1_0": {
+"src": "art/photos/geography/0-2-1_0.webp",
+"credit": "NOAA · Public domain",
+"page": "https://commons.wikimedia.org/wiki/File:Oceanic_gyres.png",
+"file": "Oceanic_gyres.png",
+"v": 2
+},
 "geography/0-2-1_1": null,
 "geography/0-2-1_2": null,
-"geography/0-2-1_4": null,
+"geography/0-2-1_4": {
+"src": "art/photos/geography/0-2-1_4.webp",
+"credit": "w:user:PlaneMad · CC BY-SA 3.0",
+"page": "https://commons.wikimedia.org/wiki/File:Monsoon_clouds_near_Nagercoil.jpg",
+"file": "Monsoon_clouds_near_Nagercoil.jpg",
+"v": 2
+},
 "geography/0-2-1_5": null,
 "geography/0-2-1_7": null,
 "geography/0-2-1_8": null,
@@ -8510,7 +10010,13 @@
 "v": 2
 },
 "geography/0-2-2_4": null,
-"geography/0-2-2_5": null,
+"geography/0-2-2_5": {
+"src": "art/photos/geography/0-2-2_5.webp",
+"credit": "MODIS Land Rapid Response Team, NASA/GSFC · Public domain",
+"page": "https://commons.wikimedia.org/wiki/File:Satellite_image_of_Belize_in_March_31,_2002.jpg",
+"file": "Satellite_image_of_Belize_in_March_31,_2002.jpg",
+"v": 2
+},
 "geography/0-2-2_7": {
 "src": "art/photos/geography/0-2-2_7.webp",
 "credit": "Ariefrahman · CC BY-SA 4.0",
@@ -8548,7 +10054,13 @@
 },
 "geography/0-3-0_2": null,
 "geography/0-3-0_4": null,
-"geography/0-3-0_5": null,
+"geography/0-3-0_5": {
+"src": "art/photos/geography/0-3-0_5.webp",
+"credit": "Forest &amp; Kim Starr · CC BY 3.0",
+"page": "https://commons.wikimedia.org/wiki/File:Starr_010304-0485_Tectona_grandis.jpg",
+"file": "Starr_010304-0485_Tectona_grandis.jpg",
+"v": 2
+},
 "geography/0-3-0_7": {
 "src": "art/photos/geography/0-3-0_7.webp",
 "credit": "Cherlet, M., Hutchinson, C., Reynolds, J., Hill, J., Sommer, S., von M · CC BY 4.0",
@@ -8561,7 +10073,13 @@
 "geography/0-3-1_1": null,
 "geography/0-3-1_2": null,
 "geography/0-3-1_4": null,
-"geography/0-3-1_5": null,
+"geography/0-3-1_5": {
+"src": "art/photos/geography/0-3-1_5.webp",
+"credit": "The original uploader was Antandrus at English Wikipedia. · CC BY-SA 3.0",
+"page": "https://commons.wikimedia.org/wiki/File:Chaparral1.jpg",
+"file": "Chaparral1.jpg",
+"v": 2
+},
 "geography/0-3-1_7": {
 "src": "art/photos/geography/0-3-1_7.webp",
 "credit": "Dolph Kohnstamm · CC BY-SA 3.0",
@@ -8646,7 +10164,13 @@
 "file": "Baltoro_glacier_from_air.jpg",
 "v": 2
 },
-"geography/1-0-2_1": null,
+"geography/1-0-2_1": {
+"src": "art/photos/geography/1-0-2_1.webp",
+"credit": "Corto Maltese 1999 · CC BY 2.0",
+"page": "https://commons.wikimedia.org/wiki/File:Zanskar_Valley.jpg",
+"file": "Zanskar_Valley.jpg",
+"v": 2
+},
 "geography/1-0-2_2": null,
 "geography/1-0-2_4": null,
 "geography/1-0-2_5": {
@@ -8664,7 +10188,13 @@
 "file": "Atal_Tunnel_vrtmrgmpksk_(2).jpg",
 "v": 2
 },
-"geography/1-0-3_0": null,
+"geography/1-0-3_0": {
+"src": "art/photos/geography/1-0-3_0.webp",
+"credit": "Utpal Nag · CC BY-SA 4.0",
+"page": "https://commons.wikimedia.org/wiki/File:Golden_Temple,_Amritsar,_Punjab_UNAG.jpg",
+"file": "Golden_Temple,_Amritsar,_Punjab_UNAG.jpg",
+"v": 2
+},
 "geography/1-0-3_1": {
 "src": "art/photos/geography/1-0-3_1.webp",
 "credit": "Nick (NJR ZA) · CC BY-SA 3.0",
@@ -8745,7 +10275,13 @@
 },
 "geography/1-1-1_4": null,
 "geography/1-1-1_5": null,
-"geography/1-1-1_6": null,
+"geography/1-1-1_6": {
+"src": "art/photos/geography/1-1-1_6.webp",
+"credit": "Unknown · Public domain",
+"page": "https://commons.wikimedia.org/wiki/File:Shorea_robusta.jpg",
+"file": "Shorea_robusta.jpg",
+"v": 2
+},
 "geography/1-1-1_8": null,
 "geography/1-1-1_9": null,
 "geography/1-1-2_0": null,
@@ -8756,7 +10292,13 @@
 "file": "USGS_WaterCycle_English_ONLINE_20221013.png",
 "v": 2
 },
-"geography/1-1-2_2": null,
+"geography/1-1-2_2": {
+"src": "art/photos/geography/1-1-2_2.webp",
+"credit": "kallerna · CC BY-SA 4.0",
+"page": "https://commons.wikimedia.org/wiki/File:Fields_SW_from_Sevilla.jpg",
+"file": "Fields_SW_from_Sevilla.jpg",
+"v": 2
+},
 "geography/1-1-2_4": {
 "src": "art/photos/geography/1-1-2_4.webp",
 "credit": "Magentic Manifestations · CC BY-SA 4.0",
@@ -8791,7 +10333,13 @@
 },
 "geography/1-1-3_5": null,
 "geography/1-1-3_7": null,
-"geography/1-1-3_8": null,
+"geography/1-1-3_8": {
+"src": "art/photos/geography/1-1-3_8.webp",
+"credit": "kallerna · CC BY-SA 4.0",
+"page": "https://commons.wikimedia.org/wiki/File:Vehn%C3%A4pelto_6.jpg",
+"file": "Vehnäpelto_6.jpg",
+"v": 2
+},
 "geography/1-1-4_0": {
 "src": "art/photos/geography/1-1-4_0.webp",
 "credit": "Boqiang Liao from Athens,Ohio , US · CC BY-SA 2.0",
@@ -8837,7 +10385,13 @@
 "v": 2
 },
 "geography/1-1-6_0": null,
-"geography/1-1-6_1": null,
+"geography/1-1-6_1": {
+"src": "art/photos/geography/1-1-6_1.webp",
+"credit": "Constantin Shapiro · Public domain",
+"page": "https://commons.wikimedia.org/wiki/File:Dokuchaev_1888.jpg",
+"file": "Dokuchaev_1888.jpg",
+"v": 2
+},
 "geography/1-1-6_2": null,
 "geography/1-1-6_4": {
 "src": "art/photos/geography/1-1-6_4.webp",
@@ -8847,11 +10401,23 @@
 "v": 2
 },
 "geography/1-1-6_5": null,
-"geography/1-1-6_7": null,
+"geography/1-1-6_7": {
+"src": "art/photos/geography/1-1-6_7.webp",
+"credit": "Katharina Helming · CC BY-SA 1.0",
+"page": "https://commons.wikimedia.org/wiki/File:Eroding_rill_in_field_in_eastern_Germany.jpg",
+"file": "Eroding_rill_in_field_in_eastern_Germany.jpg",
+"v": 2
+},
 "geography/1-1-6_8": null,
 "geography/1-1-7_0": null,
 "geography/1-1-7_1": null,
-"geography/1-1-7_2": null,
+"geography/1-1-7_2": {
+"src": "art/photos/geography/1-1-7_2.webp",
+"credit": "Puru150 · CC BY-SA 4.0",
+"page": "https://commons.wikimedia.org/wiki/File:Sunrise_at_Bhitarakanika.jpg",
+"file": "Sunrise_at_Bhitarakanika.jpg",
+"v": 2
+},
 "geography/1-1-7_4": {
 "src": "art/photos/geography/1-1-7_4.webp",
 "credit": "Sudiptorana · CC BY-SA 4.0",
@@ -8887,7 +10453,13 @@
 "geography/1-2-0_5": null,
 "geography/1-2-0_7": null,
 "geography/1-2-0_8": null,
-"geography/1-2-1_0": null,
+"geography/1-2-1_0": {
+"src": "art/photos/geography/1-2-1_0.webp",
+"credit": "ArcelorMittal Kryvyi Rih · CC BY-SA 4.0",
+"page": "https://commons.wikimedia.org/wiki/File:%D0%90%D1%80%D0%BC%D0%B0%D1%82%D1%83%D1%80%D0%BD%D1%8B%D0%B9_%D0%BF%D1%80%D0%BE%D0%BA%D0%B0%D1%82.jpg",
+"file": "Арматурный_прокат.jpg",
+"v": 2
+},
 "geography/1-2-1_1": {
 "src": "art/photos/geography/1-2-1_1.webp",
 "credit": "Pankaj Oudhia · CC BY-SA 3.0",
@@ -8895,7 +10467,13 @@
 "file": "Bhoramdeo_Temple,_Kawardha.jpg",
 "v": 2
 },
-"geography/1-2-1_2": null,
+"geography/1-2-1_2": {
+"src": "art/photos/geography/1-2-1_2.webp",
+"credit": "Eurico Zimbres · CC BY-SA 2.0 br",
+"page": "https://commons.wikimedia.org/wiki/File:HematitaEZ.jpg",
+"file": "HematitaEZ.jpg",
+"v": 2
+},
 "geography/1-2-1_4": {
 "src": "art/photos/geography/1-2-1_4.webp",
 "credit": "Subhashish Panigrahi · CC BY-SA 3.0",
@@ -8941,7 +10519,13 @@
 "file": "HooghlyRiverOverBally_gobeirne.jpg",
 "v": 2
 },
-"geography/1-2-2_7": null,
+"geography/1-2-2_7": {
+"src": "art/photos/geography/1-2-2_7.webp",
+"credit": "Jawahar Soneji · CC BY-SA 4.0",
+"page": "https://commons.wikimedia.org/wiki/File:Gateway_of_India_-Mumbai.jpg",
+"file": "Gateway_of_India_-Mumbai.jpg",
+"v": 2
+},
 "geography/1-2-2_8": null,
 "geography/1-2-3_0": {
 "src": "art/photos/geography/1-2-3_0.webp",
@@ -8973,14 +10557,26 @@
 "file": "Warehouse_in_New_Jersey_where_trucks_deliver_granite_slabs.jpg",
 "v": 2
 },
-"geography/1-2-3_8": null,
+"geography/1-2-3_8": {
+"src": "art/photos/geography/1-2-3_8.webp",
+"credit": "Amohammadid · CC BY-SA 4.0",
+"page": "https://commons.wikimedia.org/wiki/File:%D9%85%D8%AD%D9%88%D8%B7%D9%87_%D8%B4%D9%87%DB%8C%D8%AF%DA%A9%D9%84%D8%A7%D9%86%D8%AA%D8%B1%DB%8C.jpg",
+"file": "محوطه_شهیدکلانتری.jpg",
+"v": 2
+},
 "geography/1-2-4_0": null,
 "geography/1-2-4_1": null,
 "geography/1-2-4_2": null,
 "geography/1-2-4_4": null,
 "geography/1-2-4_5": null,
 "geography/1-2-4_7": null,
-"geography/1-2-4_8": null,
+"geography/1-2-4_8": {
+"src": "art/photos/geography/1-2-4_8.webp",
+"credit": "Unknown · Public domain",
+"page": "https://commons.wikimedia.org/wiki/File:Grain_millet,_early_grain_fill,_Tifton,_7-3-02.jpg",
+"file": "Grain_millet,_early_grain_fill,_Tifton,_7-3-02.jpg",
+"v": 2
+},
 "geography/1-2-5_0": null,
 "geography/1-2-5_1": {
 "src": "art/photos/geography/1-2-5_1.webp",
@@ -9163,7 +10759,13 @@
 "file": "Bethlehem_Steel_(1).JPG",
 "v": 2
 },
-"geography/2-0-1_1": null,
+"geography/2-0-1_1": {
+"src": "art/photos/geography/2-0-1_1.webp",
+"credit": "Wizzard · Public domain",
+"page": "https://commons.wikimedia.org/wiki/File:Cvernovka_1.jpg",
+"file": "Cvernovka_1.jpg",
+"v": 2
+},
 "geography/2-0-1_2": null,
 "geography/2-0-1_4": {
 "src": "art/photos/geography/2-0-1_4.webp",
@@ -9218,8 +10820,20 @@
 "file": "Mica_(6911818878).jpg",
 "v": 2
 },
-"geography/2-0-3_0": null,
-"geography/2-0-3_1": null,
+"geography/2-0-3_0": {
+"src": "art/photos/geography/2-0-3_0.webp",
+"credit": "Laura Wilson farm , USDA Natural Resources Conservation Service · Public domain",
+"page": "https://commons.wikimedia.org/wiki/File:PivotWithDrops.JPG",
+"file": "PivotWithDrops.JPG",
+"v": 2
+},
+"geography/2-0-3_1": {
+"src": "art/photos/geography/2-0-3_1.webp",
+"credit": "Amcaja · CC BY-SA 3.0",
+"page": "https://commons.wikimedia.org/wiki/File:Bakweri_cocoyam_farmer_from_Cameroon.jpg",
+"file": "Bakweri_cocoyam_farmer_from_Cameroon.jpg",
+"v": 2
+},
 "geography/2-0-3_2": null,
 "geography/2-0-3_4": null,
 "geography/2-0-3_5": {
@@ -9235,7 +10849,13 @@
 "geography/2-0-4_1": null,
 "geography/2-0-4_2": null,
 "geography/2-0-4_4": null,
-"geography/2-0-4_5": null,
+"geography/2-0-4_5": {
+"src": "art/photos/geography/2-0-4_5.webp",
+"credit": "Shamil Khakirov from Ukraine · CC BY-SA 2.0",
+"page": "https://commons.wikimedia.org/wiki/File:Sviatohirsk_Cave_Monastery_in_Ukraine.jpg",
+"file": "Sviatohirsk_Cave_Monastery_in_Ukraine.jpg",
+"v": 2
+},
 "geography/2-0-4_7": null,
 "geography/2-0-4_8": null,
 "geography/2-1-0_0": null,
@@ -9361,7 +10981,13 @@
 "geography/2-2-0_1": null,
 "geography/2-2-0_2": null,
 "geography/2-2-0_4": null,
-"geography/2-2-0_5": null,
+"geography/2-2-0_5": {
+"src": "art/photos/geography/2-2-0_5.webp",
+"credit": "Alan Wilson · CC BY-SA 3.0",
+"page": "https://commons.wikimedia.org/wiki/File:Polar_Bear_-_Alaska_(cropped).jpg",
+"file": "Polar_Bear_-_Alaska_(cropped).jpg",
+"v": 2
+},
 "geography/2-2-0_7": null,
 "geography/2-2-0_8": null,
 "geography/2-2-1_0": {
@@ -9451,7 +11077,13 @@
 "geography/3-1-0_2": null,
 "geography/3-1-0_4": null,
 "geography/3-1-0_5": null,
-"geography/3-1-0_7": null,
+"geography/3-1-0_7": {
+"src": "art/photos/geography/3-1-0_7.webp",
+"credit": "United States. Central Intelligence Agency. · Public domain",
+"page": "https://commons.wikimedia.org/wiki/File:China_India_CIA_map_border_disputes.jpg",
+"file": "China_India_CIA_map_border_disputes.jpg",
+"v": 2
+},
 "geography/3-1-0_8": {
 "src": "art/photos/geography/3-1-0_8.webp",
 "credit": "Ankur; Additions to original map by uploader. · CC BY-SA 3.0",
@@ -9499,7 +11131,13 @@
 "file": "Portrait_of_a_Mathematician_1680c.jpg",
 "v": 2
 },
-"biology/0-0-0_6": null,
+"biology/0-0-0_6": {
+"src": "art/photos/biology/0-0-0_6.webp",
+"credit": "Alexey Solodovnikov (Idea, Producer, CG, Editor), Valeria Arkhipova (S · CC BY-SA 4.0",
+"page": "https://commons.wikimedia.org/wiki/File:Coronavirus._SARS-CoV-2.png",
+"file": "Coronavirus._SARS-CoV-2.png",
+"v": 2
+},
 "biology/0-0-0_9": {
 "src": "art/photos/biology/0-0-0_9.webp",
 "credit": "The Birth Centenary Committee, printed by P.C. Ray · Public domain",
@@ -9552,14 +11190,50 @@
 "file": "Monkombu_Sambasivan_Swaminathan_-_Kolkata_2013-01-07_2674.JPG",
 "v": 2
 },
-"biology/0-0-5_0": null,
-"biology/0-0-5_4": null,
-"biology/0-0-5_5": null,
+"biology/0-0-5_0": {
+"src": "art/photos/biology/0-0-5_0.webp",
+"credit": "3268zauber · CC BY-SA 3.0",
+"page": "https://commons.wikimedia.org/wiki/File:Korb_mit_Br%C3%B6tchen.JPG",
+"file": "Korb_mit_Brötchen.JPG",
+"v": 2
+},
+"biology/0-0-5_4": {
+"src": "art/photos/biology/0-0-5_4.webp",
+"credit": "Alex.X · CC BY-SA 3.0",
+"page": "https://commons.wikimedia.org/wiki/File:Atp_synthase.PNG",
+"file": "Atp_synthase.PNG",
+"v": 2
+},
+"biology/0-0-5_5": {
+"src": "art/photos/biology/0-0-5_5.webp",
+"credit": "Masur · Public domain",
+"page": "https://commons.wikimedia.org/wiki/File:S_cerevisiae_under_DIC_microscopy.jpg",
+"file": "S_cerevisiae_under_DIC_microscopy.jpg",
+"v": 2
+},
 "biology/0-0-5_8": null,
-"biology/0-0-6_2": null,
-"biology/0-0-6_5": null,
+"biology/0-0-6_2": {
+"src": "art/photos/biology/0-0-6_2.webp",
+"credit": "Unknown authorUnknown author · Public domain",
+"page": "https://commons.wikimedia.org/wiki/File:Walther_flemming_2.jpg",
+"file": "Walther_flemming_2.jpg",
+"v": 2
+},
+"biology/0-0-6_5": {
+"src": "art/photos/biology/0-0-6_5.webp",
+"credit": "Vanellus Foto · CC BY-SA 3.0",
+"page": "https://commons.wikimedia.org/wiki/File:Boy_with_Down_Syndrome.JPG",
+"file": "Boy_with_Down_Syndrome.JPG",
+"v": 2
+},
 "biology/0-0-6_8": null,
-"biology/1-0-0_1": null,
+"biology/1-0-0_1": {
+"src": "art/photos/biology/1-0-0_1.webp",
+"credit": "Rasbak · CC BY-SA 3.0",
+"page": "https://commons.wikimedia.org/wiki/File:Doperwt_rijserwt_peulen_Pisum_sativum.jpg",
+"file": "Doperwt_rijserwt_peulen_Pisum_sativum.jpg",
+"v": 2
+},
 "biology/1-0-0_5": {
 "src": "art/photos/biology/1-0-0_5.webp",
 "credit": "Craig Franklin · CC BY-SA 3.0 au",
@@ -9570,7 +11244,13 @@
 "biology/1-0-0_8": null,
 "biology/1-0-1_1": null,
 "biology/1-0-1_2": null,
-"biology/1-0-1_4": null,
+"biology/1-0-1_4": {
+"src": "art/photos/biology/1-0-1_4.webp",
+"credit": "Yikrazuul · CC BY-SA 3.0",
+"page": "https://commons.wikimedia.org/wiki/File:DNA_polymerase.png",
+"file": "DNA_polymerase.png",
+"v": 2
+},
 "biology/1-0-1_5": {
 "src": "art/photos/biology/1-0-1_5.webp",
 "credit": "Richard Wheeler (Zephyris) · CC BY-SA 3.0",
@@ -9617,7 +11297,13 @@
 "file": "Oncogenes_illustration.jpg",
 "v": 2
 },
-"biology/1-0-4_8": null,
+"biology/1-0-4_8": {
+"src": "art/photos/biology/1-0-4_8.webp",
+"credit": "Prof. Osaro Erhabor · CC BY-SA 4.0",
+"page": "https://commons.wikimedia.org/wiki/File:Delta_Beta_Thalassemia.jpg",
+"file": "Delta_Beta_Thalassemia.jpg",
+"v": 2
+},
 "biology/1-0-5_0": {
 "src": "art/photos/biology/1-0-5_0.webp",
 "credit": "User:AtikaAtikawa · CC BY-SA 4.0",
@@ -9685,7 +11371,13 @@
 "file": "Apeldoorn_Apenheul_zoo_Bonobo.jpg",
 "v": 2
 },
-"biology/2-0-3_2": null,
+"biology/2-0-3_2": {
+"src": "art/photos/biology/2-0-3_2.webp",
+"credit": "120 · CC BY 2.5",
+"page": "https://commons.wikimedia.org/wiki/File:Reconstruction_of_the_fossil_skeleton_of_%22Lucy%22_the_Australopithecus_afarensis.jpg",
+"file": "Reconstruction_of_the_fossil_skeleton_of_\"Lucy\"_the_Australopithecus_afarensis.jpg",
+"v": 2
+},
 "biology/2-0-3_8": null,
 "biology/3-0-0_2": null,
 "biology/3-0-0_4": null,
@@ -9697,9 +11389,27 @@
 "v": 2
 },
 "biology/3-0-0_9": null,
-"biology/3-0-1_1": null,
-"biology/3-0-1_4": null,
-"biology/3-0-1_5": null,
+"biology/3-0-1_1": {
+"src": "art/photos/biology/3-0-1_1.webp",
+"credit": "BruceBlaus. When using this image in external sources it can be cited  · CC BY 3.0",
+"page": "https://commons.wikimedia.org/wiki/File:Blausen_0761_RedBloodCells.png",
+"file": "Blausen_0761_RedBloodCells.png",
+"v": 2
+},
+"biology/3-0-1_4": {
+"src": "art/photos/biology/3-0-1_4.webp",
+"credit": "J. Heuser · CC BY 2.5",
+"page": "https://commons.wikimedia.org/wiki/File:Reizleitungssystem_1.png",
+"file": "Reizleitungssystem_1.png",
+"v": 2
+},
+"biology/3-0-1_5": {
+"src": "art/photos/biology/3-0-1_5.webp",
+"credit": "BruceBlaus. When using this image in external sources it can be cited  · CC BY 3.0",
+"page": "https://commons.wikimedia.org/wiki/File:Blausen_0257_CoronaryArtery_Plaque.png",
+"file": "Blausen_0257_CoronaryArtery_Plaque.png",
+"v": 2
+},
 "biology/3-0-1_8": null,
 "biology/3-0-2_1": null,
 "biology/3-0-2_2": null,
@@ -9745,7 +11455,13 @@
 "v": 2
 },
 "biology/3-0-4_9": null,
-"biology/3-0-5_1": null,
+"biology/3-0-5_1": {
+"src": "art/photos/biology/3-0-5_1.webp",
+"credit": "Mikael Häggström, M.D. Author info - Reusing images- Conflicts of inte · CC0",
+"page": "https://commons.wikimedia.org/wiki/File:Cytology_of_a_macrophage.png",
+"file": "Cytology_of_a_macrophage.png",
+"v": 2
+},
 "biology/3-0-5_2": {
 "src": "art/photos/biology/3-0-5_2.webp",
 "credit": "Immcarle105 · CC BY-SA 4.0",
@@ -9782,8 +11498,20 @@
 "file": "Healthy_Placenta.jpg",
 "v": 2
 },
-"biology/3-0-6_6": null,
-"biology/3-0-6_9": null,
+"biology/3-0-6_6": {
+"src": "art/photos/biology/3-0-6_6.webp",
+"credit": "Sarahmirk · CC BY-SA 4.0",
+"page": "https://commons.wikimedia.org/wiki/File:Mirena_IUD_with_hand.jpg",
+"file": "Mirena_IUD_with_hand.jpg",
+"v": 2
+},
+"biology/3-0-6_9": {
+"src": "art/photos/biology/3-0-6_9.webp",
+"credit": "NalGup20 · CC BY-SA 4.0",
+"page": "https://commons.wikimedia.org/wiki/File:Kolkata_maidan.jpg",
+"file": "Kolkata_maidan.jpg",
+"v": 2
+},
 "biology/4-0-0_2": null,
 "biology/4-0-0_4": {
 "src": "art/photos/biology/4-0-0_4.webp",
@@ -9801,7 +11529,13 @@
 },
 "biology/4-0-0_8": null,
 "biology/4-0-1_1": null,
-"biology/4-0-1_2": null,
+"biology/4-0-1_2": {
+"src": "art/photos/biology/4-0-1_2.webp",
+"credit": "Photohound · Public domain",
+"page": "https://commons.wikimedia.org/wiki/File:Tomato_leaf_stomate_1-color.jpg",
+"file": "Tomato_leaf_stomate_1-color.jpg",
+"v": 2
+},
 "biology/4-0-1_4": null,
 "biology/4-0-1_5": {
 "src": "art/photos/biology/4-0-1_5.webp",
@@ -9850,7 +11584,13 @@
 "biology/4-0-3_1": null,
 "biology/4-0-3_2": null,
 "biology/4-0-3_5": null,
-"biology/4-0-3_6": null,
+"biology/4-0-3_6": {
+"src": "art/photos/biology/4-0-3_6.webp",
+"credit": "User:IlyaHaykinson · CC BY-SA 1.0",
+"page": "https://commons.wikimedia.org/wiki/File:Beaver_dam_in_Tierra_del_Fuego.jpg",
+"file": "Beaver_dam_in_Tierra_del_Fuego.jpg",
+"v": 2
+},
 "biology/4-0-3_9": null,
 "biology/4-0-4_0": {
 "src": "art/photos/biology/4-0-4_0.webp",
@@ -9875,7 +11615,13 @@
 "v": 2
 },
 "communism/0-0-0_0": null,
-"communism/0-0-0_1": null,
+"communism/0-0-0_1": {
+"src": "art/photos/communism/0-0-0_1.webp",
+"credit": "Illustrator T. Allom, Engraver J. Tingle · Public domain",
+"page": "https://commons.wikimedia.org/wiki/File:Powerloom_weaving_in_1835.jpg",
+"file": "Powerloom_weaving_in_1835.jpg",
+"v": 2
+},
 "communism/0-0-0_2": {
 "src": "art/photos/communism/0-0-0_2.webp",
 "credit": "mrpbps · CC BY 2.0",
@@ -9897,7 +11643,13 @@
 "file": "Communist-manifesto.png",
 "v": 2
 },
-"communism/0-0-0_7": null,
+"communism/0-0-0_7": {
+"src": "art/photos/communism/0-0-0_7.webp",
+"credit": "The original uploader was DickClarkMises at English Wikipedia. · CC BY-SA 3.0",
+"page": "https://commons.wikimedia.org/wiki/File:Friedrich_Hayek_portrait.jpg",
+"file": "Friedrich_Hayek_portrait.jpg",
+"v": 2
+},
 "communism/0-0-0_8": null,
 "communism/0-0-1_0": null,
 "communism/0-0-1_1": null,
@@ -9908,8 +11660,20 @@
 "file": "Phänomenologie_des_Geistes.jpg",
 "v": 2
 },
-"communism/0-0-1_4": null,
-"communism/0-0-1_5": null,
+"communism/0-0-1_4": {
+"src": "art/photos/communism/0-0-1_4.webp",
+"credit": "Unknown authorUnknown author · Public domain",
+"page": "https://commons.wikimedia.org/wiki/File:Ludwig_Feuerbach_(cropped).jpg",
+"file": "Ludwig_Feuerbach_(cropped).jpg",
+"v": 2
+},
+"communism/0-0-1_5": {
+"src": "art/photos/communism/0-0-1_5.webp",
+"credit": "Zentralbibliothek Zürich · Public domain",
+"page": "https://commons.wikimedia.org/wiki/File:Zentralbibliothek_Z%C3%BCrich_Das_Kapital_Marx_1867.jpg",
+"file": "Zentralbibliothek_Zürich_Das_Kapital_Marx_1867.jpg",
+"v": 2
+},
 "communism/0-0-1_7": null,
 "communism/0-0-1_8": null,
 "communism/0-0-2_0": {
@@ -9934,11 +11698,29 @@
 "file": "Blanqui_Louis-Auguste_(1805-1881)._Révolutionnaire_et_activiste,_il_est_de_toutes_les_manifestations_qui_prône_l'_égal,_PH4142-49_(cropped).jpg",
 "v": 2
 },
-"communism/0-0-2_5": null,
-"communism/0-0-2_7": null,
+"communism/0-0-2_5": {
+"src": "art/photos/communism/0-0-2_5.webp",
+"credit": "Étienne Carjat · Public domain",
+"page": "https://commons.wikimedia.org/wiki/File:Louis_Blanc_by_Carjat_1848.jpg",
+"file": "Louis_Blanc_by_Carjat_1848.jpg",
+"v": 2
+},
+"communism/0-0-2_7": {
+"src": "art/photos/communism/0-0-2_7.webp",
+"credit": "Nadar · Public domain",
+"page": "https://commons.wikimedia.org/wiki/File:Mikhail_Bakunin_Nader_(3x4_cropped).jpg",
+"file": "Mikhail_Bakunin_Nader_(3x4_cropped).jpg",
+"v": 2
+},
 "communism/0-0-2_8": null,
 "communism/1-0-0_0": null,
-"communism/1-0-0_1": null,
+"communism/1-0-0_1": {
+"src": "art/photos/communism/1-0-0_1.webp",
+"credit": "Unknown authorUnknown author · Public domain",
+"page": "https://commons.wikimedia.org/wiki/File:The_German_Ideology_1932_title_page.jpg",
+"file": "The_German_Ideology_1932_title_page.jpg",
+"v": 2
+},
 "communism/1-0-0_2": {
 "src": "art/photos/communism/1-0-0_2.webp",
 "credit": "Markus Schweiß · CC BY-SA 3.0",
@@ -9976,11 +11758,23 @@
 "file": "La_Tour_Eiffel_vue_de_la_Tour_Saint-Jacques,_Paris_août_2014_(2).jpg",
 "v": 2
 },
-"communism/1-0-1_2": null,
+"communism/1-0-1_2": {
+"src": "art/photos/communism/1-0-1_2.webp",
+"credit": "Fred Hartsook · Public domain",
+"page": "https://commons.wikimedia.org/wiki/File:Henry_ford_1919.jpg",
+"file": "Henry_ford_1919.jpg",
+"v": 2
+},
 "communism/1-0-1_4": null,
 "communism/1-0-1_5": null,
 "communism/1-0-1_7": null,
-"communism/1-0-1_8": null,
+"communism/1-0-1_8": {
+"src": "art/photos/communism/1-0-1_8.webp",
+"credit": "Mahatma Gandhi (author of the book); Isabel Hofmeyr (image); Uma Dhupe · Public domain",
+"page": "https://commons.wikimedia.org/wiki/File:Gandhi-Home-Rule-First-Edition-1909.jpg",
+"file": "Gandhi-Home-Rule-First-Edition-1909.jpg",
+"v": 2
+},
 "communism/1-0-2_0": null,
 "communism/1-0-2_1": {
 "src": "art/photos/communism/1-0-2_1.webp",
@@ -10006,7 +11800,13 @@
 "v": 2
 },
 "communism/1-0-2_8": null,
-"communism/1-0-3_0": null,
+"communism/1-0-3_0": {
+"src": "art/photos/communism/1-0-3_0.webp",
+"credit": "Daniel Schwen · CC BY-SA 2.5",
+"page": "https://commons.wikimedia.org/wiki/File:HH_Polizeihauptmeister_MZ.jpg",
+"file": "HH_Polizeihauptmeister_MZ.jpg",
+"v": 2
+},
 "communism/1-0-3_1": null,
 "communism/1-0-3_2": {
 "src": "art/photos/communism/1-0-3_2.webp",
@@ -10139,10 +11939,22 @@
 "communism/2-0-0_0": null,
 "communism/2-0-0_1": null,
 "communism/2-0-0_2": null,
-"communism/2-0-0_4": null,
+"communism/2-0-0_4": {
+"src": "art/photos/communism/2-0-0_4.webp",
+"credit": "Myrabella · Public domain",
+"page": "https://commons.wikimedia.org/wiki/File:Bayeux_Tapestry_scene23_Harold_sacramentum_fecit_Willelmo_duci.jpg",
+"file": "Bayeux_Tapestry_scene23_Harold_sacramentum_fecit_Willelmo_duci.jpg",
+"v": 2
+},
 "communism/2-0-0_5": null,
 "communism/2-0-0_7": null,
-"communism/2-0-1_0": null,
+"communism/2-0-1_0": {
+"src": "art/photos/communism/2-0-1_0.webp",
+"credit": "Collection DocAnciens/docpix.fr · Public domain",
+"page": "https://commons.wikimedia.org/wiki/File:Bataille_de_Verdun_1916.jpg",
+"file": "Bataille_de_Verdun_1916.jpg",
+"v": 2
+},
 "communism/2-0-1_1": null,
 "communism/2-0-1_2": null,
 "communism/2-0-1_4": null,
@@ -10162,7 +11974,13 @@
 "file": "Отречение_от_престола_императора_Николая_II._2_марта_1917.jpg",
 "v": 2
 },
-"communism/2-0-2_2": null,
+"communism/2-0-2_2": {
+"src": "art/photos/communism/2-0-2_2.webp",
+"credit": "User Kristallstadt on en.wikipedia · Public domain",
+"page": "https://commons.wikimedia.org/wiki/File:1917petrogradsoviet_assembly.jpg",
+"file": "1917petrogradsoviet_assembly.jpg",
+"v": 2
+},
 "communism/2-0-2_4": null,
 "communism/2-0-2_5": null,
 "communism/2-0-2_7": {
@@ -10188,7 +12006,13 @@
 "communism/2-1-0_1": null,
 "communism/2-1-0_2": null,
 "communism/2-1-0_4": null,
-"communism/2-1-0_5": null,
+"communism/2-1-0_5": {
+"src": "art/photos/communism/2-1-0_5.webp",
+"credit": "Unknown authorUnknown author · Public domain",
+"page": "https://commons.wikimedia.org/wiki/File:Ram%C3%B3n_Mercader_(1953)_(cropped).jpg",
+"file": "Ramón_Mercader_(1953)_(cropped).jpg",
+"v": 2
+},
 "communism/2-1-0_7": null,
 "communism/2-1-1_0": {
 "src": "art/photos/communism/2-1-1_0.webp",
@@ -10198,7 +12022,13 @@
 "v": 2
 },
 "communism/2-1-1_1": null,
-"communism/2-1-1_2": null,
+"communism/2-1-1_2": {
+"src": "art/photos/communism/2-1-1_2.webp",
+"credit": "Aleksandrs Apsītis · Public domain",
+"page": "https://commons.wikimedia.org/wiki/File:%D0%90%D0%BF%D1%81%D0%B8%D1%82._1_%D0%9C%D0%B0%D1%8F.jpg",
+"file": "Апсит._1_Мая.jpg",
+"v": 2
+},
 "communism/2-1-1_4": null,
 "communism/2-1-1_5": null,
 "communism/2-1-1_7": {
@@ -10378,7 +12208,13 @@
 "v": 2
 },
 "communism/2-2-3_4": null,
-"communism/2-2-3_5": null,
+"communism/2-2-3_5": {
+"src": "art/photos/communism/2-2-3_5.webp",
+"credit": "Rob C. Croes (ANEFO) · CC0",
+"page": "https://commons.wikimedia.org/wiki/File:Robert_Conquest_(cropped).jpg",
+"file": "Robert_Conquest_(cropped).jpg",
+"v": 2
+},
 "communism/2-2-3_7": null,
 "communism/2-2-3_8": null,
 "communism/3-0-0_0": null,
@@ -10453,7 +12289,13 @@
 "v": 2
 },
 "communism/4-0-0_7": null,
-"communism/4-0-1_0": null,
+"communism/4-0-1_0": {
+"src": "art/photos/communism/4-0-1_0.webp",
+"credit": "Daderot · Public domain",
+"page": "https://commons.wikimedia.org/wiki/File:Public_Proclamations_of_July_3_and_July_24_Are_Chairman_Mao%27s_Great_Strategic_Plans!,_People%27s_Republic_of_China,_1968,_lithograph_-_Jordan_Schnitzer_Museum_of_Art_-_Eugene,_Oregon_-_DSC09536.jpg",
+"file": "Public_Proclamations_of_July_3_and_July_24_Are_Chairman_Mao's_Great_Strategic_Plans!,_People's_Republic_of_China,_1968,_lithograph_-_Jordan_Schnitzer_Museum_of_Art_-_Eugene,_Oregon_-_DSC09536.jpg",
+"v": 2
+},
 "communism/4-0-1_1": {
 "src": "art/photos/communism/4-0-1_1.webp",
 "credit": "H2v5o68z · CC0",
@@ -10483,7 +12325,13 @@
 "file": "Amartya_Sen_20071128_cologne_cropped.jpg",
 "v": 2
 },
-"communism/4-0-3_0": null,
+"communism/4-0-3_0": {
+"src": "art/photos/communism/4-0-3_0.webp",
+"credit": "King of Hearts · CC BY-SA 4.0",
+"page": "https://commons.wikimedia.org/wiki/File:Pudong_Shanghai_November_2017_panorama.jpg",
+"file": "Pudong_Shanghai_November_2017_panorama.jpg",
+"v": 2
+},
 "communism/4-0-3_1": null,
 "communism/4-0-3_2": {
 "src": "art/photos/communism/4-0-3_2.webp",
@@ -10519,8 +12367,20 @@
 },
 "communism/4-1-0_5": null,
 "communism/4-1-0_7": null,
-"communism/4-1-1_0": null,
-"communism/4-1-1_1": null,
+"communism/4-1-1_0": {
+"src": "art/photos/communism/4-1-1_0.webp",
+"credit": "Unknown authorUnknown author · Public domain",
+"page": "https://commons.wikimedia.org/wiki/File:Fidel_Castro_and_his_men_in_the_Sierra_Maestra.jpg",
+"file": "Fidel_Castro_and_his_men_in_the_Sierra_Maestra.jpg",
+"v": 2
+},
+"communism/4-1-1_1": {
+"src": "art/photos/communism/4-1-1_1.webp",
+"credit": "Harris &amp; Ewing · Public domain",
+"page": "https://commons.wikimedia.org/wiki/File:Fulgencio_Batista,_1938.jpg",
+"file": "Fulgencio_Batista,_1938.jpg",
+"v": 2
+},
 "communism/4-1-1_2": null,
 "communism/4-1-1_4": {
 "src": "art/photos/communism/4-1-1_4.webp",
@@ -10557,7 +12417,13 @@
 "communism/4-1-3_7": null,
 "communism/4-1-4_0": null,
 "communism/4-1-4_1": null,
-"communism/4-1-4_2": null,
+"communism/4-1-4_2": {
+"src": "art/photos/communism/4-1-4_2.webp",
+"credit": "Rob Mieremet / Anefo · CC0",
+"page": "https://commons.wikimedia.org/wiki/File:President_Nyerere_van_Tanzania,_koppen,_Bestanddeelnr_928-2879_(cropped).jpg",
+"file": "President_Nyerere_van_Tanzania,_koppen,_Bestanddeelnr_928-2879_(cropped).jpg",
+"v": 2
+},
 "communism/4-1-4_4": {
 "src": "art/photos/communism/4-1-4_4.webp",
 "credit": "The Militant/ Ernest Harsch · Public domain",
@@ -10773,7 +12639,13 @@
 "file": "Khu_trung_tâm_thành_phố_Hồ_Chí_Minh,_nhìn_từ_phía_quận_2.JPG",
 "v": 2
 },
-"communism/6-1-0_2": null,
+"communism/6-1-0_2": {
+"src": "art/photos/communism/6-1-0_2.webp",
+"credit": "Simon Dawson / No 10 Downing Street · CC BY 4.0",
+"page": "https://commons.wikimedia.org/wiki/File:Prime_Minister_Keir_Starmer_visits_China_(55066713683)_(cropped%2Bangle).jpg",
+"file": "Prime_Minister_Keir_Starmer_visits_China_(55066713683)_(cropped+angle).jpg",
+"v": 2
+},
 "communism/6-1-0_4": {
 "src": "art/photos/communism/6-1-0_4.webp",
 "credit": "(stephan) · CC BY-SA 2.0",
@@ -10792,7 +12664,13 @@
 "v": 2
 },
 "communism/6-1-1_2": null,
-"communism/6-1-1_4": null,
+"communism/6-1-1_4": {
+"src": "art/photos/communism/6-1-1_4.webp",
+"credit": "Unknown authorUnknown author or not provided · Public domain",
+"page": "https://commons.wikimedia.org/wiki/File:Unemployed_men_queued_outside_a_depression_soup_kitchen_opened_in_Chicago_by_Al_Capone,_02-1931_-_NARA_-_541927.jpg",
+"file": "Unemployed_men_queued_outside_a_depression_soup_kitchen_opened_in_Chicago_by_Al_Capone,_02-1931_-_NARA_-_541927.jpg",
+"v": 2
+},
 "communism/6-1-1_5": null,
 "communism/6-1-1_7": null,
 "world/0-0-0_0": null,
@@ -10851,7 +12729,13 @@
 "file": "Fires_on_Sulawesi,_Indonesia_(MODIS_2015-10-22).jpg",
 "v": 2
 },
-"world/0-0-2_2": null,
+"world/0-0-2_2": {
+"src": "art/photos/world/0-0-2_2.webp",
+"credit": "EU · Public domain",
+"page": "https://commons.wikimedia.org/wiki/File:Lascaux_painting.jpg",
+"file": "Lascaux_painting.jpg",
+"v": 2
+},
 "world/0-0-2_4": {
 "src": "art/photos/world/0-0-2_4.webp",
 "credit": "Martin Kraft · CC BY-SA 4.0",
@@ -10873,7 +12757,13 @@
 "file": "Rock_Shelter_8,_Bhimbetka_02.jpg",
 "v": 2
 },
-"world/0-1-0_0": null,
+"world/0-1-0_0": {
+"src": "art/photos/world/0-1-0_0.webp",
+"credit": "kallerna · CC BY-SA 4.0",
+"page": "https://commons.wikimedia.org/wiki/File:Vehn%C3%A4pelto_6.jpg",
+"file": "Vehnäpelto_6.jpg",
+"v": 2
+},
 "world/0-1-0_1": {
 "src": "art/photos/world/0-1-0_1.webp",
 "credit": "Fullo88 at Italian Wikipedia · Public domain",
@@ -10917,7 +12807,13 @@
 "file": "Megalithic_grave_Harhoog_in_Keitum,_Sylt,_Germany.jpg",
 "v": 2
 },
-"world/0-1-1_2": null,
+"world/0-1-1_2": {
+"src": "art/photos/world/0-1-1_2.webp",
+"credit": "3268zauber · CC BY-SA 3.0",
+"page": "https://commons.wikimedia.org/wiki/File:Korb_mit_Br%C3%B6tchen.JPG",
+"file": "Korb_mit_Brötchen.JPG",
+"v": 2
+},
 "world/0-1-1_4": {
 "src": "art/photos/world/0-1-1_4.webp",
 "credit": "Otis Crandell · CC BY-SA 3.0",
@@ -10967,8 +12863,20 @@
 "file": "British_Museum_Flood_Tablet.jpg",
 "v": 2
 },
-"world/1-0-0_5": null,
-"world/1-0-0_7": null,
+"world/1-0-0_5": {
+"src": "art/photos/world/1-0-0_5.webp",
+"credit": "Mbzt · CC BY 3.0",
+"page": "https://commons.wikimedia.org/wiki/File:P1050763_Louvre_code_Hammurabi_face_rwk.JPG",
+"file": "P1050763_Louvre_code_Hammurabi_face_rwk.JPG",
+"v": 2
+},
+"world/1-0-0_7": {
+"src": "art/photos/world/1-0-0_7.webp",
+"credit": "Avantiputra7 · CC BY-SA 3.0",
+"page": "https://commons.wikimedia.org/wiki/File:Indus_Valley_Civilization,_Mature_Phase_(2600-1900_BCE).png",
+"file": "Indus_Valley_Civilization,_Mature_Phase_(2600-1900_BCE).png",
+"v": 2
+},
 "world/1-0-1_0": {
 "src": "art/photos/world/1-0-1_0.webp",
 "credit": "Louis le Grand · Public domain",
@@ -11020,7 +12928,13 @@
 "v": 2
 },
 "world/1-0-2_2": null,
-"world/1-0-2_4": null,
+"world/1-0-2_4": {
+"src": "art/photos/world/1-0-2_4.webp",
+"credit": "SY · CC BY-SA 4.0",
+"page": "https://commons.wikimedia.org/wiki/File:Battle_of_Muye.jpg",
+"file": "Battle_of_Muye.jpg",
+"v": 2
+},
 "world/1-0-2_5": {
 "src": "art/photos/world/1-0-2_5.webp",
 "credit": "Shujianyang · CC BY-SA 4.0",
@@ -11042,8 +12956,20 @@
 "file": "Lion_Gate,_Hattusa_13_(cropped).jpg",
 "v": 2
 },
-"world/1-1-0_1": null,
-"world/1-1-0_2": null,
+"world/1-1-0_1": {
+"src": "art/photos/world/1-1-0_1.webp",
+"credit": "Martin Bahmann · CC BY-SA 3.0",
+"page": "https://commons.wikimedia.org/wiki/File:Uluburun1.jpg",
+"file": "Uluburun1.jpg",
+"v": 2
+},
+"world/1-1-0_2": {
+"src": "art/photos/world/1-1-0_2.webp",
+"credit": "Asavaa · CC BY-SA 3.0",
+"page": "https://commons.wikimedia.org/wiki/File:KhonsuTemple-Karnak-RamessesIII-2.jpg",
+"file": "KhonsuTemple-Karnak-RamessesIII-2.jpg",
+"v": 2
+},
 "world/1-1-0_4": {
 "src": "art/photos/world/1-1-0_4.webp",
 "credit": "Alchemist-hp (talk) (www.pse-mendelejew.de) · CC BY-SA 3.0 de",
@@ -11075,7 +13001,13 @@
 },
 "world/1-1-1_2": null,
 "world/1-1-1_4": null,
-"world/1-1-1_5": null,
+"world/1-1-1_5": {
+"src": "art/photos/world/1-1-1_5.webp",
+"credit": "Fratelli Alinari · Public domain",
+"page": "https://commons.wikimedia.org/wiki/File:Hannibal_Barca_bust_from_Capua_photo.jpg",
+"file": "Hannibal_Barca_bust_from_Capua_photo.jpg",
+"v": 2
+},
 "world/1-1-1_7": null,
 "world/2-0-0_0": {
 "src": "art/photos/world/2-0-0_0.webp",
@@ -11091,7 +13023,13 @@
 "file": "Croesus_portrait.jpg",
 "v": 2
 },
-"world/2-0-0_2": null,
+"world/2-0-0_2": {
+"src": "art/photos/world/2-0-0_2.webp",
+"credit": "Rumlu · Public domain",
+"page": "https://commons.wikimedia.org/wiki/File:Darius_I.jpg",
+"file": "Darius_I.jpg",
+"v": 2
+},
 "world/2-0-0_4": {
 "src": "art/photos/world/2-0-0_4.webp",
 "credit": "Bernard Gagnon · CC BY-SA 4.0",
@@ -11099,7 +13037,13 @@
 "file": "Faravahar_on_Fire_Temple,_Yazd.jpg",
 "v": 2
 },
-"world/2-0-0_5": null,
+"world/2-0-0_5": {
+"src": "art/photos/world/2-0-0_5.webp",
+"credit": "Jacques-Louis David · Public domain",
+"page": "https://commons.wikimedia.org/wiki/File:L%C3%A9onidas_aux_Thermopyles_-_Jacques-Louis_David_-_Mus%C3%A9e_du_Louvre_Peintures_INV_3690_;_L_3711.jpg",
+"file": "Léonidas_aux_Thermopyles_-_Jacques-Louis_David_-_Musée_du_Louvre_Peintures_INV_3690_;_L_3711.jpg",
+"v": 2
+},
 "world/2-0-0_7": null,
 "world/2-0-1_0": {
 "src": "art/photos/world/2-0-1_0.webp",
@@ -11131,7 +13075,13 @@
 "file": "Varanasiganga.jpg",
 "v": 2
 },
-"world/2-0-2_0": null,
+"world/2-0-2_0": {
+"src": "art/photos/world/2-0-2_0.webp",
+"credit": "T8612 · CC BY-SA 4.0",
+"page": "https://commons.wikimedia.org/wiki/File:Spartan_Territory_Before_371_BC.png",
+"file": "Spartan_Territory_Before_371_BC.png",
+"v": 2
+},
 "world/2-0-2_1": {
 "src": "art/photos/world/2-0-2_1.webp",
 "credit": "Tomisti · CC BY-SA 4.0",
@@ -11183,7 +13133,13 @@
 "file": "Ishtar_Gate.jpg",
 "v": 2
 },
-"world/2-0-3_5": null,
+"world/2-0-3_5": {
+"src": "art/photos/world/2-0-3_5.webp",
+"credit": "TheEgyptian · CC BY-SA 3.0",
+"page": "https://commons.wikimedia.org/wiki/File:San_Stefano_Grand_Plaza.JPG",
+"file": "San_Stefano_Grand_Plaza.JPG",
+"v": 2
+},
 "world/2-0-3_7": {
 "src": "art/photos/world/2-0-3_7.webp",
 "credit": "आशीष भटनागर at Hindi Wikipedia · Public domain",
@@ -11235,7 +13191,13 @@
 "file": "51714-Terracota-Army.jpg",
 "v": 2
 },
-"world/2-1-1_2": null,
+"world/2-1-1_2": {
+"src": "art/photos/world/2-1-1_2.webp",
+"credit": "World Imaging · Public domain",
+"page": "https://commons.wikimedia.org/wiki/File:BactriaMap.jpg",
+"file": "BactriaMap.jpg",
+"v": 2
+},
 "world/2-1-1_4": {
 "src": "art/photos/world/2-1-1_4.webp",
 "credit": "N509FZ · CC BY-SA 4.0",
@@ -11266,7 +13228,13 @@
 },
 "world/2-1-2_1": null,
 "world/2-1-2_2": null,
-"world/2-1-2_4": null,
+"world/2-1-2_4": {
+"src": "art/photos/world/2-1-2_4.webp",
+"credit": "British Museum (photo) · CC BY-SA 4.0",
+"page": "https://commons.wikimedia.org/wiki/File:Coin_of_Odoacer_at_the_British_Museum_(obverse).png",
+"file": "Coin_of_Odoacer_at_the_British_Museum_(obverse).png",
+"v": 2
+},
 "world/2-1-2_5": {
 "src": "art/photos/world/2-1-2_5.webp",
 "credit": "Henry Walton · Public domain",
@@ -11314,7 +13282,13 @@
 "world/2-1-4_3": null,
 "world/2-1-4_5": null,
 "world/2-1-4_6": null,
-"world/2-1-4_7": null,
+"world/2-1-4_7": {
+"src": "art/photos/world/2-1-4_7.webp",
+"credit": "Classical Numismatic Group · CC BY-SA 2.5",
+"page": "https://commons.wikimedia.org/wiki/File:Heraclius_solidus.jpg",
+"file": "Heraclius_solidus.jpg",
+"v": 2
+},
 "world/2-1-4_9": {
 "src": "art/photos/world/2-1-4_9.webp",
 "credit": "Safa.daneshvar · CC BY-SA 4.0",
@@ -11339,7 +13313,13 @@
 "file": "ConquestOfConstantinopleByTheCrusadersIn1204.jpg",
 "v": 2
 },
-"world/3-0-0_5": null,
+"world/3-0-0_5": {
+"src": "art/photos/world/3-0-0_5.webp",
+"credit": "Unknown · Public domain",
+"page": "https://commons.wikimedia.org/wiki/File:Le_si%C3%A8ge_de_Constantinople_(1453)_by_Jean_Le_Tavernier_after_1455.jpg",
+"file": "Le_siège_de_Constantinople_(1453)_by_Jean_Le_Tavernier_after_1455.jpg",
+"v": 2
+},
 "world/3-0-0_7": null,
 "world/3-0-1_0": {
 "src": "art/photos/world/3-0-1_0.webp",
@@ -11429,7 +13409,13 @@
 "v": 2
 },
 "world/3-0-3_3": null,
-"world/3-0-3_5": null,
+"world/3-0-3_5": {
+"src": "art/photos/world/3-0-3_5.webp",
+"credit": "Adam Bishop · CC BY-SA 3.0",
+"page": "https://commons.wikimedia.org/wiki/File:Church_of_Fontevraud_Abbey_Richard_I_effigy.jpg",
+"file": "Church_of_Fontevraud_Abbey_Richard_I_effigy.jpg",
+"v": 2
+},
 "world/3-0-3_6": {
 "src": "art/photos/world/3-0-3_6.webp",
 "credit": "Gustave Doré · Public domain",
@@ -11459,7 +13445,13 @@
 "file": "Qutb_Minar_2022.jpg",
 "v": 2
 },
-"world/3-0-4_0": null,
+"world/3-0-4_0": {
+"src": "art/photos/world/3-0-4_0.webp",
+"credit": "Hobe / Holger Behr · Public domain",
+"page": "https://commons.wikimedia.org/wiki/File:Karta_AngkorWat.PNG",
+"file": "Karta_AngkorWat.PNG",
+"v": 2
+},
 "world/3-0-4_1": null,
 "world/3-0-4_2": {
 "src": "art/photos/world/3-0-4_2.webp",
@@ -11526,7 +13518,13 @@
 "v": 2
 },
 "world/3-1-1_4": null,
-"world/3-1-1_5": null,
+"world/3-1-1_5": {
+"src": "art/photos/world/3-1-1_5.webp",
+"credit": "Cattette · CC BY 4.0",
+"page": "https://commons.wikimedia.org/wiki/File:Yuan_Dynasty_revised.png",
+"file": "Yuan_Dynasty_revised.png",
+"v": 2
+},
 "world/3-1-1_7": null,
 "world/3-1-2_0": null,
 "world/3-1-2_1": {
@@ -11543,7 +13541,13 @@
 "file": "Yersinia_pestis.jpg",
 "v": 2
 },
-"world/3-1-2_4": null,
+"world/3-1-2_4": {
+"src": "art/photos/world/3-1-2_4.webp",
+"credit": "Jean Froissart · Public domain",
+"page": "https://commons.wikimedia.org/wiki/File:Jean_Froissart,_Chroniques,_154v,_12148_btv1b8438605hf336,_crop.jpg",
+"file": "Jean_Froissart,_Chroniques,_154v,_12148_btv1b8438605hf336,_crop.jpg",
+"v": 2
+},
 "world/3-1-2_5": null,
 "world/3-1-2_7": {
 "src": "art/photos/world/3-1-2_7.webp",
@@ -11594,8 +13598,20 @@
 "file": "French_language_map_of_Central_and_Eastern_Africa_1862.jpg",
 "v": 2
 },
-"world/3-2-0_4": null,
-"world/3-2-0_5": null,
+"world/3-2-0_4": {
+"src": "art/photos/world/3-2-0_4.webp",
+"credit": "Cresques Abraham · Public domain",
+"page": "https://commons.wikimedia.org/wiki/File:Compass_rose_from_Catalan_Atlas_(1375).jpg",
+"file": "Compass_rose_from_Catalan_Atlas_(1375).jpg",
+"v": 2
+},
+"world/3-2-0_5": {
+"src": "art/photos/world/3-2-0_5.webp",
+"credit": "Flickr user: Emilio Labrador Santiago de Chile https://www.flickr.com/ · CC BY 2.0",
+"page": "https://commons.wikimedia.org/wiki/File:Donkeys,_Timbuktu.jpg",
+"file": "Donkeys,_Timbuktu.jpg",
+"v": 2
+},
 "world/3-2-0_7": null,
 "world/3-2-1_0": {
 "src": "art/photos/world/3-2-1_0.webp",
@@ -11801,7 +13817,13 @@
 "v": 2
 },
 "world/4-0-0_1": null,
-"world/4-0-0_2": null,
+"world/4-0-0_2": {
+"src": "art/photos/world/4-0-0_2.webp",
+"credit": "Unknown · Public domain",
+"page": "https://commons.wikimedia.org/wiki/File:Portrait_of_Francesco_Petrarca_(called_Petrarch)_-_French_school,_17th_century.jpg",
+"file": "Portrait_of_Francesco_Petrarca_(called_Petrarch)_-_French_school,_17th_century.jpg",
+"v": 2
+},
 "world/4-0-0_4": null,
 "world/4-0-0_5": null,
 "world/4-0-0_7": {
@@ -11818,7 +13840,13 @@
 "file": "Lucas_Cranach_d.Ä._-_Martin_Luther,_1528_(Veste_Coburg).jpg",
 "v": 2
 },
-"world/4-0-1_1": null,
+"world/4-0-1_1": {
+"src": "art/photos/world/4-0-1_1.webp",
+"credit": "Kenneth C. Zirkel · CC BY-SA 4.0",
+"page": "https://commons.wikimedia.org/wiki/File:Mainz_Gutenbergdenkmal_2016_(cropped).jpg",
+"file": "Mainz_Gutenbergdenkmal_2016_(cropped).jpg",
+"v": 2
+},
 "world/4-0-1_2": {
 "src": "art/photos/world/4-0-1_2.webp",
 "credit": "Nick-philly · CC BY-SA 4.0",
@@ -11841,7 +13869,13 @@
 "file": "BeachFun.jpg",
 "v": 2
 },
-"world/4-0-2_0": null,
+"world/4-0-2_0": {
+"src": "art/photos/world/4-0-2_0.webp",
+"credit": "Ottoman miniature painting · Public domain",
+"page": "https://commons.wikimedia.org/wiki/File:I_Osman.jpg",
+"file": "I_Osman.jpg",
+"v": 2
+},
 "world/4-0-2_1": null,
 "world/4-0-2_2": {
 "src": "art/photos/world/4-0-2_2.webp",
@@ -11942,7 +13976,13 @@
 "file": "Treaty_of_Tordesillas.jpg",
 "v": 2
 },
-"world/4-1-1_4": null,
+"world/4-1-1_4": {
+"src": "art/photos/world/4-1-1_4.webp",
+"credit": "Tito Caraballo · CC BY-SA 2.0",
+"page": "https://commons.wikimedia.org/wiki/File:Estatua_de_Ag%C3%BCeyban%C3%A1_II,_El_Bravo,_en_el_Parque_Monumento_a_Ag%C3%BCeyban%C3%A1_II,_El_Bravo,_en_Ponce,_Puerto_Rico_(DSC02672C).jpg",
+"file": "Estatua_de_Agüeybaná_II,_El_Bravo,_en_el_Parque_Monumento_a_Agüeybaná_II,_El_Bravo,_en_Ponce,_Puerto_Rico_(DSC02672C).jpg",
+"v": 2
+},
 "world/4-1-1_5": {
 "src": "art/photos/world/4-1-1_5.webp",
 "credit": "Earth Science and Remote Sensing Unit, Lyndon B. Johnson Space Center · Public domain",
@@ -11955,7 +13995,13 @@
 "world/4-1-2_1": null,
 "world/4-1-2_2": null,
 "world/4-1-2_4": null,
-"world/4-1-2_5": null,
+"world/4-1-2_5": {
+"src": "art/photos/world/4-1-2_5.webp",
+"credit": "Aaron Martinet / Alphonse-Charles Masson · Public domain",
+"page": "https://commons.wikimedia.org/wiki/File:Incendie_de_la_Plaine_du_Cap._Massacre_des_Blancs_par_les_esclaves_noirs_r%C3%A9volt%C3%A9s._France_militaire._Martinet_et_Masson.jpg",
+"file": "Incendie_de_la_Plaine_du_Cap._Massacre_des_Blancs_par_les_esclaves_noirs_révoltés._France_militaire._Martinet_et_Masson.jpg",
+"v": 2
+},
 "world/4-1-2_7": null,
 "world/4-1-3_0": null,
 "world/4-1-3_1": {
@@ -11965,9 +14011,21 @@
 "file": "Nikolaus_Kopernikus_MOT.jpg",
 "v": 2
 },
-"world/4-1-3_2": null,
+"world/4-1-3_2": {
+"src": "art/photos/world/4-1-3_2.webp",
+"credit": "August Köhler [1] · Public domain",
+"page": "https://commons.wikimedia.org/wiki/File:JKepler.jpg",
+"file": "JKepler.jpg",
+"v": 2
+},
 "world/4-1-3_4": null,
-"world/4-1-3_5": null,
+"world/4-1-3_5": {
+"src": "art/photos/world/4-1-3_5.webp",
+"credit": "Unknown authorUnknown author · Public domain",
+"page": "https://commons.wikimedia.org/wiki/File:E-codices_zbz-Ms-Rh-0172_044_max_copy.jpg",
+"file": "E-codices_zbz-Ms-Rh-0172_044_max_copy.jpg",
+"v": 2
+},
 "world/4-1-3_7": null,
 "world/4-1-4_0": null,
 "world/4-1-4_1": null,
@@ -11980,7 +14038,13 @@
 "file": "The_Mughal_Emperor_and_His_Court,_c._1774_-_V&A.jpg",
 "v": 2
 },
-"world/4-1-4_6": null,
+"world/4-1-4_6": {
+"src": "art/photos/world/4-1-4_6.webp",
+"credit": "Bichitr · Public domain",
+"page": "https://commons.wikimedia.org/wiki/File:%27Jujhar_Singh_Bundela_Kneels_in_Submission_to_Shah_Jahan%27,_painted_by_Bichitr,_c._1630,_Chester_Beatty_Library_(cropped2).jpg",
+"file": "'Jujhar_Singh_Bundela_Kneels_in_Submission_to_Shah_Jahan',_painted_by_Bichitr,_c._1630,_Chester_Beatty_Library_(cropped2).jpg",
+"v": 2
+},
 "world/4-1-4_7": null,
 "world/4-1-4_9": null,
 "world/4-1-4_10": null,
@@ -12076,7 +14140,13 @@
 "file": "Map_of_Japan_in_Provinces_in_time_of_Iyeyasu.jpg",
 "v": 2
 },
-"world/4-1-7_1": null,
+"world/4-1-7_1": {
+"src": "art/photos/world/4-1-7_1.webp",
+"credit": "Kanō Tan'yū · Public domain",
+"page": "https://commons.wikimedia.org/wiki/File:Tokugawa_Ieyasu2.JPG",
+"file": "Tokugawa_Ieyasu2.JPG",
+"v": 2
+},
 "world/4-1-7_2": null,
 "world/4-1-7_3": null,
 "world/4-1-7_5": {
@@ -12142,7 +14212,13 @@
 "file": "Surrender_of_General_Burgoyne.jpg",
 "v": 2
 },
-"world/5-0-1_5": null,
+"world/5-0-1_5": {
+"src": "art/photos/world/5-0-1_5.webp",
+"credit": "Constitutional Convention · Public domain",
+"page": "https://commons.wikimedia.org/wiki/File:Constitution_of_the_United_States_-_DPLA_-_9ca804144bd5965e992ae3528bc3c6a3_(page_1).jpg",
+"file": "Constitution_of_the_United_States_-_DPLA_-_9ca804144bd5965e992ae3528bc3c6a3_(page_1).jpg",
+"v": 2
+},
 "world/5-0-1_7": {
 "src": "art/photos/world/5-0-1_7.webp",
 "credit": "John Trumbull · Public domain",
@@ -12172,7 +14248,13 @@
 "v": 2
 },
 "world/5-0-2_4": null,
-"world/5-0-2_5": null,
+"world/5-0-2_5": {
+"src": "art/photos/world/5-0-2_5.webp",
+"credit": "Jacques-Louis David · Public domain",
+"page": "https://commons.wikimedia.org/wiki/File:Jacques-Louis_David_-_The_Emperor_Napoleon_in_His_Study_at_the_Tuileries_-_Google_Art_Project.jpg",
+"file": "Jacques-Louis_David_-_The_Emperor_Napoleon_in_His_Study_at_the_Tuileries_-_Google_Art_Project.jpg",
+"v": 2
+},
 "world/5-0-2_7": null,
 "world/5-0-3_0": {
 "src": "art/photos/world/5-0-3_0.webp",
@@ -12221,7 +14303,13 @@
 "v": 2
 },
 "world/5-0-4_5": null,
-"world/5-0-4_7": null,
+"world/5-0-4_7": {
+"src": "art/photos/world/5-0-4_7.webp",
+"credit": "Joseph Constantine Stadler / After William Heath · Public domain",
+"page": "https://commons.wikimedia.org/wiki/File:Battle_of_Assaye.jpeg",
+"file": "Battle_of_Assaye.jpeg",
+"v": 2
+},
 "world/5-0-5_0": null,
 "world/5-0-5_1": {
 "src": "art/photos/world/5-0-5_1.webp",
@@ -12349,7 +14437,13 @@
 "file": "Portrait_of_Lin_Zexu.jpeg",
 "v": 2
 },
-"world/5-1-3_1": null,
+"world/5-1-3_1": {
+"src": "art/photos/world/5-1-3_1.webp",
+"credit": "AnonymousUnknown author · Public domain",
+"page": "https://commons.wikimedia.org/wiki/File:Canton_c1850.jpg",
+"file": "Canton_c1850.jpg",
+"v": 2
+},
 "world/5-1-3_3": {
 "src": "art/photos/world/5-1-3_3.webp",
 "credit": "颐园新居 · CC BY-SA 3.0",
@@ -12357,7 +14451,13 @@
 "file": "Yuanmingyuan_Ruins_of_Dashuifa_20120715.JPG",
 "v": 2
 },
-"world/5-1-3_4": null,
+"world/5-1-3_4": {
+"src": "art/photos/world/5-1-3_4.webp",
+"credit": "Pryaltonian · CC BY-SA 3.0",
+"page": "https://commons.wikimedia.org/wiki/File:Qing_Dynasty_1820.png",
+"file": "Qing_Dynasty_1820.png",
+"v": 2
+},
 "world/5-1-3_6": null,
 "world/5-1-4_0": null,
 "world/5-1-4_1": null,
@@ -12434,7 +14534,13 @@
 "v": 2
 },
 "world/6-0-0_3": null,
-"world/6-0-0_4": null,
+"world/6-0-0_4": {
+"src": "art/photos/world/6-0-0_4.webp",
+"credit": "David Lloyd George, Woodrow Wilson and Georges Clemenceau · Public domain",
+"page": "https://commons.wikimedia.org/wiki/File:Treaty_of_Versailles,_English_version.jpg",
+"file": "Treaty_of_Versailles,_English_version.jpg",
+"v": 2
+},
 "world/6-0-0_6": null,
 "world/6-0-1_0": {
 "src": "art/photos/world/6-0-1_0.webp",
@@ -12466,7 +14572,13 @@
 "file": "Crowd_outside_nyse.jpg",
 "v": 2
 },
-"world/6-0-2_1": null,
+"world/6-0-2_1": {
+"src": "art/photos/world/6-0-2_1.webp",
+"credit": "Unknown authorUnknown author or not provided · Public domain",
+"page": "https://commons.wikimedia.org/wiki/File:Unemployed_men_queued_outside_a_depression_soup_kitchen_opened_in_Chicago_by_Al_Capone,_02-1931_-_NARA_-_541927.jpg",
+"file": "Unemployed_men_queued_outside_a_depression_soup_kitchen_opened_in_Chicago_by_Al_Capone,_02-1931_-_NARA_-_541927.jpg",
+"v": 2
+},
 "world/6-0-2_3": {
 "src": "art/photos/world/6-0-2_3.webp",
 "credit": "Unknown, dedicated to Bettmann Archive · Public domain",
@@ -12534,7 +14646,13 @@
 "file": "IND_003698_Garrison_Hill_Kohima.jpg",
 "v": 2
 },
-"world/6-0-5_0": null,
+"world/6-0-5_0": {
+"src": "art/photos/world/6-0-5_0.webp",
+"credit": "Bernhard Walter · Public domain",
+"page": "https://commons.wikimedia.org/wiki/File:Selection_on_the_ramp_at_Auschwitz-Birkenau,_1944_(Auschwitz_Album)_1b.jpg",
+"file": "Selection_on_the_ramp_at_Auschwitz-Birkenau,_1944_(Auschwitz_Album)_1b.jpg",
+"v": 2
+},
 "world/6-0-5_1": {
 "src": "art/photos/world/6-0-5_1.webp",
 "credit": "Center for Jewish History, NYC · Public domain",
@@ -12604,7 +14722,13 @@
 },
 "world/6-1-1_0": null,
 "world/6-1-1_1": null,
-"world/6-1-1_3": null,
+"world/6-1-1_3": {
+"src": "art/photos/world/6-1-1_3.webp",
+"credit": "Fleet Air Arm official photographer · Public domain",
+"page": "https://commons.wikimedia.org/wiki/File:Port_Said_from_air.jpg",
+"file": "Port_Said_from_air.jpg",
+"v": 2
+},
 "world/6-1-1_4": {
 "src": "art/photos/world/6-1-1_4.webp",
 "credit": "Unknown authorUnknown author · CC BY 4.0",
@@ -12701,9 +14825,21 @@
 "file": "Korean_War_armistice_agreement_1953.jpg",
 "v": 2
 },
-"world/6-2-0_9": null,
+"world/6-2-0_9": {
+"src": "art/photos/world/6-2-0_9.webp",
+"credit": "JoSchmaltz · CC BY-SA 2.0",
+"page": "https://commons.wikimedia.org/wiki/File:Abu-Simbel_temple3.jpg",
+"file": "Abu-Simbel_temple3.jpg",
+"v": 2
+},
 "world/6-2-0_10": null,
-"world/6-2-1_0": null,
+"world/6-2-1_0": {
+"src": "art/photos/world/6-2-1_0.webp",
+"credit": "Steffen Schmitz (more photos) · CC BY-SA 4.0",
+"page": "https://commons.wikimedia.org/wiki/File:Ho_Chi_Minh_City,_City_Hall,_2020-01_CN-03.jpg",
+"file": "Ho_Chi_Minh_City,_City_Hall,_2020-01_CN-03.jpg",
+"v": 2
+},
 "world/6-2-1_1": null,
 "world/6-2-1_2": {
 "src": "art/photos/world/6-2-1_2.webp",
@@ -12784,7 +14920,13 @@
 "v": 2
 },
 "world/6-2-4_3": null,
-"world/6-2-4_5": null,
+"world/6-2-4_5": {
+"src": "art/photos/world/6-2-4_5.webp",
+"credit": "Ninara from Helsinki, Finland · CC BY-SA 3.0",
+"page": "https://commons.wikimedia.org/wiki/File:North_of_Tehran_Skyline_view.jpg",
+"file": "North_of_Tehran_Skyline_view.jpg",
+"v": 2
+},
 "world/6-2-4_6": null,
 "world/6-2-4_7": {
 "src": "art/photos/world/6-2-4_7.webp",
@@ -12794,7 +14936,13 @@
 "v": 2
 },
 "world/6-2-4_9": null,
-"world/6-2-4_10": null,
+"world/6-2-4_10": {
+"src": "art/photos/world/6-2-4_10.webp",
+"credit": "Unknown, dedicated to Bettmann Archive · Public domain",
+"page": "https://commons.wikimedia.org/wiki/File:Indira_Gandhi_1966.png",
+"file": "Indira_Gandhi_1966.png",
+"v": 2
+},
 "world/7-0-0_0": null,
 "world/7-0-0_1": null,
 "world/7-0-0_3": {
@@ -12866,7 +15014,13 @@
 "world/7-0-4_0": null,
 "world/7-0-4_1": null,
 "world/7-0-4_2": null,
-"world/7-0-4_3": null,
+"world/7-0-4_3": {
+"src": "art/photos/world/7-0-4_3.webp",
+"credit": "Duncan.Hull · CC BY-SA 4.0",
+"page": "https://commons.wikimedia.org/wiki/File:Dr_Vint_Cerf_ForMemRS_(cropped).jpg",
+"file": "Dr_Vint_Cerf_ForMemRS_(cropped).jpg",
+"v": 2
+},
 "world/7-0-4_5": null,
 "world/7-0-4_6": {
 "src": "art/photos/world/7-0-4_6.webp",
@@ -12977,7 +15131,13 @@
 "v": 2
 },
 "world/8-0-1_5": null,
-"world/8-0-1_6": null,
+"world/8-0-1_6": {
+"src": "art/photos/world/8-0-1_6.webp",
+"credit": "Droysen/Andrée · CC BY-SA 3.0",
+"page": "https://commons.wikimedia.org/wiki/File:Ausbreitung_der_Hanse_um_das_Jahr_1400-Droysens_28.jpg",
+"file": "Ausbreitung_der_Hanse_um_das_Jahr_1400-Droysens_28.jpg",
+"v": 2
+},
 "world/8-0-1_7": {
 "src": "art/photos/world/8-0-1_7.webp",
 "credit": "TomasEE · CC BY 3.0",
@@ -13007,7 +15167,13 @@
 "v": 2
 },
 "world/8-1-0_9": null,
-"world/8-1-0_10": null,
+"world/8-1-0_10": {
+"src": "art/photos/world/8-1-0_10.webp",
+"credit": "Photo Dharma from Sadao, Thailand · CC BY 2.0",
+"page": "https://commons.wikimedia.org/wiki/File:Ashoka%27s_visit_to_the_Ramagrama_stupa_Sanchi_Stupa_1_Southern_gateway.jpg",
+"file": "Ashoka's_visit_to_the_Ramagrama_stupa_Sanchi_Stupa_1_Southern_gateway.jpg",
+"v": 2
+},
 "world/8-1-1_0": null,
 "world/8-1-1_1": null,
 "world/8-1-1_2": null,
@@ -13107,7 +15273,13 @@
 "file": "Cavendish_Henry_signature.jpg",
 "v": 2
 },
-"physics/0-0-6_4": null,
+"physics/0-0-6_4": {
+"src": "art/photos/physics/0-0-6_4.webp",
+"credit": "August Köhler [1] · Public domain",
+"page": "https://commons.wikimedia.org/wiki/File:JKepler.jpg",
+"file": "JKepler.jpg",
+"v": 2
+},
 "physics/0-0-6_8": {
 "src": "art/photos/physics/0-0-6_8.webp",
 "credit": "Cpjha13 · CC BY-SA 4.0",
@@ -13228,7 +15400,13 @@
 "file": "NatCopper.jpg",
 "v": 2
 },
-"physics/2-0-0_5": null,
+"physics/2-0-0_5": {
+"src": "art/photos/physics/2-0-0_5.webp",
+"credit": "Christian Albrecht Jensen · Public domain",
+"page": "https://commons.wikimedia.org/wiki/File:Carl_Friedrich_Gauss_1840_by_Jensen.jpg",
+"file": "Carl_Friedrich_Gauss_1840_by_Jensen.jpg",
+"v": 2
+},
 "physics/2-0-1_0": {
 "src": "art/photos/physics/2-0-1_0.webp",
 "credit": "Janke · CC BY-SA 2.5",
@@ -13253,7 +15431,13 @@
 "file": "Ampere_Andre_1825.jpg",
 "v": 2
 },
-"physics/2-0-2_2": null,
+"physics/2-0-2_2": {
+"src": "art/photos/physics/2-0-2_2.webp",
+"credit": "Original: unknown · Public domain",
+"page": "https://commons.wikimedia.org/wiki/File:Georg_Simon_Ohm_(1789-1854).jpg",
+"file": "Georg_Simon_Ohm_(1789-1854).jpg",
+"v": 2
+},
 "physics/2-0-2_5": {
 "src": "art/photos/physics/2-0-2_5.webp",
 "credit": "Kristoferb (talk) · CC BY-SA 3.0",
@@ -13283,7 +15467,13 @@
 "file": "Michael_Faraday_sitting_crop.jpg",
 "v": 2
 },
-"physics/2-0-3_5": null,
+"physics/2-0-3_5": {
+"src": "art/photos/physics/2-0-3_5.webp",
+"credit": "Unknown authorUnknown author · Public domain",
+"page": "https://commons.wikimedia.org/wiki/File:Heinrich_Friedrich_Emil_Lenz.jpg",
+"file": "Heinrich_Friedrich_Emil_Lenz.jpg",
+"v": 2
+},
 "physics/2-0-3_8": null,
 "physics/2-0-4_0": {
 "src": "art/photos/physics/2-0-4_0.webp",
@@ -13313,8 +15503,20 @@
 "file": "J.C.Bose.JPG",
 "v": 2
 },
-"physics/2-0-5_0": null,
-"physics/2-0-5_5": null,
+"physics/2-0-5_0": {
+"src": "art/photos/physics/2-0-5_0.webp",
+"credit": "Varistor60 · CC BY-SA 4.0",
+"page": "https://commons.wikimedia.org/wiki/File:500kV_3-Phase_Transmission_Lines.png",
+"file": "500kV_3-Phase_Transmission_Lines.png",
+"v": 2
+},
+"physics/2-0-5_5": {
+"src": "art/photos/physics/2-0-5_5.webp",
+"credit": "unattributed; verso reads Please Return to Charles Scribner's Sons. · Public domain",
+"page": "https://commons.wikimedia.org/wiki/File:Thomas_Edison_c1882.jpg",
+"file": "Thomas_Edison_c1882.jpg",
+"v": 2
+},
 "physics/2-0-5_8": null,
 "physics/3-0-0_0": null,
 "physics/3-0-0_4": {
@@ -13340,7 +15542,13 @@
 "file": "Reflection_in_a_soap_bubble_edit.jpg",
 "v": 2
 },
-"physics/3-0-1_5": null,
+"physics/3-0-1_5": {
+"src": "art/photos/physics/3-0-1_5.webp",
+"credit": "Sbittante · CC BY-SA 3.0",
+"page": "https://commons.wikimedia.org/wiki/File:Polarizer_Through_Glass.jpg",
+"file": "Polarizer_Through_Glass.jpg",
+"v": 2
+},
 "physics/3-0-1_8": null,
 "physics/4-0-0_1": null,
 "physics/4-0-0_4": {
@@ -13351,8 +15559,20 @@
 "v": 2
 },
 "physics/4-0-0_8": null,
-"physics/4-0-1_4": null,
-"physics/4-0-1_5": null,
+"physics/4-0-1_4": {
+"src": "art/photos/physics/4-0-1_4.webp",
+"credit": "D. Marrone/UofA · CC BY 4.0",
+"page": "https://commons.wikimedia.org/wiki/File:Event_Horizon_Telescope_Collaboration_(testing-general-relativity-with-the-event-horizon).jpg",
+"file": "Event_Horizon_Telescope_Collaboration_(testing-general-relativity-with-the-event-horizon).jpg",
+"v": 2
+},
+"physics/4-0-1_5": {
+"src": "art/photos/physics/4-0-1_5.webp",
+"credit": "Amber Stuver · CC BY-SA 4.0",
+"page": "https://commons.wikimedia.org/wiki/File:LLO_Control_Room.jpg",
+"file": "LLO_Control_Room.jpg",
+"v": 2
+},
 "physics/4-0-1_8": null,
 "physics/4-0-2_2": null,
 "physics/4-0-2_4": null,
@@ -13394,7 +15614,13 @@
 "file": "Unknown_greek_pushkin.jpg",
 "v": 2
 },
-"physics/4-0-4_4": null,
+"physics/4-0-4_4": {
+"src": "art/photos/physics/4-0-4_4.webp",
+"credit": "Nobel Foundation · Public domain",
+"page": "https://commons.wikimedia.org/wiki/File:Paul_Dirac,_1933.jpg",
+"file": "Paul_Dirac,_1933.jpg",
+"v": 2
+},
 "physics/4-0-4_5": {
 "src": "art/photos/physics/4-0-4_5.webp",
 "credit": "CERN for the ATLAS and CMS Collaborations · CC BY-SA 3.0",
@@ -13481,7 +15707,13 @@
 "file": "Sir_Ernest_Rutherford_LCCN2014716719_-_restoration1.jpg",
 "v": 2
 },
-"quantum/0-0-2_2": null,
+"quantum/0-0-2_2": {
+"src": "art/photos/quantum/0-0-2_2.webp",
+"credit": "The American Institute of Physics credits the photo [1] to AB Lagreliu · Public domain",
+"page": "https://commons.wikimedia.org/wiki/File:Niels_Bohr.jpg",
+"file": "Niels_Bohr.jpg",
+"v": 2
+},
 "quantum/0-0-2_5": {
 "src": "art/photos/quantum/0-0-2_5.webp",
 "credit": "Easchiff · CC BY-SA 3.0",
@@ -13553,7 +15785,13 @@
 "file": "Laser_Interference.JPG",
 "v": 2
 },
-"quantum/1-0-3_7": null,
+"quantum/1-0-3_7": {
+"src": "art/photos/quantum/1-0-3_7.webp",
+"credit": "Amber Stuver · CC BY-SA 4.0",
+"page": "https://commons.wikimedia.org/wiki/File:LLO_Control_Room.jpg",
+"file": "LLO_Control_Room.jpg",
+"v": 2
+},
 "quantum/1-0-4_1": null,
 "quantum/1-0-4_2": null,
 "quantum/1-0-4_4": null,
@@ -13592,7 +15830,13 @@
 },
 "quantum/1-0-6_8": null,
 "quantum/1-1-0_0": null,
-"quantum/1-1-0_2": null,
+"quantum/1-1-0_2": {
+"src": "art/photos/quantum/1-1-0_2.webp",
+"credit": "Geek3 · CC BY-SA 4.0",
+"page": "https://commons.wikimedia.org/wiki/File:Atomic_orbitals_n123_m-eigenstates.png",
+"file": "Atomic_orbitals_n123_m-eigenstates.png",
+"v": 2
+},
 "quantum/1-1-0_6": {
 "src": "art/photos/quantum/1-1-0_6.webp",
 "credit": "ioerror · CC BY-SA 2.0",
@@ -13611,7 +15855,13 @@
 "quantum/1-1-1_5": null,
 "quantum/1-1-1_8": null,
 "quantum/2-0-0_1": null,
-"quantum/2-0-0_2": null,
+"quantum/2-0-0_2": {
+"src": "art/photos/quantum/2-0-0_2.webp",
+"credit": "Doris Ulmann · Public domain",
+"page": "https://commons.wikimedia.org/wiki/File:Albert_Einstein,_by_Doris_Ulmann.jpg",
+"file": "Albert_Einstein,_by_Doris_Ulmann.jpg",
+"v": 2
+},
 "quantum/2-0-0_4": null,
 "quantum/2-0-0_8": null,
 "quantum/2-0-1_4": {
@@ -13670,7 +15920,13 @@
 "file": "Transbauformen.jpg",
 "v": 2
 },
-"quantum/3-0-1_2": null,
+"quantum/3-0-1_2": {
+"src": "art/photos/quantum/3-0-1_2.webp",
+"credit": "US Gov · Public domain",
+"page": "https://commons.wikimedia.org/wiki/File:Diagram_of_the_original_ruby_laser,_annotated.png",
+"file": "Diagram_of_the_original_ruby_laser,_annotated.png",
+"v": 2
+},
 "quantum/3-0-1_4": null,
 "quantum/3-0-1_5": {
 "src": "art/photos/quantum/3-0-1_5.webp",
@@ -13732,7 +15988,13 @@
 },
 "psir/0-1-0_2": null,
 "psir/0-1-0_4": null,
-"psir/0-1-0_5": null,
+"psir/0-1-0_5": {
+"src": "art/photos/psir/0-1-0_5.webp",
+"credit": "The original uploader was DickClarkMises at English Wikipedia. · CC BY-SA 3.0",
+"page": "https://commons.wikimedia.org/wiki/File:Friedrich_Hayek_portrait.jpg",
+"file": "Friedrich_Hayek_portrait.jpg",
+"v": 2
+},
 "psir/0-1-0_8": null,
 "psir/0-1-1_2": null,
 "psir/0-1-1_4": {
@@ -13758,7 +16020,13 @@
 "file": "Harold_J._Laski_1954.jpg",
 "v": 2
 },
-"psir/0-1-2_2": null,
+"psir/0-1-2_2": {
+"src": "art/photos/psir/0-1-2_2.webp",
+"credit": "Unknown authorUnknown author · Public domain",
+"page": "https://commons.wikimedia.org/wiki/File:Robert_A._Dahl_in_the_Classroom.jpg",
+"file": "Robert_A._Dahl_in_the_Classroom.jpg",
+"v": 2
+},
 "psir/0-1-2_4": null,
 "psir/0-1-2_5": null,
 "psir/0-1-2_7": null,
@@ -13769,7 +16037,13 @@
 "psir/0-1-3_8": null,
 "psir/0-1-4_1": null,
 "psir/0-1-4_2": null,
-"psir/0-1-4_4": null,
+"psir/0-1-4_4": {
+"src": "art/photos/psir/0-1-4_4.webp",
+"credit": "AlexKollontai · CC0",
+"page": "https://commons.wikimedia.org/wiki/File:Street_Art,_Barcelona_Spain_April_2026.jpg",
+"file": "Street_Art,_Barcelona_Spain_April_2026.jpg",
+"v": 2
+},
 "psir/0-1-4_5": {
 "src": "art/photos/psir/0-1-4_5.webp",
 "credit": "Runawaymo · CC BY-SA 4.0",
@@ -13777,11 +16051,29 @@
 "file": "Dr._Kimberlé_Crenshaw_at_2026_Essence_Festival_of_Culture_(cropped).jpg",
 "v": 2
 },
-"psir/0-1-4_8": null,
-"psir/0-2-0_0": null,
+"psir/0-1-4_8": {
+"src": "art/photos/psir/0-1-4_8.webp",
+"credit": "Shijualex at Malayalam Wikipedia · CC BY 3.0",
+"page": "https://commons.wikimedia.org/wiki/File:Muhamma_grama_panchayath.jpg",
+"file": "Muhamma_grama_panchayath.jpg",
+"v": 2
+},
+"psir/0-2-0_0": {
+"src": "art/photos/psir/0-2-0_0.webp",
+"credit": "No individually credited designer. Published by the Belknap Press of H · Public domain",
+"page": "https://commons.wikimedia.org/wiki/File:A_Theory_of_Justice_-_first_American_hardcover_edition.jpg",
+"file": "A_Theory_of_Justice_-_first_American_hardcover_edition.jpg",
+"v": 2
+},
 "psir/0-2-0_1": null,
 "psir/0-2-0_9": null,
-"psir/0-2-0_10": null,
+"psir/0-2-0_10": {
+"src": "art/photos/psir/0-2-0_10.webp",
+"credit": "Illumination/ornamentation by Beohar Rammanohar Sinha, calligraphy by  · Public domain",
+"page": "https://commons.wikimedia.org/wiki/File:Constitution_of_India.jpg",
+"file": "Constitution_of_India.jpg",
+"v": 2
+},
 "psir/0-2-1_2": null,
 "psir/0-2-1_4": null,
 "psir/0-2-1_5": null,
@@ -13827,7 +16119,13 @@
 "psir/0-4-0_4": null,
 "psir/0-4-0_5": null,
 "psir/0-4-0_8": null,
-"psir/0-4-1_1": null,
+"psir/0-4-1_1": {
+"src": "art/photos/psir/0-4-1_1.webp",
+"credit": "FDR Presidential Library &amp; Museum · CC BY 2.0",
+"page": "https://commons.wikimedia.org/wiki/File:Eleanor_Roosevelt_UDHR.jpg",
+"file": "Eleanor_Roosevelt_UDHR.jpg",
+"v": 2
+},
 "psir/0-4-1_2": null,
 "psir/0-4-1_6": null,
 "psir/0-4-1_8": null,
@@ -13920,7 +16218,13 @@
 "file": "Lenin_in_1920_(cropped).jpg",
 "v": 2
 },
-"psir/0-7-1_6": null,
+"psir/0-7-1_6": {
+"src": "art/photos/psir/0-7-1_6.webp",
+"credit": "Unknown authorUnknown author · Public domain",
+"page": "https://commons.wikimedia.org/wiki/File:Eduard_Bernstein_(portrait).jpg",
+"file": "Eduard_Bernstein_(portrait).jpg",
+"v": 2
+},
 "psir/0-7-1_8": null,
 "psir/0-7-1_9": null,
 "psir/0-7-2_1": null,
@@ -13931,7 +16235,13 @@
 "file": "Giovanni_Gentile_Portrait.png",
 "v": 2
 },
-"psir/0-7-2_3": null,
+"psir/0-7-2_3": {
+"src": "art/photos/psir/0-7-2_3.webp",
+"credit": "David Lloyd George, Woodrow Wilson and Georges Clemenceau · Public domain",
+"page": "https://commons.wikimedia.org/wiki/File:Treaty_of_Versailles,_English_version.jpg",
+"file": "Treaty_of_Versailles,_English_version.jpg",
+"v": 2
+},
 "psir/0-7-2_5": {
 "src": "art/photos/psir/0-7-2_5.webp",
 "credit": "Yann (talk) · Public domain",
@@ -13941,7 +16251,13 @@
 },
 "psir/0-7-2_6": null,
 "psir/0-7-2_9": null,
-"psir/0-7-2_10": null,
+"psir/0-7-2_10": {
+"src": "art/photos/psir/0-7-2_10.webp",
+"credit": "आशीष भटनागर · CC BY-SA 3.0",
+"page": "https://commons.wikimedia.org/wiki/File:Savitribai_Phule_statue,_Maharashtra_sadan,_New_Delhi.jpg",
+"file": "Savitribai_Phule_statue,_Maharashtra_sadan,_New_Delhi.jpg",
+"v": 2
+},
 "psir/0-7-3_2": null,
 "psir/0-7-3_4": {
 "src": "art/photos/psir/0-7-3_4.webp",
@@ -13953,7 +16269,13 @@
 "psir/0-7-3_5": null,
 "psir/0-7-3_8": null,
 "psir/0-7-4_2": null,
-"psir/0-7-4_4": null,
+"psir/0-7-4_4": {
+"src": "art/photos/psir/0-7-4_4.webp",
+"credit": "Peter Kropotkin, McClure Phillips &amp; Co · Public domain",
+"page": "https://commons.wikimedia.org/wiki/File:Mutual_Aid_cover.png",
+"file": "Mutual_Aid_cover.png",
+"v": 2
+},
 "psir/0-7-4_5": null,
 "psir/0-7-4_7": null,
 "psir/0-7-4_8": null,
@@ -13977,9 +16299,21 @@
 "psir/0-7-7_5": null,
 "psir/0-7-7_8": null,
 "psir/0-8-0_2": null,
-"psir/0-8-0_5": null,
+"psir/0-8-0_5": {
+"src": "art/photos/psir/0-8-0_5.webp",
+"credit": "Unknown artistUnknown artist · CC0",
+"page": "https://commons.wikimedia.org/wiki/File:Folios_of_the_Bhikkhuni-patimokkha_(BL_IO_Man.Pali_21).jpg",
+"file": "Folios_of_the_Bhikkhuni-patimokkha_(BL_IO_Man.Pali_21).jpg",
+"v": 2
+},
 "psir/0-8-0_6": null,
-"psir/0-8-0_7": null,
+"psir/0-8-0_7": {
+"src": "art/photos/psir/0-8-0_7.webp",
+"credit": "Photo Dharma from Sadao, Thailand · CC BY 2.0",
+"page": "https://commons.wikimedia.org/wiki/File:Ashoka%27s_visit_to_the_Ramagrama_stupa_Sanchi_Stupa_1_Southern_gateway.jpg",
+"file": "Ashoka's_visit_to_the_Ramagrama_stupa_Sanchi_Stupa_1_Southern_gateway.jpg",
+"v": 2
+},
 "psir/0-8-0_9": null,
 "psir/0-8-0_11": null,
 "psir/0-8-1_0": null,
@@ -14057,7 +16391,13 @@
 "psir/0-8-7_2": null,
 "psir/0-8-7_4": null,
 "psir/0-8-7_8": null,
-"psir/0-8-8_4": null,
+"psir/0-8-8_4": {
+"src": "art/photos/psir/0-8-8_4.webp",
+"credit": "Heax18 (talk) · Public domain",
+"page": "https://commons.wikimedia.org/wiki/File:Gandhi_Maidan.jpg",
+"file": "Gandhi_Maidan.jpg",
+"v": 2
+},
 "psir/0-8-8_5": null,
 "psir/0-8-8_7": null,
 "psir/0-8-8_8": null,
@@ -14176,8 +16516,20 @@
 "psir/0-9-6_1": null,
 "psir/0-9-6_3": null,
 "psir/0-9-6_7": null,
-"psir/0-9-6_10": null,
-"psir/0-9-7_5": null,
+"psir/0-9-6_10": {
+"src": "art/photos/psir/0-9-6_10.webp",
+"credit": "Unknown authorUnknown author · Public domain",
+"page": "https://commons.wikimedia.org/wiki/File:Nytrib1864.jpg",
+"file": "Nytrib1864.jpg",
+"v": 2
+},
+"psir/0-9-7_5": {
+"src": "art/photos/psir/0-9-7_5.webp",
+"credit": "Baldassare Verazzi (1819-1886) · Public domain",
+"page": "https://commons.wikimedia.org/wiki/File:Episodio_delle_cinque_giornate_(Baldassare_Verazzi).jpg",
+"file": "Episodio_delle_cinque_giornate_(Baldassare_Verazzi).jpg",
+"v": 2
+},
 "psir/0-9-7_8": null,
 "psir/0-9-8_1": null,
 "psir/0-9-8_2": null,
@@ -14295,7 +16647,13 @@
 "psir/1-3-0_7": null,
 "psir/1-3-0_8": null,
 "psir/1-3-1_1": null,
-"psir/1-3-1_5": null,
+"psir/1-3-1_5": {
+"src": "art/photos/psir/1-3-1_5.webp",
+"credit": "IAEA Imagebank · CC BY 2.0",
+"page": "https://commons.wikimedia.org/wiki/File:Om_Birla_(2021)_(cropped).jpg",
+"file": "Om_Birla_(2021)_(cropped).jpg",
+"v": 2
+},
 "psir/1-3-1_8": null,
 "psir/1-3-2_1": null,
 "psir/1-3-2_5": null,
@@ -14440,7 +16798,13 @@
 "v": 2
 },
 "psir/2-10-1_4": null,
-"psir/2-10-2_2": null,
+"psir/2-10-2_2": {
+"src": "art/photos/psir/2-10-2_2.webp",
+"credit": "Staff Sgt. Christopher Willis · Public domain",
+"page": "https://commons.wikimedia.org/wiki/File:Snow_won%27t_stop_operations_121228-F-LR266-849.jpg",
+"file": "Snow_won't_stop_operations_121228-F-LR266-849.jpg",
+"v": 2
+},
 "psir/2-10-2_4": {
 "src": "art/photos/psir/2-10-2_4.webp",
 "credit": "This image was produced by me, David Castor (user:dcastor). The pictur · Public domain",
@@ -14524,7 +16888,13 @@
 "psir/2-4-4_11": null,
 "psir/2-4-5_4": null,
 "psir/2-4-5_7": null,
-"psir/2-4-6_2": null,
+"psir/2-4-6_2": {
+"src": "art/photos/psir/2-4-6_2.webp",
+"credit": "Unknown authorUnknown author · Public domain",
+"page": "https://commons.wikimedia.org/wiki/File:Photograph_of_Frantz_Fanon_from_Black_Skin_White_Masks_(1967)_dust_jacket.webp",
+"file": "Photograph_of_Frantz_Fanon_from_Black_Skin_White_Masks_(1967)_dust_jacket.webp",
+"v": 2
+},
 "psir/2-4-6_4": {
 "src": "art/photos/psir/2-4-6_4.webp",
 "credit": "Amitav Acharya · CC BY-SA 3.0",
@@ -14547,7 +16917,13 @@
 "psir/2-5-2_6": null,
 "psir/2-5-2_8": null,
 "psir/2-5-2_9": null,
-"psir/2-6-0_1": null,
+"psir/2-6-0_1": {
+"src": "art/photos/psir/2-6-0_1.webp",
+"credit": "US government photographer · Public domain",
+"page": "https://commons.wikimedia.org/wiki/File:Yalta_Conference_(Churchill,_Roosevelt,_Stalin)_(B%26W).jpg",
+"file": "Yalta_Conference_(Churchill,_Roosevelt,_Stalin)_(B&W).jpg",
+"v": 2
+},
 "psir/2-6-0_2": null,
 "psir/2-6-0_4": {
 "src": "art/photos/psir/2-6-0_4.webp",
@@ -14587,7 +16963,13 @@
 "file": "USAF_F-16A_F-15C_F-15E_Desert_Storm_edit2.jpg",
 "v": 2
 },
-"psir/2-6-2_4": null,
+"psir/2-6-2_4": {
+"src": "art/photos/psir/2-6-2_4.webp",
+"credit": "Pfc. Cameron Boyd · Public domain",
+"page": "https://commons.wikimedia.org/wiki/File:U.S._Army_firefight_in_Kunar.jpg",
+"file": "U.S._Army_firefight_in_Kunar.jpg",
+"v": 2
+},
 "psir/2-6-2_5": null,
 "psir/2-6-3_1": null,
 "psir/2-6-3_2": null,
@@ -14606,8 +16988,20 @@
 "file": "AIIB_Headquarters_Building_(20211124105742).jpg",
 "v": 2
 },
-"psir/2-6-3_8": null,
-"psir/2-7-0_1": null,
+"psir/2-6-3_8": {
+"src": "art/photos/psir/2-6-3_8.webp",
+"credit": "United States Central Intelligence Agency · Public domain",
+"page": "https://commons.wikimedia.org/wiki/File:Kashmir_Region_(2020_skirmish_locations).jpg",
+"file": "Kashmir_Region_(2020_skirmish_locations).jpg",
+"v": 2
+},
+"psir/2-7-0_1": {
+"src": "art/photos/psir/2-7-0_1.webp",
+"credit": "Unknown authorUnknown author or not provided · Public domain",
+"page": "https://commons.wikimedia.org/wiki/File:Unemployed_men_queued_outside_a_depression_soup_kitchen_opened_in_Chicago_by_Al_Capone,_02-1931_-_NARA_-_541927.jpg",
+"file": "Unemployed_men_queued_outside_a_depression_soup_kitchen_opened_in_Chicago_by_Al_Capone,_02-1931_-_NARA_-_541927.jpg",
+"v": 2
+},
 "psir/2-7-0_2": null,
 "psir/2-7-0_4": null,
 "psir/2-7-0_5": null,
@@ -14622,7 +17016,13 @@
 "psir/2-7-1_1": null,
 "psir/2-7-1_4": null,
 "psir/2-7-1_5": null,
-"psir/2-7-1_6": null,
+"psir/2-7-1_6": {
+"src": "art/photos/psir/2-7-1_6.webp",
+"credit": "Gustavobarreto-un · CC BY-SA 4.0",
+"page": "https://commons.wikimedia.org/wiki/File:UNCTAD_Master_Logo_Blue.png",
+"file": "UNCTAD_Master_Logo_Blue.png",
+"v": 2
+},
 "psir/2-7-1_8": {
 "src": "art/photos/psir/2-7-1_8.webp",
 "credit": "Dati Bendo / European Communities, 2025 / EC - Audiovisual Service · CC BY 4.0",
@@ -14662,19 +17062,37 @@
 "psir/2-9-0_5": null,
 "psir/2-9-0_6": null,
 "psir/2-9-1_4": null,
-"psir/2-9-1_8": null,
+"psir/2-9-1_8": {
+"src": "art/photos/psir/2-9-1_8.webp",
+"credit": "Pur 0 0 · CC0",
+"page": "https://commons.wikimedia.org/wiki/File:BIMSTEC_flag.png",
+"file": "BIMSTEC_flag.png",
+"v": 2
+},
 "psir/3-0-0_1": null,
 "psir/3-0-0_2": null,
 "psir/3-0-0_4": null,
 "psir/3-0-0_7": null,
-"psir/3-0-0_8": null,
+"psir/3-0-0_8": {
+"src": "art/photos/psir/3-0-0_8.webp",
+"credit": "Grubb at English Wikipedia · CC BY-SA 3.0",
+"page": "https://commons.wikimedia.org/wiki/File:Pakistan_India_Locator_2.png",
+"file": "Pakistan_India_Locator_2.png",
+"v": 2
+},
 "psir/3-0-1_2": null,
 "psir/3-0-1_4": null,
 "psir/3-0-1_5": null,
 "psir/3-0-1_8": null,
 "psir/3-1-0_1": null,
 "psir/3-1-0_2": null,
-"psir/3-1-0_8": null,
+"psir/3-1-0_8": {
+"src": "art/photos/psir/3-1-0_8.webp",
+"credit": "Ministry of Defense of Ukraine · CC BY-SA 2.0",
+"page": "https://commons.wikimedia.org/wiki/File:Anti-terrorist_operation_in_eastern_Ukraine_(War_Ukraine)_(27843153986).jpg",
+"file": "Anti-terrorist_operation_in_eastern_Ukraine_(War_Ukraine)_(27843153986).jpg",
+"v": 2
+},
 "psir/3-2-0_1": null,
 "psir/3-2-0_4": null,
 "psir/3-2-0_5": null,
@@ -14794,11 +17212,23 @@
 "v": 2
 },
 "psir/3-7-1_1": null,
-"psir/3-7-1_2": null,
+"psir/3-7-1_2": {
+"src": "art/photos/psir/3-7-1_2.webp",
+"credit": "Amohammadid · CC BY-SA 4.0",
+"page": "https://commons.wikimedia.org/wiki/File:%D9%85%D8%AD%D9%88%D8%B7%D9%87_%D8%B4%D9%87%DB%8C%D8%AF%DA%A9%D9%84%D8%A7%D9%86%D8%AA%D8%B1%DB%8C.jpg",
+"file": "محوطه_شهیدکلانتری.jpg",
+"v": 2
+},
 "psir/3-7-1_4": null,
 "psir/3-7-1_8": null,
 "psir/3-7-2_2": null,
-"psir/3-7-2_4": null,
+"psir/3-7-2_4": {
+"src": "art/photos/psir/3-7-2_4.webp",
+"credit": "DAGBS52795 · CC BY-SA 4.0",
+"page": "https://commons.wikimedia.org/wiki/File:MN_Conference.jpg",
+"file": "MN_Conference.jpg",
+"v": 2
+},
 "psir/3-7-2_5": {
 "src": "art/photos/psir/3-7-2_5.webp",
 "credit": "Merik egy · CC BY-SA 4.0",
@@ -14834,7 +17264,13 @@
 "psir/3-8-0_7": null,
 "psir/3-8-1_2": null,
 "psir/3-8-1_4": null,
-"psir/3-8-1_7": null,
+"psir/3-8-1_7": {
+"src": "art/photos/psir/3-8-1_7.webp",
+"credit": "Unknown · Public domain",
+"page": "https://commons.wikimedia.org/wiki/File:Alfred_Thayer_Mahan.jpeg",
+"file": "Alfred_Thayer_Mahan.jpeg",
+"v": 2
+},
 "psir/3-8-2_2": null,
 "psir/3-8-2_4": null,
 "psir/3-8-3_2": null,
