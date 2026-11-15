@@ -15,6 +15,8 @@
         android:textColor="#7F8BA0" android:textSize="10sp" android:letterSpacing="0.15"/>
     <TextView android:id="@+id/w_next" android:layout_width="match_parent" android:layout_height="wrap_content"
         android:text="Open the app to start" android:textColor="#FFFFFF" android:textSize="17sp" android:textStyle="bold" android:maxLines="2" android:ellipsize="end"/>
+    <TextView android:id="@+id/w_subs" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="6dp"
+        android:text="" android:textColor="#D5DCE8" android:textSize="12sp" android:lineSpacingExtra="1dp" android:maxLines="4" android:ellipsize="end"/>
     <TextView android:id="@+id/w_chapter" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="6dp"
         android:text="" android:textColor="#B9C4D6" android:textSize="11sp" android:maxLines="1" android:ellipsize="end"/>
     <ProgressBar android:id="@+id/w_prog" style="?android:attr/progressBarStyleHorizontal" android:layout_width="match_parent" android:layout_height="6dp"

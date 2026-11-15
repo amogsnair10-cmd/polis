@@ -62,114 +62,114 @@
  ],
  "quiz": [
   {
-   "q": "Easton defined politics as the…",
+   "q": "Consider the following statements about Easton's eight foundation stones:\n1. One of the stones is Quantification, the idea that behaviour should be measured where possible.\n2. One of the stones is Revolution, which asks scholars to act on their knowledge.\nWhich of the statements given above is/are correct?",
    "o": [
-    "Study of the state",
-    "Authoritative allocation of values",
-    "Art of the possible",
-    "Struggle for power"
+    "2 only",
+    "1 and 2 only",
+    "1 only",
+    "Neither 1 nor 2"
+   ],
+   "a": 2,
+   "w": "1 is true: Quantification is on the list and means measuring where possible. 2 is false: Revolution is not on the list; acting on knowledge is a post-behaviouralist credo."
+  },
+  {
+   "q": "Consider the following statements:\n1. Almond and Verba, in The Civic Culture (1963), studied five countries.\n2. Karl Deutsch treated politics as a structural-functional system.\n3. Gabriel Almond's structural-functionalism says every political system performs the same functions through different structures.\nWhich of the statements given above is/are correct?",
+   "o": [
+    "1 and 2 only",
+    "1 and 3 only",
+    "2 and 3 only",
+    "1, 2 and 3"
    ],
    "a": 1,
-   "w": "Easton's definition: the authoritative allocation of values for a society."
+   "w": "1 is true: the lesson says five countries. 2 is false: Deutsch studied politics as communication. 3 is true: Almond's definition."
   },
   {
-   "q": "Post-behaviouralism was announced in Easton's address of…",
+   "q": "Consider the following statements:\n1. The two watchwords of post-behaviouralism are relevance and action.\n2. Easton's 1969 address rejected survey research and statistics altogether.\nWhich of the statements given above is/are correct?",
    "o": [
-    "1969",
-    "1962",
-    "1971",
-    "1953"
+    "1 only",
+    "2 only",
+    "1 and 2 only",
+    "Neither 1 nor 2"
    ],
    "a": 0,
-   "w": "Easton's 1969 APSA presidential address, 'The New Revolution in Political Science'."
+   "w": "1 is true: relevance and action. 2 is false: post-behaviouralism did not reject methods; it said methods must serve meaningful questions."
   },
   {
-   "q": "The two watchwords of post-behaviouralism are…",
+   "q": "Consider the following statements:\n1. Rudolph and Rudolph, in The Modernity of Tradition (1967), showed caste associations adapting to democracy.\n2. The Centre for the Study of Developing Societies was founded in Delhi in 1963 by Rajni Kothari.\n3. Kothari's Politics in India (1970) rejected systems ideas and used only Western models.\nHow many of the statements given above are correct?",
    "o": [
-    "Power and interest",
-    "Data and method",
-    "Order and stability",
-    "Relevance and action"
+    "Only one",
+    "All three",
+    "None",
+    "Only two"
    ],
    "a": 3,
-   "w": "Relevance and action."
+   "w": "1 is true: caste associations adapted to democracy. 2 is true: CSDS was founded in 1963 by Kothari. 3 is false: Kothari used systems ideas to describe the Congress system. Two are correct."
   },
   {
-   "q": "The Civic Culture (1963) was written by…",
+   "q": "Consider the following statements about the critique of behaviouralism:\n1. The critique said that studying \"what is\" quietly accepted the existing order.\n2. The critique said behaviouralist models fitted new countries like India as well as the USA.\n3. The critique said value-neutrality was a fact, because choosing what to study is a neutral act.\nHow many of the statements given above are correct?",
    "o": [
-    "Almond and Verba",
-    "Easton",
-    "Merriam",
-    "Dahl"
+    "None",
+    "Only one",
+    "All three",
+    "Only two"
+   ],
+   "a": 1,
+   "w": "1 is true: status quo bias. 2 is false: its models fitted the USA but not new countries like India. 3 is false: the critique called value-neutrality a myth, since choosing what to study is a value choice. One is correct."
+  },
+  {
+   "q": "Consider the following pairs:\n1. Charles Merriam: the Chicago School of the 1920s\n2. Karl Deutsch: The Civic Culture (1963)\n3. Rajni Kothari: Politics in India (1970)\nHow many pairs are correctly matched?",
+   "o": [
+    "None",
+    "All three",
+    "Only one",
+    "Only two"
+   ],
+   "a": 3,
+   "w": "1 is correct: the roots of behaviouralism go to the Chicago School under Merriam. 2 is wrong: The Civic Culture is by Almond and Verba. 3 is correct: Kothari's book. Two are correct."
+  },
+  {
+   "q": "Consider the following pairs:\n1. David Easton: authoritative allocation of values\n2. Post-behaviouralism: announced in Easton's 1971 address\n3. Rudolph and Rudolph: Politics in India (1970)\nHow many pairs are correctly matched?",
+   "o": [
+    "Only one",
+    "Only two",
+    "All three",
+    "None"
    ],
    "a": 0,
-   "w": "Gabriel Almond and Sidney Verba."
+   "w": "1 is correct: Easton's definition of politics. 2 is wrong: the address was in 1969. 3 is wrong: Politics in India is Kothari's; Rudolph and Rudolph wrote The Modernity of Tradition. One is correct."
   },
   {
-   "q": "Which is NOT one of Easton's 8 foundation stones?",
+   "q": "Consider the following statements:\nStatement-I: Easton's model treats politics as a system, in which outputs create feedback that shapes new inputs.\nStatement-II: Easton's 1969 address launched behaviouralism and called for methods to be dropped.\nWhich one of the following is correct in respect of the above statements?",
    "o": [
-    "Quantification",
-    "Verification",
-    "Integration",
-    "Revolution"
+    "Both Statement-I and Statement-II are individually true and Statement-II is the correct explanation of Statement-I",
+    "Both Statement-I and Statement-II are individually true but Statement-II is not the correct explanation of Statement-I",
+    "Statement-I is true but Statement-II is false",
+    "Statement-I is false but Statement-II is true"
    ],
-   "a": 3,
-   "w": "Revolution is not on the list."
+   "a": 2,
+   "w": "Statement-I is true: Easton's systems model has feedback. Statement-II is false: the 1969 address launched post-behaviouralism, which did not reject methods."
   },
   {
-   "q": "Behaviouralism's roots lie in the Chicago School under…",
+   "q": "Which one of the following is NOT one of the three types of political culture in Almond and Verba's study?",
    "o": [
-    "Harold Lasswell",
-    "Robert Dahl",
-    "David Easton",
-    "Charles Merriam"
-   ],
-   "a": 3,
-   "w": "Charles Merriam in the 1920s."
-  },
-  {
-   "q": "Almond and Verba's three types of political culture are parochial, subject and…",
-   "o": [
-    "Civic",
-    "Mass",
-    "Democratic",
+    "Revolutionary",
+    "Parochial",
+    "Subject",
     "Participant"
    ],
-   "a": 3,
-   "w": "Parochial, subject and participant."
+   "a": 0,
+   "w": "The three types are parochial, subject and participant. Revolutionary is not one of them."
   },
   {
-   "q": "Karl Deutsch is linked with which model of politics?",
+   "q": "Arrange these works in chronological order:\n1. Easton's The Political System\n2. Almond and Verba's The Civic Culture\n3. Easton's A Systems Analysis of Political Life\n4. Easton's 1969 presidential address\nWhich one of the following is the correct order?",
    "o": [
-    "Rational choice",
-    "Communication or cybernetic",
-    "Structural-functional",
-    "Elite"
+    "2-1-3-4",
+    "1-2-3-4",
+    "1-3-2-4",
+    "1-2-4-3"
    ],
    "a": 1,
-   "w": "He treated politics as communication."
-  },
-  {
-   "q": "CSDS was founded in 1963 by…",
-   "o": [
-    "Rajni Kothari",
-    "Bhikhu Parekh",
-    "Yogendra Yadav",
-    "Ashis Nandy"
-   ],
-   "a": 0,
-   "w": "Rajni Kothari."
-  },
-  {
-   "q": "The Modernity of Tradition (1967) showed that caste…",
-   "o": [
-    "Adapted to democracy through caste associations",
-    "Was purely economic",
-    "Blocked all participation",
-    "Disappeared with modernisation"
-   ],
-   "a": 0,
-   "w": "Rudolph and Rudolph."
+   "w": "The years are 1953, 1963, 1965 and 1969. So 1-2-3-4."
   }
  ],
  "sources": [],

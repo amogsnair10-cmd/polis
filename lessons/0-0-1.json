@@ -62,114 +62,114 @@
  ],
  "quiz": [
   {
-   "q": "Which approach focuses on constitutions and formal structures?",
+   "q": "Consider the following statements:\n1. Aristotle is said to have compared 158 constitutions.\n2. Montesquieu's The Spirit of the Laws (1748) compared laws only as legal codes and ignored climate, religion and customs.\nWhich of the statements given above is/are correct?",
    "o": [
-    "Behavioural",
-    "Systems",
-    "Marxist",
-    "Institutional"
+    "1 only",
+    "2 only",
+    "1 and 2 only",
+    "Neither 1 nor 2"
    ],
-   "a": 3,
-   "w": "The institutional approach studies formal structures of government."
+   "a": 0,
+   "w": "1 is true: the comparative approach section says Aristotle compared 158 constitutions. 2 is false: Montesquieu linked laws to climate, religion and customs."
   },
   {
-   "q": "Who wrote Modern Democracies?",
+   "q": "Consider the following statements:\n1. The philosophical approach starts with values and reasoning, not data.\n2. The historical approach is illustrated by the work of James Bryce, who wrote Modern Democracies.\n3. The legal approach sees the state mainly as a legal body that makes and enforces law.\nWhich of the statements given above is/are correct?",
    "o": [
-    "David Easton",
-    "Harold Laski",
-    "James Bryce",
-    "A.V. Dicey"
+    "1 and 2 only",
+    "2 and 3 only",
+    "1 and 3 only",
+    "1, 2 and 3"
    ],
    "a": 2,
-   "w": "James Bryce wrote Modern Democracies (1921)."
+   "w": "1 is true: the philosophical approach starts with values and reasoning. 2 is false: Bryce is an institutional thinker; the historical approach used Sabine and Dunning. 3 is true: the lesson's legal approach definition."
   },
   {
-   "q": "John Austin defined law as…",
+   "q": "Consider the following statements:\n1. Graham Wallas, in Human Nature in Politics (1908), argued that people act on instinct and emotion more than reason.\n2. The institutional approach's main strength is that it covers informal politics such as caste and pressure groups.\nWhich of the statements given above is/are correct?",
    "o": [
-    "The command of the sovereign",
-    "Divine will",
-    "General will",
-    "Customary practice"
-   ],
-   "a": 0,
-   "w": "Austin's analytical jurisprudence defined law as the command of the sovereign."
-  },
-  {
-   "q": "A key weakness of the institutional approach is that it…",
-   "o": [
-    "Uses too much data",
-    "Is too predictive",
-    "Rejects the state",
-    "Ignores informal politics"
+    "2 only",
+    "1 and 2 only",
+    "Neither 1 nor 2",
+    "1 only"
    ],
    "a": 3,
-   "w": "It ignores informal forces like caste, pressure groups and personalities."
+   "w": "1 is true: Wallas stressed instinct and emotion. 2 is false: the institutional approach ignores informal politics; that is its weakness, not its strength."
   },
   {
-   "q": "New institutionalism is linked to…",
+   "q": "Consider the following statements about traditional approaches:\n1. They are value-laden, openly judging what is good.\n2. They rely mainly on surveys and statistics.\n3. They are state-centric, with the state as the main unit of study.\nHow many of the statements given above are correct?",
    "o": [
-    "March and Olsen",
-    "Dahl and Lindblom",
-    "Plato and Aristotle",
-    "Marx and Engels"
+    "Only two",
+    "Only one",
+    "All three",
+    "None"
    ],
    "a": 0,
-   "w": "James March and Johan Olsen (1984) brought institutions back in."
+   "w": "1 is true: they openly judge what is good. 2 is false: they rely on reasoning, history and legal texts, not surveys or statistics. 3 is true: the state is the main unit. Two are correct."
   },
   {
-   "q": "Human Nature in Politics (1908) was written by…",
+   "q": "Consider the following statements:\n1. The historical approach gives context: Hobbes makes more sense when you know about the English Civil War.\n2. John Austin defined law as the general will of the people.\n3. A.V. Dicey's work is on pressure groups.\nHow many of the statements given above are correct?",
    "o": [
-    "Charles Merriam",
-    "Harold Laski",
-    "James Bryce",
-    "Graham Wallas"
+    "None",
+    "All three",
+    "Only one",
+    "Only two"
+   ],
+   "a": 2,
+   "w": "1 is true: the lesson uses Hobbes and the English Civil War as its example. 2 is false: Austin defined law as the command of the sovereign. 3 is false: Dicey is linked to the rule of law. One is correct."
+  },
+  {
+   "q": "Consider the following pairs:\n1. Institutional approach: Herman Finer and Harold Laski\n2. Legal approach: Graham Wallas\n3. Comparative approach: Montesquieu\nHow many pairs are correctly matched?",
+   "o": [
+    "None",
+    "Only two",
+    "All three",
+    "Only one"
+   ],
+   "a": 1,
+   "w": "1 is correct: both are institutional thinkers in the lesson. 2 is wrong: Wallas is in the psychological approach. 3 is correct: Montesquieu is in the comparative section. Two are correct."
+  },
+  {
+   "q": "Consider the following pairs:\n1. Sociological approach: Tocqueville's Democracy in America (1835-40)\n2. Psychological approach: Montesquieu's The Spirit of the Laws (1748)\n3. Philosophical approach: John Austin\nHow many pairs are correctly matched?",
+   "o": [
+    "Only two",
+    "None",
+    "All three",
+    "Only one"
    ],
    "a": 3,
-   "w": "Wallas stressed instinct and emotion in politics."
+   "w": "1 is correct: the lesson links Tocqueville to the sociological approach. 2 is wrong: the psychological approach is Wallas's. 3 is wrong: Austin is in the legal approach. One is correct."
   },
   {
-   "q": "The Spirit of the Laws (1748) is by…",
+   "q": "Consider the following statements:\nStatement-I: The institutional approach is good for comparing governments.\nStatement-II: The institutional approach takes account of informal politics such as caste and pressure groups.\nWhich one of the following is correct in respect of the above statements?",
    "o": [
-    "Montesquieu",
-    "Bodin",
-    "Tocqueville",
-    "Rousseau"
+    "Both Statement-I and Statement-II are individually true and Statement-II is the correct explanation of Statement-I",
+    "Both Statement-I and Statement-II are individually true but Statement-II is not the correct explanation of Statement-I",
+    "Statement-I is true but Statement-II is false",
+    "Statement-I is false but Statement-II is true"
+   ],
+   "a": 2,
+   "w": "Statement-I is true: the lesson says it is good for comparing governments. Statement-II is false: the approach ignores informal politics."
+  },
+  {
+   "q": "Which one of the following is NOT a common feature of traditional approaches, as the lesson lists them?",
+   "o": [
+    "Reliance on surveys and statistics",
+    "Value-laden",
+    "State-centric",
+    "Descriptive and prescriptive"
    ],
    "a": 0,
-   "w": "Montesquieu."
+   "w": "Traditional approaches rely on reasoning, history and legal texts, not surveys or statistics. The other three are listed features."
   },
   {
-   "q": "A.V. Dicey is known for his work on…",
+   "q": "Arrange these works in chronological order:\n1. Montesquieu's The Spirit of the Laws\n2. Tocqueville's Democracy in America\n3. Graham Wallas's Human Nature in Politics\n4. The Kesavananda Bharati case\nWhich one of the following is the correct order?",
    "o": [
-    "Rule of law",
-    "Pluralism",
-    "Natural rights",
-    "Sovereignty of the people"
-   ],
-   "a": 0,
-   "w": "Dicey's classic account of the rule of law."
-  },
-  {
-   "q": "Traditional approaches are mainly…",
-   "o": [
-    "Post-modern",
-    "Value-laden and state-centric",
-    "Value-free and quantitative",
-    "Behavioural"
+    "2-1-3-4",
+    "1-2-3-4",
+    "1-3-2-4",
+    "1-2-4-3"
    ],
    "a": 1,
-   "w": "They openly judge and focus on the state."
-  },
-  {
-   "q": "The basic structure doctrine came from…",
-   "o": [
-    "Golaknath (1967)",
-    "Kesavananda Bharati (1973)",
-    "Minerva Mills (1980)",
-    "Maneka Gandhi (1978)"
-   ],
-   "a": 1,
-   "w": "Kesavananda Bharati, 1973."
+   "w": "The years are 1748, 1835-40, 1908 and 1973 (the lesson gives 1973 for Kesavananda Bharati). So 1-2-3-4."
   }
  ],
  "sources": [],

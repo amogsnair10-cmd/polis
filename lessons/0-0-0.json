@@ -62,114 +62,114 @@
  ],
  "quiz": [
   {
-   "q": "Who wrote that political philosophy was \"dead\" in 1956?",
+   "q": "Consider the following statements:\n1. In The Political System (1953), David Easton said political theory had become mere history of ideas.\n2. Peter Laslett blamed logical positivism for holding that value statements were meaningful.\nWhich of the statements given above is/are correct?",
    "o": [
-    "Alfred Cobban",
-    "David Easton",
-    "Peter Laslett",
-    "Leo Strauss"
-   ],
-   "a": 2,
-   "w": "Peter Laslett wrote this in his introduction to Philosophy, Politics and Society (1956)."
-  },
-  {
-   "q": "Normative political theory mainly deals with…",
-   "o": [
-    "Testable generalisations",
-    "Causal explanation of behaviour",
-    "What is",
-    "What ought to be"
-   ],
-   "a": 3,
-   "w": "Normative theory is about values and ideals: what ought to be."
-  },
-  {
-   "q": "Which 1971 book is credited with reviving normative theory?",
-   "o": [
-    "The Political System",
-    "Anarchy, State, and Utopia",
-    "Two Concepts of Liberty",
-    "A Theory of Justice"
-   ],
-   "a": 3,
-   "w": "John Rawls's A Theory of Justice (1971) is the landmark revival text."
-  },
-  {
-   "q": "Isaiah Berlin argued political theory survives because…",
-   "o": [
-    "Data keeps growing",
-    "States keep expanding",
-    "People disagree about ends",
-    "Science failed"
-   ],
-   "a": 2,
-   "w": "As long as people disagree about ends like liberty and equality, political theory lives."
-  },
-  {
-   "q": "Which school said value statements were meaningless, hurting political philosophy?",
-   "o": [
-    "Logical positivism",
-    "Idealism",
-    "Stoicism",
-    "Existentialism"
-   ],
-   "a": 0,
-   "w": "Logical positivism held only empirically verifiable statements were meaningful."
-  },
-  {
-   "q": "Who wrote 'The Decline of Political Theory' (1953)?",
-   "o": [
-    "David Easton",
-    "Alfred Cobban",
-    "Isaiah Berlin",
-    "Leo Strauss"
+    "2 only",
+    "1 only",
+    "1 and 2 only",
+    "Neither 1 nor 2"
    ],
    "a": 1,
-   "w": "Alfred Cobban's 1953 essay."
+   "w": "1 is true: Easton said theory had become mere history of ideas. 2 is false: Laslett blamed positivism for saying value statements were meaningless."
   },
   {
-   "q": "The Cambridge School's key method is to read texts…",
+   "q": "Consider the following statements:\n1. Isaiah Berlin said political theory will exist as long as people disagree about ends such as liberty and equality.\n2. John Rawls's A Theory of Justice (1971) is described as the book that ended the revival of normative theory.\n3. Daniel Bell's The End of Ideology (1960) argued that the West had settled its big ideological fights.\nWhich of the statements given above is/are correct?",
    "o": [
-    "As class ideology only",
-    "Through statistics",
-    "As timeless truths",
-    "In their historical and linguistic context"
+    "1 and 2 only",
+    "1 and 3 only",
+    "2 and 3 only",
+    "1, 2 and 3"
+   ],
+   "a": 1,
+   "w": "1 is true: Berlin's test was disagreement about ends. 2 is false: Rawls's book is described as the start of the revival, not its end. 3 is true: Bell said the big ideological fights were settled."
+  },
+  {
+   "q": "Consider the following statements:\n1. Quentin Skinner said old texts must be read in their own context, as moves in the debates of their time.\n2. Francis Fukuyama's \"The End of History?\" claimed that ethnic wars and 9/11 proved liberal democracy was the final form of government.\n3. George Sabine described political theory as \"disciplined investigation of political problems\".\nHow many of the statements given above are correct?",
+   "o": [
+    "All three",
+    "Only one",
+    "None",
+    "Only two"
    ],
    "a": 3,
-   "w": "Skinner, Pocock and Dunn read texts as moves in the debates of their time."
+   "w": "1 is true: Skinner asked for reading texts in context. 2 is false: the lesson says those events showed the debate was far from over. 3 is true: Sabine's definition. Two are correct."
   },
   {
-   "q": "The End of Ideology (1960) was written by…",
+   "q": "Consider the following pairs:\n1. Daniel Bell: The End of Ideology (1960)\n2. Alfred Cobban: The Political System (1953)\n3. Isaiah Berlin: \"Meaning and Understanding in the History of Ideas\" (1969)\nHow many pairs are correctly matched?",
    "o": [
-    "Raymond Aron",
-    "Herbert Marcuse",
-    "Daniel Bell",
-    "Francis Fukuyama"
+    "Only one",
+    "Only two",
+    "All three",
+    "None"
+   ],
+   "a": 0,
+   "w": "1 is correct: Bell wrote The End of Ideology. 2 is wrong: The Political System is Easton's book; Cobban wrote The Decline of Political Theory. 3 is wrong: that 1969 essay is Skinner's, not Berlin's."
+  },
+  {
+   "q": "Consider the following pairs:\n1. Normative theory: asks what ought to be\n2. Empirical theory: asks what ought to be\n3. Political ideology: a set of ideas meant to drive action\nHow many pairs are correctly matched?",
+   "o": [
+    "None",
+    "All three",
+    "Only two",
+    "Only one"
    ],
    "a": 2,
-   "w": "Daniel Bell."
+   "w": "1 is correct: normative theory asks what should be. 2 is wrong: empirical theory asks what is. 3 is correct: ideology is meant to drive action. Two are correct."
   },
   {
-   "q": "Proposing how to make democracy deeper is an example of which job?",
+   "q": "Consider the following statements:\nStatement-I: Berlin held that political theory could survive only in a world where everyone agreed on goals.\nStatement-II: Berlin said political theory survives because people disagree about ends such as liberty and equality.\nWhich one of the following is correct in respect of the above statements?",
    "o": [
-    "Prescription",
-    "Explanation",
-    "Evaluation",
-    "Description"
+    "Both Statement-I and Statement-II are individually true and Statement-II is the correct explanation of Statement-I",
+    "Both Statement-I and Statement-II are individually true but Statement-II is not the correct explanation of Statement-I",
+    "Statement-I is true but Statement-II is false",
+    "Statement-I is false but Statement-II is true"
    ],
-   "a": 0,
-   "w": "Theory explains, evaluates and prescribes."
+   "a": 3,
+   "w": "Statement-I is false: Berlin said theory would die only in a world where everyone agreed on goals. Statement-II is true: disagreement about ends is his reason for theory surviving."
   },
   {
-   "q": "A set of ideas meant to drive political action is best called…",
+   "q": "Which one of the following is NOT one of the three jobs of political theory?",
    "o": [
-    "Political ideology",
-    "Political science",
-    "Political philosophy",
-    "Political thought"
+    "Describe",
+    "Evaluate",
+    "Explain",
+    "Prescribe"
    ],
    "a": 0,
-   "w": "Ideology aims to change the world, not just explain it."
+   "w": "The three jobs are explain, evaluate and prescribe. Describe is not one of them."
+  },
+  {
+   "q": "Arrange these in chronological order:\n1. Peter Laslett's verdict that political philosophy was dead\n2. John Rawls's A Theory of Justice\n3. Isaiah Berlin's essay \"Does Political Theory Still Exist?\"\n4. Daniel Bell's The End of Ideology\nWhich one of the following is the correct order?",
+   "o": [
+    "1-3-4-2",
+    "1-4-3-2",
+    "4-1-3-2",
+    "1-4-2-3"
+   ],
+   "a": 1,
+   "w": "Laslett 1956, then Bell 1960, Berlin 1962 and Rawls 1971. So 1-4-3-2."
+  },
+  {
+   "q": "Consider the following statements:\n1. Normative theory asks what is, while empirical theory asks what ought to be.\n2. George Sabine saw political theory as the history of how thinkers answered the problems of their own times.\nWhich of the statements given above is/are correct?",
+   "o": [
+    "Neither 1 nor 2",
+    "1 and 2 only",
+    "2 only",
+    "1 only"
+   ],
+   "a": 2,
+   "w": "1 is false: the lesson says the reverse; normative asks what should be and empirical asks what is. 2 is true: Sabine's view as the lesson describes it."
+  },
+  {
+   "q": "Consider the following statements:\n1. Andrew Hacker described political theory as a mix of a search for knowledge about politics and a search for the best political order.\n2. David Held described political theory only as the study of government, leaving out the state and society.\n3. Ambedkar's question about political democracy without social democracy is a normative question.\nHow many of the statements given above are correct?",
+   "o": [
+    "All three",
+    "None",
+    "Only one",
+    "Only two"
+   ],
+   "a": 3,
+   "w": "1 is true: Hacker's mix of science and philosophy. 2 is false: Held's view covers government, state and society. 3 is true: the lesson calls it a normative question. Two are correct."
   }
  ],
  "sources": [

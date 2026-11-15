@@ -34,7 +34,7 @@ public class StreakWidget extends AppWidgetProvider {
         int streak = 0, chapterDone = 0, chapterTotal = 0;
         boolean today = false;
         boolean[] week = new boolean[7];
-        String subject = "Light Bulb", next = "Open the app to start", chapter = "";
+        String subject = "Light Bulb", next = "Open the app to start", chapter = "", subsLine = "", subsList = "";
         int accent = Color.parseColor("#F2C46D");
     }
 
@@ -51,6 +51,19 @@ public class StreakWidget extends AppWidgetProvider {
             d.chapterTotal = o.optInt("chapterTotal", 0);
             d.chapterDone = Math.max(0, d.chapterTotal - o.optInt("chapterLeft", 0));
             try { d.accent = Color.parseColor(o.optString("accent", "#F2C46D")); } catch (Exception ignored) {}
+            JSONArray sj = o.optJSONArray("subjects");
+            if (sj != null) {
+                StringBuilder line = new StringBuilder(), list = new StringBuilder();
+                for (int i = 0; i < sj.length() && i < 4; i++) {
+                    JSONObject x = sj.optJSONObject(i);
+                    if (x == null) continue;
+                    String t = x.optString("t", ""), sk = "🔥 " + x.optInt("streak", 0);
+                    if (i < 3) { if (line.length() > 0) line.append("  ·  "); line.append(t).append(" ").append(sk); }
+                    if (list.length() > 0) list.append("\n");
+                    list.append(t).append("   ").append(sk);
+                }
+                d.subsLine = line.toString(); d.subsList = list.toString();
+            }
             Set<String> days = new HashSet<>();
             JSONArray a = o.optJSONArray("days");
             if (a != null) for (int i = 0; i < a.length(); i++) days.add(a.optString(i));
@@ -93,7 +106,7 @@ public class StreakWidget extends AppWidgetProvider {
         v.setTextColor(R.id.w_streak, d.accent);
         v.setTextViewText(R.id.w_label, status(d));
         v.setTextViewText(R.id.w_next, d.next);
-        v.setTextViewText(R.id.w_subject, d.subject);
+        v.setTextViewText(R.id.w_subject, d.subsLine.length() > 0 ? d.subsLine : d.subject);
         v.setOnClickPendingIntent(R.id.w_root, open(ctx));
         return v;
     }
@@ -104,7 +117,7 @@ public class StreakWidget extends AppWidgetProvider {
         v.setTextColor(R.id.w_streak, d.accent);
         v.setTextViewText(R.id.w_label, "day streak");
         v.setTextViewText(R.id.w_next, d.next);
-        v.setTextViewText(R.id.w_subject, d.subject + " · " + status(d));
+        v.setTextViewText(R.id.w_subject, d.subsLine.length() > 0 ? d.subsLine : d.subject + " · " + status(d));
         v.setOnClickPendingIntent(R.id.w_root, open(ctx));
         return v;
     }
@@ -118,6 +131,7 @@ public class StreakWidget extends AppWidgetProvider {
         v.setTextViewText(R.id.w_label, d.streak == 1 ? "day streak" : "day streak");
         v.setTextViewText(R.id.w_subject, d.subject);
         v.setTextViewText(R.id.w_next, d.next);
+        v.setTextViewText(R.id.w_subs, d.subsList.length() > 0 ? d.subsList : status(d));
         String ch = d.chapter.length() > 0 ? d.chapter + " · " + d.chapterDone + "/" + d.chapterTotal : status(d);
         v.setTextViewText(R.id.w_chapter, ch);
         v.setProgressBar(R.id.w_prog, Math.max(1, d.chapterTotal), d.chapterDone, false);

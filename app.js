@@ -104,25 +104,35 @@ async function getLesson(id){
 }
 let PHOTOS={};
 /* Graded free-licence photo for a lesson (key "id") or card (key "id_k"), with a small credit. */
-function photo(key,cls){const p=PHOTOS[SUB.id+'/'+key];if(!p)return '';const c=p.credit.replace(/[<>&"]/g,'');
+function photo(key,cls){const p=PHOTOS[SUB.id+'/'+key];if(!p)return '';const ar=p.w&&p.h?Math.max(.8,Math.min(1.9,p.w/p.h)).toFixed(3):'1.5625';const c=p.credit.replace(/[<>&"]/g,'');
   const dia=/\.png$/i.test(p.file||'')?' dia':'';
-  return `<figure class="ph ${cls}${dia}"><img src="${p.src}" alt="" loading="lazy" decoding="async" onload="this.classList.add('in')" onerror="this.parentNode.remove()"><a class="cr" href="${p.page}" target="_blank" rel="noopener">${c}</a></figure>`}
+  return `<figure class="ph ${cls}${dia}" style="--ar:${ar}"><img src="${p.src}" alt="" loading="lazy" decoding="async" onload="this.classList.add('in')" onerror="this.parentNode.remove()"><a class="cr" href="${p.page}" target="_blank" rel="noopener">${c}</a></figure>`}
 async function openL(id,card){
   let l;try{l=await getLesson(id)}catch(e){alert('This lesson could not load. Check your connection and try again.');return}
-  cur=id;
-  let h=`<div class="cd"><div class="ci marble cover">${photo(id,'big')||ldood(id,'dd big')||doodle(id,'dd big')||`<div class="em">${l.emoji}</div>`}<div class="tag">${unitOf(id)}</div><h2>${l.title}</h2><p class="hint">Swipe left to begin</p></div></div>`;
-  l.cards.forEach((c,k)=>h+=`<div class="cd"><div class="ci marble ${c.cls||''}">${photo(id+'_'+k,'card')||ldood(id+'_'+k,'dd card')}<div class="tag">${c.tag}</div><h2>${c.h}</h2>${c.b}</div></div>`);
+  cur=id;lastI=-1;if(!/^(REVIEW|MIX)$|-T$/.test(id))ls.set('lb:last',JSON.stringify({s:SUB.id,id,t:l.title,ts:Date.now(),card:-1}));
+  const cp=photo(id,'big');
+  let h=`<div class="cd"><div class="ci marble cover">${cp||ldood(id,'dd big')||doodle(id,'dd big')||`<div class="em">${l.emoji}</div>`}<div class="tag">${unitOf(id)}</div><h2>${l.title}</h2><p class="hint">Swipe left to begin</p>${cp?ldood(id,'dd neg'):''}</div></div>`;
+  l.cards.forEach((c,k)=>{const ph=photo(id+'_'+k,'card'),own=ldood(id+'_'+k,'dd card'),neg=ph?ldood(id+'_'+k,'dd neg'):(own?'':ldood(id,'dd neg'));
+    h+=`<div class="cd"><div class="ci marble ${c.cls||''}">${ph||own}<div class="tag">${c.tag}</div><h2>${c.h}</h2>${c.b}${neg}</div></div>`});
   const pq=PYQ[id];
   if(pq&&pq.length)h+=`<div class="cd"><div class="ci marble"><div class="tag">Asked in UPSC</div><h2>Previous year questions</h2>${pq.map(x=>`<blockquote class="pyq">${esc(x.q)}<small>${x.y} · ${esc(x.p)}${x.m?' · '+x.m+' marks':''}</small></blockquote>`).join('')}</div></div>`;
-  l.quiz.forEach((q,i)=>h+=`<div class="cd"><div class="ci marble"><div class="tag">${q._t?esc(q._t):`Question ${i+1} of ${l.quiz.length}`}</div><h2 style="font-size:21px">${q.q}</h2>${q.o.map((o,j)=>`<button class="opt" data-q="${i}" data-j="${j}">${o}</button>`).join('')}<div class="why" id="w${i}"></div></div></div>`);
+  l.quiz.forEach((q,i)=>h+=`<div class="cd"><div class="ci marble"><div class="tag">${q._t?esc(q._t):`Question ${i+1} of ${l.quiz.length}`}</div><h2 class="qq" style="font-size:20px">${q.q}</h2>${q.o.map((o,j)=>`<button class="opt" data-q="${i}" data-j="${j}">${o}</button>`).join('')}<div class="why" id="w${i}"></div></div></div>`);
   h+=`<div class="cd"><div class="ci marble cover" id="end"><div class="tag">Answer every question to finish</div></div></div>`;
-  deck.innerHTML=h;window.LCOUNT=l.cards.length+(pq&&pq.length?1:0);deck.querySelectorAll('.ci').forEach(c=>io.observe(c));window.ans={};show('lesson');deck.scrollLeft=card>=0?(card+1)*deck.clientWidth:0;upd();deck.querySelectorAll('.ci').forEach(c=>{if(c.scrollHeight>c.clientHeight+4){const m=document.createElement('div');m.className='more';m.textContent='Scroll down for more';c.parentNode.appendChild(m);c.addEventListener('scroll',()=>{m.classList.toggle('gone',c.scrollTop+c.clientHeight>=c.scrollHeight-30)},{passive:true})}});
+  deck.innerHTML=h;window.LCOUNT=l.cards.length+(pq&&pq.length?1:0);deck.querySelectorAll('.ci').forEach(c=>io.observe(c));window.ans={};show('lesson');deck.scrollLeft=card>=0?(card+1)*deck.clientWidth:0;upd();deck.querySelectorAll('.ci').forEach(c=>{const g=c.querySelector('.dd.neg');if(g){const body=c.scrollHeight-g.offsetHeight-14,room=c.clientHeight-body-30;if(room<56)g.remove();else if(room<g.offsetHeight)g.style.height=room+'px'}});
+  deck.querySelectorAll('.ci').forEach(c=>{if(c.scrollHeight>c.clientHeight+4){const m=document.createElement('div');m.className='more';m.textContent='Scroll down for more';c.parentNode.appendChild(m);c.addEventListener('scroll',()=>{m.classList.toggle('gone',c.scrollTop+c.clientHeight>=c.scrollHeight-30)},{passive:true})}});
 }
 deck.addEventListener('click',e=>{const b=e.target.closest('.opt');if(!b)return;const q=+b.dataset.q,j=+b.dataset.j;if(ans[q]!==undefined)return;
   const Q=L[cur].quiz[q];ans[q]=j===Q.a;if(Q._r)rmark(Q._r.id,Q._r.q,j===Q.a);else if(j!==Q.a&&!cur.endsWith('-T'))rmark(cur,q,false);b.parentNode.querySelectorAll('.opt').forEach((o,k)=>{if(k===Q.a)o.classList.add('r');else if(k===j)o.classList.add('w')});
   const w=document.getElementById('w'+q);w.innerHTML=(j===Q.a?'<b>Correct.</b> ':'<b>Not quite.</b> ')+Q.w;w.classList.add('on');setTimeout(()=>w.scrollIntoView({behavior:CALM?'auto':'smooth',block:'nearest'}),250);
   if(Object.keys(ans).length===L[cur].quiz.length)finish()});
 function countUp(el,to){if(!el)return;if(CALM){el.textContent=to;return}let n=0;const step=()=>{el.textContent=n;if(n++<to)setTimeout(step,1000/Math.max(to,1))};step()}
+function goQ(i){deck.scrollTo({left:(1+(window.LCOUNT||0)+i)*deck.clientWidth,behavior:CALM?'auto':'smooth'})}
+function meter(sc,n,f){const C=(2*Math.PI*54).toFixed(1),tier=f>=.8?'gold':f>=.6?'silver':'amber';
+  const dots=Array.from({length:n},(_,i)=>`<button class="dt ${ans[i]?'ok':'bad'}" onclick="goQ(${i})" aria-label="Question ${i+1}: ${ans[i]?'correct':'missed'}"></button>`).join('');
+  const first=Array.from({length:n},(_,i)=>i).find(i=>!ans[i]);
+  return `<div class="meter ${tier}"><svg viewBox="0 0 140 140" aria-hidden="true"><circle class="trk" cx="70" cy="70" r="54"/><circle class="arc" id="mArc" cx="70" cy="70" r="54" stroke-dasharray="${C}" stroke-dashoffset="${C}" transform="rotate(-90 70 70)"/></svg><div class="mc"><b id="scN">0</b><small>of ${n}</small></div><span class="pc">${Math.round(f*100)}%</span></div>
+  <div class="dots">${dots}</div>${first!==undefined?`<button class="linkbtn rv" onclick="goQ(${first})">See what I missed</button>`:''}`}
+function animMeter(f){const a=document.getElementById('mArc');if(!a)return;const C=parseFloat(a.getAttribute('stroke-dasharray'));a.style.strokeDashoffset=C*(1-f)}
 function finish(){const sc=Object.values(ans).filter(Boolean).length,n=L[cur].quiz.length,f=sc/n,lv0=lvlOf(stats().xp).n;let xp=0,title,msg;
   if(!S.days.includes(today())){xp+=10;S.days.push(today())}
   if(cur==='REVIEW'){xp+=3*sc;S.rv=(S.rv||0)+1;const left=n-sc;title=left?'Getting there':'All of them, first try';msg=left?`${left} will come back tomorrow. The rest return in a few days, then a week, then three weeks.`:'These return in a few days to make sure they stay.'}
@@ -130,11 +140,15 @@ function finish(){const sc=Object.values(ans).filter(Boolean).length,n=L[cur].qu
   else{if(cur.endsWith('-T')){xp+=10+4*sc;S.tests=S.tests||{};S.tests[cur]=Math.max(f,S.tests[cur]||0)}else{xp+=S.done[cur]?5+2*sc:30+5*sc;S.done[cur]=1;S.scores[cur]=f}
     title=f>=.8?'Laurels earned':f>=.6?'Solid work':'Worth another read';msg=f>=.8?'You know this well enough to write on it.':f>=.6?'Skim the cards you missed once more.':'Come back to this one tomorrow.'}
   S.xp=(S.xp||0)+xp;save();pushSync();
-  document.getElementById('end').innerHTML=`${wreath}<div class="score"><span id="scN">0</span> / ${n}</div><h2 style="margin-top:14px">${title}</h2><p>${msg}</p>${xpLine(xp,lv0)}<button class="start" onclick="back()">Back to the syllabus</button>`;
-  setTimeout(()=>countUp(document.getElementById('scN'),sc),300);
+  document.getElementById('end').innerHTML=`${meter(sc,n,f)}<h2 style="margin-top:6px">${title}</h2><p>${msg}</p>${xpLine(xp,lv0)}<button class="start" onclick="back()">Back to the syllabus</button>`;
+  setTimeout(()=>{countUp(document.getElementById('scN'),sc);animMeter(f)},300);
   setTimeout(()=>{checkBadges();const v=lvlOf(stats().xp);if(v.n>lv0)toast(`<span class="bd g">★</span><span><small>Level up</small><b>Level ${v.n} · ${v.name}</b></span>`)},1400)}
 let curCard=0;const io=new IntersectionObserver(es=>es.forEach(e=>{if(e.isIntersecting)e.target.classList.add('in')}),{threshold:.35});
-function upd(){const n=deck.children.length,i=Math.round(deck.scrollLeft/deck.clientWidth);curCard=i-1;document.getElementById('pg').style.width=((i+1)/n*100)+'%';document.getElementById('cnt').textContent=`${i+1}/${n}`}
+let lastI=-1;
+function upd(){const n=deck.children.length,i=Math.round(deck.scrollLeft/deck.clientWidth),nc=window.LCOUNT||0,nq=(L[cur]&&L[cur].quiz.length)||0;curCard=i-1;
+  const pg=document.getElementById('pg'),pr=pg.parentNode;pg.style.width=((i+1)/n*100)+'%';pr.style.setProperty('--split',nc?((nc+1)/n*100)+'%':'-9px');pr.classList.toggle('inq',i>nc);
+  document.getElementById('cnt').textContent=i===0?(nc?nc+' cards':nq+' questions'):i<=nc?`Card ${i}/${nc}`:i<=nc+nq?`Question ${i-nc}/${nq}`:'Done';
+  if(i!==lastI){lastI=i;if(nc&&i>=1&&i<=nc&&!/^(REVIEW|MIX)$|-T$/.test(cur)){try{const l=JSON.parse(ls.get('lb:last')||'{}');if(l.id===cur){l.card=i-1;ls.set('lb:last',JSON.stringify(l))}}catch(e){}}}}
 deck.addEventListener('scroll',()=>requestAnimationFrame(upd));
 /* ---------- motion helpers: every screen change crossfades smoothly ---------- */
 const CALM=matchMedia('(prefers-reduced-motion: reduce)').matches;
@@ -162,7 +176,10 @@ function applyTheme(id){
   art.parentNode.classList.toggle('has-img',!!img);
   if(img){const im=new Image();im.alt='';im.className='heroimg';im.decoding='async';im.src=img;art.replaceChildren(im);
     art.ready=(im.decode?im.decode():new Promise(r=>im.onload=r)).catch(()=>{}).then(()=>im.classList.add('in'))}
-  else{art.innerHTML=`<svg viewBox="0 0 360 260" aria-hidden="true"><defs><radialGradient id="eg"><stop offset="0" stop-color="var(--gold)" stop-opacity=".4"/><stop offset="1" stop-color="var(--gold)" stop-opacity="0"/></radialGradient></defs><circle cx="180" cy="130" r="120" fill="url(#eg)"/><circle cx="180" cy="130" r="78" fill="none" stroke="var(--gold)" stroke-width="2"/><circle cx="180" cy="130" r="64" fill="none" stroke="var(--gold)" stroke-width="1" stroke-dasharray="3 5"/><text x="180" y="152" font-size="62" text-anchor="middle">${t.glyph||'✦'}</text></svg>`;art.ready=Promise.resolve()}
+  if(img&&SUB&&SUB.heroVideo&&!CALM&&!(navigator.connection&&navigator.connection.saveData)){const v=document.createElement('video');v.className='herovid';v.muted=true;v.loop=true;v.playsInline=true;v.autoplay=true;v.preload='auto';v.setAttribute('aria-hidden','true');
+    v.innerHTML=`<source src="${SUB.heroVideo}.webm" type="video/webm"><source src="${SUB.heroVideo}.mp4" type="video/mp4">`;
+    v.addEventListener('canplay',()=>{v.play().catch(()=>{});v.classList.add('in')},{once:true});art.appendChild(v)}
+  if(!img){art.innerHTML=`<svg viewBox="0 0 360 260" aria-hidden="true"><defs><radialGradient id="eg"><stop offset="0" stop-color="var(--gold)" stop-opacity=".4"/><stop offset="1" stop-color="var(--gold)" stop-opacity="0"/></radialGradient></defs><circle cx="180" cy="130" r="120" fill="url(#eg)"/><circle cx="180" cy="130" r="78" fill="none" stroke="var(--gold)" stroke-width="2"/><circle cx="180" cy="130" r="64" fill="none" stroke="var(--gold)" stroke-width="1" stroke-dasharray="3 5"/><text x="180" y="152" font-size="62" text-anchor="middle">${t.glyph||'✦'}</text></svg>`;art.ready=Promise.resolve()}
   document.querySelector('meta[name=theme-color]').setAttribute('content',getComputedStyle(root).getPropertyValue('--night').trim());
 }
 const themeFor=s=>s.theme;
@@ -218,7 +235,9 @@ const CAP=window.Capacitor&&window.Capacitor.isNativePlatform&&window.Capacitor.
 async function nativeSync(off){const P=Capacitor.Plugins,st=studyState(),studied=!!st.doneDay;
   const [cp,cu]=(ids.find(i=>IDX[i]&&!S.done[i])||'0-0-0').split('-'),chTotal=MAP[cp]?MAP[cp].units[cu][1].length:0;
   const accent=getComputedStyle(document.documentElement).getPropertyValue('--gold').trim()||'#F2C46D';
-  try{await P.Preferences.set({key:'widget',value:JSON.stringify({...st,studiedToday:studied,days:S.days.slice(-60),chapterTotal:chTotal,accent})})}catch(e){}
+  const sstreak=days=>{const set=new Set(days||[]);let n=0,d=new Date();if(!set.has(ds(d)))d.setDate(d.getDate()-1);while(set.has(ds(d))){n++;d.setDate(d.getDate()-1)}return n};
+  const subjects=allS().map(({s,p})=>({t:s.title,streak:sstreak(p.days),done:Object.keys(p.done||{}).length})).filter(x=>x.done||x.streak).sort((a,b)=>b.streak-a.streak||b.done-a.done).slice(0,4);
+  try{await P.Preferences.set({key:'widget',value:JSON.stringify({...st,studiedToday:studied,days:S.days.slice(-60),chapterTotal:chTotal,accent,subjects})})}catch(e){}
   const LN=P.LocalNotifications;if(!LN)return;
   try{const pend=await LN.getPending();if(pend.notifications.length)await LN.cancel({notifications:pend.notifications.map(n=>({id:n.id}))})}catch(e){}
   if(off||ls.get('push')!=='1')return;

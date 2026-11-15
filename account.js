@@ -181,6 +181,14 @@ async function openRestore() {
 async function openMe() {
   const v = document.getElementById("me");
   const all = SUBJ.map(s => ({ s, p: readLocal(s) }));
+  const stOf = arr => { const set = new Set(arr || []); let n = 0; const d = new Date(); if (!set.has(ds(d))) d.setDate(d.getDate() - 1); while (set.has(ds(d))) { n++; d.setDate(d.getDate() - 1); } return n; };
+  const BS = window.badgeState ? window.badgeState() : null, lv = BS ? BS.level : { n: 1, name: "Beginner", xp: 0 };
+  const nm = user ? (user.displayName || (user.email || "").split("@")[0] || "Learner") : "Guest learner";
+  const ini = (nm[0] || "L").toUpperCase();
+  let last = null; try { last = JSON.parse(ls.get("lb:last") || "null"); } catch (e) {}
+  const lastS = last && SUBJ.find(s => s.id === last.s);
+  const since = user && user.metadata && user.metadata.creationTime ? new Date(user.metadata.creationTime).toLocaleDateString(undefined, { month: "short", year: "numeric" }) : "";
+  const chips = all.filter(x => (x.p.days || []).length || Object.keys(x.p.done || {}).length).map(x => ({ x, n: stOf(x.p.days) })).sort((p, q) => q.n - p.n);
   const days = new Set(all.flatMap(x => x.p.days || []));
   const done = all.reduce((n, x) => n + Object.keys(x.p.done || {}).length, 0);
   const sc = all.flatMap(x => Object.values(x.p.scores || {}));
@@ -211,8 +219,11 @@ async function openMe() {
   if (user) try { (await getDocs(query(collection(db, "users", user.uid, "doubts"), orderBy("ts", "desc"), limit(40)))).forEach(d => doubts.push(d.data())); } catch (e) {}
   v.innerHTML = `<div class="bar"><button class="x" id="meClose" aria-label="Close">×</button><h2 class="me-h">My learning</h2></div>
    <div class="me">
+    <div class="me-prof"><span class="av">${esc(ini)}${user && user.photoURL ? `<img src="${esc(user.photoURL)}" referrerpolicy="no-referrer" alt="" onerror="this.remove()">` : ""}</span><div class="who"><h2>${esc(nm)}</h2><small>${user ? esc(user.email || user.phoneNumber || "") : "Not signed in"}${since ? " · Member since " + since : ""}</small><span class="chip">Level ${lv.n} · ${esc(lv.name)} · ${lv.xp} XP</span></div></div>
+    ${last && lastS ? `<button class="me-cont" id="meCont"><small>Continue where you left off</small><b>${esc(last.t || "Last lesson")}</b><span>${esc(lastS.title)} · Resume →</span></button>` : ""}
     ${user ? "" : `<div class="me-signin"><b>Save your progress and doubts</b><small>Sign in once and everything syncs across devices.</small><button class="start" id="meG">Continue with Google</button><p class="note" id="meMsg"></p></div>`}
-    <div class="me-stats"><div><b>${st}</b><small>day streak</small></div><div><b>${done}</b><small>lessons</small></div><div><b>${days.size}</b><small>study days</small></div><div><b>${sc.length ? avg + "%" : "–"}</b><small>quiz average</small></div></div>
+    <div class="me-stats"><div><b>${st}</b><small>day streak</small></div><div><b>${lv.xp}</b><small>XP</small></div><div><b>${done}</b><small>lessons</small></div><div><b>${days.size}</b><small>study days</small></div><div><b>${sc.length ? avg + "%" : "–"}</b><small>quiz average</small></div><div><b>${BS ? BS.all.filter(b => b.got).length + "/" + BS.all.length : "–"}</b><small>badges</small></div></div>
+    ${chips.length ? `<h3>Streaks by subject</h3><div class="sstreaks">${chips.map(c => `<div class="sk"><span class="sic" style="--a:${(THEMES[c.x.s.theme] || THEMES.polis).vars["--gold"] || "#c9a45c"};--b:${(THEMES[c.x.s.theme] || THEMES.polis).vars["--lapis"] || "#13294b"}">${icon(c.x.s.id)}</span><div><b>${c.n}<i>🔥</i></b><small>${esc(c.x.s.title)}</small></div></div>`).join("")}</div>` : ""}
     ${(() => { const B = window.badgeState && window.badgeState(); if (!B) return ""; const v = B.level, got = B.all.filter(b => b.got).length;
       return `<div class="me-xp"><div class="top"><span class="lv">Level ${v.n}</span><b>${v.name}</b><span class="xp">${v.xp} XP</span></div><i><b style="width:${v.pct}%"></b></i><small>${v.next ? (v.next - v.xp) + " XP to the next level" : "Top level reached"}</small></div>
       <h3>Badges <em class="cnt">${got} of ${B.all.length}</em></h3><div class="badges">${B.all.map(b => `<div class="badge${b.got ? "" : " lock"}"><span class="bd ${b.tier}">${b.g}</span><b>${b.t}</b><small>${b.d}</small></div>`).join("")}</div>`; })()}
@@ -227,6 +238,7 @@ async function openMe() {
   document.getElementById("meClose").onclick = back;
   const g = document.getElementById("meG");
   if (g) g.onclick = async () => { try { await googleSignIn(); if (!NATIVE) openMe(); } catch (e) { document.getElementById("meMsg").textContent = "Sign-in didn't finish: " + (e.code || e.message); } };
+  const mc = document.getElementById("meCont"); if (mc) mc.onclick = async () => { await loadSubject(last.s); openL(last.id, last.card >= 0 ? last.card : undefined); };
   const da = document.getElementById("delAcct"); if (da) da.onclick = deleteAccount;
   const ro = document.getElementById("rsOpen"); if (ro) ro.onclick = openRestore;
   v.querySelectorAll(".me-sub").forEach(b => b.onclick = async () => { await loadSubject(b.dataset.s); back(); });
