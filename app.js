@@ -170,7 +170,7 @@ function applyTheme(id){
   const t=THEMES[id]||THEMES.polis,root=document.documentElement;
   Object.keys(THEMES).forEach(k=>Object.keys(THEMES[k].vars).forEach(v=>root.style.removeProperty(v)));
   Object.entries(t.vars).forEach(([k,v])=>root.style.setProperty(k,v));
-  if(t.fonts&&!loadedFonts.has(t.fonts)){loadedFonts.add(t.fonts);const l=document.createElement('link');l.rel='stylesheet';l.href='https://fonts.googleapis.com/css2?family='+t.fonts+'&display=swap';document.head.appendChild(l)}
+  /* fonts are bundled in fonts/fonts.css */
   const art=document.getElementById('heroArt');
   const img=(SUB&&SUB.hero)||t.heroImage;
   art.parentNode.classList.toggle('has-img',!!img);

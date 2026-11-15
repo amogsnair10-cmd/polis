@@ -2,7 +2,7 @@
 // Online: always fetch the newest files (network first). Offline: use the saved copy.
 // Install only waits for the small app shell; lessons and art are cached in the background.
 const V='polis-__VERSION__',FILES=__FILES__;
-const SHELL=FILES.filter(f=>!/lessons\/\d|^subjects\/[^/]+\/lessons\/\d|^art\//.test(f));
+const SHELL=FILES.filter(f=>!/lessons\/\d|^subjects\/[^/]+\/lessons\/\d|^art\/|^fonts\/.+\.woff2$/.test(f));
 self.addEventListener('install',e=>{e.waitUntil(caches.open(V).then(c=>c.addAll(SHELL)).then(()=>self.skipWaiting()))});
 self.addEventListener('activate',e=>{e.waitUntil((async()=>{
   for(const k of await caches.keys())if(k!==V&&k!==V+'-fonts')await caches.delete(k);
