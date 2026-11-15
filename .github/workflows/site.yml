@@ -6,9 +6,11 @@ on:
     branches: [main]
     paths-ignore: ['mobile/**', 'docs/**', '.github/workflows/android.yml']
   workflow_run:
-    workflows: ["Lesson photos", "Merge lesson photos"]
+    workflows: ["Lesson photos", "Merge lesson photos", "Build Android app"]
     types: [completed]
   workflow_dispatch:
+permissions:
+  contents: read
 concurrency:
   group: site
   cancel-in-progress: true
@@ -32,6 +34,10 @@ jobs:
           rsync -a --exclude '.git*' --exclude '_site' --exclude 'mobile' --exclude 'netlify' --exclude 'scripts' --exclude 'docs' \
             --exclude 'art/photo_queries' --exclude '*.md' --exclude 'firestore.rules' --exclude 'netlify.toml' --exclude 'package*.json' --exclude 'node_modules' --exclude '*.whl' --exclude 'PROMPT_FOR_CLAUDE_CODE*' ./ _site/
           find _site -type f | wc -l
+      - name: Include the latest Android app, so it can be downloaded from the site
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: gh release download app-latest -p LightBulb.apk -D _site || echo "no APK yet"
       - name: Find the Cloudflare account
         run: |
           test -n "$CLOUDFLARE_API_TOKEN" || { echo "Add the CLOUDFLARE_API_TOKEN secret first"; exit 1; }

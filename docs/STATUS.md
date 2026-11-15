@@ -2,7 +2,7 @@
 
 ## Where things live
 - **Site:** https://lightbulb.amogbuilds.net — Cloudflare Pages project `lightbulb-study`, published by `.github/workflows/site.yml` on every push to `main` (needs secret `CLOUDFLARE_API_TOKEN`). The repo is now PRIVATE, so GitHub Pages no longer works. The new domain must be in Firebase → Authentication → Authorized domains.
-- **Android app:** `.github/workflows/android.yml` builds `LightBulb.apk` when `mobile/**`, `icons/**` or the workflow change. Download: https://github.com/amogsnair10-cmd/polis/releases/download/app-latest/LightBulb.apk. The app loads the live site, so web changes need no reinstall.
+- **Android app:** `.github/workflows/android.yml` builds `LightBulb.apk` when `mobile/**`, `icons/**` or the workflow change. Download: https://lightbulb.amogbuilds.net/LightBulb.apk (copied from the `app-latest` release by site.yml; the release link itself needs a GitHub login now the repo is private). The app loads the live site, so web changes need no reinstall.
 - **Accounts:** Firebase project `light-bulb-3a6fe` (Google sign-in only; phone hidden). Config is in `account.js`. Rules in `firestore.rules` (paste into Firestore → Rules). In the APK, Google sign-in goes through `auth.html` in Chrome and returns via `lightbulb://auth`.
 - **Ask a doubt:** `ask.js`. Gemini (default) and Claude with the reader's own key. Retries busy Gemini and falls back to other Flash models.
 
