@@ -35,7 +35,8 @@ jobs:
       - name: Find the Cloudflare account
         run: |
           test -n "$CLOUDFLARE_API_TOKEN" || { echo "Add the CLOUDFLARE_API_TOKEN secret first"; exit 1; }
-          id=$(curl -fsS -H "Authorization: Bearer $CLOUDFLARE_API_TOKEN" https://api.cloudflare.com/client/v4/accounts | python3 -c "import json,sys;print(json.load(sys.stdin)['result'][0]['id'])")
+          id=$(curl -fsS -H "Authorization: Bearer $CLOUDFLARE_API_TOKEN" "https://api.cloudflare.com/client/v4/zones?name=$ZONE" | python3 -c "import json,sys;r=json.load(sys.stdin)['result'];print(r[0]['account']['id'] if r else '')")
+          test -n "$id" || { echo "The token cannot see the zone $ZONE: give it Zone Read and DNS Edit on that zone"; exit 1; }
           echo "CLOUDFLARE_ACCOUNT_ID=$id" >> "$GITHUB_ENV"
       - name: Create the Pages project (first run only)
         run: npx --yes wrangler@4 pages project create "$PROJECT" --production-branch main || true
