@@ -1,0 +1,53 @@
+name: Publish site
+# Publishes the app to Cloudflare Pages at https://lightbulb.amogbuilds.net
+# Needs one repository secret: CLOUDFLARE_API_TOKEN (Pages: Edit, DNS: Edit, Zone: Read).
+on:
+  push:
+    branches: [main]
+    paths-ignore: ['mobile/**', 'docs/**', '.github/workflows/android.yml']
+  workflow_run:
+    workflows: ["Lesson photos", "Merge lesson photos"]
+    types: [completed]
+  workflow_dispatch:
+concurrency:
+  group: site
+  cancel-in-progress: true
+env:
+  PROJECT: lightbulb-study
+  DOMAIN: lightbulb.amogbuilds.net
+  ZONE: amogbuilds.net
+  CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with: { ref: main }
+      - uses: actions/setup-node@v4
+        with: { node-version: 22 }
+      - run: node scripts/build.js
+      - name: Collect site files (everything the app serves; nothing else)
+        run: |
+          mkdir _site
+          rsync -a --exclude '.git*' --exclude '_site' --exclude 'mobile' --exclude 'netlify' --exclude 'scripts' --exclude 'docs' \
+            --exclude 'art/photo_queries' --exclude '*.md' --exclude 'firestore.rules' --exclude 'netlify.toml' --exclude 'package*.json' --exclude 'node_modules' --exclude '*.whl' --exclude 'PROMPT_FOR_CLAUDE_CODE*' ./ _site/
+          find _site -type f | wc -l
+      - name: Find the Cloudflare account
+        run: |
+          test -n "$CLOUDFLARE_API_TOKEN" || { echo "Add the CLOUDFLARE_API_TOKEN secret first"; exit 1; }
+          id=$(curl -fsS -H "Authorization: Bearer $CLOUDFLARE_API_TOKEN" https://api.cloudflare.com/client/v4/accounts | python3 -c "import json,sys;print(json.load(sys.stdin)['result'][0]['id'])")
+          echo "CLOUDFLARE_ACCOUNT_ID=$id" >> "$GITHUB_ENV"
+      - name: Create the Pages project (first run only)
+        run: npx --yes wrangler@4 pages project create "$PROJECT" --production-branch main || true
+      - name: Upload the site
+        run: npx --yes wrangler@4 pages deploy _site --project-name "$PROJECT" --branch main --commit-dirty=true
+      - name: Point the subdomain at it (safe to repeat)
+        run: |
+          api=https://api.cloudflare.com/client/v4; H="Authorization: Bearer $CLOUDFLARE_API_TOKEN"
+          sub=$(curl -fsS -H "$H" "$api/accounts/$CLOUDFLARE_ACCOUNT_ID/pages/projects/$PROJECT" | python3 -c "import json,sys;print(json.load(sys.stdin)['result']['subdomain'])")
+          zone=$(curl -fsS -H "$H" "$api/zones?name=$ZONE" | python3 -c "import json,sys;print(json.load(sys.stdin)['result'][0]['id'])")
+          echo "pages address: $sub"
+          curl -sS -X POST -H "$H" -H "Content-Type: application/json" "$api/zones/$zone/dns_records" \
+            -d "{\"type\":\"CNAME\",\"name\":\"$DOMAIN\",\"content\":\"$sub\",\"proxied\":true}" | python3 -c "import json,sys;r=json.load(sys.stdin);print('dns:',r['success'] or r['errors'])"
+          curl -sS -X POST -H "$H" -H "Content-Type: application/json" "$api/accounts/$CLOUDFLARE_ACCOUNT_ID/pages/projects/$PROJECT/domains" \
+            -d "{\"name\":\"$DOMAIN\"}" | python3 -c "import json,sys;r=json.load(sys.stdin);print('domain:',r['success'] or r['errors'])"
