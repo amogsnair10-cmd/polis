@@ -5,5 +5,6 @@
 
 </FrameLayout>
 <TextView android:id="@+id/w_next" android:layout_width="0dp" android:layout_height="wrap_content" android:text="" android:textSize="14sp" android:textColor="#1D2433" android:textStyle="bold" android:fontFamily="serif" android:includeFontPadding="false" android:layout_weight="1" android:maxLines="1" android:ellipsize="end"/>
+<ImageView android:id="@+id/w_lumen" android:layout_width="wrap_content" android:layout_height="28dp" android:adjustViewBounds="true" android:scaleType="fitCenter" android:src="@drawable/lumen_neutral" android:layout_marginEnd="4dp"/>
 <TextView android:id="@+id/w_btn" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="→" android:textSize="18sp" android:textColor="#9A6F1C" android:textStyle="bold" android:includeFontPadding="false" android:layout_marginStart="8dp"/>
 </LinearLayout>

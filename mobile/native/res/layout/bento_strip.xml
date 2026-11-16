@@ -5,5 +5,6 @@
 <TextView android:id="@+id/w_cap" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="" android:textSize="9sp" android:textColor="#8FA0BD" android:includeFontPadding="false" android:maxLines="1" android:ellipsize="end" android:letterSpacing="0.1"/>
 <TextView android:id="@+id/w_next" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="" android:textSize="13.5sp" android:textColor="#FFFFFF" android:textStyle="bold" android:includeFontPadding="false" android:maxLines="1" android:ellipsize="end"/>
 </LinearLayout>
+<ImageView android:id="@+id/w_lumen" android:layout_width="wrap_content" android:layout_height="30dp" android:adjustViewBounds="true" android:scaleType="fitCenter" android:src="@drawable/lumen_neutral" android:layout_marginEnd="6dp"/>
 <TextView android:id="@+id/w_btn" android:layout_width="32dp" android:layout_height="32dp" android:text="→" android:textSize="17sp" android:textColor="#14213D" android:textStyle="bold" android:includeFontPadding="false" android:gravity="center" android:background="@drawable/w_gold_circle"/>
 </LinearLayout>
