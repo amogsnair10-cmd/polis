@@ -201,14 +201,16 @@ function applyTheme(id){
   Object.entries(t.vars).forEach(([k,v])=>root.style.setProperty(k,v));
   /* fonts are bundled in fonts/fonts.css */
   const art=document.getElementById('heroArt');
-  const img=(SUB&&SUB.hero)||t.heroImage;
-  art.parentNode.classList.toggle('has-img',!!img);
+  const live=!!(window.LiveHero&&SUB&&LiveHero.mount(art,SUB.id,SUBJPOSE[SUB.id]||'sunglasses-1'));
+  if(live)art.ready=Promise.resolve();
+  const img=live?null:(SUB&&SUB.hero)||t.heroImage;
+  art.parentNode.classList.toggle('has-img',!!img||live);art.parentNode.classList.toggle('live',live);
   if(img){const im=new Image();im.alt='';im.className='heroimg';im.decoding='async';im.src=img;art.replaceChildren(im);
     art.ready=(im.decode?im.decode():new Promise(r=>im.onload=r)).catch(()=>{}).then(()=>im.classList.add('in'))}
   if(img&&SUB&&SUB.heroVideo&&!CALM&&!(navigator.connection&&navigator.connection.saveData)){const v=document.createElement('video');v.className='herovid';v.muted=true;v.loop=true;v.playsInline=true;v.autoplay=true;v.preload='auto';v.setAttribute('aria-hidden','true');
     v.innerHTML=`<source src="${SUB.heroVideo}.webm" type="video/webm"><source src="${SUB.heroVideo}.mp4" type="video/mp4">`;
     v.addEventListener('canplay',()=>{v.play().catch(()=>{});v.classList.add('in')},{once:true});art.appendChild(v)}
-  if(!img){art.innerHTML=`<svg viewBox="0 0 360 260" aria-hidden="true"><defs><radialGradient id="eg"><stop offset="0" stop-color="var(--gold)" stop-opacity=".4"/><stop offset="1" stop-color="var(--gold)" stop-opacity="0"/></radialGradient></defs><circle cx="180" cy="130" r="120" fill="url(#eg)"/><circle cx="180" cy="130" r="78" fill="none" stroke="var(--gold)" stroke-width="2"/><circle cx="180" cy="130" r="64" fill="none" stroke="var(--gold)" stroke-width="1" stroke-dasharray="3 5"/><text x="180" y="152" font-size="62" text-anchor="middle">${t.glyph||'✦'}</text></svg>`;art.ready=Promise.resolve()}
+  if(!img&&!live){art.innerHTML=`<svg viewBox="0 0 360 260" aria-hidden="true"><defs><radialGradient id="eg"><stop offset="0" stop-color="var(--gold)" stop-opacity=".4"/><stop offset="1" stop-color="var(--gold)" stop-opacity="0"/></radialGradient></defs><circle cx="180" cy="130" r="120" fill="url(#eg)"/><circle cx="180" cy="130" r="78" fill="none" stroke="var(--gold)" stroke-width="2"/><circle cx="180" cy="130" r="64" fill="none" stroke="var(--gold)" stroke-width="1" stroke-dasharray="3 5"/><text x="180" y="152" font-size="62" text-anchor="middle">${t.glyph||'✦'}</text></svg>`;art.ready=Promise.resolve()}
   document.querySelector('meta[name=theme-color]').setAttribute('content',getComputedStyle(root).getPropertyValue('--night').trim());
 }
 const themeFor=s=>s.theme;
