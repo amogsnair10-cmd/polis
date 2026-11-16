@@ -34,7 +34,7 @@ public abstract class WidgetBase extends AppWidgetProvider {
     static final int SMALL = 0, STRIP = 1, WIDE = 2, LARGE = 3;
 
     static class Data {
-        int streak = 0, chapterDone = 0, chapterTotal = 0, nsubs = 0;
+        int streak = 0, chapterDone = 0, chapterTotal = 0, nsubs = 0, totalDays = 0;
         boolean today = false;
         boolean[] week = new boolean[7];
         String[] letters = new String[7];
@@ -78,6 +78,7 @@ public abstract class WidgetBase extends AppWidgetProvider {
             JSONArray a = o.optJSONArray("days");
             if (a != null) for (int i = 0; i < a.length(); i++) days.add(a.optString(i));
             Calendar c = Calendar.getInstance();
+            d.totalDays = days.size();
             d.today = days.contains(DAY.format(c.getTime()));
             Calendar w = Calendar.getInstance();
             w.add(Calendar.DAY_OF_YEAR, -6);
@@ -167,6 +168,14 @@ public abstract class WidgetBase extends AppWidgetProvider {
         int res = ctx.getResources().getIdentifier("hero_" + d.sid, "drawable", ctx.getPackageName());
         if (res == 0) res = ctx.getResources().getIdentifier("hero_psir", "drawable", ctx.getPackageName());
         if (res != 0) v.setImageViewResource(R.id.w_hero, res);
+        // Inspector Lumen: the pose follows the streak (kept, at risk after 6 pm, lost, or neutral).
+        String lk;
+        int hour = Calendar.getInstance().get(Calendar.HOUR_OF_DAY);
+        if (d.today) lk = "lumen_kept";
+        else if (d.streak > 0) lk = hour >= 18 ? "lumen_risk" : "lumen_neutral";
+        else lk = d.totalDays > 0 ? "lumen_lost" : "lumen_neutral";
+        int lres = ctx.getResources().getIdentifier(lk, "drawable", ctx.getPackageName());
+        if (lres != 0) v.setImageViewResource(R.id.w_lumen, lres);
         PendingIntent pi = open(ctx);
         v.setOnClickPendingIntent(R.id.w_root, pi);
         v.setOnClickPendingIntent(R.id.w_btn, pi);

@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" android:id="@+id/w_root" android:layout_width="match_parent" android:layout_height="match_parent" android:gravity="center" android:background="@drawable/w_bg_light" android:padding="10dp" android:orientation="vertical">
 <TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="DAY STREAK" android:textSize="9.5sp" android:textColor="#9A6F1C" android:textStyle="bold" android:includeFontPadding="false" android:letterSpacing="0.14"/>
-<TextView android:id="@+id/w_streak" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="12" android:textSize="58sp" android:textColor="#1D2433" android:textStyle="bold" android:fontFamily="serif" android:includeFontPadding="false" android:layout_marginTop="2dp"/>
+<LinearLayout android:layout_width="wrap_content" android:layout_height="wrap_content" android:orientation="horizontal" android:gravity="center_vertical" android:layout_marginTop="2dp">
+<ImageView android:id="@+id/w_lumen" android:layout_width="wrap_content" android:layout_height="46dp" android:adjustViewBounds="true" android:scaleType="fitCenter" android:src="@drawable/lumen_neutral" android:layout_marginEnd="8dp"/>
+<TextView android:id="@+id/w_streak" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="12" android:textSize="48sp" android:textColor="#1D2433" android:textStyle="bold" android:fontFamily="serif" android:includeFontPadding="false"/>
+</LinearLayout>
 <FrameLayout android:layout_width="36dp" android:layout_height="2dp" android:background="#9A6F1C" android:layout_marginTop="4dp">
 
 </FrameLayout>
