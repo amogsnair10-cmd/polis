@@ -8,7 +8,7 @@
   "dir": ".",
   "theme": "polis",
   "store": "polis",
-  "foot": "Mapped to the official UPSC syllabus and weighted by past papers from 2013 to 2026. Your progress stays on this phone.",
+  "foot": "",
   "hero": "art/psir.webp"
  },
  {
@@ -19,7 +19,7 @@
   "motto": "One lesson a day.<br>All of GS history, step by step.",
   "dir": "subjects/history",
   "theme": "chronicle",
-  "foot": "Mapped to the UPSC GS Paper I syllabus. Your progress stays on this phone.",
+  "foot": "",
   "hero": "art/history.webp"
  },
  {
@@ -30,7 +30,7 @@
   "motto": "One lesson a day.<br>All of GS geography, step by step.",
   "dir": "subjects/geography",
   "theme": "terra",
-  "foot": "Mapped to the UPSC GS Paper I syllabus. Your progress stays on this phone.",
+  "foot": "",
   "hero": "art/geography.webp"
  },
  {
@@ -41,7 +41,7 @@
   "motto": "One lesson a day.<br>All of GS environment, step by step.",
   "dir": "subjects/environment",
   "theme": "verdant",
-  "foot": "Mapped to the UPSC GS Paper III syllabus. Your progress stays on this phone.",
+  "foot": "",
   "hero": "art/environment.webp"
  },
  {
@@ -52,7 +52,7 @@
   "motto": "One story a day.<br>Fourteen billion years, one swipe at a time.",
   "dir": "subjects/world",
   "theme": "odyssey",
-  "foot": "Not for any exam. Just the best stories humans have to tell. Your progress stays on this phone.",
+  "foot": "",
   "hero": "art/world.webp"
  },
  {
@@ -63,7 +63,7 @@
   "motto": "One lesson a day.<br>The whole red thread, from Marx to now.",
   "dir": "subjects/communism",
   "theme": "manifesto",
-  "foot": "A study course, not an endorsement: every lesson includes the strongest criticisms. Your progress stays on this phone.",
+  "foot": "",
   "hero": "art/communism.webp"
  },
  {
@@ -74,7 +74,7 @@
   "motto": "One lesson a day.<br>The whole sky, explained.",
   "dir": "subjects/astronomy",
   "theme": "nebula",
-  "foot": "Built from standard textbooks. Your progress stays on this phone.",
+  "foot": "",
   "hero": "art/astronomy.webp"
  },
  {
@@ -85,7 +85,7 @@
   "motto": "One lesson a day.<br>How the universe works.",
   "dir": "subjects/physics",
   "theme": "circuit",
-  "foot": "Built from standard textbooks. Your progress stays on this phone.",
+  "foot": "",
   "hero": "art/physics.webp"
  },
  {
@@ -96,7 +96,7 @@
   "motto": "One lesson a day.<br>What everything is made of.",
   "dir": "subjects/chemistry",
   "theme": "alembic",
-  "foot": "Built from standard textbooks. Your progress stays on this phone.",
+  "foot": "",
   "hero": "art/chemistry.webp"
  },
  {
@@ -107,7 +107,7 @@
   "motto": "One lesson a day.<br>How life works.",
   "dir": "subjects/biology",
   "theme": "helix",
-  "foot": "Built from standard textbooks. Your progress stays on this phone.",
+  "foot": "",
   "hero": "art/biology.webp"
  },
  {
@@ -118,7 +118,7 @@
   "motto": "One lesson a day.<br>Reality, at its smallest.",
   "dir": "subjects/quantum",
   "theme": "quantum",
-  "foot": "Built from standard textbooks. Your progress stays on this phone.",
+  "foot": "",
   "hero": "art/quantum.webp"
  }
 ]
