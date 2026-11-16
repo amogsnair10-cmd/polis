@@ -433,3 +433,11 @@ blockquote.pyq small{display:block;margin-top:6px;font-size:12px;color:var(--vei
 
 .qq,.why{white-space:pre-line}
 .qq{line-height:1.35}
+
+/* card doodles: bold, bigger, and moved around (top, beside the text, bottom) */
+.cb{display:flow-root}
+.dd.pt{display:block;width:clamp(130px,46vw,200px);height:clamp(98px,35vw,150px);margin:0 auto 10px;background:var(--goldd)}
+.dd.pr,.dd.pl{display:block;width:clamp(112px,38vw,156px);height:clamp(84px,29vw,117px);background:var(--goldd);margin:2px 0 8px}
+.dd.pr{float:right;margin-left:14px}.dd.pl{float:left;margin-right:14px}
+.dd.pb{display:block;flex:none;width:clamp(150px,54vw,220px);height:clamp(112px,40vw,165px);margin:auto auto 0;background:var(--goldd);pointer-events:none}
+.cover>.dd.pb{margin-top:auto}

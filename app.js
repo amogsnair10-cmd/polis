@@ -111,16 +111,17 @@ async function openL(id,card){
   let l;try{l=await getLesson(id)}catch(e){alert('This lesson could not load. Check your connection and try again.');return}
   cur=id;lastI=-1;if(!/^(REVIEW|MIX)$|-T$/.test(id))ls.set('lb:last',JSON.stringify({s:SUB.id,id,t:l.title,ts:Date.now(),card:-1}));
   const cp=photo(id,'big');
-  let h=`<div class="cd"><div class="ci marble cover">${cp||ldood(id,'dd big')||doodle(id,'dd big')||`<div class="em">${l.emoji}</div>`}<div class="tag">${unitOf(id)}</div><h2>${l.title}</h2><p class="hint">Swipe left to begin</p>${cp?ldood(id,'dd neg'):''}</div></div>`;
-  const have=(DOODLES.lessons||{})[SUB.id]||[],pool=have.filter(n=>n===id||n.startsWith(id+'_'));
-  l.cards.forEach((c,k)=>{const ph=photo(id+'_'+k,'card'),own=ldood(id+'_'+k,'dd card'),pick=pool.length?pool[(k+1)%pool.length]:'',
-    neg=ph?(own?ldood(id+'_'+k,'dd neg'):ldood(pick,'dd neg')):(own?'':ldood(pick,'dd neg'));
-    h+=`<div class="cd"><div class="ci marble ${c.cls||''}">${ph||own}<div class="tag">${c.tag}</div><h2>${c.h}</h2>${c.b}${neg}</div></div>`});
+  let h=`<div class="cd"><div class="ci marble cover">${cp||ldood(id,'dd big')||doodle(id,'dd big')||`<div class="em">${l.emoji}</div>`}<div class="tag">${unitOf(id)}</div><h2>${l.title}</h2><p class="hint">Swipe left to begin</p>${cp?ldood(id,'dd pb'):''}</div></div>`;
+  const have=(DOODLES.lessons||{})[SUB.id]||[],pool=have.filter(n=>n===id||n.startsWith(id+'_')),POS=['r','b','t','l','b','r','l','t'],off=[...id].reduce((x,ch)=>x+ch.charCodeAt(0),0);
+  l.cards.forEach((c,k)=>{const ph=photo(id+'_'+k,'card');let pos=POS[(k+off)%POS.length];if(ph&&pos==='t')pos='r';
+    const nm=have.includes(id+'_'+k)?id+'_'+k:(pool.length?pool[(k+1)%pool.length]:''),d=nm?ldood(nm,'dd p'+pos):'';
+    h+=`<div class="cd"><div class="ci marble ${c.cls||''}">${ph}${pos==='t'?d:''}<div class="cb">${pos==='r'||pos==='l'?d:''}<div class="tag">${c.tag}</div><h2>${c.h}</h2>${c.b}</div>${pos==='b'?d:''}</div></div>`});
   const pq=PYQ[id];
   if(pq&&pq.length)h+=`<div class="cd"><div class="ci marble"><div class="tag">Asked in UPSC</div><h2>Previous year questions</h2>${pq.map(x=>`<blockquote class="pyq">${esc(x.q)}<small>${x.y} · ${esc(x.p)}${x.m?' · '+x.m+' marks':''}</small></blockquote>`).join('')}</div></div>`;
   l.quiz.forEach((q,i)=>h+=`<div class="cd"><div class="ci marble"><div class="tag">${q._t?esc(q._t):`Question ${i+1} of ${l.quiz.length}`}</div><h2 class="qq" style="font-size:20px">${q.q}</h2>${q.o.map((o,j)=>`<button class="opt" data-q="${i}" data-j="${j}">${o}</button>`).join('')}<div class="why" id="w${i}"></div></div></div>`);
   h+=`<div class="cd"><div class="ci marble cover" id="end"><div class="tag">Answer every question to finish</div></div></div>`;
-  deck.innerHTML=h;window.LCOUNT=l.cards.length+(pq&&pq.length?1:0);deck.querySelectorAll('.ci').forEach(c=>io.observe(c));window.ans={};show('lesson');deck.scrollLeft=card>=0?(card+1)*deck.clientWidth:0;upd();deck.querySelectorAll('.ci').forEach(c=>{const g=c.querySelector('.dd.neg');if(g){const body=c.scrollHeight-g.offsetHeight-14,room=c.clientHeight-body-30;if(room<56)g.remove();else if(room<g.offsetHeight)g.style.height=room+'px'}});
+  deck.innerHTML=h;window.LCOUNT=l.cards.length+(pq&&pq.length?1:0);deck.querySelectorAll('.ci').forEach(c=>io.observe(c));window.ans={};show('lesson');deck.scrollLeft=card>=0?(card+1)*deck.clientWidth:0;upd();deck.querySelectorAll('.ci').forEach(c=>{const g=c.querySelector('.dd.pb');if(g){const body=c.scrollHeight-g.offsetHeight-14,room=c.clientHeight-body-30;if(room<70)g.remove();else if(room<g.offsetHeight)g.style.height=room+'px'}
+    c.querySelectorAll('.dd.pt,.dd.pr,.dd.pl').forEach(d=>{if(c.scrollHeight>c.clientHeight+4)d.remove()})});
   deck.querySelectorAll('.ci').forEach(c=>{if(c.scrollHeight>c.clientHeight+4){const m=document.createElement('div');m.className='more';m.textContent='Scroll down for more';c.parentNode.appendChild(m);c.addEventListener('scroll',()=>{m.classList.toggle('gone',c.scrollTop+c.clientHeight>=c.scrollHeight-30)},{passive:true})}});
 }
 deck.addEventListener('click',e=>{const b=e.target.closest('.opt');if(!b)return;const q=+b.dataset.q,j=+b.dataset.j;if(ans[q]!==undefined)return;
