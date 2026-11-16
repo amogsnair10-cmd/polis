@@ -1,0 +1,42 @@
+name: Generate quizzes (free Gemini)
+# Writes lesson quizzes (5 UPSC-style + 5 plain) with the free Gemini key. Uses no Claude tokens.
+# Needs repository secret GEMINI_API_KEY. Run it by hand first; a daily schedule can be switched on later (see docs/QUIZ_GEN.md).
+on:
+  workflow_dispatch:
+    inputs:
+      subjects:
+        description: "Subject ids separated by spaces (blank = all)"
+        required: false
+        default: ""
+      limit:
+        description: "Max lessons this run (free quota is limited)"
+        required: false
+        default: "30"
+  # schedule:
+  #   - cron: "40 21 * * *"
+permissions:
+  contents: write
+concurrency:
+  group: quizgen
+jobs:
+  gen:
+    runs-on: ubuntu-latest
+    timeout-minutes: 180
+    steps:
+      - uses: actions/checkout@v4
+        with: { ref: main }
+      - uses: actions/setup-node@v4
+        with: { node-version: 22 }
+      - name: Generate
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        run: python3 scripts/gen_quiz.py ${{ github.event.inputs.subjects }} --limit ${{ github.event.inputs.limit || 30 }}
+      - name: Validate the lessons
+        run: node scripts/build.js
+      - name: Commit
+        run: |
+          git config user.name "quiz-bot"
+          git config user.email "quiz-bot@users.noreply.github.com"
+          git add -A lessons subjects art/quiz_state.json sw.js
+          git commit -m "Quizzes: generated with Gemini (5 UPSC-style + 5 plain)" || exit 0
+          ok=0; for i in 1 2 3 4; do git pull --rebase origin main && git push && ok=1 && break; git rebase --abort || true; sleep 5; done; [ $ok = 1 ]
