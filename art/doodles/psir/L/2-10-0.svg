@@ -1,1 +1,13 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 120" fill="none" stroke="#000" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M24 56H98L104 102H18Z"/><path d="M44 62h38"/><path d="M46 20L82 28L76 56L40 48Z"/><path d="M52 34l8 6l12-12"/><path d="M118 34H148V82H118Z"/><path d="M122 44H144M122 52H144M122 60H138"/><circle cx="132" cy="90" r="6"/><path d="M128 95l-2 10l6-3l6 3l-2-10"/><path d="M13 26H19M16 23V29"/><path d="M105.5 20H110.5M108 17.5V22.5"/><path d="M147.5 100H152.5M150 97.5V102.5"/><path d="M30 80h60M30 88h60"/></svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 120" fill="none" stroke="#000" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round">
+<path d="M50 74 H110 V110 H50 Z"/>
+<path d="M44 74 L56 58 H104 L116 74"/>
+<path d="M68 68 H92"/>
+<path d="M74 66 L76 40 H94 V66"/>
+<path d="M80 50 H88"/>
+<path d="M80 58 H88"/>
+<path d="M112 44 Q124 34 140 40 Q132 48 118 50 Z"/>
+<path d="M120 42 Q128 26 146 28 Q138 34 134 42"/>
+<circle cx="110" cy="40" r="2.5" fill="#000"/>
+<path d="M140 40 L150 38"/>
+<path d="M134 62 L146 64"/>
+</svg>
