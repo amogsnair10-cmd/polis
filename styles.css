@@ -461,12 +461,12 @@ blockquote.pyq small{display:block;margin-top:6px;font-size:12px;color:var(--vei
 #welcome img.lum{width:auto;height:150px;border-radius:0;-webkit-mask:none;mask:none;margin:0 auto 6px}
 
 /* Lumen stands beside the stat tiles on every subject's home screen */
-.statrow{display:flex;align-items:flex-end;justify-content:center;gap:6px;margin:22px auto 0;max-width:460px}
+.statrow{position:relative;z-index:1;display:flex;align-items:flex-end;justify-content:center;gap:6px;margin:22px auto 0;max-width:460px}
 .statrow .stats{margin:0;flex:1;max-width:268px;min-width:0}
 .statrow .stats small{font-size:15px}
 .lumenhero{position:relative;flex:none;width:86px;height:94px;display:flex;align-items:flex-end;justify-content:center}
-.lumenhero::before{content:"";position:absolute;left:50%;bottom:0;width:128px;height:128px;transform:translateX(-50%);background:radial-gradient(circle at 50% 66%,rgba(242,196,109,.34),rgba(242,196,109,.10) 46%,transparent 70%);pointer-events:none}
-.lumenhero img{position:relative;max-width:100%;max-height:100%;width:auto;height:auto;object-fit:contain;
+.lumenhero::before{content:"";position:absolute;inset:-34px -40px -30px -40px;background:radial-gradient(closest-side,rgba(242,196,109,.34),rgba(242,196,109,.12) 55%,rgba(242,196,109,0));pointer-events:none;z-index:0}
+.lumenhero img{position:relative;z-index:1;max-width:100%;max-height:100%;width:auto;height:auto;object-fit:contain;
   filter:drop-shadow(0 0 .8px #f1e9d6) drop-shadow(0 0 .8px #f1e9d6) drop-shadow(0 8px 12px rgba(0,0,0,.55));animation:lumfloat 6s ease-in-out infinite}
 @keyframes lumfloat{50%{transform:translateY(-3px)}}
 .lumenline{display:block;padding:10px 16px;border-radius:18px}

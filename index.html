@@ -29,8 +29,9 @@
 .sp-stars{position:absolute;inset:0;overflow:hidden}
 .sp-stars b{position:absolute;width:var(--z);height:var(--z);border-radius:50%;background:#fff;opacity:.15;animation:tw var(--t) ease-in-out var(--d) infinite;will-change:opacity}
 @keyframes tw{50%{opacity:.95}}
-.sp-logo{position:relative;width:min(68vw,340px);aspect-ratio:1;animation:spIn 1.2s cubic-bezier(.2,.8,.2,1) both}
-.sp-logo img{width:100%;height:100%;border-radius:50%;-webkit-mask-image:radial-gradient(circle,#000 50%,transparent 70%);mask-image:radial-gradient(circle,#000 50%,transparent 70%)}
+.sp-logo{position:relative;width:min(46vw,220px);aspect-ratio:264/420;animation:spIn 1.2s cubic-bezier(.2,.8,.2,1) both}
+.sp-logo::before{content:"";position:absolute;inset:-18% -45% -8% -45%;background:radial-gradient(closest-side,rgba(242,196,109,.38),rgba(242,196,109,.12) 55%,rgba(242,196,109,0))}
+.sp-logo img{position:relative;width:100%;height:100%;object-fit:contain;filter:drop-shadow(0 0 .8px #f1e9d6) drop-shadow(0 0 .8px #f1e9d6) drop-shadow(0 8px 14px rgba(0,0,0,.55))}
 .sp-logo i{position:absolute;width:calc(34px * var(--s,1));height:calc(34px * var(--s,1));margin:calc(-17px * var(--s,1)) 0 0 calc(-17px * var(--s,1));opacity:0;animation:glint 3.2s ease-in-out var(--d) infinite;
  background:radial-gradient(circle,#fff 0 6%,rgba(255,255,255,.55) 12%,transparent 40%),linear-gradient(90deg,transparent 46%,rgba(255,255,255,.9) 50%,transparent 54%),linear-gradient(0deg,transparent 46%,rgba(255,255,255,.9) 50%,transparent 54%);}
 @keyframes glint{0%,100%{opacity:0;transform:scale(.4) rotate(0)}45%{opacity:1;transform:scale(1) rotate(45deg)}70%{opacity:0;transform:scale(.6) rotate(90deg)}}
@@ -46,9 +47,7 @@
 <body>
 <div id="splash" aria-hidden="true">
  <div class="sp-stars"></div>
- <div class="sp-logo"><img src="icons/logo.webp" alt="">
-  <i style="left:64.5%;top:53%;--d:0s;--s:1.25"></i><i style="left:52%;top:8.5%;--d:.6s"></i><i style="left:72%;top:10.5%;--d:1.3s"></i>
-  <i style="left:25%;top:25%;--d:.9s"></i><i style="left:19%;top:43%;--d:1.8s"></i><i style="left:66%;top:77%;--d:.3s"></i><i style="left:53%;top:31%;--d:2.2s"></i></div>
+ <div class="sp-logo"><img src="art/lumen/sunglasses-1.webp" alt=""></div>
  <div class="sp-name">LIGHT BULB</div>
  <div class="sp-tag">one lesson a day</div>
 </div>
