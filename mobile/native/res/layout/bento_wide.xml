@@ -12,7 +12,7 @@
 
 </FrameLayout>
 <LinearLayout android:layout_width="match_parent" android:layout_height="wrap_content" android:orientation="horizontal" android:gravity="center_vertical">
-<ProgressBar android:id="@+id/w_prog" android:style="?android:attr/progressBarStyleHorizontal" android:layout_width="0dp" android:layout_height="5dp" android:max="10" android:progress="0" android:progressDrawable="@drawable/widget_progress" android:layout_weight="1"/>
+<ProgressBar android:id="@+id/w_prog" style="?android:attr/progressBarStyleHorizontal" android:layout_width="0dp" android:layout_height="5dp" android:max="10" android:progress="0" android:progressDrawable="@drawable/widget_progress" android:layout_weight="1"/>
 <TextView android:id="@+id/w_btn" android:layout_width="34dp" android:layout_height="34dp" android:text="→" android:textSize="17sp" android:textColor="#14213D" android:textStyle="bold" android:includeFontPadding="false" android:gravity="center" android:background="@drawable/w_gold_circle" android:layout_marginStart="10dp"/>
 </LinearLayout>
 </LinearLayout>

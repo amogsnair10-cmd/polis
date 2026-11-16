@@ -2,7 +2,7 @@
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" android:id="@+id/w_root" android:layout_width="match_parent" android:layout_height="match_parent" android:background="@drawable/widget_bg" android:padding="12dp" android:orientation="vertical">
 <LinearLayout android:layout_width="match_parent" android:layout_height="wrap_content" android:orientation="horizontal" android:gravity="center_vertical">
 <FrameLayout android:layout_width="100dp" android:layout_height="100dp">
-<ProgressBar android:id="@+id/w_ring" android:style="?android:attr/progressBarStyleHorizontal" android:layout_width="match_parent" android:layout_height="match_parent" android:max="100" android:progress="3" android:indeterminate="false" android:progressDrawable="@drawable/ring_progress"/>
+<ProgressBar android:id="@+id/w_ring" style="?android:attr/progressBarStyleHorizontal" android:layout_width="match_parent" android:layout_height="match_parent" android:max="100" android:progress="3" android:indeterminate="false" android:progressDrawable="@drawable/ring_progress"/>
 <LinearLayout android:layout_width="match_parent" android:layout_height="match_parent" android:gravity="center" android:orientation="vertical">
 <TextView android:id="@+id/w_streak" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="12" android:textSize="28sp" android:textColor="#F2C46D" android:textStyle="bold" android:fontFamily="serif" android:includeFontPadding="false"/>
 <TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="DAY STREAK" android:textSize="8sp" android:textColor="#8FA0BD" android:includeFontPadding="false" android:letterSpacing="0.06" android:layout_marginTop="2dp"/>
