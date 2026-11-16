@@ -1,0 +1,185 @@
+LUMEN: PROMPTS FOR GPT IMAGE GENERATION
+Light Bulb app mascot. 10 character sheets x 6 poses = 60 poses, plus 3 bonus single images.
+======================================================================
+
+HOW TO USE (works on a phone)
+1. Open ChatGPT and start a NEW chat with image generation on.
+2. In your FIRST message, attach your reference firefly picture and paste the
+   'CHARACTER LOCK' below. Say: 'Remember this character. I will send prompts one by one.'
+3. Then paste ONE sheet prompt at a time (each is complete). Ask for ONE image per message.
+4. If Lumen starts to drift (different face, wings or bulb), re-attach the reference and add:
+   'Match the reference exactly. Same face, same bulb, same wings.'
+5. If a sheet has the wrong number of poses or any text in it, reply: 'Redo with exactly 6 poses in a 3x2 grid and no text.'
+6. Save every sheet as PNG and send them to Claude in the chat. Claude will cut out each pose,
+   remove the background, make small transparent files and put them in the app (quiz results,
+   streak, badges, empty screens, loading screen and the phone widget).
+7. Tip: ask for 2 versions of any sheet you like less, then pick the better one.
+
+======================================================================
+CHARACTER LOCK  (paste once at the start of the chat)
+======================================================================
+Lumen is the friendly mascot of a UPSC study app called Light Bulb. Lumen is a small firefly. Round, gentle head with two big simple dot eyes with tiny highlights, small curved eyebrows and a soft small smile. Slim little body, two small expressive hands, two small feet, two thin antennae with tiny gold tips, and delicate see-through wings with fine vein lines. Lumen's rounded abdomen is a glowing light bulb: a little glass bulb with a tiny filament inside and a warm gold glow. The personality is calm, kind, curious and dignified (a quiet study companion, never loud, goofy or babyish). Match the attached reference firefly exactly for face, proportions, wing shape and bulb design.
+STYLE: refined hand-drawn ink illustration. Confident deep-navy line art with consistent line weight, flat colour fills, and a soft gold glow coming only from the bulb. Limited palette: deep navy (#0C1C36), warm gold (#F2C46D), parchment cream (#F3F1EC), with a very light teal accent only if needed. Clean, flat, vector-like. It should look at home next to elegant hand-drawn doodles.
+
+======================================================================
+FORMAT RULES  (already included in every sheet prompt below; shown here once for reference)
+======================================================================
+FORMAT RULES FOR THIS IMAGE: one single image that is a character sheet with EXACTLY 6 poses of the same character arranged in a 3 x 2 grid (3 columns, 2 rows). Every pose is the same size, fully visible, full body, evenly spaced, on a plain flat warm-white background (#F7F5EF). The character design must be identical in every pose (same face, same bulb, same wings, same line weight). No text, no letters, no numbers, no labels, no borders, no watermark, no extra characters, no 3D, no glossy plastic, no photorealism, no heavy shadows. Leave generous empty space around each pose so each one can be cut out.
+
+======================================================================
+SHEET 1: CORE EMOTIONS
+======================================================================
+Create an image of Lumen the firefly (see the attached reference and the character lock). This is a character sheet of the six everyday emotions the app needs.
+The six poses, left to right, top row then bottom row:
+  1) Happy: relaxed warm smile, wings gently open, bulb glowing steady gold.
+  2) Excited: wide eyes, small hands raised, wings spread, bulb glowing extra bright.
+  3) Curious: head tilted, one hand to chin, one eyebrow raised, steady glow.
+  4) Proud: chest slightly out, small content smile, bulb glowing warm and strong.
+  5) Sleepy: half-closed eyes, a small yawn, wings drooping, bulb glowing low and soft.
+  6) Worried: eyebrows tilted up, hands together, wings slightly lowered, bulb glow flickering a little.
+Keep the exact same character design in every pose: same round head, same dot eyes, same wings, same glowing bulb abdomen.
+FORMAT RULES FOR THIS IMAGE: one single image that is a character sheet with EXACTLY 6 poses of the same character arranged in a 3 x 2 grid (3 columns, 2 rows). Every pose is the same size, fully visible, full body, evenly spaced, on a plain flat warm-white background (#F7F5EF). The character design must be identical in every pose (same face, same bulb, same wings, same line weight). No text, no letters, no numbers, no labels, no borders, no watermark, no extra characters, no 3D, no glossy plastic, no photorealism, no heavy shadows. Leave generous empty space around each pose so each one can be cut out.
+
+======================================================================
+SHEET 2: QUIZ RESULTS
+======================================================================
+Create an image of Lumen the firefly (see the attached reference and the character lock). This is a character sheet of how Lumen reacts when a quiz ends, from perfect to try-again.
+The six poses, left to right, top row then bottom row:
+  1) Perfect score: joyful, both arms up, wings wide open, a ring of tiny gold sparkles around the bulb, very bright glow.
+  2) Great score: big smile, one thumb up, wings open, bright glow.
+  3) Good score: calm approving nod, small smile, steady glow.
+  4) Needs another look: encouraging, one hand resting on a closed book, gentle smile, steady glow.
+  5) Tough one: kind and reassuring, a small comforting hand gesture, no blame, softer glow.
+  6) Try again tomorrow: relaxed, curled gently with a small book as a pillow, eyes closed, dim peaceful glow.
+Keep the exact same character design in every pose: same round head, same dot eyes, same wings, same glowing bulb abdomen.
+FORMAT RULES FOR THIS IMAGE: one single image that is a character sheet with EXACTLY 6 poses of the same character arranged in a 3 x 2 grid (3 columns, 2 rows). Every pose is the same size, fully visible, full body, evenly spaced, on a plain flat warm-white background (#F7F5EF). The character design must be identical in every pose (same face, same bulb, same wings, same line weight). No text, no letters, no numbers, no labels, no borders, no watermark, no extra characters, no 3D, no glossy plastic, no photorealism, no heavy shadows. Leave generous empty space around each pose so each one can be cut out.
+
+======================================================================
+SHEET 3: STREAK STATES
+======================================================================
+Create an image of Lumen the firefly (see the attached reference and the character lock). This is a character sheet of the days-in-a-row streak at different moments.
+The six poses, left to right, top row then bottom row:
+  1) Streak kept today: standing tall and pleased, bulb glowing bright, a few small gold sparkles.
+  2) Streak at risk: nervous, looking at a small pocket clock, bulb glow dim and flickering.
+  3) Streak lost: gently folded wings, sitting quietly, eyes closed, very dim glow, sad but not dramatic and with no blame.
+  4) Starting again: stretching and waking up with a small smile, glow warming up.
+  5) Seven-day milestone: a small trail of golden light curling behind Lumen, determined happy look, bright glow.
+  6) Thirty-day milestone: wearing a tiny crown made of light, calm triumphant look, brightest glow with a soft halo.
+Keep the exact same character design in every pose: same round head, same dot eyes, same wings, same glowing bulb abdomen.
+FORMAT RULES FOR THIS IMAGE: one single image that is a character sheet with EXACTLY 6 poses of the same character arranged in a 3 x 2 grid (3 columns, 2 rows). Every pose is the same size, fully visible, full body, evenly spaced, on a plain flat warm-white background (#F7F5EF). The character design must be identical in every pose (same face, same bulb, same wings, same line weight). No text, no letters, no numbers, no labels, no borders, no watermark, no extra characters, no 3D, no glossy plastic, no photorealism, no heavy shadows. Leave generous empty space around each pose so each one can be cut out.
+
+======================================================================
+SHEET 4: STUDY ACTIONS
+======================================================================
+Create an image of Lumen the firefly (see the attached reference and the character lock). This is a character sheet of what Lumen does while the learner studies.
+The six poses, left to right, top row then bottom row:
+  1) Reading: holding a big open book, eyes on the page, glow lighting the pages.
+  2) Taking notes: writing with a small quill on a scroll, tongue-in-cheek focused look.
+  3) Listening: wearing small headphones, eyes closed, a few tiny musical notes drawn as simple shapes (no letters).
+  4) Highlighting: holding a thick highlighter and underlining a line on a page.
+  5) Researching: holding a magnifying glass up to a small map or page, one eye enlarged.
+  6) Turning the page: lifting the corner of a big page, mid-motion, wings slightly raised.
+Keep the exact same character design in every pose: same round head, same dot eyes, same wings, same glowing bulb abdomen.
+FORMAT RULES FOR THIS IMAGE: one single image that is a character sheet with EXACTLY 6 poses of the same character arranged in a 3 x 2 grid (3 columns, 2 rows). Every pose is the same size, fully visible, full body, evenly spaced, on a plain flat warm-white background (#F7F5EF). The character design must be identical in every pose (same face, same bulb, same wings, same line weight). No text, no letters, no numbers, no labels, no borders, no watermark, no extra characters, no 3D, no glossy plastic, no photorealism, no heavy shadows. Leave generous empty space around each pose so each one can be cut out.
+
+======================================================================
+SHEET 5: REVIEW AND TESTS
+======================================================================
+Create an image of Lumen the firefly (see the attached reference and the character lock). This is a character sheet of spaced review and revision moments.
+The six poses, left to right, top row then bottom row:
+  1) Review time: holding a small round clock, alert friendly look, steady glow.
+  2) Flashcards: carrying a neat stack of cards, balancing them with both hands.
+  3) Taking a quiz: holding a pencil over a sheet of paper, thoughtful look.
+  4) Correct answer: holding up a gold tick mark shaped like a leaf, delighted.
+  5) Sorting: placing cards into two small boxes, tidy and focused.
+  6) Mixed revision: juggling three small floating books in the air, playful but calm.
+Keep the exact same character design in every pose: same round head, same dot eyes, same wings, same glowing bulb abdomen.
+FORMAT RULES FOR THIS IMAGE: one single image that is a character sheet with EXACTLY 6 poses of the same character arranged in a 3 x 2 grid (3 columns, 2 rows). Every pose is the same size, fully visible, full body, evenly spaced, on a plain flat warm-white background (#F7F5EF). The character design must be identical in every pose (same face, same bulb, same wings, same line weight). No text, no letters, no numbers, no labels, no borders, no watermark, no extra characters, no 3D, no glossy plastic, no photorealism, no heavy shadows. Leave generous empty space around each pose so each one can be cut out.
+
+======================================================================
+SHEET 6: BADGES AND REWARDS
+======================================================================
+Create an image of Lumen the firefly (see the attached reference and the character lock). This is a character sheet of celebrating earned badges.
+The six poses, left to right, top row then bottom row:
+  1) Holding up a golden laurel leaf, proud and happy.
+  2) Wearing a round medal on a ribbon, looking down at it fondly.
+  3) Hugging a small gold trophy cup with both hands, delighted.
+  4) Catching a falling gold star in both hands, surprised and happy.
+  5) Holding a small golden key (unlocking a new level), mischievous smile.
+  6) Wearing a small laurel wreath on the head, calm victorious look, soft halo.
+Keep the exact same character design in every pose: same round head, same dot eyes, same wings, same glowing bulb abdomen.
+FORMAT RULES FOR THIS IMAGE: one single image that is a character sheet with EXACTLY 6 poses of the same character arranged in a 3 x 2 grid (3 columns, 2 rows). Every pose is the same size, fully visible, full body, evenly spaced, on a plain flat warm-white background (#F7F5EF). The character design must be identical in every pose (same face, same bulb, same wings, same line weight). No text, no letters, no numbers, no labels, no borders, no watermark, no extra characters, no 3D, no glossy plastic, no photorealism, no heavy shadows. Leave generous empty space around each pose so each one can be cut out.
+
+======================================================================
+SHEET 7: LEVELS AND PROGRESS
+======================================================================
+Create an image of Lumen the firefly (see the attached reference and the character lock). This is a character sheet of moving up through levels.
+The six poses, left to right, top row then bottom row:
+  1) Climbing a short staircase of stacked books, determined.
+  2) Planting a small flag on top of a tiny hill, proud.
+  3) Rising upward with wings wide, a soft vertical beam of light below, glowing brightest.
+  4) Opening a small glowing door, peeking through with curiosity.
+  5) Standing beside a large round progress ring drawn as a simple gold circle, pointing at it happily.
+  6) Sitting on top of a tall stack of books, arms open, looking up at stars.
+Keep the exact same character design in every pose: same round head, same dot eyes, same wings, same glowing bulb abdomen.
+FORMAT RULES FOR THIS IMAGE: one single image that is a character sheet with EXACTLY 6 poses of the same character arranged in a 3 x 2 grid (3 columns, 2 rows). Every pose is the same size, fully visible, full body, evenly spaced, on a plain flat warm-white background (#F7F5EF). The character design must be identical in every pose (same face, same bulb, same wings, same line weight). No text, no letters, no numbers, no labels, no borders, no watermark, no extra characters, no 3D, no glossy plastic, no photorealism, no heavy shadows. Leave generous empty space around each pose so each one can be cut out.
+
+======================================================================
+SHEET 8: DAILY MOMENTS
+======================================================================
+Create an image of Lumen the firefly (see the attached reference and the character lock). This is a character sheet of small everyday scenes.
+The six poses, left to right, top row then bottom row:
+  1) Morning: waking up with a stretch beside a small rising sun, soft glow.
+  2) Chai break: holding a small cup with a curl of steam, relaxed, eyes closed.
+  3) Late-night study: reading by its own glow in the dark, a small crescent moon behind.
+  4) Commute: wearing small earphones, walking a few steps, wings tucked, relaxed.
+  5) Stretch break: both arms up in a big stretch, eyes closed, happy.
+  6) Goodnight: curled up asleep on a tiny cushion, very low glow, peaceful.
+Keep the exact same character design in every pose: same round head, same dot eyes, same wings, same glowing bulb abdomen.
+FORMAT RULES FOR THIS IMAGE: one single image that is a character sheet with EXACTLY 6 poses of the same character arranged in a 3 x 2 grid (3 columns, 2 rows). Every pose is the same size, fully visible, full body, evenly spaced, on a plain flat warm-white background (#F7F5EF). The character design must be identical in every pose (same face, same bulb, same wings, same line weight). No text, no letters, no numbers, no labels, no borders, no watermark, no extra characters, no 3D, no glossy plastic, no photorealism, no heavy shadows. Leave generous empty space around each pose so each one can be cut out.
+
+======================================================================
+SHEET 9: SUBJECT OUTFITS A
+======================================================================
+Create an image of Lumen the firefly (see the attached reference and the character lock). This is a character sheet of one small costume or prop per subject (first six subjects).
+The six poses, left to right, top row then bottom row:
+  1) Polis (political science): wearing a tiny Greek helmet and holding a rolled scroll, thoughtful.
+  2) Chronicle (history): holding a small oil lantern and an old scroll, wise look.
+  3) Terra (geography): holding a small globe and a compass, adventurous look.
+  4) Verdant (environment): holding a green leaf and a tiny sprout in a pot, gentle look.
+  5) Odyssey (world history): wearing a small explorer's cap, holding a brass astrolabe, adventurous.
+  6) Manifesto (political thought): holding a rolled pamphlet and a quill, earnest expression.
+Keep the exact same character design in every pose: same round head, same dot eyes, same wings, same glowing bulb abdomen.
+FORMAT RULES FOR THIS IMAGE: one single image that is a character sheet with EXACTLY 6 poses of the same character arranged in a 3 x 2 grid (3 columns, 2 rows). Every pose is the same size, fully visible, full body, evenly spaced, on a plain flat warm-white background (#F7F5EF). The character design must be identical in every pose (same face, same bulb, same wings, same line weight). No text, no letters, no numbers, no labels, no borders, no watermark, no extra characters, no 3D, no glossy plastic, no photorealism, no heavy shadows. Leave generous empty space around each pose so each one can be cut out.
+
+======================================================================
+SHEET 10: SUBJECT OUTFITS B AND SIGNATURE
+======================================================================
+Create an image of Lumen the firefly (see the attached reference and the character lock). This is a character sheet of the other five subjects, plus the main logo pose.
+The six poses, left to right, top row then bottom row:
+  1) Stellar (astronomy): looking through a small telescope on a tiny tripod, stars around.
+  2) Principia (physics): holding a small glowing atom drawn as a simple nucleus with orbits.
+  3) Alchemy (chemistry): holding a small round flask with a glowing liquid and a tiny bubble.
+  4) Vita (biology): looking into a small microscope, one eye wide, a leaf beside it.
+  5) Quanta (quantum): standing beside two simple glowing wave lines and a few dots (no text), curious.
+  6) Signature logo pose: front view, standing proudly, arms open in a welcome, wings spread symmetrically, bulb glowing brightest, a soft halo. This should look like the main app mascot.
+Keep the exact same character design in every pose: same round head, same dot eyes, same wings, same glowing bulb abdomen.
+FORMAT RULES FOR THIS IMAGE: one single image that is a character sheet with EXACTLY 6 poses of the same character arranged in a 3 x 2 grid (3 columns, 2 rows). Every pose is the same size, fully visible, full body, evenly spaced, on a plain flat warm-white background (#F7F5EF). The character design must be identical in every pose (same face, same bulb, same wings, same line weight). No text, no letters, no numbers, no labels, no borders, no watermark, no extra characters, no 3D, no glossy plastic, no photorealism, no heavy shadows. Leave generous empty space around each pose so each one can be cut out.
+
+======================================================================
+BONUS (optional): three single images for the phone widget
+======================================================================
+BONUS 1: Widget state: streak kept
+Image of Lumen the firefly (see the attached reference and the character lock). Single large image of Lumen, front three-quarter view, cheerful and proud, bulb glowing bright, centred, transparent-looking plain warm-white background, lots of space around. One pose only. Same style: refined deep-navy ink line art, flat colour, soft gold glow from the bulb, no text, no watermark, no 3D.
+
+BONUS 2: Widget state: streak at risk
+Image of Lumen the firefly (see the attached reference and the character lock). Single large image of Lumen, nervous, looking at a small pocket clock, bulb glow dim and flickering, centred on a plain warm-white background, lots of space around. One pose only. Same style: refined deep-navy ink line art, flat colour, soft gold glow from the bulb, no text, no watermark, no 3D.
+
+BONUS 3: Widget state: streak lost or not started
+Image of Lumen the firefly (see the attached reference and the character lock). Single large image of Lumen, gently resting with folded wings and closed eyes, very dim glow, no blame, centred on a plain warm-white background, lots of space around. One pose only. Same style: refined deep-navy ink line art, flat colour, soft gold glow from the bulb, no text, no watermark, no 3D.
+
+======================================================================
+IF YOU WANT TO CHANGE THE CHARACTER LATER
+======================================================================
+Edit only the CHARACTER LOCK paragraph (for example the eyes, the bulb shape or the colours) and
+regenerate Sheet 1 first. When Sheet 1 looks right, continue with the other sheets in that same chat.
