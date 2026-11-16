@@ -32,7 +32,7 @@ jobs:
         run: |
           mkdir _site
           rsync -a --exclude '.git*' --exclude '_site' --exclude 'mobile' --exclude 'netlify' --exclude 'scripts' --exclude 'docs' \
-            --exclude 'art/photo_queries' --exclude '*.md' --exclude 'firestore.rules' --exclude 'netlify.toml' --exclude 'package*.json' --exclude 'node_modules' --exclude '*.whl' --exclude 'PROMPT_FOR_CLAUDE_CODE*' ./ _site/
+            --exclude 'art/photo_queries' --exclude 'art/lumen/sheets' --exclude '*.md' --exclude 'firestore.rules' --exclude 'netlify.toml' --exclude 'package*.json' --exclude 'node_modules' --exclude '*.whl' --exclude 'PROMPT_FOR_CLAUDE_CODE*' ./ _site/
           find _site -type f | wc -l
       - name: Include the latest Android app, so it can be downloaded from the site
         env:

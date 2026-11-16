@@ -18,6 +18,16 @@ function rmark(id,q,ok){S.rev=S.rev||[];let r=S.rev.find(r=>r.id===id&&r.q===q);
   if(!r){if(ok)return;r={id,q,step:-1};S.rev.push(r)}
   r.step=ok?r.step+1:0;r.due=r.step<4?dayStart(RDAYS[r.step]):0;r.t=Date.now();save()}
 let PYQ={};
+/* ---------- Inspector Lumen (mascot): poses live in art/lumen/<sheet>-<n>.webp ---------- */
+const LUM=(k,c='')=>`<img class="lum ${c}" src="art/lumen/${k}.webp" alt="" loading="lazy" decoding="async" onerror="this.remove()">`;
+const SUBJPOSE={psir:'subjects-a-1',history:'subjects-a-2',geography:'subjects-a-3',environment:'subjects-a-4',world:'subjects-a-5',communism:'subjects-a-6',astronomy:'subjects-b-1',physics:'subjects-b-2',chemistry:'subjects-b-3',biology:'subjects-b-4',quantum:'subjects-b-5'};
+function lumenSay(){const days=allDays(),st=streak(),h=new Date().getHours(),did=days.has(today());
+  if(!days.size)return['subjects-b-6','Inspector Lumen. I will be going through the files with you.'];
+  if(did){if(st>=30)return['streak-6',st+' days. I am not smiling. I am just fine.'];if(st>=7)return['streak-5',st+' days running. Noted.'];if(st===1&&days.size>1)return['streak-4','Back at it. Good.'];return['streak-1','Noted. The streak stands at '+st+'.']}
+  if(st>0){if(h>=22)return['daily-3','Late. A short lesson still counts.'];if(h>=18)return['streak-2','Streak in danger. One lesson will do.'];if(h<9)return['daily-1',"Morning. Today's case file is open."];return[SUBJPOSE[SUB.id]||'expressions-angles-1',"Today's case file is open: "+SUB.title+'.']}
+  return['streak-3','Fresh start. I will be here.']}
+function renderLumen(){const el=document.getElementById('lumenline');if(!el)return;const[k,t]=lumenSay();el.innerHTML=`<span class="ltile">${LUM(k)}</span><div class="lsay"><small>Inspector Lumen</small><span>${esc(t)}</span></div>`}
+const endPose=f=>f>=.999?'sunglasses-2':f>=.8?'streak-1':f>=.6?'expressions-angles-4':f>=.3?'expressions-angles-2':'daily-6';
 /* ---------- points, levels and badges ----------
    XP is stored per subject in S.xp (synced with progress). Badges are worked out from saved progress,
    so they can't get out of step; lb:badges remembers which ones were already celebrated. */
@@ -57,7 +67,7 @@ function toast(h){let t=document.getElementById('toasts');if(!t){t=document.crea
   const e=document.createElement('div');e.className='toast';e.innerHTML=h;t.appendChild(e);setTimeout(()=>{e.classList.add('out');setTimeout(()=>e.remove(),600)},CALM?3500:4200)}
 /* quiet=true records what is already earned without celebrating (first run, after sign-in) */
 function checkBadges(quiet){const st=badgeState(),got=st.all.filter(b=>b.got).map(b=>b.id);let seen=null;try{seen=JSON.parse(ls.get('lb:badges')||'null')}catch(e){}
-  if(seen&&!quiet)st.all.filter(b=>b.got&&!seen.includes(b.id)).forEach((b,i)=>setTimeout(()=>toast(`<span class="bd ${b.tier}">${b.g}</span><span><small>New badge</small><b>${b.t}</b></span>`),i*900));
+  if(seen&&!quiet)st.all.filter(b=>b.got&&!seen.includes(b.id)).forEach((b,i)=>setTimeout(()=>toast(`<span class="ltile sm">${LUM('rewards-2')}</span><span><small>New badge</small><b>${b.t}</b></span>`),i*900));
   ls.set('lb:badges',JSON.stringify([...new Set([...(seen||[]),...got])]));renderLevel()}
 window.checkBadges=checkBadges;
 function renderLevel(){const el=document.getElementById('lvl');if(!el)return;const v=lvlOf(stats().xp);
@@ -84,10 +94,10 @@ function renderHome(){
   if(next){const n=ids.indexOf(next)+1;t.innerHTML=`<div class="day">Day ${n} of ${ids.length} · ${unitOf(next)}</div><h2>${IDX[next].title}</h2><p>${IDX[next].n} cards, then a ${IDX[next].q}-question quiz. About ${Math.round(IDX[next].n*1.5+IDX[next].q*0.5)} minutes.</p><button class="start" onclick="openL('${next}')">Start lesson</button>`}
   else t.innerHTML=`<div class="day">All caught up</div><h2>You've finished every lesson written so far</h2><p>New lessons arrive soon. Revise anything from the syllabus below.</p>`;
   const due=rdue().length,rv=document.getElementById('rev');
-  rv.hidden=!due;if(due)rv.innerHTML=`<div><div class="day">Review</div><b>${due} question${due==1?'':'s'} you missed</b><small>About ${Math.max(1,Math.round(due*.4))} min · they come back until they stick</small></div><span class="go">Start</span>`;
+  rv.hidden=!due;if(due)rv.innerHTML=`<span class="ltile">${LUM('review-1')}</span><div><div class="day">Review</div><b>${due} question${due==1?'':'s'} you missed</b><small>About ${Math.max(1,Math.round(due*.4))} min · they come back until they stick</small></div><span class="go">Start</span>`;
   const mx=document.getElementById('mix'),nd=Object.keys(S.done).filter(i=>!i.endsWith('-T')).length;
-  mx.hidden=nd<3;if(nd>=3)mx.innerHTML=`<div><div class="day">Mixed revision</div><b>20 questions from everything so far</b><small>${S.mixBest?'Best '+Math.round(S.mixBest*100)+'% · ':''}+20 bonus XP</small></div><span class="go">Start</span>`;
-  renderLevel();
+  mx.hidden=nd<3;if(nd>=3)mx.innerHTML=`<span class="ltile">${LUM('review-6')}</span><div><div class="day">Mixed revision</div><b>20 questions from everything so far</b><small>${S.mixBest?'Best '+Math.round(S.mixBest*100)+'% · ':''}+20 bonus XP</small></div><span class="go">Start</span>`;
+  renderLevel();renderLumen();
   let h='',num=0;
   MAP.forEach((p,pi)=>{h+=`<div class="sec"><h3>${p.t}</h3><p>${p.p}</p></div>`;
     p.units.forEach((u,ui)=>{const live=u[1].some((_,k)=>IDX[`${pi}-${ui}-${k}`]);
@@ -113,7 +123,7 @@ async function openL(id,card){
   let l;try{l=await getLesson(id)}catch(e){alert('This lesson could not load. Check your connection and try again.');return}
   cur=id;lastI=-1;if(!/^(REVIEW|MIX)$|-T$/.test(id))ls.set('lb:last',JSON.stringify({s:SUB.id,id,t:l.title,ts:Date.now(),card:-1}));
   const cp=photo(id,'big');
-  let h=`<div class="cd"><div class="ci marble cover">${cp||ldood(id,'dd big')||doodle(id,'dd big')||`<div class="em">${l.emoji}</div>`}<div class="tag">${unitOf(id)}</div><h2>${l.title}</h2><p class="hint">Swipe left to begin</p>${cp?ldood(id,'dd pb'):''}</div></div>`;
+  let h=`<div class="cd"><div class="ci marble cover">${id.endsWith('-T')?LUM('review-3','lumcov'):''}${id.endsWith('-T')?'':(cp||ldood(id,'dd big')||doodle(id,'dd big')||`<div class="em">${l.emoji}</div>`)}<div class="tag">${unitOf(id)}</div><h2>${l.title}</h2><p class="hint">Swipe left to begin</p>${cp?ldood(id,'dd pb'):''}</div></div>`;
   const have=(DOODLES.lessons||{})[SUB.id]||[],pool=have.filter(n=>n===id||n.startsWith(id+'_')),POS=['r','b','t','l','b','r','l','t'],off=[...id].reduce((x,ch)=>x+ch.charCodeAt(0),0);
   l.cards.forEach((c,k)=>{const ph=photo(id+'_'+k,'card');let pos=POS[(k+off)%POS.length];if(ph&&pos==='t')pos='r';
     const nm=have.includes(id+'_'+k)?id+'_'+k:(pool.length?pool[(k+1)%pool.length]:''),d=nm?ldood(nm,'dd p'+pos):'';
@@ -135,7 +145,7 @@ function goQ(i){deck.scrollTo({left:(1+(window.LCOUNT||0)+i)*deck.clientWidth,be
 function meter(sc,n,f){const C=(2*Math.PI*54).toFixed(1),tier=f>=.8?'gold':f>=.6?'silver':'amber';
   const dots=Array.from({length:n},(_,i)=>`<button class="dt ${ans[i]?'ok':'bad'}" onclick="goQ(${i})" aria-label="Question ${i+1}: ${ans[i]?'correct':'missed'}"></button>`).join('');
   const first=Array.from({length:n},(_,i)=>i).find(i=>!ans[i]);
-  return `<div class="meter ${tier}"><svg viewBox="0 0 140 140" aria-hidden="true"><circle class="trk" cx="70" cy="70" r="54"/><circle class="arc" id="mArc" cx="70" cy="70" r="54" stroke-dasharray="${C}" stroke-dashoffset="${C}" transform="rotate(-90 70 70)"/></svg><div class="mc"><b id="scN">0</b><small>of ${n}</small></div><span class="pc">${Math.round(f*100)}%</span></div>
+  return `<div class="endhead">${LUM(endPose(f),'qres')}<div class="meter ${tier}"><svg viewBox="0 0 140 140" aria-hidden="true"><circle class="trk" cx="70" cy="70" r="54"/><circle class="arc" id="mArc" cx="70" cy="70" r="54" stroke-dasharray="${C}" stroke-dashoffset="${C}" transform="rotate(-90 70 70)"/></svg><div class="mc"><b id="scN">0</b><small>of ${n}</small></div><span class="pc">${Math.round(f*100)}%</span></div></div>
   <div class="dots">${dots}</div>${first!==undefined?`<button class="linkbtn rv" onclick="goQ(${first})">See what I missed</button>`:''}`}
 function animMeter(f){const a=document.getElementById('mArc');if(!a)return;const C=parseFloat(a.getAttribute('stroke-dasharray'));a.style.strokeDashoffset=C*(1-f)}
 function finish(){const sc=Object.values(ans).filter(Boolean).length,n=L[cur].quiz.length,f=sc/n,lv0=lvlOf(stats().xp).n;let xp=0,title,msg;
@@ -147,7 +157,7 @@ function finish(){const sc=Object.values(ans).filter(Boolean).length,n=L[cur].qu
   S.xp=(S.xp||0)+xp;save();pushSync();
   document.getElementById('end').innerHTML=`${meter(sc,n,f)}<h2 style="margin-top:6px">${title}</h2><p>${msg}</p>${xpLine(xp,lv0)}<button class="start" onclick="back()">Back to the syllabus</button>`;
   setTimeout(()=>{countUp(document.getElementById('scN'),sc);animMeter(f)},300);
-  setTimeout(()=>{checkBadges();const v=lvlOf(stats().xp);if(v.n>lv0)toast(`<span class="bd g">★</span><span><small>Level up</small><b>Level ${v.n} · ${v.name}</b></span>`)},1400)}
+  setTimeout(()=>{checkBadges();const v=lvlOf(stats().xp);if(v.n>lv0)toast(`<span class="ltile sm">${LUM('rewards-6')}</span><span><small>Level up</small><b>Level ${v.n} · ${v.name}</b></span>`)},1400)}
 let curCard=0;const io=new IntersectionObserver(es=>es.forEach(e=>{if(e.isIntersecting)e.target.classList.add('in')}),{threshold:.35});
 let lastI=-1;
 function upd(){const n=deck.children.length,i=Math.round(deck.scrollLeft/deck.clientWidth),nc=window.LCOUNT||0,nq=(L[cur]&&L[cur].quiz.length)||0;curCard=i-1;
@@ -297,7 +307,7 @@ const ldood=(name,cls)=>SUB&&((DOODLES.lessons||{})[SUB.id]||[]).includes(name)?
 async function openReview(){const due=rdue().sort((a,b)=>a.due-b.due).slice(0,15),quiz=[];
   try{for(const r of due){const l=await getLesson(r.id);if(l.quiz[r.q])quiz.push({...l.quiz[r.q],_r:r,_t:l.title})}}catch(e){alert('Review could not load. Check your connection.');return}
   if(!quiz.length)return;L.REVIEW={title:'Review',emoji:'↻',cards:[],quiz};await openL('REVIEW');
-  const c=deck.querySelector('.cover');if(c)c.innerHTML=`<div class="em">↻</div><div class="tag">Review</div><h2>${quiz.length} question${quiz.length==1?'':'s'} you missed</h2><p class="hint">Swipe left to begin</p>`}
+  const c=deck.querySelector('.cover');if(c)c.innerHTML=`${LUM('review-1','lumcov')}<div class="tag">Review</div><h2>${quiz.length} question${quiz.length==1?'':'s'} you missed</h2><p class="hint">Swipe left to begin</p>`}
 /* Mixed revision: 20 questions drawn from lessons you have finished, leaning towards the ones you scored lower on. */
 async function openMix(){const done=Object.keys(S.done).filter(i=>IDX[i]&&!i.endsWith('-T'));if(done.length<3)return;
   const pick=done.map(i=>({i,k:(S.scores[i]??.7)+Math.random()*.5})).sort((a,b)=>a.k-b.k).slice(0,Math.min(12,done.length)).map(x=>x.i),pool=[];
@@ -305,7 +315,7 @@ async function openMix(){const done=Object.keys(S.done).filter(i=>IDX[i]&&!i.end
   catch(e){alert('The test could not load. Check your connection.');return}
   for(let i=pool.length-1;i>0;i--){const j=Math.floor(Math.random()*(i+1));[pool[i],pool[j]]=[pool[j],pool[i]]}
   const quiz=pool.slice(0,20);L.MIX={title:'Mixed revision',emoji:'⚄',cards:[],quiz};await openL('MIX');
-  const c=deck.querySelector('.cover');if(c)c.innerHTML=`<div class="em">⚄</div><div class="tag">Mixed revision</div><h2>${quiz.length} questions from across what you've learned</h2><p class="hint">Swipe left to begin</p>`}
+  const c=deck.querySelector('.cover');if(c)c.innerHTML=`${LUM('review-6','lumcov')}<div class="tag">Mixed revision</div><h2>${quiz.length} questions from across what you've learned</h2><p class="hint">Swipe left to begin</p>`}
 async function openTest(pi,ui){const u=MAP[pi].units[ui],pool=[];
   try{for(let k=0;k<u[1].length;k++){const l=await getLesson(`${pi}-${ui}-${k}`);l.quiz.forEach(q=>pool.push(q))}}catch(e){alert('The test could not load. Check your connection.');return}
   for(let i=pool.length-1;i>0;i--){const j=Math.floor(Math.random()*(i+1));[pool[i],pool[j]]=[pool[j],pool[i]]}
@@ -318,7 +328,7 @@ const hl=(t,ws)=>{let e=esc(t);ws.forEach(w=>{e=e.replace(new RegExp('('+w.repla
 let qTimer;
 async function runSearch(){
   const q=document.getElementById('q').value.trim().toLowerCase(),out=document.getElementById('results');
-  if(q.length<2){out.innerHTML='';return}
+  if(q.length<2){out.innerHTML=`<div class="lumsearch"><span class="ltile lg">${LUM('study-1')}</span><p>What are we looking for?</p></div>`;return}
   const ws=q.split(/\s+/),subs=document.getElementById('qAll').checked?SUBJ:[SUB],hits=[];
   for(const sub of subs){const idx=await searchIndex(sub);
     for(const [id,title,cards] of idx){const tl=title.toLowerCase();let best=-1,score=0;

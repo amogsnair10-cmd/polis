@@ -441,3 +441,21 @@ blockquote.pyq small{display:block;margin-top:6px;font-size:12px;color:var(--vei
 .dd.pr{float:right;margin-left:14px}.dd.pl{float:left;margin-right:14px}
 .dd.pb{display:block;flex:none;width:clamp(150px,54vw,220px);height:clamp(112px,40vw,165px);margin:auto auto 0;background:var(--goldd);pointer-events:none}
 .cover>.dd.pb{margin-top:auto}
+
+/* ---------- Inspector Lumen ---------- */
+.lum{display:block;max-width:100%;height:auto}
+.ltile{flex:none;display:grid;place-items:center;width:58px;height:68px;border-radius:16px;background:linear-gradient(160deg,#f7f3ea,#e8dfcb);box-shadow:inset 0 0 0 1px rgba(0,0,0,.06),0 6px 14px rgba(0,0,0,.28);overflow:hidden}
+.ltile img{width:100%;height:100%;object-fit:contain;padding:3px}
+.ltile.sm{width:40px;height:46px;border-radius:12px}.ltile.lg{width:104px;height:120px;border-radius:22px}
+.lumenline{display:flex;align-items:center;gap:13px;margin:14px var(--gut) 0;padding:10px 14px 10px 10px;border-radius:20px;border:1px solid var(--line);background:rgba(0,0,0,.22);backdrop-filter:blur(12px);-webkit-backdrop-filter:blur(12px);color:#fff;animation:up .7s var(--ease) both}
+.lumenline .lsay{min-width:0}.lumenline small{display:block;font:600 11px var(--font-body);letter-spacing:.1em;text-transform:uppercase;color:var(--gold)}
+.lumenline .lsay span{display:block;font:500 14.5px/1.38 var(--font-body);margin-top:2px}
+.revcard>div,.mixcard>div{flex:1;min-width:0}
+.endhead{display:flex;align-items:flex-end;justify-content:center;gap:4px;margin:0 auto 4px}
+.endhead .meter{width:150px;height:150px;margin:0}.endhead .meter .mc b{font-size:44px}
+.qres{height:150px;width:auto;max-width:130px;object-fit:contain;flex:none}
+.lumcov{display:block;height:clamp(150px,42vw,200px);width:auto;max-width:72%;margin:0 auto 10px;object-fit:contain}
+.lumsearch{display:flex;flex-direction:column;align-items:center;gap:12px;padding:34px 0 10px;color:var(--sub)}.lumsearch p{margin:0;font:500 15px var(--font-body)}
+.lumnote{display:flex;align-items:center;gap:12px}.lumnote p{margin:0;flex:1;opacity:.8;font-size:14px}
+.me-prof .av .lface{object-fit:cover}
+#welcome img.lum{width:auto;height:150px;border-radius:0;-webkit-mask:none;mask:none;margin:0 auto 6px}
