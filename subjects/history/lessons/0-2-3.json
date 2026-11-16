@@ -145,15 +145,15 @@
    "w": "With four wheels on the abacus."
   },
   {
-   "q": "A stupa’s railing is called",
+   "q": "Which Mauryan site has an Ashokan lion capital with four lions?",
    "o": [
-    "Harmika",
-    "Chhatra",
-    "Medhi",
-    "Vedika"
+    "Sarnath",
+    "Sanchi",
+    "Rampurva",
+    "Lauriya Nandangarh"
    ],
-   "a": 3,
-   "w": "The railing encloses the stupa."
+   "a": 0,
+   "w": "The Sarnath lion capital has four lions and four wheels on the abacus."
   },
   {
    "q": "Mauryan art is divided into court and",

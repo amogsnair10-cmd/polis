@@ -123,15 +123,15 @@
    "w": "Smelting uses huge power."
   },
   {
-   "q": "Which region is called the factory of the world?",
+   "q": "Which industrial region is known for electronics?",
    "o": [
-    "China's coastal deltas",
-    "Donbas",
+    "Pearl River Delta",
     "Ruhr",
+    "Donbas",
     "Great Lakes"
    ],
    "a": 0,
-   "w": "The Pearl River and Yangtze deltas."
+   "w": "The Pearl River Delta is a major electronics region."
   },
   {
    "q": "The CHIPS Act (2022) is a",

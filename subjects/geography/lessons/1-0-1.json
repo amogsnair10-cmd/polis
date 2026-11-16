@@ -123,15 +123,15 @@
    "w": "It is India's southernmost point."
   },
   {
-   "q": "Dendritic drainage looks like",
+   "q": "Which peninsular river is the longest?",
    "o": [
-    "A tree",
-    "A wheel",
-    "A grid",
-    "A trellis"
+    "Krishna",
+    "Kaveri",
+    "Godavari",
+    "Narmada"
    ],
-   "a": 0,
-   "w": "Common on uniform rock in the plains."
+   "a": 2,
+   "w": "Godavari is the longest peninsular river, about 1,465 km."
   },
   {
    "q": "The Ganga is formed at Devprayag by",

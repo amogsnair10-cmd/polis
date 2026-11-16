@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" android:id="@+id/w_root" android:layout_width="match_parent" android:layout_height="match_parent" android:orientation="horizontal" android:gravity="center_vertical" android:background="@drawable/widget_bg" android:paddingStart="10dp" android:paddingEnd="10dp">
+<TextView android:id="@+id/w_pill" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="🔥 12" android:textSize="15sp" android:textColor="#F2C46D" android:textStyle="bold" android:includeFontPadding="false" android:background="@drawable/widget_btn" android:paddingTop="6dp" android:paddingBottom="6dp" android:paddingStart="12dp" android:paddingEnd="12dp"/>
+<LinearLayout android:layout_width="0dp" android:layout_height="wrap_content" android:layout_weight="1" android:layout_marginStart="12dp" android:layout_marginEnd="8dp" android:orientation="vertical">
+<TextView android:id="@+id/w_cap" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="" android:textSize="9sp" android:textColor="#8FA0BD" android:includeFontPadding="false" android:maxLines="1" android:ellipsize="end" android:letterSpacing="0.1"/>
+<TextView android:id="@+id/w_next" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="" android:textSize="13.5sp" android:textColor="#FFFFFF" android:textStyle="bold" android:includeFontPadding="false" android:maxLines="1" android:ellipsize="end"/>
+</LinearLayout>
+<TextView android:id="@+id/w_btn" android:layout_width="32dp" android:layout_height="32dp" android:text="→" android:textSize="17sp" android:textColor="#14213D" android:textStyle="bold" android:includeFontPadding="false" android:gravity="center" android:background="@drawable/w_gold_circle"/>
+</LinearLayout>

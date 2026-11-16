@@ -156,15 +156,15 @@
    "w": "A 13th-century treatise."
   },
   {
-   "q": "IPTA stands for",
+   "q": "In which year was the Indian People's Theatre Association (IPTA) formed?",
    "o": [
-    "International Performing Theatre Association",
-    "Indian Performing Theatre Academy",
-    "Indian People’s Theatre Association",
-    "Indian Poets and Theatre Alliance"
+    "1943",
+    "1947",
+    "1936",
+    "1951"
    ],
-   "a": 2,
-   "w": "It was formed in 1943."
+   "a": 0,
+   "w": "IPTA was formed in 1943."
   }
  ],
  "sources": [

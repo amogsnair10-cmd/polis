@@ -90,15 +90,15 @@
    "w": "In 1889, Assam."
   },
   {
-   "q": "Neyveli is known for",
+   "q": "India is short of which of these?",
    "o": [
-    "Peat",
-    "Anthracite",
-    "Lignite",
-    "Coking coal"
+    "Iron ore",
+    "Coking coal",
+    "Mica",
+    "Bauxite"
    ],
-   "a": 2,
-   "w": "It is in Tamil Nadu."
+   "a": 1,
+   "w": "India has large reserves of iron ore, mica and bauxite but is short of coking coal and copper."
   },
   {
    "q": "Bailadila mines are in",

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android" android:id="@+id/w_root" android:layout_width="match_parent" android:layout_height="match_parent" android:background="@drawable/poster_bg" android:clipToOutline="true" android:outlineProvider="background">
+<ImageView android:id="@+id/w_hero" android:layout_width="match_parent" android:layout_height="match_parent" android:scaleType="centerCrop" android:src="@drawable/hero_psir"/>
+<FrameLayout android:layout_width="match_parent" android:layout_height="match_parent" android:background="@drawable/poster_fade">
+
+</FrameLayout>
+<LinearLayout android:layout_width="match_parent" android:layout_height="match_parent" android:padding="12dp" android:orientation="horizontal" android:gravity="center_vertical" android:paddingTop="6dp" android:paddingBottom="6dp">
+<TextView android:id="@+id/w_pill" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="🔥 12" android:textSize="14sp" android:textColor="#FFFFFF" android:textStyle="bold" android:includeFontPadding="false" android:background="@drawable/w_pill_dark" android:paddingTop="5dp" android:paddingBottom="5dp" android:paddingStart="11dp" android:paddingEnd="11dp"/>
+<TextView android:id="@+id/w_next" android:layout_width="0dp" android:layout_height="wrap_content" android:text="" android:textSize="14sp" android:textColor="#FFFFFF" android:textStyle="bold" android:fontFamily="serif" android:includeFontPadding="false" android:layout_weight="1" android:maxLines="1" android:ellipsize="end" android:layout_marginStart="10dp" android:layout_marginEnd="10dp"/>
+<TextView android:id="@+id/w_btn" android:layout_width="32dp" android:layout_height="32dp" android:text="→" android:textSize="16sp" android:textColor="#0B0A1C" android:textStyle="bold" android:includeFontPadding="false" android:gravity="center" android:background="@drawable/w_white_circle"/>
+</LinearLayout>
+</FrameLayout>

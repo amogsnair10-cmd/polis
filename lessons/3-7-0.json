@@ -156,15 +156,15 @@
    "w": "29 February 2020."
   },
   {
-   "q": "Which airline hijack ended at Kandahar in December 1999?",
+   "q": "In which year did the Taliban return to power in Afghanistan?",
    "o": [
-    "AI-101",
-    "AI-182",
-    "IC-421",
-    "IC-814"
+    "2001",
+    "2011",
+    "2021",
+    "2025"
    ],
-   "a": 3,
-   "w": "Indian Airlines IC-814; the release of Masood Azhar followed."
+   "a": 2,
+   "w": "The Taliban returned on 15 August 2021."
   }
  ],
  "sources": [

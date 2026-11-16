@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android" android:id="@+id/w_root" android:layout_width="match_parent" android:layout_height="match_parent" android:background="@drawable/poster_bg" android:clipToOutline="true" android:outlineProvider="background">
+<ImageView android:id="@+id/w_hero" android:layout_width="match_parent" android:layout_height="match_parent" android:scaleType="centerCrop" android:src="@drawable/hero_psir"/>
+<FrameLayout android:layout_width="match_parent" android:layout_height="match_parent" android:background="@drawable/poster_fade">
+
+</FrameLayout>
+<LinearLayout android:layout_width="match_parent" android:layout_height="match_parent" android:padding="12dp" android:orientation="vertical">
+<TextView android:id="@+id/w_pill" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="🔥 12" android:textSize="13sp" android:textColor="#FFFFFF" android:textStyle="bold" android:includeFontPadding="false" android:background="@drawable/w_pill_dark" android:paddingTop="4dp" android:paddingBottom="4dp" android:paddingStart="11dp" android:paddingEnd="11dp"/>
+<FrameLayout android:layout_width="match_parent" android:layout_height="0dp" android:layout_weight="1">
+
+</FrameLayout>
+<TextView android:id="@+id/w_cap" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="" android:textSize="9.5sp" android:textColor="#D9C8FF" android:includeFontPadding="false" android:letterSpacing="0.12" android:maxLines="1" android:ellipsize="end"/>
+<TextView android:id="@+id/w_next" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="" android:textSize="17sp" android:textColor="#FFFFFF" android:textStyle="bold" android:fontFamily="serif" android:includeFontPadding="false" android:maxLines="2" android:ellipsize="end" android:paddingEnd="44dp" android:layout_marginTop="3dp"/>
+</LinearLayout>
+<TextView android:id="@+id/w_btn" android:layout_width="36dp" android:layout_height="36dp" android:text="→" android:textSize="17sp" android:textColor="#0B0A1C" android:textStyle="bold" android:includeFontPadding="false" android:gravity="center" android:background="@drawable/w_white_circle" android:layout_gravity="end|bottom" android:layout_margin="12dp"/>
+</FrameLayout>

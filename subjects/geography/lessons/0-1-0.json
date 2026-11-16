@@ -156,15 +156,15 @@
    "w": "About 78%."
   },
   {
-   "q": "Coldest layer of the atmosphere is the",
+   "q": "In which layer does weather happen?",
    "o": [
     "Stratosphere",
     "Mesosphere",
-    "Thermosphere",
+    "Ionosphere",
     "Troposphere"
    ],
-   "a": 1,
-   "w": "It reaches about -90 C near its top."
+   "a": 3,
+   "w": "Weather happens only in the troposphere."
   }
  ],
  "sources": [

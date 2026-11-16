@@ -112,15 +112,15 @@
    "w": "Midwest."
   },
   {
-   "q": "The Pampas are known for?",
+   "q": "The Argentine Pampas are a belt for which crop?",
    "o": [
-    "Wheat and cattle",
     "Rice",
+    "Wheat",
     "Coffee",
     "Jute"
    ],
-   "a": 0,
-   "w": "Argentina."
+   "a": 1,
+   "w": "The Argentine Pampas are a wheat belt."
   },
   {
    "q": "The IRRI is in the?",

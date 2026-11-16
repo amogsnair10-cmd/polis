@@ -108,13 +108,13 @@
   {
    "q": "Redi's gauze-covered jars showed that:",
    "o": [
-    "Maggots come from flies' eggs",
-    "Heat kills maggots",
     "Meat cannot rot",
+    "Heat kills maggots",
+    "Covered meat grew no maggots",
     "Air is harmful"
    ],
-   "a": 0,
-   "w": "No flies, no maggots."
+   "a": 2,
+   "w": "Redi covered the meat with gauze and found no maggots on it, which ended the idea that maggots arose from rotting meat."
   },
   {
    "q": "Which is an example of catabolism?",

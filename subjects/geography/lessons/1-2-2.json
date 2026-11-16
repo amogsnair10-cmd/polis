@@ -156,15 +156,15 @@
    "w": "It targets 25% share of manufacturing in GDP."
   },
   {
-   "q": "Dholera is being developed as a",
+   "q": "Which Gujarat site is being developed for semiconductor fabs?",
    "o": [
-    "Textile city",
-    "Steel city",
-    "Port city",
-    "Semiconductor and smart city hub"
+    "Dholera",
+    "Hazira",
+    "Bhilai",
+    "Kollam"
    ],
-   "a": 3,
-   "w": "In Gujarat, near Ahmedabad."
+   "a": 0,
+   "w": "Semiconductor fabs are being set up in Dholera, Gujarat."
   }
  ],
  "sources": [

@@ -145,26 +145,26 @@
    "w": "It runs between the Vindhya and Satpura faults."
   },
   {
-   "q": "Pass connecting Sikkim to Tibet is",
+   "q": "Which of these is a Western Ghats gap?",
    "o": [
-    "Shipki La",
-    "Banihal",
+    "Nathu La",
+    "Thal",
     "Zoji La",
-    "Nathu La"
-   ],
-   "a": 3,
-   "w": "Nathu La is in Sikkim."
-  },
-  {
-   "q": "Marshy belt south of the Bhabar is",
-   "o": [
-    "Duar",
-    "Terai",
-    "Khadar",
-    "Bhangar"
+    "Rohtang"
    ],
    "a": 1,
-   "w": "Springs re-emerge there."
+   "w": "Thal is a Western Ghats gap, linking Mumbai and Nashik."
+  },
+  {
+   "q": "Which Himalayan range has loose gravel and sandstone?",
+   "o": [
+    "Himadri",
+    "Himachal",
+    "Shiwaliks",
+    "Peninsular"
+   ],
+   "a": 2,
+   "w": "The Shiwaliks have loose gravel and sandstone."
   }
  ],
  "sources": [

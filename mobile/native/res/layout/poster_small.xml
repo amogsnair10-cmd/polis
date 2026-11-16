@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android" android:id="@+id/w_root" android:layout_width="match_parent" android:layout_height="match_parent" android:background="@drawable/poster_bg" android:clipToOutline="true" android:outlineProvider="background">
+<ImageView android:id="@+id/w_hero" android:layout_width="match_parent" android:layout_height="match_parent" android:scaleType="centerCrop" android:src="@drawable/hero_psir"/>
+<FrameLayout android:layout_width="match_parent" android:layout_height="match_parent" android:background="@drawable/poster_fade">
+
+</FrameLayout>
+<LinearLayout android:layout_width="match_parent" android:layout_height="match_parent" android:padding="14dp" android:gravity="bottom" android:orientation="vertical">
+<FrameLayout android:layout_width="match_parent" android:layout_height="0dp" android:layout_weight="1">
+
+</FrameLayout>
+<TextView android:id="@+id/w_streak" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="12" android:textSize="54sp" android:textColor="#FFFFFF" android:textStyle="bold" android:fontFamily="serif" android:includeFontPadding="false"/>
+<TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="DAY STREAK" android:textSize="10sp" android:textColor="#FFFFFF" android:includeFontPadding="false" android:letterSpacing="0.12" android:layout_marginTop="2dp"/>
+</LinearLayout>
+</FrameLayout>

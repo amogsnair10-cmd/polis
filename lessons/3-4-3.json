@@ -123,15 +123,15 @@
    "w": "Modi visited Ukraine in August 2024."
   },
   {
-   "q": "Which joint venture produces the BrahMos missile?",
+   "q": "In which year was the BrahMos joint venture formed?",
    "o": [
-    "BEL and Almaz",
-    "HAL and Rosoboron",
-    "L&T and Tupolev",
-    "DRDO and NPO Mashinostroyeniya"
+    "1998",
+    "1991",
+    "2008",
+    "1974"
    ],
-   "a": 3,
-   "w": "BrahMos Aerospace is a joint venture of DRDO and Russia's NPO Mashinostroyeniya (1998)."
+   "a": 0,
+   "w": "The BrahMos joint venture was formed in 1998."
   },
   {
    "q": "The nuclear power plant built with Russian help in Tamil Nadu is:",

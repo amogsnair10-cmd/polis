@@ -123,15 +123,15 @@
    "w": "Linked to Dutch disease and conflict."
   },
   {
-   "q": "Which is a flow resource?",
+   "q": "Which of these is a biotic resource?",
    "o": [
-    "Solar energy",
-    "Natural gas",
     "Coal",
-    "Iron ore"
+    "Iron ore",
+    "Forests",
+    "Water"
    ],
-   "a": 0,
-   "w": "It does not run out."
+   "a": 2,
+   "w": "Biotic resources include forests and fish; abiotic ones include minerals and water."
   },
   {
    "q": "India imports about what share of crude oil?",

@@ -90,26 +90,26 @@
    "w": "Kibithu is the easternmost village."
   },
   {
-   "q": "Guhar Moti is in",
+   "q": "Which state is NOT crossed by the Standard Meridian of 82 degrees 30 minutes E?",
    "o": [
     "Odisha",
-    "Rajasthan",
+    "Chhattisgarh",
     "Gujarat",
-    "Maharashtra"
+    "Andhra Pradesh"
    ],
    "a": 2,
-   "w": "Western-most point of India."
+   "w": "The Standard Meridian crosses Uttar Pradesh, Madhya Pradesh, Chhattisgarh, Odisha and Andhra Pradesh, not Gujarat."
   },
   {
-   "q": "The Siliguri Corridor is",
+   "q": "Which name is the Siliguri Corridor also known by?",
    "o": [
-    "A canal in Punjab",
-    "A narrow link connecting the Northeast to the rest of India",
-    "A pass in Ladakh",
-    "A delta in Odisha"
+    "Chicken's Neck",
+    "Golden Quadrilateral",
+    "Malacca Strait",
+    "Doklam"
    ],
-   "a": 1,
-   "w": "Also called the Chicken's Neck."
+   "a": 0,
+   "w": "The Siliguri Corridor is also called the Chicken's Neck."
   },
   {
    "q": "Which Indian state does NOT border Bangladesh?",
@@ -134,26 +134,26 @@
    "w": "It rejected the nine-dash line."
   },
   {
-   "q": "Hormuz connects the Persian Gulf to the",
+   "q": "Which sea is linked to the Ukraine war?",
    "o": [
     "Black Sea",
-    "Gulf of Oman and Arabian Sea",
-    "Red Sea",
-    "Mediterranean"
-   ],
-   "a": 1,
-   "w": "A key oil route."
-  },
-  {
-   "q": "The Bosphorus links the",
-   "o": [
-    "Black Sea and Sea of Marmara",
-    "Baltic and North",
-    "Red and Mediterranean",
-    "Caspian and Black"
+    "Baltic Sea",
+    "Caspian Sea",
+    "North Sea"
    ],
    "a": 0,
-   "w": "Controlled by Turkey."
+   "w": "The Ukraine war is linked to the Black Sea, Crimea and Donbas."
+  },
+  {
+   "q": "Which of these is a place in the news in Sri Lanka?",
+   "o": [
+    "Hambantota",
+    "Chabahar",
+    "Gwadar",
+    "Kyaukphyu"
+   ],
+   "a": 0,
+   "w": "Hambantota is in Sri Lanka and is listed among places in the news."
   },
   {
    "q": "India's total land border is about",

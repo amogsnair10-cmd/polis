@@ -101,15 +101,15 @@
    "w": "Antarctica is largest overall."
   },
   {
-   "q": "Angel Falls is in",
+   "q": "Which lake is the deepest and holds about 20% of the world's liquid fresh water?",
    "o": [
-    "Canada",
-    "Brazil",
-    "Zambia",
-    "Venezuela"
+    "Lake Superior",
+    "Lake Baikal",
+    "Lake Victoria",
+    "Lake Titicaca"
    ],
-   "a": 3,
-   "w": "Highest uninterrupted waterfall."
+   "a": 1,
+   "w": "Lake Baikal is the deepest lake and holds about 20% of the world's liquid fresh water."
   },
   {
    "q": "Suez Canal opened in",
@@ -134,15 +134,15 @@
    "w": "It is a key sea lane to East Asia."
   },
   {
-   "q": "Longest river in Europe is the",
+   "q": "Which river drains into the Caspian Sea?",
    "o": [
     "Rhine",
-    "Dnieper",
     "Volga",
-    "Danube"
+    "Danube",
+    "Dnieper"
    ],
-   "a": 2,
-   "w": "It flows into the Caspian."
+   "a": 1,
+   "w": "The Volga drains into the Caspian Sea."
   },
   {
    "q": "Tropic of Cancer is at",

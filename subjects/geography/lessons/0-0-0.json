@@ -150,26 +150,26 @@
    "w": "India passed over the Reunion plume about 66 million years ago."
   },
   {
-   "q": "A transform boundary",
+   "q": "Plates float on which soft layer?",
    "o": [
-    "Forms fold mountains",
-    "Destroys old crust",
-    "Creates new crust",
-    "Has plates sliding past each other"
+    "Sial",
+    "Sima",
+    "Asthenosphere",
+    "Outer core"
    ],
-   "a": 3,
-   "w": "Crust is neither made nor lost. The San Andreas fault is the classic case."
+   "a": 2,
+   "w": "Plates float on the soft asthenosphere."
   },
   {
-   "q": "Shadow zone of P waves lies between",
+   "q": "Which seismic waves are secondary and cannot pass through liquid?",
    "o": [
-    "0 and 105 degrees",
-    "105 and 145 degrees",
-    "145 and 180 degrees",
-    "90 and 120 degrees"
+    "Primary waves",
+    "Surface waves",
+    "Secondary waves",
+    "Shadow waves"
    ],
-   "a": 1,
-   "w": "P waves bend at the core and leave this zone without direct arrivals."
+   "a": 2,
+   "w": "S waves are secondary and transverse. They vanish at the core, which proved the outer core is liquid."
   }
  ],
  "sources": [

@@ -57,15 +57,15 @@
  ],
  "quiz": [
   {
-   "q": "The continental shelf is",
+   "q": "Most of the ocean floor is covered by what?",
    "o": [
-    "A mid-ocean ridge",
-    "The deepest part of the ocean",
-    "The shallow gently sloping margin of a continent",
-    "A volcanic seamount"
+    "Sand",
+    "Ooze",
+    "Coral",
+    "Ice"
    ],
-   "a": 2,
-   "w": "It is rich in fish and oil."
+   "a": 1,
+   "w": "Most ocean floor is abyssal plain, covered with deep mud called ooze."
   },
   {
    "q": "Challenger Deep lies in the",
@@ -112,15 +112,15 @@
    "w": "Dry subtropical air removes water but not salt."
   },
   {
-   "q": "Which is less saline?",
+   "q": "Which of these lowers ocean salinity?",
    "o": [
-    "Mediterranean",
-    "Red Sea",
-    "Bay of Bengal",
-    "Arabian Sea"
+    "Evaporation",
+    "Rain and river inflow",
+    "Deep upwelling",
+    "Dense water sinking"
    ],
-   "a": 2,
-   "w": "Big rivers add fresh water."
+   "a": 1,
+   "w": "Salinity falls with rain, river inflow and melting ice."
   },
   {
    "q": "The Chagos-Laccadive ridge supports",

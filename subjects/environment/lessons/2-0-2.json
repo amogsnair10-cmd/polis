@@ -112,15 +112,15 @@
    "w": "They introduced segregation at source."
   },
   {
-   "q": "Which colour-coded system applies to the Bio-Medical Waste Rules?",
+   "q": "Which set of Indian rules uses colour-coded bags?",
    "o": [
-    "Yellow, red, white, blue",
-    "Black only",
-    "Red only",
-    "Green, blue only"
+    "Plastic Waste Management Rules 2016",
+    "Bio-Medical Waste Rules 2016",
+    "E-Waste (Management) Rules 2022",
+    "Battery Waste Management Rules 2022"
    ],
-   "a": 0,
-   "w": "The rules mandate four colour categories."
+   "a": 1,
+   "w": "The Bio-Medical Waste Rules 2016 use colour-coded bags."
   },
   {
    "q": "Stockholm Convention targets:",

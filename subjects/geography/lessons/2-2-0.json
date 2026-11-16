@@ -57,15 +57,15 @@
  ],
  "quiz": [
   {
-   "q": "Ice-albedo feedback means",
+   "q": "Melting sea ice does not raise sea level directly. What does?",
    "o": [
-    "Ice cools oceans",
-    "Albedo is constant",
-    "Less ice causes more warming",
-    "More ice causes warming"
+    "Melting sea ice",
+    "Land ice",
+    "Tides",
+    "Salinity"
    ],
-   "a": 2,
-   "w": "Dark surfaces absorb more heat."
+   "a": 1,
+   "w": "Melting sea ice does not raise sea level directly; land ice does."
   },
   {
    "q": "Melting of which ice raises sea level most directly?",
@@ -134,15 +134,15 @@
    "w": "It has eight missions."
   },
   {
-   "q": "Sundarbans lie in the delta of",
+   "q": "Which place is losing land to the sea?",
    "o": [
-    "Ganga-Brahmaputra",
-    "Mahanadi",
-    "Godavari",
-    "Indus"
+    "Sundarbans",
+    "Chilika",
+    "Lakshadweep",
+    "Gulf of Mannar"
    ],
    "a": 0,
-   "w": "Mangroves and shrinking islands."
+   "w": "The Sundarbans are losing land, for example Ghoramara island."
   },
   {
    "q": "Net-zero target year for India is",
@@ -156,15 +156,15 @@
    "w": "Announced at COP26."
   },
   {
-   "q": "Thermal expansion of seawater contributes to",
+   "q": "Sea level has risen about how much since 1900?",
    "o": [
-    "Salinity fall only",
-    "Sea level rise",
-    "Tides",
-    "Ocean cooling"
+    "5 cm",
+    "20 cm",
+    "1 m",
+    "50 cm"
    ],
    "a": 1,
-   "w": "Warm water expands."
+   "w": "Sea level has risen about 20 cm since 1900."
   }
  ],
  "sources": [

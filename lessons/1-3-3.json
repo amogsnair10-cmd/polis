@@ -101,15 +101,15 @@
    "w": "Two months."
   },
   {
-   "q": "Maximum total duration of President's Rule is…",
+   "q": "Under which Article can the President impose President's Rule in a state?",
    "o": [
-    "One year",
-    "Two years",
-    "Three years",
-    "Five years"
+    "Article 356",
+    "Article 368",
+    "Article 124",
+    "Article 226"
    ],
-   "a": 2,
-   "w": "Three years, extended in six-month steps."
+   "a": 0,
+   "w": "President's Rule in a state is imposed under Article 356."
   },
   {
    "q": "Bommai held that secularism is…",

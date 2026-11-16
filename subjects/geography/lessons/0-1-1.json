@@ -112,26 +112,26 @@
    "w": "Chinook means snow-eater."
   },
   {
-   "q": "Doldrums are",
+   "q": "Where do the trade winds from both hemispheres meet and rise?",
    "o": [
-    "Cold polar belts",
-    "Calm zones near the equator",
-    "Dry belts at 30 degrees",
-    "Windy zones at 60 degrees"
+    "Polar front",
+    "Horse latitudes",
+    "Inter-Tropical Convergence Zone",
+    "Jet stream"
    ],
-   "a": 1,
-   "w": "Light winds in the equatorial low."
+   "a": 2,
+   "w": "At the ITCZ the trades from both hemispheres meet and rise, forming cloud and rain bands."
   },
   {
-   "q": "The Hadley cell lies between",
+   "q": "Trade winds blow towards which place?",
    "o": [
-    "0 and 90 degrees",
-    "60 and 90 degrees",
-    "30 and 60 degrees",
-    "0 and 30 degrees"
+    "The poles",
+    "The equator",
+    "The Tibetan plateau",
+    "Mid-latitudes"
    ],
-   "a": 3,
-   "w": "It includes the trade winds."
+   "a": 1,
+   "w": "Trade winds blow towards the equator and carry steady weather."
   },
   {
    "q": "Tropical easterly jet is associated with",

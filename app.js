@@ -242,7 +242,7 @@ async function nativeSync(off){const P=Capacitor.Plugins,st=studyState(),studied
   const accent=getComputedStyle(document.documentElement).getPropertyValue('--gold').trim()||'#F2C46D';
   const sstreak=days=>{const set=new Set(days||[]);let n=0,d=new Date();if(!set.has(ds(d)))d.setDate(d.getDate()-1);while(set.has(ds(d))){n++;d.setDate(d.getDate()-1)}return n};
   const subjects=allS().map(({s,p})=>({t:s.title,streak:sstreak(p.days),done:Object.keys(p.done||{}).length})).filter(x=>x.done||x.streak).sort((a,b)=>b.streak-a.streak||b.done-a.done).slice(0,4);
-  try{await P.Preferences.set({key:'widget',value:JSON.stringify({...st,studiedToday:studied,days:[...allDays()].sort().slice(-60),chapterTotal:chTotal,accent,subjects})})}catch(e){}
+  try{await P.Preferences.set({key:'widget',value:JSON.stringify({...st,sid:SUB.id,studiedToday:studied,days:[...allDays()].sort().slice(-60),chapterTotal:chTotal,accent,subjects})})}catch(e){}
   const LN=P.LocalNotifications;if(!LN)return;
   try{const pend=await LN.getPending();if(pend.notifications.length)await LN.cancel({notifications:pend.notifications.map(n=>({id:n.id}))})}catch(e){}
   if(off||ls.get('push')!=='1')return;

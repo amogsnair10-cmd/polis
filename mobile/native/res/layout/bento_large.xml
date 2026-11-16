@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" android:id="@+id/w_root" android:layout_width="match_parent" android:layout_height="match_parent" android:background="@drawable/widget_bg" android:padding="9dp" android:orientation="vertical">
+<LinearLayout android:layout_width="match_parent" android:layout_height="wrap_content" android:orientation="horizontal">
+<LinearLayout android:layout_width="0dp" android:layout_height="wrap_content" android:layout_weight="1" android:orientation="horizontal" android:gravity="center_vertical" android:background="@drawable/w_tile" android:padding="8dp">
+<TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="🔥" android:textSize="28sp" android:textColor="#FFFFFF" android:includeFontPadding="false"/>
+<LinearLayout android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginStart="8dp" android:orientation="vertical">
+<TextView android:id="@+id/w_streak" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="12" android:textSize="32sp" android:textColor="#F2C46D" android:textStyle="bold" android:fontFamily="serif" android:includeFontPadding="false"/>
+<TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="DAY STREAK" android:textSize="9sp" android:textColor="#8FA0BD" android:includeFontPadding="false" android:letterSpacing="0.1"/>
+</LinearLayout>
+</LinearLayout>
+<LinearLayout android:layout_width="0dp" android:layout_height="wrap_content" android:layout_weight="1" android:layout_marginStart="8dp" android:background="@drawable/w_tile" android:paddingStart="12dp" android:paddingTop="8dp" android:paddingBottom="8dp" android:orientation="vertical">
+<TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="THIS WEEK" android:textSize="9sp" android:textColor="#8FA0BD" android:includeFontPadding="false" android:letterSpacing="0.1"/>
+<LinearLayout android:layout_width="match_parent" android:layout_height="wrap_content" android:orientation="horizontal" android:layout_marginTop="4dp">
+<TextView android:id="@+id/w_d0" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="●" android:textSize="10sp" android:textColor="#33FFFFFF" android:includeFontPadding="false" android:layout_marginEnd="3dp"/>
+<TextView android:id="@+id/w_d1" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="●" android:textSize="10sp" android:textColor="#33FFFFFF" android:includeFontPadding="false" android:layout_marginEnd="3dp"/>
+<TextView android:id="@+id/w_d2" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="●" android:textSize="10sp" android:textColor="#33FFFFFF" android:includeFontPadding="false" android:layout_marginEnd="3dp"/>
+<TextView android:id="@+id/w_d3" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="●" android:textSize="10sp" android:textColor="#33FFFFFF" android:includeFontPadding="false" android:layout_marginEnd="3dp"/>
+<TextView android:id="@+id/w_d4" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="●" android:textSize="10sp" android:textColor="#33FFFFFF" android:includeFontPadding="false" android:layout_marginEnd="3dp"/>
+<TextView android:id="@+id/w_d5" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="●" android:textSize="10sp" android:textColor="#33FFFFFF" android:includeFontPadding="false" android:layout_marginEnd="3dp"/>
+<TextView android:id="@+id/w_d6" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="●" android:textSize="10sp" android:textColor="#33FFFFFF" android:includeFontPadding="false" android:layout_marginEnd="3dp"/>
+</LinearLayout>
+<TextView android:id="@+id/w_weektxt" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="" android:textSize="10.5sp" android:textColor="#8FA0BD" android:includeFontPadding="false" android:layout_marginTop="3dp"/>
+</LinearLayout>
+</LinearLayout>
+<LinearLayout android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="8dp" android:background="@drawable/w_tile" android:paddingStart="12dp" android:paddingEnd="12dp" android:paddingTop="8dp" android:paddingBottom="8dp" android:orientation="vertical">
+<TextView android:id="@+id/w_cap" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="" android:textSize="9sp" android:textColor="#8FA0BD" android:includeFontPadding="false" android:maxLines="1" android:ellipsize="end" android:letterSpacing="0.1"/>
+<TextView android:id="@+id/w_next" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="" android:textSize="14.5sp" android:textColor="#FFFFFF" android:textStyle="bold" android:includeFontPadding="false" android:maxLines="2" android:ellipsize="end" android:layout_marginTop="2dp"/>
+<ProgressBar android:id="@+id/w_prog" android:style="?android:attr/progressBarStyleHorizontal" android:layout_width="match_parent" android:layout_height="5dp" android:max="10" android:progress="0" android:progressDrawable="@drawable/widget_progress" android:layout_marginTop="7dp"/>
+</LinearLayout>
+<LinearLayout android:layout_width="match_parent" android:layout_height="0dp" android:layout_weight="1" android:layout_marginTop="8dp" android:background="@drawable/w_tile" android:paddingStart="12dp" android:paddingEnd="12dp" android:paddingTop="8dp" android:orientation="vertical">
+<TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="STREAKS BY SUBJECT" android:textSize="9sp" android:textColor="#8FA0BD" android:includeFontPadding="false" android:letterSpacing="0.1"/>
+<LinearLayout android:layout_width="match_parent" android:layout_height="wrap_content" android:orientation="horizontal" android:layout_marginTop="4dp" android:id="@+id/w_r1">
+<TextView android:id="@+id/w_n1" android:layout_width="0dp" android:layout_height="wrap_content" android:text="" android:textSize="13sp" android:textColor="#FFFFFF" android:includeFontPadding="false" android:layout_weight="1" android:maxLines="1" android:ellipsize="end"/>
+<TextView android:id="@+id/w_s1" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="" android:textSize="13sp" android:textColor="#F2C46D" android:textStyle="bold" android:includeFontPadding="false"/>
+</LinearLayout>
+<LinearLayout android:layout_width="match_parent" android:layout_height="wrap_content" android:orientation="horizontal" android:layout_marginTop="4dp" android:id="@+id/w_r2">
+<TextView android:id="@+id/w_n2" android:layout_width="0dp" android:layout_height="wrap_content" android:text="" android:textSize="13sp" android:textColor="#FFFFFF" android:includeFontPadding="false" android:layout_weight="1" android:maxLines="1" android:ellipsize="end"/>
+<TextView android:id="@+id/w_s2" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="" android:textSize="13sp" android:textColor="#F2C46D" android:textStyle="bold" android:includeFontPadding="false"/>
+</LinearLayout>
+<LinearLayout android:layout_width="match_parent" android:layout_height="wrap_content" android:orientation="horizontal" android:layout_marginTop="4dp" android:id="@+id/w_r3">
+<TextView android:id="@+id/w_n3" android:layout_width="0dp" android:layout_height="wrap_content" android:text="" android:textSize="13sp" android:textColor="#FFFFFF" android:includeFontPadding="false" android:layout_weight="1" android:maxLines="1" android:ellipsize="end"/>
+<TextView android:id="@+id/w_s3" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="" android:textSize="13sp" android:textColor="#F2C46D" android:textStyle="bold" android:includeFontPadding="false"/>
+</LinearLayout>
+</LinearLayout>
+<TextView android:id="@+id/w_btn" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="Continue →" android:textSize="14sp" android:textColor="#14213D" android:textStyle="bold" android:includeFontPadding="false" android:gravity="center" android:background="@drawable/w_gold_cta" android:paddingTop="9dp" android:paddingBottom="9dp" android:layout_marginTop="8dp"/>
+</LinearLayout>

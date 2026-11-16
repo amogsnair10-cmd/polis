@@ -57,15 +57,15 @@
  ],
  "quiz": [
   {
-   "q": "The stupa’s top square railing-like structure is the",
+   "q": "Which part of a stupa is the dome?",
    "o": [
-    "Torana",
-    "Vedika",
     "Anda",
-    "Harmika"
+    "Harmika",
+    "Chhatra",
+    "Torana"
    ],
-   "a": 3,
-   "w": "The harmika sits above the dome."
+   "a": 0,
+   "w": "The anda is the dome of a stupa."
   },
   {
    "q": "The Quwwat-ul-Islam mosque is in",

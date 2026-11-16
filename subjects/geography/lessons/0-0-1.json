@@ -57,15 +57,15 @@
  ],
  "quiz": [
   {
-   "q": "Epicentre is",
+   "q": "Which quake waves do the most damage at the surface?",
    "o": [
-    "The surface point above the focus",
-    "The point where rock first breaks",
-    "The deepest part of a fault",
-    "The edge of the shadow zone"
+    "P waves",
+    "S waves",
+    "L waves",
+    "Q waves"
    ],
-   "a": 0,
-   "w": "The focus is the point of rupture underground; the epicentre is directly above it."
+   "a": 2,
+   "w": "L waves travel on the surface and do the most damage."
   },
   {
    "q": "The Mercalli scale measures",
@@ -79,15 +79,15 @@
    "w": "It rates effects on people and buildings from I to XII."
   },
   {
-   "q": "Which belt has most earthquakes?",
+   "q": "Deep earthquakes occur only in which zone?",
    "o": [
-    "East African rift",
-    "Mid-Atlantic ridge",
-    "Alpine-Himalayan belt",
-    "Circum-Pacific belt"
+    "Mid-ocean ridges",
+    "Intraplate faults",
+    "Subduction zones",
+    "Transform faults"
    ],
-   "a": 3,
-   "w": "The Pacific Ring of Fire has about 80% of quakes."
+   "a": 2,
+   "w": "Shallow quakes happen at all boundaries. Deep ones only occur in subduction zones."
   },
   {
    "q": "Koyna 1967 is an example of",

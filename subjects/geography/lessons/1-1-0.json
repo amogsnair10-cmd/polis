@@ -79,15 +79,15 @@
    "w": "IMD's normal date."
   },
   {
-   "q": "Monsoon covers the entire country normally by",
+   "q": "The word monsoon comes from which language?",
    "o": [
-    "1 August",
-    "8 July",
-    "15 June",
-    "1 July"
+    "Persian",
+    "Hindi",
+    "Arabic",
+    "Sanskrit"
    ],
-   "a": 1,
-   "w": "The revised normal date."
+   "a": 2,
+   "w": "The word comes from the Arabic 'mausim', meaning season."
   },
   {
    "q": "The retreating monsoon withdraws first from",
@@ -101,15 +101,15 @@
    "w": "Withdrawal begins around 17 September."
   },
   {
-   "q": "Which place receives the highest rainfall?",
+   "q": "Which place gets under 10 cm of rain a year?",
    "o": [
     "Mumbai",
     "Mawsynram",
     "Jaisalmer",
     "Chennai"
    ],
-   "a": 1,
-   "w": "Located in Meghalaya, it is among the wettest places on Earth."
+   "a": 2,
+   "w": "Jaisalmer gets under 10 cm of rain."
   },
   {
    "q": "A positive IOD generally",

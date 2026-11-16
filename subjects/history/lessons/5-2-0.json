@@ -129,15 +129,15 @@
    "w": "It was an Afro-Asian meet."
   },
   {
-   "q": "Glasnost means",
+   "q": "Which Soviet leader introduced glasnost and perestroika?",
    "o": [
-    "Containment",
-    "Autonomy",
-    "Restructuring",
-    "Openness"
+    "Stalin",
+    "Khrushchev",
+    "Gorbachev",
+    "Brezhnev"
    ],
-   "a": 3,
-   "w": "Gorbachev’s policy."
+   "a": 2,
+   "w": "Gorbachev introduced glasnost and perestroika from 1985."
   },
   {
    "q": "The Soviet Union formally dissolved in",

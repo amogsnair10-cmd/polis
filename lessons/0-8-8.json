@@ -90,15 +90,15 @@
    "w": "1957."
   },
   {
-   "q": "JP escaped from which jail in 1942?",
+   "q": "In which year did the Janata Party win the general election that ended Congress rule at the Centre?",
    "o": [
-    "Hazaribagh",
-    "Yerwada",
-    "Alipore",
-    "Naini"
+    "1971",
+    "1977",
+    "1980",
+    "1984"
    ],
-   "a": 0,
-   "w": "Hazaribagh Central Jail."
+   "a": 1,
+   "w": "The Janata Party won the 1977 general election after the Emergency."
   },
   {
    "q": "Partyless democracy appears in…",

@@ -90,15 +90,15 @@
    "w": "Rain below normal."
   },
   {
-   "q": "The Kosi is known as?",
+   "q": "Which Bihar river is listed among the flood-hit rivers?",
    "o": [
-    "Sorrow of Bengal",
-    "Lifeline of Odisha",
-    "Sorrow of Bihar",
-    "Dakshin Ganga"
+    "Son",
+    "Kosi",
+    "Chambal",
+    "Betwa"
    ],
-   "a": 2,
-   "w": "It shifts course."
+   "a": 1,
+   "w": "Bihar's flood-prone rivers include the Kosi, Gandak and Bagmati."
   },
   {
    "q": "Joshimath subsidence occurred in?",

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="w_desc_bento">Light Bulb · Bento: dark tiles</string>
+    <string name="w_desc_ledger">Light Bulb · Ledger: clean light sections</string>
+    <string name="w_desc_poster">Light Bulb · Poster: subject art</string>
+    <string name="w_desc_ring">Light Bulb · Ring: progress ring</string>
+</resources>

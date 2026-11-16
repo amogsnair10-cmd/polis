@@ -79,15 +79,15 @@
    "w": "Spin 1."
   },
   {
-   "q": "Helium-4 is a boson because it has:",
+   "q": "Bosons differ from fermions in that:",
    "o": [
-    "No nucleus",
-    "An even number of fermions",
-    "An odd number of fermions",
-    "No electrons"
+    "Bosons can share a quantum state; fermions cannot",
+    "Fermions can share a quantum state; bosons cannot",
+    "Fermions are matter and bosons are not",
+    "Bosons cannot exist in a gas"
    ],
-   "a": 1,
-   "w": "Six fermions makes a whole-number spin."
+   "a": 0,
+   "w": "Fermions cannot share a state; bosons can, so boson atoms pile into one state."
   },
   {
    "q": "A Bose-Einstein condensate was first made in:",

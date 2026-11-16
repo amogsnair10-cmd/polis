@@ -156,15 +156,15 @@
    "w": "Protector of Emigrants."
   },
   {
-   "q": "The ICCR was founded by…",
+   "q": "In which year was the Indian Council for Cultural Relations (ICCR) set up?",
    "o": [
-    "Ambedkar",
-    "Maulana Azad",
-    "Nehru",
-    "Indira Gandhi"
+    "1950",
+    "1947",
+    "1965",
+    "1991"
    ],
-   "a": 1,
-   "w": "In 1950."
+   "a": 0,
+   "w": "ICCR was set up in 1950."
   }
  ],
  "sources": [
