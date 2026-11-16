@@ -1,1 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 120" fill="none" stroke="#000" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><g transform="translate(46 66) scale(4.2 4.2)" stroke-width="0.52"><circle cy="-6.5" r="2.6"/><path d="M-2.4-4C-1.5 0-1.5 3-4 7H4C1.5 3 1.5 0 2.4-4M-6 10H6"/></g><g transform="translate(114 66) scale(-4.2 4.2)" stroke-width="0.52"><circle cy="-6.5" r="2.6"/><path d="M-2.4-4C-1.5 0-1.5 3-4 7H4C1.5 3 1.5 0 2.4-4M-6 10H6"/></g><g transform="translate(80 60) scale(2 2)" stroke-width="1.1"><path d="M0-10V5M-4 5H4M0 5V10M-1-8L1-8"/></g><path d="M10 108H150"/><path d="M62 22L72 28M98 22L88 28M80 14V22"/><path d="M22 17V23M19 20H25"/><path d="M140 17V23M137 20H143"/></svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 120" fill="none" stroke="#000" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round">
+  <path d="M22 110 H138"/>
+  <path d="M80 14 V30 M74 20 H86"/>
+  <path d="M70 42 H90 M70 42 Q76 52 74 60 H86 Q84 52 90 42"/>
+  <path d="M74 60 Q62 70 62 88 H98 Q98 70 86 60"/>
+  <path d="M62 88 H98 M58 96 H102 M54 104 H106"/>
+  <circle cx="34" cy="80" r="6"/>
+  <path d="M26 104 H42 Q38 96 36 90 H32 Q30 96 26 104 Z"/>
+  <circle cx="126" cy="84" r="6"/>
+  <path d="M118 104 H134 Q130 96 128 90 H124 Q122 96 118 104 Z"/>
+</svg>
