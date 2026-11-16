@@ -121,3 +121,7 @@ Plain English. No all-caps labels. No emojis.
 - Do not make a false statement obviously absurd. Real UPSC false statements are plausible: change ONE detail (a name, a date, a place, a cause) or add one absolute word (only, all, always, solely) to an otherwise true sentence. If a student can eliminate a statement without knowing the topic, rewrite it.
 - Hedge words used on purpose: "may", "can", "generally", "primarily" usually make a statement TRUE; "only", "all", "always", "never", "solely", "exclusively" usually make it FALSE. Use both ways, not always the same way.
 - At least 4 of the 10 questions should need two-step elimination (the answer options are built so knowing one statement removes two options).
+
+
+## PINNED (owner decision, 16 Nov): 5 of 10, not 10 of 10
+Out of each lesson's 10 questions, **5 are UPSC-style** (statement / how-many / pairs / Statement-I-II / NOT) and **5 are plain direct questions** (one clear stem, four short options). The mix table above (3 statements, 2 how-many, 2 pairs, 1 assertion-reason, 1 NOT, 1 sequence, 1 direct) is replaced by: 2 'Consider the following statements', 1 'how many correct' or pairs, 1 Statement-I/II, 1 NOT/odd-one-out, plus 5 plain direct questions. Every question must be answerable from that lesson's cards only.

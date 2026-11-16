@@ -1,5 +1,11 @@
 # Light Bulb: status and next steps (as of 2026-11-12)
 
+## PINNED DECISIONS (owner, 16 Nov)
+- **Quiz mix: of every 10 questions, exactly 5 are UPSC-style** (Consider-the-following statements, how-many-correct, match-the-pairs, Statement-I/II, NOT/odd-one-out; with deliberate hedge words may/can/only/all) **and 5 are plain direct questions.** Brief: `docs/UPSC_QUIZ_BRIEF.md`. Every question must be answerable from that lesson's own cards (audit running: docs/QUIZ_AUDIT_*.md).
+- **Generation must cost no Claude tokens where possible:** use a script in GitHub Actions calling the free Gemini key (secret `GEMINI_API_KEY`) with a verify pass, or deterministic fact-bank generators (`docs/ADAPTIVE_QUESTIONS_PLAN.md`). Use Haiku only for small checks. No older Claude models are offered here; Haiku is the cheapest tier.
+- **Streak:** one main streak across ALL subjects, counted on the phone's local date; per-subject streaks shown separately (done 16 Nov).
+- **Widgets:** keep ALL four designs (Bento, Ledger, Poster, Ring) as separate choosable widgets; mock-ups in docs/widget-mock.html.
+
 ## Where things live
 - **Site:** https://lightbulb.amogbuilds.net — Cloudflare Pages project `lightbulb-study`, published by `.github/workflows/site.yml` on every push to `main` (needs secret `CLOUDFLARE_API_TOKEN`). The repo is now PRIVATE, so GitHub Pages no longer works. The new domain must be in Firebase → Authentication → Authorized domains.
 - **Android app:** `.github/workflows/android.yml` builds `LightBulb.apk` when `mobile/**`, `icons/**` or the workflow change. Download: https://lightbulb.amogbuilds.net/LightBulb.apk (copied from the `app-latest` release by site.yml; the release link itself needs a GitHub login now the repo is private). The app loads the live site, so web changes need no reinstall.
