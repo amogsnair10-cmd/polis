@@ -10,6 +10,7 @@ HOW TO USE
 3. If Lumen drifts (head colour, hat, bulb, wings), re-attach the master reference and add:
    'Match the reference exactly. Do not redesign anything.'
 4. If a sheet has the wrong number of poses or any text, reply: 'Redo with exactly 6 poses in a 3x2 grid and no text.'
+   If the poses all look alike, reply: 'Redo. Every pose needs a different camera angle and body position, exactly as listed. Keep the character identical.'
 5. Save each sheet as PNG and send it to Claude in the chat. Claude cuts out each pose, makes small
    transparent files and puts them in the app (quiz results, streaks, badges, empty screens, loading screen,
    widgets).
@@ -28,13 +29,13 @@ SHEET 1: EXPRESSION RANGE (SUNGLASSES ON)
 ======================================================================
 Create an image of Inspector Lumen (use the attached master reference exactly and the character lock). A character sheet of the full range of Lumen's expressions using only eyebrows, mouth and glow.
 The six poses, left to right, top row then bottom row:
-  1) Flat and neutral: both brows level and heavy, flat mouth, steady glow (the default look).
-  2) Curious: one eyebrow raised high above the sunglasses, flat mouth, head tilted a little.
-  3) Impressed: both eyebrows raised high, mouth slightly open in a tiny 'o', glow brightening.
-  4) Pleased: tiny closed-mouth smile on one side, one eyebrow slightly raised, steady warm glow.
-  5) Rare big smile: a wider genuine smile, brows relaxed and lifted, hat tipped back a little, brightest glow.
-  6) Suspicious: head turned a little, brows lowered and pinched, flat mouth, sideways glance through the lenses, glow narrowed.
-Keep the exact same character in every pose (same head, sunglasses, hat, scarf, coat, bulb, wings and line style).
+  1) Flat and neutral: both brows level and heavy, flat mouth, steady glow (the default look). CAMERA AND BODY: straight-on front, head and shoulders.
+  2) Curious: one eyebrow raised high above the sunglasses, flat mouth, head tilted a little. CAMERA AND BODY: three-quarter view turned to the left, head and shoulders.
+  3) Impressed: both eyebrows raised high, mouth slightly open in a tiny 'o', glow brightening. CAMERA AND BODY: pure side profile facing right, head and shoulders.
+  4) Pleased: tiny closed-mouth smile on one side, one eyebrow slightly raised, steady warm glow. CAMERA AND BODY: three-quarter view from a low camera angle looking up at him, head and shoulders.
+  5) Rare big smile: a wider genuine smile, brows relaxed and lifted, hat tipped back a little, brightest glow. CAMERA AND BODY: front view from a high camera angle looking down at him, head and shoulders.
+  6) Suspicious: head turned a little, brows lowered and pinched, flat mouth, sideways glance through the lenses, glow narrowed. CAMERA AND BODY: over-the-shoulder glance: back three-quarter view, head turned to look at the viewer.
+VARIETY IS REQUIRED: every one of the six poses must use a DIFFERENT camera angle and a DIFFERENT body position (standing, walking, sitting, leaning, crouching, mid-gesture) as listed. Do not repeat the same front-facing stance, and take the hands out of the pockets whenever the pose needs them. The face must stay readable. Keep the exact same character in every pose (same head, sunglasses, hat, scarf, coat, bulb, wings and line style).
 FORMAT RULES FOR THIS IMAGE: one single image: a character sheet with EXACTLY 6 poses of the same character in a 3 x 2 grid (3 columns, 2 rows). Every pose is the same size, full body and fully visible, evenly spaced, on a plain flat warm-white background (#F7F5EF). Identical character design in every pose. No text, no letters, no numbers, no labels, no borders, no watermark, no extra characters, no 3D, no glossy plastic, no photorealism, no heavy shadows, and not a platypus or any Disney character. Leave generous empty space around each pose so each can be cut out.
 
 ======================================================================
@@ -42,13 +43,13 @@ SHEET 2: SUNGLASSES PLAY
 ======================================================================
 Create an image of Inspector Lumen (use the attached master reference exactly and the character lock). A character sheet of the sunglasses as Lumen's main prop and signature gestures.
 The six poses, left to right, top row then bottom row:
-  1) Pushing the sunglasses up the nose with one finger, dry and unbothered.
-  2) Sliding the sunglasses down to look over them: tired kind eyes visible, one eyebrow raised (the 'this is rare' look).
-  3) Taking the sunglasses off and polishing a lens on the scarf, eyes closed.
-  4) Sunglasses off, pinching the bridge of the nose, tired but patient.
-  5) Pointing with the folded sunglasses like a teacher with a pointer, calm authority.
-  6) Slowly putting the sunglasses on, one hand lifting them into place, a very small smile.
-Keep the exact same character in every pose (same head, sunglasses, hat, scarf, coat, bulb, wings and line style).
+  1) Pushing the sunglasses up the nose with one finger, dry and unbothered. CAMERA AND BODY: three-quarter view from a low camera angle looking up at him.
+  2) Sliding the sunglasses down to look over them: tired kind eyes visible, one eyebrow raised (the 'this is rare' look). CAMERA AND BODY: three-quarter view turned to the right, mid-step walking.
+  3) Taking the sunglasses off and polishing a lens on the scarf, eyes closed. CAMERA AND BODY: view from a slightly high camera angle looking down at him.
+  4) Sunglasses off, pinching the bridge of the nose, tired but patient. CAMERA AND BODY: back three-quarter view, head turned to look back at the viewer at the end.
+  5) Pointing with the folded sunglasses like a teacher with a pointer, calm authority. CAMERA AND BODY: front view, close and slightly cropped at the knees.
+  6) Slowly putting the sunglasses on, one hand lifting them into place, a very small smile. CAMERA AND BODY: straight-on front view, standing.
+VARIETY IS REQUIRED: every one of the six poses must use a DIFFERENT camera angle and a DIFFERENT body position (standing, walking, sitting, leaning, crouching, mid-gesture) as listed. Do not repeat the same front-facing stance, and take the hands out of the pockets whenever the pose needs them. The face must stay readable. Keep the exact same character in every pose (same head, sunglasses, hat, scarf, coat, bulb, wings and line style).
 FORMAT RULES FOR THIS IMAGE: one single image: a character sheet with EXACTLY 6 poses of the same character in a 3 x 2 grid (3 columns, 2 rows). Every pose is the same size, full body and fully visible, evenly spaced, on a plain flat warm-white background (#F7F5EF). Identical character design in every pose. No text, no letters, no numbers, no labels, no borders, no watermark, no extra characters, no 3D, no glossy plastic, no photorealism, no heavy shadows, and not a platypus or any Disney character. Leave generous empty space around each pose so each can be cut out.
 
 ======================================================================
@@ -56,13 +57,13 @@ SHEET 3: QUIZ RESULTS
 ======================================================================
 Create an image of Inspector Lumen (use the attached master reference exactly and the character lock). A character sheet of how Lumen reacts when a quiz ends, from perfect to try again.
 The six poses, left to right, top row then bottom row:
-  1) Perfect score: sunglasses slid down, eyes visible, one eyebrow raised, tiny smile, bulb glowing very bright with a ring of small gold sparks.
-  2) Great score: a slow approving nod, hat tipped forward, tiny smile, bright glow.
-  3) Good score: arms folded, one eyebrow raised, flat mouth, steady glow (mildly impressed).
-  4) Needs another look: one hand resting on a closed book, brows gently lifted and kind, flat mouth, steady glow.
-  5) Tough one: sitting beside a stack of books and gently patting it as if to say 'we go again', no blame, softer glow.
-  6) Try again tomorrow: asleep sitting up with the fedora tipped over the face and arms folded, very dim peaceful glow.
-Keep the exact same character in every pose (same head, sunglasses, hat, scarf, coat, bulb, wings and line style).
+  1) Perfect score: sunglasses slid down, eyes visible, one eyebrow raised, tiny smile, bulb glowing very bright with a ring of small gold sparks. CAMERA AND BODY: back three-quarter view, head turned to look back at the viewer at the end.
+  2) Great score: a slow approving nod, hat tipped forward, tiny smile, bright glow. CAMERA AND BODY: front view, close and slightly cropped at the knees.
+  3) Good score: arms folded, one eyebrow raised, flat mouth, steady glow (mildly impressed). CAMERA AND BODY: straight-on front view, standing.
+  4) Needs another look: one hand resting on a closed book, brows gently lifted and kind, flat mouth, steady glow. CAMERA AND BODY: three-quarter view turned to the left.
+  5) Tough one: sitting beside a stack of books and gently patting it as if to say 'we go again', no blame, softer glow. CAMERA AND BODY: pure side profile facing right.
+  6) Try again tomorrow: asleep sitting up with the fedora tipped over the face and arms folded, very dim peaceful glow. CAMERA AND BODY: three-quarter view from a low camera angle looking up at him.
+VARIETY IS REQUIRED: every one of the six poses must use a DIFFERENT camera angle and a DIFFERENT body position (standing, walking, sitting, leaning, crouching, mid-gesture) as listed. Do not repeat the same front-facing stance, and take the hands out of the pockets whenever the pose needs them. The face must stay readable. Keep the exact same character in every pose (same head, sunglasses, hat, scarf, coat, bulb, wings and line style).
 FORMAT RULES FOR THIS IMAGE: one single image: a character sheet with EXACTLY 6 poses of the same character in a 3 x 2 grid (3 columns, 2 rows). Every pose is the same size, full body and fully visible, evenly spaced, on a plain flat warm-white background (#F7F5EF). Identical character design in every pose. No text, no letters, no numbers, no labels, no borders, no watermark, no extra characters, no 3D, no glossy plastic, no photorealism, no heavy shadows, and not a platypus or any Disney character. Leave generous empty space around each pose so each can be cut out.
 
 ======================================================================
@@ -70,13 +71,13 @@ SHEET 4: STREAK STATES
 ======================================================================
 Create an image of Inspector Lumen (use the attached master reference exactly and the character lock). A character sheet of the days-in-a-row streak at different moments.
 The six poses, left to right, top row then bottom row:
-  1) Streak kept today: gives a small hat tip, tiny smile, bulb glowing bright.
-  2) Streak at risk: checking a small pocket watch, brows tilted up with worry, glow dim and flickering.
-  3) Streak lost: sitting quietly on a low step with the hat lowered and coat collar up, very dim glow, sad but not dramatic and with no blame.
-  4) Starting again: standing up, adjusting the hat, glow warming up, a flat determined mouth.
-  5) Seven-day milestone: a small trail of golden light curling behind him, one eyebrow raised, tiny smile.
-  6) Thirty-day milestone: holding a small gold badge between two fingers, sunglasses slightly lowered, a rare smile, brightest glow with a soft halo.
-Keep the exact same character in every pose (same head, sunglasses, hat, scarf, coat, bulb, wings and line style).
+  1) Streak kept today: gives a small hat tip, tiny smile, bulb glowing bright. CAMERA AND BODY: three-quarter view turned to the left.
+  2) Streak at risk: checking a small pocket watch, brows tilted up with worry, glow dim and flickering. CAMERA AND BODY: pure side profile facing right.
+  3) Streak lost: sitting quietly on a low step with the hat lowered and coat collar up, very dim glow, sad but not dramatic and with no blame. CAMERA AND BODY: three-quarter view from a low camera angle looking up at him.
+  4) Starting again: standing up, adjusting the hat, glow warming up, a flat determined mouth. CAMERA AND BODY: three-quarter view turned to the right, mid-step walking.
+  5) Seven-day milestone: a small trail of golden light curling behind him, one eyebrow raised, tiny smile. CAMERA AND BODY: view from a slightly high camera angle looking down at him.
+  6) Thirty-day milestone: holding a small gold badge between two fingers, sunglasses slightly lowered, a rare smile, brightest glow with a soft halo. CAMERA AND BODY: back three-quarter view, head turned to look back at the viewer at the end.
+VARIETY IS REQUIRED: every one of the six poses must use a DIFFERENT camera angle and a DIFFERENT body position (standing, walking, sitting, leaning, crouching, mid-gesture) as listed. Do not repeat the same front-facing stance, and take the hands out of the pockets whenever the pose needs them. The face must stay readable. Keep the exact same character in every pose (same head, sunglasses, hat, scarf, coat, bulb, wings and line style).
 FORMAT RULES FOR THIS IMAGE: one single image: a character sheet with EXACTLY 6 poses of the same character in a 3 x 2 grid (3 columns, 2 rows). Every pose is the same size, full body and fully visible, evenly spaced, on a plain flat warm-white background (#F7F5EF). Identical character design in every pose. No text, no letters, no numbers, no labels, no borders, no watermark, no extra characters, no 3D, no glossy plastic, no photorealism, no heavy shadows, and not a platypus or any Disney character. Leave generous empty space around each pose so each can be cut out.
 
 ======================================================================
@@ -84,13 +85,13 @@ SHEET 5: DETECTIVE STUDY WORK
 ======================================================================
 Create an image of Inspector Lumen (use the attached master reference exactly and the character lock). A character sheet of Lumen doing the detective work of studying.
 The six poses, left to right, top row then bottom row:
-  1) Reading a thick case-file book under a small magnifying glass, one eyebrow up.
-  2) Writing notes in a small notebook with a short pencil, serious.
-  3) Listening: small headphones under the fedora, arms folded, a few tiny musical-note shapes (no letters).
-  4) Highlighting: holding a thick highlighter and underlining a line on a page.
-  5) Studying a pinboard of small notes joined by thin string, hand on chin.
-  6) Turning a big page, lifting the corner with two fingers, eyebrows slightly raised.
-Keep the exact same character in every pose (same head, sunglasses, hat, scarf, coat, bulb, wings and line style).
+  1) Reading a thick case-file book under a small magnifying glass, one eyebrow up. CAMERA AND BODY: three-quarter view turned to the right, mid-step walking.
+  2) Writing notes in a small notebook with a short pencil, serious. CAMERA AND BODY: view from a slightly high camera angle looking down at him.
+  3) Listening: small headphones under the fedora, arms folded, a few tiny musical-note shapes (no letters). CAMERA AND BODY: back three-quarter view, head turned to look back at the viewer at the end.
+  4) Highlighting: holding a thick highlighter and underlining a line on a page. CAMERA AND BODY: front view, close and slightly cropped at the knees.
+  5) Studying a pinboard of small notes joined by thin string, hand on chin. CAMERA AND BODY: straight-on front view, standing.
+  6) Turning a big page, lifting the corner with two fingers, eyebrows slightly raised. CAMERA AND BODY: three-quarter view turned to the left.
+VARIETY IS REQUIRED: every one of the six poses must use a DIFFERENT camera angle and a DIFFERENT body position (standing, walking, sitting, leaning, crouching, mid-gesture) as listed. Do not repeat the same front-facing stance, and take the hands out of the pockets whenever the pose needs them. The face must stay readable. Keep the exact same character in every pose (same head, sunglasses, hat, scarf, coat, bulb, wings and line style).
 FORMAT RULES FOR THIS IMAGE: one single image: a character sheet with EXACTLY 6 poses of the same character in a 3 x 2 grid (3 columns, 2 rows). Every pose is the same size, full body and fully visible, evenly spaced, on a plain flat warm-white background (#F7F5EF). Identical character design in every pose. No text, no letters, no numbers, no labels, no borders, no watermark, no extra characters, no 3D, no glossy plastic, no photorealism, no heavy shadows, and not a platypus or any Disney character. Leave generous empty space around each pose so each can be cut out.
 
 ======================================================================
@@ -98,13 +99,13 @@ SHEET 6: REVIEW AND TESTS
 ======================================================================
 Create an image of Inspector Lumen (use the attached master reference exactly and the character lock). A character sheet of spaced review and revision moments.
 The six poses, left to right, top row then bottom row:
-  1) Review time: holding up a small round pocket watch, one eyebrow raised.
-  2) Flashcards: carrying a neat stack of case-file cards, balanced against the chest.
-  3) Taking a quiz: seated, holding a pencil over a sheet of paper, brows low in concentration.
-  4) Correct answer: pressing a small round stamp with a tick mark onto a page, tiny smile.
-  5) Sorting: placing folders into two small boxes, neat and focused.
-  6) Mixed revision: lining up three small book silhouettes like a police line-up, inspecting them with a magnifying glass.
-Keep the exact same character in every pose (same head, sunglasses, hat, scarf, coat, bulb, wings and line style).
+  1) Review time: holding up a small round pocket watch, one eyebrow raised. CAMERA AND BODY: front view, close and slightly cropped at the knees.
+  2) Flashcards: carrying a neat stack of case-file cards, balanced against the chest. CAMERA AND BODY: straight-on front view, standing.
+  3) Taking a quiz: seated, holding a pencil over a sheet of paper, brows low in concentration. CAMERA AND BODY: three-quarter view turned to the left.
+  4) Correct answer: pressing a small round stamp with a tick mark onto a page, tiny smile. CAMERA AND BODY: pure side profile facing right.
+  5) Sorting: placing folders into two small boxes, neat and focused. CAMERA AND BODY: three-quarter view from a low camera angle looking up at him.
+  6) Mixed revision: lining up three small book silhouettes like a police line-up, inspecting them with a magnifying glass. CAMERA AND BODY: three-quarter view turned to the right, mid-step walking.
+VARIETY IS REQUIRED: every one of the six poses must use a DIFFERENT camera angle and a DIFFERENT body position (standing, walking, sitting, leaning, crouching, mid-gesture) as listed. Do not repeat the same front-facing stance, and take the hands out of the pockets whenever the pose needs them. The face must stay readable. Keep the exact same character in every pose (same head, sunglasses, hat, scarf, coat, bulb, wings and line style).
 FORMAT RULES FOR THIS IMAGE: one single image: a character sheet with EXACTLY 6 poses of the same character in a 3 x 2 grid (3 columns, 2 rows). Every pose is the same size, full body and fully visible, evenly spaced, on a plain flat warm-white background (#F7F5EF). Identical character design in every pose. No text, no letters, no numbers, no labels, no borders, no watermark, no extra characters, no 3D, no glossy plastic, no photorealism, no heavy shadows, and not a platypus or any Disney character. Leave generous empty space around each pose so each can be cut out.
 
 ======================================================================
@@ -112,13 +113,13 @@ SHEET 7: BADGES AND LEVELS
 ======================================================================
 Create an image of Inspector Lumen (use the attached master reference exactly and the character lock). A character sheet of rewards and progress, shown with understatement.
 The six poses, left to right, top row then bottom row:
-  1) Pinning a golden laurel leaf onto his own coat lapel, tiny smile.
-  2) Wearing a round medal on a ribbon over the coat, looking down at it with one eyebrow raised.
-  3) Holding a small gold trophy cup at his side like a briefcase, flat mouth, bulb bright.
-  4) Climbing a short staircase of stacked books, hands still in pockets, determined.
-  5) Planting a small flag on a tiny hill, hat tipped back, tiny smile.
-  6) Rising with wings open, coat flaring, a soft vertical beam of gold light beneath, brightest glow, level-up moment.
-Keep the exact same character in every pose (same head, sunglasses, hat, scarf, coat, bulb, wings and line style).
+  1) Pinning a golden laurel leaf onto his own coat lapel, tiny smile. CAMERA AND BODY: pure side profile facing right.
+  2) Wearing a round medal on a ribbon over the coat, looking down at it with one eyebrow raised. CAMERA AND BODY: three-quarter view from a low camera angle looking up at him.
+  3) Holding a small gold trophy cup at his side like a briefcase, flat mouth, bulb bright. CAMERA AND BODY: three-quarter view turned to the right, mid-step walking.
+  4) Climbing a short staircase of stacked books, hands still in pockets, determined. CAMERA AND BODY: view from a slightly high camera angle looking down at him.
+  5) Planting a small flag on a tiny hill, hat tipped back, tiny smile. CAMERA AND BODY: back three-quarter view, head turned to look back at the viewer at the end.
+  6) Rising with wings open, coat flaring, a soft vertical beam of gold light beneath, brightest glow, level-up moment. CAMERA AND BODY: front view, close and slightly cropped at the knees.
+VARIETY IS REQUIRED: every one of the six poses must use a DIFFERENT camera angle and a DIFFERENT body position (standing, walking, sitting, leaning, crouching, mid-gesture) as listed. Do not repeat the same front-facing stance, and take the hands out of the pockets whenever the pose needs them. The face must stay readable. Keep the exact same character in every pose (same head, sunglasses, hat, scarf, coat, bulb, wings and line style).
 FORMAT RULES FOR THIS IMAGE: one single image: a character sheet with EXACTLY 6 poses of the same character in a 3 x 2 grid (3 columns, 2 rows). Every pose is the same size, full body and fully visible, evenly spaced, on a plain flat warm-white background (#F7F5EF). Identical character design in every pose. No text, no letters, no numbers, no labels, no borders, no watermark, no extra characters, no 3D, no glossy plastic, no photorealism, no heavy shadows, and not a platypus or any Disney character. Leave generous empty space around each pose so each can be cut out.
 
 ======================================================================
@@ -126,13 +127,13 @@ SHEET 8: DAILY MOMENTS
 ======================================================================
 Create an image of Inspector Lumen (use the attached master reference exactly and the character lock). A character sheet of small everyday scenes.
 The six poses, left to right, top row then bottom row:
-  1) Morning: holding a small steaming cup beside a rising sun, sunglasses on, eyebrows low and sleepy.
-  2) Chai break: leaning back, small cup in both hands, steam curling, a rare relaxed smile.
-  3) Late-night study: reading by his own bulb glow in the dark, a small crescent moon behind.
-  4) Commute: walking in the rain under a small umbrella held like a cane, coat collar up.
-  5) Stretch break: coat open and wings spread, arms up in a short, dry stretch.
-  6) Goodnight: asleep sitting up in a small armchair with the fedora over his face, very low glow.
-Keep the exact same character in every pose (same head, sunglasses, hat, scarf, coat, bulb, wings and line style).
+  1) Morning: holding a small steaming cup beside a rising sun, sunglasses on, eyebrows low and sleepy. CAMERA AND BODY: view from a slightly high camera angle looking down at him.
+  2) Chai break: leaning back, small cup in both hands, steam curling, a rare relaxed smile. CAMERA AND BODY: back three-quarter view, head turned to look back at the viewer at the end.
+  3) Late-night study: reading by his own bulb glow in the dark, a small crescent moon behind. CAMERA AND BODY: front view, close and slightly cropped at the knees.
+  4) Commute: walking in the rain under a small umbrella held like a cane, coat collar up. CAMERA AND BODY: straight-on front view, standing.
+  5) Stretch break: coat open and wings spread, arms up in a short, dry stretch. CAMERA AND BODY: three-quarter view turned to the left.
+  6) Goodnight: asleep sitting up in a small armchair with the fedora over his face, very low glow. CAMERA AND BODY: pure side profile facing right.
+VARIETY IS REQUIRED: every one of the six poses must use a DIFFERENT camera angle and a DIFFERENT body position (standing, walking, sitting, leaning, crouching, mid-gesture) as listed. Do not repeat the same front-facing stance, and take the hands out of the pockets whenever the pose needs them. The face must stay readable. Keep the exact same character in every pose (same head, sunglasses, hat, scarf, coat, bulb, wings and line style).
 FORMAT RULES FOR THIS IMAGE: one single image: a character sheet with EXACTLY 6 poses of the same character in a 3 x 2 grid (3 columns, 2 rows). Every pose is the same size, full body and fully visible, evenly spaced, on a plain flat warm-white background (#F7F5EF). Identical character design in every pose. No text, no letters, no numbers, no labels, no borders, no watermark, no extra characters, no 3D, no glossy plastic, no photorealism, no heavy shadows, and not a platypus or any Disney character. Leave generous empty space around each pose so each can be cut out.
 
 ======================================================================
@@ -140,13 +141,13 @@ SHEET 9: SUBJECT PROPS A
 ======================================================================
 Create an image of Inspector Lumen (use the attached master reference exactly and the character lock). A character sheet of one prop per subject (first six subjects).
 The six poses, left to right, top row then bottom row:
-  1) Polis (political science): holding a rolled scroll next to a small marble bust, a single raised eyebrow.
-  2) Chronicle (history): holding a small oil lantern and an old scroll, wise look.
-  3) Terra (geography): holding a small globe and a compass, adventurous eyebrow.
-  4) Verdant (environment): gently holding a small potted sprout, the bulb glow warm green-gold.
-  5) Odyssey (world history): holding a brass astrolabe up to the light, looking over lowered sunglasses.
-  6) Manifesto (political thought): holding a rolled pamphlet and a quill, earnest brow.
-Keep the exact same character in every pose (same head, sunglasses, hat, scarf, coat, bulb, wings and line style).
+  1) Polis (political science): holding a rolled scroll next to a small marble bust, a single raised eyebrow. CAMERA AND BODY: straight-on front view, standing.
+  2) Chronicle (history): holding a small oil lantern and an old scroll, wise look. CAMERA AND BODY: three-quarter view turned to the left.
+  3) Terra (geography): holding a small globe and a compass, adventurous eyebrow. CAMERA AND BODY: pure side profile facing right.
+  4) Verdant (environment): gently holding a small potted sprout, the bulb glow warm green-gold. CAMERA AND BODY: three-quarter view from a low camera angle looking up at him.
+  5) Odyssey (world history): holding a brass astrolabe up to the light, looking over lowered sunglasses. CAMERA AND BODY: three-quarter view turned to the right, mid-step walking.
+  6) Manifesto (political thought): holding a rolled pamphlet and a quill, earnest brow. CAMERA AND BODY: view from a slightly high camera angle looking down at him.
+VARIETY IS REQUIRED: every one of the six poses must use a DIFFERENT camera angle and a DIFFERENT body position (standing, walking, sitting, leaning, crouching, mid-gesture) as listed. Do not repeat the same front-facing stance, and take the hands out of the pockets whenever the pose needs them. The face must stay readable. Keep the exact same character in every pose (same head, sunglasses, hat, scarf, coat, bulb, wings and line style).
 FORMAT RULES FOR THIS IMAGE: one single image: a character sheet with EXACTLY 6 poses of the same character in a 3 x 2 grid (3 columns, 2 rows). Every pose is the same size, full body and fully visible, evenly spaced, on a plain flat warm-white background (#F7F5EF). Identical character design in every pose. No text, no letters, no numbers, no labels, no borders, no watermark, no extra characters, no 3D, no glossy plastic, no photorealism, no heavy shadows, and not a platypus or any Disney character. Leave generous empty space around each pose so each can be cut out.
 
 ======================================================================
@@ -154,13 +155,13 @@ SHEET 10: SUBJECT PROPS B AND SIGNATURE
 ======================================================================
 Create an image of Inspector Lumen (use the attached master reference exactly and the character lock). A character sheet of the other five subjects, plus the main logo pose.
 The six poses, left to right, top row then bottom row:
-  1) Stellar (astronomy): looking through a small telescope on a tiny tripod, stars around.
-  2) Principia (physics): holding a small glowing atom drawn as a nucleus with orbits.
-  3) Alchemy (chemistry): holding a small round flask of glowing liquid, one eyebrow raised.
-  4) Vita (biology): bending to look into a small microscope, hat brim touching it.
-  5) Quanta (quantum): standing beside two simple glowing wave lines and a few dots (no text), curious brow.
-  6) Signature logo pose: front view, standing straight, hands in pockets, coat open to show the glowing bulb, wings spread symmetrically, a faint tiny smile, brightest glow with a soft halo.
-Keep the exact same character in every pose (same head, sunglasses, hat, scarf, coat, bulb, wings and line style).
+  1) Stellar (astronomy): looking through a small telescope on a tiny tripod, stars around. CAMERA AND BODY: three-quarter view from a low camera angle looking up at him.
+  2) Principia (physics): holding a small glowing atom drawn as a nucleus with orbits. CAMERA AND BODY: three-quarter view turned to the right, mid-step walking.
+  3) Alchemy (chemistry): holding a small round flask of glowing liquid, one eyebrow raised. CAMERA AND BODY: view from a slightly high camera angle looking down at him.
+  4) Vita (biology): bending to look into a small microscope, hat brim touching it. CAMERA AND BODY: back three-quarter view, head turned to look back at the viewer at the end.
+  5) Quanta (quantum): standing beside two simple glowing wave lines and a few dots (no text), curious brow. CAMERA AND BODY: front view, close and slightly cropped at the knees.
+  6) Signature logo pose: front view, standing straight, hands in pockets, coat open to show the glowing bulb, wings spread symmetrically, a faint tiny smile, brightest glow with a soft halo. CAMERA AND BODY: straight-on front view, standing.
+VARIETY IS REQUIRED: every one of the six poses must use a DIFFERENT camera angle and a DIFFERENT body position (standing, walking, sitting, leaning, crouching, mid-gesture) as listed. Do not repeat the same front-facing stance, and take the hands out of the pockets whenever the pose needs them. The face must stay readable. Keep the exact same character in every pose (same head, sunglasses, hat, scarf, coat, bulb, wings and line style).
 FORMAT RULES FOR THIS IMAGE: one single image: a character sheet with EXACTLY 6 poses of the same character in a 3 x 2 grid (3 columns, 2 rows). Every pose is the same size, full body and fully visible, evenly spaced, on a plain flat warm-white background (#F7F5EF). Identical character design in every pose. No text, no letters, no numbers, no labels, no borders, no watermark, no extra characters, no 3D, no glossy plastic, no photorealism, no heavy shadows, and not a platypus or any Disney character. Leave generous empty space around each pose so each can be cut out.
 
 ======================================================================
