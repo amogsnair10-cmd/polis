@@ -62,14 +62,24 @@ const BADGES=[
  ['sub3','Polymath','Finish lessons in 3 different subjects','✺','s',A=>A.subs>=3],
  ['sub6','Renaissance','Finish lessons in 6 different subjects','✺','g',A=>A.subs>=6],
  ['x500','Rising Star','Earn 500 XP','★','s',A=>A.xp>=500],
- ['x3000','Legend','Earn 3000 XP','★','g',A=>A.xp>=3000]];
+ ['x3000','Legend','Earn 3000 XP','★','g',A=>A.xp>=3000],
+ ['l250','Living Library','Finish 250 lessons','','l',A=>A.lessons>=250],
+ ['l500','The Archivist','Finish 500 lessons','','l',A=>A.lessons>=500],
+ ['s60','Iron Habit','Study 60 days in a row','','l',A=>A.best>=60],
+ ['s100','Hundred Days','Study 100 days in a row','','l',A=>A.best>=100],
+ ['p50','Perfectionist','Score full marks on 50 quizzes','','l',A=>A.perfect>=50],
+ ['r200','Never Forget','Master 200 questions through review','','l',A=>A.learned>=200],
+ ['t20','Examiner\'s Nightmare','Score 80% or more on 20 chapter tests','','l',A=>A.tests80>=20],
+ ['mx100','Perfect Mix','Score 100% on a mixed test','','l',A=>A.mixBest>=.999],
+ ['sub11','Omniscient','Finish lessons in all 11 subjects','','l',A=>A.subs>=11],
+ ['x10000','Mythic','Earn 10000 XP','','l',A=>A.xp>=10000]];
 function badgeState(){const A=stats();return{A,level:lvlOf(A.xp),all:BADGES.map(b=>({id:b[0],t:b[1],d:b[2],g:b[3],tier:b[4],got:b[5](A)}))}}
 window.badgeState=badgeState;
 function toast(h){let t=document.getElementById('toasts');if(!t){t=document.createElement('div');t.id='toasts';document.body.appendChild(t)}
   const e=document.createElement('div');e.className='toast';e.innerHTML=h;t.appendChild(e);setTimeout(()=>{e.classList.add('out');setTimeout(()=>e.remove(),600)},CALM?3500:4200)}
 /* quiet=true records what is already earned without celebrating (first run, after sign-in) */
 function checkBadges(quiet){const st=badgeState(),got=st.all.filter(b=>b.got).map(b=>b.id);let seen=null;try{seen=JSON.parse(ls.get('lb:badges')||'null')}catch(e){}
-  if(seen&&!quiet)st.all.filter(b=>b.got&&!seen.includes(b.id)).forEach((b,i)=>setTimeout(()=>toast(`<span class="ltile sm">${LUM('rewards-2')}</span><span><small>New badge</small><b>${b.t}</b></span>`),i*900));
+  if(seen&&!quiet)st.all.filter(b=>b.got&&!seen.includes(b.id)).forEach((b,i)=>setTimeout(()=>toast(`<span class="ltile sm">${b.tier==='l'?LUM('rewards-3'):LUM('rewards-2')}</span><span><small>${b.tier==='l'?'Legendary badge':'New badge'}</small><b>${b.t}</b></span>`),i*900));
   ls.set('lb:badges',JSON.stringify([...new Set([...(seen||[]),...got])]));renderLevel()}
 window.checkBadges=checkBadges;
 function renderLevel(){const el=document.getElementById('lvl');if(!el)return;const v=lvlOf(stats().xp);

@@ -474,3 +474,12 @@ blockquote.pyq small{display:block;margin-top:6px;font-size:12px;color:var(--vei
 .lumenline span{display:block;font:500 14.5px/1.4 var(--font-body);margin-top:2px;color:#fff}
 @media (prefers-reduced-motion:reduce){.lumenhero img{animation:none}}
 .foot:empty{display:none}
+
+/* Legendary badges: Lumen's face as a foil sticker */
+.bd.l{position:relative;width:54px;height:54px;overflow:hidden;background:conic-gradient(from 30deg,#fff1b8,#e0a93a,#fff7d6,#b9791c,#ffe08a,#e0a93a,#fff1b8);box-shadow:inset 0 0 0 2px rgba(255,255,255,.7),0 0 0 2px rgba(224,169,58,.55),0 6px 16px rgba(224,169,58,.35)}
+.bd.l img{width:84%;height:84%;object-fit:cover;border-radius:50%;background:#f1e9d6}
+.bd.l::after{content:"";position:absolute;inset:-40%;background:linear-gradient(115deg,transparent 42%,rgba(255,255,255,.75) 50%,transparent 58%);transform:translateX(-80%);animation:foil 4.5s ease-in-out infinite}
+@keyframes foil{55%,100%{transform:translateX(80%)}}
+.badge:has(.bd.l){border-color:rgba(224,169,58,.55);background:linear-gradient(160deg,rgba(224,169,58,.16),rgba(255,255,255,.05))}
+.badge.lock:has(.bd.l){border-color:var(--line);background:rgba(255,255,255,.06)}
+@media (prefers-reduced-motion:reduce){.bd.l::after{animation:none}}
