@@ -369,9 +369,9 @@ document.getElementById('sendDoubt').onclick=async()=>{
     const ansText=await ask({apiKey:ls.get(keyName(ls.get('askModel')||'gemini-flash-latest'))||'',model:ls.get('askModel')||'gemini-flash-latest',subject:SUB.full,lessonId:SUB.id+'/'+cur,lesson:L[cur],cardIndex:Math.max(0,Math.min(curCard,L[cur].cards.length-1)),question:q,onText:t=>{ai.textContent=t;chat.scrollTop=chat.scrollHeight}});window.onDoubt&&window.onDoubt({subject:SUB.id,subjectTitle:SUB.title,lessonId:cur,lessonTitle:L[cur].title,q,a:ansText})}
   catch(err){ai.textContent=(err&&err.status===401)?'That API key was rejected. Tap "Change key or model".':'Could not get an answer: '+(err&&err.message||err)}};
 
-if('serviceWorker' in navigator){const had=!!navigator.serviceWorker.controller;let reloaded=false;
-  navigator.serviceWorker.addEventListener('controllerchange',()=>{if(had&&!reloaded){reloaded=true;location.reload()}});
-  addEventListener('load',()=>navigator.serviceWorker.register('sw.js').then(r=>r.update()))}
+if('serviceWorker' in navigator){
+  /* No forced reload on an update: the worker asks the network first, so pages are already fresh. */
+  addEventListener('load',()=>navigator.serviceWorker.register('sw.js').then(r=>{r.update();navigator.serviceWorker.ready.then(g=>setTimeout(()=>{try{g.active&&g.active.postMessage('warm')}catch(e){}},6000))}).catch(()=>{}))}
 
 /* Hide hosting badges or toolbars injected by the host (e.g. "Powered by Netlify"). */
 (()=>{const kill=n=>{if(n.nodeType!==1||n.closest('.view,.sheet,.ambient'))return;
