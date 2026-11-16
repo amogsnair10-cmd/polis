@@ -68,7 +68,9 @@ const path=f=>(SUB.dir==='.'?'':SUB.dir+'/')+f;
 let ids=[];
 // Dates are the phone's local calendar day (IST for Indian users), never UTC.
 const ds=d=>`${d.getFullYear()}-${String(d.getMonth()+1).padStart(2,'0')}-${String(d.getDate()).padStart(2,'0')}`;const today=()=>ds(new Date());
-function streak(){let n=0,d=new Date();const set=new Set(S.days);if(!set.has(ds(d)))d.setDate(d.getDate()-1);while(set.has(ds(d))){n++;d.setDate(d.getDate()-1)}return n}
+/* A study day in ANY subject counts: the main streak is across all subjects (dates use this phone's own clock). */
+function allDays(){const set=new Set(S.days);try{allS().forEach(({p})=>(p.days||[]).forEach(d=>set.add(d)))}catch(e){}return set}
+function streak(){let n=0,d=new Date();const set=allDays();if(!set.has(ds(d)))d.setDate(d.getDate()-1);while(set.has(ds(d))){n++;d.setDate(d.getDate()-1)}return n}
 const unitOf=id=>{const [p,u]=id.split('-');return MAP[p]?MAP[p].units[u][0]:'Review'};
 const esc=s=>String(s).replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
 const wreath=`<svg class="wreath" viewBox="0 0 200 110"><g style="fill:var(--goldd)">${[...Array(9)].map((_,i)=>{const a=(200-i*16)*Math.PI/180,x=100+70*Math.cos(a),y=100-70*Math.sin(a)*0.9;return `<ellipse cx="${x}" cy="${y}" rx="5" ry="12" transform="rotate(${-(200-i*16)+90} ${x} ${y})"/>`}).join('')}${[...Array(9)].map((_,i)=>{const a=(-20+i*16)*Math.PI/180,x=100+70*Math.cos(a),y=100-70*Math.sin(a)*0.9;return `<ellipse cx="${x}" cy="${y}" rx="5" ry="12" transform="rotate(${-(-20+i*16)+90} ${x} ${y})"/>`}).join('')}</g></svg>`;
@@ -232,7 +234,7 @@ pushHour.value=ls.get('pushHour')||'19';pushOn.checked=ls.get('push')==='1';
 const b64=s=>{const p='='.repeat((4-s.length%4)%4),r=atob((s+p).replace(/-/g,'+').replace(/_/g,'/'));return Uint8Array.from(r,c=>c.charCodeAt(0))};
 function studyState(){const next=ids.find(i=>IDX[i]&&!S.done[i]);let chapter='',left=0;
   if(next){const [p,u]=next.split('-');chapter=MAP[p].units[u][0];left=MAP[p].units[u][1].filter((_,k)=>!S.done[`${p}-${u}-${k}`]).length}
-  return {streak:streak(),doneDay:S.days.includes(today())?today():'',subject:SUB.title,next:next?IDX[next].title:'',chapter,chapterLeft:left}}
+  return {streak:streak(),doneDay:allDays().has(today())?today():'',subject:SUB.title,next:next?IDX[next].title:'',chapter,chapterLeft:left}}
 /* In the Android app (Capacitor), reminders are scheduled on the phone and the widget reads the study state. */
 const CAP=window.Capacitor&&window.Capacitor.isNativePlatform&&window.Capacitor.isNativePlatform();
 async function nativeSync(off){const P=Capacitor.Plugins,st=studyState(),studied=!!st.doneDay;
@@ -240,7 +242,7 @@ async function nativeSync(off){const P=Capacitor.Plugins,st=studyState(),studied
   const accent=getComputedStyle(document.documentElement).getPropertyValue('--gold').trim()||'#F2C46D';
   const sstreak=days=>{const set=new Set(days||[]);let n=0,d=new Date();if(!set.has(ds(d)))d.setDate(d.getDate()-1);while(set.has(ds(d))){n++;d.setDate(d.getDate()-1)}return n};
   const subjects=allS().map(({s,p})=>({t:s.title,streak:sstreak(p.days),done:Object.keys(p.done||{}).length})).filter(x=>x.done||x.streak).sort((a,b)=>b.streak-a.streak||b.done-a.done).slice(0,4);
-  try{await P.Preferences.set({key:'widget',value:JSON.stringify({...st,studiedToday:studied,days:S.days.slice(-60),chapterTotal:chTotal,accent,subjects})})}catch(e){}
+  try{await P.Preferences.set({key:'widget',value:JSON.stringify({...st,studiedToday:studied,days:[...allDays()].sort().slice(-60),chapterTotal:chTotal,accent,subjects})})}catch(e){}
   const LN=P.LocalNotifications;if(!LN)return;
   try{const pend=await LN.getPending();if(pend.notifications.length)await LN.cancel({notifications:pend.notifications.map(n=>({id:n.id}))})}catch(e){}
   if(off||ls.get('push')!=='1')return;
