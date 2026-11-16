@@ -1,0 +1,29 @@
+# Cloudflare Pages response headers.
+# App code and data: always check for a newer copy (cheap 304 when unchanged), so updates show up straight away.
+/
+  Cache-Control: no-cache
+/index.html
+  Cache-Control: no-cache
+/app.js
+  Cache-Control: no-cache
+/account.js
+  Cache-Control: no-cache
+/ask.js
+  Cache-Control: no-cache
+/listen.js
+  Cache-Control: no-cache
+/themes.js
+  Cache-Control: no-cache
+/icons.js
+  Cache-Control: no-cache
+/sw.js
+  Cache-Control: no-cache
+/styles.css
+  Cache-Control: no-cache
+/*.json
+  Cache-Control: no-cache
+# Big, rarely-changing files can be kept for a while.
+/art/photos/*
+  Cache-Control: public, max-age=604800
+/art/doodles/*
+  Cache-Control: public, max-age=3600

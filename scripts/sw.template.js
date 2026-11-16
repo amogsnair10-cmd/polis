@@ -15,7 +15,7 @@ self.addEventListener('fetch',e=>{
   if(u.host.endsWith('googleapis.com')||u.host.endsWith('gstatic.com')){
     e.respondWith(caches.open(V+'-fonts').then(c=>c.match(e.request).then(r=>r||fetch(e.request).then(n=>{c.put(e.request,n.clone());return n}))));return}
   if(u.origin!==location.origin||u.pathname.startsWith('/api/'))return;
-  e.respondWith(fetch(e.request).then(n=>{if(n.ok){const cp=n.clone();caches.open(V).then(c=>c.put(e.request,cp))}return n})
+  e.respondWith(fetch(e.request,{cache:'no-cache'}).then(n=>{if(n.ok){const cp=n.clone();caches.open(V).then(c=>c.put(e.request,cp))}return n})
     .catch(()=>caches.match(e.request,{ignoreSearch:true})));
 });
 self.addEventListener('push',e=>{let d={};try{d=e.data.json()}catch(x){d={title:'Light Bulb',body:e.data&&e.data.text()}}
