@@ -9,5 +9,5 @@
 </LinearLayout>
 </FrameLayout>
 </FrameLayout>
-<ImageView android:id="@+id/w_lumen" android:layout_width="wrap_content" android:layout_height="28dp" android:adjustViewBounds="true" android:scaleType="fitCenter" android:src="@drawable/lumen_neutral" android:layout_gravity="top|end" android:layout_margin="2dp" android:layout_marginBottom="0dp" android:layout_marginEnd="0dp"/>
+<ImageView android:id="@+id/w_lumen" android:layout_width="wrap_content" android:layout_height="34dp" android:adjustViewBounds="true" android:scaleType="fitCenter" android:src="@drawable/lumen_neutral" android:layout_gravity="top|end" android:layout_marginEnd="4dp" android:layout_marginTop="2dp" android:layout_marginBottom="0dp"/>
 </FrameLayout>
