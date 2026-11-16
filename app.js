@@ -112,7 +112,9 @@ async function openL(id,card){
   cur=id;lastI=-1;if(!/^(REVIEW|MIX)$|-T$/.test(id))ls.set('lb:last',JSON.stringify({s:SUB.id,id,t:l.title,ts:Date.now(),card:-1}));
   const cp=photo(id,'big');
   let h=`<div class="cd"><div class="ci marble cover">${cp||ldood(id,'dd big')||doodle(id,'dd big')||`<div class="em">${l.emoji}</div>`}<div class="tag">${unitOf(id)}</div><h2>${l.title}</h2><p class="hint">Swipe left to begin</p>${cp?ldood(id,'dd neg'):''}</div></div>`;
-  l.cards.forEach((c,k)=>{const ph=photo(id+'_'+k,'card'),own=ldood(id+'_'+k,'dd card'),neg=ph?ldood(id+'_'+k,'dd neg'):(own?'':ldood(id,'dd neg'));
+  const have=(DOODLES.lessons||{})[SUB.id]||[],pool=have.filter(n=>n===id||n.startsWith(id+'_'));
+  l.cards.forEach((c,k)=>{const ph=photo(id+'_'+k,'card'),own=ldood(id+'_'+k,'dd card'),pick=pool.length?pool[(k+1)%pool.length]:'',
+    neg=ph?(own?ldood(id+'_'+k,'dd neg'):ldood(pick,'dd neg')):(own?'':ldood(pick,'dd neg'));
     h+=`<div class="cd"><div class="ci marble ${c.cls||''}">${ph||own}<div class="tag">${c.tag}</div><h2>${c.h}</h2>${c.b}${neg}</div></div>`});
   const pq=PYQ[id];
   if(pq&&pq.length)h+=`<div class="cd"><div class="ci marble"><div class="tag">Asked in UPSC</div><h2>Previous year questions</h2>${pq.map(x=>`<blockquote class="pyq">${esc(x.q)}<small>${x.y} · ${esc(x.p)}${x.m?' · '+x.m+' marks':''}</small></blockquote>`).join('')}</div></div>`;
