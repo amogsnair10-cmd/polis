@@ -39,6 +39,8 @@ const doodles={};
 const lessonDoodles={};
 for(const sub of subjects){const d='art/doodles/'+sub.id;if(fs.existsSync(d))doodles[sub.id]=fs.readdirSync(d).filter(f=>f.endsWith('.svg')).map(f=>f.slice(0,-4));
   const L=d+'/L';if(fs.existsSync(L))lessonDoodles[sub.id]=fs.readdirSync(L).filter(f=>f.endsWith('.svg')).map(f=>f.slice(0,-4))}
+let off={};try{off=JSON.parse(fs.readFileSync('doodles.off.json','utf8'))}catch(e){}
+for(const k in lessonDoodles)if(off[k])lessonDoodles[k]=lessonDoodles[k].filter(n=>!off[k].includes(n));
 fs.writeFileSync('doodles.json',JSON.stringify({units:doodles,lessons:lessonDoodles})+'\n');
 warn.forEach(w=>console.warn('warn:',w));
 if(errs.length){errs.forEach(x=>console.error('error:',x));process.exit(1)}
