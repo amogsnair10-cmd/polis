@@ -79,3 +79,6 @@ The `lumen_*.webp` copies (300 px tall) are in `mobile/native/res/drawable-nodpi
 | lumen_lost.webp | streak-3 |
 
 Fixes made: the expressions-front sheet is stored with a transparent background, so it was flattened onto cream before cutting. That removed ragged edges and leftover background on the coat and wing. All other sheets cut cleanly.
+
+## 16 Nov redo (transparent sheets)
+study, subjects-a, subjects-b, sunglasses, daily, expressions-front, review and rewards were re-cut from transparent GPT sheets (alpha cut, no background guessing). `misc-1..6` is an extra set not yet used in the app (proud with sparkles, hat tip, arms crossed, holding a book, sitting with books, sitting arms crossed). Still to redo from transparent sheets: streak, widget-states, expressions-angles.
