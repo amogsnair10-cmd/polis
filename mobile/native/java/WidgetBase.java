@@ -53,7 +53,8 @@ public abstract class WidgetBase extends AppWidgetProvider {
             SharedPreferences p = ctx.getSharedPreferences("CapacitorStorage", Context.MODE_PRIVATE);
             JSONObject o = new JSONObject(p.getString("widget", "{}"));
             d.subject = o.optString("subject", d.subject);
-            d.sid = o.optString("sid", d.sid);
+            d.sid = o.optString("sid", "");
+            if (d.sid.length() == 0) d.sid = sidFor(d.subject);
             if (o.optString("next", "").length() > 0) d.next = o.optString("next");
             d.chapter = o.optString("chapter", "");
             d.chapterTotal = o.optInt("chapterTotal", 0);
@@ -92,6 +93,25 @@ public abstract class WidgetBase extends AppWidgetProvider {
             d.streak = n;
         } catch (Exception ignored) {}
         return d;
+    }
+
+    /** Older app copies did not send the subject id: work it out from the subject's name. */
+    static String sidFor(String name) {
+        String n = name == null ? "" : name.toLowerCase(Locale.ROOT);
+        switch (n) {
+            case "polis": return "psir";
+            case "chronicle": return "history";
+            case "terra": return "geography";
+            case "verdant": return "environment";
+            case "odyssey": return "world";
+            case "manifesto": return "communism";
+            case "stellar": return "astronomy";
+            case "principia": return "physics";
+            case "alchemy": return "chemistry";
+            case "vita": return "biology";
+            case "quanta": return "quantum";
+            default: return "psir";
+        }
     }
 
     static PendingIntent open(Context ctx) {
