@@ -27,7 +27,7 @@ function lumenSay(){const days=allDays(),st=streak(),h=new Date().getHours(),did
   if(st>0){if(h>=22)return['daily-3','Late. A short lesson still counts.'];if(h>=18)return['streak-2','Streak in danger. One lesson will do.'];if(h<9)return['daily-1',"Morning. Today's case file is open."];return[sp,"Today's case file is open: "+SUB.title+'.']}
   return['streak-3','Fresh start. I will be here.']}
 function renderLumen(){const[k,t]=lumenSay(),hero=document.getElementById('lumenhero'),el=document.getElementById('lumenline');
-  if(hero)hero.innerHTML=LUM(k);
+  if(hero)hero.innerHTML=LUM(SUBJPOSE[SUB.id]||k);
   if(el)el.innerHTML=`<small>Inspector Lumen</small><span>${esc(t)}</span>`}
 const endPose=f=>f>=.999?'sunglasses-2':f>=.8?'streak-1':f>=.6?'expressions-angles-4':f>=.3?'expressions-angles-2':'daily-6';
 /* ---------- points, levels and badges ----------
