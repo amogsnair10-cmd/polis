@@ -73,6 +73,8 @@ const BADGES=[
  ['mx100','Perfect Mix','Score 100% on a mixed test','','l',A=>A.mixBest>=.999],
  ['sub11','Omniscient','Finish lessons in all 11 subjects','','l',A=>A.subs>=11],
  ['x10000','Mythic','Earn 10000 XP','','l',A=>A.xp>=10000]];
+/* quiz question text: intro line, numbered statements on their own rows, and the closing ask */
+function fmtQ(t){return String(t).split('\n').map(x=>x.trim()).filter(Boolean).map(x=>{const m=x.match(/^((?:\d+|[A-D]|[IVX]+|Statement[- ]?(?:I{1,2}|[12]))[.):]?)\s+(.*)$/i);return m?`<div class="qs"><i>${m[1]}</i><span>${m[2]}</span></div>`:`<p>${x}</p>`}).join('')}
 function badgeState(){const A=stats();return{A,level:lvlOf(A.xp),all:BADGES.map(b=>({id:b[0],t:b[1],d:b[2],g:b[3],tier:b[4],got:b[5](A)}))}}
 window.badgeState=badgeState;
 function toast(h){let t=document.getElementById('toasts');if(!t){t=document.createElement('div');t.id='toasts';document.body.appendChild(t)}
@@ -142,7 +144,7 @@ async function openL(id,card){
     h+=`<div class="cd"><div class="ci marble ${c.cls||''}">${ph}${pos==='t'?d:''}<div class="cb">${pos==='r'||pos==='l'?d:''}<div class="tag">${c.tag}</div><h2>${c.h}</h2>${c.b}</div>${pos==='b'?d:''}</div></div>`});
   const pq=PYQ[id];
   if(pq&&pq.length)h+=`<div class="cd"><div class="ci marble"><div class="tag">Asked in UPSC</div><h2>Previous year questions</h2>${pq.map(x=>`<blockquote class="pyq">${esc(x.q)}<small>${x.y} · ${esc(x.p)}${x.m?' · '+x.m+' marks':''}</small></blockquote>`).join('')}</div></div>`;
-  l.quiz.forEach((q,i)=>h+=`<div class="cd"><div class="ci marble"><div class="tag">${q._t?esc(q._t):`Question ${i+1} of ${l.quiz.length}`}</div><h2 class="qq" style="font-size:20px">${q.q}</h2>${q.o.map((o,j)=>`<button class="opt" data-q="${i}" data-j="${j}">${o}</button>`).join('')}<div class="why" id="w${i}"></div></div></div>`);
+  l.quiz.forEach((q,i)=>h+=`<div class="cd"><div class="ci marble"><div class="tag">${q._t?esc(q._t):`Question ${i+1} of ${l.quiz.length}`}</div><div class="qq">${fmtQ(q.q)}</div>${q.o.map((o,j)=>`<button class="opt" data-q="${i}" data-j="${j}">${o}</button>`).join('')}<div class="why" id="w${i}"></div></div></div>`);
   h+=`<div class="cd"><div class="ci marble cover" id="end"><div class="tag">Answer every question to finish</div></div></div>`;
   deck.innerHTML=h;window.LCOUNT=l.cards.length+(pq&&pq.length?1:0);deck.querySelectorAll('.ci').forEach(c=>io.observe(c));window.ans={};show('lesson');deck.scrollLeft=card>=0?(card+1)*deck.clientWidth:0;upd();deck.querySelectorAll('.ci').forEach(c=>{const g=c.querySelector('.dd.pb');if(g){const body=c.scrollHeight-g.offsetHeight-14,room=c.clientHeight-body-30;if(room<70)g.remove();else if(room<g.offsetHeight)g.style.height=room+'px'}
     c.querySelectorAll('.dd.pt,.dd.pr,.dd.pl').forEach(d=>{if(c.scrollHeight>c.clientHeight+4)d.remove()})});
