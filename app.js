@@ -21,12 +21,14 @@ let PYQ={};
 /* ---------- Inspector Lumen (mascot): poses live in art/lumen/<sheet>-<n>.webp ---------- */
 const LUM=(k,c='')=>`<img class="lum ${c}" src="art/lumen/${k}.webp" alt="" loading="lazy" decoding="async" onerror="this.remove()">`;
 const SUBJPOSE={psir:'subjects-a-1',history:'subjects-a-2',geography:'subjects-a-3',environment:'subjects-a-4',world:'subjects-a-5',communism:'subjects-a-6',astronomy:'subjects-b-1',physics:'subjects-b-2',chemistry:'subjects-b-3',biology:'subjects-b-4',quantum:'subjects-b-5'};
-function lumenSay(){const days=allDays(),st=streak(),h=new Date().getHours(),did=days.has(today());
-  if(!days.size)return['subjects-b-6','Inspector Lumen. I will be going through the files with you.'];
-  if(did){if(st>=30)return['streak-6',st+' days. I am not smiling. I am just fine.'];if(st>=7)return['streak-5',st+' days running. Noted.'];if(st===1&&days.size>1)return['streak-4','Back at it. Good.'];return['streak-1','Noted. The streak stands at '+st+'.']}
-  if(st>0){if(h>=22)return['daily-3','Late. A short lesson still counts.'];if(h>=18)return['streak-2','Streak in danger. One lesson will do.'];if(h<9)return['daily-1',"Morning. Today's case file is open."];return[SUBJPOSE[SUB.id]||'expressions-angles-1',"Today's case file is open: "+SUB.title+'.']}
+function lumenSay(){const days=allDays(),st=streak(),h=new Date().getHours(),did=days.has(today()),sp=SUBJPOSE[SUB.id]||'expressions-angles-1';
+  if(!days.size)return[sp,'Inspector Lumen. I will be going through the files with you.'];
+  if(did){if(st>=30)return['streak-6',st+' days. I am not smiling. I am just fine.'];if(st>=7)return['streak-5',st+' days running. Noted.'];if(st===1&&days.size>1)return[sp,'Back at it. Good.'];return[sp,'Noted. The streak stands at '+st+'.']}
+  if(st>0){if(h>=22)return['daily-3','Late. A short lesson still counts.'];if(h>=18)return['streak-2','Streak in danger. One lesson will do.'];if(h<9)return['daily-1',"Morning. Today's case file is open."];return[sp,"Today's case file is open: "+SUB.title+'.']}
   return['streak-3','Fresh start. I will be here.']}
-function renderLumen(){const el=document.getElementById('lumenline');if(!el)return;const[k,t]=lumenSay();el.innerHTML=`<span class="ltile">${LUM(k)}</span><div class="lsay"><small>Inspector Lumen</small><span>${esc(t)}</span></div>`}
+function renderLumen(){const[k,t]=lumenSay(),hero=document.getElementById('lumenhero'),el=document.getElementById('lumenline');
+  if(hero)hero.innerHTML=LUM(k);
+  if(el)el.innerHTML=`<small>Inspector Lumen</small><span>${esc(t)}</span>`}
 const endPose=f=>f>=.999?'sunglasses-2':f>=.8?'streak-1':f>=.6?'expressions-angles-4':f>=.3?'expressions-angles-2':'daily-6';
 /* ---------- points, levels and badges ----------
    XP is stored per subject in S.xp (synced with progress). Badges are worked out from saved progress,
@@ -340,7 +342,7 @@ async function runSearch(){
     return `<button class="hit" data-k="${k}"><b>${hl(x.title,ws)}</b><small>${esc(x.sub.title)} · ${x.snip?hl(x.snip[0],ws):'Lesson'}</small><span>${hl(snip,ws)}</span></button>`}).join('')||'<p class="note" style="color:var(--sub)">No lessons match.</p>';
   out._hits=hits;
 }
-document.getElementById('srch').onclick=()=>{show('search');document.getElementById('q').focus()};
+document.getElementById('srch').onclick=()=>{show('search');runSearch();document.getElementById('q').focus()};
 document.getElementById('srchClose').onclick=back;
 document.getElementById('q').addEventListener('input',()=>{clearTimeout(qTimer);qTimer=setTimeout(runSearch,200)});
 document.getElementById('qAll').onchange=runSearch;
