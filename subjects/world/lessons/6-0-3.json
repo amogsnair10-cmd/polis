@@ -80,15 +80,15 @@
    "w": "It gave Hitler decree powers."
   },
   {
-   "q": "Mein Kampf was published in...",
+   "q": "In which year had Mussolini made himself dictator?",
    "o": [
-    "1939",
-    "1914",
     "1925",
-    "1933"
+    "1933",
+    "1939",
+    "1922"
    ],
-   "a": 2,
-   "w": "Written in prison."
+   "a": 0,
+   "w": "By 1925 Mussolini had made himself dictator. He had taken power in 1922 after the March on Rome."
   },
   {
    "q": "The Nuremberg Laws were in...",

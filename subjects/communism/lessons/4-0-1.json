@@ -118,15 +118,15 @@
    "w": "1957 essay."
   },
   {
-   "q": "Who wrote critical works on Maoism under the pen-name Simon Leys?",
+   "q": "Which Mao essay argues that the principal contradiction changes with context?",
    "o": [
-    "Jung Chang",
-    "Edgar Snow",
-    "Pierre Ryckmans",
-    "Chalmers Johnson"
+    "On Contradiction",
+    "On Practice",
+    "On New Democracy",
+    "On Protracted War"
    ],
-   "a": 2,
-   "w": "Chinese Shadows, 1974."
+   "a": 0,
+   "w": "On Contradiction (1937) says the principal contradiction and the principal aspect change with context."
   },
   {
    "q": "The CPI (Maoist) was formed in",

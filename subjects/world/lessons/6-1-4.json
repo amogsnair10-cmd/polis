@@ -146,15 +146,15 @@
    "w": "Rao and Manmohan Singh."
   },
   {
-   "q": "India's 'Look East' began in...",
+   "q": "Under which PM's government was the rupee devalued in July 1991?",
    "o": [
-    "1962",
-    "2014",
-    "1947",
-    "1992"
+    "Atal Bihari Vajpayee",
+    "Indira Gandhi",
+    "P. V. Narasimha Rao",
+    "Rajiv Gandhi"
    ],
-   "a": 3,
-   "w": "Under Rao."
+   "a": 2,
+   "w": "Rao's government, with Manmohan Singh as finance minister, devalued the rupee in July 1991."
   }
  ],
  "sources": [

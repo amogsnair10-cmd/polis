@@ -146,15 +146,15 @@
    "w": "A common myth."
   },
   {
-   "q": "India's UN terror convention was proposed in...",
+   "q": "In which year did Lashkar-e-Taiba gunmen attack Mumbai for three days?",
    "o": [
-    "2001",
-    "1947",
-    "2014",
-    "1996"
+    "2008",
+    "1993",
+    "1999",
+    "2001"
    ],
-   "a": 3,
-   "w": "Still not adopted."
+   "a": 0,
+   "w": "On 26 November 2008 Lashkar-e-Taiba gunmen from Pakistan attacked Mumbai for three days."
   }
  ],
  "sources": [

@@ -58,37 +58,37 @@
    "w": "Targets 1.5-2 degrees."
   },
   {
-   "q": "Kyoto Protocol was in...",
+   "q": "In which year was the Paris Agreement made?",
    "o": [
     "1988",
     "2021",
     "2015",
-    "1997"
-   ],
-   "a": 3,
-   "w": "Earlier climate treaty."
-  },
-  {
-   "q": "IPCC was created in...",
-   "o": [
-    "1958",
-    "2020",
-    "1988",
-    "2015"
+    "2020"
    ],
    "a": 2,
-   "w": "For climate assessments."
+   "w": "The Paris Agreement was made in 2015. It aims to keep warming well below 2 degrees, aiming for 1.5."
   },
   {
-   "q": "The Keeling Curve measures...",
+   "q": "By about how much has Earth warmed since the late 1800s?",
    "o": [
-    "Atmospheric carbon dioxide",
-    "Sea level",
-    "Temperature only",
-    "Rainfall"
+    "0.1-0.3 degrees Celsius",
+    "5-6 degrees Celsius",
+    "1.1-1.3 degrees Celsius",
+    "2.5-3 degrees Celsius"
    ],
-   "a": 0,
-   "w": "Since 1958."
+   "a": 2,
+   "w": "Earth has warmed by about 1.1-1.3 degrees Celsius since the late 1800s."
+  },
+  {
+   "q": "What does burning coal, oil and gas add to the air?",
+   "o": [
+    "Rainfall",
+    "Sea water",
+    "Carbon dioxide",
+    "Oxygen"
+   ],
+   "a": 2,
+   "w": "Burning coal, oil and gas adds carbon dioxide to the air, which warms the planet."
   },
   {
    "q": "WHO declared COVID a pandemic on...",
@@ -102,15 +102,15 @@
    "w": "Wuhan origin."
   },
   {
-   "q": "India's national lockdown began on...",
+   "q": "On which date did the WHO declare COVID-19 a pandemic?",
    "o": [
+    "25 March 2020",
     "15 Aug 2020",
     "1 April 2021",
-    "25 March 2020",
     "11 March 2020"
    ],
-   "a": 2,
-   "w": "First phase."
+   "a": 3,
+   "w": "The WHO declared a pandemic on 11 March 2020."
   },
   {
    "q": "India's net-zero pledge date...",

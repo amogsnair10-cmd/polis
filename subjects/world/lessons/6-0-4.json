@@ -146,15 +146,15 @@
    "w": "About 3 million died."
   },
   {
-   "q": "Imphal and Kohima stopped...",
+   "q": "Where did the Indian Army fight in 1944?",
    "o": [
-    "Italy",
-    "Germany",
-    "Russia",
-    "Japan"
+    "Stalingrad",
+    "Pearl Harbor",
+    "Kohima-Imphal",
+    "Hiroshima"
    ],
-   "a": 3,
-   "w": "In 1944."
+   "a": 2,
+   "w": "Its men fought in North Africa, Italy, Burma and Kohima-Imphal in 1944."
   }
  ],
  "sources": [

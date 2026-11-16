@@ -151,15 +151,15 @@
    "w": "The collision began about 50 million years ago."
   },
   {
-   "q": "Which Rigveda hymn wonders who truly knows how creation began?",
+   "q": "Where were the heavy elements, like iron and calcium, mostly made?",
    "o": [
-    "Nasadiya Sukta",
-    "Gayatri Mantra",
-    "Purusha Sukta",
-    "Shanti Path"
+    "In the first hours after the Big Bang",
+    "Inside Earth's core",
+    "Inside stars",
+    "In comets"
    ],
-   "a": 0,
-   "w": "Nasadiya Sukta, Rigveda 10.129."
+   "a": 2,
+   "w": "Heavier things like iron and calcium were cooked inside stars. The Big Bang made mostly hydrogen and helium."
   }
  ],
  "sources": [

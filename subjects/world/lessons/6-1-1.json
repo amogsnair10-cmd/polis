@@ -69,7 +69,7 @@
    "w": "15 August."
   },
   {
-   "q": "First sub-Saharan colony to become independent (1957)...",
+   "q": "Which country won independence in 1957 under Kwame Nkrumah?",
    "o": [
     "Algeria",
     "Nigeria",
@@ -80,15 +80,15 @@
    "w": "Under Nkrumah."
   },
   {
-   "q": "The 'Year of Africa' was...",
+   "q": "In 1960 what did the UN General Assembly's Resolution 1514 declare?",
    "o": [
-    "1947",
-    "1975",
-    "1989",
-    "1960"
+    "Colonialism must spread",
+    "Colonialism must end",
+    "Empires must be restored",
+    "Suez must be closed"
    ],
-   "a": 3,
-   "w": "17 states became independent."
+   "a": 1,
+   "w": "In 1960 the UN General Assembly adopted Resolution 1514, declaring colonialism must end."
   },
   {
    "q": "Dien Bien Phu was a French defeat in...",
@@ -135,15 +135,15 @@
    "w": "1965."
   },
   {
-   "q": "Operation Vijay took...",
+   "q": "Until when did Portugal hold its colonies?",
    "o": [
-    "Sikkim",
-    "Goa in 1961",
-    "Kashmir",
-    "Hyderabad"
+    "1961",
+    "1947",
+    "1990",
+    "1974-75"
    ],
-   "a": 1,
-   "w": "From Portugal."
+   "a": 3,
+   "w": "Portugal held its colonies until 1974-75."
   },
   {
    "q": "The last Portuguese colonies freed...",

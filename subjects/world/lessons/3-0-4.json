@@ -166,15 +166,15 @@
    "w": "Several causes are argued."
   },
   {
-   "q": "The Khmer writing system is derived from...",
+   "q": "What language did the Khmer court take as its learned language?",
    "o": [
-    "Chinese characters",
-    "Brahmi-derived Indian scripts",
-    "Greek letters",
-    "Arabic script"
+    "Greek",
+    "Arabic",
+    "Chinese",
+    "Sanskrit"
    ],
-   "a": 1,
-   "w": "An Indian family of scripts."
+   "a": 3,
+   "w": "The Khmer court took Sanskrit as its learned language, and its kings carved Indian epics into stone."
   }
  ],
  "sources": [

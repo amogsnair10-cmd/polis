@@ -80,15 +80,15 @@
    "w": "Soviet bloc."
   },
   {
-   "q": "The Berlin Wall was built in...",
+   "q": "In which year did the Cuban missile crisis take place?",
    "o": [
-    "1989",
-    "1961",
     "1945",
+    "1961",
+    "1962",
     "1948"
    ],
-   "a": 1,
-   "w": "By East Germany."
+   "a": 2,
+   "w": "The Cuban missile crisis came in October 1962 and lasted 13 days."
   },
   {
    "q": "MAD stands for...",
@@ -135,15 +135,15 @@
    "w": "Bandung preceded it."
   },
   {
-   "q": "India's first nuclear test was in...",
+   "q": "When was the Washington-Moscow hotline set up?",
    "o": [
     "1974",
-    "1962",
     "1947",
-    "1998"
+    "1998",
+    "1963"
    ],
-   "a": 0,
-   "w": "Smiling Buddha."
+   "a": 3,
+   "w": "A hotline between Washington and Moscow was set up in 1963."
   },
   {
    "q": "The Indo-Soviet Treaty was in...",

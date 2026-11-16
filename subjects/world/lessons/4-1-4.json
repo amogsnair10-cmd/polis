@@ -116,15 +116,15 @@
    "w": "A jewelled throne."
   },
   {
-   "q": "Nadir Shah sacked Delhi in...",
+   "q": "In which year did Babur beat Ibrahim Lodi at the first battle of Panipat?",
    "o": [
-    "1526",
     "1739",
     "1857",
+    "1526",
     "1398"
    ],
-   "a": 1,
-   "w": "A heavy blow to the Mughal state."
+   "a": 2,
+   "w": "Babur invaded India in 1526 and beat Ibrahim Lodi at the first battle of Panipat."
   },
   {
    "q": "Aurangzeb died in...",

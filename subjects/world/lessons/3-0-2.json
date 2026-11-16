@@ -96,15 +96,15 @@
    "w": "Found at Dunhuang."
   },
   {
-   "q": "Movable type was made by...",
+   "q": "Which is the oldest dated printed book mentioned in the lesson?",
    "o": [
-    "Gutenberg",
-    "Bi Sheng",
-    "Zhang Heng",
-    "Cai Lun"
+    "Gutenberg Bible",
+    "Analects",
+    "Diamond Sutra (868)",
+    "Shahnameh"
    ],
-   "a": 1,
-   "w": "About 1040."
+   "a": 2,
+   "w": "The Diamond Sutra of 868, found at Dunhuang, is the oldest dated printed book."
   },
   {
    "q": "Song paper money first appeared in...",
@@ -140,15 +140,15 @@
    "w": "Of Kannauj."
   },
   {
-   "q": "Rajendra I sent a naval expedition to...",
+   "q": "Which Chola king sent an embassy to China in 1015?",
    "o": [
-    "Egypt",
-    "Japan",
-    "Srivijaya",
-    "Persia"
+    "Harsha",
+    "Kanishka",
+    "Ashoka",
+    "Rajaraja I"
    ],
-   "a": 2,
-   "w": "In 1025."
+   "a": 3,
+   "w": "The Chola king Rajaraja I sent an embassy to China in 1015, and another followed in 1033."
   },
   {
    "q": "Gunpowder was found by...",

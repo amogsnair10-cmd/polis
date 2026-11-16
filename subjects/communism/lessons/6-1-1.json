@@ -131,16 +131,16 @@
   {
    "q": "Which Indian economists wrote on agrarian distress and imperialism?",
    "o": [
-    "Utsa and Prabhat Patnaik",
+    "Prabhat Patnaik",
     "Panagariya",
     "Bhagwati and Srinivasan",
     "Ahluwalia"
    ],
    "a": 0,
-   "w": "Marxist economists."
+   "w": "Marxist economists such as Patnaik study agrarian distress and imperialism."
   },
   {
-   "q": "The Indian farmer protests against farm laws were in",
+   "q": "When did the Indian farmer protests take place?",
    "o": [
     "2016",
     "2020-21",
@@ -148,7 +148,7 @@
     "1991"
    ],
    "a": 1,
-   "w": "Laws repealed in 2021."
+   "w": "Farmer protests took place in 2020-21."
   },
   {
    "q": "Auten and Splinter (2024) found US top-income shares",

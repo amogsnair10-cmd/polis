@@ -144,15 +144,15 @@
    "w": "In 1822."
   },
   {
-   "q": "Potosí is famous for its...",
+   "q": "Which 1819 battle opened the way to Bogota for Bolivar's army?",
    "o": [
-    "Silver mines",
-    "Gold mines",
-    "Tea farms",
-    "Pepper trade"
+    "Ayacucho",
+    "Saratoga",
+    "Boyaca",
+    "Yorktown"
    ],
-   "a": 0,
-   "w": "Silver flowed to Spain and Asia."
+   "a": 2,
+   "w": "At Boyaca in 1819 the army surprised the royalists and won, opening the way to Bogota."
   },
   {
    "q": "British volunteers who fought for Bolívar were the...",

@@ -144,15 +144,15 @@
    "w": "Rome won the island in 241 BCE."
   },
   {
-   "q": "\"Carthage must be destroyed\" is linked to...",
+   "q": "In which year did Rome destroy Carthage?",
    "o": [
-    "Julius Caesar",
-    "Scipio Africanus",
-    "Cato the Elder",
-    "Augustus"
+    "146 BCE",
+    "202 BCE",
+    "216 BCE",
+    "264 BCE"
    ],
-   "a": 2,
-   "w": "A famous slogan of the Roman senate."
+   "a": 0,
+   "w": "Carthage fell in 146 BCE after a siege of about three years, and Rome turned the land into the province Africa."
   },
   {
    "q": "The story of salt sown on Carthage is...",

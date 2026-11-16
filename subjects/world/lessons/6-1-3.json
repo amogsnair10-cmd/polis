@@ -69,15 +69,15 @@
    "w": "12 April 1961."
   },
   {
-   "q": "First woman in space...",
+   "q": "Which Soviet cosmonaut orbited Earth on 12 April 1961?",
    "o": [
+    "Neil Armstrong",
     "Laika",
-    "Sally Ride",
-    "Valentina Tereshkova",
-    "Kalpana Chawla"
+    "Buzz Aldrin",
+    "Yuri Gagarin"
    ],
-   "a": 2,
-   "w": "1963."
+   "a": 3,
+   "w": "Yuri Gagarin orbited Earth for 108 minutes on 12 April 1961."
   },
   {
    "q": "Apollo 11 landed in...",
@@ -102,15 +102,15 @@
    "w": "Piloting the command module."
   },
   {
-   "q": "ISRO was formed in...",
+   "q": "In which year was India's first rocket launched from Thumba?",
    "o": [
-    "1969",
     "1947",
     "1975",
+    "1963",
     "1984"
    ],
-   "a": 0,
-   "w": "After INCOSPAR."
+   "a": 2,
+   "w": "The first rocket was launched from Thumba in Kerala on 21 November 1963."
   },
   {
    "q": "India's first satellite...",

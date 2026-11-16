@@ -124,15 +124,15 @@
    "w": "20 Indian soldiers died."
   },
   {
-   "q": "Doklam standoff was in...",
+   "q": "In which year did the Galwan valley clash in Ladakh take place?",
    "o": [
     "2008",
     "2020",
-    "2017",
-    "1962"
+    "1962",
+    "2017"
    ],
-   "a": 2,
-   "w": "Near Bhutan trijunction."
+   "a": 1,
+   "w": "On 15 June 2020, 20 Indian soldiers died in a clash in the Galwan valley in Ladakh."
   },
   {
    "q": "India passed China in population in...",

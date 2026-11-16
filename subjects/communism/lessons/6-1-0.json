@@ -60,18 +60,18 @@
     "Laos"
    ],
    "a": 1,
-   "w": "Mongolia is a democracy since 1990."
+   "w": "The five states still ruled by communist parties are China, Vietnam, Cuba, Laos and North Korea. Mongolia is not on the list."
   },
   {
-   "q": "Vietnam's renovation policy began in",
+   "q": "Who succeeded Nguyen Phu Trong as General Secretary of Vietnam's party?",
    "o": [
-    "1975",
-    "1986",
-    "1954",
-    "2001"
+    "Kim Jong Un",
+    "Xi Jinping",
+    "Nguyen Phu Trong",
+    "To Lam"
    ],
-   "a": 1,
-   "w": "Doi Moi."
+   "a": 3,
+   "w": "General Secretary Nguyen Phu Trong died in July 2024, and To Lam succeeded him."
   },
   {
    "q": "Laos's ruling party is the",
@@ -129,15 +129,15 @@
    "w": "Crimes against humanity."
   },
   {
-   "q": "Cuba's Special Period followed",
+   "q": "After 1989-91, which two states kept more of the command economy?",
    "o": [
-    "Bay of Pigs",
-    "Soviet collapse",
-    "Obama's visit",
-    "Missile crisis"
+    "China and Vietnam",
+    "Laos and China",
+    "Vietnam and Laos",
+    "Cuba and North Korea"
    ],
-   "a": 1,
-   "w": "1991."
+   "a": 3,
+   "w": "China and Vietnam turned to markets, while Cuba and North Korea kept more of the command economy."
   },
   {
    "q": "Freedom House rates all five states",
