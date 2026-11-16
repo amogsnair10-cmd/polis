@@ -490,3 +490,24 @@ blockquote.pyq small{display:block;margin-top:6px;font-size:12px;color:var(--vei
 .qq .qs{display:flex;gap:10px;align-items:flex-start;margin:0 0 10px;padding:10px 12px;border-radius:12px;background:rgba(0,0,0,.045)}
 .qq .qs i{flex:none;font-style:normal;font-weight:700;color:var(--goldd,#8a5a1b);min-width:.9em}
 .qq .qs span{min-width:0;overflow-wrap:anywhere}
+
+/* ---------- smoothness pass (120 Hz) ----------
+   No live blur on moving or scrolling layers: backdrop-filter and big blur() re-run every frame and are what made
+   scrolling and screen changes stutter. The same look comes from slightly stronger flat glass instead. */
+*,*::before,*::after{-webkit-backdrop-filter:none!important;backdrop-filter:none!important}
+.blob{filter:none;will-change:transform}
+.sheet{background:rgba(0,0,0,.68)}
+.x,.pill,#q{background:rgba(0,0,0,.4)}
+.stats div,.me-stats div,.hit,.lvl,.lumenline{background:rgba(8,12,24,.5)}
+@keyframes vIn{from{opacity:0;transform:translateY(8px)}to{opacity:1;transform:none}}
+.lumenhero img{filter:drop-shadow(0 6px 8px rgba(0,0,0,.5))}
+/* only the home screen needs the living background; hold still everywhere else */
+body:not([data-view="home"]) .ambient *,body:not([data-view="home"]) #heroArt,body:not([data-view="home"]) .heroimg,body:not([data-view="home"]) .herovid{animation-play-state:paused!important}
+#deck{will-change:scroll-position;overscroll-behavior-x:contain;scroll-behavior:auto}
+.cd{contain:layout style}
+.hint,.dd.big,.cover .em{will-change:transform}
+/* quicker, lighter subject switch */
+#home{transition:opacity .16s linear,transform .16s linear}#home.swap-out{opacity:0;transform:none}
+#home.swap-in{animation:swapIn .32s var(--ease) both}
+@keyframes swapIn{from{opacity:0;transform:translateY(8px)}}
+@media (prefers-reduced-motion:reduce){.ambient *{animation:none!important}}

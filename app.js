@@ -178,16 +178,16 @@ function upd(){const n=deck.children.length,i=Math.round(deck.scrollLeft/deck.cl
   const pg=document.getElementById('pg'),pr=pg.parentNode;pg.style.width=((i+1)/n*100)+'%';pr.style.setProperty('--split',nc?((nc+1)/n*100)+'%':'-9px');pr.classList.toggle('inq',i>nc);
   document.getElementById('cnt').textContent=i===0?(nc?nc+' cards':nq+' questions'):i<=nc?`Card ${i}/${nc}`:i<=nc+nq?`Question ${i-nc}/${nq}`:'Done';
   if(i!==lastI){lastI=i;if(nc&&i>=1&&i<=nc&&!/^(REVIEW|MIX)$|-T$/.test(cur)){try{const l=JSON.parse(ls.get('lb:last')||'{}');if(l.id===cur){l.card=i-1;ls.set('lb:last',JSON.stringify(l))}}catch(e){}}}}
-deck.addEventListener('scroll',()=>requestAnimationFrame(upd));
+let _u=0;deck.addEventListener('scroll',()=>{if(_u)return;_u=requestAnimationFrame(()=>{_u=0;upd()})},{passive:true});
 /* ---------- motion helpers: every screen change crossfades smoothly ---------- */
 const CALM=matchMedia('(prefers-reduced-motion: reduce)').matches;
 function morph(fn){return fn()}
 function show(v,kind){const nv=document.getElementById(v);if(nv.classList.contains('on'))return;
-  document.querySelectorAll('.view').forEach(x=>x.classList.toggle('on',x.id===v));window.scrollTo(0,0);
+  document.querySelectorAll('.view').forEach(x=>x.classList.toggle('on',x.id===v));document.body.dataset.view=v;window.scrollTo(0,0);
   if(CALM)return;kind=kind||(v==='lesson'?'up':v==='home'?'down':'fade');
   nv.classList.remove('enter-up','enter-down','enter-fade');void nv.offsetWidth;nv.classList.add('enter-'+kind);
   setTimeout(()=>nv.classList.remove('enter-'+kind),900)}
-function softSwap(fn){const h=document.getElementById('home');if(CALM)return fn();h.classList.add('swap-out');setTimeout(async()=>{await fn();const a=document.getElementById('heroArt');await Promise.race([a.ready,new Promise(r=>setTimeout(r,800))]);scrollTo(0,0);h.classList.remove('swap-out');h.classList.add('swap-in');setTimeout(()=>h.classList.remove('swap-in'),1000)},450)}
+function softSwap(fn){const h=document.getElementById('home');if(CALM)return fn();h.classList.add('swap-out');setTimeout(async()=>{await fn();const a=document.getElementById('heroArt');await Promise.race([a.ready,new Promise(r=>setTimeout(r,250))]);scrollTo(0,0);h.classList.remove('swap-out');h.classList.add('swap-in');setTimeout(()=>h.classList.remove('swap-in'),500)},170)}
 function openSheetEl(s){s.hidden=false;s.classList.remove('closing')}
 function closeSheetEl(s){if(s.hidden)return;s.classList.add('closing');setTimeout(()=>{s.hidden=true;s.classList.remove('closing')},CALM?0:420)}
 function back(){window.stopListen&&stopListen();show('home');renderHome()}
@@ -220,6 +220,10 @@ function fitName(){const el=document.getElementById('appName');el.style.fontSize
 addEventListener('resize',()=>SUB&&fitName());
 if(document.fonts)document.fonts.addEventListener('loadingdone',()=>SUB&&fitName());
 /* ---------- subjects ---------- */
+const _jc={};
+const jget=(u,fb)=>_jc[u]||(_jc[u]=fetch(u).then(r=>r.ok?r.json():fb!==undefined?fb:Promise.reject()).catch(e=>{delete _jc[u];if(fb!==undefined)return fb;throw e}));
+/* warm the other subjects while the phone is idle, so switching never waits on the network */
+function prefetchSubjects(){const idle=window.requestIdleCallback||(f=>setTimeout(f,1500));idle(()=>{SUBJ.filter(s=>!s.soon&&s.id!==(SUB&&SUB.id)).forEach((s,i)=>setTimeout(()=>{const p=u=>(s.dir&&s.dir!=='.'?s.dir+'/':'')+u;jget(p('syllabus.json'),{});jget(p('lessons/index.json'),{});if(s.hero){const im=new Image();im.decoding='async';im.src=s.hero}},i*400))})}
 async function loadSubject(id){
   SUB=SUBJ.find(s=>s.id===id&&!s.soon)||SUBJ[0];ls.set('subject',SUB.id);
   applyTheme(themeFor(SUB));
@@ -229,7 +233,7 @@ async function loadSubject(id){
   document.getElementById('pickName').innerHTML=icon(SUB.id,'ic sm')+' '+SUB.name;
   document.title='Light Bulb · '+SUB.title+' ('+SUB.name+')';
   L={};loadProgress();
-  const [m,x]=await Promise.all([fetch(path('syllabus.json')).then(r=>r.json()),fetch(path('lessons/index.json')).then(r=>r.json()),fetch(path('pyq.json')).then(r=>r.ok?r.json():{}).catch(()=>({})).then(j=>PYQ=j)]);
+  const [m,x]=await Promise.all([jget(path('syllabus.json')),jget(path('lessons/index.json')),jget(path('pyq.json'),{}).then(j=>PYQ=j)]);
   MAP=m;IDX=x;ids=[];MAP.forEach((p,pi)=>p.units.forEach((u,ui)=>{for(let k=0;k<u[1].length;k++)ids.push(`${pi}-${ui}-${k}`)}));
   renderHome();
 }
@@ -316,7 +320,7 @@ const mk=(u,cls)=>`<i class="${cls}" style="--u:url('${u}')"></i>`;
 const doodle=(id,cls='dd')=>{const [p,u]=id.split('-'),k=p+'-'+u;return SUB&&((DOODLES.units||{})[SUB.id]||[]).includes(k)?mk(`art/doodles/${SUB.id}/${k}.svg`,cls):''};
 // lesson doodles: cover (lessonId) and key cards (lessonId_k)
 const ldood=(name,cls)=>SUB&&((DOODLES.lessons||{})[SUB.id]||[]).includes(name)?mk(`art/doodles/${SUB.id}/L/${name}.svg`,cls):'';
-(async()=>{SUBJ=await fetch('subjects.json').then(r=>r.json());DOODLES=await fetch('doodles.json').then(r=>r.json()).catch(()=>({}));fetch('photos.json').then(r=>r.json()).then(j=>PHOTOS=j).catch(()=>{});await loadSubject(ls.get('subject')||SUBJ[0].id);await Promise.race([document.getElementById('heroArt').ready,new Promise(r=>setTimeout(r,3500))]);checkBadges(true);hideSplash();handleGo();import('./account.js').catch(e=>{const a=document.getElementById('acct');if(a)a.innerHTML='<p class="note">Sign-in needs the internet. Your progress is still saved on this phone.</p>'});pushSync()})();
+(async()=>{SUBJ=await fetch('subjects.json').then(r=>r.json());DOODLES=await fetch('doodles.json').then(r=>r.json()).catch(()=>({}));fetch('photos.json').then(r=>r.json()).then(j=>PHOTOS=j).catch(()=>{});await loadSubject(ls.get('subject')||SUBJ[0].id);await Promise.race([document.getElementById('heroArt').ready,new Promise(r=>setTimeout(r,3500))]);checkBadges(true);hideSplash();handleGo();prefetchSubjects();import('./account.js').catch(e=>{const a=document.getElementById('acct');if(a)a.innerHTML='<p class="note">Sign-in needs the internet. Your progress is still saved on this phone.</p>'});pushSync()})();
 /* ---------- chapter tests: 15 questions drawn from every lesson in the chapter ---------- */
 async function openReview(){const due=rdue().sort((a,b)=>a.due-b.due).slice(0,15),quiz=[];
   try{for(const r of due){const l=await getLesson(r.id);if(l.quiz[r.q])quiz.push({...l.quiz[r.q],_r:r,_t:l.title})}}catch(e){alert('Review could not load. Check your connection.');return}
