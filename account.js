@@ -218,7 +218,8 @@ async function openMe() {
   let doubts = [];
   if (user) try { (await getDocs(query(collection(db, "users", user.uid, "doubts"), orderBy("ts", "desc"), limit(40)))).forEach(d => doubts.push(d.data())); } catch (e) {}
   v.innerHTML = `<div class="bar"><button class="x" id="meClose" aria-label="Close">×</button><h2 class="me-h">My learning</h2></div>
-   <div class="me">
+   <div class="me" data-tab="me">
+    <div class="metabs" role="tablist"><button role="tab" class="on" data-t="me">Me</button><button role="tab" data-t="chl">Challenges</button></div>
     <div class="me-prof"><span class="av">${esc(ini)}<img class="lface" src="art/lumen/face.webp" alt="" onerror="this.remove()">${user && user.photoURL ? `<img src="${esc(user.photoURL)}" referrerpolicy="no-referrer" alt="" onerror="this.remove()">` : ""}</span><div class="who"><h2>${esc(nm)}</h2><small>${user ? esc(user.email || user.phoneNumber || "") : "Not signed in"}${since ? " · Member since " + since : ""}</small><span class="chip">Level ${lv.n} · ${esc(lv.name)} · ${lv.xp} XP</span></div></div>
     ${last && lastS ? `<button class="me-cont" id="meCont"><small>Continue where you left off</small><b>${esc(last.t || "Last lesson")}</b><span>${esc(lastS.title)} · Resume →</span></button>` : ""}
     ${user ? "" : `<div class="me-signin"><b>Save your progress and doubts</b><small>Sign in once and everything syncs across devices.</small><button class="start" id="meG">Continue with Google</button><p class="note" id="meMsg"></p></div>`}
@@ -229,10 +230,10 @@ async function openMe() {
       <details class="bdrop"><summary><span>Badges</span><em class="cnt">${got} won</em><span class="bstrip">${B.all.filter(b => b.got).slice(0, 6).map(b => `<img src="art/lumen/${(window.BADGEPOSE || {})[b.id] || "face"}.webp" alt="">`).join("")}</span></summary>
         ${(() => { const E = B.all.filter(b => b.got); return E.length ? `<div class="badges">${E.map(b => `<div class="badge t-${b.tier}"><span class="bm"><img src="art/lumen/${(window.BADGEPOSE || {})[b.id] || "face"}.webp" alt="" loading="lazy" decoding="async"></span><b>${b.t}</b><small>${b.d}</small></div>`).join("")}</div>` : `<p class="bnone">Nothing won yet. Open Challenges below to see what to aim for.</p>`; })()}
       </details>
-      <details class="bdrop chl"><summary><span>Challenges</span><em class="cnt">${B.all.length - got} to go</em></summary>
+      <div class="chpane"><h3 class="chh">Challenges <em class="cnt">${B.all.length - got} to go</em></h3><p class="chs">Everything you can still win, closest first.</p>
         ${(() => { const L = B.all.filter(b => !b.got).sort((x, y) => (y.cur / y.need) - (x.cur / x.need)); const lab = b => b.unit === "mixBest" ? Math.round(b.cur * 100) + "% of " + Math.round(b.need * 100) + "%" : b.cur + " of " + b.need;
           return L.length ? `<div class="crows">${L.map(b => `<div class="crow t-${b.tier}"><span class="bm sm"><img src="art/lumen/${(window.BADGEPOSE || {})[b.id] || "face"}.webp" alt="" loading="lazy" decoding="async"></span><div class="ct"><b>${b.t}</b><small>${b.d}</small><i><u style="width:${Math.round(b.cur / b.need * 100)}%"></u></i></div><span class="cp">${lab(b)}</span></div>`).join("")}</div>` : `<p class="bnone">You have won every badge. Legend.</p>`; })()}
-      </details>`; })()}
+      </div>`; })()}
     <h3>Last 12 weeks</h3><div class="heat">${heat}</div>
     <h3>Subjects</h3>${subj.length ? subj.map(x => `<button class="me-sub" data-s="${x.s.id}"><span class="sic" style="--a:${(THEMES[x.s.theme] || THEMES.polis).vars["--gold"] || "#c9a45c"};--b:${(THEMES[x.s.theme] || THEMES.polis).vars["--lapis"] || "#13294b"}">${icon(x.s.id)}</span><span class="me-sub-t"><b>${x.s.title}</b> · ${x.s.name}<i style="--w:${Math.round(x.n / Math.max(1, x.total) * 100)}%"></i><small>${x.n} of ${x.total} lessons${x.a != null ? " · quiz " + x.a + "%" : ""}</small></span></button>`).join("") : `<div class="lumnote"><span class="ltile">${LUM("study-5")}</span><p>Finish a lesson and it shows up here.</p></div>`}
     ${weak.length ? `<h3>Revise these</h3>${weak.slice(0, 5).map(w => `<button class="me-weak" data-s="${w.s.id}" data-u="${w.u}"><b>${esc(w.name)}</b><small>${w.s.title} · quiz ${Math.round(w.a * 100)}%</small><span>Revise →</span></button>`).join("")}` : ""}
@@ -243,6 +244,7 @@ async function openMe() {
    </div>`;
   show("me");
   document.getElementById("meClose").onclick = back;
+  v.querySelectorAll(".metabs button").forEach(b => b.onclick = () => { const me = v.querySelector(".me"); me.dataset.tab = b.dataset.t; v.querySelectorAll(".metabs button").forEach(x => x.classList.toggle("on", x === b)); window.scrollTo(0, 0); });
   const g = document.getElementById("meG");
   if (g) g.onclick = async () => { try { await googleSignIn(); if (!NATIVE) openMe(); } catch (e) { document.getElementById("meMsg").textContent = "Sign-in didn't finish: " + (e.code || e.message); } };
   fetch("sw.js", { cache: "no-store" }).then(r => r.text()).then(t => { const m = t.match(/const V='polis-([0-9a-f]+)'/); const e = document.getElementById("verTxt"); if (e && m) e.textContent = "Version " + m[1] + " · tap to refresh"; }).catch(() => {});
