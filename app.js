@@ -78,7 +78,9 @@ function fmtQ(t){return String(t).split('\n').map(x=>x.trim()).filter(Boolean).m
 /* a different Lumen picture for every badge (used in the pop-up and on legendary stickers) */
 const BADGEPOSE={first:'rewards-1',l10:'study-4',l25:'study-2',l100:'rewards-5',s3:'streak-1',s7:'streak-6',s30:'daily-5',p1:'sunglasses-2',p10:'expressions-front-5',t1:'review-3',t5:'study-5',r1:'review-1',r10:'review-2',r50:'misc-2',m1:'expressions-front-4',m80:'study-1',sub3:'subjects-a-3',sub6:'subjects-b-1',x500:'rewards-4',x3000:'misc-4',
  l250:'review-5',l500:'review-6',s60:'streak-4',s100:'streak-5',p50:'review-4',r200:'study-6',t20:'rewards-3',mx100:'rewards-2',sub11:'rewards-6',x10000:'misc-1'};window.BADGEPOSE=BADGEPOSE;
-function badgeState(){const A=stats();return{A,level:lvlOf(A.xp),all:BADGES.map(b=>({id:b[0],t:b[1],d:b[2],g:b[3],tier:b[4],got:b[5](A)}))}}
+/* progress towards each badge: [stat, target] so Challenges can show "7 of 10" */
+const BPROG={first:['lessons',1],l10:['lessons',10],l25:['lessons',25],l100:['lessons',100],s3:['best',3],s7:['best',7],s30:['best',30],p1:['perfect',1],p10:['perfect',10],t1:['tests80',1],t5:['tests',5],r1:['rv',1],r10:['learned',10],r50:['learned',50],m1:['mixN',1],m80:['mixBest',.8],sub3:['subs',3],sub6:['subs',6],x500:['xp',500],x3000:['xp',3000],l250:['lessons',250],l500:['lessons',500],s60:['best',60],s100:['best',100],p50:['perfect',50],r200:['learned',200],t20:['tests80',20],mx100:['mixBest',1],sub11:['subs',11],x10000:['xp',10000]};
+function badgeState(){const A=stats();return{A,level:lvlOf(A.xp),all:BADGES.map(b=>{const pr=BPROG[b[0]]||[null,1],cur=pr[0]?Math.min(A[pr[0]]||0,pr[1]):0;return{id:b[0],t:b[1],d:b[2],g:b[3],tier:b[4],got:b[5](A),cur,need:pr[1],unit:pr[0]}})}}
 window.badgeState=badgeState;
 function toast(h){let t=document.getElementById('toasts');if(!t){t=document.createElement('div');t.id='toasts';document.body.appendChild(t)}
   const e=document.createElement('div');e.className='toast';e.innerHTML=h;t.appendChild(e);setTimeout(()=>{e.classList.add('out');setTimeout(()=>e.remove(),600)},CALM?3500:4200)}
