@@ -75,13 +75,16 @@ const BADGES=[
  ['x10000','Mythic','Earn 10000 XP','','l',A=>A.xp>=10000]];
 /* quiz question text: intro line, numbered statements on their own rows, and the closing ask */
 function fmtQ(t){return String(t).split('\n').map(x=>x.trim()).filter(Boolean).map(x=>{const m=x.match(/^((?:\d+|[A-D]|[IVX]+|Statement[- ]?(?:I{1,2}|[12]))[.):]?)\s+(.*)$/i);return m?`<div class="qs"><i>${m[1]}</i><span>${m[2]}</span></div>`:`<p>${x}</p>`}).join('')}
+/* a different Lumen picture for every badge (used in the pop-up and on legendary stickers) */
+const BADGEPOSE={first:'rewards-1',l10:'study-4',l25:'study-2',l100:'rewards-5',s3:'streak-1',s7:'streak-6',s30:'daily-5',p1:'sunglasses-2',p10:'expressions-front-5',t1:'review-3',t5:'study-5',r1:'review-1',r10:'review-2',r50:'misc-2',m1:'expressions-front-4',m80:'study-1',sub3:'subjects-a-3',sub6:'subjects-b-1',x500:'rewards-4',x3000:'misc-4',
+ l250:'review-5',l500:'review-6',s60:'streak-4',s100:'streak-5',p50:'review-4',r200:'study-6',t20:'rewards-3',mx100:'rewards-2',sub11:'rewards-6',x10000:'misc-1'};window.BADGEPOSE=BADGEPOSE;
 function badgeState(){const A=stats();return{A,level:lvlOf(A.xp),all:BADGES.map(b=>({id:b[0],t:b[1],d:b[2],g:b[3],tier:b[4],got:b[5](A)}))}}
 window.badgeState=badgeState;
 function toast(h){let t=document.getElementById('toasts');if(!t){t=document.createElement('div');t.id='toasts';document.body.appendChild(t)}
   const e=document.createElement('div');e.className='toast';e.innerHTML=h;t.appendChild(e);setTimeout(()=>{e.classList.add('out');setTimeout(()=>e.remove(),600)},CALM?3500:4200)}
 /* quiet=true records what is already earned without celebrating (first run, after sign-in) */
 function checkBadges(quiet){const st=badgeState(),got=st.all.filter(b=>b.got).map(b=>b.id);let seen=null;try{seen=JSON.parse(ls.get('lb:badges')||'null')}catch(e){}
-  if(seen&&!quiet)st.all.filter(b=>b.got&&!seen.includes(b.id)).forEach((b,i)=>setTimeout(()=>toast(`<span class="ltile sm">${b.tier==='l'?LUM('rewards-3'):LUM('rewards-2')}</span><span><small>${b.tier==='l'?'Legendary badge':'New badge'}</small><b>${b.t}</b></span>`),i*900));
+  if(seen&&!quiet)st.all.filter(b=>b.got&&!seen.includes(b.id)).forEach((b,i)=>setTimeout(()=>toast(`<span class="ltile sm">${LUM(BADGEPOSE[b.id]||'rewards-2')}</span><span><small>${b.tier==='l'?'Legendary badge':'New badge'}</small><b>${b.t}</b></span>`),i*900));
   ls.set('lb:badges',JSON.stringify([...new Set([...(seen||[]),...got])]));renderLevel()}
 window.checkBadges=checkBadges;
 function renderLevel(){const el=document.getElementById('lvl');if(!el)return;const v=lvlOf(stats().xp);

@@ -535,3 +535,12 @@ body:not([data-view="home"]) .ambient *,body:not([data-view="home"]) #heroArt,bo
 body:not([data-view="home"]) .lhl figure,body:not([data-view="home"]) .lhl figure::before,body:not([data-view="home"]) .lhl figure::after{animation-play-state:paused}
 @media (prefers-reduced-motion:reduce){.lhl figure,.lhl figure::before,.lhl figure::after{animation:none}}
 #heroArt .lhl img{position:static;inset:auto;width:100%;height:auto;object-fit:contain;opacity:1;mask-image:none;-webkit-mask-image:none}
+
+/* badges live in a drop-down in Me */
+.bdrop{margin:26px 0 22px;border:1px solid var(--line);border-radius:16px;background:rgba(255,255,255,.04);overflow:hidden}
+.bdrop>summary{list-style:none;cursor:pointer;display:flex;align-items:center;gap:10px;padding:14px 16px;font:600 19px var(--font-display);color:#fff}
+.bdrop>summary::-webkit-details-marker{display:none}
+.bdrop>summary::after{content:"";margin-left:auto;width:9px;height:9px;border-right:2px solid currentColor;border-bottom:2px solid currentColor;transform:rotate(45deg) translateY(-2px);transition:transform .25s var(--ease);opacity:.7}
+.bdrop[open]>summary::after{transform:rotate(-135deg) translateY(-2px)}
+.bdrop>summary .cnt{font:500 12px var(--font-body);opacity:.6;min-width:0}
+.bdrop .badges{padding:4px 12px 14px;margin-bottom:0}
