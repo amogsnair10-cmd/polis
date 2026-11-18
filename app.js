@@ -136,7 +136,7 @@ function photo(key,shape){const i=phInfo(key);if(!i)return '';const sh=i.dia?'ca
 function credit(key){const i=phInfo(key);return i?`<p class="imgcr">Image: <a href="${i.p.page}" target="_blank" rel="noopener">${i.c}</a></p>`:''}
 async function openL(id,card){
   let l;try{l=await getLesson(id)}catch(e){alert('This lesson could not load. Check your connection and try again.');return}
-  cur=id;lastI=-1;if(!/^(REVIEW|MIX)$|-T$/.test(id))ls.set('lb:last',JSON.stringify({s:SUB.id,id,t:l.title,ts:Date.now(),card:-1}));
+  cur=id;lastI=-1;window.Feel&&Feel.play('start');if(!/^(REVIEW|MIX)$|-T$/.test(id))ls.set('lb:last',JSON.stringify({s:SUB.id,id,t:l.title,ts:Date.now(),card:-1}));
   const cp=photo(id,'big');
   let h=`<div class="cd"><div class="ci marble cover">${id.endsWith('-T')?LUM('review-3','lumcov'):''}${id.endsWith('-T')?'':(cp||ldood(id,'dd big')||doodle(id,'dd big')||`<div class="em">${l.emoji}</div>`)}<div class="tag">${unitOf(id)}</div><h2>${l.title}</h2><p class="hint">Swipe left to begin</p>${cp?credit(id):''}</div></div>`;
   const have=(DOODLES.lessons||{})[SUB.id]||[],pool=have.filter(n=>n===id||n.startsWith(id+'_')),POS=['r','b','t','l','b','r','l','t'],off=[...id].reduce((x,ch)=>x+ch.charCodeAt(0),0);
@@ -161,7 +161,7 @@ deck.addEventListener('click',e=>{const b=e.target.closest('.opt');if(!b)return;
   const Q=L[cur].quiz[q];ans[q]=j===Q.a;window.Feel&&Feel.play(j===Q.a?'good':'bad');if(Q._r)rmark(Q._r.id,Q._r.q,j===Q.a);else if(j!==Q.a&&!cur.endsWith('-T'))rmark(cur,q,false);b.parentNode.querySelectorAll('.opt').forEach((o,k)=>{if(k===Q.a)o.classList.add('r');else if(k===j)o.classList.add('w')});
   const w=document.getElementById('w'+q);w.innerHTML=(j===Q.a?'<b>Correct.</b> ':'<b>Not quite.</b> ')+Q.w;w.classList.add('on');setTimeout(()=>w.scrollIntoView({behavior:CALM?'auto':'smooth',block:'nearest'}),250);
   if(Object.keys(ans).length===L[cur].quiz.length)finish()});
-function countUp(el,to){if(!el)return;if(CALM){el.textContent=to;return}let n=0;const step=()=>{el.textContent=n;if(n++<to)setTimeout(step,1000/Math.max(to,1))};step()}
+function countUp(el,to){if(!el)return;if(CALM){el.textContent=to;return}let n=0;if(window.Feel)Feel._xp=0;const step=()=>{el.textContent=n;if(window.Feel&&n>0&&n<=to)Feel.play('xp');if(n++<to)setTimeout(step,1000/Math.max(to,1))};step()}
 function goQ(i){deck.scrollTo({left:(1+(window.LCOUNT||0)+i)*deck.clientWidth,behavior:CALM?'auto':'smooth'})}
 function meter(sc,n,f){const C=(2*Math.PI*54).toFixed(1),tier=f>=.8?'gold':f>=.6?'silver':'amber';
   const dots=Array.from({length:n},(_,i)=>`<button class="dt ${ans[i]?'ok':'bad'}" onclick="goQ(${i})" aria-label="Question ${i+1}: ${ans[i]?'correct':'missed'}"></button>`).join('');
