@@ -11,7 +11,7 @@
   {
    "tag": "The statement",
    "h": "Position and momentum",
-   "b": "<div class=\"box\"><h4>The rule</h4>Δx × Δp ≥ ħ/2. Δx is the spread in position, Δp the spread in momentum (mass times velocity), and ħ is Planck's constant divided by 2π. Their product has a floor.</div><p>In words: the more tightly you pin down where a particle is, the more spread out its momentum must be, and the reverse. Earl Kennard proved this exact form in 1927.</p>"
+   "b": "<div class=\"box\"><h4>The rule</h4>Δx × Δp ≥ ħ/2. Δx is the spread in position, Δp the spread in momentum (mass times velocity), and ħ is Planck's constant divided by 2π. Their product has a floor.</div><p>Here Δx is the spread in position in metres, Δp the spread in momentum in kilogram-metres per second, and hbar (h-bar) the reduced Planck constant, about 1.05 x 10 to the power minus 34 joule-seconds.</p><p>In words: the more tightly you pin down where a particle is, the more spread out its momentum must be, and the reverse. Earl Kennard proved this exact form in 1927.</p>"
   },
   {
    "tag": "Where it comes from",
@@ -42,6 +42,11 @@
    "tag": "Indian angle",
    "h": "LIGO-India and squeezed light",
    "b": "<p>Gravitational wave detectors like LIGO fight quantum limits. They use \"squeezed light\", which trades uncertainty in one property for the other, to see tinier ripples. India has approved <b>LIGO-India</b> (Union Cabinet, April 2023, about ₹2,600 crore) at Aundha in Hingoli district, Maharashtra, expected to operate in the early 2030s. Indian scientists at IUCAA Pune, RRCAT Indore and IPR Gandhinagar are partners.</p>"
+  },
+  {
+   "tag": "Go deeper",
+   "h": "Why an electron cannot sit in a nucleus",
+   "b": "<p>The uncertainty rule is not about clumsy measuring. Pinning a particle into a small space forces its speed to spread out, and the spread follows a clear formula.</p><p><b>Worked example: an electron trapped in 0.1 nanometres.</b><br>Step 1: position spread is 1.0 x 10 to the power minus 10 m.<br>Step 2: momentum spread is at least hbar divided by (2 x position spread). Hbar is about 1.05 x 10 to the power minus 34 joule-seconds.<br>Step 3: 1.05 x 10 to the power minus 34, divided by 2.0 x 10 to the power minus 10, is about 5.3 x 10 to the power minus 25 kg m/s.<br>Step 4: speed spread = momentum divided by mass: 5.3 x 10 to the power minus 25, divided by 9.1 x 10 to the power minus 31, is about 580 km/s.</p><p><b>Now the nucleus.</b> Its width is about 10 to the power minus 15 m, a hundred thousand times smaller. Repeat the steps and the speed spread comes out near 6 x 10 to the power 10 m/s. That is about 200 times the speed of light.</p><p>This is a rough estimate, but the conclusion holds: an electron cannot be held inside a nucleus the way it sits in an atom. Intuition: the tighter the cage, the wilder the kicks inside it.</p>"
   },
   {
    "tag": "Recap",

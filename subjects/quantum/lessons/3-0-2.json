@@ -49,6 +49,11 @@
    "b": "<p>In April 2025 the Bengaluru start-up QpiAI launched QpiAI-Indus, billed as India's first full-stack 25-qubit superconducting quantum computer. A larger machine has been announced. India's National Quantum Mission (approved April 2023) sets a goal of 50 to 1,000 physical qubits over eight years. TIFR and IISc are building superconducting qubits; the IISc-led hub focuses on computing.</p>"
   },
   {
+   "tag": "Go deeper",
+   "h": "Counting the amplitudes",
+   "b": "<p>A quantum computer is not simply a faster laptop. Its potential comes from how many amplitudes a set of qubits can hold, and that number grows very fast.</p><p><b>Worked example: how many amplitudes do n qubits need?</b><br>Step 1: each qubit has two basic states, 0 and 1.<br>Step 2: n qubits together have 2 to the power n basic states.<br>Step 3: 10 qubits: 2 to the power 10 = 1024 amplitudes.<br>Step 4: 50 qubits: 2 to the power 50 is about 1.1 x 10 to the power 15.<br>Step 5: 300 qubits: 2 to the power 300 is about 2 x 10 to the power 90. That is far more than the roughly 10 to the power 80 atoms in the observable universe.</p><p>Each extra qubit doubles the list, which is why the numbers jump so quickly.</p><p>Intuition: the amplitudes exist, but reading them out gives only one answer per run. The skill is to arrange interference so the right answer is the one that gets through. That is why only some problems speed up. Searching a list, factoring large numbers and simulating molecules are the usual examples.</p>"
+  },
+  {
    "tag": "Recap",
    "h": "Key takeaways and think-about-it",
    "b": "<ul><li>Qubits use superposition and entanglement; algorithms use interference.</li><li>Shor (1994) threatens RSA; Grover (1996) gives a square-root speed-up.</li><li>Error correction is the main hurdle; practical advantage is not yet broad (as of 2026).</li></ul><div class=\"box\"><h4>Think about it</h4><ol><li>Why does measuring a quantum computer give only one answer?</li><li>Why can 300 qubits not be simulated classically?</li></ol></div>",

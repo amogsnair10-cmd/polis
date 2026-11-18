@@ -49,6 +49,11 @@
    "b": "<p>E.C.G. Sudarshan, one of India's most famous theorists, helped build the language used to describe measurement and decoherence in open quantum systems (GKSL equation, 1976, with Gorini, Kossakowski and Lindblad). The ancient \"many ways of seeing\" tradition in Indian philosophy is sometimes compared with interpretations, but those are analogies, not physics.</p>"
   },
   {
+   "tag": "Go deeper",
+   "h": "How many worlds after ten clicks",
+   "b": "<p>Every interpretation of quantum theory makes the same predictions. Many-worlds is the easiest to count, because it multiplies branches.</p><p><b>Worked example: a spin measured 10 times, each test a 50-50 result.</b><br>Step 1: before any test there is 1 branch.<br>Step 2: each test splits every existing branch into two.<br>Step 3: after 1 test there are 2 branches. After 2 tests, 4. After 3 tests, 8.<br>Step 4: the rule is 2 to the power of the number of tests.<br>Step 5: after 10 tests, 2 to the power 10 = 1024 branches.</p><p>In the many-worlds story, each of those 1024 branches is a real world with one result, and you find yourself in just one of them. Copenhagen says the wave is replaced by one result at the click. Bohm says the particle always had a definite position, steered by a guiding wave. All three give the same 50-50 odds, so experiments alone have not picked a winner.</p><p>Intuition: many-worlds adds branches rather than a special collapse rule. Critics ask why the odds should apply to \"your\" branch, and supporters argue the odds can be derived. The debate continues.</p>"
+  },
+  {
    "tag": "Recap",
    "h": "Key takeaways and think-about-it",
    "b": "<ul><li>All interpretations agree on predictions but tell different stories.</li><li>Copenhagen (collapse), many-worlds (branches), pilot wave (particles plus guide), collapse models (testable).</li><li>Bell tests narrow the choices but do not pick one.</li></ul><div class=\"box\"><h4>Think about it</h4><ol><li>Which interpretations keep a single definite world, and what do they give up?</li><li>Why are collapse models more scientific in the sense of testing than others?</li></ol></div>",

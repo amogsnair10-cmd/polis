@@ -44,6 +44,11 @@
    "b": "<p>The Sun's yellow line that revealed helium was observed during the total solar eclipse of 18 August 1868 by the French astronomer Pierre Janssen from Guntur, India. Norman Lockyer in England concluded it was a new element.</p><p>Meghnad Saha (1920) used atomic levels to explain star spectra: hotter stars strip atoms of electrons, so the lines change. The Saha equation is the basis of stellar classification. C.V. Raman's effect (1928) also reads the vibration levels of molecules.</p>"
   },
   {
+   "tag": "Go deeper",
+   "h": "Working out the red line of hydrogen",
+   "b": "<p>Bohr's model made a clear prediction: its energy levels should match the colours hydrogen glows. Here is the calculation for the famous red line.</p><p><b>Worked example: an electron falling from level 3 to level 2.</b><br>Step 1: the energy of level n is minus 13.6 divided by n squared, in electron-volts.<br>Step 2: level 3 is minus 13.6 divided by 9, about minus 1.51 eV.<br>Step 3: level 2 is minus 13.6 divided by 4, about minus 3.40 eV.<br>Step 4: the energy given out is 3.40 minus 1.51, about 1.89 eV.<br>Step 5: wavelength = 1240 divided by 1.89, about 656 nanometres.<br>Step 6: 656 nm is red. The measured hydrogen line sits at about 656 nm.</p><p>Intuition: the levels are like rungs of a ladder that get closer together as you climb. A fall from a higher rung to a lower one releases a fixed packet, and each pair of rungs gives its own colour.</p><p>Why does this matter? Every element has its own set of rungs, so every element glows in its own colours. Astronomers identify gases in distant stars by matching these lines.</p>"
+  },
+  {
    "tag": "Recap",
    "h": "Key takeaways and think-about-it",
    "b": "<ul><li>Atoms give light of only certain colours because electrons have only certain energy levels.</li><li>Bohr (1913): photon energy equals the gap between levels.</li><li>Franck-Hertz (1914) proved levels; Bohr's orbits were later replaced by orbitals, but the levels stayed.</li></ul><div class=\"box\"><h4>Think about it</h4><ol><li>Why does a neon sign glow a different colour from a hydrogen lamp?</li><li>Why was the \"falling electron\" problem such a worry for Rutherford's atom?</li></ol></div>",

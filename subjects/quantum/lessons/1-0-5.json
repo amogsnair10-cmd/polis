@@ -49,6 +49,11 @@
    "b": "<p>Particles with whole-number spin are named <b>bosons</b> after S.N. Bose, the name coined by Paul Dirac. Bose's counting for photons (spin 1) applies to all of them. Nuclear magnetic resonance and MRI are widely used in India, and spin-based quantum devices are a research thrust in NQM hubs at IIT Bombay (sensing) and TIFR.</p>"
   },
   {
+   "tag": "Go deeper",
+   "h": "Tilting the filter: the cosine rule",
+   "b": "<p>Spin acts like a tiny magnet that can point in any direction. Measuring it always gives \"along the chosen direction\" or \"against it\", but a tilted filter gives a precise chance.</p><p><b>Worked example: atoms sorted as spin up along z, then a filter tilted by 60 degrees.</b><br>Step 1: the chance of passing a filter tilted by angle theta is cos squared of (theta divided by 2).<br>Step 2: theta is 60 degrees, so theta divided by 2 is 30 degrees.<br>Step 3: cos 30 degrees is about 0.87.<br>Step 4: square it: 0.87 squared is about 0.75.<br>Step 5: so 75 percent pass. A 90 degree tilt gives 50 percent. A 180 degree tilt, a full flip, gives 0.</p><p>Here theta is the tilt angle between the two directions, and cos is the cosine function from trigonometry, which runs from 1 (no tilt) down to 0 (a right angle).</p><p>Intuition: the filter only sees part of the atom's direction. The closer the filter points to the atom's own direction, the more atoms pass. Flip it fully and everything is blocked.</p>"
+  },
+  {
    "tag": "Recap",
    "h": "Key takeaways and think-about-it",
    "b": "<ul><li>Stern-Gerlach (1922): silver atoms split into two spots, so magnetic direction is quantised.</li><li>Spin is intrinsic, not a spinning ball.</li><li>Spin along different axes cannot both be sharp.</li></ul><div class=\"box\"><h4>Think about it</h4><ol><li>Why does a second test along z give 50-50 again after an x test?</li><li>Why can an electron's spin not be due to a literally spinning ball?</li></ol></div>",

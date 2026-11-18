@@ -11,7 +11,7 @@
   {
    "tag": "The equation in words",
    "h": "What it says",
-   "b": "<div class=\"box\"><h4>Schrödinger's equation</h4>The rate at which ψ changes in time depends on the energy of the system (its \"Hamiltonian\"): iħ ∂ψ/∂t = Hψ. In words: energy decides how the wave evolves.</div><p>Like Newton's laws, it is <b>deterministic</b>: given ψ now, it fixes ψ later exactly. The randomness comes only at measurement, when Born's rule gives the odds. Two different rules: smooth evolution between, random jump at a click.</p>"
+   "b": "<div class=\"box\"><h4>Schrödinger's equation</h4>The rate at which ψ changes in time depends on the energy of the system (its \"Hamiltonian\"): iħ ∂ψ/∂t = Hψ. In words: energy decides how the wave evolves.</div><p>Here psi is the wavefunction, t is time, ∂psi/∂t means how fast psi changes with time, hbar is the reduced Planck constant (Planck's constant divided by 2 pi), and H is the Hamiltonian, the operator for total energy.</p><p>Like Newton's laws, it is <b>deterministic</b>: given ψ now, it fixes ψ later exactly. The randomness comes only at measurement, when Born's rule gives the odds. Two different rules: smooth evolution between, random jump at a click.</p>"
   },
   {
    "tag": "Standing waves",
@@ -47,6 +47,11 @@
    "tag": "Indian angle",
    "h": "Raman spectra and Indian quantum chemistry",
    "b": "<p>The levels of molecular vibration and rotation come from Schrödinger's equation, and the Raman effect (1928) reads them directly. Raman spectroscopy is used today in Indian labs from IISc and IACS Kolkata (Raman's own institute) to forensic and pharma testing. Quantum chemistry methods, built on this equation, drive materials research under India's National Quantum Mission.</p>"
+  },
+  {
+   "tag": "Go deeper",
+   "h": "Squeezing a box raises the energy fourfold",
+   "b": "<p>Schrödinger's equation has a clean test case: a particle trapped in a box with hard walls. It shows how squeezing alone pushes the energy up.</p><p><b>Worked example: an electron in a box 0.1 nanometres wide.</b><br>Step 1: the lowest energy in such a box is E = h squared divided by (8 x mass x width squared).<br>Step 2: h squared is about 4.4 x 10 to the power minus 67. The mass is 9.1 x 10 to the power minus 31 kg. The width squared is 10 to the power minus 20 m squared.<br>Step 3: bottom line: 8 x 9.1 x 10 to the power minus 31, times 10 to the power minus 20, is about 7.3 x 10 to the power minus 50.<br>Step 4: E = 4.4 x 10 to the power minus 67, divided by 7.3 x 10 to the power minus 50, about 6.0 x 10 to the power minus 18 joules.<br>Step 5: in electron-volts, divide by 1.6 x 10 to the power minus 19: about 38 eV.<br>Step 6: halve the width to 0.05 nm. Width squared becomes one quarter, so the energy is four times bigger: about 150 eV.</p><p>Intuition: the wave must fit inside the box. A narrower box allows only shorter waves, which carry more energy.</p><p>Even the lowest level has energy. That minimum grows as the space shrinks, so a particle in a tight space is never still.</p>"
   },
   {
    "tag": "Recap",

@@ -54,6 +54,11 @@
    "b": "<p>Meghnad Saha's 1920 ionisation equation used atomic energy levels to read stellar spectra. C.V. Raman and K.S. Krishnan's spectroscopy (1928) probes molecular energy levels. Indian quantum chemists such as Charusita Chakravarty and others work on computing orbitals for materials; the National Quantum Mission funds quantum materials work at IIT Delhi.</p>"
   },
   {
+   "tag": "Go deeper",
+   "h": "Counting electrons, shell by shell",
+   "b": "<p>The periodic table lists atoms by how many electrons they hold. The Pauli rule decides how many electrons can fit in each shell.</p><p><b>Worked example: the electron count of sodium (11 electrons).</b><br>Step 1: the first shell holds 2 electrons. Fill it: 2 used, 9 left.<br>Step 2: the second shell holds 8 (two in s, six in p). Fill it: 8 used, 1 left.<br>Step 3: the third shell starts with s, which holds 2. Only 1 electron is left, so it goes into 3s.<br>Step 4: write the full set as 1s squared, 2s squared, 2p six, 3s one.<br>Step 5: that single outer electron in 3s is why sodium is so reactive. It is easy to lose, just as potassium below it in the same column is.</p><p>Why are sodium and potassium alike? Both end with one lonely outer electron. Chemistry depends mostly on outer electrons, so atoms in the same column behave alike.</p><p>Each shell's capacity is 2 x n squared, where n is the shell number: 2, 8, 18, 32. This sequence follows directly from the rule that no two electrons share a state.</p>"
+  },
+  {
    "tag": "Recap",
    "h": "Key takeaways and think-about-it",
    "b": "<ul><li>Orbitals are odds clouds with four labels (n, l, m, spin).</li><li>Pauli (1925): no two electrons share the same state; each orbital holds two.</li><li>Shell filling explains the periodic table and keeps matter from collapsing.</li></ul><div class=\"box\"><h4>Think about it</h4><ol><li>Why are sodium and potassium chemically alike?</li><li>What would the periodic table look like without the Pauli principle?</li></ol></div>",

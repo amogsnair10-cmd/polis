@@ -21,7 +21,7 @@
   {
    "tag": "Planck's fix",
    "h": "Energy in lumps",
-   "b": "<p>Max Planck, in December 1900, found a formula that matched the data perfectly. To justify it he made an assumption he called an \"act of desperation\": the tiny oscillators in the oven wall can only swap energy in whole packets.</p><div class=\"box\"><h4>The rule</h4>E = h × f. A packet of energy (a \"quantum\") equals frequency f times a tiny constant h, now called Planck's constant (about 6.6 × 10⁻³⁴ joule-seconds).</div><p>High-frequency (short-wave) packets are big. At a given temperature there is rarely enough energy to make one, so they are rare. That kills the ultraviolet catastrophe.</p>"
+   "b": "<p>Max Planck, in December 1900, found a formula that matched the data perfectly. To justify it he made an assumption he called an \"act of desperation\": the tiny oscillators in the oven wall can only swap energy in whole packets.</p><div class=\"box\"><h4>The rule</h4>E = h × f. A packet of energy (a \"quantum\") equals frequency f times a tiny constant h, now called Planck's constant (about 6.6 × 10⁻³⁴ joule-seconds).</div><p>Here E is the energy of one packet in joules, f is its frequency in hertz (waves per second) and h is Planck's constant, about 6.6 x 10 to the power minus 34 joule-seconds.</p><p>High-frequency (short-wave) packets are big. At a given temperature there is rarely enough energy to make one, so they are rare. That kills the ultraviolet catastrophe.</p>"
   },
   {
    "tag": "Analogy",
@@ -47,6 +47,11 @@
    "tag": "Indian angle",
    "h": "S.N. Bose and the photon gas",
    "b": "<p>In 1924 Satyendra Nath Bose, a lecturer at Dhaka University, derived Planck's law in a new way. He counted light quanta as identical and used pure counting, with no help from the old wave theory. Many referees would not take it. Bose sent the paper to Einstein, who translated it into German and had it published in the Zeitschrift fuer Physik.</p><p>Bose's counting method became <b>Bose-Einstein statistics</b>, and particles that follow it are called <b>bosons</b>. It was the first time the quantum rule was derived from first principles.</p>"
+  },
+  {
+   "tag": "Go deeper",
+   "h": "Why a blue packet carries more energy",
+   "b": "<p>Planck's rule makes one thing concrete: the energy of one packet depends only on its frequency. Blue light has a higher frequency than red, so each blue packet is bigger.</p><p><b>Worked example: how much bigger is a blue packet?</b><br>Step 1: take red light at about 700 nanometres (700 billionths of a metre).<br>Step 2: frequency = speed of light divided by wavelength: 3 x 10 to the power 8, divided by 7 x 10 to the power minus 7, is about 4.3 x 10 to the power 14 waves per second.<br>Step 3: take blue light at about 450 nanometres.<br>Step 4: its frequency is 3 x 10 to the power 8, divided by 4.5 x 10 to the power minus 7, about 6.7 x 10 to the power 14.<br>Step 5: red packet energy = h x f = 6.6 x 10 to the power minus 34, times 4.3 x 10 to the power 14, about 2.8 x 10 to the power minus 19 joules.<br>Step 6: blue packet energy = 6.6 x 10 to the power minus 34, times 6.7 x 10 to the power 14, about 4.4 x 10 to the power minus 19 joules.<br>Step 7: 4.4 divided by 2.8 is about 1.6.</p><p>So one blue packet carries about one and a half times the energy of one red packet.</p><p>Planck first presented this idea on 14 December 1900. He did not think light was really made of packets; he saw it as a clever fit to the data. Einstein later took them seriously.</p>"
   },
   {
    "tag": "Recap",

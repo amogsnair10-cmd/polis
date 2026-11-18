@@ -49,6 +49,11 @@
    "b": "<p>Urbasi Sinha's group at the Raman Research Institute, Bengaluru, runs single-photon interference experiments. In 2010, with colleagues at Waterloo, she reported a triple-slit test of the rule that probabilities come from adding two-path contributions only (published in Science), finding no sign of extra terms. Such tests also support India's National Quantum Mission aims in photonics.</p><p>S.N. Bose's photon counting (1924) is part of the same story: photons that are indistinguishable behave in ways ordinary balls cannot.</p>"
   },
   {
+   "tag": "Go deeper",
+   "h": "Closing one slit can light up a dark spot",
+   "b": "<p>The double slit holds a sharp lesson beyond \"waves interfere\". Opening a second path can make a spot darker than it was with only one path open.</p><p><b>Worked example: one spot P on the screen.</b><br>Step 1: with only slit A open, the chance an electron lands at P is 0.25 (one in four).<br>Step 2: with only slit B open, the chance is also 0.25.<br>Step 3: if each electron simply took one path or the other, the total would be 0.25 plus 0.25, which is 0.5.<br>Step 4: with both slits open, each path gives an amplitude. At P they are +0.5 and minus 0.5.<br>Step 5: add the amplitudes: 0.5 minus 0.5 gives 0.<br>Step 6: square it: the chance at P is 0.</p><p>So opening slit B turns a spot with a 25 percent chance into a spot with none. Each single path has a positive chance, yet together they cancel. Think of two pond ripples that arrive out of step and flatten each other.</p><p>No electron is bumped by the other slit. The cancellation happens in the amplitudes before any click, so the pattern is a fact about the whole set-up.</p>"
+  },
+  {
    "tag": "Recap",
    "h": "Key takeaways and think-about-it",
    "b": "<ul><li>Single electrons land as dots but make stripes in the long run.</li><li>Learning the path destroys the stripes.</li><li>The maths is agreed; the story of what happened in between is debated.</li></ul><div class=\"box\"><h4>Think about it</h4><ol><li>Why does the stripe pattern build up from single dots prove the stripes are not caused by electrons bumping each other?</li><li>What would you expect if a slit were blocked after the electron passed it?</li></ol></div>",

@@ -49,6 +49,11 @@
    "b": "<p>Indian groups at ISI Kolkata, HRI Prayagraj, IMSc and RRI have worked on Bell inequalities and \"device-independent\" security, where certainty comes from a Bell violation alone. This underpins the quantum key distribution being developed under India's National Quantum Mission.</p>"
   },
   {
+   "tag": "Go deeper",
+   "h": "The CHSH score: 2 versus about 2.83",
+   "b": "<p>The CHSH score combines four correlation numbers, each between minus 1 and plus 1, into one total S. Pre-set local answers can never push S above 2. Entangled particles can.</p><p><b>Worked example: the best that pre-set answers can do.</b><br>Step 1: let Alice's two settings have pre-set answers A and A', and Bob's two settings have B and B'. Each answer is plus 1 or minus 1.<br>Step 2: S = A x B + A x B' + A' x B - A' x B'. Group it: A x (B + B') + A' x (B - B').<br>Step 3: B and B' are each plus or minus 1, so one of (B + B') and (B - B') is 0 and the other is plus or minus 2.<br>Step 4: so S is never bigger than 2. Test it: A = 1, A' = 1, B = 1, B' = -1 gives S = 1 - 1 + 1 + 1 = 2.</p><p><b>Quantum entanglement with the best angles</b> gives S of 2 times the square root of 2, about 2.83. That is above the local limit of 2, and real experiments have reached values above 2, close to the quantum figure.</p><p>Intuition: a fixed plan is like a team that agrees all its answers in advance. It cannot beat 2. Entangled particles can, and the gain is real.</p>"
+  },
+  {
    "tag": "Recap",
    "h": "Key takeaways and think-about-it",
    "b": "<ul><li>Bell (1964), CHSH (1969): local hidden values give S ≤ 2; quantum gives up to 2.83.</li><li>Experiments (1972, 1982, 2015, 2018) violate the limit.</li><li>2022 Nobel: Aspect, Clauser and Zeilinger.</li></ul><div class=\"box\"><h4>Think about it</h4><ol><li>Why did Aspect change the detector settings during flight?</li><li>Why does a Bell violation not let us send messages faster than light?</li></ol></div>",

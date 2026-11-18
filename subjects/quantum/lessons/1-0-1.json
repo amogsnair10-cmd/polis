@@ -11,7 +11,7 @@
   {
    "tag": "The wave that is not a wave",
    "h": "What the wavefunction is",
-   "b": "<p>De Broglie's matter wave and Schrödinger's equation (next lesson) describe a wave spread over space. But what is waving? Schrödinger first hoped it was a smeared-out electron. It could not be: electrons always show up as whole points.</p><p>In 1926 Max Born made the key proposal. The wave is a wave of <b>probability amplitude</b>. At each place it has a size, and the size squared is the chance of finding the particle there.</p><div class=\"box\"><h4>Born rule</h4>Probability density = |ψ|². Read as \"the size of psi, squared\". Born received a share of the 1954 Nobel Prize for it.</div>"
+   "b": "<p>De Broglie's matter wave and Schrödinger's equation (next lesson) describe a wave spread over space. But what is waving? Schrödinger first hoped it was a smeared-out electron. It could not be: electrons always show up as whole points.</p><p>In 1926 Max Born made the key proposal. The wave is a wave of <b>probability amplitude</b>. At each place it has a size, and the size squared is the chance of finding the particle there.</p><div class=\"box\"><h4>Born rule</h4>Probability density = |ψ|². Read as \"the size of psi, squared\". Born received a share of the 1954 Nobel Prize for it.</div><p>Here |psi| is the size of the wavefunction at a spot (its absolute value, with no sign), and |psi| squared is the probability density, the chance per unit of space of finding the particle there.</p>"
   },
   {
    "tag": "Picture",
@@ -47,6 +47,11 @@
    "tag": "Indian angle",
    "h": "Probability and Indian physics",
    "b": "<p>Indian physicists contributed to the statistical side of quantum theory. S.N. Bose's 1924 counting rule decides the odds for identical particles. E.C.G. Sudarshan's 1963 representation (with Roy Glauber, who won the 2005 Nobel for his part) describes light quantum states using probability-like functions, a tool in quantum optics today.</p>"
+  },
+  {
+   "tag": "Go deeper",
+   "h": "Working out odds from a wave",
+   "b": "<p>The Born rule turns a wave into odds. Take the amplitude at a spot, square it, and you have the chance of a click there. The squaring step is the key.</p><p><b>Worked example: two boxes, A and B.</b><br>Step 1: the wave has amplitude 0.6 at box A and 0.8 at box B.<br>Step 2: square each one. For A, 0.6 squared is 0.36. For B, 0.8 squared is 0.64.<br>Step 3: check: 0.36 plus 0.64 is exactly 1. The chances must add to 1 for the wave to be properly normalised.<br>Step 4: out of 100 runs, expect about 36 clicks in A and about 64 in B.</p><p>Intuition: think of the amplitude as the wave's height at a spot, and its square as the chance. Halve the amplitude and the chance falls to a quarter, so small differences in height matter a lot.</p><p>Add a third box C with amplitude 0. Its chance is 0 squared, which is 0, so it never gets a click. Zero amplitude means never.</p><p>Caution: one run tells you nothing about the odds. Only the pattern over many runs shows the 36 and 64 split, and even then it varies a little from run to run.</p>"
   },
   {
    "tag": "Recap",

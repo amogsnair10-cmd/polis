@@ -49,6 +49,11 @@
    "b": "<p>A.K. Raychaudhuri (Kolkata, 1955) derived an equation about how matter focuses under gravity; it is a basis of the Penrose-Hawking singularity theorems. Abhay Ashtekar, born in India, is a founder of loop quantum gravity. Ashoke Sen (HRI Prayagraj, now ICTS Bengaluru) is a leading string theorist. Sougato Bose (UCL, India-born) proposed the entanglement test. LIGO-India (approved 2023) will add a detector to the gravitational-wave network.</p>"
   },
   {
+   "tag": "Go deeper",
+   "h": "The Planck energy versus the LHC",
+   "b": "<p>The Planck scale is where gravity and quantum effects are expected to meet. It lies far beyond anything our machines can probe, and the numbers show why.</p><p><b>Worked example: how far is the Planck energy from the LHC?</b><br>Step 1: the Planck energy is about 1.2 x 10 to the power 19 GeV (billion electron-volts).<br>Step 2: the LHC collides protons at about 13 TeV, which is 1.3 x 10 to the power 4 GeV.<br>Step 3: divide: 1.2 x 10 to the power 19, divided by 1.3 x 10 to the power 4, is about 10 to the power 15.<br>Step 4: so the Planck energy is about a million billion times the LHC's collision energy.<br>Step 5: the Planck length is about 1.6 x 10 to the power minus 35 m. A proton is about 10 to the power minus 15 m across, so the Planck length is about 6 x 10 to the power 19 times smaller.</p><p>Intuition: quantum gravity is not missing a clever experiment. It needs energies far beyond any accelerator on Earth. Scientists look for indirect clues instead, such as the hints from black hole evaporation.</p>"
+  },
+  {
    "tag": "Recap",
    "h": "Key takeaways and think-about-it",
    "b": "<ul><li>General relativity and quantum theory conflict at the Planck scale.</li><li>Hawking radiation and black hole entropy hint at a link; the information paradox is open.</li><li>String theory and loop quantum gravity are untested; as of 2026 there is no accepted theory.</li></ul><div class=\"box\"><h4>Think about it</h4><ol><li>Why can we not just test quantum gravity in an accelerator?</li><li>What would it tell us if two tiny masses became entangled through gravity?</li></ol></div>",

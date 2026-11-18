@@ -49,6 +49,11 @@
    "b": "<p>S.N. Bose gave his name to bosons and to Bose-Einstein statistics; he was awarded the Padma Vibhushan in 1954. S. Chandrasekhar (born in Lahore, 1910) made the fermion argument for stars. India's labs also work with ultracold atoms, for example at the Raman Research Institute, Bengaluru, and these skills feed quantum sensing and computing under the National Quantum Mission.</p>"
   },
   {
+   "tag": "Go deeper",
+   "h": "Counting arrangements: three versus one",
+   "b": "<p>Identical particles give different counts from ordinary objects. This is what lets bosons pile up in one state and stops fermions from sharing.</p><p><b>Worked example: two identical particles and two states, called a and b.</b><br>Step 1: list the ways to place two particles: both in a, both in b, or one in each.<br>Step 2: for bosons, \"one in a, one in b\" counts once, because the particles are identical. Total: aa, bb, ab. That is 3 arrangements.<br>Step 3: for fermions, two particles cannot share a state. The only option is one in a and one in b. Total: 1 arrangement.<br>Step 4: for ordinary, distinguishable marbles you would get 4, because each marble can be labelled differently: ab and ba count separately.</p><p>Intuition: a boson crowd likes to sit together. Fermions refuse to share, so they fill the available states one by one.</p><p>Now make it bigger. Three identical bosons in two states give 4 arrangements: aaa, aab, abb, bbb. Three fermions cannot fit into two states at all, so there are 0 arrangements. That is why a fermion shell has a fixed size.</p><p>That is why the photons in a laser (bosons) pile into one beam, while the electrons in a metal (fermions) stack up energy levels until they are full.</p>"
+  },
+  {
    "tag": "Recap",
    "h": "Key takeaways and think-about-it",
    "b": "<ul><li>Fermions (half-integer spin) cannot share a state; bosons can.</li><li>BEC: bosons pile into one state; made in 1995, Nobel 2001.</li><li>Fermion crowding supports white dwarfs up to 1.4 solar masses (Chandrasekhar).</li></ul><div class=\"box\"><h4>Think about it</h4><ol><li>Why is helium-4 a boson but helium-3 a fermion?</li><li>How does the Pauli principle stop a white dwarf from collapsing?</li></ol></div>",

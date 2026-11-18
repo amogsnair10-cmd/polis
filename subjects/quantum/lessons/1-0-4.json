@@ -49,6 +49,11 @@
    "b": "<p>E.C.G. Sudarshan (with B. Misra) named the quantum Zeno effect in 1977. At the Tata Institute of Fundamental Research, Mumbai, R. Vijay's group builds superconducting circuits where qubits are held in superposition, one of the leading hardware efforts that feeds India's National Quantum Mission.</p>"
   },
   {
+   "tag": "Go deeper",
+   "h": "Random twice versus quantum twice",
+   "b": "<p>A superposition is not the same as a coin you have not looked at. The test below shows the difference with numbers.</p><p><b>Worked example: a particle goes through a 50-50 split, then another 50-50 split.</b><br><i>Classical coin:</i> the first flip sends the particle to 0 or 1, each with chance one half. Another 50-50 step follows. Chance of ending at 1 = 1/4 (via 0) plus 1/4 (via 1) = 1/2.<br><i>Quantum:</i> each step gives each route an amplitude of 1 divided by the square root of 2.<br>Step 1: route 0 to 0 to 1 gives (1 divided by square root of 2) x (1 divided by square root of 2) = 1/2.<br>Step 2: route 0 to 1 to 1 gives (1 divided by square root of 2) x (minus 1 divided by square root of 2) = -1/2. Notice the minus sign.<br>Step 3: add the two amplitudes: 1/2 plus (-1/2) = 0.<br>Step 4: square it: the chance of ending at 1 is 0. Every run ends at 0.</p><p>Intuition: the two routes to \"1\" cancel out. The classical coin has no sign to cancel with, so its chances simply add.</p><p>This is the same interference seen in the double slit. It shows the middle step was not a simple mix of two definite states, as a coin would be.</p>"
+  },
+  {
    "tag": "Recap",
    "h": "Key takeaways and think-about-it",
    "b": "<ul><li>Superposition is a genuine blend, shown by interference.</li><li>Measurement gives one result with Born-rule odds.</li><li>What collapse really is stays unsettled.</li></ul><div class=\"box\"><h4>Think about it</h4><ol><li>Why does stripes-at-the-output prove a photon took both paths?</li><li>If you look every instant, why might the system stay frozen?</li></ol></div>",

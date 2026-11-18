@@ -49,6 +49,11 @@
    "b": "<p>Scanning tunnelling microscopes are used in research at TIFR, IISc and the IITs to study new materials, including graphene and superconductors. Tunnelling junctions are the heart of the superconducting circuits being built in India under the National Quantum Mission.</p>"
   },
   {
+   "tag": "Go deeper",
+   "h": "Doubling a barrier makes tunnelling 30,000 times rarer",
+   "b": "<p>A rough guide is: chance is about e to the power of minus (2 x kappa x width), where kappa depends on the mass and on how high the barrier is above the particle's energy.</p><p><b>Worked example: an electron meeting a barrier 1 eV higher than its energy, 1 nanometre thick.</b><br>Step 1: kappa = square root of (2 x mass x height), divided by hbar. Mass is 9.1 x 10 to the power minus 31 kg, height is 1 eV = 1.6 x 10 to the power minus 19 J.<br>Step 2: 2 x 9.1 x 10 to the power minus 31 x 1.6 x 10 to the power minus 19 = 2.9 x 10 to the power minus 49. Its square root is about 5.4 x 10 to the power minus 25.<br>Step 3: kappa = 5.4 x 10 to the power minus 25, divided by 1.05 x 10 to the power minus 34, about 5.1 x 10 to the power 9 per metre.<br>Step 4: 2 x kappa x width = 2 x 5.1 x 10 to the power 9 x 1 x 10 to the power minus 9, about 10.2.<br>Step 5: chance = e to the power minus 10.2, about 4 x 10 to the power minus 5. That is roughly 1 in 27,000.<br>Step 6: double the width to 2 nm. The exponent doubles to about 20.5, and the chance falls to about 1 in 800 million.</p><p>Intuition: doubling the width makes tunnelling roughly 30,000 times rarer.</p>"
+  },
+  {
    "tag": "Recap",
    "h": "Key takeaways and think-about-it",
    "b": "<ul><li>Waves leak into barriers, so particles may appear beyond them.</li><li>It explains alpha decay (Gamow, 1928) and fusion in the Sun.</li><li>It powers STM, flash memory and superconducting qubits; 2025 Nobel Prize recognised it in circuits.</li></ul><div class=\"box\"><h4>Think about it</h4><ol><li>Why do electrons tunnel more easily than protons?</li><li>What would happen to the Sun's output without tunnelling?</li></ol></div>",

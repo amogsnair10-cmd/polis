@@ -49,6 +49,11 @@
    "b": "<p>C.K.N. Patel, an Indian-born engineer at Bell Labs, invented the carbon dioxide laser in 1964; it is used in industry and surgery. C.V. Raman's effect is the basis of Raman spectroscopy. India's own navigation system NavIC uses atomic clocks built into its satellites (ISRO's rubidium clocks, with some early failures in 2016-17). India's semiconductor mission, launched in 2021-22, aims to build chip fabs at home.</p>"
   },
   {
+   "tag": "Go deeper",
+   "h": "Band gaps set the colour",
+   "b": "<p>A semiconductor has a band gap: the energy a photon or electron needs to jump across. That one number sets which light a material absorbs or gives out.</p><p><b>Worked example: the longest wavelength a band gap can absorb.</b><br>Step 1: photon energy in electron-volts = 1240 divided by wavelength in nanometres.<br>Step 2: flip it: wavelength = 1240 divided by energy.<br>Step 3: silicon's gap is about 1.1 eV. Wavelength = 1240 divided by 1.1, about 1130 nm.<br>Step 4: that is infrared, beyond what our eyes see. Silicon absorbs visible light, which is why it works in solar panels.<br>Step 5: gallium nitride has a gap of about 3.4 eV. Wavelength = 1240 divided by 3.4, about 365 nm, which is ultraviolet.<br>Step 6: blue LEDs use a related material with indium added, which narrows the gap to about 2.7 eV. Wavelength = about 460 nm, which is blue.</p><p>Intuition: a smaller gap lets in and gives out lower-energy, longer-wavelength light. Engineers choose the material to set the colour before they ever build the device. A photon with less energy than the gap passes straight through, while a more energetic photon is absorbed. Silicon's gap is below visible energies, so visible light is absorbed and the wafer looks dark.</p>"
+  },
+  {
    "tag": "Recap",
    "h": "Key takeaways and think-about-it",
    "b": "<ul><li>Band theory (Pauli plus waves) explains conductors, insulators and transistors (1947).</li><li>Lasers rely on stimulated emission; MRI on nuclear spin; clocks on atomic levels.</li><li>This first quantum revolution powers the modern economy.</li></ul><div class=\"box\"><h4>Think about it</h4><ol><li>Why does a small band gap make silicon useful as a switch?</li><li>Why are photons in a laser all alike?</li></ol></div>",

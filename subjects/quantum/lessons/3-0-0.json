@@ -54,6 +54,11 @@
    "b": "<p>Homi J. Bhabha calculated how electrons and positrons scatter from each other in 1935; it is still called <b>Bhabha scattering</b>, and it is used to measure collider brightness. With Walter Heitler he explained cosmic-ray showers (1937). S.N. Bose's photon counting is the root of boson statistics. India became an associate member of CERN in January 2017, and Indian groups take part in the CMS and ALICE experiments.</p>"
   },
   {
+   "tag": "Go deeper",
+   "h": "The electron and positron that vanish into light",
+   "b": "<p>In quantum field theory, particles are excitations of fields and can be created or destroyed. A clear demonstration is annihilation, where an electron and its antiparticle, the positron, meet and turn into light.</p><p><b>Worked example: an electron and a positron at rest annihilate.</b><br>Step 1: each has rest energy E = m times c squared, where m is its mass and c is the speed of light.<br>Step 2: the electron's rest energy is 0.511 million electron-volts (MeV).<br>Step 3: the positron's is also 0.511 MeV. Total energy: 1.022 MeV.<br>Step 4: energy must be conserved, so two gamma-ray photons appear, each with 0.511 MeV.<br>Step 5: the photon's wavelength = 1240 eV nm divided by 0.511 x 10 to the power 6 eV, about 0.0024 nm, or 2.4 picometres.</p><p>Intuition: mass is a form of energy. When the energy is returned, light appears, and the two photons fly apart in opposite directions to conserve momentum. Positron emission scans in hospitals (PET) use exactly this effect.</p><p>History: Paul Dirac's 1928 equation for the electron implied an antiparticle with the same mass and opposite charge. Carl Anderson found the positron in cosmic-ray tracks in 1932.</p>"
+  },
+  {
    "tag": "Recap",
    "h": "Key takeaways and think-about-it",
    "b": "<ul><li>QFT: fields are basic; particles are quantised ripples.</li><li>Dirac (1928) predicted antimatter; QED matches experiment to many digits.</li><li>Standard Model: 17 particles including Higgs (2012). It omits gravity.</li></ul><div class=\"box\"><h4>Think about it</h4><ol><li>Why does QFT explain that all electrons are identical?</li><li>Why is the vacuum energy mismatch such a puzzle?</li></ol></div>",

@@ -11,7 +11,7 @@
   {
    "tag": "The idea",
    "h": "The de Broglie wavelength",
-   "b": "<div class=\"box\"><h4>The rule</h4>wavelength = h / momentum. Momentum is mass times speed.</div><p>h is Planck's tiny constant, so for anything heavy the wavelength is absurdly small. A cricket ball at 40 m/s has a wavelength of about 10⁻³⁴ m, a billion billion billion times smaller than an atomic nucleus. So the ball never shows wave effects.</p><p>An electron is about 10³⁰ times lighter, so its wavelength can be comparable to the spacing of atoms in crystals (a fraction of a nanometre). That is where waves become visible.</p>"
+   "b": "<div class=\"box\"><h4>The rule</h4>wavelength = h / momentum. Momentum is mass times speed.</div><p>Here the wavelength is in metres, h is Planck's constant (about 6.6 x 10 to the power minus 34 joule-seconds), and momentum is mass times speed, in kilogram-metres per second.</p><p>h is Planck's tiny constant, so for anything heavy the wavelength is absurdly small. A cricket ball at 40 m/s has a wavelength of about 10⁻³⁴ m, a billion billion billion times smaller than an atomic nucleus. So the ball never shows wave effects.</p><p>An electron is about 10³⁰ times lighter, so its wavelength can be comparable to the spacing of atoms in crystals (a fraction of a nanometre). That is where waves become visible.</p>"
   },
   {
    "tag": "Atoms explained",
@@ -42,6 +42,11 @@
    "tag": "Indian angle",
    "h": "Bose and de Broglie, Raman and Krishnan",
    "b": "<p>Einstein championed S.N. Bose's 1924 photon counting; he then used the same counting for atoms and, reading de Broglie's thesis (shown to him by Paul Langevin), backed matter waves too. Schrödinger said he was led to his wave equation by Einstein's remarks on de Broglie.</p><p>In India, electron microscopes now operate in IISc Bengaluru, TIFR and IITs, and the Raman group's early work on X-ray and light scattering tied waves and quanta together in the same decade.</p>"
+  },
+  {
+   "tag": "Go deeper",
+   "h": "Why only tiny things show waves",
+   "b": "<p>Matter waves are real, but they are tiny for everyday objects. The formula shows why: the wavelength is h divided by momentum, so heavier or faster objects have shorter waves.</p><p><b>Worked example: an electron moving at 1000 km per second.</b><br>Step 1: the mass of an electron is 9.1 x 10 to the power minus 31 kilograms.<br>Step 2: the speed is 1000 km/s, which is 1.0 x 10 to the power 6 metres per second.<br>Step 3: momentum = mass times speed = 9.1 x 10 to the power minus 31, times 1.0 x 10 to the power 6, which is 9.1 x 10 to the power minus 25.<br>Step 4: wavelength = 6.6 x 10 to the power minus 34, divided by 9.1 x 10 to the power minus 25, about 7.3 x 10 to the power minus 10 metres.<br>Step 5: that is 0.73 nanometres, a little larger than the gaps between atoms in a solid.</p><p>Now a cricket ball of 0.16 kg moving at 40 m/s. Its wavelength is about 10 to the power minus 34 metres, so tiny that no experiment could ever see it.</p><p>Intuition: the wave is always there, but it only shows when its size matches the gaps in its surroundings. That is why electrons, not balls, reveal wave behaviour in crystals.</p>"
   },
   {
    "tag": "Recap",

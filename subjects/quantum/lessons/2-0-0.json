@@ -49,6 +49,11 @@
    "b": "<p>Indian groups at the Raman Research Institute (Bengaluru), the Harish-Chandra Research Institute (Prayagraj), the Indian Statistical Institute (Kolkata), IMSc Chennai and PRL Ahmedabad study entanglement in theory and experiment. The National Quantum Mission includes entanglement-based quantum communication, including satellite links, as a target.</p>"
   },
   {
+   "tag": "Go deeper",
+   "h": "Same-direction tests and tilted tests",
+   "b": "<p>Entanglement is more than shared randomness. The pair's results depend on the angle between the two detectors, and the pattern follows a formula.</p><p><b>Worked example: a pair of spins in the singlet state, measured along directions 60 degrees apart.</b><br>Step 1: if both detectors use the same direction, the results always come out opposite. Up for Alice means down for Bob.<br>Step 2: for a 60 degree gap, the chance that both results match is sin squared of (60 divided by 2).<br>Step 3: sin 30 degrees is 0.5.<br>Step 4: square it: 0.25.<br>Step 5: so the results match 25 percent of the time and are opposite 75 percent of the time.</p><p>Each person alone sees a fair coin, yet the two sets of results are linked in a precise way. The glove picture from the lesson only goes so far. The next lesson, Bell's test, shows that pre-set answers cannot match these tilted-angle numbers.</p><p>Try two more angles with the same formula. At 90 degrees, sin squared of 45 degrees is 0.5, so results match half the time. At 180 degrees, sin squared of 90 degrees is 1, so results always match. The chance depends only on the angle between the detectors.</p>"
+  },
+  {
    "tag": "Recap",
    "h": "Key takeaways and think-about-it",
    "b": "<ul><li>Entangled particles share a state that is definite as a pair but not for each one.</li><li>EPR (1935) argued quantum theory is incomplete; Schrödinger coined \"entanglement\".</li><li>No usable signal is sent faster than light.</li></ul><div class=\"box\"><h4>Think about it</h4><ol><li>How do the glove-in-a-box and entangled spins differ in what a test of other directions would show?</li><li>Why can Alice not use her measurement to send Bob a message?</li></ol></div>",

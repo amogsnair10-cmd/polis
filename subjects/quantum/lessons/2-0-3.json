@@ -49,6 +49,11 @@
    "b": "<p>E.C.G. Sudarshan is a co-author (with Gorini and Kossakowski, 1976) of the GKSL equation (also called Lindblad), the standard mathematical description of how a quantum system loses coherence. It is used by every quantum computing group worldwide, including the labs at TIFR and IISc under the National Quantum Mission.</p>"
   },
   {
+   "tag": "Go deeper",
+   "h": "Ten traces and the stripes fade",
+   "b": "<p>Decoherence is a real, measured effect. The numbers below are a toy model, chosen to show the idea. They are not measured values.</p><p><b>Worked example: a superposition that loses a little each time the environment touches it.</b><br>Step 1: suppose the stripes (interference) start at 100 percent visibility.<br>Step 2: toy assumption: each stray air molecule or photon that hits the system halves the visibility.<br>Step 3: after 1 hit, 50 percent. After 2 hits, 25 percent.<br>Step 4: after 10 hits: 0.5 to the power 10, about 0.001, or 0.1 percent.<br>Step 5: the stripes are almost gone, though no single hit was a big event.</p><p>Intuition: decoherence is a slow leak, not a sudden break. Many small hits, each carrying away a tiny bit of \"which path\" information, add up fast. A warm cat is hit an enormous number of times each second, so its superposition, if it ever existed, is gone long before we could look.</p><p>Atoms in a cold, sealed trap can keep their superpositions far longer. That is why quantum computers work hard to isolate their qubits.</p>"
+  },
+  {
    "tag": "Recap",
    "h": "Key takeaways and think-about-it",
    "b": "<ul><li>Schrödinger's cat (1935) was a challenge to stretching quantum rules to big objects.</li><li>Decoherence (Zeh, Zurek) explains why big warm things look classical.</li><li>It hides the blend but does not by itself say why one outcome occurs.</li></ul><div class=\"box\"><h4>Think about it</h4><ol><li>Why does a cold, isolated atom stay quantum longer than a warm cat?</li><li>Why is decoherence the main enemy of quantum computers?</li></ol></div>",
