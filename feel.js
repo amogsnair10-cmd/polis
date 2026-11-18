@@ -30,10 +30,30 @@ const SND={
   level:()=>{[3,5,7,8,10,12].forEach((n,i)=>voice(P[n],i*.08,.85,{v:.12,send:.8}));voice(P[13],.55,1.5,{v:.09,send:1});voice(P[6],.55,1.5,{v:.06,send:1});noise(.5,.45,8500,.06)},
   streak:()=>{voice(P[3],0,.3,{v:.11});voice(P[6],.1,.3,{v:.11});voice(P[9],.2,.5,{v:.11,send:.8})}
 };
-const PAT={tap:10,swipe:5,good:[14,36,22,36,34],bad:[60,50,40],done:[16,40,16,40,16,40,70],badge:[22,34,22,34,22,34,26,50,110],level:[18,30,22,30,26,30,30,30,34,30,140],streak:[20,30,30,30,50],open:8};
-function buzz(k){if(!on('hap'))return;const p=PAT[k];try{const H=window.Capacitor&&Capacitor.Plugins&&Capacitor.Plugins.Haptics;
-  if(H){if(k==='good')H.notification({type:'SUCCESS'});else if(k==='bad')H.notification({type:'ERROR'});else if(k==='badge'||k==='level'||k==='done')H.notification({type:'SUCCESS'});else H.impact({style:k==='tap'||k==='open'||k==='swipe'?'LIGHT':'MEDIUM'});return}
-  navigator.vibrate&&navigator.vibrate(p)}catch(e){}}
+/* Haptics as little scores: [kind, delay-ms]. Native (Capacitor Haptics) gets real impact strengths; the browser fallback gets a vibrate pattern. */
+const SEQ={
+  tap:[['sel',0]],
+  open:[['l',0]],
+  swipe:[['sel',0]],
+  good:[['l',0],['m',70],['s',150]],                       /* tick, thump, bright finish */
+  bad:[['h',0],['w',120]],                                 /* hard knock, then a dull warning */
+  done:[['l',0],['l',80],['m',170],['s',290]],
+  badge:[['l',0],['l',70],['m',140],['m',210],['h',300],['s',430]],  /* building up like a drum roll */
+  level:[['l',0],['l',60],['l',120],['m',190],['m',260],['h',340],['h',430],['s',560]],
+  streak:[['m',0],['m',110],['s',230]]
+};
+const FB={sel:5,l:10,m:20,h:42,w:[40,40,40],s:[22,30,48]};   /* browser fallback per step (ms) */
+function step(H,t){try{
+  if(t==='sel')return H.selectionChanged&&H.selectionChanged();
+  if(t==='l')return H.impact({style:'LIGHT'});if(t==='m')return H.impact({style:'MEDIUM'});if(t==='h')return H.impact({style:'HEAVY'});
+  if(t==='w')return H.notification({type:'WARNING'});if(t==='s')return H.notification({type:'SUCCESS'})}catch(e){}}
+function buzz(k){if(!on('hap'))return;const seq=SEQ[k];if(!seq)return;
+  const H=window.Capacitor&&Capacitor.Plugins&&Capacitor.Plugins.Haptics;
+  if(H){if(k==='swipe'||k==='tap'){try{H.selectionStart&&H.selectionStart()}catch(e){}}
+    seq.forEach(([t,d])=>d?setTimeout(()=>step(H,t),d):step(H,t));return}
+  /* fallback: stitch the steps into one vibrate pattern */
+  try{if(!navigator.vibrate)return;const pat=[];let at=0;seq.forEach(([t,d])=>{const v=FB[t],on_=Array.isArray(v)?v.reduce((x,y)=>x+y,0):v;if(d>at){if(pat.length)pat.push(d-at);else pat.push(0)}else if(pat.length)pat.push(10);pat.push(on_);at=d+on_});
+    if(pat[0]===0)pat.shift();navigator.vibrate(pat)}catch(e){}}
 window.Feel={play(k){if(k==='tap'&&this._t&&performance.now()-this._t<40)return;this._t=performance.now();buzz(k);const f=SND[k];if(f)try{f()}catch(e){}},
   get snd(){return on('snd')},get hap(){return on('hap')},
   set(k,v){ls.set('lb:'+k,v?'1':'0');if(v)this.play('tap')}};
