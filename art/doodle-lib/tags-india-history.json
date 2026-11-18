@@ -1,0 +1,485 @@
+{
+ "harappan-seal": [
+  "harappan",
+  "seal",
+  "indus",
+  "valley",
+  "bull",
+  "script",
+  "trade",
+  "civilisation"
+ ],
+ "great-bath": [
+  "great bath",
+  "mohenjo-daro",
+  "indus",
+  "bath",
+  "pool",
+  "harappa",
+  "ritual",
+  "brick"
+ ],
+ "ashoka-pillar": [
+  "ashoka",
+  "pillar",
+  "edict",
+  "maurya",
+  "column",
+  "inscription",
+  "emperor"
+ ],
+ "dharma-wheel": [
+  "dharma",
+  "wheel",
+  "buddhism",
+  "dharmachakra",
+  "sarnath",
+  "sermon",
+  "eightfold"
+ ],
+ "stupa": [
+  "stupa",
+  "sanchi",
+  "buddhist",
+  "dome",
+  "relic",
+  "monument",
+  "maurya"
+ ],
+ "buddha-seated": [
+  "buddha",
+  "buddhism",
+  "meditation",
+  "gautama",
+  "enlightenment",
+  "monk",
+  "sarnath"
+ ],
+ "lotus": [
+  "lotus",
+  "flower",
+  "sacred",
+  "purity",
+  "buddhism",
+  "symbol",
+  "national flower"
+ ],
+ "banyan-tree": [
+  "banyan",
+  "tree",
+  "fig",
+  "national tree",
+  "village",
+  "shade",
+  "roots"
+ ],
+ "temple-gopuram": [
+  "gopuram",
+  "temple",
+  "dravidian",
+  "south india",
+  "tower",
+  "chola",
+  "pallava",
+  "hindu"
+ ],
+ "cave-arch": [
+  "cave",
+  "ajanta",
+  "ellora",
+  "rock-cut",
+  "chaitya",
+  "arch",
+  "buddhist",
+  "monastery"
+ ],
+ "sculpted-pillar": [
+  "pillar",
+  "sculpture",
+  "temple",
+  "carving",
+  "column",
+  "hampi",
+  "art",
+  "architecture"
+ ],
+ "elephant": [
+  "elephant",
+  "army",
+  "war",
+  "animal",
+  "royal",
+  "mauryan",
+  "ride",
+  "mahout"
+ ],
+ "tiger": [
+  "tiger",
+  "tipu sultan",
+  "animal",
+  "wildlife",
+  "national animal",
+  "mysore",
+  "forest"
+ ],
+ "peacock": [
+  "peacock",
+  "national bird",
+  "mughal",
+  "throne",
+  "bird",
+  "feathers",
+  "mayura",
+  "maurya"
+ ],
+ "lion-capital": [
+  "lion capital",
+  "sarnath",
+  "emblem",
+  "ashoka",
+  "four lions",
+  "national emblem",
+  "pillar"
+ ],
+ "chariot-wheel": [
+  "chariot",
+  "wheel",
+  "konark",
+  "sun temple",
+  "war",
+  "vedic",
+  "transport"
+ ],
+ "bow-and-arrow": [
+  "bow",
+  "arrow",
+  "archer",
+  "war",
+  "weapon",
+  "epic",
+  "mahabharata",
+  "warrior"
+ ],
+ "spear-and-shield": [
+  "spear",
+  "shield",
+  "weapon",
+  "rajput",
+  "battle",
+  "warrior",
+  "army",
+  "soldier"
+ ],
+ "war-horse": [
+  "horse",
+  "cavalry",
+  "war",
+  "rajput",
+  "army",
+  "charger",
+  "battle",
+  "chetak"
+ ],
+ "fort-walls": [
+  "fort",
+  "walls",
+  "citadel",
+  "rajput",
+  "castle",
+  "defence",
+  "siege",
+  "battlements"
+ ],
+ "mughal-dome": [
+  "mughal",
+  "dome",
+  "architecture",
+  "mosque",
+  "tomb",
+  "islamic",
+  "sultanate"
+ ],
+ "minaret": [
+  "minaret",
+  "qutub minar",
+  "delhi sultanate",
+  "tower",
+  "mosque",
+  "victory",
+  "islamic"
+ ],
+ "arch-gateway": [
+  "gateway",
+  "arch",
+  "buland darwaza",
+  "fatehpur sikri",
+  "mughal",
+  "akbar",
+  "entrance",
+  "gate"
+ ],
+ "taj-silhouette": [
+  "taj mahal",
+  "shah jahan",
+  "agra",
+  "mughal",
+  "tomb",
+  "mumtaz",
+  "monument"
+ ],
+ "miniature-painting-frame": [
+  "miniature",
+  "painting",
+  "mughal",
+  "art",
+  "rajput",
+  "frame",
+  "court",
+  "manuscript"
+ ],
+ "sitar": [
+  "sitar",
+  "music",
+  "classical",
+  "hindustani",
+  "instrument",
+  "raga",
+  "ravi shankar"
+ ],
+ "tabla": [
+  "tabla",
+  "drum",
+  "music",
+  "percussion",
+  "classical",
+  "rhythm",
+  "hindustani"
+ ],
+ "classical-dancer-hand": [
+  "mudra",
+  "dance",
+  "bharatanatyam",
+  "classical",
+  "hand",
+  "gesture",
+  "kathak",
+  "culture"
+ ],
+ "rangoli": [
+  "rangoli",
+  "kolam",
+  "festival",
+  "diwali",
+  "pattern",
+  "floor art",
+  "tradition",
+  "folk art"
+ ],
+ "diya-lamp": [
+  "diya",
+  "lamp",
+  "diwali",
+  "light",
+  "festival",
+  "oil lamp",
+  "flame",
+  "ritual"
+ ],
+ "spinning-wheel-charkha": [
+  "charkha",
+  "spinning wheel",
+  "gandhi",
+  "swadeshi",
+  "khadi",
+  "yarn",
+  "non-cooperation"
+ ],
+ "salt-heap": [
+  "salt",
+  "dandi",
+  "salt march",
+  "satyagraha",
+  "civil disobedience",
+  "gandhi",
+  "tax",
+  "1930"
+ ],
+ "khadi-cloth": [
+  "khadi",
+  "cloth",
+  "homespun",
+  "swadeshi",
+  "boycott",
+  "gandhi",
+  "handloom",
+  "textile"
+ ],
+ "tricolour-flag": [
+  "tricolour",
+  "flag",
+  "national flag",
+  "independence",
+  "tiranga",
+  "1947",
+  "freedom",
+  "nationalism"
+ ],
+ "ashoka-chakra-blue": [
+  "ashoka chakra",
+  "chakra",
+  "24 spokes",
+  "flag",
+  "wheel",
+  "dharma",
+  "national symbol"
+ ],
+ "ship-east-india": [
+  "east india company",
+  "ship",
+  "trade",
+  "colonial",
+  "merchant",
+  "voyage",
+  "britain",
+  "sea"
+ ],
+ "opium-chest": [
+  "opium",
+  "chest",
+  "trade",
+  "china",
+  "east india company",
+  "opium war",
+  "colonial",
+  "crate"
+ ],
+ "tea-leaf": [
+  "tea",
+  "leaf",
+  "assam",
+  "plantation",
+  "darjeeling",
+  "colonial",
+  "cash crop",
+  "trade"
+ ],
+ "cotton-boll": [
+  "cotton",
+  "boll",
+  "textile",
+  "mill",
+  "plantation",
+  "cash crop",
+  "deccan",
+  "handloom"
+ ],
+ "indigo-plant": [
+  "indigo",
+  "dye",
+  "champaran",
+  "plantation",
+  "peasants",
+  "blue",
+  "farmers",
+  "satyagraha"
+ ],
+ "railway-engine": [
+  "railway",
+  "train",
+  "engine",
+  "steam",
+  "dalhousie",
+  "colonial",
+  "transport",
+  "1853"
+ ],
+ "telegraph-pole": [
+  "telegraph",
+  "pole",
+  "wires",
+  "communication",
+  "dalhousie",
+  "colonial",
+  "1857",
+  "network"
+ ],
+ "printing-type": [
+  "printing",
+  "press",
+  "type",
+  "newspaper",
+  "books",
+  "print",
+  "publication",
+  "vernacular"
+ ],
+ "bell-freedom": [
+  "bell",
+  "freedom",
+  "liberty",
+  "independence",
+  "ring",
+  "tryst",
+  "midnight",
+  "1947"
+ ],
+ "jail-cell": [
+  "jail",
+  "prison",
+  "cell",
+  "imprisonment",
+  "arrest",
+  "cellular jail",
+  "freedom fighter",
+  "bars"
+ ],
+ "gallows-rope": [
+  "gallows",
+  "hanging",
+  "martyr",
+  "bhagat singh",
+  "execution",
+  "sacrifice",
+  "death sentence"
+ ],
+ "march-footprints": [
+  "march",
+  "dandi",
+  "footprints",
+  "walk",
+  "salt satyagraha",
+  "gandhi",
+  "procession",
+  "pilgrimage"
+ ],
+ "lathi-and-helmet": [
+  "lathi",
+  "police",
+  "charge",
+  "baton",
+  "protest",
+  "lala lajpat rai",
+  "colonial",
+  "crackdown"
+ ],
+ "map-india-outline": [
+  "india",
+  "map",
+  "nation",
+  "territory",
+  "union",
+  "states",
+  "geography",
+  "country"
+ ],
+ "partition-line": [
+  "partition",
+  "1947",
+  "radcliffe",
+  "border",
+  "pakistan",
+  "division",
+  "refugees",
+  "bengal"
+ ]
+}
