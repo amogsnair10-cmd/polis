@@ -14,11 +14,11 @@ function ac(){if(!on('snd'))return null;try{if(!ctx){const C=window.AudioContext
 /* one voice: pure, bell (inharmonic partials), wood (short pluck) */
 function voice(f,t0,d,o={}){const c=ac();if(!c)return;const a=c.currentTime+t0,v=(o.v||.16)*1.7,kind=o.k||'bell',send=o.send===undefined?.6:o.send;
   const out=c.createGain();out.gain.setValueAtTime(0.0001,a);out.gain.exponentialRampToValueAtTime(v,a+(o.att||.008));out.gain.exponentialRampToValueAtTime(0.0001,a+d);out.connect(master);if(send){const sg=c.createGain();sg.gain.value=send;out.connect(sg);sg.connect(verb)}
-  const parts=kind==='bell'?[[1,1],[2.76,.32],[5.4,.12],[8.93,.05]]:kind==='wood'?[[1,1],[2.1,.35]]:kind==='pure'?[[1,1],[2,.12]]:[[1,1],[2,.2]];
+  const parts=kind==='bell'?[[1,1],[2.76,.32],[5.4,.12],[8.93,.05]]:kind==='wood'?[[1,1],[2.1,.35]]:kind==='pure'?[[1,1],[2,.12]]:kind==='soft'?[[1,1],[2,.7],[3,.45],[4,.25],[5,.12]]:[[1,1],[2,.2]];
   parts.forEach(([m,g],i)=>{const osc=c.createOscillator(),pg=c.createGain();osc.type=kind==='saw'?'sawtooth':'sine';osc.frequency.setValueAtTime(f*m,a);if(o.to)osc.frequency.exponentialRampToValueAtTime(o.to*m,a+d);
     pg.gain.setValueAtTime(g,a);pg.gain.exponentialRampToValueAtTime(0.0001,a+d*(i?.55:1));osc.connect(pg);pg.connect(out);osc.start(a);osc.stop(a+d+.06)})}
-function noise(t0,d,fq,v,type){const c=ac();if(!c)return;const a=c.currentTime+t0,len=Math.max(1,Math.floor(c.sampleRate*d)),buf=c.createBuffer(1,len,c.sampleRate),da=buf.getChannelData(0);for(let i=0;i<len;i++)da[i]=(Math.random()*2-1)*(1-i/len);
-  const src=c.createBufferSource();src.buffer=buf;const f=c.createBiquadFilter();f.type=type||'bandpass';f.frequency.value=fq;f.Q.value=type?.7:1.2;const g=c.createGain();g.gain.value=v*1.7;src.connect(f);f.connect(g);g.connect(master);src.start(a)}
+function noise(t0,d,fq,v,type,att){const c=ac();if(!c)return;const a=c.currentTime+t0,len=Math.max(1,Math.floor(c.sampleRate*d)),buf=c.createBuffer(1,len,c.sampleRate),da=buf.getChannelData(0);for(let i=0;i<len;i++)da[i]=(Math.random()*2-1)*(1-i/len);
+  const src=c.createBufferSource();src.buffer=buf;const f=c.createBiquadFilter();f.type=type||'bandpass';f.frequency.value=fq;f.Q.value=type?.7:1.2;const g=c.createGain();if(att){g.gain.setValueAtTime(0.0001,a);g.gain.linearRampToValueAtTime(v*1.7,a+att)}else g.gain.value=v*1.7;src.connect(f);f.connect(g);g.connect(master);src.start(a)}
 /* C major pentatonic, so any run of notes sounds good */
 const P=[261.63,293.66,329.63,392,440,523.25,587.33,659.25,783.99,880,1046.5,1174.66,1318.5,1567.98];
 const SND={
@@ -27,8 +27,8 @@ const SND={
   /* release: a smaller, lighter click, like the key coming back up */
   up:()=>{const r=.96+Math.random()*.1;noise(0,.004,5200,.07,'highpass');voice(2300*r,0,.022,{k:'wood',v:.08,to:1700*r,send:0});voice(190*r,0,.03,{k:'pure',v:.09,to:130*r,send:0})},
   open:()=>{voice(260,0,.08,{k:'pure',v:.18,to:140,send:.05});voice(390,.03,.06,{k:'pure',v:.08,to:260,send:.05})},
-  /* swipe: a soft low "whoom", a slow sine sweep with a muffled breath under it, no sharp edge */
-  swipe:()=>{voice(150,0,.3,{k:'pure',v:.2,to:62,send:.1,att:.07});noise(0,.28,420,.05,'lowpass')},
+  /* swipe: a soft "whoom". A mid-range harmonic sweep that glides down (phones cannot play below ~200 Hz), under a slow breath of air that fades in and out. */
+  swipe:()=>{voice(380,0,.42,{k:'soft',v:.2,to:175,send:.25,att:.1});noise(0,.42,1100,.1,'lowpass',.14)},
   /* lesson start: a soft two-note "ba-dum" lift */
   start:()=>{voice(P[2],0,.35,{v:.12});voice(P[5],.09,.5,{v:.14,send:.7});voice(P[9],.18,.6,{v:.1,send:.8})},
   /* xp / count-up tick: a tiny bright bell, rises as the number climbs */
