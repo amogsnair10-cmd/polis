@@ -238,12 +238,16 @@ async function openMe() {
     <h3>Subjects</h3>${subj.length ? subj.map(x => `<button class="me-sub" data-s="${x.s.id}"><span class="sic" style="--a:${(THEMES[x.s.theme] || THEMES.polis).vars["--gold"] || "#c9a45c"};--b:${(THEMES[x.s.theme] || THEMES.polis).vars["--lapis"] || "#13294b"}">${icon(x.s.id)}</span><span class="me-sub-t"><b>${x.s.title}</b> · ${x.s.name}<i style="--w:${Math.round(x.n / Math.max(1, x.total) * 100)}%"></i><small>${x.n} of ${x.total} lessons${x.a != null ? " · quiz " + x.a + "%" : ""}</small></span></button>`).join("") : `<div class="lumnote"><span class="ltile">${LUM("study-5")}</span><p>Finish a lesson and it shows up here.</p></div>`}
     ${weak.length ? `<h3>Revise these</h3>${weak.slice(0, 5).map(w => `<button class="me-weak" data-s="${w.s.id}" data-u="${w.u}"><b>${esc(w.name)}</b><small>${w.s.title} · quiz ${Math.round(w.a * 100)}%</small><span>Revise →</span></button>`).join("")}` : ""}
     ${user ? `<h3>Your account</h3><button class="me-weak" id="delAcct"><b>Delete my account and data</b><small>Removes your sign-in, cloud progress and doubts</small><span>Delete →</span></button>` : ""}
+    <h3>Feel</h3><div class="feel"><label><span><b>Sound effects</b><small>Soft chimes and ticks</small></span><input type="checkbox" id="fSnd" ${window.Feel && Feel.snd ? "checked" : ""}></label><label><span><b>Vibration</b><small>Taps on answers and rewards</small></span><input type="checkbox" id="fHap" ${window.Feel && Feel.hap ? "checked" : ""}></label></div>
     <h3>App</h3><button class="me-weak" id="rfBtn"><b>Refresh the app</b><small id="verTxt">Check for the newest version</small><span>Refresh →</span></button>
     <h3>Lost your progress?</h3><button class="me-weak" id="rsOpen"><b>Restore my progress</b><small>Tell the app how many lessons you had finished</small><span>Restore →</span></button>
     <h3>Your doubts</h3>${user ? (doubts.length ? doubts.map(d => `<button class="me-doubt" data-s="${esc(d.subject || "")}" data-l="${esc(d.lessonId || "")}"><small>${esc(d.subjectTitle || "")} · ${esc(d.lessonTitle || "")}</small><b>${esc(d.q || "")}</b><span>${esc((d.a || "").slice(0, 220))}${(d.a || "").length > 220 ? "…" : ""}</span></button>`).join("") : `<div class="lumnote"><span class="ltile">${LUM("sunglasses-5")}</span><p>Ask me anything with the ? button. Your doubts will be saved here.</p></div>`) : `<p class="note">Sign in to save your doubts.</p>`}
    </div>`;
   show("me");
   document.getElementById("meClose").onclick = back;
+  const fs = document.getElementById("fSnd"), fh = document.getElementById("fHap");
+  if (fs) fs.onchange = () => window.Feel && Feel.set("snd", fs.checked);
+  if (fh) fh.onchange = () => window.Feel && Feel.set("hap", fh.checked);
   v.querySelectorAll(".metabs button").forEach(b => b.onclick = () => { const me = v.querySelector(".me"); me.dataset.tab = b.dataset.t; v.querySelectorAll(".metabs button").forEach(x => x.classList.toggle("on", x === b)); window.scrollTo(0, 0); });
   const g = document.getElementById("meG");
   if (g) g.onclick = async () => { try { await googleSignIn(); if (!NATIVE) openMe(); } catch (e) { document.getElementById("meMsg").textContent = "Sign-in didn't finish: " + (e.code || e.message); } };

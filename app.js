@@ -86,7 +86,7 @@ function toast(h){let t=document.getElementById('toasts');if(!t){t=document.crea
   const e=document.createElement('div');e.className='toast';e.innerHTML=h;t.appendChild(e);setTimeout(()=>{e.classList.add('out');setTimeout(()=>e.remove(),600)},CALM?3500:4200)}
 /* quiet=true records what is already earned without celebrating (first run, after sign-in) */
 function checkBadges(quiet){const st=badgeState(),got=st.all.filter(b=>b.got).map(b=>b.id);let seen=null;try{seen=JSON.parse(ls.get('lb:badges')||'null')}catch(e){}
-  if(seen&&!quiet)st.all.filter(b=>b.got&&!seen.includes(b.id)).forEach((b,i)=>setTimeout(()=>toast(`<span class="ltile sm">${LUM(BADGEPOSE[b.id]||'rewards-2')}</span><span><small>${b.tier==='l'?'Legendary badge':'New badge'}</small><b>${b.t}</b></span>`),i*900));
+  if(seen&&!quiet)st.all.filter(b=>b.got&&!seen.includes(b.id)).forEach((b,i)=>setTimeout(()=>{window.Feel&&Feel.play('badge');toast(`<span class="ltile sm">${LUM(BADGEPOSE[b.id]||'rewards-2')}</span><span><small>${b.tier==='l'?'Legendary badge':'New badge'}</small><b>${b.t}</b></span>`)},i*900));
   ls.set('lb:badges',JSON.stringify([...new Set([...(seen||[]),...got])]));renderLevel()}
 window.checkBadges=checkBadges;
 function renderLevel(){const el=document.getElementById('lvl');if(!el)return;const v=lvlOf(stats().xp);
@@ -156,7 +156,7 @@ async function openL(id,card){
   deck.querySelectorAll('.ci').forEach(c=>{if(c.scrollHeight>c.clientHeight+4){const m=document.createElement('div');m.className='more';m.textContent='Scroll down for more';c.parentNode.appendChild(m);c.addEventListener('scroll',()=>{m.classList.toggle('gone',c.scrollTop+c.clientHeight>=c.scrollHeight-30)},{passive:true})}});
 }
 deck.addEventListener('click',e=>{const b=e.target.closest('.opt');if(!b)return;const q=+b.dataset.q,j=+b.dataset.j;if(ans[q]!==undefined)return;
-  const Q=L[cur].quiz[q];ans[q]=j===Q.a;if(Q._r)rmark(Q._r.id,Q._r.q,j===Q.a);else if(j!==Q.a&&!cur.endsWith('-T'))rmark(cur,q,false);b.parentNode.querySelectorAll('.opt').forEach((o,k)=>{if(k===Q.a)o.classList.add('r');else if(k===j)o.classList.add('w')});
+  const Q=L[cur].quiz[q];ans[q]=j===Q.a;window.Feel&&Feel.play(j===Q.a?'good':'bad');if(Q._r)rmark(Q._r.id,Q._r.q,j===Q.a);else if(j!==Q.a&&!cur.endsWith('-T'))rmark(cur,q,false);b.parentNode.querySelectorAll('.opt').forEach((o,k)=>{if(k===Q.a)o.classList.add('r');else if(k===j)o.classList.add('w')});
   const w=document.getElementById('w'+q);w.innerHTML=(j===Q.a?'<b>Correct.</b> ':'<b>Not quite.</b> ')+Q.w;w.classList.add('on');setTimeout(()=>w.scrollIntoView({behavior:CALM?'auto':'smooth',block:'nearest'}),250);
   if(Object.keys(ans).length===L[cur].quiz.length)finish()});
 function countUp(el,to){if(!el)return;if(CALM){el.textContent=to;return}let n=0;const step=()=>{el.textContent=n;if(n++<to)setTimeout(step,1000/Math.max(to,1))};step()}
@@ -173,16 +173,16 @@ function finish(){const sc=Object.values(ans).filter(Boolean).length,n=L[cur].qu
   else if(cur==='MIX'){xp+=20+4*sc;S.mixBest=Math.max(S.mixBest||0,f);S.mixN=(S.mixN||0)+1;title=f>=.8?'Sharp recall':f>=.6?'Holding steady':'Rusty in places';msg=f>=.8?'That is what lasting memory looks like.':'The ones you missed will come back in your reviews.'}
   else{if(cur.endsWith('-T')){xp+=10+4*sc;S.tests=S.tests||{};S.tests[cur]=Math.max(f,S.tests[cur]||0)}else{xp+=S.done[cur]?5+2*sc:30+5*sc;S.done[cur]=1;S.scores[cur]=f}
     title=f>=.8?'Laurels earned':f>=.6?'Solid work':'Worth another read';msg=f>=.8?'You know this well enough to write on it.':f>=.6?'Skim the cards you missed once more.':'Come back to this one tomorrow.'}
-  S.xp=(S.xp||0)+xp;save();pushSync();
+  S.xp=(S.xp||0)+xp;save();pushSync();window.Feel&&Feel.play(f>=.6?'done':'tap');
   document.getElementById('end').innerHTML=`${meter(sc,n,f)}<h2 style="margin-top:6px">${title}</h2><p>${msg}</p>${xpLine(xp,lv0)}<button class="start" onclick="back()">Back to the syllabus</button>`;
   setTimeout(()=>{countUp(document.getElementById('scN'),sc);animMeter(f)},300);
-  setTimeout(()=>{checkBadges();const v=lvlOf(stats().xp);if(v.n>lv0)toast(`<span class="ltile sm">${LUM('rewards-6')}</span><span><small>Level up</small><b>Level ${v.n} · ${v.name}</b></span>`)},1400)}
+  setTimeout(()=>{checkBadges();const v=lvlOf(stats().xp);if(v.n>lv0){window.Feel&&Feel.play('level')}if(v.n>lv0)toast(`<span class="ltile sm">${LUM('rewards-6')}</span><span><small>Level up</small><b>Level ${v.n} · ${v.name}</b></span>`)},1400)}
 let curCard=0;const io=new IntersectionObserver(es=>es.forEach(e=>{if(e.isIntersecting)e.target.classList.add('in')}),{threshold:.35});
 let lastI=-1;
 function upd(){const n=deck.children.length,i=Math.round(deck.scrollLeft/deck.clientWidth),nc=window.LCOUNT||0,nq=(L[cur]&&L[cur].quiz.length)||0;curCard=i-1;
   const pg=document.getElementById('pg'),pr=pg.parentNode;pg.style.width=((i+1)/n*100)+'%';pr.style.setProperty('--split',nc?((nc+1)/n*100)+'%':'-9px');pr.classList.toggle('inq',i>nc);
   document.getElementById('cnt').textContent=i===0?(nc?nc+' cards':nq+' questions'):i<=nc?`Card ${i}/${nc}`:i<=nc+nq?`Question ${i-nc}/${nq}`:'Done';
-  if(i!==lastI){lastI=i;if(nc&&i>=1&&i<=nc&&!/^(REVIEW|MIX)$|-T$/.test(cur)){try{const l=JSON.parse(ls.get('lb:last')||'{}');if(l.id===cur){l.card=i-1;ls.set('lb:last',JSON.stringify(l))}}catch(e){}}}}
+  if(i!==lastI){lastI=i;window.Feel&&Feel.play('swipe');if(nc&&i>=1&&i<=nc&&!/^(REVIEW|MIX)$|-T$/.test(cur)){try{const l=JSON.parse(ls.get('lb:last')||'{}');if(l.id===cur){l.card=i-1;ls.set('lb:last',JSON.stringify(l))}}catch(e){}}}}
 let _u=0;deck.addEventListener('scroll',()=>{if(_u)return;_u=requestAnimationFrame(()=>{_u=0;upd()})},{passive:true});
 /* ---------- motion helpers: every screen change crossfades smoothly ---------- */
 const CALM=matchMedia('(prefers-reduced-motion: reduce)').matches;
