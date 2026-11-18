@@ -1,0 +1,502 @@
+{
+ "parliament-dome": [
+  "parliament",
+  "government",
+  "assembly",
+  "legislature",
+  "democracy",
+  "dome",
+  "capitol",
+  "congress"
+ ],
+ "ballot-box": [
+  "vote",
+  "voting",
+  "election",
+  "ballot",
+  "poll",
+  "democracy",
+  "electoral",
+  "suffrage"
+ ],
+ "scales-of-justice": [
+  "justice",
+  "law",
+  "court",
+  "fairness",
+  "judge",
+  "balance",
+  "legal",
+  "rights"
+ ],
+ "gavel": [
+  "judge",
+  "court",
+  "verdict",
+  "law",
+  "trial",
+  "auction",
+  "order",
+  "judiciary"
+ ],
+ "constitution-book": [
+  "constitution",
+  "rights",
+  "law",
+  "charter",
+  "amendment",
+  "fundamental",
+  "statute",
+  "republic"
+ ],
+ "quill-and-scroll": [
+  "writing",
+  "document",
+  "declaration",
+  "law",
+  "decree",
+  "history",
+  "manuscript",
+  "petition"
+ ],
+ "crown": [
+  "monarchy",
+  "king",
+  "queen",
+  "royal",
+  "emperor",
+  "sovereign",
+  "rule",
+  "kingdom"
+ ],
+ "throne": [
+  "monarchy",
+  "king",
+  "power",
+  "rule",
+  "emperor",
+  "sovereign",
+  "court",
+  "absolute"
+ ],
+ "flag-on-pole": [
+  "flag",
+  "nation",
+  "country",
+  "independence",
+  "patriotism",
+  "state",
+  "symbol",
+  "republic"
+ ],
+ "torch": [
+  "freedom",
+  "liberty",
+  "revolution",
+  "enlightenment",
+  "movement",
+  "flame",
+  "relay",
+  "protest"
+ ],
+ "chain-broken": [
+  "freedom",
+  "liberation",
+  "slavery",
+  "independence",
+  "revolt",
+  "emancipation",
+  "oppression",
+  "revolution"
+ ],
+ "handshake": [
+  "agreement",
+  "treaty",
+  "diplomacy",
+  "alliance",
+  "deal",
+  "peace",
+  "cooperation",
+  "negotiation"
+ ],
+ "megaphone": [
+  "protest",
+  "campaign",
+  "propaganda",
+  "speech",
+  "announcement",
+  "rally",
+  "movement",
+  "voice"
+ ],
+ "podium": [
+  "speech",
+  "leader",
+  "address",
+  "debate",
+  "politician",
+  "campaign",
+  "lecture",
+  "president"
+ ],
+ "voting-hand": [
+  "vote",
+  "election",
+  "democracy",
+  "citizen",
+  "franchise",
+  "suffrage",
+  "poll",
+  "ink"
+ ],
+ "queue-of-voters": [
+  "voters",
+  "election",
+  "citizens",
+  "democracy",
+  "turnout",
+  "electorate",
+  "population",
+  "public"
+ ],
+ "map-pin-border": [
+  "border",
+  "boundary",
+  "territory",
+  "location",
+  "frontier",
+  "map",
+  "partition",
+  "region"
+ ],
+ "treaty-scroll": [
+  "treaty",
+  "agreement",
+  "pact",
+  "signing",
+  "diplomacy",
+  "accord",
+  "peace",
+  "document"
+ ],
+ "wax-seal": [
+  "seal",
+  "official",
+  "authority",
+  "charter",
+  "decree",
+  "approval",
+  "royal",
+  "treaty"
+ ],
+ "balance-of-power": [
+  "balance",
+  "power",
+  "checks",
+  "separation",
+  "rivalry",
+  "equilibrium",
+  "alliance",
+  "politics"
+ ],
+ "three-pillars": [
+  "pillars",
+  "legislature",
+  "executive",
+  "judiciary",
+  "institutions",
+  "government",
+  "separation",
+  "democracy"
+ ],
+ "tower-of-babel": [
+  "babel",
+  "language",
+  "tower",
+  "empire",
+  "pride",
+  "confusion",
+  "ancient",
+  "babylon"
+ ],
+ "pyramid-hierarchy": [
+  "hierarchy",
+  "class",
+  "caste",
+  "feudalism",
+  "social",
+  "structure",
+  "pyramid",
+  "rank"
+ ],
+ "ladder-of-power": [
+  "power",
+  "rise",
+  "ambition",
+  "promotion",
+  "career",
+  "ascent",
+  "authority",
+  "climb"
+ ],
+ "puppet-strings": [
+  "puppet",
+  "control",
+  "manipulation",
+  "influence",
+  "colonial",
+  "propaganda",
+  "dictator",
+  "strings"
+ ],
+ "iron-fist": [
+  "tyranny",
+  "dictatorship",
+  "authoritarian",
+  "oppression",
+  "strength",
+  "power",
+  "totalitarian",
+  "regime"
+ ],
+ "open-hand": [
+  "peace",
+  "welcome",
+  "hand",
+  "help",
+  "cooperation",
+  "stop",
+  "friendship",
+  "rights"
+ ],
+ "olive-branch": [
+  "peace",
+  "truce",
+  "ceasefire",
+  "reconciliation",
+  "olive",
+  "diplomacy",
+  "harmony",
+  "treaty"
+ ],
+ "dove": [
+  "peace",
+  "dove",
+  "freedom",
+  "truce",
+  "hope",
+  "pacifism",
+  "harmony",
+  "ceasefire"
+ ],
+ "sword-and-shield": [
+  "war",
+  "defence",
+  "army",
+  "military",
+  "battle",
+  "knight",
+  "security",
+  "conflict"
+ ],
+ "cannon": [
+  "war",
+  "artillery",
+  "battle",
+  "siege",
+  "military",
+  "gunpowder",
+  "fort",
+  "bombardment"
+ ],
+ "tank": [
+  "tank",
+  "armour",
+  "war",
+  "army",
+  "military",
+  "invasion",
+  "battle",
+  "world war"
+ ],
+ "fighter-jet": [
+  "airforce",
+  "jet",
+  "war",
+  "aircraft",
+  "military",
+  "air strike",
+  "defence",
+  "fighter"
+ ],
+ "missile": [
+  "missile",
+  "nuclear",
+  "rocket",
+  "weapon",
+  "cold war",
+  "arms",
+  "military",
+  "defence"
+ ],
+ "submarine": [
+  "submarine",
+  "navy",
+  "naval",
+  "underwater",
+  "cold war",
+  "fleet",
+  "u-boat",
+  "war"
+ ],
+ "warship": [
+  "navy",
+  "warship",
+  "fleet",
+  "naval",
+  "battleship",
+  "war",
+  "sea power",
+  "maritime"
+ ],
+ "handcuffs": [
+  "arrest",
+  "police",
+  "crime",
+  "prison",
+  "custody",
+  "detention",
+  "law",
+  "captive"
+ ],
+ "prison-bars": [
+  "prison",
+  "jail",
+  "imprisonment",
+  "detention",
+  "captivity",
+  "punishment",
+  "incarceration",
+  "political prisoner"
+ ],
+ "key-and-lock": [
+  "security",
+  "access",
+  "lock",
+  "key",
+  "privacy",
+  "secret",
+  "safe",
+  "protection"
+ ],
+ "magnifying-glass": [
+  "investigation",
+  "inquiry",
+  "scrutiny",
+  "research",
+  "audit",
+  "evidence",
+  "detective",
+  "examine"
+ ],
+ "spotlight": [
+  "attention",
+  "fame",
+  "focus",
+  "stage",
+  "publicity",
+  "campaign",
+  "leader",
+  "spotlight"
+ ],
+ "microphone": [
+  "speech",
+  "media",
+  "interview",
+  "press",
+  "broadcast",
+  "voice",
+  "journalism",
+  "campaign"
+ ],
+ "newspaper": [
+  "newspaper",
+  "press",
+  "news",
+  "media",
+  "journalism",
+  "headline",
+  "free press",
+  "publication"
+ ],
+ "printing-press": [
+  "printing",
+  "press",
+  "books",
+  "reformation",
+  "pamphlet",
+  "enlightenment",
+  "literacy",
+  "gutenberg"
+ ],
+ "radio-tower": [
+  "radio",
+  "broadcast",
+  "communication",
+  "propaganda",
+  "signal",
+  "media",
+  "telecom",
+  "transmission"
+ ],
+ "satellite-dish": [
+  "satellite",
+  "communication",
+  "television",
+  "space",
+  "surveillance",
+  "signal",
+  "broadcast",
+  "technology"
+ ],
+ "passport": [
+  "passport",
+  "travel",
+  "citizenship",
+  "identity",
+  "visa",
+  "immigration",
+  "border",
+  "nationality"
+ ],
+ "visa-stamp": [
+  "visa",
+  "stamp",
+  "immigration",
+  "approval",
+  "border",
+  "customs",
+  "permit",
+  "entry"
+ ],
+ "suitcase": [
+  "migration",
+  "travel",
+  "immigrant",
+  "journey",
+  "exile",
+  "luggage",
+  "emigration",
+  "departure"
+ ],
+ "boat-refugees": [
+  "refugees",
+  "migration",
+  "asylum",
+  "displacement",
+  "sea",
+  "exile",
+  "boat",
+  "humanitarian"
+ ]
+}
