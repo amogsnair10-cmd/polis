@@ -1,0 +1,449 @@
+{
+"mountain-peaks": [
+"mountain",
+"peak",
+"himalaya",
+"range",
+"summit",
+"highland",
+"alps"
+],
+"volcano": [
+"volcano",
+"eruption",
+"lava",
+"magma",
+"crater",
+"igneous"
+],
+"earthquake-crack": [
+"earthquake",
+"crack",
+"fault",
+"tremor",
+"tectonic",
+"plates",
+"seismic"
+],
+"tsunami-wave": [
+"tsunami",
+"wave",
+"flood",
+"disaster",
+"ocean",
+"tidal",
+"surge"
+],
+"river-delta": [
+"river",
+"delta",
+"sundarbans",
+"estuary",
+"drainage",
+"mouth",
+"sediment"
+],
+"waterfall": [
+"waterfall",
+"cascade",
+"river",
+"cliff",
+"gorge",
+"falls",
+"erosion"
+],
+"glacier": [
+"glacier",
+"ice",
+"himalaya",
+"snowfield",
+"melting",
+"freeze",
+"cold"
+],
+"iceberg": [
+"iceberg",
+"polar",
+"arctic",
+"antarctic",
+"ice",
+"sea",
+"floating"
+],
+"desert-dunes": [
+"desert",
+"dunes",
+"thar",
+"sand",
+"arid",
+"cactus",
+"dry"
+],
+"oasis-palm": [
+"oasis",
+"palm",
+"desert",
+"water",
+"date",
+"tree",
+"sahara"
+],
+"rainforest-canopy": [
+"rainforest",
+"canopy",
+"jungle",
+"tropical",
+"forest",
+"amazon",
+"biodiversity",
+"vines"
+],
+"coral-reef": [
+"coral",
+"reef",
+"ocean",
+"marine",
+"fish",
+"sea",
+"biodiversity"
+],
+"mangrove-roots": [
+"mangrove",
+"roots",
+"coastal",
+"swamp",
+"sundarbans",
+"wetland",
+"estuary"
+],
+"savanna-acacia": [
+"savanna",
+"acacia",
+"grassland",
+"africa",
+"tree",
+"plains",
+"safari"
+],
+"tundra-snow": [
+"tundra",
+"snow",
+"cold",
+"arctic",
+"polar",
+"taiga",
+"winter"
+],
+"monsoon-cloud": [
+"monsoon",
+"cloud",
+"rainfall",
+"season",
+"wind",
+"india",
+"storm"
+],
+"rain-cloud": [
+"rain",
+"cloud",
+"precipitation",
+"weather",
+"drizzle",
+"shower",
+"water",
+"cycle"
+],
+"cyclone-spiral": [
+"cyclone",
+"hurricane",
+"typhoon",
+"storm",
+"spiral",
+"eye",
+"wind"
+],
+"lightning-bolt": [
+"lightning",
+"bolt",
+"thunder",
+"electricity",
+"storm",
+"energy"
+],
+"sun-rays": [
+"sun",
+"rays",
+"solar",
+"sunshine",
+"energy",
+"climate",
+"heat"
+],
+"wind-turbine": [
+"wind",
+"turbine",
+"renewable",
+"energy",
+"power",
+"windmill"
+],
+"solar-panel": [
+"solar",
+"panel",
+"renewable",
+"energy",
+"sun",
+"power",
+"photovoltaic"
+],
+"dam-wall": [
+"dam",
+"wall",
+"reservoir",
+"hydroelectric",
+"water",
+"irrigation",
+"river"
+],
+"coal-lump": [
+"coal",
+"lump",
+"fossil",
+"fuel",
+"mining",
+"carbon",
+"energy"
+],
+"oil-derrick": [
+"oil",
+"derrick",
+"petroleum",
+"drilling",
+"fossil",
+"fuel",
+"crude"
+],
+"gas-flame": [
+"gas",
+"flame",
+"natural",
+"lpg",
+"fuel",
+"burner",
+"energy"
+],
+"nuclear-plant": [
+"nuclear",
+"plant",
+"atomic",
+"power",
+"reactor",
+"cooling",
+"tower",
+"energy"
+],
+"smog-city": [
+"smog",
+"city",
+"pollution",
+"air",
+"haze",
+"urban",
+"emissions"
+],
+"factory-smoke": [
+"factory",
+"smoke",
+"industry",
+"pollution",
+"chimney",
+"emissions",
+"manufacturing"
+],
+"plastic-bottle": [
+"plastic",
+"bottle",
+"waste",
+"pollution",
+"litter",
+"single",
+"use",
+"garbage"
+],
+"recycling-arrows": [
+"recycling",
+"arrows",
+"reuse",
+"waste",
+"reduce",
+"sustainability",
+"cycle"
+],
+"tree-sapling": [
+"sapling",
+"tree",
+"planting",
+"seedling",
+"growth",
+"afforestation",
+"plant"
+],
+"deforestation-stump": [
+"deforestation",
+"stump",
+"logging",
+"felling",
+"forest",
+"loss",
+"axe"
+],
+"forest-fire": [
+"forest",
+"fire",
+"wildfire",
+"blaze",
+"burning",
+"flames",
+"trees"
+],
+"tiger-reserve": [
+"tiger",
+"reserve",
+"wildlife",
+"conservation",
+"national",
+"park",
+"project",
+"tiger"
+],
+"rhino": [
+"rhino",
+"rhinoceros",
+"kaziranga",
+"wildlife",
+"horn",
+"endangered"
+],
+"elephant-herd": [
+"elephant",
+"herd",
+"wildlife",
+"calf",
+"conservation",
+"corridor"
+],
+"bird-flock": [
+"bird",
+"flock",
+"migration",
+"flying",
+"birds",
+"sky",
+"wildlife"
+],
+"butterfly": [
+"butterfly",
+"insect",
+"metamorphosis",
+"pollinator",
+"wings",
+"nature"
+],
+"bee": [
+"bee",
+"pollination",
+"honey",
+"insect",
+"pollinator",
+"hive"
+],
+"fish-school": [
+"fish",
+"school",
+"shoal",
+"fishery",
+"aquatic",
+"sea",
+"marine"
+],
+"whale": [
+"whale",
+"marine",
+"mammal",
+"ocean",
+"blue",
+"whale",
+"sea"
+],
+"turtle": [
+"turtle",
+"sea",
+"turtle",
+"olive",
+"ridley",
+"reptile",
+"marine",
+"nesting"
+],
+"frog": [
+"frog",
+"amphibian",
+"pond",
+"wetland",
+"habitat",
+"indicator",
+"species"
+],
+"snake": [
+"snake",
+"reptile",
+"cobra",
+"serpent",
+"venom",
+"wildlife"
+],
+"map-contours": [
+"map",
+"contours",
+"survey",
+"route",
+"location",
+"atlas",
+"geography"
+],
+"latitude-lines": [
+"latitude",
+"lines",
+"globe",
+"longitude",
+"parallels",
+"equator",
+"earth"
+],
+"time-zones-clock": [
+"time",
+"zones",
+"clock",
+"longitude",
+"meridian",
+"greenwich",
+"ist"
+],
+"compass-rose": [
+"compass",
+"rose",
+"direction",
+"north",
+"navigation",
+"cardinal"
+],
+"topo-hill-lines": [
+"topographic",
+"contour",
+"hill",
+"relief",
+"elevation",
+"map",
+"slope"
+]
+}

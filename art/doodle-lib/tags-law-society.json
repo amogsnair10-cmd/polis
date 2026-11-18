@@ -1,0 +1,465 @@
+{
+"court-building": [
+"court",
+"judiciary",
+"justice",
+"judge",
+"trial",
+"supreme",
+"high",
+"court"
+],
+"judge-wig": [
+"judge",
+"wig",
+"bench",
+"magistrate",
+"verdict",
+"judiciary",
+"trial"
+],
+"law-book": [
+"law",
+"statute",
+"legal",
+"constitution",
+"act",
+"code",
+"rules"
+],
+"witness-stand": [
+"witness",
+"testimony",
+"trial",
+"evidence",
+"cross",
+"examination",
+"court",
+"oath"
+],
+"blindfold": [
+"blind",
+"justice",
+"impartial",
+"fairness",
+"equality",
+"neutral",
+"law"
+],
+"statue-of-liberty": [
+"liberty",
+"freedom",
+"statue",
+"democracy",
+"rights",
+"independence",
+"torch"
+],
+"human-rights-hands": [
+"human",
+"rights",
+"hand",
+"freedom",
+"dignity",
+"protest",
+"equality",
+"vote"
+],
+"equal-sign-people": [
+"equality",
+"equal",
+"rights",
+"discrimination",
+"fairness",
+"gender",
+"caste"
+],
+"child-and-book": [
+"child",
+"education",
+"literacy",
+"reading",
+"school",
+"learning",
+"right",
+"to"
+],
+"school-building": [
+"school",
+"education",
+"literacy",
+"primary",
+"teaching",
+"college",
+"learning"
+],
+"hospital-cross": [
+"hospital",
+"health",
+"medical",
+"healthcare",
+"clinic",
+"doctor",
+"public",
+"health"
+],
+"hospital-bed": [
+"hospital",
+"bed",
+"patient",
+"illness",
+"care",
+"health",
+"ward",
+"recovery"
+],
+"medicine-capsule": [
+"medicine",
+"capsule",
+"pill",
+"drug",
+"health",
+"pharmacy",
+"treatment"
+],
+"syringe": [
+"syringe",
+"vaccine",
+"injection",
+"immunisation",
+"vaccination",
+"health",
+"needle"
+],
+"water-tap": [
+"water",
+"tap",
+"drinking",
+"water",
+"sanitation",
+"supply",
+"pipe",
+"tap"
+],
+"food-plate": [
+"food",
+"plate",
+"nutrition",
+"hunger",
+"meal",
+"diet",
+"ration"
+],
+"house-roof": [
+"house",
+"home",
+"housing",
+"shelter",
+"roof",
+"residence",
+"family"
+],
+"slum-houses": [
+"slum",
+"shanty",
+"housing",
+"poverty",
+"urban",
+"informal",
+"settlement"
+],
+"skyscraper": [
+"skyscraper",
+"city",
+"urban",
+"tower",
+"building",
+"metropolis",
+"development"
+],
+"factory-chimney": [
+"factory",
+"industry",
+"chimney",
+"pollution",
+"manufacturing",
+"industrial",
+"production"
+],
+"assembly-line": [
+"assembly",
+"line",
+"production",
+"automation",
+"manufacturing",
+"conveyor",
+"mass",
+"production"
+],
+"worker-helmet": [
+"worker",
+"labour",
+"helmet",
+"construction",
+"safety",
+"workers",
+"union"
+],
+"pickaxe": [
+"pickaxe",
+"mining",
+"miner",
+"coal",
+"quarry",
+"mineral",
+"labour"
+],
+"plough": [
+"plough",
+"farming",
+"agriculture",
+"farmer",
+"field",
+"tillage",
+"soil"
+],
+"sickle": [
+"sickle",
+"harvest",
+"farmer",
+"crop",
+"peasant",
+"agriculture",
+"reaping"
+],
+"hammer-and-anvil": [
+"hammer",
+"anvil",
+"blacksmith",
+"craft",
+"industry",
+"forge",
+"worker",
+"smith"
+],
+"wheat-sheaf": [
+"wheat",
+"sheaf",
+"crop",
+"harvest",
+"grain",
+"farming",
+"cereal"
+],
+"rice-field": [
+"rice",
+"paddy",
+"field",
+"crop",
+"farming",
+"kharif",
+"agriculture"
+],
+"cow": [
+"cow",
+"cattle",
+"livestock",
+"dairy",
+"milk",
+"animal",
+"husbandry"
+],
+"tractor": [
+"tractor",
+"farm",
+"mechanisation",
+"green",
+"revolution",
+"agriculture",
+"machine"
+],
+"market-stall": [
+"market",
+"stall",
+"bazaar",
+"vendor",
+"trade",
+"shop",
+"street"
+],
+"shopping-cart": [
+"shopping",
+"cart",
+"retail",
+"consumer",
+"buying",
+"market",
+"purchase"
+],
+"scale-market": [
+"scale",
+"weight",
+"market",
+"trade",
+"balance",
+"weighing",
+"measure"
+],
+"piggy-bank": [
+"piggy",
+"bank",
+"savings",
+"saving",
+"money",
+"deposit",
+"thrift"
+],
+"credit-card": [
+"credit",
+"card",
+"payment",
+"banking",
+"debit",
+"digital",
+"payment",
+"finance"
+],
+"rupee-coin": [
+"rupee",
+"coin",
+"money",
+"currency",
+"rbi",
+"cash",
+"economy"
+],
+"stock-chart-up": [
+"stock",
+"market",
+"growth",
+"profit",
+"gdp",
+"rise",
+"increase",
+"boom"
+],
+"stock-chart-down": [
+"decline",
+"recession",
+"fall",
+"loss",
+"crash",
+"slowdown",
+"deficit"
+],
+"inflation-balloon": [
+"inflation",
+"prices",
+"rising",
+"cost",
+"of",
+"living",
+"balloon",
+"price"
+],
+"loan-chain": [
+"loan",
+"debt",
+"credit",
+"interest",
+"borrowing",
+"burden",
+"chain"
+],
+"trade-ship": [
+"ship",
+"trade",
+"export",
+"import",
+"shipping",
+"port",
+"cargo",
+"maritime"
+],
+"container-crate": [
+"container",
+"crate",
+"cargo",
+"freight",
+"logistics",
+"shipment",
+"export"
+],
+"railway-track": [
+"railway",
+"track",
+"rail",
+"train",
+"transport",
+"railways",
+"infrastructure"
+],
+"truck": [
+"truck",
+"road",
+"transport",
+"freight",
+"lorry",
+"goods",
+"highway"
+],
+"aeroplane": [
+"aeroplane",
+"aircraft",
+"aviation",
+"air",
+"travel",
+"flight",
+"airport"
+],
+"phone-handset": [
+"phone",
+"telephone",
+"call",
+"communication",
+"telecom",
+"mobile",
+"handset"
+],
+"laptop": [
+"laptop",
+"computer",
+"internet",
+"technology",
+"digital",
+"it",
+"software"
+],
+"network-nodes": [
+"network",
+"internet",
+"nodes",
+"connectivity",
+"web",
+"communication",
+"system"
+],
+"padlock-data": [
+"padlock",
+"data",
+"privacy",
+"security",
+"cyber",
+"lock",
+"protection"
+],
+"robot-head": [
+"robot",
+"artificial",
+"intelligence",
+"ai",
+"automation",
+"technology",
+"machine"
+]
+}
