@@ -59,6 +59,11 @@
    "b": "<p>In 1995 the Indian company VSNL began offering commercial internet services, one of the first steps toward a public internet in India. Early users were mainly universities, research centres and a few businesses.</p><p>Cheap mobile phones later pushed internet use far beyond the cities. By the 2020s hundreds of millions of Indians were online, and India had become one of the largest internet markets in the world.</p>"
   },
   {
+   "tag": "Go deeper",
+   "h": "From a military network to the web on your phone",
+   "b": "<p>The first message on ARPANET was sent on 29 October 1969, between UCLA and the Stanford Research Institute. The first attempt was a crash. The system was still new, and only a few computers were linked.</p><p>On 1 January 1983 ARPANET switched to the TCP/IP protocols. This is often called the birth of the modern internet. Other networks then joined through common rules.</p><p><b>A sharper distinction.</b> The internet and the web are not the same thing. The internet is the network of networks that carries data. The web is one service on top of it. Tim Berners-Lee built the web at CERN, around 1989 to 1991.</p><p><b>A second example.</b> The first website went online in August 1991. Its purpose was to explain the web itself. Berners-Lee made the basic code free to use, which helped the web grow quickly.</p><p>Common mix-up: the internet was not invented by one person. Many people shaped it, including Vint Cerf and Bob Kahn, who designed TCP. Telephone networks, university computers and government funding all played parts.</p><p>By the mid-1990s, browsers such as Mosaic and Netscape made the web easy to use. That turned a research tool into a mass medium.</p>"
+  },
+  {
    "tag": "Recap",
    "h": "Five takeaways, two puzzles",
    "b": "<b>Five things to remember</b><ol><li>Packet switching was developed in the 1960s.</li><li>The first ARPANET message was sent in October 1969.</li><li>TCP/IP was adopted on ARPANET in 1983.</li><li>Tim Berners-Lee proposed the web in 1989.</li><li>Commercial internet reached India in 1995.</li></ol><b>Think about it</b><ul><li>Who should get the credit for a shared invention?</li><li>Does an open network make it harder to control speech?</li></ul>",
