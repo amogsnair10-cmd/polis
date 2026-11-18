@@ -32,21 +32,24 @@ const SND={
 };
 /* Haptics as little scores: [kind, delay-ms]. Native (Capacitor Haptics) gets real impact strengths; the browser fallback gets a vibrate pattern. */
 const SEQ={
-  tap:[['sel',0]],
-  open:[['l',0]],
-  swipe:[['sel',0]],
-  good:[['l',0],['m',70],['s',150]],                       /* tick, thump, bright finish */
-  bad:[['h',0],['w',120]],                                 /* hard knock, then a dull warning */
+  tap:[['l',0]],
+  open:[['m',0]],
+  swipe:[['m',0]],
+  good:[['m',0],['m',110],['h',230]],                       /* tick, thump, bright finish */
+  bad:[['h',0],['h',140],['w',300]],                                 /* hard knock, then a dull warning */
   done:[['l',0],['l',80],['m',170],['s',290]],
   badge:[['l',0],['l',70],['m',140],['m',210],['h',300],['s',430]],  /* building up like a drum roll */
   level:[['l',0],['l',60],['l',120],['m',190],['m',260],['h',340],['h',430],['s',560]],
   streak:[['m',0],['m',110],['s',230]]
 };
-const FB={sel:5,l:10,m:20,h:42,w:[40,40,40],s:[22,30,48]};   /* browser fallback per step (ms) */
+/* strength in ms: phones barely feel anything under ~20 ms, so these are deliberately firm */
+const MS={sel:14,l:28,m:48,h:90,w:80,s:60};
+const FB=MS;
 function step(H,t){try{
-  if(t==='sel')return H.selectionChanged&&H.selectionChanged();
-  if(t==='l')return H.impact({style:'LIGHT'});if(t==='m')return H.impact({style:'MEDIUM'});if(t==='h')return H.impact({style:'HEAVY'});
-  if(t==='w')return H.notification({type:'WARNING'});if(t==='s')return H.notification({type:'SUCCESS'})}catch(e){}}
+  if(t==='sel')return H.vibrate?H.vibrate({duration:MS.sel}):H.selectionChanged&&H.selectionChanged();
+  const d=MS[t]||40;
+  if(H.vibrate)H.vibrate({duration:d});                                      /* raw, strong vibration */
+  if(t==='h')H.impact({style:'HEAVY'});else if(t==='m')H.impact({style:'MEDIUM'});else if(t==='s')H.notification({type:'SUCCESS'});else if(t==='w')H.notification({type:'WARNING'})}catch(e){}}
 function buzz(k){if(!on('hap'))return;const seq=SEQ[k];if(!seq)return;
   const H=window.Capacitor&&Capacitor.Plugins&&Capacitor.Plugins.Haptics;
   if(H){if(k==='swipe'||k==='tap'){try{H.selectionStart&&H.selectionStart()}catch(e){}}
