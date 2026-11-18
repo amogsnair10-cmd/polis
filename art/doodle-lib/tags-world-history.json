@@ -1,0 +1,453 @@
+{
+ "cave-painting-hand": [
+  "cave",
+  "prehistoric",
+  "stone age",
+  "handprint",
+  "paleolithic",
+  "art",
+  "hunter"
+ ],
+ "stone-axe": [
+  "stone age",
+  "axe",
+  "tool",
+  "neolithic",
+  "flint",
+  "early humans",
+  "hunter"
+ ],
+ "fire-flame": [
+  "fire",
+  "flame",
+  "hearth",
+  "campfire",
+  "warmth",
+  "prehistoric",
+  "energy"
+ ],
+ "wheat-and-sickle-first-farm": [
+  "agriculture",
+  "farm",
+  "wheat",
+  "harvest",
+  "neolithic",
+  "sickle",
+  "crops",
+  "grain"
+ ],
+ "pottery-jar": [
+  "pottery",
+  "pot",
+  "jar",
+  "clay",
+  "ceramic",
+  "craft",
+  "neolithic"
+ ],
+ "cuneiform-tablet": [
+  "cuneiform",
+  "writing",
+  "sumer",
+  "mesopotamia",
+  "tablet",
+  "clay",
+  "scribe"
+ ],
+ "ziggurat": [
+  "ziggurat",
+  "mesopotamia",
+  "sumer",
+  "babylon",
+  "temple",
+  "city",
+  "tower"
+ ],
+ "pyramid-egypt": [
+  "pyramid",
+  "egypt",
+  "pharaoh",
+  "giza",
+  "tomb",
+  "ancient egypt",
+  "desert"
+ ],
+ "sphinx": [
+  "sphinx",
+  "egypt",
+  "giza",
+  "pharaoh",
+  "monument",
+  "riddle",
+  "ancient egypt"
+ ],
+ "papyrus-scroll": [
+  "papyrus",
+  "scroll",
+  "hieroglyph",
+  "egypt",
+  "writing",
+  "document",
+  "record"
+ ],
+ "ankh": [
+  "ankh",
+  "egypt",
+  "life",
+  "symbol",
+  "religion",
+  "afterlife",
+  "pharaoh"
+ ],
+ "greek-temple": [
+  "greece",
+  "temple",
+  "parthenon",
+  "athens",
+  "column",
+  "classical",
+  "ancient greece"
+ ],
+ "greek-helmet": [
+  "greek",
+  "hoplite",
+  "helmet",
+  "sparta",
+  "warrior",
+  "war",
+  "persian wars"
+ ],
+ "olive-wreath": [
+  "olympics",
+  "wreath",
+  "victory",
+  "laurel",
+  "greece",
+  "games",
+  "champion"
+ ],
+ "amphora": [
+  "amphora",
+  "greece",
+  "vase",
+  "pottery",
+  "trade",
+  "wine",
+  "ancient greece"
+ ],
+ "roman-arch": [
+  "rome",
+  "arch",
+  "roman",
+  "triumph",
+  "architecture",
+  "empire",
+  "engineering"
+ ],
+ "aqueduct": [
+  "aqueduct",
+  "rome",
+  "water",
+  "engineering",
+  "roman",
+  "bridge",
+  "infrastructure"
+ ],
+ "roman-eagle": [
+  "eagle",
+  "rome",
+  "legion",
+  "standard",
+  "roman army",
+  "empire",
+  "military"
+ ],
+ "colosseum": [
+  "colosseum",
+  "rome",
+  "gladiator",
+  "arena",
+  "amphitheatre",
+  "roman",
+  "games"
+ ],
+ "great-wall": [
+  "great wall",
+  "china",
+  "wall",
+  "defence",
+  "dynasty",
+  "qin",
+  "fortification"
+ ],
+ "silk-bolt": [
+  "silk",
+  "silk road",
+  "china",
+  "trade",
+  "cloth",
+  "textile",
+  "merchant"
+ ],
+ "junk-ship": [
+  "junk",
+  "ship",
+  "china",
+  "ming",
+  "treasure fleet",
+  "zheng he",
+  "sail"
+ ],
+ "pagoda": [
+  "pagoda",
+  "china",
+  "temple",
+  "buddhism",
+  "tang",
+  "east asia",
+  "tower"
+ ],
+ "samurai-helmet": [
+  "samurai",
+  "japan",
+  "helmet",
+  "shogun",
+  "feudal",
+  "warrior",
+  "kabuto"
+ ],
+ "viking-longship": [
+  "viking",
+  "longship",
+  "norse",
+  "raid",
+  "scandinavia",
+  "sea",
+  "exploration"
+ ],
+ "castle-tower": [
+  "castle",
+  "tower",
+  "medieval",
+  "feudal",
+  "fortress",
+  "middle ages",
+  "siege"
+ ],
+ "knight-helmet": [
+  "knight",
+  "helmet",
+  "medieval",
+  "chivalry",
+  "armour",
+  "feudal",
+  "warrior"
+ ],
+ "cathedral-rose": [
+  "cathedral",
+  "rose window",
+  "gothic",
+  "medieval",
+  "church",
+  "stained glass",
+  "architecture"
+ ],
+ "crusader-cross": [
+  "crusade",
+  "crusader",
+  "cross",
+  "holy land",
+  "medieval",
+  "jerusalem",
+  "templar"
+ ],
+ "crescent-mosque-dome": [
+  "mosque",
+  "islam",
+  "dome",
+  "crescent",
+  "caliphate",
+  "muslim",
+  "golden age"
+ ],
+ "camel-caravan": [
+  "camel",
+  "caravan",
+  "desert",
+  "trade",
+  "silk road",
+  "sahara",
+  "merchant"
+ ],
+ "astrolabe": [
+  "astrolabe",
+  "astronomy",
+  "navigation",
+  "islamic science",
+  "medieval",
+  "stars",
+  "instrument"
+ ],
+ "printing-block": [
+  "woodblock",
+  "printing",
+  "print",
+  "china",
+  "block",
+  "book",
+  "paper"
+ ],
+ "gutenberg-press": [
+  "printing press",
+  "gutenberg",
+  "press",
+  "book",
+  "renaissance",
+  "reformation",
+  "movable type"
+ ],
+ "renaissance-compass": [
+  "compass",
+  "renaissance",
+  "geometry",
+  "drawing",
+  "science",
+  "art",
+  "divider"
+ ],
+ "globe-explorer": [
+  "globe",
+  "explorer",
+  "exploration",
+  "discovery",
+  "world",
+  "age of discovery",
+  "map"
+ ],
+ "caravel-ship": [
+  "caravel",
+  "ship",
+  "columbus",
+  "portugal",
+  "exploration",
+  "voyage",
+  "age of discovery"
+ ],
+ "conquistador-helmet": [
+  "conquistador",
+  "spanish",
+  "helmet",
+  "conquest",
+  "aztec",
+  "inca",
+  "colonial"
+ ],
+ "golden-mask": [
+  "gold",
+  "mask",
+  "inca",
+  "aztec",
+  "treasure",
+  "pharaoh",
+  "empire"
+ ],
+ "slave-ship-chains": [
+  "slave trade",
+  "slavery",
+  "chains",
+  "atlantic",
+  "middle passage",
+  "ship",
+  "abolition"
+ ],
+ "cotton-gin": [
+  "cotton gin",
+  "cotton",
+  "whitney",
+  "industrial",
+  "plantation",
+  "invention",
+  "slavery"
+ ],
+ "steam-engine": [
+  "steam engine",
+  "locomotive",
+  "railway",
+  "industrial revolution",
+  "train",
+  "watt",
+  "factory"
+ ],
+ "spinning-jenny": [
+  "spinning jenny",
+  "textile",
+  "industrial revolution",
+  "cloth",
+  "factory",
+  "loom",
+  "invention"
+ ],
+ "guillotine": [
+  "guillotine",
+  "french revolution",
+  "terror",
+  "execution",
+  "robespierre",
+  "revolution",
+  "france"
+ ],
+ "liberty-cap": [
+  "liberty",
+  "phrygian cap",
+  "french revolution",
+  "republic",
+  "freedom",
+  "revolution",
+  "cockade"
+ ],
+ "napoleon-hat": [
+  "napoleon",
+  "bicorne",
+  "hat",
+  "france",
+  "emperor",
+  "empire",
+  "general"
+ ],
+ "cannonball": [
+  "cannonball",
+  "cannon",
+  "war",
+  "artillery",
+  "battle",
+  "gunpowder",
+  "siege"
+ ],
+ "trench-barbed": [
+  "trench",
+  "barbed wire",
+  "world war",
+  "ww1",
+  "western front",
+  "no man's land",
+  "war"
+ ],
+ "poppy": [
+  "poppy",
+  "remembrance",
+  "world war",
+  "ww1",
+  "flanders",
+  "memorial",
+  "armistice"
+ ],
+ "biplane": [
+  "biplane",
+  "aeroplane",
+  "ww1",
+  "aviation",
+  "flight",
+  "air war",
+  "wright brothers"
+ ]
+}
