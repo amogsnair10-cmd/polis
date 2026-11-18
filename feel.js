@@ -11,18 +11,20 @@ function ac(){if(!on('snd'))return null;try{if(!ctx){const C=window.AudioContext
   if(ctx.state==='suspended')ctx.resume();return ctx}catch(e){return null}}
 /* one voice: pure, bell (inharmonic partials), wood (short pluck) */
 function voice(f,t0,d,o={}){const c=ac();if(!c)return;const a=c.currentTime+t0,v=o.v||.16,kind=o.k||'bell',send=o.send===undefined?.6:o.send;
-  const out=c.createGain();out.gain.setValueAtTime(0.0001,a);out.gain.exponentialRampToValueAtTime(v,a+.008);out.gain.exponentialRampToValueAtTime(0.0001,a+d);out.connect(master);if(send){const sg=c.createGain();sg.gain.value=send;out.connect(sg);sg.connect(verb)}
-  const parts=kind==='bell'?[[1,1],[2.76,.32],[5.4,.12],[8.93,.05]]:kind==='wood'?[[1,1],[2.1,.35]]:[[1,1],[2,.2]];
+  const out=c.createGain();out.gain.setValueAtTime(0.0001,a);out.gain.exponentialRampToValueAtTime(v,a+(o.att||.008));out.gain.exponentialRampToValueAtTime(0.0001,a+d);out.connect(master);if(send){const sg=c.createGain();sg.gain.value=send;out.connect(sg);sg.connect(verb)}
+  const parts=kind==='bell'?[[1,1],[2.76,.32],[5.4,.12],[8.93,.05]]:kind==='wood'?[[1,1],[2.1,.35]]:kind==='pure'?[[1,1],[2,.12]]:[[1,1],[2,.2]];
   parts.forEach(([m,g],i)=>{const osc=c.createOscillator(),pg=c.createGain();osc.type=kind==='saw'?'sawtooth':'sine';osc.frequency.setValueAtTime(f*m,a);if(o.to)osc.frequency.exponentialRampToValueAtTime(o.to*m,a+d);
     pg.gain.setValueAtTime(g,a);pg.gain.exponentialRampToValueAtTime(0.0001,a+d*(i?.55:1));osc.connect(pg);pg.connect(out);osc.start(a);osc.stop(a+d+.06)})}
-function noise(t0,d,fq,v){const c=ac();if(!c)return;const a=c.currentTime+t0,len=Math.max(1,Math.floor(c.sampleRate*d)),buf=c.createBuffer(1,len,c.sampleRate),da=buf.getChannelData(0);for(let i=0;i<len;i++)da[i]=(Math.random()*2-1)*(1-i/len);
-  const src=c.createBufferSource();src.buffer=buf;const f=c.createBiquadFilter();f.type='bandpass';f.frequency.value=fq;f.Q.value=1.2;const g=c.createGain();g.gain.value=v;src.connect(f);f.connect(g);g.connect(master);src.start(a)}
+function noise(t0,d,fq,v,type){const c=ac();if(!c)return;const a=c.currentTime+t0,len=Math.max(1,Math.floor(c.sampleRate*d)),buf=c.createBuffer(1,len,c.sampleRate),da=buf.getChannelData(0);for(let i=0;i<len;i++)da[i]=(Math.random()*2-1)*(1-i/len);
+  const src=c.createBufferSource();src.buffer=buf;const f=c.createBiquadFilter();f.type=type||'bandpass';f.frequency.value=fq;f.Q.value=type?.7:1.2;const g=c.createGain();g.gain.value=v;src.connect(f);f.connect(g);g.connect(master);src.start(a)}
 /* C major pentatonic, so any run of notes sounds good */
 const P=[261.63,293.66,329.63,392,440,523.25,587.33,659.25,783.99,880,1046.5,1174.66,1318.5,1567.98];
 const SND={
-  tap:()=>voice(1180,0,.07,{k:'wood',v:.07,send:.1}),
-  open:()=>{voice(660,0,.09,{k:'wood',v:.07,send:.15});voice(990,.05,.1,{k:'wood',v:.05,send:.15})},
-  swipe:()=>{noise(0,.07,2600,.05);voice(700,0,.05,{k:'wood',v:.035,send:0})},
+  /* tap: a soft, low "thock" like a physical key, with a tiny click on top */
+  tap:()=>{voice(210,0,.07,{k:'pure',v:.2,to:105,send:0});noise(0,.012,4200,.03,'highpass')},
+  open:()=>{voice(260,0,.08,{k:'pure',v:.18,to:140,send:.05});voice(390,.03,.06,{k:'pure',v:.08,to:260,send:.05})},
+  /* swipe: a soft low "whoom", a slow sine sweep with a muffled breath under it, no sharp edge */
+  swipe:()=>{voice(150,0,.3,{k:'pure',v:.2,to:62,send:.1,att:.07});noise(0,.28,420,.05,'lowpass')},
   good:()=>{const i=Math.min(combo,5);combo++;const r=P[4+i];voice(r,0,.5,{v:.13});voice(r*1.5,.07,.55,{v:.1});voice(r*2,.15,.6,{v:.07,send:.8});if(combo>=3)noise(.1,.12,6500,.04)},
   bad:()=>{combo=0;voice(233,0,.28,{k:'saw',v:.05,to:196,send:.1});voice(174,.08,.34,{k:'wood',v:.1,to:150,send:.2})},
   done:()=>{[0,2,4,5,7].forEach((n,i)=>voice(P[n+3],i*.085,.7,{v:.12}));voice(P[8],.45,.9,{v:.09,send:.9});noise(.43,.25,7000,.05)},
@@ -34,7 +36,7 @@ const SND={
 const SEQ={
   tap:[['l',0]],
   open:[['m',0]],
-  swipe:[['m',0]],
+  swipe:[['l',0]],
   good:[['m',0],['m',110],['h',230]],                       /* tick, thump, bright finish */
   bad:[['h',0],['h',140],['w',300]],                                 /* hard knock, then a dull warning */
   done:[['l',0],['l',80],['m',170],['s',290]],
@@ -70,6 +72,6 @@ window.Feel={diag,play(k){if(k==='tap'&&this._t&&performance.now()-this._t<40)re
 function unlock(){if(!on('snd'))return;const c=ac();if(!c)return;try{const b=c.createBuffer(1,1,22050),s=c.createBufferSource();s.buffer=b;s.connect(c.destination);s.start(0)}catch(e){}
   if(c.state==='running'){['pointerdown','touchend','click','keydown'].forEach(t=>removeEventListener(t,unlock,true))}}
 ['pointerdown','touchend','click','keydown'].forEach(t=>addEventListener(t,unlock,{capture:true,passive:true}));
-/* light feedback on common controls */
-document.addEventListener('click',e=>{const t=e.target.closest('button,.opt,.choice,.pick,.me-weak,.me-sub');if(!t||t.classList.contains('opt'))return;Feel.play('tap')},{passive:true});
+/* buttons answer the moment your finger lands, which is what makes them feel physical */
+document.addEventListener('pointerdown',e=>{const t=e.target.closest('button,.choice,.pick,.me-weak,.me-sub,.metabs button,.x');if(!t||t.classList.contains('opt')||t.disabled)return;Feel.play('tap')},{passive:true,capture:true});
 })();
