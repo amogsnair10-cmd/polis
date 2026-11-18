@@ -49,6 +49,11 @@
    "b": "<p><b>C.N.R. Rao</b> is a leading Indian solid-state and materials chemist, known for work on oxides, nanomaterials and graphene. He received the Bharat Ratna in 2013. India co-founded the <b>International Solar Alliance (2015)</b> and has set big renewable targets, while the National Green Hydrogen Mission (2023) seeks green hydrogen and ammonia at scale. Indian industry and IITs work on greener catalysts and bio-based chemicals.</p>"
   },
   {
+   "tag": "Go deeper",
+   "h": "Atom economy, with a made-up example",
+   "b": "<p>Atom economy asks: how much of the reactant mass ends up in the product we want? It is a quick check of waste, before you even start in a lab.</p>\n<p>Atom economy = mass of wanted product / total reactant mass x 100.</p>\n<p>Solvents are a major target. Many common solvents are toxic or evaporate easily. Green chemistry tries to use water, ethanol or carbon dioxide where it can, and to run reactions at room temperature to save energy.</p>\n<div class=\"box\"><h4>Worked example (made-up reaction)</h4>\n<p>Reaction: A + B → C + D. C is the wanted product, 60 g. D is waste, 40 g.</p>\n<p>Step 1: total reactant mass = 60 + 40 = 100 g, because mass is conserved.</p>\n<p>Step 2: atom economy = 60 / 100 x 100 = 60 percent.</p>\n<p>Step 3: 40 percent of the mass is waste.</p></div>\n<p>A real case often quoted is the BHC process for ibuprofen, from the 1990s. It has an atom economy of about 77 percent, against about 40 percent for the older route.</p>\n<p><b>Trap:</b> a high yield can still be wasteful. A 95 percent yield with a low atom economy still throws away most of the mass as by-products.</p>"
+  },
+  {
    "tag": "Recap",
    "h": "Key takeaways",
    "b": "<ul><li>Green chemistry prevents waste: 12 principles (Anastas and Warner, 1998).</li><li>Atom economy = desired product mass / reactant mass x 100; E-factor = waste per product.</li><li>Future materials: graphene, perovskites, MOFs, green hydrogen.</li></ul><div class=\"box\"><h4>Think about it</h4><p>1. Why can a reaction with 95 percent yield still be wasteful?</p><p>2. What would you redesign in a product you use daily to make it greener?</p></div>",

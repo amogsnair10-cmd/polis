@@ -49,6 +49,11 @@
    "b": "<p><b>Prafulla Chandra Ray</b> (1861-1944) made mercurous nitrite in 1896, a stable compound that brought him international recognition. He founded <b>Bengal Chemical and Pharmaceutical Works</b> in 1901, among India's first modern chemical companies, and wrote <i>A History of Hindu Chemistry</i>. He showed Indian chemistry could be both research and enterprise.</p>"
   },
   {
+   "tag": "Go deeper",
+   "h": "Using electronegativity to guess the bond",
+   "b": "<p><b>Electronegativity</b> is how hard an atom pulls on shared electrons. Pauling's scale gives values such as Na 0.93, H 2.20 and Cl 3.16.</p>\n<p>A rough rule: a difference above about 1.7 usually means ionic. A small difference means covalent. In between, the bond is polar covalent.</p>\n<p>Metals are a third case. Their atoms share a sea of electrons, which is why metals bend, shine and conduct. Diamond is a giant covalent network, which is why it melts at very high temperature. Ionic crystals shatter when struck, because layers of like charges are pushed next to each other.</p>\n<div class=\"box\"><h4>Worked example: NaCl and HCl</h4>\n<p>NaCl. Step 1: 3.16 - 0.93 = 2.23.</p>\n<p>Step 2: 2.23 is well above 1.7, so the bond is <b>ionic</b>.</p>\n<p>HCl. Step 1: 3.16 - 2.20 = 0.96.</p>\n<p>Step 2: 0.96 is below 1.7, so the bond is <b>polar covalent</b>. The electrons are shared, but Cl pulls them closer.</p></div>\n<p><b>Charge balance:</b> to write a formula, cross the charges. Al3+ and O2- give Al2O3, because 2 x 3 = 6 = 3 x 2. Ionic and covalent are the two ends of a scale, not two sealed boxes.</p>"
+  },
+  {
    "tag": "Recap",
    "h": "Key takeaways",
    "b": "<ul><li>Ionic: electron transfer, lattice, high melting point, conducts when molten.</li><li>Covalent: shared pairs; single, double, triple bonds.</li><li>Metallic: sea of electrons.</li><li>Electronegativity difference guides the bond type.</li></ul><div class=\"box\"><h4>Think about it</h4><p>1. Why does solid salt not conduct electricity but salt water does?</p><p>2. Why is nitrogen gas so unreactive?</p></div>",

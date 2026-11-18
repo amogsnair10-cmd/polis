@@ -49,6 +49,11 @@
    "b": "<p>Ruby is aluminium oxide with a trace of chromium (Cr3+), giving a red colour; emerald (beryl) is coloured by chromium too, while blue sapphire owes its hue to iron and titanium. India's gem industry, with Jaipur for coloured stones and Surat for cutting and polishing diamonds, relies on such transition-metal chemistry to grade, treat and sell stones.</p>"
   },
   {
+   "tag": "Go deeper",
+   "h": "Finding the metal's charge in a complex",
+   "b": "<p>In a complex, the central metal ion is surrounded by ligands. The charge on the whole ion is the metal's charge plus the charge of each ligand. Ammonia (NH3) and water are neutral. Cyanide (CN-) is -1.</p>\n<p>Use this to find the metal's oxidation state. Cisplatin, a platinum-based drug used in cancer treatment, is a useful example.</p>\n<p>Transition metals are also useful catalysts. Iron is used in the Haber process, nickel in turning vegetable oils into margarine, and vanadium(V) oxide in the contact process for sulfuric acid. Each offers the reactants a surface or a different route.</p>\n<div class=\"box\"><h4>Worked example: the metal in [Fe(CN)6]4-</h4>\n<p>Step 1: the whole ion has charge -4.</p>\n<p>Step 2: 6 cyanide ligands, each -1, give -6.</p>\n<p>Step 3: let the iron be x. x + (-6) = -4.</p>\n<p>Step 4: x = +2. So the iron is Fe2+.</p></div>\n<p>Cisplatin is neutral overall, with 2 neutral NH3 and 2 Cl-. So the platinum must be Pt2+.</p>\n<p><b>Trap:</b> the coordination number is how many ligand bonds the metal has, not its charge. In [Co(NH3)6]3+ the coordination number is 6 and cobalt is +3.</p>"
+  },
+  {
    "tag": "Recap",
    "h": "Key takeaways",
    "b": "<ul><li>Transition metals: variable oxidation states, colour, catalysis, complex ions.</li><li>Werner (1893): metal centre plus ligands; coordination number often 6.</li><li>Biology uses them: Fe in haemoglobin, Mg in chlorophyll, Co in B12.</li></ul><div class=\"box\"><h4>Think about it</h4><p>1. Why is a solution of Zn2+ colourless while Cu2+ is blue?</p><p>2. How does a catalyst benefit from changing oxidation states?</p></div>",

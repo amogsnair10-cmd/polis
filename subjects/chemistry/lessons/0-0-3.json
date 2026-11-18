@@ -49,6 +49,11 @@
    "b": "<p><b>Meghnad Saha</b> derived the Saha ionisation equation in 1920, explaining how atoms of different elements ionise at different star temperatures. It is the basis for reading the chemistry of stars.</p><p>India's coastal sands in Kerala, Tamil Nadu and Odisha are rich in <b>monazite</b>, a mineral holding rare-earth elements and thorium, which links the periodic table directly to India's nuclear plans.</p>"
   },
   {
+   "tag": "Go deeper",
+   "h": "Finding a group and period from the atomic number",
+   "b": "<p>Once you know the atomic number, the table tells you a lot. The number of electron shells gives the period. For the main groups, the number of outer electrons gives the group.</p>\n<p>Moseley's X-ray work (1913) showed that atomic number, not mass, is the true order. Mendeleev had put tellurium before iodine by mass. Moseley's order fixed this.</p>\n<p>Across a period, the nuclear charge rises but the new electrons go into the same shell, so atoms shrink. Going down a group, each step adds a shell, so atoms grow. Fluorine is the most electronegative element, at 3.98 on Pauling's scale.</p>\n<div class=\"box\"><h4>Worked example: sulfur (atomic number 16)</h4>\n<p>Step 1: electrons = protons = 16.</p>\n<p>Step 2: fill the shells. 2 go in the first, 8 in the second, leaving 6.</p>\n<p>Step 3: 3 shells are used, so period 3.</p>\n<p>Step 4: 6 outer electrons, so group 16, the oxygen group.</p></div>\n<p>Size of the pull: the first ionisation energy of sodium is about 496 kJ per mole, and of chlorine about 1,251 kJ per mole. Chlorine holds its electrons far more tightly, which is why it gains electrons and sodium loses them.</p>\n<p><b>Trap:</b> helium has only 2 electrons but sits in group 18, because its outer shell is full.</p>"
+  },
+  {
    "tag": "Recap",
    "h": "Key takeaways",
    "b": "<ul><li>Mendeleev (1869) arranged by mass; Moseley (1913) showed atomic number is the true order.</li><li>18 groups, 7 periods; groups share outer-electron count.</li><li>Radius falls across, rises down; ionisation energy and electronegativity rise across.</li></ul><div class=\"box\"><h4>Think about it</h4><p>1. Why is potassium more reactive than lithium?</p><p>2. Why did Mendeleev's gaps make his table convincing?</p></div>",

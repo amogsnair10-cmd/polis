@@ -49,6 +49,11 @@
    "b": "<p><b>Satyendra Nath Bose</b> (1924) developed the statistics of light particles, later extended by Einstein into Bose-Einstein statistics. The particle class <i>boson</i> carries his name.</p><p><b>C.V. Raman</b> discovered in 1928 that light scattered by molecules changes colour slightly, revealing molecular energy levels. The Raman effect won him the 1930 Nobel Prize in Physics, and Raman spectroscopy is now a standard chemistry tool.</p>"
   },
   {
+   "tag": "Go deeper",
+   "h": "Why 4s fills before 3d, with a full example",
+   "b": "<p>The filling order is not simply shell 1, then 2, then 3. Electrons fill orbitals in order of energy. The 4s orbital is lower in energy than 3d, so 4s fills first, even though 3d belongs to the third shell.</p>\n<p>The order goes: 1s, 2s, 2p, 3s, 3p, 4s, 3d, 4p. Each s subshell holds 2 electrons, each p 6, each d 10 and each f 14.</p>\n<p><b>Trap:</b> when a transition metal loses electrons, the 4s electrons leave first. Iron atoms are [Ar] 3d^6 4s^2, but Fe2+ is [Ar] 3d^6.</p>\n<p>Hund's rule: electrons first go into empty orbitals of a subshell, one each, before any pair forms. Nitrogen (7 electrons) is 1s^2 2s^2 2p^3: each of the three p orbitals holds one electron.</p>\n<div class=\"box\"><h4>Worked example: iron (26 electrons)</h4>\n<p>Step 1: 1s^2 uses 2 electrons. Total 2.</p>\n<p>Step 2: 2s^2 2p^6 uses 8 more. Total 10.</p>\n<p>Step 3: 3s^2 3p^6 uses 8 more. Total 18. This is argon, [Ar].</p>\n<p>Step 4: 4s^2 uses 2 more. Total 20.</p>\n<p>Step 5: 3d^6 uses the last 6. Total 26.</p>\n<p><b>Result: [Ar] 3d^6 4s^2.</b></p></div>\n<p><b>Exception:</b> chromium (24 electrons) is [Ar] 3d^5 4s^1, not 3d^4 4s^2. A half-filled d subshell is extra stable. Copper is [Ar] 3d^10 4s^1 for the same reason.</p>"
+  },
+  {
    "tag": "Recap",
    "h": "Key takeaways",
    "b": "<ul><li>Electrons occupy quantised energy levels and orbitals (s, p, d, f).</li><li>Shell capacity is 2n^2; s, p, d, f hold 2, 6, 10, 14.</li><li>Fill by Aufbau, Pauli and Hund.</li><li>Outer electrons decide chemical behaviour.</li></ul><div class=\"box\"><h4>Think about it</h4><p>1. Why does neon not react while sodium does?</p><p>2. Write the configuration of magnesium (12 electrons).</p></div>",

@@ -49,6 +49,11 @@
    "b": "<p><b>G.N. Ramachandran</b> (Madras, 1963) worked out which twist angles are allowed in protein chains, drawn as the <b>Ramachandran plot</b>, still used worldwide. He also helped decipher the triple-helix structure of collagen. His work shows that shape and hydrogen bonding decide how a protein folds.</p>"
   },
   {
+   "tag": "Go deeper",
+   "h": "Why CH4, NH3 and H2O have different angles",
+   "b": "<p>Electron pairs repel each other and spread as far apart as they can. Count all the pairs around the central atom, both bonding and lone pairs. That count sets the basic arrangement.</p>\n<p>Lone pairs take more space than bonding pairs. So each lone pair squeezes the bond angles a little more.</p>\n<p>Shape also decides whether a molecule is polar. A molecule with polar bonds and a lone pair on the central atom usually has a net pull, as water does. A symmetric molecule such as CCl4 cancels out, even though each C-Cl bond is polar.</p>\n<div class=\"box\"><h4>Worked example: water (H2O)</h4>\n<p>Step 1: oxygen has 6 outer electrons.</p>\n<p>Step 2: 2 go into bonds with hydrogen, leaving 4 electrons, which form 2 lone pairs.</p>\n<p>Step 3: total pairs around O = 2 bonding + 2 lone = 4. The basic arrangement is tetrahedral.</p>\n<p>Step 4: 2 of those 4 positions are lone pairs, so the shape is <b>bent</b>, with an angle of about 104.5 degrees.</p></div>\n<p>Compare CH4: 4 bonding pairs and no lone pair gives 109.5 degrees. NH3 has 1 lone pair, giving about 107 degrees.</p>\n<p><b>Trap:</b> CO2 has polar C=O bonds, yet the molecule is linear and non-polar. The two bond pulls point in opposite directions and cancel.</p>"
+  },
+  {
    "tag": "Recap",
    "h": "Key takeaways",
    "b": "<ul><li>VSEPR: electron pairs spread out; lone pairs squeeze angles.</li><li>CH4 109.5, NH3 107, H2O 104.5, CO2 180.</li><li>Polarity depends on shape.</li><li>Dispersion, dipole-dipole and hydrogen bonds set boiling points; hydrogen bonds make ice float.</li></ul><div class=\"box\"><h4>Think about it</h4><p>1. Why is CO2 non-polar although C=O bonds are polar?</p><p>2. If ice sank, what would happen to ponds in winter?</p></div>",

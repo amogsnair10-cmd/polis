@@ -49,6 +49,11 @@
    "b": "<p><b>Turmeric</b> is a natural indicator: yellow in acid, turning reddish in base, which is why soap-washed turmeric stains turn red. Acid rain from sulphur dioxide of nearby industry was found to yellow the Taj Mahal's marble (calcium carbonate). The Supreme Court's 1996 orders (M.C. Mehta case) led to the Taj Trapezium Zone and shifts to cleaner fuel.</p>"
   },
   {
+   "tag": "Go deeper",
+   "h": "Calculating pH from concentration",
+   "b": "<p>pH = -log[H+]. The minus sign makes pH fall as H+ rises. Each drop of 1 in pH means ten times more H+.</p>\n<p>Strong and weak are about strength, not concentration. Strong acids like HCl split completely in water. Weak acids like ethanoic acid split only a little. A weak acid can still be concentrated and dangerous.</p>\n<p>A buffer is a weak acid mixed with its salt, and it resists pH change. Human blood is buffered to about pH 7.4, and it must stay in a narrow range, about 7.35 to 7.45, for health. A small shift outside that range causes serious harm, which is why the body works hard to keep it steady.</p>\n<div class=\"box\"><h4>Worked example: pH of 0.001 mol/L HCl</h4>\n<p>Step 1: HCl is a strong acid, so [H+] = 0.001 mol/L = 10^-3.</p>\n<p>Step 2: pH = -log(10^-3).</p>\n<p>Step 3: log(10^-3) = -3, so pH = -(-3) = 3.</p>\n<p>Diluting it 10 times gives 0.0001 mol/L, which is pH 4.</p></div>\n<p><b>Trap:</b> dilution lowers the concentration but not the number of moles of acid. Adding water to vinegar spreads the acid out; it does not remove it. Also, at 25 °C, pH + pOH = 14.</p>"
+  },
+  {
    "tag": "Recap",
    "h": "Key takeaways",
    "b": "<ul><li>Brønsted-Lowry: acids donate H+, bases accept.</li><li>pH = -log [H+]; each unit is 10x.</li><li>Acid + base → salt + water; buffers resist pH change.</li></ul><div class=\"box\"><h4>Think about it</h4><p>1. Why is a weak acid still dangerous at high concentration?</p><p>2. Why do plants prefer soil of a certain pH?</p></div>",

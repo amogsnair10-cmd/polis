@@ -31,7 +31,7 @@
   {
    "tag": "Key idea",
    "h": "Mole formulas",
-   "b": "<p>Three relations cover most problems.</p><div class=\"box\"><h4>Formulas</h4><p>moles = mass (g) / molar mass (g/mol)</p><p>number of particles = moles x 6.022 x 10^23</p><p>molar mass of a compound = sum of atomic masses</p></div><p>Water: H2O = 2 x 1 + 16 = <b>18 g/mol</b>. CO2 = 12 + 2 x 16 = <b>44 g/mol</b>. NaCl = 23 + 35.5 = 58.5 g/mol.</p>"
+   "b": "<p>Three relations cover most problems.</p><div class=\"box\"><h4>Formulas</h4><p>moles = mass (g) / molar mass (g/mol)</p><p>number of particles = moles x 6.022 x 10^23</p><p>molar mass of a compound = sum of atomic masses</p></div><p>Here moles is the amount in moles, mass is in grams and molar mass is in grams per mole. The number of particles is the moles times 6.022 x 10^23.</p><p>Water: H2O = 2 x 1 + 16 = <b>18 g/mol</b>. CO2 = 12 + 2 x 16 = <b>44 g/mol</b>. NaCl = 23 + 35.5 = 58.5 g/mol.</p>"
   },
   {
    "tag": "Worked example",
@@ -47,6 +47,11 @@
    "tag": "Indian angle",
    "h": "Kanada and heavy water",
    "b": "<p>Long before Dalton, the Vaisheshika school in ancient India, associated with the philosopher <b>Kanada</b>, argued that matter is made of indivisible particles called <i>paramanu</i>. It was philosophy, not experiment, but it shows early atomic thinking.</p><p>In modern times, India runs heavy-water plants under the Department of Atomic Energy. Heavy water contains deuterium, the hydrogen isotope with one neutron, and is used as a moderator in India's pressurised heavy-water reactors.</p>"
+  },
+  {
+   "tag": "Go deeper",
+   "h": "Counting atoms by weighing them",
+   "b": "<p>Atoms are far too small to count one by one. Chemists count them by weighing. The trick is the <b>mole</b>.</p>\n<p>One mole is 6.022 x 10^23 particles. This number is Avogadro's number. Carbon-12 has exactly 12 g per mole, so 12 g of carbon-12 holds that many atoms.</p>\n<p>The same rule works for any substance. Molar mass in grams per mole gives the mass of one mole of particles. Water is 18 g/mol, so 18 g of water is one mole of water molecules.</p>\n<div class=\"box\"><h4>Worked example: molecules in 9 g of water</h4>\n<p>Step 1: find the molar mass. H2O = 2 x 1 + 16 = 18 g/mol.</p>\n<p>Step 2: find the moles. 9 / 18 = 0.5 mol.</p>\n<p>Step 3: find the molecules. 0.5 x 6.022 x 10^23 = 3.011 x 10^23 molecules.</p>\n<p>Step 4: count atoms. Each molecule has 3 atoms, so 3 x 3.011 x 10^23 = 9.033 x 10^23 atoms.</p></div>\n<p><b>Common trap:</b> a mole is a count, like a dozen. A mole of hydrogen atoms (1 g) and a mole of hydrogen gas molecules (2 g) hold the same number of particles, but they have different masses.</p>"
   },
   {
    "tag": "Recap",

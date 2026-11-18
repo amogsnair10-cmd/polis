@@ -49,6 +49,11 @@
    "b": "<p>The <b>Delhi iron pillar</b> (about 1,600 years old, about 7 m tall) has barely rusted. Studies by metallurgists, including R. Balasubramaniam at IIT Kanpur, link this to its high phosphorus content, which helped form a thin, protective layer of iron hydrogen phosphate. That is redox chemistry in practice.</p><p>India's 2021 <b>PLI scheme for Advanced Chemistry Cell batteries</b> aims for 50 GWh of domestic capacity.</p>"
   },
   {
+   "tag": "Go deeper",
+   "h": "Working out the voltage of a zinc-copper cell",
+   "b": "<p>A galvanic cell's voltage comes from two half-cells. Each has a standard electrode potential, E°. The metal with the more negative value is the one that loses electrons, so it is the anode.</p>\n<p>Standard values in volts: Zn2+/Zn is -0.76 V. Cu2+/Cu is +0.34 V.</p>\n<p>Electrolysis has real uses. Electroplating coats a cheap metal with a thin layer of silver or chromium. Copper for electrical wires is refined by electrolysis, with impure copper as the anode and pure copper as the cathode.</p>\n<div class=\"box\"><h4>Worked example: zinc and copper cell</h4>\n<p>Step 1: the cathode is the more positive half-cell, Cu2+/Cu. Reduction happens here.</p>\n<p>Step 2: the anode is Zn. Oxidation happens here.</p>\n<p>Step 3: E(cell) = E(cathode) - E(anode) = 0.34 - (-0.76).</p>\n<p>Step 4: 0.34 + 0.76 = 1.10 V.</p></div>\n<p><b>Trap:</b> in a galvanic cell the anode is the negative terminal. In electrolysis the anode is positive. The anode always means oxidation, but its sign depends on the type of cell.</p>\n<p>The zinc coating on galvanised iron works the same way. Zinc is more reactive, so it corrodes first and protects the iron, even at a scratch.</p>"
+  },
+  {
    "tag": "Recap",
    "h": "Key takeaways",
    "b": "<ul><li>Oxidation = loss of electrons; reduction = gain.</li><li>Galvanic cells turn chemical energy into electricity; E(cell) = E(cathode) - E(anode).</li><li>Electrolysis forces reactions with electricity.</li></ul><div class=\"box\"><h4>Think about it</h4><p>1. Why does a galvanised (zinc-coated) iron sheet resist rusting even when scratched?</p><p>2. Why can't you recharge most simple dry cells?</p></div>",

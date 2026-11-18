@@ -16,7 +16,7 @@
   {
    "tag": "Key idea",
    "h": "The equilibrium constant",
-   "b": "<p>For aA + bB ⇌ cC + dD, the constant is</p><div class=\"box\"><h4>Kc</h4><p>Kc = [C]^c [D]^d / ([A]^a [B]^b)</p></div><p>Brackets mean concentration in mol/L. For ammonia: Kc = [NH3]^2 / ([N2][H2]^3).</p><ul><li><b>Large K (much greater than 1):</b> mostly products.</li><li><b>Small K (much less than 1):</b> mostly reactants.</li><li>K depends only on temperature.</li></ul>"
+   "b": "<p>For aA + bB ⇌ cC + dD, the constant is</p><div class=\"box\"><h4>Kc</h4><p>Kc = [C]^c [D]^d / ([A]^a [B]^b)</p></div><p>Here Kc is the equilibrium constant. [A], [B], [C] and [D] are the concentrations in moles per litre, and the small letters a, b, c and d are the numbers in front of each substance in the balanced equation.</p><p>Brackets mean concentration in mol/L. For ammonia: Kc = [NH3]^2 / ([N2][H2]^3).</p><ul><li><b>Large K (much greater than 1):</b> mostly products.</li><li><b>Small K (much less than 1):</b> mostly reactants.</li><li>K depends only on temperature.</li></ul>"
   },
   {
    "tag": "Key idea",
@@ -47,6 +47,11 @@
    "tag": "Indian angle",
    "h": "India's fertiliser backbone",
    "b": "<p>India's urea industry relies on ammonia made by high-pressure equilibrium chemistry. Cooperative giants like <b>IFFCO</b> (founded 1967) and many public-sector units run plants where engineers tune pressure, temperature and catalysts using exactly these principles to maximise yield and cut energy use. Shifting to green ammonia from renewable hydrogen is now a stated national goal.</p>"
+  },
+  {
+   "tag": "Go deeper",
+   "h": "A worked Kc calculation",
+   "b": "<p>Kc tells you where a reaction settles. Only gases and dissolved substances go in the expression. Solids and pure liquids are left out, because their concentration does not change.</p>\n<p>Le Chatelier's principle: adding more reactant shifts the system to make more product. A catalyst does not shift equilibrium; it only helps the forward and reverse reactions reach equilibrium sooner. Pressure matters when the number of gas molecules changes, as in the Haber process, where 4 gas molecules become 2.</p>\n<div class=\"box\"><h4>Worked example: 2SO2 + O2 ⇌ 2SO3</h4>\n<p>Kc = [SO3]^2 / ([SO2]^2 x [O2]).</p>\n<p>At equilibrium: [SO2] = 0.2 mol/L, [O2] = 0.1 mol/L, [SO3] = 0.4 mol/L.</p>\n<p>Step 1: top = 0.4^2 = 0.16.</p>\n<p>Step 2: bottom = 0.2^2 x 0.1 = 0.04 x 0.1 = 0.004.</p>\n<p>Step 3: Kc = 0.16 / 0.004 = 40.</p>\n<p>Kc is large, so products dominate at this temperature.</p></div>\n<p>The Haber process is a real case. N2 + 3H2 ⇌ 2NH3 is exothermic, so a lower temperature favours ammonia, but it is then too slow. Plants use a compromise of about 400 to 450 °C, about 200 atm pressure, and an iron catalyst.</p>"
   },
   {
    "tag": "Recap",

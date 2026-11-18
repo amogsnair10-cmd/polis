@@ -49,6 +49,11 @@
    "b": "<p>Most Indian homes cook with LPG (propane and butane), which releases large heat per kilogram. The <b>Pradhan Mantri Ujjwala Yojana</b> (2016) gave millions of rural households LPG connections, replacing smoky wood and dung and cutting indoor air pollution. Rural <b>biogas plants</b> convert cattle dung to methane, whose burning is the exothermic reaction above.</p>"
   },
   {
+   "tag": "Go deeper",
+   "h": "Calculating delta H from bond energies",
+   "b": "<p>Bond energy is the energy needed to break one mole of a bond. Breaking bonds costs energy. Forming bonds releases energy. So the energy change is: energy in (bonds broken) minus energy out (bonds formed).</p>\n<p>Bond energies are averages taken from many molecules, so the answer is an estimate.</p>\n<p>Another route uses standard enthalpies of formation: total of products minus total of reactants. Elements in their normal form count as zero. Both routes give the same answer, which is Hess's law in action.</p>\n<div class=\"box\"><h4>Worked example: 2H2 + O2 → 2H2O</h4>\n<p>Step 1: bonds broken. 2 H-H bonds at 436 kJ each = 872 kJ. 1 O=O bond at 498 kJ. Total in = 1,370 kJ.</p>\n<p>Step 2: bonds formed. 4 O-H bonds at about 464 kJ each = 1,856 kJ. Total out.</p>\n<p>Step 3: delta H = in - out = 1,370 - 1,856 = -486 kJ.</p>\n<p>Result: about -486 kJ for 2 mol of water vapour. The measured value is about -484 kJ, so the estimate is close.</p></div>\n<p><b>Trap:</b> the sign is easy to flip. Bonds broken are added, bonds formed are subtracted. A negative answer means the reaction is exothermic.</p>"
+  },
+  {
    "tag": "Recap",
    "h": "Key takeaways",
    "b": "<ul><li>Exothermic: delta H negative; endothermic: positive.</li><li>q = m c delta T; Hess's law adds step energies.</li><li>Spontaneity: delta G = delta H - T delta S, negative means spontaneous.</li></ul><div class=\"box\"><h4>Think about it</h4><p>1. Why does sweating cool the body (evaporation is endothermic)?</p><p>2. Can an endothermic reaction be spontaneous? How?</p></div>",

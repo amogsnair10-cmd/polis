@@ -49,6 +49,11 @@
    "b": "<p>India moved to <b>Bharat Stage VI</b> emission norms nationwide in April 2020, leaping from BS-IV. Cleaner petrol and diesel plus better catalytic converters and particulate filters cut sulphur and tailpipe pollutants sharply. The converter is a catalyst: tiny platinum-group metal particles on a honeycomb speed up the conversion of CO and NOx into harmless gases.</p>"
   },
   {
+   "tag": "Go deeper",
+   "h": "Half-life worked example, and why catalysts help",
+   "b": "<p>For many reactions, the rate roughly doubles for each 10 °C rise in temperature. More molecules then have energy above the activation energy. This is a rule of thumb, not an exact law.</p>\n<p>A <b>catalyst</b> gives the reaction a different path with a lower activation energy. It speeds the reaction up and is not used up. It does not change the energy released, and it does not change the position of equilibrium.</p>\n<p>Surface area matters too. Powdered chalk reacts faster than a lump, because more particles are exposed to collisions. Concentration works the same way: more particles per litre means more collisions each second.</p>\n<div class=\"box\"><h4>Worked example: half-life</h4>\n<p>An 80 g sample of a radioactive isotope has a half-life of 10 minutes. How much is left after 30 minutes?</p>\n<p>Step 1: 30 / 10 = 3 half-lives.</p>\n<p>Step 2: 80 → 40 → 20 → 10 g. Each step halves the mass.</p>\n<p>Step 3: 80 / 2^3 = 10 g left.</p></div>\n<p>Catalysts matter in cars. Catalytic converters use platinum, palladium and rhodium to turn harmful exhaust gases into less harmful ones.</p>"
+  },
+  {
    "tag": "Recap",
    "h": "Key takeaways",
    "b": "<ul><li>Reactions need collisions with energy above the activation energy.</li><li>Faster with higher concentration, temperature, surface area and catalysts.</li><li>Half-life: quantity halves each constant time period.</li></ul><div class=\"box\"><h4>Think about it</h4><p>1. Why does a fridge keep milk fresh longer?</p><p>2. Why does a lump of sugar dissolve slower than powder?</p></div>",

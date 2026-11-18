@@ -49,6 +49,11 @@
    "b": "<p>India's <b>Plastic Waste Management Rules</b> (2016, amended since) set producer responsibility, and a ban on identified single-use plastic items took effect on 1 July 2022. India is a major producer of polyester and PET, with Reliance among large producers. Natural-fibre alternatives like <b>jute</b>, a cellulose polymer from Bengal, offer biodegradable bags.</p>"
   },
   {
+   "tag": "Go deeper",
+   "h": "Repeat units and polymer mass",
+   "b": "<p>A polymer's chain length is set by n, the number of repeat units. Mass grows with n, so polymer molar masses are very large.</p>\n<p>In addition polymers, the repeat unit has the same atoms as the monomer. In condensation polymers, a small molecule such as water is lost each time two units join.</p>\n<p>Nylon is a condensation polymer made from two monomers, hexamethylene diamine and adipic acid. They join, and water is given off at each join. Nylon-6,6 gets its name from the 6 carbon atoms in each monomer. Bakelite (1907) was an early fully synthetic plastic that cannot be remelted.</p>\n<div class=\"box\"><h4>Worked example: polythene chain</h4>\n<p>Step 1: monomer ethene, CH2=CH2, has molar mass 2 x 12 + 4 x 1 = 28 g/mol.</p>\n<p>Step 2: the repeat unit -CH2-CH2- also has mass 28.</p>\n<p>Step 3: a chain with n = 1,000 units has 1,000 x 28 = 28,000 g/mol.</p></div>\n<p>Plastic codes help recycling. Code 1 is PET (many drink bottles), code 2 is HDPE and code 5 is polypropylene.</p>\n<p><b>Trap:</b> polymers are not pure compounds. Chain lengths vary, so the molar mass is an average.</p>"
+  },
+  {
    "tag": "Recap",
    "h": "Key takeaways",
    "b": "<ul><li>Polymers are long chains of repeating monomers.</li><li>Addition: n CH2=CH2 → polythene. Condensation: loses water, e.g. nylon, PET.</li><li>Thermoplastics remould; thermosets do not. Vulcanisation cross-links rubber.</li></ul><div class=\"box\"><h4>Think about it</h4><p>1. Why is plastic's durability both a benefit and a problem?</p><p>2. Why can a thermoset not be melted and recycled like PET?</p></div>",

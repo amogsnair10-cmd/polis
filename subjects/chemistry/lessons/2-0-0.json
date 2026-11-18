@@ -49,6 +49,11 @@
    "b": "<ul><li>The <b>Delhi iron pillar</b>: about 7 m tall, around 6 tonnes, made of nearly pure wrought iron (about 98 percent) in roughly the 4th to 5th century CE (associated with Gupta king Chandragupta II). It has stayed largely rust-free for about 1,600 years.</li><li><b>Wootz steel</b> from southern India, high in carbon, was exported and became legendary as Damascus steel.</li><li><b>Zawar</b> in Rajasthan is one of the world's earliest sites of zinc distillation.</li><li><b>Tata Steel</b> began producing at Jamshedpur in 1912 (company founded 1907).</li></ul>"
   },
   {
+   "tag": "Go deeper",
+   "h": "Why aluminium needs electricity, with a charge example",
+   "b": "<p>Aluminium is too reactive for carbon to remove oxygen from its ore, so it is made by electrolysis. The ore is bauxite, which is first treated to get pure alumina (Al2O3).</p>\n<p>Alumina melts at over 2,000 °C. Mixing it with cryolite brings the melting point down to about 950 °C, which saves a lot of energy. The process was found in 1886 by Charles Hall and Paul Héroult, working separately.</p>\n<p>Impurities are removed from crude metal by refining. In copper refining, the impurities fall to the bottom of the tank as a sludge, while pure copper is deposited on the cathode.</p>\n<div class=\"box\"><h4>Worked example: charge needed for 27 g of aluminium</h4>\n<p>Step 1: Al3+ + 3e- → Al. So 3 mol of electrons make 1 mol of Al.</p>\n<p>Step 2: 27 g of Al is 27 / 27 = 1 mol.</p>\n<p>Step 3: 3 mol of electrons. Charge = 3 x 96,500 coulombs (the Faraday constant) = 289,500 C.</p></div>\n<p><b>Trap:</b> aluminium is very reactive, yet it resists corrosion. A thin oxide layer sticks to the metal and protects it. 'Reactive' and 'corrodes easily' are not the same thing.</p>"
+  },
+  {
    "tag": "Recap",
    "h": "Key takeaways",
    "b": "<ul><li>Extraction method depends on reactivity: carbon reduction for mid metals, electrolysis for reactive ones.</li><li>Blast furnace: Fe2O3 + 3CO → 2Fe + 3CO2.</li><li>Alloys are stronger because mixed atoms block sliding layers.</li></ul><div class=\"box\"><h4>Think about it</h4><p>1. Why can't aluminium be extracted by heating with carbon?</p><p>2. Why do we add carbon to iron to make steel, but not too much?</p></div>",

@@ -49,6 +49,11 @@
    "b": "<p><b>Homi J. Bhabha</b> founded the Atomic Energy Commission (1948) and the Tata Institute of Fundamental Research. In 1954 he set out India's <b>three-stage nuclear programme</b>: (1) natural-uranium heavy-water reactors, (2) fast breeder reactors using plutonium, (3) thorium-based reactors, to use India's large thorium reserves in monazite sands. BARC, Trombay carries on the research; <b>Kudankulam</b> in Tamil Nadu is among India's biggest plants.</p>"
   },
   {
+   "tag": "Go deeper",
+   "h": "Half-life sums and mass turned into energy",
+   "b": "<p>Carbon-14 has a half-life of 5,730 years. It is useful for dating remains up to about 50,000 years old, because after that too little is left to measure well.</p>\n<p>Einstein's E = mc^2 says a small mass holds a huge amount of energy. c is the speed of light, about 3 x 10^8 metres per second.</p>\n<p>Decay of a single atom is random, but a large group decays in a predictable way. Fission of uranium-235 releases about 200 MeV per nucleus, millions of times more than a typical chemical reaction. Nuclear power stations use fission; the Sun runs on fusion.</p>\n<div class=\"box\"><h4>Worked example: energy from 1 gram of mass</h4>\n<p>Step 1: 1 g = 0.001 kg.</p>\n<p>Step 2: c^2 = (3 x 10^8)^2 = 9 x 10^16.</p>\n<p>Step 3: E = 0.001 x 9 x 10^16 = 9 x 10^13 joules.</p></div>\n<p>Carbon-14 dating: a sample with one-eighth of its original carbon-14 has gone through 3 half-lives. So its age is 3 x 5,730 = 17,190 years.</p>\n<p><b>Trap:</b> each half-life halves what is left, so a sample never reaches zero in theory. Counting halves, not 'the sample is gone'.</p>"
+  },
+  {
    "tag": "Recap",
    "h": "Key takeaways",
    "b": "<ul><li>Alpha, beta and gamma differ in mass, charge and penetration.</li><li>Half-life is constant: halves each period.</li><li>Fission splits, fusion joins nuclei; mass becomes energy (E = mc2).</li></ul><div class=\"box\"><h4>Think about it</h4><p>1. Why is carbon-14 useless for dating a 100-million-year-old fossil?</p><p>2. Why is thorium attractive for India?</p></div>",

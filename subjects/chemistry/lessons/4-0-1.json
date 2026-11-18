@@ -49,6 +49,11 @@
    "b": "<p>India's <b>Ganga Action Plan (1986)</b> began sewage treatment to cut river pollution; <b>Namami Gange</b> followed in 2014. Groundwater arsenic affects the Gangetic plains in West Bengal and Bihar. The <b>National Clean Air Programme (2019)</b> targets reductions in PM2.5 and PM10 in polluted cities, and India has committed to net-zero emissions by 2070.</p>"
   },
   {
+   "tag": "Go deeper",
+   "h": "Working out CO2 from burning carbon",
+   "b": "<p>Burning carbon makes carbon dioxide: C + O2 → CO2. Carbon is 12 g per mole and CO2 is 44 g per mole. So each gram of carbon gives 44 / 12 = 3.67 grams of CO2.</p>\n<p>Fuels are mostly carbon and hydrogen, so their CO2 depends on the carbon they contain. The 3.67 factor applies to carbon alone.</p>\n<p>Carbon dioxide from burning is one part of the story. A carbon footprint adds up all the greenhouse gases caused by a person, product or activity, and it is often given in tonnes of CO2 equivalent. Governments and companies use these figures to set targets.</p>\n<div class=\"box\"><h4>Worked example: a 500 g carbon sample</h4>\n<p>Step 1: CO2 per gram of carbon = 44 / 12 = 3.67.</p>\n<p>Step 2: 500 g of carbon x 3.67 = 1,835 g.</p>\n<p>Step 3: 1,835 g = 1.835 kg of CO2.</p></div>\n<p>Ozone: one chlorine atom from a CFC can destroy thousands of ozone molecules before it is locked into another compound. That is why small amounts of CFCs matter.</p>\n<p><b>Trap:</b> CO2 is not the only greenhouse gas. Methane traps far more heat per molecule, but there is much less of it in the air.</p>"
+  },
+  {
    "tag": "Recap",
    "h": "Key takeaways",
    "b": "<ul><li>CFCs destroy ozone; Montreal Protocol (1987) fixed it.</li><li>CO2, CH4, N2O trap heat; CO2 above 420 ppm.</li><li>SO2 and NOx make acid rain; fertiliser causes eutrophication.</li><li>1 kg carbon burns to 3.67 kg CO2.</li></ul><div class=\"box\"><h4>Think about it</h4><p>1. Why was the Montreal Protocol more successful than most climate talks?</p><p>2. How can one chlorine atom destroy many ozone molecules?</p></div>",
