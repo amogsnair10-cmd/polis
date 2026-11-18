@@ -22,10 +22,10 @@ function noise(t0,d,fq,v,type,att){const c=ac();if(!c)return;const a=c.currentTi
 /* C major pentatonic, so any run of notes sounds good */
 const P=[261.63,293.66,329.63,392,440,523.25,587.33,659.25,783.99,880,1046.5,1174.66,1318.5,1567.98];
 const SND={
-  /* tap: a mechanical switch. A hard click transient, a short ringing "tick" body and a low thump under it. Pitch varies a little each press. */
-  tap:()=>{const r=.94+Math.random()*.12;noise(0,.006,3800,.16,'highpass');voice(1900*r,0,.035,{k:'wood',v:.16,to:1250*r,send:0});voice(640*r,.002,.05,{k:'wood',v:.14,to:420*r,send:0});voice(150*r,0,.06,{k:'pure',v:.24,to:84*r,send:0})},
-  /* release: a smaller, lighter click, like the key coming back up */
-  up:()=>{const r=.96+Math.random()*.1;noise(0,.004,5200,.07,'highpass');voice(2300*r,0,.022,{k:'wood',v:.08,to:1700*r,send:0});voice(190*r,0,.03,{k:'pure',v:.09,to:130*r,send:0})},
+  /* tap: a guitar-pick "tock". A short woody pluck with a tiny tonal click on its front edge. Purely tonal, no noise, so nothing can sound like a snare. */
+  tap:()=>{const r=.97+Math.random()*.06;voice(1250*r,0,.06,{k:'wood',v:.2,to:880*r,send:0});voice(2900*r,0,.012,{k:'pure',v:.12,to:2300*r,send:0});voice(420*r,.004,.05,{k:'wood',v:.12,to:300*r,send:0})},
+  /* release: a smaller, higher tick */
+  up:()=>{const r=.97+Math.random()*.06;voice(1700*r,0,.03,{k:'wood',v:.09,to:1350*r,send:0});voice(3300*r,0,.008,{k:'pure',v:.05,send:0})},
   open:()=>{voice(260,0,.08,{k:'pure',v:.18,to:140,send:.05});voice(390,.03,.06,{k:'pure',v:.08,to:260,send:.05})},
   /* swipe: a soft "whoom". A mid-range harmonic sweep that glides down (phones cannot play below ~200 Hz), under a slow breath of air that fades in and out. */
   swipe:()=>{voice(380,0,.42,{k:'soft',v:.2,to:175,send:.25,att:.1});noise(0,.42,1100,.1,'lowpass',.14)},
