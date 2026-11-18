@@ -128,18 +128,27 @@ async function getLesson(id){
 }
 let PHOTOS={};
 /* Graded free-licence photo for a lesson (key "id") or card (key "id_k"), with a small credit. */
-function photo(key,cls){const p=PHOTOS[SUB.id+'/'+key];if(!p)return '';const ar=p.w&&p.h?Math.max(.8,Math.min(1.9,p.w/p.h)).toFixed(3):'1.5625';const c=p.credit.replace(/[<>&"]/g,'');
-  const dia=/\.png$/i.test(p.file||'')?' dia':'';
-  return `<figure class="ph ${cls}${dia}" style="--ar:${ar}"><img src="${p.src}" alt="" loading="lazy" decoding="async" onload="this.classList.add('in')" onerror="this.parentNode.remove()"><a class="cr" href="${p.page}" target="_blank" rel="noopener">${c}</a></figure>`}
+function phInfo(key){const p=PHOTOS[SUB.id+'/'+key];if(!p)return null;const ar=p.w&&p.h?Math.max(.8,Math.min(1.9,p.w/p.h)).toFixed(3):'1.5625';return{p,ar,dia:/\.png$/i.test(p.file||'')?' dia':'',c:p.credit.replace(/[<>&"]/g,'')}}
+/* shape: 'big' (cover), 'card' (rectangle), 'tall r|l' (portrait rectangle), 'sq r|l' (square), 'semi r|l' (half-disc on the card edge) */
+function photo(key,shape){const i=phInfo(key);if(!i)return '';const sh=i.dia?'card':shape;
+  return `<figure class="ph ${sh}${i.dia}" style="--ar:${i.ar}"><img src="${i.p.src}" alt="" loading="lazy" decoding="async" onload="this.classList.add('in')" onerror="this.parentNode.remove()"></figure>`}
+/* the credit sits outside the picture, at the bottom of the card, in small italics */
+function credit(key){const i=phInfo(key);return i?`<p class="imgcr">Image: <a href="${i.p.page}" target="_blank" rel="noopener">${i.c}</a></p>`:''}
 async function openL(id,card){
   let l;try{l=await getLesson(id)}catch(e){alert('This lesson could not load. Check your connection and try again.');return}
   cur=id;lastI=-1;if(!/^(REVIEW|MIX)$|-T$/.test(id))ls.set('lb:last',JSON.stringify({s:SUB.id,id,t:l.title,ts:Date.now(),card:-1}));
   const cp=photo(id,'big');
-  let h=`<div class="cd"><div class="ci marble cover">${id.endsWith('-T')?LUM('review-3','lumcov'):''}${id.endsWith('-T')?'':(cp||ldood(id,'dd big')||doodle(id,'dd big')||`<div class="em">${l.emoji}</div>`)}<div class="tag">${unitOf(id)}</div><h2>${l.title}</h2><p class="hint">Swipe left to begin</p>${cp?ldood(id,'dd pb'):''}</div></div>`;
+  let h=`<div class="cd"><div class="ci marble cover">${id.endsWith('-T')?LUM('review-3','lumcov'):''}${id.endsWith('-T')?'':(cp||ldood(id,'dd big')||doodle(id,'dd big')||`<div class="em">${l.emoji}</div>`)}<div class="tag">${unitOf(id)}</div><h2>${l.title}</h2><p class="hint">Swipe left to begin</p>${cp?credit(id):''}</div></div>`;
   const have=(DOODLES.lessons||{})[SUB.id]||[],pool=have.filter(n=>n===id||n.startsWith(id+'_')),POS=['r','b','t','l','b','r','l','t'],off=[...id].reduce((x,ch)=>x+ch.charCodeAt(0),0);
-  l.cards.forEach((c,k)=>{const ph=photo(id+'_'+k,'card');let pos=POS[(k+off)%POS.length];if(ph&&pos==='t')pos='r';
-    const nm=have.includes(id+'_'+k)?id+'_'+k:(pool.length?pool[(k+1)%pool.length]:''),d=nm?ldood(nm,'dd p'+pos):'';
-    h+=`<div class="cd"><div class="ci marble ${c.cls||''}">${ph}${pos==='t'?d:''}<div class="cb">${pos==='r'||pos==='l'?d:''}<div class="tag">${c.tag}</div><h2>${c.h}</h2>${c.b}</div>${pos==='b'?d:''}</div></div>`});
+  const SH=['sq r','semi l','card','tall l','semi r','sq l','tall r','card'];
+  l.cards.forEach((c,k)=>{const key=id+'_'+k,info=phInfo(key);let ph='',cr='',d='';
+    if(info){const sh=info.dia?'card':SH[(k+off)%SH.length];ph=photo(key,sh);cr=credit(key);
+      /* rectangles sit above or below the text; floated shapes sit inside it and let the text wrap */
+      const inText=/^(sq|semi|tall)/.test(sh);
+      h+=`<div class="cd"><div class="ci marble ${c.cls||''}">${inText?'':((k+off)%3===2?'':ph)}<div class="cb">${inText?ph:''}<div class="tag">${c.tag}</div><h2>${c.h}</h2>${c.b}</div>${!inText&&(k+off)%3===2?ph:''}${cr}</div></div>`;return}
+    /* no photo: a doodle goes above the title */
+    const nm=have.includes(key)?key:(pool.length?pool[(k+1)%pool.length]:'');d=nm?ldood(nm,'dd pt'):'';
+    h+=`<div class="cd"><div class="ci marble ${c.cls||''}"><div class="cb">${d}<div class="tag">${c.tag}</div><h2>${c.h}</h2>${c.b}</div></div></div>`});
   const pq=PYQ[id];
   if(pq&&pq.length)h+=`<div class="cd"><div class="ci marble"><div class="tag">Asked in UPSC</div><h2>Previous year questions</h2>${pq.map(x=>`<blockquote class="pyq">${esc(x.q)}<small>${x.y} · ${esc(x.p)}${x.m?' · '+x.m+' marks':''}</small></blockquote>`).join('')}</div></div>`;
   l.quiz.forEach((q,i)=>h+=`<div class="cd"><div class="ci marble"><div class="tag">${q._t?esc(q._t):`Question ${i+1} of ${l.quiz.length}`}</div><div class="qq">${fmtQ(q.q)}</div>${q.o.map((o,j)=>`<button class="opt" data-q="${i}" data-j="${j}">${o}</button>`).join('')}<div class="why" id="w${i}"></div></div></div>`);

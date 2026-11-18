@@ -588,3 +588,19 @@ body:not([data-view="home"]) .lhl figure,body:not([data-view="home"]) .lhl figur
 .feel input:checked{background:var(--gold,#f2c46d)}.feel input:checked::after{transform:translateX(18px)}
 .feel input:focus-visible{outline:2px solid var(--gold,#f2c46d);outline-offset:2px}
 .fdiag{white-space:pre-wrap;font:12px/1.5 ui-monospace,Menlo,monospace;padding:10px 12px;border-radius:12px;background:rgba(0,0,0,.35);border:1px solid var(--line);margin-top:2px}
+
+/* ---- photo shapes on cards: squares, half-discs on the card edge, rectangles ---- */
+.cb .ph{aspect-ratio:auto;max-height:none;box-shadow:0 10px 26px rgba(0,0,0,.2)}
+.ph.sq{float:right;width:clamp(124px,40vw,176px);height:clamp(124px,40vw,176px);margin:2px 0 10px 14px;border-radius:20px}
+.ph.sq.l{float:left;margin:2px 14px 10px 0}
+.ph.semi{float:right;width:clamp(84px,27vw,116px);height:clamp(168px,54vw,232px);margin:2px calc(-1 * clamp(18px,5.5vw,30px)) 10px 14px;border-radius:999px 0 0 999px;shape-outside:ellipse(100% 50% at 100% 50%)}
+.ph.semi.l{float:left;margin:2px 14px 10px calc(-1 * clamp(18px,5.5vw,30px));border-radius:0 999px 999px 0;shape-outside:ellipse(100% 50% at 0 50%)}
+.ph.tall{float:right;width:clamp(108px,36vw,150px);height:clamp(144px,48vw,200px);margin:2px 0 10px 14px;border-radius:16px}
+.ph.tall.l{float:left;margin:2px 14px 10px 0}
+.ph.sq img,.ph.semi img,.ph.tall img{object-position:center}
+.ph.card{margin:0 0 14px;border-radius:16px}
+.ci>.ph.card:last-of-type{margin:14px 0 0}
+.imgcr{margin-top:auto;padding-top:14px;font:italic 400 10.5px/1.35 var(--font-body);opacity:.55;text-align:left}
+.imgcr a{color:inherit;text-decoration:none}
+.cover .imgcr{margin-top:6px;text-align:center}
+.ph .cr{display:none}
