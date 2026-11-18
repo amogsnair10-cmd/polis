@@ -616,3 +616,13 @@ body:not([data-view="home"]) .lhl figure,body:not([data-view="home"]) .lhl figur
 .fr .nu{padding:0 .3em .08em;border-bottom:1.5px solid currentColor}.fr .de{padding:.08em .3em 0}
 .sq{display:inline-flex;align-items:stretch;vertical-align:middle;margin:0 .1em}.sq .rd{font-size:1.3em;line-height:1}.sq .rc{border-top:1.5px solid currentColor;padding:.05em .25em 0;margin-top:.12em}
 .eqn{font-size:.92em;opacity:.8;margin:2px 0 6px;text-align:center}
+
+/* bigger half-discs, plus page-wide semi-circles: a dome hanging from the top edge and a bowl rising from the bottom edge */
+.ph.semi{width:clamp(112px,36vw,150px);height:clamp(224px,72vw,300px)}
+.ph.sq{width:clamp(140px,45vw,200px);height:clamp(140px,45vw,200px)}
+.ph.tall{width:clamp(120px,40vw,168px);height:clamp(160px,54vw,224px)}
+.ph.dome,.ph.bowl{width:calc(100% + 2 * clamp(18px,5.5vw,30px));max-width:none;aspect-ratio:2/1;height:auto;flex:none}
+.ph.dome{margin:calc(-1 * clamp(22px,6vw,32px)) calc(-1 * clamp(18px,5.5vw,30px)) 18px;border-radius:0 0 999px 999px / 0 0 100% 100%}
+.ph.bowl{margin:6px calc(-1 * clamp(18px,5.5vw,30px)) -24px;border-radius:999px 999px 0 0 / 100% 100% 0 0}
+.ph.dome img,.ph.bowl img{object-position:center 35%}
+.ci>.ph.dome+.cb .tag{margin-top:2px}

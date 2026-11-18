@@ -140,12 +140,12 @@ async function openL(id,card){
   const cp=photo(id,'big');
   let h=`<div class="cd"><div class="ci marble cover">${id.endsWith('-T')?LUM('review-3','lumcov'):''}${id.endsWith('-T')?'':(cp||ldood(id,'dd big')||doodle(id,'dd big')||`<div class="em">${l.emoji}</div>`)}<div class="tag">${unitOf(id)}</div><h2>${l.title}</h2><p class="hint">Swipe left to begin</p>${cp?credit(id):''}</div></div>`;
   const have=(DOODLES.lessons||{})[SUB.id]||[],pool=have.filter(n=>n===id||n.startsWith(id+'_')),POS=['r','b','t','l','b','r','l','t'],off=[...id].reduce((x,ch)=>x+ch.charCodeAt(0),0);
-  const SH=['sq r','semi l','card','tall l','semi r','sq l','tall r','card'];
+  const SH=['sq r','semi l','dome','tall l','semi r','bowl','sq l','card','semi l','tall r'];
   l.cards.forEach((c,k)=>{const key=id+'_'+k,info=phInfo(key);let ph='',cr='',d='';
-    if(info){const sh=info.dia?'card':SH[(k+off)%SH.length];ph=photo(key,sh);cr=credit(key);
-      /* rectangles sit above or below the text; floated shapes sit inside it and let the text wrap */
-      const inText=/^(sq|semi|tall)/.test(sh);
-      h+=`<div class="cd"><div class="ci marble ${c.cls||''}">${inText?'':((k+off)%3===2?'':ph)}<div class="cb">${inText?ph:''}<div class="tag">${c.tag}</div><h2>${c.h}</h2>${window.mathify?mathify(c.b):c.b}</div>${!inText&&(k+off)%3===2?ph:''}${cr}</div></div>`;return}
+    if(info){const sh=info.dia?'card':SH[(k+off)%SH.length],kind=sh.split(' ')[0];ph=photo(key,sh);cr=credit(key);
+      /* floated shapes sit inside the text and let it wrap; dome / rectangles sit above, bowl / some rectangles below */
+      const inText=/^(sq|semi|tall)$/.test(kind),below=kind==='bowl'||(kind==='card'&&(k+off)%3===2),above=!inText&&!below;
+      h+=`<div class="cd"><div class="ci marble ${c.cls||''}">${above?ph:''}<div class="cb">${inText?ph:''}<div class="tag">${c.tag}</div><h2>${c.h}</h2>${window.mathify?mathify(c.b):c.b}</div>${cr}${below?ph:''}</div></div>`;return}
     /* no photo: a doodle goes above the title */
     const nm=have.includes(key)?key:(pool.length?pool[(k+1)%pool.length]:'');d=nm?ldood(nm,'dd pt'):'';
     h+=`<div class="cd"><div class="ci marble ${c.cls||''}"><div class="cb">${d}<div class="tag">${c.tag}</div><h2>${c.h}</h2>${window.mathify?mathify(c.b):c.b}</div></div></div>`});
