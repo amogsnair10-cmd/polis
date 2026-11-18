@@ -1,0 +1,442 @@
+{
+"atom-orbits": [
+"atom",
+"electron",
+"nucleus",
+"orbit",
+"chemistry",
+"physics",
+"proton"
+],
+"molecule-ball-stick": [
+"molecule",
+"bond",
+"chemistry",
+"compound",
+"water",
+"structure",
+"atoms"
+],
+"dna-helix": [
+"dna",
+"genetics",
+"gene",
+"helix",
+"heredity",
+"genome",
+"biology"
+],
+"cell-nucleus": [
+"cell",
+"nucleus",
+"biology",
+"organelle",
+"cytoplasm",
+"membrane",
+"life"
+],
+"microscope": [
+"microscope",
+"lab",
+"observation",
+"magnify",
+"biology",
+"cells",
+"specimen"
+],
+"telescope": [
+"telescope",
+"astronomy",
+"stars",
+"observe",
+"space",
+"sky",
+"galileo"
+],
+"test-tube": [
+"test",
+"tube",
+"experiment",
+"lab",
+"chemistry",
+"sample",
+"reaction"
+],
+"flask-bubbling": [
+"flask",
+"reaction",
+"chemistry",
+"bubbling",
+"experiment",
+"solution",
+"gas"
+],
+"beaker": [
+"beaker",
+"lab",
+"measure",
+"liquid",
+"chemistry",
+"volume",
+"solution"
+],
+"bunsen-burner": [
+"bunsen",
+"burner",
+"flame",
+"heating",
+"lab",
+"combustion",
+"fire"
+],
+"periodic-table-tile": [
+"periodic",
+"table",
+"element",
+"atomic",
+"number",
+"symbol",
+"chemistry"
+],
+"crystal-lattice": [
+"crystal",
+"lattice",
+"solid",
+"structure",
+"ionic",
+"metal",
+"minerals"
+],
+"magnet-field-lines": [
+"magnet",
+"magnetic",
+"field",
+"poles",
+"force",
+"magnetism"
+],
+"electric-circuit": [
+"circuit",
+"current",
+"electricity",
+"voltage",
+"wire",
+"resistance"
+],
+"battery": [
+"battery",
+"cell",
+"charge",
+"energy",
+"power",
+"electricity"
+],
+"bulb-filament": [
+"bulb",
+"light",
+"filament",
+"electricity",
+"lamp",
+"invention",
+"edison"
+],
+"coil-inductor": [
+"coil",
+"inductor",
+"induction",
+"solenoid",
+"electromagnet",
+"faraday"
+],
+"capacitor": [
+"capacitor",
+"charge",
+"plates",
+"electric",
+"field",
+"capacitance"
+],
+"lens-rays": [
+"lens",
+"rays",
+"optics",
+"refraction",
+"focus",
+"light",
+"convex"
+],
+"prism-rainbow": [
+"prism",
+"rainbow",
+"spectrum",
+"light",
+"dispersion",
+"colour",
+"refraction"
+],
+"wave-sine": [
+"wave",
+"sine",
+"frequency",
+"amplitude",
+"oscillation",
+"sound",
+"signal"
+],
+"pendulum": [
+"pendulum",
+"swing",
+"period",
+"oscillation",
+"gravity",
+"motion",
+"clock"
+],
+"newton-cradle": [
+"newton",
+"cradle",
+"momentum",
+"collision",
+"conservation",
+"energy",
+"balls"
+],
+"inclined-plane": [
+"inclined",
+"plane",
+"ramp",
+"slope",
+"friction",
+"force",
+"machine"
+],
+"lever-fulcrum": [
+"lever",
+"fulcrum",
+"seesaw",
+"machine",
+"torque",
+"balance",
+"moment"
+],
+"pulley": [
+"pulley",
+"rope",
+"lift",
+"simple",
+"machine",
+"weight",
+"force"
+],
+"spring-mass": [
+"spring",
+"mass",
+"hooke",
+"elasticity",
+"oscillation",
+"force",
+"harmonic"
+],
+"thermometer": [
+"thermometer",
+"temperature",
+"heat",
+"measure",
+"degree",
+"fever"
+],
+"gas-piston": [
+"gas",
+"piston",
+"pressure",
+"volume",
+"engine",
+"boyle",
+"cylinder"
+],
+"heat-flow": [
+"heat",
+"flow",
+"conduction",
+"thermal",
+"transfer",
+"temperature",
+"energy"
+],
+"planet-ringed": [
+"planet",
+"saturn",
+"rings",
+"solar",
+"system",
+"astronomy",
+"space"
+],
+"solar-system-orbits": [
+"solar",
+"system",
+"orbit",
+"sun",
+"planets",
+"astronomy",
+"kepler"
+],
+"comet": [
+"comet",
+"tail",
+"halley",
+"ice",
+"astronomy",
+"space",
+"orbit"
+],
+"galaxy-spiral": [
+"galaxy",
+"spiral",
+"milky",
+"way",
+"stars",
+"universe",
+"astronomy"
+],
+"black-hole-disc": [
+"black",
+"hole",
+"gravity",
+"accretion",
+"disc",
+"singularity",
+"space"
+],
+"rocket": [
+"rocket",
+"launch",
+"space",
+"spaceflight",
+"propulsion",
+"nasa"
+],
+"satellite": [
+"satellite",
+"orbit",
+"communication",
+"space",
+"solar",
+"panel",
+"signal"
+],
+"constellation-dots": [
+"constellation",
+"stars",
+"dipper",
+"night",
+"sky",
+"astronomy"
+],
+"moon-phases": [
+"moon",
+"phases",
+"lunar",
+"crescent",
+"month",
+"calendar",
+"tides"
+],
+"eclipse": [
+"eclipse",
+"solar",
+"sun",
+"moon",
+"corona",
+"shadow",
+"total"
+],
+"nebula-cloud": [
+"nebula",
+"gas",
+"cloud",
+"star",
+"formation",
+"space",
+"dust"
+],
+"big-bang-burst": [
+"big",
+"bang",
+"universe",
+"origin",
+"explosion",
+"cosmology",
+"expansion"
+],
+"quantum-cat": [
+"quantum",
+"schrodinger",
+"cat",
+"superposition",
+"physics",
+"uncertainty"
+],
+"double-slit": [
+"double",
+"slit",
+"interference",
+"wave",
+"quantum",
+"experiment",
+"young"
+],
+"wave-particle": [
+"wave",
+"particle",
+"duality",
+"quantum",
+"photon",
+"light",
+"matter"
+],
+"neural-network": [
+"neural",
+"network",
+"ai",
+"machine",
+"learning",
+"neurons",
+"deep",
+"learning"
+],
+"heartbeat-line": [
+"heartbeat",
+"ecg",
+"pulse",
+"heart",
+"health",
+"cardiac",
+"rhythm"
+],
+"brain": [
+"brain",
+"mind",
+"neuroscience",
+"thinking",
+"memory",
+"cognition"
+],
+"lungs": [
+"lungs",
+"breathing",
+"respiration",
+"oxygen",
+"respiratory",
+"lung"
+],
+"human-eye": [
+"eye",
+"vision",
+"sight",
+"optics",
+"retina",
+"iris",
+"see"
+]
+}
