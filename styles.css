@@ -637,3 +637,11 @@ body:not([data-view="home"]) .lhl figure,body:not([data-view="home"]) .lhl figur
 
 .feel .fsl label{display:flex;justify-content:space-between;align-items:baseline;padding:0;background:none;border:0;border-radius:0;margin-bottom:8px;cursor:default}
 .feel .fsl input[type=range]::after{content:none}
+
+/* library doodles: pairs sit side by side, the second a little lower, so any two combine */
+.ddpair{display:flex;justify-content:center;align-items:flex-start;gap:6px;margin:0 auto 10px}
+.ddpair.pt{width:clamp(180px,62vw,260px)}
+.ddpair .dd.dp{display:block;flex:1 1 0;min-width:0;aspect-ratio:1;height:auto;background:var(--goldd)}
+.ddpair .dd.dp:nth-child(2){margin-top:14px}
+.ddpair.big{width:clamp(200px,66vw,280px);margin-bottom:10px}
+.dd.pt{width:clamp(110px,36vw,150px);height:clamp(110px,36vw,150px)}

@@ -138,7 +138,7 @@ async function openL(id,card){
   let l;try{l=await getLesson(id)}catch(e){alert('This lesson could not load. Check your connection and try again.');return}
   cur=id;lastI=-1;window.Feel&&Feel.play('start');if(!/^(REVIEW|MIX)$|-T$/.test(id))ls.set('lb:last',JSON.stringify({s:SUB.id,id,t:l.title,ts:Date.now(),card:-1}));
   const cp=photo(id,'big');
-  let h=`<div class="cd"><div class="ci marble cover">${id.endsWith('-T')?LUM('review-3','lumcov'):''}${id.endsWith('-T')?'':(cp||ldood(id,'dd big')||doodle(id,'dd big')||`<div class="em">${l.emoji}</div>`)}<div class="tag">${unitOf(id)}</div><h2>${l.title}</h2><p class="hint">Swipe left to begin</p>${cp?credit(id):''}</div></div>`;
+  let h=`<div class="cd"><div class="ci marble cover">${id.endsWith('-T')?LUM('review-3','lumcov'):''}${id.endsWith('-T')?'':(cp||dlib(DMAP[SUB.id+'/'+id],'dd big')||`<div class="em">${l.emoji}</div>`)}<div class="tag">${unitOf(id)}</div><h2>${l.title}</h2><p class="hint">Swipe left to begin</p>${cp?credit(id):''}</div></div>`;
   const have=(DOODLES.lessons||{})[SUB.id]||[],pool=have.filter(n=>n===id||n.startsWith(id+'_')),POS=['r','b','t','l','b','r','l','t'],off=[...id].reduce((x,ch)=>x+ch.charCodeAt(0),0);
   const SH=['sq r','semi l','dome','tall l','semi r','bowl','sq l','card','semi l','tall r'];
   l.cards.forEach((c,k)=>{const key=id+'_'+k,info=phInfo(key);let ph='',cr='',d='';
@@ -147,7 +147,7 @@ async function openL(id,card){
       const inText=/^(sq|semi|tall)$/.test(kind),below=kind==='bowl'||(kind==='card'&&(k+off)%3===2),above=!inText&&!below;
       h+=`<div class="cd"><div class="ci marble ${c.cls||''}">${above?ph:''}<div class="cb">${inText?ph:''}<div class="tag">${c.tag}</div><h2>${c.h}</h2>${window.mathify?mathify(c.b):c.b}</div>${cr}${below?ph:''}</div></div>`;return}
     /* no photo: a doodle goes above the title */
-    const nm=have.includes(key)?key:(pool.length?pool[(k+1)%pool.length]:'');d=nm?ldood(nm,'dd pt'):'';
+    d=dlib(DMAP[SUB.id+'/'+key],'dd pt');
     h+=`<div class="cd"><div class="ci marble ${c.cls||''}"><div class="cb">${d}<div class="tag">${c.tag}</div><h2>${c.h}</h2>${window.mathify?mathify(c.b):c.b}</div></div></div>`});
   const pq=PYQ[id];
   if(pq&&pq.length)h+=`<div class="cd"><div class="ci marble"><div class="tag">Asked in UPSC</div><h2>Previous year questions</h2>${pq.map(x=>`<blockquote class="pyq">${esc(x.q)}<small>${x.y} · ${esc(x.p)}${x.m?' · '+x.m+' marks':''}</small></blockquote>`).join('')}</div></div>`;
@@ -328,8 +328,12 @@ let DOODLES={};
 const mk=(u,cls)=>`<i class="${cls}" style="--u:url('${u}')"></i>`;
 const doodle=(id,cls='dd')=>{const [p,u]=id.split('-'),k=p+'-'+u;return SUB&&((DOODLES.units||{})[SUB.id]||[]).includes(k)?mk(`art/doodles/${SUB.id}/${k}.svg`,cls):''};
 // lesson doodles: cover (lessonId) and key cards (lessonId_k)
+let DMAP={};
+/* doodle library: one doodle, or a pair shown side by side (second one slightly lower), picked per card by doodle-map.json */
+const dlib=(ids,cls)=>{if(!ids||!ids.length)return '';const one=i=>`<i class="dd ${ids.length>1?'dp':cls.replace(/^dd /,'')}" style="--u:url('art/doodle-lib/${i}.svg')"></i>`;
+  return ids.length>1?`<div class="ddpair ${cls.replace(/^dd /,'')}">${ids.slice(0,2).map(one).join('')}</div>`:`<i class="${cls}" style="--u:url('art/doodle-lib/${ids[0]}.svg')"></i>`};
 const ldood=(name,cls)=>SUB&&((DOODLES.lessons||{})[SUB.id]||[]).includes(name)?mk(`art/doodles/${SUB.id}/L/${name}.svg`,cls):'';
-(async()=>{SUBJ=await fetch('subjects.json').then(r=>r.json());DOODLES=await fetch('doodles.json').then(r=>r.json()).catch(()=>({}));fetch('photos.json').then(r=>r.json()).then(j=>PHOTOS=j).catch(()=>{});await loadSubject(ls.get('subject')||SUBJ[0].id);await Promise.race([document.getElementById('heroArt').ready,new Promise(r=>setTimeout(r,3500))]);checkBadges(true);hideSplash();handleGo();prefetchSubjects();import('./account.js').catch(e=>{const a=document.getElementById('acct');if(a)a.innerHTML='<p class="note">Sign-in needs the internet. Your progress is still saved on this phone.</p>'});pushSync()})();
+(async()=>{SUBJ=await fetch('subjects.json').then(r=>r.json());DOODLES=await fetch('doodles.json').then(r=>r.json()).catch(()=>({}));fetch('doodle-map.json').then(r=>r.json()).then(j=>DMAP=j).catch(()=>{});fetch('photos.json').then(r=>r.json()).then(j=>PHOTOS=j).catch(()=>{});await loadSubject(ls.get('subject')||SUBJ[0].id);await Promise.race([document.getElementById('heroArt').ready,new Promise(r=>setTimeout(r,3500))]);checkBadges(true);hideSplash();handleGo();prefetchSubjects();import('./account.js').catch(e=>{const a=document.getElementById('acct');if(a)a.innerHTML='<p class="note">Sign-in needs the internet. Your progress is still saved on this phone.</p>'});pushSync()})();
 /* ---------- chapter tests: 15 questions drawn from every lesson in the chapter ---------- */
 async function openReview(){const due=rdue().sort((a,b)=>a.due-b.due).slice(0,15),quiz=[];
   try{for(const r of due){const l=await getLesson(r.id);if(l.quiz[r.q])quiz.push({...l.quiz[r.q],_r:r,_t:l.title})}}catch(e){alert('Review could not load. Check your connection.');return}
