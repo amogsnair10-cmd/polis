@@ -49,6 +49,11 @@
    "b": "<p>Antibiotic resistance in Indian hospitals, including NDM-1 (named for New Delhi), is selection in action. Biodiversity hotspots like the Western Ghats hold many unique species formed by long isolation. J.B.S. Haldane, who moved to India in 1957, helped found modern population genetics and worked at the Indian Statistical Institute.</p>"
   },
   {
+   "tag": "Go deeper",
+   "h": "Hardy-Weinberg: a worked example",
+   "b": "<p>Natural selection changes allele frequencies over time. If nothing changes, the frequencies stay steady. The Hardy-Weinberg rule describes that steady state. It is a useful baseline for spotting when evolution is happening.</p><div class=\"box\"><h4>Worked example</h4><p>Step 1: 1 in 25 people shows a recessive trait, so q squared = 1 in 25 = 0.04.<br>Step 2: take the square root: q = 0.2.<br>Step 3: p = 1 minus q = 0.8.<br>Step 4: carriers (2pq) = 2 x 0.8 x 0.2 = 0.32, so 32 percent carry one copy.</p></div><p>Here p is the frequency of the dominant allele, q is the frequency of the recessive allele, and p + q = 1. The three groups add up to 100 percent: p squared for the dominant type, 2pq for carriers and q squared for people with the trait.</p><p>Carriers are far more common than people with the trait. That is why rare recessive diseases can hide in a population for many generations.</p><p>Real populations break the rule when selection, mutation, migration or a small population act. Those are the forces that make evolution happen.</p>"
+  },
+  {
    "tag": "Recap",
    "h": "Key takeaways and questions",
    "b": "<ul><li>Variation + inheritance + overproduction + differential success.</li><li>Darwin and Wallace, 1858; Origin, 1859.</li><li>Drift, mutation, gene flow also drive change.</li></ul><p><b>Think about it:</b></p><ol><li>How would Lamarck and Darwin each explain the giraffe's neck?</li><li>Why does overusing antibiotics speed up resistance?</li></ol><p><b>Key terms:</b> <b>variation</b> is differences between individuals, <b>adaptation</b> is a trait that helps survival and reproduction, and <b>fitness</b> is reproductive success. Lamarck proposed in 1809 that traits acquired in life are inherited, such as a giraffe stretching its neck, but experiments show that acquired body changes are not passed on through the genes.</p>",

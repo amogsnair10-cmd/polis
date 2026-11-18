@@ -49,6 +49,11 @@
    "b": "<p>Abnormal methylation can silence tumour-suppressor genes in cancers. Indian labs, including the Institute of Genomics and Integrative Biology in Delhi, study gene regulation in disease. Indian population studies on diabetes link early-life nutrition to later risk, an idea called developmental programming.</p><p>Hypermethylation of tumour-suppressor genes such as <i>MLH1</i> is seen in some bowel cancers, and tests look for these marks in blood and stool. Epidemiology also suggests that babies born small and then well fed may be more prone to type 2 diabetes later (the 'thrifty phenotype' idea of Hales and Barker), a concern in India.</p>"
   },
   {
+   "tag": "Go deeper",
+   "h": "Agouti mice: diet and coat colour",
+   "b": "<p>In 2003, Robert Waterland and Randy Jirtle studied mice with a gene called agouti. Mice with an active form of this gene are yellow and often overweight. The gene is switched on by a piece of DNA that can carry a methyl mark.</p><p>In their experiment, the mother mice were given extra methyl-rich food, such as folic acid and vitamin B12. Their pups were born with more marks on the switch. The gene stayed quiet, and more pups had brown coats and normal weight.</p><p>The key point: the DNA sequence did not change. Only the marks on it did. The same genes were there, but they were read differently.</p><p>Two lessons follow. A switch can be changed by food and other things in the environment. Some of these marks can also be passed on for a generation. Human studies are much harder, since people cannot be bred in controlled groups, so animal results are a strong clue, not proof for people.</p><p>Gene switches also control timing. Some genes are used only during growth, and others only after a meal. A cell reads its switches, so it becomes a liver cell or a skin cell and keeps that job.</p>"
+  },
+  {
    "tag": "Recap",
    "h": "Key takeaways and questions",
    "b": "<ul><li>Cells use different genes from the same DNA.</li><li>Operons (lac) are bacterial switches.</li><li>Methylation and histone changes silence genes; RNAi blocks mRNA.</li></ul><p><b>Think about it:</b></p><ol><li>Why can a skin cell not simply become a neuron on its own?</li><li>Why is a repressor useful for saving energy?</li></ol>",

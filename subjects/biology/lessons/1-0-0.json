@@ -49,6 +49,11 @@
    "b": "<p>The ABO and Rh systems matter in transfusion. India has high carrier rates of sickle cell and thalassaemia in some regions, and the National Sickle Cell Anaemia Elimination Mission (launched 2023) screens carriers. Recessive disorders are more frequent where cousin marriage is common.</p><p>Karl Landsteiner discovered the ABO groups in 1900 (Nobel 1930), and A and B are codominant over O. Sickle cell and thalassaemia are inherited when both parents pass on a faulty recessive allele, so each child of two carriers has a one in four chance of the disease. Carrier screening and counselling help families plan.</p>"
   },
   {
+   "tag": "Go deeper",
+   "h": "Odds of two recessive children",
+   "b": "<p>Mendel's ideas let you work out odds. A cross between two carriers, Bb and Bb, gives each child a 1 in 4 chance of showing the recessive trait.</p><div class=\"box\"><h4>Worked example</h4><p>Step 1: both parents are Bb, carriers of a recessive trait.<br>Step 2: one child is bb (recessive) with chance 1 in 4, or 0.25.<br>Step 3: two children are both bb. Multiply the chances: 0.25 x 0.25 = 0.0625.<br>Step 4: 0.0625 is 1 in 16.</p></div><p>Here B is the dominant allele, b is the recessive allele, and Bb means a carrier with one of each. Each child is separate, so you multiply their chances.</p><p>Work the other way too. The chance that at least one child shows the trait is 1 minus the chance that neither does. Here that is 1 minus (3/4 x 3/4) = 1 minus 9/16 = 7/16.</p><p>Odds say nothing about one particular family. The rule works over large numbers. A couple's next two children may still be unlucky or lucky.</p><p>Mendel also used a test cross. An unknown plant showing the dominant trait is crossed with a pure recessive plant. If any child shows the recessive trait, the unknown parent must carry one recessive allele.</p>"
+  },
+  {
    "tag": "Recap",
    "h": "Key takeaways and questions",
    "b": "<ul><li>Dominance, segregation, independent assortment.</li><li>Monohybrid 3:1 and 1:2:1; dihybrid 9:3:3:1.</li><li>Real inheritance includes codominance, multiple alleles, sex-linkage, polygenic traits.</li></ul><p><b>Think about it:</b></p><ol><li>Two tall plants give a short offspring: what are the parents' genotypes?</li><li>Why can two parents with blood groups A and B have an O child?</li></ol>",

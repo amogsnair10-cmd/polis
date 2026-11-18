@@ -49,6 +49,11 @@
    "b": "<p>No. Science can give <b>probabilities</b> and hazard maps, not exact times. Early-warning systems exploit the gap between fast P waves and damaging S waves, giving seconds of notice.</p><p>Real risk reduction comes from <b>building codes</b>, retrofitting, land-use rules and drills. After Bhuj (26 January 2001, M7.7) and Nepal (25 April 2015, M7.8) the debate shifted from nature to unsafe construction.</p>"
   },
   {
+   "tag": "Go deeper",
+   "h": "Reading the Richter scale: each step is a big jump",
+   "b": "<p>The Richter magnitude scale is <b>logarithmic</b>. Each whole step up means about ten times the shaking amplitude on a seismograph.</p><p>Energy grows even faster. Each whole step releases about 31.6 times more energy. So a magnitude 7 quake releases about 1,000 times the energy of a magnitude 5 quake. Two steps mean 100 times the shaking, but about 1,000 times the energy.</p><p>Think of it this way. A small change in the number means a very large change in the power of the quake.</p><p>The <b>Mercalli scale</b> is different. It measures intensity, which is what people feel and what damage is seen at one place. One quake has one magnitude, but many intensities across a region.</p><p>Tsunamis are a sea-wave effect. In deep water they are low and fast. Near the coast they grow tall as the water slows. The 2004 Indian Ocean tsunami followed a very large undersea quake off Sumatra, with a magnitude of about 9.</p><div class=\"box\"><h4>Exam trap</h4><p>Magnitude is not the same as damage. A deep or distant quake can be large but harmless. A shallow quake near cities can be less strong and still do far more harm.</p></div><p><b>How it is asked.</b> Prelims: difference between magnitude and intensity, and which scale measures which. Mains: why the same quake can cause very different damage in different places.</p>"
+  },
+  {
    "tag": "Exam lens",
    "cls": "exam",
    "h": "How to write this",

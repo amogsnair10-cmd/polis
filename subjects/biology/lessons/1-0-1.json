@@ -49,6 +49,11 @@
    "b": "<p>Har Gobind Khorana (born in Raipur, now Pakistan, 1922) chemically synthesised the first artificial gene in 1970 and shared the 1968 Nobel for cracking the genetic code. At CCMB, Hyderabad, Lalji Singh developed DNA fingerprinting in India, used in forensic and paternity cases. The GenomeIndia project has sequenced 10,000 Indian genomes (announced 2025).</p>"
   },
   {
+   "tag": "Go deeper",
+   "h": "Using base pairs to find missing bases",
+   "b": "<p>DNA has four bases: A, T, G and C. Adenine pairs with thymine, and guanine pairs with cytosine. This pairing lets you work out a missing base from one you know.</p><div class=\"box\"><h4>Worked example</h4><p>Step 1: a DNA sample has 30 percent adenine (A).<br>Step 2: A pairs with T, so T is also 30 percent.<br>Step 3: together A and T make 60 percent. The rest, 40 percent, is G and C.<br>Step 4: G and C are equal, so each is 20 percent.</p></div><p>Here A is adenine, T is thymine, G is guanine and C is cytosine. Each figure is a percent of all the bases in the double helix.</p><p>The same logic works for any sample. If 20 percent is G, then C is 20 percent too, and A plus T make 60 percent, split equally at 30 percent each.</p><p>Scientists used this kind of counting in the 1950s to show that the pairing pattern held across many species. Only the pairing rule is needed, no other facts.</p><p>This rule also helps check data. In a double-stranded sample, A and T must be equal, and G and C must be equal. If the numbers do not match, check the data before you trust it.</p>"
+  },
+  {
    "tag": "Recap",
    "h": "Key takeaways and questions",
    "b": "<ul><li>DNA is a double helix of four bases; A-T, G-C.</li><li>Replication is semi-conservative: helicase, primase, polymerase, ligase.</li><li>Griffith to Hershey-Chase proved DNA is the genetic material.</li></ul><p><b>Think about it:</b></p><ol><li>If one strand reads ATGC, what is the other?</li><li>Why is semi-conservative copying good for accuracy?</li></ol>",

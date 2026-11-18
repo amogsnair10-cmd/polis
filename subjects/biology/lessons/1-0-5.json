@@ -49,6 +49,11 @@
    "b": "<p>Khorana's 1970 gene synthesis helped found the field. Bt cotton was approved in India in 2002; it is the only GM crop allowed for commercial cultivation. GM mustard (DMH-11) was cleared by the regulator (GEAC) in 2022 but is under Supreme Court review. India's Department of Biotechnology (1986) and genome-edited rice varieties released by ICAR in 2025 show current work. Biocon and Serum Institute are major producers of insulin and vaccines.</p>"
   },
   {
+   "tag": "Go deeper",
+   "h": "Making human insulin in bacteria",
+   "b": "<p>Before genetic engineering, insulin for diabetics came from pig and cow pancreases. Human insulin is slightly different, and animal insulin sometimes caused allergic reactions.</p><p>In 1978, scientists at the company Genentech, working with colleagues at City of Hope, made human insulin in <i>E. coli</i> bacteria. The steps were simple in outline:</p><ol><li>Cut the human insulin gene out of its DNA using a restriction enzyme.</li><li>Cut a small ring of bacterial DNA, called a plasmid, with the same enzyme.</li><li>Join the two pieces with DNA ligase.</li><li>Put the new plasmid back into bacteria, which copy the gene and make insulin.</li></ol><p>The first human insulin product was approved for sale in 1982. Today most insulin used for diabetes is made this way.</p><p>The same kind of method now makes vaccines, growth hormone and clotting factors. Insulin is a clear case study of how one lab method can change medicine.</p><p>Safety rules guard this work. Labs use contained spaces and test products for allergens and other risks before sale. Regulators in each country set their own rules. Bacteria making insulin are grown in large tanks, and the protein is then purified.</p>"
+  },
+  {
    "tag": "Recap",
    "h": "Key takeaways and questions",
    "b": "<ul><li>Recombinant DNA: cut, paste, insert.</li><li>PCR copies DNA; CRISPR edits it.</li><li>GM crops like Bt cotton bring benefits and debates.</li></ul><p><b>Think about it:</b></p><ol><li>Should germline editing be allowed to prevent disease? Why or why not?</li><li>How can farmers be protected from pest resistance to Bt?</li></ol>",

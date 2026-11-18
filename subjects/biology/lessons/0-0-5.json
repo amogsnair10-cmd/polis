@@ -49,6 +49,11 @@
    "b": "<p>Idli, dosa, dhokla, jalebi batter and toddy use microbial fermentation. Cyanide and carbon monoxide block the electron chain, which is why they are deadly. Yoga and high-altitude adaptation among Himalayan communities are studied for efficient oxygen use.</p><p>In batter, yeast and bacteria use sugars without much oxygen, so glycolysis continues and pyruvate becomes alcohol or lactic acid plus carbon dioxide, which makes the batter rise. Your own muscles do the same during hard sprints, making lactate. Cyanide sticks to the last enzyme of the chain, so cells cannot use oxygen even though it is present.</p>"
   },
   {
+   "tag": "Go deeper",
+   "h": "Counting the ATP from one glucose",
+   "b": "<p>Cells need a steady supply of ATP. Scientists count how much one glucose molecule can give, but the number is an estimate, not an exact figure.</p><div class=\"box\"><h4>Worked example (approximate)</h4><p>Step 1: glycolysis makes a net 2 ATP.<br>Step 2: the Krebs cycle makes 2 ATP per glucose.<br>Step 3: the electron transport chain makes about 26 to 28 ATP.<br>Step 4: add them: 2 + 2 + 26 to 28 = about 30 to 32 ATP.</p></div><p>Here ATP is the energy coin of the cell. Glycolysis and the Krebs cycle make a few ATP directly. Most ATP comes from the last stage, which needs oxygen.</p><p>Fermentation gives only 2 ATP per glucose. Muscles that work hard without enough oxygen tire quickly. Yeast that ferments uses up sugar fast for little energy.</p><p>Older books quote 36 or 38 ATP. The exact figure depends on how electrons from glycolysis are moved into the mitochondria.</p><p>Cells also use the same steps for building. Some molecules from the Krebs cycle feed into making fats and amino acids. The cycle is a hub, not just a dead end for fuel.</p>"
+  },
+  {
    "tag": "Recap",
    "h": "Key takeaways and questions",
    "b": "<ul><li>Glycolysis, Krebs cycle and electron transport turn glucose into ATP.</li><li>Most ATP comes from the proton gradient.</li><li>No oxygen leads to fermentation and 2 ATP.</li></ul><p><b>Think about it:</b></p><ol><li>Why does cyanide stop all ATP production?</li><li>Why does a sprinter breathe hard after the race ends?</li></ol>",
