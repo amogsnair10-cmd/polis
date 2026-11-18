@@ -49,6 +49,11 @@
    "b": "<p>The <b>Ooty Radio Telescope</b> (1970), built by the Tata Institute under Govind Swarup, a 530 m long cylindrical dish on a hillside tilted to line up with Earth's axis, was used for early pulsar and lunar-occultation studies. The <b>GMRT</b> finds and times pulsars; the Indian Pulsar Timing Array (InPTA) joined the 2023 global announcement of a nanohertz gravitational-wave background. <b>AstroSat</b> has observed the Crab pulsar in X-rays.</p>"
   },
   {
+   "tag": "Go deeper",
+   "h": "How fast a neutron star's surface moves",
+   "b": "<p>A neutron star packs about 1.4 solar masses into a sphere about 20 to 25 kilometres across. Some spin many times a second. Pulsars are neutron stars that sweep beams of radio waves past Earth, which we see as regular pulses.</p><p><b>Worked example.</b> A millisecond pulsar spins once every 1.4 milliseconds and has a radius of 12 kilometres. How fast does its equator move?<br>Step 1: circumference = 2 x pi x 12,000 metres = 75,400 metres.<br>Step 2: speed = distance / time = 75,400 / 0.0014 seconds.<br>Step 3: speed = 5.4 x 10 to the power 7 metres per second.<br>Step 4: divide by light speed (3 x 10 to the power 8): about 0.18, so about 18 percent of light speed.</p><p>Here v is the speed, C the circumference and T the spin period: v = C / T.</p><p><b>Exam trap:</b> a more massive neutron star is not much bigger. Its radius stays near 10 to 13 kilometres over a wide range of masses.</p><p>Pulsar timing is so precise that millisecond pulsars can keep time better than atomic clocks over long spans. That is why they help test gravity and search for gravitational waves.</p>"
+  },
+  {
    "tag": "Recap",
    "h": "Key takeaways",
    "b": "<ul><li>Neutron stars are collapsed stellar cores about 20 km across and 1.4 to 2 Suns in mass.</li><li>Pulsars are spinning, magnetised neutron stars whose beams sweep past Earth.</li><li>They are precise clocks that test gravity and detect gravitational waves.</li><li>Jocelyn Bell found the first in 1967.</li></ul><p><b>Think about it:</b> (1) Why must a neutron star spin so fast after collapse? (2) What would it mean if a pulsar's ticks suddenly shifted?</p>",

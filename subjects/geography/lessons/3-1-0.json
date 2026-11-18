@@ -49,6 +49,11 @@
    "b": "<p><b>Chabahar</b> (Iran), <b>Gwadar</b> (Pakistan), <b>Hambantota</b> (Sri Lanka), <b>Kyaukphyu</b> (Myanmar), <b>Malacca Strait</b>, the <b>Siliguri Corridor</b> (Chicken's Neck), <b>Doklam</b>, <b>Galwan</b>, <b>Great Nicobar Island</b> and <b>Agalega</b> in Mauritius. Practise locating each on a sketch.</p>"
   },
   {
+   "tag": "Go deeper",
+   "h": "The 82.5 degree meridian and why India has one time",
+   "b": "<p>India uses one time zone, Indian Standard Time (IST), which is 5 hours 30 minutes ahead of Greenwich Mean Time. The reference meridian is 82.5 degrees East, which passes near Mirzapur in Uttar Pradesh. Longitude decides time, so one line sets the clock for the whole country.</p><p><b>Worked example.</b> Why is India 5 hours 30 minutes ahead of GMT?<br>Step 1: the Earth turns 360 degrees in 24 hours, so 15 degrees an hour.<br>Step 2: 82.5 / 15 = 5.5 hours.<br>Step 3: 5.5 hours = 5 hours 30 minutes.</p><p>A sharper distinction: the Tropic of Cancer (about 23.5 degrees North) passes through eight Indian states, including Gujarat, Rajasthan, Madhya Pradesh, Chhattisgarh, Jharkhand, West Bengal, Tripura and Mizoram.</p><p><b>Exam trap:</b> the mainland's southern tip is Kanyakumari, but the southernmost point of India is Indira Point in the Nicobar islands. Do not mix them up.</p><p><b>How it is asked:</b> Prelims: which place is India's southernmost point, or which states the Tropic of Cancer crosses. Mains: \"Discuss the advantages and problems of a single time zone for a country of India's east-west width.\"</p>"
+  },
+  {
    "tag": "Exam lens",
    "cls": "exam",
    "h": "How to write this",

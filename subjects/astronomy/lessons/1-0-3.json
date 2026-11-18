@@ -49,6 +49,11 @@
    "b": "<p>ISRO's <b>Chandrayaan-1</b> (22 October 2008) carried the Moon Impact Probe and NASA's Moon Mineralogy Mapper, which found water molecules in the lunar surface in 2009. <b>Chandrayaan-3</b> landed on 23 August 2023 near the south pole, and its rover measured surface temperatures and detected sulphur. <b>Lonar Lake</b> in Maharashtra is an impact crater in basalt, formed by a meteorite hundreds of thousands of years ago, one of the few such craters in basalt on Earth.</p>"
   },
   {
+   "tag": "Go deeper",
+   "h": "Kepler's rule and Halley's comet",
+   "b": "<p>Comets follow elongated orbits, but Kepler's third law still holds. Halley's comet, the most famous one, returns about every 76 years. Its average distance from the Sun can be worked out from that period alone.</p><p><b>Worked example.</b> Halley's comet has a period of 76 years. What is its average distance?<br>Step 1: T = 76 years, so T squared = 5,776.<br>Step 2: a cubed = 5,776, so a = cube root of 5,776.<br>Step 3: cube root of 5,776 = about 18 AU.</p><p>Here T is the period in years and a the average distance in AU, with T x T = a x a x a. The comet spends most of its time far out, where it moves slowly.</p><p><b>Exam trap:</b> a comet's brightness depends on its distance from the Sun and on its dust, not on its period alone.</p><p>Asteroids and comets are both leftovers, but comets are icy and asteroids are mostly rock and metal. Close passes by the giant planets can change their orbits, which is how some comets end up in the inner Solar System.</p>"
+  },
+  {
    "tag": "Recap",
    "h": "Key takeaways",
    "b": "<ul><li>The Moon likely formed from a giant impact; some moons have oceans and atmospheres.</li><li>Asteroids are rocky leftovers, mostly in a sparse belt.</li><li>Comets are icy; tails point away from the Sun.</li><li>Pluto is a dwarf planet; Kuiper belt and Oort cloud supply comets.</li></ul><p><b>Think about it:</b> (1) Why are icy moons good places to search for life? (2) Why did DART matter for humanity?</p>",

@@ -49,6 +49,11 @@
    "b": "<p>The Hanle Dark Sky Reserve in Ladakh, home to the Indian Astronomical Observatory at high altitude, was recognised by the International Dark-Sky Association in 2022. Its thin air, low humidity and remote location make it one of the best sites for observing in India. Protecting such a site means controlling lamps and setting lighting rules for the villages nearby.</p>"
   },
   {
+   "tag": "Go deeper",
+   "h": "Why 2.5 magnitudes means ten times more sky glow",
+   "b": "<p>Light pollution does not only hide stars. It lifts the whole sky, so faint stars and the Milky Way fade into a grey glow. Astronomers measure how bright the sky background has become in magnitudes, just as they do for a star.</p><p><b>Worked example.</b> A dark site has a naked-eye limit of magnitude 6.5. A city has a limit of magnitude 4.0. How much brighter is the city sky?<br>Step 1: the change is 6.5 minus 4.0 = 2.5 magnitudes.<br>Step 2: a factor of 100 to the power (2.5 / 5) = 100 to the power 0.5 = 10.<br>Step 3: the city sky background is about ten times brighter than the dark site.</p><p>Here B1 and B2 are two sky brightnesses and m1 and m2 their magnitudes: B1 / B2 = 100 to the power of (m2 minus m1) divided by 5.</p><p><b>Exam trap:</b> a rough \"limiting magnitude\" depends on the observer's eyes and sky, so quote it as a rough guide.</p><p>Sky brightness is also measured in magnitudes per square arcsecond. A darker sky has a larger number, which is the reverse of a star's scale.</p>"
+  },
+  {
    "tag": "Recap",
    "h": "Key takeaways",
    "b": "<ul><li>Skyglow scatters upward light and hides stars.</li><li>The Bortle scale rates sites from 1 (darkest) to 9.</li><li>Satellites map night-time light across the planet.</li><li>Light pollution harms wildlife and sleep, not only astronomy.</li></ul><p><b>Think about it:</b> (1) Why does a fully shielded lamp help the sky more than a dim, unshielded one? (2) What would your own street look like on a Bortle scale?</p>",

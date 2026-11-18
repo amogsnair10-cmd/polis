@@ -49,6 +49,11 @@
    "b": "<p>Subrahmanyan Chandrasekhar was born in Lahore in 1910 and worked in Madras before moving abroad. His 1930 calculation of a white dwarf mass limit, now the Chandrasekhar limit of about 1.4 times the Sun's mass, underlies much of modern astrophysics. Naming Chandra after him honoured this Indian-born scientist.</p>"
   },
   {
+   "tag": "Go deeper",
+   "h": "Converting X-ray energy to wavelength",
+   "b": "<p>X-rays have very short wavelengths, so each photon carries a lot of energy. Astronomers often quote energy in kilo-electronvolts (keV) and wavelength in angstroms (one angstrom is 0.1 nanometre). A single rule links the two, so you can switch between them.</p><p><b>Worked example.</b> A Chandra X-ray photon has a wavelength of 1 angstrom. What is its energy?<br>Step 1: energy (keV) = 12.4 / wavelength (angstrom).<br>Step 2: 12.4 / 1 = 12.4 keV.<br>Step 3: a photon at 10 angstroms has 1.24 keV, so softer X-rays have longer wavelengths.</p><p>Here E is the photon energy in kilo-electronvolts and lambda the wavelength in angstroms: E = 12.4 / lambda.</p><p><b>Exam trap:</b> a bigger energy means a shorter wavelength. Students often flip this, so check the direction with a quick example like the one above.</p><p><b>Second example.</b> A photon with a wavelength of 0.1 angstrom has energy 12.4 / 0.1 = 124 keV. Chandra works mostly between about 0.1 and 10 keV, so its photons have wavelengths between about 1.2 and 120 angstroms.</p><p>Hot gas in galaxy clusters and near black holes gives off X-rays this way, which is why X-ray telescopes map them.</p>"
+  },
+  {
    "tag": "Recap",
    "h": "Key takeaways",
    "b": "<ul><li>The atmosphere blocks X-rays, so telescopes must fly.</li><li>Scorpius X-1 in 1962 was the first cosmic X-ray source found.</li><li>X-ray telescopes use grazing mirrors.</li><li>Chandra is named after Chandrasekhar.</li></ul><p><b>Think about it:</b> (1) Why do ordinary mirrors fail for X-rays? (2) What would the hot gas in a galaxy cluster look like to your eyes compared with an X-ray telescope?</p>",

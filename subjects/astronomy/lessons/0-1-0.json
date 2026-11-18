@@ -31,7 +31,7 @@
   {
    "tag": "Concept",
    "h": "Doppler shift: motion in colour",
-   "b": "<p>If a source moves toward us its waves are squeezed: <b>blueshift</b>. If it moves away they are stretched: <b>redshift</b>. The size of the shift gives the speed along the line of sight: v/c = shift in wavelength divided by original wavelength.</p><p>It reveals binary stars, orbiting planets, spinning galaxies and, as we will see, the expansion of the universe.</p>"
+   "b": "<p>If a source moves toward us its waves are squeezed: <b>blueshift</b>. If it moves away they are stretched: <b>redshift</b>. The size of the shift gives the speed along the line of sight: v/c = shift in wavelength divided by original wavelength.</p><p>Here v is the speed along the line of sight in km per second, c the speed of light in km per second, and the shift the change in wavelength.</p><p>It reveals binary stars, orbiting planets, spinning galaxies and, as we will see, the expansion of the universe.</p>"
   },
   {
    "tag": "How we know",
@@ -47,6 +47,11 @@
    "tag": "Indian angle",
    "h": "Saha, Raman and Guntur",
    "b": "<p>In 1920 <b>Meghnad Saha</b> derived the <b>Saha ionisation equation</b>, showing how a star's temperature and pressure decide which atoms lose electrons. This explained why star types differ and became a foundation of astrophysics.</p><p><b>C.V. Raman</b> discovered in 1928 that light scattered by molecules changes colour slightly, the <b>Raman effect</b>, used today to identify materials (Nobel Prize 1930). And the 1868 helium line was first seen from Guntur, Andhra Pradesh.</p>"
+  },
+  {
+   "tag": "Go deeper",
+   "h": "Wien's law: colour gives surface temperature",
+   "b": "<p>A hot object glows at a colour that depends on its temperature. <b>Wien's law</b> says the peak wavelength of its light is inversely proportional to its temperature. Hotter stars peak at shorter, bluer wavelengths.</p><p><b>Worked example.</b> The Sun's surface is about 5,800 kelvin. Where does its light peak? Use peak wavelength (nm) = 2,900,000 / T.<br>Step 1: 2,900,000 / 5,800 = 500.<br>Step 2: the peak is at 500 nanometres, in the green-blue part of the spectrum.<br>Step 3: a star at 11,600 kelvin would peak at 250 nanometres, in the ultraviolet.</p><p>Here lambda is the peak wavelength in nanometres and T the surface temperature in kelvin: lambda = 2,900,000 / T.</p><p><b>Exam trap:</b> Wien's law gives the peak colour, not the total light. A hotter star also emits far more light overall, which a different law describes.</p><p>Each element absorbs and emits light at its own set of wavelengths. Hydrogen, the most common element in stars, shows a famous set of lines, such as the red H-alpha line at 656 nanometres. Finding these lines in a star's spectrum is how astronomers identify its gases.</p>"
   },
   {
    "tag": "Recap",

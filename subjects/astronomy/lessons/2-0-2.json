@@ -49,6 +49,11 @@
    "b": "<p>In Indian tradition Orion is <b>Mriga</b>, the deer, with <b>Mrigashira</b> a nakshatra; the three stars of Orion's belt were seen as an arrow aimed at it. The <b>GMRT</b> maps cold hydrogen gas through the 21 cm radio line, tracing the gas that forms stars. ISRO's <b>AstroSat</b> Ultraviolet Imaging Telescope has studied young hot stars in star clusters and galaxies.</p>"
   },
   {
+   "tag": "Go deeper",
+   "h": "Why massive stars are short-lived",
+   "b": "<p>A star's life depends mostly on its mass. More mass means more gravity, so the core must burn its fuel faster to hold the star up. Massive stars burn brightly and die young, while small red dwarfs can shine for trillions of years.</p><p><b>Worked example, a rough rule.</b> Main-sequence lifetime is roughly 10 billion years times (mass / Sun's mass) to the power minus 2.5. For a star of 10 solar masses:<br>Step 1: 10 to the power minus 2.5 = 0.0032.<br>Step 2: 10 billion years x 0.0032 = 32 million years.<br>Step 3: a star of ten Suns lives about 30 million years, while the Sun lives about 10 billion.</p><p>Here t is the lifetime, M the star's mass and M_sun the Sun's mass: t = 10 billion years x (M / M_sun) to the power minus 2.5. The rule is approximate, so treat the answer as a ballpark.</p><p><b>Exam trap:</b> a short life does not mean a weak effect. Massive stars shape their surroundings with strong winds, radiation and supernovae.</p><p>Stars often form in groups, so most newborn stars are found in clusters rather than alone.</p>"
+  },
+  {
    "tag": "Recap",
    "h": "Key takeaways",
    "b": "<ul><li>Stars form from cold, dense molecular clouds that collapse under gravity.</li><li>A protostar with a disc and jets forms first; fusion starts at about 10 million K.</li><li>Below 0.08 solar masses, an object is a brown dwarf.</li><li>Infrared and radio let us see inside nurseries like Orion.</li></ul><p><b>Think about it:</b> (1) Why are stars often born in groups? (2) Why do hot young stars end up destroying their own nursery?</p>",

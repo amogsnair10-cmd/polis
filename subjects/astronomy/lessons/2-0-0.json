@@ -49,6 +49,11 @@
    "b": "<p><b>Vainu Bappu</b>, builder of the Kavalur observatory, with Olin Wilson found in 1957 the <b>Bappu-Wilson effect</b>: the width of a calcium emission line in cool stars tells how luminous they are, giving a new distance tool. The Vainu Bappu Telescope (2.34 m) in Tamil Nadu is named after him. Meghnad Saha's work (1920) connected spectral type to temperature, which underpins the HR diagram.</p>"
   },
   {
+   "tag": "Go deeper",
+   "h": "Parallax distance: one divided by the angle",
+   "b": "<p>The nearest stars shift slightly against far background stars as Earth orbits the Sun. The angle of this shift is the <b>parallax</b>. A smaller parallax means a more distant star. The unit is the parsec, the distance at which a star would show a parallax of one arcsecond.</p><p><b>Worked example.</b> Proxima Centauri has a parallax of 0.768 arcseconds. How far away is it?<br>Step 1: distance (parsecs) = 1 / 0.768 = 1.30 parsecs.<br>Step 2: 1 parsec = 3.26 light years.<br>Step 3: 1.30 x 3.26 = 4.2 light years.</p><p>Here d is the distance in parsecs and p the parallax in arcseconds: d = 1 / p.</p><p><b>Exam trap:</b> a parsec is a distance, not a time. Parallax only works for stars within a few thousand parsecs, because beyond that the shift is too small to measure from Earth's orbit.</p><p>Standard candles work in a different way. If you know a star's true brightness and measure its apparent brightness, the inverse square law gives its distance. This is why Cepheid variable stars matter so much for the distance ladder.</p>"
+  },
+  {
    "tag": "Recap",
    "h": "Key takeaways",
    "b": "<ul><li>Parallax gives distances to nearby stars; Cepheids extend the ladder.</li><li>Brightness falls with distance squared; lower magnitude is brighter.</li><li>The HR diagram groups stars by temperature and luminosity.</li><li>Mass sets a star's position and lifetime.</li></ul><p><b>Think about it:</b> (1) Why do massive stars die sooner despite having more fuel? (2) Why can't parallax measure distance to other galaxies?</p>",

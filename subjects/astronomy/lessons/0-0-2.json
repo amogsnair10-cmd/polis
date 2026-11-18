@@ -49,6 +49,11 @@
    "b": "<p>Aryabhata (499 CE) explained eclipses correctly as shadows of Earth and Moon, rather than the demon Rahu swallowing the Sun, and gave a method to compute them.</p><p>India's national civil calendar is the <b>Saka calendar</b> (adopted 1957, year starting 22 March in ordinary years). It came from the 1952 <b>Calendar Reform Committee</b> chaired by the astrophysicist <b>Meghnad Saha</b>. Many Indian festivals still follow lunisolar rules in the panchang. India saw a total solar eclipse on 24 October 1995 and an annular one on 26 December 2019 in the south.</p>"
   },
   {
+   "tag": "Go deeper",
+   "h": "The Saros cycle: how eclipses repeat",
+   "b": "<p>Eclipses return in patterns. The <b>Saros cycle</b> is about 18 years and 11 days, the time for 223 lunar months. After one Saros the Sun, Moon and Earth nearly line up the same way, so a similar eclipse returns, shifted about 120 degrees of longitude westward on Earth.</p><p><b>Worked example.</b> How long is one Saros?<br>Step 1: one lunar month (new Moon to new Moon) is 29.53 days.<br>Step 2: 223 x 29.53 = 6,585 days.<br>Step 3: 6,585 / 365.25 = 18.03 years, so 18 years and about 11 days.</p><p>Babylonian astronomers noticed this repeat long before anyone knew why. That is how eclipse predictions were possible without a theory of gravity.</p><p><b>Exam trap:</b> eclipses do not happen at every full or new Moon. The Moon's orbit is tilted about 5 degrees to Earth's orbit round the Sun, so the Moon usually passes above or below the Sun or Earth's shadow.</p><p>Eclipses in one Saros series look alike: similar duration and similar path, shifted one step at a time. Each new eclipse in a series appears about 18 years and 11 days after the last.</p>"
+  },
+  {
    "tag": "Recap",
    "h": "Key takeaways",
    "b": "<ul><li>Solar eclipse: new Moon blocks the Sun; lunar eclipse: full Moon enters Earth's shadow.</li><li>The Moon's 5 degree tilt makes eclipses rare; the saros repeats them.</li><li>Seasons come from the 23.4 degree tilt, not distance.</li><li>Calendars reconcile year and month: solar, lunar or lunisolar.</li></ul><p><b>Think about it:</b> (1) Why can a lunar eclipse be seen by many more people than a solar one? (2) What would seasons be like if Earth had no tilt?</p>",

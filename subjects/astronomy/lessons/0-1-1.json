@@ -49,6 +49,11 @@
    "b": "<p>The <b>Giant Metrewave Radio Telescope (GMRT)</b> near Pune has 30 dishes of 45 m each, built under <b>Govind Swarup</b> and opened in the 1990s: one of the world's most sensitive at low radio frequencies. The 2 m <b>Himalayan Chandra Telescope</b> at Hanle (4,500 m, Ladakh) sits in one of the world's driest, darkest sites. The 3.6 m <b>Devasthal Optical Telescope</b> in Uttarakhand began working in 2016. ISRO's <b>AstroSat</b> (2015) was India's first dedicated astronomy satellite. <b>LIGO-India</b> was approved in 2023.</p>"
   },
   {
+   "tag": "Go deeper",
+   "h": "Light-gathering and sharpness: two numbers every telescope has",
+   "b": "<p>A telescope does two jobs: it gathers light, and it makes fine detail sharp. Light-gathering power rises with the square of the mirror diameter. Sharpness, or resolution, depends on the wavelength and the diameter.</p><p><b>Worked example, light.</b> Compare an 8 metre mirror with a 7 millimetre dark-adapted eye pupil.<br>Step 1: 8 metres = 8,000 mm, so the ratio is 8,000 / 7 = 1,143.<br>Step 2: 1,143 squared = about 1.3 million.<br>Step 3: the 8 metre mirror collects about 1.3 million times more light than your eye.</p><p><b>Worked example, sharpness.</b> The James Webb Space Telescope has a 6.5 metre mirror and works at 2 micrometres.<br>Step 1: 1.22 x 2 micrometres / 6.5 metres = 3.75 x 10 to the power minus 7 radians.<br>Step 2: 3.75 x 10 to the power minus 7 x 206,265 = about 0.077 arcseconds.</p><p>Here theta is the smallest angle that can be told apart, in radians, lambda the wavelength and D the mirror diameter, in the same units: theta = 1.22 x lambda / D.</p><p><b>Exam trap:</b> a bigger mirror gives more detail, but a ground telescope is often limited by the air above it unless adaptive optics corrects the blur.</p>"
+  },
+  {
    "tag": "Recap",
    "h": "Key takeaways",
    "b": "<ul><li>Telescopes win on light-collecting area and resolution, not magnification.</li><li>Reflectors dominate; radio and space telescopes opened other wavelengths.</li><li>Adaptive optics and orbit beat the atmosphere.</li><li>JWST sees infrared from L2; networks of dishes can act as one giant telescope.</li></ul><p><b>Think about it:</b> (1) Why must infrared telescopes be kept very cold? (2) Why build GMRT in dozens of dishes instead of one huge one?</p>",

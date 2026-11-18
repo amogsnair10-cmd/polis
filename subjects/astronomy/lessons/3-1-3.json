@@ -49,6 +49,11 @@
    "b": "<p>Indian scientists (IndIGO consortium, IUCAA, RRCAT, IPR) are members of the LIGO collaboration. <b>LIGO-India</b>, a third LIGO detector planned at Aundha in Hingoli district, Maharashtra, received government approval in April 2023. It will sharpen sky localisation of sources. The <b>uGMRT</b> and the Indian Pulsar Timing Array took part in the 2023 announcement, and AstroSat's CZTI searched for X-ray counterparts of GW events.</p>"
   },
   {
+   "tag": "Go deeper",
+   "h": "How small is a gravitational wave signal?",
+   "b": "<p>A gravitational wave stretches and squeezes space. LIGO looks for this as a tiny change in the length of its two 4 kilometre arms. The 2015 signal, GW150914, changed the arm lengths by about one part in 10 to the power 21.</p><p><b>Worked example.</b> How big is the change for a 4 kilometre arm?<br>Step 1: strain h = 1 x 10 to the power minus 21.<br>Step 2: change in length = h x L = 10 to the power minus 21 x 4,000 m = 4 x 10 to the power minus 18 m.<br>Step 3: a proton is about 1.7 x 10 to the power minus 15 m across.<br>Step 4: 4 x 10 to the power minus 18 / 1.7 x 10 to the power minus 15 = 0.0024, about 1/400 of a proton's width.</p><p>Here delta L is the change in arm length, h the strain (a fraction) and L the arm length: delta L = h x L.</p><p><b>Exam trap:</b> the signal was recorded in September 2015 but announced only in February 2016, after checks.</p>"
+  },
+  {
    "tag": "Recap",
    "h": "Key takeaways",
    "b": "<ul><li>Gravitational waves are ripples in space-time from accelerating masses, predicted in 1916.</li><li>LIGO detected the first on 14 September 2015 from merging black holes.</li><li>GW170817 combined waves with light and proved gravity travels at c.</li><li>LIGO-India and pulsar timing add Indian contributions.</li></ul><p><b>Think about it:</b> (1) Why do we need several detectors around the world? (2) What could waves tell us that light cannot?</p>",

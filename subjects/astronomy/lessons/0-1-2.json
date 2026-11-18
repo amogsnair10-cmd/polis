@@ -49,6 +49,11 @@
    "b": "<p>The Ooty Radio Telescope in Tamil Nadu, built in 1970 by the Tata Institute of Fundamental Research, is a long cylindrical dish of about 530 metres. The Giant Metrewave Radio Telescope near Pune, run by the National Centre for Radio Astrophysics, uses 30 steerable dishes of 45 metres each.</p>"
   },
   {
+   "tag": "Go deeper",
+   "h": "How ALMA's spread-out dishes sharpen radio pictures",
+   "b": "<p>Radio waves are much longer than light, so a single dish would need to be enormous to see fine detail. ALMA solves this by linking dishes spread across up to about 16 kilometres. The sharpness depends on the spacing between dishes, not on the size of one dish.</p><p><b>Worked example.</b> Compare a single 12 metre dish with ALMA's longest spacing of 16 kilometres, both at 1 millimetre.<br>Step 1: single dish: 1.22 x 0.001 m / 12 m = 1.0 x 10 to the power minus 4 radians.<br>Step 2: 1.0 x 10 to the power minus 4 x 206,265 = about 21 arcseconds.<br>Step 3: ALMA: 1.22 x 0.001 m / 16,000 m = 7.6 x 10 to the power minus 8 radians.<br>Step 4: 7.6 x 10 to the power minus 8 x 206,265 = about 0.016 arcseconds, over 1,000 times sharper.</p><p>Here theta is the smallest resolvable angle in radians, lambda the wavelength and D the largest spacing between dishes: theta = 1.22 x lambda / D. It is the same rule used for optical telescopes.</p><p><b>Exam trap:</b> ALMA does not build one giant dish. It combines signals, so the picture is only as complete as the spread of dish positions allows.</p>"
+  },
+  {
    "tag": "Recap",
    "h": "Key takeaways",
    "b": "<ul><li>Radio waves pass through cold dust that blocks light.</li><li>Karl Jansky detected the Milky Way in radio in 1932.</li><li>Interferometry links dishes into one large telescope.</li><li>ALMA in Chile images planet-forming discs.</li></ul><p><b>Think about it:</b> (1) Why must ALMA sit at high altitude? (2) Why do linked dishes beat a single dish of the same total area?</p>",

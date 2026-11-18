@@ -49,6 +49,11 @@
    "b": "<p>India's first satellite <b>Aryabhata</b> was launched by a Soviet rocket on 19 April 1975 under the Intercosmos programme. On <b>3 April 1984</b>, Squadron Leader <b>Rakesh Sharma</b> flew on Soyuz T-11 and spent about eight days in orbit on Salyut 7, the first Indian in space. Asked how India looked from space, he replied 'Saare jahan se achha'. India has since built its own launchers and now its own crewed programme.</p>"
   },
   {
+   "tag": "Go deeper",
+   "h": "Average speed of the trip to the Moon",
+   "b": "<p>Apollo missions covered about 384,400 km to reach the Moon. The trip took about three days. Average speed tells you how fast the spacecraft moved overall, not at each moment. It is a simple division of distance by time.</p><p><b>Worked example.</b> Find the average speed of a 72 hour trip to the Moon.<br>Step 1: average speed = 384,400 km / 72 hours.<br>Step 2: 384,400 / 72 = 5,339 km per hour.<br>Step 3: divide by 3,600 seconds per hour: about 1.48 km per second.</p><p>Here v is the average speed, d the distance and t the time: v = d / t.</p><p><b>Exam trap:</b> average speed is not top speed. A spacecraft is fastest soon after the burn that sends it towards the Moon, and slower as it climbs away from Earth's pull.</p><p>Apollo 11 landed on 20 July 1969 at Tranquility Base. Neil Armstrong and Buzz Aldrin spent about two and a half hours on the surface, while Michael Collins orbited above in the command module.</p><p>The Apollo missions returned about 382 kilograms of Moon rock. Those samples are still studied today.</p>"
+  },
+  {
    "tag": "Recap",
    "h": "Key takeaways",
    "b": "<ul><li>Sputnik (1957) and Gagarin (1961) opened the space age.</li><li>Apollo 11 landed on 20 July 1969; six landings, twelve walkers, ending in 1972.</li><li>The Outer Space Treaty (1967) governs space activity.</li><li>Rakesh Sharma (1984) was India's first astronaut.</li></ul><p><b>Think about it:</b> (1) How did rivalry speed up technology? (2) Why was the Outer Space Treaty necessary?</p>",

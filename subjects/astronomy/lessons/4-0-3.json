@@ -49,6 +49,11 @@
    "b": "<p>India plans <b>Gaganyaan</b> (crewed low-orbit flights), the <b>Bharatiya Antariksh Station</b> (first module planned around 2028, full station by 2035), <b>Chandrayaan-4</b> sample return, a <b>Venus Orbiter Mission</b> (about 2028), and a crewed Moon landing by 2040. Private launchers such as Skyroot and Agnikul are building small rockets. Timelines for such missions often shift.</p>"
   },
   {
+   "tag": "Go deeper",
+   "h": "A Hohmann transfer to Mars takes about eight months",
+   "b": "<p>The cheapest way to reach Mars uses a half-ellipse, called a <b>Hohmann transfer</b>, that just touches the orbits of Earth and Mars. The trip takes half of that ellipse's period. Mars is about 1.524 AU from the Sun, so the calculation uses the average of the two distances.</p><p><b>Worked example.</b> Find the transfer time.<br>Step 1: average distance of the ellipse a = (1 + 1.524) / 2 = 1.262 AU.<br>Step 2: period T = a to the power 1.5 = 1.262 to the power 1.5 = 1.42 years.<br>Step 3: half of that is 0.71 years.<br>Step 4: 0.71 x 365 = 259 days, about 8.5 months.</p><p>Here a is the average distance in AU and T the full period in years: T = a to the power 1.5. The transfer time is half of T.</p><p><b>Exam trap:</b> the transfer time is one way only. A round trip needs a stay on Mars and a wait for the planets to line up, so a full mission lasts years.</p><p>Radiation shielding and long journeys are the biggest health problems for crews, so planning for Mars is as much about biology as engineering.</p>"
+  },
+  {
    "tag": "Recap",
    "h": "Key takeaways",
    "b": "<ul><li>Space stations keep humans in orbit; ISS retires around 2030.</li><li>Artemis and Chinese plans aim for the Moon; Mars sample return and crewed missions are far harder.</li><li>Icy-moon missions search for life.</li><li>India's plans: Gaganyaan, its own station by 2035, Moon landing by 2040.</li></ul><p><b>Think about it:</b> (1) Why is the Moon a stepping stone to Mars? (2) How should humanity handle space debris?</p>",

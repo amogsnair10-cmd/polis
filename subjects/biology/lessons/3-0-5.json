@@ -49,6 +49,11 @@
    "b": "<p>India's last smallpox case was in 1975, and the country was certified polio-free by WHO in 2014 after the Pulse Polio drive (1995). The Universal Immunisation Programme (1985) covers children and mothers; Mission Indradhanush (2014) reaches missed children. During COVID-19, Covaxin (Bharat Biotech with ICMR) and Covishield (Serum Institute) were used, and over two billion doses were given in India.</p>"
   },
   {
+   "tag": "Go deeper",
+   "h": "Herd immunity: a threshold sum",
+   "b": "<p>When enough people are immune, an infection cannot spread far. Protection then reaches people who cannot be vaccinated. This is called herd immunity.</p><p>The share needed depends on how many people one case infects in a population with no immunity. This number is called R0, the basic reproduction number.</p><div class=\"box\"><h4>Worked example</h4><p>Step 1: suppose one case infects 4 others on average (R0 = 4).<br>Step 2: the share who must be immune is 1 minus (1 divided by R0).<br>Step 3: 1 minus (1/4) = 1 minus 0.25 = 0.75.<br>Step 4: about 75 percent of people must be immune.</p></div><p>Here R0 is the average number of new infections from one case. The formula is threshold = 1 minus (1 / R0). The threshold rises as R0 rises.</p><p>Diseases with high R0, such as measles, need very high coverage. This is why measles outbreaks happen when vaccine uptake drops. These figures are estimates that vary by setting.</p><p>The rule is a guide. Real outbreaks depend on clustering, contact patterns and how well a vaccine works.</p><p>Vaccine designers have to match the germ. A flu vaccine changes most years because the flu virus changes its surface proteins.</p>"
+  },
+  {
    "tag": "Recap",
    "h": "Key takeaways and questions",
    "b": "<ul><li>Innate: fast, general. Adaptive: specific, memory.</li><li>B cells make antibodies; T cells coordinate and kill.</li><li>Vaccines train memory without disease.</li><li>HIV targets helper T cells.</li></ul><p><b>Think about it:</b></p><ol><li>Why do booster doses help?</li><li>Why does herd immunity protect a baby too young to be vaccinated?</li></ol>",

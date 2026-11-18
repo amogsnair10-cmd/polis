@@ -49,6 +49,11 @@
    "b": "<p>In Sanskrit and Hindi the Milky Way is <b>Akashganga</b>, the river of the sky, and it appears in many stories. India's <b>GMRT</b> maps the 21 cm hydrogen line to trace gas in spiral arms, and <b>AstroSat</b> studies star clusters across the galaxy in ultraviolet. The lunar nakshatras and the Saptarishi all lie in our local Milky Way neighbourhood.</p>"
   },
   {
+   "tag": "Go deeper",
+   "h": "The Sun's lap around the galactic centre",
+   "b": "<p>The Sun is not standing still. It moves round the centre of the Milky Way at about 230 km per second, about 8.2 thousand parsecs (roughly 26,000 light years) from the centre. One full lap takes a little over 200 million years, sometimes called a galactic year.</p><p><b>Worked example.</b> How long does one lap take?<br>Step 1: 1 kiloparsec = 3.09 x 10 to the power 19 metres, so 8.2 kpc = 2.53 x 10 to the power 20 m.<br>Step 2: circumference = 2 x pi x 2.53 x 10 to the power 20 = 1.59 x 10 to the power 21 m.<br>Step 3: time = 1.59 x 10 to the power 21 / 2.3 x 10 to the power 5 m/s = 6.9 x 10 to the power 15 s.<br>Step 4: 6.9 x 10 to the power 15 / 3.16 x 10 to the power 7 seconds per year = about 220 million years.</p><p>Here t is the time for one lap, C the circumference of the orbit and v the orbital speed: t = C / v.</p><p><b>Exam trap:</b> the galactic year is not the same as our solar year of 365 days. Each lap is about 220 million of our years.</p>"
+  },
+  {
    "tag": "Recap",
    "h": "Key takeaways",
    "b": "<ul><li>The Milky Way is a barred spiral galaxy of 100 to 400 billion stars, about 100,000 light-years across.</li><li>The Sun is 26,000 light-years from the centre and orbits in about 230 million years.</li><li>Sgr A*, about 4 million Suns, sits at the centre.</li><li>Rotation speeds point to a dark matter halo.</li></ul><p><b>Think about it:</b> (1) Why was it so hard to learn our galaxy's shape? (2) What would the sky look like if we lived near the galactic centre?</p>",

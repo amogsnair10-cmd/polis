@@ -49,6 +49,11 @@
    "b": "<p>India has a history in deep-underground particle physics: in 1965 TIFR's detectors in the <b>Kolar Gold Fields</b> mine, 2 km deep, recorded the first atmospheric neutrinos. A proposed <b>India-based Neutrino Observatory (INO)</b> in Tamil Nadu's Theni district has faced delays. Researchers at <b>IUCAA</b> and <b>TIFR</b> work on gravitational lensing and large-scale structure, and on simulations that include dark matter.</p>"
   },
   {
+   "tag": "Go deeper",
+   "h": "Rotation speeds and the missing mass, estimated",
+   "b": "<p>Stars at the edge of a spiral galaxy orbit about as fast as stars nearer the middle. If only visible matter pulled on them, the outer stars should slow down. They do not, so there must be extra mass we cannot see, called dark matter.</p><p><b>Worked example, a rough estimate.</b> Stars 20 kiloparsecs from the centre move at 220 km per second. How much mass lies inside that radius?<br>Step 1: r = 20 kpc = 6.2 x 10 to the power 20 m.<br>Step 2: M = v squared x r / G, with v = 2.2 x 10 to the power 5 m/s and G = 6.67 x 10 to the power minus 11.<br>Step 3: M = (4.8 x 10 to the power 10) x (6.2 x 10 to the power 20) / (6.67 x 10 to the power minus 11) = 4.5 x 10 to the power 41 kg.<br>Step 4: divide by 2 x 10 to the power 30 kg per solar mass: about 2 x 10 to the power 11 solar masses.</p><p>Here M is the mass inside radius r, v the orbital speed, r the radius in metres and G the gravitational constant: M = v squared x r / G.</p><p><b>Exam trap:</b> this is a rough estimate that assumes a circular orbit and a round mass. Real galaxy models are more careful, so quote the answer as approximate.</p>"
+  },
+  {
    "tag": "Recap",
    "h": "Key takeaways",
    "b": "<ul><li>Dark matter is about 27 percent of the universe and 85 percent of its matter.</li><li>Evidence: galaxy rotation curves, cluster speeds, lensing, CMB, structure growth.</li><li>It does not interact with light; its identity is unknown.</li><li>WIMPs, axions and modified gravity are candidate explanations.</li></ul><p><b>Think about it:</b> (1) Why do flat rotation curves need extra mass? (2) What kind of observation could rule out WIMPs?</p>",

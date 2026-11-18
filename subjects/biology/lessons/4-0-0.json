@@ -49,6 +49,11 @@
    "b": "<p>Waldemar Haffkine, working in Mumbai in 1897, developed an early plague vaccine and a cholera vaccine. S.N. De at Kolkata (1959) showed that cholera toxin causes the disease. Indian curd, idli and dosa depend on microbes. Biogas and biofertilisers (Rhizobium, Azotobacter, blue-green algae) support farmers. India's national action plan on antimicrobial resistance began in 2017.</p>"
   },
   {
+   "tag": "Go deeper",
+   "h": "Bacteria doubling: a worked count",
+   "b": "<p>Many bacteria split in two about every 20 minutes under good conditions. This doubling makes infections grow fast. A small number of cells can soon become a large number.</p><div class=\"box\"><h4>Worked example</h4><p>Step 1: one <i>E. coli</i> cell doubles every 20 minutes.<br>Step 2: in 3 hours there are 180 minutes, so 180 / 20 = 9 doublings.<br>Step 3: after 9 doublings the number is 2 x 2 x 2 x 2 x 2 x 2 x 2 x 2 x 2 = 512.<br>Step 4: one cell becomes 512 cells in 3 hours.</p></div><p>Here N is the number of cells, n is the number of doublings, and N = 2 to the power n. The 20 minutes is a typical figure, not a fixed one. Food, heat and the species all change it.</p><p>This growth is exponential. It looks slow at first, then speeds up. The immune system and antibiotics limit it, which is why an infection can take days to show.</p><p>Germs also differ in shape. Cocci are round, bacilli are rod-shaped and spirilla are spiral. Shape helps doctors identify some types under the microscope before lab tests are finished.</p>"
+  },
+  {
    "tag": "Recap",
    "h": "Key takeaways and questions",
    "b": "<ul><li>Bacteria are cells; viruses are not; fungi have chitin walls.</li><li>Viruses hijack host cells.</li><li>Antibiotics fight bacteria; misuse causes resistance.</li><li>Fleming found penicillin in 1928.</li></ul><p><b>Think about it:</b></p><ol><li>Why is a course of antibiotics usually completed?</li><li>Why is a virus harder to treat than bacteria?</li></ol>",

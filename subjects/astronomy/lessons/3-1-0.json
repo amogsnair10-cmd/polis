@@ -21,7 +21,7 @@
   {
    "tag": "Concept",
    "h": "Hubble-Lemaitre law",
-   "b": "<p>The relation is <b>v = H0 x d</b>: recession speed v equals distance d times the <b>Hubble constant</b> H0, now about 70 km/s per megaparsec. A galaxy 100 Mpc away recedes at about 7,000 km/s. Georges Lemaitre, a Belgian priest and physicist, predicted and estimated this in 1927 from Einstein's equations, two years before Hubble. In 2018 the IAU voted to call it the <b>Hubble-Lemaitre law</b>.</p>"
+   "b": "<p>The relation is <b>v = H0 x d</b>: recession speed v equals distance d times the <b>Hubble constant</b> H0, now about 70 km/s per megaparsec. A galaxy 100 Mpc away recedes at about 7,000 km/s. Georges Lemaitre, a Belgian priest and physicist, predicted and estimated this in 1927 from Einstein's equations, two years before Hubble. In 2018 the IAU voted to call it the <b>Hubble-Lemaitre law</b>.</p><p>Here v is the recession speed in km per second, H0 the Hubble constant in km per second per megaparsec and d the distance in megaparsecs.</p>"
   },
   {
    "tag": "Concept",
@@ -31,7 +31,7 @@
   {
    "tag": "Concept",
    "h": "Redshift z and the age",
-   "b": "<p>Redshift <b>z</b> measures the stretch: 1 + z is the factor by which the universe has expanded since the light left. A galaxy at z = 1 is seen when the universe was half its present size. Running the expansion backward, 1/H0 gives roughly <b>14 billion years</b>, close to the real age, 13.8 billion years.</p>"
+   "b": "<p>Redshift <b>z</b> measures the stretch: 1 + z is the factor by which the universe has expanded since the light left. A galaxy at z = 1 is seen when the universe was half its present size. Running the expansion backward, 1/H0 gives roughly <b>14 billion years</b>, close to the real age, 13.8 billion years.</p><p>Here z is the redshift, and 1 + z is the factor by which the universe has grown since the light left.</p>"
   },
   {
    "tag": "How we know",
@@ -47,6 +47,11 @@
    "tag": "Indian angle",
    "h": "Narlikar and rival ideas",
    "b": "<p><b>Jayant Narlikar</b> worked with Fred Hoyle on the steady-state and the Hoyle-Narlikar gravity theories, rivals to the Big Bang. The CMB evidence settled the debate in favour of the Big Bang, but the rival ideas pushed the field to test hard. <b>IUCAA</b> and <b>TIFR</b> astronomers analyse supernova and galaxy-survey data to measure expansion. The <b>uGMRT</b> maps redshifted hydrogen emission from distant galaxies.</p>"
+  },
+  {
+   "tag": "Go deeper",
+   "h": "Hubble's law: from speed to distance",
+   "b": "<p>Hubble's law says recession speed grows with distance. Once you know the Hubble constant, you can turn a galaxy's redshift speed into a distance. This is how astronomers map the expanding universe at large scales.</p><p><b>Worked example.</b> A galaxy recedes at 3,500 km per second. Use H0 = 70 km/s per megaparsec.<br>Step 1: d = v / H0.<br>Step 2: d = 3,500 / 70 = 50.<br>Step 3: the galaxy is about 50 megaparsecs away, roughly 160 million light years.</p><p>Here v is the recession speed in km per second, H0 the Hubble constant in km per second per megaparsec and d the distance in megaparsecs: v = H0 x d.</p><p><b>Exam trap:</b> the Hubble constant is not perfectly settled. Measurements from the early universe and from nearby galaxies disagree slightly, which is called the Hubble tension.</p><p>Vesto Slipher measured the redshifts of many spiral nebulae from the 1910s onward, long before Hubble. Most of the galaxies he measured were moving away from us. Hubble's distance measurements later tied those speeds to distance.</p><p>Hubble's own 1929 value of the constant was far too large, because his distance scale for galaxies was off. Later work corrected it.</p>"
   },
   {
    "tag": "Recap",

@@ -49,6 +49,11 @@
    "b": "<p>In Indian tradition Jupiter is <b>Brihaspati</b> (Guru) and Saturn is <b>Shani</b>. Brihaspati's roughly 12-year orbit (actually 11.86 years) is linked to the timing of the <b>Kumbh Mela</b> cycles in the panchang. Saturn's 29.5-year orbit is the basis of the 'Shani sade-sati' reckoning in traditional astrology. Indian astronomers like Aryabhata and Bhaskara II computed these orbital periods with remarkable accuracy.</p>"
   },
   {
+   "tag": "Go deeper",
+   "h": "Why Jupiter is a giant but has a low density",
+   "b": "<p>Density is mass divided by volume. Jupiter has about 318 times the mass of Earth, but its volume is about 1,320 times Earth's. So its average density is low, about 1.3 grams per cubic centimetre, roughly a quarter of Earth's 5.5. This is why giants are made mostly of hydrogen and helium, not rock.</p><p><b>Worked example.</b> Compare Jupiter with Earth.<br>Step 1: mass ratio = 318.<br>Step 2: volume ratio = 1,320.<br>Step 3: density ratio = 318 / 1,320 = 0.24.<br>Step 4: Earth's density 5.5 x 0.24 = about 1.3 grams per cubic centimetre.</p><p>Here rho is density in grams per cubic centimetre, M the mass and V the volume: rho = M / V. Saturn is even less dense, at about 0.7 grams per cubic centimetre, so it would float in a bath large enough to hold it.</p><p><b>Exam trap:</b> low density does not mean a planet is light in weight. Jupiter's gravity is still more than twice Earth's at its surface.</p><p>Gas giants also have strong magnetic fields and many moons, because their large gravity holds many small bodies in orbit. Size and composition go together.</p>"
+  },
+  {
    "tag": "Recap",
    "h": "Key takeaways",
    "b": "<ul><li>Jupiter and Saturn are mainly hydrogen and helium; Uranus and Neptune are ice giants.</li><li>Giants have rings, many moons and no solid surface.</li><li>The frost line explains why giants formed far out.</li><li>Neptune was predicted by mathematics before it was seen.</li></ul><p><b>Think about it:</b> (1) Why is Saturn less dense than water? (2) How does predicting Neptune from Uranus's wobble resemble finding exoplanets today?</p>",

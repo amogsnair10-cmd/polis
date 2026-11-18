@@ -49,6 +49,11 @@
    "b": "<p>The Yamuna in Delhi, the Ganga near Kanpur and the Adyar and Cooum in Chennai are standard examples. The NGT has monitored Ganga and Yamuna cleaning.</p><p>The Supreme Court’s <b>M.C. Mehta v Union of India</b> (Ganga tanneries) and the <b>Vellore Citizens</b> case (1996) established the precautionary principle and polluter pays.</p>"
   },
   {
+   "tag": "Go deeper",
+   "h": "BOD and why a river loses its oxygen",
+   "b": "<p>A river is healthy when it holds enough dissolved oxygen for fish and other life. Sewage and other organic waste feed microbes. The microbes use oxygen to break the waste down. If there is a lot of waste, they use up the oxygen faster than the river can replace it.</p><p><b>Worked example (figures are illustrative).</b> Think of a stretch of river:</p><ul><li>Start: dissolved oxygen (DO) is 8 mg per litre, and BOD is 2 mg per litre. The water is clean.</li><li>After a sewage outfall: BOD rises to 20 mg per litre.</li><li>Microbes now use most of the oxygen, so DO falls to about 2 mg per litre.</li><li>Fish that need more oxygen move away or die.</li></ul><div class=\"box\"><h4>BOD and COD are not the same</h4><p>BOD measures oxygen used by microbes to break down biodegradable matter. COD measures oxygen needed to oxidise all matter, including material that microbes cannot break down. So COD is always higher than BOD for the same water sample.</p></div><p>Exam trap: high BOD means low DO, not the other way round. Students often flip the link. The sentence to remember is that more waste means less oxygen.</p><p><b>How it is asked:</b> Prelims asks what BOD measures, or the link between BOD and DO. Mains asks why untreated sewage damages rivers like the Ganga and how river health can be measured.</p>"
+  },
+  {
    "tag": "Exam lens",
    "h": "How to answer",
    "b": "<p><b>Mains-style:</b> “Despite crores spent, Indian rivers remain polluted. Why? Suggest reforms.” Structure: causes (sewage gap, industry, agriculture); programmes (GAP, Namami Gange); failures (design, running costs, ecological flow, governance); way forward (decentralised treatment, reuse, river basin authorities).</p><p><b>Prelims tip:</b> BOD high means worse water. Fluoride limit 1.5 mg/L. Silence zone 100 m. Water Act 1974.</p>",

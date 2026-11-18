@@ -49,6 +49,11 @@
    "b": "<p>Indian scientists contributed to the debate and the data. <b>Jayant Narlikar</b> promoted alternatives, keeping the field honest. IUCAA scientists analyse CMB data from Planck. In 2022 the <b>SARAS 3</b> radio experiment of the <b>Raman Research Institute</b>, floated on lakes in Karnataka, tested a claimed signal of the first stars seen by the EDGES experiment in 2018 and found no evidence for it, a significant Indian result in early-universe cosmology.</p>"
   },
   {
+   "tag": "Go deeper",
+   "h": "Cooling light: the temperature of the early universe",
+   "b": "<p>The cosmic microwave background is light that the expansion has stretched. Because of this stretching, the background was hotter in the past by exactly the factor (1 plus z). Knowing today's temperature lets us work out the temperature at any earlier time.</p><p><b>Worked example.</b> Today the background is 2.725 kelvin. At recombination, when atoms first formed, the redshift was about 1,100. What was the temperature?<br>Step 1: 1 + z = 1,101.<br>Step 2: 2.725 x 1,101 = about 3,000 kelvin.<br>Step 3: at about 3,000 kelvin the gas glowed a warm orange-white, and light could then travel freely.</p><p>Here T0 is today's temperature and T the temperature at redshift z: T = T0 x (1 + z).</p><p><b>Exam trap:</b> \"the universe was hotter\" does not mean one hot spot in space. The whole of space was filled with hot gas.</p><p>The microwave background is the same in every direction to about one part in 100,000, apart from tiny ripples. Those ripples are the seeds of galaxies and clusters.</p><p>The first hint came in 1965, when Penzias and Wilson found a steady microwave hiss that did not go away after they cleaned out their antenna.</p>"
+  },
+  {
    "tag": "Recap",
    "h": "Key takeaways",
    "b": "<ul><li>The universe began hot and dense 13.8 billion years ago and has been expanding and cooling.</li><li>Nucleosynthesis made 75 percent hydrogen and 25 percent helium.</li><li>The CMB is light freed at 380,000 years, now at 2.725 K.</li><li>CMB ripples seeded galaxies and measure the universe's makeup.</li></ul><p><b>Think about it:</b> (1) Why is the CMB so uniform yet not perfectly so? (2) What would change if the universe had formed far more helium?</p>",

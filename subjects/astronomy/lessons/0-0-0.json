@@ -49,6 +49,11 @@
    "b": "<p>Indian astronomers divided the Moon's path into <b>27 nakshatras</b> (lunar mansions): about one for each night the Moon takes to cross the sky. They appear in the Vedic texts and are still used in the panchang.</p><p>The <b>Saptarishi</b> are the seven bright stars of Ursa Major. Their two end stars point toward Dhruva. <b>Mriga</b> (Orion) and <b>Lubdhaka</b> (Sirius) are named in Indian lore. Maharaja Sawai Jai Singh II built the stone observatories called <b>Jantar Mantar</b> (Delhi 1724, Jaipur and others) to measure star and Sun positions with huge masonry instruments.</p>"
   },
   {
+   "tag": "Go deeper",
+   "h": "Stars return early each night, and why we measure them in hours",
+   "b": "<p>Earth turns once in about 23 hours 56 minutes against the distant stars. This is the <b>sidereal day</b>. A solar day lasts 24 hours, because Earth must turn a little extra each day to face the Sun again while it moves round its orbit. The difference is about 4 minutes a day, so each night the same star rises 4 minutes earlier.</p><p><b>Worked example.</b> A star rises at 9 pm tonight. When does it rise 30 nights later?<br>Step 1: 4 minutes a night x 30 nights = 120 minutes.<br>Step 2: 120 minutes / 60 = 2 hours.<br>Step 3: 9 pm minus 2 hours = 7 pm.</p><p>Sky maps give stars a right ascension (like longitude, in hours) and a declination (like latitude, in degrees). One hour of right ascension is 15 degrees, because 24 hours x 15 = 360 degrees. A star at right ascension 5 h 30 min sits at 5.5 x 15 = 82.5 degrees from the zero point.</p><p><b>Exam trap:</b> do not mix up the sidereal day (23 h 56 min) with the solar day (24 hours).</p>"
+  },
+  {
    "tag": "Recap",
    "h": "Key takeaways",
    "b": "<ul><li>Constellations are 88 official sky regions; their stars are not physically linked.</li><li>The celestial sphere is a model: poles and equator are Earth's extended outward.</li><li>Polaris' altitude equals your latitude.</li><li>Right ascension and declination fix a star's address.</li><li>Precession shifts the pole star over about 26,000 years.</li></ul><p><b>Think about it:</b> (1) Why would an observer in Chennai see stars that a person in Srinagar never sees? (2) If the Sun were removed, would the constellations visibly change within your lifetime? Why?</p>",

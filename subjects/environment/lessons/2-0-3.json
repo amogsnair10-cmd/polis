@@ -49,6 +49,11 @@
    "b": "<ul><li>AQI: 2014; six bands; eight pollutants.</li><li>NCAP: 2019; 131 cities; 20-30 percent, later 40 percent.</li><li>BS-VI: 1 April 2020.</li><li>GRAP: four stages; run by CAQM.</li><li>CAQM: statutory body since 2021.</li></ul><p>Note also that PM2.5 are particles under 2.5 micrometres, which reach deep into the lungs and blood.</p>"
   },
   {
+   "tag": "Go deeper",
+   "h": "Reading an AQI number in a hurry",
+   "b": "<p>The Air Quality Index turns many pollutant readings into one number. A higher number means worse air. The index has six named groups. Good is 0 to 50, Satisfactory is 51 to 100, Moderate is 101 to 200, Poor is 201 to 300, Very Poor is 301 to 400 and Severe is 401 to 500.</p><p><b>Worked example.</b> Suppose a city reads 250 in the morning.</p><ul><li>250 falls between 201 and 300.</li><li>So the category is Poor.</li><li>People with heart or lung disease should cut outdoor exercise.</li></ul><p>The AQI itself is not a measurement of one gas. It is the highest sub-index among the pollutants measured, usually PM2.5 or PM10. This is a common trap. A city can have a high AQI because of one pollutant even when others are low.</p><div class=\"box\"><h4>Why the number can mislead</h4><p>An AQI is averaged over a time, usually 24 hours for most pollutants. It does not show how bad the air felt at noon. Read the category and the main pollutant together to understand the risk.</p></div><p>Exam trap: the AQI is not the same as the concentration of PM2.5. The first is a scaled index, and the second is a measured amount in micrograms per cubic metre.</p><p><b>How it is asked:</b> Prelims asks which AQI range is Poor or Severe, or what the AQI is made of. Mains asks why a single index helps public health warnings and what its limits are.</p>"
+  },
+  {
    "tag": "Exam lens",
    "h": "How to answer",
    "b": "<p><b>Prelims-style:</b> \"AQI includes which pollutants?\" \"BS-VI norms came into force in which year?\" (2020).</p><p><b>Mains-style:</b> \"Why is air pollution in Delhi-NCR a recurring crisis? Evaluate NCAP.\" Structure: sources; health costs; NCAP and GRAP; gaps (non-binding, funds); way forward (airshed approach, public transport, stubble alternatives).</p><p>Use a number: the WHO annual PM2.5 limit of 5 against India's 40 shows how big the gap is.</p>",

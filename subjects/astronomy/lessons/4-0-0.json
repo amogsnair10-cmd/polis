@@ -49,6 +49,11 @@
    "b": "<p>Tipu Sultan's Mysore army used iron-cased rockets against the British in the 1780s and 90s, an inspiration for Congreve's rockets. ISRO's story: <b>Vikram Sarabhai</b> founded INCOSPAR (1962); the first sounding rocket flew from <b>Thumba</b> on 21 November 1963; <b>SLV-3</b> put Rohini into orbit in July 1980 under <b>A.P.J. Abdul Kalam</b>. <b>PSLV</b> (first launch 1993) became a workhorse; <b>GSLV</b> flew with the indigenous cryogenic engine in January 2014; <b>LVM3</b> launched Chandrayaan-3.</p>"
   },
   {
+   "tag": "Go deeper",
+   "h": "The rocket equation: why fuel is most of the rocket",
+   "b": "<p>Rockets obey the Tsiolkovsky rocket equation. The speed a rocket can gain depends on how fast its exhaust leaves and on the ratio of its starting mass to its final mass. Most of a launch rocket is fuel, because the burnt fuel carries away the momentum.</p><p><b>Worked example.</b> Exhaust speed is 3 km per second. The starting mass is 10 times the final mass.<br>Step 1: ln(10) = 2.303.<br>Step 2: change in speed = 3 x 2.303 = 6.9 km per second.<br>Step 3: low Earth orbit needs about 7.8 km per second, so this one stage alone would fall short.</p><p>Here delta v is the change in speed, v_e the exhaust speed, m0 the starting mass and mf the final mass: delta v = v_e x ln(m0 / mf), where ln is the natural logarithm.</p><p><b>Exam trap:</b> rockets do not push against the air. They work in space too, because the exhaust pushes the rocket forward.</p><p>Staging helps: dropping empty tanks lowers the mass a rocket must push, so each later stage works harder. Real rockets use several stages for this reason.</p>"
+  },
+  {
    "tag": "Recap",
    "h": "Key takeaways",
    "b": "<ul><li>Rockets work by action and reaction; staging beats the rocket equation.</li><li>Orbit is free fall around Earth at about 7.8 km/s in low orbit.</li><li>Geostationary orbit is 35,786 km up with a 24 hour period.</li><li>Gravity assists and Hohmann transfers save fuel.</li></ul><p><b>Think about it:</b> (1) Why do rockets launch eastward when they can? (2) Why does a satellite in a higher orbit move slower?</p>",

@@ -54,6 +54,11 @@
    "b": "<p>Chandrasekhar was born in Lahore (1910), nephew of C.V. Raman, and studied at Presidency College, Madras. On the ship to England in 1930 he worked out the mass limit of white dwarfs. He spent his career at the University of Chicago; NASA's <b>Chandra X-ray Observatory</b> (1999) is named for him. In India, AstroSat studies supernova remnants in X-rays.</p>"
   },
   {
+   "tag": "Go deeper",
+   "h": "The 1.4 solar mass limit, worked out",
+   "b": "<p>A white dwarf is held up by electron pressure, not by heat from fusion. Subrahmanyan Chandrasekhar showed in 1930 that this support fails above about 1.4 solar masses. Above that limit a white dwarf cannot stay stable.</p><p><b>Worked example, density.</b> A white dwarf has 0.6 solar masses and is squeezed to Earth's size. How dense is it?<br>Step 1: 0.6 x 1.99 x 10 to the power 30 kg = 1.19 x 10 to the power 30 kg.<br>Step 2: Earth's volume = 4/3 x pi x (6.37 x 10 to the power 6) cubed = 1.08 x 10 to the power 21 cubic metres.<br>Step 3: density = 1.19 x 10 to the power 30 / 1.08 x 10 to the power 21 = 1.1 x 10 to the power 9 kg per cubic metre.<br>Step 4: that is about 1.1 million grams per cubic centimetre, about 200,000 times Earth's average of 5.5.</p><p>Here rho is density in kilograms per cubic metre, M the mass and V the volume: rho = M / V.</p><p><b>Exam trap:</b> the 1.4 solar mass limit is for white dwarfs. Neutron stars have their own, higher limit, which is uncertain and quoted only as roughly 2 to 3 solar masses.</p>"
+  },
+  {
    "tag": "Recap",
    "h": "Key takeaways",
    "b": "<ul><li>Sun-like stars end as white dwarfs; stars over about 8 Suns explode.</li><li>The Chandrasekhar limit, 1.4 Suns, caps a white dwarf's mass.</li><li>Type Ia supernovae are standard candles; Type II create neutron stars or black holes.</li><li>Supernovae spread heavy elements that build planets and life.</li></ul><p><b>Think about it:</b> (1) Why are Type Ia explosions so similar? (2) What does 'we are star dust' mean in physics terms?</p>",

@@ -54,6 +54,11 @@
    "b": "<p><b>Aryabhata</b> (499 CE) stated that Earth rotates on its axis. The Kerala school's <b>Nilakantha Somayaji</b> (<i>Tantrasamgraha</i>, 1500 CE) proposed that Mercury, Venus, Mars, Jupiter and Saturn orbit the Sun, which then goes around Earth, a model close to Tycho's, decades before Tycho. <b>Madhava</b> (c. 1350-1425) found infinite series for sine and pi, tools useful for calculating planetary positions.</p>"
   },
   {
+   "tag": "Go deeper",
+   "h": "Kepler's rule checked on Jupiter",
+   "b": "<p>Kepler's third law works for any body that orbits another, not just the planets. Galileo's telescope in 1610 showed four moons around Jupiter. Kepler's rule can test any such orbit, provided you know the average distance from the body it circles.</p><p><b>Worked example.</b> Jupiter is about 5.2 AU from the Sun. How long is its year?<br>Step 1: 5.2 x 5.2 x 5.2 = 140.6.<br>Step 2: square root of 140.6 = about 11.86.<br>Step 3: Jupiter's year is about 11.9 Earth years, which matches observation.</p><p>Here T is the period in years and a the average distance from the Sun in AU, with T x T = a x a x a.</p><p>A sharper distinction: Ptolemy and Copernicus both used circles. Kepler's ellipses fit the data better. His second law says a line from the Sun to a planet sweeps equal areas in equal times, so planets speed up when they are near the Sun.</p><p><b>Exam trap:</b> Kepler's first law says orbits are ellipses with the Sun at one focus, not at the centre.</p><p>Galileo's moons of Jupiter also showed that not everything orbits the Earth, which was a strong blow to the Earth-centred model.</p>"
+  },
+  {
    "tag": "Recap",
    "h": "Key takeaways",
    "b": "<ul><li>Ptolemy's Earth-centred model predicted well but grew complex.</li><li>Copernicus (1543) made retrograde motion natural with a Sun-centred view.</li><li>Kepler: ellipses, equal areas, T squared to a cubed.</li><li>Galileo's telescope gave decisive evidence; Newton explained it all with gravity.</li></ul><p><b>Think about it:</b> (1) Why did a simpler model not win immediately? (2) What kind of observation would show that Earth really moves?</p>",

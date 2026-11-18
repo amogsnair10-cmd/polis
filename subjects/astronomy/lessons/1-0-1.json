@@ -49,6 +49,11 @@
    "b": "<p>ISRO's <b>Mars Orbiter Mission (Mangalyaan)</b> launched on PSLV on 5 November 2013 and entered Mars orbit on <b>24 September 2014</b>, making India the first country to reach Mars orbit on its first attempt, at a cost near Rs 450 crore. Its Mars Colour Camera imaged the whole planet. It worked for about eight years. India has approved a <b>Venus Orbiter Mission (Shukrayaan)</b>, planned around 2028.</p>"
   },
   {
+   "tag": "Go deeper",
+   "h": "Escape speed: Earth and Mars compared",
+   "b": "<p>To leave a planet for good you need an <b>escape speed</b>. It depends on the planet's mass and radius. Heavier and more compact planets hold on more tightly, and that decides which gases a planet can keep for billions of years.</p><p><b>Worked example, Earth.</b> G times Earth's mass is about 3.99 x 10 to the power 14, and Earth's radius is 6.37 x 10 to the power 6 metres.<br>Step 1: 2 x 3.99 x 10 to the power 14 = 7.98 x 10 to the power 14.<br>Step 2: divide by 6.37 x 10 to the power 6: 1.25 x 10 to the power 8.<br>Step 3: take the square root: about 11,200 metres per second, or 11.2 km per second.</p><p><b>Worked example, Mars.</b> G times Mars's mass is about 4.28 x 10 to the power 13, and its radius is 3.39 x 10 to the power 6 metres. The same steps give about 5.0 km per second, less than half of Earth's.</p><p>Here v is the escape speed in metres per second, G the gravitational constant, M the planet's mass in kilograms and R its radius in metres: v = square root of (2 x G x M / R).</p><p><b>Exam trap:</b> escape speed does not depend on the mass of the object leaving. A rocket and a feather need the same speed to leave, ignoring air.</p>"
+  },
+  {
    "tag": "Recap",
    "h": "Key takeaways",
    "b": "<ul><li>Terrestrial planets are small, rocky, with metal cores.</li><li>Venus is the hottest, from a runaway greenhouse effect.</li><li>Earth's life-friendly traits: water, magnetic field, tectonics, stable tilt.</li><li>Mars once had water but lost its air and field.</li></ul><p><b>Think about it:</b> (1) What does Venus warn us about greenhouse gases? (2) Why might small planets lose their atmospheres sooner?</p>",

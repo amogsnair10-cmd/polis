@@ -54,6 +54,11 @@
    "b": "<p>In 2018 the <b>PARAS</b> spectrograph at PRL's Mount Abu observatory helped confirm <b>EPIC 211945201 b</b> (K2-236 b), a planet about 27 times Earth's mass, 600 light-years away: the first exoplanet discovered with an Indian telescope. Indian scientists work on JWST data analysis, and ISRO's AstroSat and future missions add to the planetary and biosignature search. India's Mangalyaan, Chandrayaan and the planned Venus mission also probe habitability in our own system.</p>"
   },
   {
+   "tag": "Go deeper",
+   "h": "How big a shadow a planet casts: the transit depth",
+   "b": "<p>When a planet crosses its star, it blocks some light. The dip in brightness is the <b>transit depth</b>. It depends only on the ratio of the planet's size to the star's size. Big planets around small stars give the largest dips.</p><p><b>Worked example, Jupiter and the Sun.</b> Jupiter's radius is about 71,500 km and the Sun's about 695,700 km.<br>Step 1: ratio of radii = 71,500 / 695,700 = 0.103.<br>Step 2: square it: 0.103 x 0.103 = 0.0106.<br>Step 3: the dip is about 1 percent.</p><p><b>Worked example, Earth.</b> Earth's radius is about 6,370 km. The ratio is 6,370 / 695,700 = 0.00916. Squared, that is 0.000084, or about 0.008 percent. This tiny dip is why Earth-sized transits are hard to detect.</p><p>Here depth is the fractional drop in brightness, Rp the planet's radius and Rs the star's radius: depth = (Rp / Rs) squared.</p><p><b>Exam trap:</b> a transit shows the planet's size, not its mass. Mass needs a separate measurement, such as the wobble method.</p><p>The wobble method and transits are the two main methods. Combining them gives both the size and the mass, so you get the planet's density, which tells you whether it is rocky or gaseous.</p>"
+  },
+  {
    "tag": "Recap",
    "h": "Key takeaways",
    "b": "<ul><li>Over 6,000 exoplanets are confirmed (as of 2025); planets are common.</li><li>Main methods: transit and radial velocity; also imaging and microlensing.</li><li>Habitable zone means liquid water is possible, not guaranteed.</li><li>JWST reads atmospheres for biosignatures; no life has been confirmed.</li></ul><p><b>Think about it:</b> (1) Why are transits only seen for some planets? (2) What would make a biosignature convincing rather than a false alarm?</p>",

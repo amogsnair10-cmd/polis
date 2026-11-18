@@ -49,6 +49,11 @@
    "b": "<p>Indian astronomy tracked <b>Surya, Chandra and five planets</b> (grahas), with Rahu and Ketu as the two lunar nodes. The Hindu <b>tithi</b> is one thirtieth of the lunar month, based on Moon-Sun angle.</p><p><b>Aryabhata</b> (born 476 CE, Aryabhatiya, 499 CE) proposed that Earth rotates, so the stars only seem to circle us. <b>Brahmagupta</b> (628 CE) and <b>Bhaskara II</b> (1150 CE) gave calculation methods for planetary positions still used for the panchang.</p>"
   },
   {
+   "tag": "Go deeper",
+   "h": "Kepler's third law: how long a planet takes to orbit",
+   "b": "<p>Planets do not move at a fixed speed. Johannes Kepler found a simple rule: the square of the orbital period equals the cube of the average distance from the Sun. Measure time in years and distance in astronomical units (AU, the Earth-Sun distance), and the rule needs no extra constants.</p><p><b>Worked example.</b> Mars is about 1.52 AU from the Sun. How long is its year?<br>Step 1: 1.52 x 1.52 x 1.52 = 3.51.<br>Step 2: square root of 3.51 = about 1.87.<br>Step 3: Mars takes about 1.87 Earth years, or about 687 days.</p><p>Here T is the orbital period in years and a the average distance from the Sun in AU, with T x T = a x a x a. In words: period squared equals distance cubed.</p><p>The Sun also seems to move against the stars by about 1 degree a day (360 degrees divided by 365 days). <b>Exam trap:</b> Kepler's rule uses the average distance, not the closest or farthest distance.</p><p>The same rule works for every planet, so one measured period gives you the distance, and the reverse.</p>"
+  },
+  {
    "tag": "Recap",
    "h": "Key takeaways",
    "b": "<ul><li>Sun, Moon and five planets move against the fixed stars along the ecliptic.</li><li>Moon phases are viewing geometry; the cycle is 29.5 days.</li><li>Retrograde motion is Earth overtaking an outer planet.</li><li>Inner planets stay near the Sun; outer ones roam the whole ecliptic.</li></ul><p><b>Think about it:</b> (1) Why can Venus never be seen at midnight? (2) If retrograde were real motion of Mars, what else would we see?</p>",

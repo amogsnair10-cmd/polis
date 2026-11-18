@@ -49,6 +49,11 @@
    "b": "<p>The Indian Institute of Astrophysics runs the <b>Himalayan Chandra Telescope</b> (2.01 m) at Hanle in Ladakh, where high, dry, dark skies give sharp images. Amateur clubs across India share astrophotos through national astronomy societies, and many students now start with a basic camera and a tripod.</p>"
   },
   {
+   "tag": "Go deeper",
+   "h": "Why a 20 second exposure can leave a trail",
+   "b": "<p>The sky turns about 15 degrees an hour, or 15 arcseconds a second. A long exposure lets the stars smear into short lines. A short exposure keeps the points sharp but collects less light, so every photographer balances the two.</p><p><b>Worked example.</b> How long a trail does a star leave in a 20 second exposure?<br>Step 1: 15 arcseconds a second x 20 seconds = 300 arcseconds.<br>Step 2: 300 / 60 = 5 arcminutes.<br>Step 3: the Moon is about 30 arcminutes wide, so the trail is about one sixth of the Moon's width.</p><p>Stacking is the second trick. Averaging 100 frames cuts random noise by the square root of 100, which is 10 times. The stars add up while the noise partly cancels.</p><p><b>Exam trap:</b> stacking does not fix blur. Each frame must be sharp first, or the average will be soft.</p><p>Focus is the other common problem. On a dark sky autofocus often fails, so focus on a bright star at high magnification and then lock the focus ring with tape. Many blurry photos were simply out of focus.</p>"
+  },
+  {
    "tag": "Recap",
    "h": "Key takeaways",
    "b": "<ul><li>Long exposures collect light the eye cannot.</li><li>The 500 rule limits trails for untracked shots.</li><li>Stacking many frames cuts random noise.</li><li>Deep-sky colours are often assigned from filtered data.</li></ul><p><b>Think about it:</b> (1) Why does tracking matter more for longer lenses? (2) What is lost if you shoot in a compressed format?</p>",

@@ -49,6 +49,11 @@
    "b": "<p>In 2020 the government opened the sector with <b>IN-SPACe</b> to authorise private players, and <b>NSIL</b> commercialises ISRO technology. <b>Skyroot</b>'s Vikram-S (November 2022) was India's first privately built rocket to fly, and <b>Agnikul</b> launched from its own private pad in 2024.</p>"
   },
   {
+   "tag": "Go deeper",
+   "h": "The cost and the light delay of ISRO missions",
+   "b": "<p>ISRO is known for missions that cost less than many rival missions. A cost is easier to picture when it is turned into rupees you can count. The Mars Orbiter Mission (Mangalyaan) is widely reported to have cost about Rs 450 crore. Cost figures depend on scope, so quote them as approximate.</p><p><b>Worked example, cost.</b> How many rupees is Rs 450 crore?<br>Step 1: 1 crore = 10,000,000 rupees.<br>Step 2: 450 x 10,000,000 = 4,500,000,000 rupees.<br>Step 3: that is 4.5 billion rupees.</p><p><b>Worked example, light delay.</b> Aditya-L1 sits about 1.5 million km from Earth. Light covers about 300,000 km per second.<br>Step 1: time = distance / speed = 1,500,000 / 300,000.<br>Step 2: = 5 seconds.<br>Step 3: a command sent from Earth takes about 5 seconds to arrive.</p><p>Here t is the one-way time, d the distance in km and c the speed of light in km per second: t = d / c.</p><p><b>Exam trap:</b> cheap does not mean low quality. Compare missions by what they achieve, not by price alone.</p><p>Chandrayaan-3 landed near the Moon's south pole in August 2023, making India the fourth country to soft-land on the Moon.</p>"
+  },
+  {
    "tag": "Recap",
    "h": "Key takeaways",
    "b": "<ul><li>ISRO began 1962 to 1969 and launched Aryabhata in 1975.</li><li>Services: INSAT, IRS, NavIC; workhorse PSLV; heavy lifter LVM3.</li><li>Missions: Chandrayaan-3 (2023, south pole), Mangalyaan (2014), Aditya-L1 (2023), AstroSat (2015).</li><li>Next: Gaganyaan, docking, a space station, private industry.</li></ul><p><b>Think about it:</b> (1) Why does a south-pole landing matter? (2) How can private firms help ISRO?</p>",

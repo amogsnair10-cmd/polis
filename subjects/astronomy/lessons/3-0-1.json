@@ -49,6 +49,11 @@
    "b": "<p>The <b>Inter-University Centre for Astronomy and Astrophysics (IUCAA)</b> in Pune, founded in 1988 by <b>Jayant Narlikar</b>, is a hub of galaxy research. In 2017 an IUCAA-led team (with Joydeep Bagchi) announced the <b>Saraswati Supercluster</b>, a giant structure of over 40 galaxy clusters, about 600 million light-years across and about 4 billion light-years away. The <b>uGMRT</b> and <b>AstroSat</b> study galaxy evolution; the UVIT detected the ultraviolet light of one of the most distant galaxies, AUDFs01, in 2021.</p>"
   },
   {
+   "tag": "Go deeper",
+   "h": "Light travel: looking back in time",
+   "b": "<p>Light takes time to reach us, so a distant galaxy is seen as it was when its light left. The farther the galaxy, the further back in time the image shows. This is one of the most important ideas in cosmology, and the arithmetic is simple.</p><p><b>Worked example.</b> The Andromeda galaxy is about 2.5 million light years away. When did the light we see now leave it?<br>Step 1: a light year is the distance light covers in one year.<br>Step 2: so light from 2.5 million light years away took 2.5 million years.<br>Step 3: we see Andromeda as it looked about 2.5 million years ago, when early human ancestors were living.</p><p>Here t is the travel time in years and d the distance in light years: t = d, because a light year is the distance light travels in one year.</p><p><b>Exam trap:</b> the galaxy has moved since that light left. We see its past position, not where it is today.</p><p>Galaxies come in three broad types: spirals, ellipticals and irregulars. Spirals often still form stars, while ellipticals hold mostly older stars.</p>"
+  },
+  {
    "tag": "Recap",
    "h": "Key takeaways",
    "b": "<ul><li>Galaxies are spiral, elliptical or irregular, containing millions to trillions of stars.</li><li>They gather in groups, clusters and superclusters.</li><li>Large-scale structure is a cosmic web of filaments around voids.</li><li>Mergers and central black holes drive galaxy evolution.</li></ul><p><b>Think about it:</b> (1) Why would computer models need dark matter to make the web? (2) What does seeing a distant galaxy tell us about the past?</p>",

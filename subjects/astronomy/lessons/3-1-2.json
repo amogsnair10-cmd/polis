@@ -49,6 +49,11 @@
    "b": "<p><b>Thanu Padmanabhan</b> of IUCAA (1957 to 2021) wrote widely on the cosmological constant and gravity as an emergent phenomenon. <b>Tarun Deep Saini</b> and others in India studied how to detect dark energy's evolution. India also contributes to Euclid and Rubin analyses, and <b>Chandrasekhar's limit</b> underlies why Type Ia supernovae are standard candles.</p>"
   },
   {
+   "tag": "Go deeper",
+   "h": "The energy budget of today's universe",
+   "b": "<p>Astronomers split the universe's energy budget into shares. Today about 69 percent is dark energy, about 31 percent is matter (including dark matter), and ordinary matter is only about 5 percent. These shares come mainly from measurements of the cosmic microwave background by the Planck satellite.</p><p><b>Worked example.</b> Imagine the total energy budget is 100 units.<br>Step 1: dark energy = 69 units.<br>Step 2: all matter = 31 units.<br>Step 3: ordinary matter = 5 units, so dark matter = 31 minus 5 = 26 units.<br>Step 4: most of the budget is not the kind of stuff we can see.</p><p>Here Omega is the share of the total: the dark energy share plus the matter share equals 1, since 0.69 + 0.31 = 1.</p><p><b>Exam trap:</b> dark energy is not a kind of particle, unlike dark matter. Its nature is still unknown; the cosmological constant is only the simplest model.</p><p>Supernova distances come from their known brightness. The 1998 result came from distant Type Ia supernovae appearing fainter than expected.</p><p>Dark energy is most of the energy in the universe today, but it was a tiny part of the budget in the early universe.</p>"
+  },
+  {
    "tag": "Recap",
    "h": "Key takeaways",
    "b": "<ul><li>Distant supernovae revealed in 1998 that expansion is accelerating.</li><li>Dark energy, about 68 percent of the universe, may be Einstein's cosmological constant.</li><li>The most likely fate is an eternal, cold, empty Big Freeze.</li><li>Newer data, such as DESI, may test whether dark energy changes.</li></ul><p><b>Think about it:</b> (1) Why did a fainter supernova mean faster expansion? (2) How would you tell a constant from a changing dark energy?</p>",

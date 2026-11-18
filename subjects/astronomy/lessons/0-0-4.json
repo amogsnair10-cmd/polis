@@ -49,6 +49,11 @@
    "b": "<p>In Indian tradition the fixed pole star is <b>Dhruva</b>, and the seven sages are the <b>Saptarishi</b>, the stars of the Big Dipper. Indian astronomy also divided the Moon's path into 27 <b>nakshatras</b>, lunar mansions that were used to track time and the Moon's position. You can still find these from a dark terrace.</p>"
   },
   {
+   "tag": "Go deeper",
+   "h": "Why a difference of 5 magnitudes means 100 times brighter",
+   "b": "<p>Astronomers measure star brightness in <b>magnitudes</b>. The scale runs backwards: a smaller number means a brighter star. Sirius is about magnitude -1.5, and the faintest stars the naked eye can see on a dark night are about magnitude 6.</p><p>The rule is that 5 magnitudes is exactly a brightness ratio of 100. So each magnitude step is a factor of about 2.512.</p><p><b>Worked example.</b> How many times brighter is a magnitude 1 star than a magnitude 6 star?<br>Step 1: the difference is 6 minus 1 = 5 magnitudes.<br>Step 2: 5 magnitudes = a factor of 100.<br>Step 3: the magnitude 1 star is 100 times brighter.</p><p>Here B1 and B2 are the two brightnesses and m1 and m2 their magnitudes: B1 / B2 = 100 to the power of (m2 minus m1) divided by 5.</p><p><b>Exam trap:</b> a magnitude 1 star is not \"one magnitude\" brighter than a magnitude 2 star by a small amount. Each step is a factor of about 2.5.</p><p>Your eye works best when you look at faint stars from the side, because the central part of the retina has few rod cells. That is why a faint star can vanish when you look straight at it.</p>"
+  },
+  {
    "tag": "Recap",
    "h": "Key takeaways",
    "b": "<ul><li>Dark adaptation takes 20 to 30 minutes; use red light.</li><li>Averted vision helps you see faint objects.</li><li>Pointer stars lead you to Polaris.</li><li>Planets do not twinkle; stars do.</li></ul><p><b>Think about it:</b> (1) Why does a bright city street hide the Milky Way? (2) Why is Polaris a useful reference only from the northern sky?</p>",

@@ -49,6 +49,11 @@
    "b": "<p><b>Kodaikanal Solar Observatory</b> (1899) has kept a continuous record of the Sun for over 120 years. There <b>John Evershed</b> found in 1909 that gas flows outward in sunspots, the <b>Evershed effect</b>. ISRO's <b>Aditya-L1</b> launched on 2 September 2023 and reached its halo orbit around the Sun-Earth L1 point, about 1.5 million km away, on 6 January 2024, to study the corona, flares and CMEs with seven instruments including VELC and SUIT.</p>"
   },
   {
+   "tag": "Go deeper",
+   "h": "The inverse square law: why sunlight thins out with distance",
+   "b": "<p>Sunlight spreads over a sphere that grows with the square of the distance. Double the distance and the same power covers four times the area, so each square metre gets a quarter as much light. This is the <b>inverse square law</b>.</p><p><b>Worked example.</b> The Sun's power output is about 3.83 x 10 to the power 26 watts. Earth is about 1.496 x 10 to the power 11 metres away. How much sunlight reaches each square metre just outside our atmosphere?<br>Step 1: sphere area = 4 x pi x d squared.<br>Step 2: d squared = (1.496 x 10 to the power 11) squared = 2.238 x 10 to the power 22. Times 4 pi (12.57) gives 2.81 x 10 to the power 23 square metres.<br>Step 3: 3.83 x 10 to the power 26 / 2.81 x 10 to the power 23 = about 1,360 watts per square metre.</p><p>Here F is the power per square metre, L the Sun's power output in watts and d the distance in metres: F = L / (4 x pi x d squared).</p><p><b>Exam trap:</b> the rule applies to light from a point-like source. A bulb in a room follows it too, which is why moving a lamp a little away dims it so much.</p>"
+  },
+  {
    "tag": "Recap",
    "h": "Key takeaways",
    "b": "<ul><li>The Sun is a G-type star: 15 million K core, 5,800 K surface, hotter corona.</li><li>Sunspots follow an 11-year cycle driven by magnetism.</li><li>Flares and CMEs affect space weather on Earth.</li><li>It will become a red giant in about 5 billion years.</li></ul><p><b>Think about it:</b> (1) Why is Aditya-L1 placed at L1 rather than in Earth orbit? (2) What could happen to a modern city after a Carrington-size storm?</p>",

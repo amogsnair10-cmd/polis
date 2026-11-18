@@ -59,6 +59,11 @@
    "b": "<p>Rawls's ideas fit well with India's constitutional vision.</p><ul><li>The Preamble promises <b>justice, social, economic and political</b>, before liberty and equality.</li><li>Fair equality of opportunity mirrors <b>Article 16</b>. The difference principle echoes the reasoning behind <b>Articles 15(4), 16(4)</b> and the <b>Directive Principles</b>, especially <b>Articles 38 and 39</b>.</li><li>In <b>N.M. Thomas</b> (1975), the Supreme Court read reservation as part of equality, not an exception to it. This is a Rawlsian move.</li><li>The <b>Right to Education Act</b> (2009) reserves 25% of seats in private schools for disadvantaged children. That is fair equality of opportunity in action.</li></ul><p>Some judges have cited Rawls directly in judgments on equality and reservation.</p>"
   },
   {
+   "tag": "Go deeper",
+   "h": "A worked example of the difference principle",
+   "b": "<p>The difference principle sounds abstract. Numbers make it clearer. Imagine two societies. Each number is the yearly income of the poorest group.</p>\n<ul><li><b>Society A:</b> everyone earns 10. It is perfectly equal.</li><li><b>Society B:</b> the richest earn 100, but the poorest earn 12.</li><li>Step 1: Rawls's maximin rule says choose the option where the worst-off person does best.</li><li>Step 2: The worst-off in A get 10. The worst-off in B get 12.</li><li>Step 3: 12 is more than 10, so Society B is chosen.</li></ul>\n<p>The lesson: Rawls allows inequality if it raises the position of the least advantaged. He does not demand equal pay. Society B wins only if the gap helps the poorest, for example by encouraging skills and enterprise that also reach them.</p>\n<p>Why would someone behind the veil of ignorance choose maximin? Because they do not know whether they will be the poorest. Risk-aversion makes the safest floor attractive.</p>\n<p>Common exam trap: saying the difference principle means \"equal income for everyone\". It does not. Equality is the baseline, and inequality needs a reason that benefits the worst off.</p>\n<p><b>How it is asked.</b> Prelims: identify the difference principle or the maximin rule in a short statement. Mains: \"The difference principle does not demand equality.\" Examine this claim with reference to Rawls.</p>"
+  },
+  {
    "tag": "Exam lens",
    "cls": "exam",
    "h": "How UPSC asks this",

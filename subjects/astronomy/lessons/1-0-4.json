@@ -49,6 +49,11 @@
    "b": "<p>The <b>Physical Research Laboratory (PRL)</b> in Ahmedabad, founded in 1947 by <b>Vikram Sarabhai</b> with K.R. Ramanathan, studies meteorites, isotopes and planetary science, including the PARAS spectrograph that found an exoplanet in 2018. <b>Jayant Narlikar</b> founded IUCAA, Pune, in 1988 to advance research on how cosmic structures form. Chandrayaan lunar data help test impact history, since the Moon preserves the early bombardment.</p>"
   },
   {
+   "tag": "Go deeper",
+   "h": "Why a shrinking cloud spins faster",
+   "b": "<p>A rotating cloud that collapses spins faster. This is conservation of <b>angular momentum</b>: the amount of spin stays the same, but the mass moves closer to the centre. It is the same reason a skater spins faster when the arms come in.</p><p><b>Worked example.</b> A spinning cloud shrinks to one tenth of its radius, and its mass stays the same.<br>Step 1: for fixed mass, spin rate goes up with the square of the shrink factor.<br>Step 2: shrink factor = 10, so 10 squared = 100.<br>Step 3: the cloud spins 100 times faster.<br>Step 4: a spin that took 24 hours now takes about 14 minutes.</p><p>Here omega is the spin rate and R the radius of the cloud: for fixed mass, omega is proportional to 1 / R squared.</p><p><b>Exam trap:</b> this is why the planets orbit in nearly one plane. The spinning disc is a natural result of the collapse, not a coincidence.</p><p>Meteorites include some of the oldest solid material we can date, at about 4.56 billion years. Ages from these rocks set the timeline for the formation of the Solar System.</p>"
+  },
+  {
    "tag": "Recap",
    "h": "Key takeaways",
    "b": "<ul><li>The Solar System formed about 4.6 billion years ago from a collapsing cloud.</li><li>Spin flattened it into a disc, explaining flat, same-direction orbits.</li><li>The frost line separates rocky and giant planets.</li><li>Meteorite dating and ALMA images support the model; migration adds the messy details.</li></ul><p><b>Think about it:</b> (1) Why do all planets orbit the same way? (2) What would you expect to find around a very young star?</p>",
