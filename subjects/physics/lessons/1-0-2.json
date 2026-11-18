@@ -49,6 +49,11 @@
    "b": "<p>Satyendra Nath Bose's 1924 paper from Dhaka showed how to count the microstates of light particles correctly; Einstein translated and promoted it. The result, <b>Bose-Einstein statistics</b>, led to the idea of the boson, named after him, and to the Bose-Einstein condensate, first made in a lab in 1995.</p><p>Meghnad Saha used thermodynamics and statistics in 1920 to explain how atoms ionise in hot stars. The Saha equation lets us read the temperature of distant stars from their light.</p>"
   },
   {
+   "tag": "Go deeper",
+   "h": "Melting ice and the entropy count",
+   "b": "<p>Entropy can be counted exactly in one simple case: ice melting at its melting point. Heat must flow in, but the temperature stays at 273 K until all the ice has melted. The entropy gained is the heat divided by the temperature, so change in S = Q / T.</p><p>The heat needed to melt ice is called latent heat. For ice it is about 334,000 joules per kilogram. This heat does not raise the temperature. It breaks the bonds that hold the ice crystal in place. The water formed has far more ways to arrange its molecules, so its entropy is higher.</p><p>Trap: the entropy of the water rises, but the total entropy of everything rises too. A freezer makes ice, which lowers the entropy inside, by pumping heat out into the warm room. The room gains more entropy than the ice loses.</p><div class=\"box\"><h4>Worked example: 1 kg of ice melting</h4><p>Given: mass m = 1 kg of ice at 0 degrees Celsius (273 K)<br>Step 1: heat needed Q = m x latent heat = 1 x 334,000 J<br>Step 2: the temperature stays at T = 273 K while it melts<br>Step 3: entropy change = Q / T = 334,000 / 273<br>Step 4: entropy change = 1,223 J/K<br>Answer: about 1,220 J/K gained by the melting ice.</p></div>"
+  },
+  {
    "tag": "Recap",
    "h": "Key takeaways",
    "b": "<ul><li>Entropy counts the ways a system can be arranged: S = k ln W.</li><li>The entropy of an isolated system never decreases.</li><li>This gives time its direction; it is statistics, not a force.</li><li>Local order, like life, is paid for by entropy increases elsewhere.</li></ul><div class=\"box\"><h4>Think about it</h4>1. Why does a stirred cup of milk and tea never un-mix?<br>2. A freezer lowers the entropy of water turning to ice. Where does the extra entropy go?</div>",

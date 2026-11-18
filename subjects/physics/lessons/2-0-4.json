@@ -21,7 +21,7 @@
   {
    "tag": "Concept",
    "h": "The speed of light drops out",
-   "b": "<p>Maxwell's equations contain two constants measured in simple electric and magnetic experiments. Combine them and the wave speed is:</p><div class=\"box\"><h4>Wave speed</h4>c = 1 / square root of (mu0 x epsilon0) = 3.0 x 10 to the power 8 m/s</div><p>This matched the measured speed of light so closely that Maxwell concluded: light is an electromagnetic wave. In vacuum, it travels 300,000 km every second, and the Sun's light reaches us in about 8 minutes 20 seconds."
+   "b": "<p>Maxwell's equations contain two constants measured in simple electric and magnetic experiments. Combine them and the wave speed is:</p><div class=\"box\"><h4>Wave speed</h4>c = 1 / square root of (mu0 x epsilon0) = 3.0 x 10 to the power 8 m/s</div><p>Here c is the speed of light in metres per second, mu0 the magnetic constant and epsilon0 the electric constant. Both are fixed numbers in SI units.</p><p>This matched the measured speed of light so closely that Maxwell concluded: light is an electromagnetic wave. In vacuum, it travels 300,000 km every second, and the Sun's light reaches us in about 8 minutes 20 seconds."
   },
   {
    "tag": "Concept",
@@ -47,6 +47,11 @@
    "tag": "Indian angle",
    "h": "J. C. Bose and the Giant Metrewave Radio Telescope",
    "b": "<p>Jagadish Chandra Bose showed millimetre-wavelength radio waves in Calcutta in 1895 and built early solid-state detectors, years before Marconi's first practical radio transmission; he is often honoured as a pioneer of radio and microwave science.</p><p>Today India's Giant Metrewave Radio Telescope (GMRT) near Pune, with 30 dishes, each 45 m across, listens to radio waves from distant galaxies and pulsars. Its design rests on the very same Maxwell's equations."
+  },
+  {
+   "tag": "Go deeper",
+   "h": "Why the sky is blue",
+   "b": "<p>Sunlight is a mix of all colours. As it passes through air, tiny gas molecules scatter it in all directions. Scattering is much stronger for short wavelengths. Blue light is scattered far more than red, which is why the sky looks blue when you look away from the Sun.</p><p>The rule is that scattering strength goes as 1 divided by the wavelength to the power 4. Halve the wavelength and the scattering rises sixteen times. This is Rayleigh scattering, named after Lord Rayleigh, who worked out the rule for small particles.</p><p>Trap: the sky is not blue because it reflects the sea. At sunset the light travels through much more air. Most of the blue is scattered away, and the remaining reds and oranges reach your eyes.</p><div class=\"box\"><h4>Worked example: blue versus red</h4><p>Given: blue light wavelength about 450 nm; red light wavelength about 650 nm<br>Step 1: scattering ratio = (red wavelength / blue wavelength) to the power 4<br>Step 2: ratio = (650 / 450) to the power 4<br>Step 3: 650 / 450 = 1.44<br>Step 4: 1.44 x 1.44 = 2.07, and 2.07 x 2.07 = 4.3<br>Answer: blue light is scattered about 4 times more than red.</p></div>"
   },
   {
    "tag": "Recap",

@@ -26,7 +26,7 @@
   {
    "tag": "Concept",
    "h": "Black holes",
-   "b": "<p>If enough mass is squeezed into a small region, spacetime curves so steeply that nothing, not even light, escapes. The boundary is the <b>event horizon</b>. Its size for mass M is the Schwarzschild radius, found by Karl Schwarzschild in 1916:</p><div class=\"box\"><h4>Schwarzschild radius</h4>r = 2 G M / c squared</div><p>For the Sun it is about 3 km; for Earth, about 9 mm. In 2019 the Event Horizon Telescope released the first image of a black hole's shadow, in galaxy M87; in 2022 came the one at our Milky Way's centre."
+   "b": "<p>If enough mass is squeezed into a small region, spacetime curves so steeply that nothing, not even light, escapes. The boundary is the <b>event horizon</b>. Its size for mass M is the Schwarzschild radius, found by Karl Schwarzschild in 1916:</p><div class=\"box\"><h4>Schwarzschild radius</h4>r = 2 G M / c squared</div><p>Here r is the Schwarzschild radius in metres, G the gravitation constant, M the mass in kilograms and c the speed of light.</p><p>For the Sun it is about 3 km; for Earth, about 9 mm. In 2019 the Event Horizon Telescope released the first image of a black hole's shadow, in galaxy M87; in 2022 came the one at our Milky Way's centre."
   },
   {
    "tag": "Concept",
@@ -47,6 +47,11 @@
    "tag": "Indian angle",
    "h": "Chandrasekhar and LIGO-India",
    "b": "<p>In 1930, aged 19, Subrahmanyan Chandrasekhar sailed from India to England and worked out that a dying star heavier than about 1.4 Suns cannot settle into a white dwarf and must collapse further. This <b>Chandrasekhar limit</b> points to neutron stars and black holes. He won the 1983 Nobel Prize in Physics.</p><p>India is building <b>LIGO-India</b>, a gravitational-wave detector in Hingoli, Maharashtra, approved in 2016. Jayant Narlikar and the institute IUCAA in Pune have long led Indian research on gravity and cosmology."
+  },
+  {
+   "tag": "Go deeper",
+   "h": "GPS and the clock in orbit",
+   "b": "<p>GPS satellites carry atomic clocks in orbit. Two relativity effects change how fast they tick. Special relativity says moving clocks run slow. General relativity says clocks higher up, in Earth's weaker gravity, run fast. The two effects do not cancel, and the net result is a small gain.</p><p>Engineers correct for this when they build the system. Without the correction, the position error grows by kilometres every day. Relativity is not just a theory for stars. It is built into every phone that uses GPS.</p><p>Trap: the error builds up steadily. It is small at first and large after a day, so a missing correction is easy to miss in a short test.</p><div class=\"box\"><h4>Worked example: how far off is GPS after one day?</h4><p>Given: uncorrected clock gain of about 38 microseconds per day, or 38 x 10 to the power -6 s<br>Step 1: distance error = speed of light x time error<br>Step 2: time error = 38 x 10 to the power -6 s<br>Step 3: distance = 3 x 10 to the power 8 m/s x 38 x 10 to the power -6 s<br>Step 4: distance = 11,400 m<br>Answer: about 11 km a day if the correction were left out.</p></div>"
   },
   {
    "tag": "Recap",

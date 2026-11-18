@@ -49,6 +49,11 @@
    "b": "<p>Homi J. Bhabha founded the Atomic Energy Establishment at Trombay, now named after him. In the 1950s he set out India's <b>three-stage nuclear programme</b>: natural uranium reactors, then fast breeder reactors using plutonium, then reactors burning India's large thorium reserves with uranium-233.</p><p>The Apsara research reactor at Trombay began running in August 1956, Asia's first research reactor. Today plants such as Kudankulam in Tamil Nadu supply power, and India has tested nuclear devices in 1974 and 1998."
   },
   {
+   "tag": "Go deeper",
+   "h": "Mass missing from helium",
+   "b": "<p>A helium-4 nucleus has two protons and two neutrons. Weigh the four parts one by one and their total is more than the weight of the whole nucleus. The missing mass has turned into the energy that holds the nucleus together. This is the binding energy.</p><p>Nuclear masses are measured in atomic mass units, u. One u is worth about 931.5 MeV of energy, using E = m c squared. Binding energy per particle shows how tightly each one is held. Iron-56 sits near the top of this curve, which is why neither splitting nor joining iron releases energy.</p><p>Trap: the mass defect is not vague lost mass. It is the energy that would have to be supplied to pull the nucleus apart.</p><div class=\"box\"><h4>Worked example: binding energy of helium-4</h4><p>Given: proton 1.00728 u, neutron 1.00867 u, helium-4 nucleus 4.00151 u<br>Step 1: parts: 2 x 1.00728 + 2 x 1.00867 = 2.01456 + 2.01734 = 4.03190 u<br>Step 2: mass defect = 4.03190 - 4.00151 = 0.03039 u<br>Step 3: energy = 0.03039 x 931.5 MeV = 28.3 MeV<br>Answer: the binding energy of helium-4 is about 28.3 MeV.</p></div>"
+  },
+  {
    "tag": "Recap",
    "h": "Key takeaways",
    "b": "<ul><li>The nucleus holds protons and neutrons bound by the strong force.</li><li>Binding energy per nucleon peaks near iron: fission of heavy and fusion of light nuclei release energy.</li><li>Radioactive decay follows half-life: N = N0 x (1/2) to the power (t/T).</li><li>Fission powers reactors; fusion powers the Sun.</li></ul><div class=\"box\"><h4>Think about it</h4>1. Why can iron not release energy by either fission or fusion?<br>2. Why does fusion require such high temperature?</div>",

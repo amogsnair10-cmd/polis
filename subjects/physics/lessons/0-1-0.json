@@ -11,12 +11,12 @@
   {
    "tag": "Concept",
    "h": "Pressure: force spread over area",
-   "b": "<div class=\"box\"><h4>Pressure</h4>P = F / A</div><p>The unit is the <b>pascal</b> (Pa): one newton per square metre. A sharp knife cuts because a modest force is squeezed onto a tiny area. A camel's wide feet stop it sinking in sand for the opposite reason.</p><p>Air presses on us too. Atmospheric pressure at sea level is about 101,000 Pa, called one atmosphere. We do not feel it because the fluids inside us push outward equally."
+   "b": "<div class=\"box\"><h4>Pressure</h4>P = F / A</div><p>Here P is the pressure in pascals, F the force in newtons and A the area in square metres.</p><p>The unit is the <b>pascal</b> (Pa): one newton per square metre. A sharp knife cuts because a modest force is squeezed onto a tiny area. A camel's wide feet stop it sinking in sand for the opposite reason.</p><p>Air presses on us too. Atmospheric pressure at sea level is about 101,000 Pa, called one atmosphere. We do not feel it because the fluids inside us push outward equally."
   },
   {
    "tag": "Concept",
    "h": "Pressure grows with depth",
-   "b": "<div class=\"box\"><h4>Pressure in a liquid</h4>P = (density) x g x h</div><p>Deeper means more fluid above pressing down. For water, density is 1000 kg per cubic metre, so every 10 m of depth adds about one atmosphere. That is why divers feel pressure on their ears, and why dam walls are built thicker at the base.</p><p>Notice that only depth matters, not the width of the container."
+   "b": "<div class=\"box\"><h4>Pressure in a liquid</h4>P = (density) x g x h</div><p>Here P is the pressure in pascals, rho (the Greek letter rho) the density of the liquid in kilograms per cubic metre, g the pull of gravity and h the depth in metres.</p><p>Deeper means more fluid above pressing down. For water, density is 1000 kg per cubic metre, so every 10 m of depth adds about one atmosphere. That is why divers feel pressure on their ears, and why dam walls are built thicker at the base.</p><p>Notice that only depth matters, not the width of the container."
   },
   {
    "tag": "Concept",
@@ -26,12 +26,12 @@
   {
    "tag": "Concept",
    "h": "Buoyancy: Archimedes' principle",
-   "b": "<p>Archimedes of Syracuse (around 250 BCE) found that a body in a fluid feels an upward force equal to the weight of the fluid it pushes aside.</p><div class=\"box\"><h4>Buoyant force</h4>F = (fluid density) x V x g</div><p>If this force beats the body's weight, it floats. A steel ship floats because its hollow shape displaces a huge volume of water, so its average density is less than water's. The same steel as a solid block would sink.</p>"
+   "b": "<p>Archimedes of Syracuse (around 250 BCE) found that a body in a fluid feels an upward force equal to the weight of the fluid it pushes aside.</p><div class=\"box\"><h4>Buoyant force</h4>F = (fluid density) x V x g</div><p>Here F is the upward force in newtons, rho the density of the fluid in kilograms per cubic metre, V the volume of fluid pushed aside in cubic metres and g the pull of gravity.</p><p>If this force beats the body's weight, it floats. A steel ship floats because its hollow shape displaces a huge volume of water, so its average density is less than water's. The same steel as a solid block would sink.</p>"
   },
   {
    "tag": "Concept",
    "h": "Flow and Bernoulli's principle",
-   "b": "<p>For a steady flow of liquid in a pipe, what goes in must come out: A x v is constant. Narrow the pipe and the water speeds up, as when you put a thumb over a hose.</p><p>Daniel Bernoulli (1738) showed that where a fluid moves faster, its pressure is lower:</p><div class=\"box\"><h4>Bernoulli</h4>P + (1/2) density v squared + density g h = constant</div><p>This helps explain lift on an aircraft wing, spray bottles and the way a curveball curves."
+   "b": "<p>For a steady flow of liquid in a pipe, what goes in must come out: A x v is constant. Narrow the pipe and the water speeds up, as when you put a thumb over a hose.</p><p>Daniel Bernoulli (1738) showed that where a fluid moves faster, its pressure is lower:</p><div class=\"box\"><h4>Bernoulli</h4>P + (1/2) density v squared + density g h = constant</div><p>Here P is the pressure in pascals, rho the fluid density, v the speed in metres per second and h the height in metres. The total stays the same along one smooth streamline.</p><p>This helps explain lift on an aircraft wing, spray bottles and the way a curveball curves."
   },
   {
    "tag": "Worked example",
@@ -47,6 +47,11 @@
    "tag": "Indian angle",
    "h": "Dams and aircraft carriers",
    "b": "<p>The Bhakra Dam is thicker at its base since the water pressure there is much greater. India's hydropower and irrigation dams, from Hirakud to Sardar Sarovar, are designed with the P = density x g x h equation in mind.</p><p>The Indian Navy's ships, including the aircraft carrier INS Vikrant (commissioned 2022), float by Archimedes' principle: the carrier displaces water equal to its own huge weight."
+  },
+  {
+   "tag": "Go deeper",
+   "h": "Why a pump cannot lift water above 10 metres",
+   "b": "<p>Many people think a pump or a straw sucks water up. It does not. A pump lowers the pressure above the water, and the air pressing on the water's surface pushes it up the pipe. The most the outside air can push is about one atmosphere.</p><p>Pressure at the bottom of a liquid column is density x g x h. Air pressure sets the largest height the column can reach, because the pressure at the top of the column is zero. So the height is h = P / (density x g).</p><p>The same idea explains why mercury is used in barometers. Mercury is about 13.6 times denser than water, so its column is only about 76 cm tall at sea level.</p><div class=\"box\"><h4>Worked example: how high can air push water?</h4><p>Given: air pressure at sea level P = 101,000 Pa (about one atmosphere)<br>Step 1: h = P / (density x g)<br>Step 2: density of water = 1000 kg/m cubed, g = 9.8 m/s squared<br>Step 3: density x g = 1000 x 9.8 = 9800 Pa per metre<br>Step 4: h = 101,000 / 9800 = 10.3 m for water<br>Step 5: for mercury, density 13,600 kg/m cubed: h = 101,000 / (13,600 x 9.8) = 0.76 m<br>Answer: water about 10 m; mercury about 76 cm.</p></div><p>Trap: this is why a deep well needs a pump that sits down in the well. A suction pump on the surface cannot lift water more than about 10 m, however strong it is.</p>"
   },
   {
    "tag": "Recap",

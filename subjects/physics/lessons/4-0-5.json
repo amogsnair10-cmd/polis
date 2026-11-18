@@ -54,6 +54,11 @@
    "b": "<p>Jagadish Chandra Bose used a crystal of galena, a natural semiconductor, to detect radio waves around 1900, and obtained a US patent in 1904 for a semiconductor detector. This is among the earliest uses of a semiconductor device.</p><p>India launched the <b>India Semiconductor Mission</b> in 2021 to build chip fabrication and packaging plants. India already supplies a large share of the world's chip design engineers, with major design centres in Bengaluru and Hyderabad."
   },
   {
+   "tag": "Go deeper",
+   "h": "How much power does a solar panel give?",
+   "b": "<p>A solar cell turns sunlight into electricity. Its efficiency is the fraction of the sunlight that becomes electrical power. Typical panels on sale today reach about 20 percent. The rest becomes heat, and hot panels lose some of their output.</p><p>Engineers use a standard reference: about 1000 W per square metre of sunlight, which is roughly a clear noon sun. Real output is less, because of clouds, dust, the angle of the panel and heat. Still, the simple calculation gives a good first estimate of how big a roof system needs to be.</p><p>Trap: a rated power such as 300 W is measured under standard test sunlight. It is not the power you get all day.</p><div class=\"box\"><h4>Worked example: a 1.5 square metre panel</h4><p>Given: area 1.5 m squared; sunlight 1000 W per m squared; efficiency 20 percent; 5 hours of full sun<br>Step 1: sunlight power falling on the panel = 1.5 x 1000 = 1500 W<br>Step 2: electrical output = 0.20 x 1500 = 300 W<br>Step 3: energy in 5 hours = 300 W x 5 h = 1500 Wh<br>Step 4: 1500 Wh = 1.5 kWh<br>Answer: about 1.5 units (kWh) of electricity in a day of full sun.</p></div>"
+  },
+  {
    "tag": "Recap",
    "h": "Key takeaways",
    "b": "<ul><li>Semiconductors have a small band gap; doping makes n-type (electrons) or p-type (holes).</li><li>A p-n junction is a diode: current one way. LEDs and solar cells are junctions.</li><li>The transistor (1947) is an electrically controlled switch; chips hold billions.</li><li>Moore's law: transistor numbers doubled about every two years.</li></ul><div class=\"box\"><h4>Think about it</h4>1. Why does a semiconductor conduct better when heated, unlike a metal?<br>2. How can a solar cell be seen as an LED running backwards?</div>",

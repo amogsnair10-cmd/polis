@@ -16,12 +16,12 @@
   {
    "tag": "Concept",
    "h": "RMS: the 'effective' voltage",
-   "b": "<p>AC voltage keeps changing, so what does '230 V' mean? It is the <b>root mean square</b> (rms) value, the steady DC voltage that would heat a resistor equally.</p><div class=\"box\"><h4>Peak and rms</h4>V(rms) = V(peak) / square root of 2 = 0.707 x V(peak)</div><p>So 230 V rms mains actually swings up to about 325 V at its peak, then down to -325 V and back, 50 times a second. Appliances are rated by rms values."
+   "b": "<p>AC voltage keeps changing, so what does '230 V' mean? It is the <b>root mean square</b> (rms) value, the steady DC voltage that would heat a resistor equally.</p><div class=\"box\"><h4>Peak and rms</h4>V(rms) = V(peak) / square root of 2 = 0.707 x V(peak)</div><p>Here V(rms) is the steady DC-equivalent voltage in volts and V(peak) the largest voltage reached in each cycle.</p><p>So 230 V rms mains actually swings up to about 325 V at its peak, then down to -325 V and back, 50 times a second. Appliances are rated by rms values."
   },
   {
    "tag": "Concept",
    "h": "The transformer",
-   "b": "<p>A transformer has two coils wound on an iron core. AC in the first (primary) coil makes a changing magnetic flux in the core, which induces an AC voltage in the second (secondary) coil. This is Faraday's law at work.</p><div class=\"box\"><h4>Transformer rule</h4>V2 / V1 = N2 / N1 (ratio of turns)<br>power in is about power out</div><p>More turns on the secondary gives a higher voltage and lower current (step-up); fewer turns gives the opposite (step-down). A good transformer is over 98 percent efficient. It works only with AC, since DC gives no changing flux."
+   "b": "<p>A transformer has two coils wound on an iron core. AC in the first (primary) coil makes a changing magnetic flux in the core, which induces an AC voltage in the second (secondary) coil. This is Faraday's law at work.</p><div class=\"box\"><h4>Transformer rule</h4>V2 / V1 = N2 / N1 (ratio of turns)<br>power in is about power out</div><p>Here V1 and V2 are the primary and secondary voltages in volts, and N1 and N2 the number of turns on each coil.</p><p>More turns on the secondary gives a higher voltage and lower current (step-up); fewer turns gives the opposite (step-down). A good transformer is over 98 percent efficient. It works only with AC, since DC gives no changing flux."
   },
   {
    "tag": "Concept",
@@ -47,6 +47,11 @@
    "tag": "Indian angle",
    "h": "One Nation, One Grid",
    "b": "<p>India completed its integrated national grid on 31 December 2013, when the Southern Grid was synchronised with the rest. Since then power can flow from surplus regions to deficit ones at one frequency, 50 Hz. India's main transmission lines include 400 kV, 765 kV and high-voltage DC links.</p><p>The Indian grid is now one of the largest synchronised grids in the world, and an increasingly important home to solar and wind power, which makes keeping the frequency steady harder."
+  },
+  {
+   "tag": "Go deeper",
+   "h": "Why a 1 kW heater draws 4.35 amps",
+   "b": "<p>Mains appliances are rated with rms values. A label of '1000 W, 230 V' means the rms voltage is 230 V, and the average power is V(rms) x I(rms). The peak values are larger by the square root of 2, which is about 1.41. Use rms in every power calculation, never the peak.</p><p>Think of the rms value as the steady DC voltage that would heat a resistor just as much. Heating depends on the squared values, so the rms value is the right average to use.</p><p>Trap: multiplying the peak voltage by the rms current gives a number that is too big. For example, 325 V times 4.35 A gives 1414 W, which is wrong for a 1000 W heater.</p><div class=\"box\"><h4>Worked example: current drawn by a 1000 W heater</h4><p>Given: P = 1000 W, V(rms) = 230 V<br>Step 1: P = V(rms) x I(rms)<br>Step 2: I(rms) = 1000 / 230 = 4.35 A<br>Step 3: peak current = 1.41 x 4.35 = 6.15 A<br>Step 4: peak voltage = 1.41 x 230 = 325 V<br>Answer: the heater draws 4.35 A rms; its peak current is 6.15 A.</p></div>"
   },
   {
    "tag": "Recap",

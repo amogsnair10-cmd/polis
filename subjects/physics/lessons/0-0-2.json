@@ -49,6 +49,11 @@
    "b": "<p>Every ISRO launch, from the PSLV to the LVM3 rocket that carried Chandrayaan-3, is Newton's third law at work: hot gas goes down, the rocket goes up.</p><p>Chandrayaan-3's lander Vikram touched down near the Moon's south pole on 23 August 2023, making India the fourth country to soft-land on the Moon. Every burn that slowed it was a calculation of F = ma, with thrust and mass changing as fuel was used."
   },
   {
+   "tag": "Go deeper",
+   "h": "Ropes, pulls and the one-rule method",
+   "b": "<p>Many problems have two or more linked objects. The trick is to decide which object you are looking at, and to draw only the forces that act on that object.</p><p>A rope can only pull, never push. Think of a tow truck pulling a car. The rope pulls the car forward and pulls the truck backward, with the same size. That size is the tension.</p><p>Use this three-step recipe. First, treat the blocks as one whole and find the acceleration. Second, take one block alone and find the tension. Third, check the answer with the other block.</p><div class=\"box\"><h4>Worked example: two blocks on a smooth table</h4><p>Given: a 12 N pull acts on a 2 kg block, which is tied by a rope to a 4 kg block. The table is smooth.<br>Step 1: whole system: 12 N = (2 + 4) kg x a<br>Step 2: a = 12 / 6 = 2 m/s squared<br>Step 3: the 4 kg block alone: only the tension T pulls it<br>Step 4: T = 4 kg x 2 m/s squared = 8 N<br>Step 5: check the 2 kg block: 12 N - 8 N = 4 N, and 2 kg x 2 m/s squared = 4 N. It matches.<br>Answer: acceleration 2 m/s squared; tension 8 N.</p></div><p>Trap: the 12 N acts only on the front block. Writing the full 12 N on both blocks breaks Newton's second law for each one. Draw each block on its own.</p>"
+  },
+  {
    "tag": "Recap",
    "h": "Key takeaways",
    "b": "<ul><li>Objects keep their velocity unless a net force acts (inertia).</li><li>F = ma: net force gives acceleration, in newtons for kg and m/s squared.</li><li>Forces come in equal, opposite pairs on different bodies.</li><li>Draw a free-body diagram and add forces as vectors.</li></ul><div class=\"box\"><h4>Think about it</h4>1. Why does a coin on a card fall into the glass when you flick the card away quickly?<br>2. A truck and a small car collide. Which feels the larger force, and which the larger acceleration?</div>",

@@ -49,6 +49,11 @@
    "b": "<p>On 28 February 1928 C. V. Raman and K. S. Krishnan observed that when light scatters from molecules, a small part comes out with shifted colour, because the light has swapped energy with the molecules. The Raman effect won the Nobel Prize in 1930, the first for an Asian in science. India celebrates 28 February as National Science Day.</p><p>J. C. Bose in the 1890s used polarisers and prisms with microwaves, showing that radio waves polarise just like light."
   },
   {
+   "tag": "Go deeper",
+   "h": "Diffraction grating: many slits at once",
+   "b": "<p>A diffraction grating has many closely spaced slits, often hundreds per millimetre. Each slit spreads light, and the spreads add up. Only at certain angles do the waves arrive in step, and those angles give sharp bright lines. Gratings are used in spectrometers to split light into its colours.</p><p>The bright lines follow d x sin(theta) = m x wavelength. Here d is the spacing between neighbouring slits, theta the angle of the bright line, m the order (1, 2, 3 and so on) and the wavelength the wavelength of the light. More lines on the grating make the bright spots sharper.</p><p>Trap: the spacing d is not the number of lines. A grating with 600 lines per mm has d = 1 mm / 600, which is about 1.7 micrometres.</p><div class=\"box\"><h4>Worked example: first bright line of green light</h4><p>Given: 600 lines per mm; wavelength 500 nm<br>Step 1: spacing d = 1 mm / 600 = 1.67 x 10 to the power -6 m<br>Step 2: first bright line: d x sin(theta) = 1 x wavelength<br>Step 3: sin(theta) = 500 x 10 to the power -9 / 1.67 x 10 to the power -6 = 0.30<br>Step 4: theta = arcsin(0.30) = about 17.5 degrees<br>Answer: the first bright line appears about 17.5 degrees from the centre.</p></div>"
+  },
+  {
    "tag": "Recap",
    "h": "Key takeaways",
    "b": "<ul><li>Interference: waves add, giving bright and dark fringes (Young, 1801).</li><li>Fringe spacing = wavelength x D / d.</li><li>Diffraction: waves spread around small obstacles and slits.</li><li>Polarisation shows light is a transverse wave; Polaroid filters cut glare.</li></ul><div class=\"box\"><h4>Think about it</h4>1. Why do soap bubbles show changing colours?<br>2. Why can you hear around a corner but not see around it?</div>",

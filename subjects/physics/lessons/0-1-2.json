@@ -49,6 +49,11 @@
    "b": "<p>The India Meteorological Department uses Doppler weather radars to track the winds inside cyclones by the shift in frequency of reflected waves. This gives hours of warning before landfall.</p><p>Indian classical music builds on exact frequency ratios and resonance. C. V. Raman's work on the harmonics of the tabla and mridangam showed why their sound is so musical. The Indian Navy and fishermen also use sonar, sound pulses and echoes, to find objects under water."
   },
   {
+   "tag": "Go deeper",
+   "h": "Using echoes to measure depth",
+   "b": "<p>Sound travels at different speeds in different materials. In air it is about 343 m/s at 20 degrees Celsius. In water it is about 1500 m/s, and in steel it is faster still. Ships and fish finders use this. A sound pulse is sent down, and the echo from the bottom is timed.</p><p>The speed depends on how stiff the material is and how heavy its particles are. Water is much stiffer than air, so sound moves faster in it. The pulse travels down and back, so the distance is a round trip. The echo time must be halved before you multiply by speed. Depth = speed x time / 2.</p><p>Trap: forgetting to divide by 2 gives a depth twice as large as the truth. Ask yourself whether your number is the trip down, or the trip down and back.</p><div class=\"box\"><h4>Worked example: depth of a lake from an echo</h4><p>Given: sound speed in water = 1500 m/s; echo returns after 0.2 s<br>Step 1: total distance = speed x time = 1500 m/s x 0.2 s<br>Step 2: total distance (down and back) = 300 m<br>Step 3: depth = 300 m / 2 = 150 m<br>Answer: the water is about 150 m deep.</p></div>"
+  },
+  {
    "tag": "Recap",
    "h": "Key takeaways",
    "b": "<ul><li>Waves carry energy, not matter. They are transverse or longitudinal.</li><li>v = f x wavelength.</li><li>Sound in air travels at about 343 m/s; it needs a medium.</li><li>Waves interfere; the Doppler effect shifts frequency for moving sources.</li></ul><div class=\"box\"><h4>Think about it</h4>1. Why does your voice sound deeper to you when you speak than on a recording?<br>2. If you shout in a canyon and hear the echo after 4 s, how wide is the canyon?</div>",

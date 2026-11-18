@@ -49,6 +49,11 @@
    "b": "<p>The word <b>boson</b> honours S. N. Bose, so the Higgs boson carries an Indian name. Homi Bhabha worked out in 1935 how electrons scatter off positrons, now called Bhabha scattering, a process studied at every electron-positron collider.</p><p>Indian scientists contribute to experiments at the LHC, including CMS and ALICE, and India became an Associate Member of CERN in January 2017. The India-based Neutrino Observatory was planned in Tamil Nadu to study atmospheric neutrinos, though it awaits final go-ahead."
   },
   {
+   "tag": "Go deeper",
+   "h": "How heavy is the Higgs?",
+   "b": "<p>Particle physicists measure mass in energy units. Since E = m c squared, a mass m has an energy equal to m times c squared.</p><p>The Higgs boson was found at CERN in 2012, with a mass of about 125 GeV per c squared. That is more than 100 times the mass of a proton. It is very short-lived, decaying in a tiny fraction of a second, so physicists see only its decay products.</p><p>Trap: the GeV is an energy, not a weight. To turn it into kilograms, convert the energy to joules first, and then divide by c squared.</p><div class=\"box\"><h4>Worked example: the Higgs mass in kilograms and protons</h4><p>Given: Higgs energy = 125 GeV; proton mass = 1.67 x 10 to the power -27 kg<br>Step 1: 1 GeV = 1.6 x 10 to the power -10 J<br>Step 2: energy = 125 x 1.6 x 10 to the power -10 = 2.0 x 10 to the power -8 J<br>Step 3: mass = energy / c squared = 2.0 x 10 to the power -8 / (9 x 10 to the power 16)<br>Step 4: mass = 2.2 x 10 to the power -25 kg<br>Step 5: divide by the proton mass: 2.2 x 10 to the power -25 / 1.67 x 10 to the power -27 = about 130<br>Answer: about 2.2 x 10 to the power -25 kg, or roughly 130 protons' worth of mass.</p></div>"
+  },
+  {
    "tag": "Recap",
    "h": "Key takeaways",
    "b": "<ul><li>Four forces: gravity, electromagnetic, strong, weak.</li><li>Matter: six quarks and six leptons; proton = uud, neutron = udd.</li><li>Forces are carried by photons, gluons, W and Z; the Higgs field gives mass (Higgs discovered 2012).</li><li>Every particle has an antiparticle; annihilation turns mass into energy.</li></ul><div class=\"box\"><h4>Think about it</h4>1. Why are quarks never seen alone?<br>2. Why does a PET scan use antimatter?</div>",

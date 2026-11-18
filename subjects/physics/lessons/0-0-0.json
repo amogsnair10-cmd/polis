@@ -31,7 +31,7 @@
   {
    "tag": "Concept",
    "h": "Components: breaking an arrow into two",
-   "b": "<p>Any vector in a plane can be split into two perpendicular parts, left-right (x) and up-down (y). For a vector of size V at angle theta from the x-axis:</p><div class=\"box\"><h4>Components</h4>Vx = V cos(theta)<br>Vy = V sin(theta)<br>V = square root of (Vx squared + Vy squared)</div><p>To add vectors, add their x parts and their y parts separately. This turns a messy geometry problem into simple arithmetic, and it is the trick physicists use all through mechanics and electricity."
+   "b": "<p>Any vector in a plane can be split into two perpendicular parts, left-right (x) and up-down (y). For a vector of size V at angle theta from the x-axis:</p><div class=\"box\"><h4>Components</h4>Vx = V cos(theta)<br>Vy = V sin(theta)<br>V = square root of (Vx squared + Vy squared)</div><p>Here V is the length of the vector, theta the angle it makes with the x axis, Vx its sideways part and Vy its upward part. All three use the same unit, such as newtons or metres.</p><p>To add vectors, add their x parts and their y parts separately. This turns a messy geometry problem into simple arithmetic, and it is the trick physicists use all through mechanics and electricity."
   },
   {
    "tag": "Worked example",
@@ -47,6 +47,11 @@
    "tag": "Indian angle",
    "h": "Who keeps India's measures?",
    "b": "<p>India adopted the metric system by law in the 1950s through the Standards of Weights and Measures Act, 1956, replacing seers, maunds and miles.</p><p>The CSIR-National Physical Laboratory in New Delhi is the custodian of India's national standards. It maintains atomic clocks that realise Indian Standard Time, and the accuracy of every shop scale ultimately traces back to such standards.</p><p>India also uses SI units in its space missions. ISRO's engineers work in newtons, kilograms and seconds, so a Mars Climate Orbiter-style error would be just as fatal for them."
+  },
+  {
+   "tag": "Go deeper",
+   "h": "Converting units step by step",
+   "b": "<p>Changing units is just multiplying by a fraction that equals 1. Since 1 km is exactly 1000 m, the fraction 1000 m / 1 km is equal to 1. Multiplying by it changes the label but not the amount. Units cancel like numbers do, so the km on top and bottom vanish.</p><p>Prefixes are shorthand for powers of ten. Kilo means 1000 times. Milli means one thousandth. Micro means one millionth. So 5 mm is 0.005 m, and 2 microcoulombs is 2 x 10 to the power -6 coulombs. Learn the common prefixes once and you can read any scientific number.</p><p>Common trap: time does not use tens. One hour is 60 minutes and 3600 seconds, not 100 or 1000. Many wrong exam answers come from this one slip.</p><div class=\"box\"><h4>Worked example: 90 km/h in m/s</h4><p>Start: speed = 90 km per hour<br>Step 1: 90 km = 90 x 1000 m = 90,000 m<br>Step 2: 1 hour = 60 x 60 s = 3600 s<br>Step 3: speed = 90,000 m / 3600 s<br>Step 4: 90,000 / 3600 = 25<br>Answer: 25 m/s</p></div><p>A quick check: 90 divided by 3.6 is 25. Dividing km/h by 3.6 gives m/s, because 3.6 = 3600 / 1000. Use the shortcut only after you understand where it comes from.</p>"
   },
   {
    "tag": "Recap",

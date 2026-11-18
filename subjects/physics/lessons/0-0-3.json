@@ -16,12 +16,12 @@
   {
    "tag": "Concept",
    "h": "Kinetic energy: the energy of motion",
-   "b": "<div class=\"box\"><h4>Kinetic energy</h4>KE = (1/2) m v squared</div><p>Note the square. Double your speed and the energy goes up four times. That is why a car crash at 100 km/h is far worse than at 50 km/h, and why stopping distances grow so fast.</p><p>The <b>work-energy theorem</b>: the net work done on an object equals its change in kinetic energy.</p>"
+   "b": "<div class=\"box\"><h4>Kinetic energy</h4>KE = (1/2) m v squared</div><p>Here KE is the kinetic energy in joules, m the mass in kilograms and v the speed in metres per second.</p><p>Note the square. Double your speed and the energy goes up four times. That is why a car crash at 100 km/h is far worse than at 50 km/h, and why stopping distances grow so fast.</p><p>The <b>work-energy theorem</b>: the net work done on an object equals its change in kinetic energy.</p>"
   },
   {
    "tag": "Concept",
    "h": "Potential energy: stored energy",
-   "b": "<p>Lift a mass m to height h and you store energy in the gravitational field:</p><div class=\"box\"><h4>Gravitational PE</h4>PE = m g h</div><p>Stretch a spring, compress a gas, separate two charges: all store potential energy. Release it and it turns back into motion.</p><p>A force like gravity, where the work done depends only on start and end points, is called <b>conservative</b>.</p>"
+   "b": "<p>Lift a mass m to height h and you store energy in the gravitational field:</p><div class=\"box\"><h4>Gravitational PE</h4>PE = m g h</div><p>Here PE is the gravitational energy in joules, m the mass in kilograms, g the pull of gravity (about 9.8 metres per second squared near Earth) and h the height in metres.</p><p>Stretch a spring, compress a gas, separate two charges: all store potential energy. Release it and it turns back into motion.</p><p>A force like gravity, where the work done depends only on start and end points, is called <b>conservative</b>.</p>"
   },
   {
    "tag": "Concept",
@@ -31,7 +31,7 @@
   {
    "tag": "Concept",
    "h": "Power: how fast energy flows",
-   "b": "<div class=\"box\"><h4>Power</h4>P = W / t</div><p>Power is work done per second. The unit is the <b>watt</b>: one joule per second. A 100 W bulb uses 100 J every second. One horsepower is about 746 W.</p><p>Your electricity bill counts in kilowatt-hours (kWh). One kWh is 1000 W for 3600 s, which is 3.6 million joules. That is one 'unit' of electricity."
+   "b": "<div class=\"box\"><h4>Power</h4>P = W / t</div><p>Here P is the power in watts, W the work done in joules and t the time in seconds.</p><p>Power is work done per second. The unit is the <b>watt</b>: one joule per second. A 100 W bulb uses 100 J every second. One horsepower is about 746 W.</p><p>Your electricity bill counts in kilowatt-hours (kWh). One kWh is 1000 W for 3600 s, which is 3.6 million joules. That is one 'unit' of electricity."
   },
   {
    "tag": "Worked example",
@@ -47,6 +47,11 @@
    "tag": "Indian angle",
    "h": "Bhakra and your electricity unit",
    "b": "<p>Hydroelectric dams are conservation of energy in action: water stored high (PE) falls through turbines (KE) and spins generators. The Bhakra Dam on the Sutlej, completed in the early 1960s, is among India's tallest gravity dams, and Jawaharlal Nehru called such dams the 'temples of modern India'.</p><p>Every Indian household bill is in kWh, the same 3.6 million joules in the example above. When you use a 1000 W heater for an hour, you pay for exactly one unit.</p>"
+  },
+  {
+   "tag": "Go deeper",
+   "h": "Efficiency: where the rest of the energy goes",
+   "b": "<p>Energy is never lost in total, but it often goes somewhere useless. A motor fed with electrical energy turns part of it into lifting work and the rest into heat and noise. Efficiency tells you what fraction ends up useful.</p><p>Efficiency is useful energy out divided by total energy in. It is a fraction, so it lies between 0 and 1, or 0 to 100 percent. No machine reaches 100 percent. A petrol car engine turns only about a quarter of its fuel energy into motion, and the rest leaves as hot exhaust and hot metal.</p><p>The 'lost' energy is not destroyed. It spreads out as slightly warmer surroundings. That spreading is the reason no machine can be perfect.</p><div class=\"box\"><h4>Worked example: a motor lifts a 10 kg load</h4><p>Given: electrical energy in = 200 J; load 10 kg lifted 1.5 m<br>Step 1: useful work = m x g x h, with m = 10 kg, g = 9.8 m/s squared, h = 1.5 m<br>Step 2: useful work = 10 x 9.8 x 1.5 = 147 J<br>Step 3: efficiency = 147 J / 200 J<br>Step 4: efficiency = 0.735 = 73.5 percent<br>Step 5: energy lost = 200 J - 147 J = 53 J<br>Answer: 73.5 percent useful; 53 J leaves as heat and sound.</p></div><p>Trap: efficiency can never be above 100 percent. If your answer is 120 percent, you have probably swapped useful and total energy.</p>"
   },
   {
    "tag": "Recap",

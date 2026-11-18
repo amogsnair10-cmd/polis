@@ -11,12 +11,12 @@
   {
    "tag": "Concept",
    "h": "Momentum: mass in motion",
-   "b": "<div class=\"box\"><h4>Momentum</h4>p = m v</div><p>Momentum is a vector with units kg m/s. A 1000 kg car at 20 m/s has p = 20,000 kg m/s. A 0.01 kg bullet at 400 m/s has only 4 kg m/s, but it can be stopped by a thin wall because the stopping time is tiny and the force is concentrated.</p><p>Newton actually wrote his second law as: force = rate of change of momentum."
+   "b": "<div class=\"box\"><h4>Momentum</h4>p = m v</div><p>Here p is the momentum in kilogram metres per second, m the mass in kilograms and v the velocity in metres per second.</p><p>Momentum is a vector with units kg m/s. A 1000 kg car at 20 m/s has p = 20,000 kg m/s. A 0.01 kg bullet at 400 m/s has only 4 kg m/s, but it can be stopped by a thin wall because the stopping time is tiny and the force is concentrated.</p><p>Newton actually wrote his second law as: force = rate of change of momentum."
   },
   {
    "tag": "Concept",
    "h": "Impulse: a push over a time",
-   "b": "<div class=\"box\"><h4>Impulse</h4>F x t = change in momentum</div><p>To change momentum you need force acting for some time. The same change can come from a big force for a short time or a small force for a long time.</p><p>Catching a fast ball, you move your hands back, lengthening the time. The force drops and your palms are spared. Airbags and crumple zones do the same: they stretch the stopping time so the force on you is smaller.</p>"
+   "b": "<div class=\"box\"><h4>Impulse</h4>F x t = change in momentum</div><p>Here F is the average force in newtons and t the time in seconds for which it acts. The change in momentum is in kilogram metres per second.</p><p>To change momentum you need force acting for some time. The same change can come from a big force for a short time or a small force for a long time.</p><p>Catching a fast ball, you move your hands back, lengthening the time. The force drops and your palms are spared. Airbags and crumple zones do the same: they stretch the stopping time so the force on you is smaller.</p>"
   },
   {
    "tag": "Concept",
@@ -47,6 +47,11 @@
    "tag": "Indian angle",
    "h": "Rockets and the cricket field",
    "b": "<p>Every ISRO launch relies on conservation of momentum: the exhaust of the PSLV pushes it up. Staging, where empty stages drop away, lowers the mass so the same thrust gives a larger acceleration.</p><p>On the cricket field, a fielder 'giving' with the ball is the impulse idea. Safety designers of Indian road vehicles use crumple zones and airbags built on the same physics, and India's crash-test programme, Bharat NCAP, began in 2023 to rate vehicles on such safety.</p>"
+  },
+  {
+   "tag": "Go deeper",
+   "h": "Recoil: a gun and a bullet",
+   "b": "<p>A gun pushes the bullet forward, and the bullet pushes the gun backward with equal force. Before firing, the total momentum is zero, because nothing moves. After firing, the total must still be zero. So the forward momentum of the bullet is matched by a backward momentum of the gun.</p><p>This is recoil. A light bullet can leave at high speed, while a heavy gun moves back slowly. Momentum is shared out equally in size, but kinetic energy is not shared in the same way. The light bullet carries far more kinetic energy than the gun.</p><p>The energy comes from the burning powder, which turns chemical energy into motion.</p><div class=\"box\"><h4>Worked example: a 2 kg rifle fires a 0.01 kg bullet</h4><p>Start: total momentum = 0, because nothing moves<br>Step 1: bullet momentum = 0.01 kg x 400 m/s = 4 kg m/s forward<br>Step 2: the gun must have -4 kg m/s, which means backward<br>Step 3: gun speed = 4 kg m/s / 2 kg = 2 m/s backward<br>Step 4: bullet kinetic energy = (1/2) x 0.01 x 400 squared = 800 J<br>Step 5: gun kinetic energy = (1/2) x 2 x 2 squared = 4 J<br>Answer: the gun recoils at 2 m/s; the bullet carries about 200 times more energy.</p></div><p>Trap: a heavy gun recoils slowly, but that does not make it safe. The same momentum still jolts your shoulder, so keep the stock firmly against it.</p>"
   },
   {
    "tag": "Recap",

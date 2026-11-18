@@ -11,12 +11,12 @@
   {
    "tag": "Concept",
    "h": "Current: charge in motion",
-   "b": "<div class=\"box\"><h4>Current</h4>I = Q / t</div><p>Current is the amount of charge passing a point per second. The unit is the <b>ampere</b> (A): one coulomb per second. A phone charger may give 2 A; a household bulb draws a fraction of an amp.</p><p>By convention current is drawn flowing from positive to negative, though in wires it is actually electrons drifting the other way, slowly, at about a millimetre per second. The signal moves fast because the whole 'sea' of electrons shifts together."
+   "b": "<div class=\"box\"><h4>Current</h4>I = Q / t</div><p>Here I is the current in amperes, Q the charge in coulombs and t the time in seconds.</p><p>Current is the amount of charge passing a point per second. The unit is the <b>ampere</b> (A): one coulomb per second. A phone charger may give 2 A; a household bulb draws a fraction of an amp.</p><p>By convention current is drawn flowing from positive to negative, though in wires it is actually electrons drifting the other way, slowly, at about a millimetre per second. The signal moves fast because the whole 'sea' of electrons shifts together."
   },
   {
    "tag": "Concept",
    "h": "Ohm's law and resistance",
-   "b": "<div class=\"box\"><h4>Ohm's law</h4>V = I x R</div><p>Georg Ohm found in 1827 that, for many conductors, current is proportional to voltage. The constant is <b>resistance</b> R, in ohms. A larger voltage drives more current; a larger resistance allows less.</p><p>Resistance of a wire: R = (resistivity) x length / area. Long, thin wires resist more; thick, short ones less. Copper has very low resistivity, so it is used for wiring.</p><svg class=\"d\" viewBox=\"0 0 320 150\"><rect x=\"40\" y=\"30\" width=\"240\" height=\"90\" fill=\"none\" stroke=\"#1d2433\" stroke-width=\"2\"/><rect x=\"22\" y=\"60\" width=\"36\" height=\"30\" fill=\"#f1e4c6\" stroke=\"#a8792a\" stroke-width=\"2\"/><text x=\"26\" y=\"80\" font-size=\"11\" fill=\"#1d2433\">12 V</text><rect x=\"110\" y=\"20\" width=\"50\" height=\"20\" fill=\"#dceaec\" stroke=\"#2f6f7a\" stroke-width=\"2\"/><text x=\"125\" y=\"34\" font-size=\"11\" fill=\"#1d2433\">4 ohm</text><rect x=\"200\" y=\"20\" width=\"50\" height=\"20\" fill=\"#dceaec\" stroke=\"#2f6f7a\" stroke-width=\"2\"/><text x=\"215\" y=\"34\" font-size=\"11\" fill=\"#1d2433\">2 ohm</text><text x=\"120\" y=\"75\" font-size=\"11\" fill=\"#a3362a\">I = 12 / 6 = 2 A</text><text x=\"95\" y=\"140\" font-size=\"10\" fill=\"#5d6474\">series circuit: same current everywhere</text></svg>"
+   "b": "<div class=\"box\"><h4>Ohm's law</h4>V = I x R</div><p>Here V is the voltage in volts, I the current in amperes and R the resistance in ohms.</p><p>Georg Ohm found in 1827 that, for many conductors, current is proportional to voltage. The constant is <b>resistance</b> R, in ohms. A larger voltage drives more current; a larger resistance allows less.</p><p>Resistance of a wire: R = (resistivity) x length / area. Long, thin wires resist more; thick, short ones less. Copper has very low resistivity, so it is used for wiring.</p><svg class=\"d\" viewBox=\"0 0 320 150\"><rect x=\"40\" y=\"30\" width=\"240\" height=\"90\" fill=\"none\" stroke=\"#1d2433\" stroke-width=\"2\"/><rect x=\"22\" y=\"60\" width=\"36\" height=\"30\" fill=\"#f1e4c6\" stroke=\"#a8792a\" stroke-width=\"2\"/><text x=\"26\" y=\"80\" font-size=\"11\" fill=\"#1d2433\">12 V</text><rect x=\"110\" y=\"20\" width=\"50\" height=\"20\" fill=\"#dceaec\" stroke=\"#2f6f7a\" stroke-width=\"2\"/><text x=\"125\" y=\"34\" font-size=\"11\" fill=\"#1d2433\">4 ohm</text><rect x=\"200\" y=\"20\" width=\"50\" height=\"20\" fill=\"#dceaec\" stroke=\"#2f6f7a\" stroke-width=\"2\"/><text x=\"215\" y=\"34\" font-size=\"11\" fill=\"#1d2433\">2 ohm</text><text x=\"120\" y=\"75\" font-size=\"11\" fill=\"#a3362a\">I = 12 / 6 = 2 A</text><text x=\"95\" y=\"140\" font-size=\"10\" fill=\"#5d6474\">series circuit: same current everywhere</text></svg>"
   },
   {
    "tag": "Concept",
@@ -31,7 +31,7 @@
   {
    "tag": "Concept",
    "h": "Power and heating",
-   "b": "<div class=\"box\"><h4>Electric power</h4>P = V x I = I squared x R = V squared / R</div><p>The watt again: joules per second. Current through resistance makes heat (Joule heating): useful in a geyser or iron, a waste in power lines. A fuse is a thin wire that melts if too much current flows, protecting the circuit. A modern MCB switch does the same job."
+   "b": "<div class=\"box\"><h4>Electric power</h4>P = V x I = I squared x R = V squared / R</div><p>Here P is the power in watts, V the voltage in volts, I the current in amperes and R the resistance in ohms.</p><p>The watt again: joules per second. Current through resistance makes heat (Joule heating): useful in a geyser or iron, a waste in power lines. A fuse is a thin wire that melts if too much current flows, protecting the circuit. A modern MCB switch does the same job."
   },
   {
    "tag": "Worked example",
@@ -47,6 +47,11 @@
    "tag": "Indian angle",
    "h": "230 volts, 50 hertz",
    "b": "<p>Indian homes receive alternating current at 230 V and 50 Hz. A typical 1500 W electric kettle draws about 6.5 A (1500 / 230), so it needs a heavier plug and wire than a small bulb. The earth pin and MCB in your home protect against shocks and overloads.</p><p>India's solar push turns sunlight into DC electricity in panels, and the country's installed solar capacity has grown rapidly through the 2020s. Solar plants such as Bhadla in Rajasthan are among the world's largest."
+  },
+  {
+   "tag": "Go deeper",
+   "h": "A real battery is not perfect",
+   "b": "<p>Every real battery has some internal resistance, r. The chemistry inside it resists the flow of charge through the electrolyte and the electrodes. So the voltage across the terminals is less than the battery's ideal voltage, its emf, once current flows.</p><p>The total resistance in the loop is the external load R plus r. Current I = emf / (R + r). The terminal voltage is V = I x R, which equals emf - I x r. The difference, I x r, is the voltage lost inside the battery.</p><p>Trap: a battery can read 12 V with no load, yet show only 10 V when a big current is drawn. Old batteries have a high internal resistance, so they sag under heavy load. That is why a weak battery can read fine on a meter but fail to start a motor.</p><div class=\"box\"><h4>Worked example: a 12 V battery with 0.5 ohm inside</h4><p>Given: emf = 12 V, internal resistance r = 0.5 ohm, external load R = 5.5 ohm<br>Step 1: total resistance = R + r = 5.5 + 0.5 = 6 ohm<br>Step 2: current I = 12 V / 6 ohm = 2 A<br>Step 3: terminal voltage V = I x R = 2 x 5.5 = 11 V<br>Step 4: voltage lost inside = I x r = 2 x 0.5 = 1 V<br>Step 5: check: 11 V + 1 V = 12 V<br>Answer: current 2 A; terminal voltage 11 V.</p></div>"
   },
   {
    "tag": "Recap",

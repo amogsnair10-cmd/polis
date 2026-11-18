@@ -11,12 +11,12 @@
   {
    "tag": "Concept",
    "h": "Newton's law of gravitation",
-   "b": "<div class=\"box\"><h4>Universal gravitation</h4>F = G m1 m2 / r squared</div><p>Every mass pulls every other mass. The pull grows with the masses and falls with the <b>square</b> of the distance. Double the distance and the force drops to one-quarter.</p><p>G is a tiny constant, 6.67 x 10 to the power -11 in SI units. Henry Cavendish first measured it in 1798 with a delicate torsion balance. Gravity between everyday objects is too weak to notice; it only shows up when one body is as big as a planet."
+   "b": "<div class=\"box\"><h4>Universal gravitation</h4>F = G m1 m2 / r squared</div><p>Here F is the force in newtons, m1 and m2 the two masses in kilograms, r the distance between their centres in metres, and G the gravitation constant.</p><p>Every mass pulls every other mass. The pull grows with the masses and falls with the <b>square</b> of the distance. Double the distance and the force drops to one-quarter.</p><p>G is a tiny constant, 6.67 x 10 to the power -11 in SI units. Henry Cavendish first measured it in 1798 with a delicate torsion balance. Gravity between everyday objects is too weak to notice; it only shows up when one body is as big as a planet."
   },
   {
    "tag": "Concept",
    "h": "Why g = 9.8 m/s squared",
-   "b": "<p>At the surface, a mass m feels F = G M m / R squared. Dividing by m gives the acceleration:</p><div class=\"box\"><h4>Surface gravity</h4>g = G M / R squared</div><p>For Earth, M is about 6 x 10 to the power 24 kg and R about 6.4 x 10 to the power 6 m, giving g near 9.8. Move higher and g shrinks with distance squared: at a height equal to Earth's radius (r = 2R), g is one-quarter. The Moon, with less mass and smaller size, has g of about 1.6, roughly one-sixth of Earth's."
+   "b": "<p>At the surface, a mass m feels F = G M m / R squared. Dividing by m gives the acceleration:</p><div class=\"box\"><h4>Surface gravity</h4>g = G M / R squared</div><p>Here g is the surface gravity in metres per second squared, G the gravitation constant, M the planet's mass in kilograms and R its radius in metres.</p><p>For Earth, M is about 6 x 10 to the power 24 kg and R about 6.4 x 10 to the power 6 m, giving g near 9.8. Move higher and g shrinks with distance squared: at a height equal to Earth's radius (r = 2R), g is one-quarter. The Moon, with less mass and smaller size, has g of about 1.6, roughly one-sixth of Earth's."
   },
   {
    "tag": "Concept",
@@ -47,6 +47,11 @@
    "tag": "Indian angle",
    "h": "Aryabhata, from astronomer to satellite",
    "b": "<p>The astronomer Aryabhata (born 476 CE) wrote in the <i>Aryabhatiya</i> that the Earth rotates on its axis, explaining the apparent motion of stars. India's first satellite, launched by the Soviet Union on 19 April 1975, was named Aryabhata in his honour.</p><p>Today India's INSAT and GSAT satellites sit in geostationary orbit at about 36,000 km, and Mangalyaan reached Mars orbit on 24 September 2014 on India's first try, using a gravity-assisted path planned with exactly these laws."
+  },
+  {
+   "tag": "Go deeper",
+   "h": "Weighing the Earth with the Moon",
+   "b": "<p>Henry Cavendish first measured G in 1798, and so weighed the Earth. You can do a version of the same job with the Moon. The Moon's orbit tells you the mass of the body it circles, because gravity supplies the pull that keeps the Moon curving round.</p><p>For a circular orbit, gravity supplies the centripetal force. Setting G x M x m / r squared equal to m x 4 x pi squared x r / T squared gives M = 4 x pi squared x r cubed / (G x T squared).</p><p>Trap: the period must be in seconds and the radius in metres. Mixing days and kilometres gives an answer that is wrong by a huge factor. </p><div class=\"box\"><h4>Worked example: Earth's mass from the Moon's orbit</h4><p>Step 1: Moon's orbit radius r = 3.84 x 10 to the power 8 m<br>Step 2: Moon's period T = 27.3 days = 27.3 x 86,400 s = 2.36 x 10 to the power 6 s<br>Step 3: r cubed = 5.66 x 10 to the power 25 m cubed<br>Step 4: T squared = 5.56 x 10 to the power 12 s squared<br>Step 5: M = 39.5 x 5.66 x 10 to the power 25 / (6.67 x 10 to the power -11 x 5.56 x 10 to the power 12)<br>Step 6: M = 2.24 x 10 to the power 27 / 371 = 6.0 x 10 to the power 24 kg<br>Answer: about 6 x 10 to the power 24 kg, the accepted mass of the Earth.</p></div>"
   },
   {
    "tag": "Recap",
