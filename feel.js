@@ -54,11 +54,19 @@ function buzz(k){if(!on('hap'))return;const seq=SEQ[k];if(!seq)return;
   /* fallback: stitch the steps into one vibrate pattern */
   try{if(!navigator.vibrate)return;const pat=[];let at=0;seq.forEach(([t,d])=>{const v=FB[t],on_=Array.isArray(v)?v.reduce((x,y)=>x+y,0):v;if(d>at){if(pat.length)pat.push(d-at);else pat.push(0)}else if(pat.length)pat.push(10);pat.push(on_);at=d+on_});
     if(pat[0]===0)pat.shift();navigator.vibrate(pat)}catch(e){}}
-window.Feel={play(k){if(k==='tap'&&this._t&&performance.now()-this._t<40)return;this._t=performance.now();buzz(k);const f=SND[k];if(f)try{f()}catch(e){}},
+function diag(){const H=window.Capacitor&&Capacitor.Plugins&&Capacitor.Plugins.Haptics,L=[];
+  L.push('Sound switch: '+(on('snd')?'on':'off')+' · Vibration switch: '+(on('hap')?'on':'off'));
+  L.push('Audio: '+(ctx?ctx.state:(window.AudioContext||window.webkitAudioContext?'not started yet':'not supported')));
+  L.push('Native haptics plugin: '+(H?'found':'not found (needs the newest app)'));
+  L.push('Browser vibrate: '+(navigator.vibrate?'available':'not available'));
+  L.push('Inside the app: '+(window.Capacitor&&Capacitor.isNativePlatform&&Capacitor.isNativePlatform()?'yes':'no'));return L.join('\n')}
+window.Feel={diag,play(k){if(k==='tap'&&this._t&&performance.now()-this._t<40)return;this._t=performance.now();buzz(k);const f=SND[k];if(f)try{f()}catch(e){}},
   get snd(){return on('snd')},get hap(){return on('hap')},
   set(k,v){ls.set('lb:'+k,v?'1':'0');if(v)this.play('tap')}};
-/* unlock audio on the first touch (browsers require a gesture) */
-addEventListener('pointerdown',()=>{if(on('snd'))ac()},{once:true,passive:true});
+/* unlock audio on every gesture until the browser lets it run (Android WebView can be strict) */
+function unlock(){if(!on('snd'))return;const c=ac();if(!c)return;try{const b=c.createBuffer(1,1,22050),s=c.createBufferSource();s.buffer=b;s.connect(c.destination);s.start(0)}catch(e){}
+  if(c.state==='running'){['pointerdown','touchend','click','keydown'].forEach(t=>removeEventListener(t,unlock,true))}}
+['pointerdown','touchend','click','keydown'].forEach(t=>addEventListener(t,unlock,{capture:true,passive:true}));
 /* light feedback on common controls */
 document.addEventListener('click',e=>{const t=e.target.closest('button,.opt,.choice,.pick,.me-weak,.me-sub');if(!t||t.classList.contains('opt'))return;Feel.play('tap')},{passive:true});
 })();
