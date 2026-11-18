@@ -145,10 +145,10 @@ async function openL(id,card){
     if(info){const sh=info.dia?'card':SH[(k+off)%SH.length];ph=photo(key,sh);cr=credit(key);
       /* rectangles sit above or below the text; floated shapes sit inside it and let the text wrap */
       const inText=/^(sq|semi|tall)/.test(sh);
-      h+=`<div class="cd"><div class="ci marble ${c.cls||''}">${inText?'':((k+off)%3===2?'':ph)}<div class="cb">${inText?ph:''}<div class="tag">${c.tag}</div><h2>${c.h}</h2>${c.b}</div>${!inText&&(k+off)%3===2?ph:''}${cr}</div></div>`;return}
+      h+=`<div class="cd"><div class="ci marble ${c.cls||''}">${inText?'':((k+off)%3===2?'':ph)}<div class="cb">${inText?ph:''}<div class="tag">${c.tag}</div><h2>${c.h}</h2>${window.mathify?mathify(c.b):c.b}</div>${!inText&&(k+off)%3===2?ph:''}${cr}</div></div>`;return}
     /* no photo: a doodle goes above the title */
     const nm=have.includes(key)?key:(pool.length?pool[(k+1)%pool.length]:'');d=nm?ldood(nm,'dd pt'):'';
-    h+=`<div class="cd"><div class="ci marble ${c.cls||''}"><div class="cb">${d}<div class="tag">${c.tag}</div><h2>${c.h}</h2>${c.b}</div></div></div>`});
+    h+=`<div class="cd"><div class="ci marble ${c.cls||''}"><div class="cb">${d}<div class="tag">${c.tag}</div><h2>${c.h}</h2>${window.mathify?mathify(c.b):c.b}</div></div></div>`});
   const pq=PYQ[id];
   if(pq&&pq.length)h+=`<div class="cd"><div class="ci marble"><div class="tag">Asked in UPSC</div><h2>Previous year questions</h2>${pq.map(x=>`<blockquote class="pyq">${esc(x.q)}<small>${x.y} · ${esc(x.p)}${x.m?' · '+x.m+' marks':''}</small></blockquote>`).join('')}</div></div>`;
   l.quiz.forEach((q,i)=>h+=`<div class="cd"><div class="ci marble"><div class="tag">${q._t?esc(q._t):`Question ${i+1} of ${l.quiz.length}`}</div><div class="qq">${fmtQ(q.q)}</div>${q.o.map((o,j)=>`<button class="opt" data-q="${i}" data-j="${j}">${o}</button>`).join('')}<div class="why" id="w${i}"></div></div></div>`);
