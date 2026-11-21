@@ -29,12 +29,12 @@ const endPose=f=>f>=.999?'sunglasses-2':f>=.8?'streak-1':f>=.6?'expressions-angl
 const LEVELS=[[0,'Beginner'],[100,'Learner'],[300,'Student'],[700,'Scholar'],[1500,'Adept'],[3000,'Expert'],[6000,'Master'],[12000,'Sage']];
 const lvlOf=xp=>{let i=0;while(i+1<LEVELS.length&&xp>=LEVELS[i+1][0])i++;const a=LEVELS[i][0],b=LEVELS[i+1]?LEVELS[i+1][0]:null;return{n:i+1,name:LEVELS[i][1],xp,next:b,pct:b?Math.round((xp-a)/(b-a)*100):100}};
 function allS(){return SUBJ.map(s=>{let p=null;try{p=JSON.parse(ls.get(s.store||('polis:'+s.id))||'null')}catch(e){}return{s,p:p||{}}})}
-function stats(){const all=allS(),days=new Set();let lessons=0,perfect=0,tests=0,tests80=0,learned=0,xp=0,rv=0,mixN=0,mixBest=0,subs=0;
-  all.forEach(({p})=>{(p.days||[]).forEach(d=>days.add(d));const dn=Object.keys(p.done||{}).length;lessons+=dn;if(dn)subs++;
+function stats(){const all=allS(),days=new Set();const dcs=new Set();let lessons=0,perfect=0,tests=0,tests80=0,learned=0,xp=0,rv=0,mixN=0,mixBest=0,subs=0;
+  all.forEach(({p})=>{(p.days||[]).forEach(d=>days.add(d));(p.dc||[]).forEach(d=>dcs.add(d));const dn=Object.keys(p.done||{}).length;lessons+=dn;if(dn)subs++;
     perfect+=Object.values(p.scores||{}).filter(v=>v>=.999).length;Object.values(p.tests||{}).forEach(v=>{tests++;if(v>=.8)tests80++});
     learned+=(p.rev||[]).filter(r=>r.step>=4).length;xp+=p.xp||0;rv+=p.rv||0;mixN+=p.mixN||0;mixBest=Math.max(mixBest,p.mixBest||0)});
   const best=runs().best;
-  return{lessons,perfect,tests,tests80,learned,xp,rv,mixN,mixBest,subs,best}}
+  return{lessons,perfect,tests,tests80,learned,xp,rv,mixN,mixBest,subs,best,dcN:dcs.size}}
 const BADGES=[
  ['first','First Step','Finish your first lesson','✦','b',A=>A.lessons>=1],
  ['l10','Getting Serious','Finish 10 lessons','✎','b',A=>A.lessons>=10],
@@ -65,14 +65,17 @@ const BADGES=[
  ['t20','Examiner\'s Nightmare','Score 80% or more on 20 chapter tests','','l',A=>A.tests80>=20],
  ['mx100','Perfect Mix','Score 100% on a mixed test','','l',A=>A.mixBest>=.999],
  ['sub11','Omniscient','Finish lessons in all 11 subjects','','l',A=>A.subs>=11],
- ['x10000','Mythic','Earn 10000 XP','','l',A=>A.xp>=10000]];
+ ['x10000','Mythic','Earn 10000 XP','','l',A=>A.xp>=10000],
+ ['dc1','Daily Driver','Finish your first daily challenge','☀','b',A=>A.dcN>=1],
+ ['dc7','Daily Habit','Finish 7 daily challenges','☀','s',A=>A.dcN>=7],
+ ['dc30','Daily Legend','Finish 30 daily challenges','','l',A=>A.dcN>=30]];
 /* quiz question text: intro line, numbered statements on their own rows, and the closing ask */
 function fmtQ(t){return String(t).split('\n').map(x=>x.trim()).filter(Boolean).map(x=>{const m=x.match(/^((?:\d+|[A-D]|[IVX]+|Statement[- ]?(?:I{1,2}|[12]))[.):]?)\s+(.*)$/i);return m?`<div class="qs"><i>${m[1]}</i><span>${m[2]}</span></div>`:`<p>${x}</p>`}).join('')}
 /* a different Lumen picture for every badge (used in the pop-up and on legendary stickers) */
 const BADGEPOSE={first:'rewards-1',l10:'study-4',l25:'study-2',l100:'rewards-5',s3:'streak-1',s7:'streak-6',s30:'daily-5',p1:'sunglasses-2',p10:'expressions-front-5',t1:'review-3',t5:'study-5',r1:'review-1',r10:'review-2',r50:'misc-2',m1:'expressions-front-4',m80:'study-1',sub3:'subjects-a-3',sub6:'subjects-b-1',x500:'rewards-4',x3000:'misc-4',
- l250:'review-5',l500:'review-6',s60:'streak-4',s100:'streak-5',p50:'review-4',r200:'study-6',t20:'rewards-3',mx100:'rewards-2',sub11:'rewards-6',x10000:'misc-1'};window.BADGEPOSE=BADGEPOSE;
+ l250:'review-5',l500:'review-6',s60:'streak-4',s100:'streak-5',p50:'review-4',r200:'study-6',t20:'rewards-3',mx100:'rewards-2',sub11:'rewards-6',x10000:'misc-1',dc1:'daily-1',dc7:'daily-5',dc30:'misc-3'};window.BADGEPOSE=BADGEPOSE;
 /* progress towards each badge: [stat, target] so Challenges can show "7 of 10" */
-const BPROG={first:['lessons',1],l10:['lessons',10],l25:['lessons',25],l100:['lessons',100],s3:['best',3],s7:['best',7],s30:['best',30],p1:['perfect',1],p10:['perfect',10],t1:['tests80',1],t5:['tests',5],r1:['rv',1],r10:['learned',10],r50:['learned',50],m1:['mixN',1],m80:['mixBest',.8],sub3:['subs',3],sub6:['subs',6],x500:['xp',500],x3000:['xp',3000],l250:['lessons',250],l500:['lessons',500],s60:['best',60],s100:['best',100],p50:['perfect',50],r200:['learned',200],t20:['tests80',20],mx100:['mixBest',1],sub11:['subs',11],x10000:['xp',10000]};
+const BPROG={first:['lessons',1],l10:['lessons',10],l25:['lessons',25],l100:['lessons',100],s3:['best',3],s7:['best',7],s30:['best',30],p1:['perfect',1],p10:['perfect',10],t1:['tests80',1],t5:['tests',5],r1:['rv',1],r10:['learned',10],r50:['learned',50],m1:['mixN',1],m80:['mixBest',.8],sub3:['subs',3],sub6:['subs',6],x500:['xp',500],x3000:['xp',3000],l250:['lessons',250],l500:['lessons',500],s60:['best',60],s100:['best',100],p50:['perfect',50],r200:['learned',200],t20:['tests80',20],mx100:['mixBest',1],sub11:['subs',11],x10000:['xp',10000],dc1:['dcN',1],dc7:['dcN',7],dc30:['dcN',30]};
 function badgeState(){const A=stats();return{A,level:lvlOf(A.xp),all:BADGES.map(b=>{const pr=BPROG[b[0]]||[null,1],cur=pr[0]?Math.min(A[pr[0]]||0,pr[1]):0;return{id:b[0],t:b[1],d:b[2],g:b[3],tier:b[4],got:b[5](A),cur,need:pr[1],unit:pr[0]}})}}
 window.badgeState=badgeState;
 function toast(h){let t=document.getElementById('toasts');if(!t){t=document.createElement('div');t.id='toasts';document.body.appendChild(t)}
@@ -125,7 +128,7 @@ function renderHome(){
   rv.hidden=!due;if(due)rv.innerHTML=`<span class="ltile">${LUM('review-1')}</span><div><div class="day">Review</div><b>${due} question${due==1?'':'s'} you missed</b><small>About ${Math.max(1,Math.round(due*.4))} min · they come back until they stick</small></div><span class="go">Start</span>`;
   const mx=document.getElementById('mix'),nd=Object.keys(S.done).filter(i=>!i.endsWith('-T')).length;
   mx.hidden=nd<3;if(nd>=3)mx.innerHTML=`<span class="ltile">${LUM('review-6')}</span><div><div class="day">Mixed revision</div><b>20 questions from everything so far</b><small>${S.mixBest?'Best '+Math.round(S.mixBest*100)+'% · ':''}+20 bonus XP</small></div><span class="go">Start</span>`;
-  renderLevel();renderLumen();
+  renderLevel();renderLumen();window.renderExtras&&renderExtras();
   let h='',num=0;
   MAP.forEach((p,pi)=>{h+=`<div class="sec"><h3>${p.t}</h3><p>${p.p}</p></div>`;
     p.units.forEach((u,ui)=>{const live=u[1].some((_,k)=>IDX[`${pi}-${ui}-${k}`]);
@@ -152,7 +155,7 @@ function photo(key,shape){const i=phInfo(key);if(!i)return '';const sh=i.dia?'ca
 function credit(key){const i=phInfo(key);return i?`<p class="imgcr">Image: <a href="${i.p.page}" target="_blank" rel="noopener">${i.c}</a></p>`:''}
 async function openL(id,card){
   let l;try{l=await getLesson(id)}catch(e){alert('This lesson could not load. Check your connection and try again.');return}
-  cur=id;lastI=-1;window.Feel&&Feel.play('start');if(!/^(REVIEW|MIX)$|-T$/.test(id))ls.set('lb:last',JSON.stringify({s:SUB.id,id,t:l.title,ts:Date.now(),card:-1}));
+  cur=id;lastI=-1;window.Feel&&Feel.play('start');if(!/^(REVIEW|MIX|DAILY)$|-T$/.test(id))ls.set('lb:last',JSON.stringify({s:SUB.id,id,t:l.title,ts:Date.now(),card:-1}));
   const cp=photo(id,'big');
   let h=`<div class="cd"><div class="ci marble cover">${id.endsWith('-T')?LUM('review-3','lumcov'):''}${id.endsWith('-T')?'':(cp||dlib(DMAP[SUB.id+'/'+id],'dd big')||`<div class="em">${l.emoji}</div>`)}<div class="tag">${unitOf(id)}</div><h2>${l.title}</h2><p class="hint">Swipe left to begin</p>${cp?credit(id):''}</div></div>`;
   const have=(DOODLES.lessons||{})[SUB.id]||[],pool=have.filter(n=>n===id||n.startsWith(id+'_')),POS=['r','b','t','l','b','r','l','t'],off=[...id].reduce((x,ch)=>x+ch.charCodeAt(0),0);
@@ -185,12 +188,14 @@ function meter(sc,n,f){const C=(2*Math.PI*54).toFixed(1),tier=f>=.8?'gold':f>=.6
   return `<div class="endhead">${LUM(endPose(f),'qres')}<div class="meter ${tier}"><svg viewBox="0 0 140 140" aria-hidden="true"><circle class="trk" cx="70" cy="70" r="54"/><circle class="arc" id="mArc" cx="70" cy="70" r="54" stroke-dasharray="${C}" stroke-dashoffset="${C}" transform="rotate(-90 70 70)"/></svg><div class="mc"><b id="scN">0</b><small>of ${n}</small></div><span class="pc">${Math.round(f*100)}%</span></div></div>
   <div class="dots">${dots}</div>${first!==undefined?`<button class="linkbtn rv" onclick="goQ(${first})">See what I missed</button>`:''}`}
 function animMeter(f){const a=document.getElementById('mArc');if(!a)return;const C=parseFloat(a.getAttribute('stroke-dasharray'));a.style.strokeDashoffset=C*(1-f)}
-function finish(){const sc=Object.values(ans).filter(Boolean).length,n=L[cur].quiz.length,f=sc/n,lv0=lvlOf(stats().xp).n;let xp=0,title,msg;
+function finish(){const sc=Object.values(ans).filter(Boolean).length,n=L[cur].quiz.length,f=sc/n,lv0=lvlOf(stats().xp).n;let xp=0,title,msg;const firstLesson=!/^(REVIEW|MIX|DAILY)$|-T$/.test(cur)&&!S.done[cur];
   if(!S.days.includes(today())){xp+=10;S.days.push(today())}
   if(cur==='REVIEW'){xp+=3*sc;S.rv=(S.rv||0)+1;const left=n-sc;title=left?'Getting there':'All of them, first try';msg=left?`${left} will come back tomorrow. The rest return in a few days, then a week, then three weeks.`:'These return in a few days to make sure they stay.'}
+  else if(cur==='DAILY'){xp+=25+5*sc+(sc===n?15:0);S.dc=[...new Set([...(S.dc||[]),today()])];title=sc===n?'A perfect day':sc>=n-1?'Daily challenge done':'Done for today';msg=sc===n?'Five for five. Come back tomorrow for a new set.':'The ones you missed go into your review. A new set arrives tomorrow.'}
   else if(cur==='MIX'){xp+=20+4*sc;S.mixBest=Math.max(S.mixBest||0,f);S.mixN=(S.mixN||0)+1;title=f>=.8?'Sharp recall':f>=.6?'Holding steady':'Rusty in places';msg=f>=.8?'That is what lasting memory looks like.':'The ones you missed will come back in your reviews.'}
   else{if(cur.endsWith('-T')){xp+=10+4*sc;S.tests=S.tests||{};S.tests[cur]=Math.max(f,S.tests[cur]||0)}else{xp+=S.done[cur]?5+2*sc:30+5*sc;S.done[cur]=1;S.scores[cur]=f}
     title=f>=.8?'Laurels earned':f>=.6?'Solid work':'Worth another read';msg=f>=.8?'You know this well enough to write on it.':f>=.6?'Skim the cards you missed once more.':'Come back to this one tomorrow.'}
+  S.log=S.log||{};{const lg=S.log[today()]=S.log[today()]||{l:0,xp:0,a:0,n:0};lg.xp+=xp;lg.a+=sc;lg.n+=n;if(firstLesson)lg.l++}
   S.xp=(S.xp||0)+xp;save();pushSync();window.Feel&&Feel.play(f>=.6?'done':'tap');
   document.getElementById('end').innerHTML=`${meter(sc,n,f)}<h2 style="margin-top:6px">${title}</h2><p>${msg}</p>${xpLine(xp,lv0)}<button class="start" onclick="back()">Back to the syllabus</button>`;
   setTimeout(()=>{countUp(document.getElementById('scN'),sc);animMeter(f)},300);
@@ -200,7 +205,7 @@ let lastI=-1;
 function upd(){const n=deck.children.length,i=Math.round(deck.scrollLeft/deck.clientWidth),nc=window.LCOUNT||0,nq=(L[cur]&&L[cur].quiz.length)||0;curCard=i-1;
   const pg=document.getElementById('pg'),pr=pg.parentNode;pg.style.width=((i+1)/n*100)+'%';pr.style.setProperty('--split',nc?((nc+1)/n*100)+'%':'-9px');pr.classList.toggle('inq',i>nc);
   document.getElementById('cnt').textContent=i===0?(nc?nc+' cards':nq+' questions'):i<=nc?`Card ${i}/${nc}`:i<=nc+nq?`Question ${i-nc}/${nq}`:'Done';
-  if(i!==lastI){lastI=i;window.Feel&&Feel.play('swipe');if(nc&&i>=1&&i<=nc&&!/^(REVIEW|MIX)$|-T$/.test(cur)){try{const l=JSON.parse(ls.get('lb:last')||'{}');if(l.id===cur){l.card=i-1;ls.set('lb:last',JSON.stringify(l))}}catch(e){}}}}
+  if(i!==lastI){lastI=i;window.Feel&&Feel.play('swipe');if(nc&&i>=1&&i<=nc&&!/^(REVIEW|MIX|DAILY)$|-T$/.test(cur)){try{const l=JSON.parse(ls.get('lb:last')||'{}');if(l.id===cur){l.card=i-1;ls.set('lb:last',JSON.stringify(l))}}catch(e){}}}}
 let _u=0;deck.addEventListener('scroll',()=>{if(_u)return;_u=requestAnimationFrame(()=>{_u=0;upd()})},{passive:true});
 /* ---------- motion helpers: every screen change crossfades smoothly ---------- */
 const CALM=matchMedia('(prefers-reduced-motion: reduce)').matches;

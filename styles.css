@@ -650,3 +650,20 @@ body:not([data-view="home"]) .lhl figure,body:not([data-view="home"]) .lhl figur
 .fz{display:inline-block;margin-left:6px;padding:1px 7px;border-radius:999px;font:600 11px var(--font-body);background:rgba(160,215,255,.18);border:1px solid rgba(160,215,255,.4);color:#cfeaff;vertical-align:middle}
 .fz.warn{background:rgba(255,200,100,.18);border-color:rgba(255,200,100,.5);color:#ffe2a6;animation:pulse 2.2s ease-in-out infinite}
 .fz[hidden]{display:none}
+
+/* daily challenge done state, recap and share modals */
+.revcard.isdone{opacity:.62;filter:saturate(.6)}
+button.badge{font:inherit;color:inherit;text-align:center;cursor:pointer;width:100%}
+.xm{position:fixed;inset:0;z-index:60;display:flex;align-items:flex-end;justify-content:center;background:rgba(0,0,0,.66);animation:fade .2s both}
+.xm-in{position:relative;width:min(100%,520px);max-height:90svh;overflow-y:auto;padding:26px 22px calc(26px + env(safe-area-inset-bottom));border-radius:28px 28px 0 0}
+.xm-x{position:absolute;top:12px;right:12px}
+.rc-top{display:flex;align-items:center;gap:14px;margin-bottom:12px}.rc-top h2{margin:0;font-size:22px}
+.rc-grid{display:grid;grid-template-columns:1fr 1fr;gap:10px;margin:10px 0 14px}
+.rc-grid div{padding:14px;border-radius:16px;background:rgba(168,121,42,.1);text-align:center}.rc-grid b{display:block;font:700 30px var(--font-display);line-height:1.1}.rc-grid small{font-size:12.5px;opacity:.75}
+.rc-grid i{font-style:normal;font-weight:700;margin-left:4px}.rc-grid i.up{color:#2f7a45}.rc-grid i.dn{color:#a3362a}
+.rc-dots{display:flex;justify-content:center;gap:8px;margin:2px 0 14px}.rc-dots span{width:22px;height:22px;border-radius:50%;background:rgba(0,0,0,.12)}.rc-dots span.on{background:var(--goldd,#a8792a)}
+.rc-line{margin:6px 0;font-size:15px}.rc-line em{font-style:normal;font-weight:700;color:var(--goldd,#a8792a)}.rc-none{opacity:.8;margin:10px 0 16px}
+.rc-btns{display:flex;flex-direction:column;gap:10px;align-items:center;margin-top:16px}.rc-btns .start{width:100%}
+.shr-prev{display:grid;place-items:center;min-height:200px;margin:8px 0}.shr-prev img{width:min(100%,360px);height:auto;border-radius:18px;box-shadow:0 14px 34px rgba(0,0,0,.3)}.shr-h{margin:0 0 4px}
+.xm-in{background:var(--card);color:var(--ink);animation:up .4s var(--ease) both;box-shadow:0 -20px 60px rgba(0,0,0,.4)}
+.xm-in .tag{margin-bottom:2px}.xm-in h2{color:var(--ink)}
