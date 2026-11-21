@@ -645,3 +645,8 @@ body:not([data-view="home"]) .lhl figure,body:not([data-view="home"]) .lhl figur
 .ddpair .dd.dp:nth-child(2){margin-top:14px}
 .ddpair.big{width:clamp(200px,66vw,280px);margin-bottom:10px}
 .dd.pt{width:clamp(110px,36vw,150px);height:clamp(110px,36vw,150px)}
+
+/* streak freeze chip */
+.fz{display:inline-block;margin-left:6px;padding:1px 7px;border-radius:999px;font:600 11px var(--font-body);background:rgba(160,215,255,.18);border:1px solid rgba(160,215,255,.4);color:#cfeaff;vertical-align:middle}
+.fz.warn{background:rgba(255,200,100,.18);border-color:rgba(255,200,100,.5);color:#ffe2a6;animation:pulse 2.2s ease-in-out infinite}
+.fz[hidden]{display:none}

@@ -33,7 +33,7 @@ function stats(){const all=allS(),days=new Set();let lessons=0,perfect=0,tests=0
   all.forEach(({p})=>{(p.days||[]).forEach(d=>days.add(d));const dn=Object.keys(p.done||{}).length;lessons+=dn;if(dn)subs++;
     perfect+=Object.values(p.scores||{}).filter(v=>v>=.999).length;Object.values(p.tests||{}).forEach(v=>{tests++;if(v>=.8)tests80++});
     learned+=(p.rev||[]).filter(r=>r.step>=4).length;xp+=p.xp||0;rv+=p.rv||0;mixN+=p.mixN||0;mixBest=Math.max(mixBest,p.mixBest||0)});
-  const sorted=[...days].sort();let best=0,run=0,prev=null;sorted.forEach(d=>{const t=Date.parse(d);run=prev!==null&&Math.round((t-prev)/864e5)===1?run+1:1;prev=t;best=Math.max(best,run)});
+  const best=runs().best;
   return{lessons,perfect,tests,tests80,learned,xp,rv,mixN,mixBest,subs,best}}
 const BADGES=[
  ['first','First Step','Finish your first lesson','✦','b',A=>A.lessons>=1],
@@ -92,7 +92,19 @@ let ids=[];
 const ds=d=>`${d.getFullYear()}-${String(d.getMonth()+1).padStart(2,'0')}-${String(d.getDate()).padStart(2,'0')}`;const today=()=>ds(new Date());
 /* A study day in ANY subject counts: the main streak is across all subjects (dates use this phone's own clock). */
 function allDays(){const set=new Set(S.days);try{allS().forEach(({p})=>(p.days||[]).forEach(d=>set.add(d)))}catch(e){}return set}
-function streak(){let n=0,d=new Date();const set=allDays();if(!set.has(ds(d)))d.setDate(d.getDate()-1);while(set.has(ds(d))){n++;d.setDate(d.getDate()-1)}return n}
+/* Streak with freezes. Worked out from your study days alone (so it syncs for free).
+   Every 7 days in a row earns a freeze (keep up to 2). One missed day is covered by a freeze if you have one. */
+function runs(){const days=[...allDays()].sort(),T=d=>Date.parse(d);let run=0,best=0,bank=0,prev=null;const used=[];
+  for(const d of days){if(prev){const gap=Math.round((T(d)-T(prev))/864e5);
+      if(gap===1)run++;else if(gap===2&&bank>0){bank--;used.push(ds(new Date(T(prev)+864e5)));run++}else run=1}
+    else run=1;
+    if(run%7===0&&prev!==null||run===7)bank=Math.min(2,bank+1);
+    best=Math.max(best,run);prev=d}
+  let cur=0,pending=false;
+  if(prev){const gap=Math.round((T(today())-T(prev))/864e5);
+    if(gap<=1)cur=run;else if(gap===2&&bank>0){cur=run;pending=true}}
+  return{cur,best,bank,used,pending}}
+function streak(){return runs().cur}
 const unitOf=id=>{const [p,u]=id.split('-');return MAP[p]?MAP[p].units[u][0]:'Review'};
 const esc=s=>String(s).replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
 const wreath=`<svg class="wreath" viewBox="0 0 200 110"><g style="fill:var(--goldd)">${[...Array(9)].map((_,i)=>{const a=(200-i*16)*Math.PI/180,x=100+70*Math.cos(a),y=100-70*Math.sin(a)*0.9;return `<ellipse cx="${x}" cy="${y}" rx="5" ry="12" transform="rotate(${-(200-i*16)+90} ${x} ${y})"/>`}).join('')}${[...Array(9)].map((_,i)=>{const a=(-20+i*16)*Math.PI/180,x=100+70*Math.cos(a),y=100-70*Math.sin(a)*0.9;return `<ellipse cx="${x}" cy="${y}" rx="5" ry="12" transform="rotate(${-(-20+i*16)+90} ${x} ${y})"/>`}).join('')}</g></svg>`;
@@ -100,7 +112,11 @@ const wreath=`<svg class="wreath" viewBox="0 0 200 110"><g style="fill:var(--gol
 function renderHome(){
   const done=Object.keys(S.done).length;
   document.getElementById('sDone').firstChild.textContent=done;document.querySelector('#sDone small').textContent=done==1?'lesson':'lessons';
-  document.getElementById('sStreak').firstChild.textContent=streak();
+  const ri=runs();document.getElementById('sStreak').firstChild.textContent=ri.cur;
+  {let fz=document.getElementById('fzchip');if(!fz){fz=document.createElement('span');fz.id='fzchip';document.getElementById('sStreak').appendChild(fz)}
+   fz.className='fz'+(ri.pending?' warn':'');fz.hidden=!ri.bank;fz.textContent='❄ '+ri.bank;fz.title=ri.pending?'A streak freeze will protect your streak when you study today':'Streak freezes: one missed day is covered';
+   const seen=(()=>{try{return JSON.parse(ls.get('lb:fzseen')||'[]')}catch(e){return[]}})(),fresh=ri.used.filter(d=>!seen.includes(d)&&Date.now()-Date.parse(d)<4*864e5);
+   if(fresh.length&&ri.cur>0){ls.set('lb:fzseen',JSON.stringify([...seen,...fresh]));setTimeout(()=>{window.Feel&&Feel.play('streak');toast(`<span class="ltile sm">${LUM('streak-1')}</span><span><small>Streak freeze used</small><b>Your ${ri.cur}-day streak survived</b></span>`)},900)}}
   const sc=Object.values(S.scores);document.getElementById('sAvg').firstChild.textContent=sc.length?Math.round(sc.reduce((a,b)=>a+b,0)/sc.length*100)+'%':'–';
   const next=ids.find(i=>IDX[i]&&!S.done[i]),t=document.getElementById('today');
   if(next){const n=ids.indexOf(next)+1;t.innerHTML=`<div class="day">Day ${n} of ${ids.length} · ${unitOf(next)}</div><h2>${IDX[next].title}</h2><p>${IDX[next].n} cards, then a ${IDX[next].q}-question quiz. About ${Math.round(IDX[next].n*1.5+IDX[next].q*0.5)} minutes.</p><button class="start" onclick="openL('${next}')">Start lesson</button>`}
