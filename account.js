@@ -43,7 +43,8 @@ function merge(a, b) {
   if (rev.size) o.rev = [...rev.values()];
   if (a.dc || b.dc) o.dc = [...new Set([...(a.dc || []), ...(b.dc || [])])].sort();
   { const log = {}; for (const src of [a.log || {}, b.log || {}]) for (const d in src) { const t = log[d] = log[d] || { l: 0, xp: 0, a: 0, n: 0 }; for (const k of ["l", "xp", "a", "n"]) t[k] = Math.max(t[k], src[d][k] || 0); } if (Object.keys(log).length) o.log = log; }
-  for (const k of ["xp", "rv", "mixN", "mixBest"]) { const v = Math.max(a[k] || 0, b[k] || 0); if (v) o[k] = v; }
+  { const sv = new Map(); for (const x of [...(a.sv || []), ...(b.sv || [])]) { const y = sv.get(x.key); if (!y || (x.ts || 0) > (y.ts || 0)) sv.set(x.key, x); } if (sv.size) o.sv = [...sv.values()]; }
+  for (const k of ["xp", "rv", "mixN", "mixBest", "blitzBest", "blitzN"]) { const v = Math.max(a[k] || 0, b[k] || 0); if (v) o[k] = v; }
   return o;
 }
 
@@ -241,6 +242,7 @@ async function openMe() {
     ${weak.length ? `<h3>Revise these</h3>${weak.slice(0, 5).map(w => `<button class="me-weak" data-s="${w.s.id}" data-u="${w.u}"><b>${esc(w.name)}</b><small>${w.s.title} · quiz ${Math.round(w.a * 100)}%</small><span>Revise →</span></button>`).join("")}` : ""}
     ${user ? `<h3>Your account</h3><button class="me-weak" id="delAcct"><b>Delete my account and data</b><small>Removes your sign-in, cloud progress and doubts</small><span>Delete →</span></button>` : ""}
     <h3>Share and recap</h3><button class="me-weak" id="rcOpen"><b>Weekly recap</b><small>Lessons, XP, your strongest and weakest subject</small><span>Open →</span></button><button class="me-weak" id="shStreak"><b>Share my streak</b><small>A picture of your streak to post</small><span>Share →</span></button>
+    ${(() => { const sv = SUBJ.flatMap(sj => (readLocal(sj).sv || []).filter(x => !x.x)).sort((x, y) => (y.ts || 0) - (x.ts || 0)); return sv.length ? `<h3>Saved cards <em class="cnt">${sv.length}</em></h3>${sv.slice(0, 20).map(x => `<button class="me-weak svc" data-sv="${esc(x.s)}|${esc(x.id)}|${x.k}"><b>${esc(x.h)}</b><small>${esc(x.t)}</small><span>Open →</span></button>`).join("")}` : `<h3>Saved cards</h3><p class="note">Tap the bookmark at the top of any card to keep it here.</p>`; })()}
     <h3>Feel</h3><div class="feel"><label><span><b>Sound effects</b><small>Soft chimes and ticks</small></span><input type="checkbox" id="fSnd" ${window.Feel && Feel.snd ? "checked" : ""}></label><label><span><b>Vibration</b><small>Taps on answers and rewards</small></span><input type="checkbox" id="fHap" ${window.Feel && Feel.hap ? "checked" : ""}></label><div class="fsl"><label for="fVol"><b>Volume</b><output id="fVolO">${window.Feel ? Feel.vol : 85}%</output></label><input type="range" id="fVol" min="0" max="100" step="5" value="${window.Feel ? Feel.vol : 85}"></div><div class="fsl"><label for="fHs"><b>Vibration strength</b><output id="fHsO">${window.Feel ? Feel.hs : 60}%</output></label><input type="range" id="fHs" min="0" max="100" step="5" value="${window.Feel ? Feel.hs : 60}"></div><button class="me-weak" id="fTest"><b>Test sound and vibration</b><small>Plays both and shows what this phone reports</small><span>Test →</span></button><pre class="fdiag" id="fDiag" hidden></pre></div>
     <h3>App</h3><button class="me-weak" id="rfBtn"><b>Refresh the app</b><small id="verTxt">Check for the newest version</small><span>Refresh →</span></button>
     <h3>Lost your progress?</h3><button class="me-weak" id="rsOpen"><b>Restore my progress</b><small>Tell the app how many lessons you had finished</small><span>Restore →</span></button>
@@ -253,6 +255,7 @@ async function openMe() {
   const sl = (id, key, play) => { const r = document.getElementById(id), o = document.getElementById(id + "O"); if (!r) return; const fill = () => r.style.setProperty("--p", r.value + "%"); fill(); r.oninput = () => { fill(); o.textContent = r.value + "%"; window.Feel && Feel.setLevel(key, +r.value); }; r.onchange = () => window.Feel && Feel.play(play); };
   sl("fVol", "vol", "good"); sl("fHs", "hs", "badge");
   { const ro = document.getElementById("rcOpen"), ss = document.getElementById("shStreak"); if (ro) ro.onclick = () => window.openRecap && openRecap(); if (ss) ss.onclick = () => window.shareStreak && shareStreak(); v.querySelectorAll(".badge[data-b]").forEach(b => b.onclick = () => window.shareBadge && shareBadge(b.dataset.b)); }
+  v.querySelectorAll(".svc").forEach(b => b.onclick = async () => { const [s, id, k] = b.dataset.sv.split("|"); await loadSubject(s); openL(id, +k); });
   const ft = document.getElementById("fTest");
   if (ft) ft.onclick = () => { window.Feel && (Feel.play("good"), setTimeout(() => Feel.play("badge"), 500)); const d = document.getElementById("fDiag"); d.hidden = false; d.textContent = window.Feel ? Feel.diag() : "feel.js did not load"; setTimeout(() => { d.textContent = window.Feel ? Feel.diag() : d.textContent; }, 900); };
   if (fh) fh.onchange = () => window.Feel && Feel.set("hap", fh.checked);
@@ -265,7 +268,7 @@ async function openMe() {
   const da = document.getElementById("delAcct"); if (da) da.onclick = deleteAccount;
   const ro = document.getElementById("rsOpen"); if (ro) ro.onclick = openRestore;
   v.querySelectorAll(".me-sub").forEach(b => b.onclick = async () => { await loadSubject(b.dataset.s); back(); });
-  v.querySelectorAll(".me-weak:not(#rsOpen):not(#delAcct):not(#rfBtn):not(#fTest):not(#rcOpen):not(#shStreak)").forEach(b => b.onclick = async () => { await loadSubject(b.dataset.s); const [p, u] = b.dataset.u.split("-"); openTest(+p, +u); });
+  v.querySelectorAll(".me-weak:not(#rsOpen):not(#delAcct):not(#rfBtn):not(#fTest):not(#rcOpen):not(#shStreak):not(.svc)").forEach(b => b.onclick = async () => { await loadSubject(b.dataset.s); const [p, u] = b.dataset.u.split("-"); openTest(+p, +u); });
   v.querySelectorAll(".me-doubt").forEach(b => b.onclick = async () => { if (!b.dataset.s || !b.dataset.l) return; await loadSubject(b.dataset.s); openL(b.dataset.l); });
 }
 window.openMe = openMe;

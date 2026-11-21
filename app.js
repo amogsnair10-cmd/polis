@@ -29,12 +29,12 @@ const endPose=f=>f>=.999?'sunglasses-2':f>=.8?'streak-1':f>=.6?'expressions-angl
 const LEVELS=[[0,'Beginner'],[100,'Learner'],[300,'Student'],[700,'Scholar'],[1500,'Adept'],[3000,'Expert'],[6000,'Master'],[12000,'Sage']];
 const lvlOf=xp=>{let i=0;while(i+1<LEVELS.length&&xp>=LEVELS[i+1][0])i++;const a=LEVELS[i][0],b=LEVELS[i+1]?LEVELS[i+1][0]:null;return{n:i+1,name:LEVELS[i][1],xp,next:b,pct:b?Math.round((xp-a)/(b-a)*100):100}};
 function allS(){return SUBJ.map(s=>{let p=null;try{p=JSON.parse(ls.get(s.store||('polis:'+s.id))||'null')}catch(e){}return{s,p:p||{}}})}
-function stats(){const all=allS(),days=new Set();const dcs=new Set();let lessons=0,perfect=0,tests=0,tests80=0,learned=0,xp=0,rv=0,mixN=0,mixBest=0,subs=0;
-  all.forEach(({p})=>{(p.days||[]).forEach(d=>days.add(d));(p.dc||[]).forEach(d=>dcs.add(d));const dn=Object.keys(p.done||{}).length;lessons+=dn;if(dn)subs++;
+function stats(){const all=allS(),days=new Set();const dcs=new Set();let blitzBest=0,lessons=0,perfect=0,tests=0,tests80=0,learned=0,xp=0,rv=0,mixN=0,mixBest=0,subs=0;
+  all.forEach(({p})=>{(p.days||[]).forEach(d=>days.add(d));(p.dc||[]).forEach(d=>dcs.add(d));blitzBest=Math.max(blitzBest,p.blitzBest||0);const dn=Object.keys(p.done||{}).length;lessons+=dn;if(dn)subs++;
     perfect+=Object.values(p.scores||{}).filter(v=>v>=.999).length;Object.values(p.tests||{}).forEach(v=>{tests++;if(v>=.8)tests80++});
     learned+=(p.rev||[]).filter(r=>r.step>=4).length;xp+=p.xp||0;rv+=p.rv||0;mixN+=p.mixN||0;mixBest=Math.max(mixBest,p.mixBest||0)});
   const best=runs().best;
-  return{lessons,perfect,tests,tests80,learned,xp,rv,mixN,mixBest,subs,best,dcN:dcs.size}}
+  return{lessons,perfect,tests,tests80,learned,xp,rv,mixN,mixBest,subs,best,dcN:dcs.size,blitzBest}}
 const BADGES=[
  ['first','First Step','Finish your first lesson','✦','b',A=>A.lessons>=1],
  ['l10','Getting Serious','Finish 10 lessons','✎','b',A=>A.lessons>=10],
@@ -68,21 +68,23 @@ const BADGES=[
  ['x10000','Mythic','Earn 10000 XP','','l',A=>A.xp>=10000],
  ['dc1','Daily Driver','Finish your first daily challenge','☀','b',A=>A.dcN>=1],
  ['dc7','Daily Habit','Finish 7 daily challenges','☀','s',A=>A.dcN>=7],
- ['dc30','Daily Legend','Finish 30 daily challenges','','l',A=>A.dcN>=30]];
+ ['dc30','Daily Legend','Finish 30 daily challenges','','l',A=>A.dcN>=30],
+ ['bz1','Quick Draw','Score 300 in a Blitz round','⚡','b',A=>A.blitzBest>=300],
+ ['bz2','Lightning','Score 800 in a Blitz round','⚡','s',A=>A.blitzBest>=800]];
 /* quiz question text: intro line, numbered statements on their own rows, and the closing ask */
 function fmtQ(t){return String(t).split('\n').map(x=>x.trim()).filter(Boolean).map(x=>{const m=x.match(/^((?:\d+|[A-D]|[IVX]+|Statement[- ]?(?:I{1,2}|[12]))[.):]?)\s+(.*)$/i);return m?`<div class="qs"><i>${m[1]}</i><span>${m[2]}</span></div>`:`<p>${x}</p>`}).join('')}
 /* a different Lumen picture for every badge (used in the pop-up and on legendary stickers) */
 const BADGEPOSE={first:'rewards-1',l10:'study-4',l25:'study-2',l100:'rewards-5',s3:'streak-1',s7:'streak-6',s30:'daily-5',p1:'sunglasses-2',p10:'expressions-front-5',t1:'review-3',t5:'study-5',r1:'review-1',r10:'review-2',r50:'misc-2',m1:'expressions-front-4',m80:'study-1',sub3:'subjects-a-3',sub6:'subjects-b-1',x500:'rewards-4',x3000:'misc-4',
- l250:'review-5',l500:'review-6',s60:'streak-4',s100:'streak-5',p50:'review-4',r200:'study-6',t20:'rewards-3',mx100:'rewards-2',sub11:'rewards-6',x10000:'misc-1',dc1:'daily-1',dc7:'daily-5',dc30:'misc-3'};window.BADGEPOSE=BADGEPOSE;
+ l250:'review-5',l500:'review-6',s60:'streak-4',s100:'streak-5',p50:'review-4',r200:'study-6',t20:'rewards-3',mx100:'rewards-2',sub11:'rewards-6',x10000:'misc-1',dc1:'daily-1',dc7:'daily-5',dc30:'misc-3',bz1:'sunglasses-6',bz2:'misc-5'};window.BADGEPOSE=BADGEPOSE;
 /* progress towards each badge: [stat, target] so Challenges can show "7 of 10" */
-const BPROG={first:['lessons',1],l10:['lessons',10],l25:['lessons',25],l100:['lessons',100],s3:['best',3],s7:['best',7],s30:['best',30],p1:['perfect',1],p10:['perfect',10],t1:['tests80',1],t5:['tests',5],r1:['rv',1],r10:['learned',10],r50:['learned',50],m1:['mixN',1],m80:['mixBest',.8],sub3:['subs',3],sub6:['subs',6],x500:['xp',500],x3000:['xp',3000],l250:['lessons',250],l500:['lessons',500],s60:['best',60],s100:['best',100],p50:['perfect',50],r200:['learned',200],t20:['tests80',20],mx100:['mixBest',1],sub11:['subs',11],x10000:['xp',10000],dc1:['dcN',1],dc7:['dcN',7],dc30:['dcN',30]};
+const BPROG={first:['lessons',1],l10:['lessons',10],l25:['lessons',25],l100:['lessons',100],s3:['best',3],s7:['best',7],s30:['best',30],p1:['perfect',1],p10:['perfect',10],t1:['tests80',1],t5:['tests',5],r1:['rv',1],r10:['learned',10],r50:['learned',50],m1:['mixN',1],m80:['mixBest',.8],sub3:['subs',3],sub6:['subs',6],x500:['xp',500],x3000:['xp',3000],l250:['lessons',250],l500:['lessons',500],s60:['best',60],s100:['best',100],p50:['perfect',50],r200:['learned',200],t20:['tests80',20],mx100:['mixBest',1],sub11:['subs',11],x10000:['xp',10000],dc1:['dcN',1],dc7:['dcN',7],dc30:['dcN',30],bz1:['blitzBest',300],bz2:['blitzBest',800]};
 function badgeState(){const A=stats();return{A,level:lvlOf(A.xp),all:BADGES.map(b=>{const pr=BPROG[b[0]]||[null,1],cur=pr[0]?Math.min(A[pr[0]]||0,pr[1]):0;return{id:b[0],t:b[1],d:b[2],g:b[3],tier:b[4],got:b[5](A),cur,need:pr[1],unit:pr[0]}})}}
 window.badgeState=badgeState;
 function toast(h){let t=document.getElementById('toasts');if(!t){t=document.createElement('div');t.id='toasts';document.body.appendChild(t)}
   const e=document.createElement('div');e.className='toast';e.innerHTML=h;t.appendChild(e);setTimeout(()=>{e.classList.add('out');setTimeout(()=>e.remove(),600)},CALM?3500:4200)}
 /* quiet=true records what is already earned without celebrating (first run, after sign-in) */
 function checkBadges(quiet){const st=badgeState(),got=st.all.filter(b=>b.got).map(b=>b.id);let seen=null;try{seen=JSON.parse(ls.get('lb:badges')||'null')}catch(e){}
-  if(seen&&!quiet)st.all.filter(b=>b.got&&!seen.includes(b.id)).forEach((b,i)=>setTimeout(()=>{window.Feel&&Feel.play('badge');toast(`<span class="ltile sm">${LUM(BADGEPOSE[b.id]||'rewards-2')}</span><span><small>${b.tier==='l'?'Legendary badge':'New badge'}</small><b>${b.t}</b></span>`)},i*900));
+  if(seen&&!quiet)st.all.filter(b=>b.got&&!seen.includes(b.id)).forEach((b,i)=>setTimeout(()=>{window.Feel&&Feel.play('badge');window.confetti&&confetti(b.tier==='l'?170:b.tier==='g'?110:50);toast(`<span class="ltile sm">${LUM(BADGEPOSE[b.id]||'rewards-2')}</span><span><small>${b.tier==='l'?'Legendary badge':'New badge'}</small><b>${b.t}</b></span>`)},i*900));
   ls.set('lb:badges',JSON.stringify([...new Set([...(seen||[]),...got])]));renderLevel()}
 window.checkBadges=checkBadges;
 function renderLevel(){const el=document.getElementById('lvl');if(!el)return;const v=lvlOf(stats().xp);
@@ -108,6 +110,8 @@ function runs(){const days=[...allDays()].sort(),T=d=>Date.parse(d);let run=0,be
     if(gap<=1)cur=run;else if(gap===2&&bank>0){cur=run;pending=true}}
   return{cur,best,bank,used,pending}}
 function streak(){return runs().cur}
+const starsOf=f=>f==null?0:f>=.9?3:f>=.7?2:f>=.5?1:0;
+const starsHtml=n=>`<span class="stars s${n}" aria-label="${n} of 3 stars">${'★'.repeat(n)}${'☆'.repeat(3-n)}</span>`;
 const unitOf=id=>{const [p,u]=id.split('-');return MAP[p]?MAP[p].units[u][0]:'Review'};
 const esc=s=>String(s).replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
 const wreath=`<svg class="wreath" viewBox="0 0 200 110"><g style="fill:var(--goldd)">${[...Array(9)].map((_,i)=>{const a=(200-i*16)*Math.PI/180,x=100+70*Math.cos(a),y=100-70*Math.sin(a)*0.9;return `<ellipse cx="${x}" cy="${y}" rx="5" ry="12" transform="rotate(${-(200-i*16)+90} ${x} ${y})"/>`}).join('')}${[...Array(9)].map((_,i)=>{const a=(-20+i*16)*Math.PI/180,x=100+70*Math.cos(a),y=100-70*Math.sin(a)*0.9;return `<ellipse cx="${x}" cy="${y}" rx="5" ry="12" transform="rotate(${-(-20+i*16)+90} ${x} ${y})"/>`}).join('')}</g></svg>`;
@@ -132,7 +136,7 @@ function renderHome(){
   let h='',num=0;
   MAP.forEach((p,pi)=>{h+=`<div class="sec"><h3>${p.t}</h3><p>${p.p}</p></div>`;
     p.units.forEach((u,ui)=>{const live=u[1].some((_,k)=>IDX[`${pi}-${ui}-${k}`]);
-      h+=`<div class="unit${live?' live':''}${pi==0&&ui<2?' open':''}"><button onclick="this.parentNode.classList.toggle('open')" aria-label="${esc(u[0])}">${doodle(pi+'-'+ui)}<span class="t">${u[0]}${u[2]?'<em class="hy">Asked often</em>':''}</span><span class="c">${live?'Open':u[1].length+' lessons'}</span><span class="chev"></span></button><div class="ls"><div class="lsi">`;
+      h+=`<div class="unit${live?' live':''}${pi==0&&ui<2?' open':''}"><button onclick="this.parentNode.classList.toggle('open')" aria-label="${esc(u[0])}">${doodle(pi+'-'+ui)}<span class="t">${u[0]}${u[2]?'<em class="hy">Asked often</em>':''}</span>${u[1].every((_,k)=>IDX[`${pi}-${ui}-${k}`])?starsHtml(starsOf(S.tests&&S.tests[`${pi}-${ui}-T`])):''}<span class="c">${live?'Open':u[1].length+' lessons'}</span><span class="chev"></span></button><div class="ls"><div class="lsi">`;
       for(let k=0;k<u[1].length;k++){num++;const id=`${pi}-${ui}-${k}`,l=IDX[id];
         h+=l?`<button class="les${S.done[id]?' done':''}" onclick="openL('${id}')"><span class="num">${S.done[id]?'✓':num}</span>${l.title}${PYQ[id]?'<em class="pq">PYQ</em>':''}</button>`:`<div class="les soon"><span class="num">${num}</span>${u[1][k]}</div>`}
       if(u[1].every((_,k)=>IDX[`${pi}-${ui}-${k}`])){const tid=`${pi}-${ui}-T`,sc=S.tests&&S.tests[tid];h+=`<button class="les test" onclick="openTest(${pi},${ui})"><span class="num">✎</span>Chapter test${sc!=null?` · best ${Math.round(sc*100)}%`:''}</button>`}
@@ -164,10 +168,10 @@ async function openL(id,card){
     if(info){const sh=info.dia?'card':SH[(k+off)%SH.length],kind=sh.split(' ')[0];ph=photo(key,sh);cr=credit(key);
       /* floated shapes sit inside the text and let it wrap; dome / rectangles sit above, bowl / some rectangles below */
       const inText=/^(sq|semi|tall)$/.test(kind),below=kind==='bowl'||(kind==='card'&&(k+off)%3===2),above=!inText&&!below;
-      h+=`<div class="cd"><div class="ci marble ${c.cls||''}">${above?ph:''}<div class="cb">${inText?ph:''}<div class="tag">${c.tag}</div><h2>${c.h}</h2>${window.mathify?mathify(c.b):c.b}</div>${cr}${below?ph:''}</div></div>`;return}
+      h+=`<div class="cd"><div class="ci marble ${c.cls||''}">${bkBtn(k)}${above?ph:''}<div class="cb">${inText?ph:''}<div class="tag">${c.tag}</div><h2>${c.h}</h2>${window.mathify?mathify(c.b):c.b}</div>${cr}${below?ph:''}</div></div>`;return}
     /* no photo: a doodle goes above the title */
     d=dlib(DMAP[SUB.id+'/'+key],'dd pt');
-    h+=`<div class="cd"><div class="ci marble ${c.cls||''}"><div class="cb">${d}<div class="tag">${c.tag}</div><h2>${c.h}</h2>${window.mathify?mathify(c.b):c.b}</div></div></div>`});
+    h+=`<div class="cd"><div class="ci marble ${c.cls||''}">${bkBtn(k)}<div class="cb">${d}<div class="tag">${c.tag}</div><h2>${c.h}</h2>${window.mathify?mathify(c.b):c.b}</div></div></div>`});
   const pq=PYQ[id];
   if(pq&&pq.length)h+=`<div class="cd"><div class="ci marble"><div class="tag">Asked in UPSC</div><h2>Previous year questions</h2>${pq.map(x=>`<blockquote class="pyq">${esc(x.q)}<small>${x.y} · ${esc(x.p)}${x.m?' · '+x.m+' marks':''}</small></blockquote>`).join('')}</div></div>`;
   l.quiz.forEach((q,i)=>h+=`<div class="cd"><div class="ci marble"><div class="tag">${q._t?esc(q._t):`Question ${i+1} of ${l.quiz.length}`}</div><div class="qq">${fmtQ(q.q)}</div>${q.o.map((o,j)=>`<button class="opt" data-q="${i}" data-j="${j}">${o}</button>`).join('')}<div class="why" id="w${i}"></div></div></div>`);
@@ -176,7 +180,7 @@ async function openL(id,card){
     c.querySelectorAll('.dd.pt,.dd.pr,.dd.pl').forEach(d=>{if(c.scrollHeight>c.clientHeight+4)d.remove()})});
   deck.querySelectorAll('.ci').forEach(c=>{if(c.scrollHeight>c.clientHeight+4){const m=document.createElement('div');m.className='more';m.textContent='Scroll down for more';c.parentNode.appendChild(m);c.addEventListener('scroll',()=>{m.classList.toggle('gone',c.scrollTop+c.clientHeight>=c.scrollHeight-30)},{passive:true})}});
 }
-deck.addEventListener('click',e=>{const b=e.target.closest('.opt');if(!b)return;const q=+b.dataset.q,j=+b.dataset.j;if(ans[q]!==undefined)return;
+deck.addEventListener('click',e=>{const bk=e.target.closest('.bk');if(bk){const on=toggleSave(+bk.dataset.k);bk.classList.toggle('on',on);window.Feel&&Feel.play(on?'good':'tap');if(on)toast(`<span class="ltile sm">${LUM('study-4')}</span><span><small>Saved</small><b>Find it in Me, Saved cards</b></span>`);return}const b=e.target.closest('.opt');if(!b)return;const q=+b.dataset.q,j=+b.dataset.j;if(ans[q]!==undefined)return;
   const Q=L[cur].quiz[q];ans[q]=j===Q.a;window.Feel&&Feel.play(j===Q.a?'good':'bad');if(Q._r)rmark(Q._r.id,Q._r.q,j===Q.a);else if(j!==Q.a&&!cur.endsWith('-T'))rmark(cur,q,false);b.parentNode.querySelectorAll('.opt').forEach((o,k)=>{if(k===Q.a)o.classList.add('r');else if(k===j)o.classList.add('w')});
   const w=document.getElementById('w'+q);w.innerHTML=(j===Q.a?'<b>Correct.</b> ':'<b>Not quite.</b> ')+Q.w;w.classList.add('on');setTimeout(()=>w.scrollIntoView({behavior:CALM?'auto':'smooth',block:'nearest'}),250);
   if(Object.keys(ans).length===L[cur].quiz.length)finish()});
@@ -193,13 +197,13 @@ function finish(){const sc=Object.values(ans).filter(Boolean).length,n=L[cur].qu
   if(cur==='REVIEW'){xp+=3*sc;S.rv=(S.rv||0)+1;const left=n-sc;title=left?'Getting there':'All of them, first try';msg=left?`${left} will come back tomorrow. The rest return in a few days, then a week, then three weeks.`:'These return in a few days to make sure they stay.'}
   else if(cur==='DAILY'){xp+=25+5*sc+(sc===n?15:0);S.dc=[...new Set([...(S.dc||[]),today()])];title=sc===n?'A perfect day':sc>=n-1?'Daily challenge done':'Done for today';msg=sc===n?'Five for five. Come back tomorrow for a new set.':'The ones you missed go into your review. A new set arrives tomorrow.'}
   else if(cur==='MIX'){xp+=20+4*sc;S.mixBest=Math.max(S.mixBest||0,f);S.mixN=(S.mixN||0)+1;title=f>=.8?'Sharp recall':f>=.6?'Holding steady':'Rusty in places';msg=f>=.8?'That is what lasting memory looks like.':'The ones you missed will come back in your reviews.'}
-  else{if(cur.endsWith('-T')){xp+=10+4*sc;S.tests=S.tests||{};S.tests[cur]=Math.max(f,S.tests[cur]||0)}else{xp+=S.done[cur]?5+2*sc:30+5*sc;S.done[cur]=1;S.scores[cur]=f}
+  else{if(cur.endsWith('-T')){const st0=starsOf(S.tests&&S.tests[cur]);xp+=10+4*sc;S.tests=S.tests||{};S.tests[cur]=Math.max(f,S.tests[cur]||0);const st1=starsOf(S.tests[cur]);if(st1>st0)window.starUp=st1}else{xp+=S.done[cur]?5+2*sc:30+5*sc;S.done[cur]=1;S.scores[cur]=f}
     title=f>=.8?'Laurels earned':f>=.6?'Solid work':'Worth another read';msg=f>=.8?'You know this well enough to write on it.':f>=.6?'Skim the cards you missed once more.':'Come back to this one tomorrow.'}
   S.log=S.log||{};{const lg=S.log[today()]=S.log[today()]||{l:0,xp:0,a:0,n:0};lg.xp+=xp;lg.a+=sc;lg.n+=n;if(firstLesson)lg.l++}
   S.xp=(S.xp||0)+xp;save();pushSync();window.Feel&&Feel.play(f>=.6?'done':'tap');
   document.getElementById('end').innerHTML=`${meter(sc,n,f)}<h2 style="margin-top:6px">${title}</h2><p>${msg}</p>${xpLine(xp,lv0)}<button class="start" onclick="back()">Back to the syllabus</button>`;
   setTimeout(()=>{countUp(document.getElementById('scN'),sc);animMeter(f)},300);
-  setTimeout(()=>{checkBadges();const v=lvlOf(stats().xp);if(v.n>lv0){window.Feel&&Feel.play('level')}if(v.n>lv0)toast(`<span class="ltile sm">${LUM('rewards-6')}</span><span><small>Level up</small><b>Level ${v.n} · ${v.name}</b></span>`)},1400)}
+  setTimeout(()=>{if(window.starUp){const n=window.starUp;window.starUp=0;window.Feel&&Feel.play(n===3?'level':'badge');window.confetti&&confetti(n===3?150:70);toast(`<span class="ltile sm">${LUM(n===3?'rewards-3':'rewards-2')}</span><span><small>Chapter stars</small><b>${'★'.repeat(n)}${'☆'.repeat(3-n)} Case closed</b></span>`)}checkBadges();const v=lvlOf(stats().xp);if(v.n>lv0){window.Feel&&Feel.play('level');window.confetti&&confetti(170)}if(v.n>lv0)toast(`<span class="ltile sm">${LUM('rewards-6')}</span><span><small>Level up</small><b>Level ${v.n} · ${v.name}</b></span>`)},1400)}
 let curCard=0;const io=new IntersectionObserver(es=>es.forEach(e=>{if(e.isIntersecting)e.target.classList.add('in')}),{threshold:.35});
 let lastI=-1;
 function upd(){const n=deck.children.length,i=Math.round(deck.scrollLeft/deck.clientWidth),nc=window.LCOUNT||0,nq=(L[cur]&&L[cur].quiz.length)||0;curCard=i-1;
@@ -350,6 +354,13 @@ const mk=(u,cls)=>`<i class="${cls}" style="--u:url('${u}')"></i>`;
 const doodle=(id,cls='dd')=>{const [p,u]=id.split('-'),k=p+'-'+u;return SUB&&((DOODLES.units||{})[SUB.id]||[]).includes(k)?mk(`art/doodles/${SUB.id}/${k}.svg`,cls):''};
 // lesson doodles: cover (lessonId) and key cards (lessonId_k)
 let DMAP={};
+const svKey=(sid,id,k)=>`${sid}/${id}_${k}`;
+const isSaved=(id,k)=>!!(S.sv||[]).find(x=>x.key===svKey(SUB.id,id,k)&&!x.x);
+const bkBtn=k=>/^(REVIEW|MIX|DAILY)$|-T$/.test(cur)?'':`<button class="bk${isSaved(cur,k)?' on':''}" data-k="${k}" aria-label="Save this card"></button>`;
+function toggleSave(k){const key=svKey(SUB.id,cur,k),l=L[cur],c=l&&l.cards[k];if(!c)return false;S.sv=S.sv||[];const x=S.sv.find(y=>y.key===key);
+  if(x&&!x.x){x.x=1;x.ts=Date.now();save();return false}
+  if(x){x.x=0;x.ts=Date.now()}else S.sv.push({key,s:SUB.id,id:cur,k,t:l.title,h:c.h,ts:Date.now()});save();return true}
+
 /* doodle library: one doodle, or a pair shown side by side (second one slightly lower), picked per card by doodle-map.json */
 const dlib=(ids,cls)=>{if(!ids||!ids.length)return '';const one=i=>`<i class="dd ${ids.length>1?'dp':cls.replace(/^dd /,'')}" style="--u:url('art/doodle-lib/${i}.svg')"></i>`;
   return ids.length>1?`<div class="ddpair ${cls.replace(/^dd /,'')}">${ids.slice(0,2).map(one).join('')}</div>`:`<i class="${cls}" style="--u:url('art/doodle-lib/${ids[0]}.svg')"></i>`};

@@ -44,7 +44,9 @@ function renderExtras(){
     const st=m?weekStats(m):null,show=m&&seen!==key&&st&&(st.lessons||st.n||st.days);
     rc.hidden=!show;if(show){rc.onclick=()=>openRecap(m,true);rc.innerHTML=`<span class="ltile">${LUM('rewards-3')}</span><div><div class="day">Your week</div><b>${st.lessons} lesson${st.lessons==1?'':'s'}, ${st.xp} XP</b><small>See your weekly recap</small></div><span class="go">Open</span>`}}
 }
-window.renderExtras=renderExtras;
+function renderBlitzCard(){const bc=$('blitzcard');if(!bc)return;const nd=Object.keys(S.done).filter(i=>!i.endsWith('-T')).length;bc.hidden=nd<3;
+  if(nd>=3){bc.onclick=openBlitz;bc.innerHTML=`<span class="ltile">${LUM('sunglasses-6')}</span><div><div class="day">Blitz</div><b>60 seconds, how many can you get?</b><small>${S.blitzBest?'Best '+S.blitzBest+' · ':''}combos multiply your score</small></div><span class="go">Go</span>`}}
+const _re=renderExtras;window.renderExtras=function(){_re();renderGoal();renderBlitzCard()};
 
 /* ---------- recap sheet ---------- */
 function modal(html,cls){const old=$('xmodal');if(old)old.remove();const m=document.createElement('div');m.id='xmodal';m.className='xm '+(cls||'');m.innerHTML=`<div class="xm-in marble"><button class="x xm-x" aria-label="Close">×</button>${html}</div>`;
@@ -123,4 +125,60 @@ async function shareCard(kind,d){
 window.shareCard=shareCard;
 window.shareStreak=()=>{const r=runs();shareCard('streak',{n:r.cur,bank:r.bank,sub:`${stats().lessons} lessons finished · level ${lvlOf(stats().xp).n}`})};
 window.shareBadge=id=>{const b=badgeState().all.find(x=>x.id===id);if(b&&b.got)shareCard('badge',{name:b.t,desc:b.d,tier:b.tier,pose:(window.BADGEPOSE||{})[id]||'rewards-2'})};
+
+/* ---------- confetti ---------- */
+window.confetti=(n=120)=>{if(typeof CALM!=='undefined'&&CALM)return;const c=document.createElement('canvas');c.className='confetti';const dpr=Math.min(devicePixelRatio||1,2),W=innerWidth,H=innerHeight;c.width=W*dpr;c.height=H*dpr;c.style.cssText='position:fixed;inset:0;width:100%;height:100%;pointer-events:none;z-index:95';document.body.appendChild(c);
+  const g=c.getContext('2d');g.scale(dpr,dpr);const gold=(getComputedStyle(document.documentElement).getPropertyValue('--gold')||'#f2c46d').trim();const cols=[gold,'#fff4c7','#ffffff','#7fe0c4','#ff8fa3','#9fd3ff'];
+  const P=Array.from({length:n},()=>({x:W/2+(Math.random()-.5)*W*.5,y:H*.3,vx:(Math.random()-.5)*14,vy:-6-Math.random()*10,w:5+Math.random()*7,h:3+Math.random()*6,r:Math.random()*6,vr:(Math.random()-.5)*.4,c:cols[Math.floor(Math.random()*cols.length)]}));
+  const t0=performance.now();(function f(t){const el=t-t0;g.clearRect(0,0,W,H);let alive=0;for(const p of P){p.vy+=.34;p.vx*=.992;p.x+=p.vx;p.y+=p.vy;p.r+=p.vr;if(p.y<H+20)alive++;g.save();g.translate(p.x,p.y);g.rotate(p.r);g.globalAlpha=Math.max(0,1-el/3200);g.fillStyle=p.c;g.fillRect(-p.w/2,-p.h/2,p.w,p.h);g.restore()}
+    if(alive&&el<3200)requestAnimationFrame(f);else c.remove()})(t0)};
+
+/* ---------- daily goal ring ---------- */
+const lget=k=>{try{return localStorage.getItem(k)}catch(e){return null}},lset=(k,v)=>{try{localStorage.setItem(k,v)}catch(e){}};
+const goalN=()=>{const v=parseInt(lget('lb:goal'),10);return[1,2,3].includes(v)?v:1};
+function todayLessons(){let n=0;try{for(const{p}of allS()){const g=(p.log||{})[today()];if(g)n+=g.l||0}}catch(e){}return n}
+function renderGoal(){const el=$('goal');if(!el)return;const g=goalN(),done=todayLessons(),n=Math.min(done,g),R=21,C=2*Math.PI*R;
+  el.innerHTML=`<svg class="gr" viewBox="0 0 50 50" aria-hidden="true"><circle cx="25" cy="25" r="${R}" class="bg"/><circle cx="25" cy="25" r="${R}" class="fg" stroke-dasharray="${C.toFixed(1)}" stroke-dashoffset="${(C*(1-n/g)).toFixed(1)}" transform="rotate(-90 25 25)"/><text x="25" y="30" text-anchor="middle">${n}/${g}</text></svg><div class="gt"><b>${n>=g?'Daily goal done':'Daily goal'}</b><small>${n>=g?'Anything more is bonus.':`${g-n} lesson${g-n>1?'s':''} to go today`}</small></div><button class="gset" aria-label="Change daily goal">${g} a day</button>`;
+  el.classList.toggle('met',n>=g);
+  el.querySelector('.gset').onclick=()=>{lset('lb:goal',String(goalN()%3+1));window.Feel&&Feel.play('tap');renderGoal()};
+  if(n>=g&&lget('lb:goalDone')!==today()){lset('lb:goalDone',today());setTimeout(()=>{window.Feel&&Feel.play('done');confetti(100);toast(`<span class="ltile sm">${LUM('rewards-2')}</span><span><small>Daily goal</small><b>Goal reached today</b></span>`)},500)}}
+
+/* ---------- Blitz: 60 seconds, combo multiplier ---------- */
+async function openBlitz(){
+  const done=Object.keys(S.done).filter(i=>IDX[i]&&!i.endsWith('-T'));if(done.length<3)return;
+  const pool=[...done].sort(()=>Math.random()-.5).slice(0,14);let qs=[];
+  try{const ls_=await Promise.all(pool.map(getLesson));ls_.forEach((l,j)=>l.quiz.forEach((q,qi)=>qs.push({...q,_r:{id:pool[j],q:qi}})))}catch(e){alert('Blitz could not load. Check your connection.');return}
+  const short=qs.filter(q=>q.q.length<150&&!q.q.includes('\n')&&q.o.every(o=>o.length<70));if(short.length>=12)qs=short;
+  qs.sort(()=>Math.random()-.5);
+  const old=$('xmodal');if(old)old.remove();
+  const m=document.createElement('div');m.id='xmodal';m.className='xm blz';document.body.appendChild(m);
+  const st={t:60,score:0,combo:0,ok:0,n:0,i:0,lock:false,over:false,wrong:[]};const best0=S.blitzBest||0;
+  const mult=()=>1+Math.min(3,Math.floor(st.combo/3));
+  function draw(){const q=qs[st.i%qs.length];
+    m.innerHTML=`<div class="blz-in"><div class="blz-top"><button class="x" id="bzX" aria-label="Quit">×</button><div class="blz-bar"><i id="bzBar" style="width:${st.t/60*100}%"></i></div><b id="bzT">${Math.ceil(st.t)}</b></div>
+      <div class="blz-score"><span id="bzS">${st.score}</span><em id="bzM" class="${mult()>1?'on':''}">x${mult()}</em></div>
+      <div class="blz-q">${fmtQ(q.q)}</div><div class="blz-opts">${q.o.map((o,j)=>`<button class="blz-o" data-j="${j}">${o}</button>`).join('')}</div></div>`;
+    m.querySelector('#bzX').onclick=()=>{st.over=true;clearInterval(tm);m.remove()};
+    m.querySelectorAll('.blz-o').forEach(b=>b.onclick=()=>answer(b,q))}
+  function answer(b,q){if(st.lock||st.over)return;st.lock=true;const j=+b.dataset.j,ok=j===q.a;st.n++;
+    if(ok){st.ok++;st.score+=10*mult();st.combo++;window.Feel&&Feel.play('good');if(st.combo===5||st.combo===10)window.Feel&&Feel.play('combo')}
+    else{st.combo=0;window.Feel&&Feel.play('bad');st.wrong.push(q._r)}
+    try{rmark(q._r.id,q._r.q,ok)}catch(e){}
+    b.classList.add(ok?'r':'w');if(!ok)m.querySelectorAll('.blz-o')[q.a].classList.add('r');
+    $('bzS').textContent=st.score;const mm=$('bzM');mm.textContent='x'+mult();mm.classList.toggle('on',mult()>1);
+    setTimeout(()=>{st.lock=false;st.i++;if(!st.over)draw()},ok?320:900)}
+  draw();
+  const tm=setInterval(()=>{if(st.over){clearInterval(tm);return}st.t-=.1;const bar=$('bzBar'),t=$('bzT');if(bar)bar.style.width=Math.max(0,st.t/60*100)+'%';if(t)t.textContent=Math.max(0,Math.ceil(st.t));
+    if(st.t<=0){st.over=true;clearInterval(tm);finishBlitz()}},100);
+  function finishBlitz(){
+    let xp=Math.min(40,Math.round(st.score/8));if(!S.days.includes(today())){xp+=10;S.days.push(today())}
+    const rec=st.score>best0&&best0>0,first=st.score>0&&best0===0;S.blitzBest=Math.max(best0,st.score);S.blitzN=(S.blitzN||0)+1;S.xp=(S.xp||0)+xp;
+    S.log=S.log||{};{const lg=S.log[today()]=S.log[today()]||{l:0,xp:0,a:0,n:0};lg.xp+=xp;lg.a+=st.ok;lg.n+=st.n}
+    save();pushSync();window.Feel&&Feel.play(st.score>=300?'done':'tap');if(rec||st.score>=500)setTimeout(()=>confetti(rec?150:80),400);
+    m.innerHTML=`<div class="blz-in blz-end"><span class="ltile lg">${LUM(st.score>=500?'rewards-3':st.score>=200?'streak-1':'daily-1')}</span><div class="tag">Blitz</div><h2>${st.score} points</h2><p>${st.ok} of ${st.n} right${rec?' · <b>new best</b>':(first||!S.blitzBest)?'':` · best ${S.blitzBest}`}</p><p class="blz-xp">+${xp} XP</p><div class="rc-btns"><button class="start" id="bzAgain">Go again</button><a class="linkbtn" id="bzDone">Done</a></div></div>`;
+    m.querySelector('#bzAgain').onclick=()=>{m.remove();openBlitz()};m.querySelector('#bzDone').onclick=()=>{m.remove();renderHome&&renderHome()};
+    setTimeout(()=>{checkBadges()},900)}
+}
+window.openBlitz=openBlitz;
+
 })();
